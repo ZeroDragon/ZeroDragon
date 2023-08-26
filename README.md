@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to learn javascript fasted way](https://dev.to/dhirajmani/how-to-learn-javascript-fasted-way-1a54)
+- [Dev.to/JS] [JavaScript Promise: .all&lpar;&rpar; vs .allSettled&lpar;&rpar; and .race&lpar;&rpar; vs .any&lpar;&rpar;](https://dev.to/shameel/javascript-promise-all-vs-allsettled-and-race-vs-any-3foj)
+- [Dev.to/JS] [🚀 Dominate React Project Startups: Insider Tips for Dev Success! 🤓](https://dev.to/0ro/dominate-react-project-startups-insider-tips-for-dev-success-4c21)
 - [Dev.to/JS] [Memory Management in JavaScript](https://dev.to/syedmuhammadaliraza/memory-management-in-javascript-5gjk)
 - [Dev.to/JS] [Mastering The Web : TypeScript Vs JavaScript Showdown](https://dev.to/mlscgescoe/mastering-the-web-typescript-vs-javascript-showdown-2ke0)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript&#39;s async function and topological ordering](https://dev.to/artxe2/javascripts-async-function-and-topological-ordering-51f8)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
 - [Dev.to/JS] [I need a web project](https://dev.to/armineslamieh/i-need-a-web-project-56gl)
-- [Dev.to/JS] [The best platform to build serverless apps on in 2023](https://dev.to/kalashin1/the-best-platform-to-build-serverless-apps-on-in-2023-2kof)
-- [Dev.to/JS] [JavaScript 🐲 challenges_6 ⚔️](https://dev.to/mahmoudessam/javascript-challenges6-2fd1)
-- [Dev.to/JS] [Relatos durante o desenvolvimento do projeto](https://dev.to/itspedro/relatos-durante-o-desenvolvimento-do-projeto-4996)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
