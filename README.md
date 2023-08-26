@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using tagged template literals to syntax highlight code in strings](https://dev.to/boyum/using-tagged-template-literals-to-syntax-highlight-code-in-strings-4h1i)
+- [Dev.to/JS] [Introduction to Sets in JavaScript: A Comprehensive Guide](https://dev.to/abidullah786/introduction-to-sets-in-javascript-a-comprehensive-guide-3d68)
+- [Dev.to/JS] [Pune Escorts Services: Exploring a World of Connection and Luxury](https://dev.to/arohikapoor/pune-escorts-services-exploring-a-world-of-connection-and-luxury-88d)
 - [Dev.to/JS] [Cortexi Reviews 2023 - Ear Drops, Ingredients, Reviews, Benefits &amp; Price?](https://dev.to/cortexibuy2023/cortexi-reviews-2023-ear-drops-ingredients-reviews-benefits-price-3apl)
 - [Dev.to/JS] [Latest Newsletter: Bingeing the Past and Building the Future &lpar;Issue #129&rpar;](https://dev.to/mjgs/latest-newsletter-bingeing-the-past-and-building-the-future-issue-129-2mld)
 - [Dev.to/JS] [Web Application Debugging with Sentry Session Replay: Comprehensive Walkthrough 🚀🚀](https://dev.to/suharyadi2112/web-application-debugging-with-sentry-session-replay-comprehensive-walkthrough-286h)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [EasyCaptchaJS: Simplified reCAPTCHA Integration](https://dev.to/hichemtab-tech/easycaptchajs-simplified-recaptcha-integration-3d6i)
 - [Dev.to/JS] [SysCorp Technology PVT LTD](https://dev.to/pukazhsyscorp/syscorp-technology-pvt-ltd-2afe)
 - [Dev.to/JS] [JavaScript : Closures &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-closures-englishhindi-p3e)
-- [Dev.to/JS] [MY NEW WEBSITE [Free AI image creator]](https://dev.to/mygyt11/my-new-website-free-ai-image-creator-5c75)
-- [Dev.to/JS] [Interview at MMT](https://dev.to/zeeshanali0704/interview-at-mmt-3hge)
-- [Dev.to/JS] [What is PWA - Progressive Web App?](https://dev.to/zeeshanali0704/progressive-web-app-20m6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
 - [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
