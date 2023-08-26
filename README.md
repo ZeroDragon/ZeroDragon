@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Custom Hook to Track User&#39;s Online/Offline Status in React](https://dev.to/anjankarmakar/building-a-custom-hook-to-track-users-onlineoffline-status-in-react-12h6)
+- [Dev.to/JS] [Находки по разработке 3](https://dev.to/potykion/nakhodki-po-razrabotkie-3-20ac)
+- [Dev.to/JS] [How to turn text into music with Facebook&#39;s MusicGen](https://dev.to/mikeyoung44/how-to-turn-text-into-music-with-facebooks-musicgen-1jp7)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
 - [Dev.to/JS] [React.js Hooks: A Quick Guide](https://dev.to/pulkit30/reactjs-hooks-a-quick-guide-1le2)
 - [Dev.to/JS] [HTTP Cookie in browser](https://dev.to/zeeshanali0704/http-cookie-in-browser-3hbc)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cortexi Reviews 2023 - Ear Drops, Ingredients, Reviews, Benefits &amp; Price?](https://dev.to/cortexibuy2023/cortexi-reviews-2023-ear-drops-ingredients-reviews-benefits-price-3apl)
 - [Dev.to/JS] [Latest Newsletter: Bingeing the Past and Building the Future &lpar;Issue #129&rpar;](https://dev.to/mjgs/latest-newsletter-bingeing-the-past-and-building-the-future-issue-129-2mld)
 - [Dev.to/JS] [Web Application Debugging with Sentry Session Replay: Comprehensive Walkthrough 🚀🚀](https://dev.to/suharyadi2112/web-application-debugging-with-sentry-session-replay-comprehensive-walkthrough-286h)
-- [Dev.to/JS] [Elevate Your Buttons with CopyShareify-js: Copy, Share, and More!](https://dev.to/hichemtab-tech/elevate-your-buttons-with-copyshareify-js-copy-share-and-more-48h0)
-- [Dev.to/JS] [The Art of Earning with Amazon&#39;s Affiliate Program](https://dev.to/_official_digiupdatehub_/the-art-of-earning-with-amazons-affiliate-program-28n4)
-- [Dev.to/JS] [Introducing OTP Designer jQuery Plugin](https://dev.to/hichemtab-tech/introducing-otp-designer-jquery-plugin-45ph)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
 - [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
