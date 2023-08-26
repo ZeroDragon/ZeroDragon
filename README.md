@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
+- [Dev.to/JS] [I need a web project](https://dev.to/armineslamieh/i-need-a-web-project-56gl)
+- [Dev.to/JS] [The best platform to build serverless apps on in 2023](https://dev.to/kalashin1/the-best-platform-to-build-serverless-apps-on-in-2023-2kof)
+- [Dev.to/JS] [JavaScript 🐲 challenges_6 ⚔️](https://dev.to/mahmoudessam/javascript-challenges6-2fd1)
+- [Dev.to/JS] [Relatos durante o desenvolvimento do projeto](https://dev.to/itspedro/relatos-durante-o-desenvolvimento-do-projeto-4996)
 - [Dev.to/JS] [Building a Custom Hook to Track User&#39;s Online/Offline Status in React](https://dev.to/anjankarmakar/building-a-custom-hook-to-track-users-onlineoffline-status-in-react-12h6)
 - [Dev.to/JS] [Находки по разработке 3](https://dev.to/potykion/nakhodki-po-razrabotkie-3-20ac)
 - [Dev.to/JS] [How to turn text into music with Facebook&#39;s MusicGen](https://dev.to/mikeyoung44/how-to-turn-text-into-music-with-facebooks-musicgen-1jp7)
@@ -35,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [✨🕵️‍♂️ Top 7 things I check most in PRs as a Frontend developer](https://dev.to/juanoa/top-7-things-i-check-most-in-prs-as-a-frontend-developer-43jn)
 - [Dev.to/JS] [Using tagged template literals to syntax highlight code in strings](https://dev.to/boyum/using-tagged-template-literals-to-syntax-highlight-code-in-strings-4h1i)
 - [Dev.to/JS] [Introduction to Sets in JavaScript: A Comprehensive Guide](https://dev.to/abidullah786/introduction-to-sets-in-javascript-a-comprehensive-guide-3d68)
-- [Dev.to/JS] [Pune Escorts Services: Exploring a World of Connection and Luxury](https://dev.to/arohikapoor/pune-escorts-services-exploring-a-world-of-connection-and-luxury-88d)
-- [Dev.to/JS] [Cortexi Reviews 2023 - Ear Drops, Ingredients, Reviews, Benefits &amp; Price?](https://dev.to/cortexibuy2023/cortexi-reviews-2023-ear-drops-ingredients-reviews-benefits-price-3apl)
-- [Dev.to/JS] [Latest Newsletter: Bingeing the Past and Building the Future &lpar;Issue #129&rpar;](https://dev.to/mjgs/latest-newsletter-bingeing-the-past-and-building-the-future-issue-129-2mld)
-- [Dev.to/JS] [Web Application Debugging with Sentry Session Replay: Comprehensive Walkthrough 🚀🚀](https://dev.to/suharyadi2112/web-application-debugging-with-sentry-session-replay-comprehensive-walkthrough-286h)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
 - [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Free Google Chrome Extensions Everyone Should Use](https://lifehacker.com/best-free-google-chrome-extensions-1847860706?utm_source=regular)
 - [Lifehacker] [uTalk and StackSkills Are $30 Right Now](https://lifehacker.com/utalk-and-stackskills-are-30-right-now-1850768508?utm_source=regular)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Bama Rush](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-bama-rush-1850773022?utm_source=regular)
-- [Lifehacker] [Netflix Wants to Give You 10 Free DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439?utm_source=regular)
-- [Lifehacker] [Get a Jackery Power Station for up to 30% Off Right Now](https://lifehacker.com/get-a-jackery-power-station-for-up-to-30-off-right-now-1850772010?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Netflix Wants to Give You 10 Free DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
