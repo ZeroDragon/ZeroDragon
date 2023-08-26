@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
+- [Dev.to/JS] [React.js Hooks: A Quick Guide](https://dev.to/pulkit30/reactjs-hooks-a-quick-guide-1le2)
 - [Dev.to/JS] [HTTP Cookie in browser](https://dev.to/zeeshanali0704/http-cookie-in-browser-3hbc)
 - [Dev.to/JS] [✨🕵️‍♂️ Top 7 things I check most in PRs as a Frontend developer](https://dev.to/juanoa/top-7-things-i-check-most-in-prs-as-a-frontend-developer-43jn)
 - [Dev.to/JS] [Using tagged template literals to syntax highlight code in strings](https://dev.to/boyum/using-tagged-template-literals-to-syntax-highlight-code-in-strings-4h1i)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Elevate Your Buttons with CopyShareify-js: Copy, Share, and More!](https://dev.to/hichemtab-tech/elevate-your-buttons-with-copyshareify-js-copy-share-and-more-48h0)
 - [Dev.to/JS] [The Art of Earning with Amazon&#39;s Affiliate Program](https://dev.to/_official_digiupdatehub_/the-art-of-earning-with-amazons-affiliate-program-28n4)
 - [Dev.to/JS] [Introducing OTP Designer jQuery Plugin](https://dev.to/hichemtab-tech/introducing-otp-designer-jquery-plugin-45ph)
-- [Dev.to/JS] [EasyCaptchaJS: Simplified reCAPTCHA Integration](https://dev.to/hichemtab-tech/easycaptchajs-simplified-recaptcha-integration-3d6i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
 - [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [uTalk and StackSkills Are $30 Right Now](https://lifehacker.com/utalk-and-stackskills-are-30-right-now-1850768508?utm_source=regular)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Bama Rush](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-bama-rush-1850773022?utm_source=regular)
 - [Lifehacker] [Netflix Wants to Give You 10 Free DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439?utm_source=regular)
-- [Lifehacker] [Get a Jackery Power Station for up to 30% Off Right Now](https://lifehacker.com/get-a-jackery-power-station-for-up-to-30-off-right-now-1850772010?utm_source=regular)
-- [Lifehacker] [You Can Apply Now to Lower Your Monthly Student Loan Payment](https://lifehacker.com/you-can-apply-now-to-lower-your-monthly-student-loan-pa-1850770373?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get a Jackery Power Station for up to 30% Off Right Now](https://lifehacker.com/get-a-jackery-power-station-for-up-to-30-off-right-now-1850772010?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
