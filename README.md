@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
+- [Dev.to/JS] [How Much JavaScript Do You Need to Know Before Learning React?](https://dev.to/shubhadip_bhowmik/how-much-javascript-do-you-need-to-know-before-learning-react-19bl)
+- [Dev.to/JS] [Arrays Decoded: A Deep Dive into JavaScript&#39;s Dynamic Data Containers](https://dev.to/vishal_krishna/arrays-decoded-a-deep-dive-into-javascripts-dynamic-data-containers-5e5d)
+- [Dev.to/JS] [Turn Nest.Js into Serverless with Nitric in a few seconds](https://dev.to/nyomansunima/turn-nestjs-into-serverless-with-nitric-in-a-few-seconds-ag4)
 - [Dev.to/JS] [the dawn of solana on chainparser](https://dev.to/mawut0r/the-dawn-of-solana-on-chainparser-35oh)
 - [Dev.to/JS] [Learning JavaScript the easy way: Scopes and Hoisting](https://dev.to/unkletayo/learning-javascript-the-easy-way-scopes-and-hoisting-23km)
 - [Dev.to/JS] [JavaScript&#39;s async function and topological ordering](https://dev.to/artxe2/javascripts-async-function-and-topological-ordering-51f8)
@@ -36,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Relatos durante o desenvolvimento do projeto](https://dev.to/itspedro/relatos-durante-o-desenvolvimento-do-projeto-4996)
 - [Dev.to/JS] [Building a Custom Hook to Track User&#39;s Online/Offline Status in React](https://dev.to/anjankarmakar/building-a-custom-hook-to-track-users-onlineoffline-status-in-react-12h6)
 - [Dev.to/JS] [Находки по разработке 3](https://dev.to/potykion/nakhodki-po-razrabotkie-3-20ac)
-- [Dev.to/JS] [How to turn text into music with Facebook&#39;s MusicGen](https://dev.to/mikeyoung44/how-to-turn-text-into-music-with-facebooks-musicgen-1jp7)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
-- [Dev.to/JS] [React.js Hooks: A Quick Guide](https://dev.to/pulkit30/reactjs-hooks-a-quick-guide-1le2)
-- [Dev.to/JS] [HTTP Cookie in browser](https://dev.to/zeeshanali0704/http-cookie-in-browser-3hbc)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
 - [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Might Need a Special Education Advocate](https://lifehacker.com/why-you-might-need-a-special-education-advocate-1850772488?utm_source=regular)
 - [Lifehacker] [The Best Free Google Chrome Extensions Everyone Should Use](https://lifehacker.com/best-free-google-chrome-extensions-1847860706?utm_source=regular)
 - [Lifehacker] [uTalk and StackSkills Are $30 Right Now](https://lifehacker.com/utalk-and-stackskills-are-30-right-now-1850768508?utm_source=regular)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Bama Rush](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-bama-rush-1850773022?utm_source=regular)
-- [Lifehacker] [Netflix Wants to Give You 10 Free DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Bama Rush](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-bama-rush-1850773022?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
