@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTTP Cookie in browser](https://dev.to/zeeshanali0704/http-cookie-in-browser-3hbc)
+- [Dev.to/JS] [✨🕵️‍♂️ Top 7 things I check most in PRs as a Frontend developer](https://dev.to/juanoa/top-7-things-i-check-most-in-prs-as-a-frontend-developer-43jn)
 - [Dev.to/JS] [Using tagged template literals to syntax highlight code in strings](https://dev.to/boyum/using-tagged-template-literals-to-syntax-highlight-code-in-strings-4h1i)
 - [Dev.to/JS] [Introduction to Sets in JavaScript: A Comprehensive Guide](https://dev.to/abidullah786/introduction-to-sets-in-javascript-a-comprehensive-guide-3d68)
 - [Dev.to/JS] [Pune Escorts Services: Exploring a World of Connection and Luxury](https://dev.to/arohikapoor/pune-escorts-services-exploring-a-world-of-connection-and-luxury-88d)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Art of Earning with Amazon&#39;s Affiliate Program](https://dev.to/_official_digiupdatehub_/the-art-of-earning-with-amazons-affiliate-program-28n4)
 - [Dev.to/JS] [Introducing OTP Designer jQuery Plugin](https://dev.to/hichemtab-tech/introducing-otp-designer-jquery-plugin-45ph)
 - [Dev.to/JS] [EasyCaptchaJS: Simplified reCAPTCHA Integration](https://dev.to/hichemtab-tech/easycaptchajs-simplified-recaptcha-integration-3d6i)
-- [Dev.to/JS] [SysCorp Technology PVT LTD](https://dev.to/pukazhsyscorp/syscorp-technology-pvt-ltd-2afe)
-- [Dev.to/JS] [JavaScript : Closures &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-closures-englishhindi-p3e)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
 - [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
