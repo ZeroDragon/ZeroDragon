@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [the dawn of solana on chainparser](https://dev.to/mawut0r/the-dawn-of-solana-on-chainparser-35oh)
+- [Dev.to/JS] [Learning JavaScript the easy way: Scopes and Hoisting](https://dev.to/unkletayo/learning-javascript-the-easy-way-scopes-and-hoisting-23km)
+- [Dev.to/JS] [JavaScript&#39;s async function and topological ordering](https://dev.to/artxe2/javascripts-async-function-and-topological-ordering-51f8)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
 - [Dev.to/JS] [I need a web project](https://dev.to/armineslamieh/i-need-a-web-project-56gl)
 - [Dev.to/JS] [The best platform to build serverless apps on in 2023](https://dev.to/kalashin1/the-best-platform-to-build-serverless-apps-on-in-2023-2kof)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
 - [Dev.to/JS] [React.js Hooks: A Quick Guide](https://dev.to/pulkit30/reactjs-hooks-a-quick-guide-1le2)
 - [Dev.to/JS] [HTTP Cookie in browser](https://dev.to/zeeshanali0704/http-cookie-in-browser-3hbc)
-- [Dev.to/JS] [✨🕵️‍♂️ Top 7 things I check most in PRs as a Frontend developer](https://dev.to/juanoa/top-7-things-i-check-most-in-prs-as-a-frontend-developer-43jn)
-- [Dev.to/JS] [Using tagged template literals to syntax highlight code in strings](https://dev.to/boyum/using-tagged-template-literals-to-syntax-highlight-code-in-strings-4h1i)
-- [Dev.to/JS] [Introduction to Sets in JavaScript: A Comprehensive Guide](https://dev.to/abidullah786/introduction-to-sets-in-javascript-a-comprehensive-guide-3d68)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
 - [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
