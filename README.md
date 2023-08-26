@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
+- [Dev.to/JS] [Mastering the Art of Learning: Strategies for Effective Learning and Procrastination Prevention](https://dev.to/typeerrordev/mastering-the-art-of-learning-strategies-for-effective-learning-and-procrastination-prevention-21cl)
 - [Dev.to/JS] [The Future of Module Federation](https://dev.to/scriptedalchemy/the-future-of-module-federation-5h43)
 - [Dev.to/JS] [I want your opinion!](https://dev.to/kallarari/i-want-your-opinion-4gm9)
 - [Dev.to/JS] [React Custom Hooks: useDebounce](https://dev.to/codebayu/react-custom-hooks-usedebounce-4il9)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Custom Hook: useRenderCount](https://dev.to/sergeyleschev/react-custom-hook-userendercount-192p)
 - [Lifehacker] [Make Better Cloudy Lemonade With Air Fried Lemons](https://lifehacker.com/make-better-cloudy-lemonade-with-air-fried-lemons-1850775802?utm_source=regular)
 - [Dev.to/JS] [How to build AWS State Machines using AWS CDK - Part I](https://dev.to/pmca/how-to-build-aws-state-machines-using-aws-cdk-part-i-31hp)
-- [Dev.to/JS] [Giving an HTML date input a placeholder with JavaScript](https://dev.to/grntco/giving-an-html-date-input-a-placeholder-with-javascript-24hd)
 - [Lifehacker] [You Can Book an 8-Night Trip to Thailand for $1,099 Right Now](https://lifehacker.com/you-can-book-an-8-night-trip-to-thailand-for-1-099-rig-1850775848?utm_source=regular)
 - [Lifehacker] [The Routine Home Maintenance Tasks You Should Never Let Slide](https://lifehacker.com/the-most-important-home-maintenance-tasks-1850774692?utm_source=regular)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in September 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-september-2023-1850775435?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Bama Rush](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-bama-rush-1850773022?utm_source=regular)
 - [Lifehacker] [Netflix Wants to Give You 10 Free DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439?utm_source=regular)
 - [Lifehacker] [Get a Jackery Power Station for up to 30% Off Right Now](https://lifehacker.com/get-a-jackery-power-station-for-up-to-30-off-right-now-1850772010?utm_source=regular)
-- [Lifehacker] [You Can Apply Now to Lower Your Monthly Student Loan Payment](https://lifehacker.com/you-can-apply-now-to-lower-your-monthly-student-loan-pa-1850770373?utm_source=regular)
-- [Lifehacker] [You Should Save Your Chile Water](https://lifehacker.com/you-should-save-your-chile-water-1850772371?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Apply Now to Lower Your Monthly Student Loan Payment](https://lifehacker.com/you-can-apply-now-to-lower-your-monthly-student-loan-pa-1850770373?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
