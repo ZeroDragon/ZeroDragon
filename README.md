@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interview at MMT](https://dev.to/zeeshanali0704/interview-at-mmt-3hge)
+- [Dev.to/JS] [What is PWA - Progressive Web App?](https://dev.to/zeeshanali0704/progressive-web-app-20m6)
 - [Dev.to/JS] [Programmers need to learn &quot;not to be the frog in the warm water&quot;](https://dev.to/ocean678/programmers-need-to-learn-not-to-be-the-frog-in-the-warm-water-4fd3)
 - [Dev.to/JS] [Global Objects in JavaScript](https://dev.to/better678/global-objects-in-javascript-1f1n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Syntax Highlighter in NuxtJS 3 with Prism](https://dev.to/arielmejiadev/add-syntax-highlighter-in-nuxtjs-3-with-prism-2mai)
 - [Dev.to/JS] [Rust Port of Webpack? Rspack, the New Kid on the Block](https://dev.to/scriptedalchemy/rust-port-of-webpack-rspack-the-new-kid-on-the-block-3pgh)
 - [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
-- [Dev.to/JS] [Optimizing Performance in React: Best Practices for Speedy Apps](https://dev.to/s_fomenko/optimizing-performance-in-react-best-practices-for-speedy-apps-5e6n)
 - [Lifehacker] [Here Are the Best Streaming Discounts for Students](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322?utm_source=regular)
-- [Dev.to/JS] [Part 4 &lpar;a&rpar;: Project: How to Build a Mini App with Vue.Js](https://dev.to/miracool/part-4-a-project-how-to-build-a-mini-app-with-vuejs-3nc2)
 - [Lifehacker] [Make Better Cloudy Lemonade With Air Fried Lemons](https://lifehacker.com/make-better-cloudy-lemonade-with-air-fried-lemons-1850775802?utm_source=regular)
 - [Lifehacker] [You Can Book an 8-Night Trip to Thailand for $1,099 Right Now](https://lifehacker.com/you-can-book-an-8-night-trip-to-thailand-for-1-099-rig-1850775848?utm_source=regular)
 - [Lifehacker] [The Routine Home Maintenance Tasks You Should Never Let Slide](https://lifehacker.com/the-most-important-home-maintenance-tasks-1850774692?utm_source=regular)
