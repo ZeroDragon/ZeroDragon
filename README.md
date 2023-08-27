@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with Custom React Hooks - A Beginner&#39;s Guide 🚀](https://dev.to/devgauravjatt/getting-started-with-custom-react-hooks-a-beginners-guide-30o7)
+- [Dev.to/JS] [Almost every project I posted on dev.to has been acquired, here&#39;s another one.](https://dev.to/fayaz/almost-every-project-i-posted-on-devto-has-been-acquired-heres-another-one-3ki6)
 - [Dev.to/JS] [The key to react&#39;s reaction to reactive reactions in situations where reactivity is desired](https://dev.to/tigawanna/the-key-to-reacts-reaction-to-reactive-reactions-in-situations-where-reactivity-is-desired-mkf)
 - [Dev.to/JS] [ES6 Mini crash Course:How to write Modern JavaScript](https://dev.to/mithun1508/es6-mini-crash-coursehow-to-write-modern-javascript-e3a)
 - [Dev.to/JS] [Is htmx the way to go?](https://dev.to/mandrasch/is-htmx-the-way-to-go-4j45)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A minimalist raster tile server with express and postGIS](https://dev.to/leoalho/a-minimalist-raster-tile-server-with-express-and-postgis-79i)
 - [Dev.to/JS] [Programmers should treat quality requirements as demands](https://dev.to/ocean678/programmers-should-treat-quality-requirements-as-demands-24be)
 - [Dev.to/JS] [Immutable Primitive Values and Mutable Object References in JavaScript](https://dev.to/better678/immutable-primitive-values-and-mutable-object-references-in-javascript-6h9)
-- [Dev.to/JS] [React Custom Hook: useScript](https://dev.to/sergeyleschev/react-custom-hook-usescript-3hc8)
-- [Dev.to/JS] [How to EASILY traverse through a deeply nested object &lpar;JavaScript Interview Question&rpar;](https://dev.to/xplodivity/how-to-easily-traverse-through-a-deeply-nested-object-javascript-interview-question-1616)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
