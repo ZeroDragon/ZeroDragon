@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Fetching with React Suspense](https://dev.to/alakkadshaw/data-fetching-with-react-suspense-5ccn)
+- [Dev.to/JS] [Beyond the Keystrokes: Solving Real-Time Suggestions with Debounce](https://dev.to/raffizulvian/beyond-the-keystrokes-solving-real-time-suggestions-with-debounce-k18)
+- [Dev.to/JS] [Guess My number](https://dev.to/mohammedafthab18/guess-my-number-6oo)
+- [Dev.to/JS] [TIL: From test to Testing Playground](https://dev.to/noriller/til-from-test-to-testing-playground-laa)
+- [Dev.to/JS] [JavaScript Functions](https://dev.to/prthings/javascript-functions-ica)
+- [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
 - [Dev.to/JS] [Javascript inbuilt Methods list](https://dev.to/prthings/javascript-inbuilt-methods-list-27n7)
 - [Dev.to/JS] [A Roadmap to Frontend Development: Navigating the Path to Web Mastery](https://dev.to/kwakyebrilliant/a-roadmap-to-frontend-development-navigating-the-path-to-web-mastery-55i)
 - [Dev.to/JS] [Building a Dynamic Quiz App using HTML, CSS, and JavaScript](https://dev.to/sadiqshaik123/building-a-dynamic-quiz-app-using-html-css-and-javascript-1e72)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how to learn coding in 1 week?](https://dev.to/shekh54865/how-to-learn-coding-in-1-week-1gkh)
 - [Dev.to/JS] [The Complete 2023 Guide to Learning TypeScript - From Beginner to Advanced](https://dev.to/jsdevjournal/the-complete-2023-guide-to-learning-typescript-from-beginner-to-advanced-1on6)
 - [Dev.to/JS] [Perguntas Frequentes sobre Websockets: Respostas para Dúvidas Comuns](https://dev.to/brdiniz/perguntas-frequentes-sobre-websockets-respostas-para-duvidas-comuns-5603)
-- [Dev.to/JS] [Getting Started with Custom React Hooks - A Beginner&#39;s Guide 🚀](https://dev.to/devgauravjatt/getting-started-with-custom-react-hooks-a-beginners-guide-30o7)
-- [Dev.to/JS] [Almost every project I posted on dev.to has been acquired, here&#39;s another one.](https://dev.to/fayaz/almost-every-project-i-posted-on-devto-has-been-acquired-heres-another-one-3ki6)
-- [Dev.to/JS] [The key to react&#39;s reaction to reactive reactions in situations where reactivity is desired](https://dev.to/tigawanna/the-key-to-reacts-reaction-to-reactive-reactions-in-situations-where-reactivity-is-desired-mkf)
-- [Dev.to/JS] [ES6 Mini crash Course:How to write Modern JavaScript](https://dev.to/mithun1508/es6-mini-crash-coursehow-to-write-modern-javascript-e3a)
-- [Dev.to/JS] [Is htmx the way to go?](https://dev.to/mandrasch/is-htmx-the-way-to-go-4j45)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Easiest Fixes for the Worst Landlord Repairs](https://lifehacker.com/these-are-the-easiest-fixes-for-the-worst-landlord-repa-1850773082?utm_source=regular)
 - [Lifehacker] [Why You Might Need a Special Education Advocate](https://lifehacker.com/why-you-might-need-a-special-education-advocate-1850772488?utm_source=regular)
 - [Lifehacker] [The Best Free Google Chrome Extensions Everyone Should Use](https://lifehacker.com/best-free-google-chrome-extensions-1847860706?utm_source=regular)
-- [Lifehacker] [uTalk and StackSkills Are $30 Right Now](https://lifehacker.com/utalk-and-stackskills-are-30-right-now-1850768508?utm_source=regular)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Bama Rush](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-bama-rush-1850773022?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [uTalk and StackSkills Are $30 Right Now](https://lifehacker.com/utalk-and-stackskills-are-30-right-now-1850768508?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
