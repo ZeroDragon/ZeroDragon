@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is htmx the way to go?](https://dev.to/mandrasch/is-htmx-the-way-to-go-4j45)
 - [Dev.to/JS] [Sync Local Storage state across tabs in React using useSyncExternalStore](https://dev.to/oakhtar147/sync-local-storage-state-across-tabs-in-react-using-usesyncexternalstore-57ak)
 - [Dev.to/JS] [Elevate Your JavaScript with TypeScript: A Comprehensive Guide](https://dev.to/abhaysinghr1/elevate-your-javascript-with-typescript-a-comprehensive-guide-3nbm)
 - [Dev.to/JS] [Learn @click event handler for VueJs 👊💥](https://dev.to/integridsolutions/learn-click-event-handler-for-vuejs-217a)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to EASILY traverse through a deeply nested object &lpar;JavaScript Interview Question&rpar;](https://dev.to/xplodivity/how-to-easily-traverse-through-a-deeply-nested-object-javascript-interview-question-1616)
 - [Dev.to/JS] [Free Open-Source Blog Template for Developers ✏️📃](https://dev.to/danielcgilibert/free-open-source-blog-template-for-developers-jpp)
 - [Dev.to/JS] [How to Pass Data Across Routes with React Router](https://dev.to/olabisi09/how-to-pass-data-across-routes-with-react-router-53jm)
-- [Dev.to/JS] [How to learn javascript in fasted way](https://dev.to/dhirajmani/how-to-learn-javascript-fasted-way-1a54)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
