@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A book about Javascript...](https://dev.to/anderspersson/a-book-about-javascript-47dd)
+- [Dev.to/JS] [Vanilla DB is out for a try](https://dev.to/zedic/vanilla-db-is-out-for-a-try-393)
 - [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 11 + 12](https://dev.to/prerna0202/coding-period-gsoc23-week-11-12-3pni)
 - [Dev.to/JS] [Applied tax in order API&lpar;Node+MongoDB&rpar;](https://dev.to/satishjaiswal/applied-tax-in-order-apinodemongodb-4dc6)
 - [Dev.to/JS] [A first project with ExpressoTS](https://dev.to/expressots/a-first-project-with-expressots-30e8)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Puzzle: Investigating Multiple Event Listeners in Vue.js](https://dev.to/charnog/unlocking-the-puzzle-investigating-multiple-event-listeners-in-vuejs-3cl2)
 - [Dev.to/JS] [Event Loop Demystified: The Soul of Node.js](https://dev.to/hamsahn/event-loop-demystified-the-soul-of-nodejs-163m)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
-- [Dev.to/JS] [Introduction To Data Structure and Algorithm](https://dev.to/mdmonir027/introduction-to-data-structure-and-algorithm-1gdb)
-- [Dev.to/JS] [My new side project](https://dev.to/techthatconnect/my-new-side-project-3h8e)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
