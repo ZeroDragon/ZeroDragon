@@ -26,8 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 11 + 12](https://dev.to/prerna0202/coding-period-gsoc23-week-11-12-3pni)
 - [Dev.to/JS] [Applied tax in order API&lpar;Node+MongoDB&rpar;](https://dev.to/satishjaiswal/applied-tax-in-order-apinodemongodb-4dc6)
-- [Dev.to/JS] [A first project with ExpressoTS](https://dev.to/danielboll/a-first-project-with-expressots-30e8)
+- [Dev.to/JS] [A first project with ExpressoTS](https://dev.to/expressots/a-first-project-with-expressots-30e8)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Dev.to/JS] [Let&#39;s start](https://dev.to/b1ngus/lets-start-17a6)
 - [Dev.to/JS] [What the heck does asynchronous mean ??](https://dev.to/harshit147/what-the-heck-does-asynchronous-mean--ejb)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Dev.to/JS] [Introduction To Data Structure and Algorithm](https://dev.to/mdmonir027/introduction-to-data-structure-and-algorithm-1gdb)
 - [Dev.to/JS] [My new side project](https://dev.to/techthatconnect/my-new-side-project-3h8e)
-- [Dev.to/JS] [Building a Simple 🎶 Music Synthesizer 🎵 /w JavaScript](https://dev.to/mike-at-redspace/building-a-simple-music-synthesizer-w-javascript-542c)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
