@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sync Local Storage state across tabs in React using useSyncExternalStore](https://dev.to/oakhtar147/sync-local-storage-state-across-tabs-in-react-using-usesyncexternalstore-57ak)
+- [Dev.to/JS] [Elevate Your JavaScript with TypeScript: A Comprehensive Guide](https://dev.to/abhaysinghr1/elevate-your-javascript-with-typescript-a-comprehensive-guide-3nbm)
 - [Dev.to/JS] [Learn @click event handler for VueJs 👊💥](https://dev.to/integridsolutions/learn-click-event-handler-for-vuejs-217a)
 - [Dev.to/JS] [Live Image editor w/ JavaScript: Canvas API and Tesseract.js&lpar;OCR&rpar;](https://dev.to/sfundomhlungu/live-image-editor-w-javascript-canvas-api-and-tesseractjsocr-1n59)
 - [Dev.to/JS] [A minimalist raster tile server with express and postGIS](https://dev.to/leoalho/a-minimalist-raster-tile-server-with-express-and-postgis-79i)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Free Open-Source Blog Template for Developers ✏️📃](https://dev.to/danielcgilibert/free-open-source-blog-template-for-developers-jpp)
 - [Dev.to/JS] [How to Pass Data Across Routes with React Router](https://dev.to/olabisi09/how-to-pass-data-across-routes-with-react-router-53jm)
 - [Dev.to/JS] [How to learn javascript in fasted way](https://dev.to/dhirajmani/how-to-learn-javascript-fasted-way-1a54)
-- [Dev.to/JS] [JavaScript Promise: .all&lpar;&rpar; vs .allSettled&lpar;&rpar; and .race&lpar;&rpar; vs .any&lpar;&rpar;](https://dev.to/shameel/javascript-promise-all-vs-allsettled-and-race-vs-any-3foj)
-- [Dev.to/JS] [🚀 Dominate React Project Startups: Insider Tips for Dev Success! 🤓](https://dev.to/0ro/dominate-react-project-startups-insider-tips-for-dev-success-4c21)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
