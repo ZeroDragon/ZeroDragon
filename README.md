@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn @click event handler for VueJs 👊💥](https://dev.to/integridsolutions/learn-click-event-handler-for-vuejs-217a)
 - [Dev.to/JS] [Live Image editor w/ JavaScript: Canvas API and Tesseract.js&lpar;OCR&rpar;](https://dev.to/sfundomhlungu/live-image-editor-w-javascript-canvas-api-and-tesseractjsocr-1n59)
 - [Dev.to/JS] [A minimalist raster tile server with express and postGIS](https://dev.to/leoalho/a-minimalist-raster-tile-server-with-express-and-postgis-79i)
 - [Dev.to/JS] [Programmers should treat quality requirements as demands](https://dev.to/ocean678/programmers-should-treat-quality-requirements-as-demands-24be)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to learn javascript in fasted way](https://dev.to/dhirajmani/how-to-learn-javascript-fasted-way-1a54)
 - [Dev.to/JS] [JavaScript Promise: .all&lpar;&rpar; vs .allSettled&lpar;&rpar; and .race&lpar;&rpar; vs .any&lpar;&rpar;](https://dev.to/shameel/javascript-promise-all-vs-allsettled-and-race-vs-any-3foj)
 - [Dev.to/JS] [🚀 Dominate React Project Startups: Insider Tips for Dev Success! 🤓](https://dev.to/0ro/dominate-react-project-startups-insider-tips-for-dev-success-4c21)
-- [Dev.to/JS] [Memory Management in JavaScript](https://dev.to/syedmuhammadaliraza/memory-management-in-javascript-5gjk)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
