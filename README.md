@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Dynamic Quiz App using HTML, CSS, and JavaScript](https://dev.to/sadiqshaik123/building-a-dynamic-quiz-app-using-html-css-and-javascript-1e72)
+- [Dev.to/JS] [The Migration Adventure: CRA to Vite and npm to pnpm](https://dev.to/yamanidev/the-migration-adventure-cra-to-vite-and-npm-to-pnpm-37fi)
+- [Dev.to/JS] [how to learn coding in 1 week?](https://dev.to/shekh54865/how-to-learn-coding-in-1-week-1gkh)
+- [Dev.to/JS] [The Complete 2023 Guide to Learning TypeScript - From Beginner to Advanced](https://dev.to/jsdevjournal/the-complete-2023-guide-to-learning-typescript-from-beginner-to-advanced-1on6)
+- [Dev.to/JS] [Perguntas Frequentes sobre Websockets: Respostas para Dúvidas Comuns](https://dev.to/brdiniz/perguntas-frequentes-sobre-websockets-respostas-para-duvidas-comuns-5603)
 - [Dev.to/JS] [Getting Started with Custom React Hooks - A Beginner&#39;s Guide 🚀](https://dev.to/devgauravjatt/getting-started-with-custom-react-hooks-a-beginners-guide-30o7)
 - [Dev.to/JS] [Almost every project I posted on dev.to has been acquired, here&#39;s another one.](https://dev.to/fayaz/almost-every-project-i-posted-on-devto-has-been-acquired-heres-another-one-3ki6)
 - [Dev.to/JS] [The key to react&#39;s reaction to reactive reactions in situations where reactivity is desired](https://dev.to/tigawanna/the-key-to-reacts-reaction-to-reactive-reactions-in-situations-where-reactivity-is-desired-mkf)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is htmx the way to go?](https://dev.to/mandrasch/is-htmx-the-way-to-go-4j45)
 - [Dev.to/JS] [Sync Local Storage state across tabs in React using useSyncExternalStore](https://dev.to/oakhtar147/sync-local-storage-state-across-tabs-in-react-using-usesyncexternalstore-57ak)
 - [Dev.to/JS] [Elevate Your JavaScript with TypeScript: A Comprehensive Guide](https://dev.to/abhaysinghr1/elevate-your-javascript-with-typescript-a-comprehensive-guide-3nbm)
-- [Dev.to/JS] [Learn @click event handler for VueJs 👊💥](https://dev.to/integridsolutions/learn-click-event-handler-for-vuejs-217a)
-- [Dev.to/JS] [Live Image editor w/ JavaScript: Canvas API and Tesseract.js&lpar;OCR&rpar;](https://dev.to/sfundomhlungu/live-image-editor-w-javascript-canvas-api-and-tesseractjsocr-1n59)
-- [Dev.to/JS] [A minimalist raster tile server with express and postGIS](https://dev.to/leoalho/a-minimalist-raster-tile-server-with-express-and-postgis-79i)
-- [Dev.to/JS] [Programmers should treat quality requirements as demands](https://dev.to/ocean678/programmers-should-treat-quality-requirements-as-demands-24be)
-- [Dev.to/JS] [Immutable Primitive Values and Mutable Object References in JavaScript](https://dev.to/better678/immutable-primitive-values-and-mutable-object-references-in-javascript-6h9)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
