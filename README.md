@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
+- [Dev.to/JS] [Let&#39;s start](https://dev.to/b1ngus/lets-start-17a6)
+- [Dev.to/JS] [What the heck does asynchronous mean ??](https://dev.to/harshit147/what-the-heck-does-asynchronous-mean--ejb)
+- [Dev.to/JS] [What is the purpose of the `typeof` operator?](https://dev.to/sonamojha/what-is-the-purpose-of-the-typeof-operator-36j9)
+- [Dev.to/JS] [How to Learn React in 10 Days and Get a Job](https://dev.to/jai7503556364/how-to-learn-react-in-10-days-and-get-a-job-1d80)
 - [Dev.to/JS] [Free Open-Source Blog Template for Developers ✏️📃](https://dev.to/danielcgilibert/free-open-source-blog-template-for-developers-218e)
 - [Dev.to/JS] [Unlocking the Puzzle: Investigating Multiple Event Listeners in Vue.js](https://dev.to/charnog/unlocking-the-puzzle-investigating-multiple-event-listeners-in-vuejs-3cl2)
 - [Dev.to/JS] [Event Loop Demystified: The Soul of Node.js](https://dev.to/hamsahn/event-loop-demystified-the-soul-of-nodejs-163m)
@@ -35,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Simple 🎶 Music Synthesizer 🎵 /w JavaScript](https://dev.to/mike-at-redspace/building-a-simple-music-synthesizer-w-javascript-542c)
 - [Dev.to/JS] [Data Fetching with React Suspense](https://dev.to/alakkadshaw/data-fetching-with-react-suspense-5ccn)
 - [Dev.to/JS] [Beyond the Keystrokes: Optimizing Real-Time Suggestions with Debounce](https://dev.to/raffizulvian/beyond-the-keystrokes-solving-real-time-suggestions-with-debounce-k18)
-- [Dev.to/JS] [Guess My number](https://dev.to/mohammedafthab18/guess-my-number-6oo)
-- [Dev.to/JS] [TIL: From test to Testing Playground](https://dev.to/noriller/til-from-test-to-testing-playground-laa)
-- [Dev.to/JS] [JavaScript Functions](https://dev.to/prthings/javascript-functions-ica)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
-- [Dev.to/JS] [Javascript inbuilt Methods list](https://dev.to/prthings/javascript-inbuilt-methods-list-27n7)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Check Your PC&#39;s Graphics Card](https://lifehacker.com/how-to-check-your-pcs-graphics-card-1850772448?utm_source=regular)
 - [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297?utm_source=regular)
 - [Lifehacker] [These Are the Easiest Fixes for the Worst Landlord Repairs](https://lifehacker.com/these-are-the-easiest-fixes-for-the-worst-landlord-repa-1850773082?utm_source=regular)
-- [Lifehacker] [Why You Might Need a Special Education Advocate](https://lifehacker.com/why-you-might-need-a-special-education-advocate-1850772488?utm_source=regular)
-- [Lifehacker] [The Best Free Google Chrome Extensions Everyone Should Use](https://lifehacker.com/best-free-google-chrome-extensions-1847860706?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Might Need a Special Education Advocate](https://lifehacker.com/why-you-might-need-a-special-education-advocate-1850772488?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
