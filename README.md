@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Roadmap to Frontend Development: Navigating the Path to Web Mastery](https://dev.to/kwakyebrilliant/a-roadmap-to-frontend-development-navigating-the-path-to-web-mastery-55i)
 - [Dev.to/JS] [Building a Dynamic Quiz App using HTML, CSS, and JavaScript](https://dev.to/sadiqshaik123/building-a-dynamic-quiz-app-using-html-css-and-javascript-1e72)
 - [Dev.to/JS] [The Migration Adventure: CRA to Vite and npm to pnpm](https://dev.to/yamanidev/the-migration-adventure-cra-to-vite-and-npm-to-pnpm-37fi)
 - [Dev.to/JS] [how to learn coding in 1 week?](https://dev.to/shekh54865/how-to-learn-coding-in-1-week-1gkh)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ES6 Mini crash Course:How to write Modern JavaScript](https://dev.to/mithun1508/es6-mini-crash-coursehow-to-write-modern-javascript-e3a)
 - [Dev.to/JS] [Is htmx the way to go?](https://dev.to/mandrasch/is-htmx-the-way-to-go-4j45)
 - [Dev.to/JS] [Sync Local Storage state across tabs in React using useSyncExternalStore](https://dev.to/oakhtar147/sync-local-storage-state-across-tabs-in-react-using-usesyncexternalstore-57ak)
-- [Dev.to/JS] [Elevate Your JavaScript with TypeScript: A Comprehensive Guide](https://dev.to/abhaysinghr1/elevate-your-javascript-with-typescript-a-comprehensive-guide-3nbm)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
