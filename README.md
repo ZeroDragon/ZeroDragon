@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Responsive Data Grid with Sliding and Fading Cards](https://dev.to/sohrabzia/responsive-data-grid-with-sliding-and-fading-cards-4e9e)
+- [Dev.to/JS] [রিকার্সন নিয়ে কানাঘুষা](https://dev.to/kawsarbinsiraj/rikaarsn-niyye-kaanaaghussaa-1hk6)
+- [Dev.to/JS] [Mastering Cypress: A Comprehensive Collection of Blogs and Cheat Sheets](https://dev.to/anshitabhasin/mastering-cypress-a-comprehensive-collection-of-blogs-and-cheat-sheets-44a8)
+- [Dev.to/JS] [Create a Timeline component with the help of web components](https://dev.to/keyurparalkar/create-a-timeline-component-with-the-help-of-web-components-4go8)
 - [Dev.to/JS] [Programmers need to learn how to &quot;invest in knowledge&quot;](https://dev.to/ocean678/programmers-need-to-learn-how-to-invest-in-knowledge-4iii)
 - [Dev.to/JS] [Type Conversion in JavaScript](https://dev.to/better678/type-conversion-in-javascript-2c56)
 - [Dev.to/JS] [Code Smell 222 - Comma Operator](https://dev.to/mcsee/code-smell-222-comma-operator-3pi5)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Comprehensive Guide to Integrating APIs in React](https://dev.to/the2minengineer/a-comprehensive-guide-to-integrating-apis-in-react-3m0l)
 - [Dev.to/JS] [How to use the useCallback hook in React](https://dev.to/imevanc/how-to-use-the-usecallback-hook-in-react-3hkj)
 - [Dev.to/JS] [🎲🎲 Build a simple web game in 10 steps 🚀](https://dev.to/dumebii/build-a-simple-web-game-in-10-steps-1jb8)
-- [Dev.to/JS] [React TS- How to Use React Contexts for State Management](https://dev.to/brdnicolas/react-ts-how-to-use-react-contexts-for-state-management-4mh3)
-- [Dev.to/JS] [Arithmetic Adventures](https://dev.to/tshegoletlape/arithmetic-adventures-3fnf)
-- [Dev.to/JS] [React Custom Hook: useStateWithHistory](https://dev.to/sergeyleschev/react-custom-hook-usestatewithhistory-ni9)
-- [Dev.to/JS] [Simple Kubernetes Workflow](https://dev.to/kssaiteja/simple-kubernetes-workflow-53pn)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
