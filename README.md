@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build A LOCAL AI Chatbot - For FREE](https://dev.to/codeboxx/build-a-local-ai-chatbot-for-free-40ie)
+- [Dev.to/JS] [Node.js Event Loop](https://dev.to/endeavourmonk/nodejs-event-loop-46oo)
 - [Dev.to/JS] [Is this a performant website?](https://dev.to/jacobandrewsky/is-this-a-performant-website-2284)
 - [Dev.to/JS] [What is DOM? How to Use It?](https://dev.to/crackjks/what-is-dom-how-to-use-it-4dh9)
 - [Dev.to/JS] [Exploring CDN Links for CanvasJS Charts and Stockcharts](https://dev.to/vishwas/exploring-cdn-links-for-canvasjs-charts-and-stockcharts-2h62)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with Create React App: Streamlining React Application Development](https://dev.to/jayjasani/getting-started-with-create-react-app-streamlining-react-application-development-85b)
 - [Dev.to/JS] [Unleashing Innovation: Exploring the Power and Potential of Custom Software Development](https://dev.to/codzgarage/unleashing-innovation-exploring-the-power-and-potential-of-custom-software-development-35ge)
 - [Dev.to/JS] [Responsive Data Grid with Sliding and Fading Cards](https://dev.to/sohrabzia/responsive-data-grid-with-sliding-and-fading-cards-4e9e)
-- [Dev.to/JS] [রিকার্সন নিয়ে কানাঘুষা](https://dev.to/kawsarbinsiraj/rikaarsn-niyye-kaanaaghussaa-1hk6)
-- [Dev.to/JS] [Mastering Cypress: A Comprehensive Collection of Blogs and Cheat Sheets](https://dev.to/anshitabhasin/mastering-cypress-a-comprehensive-collection-of-blogs-and-cheat-sheets-44a8)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
