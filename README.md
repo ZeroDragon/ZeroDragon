@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Supercharge Your Productivity with the Copy&amp;Paste Browser Extension! ✨](https://dev.to/nopass0/supercharge-your-productivity-with-the-copypaste-browser-extension-4ihj)
+- [Dev.to/JS] [How I moved from React to Svelte](https://dev.to/kedzior_io/how-i-moved-from-react-to-svelte-gdi)
 - [Lifehacker] [The AquaSonic Toothbrush Is $30 Right Now](https://lifehacker.com/the-aquasonic-toothbrush-is-30-right-now-1850770852?utm_source=regular)
 - [Dev.to/JS] [React Custom Hook: useStateWithValidation](https://dev.to/sergeyleschev/react-custom-hook-usestatewithvalidation-1813)
 - [Lifehacker] [Where to Find a PCR COVID Test &lpar;and Why You Need One&rpar;](https://lifehacker.com/where-to-find-a-pcr-covid-test-and-why-you-need-one-1850779459?utm_source=regular)
@@ -55,9 +57,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Apps to Download Music From YouTube](https://lifehacker.com/how-to-download-music-from-youtube-1850779521?utm_source=regular)
 - [Dev.to/JS] [🌟 Emojify Your Skills: A Playful Guide to JavaScript Arrays 🕹️](https://dev.to/mike-at-redspace/emojify-your-array-skills-mastering-javascript-methods-3ga9)
 - [Lifehacker] [Ten Podcasts That Will Make You Smarter](https://lifehacker.com/podcasts-that-will-make-you-smarter-1850777961?utm_source=regular)
-- [Dev.to/JS] [VSCODE THEMED PORTFOLIO USING REACT.JS AND TAILWINDCSS.](https://dev.to/manavss/vscode-themed-portfolio-3bl7)
 - [Lifehacker] [You Can Finally Add Hyperlinks in Your iPhone’s Mail App](https://lifehacker.com/you-can-finally-add-hyperlinks-in-your-iphone-s-mail-ap-1850779455?utm_source=regular)
-- [Dev.to/JS] [Part 4 &lpar;b&rpar;: How to Build a To-Do App with Vue Js: Creating Reusable UI](https://dev.to/miracool/part-4-b-how-to-build-a-to-do-app-with-vue-js-creating-reusable-ui-5en8)
 - [Lifehacker] [The Best PlayStation Portal Alternatives](https://lifehacker.com/best-playstation-portal-alternatives-1850779462?utm_source=regular)
 - [Lifehacker] [You Should Divide These Perennials in Late Summer](https://lifehacker.com/you-should-divide-these-perennials-in-late-summer-1850779259?utm_source=regular)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in September 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-september-2023-1850779156?utm_source=regular)
