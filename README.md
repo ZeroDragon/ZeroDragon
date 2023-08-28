@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use the useCallback hook in React](https://dev.to/imevanc/how-to-use-the-usecallback-hook-in-react-3hkj)
 - [Dev.to/JS] [🎲🎲 Build a simple web game in 10 steps 🚀](https://dev.to/dumebii/build-a-simple-web-game-in-10-steps-1jb8)
 - [Dev.to/JS] [React TS- How to Use React Contexts for State Management](https://dev.to/brdnicolas/react-ts-how-to-use-react-contexts-for-state-management-4mh3)
 - [Dev.to/JS] [Arithmetic Adventures](https://dev.to/tshegoletlape/arithmetic-adventures-3fnf)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A book about Javascript...](https://dev.to/anderspersson/a-book-about-javascript-47dd)
 - [Dev.to/JS] [Unawaited async middleware errors in Express v4](https://dev.to/sanjarcode/catch-async-middleware-errors-in-express-v4-53f7)
 - [Dev.to/JS] [VanillaDB: A Tiny Browser-Based Database](https://dev.to/zedic/vanilla-db-is-out-for-a-try-393)
-- [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 11 + 12](https://dev.to/prerna0202/coding-period-gsoc23-week-11-12-3pni)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
