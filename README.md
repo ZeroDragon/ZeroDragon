@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 222 - Comma Operator](https://dev.to/mcsee/code-smell-222-comma-operator-3pi5)
+- [Dev.to/JS] [React Query y React Context](https://dev.to/ccaracach/react-query-y-react-context-gk4)
+- [Dev.to/JS] [How to Improve Node.js Application Responsiveness](https://dev.to/saint_vandora/how-to-improve-nodejs-application-responsiveness-21mm)
+- [Dev.to/JS] [A Comprehensive Guide to Integrating APIs in React](https://dev.to/the2minengineer/a-comprehensive-guide-to-integrating-apis-in-react-3m0l)
 - [Dev.to/JS] [How to use the useCallback hook in React](https://dev.to/imevanc/how-to-use-the-usecallback-hook-in-react-3hkj)
 - [Dev.to/JS] [🎲🎲 Build a simple web game in 10 steps 🚀](https://dev.to/dumebii/build-a-simple-web-game-in-10-steps-1jb8)
 - [Dev.to/JS] [React TS- How to Use React Contexts for State Management](https://dev.to/brdnicolas/react-ts-how-to-use-react-contexts-for-state-management-4mh3)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Kubernetes Workflow](https://dev.to/kssaiteja/simple-kubernetes-workflow-53pn)
 - [Dev.to/JS] [How to Master Lodash: A Comprehensive Guide](https://dev.to/0mobolaji/how-to-master-lodash-a-comprehensive-guide-2ihm)
 - [Dev.to/JS] [Exciting News! 🚀 My Contribution to Microsoft Bing Rewards Got Accepted and Merged!](https://dev.to/kssaiteja/exciting-news-my-contribution-to-microsoft-bing-rewards-got-accepted-and-merged-1l75)
-- [Dev.to/JS] [React-flow, edges changing place on creating new node](https://dev.to/pshepherd/react-flow-edges-changing-place-on-creating-new-node-cg4)
-- [Dev.to/JS] [A book about Javascript...](https://dev.to/anderspersson/a-book-about-javascript-47dd)
-- [Dev.to/JS] [Unawaited async middleware errors in Express v4](https://dev.to/sanjarcode/catch-async-middleware-errors-in-express-v4-53f7)
-- [Dev.to/JS] [VanillaDB: A Tiny Browser-Based Database](https://dev.to/zedic/vanilla-db-is-out-for-a-try-393)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
