@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Preventing SQL Injection in PHP: A Comprehensive Guide](https://dev.to/iamcymentho/preventing-sql-injection-in-php-a-comprehensive-guide-1l)
+- [Lifehacker] [Turn Leftover Biscuits Into Crispy Crackers](https://lifehacker.com/turn-leftover-biscuits-into-crispy-crackers-1850779992?utm_source=regular)
 - [Lifehacker] [How to Check What Motherboard You Have](https://lifehacker.com/how-to-check-what-motherboard-you-have-1850776539?utm_source=regular)
+- [Dev.to/JS] [A comprehensive guide to understanding array methods in Javascript](https://dev.to/isreal/a-comprehensive-guide-to-understanding-array-methods-in-javascript-lgd)
 - [Lifehacker] [This Ninja Drone Is Under $80 Right Now](https://lifehacker.com/this-ninja-drone-is-under-80-right-now-1850770873?utm_source=regular)
 - [Dev.to/JS] [Simple login form using NextJS](https://dev.to/kssaiteja/simple-login-form-using-nextjs-1hdg)
 - [Dev.to/JS] [Built this web app](https://dev.to/18xdeveloper/built-this-web-app-3122)
@@ -45,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Divide These Perennials in Late Summer](https://lifehacker.com/you-should-divide-these-perennials-in-late-summer-1850779259?utm_source=regular)
 - [Dev.to/JS] [Serverless WebSockets with Ably](https://dev.to/neagle/serverless-websockets-with-ably-1ip5)
 - [Dev.to/JS] [VueJS Part 1: Intro to VueJS](https://dev.to/hi_iam_chris/vuejs-part-1-intro-to-vuejs-32cj)
-- [Dev.to/JS] [5 ways to write 1 function](https://dev.to/charlesloder/5-ways-to-write-1-function-aj9)
-- [Dev.to/JS] [Infinite Scrolling in React: A Practical Guide](https://dev.to/tropicolx/infinite-scrolling-in-react-a-practical-guide-50bo)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in September 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-september-2023-1850779156?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Make Your Salsa Better Than Everyone Else’s](https://lifehacker.com/the-easiest-way-to-make-your-salsa-better-than-everyone-1850775271?utm_source=regular)
 - [Lifehacker] [What Is a Banking Desert &lpar;and What Should You Do If You Live in One&rpar;?](https://lifehacker.com/what-is-a-banking-desert-and-what-should-you-do-if-you-1850774640?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Better Cloudy Lemonade With Air Fried Lemons](https://lifehacker.com/make-better-cloudy-lemonade-with-air-fried-lemons-1850775802?utm_source=regular)
 - [Lifehacker] [You Can Book an 8-Night Trip to Thailand for $1,099 Right Now](https://lifehacker.com/you-can-book-an-8-night-trip-to-thailand-for-1-099-rig-1850775848?utm_source=regular)
 - [Lifehacker] [The Routine Home Maintenance Tasks You Should Never Let Slide](https://lifehacker.com/the-most-important-home-maintenance-tasks-1850774692?utm_source=regular)
-- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in September 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-september-2023-1850775435?utm_source=regular)
-- [Lifehacker] [What to Do the Next Time the Power Goes Out](https://lifehacker.com/what-to-do-the-next-time-the-power-goes-out-1850775092?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in September 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-september-2023-1850775435?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
