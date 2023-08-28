@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Is a Banking Desert &lpar;and What Should You Do If You Live in One&rpar;?](https://lifehacker.com/what-is-a-banking-desert-and-what-should-you-do-if-you-1850774640?utm_source=regular)
+- [Dev.to/JS] [JSKatas 🥋 Continuously Learn JavaScript. Your Way.](https://dev.to/wolframkriesing/jskatas-continuously-learn-javascript-your-way-c01)
+- [Dev.to/JS] [Unveiling the Magic of Access Modifiers in OOP! 🔒](https://dev.to/dominicazuka/unveiling-the-magic-of-access-modifiers-in-oop-40np)
+- [Lifehacker] [This Microsoft Surface Pro 6 Is Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714?utm_source=regular)
+- [Dev.to/JS] [Save Environment for Future Generations](https://dev.to/shekh54865/save-environment-for-future-generations-505m)
+- [Dev.to/JS] [Best library for Form Handling | React | Part 1](https://dev.to/shubhamtiwari909/form-handling-in-react-1-3deg)
 - [Dev.to/JS] [Why we need State variables in react](https://dev.to/shubhamkant_/why-we-need-state-variables-in-react-4lb1)
 - [Dev.to/JS] [Camera Module Bonding Adhesive](https://dev.to/cameramodulebonad/camera-module-bonding-adhesive-30b8)
 - [Dev.to/JS] [📃 👀 Run in-app surveys in your web app in 10 minutes with Formbricks 🤓❤️‍🔥](https://dev.to/jobenjada/run-in-app-surveys-in-your-web-app-in-10-minutes-with-formbricks-37nl)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Angular FormArray: Simplifying Dynamic Forms](https://dev.to/chintanonweb/exploring-angular-formarray-simplifying-dynamic-forms-5d00)
 - [Dev.to/JS] [Mobile App Update Day 101](https://dev.to/shreyvijayvargiya/mobile-app-update-day-101-5h59)
 - [Dev.to/JS] [Mastering Palindromes in JavaScript: A Comprehensive Guide for Coders](https://dev.to/chideracode/mastering-palindromes-in-javascript-a-comprehensive-guide-for-coders-1ain)
-- [Dev.to/JS] [How to make QR Scanner using Laravel &amp; Javascript](https://dev.to/iqbalsyahrulsiddiq/how-to-make-qr-scanner-using-laravel-javascript-5360)
-- [Dev.to/JS] [Laravel101: Exploring Efficient Task Management with Many-to-Many Relationships and Tags](https://dev.to/kazemmdev/laravel101-exploring-efficient-task-management-with-many-to-many-relationships-and-tags-2a5p)
-- [Dev.to/JS] [Thinking about JS front-end testing](https://dev.to/diede/thinking-about-js-front-end-testing-3lpk)
-- [Dev.to/JS] [Build A LOCAL AI Chatbot - For FREE](https://dev.to/codeboxx/build-a-local-ai-chatbot-for-free-40ie)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Squirt &lpar;or at Least Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582?utm_source=regular)
 - [Lifehacker] [How to Download YouTube Videos on Android](https://lifehacker.com/how-to-download-youtube-videos-on-android-1850772222?utm_source=regular)
 - [Lifehacker] [How to Check Your PC&#39;s Graphics Card](https://lifehacker.com/how-to-check-your-pcs-graphics-card-1850772448?utm_source=regular)
-- [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297?utm_source=regular)
-- [Lifehacker] [These Are the Easiest Fixes for the Worst Landlord Repairs](https://lifehacker.com/these-are-the-easiest-fixes-for-the-worst-landlord-repa-1850773082?utm_source=regular)
-- [Lifehacker] [Why You Might Need a Special Education Advocate](https://lifehacker.com/why-you-might-need-a-special-education-advocate-1850772488?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
