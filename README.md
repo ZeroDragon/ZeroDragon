@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mobile App Update Day 101](https://dev.to/shreyvijayvargiya/mobile-app-update-day-101-5h59)
+- [Dev.to/JS] [Mastering Palindromes in JavaScript: A Comprehensive Guide for Coders](https://dev.to/chideracode/mastering-palindromes-in-javascript-a-comprehensive-guide-for-coders-1ain)
 - [Dev.to/JS] [How to make QR Scanner using Laravel &amp; Javascript](https://dev.to/iqbalsyahrulsiddiq/how-to-make-qr-scanner-using-laravel-javascript-5360)
 - [Dev.to/JS] [Laravel101: Exploring Efficient Task Management with Many-to-Many Relationships and Tags](https://dev.to/kazemmdev/laravel101-exploring-efficient-task-management-with-many-to-many-relationships-and-tags-2a5p)
 - [Dev.to/JS] [Thinking about JS front-end testing](https://dev.to/diede/thinking-about-js-front-end-testing-3lpk)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring CDN Links for CanvasJS Charts and Stockcharts](https://dev.to/vishwas/exploring-cdn-links-for-canvasjs-charts-and-stockcharts-2h62)
 - [Dev.to/JS] [Angular Signals: A Reactive Way to Manage State](https://dev.to/chintanonweb/angular-signals-a-reactive-way-to-manage-state-lih)
 - [Dev.to/JS] [Enhancing Asynchronous JavaScript: From Callbacks to Promises, async/await, and Beyond](https://dev.to/ikamran01/enhancing-asynchronous-javascript-from-callbacks-to-promises-asyncawait-and-beyond-4cn1)
-- [Dev.to/JS] [The Complete Guide to Angular Forms: Building Dynamic and Interactive User Interfaces](https://dev.to/chintanonweb/the-complete-guide-to-angular-forms-building-dynamic-and-interactive-user-interfaces-9po)
-- [Dev.to/JS] [Bitsoft360 Reviews - Benefits, Price, Uses, Results &amp; Reviews?](https://dev.to/bitsoft3603496/bitsoft360-reviews-benefits-price-uses-results-reviews-4kd)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
