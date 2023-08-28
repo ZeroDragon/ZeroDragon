@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Install Peel-and-Stick Trim](https://lifehacker.com/how-to-install-peel-and-stick-trim-1850779445?utm_source=regular)
+- [Lifehacker] [Use the SQ3R Method to Study More Effectively](https://lifehacker.com/use-the-sq3r-method-to-study-more-effectively-1850780175?utm_source=regular)
+- [Dev.to/JS] [The Need for Speed: Next.js Performance Overhaul with Polyfills and SWC](https://dev.to/kanav/the-need-for-speed-nextjs-performance-overhaul-with-polyfills-and-swc-49g4)
+- [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/how-to-play-connections-1850534478?utm_source=regular)
+- [Lifehacker] [Amazon Has Buy-One-Get-One-Free Video Games Right Now](https://lifehacker.com/amazon-has-buy-one-get-one-free-video-games-right-now-1850780431?utm_source=regular)
+- [Dev.to/JS] [Lối Sống Khỏe Mạnh: Sự Truyền Cảm Hứng và Hỗ Trợ](https://dev.to/emeovat/loi-song-khoe-manh-su-truyen-cam-hung-va-ho-tro-3amm)
 - [Dev.to/JS] [Preventing SQL Injection in PHP: A Comprehensive Guide](https://dev.to/iamcymentho/preventing-sql-injection-in-php-a-comprehensive-guide-1l)
 - [Lifehacker] [Turn Leftover Biscuits Into Crispy Crackers](https://lifehacker.com/turn-leftover-biscuits-into-crispy-crackers-1850779992?utm_source=regular)
+- [Lifehacker] [Make Ginger Dressing With Only Three Ingredients](https://lifehacker.com/this-ginger-dressing-tastes-exactly-like-it-came-from-a-1827997044?utm_source=regular)
 - [Lifehacker] [How to Check What Motherboard You Have](https://lifehacker.com/how-to-check-what-motherboard-you-have-1850776539?utm_source=regular)
 - [Dev.to/JS] [A comprehensive guide to understanding array methods in Javascript](https://dev.to/isreal/a-comprehensive-guide-to-understanding-array-methods-in-javascript-lgd)
 - [Lifehacker] [This Ninja Drone Is Under $80 Right Now](https://lifehacker.com/this-ninja-drone-is-under-80-right-now-1850770873?utm_source=regular)
@@ -46,8 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best PlayStation Portal Alternatives](https://lifehacker.com/best-playstation-portal-alternatives-1850779462?utm_source=regular)
 - [Dev.to/JS] [Day 34: Equality Comparisons](https://dev.to/dhrn/day-34-equality-comparisons-4mk0)
 - [Lifehacker] [You Should Divide These Perennials in Late Summer](https://lifehacker.com/you-should-divide-these-perennials-in-late-summer-1850779259?utm_source=regular)
-- [Dev.to/JS] [Serverless WebSockets with Ably](https://dev.to/neagle/serverless-websockets-with-ably-1ip5)
-- [Dev.to/JS] [VueJS Part 1: Intro to VueJS](https://dev.to/hi_iam_chris/vuejs-part-1-intro-to-vuejs-32cj)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in September 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-september-2023-1850779156?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Make Your Salsa Better Than Everyone Else’s](https://lifehacker.com/the-easiest-way-to-make-your-salsa-better-than-everyone-1850775271?utm_source=regular)
 - [Lifehacker] [What Is a Banking Desert &lpar;and What Should You Do If You Live in One&rpar;?](https://lifehacker.com/what-is-a-banking-desert-and-what-should-you-do-if-you-1850774640?utm_source=regular)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
-- [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
-- [Lifehacker] [Here Are the Best Streaming Discounts for Students](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322?utm_source=regular)
-- [Lifehacker] [Make Better Cloudy Lemonade With Air Fried Lemons](https://lifehacker.com/make-better-cloudy-lemonade-with-air-fried-lemons-1850775802?utm_source=regular)
-- [Lifehacker] [You Can Book an 8-Night Trip to Thailand for $1,099 Right Now](https://lifehacker.com/you-can-book-an-8-night-trip-to-thailand-for-1-099-rig-1850775848?utm_source=regular)
-- [Lifehacker] [The Routine Home Maintenance Tasks You Should Never Let Slide](https://lifehacker.com/the-most-important-home-maintenance-tasks-1850774692?utm_source=regular)
-- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in September 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-september-2023-1850775435?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
