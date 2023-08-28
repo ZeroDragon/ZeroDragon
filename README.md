@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🌟 Emojify Your Skills: A Playful Guide to JavaScript Arrays 🕹️](https://dev.to/mike-at-redspace/emojify-your-array-skills-mastering-javascript-methods-3ga9)
+- [Dev.to/JS] [VSCODE THEMED PORTFOLIO USING REACT.JS AND TAILWINDCSS.](https://dev.to/manavss/vscode-themed-portfolio-3bl7)
+- [Lifehacker] [You Can Finally Add Hyperlinks in Your iPhone’s Mail App](https://lifehacker.com/you-can-finally-add-hyperlinks-in-your-iphone-s-mail-ap-1850779455?utm_source=regular)
+- [Dev.to/JS] [Part 4 &lpar;b&rpar;: How to Build a To-Do App with Vue Js: Creating Reusable UI](https://dev.to/miracool/part-4-b-how-to-build-a-to-do-app-with-vue-js-creating-reusable-ui-5en8)
+- [Dev.to/JS] [What I&#39;m working on today!](https://dev.to/olacoder/what-im-working-on-today-4d52)
 - [Dev.to/JS] [7 Awesome GumRoad Products for Developers](https://dev.to/surajondev/7-awesome-gumroad-products-for-developers-2fk9)
+- [Lifehacker] [The Best PlayStation Portal Alternatives](https://lifehacker.com/best-playstation-portal-alternatives-1850779462?utm_source=regular)
 - [Dev.to/JS] [Day 34: Equality Comparisons](https://dev.to/dhrn/day-34-equality-comparisons-4mk0)
 - [Lifehacker] [You Should Divide These Perennials in Late Summer](https://lifehacker.com/you-should-divide-these-perennials-in-late-summer-1850779259?utm_source=regular)
 - [Dev.to/JS] [Serverless WebSockets with Ably](https://dev.to/neagle/serverless-websockets-with-ably-1ip5)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tesla Clone Website](https://dev.to/faisgit/tesla-clone-website-33n8)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Using APIs in React.](https://dev.to/abahanointed/a-beginners-guide-to-using-apis-in-react-1h7l)
 - [Lifehacker] [The Easiest Way to Make Your Salsa Better Than Everyone Else’s](https://lifehacker.com/the-easiest-way-to-make-your-salsa-better-than-everyone-1850775271?utm_source=regular)
-- [Dev.to/JS] [Developer’s Guide for Maximum Productivity](https://dev.to/kristiyan_velkov/developers-guide-for-maximum-productivity-3m75)
-- [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 1](https://dev.to/abhaysinghr1/transitioning-to-typescript-the-ultimate-starter-guide-part-1-2he5)
-- [Dev.to/JS] [How to calculate the largest remainder with Javascript](https://dev.to/woovi/how-to-calculate-the-largest-remainder-with-javascript-4d47)
 - [Lifehacker] [What Is a Banking Desert &lpar;and What Should You Do If You Live in One&rpar;?](https://lifehacker.com/what-is-a-banking-desert-and-what-should-you-do-if-you-1850774640?utm_source=regular)
-- [Dev.to/JS] [JSKatas 🥋 Continuously Learn JavaScript. Your Way.](https://dev.to/wolframkriesing/jskatas-continuously-learn-javascript-your-way-c01)
 - [Lifehacker] [This Microsoft Surface Pro 6 Is Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714?utm_source=regular)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in September 2023](https://lifehacker.com/new-on-hulu-september-2023-1850769105?utm_source=regular)
 - [Lifehacker] [Bake Your Overripe Peaches Into This Crisp](https://lifehacker.com/bake-your-overripe-peaches-into-this-crisp-1850774229?utm_source=regular)
 - [Lifehacker] [You Can Finally Send High-Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877?utm_source=regular)
-- [Lifehacker] [Revise Your Notes Before You Leave Class](https://lifehacker.com/revise-your-notes-before-you-leave-class-1850774684?utm_source=regular)
-- [Lifehacker] [Ways to Help Your Child Manage ADHD Symptoms Naturally During the Medication Shortage](https://lifehacker.com/ways-to-help-your-child-manage-adhd-symptoms-naturally-1850771579?utm_source=regular)
-- [Lifehacker] [How to Squirt &lpar;or at Least Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Revise Your Notes Before You Leave Class](https://lifehacker.com/revise-your-notes-before-you-leave-class-1850774684?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
