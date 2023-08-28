@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make QR Scanner using Laravel &amp; Javascript](https://dev.to/iqbalsyahrulsiddiq/how-to-make-qr-scanner-using-laravel-javascript-5360)
+- [Dev.to/JS] [Laravel101: Exploring Efficient Task Management with Many-to-Many Relationships and Tags](https://dev.to/kazemmdev/laravel101-exploring-efficient-task-management-with-many-to-many-relationships-and-tags-2a5p)
+- [Dev.to/JS] [Thinking about JS front-end testing](https://dev.to/diede/thinking-about-js-front-end-testing-3lpk)
 - [Dev.to/JS] [Build A LOCAL AI Chatbot - For FREE](https://dev.to/codeboxx/build-a-local-ai-chatbot-for-free-40ie)
 - [Dev.to/JS] [Node.js Event Loop](https://dev.to/endeavourmonk/nodejs-event-loop-46oo)
 - [Dev.to/JS] [Is this a performant website?](https://dev.to/jacobandrewsky/is-this-a-performant-website-2284)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enhancing Asynchronous JavaScript: From Callbacks to Promises, async/await, and Beyond](https://dev.to/ikamran01/enhancing-asynchronous-javascript-from-callbacks-to-promises-asyncawait-and-beyond-4cn1)
 - [Dev.to/JS] [The Complete Guide to Angular Forms: Building Dynamic and Interactive User Interfaces](https://dev.to/chintanonweb/the-complete-guide-to-angular-forms-building-dynamic-and-interactive-user-interfaces-9po)
 - [Dev.to/JS] [Bitsoft360 Reviews - Benefits, Price, Uses, Results &amp; Reviews?](https://dev.to/bitsoft3603496/bitsoft360-reviews-benefits-price-uses-results-reviews-4kd)
-- [Dev.to/JS] [Getting Started with Create React App: Streamlining React Application Development](https://dev.to/jayjasani/getting-started-with-create-react-app-streamlining-react-application-development-85b)
-- [Dev.to/JS] [Unleashing Innovation: Exploring the Power and Potential of Custom Software Development](https://dev.to/codzgarage/unleashing-innovation-exploring-the-power-and-potential-of-custom-software-development-35ge)
-- [Dev.to/JS] [Responsive Data Grid with Sliding and Fading Cards](https://dev.to/sohrabzia/responsive-data-grid-with-sliding-and-fading-cards-4e9e)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
