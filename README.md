@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Programmers need to learn how to &quot;invest in knowledge&quot;](https://dev.to/ocean678/programmers-need-to-learn-how-to-invest-in-knowledge-4iii)
+- [Dev.to/JS] [Type Conversion in JavaScript](https://dev.to/better678/type-conversion-in-javascript-2c56)
 - [Dev.to/JS] [Code Smell 222 - Comma Operator](https://dev.to/mcsee/code-smell-222-comma-operator-3pi5)
 - [Dev.to/JS] [React Query y React Context](https://dev.to/ccaracach/react-query-y-react-context-gk4)
 - [Dev.to/JS] [How to Improve Node.js Application Responsiveness](https://dev.to/saint_vandora/how-to-improve-nodejs-application-responsiveness-21mm)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arithmetic Adventures](https://dev.to/tshegoletlape/arithmetic-adventures-3fnf)
 - [Dev.to/JS] [React Custom Hook: useStateWithHistory](https://dev.to/sergeyleschev/react-custom-hook-usestatewithhistory-ni9)
 - [Dev.to/JS] [Simple Kubernetes Workflow](https://dev.to/kssaiteja/simple-kubernetes-workflow-53pn)
-- [Dev.to/JS] [How to Master Lodash: A Comprehensive Guide](https://dev.to/0mobolaji/how-to-master-lodash-a-comprehensive-guide-2ihm)
-- [Dev.to/JS] [Exciting News! 🚀 My Contribution to Microsoft Bing Rewards Got Accepted and Merged!](https://dev.to/kssaiteja/exciting-news-my-contribution-to-microsoft-bing-rewards-got-accepted-and-merged-1l75)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
