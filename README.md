@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Infinite Scrolling in React: A Practical Guide](https://dev.to/tropicolx/infinite-scrolling-in-react-a-practical-guide-50bo)
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in September 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-september-2023-1850779156?utm_source=regular)
+- [Dev.to/JS] [Tesla Clone Website](https://dev.to/faisgit/tesla-clone-website-33n8)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Using APIs in React.](https://dev.to/abahanointed/a-beginners-guide-to-using-apis-in-react-1h7l)
+- [Lifehacker] [The Easiest Way to Make Your Salsa Better Than Everyone Else’s](https://lifehacker.com/the-easiest-way-to-make-your-salsa-better-than-everyone-1850775271?utm_source=regular)
+- [Dev.to/JS] [Developer’s Guide for Maximum Productivity](https://dev.to/kristiyan_velkov/developers-guide-for-maximum-productivity-3m75)
+- [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 1](https://dev.to/abhaysinghr1/transitioning-to-typescript-the-ultimate-starter-guide-part-1-2he5)
+- [Dev.to/JS] [How to calculate the largest remainder with Javascript](https://dev.to/woovi/how-to-calculate-the-largest-remainder-with-javascript-4d47)
 - [Lifehacker] [What Is a Banking Desert &lpar;and What Should You Do If You Live in One&rpar;?](https://lifehacker.com/what-is-a-banking-desert-and-what-should-you-do-if-you-1850774640?utm_source=regular)
 - [Dev.to/JS] [JSKatas 🥋 Continuously Learn JavaScript. Your Way.](https://dev.to/wolframkriesing/jskatas-continuously-learn-javascript-your-way-c01)
 - [Dev.to/JS] [Unveiling the Magic of Access Modifiers in OOP! 🔒](https://dev.to/dominicazuka/unveiling-the-magic-of-access-modifiers-in-oop-40np)
@@ -34,12 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best library for Form Handling | React | Part 1](https://dev.to/shubhamtiwari909/form-handling-in-react-1-3deg)
 - [Dev.to/JS] [Why we need State variables in react](https://dev.to/shubhamkant_/why-we-need-state-variables-in-react-4lb1)
 - [Dev.to/JS] [Camera Module Bonding Adhesive](https://dev.to/cameramodulebonad/camera-module-bonding-adhesive-30b8)
-- [Dev.to/JS] [📃 👀 Run in-app surveys in your web app in 10 minutes with Formbricks 🤓❤️‍🔥](https://dev.to/jobenjada/run-in-app-surveys-in-your-web-app-in-10-minutes-with-formbricks-37nl)
-- [Dev.to/JS] [TIL, CSS Pseudo Classes and Elements](https://dev.to/esraanasr92/til-css-pseudo-classes-and-elements-bfg)
-- [Dev.to/JS] [Java vs Python: Which is Better](https://dev.to/brettsmith12/java-vs-python-which-is-better-596g)
-- [Dev.to/JS] [Exploring Angular FormArray: Simplifying Dynamic Forms](https://dev.to/chintanonweb/exploring-angular-formarray-simplifying-dynamic-forms-5d00)
-- [Dev.to/JS] [Mobile App Update Day 101](https://dev.to/shreyvijayvargiya/mobile-app-update-day-101-5h59)
-- [Dev.to/JS] [Mastering Palindromes in JavaScript: A Comprehensive Guide for Coders](https://dev.to/chideracode/mastering-palindromes-in-javascript-a-comprehensive-guide-for-coders-1ain)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Revise Your Notes Before You Leave Class](https://lifehacker.com/revise-your-notes-before-you-leave-class-1850774684?utm_source=regular)
 - [Lifehacker] [Ways to Help Your Child Manage ADHD Symptoms Naturally During the Medication Shortage](https://lifehacker.com/ways-to-help-your-child-manage-adhd-symptoms-naturally-1850771579?utm_source=regular)
 - [Lifehacker] [How to Squirt &lpar;or at Least Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582?utm_source=regular)
-- [Lifehacker] [How to Download YouTube Videos on Android](https://lifehacker.com/how-to-download-youtube-videos-on-android-1850772222?utm_source=regular)
-- [Lifehacker] [How to Check Your PC&#39;s Graphics Card](https://lifehacker.com/how-to-check-your-pcs-graphics-card-1850772448?utm_source=regular)
-- [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Download YouTube Videos on Android](https://lifehacker.com/how-to-download-youtube-videos-on-android-1850772222?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
