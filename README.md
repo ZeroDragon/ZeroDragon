@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Awesome GumRoad Products for Developers](https://dev.to/surajondev/7-awesome-gumroad-products-for-developers-2fk9)
+- [Dev.to/JS] [Day 34: Equality Comparisons](https://dev.to/dhrn/day-34-equality-comparisons-4mk0)
+- [Lifehacker] [You Should Divide These Perennials in Late Summer](https://lifehacker.com/you-should-divide-these-perennials-in-late-summer-1850779259?utm_source=regular)
+- [Dev.to/JS] [Serverless WebSockets with Ably](https://dev.to/neagle/serverless-websockets-with-ably-1ip5)
+- [Dev.to/JS] [VueJS Part 1: Intro to VueJS](https://dev.to/hi_iam_chris/vuejs-part-1-intro-to-vuejs-32cj)
+- [Dev.to/JS] [5 ways to write 1 function](https://dev.to/charlesloder/5-ways-to-write-1-function-aj9)
 - [Dev.to/JS] [Infinite Scrolling in React: A Practical Guide](https://dev.to/tropicolx/infinite-scrolling-in-react-a-practical-guide-50bo)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in September 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-september-2023-1850779156?utm_source=regular)
 - [Dev.to/JS] [Tesla Clone Website](https://dev.to/faisgit/tesla-clone-website-33n8)
@@ -36,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to calculate the largest remainder with Javascript](https://dev.to/woovi/how-to-calculate-the-largest-remainder-with-javascript-4d47)
 - [Lifehacker] [What Is a Banking Desert &lpar;and What Should You Do If You Live in One&rpar;?](https://lifehacker.com/what-is-a-banking-desert-and-what-should-you-do-if-you-1850774640?utm_source=regular)
 - [Dev.to/JS] [JSKatas 🥋 Continuously Learn JavaScript. Your Way.](https://dev.to/wolframkriesing/jskatas-continuously-learn-javascript-your-way-c01)
-- [Dev.to/JS] [Unveiling the Magic of Access Modifiers in OOP! 🔒](https://dev.to/dominicazuka/unveiling-the-magic-of-access-modifiers-in-oop-40np)
 - [Lifehacker] [This Microsoft Surface Pro 6 Is Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714?utm_source=regular)
-- [Dev.to/JS] [Save Environment for Future Generations](https://dev.to/shekh54865/save-environment-for-future-generations-505m)
-- [Dev.to/JS] [Best library for Form Handling | React | Part 1](https://dev.to/shubhamtiwari909/form-handling-in-react-1-3deg)
-- [Dev.to/JS] [Why we need State variables in react](https://dev.to/shubhamkant_/why-we-need-state-variables-in-react-4lb1)
-- [Dev.to/JS] [Camera Module Bonding Adhesive](https://dev.to/cameramodulebonad/camera-module-bonding-adhesive-30b8)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Send High-Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877?utm_source=regular)
 - [Lifehacker] [Revise Your Notes Before You Leave Class](https://lifehacker.com/revise-your-notes-before-you-leave-class-1850774684?utm_source=regular)
 - [Lifehacker] [Ways to Help Your Child Manage ADHD Symptoms Naturally During the Medication Shortage](https://lifehacker.com/ways-to-help-your-child-manage-adhd-symptoms-naturally-1850771579?utm_source=regular)
-- [Lifehacker] [How to Squirt &lpar;or at Least Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582?utm_source=regular)
-- [Lifehacker] [How to Download YouTube Videos on Android](https://lifehacker.com/how-to-download-youtube-videos-on-android-1850772222?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Squirt &lpar;or at Least Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
