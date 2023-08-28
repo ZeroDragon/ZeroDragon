@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Complete Guide to Angular Forms: Building Dynamic and Interactive User Interfaces](https://dev.to/chintanonweb/the-complete-guide-to-angular-forms-building-dynamic-and-interactive-user-interfaces-9po)
+- [Dev.to/JS] [Bitsoft360 Reviews - Benefits, Price, Uses, Results &amp; Reviews?](https://dev.to/bitsoft3603496/bitsoft360-reviews-benefits-price-uses-results-reviews-4kd)
+- [Dev.to/JS] [Getting Started with Create React App: Streamlining React Application Development](https://dev.to/jayjasani/getting-started-with-create-react-app-streamlining-react-application-development-85b)
+- [Dev.to/JS] [Unleashing Innovation: Exploring the Power and Potential of Custom Software Development](https://dev.to/codzgarage/unleashing-innovation-exploring-the-power-and-potential-of-custom-software-development-35ge)
 - [Dev.to/JS] [Responsive Data Grid with Sliding and Fading Cards](https://dev.to/sohrabzia/responsive-data-grid-with-sliding-and-fading-cards-4e9e)
 - [Dev.to/JS] [রিকার্সন নিয়ে কানাঘুষা](https://dev.to/kawsarbinsiraj/rikaarsn-niyye-kaanaaghussaa-1hk6)
 - [Dev.to/JS] [Mastering Cypress: A Comprehensive Collection of Blogs and Cheat Sheets](https://dev.to/anshitabhasin/mastering-cypress-a-comprehensive-collection-of-blogs-and-cheat-sheets-44a8)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Type Conversion in JavaScript](https://dev.to/better678/type-conversion-in-javascript-2c56)
 - [Dev.to/JS] [Code Smell 222 - Comma Operator](https://dev.to/mcsee/code-smell-222-comma-operator-3pi5)
 - [Dev.to/JS] [React Query y React Context](https://dev.to/ccaracach/react-query-y-react-context-gk4)
-- [Dev.to/JS] [How to Improve Node.js Application Responsiveness](https://dev.to/saint_vandora/how-to-improve-nodejs-application-responsiveness-21mm)
-- [Dev.to/JS] [A Comprehensive Guide to Integrating APIs in React](https://dev.to/the2minengineer/a-comprehensive-guide-to-integrating-apis-in-react-3m0l)
-- [Dev.to/JS] [How to use the useCallback hook in React](https://dev.to/imevanc/how-to-use-the-usecallback-hook-in-react-3hkj)
-- [Dev.to/JS] [🎲🎲 Build a simple web game in 10 steps 🚀](https://dev.to/dumebii/build-a-simple-web-game-in-10-steps-1jb8)
 - [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)
 - [Lifehacker] [Here&#39;s When Fixing Your Dishwasher Makes More Sense](https://lifehacker.com/heres-when-fixing-your-dishwasher-makes-more-sense-1850770539?utm_source=regular)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get Over Labor Day Weekend](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-over-labor-day-1850770533?utm_source=regular)
