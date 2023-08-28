@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use These Apps to Download Music From YouTube](https://lifehacker.com/how-to-download-music-from-youtube-1850779521?utm_source=regular)
 - [Dev.to/JS] [🌟 Emojify Your Skills: A Playful Guide to JavaScript Arrays 🕹️](https://dev.to/mike-at-redspace/emojify-your-array-skills-mastering-javascript-methods-3ga9)
+- [Lifehacker] [Ten Podcasts That Will Make You Smarter](https://lifehacker.com/podcasts-that-will-make-you-smarter-1850777961?utm_source=regular)
 - [Dev.to/JS] [VSCODE THEMED PORTFOLIO USING REACT.JS AND TAILWINDCSS.](https://dev.to/manavss/vscode-themed-portfolio-3bl7)
 - [Lifehacker] [You Can Finally Add Hyperlinks in Your iPhone’s Mail App](https://lifehacker.com/you-can-finally-add-hyperlinks-in-your-iphone-s-mail-ap-1850779455?utm_source=regular)
 - [Dev.to/JS] [Part 4 &lpar;b&rpar;: How to Build a To-Do App with Vue Js: Creating Reusable UI](https://dev.to/miracool/part-4-b-how-to-build-a-to-do-app-with-vue-js-creating-reusable-ui-5en8)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Microsoft Office for $35 Right Now](https://lifehacker.com/you-can-get-microsoft-office-for-35-right-now-1850768358?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Make Pigs in a Blanket](https://lifehacker.com/the-quickest-coziest-way-to-make-pigs-in-a-blanket-1850034533?utm_source=regular)
 - [Lifehacker] [What&#39;s New on Hulu in September 2023](https://lifehacker.com/new-on-hulu-september-2023-1850769105?utm_source=regular)
-- [Lifehacker] [Bake Your Overripe Peaches Into This Crisp](https://lifehacker.com/bake-your-overripe-peaches-into-this-crisp-1850774229?utm_source=regular)
-- [Lifehacker] [You Can Finally Send High-Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877?utm_source=regular)
-- [Lifehacker] [Revise Your Notes Before You Leave Class](https://lifehacker.com/revise-your-notes-before-you-leave-class-1850774684?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Bake Your Overripe Peaches Into This Crisp](https://lifehacker.com/bake-your-overripe-peaches-into-this-crisp-1850774229?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
