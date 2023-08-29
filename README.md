@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do When Your Child Is Being Bullied](https://lifehacker.com/what-to-do-when-your-child-is-being-bullied-1850781104?utm_source=regular)
+- [Dev.to/JS] [Promises em JavaScript](https://dev.to/mrlazarias/promises-em-javascript-1pf)
+- [Dev.to/JS] [How to Choose the Best POS System for Restaurants in Dubai?](https://dev.to/willium/how-to-choose-the-best-pos-system-for-restaurants-in-dubai-8bo)
+- [Dev.to/JS] [5 Exclusive Business Website Template To Build Your Startup](https://dev.to/lilybrown47/5-exclusive-business-website-template-to-build-your-startup-2ke)
+- [Lifehacker] [How to Convert HEIC to JPG on Windows](https://lifehacker.com/how-to-convert-heic-to-jpg-on-windows-and-mac-1850780835?utm_source=regular)
+- [Dev.to/JS] [Building an Interactive React Native App with Speech Recognition and OpenAI Integration](https://dev.to/joblesspoet/building-an-interactive-react-native-app-with-speech-recognition-and-openai-integration-2db6)
+- [Dev.to/JS] [Why join me at HalfStack Vienna 2023](https://dev.to/bogomil/why-join-me-at-halfstack-vienna-2023-5pb)
 - [Dev.to/JS] [User Gallery](https://dev.to/dimple031/user-gallery-41a1)
 - [Dev.to/JS] [Goodbye CSS-in-JS](https://dev.to/jgbbrd/goodbye-css-in-js-3b8)
 - [Dev.to/JS] [Understanding Closures](https://dev.to/bupd/understanding-closures-1mm9)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Terror of Mongolia JS13k Post-mortem &lpar;part 1&rpar;](https://dev.to/jacklehamster/the-terror-of-mongolia-js13k-post-mortem-part-1-33a4)
 - [Dev.to/JS] [Enabling Dark Mode in React.js with SCSS Modules 🌙](https://dev.to/0ro/enabling-dark-mode-in-reactjs-with-scss-modules-2mm0)
 - [Dev.to/JS] [Building High-Performance Web Applications with the MERN Stack](https://dev.to/sajeeb_me/building-high-performance-web-applications-with-the-mern-stack-peg)
-- [Dev.to/JS] [Express JS Problem](https://dev.to/21bca113/express-js-problem-490)
-- [Dev.to/JS] [#LearnedToday: FileSystemAccess API](https://dev.to/danielzotti/learnedtoday-filesystemaccess-api-2361)
-- [Dev.to/JS] [AWS RedShift Online Training from India](https://dev.to/viswaonlinetrainings/aws-redshift-online-training-from-india-5c09)
-- [Dev.to/JS] [How To Seamlessly Integrate Sequelize with Node.js and JavaScript for Database Monitoring](https://dev.to/metis/how-to-seamlessly-integrate-sequelize-with-nodejs-and-javascript-for-database-monitoring-3f4l)
-- [Dev.to/JS] [Best Azure Active Directory Training In Hyderabad](https://dev.to/viswaonlinetrainings/best-azure-active-directory-training-in-hyderabad-l74)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, August 29](https://lifehacker.com/connections-answer-today-august-29-2023-1850780572?utm_source=regular)
 - [Lifehacker] [This Kodak Film Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-slide-scanner-is-170-right-now-1850768552?utm_source=regular)
 - [Lifehacker] [The AquaSonic Toothbrush Is $30 Right Now](https://lifehacker.com/the-aquasonic-toothbrush-is-30-right-now-1850770852?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best PlayStation Portal Alternatives](https://lifehacker.com/best-playstation-portal-alternatives-1850779462?utm_source=regular)
 - [Lifehacker] [You Should Divide These Perennials in Late Summer](https://lifehacker.com/you-should-divide-these-perennials-in-late-summer-1850779259?utm_source=regular)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in September 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-september-2023-1850779156?utm_source=regular)
-- [Lifehacker] [The Easiest Way to Make Your Salsa Better Than Everyone Else’s](https://lifehacker.com/the-easiest-way-to-make-your-salsa-better-than-everyone-1850775271?utm_source=regular)
-- [Lifehacker] [What Is a Banking Desert &lpar;and What Should You Do If You Live in One&rpar;?](https://lifehacker.com/what-is-a-banking-desert-and-what-should-you-do-if-you-1850774640?utm_source=regular)
-- [Lifehacker] [This Microsoft Surface Pro 6 Is Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Make Your Salsa Better Than Everyone Else’s](https://lifehacker.com/the-easiest-way-to-make-your-salsa-better-than-everyone-1850775271?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
