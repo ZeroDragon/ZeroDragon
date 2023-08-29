@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enabling Dark Mode in React.js with SCSS Modules 🌙](https://dev.to/0ro/enabling-dark-mode-in-reactjs-with-scss-modules-2mm0)
 - [Dev.to/JS] [Building High-Performance Web Applications with the MERN Stack](https://dev.to/sajeeb_me/building-high-performance-web-applications-with-the-mern-stack-peg)
 - [Dev.to/JS] [Express JS Problem](https://dev.to/21bca113/express-js-problem-490)
 - [Dev.to/JS] [#LearnedToday: FileSystemAccess API](https://dev.to/danielzotti/learnedtoday-filesystemaccess-api-2361)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create function to check a character exist in any string or not using string prototype.](https://dev.to/palchandu_dev/create-function-to-check-a-character-exist-in-any-string-or-not-using-string-prototype-4c20)
 - [Dev.to/JS] [Shopping mall](https://dev.to/shabista12345/shopping-mall-4gp9)
 - [Dev.to/JS] [Hiring Dedicated React Native Developers: Crafting Your Dream Team](https://dev.to/bradlyhammer/hiring-dedicated-react-native-developers-crafting-your-dream-team-7hg)
-- [Dev.to/JS] [Building Microservices with NestJS](https://dev.to/scofieldidehen/building-microservices-with-nestjs-4c2p)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, August 29](https://lifehacker.com/connections-answer-today-august-29-2023-1850780572?utm_source=regular)
 - [Lifehacker] [This Kodak Film Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-slide-scanner-is-170-right-now-1850768552?utm_source=regular)
 - [Lifehacker] [The AquaSonic Toothbrush Is $30 Right Now](https://lifehacker.com/the-aquasonic-toothbrush-is-30-right-now-1850770852?utm_source=regular)
