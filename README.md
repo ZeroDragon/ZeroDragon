@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, August 29](https://lifehacker.com/connections-answer-today-august-29-2023-1850780572?utm_source=regular)
 - [Lifehacker] [This Kodak Film Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-slide-scanner-is-170-right-now-1850768552?utm_source=regular)
 - [Dev.to/JS] [Supercharge Your Productivity with the Copy&amp;Paste Browser Extension! ✨](https://dev.to/nopass0/supercharge-your-productivity-with-the-copypaste-browser-extension-4ihj)
 - [Dev.to/JS] [How I moved from React to Svelte](https://dev.to/kedzior_io/how-i-moved-from-react-to-svelte-gdi)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in September 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-september-2023-1850779156?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Make Your Salsa Better Than Everyone Else’s](https://lifehacker.com/the-easiest-way-to-make-your-salsa-better-than-everyone-1850775271?utm_source=regular)
 - [Lifehacker] [What Is a Banking Desert &lpar;and What Should You Do If You Live in One&rpar;?](https://lifehacker.com/what-is-a-banking-desert-and-what-should-you-do-if-you-1850774640?utm_source=regular)
-- [Lifehacker] [This Microsoft Surface Pro 6 Is Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714?utm_source=regular)
-- [Lifehacker] [Here&#39;s What Those Spray Paint Marks on Trees Mean](https://lifehacker.com/heres-what-those-spray-paint-marks-on-trees-mean-1850770547?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Microsoft Surface Pro 6 Is Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
