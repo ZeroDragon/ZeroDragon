@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useStorage](https://dev.to/sergeyleschev/react-custom-hook-usestorage-and)
+- [Dev.to/JS] [Episode 23/34: Analog.js, Developer Survey, ng-conf, A11y](https://dev.to/this-is-angular/episode-2334-analogjs-developer-survey-ng-conf-a11y-441j)
+- [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073?utm_source=regular)
+- [Dev.to/JS] [Choosing the Right TypeScript Type for Your Objects: Exploring Common Approaches](https://dev.to/joblesspoet/choosing-the-right-typescript-type-for-your-objects-exploring-common-approaches-2n95)
 - [Lifehacker] [How to Create a New Gmail Account](https://lifehacker.com/how-to-create-a-new-gmail-account-1850784055?utm_source=regular)
 - [Dev.to/JS] [Expense Chart - Frontend Mentor](https://dev.to/virtualpujadev/expense-chart-frontend-mentor-4d8i)
 - [Dev.to/JS] [What is JavaScript XML?](https://dev.to/salmandotweb/what-is-javascript-xml-3efm)
@@ -46,12 +50,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Leftover Rice to Make a Warm, Comforting Salad](https://lifehacker.com/use-leftover-rice-to-make-a-warm-comforting-salad-1850783678?utm_source=regular)
 - [Dev.to/JS] [The Art of Debouncing in JavaScript: Enhancing User Experience](https://dev.to/junaidkhan/the-art-of-debouncing-in-javascript-enhancing-user-experience-46ah)
 - [Lifehacker] [What &#39;Restricting&#39; Means on Instagram](https://lifehacker.com/what-restricting-means-on-instagram-1850781850?utm_source=regular)
-- [Dev.to/JS] [How to Build Impressive Real Estate Website Using HTML CSS and JavaScript](https://dev.to/codewithsadee/how-to-build-impressive-real-estate-website-using-html-css-and-js-c01)
-- [Dev.to/JS] [Introducing CodeGlossary: Your Go-To Resource for Programming Terminology](https://dev.to/j471n/introducing-codeglossary-your-go-to-resource-for-programming-terminology-22ml)
 - [Lifehacker] [You Should Use Transferable Points When You Travel](https://lifehacker.com/you-should-use-transferable-points-when-you-travel-1850783625?utm_source=regular)
 - [Lifehacker] [This Heads Up Car Display Screen Is $105 Right Now](https://lifehacker.com/this-heads-up-car-display-screen-is-105-right-now-1850776780?utm_source=regular)
 - [Lifehacker] [This Is the Best Gaming Controller for Any Console](https://lifehacker.com/this-is-the-best-gaming-controller-for-any-console-1850781549?utm_source=regular)
-- [Dev.to/JS] [Light Sabers Unleashed: The Lazy Developer&#39;s Guide to Outsmarting Botnets](https://dev.to/pangea/outsmart-botnets-with-ip-intel-10fi)
 - [Lifehacker] [The Best Small Business Ideas for Kids &lpar;That Aren’t a Lemonade Stand&rpar;](https://lifehacker.com/small-business-ideas-for-kids-1850782196?utm_source=regular)
 - [Lifehacker] [Why the Steam Deck Is Still a Good Buy in 2023](https://lifehacker.com/why-the-steam-deck-is-still-a-good-buy-in-2023-1850776190?utm_source=regular)
 - [Lifehacker] [Creamy Scrambled Eggs Make a Surprisingly Good Dip](https://lifehacker.com/creamy-scrambled-eggs-make-a-surprisingly-good-dip-1850781646?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Find a PCR COVID Test &lpar;and Why You Need One&rpar;](https://lifehacker.com/where-to-find-a-pcr-covid-test-and-why-you-need-one-1850779459?utm_source=regular)
 - [Lifehacker] [Avoid These &#39;Money-Saving&#39; Habits That Don&#39;t Actually Save You Money](https://lifehacker.com/avoid-these-money-saving-habits-that-dont-actually-save-1850779247?utm_source=regular)
 - [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)
-- [Lifehacker] [The Best Ways to Organize Food in a Dorm Room](https://lifehacker.com/the-best-ways-to-organize-food-in-a-dorm-room-1850780610?utm_source=regular)
-- [Lifehacker] [Follow These Safety Tips Whenever You&#39;re Staying at a Hotel](https://lifehacker.com/follow-these-safety-tips-whenever-youre-staying-at-a-ho-1850780570?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Organize Food in a Dorm Room](https://lifehacker.com/the-best-ways-to-organize-food-in-a-dorm-room-1850780610?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
