@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Git vs GitHub](https://dev.to/harshacodex/git-vs-github-1adh)
 - [Dev.to/JS] [Guarapi - Framework Brasileiro](https://dev.to/joao_neto/guarapi-framework-brasileiro-275l)
 - [Dev.to/JS] [Programmers need to learn how to communicate](https://dev.to/ocean678/programmers-need-to-learn-how-to-communicate-1dbl)
 - [Dev.to/JS] [Upgrading React Native and Expo: From Old to New Versions 🚀📱](https://dev.to/medaimane/upgrading-react-native-and-expo-from-old-to-new-versions-1i8b)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)
 - [Lifehacker] [The Best Ways to Organize Food in a Dorm Room](https://lifehacker.com/the-best-ways-to-organize-food-in-a-dorm-room-1850780610?utm_source=regular)
 - [Lifehacker] [Follow These Safety Tips Whenever You&#39;re Staying at a Hotel](https://lifehacker.com/follow-these-safety-tips-whenever-youre-staying-at-a-ho-1850780570?utm_source=regular)
-- [Dev.to/JS] [Streamline SVG Sprites in Your React Applications](https://dev.to/simprl/streamline-svg-sprites-in-your-react-applications-37c)
 - [Lifehacker] [It&#39;s Time to Clean Your Sex Toys](https://lifehacker.com/how-to-clean-your-sex-toys-1848691835?utm_source=regular)
 - [Lifehacker] [How to Install Peel-and-Stick Trim](https://lifehacker.com/how-to-install-peel-and-stick-trim-1850779445?utm_source=regular)
 - [Lifehacker] [Use the SQ3R Method to Study More Effectively](https://lifehacker.com/use-the-sq3r-method-to-study-more-effectively-1850780175?utm_source=regular)
