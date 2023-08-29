@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guarapi - Framework Brasileiro](https://dev.to/joao_neto/guarapi-framework-brasileiro-275l)
 - [Dev.to/JS] [Programmers need to learn how to communicate](https://dev.to/ocean678/programmers-need-to-learn-how-to-communicate-1dbl)
 - [Dev.to/JS] [Upgrading React Native and Expo: From Old to New Versions 🚀📱](https://dev.to/medaimane/upgrading-react-native-and-expo-from-old-to-new-versions-1i8b)
 - [Dev.to/JS] [Variable Declaration and Assignment in JavaScript](https://dev.to/better678/variable-declaration-and-assignment-in-javascript-229b)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Time to Clean Your Sex Toys](https://lifehacker.com/how-to-clean-your-sex-toys-1848691835?utm_source=regular)
 - [Lifehacker] [How to Install Peel-and-Stick Trim](https://lifehacker.com/how-to-install-peel-and-stick-trim-1850779445?utm_source=regular)
 - [Lifehacker] [Use the SQ3R Method to Study More Effectively](https://lifehacker.com/use-the-sq3r-method-to-study-more-effectively-1850780175?utm_source=regular)
-- [Dev.to/JS] [The Need for Speed: Next.js Performance Overhaul with Polyfills and SWC](https://dev.to/kanav/the-need-for-speed-nextjs-performance-overhaul-with-polyfills-and-swc-49g4)
 - [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/how-to-play-connections-1850534478?utm_source=regular)
 - [Lifehacker] [Amazon Has Buy-One-Get-One-Free Video Games Right Now](https://lifehacker.com/amazon-has-buy-one-get-one-free-video-games-right-now-1850780431?utm_source=regular)
 - [Lifehacker] [Turn Leftover Biscuits Into Crispy Crackers](https://lifehacker.com/turn-leftover-biscuits-into-crispy-crackers-1850779992?utm_source=regular)
