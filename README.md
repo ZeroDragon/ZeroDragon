@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use Leftover Rice to Make a Warm, Comforting Salad](https://lifehacker.com/use-leftover-rice-to-make-a-warm-comforting-salad-1850783678?utm_source=regular)
+- [Dev.to/JS] [The Art of Debouncing in JavaScript: Enhancing User Experience](https://dev.to/junaidkhan/the-art-of-debouncing-in-javascript-enhancing-user-experience-46ah)
+- [Lifehacker] [What &#39;Restricting&#39; Means on Instagram](https://lifehacker.com/what-restricting-means-on-instagram-1850781850?utm_source=regular)
 - [Dev.to/JS] [how to build impressive real estate website using html css and js](https://dev.to/codewithsadee/how-to-build-impressive-real-estate-website-using-html-css-and-js-c01)
 - [Dev.to/JS] [Introducing CodeGlossary: Your Go-To Resource for Programming Terminology](https://dev.to/j471n/introducing-codeglossary-your-go-to-resource-for-programming-terminology-22ml)
 - [Lifehacker] [You Should Use Transferable Points When You Travel](https://lifehacker.com/you-should-use-transferable-points-when-you-travel-1850783625?utm_source=regular)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding syntax highlighting to my blog with Torchlight](https://dev.to/joebailey26/adding-syntax-highlighting-to-my-blog-with-torchlight-422o)
 - [Dev.to/JS] [GLSL Sample027](https://dev.to/ugomonnier/glsl-sample027-46e6)
 - [Dev.to/JS] [Form Handling | React | Part 2 | Error Validation](https://dev.to/shubhamtiwari909/form-handling-react-part-2-error-validation-3hfp)
-- [Dev.to/JS] [How to Test HarperDB Custom Functions with Node Tap](https://dev.to/doabledanny/how-to-test-harperdb-custom-functions-with-node-tap-53hl)
 - [Lifehacker] [Creamy Scrambled Eggs Make a Surprisingly Good Dip](https://lifehacker.com/creamy-scrambled-eggs-make-a-surprisingly-good-dip-1850781646?utm_source=regular)
 - [Lifehacker] [Three Ways to Make Better Onion Dip](https://lifehacker.com/three-ways-to-make-better-onion-dip-1850781583?utm_source=regular)
 - [Lifehacker] [What to Do When Your Child Is Being Bullied](https://lifehacker.com/what-to-do-when-your-child-is-being-bullied-1850781104?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Leftover Biscuits Into Crispy Crackers](https://lifehacker.com/turn-leftover-biscuits-into-crispy-crackers-1850779992?utm_source=regular)
 - [Lifehacker] [Make Ginger Dressing With Only Three Ingredients](https://lifehacker.com/this-ginger-dressing-tastes-exactly-like-it-came-from-a-1827997044?utm_source=regular)
 - [Lifehacker] [How to Check What Motherboard You Have](https://lifehacker.com/how-to-check-what-motherboard-you-have-1850776539?utm_source=regular)
-- [Lifehacker] [This Ninja Drone Is Under $80 Right Now](https://lifehacker.com/this-ninja-drone-is-under-80-right-now-1850770873?utm_source=regular)
-- [Lifehacker] [You Should Cook Your Oatmeal in Tea](https://lifehacker.com/you-should-cook-oatmeal-in-your-morning-cup-of-tea-1849631713?utm_source=regular)
-- [Lifehacker] [You Should Use a Solar Battery to Charge Your Cordless Tools](https://lifehacker.com/you-should-use-a-solar-battery-to-charge-your-cordless-1850779413?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Ninja Drone Is Under $80 Right Now](https://lifehacker.com/this-ninja-drone-is-under-80-right-now-1850770873?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
