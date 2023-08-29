@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Creamy Scrambled Eggs Make a Surprisingly Good Dip](https://lifehacker.com/creamy-scrambled-eggs-make-a-surprisingly-good-dip-1850781646?utm_source=regular)
+- [Dev.to/JS] [YouTube Channel](https://dev.to/f2_flassyttv/youtube-channel-2b7p)
+- [Dev.to/JS] [What would you do differently to build this simple form? Give your feedback!](https://dev.to/devtalhaakbar/what-would-you-do-differently-to-build-this-simple-form-give-your-feedback-3f43)
+- [Lifehacker] [Three Ways to Make Better Onion Dip](https://lifehacker.com/three-ways-to-make-better-onion-dip-1850781583?utm_source=regular)
+- [Dev.to/JS] [WWE 2K23 - CoryxKenshin Vs DashieGames](https://dev.to/f2_flassyttv/wwe-2k23-coryxkenshin-vs-dashiegames-3p8e)
+- [Dev.to/JS] [The Ultimate Guide to Customizing Your React Native App](https://dev.to/kalashin1/the-ultimate-guide-to-customizing-your-react-native-app-d6h)
+- [Dev.to/JS] [The Most Essential JavaScript Array: Everything You Need to Know From Beginner to Expert](https://dev.to/jsdevjournal/the-most-essential-javascript-array-everything-you-need-to-know-from-beginner-to-expert-24o3)
+- [Dev.to/JS] [My Coding Journey: A Revelation in Abstraction](https://dev.to/kaushit/my-coding-journey-a-revelation-in-abstraction-2ghn)
+- [Dev.to/JS] [how to create a fascinating background color changer using JavaScript](https://dev.to/jacknorman235/how-to-create-a-fascinating-background-color-changer-using-javascript-528d)
 - [Lifehacker] [What to Do When Your Child Is Being Bullied](https://lifehacker.com/what-to-do-when-your-child-is-being-bullied-1850781104?utm_source=regular)
 - [Dev.to/JS] [Promises em JavaScript](https://dev.to/mrlazarias/promises-em-javascript-1pf)
 - [Dev.to/JS] [How to Choose the Best POS System for Restaurants in Dubai?](https://dev.to/willium/how-to-choose-the-best-pos-system-for-restaurants-in-dubai-8bo)
@@ -33,13 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Convert HEIC to JPG on Windows](https://lifehacker.com/how-to-convert-heic-to-jpg-on-windows-and-mac-1850780835?utm_source=regular)
 - [Dev.to/JS] [Building an Interactive React Native App with Speech Recognition and OpenAI Integration](https://dev.to/joblesspoet/building-an-interactive-react-native-app-with-speech-recognition-and-openai-integration-2db6)
 - [Dev.to/JS] [Why join me at HalfStack Vienna 2023](https://dev.to/bogomil/why-join-me-at-halfstack-vienna-2023-5pb)
-- [Dev.to/JS] [User Gallery](https://dev.to/dimple031/user-gallery-41a1)
-- [Dev.to/JS] [Goodbye CSS-in-JS](https://dev.to/jgbbrd/goodbye-css-in-js-3b8)
-- [Dev.to/JS] [Understanding Closures](https://dev.to/bupd/understanding-closures-1mm9)
-- [Dev.to/JS] [Schlafen Sie stilvoll ein: Entdecken Sie unsere Premium Matratzen Kollektion](https://dev.to/karibianhome/schlafen-sie-stilvoll-ein-entdecken-sie-unsere-premium-matratzen-kollektion-2lg)
-- [Dev.to/JS] [The Terror of Mongolia JS13k Post-mortem &lpar;part 1&rpar;](https://dev.to/jacklehamster/the-terror-of-mongolia-js13k-post-mortem-part-1-33a4)
-- [Dev.to/JS] [Enabling Dark Mode in React.js with SCSS Modules 🌙](https://dev.to/0ro/enabling-dark-mode-in-reactjs-with-scss-modules-2mm0)
-- [Dev.to/JS] [Building High-Performance Web Applications with the MERN Stack](https://dev.to/sajeeb_me/building-high-performance-web-applications-with-the-mern-stack-peg)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, August 29](https://lifehacker.com/connections-answer-today-august-29-2023-1850780572?utm_source=regular)
 - [Lifehacker] [This Kodak Film Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-slide-scanner-is-170-right-now-1850768552?utm_source=regular)
 - [Lifehacker] [The AquaSonic Toothbrush Is $30 Right Now](https://lifehacker.com/the-aquasonic-toothbrush-is-30-right-now-1850770852?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ten Podcasts That Will Make You Smarter](https://lifehacker.com/podcasts-that-will-make-you-smarter-1850777961?utm_source=regular)
 - [Lifehacker] [You Can Finally Add Hyperlinks in Your iPhone’s Mail App](https://lifehacker.com/you-can-finally-add-hyperlinks-in-your-iphone-s-mail-ap-1850779455?utm_source=regular)
 - [Lifehacker] [The Best PlayStation Portal Alternatives](https://lifehacker.com/best-playstation-portal-alternatives-1850779462?utm_source=regular)
-- [Lifehacker] [You Should Divide These Perennials in Late Summer](https://lifehacker.com/you-should-divide-these-perennials-in-late-summer-1850779259?utm_source=regular)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in September 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-september-2023-1850779156?utm_source=regular)
-- [Lifehacker] [The Easiest Way to Make Your Salsa Better Than Everyone Else’s](https://lifehacker.com/the-easiest-way-to-make-your-salsa-better-than-everyone-1850775271?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Divide These Perennials in Late Summer](https://lifehacker.com/you-should-divide-these-perennials-in-late-summer-1850779259?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
