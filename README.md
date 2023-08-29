@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Create a New Gmail Account](https://lifehacker.com/how-to-create-a-new-gmail-account-1850784055?utm_source=regular)
+- [Dev.to/JS] [Expense Chart - Frontend Mentor](https://dev.to/virtualpujadev/expense-chart-frontend-mentor-4d8i)
+- [Dev.to/JS] [What is JavaScript XML?](https://dev.to/salmandotweb/what-is-javascript-xml-3efm)
+- [Dev.to/JS] [Bun : Fichiers et répertoires](https://dev.to/gouz/bun-fichiers-et-repertoires-1363)
+- [Lifehacker] [You Can Get Windows 11 Pro for $33 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-33-right-now-1850776721?utm_source=regular)
+- [Lifehacker] [How to Take a Better Nude](https://lifehacker.com/how-to-take-your-best-nudes-ever-1846640354?utm_source=regular)
+- [Lifehacker] [The Best Ways to Ensure You Never Host Another Houseguest](https://lifehacker.com/the-best-ways-to-ensure-you-never-host-another-housegue-1850784005?utm_source=regular)
 - [Lifehacker] [The Best Places Online to Download Movies](https://lifehacker.com/the-best-places-online-to-download-movies-1850781619?utm_source=regular)
 - [Lifehacker] [Air Fryer Cheesecake Makes This Fancy Dessert Easy](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857?utm_source=regular)
 - [Dev.to/JS] [12 Must-Have TypeScript Utility Types with Uses and Examples](https://dev.to/rajatkaush1k/12-must-have-typescript-utility-types-with-uses-and-examples-213j)
@@ -45,9 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Heads Up Car Display Screen Is $105 Right Now](https://lifehacker.com/this-heads-up-car-display-screen-is-105-right-now-1850776780?utm_source=regular)
 - [Lifehacker] [This Is the Best Gaming Controller for Any Console](https://lifehacker.com/this-is-the-best-gaming-controller-for-any-console-1850781549?utm_source=regular)
 - [Dev.to/JS] [Light Sabers Unleashed: The Lazy Developer&#39;s Guide to Outsmarting Botnets](https://dev.to/pangea/outsmart-botnets-with-ip-intel-10fi)
-- [Dev.to/JS] [🌐 5 Top Platforms to Learn Node.js for Newbies](https://dev.to/evergrowingdev/5-top-platforms-to-learn-nodejs-for-newbies-49jn)
-- [Dev.to/JS] [Introducing JavaScript&#39;s new &quot;using&quot; Keyword &lpar;for Variables&rpar;](https://dev.to/ubahthebuilder/introducing-javascripts-new-using-keyword-for-variables-1o2i)
-- [Dev.to/JS] [Explorando os Componentes Nativos do React: Fragment, Profiler, Strict Mode e Suspense](https://dev.to/jhonyaraujooficial/explorando-os-componentes-nativos-do-react-fragment-profiler-strict-mode-e-suspense-5djk)
 - [Lifehacker] [The Best Small Business Ideas for Kids &lpar;That Aren’t a Lemonade Stand&rpar;](https://lifehacker.com/small-business-ideas-for-kids-1850782196?utm_source=regular)
 - [Lifehacker] [Why the Steam Deck Is Still a Good Buy in 2023](https://lifehacker.com/why-the-steam-deck-is-still-a-good-buy-in-2023-1850776190?utm_source=regular)
 - [Lifehacker] [Creamy Scrambled Eggs Make a Surprisingly Good Dip](https://lifehacker.com/creamy-scrambled-eggs-make-a-surprisingly-good-dip-1850781646?utm_source=regular)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These &#39;Money-Saving&#39; Habits That Don&#39;t Actually Save You Money](https://lifehacker.com/avoid-these-money-saving-habits-that-dont-actually-save-1850779247?utm_source=regular)
 - [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)
 - [Lifehacker] [The Best Ways to Organize Food in a Dorm Room](https://lifehacker.com/the-best-ways-to-organize-food-in-a-dorm-room-1850780610?utm_source=regular)
-- [Lifehacker] [Follow These Safety Tips Whenever You&#39;re Staying at a Hotel](https://lifehacker.com/follow-these-safety-tips-whenever-youre-staying-at-a-ho-1850780570?utm_source=regular)
-- [Lifehacker] [It&#39;s Time to Clean Your Sex Toys](https://lifehacker.com/how-to-clean-your-sex-toys-1848691835?utm_source=regular)
-- [Lifehacker] [How to Install Peel-and-Stick Trim](https://lifehacker.com/how-to-install-peel-and-stick-trim-1850779445?utm_source=regular)
-- [Lifehacker] [Use the SQ3R Method to Study More Effectively](https://lifehacker.com/use-the-sq3r-method-to-study-more-effectively-1850780175?utm_source=regular)
-- [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/how-to-play-connections-1850534478?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Follow These Safety Tips Whenever You&#39;re Staying at a Hotel](https://lifehacker.com/follow-these-safety-tips-whenever-youre-staying-at-a-ho-1850780570?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
