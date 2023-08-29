@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Microservices with NestJS](https://dev.to/scofieldidehen/building-microservices-with-nestjs-4c2p)
 - [Dev.to/JS] [Basic concepts of Vue.js: ref&lpar;&rpar; vs reactive&lpar;&rpar; 👊](https://dev.to/dvalin99/reactivity-concepts-in-vue-ref-vs-reactive-31dd)
 - [Dev.to/JS] [Exploring Observables in Angular: Unveiling the Power of Reactive Programming](https://dev.to/chintanonweb/exploring-observables-in-angular-unveiling-the-power-of-reactive-programming-501e)
 - [Dev.to/JS] [Using Bryntum Scheduler to Optimize Driver and Shift Logistics](https://dev.to/bryntum/using-bryntum-scheduler-to-optimize-driver-and-shift-logistics-5dch)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A minimalist raster tile server with express and postGIS - part 2. Adding more features](https://dev.to/leoalho/a-minimalist-raster-tile-server-with-express-and-postgis-part-2-adding-more-features-2d0c)
 - [Dev.to/JS] [Git vs GitHub](https://dev.to/harshacodex/git-vs-github-1adh)
 - [Dev.to/JS] [Guarapi - Framework Brasileiro](https://dev.to/joao_neto/guarapi-framework-brasileiro-275l)
-- [Dev.to/JS] [Programmers need to learn how to communicate](https://dev.to/ocean678/programmers-need-to-learn-how-to-communicate-1dbl)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, August 29](https://lifehacker.com/connections-answer-today-august-29-2023-1850780572?utm_source=regular)
 - [Lifehacker] [This Kodak Film Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-slide-scanner-is-170-right-now-1850768552?utm_source=regular)
 - [Lifehacker] [The AquaSonic Toothbrush Is $30 Right Now](https://lifehacker.com/the-aquasonic-toothbrush-is-30-right-now-1850770852?utm_source=regular)
