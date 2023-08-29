@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [One Step Closer](https://dev.to/enz0rd/one-step-closer-4794)
 - [Dev.to/JS] [React Custom Hook: useStorage](https://dev.to/sergeyleschev/react-custom-hook-usestorage-and)
 - [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
 - [Dev.to/JS] [Episode 23/34: Analog.js, Developer Survey, ng-conf, A11y](https://dev.to/this-is-angular/episode-2334-analogjs-developer-survey-ng-conf-a11y-441j)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started With React Flow](https://dev.to/anadee11/getting-started-with-react-flow-3727)
 - [Lifehacker] [Your Mornings Deserve This ‘Magic Shell’ Yogurt Cup](https://lifehacker.com/your-mornings-deserve-this-magic-shell-yogurt-cup-1850784080?utm_source=regular)
 - [Lifehacker] [Use Leftover Rice to Make a Warm, Comforting Salad](https://lifehacker.com/use-leftover-rice-to-make-a-warm-comforting-salad-1850783678?utm_source=regular)
-- [Dev.to/JS] [The Art of Debouncing in JavaScript: Enhancing User Experience](https://dev.to/junaidkhan/the-art-of-debouncing-in-javascript-enhancing-user-experience-46ah)
 - [Lifehacker] [What &#39;Restricting&#39; Means on Instagram](https://lifehacker.com/what-restricting-means-on-instagram-1850781850?utm_source=regular)
 - [Lifehacker] [You Should Use Transferable Points When You Travel](https://lifehacker.com/you-should-use-transferable-points-when-you-travel-1850783625?utm_source=regular)
 - [Lifehacker] [This Heads Up Car Display Screen Is $105 Right Now](https://lifehacker.com/this-heads-up-car-display-screen-is-105-right-now-1850776780?utm_source=regular)
