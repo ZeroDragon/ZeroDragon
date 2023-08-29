@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Places Online to Download Movies](https://lifehacker.com/the-best-places-online-to-download-movies-1850781619?utm_source=regular)
+- [Lifehacker] [Air Fryer Cheesecake Makes This Fancy Dessert Easy](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857?utm_source=regular)
+- [Dev.to/JS] [12 Must-Have TypeScript Utility Types with Uses and Examples](https://dev.to/rajatkaush1k/12-must-have-typescript-utility-types-with-uses-and-examples-213j)
+- [Lifehacker] [The Easiest Way to Increase Your Snapchat Score](https://lifehacker.com/the-easiest-way-to-increase-your-snapchat-score-1850783404?utm_source=regular)
 - [Dev.to/JS] [A Simple Guide to Using useEffect in React](https://dev.to/muhammadazhariqbal/a-simple-guide-to-using-useeffect-in-react-3hch)
 - [Dev.to/JS] [🎈 Exploring React Props: The Key to Component Communication and Reusability 🧩](https://dev.to/anii1429/exploring-react-props-the-key-to-component-communication-and-reusability-13nk)
 - [Lifehacker] [The Differences Between the Samsung Galaxy Z Flip 5 and the Galaxy Z Fold 5](https://lifehacker.com/the-differences-between-the-samsung-galaxy-z-flip-5-and-1850782228?utm_source=regular)
@@ -35,7 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Leftover Rice to Make a Warm, Comforting Salad](https://lifehacker.com/use-leftover-rice-to-make-a-warm-comforting-salad-1850783678?utm_source=regular)
 - [Dev.to/JS] [The Art of Debouncing in JavaScript: Enhancing User Experience](https://dev.to/junaidkhan/the-art-of-debouncing-in-javascript-enhancing-user-experience-46ah)
 - [Lifehacker] [What &#39;Restricting&#39; Means on Instagram](https://lifehacker.com/what-restricting-means-on-instagram-1850781850?utm_source=regular)
-- [Dev.to/JS] [how to build impressive real estate website using html css and js](https://dev.to/codewithsadee/how-to-build-impressive-real-estate-website-using-html-css-and-js-c01)
+- [Dev.to/JS] [How to Build Impressive Real Estate Website Using HTML CSS and JavaScript](https://dev.to/codewithsadee/how-to-build-impressive-real-estate-website-using-html-css-and-js-c01)
 - [Dev.to/JS] [Introducing CodeGlossary: Your Go-To Resource for Programming Terminology](https://dev.to/j471n/introducing-codeglossary-your-go-to-resource-for-programming-terminology-22ml)
 - [Lifehacker] [You Should Use Transferable Points When You Travel](https://lifehacker.com/you-should-use-transferable-points-when-you-travel-1850783625?utm_source=regular)
 - [Lifehacker] [This Heads Up Car Display Screen Is $105 Right Now](https://lifehacker.com/this-heads-up-car-display-screen-is-105-right-now-1850776780?utm_source=regular)
@@ -45,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing JavaScript&#39;s new &quot;using&quot; Keyword &lpar;for Variables&rpar;](https://dev.to/ubahthebuilder/introducing-javascripts-new-using-keyword-for-variables-1o2i)
 - [Dev.to/JS] [Explorando os Componentes Nativos do React: Fragment, Profiler, Strict Mode e Suspense](https://dev.to/jhonyaraujooficial/explorando-os-componentes-nativos-do-react-fragment-profiler-strict-mode-e-suspense-5djk)
 - [Lifehacker] [The Best Small Business Ideas for Kids &lpar;That Aren’t a Lemonade Stand&rpar;](https://lifehacker.com/small-business-ideas-for-kids-1850782196?utm_source=regular)
-- [Dev.to/JS] [Day 35: Typescript](https://dev.to/dhrn/day-35-typescript-584o)
 - [Lifehacker] [Why the Steam Deck Is Still a Good Buy in 2023](https://lifehacker.com/why-the-steam-deck-is-still-a-good-buy-in-2023-1850776190?utm_source=regular)
 - [Lifehacker] [Creamy Scrambled Eggs Make a Surprisingly Good Dip](https://lifehacker.com/creamy-scrambled-eggs-make-a-surprisingly-good-dip-1850781646?utm_source=regular)
 - [Lifehacker] [Three Ways to Make Better Onion Dip](https://lifehacker.com/three-ways-to-make-better-onion-dip-1850781583?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Time to Clean Your Sex Toys](https://lifehacker.com/how-to-clean-your-sex-toys-1848691835?utm_source=regular)
 - [Lifehacker] [How to Install Peel-and-Stick Trim](https://lifehacker.com/how-to-install-peel-and-stick-trim-1850779445?utm_source=regular)
 - [Lifehacker] [Use the SQ3R Method to Study More Effectively](https://lifehacker.com/use-the-sq3r-method-to-study-more-effectively-1850780175?utm_source=regular)
-- [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/how-to-play-connections-1850534478?utm_source=regular)
-- [Lifehacker] [Amazon Has Buy-One-Get-One-Free Video Games Right Now](https://lifehacker.com/amazon-has-buy-one-get-one-free-video-games-right-now-1850780431?utm_source=regular)
-- [Lifehacker] [Turn Leftover Biscuits Into Crispy Crackers](https://lifehacker.com/turn-leftover-biscuits-into-crispy-crackers-1850779992?utm_source=regular)
-- [Lifehacker] [Make Ginger Dressing With Only Three Ingredients](https://lifehacker.com/this-ginger-dressing-tastes-exactly-like-it-came-from-a-1827997044?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/how-to-play-connections-1850534478?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
