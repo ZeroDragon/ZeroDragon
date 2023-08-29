@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [how to build impressive real estate website using html css and js](https://dev.to/codewithsadee/how-to-build-impressive-real-estate-website-using-html-css-and-js-c01)
+- [Dev.to/JS] [Introducing CodeGlossary: Your Go-To Resource for Programming Terminology](https://dev.to/j471n/introducing-codeglossary-your-go-to-resource-for-programming-terminology-22ml)
+- [Lifehacker] [You Should Use Transferable Points When You Travel](https://lifehacker.com/you-should-use-transferable-points-when-you-travel-1850783625?utm_source=regular)
 - [Lifehacker] [This Heads Up Car Display Screen Is $105 Right Now](https://lifehacker.com/this-heads-up-car-display-screen-is-105-right-now-1850776780?utm_source=regular)
 - [Lifehacker] [This Is the Best Gaming Controller for Any Console](https://lifehacker.com/this-is-the-best-gaming-controller-for-any-console-1850781549?utm_source=regular)
 - [Dev.to/JS] [Light Sabers Unleashed: The Lazy Developer&#39;s Guide to Outsmarting Botnets](https://dev.to/pangea/outsmart-botnets-with-ip-intel-10fi)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Form Handling | React | Part 2 | Error Validation](https://dev.to/shubhamtiwari909/form-handling-react-part-2-error-validation-3hfp)
 - [Dev.to/JS] [How to Test HarperDB Custom Functions with Node Tap](https://dev.to/doabledanny/how-to-test-harperdb-custom-functions-with-node-tap-53hl)
 - [Lifehacker] [Creamy Scrambled Eggs Make a Surprisingly Good Dip](https://lifehacker.com/creamy-scrambled-eggs-make-a-surprisingly-good-dip-1850781646?utm_source=regular)
-- [Dev.to/JS] [YouTube Channel](https://dev.to/f2_flassyttv/youtube-channel-2b7p)
-- [Dev.to/JS] [What would you do differently to build this simple form? Give your feedback!](https://dev.to/devtalhaakbar/what-would-you-do-differently-to-build-this-simple-form-give-your-feedback-3f43)
 - [Lifehacker] [Three Ways to Make Better Onion Dip](https://lifehacker.com/three-ways-to-make-better-onion-dip-1850781583?utm_source=regular)
 - [Lifehacker] [What to Do When Your Child Is Being Bullied](https://lifehacker.com/what-to-do-when-your-child-is-being-bullied-1850781104?utm_source=regular)
 - [Lifehacker] [How to Convert HEIC to JPG on Windows](https://lifehacker.com/how-to-convert-heic-to-jpg-on-windows-and-mac-1850780835?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Check What Motherboard You Have](https://lifehacker.com/how-to-check-what-motherboard-you-have-1850776539?utm_source=regular)
 - [Lifehacker] [This Ninja Drone Is Under $80 Right Now](https://lifehacker.com/this-ninja-drone-is-under-80-right-now-1850770873?utm_source=regular)
 - [Lifehacker] [You Should Cook Your Oatmeal in Tea](https://lifehacker.com/you-should-cook-oatmeal-in-your-morning-cup-of-tea-1849631713?utm_source=regular)
-- [Lifehacker] [You Should Use a Solar Battery to Charge Your Cordless Tools](https://lifehacker.com/you-should-use-a-solar-battery-to-charge-your-cordless-1850779413?utm_source=regular)
-- [Lifehacker] [Use These Apps to Download Music From YouTube](https://lifehacker.com/how-to-download-music-from-youtube-1850779521?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Use a Solar Battery to Charge Your Cordless Tools](https://lifehacker.com/you-should-use-a-solar-battery-to-charge-your-cordless-1850779413?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
