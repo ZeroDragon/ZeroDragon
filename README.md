@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building High-Performance Web Applications with the MERN Stack](https://dev.to/sajeeb_me/building-high-performance-web-applications-with-the-mern-stack-peg)
+- [Dev.to/JS] [Express JS Problem](https://dev.to/21bca113/express-js-problem-490)
+- [Dev.to/JS] [#LearnedToday: FileSystemAccess API](https://dev.to/danielzotti/learnedtoday-filesystemaccess-api-2361)
+- [Dev.to/JS] [AWS RedShift Online Training from India](https://dev.to/viswaonlinetrainings/aws-redshift-online-training-from-india-5c09)
 - [Dev.to/JS] [How To Seamlessly Integrate Sequelize with Node.js and JavaScript for Database Monitoring](https://dev.to/metis/how-to-seamlessly-integrate-sequelize-with-nodejs-and-javascript-for-database-monitoring-3f4l)
 - [Dev.to/JS] [Best Azure Active Directory Training In Hyderabad](https://dev.to/viswaonlinetrainings/best-azure-active-directory-training-in-hyderabad-l74)
 - [Dev.to/JS] [Generate minimum 8 character password with at least one lowercase,one uppercase,one number and one special character.](https://dev.to/palchandu_dev/generate-minimum-8-character-password-with-at-least-one-lowercaseone-uppercaseone-number-and-one-special-character-53hn)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shopping mall](https://dev.to/shabista12345/shopping-mall-4gp9)
 - [Dev.to/JS] [Hiring Dedicated React Native Developers: Crafting Your Dream Team](https://dev.to/bradlyhammer/hiring-dedicated-react-native-developers-crafting-your-dream-team-7hg)
 - [Dev.to/JS] [Building Microservices with NestJS](https://dev.to/scofieldidehen/building-microservices-with-nestjs-4c2p)
-- [Dev.to/JS] [Basic concepts of Vue.js: ref&lpar;&rpar; vs reactive&lpar;&rpar; 👊](https://dev.to/dvalin99/reactivity-concepts-in-vue-ref-vs-reactive-31dd)
-- [Dev.to/JS] [Exploring Observables in Angular: Unveiling the Power of Reactive Programming](https://dev.to/chintanonweb/exploring-observables-in-angular-unveiling-the-power-of-reactive-programming-501e)
-- [Dev.to/JS] [Using Bryntum Scheduler to Optimize Driver and Shift Logistics](https://dev.to/bryntum/using-bryntum-scheduler-to-optimize-driver-and-shift-logistics-5dch)
-- [Dev.to/JS] [Serial Vs. Parallel API calling in JavaScript](https://dev.to/shameel/serial-vs-parallel-api-calling-in-javascript-3h3j)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, August 29](https://lifehacker.com/connections-answer-today-august-29-2023-1850780572?utm_source=regular)
 - [Lifehacker] [This Kodak Film Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-slide-scanner-is-170-right-now-1850768552?utm_source=regular)
 - [Lifehacker] [The AquaSonic Toothbrush Is $30 Right Now](https://lifehacker.com/the-aquasonic-toothbrush-is-30-right-now-1850770852?utm_source=regular)
