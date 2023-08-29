@@ -27,6 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [React Custom Hook: useStorage](https://dev.to/sergeyleschev/react-custom-hook-usestorage-and)
+- [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
 - [Dev.to/JS] [Episode 23/34: Analog.js, Developer Survey, ng-conf, A11y](https://dev.to/this-is-angular/episode-2334-analogjs-developer-survey-ng-conf-a11y-441j)
 - [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073?utm_source=regular)
 - [Dev.to/JS] [Choosing the Right TypeScript Type for Your Objects: Exploring Common Approaches](https://dev.to/joblesspoet/choosing-the-right-typescript-type-for-your-objects-exploring-common-approaches-2n95)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The AquaSonic Toothbrush Is $30 Right Now](https://lifehacker.com/the-aquasonic-toothbrush-is-30-right-now-1850770852?utm_source=regular)
 - [Lifehacker] [Where to Find a PCR COVID Test &lpar;and Why You Need One&rpar;](https://lifehacker.com/where-to-find-a-pcr-covid-test-and-why-you-need-one-1850779459?utm_source=regular)
 - [Lifehacker] [Avoid These &#39;Money-Saving&#39; Habits That Don&#39;t Actually Save You Money](https://lifehacker.com/avoid-these-money-saving-habits-that-dont-actually-save-1850779247?utm_source=regular)
-- [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)
-- [Lifehacker] [The Best Ways to Organize Food in a Dorm Room](https://lifehacker.com/the-best-ways-to-organize-food-in-a-dorm-room-1850780610?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
