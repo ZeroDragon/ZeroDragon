@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleash Your Digital Potential with Top-notch Web Development Services](https://dev.to/markeljovelin/unleash-your-digital-potential-with-top-notch-web-development-services-38gl)
+- [Dev.to/JS] [A minimalist raster tile server with express and postGIS - part 2. Adding more features](https://dev.to/leoalho/a-minimalist-raster-tile-server-with-express-and-postgis-part-2-adding-more-features-2d0c)
 - [Dev.to/JS] [Git vs GitHub](https://dev.to/harshacodex/git-vs-github-1adh)
 - [Dev.to/JS] [Guarapi - Framework Brasileiro](https://dev.to/joao_neto/guarapi-framework-brasileiro-275l)
 - [Dev.to/JS] [Programmers need to learn how to communicate](https://dev.to/ocean678/programmers-need-to-learn-how-to-communicate-1dbl)
@@ -39,10 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supercharge Your Productivity with the Copy&amp;Paste Browser Extension! ✨](https://dev.to/nopass0/supercharge-your-productivity-with-the-copypaste-browser-extension-4ihj)
 - [Dev.to/JS] [How I moved from React to Svelte](https://dev.to/kedzior_io/how-i-moved-from-react-to-svelte-gdi)
 - [Lifehacker] [The AquaSonic Toothbrush Is $30 Right Now](https://lifehacker.com/the-aquasonic-toothbrush-is-30-right-now-1850770852?utm_source=regular)
-- [Dev.to/JS] [React Custom Hook: useStateWithValidation](https://dev.to/sergeyleschev/react-custom-hook-usestatewithvalidation-1813)
 - [Lifehacker] [Where to Find a PCR COVID Test &lpar;and Why You Need One&rpar;](https://lifehacker.com/where-to-find-a-pcr-covid-test-and-why-you-need-one-1850779459?utm_source=regular)
 - [Lifehacker] [Avoid These &#39;Money-Saving&#39; Habits That Don&#39;t Actually Save You Money](https://lifehacker.com/avoid-these-money-saving-habits-that-dont-actually-save-1850779247?utm_source=regular)
-- [Dev.to/JS] [Understanding React Hooks: A Deep Dive](https://dev.to/cybermaxi7/understanding-react-hooks-a-deep-dive-1jai)
 - [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)
 - [Lifehacker] [The Best Ways to Organize Food in a Dorm Room](https://lifehacker.com/the-best-ways-to-organize-food-in-a-dorm-room-1850780610?utm_source=regular)
 - [Lifehacker] [Follow These Safety Tips Whenever You&#39;re Staying at a Hotel](https://lifehacker.com/follow-these-safety-tips-whenever-youre-staying-at-a-ho-1850780570?utm_source=regular)
