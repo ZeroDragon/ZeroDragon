@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [User Gallery](https://dev.to/dimple031/user-gallery-41a1)
+- [Dev.to/JS] [Goodbye CSS-in-JS](https://dev.to/jgbbrd/goodbye-css-in-js-3b8)
+- [Dev.to/JS] [Understanding Closures](https://dev.to/bupd/understanding-closures-1mm9)
+- [Dev.to/JS] [Schlafen Sie stilvoll ein: Entdecken Sie unsere Premium Matratzen Kollektion](https://dev.to/karibianhome/schlafen-sie-stilvoll-ein-entdecken-sie-unsere-premium-matratzen-kollektion-2lg)
+- [Dev.to/JS] [The Terror of Mongolia JS13k Post-mortem &lpar;part 1&rpar;](https://dev.to/jacklehamster/the-terror-of-mongolia-js13k-post-mortem-part-1-33a4)
 - [Dev.to/JS] [Enabling Dark Mode in React.js with SCSS Modules 🌙](https://dev.to/0ro/enabling-dark-mode-in-reactjs-with-scss-modules-2mm0)
 - [Dev.to/JS] [Building High-Performance Web Applications with the MERN Stack](https://dev.to/sajeeb_me/building-high-performance-web-applications-with-the-mern-stack-peg)
 - [Dev.to/JS] [Express JS Problem](https://dev.to/21bca113/express-js-problem-490)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AWS RedShift Online Training from India](https://dev.to/viswaonlinetrainings/aws-redshift-online-training-from-india-5c09)
 - [Dev.to/JS] [How To Seamlessly Integrate Sequelize with Node.js and JavaScript for Database Monitoring](https://dev.to/metis/how-to-seamlessly-integrate-sequelize-with-nodejs-and-javascript-for-database-monitoring-3f4l)
 - [Dev.to/JS] [Best Azure Active Directory Training In Hyderabad](https://dev.to/viswaonlinetrainings/best-azure-active-directory-training-in-hyderabad-l74)
-- [Dev.to/JS] [Generate minimum 8 character password with at least one lowercase,one uppercase,one number and one special character.](https://dev.to/palchandu_dev/generate-minimum-8-character-password-with-at-least-one-lowercaseone-uppercaseone-number-and-one-special-character-53hn)
-- [Dev.to/JS] [BJS Posts](https://dev.to/sarwari797/bjs-posts-18hm)
-- [Dev.to/JS] [Create function to check a character exist in any string or not using string prototype.](https://dev.to/palchandu_dev/create-function-to-check-a-character-exist-in-any-string-or-not-using-string-prototype-4c20)
-- [Dev.to/JS] [Shopping mall](https://dev.to/shabista12345/shopping-mall-4gp9)
-- [Dev.to/JS] [Hiring Dedicated React Native Developers: Crafting Your Dream Team](https://dev.to/bradlyhammer/hiring-dedicated-react-native-developers-crafting-your-dream-team-7hg)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, August 29](https://lifehacker.com/connections-answer-today-august-29-2023-1850780572?utm_source=regular)
 - [Lifehacker] [This Kodak Film Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-slide-scanner-is-170-right-now-1850768552?utm_source=regular)
 - [Lifehacker] [The AquaSonic Toothbrush Is $30 Right Now](https://lifehacker.com/the-aquasonic-toothbrush-is-30-right-now-1850770852?utm_source=regular)
