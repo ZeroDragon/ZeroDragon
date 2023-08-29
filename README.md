@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Simple Guide to Using useEffect in React](https://dev.to/muhammadazhariqbal/a-simple-guide-to-using-useeffect-in-react-3hch)
+- [Dev.to/JS] [🎈 Exploring React Props: The Key to Component Communication and Reusability 🧩](https://dev.to/anii1429/exploring-react-props-the-key-to-component-communication-and-reusability-13nk)
+- [Lifehacker] [The Differences Between the Samsung Galaxy Z Flip 5 and the Galaxy Z Fold 5](https://lifehacker.com/the-differences-between-the-samsung-galaxy-z-flip-5-and-1850782228?utm_source=regular)
+- [Dev.to/JS] [Optimizing SEO: Generating Dynamic Sitemaps for Your Angular Application](https://dev.to/this-is-angular/optimizing-seo-generating-dynamic-sitemaps-for-your-angular-application-1mgc)
+- [Dev.to/JS] [Getting Started With React Flow](https://dev.to/anadee11/getting-started-with-react-flow-3727)
+- [Lifehacker] [Your Mornings Deserve This ‘Magic Shell’ Yogurt Cup](https://lifehacker.com/your-mornings-deserve-this-magic-shell-yogurt-cup-1850784080?utm_source=regular)
 - [Lifehacker] [Use Leftover Rice to Make a Warm, Comforting Salad](https://lifehacker.com/use-leftover-rice-to-make-a-warm-comforting-salad-1850783678?utm_source=regular)
 - [Dev.to/JS] [The Art of Debouncing in JavaScript: Enhancing User Experience](https://dev.to/junaidkhan/the-art-of-debouncing-in-javascript-enhancing-user-experience-46ah)
 - [Lifehacker] [What &#39;Restricting&#39; Means on Instagram](https://lifehacker.com/what-restricting-means-on-instagram-1850781850?utm_source=regular)
@@ -41,10 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Small Business Ideas for Kids &lpar;That Aren’t a Lemonade Stand&rpar;](https://lifehacker.com/small-business-ideas-for-kids-1850782196?utm_source=regular)
 - [Dev.to/JS] [Day 35: Typescript](https://dev.to/dhrn/day-35-typescript-584o)
 - [Lifehacker] [Why the Steam Deck Is Still a Good Buy in 2023](https://lifehacker.com/why-the-steam-deck-is-still-a-good-buy-in-2023-1850776190?utm_source=regular)
-- [Dev.to/JS] [The Sisyphean Quest for Web Performance](https://dev.to/this-is-learning/the-sisyphean-quest-for-web-performance-22l3)
-- [Dev.to/JS] [Adding syntax highlighting to my blog with Torchlight](https://dev.to/joebailey26/adding-syntax-highlighting-to-my-blog-with-torchlight-422o)
-- [Dev.to/JS] [GLSL Sample027](https://dev.to/ugomonnier/glsl-sample027-46e6)
-- [Dev.to/JS] [Form Handling | React | Part 2 | Error Validation](https://dev.to/shubhamtiwari909/form-handling-react-part-2-error-validation-3hfp)
 - [Lifehacker] [Creamy Scrambled Eggs Make a Surprisingly Good Dip](https://lifehacker.com/creamy-scrambled-eggs-make-a-surprisingly-good-dip-1850781646?utm_source=regular)
 - [Lifehacker] [Three Ways to Make Better Onion Dip](https://lifehacker.com/three-ways-to-make-better-onion-dip-1850781583?utm_source=regular)
 - [Lifehacker] [What to Do When Your Child Is Being Bullied](https://lifehacker.com/what-to-do-when-your-child-is-being-bullied-1850781104?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/how-to-play-connections-1850534478?utm_source=regular)
 - [Lifehacker] [Amazon Has Buy-One-Get-One-Free Video Games Right Now](https://lifehacker.com/amazon-has-buy-one-get-one-free-video-games-right-now-1850780431?utm_source=regular)
 - [Lifehacker] [Turn Leftover Biscuits Into Crispy Crackers](https://lifehacker.com/turn-leftover-biscuits-into-crispy-crackers-1850779992?utm_source=regular)
-- [Lifehacker] [Make Ginger Dressing With Only Three Ingredients](https://lifehacker.com/this-ginger-dressing-tastes-exactly-like-it-came-from-a-1827997044?utm_source=regular)
-- [Lifehacker] [How to Check What Motherboard You Have](https://lifehacker.com/how-to-check-what-motherboard-you-have-1850776539?utm_source=regular)
-- [Lifehacker] [This Ninja Drone Is Under $80 Right Now](https://lifehacker.com/this-ninja-drone-is-under-80-right-now-1850770873?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Ginger Dressing With Only Three Ingredients](https://lifehacker.com/this-ginger-dressing-tastes-exactly-like-it-came-from-a-1827997044?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
