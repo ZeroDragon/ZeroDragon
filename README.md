@@ -26,8 +26,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Boring day! What&#39;s technique for custom software development???](https://dev.to/nudlebee/boring-day-whats-technique-for-custom-software-development-ijb)
-- [Dev.to/JS] [🚀 Unlocking Your Business Mindset: You Are the CEO of Your Skills 🚀](https://dev.to/kaushit/unlocking-your-business-mindset-you-are-the-ceo-of-your-skills-3aai)
 - [Dev.to/JS] [Does Software Engineer Necessary in The Modern World?](https://dev.to/rogerwillium/does-software-engineer-necessary-in-the-modern-world-368a)
 - [Dev.to/JS] [Does The First McDonalds Still Exist? Share Your Idea](https://dev.to/rogerwillium/does-the-first-mcdonalds-still-exist-share-your-idea-1cbf)
 - [Dev.to/JS] [How to implement SSL/TLS pinning in Node.js](https://dev.to/snyk/how-to-implement-ssltls-pinning-in-nodejs-4f1a)
@@ -43,6 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073?utm_source=regular)
 - [Dev.to/JS] [Choosing the Right TypeScript Type for Your Objects: Exploring Common Approaches](https://dev.to/joblesspoet/choosing-the-right-typescript-type-for-your-objects-exploring-common-approaches-2n95)
 - [Lifehacker] [How to Create a New Gmail Account](https://lifehacker.com/how-to-create-a-new-gmail-account-1850784055?utm_source=regular)
+- [Dev.to/JS] [Expense Chart - Frontend Mentor](https://dev.to/virtualpujadev/expense-chart-frontend-mentor-4d8i)
+- [Dev.to/JS] [What is JavaScript XML?](https://dev.to/salmandotweb/what-is-javascript-xml-3efm)
 - [Lifehacker] [You Can Get Windows 11 Pro for $33 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-33-right-now-1850776721?utm_source=regular)
 - [Lifehacker] [How to Take a Better Nude](https://lifehacker.com/how-to-take-your-best-nudes-ever-1846640354?utm_source=regular)
 - [Lifehacker] [The Best Ways to Ensure You Never Host Another Houseguest](https://lifehacker.com/the-best-ways-to-ensure-you-never-host-another-housegue-1850784005?utm_source=regular)
