@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Exploring the Luxurious Homes for Sale in Boca Bridges, Boca Raton](https://dev.to/johnsalt89/exploring-the-luxurious-homes-for-sale-in-boca-bridges-boca-raton-343g)
+- [Dev.to/JS] [Building a Complete To-Do App with SvelteKit: Taking Your Skills to the Next Level](https://dev.to/ironside/building-a-complete-to-do-app-with-sveltekit-taking-your-skills-to-the-next-level-1j3g)
+- [Lifehacker] [How to Use Vanish Mode on Instagram](https://lifehacker.com/how-to-use-vanish-mode-on-instagram-1850788353?utm_source=regular)
+- [Dev.to/JS] [Named Arguments in JavaScript: Cleaner Code with Destructuring](https://dev.to/joelnbl/named-arguments-in-javascript-cleaner-code-with-destructuring-329m)
+- [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-a-grilled-cheese-sandwich-1850009055?utm_source=regular)
+- [Lifehacker] [All the Netflix Original Movies Coming This Fall](https://lifehacker.com/all-the-netflix-original-movies-coming-this-fall-1850787679?utm_source=regular)
 - [Dev.to/JS] [Lets understand working of Internet&lpar;S1:E1&rpar;](https://dev.to/ankitparashar700/lets-understand-working-of-internets1e1-3n9e)
 - [Lifehacker] [Use Hard-Boiled Eggs to Keep Your Hollandaise From Breaking](https://lifehacker.com/use-hard-boiled-eggs-to-keep-your-hollandaise-from-brea-1850787059?utm_source=regular)
 - [Dev.to/JS] [JavaScript Control Structures: The Adventure Continues](https://dev.to/init_chandan/javascript-control-structures-the-adventure-continues-53j4)
@@ -47,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Max in September 2023](https://lifehacker.com/whats-new-on-max-in-september-2023-1850782564?utm_source=regular)
 - [Dev.to/JS] [Infinite Scrolling in React: A Comprehensive Guide](https://dev.to/anjankarmakar/infinite-scrolling-in-react-a-comprehensive-guide-2o05)
 - [Dev.to/JS] [Easily test combos of microservices underlying your distributed app](https://dev.to/skyrampmia/easily-test-combos-of-microservices-underlying-your-distributed-app-i04)
-- [Dev.to/JS] [Cypress Feature: Let&#39;s Play with &quot;Test Replay&quot;](https://dev.to/kailashpathak7/cypress-feature-lets-play-with-test-replay-3ga0)
 - [Lifehacker] [How to Set Up Parental Controls on TikTok](https://lifehacker.com/how-to-set-up-parental-controls-on-tiktok-1850786215?utm_source=regular)
 - [Lifehacker] [Why You Should Never Tent Your AC Unit](https://lifehacker.com/why-you-should-never-tent-your-ac-unit-1850782683?utm_source=regular)
 - [Lifehacker] [What to Know Before Paying for YouTube TV](https://lifehacker.com/youtube-tv-review-1850782942?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073?utm_source=regular)
 - [Lifehacker] [How to Create a New Gmail Account](https://lifehacker.com/how-to-create-a-new-gmail-account-1850784055?utm_source=regular)
 - [Lifehacker] [You Can Get Windows 11 Pro for $33 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-33-right-now-1850776721?utm_source=regular)
-- [Lifehacker] [How to Take a Better Nude](https://lifehacker.com/how-to-take-your-best-nudes-ever-1846640354?utm_source=regular)
-- [Lifehacker] [The Best Ways to Ensure You Never Host Another Houseguest](https://lifehacker.com/the-best-ways-to-ensure-you-never-host-another-housegue-1850784005?utm_source=regular)
-- [Lifehacker] [The Best Places Online to Download Movies](https://lifehacker.com/the-best-places-online-to-download-movies-1850781619?utm_source=regular)
-- [Lifehacker] [Air Fryer Cheesecake Makes This Fancy Dessert Easy](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Take a Better Nude](https://lifehacker.com/how-to-take-your-best-nudes-ever-1846640354?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
