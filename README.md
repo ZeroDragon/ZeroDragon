@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closures in Javascript](https://dev.to/artydev/closures-in-javascript-23b6)
+- [Dev.to/JS] [How to hide Zendesk web widget in react](https://dev.to/slimpython/how-to-hide-zendesk-web-widget-in-react-55e4)
+- [Dev.to/JS] [The Ascent of Node.js: How a runtime changed the Web](https://dev.to/worldlinetech/the-ascent-of-nodejs-how-a-runtime-changed-the-web-41g9)
+- [Dev.to/JS] [Superb Developer](https://dev.to/superbdeveloper92/superb-developer-5d2i)
+- [Dev.to/JS] [Stop using npm or yarn to install node modules &lpar;pnpm vs npm &amp; yarn&rpar;](https://dev.to/xplodivity/stop-using-npm-or-yarn-to-install-node-modules-pnpm-vs-npm-yarn-3a05)
 - [Dev.to/JS] [Does Software Engineer Necessary in The Modern World?](https://dev.to/rogerwillium/does-software-engineer-necessary-in-the-modern-world-368a)
 - [Dev.to/JS] [Does The First McDonalds Still Exist? Share Your Idea](https://dev.to/rogerwillium/does-the-first-mcdonalds-still-exist-share-your-idea-1cbf)
 - [Dev.to/JS] [How to implement SSL/TLS pinning in Node.js](https://dev.to/snyk/how-to-implement-ssltls-pinning-in-nodejs-4f1a)
@@ -35,14 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tips for a web developer entry level](https://dev.to/bk3ys/tips-for-a-web-developer-entry-level-40jl)
 - [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)
 - [Dev.to/JS] [One Step Closer](https://dev.to/enz0rd/one-step-closer-4794)
-- [Dev.to/JS] [React Custom Hook: useStorage](https://dev.to/sergeyleschev/react-custom-hook-usestorage-and)
 - [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
-- [Dev.to/JS] [Episode 23/34: Analog.js, Developer Survey, ng-conf, A11y](https://dev.to/this-is-angular/episode-2334-analogjs-developer-survey-ng-conf-a11y-441j)
 - [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073?utm_source=regular)
-- [Dev.to/JS] [Choosing the Right TypeScript Type for Your Objects: Exploring Common Approaches](https://dev.to/joblesspoet/choosing-the-right-typescript-type-for-your-objects-exploring-common-approaches-2n95)
 - [Lifehacker] [How to Create a New Gmail Account](https://lifehacker.com/how-to-create-a-new-gmail-account-1850784055?utm_source=regular)
-- [Dev.to/JS] [Expense Chart - Frontend Mentor](https://dev.to/virtualpujadev/expense-chart-frontend-mentor-4d8i)
-- [Dev.to/JS] [What is JavaScript XML?](https://dev.to/salmandotweb/what-is-javascript-xml-3efm)
 - [Lifehacker] [You Can Get Windows 11 Pro for $33 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-33-right-now-1850776721?utm_source=regular)
 - [Lifehacker] [How to Take a Better Nude](https://lifehacker.com/how-to-take-your-best-nudes-ever-1846640354?utm_source=regular)
 - [Lifehacker] [The Best Ways to Ensure You Never Host Another Houseguest](https://lifehacker.com/the-best-ways-to-ensure-you-never-host-another-housegue-1850784005?utm_source=regular)
