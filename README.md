@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Important CSS properties for building interactive web apps with React](https://dev.to/frankd12333/important-css-properties-for-building-interactive-web-apps-with-react-43db)
+- [Dev.to/JS] [Creating a Simple Custom JSX Parser /w Practical Example](https://dev.to/mike-at-redspace/creating-a-simple-custom-jsx-parser-w-practical-example-1p8h)
 - [Dev.to/JS] [Unlocking Improved Performance and SEO with SvelteKit&#39;s Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/ahmed_onour/unlocking-improved-performance-and-seo-with-sveltekits-server-side-rendering-ssr-195j)
 - [Dev.to/JS] [Quantum AI - Price, Reviews, Benefits, Complaints &amp; Warnings?](https://dev.to/quantumai340459/quantum-ai-price-reviews-benefits-complaints-warnings-351)
 - [Dev.to/JS] [Understanding the Node.js process variable](https://dev.to/tqbit/understanding-the-nodejs-process-variable-4dci)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Superb Developer](https://dev.to/superbdeveloper92/superb-developer-5d2i)
 - [Dev.to/JS] [Stop using npm or yarn to install node modules &lpar;pnpm vs npm &amp; yarn&rpar;](https://dev.to/xplodivity/stop-using-npm-or-yarn-to-install-node-modules-pnpm-vs-npm-yarn-3a05)
 - [Dev.to/JS] [Does Software Engineer Necessary in The Modern World?](https://dev.to/rogerwillium/does-software-engineer-necessary-in-the-modern-world-368a)
-- [Dev.to/JS] [Does The First McDonalds Still Exist? Share Your Idea](https://dev.to/rogerwillium/does-the-first-mcdonalds-still-exist-share-your-idea-1cbf)
-- [Dev.to/JS] [How to implement SSL/TLS pinning in Node.js](https://dev.to/snyk/how-to-implement-ssltls-pinning-in-nodejs-4f1a)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Wednesday, August 30](https://lifehacker.com/todays-connections-hints-and-answer-for-wednesday-au-1850783251?utm_source=regular)
 - [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)
 - [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
