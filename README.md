@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Infinite Scrolling in React: A Comprehensive Guide](https://dev.to/anjankarmakar/infinite-scrolling-in-react-a-comprehensive-guide-2o05)
+- [Dev.to/JS] [Easily test combos of microservices underlying your distributed app](https://dev.to/skyrampmia/easily-test-combos-of-microservices-underlying-your-distributed-app-i04)
+- [Dev.to/JS] [Cypress Feature: Let&#39;s Play with &quot;Test Replay&quot;](https://dev.to/kailashpathak7/cypress-feature-lets-play-with-test-replay-3ga0)
+- [Lifehacker] [How to Set Up Parental Controls on TikTok](https://lifehacker.com/how-to-set-up-parental-controls-on-tiktok-1850786215?utm_source=regular)
+- [Lifehacker] [Why You Should Never Tent Your AC Unit](https://lifehacker.com/why-you-should-never-tent-your-ac-unit-1850782683?utm_source=regular)
 - [Dev.to/JS] [Supercharging React State Management: Harnessing the Power of useContext and useReducer](https://dev.to/joshiomkar/supercharging-react-state-management-harnessing-the-power-of-usecontext-and-usereducer-5e4)
 - [Lifehacker] [What to Know Before Paying for YouTube TV](https://lifehacker.com/youtube-tv-review-1850782942?utm_source=regular)
 - [Dev.to/JS] [MPA != Website](https://dev.to/jluterek/mpa-website-2ekm)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Build Custom, Reusable Web Components From Scratch](https://dev.to/ubahthebuilder/how-to-build-custom-reusable-web-components-from-scratch-fbn)
 - [Lifehacker] [These Ryobi Tools Are on Sale Right Now at Home Depot](https://lifehacker.com/these-ryobi-tools-are-on-sale-right-now-at-home-depot-1850785433?utm_source=regular)
 - [Dev.to/JS] [[recommend oneself for open source] an react web editor](https://dev.to/xiaopujun/recommend-oneself-for-open-source-an-react-web-editor-1ci1)
-- [Dev.to/JS] [Brazilian &quot;Rinha de Backend&quot; challenge #2 - The Improvement](https://dev.to/lukas8219/brazilian-rinha-de-backend-challenge-2-the-improvement-1a9h)
 - [Lifehacker] [How &#39;Information Bias&#39; Can Derail Your Investing &lpar;and Ways to Avoid It&rpar;](https://lifehacker.com/how-information-bias-can-derail-your-investing-and-way-1850785083?utm_source=regular)
-- [Dev.to/JS] [💡From Idea to Exit: Building and Selling an AI-powered SaaS in 5 Months 🤖💰](https://dev.to/wasp/from-idea-to-exit-building-and-selling-an-ai-powered-saas-in-5-months-27d9)
-- [Dev.to/JS] [Web Designing Course in Bangalore](https://dev.to/a2nacademy1/web-designing-course-in-bangalore-1jkj)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Wednesday, August 30](https://lifehacker.com/todays-connections-hints-and-answer-for-wednesday-au-1850783251?utm_source=regular)
 - [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)
 - [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Wireless Car Display Screen Is $105 Right Now](https://lifehacker.com/this-heads-up-car-display-screen-is-105-right-now-1850776780?utm_source=regular)
 - [Lifehacker] [This Is the Best Gaming Controller for Any Console](https://lifehacker.com/this-is-the-best-gaming-controller-for-any-console-1850781549?utm_source=regular)
 - [Lifehacker] [The Best Small Business Ideas for Kids &lpar;That Aren’t a Lemonade Stand&rpar;](https://lifehacker.com/small-business-ideas-for-kids-1850782196?utm_source=regular)
-- [Lifehacker] [Why the Steam Deck Is Still a Good Buy in 2023](https://lifehacker.com/why-the-steam-deck-is-still-a-good-buy-in-2023-1850776190?utm_source=regular)
-- [Lifehacker] [Creamy Scrambled Eggs Make a Surprisingly Good Dip](https://lifehacker.com/creamy-scrambled-eggs-make-a-surprisingly-good-dip-1850781646?utm_source=regular)
-- [Lifehacker] [Three Ways to Make Better Onion Dip](https://lifehacker.com/three-ways-to-make-better-onion-dip-1850781583?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why the Steam Deck Is Still a Good Buy in 2023](https://lifehacker.com/why-the-steam-deck-is-still-a-good-buy-in-2023-1850776190?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
