@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Consider a Heat Pump Dryer](https://lifehacker.com/you-should-consider-a-heat-pump-dryer-1850785513?utm_source=regular)
+- [Dev.to/JS] [Mastering API Caching with Redis in Node.js](https://dev.to/sureshpattu/mastering-api-caching-with-redis-in-nodejs-11g8)
+- [Dev.to/JS] [Exploring Technology Specialist Salaries: A Comprehensive Guide](https://dev.to/mackbarick/exploring-technology-specialist-salaries-a-comprehensive-guide-10nn)
+- [Dev.to/JS] [L&#39;erreur du choix de JavaScript](https://dev.to/c2dricleroy/lerreur-du-choix-de-javascript-4ef6)
+- [Dev.to/JS] [How To Build Custom, Reusable Web Components From Scratch](https://dev.to/ubahthebuilder/how-to-build-custom-reusable-web-components-from-scratch-fbn)
+- [Lifehacker] [These Ryobi Tools Are on Sale Right Now at Home Depot](https://lifehacker.com/these-ryobi-tools-are-on-sale-right-now-at-home-depot-1850785433?utm_source=regular)
+- [Dev.to/JS] [[recommend oneself for open source] an react web editor](https://dev.to/xiaopujun/recommend-oneself-for-open-source-an-react-web-editor-1ci1)
+- [Dev.to/JS] [Brazilian &quot;Rinha de Backend&quot; challenge #2 - The Improvement](https://dev.to/lukas8219/brazilian-rinha-de-backend-challenge-2-the-improvement-1a9h)
+- [Lifehacker] [How &#39;Information Bias&#39; Can Derail Your Investing &lpar;and Ways to Avoid It&rpar;](https://lifehacker.com/how-information-bias-can-derail-your-investing-and-way-1850785083?utm_source=regular)
 - [Dev.to/JS] [💡From Idea to Exit: Building and Selling an AI-powered SaaS in 5 Months 🤖💰](https://dev.to/wasp/from-idea-to-exit-building-and-selling-an-ai-powered-saas-in-5-months-27d9)
 - [Dev.to/JS] [Web Designing Course in Bangalore](https://dev.to/a2nacademy1/web-designing-course-in-bangalore-1jkj)
 - [Dev.to/JS] [From Novice to Pro: Transforming Your Career with AchieversIT UI Development Training in Bangalore](https://dev.to/aravind86556441/from-novice-to-pro-transforming-your-career-with-achieversit-ui-development-training-in-bangalore-5eng)
 - [Dev.to/JS] [Java ArrayList Index Out of Range: Need Quick Fix](https://dev.to/samkir/java-arraylist-index-out-of-range-need-quick-fix-o36)
 - [Dev.to/JS] [Top 10 popular Web Development Frameworks in 2023](https://dev.to/sparkouttech/top-10-popular-web-development-frameworks-in-2023-fc5)
 - [Dev.to/JS] [Mastering Event Propagation with `e.stopPropagation&lpar;&rpar;` in React](https://dev.to/wakywayne/mastering-event-propagation-with-estoppropagation-in-react-36ci)
-- [Dev.to/JS] [Promise vs. async/await: A Comprehensive Comparison](https://dev.to/diegoammann/promise-vs-asyncawait-a-comprehensive-comparison-3af7)
-- [Dev.to/JS] [JavaScript concepts to learn before starting React](https://dev.to/frankd12333/javascript-concepts-to-learn-before-starting-react-2e59)
-- [Dev.to/JS] [Important CSS properties for building interactive web apps with React](https://dev.to/frankd12333/important-css-properties-for-building-interactive-web-apps-with-react-43db)
-- [Dev.to/JS] [Creating a Simple Custom JSX Parser /w Practical Example](https://dev.to/mike-at-redspace/creating-a-simple-custom-jsx-parser-w-practical-example-1p8h)
-- [Dev.to/JS] [Unlocking Improved Performance and SEO with SvelteKit&#39;s Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/ahmed_onour/unlocking-improved-performance-and-seo-with-sveltekits-server-side-rendering-ssr-195j)
-- [Dev.to/JS] [Quantum AI - Price, Reviews, Benefits, Complaints &amp; Warnings?](https://dev.to/quantumai340459/quantum-ai-price-reviews-benefits-complaints-warnings-351)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Wednesday, August 30](https://lifehacker.com/todays-connections-hints-and-answer-for-wednesday-au-1850783251?utm_source=regular)
 - [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)
 - [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
@@ -54,7 +57,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Leftover Rice to Make a Warm, Comforting Salad](https://lifehacker.com/use-leftover-rice-to-make-a-warm-comforting-salad-1850783678?utm_source=regular)
 - [Lifehacker] [What &#39;Restricting&#39; Means on Instagram](https://lifehacker.com/what-restricting-means-on-instagram-1850781850?utm_source=regular)
 - [Lifehacker] [You Should Use Transferable Points When You Travel](https://lifehacker.com/you-should-use-transferable-points-when-you-travel-1850783625?utm_source=regular)
-- [Lifehacker] [This Heads Up Car Display Screen Is $105 Right Now](https://lifehacker.com/this-heads-up-car-display-screen-is-105-right-now-1850776780?utm_source=regular)
+- [Lifehacker] [This Wireless Car Display Screen Is $105 Right Now](https://lifehacker.com/this-heads-up-car-display-screen-is-105-right-now-1850776780?utm_source=regular)
 - [Lifehacker] [This Is the Best Gaming Controller for Any Console](https://lifehacker.com/this-is-the-best-gaming-controller-for-any-console-1850781549?utm_source=regular)
 - [Lifehacker] [The Best Small Business Ideas for Kids &lpar;That Aren’t a Lemonade Stand&rpar;](https://lifehacker.com/small-business-ideas-for-kids-1850782196?utm_source=regular)
 - [Lifehacker] [Why the Steam Deck Is Still a Good Buy in 2023](https://lifehacker.com/why-the-steam-deck-is-still-a-good-buy-in-2023-1850776190?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Make Better Onion Dip](https://lifehacker.com/three-ways-to-make-better-onion-dip-1850781583?utm_source=regular)
 - [Lifehacker] [What to Do When Your Child Is Being Bullied](https://lifehacker.com/what-to-do-when-your-child-is-being-bullied-1850781104?utm_source=regular)
 - [Lifehacker] [How to Convert HEIC to JPG on Windows](https://lifehacker.com/how-to-convert-heic-to-jpg-on-windows-and-mac-1850780835?utm_source=regular)
-- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, August 29](https://lifehacker.com/connections-answer-today-august-29-2023-1850780572?utm_source=regular)
-- [Lifehacker] [This Kodak Film Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-slide-scanner-is-170-right-now-1850768552?utm_source=regular)
-- [Lifehacker] [The AquaSonic Toothbrush Is $30 Right Now](https://lifehacker.com/the-aquasonic-toothbrush-is-30-right-now-1850770852?utm_source=regular)
-- [Lifehacker] [Where to Find a PCR COVID Test &lpar;and Why You Need One&rpar;](https://lifehacker.com/where-to-find-a-pcr-covid-test-and-why-you-need-one-1850779459?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, August 29](https://lifehacker.com/connections-answer-today-august-29-2023-1850780572?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
