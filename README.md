@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with color programmatically.](https://dev.to/arcaneqoder/working-with-color-programmatically-4nmk)
+- [Lifehacker] [Use the Leitner System to Study More Effectively](https://lifehacker.com/use-the-leitner-system-to-study-more-effectively-1850786716?utm_source=regular)
 - [Lifehacker] [How to Download YouTube Videos on an iPhone](https://lifehacker.com/how-to-download-youtube-videos-on-an-iphone-1850787605?utm_source=regular)
 - [Lifehacker] [What Is USB-C, and Why You Should Care](https://lifehacker.com/what-is-usb-c-and-why-you-should-care-1850785386?utm_source=regular)
 - [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)
@@ -49,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 36: Typescript Basics](https://dev.to/dhrn/day-36-5523)
 - [Lifehacker] [You Can Improve Your Odds of Boarding First on Southwest Airlines](https://lifehacker.com/you-can-improve-your-odds-of-boarding-first-on-southwes-1850785557?utm_source=regular)
 - [Lifehacker] [You Should Consider a Heat Pump Dryer](https://lifehacker.com/you-should-consider-a-heat-pump-dryer-1850785513?utm_source=regular)
-- [Dev.to/JS] [Mastering API Caching with Redis in Node.js](https://dev.to/sureshpattu/mastering-api-caching-with-redis-in-nodejs-11g8)
 - [Lifehacker] [These Ryobi Tools Are on Sale Right Now at Home Depot](https://lifehacker.com/these-ryobi-tools-are-on-sale-right-now-at-home-depot-1850785433?utm_source=regular)
 - [Lifehacker] [How &#39;Information Bias&#39; Can Derail Your Investing &lpar;and Ways to Avoid It&rpar;](https://lifehacker.com/how-information-bias-can-derail-your-investing-and-way-1850785083?utm_source=regular)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Wednesday, August 30](https://lifehacker.com/todays-connections-hints-and-answer-for-wednesday-au-1850783251?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Air Fryer Cheesecake Makes This Fancy Dessert Easy](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Increase Your Snapchat Score](https://lifehacker.com/the-easiest-way-to-increase-your-snapchat-score-1850783404?utm_source=regular)
 - [Lifehacker] [The Differences Between the Samsung Galaxy Z Flip 5 and the Galaxy Z Fold 5](https://lifehacker.com/the-differences-between-the-samsung-galaxy-z-flip-5-and-1850782228?utm_source=regular)
-- [Lifehacker] [Your Mornings Deserve This ‘Magic Shell’ Yogurt Cup](https://lifehacker.com/your-mornings-deserve-this-magic-shell-yogurt-cup-1850784080?utm_source=regular)
-- [Lifehacker] [Use Leftover Rice to Make a Warm, Comforting Salad](https://lifehacker.com/use-leftover-rice-to-make-a-warm-comforting-salad-1850783678?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Mornings Deserve This ‘Magic Shell’ Yogurt Cup](https://lifehacker.com/your-mornings-deserve-this-magic-shell-yogurt-cup-1850784080?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
