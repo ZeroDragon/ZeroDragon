@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Download YouTube Videos on an iPhone](https://lifehacker.com/how-to-download-youtube-videos-on-an-iphone-1850787605?utm_source=regular)
+- [Lifehacker] [What Is USB-C, and Why You Should Care](https://lifehacker.com/what-is-usb-c-and-why-you-should-care-1850785386?utm_source=regular)
+- [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)
+- [Lifehacker] [Use the KWL Study Method to Learn More](https://lifehacker.com/use-the-kwl-study-method-to-learn-more-1850786565?utm_source=regular)
 - [Dev.to/JS] [Mastering Form Handling in React: A Comprehensive Guide](https://dev.to/the2minengineer/mastering-form-handling-in-react-a-comprehensive-guide-2gjn)
 - [Dev.to/JS] [Build your own documentation chatbot with ChatGPT and EdgeDB](https://dev.to/edgedb/build-your-own-documentation-chatbot-with-chatgpt-and-edgedb-5691)
 - [Dev.to/JS] [What is the difference between an Element and a Component?](https://dev.to/salmandotweb/what-is-the-difference-between-an-element-and-a-component-3efg)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Increase Your Snapchat Score](https://lifehacker.com/the-easiest-way-to-increase-your-snapchat-score-1850783404?utm_source=regular)
 - [Lifehacker] [The Differences Between the Samsung Galaxy Z Flip 5 and the Galaxy Z Fold 5](https://lifehacker.com/the-differences-between-the-samsung-galaxy-z-flip-5-and-1850782228?utm_source=regular)
 - [Lifehacker] [Your Mornings Deserve This ‘Magic Shell’ Yogurt Cup](https://lifehacker.com/your-mornings-deserve-this-magic-shell-yogurt-cup-1850784080?utm_source=regular)
-- [Lifehacker] [Use Leftover Rice to Make a Warm, Comforting Salad](https://lifehacker.com/use-leftover-rice-to-make-a-warm-comforting-salad-1850783678?utm_source=regular)
-- [Lifehacker] [What &#39;Restricting&#39; Means on Instagram](https://lifehacker.com/what-restricting-means-on-instagram-1850781850?utm_source=regular)
-- [Lifehacker] [You Should Use Transferable Points When You Travel](https://lifehacker.com/you-should-use-transferable-points-when-you-travel-1850783625?utm_source=regular)
-- [Lifehacker] [This Wireless Car Display Screen Is $105 Right Now](https://lifehacker.com/this-heads-up-car-display-screen-is-105-right-now-1850776780?utm_source=regular)
-- [Lifehacker] [This Is the Best Gaming Controller for Any Console](https://lifehacker.com/this-is-the-best-gaming-controller-for-any-console-1850781549?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Leftover Rice to Make a Warm, Comforting Salad](https://lifehacker.com/use-leftover-rice-to-make-a-warm-comforting-salad-1850783678?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
