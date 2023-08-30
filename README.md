@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Your Boredom at Work Is Actually Telling You](https://lifehacker.com/what-your-boredom-at-work-is-actually-telling-you-1850788112?utm_source=regular)
+- [Dev.to/JS] [Handle Stripe events in 2 minutes with Sailhouse](https://dev.to/estephinson/handle-stripe-events-in-2-minutes-with-sailhouse-3moo)
+- [Lifehacker] [These Are the Best Online Flashcard Tools](https://lifehacker.com/these-are-the-best-online-flashcard-tools-1850787618?utm_source=regular)
+- [Dev.to/JS] [Closure in Javascript - Revisiting Counter Example](https://dev.to/artydev/closure-in-javascript-revisiting-counter-example-2ldg)
+- [Dev.to/JS] [Using caret and tilde in package.json dependencies](https://dev.to/germanescobar/using-caret-and-tilde-in-packagejson-dependencies-4if5)
+- [Dev.to/JS] [React Custom Hook: useTimeout](https://dev.to/sergeyleschev/react-custom-hook-usetimeout-41k)
+- [Lifehacker] [These Are the Best Labor Day Deals on TVs](https://lifehacker.com/best-labor-day-tv-deals-1850788728?utm_source=regular)
 - [Dev.to/JS] [Building a Complete To-Do App with SvelteKit: Taking Your Skills to the Next Level](https://dev.to/ironside/building-a-complete-to-do-app-with-sveltekit-taking-your-skills-to-the-next-level-1j3g)
 - [Lifehacker] [How to Use Vanish Mode on Instagram](https://lifehacker.com/how-to-use-vanish-mode-on-instagram-1850788353?utm_source=regular)
 - [Dev.to/JS] [Named Arguments in JavaScript: Cleaner Code with Destructuring](https://dev.to/joelnbl/named-arguments-in-javascript-cleaner-code-with-destructuring-329m)
@@ -45,12 +52,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the KWL Study Method to Learn More](https://lifehacker.com/use-the-kwl-study-method-to-learn-more-1850786565?utm_source=regular)
 - [Dev.to/JS] [Mastering Form Handling in React: A Comprehensive Guide](https://dev.to/the2minengineer/mastering-form-handling-in-react-a-comprehensive-guide-2gjn)
 - [Dev.to/JS] [Build your own documentation chatbot with ChatGPT and EdgeDB](https://dev.to/edgedb/build-your-own-documentation-chatbot-with-chatgpt-and-edgedb-5691)
-- [Dev.to/JS] [What is the difference between an Element and a Component?](https://dev.to/salmandotweb/what-is-the-difference-between-an-element-and-a-component-3efg)
 - [Lifehacker] [These Are the Best Budget Laptops of 2023](https://lifehacker.com/the-best-budget-laptops-1850786163?utm_source=regular)
-- [Dev.to/JS] [Portadom: A Unified Interface for DOM Manipulation](https://dev.to/jurooravec/portadom-a-unified-interface-for-dom-manipulation-28bb)
 - [Lifehacker] [What&#39;s New on Max in September 2023](https://lifehacker.com/whats-new-on-max-in-september-2023-1850782564?utm_source=regular)
-- [Dev.to/JS] [Infinite Scrolling in React: A Comprehensive Guide](https://dev.to/anjankarmakar/infinite-scrolling-in-react-a-comprehensive-guide-2o05)
-- [Dev.to/JS] [Easily test combos of microservices underlying your distributed app](https://dev.to/skyrampmia/easily-test-combos-of-microservices-underlying-your-distributed-app-i04)
 - [Lifehacker] [How to Set Up Parental Controls on TikTok](https://lifehacker.com/how-to-set-up-parental-controls-on-tiktok-1850786215?utm_source=regular)
 - [Lifehacker] [Why You Should Never Tent Your AC Unit](https://lifehacker.com/why-you-should-never-tent-your-ac-unit-1850782683?utm_source=regular)
 - [Lifehacker] [What to Know Before Paying for YouTube TV](https://lifehacker.com/youtube-tv-review-1850782942?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Wednesday, August 30](https://lifehacker.com/todays-connections-hints-and-answer-for-wednesday-au-1850783251?utm_source=regular)
 - [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)
 - [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
-- [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073?utm_source=regular)
-- [Lifehacker] [How to Create a New Gmail Account](https://lifehacker.com/how-to-create-a-new-gmail-account-1850784055?utm_source=regular)
-- [Lifehacker] [You Can Get Windows 11 Pro for $33 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-33-right-now-1850776721?utm_source=regular)
-- [Lifehacker] [How to Take a Better Nude](https://lifehacker.com/how-to-take-your-best-nudes-ever-1846640354?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
