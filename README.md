@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MEAN vs MERN: Decoding the 2 Best Stacks For Your Next Web Project](https://dev.to/domfive/mean-vs-mern-decoding-the-2-best-stacks-for-your-next-web-project-3k7n)
+- [Dev.to/JS] [Tips for a web developer entry level](https://dev.to/bk3ys/tips-for-a-web-developer-entry-level-40jl)
+- [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)
 - [Dev.to/JS] [One Step Closer](https://dev.to/enz0rd/one-step-closer-4794)
 - [Dev.to/JS] [React Custom Hook: useStorage](https://dev.to/sergeyleschev/react-custom-hook-usestorage-and)
 - [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
@@ -46,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Simple Guide to Using useEffect in React](https://dev.to/muhammadazhariqbal/a-simple-guide-to-using-useeffect-in-react-3hch)
 - [Dev.to/JS] [🎈 Exploring React Props: The Key to Component Communication and Reusability 🧩](https://dev.to/anii1429/exploring-react-props-the-key-to-component-communication-and-reusability-13nk)
 - [Lifehacker] [The Differences Between the Samsung Galaxy Z Flip 5 and the Galaxy Z Fold 5](https://lifehacker.com/the-differences-between-the-samsung-galaxy-z-flip-5-and-1850782228?utm_source=regular)
-- [Dev.to/JS] [Optimizing SEO: Generating Dynamic Sitemaps for Your Angular Application](https://dev.to/this-is-angular/optimizing-seo-generating-dynamic-sitemaps-for-your-angular-application-1mgc)
-- [Dev.to/JS] [Getting Started With React Flow](https://dev.to/anadee11/getting-started-with-react-flow-3727)
 - [Lifehacker] [Your Mornings Deserve This ‘Magic Shell’ Yogurt Cup](https://lifehacker.com/your-mornings-deserve-this-magic-shell-yogurt-cup-1850784080?utm_source=regular)
 - [Lifehacker] [Use Leftover Rice to Make a Warm, Comforting Salad](https://lifehacker.com/use-leftover-rice-to-make-a-warm-comforting-salad-1850783678?utm_source=regular)
 - [Lifehacker] [What &#39;Restricting&#39; Means on Instagram](https://lifehacker.com/what-restricting-means-on-instagram-1850781850?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Kodak Film Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-slide-scanner-is-170-right-now-1850768552?utm_source=regular)
 - [Lifehacker] [The AquaSonic Toothbrush Is $30 Right Now](https://lifehacker.com/the-aquasonic-toothbrush-is-30-right-now-1850770852?utm_source=regular)
 - [Lifehacker] [Where to Find a PCR COVID Test &lpar;and Why You Need One&rpar;](https://lifehacker.com/where-to-find-a-pcr-covid-test-and-why-you-need-one-1850779459?utm_source=regular)
-- [Lifehacker] [Avoid These &#39;Money-Saving&#39; Habits That Don&#39;t Actually Save You Money](https://lifehacker.com/avoid-these-money-saving-habits-that-dont-actually-save-1850779247?utm_source=regular)
-- [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid These &#39;Money-Saving&#39; Habits That Don&#39;t Actually Save You Money](https://lifehacker.com/avoid-these-money-saving-habits-that-dont-actually-save-1850779247?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
