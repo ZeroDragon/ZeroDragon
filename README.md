@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Refurbished MacBook Air Is $255 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-255-right-now-1850782428?utm_source=regular)
+- [Dev.to/JS] [Day 36: Typescript Basics](https://dev.to/dhrn/day-36-5523)
+- [Lifehacker] [You Can Improve Your Odds of Boarding First on Southwest Airlines](https://lifehacker.com/you-can-improve-your-odds-of-boarding-first-on-southwes-1850785557?utm_source=regular)
 - [Lifehacker] [You Should Consider a Heat Pump Dryer](https://lifehacker.com/you-should-consider-a-heat-pump-dryer-1850785513?utm_source=regular)
 - [Dev.to/JS] [Mastering API Caching with Redis in Node.js](https://dev.to/sureshpattu/mastering-api-caching-with-redis-in-nodejs-11g8)
 - [Dev.to/JS] [Exploring Technology Specialist Salaries: A Comprehensive Guide](https://dev.to/mackbarick/exploring-technology-specialist-salaries-a-comprehensive-guide-10nn)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Novice to Pro: Transforming Your Career with AchieversIT UI Development Training in Bangalore](https://dev.to/aravind86556441/from-novice-to-pro-transforming-your-career-with-achieversit-ui-development-training-in-bangalore-5eng)
 - [Dev.to/JS] [Java ArrayList Index Out of Range: Need Quick Fix](https://dev.to/samkir/java-arraylist-index-out-of-range-need-quick-fix-o36)
 - [Dev.to/JS] [Top 10 popular Web Development Frameworks in 2023](https://dev.to/sparkouttech/top-10-popular-web-development-frameworks-in-2023-fc5)
-- [Dev.to/JS] [Mastering Event Propagation with `e.stopPropagation&lpar;&rpar;` in React](https://dev.to/wakywayne/mastering-event-propagation-with-estoppropagation-in-react-36ci)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Wednesday, August 30](https://lifehacker.com/todays-connections-hints-and-answer-for-wednesday-au-1850783251?utm_source=regular)
 - [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)
 - [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the Steam Deck Is Still a Good Buy in 2023](https://lifehacker.com/why-the-steam-deck-is-still-a-good-buy-in-2023-1850776190?utm_source=regular)
 - [Lifehacker] [Creamy Scrambled Eggs Make a Surprisingly Good Dip](https://lifehacker.com/creamy-scrambled-eggs-make-a-surprisingly-good-dip-1850781646?utm_source=regular)
 - [Lifehacker] [Three Ways to Make Better Onion Dip](https://lifehacker.com/three-ways-to-make-better-onion-dip-1850781583?utm_source=regular)
-- [Lifehacker] [What to Do When Your Child Is Being Bullied](https://lifehacker.com/what-to-do-when-your-child-is-being-bullied-1850781104?utm_source=regular)
-- [Lifehacker] [How to Convert HEIC to JPG on Windows](https://lifehacker.com/how-to-convert-heic-to-jpg-on-windows-and-mac-1850780835?utm_source=regular)
-- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, August 29](https://lifehacker.com/connections-answer-today-august-29-2023-1850780572?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When Your Child Is Being Bullied](https://lifehacker.com/what-to-do-when-your-child-is-being-bullied-1850781104?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
