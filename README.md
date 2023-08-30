@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Ways to Fix Cat Scratches on Your Furniture](https://lifehacker.com/the-easiest-ways-to-fix-cat-scratches-on-your-furniture-1850788704?utm_source=regular)
+- [Lifehacker] [FastestVPN Is $30 Right Now](https://lifehacker.com/fastestvpn-is-30-right-now-1850776792?utm_source=regular)
+- [Dev.to/JS] [How to login your users without a password &lpar;but with a magic.link&rpar;](https://dev.to/munichdeveloper/how-to-login-your-users-without-a-password-but-with-a-magiclink-228g)
 - [Lifehacker] [What Your Boredom at Work Is Actually Telling You](https://lifehacker.com/what-your-boredom-at-work-is-actually-telling-you-1850788112?utm_source=regular)
 - [Dev.to/JS] [Handle Stripe events in 2 minutes with Sailhouse](https://dev.to/estephinson/handle-stripe-events-in-2-minutes-with-sailhouse-3moo)
 - [Lifehacker] [These Are the Best Online Flashcard Tools](https://lifehacker.com/these-are-the-best-online-flashcard-tools-1850787618?utm_source=regular)
@@ -51,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)
 - [Lifehacker] [Use the KWL Study Method to Learn More](https://lifehacker.com/use-the-kwl-study-method-to-learn-more-1850786565?utm_source=regular)
 - [Dev.to/JS] [Mastering Form Handling in React: A Comprehensive Guide](https://dev.to/the2minengineer/mastering-form-handling-in-react-a-comprehensive-guide-2gjn)
-- [Dev.to/JS] [Build your own documentation chatbot with ChatGPT and EdgeDB](https://dev.to/edgedb/build-your-own-documentation-chatbot-with-chatgpt-and-edgedb-5691)
 - [Lifehacker] [These Are the Best Budget Laptops of 2023](https://lifehacker.com/the-best-budget-laptops-1850786163?utm_source=regular)
 - [Lifehacker] [What&#39;s New on Max in September 2023](https://lifehacker.com/whats-new-on-max-in-september-2023-1850782564?utm_source=regular)
 - [Lifehacker] [How to Set Up Parental Controls on TikTok](https://lifehacker.com/how-to-set-up-parental-controls-on-tiktok-1850786215?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Ryobi Tools Are on Sale Right Now at Home Depot](https://lifehacker.com/these-ryobi-tools-are-on-sale-right-now-at-home-depot-1850785433?utm_source=regular)
 - [Lifehacker] [How &#39;Information Bias&#39; Can Derail Your Investing &lpar;and Ways to Avoid It&rpar;](https://lifehacker.com/how-information-bias-can-derail-your-investing-and-way-1850785083?utm_source=regular)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Wednesday, August 30](https://lifehacker.com/todays-connections-hints-and-answer-for-wednesday-au-1850783251?utm_source=regular)
-- [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)
-- [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
-- [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
