@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to implement SSL/TLS pinning in Node.js](https://dev.to/snyk/how-to-implement-ssltls-pinning-in-nodejs-4f1a)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Wednesday, August 30](https://lifehacker.com/todays-connections-hints-and-answer-for-wednesday-au-1850783251?utm_source=regular)
 - [Dev.to/JS] [How to Retrieve Travel Time with React Native Maps Directions](https://dev.to/yanagisawahidetoshi/how-to-retrieve-travel-time-with-react-native-maps-directions-5hh5)
 - [Dev.to/JS] [MEAN vs MERN: Decoding the 2 Best Stacks For Your Next Web Project](https://dev.to/domfive/mean-vs-mern-decoding-the-2-best-stacks-for-your-next-web-project-3k7n)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Air Fryer Cheesecake Makes This Fancy Dessert Easy](https://lifehacker.com/make-your-next-cheesecake-in-an-air-fryer-1849581857?utm_source=regular)
 - [Dev.to/JS] [12 Must-Have TypeScript Utility Types with Uses and Examples](https://dev.to/rajatkaush1k/12-must-have-typescript-utility-types-with-uses-and-examples-213j)
 - [Lifehacker] [The Easiest Way to Increase Your Snapchat Score](https://lifehacker.com/the-easiest-way-to-increase-your-snapchat-score-1850783404?utm_source=regular)
-- [Dev.to/JS] [A Simple Guide to Using useEffect in React](https://dev.to/muhammadazhariqbal/a-simple-guide-to-using-useeffect-in-react-3hch)
 - [Lifehacker] [The Differences Between the Samsung Galaxy Z Flip 5 and the Galaxy Z Fold 5](https://lifehacker.com/the-differences-between-the-samsung-galaxy-z-flip-5-and-1850782228?utm_source=regular)
 - [Lifehacker] [Your Mornings Deserve This ‘Magic Shell’ Yogurt Cup](https://lifehacker.com/your-mornings-deserve-this-magic-shell-yogurt-cup-1850784080?utm_source=regular)
 - [Lifehacker] [Use Leftover Rice to Make a Warm, Comforting Salad](https://lifehacker.com/use-leftover-rice-to-make-a-warm-comforting-salad-1850783678?utm_source=regular)
