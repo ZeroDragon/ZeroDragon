@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Designing Course in Bangalore](https://dev.to/a2nacademy1/web-designing-course-in-bangalore-1jkj)
+- [Dev.to/JS] [From Novice to Pro: Transforming Your Career with AchieversIT UI Development Training in Bangalore](https://dev.to/aravind86556441/from-novice-to-pro-transforming-your-career-with-achieversit-ui-development-training-in-bangalore-5eng)
+- [Dev.to/JS] [Java ArrayList Index Out of Range: Need Quick Fix](https://dev.to/samkir/java-arraylist-index-out-of-range-need-quick-fix-o36)
+- [Dev.to/JS] [Top 10 popular Web Development Frameworks in 2023](https://dev.to/sparkouttech/top-10-popular-web-development-frameworks-in-2023-fc5)
 - [Dev.to/JS] [Mastering Event Propagation with `e.stopPropagation&lpar;&rpar;` in React](https://dev.to/wakywayne/mastering-event-propagation-with-estoppropagation-in-react-36ci)
 - [Dev.to/JS] [Promise vs. async/await: A Comprehensive Comparison](https://dev.to/diegoammann/promise-vs-asyncawait-a-comprehensive-comparison-3af7)
 - [Dev.to/JS] [JavaScript concepts to learn before starting React](https://dev.to/frankd12333/javascript-concepts-to-learn-before-starting-react-2e59)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking Improved Performance and SEO with SvelteKit&#39;s Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/ahmed_onour/unlocking-improved-performance-and-seo-with-sveltekits-server-side-rendering-ssr-195j)
 - [Dev.to/JS] [Quantum AI - Price, Reviews, Benefits, Complaints &amp; Warnings?](https://dev.to/quantumai340459/quantum-ai-price-reviews-benefits-complaints-warnings-351)
 - [Dev.to/JS] [Understanding the Node.js process variable](https://dev.to/tqbit/understanding-the-nodejs-process-variable-4dci)
-- [Dev.to/JS] [Make this post for your PC, laptop problem. I hope My Post help for you!](https://dev.to/ruht_linda_75/make-this-post-for-your-pc-laptop-problem-i-hope-my-post-help-for-you-51i1)
-- [Dev.to/JS] [Closures in Javascript](https://dev.to/artydev/closures-in-javascript-23b6)
-- [Dev.to/JS] [How to hide Zendesk web widget in react](https://dev.to/slimpython/how-to-hide-zendesk-web-widget-in-react-55e4)
-- [Dev.to/JS] [The Ascent of Node.js: How a runtime changed the Web](https://dev.to/worldlinetech/the-ascent-of-nodejs-how-a-runtime-changed-the-web-41g9)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Wednesday, August 30](https://lifehacker.com/todays-connections-hints-and-answer-for-wednesday-au-1850783251?utm_source=regular)
 - [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)
 - [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
