@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking Improved Performance and SEO with SvelteKit&#39;s Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/ahmed_onour/unlocking-improved-performance-and-seo-with-sveltekits-server-side-rendering-ssr-195j)
+- [Dev.to/JS] [Quantum AI - Price, Reviews, Benefits, Complaints &amp; Warnings?](https://dev.to/quantumai340459/quantum-ai-price-reviews-benefits-complaints-warnings-351)
+- [Dev.to/JS] [Understanding the Node.js process variable](https://dev.to/tqbit/understanding-the-nodejs-process-variable-4dci)
+- [Dev.to/JS] [Make this post for your PC, laptop problem. I hope My Post help for you!](https://dev.to/ruht_linda_75/make-this-post-for-your-pc-laptop-problem-i-hope-my-post-help-for-you-51i1)
 - [Dev.to/JS] [Closures in Javascript](https://dev.to/artydev/closures-in-javascript-23b6)
 - [Dev.to/JS] [How to hide Zendesk web widget in react](https://dev.to/slimpython/how-to-hide-zendesk-web-widget-in-react-55e4)
 - [Dev.to/JS] [The Ascent of Node.js: How a runtime changed the Web](https://dev.to/worldlinetech/the-ascent-of-nodejs-how-a-runtime-changed-the-web-41g9)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Does The First McDonalds Still Exist? Share Your Idea](https://dev.to/rogerwillium/does-the-first-mcdonalds-still-exist-share-your-idea-1cbf)
 - [Dev.to/JS] [How to implement SSL/TLS pinning in Node.js](https://dev.to/snyk/how-to-implement-ssltls-pinning-in-nodejs-4f1a)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Wednesday, August 30](https://lifehacker.com/todays-connections-hints-and-answer-for-wednesday-au-1850783251?utm_source=regular)
-- [Dev.to/JS] [How to Retrieve Travel Time with React Native Maps Directions](https://dev.to/yanagisawahidetoshi/how-to-retrieve-travel-time-with-react-native-maps-directions-5hh5)
-- [Dev.to/JS] [MEAN vs MERN: Decoding the 2 Best Stacks For Your Next Web Project](https://dev.to/domfive/mean-vs-mern-decoding-the-2-best-stacks-for-your-next-web-project-3k7n)
-- [Dev.to/JS] [Tips for a web developer entry level](https://dev.to/bk3ys/tips-for-a-web-developer-entry-level-40jl)
 - [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)
-- [Dev.to/JS] [One Step Closer](https://dev.to/enz0rd/one-step-closer-4794)
 - [Lifehacker] [How to Get All-Star Status on LinkedIn](https://lifehacker.com/how-to-get-all-star-status-on-linkedin-1850785211?utm_source=regular)
 - [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073?utm_source=regular)
 - [Lifehacker] [How to Create a New Gmail Account](https://lifehacker.com/how-to-create-a-new-gmail-account-1850784055?utm_source=regular)
