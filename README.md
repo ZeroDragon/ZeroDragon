@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Form Handling in React: A Comprehensive Guide](https://dev.to/the2minengineer/mastering-form-handling-in-react-a-comprehensive-guide-2gjn)
+- [Dev.to/JS] [Build your own documentation chatbot with ChatGPT and EdgeDB](https://dev.to/edgedb/build-your-own-documentation-chatbot-with-chatgpt-and-edgedb-5691)
+- [Dev.to/JS] [What is the difference between an Element and a Component?](https://dev.to/salmandotweb/what-is-the-difference-between-an-element-and-a-component-3efg)
+- [Lifehacker] [These Are the Best Budget Laptops of 2023](https://lifehacker.com/the-best-budget-laptops-1850786163?utm_source=regular)
+- [Dev.to/JS] [Portadom: A Unified Interface for DOM Manipulation](https://dev.to/jurooravec/portadom-a-unified-interface-for-dom-manipulation-28bb)
+- [Lifehacker] [What&#39;s New on Max in September 2023](https://lifehacker.com/whats-new-on-max-in-september-2023-1850782564?utm_source=regular)
 - [Dev.to/JS] [Infinite Scrolling in React: A Comprehensive Guide](https://dev.to/anjankarmakar/infinite-scrolling-in-react-a-comprehensive-guide-2o05)
 - [Dev.to/JS] [Easily test combos of microservices underlying your distributed app](https://dev.to/skyrampmia/easily-test-combos-of-microservices-underlying-your-distributed-app-i04)
 - [Dev.to/JS] [Cypress Feature: Let&#39;s Play with &quot;Test Replay&quot;](https://dev.to/kailashpathak7/cypress-feature-lets-play-with-test-replay-3ga0)
@@ -40,11 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Improve Your Odds of Boarding First on Southwest Airlines](https://lifehacker.com/you-can-improve-your-odds-of-boarding-first-on-southwes-1850785557?utm_source=regular)
 - [Lifehacker] [You Should Consider a Heat Pump Dryer](https://lifehacker.com/you-should-consider-a-heat-pump-dryer-1850785513?utm_source=regular)
 - [Dev.to/JS] [Mastering API Caching with Redis in Node.js](https://dev.to/sureshpattu/mastering-api-caching-with-redis-in-nodejs-11g8)
-- [Dev.to/JS] [Exploring Technology Specialist Salaries: A Comprehensive Guide](https://dev.to/mackbarick/exploring-technology-specialist-salaries-a-comprehensive-guide-10nn)
-- [Dev.to/JS] [L&#39;erreur du choix de JavaScript](https://dev.to/c2dricleroy/lerreur-du-choix-de-javascript-4ef6)
-- [Dev.to/JS] [How To Build Custom, Reusable Web Components From Scratch](https://dev.to/ubahthebuilder/how-to-build-custom-reusable-web-components-from-scratch-fbn)
 - [Lifehacker] [These Ryobi Tools Are on Sale Right Now at Home Depot](https://lifehacker.com/these-ryobi-tools-are-on-sale-right-now-at-home-depot-1850785433?utm_source=regular)
-- [Dev.to/JS] [[recommend oneself for open source] an react web editor](https://dev.to/xiaopujun/recommend-oneself-for-open-source-an-react-web-editor-1ci1)
 - [Lifehacker] [How &#39;Information Bias&#39; Can Derail Your Investing &lpar;and Ways to Avoid It&rpar;](https://lifehacker.com/how-information-bias-can-derail-your-investing-and-way-1850785083?utm_source=regular)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Wednesday, August 30](https://lifehacker.com/todays-connections-hints-and-answer-for-wednesday-au-1850783251?utm_source=regular)
 - [Lifehacker] [You Can Get &#39;DJ it!&#39; Premium for $50 Right Now](https://lifehacker.com/you-can-get-dj-it-premium-for-50-right-now-1850776787?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What &#39;Restricting&#39; Means on Instagram](https://lifehacker.com/what-restricting-means-on-instagram-1850781850?utm_source=regular)
 - [Lifehacker] [You Should Use Transferable Points When You Travel](https://lifehacker.com/you-should-use-transferable-points-when-you-travel-1850783625?utm_source=regular)
 - [Lifehacker] [This Wireless Car Display Screen Is $105 Right Now](https://lifehacker.com/this-heads-up-car-display-screen-is-105-right-now-1850776780?utm_source=regular)
-- [Lifehacker] [This Is the Best Gaming Controller for Any Console](https://lifehacker.com/this-is-the-best-gaming-controller-for-any-console-1850781549?utm_source=regular)
-- [Lifehacker] [The Best Small Business Ideas for Kids &lpar;That Aren’t a Lemonade Stand&rpar;](https://lifehacker.com/small-business-ideas-for-kids-1850782196?utm_source=regular)
-- [Lifehacker] [Why the Steam Deck Is Still a Good Buy in 2023](https://lifehacker.com/why-the-steam-deck-is-still-a-good-buy-in-2023-1850776190?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Best Gaming Controller for Any Console](https://lifehacker.com/this-is-the-best-gaming-controller-for-any-console-1850781549?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
