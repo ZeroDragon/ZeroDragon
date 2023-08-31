@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why the ‘Penny in Your Freezer’ Trick Is Pointless](https://lifehacker.com/penny-in-freezer-trick-debunked-1850788431?utm_source=regular)
+- [Dev.to/JS] [ElementRef in Angular | How to use it](https://dev.to/omamaaslam/elementref-in-angular-how-to-use-it-5039)
+- [Dev.to/JS] [Nemlendirme sistemleri](https://dev.to/seolita/nemlendirme-sistemleri-1igk)
+- [Dev.to/JS] [Solutions provided by the best website designing services](https://dev.to/badalkumar/solutions-provided-by-the-best-website-designing-services-541m)
 - [Dev.to/JS] [Closure in JavaScript](https://dev.to/abdullah5xm/closure-in-javascript-5dpf)
 - [Dev.to/JS] [Anyone Know about integration of Bokun API ?](https://dev.to/jeet404/anyone-knows-aboout-integration-of-bokun-api-4m8o)
 - [Dev.to/JS] [How to build a full-stack authentication app](https://dev.to/apisix/how-to-build-a-full-stack-authentication-app-1cp0)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automated Software Testing Tools | Fireflink](https://dev.to/fireflink/automated-software-testing-tools-fireflink-33bf)
 - [Dev.to/JS] [Grow and reach new milestone of your 𝕏 &lpar;formerly Twitter&rpar; and Github followers](https://dev.to/hellofaizaan/grow-and-reach-new-milestone-of-your-formerly-twitter-and-github-followers-20ep)
 - [Dev.to/JS] [Zagros Machine: a smart website based on JavaScript and PHP-WordPress](https://dev.to/arianzagrosmachinery/zagros-machine-a-smart-website-based-on-javascript-and-php-wordpress-175o)
-- [Dev.to/JS] [Salesman attendance management system in Node &amp; MongoDB](https://dev.to/jsdevsatish/saleman-attendance-management-system-in-node-mongodb-5b8m)
-- [Dev.to/JS] [FIX &quot;ReferenceError: __dirname is not defined in ES module scope&quot; in NodeJs.](https://dev.to/stanon/fix-referenceerror-dirname-is-not-defined-in-es-module-scope-in-nodejs-9lm)
-- [Dev.to/JS] [زاگرس ماشین: وب سایتی هوشمند بر پایه JavaScript و PHP-WordPress](https://dev.to/arianzagrosmachinery/zgrs-mshyn-wb-syty-hwshmnd-br-pyh-javascript-w-php-wordpress-2f6n)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)
 - [Lifehacker] [The Easiest Ways to Fix Cat Scratches on Your Furniture](https://lifehacker.com/the-easiest-ways-to-fix-cat-scratches-on-your-furniture-1850788704?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished MacBook Air Is $255 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-255-right-now-1850782428?utm_source=regular)
 - [Lifehacker] [You Can Improve Your Odds of Boarding First on Southwest Airlines](https://lifehacker.com/you-can-improve-your-odds-of-boarding-first-on-southwes-1850785557?utm_source=regular)
 - [Lifehacker] [You Should Consider a Heat Pump Dryer](https://lifehacker.com/you-should-consider-a-heat-pump-dryer-1850785513?utm_source=regular)
-- [Lifehacker] [These Ryobi Tools Are on Sale Right Now at Home Depot](https://lifehacker.com/these-ryobi-tools-are-on-sale-right-now-at-home-depot-1850785433?utm_source=regular)
-- [Lifehacker] [How &#39;Information Bias&#39; Can Derail Your Investing &lpar;and Ways to Avoid It&rpar;](https://lifehacker.com/how-information-bias-can-derail-your-investing-and-way-1850785083?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Ryobi Tools Are on Sale Right Now at Home Depot](https://lifehacker.com/these-ryobi-tools-are-on-sale-right-now-at-home-depot-1850785433?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
