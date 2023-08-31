@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Journey: African Folktales App - Where AI Meets Culture 🌍📚](https://dev.to/cypriantinasheaarons/unveiling-the-journey-african-folktales-app-where-ai-meets-culture-1kn2)
+- [Lifehacker] [The Best Ways to Beat the &#39;Forgetting Curve&#39; While Studying](https://lifehacker.com/the-best-ways-to-beat-the-forgetting-curve-while-studyi-1850791645?utm_source=regular)
+- [Dev.to/JS] [Develop Animated Bubbles with HTML5 Canvas and JavaScript: A Step-by-Step Tutorial](https://dev.to/shrutikapoor08/develop-animated-bubbles-with-html5-canvas-and-javascript-a-step-by-step-tutorial-kid)
+- [Lifehacker] [How to Choose Between an iPhone, Galaxy, and Pixel](https://lifehacker.com/how-to-choose-between-an-iphone-galaxy-or-pixel-1850788933?utm_source=regular)
 - [Dev.to/JS] [Bello frined](https://dev.to/irem_asksjsndn_cb0992f13b/bello-frined-296i)
 - [Dev.to/JS] [Detecting ERR_CONNECTION_TIMED_OUT on IFrame load in React](https://dev.to/fbcyborg/detecting-errconnectiontimedout-on-iframe-load-in-react-15la)
 - [Dev.to/JS] [Best Web Development Company in India](https://dev.to/desun-technology/best-web-development-company-in-india-1edi)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Key Benefits of Web Applications for Business](https://dev.to/sparkouttech/key-benefits-of-web-applications-for-business-4op2)
 - [Dev.to/JS] [Form Handling | React | Part 3 | Components](https://dev.to/shubhamtiwari909/form-handling-react-part-3-components-5a9m)
 - [Dev.to/JS] [Angular Reactive Forms: Mastering Dynamic Form Validation and User Interaction](https://dev.to/chintanonweb/angular-reactive-forms-mastering-dynamic-form-validation-and-user-interaction-32pe)
-- [Dev.to/JS] [What&#39;s new in Novu 0.18?](https://dev.to/novu/whats-new-in-novu-018-4m1b)
 - [Lifehacker] [Why You Should Join a Neighborhood Food Swap](https://lifehacker.com/why-you-should-join-a-neighborhood-food-swap-1850788387?utm_source=regular)
-- [Dev.to/JS] [🛑 Stop adding ESlint to an existing project Incorrectly🛑](https://dev.to/borysshulyak/stop-adding-eslint-to-an-existing-project-incorrectly-3p2n)
 - [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)
 - [Lifehacker] [Why the ‘Penny in Your Freezer’ Trick Is Pointless](https://lifehacker.com/penny-in-freezer-trick-debunked-1850788431?utm_source=regular)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)
 - [Lifehacker] [Use the KWL Study Method to Learn More](https://lifehacker.com/use-the-kwl-study-method-to-learn-more-1850786565?utm_source=regular)
 - [Lifehacker] [These Are the Best Budget Laptops of 2023](https://lifehacker.com/the-best-budget-laptops-1850786163?utm_source=regular)
-- [Lifehacker] [What&#39;s New on Max in September 2023](https://lifehacker.com/whats-new-on-max-in-september-2023-1850782564?utm_source=regular)
-- [Lifehacker] [How to Set Up Parental Controls on TikTok](https://lifehacker.com/how-to-set-up-parental-controls-on-tiktok-1850786215?utm_source=regular)
-- [Lifehacker] [Why You Should Never Tent Your AC Unit](https://lifehacker.com/why-you-should-never-tent-your-ac-unit-1850782683?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Max in September 2023](https://lifehacker.com/whats-new-on-max-in-september-2023-1850782564?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
