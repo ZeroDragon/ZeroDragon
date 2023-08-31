@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bello frined](https://dev.to/irem_asksjsndn_cb0992f13b/bello-frined-296i)
+- [Dev.to/JS] [Detecting ERR_CONNECTION_TIMED_OUT on IFrame load in React](https://dev.to/fbcyborg/detecting-errconnectiontimedout-on-iframe-load-in-react-15la)
+- [Dev.to/JS] [Best Web Development Company in India](https://dev.to/desun-technology/best-web-development-company-in-india-1edi)
+- [Lifehacker] [The Best Date Activities for Building &#39;Recreational Intimacy&#39;](https://lifehacker.com/the-best-date-activities-for-building-recreational-inti-1850789445?utm_source=regular)
+- [Dev.to/JS] [Setup your NextJS app](https://dev.to/noblica/setup-your-nextjs-app-35io)
+- [Lifehacker] [This 50-Mile Range eBike Is 60% Off Right Now](https://lifehacker.com/this-50-mile-range-ebike-is-60-off-right-now-1850789475?utm_source=regular)
 - [Dev.to/JS] [Adding Algolia search to my 404 page](https://dev.to/joebailey26/adding-algolia-search-to-my-404-page-hg1)
 - [Dev.to/JS] [Using Error Boundary in React](https://dev.to/devvarun/using-error-boundary-in-react-4lko)
 - [Dev.to/JS] [Day 37: Types](https://dev.to/dhrn/day-37-types-3e6i)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s new in Novu 0.18?](https://dev.to/novu/whats-new-in-novu-018-4m1b)
 - [Lifehacker] [Why You Should Join a Neighborhood Food Swap](https://lifehacker.com/why-you-should-join-a-neighborhood-food-swap-1850788387?utm_source=regular)
 - [Dev.to/JS] [🛑 Stop adding ESlint to an existing project Incorrectly🛑](https://dev.to/borysshulyak/stop-adding-eslint-to-an-existing-project-incorrectly-3p2n)
-- [Dev.to/JS] [Angular &lpar;16+&rpar; &amp; IntersectionObserver API](https://dev.to/leolanese/angular-16-intersectionobserver-api-2487)
-- [Dev.to/JS] [Javascript ➡️ Java: Strings](https://dev.to/akash_dathan/javascript-java-strings-2m0p)
-- [Dev.to/JS] [Provident Ecopolitan](https://dev.to/pecopolitan/provident-ecopolitan-15j8)
 - [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step - DynamoDB Streams](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-dynamodb-streams-21g5)
 - [Lifehacker] [Why the ‘Penny in Your Freezer’ Trick Is Pointless](https://lifehacker.com/penny-in-freezer-trick-debunked-1850788431?utm_source=regular)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Budget Laptops of 2023](https://lifehacker.com/the-best-budget-laptops-1850786163?utm_source=regular)
 - [Lifehacker] [What&#39;s New on Max in September 2023](https://lifehacker.com/whats-new-on-max-in-september-2023-1850782564?utm_source=regular)
 - [Lifehacker] [How to Set Up Parental Controls on TikTok](https://lifehacker.com/how-to-set-up-parental-controls-on-tiktok-1850786215?utm_source=regular)
-- [Lifehacker] [Why You Should Never Tent Your AC Unit](https://lifehacker.com/why-you-should-never-tent-your-ac-unit-1850782683?utm_source=regular)
-- [Lifehacker] [What to Know Before Paying for YouTube TV](https://lifehacker.com/youtube-tv-review-1850782942?utm_source=regular)
-- [Lifehacker] [This Refurbished MacBook Air Is $255 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-255-right-now-1850782428?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Tent Your AC Unit](https://lifehacker.com/why-you-should-never-tent-your-ac-unit-1850782683?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
