@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Salesman attendance management system in Node &amp; MongoDB](https://dev.to/jsdevsatish/saleman-attendance-management-system-in-node-mongodb-5b8m)
+- [Dev.to/JS] [FIX &quot;ReferenceError: __dirname is not defined in ES module scope&quot; in NodeJs.](https://dev.to/stanon/fix-referenceerror-dirname-is-not-defined-in-es-module-scope-in-nodejs-9lm)
 - [Dev.to/JS] [زاگرس ماشین: وب سایتی هوشمند بر پایه JavaScript و PHP-WordPress](https://dev.to/arianzagrosmachinery/zgrs-mshyn-wb-syty-hwshmnd-br-pyh-javascript-w-php-wordpress-2f6n)
 - [Dev.to/JS] [Reactjs Online Job Support From India](https://dev.to/sivaram1651/reactjs-online-job-support-from-india-1hjh)
 - [Dev.to/JS] [A minimalist raster tile server with express and postGIS - part 3. Speeding things up](https://dev.to/leoalho/a-minimalist-raster-tile-server-with-express-and-postgis-part-3-speeding-things-up-1b7)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Generate Your Own Funko Pop Characters with AI](https://dev.to/mikeyoung44/how-to-generate-your-own-funko-pop-characters-with-ai-17ef)
 - [Dev.to/JS] [What&#39;s new in Astro 3.0](https://dev.to/jaycedotbin/whats-new-in-astro-30-2le7)
 - [Dev.to/JS] [Mastering Event Debouncing in JavaScript: A Guide with Practical Example](https://dev.to/anjankarmakar/mastering-event-debouncing-in-javascript-a-guide-with-practical-example-19oe)
-- [Dev.to/JS] [How to Become a Machine Learning Engineer in Seven Steps](https://dev.to/durgesh4993/how-to-become-a-machine-learning-engineer-in-seven-steps-9km)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
-- [Dev.to/JS] [Type Casting with TypeScript: A tutorial](https://dev.to/alakkadshaw/type-casting-with-typescript-a-tutorial-cg9)
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)
 - [Lifehacker] [The Easiest Ways to Fix Cat Scratches on Your Furniture](https://lifehacker.com/the-easiest-ways-to-fix-cat-scratches-on-your-furniture-1850788704?utm_source=regular)
 - [Lifehacker] [FastestVPN Is $30 Right Now](https://lifehacker.com/fastestvpn-is-30-right-now-1850776792?utm_source=regular)
