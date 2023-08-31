@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use That Last Bit of Dip to Make a Salad Dressing](https://lifehacker.com/use-that-last-bit-of-dip-to-make-a-salad-dressing-1850793162?utm_source=regular)
+- [Dev.to/JS] [Functional and Class Component in React.js: Exploring React&#39;s Evolution](https://dev.to/cybermaxi7/class-component-vs-functional-component-exploring-reacts-evolution-82c)
+- [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
+- [Lifehacker] [StackSkills e-Learning Courses Are $35 Right Now](https://lifehacker.com/stackskills-e-learning-courses-are-35-right-now-1850782486?utm_source=regular)
 - [Lifehacker] [&#39;Learning Styles&#39; Matter Less Than You Might Think](https://lifehacker.com/learning-styles-matter-less-than-you-might-think-1850793208?utm_source=regular)
 - [Dev.to/JS] [Using the canPlayType&lpar;&rpar; Method of the HTMLMediaElement API](https://dev.to/impressivewebs/using-the-canplaytype-method-of-the-htmlmediaelement-api-3hl)
 - [Lifehacker] [You Should Add Baking Soda to Your Ground Meat](https://lifehacker.com/you-should-add-baking-soda-to-your-ground-meat-1846103865?utm_source=regular)
@@ -49,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Beat the &#39;Forgetting Curve&#39; While Studying](https://lifehacker.com/the-best-ways-to-beat-the-forgetting-curve-while-studyi-1850791645?utm_source=regular)
 - [Dev.to/JS] [Develop Animated Bubbles with HTML5 Canvas and JavaScript: A Step-by-Step Tutorial](https://dev.to/shrutikapoor08/develop-animated-bubbles-with-html5-canvas-and-javascript-a-step-by-step-tutorial-kid)
 - [Lifehacker] [How to Choose Between an iPhone, Galaxy, and Pixel](https://lifehacker.com/how-to-choose-between-an-iphone-galaxy-or-pixel-1850788933?utm_source=regular)
-- [Dev.to/JS] [Bello frined](https://dev.to/irem_asksjsndn_cb0992f13b/bello-frined-296i)
 - [Lifehacker] [The Best Date Activities for Building &#39;Recreational Intimacy&#39;](https://lifehacker.com/the-best-date-activities-for-building-recreational-inti-1850789445?utm_source=regular)
 - [Lifehacker] [This 50-Mile Range eBike Is 60% Off Right Now](https://lifehacker.com/this-50-mile-range-ebike-is-60-off-right-now-1850789475?utm_source=regular)
 - [Lifehacker] [Use Kolb’s Learning Cycle to Grasp New Concepts](https://lifehacker.com/use-kolb-s-learning-cycle-to-grasp-new-concepts-1850787831?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [FastestVPN Is $30 Right Now](https://lifehacker.com/fastestvpn-is-30-right-now-1850776792?utm_source=regular)
 - [Lifehacker] [What Your Boredom at Work Is Actually Telling You](https://lifehacker.com/what-your-boredom-at-work-is-actually-telling-you-1850788112?utm_source=regular)
 - [Lifehacker] [These Are the Best Online Flashcard Tools](https://lifehacker.com/these-are-the-best-online-flashcard-tools-1850787618?utm_source=regular)
-- [Lifehacker] [These Are the Best Labor Day Deals on TVs](https://lifehacker.com/best-labor-day-tv-deals-1850788728?utm_source=regular)
-- [Lifehacker] [How to Use Vanish Mode on Instagram](https://lifehacker.com/how-to-use-vanish-mode-on-instagram-1850788353?utm_source=regular)
-- [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-a-grilled-cheese-sandwich-1850009055?utm_source=regular)
-- [Lifehacker] [All the Netflix Original Movies Coming This Fall](https://lifehacker.com/all-the-netflix-original-movies-coming-this-fall-1850787679?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Labor Day Deals on TVs](https://lifehacker.com/best-labor-day-tv-deals-1850788728?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
