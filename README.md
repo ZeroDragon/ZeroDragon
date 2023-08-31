@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Hero Section in React with Styled Components](https://dev.to/ryaddev/creating-hero-section-in-react-with-styled-components-4k0n)
+- [Dev.to/JS] [JAMstack: Building Scalable and Performant Web Applications](https://dev.to/codeph112/jamstack-building-scalable-and-performant-web-applications-2b3k)
+- [Dev.to/JS] [Automated Software Testing Tools | Fireflink](https://dev.to/fireflink/automated-software-testing-tools-fireflink-33bf)
+- [Dev.to/JS] [Grow and reach new milestone of your 𝕏 &lpar;formerly Twitter&rpar; and Github followers](https://dev.to/hellofaizaan/grow-and-reach-new-milestone-of-your-formerly-twitter-and-github-followers-20ep)
+- [Dev.to/JS] [Zagros Machine: a smart website based on JavaScript and PHP-WordPress](https://dev.to/arianzagrosmachinery/zagros-machine-a-smart-website-based-on-javascript-and-php-wordpress-175o)
 - [Dev.to/JS] [Salesman attendance management system in Node &amp; MongoDB](https://dev.to/jsdevsatish/saleman-attendance-management-system-in-node-mongodb-5b8m)
 - [Dev.to/JS] [FIX &quot;ReferenceError: __dirname is not defined in ES module scope&quot; in NodeJs.](https://dev.to/stanon/fix-referenceerror-dirname-is-not-defined-in-es-module-scope-in-nodejs-9lm)
 - [Dev.to/JS] [زاگرس ماشین: وب سایتی هوشمند بر پایه JavaScript و PHP-WordPress](https://dev.to/arianzagrosmachinery/zgrs-mshyn-wb-syty-hwshmnd-br-pyh-javascript-w-php-wordpress-2f6n)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A minimalist raster tile server with express and postGIS - part 3. Speeding things up](https://dev.to/leoalho/a-minimalist-raster-tile-server-with-express-and-postgis-part-3-speeding-things-up-1b7)
 - [Dev.to/JS] [How to Create Secure, Collaborative and Productive Digital Workspaces Whitepaper, powered by HP](https://dev.to/mark6902/how-to-create-secure-collaborative-and-productive-digital-workspaces-whitepaper-powered-by-hp-4cgj)
 - [Dev.to/JS] [How to do effective code reviews ?](https://dev.to/engineeringexpert/how-to-do-effective-code-reviews--137)
-- [Dev.to/JS] [Creating a Dynamic Date and Time Picker with Bootstrap 4 and jQuery DateTimePicker](https://dev.to/sohrabzia/creating-a-dynamic-date-and-time-picker-with-bootstrap-4-and-jquery-datetimepicker-39g5)
-- [Dev.to/JS] [Supabase ⚡ database functions](https://dev.to/devkiran/supabase-database-functions-26k)
-- [Dev.to/JS] [How to Generate Your Own Funko Pop Characters with AI](https://dev.to/mikeyoung44/how-to-generate-your-own-funko-pop-characters-with-ai-17ef)
-- [Dev.to/JS] [What&#39;s new in Astro 3.0](https://dev.to/jaycedotbin/whats-new-in-astro-30-2le7)
-- [Dev.to/JS] [Mastering Event Debouncing in JavaScript: A Guide with Practical Example](https://dev.to/anjankarmakar/mastering-event-debouncing-in-javascript-a-guide-with-practical-example-19oe)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)
 - [Lifehacker] [The Easiest Ways to Fix Cat Scratches on Your Furniture](https://lifehacker.com/the-easiest-ways-to-fix-cat-scratches-on-your-furniture-1850788704?utm_source=regular)
