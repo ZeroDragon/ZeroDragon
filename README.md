@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [&#39;Learning Styles&#39; Matter Less Than You Might Think](https://lifehacker.com/learning-styles-matter-less-than-you-might-think-1850793208?utm_source=regular)
+- [Dev.to/JS] [Using the canPlayType&lpar;&rpar; Method of the HTMLMediaElement API](https://dev.to/impressivewebs/using-the-canplaytype-method-of-the-htmlmediaelement-api-3hl)
+- [Lifehacker] [You Should Add Baking Soda to Your Ground Meat](https://lifehacker.com/you-should-add-baking-soda-to-your-ground-meat-1846103865?utm_source=regular)
+- [Lifehacker] [Four Things You Need to Escape the Top Floor in a Fire](https://lifehacker.com/four-things-you-need-to-escape-the-top-floor-in-a-fire-1850792513?utm_source=regular)
 - [Dev.to/JS] [File-Based Routing in Node.js](https://dev.to/dsitdikov/file-based-routing-in-nodejs-n6f)
 - [Lifehacker] [The Best Labor Day Sales on MacBooks, AirPods and Apple Watches](https://lifehacker.com/the-best-labor-day-sales-on-apple-products-1850792954?utm_source=regular)
 - [Dev.to/JS] [Objects in JavaScript: A Comprehensive Look](https://dev.to/akinnimimanuel/objects-in-javascript-a-comprehensive-look-2ikf)
@@ -46,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Develop Animated Bubbles with HTML5 Canvas and JavaScript: A Step-by-Step Tutorial](https://dev.to/shrutikapoor08/develop-animated-bubbles-with-html5-canvas-and-javascript-a-step-by-step-tutorial-kid)
 - [Lifehacker] [How to Choose Between an iPhone, Galaxy, and Pixel](https://lifehacker.com/how-to-choose-between-an-iphone-galaxy-or-pixel-1850788933?utm_source=regular)
 - [Dev.to/JS] [Bello frined](https://dev.to/irem_asksjsndn_cb0992f13b/bello-frined-296i)
-- [Dev.to/JS] [Detecting ERR_CONNECTION_TIMED_OUT on IFrame load in React](https://dev.to/fbcyborg/detecting-errconnectiontimedout-on-iframe-load-in-react-15la)
 - [Lifehacker] [The Best Date Activities for Building &#39;Recreational Intimacy&#39;](https://lifehacker.com/the-best-date-activities-for-building-recreational-inti-1850789445?utm_source=regular)
 - [Lifehacker] [This 50-Mile Range eBike Is 60% Off Right Now](https://lifehacker.com/this-50-mile-range-ebike-is-60-off-right-now-1850789475?utm_source=regular)
 - [Lifehacker] [Use Kolb’s Learning Cycle to Grasp New Concepts](https://lifehacker.com/use-kolb-s-learning-cycle-to-grasp-new-concepts-1850787831?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Labor Day Deals on TVs](https://lifehacker.com/best-labor-day-tv-deals-1850788728?utm_source=regular)
 - [Lifehacker] [How to Use Vanish Mode on Instagram](https://lifehacker.com/how-to-use-vanish-mode-on-instagram-1850788353?utm_source=regular)
 - [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-a-grilled-cheese-sandwich-1850009055?utm_source=regular)
-- [Lifehacker] [All the Netflix Original Movies Coming This Fall](https://lifehacker.com/all-the-netflix-original-movies-coming-this-fall-1850787679?utm_source=regular)
-- [Lifehacker] [Use Hard-Boiled Eggs to Keep Your Hollandaise From Breaking](https://lifehacker.com/use-hard-boiled-eggs-to-keep-your-hollandaise-from-brea-1850787059?utm_source=regular)
-- [Lifehacker] [MSG Isn&#39;t Actually Bad for You](https://lifehacker.com/stop-being-afraid-of-msg-1831011967?utm_source=regular)
-- [Lifehacker] [Cottage Cheese Protein-Popsicles Are Actually Pretty Great](https://lifehacker.com/cottage-cheese-protein-popsicles-are-actually-pretty-gr-1850787765?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Netflix Original Movies Coming This Fall](https://lifehacker.com/all-the-netflix-original-movies-coming-this-fall-1850787679?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
