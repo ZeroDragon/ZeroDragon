@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Become a Machine Learning Engineer in Seven Steps](https://dev.to/durgesh4993/how-to-become-a-machine-learning-engineer-in-seven-steps-9km)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
 - [Dev.to/JS] [Type Casting with TypeScript: A tutorial](https://dev.to/alakkadshaw/type-casting-with-typescript-a-tutorial-cg9)
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Regular Expressions Cheat Sheet PART - 1](https://dev.to/burakboduroglu/regular-expressions-cheat-sheet-part-1-1eml)
 - [Lifehacker] [MSG Isn&#39;t Actually Bad for You](https://lifehacker.com/stop-being-afraid-of-msg-1831011967?utm_source=regular)
 - [Lifehacker] [Cottage Cheese Protein-Popsicles Are Actually Pretty Great](https://lifehacker.com/cottage-cheese-protein-popsicles-are-actually-pretty-gr-1850787765?utm_source=regular)
-- [Dev.to/JS] [Working with color programmatically.](https://dev.to/arcaneqoder/working-with-color-programmatically-4nmk)
 - [Lifehacker] [Use the Leitner System to Study More Effectively](https://lifehacker.com/use-the-leitner-system-to-study-more-effectively-1850786716?utm_source=regular)
 - [Lifehacker] [How to Download YouTube Videos on an iPhone](https://lifehacker.com/how-to-download-youtube-videos-on-an-iphone-1850787605?utm_source=regular)
 - [Lifehacker] [What Is USB-C, and Why You Should Care](https://lifehacker.com/what-is-usb-c-and-why-you-should-care-1850785386?utm_source=regular)
