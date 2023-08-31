@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [File-Based Routing in Node.js](https://dev.to/dsitdikov/file-based-routing-in-nodejs-n6f)
+- [Lifehacker] [The Best Labor Day Sales on MacBooks, AirPods and Apple Watches](https://lifehacker.com/the-best-labor-day-sales-on-apple-products-1850792954?utm_source=regular)
+- [Dev.to/JS] [Objects in JavaScript: A Comprehensive Look](https://dev.to/akinnimimanuel/objects-in-javascript-a-comprehensive-look-2ikf)
+- [Lifehacker] [The Ten Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009?utm_source=regular)
+- [Dev.to/JS] [Binary Search Decoded: Navigating Search Algorithms](https://dev.to/apatel-ai/binary-search-decoded-navigating-search-algorithms-6nm)
+- [Lifehacker] [The Muffuletta Is One Sandwich That Feeds a Crowd](https://lifehacker.com/the-muffuletta-is-one-sandwich-that-feeds-a-crowd-1850792193?utm_source=regular)
 - [Dev.to/JS] [🛠️ 8 Free Tools for the Modern Web Developers of 2023](https://dev.to/shivamblog/8-free-tools-for-the-modern-web-developers-of-2023-e5)
 - [Dev.to/JS] [Join the Gadget incubator program to build a business in just 10 weeks](https://dev.to/gadget/join-the-gadget-incubator-program-to-build-a-business-in-just-10-weeks-18p9)
 - [Lifehacker] [All the Ways to Take Screenshots on Android](https://lifehacker.com/all-the-ways-to-take-screenshots-on-android-1850788590?utm_source=regular)
@@ -41,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose Between an iPhone, Galaxy, and Pixel](https://lifehacker.com/how-to-choose-between-an-iphone-galaxy-or-pixel-1850788933?utm_source=regular)
 - [Dev.to/JS] [Bello frined](https://dev.to/irem_asksjsndn_cb0992f13b/bello-frined-296i)
 - [Dev.to/JS] [Detecting ERR_CONNECTION_TIMED_OUT on IFrame load in React](https://dev.to/fbcyborg/detecting-errconnectiontimedout-on-iframe-load-in-react-15la)
-- [Dev.to/JS] [Best Web Development Company in India](https://dev.to/desun-technology/best-web-development-company-in-india-1edi)
 - [Lifehacker] [The Best Date Activities for Building &#39;Recreational Intimacy&#39;](https://lifehacker.com/the-best-date-activities-for-building-recreational-inti-1850789445?utm_source=regular)
-- [Dev.to/JS] [Setup your NextJS app](https://dev.to/noblica/setup-your-nextjs-app-35io)
 - [Lifehacker] [This 50-Mile Range eBike Is 60% Off Right Now](https://lifehacker.com/this-50-mile-range-ebike-is-60-off-right-now-1850789475?utm_source=regular)
-- [Dev.to/JS] [Adding Algolia search to my 404 page](https://dev.to/joebailey26/adding-algolia-search-to-my-404-page-hg1)
 - [Lifehacker] [Use Kolb’s Learning Cycle to Grasp New Concepts](https://lifehacker.com/use-kolb-s-learning-cycle-to-grasp-new-concepts-1850787831?utm_source=regular)
 - [Lifehacker] [Why You Should Join a Neighborhood Food Swap](https://lifehacker.com/why-you-should-join-a-neighborhood-food-swap-1850788387?utm_source=regular)
 - [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Netflix Original Movies Coming This Fall](https://lifehacker.com/all-the-netflix-original-movies-coming-this-fall-1850787679?utm_source=regular)
 - [Lifehacker] [Use Hard-Boiled Eggs to Keep Your Hollandaise From Breaking](https://lifehacker.com/use-hard-boiled-eggs-to-keep-your-hollandaise-from-brea-1850787059?utm_source=regular)
 - [Lifehacker] [MSG Isn&#39;t Actually Bad for You](https://lifehacker.com/stop-being-afraid-of-msg-1831011967?utm_source=regular)
-- [Lifehacker] [Cottage Cheese Protein-Popsicles Are Actually Pretty Great](https://lifehacker.com/cottage-cheese-protein-popsicles-are-actually-pretty-gr-1850787765?utm_source=regular)
-- [Lifehacker] [Use the Leitner System to Study More Effectively](https://lifehacker.com/use-the-leitner-system-to-study-more-effectively-1850786716?utm_source=regular)
-- [Lifehacker] [How to Download YouTube Videos on an iPhone](https://lifehacker.com/how-to-download-youtube-videos-on-an-iphone-1850787605?utm_source=regular)
-- [Lifehacker] [What Is USB-C, and Why You Should Care](https://lifehacker.com/what-is-usb-c-and-why-you-should-care-1850785386?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Cottage Cheese Protein-Popsicles Are Actually Pretty Great](https://lifehacker.com/cottage-cheese-protein-popsicles-are-actually-pretty-gr-1850787765?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
