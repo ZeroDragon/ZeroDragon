@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [زاگرس ماشین: وب سایتی هوشمند بر پایه JavaScript و PHP-WordPress](https://dev.to/arianzagrosmachinery/zgrs-mshyn-wb-syty-hwshmnd-br-pyh-javascript-w-php-wordpress-2f6n)
 - [Dev.to/JS] [Reactjs Online Job Support From India](https://dev.to/sivaram1651/reactjs-online-job-support-from-india-1hjh)
 - [Dev.to/JS] [A minimalist raster tile server with express and postGIS - part 3. Speeding things up](https://dev.to/leoalho/a-minimalist-raster-tile-server-with-express-and-postgis-part-3-speeding-things-up-1b7)
 - [Dev.to/JS] [How to Create Secure, Collaborative and Productive Digital Workspaces Whitepaper, powered by HP](https://dev.to/mark6902/how-to-create-secure-collaborative-and-productive-digital-workspaces-whitepaper-powered-by-hp-4cgj)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)
 - [Lifehacker] [The Easiest Ways to Fix Cat Scratches on Your Furniture](https://lifehacker.com/the-easiest-ways-to-fix-cat-scratches-on-your-furniture-1850788704?utm_source=regular)
 - [Lifehacker] [FastestVPN Is $30 Right Now](https://lifehacker.com/fastestvpn-is-30-right-now-1850776792?utm_source=regular)
-- [Dev.to/JS] [How to login your users without a password &lpar;but with a magic.link&rpar;](https://dev.to/munichdeveloper/how-to-login-your-users-without-a-password-but-with-a-magiclink-228g)
 - [Lifehacker] [What Your Boredom at Work Is Actually Telling You](https://lifehacker.com/what-your-boredom-at-work-is-actually-telling-you-1850788112?utm_source=regular)
 - [Lifehacker] [These Are the Best Online Flashcard Tools](https://lifehacker.com/these-are-the-best-online-flashcard-tools-1850787618?utm_source=regular)
 - [Lifehacker] [These Are the Best Labor Day Deals on TVs](https://lifehacker.com/best-labor-day-tv-deals-1850788728?utm_source=regular)
