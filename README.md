@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Join a Neighborhood Food Swap](https://lifehacker.com/why-you-should-join-a-neighborhood-food-swap-1850788387?utm_source=regular)
+- [Dev.to/JS] [🛑 Stop adding ESlint to an existing project Incorrectly🛑](https://dev.to/borysshulyak/stop-adding-eslint-to-an-existing-project-incorrectly-3p2n)
+- [Dev.to/JS] [Angular &lpar;16+&rpar; &amp; IntersectionObserver API](https://dev.to/leolanese/angular-16-intersectionobserver-api-2487)
+- [Dev.to/JS] [Javascript ➡️ Java: Strings](https://dev.to/akash_dathan/javascript-java-strings-2m0p)
+- [Dev.to/JS] [Provident Ecopolitan](https://dev.to/pecopolitan/provident-ecopolitan-15j8)
+- [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step - DynamoDB Streams](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-dynamodb-streams-21g5)
 - [Lifehacker] [Why the ‘Penny in Your Freezer’ Trick Is Pointless](https://lifehacker.com/penny-in-freezer-trick-debunked-1850788431?utm_source=regular)
 - [Dev.to/JS] [ElementRef in Angular | How to use it](https://dev.to/omamaaslam/elementref-in-angular-how-to-use-it-5039)
 - [Dev.to/JS] [Nemlendirme sistemleri](https://dev.to/seolita/nemlendirme-sistemleri-1igk)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Anyone Know about integration of Bokun API ?](https://dev.to/jeet404/anyone-knows-aboout-integration-of-bokun-api-4m8o)
 - [Dev.to/JS] [How to build a full-stack authentication app](https://dev.to/apisix/how-to-build-a-full-stack-authentication-app-1cp0)
 - [Dev.to/JS] [300 React JS Interview Questions and Answers](https://dev.to/in/300-react-js-interview-questions-and-answers-37ah)
-- [Dev.to/JS] [Creating Hero Section in React with Styled Components](https://dev.to/ryaddev/creating-hero-section-in-react-with-styled-components-4k0n)
-- [Dev.to/JS] [JAMstack: Building Scalable and Performant Web Applications](https://dev.to/codeph112/jamstack-building-scalable-and-performant-web-applications-2b3k)
-- [Dev.to/JS] [Automated Software Testing Tools | Fireflink](https://dev.to/fireflink/automated-software-testing-tools-fireflink-33bf)
-- [Dev.to/JS] [Grow and reach new milestone of your 𝕏 &lpar;formerly Twitter&rpar; and Github followers](https://dev.to/hellofaizaan/grow-and-reach-new-milestone-of-your-formerly-twitter-and-github-followers-20ep)
-- [Dev.to/JS] [Zagros Machine: a smart website based on JavaScript and PHP-WordPress](https://dev.to/arianzagrosmachinery/zagros-machine-a-smart-website-based-on-javascript-and-php-wordpress-175o)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)
 - [Lifehacker] [The Easiest Ways to Fix Cat Scratches on Your Furniture](https://lifehacker.com/the-easiest-ways-to-fix-cat-scratches-on-your-furniture-1850788704?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Tent Your AC Unit](https://lifehacker.com/why-you-should-never-tent-your-ac-unit-1850782683?utm_source=regular)
 - [Lifehacker] [What to Know Before Paying for YouTube TV](https://lifehacker.com/youtube-tv-review-1850782942?utm_source=regular)
 - [Lifehacker] [This Refurbished MacBook Air Is $255 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-255-right-now-1850782428?utm_source=regular)
-- [Lifehacker] [You Can Improve Your Odds of Boarding First on Southwest Airlines](https://lifehacker.com/you-can-improve-your-odds-of-boarding-first-on-southwes-1850785557?utm_source=regular)
-- [Lifehacker] [You Should Consider a Heat Pump Dryer](https://lifehacker.com/you-should-consider-a-heat-pump-dryer-1850785513?utm_source=regular)
-- [Lifehacker] [These Ryobi Tools Are on Sale Right Now at Home Depot](https://lifehacker.com/these-ryobi-tools-are-on-sale-right-now-at-home-depot-1850785433?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Improve Your Odds of Boarding First on Southwest Airlines](https://lifehacker.com/you-can-improve-your-odds-of-boarding-first-on-southwes-1850785557?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
