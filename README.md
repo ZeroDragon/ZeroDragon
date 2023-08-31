@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All you need to know about Pass by Value and Pass by Reference](https://dev.to/devlawrence/all-you-need-to-know-about-pass-by-value-and-pass-by-reference-4mjn)
+- [Dev.to/JS] [React.js useParams&lpar;&rpar; tutorial](https://dev.to/harjas816/reactjs-useparams-tutorial-23f4)
+- [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)
+- [Dev.to/JS] [Laravel SPA OAuth using GitHub, Socialite, and Sanctum](https://dev.to/medilies/laravel-spa-oauth-using-github-socialite-and-sanctum-p8e)
+- [Lifehacker] [Headway Premium Is on Sale for $60 Right Now](https://lifehacker.com/headway-premium-is-on-sale-for-60-right-now-1850790034?utm_source=regular)
 - [Lifehacker] [The Best Labor Day Sales on Home Improvement Tools](https://lifehacker.com/the-best-labor-day-sales-on-home-improvement-tools-1850793462?utm_source=regular)
 - [Lifehacker] [All the Ways to Remove a Security Tag From Clothing](https://lifehacker.com/how-to-remove-security-tags-from-clothing-5831054?utm_source=regular)
 - [Lifehacker] [PlayStation Plus Is About to Raise Prices &lpar;but Here&#39;s How You Can Avoid It&rpar;](https://lifehacker.com/playstation-plus-is-about-to-raise-prices-but-heres-ho-1850793631?utm_source=regular)
@@ -49,10 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways to Take Screenshots on Android](https://lifehacker.com/all-the-ways-to-take-screenshots-on-android-1850788590?utm_source=regular)
 - [Dev.to/JS] [Learn TypeScript from experts](https://dev.to/ishratumar/typescript-bootcamp-2p4n)
 - [Lifehacker] [Here&#39;s When You Should Consider a Dropped Ceiling](https://lifehacker.com/heres-when-you-should-consider-a-dropped-ceiling-1850791930?utm_source=regular)
-- [Dev.to/JS] [The &quot;this&quot; Keyword in JavaScript](https://dev.to/ankitat721/the-this-keyword-in-javascript-37io)
 - [Lifehacker] [Is Hulu&#39;s Top-Tier Price Worth It?](https://lifehacker.com/is-hulus-top-tier-price-worth-it-1850790018?utm_source=regular)
-- [Dev.to/JS] [Another Merge for my PR](https://dev.to/kssaiteja/another-merge-for-my-pr-47p0)
-- [Dev.to/JS] [Unveiling the Journey: African Folktales App - Where AI Meets Culture 🌍📚](https://dev.to/cypriantinasheaarons/unveiling-the-journey-african-folktales-app-where-ai-meets-culture-1kn2)
 - [Lifehacker] [The Best Way to Freeze Your Summer Fruit](https://lifehacker.com/the-best-way-to-freeze-your-summer-fruit-1850789759?utm_source=regular)
 - [Lifehacker] [The Best Ways to Beat the &#39;Forgetting Curve&#39; While Studying](https://lifehacker.com/the-best-ways-to-beat-the-forgetting-curve-while-studyi-1850791645?utm_source=regular)
 - [Lifehacker] [How to Choose Between an iPhone, Galaxy, and Pixel](https://lifehacker.com/how-to-choose-between-an-iphone-galaxy-or-pixel-1850788933?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)
 - [Lifehacker] [Why the ‘Penny in Your Freezer’ Trick Is Pointless](https://lifehacker.com/penny-in-freezer-trick-debunked-1850788431?utm_source=regular)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
-- [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)
-- [Lifehacker] [The Easiest Ways to Fix Cat Scratches on Your Furniture](https://lifehacker.com/the-easiest-ways-to-fix-cat-scratches-on-your-furniture-1850788704?utm_source=regular)
-- [Lifehacker] [FastestVPN Is $30 Right Now](https://lifehacker.com/fastestvpn-is-30-right-now-1850776792?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
