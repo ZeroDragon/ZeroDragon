@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Event Debouncing in JavaScript: A Guide with Practical Example](https://dev.to/anjankarmakar/mastering-event-debouncing-in-javascript-a-guide-with-practical-example-19oe)
 - [Dev.to/JS] [How to Become a Machine Learning Engineer in Seven Steps](https://dev.to/durgesh4993/how-to-become-a-machine-learning-engineer-in-seven-steps-9km)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
 - [Dev.to/JS] [Type Casting with TypeScript: A tutorial](https://dev.to/alakkadshaw/type-casting-with-typescript-a-tutorial-cg9)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lets understand working of Internet&lpar;S1:E1&rpar;](https://dev.to/ankitparashar700/lets-understand-working-of-internets1e1-3n9e)
 - [Lifehacker] [Use Hard-Boiled Eggs to Keep Your Hollandaise From Breaking](https://lifehacker.com/use-hard-boiled-eggs-to-keep-your-hollandaise-from-brea-1850787059?utm_source=regular)
 - [Dev.to/JS] [JavaScript Control Structures: The Adventure Continues](https://dev.to/init_chandan/javascript-control-structures-the-adventure-continues-53j4)
-- [Dev.to/JS] [Regular Expressions Cheat Sheet PART - 1](https://dev.to/burakboduroglu/regular-expressions-cheat-sheet-part-1-1eml)
 - [Lifehacker] [MSG Isn&#39;t Actually Bad for You](https://lifehacker.com/stop-being-afraid-of-msg-1831011967?utm_source=regular)
 - [Lifehacker] [Cottage Cheese Protein-Popsicles Are Actually Pretty Great](https://lifehacker.com/cottage-cheese-protein-popsicles-are-actually-pretty-gr-1850787765?utm_source=regular)
 - [Lifehacker] [Use the Leitner System to Study More Effectively](https://lifehacker.com/use-the-leitner-system-to-study-more-effectively-1850786716?utm_source=regular)
