@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🛠️ 8 Free Tools for the Modern Web Developers of 2023](https://dev.to/shivamblog/8-free-tools-for-the-modern-web-developers-of-2023-e5)
+- [Dev.to/JS] [Join the Gadget incubator program to build a business in just 10 weeks](https://dev.to/gadget/join-the-gadget-incubator-program-to-build-a-business-in-just-10-weeks-18p9)
+- [Lifehacker] [All the Ways to Take Screenshots on Android](https://lifehacker.com/all-the-ways-to-take-screenshots-on-android-1850788590?utm_source=regular)
+- [Dev.to/JS] [Learn TypeScript from experts](https://dev.to/ishratumar/typescript-bootcamp-2p4n)
+- [Lifehacker] [Here&#39;s When You Should Consider a Dropped Ceiling](https://lifehacker.com/heres-when-you-should-consider-a-dropped-ceiling-1850791930?utm_source=regular)
 - [Dev.to/JS] [The &quot;this&quot; Keyword in JavaScript](https://dev.to/ankitat721/the-this-keyword-in-javascript-37io)
 - [Lifehacker] [Is Hulu&#39;s Top-Tier Price Worth It?](https://lifehacker.com/is-hulus-top-tier-price-worth-it-1850790018?utm_source=regular)
 - [Dev.to/JS] [Another Merge for my PR](https://dev.to/kssaiteja/another-merge-for-my-pr-47p0)
@@ -41,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setup your NextJS app](https://dev.to/noblica/setup-your-nextjs-app-35io)
 - [Lifehacker] [This 50-Mile Range eBike Is 60% Off Right Now](https://lifehacker.com/this-50-mile-range-ebike-is-60-off-right-now-1850789475?utm_source=regular)
 - [Dev.to/JS] [Adding Algolia search to my 404 page](https://dev.to/joebailey26/adding-algolia-search-to-my-404-page-hg1)
-- [Dev.to/JS] [Using Error Boundary in React](https://dev.to/devvarun/using-error-boundary-in-react-4lko)
-- [Dev.to/JS] [Day 37: Types](https://dev.to/dhrn/day-37-types-3e6i)
 - [Lifehacker] [Use Kolb’s Learning Cycle to Grasp New Concepts](https://lifehacker.com/use-kolb-s-learning-cycle-to-grasp-new-concepts-1850787831?utm_source=regular)
-- [Dev.to/JS] [Key Benefits of Web Applications for Business](https://dev.to/sparkouttech/key-benefits-of-web-applications-for-business-4op2)
 - [Lifehacker] [Why You Should Join a Neighborhood Food Swap](https://lifehacker.com/why-you-should-join-a-neighborhood-food-swap-1850788387?utm_source=regular)
 - [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)
 - [Lifehacker] [Why the ‘Penny in Your Freezer’ Trick Is Pointless](https://lifehacker.com/penny-in-freezer-trick-debunked-1850788431?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cottage Cheese Protein-Popsicles Are Actually Pretty Great](https://lifehacker.com/cottage-cheese-protein-popsicles-are-actually-pretty-gr-1850787765?utm_source=regular)
 - [Lifehacker] [Use the Leitner System to Study More Effectively](https://lifehacker.com/use-the-leitner-system-to-study-more-effectively-1850786716?utm_source=regular)
 - [Lifehacker] [How to Download YouTube Videos on an iPhone](https://lifehacker.com/how-to-download-youtube-videos-on-an-iphone-1850787605?utm_source=regular)
-- [Lifehacker] [What Is USB-C, and Why You Should Care](https://lifehacker.com/what-is-usb-c-and-why-you-should-care-1850785386?utm_source=regular)
-- [Lifehacker] [The Best Early Tech Deals for Labor Day](https://lifehacker.com/the-best-labor-day-tech-deals-you-can-get-early-1850764868?utm_source=regular)
-- [Lifehacker] [Use the KWL Study Method to Learn More](https://lifehacker.com/use-the-kwl-study-method-to-learn-more-1850786565?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is USB-C, and Why You Should Care](https://lifehacker.com/what-is-usb-c-and-why-you-should-care-1850785386?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
