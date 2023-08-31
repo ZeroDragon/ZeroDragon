@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reactjs Online Job Support From India](https://dev.to/sivaram1651/reactjs-online-job-support-from-india-1hjh)
+- [Dev.to/JS] [A minimalist raster tile server with express and postGIS - part 3. Speeding things up](https://dev.to/leoalho/a-minimalist-raster-tile-server-with-express-and-postgis-part-3-speeding-things-up-1b7)
+- [Dev.to/JS] [How to Create Secure, Collaborative and Productive Digital Workspaces Whitepaper, powered by HP](https://dev.to/mark6902/how-to-create-secure-collaborative-and-productive-digital-workspaces-whitepaper-powered-by-hp-4cgj)
+- [Dev.to/JS] [How to do effective code reviews ?](https://dev.to/engineeringexpert/how-to-do-effective-code-reviews--137)
+- [Dev.to/JS] [Creating a Dynamic Date and Time Picker with Bootstrap 4 and jQuery DateTimePicker](https://dev.to/sohrabzia/creating-a-dynamic-date-and-time-picker-with-bootstrap-4-and-jquery-datetimepicker-39g5)
 - [Dev.to/JS] [Supabase ⚡ database functions](https://dev.to/devkiran/supabase-database-functions-26k)
 - [Dev.to/JS] [How to Generate Your Own Funko Pop Characters with AI](https://dev.to/mikeyoung44/how-to-generate-your-own-funko-pop-characters-with-ai-17ef)
 - [Dev.to/JS] [What&#39;s new in Astro 3.0](https://dev.to/jaycedotbin/whats-new-in-astro-30-2le7)
@@ -38,13 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [FastestVPN Is $30 Right Now](https://lifehacker.com/fastestvpn-is-30-right-now-1850776792?utm_source=regular)
 - [Dev.to/JS] [How to login your users without a password &lpar;but with a magic.link&rpar;](https://dev.to/munichdeveloper/how-to-login-your-users-without-a-password-but-with-a-magiclink-228g)
 - [Lifehacker] [What Your Boredom at Work Is Actually Telling You](https://lifehacker.com/what-your-boredom-at-work-is-actually-telling-you-1850788112?utm_source=regular)
-- [Dev.to/JS] [Handle Stripe events in 2 minutes with Sailhouse](https://dev.to/estephinson/handle-stripe-events-in-2-minutes-with-sailhouse-3moo)
 - [Lifehacker] [These Are the Best Online Flashcard Tools](https://lifehacker.com/these-are-the-best-online-flashcard-tools-1850787618?utm_source=regular)
-- [Dev.to/JS] [Closure in Javascript - Revisiting Counter Example](https://dev.to/artydev/closure-in-javascript-revisiting-counter-example-2ldg)
-- [Dev.to/JS] [Using caret and tilde in package.json dependencies](https://dev.to/germanescobar/using-caret-and-tilde-in-packagejson-dependencies-4if5)
-- [Dev.to/JS] [React Custom Hook: useTimeout](https://dev.to/sergeyleschev/react-custom-hook-usetimeout-41k)
 - [Lifehacker] [These Are the Best Labor Day Deals on TVs](https://lifehacker.com/best-labor-day-tv-deals-1850788728?utm_source=regular)
-- [Dev.to/JS] [Building a Complete To-Do App with SvelteKit: Taking Your Skills to the Next Level](https://dev.to/ironside/building-a-complete-to-do-app-with-sveltekit-taking-your-skills-to-the-next-level-1j3g)
 - [Lifehacker] [How to Use Vanish Mode on Instagram](https://lifehacker.com/how-to-use-vanish-mode-on-instagram-1850788353?utm_source=regular)
 - [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-a-grilled-cheese-sandwich-1850009055?utm_source=regular)
 - [Lifehacker] [All the Netflix Original Movies Coming This Fall](https://lifehacker.com/all-the-netflix-original-movies-coming-this-fall-1850787679?utm_source=regular)
