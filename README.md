@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Supabase ⚡ database functions](https://dev.to/devkiran/supabase-database-functions-26k)
 - [Dev.to/JS] [How to Generate Your Own Funko Pop Characters with AI](https://dev.to/mikeyoung44/how-to-generate-your-own-funko-pop-characters-with-ai-17ef)
 - [Dev.to/JS] [What&#39;s new in Astro 3.0](https://dev.to/jaycedotbin/whats-new-in-astro-30-2le7)
 - [Dev.to/JS] [Mastering Event Debouncing in JavaScript: A Guide with Practical Example](https://dev.to/anjankarmakar/mastering-event-debouncing-in-javascript-a-guide-with-practical-example-19oe)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Labor Day Deals on TVs](https://lifehacker.com/best-labor-day-tv-deals-1850788728?utm_source=regular)
 - [Dev.to/JS] [Building a Complete To-Do App with SvelteKit: Taking Your Skills to the Next Level](https://dev.to/ironside/building-a-complete-to-do-app-with-sveltekit-taking-your-skills-to-the-next-level-1j3g)
 - [Lifehacker] [How to Use Vanish Mode on Instagram](https://lifehacker.com/how-to-use-vanish-mode-on-instagram-1850788353?utm_source=regular)
-- [Dev.to/JS] [Named Arguments in JavaScript: Cleaner Code with Destructuring](https://dev.to/joelnbl/named-arguments-in-javascript-cleaner-code-with-destructuring-329m)
 - [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/the-best-cheeses-for-a-grilled-cheese-sandwich-1850009055?utm_source=regular)
 - [Lifehacker] [All the Netflix Original Movies Coming This Fall](https://lifehacker.com/all-the-netflix-original-movies-coming-this-fall-1850787679?utm_source=regular)
 - [Lifehacker] [Use Hard-Boiled Eggs to Keep Your Hollandaise From Breaking](https://lifehacker.com/use-hard-boiled-eggs-to-keep-your-hollandaise-from-brea-1850787059?utm_source=regular)
