@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding Algolia search to my 404 page](https://dev.to/joebailey26/adding-algolia-search-to-my-404-page-hg1)
+- [Dev.to/JS] [Using Error Boundary in React](https://dev.to/devvarun/using-error-boundary-in-react-4lko)
+- [Dev.to/JS] [Day 37: Types](https://dev.to/dhrn/day-37-types-3e6i)
+- [Lifehacker] [Use Kolb’s Learning Cycle to Grasp New Concepts](https://lifehacker.com/use-kolb-s-learning-cycle-to-grasp-new-concepts-1850787831?utm_source=regular)
+- [Dev.to/JS] [Key Benefits of Web Applications for Business](https://dev.to/sparkouttech/key-benefits-of-web-applications-for-business-4op2)
+- [Dev.to/JS] [Form Handling | React | Part 3 | Components](https://dev.to/shubhamtiwari909/form-handling-react-part-3-components-5a9m)
+- [Dev.to/JS] [Angular Reactive Forms: Mastering Dynamic Form Validation and User Interaction](https://dev.to/chintanonweb/angular-reactive-forms-mastering-dynamic-form-validation-and-user-interaction-32pe)
+- [Dev.to/JS] [What&#39;s new in Novu 0.18?](https://dev.to/novu/whats-new-in-novu-018-4m1b)
 - [Lifehacker] [Why You Should Join a Neighborhood Food Swap](https://lifehacker.com/why-you-should-join-a-neighborhood-food-swap-1850788387?utm_source=regular)
 - [Dev.to/JS] [🛑 Stop adding ESlint to an existing project Incorrectly🛑](https://dev.to/borysshulyak/stop-adding-eslint-to-an-existing-project-incorrectly-3p2n)
 - [Dev.to/JS] [Angular &lpar;16+&rpar; &amp; IntersectionObserver API](https://dev.to/leolanese/angular-16-intersectionobserver-api-2487)
@@ -34,13 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step - DynamoDB Streams](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-dynamodb-streams-21g5)
 - [Lifehacker] [Why the ‘Penny in Your Freezer’ Trick Is Pointless](https://lifehacker.com/penny-in-freezer-trick-debunked-1850788431?utm_source=regular)
-- [Dev.to/JS] [ElementRef in Angular | How to use it](https://dev.to/omamaaslam/elementref-in-angular-how-to-use-it-5039)
-- [Dev.to/JS] [Nemlendirme sistemleri](https://dev.to/seolita/nemlendirme-sistemleri-1igk)
-- [Dev.to/JS] [Solutions provided by the best website designing services](https://dev.to/badalkumar/solutions-provided-by-the-best-website-designing-services-541m)
-- [Dev.to/JS] [Closure in JavaScript](https://dev.to/abdullah5xm/closure-in-javascript-5dpf)
-- [Dev.to/JS] [Anyone Know about integration of Bokun API ?](https://dev.to/jeet404/anyone-knows-aboout-integration-of-bokun-api-4m8o)
-- [Dev.to/JS] [How to build a full-stack authentication app](https://dev.to/apisix/how-to-build-a-full-stack-authentication-app-1cp0)
-- [Dev.to/JS] [300 React JS Interview Questions and Answers](https://dev.to/in/300-react-js-interview-questions-and-answers-37ah)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)
 - [Lifehacker] [The Easiest Ways to Fix Cat Scratches on Your Furniture](https://lifehacker.com/the-easiest-ways-to-fix-cat-scratches-on-your-furniture-1850788704?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Set Up Parental Controls on TikTok](https://lifehacker.com/how-to-set-up-parental-controls-on-tiktok-1850786215?utm_source=regular)
 - [Lifehacker] [Why You Should Never Tent Your AC Unit](https://lifehacker.com/why-you-should-never-tent-your-ac-unit-1850782683?utm_source=regular)
 - [Lifehacker] [What to Know Before Paying for YouTube TV](https://lifehacker.com/youtube-tv-review-1850782942?utm_source=regular)
-- [Lifehacker] [This Refurbished MacBook Air Is $255 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-255-right-now-1850782428?utm_source=regular)
-- [Lifehacker] [You Can Improve Your Odds of Boarding First on Southwest Airlines](https://lifehacker.com/you-can-improve-your-odds-of-boarding-first-on-southwes-1850785557?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished MacBook Air Is $255 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-255-right-now-1850782428?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
