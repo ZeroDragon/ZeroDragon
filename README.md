@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closure in JavaScript](https://dev.to/abdullah5xm/closure-in-javascript-5dpf)
+- [Dev.to/JS] [Anyone Know about integration of Bokun API ?](https://dev.to/jeet404/anyone-knows-aboout-integration-of-bokun-api-4m8o)
+- [Dev.to/JS] [How to build a full-stack authentication app](https://dev.to/apisix/how-to-build-a-full-stack-authentication-app-1cp0)
 - [Dev.to/JS] [300 React JS Interview Questions and Answers](https://dev.to/in/300-react-js-interview-questions-and-answers-37ah)
 - [Dev.to/JS] [Creating Hero Section in React with Styled Components](https://dev.to/ryaddev/creating-hero-section-in-react-with-styled-components-4k0n)
 - [Dev.to/JS] [JAMstack: Building Scalable and Performant Web Applications](https://dev.to/codeph112/jamstack-building-scalable-and-performant-web-applications-2b3k)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Salesman attendance management system in Node &amp; MongoDB](https://dev.to/jsdevsatish/saleman-attendance-management-system-in-node-mongodb-5b8m)
 - [Dev.to/JS] [FIX &quot;ReferenceError: __dirname is not defined in ES module scope&quot; in NodeJs.](https://dev.to/stanon/fix-referenceerror-dirname-is-not-defined-in-es-module-scope-in-nodejs-9lm)
 - [Dev.to/JS] [زاگرس ماشین: وب سایتی هوشمند بر پایه JavaScript و PHP-WordPress](https://dev.to/arianzagrosmachinery/zgrs-mshyn-wb-syty-hwshmnd-br-pyh-javascript-w-php-wordpress-2f6n)
-- [Dev.to/JS] [Reactjs Online Job Support From India](https://dev.to/sivaram1651/reactjs-online-job-support-from-india-1hjh)
-- [Dev.to/JS] [A minimalist raster tile server with express and postGIS - part 3. Speeding things up](https://dev.to/leoalho/a-minimalist-raster-tile-server-with-express-and-postgis-part-3-speeding-things-up-1b7)
-- [Dev.to/JS] [How to Create Secure, Collaborative and Productive Digital Workspaces Whitepaper, powered by HP](https://dev.to/mark6902/how-to-create-secure-collaborative-and-productive-digital-workspaces-whitepaper-powered-by-hp-4cgj)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
 - [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)
 - [Lifehacker] [The Easiest Ways to Fix Cat Scratches on Your Furniture](https://lifehacker.com/the-easiest-ways-to-fix-cat-scratches-on-your-furniture-1850788704?utm_source=regular)
