@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
+- [Dev.to/JS] [Making Your Unity Game Playable Without Download: The WebGL Way](https://dev.to/angelarodriguezz/making-your-unity-game-playable-without-download-the-webgl-way-201g)
+- [Dev.to/JS] [Talks from SeattleJS Conf 2023 &lpar;free&rpar;](https://dev.to/crtr0/talks-from-seattlejs-conf-2023-free-578p)
+- [Lifehacker] [Homemade Magic Shell Is Almost Too Easy](https://lifehacker.com/easy-chocolate-magic-shell-recipe-1850797444?utm_source=regular)
 - [Dev.to/JS] [Jackets Empire](https://dev.to/jacketsempire/jackets-empire-1l58)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Dev.to/JS] [Decentralized programming with libp2p](https://dev.to/codecowboydotio/decentralized-programming-with-libp2p-2klf)
@@ -48,9 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ExpressoTS vs Nest vs Expressjs vs Fastify &lpar;Benchmark&rpar;](https://dev.to/expressots/expressots-vs-nest-vs-expressjs-vs-fastify-benchmark-5d17)
 - [Lifehacker] [13 of My Favorite Grilling Recipes for Labor Day](https://lifehacker.com/best-grilling-recipes-1850793271?utm_source=regular)
 - [Dev.to/JS] [Exploring lesser-known React hooks and their importance](https://dev.to/gbadeboife/exploring-lesser-known-react-hooks-and-their-importance-i0l)
-- [Dev.to/JS] [Why is string considered as an object in JavaScript?](https://dev.to/shubhadip_bhowmik/why-is-string-considered-as-an-object-in-javascript-3h2j)
 - [Lifehacker] [Don&#39;t Believe These Myths About Contraception](https://lifehacker.com/biggest-birth-control-myths-1850764015?utm_source=regular)
-- [Dev.to/JS] [Devops](https://dev.to/kssaiteja/devops-3adk)
 - [Lifehacker] [Everything You Should Know About Emergency Contraception &lpar;Before You Need It&rpar;](https://lifehacker.com/everything-you-should-know-about-emergency-contraceptio-1850771878?utm_source=regular)
 - [Lifehacker] [Everything You Need to Know Before Getting Your Tubes Tied](https://lifehacker.com/everything-you-need-to-know-before-getting-your-tubes-t-1849121197?utm_source=regular)
 - [Lifehacker] [Is &#39;Fertility Awareness&#39; Contraception Right for You?](https://lifehacker.com/is-fertility-awareness-contraception-right-for-you-1834151752?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Complete Guide to How Birth Control Has Changed Over the Years](https://lifehacker.com/a-complete-guide-to-how-birth-control-has-changed-over-1850781873?utm_source=regular)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)
 - [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)
-- [Lifehacker] [Headway Premium Is on Sale for $60 Right Now](https://lifehacker.com/headway-premium-is-on-sale-for-60-right-now-1850790034?utm_source=regular)
-- [Lifehacker] [The Best Labor Day Sales on Home Improvement Tools](https://lifehacker.com/the-best-labor-day-sales-on-home-improvement-tools-1850793462?utm_source=regular)
-- [Lifehacker] [All the Ways to Remove a Security Tag From Clothing](https://lifehacker.com/how-to-remove-security-tags-from-clothing-5831054?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Headway Premium Is on Sale for $60 Right Now](https://lifehacker.com/headway-premium-is-on-sale-for-60-right-now-1850790034?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
