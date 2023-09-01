@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [12 Web App Ideas for Startups and Entrepreneurs in 2023](https://dev.to/sparkouttech/12-web-app-ideas-for-startups-and-entrepreneurs-in-2023-58bl)
+- [Lifehacker] [What to Expect When You&#39;re Getting an IUD](https://lifehacker.com/what-to-expect-when-getting-an-iud-1850767682?utm_source=regular)
+- [Dev.to/JS] [React native Search In SectionList](https://dev.to/sahilkashyap64/react-native-search-in-sectionlist-195i)
+- [Dev.to/JS] [I made platform for developers to monitor their coding time.](https://dev.to/sushantdhiman2004/i-made-platform-for-developers-to-monitor-their-coding-time-1l10)
+- [Lifehacker] [How to Choose a Birth Control Option If You’re Worried About Side Effects](https://lifehacker.com/how-to-choose-a-birth-control-option-if-you-re-worried-1841912477?utm_source=regular)
 - [Dev.to/JS] [Mastering Code Splitting in React: Best Practices for Optimal Performance](https://dev.to/kirubelkinfe/mastering-code-splitting-in-react-best-practices-for-optimal-performance-2o40)
 - [Lifehacker] [Here’s How Well the Most Common Birth Control Options Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332?utm_source=regular)
 - [Dev.to/JS] [Clocks &amp; Countdowns: Timing in CSS and JavaScript](https://dev.to/madsstoumann/clocks-countdowns-timing-in-css-and-javascript-554n)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Comprehensive Guide to JavaScript Arrays](https://dev.to/chintanonweb/the-comprehensive-guide-to-javascript-arrays-3g7k)
 - [Dev.to/JS] [A Beginner&#39;s Journey to Expert](https://dev.to/jushendhillon9/a-beginners-journey-to-expert-21km)
 - [Dev.to/JS] [Essential React Libraries.](https://dev.to/shriharimurali/essential-react-libraries-33ep)
-- [Dev.to/JS] [Crafting a Dynamic Blog with Next.js 13 App Directory](https://dev.to/_kejk/crafting-a-dynamic-blog-with-nextjs-13-app-directory-2021)
-- [Dev.to/JS] [The Flow Blockchain Hackaton Season 2](https://dev.to/glazer/the-flow-blockchain-hackaton-season-2-2o22)
-- [Dev.to/JS] [Effective State Management with Context API in React](https://dev.to/rolxmehh/effective-state-management-with-context-api-in-react-51l7)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)
 - [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)
 - [Lifehacker] [Headway Premium Is on Sale for $60 Right Now](https://lifehacker.com/headway-premium-is-on-sale-for-60-right-now-1850790034?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose Between an iPhone, Galaxy, and Pixel](https://lifehacker.com/how-to-choose-between-an-iphone-galaxy-or-pixel-1850788933?utm_source=regular)
 - [Lifehacker] [The Best Date Activities for Building &#39;Recreational Intimacy&#39;](https://lifehacker.com/the-best-date-activities-for-building-recreational-inti-1850789445?utm_source=regular)
 - [Lifehacker] [This 50-Mile Range eBike Is 60% Off Right Now](https://lifehacker.com/this-50-mile-range-ebike-is-60-off-right-now-1850789475?utm_source=regular)
-- [Lifehacker] [Use Kolb’s Learning Cycle to Grasp New Concepts](https://lifehacker.com/use-kolb-s-learning-cycle-to-grasp-new-concepts-1850787831?utm_source=regular)
-- [Lifehacker] [Why You Should Join a Neighborhood Food Swap](https://lifehacker.com/why-you-should-join-a-neighborhood-food-swap-1850788387?utm_source=regular)
-- [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Kolb’s Learning Cycle to Grasp New Concepts](https://lifehacker.com/use-kolb-s-learning-cycle-to-grasp-new-concepts-1850787831?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
