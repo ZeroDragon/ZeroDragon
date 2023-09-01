@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Refurbished Microsoft Surface Laptop Is 50% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-laptop-is-50-off-ri-1850790158?utm_source=regular)
+- [Dev.to/JS] [Understanding the Sliding Window Technique](https://dev.to/apatel-ai/understanding-the-sliding-window-technique-17n2)
+- [Lifehacker] [These Are the Best Home Security Systems in 2023](https://lifehacker.com/best-home-security-systems-1850793992?utm_source=regular)
 - [Dev.to/JS] [Introducing JShive: Elevate Your JavaScript Knowledge!](https://dev.to/jshivecom/introducing-jshive-elevate-your-javascript-knowledge-94e)
 - [Dev.to/JS] [Building Offline-Ready Webpage with Service Worker and Cache Storage](https://dev.to/naimur/building-offline-ready-webpage-with-service-worker-and-cache-storage-3dbk)
 - [Lifehacker] [&#39;Overlearning&#39; Can Force Important Information Into Your Longterm Memory](https://lifehacker.com/overlearning-can-force-important-information-into-your-1850797539?utm_source=regular)
@@ -47,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hide &amp; Seek Content multiple places in same page](https://dev.to/dev_sagar_lakshkar/hide-seek-content-multiple-places-in-same-page-3bhi)
 - [Dev.to/JS] [Why You Should Use PocketBase for Your Next Project](https://dev.to/kalashin1/why-you-should-use-pocketbase-for-your-next-project-4dda)
 - [Lifehacker] [Everything You Need to Know Before Getting Your Tubes Tied](https://lifehacker.com/everything-you-need-to-know-before-getting-your-tubes-t-1849121197?utm_source=regular)
-- [Dev.to/JS] [The Essence of JavaScript in Web Development](https://dev.to/linktoyinka/the-essence-of-javascript-in-web-development-4p1n)
 - [Lifehacker] [Is &#39;Fertility Awareness&#39; Contraception Right for You?](https://lifehacker.com/is-fertility-awareness-contraception-right-for-you-1834151752?utm_source=regular)
 - [Lifehacker] [What to Expect When You Get a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205?utm_source=regular)
 - [Lifehacker] [What Every Type of Birth Control Costs](https://lifehacker.com/how-much-does-birth-control-cost-1850761958?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways to Remove a Security Tag From Clothing](https://lifehacker.com/how-to-remove-security-tags-from-clothing-5831054?utm_source=regular)
 - [Lifehacker] [PlayStation Plus Is About to Raise Prices &lpar;but Here&#39;s How You Can Avoid It&rpar;](https://lifehacker.com/playstation-plus-is-about-to-raise-prices-but-heres-ho-1850793631?utm_source=regular)
 - [Lifehacker] [Use That Last Bit of Dip to Make a Salad Dressing](https://lifehacker.com/use-that-last-bit-of-dip-to-make-a-salad-dressing-1850793162?utm_source=regular)
-- [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
-- [Lifehacker] [StackSkills e-Learning Courses Are $35 Right Now](https://lifehacker.com/stackskills-e-learning-courses-are-35-right-now-1850782486?utm_source=regular)
-- [Lifehacker] [&#39;Learning Styles&#39; Matter Less Than You Might Think](https://lifehacker.com/learning-styles-matter-less-than-you-might-think-1850793208?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
