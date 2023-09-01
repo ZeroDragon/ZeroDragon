@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Expect When You Get a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205?utm_source=regular)
+- [Lifehacker] [What Every Type of Birth Control Costs](https://lifehacker.com/how-much-does-birth-control-cost-1850761958?utm_source=regular)
+- [Dev.to/JS] [Understanding the browser&#39;s Main Thread](https://dev.to/shidhincr/understanding-the-browsers-main-thread-ge7)
+- [Dev.to/JS] [I Made a Boo Boo Filling an Array](https://dev.to/wraith/i-made-a-boo-boo-filling-an-array-5cj5)
+- [Dev.to/JS] [Day 38: Assertions](https://dev.to/dhrn/day-38-assertions-3da0)
+- [Lifehacker] [How to Choose the Right Birth Control Pill for You](https://lifehacker.com/how-to-choose-a-birth-control-pill-1836496878?utm_source=regular)
 - [Dev.to/JS] [12 Web App Ideas for Startups and Entrepreneurs in 2023](https://dev.to/sparkouttech/12-web-app-ideas-for-startups-and-entrepreneurs-in-2023-58bl)
 - [Lifehacker] [What to Expect When You&#39;re Getting an IUD](https://lifehacker.com/what-to-expect-when-getting-an-iud-1850767682?utm_source=regular)
 - [Dev.to/JS] [React native Search In SectionList](https://dev.to/sahilkashyap64/react-native-search-in-sectionlist-195i)
@@ -34,14 +40,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Code Splitting in React: Best Practices for Optimal Performance](https://dev.to/kirubelkinfe/mastering-code-splitting-in-react-best-practices-for-optimal-performance-2o40)
 - [Lifehacker] [Here’s How Well the Most Common Birth Control Options Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332?utm_source=regular)
 - [Dev.to/JS] [Clocks &amp; Countdowns: Timing in CSS and JavaScript](https://dev.to/madsstoumann/clocks-countdowns-timing-in-css-and-javascript-554n)
-- [Dev.to/JS] [Ultimate Guide to UX Research Bootcamps](https://dev.to/tadcourses/ultimate-guide-to-ux-research-bootcamps-5b1j)
 - [Lifehacker] [A Complete Guide to How Birth Control Has Changed Over the Years](https://lifehacker.com/a-complete-guide-to-how-birth-control-has-changed-over-1850781873?utm_source=regular)
 - [Dev.to/JS] [All Important JavaScript Array methods need to know](https://dev.to/vps07/all-important-javascript-array-methods-need-to-know-1n02)
 - [Dev.to/JS] [A Beginner&#39;s Guide To Javascript async / await.](https://dev.to/paulineoraro/a-beginners-guide-to-javascript-async-await-37kh)
 - [Dev.to/JS] [9 Next.js Open Source Projects for Contributions 🚀🚀](https://dev.to/devkiran/9-open-source-nextjs-projects-open-for-contributions-272c)
 - [Dev.to/JS] [The Comprehensive Guide to JavaScript Arrays](https://dev.to/chintanonweb/the-comprehensive-guide-to-javascript-arrays-3g7k)
-- [Dev.to/JS] [A Beginner&#39;s Journey to Expert](https://dev.to/jushendhillon9/a-beginners-journey-to-expert-21km)
-- [Dev.to/JS] [Essential React Libraries.](https://dev.to/shriharimurali/essential-react-libraries-33ep)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)
 - [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)
 - [Lifehacker] [Headway Premium Is on Sale for $60 Right Now](https://lifehacker.com/headway-premium-is-on-sale-for-60-right-now-1850790034?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is Hulu&#39;s Top-Tier Price Worth It?](https://lifehacker.com/is-hulus-top-tier-price-worth-it-1850790018?utm_source=regular)
 - [Lifehacker] [The Best Way to Freeze Your Summer Fruit](https://lifehacker.com/the-best-way-to-freeze-your-summer-fruit-1850789759?utm_source=regular)
 - [Lifehacker] [The Best Ways to Beat the &#39;Forgetting Curve&#39; While Studying](https://lifehacker.com/the-best-ways-to-beat-the-forgetting-curve-while-studyi-1850791645?utm_source=regular)
-- [Lifehacker] [How to Choose Between an iPhone, Galaxy, and Pixel](https://lifehacker.com/how-to-choose-between-an-iphone-galaxy-or-pixel-1850788933?utm_source=regular)
-- [Lifehacker] [The Best Date Activities for Building &#39;Recreational Intimacy&#39;](https://lifehacker.com/the-best-date-activities-for-building-recreational-inti-1850789445?utm_source=regular)
-- [Lifehacker] [This 50-Mile Range eBike Is 60% Off Right Now](https://lifehacker.com/this-50-mile-range-ebike-is-60-off-right-now-1850789475?utm_source=regular)
-- [Lifehacker] [Use Kolb’s Learning Cycle to Grasp New Concepts](https://lifehacker.com/use-kolb-s-learning-cycle-to-grasp-new-concepts-1850787831?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose Between an iPhone, Galaxy, and Pixel](https://lifehacker.com/how-to-choose-between-an-iphone-galaxy-or-pixel-1850788933?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
