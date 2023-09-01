@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing JShive: Elevate Your JavaScript Knowledge!](https://dev.to/jshivecom/introducing-jshive-elevate-your-javascript-knowledge-94e)
+- [Dev.to/JS] [Building Offline-Ready Webpage with Service Worker and Cache Storage](https://dev.to/naimur/building-offline-ready-webpage-with-service-worker-and-cache-storage-3dbk)
+- [Lifehacker] [&#39;Overlearning&#39; Can Force Important Information Into Your Longterm Memory](https://lifehacker.com/overlearning-can-force-important-information-into-your-1850797539?utm_source=regular)
+- [Lifehacker] [This Is the Perfect Cocktail Sauce](https://lifehacker.com/best-cocktail-sauce-recipe-1844910566?utm_source=regular)
+- [Dev.to/JS] [¿Cómo puede el aprendizaje automático ayudar a los desarrolladores web?](https://dev.to/alfredo_10_27/como-puede-el-aprendizaje-automatico-ayudar-a-los-desarrolladores-web-4fnm)
+- [Lifehacker] [What Is a Home Swap Loan, and When Should You Get One?](https://lifehacker.com/what-is-a-home-swap-loan-and-when-should-you-get-one-1850796773?utm_source=regular)
 - [Dev.to/JS] [Xcode Command PhaseScriptExecution failed with a nonzero exit code](https://dev.to/adeleyeayodeji/xcode-command-phasescriptexecution-failed-with-a-nonzero-exit-code-26gk)
 - [Dev.to/JS] [Understand Hoisting in JavaScript](https://dev.to/ensamuel/understand-hoisting-in-javascript-33p)
 - [Lifehacker] [TikTok Myth of the Week: Tick Hoaxes](https://lifehacker.com/tiktok-myth-of-the-week-tick-hoaxes-1850794294?utm_source=regular)
@@ -43,11 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know Before Getting Your Tubes Tied](https://lifehacker.com/everything-you-need-to-know-before-getting-your-tubes-t-1849121197?utm_source=regular)
 - [Dev.to/JS] [The Essence of JavaScript in Web Development](https://dev.to/linktoyinka/the-essence-of-javascript-in-web-development-4p1n)
 - [Lifehacker] [Is &#39;Fertility Awareness&#39; Contraception Right for You?](https://lifehacker.com/is-fertility-awareness-contraception-right-for-you-1834151752?utm_source=regular)
-- [Dev.to/JS] [Embark on a Coding Journey with AI Guidance at CodeQuick.io](https://dev.to/codequick/embark-on-a-coding-journey-with-ai-guidance-at-codequickio-16dd)
 - [Lifehacker] [What to Expect When You Get a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205?utm_source=regular)
 - [Lifehacker] [What Every Type of Birth Control Costs](https://lifehacker.com/how-much-does-birth-control-cost-1850761958?utm_source=regular)
-- [Dev.to/JS] [Understanding the browser&#39;s Main Thread](https://dev.to/shidhincr/understanding-the-browsers-main-thread-ge7)
-- [Dev.to/JS] [I Made a Boo Boo Filling an Array](https://dev.to/wraith/i-made-a-boo-boo-filling-an-array-5cj5)
 - [Lifehacker] [How to Choose the Right Birth Control Pill for You](https://lifehacker.com/how-to-choose-a-birth-control-pill-1836496878?utm_source=regular)
 - [Lifehacker] [What to Expect When You&#39;re Getting an IUD](https://lifehacker.com/what-to-expect-when-getting-an-iud-1850767682?utm_source=regular)
 - [Lifehacker] [How to Choose a Birth Control Option If You’re Worried About Side Effects](https://lifehacker.com/how-to-choose-a-birth-control-option-if-you-re-worried-1841912477?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use That Last Bit of Dip to Make a Salad Dressing](https://lifehacker.com/use-that-last-bit-of-dip-to-make-a-salad-dressing-1850793162?utm_source=regular)
 - [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
 - [Lifehacker] [StackSkills e-Learning Courses Are $35 Right Now](https://lifehacker.com/stackskills-e-learning-courses-are-35-right-now-1850782486?utm_source=regular)
-- [Lifehacker] [&#39;Learning Styles&#39; Matter Less Than You Might Think](https://lifehacker.com/learning-styles-matter-less-than-you-might-think-1850793208?utm_source=regular)
-- [Lifehacker] [You Should Add Baking Soda to Your Ground Meat](https://lifehacker.com/you-should-add-baking-soda-to-your-ground-meat-1846103865?utm_source=regular)
-- [Lifehacker] [Four Things You Need to Escape the Top Floor in a Fire](https://lifehacker.com/four-things-you-need-to-escape-the-top-floor-in-a-fire-1850792513?utm_source=regular)
-- [Lifehacker] [The Best Labor Day Sales on MacBooks, AirPods and Apple Watches](https://lifehacker.com/the-best-labor-day-sales-on-apple-products-1850792954?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;Learning Styles&#39; Matter Less Than You Might Think](https://lifehacker.com/learning-styles-matter-less-than-you-might-think-1850793208?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
