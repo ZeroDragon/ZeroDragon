@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Xcode Command PhaseScriptExecution failed with a nonzero exit code](https://dev.to/adeleyeayodeji/xcode-command-phasescriptexecution-failed-with-a-nonzero-exit-code-26gk)
+- [Dev.to/JS] [Understand Hoisting in JavaScript](https://dev.to/ensamuel/understand-hoisting-in-javascript-33p)
+- [Lifehacker] [TikTok Myth of the Week: Tick Hoaxes](https://lifehacker.com/tiktok-myth-of-the-week-tick-hoaxes-1850794294?utm_source=regular)
+- [Lifehacker] [What to Do When an Airline Loses Your Luggage](https://lifehacker.com/what-to-do-when-an-airline-loses-your-bag-1830460934?utm_source=regular)
 - [Lifehacker] [Air Fried Phyllo-Wrapped Vegetables Make a Great Crispy Snack](https://lifehacker.com/air-fried-phyllo-wrapped-vegetables-make-a-great-crispy-1850796435?utm_source=regular)
 - [Dev.to/JS] [ExpressoTS vs Nest vs Expressjs vs Fastify &lpar;Benchmark&rpar;](https://dev.to/expressots/expressots-vs-nest-vs-expressjs-vs-fastify-benchmark-5d17)
 - [Lifehacker] [13 of My Favorite Grilling Recipes for Labor Day](https://lifehacker.com/best-grilling-recipes-1850793271?utm_source=regular)
@@ -44,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Every Type of Birth Control Costs](https://lifehacker.com/how-much-does-birth-control-cost-1850761958?utm_source=regular)
 - [Dev.to/JS] [Understanding the browser&#39;s Main Thread](https://dev.to/shidhincr/understanding-the-browsers-main-thread-ge7)
 - [Dev.to/JS] [I Made a Boo Boo Filling an Array](https://dev.to/wraith/i-made-a-boo-boo-filling-an-array-5cj5)
-- [Dev.to/JS] [Day 38: Assertions](https://dev.to/dhrn/day-38-assertions-3da0)
 - [Lifehacker] [How to Choose the Right Birth Control Pill for You](https://lifehacker.com/how-to-choose-a-birth-control-pill-1836496878?utm_source=regular)
-- [Dev.to/JS] [12 Web App Ideas for Startups and Entrepreneurs in 2023](https://dev.to/sparkouttech/12-web-app-ideas-for-startups-and-entrepreneurs-in-2023-58bl)
 - [Lifehacker] [What to Expect When You&#39;re Getting an IUD](https://lifehacker.com/what-to-expect-when-getting-an-iud-1850767682?utm_source=regular)
 - [Lifehacker] [How to Choose a Birth Control Option If You’re Worried About Side Effects](https://lifehacker.com/how-to-choose-a-birth-control-option-if-you-re-worried-1841912477?utm_source=regular)
 - [Lifehacker] [Here’s How Well the Most Common Birth Control Options Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Learning Styles&#39; Matter Less Than You Might Think](https://lifehacker.com/learning-styles-matter-less-than-you-might-think-1850793208?utm_source=regular)
 - [Lifehacker] [You Should Add Baking Soda to Your Ground Meat](https://lifehacker.com/you-should-add-baking-soda-to-your-ground-meat-1846103865?utm_source=regular)
 - [Lifehacker] [Four Things You Need to Escape the Top Floor in a Fire](https://lifehacker.com/four-things-you-need-to-escape-the-top-floor-in-a-fire-1850792513?utm_source=regular)
-- [Lifehacker] [The Best Labor Day Sales on MacBooks, AirPods and Apple Watches](https://lifehacker.com/the-best-labor-day-sales-on-apple-products-1850792954?utm_source=regular)
-- [Lifehacker] [The Ten Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009?utm_source=regular)
-- [Lifehacker] [The Muffuletta Is One Sandwich That Feeds a Crowd](https://lifehacker.com/the-muffuletta-is-one-sandwich-that-feeds-a-crowd-1850792193?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Labor Day Sales on MacBooks, AirPods and Apple Watches](https://lifehacker.com/the-best-labor-day-sales-on-apple-products-1850792954?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
