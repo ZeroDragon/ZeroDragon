@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jackets Empire](https://dev.to/jacketsempire/jackets-empire-1l58)
+- [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
+- [Dev.to/JS] [Decentralized programming with libp2p](https://dev.to/codecowboydotio/decentralized-programming-with-libp2p-2klf)
+- [Lifehacker] [How to Actually Tie Your Shoes Correctly](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979?utm_source=regular)
+- [Lifehacker] [Use These &#39;Active Recall&#39; Techniques the Next Time You Study](https://lifehacker.com/use-these-active-recall-techniques-the-next-time-you-st-1850797753?utm_source=regular)
 - [Lifehacker] [This Refurbished Microsoft Surface Laptop Is 50% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-laptop-is-50-off-ri-1850790158?utm_source=regular)
 - [Dev.to/JS] [Understanding the Sliding Window Technique](https://dev.to/apatel-ai/understanding-the-sliding-window-technique-17n2)
 - [Lifehacker] [These Are the Best Home Security Systems in 2023](https://lifehacker.com/best-home-security-systems-1850793992?utm_source=regular)
@@ -47,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Believe These Myths About Contraception](https://lifehacker.com/biggest-birth-control-myths-1850764015?utm_source=regular)
 - [Dev.to/JS] [Devops](https://dev.to/kssaiteja/devops-3adk)
 - [Lifehacker] [Everything You Should Know About Emergency Contraception &lpar;Before You Need It&rpar;](https://lifehacker.com/everything-you-should-know-about-emergency-contraceptio-1850771878?utm_source=regular)
-- [Dev.to/JS] [Hide &amp; Seek Content multiple places in same page](https://dev.to/dev_sagar_lakshkar/hide-seek-content-multiple-places-in-same-page-3bhi)
-- [Dev.to/JS] [Why You Should Use PocketBase for Your Next Project](https://dev.to/kalashin1/why-you-should-use-pocketbase-for-your-next-project-4dda)
 - [Lifehacker] [Everything You Need to Know Before Getting Your Tubes Tied](https://lifehacker.com/everything-you-need-to-know-before-getting-your-tubes-t-1849121197?utm_source=regular)
 - [Lifehacker] [Is &#39;Fertility Awareness&#39; Contraception Right for You?](https://lifehacker.com/is-fertility-awareness-contraception-right-for-you-1834151752?utm_source=regular)
 - [Lifehacker] [What to Expect When You Get a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)
 - [Lifehacker] [Headway Premium Is on Sale for $60 Right Now](https://lifehacker.com/headway-premium-is-on-sale-for-60-right-now-1850790034?utm_source=regular)
 - [Lifehacker] [The Best Labor Day Sales on Home Improvement Tools](https://lifehacker.com/the-best-labor-day-sales-on-home-improvement-tools-1850793462?utm_source=regular)
-- [Lifehacker] [All the Ways to Remove a Security Tag From Clothing](https://lifehacker.com/how-to-remove-security-tags-from-clothing-5831054?utm_source=regular)
-- [Lifehacker] [PlayStation Plus Is About to Raise Prices &lpar;but Here&#39;s How You Can Avoid It&rpar;](https://lifehacker.com/playstation-plus-is-about-to-raise-prices-but-heres-ho-1850793631?utm_source=regular)
-- [Lifehacker] [Use That Last Bit of Dip to Make a Salad Dressing](https://lifehacker.com/use-that-last-bit-of-dip-to-make-a-salad-dressing-1850793162?utm_source=regular)
-- [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways to Remove a Security Tag From Clothing](https://lifehacker.com/how-to-remove-security-tags-from-clothing-5831054?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
