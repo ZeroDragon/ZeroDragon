@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Beginner&#39;s Journey to Expert](https://dev.to/jushendhillon9/a-beginners-journey-to-expert-21km)
+- [Dev.to/JS] [Essential React Libraries.](https://dev.to/shriharimurali/essential-react-libraries-33ep)
 - [Dev.to/JS] [Crafting a Dynamic Blog with Next.js 13 App Directory](https://dev.to/_kejk/crafting-a-dynamic-blog-with-nextjs-13-app-directory-2021)
 - [Dev.to/JS] [The Flow Blockchain Hackaton Season 2](https://dev.to/glazer/the-flow-blockchain-hackaton-season-2-2o22)
 - [Dev.to/JS] [Effective State Management with Context API in React](https://dev.to/rolxmehh/effective-state-management-with-context-api-in-react-51l7)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Syncfusion dataLayout cannot be set](https://dev.to/devcodef1/react-syncfusion-datalayout-cannot-be-set-2eo5)
 - [Dev.to/JS] [Angular Template-Driven Forms: Simplifying User Input Handling](https://dev.to/chintanonweb/angular-template-driven-forms-simplifying-user-input-handling-1k7e)
 - [Dev.to/JS] [Display Kintone Records on Google Maps](https://dev.to/emilythecat/display-kintone-records-on-google-maps-h8p)
-- [Dev.to/JS] [JavaScript Promise: await vs. then](https://dev.to/shameel/javascript-promise-await-vs-then-3eg7)
-- [Dev.to/JS] [Unleashing the Power: Demystifying JavaScript Generators](https://dev.to/this-is-learning/unleashing-the-power-demystifying-javascript-generators-1koo)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)
 - [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)
 - [Lifehacker] [Headway Premium Is on Sale for $60 Right Now](https://lifehacker.com/headway-premium-is-on-sale-for-60-right-now-1850790034?utm_source=regular)
