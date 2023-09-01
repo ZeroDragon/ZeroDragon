@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bimabet 69 : Bermain Demo Slot Pragmaticplay](https://dev.to/cahyas56/bimabet-69-bermain-demo-slot-pragmaticplay-di-bimabet-69-3614)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)
 - [Dev.to/JS] [All you need to know about Pass by Value and Pass by Reference](https://dev.to/devlawrence/all-you-need-to-know-about-pass-by-value-and-pass-by-reference-4mjn)
 - [Dev.to/JS] [React.js useParams&lpar;&rpar; tutorial](https://dev.to/harjas816/reactjs-useparams-tutorial-23f4)
@@ -53,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🛠️ 8 Free Tools for the Modern Web Developers of 2023](https://dev.to/shivamblog/8-free-tools-for-the-modern-web-developers-of-2023-e5)
 - [Dev.to/JS] [Join the Gadget incubator program to build a business in just 10 weeks](https://dev.to/gadget/join-the-gadget-incubator-program-to-build-a-business-in-just-10-weeks-18p9)
 - [Lifehacker] [All the Ways to Take Screenshots on Android](https://lifehacker.com/all-the-ways-to-take-screenshots-on-android-1850788590?utm_source=regular)
-- [Dev.to/JS] [Learn TypeScript from experts](https://dev.to/ishratumar/typescript-bootcamp-2p4n)
 - [Lifehacker] [Here&#39;s When You Should Consider a Dropped Ceiling](https://lifehacker.com/heres-when-you-should-consider-a-dropped-ceiling-1850791930?utm_source=regular)
 - [Lifehacker] [Is Hulu&#39;s Top-Tier Price Worth It?](https://lifehacker.com/is-hulus-top-tier-price-worth-it-1850790018?utm_source=regular)
 - [Lifehacker] [The Best Way to Freeze Your Summer Fruit](https://lifehacker.com/the-best-way-to-freeze-your-summer-fruit-1850789759?utm_source=regular)
