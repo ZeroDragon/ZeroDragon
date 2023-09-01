@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)
 - [Dev.to/JS] [All you need to know about Pass by Value and Pass by Reference](https://dev.to/devlawrence/all-you-need-to-know-about-pass-by-value-and-pass-by-reference-4mjn)
 - [Dev.to/JS] [React.js useParams&lpar;&rpar; tutorial](https://dev.to/harjas816/reactjs-useparams-tutorial-23f4)
 - [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Join a Neighborhood Food Swap](https://lifehacker.com/why-you-should-join-a-neighborhood-food-swap-1850788387?utm_source=regular)
 - [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)
 - [Lifehacker] [Why the ‘Penny in Your Freezer’ Trick Is Pointless](https://lifehacker.com/penny-in-freezer-trick-debunked-1850788431?utm_source=regular)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)
-- [Lifehacker] [This PhiGolf World Tour Edition Golf Simulator Is $149.99 Right Now](https://lifehacker.com/this-phigolf-world-tour-edition-golf-simulator-is-149-1850776895?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
