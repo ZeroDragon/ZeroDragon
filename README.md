@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Code Splitting in React: Best Practices for Optimal Performance](https://dev.to/kirubelkinfe/mastering-code-splitting-in-react-best-practices-for-optimal-performance-2o40)
+- [Lifehacker] [Here’s How Well the Most Common Birth Control Options Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332?utm_source=regular)
+- [Dev.to/JS] [Clocks &amp; Countdowns: Timing in CSS and JavaScript](https://dev.to/madsstoumann/clocks-countdowns-timing-in-css-and-javascript-554n)
+- [Dev.to/JS] [Ultimate Guide to UX Research Bootcamps](https://dev.to/tadcourses/ultimate-guide-to-ux-research-bootcamps-5b1j)
 - [Lifehacker] [A Complete Guide to How Birth Control Has Changed Over the Years](https://lifehacker.com/a-complete-guide-to-how-birth-control-has-changed-over-1850781873?utm_source=regular)
 - [Dev.to/JS] [All Important JavaScript Array methods need to know](https://dev.to/vps07/all-important-javascript-array-methods-need-to-know-1n02)
 - [Dev.to/JS] [A Beginner&#39;s Guide To Javascript async / await.](https://dev.to/paulineoraro/a-beginners-guide-to-javascript-async-await-37kh)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crafting a Dynamic Blog with Next.js 13 App Directory](https://dev.to/_kejk/crafting-a-dynamic-blog-with-nextjs-13-app-directory-2021)
 - [Dev.to/JS] [The Flow Blockchain Hackaton Season 2](https://dev.to/glazer/the-flow-blockchain-hackaton-season-2-2o22)
 - [Dev.to/JS] [Effective State Management with Context API in React](https://dev.to/rolxmehh/effective-state-management-with-context-api-in-react-51l7)
-- [Dev.to/JS] [Optimizing JavaScript Code: Embrace Async/Await for Clarity](https://dev.to/mitch1009/optimizing-javascript-code-embrace-asyncawait-for-clarity-4co3)
-- [Dev.to/JS] [Time Complexity of JavaScript Array Methods &lpar;Part One&rpar;](https://dev.to/martinsolumide8/time-complexity-of-javascript-array-methods-part-one-210c)
-- [Dev.to/JS] [🤘🤓🤘 Join Formbricks! &lpar;Senior&rpar; Full-Stack Engineer needed 🤘🤓🤘](https://dev.to/jobenjada/join-formbricks-senior-full-stack-engineer-needed-4g6b)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)
 - [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)
 - [Lifehacker] [Headway Premium Is on Sale for $60 Right Now](https://lifehacker.com/headway-premium-is-on-sale-for-60-right-now-1850790034?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 50-Mile Range eBike Is 60% Off Right Now](https://lifehacker.com/this-50-mile-range-ebike-is-60-off-right-now-1850789475?utm_source=regular)
 - [Lifehacker] [Use Kolb’s Learning Cycle to Grasp New Concepts](https://lifehacker.com/use-kolb-s-learning-cycle-to-grasp-new-concepts-1850787831?utm_source=regular)
 - [Lifehacker] [Why You Should Join a Neighborhood Food Swap](https://lifehacker.com/why-you-should-join-a-neighborhood-food-swap-1850788387?utm_source=regular)
-- [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)
-- [Lifehacker] [Why the ‘Penny in Your Freezer’ Trick Is Pointless](https://lifehacker.com/penny-in-freezer-trick-debunked-1850788431?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
