@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Template-Driven Forms: Simplifying User Input Handling](https://dev.to/chintanonweb/angular-template-driven-forms-simplifying-user-input-handling-1k7e)
+- [Dev.to/JS] [Display Kintone Records on Google Maps](https://dev.to/emilythecat/display-kintone-records-on-google-maps-h8p)
+- [Dev.to/JS] [JavaScript Promise: await vs. then](https://dev.to/shameel/javascript-promise-await-vs-then-3eg7)
 - [Dev.to/JS] [Implementing NProgress in the Next.js 13 App Router](https://dev.to/designly/implementing-nprogress-in-the-nextjs-13-app-router-2aff)
 - [Dev.to/JS] [Digital Marketing Training Institute in Hyderabad](https://dev.to/emblixacademy5436/digital-marketing-training-institute-in-hyderabad-3e51)
 - [Dev.to/JS] [How can you enable rich text editing on your web pages?](https://dev.to/muhammadmedhat/how-can-you-enable-rich-text-editing-on-your-web-pages-594n)
@@ -45,12 +48,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
 - [Lifehacker] [StackSkills e-Learning Courses Are $35 Right Now](https://lifehacker.com/stackskills-e-learning-courses-are-35-right-now-1850782486?utm_source=regular)
 - [Lifehacker] [&#39;Learning Styles&#39; Matter Less Than You Might Think](https://lifehacker.com/learning-styles-matter-less-than-you-might-think-1850793208?utm_source=regular)
-- [Dev.to/JS] [Using the canPlayType&lpar;&rpar; Method of the HTMLMediaElement API](https://dev.to/impressivewebs/using-the-canplaytype-method-of-the-htmlmediaelement-api-3hl)
 - [Lifehacker] [You Should Add Baking Soda to Your Ground Meat](https://lifehacker.com/you-should-add-baking-soda-to-your-ground-meat-1846103865?utm_source=regular)
 - [Lifehacker] [Four Things You Need to Escape the Top Floor in a Fire](https://lifehacker.com/four-things-you-need-to-escape-the-top-floor-in-a-fire-1850792513?utm_source=regular)
-- [Dev.to/JS] [File-Based Routing in Node.js](https://dev.to/dsitdikov/file-based-routing-in-nodejs-n6f)
 - [Lifehacker] [The Best Labor Day Sales on MacBooks, AirPods and Apple Watches](https://lifehacker.com/the-best-labor-day-sales-on-apple-products-1850792954?utm_source=regular)
-- [Dev.to/JS] [Objects in JavaScript: A Comprehensive Look](https://dev.to/akinnimimanuel/objects-in-javascript-a-comprehensive-look-2ikf)
 - [Lifehacker] [The Ten Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009?utm_source=regular)
 - [Lifehacker] [The Muffuletta Is One Sandwich That Feeds a Crowd](https://lifehacker.com/the-muffuletta-is-one-sandwich-that-feeds-a-crowd-1850792193?utm_source=regular)
 - [Lifehacker] [All the Ways to Take Screenshots on Android](https://lifehacker.com/all-the-ways-to-take-screenshots-on-android-1850788590?utm_source=regular)
