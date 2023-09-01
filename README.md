@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [A Complete Guide to How Birth Control Has Changed Over the Years](https://lifehacker.com/a-complete-guide-to-how-birth-control-has-changed-over-1850781873?utm_source=regular)
+- [Dev.to/JS] [All Important JavaScript Array methods need to know](https://dev.to/vps07/all-important-javascript-array-methods-need-to-know-1n02)
 - [Dev.to/JS] [A Beginner&#39;s Guide To Javascript async / await.](https://dev.to/paulineoraro/a-beginners-guide-to-javascript-async-await-37kh)
 - [Dev.to/JS] [9 Next.js Open Source Projects for Contributions 🚀🚀](https://dev.to/devkiran/9-open-source-nextjs-projects-open-for-contributions-272c)
 - [Dev.to/JS] [The Comprehensive Guide to JavaScript Arrays](https://dev.to/chintanonweb/the-comprehensive-guide-to-javascript-arrays-3g7k)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing JavaScript Code: Embrace Async/Await for Clarity](https://dev.to/mitch1009/optimizing-javascript-code-embrace-asyncawait-for-clarity-4co3)
 - [Dev.to/JS] [Time Complexity of JavaScript Array Methods &lpar;Part One&rpar;](https://dev.to/martinsolumide8/time-complexity-of-javascript-array-methods-part-one-210c)
 - [Dev.to/JS] [🤘🤓🤘 Join Formbricks! &lpar;Senior&rpar; Full-Stack Engineer needed 🤘🤓🤘](https://dev.to/jobenjada/join-formbricks-senior-full-stack-engineer-needed-4g6b)
-- [Dev.to/JS] [What is JavaScript?](https://dev.to/annoh_karlgusta/what-is-javascript-jk2)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)
 - [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)
 - [Lifehacker] [Headway Premium Is on Sale for $60 Right Now](https://lifehacker.com/headway-premium-is-on-sale-for-60-right-now-1850790034?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Kolb’s Learning Cycle to Grasp New Concepts](https://lifehacker.com/use-kolb-s-learning-cycle-to-grasp-new-concepts-1850787831?utm_source=regular)
 - [Lifehacker] [Why You Should Join a Neighborhood Food Swap](https://lifehacker.com/why-you-should-join-a-neighborhood-food-swap-1850788387?utm_source=regular)
 - [Lifehacker] [This Is The Worst Time to Get a Long Car Loan](https://lifehacker.com/this-is-the-worst-time-to-get-a-long-car-loan-1850783402?utm_source=regular)
-- [Lifehacker] [Why the ‘Penny in Your Freezer’ Trick Is Pointless](https://lifehacker.com/penny-in-freezer-trick-debunked-1850788431?utm_source=regular)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, August 31](https://lifehacker.com/connections-answer-today-august-31-2023-1850786694?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why the ‘Penny in Your Freezer’ Trick Is Pointless](https://lifehacker.com/penny-in-freezer-trick-debunked-1850788431?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
