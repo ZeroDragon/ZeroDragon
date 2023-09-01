@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing NProgress in the Next.js 13 App Router](https://dev.to/designly/implementing-nprogress-in-the-nextjs-13-app-router-2aff)
+- [Dev.to/JS] [Digital Marketing Training Institute in Hyderabad](https://dev.to/emblixacademy5436/digital-marketing-training-institute-in-hyderabad-3e51)
+- [Dev.to/JS] [How can you enable rich text editing on your web pages?](https://dev.to/muhammadmedhat/how-can-you-enable-rich-text-editing-on-your-web-pages-594n)
 - [Dev.to/JS] [Bimabet 69 : Bermain Demo Slot Pragmaticplay](https://dev.to/cahyas56/bimabet-69-bermain-demo-slot-pragmaticplay-di-bimabet-69-3614)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)
 - [Dev.to/JS] [All you need to know about Pass by Value and Pass by Reference](https://dev.to/devlawrence/all-you-need-to-know-about-pass-by-value-and-pass-by-reference-4mjn)
@@ -49,10 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Labor Day Sales on MacBooks, AirPods and Apple Watches](https://lifehacker.com/the-best-labor-day-sales-on-apple-products-1850792954?utm_source=regular)
 - [Dev.to/JS] [Objects in JavaScript: A Comprehensive Look](https://dev.to/akinnimimanuel/objects-in-javascript-a-comprehensive-look-2ikf)
 - [Lifehacker] [The Ten Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009?utm_source=regular)
-- [Dev.to/JS] [Binary Search Decoded: Navigating Search Algorithms](https://dev.to/apatel-ai/binary-search-decoded-navigating-search-algorithms-6nm)
 - [Lifehacker] [The Muffuletta Is One Sandwich That Feeds a Crowd](https://lifehacker.com/the-muffuletta-is-one-sandwich-that-feeds-a-crowd-1850792193?utm_source=regular)
-- [Dev.to/JS] [🛠️ 8 Free Tools for the Modern Web Developers of 2023](https://dev.to/shivamblog/8-free-tools-for-the-modern-web-developers-of-2023-e5)
-- [Dev.to/JS] [Join the Gadget incubator program to build a business in just 10 weeks](https://dev.to/gadget/join-the-gadget-incubator-program-to-build-a-business-in-just-10-weeks-18p9)
 - [Lifehacker] [All the Ways to Take Screenshots on Android](https://lifehacker.com/all-the-ways-to-take-screenshots-on-android-1850788590?utm_source=regular)
 - [Lifehacker] [Here&#39;s When You Should Consider a Dropped Ceiling](https://lifehacker.com/heres-when-you-should-consider-a-dropped-ceiling-1850791930?utm_source=regular)
 - [Lifehacker] [Is Hulu&#39;s Top-Tier Price Worth It?](https://lifehacker.com/is-hulus-top-tier-price-worth-it-1850790018?utm_source=regular)
