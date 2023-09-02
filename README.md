@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
+- [Dev.to/JS] [Diploma in Software Testing &lpar;Java Selenium&rpar;](https://dev.to/testingshastra3/diploma-in-software-testing-java-selenium-49ba)
+- [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/scofieldidehen/server-side-rendering-ssr-353e)
 - [Dev.to/JS] [Comparison of npm, Yarn, pnpm, and npx.](https://dev.to/zendyani/comparison-of-npm-yarn-pnpm-and-npx-2975)
 - [Dev.to/JS] [Introduction to Data Science: Making a Career in Data Science](https://dev.to/gayatri/introduction-to-data-science-making-a-career-in-data-science-408o)
 - [Dev.to/JS] [Using Web Browser&#39;s Indexed DB in SvelteKit](https://dev.to/theether0/using-web-browsers-indexed-db-in-sveltekit-3oo3)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Use NodeJS Over Other Languages and Runtimes?](https://dev.to/stanon/why-use-nodejs-over-other-languages-and-runtimes-48l6)
 - [Dev.to/JS] [Web End Projects](https://dev.to/aswin2001barath/web-end-projects-26be)
 - [Dev.to/JS] [Will JavaScript ever die? Can WebAssembly replace JS?](https://dev.to/crackjks/will-javascript-ever-die-can-webassembly-replace-js-38j)
-- [Dev.to/JS] [JU Query: Web App for community based learning &lpar;Project&rpar;](https://dev.to/aswin2001barath/ju-query-web-app-for-community-based-learning-project-39n)
-- [Dev.to/JS] [What Is NodeJS?](https://dev.to/stanon/what-is-nodejs-59n0)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
 - [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
 - [Lifehacker] [Homemade Magic Shell Is Almost Too Easy](https://lifehacker.com/easy-chocolate-magic-shell-recipe-1850797444?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose a Birth Control Option If You’re Worried About Side Effects](https://lifehacker.com/how-to-choose-a-birth-control-option-if-you-re-worried-1841912477?utm_source=regular)
 - [Lifehacker] [Here’s How Well the Most Common Birth Control Options Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332?utm_source=regular)
 - [Lifehacker] [A Complete Guide to How Birth Control Has Changed Over the Years](https://lifehacker.com/a-complete-guide-to-how-birth-control-has-changed-over-1850781873?utm_source=regular)
-- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)
-- [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
