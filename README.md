@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 39: Nullable Strings](https://dev.to/dhrn/day-39-nullable-strings-35gh)
 - [Lifehacker] [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
 - [Dev.to/JS] [Diploma in Software Testing &lpar;Java Selenium&rpar;](https://dev.to/testingshastra3/diploma-in-software-testing-java-selenium-49ba)
 - [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar;](https://dev.to/scofieldidehen/server-side-rendering-ssr-353e)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [8 VS Code Extensions That’ll Make You the James Bond of JS &amp; TS Development](https://dev.to/shivamblog/8-vs-code-extensions-thatll-make-you-the-james-bond-of-js-ts-development-1idf)
 - [Dev.to/JS] [Why Use NodeJS Over Other Languages and Runtimes?](https://dev.to/stanon/why-use-nodejs-over-other-languages-and-runtimes-48l6)
 - [Dev.to/JS] [Web End Projects](https://dev.to/aswin2001barath/web-end-projects-26be)
-- [Dev.to/JS] [Will JavaScript ever die? Can WebAssembly replace JS?](https://dev.to/crackjks/will-javascript-ever-die-can-webassembly-replace-js-38j)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
 - [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
 - [Lifehacker] [Homemade Magic Shell Is Almost Too Easy](https://lifehacker.com/easy-chocolate-magic-shell-recipe-1850797444?utm_source=regular)
