@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comparison of npm, Yarn, pnpm, and npx.](https://dev.to/zendyani/comparison-of-npm-yarn-pnpm-and-npx-2975)
+- [Dev.to/JS] [Introduction to Data Science: Making a Career in Data Science](https://dev.to/gayatri/introduction-to-data-science-making-a-career-in-data-science-408o)
+- [Dev.to/JS] [Using Web Browser&#39;s Indexed DB in SvelteKit](https://dev.to/theether0/using-web-browsers-indexed-db-in-sveltekit-3oo3)
 - [Dev.to/JS] [A short tour of ExpressJS implementation &lpar;Part 1&rpar;](https://dev.to/khanhhuy/a-short-tour-of-expressjs-implementation-part-1-28gd)
 - [Dev.to/JS] [Electronic adhesive glue](https://dev.to/electronicadhesiveglue/electronic-adhesive-glue-4fj9)
 - [Dev.to/JS] [React | How to stop re-rendering in React Components](https://dev.to/shriharimurali/react-how-to-stop-re-rendering-in-react-components-11e5)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Will JavaScript ever die? Can WebAssembly replace JS?](https://dev.to/crackjks/will-javascript-ever-die-can-webassembly-replace-js-38j)
 - [Dev.to/JS] [JU Query: Web App for community based learning &lpar;Project&rpar;](https://dev.to/aswin2001barath/ju-query-web-app-for-community-based-learning-project-39n)
 - [Dev.to/JS] [What Is NodeJS?](https://dev.to/stanon/what-is-nodejs-59n0)
-- [Dev.to/JS] [JavaScript Functions and Events : A Comprehensive Guide](https://dev.to/iamcymentho/javascript-functions-and-events-a-comprehensive-guide-hbe)
-- [Dev.to/JS] [React interactive Components | Tabs](https://dev.to/shubhamtiwari909/react-interactive-components-tabs-48fh)
-- [Dev.to/JS] [What Is A JavaScript Bundler?](https://dev.to/dsibinski/what-is-a-javascript-bundler-429o)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
 - [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
 - [Lifehacker] [Homemade Magic Shell Is Almost Too Easy](https://lifehacker.com/easy-chocolate-magic-shell-recipe-1850797444?utm_source=regular)
