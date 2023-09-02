@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick Tip: Use Node to Create Random Strings](https://dev.to/sean_kegel/quick-tip-use-node-to-create-random-strings-57gf)
 - [Dev.to/JS] [Looking for open source project with web3.js or ether.js](https://dev.to/singgihmardianto/looking-for-open-source-project-with-web3js-or-etherjs-1n21)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
 - [Dev.to/JS] [How to set up JSDoc for NPM packages](https://dev.to/artxe2/how-to-set-up-jsdoc-for-npm-packages-1jm1)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Perfect Cocktail Sauce](https://lifehacker.com/best-cocktail-sauce-recipe-1844910566?utm_source=regular)
 - [Dev.to/JS] [¿Cómo puede el aprendizaje automático ayudar a los desarrolladores web?](https://dev.to/alfredo_10_27/como-puede-el-aprendizaje-automatico-ayudar-a-los-desarrolladores-web-4fnm)
 - [Lifehacker] [What Is a Home Swap Loan, and When Should You Get One?](https://lifehacker.com/what-is-a-home-swap-loan-and-when-should-you-get-one-1850796773?utm_source=regular)
-- [Dev.to/JS] [Xcode Command PhaseScriptExecution failed with a nonzero exit code](https://dev.to/adeleyeayodeji/xcode-command-phasescriptexecution-failed-with-a-nonzero-exit-code-26gk)
 - [Lifehacker] [TikTok Myth of the Week: Tick Hoaxes](https://lifehacker.com/tiktok-myth-of-the-week-tick-hoaxes-1850794294?utm_source=regular)
 - [Lifehacker] [What to Do When an Airline Loses Your Luggage](https://lifehacker.com/what-to-do-when-an-airline-loses-your-bag-1830460934?utm_source=regular)
 - [Lifehacker] [Air Fried Phyllo-Wrapped Vegetables Make a Great Crispy Snack](https://lifehacker.com/air-fried-phyllo-wrapped-vegetables-make-a-great-crispy-1850796435?utm_source=regular)
