@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hi,I want to add new tab on OpenKm CE. Can any one help.](https://dev.to/arpanomega/hii-want-to-add-new-tab-on-openkm-ce-can-any-one-help-2j6)
+- [Dev.to/JS] [Installing Chrome extension from raw source code](https://dev.to/tombyrer/installing-chrome-extension-from-raw-source-code-2m4)
+- [Dev.to/JS] [What framework is the best?](https://dev.to/youssefmic/what-framework-is-the-best-2nko)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
 - [Dev.to/JS] [Pay to Win: Linkedin Premium vê mais vagas?](https://dev.to/lucianodiisouza/pay-to-win-linkedin-premium-ve-mais-vagas-49dj)
 - [Dev.to/JS] [Day 39: Nullable Strings](https://dev.to/dhrn/day-39-nullable-strings-35gh)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Web Browser&#39;s Indexed DB in SvelteKit](https://dev.to/theether0/using-web-browsers-indexed-db-in-sveltekit-3oo3)
 - [Dev.to/JS] [A short tour of ExpressJS implementation &lpar;Part 1&rpar;](https://dev.to/khanhhuy/a-short-tour-of-expressjs-implementation-part-1-28gd)
 - [Dev.to/JS] [Electronic adhesive glue](https://dev.to/electronicadhesiveglue/electronic-adhesive-glue-4fj9)
-- [Dev.to/JS] [React | How to stop re-rendering in React Components](https://dev.to/shriharimurali/react-how-to-stop-re-rendering-in-react-components-11e5)
-- [Dev.to/JS] [8 VS Code Extensions That’ll Make You the James Bond of JS &amp; TS Development](https://dev.to/shivamblog/8-vs-code-extensions-thatll-make-you-the-james-bond-of-js-ts-development-1idf)
-- [Dev.to/JS] [Why Use NodeJS Over Other Languages and Runtimes?](https://dev.to/stanon/why-use-nodejs-over-other-languages-and-runtimes-48l6)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
 - [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
 - [Lifehacker] [Homemade Magic Shell Is Almost Too Easy](https://lifehacker.com/easy-chocolate-magic-shell-recipe-1850797444?utm_source=regular)
