@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Dev.to/JS] [Understanding when and how to use import and export in React](https://dev.to/esedev/understanding-when-and-how-to-use-import-and-export-in-react-43h9)
 - [Dev.to/JS] [Building a Mini Text-Based Adventure Game: &quot;Mini Zork&quot; with HTML, CSS, JS](https://dev.to/shawn2208/building-a-mini-text-based-adventure-game-mini-zork-with-html-css-js-3879)
 - [Dev.to/JS] [Street Programmer: Print Receipt From Online POS Web App to Local Printer](https://dev.to/streetcommunityprogrammer/street-programmer-print-receipt-from-online-pos-web-app-to-local-printer-1hnl)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
 - [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
 - [Lifehacker] [Homemade Magic Shell Is Almost Too Easy](https://lifehacker.com/easy-chocolate-magic-shell-recipe-1850797444?utm_source=regular)
-- [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Lifehacker] [How to Actually Tie Your Shoes Correctly](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979?utm_source=regular)
 - [Lifehacker] [Use These &#39;Active Recall&#39; Techniques the Next Time You Study](https://lifehacker.com/use-these-active-recall-techniques-the-next-time-you-st-1850797753?utm_source=regular)
 - [Lifehacker] [This Refurbished Microsoft Surface Laptop Is 50% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-laptop-is-50-off-ri-1850790158?utm_source=regular)
