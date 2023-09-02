@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
+- [Dev.to/JS] [Upload File](https://dev.to/dimple031/upload-file-2e9k)
+- [Dev.to/JS] [Mastering &#39;useRef&#39; in React with TypeScript: 4 Different Use-Cases for &#39;useRef&#39;](https://dev.to/kirubelkinfe/mastering-useref-in-react-with-typescript-4-different-use-cases-for-useref-2a87)
 - [Dev.to/JS] [Hi,I want to add new tab on OpenKm CE. Can any one help.](https://dev.to/arpanomega/hii-want-to-add-new-tab-on-openkm-ce-can-any-one-help-2j6)
 - [Dev.to/JS] [Installing Chrome extension from raw source code](https://dev.to/tombyrer/installing-chrome-extension-from-raw-source-code-2m4)
 - [Dev.to/JS] [What framework is the best?](https://dev.to/youssefmic/what-framework-is-the-best-2nko)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Comparison of npm, Yarn, pnpm, and npx.](https://dev.to/zendyani/comparison-of-npm-yarn-pnpm-and-npx-2975)
 - [Dev.to/JS] [Introduction to Data Science: Making a Career in Data Science](https://dev.to/gayatri/introduction-to-data-science-making-a-career-in-data-science-408o)
 - [Dev.to/JS] [Using Web Browser&#39;s Indexed DB in SvelteKit](https://dev.to/theether0/using-web-browsers-indexed-db-in-sveltekit-3oo3)
-- [Dev.to/JS] [A short tour of ExpressJS implementation &lpar;Part 1&rpar;](https://dev.to/khanhhuy/a-short-tour-of-expressjs-implementation-part-1-28gd)
-- [Dev.to/JS] [Electronic adhesive glue](https://dev.to/electronicadhesiveglue/electronic-adhesive-glue-4fj9)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
 - [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
 - [Lifehacker] [Homemade Magic Shell Is Almost Too Easy](https://lifehacker.com/easy-chocolate-magic-shell-recipe-1850797444?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Right Birth Control Pill for You](https://lifehacker.com/how-to-choose-a-birth-control-pill-1836496878?utm_source=regular)
 - [Lifehacker] [What to Expect When You&#39;re Getting an IUD](https://lifehacker.com/what-to-expect-when-getting-an-iud-1850767682?utm_source=regular)
 - [Lifehacker] [How to Choose a Birth Control Option If You’re Worried About Side Effects](https://lifehacker.com/how-to-choose-a-birth-control-option-if-you-re-worried-1841912477?utm_source=regular)
-- [Lifehacker] [Here’s How Well the Most Common Birth Control Options Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332?utm_source=regular)
-- [Lifehacker] [A Complete Guide to How Birth Control Has Changed Over the Years](https://lifehacker.com/a-complete-guide-to-how-birth-control-has-changed-over-1850781873?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s How Well the Most Common Birth Control Options Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
