@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 3](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-3-1iia)
 - [Dev.to/JS] [👹🔥 How to Escape JS Framework Hell &lpar;Including React&rpar; 🔥👹](https://dev.to/iq9/how-to-escape-js-framework-hell-including-react-1756)
 - [Dev.to/JS] [Why Java Is an Object-Oriented Programming Language?](https://dev.to/shivabollam07/why-java-is-an-object-oriented-programming-language-4pgn)
 - [Dev.to/JS] [Quick Tip: Use Node to Create Random Strings](https://dev.to/sean_kegel/quick-tip-use-node-to-create-random-strings-57gf)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished Microsoft Surface Laptop Is 50% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-laptop-is-50-off-ri-1850790158?utm_source=regular)
 - [Dev.to/JS] [Understanding the Sliding Window Technique](https://dev.to/apatel-ai/understanding-the-sliding-window-technique-17n2)
 - [Lifehacker] [These Are the Best Home Security Systems in 2023](https://lifehacker.com/best-home-security-systems-1850793992?utm_source=regular)
-- [Dev.to/JS] [Introducing JShive: Elevate Your JavaScript Knowledge!](https://dev.to/jshivecom/introducing-jshive-elevate-your-javascript-knowledge-94e)
 - [Lifehacker] [&#39;Overlearning&#39; Can Force Important Information Into Your Longterm Memory](https://lifehacker.com/overlearning-can-force-important-information-into-your-1850797539?utm_source=regular)
 - [Lifehacker] [This Is the Perfect Cocktail Sauce](https://lifehacker.com/best-cocktail-sauce-recipe-1844910566?utm_source=regular)
 - [Lifehacker] [What Is a Home Swap Loan, and When Should You Get One?](https://lifehacker.com/what-is-a-home-swap-loan-and-when-should-you-get-one-1850796773?utm_source=regular)
