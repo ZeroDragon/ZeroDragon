@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Looking for open source project with web3.js or ether.js](https://dev.to/singgihmardianto/looking-for-open-source-project-with-web3js-or-etherjs-1n21)
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
+- [Dev.to/JS] [How to set up JSDoc for NPM packages](https://dev.to/artxe2/how-to-set-up-jsdoc-for-npm-packages-1jm1)
 - [Dev.to/JS] [🚀 Mastering Advanced Complex React useContext with useReducer ⭐ &lpar;Redux Style&rpar; ⭐](https://dev.to/idurar/mastering-advanced-complex-react-usecontext-with-usereducer-redux-style-2jl0)
 - [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
 - [Dev.to/JS] [Making Your Unity Game Playable Without Download: The WebGL Way](https://dev.to/angelarodriguezz/making-your-unity-game-playable-without-download-the-webgl-way-201g)
@@ -46,11 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [¿Cómo puede el aprendizaje automático ayudar a los desarrolladores web?](https://dev.to/alfredo_10_27/como-puede-el-aprendizaje-automatico-ayudar-a-los-desarrolladores-web-4fnm)
 - [Lifehacker] [What Is a Home Swap Loan, and When Should You Get One?](https://lifehacker.com/what-is-a-home-swap-loan-and-when-should-you-get-one-1850796773?utm_source=regular)
 - [Dev.to/JS] [Xcode Command PhaseScriptExecution failed with a nonzero exit code](https://dev.to/adeleyeayodeji/xcode-command-phasescriptexecution-failed-with-a-nonzero-exit-code-26gk)
-- [Dev.to/JS] [Understand Hoisting in JavaScript](https://dev.to/ensamuel/understand-hoisting-in-javascript-33p)
 - [Lifehacker] [TikTok Myth of the Week: Tick Hoaxes](https://lifehacker.com/tiktok-myth-of-the-week-tick-hoaxes-1850794294?utm_source=regular)
 - [Lifehacker] [What to Do When an Airline Loses Your Luggage](https://lifehacker.com/what-to-do-when-an-airline-loses-your-bag-1830460934?utm_source=regular)
 - [Lifehacker] [Air Fried Phyllo-Wrapped Vegetables Make a Great Crispy Snack](https://lifehacker.com/air-fried-phyllo-wrapped-vegetables-make-a-great-crispy-1850796435?utm_source=regular)
-- [Dev.to/JS] [ExpressoTS vs Nest vs Expressjs vs Fastify &lpar;Benchmark&rpar;](https://dev.to/expressots/expressots-vs-nest-vs-expressjs-vs-fastify-benchmark-5d17)
 - [Lifehacker] [13 of My Favorite Grilling Recipes for Labor Day](https://lifehacker.com/best-grilling-recipes-1850793271?utm_source=regular)
 - [Lifehacker] [Don&#39;t Believe These Myths About Contraception](https://lifehacker.com/biggest-birth-control-myths-1850764015?utm_source=regular)
 - [Lifehacker] [Everything You Should Know About Emergency Contraception &lpar;Before You Need It&rpar;](https://lifehacker.com/everything-you-should-know-about-emergency-contraceptio-1850771878?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How Well the Most Common Birth Control Options Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332?utm_source=regular)
 - [Lifehacker] [A Complete Guide to How Birth Control Has Changed Over the Years](https://lifehacker.com/a-complete-guide-to-how-birth-control-has-changed-over-1850781873?utm_source=regular)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 1](https://lifehacker.com/connections-answer-today-september-1-2023-1850791370?utm_source=regular)
-- [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)
-- [Lifehacker] [Headway Premium Is on Sale for $60 Right Now](https://lifehacker.com/headway-premium-is-on-sale-for-60-right-now-1850790034?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [An AI Moderator Is Coming With ‘Call of Duty: Modern Warfare 3’](https://lifehacker.com/an-ai-moderator-is-coming-with-call-of-duty-modern-wa-1850793420?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
