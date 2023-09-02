@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding when and how to use import and export in React](https://dev.to/esedev/understanding-when-and-how-to-use-import-and-export-in-react-43h9)
 - [Dev.to/JS] [Building a Mini Text-Based Adventure Game: &quot;Mini Zork&quot; with HTML, CSS, JS](https://dev.to/shawn2208/building-a-mini-text-based-adventure-game-mini-zork-with-html-css-js-3879)
 - [Dev.to/JS] [Street Programmer: Print Receipt From Online POS Web App to Local Printer](https://dev.to/streetcommunityprogrammer/street-programmer-print-receipt-from-online-pos-web-app-to-local-printer-1hnl)
 - [Dev.to/JS] [👩🏾‍💻React for beginners: an overview](https://dev.to/dumebii/react-for-beginners-an-overview-5fai)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Installing Chrome extension from raw source code](https://dev.to/tombyrer/installing-chrome-extension-from-raw-source-code-2m4)
 - [Dev.to/JS] [What framework is the best?](https://dev.to/youssefmic/what-framework-is-the-best-2nko)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
-- [Dev.to/JS] [Pay to Win: Linkedin Premium vê mais vagas?](https://dev.to/lucianodiisouza/pay-to-win-linkedin-premium-ve-mais-vagas-49dj)
 - [Lifehacker] [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
 - [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
