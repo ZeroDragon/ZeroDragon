@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [143 Stories To Learn About Javascript](https://dev.to/learnrepo/143-stories-to-learn-about-javascript-4gcn)
+- [Dev.to/JS] [Latest Newsletter: A Bit of a Trip &lpar;Issue #130&rpar;](https://dev.to/mjgs/latest-newsletter-a-bit-of-a-trip-issue-130-3d01)
+- [Dev.to/JS] [Full-Stack Web Development In 7 days Ebook](https://dev.to/sgfhgfhfg/full-stack-web-development-in-7-days-ebook-d60)
 - [Dev.to/JS] [Quietum Plus Reviews - Ear Results, Reviews, Price And Benefits?](https://dev.to/reviewsqui23369/quietum-plus-reviews-ear-results-reviews-price-and-benefits-28mb)
 - [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 3](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-3-1iia)
 - [Dev.to/JS] [👹🔥 How to Escape JS Framework Hell &lpar;Including React&rpar; 🔥👹](https://dev.to/iq9/how-to-escape-js-framework-hell-including-react-1756)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Mastering Advanced Complex React useContext with useReducer ⭐ &lpar;Redux Style&rpar; ⭐](https://dev.to/idurar/mastering-advanced-complex-react-usecontext-with-usereducer-redux-style-2jl0)
 - [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
 - [Dev.to/JS] [Making Your Unity Game Playable Without Download: The WebGL Way](https://dev.to/angelarodriguezz/making-your-unity-game-playable-without-download-the-webgl-way-201g)
-- [Dev.to/JS] [Talks from SeattleJS Conf 2023 &lpar;free&rpar;](https://dev.to/crtr0/talks-from-seattlejs-conf-2023-free-578p)
 - [Lifehacker] [Homemade Magic Shell Is Almost Too Easy](https://lifehacker.com/easy-chocolate-magic-shell-recipe-1850797444?utm_source=regular)
-- [Dev.to/JS] [Jackets Empire](https://dev.to/jacketsempire/jackets-empire-1l58)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
-- [Dev.to/JS] [Decentralized programming with libp2p](https://dev.to/codecowboydotio/decentralized-programming-with-libp2p-2klf)
 - [Lifehacker] [How to Actually Tie Your Shoes Correctly](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979?utm_source=regular)
 - [Lifehacker] [Use These &#39;Active Recall&#39; Techniques the Next Time You Study](https://lifehacker.com/use-these-active-recall-techniques-the-next-time-you-st-1850797753?utm_source=regular)
 - [Lifehacker] [This Refurbished Microsoft Surface Laptop Is 50% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-laptop-is-50-off-ri-1850790158?utm_source=regular)
