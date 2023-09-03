@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Dev.to/JS] [🤔 How I Choose Fabric.js Again](https://dev.to/0ro/how-i-choose-fabricjs-again-41jn)
 - [Dev.to/JS] [JavaScript vs. Python](https://dev.to/technologymoment/javascript-vs-python-1el9)
 - [Dev.to/JS] [Master Data Fetching in React with This Easy Guide](https://dev.to/miroiudev/master-data-fetching-in-react-with-this-easy-guide-42n1)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is &#39;Fertility Awareness&#39; Contraception Right for You?](https://lifehacker.com/is-fertility-awareness-contraception-right-for-you-1834151752?utm_source=regular)
 - [Lifehacker] [What to Expect When You Get a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205?utm_source=regular)
 - [Lifehacker] [What Every Type of Birth Control Costs](https://lifehacker.com/how-much-does-birth-control-cost-1850761958?utm_source=regular)
-- [Lifehacker] [How to Choose the Right Birth Control Pill for You](https://lifehacker.com/how-to-choose-a-birth-control-pill-1836496878?utm_source=regular)
-- [Lifehacker] [What to Expect When You&#39;re Getting an IUD](https://lifehacker.com/what-to-expect-when-getting-an-iud-1850767682?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose the Right Birth Control Pill for You](https://lifehacker.com/how-to-choose-a-birth-control-pill-1836496878?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
