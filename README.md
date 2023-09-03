@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cipher Suites &amp; AEAD - ChaCha20-Poly1305 Example](https://dev.to/jaypmedia/cipher-suites-aead-chacha20-poly1305-example-1i6)
+- [Dev.to/JS] [Inheritance &amp; Prototype Chain in Javascript](https://dev.to/syedmuhammadaliraza/inheritance-prototype-chain-in-javascript-5ff5)
 - [Dev.to/JS] [129 Stories To Learn About Javascript Frameworks](https://dev.to/learnrepo/129-stories-to-learn-about-javascript-frameworks-1b6m)
 - [Dev.to/JS] [10 Essential JavaScript Code Snippets for Every Developer](https://dev.to/shshank/10-essential-javascript-code-snippets-for-every-developer-59ml)
 - [Dev.to/JS] [Top hackathons where companies recruit](https://dev.to/durgesh4993/top-hackathons-where-companies-recruit-4m2j)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Kuinka ottaa yhteyttä MacAfee in asiakaspalveluun Suomi?](https://dev.to/hennaimmi165/kuinka-ottaa-yhteytta-macafee-in-asiakaspalveluun-suomi-23fg)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Dev.to/JS] [Understanding when and how to use import and export in React](https://dev.to/esedev/understanding-when-and-how-to-use-import-and-export-in-react-43h9)
-- [Dev.to/JS] [Building a Mini Text-Based Adventure Game: &quot;Mini Zork&quot; with HTML, CSS, JS](https://dev.to/shawn2208/building-a-mini-text-based-adventure-game-mini-zork-with-html-css-js-3879)
-- [Dev.to/JS] [Street Programmer: Print Receipt From Online POS Web App to Local Printer](https://dev.to/streetcommunityprogrammer/street-programmer-print-receipt-from-online-pos-web-app-to-local-printer-1hnl)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
 - [Lifehacker] [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
