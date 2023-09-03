@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Effective use of middleware in express.js: practical approaches](https://dev.to/digitalpollution/effective-use-of-middleware-in-expressjs-practical-approaches-401d)
 - [Dev.to/JS] [The Crucial Role of Theory in Senior JavaScript Interviews: Beyond Problem Solving](https://dev.to/devjotaa/the-crucial-role-of-theory-in-senior-javascript-interviews-beyond-problem-solving-4p8d)
 - [Dev.to/JS] [Background Processing in React Native: Exploring Techniques for Efficient Task Handling 🚀📱](https://dev.to/medaimane/background-processing-in-react-native-exploring-techniques-for-efficient-task-handling-2cbf)
 - [Dev.to/JS] [Kuinka ottaa yhteyttä MacAfee in asiakaspalveluun Suomi?](https://dev.to/hennaimmi165/kuinka-ottaa-yhteytta-macafee-in-asiakaspalveluun-suomi-23fg)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting up Redux on a React application.](https://dev.to/mrmarioruci/setting-up-redux-on-a-react-application-4dmo)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
 - [Dev.to/JS] [Upload File](https://dev.to/dimple031/upload-file-2e9k)
-- [Dev.to/JS] [Mastering &#39;useRef&#39; in React with TypeScript: 4 Different Use-Cases for &#39;useRef&#39;](https://dev.to/kirubelkinfe/mastering-useref-in-react-with-typescript-4-different-use-cases-for-useref-2a87)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
 - [Lifehacker] [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
