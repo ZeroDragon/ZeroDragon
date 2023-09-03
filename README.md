@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🧠 PuzzleMasters Academy: Master Mind-Bending Challenges with Step-by-Step Insights! 🌟 [Codewars]](https://dev.to/nopass0/puzzlemasters-academy-master-mind-bending-challenges-with-step-by-step-insights-codewars-1g62)
+- [Dev.to/JS] [TypeScript Type Guards: An Introduction to Writing Safer Code](https://dev.to/jm__solo/typescript-type-guards-an-introduction-to-writing-safer-code-3nbc)
+- [Dev.to/JS] [Unit test your react hook in minutes](https://dev.to/ibrahimshamma99/unit-test-your-react-hook-in-minutes-aah)
 - [Dev.to/JS] [Enabling AWS S3 to behave more like a Web Server](https://dev.to/rickdelpo1/enabling-aws-s3-to-behave-more-like-a-web-server-4k4h)
 - [Dev.to/JS] [Writing CSS With JavaScript](https://dev.to/nalanj/writing-css-with-javascript-490p)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supercharge Your React Components with This Powerful Pattern](https://dev.to/miroiudev/supercharge-your-react-components-with-this-powerful-pattern-gom)
 - [Dev.to/JS] [Advance Tables using only HTML CSS and JavaScript](https://dev.to/krybone/advance-tables-using-only-html-css-and-javascript-2bn4)
 - [Dev.to/JS] [10 List of most used JavaScript Array Methods](https://dev.to/muafalah/list-of-javascript-array-methods-2f4)
-- [Dev.to/JS] [An anonymous SMS sending tool with a WebGUI](https://dev.to/ibnaleem/an-anonymous-sms-sending-tool-with-a-webgui-3i1c)
-- [Dev.to/JS] [Building Beautiful UIs with React.js and Material-UI](https://dev.to/anii1429/building-beautiful-uis-with-reactjs-and-material-ui-3m14)
-- [Dev.to/JS] [334 Stories To Learn About Javascript Development](https://dev.to/learnrepo/334-stories-to-learn-about-javascript-development-10hi)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
