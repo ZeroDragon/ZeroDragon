@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [🧠 PuzzleMasters Academy: Master Mind-Bending Challenges with Step-by-Step Insights! 🌟 [Codewars]](https://dev.to/nopass0/puzzlemasters-academy-master-mind-bending-challenges-with-step-by-step-insights-codewars-1g62)
+- [Dev.to/JS] [Mainkan Situs Roulette Online Deposit Rendah](https://dev.to/phjat/mainkan-situs-roulette-online-deposit-rendah-1n5n)
+- [Dev.to/JS] [Situs Tembak Ikan Online Terlengkap Bonus Berlimpah](https://dev.to/phjat/situs-tembak-ikan-online-terlengkap-bonus-berlimpah-4p99)
+- [Dev.to/JS] [Situs Slot Gacor Online RTP Tinggi Bonus Berlimpah](https://dev.to/phjat/situs-slot-gacor-online-rtp-tinggi-bonus-berlimpah-16bm)
+- [Dev.to/JS] [Create a Discord Bot using Next JS](https://dev.to/mmvergara/create-a-discord-bot-using-next-js-4n24)
+- [Dev.to/JS] [Flatiron School - Phase 1 Project](https://dev.to/k_jeremy14/flatiron-school-phase-1-project-2fjh)
+- [Dev.to/JS] [Master Mind-Bending Challenges with Step-by-Step Insights! [Codewars]](https://dev.to/nopass0/puzzlemasters-academy-master-mind-bending-challenges-with-step-by-step-insights-codewars-1g62)
 - [Dev.to/JS] [TypeScript Type Guards: An Introduction to Writing Safer Code](https://dev.to/jm__solo/typescript-type-guards-an-introduction-to-writing-safer-code-3nbc)
 - [Dev.to/JS] [Unit test your react hook in minutes](https://dev.to/ibrahimshamma99/unit-test-your-react-hook-in-minutes-aah)
 - [Dev.to/JS] [Enabling AWS S3 to behave more like a Web Server](https://dev.to/rickdelpo1/enabling-aws-s3-to-behave-more-like-a-web-server-4k4h)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Dev.to/JS] [🤔 How I Choose Fabric.js Again](https://dev.to/0ro/how-i-choose-fabricjs-again-41jn)
 - [Dev.to/JS] [JavaScript vs. Python](https://dev.to/technologymoment/javascript-vs-python-1el9)
-- [Dev.to/JS] [Master Data Fetching in React with This Easy Guide](https://dev.to/miroiudev/master-data-fetching-in-react-with-this-easy-guide-42n1)
-- [Dev.to/JS] [3 Must-Know Rendering Optimizations in React](https://dev.to/miroiudev/3-must-know-rendering-optimizations-in-react-27k)
-- [Dev.to/JS] [Supercharge Your React Components with This Powerful Pattern](https://dev.to/miroiudev/supercharge-your-react-components-with-this-powerful-pattern-gom)
-- [Dev.to/JS] [Advance Tables using only HTML CSS and JavaScript](https://dev.to/krybone/advance-tables-using-only-html-css-and-javascript-2bn4)
-- [Dev.to/JS] [10 List of most used JavaScript Array Methods](https://dev.to/muafalah/list-of-javascript-array-methods-2f4)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
