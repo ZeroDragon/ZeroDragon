@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [129 Stories To Learn About Javascript Frameworks](https://dev.to/learnrepo/129-stories-to-learn-about-javascript-frameworks-1b6m)
+- [Dev.to/JS] [10 Essential JavaScript Code Snippets for Every Developer](https://dev.to/shshank/10-essential-javascript-code-snippets-for-every-developer-59ml)
+- [Dev.to/JS] [Top hackathons where companies recruit](https://dev.to/durgesh4993/top-hackathons-where-companies-recruit-4m2j)
 - [Dev.to/JS] [Kuinka ottaa yhteyttä gmail in asiakaspalveluun Suomi?](https://dev.to/kirsileena165/kuinka-ottaa-yhteytta-gmail-in-asiakaspalveluun-suomi-31bo)
 - [Dev.to/JS] [A Guide to Atomic Design with React Components](https://dev.to/scofieldidehen/a-guide-to-atomic-design-with-react-components-34k1)
 - [Dev.to/JS] [Effective use of middleware in express.js: practical approaches](https://dev.to/digitalpollution/effective-use-of-middleware-in-expressjs-practical-approaches-401d)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding when and how to use import and export in React](https://dev.to/esedev/understanding-when-and-how-to-use-import-and-export-in-react-43h9)
 - [Dev.to/JS] [Building a Mini Text-Based Adventure Game: &quot;Mini Zork&quot; with HTML, CSS, JS](https://dev.to/shawn2208/building-a-mini-text-based-adventure-game-mini-zork-with-html-css-js-3879)
 - [Dev.to/JS] [Street Programmer: Print Receipt From Online POS Web App to Local Printer](https://dev.to/streetcommunityprogrammer/street-programmer-print-receipt-from-online-pos-web-app-to-local-printer-1hnl)
-- [Dev.to/JS] [👩🏾‍💻React for beginners: an overview](https://dev.to/dumebii/react-for-beginners-an-overview-5fai)
-- [Dev.to/JS] [Building a Dynamic Sticky Note App with HTML, CSS, Vanilla JavaScript, and API](https://dev.to/ndickers/building-a-dynamic-sticky-note-app-with-html-css-vanilla-javascript-and-api-bfp)
-- [Dev.to/JS] [How to Leverage on the Power of Browsers Storage using VanillaDb](https://dev.to/zedic/how-to-leverage-the-power-of-browsers-storage-using-vanilladb-11mp)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
 - [Lifehacker] [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
