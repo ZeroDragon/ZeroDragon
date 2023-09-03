@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 4](https://dev.to/abhaysinghr1/transitioning-to-typescript-the-ultimate-starter-guide-part-4-4ele)
+- [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
+- [Dev.to/JS] [piya sen escort service](https://dev.to/piyasendelhi/piya-sen-escort-service-5b3j)
+- [Dev.to/JS] [CSS only list filtering, or abusing the platform](https://dev.to/lexswed/css-only-list-filtering-or-abusing-the-platform-36mf)
+- [Dev.to/JS] [NestJS and Project Structure - What to Do?](https://dev.to/smolinari/nestjs-and-project-structure-what-to-do-1223)
+- [Dev.to/JS] [Tech Foutraque #12 - Discover the latest trends](https://dev.to/tech_foutraque/tech-foutraque-12-discover-the-latest-trends-4591)
+- [Dev.to/JS] [Javascript Essentials 🧑‍💻](https://dev.to/localhostd3veloper/javascript-essentials-40he)
+- [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 4](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-4-4ele)
 - [Dev.to/JS] [Typescript Cheatsheet and Deep-Dive](https://dev.to/easewithtuts/typescript-cheatsheet-and-deep-dive-3915)
 - [Dev.to/JS] [The Complete TypeScript Setup - From Zero to Hero](https://dev.to/codewithahsan/the-complete-typescript-setup-from-zero-to-hero-398h)
 - [Dev.to/JS] [A Swift Solution for Reversing Integers](https://dev.to/luqmanshaban/a-swift-solution-for-reversing-integers-eh4)
 - [Dev.to/JS] [Authentication and Authorization in Node.js](https://dev.to/vasanth0611/authentication-and-authorization-in-nodejs-5b5k)
 - [Dev.to/JS] [Hero section with react and tailwindcss &lpar;medium hero clone&rpar;](https://dev.to/ryaddev/hero-section-with-react-and-tailwindcss-medium-hero-clone-2f47)
 - [Dev.to/JS] [Cipher Suites &amp; AEAD - ChaCha20-Poly1305 Example](https://dev.to/jaypmedia/cipher-suites-aead-chacha20-poly1305-example-1i6)
-- [Dev.to/JS] [Inheritance &amp; Prototype Chain in Javascript](https://dev.to/syedmuhammadaliraza/inheritance-prototype-chain-in-javascript-5ff5)
-- [Dev.to/JS] [129 Stories To Learn About Javascript Frameworks](https://dev.to/learnrepo/129-stories-to-learn-about-javascript-frameworks-1b6m)
-- [Dev.to/JS] [10 Essential JavaScript Code Snippets for Every Developer](https://dev.to/shshank/10-essential-javascript-code-snippets-for-every-developer-59ml)
-- [Dev.to/JS] [Top hackathons where companies recruit](https://dev.to/durgesh4993/top-hackathons-where-companies-recruit-4m2j)
-- [Dev.to/JS] [Kuinka ottaa yhteyttä gmail in asiakaspalveluun Suomi?](https://dev.to/kirsileena165/kuinka-ottaa-yhteytta-gmail-in-asiakaspalveluun-suomi-31bo)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Every Type of Birth Control Costs](https://lifehacker.com/how-much-does-birth-control-cost-1850761958?utm_source=regular)
 - [Lifehacker] [How to Choose the Right Birth Control Pill for You](https://lifehacker.com/how-to-choose-a-birth-control-pill-1836496878?utm_source=regular)
 - [Lifehacker] [What to Expect When You&#39;re Getting an IUD](https://lifehacker.com/what-to-expect-when-getting-an-iud-1850767682?utm_source=regular)
-- [Lifehacker] [How to Choose a Birth Control Option If You’re Worried About Side Effects](https://lifehacker.com/how-to-choose-a-birth-control-option-if-you-re-worried-1841912477?utm_source=regular)
-- [Lifehacker] [Here’s How Well the Most Common Birth Control Options Actually Work](https://lifehacker.com/heres-how-well-the-most-common-forms-of-birth-control-a-1849792332?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose a Birth Control Option If You’re Worried About Side Effects](https://lifehacker.com/how-to-choose-a-birth-control-option-if-you-re-worried-1841912477?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
