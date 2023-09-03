@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Questions to Front-End Developers](https://dev.to/dannyjrt/questions-to-front-end-developers-de8)
+- [Dev.to/JS] [Drag &amp; Drop implementation using html/css and Javascript](https://dev.to/ndickers/drag-drop-implementation-using-htmlcss-and-javascript-8mc)
+- [Dev.to/JS] [Calendar.js v2.3.1, a free JavaScript library!](https://dev.to/williamtroup/calendarjs-a-free-javascript-library-1c76)
+- [Dev.to/JS] [PDF Chat with Node.js, OpenAI and ModelFusion](https://dev.to/lgrammel/pdf-chat-with-nodejs-openai-and-modelfusion-oip)
 - [Dev.to/JS] [Mainkan Situs Roulette Online Deposit Rendah](https://dev.to/phjat/mainkan-situs-roulette-online-deposit-rendah-1n5n)
 - [Dev.to/JS] [Situs Tembak Ikan Online Terlengkap Bonus Berlimpah](https://dev.to/phjat/situs-tembak-ikan-online-terlengkap-bonus-berlimpah-4p99)
 - [Dev.to/JS] [Situs Slot Gacor Online RTP Tinggi Bonus Berlimpah](https://dev.to/phjat/situs-slot-gacor-online-rtp-tinggi-bonus-berlimpah-16bm)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Master Mind-Bending Challenges with Step-by-Step Insights! [Codewars]](https://dev.to/nopass0/puzzlemasters-academy-master-mind-bending-challenges-with-step-by-step-insights-codewars-1g62)
 - [Dev.to/JS] [TypeScript Type Guards: An Introduction to Writing Safer Code](https://dev.to/jm__solo/typescript-type-guards-an-introduction-to-writing-safer-code-3nbc)
 - [Dev.to/JS] [Unit test your react hook in minutes](https://dev.to/ibrahimshamma99/unit-test-your-react-hook-in-minutes-aah)
-- [Dev.to/JS] [Enabling AWS S3 to behave more like a Web Server](https://dev.to/rickdelpo1/enabling-aws-s3-to-behave-more-like-a-web-server-4k4h)
-- [Dev.to/JS] [Writing CSS With JavaScript](https://dev.to/nalanj/writing-css-with-javascript-490p)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
-- [Dev.to/JS] [🤔 How I Choose Fabric.js Again](https://dev.to/0ro/how-i-choose-fabricjs-again-41jn)
-- [Dev.to/JS] [JavaScript vs. Python](https://dev.to/technologymoment/javascript-vs-python-1el9)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
