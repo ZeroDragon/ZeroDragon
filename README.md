@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Cheatsheet and Deep-Dive](https://dev.to/easewithtuts/typescript-cheatsheet-and-deep-dive-3915)
 - [Dev.to/JS] [The Complete TypeScript Setup - From Zero to Hero](https://dev.to/codewithahsan/the-complete-typescript-setup-from-zero-to-hero-398h)
 - [Dev.to/JS] [A Swift Solution for Reversing Integers](https://dev.to/luqmanshaban/a-swift-solution-for-reversing-integers-eh4)
 - [Dev.to/JS] [Authentication and Authorization in Node.js](https://dev.to/vasanth0611/authentication-and-authorization-in-nodejs-5b5k)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top hackathons where companies recruit](https://dev.to/durgesh4993/top-hackathons-where-companies-recruit-4m2j)
 - [Dev.to/JS] [Kuinka ottaa yhteyttä gmail in asiakaspalveluun Suomi?](https://dev.to/kirsileena165/kuinka-ottaa-yhteytta-gmail-in-asiakaspalveluun-suomi-31bo)
 - [Dev.to/JS] [A Guide to Atomic Design with React Components](https://dev.to/scofieldidehen/a-guide-to-atomic-design-with-react-components-34k1)
-- [Dev.to/JS] [Effective use of middleware in express.js: practical approaches](https://dev.to/digitalpollution/effective-use-of-middleware-in-expressjs-practical-approaches-401d)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
