@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Questions to Front-End Developers](https://dev.to/dannyjrt/questions-to-front-end-developers-de8)
+- [Dev.to/JS] [84 Stories To Learn About Javascript Fundamentals](https://dev.to/learnrepo/84-stories-to-learn-about-javascript-fundamentals-55ae)
+- [Dev.to/JS] [Creating a React Loader: Adding a Dash of Style to Your Website](https://dev.to/samy/creating-a-react-loader-adding-a-dash-of-style-to-your-website-4f5l)
 - [Dev.to/JS] [Drag &amp; Drop implementation using html/css and Javascript](https://dev.to/ndickers/drag-drop-implementation-using-htmlcss-and-javascript-8mc)
 - [Dev.to/JS] [Calendar.js v2.3.1, a free JavaScript library!](https://dev.to/williamtroup/calendarjs-a-free-javascript-library-1c76)
 - [Dev.to/JS] [PDF Chat with Node.js, OpenAI and ModelFusion](https://dev.to/lgrammel/pdf-chat-with-nodejs-openai-and-modelfusion-oip)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flatiron School - Phase 1 Project](https://dev.to/k_jeremy14/flatiron-school-phase-1-project-2fjh)
 - [Dev.to/JS] [Master Mind-Bending Challenges with Step-by-Step Insights! [Codewars]](https://dev.to/nopass0/puzzlemasters-academy-master-mind-bending-challenges-with-step-by-step-insights-codewars-1g62)
 - [Dev.to/JS] [TypeScript Type Guards: An Introduction to Writing Safer Code](https://dev.to/jm__solo/typescript-type-guards-an-introduction-to-writing-safer-code-3nbc)
-- [Dev.to/JS] [Unit test your react hook in minutes](https://dev.to/ibrahimshamma99/unit-test-your-react-hook-in-minutes-aah)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
