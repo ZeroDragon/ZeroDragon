@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript CONSTANTS](https://dev.to/maafaishal/javascript-constants-1pb0)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
 - [Dev.to/JS] [piya sen escort service](https://dev.to/piyasendelhi/piya-sen-escort-service-5b3j)
 - [Dev.to/JS] [CSS only list filtering, or abusing the platform](https://dev.to/lexswed/css-only-list-filtering-or-abusing-the-platform-36mf)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Swift Solution for Reversing Integers](https://dev.to/luqmanshaban/a-swift-solution-for-reversing-integers-eh4)
 - [Dev.to/JS] [Authentication and Authorization in Node.js](https://dev.to/vasanth0611/authentication-and-authorization-in-nodejs-5b5k)
 - [Dev.to/JS] [Hero section with react and tailwindcss &lpar;medium hero clone&rpar;](https://dev.to/ryaddev/hero-section-with-react-and-tailwindcss-medium-hero-clone-2f47)
-- [Dev.to/JS] [Cipher Suites &amp; AEAD - ChaCha20-Poly1305 Example](https://dev.to/jaypmedia/cipher-suites-aead-chacha20-poly1305-example-1i6)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
