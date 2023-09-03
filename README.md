@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 Must-Know Rendering Optimizations in React](https://dev.to/miroiudev/3-must-know-rendering-optimizations-in-react-27k)
+- [Dev.to/JS] [Supercharge Your React Components with This Powerful Pattern](https://dev.to/miroiudev/supercharge-your-react-components-with-this-powerful-pattern-gom)
+- [Dev.to/JS] [Advance Tables using only HTML CSS and JavaScript](https://dev.to/krybone/advance-tables-using-only-html-css-and-javascript-2bn4)
+- [Dev.to/JS] [10 List of most used JavaScript Array Methods](https://dev.to/muafalah/list-of-javascript-array-methods-2f4)
+- [Dev.to/JS] [An anonymous SMS sending tool with a WebGUI](https://dev.to/ibnaleem/an-anonymous-sms-sending-tool-with-a-webgui-3i1c)
+- [Dev.to/JS] [Building Beautiful UIs with React.js and Material-UI](https://dev.to/anii1429/building-beautiful-uis-with-reactjs-and-material-ui-3m14)
+- [Dev.to/JS] [334 Stories To Learn About Javascript Development](https://dev.to/learnrepo/334-stories-to-learn-about-javascript-development-10hi)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 9](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-9-ke3)
 - [Dev.to/JS] [Why Startups Hiring Senior Developers Can Be a Huge Mistake](https://dev.to/mohammadfaisal/why-startups-hiring-senior-developers-can-be-a-huge-mistake-2d9d)
@@ -33,13 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript CONSTANTS](https://dev.to/maafaishal/javascript-constants-1pb0)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
 - [Dev.to/JS] [piya sen escort service](https://dev.to/piyasendelhi/piya-sen-escort-service-5b3j)
-- [Dev.to/JS] [CSS only list filtering, or abusing the platform](https://dev.to/lexswed/css-only-list-filtering-or-abusing-the-platform-36mf)
-- [Dev.to/JS] [NestJS and Project Structure - What to Do?](https://dev.to/smolinari/nestjs-and-project-structure-what-to-do-1223)
-- [Dev.to/JS] [Tech Foutraque #12 - Discover the latest trends](https://dev.to/tech_foutraque/tech-foutraque-12-discover-the-latest-trends-4591)
-- [Dev.to/JS] [Javascript Essentials 🧑‍💻](https://dev.to/localhostd3veloper/javascript-essentials-40he)
-- [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 4](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-4-4ele)
-- [Dev.to/JS] [Typescript Cheatsheet and Deep-Dive](https://dev.to/easewithtuts/typescript-cheatsheet-and-deep-dive-3915)
-- [Dev.to/JS] [The Complete TypeScript Setup - From Zero to Hero](https://dev.to/codewithahsan/the-complete-typescript-setup-from-zero-to-hero-398h)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
