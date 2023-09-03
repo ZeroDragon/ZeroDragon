@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
+- [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 9](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-9-ke3)
+- [Dev.to/JS] [Why Startups Hiring Senior Developers Can Be a Huge Mistake](https://dev.to/mohammadfaisal/why-startups-hiring-senior-developers-can-be-a-huge-mistake-2d9d)
+- [Dev.to/JS] [JavaScript Functions&lpar;Part 1&rpar;: Your Magic Spells](https://dev.to/init_chandan/javascript-functionspart-1-your-magic-spells-345g)
 - [Dev.to/JS] [JavaScript CONSTANTS](https://dev.to/maafaishal/javascript-constants-1pb0)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
 - [Dev.to/JS] [piya sen escort service](https://dev.to/piyasendelhi/piya-sen-escort-service-5b3j)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 4](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-4-4ele)
 - [Dev.to/JS] [Typescript Cheatsheet and Deep-Dive](https://dev.to/easewithtuts/typescript-cheatsheet-and-deep-dive-3915)
 - [Dev.to/JS] [The Complete TypeScript Setup - From Zero to Hero](https://dev.to/codewithahsan/the-complete-typescript-setup-from-zero-to-hero-398h)
-- [Dev.to/JS] [A Swift Solution for Reversing Integers](https://dev.to/luqmanshaban/a-swift-solution-for-reversing-integers-eh4)
-- [Dev.to/JS] [Authentication and Authorization in Node.js](https://dev.to/vasanth0611/authentication-and-authorization-in-nodejs-5b5k)
-- [Dev.to/JS] [Hero section with react and tailwindcss &lpar;medium hero clone&rpar;](https://dev.to/ryaddev/hero-section-with-react-and-tailwindcss-medium-hero-clone-2f47)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Expect When You Get a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205?utm_source=regular)
 - [Lifehacker] [What Every Type of Birth Control Costs](https://lifehacker.com/how-much-does-birth-control-cost-1850761958?utm_source=regular)
 - [Lifehacker] [How to Choose the Right Birth Control Pill for You](https://lifehacker.com/how-to-choose-a-birth-control-pill-1836496878?utm_source=regular)
-- [Lifehacker] [What to Expect When You&#39;re Getting an IUD](https://lifehacker.com/what-to-expect-when-getting-an-iud-1850767682?utm_source=regular)
-- [Lifehacker] [How to Choose a Birth Control Option If You’re Worried About Side Effects](https://lifehacker.com/how-to-choose-a-birth-control-option-if-you-re-worried-1841912477?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Expect When You&#39;re Getting an IUD](https://lifehacker.com/what-to-expect-when-getting-an-iud-1850767682?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
