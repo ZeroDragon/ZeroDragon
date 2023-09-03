@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enabling AWS S3 to behave more like a Web Server](https://dev.to/rickdelpo1/enabling-aws-s3-to-behave-more-like-a-web-server-4k4h)
+- [Dev.to/JS] [Writing CSS With JavaScript](https://dev.to/nalanj/writing-css-with-javascript-490p)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Dev.to/JS] [🤔 How I Choose Fabric.js Again](https://dev.to/0ro/how-i-choose-fabricjs-again-41jn)
 - [Dev.to/JS] [JavaScript vs. Python](https://dev.to/technologymoment/javascript-vs-python-1el9)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building Beautiful UIs with React.js and Material-UI](https://dev.to/anii1429/building-beautiful-uis-with-reactjs-and-material-ui-3m14)
 - [Dev.to/JS] [334 Stories To Learn About Javascript Development](https://dev.to/learnrepo/334-stories-to-learn-about-javascript-development-10hi)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
-- [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 9](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-9-ke3)
-- [Dev.to/JS] [Yet Another Newsletter LOL: Astronomical week](https://dev.to/nickytonline/yet-another-newsletter-lol-astronomical-week-1gn2)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
