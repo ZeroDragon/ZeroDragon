@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤔 How I Choose Fabric.js Again](https://dev.to/0ro/how-i-choose-fabricjs-again-41jn)
+- [Dev.to/JS] [JavaScript vs. Python](https://dev.to/technologymoment/javascript-vs-python-1el9)
+- [Dev.to/JS] [Master Data Fetching in React with This Easy Guide](https://dev.to/miroiudev/master-data-fetching-in-react-with-this-easy-guide-42n1)
 - [Dev.to/JS] [3 Must-Know Rendering Optimizations in React](https://dev.to/miroiudev/3-must-know-rendering-optimizations-in-react-27k)
 - [Dev.to/JS] [Supercharge Your React Components with This Powerful Pattern](https://dev.to/miroiudev/supercharge-your-react-components-with-this-powerful-pattern-gom)
 - [Dev.to/JS] [Advance Tables using only HTML CSS and JavaScript](https://dev.to/krybone/advance-tables-using-only-html-css-and-javascript-2bn4)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [334 Stories To Learn About Javascript Development](https://dev.to/learnrepo/334-stories-to-learn-about-javascript-development-10hi)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 9](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-9-ke3)
-- [Dev.to/JS] [Why Startups Hiring Senior Developers Can Be a Huge Mistake](https://dev.to/mohammadfaisal/why-startups-hiring-senior-developers-can-be-a-huge-mistake-2d9d)
-- [Dev.to/JS] [JavaScript Functions&lpar;Part 1&rpar;: Your Magic Spells](https://dev.to/init_chandan/javascript-functionspart-1-your-magic-spells-345g)
-- [Dev.to/JS] [JavaScript CONSTANTS](https://dev.to/maafaishal/javascript-constants-1pb0)
+- [Dev.to/JS] [Yet Another Newsletter LOL: Astronomical week](https://dev.to/nickytonline/yet-another-newsletter-lol-astronomical-week-1gn2)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
-- [Dev.to/JS] [piya sen escort service](https://dev.to/piyasendelhi/piya-sen-escort-service-5b3j)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
