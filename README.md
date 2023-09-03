@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hero section with react and tailwindcss &lpar;medium hero clone&rpar;](https://dev.to/ryaddev/hero-section-with-react-and-tailwindcss-medium-hero-clone-2f47)
 - [Dev.to/JS] [Cipher Suites &amp; AEAD - ChaCha20-Poly1305 Example](https://dev.to/jaypmedia/cipher-suites-aead-chacha20-poly1305-example-1i6)
 - [Dev.to/JS] [Inheritance &amp; Prototype Chain in Javascript](https://dev.to/syedmuhammadaliraza/inheritance-prototype-chain-in-javascript-5ff5)
 - [Dev.to/JS] [129 Stories To Learn About Javascript Frameworks](https://dev.to/learnrepo/129-stories-to-learn-about-javascript-frameworks-1b6m)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Background Processing in React Native: Exploring Techniques for Efficient Task Handling 🚀📱](https://dev.to/medaimane/background-processing-in-react-native-exploring-techniques-for-efficient-task-handling-2cbf)
 - [Dev.to/JS] [Kuinka ottaa yhteyttä MacAfee in asiakaspalveluun Suomi?](https://dev.to/hennaimmi165/kuinka-ottaa-yhteytta-macafee-in-asiakaspalveluun-suomi-23fg)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
-- [Dev.to/JS] [Understanding when and how to use import and export in React](https://dev.to/esedev/understanding-when-and-how-to-use-import-and-export-in-react-43h9)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
 - [Lifehacker] [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
