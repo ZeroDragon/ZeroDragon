@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Kuinka ottaa yhteyttä MacAfee in asiakaspalveluun Suomi?](https://dev.to/hennaimmi165/kuinka-ottaa-yhteytta-macafee-in-asiakaspalveluun-suomi-23fg)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
 - [Dev.to/JS] [Understanding when and how to use import and export in React](https://dev.to/esedev/understanding-when-and-how-to-use-import-and-export-in-react-43h9)
 - [Dev.to/JS] [Building a Mini Text-Based Adventure Game: &quot;Mini Zork&quot; with HTML, CSS, JS](https://dev.to/shawn2208/building-a-mini-text-based-adventure-game-mini-zork-with-html-css-js-3879)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering &#39;useRef&#39; in React with TypeScript: 4 Different Use-Cases for &#39;useRef&#39;](https://dev.to/kirubelkinfe/mastering-useref-in-react-with-typescript-4-different-use-cases-for-useref-2a87)
 - [Dev.to/JS] [Hi,I want to add new tab on OpenKm CE. Can any one help.](https://dev.to/arpanomega/hii-want-to-add-new-tab-on-openkm-ce-can-any-one-help-2j6)
 - [Dev.to/JS] [Installing Chrome extension from raw source code](https://dev.to/tombyrer/installing-chrome-extension-from-raw-source-code-2m4)
-- [Dev.to/JS] [What framework is the best?](https://dev.to/youssefmic/what-framework-is-the-best-2nko)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
 - [Lifehacker] [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
