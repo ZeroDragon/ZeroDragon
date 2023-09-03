@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Kuinka ottaa yhteyttä gmail in asiakaspalveluun Suomi?](https://dev.to/kirsileena165/kuinka-ottaa-yhteytta-gmail-in-asiakaspalveluun-suomi-31bo)
+- [Dev.to/JS] [A Guide to Atomic Design with React Components](https://dev.to/scofieldidehen/a-guide-to-atomic-design-with-react-components-34k1)
 - [Dev.to/JS] [Effective use of middleware in express.js: practical approaches](https://dev.to/digitalpollution/effective-use-of-middleware-in-expressjs-practical-approaches-401d)
 - [Dev.to/JS] [The Crucial Role of Theory in Senior JavaScript Interviews: Beyond Problem Solving](https://dev.to/devjotaa/the-crucial-role-of-theory-in-senior-javascript-interviews-beyond-problem-solving-4p8d)
 - [Dev.to/JS] [Background Processing in React Native: Exploring Techniques for Efficient Task Handling 🚀📱](https://dev.to/medaimane/background-processing-in-react-native-exploring-techniques-for-efficient-task-handling-2cbf)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [👩🏾‍💻React for beginners: an overview](https://dev.to/dumebii/react-for-beginners-an-overview-5fai)
 - [Dev.to/JS] [Building a Dynamic Sticky Note App with HTML, CSS, Vanilla JavaScript, and API](https://dev.to/ndickers/building-a-dynamic-sticky-note-app-with-html-css-vanilla-javascript-and-api-bfp)
 - [Dev.to/JS] [How to Leverage on the Power of Browsers Storage using VanillaDb](https://dev.to/zedic/how-to-leverage-the-power-of-browsers-storage-using-vanilladb-11mp)
-- [Dev.to/JS] [Setting up Redux on a React application.](https://dev.to/mrmarioruci/setting-up-redux-on-a-react-application-4dmo)
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
-- [Dev.to/JS] [Upload File](https://dev.to/dimple031/upload-file-2e9k)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
 - [Lifehacker] [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
