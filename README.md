@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Homemade Feta Is Better Than What You Can Get at the Store](https://lifehacker.com/how-to-make-feta-cheese-1850788489?utm_source=regular)
+- [Lifehacker] [Turn Creamy Ricotta Into a Hard Grating Cheese](https://lifehacker.com/turn-creamy-ricotta-into-a-hard-grating-cheese-1850488323?utm_source=regular)
 - [Dev.to/JS] [End-to-end encryption in the browser Part 1](https://dev.to/apertureless/end-to-end-encryption-in-the-browser-part-1-20ap)
 - [Dev.to/JS] [🚀 Exciting News! 🚀](https://dev.to/kallarari/exciting-news-595i)
 - [Dev.to/JS] [Many popular frontends are low-key open-source](https://dev.to/llllvvuu/it-turns-out-a-lot-of-popular-saas-frontends-are-low-key-open-source-1i86)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is a Home Swap Loan, and When Should You Get One?](https://lifehacker.com/what-is-a-home-swap-loan-and-when-should-you-get-one-1850796773?utm_source=regular)
 - [Lifehacker] [TikTok Myth of the Week: Tick Hoaxes](https://lifehacker.com/tiktok-myth-of-the-week-tick-hoaxes-1850794294?utm_source=regular)
 - [Lifehacker] [What to Do When an Airline Loses Your Luggage](https://lifehacker.com/what-to-do-when-an-airline-loses-your-bag-1830460934?utm_source=regular)
-- [Lifehacker] [Air Fried Phyllo-Wrapped Vegetables Make a Great Crispy Snack](https://lifehacker.com/air-fried-phyllo-wrapped-vegetables-make-a-great-crispy-1850796435?utm_source=regular)
-- [Lifehacker] [13 of My Favorite Grilling Recipes for Labor Day](https://lifehacker.com/best-grilling-recipes-1850793271?utm_source=regular)
-- [Lifehacker] [Don&#39;t Believe These Myths About Contraception](https://lifehacker.com/biggest-birth-control-myths-1850764015?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Air Fried Phyllo-Wrapped Vegetables Make a Great Crispy Snack](https://lifehacker.com/air-fried-phyllo-wrapped-vegetables-make-a-great-crispy-1850796435?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
