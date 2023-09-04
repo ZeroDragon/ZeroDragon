@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Calling All Node.js Developers : Create Generic Upload Controller ⭐ Weekly Issue to Solve](https://dev.to/idurar/calling-all-nodejs-developers-create-new-generic-upload-controller-weekly-issue-to-solve-53a4)
+- [Dev.to/JS] [NO XP NO JOB, NO JOB NO XP](https://dev.to/justjay30a7i/no-xp-no-job-no-job-no-xp-3i22)
 - [Dev.to/JS] [Mastering &#39;useState&#39; in React with TypeScript: 5 Different Use-Cases for &#39;useState&#39;](https://dev.to/kirubelkinfe/mastering-usestate-in-react-with-typescript-5-different-use-cases-for-usestate-18mm)
 - [Dev.to/JS] [84 Stories To Learn About Javascript Fundamentals](https://dev.to/learnrepo/84-stories-to-learn-about-javascript-fundamentals-55ae)
 - [Dev.to/JS] [Creating a React Loader: Adding a Dash of Style to Your Website](https://dev.to/samy/creating-a-react-loader-adding-a-dash-of-style-to-your-website-4f5l)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Situs Tembak Ikan Online Terlengkap Bonus Berlimpah](https://dev.to/phjat/situs-tembak-ikan-online-terlengkap-bonus-berlimpah-4p99)
 - [Dev.to/JS] [Situs Slot Gacor Online RTP Tinggi Bonus Berlimpah](https://dev.to/phjat/situs-slot-gacor-online-rtp-tinggi-bonus-berlimpah-16bm)
 - [Dev.to/JS] [Create a Discord Bot using Next JS](https://dev.to/mmvergara/create-a-discord-bot-using-next-js-4n24)
-- [Dev.to/JS] [Flatiron School - Phase 1 Project](https://dev.to/k_jeremy14/flatiron-school-phase-1-project-2fjh)
-- [Dev.to/JS] [Master Mind-Bending Challenges with Step-by-Step Insights! [Codewars]](https://dev.to/nopass0/puzzlemasters-academy-master-mind-bending-challenges-with-step-by-step-insights-codewars-1g62)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
