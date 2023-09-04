@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Project suggestions](https://dev.to/shshank/open-source-project-suggestions-1opn)
+- [Dev.to/JS] [8 React Libraries That Will Turn You into a Dev Endgame Hero 🦸‍♀️🦸‍♂️](https://dev.to/shivamblog/8-react-libraries-that-will-turn-you-into-a-dev-endgame-hero-23mo)
+- [Dev.to/JS] [A Brand New World: An Intro to TypeScript](https://dev.to/gabetronic/a-brand-new-world-an-intro-to-typescript-46af)
+- [Dev.to/JS] [What is going on here? Getting Started With Logging in Angular](https://dev.to/this-is-angular/what-is-going-on-here-getting-started-with-logging-in-angular-59k)
 - [Dev.to/JS] [JAVASCRIPT](https://dev.to/iamsaurav28/javascript-jjk)
 - [Dev.to/JS] [SSH Key&#39;s](https://dev.to/steven_rivera_5d71072a2fc/ssh-keys-nc4)
 - [Dev.to/JS] [Nested state properties: when to deep clone?](https://dev.to/dragonballz/nested-state-properties-when-to-deep-clone-4jh1)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Basics of React Props for Beginners](https://dev.to/meganad60/the-basics-of-react-props-for-beginners-3j01)
 - [Dev.to/JS] [Calling All Node.js Developers : Create Generic Upload Controller ⭐ Weekly Issue to Solve](https://dev.to/idurar/calling-all-nodejs-developers-create-new-generic-upload-controller-weekly-issue-to-solve-53a4)
 - [Dev.to/JS] [NO XP NO JOB, NO JOB NO XP](https://dev.to/justjay30a7i/no-xp-no-job-no-job-no-xp-3i22)
-- [Dev.to/JS] [Mastering &#39;useState&#39; in React with TypeScript: 5 Different Use-Cases for &#39;useState&#39;](https://dev.to/kirubelkinfe/mastering-usestate-in-react-with-typescript-5-different-use-cases-for-usestate-18mm)
-- [Dev.to/JS] [Creating a React Loader: Adding a Dash of Style to Your Website](https://dev.to/samy/creating-a-react-loader-adding-a-dash-of-style-to-your-website-4f5l)
-- [Dev.to/JS] [Drag &amp; Drop implementation using html/css and Javascript](https://dev.to/ndickers/drag-drop-implementation-using-htmlcss-and-javascript-8mc)
-- [Dev.to/JS] [Calendar.js v2.3.1, a free JavaScript library!](https://dev.to/williamtroup/calendarjs-a-free-javascript-library-1c76)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
