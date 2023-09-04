@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Season Fresh Chèvre With Herbs, Spices, and Anything Else That Strikes Your Fancy](https://lifehacker.com/how-to-season-fresh-goat-cheese-1850488714?utm_source=regular)
+- [Lifehacker] [You Should Leave Your Portable Generator on Empty](https://lifehacker.com/you-should-leave-your-portable-generator-on-empty-1850792586?utm_source=regular)
+- [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 5](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-5-4364)
+- [Lifehacker] [Lose Your Cheesemaking Virginity to Chèvre](https://lifehacker.com/how-to-make-goat-cheese-1850488573?utm_source=regular)
+- [Dev.to/JS] [How We Fixed Performance With JS Object Variable Mutation](https://dev.to/appsmith/how-we-fixed-performance-with-js-object-variable-mutation-2icm)
+- [Dev.to/JS] [Different Types of Scope in JavaScript](https://dev.to/jeetvora331/different-types-of-scope-in-javascript-3cdi)
+- [Dev.to/JS] [Understanding SSR, CSR, ISR, and SSG: A Comprehensive Guide](https://dev.to/dj1samsoe/understanding-ssr-csr-isr-and-ssg-a-comprehensive-guide-add)
+- [Dev.to/JS] [🚀 5 open-source copy and paste Tailwind CSS 💨component libraries YOU HAVE to try in 2023 🔥](https://dev.to/garrrikkotua/5-open-source-copy-and-paste-tailwind-css-component-libraries-you-have-to-try-in-2023-47k3)
 - [Lifehacker] [Everything You Need to Make Your Own Cheese](https://lifehacker.com/everything-you-need-to-make-your-own-cheese-1850421571?utm_source=regular)
 - [Dev.to/JS] [TIL, CSS shadow and FrontEnd interview questions](https://dev.to/esraanasr92/til-css-shadow-and-frontend-interview-questions-3719)
 - [Dev.to/JS] [Are You Using JavaScript Right? Know When to Go Asynchronous](https://dev.to/mainulspace/are-you-using-javascript-right-know-when-to-go-asynchronous-4731)
@@ -35,11 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Como usar o forEach em Javascript: exemplos detalhados contados em uma história](https://dev.to/demenezes/como-usar-o-foreach-em-javascript-exemplos-detalhados-contados-em-uma-historia-31a4)
 - [Dev.to/JS] [What is Emoji Cheat Sheet?](https://dev.to/visatodubai/what-is-emoji-cheat-sheet-17k1)
 - [Dev.to/JS] [Optimizing the Performance of an Angular Application](https://dev.to/nikhil6076/optimizing-the-performance-of-an-angular-application-27g6)
-- [Dev.to/JS] [How To Build Healthcare CRM: A Comprehensive Guide](https://dev.to/flatlogic/how-to-build-healthcare-crm-a-comprehensive-guide-6o3)
-- [Dev.to/JS] [From Tailwind CSS to UnoCSS - Is Atomization Really the Savior of Frontend CSS](https://dev.to/zu/from-tailwind-css-to-unocss-is-atomization-really-the-savior-of-frontend-css-28in)
-- [Dev.to/JS] [ReactJs Tutorial for Absolute beginner](https://dev.to/donlinus/reactjs-tutorial-for-absolute-beginner-34lj)
-- [Dev.to/JS] [Building accessible forms in Vue with Formkit ⚡️](https://dev.to/jacobandrewsky/building-accessible-forms-in-vue-with-formkit-4n7o)
-- [Dev.to/JS] [Hello world](https://dev.to/zu/hello-world-ibf)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Air Fried Phyllo-Wrapped Vegetables Make a Great Crispy Snack](https://lifehacker.com/air-fried-phyllo-wrapped-vegetables-make-a-great-crispy-1850796435?utm_source=regular)
 - [Lifehacker] [13 of My Favorite Grilling Recipes for Labor Day](https://lifehacker.com/best-grilling-recipes-1850793271?utm_source=regular)
 - [Lifehacker] [Don&#39;t Believe These Myths About Contraception](https://lifehacker.com/biggest-birth-control-myths-1850764015?utm_source=regular)
-- [Lifehacker] [Everything You Should Know About Emergency Contraception &lpar;Before You Need It&rpar;](https://lifehacker.com/everything-you-should-know-about-emergency-contraceptio-1850771878?utm_source=regular)
-- [Lifehacker] [Everything You Need to Know Before Getting Your Tubes Tied](https://lifehacker.com/everything-you-need-to-know-before-getting-your-tubes-t-1849121197?utm_source=regular)
-- [Lifehacker] [Is &#39;Fertility Awareness&#39; Contraception Right for You?](https://lifehacker.com/is-fertility-awareness-contraception-right-for-you-1834151752?utm_source=regular)
-- [Lifehacker] [What to Expect When You Get a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Should Know About Emergency Contraception &lpar;Before You Need It&rpar;](https://lifehacker.com/everything-you-should-know-about-emergency-contraceptio-1850771878?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
