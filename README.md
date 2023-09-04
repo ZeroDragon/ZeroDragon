@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tech Foutraque #13 | Discover the latest trends](https://dev.to/tech_foutraque/tech-foutraque-13-frontend-digest-514e)
+- [Dev.to/JS] [Testing: Good Practices for Error-Free Code](https://dev.to/ducknows/testing-good-practices-for-error-free-code-53h8)
 - [Dev.to/JS] [20 Emerging Web Development Topics in 2023](https://dev.to/hmawebdesign/20-emerging-web-development-topics-in-2023-cni)
 - [Dev.to/JS] [Gentle introduction into Module Federation, the React Parts](https://dev.to/ibrahimshamma99/gentle-introduction-into-module-federation-the-react-parts-4ehc)
 - [Dev.to/JS] [Concurrency Models and Event Loops in JavaScript](https://dev.to/syedmuhammadaliraza/concurrency-models-and-event-loops-in-javascript-4m5a)
@@ -38,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Structuring Your Backend for Growth: A Guide to Organizing API Calls](https://dev.to/janellephalon/structuring-your-backend-for-growth-a-guide-to-organizing-api-calls-2ob0)
 - [Dev.to/JS] [Manipulating the DOM events](https://dev.to/bookmdan/manipulating-the-dom-events-3dno)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
-- [Dev.to/JS] [Creating a Chrome extension to convert the URL to use localhost in 1 click](https://dev.to/thomasledoux1/creating-a-chrome-extension-to-convert-the-url-to-use-localhost-in-1-click-oge)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
 - [Lifehacker] [Real Cheeseheads Make Their Own Squeaky Curds](https://lifehacker.com/how-to-make-cheese-curds-1850488334?utm_source=regular)
-- [Dev.to/JS] [What Is Templating and how to use it in JavaScript?](https://dev.to/endeavourmonk/what-is-templating-and-how-to-use-it-in-javascript-13a0)
 - [Lifehacker] [Cheese Wrapping Is an Essential Part of Cheesemaking](https://lifehacker.com/cheese-wrapping-is-an-essential-part-of-cheesemaking-1850488819?utm_source=regular)
 - [Lifehacker] [How to Make Sexy, Gooey Camembert](https://lifehacker.com/how-to-make-sexy-gooey-camembert-1850488340?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Make Fresh Mozzarella &lpar;and Burrata&rpar;](https://lifehacker.com/how-to-make-fresh-mozzarella-and-burrata-1850468281?utm_source=regular)
