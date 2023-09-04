@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [20 Emerging Web Development Topics in 2023](https://dev.to/hmawebdesign/20-emerging-web-development-topics-in-2023-cni)
+- [Dev.to/JS] [Gentle introduction into Module Federation, the React Parts](https://dev.to/ibrahimshamma99/gentle-introduction-into-module-federation-the-react-parts-4ehc)
 - [Dev.to/JS] [Concurrency Models and Event Loops in JavaScript](https://dev.to/syedmuhammadaliraza/concurrency-models-and-event-loops-in-javascript-4m5a)
 - [Dev.to/JS] [The learning Curve! React Js!](https://dev.to/chandanhm1999/the-learning-curve-react-js-5d30)
 - [Dev.to/JS] [How to easily build an accordion using JavaScript, Html &amp; CSS](https://dev.to/xplodivity/how-to-easily-build-an-accordion-using-javascript-html-css-19o6)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cheese Wrapping Is an Essential Part of Cheesemaking](https://lifehacker.com/cheese-wrapping-is-an-essential-part-of-cheesemaking-1850488819?utm_source=regular)
 - [Lifehacker] [How to Make Sexy, Gooey Camembert](https://lifehacker.com/how-to-make-sexy-gooey-camembert-1850488340?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Make Fresh Mozzarella &lpar;and Burrata&rpar;](https://lifehacker.com/how-to-make-fresh-mozzarella-and-burrata-1850468281?utm_source=regular)
-- [Dev.to/JS] [Unlocking the Magic of JSX: Your Quick 5-Minute Guide to React Magic](https://dev.to/arbythecoder/unlocking-the-magic-of-jsx-your-quick-5-minute-guide-to-react-magic-2nb6)
-- [Dev.to/JS] [Difference between useEffect, useMemo, useCallback hooks?](https://dev.to/kopal__/difference-between-useeffect-usememo-usecallback-hooks-17on)
 - [Lifehacker] [Avoid These Mistakes When Planting Bulbs in the Fall](https://lifehacker.com/avoid-these-mistakes-when-planting-bulbs-in-the-fall-1850792548?utm_source=regular)
 - [Lifehacker] [You Should Preserve Your Feta in Oil](https://lifehacker.com/you-should-preserve-your-feta-in-oil-1850488381?utm_source=regular)
 - [Lifehacker] [Homemade Feta Is Better Than What You Can Get at the Store](https://lifehacker.com/how-to-make-feta-cheese-1850788489?utm_source=regular)
