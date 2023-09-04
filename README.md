@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Sexy, Gooey Camembert](https://lifehacker.com/how-to-make-sexy-gooey-camembert-1850488340?utm_source=regular)
+- [Lifehacker] [The Easiest Way to Make Fresh Mozzarella &lpar;and Burrata&rpar;](https://lifehacker.com/how-to-make-fresh-mozzarella-and-burrata-1850468281?utm_source=regular)
+- [Dev.to/JS] [Unlocking the Magic of JSX: Your Quick 5-Minute Guide to React Magic](https://dev.to/arbythecoder/unlocking-the-magic-of-jsx-your-quick-5-minute-guide-to-react-magic-2nb6)
+- [Dev.to/JS] [Difference between useEffect, useMemo, useCallback hooks?](https://dev.to/kopal__/difference-between-useeffect-usememo-usecallback-hooks-17on)
+- [Lifehacker] [Avoid These Mistakes When Planting Bulbs in the Fall](https://lifehacker.com/avoid-these-mistakes-when-planting-bulbs-in-the-fall-1850792548?utm_source=regular)
+- [Lifehacker] [You Should Preserve Your Feta in Oil](https://lifehacker.com/you-should-preserve-your-feta-in-oil-1850488381?utm_source=regular)
 - [Lifehacker] [Homemade Feta Is Better Than What You Can Get at the Store](https://lifehacker.com/how-to-make-feta-cheese-1850788489?utm_source=regular)
 - [Lifehacker] [Turn Creamy Ricotta Into a Hard Grating Cheese](https://lifehacker.com/turn-creamy-ricotta-into-a-hard-grating-cheese-1850488323?utm_source=regular)
 - [Dev.to/JS] [End-to-end encryption in the browser Part 1](https://dev.to/apertureless/end-to-end-encryption-in-the-browser-part-1-20ap)
@@ -42,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How We Fixed Performance With JS Object Variable Mutation](https://dev.to/appsmith/how-we-fixed-performance-with-js-object-variable-mutation-2icm)
 - [Dev.to/JS] [Different Types of Scope in JavaScript](https://dev.to/jeetvora331/different-types-of-scope-in-javascript-3cdi)
 - [Dev.to/JS] [Understanding SSR, CSR, ISR, and SSG: A Comprehensive Guide](https://dev.to/dj1samsoe/understanding-ssr-csr-isr-and-ssg-a-comprehensive-guide-add)
-- [Dev.to/JS] [🚀 5 open-source copy and paste Tailwind CSS 💨component libraries YOU HAVE to try in 2023 🔥](https://dev.to/garrrikkotua/5-open-source-copy-and-paste-tailwind-css-component-libraries-you-have-to-try-in-2023-47k3)
 - [Lifehacker] [Everything You Need to Make Your Own Cheese](https://lifehacker.com/everything-you-need-to-make-your-own-cheese-1850421571?utm_source=regular)
-- [Dev.to/JS] [TIL, CSS shadow and FrontEnd interview questions](https://dev.to/esraanasr92/til-css-shadow-and-frontend-interview-questions-3719)
 - [Lifehacker] [You Can Get Dollar Flight Club for $60 Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-for-60-right-now-1850792473?utm_source=regular)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished Microsoft Surface Laptop Is 50% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-laptop-is-50-off-ri-1850790158?utm_source=regular)
 - [Lifehacker] [These Are the Best Home Security Systems in 2023](https://lifehacker.com/best-home-security-systems-1850793992?utm_source=regular)
 - [Lifehacker] [&#39;Overlearning&#39; Can Force Important Information Into Your Longterm Memory](https://lifehacker.com/overlearning-can-force-important-information-into-your-1850797539?utm_source=regular)
-- [Lifehacker] [This Is the Perfect Cocktail Sauce](https://lifehacker.com/best-cocktail-sauce-recipe-1844910566?utm_source=regular)
-- [Lifehacker] [What Is a Home Swap Loan, and When Should You Get One?](https://lifehacker.com/what-is-a-home-swap-loan-and-when-should-you-get-one-1850796773?utm_source=regular)
-- [Lifehacker] [TikTok Myth of the Week: Tick Hoaxes](https://lifehacker.com/tiktok-myth-of-the-week-tick-hoaxes-1850794294?utm_source=regular)
-- [Lifehacker] [What to Do When an Airline Loses Your Luggage](https://lifehacker.com/what-to-do-when-an-airline-loses-your-bag-1830460934?utm_source=regular)
-- [Lifehacker] [Air Fried Phyllo-Wrapped Vegetables Make a Great Crispy Snack](https://lifehacker.com/air-fried-phyllo-wrapped-vegetables-make-a-great-crispy-1850796435?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Perfect Cocktail Sauce](https://lifehacker.com/best-cocktail-sauce-recipe-1844910566?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
