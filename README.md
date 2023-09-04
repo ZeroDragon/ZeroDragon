@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SSH Key&#39;s](https://dev.to/steven_rivera_5d71072a2fc/ssh-keys-nc4)
+- [Dev.to/JS] [Nested state properties: when to deep clone?](https://dev.to/dragonballz/nested-state-properties-when-to-deep-clone-4jh1)
+- [Dev.to/JS] [My first take on WebAssembly](https://dev.to/iprosk/my-first-take-on-webassembly-213h)
+- [Dev.to/JS] [Building A Todo CRUD App With React, TypeScript, Vite And Chakra UI](https://dev.to/ethand91/building-a-todo-crud-app-with-react-typescript-vite-and-chakra-ui-l5n)
 - [Dev.to/JS] [The Basics of React Props for Beginners](https://dev.to/meganad60/the-basics-of-react-props-for-beginners-3j01)
 - [Dev.to/JS] [Calling All Node.js Developers : Create Generic Upload Controller ⭐ Weekly Issue to Solve](https://dev.to/idurar/calling-all-nodejs-developers-create-new-generic-upload-controller-weekly-issue-to-solve-53a4)
 - [Dev.to/JS] [NO XP NO JOB, NO JOB NO XP](https://dev.to/justjay30a7i/no-xp-no-job-no-job-no-xp-3i22)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a React Loader: Adding a Dash of Style to Your Website](https://dev.to/samy/creating-a-react-loader-adding-a-dash-of-style-to-your-website-4f5l)
 - [Dev.to/JS] [Drag &amp; Drop implementation using html/css and Javascript](https://dev.to/ndickers/drag-drop-implementation-using-htmlcss-and-javascript-8mc)
 - [Dev.to/JS] [Calendar.js v2.3.1, a free JavaScript library!](https://dev.to/williamtroup/calendarjs-a-free-javascript-library-1c76)
-- [Dev.to/JS] [PDF Chat with Node.js, OpenAI and ModelFusion](https://dev.to/lgrammel/pdf-chat-with-nodejs-openai-and-modelfusion-oip)
-- [Dev.to/JS] [Mainkan Situs Roulette Online Deposit Rendah](https://dev.to/phjat/mainkan-situs-roulette-online-deposit-rendah-1n5n)
-- [Dev.to/JS] [Situs Tembak Ikan Online Terlengkap Bonus Berlimpah](https://dev.to/phjat/situs-tembak-ikan-online-terlengkap-bonus-berlimpah-4p99)
-- [Dev.to/JS] [Situs Slot Gacor Online RTP Tinggi Bonus Berlimpah](https://dev.to/phjat/situs-slot-gacor-online-rtp-tinggi-bonus-berlimpah-16bm)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
