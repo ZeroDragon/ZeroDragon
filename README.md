@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [End-to-end encryption in the browser Part 1](https://dev.to/apertureless/end-to-end-encryption-in-the-browser-part-1-20ap)
+- [Dev.to/JS] [🚀 Exciting News! 🚀](https://dev.to/kallarari/exciting-news-595i)
+- [Dev.to/JS] [Many popular frontends are low-key open-source](https://dev.to/llllvvuu/it-turns-out-a-lot-of-popular-saas-frontends-are-low-key-open-source-1i86)
+- [Dev.to/JS] [Common Cypress Interview Questions](https://dev.to/dilpreetjohal/common-cypress-interview-questions-3h3a)
+- [Dev.to/JS] [Professionalizing my Personal Web App - alsiam.com](https://dev.to/alsiam/professionalizing-my-personal-web-app-alsiamcom-4dm7)
+- [Dev.to/JS] [Day 40: keyof](https://dev.to/dhrn/day-40-keyof-1922)
+- [Lifehacker] [This DIY Cheese Press Is Better Than Anything You Can Buy](https://lifehacker.com/this-diy-cheese-press-is-better-than-anything-you-can-b-1850488353?utm_source=regular)
 - [Lifehacker] [Season Fresh Chèvre With Herbs, Spices, and Anything Else That Strikes Your Fancy](https://lifehacker.com/how-to-season-fresh-goat-cheese-1850488714?utm_source=regular)
 - [Lifehacker] [You Should Leave Your Portable Generator on Empty](https://lifehacker.com/you-should-leave-your-portable-generator-on-empty-1850792586?utm_source=regular)
 - [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 5](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-5-4364)
@@ -36,13 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 5 open-source copy and paste Tailwind CSS 💨component libraries YOU HAVE to try in 2023 🔥](https://dev.to/garrrikkotua/5-open-source-copy-and-paste-tailwind-css-component-libraries-you-have-to-try-in-2023-47k3)
 - [Lifehacker] [Everything You Need to Make Your Own Cheese](https://lifehacker.com/everything-you-need-to-make-your-own-cheese-1850421571?utm_source=regular)
 - [Dev.to/JS] [TIL, CSS shadow and FrontEnd interview questions](https://dev.to/esraanasr92/til-css-shadow-and-frontend-interview-questions-3719)
-- [Dev.to/JS] [Are You Using JavaScript Right? Know When to Go Asynchronous](https://dev.to/mainulspace/are-you-using-javascript-right-know-when-to-go-asynchronous-4731)
-- [Dev.to/JS] [JavaScript Array Methods: A Beginner&#39;s Guide](https://dev.to/misszamzam/javascript-array-methods-a-beginners-guide-4hf4)
-- [Dev.to/JS] [Building Adaptive User Interfaces in React Native](https://dev.to/builderio/building-adaptive-user-interfaces-in-react-native-np7)
 - [Lifehacker] [You Can Get Dollar Flight Club for $60 Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-for-60-right-now-1850792473?utm_source=regular)
-- [Dev.to/JS] [Como usar o forEach em Javascript: exemplos detalhados contados em uma história](https://dev.to/demenezes/como-usar-o-foreach-em-javascript-exemplos-detalhados-contados-em-uma-historia-31a4)
-- [Dev.to/JS] [What is Emoji Cheat Sheet?](https://dev.to/visatodubai/what-is-emoji-cheat-sheet-17k1)
-- [Dev.to/JS] [Optimizing the Performance of an Angular Application](https://dev.to/nikhil6076/optimizing-the-performance-of-an-angular-application-27g6)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When an Airline Loses Your Luggage](https://lifehacker.com/what-to-do-when-an-airline-loses-your-bag-1830460934?utm_source=regular)
 - [Lifehacker] [Air Fried Phyllo-Wrapped Vegetables Make a Great Crispy Snack](https://lifehacker.com/air-fried-phyllo-wrapped-vegetables-make-a-great-crispy-1850796435?utm_source=regular)
 - [Lifehacker] [13 of My Favorite Grilling Recipes for Labor Day](https://lifehacker.com/best-grilling-recipes-1850793271?utm_source=regular)
-- [Lifehacker] [Don&#39;t Believe These Myths About Contraception](https://lifehacker.com/biggest-birth-control-myths-1850764015?utm_source=regular)
-- [Lifehacker] [Everything You Should Know About Emergency Contraception &lpar;Before You Need It&rpar;](https://lifehacker.com/everything-you-should-know-about-emergency-contraceptio-1850771878?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Believe These Myths About Contraception](https://lifehacker.com/biggest-birth-control-myths-1850764015?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
