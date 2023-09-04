@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leet Code Challenge - Easy](https://dev.to/juniorbatistadev/leet-code-challenge-2hgh)
 - [Dev.to/JS] [Tech Foutraque #13 | Discover the latest trends](https://dev.to/tech_foutraque/tech-foutraque-13-frontend-digest-514e)
 - [Dev.to/JS] [Testing: Good Practices for Error-Free Code](https://dev.to/ducknows/testing-good-practices-for-error-free-code-53h8)
 - [Dev.to/JS] [20 Emerging Web Development Topics in 2023](https://dev.to/hmawebdesign/20-emerging-web-development-topics-in-2023-cni)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Youtube Like Tab Navigation Slider using only HTML CSS &amp; JS](https://dev.to/krybone/youtube-like-tab-navigation-slider-using-pure-html-css-js-12fd)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Dev.to/JS] [Structuring Your Backend for Growth: A Guide to Organizing API Calls](https://dev.to/janellephalon/structuring-your-backend-for-growth-a-guide-to-organizing-api-calls-2ob0)
-- [Dev.to/JS] [Manipulating the DOM events](https://dev.to/bookmdan/manipulating-the-dom-events-3dno)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
 - [Lifehacker] [Real Cheeseheads Make Their Own Squeaky Curds](https://lifehacker.com/how-to-make-cheese-curds-1850488334?utm_source=regular)
