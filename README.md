@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Structuring Your Backend for Growth: A Guide to Organizing API Calls](https://dev.to/janellephalon/structuring-your-backend-for-growth-a-guide-to-organizing-api-calls-2ob0)
+- [Dev.to/JS] [Manipulating the DOM events](https://dev.to/bookmdan/manipulating-the-dom-events-3dno)
+- [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
+- [Dev.to/JS] [Creating a Chrome extension to convert the URL to use localhost in 1 click](https://dev.to/thomasledoux1/creating-a-chrome-extension-to-convert-the-url-to-use-localhost-in-1-click-oge)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
 - [Lifehacker] [Real Cheeseheads Make Their Own Squeaky Curds](https://lifehacker.com/how-to-make-cheese-curds-1850488334?utm_source=regular)
 - [Dev.to/JS] [What Is Templating and how to use it in JavaScript?](https://dev.to/endeavourmonk/what-is-templating-and-how-to-use-it-in-javascript-13a0)
@@ -47,10 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This DIY Cheese Press Is Better Than Anything You Can Buy](https://lifehacker.com/this-diy-cheese-press-is-better-than-anything-you-can-b-1850488353?utm_source=regular)
 - [Lifehacker] [Season Fresh Chèvre With Herbs, Spices, and Anything Else That Strikes Your Fancy](https://lifehacker.com/how-to-season-fresh-goat-cheese-1850488714?utm_source=regular)
 - [Lifehacker] [You Should Leave Your Portable Generator on Empty](https://lifehacker.com/you-should-leave-your-portable-generator-on-empty-1850792586?utm_source=regular)
-- [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 5](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-5-4364)
 - [Lifehacker] [Lose Your Cheesemaking Virginity to Chèvre](https://lifehacker.com/how-to-make-goat-cheese-1850488573?utm_source=regular)
-- [Dev.to/JS] [How We Fixed Performance With JS Object Variable Mutation](https://dev.to/appsmith/how-we-fixed-performance-with-js-object-variable-mutation-2icm)
-- [Dev.to/JS] [Different Types of Scope in JavaScript](https://dev.to/jeetvora331/different-types-of-scope-in-javascript-3cdi)
 - [Lifehacker] [Everything You Need to Make Your Own Cheese](https://lifehacker.com/everything-you-need-to-make-your-own-cheese-1850421571?utm_source=regular)
 - [Lifehacker] [You Can Get Dollar Flight Club for $60 Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-for-60-right-now-1850792473?utm_source=regular)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
 - [Lifehacker] [Homemade Magic Shell Is Almost Too Easy](https://lifehacker.com/easy-chocolate-magic-shell-recipe-1850797444?utm_source=regular)
 - [Lifehacker] [How to Actually Tie Your Shoes Correctly](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979?utm_source=regular)
-- [Lifehacker] [Use These &#39;Active Recall&#39; Techniques the Next Time You Study](https://lifehacker.com/use-these-active-recall-techniques-the-next-time-you-st-1850797753?utm_source=regular)
-- [Lifehacker] [This Refurbished Microsoft Surface Laptop Is 50% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-laptop-is-50-off-ri-1850790158?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use These &#39;Active Recall&#39; Techniques the Next Time You Study](https://lifehacker.com/use-these-active-recall-techniques-the-next-time-you-st-1850797753?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
