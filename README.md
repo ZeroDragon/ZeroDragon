@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Interactive Real-Time Apps with Socket.IO in Node.js:](https://dev.to/collinsoden/building-interactive-real-time-apps-with-socketio-in-nodejs-3l03)
+- [Dev.to/JS] [Hello devs, see my portfolio:](https://dev.to/gabrielvesal/hello-devs-see-my-portfolio-4nej)
+- [Dev.to/JS] [🔍 &quot;Overlooked Use Cases in Your Tasks?&quot;](https://dev.to/matheusmorett2/overlooked-use-cases-in-your-tasks-5cdg)
+- [Dev.to/JS] [Stop Conditional Rendering in React Without Knowing This &lpar;&amp;&amp; and Ternary Operator&rpar;](https://dev.to/ubahthebuilder/stop-conditional-rendering-in-react-without-knowing-this-and-ternary-operator-388)
 - [Dev.to/JS] [Leet Code Challenge - Easy](https://dev.to/juniorbatistadev/leet-code-challenge-2hgh)
 - [Dev.to/JS] [Tech Foutraque #13 | Discover the latest trends](https://dev.to/tech_foutraque/tech-foutraque-13-frontend-digest-514e)
 - [Dev.to/JS] [Testing: Good Practices for Error-Free Code](https://dev.to/ducknows/testing-good-practices-for-error-free-code-53h8)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Concurrency Models and Event Loops in JavaScript](https://dev.to/syedmuhammadaliraza/concurrency-models-and-event-loops-in-javascript-4m5a)
 - [Dev.to/JS] [The learning Curve! React Js!](https://dev.to/chandanhm1999/the-learning-curve-react-js-5d30)
 - [Dev.to/JS] [How to easily build an accordion using JavaScript, Html &amp; CSS](https://dev.to/xplodivity/how-to-easily-build-an-accordion-using-javascript-html-css-19o6)
-- [Dev.to/JS] [Learn about knockoutJS](https://dev.to/parmita17/learn-about-knockoutjs-23ok)
-- [Dev.to/JS] [Unraveling the Two Sum Challenge](https://dev.to/kanav/unraveling-the-two-sum-challenge-5ec3)
-- [Dev.to/JS] [Youtube Like Tab Navigation Slider using only HTML CSS &amp; JS](https://dev.to/krybone/youtube-like-tab-navigation-slider-using-pure-html-css-js-12fd)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
-- [Dev.to/JS] [Structuring Your Backend for Growth: A Guide to Organizing API Calls](https://dev.to/janellephalon/structuring-your-backend-for-growth-a-guide-to-organizing-api-calls-2ob0)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
 - [Lifehacker] [Real Cheeseheads Make Their Own Squeaky Curds](https://lifehacker.com/how-to-make-cheese-curds-1850488334?utm_source=regular)
