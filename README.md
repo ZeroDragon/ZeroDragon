@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Concurrency Models and Event Loops in JavaScript](https://dev.to/syedmuhammadaliraza/concurrency-models-and-event-loops-in-javascript-4m5a)
+- [Dev.to/JS] [The learning Curve! React Js!](https://dev.to/chandanhm1999/the-learning-curve-react-js-5d30)
+- [Dev.to/JS] [How to easily build an accordion using JavaScript, Html &amp; CSS](https://dev.to/xplodivity/how-to-easily-build-an-accordion-using-javascript-html-css-19o6)
+- [Dev.to/JS] [Learn about knockoutJS](https://dev.to/parmita17/learn-about-knockoutjs-23ok)
+- [Dev.to/JS] [Unraveling the Two Sum Challenge](https://dev.to/kanav/unraveling-the-two-sum-challenge-5ec3)
+- [Dev.to/JS] [Youtube Like Tab Navigation Slider using only HTML CSS &amp; JS](https://dev.to/krybone/youtube-like-tab-navigation-slider-using-pure-html-css-js-12fd)
+- [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Dev.to/JS] [Structuring Your Backend for Growth: A Guide to Organizing API Calls](https://dev.to/janellephalon/structuring-your-backend-for-growth-a-guide-to-organizing-api-calls-2ob0)
 - [Dev.to/JS] [Manipulating the DOM events](https://dev.to/bookmdan/manipulating-the-dom-events-3dno)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
@@ -42,12 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Preserve Your Feta in Oil](https://lifehacker.com/you-should-preserve-your-feta-in-oil-1850488381?utm_source=regular)
 - [Lifehacker] [Homemade Feta Is Better Than What You Can Get at the Store](https://lifehacker.com/how-to-make-feta-cheese-1850788489?utm_source=regular)
 - [Lifehacker] [Turn Creamy Ricotta Into a Hard Grating Cheese](https://lifehacker.com/turn-creamy-ricotta-into-a-hard-grating-cheese-1850488323?utm_source=regular)
-- [Dev.to/JS] [End-to-end encryption in the browser Part 1](https://dev.to/apertureless/end-to-end-encryption-in-the-browser-part-1-20ap)
-- [Dev.to/JS] [🚀 Exciting News! 🚀](https://dev.to/kallarari/exciting-news-595i)
-- [Dev.to/JS] [Many popular frontends are low-key open-source](https://dev.to/llllvvuu/it-turns-out-a-lot-of-popular-saas-frontends-are-low-key-open-source-1i86)
-- [Dev.to/JS] [Common Cypress Interview Questions](https://dev.to/dilpreetjohal/common-cypress-interview-questions-3h3a)
-- [Dev.to/JS] [Professionalizing my Personal Web App - alsiam.com](https://dev.to/alsiam/professionalizing-my-personal-web-app-alsiamcom-4dm7)
-- [Dev.to/JS] [Day 40: keyof](https://dev.to/dhrn/day-40-keyof-1922)
 - [Lifehacker] [This DIY Cheese Press Is Better Than Anything You Can Buy](https://lifehacker.com/this-diy-cheese-press-is-better-than-anything-you-can-b-1850488353?utm_source=regular)
 - [Lifehacker] [Season Fresh Chèvre With Herbs, Spices, and Anything Else That Strikes Your Fancy](https://lifehacker.com/how-to-season-fresh-goat-cheese-1850488714?utm_source=regular)
 - [Lifehacker] [You Should Leave Your Portable Generator on Empty](https://lifehacker.com/you-should-leave-your-portable-generator-on-empty-1850792586?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
 - [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
 - [Lifehacker] [Homemade Magic Shell Is Almost Too Easy](https://lifehacker.com/easy-chocolate-magic-shell-recipe-1850797444?utm_source=regular)
-- [Lifehacker] [How to Actually Tie Your Shoes Correctly](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979?utm_source=regular)
-- [Lifehacker] [Use These &#39;Active Recall&#39; Techniques the Next Time You Study](https://lifehacker.com/use-these-active-recall-techniques-the-next-time-you-st-1850797753?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Actually Tie Your Shoes Correctly](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
