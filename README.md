@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Emoji Cheat Sheet?](https://dev.to/visatodubai/what-is-emoji-cheat-sheet-17k1)
+- [Dev.to/JS] [Optimizing the Performance of an Angular Application](https://dev.to/nikhil6076/optimizing-the-performance-of-an-angular-application-27g6)
 - [Dev.to/JS] [How To Build Healthcare CRM: A Comprehensive Guide](https://dev.to/flatlogic/how-to-build-healthcare-crm-a-comprehensive-guide-6o3)
 - [Dev.to/JS] [From Tailwind CSS to UnoCSS - Is Atomization Really the Savior of Frontend CSS](https://dev.to/zu/from-tailwind-css-to-unocss-is-atomization-really-the-savior-of-frontend-css-28in)
 - [Dev.to/JS] [ReactJs Tutorial for Absolute beginner](https://dev.to/donlinus/reactjs-tutorial-for-absolute-beginner-34lj)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Becoming a Team Leader](https://dev.to/wanoo21/becoming-a-team-leader-3ppn)
 - [Dev.to/JS] [Adding SAML Single Sign-On to an Express App: A Step-by-Step Guide 🚀🚀](https://dev.to/devkiran/adding-saml-single-sign-on-to-an-express-app-a-step-by-step-guide-2la4)
 - [Dev.to/JS] [Angular: The Most Common Coding Mistakes](https://dev.to/chintanonweb/angular-the-most-common-coding-mistakes-3141)
-- [Dev.to/JS] [Open Source Project suggestions](https://dev.to/shshank/open-source-project-suggestions-1opn)
-- [Dev.to/JS] [8 React Libraries That Will Turn You into a Dev Endgame Hero 🦸‍♀️🦸‍♂️](https://dev.to/shivamblog/8-react-libraries-that-will-turn-you-into-a-dev-endgame-hero-23mo)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
