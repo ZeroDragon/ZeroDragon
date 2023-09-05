@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 5](https://lifehacker.com/connections-answer-today-september-5-2023-1850803783?utm_source=regular)
+- [Dev.to/JS] [Day 41: Type Guards](https://dev.to/dhrn/day-41-type-guards-4mi5)
+- [Lifehacker] [This Refurbished Microsoft Surface Pro 7 Is $55% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-pro-7-is-55-off-ri-1850792742?utm_source=regular)
+- [Crazy Programmer] [Async PHP – A Deep Dive into Asynchronous Programming](https://www.thecrazyprogrammer.com/2023/09/async-php.html)
 - [Lifehacker] [The Best Gutter Guards You Can Install on Your Own](https://lifehacker.com/the-best-gutter-guards-you-can-install-on-your-own-1850802057?utm_source=regular)
 - [Lifehacker] [These Are the Signs of Hearing Loss in Children](https://lifehacker.com/these-are-the-signs-of-hearing-loss-in-children-1850796880?utm_source=regular)
 - [Dev.to/JS] [Get FREE Access to My Paid React Router 6 Course](https://dev.to/myogeshchavan97/get-free-access-to-my-paid-react-router-6-course-4mng)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animated Sidebar Menu Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/animated-sidebar-menu-using-html-css-and-javascript-1fka)
 - [Dev.to/JS] [Animated Login Form Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/animated-login-form-using-html-css-javascript-350p)
 - [Dev.to/JS] [How to Embed Google Map in HTML Using iFrame](https://dev.to/onlineittutstutorials/how-to-embed-google-map-in-html-using-iframe-4iio)
-- [Dev.to/JS] [Pure Critique of Pure Functions in Functional Programming](https://dev.to/artxe2/pure-critique-of-pure-functions-in-functional-programming-4fkn)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
 - [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
 - [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
-- [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
-- [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
-- [Lifehacker] [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
