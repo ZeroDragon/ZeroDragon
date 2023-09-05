@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [As a newbie should i take the UI of my projects seriously](https://dev.to/mtendekuyokwa19/as-a-newbie-should-i-take-the-ui-of-my-projects-seriously-5fp2)
+- [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 6](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-6-1b04)
 - [Dev.to/JS] [Key Qualities of the Best Software Development Company](https://dev.to/go-techsolution/key-qualities-of-the-best-software-development-company-57m7)
 - [Dev.to/JS] [Navigating Your Career Path as a Web Developer](https://dev.to/evana/navigating-your-career-path-as-a-web-developer-48ce)
 - [Dev.to/JS] [How I Migrated Our React Codebase from Flow to PropTypes](https://dev.to/thawkin3/how-i-migrated-our-codebase-from-flow-to-proptypes-444b)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A draggable Orientation component](https://dev.to/rabbitzzc/a-draggable-orientation-component-2c7d)
 - [Dev.to/JS] [Building Interactive Real-Time Apps with Socket.IO in Node.js:](https://dev.to/collinsoden/building-interactive-real-time-apps-with-socketio-in-nodejs-3l03)
 - [Dev.to/JS] [Hello devs, see my portfolio:](https://dev.to/gabrielvesal/hello-devs-see-my-portfolio-4nej)
-- [Dev.to/JS] [🔍 &quot;Overlooked Use Cases in Your Tasks?&quot;](https://dev.to/matheusmorett2/overlooked-use-cases-in-your-tasks-5cdg)
-- [Dev.to/JS] [Stop Conditional Rendering in React Without Knowing This &lpar;&amp;&amp; and Ternary Operator&rpar;](https://dev.to/ubahthebuilder/stop-conditional-rendering-in-react-without-knowing-this-and-ternary-operator-388)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
