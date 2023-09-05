@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🎯 Supercharge Your React App Data Handling with Material-UI Data Grid Pro! 🚀](https://dev.to/anii1429/supercharge-your-react-app-data-handling-with-material-ui-data-grid-pro-36cl)
+- [Dev.to/JS] [Exploring the Benefits of Server Components in NextJS](https://dev.to/nilanth/exploring-the-benefits-of-server-components-in-nextjs-1988)
+- [Lifehacker] [The Differences Between the Steam Deck and Lenovo Legion Go](https://lifehacker.com/the-differences-between-the-steam-deck-and-lenovo-legio-1850802411?utm_source=regular)
+- [Lifehacker] [Plant These Vegetables This Fall to Harvest Next Spring](https://lifehacker.com/plant-these-vegetables-this-fall-to-harvest-next-spring-1850803128?utm_source=regular)
 - [Dev.to/JS] [Simplifying GraphQL API Development with Code-First Approach, Nexus, and Prisma](https://dev.to/blazestudios23/simplifying-graphql-api-development-with-code-first-approach-nexus-and-prisma-n63)
 - [Lifehacker] [12 of the Funniest Fiction Podcasts](https://lifehacker.com/funniest-fiction-podcasts-1850802452?utm_source=regular)
 - [Dev.to/JS] [This New React Hook Changes How You Use Forms](https://dev.to/ubahthebuilder/this-new-react-hook-changes-how-you-use-forms-2ohb)
@@ -45,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Gutter Guards You Can Install on Your Own](https://lifehacker.com/the-best-gutter-guards-you-can-install-on-your-own-1850802057?utm_source=regular)
 - [Lifehacker] [These Are the Signs of Hearing Loss in Children](https://lifehacker.com/these-are-the-signs-of-hearing-loss-in-children-1850796880?utm_source=regular)
 - [Dev.to/JS] [Get FREE Access to My Paid React Router 6 Course](https://dev.to/myogeshchavan97/get-free-access-to-my-paid-react-router-6-course-4mng)
-- [Dev.to/JS] [Enabling Multiple Roles within Role-Based Authentication in Angular](https://dev.to/chintanonweb/enabling-multiple-roles-within-role-based-authentication-in-angular-2dcd)
-- [Dev.to/JS] [Bento Layouts Tilt Me](https://dev.to/devslovecoffee/bento-layouts-tilt-me-fek)
 - [Lifehacker] [The Best Cheap Birthday Parties Under $50 for Kids](https://lifehacker.com/the-best-cheap-birthday-party-ideas-for-kids-1850794611?utm_source=regular)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Season Fresh Chèvre With Herbs, Spices, and Anything Else That Strikes Your Fancy](https://lifehacker.com/how-to-season-fresh-goat-cheese-1850488714?utm_source=regular)
 - [Lifehacker] [You Should Leave Your Portable Generator on Empty](https://lifehacker.com/you-should-leave-your-portable-generator-on-empty-1850792586?utm_source=regular)
 - [Lifehacker] [Lose Your Cheesemaking Virginity to Chèvre](https://lifehacker.com/how-to-make-goat-cheese-1850488573?utm_source=regular)
-- [Lifehacker] [Everything You Need to Make Your Own Cheese](https://lifehacker.com/everything-you-need-to-make-your-own-cheese-1850421571?utm_source=regular)
-- [Lifehacker] [You Can Get Dollar Flight Club for $60 Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-for-60-right-now-1850792473?utm_source=regular)
-- [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Need to Make Your Own Cheese](https://lifehacker.com/everything-you-need-to-make-your-own-cheese-1850421571?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
