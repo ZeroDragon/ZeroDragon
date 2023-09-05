@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Migrated Our Codebase from Flow to PropTypes](https://dev.to/thawkin3/how-i-migrated-our-codebase-from-flow-to-proptypes-444b)
+- [Dev.to/JS] [Meet Kandinsky 2.2: &quot;It&#39;s Like if Midjourney Had an API&quot;](https://dev.to/mikeyoung44/meet-kandinsky-22-its-like-if-midjourney-had-an-api-11ha)
+- [Dev.to/JS] [8 HTML Tags That Are Cooler Than a Polar Bear in Ray-Bans 😎](https://dev.to/shivamblog/8-html-tags-that-are-cooler-than-a-polar-bear-in-ray-bans-12jg)
 - [Dev.to/JS] [Flickerless dark mode in 11ty with Tailwind CSS](https://dev.to/tengkufarhan/flickerless-dark-mode-in-11ty-with-tailwind-css-3ok)
 - [Dev.to/JS] [Next.js 13 Data Fetching with App Router](https://dev.to/jaycedotbin/nextjs-13-data-fetching-with-app-router-289h)
 - [Dev.to/JS] [A draggable Orientation component](https://dev.to/rabbitzzc/a-draggable-orientation-component-2c7d)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stop Conditional Rendering in React Without Knowing This &lpar;&amp;&amp; and Ternary Operator&rpar;](https://dev.to/ubahthebuilder/stop-conditional-rendering-in-react-without-knowing-this-and-ternary-operator-388)
 - [Dev.to/JS] [Leet Code Challenge - Easy](https://dev.to/juniorbatistadev/leet-code-challenge-2hgh)
 - [Dev.to/JS] [Tech Foutraque #13 | Discover the latest trends](https://dev.to/tech_foutraque/tech-foutraque-13-frontend-digest-514e)
-- [Dev.to/JS] [Testing: Good Practices for Error-Free Code](https://dev.to/ducknows/testing-good-practices-for-error-free-code-53h8)
-- [Dev.to/JS] [20 Emerging Web Development Topics in 2023](https://dev.to/hmawebdesign/20-emerging-web-development-topics-in-2023-cni)
-- [Dev.to/JS] [Gentle introduction into Module Federation, the React Parts](https://dev.to/ibrahimshamma99/gentle-introduction-into-module-federation-the-react-parts-4ehc)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
