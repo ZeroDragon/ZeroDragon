@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Code Security: A Deep Dive](https://dev.to/dominicazuka/javascript-code-security-a-deep-dive-1fpa)
+- [Lifehacker] [Four Strategies for Handling Your Brain&#39;s &#39;Waiting Mode&#39;](https://lifehacker.com/four-strategies-for-handling-your-brains-waiting-mode-1850803018?utm_source=regular)
+- [Dev.to/JS] [You might not need TypeScript Enum](https://dev.to/maafaishal/you-might-not-need-typescript-enum-1f4n)
+- [Dev.to/JS] [The Power of a Positive Mindset: Fueling Your Progress](https://dev.to/saidlaasri/the-power-of-a-positive-mindset-fueling-your-progress-1n84)
+- [Dev.to/JS] [What Is HTML? | Introduction by @incoderweb | HTML Series Part 1](https://dev.to/incoderweb/what-is-html-introduction-by-incoderweb-html-series-part-1-24o6)
+- [Lifehacker] [This Map Predicts Peak Fall Foliage Across the US](https://lifehacker.com/this-map-predicts-peak-fall-foliage-across-the-us-1850803042?utm_source=regular)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 5](https://lifehacker.com/connections-answer-today-september-5-2023-1850803783?utm_source=regular)
 - [Dev.to/JS] [Day 41: Type Guards](https://dev.to/dhrn/day-41-type-guards-4mi5)
 - [Lifehacker] [This Refurbished Microsoft Surface Pro 7 Is $55% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-pro-7-is-55-off-ri-1850792742?utm_source=regular)
@@ -40,10 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Color Flipper](https://dev.to/faisgit/color-flipper-2p3h)
 - [Dev.to/JS] [$render — write React with pure JavaScript.](https://dev.to/codingnninja/render-write-react-with-pure-javascript-49cc)
 - [Dev.to/JS] [Introducing DevConnect: A Real-time Chat App Built with Express &amp; Node.js](https://dev.to/shawn2208/introducing-devconnect-a-real-time-chat-app-built-with-express-nodejs-17dj)
-- [Dev.to/JS] [How to generate &quot;uuid&quot; in JavaScript ?](https://dev.to/napoukine/how-to-generate-uuid-in-javascript--4db3)
-- [Dev.to/JS] [Animated Sidebar Menu Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/animated-sidebar-menu-using-html-css-and-javascript-1fka)
-- [Dev.to/JS] [Animated Login Form Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/animated-login-form-using-html-css-javascript-350p)
-- [Dev.to/JS] [How to Embed Google Map in HTML Using iFrame](https://dev.to/onlineittutstutorials/how-to-embed-google-map-in-html-using-iframe-4iio)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Dollar Flight Club for $60 Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-for-60-right-now-1850792473?utm_source=regular)
 - [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
 - [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
-- [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)
-- [Lifehacker] [Don&#39;t Miss These September Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441?utm_source=regular)
-- [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
