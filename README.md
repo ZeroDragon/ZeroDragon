@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A draggable Orientation component](https://dev.to/rabbitzzc/a-draggable-orientation-component-2c7d)
 - [Dev.to/JS] [Building Interactive Real-Time Apps with Socket.IO in Node.js:](https://dev.to/collinsoden/building-interactive-real-time-apps-with-socketio-in-nodejs-3l03)
 - [Dev.to/JS] [Hello devs, see my portfolio:](https://dev.to/gabrielvesal/hello-devs-see-my-portfolio-4nej)
 - [Dev.to/JS] [🔍 &quot;Overlooked Use Cases in Your Tasks?&quot;](https://dev.to/matheusmorett2/overlooked-use-cases-in-your-tasks-5cdg)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gentle introduction into Module Federation, the React Parts](https://dev.to/ibrahimshamma99/gentle-introduction-into-module-federation-the-react-parts-4ehc)
 - [Dev.to/JS] [Concurrency Models and Event Loops in JavaScript](https://dev.to/syedmuhammadaliraza/concurrency-models-and-event-loops-in-javascript-4m5a)
 - [Dev.to/JS] [The learning Curve! React Js!](https://dev.to/chandanhm1999/the-learning-curve-react-js-5d30)
-- [Dev.to/JS] [How to easily build an accordion using JavaScript, Html &amp; CSS](https://dev.to/xplodivity/how-to-easily-build-an-accordion-using-javascript-html-css-19o6)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
