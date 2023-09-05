@@ -26,11 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [iOS APP version update and upgrade tutorial: How to package and submit a new version of the APP for review?](https://dev.to/iosdevlop/ios-app-version-update-and-upgrade-tutorial-how-to-package-and-submit-a-new-version-of-the-app-for-review-4okh)
 - [Dev.to/JS] [Code Untangled: Immutability](https://dev.to/mensurdurakovic7/code-untangled-immutability-5k7)
 - [Dev.to/JS] [LearnIt - An open source book distribution site](https://dev.to/vivek09thakur/learnit-an-open-source-book-distribution-site-195h)
 - [Dev.to/JS] [Angular Routing: Advanced Concepts and Best Practices](https://dev.to/chintanonweb/angular-routing-advanced-concepts-and-best-practices-34fo)
 - [Dev.to/JS] [React Native Code Splitting: Optimizing Performance and Reducing App Size](https://dev.to/crossskatee1/react-native-code-splitting-optimizing-performance-and-reducing-app-size-40ef)
-- [Dev.to/JS] [As a newbie should i take the UI of my projects seriously](https://dev.to/mtendekuyokwa19/as-a-newbie-should-i-take-the-ui-of-my-projects-seriously-5fp2)
 - [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 6](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-6-1b04)
 - [Dev.to/JS] [Key Qualities of the Best Software Development Company](https://dev.to/go-techsolution/key-qualities-of-the-best-software-development-company-57m7)
 - [Dev.to/JS] [Navigating Your Career Path as a Web Developer](https://dev.to/evana/navigating-your-career-path-as-a-web-developer-48ce)
