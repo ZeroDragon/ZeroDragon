@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Mayonnaise by Hand &lpar;With or Without a Blender&rpar;](https://lifehacker.com/how-to-make-mayonnaise-by-hand-1850805172?utm_source=regular)
+- [Lifehacker] [Why Weather Forecasts Are Only Accurate Two Weeks Out](https://lifehacker.com/why-weather-forecasts-are-only-accurate-two-weeks-out-1850653154?utm_source=regular)
+- [Lifehacker] [How to Overwinter Your Tomato Plants](https://lifehacker.com/how-to-overwinter-your-tomato-plants-1850805342?utm_source=regular)
+- [Lifehacker] [You Can Keep Cocktails Cold Without Ice](https://lifehacker.com/you-can-keep-cocktails-cold-without-ice-1850805314?utm_source=regular)
 - [Lifehacker] [How to Make Your Own Labneh &lpar;and How to Eat It&rpar;](https://lifehacker.com/easy-labneh-recipe-1796785416?utm_source=regular)
 - [Lifehacker] [Why Communal Living Might Be the Answer](https://lifehacker.com/why-communal-living-might-be-the-answer-1850804509?utm_source=regular)
 - [Dev.to/JS] [New certification from FreedomwithAI](https://dev.to/kssaiteja/new-certification-from-freedomwithai-dn0)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
-- [Lifehacker] [Real Cheeseheads Make Their Own Squeaky Curds](https://lifehacker.com/how-to-make-cheese-curds-1850488334?utm_source=regular)
-- [Lifehacker] [Cheese Wrapping Is an Essential Part of Cheesemaking](https://lifehacker.com/cheese-wrapping-is-an-essential-part-of-cheesemaking-1850488819?utm_source=regular)
-- [Lifehacker] [How to Make Sexy, Gooey Camembert](https://lifehacker.com/how-to-make-sexy-gooey-camembert-1850488340?utm_source=regular)
-- [Lifehacker] [The Easiest Way to Make Fresh Mozzarella &lpar;and Burrata&rpar;](https://lifehacker.com/how-to-make-fresh-mozzarella-and-burrata-1850468281?utm_source=regular)
-- [Lifehacker] [Avoid These Mistakes When Planting Bulbs in the Fall](https://lifehacker.com/avoid-these-mistakes-when-planting-bulbs-in-the-fall-1850792548?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Real Cheeseheads Make Their Own Squeaky Curds](https://lifehacker.com/how-to-make-cheese-curds-1850488334?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
