@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Choose the Best Weightlifting Straps](https://lifehacker.com/the-three-types-of-deadlift-straps-and-how-to-choose-t-1847467436?utm_source=regular)
 - [Lifehacker] [You Can Get This iCollege Beginner&#39;s Cybersecurity Course for $70](https://lifehacker.com/you-can-get-this-icollege-beginners-cybersecurity-cours-1850792590?utm_source=regular)
 - [Lifehacker] [How to Hide Your OnlyFans Payments History](https://lifehacker.com/how-to-hide-your-onlyfans-payments-history-1850805975?utm_source=regular)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Async PHP – A Deep Dive into Asynchronous Programming](https://www.thecrazyprogrammer.com/2023/09/async-php.html)
 - [Lifehacker] [The Best Gutter Guards You Can Install on Your Own](https://lifehacker.com/the-best-gutter-guards-you-can-install-on-your-own-1850802057?utm_source=regular)
 - [Lifehacker] [These Are the Signs of Hearing Loss in Children](https://lifehacker.com/these-are-the-signs-of-hearing-loss-in-children-1850796880?utm_source=regular)
-- [Lifehacker] [The Best Cheap Birthday Parties Under $50 for Kids](https://lifehacker.com/the-best-cheap-birthday-party-ideas-for-kids-1850794611?utm_source=regular)
-- [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Cheap Birthday Parties Under $50 for Kids](https://lifehacker.com/the-best-cheap-birthday-party-ideas-for-kids-1850794611?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
