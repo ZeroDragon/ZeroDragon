@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get 15 Bottles of Swirl Wine for $64 Right Now](https://lifehacker.com/you-can-get-15-bottles-of-swirl-wine-for-64-right-now-1850792657?utm_source=regular)
+- [Dev.to/JS] [10 Lesser-Known JavaScript Array Methods You Might’ve Missed](https://dev.to/mainulspace/10-lesser-known-javascript-array-methods-you-mightve-missed-32b3)
+- [Dev.to/JS] [Event Bubbling and Throttling in JavaScript](https://dev.to/syedmuhammadaliraza/event-bubbling-and-throttling-in-javascript-5831)
+- [Lifehacker] [How to Overwinter Your Pepper Plants](https://lifehacker.com/how-to-overwinter-your-pepper-plants-1850800893?utm_source=regular)
+- [Lifehacker] [Here Are the Best Streaming Discounts for Students](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322?utm_source=regular)
+- [Lifehacker] [Make Perfectly Fudgey Fudge Pops With Silken Tofu](https://lifehacker.com/make-perfectly-fudgey-fudge-pops-with-silken-tofu-1850804032?utm_source=regular)
 - [Dev.to/JS] [🎯 Supercharge Your React App Data Handling with Material-UI Data Grid Pro! 🚀](https://dev.to/anii1429/supercharge-your-react-app-data-handling-with-material-ui-data-grid-pro-36cl)
 - [Dev.to/JS] [Exploring the Benefits of Server Components in NextJS](https://dev.to/nilanth/exploring-the-benefits-of-server-components-in-nextjs-1988)
 - [Lifehacker] [The Differences Between the Steam Deck and Lenovo Legion Go](https://lifehacker.com/the-differences-between-the-steam-deck-and-lenovo-legio-1850802411?utm_source=regular)
@@ -43,12 +49,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Is HTML? | Introduction by @incoderweb | HTML Series Part 1](https://dev.to/incoderweb/what-is-html-introduction-by-incoderweb-html-series-part-1-24o6)
 - [Lifehacker] [This Map Predicts Peak Fall Foliage Across the US](https://lifehacker.com/this-map-predicts-peak-fall-foliage-across-the-us-1850803042?utm_source=regular)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 5](https://lifehacker.com/connections-answer-today-september-5-2023-1850803783?utm_source=regular)
-- [Dev.to/JS] [Day 41: Type Guards](https://dev.to/dhrn/day-41-type-guards-4mi5)
 - [Lifehacker] [This Refurbished Microsoft Surface Pro 7 Is $55% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-pro-7-is-55-off-ri-1850792742?utm_source=regular)
 - [Crazy Programmer] [Async PHP – A Deep Dive into Asynchronous Programming](https://www.thecrazyprogrammer.com/2023/09/async-php.html)
 - [Lifehacker] [The Best Gutter Guards You Can Install on Your Own](https://lifehacker.com/the-best-gutter-guards-you-can-install-on-your-own-1850802057?utm_source=regular)
 - [Lifehacker] [These Are the Signs of Hearing Loss in Children](https://lifehacker.com/these-are-the-signs-of-hearing-loss-in-children-1850796880?utm_source=regular)
-- [Dev.to/JS] [Get FREE Access to My Paid React Router 6 Course](https://dev.to/myogeshchavan97/get-free-access-to-my-paid-react-router-6-course-4mng)
 - [Lifehacker] [The Best Cheap Birthday Parties Under $50 for Kids](https://lifehacker.com/the-best-cheap-birthday-party-ideas-for-kids-1850794611?utm_source=regular)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Preserve Your Feta in Oil](https://lifehacker.com/you-should-preserve-your-feta-in-oil-1850488381?utm_source=regular)
 - [Lifehacker] [Homemade Feta Is Better Than What You Can Get at the Store](https://lifehacker.com/how-to-make-feta-cheese-1850788489?utm_source=regular)
 - [Lifehacker] [Turn Creamy Ricotta Into a Hard Grating Cheese](https://lifehacker.com/turn-creamy-ricotta-into-a-hard-grating-cheese-1850488323?utm_source=regular)
-- [Lifehacker] [This DIY Cheese Press Is Better Than Anything You Can Buy](https://lifehacker.com/this-diy-cheese-press-is-better-than-anything-you-can-b-1850488353?utm_source=regular)
-- [Lifehacker] [Season Fresh Chèvre With Herbs, Spices, and Anything Else That Strikes Your Fancy](https://lifehacker.com/how-to-season-fresh-goat-cheese-1850488714?utm_source=regular)
-- [Lifehacker] [You Should Leave Your Portable Generator on Empty](https://lifehacker.com/you-should-leave-your-portable-generator-on-empty-1850792586?utm_source=regular)
-- [Lifehacker] [Lose Your Cheesemaking Virginity to Chèvre](https://lifehacker.com/how-to-make-goat-cheese-1850488573?utm_source=regular)
-- [Lifehacker] [Everything You Need to Make Your Own Cheese](https://lifehacker.com/everything-you-need-to-make-your-own-cheese-1850421571?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This DIY Cheese Press Is Better Than Anything You Can Buy](https://lifehacker.com/this-diy-cheese-press-is-better-than-anything-you-can-b-1850488353?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
