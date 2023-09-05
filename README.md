@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Encode URL in Javascript](https://dev.to/jrajput315/encode-url-in-javascript-2j72)
+- [Dev.to/JS] [Color Flipper](https://dev.to/faisgit/color-flipper-2p3h)
+- [Dev.to/JS] [$render — write React with pure JavaScript.](https://dev.to/codingnninja/render-write-react-with-pure-javascript-49cc)
+- [Dev.to/JS] [Introducing DevConnect: A Real-time Chat App Built with Express &amp; Node.js](https://dev.to/shawn2208/introducing-devconnect-a-real-time-chat-app-built-with-express-nodejs-17dj)
+- [Dev.to/JS] [How to generate &quot;uuid&quot; in JavaScript ?](https://dev.to/napoukine/how-to-generate-uuid-in-javascript--4db3)
 - [Dev.to/JS] [Animated Sidebar Menu Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/animated-sidebar-menu-using-html-css-and-javascript-1fka)
 - [Dev.to/JS] [Animated Login Form Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/animated-login-form-using-html-css-javascript-350p)
 - [Dev.to/JS] [How to Embed Google Map in HTML Using iFrame](https://dev.to/onlineittutstutorials/how-to-embed-google-map-in-html-using-iframe-4iio)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [iOS APP version update and upgrade tutorial: How to package and submit a new version of the APP for review?](https://dev.to/iosdevlop/ios-app-version-update-and-upgrade-tutorial-how-to-package-and-submit-a-new-version-of-the-app-for-review-4okh)
 - [Dev.to/JS] [Code Untangled: Immutability](https://dev.to/mensurdurakovic7/code-untangled-immutability-5k7)
 - [Dev.to/JS] [LearnIt - An open source book distribution site](https://dev.to/vivek09thakur/learnit-an-open-source-book-distribution-site-195h)
-- [Dev.to/JS] [Angular Routing: Advanced Concepts and Best Practices](https://dev.to/chintanonweb/angular-routing-advanced-concepts-and-best-practices-34fo)
-- [Dev.to/JS] [React Native Code Splitting: Optimizing Performance and Reducing App Size](https://dev.to/crossskatee1/react-native-code-splitting-optimizing-performance-and-reducing-app-size-40ef)
-- [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 6](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-6-1b04)
-- [Dev.to/JS] [Key Qualities of the Best Software Development Company](https://dev.to/go-techsolution/key-qualities-of-the-best-software-development-company-57m7)
-- [Dev.to/JS] [Navigating Your Career Path as a Web Developer](https://dev.to/evana/navigating-your-career-path-as-a-web-developer-48ce)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
