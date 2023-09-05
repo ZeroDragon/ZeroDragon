@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flickerless dark mode in 11ty with Tailwind CSS](https://dev.to/tengkufarhan/flickerless-dark-mode-in-11ty-with-tailwind-css-3ok)
+- [Dev.to/JS] [Next.js 13 Data Fetching with App Router](https://dev.to/jaycedotbin/nextjs-13-data-fetching-with-app-router-289h)
 - [Dev.to/JS] [A draggable Orientation component](https://dev.to/rabbitzzc/a-draggable-orientation-component-2c7d)
 - [Dev.to/JS] [Building Interactive Real-Time Apps with Socket.IO in Node.js:](https://dev.to/collinsoden/building-interactive-real-time-apps-with-socketio-in-nodejs-3l03)
 - [Dev.to/JS] [Hello devs, see my portfolio:](https://dev.to/gabrielvesal/hello-devs-see-my-portfolio-4nej)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testing: Good Practices for Error-Free Code](https://dev.to/ducknows/testing-good-practices-for-error-free-code-53h8)
 - [Dev.to/JS] [20 Emerging Web Development Topics in 2023](https://dev.to/hmawebdesign/20-emerging-web-development-topics-in-2023-cni)
 - [Dev.to/JS] [Gentle introduction into Module Federation, the React Parts](https://dev.to/ibrahimshamma99/gentle-introduction-into-module-federation-the-react-parts-4ehc)
-- [Dev.to/JS] [Concurrency Models and Event Loops in JavaScript](https://dev.to/syedmuhammadaliraza/concurrency-models-and-event-loops-in-javascript-4m5a)
-- [Dev.to/JS] [The learning Curve! React Js!](https://dev.to/chandanhm1999/the-learning-curve-react-js-5d30)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
