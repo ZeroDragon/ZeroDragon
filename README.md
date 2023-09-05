@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How I Migrated Our Codebase from Flow to PropTypes](https://dev.to/thawkin3/how-i-migrated-our-codebase-from-flow-to-proptypes-444b)
+- [Dev.to/JS] [Key Qualities of the Best Software Development Company](https://dev.to/go-techsolution/key-qualities-of-the-best-software-development-company-57m7)
+- [Dev.to/JS] [Navigating Your Career Path as a Web Developer](https://dev.to/evana/navigating-your-career-path-as-a-web-developer-48ce)
+- [Dev.to/JS] [How I Migrated Our React Codebase from Flow to PropTypes](https://dev.to/thawkin3/how-i-migrated-our-codebase-from-flow-to-proptypes-444b)
 - [Dev.to/JS] [Meet Kandinsky 2.2: &quot;It&#39;s Like if Midjourney Had an API&quot;](https://dev.to/mikeyoung44/meet-kandinsky-22-its-like-if-midjourney-had-an-api-11ha)
 - [Dev.to/JS] [8 HTML Tags That Are Cooler Than a Polar Bear in Ray-Bans 😎](https://dev.to/shivamblog/8-html-tags-that-are-cooler-than-a-polar-bear-in-ray-bans-12jg)
 - [Dev.to/JS] [Flickerless dark mode in 11ty with Tailwind CSS](https://dev.to/tengkufarhan/flickerless-dark-mode-in-11ty-with-tailwind-css-3ok)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello devs, see my portfolio:](https://dev.to/gabrielvesal/hello-devs-see-my-portfolio-4nej)
 - [Dev.to/JS] [🔍 &quot;Overlooked Use Cases in Your Tasks?&quot;](https://dev.to/matheusmorett2/overlooked-use-cases-in-your-tasks-5cdg)
 - [Dev.to/JS] [Stop Conditional Rendering in React Without Knowing This &lpar;&amp;&amp; and Ternary Operator&rpar;](https://dev.to/ubahthebuilder/stop-conditional-rendering-in-react-without-knowing-this-and-ternary-operator-388)
-- [Dev.to/JS] [Leet Code Challenge - Easy](https://dev.to/juniorbatistadev/leet-code-challenge-2hgh)
-- [Dev.to/JS] [Tech Foutraque #13 | Discover the latest trends](https://dev.to/tech_foutraque/tech-foutraque-13-frontend-digest-514e)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
