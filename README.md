@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Gutter Guards You Can Install on Your Own](https://lifehacker.com/the-best-gutter-guards-you-can-install-on-your-own-1850802057?utm_source=regular)
+- [Lifehacker] [These Are the Signs of Hearing Loss in Children](https://lifehacker.com/these-are-the-signs-of-hearing-loss-in-children-1850796880?utm_source=regular)
+- [Dev.to/JS] [Get FREE Access to My Paid React Router 6 Course](https://dev.to/myogeshchavan97/get-free-access-to-my-paid-react-router-6-course-4mng)
+- [Dev.to/JS] [Enabling Multiple Roles within Role-Based Authentication in Angular](https://dev.to/chintanonweb/enabling-multiple-roles-within-role-based-authentication-in-angular-2dcd)
+- [Dev.to/JS] [Bento Layouts Tilt Me](https://dev.to/devslovecoffee/bento-layouts-tilt-me-fek)
+- [Lifehacker] [The Best Cheap Birthday Parties Under $50 for Kids](https://lifehacker.com/the-best-cheap-birthday-party-ideas-for-kids-1850794611?utm_source=regular)
 - [Dev.to/JS] [Encode URL in Javascript](https://dev.to/jrajput315/encode-url-in-javascript-2j72)
 - [Dev.to/JS] [Color Flipper](https://dev.to/faisgit/color-flipper-2p3h)
 - [Dev.to/JS] [$render — write React with pure JavaScript.](https://dev.to/codingnninja/render-write-react-with-pure-javascript-49cc)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animated Login Form Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/animated-login-form-using-html-css-javascript-350p)
 - [Dev.to/JS] [How to Embed Google Map in HTML Using iFrame](https://dev.to/onlineittutstutorials/how-to-embed-google-map-in-html-using-iframe-4iio)
 - [Dev.to/JS] [Pure Critique of Pure Functions in Functional Programming](https://dev.to/artxe2/pure-critique-of-pure-functions-in-functional-programming-4fkn)
-- [Dev.to/JS] [iOS APP version update and upgrade tutorial: How to package and submit a new version of the APP for review?](https://dev.to/iosdevlop/ios-app-version-update-and-upgrade-tutorial-how-to-package-and-submit-a-new-version-of-the-app-for-review-4okh)
-- [Dev.to/JS] [Code Untangled: Immutability](https://dev.to/mensurdurakovic7/code-untangled-immutability-5k7)
-- [Dev.to/JS] [LearnIt - An open source book distribution site](https://dev.to/vivek09thakur/learnit-an-open-source-book-distribution-site-195h)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Get Free Air for Your Tires](https://lifehacker.com/where-to-get-free-air-for-your-tires-1850792700?utm_source=regular)
 - [Lifehacker] [Avoid These Common Gallery Wall Mistakes](https://lifehacker.com/avoid-these-common-gallery-wall-mistakes-1850792741?utm_source=regular)
 - [Lifehacker] [The Best Ways to Develop Your Conversational Intelligence](https://lifehacker.com/the-best-ways-to-develop-your-conversational-intelligen-1850792824?utm_source=regular)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)
-- [Lifehacker] [This Rosetta Stone Bundle Is $160 Right Now](https://lifehacker.com/this-rosetta-stone-bundle-is-160-right-now-1850790237?utm_source=regular)
-- [Lifehacker] [Homemade Magic Shell Is Almost Too Easy](https://lifehacker.com/easy-chocolate-magic-shell-recipe-1850797444?utm_source=regular)
-- [Lifehacker] [How to Actually Tie Your Shoes Correctly](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 2](https://lifehacker.com/connections-answer-today-september-2-2023-1850795946?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
