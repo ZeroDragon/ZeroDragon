@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplifying GraphQL API Development with Code-First Approach, Nexus, and Prisma](https://dev.to/blazestudios23/simplifying-graphql-api-development-with-code-first-approach-nexus-and-prisma-n63)
+- [Lifehacker] [12 of the Funniest Fiction Podcasts](https://lifehacker.com/funniest-fiction-podcasts-1850802452?utm_source=regular)
+- [Dev.to/JS] [This New React Hook Changes How You Use Forms](https://dev.to/ubahthebuilder/this-new-react-hook-changes-how-you-use-forms-2ohb)
+- [Dev.to/JS] [The case of the non-stringifyable value](https://dev.to/sabberworm/the-case-of-the-non-stringifyable-value-5bj3)
+- [Dev.to/JS] [Comparing LLMs For Coding - Golden Ticket, or Fool&#39;s Gold?](https://dev.to/svper563/comparing-popular-llms-for-coding-whos-the-king-klo)
+- [Lifehacker] [You Might Be Able to Use Your Employee Benefits for Student Loan Payments](https://lifehacker.com/you-might-be-able-to-use-your-employee-benefits-for-stu-1850802250?utm_source=regular)
 - [Dev.to/JS] [JavaScript Code Security: A Deep Dive](https://dev.to/dominicazuka/javascript-code-security-a-deep-dive-1fpa)
 - [Lifehacker] [Four Strategies for Handling Your Brain&#39;s &#39;Waiting Mode&#39;](https://lifehacker.com/four-strategies-for-handling-your-brains-waiting-mode-1850803018?utm_source=regular)
 - [Dev.to/JS] [You might not need TypeScript Enum](https://dev.to/maafaishal/you-might-not-need-typescript-enum-1f4n)
@@ -42,10 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enabling Multiple Roles within Role-Based Authentication in Angular](https://dev.to/chintanonweb/enabling-multiple-roles-within-role-based-authentication-in-angular-2dcd)
 - [Dev.to/JS] [Bento Layouts Tilt Me](https://dev.to/devslovecoffee/bento-layouts-tilt-me-fek)
 - [Lifehacker] [The Best Cheap Birthday Parties Under $50 for Kids](https://lifehacker.com/the-best-cheap-birthday-party-ideas-for-kids-1850794611?utm_source=regular)
-- [Dev.to/JS] [Encode URL in Javascript](https://dev.to/jrajput315/encode-url-in-javascript-2j72)
-- [Dev.to/JS] [Color Flipper](https://dev.to/faisgit/color-flipper-2p3h)
-- [Dev.to/JS] [$render — write React with pure JavaScript.](https://dev.to/codingnninja/render-write-react-with-pure-javascript-49cc)
-- [Dev.to/JS] [Introducing DevConnect: A Real-time Chat App Built with Express &amp; Node.js](https://dev.to/shawn2208/introducing-devconnect-a-real-time-chat-app-built-with-express-nodejs-17dj)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Lose Your Cheesemaking Virginity to Chèvre](https://lifehacker.com/how-to-make-goat-cheese-1850488573?utm_source=regular)
 - [Lifehacker] [Everything You Need to Make Your Own Cheese](https://lifehacker.com/everything-you-need-to-make-your-own-cheese-1850421571?utm_source=regular)
 - [Lifehacker] [You Can Get Dollar Flight Club for $60 Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-for-60-right-now-1850792473?utm_source=regular)
-- [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)
-- [Lifehacker] [The Most Effective Ways to Deal With Entitled Coworkers](https://lifehacker.com/the-most-effective-ways-to-deal-with-entitled-coworkers-1850792623?utm_source=regular)
-- [Lifehacker] [You Should Wet Your Dustpan Before Using It](https://lifehacker.com/you-should-wet-your-dustpan-before-using-it-1850792655?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Store Your Emergency Water Supply](https://lifehacker.com/the-best-way-to-store-your-emergency-water-supply-1850792598?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
