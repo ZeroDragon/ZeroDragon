@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get This iCollege Beginner&#39;s Cybersecurity Course for $70](https://lifehacker.com/you-can-get-this-icollege-beginners-cybersecurity-cours-1850792590?utm_source=regular)
+- [Lifehacker] [How to Hide Your OnlyFans Payments History](https://lifehacker.com/how-to-hide-your-onlyfans-payments-history-1850805975?utm_source=regular)
+- [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341?utm_source=regular)
 - [Lifehacker] [How to Make Mayonnaise by Hand &lpar;With or Without a Blender&rpar;](https://lifehacker.com/how-to-make-mayonnaise-by-hand-1850805172?utm_source=regular)
+- [Dev.to/JS] [Episode 23/35: DDD with Nx, Cypress 13, Protractor EoL](https://dev.to/this-is-angular/episode-2335-ddd-with-nx-cypress-13-protractor-eol-40gn)
 - [Lifehacker] [Why Weather Forecasts Are Only Accurate Two Weeks Out](https://lifehacker.com/why-weather-forecasts-are-only-accurate-two-weeks-out-1850653154?utm_source=regular)
 - [Lifehacker] [How to Overwinter Your Tomato Plants](https://lifehacker.com/how-to-overwinter-your-tomato-plants-1850805342?utm_source=regular)
 - [Lifehacker] [You Can Keep Cocktails Cold Without Ice](https://lifehacker.com/you-can-keep-cocktails-cold-without-ice-1850805314?utm_source=regular)
@@ -48,13 +52,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Plant These Vegetables This Fall to Harvest Next Spring](https://lifehacker.com/plant-these-vegetables-this-fall-to-harvest-next-spring-1850803128?utm_source=regular)
 - [Dev.to/JS] [Simplifying GraphQL API Development with Code-First Approach, Nexus, and Prisma](https://dev.to/blazestudios23/simplifying-graphql-api-development-with-code-first-approach-nexus-and-prisma-n63)
 - [Lifehacker] [12 of the Funniest Comedy Fiction Podcasts](https://lifehacker.com/funniest-fiction-podcasts-1850802452?utm_source=regular)
-- [Dev.to/JS] [This New React Hook Changes How You Use Forms](https://dev.to/ubahthebuilder/this-new-react-hook-changes-how-you-use-forms-2ohb)
+- [Dev.to/JS] [useFormStatus: This New React Hook Changes How You Use Forms](https://dev.to/ubahthebuilder/this-new-react-hook-changes-how-you-use-forms-2ohb)
 - [Dev.to/JS] [The case of the non-stringifyable value](https://dev.to/sabberworm/the-case-of-the-non-stringifyable-value-5bj3)
 - [Dev.to/JS] [Comparing LLMs For Coding - Golden Ticket, or Fool&#39;s Gold?](https://dev.to/svper563/comparing-popular-llms-for-coding-whos-the-king-klo)
 - [Lifehacker] [You Might Be Able to Use Your Employee Benefits for Student Loan Payments](https://lifehacker.com/you-might-be-able-to-use-your-employee-benefits-for-stu-1850802250?utm_source=regular)
 - [Dev.to/JS] [JavaScript Code Security: A Deep Dive](https://dev.to/dominicazuka/javascript-code-security-a-deep-dive-1fpa)
 - [Lifehacker] [Four Strategies for Handling Your Brain&#39;s &#39;Waiting Mode&#39;](https://lifehacker.com/four-strategies-for-handling-your-brains-waiting-mode-1850803018?utm_source=regular)
-- [Dev.to/JS] [You might not need TypeScript Enum](https://dev.to/maafaishal/you-might-not-need-typescript-enum-1f4n)
 - [Lifehacker] [This Map Predicts Peak Fall Foliage Across the US](https://lifehacker.com/this-map-predicts-peak-fall-foliage-across-the-us-1850803042?utm_source=regular)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 5](https://lifehacker.com/connections-answer-today-september-5-2023-1850803783?utm_source=regular)
 - [Lifehacker] [This Refurbished Microsoft Surface Pro 7 Is $55% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-pro-7-is-55-off-ri-1850792742?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Gutter Guards You Can Install on Your Own](https://lifehacker.com/the-best-gutter-guards-you-can-install-on-your-own-1850802057?utm_source=regular)
 - [Lifehacker] [These Are the Signs of Hearing Loss in Children](https://lifehacker.com/these-are-the-signs-of-hearing-loss-in-children-1850796880?utm_source=regular)
 - [Lifehacker] [The Best Cheap Birthday Parties Under $50 for Kids](https://lifehacker.com/the-best-cheap-birthday-party-ideas-for-kids-1850794611?utm_source=regular)
-- [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
-- [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
-- [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
-- [Lifehacker] [Real Cheeseheads Make Their Own Squeaky Curds](https://lifehacker.com/how-to-make-cheese-curds-1850488334?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
