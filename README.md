@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Communal Living Might Be the Answer](https://lifehacker.com/why-communal-living-might-be-the-answer-1850804509?utm_source=regular)
+- [Dev.to/JS] [New certification from FreedomwithAI](https://dev.to/kssaiteja/new-certification-from-freedomwithai-dn0)
+- [Lifehacker] [What to Consider Before Buying a Used Peloton](https://lifehacker.com/peloton-bike-review-1850804329?utm_source=regular)
+- [Dev.to/JS] [The Power of Pure Functions: Why Every JavaScript Dev Should Care!](https://dev.to/jcvb/the-power-of-pure-functions-why-every-javascript-dev-should-care-58f5)
+- [Lifehacker] [How to Get Slime Out of Clothes and Upholstery](https://lifehacker.com/how-to-get-slime-out-of-clothes-and-upholstery-1848539844?utm_source=regular)
 - [Lifehacker] [You Can Get 15 Bottles of Swirl Wine for $64 Right Now](https://lifehacker.com/you-can-get-15-bottles-of-swirl-wine-for-64-right-now-1850792657?utm_source=regular)
 - [Dev.to/JS] [10 Lesser-Known JavaScript Array Methods You Might’ve Missed](https://dev.to/mainulspace/10-lesser-known-javascript-array-methods-you-mightve-missed-32b3)
 - [Dev.to/JS] [Event Bubbling and Throttling in JavaScript](https://dev.to/syedmuhammadaliraza/event-bubbling-and-throttling-in-javascript-5831)
@@ -45,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Code Security: A Deep Dive](https://dev.to/dominicazuka/javascript-code-security-a-deep-dive-1fpa)
 - [Lifehacker] [Four Strategies for Handling Your Brain&#39;s &#39;Waiting Mode&#39;](https://lifehacker.com/four-strategies-for-handling-your-brains-waiting-mode-1850803018?utm_source=regular)
 - [Dev.to/JS] [You might not need TypeScript Enum](https://dev.to/maafaishal/you-might-not-need-typescript-enum-1f4n)
-- [Dev.to/JS] [The Power of a Positive Mindset: Fueling Your Progress](https://dev.to/saidlaasri/the-power-of-a-positive-mindset-fueling-your-progress-1n84)
-- [Dev.to/JS] [What Is HTML? | Introduction by @incoderweb | HTML Series Part 1](https://dev.to/incoderweb/what-is-html-introduction-by-incoderweb-html-series-part-1-24o6)
 - [Lifehacker] [This Map Predicts Peak Fall Foliage Across the US](https://lifehacker.com/this-map-predicts-peak-fall-foliage-across-the-us-1850803042?utm_source=regular)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 5](https://lifehacker.com/connections-answer-today-september-5-2023-1850803783?utm_source=regular)
 - [Lifehacker] [This Refurbished Microsoft Surface Pro 7 Is $55% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-pro-7-is-55-off-ri-1850792742?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Sexy, Gooey Camembert](https://lifehacker.com/how-to-make-sexy-gooey-camembert-1850488340?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Make Fresh Mozzarella &lpar;and Burrata&rpar;](https://lifehacker.com/how-to-make-fresh-mozzarella-and-burrata-1850468281?utm_source=regular)
 - [Lifehacker] [Avoid These Mistakes When Planting Bulbs in the Fall](https://lifehacker.com/avoid-these-mistakes-when-planting-bulbs-in-the-fall-1850792548?utm_source=regular)
-- [Lifehacker] [You Should Preserve Your Feta in Oil](https://lifehacker.com/you-should-preserve-your-feta-in-oil-1850488381?utm_source=regular)
-- [Lifehacker] [Homemade Feta Is Better Than What You Can Get at the Store](https://lifehacker.com/how-to-make-feta-cheese-1850788489?utm_source=regular)
-- [Lifehacker] [Turn Creamy Ricotta Into a Hard Grating Cheese](https://lifehacker.com/turn-creamy-ricotta-into-a-hard-grating-cheese-1850488323?utm_source=regular)
-- [Lifehacker] [This DIY Cheese Press Is Better Than Anything You Can Buy](https://lifehacker.com/this-diy-cheese-press-is-better-than-anything-you-can-b-1850488353?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Preserve Your Feta in Oil](https://lifehacker.com/you-should-preserve-your-feta-in-oil-1850488381?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
