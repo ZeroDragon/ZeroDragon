@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Your Own Labneh &lpar;and How to Eat It&rpar;](https://lifehacker.com/easy-labneh-recipe-1796785416?utm_source=regular)
 - [Lifehacker] [Why Communal Living Might Be the Answer](https://lifehacker.com/why-communal-living-might-be-the-answer-1850804509?utm_source=regular)
 - [Dev.to/JS] [New certification from FreedomwithAI](https://dev.to/kssaiteja/new-certification-from-freedomwithai-dn0)
 - [Lifehacker] [What to Consider Before Buying a Used Peloton](https://lifehacker.com/peloton-bike-review-1850804329?utm_source=regular)
@@ -42,7 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Differences Between the Steam Deck and Lenovo Legion Go](https://lifehacker.com/the-differences-between-the-steam-deck-and-lenovo-legio-1850802411?utm_source=regular)
 - [Lifehacker] [Plant These Vegetables This Fall to Harvest Next Spring](https://lifehacker.com/plant-these-vegetables-this-fall-to-harvest-next-spring-1850803128?utm_source=regular)
 - [Dev.to/JS] [Simplifying GraphQL API Development with Code-First Approach, Nexus, and Prisma](https://dev.to/blazestudios23/simplifying-graphql-api-development-with-code-first-approach-nexus-and-prisma-n63)
-- [Lifehacker] [12 of the Funniest Fiction Podcasts](https://lifehacker.com/funniest-fiction-podcasts-1850802452?utm_source=regular)
+- [Lifehacker] [12 of the Funniest Comedy Fiction Podcasts](https://lifehacker.com/funniest-fiction-podcasts-1850802452?utm_source=regular)
 - [Dev.to/JS] [This New React Hook Changes How You Use Forms](https://dev.to/ubahthebuilder/this-new-react-hook-changes-how-you-use-forms-2ohb)
 - [Dev.to/JS] [The case of the non-stringifyable value](https://dev.to/sabberworm/the-case-of-the-non-stringifyable-value-5bj3)
 - [Dev.to/JS] [Comparing LLMs For Coding - Golden Ticket, or Fool&#39;s Gold?](https://dev.to/svper563/comparing-popular-llms-for-coding-whos-the-king-klo)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cheese Wrapping Is an Essential Part of Cheesemaking](https://lifehacker.com/cheese-wrapping-is-an-essential-part-of-cheesemaking-1850488819?utm_source=regular)
 - [Lifehacker] [How to Make Sexy, Gooey Camembert](https://lifehacker.com/how-to-make-sexy-gooey-camembert-1850488340?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Make Fresh Mozzarella &lpar;and Burrata&rpar;](https://lifehacker.com/how-to-make-fresh-mozzarella-and-burrata-1850468281?utm_source=regular)
-- [Lifehacker] [Avoid These Mistakes When Planting Bulbs in the Fall](https://lifehacker.com/avoid-these-mistakes-when-planting-bulbs-in-the-fall-1850792548?utm_source=regular)
-- [Lifehacker] [You Should Preserve Your Feta in Oil](https://lifehacker.com/you-should-preserve-your-feta-in-oil-1850488381?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid These Mistakes When Planting Bulbs in the Fall](https://lifehacker.com/avoid-these-mistakes-when-planting-bulbs-in-the-fall-1850792548?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
