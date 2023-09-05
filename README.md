@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Untangled: Immutability](https://dev.to/mensurdurakovic7/code-untangled-immutability-5k7)
+- [Dev.to/JS] [LearnIt - An open source book distribution site](https://dev.to/vivek09thakur/learnit-an-open-source-book-distribution-site-195h)
+- [Dev.to/JS] [Angular Routing: Advanced Concepts and Best Practices](https://dev.to/chintanonweb/angular-routing-advanced-concepts-and-best-practices-34fo)
+- [Dev.to/JS] [React Native Code Splitting: Optimizing Performance and Reducing App Size](https://dev.to/crossskatee1/react-native-code-splitting-optimizing-performance-and-reducing-app-size-40ef)
 - [Dev.to/JS] [As a newbie should i take the UI of my projects seriously](https://dev.to/mtendekuyokwa19/as-a-newbie-should-i-take-the-ui-of-my-projects-seriously-5fp2)
 - [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 6](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-6-1b04)
 - [Dev.to/JS] [Key Qualities of the Best Software Development Company](https://dev.to/go-techsolution/key-qualities-of-the-best-software-development-company-57m7)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meet Kandinsky 2.2: &quot;It&#39;s Like if Midjourney Had an API&quot;](https://dev.to/mikeyoung44/meet-kandinsky-22-its-like-if-midjourney-had-an-api-11ha)
 - [Dev.to/JS] [8 HTML Tags That Are Cooler Than a Polar Bear in Ray-Bans 😎](https://dev.to/shivamblog/8-html-tags-that-are-cooler-than-a-polar-bear-in-ray-bans-12jg)
 - [Dev.to/JS] [Flickerless dark mode in 11ty with Tailwind CSS](https://dev.to/tengkufarhan/flickerless-dark-mode-in-11ty-with-tailwind-css-3ok)
-- [Dev.to/JS] [Next.js 13 Data Fetching with App Router](https://dev.to/jaycedotbin/nextjs-13-data-fetching-with-app-router-289h)
-- [Dev.to/JS] [A draggable Orientation component](https://dev.to/rabbitzzc/a-draggable-orientation-component-2c7d)
-- [Dev.to/JS] [Building Interactive Real-Time Apps with Socket.IO in Node.js:](https://dev.to/collinsoden/building-interactive-real-time-apps-with-socketio-in-nodejs-3l03)
-- [Dev.to/JS] [Hello devs, see my portfolio:](https://dev.to/gabrielvesal/hello-devs-see-my-portfolio-4nej)
 - [Lifehacker] [This Refurbished MacBook Air Is $175 Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-175-off-right-now-1850792433?utm_source=regular)
 - [Lifehacker] [Fondue Doesn&#39;t Have to Be Intimidating](https://lifehacker.com/how-to-make-cheese-fondue-1850488348?utm_source=regular)
 - [Lifehacker] [Why You Shouldn&#39;t Use Exterior Paint Inside](https://lifehacker.com/why-you-shouldnt-use-exterior-paint-inside-1850792514?utm_source=regular)
