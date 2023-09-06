@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning JavaScript the Easy Way: Unlocking the Power of Scope with Closures](https://dev.to/unkletayo/learning-javascript-the-easy-way-unlocking-the-power-of-scope-with-closures-3mgb)
+- [Lifehacker] [Turn Your Bounty of Peppers Into Spicy Pepper Jelly](https://lifehacker.com/easy-pepper-jelly-recipe-for-canning-1850809366?utm_source=regular)
+- [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576?utm_source=regular)
+- [Dev.to/JS] [Understanding NaN Equality in JavaScript](https://dev.to/mmvergara/understanding-nan-equality-in-javascript-n10)
 - [Lifehacker] [Four Ways to Make the Dog Park Safer for Your Dog](https://lifehacker.com/are-dog-parks-safe-for-dogs-1850809221?utm_source=regular)
 - [Dev.to/JS] [Agile Board: A Trello-like API in NestJS with Unit and e2e Testing](https://dev.to/malikidrees/agile-board-a-trello-like-api-in-nestjs-with-unit-and-e2e-testing-4823)
 - [Dev.to/JS] [ARE WEB 3 PROJECT COST EFFECTIVE?](https://dev.to/scofieldidehen/are-web-3-project-cost-effective-34jn)
@@ -37,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 10 Largest Cities &lpar;Relatively&rpar; Safe From Climate Change](https://lifehacker.com/us-cities-safest-from-climate-change-1850809083?utm_source=regular)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134?utm_source=regular)
 - [Dev.to/JS] [JavaScript for Beginners: A Comprehensive Guide](https://dev.to/grenishrai/javascript-for-beginners-a-comprehensive-guide-387k)
-- [Dev.to/JS] [Repair Dental X-Ray Sensor in USA](https://dev.to/xraysensorrepair/repair-dental-x-ray-sensor-in-usa-47h2)
 - [Dev.to/JS] [Build a real-time dashboard with Next.js, Tremor, and Tinybird](https://dev.to/tinybirdco/build-a-real-time-dashboard-with-nextjs-tremor-and-tinybird-2gfl)
-- [Dev.to/JS] [Instant Brewery App: Craft Beer Discovery Made Effortless](https://dev.to/stryill/instant-brewery-app-craft-beer-discovery-made-effortless-4900)
 - [Lifehacker] [The Samsung Galaxy Z Flip 5 Is Cheaper Than Ever Right Now](https://lifehacker.com/the-samsung-galaxy-z-flip-5-is-cheaper-than-ever-right-1850808852?utm_source=regular)
 - [Dev.to/JS] [BroadcastChannel API: Sending Messages Between Tabs](https://dev.to/naimur/broadcastchannel-api-sending-messages-between-tabs-59m9)
 - [Lifehacker] [Why You Should Marble Your Cakes With a Spoon Instead of a Toothpick](https://lifehacker.com/why-you-should-marble-your-cakes-with-a-spoon-instead-o-1850808851?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hide Your OnlyFans Payments History](https://lifehacker.com/how-to-hide-your-onlyfans-payments-history-1850805975?utm_source=regular)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341?utm_source=regular)
 - [Lifehacker] [How to Make Mayonnaise by Hand &lpar;With or Without a Blender&rpar;](https://lifehacker.com/how-to-make-mayonnaise-by-hand-1850805172?utm_source=regular)
-- [Lifehacker] [Why Weather Forecasts Are Only Accurate Two Weeks Out](https://lifehacker.com/why-weather-forecasts-are-only-accurate-two-weeks-out-1850653154?utm_source=regular)
-- [Lifehacker] [How to Overwinter Your Tomato Plants](https://lifehacker.com/how-to-overwinter-your-tomato-plants-1850805342?utm_source=regular)
-- [Lifehacker] [You Can Keep Cocktails Cold Without Ice](https://lifehacker.com/you-can-keep-cocktails-cold-without-ice-1850805314?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Weather Forecasts Are Only Accurate Two Weeks Out](https://lifehacker.com/why-weather-forecasts-are-only-accurate-two-weeks-out-1850653154?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
