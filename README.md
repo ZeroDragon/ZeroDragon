@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a real-time dashboard with Next.js, Tremor, and Tinybird](https://dev.to/tinybirdco/build-a-real-time-dashboard-with-nextjs-tremor-and-tinybird-2gfl)
+- [Dev.to/JS] [Instant Brewery App: Craft Beer Discovery Made Effortless](https://dev.to/stryill/instant-brewery-app-craft-beer-discovery-made-effortless-4900)
+- [Lifehacker] [The Samsung Galaxy Z Flip 5 Is Cheaper Than Ever Right Now](https://lifehacker.com/the-samsung-galaxy-z-flip-5-is-cheaper-than-ever-right-1850808852?utm_source=regular)
+- [Dev.to/JS] [BroadcastChannel API: Sending Messages Between Tabs](https://dev.to/naimur/broadcastchannel-api-sending-messages-between-tabs-59m9)
+- [Lifehacker] [Why You Should Marble Your Cakes With a Spoon Instead of a Toothpick](https://lifehacker.com/why-you-should-marble-your-cakes-with-a-spoon-instead-o-1850808851?utm_source=regular)
+- [Lifehacker] [Use ‘Distributed Practice’ to Better Retain What You Study](https://lifehacker.com/use-distributed-practice-to-better-retain-what-you-st-1850808691?utm_source=regular)
 - [Lifehacker] [The Difference Between a Mortgage’s APR and Interest Rate](https://lifehacker.com/difference-between-apr-and-interest-rate-1850808813?utm_source=regular)
 - [Lifehacker] [You Can Get This Four-Device Charging Station for $26 Right Now](https://lifehacker.com/you-can-get-this-four-device-charging-station-for-26-r-1850806555?utm_source=regular)
 - [Dev.to/JS] [Migrating My Site To Astro](https://dev.to/noobscience123/migrating-my-site-to-astro-37ic)
@@ -40,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Day in the Life of a Lead Software Engineer](https://dev.to/mxnuchim/a-day-in-the-life-of-a-lead-software-engineer-4o26)
 - [Dev.to/JS] [Nx 16.8 Release!!!](https://dev.to/nx/nx-168-release-mn5)
 - [Lifehacker] [These Are the Best Budget Gaming Laptops in 2023](https://lifehacker.com/best-budget-gaming-laptops-1850806628?utm_source=regular)
-- [Dev.to/JS] [Leet Code — 2723. Add Two Promises](https://dev.to/bendlmp/leet-code-2723-add-two-promises-4477)
 - [Lifehacker] [The Best Board Games for Screen-Obsessed Kids](https://lifehacker.com/best-board-games-kids-1850807151?utm_source=regular)
-- [Dev.to/JS] [🔥We&#39;re Back and Stronger Than Ever!🔥](https://dev.to/jsworldconference/were-back-and-stronger-than-ever-146i)
-- [Dev.to/JS] [Day 42: Typed Functions](https://dev.to/dhrn/day-42-typed-functions-588j)
 - [Lifehacker] [Give Your Tuna Salad Some Crunch Without Celery](https://lifehacker.com/tuna-salad-without-celery-1850805972?utm_source=regular)
 - [Lifehacker] [Make Your Own Wordles With ‘Custom Wordle’](https://lifehacker.com/make-your-own-wordles-with-custom-wordle-1850805310?utm_source=regular)
 - [Lifehacker] [What to Do When You See a Downed Power Line](https://lifehacker.com/what-to-do-when-you-see-a-downed-power-line-1850803210?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Consider Before Buying a Used Peloton](https://lifehacker.com/peloton-bike-review-1850804329?utm_source=regular)
 - [Lifehacker] [How to Get Slime Out of Clothes and Upholstery](https://lifehacker.com/how-to-get-slime-out-of-clothes-and-upholstery-1848539844?utm_source=regular)
 - [Lifehacker] [You Can Get 15 Bottles of Swirl Wine for $64 Right Now](https://lifehacker.com/you-can-get-15-bottles-of-swirl-wine-for-64-right-now-1850792657?utm_source=regular)
-- [Lifehacker] [How to Overwinter Your Pepper Plants](https://lifehacker.com/how-to-overwinter-your-pepper-plants-1850800893?utm_source=regular)
-- [Lifehacker] [Here Are the Best Streaming Discounts for Students](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322?utm_source=regular)
-- [Lifehacker] [Make Perfectly Fudgey Fudge Pops With Silken Tofu](https://lifehacker.com/make-perfectly-fudgey-fudge-pops-with-silken-tofu-1850804032?utm_source=regular)
-- [Lifehacker] [The Differences Between the Steam Deck and Lenovo Legion Go](https://lifehacker.com/the-differences-between-the-steam-deck-and-lenovo-legio-1850802411?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Overwinter Your Pepper Plants](https://lifehacker.com/how-to-overwinter-your-pepper-plants-1850800893?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
