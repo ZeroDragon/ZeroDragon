@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Full-Stack Dev. Requirements in JavaScript](https://dev.to/mursalfk/full-stack-dev-requirements-in-javascript-4j56)
+- [Dev.to/JS] [A Guide to Node.js Streams: Advanced Functionality](https://dev.to/idurar/a-guide-to-nodejs-streams-advanced-functionality-kf4)
+- [Lifehacker] [Do These Things Before You Quit Your Job](https://lifehacker.com/do-these-things-before-you-quit-your-job-1850765783?utm_source=regular)
+- [Dev.to/JS] [Mastering Javascript before 30](https://dev.to/darius410/mastering-javascript-before-30-1j49)
 - [Lifehacker] [This Apple Magic Keyboard Folio for iPad &lpar;10th Gen&rpar; Is $107 Right Now](https://lifehacker.com/this-apple-magic-keyboard-folio-for-ipad-10th-gen-is-1850792794?utm_source=regular)
 - [Dev.to/JS] [It&#39;s Alive?](https://dev.to/bradleytroll/its-alive-51pm)
 - [Dev.to/JS] [A Day in the Life of a Lead Software Engineer](https://dev.to/mxnuchim/a-day-in-the-life-of-a-lead-software-engineer-4o26)
@@ -40,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Your Own Wordles With ‘Custom Wordle’](https://lifehacker.com/make-your-own-wordles-with-custom-wordle-1850805310?utm_source=regular)
 - [Dev.to/JS] [Learn Basic Hooks in React](https://dev.to/easewithtuts/learn-basic-hooks-in-react-1fea)
 - [Dev.to/JS] [Challenges of Reusable Components in Vue.js 🤔 and How to Overcome them 💯](https://dev.to/fangtanbamrung/challenges-of-reusable-components-in-vuejs-and-how-to-overcome-them-4g6d)
-- [Dev.to/JS] [Learn JavaScript DOM Manipulation](https://dev.to/easewithtuts/learn-javascript-dom-manipulation-c6l)
 - [Lifehacker] [What to Do When You See a Downed Power Line](https://lifehacker.com/what-to-do-when-you-see-a-downed-power-line-1850803210?utm_source=regular)
-- [Dev.to/JS] [Learn Intersection Observer in JavaScript](https://dev.to/easewithtuts/learn-intersection-observer-in-javascript-e9h)
-- [Dev.to/JS] [Mastering ES6 - IIFE](https://dev.to/easewithtuts/mastering-es6-iife-3ah2)
 - [Lifehacker] [How to Skip Your Period Safely](https://lifehacker.com/how-to-skip-your-period-safely-1850804859?utm_source=regular)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 6](https://lifehacker.com/connections-answer-today-september-6-2023-1850803720?utm_source=regular)
 - [Lifehacker] [How to Choose the Best Weightlifting Straps](https://lifehacker.com/the-three-types-of-deadlift-straps-and-how-to-choose-t-1847467436?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Perfectly Fudgey Fudge Pops With Silken Tofu](https://lifehacker.com/make-perfectly-fudgey-fudge-pops-with-silken-tofu-1850804032?utm_source=regular)
 - [Lifehacker] [The Differences Between the Steam Deck and Lenovo Legion Go](https://lifehacker.com/the-differences-between-the-steam-deck-and-lenovo-legio-1850802411?utm_source=regular)
 - [Lifehacker] [Plant These Vegetables This Fall to Harvest Next Spring](https://lifehacker.com/plant-these-vegetables-this-fall-to-harvest-next-spring-1850803128?utm_source=regular)
-- [Lifehacker] [12 of the Funniest Comedy Fiction Podcasts](https://lifehacker.com/funniest-fiction-podcasts-1850802452?utm_source=regular)
-- [Lifehacker] [You Might Be Able to Use Your Employee Benefits for Student Loan Payments](https://lifehacker.com/you-might-be-able-to-use-your-employee-benefits-for-stu-1850802250?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 of the Funniest Comedy Fiction Podcasts](https://lifehacker.com/funniest-fiction-podcasts-1850802452?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
