@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript OAuth 2.0 &lpar;part 1&rpar; - Crypto](https://dev.to/asg5704/javascript-oauth-20-part-1-crypto-3p4f)
 - [Lifehacker] [How to Choose the Best Weightlifting Straps](https://lifehacker.com/the-three-types-of-deadlift-straps-and-how-to-choose-t-1847467436?utm_source=regular)
 - [Lifehacker] [You Can Get This iCollege Beginner&#39;s Cybersecurity Course for $70](https://lifehacker.com/you-can-get-this-icollege-beginners-cybersecurity-cours-1850792590?utm_source=regular)
 - [Lifehacker] [How to Hide Your OnlyFans Payments History](https://lifehacker.com/how-to-hide-your-onlyfans-payments-history-1850805975?utm_source=regular)
@@ -57,7 +58,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The case of the non-stringifyable value](https://dev.to/sabberworm/the-case-of-the-non-stringifyable-value-5bj3)
 - [Dev.to/JS] [Comparing LLMs For Coding - Golden Ticket, or Fool&#39;s Gold?](https://dev.to/svper563/comparing-popular-llms-for-coding-whos-the-king-klo)
 - [Lifehacker] [You Might Be Able to Use Your Employee Benefits for Student Loan Payments](https://lifehacker.com/you-might-be-able-to-use-your-employee-benefits-for-stu-1850802250?utm_source=regular)
-- [Dev.to/JS] [JavaScript Code Security: A Deep Dive](https://dev.to/dominicazuka/javascript-code-security-a-deep-dive-1fpa)
 - [Lifehacker] [Four Strategies for Handling Your Brain&#39;s &#39;Waiting Mode&#39;](https://lifehacker.com/four-strategies-for-handling-your-brains-waiting-mode-1850803018?utm_source=regular)
 - [Lifehacker] [This Map Predicts Peak Fall Foliage Across the US](https://lifehacker.com/this-map-predicts-peak-fall-foliage-across-the-us-1850803042?utm_source=regular)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 5](https://lifehacker.com/connections-answer-today-september-5-2023-1850803783?utm_source=regular)
