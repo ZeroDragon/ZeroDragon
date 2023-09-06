@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Playing with low-level memory in WebAssembly](https://dev.to/iprosk/playing-with-low-level-memory-in-webassembly-257i)
 - [Dev.to/JS] [A Comprehensive Guide to the `fetch&lpar;&rpar;` API](https://dev.to/easewithtuts/a-comprehensive-guide-to-the-fetch-api-b48)
 - [Dev.to/JS] [Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://dev.to/snyk/nodejs-vs-deno-vs-bun-javascript-runtime-comparison-15hk)
 - [Dev.to/JS] [Let&#39;s Explore Additional Hooks in React](https://dev.to/easewithtuts/lets-explore-additional-hooks-in-react-1l1d)
@@ -54,7 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Overwinter Your Pepper Plants](https://lifehacker.com/how-to-overwinter-your-pepper-plants-1850800893?utm_source=regular)
 - [Lifehacker] [Here Are the Best Streaming Discounts for Students](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322?utm_source=regular)
 - [Lifehacker] [Make Perfectly Fudgey Fudge Pops With Silken Tofu](https://lifehacker.com/make-perfectly-fudgey-fudge-pops-with-silken-tofu-1850804032?utm_source=regular)
-- [Dev.to/JS] [🎯 Supercharge Your React App Data Handling with Material-UI Data Grid Pro! 🚀](https://dev.to/anii1429/supercharge-your-react-app-data-handling-with-material-ui-data-grid-pro-36cl)
 - [Lifehacker] [The Differences Between the Steam Deck and Lenovo Legion Go](https://lifehacker.com/the-differences-between-the-steam-deck-and-lenovo-legio-1850802411?utm_source=regular)
 - [Lifehacker] [Plant These Vegetables This Fall to Harvest Next Spring](https://lifehacker.com/plant-these-vegetables-this-fall-to-harvest-next-spring-1850803128?utm_source=regular)
 - [Lifehacker] [12 of the Funniest Comedy Fiction Podcasts](https://lifehacker.com/funniest-fiction-podcasts-1850802452?utm_source=regular)
