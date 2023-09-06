@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quickbooks Online Payroll Support+1-866-265-2764](https://dev.to/sachin8956/quickbooks-online-payroll-support1-866-265-2764-3nap)
+- [Dev.to/JS] [Javascript Interview Questions &lpar; Closures &rpar; - Lexical Scope, Output based Questions, Currying](https://dev.to/xplodivity/javascript-interview-questions-closures-lexical-scope-output-based-questions-currying-3ngf)
+- [Dev.to/JS] [JavaScript Functions&lpar;Part 2&rpar;: Your Magic Spells](https://dev.to/init_chandan/javascript-functionspart-2-your-magic-spells-1kk7)
 - [Dev.to/JS] [Quickbooks Payroll Support+1-866-265-2764](https://dev.to/sachin8956/quickbooks-payroll-support1-866-265-2764-4dhn)
 - [Dev.to/JS] [Closure in javascript](https://dev.to/palchandu_dev/closure-in-javascript-23fl)
 - [Dev.to/JS] [What is &quot;main&quot; method in Java?](https://dev.to/rawati/what-is-main-method-in-java-48n0)
@@ -36,14 +39,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s Explore Additional Hooks in React](https://dev.to/easewithtuts/lets-explore-additional-hooks-in-react-1l1d)
 - [Dev.to/JS] [Master ES6 - Introduction](https://dev.to/easewithtuts/master-es6-introduction-4l8b)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 6](https://lifehacker.com/connections-answer-today-september-6-2023-1850803720?utm_source=regular)
-- [Dev.to/JS] [How to make this quick image change animation with JS!](https://dev.to/lensco825/how-to-make-this-quick-image-change-animation-with-js-5dke)
-- [Dev.to/JS] [JavaScript OAuth 2.0 &lpar;part 1&rpar; - Crypto](https://dev.to/asg5704/javascript-oauth-20-part-1-crypto-3p4f)
 - [Lifehacker] [How to Choose the Best Weightlifting Straps](https://lifehacker.com/the-three-types-of-deadlift-straps-and-how-to-choose-t-1847467436?utm_source=regular)
 - [Lifehacker] [You Can Get This iCollege Beginner&#39;s Cybersecurity Course for $70](https://lifehacker.com/you-can-get-this-icollege-beginners-cybersecurity-cours-1850792590?utm_source=regular)
 - [Lifehacker] [How to Hide Your OnlyFans Payments History](https://lifehacker.com/how-to-hide-your-onlyfans-payments-history-1850805975?utm_source=regular)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341?utm_source=regular)
 - [Lifehacker] [How to Make Mayonnaise by Hand &lpar;With or Without a Blender&rpar;](https://lifehacker.com/how-to-make-mayonnaise-by-hand-1850805172?utm_source=regular)
-- [Dev.to/JS] [Episode 23/35: DDD with Nx, Cypress 13, Protractor EoL](https://dev.to/this-is-angular/episode-2335-ddd-with-nx-cypress-13-protractor-eol-40gn)
 - [Lifehacker] [Why Weather Forecasts Are Only Accurate Two Weeks Out](https://lifehacker.com/why-weather-forecasts-are-only-accurate-two-weeks-out-1850653154?utm_source=regular)
 - [Lifehacker] [How to Overwinter Your Tomato Plants](https://lifehacker.com/how-to-overwinter-your-tomato-plants-1850805342?utm_source=regular)
 - [Lifehacker] [You Can Keep Cocktails Cold Without Ice](https://lifehacker.com/you-can-keep-cocktails-cold-without-ice-1850805314?utm_source=regular)
