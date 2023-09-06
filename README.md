@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Operator Precedence](https://dev.to/zouhair_sahtout/operator-precedence-3065)
+- [Lifehacker] [The 10 Largest Cities &lpar;Relatively&rpar; Safe From Climate Change](https://lifehacker.com/us-cities-safest-from-climate-change-1850809083?utm_source=regular)
+- [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134?utm_source=regular)
+- [Dev.to/JS] [JavaScript for Beginners: A Comprehensive Guide](https://dev.to/grenishrai/javascript-for-beginners-a-comprehensive-guide-387k)
+- [Dev.to/JS] [Repair Dental X-Ray Sensor in USA](https://dev.to/xraysensorrepair/repair-dental-x-ray-sensor-in-usa-47h2)
 - [Dev.to/JS] [Build a real-time dashboard with Next.js, Tremor, and Tinybird](https://dev.to/tinybirdco/build-a-real-time-dashboard-with-nextjs-tremor-and-tinybird-2gfl)
 - [Dev.to/JS] [Instant Brewery App: Craft Beer Discovery Made Effortless](https://dev.to/stryill/instant-brewery-app-craft-beer-discovery-made-effortless-4900)
 - [Lifehacker] [The Samsung Galaxy Z Flip 5 Is Cheaper Than Ever Right Now](https://lifehacker.com/the-samsung-galaxy-z-flip-5-is-cheaper-than-ever-right-1850808852?utm_source=regular)
@@ -42,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do These Things Before You Quit Your Job](https://lifehacker.com/do-these-things-before-you-quit-your-job-1850765783?utm_source=regular)
 - [Dev.to/JS] [Mastering Javascript before 30](https://dev.to/darius410/mastering-javascript-before-30-1j49)
 - [Lifehacker] [This Apple Magic Keyboard Folio for iPad &lpar;10th Gen&rpar; Is $107 Right Now](https://lifehacker.com/this-apple-magic-keyboard-folio-for-ipad-10th-gen-is-1850792794?utm_source=regular)
-- [Dev.to/JS] [It&#39;s Alive?](https://dev.to/bradleytroll/its-alive-51pm)
-- [Dev.to/JS] [A Day in the Life of a Lead Software Engineer](https://dev.to/mxnuchim/a-day-in-the-life-of-a-lead-software-engineer-4o26)
-- [Dev.to/JS] [Nx 16.8 Release!!!](https://dev.to/nx/nx-168-release-mn5)
 - [Lifehacker] [These Are the Best Budget Gaming Laptops in 2023](https://lifehacker.com/best-budget-gaming-laptops-1850806628?utm_source=regular)
 - [Lifehacker] [The Best Board Games for Screen-Obsessed Kids](https://lifehacker.com/best-board-games-kids-1850807151?utm_source=regular)
 - [Lifehacker] [Give Your Tuna Salad Some Crunch Without Celery](https://lifehacker.com/tuna-salad-without-celery-1850805972?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Own Labneh &lpar;and How to Eat It&rpar;](https://lifehacker.com/easy-labneh-recipe-1796785416?utm_source=regular)
 - [Lifehacker] [Why Communal Living Might Be the Answer](https://lifehacker.com/why-communal-living-might-be-the-answer-1850804509?utm_source=regular)
 - [Lifehacker] [What to Consider Before Buying a Used Peloton](https://lifehacker.com/peloton-bike-review-1850804329?utm_source=regular)
-- [Lifehacker] [How to Get Slime Out of Clothes and Upholstery](https://lifehacker.com/how-to-get-slime-out-of-clothes-and-upholstery-1848539844?utm_source=regular)
-- [Lifehacker] [You Can Get 15 Bottles of Swirl Wine for $64 Right Now](https://lifehacker.com/you-can-get-15-bottles-of-swirl-wine-for-64-right-now-1850792657?utm_source=regular)
-- [Lifehacker] [How to Overwinter Your Pepper Plants](https://lifehacker.com/how-to-overwinter-your-pepper-plants-1850800893?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Slime Out of Clothes and Upholstery](https://lifehacker.com/how-to-get-slime-out-of-clothes-and-upholstery-1848539844?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
