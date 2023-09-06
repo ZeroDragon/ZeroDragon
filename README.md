@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between a Mortgage’s APR and Interest Rate](https://lifehacker.com/difference-between-apr-and-interest-rate-1850808813?utm_source=regular)
+- [Lifehacker] [You Can Get This Four-Device Charging Station for $26 Right Now](https://lifehacker.com/you-can-get-this-four-device-charging-station-for-26-r-1850806555?utm_source=regular)
+- [Dev.to/JS] [Migrating My Site To Astro](https://dev.to/noobscience123/migrating-my-site-to-astro-37ic)
+- [Dev.to/JS] [10 Cool CodePen Demos &lpar;August 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-august-2023-bge)
+- [Dev.to/JS] [Having issues with Selenium](https://dev.to/sohailalam2696/having-issues-with-selenium-2l65)
 - [Dev.to/JS] [Full-Stack Dev. Requirements in JavaScript](https://dev.to/mursalfk/full-stack-dev-requirements-in-javascript-4j56)
 - [Dev.to/JS] [A Guide to Node.js Streams: Advanced Functionality](https://dev.to/idurar/a-guide-to-nodejs-streams-advanced-functionality-kf4)
 - [Lifehacker] [Do These Things Before You Quit Your Job](https://lifehacker.com/do-these-things-before-you-quit-your-job-1850765783?utm_source=regular)
@@ -39,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Board Games for Screen-Obsessed Kids](https://lifehacker.com/best-board-games-kids-1850807151?utm_source=regular)
 - [Dev.to/JS] [🔥We&#39;re Back and Stronger Than Ever!🔥](https://dev.to/jsworldconference/were-back-and-stronger-than-ever-146i)
 - [Dev.to/JS] [Day 42: Typed Functions](https://dev.to/dhrn/day-42-typed-functions-588j)
-- [Dev.to/JS] [QuickViewJS: A Lightweight JavaScript Template Engine](https://dev.to/tamadeu/quickviewjs-a-lightweight-javascript-template-engine-bil)
 - [Lifehacker] [Give Your Tuna Salad Some Crunch Without Celery](https://lifehacker.com/tuna-salad-without-celery-1850805972?utm_source=regular)
 - [Lifehacker] [Make Your Own Wordles With ‘Custom Wordle’](https://lifehacker.com/make-your-own-wordles-with-custom-wordle-1850805310?utm_source=regular)
-- [Dev.to/JS] [Learn Basic Hooks in React](https://dev.to/easewithtuts/learn-basic-hooks-in-react-1fea)
-- [Dev.to/JS] [Challenges of Reusable Components in Vue.js 🤔 and How to Overcome them 💯](https://dev.to/fangtanbamrung/challenges-of-reusable-components-in-vuejs-and-how-to-overcome-them-4g6d)
 - [Lifehacker] [What to Do When You See a Downed Power Line](https://lifehacker.com/what-to-do-when-you-see-a-downed-power-line-1850803210?utm_source=regular)
 - [Lifehacker] [How to Skip Your Period Safely](https://lifehacker.com/how-to-skip-your-period-safely-1850804859?utm_source=regular)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 6](https://lifehacker.com/connections-answer-today-september-6-2023-1850803720?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Overwinter Your Pepper Plants](https://lifehacker.com/how-to-overwinter-your-pepper-plants-1850800893?utm_source=regular)
 - [Lifehacker] [Here Are the Best Streaming Discounts for Students](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322?utm_source=regular)
 - [Lifehacker] [Make Perfectly Fudgey Fudge Pops With Silken Tofu](https://lifehacker.com/make-perfectly-fudgey-fudge-pops-with-silken-tofu-1850804032?utm_source=regular)
-- [Lifehacker] [The Differences Between the Steam Deck and Lenovo Legion Go](https://lifehacker.com/the-differences-between-the-steam-deck-and-lenovo-legio-1850802411?utm_source=regular)
-- [Lifehacker] [Plant These Vegetables This Fall to Harvest Next Spring](https://lifehacker.com/plant-these-vegetables-this-fall-to-harvest-next-spring-1850803128?utm_source=regular)
-- [Lifehacker] [12 of the Funniest Comedy Fiction Podcasts](https://lifehacker.com/funniest-fiction-podcasts-1850802452?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Differences Between the Steam Deck and Lenovo Legion Go](https://lifehacker.com/the-differences-between-the-steam-deck-and-lenovo-legio-1850802411?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
