@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔥We&#39;re Back and Stronger Than Ever!🔥](https://dev.to/jsworldconference/were-back-and-stronger-than-ever-146i)
+- [Dev.to/JS] [Day 42: Typed Functions](https://dev.to/dhrn/day-42-typed-functions-588j)
+- [Dev.to/JS] [QuickViewJS: A Lightweight JavaScript Template Engine](https://dev.to/tamadeu/quickviewjs-a-lightweight-javascript-template-engine-bil)
+- [Lifehacker] [Give Your Tuna Salad Some Crunch Without Celery](https://lifehacker.com/tuna-salad-without-celery-1850805972?utm_source=regular)
 - [Lifehacker] [Make Your Own Wordles With ‘Custom Wordle’](https://lifehacker.com/make-your-own-wordles-with-custom-wordle-1850805310?utm_source=regular)
 - [Dev.to/JS] [Learn Basic Hooks in React](https://dev.to/easewithtuts/learn-basic-hooks-in-react-1fea)
-- [Dev.to/JS] [Challenges of Reusable Components in Vue.js 🤔 and How to Overcome them 💯](https://dev.to/berryjam/challenges-of-reusable-components-in-vuejs-and-how-to-overcome-them-4g6d)
+- [Dev.to/JS] [Challenges of Reusable Components in Vue.js 🤔 and How to Overcome them 💯](https://dev.to/fangtanbamrung/challenges-of-reusable-components-in-vuejs-and-how-to-overcome-them-4g6d)
 - [Dev.to/JS] [Learn JavaScript DOM Manipulation](https://dev.to/easewithtuts/learn-javascript-dom-manipulation-c6l)
 - [Lifehacker] [What to Do When You See a Downed Power Line](https://lifehacker.com/what-to-do-when-you-see-a-downed-power-line-1850803210?utm_source=regular)
 - [Dev.to/JS] [Learn Intersection Observer in JavaScript](https://dev.to/easewithtuts/learn-intersection-observer-in-javascript-e9h)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering ES6 - Arrow Functions](https://dev.to/easewithtuts/mastering-es6-arrow-functions-567f)
 - [Lifehacker] [How to Skip Your Period Safely](https://lifehacker.com/how-to-skip-your-period-safely-1850804859?utm_source=regular)
 - [Dev.to/JS] [Understanding Synchronous and Asynchronous JavaScript:](https://dev.to/mr-baloch/understanding-synchronous-and-asynchronous-javascript-h59)
-- [Dev.to/JS] [Automatic visual tests in Storybook, plus 2.2x faster build times for React+TS](https://dev.to/storybookjs/automatic-visual-tests-in-storybook-plus-22x-faster-build-times-for-reactts-1emg)
-- [Dev.to/JS] [AI Consulting for Startups: Scale Your Business Using AI](https://dev.to/devtripath94447/ai-consulting-for-startups-scale-your-business-using-ai-437p)
-- [Dev.to/JS] [Krypcore Web3: A Game-Changer in the Web3 Revolution.](https://dev.to/deepakt/krypcore-web3-a-game-changer-in-the-web3-revolution-5cde)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 6](https://lifehacker.com/connections-answer-today-september-6-2023-1850803720?utm_source=regular)
 - [Lifehacker] [How to Choose the Best Weightlifting Straps](https://lifehacker.com/the-three-types-of-deadlift-straps-and-how-to-choose-t-1847467436?utm_source=regular)
 - [Lifehacker] [You Can Get This iCollege Beginner&#39;s Cybersecurity Course for $70](https://lifehacker.com/you-can-get-this-icollege-beginners-cybersecurity-cours-1850792590?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Might Be Able to Use Your Employee Benefits for Student Loan Payments](https://lifehacker.com/you-might-be-able-to-use-your-employee-benefits-for-stu-1850802250?utm_source=regular)
 - [Lifehacker] [Four Strategies for Handling Your Brain&#39;s &#39;Waiting Mode&#39;](https://lifehacker.com/four-strategies-for-handling-your-brains-waiting-mode-1850803018?utm_source=regular)
 - [Lifehacker] [This Map Predicts Peak Fall Foliage Across the US](https://lifehacker.com/this-map-predicts-peak-fall-foliage-across-the-us-1850803042?utm_source=regular)
-- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 5](https://lifehacker.com/connections-answer-today-september-5-2023-1850803783?utm_source=regular)
-- [Lifehacker] [This Refurbished Microsoft Surface Pro 7 Is 55% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-pro-7-is-55-off-ri-1850792742?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 5](https://lifehacker.com/connections-answer-today-september-5-2023-1850803783?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
