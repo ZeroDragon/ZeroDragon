@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Apple Magic Keyboard Folio for iPad &lpar;10th Gen&rpar; Is $107 Right Now](https://lifehacker.com/this-apple-magic-keyboard-folio-for-ipad-10th-gen-is-1850792794?utm_source=regular)
+- [Dev.to/JS] [It&#39;s Alive?](https://dev.to/bradleytroll/its-alive-51pm)
+- [Dev.to/JS] [A Day in the Life of a Lead Software Engineer](https://dev.to/mxnuchim/a-day-in-the-life-of-a-lead-software-engineer-4o26)
+- [Dev.to/JS] [Nx 16.8 Release!!!](https://dev.to/nx/nx-168-release-mn5)
+- [Lifehacker] [These Are the Best Budget Gaming Laptops in 2023](https://lifehacker.com/best-budget-gaming-laptops-1850806628?utm_source=regular)
+- [Dev.to/JS] [Leet Code — 2723. Add Two Promises](https://dev.to/bendlmp/leet-code-2723-add-two-promises-4477)
+- [Lifehacker] [The Best Board Games for Screen-Obsessed Kids](https://lifehacker.com/best-board-games-kids-1850807151?utm_source=regular)
 - [Dev.to/JS] [🔥We&#39;re Back and Stronger Than Ever!🔥](https://dev.to/jsworldconference/were-back-and-stronger-than-ever-146i)
 - [Dev.to/JS] [Day 42: Typed Functions](https://dev.to/dhrn/day-42-typed-functions-588j)
 - [Dev.to/JS] [QuickViewJS: A Lightweight JavaScript Template Engine](https://dev.to/tamadeu/quickviewjs-a-lightweight-javascript-template-engine-bil)
@@ -37,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When You See a Downed Power Line](https://lifehacker.com/what-to-do-when-you-see-a-downed-power-line-1850803210?utm_source=regular)
 - [Dev.to/JS] [Learn Intersection Observer in JavaScript](https://dev.to/easewithtuts/learn-intersection-observer-in-javascript-e9h)
 - [Dev.to/JS] [Mastering ES6 - IIFE](https://dev.to/easewithtuts/mastering-es6-iife-3ah2)
-- [Dev.to/JS] [Auto generate an integrity hash for `link` and `script` tags in an HTML template](https://dev.to/webdiscus/webpack-auto-generate-an-integrity-hash-for-link-and-script-tags-in-an-html-template-48p5)
-- [Dev.to/JS] [Mastering ES6 - Async/Await](https://dev.to/easewithtuts/mastering-es6-asyncawait-277k)
-- [Dev.to/JS] [Mastering ES6 - Arrow Functions](https://dev.to/easewithtuts/mastering-es6-arrow-functions-567f)
 - [Lifehacker] [How to Skip Your Period Safely](https://lifehacker.com/how-to-skip-your-period-safely-1850804859?utm_source=regular)
-- [Dev.to/JS] [Understanding Synchronous and Asynchronous JavaScript:](https://dev.to/mr-baloch/understanding-synchronous-and-asynchronous-javascript-h59)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 6](https://lifehacker.com/connections-answer-today-september-6-2023-1850803720?utm_source=regular)
 - [Lifehacker] [How to Choose the Best Weightlifting Straps](https://lifehacker.com/the-three-types-of-deadlift-straps-and-how-to-choose-t-1847467436?utm_source=regular)
 - [Lifehacker] [You Can Get This iCollege Beginner&#39;s Cybersecurity Course for $70](https://lifehacker.com/you-can-get-this-icollege-beginners-cybersecurity-cours-1850792590?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Differences Between the Steam Deck and Lenovo Legion Go](https://lifehacker.com/the-differences-between-the-steam-deck-and-lenovo-legio-1850802411?utm_source=regular)
 - [Lifehacker] [Plant These Vegetables This Fall to Harvest Next Spring](https://lifehacker.com/plant-these-vegetables-this-fall-to-harvest-next-spring-1850803128?utm_source=regular)
 - [Lifehacker] [12 of the Funniest Comedy Fiction Podcasts](https://lifehacker.com/funniest-fiction-podcasts-1850802452?utm_source=regular)
-- [Lifehacker] [You Might Be Able to Use Your Employee Benefits for Student Loan Payments](https://lifehacker.com/you-might-be-able-to-use-your-employee-benefits-for-stu-1850802250?utm_source=regular)
-- [Lifehacker] [Four Strategies for Handling Your Brain&#39;s &#39;Waiting Mode&#39;](https://lifehacker.com/four-strategies-for-handling-your-brains-waiting-mode-1850803018?utm_source=regular)
-- [Lifehacker] [This Map Predicts Peak Fall Foliage Across the US](https://lifehacker.com/this-map-predicts-peak-fall-foliage-across-the-us-1850803042?utm_source=regular)
-- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 5](https://lifehacker.com/connections-answer-today-september-5-2023-1850803783?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Might Be Able to Use Your Employee Benefits for Student Loan Payments](https://lifehacker.com/you-might-be-able-to-use-your-employee-benefits-for-stu-1850802250?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
