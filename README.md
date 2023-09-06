@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the ‘Feynman Method’ to Tell If You’re Ready for a Test](https://lifehacker.com/use-the-feynman-method-to-study-1850809398?utm_source=regular)
+- [Lifehacker] [This 4K Samsung Gaming Monitor Is $230 Off Right Now](https://lifehacker.com/this-4k-samsung-gaming-monitor-is-230-off-right-now-1850809686?utm_source=regular)
 - [Dev.to/JS] [Learning JavaScript the Easy Way: Unlocking the Power of Scope with Closures](https://dev.to/unkletayo/learning-javascript-the-easy-way-unlocking-the-power-of-scope-with-closures-3mgb)
 - [Lifehacker] [Turn Your Bounty of Peppers Into Spicy Pepper Jelly](https://lifehacker.com/easy-pepper-jelly-recipe-for-canning-1850809366?utm_source=regular)
 - [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Best Weightlifting Straps](https://lifehacker.com/the-three-types-of-deadlift-straps-and-how-to-choose-t-1847467436?utm_source=regular)
 - [Lifehacker] [You Can Get This iCollege Beginner&#39;s Cybersecurity Course for $70](https://lifehacker.com/you-can-get-this-icollege-beginners-cybersecurity-cours-1850792590?utm_source=regular)
 - [Lifehacker] [How to Hide Your OnlyFans Payments History](https://lifehacker.com/how-to-hide-your-onlyfans-payments-history-1850805975?utm_source=regular)
-- [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341?utm_source=regular)
-- [Lifehacker] [How to Make Mayonnaise by Hand &lpar;With or Without a Blender&rpar;](https://lifehacker.com/how-to-make-mayonnaise-by-hand-1850805172?utm_source=regular)
-- [Lifehacker] [Why Weather Forecasts Are Only Accurate Two Weeks Out](https://lifehacker.com/why-weather-forecasts-are-only-accurate-two-weeks-out-1850653154?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
