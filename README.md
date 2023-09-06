@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Skip Your Period Safely](https://lifehacker.com/how-to-skip-your-period-safely-1850804859?utm_source=regular)
+- [Dev.to/JS] [Understanding Synchronous and Asynchronous JavaScript:](https://dev.to/mr-baloch/understanding-synchronous-and-asynchronous-javascript-h59)
+- [Dev.to/JS] [Automatic visual tests in Storybook, plus 2.2x faster build times for React+TS](https://dev.to/storybookjs/automatic-visual-tests-in-storybook-plus-22x-faster-build-times-for-reactts-1emg)
+- [Dev.to/JS] [AI Consulting for Startups: Scale Your Business Using AI](https://dev.to/devtripath94447/ai-consulting-for-startups-scale-your-business-using-ai-437p)
+- [Dev.to/JS] [Krypcore Web3: A Game-Changer in the Web3 Revolution.](https://dev.to/deepakt/krypcore-web3-a-game-changer-in-the-web3-revolution-5cde)
 - [Dev.to/JS] [JavaScript Function Closures](https://dev.to/nipu/javascript-function-closures-56io)
 - [Dev.to/JS] [JavaScript Functional Programming: Map, Filter, &amp; Reduce](https://dev.to/mainulspace/javascript-functional-programming-map-filter-reduce-5g55)
 - [Dev.to/JS] [Quickbooks Online Support+1-866-265-2764](https://dev.to/sachin8956/quickbooks-online-support1-866-265-2764-1bge)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Event Loop simply explained](https://dev.to/princam/javascript-event-loop-simply-explained-5d75)
 - [Dev.to/JS] [React Components | Gallary](https://dev.to/shubhamtiwari909/react-components-gallary-3p7b)
 - [Dev.to/JS] [Angular security: Best practices for securing your Angular apps](https://dev.to/chintanonweb/angular-security-best-practices-for-securing-your-angular-apps-1pea)
-- [Dev.to/JS] [Liv Pure - Weight Loss Results, Ingredients, Complaints &amp; Warnings?](https://dev.to/udsakhtva/liv-pure-weight-loss-results-ingredients-complaints-warnings-2ed4)
-- [Dev.to/JS] [Quickbooks Online Customer Service+1-866-265-2764](https://dev.to/abbasjam/quickbooks-online-customer-service1-866-265-2764-1jig)
-- [Dev.to/JS] [Transitioning to TypeScript: The Ultimate Starter Guide - Part 7](https://dev.to/innovatesphere/transitioning-to-typescript-the-ultimate-starter-guide-part-7-529d)
-- [Dev.to/JS] [Quickbooks Online Payroll Support+1-866-265-2764](https://dev.to/sachin8956/quickbooks-online-payroll-support1-866-265-2764-3nap)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 6](https://lifehacker.com/connections-answer-today-september-6-2023-1850803720?utm_source=regular)
 - [Lifehacker] [How to Choose the Best Weightlifting Straps](https://lifehacker.com/the-three-types-of-deadlift-straps-and-how-to-choose-t-1847467436?utm_source=regular)
 - [Lifehacker] [You Can Get This iCollege Beginner&#39;s Cybersecurity Course for $70](https://lifehacker.com/you-can-get-this-icollege-beginners-cybersecurity-cours-1850792590?utm_source=regular)
@@ -62,10 +63,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Strategies for Handling Your Brain&#39;s &#39;Waiting Mode&#39;](https://lifehacker.com/four-strategies-for-handling-your-brains-waiting-mode-1850803018?utm_source=regular)
 - [Lifehacker] [This Map Predicts Peak Fall Foliage Across the US](https://lifehacker.com/this-map-predicts-peak-fall-foliage-across-the-us-1850803042?utm_source=regular)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 5](https://lifehacker.com/connections-answer-today-september-5-2023-1850803783?utm_source=regular)
-- [Lifehacker] [This Refurbished Microsoft Surface Pro 7 Is $55% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-pro-7-is-55-off-ri-1850792742?utm_source=regular)
+- [Lifehacker] [This Refurbished Microsoft Surface Pro 7 Is 55% Off Right Now](https://lifehacker.com/this-refurbished-microsoft-surface-pro-7-is-55-off-ri-1850792742?utm_source=regular)
 - [Crazy Programmer] [Async PHP – A Deep Dive into Asynchronous Programming](https://www.thecrazyprogrammer.com/2023/09/async-php.html)
-- [Lifehacker] [The Best Gutter Guards You Can Install on Your Own](https://lifehacker.com/the-best-gutter-guards-you-can-install-on-your-own-1850802057?utm_source=regular)
-- [Lifehacker] [These Are the Signs of Hearing Loss in Children](https://lifehacker.com/these-are-the-signs-of-hearing-loss-in-children-1850796880?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Gutter Guards You Can Install on Your Own](https://lifehacker.com/the-best-gutter-guards-you-can-install-on-your-own-1850802057?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
