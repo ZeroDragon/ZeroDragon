@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Four Ways to Make the Dog Park Safer for Your Dog](https://lifehacker.com/are-dog-parks-safe-for-dogs-1850809221?utm_source=regular)
+- [Dev.to/JS] [Agile Board: A Trello-like API in NestJS with Unit and e2e Testing](https://dev.to/malikidrees/agile-board-a-trello-like-api-in-nestjs-with-unit-and-e2e-testing-4823)
+- [Dev.to/JS] [ARE WEB 3 PROJECT COST EFFECTIVE?](https://dev.to/scofieldidehen/are-web-3-project-cost-effective-34jn)
+- [Lifehacker] [The Easiest Way to Get Garlic Smell Off Your Hands](https://lifehacker.com/the-easiest-way-to-get-garlic-smell-off-your-hands-1850809774?utm_source=regular)
+- [Lifehacker] [The Best Streaming Deals for September 2023](https://lifehacker.com/best-streaming-deals-1850763728?utm_source=regular)
+- [Dev.to/JS] [// WPimagines, A Free AI image generator&lpar;yup, another one&rpar;](https://dev.to/webplayground/-wpimagines-a-free-ai-image-generatoryup-another-one-3gaa)
+- [Lifehacker] [Why Hot-Bedding Is a Bad Idea](https://lifehacker.com/why-hot-bedding-is-a-bad-idea-1850809336?utm_source=regular)
 - [Dev.to/JS] [Operator Precedence](https://dev.to/zouhair_sahtout/operator-precedence-3065)
 - [Lifehacker] [The 10 Largest Cities &lpar;Relatively&rpar; Safe From Climate Change](https://lifehacker.com/us-cities-safest-from-climate-change-1850809083?utm_source=regular)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134?utm_source=regular)
@@ -42,10 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Migrating My Site To Astro](https://dev.to/noobscience123/migrating-my-site-to-astro-37ic)
 - [Dev.to/JS] [10 Cool CodePen Demos &lpar;August 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-august-2023-bge)
 - [Dev.to/JS] [Having issues with Selenium](https://dev.to/sohailalam2696/having-issues-with-selenium-2l65)
-- [Dev.to/JS] [Full-Stack Dev. Requirements in JavaScript](https://dev.to/mursalfk/full-stack-dev-requirements-in-javascript-4j56)
-- [Dev.to/JS] [A Guide to Node.js Streams: Advanced Functionality](https://dev.to/idurar/a-guide-to-nodejs-streams-advanced-functionality-kf4)
 - [Lifehacker] [Do These Things Before You Quit Your Job](https://lifehacker.com/do-these-things-before-you-quit-your-job-1850765783?utm_source=regular)
-- [Dev.to/JS] [Mastering Javascript before 30](https://dev.to/darius410/mastering-javascript-before-30-1j49)
 - [Lifehacker] [This Apple Magic Keyboard Folio for iPad &lpar;10th Gen&rpar; Is $107 Right Now](https://lifehacker.com/this-apple-magic-keyboard-folio-for-ipad-10th-gen-is-1850792794?utm_source=regular)
 - [Lifehacker] [These Are the Best Budget Gaming Laptops in 2023](https://lifehacker.com/best-budget-gaming-laptops-1850806628?utm_source=regular)
 - [Lifehacker] [The Best Board Games for Screen-Obsessed Kids](https://lifehacker.com/best-board-games-kids-1850807151?utm_source=regular)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Mayonnaise by Hand &lpar;With or Without a Blender&rpar;](https://lifehacker.com/how-to-make-mayonnaise-by-hand-1850805172?utm_source=regular)
 - [Lifehacker] [Why Weather Forecasts Are Only Accurate Two Weeks Out](https://lifehacker.com/why-weather-forecasts-are-only-accurate-two-weeks-out-1850653154?utm_source=regular)
 - [Lifehacker] [How to Overwinter Your Tomato Plants](https://lifehacker.com/how-to-overwinter-your-tomato-plants-1850805342?utm_source=regular)
-- [Lifehacker] [You Can Keep Cocktails Cold Without Ice](https://lifehacker.com/you-can-keep-cocktails-cold-without-ice-1850805314?utm_source=regular)
-- [Lifehacker] [How to Make Your Own Labneh &lpar;and How to Eat It&rpar;](https://lifehacker.com/easy-labneh-recipe-1796785416?utm_source=regular)
-- [Lifehacker] [Why Communal Living Might Be the Answer](https://lifehacker.com/why-communal-living-might-be-the-answer-1850804509?utm_source=regular)
-- [Lifehacker] [What to Consider Before Buying a Used Peloton](https://lifehacker.com/peloton-bike-review-1850804329?utm_source=regular)
-- [Lifehacker] [How to Get Slime Out of Clothes and Upholstery](https://lifehacker.com/how-to-get-slime-out-of-clothes-and-upholstery-1848539844?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Keep Cocktails Cold Without Ice](https://lifehacker.com/you-can-keep-cocktails-cold-without-ice-1850805314?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
