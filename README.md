@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quickbooks Payroll Support+1-866-265-2764](https://dev.to/sachin8956/quickbooks-payroll-support1-866-265-2764-4dhn)
+- [Dev.to/JS] [Closure in javascript](https://dev.to/palchandu_dev/closure-in-javascript-23fl)
+- [Dev.to/JS] [What is &quot;main&quot; method in Java?](https://dev.to/rawati/what-is-main-method-in-java-48n0)
+- [Dev.to/JS] [Hoisting in javascript](https://dev.to/palchandu_dev/hoisting-in-javascript-2435)
 - [Dev.to/JS] [Playing with low-level memory in WebAssembly](https://dev.to/iprosk/playing-with-low-level-memory-in-webassembly-257i)
 - [Dev.to/JS] [A Comprehensive Guide to the `fetch&lpar;&rpar;` API](https://dev.to/easewithtuts/a-comprehensive-guide-to-the-fetch-api-b48)
 - [Dev.to/JS] [Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://dev.to/snyk/nodejs-vs-deno-vs-bun-javascript-runtime-comparison-15hk)
@@ -45,13 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Keep Cocktails Cold Without Ice](https://lifehacker.com/you-can-keep-cocktails-cold-without-ice-1850805314?utm_source=regular)
 - [Lifehacker] [How to Make Your Own Labneh &lpar;and How to Eat It&rpar;](https://lifehacker.com/easy-labneh-recipe-1796785416?utm_source=regular)
 - [Lifehacker] [Why Communal Living Might Be the Answer](https://lifehacker.com/why-communal-living-might-be-the-answer-1850804509?utm_source=regular)
-- [Dev.to/JS] [New certification from FreedomwithAI](https://dev.to/kssaiteja/new-certification-from-freedomwithai-dn0)
 - [Lifehacker] [What to Consider Before Buying a Used Peloton](https://lifehacker.com/peloton-bike-review-1850804329?utm_source=regular)
-- [Dev.to/JS] [The Power of Pure Functions: Why Every JavaScript Dev Should Care!](https://dev.to/jcvb/the-power-of-pure-functions-why-every-javascript-dev-should-care-58f5)
 - [Lifehacker] [How to Get Slime Out of Clothes and Upholstery](https://lifehacker.com/how-to-get-slime-out-of-clothes-and-upholstery-1848539844?utm_source=regular)
 - [Lifehacker] [You Can Get 15 Bottles of Swirl Wine for $64 Right Now](https://lifehacker.com/you-can-get-15-bottles-of-swirl-wine-for-64-right-now-1850792657?utm_source=regular)
-- [Dev.to/JS] [10 Lesser-Known JavaScript Array Methods You Might’ve Missed](https://dev.to/mainulspace/10-lesser-known-javascript-array-methods-you-mightve-missed-32b3)
-- [Dev.to/JS] [Event Bubbling and Throttling in JavaScript](https://dev.to/syedmuhammadaliraza/event-bubbling-and-throttling-in-javascript-5831)
 - [Lifehacker] [How to Overwinter Your Pepper Plants](https://lifehacker.com/how-to-overwinter-your-pepper-plants-1850800893?utm_source=regular)
 - [Lifehacker] [Here Are the Best Streaming Discounts for Students](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322?utm_source=regular)
 - [Lifehacker] [Make Perfectly Fudgey Fudge Pops With Silken Tofu](https://lifehacker.com/make-perfectly-fudgey-fudge-pops-with-silken-tofu-1850804032?utm_source=regular)
