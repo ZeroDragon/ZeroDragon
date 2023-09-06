@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Event Loop simply explained](https://dev.to/princam/javascript-event-loop-simply-explained-5d75)
 - [Dev.to/JS] [React Components | Gallary](https://dev.to/shubhamtiwari909/react-components-gallary-3p7b)
 - [Dev.to/JS] [Angular security: Best practices for securing your Angular apps](https://dev.to/chintanonweb/angular-security-best-practices-for-securing-your-angular-apps-1pea)
 - [Dev.to/JS] [Liv Pure - Weight Loss Results, Ingredients, Complaints &amp; Warnings?](https://dev.to/udsakhtva/liv-pure-weight-loss-results-ingredients-complaints-warnings-2ed4)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quickbooks Payroll Support+1-866-265-2764](https://dev.to/sachin8956/quickbooks-payroll-support1-866-265-2764-4dhn)
 - [Dev.to/JS] [Closure in javascript](https://dev.to/palchandu_dev/closure-in-javascript-23fl)
 - [Dev.to/JS] [What is &quot;main&quot; method in Java?](https://dev.to/rawati/what-is-main-method-in-java-48n0)
-- [Dev.to/JS] [Hoisting in javascript](https://dev.to/palchandu_dev/hoisting-in-javascript-2435)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 6](https://lifehacker.com/connections-answer-today-september-6-2023-1850803720?utm_source=regular)
 - [Lifehacker] [How to Choose the Best Weightlifting Straps](https://lifehacker.com/the-three-types-of-deadlift-straps-and-how-to-choose-t-1847467436?utm_source=regular)
 - [Lifehacker] [You Can Get This iCollege Beginner&#39;s Cybersecurity Course for $70](https://lifehacker.com/you-can-get-this-icollege-beginners-cybersecurity-cours-1850792590?utm_source=regular)
