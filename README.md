@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Long You Should Rest Between Sets](https://lifehacker.com/how-long-you-should-rest-between-sets-1850810654)
+- [Dev.to/JS] [Basic Auth Routing and Redirecting using React Router v6](https://dev.to/ericksong91/basic-auth-routing-and-redirecting-using-react-router-v6-2i8l)
 - [Dev.to/JS] [Short-Circuit Evaluation: Making Your Code More Concise](https://dev.to/mainulspace/short-circuit-evaluation-making-your-code-more-concise-2jne)
 - [Dev.to/JS] [ember-cli is stuck on certain version](https://dev.to/michalbryxi/ember-cli-is-stuck-on-certain-version-54f9)
 - [Dev.to/JS] [Advanced HTML Canvas tutorials for image editor](https://dev.to/fuco/advanced-html-canvas-tutorials-for-image-editor-l9o)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quality Summit 2023](https://dev.to/kailashpathak7/quality-summit-2023-15h0)
 - [Dev.to/JS] [💥 Building a Next.js 13 Todo app with Login by Hanko and Prisma 🤯](https://dev.to/hanko/building-a-nextjs-13-todo-app-with-login-by-hanko-and-prisma-3a69)
 - [Dev.to/JS] [Digital Identity Smart Contracts in Web3](https://dev.to/scofieldidehen/digital-identity-smart-contracts-in-web3-3h02)
-- [Dev.to/JS] [JavaScript Arrays - Index Values and Adding to an Array](https://dev.to/keoshaug/javascript-arrays-index-values-and-adding-to-an-array-27ol)
 - [Lifehacker] [The Differences Between Joints, Blunts, and Spliffs](https://lifehacker.com/the-differences-between-joints-blunts-and-spliffs-1850811382)
 - [Lifehacker] [TikTok’s ‘Cozy Cardio’ Trend Might Help You Enjoy Exercise Again](https://lifehacker.com/tiktok-s-cozy-cardio-trend-might-help-you-enjoy-exerc-1850811679)
 - [Lifehacker] [These Are the Hidden Costs of Buying a House](https://lifehacker.com/all-the-hidden-unexpected-costs-of-buying-a-home-1758138500)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Four-Device Charging Station for $26 Right Now](https://lifehacker.com/you-can-get-this-four-device-charging-station-for-26-r-1850806555)
 - [Lifehacker] [Do These Things Before You Quit Your Job](https://lifehacker.com/do-these-things-before-you-quit-your-job-1850765783)
 - [Lifehacker] [This Apple Magic Keyboard Folio for iPad &lpar;10th Gen&rpar; Is $107 Right Now](https://lifehacker.com/this-apple-magic-keyboard-folio-for-ipad-10th-gen-is-1850792794)
-- [Lifehacker] [These Are the Best Budget Gaming Laptops in 2023](https://lifehacker.com/best-budget-gaming-laptops-1850806628)
-- [Lifehacker] [The Best Board Games for Screen-Obsessed Kids](https://lifehacker.com/best-board-games-kids-1850807151)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Budget Gaming Laptops in 2023](https://lifehacker.com/best-budget-gaming-laptops-1850806628)<!-- TECH-POSTS:END -->
 
 ---
 
