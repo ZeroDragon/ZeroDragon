@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrating Froala with Grammarly Text Editor SDK Alternative](https://dev.to/ideradevtools/integrating-froala-with-grammarly-text-editor-sdk-alternative-1d9i)
+- [Dev.to/JS] [Learn DevTools](https://dev.to/easewithtuts/learn-devtools-3imp)
+- [Dev.to/JS] [Creating the project in Google Console](https://dev.to/noblica/creating-the-project-in-google-console-1k0e)
 - [Dev.to/JS] [Wizards of Opensource, Ep 1: Ryan Dahl](https://dev.to/midnqp/wizards-of-opensource-ep-1-ryan-dahl-4f60)
 - [Dev.to/JS] [How to Use a News API for Media Monitoring](https://dev.to/newsdataio/how-to-use-a-news-api-for-media-monitoring-5akp)
 - [Dev.to/JS] [Discord Profile Card With Webhook](https://dev.to/eii3/discord-profile-card-with-webhook-1b8)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Advanced JavaScript Operators: The Ultimate Guide](https://dev.to/hasnat12/mastering-advanced-javascript-operators-the-ultimate-guide-aok)
 - [Dev.to/JS] [Type Conversion and Type Coercion - JavaScript](https://dev.to/zouhair_sahtout/type-conversion-and-type-coercion-javascript-39i1)
 - [Dev.to/JS] [5 Best Coursera Alternatives You Must Know](https://dev.to/aqsa81/5-best-coursera-alternatives-you-must-know-o41)
-- [Dev.to/JS] [Exploring the Differences: Next.js 12 vs. Next.js 13 - What&#39;s New?](https://dev.to/dj1samsoe/exploring-the-differences-nextjs-12-vs-nextjs-13-whats-new-32g4)
-- [Dev.to/JS] [Minimize Bugs: Tips On How To Write Javascript In A Better Way](https://dev.to/keralpatel/minimize-bugs-tips-on-how-to-write-javascript-in-a-better-way-12bo)
-- [Dev.to/JS] [Electron Forge + Vite + VueJS](https://dev.to/brojenuel/electron-forge-vite-vuejs-21he)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 7](https://lifehacker.com/connections-answer-today-september-7-2023-1850807719?utm_source=regular)
 - [Lifehacker] [Use the ‘Feynman Method’ to Tell If You’re Ready for a Test](https://lifehacker.com/use-the-feynman-method-to-study-1850809398?utm_source=regular)
 - [Lifehacker] [This 4K Samsung Gaming Monitor Is $230 Off Right Now](https://lifehacker.com/this-4k-samsung-gaming-monitor-is-230-off-right-now-1850809686?utm_source=regular)
