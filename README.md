@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
+- [Lifehacker] [The Best Cold Medicines Aren&#39;t in the Cough and Cold Aisle](https://lifehacker.com/which-cold-medicines-actually-work-1839986137)
+- [Lifehacker] [Update Your Apple Devices ASAP](https://lifehacker.com/update-your-apple-devices-asap-1850814960)
 - [Lifehacker] [My Favorite Travel Apps for Booking Flights and Surviving the Airport](https://lifehacker.com/best-travel-apps-1850814673)
 - [Dev.to/JS] [Plasmo - a new way to create modern browser extensions](https://dev.to/corentinleberre/plasmo-a-new-way-to-create-modern-browser-extensions-19m3)
+- [Lifehacker] [This Is the Best Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)
 - [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $55 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-55-1850806484)
 - [Lifehacker] [This Hidden Setting Will Make Your Instagram Pictures Look Better](https://lifehacker.com/this-hidden-setting-will-make-your-instagram-pictures-l-1850814073)
 - [Lifehacker] [This Two-Ingredient Meat Glaze Recipe Is Good on Any Meat](https://lifehacker.com/easy-meat-glaze-recipe-1831618342)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 7](https://lifehacker.com/connections-answer-today-september-7-2023-1850807719)
 - [Lifehacker] [Use the ‘Feynman Method’ to Tell If You’re Ready for a Test](https://lifehacker.com/use-the-feynman-method-to-study-1850809398)
 - [Lifehacker] [This 4K Samsung Gaming Monitor Is $230 Off Right Now](https://lifehacker.com/this-4k-samsung-gaming-monitor-is-230-off-right-now-1850809686)
-- [Lifehacker] [Turn Your Bounty of Peppers Into Spicy Pepper Jelly](https://lifehacker.com/easy-pepper-jelly-recipe-for-canning-1850809366)
-- [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576)
-- [Lifehacker] [Four Ways to Make the Dog Park Safer for Your Dog](https://lifehacker.com/are-dog-parks-safe-for-dogs-1850809221)
-- [Lifehacker] [The Easiest Way to Get Garlic Smell Off Your Hands](https://lifehacker.com/the-easiest-way-to-get-garlic-smell-off-your-hands-1850809774)
-- [Lifehacker] [The Best Streaming Deals for September 2023](https://lifehacker.com/best-streaming-deals-1850763728)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn Your Bounty of Peppers Into Spicy Pepper Jelly](https://lifehacker.com/easy-pepper-jelly-recipe-for-canning-1850809366)<!-- TECH-POSTS:END -->
 
 ---
 
