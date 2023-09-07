@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use a News API for Media Monitoring](https://dev.to/newsdataio/how-to-use-a-news-api-for-media-monitoring-5akp)
+- [Dev.to/JS] [Discord Profile Card With Webhook](https://dev.to/eii3/discord-profile-card-with-webhook-1b8)
+- [Dev.to/JS] [Conceive with Confidence: Leading IVF Centre in Mohali](https://dev.to/ivfbloom/conceive-with-confidence-leading-ivf-centre-in-mohali-35ac)
 - [Dev.to/JS] [How to Access Private S3 Buckets Securely](https://dev.to/mohammadfaisal/how-to-access-private-s3-buckets-securely-5f08)
 - [Dev.to/JS] [Asynchronous JavaScript with promises](https://dev.to/syedmuhammadaliraza/asynchronous-javascript-with-promises-37ib)
 - [Dev.to/JS] [Mastering Advanced JavaScript Operators: The Ultimate Guide](https://dev.to/hasnat12/mastering-advanced-javascript-operators-the-ultimate-guide-aok)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Electron Forge + Vite + VueJS](https://dev.to/brojenuel/electron-forge-vite-vuejs-21he)
 - [Dev.to/JS] [Svelte.js Cheatsheet](https://dev.to/easewithtuts/sveltejs-cheatsheet-3md3)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 7](https://lifehacker.com/connections-answer-today-september-7-2023-1850807719?utm_source=regular)
-- [Dev.to/JS] [Learn Intl API](https://dev.to/easewithtuts/learn-intl-api-4705)
-- [Dev.to/JS] [React.js Cheatsheet](https://dev.to/easewithtuts/reactjs-cheatsheet-142d)
-- [Dev.to/JS] [Mastering ES6 - Classes](https://dev.to/easewithtuts/mastering-es6-classes-2512)
 - [Lifehacker] [Use the ‘Feynman Method’ to Tell If You’re Ready for a Test](https://lifehacker.com/use-the-feynman-method-to-study-1850809398?utm_source=regular)
 - [Lifehacker] [This 4K Samsung Gaming Monitor Is $230 Off Right Now](https://lifehacker.com/this-4k-samsung-gaming-monitor-is-230-off-right-now-1850809686?utm_source=regular)
 - [Lifehacker] [Turn Your Bounty of Peppers Into Spicy Pepper Jelly](https://lifehacker.com/easy-pepper-jelly-recipe-for-canning-1850809366?utm_source=regular)
