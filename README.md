@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Demystifying JavaScript&#39;s Behavior with Primitives and Objects](https://dev.to/samia13/demystifying-javascripts-behavior-with-primitives-and-objects-3kmk)
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 7](https://lifehacker.com/connections-answer-today-september-7-2023-1850807719?utm_source=regular)
+- [Dev.to/JS] [Learn Intl API](https://dev.to/easewithtuts/learn-intl-api-4705)
+- [Dev.to/JS] [React.js Cheatsheet](https://dev.to/easewithtuts/reactjs-cheatsheet-142d)
+- [Dev.to/JS] [Mastering ES6 - Classes](https://dev.to/easewithtuts/mastering-es6-classes-2512)
+- [Dev.to/JS] [Demystifying JavaScript&#39;s Behavior with Primitives and Objects](https://dev.to/samyscode/demystifying-javascripts-behavior-with-primitives-and-objects-3kmk)
 - [Lifehacker] [Use the ‘Feynman Method’ to Tell If You’re Ready for a Test](https://lifehacker.com/use-the-feynman-method-to-study-1850809398?utm_source=regular)
 - [Lifehacker] [This 4K Samsung Gaming Monitor Is $230 Off Right Now](https://lifehacker.com/this-4k-samsung-gaming-monitor-is-230-off-right-now-1850809686?utm_source=regular)
 - [Dev.to/JS] [Learning JavaScript the Easy Way: Unlocking the Power of Scope with Closures](https://dev.to/unkletayo/learning-javascript-the-easy-way-unlocking-the-power-of-scope-with-closures-3mgb)
@@ -46,13 +50,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript for Beginners: A Comprehensive Guide](https://dev.to/grenishrai/javascript-for-beginners-a-comprehensive-guide-387k)
 - [Dev.to/JS] [Build a real-time dashboard with Next.js, Tremor, and Tinybird](https://dev.to/tinybirdco/build-a-real-time-dashboard-with-nextjs-tremor-and-tinybird-2gfl)
 - [Lifehacker] [The Samsung Galaxy Z Flip 5 Is Cheaper Than Ever Right Now](https://lifehacker.com/the-samsung-galaxy-z-flip-5-is-cheaper-than-ever-right-1850808852?utm_source=regular)
-- [Dev.to/JS] [BroadcastChannel API: Sending Messages Between Tabs](https://dev.to/naimur/broadcastchannel-api-sending-messages-between-tabs-59m9)
 - [Lifehacker] [Why You Should Marble Your Cakes With a Spoon Instead of a Toothpick](https://lifehacker.com/why-you-should-marble-your-cakes-with-a-spoon-instead-o-1850808851?utm_source=regular)
 - [Lifehacker] [Use ‘Distributed Practice’ to Better Retain What You Study](https://lifehacker.com/use-distributed-practice-to-better-retain-what-you-st-1850808691?utm_source=regular)
 - [Lifehacker] [The Difference Between a Mortgage’s APR and Interest Rate](https://lifehacker.com/difference-between-apr-and-interest-rate-1850808813?utm_source=regular)
 - [Lifehacker] [You Can Get This Four-Device Charging Station for $26 Right Now](https://lifehacker.com/you-can-get-this-four-device-charging-station-for-26-r-1850806555?utm_source=regular)
-- [Dev.to/JS] [Migrating My Site To Astro](https://dev.to/noobscience123/migrating-my-site-to-astro-37ic)
-- [Dev.to/JS] [10 Cool CodePen Demos &lpar;August 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-august-2023-bge)
 - [Lifehacker] [Do These Things Before You Quit Your Job](https://lifehacker.com/do-these-things-before-you-quit-your-job-1850765783?utm_source=regular)
 - [Lifehacker] [This Apple Magic Keyboard Folio for iPad &lpar;10th Gen&rpar; Is $107 Right Now](https://lifehacker.com/this-apple-magic-keyboard-folio-for-ipad-10th-gen-is-1850792794?utm_source=regular)
 - [Lifehacker] [These Are the Best Budget Gaming Laptops in 2023](https://lifehacker.com/best-budget-gaming-laptops-1850806628?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 6](https://lifehacker.com/connections-answer-today-september-6-2023-1850803720?utm_source=regular)
 - [Lifehacker] [How to Choose the Best Weightlifting Straps](https://lifehacker.com/the-three-types-of-deadlift-straps-and-how-to-choose-t-1847467436?utm_source=regular)
 - [Lifehacker] [You Can Get This iCollege Beginner&#39;s Cybersecurity Course for $70](https://lifehacker.com/you-can-get-this-icollege-beginners-cybersecurity-cours-1850792590?utm_source=regular)
-- [Lifehacker] [How to Hide Your OnlyFans Payments History](https://lifehacker.com/how-to-hide-your-onlyfans-payments-history-1850805975?utm_source=regular)
-- [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Hide Your OnlyFans Payments History](https://lifehacker.com/how-to-hide-your-onlyfans-payments-history-1850805975?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
