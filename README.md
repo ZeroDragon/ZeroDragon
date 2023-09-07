@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Stay Awake Without Caffeine](https://lifehacker.com/the-best-ways-to-stay-awake-without-caffeine-1850811230?utm_source=regular)
+- [Dev.to/JS] [Mastering &#39;useMemo&#39; in React with TypeScript: 5 Different Use-Cases for &#39;useMemo&#39;](https://dev.to/kirubelkinfe/mastering-usememo-in-react-with-typescript-4-different-use-cases-for-usememo-5gal)
+- [Lifehacker] [This 2021 LG Gram Laptop Is $500 Off Right Now](https://lifehacker.com/this-2021-lg-gram-laptop-is-500-off-right-now-1850792867?utm_source=regular)
+- [Dev.to/JS] [How to configure nuxt-i18n and fetch with Nuxt 3 for multilingual APIs](https://dev.to/uhttred/how-to-configure-nuxt-i18n-and-fetch-with-nuxt-3-for-multilingual-apis-37o6)
+- [Dev.to/JS] [Mastering ES6 - Template Literals](https://dev.to/easewithtuts/mastering-es6-template-literals-5dai)
+- [Lifehacker] [What People are Getting Wrong this Week: COVID Vaccine Conspiracies](https://lifehacker.com/covid-vaccine-conspiracies-1850810502?utm_source=regular)
 - [Dev.to/JS] [Integrating Froala with Grammarly Text Editor SDK Alternative](https://dev.to/ideradevtools/integrating-froala-with-grammarly-text-editor-sdk-alternative-1d9i)
 - [Dev.to/JS] [Learn DevTools](https://dev.to/easewithtuts/learn-devtools-3imp)
 - [Dev.to/JS] [Creating the project in Google Console](https://dev.to/noblica/creating-the-project-in-google-console-1k0e)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Conceive with Confidence: Leading IVF Centre in Mohali](https://dev.to/ivfbloom/conceive-with-confidence-leading-ivf-centre-in-mohali-35ac)
 - [Dev.to/JS] [How to Access Private S3 Buckets Securely](https://dev.to/mohammadfaisal/how-to-access-private-s3-buckets-securely-5f08)
 - [Dev.to/JS] [Asynchronous JavaScript with promises](https://dev.to/syedmuhammadaliraza/asynchronous-javascript-with-promises-37ib)
-- [Dev.to/JS] [Mastering Advanced JavaScript Operators: The Ultimate Guide](https://dev.to/hasnat12/mastering-advanced-javascript-operators-the-ultimate-guide-aok)
-- [Dev.to/JS] [Type Conversion and Type Coercion - JavaScript](https://dev.to/zouhair_sahtout/type-conversion-and-type-coercion-javascript-39i1)
-- [Dev.to/JS] [5 Best Coursera Alternatives You Must Know](https://dev.to/aqsa81/5-best-coursera-alternatives-you-must-know-o41)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 7](https://lifehacker.com/connections-answer-today-september-7-2023-1850807719?utm_source=regular)
 - [Lifehacker] [Use the ‘Feynman Method’ to Tell If You’re Ready for a Test](https://lifehacker.com/use-the-feynman-method-to-study-1850809398?utm_source=regular)
 - [Lifehacker] [This 4K Samsung Gaming Monitor Is $230 Off Right Now](https://lifehacker.com/this-4k-samsung-gaming-monitor-is-230-off-right-now-1850809686?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Your Own Wordles With ‘Custom Wordle’](https://lifehacker.com/make-your-own-wordles-with-custom-wordle-1850805310?utm_source=regular)
 - [Lifehacker] [What to Do When You See a Downed Power Line](https://lifehacker.com/what-to-do-when-you-see-a-downed-power-line-1850803210?utm_source=regular)
 - [Lifehacker] [How to Skip Your Period Safely](https://lifehacker.com/how-to-skip-your-period-safely-1850804859?utm_source=regular)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 6](https://lifehacker.com/connections-answer-today-september-6-2023-1850803720?utm_source=regular)
-- [Lifehacker] [How to Choose the Best Weightlifting Straps](https://lifehacker.com/the-three-types-of-deadlift-straps-and-how-to-choose-t-1847467436?utm_source=regular)
-- [Lifehacker] [You Can Get This iCollege Beginner&#39;s Cybersecurity Course for $70](https://lifehacker.com/you-can-get-this-icollege-beginners-cybersecurity-cours-1850792590?utm_source=regular)
-- [Lifehacker] [How to Hide Your OnlyFans Payments History](https://lifehacker.com/how-to-hide-your-onlyfans-payments-history-1850805975?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 6](https://lifehacker.com/connections-answer-today-september-6-2023-1850803720?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
