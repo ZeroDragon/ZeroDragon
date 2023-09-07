@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Electron Forge + Vite + VueJS](https://dev.to/brojenuel/electron-forge-vite-vuejs-21he)
 - [Dev.to/JS] [Svelte.js Cheatsheet](https://dev.to/easewithtuts/sveltejs-cheatsheet-3md3)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 7](https://lifehacker.com/connections-answer-today-september-7-2023-1850807719?utm_source=regular)
 - [Dev.to/JS] [Learn Intl API](https://dev.to/easewithtuts/learn-intl-api-4705)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Operator Precedence](https://dev.to/zouhair_sahtout/operator-precedence-3065)
 - [Lifehacker] [The 10 Largest Cities &lpar;Relatively&rpar; Safe From Climate Change](https://lifehacker.com/us-cities-safest-from-climate-change-1850809083?utm_source=regular)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134?utm_source=regular)
-- [Dev.to/JS] [JavaScript for Beginners: A Comprehensive Guide](https://dev.to/grenishrai/javascript-for-beginners-a-comprehensive-guide-387k)
 - [Lifehacker] [The Samsung Galaxy Z Flip 5 Is Cheaper Than Ever Right Now](https://lifehacker.com/the-samsung-galaxy-z-flip-5-is-cheaper-than-ever-right-1850808852?utm_source=regular)
 - [Lifehacker] [Why You Should Marble Your Cakes With a Spoon Instead of a Toothpick](https://lifehacker.com/why-you-should-marble-your-cakes-with-a-spoon-instead-o-1850808851?utm_source=regular)
 - [Lifehacker] [Use ‘Distributed Practice’ to Better Retain What You Study](https://lifehacker.com/use-distributed-practice-to-better-retain-what-you-st-1850808691?utm_source=regular)
