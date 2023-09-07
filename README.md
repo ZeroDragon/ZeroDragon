@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [My Favorite Travel Apps for Booking Flights and Surviving the Airport](https://lifehacker.com/best-travel-apps-1850814673)
+- [Dev.to/JS] [Plasmo - a new way to create modern browser extensions](https://dev.to/corentinleberre/plasmo-a-new-way-to-create-modern-browser-extensions-19m3)
+- [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $55 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-55-1850806484)
 - [Lifehacker] [This Hidden Setting Will Make Your Instagram Pictures Look Better](https://lifehacker.com/this-hidden-setting-will-make-your-instagram-pictures-l-1850814073)
 - [Lifehacker] [This Two-Ingredient Meat Glaze Recipe Is Good on Any Meat](https://lifehacker.com/easy-meat-glaze-recipe-1831618342)
 - [Lifehacker] [This HP Omen 16 Gaming Laptop Is $700 Off Right Now](https://lifehacker.com/this-hp-omen-16-gaming-laptop-is-700-off-right-now-1850814359)
@@ -49,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get 15 Bottles of Splash Wine for Under $100](https://lifehacker.com/you-can-get-15-bottles-of-splash-wine-for-under-100-1850806284)
 - [Dev.to/JS] [Lazy Load no Vue](https://dev.to/jhonhenkel/lazy-load-no-vue-3deo)
 - [Dev.to/JS] [Quality Summit 2023](https://dev.to/kailashpathak7/quality-summit-2023-15h0)
-- [Dev.to/JS] [💥 Building a Next.js 13 Todo app with Login by Hanko and Prisma 🤯](https://dev.to/hanko/building-a-nextjs-13-todo-app-with-login-by-hanko-and-prisma-3a69)
 - [Lifehacker] [The Differences Between Joints, Blunts, and Spliffs](https://lifehacker.com/the-differences-between-joints-blunts-and-spliffs-1850811382)
 - [Lifehacker] [TikTok’s ‘Cozy Cardio’ Trend Might Help You Enjoy Exercise Again](https://lifehacker.com/tiktok-s-cozy-cardio-trend-might-help-you-enjoy-exerc-1850811679)
 - [Lifehacker] [These Are the Hidden Costs of Buying a House](https://lifehacker.com/all-the-hidden-unexpected-costs-of-buying-a-home-1758138500)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576)
 - [Lifehacker] [Four Ways to Make the Dog Park Safer for Your Dog](https://lifehacker.com/are-dog-parks-safe-for-dogs-1850809221)
 - [Lifehacker] [The Easiest Way to Get Garlic Smell Off Your Hands](https://lifehacker.com/the-easiest-way-to-get-garlic-smell-off-your-hands-1850809774)
-- [Lifehacker] [The Best Streaming Deals for September 2023](https://lifehacker.com/best-streaming-deals-1850763728)
-- [Lifehacker] [Why Hot-Bedding Is a Bad Idea](https://lifehacker.com/why-hot-bedding-is-a-bad-idea-1850809336)
-- [Lifehacker] [The 10 Largest Cities &lpar;Relatively&rpar; Safe From Climate Change](https://lifehacker.com/us-cities-safest-from-climate-change-1850809083)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Streaming Deals for September 2023](https://lifehacker.com/best-streaming-deals-1850763728)<!-- TECH-POSTS:END -->
 
 ---
 
