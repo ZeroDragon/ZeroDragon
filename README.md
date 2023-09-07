@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Hidden Setting Will Make Your Instagram Pictures Look Better](https://lifehacker.com/this-hidden-setting-will-make-your-instagram-pictures-l-1850814073)
+- [Lifehacker] [This Two-Ingredient Meat Glaze Recipe Is Good on Any Meat](https://lifehacker.com/easy-meat-glaze-recipe-1831618342)
 - [Lifehacker] [This HP Omen 16 Gaming Laptop Is $700 Off Right Now](https://lifehacker.com/this-hp-omen-16-gaming-laptop-is-700-off-right-now-1850814359)
 - [Lifehacker] [You Should Color Code Your Notes to Remember Them Better](https://lifehacker.com/you-should-color-code-your-notes-to-remember-them-bette-1850814205)
 - [Lifehacker] [How to Get Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Get Garlic Smell Off Your Hands](https://lifehacker.com/the-easiest-way-to-get-garlic-smell-off-your-hands-1850809774)
 - [Lifehacker] [The Best Streaming Deals for September 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [Why Hot-Bedding Is a Bad Idea](https://lifehacker.com/why-hot-bedding-is-a-bad-idea-1850809336)
-- [Lifehacker] [The 10 Largest Cities &lpar;Relatively&rpar; Safe From Climate Change](https://lifehacker.com/us-cities-safest-from-climate-change-1850809083)
-- [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
-- [Lifehacker] [The Samsung Galaxy Z Flip 5 Is Cheaper Than Ever Right Now](https://lifehacker.com/the-samsung-galaxy-z-flip-5-is-cheaper-than-ever-right-1850808852)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 10 Largest Cities &lpar;Relatively&rpar; Safe From Climate Change](https://lifehacker.com/us-cities-safest-from-climate-change-1850809083)<!-- TECH-POSTS:END -->
 
 ---
 
