@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Best Coursera Alternatives You Must Know](https://dev.to/aqsa81/5-best-coursera-alternatives-you-must-know-o41)
+- [Dev.to/JS] [Exploring the Differences: Next.js 12 vs. Next.js 13 - What&#39;s New?](https://dev.to/dj1samsoe/exploring-the-differences-nextjs-12-vs-nextjs-13-whats-new-32g4)
 - [Dev.to/JS] [Minimize Bugs: Tips On How To Write Javascript In A Better Way](https://dev.to/keralpatel/minimize-bugs-tips-on-how-to-write-javascript-in-a-better-way-12bo)
 - [Dev.to/JS] [Electron Forge + Vite + VueJS](https://dev.to/brojenuel/electron-forge-vite-vuejs-21he)
 - [Dev.to/JS] [Svelte.js Cheatsheet](https://dev.to/easewithtuts/sveltejs-cheatsheet-3md3)
@@ -42,10 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding NaN Equality in JavaScript](https://dev.to/mmvergara/understanding-nan-equality-in-javascript-n10)
 - [Lifehacker] [Four Ways to Make the Dog Park Safer for Your Dog](https://lifehacker.com/are-dog-parks-safe-for-dogs-1850809221?utm_source=regular)
 - [Dev.to/JS] [Agile Board: A Trello-like API in NestJS with Unit and e2e Testing](https://dev.to/malikidrees/agile-board-a-trello-like-api-in-nestjs-with-unit-and-e2e-testing-4823)
-- [Dev.to/JS] [ARE WEB 3 PROJECT COST EFFECTIVE?](https://dev.to/scofieldidehen/are-web-3-project-cost-effective-34jn)
 - [Lifehacker] [The Easiest Way to Get Garlic Smell Off Your Hands](https://lifehacker.com/the-easiest-way-to-get-garlic-smell-off-your-hands-1850809774?utm_source=regular)
 - [Lifehacker] [The Best Streaming Deals for September 2023](https://lifehacker.com/best-streaming-deals-1850763728?utm_source=regular)
-- [Dev.to/JS] [// WPimagines, A Free AI image generator&lpar;yup, another one&rpar;](https://dev.to/webplayground/-wpimagines-a-free-ai-image-generatoryup-another-one-3gaa)
 - [Lifehacker] [Why Hot-Bedding Is a Bad Idea](https://lifehacker.com/why-hot-bedding-is-a-bad-idea-1850809336?utm_source=regular)
 - [Lifehacker] [The 10 Largest Cities &lpar;Relatively&rpar; Safe From Climate Change](https://lifehacker.com/us-cities-safest-from-climate-change-1850809083?utm_source=regular)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134?utm_source=regular)
