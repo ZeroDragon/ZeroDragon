@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Short-Circuit Evaluation: Making Your Code More Concise](https://dev.to/mainulspace/short-circuit-evaluation-making-your-code-more-concise-2jne)
+- [Dev.to/JS] [ember-cli is stuck on certain version](https://dev.to/michalbryxi/ember-cli-is-stuck-on-certain-version-54f9)
+- [Dev.to/JS] [Advanced HTML Canvas tutorials for image editor](https://dev.to/fuco/advanced-html-canvas-tutorials-for-image-editor-l9o)
+- [Dev.to/JS] [A new way of saying good morning to my dad](https://dev.to/fricardi/a-new-way-of-saying-good-morning-to-my-dad-3mp0)
+- [Lifehacker] [These Are All the Names VASCO Can Call You in ‘Starfield’ &lpar;and Some Are Pretty NSFW&rpar;](https://lifehacker.com/all-the-names-vasco-can-call-you-in-starfield-1850812629)
+- [Dev.to/JS] [Learning Web Development with HTML To React: The Ultimate Guide](https://dev.to/ahmed_onour/learning-web-development-with-html-to-react-the-ultimate-guide-43og)
+- [Dev.to/JS] [Build any JS-powered web app in hours with Gadget](https://dev.to/gadget/build-any-js-powered-web-app-in-hours-with-gadget-4a4e)
+- [Dev.to/JS] [Explorando os Principais Hooks do React: Uma Jornada pela Otimização e Gerenciamento de Estado em Componentes](https://dev.to/murilonicemento/explorando-os-principais-hooks-do-react-uma-jornada-pela-otimizacao-e-gerenciamento-de-estado-em-componentes-495g)
 - [Lifehacker] [You Can Get 15 Bottles of Splash Wine for Under $100](https://lifehacker.com/you-can-get-15-bottles-of-splash-wine-for-under-100-1850806284)
 - [Dev.to/JS] [Lazy Load no Vue](https://dev.to/jhonhenkel/lazy-load-no-vue-3deo)
 - [Dev.to/JS] [Quality Summit 2023](https://dev.to/kailashpathak7/quality-summit-2023-15h0)
@@ -33,14 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Digital Identity Smart Contracts in Web3](https://dev.to/scofieldidehen/digital-identity-smart-contracts-in-web3-3h02)
 - [Dev.to/JS] [JavaScript Arrays - Index Values and Adding to an Array](https://dev.to/keoshaug/javascript-arrays-index-values-and-adding-to-an-array-27ol)
 - [Lifehacker] [The Differences Between Joints, Blunts, and Spliffs](https://lifehacker.com/the-differences-between-joints-blunts-and-spliffs-1850811382)
-- [Dev.to/JS] [💬 Building a real-time chat with Websockets, Novel and Clerk 🚀🚀](https://dev.to/novu/building-a-real-time-chat-with-websockets-novel-and-clerk-40ac)
-- [Dev.to/JS] [Differences in Mobile and Web Application Testing](https://dev.to/sparkouttech/differences-in-mobile-and-web-application-testing-19gb)
-- [Dev.to/JS] [Day 43: Generics](https://dev.to/dhrn/day-42-generics-15lb)
 - [Lifehacker] [TikTok’s ‘Cozy Cardio’ Trend Might Help You Enjoy Exercise Again](https://lifehacker.com/tiktok-s-cozy-cardio-trend-might-help-you-enjoy-exerc-1850811679)
-- [Dev.to/JS] [Understanding Slicing in Python: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-slicing-in-python-a-comprehensive-guide-eib)
-- [Dev.to/JS] [SQL 50 – 1757. Recyclable and Low Fat Products](https://dev.to/bendlmp/sql-50-1757-recyclable-and-low-fat-products-4amp)
-- [Dev.to/JS] [Environment Setup For TypeScript Development Crash Course🚀🚀](https://dev.to/obednuertey1/environment-setup-for-typescript-development-crash-course-3db4)
-- [Dev.to/JS] [How to use CoinAPI to access crypto exchange rates using Python, Javascript and Java.](https://dev.to/coinapi/how-to-use-coinapi-to-access-crypto-exchange-rates-using-python-javascript-and-java-4hl5)
 - [Lifehacker] [These Are the Hidden Costs of Buying a House](https://lifehacker.com/all-the-hidden-unexpected-costs-of-buying-a-home-1758138500)
 - [Lifehacker] [The Best Ways to Stay Awake Without Caffeine](https://lifehacker.com/the-best-ways-to-stay-awake-without-caffeine-1850811230)
 - [Lifehacker] [This 2021 LG Gram Laptop Is $500 Off Right Now](https://lifehacker.com/this-2021-lg-gram-laptop-is-500-off-right-now-1850792867)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do These Things Before You Quit Your Job](https://lifehacker.com/do-these-things-before-you-quit-your-job-1850765783)
 - [Lifehacker] [This Apple Magic Keyboard Folio for iPad &lpar;10th Gen&rpar; Is $107 Right Now](https://lifehacker.com/this-apple-magic-keyboard-folio-for-ipad-10th-gen-is-1850792794)
 - [Lifehacker] [These Are the Best Budget Gaming Laptops in 2023](https://lifehacker.com/best-budget-gaming-laptops-1850806628)
-- [Lifehacker] [The Best Board Games for Screen-Obsessed Kids](https://lifehacker.com/best-board-games-kids-1850807151)
-- [Lifehacker] [Give Your Tuna Salad Some Crunch Without Celery](https://lifehacker.com/tuna-salad-without-celery-1850805972)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Board Games for Screen-Obsessed Kids](https://lifehacker.com/best-board-games-kids-1850807151)<!-- TECH-POSTS:END -->
 
 ---
 
