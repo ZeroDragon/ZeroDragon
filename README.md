@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This HP Omen 16 Gaming Laptop Is $700 Off Right Now](https://lifehacker.com/this-hp-omen-16-gaming-laptop-is-700-off-right-now-1850814359)
+- [Lifehacker] [You Should Color Code Your Notes to Remember Them Better](https://lifehacker.com/you-should-color-code-your-notes-to-remember-them-bette-1850814205)
+- [Lifehacker] [How to Get Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
+- [Lifehacker] [Make &#39;Fake Risotto&#39; With Leftover Rice](https://lifehacker.com/risotto-rice-recipe-1850814101)
 - [Lifehacker] [The 15-inch M2 MacBook Air Is $200 Off Right Now](https://lifehacker.com/the-15-inch-m2-macbook-air-is-200-off-right-now-1850813742)
 - [Dev.to/JS] [From JavaScript to TypeScript: Enhance Your Skills and Your Web Development Career](https://dev.to/michaellarocca/from-javascript-to-typescript-enhance-your-skills-and-your-web-development-career-455d)
 - [Lifehacker] [You Can Make Oatmeal in Your Rice Cooker](https://lifehacker.com/rice-cooker-oatmeal-1849360455)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Hot-Bedding Is a Bad Idea](https://lifehacker.com/why-hot-bedding-is-a-bad-idea-1850809336)
 - [Lifehacker] [The 10 Largest Cities &lpar;Relatively&rpar; Safe From Climate Change](https://lifehacker.com/us-cities-safest-from-climate-change-1850809083)
 - [Lifehacker] [How Long Does It Really Take to Form a Habit?](https://lifehacker.com/how-long-does-it-really-take-to-form-a-habit-1849470134)
-- [Lifehacker] [The Samsung Galaxy Z Flip 5 Is Cheaper Than Ever Right Now](https://lifehacker.com/the-samsung-galaxy-z-flip-5-is-cheaper-than-ever-right-1850808852)
-- [Lifehacker] [Why You Should Marble Your Cakes With a Spoon Instead of a Toothpick](https://lifehacker.com/why-you-should-marble-your-cakes-with-a-spoon-instead-o-1850808851)
-- [Lifehacker] [Use ‘Distributed Practice’ to Better Retain What You Study](https://lifehacker.com/use-distributed-practice-to-better-retain-what-you-st-1850808691)
-- [Lifehacker] [The Difference Between a Mortgage’s APR and Interest Rate](https://lifehacker.com/difference-between-apr-and-interest-rate-1850808813)
-- [Lifehacker] [You Can Get This Four-Device Charging Station for $26 Right Now](https://lifehacker.com/you-can-get-this-four-device-charging-station-for-26-r-1850806555)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Samsung Galaxy Z Flip 5 Is Cheaper Than Ever Right Now](https://lifehacker.com/the-samsung-galaxy-z-flip-5-is-cheaper-than-ever-right-1850808852)<!-- TECH-POSTS:END -->
 
 ---
 
