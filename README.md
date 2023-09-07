@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Access Private S3 Buckets Securely](https://dev.to/mohammadfaisal/how-to-access-private-s3-buckets-securely-5f08)
+- [Dev.to/JS] [Asynchronous JavaScript with promises](https://dev.to/syedmuhammadaliraza/asynchronous-javascript-with-promises-37ib)
+- [Dev.to/JS] [Mastering Advanced JavaScript Operators: The Ultimate Guide](https://dev.to/hasnat12/mastering-advanced-javascript-operators-the-ultimate-guide-aok)
+- [Dev.to/JS] [Type Conversion and Type Coercion - JavaScript](https://dev.to/zouhair_sahtout/type-conversion-and-type-coercion-javascript-39i1)
 - [Dev.to/JS] [5 Best Coursera Alternatives You Must Know](https://dev.to/aqsa81/5-best-coursera-alternatives-you-must-know-o41)
 - [Dev.to/JS] [Exploring the Differences: Next.js 12 vs. Next.js 13 - What&#39;s New?](https://dev.to/dj1samsoe/exploring-the-differences-nextjs-12-vs-nextjs-13-whats-new-32g4)
 - [Dev.to/JS] [Minimize Bugs: Tips On How To Write Javascript In A Better Way](https://dev.to/keralpatel/minimize-bugs-tips-on-how-to-write-javascript-in-a-better-way-12bo)
@@ -35,15 +39,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn Intl API](https://dev.to/easewithtuts/learn-intl-api-4705)
 - [Dev.to/JS] [React.js Cheatsheet](https://dev.to/easewithtuts/reactjs-cheatsheet-142d)
 - [Dev.to/JS] [Mastering ES6 - Classes](https://dev.to/easewithtuts/mastering-es6-classes-2512)
-- [Dev.to/JS] [Demystifying JavaScript&#39;s Behavior with Primitives and Objects](https://dev.to/samyscode/demystifying-javascripts-behavior-with-primitives-and-objects-3kmk)
 - [Lifehacker] [Use the ‘Feynman Method’ to Tell If You’re Ready for a Test](https://lifehacker.com/use-the-feynman-method-to-study-1850809398?utm_source=regular)
 - [Lifehacker] [This 4K Samsung Gaming Monitor Is $230 Off Right Now](https://lifehacker.com/this-4k-samsung-gaming-monitor-is-230-off-right-now-1850809686?utm_source=regular)
-- [Dev.to/JS] [Learning JavaScript the Easy Way: Unlocking the Power of Scope with Closures](https://dev.to/unkletayo/learning-javascript-the-easy-way-unlocking-the-power-of-scope-with-closures-3mgb)
 - [Lifehacker] [Turn Your Bounty of Peppers Into Spicy Pepper Jelly](https://lifehacker.com/easy-pepper-jelly-recipe-for-canning-1850809366?utm_source=regular)
 - [Lifehacker] [How to Get the Most Out of Frontier&#39;s All-You-Can-Fly Deal](https://lifehacker.com/how-to-get-the-most-out-of-frontiers-all-you-can-fly-de-1850085576?utm_source=regular)
-- [Dev.to/JS] [Understanding NaN Equality in JavaScript](https://dev.to/mmvergara/understanding-nan-equality-in-javascript-n10)
 - [Lifehacker] [Four Ways to Make the Dog Park Safer for Your Dog](https://lifehacker.com/are-dog-parks-safe-for-dogs-1850809221?utm_source=regular)
-- [Dev.to/JS] [Agile Board: A Trello-like API in NestJS with Unit and e2e Testing](https://dev.to/malikidrees/agile-board-a-trello-like-api-in-nestjs-with-unit-and-e2e-testing-4823)
 - [Lifehacker] [The Easiest Way to Get Garlic Smell Off Your Hands](https://lifehacker.com/the-easiest-way-to-get-garlic-smell-off-your-hands-1850809774?utm_source=regular)
 - [Lifehacker] [The Best Streaming Deals for September 2023](https://lifehacker.com/best-streaming-deals-1850763728?utm_source=regular)
 - [Lifehacker] [Why Hot-Bedding Is a Bad Idea](https://lifehacker.com/why-hot-bedding-is-a-bad-idea-1850809336?utm_source=regular)
