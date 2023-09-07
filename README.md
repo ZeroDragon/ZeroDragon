@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying JavaScript&#39;s Behavior with Primitives and Objects](https://dev.to/samia13/demystifying-javascripts-behavior-with-primitives-and-objects-3kmk)
 - [Lifehacker] [Use the ‘Feynman Method’ to Tell If You’re Ready for a Test](https://lifehacker.com/use-the-feynman-method-to-study-1850809398?utm_source=regular)
 - [Lifehacker] [This 4K Samsung Gaming Monitor Is $230 Off Right Now](https://lifehacker.com/this-4k-samsung-gaming-monitor-is-230-off-right-now-1850809686?utm_source=regular)
 - [Dev.to/JS] [Learning JavaScript the Easy Way: Unlocking the Power of Scope with Closures](https://dev.to/unkletayo/learning-javascript-the-easy-way-unlocking-the-power-of-scope-with-closures-3mgb)
@@ -52,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Four-Device Charging Station for $26 Right Now](https://lifehacker.com/you-can-get-this-four-device-charging-station-for-26-r-1850806555?utm_source=regular)
 - [Dev.to/JS] [Migrating My Site To Astro](https://dev.to/noobscience123/migrating-my-site-to-astro-37ic)
 - [Dev.to/JS] [10 Cool CodePen Demos &lpar;August 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-august-2023-bge)
-- [Dev.to/JS] [Having issues with Selenium](https://dev.to/sohailalam2696/having-issues-with-selenium-2l65)
 - [Lifehacker] [Do These Things Before You Quit Your Job](https://lifehacker.com/do-these-things-before-you-quit-your-job-1850765783?utm_source=regular)
 - [Lifehacker] [This Apple Magic Keyboard Folio for iPad &lpar;10th Gen&rpar; Is $107 Right Now](https://lifehacker.com/this-apple-magic-keyboard-folio-for-ipad-10th-gen-is-1850792794?utm_source=regular)
 - [Lifehacker] [These Are the Best Budget Gaming Laptops in 2023](https://lifehacker.com/best-budget-gaming-laptops-1850806628?utm_source=regular)
