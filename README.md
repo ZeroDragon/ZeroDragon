@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Four Pillars of JavaScript Scoping: Global, Block, Function, and Module](https://dev.to/devlawrence/the-four-pillars-of-javascript-scoping-global-block-function-and-module-4jjg)
+- [Dev.to/JS] [Mastering AWS Cognito: The Ultimate Guide to User Attributes](https://dev.to/solancer/mastering-aws-cognito-the-ultimate-guide-to-user-attributes-g2i)
+- [Dev.to/JS] [QDAL88 &gt; Daftar Link Judi Slot Gacor 4D Resmi Terpercaya Mudah Menang Hari Ini](https://dev.to/bukanseo/qdal88-daftar-link-judi-slot-gacor-4d-resmi-terpercaya-mudah-menang-hari-ini-88a)
+- [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
 - [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
 - [Lifehacker] [The Best Cold Medicines Aren&#39;t in the Cough and Cold Aisle](https://lifehacker.com/which-cold-medicines-actually-work-1839986137)
 - [Lifehacker] [Update Your Apple Devices ASAP](https://lifehacker.com/update-your-apple-devices-asap-1850814960)
@@ -52,10 +56,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are All the Names VASCO Can Call You in ‘Starfield’ &lpar;and Some Are Pretty NSFW&rpar;](https://lifehacker.com/all-the-names-vasco-can-call-you-in-starfield-1850812629)
 - [Dev.to/JS] [Learning Web Development with HTML To React: The Ultimate Guide](https://dev.to/ahmed_onour/learning-web-development-with-html-to-react-the-ultimate-guide-43og)
 - [Dev.to/JS] [Build any JS-powered web app in hours with Gadget](https://dev.to/gadget/build-any-js-powered-web-app-in-hours-with-gadget-4a4e)
-- [Dev.to/JS] [Explorando os Principais Hooks do React: Uma Jornada pela Otimização e Gerenciamento de Estado em Componentes](https://dev.to/murilonicemento/explorando-os-principais-hooks-do-react-uma-jornada-pela-otimizacao-e-gerenciamento-de-estado-em-componentes-495g)
 - [Lifehacker] [You Can Get 15 Bottles of Splash Wine for Under $100](https://lifehacker.com/you-can-get-15-bottles-of-splash-wine-for-under-100-1850806284)
-- [Dev.to/JS] [Lazy Load no Vue](https://dev.to/jhonhenkel/lazy-load-no-vue-3deo)
-- [Dev.to/JS] [Quality Summit 2023](https://dev.to/kailashpathak7/quality-summit-2023-15h0)
 - [Lifehacker] [The Differences Between Joints, Blunts, and Spliffs](https://lifehacker.com/the-differences-between-joints-blunts-and-spliffs-1850811382)
 - [Lifehacker] [TikTok’s ‘Cozy Cardio’ Trend Might Help You Enjoy Exercise Again](https://lifehacker.com/tiktok-s-cozy-cardio-trend-might-help-you-enjoy-exerc-1850811679)
 - [Lifehacker] [These Are the Hidden Costs of Buying a House](https://lifehacker.com/all-the-hidden-unexpected-costs-of-buying-a-home-1758138500)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People are Getting Wrong this Week: COVID Vaccine Conspiracies](https://lifehacker.com/covid-vaccine-conspiracies-1850810502)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 7](https://lifehacker.com/connections-answer-today-september-7-2023-1850807719)
 - [Lifehacker] [Use the ‘Feynman Method’ to Tell If You’re Ready for a Test](https://lifehacker.com/use-the-feynman-method-to-study-1850809398)
-- [Lifehacker] [This 4K Samsung Gaming Monitor Is $230 Off Right Now](https://lifehacker.com/this-4k-samsung-gaming-monitor-is-230-off-right-now-1850809686)
-- [Lifehacker] [Turn Your Bounty of Peppers Into Spicy Pepper Jelly](https://lifehacker.com/easy-pepper-jelly-recipe-for-canning-1850809366)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 4K Samsung Gaming Monitor Is $230 Off Right Now](https://lifehacker.com/this-4k-samsung-gaming-monitor-is-230-off-right-now-1850809686)<!-- TECH-POSTS:END -->
 
 ---
 
