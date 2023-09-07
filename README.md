@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 15-inch M2 MacBook Air Is $200 Off Right Now](https://lifehacker.com/the-15-inch-m2-macbook-air-is-200-off-right-now-1850813742)
+- [Dev.to/JS] [From JavaScript to TypeScript: Enhance Your Skills and Your Web Development Career](https://dev.to/michaellarocca/from-javascript-to-typescript-enhance-your-skills-and-your-web-development-career-455d)
+- [Lifehacker] [You Can Make Oatmeal in Your Rice Cooker](https://lifehacker.com/rice-cooker-oatmeal-1849360455)
+- [Lifehacker] [Confit Egg Yolks in Olive Oil and Put Them on Everything](https://lifehacker.com/confit-egg-yolks-in-olive-oil-and-put-them-on-everythin-1850813785)
 - [Lifehacker] [How Long You Should Rest Between Sets](https://lifehacker.com/how-long-you-should-rest-between-sets-1850810654)
 - [Dev.to/JS] [Basic Auth Routing and Redirecting using React Router v6](https://dev.to/ericksong91/basic-auth-routing-and-redirecting-using-react-router-v6-2i8l)
 - [Dev.to/JS] [Short-Circuit Evaluation: Making Your Code More Concise](https://dev.to/mainulspace/short-circuit-evaluation-making-your-code-more-concise-2jne)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lazy Load no Vue](https://dev.to/jhonhenkel/lazy-load-no-vue-3deo)
 - [Dev.to/JS] [Quality Summit 2023](https://dev.to/kailashpathak7/quality-summit-2023-15h0)
 - [Dev.to/JS] [💥 Building a Next.js 13 Todo app with Login by Hanko and Prisma 🤯](https://dev.to/hanko/building-a-nextjs-13-todo-app-with-login-by-hanko-and-prisma-3a69)
-- [Dev.to/JS] [Digital Identity Smart Contracts in Web3](https://dev.to/scofieldidehen/digital-identity-smart-contracts-in-web3-3h02)
 - [Lifehacker] [The Differences Between Joints, Blunts, and Spliffs](https://lifehacker.com/the-differences-between-joints-blunts-and-spliffs-1850811382)
 - [Lifehacker] [TikTok’s ‘Cozy Cardio’ Trend Might Help You Enjoy Exercise Again](https://lifehacker.com/tiktok-s-cozy-cardio-trend-might-help-you-enjoy-exerc-1850811679)
 - [Lifehacker] [These Are the Hidden Costs of Buying a House](https://lifehacker.com/all-the-hidden-unexpected-costs-of-buying-a-home-1758138500)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Marble Your Cakes With a Spoon Instead of a Toothpick](https://lifehacker.com/why-you-should-marble-your-cakes-with-a-spoon-instead-o-1850808851)
 - [Lifehacker] [Use ‘Distributed Practice’ to Better Retain What You Study](https://lifehacker.com/use-distributed-practice-to-better-retain-what-you-st-1850808691)
 - [Lifehacker] [The Difference Between a Mortgage’s APR and Interest Rate](https://lifehacker.com/difference-between-apr-and-interest-rate-1850808813)
-- [Lifehacker] [You Can Get This Four-Device Charging Station for $26 Right Now](https://lifehacker.com/you-can-get-this-four-device-charging-station-for-26-r-1850806555)
-- [Lifehacker] [Do These Things Before You Quit Your Job](https://lifehacker.com/do-these-things-before-you-quit-your-job-1850765783)
-- [Lifehacker] [This Apple Magic Keyboard Folio for iPad &lpar;10th Gen&rpar; Is $107 Right Now](https://lifehacker.com/this-apple-magic-keyboard-folio-for-ipad-10th-gen-is-1850792794)
-- [Lifehacker] [These Are the Best Budget Gaming Laptops in 2023](https://lifehacker.com/best-budget-gaming-laptops-1850806628)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Four-Device Charging Station for $26 Right Now](https://lifehacker.com/you-can-get-this-four-device-charging-station-for-26-r-1850806555)<!-- TECH-POSTS:END -->
 
 ---
 
