@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Air Fried Shishito Pepper Poppers Are a Fun Twist on the Classic Appetizer](https://lifehacker.com/shishito-pepper-poppers-air-fryer-recipe-1850818664)
+- [Dev.to/JS] [#LearnedToday: Drag&amp;Drop API](https://dev.to/danielzotti/learnedtoday-dragdrop-api-1hkm)
+- [Dev.to/JS] [Load routes dynamically](https://dev.to/mahraayush4321/load-routes-dynamically-1i6j)
+- [Dev.to/JS] [The complete guide to React Hooks](https://dev.to/kalashin1/the-complete-guide-to-react-hooks-2elo)
+- [Lifehacker] [This ChatGPT Prompt Guide Is $29.99 Right Now](https://lifehacker.com/this-chatgpt-prompt-guide-is-29-99-right-now-1850814389)
+- [Dev.to/JS] [Demystifying the Critical Rendering Path: A Deep Dive into Web Page Loading](https://dev.to/vikas2426/demystifying-the-critical-rendering-path-a-deep-dive-into-web-page-loading-19ni)
 - [Lifehacker] [What to Do When You’re Feeling ‘Touched Out’ As a Parent](https://lifehacker.com/what-to-do-when-you-re-feeling-touched-out-as-a-paren-1850818344)
 - [Dev.to/JS] [Chat-Application](https://dev.to/swarupinfotech/chat-application-461j)
 - [Dev.to/JS] [Barsatein: A Must-Watch Series on SonyLIV - Here&#39;s Why](https://dev.to/milrahehain/barsatein-a-must-watch-series-on-sonyliv-heres-why-287n)
@@ -37,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js Router经典Web MVC设计](https://dev.to/rainbowmorelhahahah/nextjs-routerjing-dian-web-mvcshe-ji-25j6)
 - [Dev.to/JS] [为什么我们要学习Next.js](https://dev.to/rainbowmorelhahahah/wei-shi-yao-wo-men-yao-xue-xi-nextjs-479g)
 - [Dev.to/JS] [Mongoose Handbook](https://dev.to/sureshpattu/mongoose-handbook-2nhb)
-- [Dev.to/JS] [Bun 1.0 is out the oven and support is here! 🥯](https://dev.to/platformsh/bun-10-is-out-the-oven-and-support-is-here-1fhk)
 - [Lifehacker] [22 of the Scariest Horror Movies Streaming on Netflix](https://lifehacker.com/best-horror-movies-netflix-1850812430)
-- [Dev.to/JS] [TypeScript: To be or not to be](https://dev.to/rprabhu/typescript-to-be-or-not-to-be-53kg)
 - [Lifehacker] [You Can Get OfficeSuite for $45 Right Now](https://lifehacker.com/you-can-get-officesuite-for-45-right-now-1850806613)
-- [Dev.to/JS] [Powerful, yet simple Carousels in Doodle](https://dev.to/pusolito/powerful-yet-simple-carousels-in-doodle-10ad)
-- [Dev.to/JS] [Bun 1.0 - JavaScript meets speed of light](https://dev.to/sebastian_wessel/bun-10-javascript-meets-speed-of-light-4hfn)
 - [Lifehacker] [You Can Play These Retro Games in Your Browser](https://lifehacker.com/best-retro-browser-games-1850815840)
 - [Lifehacker] [Amazon&#39;s Fire TVs Are on Sale Right Now](https://lifehacker.com/amazons-fire-tvs-are-on-sale-right-now-1850815282)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Starfield&#39; Reviews](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-starfield-1850816581)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
 - [Lifehacker] [Make &#39;Fake Risotto&#39; With Leftover Rice](https://lifehacker.com/risotto-rice-recipe-1850814101)
 - [Lifehacker] [The 15-inch M2 MacBook Air Is $200 Off Right Now](https://lifehacker.com/the-15-inch-m2-macbook-air-is-200-off-right-now-1850813742)
-- [Lifehacker] [You Can Make Oatmeal in Your Rice Cooker](https://lifehacker.com/rice-cooker-oatmeal-1849360455)
-- [Lifehacker] [Confit Egg Yolks in Olive Oil and Put Them on Everything](https://lifehacker.com/confit-egg-yolks-in-olive-oil-and-put-them-on-everythin-1850813785)
-- [Lifehacker] [How Long You Should Rest Between Sets](https://lifehacker.com/how-long-you-should-rest-between-sets-1850810654)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Oatmeal in Your Rice Cooker](https://lifehacker.com/rice-cooker-oatmeal-1849360455)<!-- TECH-POSTS:END -->
 
 ---
 
