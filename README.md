@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Try &#39;Payday 3&#39;s&#39; Open Beta Right Now](https://lifehacker.com/you-can-try-payday-3s-open-beta-right-now-1850819129)
+- [Dev.to/JS] [A beginner&#39;s Guide to APIs](https://dev.to/gyauelvis/a-beginners-guide-to-apis-4ce4)
+- [Lifehacker] [These Are the Easiest Thai Chicken Skewers Ever](https://lifehacker.com/easy-thai-chicken-skewers-recipe-1849376133)
+- [Lifehacker] [The Fall Yard Cleanup Tasks You Should Tackle in September](https://lifehacker.com/fall-yard-cleanup-september-1850819047)
 - [Dev.to/JS] [I just enabled TS support in the framework I am working on, should I stop?](https://dev.to/msamgan/i-just-enabled-ts-support-in-the-framework-i-am-working-on-should-i-stop-jh4)
 - [Dev.to/JS] [Exploring the Distinctions: forEach vs. map in JavaScript Arrays](https://dev.to/mohdhaseebazam/exploring-the-distinctions-foreach-vs-map-in-javascript-arrays-kp8)
 - [Dev.to/JS] [Coming Here To Grow!](https://dev.to/johnmarit/coming-here-to-grow-2g7c)
@@ -42,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Start a Career in Coding: FAQ&#39;s from Aspiring Developers](https://dev.to/drod1107/how-to-start-a-career-in-coding-faqs-from-aspiring-developers-50hp)
 - [Lifehacker] [How to Watch NFL Game Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Lifehacker] [Air Fried Shishito Pepper Poppers Are a Fun Twist on the Classic Appetizer](https://lifehacker.com/shishito-pepper-poppers-air-fryer-recipe-1850818664)
-- [Dev.to/JS] [#LearnedToday: Drag&amp;Drop API](https://dev.to/danielzotti/learnedtoday-dragdrop-api-1hkm)
 - [Lifehacker] [This ChatGPT Prompt Guide Is $29.99 Right Now](https://lifehacker.com/this-chatgpt-prompt-guide-is-29-99-right-now-1850814389)
 - [Lifehacker] [What to Do When You’re Feeling ‘Touched Out’ As a Parent](https://lifehacker.com/what-to-do-when-you-re-feeling-touched-out-as-a-paren-1850818344)
 - [Lifehacker] [YouTube Lets You Sort Videos By Color Now, for Some Reason](https://lifehacker.com/youtube-lets-you-sort-videos-by-color-now-for-some-rea-1850818142)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Favorite Travel Apps for Booking Flights and Surviving the Airport](https://lifehacker.com/best-travel-apps-1850814673)
 - [Lifehacker] [This Is the Best Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)
 - [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $55 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-55-1850806484)
-- [Lifehacker] [This Hidden Setting Will Make Your Instagram Pictures Look Better](https://lifehacker.com/this-hidden-setting-will-make-your-instagram-pictures-l-1850814073)
-- [Lifehacker] [This Two-Ingredient Meat Glaze Recipe Is Good on Any Meat](https://lifehacker.com/easy-meat-glaze-recipe-1831618342)
-- [Lifehacker] [This HP Omen 16 Gaming Laptop Is $700 Off Right Now](https://lifehacker.com/this-hp-omen-16-gaming-laptop-is-700-off-right-now-1850814359)
-- [Lifehacker] [You Should Color Code Your Notes to Remember Them Better](https://lifehacker.com/you-should-color-code-your-notes-to-remember-them-bette-1850814205)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Hidden Setting Will Make Your Instagram Pictures Look Better](https://lifehacker.com/this-hidden-setting-will-make-your-instagram-pictures-l-1850814073)<!-- TECH-POSTS:END -->
 
 ---
 
