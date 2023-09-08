@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Binary Search - Intro &amp; Implementation](https://dev.to/easewithtuts/binary-search-intro-implementation-2o0n)
+- [Dev.to/JS] [Mastering ES6 - Sets and Maps](https://dev.to/easewithtuts/mastering-es6-sets-and-maps-2aj)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
 - [Dev.to/JS] [Node.js 101](https://dev.to/easewithtuts/nodejs-101-32e4)
 - [Dev.to/JS] [Give Me A .JSON, Vasili; One .JSON Only, Please](https://dev.to/tythos/give-me-a-json-vasili-one-json-only-please-3kli)
@@ -51,11 +53,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
 - [Lifehacker] [Make &#39;Fake Risotto&#39; With Leftover Rice](https://lifehacker.com/risotto-rice-recipe-1850814101)
 - [Lifehacker] [The 15-inch M2 MacBook Air Is $200 Off Right Now](https://lifehacker.com/the-15-inch-m2-macbook-air-is-200-off-right-now-1850813742)
-- [Dev.to/JS] [From JavaScript to TypeScript: Enhance Your Skills and Your Web Development Career](https://dev.to/michaellarocca/from-javascript-to-typescript-enhance-your-skills-and-your-web-development-career-455d)
 - [Lifehacker] [You Can Make Oatmeal in Your Rice Cooker](https://lifehacker.com/rice-cooker-oatmeal-1849360455)
 - [Lifehacker] [Confit Egg Yolks in Olive Oil and Put Them on Everything](https://lifehacker.com/confit-egg-yolks-in-olive-oil-and-put-them-on-everythin-1850813785)
 - [Lifehacker] [How Long You Should Rest Between Sets](https://lifehacker.com/how-long-you-should-rest-between-sets-1850810654)
-- [Dev.to/JS] [Basic Auth Routing and Redirecting using React Router v6](https://dev.to/ericksong91/basic-auth-routing-and-redirecting-using-react-router-v6-2i8l)
 - [Lifehacker] [These Are All the Names VASCO Can Call You in ‘Starfield’ &lpar;and Some Are Pretty NSFW&rpar;](https://lifehacker.com/all-the-names-vasco-can-call-you-in-starfield-1850812629)
 - [Lifehacker] [You Can Get 15 Bottles of Splash Wine for Under $100](https://lifehacker.com/you-can-get-15-bottles-of-splash-wine-for-under-100-1850806284)
 - [Lifehacker] [The Differences Between Joints, Blunts, and Spliffs](https://lifehacker.com/the-differences-between-joints-blunts-and-spliffs-1850811382)
