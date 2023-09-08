@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering API Requests the Right Way in Angular](https://dev.to/chintanonweb/mastering-api-requests-the-right-way-in-angular-247o)
 - [Dev.to/JS] [Solve Cross Browser Compatibility Issues](https://dev.to/nipu/solve-cross-browser-compatibility-issues-1jc)
 - [Dev.to/JS] [Rants of a Beginner Techie1](https://dev.to/golden_builds/rants-of-a-beginner-techie1-1611)
 - [Dev.to/JS] [Mastering JavaScript Async Iterators: Unlocking Asynchronous Magic](https://dev.to/this-is-learning/mastering-javascript-async-iterators-unlocking-asynchronous-magic-470k)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js 101](https://dev.to/easewithtuts/nodejs-101-32e4)
 - [Dev.to/JS] [Give Me A .JSON, Vasili; One .JSON Only, Please](https://dev.to/tythos/give-me-a-json-vasili-one-json-only-please-3kli)
 - [Dev.to/JS] [Javascript VS TypeScript : Going Back to JavaScript and stop using TypeScript](https://dev.to/idurar/javascript-vs-typescript-going-back-to-javascript-and-stop-using-typescript-59j5)
-- [Dev.to/JS] [Mastering ES6 - Map, Filter, and Reduce](https://dev.to/easewithtuts/mastering-es6-map-filter-and-reduce-3bln)
 - [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
 - [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
 - [Lifehacker] [The Best Cold Medicines Aren&#39;t in the Cough and Cold Aisle](https://lifehacker.com/which-cold-medicines-actually-work-1839986137)
