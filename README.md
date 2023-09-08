@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using CommonJS Modules in NodeJS with module.exports and require&lpar;&rpar; | Cheatsheet](https://dev.to/saurabhmisra/using-commonjs-modules-in-nodejs-with-moduleexports-and-require-cheatsheet-2kbf)
+- [Dev.to/JS] [ES6 Modules Cheatsheet | Quick Reference Guide](https://dev.to/saurabhmisra/es6-modules-cheatsheet-quick-reference-guide-5338)
+- [Dev.to/JS] [Create Matrix Animation using JavaScript](https://dev.to/dshaw0004/create-matrix-animation-using-javascript-36m3)
+- [Lifehacker] [Buy These Garden Essentials on Sale Before Fall](https://lifehacker.com/buy-these-garden-essentials-on-sale-before-fall-1850815125)
+- [Dev.to/JS] [JavaScript : Async/Await And Promises &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-asyncawait-and-promises-englishhindi-58d0)
 - [Dev.to/JS] [Mastering Data Analysis with Pandas: A Comprehensive Guide for Python Enthusiasts](https://dev.to/iamcymentho/mastering-data-analysis-with-pandas-a-comprehensive-guide-for-python-enthusiasts-426e)
 - [Dev.to/JS] [Using personalized QR codes](https://dev.to/axedigitalci/using-personalized-qr-codes-5end)
 - [Dev.to/JS] [Understanding JavaScript Promises: A Beginner&#39;s Guide](https://dev.to/patric12/understanding-javascript-promises-a-beginners-guide-51ee)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I efficiently learned &quot;webpack development environment configuration&quot; using this idea](https://dev.to/limingcan562/i-efficiently-learned-webpack-development-environment-configuration-using-this-idea-2f2e)
 - [Dev.to/JS] [React Native Vs. Progressive Web Apps : The Ultimate Comparison](https://dev.to/bradlyhammer/react-native-vs-progressive-web-apps-the-ultimate-comparison-7fo)
 - [Dev.to/JS] [“核污排海”反对呼声愈发高涨](https://dev.to/yil956371/he-wu-pai-hai-fan-dui-hu-sheng-yu-fa-gao-zhang-1ejb)
-- [Dev.to/JS] [Is Vercel Blob Too Expensive ?](https://dev.to/engineeringexpert/is-vercel-blob-too-expensive--n5)
-- [Dev.to/JS] [Unleash the Power of Angular: Hidden Features You&#39;ve Probably Never Used](https://dev.to/chintanonweb/unleash-the-power-of-angular-hidden-features-youve-probably-never-used-1he9)
-- [Dev.to/JS] [Top 2 Strategies for Handling JSON Parse Errors](https://dev.to/jimmy1995/top-2-strategies-for-handling-json-parse-errors-6mk)
-- [Dev.to/JS] [Mastering API Requests the Right Way in Angular](https://dev.to/chintanonweb/mastering-api-requests-the-right-way-in-angular-247o)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
 - [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
 - [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Stay Awake Without Caffeine](https://lifehacker.com/the-best-ways-to-stay-awake-without-caffeine-1850811230)
 - [Lifehacker] [This 2021 LG Gram Laptop Is $500 Off Right Now](https://lifehacker.com/this-2021-lg-gram-laptop-is-500-off-right-now-1850792867)
 - [Lifehacker] [What People are Getting Wrong this Week: COVID Vaccine Conspiracies](https://lifehacker.com/covid-vaccine-conspiracies-1850810502)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 7](https://lifehacker.com/connections-answer-today-september-7-2023-1850807719)
-- [Lifehacker] [Use the ‘Feynman Method’ to Tell If You’re Ready for a Test](https://lifehacker.com/use-the-feynman-method-to-study-1850809398)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 7](https://lifehacker.com/connections-answer-today-september-7-2023-1850807719)<!-- TECH-POSTS:END -->
 
 ---
 
