@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Data Analysis with Pandas: A Comprehensive Guide for Python Enthusiasts](https://dev.to/iamcymentho/mastering-data-analysis-with-pandas-a-comprehensive-guide-for-python-enthusiasts-426e)
+- [Dev.to/JS] [Using personalized QR codes](https://dev.to/axedigitalci/using-personalized-qr-codes-5end)
+- [Dev.to/JS] [Understanding JavaScript Promises: A Beginner&#39;s Guide](https://dev.to/patric12/understanding-javascript-promises-a-beginners-guide-51ee)
 - [Dev.to/JS] [Ryanair Refund Policy: Your Comprehensive Guide](https://dev.to/lunaevans06/ryanair-refund-policy-your-comprehensive-guide-1dkh)
 - [Dev.to/JS] [A Guide to Passing Data Using Props in React](https://dev.to/iamaamunir/a-guide-to-passing-data-using-props-in-react-38kh)
 - [Dev.to/JS] [I efficiently learned &quot;webpack development environment configuration&quot; using this idea](https://dev.to/limingcan562/i-efficiently-learned-webpack-development-environment-configuration-using-this-idea-2f2e)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleash the Power of Angular: Hidden Features You&#39;ve Probably Never Used](https://dev.to/chintanonweb/unleash-the-power-of-angular-hidden-features-youve-probably-never-used-1he9)
 - [Dev.to/JS] [Top 2 Strategies for Handling JSON Parse Errors](https://dev.to/jimmy1995/top-2-strategies-for-handling-json-parse-errors-6mk)
 - [Dev.to/JS] [Mastering API Requests the Right Way in Angular](https://dev.to/chintanonweb/mastering-api-requests-the-right-way-in-angular-247o)
-- [Dev.to/JS] [Solve Cross Browser Compatibility Issues](https://dev.to/nipu/solve-cross-browser-compatibility-issues-1jc)
-- [Dev.to/JS] [Rants of a Beginner Techie1](https://dev.to/golden_builds/rants-of-a-beginner-techie1-1611)
-- [Dev.to/JS] [Mastering JavaScript Async Iterators: Unlocking Asynchronous Magic](https://dev.to/this-is-learning/mastering-javascript-async-iterators-unlocking-asynchronous-magic-470k)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
 - [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
 - [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
