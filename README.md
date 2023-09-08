@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing supertext-react: Elevate Your Web Text Animations](https://dev.to/abodmicheal/introducing-supertext-react-elevate-your-web-text-animations-12af)
+- [Dev.to/JS] [🦜🔗Langchain without code -&gt; Flowise](https://dev.to/felipelujan/langchain-without-code-flowise-1l6a)
 - [Dev.to/JS] [Binary Search - Intro &amp; Implementation](https://dev.to/easewithtuts/binary-search-intro-implementation-2o0n)
 - [Dev.to/JS] [Mastering ES6 - Sets and Maps](https://dev.to/easewithtuts/mastering-es6-sets-and-maps-2aj)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
@@ -37,13 +39,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Improved JSX Readability with Switch-Case Statements in React Components](https://dev.to/kicksent/improved-jsx-readability-with-switch-case-statements-in-react-components-25f)
 - [Dev.to/JS] [The Four Pillars of JavaScript Scoping: Global, Block, Function, and Module](https://dev.to/devlawrence/the-four-pillars-of-javascript-scoping-global-block-function-and-module-4jjg)
 - [Dev.to/JS] [Mastering AWS Cognito: The Ultimate Guide to User Attributes](https://dev.to/solancer/mastering-aws-cognito-the-ultimate-guide-to-user-attributes-g2i)
-- [Dev.to/JS] [QDAL88 &gt; Daftar Link Judi Slot Gacor 4D Resmi Terpercaya Mudah Menang Hari Ini](https://dev.to/bukanseo/qdal88-daftar-link-judi-slot-gacor-4d-resmi-terpercaya-mudah-menang-hari-ini-88a)
 - [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
 - [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
 - [Lifehacker] [The Best Cold Medicines Aren&#39;t in the Cough and Cold Aisle](https://lifehacker.com/which-cold-medicines-actually-work-1839986137)
 - [Lifehacker] [Update Your Apple Devices ASAP](https://lifehacker.com/update-your-apple-devices-asap-1850814960)
 - [Lifehacker] [My Favorite Travel Apps for Booking Flights and Surviving the Airport](https://lifehacker.com/best-travel-apps-1850814673)
-- [Dev.to/JS] [Plasmo - a new way to create modern browser extensions](https://dev.to/corentinleberre/plasmo-a-new-way-to-create-modern-browser-extensions-19m3)
 - [Lifehacker] [This Is the Best Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)
 - [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $55 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-55-1850806484)
 - [Lifehacker] [This Hidden Setting Will Make Your Instagram Pictures Look Better](https://lifehacker.com/this-hidden-setting-will-make-your-instagram-pictures-l-1850814073)
