@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do When You’re Feeling ‘Touched Out’ As a Parent](https://lifehacker.com/what-to-do-when-you-re-feeling-touched-out-as-a-paren-1850818344)
+- [Dev.to/JS] [Chat-Application](https://dev.to/swarupinfotech/chat-application-461j)
+- [Dev.to/JS] [Barsatein: A Must-Watch Series on SonyLIV - Here&#39;s Why](https://dev.to/milrahehain/barsatein-a-must-watch-series-on-sonyliv-heres-why-287n)
+- [Lifehacker] [YouTube Lets You Sort Videos By Color Now, for Some Reason](https://lifehacker.com/youtube-lets-you-sort-videos-by-color-now-for-some-rea-1850818142)
 - [Lifehacker] [Three Ways to Make a Juicier Turkey Burger](https://lifehacker.com/three-ways-to-make-a-juicier-turkey-burger-1850815301)
-- [Dev.to/JS] [Map, Filter and Reduce in Javascript](https://dev.to/localhostd3veloper/map-filter-and-reduce-in-javascript-51fj)
+- [Dev.to/JS] [Map, Filter and Reduce in Javascript 👨🏼‍💻](https://dev.to/localhostd3veloper/map-filter-and-reduce-in-javascript-51fj)
 - [Dev.to/JS] [Node.js使用Mongoose操作MongoDB](https://dev.to/rainbowmorelhahahah/nodejsshi-yong-mongoosecao-zuo-mongodb-5e6m)
 - [Dev.to/JS] [Next.js13中文指南-服务端组件和客户端组件的区别](https://dev.to/rainbowmorelhahahah/nextjs13zhong-wen-zhi-nan-fu-wu-duan-zu-jian-he-ke-hu-duan-zu-jian-de-qu-bie-1j37)
 - [Dev.to/JS] [Next.js Router经典Web MVC设计](https://dev.to/rainbowmorelhahahah/nextjs-routerjing-dian-web-mvcshe-ji-25j6)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Powerful, yet simple Carousels in Doodle](https://dev.to/pusolito/powerful-yet-simple-carousels-in-doodle-10ad)
 - [Dev.to/JS] [Bun 1.0 - JavaScript meets speed of light](https://dev.to/sebastian_wessel/bun-10-javascript-meets-speed-of-light-4hfn)
 - [Lifehacker] [You Can Play These Retro Games in Your Browser](https://lifehacker.com/best-retro-browser-games-1850815840)
-- [Dev.to/JS] [JavaScript Promises: From Beginner to Expert - A Comprehensive Tutorial](https://dev.to/shriharimurali/javascript-promises-from-beginner-to-expert-a-comprehensive-tutorial-9gg)
-- [Dev.to/JS] [Links in Next Js: A Detailed Guide](https://dev.to/alakkadshaw/links-in-next-js-a-detailed-guide-4cgj)
 - [Lifehacker] [Amazon&#39;s Fire TVs Are on Sale Right Now](https://lifehacker.com/amazons-fire-tvs-are-on-sale-right-now-1850815282)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Starfield&#39; Reviews](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-starfield-1850816581)
 - [Lifehacker] [Every Gardener Should Have a Steam Juicer](https://lifehacker.com/every-gardener-should-have-a-steam-juicer-1850814070)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 15-inch M2 MacBook Air Is $200 Off Right Now](https://lifehacker.com/the-15-inch-m2-macbook-air-is-200-off-right-now-1850813742)
 - [Lifehacker] [You Can Make Oatmeal in Your Rice Cooker](https://lifehacker.com/rice-cooker-oatmeal-1849360455)
 - [Lifehacker] [Confit Egg Yolks in Olive Oil and Put Them on Everything](https://lifehacker.com/confit-egg-yolks-in-olive-oil-and-put-them-on-everythin-1850813785)
-- [Lifehacker] [How Long You Should Rest Between Sets](https://lifehacker.com/how-long-you-should-rest-between-sets-1850810654)
-- [Lifehacker] [These Are All the Names VASCO Can Call You in ‘Starfield’ &lpar;and Some Are Pretty NSFW&rpar;](https://lifehacker.com/all-the-names-vasco-can-call-you-in-starfield-1850812629)
-- [Lifehacker] [You Can Get 15 Bottles of Splash Wine for Under $100](https://lifehacker.com/you-can-get-15-bottles-of-splash-wine-for-under-100-1850806284)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Long You Should Rest Between Sets](https://lifehacker.com/how-long-you-should-rest-between-sets-1850810654)<!-- TECH-POSTS:END -->
 
 ---
 
