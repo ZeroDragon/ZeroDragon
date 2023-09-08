@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I efficiently learned &quot;webpack development environment configuration&quot; using this idea](https://dev.to/limingcan562/i-efficiently-learned-webpack-development-environment-configuration-using-this-idea-2f2e)
+- [Dev.to/JS] [React Native Vs. Progressive Web Apps : The Ultimate Comparison](https://dev.to/bradlyhammer/react-native-vs-progressive-web-apps-the-ultimate-comparison-7fo)
+- [Dev.to/JS] [“核污排海”反对呼声愈发高涨](https://dev.to/yil956371/he-wu-pai-hai-fan-dui-hu-sheng-yu-fa-gao-zhang-1ejb)
 - [Dev.to/JS] [Is Vercel Blob Too Expensive ?](https://dev.to/engineeringexpert/is-vercel-blob-too-expensive--n5)
 - [Dev.to/JS] [Unleash the Power of Angular: Hidden Features You&#39;ve Probably Never Used](https://dev.to/chintanonweb/unleash-the-power-of-angular-hidden-features-youve-probably-never-used-1he9)
 - [Dev.to/JS] [Top 2 Strategies for Handling JSON Parse Errors](https://dev.to/jimmy1995/top-2-strategies-for-handling-json-parse-errors-6mk)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering JavaScript Async Iterators: Unlocking Asynchronous Magic](https://dev.to/this-is-learning/mastering-javascript-async-iterators-unlocking-asynchronous-magic-470k)
 - [Dev.to/JS] [Introduction to TypeScript with React - A Youtube Video](https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-a-youtube-video-452d)
 - [Dev.to/JS] [Introducing supertext-react: Elevate Your Web Text Animations](https://dev.to/abodmicheal/introducing-supertext-react-elevate-your-web-text-animations-12af)
-- [Dev.to/JS] [🦜🔗Langchain without code -&gt; Flowise](https://dev.to/felipelujan/langchain-without-code-flowise-1l6a)
-- [Dev.to/JS] [Binary Search - Intro &amp; Implementation](https://dev.to/easewithtuts/binary-search-intro-implementation-2o0n)
-- [Dev.to/JS] [Mastering ES6 - Sets and Maps](https://dev.to/easewithtuts/mastering-es6-sets-and-maps-2aj)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
 - [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
 - [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
