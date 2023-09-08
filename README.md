@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
+- [Dev.to/JS] [Event Handling in JavaScript](https://dev.to/shubhankarval/event-handling-in-javascript-51n3)
+- [Dev.to/JS] [How to convert and migrate your project from TypeScript to JavaScript](https://dev.to/tholder/how-to-convert-and-migrate-your-project-from-typescript-to-javascript-5ccf)
+- [Lifehacker] [Bad Study Habits You Should Avoid &lpar;and What to Do Instead&rpar;](https://lifehacker.com/bad-study-habits-you-should-avoid-and-what-to-do-inste-1850818992)
+- [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-1850409952)
+- [Lifehacker] [This Vegan Whipped Cream Recipe Will Make You Forget About Dairy](https://lifehacker.com/vegan-whipped-cream-recipe-1850819905)
 - [Lifehacker] [You Can Try &#39;Payday 3&#39;s&#39; Open Beta Right Now](https://lifehacker.com/you-can-try-payday-3s-open-beta-right-now-1850819129)
 - [Dev.to/JS] [A beginner&#39;s Guide to APIs](https://dev.to/gyauelvis/a-beginners-guide-to-apis-4ce4)
 - [Lifehacker] [These Are the Easiest Thai Chicken Skewers Ever](https://lifehacker.com/easy-thai-chicken-skewers-recipe-1849376133)
@@ -42,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tailwind CSS: Using Dynamic Breakpoints and Container Queries](https://dev.to/alakkadshaw/tailwind-css-using-dynamic-breakpoints-and-container-queries-5clb)
 - [Dev.to/JS] [Exploring Script Loading Strategies: Normal, async, and defer](https://dev.to/muhammedshameel/exploring-script-loading-strategies-normal-async-and-defer-26ne)
 - [Dev.to/JS] [Simple beginner friendly roadmap for devops](https://dev.to/kssaiteja/simple-beginner-friendly-roadmap-for-devops-227b)
-- [Dev.to/JS] [How can I enhance my website&#39;s performance in Lighthouse?](https://dev.to/ucrynet/how-can-i-enhance-my-websites-performance-in-lighthouse-3en0)
-- [Dev.to/JS] [How to Start a Career in Coding: FAQ&#39;s from Aspiring Developers](https://dev.to/drod1107/how-to-start-a-career-in-coding-faqs-from-aspiring-developers-50hp)
 - [Lifehacker] [How to Watch NFL Game Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Lifehacker] [Air Fried Shishito Pepper Poppers Are a Fun Twist on the Classic Appetizer](https://lifehacker.com/shishito-pepper-poppers-air-fryer-recipe-1850818664)
 - [Lifehacker] [This ChatGPT Prompt Guide Is $29.99 Right Now](https://lifehacker.com/this-chatgpt-prompt-guide-is-29-99-right-now-1850814389)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
 - [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
 - [Lifehacker] [The Best Cold Medicines Aren&#39;t in the Cough and Cold Aisle](https://lifehacker.com/which-cold-medicines-actually-work-1839986137)
-- [Lifehacker] [Update Your Apple Devices ASAP](https://lifehacker.com/update-your-apple-devices-asap-1850814960)
-- [Lifehacker] [My Favorite Travel Apps for Booking Flights and Surviving the Airport](https://lifehacker.com/best-travel-apps-1850814673)
-- [Lifehacker] [This Is the Best Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)
-- [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $55 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-55-1850806484)
-- [Lifehacker] [This Hidden Setting Will Make Your Instagram Pictures Look Better](https://lifehacker.com/this-hidden-setting-will-make-your-instagram-pictures-l-1850814073)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Update Your Apple Devices ASAP](https://lifehacker.com/update-your-apple-devices-asap-1850814960)<!-- TECH-POSTS:END -->
 
 ---
 
