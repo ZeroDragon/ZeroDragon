@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ryanair Refund Policy: Your Comprehensive Guide](https://dev.to/lunaevans06/ryanair-refund-policy-your-comprehensive-guide-1dkh)
+- [Dev.to/JS] [A Guide to Passing Data Using Props in React](https://dev.to/iamaamunir/a-guide-to-passing-data-using-props-in-react-38kh)
 - [Dev.to/JS] [I efficiently learned &quot;webpack development environment configuration&quot; using this idea](https://dev.to/limingcan562/i-efficiently-learned-webpack-development-environment-configuration-using-this-idea-2f2e)
 - [Dev.to/JS] [React Native Vs. Progressive Web Apps : The Ultimate Comparison](https://dev.to/bradlyhammer/react-native-vs-progressive-web-apps-the-ultimate-comparison-7fo)
 - [Dev.to/JS] [“核污排海”反对呼声愈发高涨](https://dev.to/yil956371/he-wu-pai-hai-fan-dui-hu-sheng-yu-fa-gao-zhang-1ejb)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solve Cross Browser Compatibility Issues](https://dev.to/nipu/solve-cross-browser-compatibility-issues-1jc)
 - [Dev.to/JS] [Rants of a Beginner Techie1](https://dev.to/golden_builds/rants-of-a-beginner-techie1-1611)
 - [Dev.to/JS] [Mastering JavaScript Async Iterators: Unlocking Asynchronous Magic](https://dev.to/this-is-learning/mastering-javascript-async-iterators-unlocking-asynchronous-magic-470k)
-- [Dev.to/JS] [Introduction to TypeScript with React - A Youtube Video](https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-a-youtube-video-452d)
-- [Dev.to/JS] [Introducing supertext-react: Elevate Your Web Text Animations](https://dev.to/abodmicheal/introducing-supertext-react-elevate-your-web-text-animations-12af)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
 - [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
 - [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
