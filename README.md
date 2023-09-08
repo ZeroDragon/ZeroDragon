@@ -26,22 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Ways to Make a Juicier Turkey Burger](https://lifehacker.com/three-ways-to-make-a-juicier-turkey-burger-1850815301)
+- [Dev.to/JS] [Map, Filter and Reduce in Javascript](https://dev.to/localhostd3veloper/map-filter-and-reduce-in-javascript-51fj)
+- [Dev.to/JS] [Node.js使用Mongoose操作MongoDB](https://dev.to/rainbowmorelhahahah/nodejsshi-yong-mongoosecao-zuo-mongodb-5e6m)
+- [Dev.to/JS] [Next.js13中文指南-服务端组件和客户端组件的区别](https://dev.to/rainbowmorelhahahah/nextjs13zhong-wen-zhi-nan-fu-wu-duan-zu-jian-he-ke-hu-duan-zu-jian-de-qu-bie-1j37)
+- [Dev.to/JS] [Next.js Router经典Web MVC设计](https://dev.to/rainbowmorelhahahah/nextjs-routerjing-dian-web-mvcshe-ji-25j6)
+- [Dev.to/JS] [为什么我们要学习Next.js](https://dev.to/rainbowmorelhahahah/wei-shi-yao-wo-men-yao-xue-xi-nextjs-479g)
+- [Dev.to/JS] [Mongoose Handbook](https://dev.to/sureshpattu/mongoose-handbook-2nhb)
+- [Dev.to/JS] [Bun 1.0 is out the oven and support is here! 🥯](https://dev.to/platformsh/bun-10-is-out-the-oven-and-support-is-here-1fhk)
+- [Lifehacker] [22 of the Scariest Horror Movies Streaming on Netflix](https://lifehacker.com/best-horror-movies-netflix-1850812430)
+- [Dev.to/JS] [TypeScript: To be or not to be](https://dev.to/rprabhu/typescript-to-be-or-not-to-be-53kg)
 - [Lifehacker] [You Can Get OfficeSuite for $45 Right Now](https://lifehacker.com/you-can-get-officesuite-for-45-right-now-1850806613)
 - [Dev.to/JS] [Powerful, yet simple Carousels in Doodle](https://dev.to/pusolito/powerful-yet-simple-carousels-in-doodle-10ad)
 - [Dev.to/JS] [Bun 1.0 - JavaScript meets speed of light](https://dev.to/sebastian_wessel/bun-10-javascript-meets-speed-of-light-4hfn)
 - [Lifehacker] [You Can Play These Retro Games in Your Browser](https://lifehacker.com/best-retro-browser-games-1850815840)
 - [Dev.to/JS] [JavaScript Promises: From Beginner to Expert - A Comprehensive Tutorial](https://dev.to/shriharimurali/javascript-promises-from-beginner-to-expert-a-comprehensive-tutorial-9gg)
 - [Dev.to/JS] [Links in Next Js: A Detailed Guide](https://dev.to/alakkadshaw/links-in-next-js-a-detailed-guide-4cgj)
-- [Dev.to/JS] [Criando componente de share com React/NextJS](https://dev.to/iagocavalcante/criando-componente-de-share-com-reactnextjs-3jdf)
-- [Dev.to/JS] [Como resolver corretamente cache node_modules em discos externos](https://dev.to/iagocavalcante/como-resolver-corretamente-cache-nodemodules-em-discos-externos-3a9h)
-- [Dev.to/JS] [Demystifying the Next.js Folder Structure - A Comprehensive Guide](https://dev.to/buchman/demystifying-the-nextjs-folder-structure-a-comprehensive-guide-39of)
 - [Lifehacker] [Amazon&#39;s Fire TVs Are on Sale Right Now](https://lifehacker.com/amazons-fire-tvs-are-on-sale-right-now-1850815282)
-- [Dev.to/JS] [Moonly weekly progress update #63 - Holder Verification Bot V2](https://dev.to/moonly/moonly-weekly-progress-update-63-holder-verification-bot-v2-iik)
-- [Dev.to/JS] [Day 44: Decorators](https://dev.to/dhrn/day-44-decorators-3c42)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Starfield&#39; Reviews](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-starfield-1850816581)
-- [Dev.to/JS] [My first Open Source Software](https://dev.to/soham-thaker/my-first-open-source-software-33hf)
-- [Dev.to/JS] [How to test web applications on different devices](https://dev.to/sparkouttech/how-to-test-web-applications-on-different-devices-4cbk)
-- [Dev.to/JS] [React vs Next.js — Understanding When to Use Each](https://dev.to/lakincoder/react-vs-nextjs-understanding-when-to-use-each-33ld)
 - [Lifehacker] [Every Gardener Should Have a Steam Juicer](https://lifehacker.com/every-gardener-should-have-a-steam-juicer-1850814070)
 - [Lifehacker] [Buy These Garden Essentials on Sale Before Fall](https://lifehacker.com/buy-these-garden-essentials-on-sale-before-fall-1850815125)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Confit Egg Yolks in Olive Oil and Put Them on Everything](https://lifehacker.com/confit-egg-yolks-in-olive-oil-and-put-them-on-everythin-1850813785)
 - [Lifehacker] [How Long You Should Rest Between Sets](https://lifehacker.com/how-long-you-should-rest-between-sets-1850810654)
 - [Lifehacker] [These Are All the Names VASCO Can Call You in ‘Starfield’ &lpar;and Some Are Pretty NSFW&rpar;](https://lifehacker.com/all-the-names-vasco-can-call-you-in-starfield-1850812629)
-- [Lifehacker] [You Can Get 15 Bottles of Splash Wine for Under $100](https://lifehacker.com/you-can-get-15-bottles-of-splash-wine-for-under-100-1850806284)
-- [Lifehacker] [The Differences Between Joints, Blunts, and Spliffs](https://lifehacker.com/the-differences-between-joints-blunts-and-spliffs-1850811382)
-- [Lifehacker] [TikTok’s ‘Cozy Cardio’ Trend Might Help You Enjoy Exercise Again](https://lifehacker.com/tiktok-s-cozy-cardio-trend-might-help-you-enjoy-exerc-1850811679)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get 15 Bottles of Splash Wine for Under $100](https://lifehacker.com/you-can-get-15-bottles-of-splash-wine-for-under-100-1850806284)<!-- TECH-POSTS:END -->
 
 ---
 
