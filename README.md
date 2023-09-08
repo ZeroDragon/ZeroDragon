@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying the Next.js Folder Structure - A Comprehensive Guide](https://dev.to/buchman/demystifying-the-nextjs-folder-structure-a-comprehensive-guide-39of)
+- [Dev.to/JS] [Moonly weekly progress update #63 - Holder Verification Bot V2](https://dev.to/moonly/moonly-weekly-progress-update-63-holder-verification-bot-v2-iik)
+- [Dev.to/JS] [Day 44: Decorators](https://dev.to/dhrn/day-44-decorators-3c42)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Starfield&#39; Reviews](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-starfield-1850816581)
+- [Dev.to/JS] [My first Open Source Software](https://dev.to/soham-thaker/my-first-open-source-software-33hf)
+- [Dev.to/JS] [How to test web applications on different devices](https://dev.to/sparkouttech/how-to-test-web-applications-on-different-devices-4cbk)
+- [Dev.to/JS] [React vs Next.js — Understanding When to Use Each](https://dev.to/lakincoder/react-vs-nextjs-understanding-when-to-use-each-33ld)
+- [Lifehacker] [Every Gardener Should Have a Steam Juicer](https://lifehacker.com/every-gardener-should-have-a-steam-juicer-1850814070)
 - [Dev.to/JS] [Using CommonJS Modules in NodeJS with module.exports and require&lpar;&rpar; | Cheatsheet](https://dev.to/saurabhmisra/using-commonjs-modules-in-nodejs-with-moduleexports-and-require-cheatsheet-2kbf)
 - [Dev.to/JS] [ES6 Modules Cheatsheet | Quick Reference Guide](https://dev.to/saurabhmisra/es6-modules-cheatsheet-quick-reference-guide-5338)
 - [Dev.to/JS] [Create Matrix Animation using JavaScript](https://dev.to/dshaw0004/create-matrix-animation-using-javascript-36m3)
@@ -33,12 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript : Async/Await And Promises &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-asyncawait-and-promises-englishhindi-58d0)
 - [Dev.to/JS] [Mastering Data Analysis with Pandas: A Comprehensive Guide for Python Enthusiasts](https://dev.to/iamcymentho/mastering-data-analysis-with-pandas-a-comprehensive-guide-for-python-enthusiasts-426e)
 - [Dev.to/JS] [Using personalized QR codes](https://dev.to/axedigitalci/using-personalized-qr-codes-5end)
-- [Dev.to/JS] [Understanding JavaScript Promises: A Beginner&#39;s Guide](https://dev.to/patric12/understanding-javascript-promises-a-beginners-guide-51ee)
-- [Dev.to/JS] [Ryanair Refund Policy: Your Comprehensive Guide](https://dev.to/lunaevans06/ryanair-refund-policy-your-comprehensive-guide-1dkh)
-- [Dev.to/JS] [A Guide to Passing Data Using Props in React](https://dev.to/iamaamunir/a-guide-to-passing-data-using-props-in-react-38kh)
-- [Dev.to/JS] [I efficiently learned &quot;webpack development environment configuration&quot; using this idea](https://dev.to/limingcan562/i-efficiently-learned-webpack-development-environment-configuration-using-this-idea-2f2e)
-- [Dev.to/JS] [React Native Vs. Progressive Web Apps : The Ultimate Comparison](https://dev.to/bradlyhammer/react-native-vs-progressive-web-apps-the-ultimate-comparison-7fo)
-- [Dev.to/JS] [“核污排海”反对呼声愈发高涨](https://dev.to/yil956371/he-wu-pai-hai-fan-dui-hu-sheng-yu-fa-gao-zhang-1ejb)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
 - [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
 - [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok’s ‘Cozy Cardio’ Trend Might Help You Enjoy Exercise Again](https://lifehacker.com/tiktok-s-cozy-cardio-trend-might-help-you-enjoy-exerc-1850811679)
 - [Lifehacker] [These Are the Hidden Costs of Buying a House](https://lifehacker.com/all-the-hidden-unexpected-costs-of-buying-a-home-1758138500)
 - [Lifehacker] [The Best Ways to Stay Awake Without Caffeine](https://lifehacker.com/the-best-ways-to-stay-awake-without-caffeine-1850811230)
-- [Lifehacker] [This 2021 LG Gram Laptop Is $500 Off Right Now](https://lifehacker.com/this-2021-lg-gram-laptop-is-500-off-right-now-1850792867)
-- [Lifehacker] [What People are Getting Wrong this Week: COVID Vaccine Conspiracies](https://lifehacker.com/covid-vaccine-conspiracies-1850810502)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 7](https://lifehacker.com/connections-answer-today-september-7-2023-1850807719)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 2021 LG Gram Laptop Is $500 Off Right Now](https://lifehacker.com/this-2021-lg-gram-laptop-is-500-off-right-now-1850792867)<!-- TECH-POSTS:END -->
 
 ---
 
