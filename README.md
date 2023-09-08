@@ -26,7 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get OfficeSuite for $45 Right Now](https://lifehacker.com/you-can-get-officesuite-for-45-right-now-1850806613)
+- [Dev.to/JS] [Powerful, yet simple Carousels in Doodle](https://dev.to/pusolito/powerful-yet-simple-carousels-in-doodle-10ad)
+- [Dev.to/JS] [Bun 1.0 - JavaScript meets speed of light](https://dev.to/sebastian_wessel/bun-10-javascript-meets-speed-of-light-4hfn)
+- [Lifehacker] [You Can Play These Retro Games in Your Browser](https://lifehacker.com/best-retro-browser-games-1850815840)
+- [Dev.to/JS] [JavaScript Promises: From Beginner to Expert - A Comprehensive Tutorial](https://dev.to/shriharimurali/javascript-promises-from-beginner-to-expert-a-comprehensive-tutorial-9gg)
+- [Dev.to/JS] [Links in Next Js: A Detailed Guide](https://dev.to/alakkadshaw/links-in-next-js-a-detailed-guide-4cgj)
+- [Dev.to/JS] [Criando componente de share com React/NextJS](https://dev.to/iagocavalcante/criando-componente-de-share-com-reactnextjs-3jdf)
+- [Dev.to/JS] [Como resolver corretamente cache node_modules em discos externos](https://dev.to/iagocavalcante/como-resolver-corretamente-cache-nodemodules-em-discos-externos-3a9h)
 - [Dev.to/JS] [Demystifying the Next.js Folder Structure - A Comprehensive Guide](https://dev.to/buchman/demystifying-the-nextjs-folder-structure-a-comprehensive-guide-39of)
+- [Lifehacker] [Amazon&#39;s Fire TVs Are on Sale Right Now](https://lifehacker.com/amazons-fire-tvs-are-on-sale-right-now-1850815282)
 - [Dev.to/JS] [Moonly weekly progress update #63 - Holder Verification Bot V2](https://dev.to/moonly/moonly-weekly-progress-update-63-holder-verification-bot-v2-iik)
 - [Dev.to/JS] [Day 44: Decorators](https://dev.to/dhrn/day-44-decorators-3c42)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Starfield&#39; Reviews](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-starfield-1850816581)
@@ -34,13 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to test web applications on different devices](https://dev.to/sparkouttech/how-to-test-web-applications-on-different-devices-4cbk)
 - [Dev.to/JS] [React vs Next.js — Understanding When to Use Each](https://dev.to/lakincoder/react-vs-nextjs-understanding-when-to-use-each-33ld)
 - [Lifehacker] [Every Gardener Should Have a Steam Juicer](https://lifehacker.com/every-gardener-should-have-a-steam-juicer-1850814070)
-- [Dev.to/JS] [Using CommonJS Modules in NodeJS with module.exports and require&lpar;&rpar; | Cheatsheet](https://dev.to/saurabhmisra/using-commonjs-modules-in-nodejs-with-moduleexports-and-require-cheatsheet-2kbf)
-- [Dev.to/JS] [ES6 Modules Cheatsheet | Quick Reference Guide](https://dev.to/saurabhmisra/es6-modules-cheatsheet-quick-reference-guide-5338)
-- [Dev.to/JS] [Create Matrix Animation using JavaScript](https://dev.to/dshaw0004/create-matrix-animation-using-javascript-36m3)
 - [Lifehacker] [Buy These Garden Essentials on Sale Before Fall](https://lifehacker.com/buy-these-garden-essentials-on-sale-before-fall-1850815125)
-- [Dev.to/JS] [JavaScript : Async/Await And Promises &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-asyncawait-and-promises-englishhindi-58d0)
-- [Dev.to/JS] [Mastering Data Analysis with Pandas: A Comprehensive Guide for Python Enthusiasts](https://dev.to/iamcymentho/mastering-data-analysis-with-pandas-a-comprehensive-guide-for-python-enthusiasts-426e)
-- [Dev.to/JS] [Using personalized QR codes](https://dev.to/axedigitalci/using-personalized-qr-codes-5end)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
 - [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
 - [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are All the Names VASCO Can Call You in ‘Starfield’ &lpar;and Some Are Pretty NSFW&rpar;](https://lifehacker.com/all-the-names-vasco-can-call-you-in-starfield-1850812629)
 - [Lifehacker] [You Can Get 15 Bottles of Splash Wine for Under $100](https://lifehacker.com/you-can-get-15-bottles-of-splash-wine-for-under-100-1850806284)
 - [Lifehacker] [The Differences Between Joints, Blunts, and Spliffs](https://lifehacker.com/the-differences-between-joints-blunts-and-spliffs-1850811382)
-- [Lifehacker] [TikTok’s ‘Cozy Cardio’ Trend Might Help You Enjoy Exercise Again](https://lifehacker.com/tiktok-s-cozy-cardio-trend-might-help-you-enjoy-exerc-1850811679)
-- [Lifehacker] [These Are the Hidden Costs of Buying a House](https://lifehacker.com/all-the-hidden-unexpected-costs-of-buying-a-home-1758138500)
-- [Lifehacker] [The Best Ways to Stay Awake Without Caffeine](https://lifehacker.com/the-best-ways-to-stay-awake-without-caffeine-1850811230)
-- [Lifehacker] [This 2021 LG Gram Laptop Is $500 Off Right Now](https://lifehacker.com/this-2021-lg-gram-laptop-is-500-off-right-now-1850792867)<!-- TECH-POSTS:END -->
+- [Lifehacker] [TikTok’s ‘Cozy Cardio’ Trend Might Help You Enjoy Exercise Again](https://lifehacker.com/tiktok-s-cozy-cardio-trend-might-help-you-enjoy-exerc-1850811679)<!-- TECH-POSTS:END -->
 
 ---
 
