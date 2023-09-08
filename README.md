@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I just enabled TS support in the framework I am working on, should I stop?](https://dev.to/msamgan/i-just-enabled-ts-support-in-the-framework-i-am-working-on-should-i-stop-jh4)
+- [Dev.to/JS] [Exploring the Distinctions: forEach vs. map in JavaScript Arrays](https://dev.to/mohdhaseebazam/exploring-the-distinctions-foreach-vs-map-in-javascript-arrays-kp8)
+- [Dev.to/JS] [Coming Here To Grow!](https://dev.to/johnmarit/coming-here-to-grow-2g7c)
+- [Dev.to/JS] [React Server Components and Server-Side Rendering: Supercharge Your Web Performance](https://dev.to/chideracode/react-server-components-and-server-side-rendering-supercharge-your-web-performance-3ecb)
+- [Lifehacker] [When to Turn on Your Heat in the Fall](https://lifehacker.com/when-to-turn-on-your-heat-in-the-fall-1850819421)
+- [Dev.to/JS] [Mastering JavaScript Classes: Your Shortcut to OOP Success!](https://dev.to/miroiudev/mastering-javascript-classes-your-shortcut-to-oop-success-57pp)
+- [Dev.to/JS] [The Start to Exploring the World of Open Source](https://dev.to/stephenditta/the-start-to-exploring-the-world-of-open-source-19af)
+- [Lifehacker] [Meredith&#39;s Training Diary: How to Choose a Marathon Training Program](https://lifehacker.com/how-to-choose-a-marathon-training-program-1850819139)
+- [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
 - [Dev.to/JS] [Tailwind CSS: Using Dynamic Breakpoints and Container Queries](https://dev.to/alakkadshaw/tailwind-css-using-dynamic-breakpoints-and-container-queries-5clb)
 - [Dev.to/JS] [Exploring Script Loading Strategies: Normal, async, and defer](https://dev.to/muhammedshameel/exploring-script-loading-strategies-normal-async-and-defer-26ne)
 - [Dev.to/JS] [Simple beginner friendly roadmap for devops](https://dev.to/kssaiteja/simple-beginner-friendly-roadmap-for-devops-227b)
@@ -34,16 +43,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch NFL Game Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Lifehacker] [Air Fried Shishito Pepper Poppers Are a Fun Twist on the Classic Appetizer](https://lifehacker.com/shishito-pepper-poppers-air-fryer-recipe-1850818664)
 - [Dev.to/JS] [#LearnedToday: Drag&amp;Drop API](https://dev.to/danielzotti/learnedtoday-dragdrop-api-1hkm)
-- [Dev.to/JS] [Load routes dynamically](https://dev.to/mahraayush4321/load-routes-dynamically-1i6j)
-- [Dev.to/JS] [The complete guide to React Hooks](https://dev.to/kalashin1/the-complete-guide-to-react-hooks-2elo)
 - [Lifehacker] [This ChatGPT Prompt Guide Is $29.99 Right Now](https://lifehacker.com/this-chatgpt-prompt-guide-is-29-99-right-now-1850814389)
-- [Dev.to/JS] [Demystifying the Critical Rendering Path: A Deep Dive into Web Page Loading](https://dev.to/vikas2426/demystifying-the-critical-rendering-path-a-deep-dive-into-web-page-loading-19ni)
 - [Lifehacker] [What to Do When You’re Feeling ‘Touched Out’ As a Parent](https://lifehacker.com/what-to-do-when-you-re-feeling-touched-out-as-a-paren-1850818344)
-- [Dev.to/JS] [Chat-Application](https://dev.to/swarupinfotech/chat-application-461j)
-- [Dev.to/JS] [Barsatein: A Must-Watch Series on SonyLIV - Here&#39;s Why](https://dev.to/milrahehain/barsatein-a-must-watch-series-on-sonyliv-heres-why-287n)
 - [Lifehacker] [YouTube Lets You Sort Videos By Color Now, for Some Reason](https://lifehacker.com/youtube-lets-you-sort-videos-by-color-now-for-some-rea-1850818142)
 - [Lifehacker] [Three Ways to Make a Juicier Turkey Burger](https://lifehacker.com/three-ways-to-make-a-juicier-turkey-burger-1850815301)
-- [Dev.to/JS] [Map, Filter and Reduce in Javascript 👨🏼‍💻](https://dev.to/localhostd3veloper/map-filter-and-reduce-in-javascript-51fj)
 - [Lifehacker] [22 of the Scariest Horror Movies Streaming on Netflix](https://lifehacker.com/best-horror-movies-netflix-1850812430)
 - [Lifehacker] [You Can Get OfficeSuite for $45 Right Now](https://lifehacker.com/you-can-get-officesuite-for-45-right-now-1850806613)
 - [Lifehacker] [You Can Play These Retro Games in Your Browser](https://lifehacker.com/best-retro-browser-games-1850815840)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Hidden Setting Will Make Your Instagram Pictures Look Better](https://lifehacker.com/this-hidden-setting-will-make-your-instagram-pictures-l-1850814073)
 - [Lifehacker] [This Two-Ingredient Meat Glaze Recipe Is Good on Any Meat](https://lifehacker.com/easy-meat-glaze-recipe-1831618342)
 - [Lifehacker] [This HP Omen 16 Gaming Laptop Is $700 Off Right Now](https://lifehacker.com/this-hp-omen-16-gaming-laptop-is-700-off-right-now-1850814359)
-- [Lifehacker] [You Should Color Code Your Notes to Remember Them Better](https://lifehacker.com/you-should-color-code-your-notes-to-remember-them-bette-1850814205)
-- [Lifehacker] [How to Get Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
-- [Lifehacker] [Make &#39;Fake Risotto&#39; With Leftover Rice](https://lifehacker.com/risotto-rice-recipe-1850814101)
-- [Lifehacker] [The 15-inch M2 MacBook Air Is $200 Off Right Now](https://lifehacker.com/the-15-inch-m2-macbook-air-is-200-off-right-now-1850813742)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Color Code Your Notes to Remember Them Better](https://lifehacker.com/you-should-color-code-your-notes-to-remember-them-bette-1850814205)<!-- TECH-POSTS:END -->
 
 ---
 
