@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VueJS Part 2: Hello Vue and displaying values in HTML](https://dev.to/hi_iam_chris/vuejs-part-2-hello-vue-and-displaying-values-in-html-4eip)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
 - [Dev.to/JS] [Event Handling in JavaScript](https://dev.to/shubhankarval/event-handling-in-javascript-51n3)
 - [Dev.to/JS] [How to convert and migrate your project from TypeScript to JavaScript](https://dev.to/tholder/how-to-convert-and-migrate-your-project-from-typescript-to-javascript-5ccf)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
 - [Dev.to/JS] [Tailwind CSS: Using Dynamic Breakpoints and Container Queries](https://dev.to/alakkadshaw/tailwind-css-using-dynamic-breakpoints-and-container-queries-5clb)
 - [Dev.to/JS] [Exploring Script Loading Strategies: Normal, async, and defer](https://dev.to/muhammedshameel/exploring-script-loading-strategies-normal-async-and-defer-26ne)
-- [Dev.to/JS] [Simple beginner friendly roadmap for devops](https://dev.to/kssaiteja/simple-beginner-friendly-roadmap-for-devops-227b)
 - [Lifehacker] [How to Watch NFL Game Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Lifehacker] [Air Fried Shishito Pepper Poppers Are a Fun Twist on the Classic Appetizer](https://lifehacker.com/shishito-pepper-poppers-air-fryer-recipe-1850818664)
 - [Lifehacker] [This ChatGPT Prompt Guide Is $29.99 Right Now](https://lifehacker.com/this-chatgpt-prompt-guide-is-29-99-right-now-1850814389)
