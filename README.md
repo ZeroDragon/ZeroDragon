@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Latest Newsletter: Circles or Squiggles? &lpar;Issue #131&rpar;](https://dev.to/mjgs/latest-newsletter-circles-or-squiggles-issue-131-39di)
 - [Dev.to/JS] [Node.js 20.6.0: Say Goodbye to &#39;dotenv&#39;](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
 - [Dev.to/JS] [How to resolve the error &quot;Unable to validate properties of null value&quot;?](https://dev.to/sirojov/how-to-resolve-the-error-unable-to-validate-properties-of-null-value-2i1k)
 - [Dev.to/JS] [Unlock $10 and the Future of OCR with Verifik&#39;s Scan-Prompt API!](https://dev.to/verifik/unlock-10-and-the-future-of-ocr-with-verifiks-scan-prompt-api-377b)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Purely Functional Programming in JavaScript](https://dev.to/sergeyshandar/purely-functional-programming-in-javascript-152d)
 - [Dev.to/JS] [VueJS Part 2: Hello Vue and displaying values in HTML](https://dev.to/hi_iam_chris/vuejs-part-2-hello-vue-and-displaying-values-in-html-4eip)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
-- [Dev.to/JS] [Event Handling in JavaScript](https://dev.to/shubhankarval/event-handling-in-javascript-51n3)
 - [Lifehacker] [Bad Study Habits You Should Avoid &lpar;and What to Do Instead&rpar;](https://lifehacker.com/bad-study-habits-you-should-avoid-and-what-to-do-inste-1850818992)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-1850409952)
 - [Lifehacker] [This Vegan Whipped Cream Recipe Will Make You Forget About Dairy](https://lifehacker.com/vegan-whipped-cream-recipe-1850819905)
