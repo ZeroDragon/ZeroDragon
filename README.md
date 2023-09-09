@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ethical Considerations in AI and Machine Learning: A Comprehensive Review](https://dev.to/oajaiml/ethical-considerations-in-ai-and-machine-learning-a-comprehensive-review-1j7)
 - [Dev.to/JS] [Sample Questions from the Pega CSA 7.2 Dumps](https://dev.to/jwdirx4a/sample-questions-from-the-pega-csa-72-dumps-p33)
 - [Dev.to/JS] [Cracking the Code: A Rookie&#39;s Guide to JavaScript](https://dev.to/cycankahuna/cracking-the-code-a-rookies-guide-to-javascript-5f85)
 - [Dev.to/JS] [Bitsoft360 Reviews - Benefits, Results, Reviews &amp; How Does It Work?](https://dev.to/bitsoft3603877/bitsoft360-reviews-benefits-results-reviews-how-does-it-work-ajh)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to resolve the error &quot;Unable to validate properties of null value&quot;?](https://dev.to/sirojov/how-to-resolve-the-error-unable-to-validate-properties-of-null-value-2i1k)
 - [Dev.to/JS] [Unlock $10 and the Future of OCR with Verifik&#39;s Scan-Prompt API!](https://dev.to/verifik/unlock-10-and-the-future-of-ocr-with-verifiks-scan-prompt-api-377b)
 - [Dev.to/JS] [Set Minimum Height CK Editor/CK Editor rows=&quot;&quot; Not Working](https://dev.to/armanrahman/set-minimum-height-ck-editorck-editor-rows-not-working-2o2c)
-- [Dev.to/JS] [SplideJS Revolutionize Your Website Design with Seamless Slider Integration](https://dev.to/dev_arizon/splidejs-revolutionize-your-website-design-with-seamless-slider-integration-2egf)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
 - [Lifehacker] [Bad Study Habits You Should Avoid &lpar;and What to Do Instead&rpar;](https://lifehacker.com/bad-study-habits-you-should-avoid-and-what-to-do-inste-1850818992)
