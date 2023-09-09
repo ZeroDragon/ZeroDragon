@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to display API data on map using React?](https://dev.to/thedev_subrat/how-to-display-api-data-on-map-using-react-51de)
 - [Dev.to/JS] [Use an API with JavaScript &lpar;Beginner&#39;s Guide&rpar;](https://dev.to/noobizdev/use-an-api-with-javascript-beginners-guide-2mak)
 - [Dev.to/JS] [Introducing the Ontario Driver License Validator — Verifik.co becomes canadian](https://dev.to/verifik/introducing-the-ontario-driver-license-validator-the-new-gold-standard-in-id-verification-42j1)
 - [Dev.to/JS] [The slice philosophy](https://dev.to/stevepurpose/the-slice-philosophy-3jgi)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Algorithm To Create Phone Number &quot;Codewars&quot;](https://dev.to/richeskelechi/algorithm-to-create-phone-number-codewars-5cjo)
 - [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
 - [Dev.to/JS] [📚 How to Generate Comprehensive Subject Notes with a Single Prompt 🤯](https://dev.to/taquiimam14/how-to-generate-comprehensive-subject-notes-with-a-single-prompt-1mip)
-- [Dev.to/JS] [The Top 10 Programming Tutorials YouTube Channels for 2023](https://dev.to/frontendin52/the-top-10-programming-tutorials-youtube-channels-for-2023-3516)
 - [Lifehacker] [Avoid These Multipurpose Room Mistakes](https://lifehacker.com/avoid-these-multipurpose-room-mistakes-1850820035)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
