@@ -26,10 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
 - [Dev.to/JS] [How to display API data on map using React?](https://dev.to/thedev_subrat/how-to-display-api-data-on-map-using-react-51de)
 - [Dev.to/JS] [Use an API with JavaScript &lpar;Beginner&#39;s Guide&rpar;](https://dev.to/noobizdev/use-an-api-with-javascript-beginners-guide-2mak)
 - [Dev.to/JS] [Introducing the Ontario Driver License Validator — Verifik.co becomes canadian](https://dev.to/verifik/introducing-the-ontario-driver-license-validator-the-new-gold-standard-in-id-verification-42j1)
-- [Dev.to/JS] [The slice philosophy](https://dev.to/stevepurpose/the-slice-philosophy-3jgi)
+- [Dev.to/JS] [The JavaScript slice method](https://dev.to/stevepurpose/the-slice-philosophy-3jgi)
 - [Dev.to/JS] [Execute Terminal Commands And Receive Live Output With React+SSE](https://dev.to/codehirise/execute-terminal-commands-and-receive-live-output-with-reactsse-1le4)
 - [Dev.to/JS] [Optional Chaining and Nullish Coalescing: Safe Property Access in JavaScript](https://dev.to/mainulspace/optional-chaining-and-nullish-coalescing-safe-property-access-in-javascript-1d3d)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon&#39;s Fire TVs Are on Sale Right Now](https://lifehacker.com/amazons-fire-tvs-are-on-sale-right-now-1850815282)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Starfield&#39; Reviews](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-starfield-1850816581)
 - [Lifehacker] [Every Gardener Should Have a Steam Juicer](https://lifehacker.com/every-gardener-should-have-a-steam-juicer-1850814070)
-- [Lifehacker] [Buy These Garden Essentials on Sale Before Fall](https://lifehacker.com/buy-these-garden-essentials-on-sale-before-fall-1850815125)
-- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Buy These Garden Essentials on Sale Before Fall](https://lifehacker.com/buy-these-garden-essentials-on-sale-before-fall-1850815125)<!-- TECH-POSTS:END -->
 
 ---
 
