@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sample Questions from the Pega CSA 7.2 Dumps](https://dev.to/jwdirx4a/sample-questions-from-the-pega-csa-72-dumps-p33)
+- [Dev.to/JS] [Cracking the Code: A Rookie&#39;s Guide to JavaScript](https://dev.to/cycankahuna/cracking-the-code-a-rookies-guide-to-javascript-5f85)
 - [Dev.to/JS] [Bitsoft360 Reviews - Benefits, Results, Reviews &amp; How Does It Work?](https://dev.to/bitsoft3603877/bitsoft360-reviews-benefits-results-reviews-how-does-it-work-ajh)
 - [Dev.to/JS] [Bun 1.0 got released, its Packager Manager is 10x faster then yarn](https://dev.to/sharmakushal/bun-10-got-released-bun-packager-manager-is-1gng)
 - [Dev.to/JS] [Finally you can skip dotenv in Node](https://dev.to/andreasbergstrom/finally-you-can-skip-dotenv-in-node-14ml)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlock $10 and the Future of OCR with Verifik&#39;s Scan-Prompt API!](https://dev.to/verifik/unlock-10-and-the-future-of-ocr-with-verifiks-scan-prompt-api-377b)
 - [Dev.to/JS] [Set Minimum Height CK Editor/CK Editor rows=&quot;&quot; Not Working](https://dev.to/armanrahman/set-minimum-height-ck-editorck-editor-rows-not-working-2o2c)
 - [Dev.to/JS] [SplideJS Revolutionize Your Website Design with Seamless Slider Integration](https://dev.to/dev_arizon/splidejs-revolutionize-your-website-design-with-seamless-slider-integration-2egf)
-- [Dev.to/JS] [Here are ten of the most useful shortcuts in VSCode:](https://dev.to/vitalipri/here-are-ten-of-the-most-useful-shortcuts-in-vscode-4dm6)
-- [Dev.to/JS] [The Beginning of an Open-Source Development Journey](https://dev.to/marktmarino/the-beginning-of-an-open-source-development-journey-2288)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
 - [Lifehacker] [Bad Study Habits You Should Avoid &lpar;and What to Do Instead&rpar;](https://lifehacker.com/bad-study-habits-you-should-avoid-and-what-to-do-inste-1850818992)
