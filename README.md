@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Authentication in Next.js using NextAuth.js](https://dev.to/chirag__dev/authentication-in-nextjs-using-nextauthjs-597k)
+- [Dev.to/JS] [How to solve hydration error in Next.js](https://dev.to/chirag__dev/how-to-solve-hydration-error-in-nextjs-5e1b)
+- [Dev.to/JS] [Algorithm To Create Phone Number &quot;Codewars&quot;](https://dev.to/richeskelechi/algorithm-to-create-phone-number-codewars-5cjo)
+- [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
 - [Dev.to/JS] [📚 How to Generate Comprehensive Subject Notes with a Single Prompt 🤯](https://dev.to/taquiimam14/how-to-generate-comprehensive-subject-notes-with-a-single-prompt-1mip)
 - [Dev.to/JS] [The Top 10 Programming Tutorials YouTube Channels for 2023](https://dev.to/frontendin52/the-top-10-programming-tutorials-youtube-channels-for-2023-3516)
 - [Dev.to/JS] [Algorithm to Convert string to camel case &quot;CodeWars&quot;](https://dev.to/richeskelechi/algorithm-to-convert-string-to-camel-case-codewars-4gef)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Check Whether a Number is a Narcissistic Number or Not in Javascript?](https://dev.to/richeskelechi/check-whether-a-number-is-a-narcissistic-number-or-not-in-javascript-3bkj)
 - [Dev.to/JS] [JSON VS XML](https://dev.to/arsalanmeee/json-vs-xml-4ekp)
 - [Dev.to/JS] [conditional Statement In Javascript](https://dev.to/binaminbinka1/conditional-statement-in-javascript-5gp6)
-- [Dev.to/JS] [Strict Mode](https://dev.to/zouhair_sahtout/strict-mode-597d)
-- [Dev.to/JS] [npm hack to remove unused transitive dependencies](https://dev.to/denyspotapov/npm-hack-to-remove-unused-transitive-dependencies-9jh)
-- [Dev.to/JS] [How I approach and structure Enterprise frontend applications after 4 years of using Next.js](https://dev.to/josemukorivo/how-i-approach-and-structure-enterprise-frontend-applications-after-4-years-of-using-nextjs-2f5)
 - [Lifehacker] [Avoid These Multipurpose Room Mistakes](https://lifehacker.com/avoid-these-multipurpose-room-mistakes-1850820035)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Gardener Should Have a Steam Juicer](https://lifehacker.com/every-gardener-should-have-a-steam-juicer-1850814070)
 - [Lifehacker] [Buy These Garden Essentials on Sale Before Fall](https://lifehacker.com/buy-these-garden-essentials-on-sale-before-fall-1850815125)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
-- [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
-- [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)<!-- TECH-POSTS:END -->
+- [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)<!-- TECH-POSTS:END -->
 
 ---
 
