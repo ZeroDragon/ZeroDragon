@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SplideJS Revolutionize Your Website Design with Seamless Slider Integration](https://dev.to/dev_arizon/splidejs-revolutionize-your-website-design-with-seamless-slider-integration-2egf)
 - [Dev.to/JS] [Here are ten of the most useful shortcuts in VSCode:](https://dev.to/vitalipri/here-are-ten-of-the-most-useful-shortcuts-in-vscode-4dm6)
 - [Dev.to/JS] [The Beginning of an Open-Source Development Journey](https://dev.to/marktmarino/the-beginning-of-an-open-source-development-journey-2288)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
+- [Dev.to/JS] [JavaScript got 99 problems, but Bun ain&#39;t one?](https://dev.to/adbutterfield/javascript-got-99-problems-but-bun-aint-one-3dp2)
 - [Dev.to/JS] [First Blog](https://dev.to/sshah135/first-blog-1hlp)
 - [Dev.to/JS] [Purely Functional Programming in JavaScript](https://dev.to/sergeyshandar/purely-functional-programming-in-javascript-152d)
 - [Dev.to/JS] [VueJS Part 2: Hello Vue and displaying values in HTML](https://dev.to/hi_iam_chris/vuejs-part-2-hello-vue-and-displaying-values-in-html-4eip)
@@ -44,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I just enabled TS support in the framework I am working on, should I stop?](https://dev.to/msamgan/i-just-enabled-ts-support-in-the-framework-i-am-working-on-should-i-stop-jh4)
 - [Dev.to/JS] [Exploring the Distinctions: forEach vs. map in JavaScript Arrays](https://dev.to/mohdhaseebazam/exploring-the-distinctions-foreach-vs-map-in-javascript-arrays-kp8)
 - [Dev.to/JS] [Coming Here To Grow!](https://dev.to/johnmarit/coming-here-to-grow-2g7c)
-- [Dev.to/JS] [React Server Components and Server-Side Rendering: Supercharge Your Web Performance](https://dev.to/chideracode/react-server-components-and-server-side-rendering-supercharge-your-web-performance-3ecb)
 - [Lifehacker] [When to Turn on Your Heat in the Fall](https://lifehacker.com/when-to-turn-on-your-heat-in-the-fall-1850819421)
-- [Dev.to/JS] [Mastering JavaScript Classes: Your Shortcut to OOP Success!](https://dev.to/miroiudev/mastering-javascript-classes-your-shortcut-to-oop-success-57pp)
 - [Lifehacker] [Meredith&#39;s Training Diary: How to Choose a Marathon Training Program](https://lifehacker.com/how-to-choose-a-marathon-training-program-1850819139)
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
 - [Lifehacker] [How to Watch NFL Game Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
