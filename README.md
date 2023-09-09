@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Set Minimum Height CK Editor/CK Editor rows=&quot;&quot; Not Working](https://dev.to/armanrahman/set-minimum-height-ck-editorck-editor-rows-not-working-2o2c)
 - [Dev.to/JS] [SplideJS Revolutionize Your Website Design with Seamless Slider Integration](https://dev.to/dev_arizon/splidejs-revolutionize-your-website-design-with-seamless-slider-integration-2egf)
 - [Dev.to/JS] [Here are ten of the most useful shortcuts in VSCode:](https://dev.to/vitalipri/here-are-ten-of-the-most-useful-shortcuts-in-vscode-4dm6)
 - [Dev.to/JS] [The Beginning of an Open-Source Development Journey](https://dev.to/marktmarino/the-beginning-of-an-open-source-development-journey-2288)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fall Yard Cleanup Tasks You Should Tackle in September](https://lifehacker.com/fall-yard-cleanup-september-1850819047)
 - [Dev.to/JS] [I just enabled TS support in the framework I am working on, should I stop?](https://dev.to/msamgan/i-just-enabled-ts-support-in-the-framework-i-am-working-on-should-i-stop-jh4)
 - [Dev.to/JS] [Exploring the Distinctions: forEach vs. map in JavaScript Arrays](https://dev.to/mohdhaseebazam/exploring-the-distinctions-foreach-vs-map-in-javascript-arrays-kp8)
-- [Dev.to/JS] [Coming Here To Grow!](https://dev.to/johnmarit/coming-here-to-grow-2g7c)
 - [Lifehacker] [When to Turn on Your Heat in the Fall](https://lifehacker.com/when-to-turn-on-your-heat-in-the-fall-1850819421)
 - [Lifehacker] [Meredith&#39;s Training Diary: How to Choose a Marathon Training Program](https://lifehacker.com/how-to-choose-a-marathon-training-program-1850819139)
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
