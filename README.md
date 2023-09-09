@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
 - [Dev.to/JS] [Support i18n / tips](https://dev.to/aboucodeur/support-i18n-tips-ohf)
 - [Dev.to/JS] [I Lost my job, spent 3 months building something like Pinterest for links, now has 800+ users](https://dev.to/askwhyharsh/i-lost-my-job-spent-3-months-building-something-like-pinterest-for-links-now-has-800-users-4519)
 - [Dev.to/JS] [Authentication in Next.js using NextAuth.js](https://dev.to/chirag__dev/authentication-in-nextjs-using-nextauthjs-597k)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Starfield&#39; Reviews](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-starfield-1850816581)
 - [Lifehacker] [Every Gardener Should Have a Steam Juicer](https://lifehacker.com/every-gardener-should-have-a-steam-juicer-1850814070)
 - [Lifehacker] [Buy These Garden Essentials on Sale Before Fall](https://lifehacker.com/buy-these-garden-essentials-on-sale-before-fall-1850815125)
-- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
-- [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)<!-- TECH-POSTS:END -->
 
 ---
 
