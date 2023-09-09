@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSON VS XML](https://dev.to/arsalanmeee/json-vs-xml-4ekp)
+- [Dev.to/JS] [conditional Statement In Javascript](https://dev.to/binaminbinka1/conditional-statement-in-javascript-5gp6)
+- [Dev.to/JS] [Strict Mode](https://dev.to/zouhair_sahtout/strict-mode-597d)
+- [Dev.to/JS] [npm hack to remove unused transitive dependencies](https://dev.to/denyspotapov/npm-hack-to-remove-unused-transitive-dependencies-9jh)
+- [Dev.to/JS] [How I approach and structure Enterprise frontend applications after 4 years of using Next.js](https://dev.to/josemukorivo/how-i-approach-and-structure-enterprise-frontend-applications-after-4-years-of-using-nextjs-2f5)
+- [Lifehacker] [Avoid These Multipurpose Room Mistakes](https://lifehacker.com/avoid-these-multipurpose-room-mistakes-1850820035)
 - [Dev.to/JS] [React vs Angular](https://dev.to/easewithtuts/react-vs-angular-25pg)
 - [Dev.to/JS] [Let&#39;s make FAQ sections &lpar;no JS&rpar;](https://dev.to/easewithtuts/lets-make-faq-sections-no-js-4dah)
 - [Dev.to/JS] [Mastering The Fetch API In Javascript: A Comprehensive Guide.](https://dev.to/paulineoraro/mastering-the-fetch-api-in-javascript-a-comprehensive-guide-53io)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ethical Considerations in AI and Machine Learning: A Comprehensive Review](https://dev.to/oajaiml/ethical-considerations-in-ai-and-machine-learning-a-comprehensive-review-1j7)
 - [Dev.to/JS] [Sample Questions from the Pega CSA 7.2 Dumps](https://dev.to/jwdirx4a/sample-questions-from-the-pega-csa-72-dumps-p33)
 - [Dev.to/JS] [Cracking the Code: A Rookie&#39;s Guide to JavaScript](https://dev.to/cycankahuna/cracking-the-code-a-rookies-guide-to-javascript-5f85)
-- [Dev.to/JS] [Bitsoft360 Reviews - Benefits, Results, Reviews &amp; How Does It Work?](https://dev.to/bitsoft3603877/bitsoft360-reviews-benefits-results-reviews-how-does-it-work-ajh)
-- [Dev.to/JS] [Bun 1.0 got released, its Packager Manager is 10x faster then yarn](https://dev.to/sharmakushal/bun-10-got-released-bun-packager-manager-is-1gng)
-- [Dev.to/JS] [Finally you can skip dotenv in Node](https://dev.to/andreasbergstrom/finally-you-can-skip-dotenv-in-node-14ml)
-- [Dev.to/JS] [Are you still using the ternary operator to dynamically apply Tailwind styles?](https://dev.to/artxe2/are-you-still-using-the-ternary-operator-to-dynamically-apply-tailwind-styles-32jp)
-- [Dev.to/JS] [Latest Newsletter: Circles or Squiggles? &lpar;Issue #131&rpar;](https://dev.to/mjgs/latest-newsletter-circles-or-squiggles-issue-131-39di)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
 - [Lifehacker] [Bad Study Habits You Should Avoid &lpar;and What to Do Instead&rpar;](https://lifehacker.com/bad-study-habits-you-should-avoid-and-what-to-do-inste-1850818992)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Buy These Garden Essentials on Sale Before Fall](https://lifehacker.com/buy-these-garden-essentials-on-sale-before-fall-1850815125)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Friday, September 8](https://lifehacker.com/connections-answer-today-september-8-2023-1850812347)
 - [Lifehacker] [TikTok&#39;s Favorite Ice Cream Maker Is $111 Off Right Now](https://lifehacker.com/tiktoks-favorite-ice-cream-maker-is-111-off-right-now-1850815066)
-- [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)
-- [Lifehacker] [The Best Cold Medicines Aren&#39;t in the Cough and Cold Aisle](https://lifehacker.com/which-cold-medicines-actually-work-1839986137)<!-- TECH-POSTS:END -->
+- [Lifehacker] [See the New Comet Nishimura Before It Disappears for More Than 400 Years](https://lifehacker.com/see-the-new-comet-nishimura-before-it-disappears-for-mo-1850814988)<!-- TECH-POSTS:END -->
 
 ---
 
