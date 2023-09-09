@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Support i18n / tips](https://dev.to/aboucodeur/support-i18n-tips-ohf)
+- [Dev.to/JS] [I Lost my job, spent 3 months building something like Pinterest for links, now has 800+ users](https://dev.to/askwhyharsh/i-lost-my-job-spent-3-months-building-something-like-pinterest-for-links-now-has-800-users-4519)
 - [Dev.to/JS] [Authentication in Next.js using NextAuth.js](https://dev.to/chirag__dev/authentication-in-nextjs-using-nextauthjs-597k)
 - [Dev.to/JS] [How to solve hydration error in Next.js](https://dev.to/chirag__dev/how-to-solve-hydration-error-in-nextjs-5e1b)
 - [Dev.to/JS] [Algorithm To Create Phone Number &quot;Codewars&quot;](https://dev.to/richeskelechi/algorithm-to-create-phone-number-codewars-5cjo)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The same code in Python, Javascript, Go and C#](https://dev.to/jorgemadson/the-same-code-in-python-javascript-go-and-c-4i0f)
 - [Dev.to/JS] [Amyl Guard - Weight Loss Benefits, Price, Results &amp; How Does It Work?](https://dev.to/amylguardb34912/amyl-guard-weight-loss-benefits-price-results-how-does-it-work-e8f)
 - [Dev.to/JS] [Check Whether a Number is a Narcissistic Number or Not in Javascript?](https://dev.to/richeskelechi/check-whether-a-number-is-a-narcissistic-number-or-not-in-javascript-3bkj)
-- [Dev.to/JS] [JSON VS XML](https://dev.to/arsalanmeee/json-vs-xml-4ekp)
-- [Dev.to/JS] [conditional Statement In Javascript](https://dev.to/binaminbinka1/conditional-statement-in-javascript-5gp6)
 - [Lifehacker] [Avoid These Multipurpose Room Mistakes](https://lifehacker.com/avoid-these-multipurpose-room-mistakes-1850820035)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
