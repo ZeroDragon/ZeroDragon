@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optional Chaining and Nullish Coalescing: Safe Property Access in JavaScript](https://dev.to/mainulspace/optional-chaining-and-nullish-coalescing-safe-property-access-in-javascript-1d3d)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
 - [Dev.to/JS] [Support i18n / tips](https://dev.to/aboucodeur/support-i18n-tips-ohf)
 - [Dev.to/JS] [I Lost my job, spent 3 months building something like Pinterest for links, now has 800+ users](https://dev.to/askwhyharsh/i-lost-my-job-spent-3-months-building-something-like-pinterest-for-links-now-has-800-users-4519)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to fetch images with Unsplash API with Javascript](https://dev.to/maxixo/how-to-fetch-images-with-unsplash-api-with-javascript-5gf0)
 - [Dev.to/JS] [The same code in Python, Javascript, Go and C#](https://dev.to/jorgemadson/the-same-code-in-python-javascript-go-and-c-4i0f)
 - [Dev.to/JS] [Amyl Guard - Weight Loss Benefits, Price, Results &amp; How Does It Work?](https://dev.to/amylguardb34912/amyl-guard-weight-loss-benefits-price-results-how-does-it-work-e8f)
-- [Dev.to/JS] [Check Whether a Number is a Narcissistic Number or Not in Javascript?](https://dev.to/richeskelechi/check-whether-a-number-is-a-narcissistic-number-or-not-in-javascript-3bkj)
 - [Lifehacker] [Avoid These Multipurpose Room Mistakes](https://lifehacker.com/avoid-these-multipurpose-room-mistakes-1850820035)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
