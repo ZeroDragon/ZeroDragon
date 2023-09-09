@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js 20.6.0: Say Goodbye to &#39;dotenv&#39;](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
+- [Dev.to/JS] [How to resolve the error &quot;Unable to validate properties of null value&quot;?](https://dev.to/sirojov/how-to-resolve-the-error-unable-to-validate-properties-of-null-value-2i1k)
+- [Dev.to/JS] [Unlock $10 and the Future of OCR with Verifik&#39;s Scan-Prompt API!](https://dev.to/verifik/unlock-10-and-the-future-of-ocr-with-verifiks-scan-prompt-api-377b)
 - [Dev.to/JS] [Set Minimum Height CK Editor/CK Editor rows=&quot;&quot; Not Working](https://dev.to/armanrahman/set-minimum-height-ck-editorck-editor-rows-not-working-2o2c)
 - [Dev.to/JS] [SplideJS Revolutionize Your Website Design with Seamless Slider Integration](https://dev.to/dev_arizon/splidejs-revolutionize-your-website-design-with-seamless-slider-integration-2egf)
 - [Dev.to/JS] [Here are ten of the most useful shortcuts in VSCode:](https://dev.to/vitalipri/here-are-ten-of-the-most-useful-shortcuts-in-vscode-4dm6)
@@ -37,15 +40,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VueJS Part 2: Hello Vue and displaying values in HTML](https://dev.to/hi_iam_chris/vuejs-part-2-hello-vue-and-displaying-values-in-html-4eip)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
 - [Dev.to/JS] [Event Handling in JavaScript](https://dev.to/shubhankarval/event-handling-in-javascript-51n3)
-- [Dev.to/JS] [How to convert and migrate your project from TypeScript to JavaScript](https://dev.to/tholder/how-to-convert-and-migrate-your-project-from-typescript-to-javascript-5ccf)
 - [Lifehacker] [Bad Study Habits You Should Avoid &lpar;and What to Do Instead&rpar;](https://lifehacker.com/bad-study-habits-you-should-avoid-and-what-to-do-inste-1850818992)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-1850409952)
 - [Lifehacker] [This Vegan Whipped Cream Recipe Will Make You Forget About Dairy](https://lifehacker.com/vegan-whipped-cream-recipe-1850819905)
 - [Lifehacker] [You Can Try &#39;Payday 3&#39;s&#39; Open Beta Right Now](https://lifehacker.com/you-can-try-payday-3s-open-beta-right-now-1850819129)
 - [Lifehacker] [These Are the Easiest Thai Chicken Skewers Ever](https://lifehacker.com/easy-thai-chicken-skewers-recipe-1849376133)
 - [Lifehacker] [The Fall Yard Cleanup Tasks You Should Tackle in September](https://lifehacker.com/fall-yard-cleanup-september-1850819047)
-- [Dev.to/JS] [I just enabled TS support in the framework I am working on, should I stop?](https://dev.to/msamgan/i-just-enabled-ts-support-in-the-framework-i-am-working-on-should-i-stop-jh4)
-- [Dev.to/JS] [Exploring the Distinctions: forEach vs. map in JavaScript Arrays](https://dev.to/mohdhaseebazam/exploring-the-distinctions-foreach-vs-map-in-javascript-arrays-kp8)
 - [Lifehacker] [When to Turn on Your Heat in the Fall](https://lifehacker.com/when-to-turn-on-your-heat-in-the-fall-1850819421)
 - [Lifehacker] [Meredith&#39;s Training Diary: How to Choose a Marathon Training Program](https://lifehacker.com/how-to-choose-a-marathon-training-program-1850819139)
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
