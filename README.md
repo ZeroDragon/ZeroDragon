@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React vs Angular](https://dev.to/easewithtuts/react-vs-angular-25pg)
+- [Dev.to/JS] [Let&#39;s make FAQ sections &lpar;no JS&rpar;](https://dev.to/easewithtuts/lets-make-faq-sections-no-js-4dah)
+- [Dev.to/JS] [Mastering The Fetch API In Javascript: A Comprehensive Guide.](https://dev.to/paulineoraro/mastering-the-fetch-api-in-javascript-a-comprehensive-guide-53io)
+- [Dev.to/JS] [Let&#39;s make FAQ sections &lpar;no JS&rpar;](https://dev.to/easewithtuts/lets-make-faq-sections-no-js-92)
 - [Dev.to/JS] [Ethical Considerations in AI and Machine Learning: A Comprehensive Review](https://dev.to/oajaiml/ethical-considerations-in-ai-and-machine-learning-a-comprehensive-review-1j7)
 - [Dev.to/JS] [Sample Questions from the Pega CSA 7.2 Dumps](https://dev.to/jwdirx4a/sample-questions-from-the-pega-csa-72-dumps-p33)
 - [Dev.to/JS] [Cracking the Code: A Rookie&#39;s Guide to JavaScript](https://dev.to/cycankahuna/cracking-the-code-a-rookies-guide-to-javascript-5f85)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Finally you can skip dotenv in Node](https://dev.to/andreasbergstrom/finally-you-can-skip-dotenv-in-node-14ml)
 - [Dev.to/JS] [Are you still using the ternary operator to dynamically apply Tailwind styles?](https://dev.to/artxe2/are-you-still-using-the-ternary-operator-to-dynamically-apply-tailwind-styles-32jp)
 - [Dev.to/JS] [Latest Newsletter: Circles or Squiggles? &lpar;Issue #131&rpar;](https://dev.to/mjgs/latest-newsletter-circles-or-squiggles-issue-131-39di)
-- [Dev.to/JS] [Node.js 20.6.0: Say Goodbye to &#39;dotenv&#39;](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
-- [Dev.to/JS] [How to resolve the error &quot;Unable to validate properties of null value&quot;?](https://dev.to/sirojov/how-to-resolve-the-error-unable-to-validate-properties-of-null-value-2i1k)
-- [Dev.to/JS] [Unlock $10 and the Future of OCR with Verifik&#39;s Scan-Prompt API!](https://dev.to/verifik/unlock-10-and-the-future-of-ocr-with-verifiks-scan-prompt-api-377b)
-- [Dev.to/JS] [Set Minimum Height CK Editor/CK Editor rows=&quot;&quot; Not Working](https://dev.to/armanrahman/set-minimum-height-ck-editorck-editor-rows-not-working-2o2c)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
 - [Lifehacker] [Bad Study Habits You Should Avoid &lpar;and What to Do Instead&rpar;](https://lifehacker.com/bad-study-habits-you-should-avoid-and-what-to-do-inste-1850818992)
