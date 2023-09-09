@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use an API with JavaScript &lpar;Beginner&#39;s Guide&rpar;](https://dev.to/noobizdev/use-an-api-with-javascript-beginners-guide-2mak)
+- [Dev.to/JS] [Introducing the Ontario Driver License Validator — Verifik.co becomes canadian](https://dev.to/verifik/introducing-the-ontario-driver-license-validator-the-new-gold-standard-in-id-verification-42j1)
 - [Dev.to/JS] [The slice philosophy](https://dev.to/stevepurpose/the-slice-philosophy-3jgi)
 - [Dev.to/JS] [Execute Terminal Commands And Receive Live Output With React+SSE](https://dev.to/codehirise/execute-terminal-commands-and-receive-live-output-with-reactsse-1le4)
 - [Dev.to/JS] [Optional Chaining and Nullish Coalescing: Safe Property Access in JavaScript](https://dev.to/mainulspace/optional-chaining-and-nullish-coalescing-safe-property-access-in-javascript-1d3d)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
 - [Dev.to/JS] [📚 How to Generate Comprehensive Subject Notes with a Single Prompt 🤯](https://dev.to/taquiimam14/how-to-generate-comprehensive-subject-notes-with-a-single-prompt-1mip)
 - [Dev.to/JS] [The Top 10 Programming Tutorials YouTube Channels for 2023](https://dev.to/frontendin52/the-top-10-programming-tutorials-youtube-channels-for-2023-3516)
-- [Dev.to/JS] [Algorithm to Convert string to camel case &quot;CodeWars&quot;](https://dev.to/richeskelechi/algorithm-to-convert-string-to-camel-case-codewars-4gef)
-- [Dev.to/JS] [How to fetch images with Unsplash API with Javascript](https://dev.to/maxixo/how-to-fetch-images-with-unsplash-api-with-javascript-5gf0)
 - [Lifehacker] [Avoid These Multipurpose Room Mistakes](https://lifehacker.com/avoid-these-multipurpose-room-mistakes-1850820035)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
