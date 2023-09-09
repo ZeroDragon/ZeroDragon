@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bun 1.0 got released, its Packager Manager is 10x faster then yarn](https://dev.to/sharmakushal/bun-10-got-released-bun-packager-manager-is-1gng)
+- [Dev.to/JS] [Finally you can skip dotenv in Node](https://dev.to/andreasbergstrom/finally-you-can-skip-dotenv-in-node-14ml)
+- [Dev.to/JS] [Are you still using the ternary operator to dynamically apply Tailwind styles?](https://dev.to/artxe2/are-you-still-using-the-ternary-operator-to-dynamically-apply-tailwind-styles-32jp)
+- [Dev.to/JS] [The Fundamental Concept For JavaScript Beginners](https://dev.to/binaminbinka1/the-fundamental-concept-for-javascript-beginners-12a2)
 - [Dev.to/JS] [Latest Newsletter: Circles or Squiggles? &lpar;Issue #131&rpar;](https://dev.to/mjgs/latest-newsletter-circles-or-squiggles-issue-131-39di)
 - [Dev.to/JS] [Node.js 20.6.0: Say Goodbye to &#39;dotenv&#39;](https://dev.to/cjreads665/nodejs-2060-say-goodbye-to-dotenv-2ijl)
 - [Dev.to/JS] [How to resolve the error &quot;Unable to validate properties of null value&quot;?](https://dev.to/sirojov/how-to-resolve-the-error-unable-to-validate-properties-of-null-value-2i1k)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Here are ten of the most useful shortcuts in VSCode:](https://dev.to/vitalipri/here-are-ten-of-the-most-useful-shortcuts-in-vscode-4dm6)
 - [Dev.to/JS] [The Beginning of an Open-Source Development Journey](https://dev.to/marktmarino/the-beginning-of-an-open-source-development-journey-2288)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
-- [Dev.to/JS] [JavaScript got 99 problems, but Bun ain&#39;t one?](https://dev.to/adbutterfield/javascript-got-99-problems-but-bun-aint-one-3dp2)
-- [Dev.to/JS] [First Blog](https://dev.to/sshah135/first-blog-1hlp)
-- [Dev.to/JS] [Purely Functional Programming in JavaScript](https://dev.to/sergeyshandar/purely-functional-programming-in-javascript-152d)
-- [Dev.to/JS] [VueJS Part 2: Hello Vue and displaying values in HTML](https://dev.to/hi_iam_chris/vuejs-part-2-hello-vue-and-displaying-values-in-html-4eip)
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
 - [Lifehacker] [Bad Study Habits You Should Avoid &lpar;and What to Do Instead&rpar;](https://lifehacker.com/bad-study-habits-you-should-avoid-and-what-to-do-inste-1850818992)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-1850409952)
