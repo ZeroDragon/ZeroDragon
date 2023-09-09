@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Here are ten of the most useful shortcuts in VSCode:](https://dev.to/vitalipri/here-are-ten-of-the-most-useful-shortcuts-in-vscode-4dm6)
+- [Dev.to/JS] [The Beginning of an Open-Source Development Journey](https://dev.to/marktmarino/the-beginning-of-an-open-source-development-journey-2288)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
 - [Dev.to/JS] [First Blog](https://dev.to/sshah135/first-blog-1hlp)
 - [Dev.to/JS] [Purely Functional Programming in JavaScript](https://dev.to/sergeyshandar/purely-functional-programming-in-javascript-152d)
@@ -45,10 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Server Components and Server-Side Rendering: Supercharge Your Web Performance](https://dev.to/chideracode/react-server-components-and-server-side-rendering-supercharge-your-web-performance-3ecb)
 - [Lifehacker] [When to Turn on Your Heat in the Fall](https://lifehacker.com/when-to-turn-on-your-heat-in-the-fall-1850819421)
 - [Dev.to/JS] [Mastering JavaScript Classes: Your Shortcut to OOP Success!](https://dev.to/miroiudev/mastering-javascript-classes-your-shortcut-to-oop-success-57pp)
-- [Dev.to/JS] [The Start to Exploring the World of Open Source](https://dev.to/stephenditta/the-start-to-exploring-the-world-of-open-source-19af)
 - [Lifehacker] [Meredith&#39;s Training Diary: How to Choose a Marathon Training Program](https://lifehacker.com/how-to-choose-a-marathon-training-program-1850819139)
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
-- [Dev.to/JS] [Tailwind CSS: Using Dynamic Breakpoints and Container Queries](https://dev.to/alakkadshaw/tailwind-css-using-dynamic-breakpoints-and-container-queries-5clb)
 - [Lifehacker] [How to Watch NFL Game Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Lifehacker] [Air Fried Shishito Pepper Poppers Are a Fun Twist on the Classic Appetizer](https://lifehacker.com/shishito-pepper-poppers-air-fryer-recipe-1850818664)
 - [Lifehacker] [This ChatGPT Prompt Guide Is $29.99 Right Now](https://lifehacker.com/this-chatgpt-prompt-guide-is-29-99-right-now-1850814389)
