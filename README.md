@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NuxtJS + Laravel Solving CORS issue](https://dev.to/arielmejiadev/nuxtjs-laravel-solving-cors-issue-hh3)
+- [Dev.to/JS] [What is API &amp; REST API ?](https://dev.to/parmita17/what-is-api-rest-api--3noe)
+- [Dev.to/JS] [How to create a custom alert component in REACT with Context API](https://dev.to/ayo_tech/how-to-create-a-custom-alert-component-in-react-with-context-api-1dfj)
+- [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
 - [Dev.to/JS] [Unlocking the Potential of Arrays in React.js Development](https://dev.to/anii1429/unlocking-the-potential-of-arrays-in-reactjs-development-54g0)
 - [Dev.to/JS] [Handle Push Notifications in React](https://dev.to/mohammadfaisal/handle-push-notifications-in-react-fo0)
 - [Dev.to/JS] [Generate React-Router routes for your components automatically with MacroLock and Screen-Schemas](https://dev.to/maxabrams/generate-react-router-routes-for-your-components-automatically-with-macrolock-and-screen-schemas-4og4)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [There is no lamp to light my way](https://dev.to/gdfhhhh/there-is-no-lamp-to-light-my-way-3ck8)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Fortune Cheese](https://dev.to/nickytonline/yet-another-newsletter-lol-fortune-cheese-53c3)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
-- [Dev.to/JS] [Exploring the basics of Hono, a fast and lightweight alternative to Express.](https://dev.to/ntstarling/exploring-the-basics-of-hono-a-fast-and-lightweight-alternative-to-express-3me4)
-- [Dev.to/JS] [Discover Bun - A Faster, Modern JavaScript Runtime](https://dev.to/thevinitgupta/discover-bun-a-faster-modern-javascript-runtime-5fob)
-- [Dev.to/JS] [Function - JavaScript](https://dev.to/zouhair_sahtout/function-javascript-4n9i)
 - [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
 - [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [22 of the Scariest Horror Movies Streaming on Netflix](https://lifehacker.com/best-horror-movies-netflix-1850812430)
 - [Lifehacker] [You Can Get OfficeSuite for $45 Right Now](https://lifehacker.com/you-can-get-officesuite-for-45-right-now-1850806613)
 - [Lifehacker] [You Can Play These Retro Games in Your Browser](https://lifehacker.com/best-retro-browser-games-1850815840)
-- [Lifehacker] [Amazon&#39;s Fire TVs Are on Sale Right Now](https://lifehacker.com/amazons-fire-tvs-are-on-sale-right-now-1850815282)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Starfield&#39; Reviews](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-starfield-1850816581)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Amazon&#39;s Fire TVs Are on Sale Right Now](https://lifehacker.com/amazons-fire-tvs-are-on-sale-right-now-1850815282)<!-- TECH-POSTS:END -->
 
 ---
 
