@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Zoned-Date library - fully DST support](https://dev.to/tranvansang/javascript-zoned-date-library-fully-dst-support-3mmo)
 - [Dev.to/JS] [Manage Node versions with NVM.](https://dev.to/arindam_1729/manage-node-versions-with-nvm-2n0j)
 - [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
 - [Dev.to/JS] [How to display API data on map using React?](https://dev.to/thedev_subrat/how-to-display-api-data-on-map-using-react-51de)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Lost my job, spent 3 months building something like Pinterest for links, now has 800+ users](https://dev.to/askwhyharsh/i-lost-my-job-spent-3-months-building-something-like-pinterest-for-links-now-has-800-users-4519)
 - [Dev.to/JS] [Authentication in Next.js using NextAuth.js](https://dev.to/chirag__dev/authentication-in-nextjs-using-nextauthjs-597k)
 - [Dev.to/JS] [How to solve hydration error in Next.js](https://dev.to/chirag__dev/how-to-solve-hydration-error-in-nextjs-5e1b)
-- [Dev.to/JS] [Algorithm To Create Phone Number &quot;Codewars&quot;](https://dev.to/richeskelechi/algorithm-to-create-phone-number-codewars-5cjo)
 - [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
 - [Lifehacker] [Avoid These Multipurpose Room Mistakes](https://lifehacker.com/avoid-these-multipurpose-room-mistakes-1850820035)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
