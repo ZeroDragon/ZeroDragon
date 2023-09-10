@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jails 5 - A Front-end Library for new &lpar;old&rpar; trends](https://dev.to/javiani/jails-5-a-front-end-library-for-new-old-trends-e97)
+- [Dev.to/JS] [Save a pdf created with pdfkit to Google Cloud Storage](https://dev.to/blikblum/save-a-pdf-created-with-pdfkit-to-google-cloud-storage-1pob)
 - [Dev.to/JS] [Next js With API development](https://dev.to/syedmuhammadaliraza/next-js-with-api-development-3mpb)
 - [Dev.to/JS] [JavaScript Mastery: Take Your Skills to the Next Level](https://dev.to/shingaiz/javascript-mastery-take-your-skills-to-the-next-level-54od)
 - [Dev.to/JS] [Need Telegram Quiz Bot Developer](https://dev.to/verma38/need-telegram-quiz-bot-developer-23nc)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Potential of Arrays in React.js Development](https://dev.to/anii1429/unlocking-the-potential-of-arrays-in-reactjs-development-54g0)
 - [Dev.to/JS] [Handle Push Notifications in React](https://dev.to/mohammadfaisal/handle-push-notifications-in-react-fo0)
 - [Dev.to/JS] [Generate React-Router routes for your components automatically with MacroLock and Screen-Schemas](https://dev.to/maxabrams/generate-react-router-routes-for-your-components-automatically-with-macrolock-and-screen-schemas-4og4)
-- [Dev.to/JS] [Bun 1.0: Your All-in-One Toolkit for Turbocharging JavaScript and TypeScript Development](https://dev.to/nilanth/bun-10-your-all-in-one-toolkit-for-turbocharging-javascript-and-typescript-development-5h47)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
-- [Dev.to/JS] [I finished the Meta Frontend Developer Course - Here&#39;s what I learned](https://dev.to/shyneadl/i-finished-the-meta-frontend-developer-course-heres-what-i-learned-2l21)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
 - [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
