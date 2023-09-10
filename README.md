@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [20 Best Stable Diffusion Prompts for Age](https://dev.to/reganthapa/20-best-stable-diffusion-prompts-for-age-50bc)
+- [Dev.to/JS] [There is no lamp to light my way](https://dev.to/gdfhhhh/there-is-no-lamp-to-light-my-way-3ck8)
+- [Dev.to/JS] [Yet Another Newsletter LOL: Fortune Cheese](https://dev.to/nickytonline/yet-another-newsletter-lol-fortune-cheese-53c3)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
 - [Dev.to/JS] [Exploring the basics of Hono, a fast and lightweight alternative to Express.](https://dev.to/ntstarling/exploring-the-basics-of-hono-a-fast-and-lightweight-alternative-to-express-3me4)
 - [Dev.to/JS] [Discover Bun - A Faster, Modern JavaScript Runtime](https://dev.to/thevinitgupta/discover-bun-a-faster-modern-javascript-runtime-5fob)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue 3.0 Template Directive CheatSheet](https://dev.to/owl777/vue-30-template-directive-cheatsheet-e)
 - [Dev.to/JS] [Effortless Data Management: Connecting Google Sheets to Your ReactJS Project](https://dev.to/mursalfk/effortless-data-management-connecting-google-sheets-to-your-reactjs-project-n96)
 - [Dev.to/JS] [Apa itu Node.js ? Bagaimana Cara Kerja Node.js?](https://dev.to/rupadana/apa-itu-nodejs-bagaimana-cara-kerja-nodejs-35e8)
-- [Dev.to/JS] [Bun, Hono, Vite, TailwindCSS: An amazing combination has just been revealed!](https://dev.to/reedho/bun-hono-vite-tailwindcss-an-amazing-combination-has-just-been-revealed-1bo3)
-- [Dev.to/JS] [Navigating Waves of Information: The Caribbean Violence Web Crawler](https://dev.to/tashynw/navigating-waves-of-information-the-caribbean-violence-web-crawler-4i2e)
-- [Dev.to/JS] [An Overview of 25+ UI Component Libraries in 2023](https://dev.to/builderio/an-overview-of-25-ui-component-libraries-in-2023-51i6)
 - [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
 - [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
@@ -54,7 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Turn on Your Heat in the Fall](https://lifehacker.com/when-to-turn-on-your-heat-in-the-fall-1850819421)
 - [Lifehacker] [Meredith&#39;s Training Diary: How to Choose a Marathon Training Program](https://lifehacker.com/how-to-choose-a-marathon-training-program-1850819139)
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
-- [Lifehacker] [How to Watch NFL Game Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
+- [Lifehacker] [How to Watch NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
 - [Lifehacker] [Air Fried Shishito Pepper Poppers Are a Fun Twist on the Classic Appetizer](https://lifehacker.com/shishito-pepper-poppers-air-fryer-recipe-1850818664)
 - [Lifehacker] [This ChatGPT Prompt Guide Is $29.99 Right Now](https://lifehacker.com/this-chatgpt-prompt-guide-is-29-99-right-now-1850814389)
 - [Lifehacker] [What to Do When You’re Feeling ‘Touched Out’ As a Parent](https://lifehacker.com/what-to-do-when-you-re-feeling-touched-out-as-a-paren-1850818344)
