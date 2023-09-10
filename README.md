@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Javascript Zoned-Date library - fully DST support](https://dev.to/tranvansang/javascript-zoned-date-library-fully-dst-support-3mmo)
+- [Dev.to/JS] [Javascript Zoned-Date library - fully DST support](https://dev.to/sang/javascript-zoned-date-library-fully-dst-support-3mmo)
 - [Dev.to/JS] [Manage Node versions with NVM.](https://dev.to/arindam_1729/manage-node-versions-with-nvm-2n0j)
 - [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
 - [Dev.to/JS] [How to display API data on map using React?](https://dev.to/thedev_subrat/how-to-display-api-data-on-map-using-react-51de)
