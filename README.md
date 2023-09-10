@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Apa itu Node.js ? Bagaimana Cara Kerja Node.js?](https://dev.to/rupadana/apa-itu-nodejs-bagaimana-cara-kerja-nodejs-35e8)
 - [Dev.to/JS] [Bun, Hono, Vite, TailwindCSS: An amazing combination has just been revealed!](https://dev.to/reedho/bun-hono-vite-tailwindcss-an-amazing-combination-has-just-been-revealed-1bo3)
 - [Dev.to/JS] [Navigating Waves of Information: The Caribbean Violence Web Crawler](https://dev.to/tashynw/navigating-waves-of-information-the-caribbean-violence-web-crawler-4i2e)
 - [Dev.to/JS] [An Overview of 25+ UI Component Libraries in 2023](https://dev.to/builderio/an-overview-of-25-ui-component-libraries-in-2023-51i6)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing the Ontario Driver License Validator — Verifik.co becomes canadian](https://dev.to/verifik/introducing-the-ontario-driver-license-validator-the-new-gold-standard-in-id-verification-42j1)
 - [Dev.to/JS] [The JavaScript slice method](https://dev.to/stevepurpose/the-slice-philosophy-3jgi)
 - [Dev.to/JS] [Execute Terminal Commands And Receive Live Output With React+SSE](https://dev.to/codehirise/execute-terminal-commands-and-receive-live-output-with-reactsse-1le4)
-- [Dev.to/JS] [Optional Chaining and Nullish Coalescing: Safe Property Access in JavaScript](https://dev.to/mainulspace/optional-chaining-and-nullish-coalescing-safe-property-access-in-javascript-1d3d)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
 - [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
 - [Lifehacker] [Avoid These Multipurpose Room Mistakes](https://lifehacker.com/avoid-these-multipurpose-room-mistakes-1850820035)
