@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bun, Hono, Vite, TailwindCSS: An amazing combination has just been revealed!](https://dev.to/reedho/bun-hono-vite-tailwindcss-an-amazing-combination-has-just-been-revealed-1bo3)
+- [Dev.to/JS] [Navigating Waves of Information: The Caribbean Violence Web Crawler](https://dev.to/tashynw/navigating-waves-of-information-the-caribbean-violence-web-crawler-4i2e)
+- [Dev.to/JS] [An Overview of 25+ UI Component Libraries in 2023](https://dev.to/builderio/an-overview-of-25-ui-component-libraries-in-2023-51i6)
+- [Dev.to/JS] [Top React Libraries Every Developer Must Know](https://dev.to/scofieldidehen/top-react-libraries-every-developer-must-know-18e7)
 - [Dev.to/JS] [Javascript Zoned-Date library - fully DST support](https://dev.to/sang/javascript-zoned-date-library-fully-dst-support-3mmo)
 - [Dev.to/JS] [Manage Node versions with NVM.](https://dev.to/arindam_1729/manage-node-versions-with-nvm-2n0j)
 - [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Execute Terminal Commands And Receive Live Output With React+SSE](https://dev.to/codehirise/execute-terminal-commands-and-receive-live-output-with-reactsse-1le4)
 - [Dev.to/JS] [Optional Chaining and Nullish Coalescing: Safe Property Access in JavaScript](https://dev.to/mainulspace/optional-chaining-and-nullish-coalescing-safe-property-access-in-javascript-1d3d)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
-- [Dev.to/JS] [Support i18n / tips](https://dev.to/aboucodeur/support-i18n-tips-ohf)
-- [Dev.to/JS] [I Lost my job, spent 3 months building something like Pinterest for links, now has 800+ users](https://dev.to/askwhyharsh/i-lost-my-job-spent-3-months-building-something-like-pinterest-for-links-now-has-800-users-4519)
-- [Dev.to/JS] [Authentication in Next.js using NextAuth.js](https://dev.to/chirag__dev/authentication-in-nextjs-using-nextauthjs-597k)
-- [Dev.to/JS] [How to solve hydration error in Next.js](https://dev.to/chirag__dev/how-to-solve-hydration-error-in-nextjs-5e1b)
 - [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
 - [Lifehacker] [Avoid These Multipurpose Room Mistakes](https://lifehacker.com/avoid-these-multipurpose-room-mistakes-1850820035)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
