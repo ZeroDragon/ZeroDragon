@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
+- [Dev.to/JS] [I finished the Meta Frontend Developer Course - Here&#39;s what I learned](https://dev.to/shyneadl/i-finished-the-meta-frontend-developer-course-heres-what-i-learned-2l21)
+- [Dev.to/JS] [Build Drag and Drop with Rails Hotwire](https://dev.to/maful/build-drag-and-drop-with-rails-hotwire-551e)
 - [Dev.to/JS] [20 Best Stable Diffusion Prompts for Age](https://dev.to/reganthapa/20-best-stable-diffusion-prompts-for-age-50bc)
 - [Dev.to/JS] [There is no lamp to light my way](https://dev.to/gdfhhhh/there-is-no-lamp-to-light-my-way-3ck8)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Fortune Cheese](https://dev.to/nickytonline/yet-another-newsletter-lol-fortune-cheese-53c3)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced JavaScript: Mastering Scopes and Related Concepts](https://dev.to/odus_ex/advanced-javascript-mastering-scopes-and-related-concepts-5787)
 - [Dev.to/JS] [How to Improve Front-end performance??🤔](https://dev.to/manish7107/how-to-improve-front-end-performance-3ag7)
 - [Dev.to/JS] [Vue 3.0 Template Directive CheatSheet](https://dev.to/owl777/vue-30-template-directive-cheatsheet-e)
-- [Dev.to/JS] [Effortless Data Management: Connecting Google Sheets to Your ReactJS Project](https://dev.to/mursalfk/effortless-data-management-connecting-google-sheets-to-your-reactjs-project-n96)
-- [Dev.to/JS] [Apa itu Node.js ? Bagaimana Cara Kerja Node.js?](https://dev.to/rupadana/apa-itu-nodejs-bagaimana-cara-kerja-nodejs-35e8)
 - [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
 - [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get OfficeSuite for $45 Right Now](https://lifehacker.com/you-can-get-officesuite-for-45-right-now-1850806613)
 - [Lifehacker] [You Can Play These Retro Games in Your Browser](https://lifehacker.com/best-retro-browser-games-1850815840)
 - [Lifehacker] [Amazon&#39;s Fire TVs Are on Sale Right Now](https://lifehacker.com/amazons-fire-tvs-are-on-sale-right-now-1850815282)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Starfield&#39; Reviews](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-starfield-1850816581)
-- [Lifehacker] [Every Gardener Should Have a Steam Juicer](https://lifehacker.com/every-gardener-should-have-a-steam-juicer-1850814070)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Starfield&#39; Reviews](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-starfield-1850816581)<!-- TECH-POSTS:END -->
 
 ---
 
