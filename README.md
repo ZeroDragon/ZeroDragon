@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking the Potential of Arrays in React.js Development](https://dev.to/anii1429/unlocking-the-potential-of-arrays-in-reactjs-development-54g0)
+- [Dev.to/JS] [Handle Push Notifications in React](https://dev.to/mohammadfaisal/handle-push-notifications-in-react-fo0)
+- [Dev.to/JS] [Generate React-Router routes for your components automatically with MacroLock and Screen-Schemas](https://dev.to/maxabrams/generate-react-router-routes-for-your-components-automatically-with-macrolock-and-screen-schemas-4og4)
+- [Dev.to/JS] [Bun 1.0: Your All-in-One Toolkit for Turbocharging JavaScript and TypeScript Development](https://dev.to/nilanth/bun-10-your-all-in-one-toolkit-for-turbocharging-javascript-and-typescript-development-5h47)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
 - [Dev.to/JS] [I finished the Meta Frontend Developer Course - Here&#39;s what I learned](https://dev.to/shyneadl/i-finished-the-meta-frontend-developer-course-heres-what-i-learned-2l21)
 - [Dev.to/JS] [Build Drag and Drop with Rails Hotwire](https://dev.to/maful/build-drag-and-drop-with-rails-hotwire-551e)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the basics of Hono, a fast and lightweight alternative to Express.](https://dev.to/ntstarling/exploring-the-basics-of-hono-a-fast-and-lightweight-alternative-to-express-3me4)
 - [Dev.to/JS] [Discover Bun - A Faster, Modern JavaScript Runtime](https://dev.to/thevinitgupta/discover-bun-a-faster-modern-javascript-runtime-5fob)
 - [Dev.to/JS] [Function - JavaScript](https://dev.to/zouhair_sahtout/function-javascript-4n9i)
-- [Dev.to/JS] [Node.js Unveiled: The Inner Workings of a Runtime Revolution](https://dev.to/hakan_turan/nodejs-unveiled-the-inner-workings-of-a-runtime-revolution-agf)
-- [Dev.to/JS] [Advanced JavaScript: Mastering Scopes and Related Concepts](https://dev.to/odus_ex/advanced-javascript-mastering-scopes-and-related-concepts-5787)
-- [Dev.to/JS] [How to Improve Front-end performance??🤔](https://dev.to/manish7107/how-to-improve-front-end-performance-3ag7)
-- [Dev.to/JS] [Vue 3.0 Template Directive CheatSheet](https://dev.to/owl777/vue-30-template-directive-cheatsheet-e)
 - [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
 - [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
