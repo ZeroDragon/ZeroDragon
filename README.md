@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next js With API development](https://dev.to/syedmuhammadaliraza/next-js-with-api-development-3mpb)
+- [Dev.to/JS] [JavaScript Mastery: Take Your Skills to the Next Level](https://dev.to/shingaiz/javascript-mastery-take-your-skills-to-the-next-level-54od)
+- [Dev.to/JS] [Need Telegram Quiz Bot Developer](https://dev.to/verma38/need-telegram-quiz-bot-developer-23nc)
+- [Dev.to/JS] [Находки по разработке 4](https://dev.to/potykion/nakhodki-po-razrabotkie-4-3j2f)
 - [Dev.to/JS] [NuxtJS + Laravel Solving CORS issue](https://dev.to/arielmejiadev/nuxtjs-laravel-solving-cors-issue-hh3)
 - [Dev.to/JS] [What is API &amp; REST API ?](https://dev.to/parmita17/what-is-api-rest-api--3noe)
 - [Dev.to/JS] [How to create a custom alert component in REACT with Context API](https://dev.to/ayo_tech/how-to-create-a-custom-alert-component-in-react-with-context-api-1dfj)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bun 1.0: Your All-in-One Toolkit for Turbocharging JavaScript and TypeScript Development](https://dev.to/nilanth/bun-10-your-all-in-one-toolkit-for-turbocharging-javascript-and-typescript-development-5h47)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
 - [Dev.to/JS] [I finished the Meta Frontend Developer Course - Here&#39;s what I learned](https://dev.to/shyneadl/i-finished-the-meta-frontend-developer-course-heres-what-i-learned-2l21)
-- [Dev.to/JS] [Build Drag and Drop with Rails Hotwire](https://dev.to/maful/build-drag-and-drop-with-rails-hotwire-551e)
-- [Dev.to/JS] [20 Best Stable Diffusion Prompts for Age](https://dev.to/reganthapa/20-best-stable-diffusion-prompts-for-age-50bc)
-- [Dev.to/JS] [There is no lamp to light my way](https://dev.to/gdfhhhh/there-is-no-lamp-to-light-my-way-3ck8)
-- [Dev.to/JS] [Yet Another Newsletter LOL: Fortune Cheese](https://dev.to/nickytonline/yet-another-newsletter-lol-fortune-cheese-53c3)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
 - [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
