@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
+- [Dev.to/JS] [Exploring the basics of Hono, a fast and lightweight alternative to Express.](https://dev.to/ntstarling/exploring-the-basics-of-hono-a-fast-and-lightweight-alternative-to-express-3me4)
+- [Dev.to/JS] [Discover Bun - A Faster, Modern JavaScript Runtime](https://dev.to/thevinitgupta/discover-bun-a-faster-modern-javascript-runtime-5fob)
+- [Dev.to/JS] [Function - JavaScript](https://dev.to/zouhair_sahtout/function-javascript-4n9i)
 - [Dev.to/JS] [Node.js Unveiled: The Inner Workings of a Runtime Revolution](https://dev.to/hakan_turan/nodejs-unveiled-the-inner-workings-of-a-runtime-revolution-agf)
 - [Dev.to/JS] [Advanced JavaScript: Mastering Scopes and Related Concepts](https://dev.to/odus_ex/advanced-javascript-mastering-scopes-and-related-concepts-5787)
 - [Dev.to/JS] [How to Improve Front-end performance??🤔](https://dev.to/manish7107/how-to-improve-front-end-performance-3ag7)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bun, Hono, Vite, TailwindCSS: An amazing combination has just been revealed!](https://dev.to/reedho/bun-hono-vite-tailwindcss-an-amazing-combination-has-just-been-revealed-1bo3)
 - [Dev.to/JS] [Navigating Waves of Information: The Caribbean Violence Web Crawler](https://dev.to/tashynw/navigating-waves-of-information-the-caribbean-violence-web-crawler-4i2e)
 - [Dev.to/JS] [An Overview of 25+ UI Component Libraries in 2023](https://dev.to/builderio/an-overview-of-25-ui-component-libraries-in-2023-51i6)
-- [Dev.to/JS] [Top React Libraries Every Developer Must Know](https://dev.to/scofieldidehen/top-react-libraries-every-developer-must-know-18e7)
-- [Dev.to/JS] [Javascript Zoned-Date library - fully DST support](https://dev.to/sang/javascript-zoned-date-library-fully-dst-support-3mmo)
-- [Dev.to/JS] [Manage Node versions with NVM.](https://dev.to/arindam_1729/manage-node-versions-with-nvm-2n0j)
 - [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
 - [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Play These Retro Games in Your Browser](https://lifehacker.com/best-retro-browser-games-1850815840)
 - [Lifehacker] [Amazon&#39;s Fire TVs Are on Sale Right Now](https://lifehacker.com/amazons-fire-tvs-are-on-sale-right-now-1850815282)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Starfield&#39; Reviews](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-starfield-1850816581)
-- [Lifehacker] [Every Gardener Should Have a Steam Juicer](https://lifehacker.com/every-gardener-should-have-a-steam-juicer-1850814070)
-- [Lifehacker] [Buy These Garden Essentials on Sale Before Fall](https://lifehacker.com/buy-these-garden-essentials-on-sale-before-fall-1850815125)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Every Gardener Should Have a Steam Juicer](https://lifehacker.com/every-gardener-should-have-a-steam-juicer-1850814070)<!-- TECH-POSTS:END -->
 
 ---
 
