@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 45: DI](https://dev.to/dhrn/day-45-di-system-2ig6)
+- [Dev.to/JS] [Introducing Spaces: Build collaborative environments in a few lines of code](https://dev.to/ably/introducing-spaces-build-collaborative-environments-in-a-few-lines-of-code-3n01)
+- [Lifehacker] [Make Better Chicken Nuggets With Thighs Instead of Breasts](https://lifehacker.com/make-better-chicken-nuggets-with-thighs-instead-of-brea-1850819916)
+- [Dev.to/JS] [Phoenix OS , a portable , browser based version of windows XP](https://dev.to/vampeyer/phoenix-os-a-portable-browser-based-version-of-windows-xp-345i)
 - [Lifehacker] [These Vegetables Will Still Ripen After You Pick Them](https://lifehacker.com/what-vegetables-ripen-after-picking-1850819532)
 - [Dev.to/JS] [Web Design &amp; Digital Services - Shashi Sales](https://dev.to/shashisales/web-design-digital-services-shashi-sales-3306)
 - [Dev.to/JS] [INTL JS API](https://dev.to/iscoworld/intl-js-api-cbi)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Era of New Web Development Tools: An Introduction to Bun 1.0](https://dev.to/nothanii/the-era-of-new-web-development-tools-an-introduction-to-bun-10-2o2d)
 - [Dev.to/JS] [AZ-104 Dumps: The Ultimate Azure Certification Tool](https://dev.to/s6q5roo5/az-104-dumps-the-ultimate-azure-certification-tool-422p)
 - [Dev.to/JS] [Reactive Infinity Scroll](https://dev.to/this-is-learning/reactive-infinity-scroll-2mja)
-- [Dev.to/JS] [What is Asynchronous Programming in JavaScript?](https://dev.to/devhots/what-is-asynchronous-programming-in-javascript-215k)
-- [Dev.to/JS] [JavaScript Best Practices: Code Like a Pro!📝](https://dev.to/manish7107/javascript-best-practices-code-like-a-pro-26n9)
-- [Dev.to/JS] [I built an entire small shopping system by myself, and then started my entrepreneurial career.](https://dev.to/jonehe/i-built-an-entire-small-shopping-system-by-myself-and-then-started-my-entrepreneurial-career-522h)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This ChatGPT Prompt Guide Is $29.99 Right Now](https://lifehacker.com/this-chatgpt-prompt-guide-is-29-99-right-now-1850814389)
 - [Lifehacker] [What to Do When You’re Feeling ‘Touched Out’ As a Parent](https://lifehacker.com/what-to-do-when-you-re-feeling-touched-out-as-a-paren-1850818344)
 - [Lifehacker] [YouTube Lets You Sort Videos By Color Now, for Some Reason](https://lifehacker.com/youtube-lets-you-sort-videos-by-color-now-for-some-rea-1850818142)
-- [Lifehacker] [Three Ways to Make a Juicier Turkey Burger](https://lifehacker.com/three-ways-to-make-a-juicier-turkey-burger-1850815301)
-- [Lifehacker] [22 of the Scariest Horror Movies Streaming on Netflix](https://lifehacker.com/best-horror-movies-netflix-1850812430)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Ways to Make a Juicier Turkey Burger](https://lifehacker.com/three-ways-to-make-a-juicier-turkey-burger-1850815301)<!-- TECH-POSTS:END -->
 
 ---
 
