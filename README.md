@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Vegetables Will Still Ripen After You Pick Them](https://lifehacker.com/what-vegetables-ripen-after-picking-1850819532)
+- [Dev.to/JS] [Web Design &amp; Digital Services - Shashi Sales](https://dev.to/shashisales/web-design-digital-services-shashi-sales-3306)
+- [Dev.to/JS] [INTL JS API](https://dev.to/iscoworld/intl-js-api-cbi)
+- [Dev.to/JS] [Arrays - JavaScript](https://dev.to/zouhair_sahtout/arrays-javascript-3nd9)
+- [Lifehacker] [You Can Still Get Tested for COVID for Free](https://lifehacker.com/find-free-covid-testing-1850819516)
+- [Dev.to/JS] [We had a date bug that happened two times a year, and we didn&#39;t know, you might have it too 😱](https://dev.to/novu/we-had-a-date-bug-that-happened-two-times-a-year-and-we-didnt-know-you-might-have-it-too-56o6)
+- [Dev.to/JS] [19 Common JavaScript and Node.js Mistakes That Can Slow Down Your Code](https://dev.to/jsdevjournal/19-common-javascript-and-nodejs-mistakes-that-can-slow-down-your-code-3nc6)
 - [Lifehacker] [Who Is Dynata and Why Are They Calling You?](https://lifehacker.com/who-is-dynata-and-why-are-they-calling-you-1850819389)
 - [Dev.to/JS] [&quot;Life Insurance Company | Best life insurance company near me | Good life insurance company&quot;](https://dev.to/goodlifefinancial/life-insurance-company-best-life-insurance-company-near-me-good-life-insurance-company-2fdo)
 - [Dev.to/JS] [The Era of New Web Development Tools: An Introduction to Bun 1.0](https://dev.to/nothanii/the-era-of-new-web-development-tools-an-introduction-to-bun-10-2o2d)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Asynchronous Programming in JavaScript?](https://dev.to/devhots/what-is-asynchronous-programming-in-javascript-215k)
 - [Dev.to/JS] [JavaScript Best Practices: Code Like a Pro!📝](https://dev.to/manish7107/javascript-best-practices-code-like-a-pro-26n9)
 - [Dev.to/JS] [I built an entire small shopping system by myself, and then started my entrepreneurial career.](https://dev.to/jonehe/i-built-an-entire-small-shopping-system-by-myself-and-then-started-my-entrepreneurial-career-522h)
-- [Dev.to/JS] [Simplify KYC with PAN and Aadhaar Card OCR](https://dev.to/vinitshahdeo/simplify-kyc-with-pan-and-aadhaar-card-ocr-2f33)
-- [Dev.to/JS] [Next JS | Multi-Step Form](https://dev.to/shubhamtiwari909/next-js-multistep-form-2gc9)
-- [Dev.to/JS] [🤖 Svelte Reviewed: A Masterclass on Empowerment 🤖](https://dev.to/somedood/svelte-reviewed-a-masterclass-on-empowerment-2544)
-- [Dev.to/JS] [Building Engaging Content in Nuxt with Storyblok and Storefront UI](https://dev.to/jacobandrewsky/building-engaging-content-in-nuxt-with-storyblok-and-storefront-ui-3a9n)
-- [Dev.to/JS] [How to Use Machine Learning In Web Development](https://dev.to/sparkouttech/how-to-use-machine-learning-in-web-development-1j76)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When You’re Feeling ‘Touched Out’ As a Parent](https://lifehacker.com/what-to-do-when-you-re-feeling-touched-out-as-a-paren-1850818344)
 - [Lifehacker] [YouTube Lets You Sort Videos By Color Now, for Some Reason](https://lifehacker.com/youtube-lets-you-sort-videos-by-color-now-for-some-rea-1850818142)
 - [Lifehacker] [Three Ways to Make a Juicier Turkey Burger](https://lifehacker.com/three-ways-to-make-a-juicier-turkey-burger-1850815301)
-- [Lifehacker] [22 of the Scariest Horror Movies Streaming on Netflix](https://lifehacker.com/best-horror-movies-netflix-1850812430)
-- [Lifehacker] [You Can Get OfficeSuite for $45 Right Now](https://lifehacker.com/you-can-get-officesuite-for-45-right-now-1850806613)
-- [Lifehacker] [You Can Play These Retro Games in Your Browser](https://lifehacker.com/best-retro-browser-games-1850815840)<!-- TECH-POSTS:END -->
+- [Lifehacker] [22 of the Scariest Horror Movies Streaming on Netflix](https://lifehacker.com/best-horror-movies-netflix-1850812430)<!-- TECH-POSTS:END -->
 
 ---
 
