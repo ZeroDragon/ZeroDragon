@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Design Patterns: Organize, Reuse, and Boost Your Code](https://dev.to/highflyer910/javascript-design-patterns-organize-reuse-and-boost-your-code-44mb)
+- [Lifehacker] [12 of the Best Podcasts About Everything Disney](https://lifehacker.com/best-disney-podcasts-1850823468)
+- [Lifehacker] [You Can Adjust Your Dishwasher&#39;s Water Pressure](https://lifehacker.com/you-can-adjust-your-dishwashers-water-pressure-1850824223)
 - [Dev.to/JS] [Using Node.js for Automated Testing with Headless Browsers](https://dev.to/saint_vandora/using-nodejs-for-automated-testing-with-headless-browsers-5g8)
 - [Dev.to/JS] [Need some feedback for this markdown editor.](https://dev.to/aneesm/need-some-feedback-for-this-markdown-editor-1ojd)
 - [Lifehacker] [Razer&#39;s First Hot-swappable Keyboard Is Better Than I Expected](https://lifehacker.com/razer-blackwidow-v4-75-review-1850819950)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Vegetables Will Still Ripen After You Pick Them](https://lifehacker.com/what-vegetables-ripen-after-picking-1850819532)
 - [Dev.to/JS] [Web Design &amp; Digital Services - Shashi Sales](https://dev.to/shashisales/web-design-digital-services-shashi-sales-3306)
 - [Dev.to/JS] [INTL JS API](https://dev.to/iscoworld/intl-js-api-cbi)
-- [Dev.to/JS] [Arrays - JavaScript](https://dev.to/zouhair_sahtout/arrays-javascript-3nd9)
 - [Lifehacker] [You Can Still Get Tested for COVID for Free](https://lifehacker.com/find-free-covid-testing-1850819516)
 - [Lifehacker] [Who Is Dynata and Why Are They Calling You?](https://lifehacker.com/who-is-dynata-and-why-are-they-calling-you-1850819389)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meredith&#39;s Training Diary: How to Choose a Marathon Training Program](https://lifehacker.com/how-to-choose-a-marathon-training-program-1850819139)
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
 - [Lifehacker] [How to Watch NFL Games Without Cable](https://lifehacker.com/how-to-stream-nfl-games-without-cable-1849538243)
-- [Lifehacker] [Air Fried Shishito Pepper Poppers Are a Fun Twist on the Classic Appetizer](https://lifehacker.com/shishito-pepper-poppers-air-fryer-recipe-1850818664)
-- [Lifehacker] [This ChatGPT Prompt Guide Is $29.99 Right Now](https://lifehacker.com/this-chatgpt-prompt-guide-is-29-99-right-now-1850814389)
-- [Lifehacker] [What to Do When You’re Feeling ‘Touched Out’ As a Parent](https://lifehacker.com/what-to-do-when-you-re-feeling-touched-out-as-a-paren-1850818344)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Air Fried Shishito Pepper Poppers Are a Fun Twist on the Classic Appetizer](https://lifehacker.com/shishito-pepper-poppers-air-fryer-recipe-1850818664)<!-- TECH-POSTS:END -->
 
 ---
 
