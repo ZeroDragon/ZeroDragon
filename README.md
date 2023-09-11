@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Announcing The Browser Conference](https://dev.to/joelgriffith/announcing-the-browser-conference-44i4)
+- [Lifehacker] [The Only Time You Should Stop Contributing to Your 401&lpar;k&rpar;](https://lifehacker.com/the-only-time-you-should-stop-contributing-to-your-401-1850804903)
+- [Dev.to/JS] [Piece of Cake JavaScript Functions: Single-Page Application NavBar](https://dev.to/commdao/piece-of-cake-javascript-functions-single-page-application-navbar-6bj)
+- [Dev.to/JS] [How can I fix a slider that is cropped?](https://dev.to/masohas1/how-can-i-fix-a-slider-that-is-cropped-hgd)
+- [Lifehacker] [These ‘Smart’ Financial Moves Are Actually Not Great](https://lifehacker.com/these-smart-financial-moves-are-actually-not-great-1850825607)
 - [Dev.to/JS] [JavaScript Functions&lpar;Part 3&rpar;: Your Magic Spells](https://dev.to/init_chandan/javascript-functionspart-3-your-magic-spells-2i7c)
 - [Lifehacker] [How to Watch ‘Wonderlust,’ Apple’s iPhone 15 Event](https://lifehacker.com/how-to-watch-apple-s-iphone-event-1850825545)
 - [Dev.to/JS] [5 Reason to Switch to Bun](https://dev.to/stuyk/5-reason-to-switch-to-bun-294l)
@@ -44,9 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Razer&#39;s First Hot-swappable Keyboard Is Better Than I Expected](https://lifehacker.com/razer-blackwidow-v4-75-review-1850819950)
 - [Dev.to/JS] [Bun 1.0: The Swift Newcomer in the JavaScript Ecosystem](https://dev.to/ervidaslaven/bun-10-the-swift-newcomer-in-the-javascript-ecosystem-3ol9)
 - [Dev.to/JS] [Node.js path module](https://dev.to/endeavourmonk/nodejs-path-module-16fm)
-- [Dev.to/JS] [Choosing the Right Database for Your Application](https://dev.to/taquiimam14/choosing-the-right-database-for-your-application-5ff3)
-- [Dev.to/JS] [The Terror of Mongolia JS13k Post-mortem &lpar;part 2&rpar;](https://dev.to/jacklehamster/the-terror-of-mongolia-js13k-post-mortem-part-2-3ell)
-- [Dev.to/JS] [Day 45: DI](https://dev.to/dhrn/day-45-di-system-2ig6)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 11](https://lifehacker.com/connections-answer-today-september-11-2023-1850824666)
 - [Lifehacker] [Make Better Chicken Nuggets With Thighs Instead of Breasts](https://lifehacker.com/make-better-chicken-nuggets-with-thighs-instead-of-brea-1850819916)
 - [Lifehacker] [These Vegetables Will Still Ripen After You Pick Them](https://lifehacker.com/what-vegetables-ripen-after-picking-1850819532)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
 - [Lifehacker] [Bad Study Habits You Should Avoid &lpar;and What to Do Instead&rpar;](https://lifehacker.com/bad-study-habits-you-should-avoid-and-what-to-do-inste-1850818992)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-1850409952)
-- [Lifehacker] [This Vegan Whipped Cream Recipe Will Make You Forget About Dairy](https://lifehacker.com/vegan-whipped-cream-recipe-1850819905)
-- [Lifehacker] [You Can Try &#39;Payday 3&#39;s&#39; Open Beta Right Now](https://lifehacker.com/you-can-try-payday-3s-open-beta-right-now-1850819129)
-- [Lifehacker] [These Are the Easiest Thai Chicken Skewers Ever](https://lifehacker.com/easy-thai-chicken-skewers-recipe-1849376133)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Vegan Whipped Cream Recipe Will Make You Forget About Dairy](https://lifehacker.com/vegan-whipped-cream-recipe-1850819905)<!-- TECH-POSTS:END -->
 
 ---
 
