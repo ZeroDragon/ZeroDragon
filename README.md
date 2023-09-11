@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Best Practices: Code Like a Pro!📝](https://dev.to/manish7107/javascript-best-practices-code-like-a-pro-26n9)
+- [Dev.to/JS] [I built an entire small shopping system by myself, and then started my entrepreneurial career.](https://dev.to/jonehe/i-built-an-entire-small-shopping-system-by-myself-and-then-started-my-entrepreneurial-career-522h)
+- [Dev.to/JS] [Simplify KYC with PAN and Aadhaar Card OCR](https://dev.to/vinitshahdeo/simplify-kyc-with-pan-and-aadhaar-card-ocr-2f33)
+- [Dev.to/JS] [Next JS | Multi-Step Form](https://dev.to/shubhamtiwari909/next-js-multistep-form-2gc9)
+- [Dev.to/JS] [🤖 Svelte Reviewed: A Masterclass on Empowerment 🤖](https://dev.to/somedood/svelte-reviewed-a-masterclass-on-empowerment-2544)
 - [Dev.to/JS] [Building Engaging Content in Nuxt with Storyblok and Storefront UI](https://dev.to/jacobandrewsky/building-engaging-content-in-nuxt-with-storyblok-and-storefront-ui-3a9n)
 - [Dev.to/JS] [How to Use Machine Learning In Web Development](https://dev.to/sparkouttech/how-to-use-machine-learning-in-web-development-1j76)
 - [Dev.to/JS] [4 Types of JavaScript Operators You Must Know About](https://dev.to/devshefali/4-types-of-javascript-operators-you-must-know-about-542f)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useEnterCallback](https://dev.to/rabbitzzc/useentercallback-6m)
 - [Dev.to/JS] [Quick JavaScript Go through for Revision Purposes.](https://dev.to/satyxm/quick-javascript-go-through-for-revision-purposes-476l)
 - [Dev.to/JS] [No More dotenv: How to Use the Built-in Support for .env Files in Node.js](https://dev.to/iradukundairenee/no-more-dotenv-how-to-use-the-built-in-support-for-env-files-in-nodejs-29b5)
-- [Dev.to/JS] [Misconceptions About JavaScript](https://dev.to/s-nidhin/misconceptions-about-javascript-1h1)
-- [Dev.to/JS] [JavaScript Basics: Understanding Syntax and Data Types](https://dev.to/toheebcodes/javascript-basics-understanding-syntax-and-data-types-3ac7)
-- [Dev.to/JS] [How I Went Viral](https://dev.to/mohammadfaisal/how-i-went-viral-e5p)
-- [Dev.to/JS] [Building Scalable and Robust Enterprise Applications with Angular](https://dev.to/chintanonweb/building-scalable-and-robust-enterprise-applications-with-angular-311a)
-- [Dev.to/JS] [Immediate Edge - Results, Reviews, Price, Benefits &amp; Side Effects?](https://dev.to/immediatee66482/immediate-edge-results-reviews-price-benefits-side-effects-1g2e)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
