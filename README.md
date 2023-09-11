@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Functions&lpar;Part 3&rpar;: Your Magic Spells](https://dev.to/init_chandan/javascript-functionspart-3-your-magic-spells-2i7c)
+- [Lifehacker] [How to Watch ‘Wonderlust,’ Apple’s iPhone 15 Event](https://lifehacker.com/how-to-watch-apple-s-iphone-event-1850825545)
+- [Dev.to/JS] [5 Reason to Switch to Bun](https://dev.to/stuyk/5-reason-to-switch-to-bun-294l)
+- [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
+- [Dev.to/JS] [Managing Life-Cycle Methods Using React Hooks](https://dev.to/kirubelkinfe/managing-life-cycle-methods-using-react-hooks-cd6)
+- [Lifehacker] [These Simple Alfajores Sandwich Cookies Satisfy Every Sweet Tooth](https://lifehacker.com/these-simple-alfajores-sandwich-cookies-satisfy-every-s-1850825304)
 - [Dev.to/JS] [What&#39;s Behind the Excitement in the JavaScript Community about Bun.js?](https://dev.to/mitchiemt11/whats-behind-the-excitement-in-the-javascript-community-about-bunjs-2p4l)
 - [Lifehacker] [The Best Sitcoms You Can Stream on Netflix](https://lifehacker.com/best-netflix-sitcoms-1850823337)
 - [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/best-note-taking-methods-1849535943)
@@ -42,11 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Terror of Mongolia JS13k Post-mortem &lpar;part 2&rpar;](https://dev.to/jacklehamster/the-terror-of-mongolia-js13k-post-mortem-part-2-3ell)
 - [Dev.to/JS] [Day 45: DI](https://dev.to/dhrn/day-45-di-system-2ig6)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 11](https://lifehacker.com/connections-answer-today-september-11-2023-1850824666)
-- [Dev.to/JS] [Introducing Spaces: Build collaborative environments in a few lines of code](https://dev.to/ably/introducing-spaces-build-collaborative-environments-in-a-few-lines-of-code-3n01)
 - [Lifehacker] [Make Better Chicken Nuggets With Thighs Instead of Breasts](https://lifehacker.com/make-better-chicken-nuggets-with-thighs-instead-of-brea-1850819916)
-- [Dev.to/JS] [Phoenix OS , a portable , browser based version of windows XP](https://dev.to/vampeyer/phoenix-os-a-portable-browser-based-version-of-windows-xp-345i)
 - [Lifehacker] [These Vegetables Will Still Ripen After You Pick Them](https://lifehacker.com/what-vegetables-ripen-after-picking-1850819532)
-- [Dev.to/JS] [Web Design &amp; Digital Services - Shashi Sales](https://dev.to/shashisales/web-design-digital-services-shashi-sales-3306)
 - [Lifehacker] [You Can Still Get Tested for COVID for Free](https://lifehacker.com/find-free-covid-testing-1850819516)
 - [Lifehacker] [Who Is Dynata and Why Are They Calling You?](https://lifehacker.com/who-is-dynata-and-why-are-they-calling-you-1850819389)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-1850409952)
 - [Lifehacker] [This Vegan Whipped Cream Recipe Will Make You Forget About Dairy](https://lifehacker.com/vegan-whipped-cream-recipe-1850819905)
 - [Lifehacker] [You Can Try &#39;Payday 3&#39;s&#39; Open Beta Right Now](https://lifehacker.com/you-can-try-payday-3s-open-beta-right-now-1850819129)
-- [Lifehacker] [These Are the Easiest Thai Chicken Skewers Ever](https://lifehacker.com/easy-thai-chicken-skewers-recipe-1849376133)
-- [Lifehacker] [The Fall Yard Cleanup Tasks You Should Tackle in September](https://lifehacker.com/fall-yard-cleanup-september-1850819047)
-- [Lifehacker] [When to Turn on Your Heat in the Fall](https://lifehacker.com/when-to-turn-on-your-heat-in-the-fall-1850819421)
-- [Lifehacker] [Meredith&#39;s Training Diary: How to Choose a Marathon Training Program](https://lifehacker.com/how-to-choose-a-marathon-training-program-1850819139)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Easiest Thai Chicken Skewers Ever](https://lifehacker.com/easy-thai-chicken-skewers-recipe-1849376133)<!-- TECH-POSTS:END -->
 
 ---
 
