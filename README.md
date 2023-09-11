@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Convert a Hygraph Next.js project to Next.js app directory](https://dev.to/brob/convert-a-hygraph-nextjs-project-to-nextjs-app-directory-beta-4m13)
+- [Dev.to/JS] [Dirty JavaScript? Clean It Up with These Proven Techniques 😅](https://dev.to/the_harsha_dev/dirty-javascript-clean-it-up-with-these-proven-techniques-14a1)
+- [Dev.to/JS] [Docker Node.js and MongoDB example](https://dev.to/tienbku/docker-nodejs-and-mongodb-example-doc)
 - [Dev.to/JS] [How to use geolocation api using ReactJS](https://dev.to/choiruladamm/how-to-use-geolocation-api-using-reactjs-ndk)
 - [Dev.to/JS] [Self-developed PSD parser dynamically generates static code to improve your development efficiency](https://dev.to/yuanmr/self-developed-psd-parser-dynamically-generates-static-code-to-improve-your-development-efficiency-200c)
 - [Dev.to/JS] [Dynamsoft Service REST API Preview - Scan Documents in Node.js](https://dev.to/yushulx/dynamsoft-service-rest-api-preview-scan-documents-in-nodejs-8dl)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Save a pdf created with pdfkit to Google Cloud Storage](https://dev.to/blikblum/save-a-pdf-created-with-pdfkit-to-google-cloud-storage-1pob)
 - [Dev.to/JS] [Next js With API development](https://dev.to/syedmuhammadaliraza/next-js-with-api-development-3mpb)
 - [Dev.to/JS] [JavaScript Mastery: Take Your Skills to the Next Level](https://dev.to/shingaiz/javascript-mastery-take-your-skills-to-the-next-level-54od)
-- [Dev.to/JS] [Need Telegram Quiz Bot Developer](https://dev.to/verma38/need-telegram-quiz-bot-developer-23nc)
-- [Dev.to/JS] [Находки по разработке 4](https://dev.to/potykion/nakhodki-po-razrabotkie-4-3j2f)
-- [Dev.to/JS] [NuxtJS + Laravel Solving CORS issue](https://dev.to/arielmejiadev/nuxtjs-laravel-solving-cors-issue-hh3)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
