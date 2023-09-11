@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Went Viral](https://dev.to/mohammadfaisal/how-i-went-viral-e5p)
+- [Dev.to/JS] [Building Scalable and Robust Enterprise Applications with Angular](https://dev.to/chintanonweb/building-scalable-and-robust-enterprise-applications-with-angular-311a)
 - [Dev.to/JS] [Immediate Edge - Results, Reviews, Price, Benefits &amp; Side Effects?](https://dev.to/immediatee66482/immediate-edge-results-reviews-price-benefits-side-effects-1g2e)
 - [Dev.to/JS] [COMP 1800 - A Simple Full-Stack Web Application 🌱](https://dev.to/rjsgml/comp-1800-a-simple-full-stack-wep-application-5b4h)
 - [Dev.to/JS] [Convert a Hygraph Next.js project to Next.js app directory](https://dev.to/brob/convert-a-hygraph-nextjs-project-to-nextjs-app-directory-beta-4m13)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dynamsoft Service REST API Preview - Scan Documents in Node.js](https://dev.to/yushulx/dynamsoft-service-rest-api-preview-scan-documents-in-nodejs-8dl)
 - [Dev.to/JS] [ReqEase: Simplifying Form Handling and Validation for Web Developers](https://dev.to/hichemtab-tech/reqease-simplifying-form-handling-and-validation-for-web-developers-2h4j)
 - [Dev.to/JS] [Principles for Scaling Frontend Application Developments](https://dev.to/hashcode01/principles-for-scaling-frontend-application-developments-2kja)
-- [Dev.to/JS] [Jails 5 - A Front-end Library for new &lpar;old&rpar; trends](https://dev.to/javiani/jails-5-a-front-end-library-for-new-old-trends-e97)
-- [Dev.to/JS] [Save a pdf created with pdfkit to Google Cloud Storage](https://dev.to/blikblum/save-a-pdf-created-with-pdfkit-to-google-cloud-storage-1pob)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
