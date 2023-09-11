@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Engaging Content in Nuxt with Storyblok and Storefront UI](https://dev.to/jacobandrewsky/building-engaging-content-in-nuxt-with-storyblok-and-storefront-ui-3a9n)
+- [Dev.to/JS] [How to Use Machine Learning In Web Development](https://dev.to/sparkouttech/how-to-use-machine-learning-in-web-development-1j76)
 - [Dev.to/JS] [4 Types of JavaScript Operators You Must Know About](https://dev.to/devshefali/4-types-of-javascript-operators-you-must-know-about-542f)
 - [Dev.to/JS] [Demystifying React Components: Stateless vs. Stateful](https://dev.to/crossskatee1/demystifying-react-components-stateless-vs-stateful-581a)
 - [Dev.to/JS] [useEnterCallback](https://dev.to/rabbitzzc/useentercallback-6m)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I Went Viral](https://dev.to/mohammadfaisal/how-i-went-viral-e5p)
 - [Dev.to/JS] [Building Scalable and Robust Enterprise Applications with Angular](https://dev.to/chintanonweb/building-scalable-and-robust-enterprise-applications-with-angular-311a)
 - [Dev.to/JS] [Immediate Edge - Results, Reviews, Price, Benefits &amp; Side Effects?](https://dev.to/immediatee66482/immediate-edge-results-reviews-price-benefits-side-effects-1g2e)
-- [Dev.to/JS] [COMP 1800 - A Simple Full-Stack Web Application 🌱](https://dev.to/rjsgml/comp-1800-a-simple-full-stack-wep-application-5b4h)
-- [Dev.to/JS] [Convert a Hygraph Next.js project to Next.js app directory](https://dev.to/brob/convert-a-hygraph-nextjs-project-to-nextjs-app-directory-beta-4m13)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
