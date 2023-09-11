@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use bunx for running npm packages with lightning fast speed.](https://dev.to/mitrakumar/use-bunx-for-running-npm-packages-with-lightning-fast-speed-2p32)
+- [Lifehacker] [Waffle Your Store-Bought Croissants](https://lifehacker.com/waffled-ham-and-cheese-croissant-recipe-1850826726)
+- [Lifehacker] [Amazon Has Even More Buy-One-Get-One-Free Video Games Right Now](https://lifehacker.com/amazon-has-buy-one-get-one-free-video-games-right-now-1850780431)
 - [Lifehacker] [The Unbreakable Rules of Laundromat Etiquette](https://lifehacker.com/the-unbreakable-rules-of-laundromat-etiquette-1850826353)
+- [Dev.to/JS] [Buns](https://dev.to/earthfill/buns-1c4g)
 - [Dev.to/JS] [The Frontend newsletter #14 - Discover the latest trends](https://dev.to/tech_foutraque/the-frontend-newsletter-14-discover-the-latest-trends-o1l)
 - [Lifehacker] [TikTok Myth of the Week: Bananas Destroy the Nutrients in Smoothies](https://lifehacker.com/tiktok-myth-of-the-week-bananas-destroy-the-nutrients-1850825839)
 - [Lifehacker] [Trips to Puerto Rico Are Really Cheap Right Now](https://lifehacker.com/cheap-puerto-rico-flights-1850826042)
@@ -50,8 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Design Patterns: Organize, Reuse, and Boost Your Code](https://dev.to/highflyer910/javascript-design-patterns-organize-reuse-and-boost-your-code-44mb)
 - [Lifehacker] [12 of the Best Podcasts About Everything Disney](https://lifehacker.com/best-disney-podcasts-1850823468)
 - [Lifehacker] [You Can Adjust Your Dishwasher&#39;s Water Pressure](https://lifehacker.com/you-can-adjust-your-dishwashers-water-pressure-1850824223)
-- [Dev.to/JS] [Using Node.js for Automated Testing with Headless Browsers](https://dev.to/saint_vandora/using-nodejs-for-automated-testing-with-headless-browsers-5g8)
-- [Dev.to/JS] [Need some feedback for this markdown editor.](https://dev.to/aneesm/need-some-feedback-for-this-markdown-editor-1ojd)
 - [Lifehacker] [Razer&#39;s First Hot-swappable Keyboard Is Better Than I Expected](https://lifehacker.com/razer-blackwidow-v4-75-review-1850819950)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 11](https://lifehacker.com/connections-answer-today-september-11-2023-1850824666)
 - [Lifehacker] [Make Better Chicken Nuggets With Thighs Instead of Breasts](https://lifehacker.com/make-better-chicken-nuggets-with-thighs-instead-of-brea-1850819916)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
 - [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
-- [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
-- [Lifehacker] [Avoid These Multipurpose Room Mistakes](https://lifehacker.com/avoid-these-multipurpose-room-mistakes-1850820035)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)<!-- TECH-POSTS:END -->
 
 ---
 
