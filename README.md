@@ -26,9 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Unbreakable Rules of Laundromat Etiquette](https://lifehacker.com/the-unbreakable-rules-of-laundromat-etiquette-1850826353)
+- [Dev.to/JS] [The Frontend newsletter #14 - Discover the latest trends](https://dev.to/tech_foutraque/the-frontend-newsletter-14-discover-the-latest-trends-o1l)
+- [Lifehacker] [TikTok Myth of the Week: Bananas Destroy the Nutrients in Smoothies](https://lifehacker.com/tiktok-myth-of-the-week-bananas-destroy-the-nutrients-1850825839)
+- [Lifehacker] [Trips to Puerto Rico Are Really Cheap Right Now](https://lifehacker.com/cheap-puerto-rico-flights-1850826042)
+- [Dev.to/JS] [Next.js: TypeScript, Environment Variables, Deployment &amp; CLI](https://dev.to/syedmuhammadaliraza/nextjs-typescript-environment-variables-deployment-cli-30m6)
 - [Dev.to/JS] [Announcing The Browser Conference](https://dev.to/joelgriffith/announcing-the-browser-conference-44i4)
 - [Lifehacker] [The Only Time You Should Stop Contributing to Your 401&lpar;k&rpar;](https://lifehacker.com/the-only-time-you-should-stop-contributing-to-your-401-1850804903)
 - [Dev.to/JS] [Piece of Cake JavaScript Functions: Single-Page Application NavBar](https://dev.to/commdao/piece-of-cake-javascript-functions-single-page-application-navbar-6bj)
+- [Lifehacker] [How to Buy a Burner Phone](https://lifehacker.com/how-to-buy-a-burner-phone-1843905326)
 - [Dev.to/JS] [How can I fix a slider that is cropped?](https://dev.to/masohas1/how-can-i-fix-a-slider-that-is-cropped-hgd)
 - [Lifehacker] [These ‘Smart’ Financial Moves Are Actually Not Great](https://lifehacker.com/these-smart-financial-moves-are-actually-not-great-1850825607)
 - [Dev.to/JS] [JavaScript Functions&lpar;Part 3&rpar;: Your Magic Spells](https://dev.to/init_chandan/javascript-functionspart-3-your-magic-spells-2i7c)
@@ -47,8 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Node.js for Automated Testing with Headless Browsers](https://dev.to/saint_vandora/using-nodejs-for-automated-testing-with-headless-browsers-5g8)
 - [Dev.to/JS] [Need some feedback for this markdown editor.](https://dev.to/aneesm/need-some-feedback-for-this-markdown-editor-1ojd)
 - [Lifehacker] [Razer&#39;s First Hot-swappable Keyboard Is Better Than I Expected](https://lifehacker.com/razer-blackwidow-v4-75-review-1850819950)
-- [Dev.to/JS] [Bun 1.0: The Swift Newcomer in the JavaScript Ecosystem](https://dev.to/ervidaslaven/bun-10-the-swift-newcomer-in-the-javascript-ecosystem-3ol9)
-- [Dev.to/JS] [Node.js path module](https://dev.to/endeavourmonk/nodejs-path-module-16fm)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 11](https://lifehacker.com/connections-answer-today-september-11-2023-1850824666)
 - [Lifehacker] [Make Better Chicken Nuggets With Thighs Instead of Breasts](https://lifehacker.com/make-better-chicken-nuggets-with-thighs-instead-of-brea-1850819916)
 - [Lifehacker] [These Vegetables Will Still Ripen After You Pick Them](https://lifehacker.com/what-vegetables-ripen-after-picking-1850819532)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
 - [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)
 - [Lifehacker] [Avoid These Multipurpose Room Mistakes](https://lifehacker.com/avoid-these-multipurpose-room-mistakes-1850820035)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)
-- [Lifehacker] [Make Hot Honey With Just Three Ingredients](https://lifehacker.com/easy-hot-honey-recipe-1850819440)
-- [Lifehacker] [Bad Study Habits You Should Avoid &lpar;and What to Do Instead&rpar;](https://lifehacker.com/bad-study-habits-you-should-avoid-and-what-to-do-inste-1850818992)
-- [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-1850409952)
-- [Lifehacker] [This Vegan Whipped Cream Recipe Will Make You Forget About Dairy](https://lifehacker.com/vegan-whipped-cream-recipe-1850819905)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 9](https://lifehacker.com/connections-answer-today-september-9-2023-1850817171)<!-- TECH-POSTS:END -->
 
 ---
 
