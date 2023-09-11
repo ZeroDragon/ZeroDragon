@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use geolocation api using ReactJS](https://dev.to/choiruladamm/how-to-use-geolocation-api-using-reactjs-ndk)
 - [Dev.to/JS] [Self-developed PSD parser dynamically generates static code to improve your development efficiency](https://dev.to/yuanmr/self-developed-psd-parser-dynamically-generates-static-code-to-improve-your-development-efficiency-200c)
 - [Dev.to/JS] [Dynamsoft Service REST API Preview - Scan Documents in Node.js](https://dev.to/yushulx/dynamsoft-service-rest-api-preview-scan-documents-in-nodejs-8dl)
 - [Dev.to/JS] [ReqEase: Simplifying Form Handling and Validation for Web Developers](https://dev.to/hichemtab-tech/reqease-simplifying-form-handling-and-validation-for-web-developers-2h4j)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Need Telegram Quiz Bot Developer](https://dev.to/verma38/need-telegram-quiz-bot-developer-23nc)
 - [Dev.to/JS] [Находки по разработке 4](https://dev.to/potykion/nakhodki-po-razrabotkie-4-3j2f)
 - [Dev.to/JS] [NuxtJS + Laravel Solving CORS issue](https://dev.to/arielmejiadev/nuxtjs-laravel-solving-cors-issue-hh3)
-- [Dev.to/JS] [What is API &amp; REST API ?](https://dev.to/parmita17/what-is-api-rest-api--3noe)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
