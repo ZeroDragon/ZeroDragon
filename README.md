@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reactive Infinity Scroll](https://dev.to/this-is-learning/reactive-infinity-scroll-2mja)
+- [Dev.to/JS] [What is Asynchronous Programming in JavaScript?](https://dev.to/devhots/what-is-asynchronous-programming-in-javascript-215k)
 - [Dev.to/JS] [JavaScript Best Practices: Code Like a Pro!📝](https://dev.to/manish7107/javascript-best-practices-code-like-a-pro-26n9)
 - [Dev.to/JS] [I built an entire small shopping system by myself, and then started my entrepreneurial career.](https://dev.to/jonehe/i-built-an-entire-small-shopping-system-by-myself-and-then-started-my-entrepreneurial-career-522h)
 - [Dev.to/JS] [Simplify KYC with PAN and Aadhaar Card OCR](https://dev.to/vinitshahdeo/simplify-kyc-with-pan-and-aadhaar-card-ocr-2f33)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [4 Types of JavaScript Operators You Must Know About](https://dev.to/devshefali/4-types-of-javascript-operators-you-must-know-about-542f)
 - [Dev.to/JS] [Demystifying React Components: Stateless vs. Stateful](https://dev.to/crossskatee1/demystifying-react-components-stateless-vs-stateful-581a)
 - [Dev.to/JS] [useEnterCallback](https://dev.to/rabbitzzc/useentercallback-6m)
-- [Dev.to/JS] [Quick JavaScript Go through for Revision Purposes.](https://dev.to/satyxm/quick-javascript-go-through-for-revision-purposes-476l)
-- [Dev.to/JS] [No More dotenv: How to Use the Built-in Support for .env Files in Node.js](https://dev.to/iradukundairenee/no-more-dotenv-how-to-use-the-built-in-support-for-env-files-in-nodejs-29b5)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
 - [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
