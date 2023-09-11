@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This Context API Mistake Ruins Your Whole React App &lpar;All Components Re-Render&rpar;](https://dev.to/ubahthebuilder/this-context-api-mistake-ruins-your-whole-react-app-all-components-re-render-2k63)
+- [Dev.to/JS] [Bun 101: Bun for JavaScript Developers](https://dev.to/abdadeel/bun-101-bun-for-javascript-developers-1l68)
+- [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)
+- [Dev.to/JS] [Unlocking the Potential of Web Sockets in Modern Web Development](https://dev.to/ibrahzizo360/unlocking-the-potential-of-web-sockets-in-modern-web-development-5ef)
 - [Lifehacker] [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)
 - [Dev.to/JS] [PURISTA: Build with rimraf, esbuild, Turbo &amp; git-cliff](https://dev.to/purista/purista-build-with-rimraf-esbuild-turbo-git-cliff-5h5e)
 - [Lifehacker] [The Best Way to Clean Your TV Without Damaging It](https://lifehacker.com/the-best-way-to-clean-your-tv-without-damaging-it-1849643169)
@@ -47,11 +51,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These ‘Smart’ Financial Moves Are Actually Not Great](https://lifehacker.com/these-smart-financial-moves-are-actually-not-great-1850825607)
 - [Dev.to/JS] [JavaScript Functions&lpar;Part 3&rpar;: Your Magic Spells](https://dev.to/init_chandan/javascript-functionspart-3-your-magic-spells-2i7c)
 - [Lifehacker] [How to Watch ‘Wonderlust,’ Apple’s iPhone 15 Event](https://lifehacker.com/how-to-watch-apple-s-iphone-event-1850825545)
-- [Dev.to/JS] [5 Reason to Switch to Bun](https://dev.to/stuyk/5-reason-to-switch-to-bun-294l)
 - [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
-- [Dev.to/JS] [Managing Life-Cycle Methods Using React Hooks](https://dev.to/kirubelkinfe/managing-life-cycle-methods-using-react-hooks-cd6)
 - [Lifehacker] [These Simple Alfajores Sandwich Cookies Satisfy Every Sweet Tooth](https://lifehacker.com/these-simple-alfajores-sandwich-cookies-satisfy-every-s-1850825304)
-- [Dev.to/JS] [What&#39;s Behind the Excitement in the JavaScript Community about Bun.js?](https://dev.to/mitchiemt11/whats-behind-the-excitement-in-the-javascript-community-about-bunjs-2p4l)
 - [Lifehacker] [The Best Sitcoms You Can Stream on Netflix](https://lifehacker.com/best-netflix-sitcoms-1850823337)
 - [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/best-note-taking-methods-1849535943)
 - [Lifehacker] [This Dash and Backup Cam Kit Is Under $100 Right Now](https://lifehacker.com/this-dash-and-backup-cam-kit-is-under-100-right-now-1850820290)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Still Get Tested for COVID for Free](https://lifehacker.com/find-free-covid-testing-1850819516)
 - [Lifehacker] [Who Is Dynata and Why Are They Calling You?](https://lifehacker.com/who-is-dynata-and-why-are-they-calling-you-1850819389)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
-- [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
-- [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)<!-- TECH-POSTS:END -->
 
 ---
 
