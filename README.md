@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)
+- [Dev.to/JS] [PURISTA: Build with rimraf, esbuild, Turbo &amp; git-cliff](https://dev.to/purista/purista-build-with-rimraf-esbuild-turbo-git-cliff-5h5e)
+- [Lifehacker] [The Best Way to Clean Your TV Without Damaging It](https://lifehacker.com/the-best-way-to-clean-your-tv-without-damaging-it-1849643169)
+- [Lifehacker] [This Terabyte of Cloud Storage Is $160 for Life](https://lifehacker.com/this-terabyte-of-cloud-storage-is-160-for-life-1850814435)
 - [Dev.to/JS] [Use bunx for running npm packages with lightning fast speed.](https://dev.to/mitrakumar/use-bunx-for-running-npm-packages-with-lightning-fast-speed-2p32)
 - [Lifehacker] [Waffle Your Store-Bought Croissants](https://lifehacker.com/waffled-ham-and-cheese-croissant-recipe-1850826726)
 - [Lifehacker] [Amazon Has Even More Buy-One-Get-One-Free Video Games Right Now](https://lifehacker.com/amazon-has-buy-one-get-one-free-video-games-right-now-1850780431)
@@ -51,7 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Sitcoms You Can Stream on Netflix](https://lifehacker.com/best-netflix-sitcoms-1850823337)
 - [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/best-note-taking-methods-1849535943)
 - [Lifehacker] [This Dash and Backup Cam Kit Is Under $100 Right Now](https://lifehacker.com/this-dash-and-backup-cam-kit-is-under-100-right-now-1850820290)
-- [Dev.to/JS] [JavaScript Design Patterns: Organize, Reuse, and Boost Your Code](https://dev.to/highflyer910/javascript-design-patterns-organize-reuse-and-boost-your-code-44mb)
 - [Lifehacker] [12 of the Best Podcasts About Everything Disney](https://lifehacker.com/best-disney-podcasts-1850823468)
 - [Lifehacker] [You Can Adjust Your Dishwasher&#39;s Water Pressure](https://lifehacker.com/you-can-adjust-your-dishwashers-water-pressure-1850824223)
 - [Lifehacker] [Razer&#39;s First Hot-swappable Keyboard Is Better Than I Expected](https://lifehacker.com/razer-blackwidow-v4-75-review-1850819950)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Who Is Dynata and Why Are They Calling You?](https://lifehacker.com/who-is-dynata-and-why-are-they-calling-you-1850819389)
 - [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Inexperienced at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-inexperienced-a-1850819962)
-- [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)
-- [Lifehacker] [Buy These Winter Ski Passes Now Before Prices Go Up](https://lifehacker.com/best-winter-ski-pass-deals-2023-2024-1850767195)
-- [Lifehacker] [The Best Ways to Reuse Wine Corks Instead of Throwing Them Away](https://lifehacker.com/the-best-ways-to-reuse-wine-corks-instead-of-throwing-t-1850820054)
-- [Lifehacker] [Get Rid of These Dealbreakers Before Trying to Sell Your House](https://lifehacker.com/get-rid-of-these-dealbreakers-before-trying-to-sell-you-1850820044)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Reduce Dampness in a Bathroom Without a Window or Fan](https://lifehacker.com/the-best-ways-to-reduce-dampness-in-a-bathroom-without-1850819953)<!-- TECH-POSTS:END -->
 
 ---
 
