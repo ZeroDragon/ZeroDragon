@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Design Patterns in React](https://dev.to/shriharimurali/design-patterns-in-react-4bg9)
+- [Dev.to/JS] [PURISTA - Tests with Jest, Sinon.js and Testcontainers](https://dev.to/purista/purista-tests-with-jest-sinonjs-and-testcontainers-31lh)
+- [Dev.to/JS] [The best feature of Bun is not performance-related](https://dev.to/michalkuncio/the-best-feature-of-bun-is-not-performance-related-4f66)
 - [Dev.to/JS] [Ways to Improve Core Web Vitals of Your Website](https://dev.to/ifourtechnolab/ways-to-improve-core-web-vitals-of-your-website-2k4e)
 - [Dev.to/JS] [Angular State Management: A Comparison of the Different Options Available](https://dev.to/chintanonweb/angular-state-management-a-comparison-of-the-different-options-available-100e)
 - [Dev.to/JS] [Angular Addicts #17: Angular v16.2, Combining Signals and Observables &amp; more](https://dev.to/this-is-angular/angular-addicts-17-angular-v162-combining-signals-and-observables-more-1k33)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async/Await Traps: The importance of await in try/catch blocks](https://dev.to/ionellupu/asyncawait-traps-the-importance-of-await-in-trycatch-blocks-22ca)
 - [Dev.to/JS] [Angular Signals — Using the untracked&lpar;&rpar; Function to Prevent Dependency Tracking](https://dev.to/madhust/angular-signals-using-the-untracked-function-to-prevent-dependency-tracking-2knd)
 - [Dev.to/JS] [Angular Signals🚦: New Change detection strategy](https://dev.to/madhust/angular-signals-new-change-detection-strategy-23b0)
-- [Dev.to/JS] [🚀Scaling Your Web Application: Strategies and Techniques🤯](https://dev.to/taquiimam14/scaling-your-web-application-strategies-and-techniques-20pb)
-- [Dev.to/JS] [🛠️ 10 Exceptional Developer Tools Launched in 2023 🚀](https://dev.to/permit_io/10-exceptional-developer-tools-launched-in-2023-42a8)
-- [Dev.to/JS] [Including Files in Next.js API on Vercel: A Guide for Email Templates](https://dev.to/tashynw/including-files-in-nextjs-api-on-vercel-a-guide-for-email-templates-2ppl)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)
 - [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)
 - [Lifehacker] [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)
