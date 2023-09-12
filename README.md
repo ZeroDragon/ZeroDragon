@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DATA TYPES IN JAVASCRIPT](https://dev.to/kimeng/data-types-in-javascript-7em)
+- [Lifehacker] [The Best Fall Date Ideas That Aren’t Apple Picking](https://lifehacker.com/the-best-fall-date-ideas-that-aren-t-apple-picking-1850827737)
+- [Dev.to/JS] [Bun: The Next Big Thing in Javascript](https://dev.to/kalashin1/bun-the-next-big-thing-in-javascript-jeg)
+- [Dev.to/JS] [Server Side Rendering &lpar;SSR&rpar;. ¿PHP salvando el día?](https://dev.to/wiar8/server-side-rendering-ssr-php-salvando-el-dia-g6p)
+- [Dev.to/JS] [API vs SDK: Explained with Examples](https://dev.to/alakkadshaw/api-vs-sdk-explained-with-examples-47m4)
+- [Lifehacker] [The Best Ad-Free YouTube Apps](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
 - [Dev.to/JS] [useContext to manage state between React Sibling Components.](https://dev.to/gvegacl/usecontext-to-manage-state-between-react-sibling-components-3apj)
 - [Dev.to/JS] [Understanding JavaScript Closures!](https://dev.to/shaancodes/all-about-javascript-closures-you-need-to-know-43kl)
 - [Dev.to/JS] [JavaScript Closures: A Comprehensive Guide](https://dev.to/mccallum91/javascript-closures-a-comprehensive-guide-4ej3)
@@ -37,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn a Box of Cake Mix and Can of Soda Into a Plush Vegan Cake](https://lifehacker.com/turn-a-box-of-cake-mix-and-can-of-soda-into-a-plush-veg-1850827304)
 - [Dev.to/JS] [using fetch on http server](https://dev.to/valtior123/using-fetch-on-http-server-3opn)
 - [Dev.to/JS] [How to Set up Telesign for SMS in Appwrite](https://dev.to/hackmamba/how-to-set-up-telesign-for-sms-in-appwrite-319g)
-- [Dev.to/JS] [From zero to production with Fastify](https://dev.to/dymmepay/from-zero-to-production-with-fastify-574m)
 - [Lifehacker] [How to Tell If That Package Delivery Text Is a Scam](https://lifehacker.com/how-to-tell-if-that-package-delivery-text-is-a-scam-1850827391)
-- [Dev.to/JS] [How to Easily Install Apple TV on Your Toshiba TV](https://dev.to/sammyadeoti/how-to-easily-install-apple-tv-on-your-toshiba-tv-1hl6)
-- [Dev.to/JS] [Advanced React.js Concepts: A Deep Dive](https://dev.to/alisamirali/advanced-reactjs-concepts-a-deep-dive-2ni8)
 - [Lifehacker] [Why You Need ‘Matter,’ the New Open Standard for Smart Home Devices](https://lifehacker.com/why-you-need-matter-the-new-open-standard-for-smart-1850826525)
-- [Dev.to/JS] [Update on huetiful-js v1.5](https://dev.to/arcaneqoder/update-on-huetiful-js-v15-1alj)
 - [Lifehacker] [These Pancake Roll-ups Can Be Sweet or Savory](https://lifehacker.com/these-pancake-roll-ups-can-be-sweet-or-savory-1850825909)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)
 - [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Sitcoms You Can Stream on Netflix](https://lifehacker.com/best-netflix-sitcoms-1850823337)
 - [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/best-note-taking-methods-1849535943)
 - [Lifehacker] [This Dash and Backup Cam Kit Is Under $100 Right Now](https://lifehacker.com/this-dash-and-backup-cam-kit-is-under-100-right-now-1850820290)
-- [Lifehacker] [12 of the Best Podcasts About Everything Disney](https://lifehacker.com/best-disney-podcasts-1850823468)
-- [Lifehacker] [You Can Adjust Your Dishwasher&#39;s Water Pressure](https://lifehacker.com/you-can-adjust-your-dishwashers-water-pressure-1850824223)
-- [Lifehacker] [Razer&#39;s First Hot-swappable Keyboard Is Better Than I Expected](https://lifehacker.com/razer-blackwidow-v4-75-review-1850819950)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 of the Best Podcasts About Everything Disney](https://lifehacker.com/best-disney-podcasts-1850823468)<!-- TECH-POSTS:END -->
 
 ---
 
