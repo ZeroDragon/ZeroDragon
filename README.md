@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Including Files in Next.js API on Vercel: A Guide for Email Templates](https://dev.to/tashynw/including-files-in-nextjs-api-on-vercel-a-guide-for-email-templates-2ppl)
+- [Dev.to/JS] [In React, You Don&#39;t Need To Start Your Component Name With Capital First Letter](https://dev.to/myogeshchavan97/in-react-you-dont-need-to-start-your-component-name-with-capital-first-letter-51la)
 - [Dev.to/JS] [Real-Time Bliss: Mastering Server-Sent Events in Node.js for Instant Updates](https://dev.to/gkhan205/real-time-bliss-mastering-server-sent-events-in-nodejs-for-instant-updates-k43)
 - [Dev.to/JS] [Pros and Cons of Python Programming](https://dev.to/s-nidhin/pros-and-cons-of-python-programming-nhk)
 - [Dev.to/JS] [Part 4 &lpar;c&rpar;: Unit Testing: How to Build a To-do App with Vue.Js](https://dev.to/miracool/part-4-c-unit-testing-how-to-build-a-to-do-app-with-vuejs-2dli)
@@ -41,11 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PURISTA: Build with rimraf, esbuild, Turbo &amp; git-cliff](https://dev.to/purista/purista-build-with-rimraf-esbuild-turbo-git-cliff-5h5e)
 - [Lifehacker] [The Best Way to Clean Your TV Without Damaging It](https://lifehacker.com/the-best-way-to-clean-your-tv-without-damaging-it-1849643169)
 - [Lifehacker] [This Terabyte of Cloud Storage Is $160 for Life](https://lifehacker.com/this-terabyte-of-cloud-storage-is-160-for-life-1850814435)
-- [Dev.to/JS] [Use bunx for running npm packages with lightning fast speed.](https://dev.to/mitrakumar/use-bunx-for-running-npm-packages-with-lightning-fast-speed-2p32)
 - [Lifehacker] [Waffle Your Store-Bought Croissants](https://lifehacker.com/waffled-ham-and-cheese-croissant-recipe-1850826726)
 - [Lifehacker] [Amazon Has Even More Buy-One-Get-One-Free Video Games Right Now](https://lifehacker.com/amazon-has-buy-one-get-one-free-video-games-right-now-1850780431)
 - [Lifehacker] [The Unbreakable Rules of Laundromat Etiquette](https://lifehacker.com/the-unbreakable-rules-of-laundromat-etiquette-1850826353)
-- [Dev.to/JS] [Buns](https://dev.to/earthfill/buns-1c4g)
 - [Lifehacker] [TikTok Myth of the Week: Bananas Destroy the Nutrients in Smoothies](https://lifehacker.com/tiktok-myth-of-the-week-bananas-destroy-the-nutrients-1850825839)
 - [Lifehacker] [Trips to Puerto Rico Are Really Cheap Right Now](https://lifehacker.com/cheap-puerto-rico-flights-1850826042)
 - [Lifehacker] [The Only Time You Should Stop Contributing to Your 401&lpar;k&rpar;](https://lifehacker.com/the-only-time-you-should-stop-contributing-to-your-401-1850804903)
