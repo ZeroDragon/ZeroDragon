@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Variable Declaration in JavaScript: let vs. var](https://dev.to/iamcymentho/understanding-variable-declaration-in-javascript-let-vs-var-50an)
+- [Lifehacker] [Why Cramming for a Test Doesn’t Work, According to Science](https://lifehacker.com/why-cramming-for-a-test-doesn-t-work-according-to-scie-1850829909)
+- [Dev.to/JS] [From Senior Front-End Developer to Java Novice: My Journey](https://dev.to/griiettner/from-senior-front-end-developer-to-java-novice-my-journey-3e1g)
+- [Dev.to/JS] [No More Nesting: A Guide to Code Simplicity](https://dev.to/kanav/no-more-nesting-a-guide-to-code-simplicity-3a77)
+- [Lifehacker] [This 3-in-1 Charging Cable Is $17 Right Now](https://lifehacker.com/this-3-in-1-charging-cable-is-17-right-now-1850826146)
 - [Dev.to/JS] [DATA TYPES IN JAVASCRIPT](https://dev.to/kimeng/data-types-in-javascript-7em)
 - [Lifehacker] [The Best Fall Date Ideas That Aren’t Apple Picking](https://lifehacker.com/the-best-fall-date-ideas-that-aren-t-apple-picking-1850827737)
 - [Dev.to/JS] [Bun: The Next Big Thing in Javascript](https://dev.to/kalashin1/bun-the-next-big-thing-in-javascript-jeg)
@@ -39,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Horror Movies Coming Out Before Halloween](https://lifehacker.com/best-new-horror-movies-2023-1850828091)
 - [Dev.to/JS] [How to Dynamically Add Input Fields on Button Click in ReactJs](https://dev.to/okafor__mary/how-to-dynamically-add-input-fields-on-button-click-in-reactjs-5298)
 - [Lifehacker] [The Difference Between 5G UC, 5G UW, and 5G+](https://lifehacker.com/the-difference-between-5g-uc-5g-uw-and-5g-1850827783)
-- [Dev.to/JS] [Day 46: Memoization](https://dev.to/dhrn/day-46-memoization-o0i)
 - [Lifehacker] [Turn a Box of Cake Mix and Can of Soda Into a Plush Vegan Cake](https://lifehacker.com/turn-a-box-of-cake-mix-and-can-of-soda-into-a-plush-veg-1850827304)
-- [Dev.to/JS] [using fetch on http server](https://dev.to/valtior123/using-fetch-on-http-server-3opn)
-- [Dev.to/JS] [How to Set up Telesign for SMS in Appwrite](https://dev.to/hackmamba/how-to-set-up-telesign-for-sms-in-appwrite-319g)
 - [Lifehacker] [How to Tell If That Package Delivery Text Is a Scam](https://lifehacker.com/how-to-tell-if-that-package-delivery-text-is-a-scam-1850827391)
 - [Lifehacker] [Why You Need ‘Matter,’ the New Open Standard for Smart Home Devices](https://lifehacker.com/why-you-need-matter-the-new-open-standard-for-smart-1850826525)
 - [Lifehacker] [These Pancake Roll-ups Can Be Sweet or Savory](https://lifehacker.com/these-pancake-roll-ups-can-be-sweet-or-savory-1850825909)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
 - [Lifehacker] [These Simple Alfajores Sandwich Cookies Satisfy Every Sweet Tooth](https://lifehacker.com/these-simple-alfajores-sandwich-cookies-satisfy-every-s-1850825304)
 - [Lifehacker] [The Best Sitcoms You Can Stream on Netflix](https://lifehacker.com/best-netflix-sitcoms-1850823337)
-- [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/best-note-taking-methods-1849535943)
-- [Lifehacker] [This Dash and Backup Cam Kit Is Under $100 Right Now](https://lifehacker.com/this-dash-and-backup-cam-kit-is-under-100-right-now-1850820290)
-- [Lifehacker] [12 of the Best Podcasts About Everything Disney](https://lifehacker.com/best-disney-podcasts-1850823468)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Take Notes so You Actually Remember Information](https://lifehacker.com/best-note-taking-methods-1849535943)<!-- TECH-POSTS:END -->
 
 ---
 
