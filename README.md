@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LoopBack 4: NodeJS framework](https://dev.to/diego_chavez_dc/loopback-4-nodejs-framework-b21)
 - [Dev.to/JS] [This Context API Mistake Ruins Your Whole React App &lpar;All Components Re-Render&rpar;](https://dev.to/ubahthebuilder/this-context-api-mistake-ruins-your-whole-react-app-all-components-re-render-2k63)
 - [Dev.to/JS] [Bun 101: Bun for JavaScript Developers](https://dev.to/abdadeel/bun-101-bun-for-javascript-developers-1l68)
 - [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Buy a Burner Phone](https://lifehacker.com/how-to-buy-a-burner-phone-1843905326)
 - [Dev.to/JS] [How can I fix a slider that is cropped?](https://dev.to/masohas1/how-can-i-fix-a-slider-that-is-cropped-hgd)
 - [Lifehacker] [These ‘Smart’ Financial Moves Are Actually Not Great](https://lifehacker.com/these-smart-financial-moves-are-actually-not-great-1850825607)
-- [Dev.to/JS] [JavaScript Functions&lpar;Part 3&rpar;: Your Magic Spells](https://dev.to/init_chandan/javascript-functionspart-3-your-magic-spells-2i7c)
 - [Lifehacker] [How to Watch ‘Wonderlust,’ Apple’s iPhone 15 Event](https://lifehacker.com/how-to-watch-apple-s-iphone-event-1850825545)
 - [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
 - [Lifehacker] [These Simple Alfajores Sandwich Cookies Satisfy Every Sweet Tooth](https://lifehacker.com/these-simple-alfajores-sandwich-cookies-satisfy-every-s-1850825304)
