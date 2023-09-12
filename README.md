@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to load test your api ?](https://dev.to/moayad523/how-load-test-your-api--3k5e)
+- [Lifehacker] [This Buttermilk Brine Will Turn You Into a Turkey Breast Enthusiast](https://lifehacker.com/this-buttermilk-brine-will-turn-you-into-a-turkey-breas-1830318684)
+- [Lifehacker] [You Can Get FlexJobs for $30 Right Now](https://lifehacker.com/you-can-get-flexjobs-for-30-right-now-1850820300)
 - [Dev.to/JS] [A quick guide on closures](https://dev.to/drant_dumani/a-quick-guide-on-closures-4ebj)
 - [Dev.to/JS] [Bun 1.0: The Next Big Thing in JavaScript Runtime?](https://dev.to/cstayyab/bun-10-the-next-big-thing-in-javascript-runtime-4l75)
 - [Lifehacker] [The Goldtouch Go!2 Is a Great Vertical Keyboard](https://lifehacker.com/goldtouch-go-2-vertical-keyboard-review-1850827189)
@@ -53,7 +56,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DATA TYPES IN JAVASCRIPT](https://dev.to/kimeng/data-types-in-javascript-7em)
 - [Lifehacker] [The Best Fall Date Ideas That Aren’t Apple Picking](https://lifehacker.com/the-best-fall-date-ideas-that-aren-t-apple-picking-1850827737)
 - [Dev.to/JS] [Bun: The Next Big Thing in Javascript](https://dev.to/kalashin1/bun-the-next-big-thing-in-javascript-jeg)
-- [Dev.to/JS] [Server Side Rendering &lpar;SSR&rpar;. ¿PHP salvando el día?](https://dev.to/wiar8/server-side-rendering-ssr-php-salvando-el-dia-g6p)
 - [Lifehacker] [The Best Ad-Free YouTube Apps](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
 - [Lifehacker] [All the New Horror Movies Coming Out Before Halloween](https://lifehacker.com/best-new-horror-movies-2023-1850828091)
 - [Lifehacker] [The Difference Between 5G UC, 5G UW, and 5G+](https://lifehacker.com/the-difference-between-5g-uc-5g-uw-and-5g-1850827783)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Pancake Roll-ups Can Be Sweet or Savory](https://lifehacker.com/these-pancake-roll-ups-can-be-sweet-or-savory-1850825909)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)
 - [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)
-- [Lifehacker] [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)
-- [Lifehacker] [The Best Way to Clean Your TV Without Damaging It](https://lifehacker.com/the-best-way-to-clean-your-tv-without-damaging-it-1849643169)
-- [Lifehacker] [This Terabyte of Cloud Storage Is $160 for Life](https://lifehacker.com/this-terabyte-of-cloud-storage-is-160-for-life-1850814435)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)<!-- TECH-POSTS:END -->
 
 ---
 
