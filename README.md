@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Probably Don’t Need to Buy the &#39;New&#39; AirPods Pro](https://lifehacker.com/usb-c-airpods-pro-worth-it-1850825433)
+- [Lifehacker] [How to Stop False Smoke Alarms When You&#39;re Cooking](https://lifehacker.com/how-do-i-stop-my-fire-alarm-from-going-off-when-i-cook-5876845)
 - [Lifehacker] [Everything You Need to Know About the iPhone 15 Pro and 15 Pro Max](https://lifehacker.com/everything-you-need-to-know-about-the-iphone-15-pro-and-1850829750)
 - [Lifehacker] [The Differences Between the iPhone 15 and the iPhone 15 Plus](https://lifehacker.com/iphone-15-versus-iphone-15-plus-1850829166)
 - [Dev.to/JS] [10 Essential Front-End Development Tools for 2023](https://dev.to/taquiimam14/10-essential-front-end-development-tools-for-2023-1if1)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Unbreakable Rules of Laundromat Etiquette](https://lifehacker.com/the-unbreakable-rules-of-laundromat-etiquette-1850826353)
 - [Lifehacker] [TikTok Myth of the Week: Bananas Destroy the Nutrients in Smoothies](https://lifehacker.com/tiktok-myth-of-the-week-bananas-destroy-the-nutrients-1850825839)
 - [Lifehacker] [Trips to Puerto Rico Are Really Cheap Right Now](https://lifehacker.com/cheap-puerto-rico-flights-1850826042)
-- [Lifehacker] [The Only Time You Should Stop Contributing to Your 401&lpar;k&rpar;](https://lifehacker.com/the-only-time-you-should-stop-contributing-to-your-401-1850804903)
-- [Lifehacker] [How to Buy a Burner Phone](https://lifehacker.com/how-to-buy-a-burner-phone-1843905326)
-- [Lifehacker] [These ‘Smart’ Financial Moves Are Actually Not Great](https://lifehacker.com/these-smart-financial-moves-are-actually-not-great-1850825607)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Only Time You Should Stop Contributing to Your 401&lpar;k&rpar;](https://lifehacker.com/the-only-time-you-should-stop-contributing-to-your-401-1850804903)<!-- TECH-POSTS:END -->
 
 ---
 
