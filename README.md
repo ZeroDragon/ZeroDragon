@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Next.js: How &lt;Suspense /&gt; and Components Streaming works?](https://dev.to/charnog/nextjs-how-and-components-streaming-works-30ao)
+- [Dev.to/JS] [A quick guide on closures](https://dev.to/drant_dumani/a-quick-guide-on-closures-4ebj)
+- [Dev.to/JS] [Bun 1.0: The Next Big Thing in JavaScript Runtime?](https://dev.to/cstayyab/bun-10-the-next-big-thing-in-javascript-runtime-4l75)
+- [Lifehacker] [The Goldtouch Go!2 Is a Great Vertical Keyboard](https://lifehacker.com/goldtouch-go-2-vertical-keyboard-review-1850827189)
+- [Lifehacker] [Ear Candling Doesn&#39;t Work &lpar;and Can Make Your Earwax Worse&rpar;](https://lifehacker.com/does-ear-candling-work-1839927121)
+- [Lifehacker] [You Can Get Free Extended Layovers in Portugal Right Now](https://lifehacker.com/you-can-get-free-extended-layovers-in-portugal-right-no-1850831409)
 - [Dev.to/JS] [Mastering React Styling: A Beginner&#39;s Guide](https://dev.to/cybermaxi7/mastering-react-styling-a-beginners-guide-1lel)
 - [Lifehacker] [Fry Your Eggs in a Pile of Crumbled Feta](https://lifehacker.com/fry-your-eggs-in-a-pile-of-crumbled-feta-1850831203)
 - [Lifehacker] [The Best Streaming Deals for September 2023](https://lifehacker.com/best-streaming-deals-1850763728)
@@ -50,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Fall Date Ideas That Aren’t Apple Picking](https://lifehacker.com/the-best-fall-date-ideas-that-aren-t-apple-picking-1850827737)
 - [Dev.to/JS] [Bun: The Next Big Thing in Javascript](https://dev.to/kalashin1/bun-the-next-big-thing-in-javascript-jeg)
 - [Dev.to/JS] [Server Side Rendering &lpar;SSR&rpar;. ¿PHP salvando el día?](https://dev.to/wiar8/server-side-rendering-ssr-php-salvando-el-dia-g6p)
-- [Dev.to/JS] [API vs SDK: Explained with Examples](https://dev.to/alakkadshaw/api-vs-sdk-explained-with-examples-47m4)
 - [Lifehacker] [The Best Ad-Free YouTube Apps](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
 - [Lifehacker] [All the New Horror Movies Coming Out Before Halloween](https://lifehacker.com/best-new-horror-movies-2023-1850828091)
 - [Lifehacker] [The Difference Between 5G UC, 5G UW, and 5G+](https://lifehacker.com/the-difference-between-5g-uc-5g-uw-and-5g-1850827783)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)
 - [Lifehacker] [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)
 - [Lifehacker] [The Best Way to Clean Your TV Without Damaging It](https://lifehacker.com/the-best-way-to-clean-your-tv-without-damaging-it-1849643169)
-- [Lifehacker] [This Terabyte of Cloud Storage Is $160 for Life](https://lifehacker.com/this-terabyte-of-cloud-storage-is-160-for-life-1850814435)
-- [Lifehacker] [Waffle Your Store-Bought Croissants](https://lifehacker.com/waffled-ham-and-cheese-croissant-recipe-1850826726)
-- [Lifehacker] [Amazon Has Even More Buy-One-Get-One-Free Video Games Right Now](https://lifehacker.com/amazon-has-buy-one-get-one-free-video-games-right-now-1850780431)
-- [Lifehacker] [The Unbreakable Rules of Laundromat Etiquette](https://lifehacker.com/the-unbreakable-rules-of-laundromat-etiquette-1850826353)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Terabyte of Cloud Storage Is $160 for Life](https://lifehacker.com/this-terabyte-of-cloud-storage-is-160-for-life-1850814435)<!-- TECH-POSTS:END -->
 
 ---
 
