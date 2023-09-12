@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bun???](https://dev.to/chiche/bun-4kpi)
+- [Dev.to/JS] [Why Data Analytics Important For Your Business?](https://dev.to/andrew050/why-data-analytics-important-for-your-business-4mig)
+- [Dev.to/JS] [Svelte + TailwindCSS: A Winning Combo for Shopify Theme App Extensions](https://dev.to/carstenlebek/svelte-tailwindcss-a-winning-combo-for-shopify-theme-app-extensions-im8)
 - [Dev.to/JS] [Free link to my stories in MEDIUM.COM!](https://dev.to/kristiyan_velkov/free-link-to-my-stories-in-mediumcom-343i)
 - [Dev.to/JS] [Find The Parity Outlier &quot;Codewars&quot;](https://dev.to/richeskelechi/find-the-parity-outlier-codewars-1ll)
 - [Dev.to/JS] [Bitcoin Era - Reviews, Results, Price, Benefits &amp; Side Effects?](https://dev.to/bitcoinera81242/bitcoin-era-reviews-results-price-benefits-side-effects-4b3)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Design Patterns in React](https://dev.to/shriharimurali/design-patterns-in-react-4bg9)
 - [Dev.to/JS] [PURISTA - Tests with Jest, Sinon.js and Testcontainers](https://dev.to/purista/purista-tests-with-jest-sinonjs-and-testcontainers-31lh)
 - [Dev.to/JS] [The best feature of Bun is not performance-related](https://dev.to/michalkuncio/the-best-feature-of-bun-is-not-performance-related-4f66)
-- [Dev.to/JS] [Ways to Improve Core Web Vitals of Your Website](https://dev.to/ifourtechnolab/ways-to-improve-core-web-vitals-of-your-website-2k4e)
-- [Dev.to/JS] [Angular State Management: A Comparison of the Different Options Available](https://dev.to/chintanonweb/angular-state-management-a-comparison-of-the-different-options-available-100e)
-- [Dev.to/JS] [Angular Addicts #17: Angular v16.2, Combining Signals and Observables &amp; more](https://dev.to/this-is-angular/angular-addicts-17-angular-v162-combining-signals-and-observables-more-1k33)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)
 - [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)
 - [Lifehacker] [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)
