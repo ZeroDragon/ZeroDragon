@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Real-Time Bliss: Mastering Server-Sent Events in Node.js for Instant Updates](https://dev.to/gkhan205/real-time-bliss-mastering-server-sent-events-in-nodejs-for-instant-updates-k43)
+- [Dev.to/JS] [Pros and Cons of Python Programming](https://dev.to/s-nidhin/pros-and-cons-of-python-programming-nhk)
 - [Dev.to/JS] [Part 4 &lpar;c&rpar;: Unit Testing: How to Build a To-do App with Vue.Js](https://dev.to/miracool/part-4-c-unit-testing-how-to-build-a-to-do-app-with-vuejs-2dli)
 - [Dev.to/JS] [Bun: Redefining JavaScript Runtimes for Modern Web Development&quot;](https://dev.to/xanyl/bun-the-all-in-one-toolkit-for-javascript-and-typescript-apps-ngm)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)
@@ -44,10 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Has Even More Buy-One-Get-One-Free Video Games Right Now](https://lifehacker.com/amazon-has-buy-one-get-one-free-video-games-right-now-1850780431)
 - [Lifehacker] [The Unbreakable Rules of Laundromat Etiquette](https://lifehacker.com/the-unbreakable-rules-of-laundromat-etiquette-1850826353)
 - [Dev.to/JS] [Buns](https://dev.to/earthfill/buns-1c4g)
-- [Dev.to/JS] [The Frontend newsletter #14 - Discover the latest trends](https://dev.to/tech_foutraque/the-frontend-newsletter-14-discover-the-latest-trends-o1l)
 - [Lifehacker] [TikTok Myth of the Week: Bananas Destroy the Nutrients in Smoothies](https://lifehacker.com/tiktok-myth-of-the-week-bananas-destroy-the-nutrients-1850825839)
 - [Lifehacker] [Trips to Puerto Rico Are Really Cheap Right Now](https://lifehacker.com/cheap-puerto-rico-flights-1850826042)
-- [Dev.to/JS] [Next.js: TypeScript, Environment Variables, Deployment &amp; CLI](https://dev.to/syedmuhammadaliraza/nextjs-typescript-environment-variables-deployment-cli-30m6)
 - [Lifehacker] [The Only Time You Should Stop Contributing to Your 401&lpar;k&rpar;](https://lifehacker.com/the-only-time-you-should-stop-contributing-to-your-401-1850804903)
 - [Lifehacker] [How to Buy a Burner Phone](https://lifehacker.com/how-to-buy-a-burner-phone-1843905326)
 - [Lifehacker] [These ‘Smart’ Financial Moves Are Actually Not Great](https://lifehacker.com/these-smart-financial-moves-are-actually-not-great-1850825607)
