@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everything You Need to Know About the iPhone 15 Pro and 15 Pro Max](https://lifehacker.com/everything-you-need-to-know-about-the-iphone-15-pro-and-1850829750)
+- [Lifehacker] [The Differences Between the iPhone 15 and the iPhone 15 Plus](https://lifehacker.com/iphone-15-versus-iphone-15-plus-1850829166)
+- [Dev.to/JS] [10 Essential Front-End Development Tools for 2023](https://dev.to/taquiimam14/10-essential-front-end-development-tools-for-2023-1if1)
+- [Dev.to/JS] [Feature Flags with JavaScript Proxies](https://dev.to/basestack/feature-flags-with-javascript-proxies-34la)
+- [Lifehacker] [The Differences Between the Apple Watch 9 and the Apple Watch Ultra 2](https://lifehacker.com/apple-watch-9-versus-apple-watch-ultra-2-1850827488)
 - [Lifehacker] [Biden&#39;s Proposed Rule Could Increase Your Paycheck](https://lifehacker.com/bidens-proposed-rule-could-increase-your-paycheck-1850830285)
 - [Dev.to/JS] [Answering an interview question - 01](https://dev.to/nathpaiva/answering-an-interview-question-01-3icd)
 - [Lifehacker] [You Can Make Real Money Participating in Clinical Trials, If You Dare](https://lifehacker.com/you-can-make-real-money-participating-in-clinical-trial-1850830014)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ad-Free YouTube Apps](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
 - [Dev.to/JS] [useContext to manage state between React Sibling Components.](https://dev.to/gvegacl/usecontext-to-manage-state-between-react-sibling-components-3apj)
 - [Dev.to/JS] [Understanding JavaScript Closures!](https://dev.to/shaancodes/all-about-javascript-closures-you-need-to-know-43kl)
-- [Dev.to/JS] [JavaScript Closures: A Comprehensive Guide](https://dev.to/mccallum91/javascript-closures-a-comprehensive-guide-4ej3)
-- [Dev.to/JS] [WYSIWYG HTML Editors and Accelerating Development with React, Angular, and Vue](https://dev.to/ideradevtools/wysiwyg-html-editors-and-accelerating-development-with-react-angular-and-vue-ob8)
 - [Lifehacker] [All the New Horror Movies Coming Out Before Halloween](https://lifehacker.com/best-new-horror-movies-2023-1850828091)
 - [Lifehacker] [The Difference Between 5G UC, 5G UW, and 5G+](https://lifehacker.com/the-difference-between-5g-uc-5g-uw-and-5g-1850827783)
 - [Lifehacker] [Turn a Box of Cake Mix and Can of Soda Into a Plush Vegan Cake](https://lifehacker.com/turn-a-box-of-cake-mix-and-can-of-soda-into-a-plush-veg-1850827304)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Trips to Puerto Rico Are Really Cheap Right Now](https://lifehacker.com/cheap-puerto-rico-flights-1850826042)
 - [Lifehacker] [The Only Time You Should Stop Contributing to Your 401&lpar;k&rpar;](https://lifehacker.com/the-only-time-you-should-stop-contributing-to-your-401-1850804903)
 - [Lifehacker] [How to Buy a Burner Phone](https://lifehacker.com/how-to-buy-a-burner-phone-1843905326)
-- [Lifehacker] [These ‘Smart’ Financial Moves Are Actually Not Great](https://lifehacker.com/these-smart-financial-moves-are-actually-not-great-1850825607)
-- [Lifehacker] [How to Watch ‘Wonderlust,’ Apple’s iPhone 15 Event](https://lifehacker.com/how-to-watch-apple-s-iphone-event-1850825545)
-- [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
-- [Lifehacker] [These Simple Alfajores Sandwich Cookies Satisfy Every Sweet Tooth](https://lifehacker.com/these-simple-alfajores-sandwich-cookies-satisfy-every-s-1850825304)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These ‘Smart’ Financial Moves Are Actually Not Great](https://lifehacker.com/these-smart-financial-moves-are-actually-not-great-1850825607)<!-- TECH-POSTS:END -->
 
 ---
 
