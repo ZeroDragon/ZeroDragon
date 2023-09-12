@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From zero to production with Fastify](https://dev.to/dymmepay/from-zero-to-production-with-fastify-574m)
+- [Dev.to/JS] [How to Easily Install Apple TV on Your Toshiba TV](https://dev.to/sammyadeoti/how-to-easily-install-apple-tv-on-your-toshiba-tv-1hl6)
+- [Dev.to/JS] [Advanced React.js Concepts: A Deep Dive](https://dev.to/alisamirali/advanced-reactjs-concepts-a-deep-dive-2ni8)
+- [Lifehacker] [Why You Need ‘Matter,’ the New Open Standard for Smart Home Devices](https://lifehacker.com/why-you-need-matter-the-new-open-standard-for-smart-1850826525)
+- [Dev.to/JS] [Update on huetiful-js v1.5](https://dev.to/arcaneqoder/update-on-huetiful-js-v15-1alj)
 - [Lifehacker] [These Pancake Roll-ups Can Be Sweet or Savory](https://lifehacker.com/these-pancake-roll-ups-can-be-sweet-or-savory-1850825909)
 - [Dev.to/JS] [Movies App using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/movies-app-using-html-css-and-javascript-52co)
 - [Dev.to/JS] [How to Learn Programming in 2023](https://dev.to/scofieldidehen/how-to-learn-programming-in-2023-2981)
@@ -35,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [English Language Lab Manual PDF Download](https://dev.to/languagelab001/english-language-lab-manual-pdf-download-1eh9)
 - [Dev.to/JS] [Product of consecutive Fib numbers &quot;Codewars&quot;](https://dev.to/richeskelechi/product-of-consecutive-fib-numbers-codewars-1fk2)
 - [Dev.to/JS] [Educational Institutes Using Our English Language Lab Software](https://dev.to/languagelab001/educational-institutes-using-our-english-language-lab-software-5c4d)
-- [Dev.to/JS] [Componentes nativos do Vue.js](https://dev.to/jhonyaraujooficial/componentes-nativos-do-vuejs-1p0h)
-- [Dev.to/JS] [Clean code in JavaScript](https://dev.to/jrtilak/clean-code-in-javascript-379k)
-- [Dev.to/JS] [Bun???](https://dev.to/chiche/bun-4kpi)
-- [Dev.to/JS] [Why Data Analytics Important For Your Business?](https://dev.to/andrew050/why-data-analytics-important-for-your-business-4mig)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)
 - [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)
 - [Lifehacker] [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 11](https://lifehacker.com/connections-answer-today-september-11-2023-1850824666)
 - [Lifehacker] [Make Better Chicken Nuggets With Thighs Instead of Breasts](https://lifehacker.com/make-better-chicken-nuggets-with-thighs-instead-of-brea-1850819916)
 - [Lifehacker] [These Vegetables Will Still Ripen After You Pick Them](https://lifehacker.com/what-vegetables-ripen-after-picking-1850819532)
-- [Lifehacker] [You Can Still Get Tested for COVID for Free](https://lifehacker.com/find-free-covid-testing-1850819516)
-- [Lifehacker] [Who Is Dynata and Why Are They Calling You?](https://lifehacker.com/who-is-dynata-and-why-are-they-calling-you-1850819389)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Still Get Tested for COVID for Free](https://lifehacker.com/find-free-covid-testing-1850819516)<!-- TECH-POSTS:END -->
 
 ---
 
