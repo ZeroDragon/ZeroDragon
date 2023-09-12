@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Bun: The All-in-One Toolkit for JavaScript and TypeScript Apps](https://dev.to/xanyl/bun-the-all-in-one-toolkit-for-javascript-and-typescript-apps-ngm)
+- [Dev.to/JS] [Part 4 &lpar;c&rpar;: Unit Testing: How to Build a To-do App with Vue.Js](https://dev.to/miracool/part-4-c-unit-testing-how-to-build-a-to-do-app-with-vuejs-2dli)
+- [Dev.to/JS] [Bun: Redefining JavaScript Runtimes for Modern Web Development&quot;](https://dev.to/xanyl/bun-the-all-in-one-toolkit-for-javascript-and-typescript-apps-ngm)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)
 - [Dev.to/JS] [TIL: How to use the require syntax in .mjs files](https://dev.to/jaycedotbin/til-how-to-use-the-require-syntax-in-mjs-files-4n03)
 - [Dev.to/JS] [LoopBack 4: NodeJS framework](https://dev.to/diego_chavez_dc/loopback-4-nodejs-framework-b21)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok Myth of the Week: Bananas Destroy the Nutrients in Smoothies](https://lifehacker.com/tiktok-myth-of-the-week-bananas-destroy-the-nutrients-1850825839)
 - [Lifehacker] [Trips to Puerto Rico Are Really Cheap Right Now](https://lifehacker.com/cheap-puerto-rico-flights-1850826042)
 - [Dev.to/JS] [Next.js: TypeScript, Environment Variables, Deployment &amp; CLI](https://dev.to/syedmuhammadaliraza/nextjs-typescript-environment-variables-deployment-cli-30m6)
-- [Dev.to/JS] [Announcing The Browser Conference](https://dev.to/joelgriffith/announcing-the-browser-conference-44i4)
 - [Lifehacker] [The Only Time You Should Stop Contributing to Your 401&lpar;k&rpar;](https://lifehacker.com/the-only-time-you-should-stop-contributing-to-your-401-1850804903)
 - [Lifehacker] [How to Buy a Burner Phone](https://lifehacker.com/how-to-buy-a-burner-phone-1843905326)
 - [Lifehacker] [These ‘Smart’ Financial Moves Are Actually Not Great](https://lifehacker.com/these-smart-financial-moves-are-actually-not-great-1850825607)
