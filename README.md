@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Pancake Roll-ups Can Be Sweet or Savory](https://lifehacker.com/these-pancake-roll-ups-can-be-sweet-or-savory-1850825909)
+- [Dev.to/JS] [Movies App using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/movies-app-using-html-css-and-javascript-52co)
+- [Dev.to/JS] [How to Learn Programming in 2023](https://dev.to/scofieldidehen/how-to-learn-programming-in-2023-2981)
+- [Dev.to/JS] [The Benefits of Using JavaScript Libraries in Startup Projects](https://dev.to/plazarev/the-benefits-of-using-javascript-libraries-in-startup-projects-1p9p)
+- [Dev.to/JS] [Introducing Open Federation - a MIT-Licensed specification to build federated GraphQL APIs](https://dev.to/slickstef11/introducing-open-federation-a-mit-licensed-specification-to-build-federated-graphql-apis-2abb)
+- [Dev.to/JS] [DIGITAL LANGUAGE LAB For usage by students or for inspection purposes? Blog by a retired professor](https://dev.to/languagelab001/digital-language-lab-for-usage-by-students-or-for-inspection-purposes-blog-by-a-retired-professor-2e6)
+- [Dev.to/JS] [English Language Lab Manual PDF Download](https://dev.to/languagelab001/english-language-lab-manual-pdf-download-1eh9)
+- [Dev.to/JS] [Product of consecutive Fib numbers &quot;Codewars&quot;](https://dev.to/richeskelechi/product-of-consecutive-fib-numbers-codewars-1fk2)
+- [Dev.to/JS] [Educational Institutes Using Our English Language Lab Software](https://dev.to/languagelab001/educational-institutes-using-our-english-language-lab-software-5c4d)
+- [Dev.to/JS] [Componentes nativos do Vue.js](https://dev.to/jhonyaraujooficial/componentes-nativos-do-vuejs-1p0h)
+- [Dev.to/JS] [Clean code in JavaScript](https://dev.to/jrtilak/clean-code-in-javascript-379k)
 - [Dev.to/JS] [Bun???](https://dev.to/chiche/bun-4kpi)
 - [Dev.to/JS] [Why Data Analytics Important For Your Business?](https://dev.to/andrew050/why-data-analytics-important-for-your-business-4mig)
-- [Dev.to/JS] [Svelte + TailwindCSS: A Winning Combo for Shopify Theme App Extensions](https://dev.to/carstenlebek/svelte-tailwindcss-a-winning-combo-for-shopify-theme-app-extensions-im8)
-- [Dev.to/JS] [Free link to my stories in MEDIUM.COM!](https://dev.to/kristiyan_velkov/free-link-to-my-stories-in-mediumcom-343i)
-- [Dev.to/JS] [Find The Parity Outlier &quot;Codewars&quot;](https://dev.to/richeskelechi/find-the-parity-outlier-codewars-1ll)
-- [Dev.to/JS] [Bitcoin Era - Reviews, Results, Price, Benefits &amp; Side Effects?](https://dev.to/bitcoinera81242/bitcoin-era-reviews-results-price-benefits-side-effects-4b3)
-- [Dev.to/JS] [An In Depth Guide To Functions In JavaScript](https://dev.to/binaminbinka1/an-in-depth-guide-to-functions-in-javascript-47c5)
-- [Dev.to/JS] [Supercharge Your Real-Time Apps with Pushert: A Powerful CLI Tool for Testing Pusher Methods](https://dev.to/feisalramar/supercharge-your-real-time-apps-with-pushert-a-powerful-cli-tool-for-testing-pusher-methods-1gh6)
-- [Dev.to/JS] [Playing with digits &quot;Codewars&quot;](https://dev.to/richeskelechi/playing-with-digits-codewars-akl)
-- [Dev.to/JS] [Design Patterns in React](https://dev.to/shriharimurali/design-patterns-in-react-4bg9)
-- [Dev.to/JS] [PURISTA - Tests with Jest, Sinon.js and Testcontainers](https://dev.to/purista/purista-tests-with-jest-sinonjs-and-testcontainers-31lh)
-- [Dev.to/JS] [The best feature of Bun is not performance-related](https://dev.to/michalkuncio/the-best-feature-of-bun-is-not-performance-related-4f66)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)
 - [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)
 - [Lifehacker] [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Better Chicken Nuggets With Thighs Instead of Breasts](https://lifehacker.com/make-better-chicken-nuggets-with-thighs-instead-of-brea-1850819916)
 - [Lifehacker] [These Vegetables Will Still Ripen After You Pick Them](https://lifehacker.com/what-vegetables-ripen-after-picking-1850819532)
 - [Lifehacker] [You Can Still Get Tested for COVID for Free](https://lifehacker.com/find-free-covid-testing-1850819516)
-- [Lifehacker] [Who Is Dynata and Why Are They Calling You?](https://lifehacker.com/who-is-dynata-and-why-are-they-calling-you-1850819389)
-- [Lifehacker] [The Best and Worst Places to Put Mirrors in Your Home](https://lifehacker.com/the-best-and-worst-places-to-put-mirrors-in-your-home-1850819977)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Who Is Dynata and Why Are They Calling You?](https://lifehacker.com/who-is-dynata-and-why-are-they-calling-you-1850819389)<!-- TECH-POSTS:END -->
 
 ---
 
