@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useContext to manage state between React Sibling Components.](https://dev.to/gvegacl/usecontext-to-manage-state-between-react-sibling-components-3apj)
+- [Dev.to/JS] [Understanding JavaScript Closures!](https://dev.to/shaancodes/all-about-javascript-closures-you-need-to-know-43kl)
+- [Dev.to/JS] [JavaScript Closures: A Comprehensive Guide](https://dev.to/mccallum91/javascript-closures-a-comprehensive-guide-4ej3)
+- [Dev.to/JS] [WYSIWYG HTML Editors and Accelerating Development with React, Angular, and Vue](https://dev.to/ideradevtools/wysiwyg-html-editors-and-accelerating-development-with-react-angular-and-vue-ob8)
+- [Lifehacker] [All the New Horror Movies Coming Out Before Halloween](https://lifehacker.com/best-new-horror-movies-2023-1850828091)
+- [Dev.to/JS] [How to Dynamically Add Input Fields on Button Click in ReactJs](https://dev.to/okafor__mary/how-to-dynamically-add-input-fields-on-button-click-in-reactjs-5298)
+- [Lifehacker] [The Difference Between 5G UC, 5G UW, and 5G+](https://lifehacker.com/the-difference-between-5g-uc-5g-uw-and-5g-1850827783)
 - [Dev.to/JS] [Day 46: Memoization](https://dev.to/dhrn/day-46-memoization-o0i)
 - [Lifehacker] [Turn a Box of Cake Mix and Can of Soda Into a Plush Vegan Cake](https://lifehacker.com/turn-a-box-of-cake-mix-and-can-of-soda-into-a-plush-veg-1850827304)
 - [Dev.to/JS] [using fetch on http server](https://dev.to/valtior123/using-fetch-on-http-server-3opn)
@@ -37,11 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need ‘Matter,’ the New Open Standard for Smart Home Devices](https://lifehacker.com/why-you-need-matter-the-new-open-standard-for-smart-1850826525)
 - [Dev.to/JS] [Update on huetiful-js v1.5](https://dev.to/arcaneqoder/update-on-huetiful-js-v15-1alj)
 - [Lifehacker] [These Pancake Roll-ups Can Be Sweet or Savory](https://lifehacker.com/these-pancake-roll-ups-can-be-sweet-or-savory-1850825909)
-- [Dev.to/JS] [Movies App using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/movies-app-using-html-css-and-javascript-52co)
-- [Dev.to/JS] [How to Learn Programming in 2023](https://dev.to/scofieldidehen/how-to-learn-programming-in-2023-2981)
-- [Dev.to/JS] [The Benefits of Using JavaScript Libraries in Startup Projects](https://dev.to/plazarev/the-benefits-of-using-javascript-libraries-in-startup-projects-1p9p)
-- [Dev.to/JS] [Introducing Open Federation - a MIT-Licensed specification to build federated GraphQL APIs](https://dev.to/slickstef11/introducing-open-federation-a-mit-licensed-specification-to-build-federated-graphql-apis-2abb)
-- [Dev.to/JS] [DIGITAL LANGUAGE LAB For usage by students or for inspection purposes? Blog by a retired professor](https://dev.to/languagelab001/digital-language-lab-for-usage-by-students-or-for-inspection-purposes-blog-by-a-retired-professor-2e6)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)
 - [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)
 - [Lifehacker] [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Dash and Backup Cam Kit Is Under $100 Right Now](https://lifehacker.com/this-dash-and-backup-cam-kit-is-under-100-right-now-1850820290)
 - [Lifehacker] [12 of the Best Podcasts About Everything Disney](https://lifehacker.com/best-disney-podcasts-1850823468)
 - [Lifehacker] [You Can Adjust Your Dishwasher&#39;s Water Pressure](https://lifehacker.com/you-can-adjust-your-dishwashers-water-pressure-1850824223)
-- [Lifehacker] [Razer&#39;s First Hot-swappable Keyboard Is Better Than I Expected](https://lifehacker.com/razer-blackwidow-v4-75-review-1850819950)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 11](https://lifehacker.com/connections-answer-today-september-11-2023-1850824666)
-- [Lifehacker] [Make Better Chicken Nuggets With Thighs Instead of Breasts](https://lifehacker.com/make-better-chicken-nuggets-with-thighs-instead-of-brea-1850819916)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Razer&#39;s First Hot-swappable Keyboard Is Better Than I Expected](https://lifehacker.com/razer-blackwidow-v4-75-review-1850819950)<!-- TECH-POSTS:END -->
 
 ---
 
