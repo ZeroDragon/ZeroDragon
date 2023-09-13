@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript with Atomic,BigUint64Array, Boolean, DataView, decodeURI&lpar;&rpar;, encodeURI&lpar;&rpar;](https://dev.to/syedmuhammadaliraza/javascript-with-atomicbiguint64array-boolean-dataview-decodeuri-encodeuri-2ph1)
+- [Dev.to/JS] [Create a JavaScript Tool to Generate Acronym from User Input](https://dev.to/codewithshan/create-a-javascript-tool-to-generate-acronym-from-user-input-2ib7)
+- [Lifehacker] [How to Know When an Investment Fee Is Too High](https://lifehacker.com/how-to-know-when-an-investment-fee-is-too-high-1850805365)
+- [Lifehacker] [The Two Easiest Ways to Put on a Duvet Cover](https://lifehacker.com/the-two-easiest-ways-to-get-a-duvet-cover-on-1850071716)
+- [Lifehacker] [Use the THIEVES Technique to Remember What You Read](https://lifehacker.com/use-the-thieves-technique-to-remember-what-you-read-1850834800)
 - [Dev.to/JS] [Dom Manipulation in JavaScript for Beginners](https://dev.to/onlineittutstutorials/dom-manipulation-in-javascript-for-beginners-1l79)
 - [Dev.to/JS] [TinyMCE Rich Text Editor: Multi-Root vs Inline Editing](https://dev.to/tinymce/tinymce-rich-text-editor-multi-root-vs-inline-editing-7hh)
 - [Dev.to/JS] [Guia de Components - para quem tem pressa!](https://dev.to/aninhapardini/guia-de-components-para-quem-tem-pressa-47n3)
@@ -41,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Elevate Your React Router Skills: The Ultimate Nuggets 🌐](https://dev.to/judeebekes67/elevate-your-react-router-skills-the-ultimate-nuggets-3icp)
 - [Lifehacker] [The Best Music Streaming Service, Based on What Matters to You](https://lifehacker.com/best-music-streaming-services-1850832901)
 - [Dev.to/JS] [Vue 3: Options API vs the Composition API](https://dev.to/alakkadshaw/vue-3-options-api-vs-the-composition-api-5556)
-- [Dev.to/JS] [Issue running an old project, site dont open on npm run dev](https://dev.to/srecce/issue-running-an-old-project-site-dont-open-on-npm-run-dev-bdd)
 - [Lifehacker] [The Logitech G502X Plus Is Good for More Than Just Gaming](https://lifehacker.com/logitech-g502x-plus-review-1850831969)
-- [Dev.to/JS] [WunderGraph Cosmo: a open source alternative to Apollo Federation, GraphOS, Studio, etc...](https://dev.to/slickstef11/wundergraph-cosmo-a-open-source-alternative-to-apollo-federation-graphos-studio-etc-1e1)
 - [Lifehacker] [You Can Totally Marinate Meat in Flavored Yogurt](https://lifehacker.com/you-can-totally-marinate-meat-in-flavored-yogurt-1850832296)
 - [Lifehacker] [What Apple’s Switch to USB-C Really Means for iPhone Users](https://lifehacker.com/what-apple-s-switch-to-usb-c-really-means-for-iphone-us-1850832175)
 - [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Streaming Deals for September 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [Here’s When iOS 17 Is Coming Out](https://lifehacker.com/ios-17-release-date-and-features-1850828707)
 - [Lifehacker] [Why You Probably Don’t Need to Buy the &#39;New&#39; AirPods Pro](https://lifehacker.com/usb-c-airpods-pro-worth-it-1850825433)
-- [Lifehacker] [How to Stop False Smoke Alarms When You&#39;re Cooking](https://lifehacker.com/how-do-i-stop-my-fire-alarm-from-going-off-when-i-cook-5876845)
-- [Lifehacker] [Everything You Need to Know About the iPhone 15 Pro and 15 Pro Max](https://lifehacker.com/everything-you-need-to-know-about-the-iphone-15-pro-and-1850829750)
-- [Lifehacker] [The Differences Between the iPhone 15 and the iPhone 15 Plus](https://lifehacker.com/iphone-15-versus-iphone-15-plus-1850829166)
-- [Lifehacker] [The Differences Between the Apple Watch 9 and the Apple Watch Ultra 2](https://lifehacker.com/apple-watch-9-versus-apple-watch-ultra-2-1850827488)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop False Smoke Alarms When You&#39;re Cooking](https://lifehacker.com/how-do-i-stop-my-fire-alarm-from-going-off-when-i-cook-5876845)<!-- TECH-POSTS:END -->
 
 ---
 
