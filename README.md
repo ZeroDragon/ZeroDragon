@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript : Destructuring &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-destructuring-englishhindi-2l33)
+- [Dev.to/JS] [React.js state Problem.](https://dev.to/pankajasiwal/reactjs-state-problem-2ce)
+- [Dev.to/JS] [Launch Your E-commerce Business With Our Advanced E-commerce Clone Script](https://dev.to/lilybrown47/launch-your-e-commerce-business-with-our-advanced-e-commerce-clone-script-1p1)
+- [Dev.to/JS] [Node.js File System – Utilizing unlink&lpar;&rpar; and unlinkSync&lpar;&rpar; for File Deletion](https://dev.to/mccallum91/nodejs-file-system-utilizing-unlink-and-unlinksync-for-file-deletion-595e)
+- [Dev.to/JS] [Title: Unleash the Power of PHP: Exceptional Services Tailored to Your Needs](https://dev.to/denniszeib/title-unleash-the-power-of-php-exceptional-services-tailored-to-your-needs-1kkf)
 - [Dev.to/JS] [A tiny pixel art game using no images](https://dev.to/mrlopis/a-tiny-pixel-art-game-using-no-images-49df)
 - [Dev.to/JS] [3/3: How to deploy a production app to Kubernetes &lpar;GKE&rpar;](https://dev.to/zenstok/33-how-to-deploy-a-production-app-to-kubernetes-gke-2lah)
 - [Dev.to/JS] [Publish an NPM Package from a GitHub Repository](https://dev.to/sh20raj/publish-an-npm-package-from-a-github-repository-4i8f)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Bookmarklets: JavaScript Everywhere](https://dev.to/ahandsel/introduction-to-bookmarklets-javascript-everywhere-280m)
 - [Dev.to/JS] [Functional State Update in React.](https://dev.to/gakii/functional-state-update-in-react-42io)
 - [Dev.to/JS] [What is Mixed Reality &lpar;MR&rpar;](https://dev.to/s-nidhin/what-is-mixed-reality-mr-5be3)
-- [Dev.to/JS] [Bun 1.0 ⚡:All-in-One Toolkit](https://dev.to/bladearya/bun-10-all-in-one-toolkit-1a0)
-- [Dev.to/JS] [Authentication and Authorization with NodeJS Nethsara Siyum](https://dev.to/codercrux/authentication-and-authorization-with-nodejsnethsara-siyum-2pfp)
-- [Dev.to/JS] [Storyblok’s Astro SDK now supports Astro 3](https://dev.to/storyblok/storybloks-astro-sdk-now-supports-astro-3-51ba)
-- [Dev.to/JS] [benefits of paying Municipal Services and Paying Municipal Taxes in Payrup app](https://dev.to/rohith97/benefits-of-paying-municipal-services-and-paying-municipal-taxes-in-payrup-app-1h0e)
-- [Dev.to/JS] [My Frustrations With the Context API in React](https://dev.to/mohammadfaisal/my-frustrations-with-the-context-api-in-react-379m)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 13](https://lifehacker.com/connections-answer-today-september-13-2023-1850828973)
 - [Lifehacker] [The Best Way to Clean a Granite Countertop](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
 - [Lifehacker] [This Buttermilk Brine Will Turn You Into a Turkey Breast Enthusiast](https://lifehacker.com/this-buttermilk-brine-will-turn-you-into-a-turkey-breas-1830318684)
