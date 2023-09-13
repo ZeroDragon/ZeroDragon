@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Rino.js: New Web Framework](https://dev.to/opdev1004/introducing-rinojs-new-web-framework-5gl7)
+- [Dev.to/JS] [Baby steps to instantly improve your React project](https://dev.to/rajeshroyal/baby-steps-to-instantly-improve-your-react-project-56o2)
 - [Dev.to/JS] [Out-Of-The-Box DTO Validator](https://dev.to/expressots/out-of-the-box-dto-validator-ck7)
 - [Dev.to/JS] [Construindo uma Pokédex Simples com Golang e a Poke API](https://dev.to/kaike_castro/construindo-uma-pokedex-simples-com-golang-e-a-poke-api-1e7)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 13](https://lifehacker.com/connections-answer-today-september-13-2023-1850828973)
@@ -50,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop False Smoke Alarms When You&#39;re Cooking](https://lifehacker.com/how-do-i-stop-my-fire-alarm-from-going-off-when-i-cook-5876845)
 - [Lifehacker] [Everything You Need to Know About the iPhone 15 Pro and 15 Pro Max](https://lifehacker.com/everything-you-need-to-know-about-the-iphone-15-pro-and-1850829750)
 - [Lifehacker] [The Differences Between the iPhone 15 and the iPhone 15 Plus](https://lifehacker.com/iphone-15-versus-iphone-15-plus-1850829166)
-- [Dev.to/JS] [10 Essential Front-End Development Tools for 2023](https://dev.to/taquiimam14/10-essential-front-end-development-tools-for-2023-1if1)
-- [Dev.to/JS] [Feature Flags with JavaScript Proxies](https://dev.to/basestack/feature-flags-with-javascript-proxies-34la)
 - [Lifehacker] [The Differences Between the Apple Watch 9 and the Apple Watch Ultra 2](https://lifehacker.com/apple-watch-9-versus-apple-watch-ultra-2-1850827488)
 - [Lifehacker] [Biden&#39;s Proposed Rule Could Increase Your Paycheck](https://lifehacker.com/bidens-proposed-rule-could-increase-your-paycheck-1850830285)
 - [Lifehacker] [You Can Make Real Money Participating in Clinical Trials, If You Dare](https://lifehacker.com/you-can-make-real-money-participating-in-clinical-trial-1850830014)
