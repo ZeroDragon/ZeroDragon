@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Day in the Life of a Software Engineer](https://dev.to/codingmoney/a-day-in-the-life-of-a-software-engineer-3kjk)
+- [Lifehacker] [Stop Cleaning Your Granite This Way](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
+- [Dev.to/JS] [Monitoring DOM element without useRef](https://dev.to/devcodef1/monitoring-dom-element-without-useref-29el)
 - [Dev.to/JS] [How to load test your api ?](https://dev.to/moayad523/how-load-test-your-api--3k5e)
 - [Lifehacker] [This Buttermilk Brine Will Turn You Into a Turkey Breast Enthusiast](https://lifehacker.com/this-buttermilk-brine-will-turn-you-into-a-turkey-breas-1830318684)
 - [Lifehacker] [You Can Get FlexJobs for $30 Right Now](https://lifehacker.com/you-can-get-flexjobs-for-30-right-now-1850820300)
@@ -53,9 +56,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Senior Front-End Developer to Java Novice: My Journey](https://dev.to/griiettner/from-senior-front-end-developer-to-java-novice-my-journey-3e1g)
 - [Dev.to/JS] [No More Nesting: A Guide to Code Simplicity](https://dev.to/kanav/no-more-nesting-a-guide-to-code-simplicity-3a77)
 - [Lifehacker] [This 3-in-1 Charging Cable Is $17 Right Now](https://lifehacker.com/this-3-in-1-charging-cable-is-17-right-now-1850826146)
-- [Dev.to/JS] [DATA TYPES IN JAVASCRIPT](https://dev.to/kimeng/data-types-in-javascript-7em)
 - [Lifehacker] [The Best Fall Date Ideas That Aren’t Apple Picking](https://lifehacker.com/the-best-fall-date-ideas-that-aren-t-apple-picking-1850827737)
-- [Dev.to/JS] [Bun: The Next Big Thing in Javascript](https://dev.to/kalashin1/bun-the-next-big-thing-in-javascript-jeg)
 - [Lifehacker] [The Best Ad-Free YouTube Apps](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
 - [Lifehacker] [All the New Horror Movies Coming Out Before Halloween](https://lifehacker.com/best-new-horror-movies-2023-1850828091)
 - [Lifehacker] [The Difference Between 5G UC, 5G UW, and 5G+](https://lifehacker.com/the-difference-between-5g-uc-5g-uw-and-5g-1850827783)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need ‘Matter,’ the New Open Standard for Smart Home Devices](https://lifehacker.com/why-you-need-matter-the-new-open-standard-for-smart-1850826525)
 - [Lifehacker] [These Pancake Roll-ups Can Be Sweet or Savory](https://lifehacker.com/these-pancake-roll-ups-can-be-sweet-or-savory-1850825909)
 - [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)
-- [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)
-- [Lifehacker] [Here’s What Happens If You Ignore Jury Duty](https://lifehacker.com/here-s-what-happens-if-you-ignore-jury-duty-1850827136)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)<!-- TECH-POSTS:END -->
 
 ---
 
