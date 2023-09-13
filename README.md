@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering React Query: Navigating the Waters of Data Fetching and Error Handling](https://dev.to/xanyl/mastering-react-query-navigating-the-waters-of-data-fetching-and-error-handling-4d2l)
+- [Dev.to/JS] [Use Cases for IIFEs](https://dev.to/bytebodger/use-cases-for-iifes-5gdg)
+- [Dev.to/JS] [Mastering Angular Unit Testing: A Comprehensive Guide with Examples](https://dev.to/chintanonweb/mastering-angular-unit-testing-a-comprehensive-guide-with-examples-3eg9)
+- [Dev.to/JS] [Tricky Javascript Interview Questions &lpar; Hoisting &rpar; - Scoping, Shadowing, &lpar; Var, Let, Const &rpar; &amp; more](https://dev.to/xplodivity/tricky-javascript-interview-questions-hoisting-scoping-shadowing-var-let-const-more-2kdb)
+- [Dev.to/JS] [Expert Twilio API Developer](https://dev.to/harwindersingh/expert-twilio-api-developer-3l43)
 - [Dev.to/JS] [JavaScript Objects: The Keeper’s Chest](https://dev.to/init_chandan/javascript-objects-the-keepers-chest-1oi8)
 - [Dev.to/JS] [Guarapi v0.1.0: Revolucionando o Desenvolvimento Web com Node.js](https://dev.to/joao_neto/guarapi-v010-revolucionando-o-desenvolvimento-web-com-nodejs-26am)
 - [Dev.to/JS] [Troubleshooting: makeCopy&lpar;&rpar; is not a Function](https://dev.to/devcodef1/troubleshooting-makecopy-is-not-a-function-5c0m)
@@ -33,13 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing Rino: New Web Framework](https://dev.to/opdev1004/introducing-rinojs-new-web-framework-5gl7)
 - [Dev.to/JS] [Baby steps to instantly improve your React project](https://dev.to/rajeshroyal/baby-steps-to-instantly-improve-your-react-project-56o2)
 - [Dev.to/JS] [Out-Of-The-Box DTO Validator](https://dev.to/expressots/out-of-the-box-dto-validator-ck7)
-- [Dev.to/JS] [Construindo uma Pokédex Simples com Golang e a Poke API](https://dev.to/kaike_castro/construindo-uma-pokedex-simples-com-golang-e-a-poke-api-1e7)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 13](https://lifehacker.com/connections-answer-today-september-13-2023-1850828973)
-- [Dev.to/JS] [React.js vs Solid.js](https://dev.to/easewithtuts/reactjs-vs-solidjs-2dg1)
-- [Dev.to/JS] [Understanding error handling in Promise chains](https://dev.to/joeattardi/understanding-error-handling-in-promise-chains-22d9)
-- [Dev.to/JS] [A Day in the Life of a Software Engineer](https://dev.to/codingmoney/a-day-in-the-life-of-a-software-engineer-3kjk)
 - [Lifehacker] [The Best Way to Clean a Granite Countertop](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
-- [Dev.to/JS] [Monitoring DOM element without useRef](https://dev.to/devcodef1/monitoring-dom-element-without-useref-29el)
 - [Lifehacker] [This Buttermilk Brine Will Turn You Into a Turkey Breast Enthusiast](https://lifehacker.com/this-buttermilk-brine-will-turn-you-into-a-turkey-breas-1830318684)
 - [Lifehacker] [You Can Get FlexJobs for $30 Right Now](https://lifehacker.com/you-can-get-flexjobs-for-30-right-now-1850820300)
 - [Lifehacker] [The Goldtouch Go!2 Is a Great Vertical Keyboard](https://lifehacker.com/goldtouch-go-2-vertical-keyboard-review-1850827189)
