@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 13](https://lifehacker.com/connections-answer-today-september-13-2023-1850828973)
+- [Dev.to/JS] [React.js vs Solid.js](https://dev.to/easewithtuts/reactjs-vs-solidjs-2dg1)
+- [Dev.to/JS] [Understanding error handling in Promise chains](https://dev.to/joeattardi/understanding-error-handling-in-promise-chains-22d9)
 - [Dev.to/JS] [A Day in the Life of a Software Engineer](https://dev.to/codingmoney/a-day-in-the-life-of-a-software-engineer-3kjk)
-- [Lifehacker] [Stop Cleaning Your Granite This Way](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
+- [Lifehacker] [The Best Way to Clean a Granite Countertop](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
 - [Dev.to/JS] [Monitoring DOM element without useRef](https://dev.to/devcodef1/monitoring-dom-element-without-useref-29el)
 - [Dev.to/JS] [How to load test your api ?](https://dev.to/moayad523/how-load-test-your-api--3k5e)
 - [Lifehacker] [This Buttermilk Brine Will Turn You Into a Turkey Breast Enthusiast](https://lifehacker.com/this-buttermilk-brine-will-turn-you-into-a-turkey-breas-1830318684)
@@ -53,8 +56,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Real Money Participating in Clinical Trials, If You Dare](https://lifehacker.com/you-can-make-real-money-participating-in-clinical-trial-1850830014)
 - [Dev.to/JS] [Understanding Variable Declaration in JavaScript: let vs. var](https://dev.to/iamcymentho/understanding-variable-declaration-in-javascript-let-vs-var-50an)
 - [Lifehacker] [Why Cramming for a Test Doesn’t Work, According to Science](https://lifehacker.com/why-cramming-for-a-test-doesn-t-work-according-to-scie-1850829909)
-- [Dev.to/JS] [From Senior Front-End Developer to Java Novice: My Journey](https://dev.to/griiettner/from-senior-front-end-developer-to-java-novice-my-journey-3e1g)
-- [Dev.to/JS] [No More Nesting: A Guide to Code Simplicity](https://dev.to/kanav/no-more-nesting-a-guide-to-code-simplicity-3a77)
 - [Lifehacker] [This 3-in-1 Charging Cable Is $17 Right Now](https://lifehacker.com/this-3-in-1-charging-cable-is-17-right-now-1850826146)
 - [Lifehacker] [The Best Fall Date Ideas That Aren’t Apple Picking](https://lifehacker.com/the-best-fall-date-ideas-that-aren-t-apple-picking-1850827737)
 - [Lifehacker] [The Best Ad-Free YouTube Apps](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If That Package Delivery Text Is a Scam](https://lifehacker.com/how-to-tell-if-that-package-delivery-text-is-a-scam-1850827391)
 - [Lifehacker] [Why You Need ‘Matter,’ the New Open Standard for Smart Home Devices](https://lifehacker.com/why-you-need-matter-the-new-open-standard-for-smart-1850826525)
 - [Lifehacker] [These Pancake Roll-ups Can Be Sweet or Savory](https://lifehacker.com/these-pancake-roll-ups-can-be-sweet-or-savory-1850825909)
-- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)
-- [Lifehacker] [Why &#39;Couch to 5K&#39; Doesn&#39;t Work for Everybody](https://lifehacker.com/the-case-against-couch-to-5k-and-what-to-try-instead-1847387867)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)<!-- TECH-POSTS:END -->
 
 ---
 
