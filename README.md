@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Miniature Cleaning Products Are Perfect for Small Apartments](https://lifehacker.com/these-miniature-cleaning-products-are-perfect-for-small-1850831550)
+- [Dev.to/JS] [Llama 2 vs Llama 1 vs GPT-4: Who Will Trample Who?](https://dev.to/bitohq/llama-2-vs-llama-1-vs-gpt-4-who-will-trample-who-1m4j)
+- [Lifehacker] [You Should Recycle the Potting Soil From Your Dead Plants](https://lifehacker.com/you-should-recycle-the-potting-soil-from-your-dead-plan-1850830828)
+- [Dev.to/JS] [Different Types of Export in React](https://dev.to/jeetvora331/different-types-of-export-in-react-21p8)
+- [Dev.to/JS] [DevOps Domination: Streamlining Software Delivery 🚀👩‍💻](https://dev.to/muzammilrawjani/devops-domination-streamlining-software-delivery-4a3n)
+- [Lifehacker] [The Best Ways to Find a Running Track Near You &lpar;and a Beginner’s Workout to Try&rpar;](https://lifehacker.com/the-best-ways-to-find-a-running-track-near-you-and-a-b-1850830346)
 - [Dev.to/JS] [JavaScript : Destructuring &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-destructuring-englishhindi-2l33)
 - [Dev.to/JS] [React.js state Problem.](https://dev.to/pankajasiwal/reactjs-state-problem-2ce)
 - [Dev.to/JS] [Launch Your E-commerce Business With Our Advanced E-commerce Clone Script](https://dev.to/lilybrown47/launch-your-e-commerce-business-with-our-advanced-e-commerce-clone-script-1p1)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3/3: How to deploy a production app to Kubernetes &lpar;GKE&rpar;](https://dev.to/zenstok/33-how-to-deploy-a-production-app-to-kubernetes-gke-2lah)
 - [Dev.to/JS] [Publish an NPM Package from a GitHub Repository](https://dev.to/sh20raj/publish-an-npm-package-from-a-github-repository-4i8f)
 - [Dev.to/JS] [Laravel Vs. Codeigniter: A Head-to-Head Comparison?](https://dev.to/bookmytalent/laravel-vs-codeigniter-a-head-to-head-comparison-4o0a)
-- [Dev.to/JS] [Introduction to Bookmarklets: JavaScript Everywhere](https://dev.to/ahandsel/introduction-to-bookmarklets-javascript-everywhere-280m)
-- [Dev.to/JS] [Functional State Update in React.](https://dev.to/gakii/functional-state-update-in-react-42io)
-- [Dev.to/JS] [What is Mixed Reality &lpar;MR&rpar;](https://dev.to/s-nidhin/what-is-mixed-reality-mr-5be3)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 13](https://lifehacker.com/connections-answer-today-september-13-2023-1850828973)
 - [Lifehacker] [The Best Way to Clean a Granite Countertop](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
 - [Lifehacker] [This Buttermilk Brine Will Turn You Into a Turkey Breast Enthusiast](https://lifehacker.com/this-buttermilk-brine-will-turn-you-into-a-turkey-breas-1830318684)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Horror Movies Coming Out Before Halloween](https://lifehacker.com/best-new-horror-movies-2023-1850828091)
 - [Lifehacker] [The Difference Between 5G UC, 5G UW, and 5G+](https://lifehacker.com/the-difference-between-5g-uc-5g-uw-and-5g-1850827783)
 - [Lifehacker] [Turn a Box of Cake Mix and Can of Soda Into a Plush Vegan Cake](https://lifehacker.com/turn-a-box-of-cake-mix-and-can-of-soda-into-a-plush-veg-1850827304)
-- [Lifehacker] [How to Tell If That Package Delivery Text Is a Scam](https://lifehacker.com/how-to-tell-if-that-package-delivery-text-is-a-scam-1850827391)
-- [Lifehacker] [Why You Need ‘Matter,’ the New Open Standard for Smart Home Devices](https://lifehacker.com/why-you-need-matter-the-new-open-standard-for-smart-1850826525)
-- [Lifehacker] [These Pancake Roll-ups Can Be Sweet or Savory](https://lifehacker.com/these-pancake-roll-ups-can-be-sweet-or-savory-1850825909)
-- [Lifehacker] [Today&#39;s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 12, 2023](https://lifehacker.com/connections-answer-today-september-12-2023-1850824829)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If That Package Delivery Text Is a Scam](https://lifehacker.com/how-to-tell-if-that-package-delivery-text-is-a-scam-1850827391)<!-- TECH-POSTS:END -->
 
 ---
 
