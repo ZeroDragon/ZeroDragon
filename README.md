@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [benefits of paying Municipal Services and Paying Municipal Taxes in Payrup app](https://dev.to/rohith97/benefits-of-paying-municipal-services-and-paying-municipal-taxes-in-payrup-app-1h0e)
+- [Dev.to/JS] [My Frustrations With the Context API in React](https://dev.to/mohammadfaisal/my-frustrations-with-the-context-api-in-react-379m)
+- [Dev.to/JS] [Top 10 Web Development Companies in 2023](https://dev.to/sparkouttech/top-10-web-development-companies-in-2023-15af)
 - [Dev.to/JS] [Mastering React Query: Navigating the Waters of Data Fetching and Error Handling](https://dev.to/xanyl/mastering-react-query-navigating-the-waters-of-data-fetching-and-error-handling-4d2l)
 - [Dev.to/JS] [Use Cases for IIFEs](https://dev.to/bytebodger/use-cases-for-iifes-5gdg)
 - [Dev.to/JS] [Mastering Angular Unit Testing: A Comprehensive Guide with Examples](https://dev.to/chintanonweb/mastering-angular-unit-testing-a-comprehensive-guide-with-examples-3eg9)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guarapi v0.1.0: Revolucionando o Desenvolvimento Web com Node.js](https://dev.to/joao_neto/guarapi-v010-revolucionando-o-desenvolvimento-web-com-nodejs-26am)
 - [Dev.to/JS] [Troubleshooting: makeCopy&lpar;&rpar; is not a Function](https://dev.to/devcodef1/troubleshooting-makecopy-is-not-a-function-5c0m)
 - [Dev.to/JS] [C/C++ code in React using WebAssembly](https://dev.to/iprosk/cc-code-in-react-using-webassembly-7ka)
-- [Dev.to/JS] [Introducing Rino: New Web Framework](https://dev.to/opdev1004/introducing-rinojs-new-web-framework-5gl7)
-- [Dev.to/JS] [Baby steps to instantly improve your React project](https://dev.to/rajeshroyal/baby-steps-to-instantly-improve-your-react-project-56o2)
-- [Dev.to/JS] [Out-Of-The-Box DTO Validator](https://dev.to/expressots/out-of-the-box-dto-validator-ck7)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 13](https://lifehacker.com/connections-answer-today-september-13-2023-1850828973)
 - [Lifehacker] [The Best Way to Clean a Granite Countertop](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
 - [Lifehacker] [This Buttermilk Brine Will Turn You Into a Turkey Breast Enthusiast](https://lifehacker.com/this-buttermilk-brine-will-turn-you-into-a-turkey-breas-1830318684)
