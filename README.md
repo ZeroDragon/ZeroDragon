@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Try Apple Watch Series 9&#39;s New Gestures Right Now](https://lifehacker.com/you-can-try-apple-watch-series-9s-new-gestures-right-no-1850833719)
+- [Lifehacker] [Why Washing Lettuce Doesn&#39;t Get Rid of E. Coli](https://lifehacker.com/whats-the-best-way-to-wash-my-produce-before-i-eat-it-1698311216)
+- [Lifehacker] [How to Preorder the iPhone 15 for Launch Day](https://lifehacker.com/preorder-iphone-15-1850834405)
 - [Lifehacker] [FDA Finally Admits the Most Popular Oral Decongestant Doesn&#39;t Work](https://lifehacker.com/fda-finally-admits-the-most-popular-oral-decongestant-d-1850835383)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Dev.to/JS] [Everything I Learnt From Making a Service Worker Build Plugin](https://dev.to/hedgehog125/everything-i-learnt-from-making-a-service-worker-build-plugin-3n64)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 13](https://lifehacker.com/connections-answer-today-september-13-2023-1850828973)
 - [Lifehacker] [The Best Way to Clean a Granite Countertop](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
 - [Lifehacker] [This Buttermilk Brine Will Turn You Into a Turkey Breast Enthusiast](https://lifehacker.com/this-buttermilk-brine-will-turn-you-into-a-turkey-breas-1830318684)
-- [Lifehacker] [You Can Get FlexJobs for $30 Right Now](https://lifehacker.com/you-can-get-flexjobs-for-30-right-now-1850820300)
-- [Lifehacker] [The Goldtouch Go!2 Is a Great Vertical Keyboard](https://lifehacker.com/goldtouch-go-2-vertical-keyboard-review-1850827189)
-- [Lifehacker] [Ear Candling Doesn&#39;t Work &lpar;and Can Make Your Earwax Worse&rpar;](https://lifehacker.com/does-ear-candling-work-1839927121)
-- [Lifehacker] [You Can Get Free Extended Layovers in Portugal Right Now](https://lifehacker.com/you-can-get-free-extended-layovers-in-portugal-right-no-1850831409)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get FlexJobs for $30 Right Now](https://lifehacker.com/you-can-get-flexjobs-for-30-right-now-1850820300)<!-- TECH-POSTS:END -->
 
 ---
 
