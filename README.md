@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first big challenge - configuring docker, kong and nodejs](https://dev.to/effelima/my-first-big-challenge-configuring-docker-kong-and-nodejs-122j)
+- [Dev.to/JS] [3 Comprehensive Guides from Rheinwerk Computing Every Developer Must Read](https://dev.to/shawn2208/3-comprehensive-guides-from-rheinwerk-computing-every-developer-must-read-5640)
+- [Dev.to/JS] [Enhancing Collaboration and Efficiency: Syncloop&#39;s API Development Services for Architects](https://dev.to/syncloop_dev/enhancing-collaboration-and-efficiency-syncloops-api-development-services-for-architects-24k3)
+- [Dev.to/JS] [The Fundamentals of Scope in JavaScript: A Beginner’s Guide](https://dev.to/shriharimurali/the-fundamentals-of-scope-in-javascript-a-beginners-guide-1gbf)
+- [Dev.to/JS] [Day 47: Utility Types](https://dev.to/dhrn/day-47-utility-types-2g5m)
+- [Lifehacker] [You Can Send Your Name to Mars](https://lifehacker.com/you-can-send-your-name-to-mars-1850831943)
+- [Dev.to/JS] [Date Picker: reactive Web Component in JavaScript](https://dev.to/apleshkov/date-picker-reactive-web-component-in-javascript-2nmi)
+- [Dev.to/JS] [Semi automatização de preenchimento de dialogs no AEM](https://dev.to/beatrizmaciel/semi-automatizacao-de-preenchimento-de-dialogs-no-aem-30i4)
+- [Dev.to/JS] [Unlock the Art of Changing Elements in JavaScript!](https://dev.to/max88git/unlock-the-art-of-changing-elements-in-javascript-49bp)
 - [Lifehacker] [These Miniature Cleaning Products Are Perfect for Small Apartments](https://lifehacker.com/these-miniature-cleaning-products-are-perfect-for-small-1850831550)
 - [Dev.to/JS] [Llama 2 vs Llama 1 vs GPT-4: Who Will Trample Who?](https://dev.to/bitohq/llama-2-vs-llama-1-vs-gpt-4-who-will-trample-who-1m4j)
 - [Lifehacker] [You Should Recycle the Potting Soil From Your Dead Plants](https://lifehacker.com/you-should-recycle-the-potting-soil-from-your-dead-plan-1850830828)
@@ -33,14 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DevOps Domination: Streamlining Software Delivery 🚀👩‍💻](https://dev.to/muzammilrawjani/devops-domination-streamlining-software-delivery-4a3n)
 - [Lifehacker] [The Best Ways to Find a Running Track Near You &lpar;and a Beginner’s Workout to Try&rpar;](https://lifehacker.com/the-best-ways-to-find-a-running-track-near-you-and-a-b-1850830346)
 - [Dev.to/JS] [JavaScript : Destructuring &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-destructuring-englishhindi-2l33)
-- [Dev.to/JS] [React.js state Problem.](https://dev.to/pankajasiwal/reactjs-state-problem-2ce)
-- [Dev.to/JS] [Launch Your E-commerce Business With Our Advanced E-commerce Clone Script](https://dev.to/lilybrown47/launch-your-e-commerce-business-with-our-advanced-e-commerce-clone-script-1p1)
-- [Dev.to/JS] [Node.js File System – Utilizing unlink&lpar;&rpar; and unlinkSync&lpar;&rpar; for File Deletion](https://dev.to/mccallum91/nodejs-file-system-utilizing-unlink-and-unlinksync-for-file-deletion-595e)
-- [Dev.to/JS] [Title: Unleash the Power of PHP: Exceptional Services Tailored to Your Needs](https://dev.to/denniszeib/title-unleash-the-power-of-php-exceptional-services-tailored-to-your-needs-1kkf)
-- [Dev.to/JS] [A tiny pixel art game using no images](https://dev.to/mrlopis/a-tiny-pixel-art-game-using-no-images-49df)
-- [Dev.to/JS] [3/3: How to deploy a production app to Kubernetes &lpar;GKE&rpar;](https://dev.to/zenstok/33-how-to-deploy-a-production-app-to-kubernetes-gke-2lah)
-- [Dev.to/JS] [Publish an NPM Package from a GitHub Repository](https://dev.to/sh20raj/publish-an-npm-package-from-a-github-repository-4i8f)
-- [Dev.to/JS] [Laravel Vs. Codeigniter: A Head-to-Head Comparison?](https://dev.to/bookmytalent/laravel-vs-codeigniter-a-head-to-head-comparison-4o0a)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 13](https://lifehacker.com/connections-answer-today-september-13-2023-1850828973)
 - [Lifehacker] [The Best Way to Clean a Granite Countertop](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
 - [Lifehacker] [This Buttermilk Brine Will Turn You Into a Turkey Breast Enthusiast](https://lifehacker.com/this-buttermilk-brine-will-turn-you-into-a-turkey-breas-1830318684)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ad-Free YouTube Apps](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
 - [Lifehacker] [All the New Horror Movies Coming Out Before Halloween](https://lifehacker.com/best-new-horror-movies-2023-1850828091)
 - [Lifehacker] [The Difference Between 5G UC, 5G UW, and 5G+](https://lifehacker.com/the-difference-between-5g-uc-5g-uw-and-5g-1850827783)
-- [Lifehacker] [Turn a Box of Cake Mix and Can of Soda Into a Plush Vegan Cake](https://lifehacker.com/turn-a-box-of-cake-mix-and-can-of-soda-into-a-plush-veg-1850827304)
-- [Lifehacker] [How to Tell If That Package Delivery Text Is a Scam](https://lifehacker.com/how-to-tell-if-that-package-delivery-text-is-a-scam-1850827391)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn a Box of Cake Mix and Can of Soda Into a Plush Vegan Cake](https://lifehacker.com/turn-a-box-of-cake-mix-and-can-of-soda-into-a-plush-veg-1850827304)<!-- TECH-POSTS:END -->
 
 ---
 
