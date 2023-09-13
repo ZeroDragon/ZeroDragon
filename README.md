@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Out-Of-The-Box DTO Validator](https://dev.to/expressots/out-of-the-box-dto-validator-ck7)
+- [Dev.to/JS] [Construindo uma Pokédex Simples com Golang e a Poke API](https://dev.to/kaike_castro/construindo-uma-pokedex-simples-com-golang-e-a-poke-api-1e7)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 13](https://lifehacker.com/connections-answer-today-september-13-2023-1850828973)
 - [Dev.to/JS] [React.js vs Solid.js](https://dev.to/easewithtuts/reactjs-vs-solidjs-2dg1)
 - [Dev.to/JS] [Understanding error handling in Promise chains](https://dev.to/joeattardi/understanding-error-handling-in-promise-chains-22d9)
@@ -52,9 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Feature Flags with JavaScript Proxies](https://dev.to/basestack/feature-flags-with-javascript-proxies-34la)
 - [Lifehacker] [The Differences Between the Apple Watch 9 and the Apple Watch Ultra 2](https://lifehacker.com/apple-watch-9-versus-apple-watch-ultra-2-1850827488)
 - [Lifehacker] [Biden&#39;s Proposed Rule Could Increase Your Paycheck](https://lifehacker.com/bidens-proposed-rule-could-increase-your-paycheck-1850830285)
-- [Dev.to/JS] [Answering an interview question - 01](https://dev.to/nathpaiva/answering-an-interview-question-01-3icd)
 - [Lifehacker] [You Can Make Real Money Participating in Clinical Trials, If You Dare](https://lifehacker.com/you-can-make-real-money-participating-in-clinical-trial-1850830014)
-- [Dev.to/JS] [Understanding Variable Declaration in JavaScript: let vs. var](https://dev.to/iamcymentho/understanding-variable-declaration-in-javascript-let-vs-var-50an)
 - [Lifehacker] [Why Cramming for a Test Doesn’t Work, According to Science](https://lifehacker.com/why-cramming-for-a-test-doesn-t-work-according-to-scie-1850829909)
 - [Lifehacker] [This 3-in-1 Charging Cable Is $17 Right Now](https://lifehacker.com/this-3-in-1-charging-cable-is-17-right-now-1850826146)
 - [Lifehacker] [The Best Fall Date Ideas That Aren’t Apple Picking](https://lifehacker.com/the-best-fall-date-ideas-that-aren-t-apple-picking-1850827737)
