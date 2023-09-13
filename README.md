@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Delete a Netlify App](https://dev.to/sameerkali/how-to-delete-a-netlify-app-4p7o)
+- [Lifehacker] [These Single-serving Non-dairy Creamers Are Actually Pretty Good](https://lifehacker.com/these-single-serving-non-dairy-creamers-are-actually-pr-1850831773)
+- [Dev.to/JS] [JSON Stringify Method - JavaScript](https://dev.to/jimmy1995/json-stringify-method-javascript-5c55)
+- [Dev.to/JS] [🚀 Elevate Your React Router Skills: The Ultimate Nuggets 🌐](https://dev.to/judeebekes67/elevate-your-react-router-skills-the-ultimate-nuggets-3icp)
+- [Lifehacker] [The Best Music Streaming Service, Based on What Matters to You](https://lifehacker.com/best-music-streaming-services-1850832901)
 - [Dev.to/JS] [Vue 3: Options API vs the Composition API](https://dev.to/alakkadshaw/vue-3-options-api-vs-the-composition-api-5556)
 - [Dev.to/JS] [Issue running an old project, site dont open on npm run dev](https://dev.to/srecce/issue-running-an-old-project-site-dont-open-on-npm-run-dev-bdd)
 - [Lifehacker] [The Logitech G502X Plus Is Good for More Than Just Gaming](https://lifehacker.com/logitech-g502x-plus-review-1850831969)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting up different Environments in Vite Projects](https://dev.to/diveshpanwar/setting-up-different-environments-in-vite-projects-2mb1)
 - [Dev.to/JS] [My first big challenge - configuring docker, kong and nodejs](https://dev.to/effelima/my-first-big-challenge-configuring-docker-kong-and-nodejs-122j)
 - [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
-- [Dev.to/JS] [3 Comprehensive Guides from Rheinwerk Computing Every Developer Must Read](https://dev.to/shawn2208/3-comprehensive-guides-from-rheinwerk-computing-every-developer-must-read-5640)
-- [Dev.to/JS] [Enhancing Collaboration and Efficiency: Syncloop&#39;s API Development Services for Architects](https://dev.to/syncloop_dev/enhancing-collaboration-and-efficiency-syncloops-api-development-services-for-architects-24k3)
-- [Dev.to/JS] [The Fundamentals of Scope in JavaScript: A Beginner’s Guide](https://dev.to/shriharimurali/the-fundamentals-of-scope-in-javascript-a-beginners-guide-1gbf)
 - [Lifehacker] [You Can Send Your Name to Mars](https://lifehacker.com/you-can-send-your-name-to-mars-1850831943)
 - [Lifehacker] [These Miniature Cleaning Products Are Perfect for Small Apartments](https://lifehacker.com/these-miniature-cleaning-products-are-perfect-for-small-1850831550)
 - [Lifehacker] [You Should Recycle the Potting Soil From Your Dead Plants](https://lifehacker.com/you-should-recycle-the-potting-soil-from-your-dead-plan-1850830828)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Differences Between the Apple Watch 9 and the Apple Watch Ultra 2](https://lifehacker.com/apple-watch-9-versus-apple-watch-ultra-2-1850827488)
 - [Lifehacker] [Biden&#39;s Proposed Rule Could Increase Your Paycheck](https://lifehacker.com/bidens-proposed-rule-could-increase-your-paycheck-1850830285)
 - [Lifehacker] [You Can Make Real Money Participating in Clinical Trials, If You Dare](https://lifehacker.com/you-can-make-real-money-participating-in-clinical-trial-1850830014)
-- [Lifehacker] [Why Cramming for a Test Doesn’t Work, According to Science](https://lifehacker.com/why-cramming-for-a-test-doesn-t-work-according-to-scie-1850829909)
-- [Lifehacker] [This 3-in-1 Charging Cable Is $17 Right Now](https://lifehacker.com/this-3-in-1-charging-cable-is-17-right-now-1850826146)
-- [Lifehacker] [The Best Fall Date Ideas That Aren’t Apple Picking](https://lifehacker.com/the-best-fall-date-ideas-that-aren-t-apple-picking-1850827737)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Cramming for a Test Doesn’t Work, According to Science](https://lifehacker.com/why-cramming-for-a-test-doesn-t-work-according-to-scie-1850829909)<!-- TECH-POSTS:END -->
 
 ---
 
