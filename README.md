@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue 3: Options API vs the Composition API](https://dev.to/alakkadshaw/vue-3-options-api-vs-the-composition-api-5556)
+- [Dev.to/JS] [Issue running an old project, site dont open on npm run dev](https://dev.to/srecce/issue-running-an-old-project-site-dont-open-on-npm-run-dev-bdd)
+- [Lifehacker] [The Logitech G502X Plus Is Good for More Than Just Gaming](https://lifehacker.com/logitech-g502x-plus-review-1850831969)
+- [Dev.to/JS] [WunderGraph Cosmo: a open source alternative to Apollo Federation, GraphOS, Studio, etc...](https://dev.to/slickstef11/wundergraph-cosmo-a-open-source-alternative-to-apollo-federation-graphos-studio-etc-1e1)
+- [Dev.to/JS] [How to use Stack UI to build your personal portfolio](https://dev.to/krybone/how-to-use-stack-ui-to-build-your-personal-portfolio-2pme)
+- [Lifehacker] [You Can Totally Marinate Meat in Flavored Yogurt](https://lifehacker.com/you-can-totally-marinate-meat-in-flavored-yogurt-1850832296)
 - [Dev.to/JS] [JavaScript AggregateError and the Array Family](https://dev.to/syedmuhammadaliraza/javascript-aggregateerror-and-the-array-family-2n8)
 - [Dev.to/JS] [JavaScript Revelations: Journeying Through Tech Interview Preparation](https://dev.to/nastassia/javascript-revelations-journeying-through-tech-interview-preparation-32gp)
 - [Lifehacker] [What Apple’s Switch to USB-C Really Means for iPhone Users](https://lifehacker.com/what-apple-s-switch-to-usb-c-really-means-for-iphone-us-1850832175)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Comprehensive Guides from Rheinwerk Computing Every Developer Must Read](https://dev.to/shawn2208/3-comprehensive-guides-from-rheinwerk-computing-every-developer-must-read-5640)
 - [Dev.to/JS] [Enhancing Collaboration and Efficiency: Syncloop&#39;s API Development Services for Architects](https://dev.to/syncloop_dev/enhancing-collaboration-and-efficiency-syncloops-api-development-services-for-architects-24k3)
 - [Dev.to/JS] [The Fundamentals of Scope in JavaScript: A Beginner’s Guide](https://dev.to/shriharimurali/the-fundamentals-of-scope-in-javascript-a-beginners-guide-1gbf)
-- [Dev.to/JS] [Day 47: Utility Types](https://dev.to/dhrn/day-47-utility-types-2g5m)
 - [Lifehacker] [You Can Send Your Name to Mars](https://lifehacker.com/you-can-send-your-name-to-mars-1850831943)
-- [Dev.to/JS] [Date Picker: reactive Web Component in JavaScript](https://dev.to/apleshkov/date-picker-reactive-web-component-in-javascript-2nmi)
-- [Dev.to/JS] [Semi automatização de preenchimento de dialogs no AEM](https://dev.to/beatrizmaciel/semi-automatizacao-de-preenchimento-de-dialogs-no-aem-30i4)
-- [Dev.to/JS] [Unlock the Art of Changing Elements in JavaScript!](https://dev.to/max88git/unlock-the-art-of-changing-elements-in-javascript-49bp)
 - [Lifehacker] [These Miniature Cleaning Products Are Perfect for Small Apartments](https://lifehacker.com/these-miniature-cleaning-products-are-perfect-for-small-1850831550)
 - [Lifehacker] [You Should Recycle the Potting Soil From Your Dead Plants](https://lifehacker.com/you-should-recycle-the-potting-soil-from-your-dead-plan-1850830828)
 - [Lifehacker] [The Best Ways to Find a Running Track Near You &lpar;and a Beginner’s Workout to Try&rpar;](https://lifehacker.com/the-best-ways-to-find-a-running-track-near-you-and-a-b-1850830346)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Real Money Participating in Clinical Trials, If You Dare](https://lifehacker.com/you-can-make-real-money-participating-in-clinical-trial-1850830014)
 - [Lifehacker] [Why Cramming for a Test Doesn’t Work, According to Science](https://lifehacker.com/why-cramming-for-a-test-doesn-t-work-according-to-scie-1850829909)
 - [Lifehacker] [This 3-in-1 Charging Cable Is $17 Right Now](https://lifehacker.com/this-3-in-1-charging-cable-is-17-right-now-1850826146)
-- [Lifehacker] [The Best Fall Date Ideas That Aren’t Apple Picking](https://lifehacker.com/the-best-fall-date-ideas-that-aren-t-apple-picking-1850827737)
-- [Lifehacker] [The Best Ad-Free YouTube Apps](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
-- [Lifehacker] [All the New Horror Movies Coming Out Before Halloween](https://lifehacker.com/best-new-horror-movies-2023-1850828091)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Fall Date Ideas That Aren’t Apple Picking](https://lifehacker.com/the-best-fall-date-ideas-that-aren-t-apple-picking-1850827737)<!-- TECH-POSTS:END -->
 
 ---
 
