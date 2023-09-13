@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dom Manipulation in JavaScript for Beginners](https://dev.to/onlineittutstutorials/dom-manipulation-in-javascript-for-beginners-1l79)
+- [Dev.to/JS] [TinyMCE Rich Text Editor: Multi-Root vs Inline Editing](https://dev.to/tinymce/tinymce-rich-text-editor-multi-root-vs-inline-editing-7hh)
+- [Dev.to/JS] [Guia de Components - para quem tem pressa!](https://dev.to/aninhapardini/guia-de-components-para-quem-tem-pressa-47n3)
+- [Lifehacker] [The Easiest Ways to Spruce Up an Old Light Fixture](https://lifehacker.com/the-easiest-ways-to-spruce-up-an-old-light-fixture-1850832942)
+- [Dev.to/JS] [Classes e Objetos &lpar;JavaScript&rpar;](https://dev.to/douglaswlc/classes-e-objetos-javascript-5lp)
+- [Dev.to/JS] [Simple Markdown Previewer in ReactJS with Twin Macro and Styled Components.](https://dev.to/mohammadab7/simple-markdown-previewer-in-reactjs-with-twin-macro-and-styled-components-p9k)
+- [Dev.to/JS] [IF e FOR &lpar;JavaScript&rpar;](https://dev.to/douglaswlc/if-e-for-javascript-4i3)
+- [Lifehacker] [How to Download YouTube Videos](https://lifehacker.com/how-to-download-youtube-videos-1850825285)
+- [Lifehacker] [Woot Is Selling Massively Discounted Samsung Refurbished Phones Right Now](https://lifehacker.com/woot-is-selling-massively-discounted-samsung-refurbishe-1850830489)
 - [Dev.to/JS] [How to Delete a Netlify App](https://dev.to/sameerkali/how-to-delete-a-netlify-app-4p7o)
 - [Lifehacker] [These Single-serving Non-dairy Creamers Are Actually Pretty Good](https://lifehacker.com/these-single-serving-non-dairy-creamers-are-actually-pr-1850831773)
 - [Dev.to/JS] [JSON Stringify Method - JavaScript](https://dev.to/jimmy1995/json-stringify-method-javascript-5c55)
@@ -35,14 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Issue running an old project, site dont open on npm run dev](https://dev.to/srecce/issue-running-an-old-project-site-dont-open-on-npm-run-dev-bdd)
 - [Lifehacker] [The Logitech G502X Plus Is Good for More Than Just Gaming](https://lifehacker.com/logitech-g502x-plus-review-1850831969)
 - [Dev.to/JS] [WunderGraph Cosmo: a open source alternative to Apollo Federation, GraphOS, Studio, etc...](https://dev.to/slickstef11/wundergraph-cosmo-a-open-source-alternative-to-apollo-federation-graphos-studio-etc-1e1)
-- [Dev.to/JS] [How to use Stack UI to build your personal portfolio](https://dev.to/krybone/how-to-use-stack-ui-to-build-your-personal-portfolio-2pme)
 - [Lifehacker] [You Can Totally Marinate Meat in Flavored Yogurt](https://lifehacker.com/you-can-totally-marinate-meat-in-flavored-yogurt-1850832296)
-- [Dev.to/JS] [JavaScript AggregateError and the Array Family](https://dev.to/syedmuhammadaliraza/javascript-aggregateerror-and-the-array-family-2n8)
-- [Dev.to/JS] [JavaScript Revelations: Journeying Through Tech Interview Preparation](https://dev.to/nastassia/javascript-revelations-journeying-through-tech-interview-preparation-32gp)
 - [Lifehacker] [What Apple’s Switch to USB-C Really Means for iPhone Users](https://lifehacker.com/what-apple-s-switch-to-usb-c-really-means-for-iphone-us-1850832175)
-- [Dev.to/JS] [You&#39;re not missing out](https://dev.to/noblica/youre-not-missing-out-175e)
-- [Dev.to/JS] [Setting up different Environments in Vite Projects](https://dev.to/diveshpanwar/setting-up-different-environments-in-vite-projects-2mb1)
-- [Dev.to/JS] [My first big challenge - configuring docker, kong and nodejs](https://dev.to/effelima/my-first-big-challenge-configuring-docker-kong-and-nodejs-122j)
 - [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
 - [Lifehacker] [You Can Send Your Name to Mars](https://lifehacker.com/you-can-send-your-name-to-mars-1850831943)
 - [Lifehacker] [These Miniature Cleaning Products Are Perfect for Small Apartments](https://lifehacker.com/these-miniature-cleaning-products-are-perfect-for-small-1850831550)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop False Smoke Alarms When You&#39;re Cooking](https://lifehacker.com/how-do-i-stop-my-fire-alarm-from-going-off-when-i-cook-5876845)
 - [Lifehacker] [Everything You Need to Know About the iPhone 15 Pro and 15 Pro Max](https://lifehacker.com/everything-you-need-to-know-about-the-iphone-15-pro-and-1850829750)
 - [Lifehacker] [The Differences Between the iPhone 15 and the iPhone 15 Plus](https://lifehacker.com/iphone-15-versus-iphone-15-plus-1850829166)
-- [Lifehacker] [The Differences Between the Apple Watch 9 and the Apple Watch Ultra 2](https://lifehacker.com/apple-watch-9-versus-apple-watch-ultra-2-1850827488)
-- [Lifehacker] [Biden&#39;s Proposed Rule Could Increase Your Paycheck](https://lifehacker.com/bidens-proposed-rule-could-increase-your-paycheck-1850830285)
-- [Lifehacker] [You Can Make Real Money Participating in Clinical Trials, If You Dare](https://lifehacker.com/you-can-make-real-money-participating-in-clinical-trial-1850830014)
-- [Lifehacker] [Why Cramming for a Test Doesn’t Work, According to Science](https://lifehacker.com/why-cramming-for-a-test-doesn-t-work-according-to-scie-1850829909)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Differences Between the Apple Watch 9 and the Apple Watch Ultra 2](https://lifehacker.com/apple-watch-9-versus-apple-watch-ultra-2-1850827488)<!-- TECH-POSTS:END -->
 
 ---
 
