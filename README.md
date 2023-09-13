@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Introducing Rino.js: New Web Framework](https://dev.to/opdev1004/introducing-rinojs-new-web-framework-5gl7)
+- [Dev.to/JS] [Introducing Rino: New Web Framework](https://dev.to/opdev1004/introducing-rinojs-new-web-framework-5gl7)
 - [Dev.to/JS] [Baby steps to instantly improve your React project](https://dev.to/rajeshroyal/baby-steps-to-instantly-improve-your-react-project-56o2)
 - [Dev.to/JS] [Out-Of-The-Box DTO Validator](https://dev.to/expressots/out-of-the-box-dto-validator-ck7)
 - [Dev.to/JS] [Construindo uma Pokédex Simples com Golang e a Poke API](https://dev.to/kaike_castro/construindo-uma-pokedex-simples-com-golang-e-a-poke-api-1e7)
