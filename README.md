@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Objects: The Keeper’s Chest](https://dev.to/init_chandan/javascript-objects-the-keepers-chest-1oi8)
+- [Dev.to/JS] [Guarapi v0.1.0: Revolucionando o Desenvolvimento Web com Node.js](https://dev.to/joao_neto/guarapi-v010-revolucionando-o-desenvolvimento-web-com-nodejs-26am)
+- [Dev.to/JS] [Troubleshooting: makeCopy&lpar;&rpar; is not a Function](https://dev.to/devcodef1/troubleshooting-makecopy-is-not-a-function-5c0m)
+- [Dev.to/JS] [C/C++ code in React using WebAssembly](https://dev.to/iprosk/cc-code-in-react-using-webassembly-7ka)
 - [Dev.to/JS] [Introducing Rino: New Web Framework](https://dev.to/opdev1004/introducing-rinojs-new-web-framework-5gl7)
 - [Dev.to/JS] [Baby steps to instantly improve your React project](https://dev.to/rajeshroyal/baby-steps-to-instantly-improve-your-react-project-56o2)
 - [Dev.to/JS] [Out-Of-The-Box DTO Validator](https://dev.to/expressots/out-of-the-box-dto-validator-ck7)
@@ -36,15 +40,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Day in the Life of a Software Engineer](https://dev.to/codingmoney/a-day-in-the-life-of-a-software-engineer-3kjk)
 - [Lifehacker] [The Best Way to Clean a Granite Countertop](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
 - [Dev.to/JS] [Monitoring DOM element without useRef](https://dev.to/devcodef1/monitoring-dom-element-without-useref-29el)
-- [Dev.to/JS] [How to load test your api ?](https://dev.to/moayad523/how-load-test-your-api--3k5e)
 - [Lifehacker] [This Buttermilk Brine Will Turn You Into a Turkey Breast Enthusiast](https://lifehacker.com/this-buttermilk-brine-will-turn-you-into-a-turkey-breas-1830318684)
 - [Lifehacker] [You Can Get FlexJobs for $30 Right Now](https://lifehacker.com/you-can-get-flexjobs-for-30-right-now-1850820300)
-- [Dev.to/JS] [A quick guide on closures](https://dev.to/drant_dumani/a-quick-guide-on-closures-4ebj)
-- [Dev.to/JS] [Bun 1.0: The Next Big Thing in JavaScript Runtime?](https://dev.to/cstayyab/bun-10-the-next-big-thing-in-javascript-runtime-4l75)
 - [Lifehacker] [The Goldtouch Go!2 Is a Great Vertical Keyboard](https://lifehacker.com/goldtouch-go-2-vertical-keyboard-review-1850827189)
 - [Lifehacker] [Ear Candling Doesn&#39;t Work &lpar;and Can Make Your Earwax Worse&rpar;](https://lifehacker.com/does-ear-candling-work-1839927121)
 - [Lifehacker] [You Can Get Free Extended Layovers in Portugal Right Now](https://lifehacker.com/you-can-get-free-extended-layovers-in-portugal-right-no-1850831409)
-- [Dev.to/JS] [Mastering React Styling: A Beginner&#39;s Guide](https://dev.to/cybermaxi7/mastering-react-styling-a-beginners-guide-1lel)
 - [Lifehacker] [Fry Your Eggs in a Pile of Crumbled Feta](https://lifehacker.com/fry-your-eggs-in-a-pile-of-crumbled-feta-1850831203)
 - [Lifehacker] [The Best Streaming Deals for September 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [Here’s When iOS 17 Is Coming Out](https://lifehacker.com/ios-17-release-date-and-features-1850828707)
