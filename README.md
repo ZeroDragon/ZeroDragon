@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [FDA Finally Admits the Most Popular Oral Decongestant Doesn&#39;t Work](https://lifehacker.com/fda-finally-admits-the-most-popular-oral-decongestant-d-1850835383)
+- [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
+- [Dev.to/JS] [Everything I Learnt From Making a Service Worker Build Plugin](https://dev.to/hedgehog125/everything-i-learnt-from-making-a-service-worker-build-plugin-3n64)
 - [Lifehacker] [The Best Back-to-School Sales You Can Still Get on School Supplies](https://lifehacker.com/the-best-back-to-school-sales-you-can-still-get-on-scho-1850835058)
 - [Dev.to/JS] [Storybook Component Story Format 3: A Side-By-Side Comparison](https://dev.to/mostafakmilly/storybook-component-story-format-3-a-side-by-side-comparison-5g1o)
 - [Dev.to/JS] [How to Ensure High-Quality Frontend Development in Web3 Using the Right Tools and Libraries](https://dev.to/web3andrija/how-to-ensure-high-quality-frontend-development-in-web3-using-the-right-tools-and-libraries-41dd)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [IF e FOR &lpar;JavaScript&rpar;](https://dev.to/douglaswlc/if-e-for-javascript-4i3)
 - [Lifehacker] [How to Download YouTube Videos](https://lifehacker.com/how-to-download-youtube-videos-1850825285)
 - [Lifehacker] [Woot Is Selling Massively Discounted Samsung Refurbished Phones Right Now](https://lifehacker.com/woot-is-selling-massively-discounted-samsung-refurbishe-1850830489)
-- [Dev.to/JS] [How to Delete a Netlify App](https://dev.to/sameerkali/how-to-delete-a-netlify-app-4p7o)
 - [Lifehacker] [These Single-serving Non-dairy Creamers Are Actually Pretty Good](https://lifehacker.com/these-single-serving-non-dairy-creamers-are-actually-pr-1850831773)
 - [Lifehacker] [The Best Music Streaming Service, Based on What Matters to You](https://lifehacker.com/best-music-streaming-services-1850832901)
 - [Lifehacker] [The Logitech G502X Plus Is Good for More Than Just Gaming](https://lifehacker.com/logitech-g502x-plus-review-1850831969)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get FlexJobs for $30 Right Now](https://lifehacker.com/you-can-get-flexjobs-for-30-right-now-1850820300)
 - [Lifehacker] [The Goldtouch Go!2 Is a Great Vertical Keyboard](https://lifehacker.com/goldtouch-go-2-vertical-keyboard-review-1850827189)
 - [Lifehacker] [Ear Candling Doesn&#39;t Work &lpar;and Can Make Your Earwax Worse&rpar;](https://lifehacker.com/does-ear-candling-work-1839927121)
-- [Lifehacker] [You Can Get Free Extended Layovers in Portugal Right Now](https://lifehacker.com/you-can-get-free-extended-layovers-in-portugal-right-no-1850831409)
-- [Lifehacker] [Fry Your Eggs in a Pile of Crumbled Feta](https://lifehacker.com/fry-your-eggs-in-a-pile-of-crumbled-feta-1850831203)
-- [Lifehacker] [The Best Streaming Deals for September 2023](https://lifehacker.com/best-streaming-deals-1850763728)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Free Extended Layovers in Portugal Right Now](https://lifehacker.com/you-can-get-free-extended-layovers-in-portugal-right-no-1850831409)<!-- TECH-POSTS:END -->
 
 ---
 
