@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Patience is the first skill of a Successful Developer](https://dev.to/mephie256/patience-is-the-first-skill-of-a-successful-developer-2jbb)
+- [Dev.to/JS] [Mastering State Management in React Router: Storing and Retrieving State in URLs](https://dev.to/cybermaxi7/mastering-state-management-in-react-router-storing-and-retrieving-state-in-urls-25o4)
+- [Lifehacker] [Apple Added Satellite Roadside Assistance to the iPhone](https://lifehacker.com/apple-added-satellite-roadside-assistance-to-the-iphone-1850835592)
+- [Dev.to/JS] [Basic concepts of Routing and Navigation in Web Applications with Angular](https://dev.to/fredydlemus/basic-concepts-of-routing-and-navigation-in-web-applications-with-angular-42fn)
+- [Lifehacker] [The Most Interesting iPhone 15 Features Most People Missed](https://lifehacker.com/the-most-interesting-iphone-15-features-most-people-mis-1850835003)
 - [Lifehacker] [You Can Try Apple Watch Series 9&#39;s New Gestures Right Now](https://lifehacker.com/you-can-try-apple-watch-series-9s-new-gestures-right-no-1850833719)
 - [Lifehacker] [Why Washing Lettuce Doesn&#39;t Get Rid of E. Coli](https://lifehacker.com/whats-the-best-way-to-wash-my-produce-before-i-eat-it-1698311216)
 - [Lifehacker] [How to Preorder the iPhone 15 for Launch Day](https://lifehacker.com/preorder-iphone-15-1850834405)
@@ -47,9 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TinyMCE Rich Text Editor: Multi-Root vs Inline Editing](https://dev.to/tinymce/tinymce-rich-text-editor-multi-root-vs-inline-editing-7hh)
 - [Dev.to/JS] [Guia de Components - para quem tem pressa!](https://dev.to/aninhapardini/guia-de-components-para-quem-tem-pressa-47n3)
 - [Lifehacker] [The Easiest Ways to Spruce Up an Old Light Fixture](https://lifehacker.com/the-easiest-ways-to-spruce-up-an-old-light-fixture-1850832942)
-- [Dev.to/JS] [Classes e Objetos &lpar;JavaScript&rpar;](https://dev.to/douglaswlc/classes-e-objetos-javascript-5lp)
-- [Dev.to/JS] [Simple Markdown Previewer in ReactJS with Twin Macro and Styled Components.](https://dev.to/mohammadab7/simple-markdown-previewer-in-reactjs-with-twin-macro-and-styled-components-p9k)
-- [Dev.to/JS] [IF e FOR &lpar;JavaScript&rpar;](https://dev.to/douglaswlc/if-e-for-javascript-4i3)
 - [Lifehacker] [How to Download YouTube Videos](https://lifehacker.com/how-to-download-youtube-videos-1850825285)
 - [Lifehacker] [Woot Is Selling Massively Discounted Samsung Refurbished Phones Right Now](https://lifehacker.com/woot-is-selling-massively-discounted-samsung-refurbishe-1850830489)
 - [Lifehacker] [These Single-serving Non-dairy Creamers Are Actually Pretty Good](https://lifehacker.com/these-single-serving-non-dairy-creamers-are-actually-pr-1850831773)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Recycle the Potting Soil From Your Dead Plants](https://lifehacker.com/you-should-recycle-the-potting-soil-from-your-dead-plan-1850830828)
 - [Lifehacker] [The Best Ways to Find a Running Track Near You &lpar;and a Beginner’s Workout to Try&rpar;](https://lifehacker.com/the-best-ways-to-find-a-running-track-near-you-and-a-b-1850830346)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 13](https://lifehacker.com/connections-answer-today-september-13-2023-1850828973)
-- [Lifehacker] [The Best Way to Clean a Granite Countertop](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
-- [Lifehacker] [This Buttermilk Brine Will Turn You Into a Turkey Breast Enthusiast](https://lifehacker.com/this-buttermilk-brine-will-turn-you-into-a-turkey-breas-1830318684)
-- [Lifehacker] [You Can Get FlexJobs for $30 Right Now](https://lifehacker.com/you-can-get-flexjobs-for-30-right-now-1850820300)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Clean a Granite Countertop](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)<!-- TECH-POSTS:END -->
 
 ---
 
