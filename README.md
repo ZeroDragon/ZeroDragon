@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
+- [Dev.to/JS] [TypeScript and the NOT &lpar;!&rpar; operator in the context of an if statement](https://dev.to/moshkh/typescript-and-the-not-operator-in-the-context-of-an-if-statement-4lgi)
+- [Lifehacker] [The ScanWatch Is a Less Distracting Fitness Tracker](https://lifehacker.com/the-scanwatch-is-a-less-distracting-fitness-tracker-1850836025)
+- [Lifehacker] [Don’t Throw Your Old Phone Chargers in the Trash](https://lifehacker.com/recycle-old-phone-chargers-cables-1840925369)
+- [Dev.to/JS] [TxtToHTML - Review](https://dev.to/rabroldan/txttohtml-review-d28)
+- [Lifehacker] [You Can Get This Portable Gaming Monitor for 30% Off Right Now](https://lifehacker.com/you-can-get-this-portable-gaming-monitor-for-30-off-ri-1850839609)
 - [Dev.to/JS] [Episode 23/36: Q&amp;A Session Angular Team, Sololearn Course, Astro 3 &amp; Bun 1](https://dev.to/this-is-angular/episode-2336-qa-session-angular-team-sololearn-course-astro-3-bun-1-6g2)
 - [Dev.to/JS] [Unveiling the JavaScript FormData API: A Hidden Gem](https://dev.to/ervidaslaven/unveiling-the-javascript-formdata-api-a-hidden-gem-1m31)
 - [Lifehacker] [This Digital Tape Measure Can Remember 99 Measurements and Is $99](https://lifehacker.com/this-digital-tape-measure-can-remember-99-measurements-1850826201)
@@ -47,9 +53,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: How the Universe Works](https://lifehacker.com/what-people-are-getting-wrong-this-week-how-the-univer-1850838675)
 - [Dev.to/JS] [Understanding JSX and Its Relationship with React](https://dev.to/sidramaqbool/understanding-jsx-and-its-relationship-with-react-13hb)
 - [Lifehacker] [Update Your Browsers Right Now](https://lifehacker.com/update-your-browsers-right-now-1850838260)
-- [Dev.to/JS] [Handling Cross-Origin Rеsourcе Sharing &lpar;CORS&rpar; in a Sеcurе Way](https://dev.to/segun/handling-cross-origin-riesourcie-sharing-cors-in-a-siecurie-way-4ik4)
 - [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
-- [Dev.to/JS] [Starting with Bun : The Next Big Thing in Javascript](https://dev.to/eneaslari/starting-with-bun-the-next-big-thing-in-javascript-242g)
 - [Lifehacker] [These Live Translation Earbuds Are $157](https://lifehacker.com/these-live-translation-earbuds-are-157-1850826286)
 - [Lifehacker] [Meredith&#39;s Training Diary: Running in Bad Weather](https://lifehacker.com/merediths-training-diary-running-in-bad-weather-1850833536)
 - [Lifehacker] [This Beginner-Friendly Ninja Drone Is $87 Right Now](https://lifehacker.com/this-beginner-friendly-ninja-drone-is-87-right-now-1850832198)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Make Your Own Bubble Tea](https://lifehacker.com/the-best-ways-to-make-your-own-bubble-tea-1850835291)
 - [Crazy Programmer] [5 Applications of Blockchain Technology in Programming](https://www.thecrazyprogrammer.com/2023/09/applications-of-blockchain-technology-in-programming.html)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)
-- [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)
-- [Lifehacker] [You Can Get Two of These 3-in-1 Apple Device Charging Cables for $35 Right Now](https://lifehacker.com/you-can-get-two-of-these-3-in-1-apple-device-charging-c-1850826264)
-- [Lifehacker] [Apple Added Satellite Roadside Assistance to the iPhone](https://lifehacker.com/apple-added-satellite-roadside-assistance-to-the-iphone-1850835592)
-- [Lifehacker] [The Most Interesting iPhone 15 Features Most People Missed](https://lifehacker.com/the-most-interesting-iphone-15-features-most-people-mis-1850835003)
-- [Lifehacker] [You Can Try Apple Watch Series 9&#39;s New Gestures Right Now](https://lifehacker.com/you-can-try-apple-watch-series-9s-new-gestures-right-no-1850833719)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)<!-- TECH-POSTS:END -->
 
 ---
 
