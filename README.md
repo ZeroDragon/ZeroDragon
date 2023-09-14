@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Welcome me plz](https://dev.to/smz01/welcome-me-plz-22c8)
+- [Dev.to/JS] [bun.js - Faster alternative for yarn](https://dev.to/konfydev/bunjs-faster-alternative-for-yarn-4208)
+- [Dev.to/JS] [I built WebComponents-based framework, I am HTML Developer](https://dev.to/oknoorap/i-built-webcomponents-based-framework-i-am-html-developer-2jjb)
 - [Dev.to/JS] [Islands &amp; Server Components &amp; Resumability, Oh My!](https://dev.to/this-is-learning/islands-server-components-resumability-oh-my-319d)
 - [Dev.to/JS] [Rest APIs](https://dev.to/kritikag1997/rest-apis-4836)
 - [Dev.to/JS] [Visit my Portfolio Website.](https://dev.to/abj-hub/visit-my-portfolio-website-4a)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Security implications of cross-origin resource sharing &lpar;CORS&rpar; in Node.js](https://dev.to/snyk/security-implications-of-cross-origin-resource-sharing-cors-in-nodejs-54im)
 - [Dev.to/JS] [How to make an infinite scrolling image loop in css &amp; javascript!](https://dev.to/analyze0/how-to-make-an-infinite-scrolling-image-loop-in-css-javascript-29ic)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)
-- [Dev.to/JS] [JavaScript - Object methods](https://dev.to/zouhair_sahtout/javascript-object-methods-28m5)
-- [Dev.to/JS] [Let&#39;s #LearnLive: Deconstruct an Enterprise-Grade Serverless Architecture running on Azure](https://dev.to/azure/lets-learnlive-deconstruct-an-enterprise-grade-serverless-architecture-running-on-azure-52n8)
-- [Dev.to/JS] [A Deep Dive into Password Reset Flows with Node.js and Express.js](https://dev.to/pmadhav82/a-deep-dive-into-password-reset-flows-with-nodejs-and-expressjs-46g4)
 - [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)
 - [Lifehacker] [You Can Get Two of These 3-in-1 Apple Device Charging Cables for $35 Right Now](https://lifehacker.com/you-can-get-two-of-these-3-in-1-apple-device-charging-c-1850826264)
 - [Lifehacker] [Apple Added Satellite Roadside Assistance to the iPhone](https://lifehacker.com/apple-added-satellite-roadside-assistance-to-the-iphone-1850835592)
