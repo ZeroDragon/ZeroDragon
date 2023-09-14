@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Islands &amp; Server Components &amp; Resumability, Oh My!](https://dev.to/this-is-learning/islands-server-components-resumability-oh-my-319d)
+- [Dev.to/JS] [Rest APIs](https://dev.to/kritikag1997/rest-apis-4836)
+- [Dev.to/JS] [Visit my Portfolio Website.](https://dev.to/abj-hub/visit-my-portfolio-website-4a)
+- [Dev.to/JS] [StopWatt - Reviews, Price, Benefits, Complaints &amp; Warnings?](https://dev.to/wattbuys3231/stopwatt-reviews-price-benefits-complaints-warnings-1hlm)
+- [Dev.to/JS] [Online web code editor](https://dev.to/puneetkumar2010/online-web-code-edtior-2402)
 - [Dev.to/JS] [benefits of paying Municipal Services and Paying Municipal Taxes in Payrup app](https://dev.to/rohith97/benefits-of-paying-municipal-services-and-paying-municipal-taxes-in-payrup-app-2n65)
 - [Dev.to/JS] [ES5 VS ES6 Features](https://dev.to/frontendprofile_code/es5-vs-es6-features-f0m)
 - [Dev.to/JS] [Security implications of cross-origin resource sharing &lpar;CORS&rpar; in Node.js](https://dev.to/snyk/security-implications-of-cross-origin-resource-sharing-cors-in-nodejs-54im)
@@ -35,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s #LearnLive: Deconstruct an Enterprise-Grade Serverless Architecture running on Azure](https://dev.to/azure/lets-learnlive-deconstruct-an-enterprise-grade-serverless-architecture-running-on-azure-52n8)
 - [Dev.to/JS] [A Deep Dive into Password Reset Flows with Node.js and Express.js](https://dev.to/pmadhav82/a-deep-dive-into-password-reset-flows-with-nodejs-and-expressjs-46g4)
 - [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)
-- [Dev.to/JS] [CSS flex and grid using Cssbattles challange.](https://dev.to/emmyjaff/css-flex-and-grid-using-cssbattles-challange-110)
 - [Lifehacker] [You Can Get Two of These 3-in-1 Apple Device Charging Cables for $35 Right Now](https://lifehacker.com/you-can-get-two-of-these-3-in-1-apple-device-charging-c-1850826264)
-- [Dev.to/JS] [Patience is the first skill of a Successful Developer](https://dev.to/mephie256/patience-is-the-first-skill-of-a-successful-developer-2jbb)
-- [Dev.to/JS] [JavaScript Objects](https://dev.to/zouhair_sahtout/javascript-objects-3413)
-- [Dev.to/JS] [Mastering State Management in React Router: Storing and Retrieving State in URLs](https://dev.to/cybermaxi7/mastering-state-management-in-react-router-storing-and-retrieving-state-in-urls-25o4)
 - [Lifehacker] [Apple Added Satellite Roadside Assistance to the iPhone](https://lifehacker.com/apple-added-satellite-roadside-assistance-to-the-iphone-1850835592)
-- [Dev.to/JS] [Basic concepts of Routing and Navigation in Web Applications with Angular](https://dev.to/fredydlemus/basic-concepts-of-routing-and-navigation-in-web-applications-with-angular-42fn)
 - [Lifehacker] [The Most Interesting iPhone 15 Features Most People Missed](https://lifehacker.com/the-most-interesting-iphone-15-features-most-people-mis-1850835003)
 - [Lifehacker] [You Can Try Apple Watch Series 9&#39;s New Gestures Right Now](https://lifehacker.com/you-can-try-apple-watch-series-9s-new-gestures-right-no-1850833719)
 - [Lifehacker] [Why Washing Lettuce Doesn&#39;t Get Rid of E. Coli](https://lifehacker.com/whats-the-best-way-to-wash-my-produce-before-i-eat-it-1698311216)
