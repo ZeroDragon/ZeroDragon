@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Live Translation Earbuds Are $157](https://lifehacker.com/these-live-translation-earbuds-are-157-1850826286)
+- [Lifehacker] [Meredith&#39;s Training Diary: Running in Bad Weather](https://lifehacker.com/merediths-training-diary-running-in-bad-weather-1850833536)
+- [Lifehacker] [This Beginner-Friendly Ninja Drone Is $87 Right Now](https://lifehacker.com/this-beginner-friendly-ninja-drone-is-87-right-now-1850832198)
 - [Dev.to/JS] [Array Methods](https://dev.to/tashigyatso45/array-methods-2md1)
 - [Lifehacker] [How to Help Your Kids Build Self-Awareness](https://lifehacker.com/how-to-help-your-kids-build-self-awareness-1850828389)
 - [Dev.to/JS] [The 5 principles of Unit Testing](https://dev.to/one-beyond/the-5-principles-of-unit-testing-1p5f)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Two Easiest Ways to Put on a Duvet Cover](https://lifehacker.com/the-two-easiest-ways-to-get-a-duvet-cover-on-1850071716)
 - [Lifehacker] [Use the THIEVES Technique to Remember What You Read](https://lifehacker.com/use-the-thieves-technique-to-remember-what-you-read-1850834800)
 - [Lifehacker] [The Easiest Ways to Spruce Up an Old Light Fixture](https://lifehacker.com/the-easiest-ways-to-spruce-up-an-old-light-fixture-1850832942)
-- [Lifehacker] [How to Download YouTube Videos](https://lifehacker.com/how-to-download-youtube-videos-1850825285)
-- [Lifehacker] [Woot Is Selling Massively Discounted Samsung Refurbished Phones Right Now](https://lifehacker.com/woot-is-selling-massively-discounted-samsung-refurbishe-1850830489)
-- [Lifehacker] [These Single-serving Non-dairy Creamers Are Actually Pretty Good](https://lifehacker.com/these-single-serving-non-dairy-creamers-are-actually-pr-1850831773)
-- [Lifehacker] [The Best Music Streaming Service, Based on What Matters to You](https://lifehacker.com/best-music-streaming-services-1850832901)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Download YouTube Videos](https://lifehacker.com/how-to-download-youtube-videos-1850825285)<!-- TECH-POSTS:END -->
 
 ---
 
