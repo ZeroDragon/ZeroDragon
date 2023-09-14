@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stack These Three Deals to Save More on the Adidas Fall Sale](https://lifehacker.com/stack-these-three-deals-to-save-more-on-the-adidas-fall-1850839484)
+- [Dev.to/JS] [Leetcode #1299 - Replace Elements with Greatest Element on Right Side](https://dev.to/irinakramer/leetcode-1299-replace-elements-with-greatest-element-on-right-side-5b58)
+- [Lifehacker] [How to Clean Grout the Right Way](https://lifehacker.com/how-to-clean-grout-the-right-way-1850839471)
+- [Lifehacker] [The Fail-Proof Way to Make a Lattice Pie Crust](https://lifehacker.com/easy-lattice-pie-crust-1848209585)
+- [Lifehacker] [The Biggest Differences Between the iPhone 15/15 Plus and iPhone 14/14 Plus](https://lifehacker.com/iphone-14-plus-versus-iphone-15-plus-1850838772)
 - [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 2&rpar;](https://dev.to/louislazaris/web-dev-tools-of-the-week-no-2-40mm)
 - [Dev.to/JS] [Pagination in Django](https://dev.to/vincod/pagination-in-django-33bn)
 - [Lifehacker] [The Most Common Home Repair Mistakes Owners Make &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-home-repair-mistakes-owners-make-and-h-1850838869)
@@ -47,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Beginner-Friendly Ninja Drone Is $87 Right Now](https://lifehacker.com/this-beginner-friendly-ninja-drone-is-87-right-now-1850832198)
 - [Dev.to/JS] [Array Methods](https://dev.to/tashigyatso45/array-methods-2md1)
 - [Lifehacker] [How to Help Your Kids Build Self-Awareness](https://lifehacker.com/how-to-help-your-kids-build-self-awareness-1850828389)
-- [Dev.to/JS] [The 5 principles of Unit Testing](https://dev.to/one-beyond/the-5-principles-of-unit-testing-1p5f)
 - [Lifehacker] [It&#39;s Time to Stop Watering Your Garden This Fall](https://lifehacker.com/its-time-to-stop-watering-your-garden-this-fall-1850837057)
 - [Lifehacker] [The Easiest Way to Train Any Kid to Be More Minimalist](https://lifehacker.com/the-easiest-way-to-train-any-kid-to-be-more-minimalist-1850836199)
 - [Lifehacker] [These Colorful Annuals Bloom in the Fall](https://lifehacker.com/best-flowering-fall-annuals-1850837088)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Interesting iPhone 15 Features Most People Missed](https://lifehacker.com/the-most-interesting-iphone-15-features-most-people-mis-1850835003)
 - [Lifehacker] [You Can Try Apple Watch Series 9&#39;s New Gestures Right Now](https://lifehacker.com/you-can-try-apple-watch-series-9s-new-gestures-right-no-1850833719)
 - [Lifehacker] [Why Washing Lettuce Doesn&#39;t Get Rid of E. Coli](https://lifehacker.com/whats-the-best-way-to-wash-my-produce-before-i-eat-it-1698311216)
-- [Lifehacker] [How to Preorder the iPhone 15 for Launch Day](https://lifehacker.com/preorder-iphone-15-1850834405)
-- [Lifehacker] [FDA Finally Admits the Most Popular Oral Decongestant Doesn&#39;t Work](https://lifehacker.com/fda-finally-admits-the-most-popular-oral-decongestant-d-1850835383)
-- [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
-- [Lifehacker] [The Best Back-to-School Sales You Can Still Get on School Supplies](https://lifehacker.com/the-best-back-to-school-sales-you-can-still-get-on-scho-1850835058)
-- [Lifehacker] [iPhones Are Getting New Ringtones for the First Time in a Decade](https://lifehacker.com/new-iphone-ringtones-in-ios-17-1850835046)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Preorder the iPhone 15 for Launch Day](https://lifehacker.com/preorder-iphone-15-1850834405)<!-- TECH-POSTS:END -->
 
 ---
 
