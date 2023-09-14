@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Benchmarking performance gains from Next.js React Server Components](https://dev.to/rm-rf-poet/benchmarking-performance-gains-from-nextjs-react-server-components-2c)
 - [Dev.to/JS] [Welcome me plz](https://dev.to/smz01/welcome-me-plz-22c8)
 - [Dev.to/JS] [bun.js - Faster alternative for yarn](https://dev.to/konfydev/bunjs-faster-alternative-for-yarn-4208)
 - [Dev.to/JS] [I built WebComponents-based framework, I am HTML Developer](https://dev.to/oknoorap/i-built-webcomponents-based-framework-i-am-html-developer-2jjb)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [benefits of paying Municipal Services and Paying Municipal Taxes in Payrup app](https://dev.to/rohith97/benefits-of-paying-municipal-services-and-paying-municipal-taxes-in-payrup-app-2n65)
 - [Dev.to/JS] [ES5 VS ES6 Features](https://dev.to/frontendprofile_code/es5-vs-es6-features-f0m)
 - [Dev.to/JS] [Security implications of cross-origin resource sharing &lpar;CORS&rpar; in Node.js](https://dev.to/snyk/security-implications-of-cross-origin-resource-sharing-cors-in-nodejs-54im)
-- [Dev.to/JS] [How to make an infinite scrolling image loop in css &amp; javascript!](https://dev.to/analyze0/how-to-make-an-infinite-scrolling-image-loop-in-css-javascript-29ic)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)
 - [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)
 - [Lifehacker] [You Can Get Two of These 3-in-1 Apple Device Charging Cables for $35 Right Now](https://lifehacker.com/you-can-get-two-of-these-3-in-1-apple-device-charging-c-1850826264)
