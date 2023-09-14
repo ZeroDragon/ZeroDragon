@@ -26,11 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make an infinite scrolling image loop in css &amp; javascript!](https://dev.to/analyze0/how-to-make-an-infinite-scrolling-image-loop-in-css-javascript-29ic)
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)
+- [Dev.to/JS] [JavaScript - Object methods](https://dev.to/zouhair_sahtout/javascript-object-methods-28m5)
 - [Dev.to/JS] [Let&#39;s #LearnLive: Deconstruct an Enterprise-Grade Serverless Architecture running on Azure](https://dev.to/azure/lets-learnlive-deconstruct-an-enterprise-grade-serverless-architecture-running-on-azure-52n8)
 - [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)
 - [Dev.to/JS] [CSS flex and grid using Cssbattles challange.](https://dev.to/emmyjaff/css-flex-and-grid-using-cssbattles-challange-110)
 - [Lifehacker] [You Can Get Two of These 3-in-1 Apple Device Charging Cables for $35 Right Now](https://lifehacker.com/you-can-get-two-of-these-3-in-1-apple-device-charging-c-1850826264)
 - [Dev.to/JS] [Patience is the first skill of a Successful Developer](https://dev.to/mephie256/patience-is-the-first-skill-of-a-successful-developer-2jbb)
+- [Dev.to/JS] [JavaScript Objects](https://dev.to/zouhair_sahtout/javascript-objects-3413)
 - [Dev.to/JS] [Mastering State Management in React Router: Storing and Retrieving State in URLs](https://dev.to/cybermaxi7/mastering-state-management-in-react-router-storing-and-retrieving-state-in-urls-25o4)
 - [Lifehacker] [Apple Added Satellite Roadside Assistance to the iPhone](https://lifehacker.com/apple-added-satellite-roadside-assistance-to-the-iphone-1850835592)
 - [Dev.to/JS] [Basic concepts of Routing and Navigation in Web Applications with Angular](https://dev.to/fredydlemus/basic-concepts-of-routing-and-navigation-in-web-applications-with-angular-42fn)
@@ -46,13 +50,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Ensure High-Quality Frontend Development in Web3 Using the Right Tools and Libraries](https://dev.to/web3andrija/how-to-ensure-high-quality-frontend-development-in-web3-using-the-right-tools-and-libraries-41dd)
 - [Dev.to/JS] [React Native Error: A navigator cannot contain multiple &#39;Screen&#39; components with the same name ...](https://dev.to/emmyjaff/react-native-error-a-navigator-cannot-contain-multiple-screen-components-with-the-same-name--e7m)
 - [Lifehacker] [iPhones Are Getting New Ringtones for the First Time in a Decade](https://lifehacker.com/new-iphone-ringtones-in-ios-17-1850835046)
-- [Dev.to/JS] [Javascript with Atomic,BigUint64Array, Boolean, DataView, decodeURI&lpar;&rpar;, encodeURI&lpar;&rpar;](https://dev.to/syedmuhammadaliraza/javascript-with-atomicbiguint64array-boolean-dataview-decodeuri-encodeuri-2ph1)
 - [Lifehacker] [You Can Get Infinite Credits From This &#39;Starfield&#39; Glitch](https://lifehacker.com/you-can-get-infinite-credits-from-this-starfield-glitch-1850835248)
-- [Dev.to/JS] [Create a JavaScript Tool to Generate Acronym from User Input](https://dev.to/codewithshan/create-a-javascript-tool-to-generate-acronym-from-user-input-2ib7)
 - [Lifehacker] [How to Know When an Investment Fee Is Too High](https://lifehacker.com/how-to-know-when-an-investment-fee-is-too-high-1850805365)
 - [Lifehacker] [The Two Easiest Ways to Put on a Duvet Cover](https://lifehacker.com/the-two-easiest-ways-to-get-a-duvet-cover-on-1850071716)
 - [Lifehacker] [Use the THIEVES Technique to Remember What You Read](https://lifehacker.com/use-the-thieves-technique-to-remember-what-you-read-1850834800)
-- [Dev.to/JS] [Dom Manipulation in JavaScript for Beginners](https://dev.to/onlineittutstutorials/dom-manipulation-in-javascript-for-beginners-1l79)
 - [Lifehacker] [The Easiest Ways to Spruce Up an Old Light Fixture](https://lifehacker.com/the-easiest-ways-to-spruce-up-an-old-light-fixture-1850832942)
 - [Lifehacker] [How to Download YouTube Videos](https://lifehacker.com/how-to-download-youtube-videos-1850825285)
 - [Lifehacker] [Woot Is Selling Massively Discounted Samsung Refurbished Phones Right Now](https://lifehacker.com/woot-is-selling-massively-discounted-samsung-refurbishe-1850830489)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
 - [Lifehacker] [You Can Send Your Name to Mars](https://lifehacker.com/you-can-send-your-name-to-mars-1850831943)
 - [Lifehacker] [These Miniature Cleaning Products Are Perfect for Small Apartments](https://lifehacker.com/these-miniature-cleaning-products-are-perfect-for-small-1850831550)
-- [Lifehacker] [You Should Recycle the Potting Soil From Your Dead Plants](https://lifehacker.com/you-should-recycle-the-potting-soil-from-your-dead-plan-1850830828)
-- [Lifehacker] [The Best Ways to Find a Running Track Near You &lpar;and a Beginner’s Workout to Try&rpar;](https://lifehacker.com/the-best-ways-to-find-a-running-track-near-you-and-a-b-1850830346)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Recycle the Potting Soil From Your Dead Plants](https://lifehacker.com/you-should-recycle-the-potting-soil-from-your-dead-plan-1850830828)<!-- TECH-POSTS:END -->
 
 ---
 
