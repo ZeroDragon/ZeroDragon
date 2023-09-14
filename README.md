@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [benefits of paying Municipal Services and Paying Municipal Taxes in Payrup app](https://dev.to/rohith97/benefits-of-paying-municipal-services-and-paying-municipal-taxes-in-payrup-app-2n65)
+- [Dev.to/JS] [ES5 VS ES6 Features](https://dev.to/frontendprofile_code/es5-vs-es6-features-f0m)
 - [Dev.to/JS] [Security implications of cross-origin resource sharing &lpar;CORS&rpar; in Node.js](https://dev.to/snyk/security-implications-of-cross-origin-resource-sharing-cors-in-nodejs-54im)
 - [Dev.to/JS] [How to make an infinite scrolling image loop in css &amp; javascript!](https://dev.to/analyze0/how-to-make-an-infinite-scrolling-image-loop-in-css-javascript-29ic)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)
@@ -46,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Preorder the iPhone 15 for Launch Day](https://lifehacker.com/preorder-iphone-15-1850834405)
 - [Lifehacker] [FDA Finally Admits the Most Popular Oral Decongestant Doesn&#39;t Work](https://lifehacker.com/fda-finally-admits-the-most-popular-oral-decongestant-d-1850835383)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
-- [Dev.to/JS] [Everything I Learnt From Making a Service Worker Build Plugin](https://dev.to/hedgehog125/everything-i-learnt-from-making-a-service-worker-build-plugin-3n64)
 - [Lifehacker] [The Best Back-to-School Sales You Can Still Get on School Supplies](https://lifehacker.com/the-best-back-to-school-sales-you-can-still-get-on-scho-1850835058)
-- [Dev.to/JS] [Storybook Component Story Format 3: A Side-By-Side Comparison](https://dev.to/mostafakmilly/storybook-component-story-format-3-a-side-by-side-comparison-5g1o)
 - [Lifehacker] [iPhones Are Getting New Ringtones for the First Time in a Decade](https://lifehacker.com/new-iphone-ringtones-in-ios-17-1850835046)
 - [Lifehacker] [You Can Get Infinite Credits From This &#39;Starfield&#39; Glitch](https://lifehacker.com/you-can-get-infinite-credits-from-this-starfield-glitch-1850835248)
 - [Lifehacker] [How to Know When an Investment Fee Is Too High](https://lifehacker.com/how-to-know-when-an-investment-fee-is-too-high-1850805365)
