@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 2&rpar;](https://dev.to/louislazaris/web-dev-tools-of-the-week-no-2-40mm)
+- [Dev.to/JS] [Pagination in Django](https://dev.to/vincod/pagination-in-django-33bn)
+- [Lifehacker] [The Most Common Home Repair Mistakes Owners Make &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-home-repair-mistakes-owners-make-and-h-1850838869)
+- [Lifehacker] [Use These Fonts to Help Remember What You Study](https://lifehacker.com/use-these-fonts-to-help-remember-what-you-study-1850838925)
 - [Dev.to/JS] [Mastering API Requests in React.js: Examples, Explanations, and Use Cases](https://dev.to/anii1429/mastering-api-requests-in-reactjs-examples-explanations-and-use-cases-4hkg)
 - [Dev.to/JS] [Introducing TxtToHTML Command Line Tool: Transform Your Text Files into HTML](https://dev.to/bhmistry/introducing-txttohtml-command-line-tool-transform-your-text-files-into-html-5elc)
 - [Lifehacker] [Here’s How Much Your Old iPhone and Apple Watch Are Worth](https://lifehacker.com/here-s-how-much-your-old-iphone-and-apple-watch-are-wor-1850838545)
@@ -45,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Help Your Kids Build Self-Awareness](https://lifehacker.com/how-to-help-your-kids-build-self-awareness-1850828389)
 - [Dev.to/JS] [The 5 principles of Unit Testing](https://dev.to/one-beyond/the-5-principles-of-unit-testing-1p5f)
 - [Lifehacker] [It&#39;s Time to Stop Watering Your Garden This Fall](https://lifehacker.com/its-time-to-stop-watering-your-garden-this-fall-1850837057)
-- [Dev.to/JS] [Top 5 JavaScript Gantt chart libraries](https://dev.to/bryntum/top-5-javascript-gantt-chart-libraries-2b6a)
-- [Dev.to/JS] [Media Queries and Responsive Design](https://dev.to/rashidshamloo/media-queries-and-responsive-design-4efa)
 - [Lifehacker] [The Easiest Way to Train Any Kid to Be More Minimalist](https://lifehacker.com/the-easiest-way-to-train-any-kid-to-be-more-minimalist-1850836199)
 - [Lifehacker] [These Colorful Annuals Bloom in the Fall](https://lifehacker.com/best-flowering-fall-annuals-1850837088)
 - [Lifehacker] [You Can Transfer Music Between Spotify and Apple Music](https://lifehacker.com/you-can-transfer-music-between-spotify-and-apple-music-1850835932)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [FDA Finally Admits the Most Popular Oral Decongestant Doesn&#39;t Work](https://lifehacker.com/fda-finally-admits-the-most-popular-oral-decongestant-d-1850835383)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Lifehacker] [The Best Back-to-School Sales You Can Still Get on School Supplies](https://lifehacker.com/the-best-back-to-school-sales-you-can-still-get-on-scho-1850835058)
-- [Lifehacker] [iPhones Are Getting New Ringtones for the First Time in a Decade](https://lifehacker.com/new-iphone-ringtones-in-ios-17-1850835046)
-- [Lifehacker] [You Can Get Infinite Credits From This &#39;Starfield&#39; Glitch](https://lifehacker.com/you-can-get-infinite-credits-from-this-starfield-glitch-1850835248)
-- [Lifehacker] [How to Know When an Investment Fee Is Too High](https://lifehacker.com/how-to-know-when-an-investment-fee-is-too-high-1850805365)<!-- TECH-POSTS:END -->
+- [Lifehacker] [iPhones Are Getting New Ringtones for the First Time in a Decade](https://lifehacker.com/new-iphone-ringtones-in-ios-17-1850835046)<!-- TECH-POSTS:END -->
 
 ---
 
