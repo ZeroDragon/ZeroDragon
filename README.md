@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Translation HTTP Request Stuck in Pending Status with ngx-translate/http-loader](https://dev.to/vijaybabu/translation-http-request-stuck-in-pending-status-with-ngx-translatehttp-loader-2o55)
+- [Dev.to/JS] [⚡️6 Most Popular Vue.js UI Component libraries &lpar;Vue 3&rpar; in 2023 🔥](https://dev.to/ansonch/6-most-popular-vuejs-ui-component-libraries-vue-3-in-2023-5ah5)
+- [Lifehacker] [You Can Transfer Music Between Spotify and Apple Music](https://lifehacker.com/you-can-transfer-music-between-spotify-and-apple-music-1850835932)
+- [Dev.to/JS] [Sending File With UseFetch Nuxt3 To Laravel](https://dev.to/sezohessen/sending-file-with-usefetch-nuxt3-to-laravel-1pko)
 - [Lifehacker] [The Best Ways to Make Your Own Bubble Tea](https://lifehacker.com/the-best-ways-to-make-your-own-bubble-tea-1850835291)
 - [Dev.to/JS] [Microservices: Unleashing the Power of Modular Software Architecture](https://dev.to/documatic/microservices-unleashing-the-power-of-modular-software-architecture-23h6)
 - [Dev.to/JS] [Starting project NAPL - a new free web-based game engine](https://dev.to/jacklehamster/starting-project-napl-a-new-free-web-based-game-engine-3ado)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML5 and CSS3: The Key to Your Solar System&#39;s Success 🛸🌎 🌓•　. •🚀 ★　*　 　🛰](https://dev.to/dailywebdesign/html5-and-css3-the-key-to-your-solar-systems-success-deg-deg-deg-deg-35ge)
 - [Dev.to/JS] [HTML, CSS, and JS: Transform Your Cursor into a Bee! 🐝🚀](https://dev.to/dailywebdesign/html-css-and-js-transform-your-cursor-into-a-bee-bdg)
 - [Dev.to/JS] [HTML5+CSS3 Small Example: 3D Domino Character Card with Title](https://dev.to/dailywebdesign/html5css3-small-example-3d-domino-character-card-with-title-36a6)
-- [Dev.to/JS] [What&#39;s new in Novu 0.19?](https://dev.to/novu/whats-new-in-novu-019-1pcc)
-- [Dev.to/JS] [Understanding Express.js Router &lpar;Node.js&rpar;: A Comprehensive Guide](https://dev.to/mrrishimeena/understanding-expressjs-router-nodejs-a-comprehensive-guide-59o8)
-- [Dev.to/JS] [Bun 1.0: A No-Nonsense Look at the New Kid on the JavaScript Block?](https://dev.to/dsfx3d/bun-10-a-no-nonsense-look-at-the-new-kid-on-the-javascript-block-184b)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)
 - [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)
 - [Lifehacker] [You Can Get Two of These 3-in-1 Apple Device Charging Cables for $35 Right Now](https://lifehacker.com/you-can-get-two-of-these-3-in-1-apple-device-charging-c-1850826264)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Logitech G502X Plus Is Good for More Than Just Gaming](https://lifehacker.com/logitech-g502x-plus-review-1850831969)
 - [Lifehacker] [You Can Totally Marinate Meat in Flavored Yogurt](https://lifehacker.com/you-can-totally-marinate-meat-in-flavored-yogurt-1850832296)
 - [Lifehacker] [What Apple’s Switch to USB-C Really Means for iPhone Users](https://lifehacker.com/what-apple-s-switch-to-usb-c-really-means-for-iphone-us-1850832175)
-- [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
-- [Lifehacker] [You Can Send Your Name to Mars](https://lifehacker.com/you-can-send-your-name-to-mars-1850831943)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)<!-- TECH-POSTS:END -->
 
 ---
 
