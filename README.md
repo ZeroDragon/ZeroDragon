@@ -26,10 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Security implications of cross-origin resource sharing &lpar;CORS&rpar; in Node.js](https://dev.to/snyk/security-implications-of-cross-origin-resource-sharing-cors-in-nodejs-54im)
 - [Dev.to/JS] [How to make an infinite scrolling image loop in css &amp; javascript!](https://dev.to/analyze0/how-to-make-an-infinite-scrolling-image-loop-in-css-javascript-29ic)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)
 - [Dev.to/JS] [JavaScript - Object methods](https://dev.to/zouhair_sahtout/javascript-object-methods-28m5)
 - [Dev.to/JS] [Let&#39;s #LearnLive: Deconstruct an Enterprise-Grade Serverless Architecture running on Azure](https://dev.to/azure/lets-learnlive-deconstruct-an-enterprise-grade-serverless-architecture-running-on-azure-52n8)
+- [Dev.to/JS] [A Deep Dive into Password Reset Flows with Node.js and Express.js](https://dev.to/pmadhav82/a-deep-dive-into-password-reset-flows-with-nodejs-and-expressjs-46g4)
 - [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)
 - [Dev.to/JS] [CSS flex and grid using Cssbattles challange.](https://dev.to/emmyjaff/css-flex-and-grid-using-cssbattles-challange-110)
 - [Lifehacker] [You Can Get Two of These 3-in-1 Apple Device Charging Cables for $35 Right Now](https://lifehacker.com/you-can-get-two-of-these-3-in-1-apple-device-charging-c-1850826264)
@@ -47,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Everything I Learnt From Making a Service Worker Build Plugin](https://dev.to/hedgehog125/everything-i-learnt-from-making-a-service-worker-build-plugin-3n64)
 - [Lifehacker] [The Best Back-to-School Sales You Can Still Get on School Supplies](https://lifehacker.com/the-best-back-to-school-sales-you-can-still-get-on-scho-1850835058)
 - [Dev.to/JS] [Storybook Component Story Format 3: A Side-By-Side Comparison](https://dev.to/mostafakmilly/storybook-component-story-format-3-a-side-by-side-comparison-5g1o)
-- [Dev.to/JS] [How to Ensure High-Quality Frontend Development in Web3 Using the Right Tools and Libraries](https://dev.to/web3andrija/how-to-ensure-high-quality-frontend-development-in-web3-using-the-right-tools-and-libraries-41dd)
-- [Dev.to/JS] [React Native Error: A navigator cannot contain multiple &#39;Screen&#39; components with the same name ...](https://dev.to/emmyjaff/react-native-error-a-navigator-cannot-contain-multiple-screen-components-with-the-same-name--e7m)
 - [Lifehacker] [iPhones Are Getting New Ringtones for the First Time in a Decade](https://lifehacker.com/new-iphone-ringtones-in-ios-17-1850835046)
 - [Lifehacker] [You Can Get Infinite Credits From This &#39;Starfield&#39; Glitch](https://lifehacker.com/you-can-get-infinite-credits-from-this-starfield-glitch-1850835248)
 - [Lifehacker] [How to Know When an Investment Fee Is Too High](https://lifehacker.com/how-to-know-when-an-investment-fee-is-too-high-1850805365)
