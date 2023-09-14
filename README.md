@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
 - [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
 - [Dev.to/JS] [TypeScript and the NOT &lpar;!&rpar; operator in the context of an if statement](https://dev.to/moshkh/typescript-and-the-not-operator-in-the-context-of-an-if-statement-4lgi)
 - [Lifehacker] [The ScanWatch Is a Less Distracting Fitness Tracker](https://lifehacker.com/the-scanwatch-is-a-less-distracting-fitness-tracker-1850836025)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Transfer Music Between Spotify and Apple Music](https://lifehacker.com/you-can-transfer-music-between-spotify-and-apple-music-1850835932)
 - [Lifehacker] [The Best Ways to Make Your Own Bubble Tea](https://lifehacker.com/the-best-ways-to-make-your-own-bubble-tea-1850835291)
 - [Crazy Programmer] [5 Applications of Blockchain Technology in Programming](https://www.thecrazyprogrammer.com/2023/09/applications-of-blockchain-technology-in-programming.html)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)
-- [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)<!-- TECH-POSTS:END -->
 
 ---
 
