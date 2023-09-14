@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Starting project NAPL - a new free web-based game engine](https://dev.to/jacklehamster/starting-project-napl-a-new-free-web-based-game-engine-3ado)
+- [Dev.to/JS] [Crafting Your ERP Implementation Dream Team: Roles, Responsibilities, and Success Strategies](https://dev.to/beula/crafting-your-erp-implementation-dream-team-roles-responsibilities-and-success-strategies-3ac9)
+- [Crazy Programmer] [5 Applications of Blockchain Technology in Programming](https://www.thecrazyprogrammer.com/2023/09/applications-of-blockchain-technology-in-programming.html)
+- [Dev.to/JS] [HTML &amp; CSS: Crafting a Dynamic Login Interface changing background [Tutorial] 🔒🚀](https://dev.to/dailywebdesign/html-css-crafting-a-dynamic-login-interface-changing-background-tutorial-deb)
+- [Dev.to/JS] [Master HTML5 and CSS3: Create an Eye-Catching Navigation Bar with Hover Hints 🧭🚀](https://dev.to/dailywebdesign/master-html5-and-css3-create-an-eye-catching-navigation-bar-with-hover-hints-4o6n)
+- [Dev.to/JS] [Unlock the Magic: How to Create Sliding Switching Registration Login Form Interface 😀🔐](https://dev.to/dailywebdesign/unlock-the-magic-how-to-create-sliding-switching-registration-login-form-interface-1daf)
+- [Dev.to/JS] [HTML5 and CSS3: The Key to Your Solar System&#39;s Success 🛸🌎 🌓•　. •🚀 ★　*　 　🛰](https://dev.to/dailywebdesign/html5-and-css3-the-key-to-your-solar-systems-success-deg-deg-deg-deg-35ge)
+- [Dev.to/JS] [HTML, CSS, and JS: Transform Your Cursor into a Bee! 🐝🚀](https://dev.to/dailywebdesign/html-css-and-js-transform-your-cursor-into-a-bee-bdg)
+- [Dev.to/JS] [HTML5+CSS3 Small Example: 3D Domino Character Card with Title](https://dev.to/dailywebdesign/html5css3-small-example-3d-domino-character-card-with-title-36a6)
+- [Dev.to/JS] [What&#39;s new in Novu 0.19?](https://dev.to/novu/whats-new-in-novu-019-1pcc)
+- [Dev.to/JS] [Understanding Express.js Router &lpar;Node.js&rpar;: A Comprehensive Guide](https://dev.to/mrrishimeena/understanding-expressjs-router-nodejs-a-comprehensive-guide-59o8)
+- [Dev.to/JS] [Bun 1.0: A No-Nonsense Look at the New Kid on the JavaScript Block?](https://dev.to/dsfx3d/bun-10-a-no-nonsense-look-at-the-new-kid-on-the-javascript-block-184b)
 - [Dev.to/JS] [Prevent app crashes with ExpressJS](https://dev.to/hidaytrahman/prevent-app-crashes-with-expressjs-545j)
-- [Dev.to/JS] [Convert MJML to HTML Using PHP](https://dev.to/tehczpad/convert-mjml-to-html-using-php-3kdo)
-- [Dev.to/JS] [DOM Manipulation with JavaScript: Bring Your Web Page to Life!](https://dev.to/shubhankarval/dom-manipulation-with-javascript-bring-your-web-page-to-life-52n2)
-- [Dev.to/JS] [Benchmarking performance gains from Next.js React Server Components](https://dev.to/rm-rf-poet/benchmarking-performance-gains-from-nextjs-react-server-components-2c)
-- [Dev.to/JS] [Welcome me plz](https://dev.to/smz01/welcome-me-plz-22c8)
-- [Dev.to/JS] [bun.js - Faster alternative for yarn](https://dev.to/konfydev/bunjs-faster-alternative-for-yarn-4208)
-- [Dev.to/JS] [I built WebComponents-based framework, I am HTML Developer](https://dev.to/oknoorap/i-built-webcomponents-based-framework-i-am-html-developer-2jjb)
-- [Dev.to/JS] [Islands &amp; Server Components &amp; Resumability, Oh My!](https://dev.to/this-is-learning/islands-server-components-resumability-oh-my-319d)
-- [Dev.to/JS] [Rest APIs](https://dev.to/kritikag1997/rest-apis-4836)
-- [Dev.to/JS] [Visit my Portfolio Website.](https://dev.to/abj-hub/visit-my-portfolio-website-4a)
-- [Dev.to/JS] [StopWatt - Reviews, Price, Benefits, Complaints &amp; Warnings?](https://dev.to/wattbuys3231/stopwatt-reviews-price-benefits-complaints-warnings-1hlm)
-- [Dev.to/JS] [Online web code editor](https://dev.to/puneetkumar2010/online-web-code-edtior-2402)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)
 - [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)
 - [Lifehacker] [You Can Get Two of These 3-in-1 Apple Device Charging Cables for $35 Right Now](https://lifehacker.com/you-can-get-two-of-these-3-in-1-apple-device-charging-c-1850826264)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Apple’s Switch to USB-C Really Means for iPhone Users](https://lifehacker.com/what-apple-s-switch-to-usb-c-really-means-for-iphone-us-1850832175)
 - [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
 - [Lifehacker] [You Can Send Your Name to Mars](https://lifehacker.com/you-can-send-your-name-to-mars-1850831943)
-- [Lifehacker] [These Miniature Cleaning Products Are Perfect for Small Apartments](https://lifehacker.com/these-miniature-cleaning-products-are-perfect-for-small-1850831550)
-- [Lifehacker] [You Should Recycle the Potting Soil From Your Dead Plants](https://lifehacker.com/you-should-recycle-the-potting-soil-from-your-dead-plan-1850830828)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Miniature Cleaning Products Are Perfect for Small Apartments](https://lifehacker.com/these-miniature-cleaning-products-are-perfect-for-small-1850831550)<!-- TECH-POSTS:END -->
 
 ---
 
