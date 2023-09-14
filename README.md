@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Make Your Own Bubble Tea](https://lifehacker.com/the-best-ways-to-make-your-own-bubble-tea-1850835291)
+- [Dev.to/JS] [Microservices: Unleashing the Power of Modular Software Architecture](https://dev.to/documatic/microservices-unleashing-the-power-of-modular-software-architecture-23h6)
 - [Dev.to/JS] [Starting project NAPL - a new free web-based game engine](https://dev.to/jacklehamster/starting-project-napl-a-new-free-web-based-game-engine-3ado)
 - [Dev.to/JS] [Crafting Your ERP Implementation Dream Team: Roles, Responsibilities, and Success Strategies](https://dev.to/beula/crafting-your-erp-implementation-dream-team-roles-responsibilities-and-success-strategies-3ac9)
 - [Crazy Programmer] [5 Applications of Blockchain Technology in Programming](https://www.thecrazyprogrammer.com/2023/09/applications-of-blockchain-technology-in-programming.html)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s new in Novu 0.19?](https://dev.to/novu/whats-new-in-novu-019-1pcc)
 - [Dev.to/JS] [Understanding Express.js Router &lpar;Node.js&rpar;: A Comprehensive Guide](https://dev.to/mrrishimeena/understanding-expressjs-router-nodejs-a-comprehensive-guide-59o8)
 - [Dev.to/JS] [Bun 1.0: A No-Nonsense Look at the New Kid on the JavaScript Block?](https://dev.to/dsfx3d/bun-10-a-no-nonsense-look-at-the-new-kid-on-the-javascript-block-184b)
-- [Dev.to/JS] [Prevent app crashes with ExpressJS](https://dev.to/hidaytrahman/prevent-app-crashes-with-expressjs-545j)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)
 - [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)
 - [Lifehacker] [You Can Get Two of These 3-in-1 Apple Device Charging Cables for $35 Right Now](https://lifehacker.com/you-can-get-two-of-these-3-in-1-apple-device-charging-c-1850826264)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Totally Marinate Meat in Flavored Yogurt](https://lifehacker.com/you-can-totally-marinate-meat-in-flavored-yogurt-1850832296)
 - [Lifehacker] [What Apple’s Switch to USB-C Really Means for iPhone Users](https://lifehacker.com/what-apple-s-switch-to-usb-c-really-means-for-iphone-us-1850832175)
 - [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
-- [Lifehacker] [You Can Send Your Name to Mars](https://lifehacker.com/you-can-send-your-name-to-mars-1850831943)
-- [Lifehacker] [These Miniature Cleaning Products Are Perfect for Small Apartments](https://lifehacker.com/these-miniature-cleaning-products-are-perfect-for-small-1850831550)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Send Your Name to Mars](https://lifehacker.com/you-can-send-your-name-to-mars-1850831943)<!-- TECH-POSTS:END -->
 
 ---
 
