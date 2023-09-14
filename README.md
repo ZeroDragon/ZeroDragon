@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array Methods](https://dev.to/tashigyatso45/array-methods-2md1)
+- [Lifehacker] [How to Help Your Kids Build Self-Awareness](https://lifehacker.com/how-to-help-your-kids-build-self-awareness-1850828389)
+- [Dev.to/JS] [The 5 principles of Unit Testing](https://dev.to/one-beyond/the-5-principles-of-unit-testing-1p5f)
+- [Lifehacker] [It&#39;s Time to Stop Watering Your Garden This Fall](https://lifehacker.com/its-time-to-stop-watering-your-garden-this-fall-1850837057)
 - [Dev.to/JS] [Top 5 JavaScript Gantt chart libraries](https://dev.to/bryntum/top-5-javascript-gantt-chart-libraries-2b6a)
 - [Dev.to/JS] [Media Queries and Responsive Design](https://dev.to/rashidshamloo/media-queries-and-responsive-design-4efa)
 - [Dev.to/JS] [Cosmo Router: High Performance Federation v1 &amp; v2 Router / Gateway](https://dev.to/slickstef11/cosmo-router-high-performance-federation-v1-v2-router-gateway-4llk)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sending File With UseFetch Nuxt3 To Laravel](https://dev.to/sezohessen/sending-file-with-usefetch-nuxt3-to-laravel-1pko)
 - [Lifehacker] [The Best Ways to Make Your Own Bubble Tea](https://lifehacker.com/the-best-ways-to-make-your-own-bubble-tea-1850835291)
 - [Dev.to/JS] [Microservices: Unleashing the Power of Modular Software Architecture](https://dev.to/documatic/microservices-unleashing-the-power-of-modular-software-architecture-23h6)
-- [Dev.to/JS] [Starting project NAPL - a new free web-based game engine](https://dev.to/jacklehamster/starting-project-napl-a-new-free-web-based-game-engine-3ado)
-- [Dev.to/JS] [Crafting Your ERP Implementation Dream Team: Roles, Responsibilities, and Success Strategies](https://dev.to/beula/crafting-your-erp-implementation-dream-team-roles-responsibilities-and-success-strategies-3ac9)
 - [Crazy Programmer] [5 Applications of Blockchain Technology in Programming](https://www.thecrazyprogrammer.com/2023/09/applications-of-blockchain-technology-in-programming.html)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)
 - [Lifehacker] [Fanatical Is Giving Away These Programming Books for Free](https://lifehacker.com/fanatical-is-giving-away-these-programming-books-for-fr-1850836134)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Download YouTube Videos](https://lifehacker.com/how-to-download-youtube-videos-1850825285)
 - [Lifehacker] [Woot Is Selling Massively Discounted Samsung Refurbished Phones Right Now](https://lifehacker.com/woot-is-selling-massively-discounted-samsung-refurbishe-1850830489)
 - [Lifehacker] [These Single-serving Non-dairy Creamers Are Actually Pretty Good](https://lifehacker.com/these-single-serving-non-dairy-creamers-are-actually-pr-1850831773)
-- [Lifehacker] [The Best Music Streaming Service, Based on What Matters to You](https://lifehacker.com/best-music-streaming-services-1850832901)
-- [Lifehacker] [The Logitech G502X Plus Is Good for More Than Just Gaming](https://lifehacker.com/logitech-g502x-plus-review-1850831969)
-- [Lifehacker] [You Can Totally Marinate Meat in Flavored Yogurt](https://lifehacker.com/you-can-totally-marinate-meat-in-flavored-yogurt-1850832296)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Music Streaming Service, Based on What Matters to You](https://lifehacker.com/best-music-streaming-services-1850832901)<!-- TECH-POSTS:END -->
 
 ---
 
