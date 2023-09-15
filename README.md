@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Commit Types: A Developer&#39;s Guide](https://dev.to/sanjaisak/understanding-commit-types-a-developers-guide-4m2)
 - [Dev.to/JS] [How to load react.js apps into existing ASP.NET , Simple AF 🥵](https://dev.to/noob_jeffrey/how-to-load-reactjs-apps-into-existing-aspnet-simple-af-2e09)
 - [Dev.to/JS] [8 Best JavaScript One-Liners](https://dev.to/shivamblog/8-best-javascript-one-liners-303o)
 - [Dev.to/JS] [Understanding &quot;Property of Undefined&quot; TypeError in JavaScript](https://dev.to/maximization/understanding-property-of-undefined-typeerror-in-javascript-168f)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fail-Proof Way to Make a Lattice Pie Crust](https://lifehacker.com/easy-lattice-pie-crust-1848209585)
 - [Dev.to/JS] [React and Vue: Conditional Rendering](https://dev.to/hellodonovan/react-and-vue-conditional-rendering-3mob)
 - [Lifehacker] [The Biggest Differences Between the iPhone 15/15 Plus and iPhone 14/14 Plus](https://lifehacker.com/iphone-14-plus-versus-iphone-15-plus-1850838772)
-- [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 2&rpar;](https://dev.to/louislazaris/web-dev-tools-of-the-week-no-2-40mm)
 - [Lifehacker] [The Most Common Home Repair Mistakes Owners Make &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-home-repair-mistakes-owners-make-and-h-1850838869)
 - [Lifehacker] [Use These Fonts to Help Remember What You Study](https://lifehacker.com/use-these-fonts-to-help-remember-what-you-study-1850838925)
 - [Lifehacker] [Here’s How Much Your Old iPhone and Apple Watch Are Worth](https://lifehacker.com/here-s-how-much-your-old-iphone-and-apple-watch-are-wor-1850838545)
