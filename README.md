@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Turn Woody Mushroom Stems Into an Umami-packed Powder](https://lifehacker.com/mushroom-umami-powder-recipe-1850843604)
+- [Lifehacker] [Why You Should Always Study in Silence, According to Science](https://lifehacker.com/why-you-should-always-study-in-silence-according-to-sc-1850843477)
+- [Dev.to/JS] [Why coding is scary and how to learn better](https://dev.to/annoh_karlgusta/why-coding-is-scary-and-how-to-learn-better-558h)
+- [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
+- [Dev.to/JS] [Exploring Symbols in JavaScript](https://dev.to/mainulspace/exploring-symbols-in-javascript-300g)
+- [Lifehacker] [You Can Get Windows 11 Home for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-home-for-30-right-now-1850836810)
 - [Dev.to/JS] [Why I don’t buy into “Self explanatory code”](https://dev.to/verax5/why-i-dont-buy-into-self-explanatory-code-24oc)
 - [Lifehacker] [The Rachio Is My Favorite Smart Hose Timer](https://lifehacker.com/rachio-smart-hose-timer-review-1850842996)
 - [Dev.to/JS] [Txt-To-Html Converter](https://dev.to/sshah135/txt-to-html-converter-4k3m)
@@ -43,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modulo.js - A full-featured Web Components framework in only 2000 lines](https://dev.to/michaelpb/modulojs-a-full-featured-web-components-framework-in-only-2000-lines-40nb)
 - [Dev.to/JS] [Feature Flag &amp; Dynamic Log features we shipped this summer](https://dev.to/jdwyah/feature-flag-dynamic-log-features-we-shipped-this-summer-55p1)
 - [Lifehacker] [How to Make Choux Pastry, or Pâte à Choux](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
-- [Dev.to/JS] [Demystifying Nested Data: A Guide to Accessing and Processing Objects, Arrays, and JSON in JavaScript](https://dev.to/iamcymentho/demystifying-nested-data-a-guide-to-accessing-and-processing-objects-arrays-and-json-in-javascript-34im)
 - [Lifehacker] [The Best Documentaries Currently Streaming on Netflix](https://lifehacker.com/best-documentaries-netflix-1850833851)
-- [Dev.to/JS] [JavaScript Snippets](https://dev.to/rockrgrrl/javascript-snippets-5b3o)
 - [Lifehacker] [How Companies Use ‘Drip Pricing’ to Charge You More](https://lifehacker.com/how-companies-use-drip-pricing-to-charge-you-more-1850788343)
 - [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850836740)
 - [Lifehacker] [It&#39;s Not Always Best to Book Flights Through Your Credit Card Rewards Portal](https://lifehacker.com/its-not-always-best-to-book-flights-through-your-credit-1850834952)
@@ -57,15 +61,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Quick Air Fryer Apple Turnover for Rosh Hashanah](https://lifehacker.com/air-fryer-apple-turnover-recipe-1850839282)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
-- [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
 - [Lifehacker] [The ScanWatch Is a Less Distracting Fitness Tracker](https://lifehacker.com/the-scanwatch-is-a-less-distracting-fitness-tracker-1850836025)
 - [Lifehacker] [Don’t Throw Your Old Phone Chargers in the Trash](https://lifehacker.com/recycle-old-phone-chargers-cables-1840925369)
 - [Lifehacker] [You Can Get This Portable Gaming Monitor for 30% Off Right Now](https://lifehacker.com/you-can-get-this-portable-gaming-monitor-for-30-off-ri-1850839609)
 - [Lifehacker] [This Digital Tape Measure Can Remember 99 Measurements and Is $99](https://lifehacker.com/this-digital-tape-measure-can-remember-99-measurements-1850826201)
-- [Lifehacker] [How to Wash a Rain Jacket &lpar;and Why You Need To&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
-- [Lifehacker] [Stack These Three Deals to Save More on the Adidas Fall Sale](https://lifehacker.com/stack-these-three-deals-to-save-more-on-the-adidas-fall-1850839484)
-- [Lifehacker] [How to Clean Grout the Right Way](https://lifehacker.com/how-to-clean-grout-the-right-way-1850839471)
-- [Lifehacker] [The Fail-Proof Way to Make a Lattice Pie Crust](https://lifehacker.com/easy-lattice-pie-crust-1848209585)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Wash a Rain Jacket &lpar;and Why You Need To&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)<!-- TECH-POSTS:END -->
 
 ---
 
