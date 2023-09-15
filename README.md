@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React: Fine-grained reactivity should be the norm](https://dev.to/gabrielprrd/react-fine-grained-reactivity-should-be-the-norm-45pi)
+- [Dev.to/JS] [Day 49: Conditional Types](https://dev.to/dhrn/day-49-conditional-types-4mbc)
+- [Lifehacker] [The Samsung SmartThings Station Is on Sale for $1 This Weekend](https://lifehacker.com/the-samsung-smartthings-station-is-on-sale-for-1-this-1850841356)
+- [Dev.to/JS] [The Complete Guide to CRUD Operations in Angular Using NgRx](https://dev.to/chintanonweb/the-complete-guide-to-crud-operations-in-angular-using-ngrx-14c4)
 - [Lifehacker] [You Can Take a Decent Solar Eclipse Photo With Your Phone](https://lifehacker.com/you-can-take-a-decent-solar-eclipse-photo-with-your-pho-1850841117)
 - [Dev.to/JS] [Forgot where I saved my AWS S3 files so I wrote this File Watcher Program](https://dev.to/rickdelpo1/forgot-where-i-saved-my-aws-s3-files-so-i-wrote-this-file-watcher-program-55l7)
 - [Dev.to/JS] [Will Bun replace Node.js? First try with NestJS](https://dev.to/rodik/will-bun-replace-nodejs-first-try-with-nestjs-50a3)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 online tools to use for selecting a future-proof NPM library for frontend and Nodejs projects](https://dev.to/shershen08/3-online-tools-to-use-for-selecting-and-future-proof-npm-library-for-frontend-and-nodejs-projects-5fnp)
 - [Dev.to/JS] [Deep Dive Into Web Development](https://dev.to/ganeshstwt/deep-dive-into-web-development-4297)
 - [Dev.to/JS] [Mastering React State Management: From Local to Global](https://dev.to/cybermaxi7/mastering-react-state-management-from-local-to-global-18k)
-- [Dev.to/JS] [Bun 1.0 , is the Hype Justified?](https://dev.to/foxy17/bun-10-is-the-hype-justified-af8)
-- [Dev.to/JS] [#LearnedToday: Notifications in Browsers](https://dev.to/danielzotti/learnedtoday-notifications-in-browsers-4ji0)
-- [Dev.to/JS] [Front-End Dilemmas: Tackling Precision Problems in JavaScript with Decimal.js](https://dev.to/rio14/front-end-dilemmas-tackling-precision-problems-in-javascript-with-decimaljs-35bl)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
 - [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Beginner-Friendly Ninja Drone Is $87 Right Now](https://lifehacker.com/this-beginner-friendly-ninja-drone-is-87-right-now-1850832198)
 - [Lifehacker] [How to Help Your Kids Build Self-Awareness](https://lifehacker.com/how-to-help-your-kids-build-self-awareness-1850828389)
 - [Lifehacker] [It&#39;s Time to Stop Watering Your Garden This Fall](https://lifehacker.com/its-time-to-stop-watering-your-garden-this-fall-1850837057)
-- [Lifehacker] [The Easiest Way to Train Any Kid to Be More Minimalist](https://lifehacker.com/the-easiest-way-to-train-any-kid-to-be-more-minimalist-1850836199)
-- [Lifehacker] [These Colorful Annuals Bloom in the Fall](https://lifehacker.com/best-flowering-fall-annuals-1850837088)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Train Any Kid to Be More Minimalist](https://lifehacker.com/the-easiest-way-to-train-any-kid-to-be-more-minimalist-1850836199)<!-- TECH-POSTS:END -->
 
 ---
 
