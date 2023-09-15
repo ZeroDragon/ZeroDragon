@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Own Chat GPT](https://dev.to/brnikita/creating-own-chat-gpt-cgo)
+- [Dev.to/JS] [Every React.js beginner should know these!](https://dev.to/shriharimurali/every-reactjs-beginner-should-know-these-520k)
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What’s the Deal With Smurf Cat?](https://lifehacker.com/what-is-smurf-cat-1850842927)
+- [Lifehacker] [Nine Tips for Perfect Mashed Potatoes](https://lifehacker.com/9-tips-for-perfect-mashed-potatoes-1845692616)
+- [Dev.to/JS] [Корисні JavaScript методи які помістяться в один рядок](https://dev.to/betelgeuseas/korisni-javascript-mietodi-iaki-pomistiatsia-v-odin-riadok-2h0m)
+- [Dev.to/JS] [My LFX Journey: The Zowe App Store UI Project](https://dev.to/sidmohanty11/my-lfx-journey-the-zowe-app-store-ui-project-1iao)
+- [Lifehacker] [Here&#39;s How Fast the iPhone 15 Pro Really Is](https://lifehacker.com/heres-how-fast-the-iphone-15-pro-really-is-1850842175)
 - [Dev.to/JS] [How to Add a JavaScript Excel XLSX Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-javascript-excel-xlsx-viewer-to-your-web-application-2932)
 - [Lifehacker] [Five Questions to Ask Yourself Before Having a Threesome](https://lifehacker.com/questions-to-ask-before-threesome-1850842094)
 - [Dev.to/JS] [Modulo.js - A full-featured Web Components framework in only 2000 lines](https://dev.to/michaelpb/modulojs-a-full-featured-web-components-framework-in-only-2000-lines-40nb)
@@ -37,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I built Web App to evaluate polynomials using Horner&#39;s algorithm.](https://dev.to/stevepurpose/how-i-built-web-app-to-evaluate-polynomials-using-horners-algorithm-56a7)
 - [Dev.to/JS] [Demystifying React&#39;s Rendering and Reconciliation Mechanisms](https://dev.to/judeebekes67/demystifying-reacts-rendering-and-reconciliation-mechanisms-2h71)
 - [Dev.to/JS] [How to Create a Color Dropdown List in an Angular Datagrid Application](https://dev.to/grapecity/how-to-create-a-color-dropdown-list-in-an-angular-datagrid-application-1em4)
-- [Dev.to/JS] [Hygraph FM: Building an artist page with components and Next.js](https://dev.to/lowisren/hygraph-fm-building-an-artist-page-with-components-and-nextjs-3ocn)
-- [Dev.to/JS] [Hygraph FM: Building the artist content model](https://dev.to/lowisren/hygraph-fm-building-the-artist-content-model-23lb)
 - [Lifehacker] [How Companies Use ‘Drip Pricing’ to Charge You More](https://lifehacker.com/how-companies-use-drip-pricing-to-charge-you-more-1850788343)
-- [Dev.to/JS] [How Can You Prevent a Component from Re-rendering?](https://dev.to/sidramaqbool/how-can-you-prevent-a-component-from-re-rendering-3k53)
-- [Dev.to/JS] [Mastering Event Binding for Dynamically Created Elements in JavaScript](https://dev.to/iamcymentho/mastering-event-binding-for-dynamically-created-elements-in-javascript-16l3)
 - [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850836740)
 - [Lifehacker] [It&#39;s Not Always Best to Book Flights Through Your Credit Card Rewards Portal](https://lifehacker.com/its-not-always-best-to-book-flights-through-your-credit-1850834952)
 - [Lifehacker] [The Quickest Ways to Convert HEIC to JPEG](https://lifehacker.com/convert-heic-to-jpg-on-windows-and-mac-1848768694)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Grout the Right Way](https://lifehacker.com/how-to-clean-grout-the-right-way-1850839471)
 - [Lifehacker] [The Fail-Proof Way to Make a Lattice Pie Crust](https://lifehacker.com/easy-lattice-pie-crust-1848209585)
 - [Lifehacker] [The Biggest Differences Between the iPhone 15/15 Plus and iPhone 14/14 Plus](https://lifehacker.com/iphone-14-plus-versus-iphone-15-plus-1850838772)
-- [Lifehacker] [The Most Common Home Repair Mistakes Owners Make &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-home-repair-mistakes-owners-make-and-h-1850838869)
-- [Lifehacker] [Use These Fonts to Help Remember What You Study](https://lifehacker.com/use-these-fonts-to-help-remember-what-you-study-1850838925)
-- [Lifehacker] [Here’s How Much Your Old iPhone and Apple Watch Are Worth](https://lifehacker.com/here-s-how-much-your-old-iphone-and-apple-watch-are-wor-1850838545)
-- [Lifehacker] [What People Are Getting Wrong This Week: How the Universe Works](https://lifehacker.com/what-people-are-getting-wrong-this-week-how-the-univer-1850838675)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Common Home Repair Mistakes Owners Make &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-home-repair-mistakes-owners-make-and-h-1850838869)<!-- TECH-POSTS:END -->
 
 ---
 
