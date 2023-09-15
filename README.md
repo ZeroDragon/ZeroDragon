@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add a JavaScript Excel XLSX Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-javascript-excel-xlsx-viewer-to-your-web-application-2932)
+- [Lifehacker] [Five Questions to Ask Yourself Before Having a Threesome](https://lifehacker.com/questions-to-ask-before-threesome-1850842094)
+- [Dev.to/JS] [Modulo.js - A full-featured Web Components framework in only 2000 lines](https://dev.to/michaelpb/modulojs-a-full-featured-web-components-framework-in-only-2000-lines-40nb)
+- [Dev.to/JS] [Feature Flag &amp; Dynamic Log features we shipped this summer](https://dev.to/jdwyah/feature-flag-dynamic-log-features-we-shipped-this-summer-55p1)
+- [Lifehacker] [How to Make Choux Pastry, or Pâte à Choux](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
+- [Dev.to/JS] [Demystifying Nested Data: A Guide to Accessing and Processing Objects, Arrays, and JSON in JavaScript](https://dev.to/iamcymentho/demystifying-nested-data-a-guide-to-accessing-and-processing-objects-arrays-and-json-in-javascript-34im)
+- [Lifehacker] [The Best Documentaries Currently Streaming on Netflix](https://lifehacker.com/best-documentaries-netflix-1850833851)
 - [Dev.to/JS] [JavaScript Snippets](https://dev.to/rockrgrrl/javascript-snippets-5b3o)
 - [Dev.to/JS] [How I built Web App to evaluate polynomials using Horner&#39;s algorithm.](https://dev.to/stevepurpose/how-i-built-web-app-to-evaluate-polynomials-using-horners-algorithm-56a7)
 - [Dev.to/JS] [Demystifying React&#39;s Rendering and Reconciliation Mechanisms](https://dev.to/judeebekes67/demystifying-reacts-rendering-and-reconciliation-mechanisms-2h71)
@@ -35,14 +42,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Companies Use ‘Drip Pricing’ to Charge You More](https://lifehacker.com/how-companies-use-drip-pricing-to-charge-you-more-1850788343)
 - [Dev.to/JS] [How Can You Prevent a Component from Re-rendering?](https://dev.to/sidramaqbool/how-can-you-prevent-a-component-from-re-rendering-3k53)
 - [Dev.to/JS] [Mastering Event Binding for Dynamically Created Elements in JavaScript](https://dev.to/iamcymentho/mastering-event-binding-for-dynamically-created-elements-in-javascript-16l3)
-- [Dev.to/JS] [Create up-to-date screenshots of your application](https://dev.to/marcin_codes/create-up-to-date-screenshots-of-your-application-41el)
-- [Dev.to/JS] [Exposure in the Workplace - Pretzels and Arrays](https://dev.to/wraith/exposure-in-the-workplace-pretzels-and-arrays-25jo)
 - [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850836740)
-- [Dev.to/JS] [Introducing the Modulo Project Dev Blog](https://dev.to/michaelpb/introducing-the-modulo-project-dev-blog-46bn)
 - [Lifehacker] [It&#39;s Not Always Best to Book Flights Through Your Credit Card Rewards Portal](https://lifehacker.com/its-not-always-best-to-book-flights-through-your-credit-1850834952)
 - [Lifehacker] [The Quickest Ways to Convert HEIC to JPEG](https://lifehacker.com/convert-heic-to-jpg-on-windows-and-mac-1848768694)
 - [Lifehacker] [The Gardening Supplies Worth Keeping for Next Year &lpar;and What to Get Rid Of&rpar;](https://lifehacker.com/the-gardening-supplies-worth-keeping-for-next-year-and-1850841600)
-- [Dev.to/JS] [React: Fine-grained reactivity should be the norm](https://dev.to/gabrielprrd/react-fine-grained-reactivity-should-be-the-norm-45pi)
 - [Lifehacker] [The Samsung SmartThings Station Is on Sale for $1 This Weekend](https://lifehacker.com/the-samsung-smartthings-station-is-on-sale-for-1-this-1850841356)
 - [Lifehacker] [You Can Take a Decent Solar Eclipse Photo With Your Phone](https://lifehacker.com/you-can-take-a-decent-solar-eclipse-photo-with-your-pho-1850841117)
 - [Lifehacker] [The Best Ways to Protect Your Kids From Online Scams](https://lifehacker.com/the-best-ways-to-protect-your-kids-from-online-scams-1850841015)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Common Home Repair Mistakes Owners Make &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-home-repair-mistakes-owners-make-and-h-1850838869)
 - [Lifehacker] [Use These Fonts to Help Remember What You Study](https://lifehacker.com/use-these-fonts-to-help-remember-what-you-study-1850838925)
 - [Lifehacker] [Here’s How Much Your Old iPhone and Apple Watch Are Worth](https://lifehacker.com/here-s-how-much-your-old-iphone-and-apple-watch-are-wor-1850838545)
-- [Lifehacker] [What People Are Getting Wrong This Week: How the Universe Works](https://lifehacker.com/what-people-are-getting-wrong-this-week-how-the-univer-1850838675)
-- [Lifehacker] [Update Your Browsers Right Now](https://lifehacker.com/update-your-browsers-right-now-1850838260)
-- [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
-- [Lifehacker] [These Live Translation Earbuds Are $157](https://lifehacker.com/these-live-translation-earbuds-are-157-1850826286)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: How the Universe Works](https://lifehacker.com/what-people-are-getting-wrong-this-week-how-the-univer-1850838675)<!-- TECH-POSTS:END -->
 
 ---
 
