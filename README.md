@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
 - [Dev.to/JS] [Webdev use for HTML, CSS and JS](https://dev.to/smz01/webdev-use-for-html-css-and-js-d42)
 - [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
 - [Lifehacker] [Turn Woody Mushroom Stems Into an Umami-packed Powder](https://lifehacker.com/mushroom-umami-powder-recipe-1850843604)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
 - [Lifehacker] [The ScanWatch Is a Less Distracting Fitness Tracker](https://lifehacker.com/the-scanwatch-is-a-less-distracting-fitness-tracker-1850836025)
 - [Lifehacker] [Don’t Throw Your Old Phone Chargers in the Trash](https://lifehacker.com/recycle-old-phone-chargers-cables-1840925369)
-- [Lifehacker] [You Can Get This Portable Gaming Monitor for 30% Off Right Now](https://lifehacker.com/you-can-get-this-portable-gaming-monitor-for-30-off-ri-1850839609)
-- [Lifehacker] [This Digital Tape Measure Can Remember 99 Measurements and Is $99](https://lifehacker.com/this-digital-tape-measure-can-remember-99-measurements-1850826201)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Portable Gaming Monitor for 30% Off Right Now](https://lifehacker.com/you-can-get-this-portable-gaming-monitor-for-30-off-ri-1850839609)<!-- TECH-POSTS:END -->
 
 ---
 
