@@ -26,25 +26,27 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Snippets](https://dev.to/rockrgrrl/javascript-snippets-5b3o)
+- [Dev.to/JS] [How I built Web App to evaluate polynomials using Horner&#39;s algorithm.](https://dev.to/stevepurpose/how-i-built-web-app-to-evaluate-polynomials-using-horners-algorithm-56a7)
+- [Dev.to/JS] [Demystifying React&#39;s Rendering and Reconciliation Mechanisms](https://dev.to/judeebekes67/demystifying-reacts-rendering-and-reconciliation-mechanisms-2h71)
+- [Dev.to/JS] [How to Create a Color Dropdown List in an Angular Datagrid Application](https://dev.to/grapecity/how-to-create-a-color-dropdown-list-in-an-angular-datagrid-application-1em4)
+- [Dev.to/JS] [Hygraph FM: Building an artist page with components and Next.js](https://dev.to/lowisren/hygraph-fm-building-an-artist-page-with-components-and-nextjs-3ocn)
+- [Dev.to/JS] [Hygraph FM: Building the artist content model](https://dev.to/lowisren/hygraph-fm-building-the-artist-content-model-23lb)
+- [Lifehacker] [How Companies Use ‘Drip Pricing’ to Charge You More](https://lifehacker.com/how-companies-use-drip-pricing-to-charge-you-more-1850788343)
+- [Dev.to/JS] [How Can You Prevent a Component from Re-rendering?](https://dev.to/sidramaqbool/how-can-you-prevent-a-component-from-re-rendering-3k53)
+- [Dev.to/JS] [Mastering Event Binding for Dynamically Created Elements in JavaScript](https://dev.to/iamcymentho/mastering-event-binding-for-dynamically-created-elements-in-javascript-16l3)
+- [Dev.to/JS] [Create up-to-date screenshots of your application](https://dev.to/marcin_codes/create-up-to-date-screenshots-of-your-application-41el)
 - [Dev.to/JS] [Exposure in the Workplace - Pretzels and Arrays](https://dev.to/wraith/exposure-in-the-workplace-pretzels-and-arrays-25jo)
+- [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850836740)
 - [Dev.to/JS] [Introducing the Modulo Project Dev Blog](https://dev.to/michaelpb/introducing-the-modulo-project-dev-blog-46bn)
 - [Lifehacker] [It&#39;s Not Always Best to Book Flights Through Your Credit Card Rewards Portal](https://lifehacker.com/its-not-always-best-to-book-flights-through-your-credit-1850834952)
 - [Lifehacker] [The Quickest Ways to Convert HEIC to JPEG](https://lifehacker.com/convert-heic-to-jpg-on-windows-and-mac-1848768694)
 - [Lifehacker] [The Gardening Supplies Worth Keeping for Next Year &lpar;and What to Get Rid Of&rpar;](https://lifehacker.com/the-gardening-supplies-worth-keeping-for-next-year-and-1850841600)
 - [Dev.to/JS] [React: Fine-grained reactivity should be the norm](https://dev.to/gabrielprrd/react-fine-grained-reactivity-should-be-the-norm-45pi)
-- [Dev.to/JS] [Day 49: Conditional Types](https://dev.to/dhrn/day-49-conditional-types-4mbc)
 - [Lifehacker] [The Samsung SmartThings Station Is on Sale for $1 This Weekend](https://lifehacker.com/the-samsung-smartthings-station-is-on-sale-for-1-this-1850841356)
-- [Dev.to/JS] [The Complete Guide to CRUD Operations in Angular Using NgRx](https://dev.to/chintanonweb/the-complete-guide-to-crud-operations-in-angular-using-ngrx-14c4)
 - [Lifehacker] [You Can Take a Decent Solar Eclipse Photo With Your Phone](https://lifehacker.com/you-can-take-a-decent-solar-eclipse-photo-with-your-pho-1850841117)
-- [Dev.to/JS] [Forgot where I saved my AWS S3 files so I wrote this File Watcher Program](https://dev.to/rickdelpo1/forgot-where-i-saved-my-aws-s3-files-so-i-wrote-this-file-watcher-program-55l7)
-- [Dev.to/JS] [Will Bun replace Node.js? First try with NestJS](https://dev.to/rodik/will-bun-replace-nodejs-first-try-with-nestjs-50a3)
 - [Lifehacker] [The Best Ways to Protect Your Kids From Online Scams](https://lifehacker.com/the-best-ways-to-protect-your-kids-from-online-scams-1850841015)
-- [Dev.to/JS] [Artificial Intelligence in Web Development](https://dev.to/sparkouttech/artificial-intelligence-in-web-development-2bh9)
-- [Dev.to/JS] [How to conditionally render React UI based on user permissions](https://dev.to/worldlinetech/how-to-conditionally-render-react-ui-based-on-user-permissions-2amg)
 - [Lifehacker] [Make This Quick Air Fryer Apple Turnover for Rosh Hashanah](https://lifehacker.com/air-fryer-apple-turnover-recipe-1850839282)
-- [Dev.to/JS] [Accelerate your prototypes development by using a monorepo](https://dev.to/worldlinetech/accelerate-your-prototypes-development-by-using-a-monorepo-4d13)
-- [Dev.to/JS] [Bun: A new JavaScript runtime for the modern era](https://dev.to/ezzahirtaha/bun-a-new-javascript-runtime-for-the-modern-era-46dm)
-- [Dev.to/JS] [3 online tools to use for selecting a future-proof NPM library for frontend and Nodejs projects](https://dev.to/shershen08/3-online-tools-to-use-for-selecting-and-future-proof-npm-library-for-frontend-and-nodejs-projects-5fnp)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
 - [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: How the Universe Works](https://lifehacker.com/what-people-are-getting-wrong-this-week-how-the-univer-1850838675)
 - [Lifehacker] [Update Your Browsers Right Now](https://lifehacker.com/update-your-browsers-right-now-1850838260)
 - [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
-- [Lifehacker] [These Live Translation Earbuds Are $157](https://lifehacker.com/these-live-translation-earbuds-are-157-1850826286)
-- [Lifehacker] [Meredith&#39;s Training Diary: Running in Bad Weather](https://lifehacker.com/merediths-training-diary-running-in-bad-weather-1850833536)
-- [Lifehacker] [This Beginner-Friendly Ninja Drone Is $87 Right Now](https://lifehacker.com/this-beginner-friendly-ninja-drone-is-87-right-now-1850832198)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Live Translation Earbuds Are $157](https://lifehacker.com/these-live-translation-earbuds-are-157-1850826286)<!-- TECH-POSTS:END -->
 
 ---
 
