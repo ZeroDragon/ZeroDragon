@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Custom Enterprise CRM – Comprehensive Guide](https://dev.to/alesiasirotka/building-custom-enterprise-crm-comprehensive-guide-5cmp)
+- [Dev.to/JS] [Bun- All in one JavaScript runtime](https://dev.to/dharan/bun-all-in-one-javascript-runtime-467e)
+- [Dev.to/JS] [JavaScript Async Generators Unleashed: Harnessing Asynchronous Power](https://dev.to/this-is-learning/javascript-async-generators-unleashed-harnessing-asynchronous-power-5acg)
+- [Dev.to/JS] [How to create a React components ESM+CJS library](https://dev.to/castarco/create-a-react-components-esmcjs-library-2ig0)
 - [Dev.to/JS] [Understanding Commit Types: A Developer&#39;s Guide](https://dev.to/sanjaisak/understanding-commit-types-a-developers-guide-4m2)
 - [Dev.to/JS] [How to load react.js apps into existing ASP.NET , Simple AF 🥵](https://dev.to/noob_jeffrey/how-to-load-reactjs-apps-into-existing-aspnet-simple-af-2e09)
 - [Dev.to/JS] [8 Best JavaScript One-Liners](https://dev.to/shivamblog/8-best-javascript-one-liners-303o)
@@ -40,15 +44,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Throw Your Old Phone Chargers in the Trash](https://lifehacker.com/recycle-old-phone-chargers-cables-1840925369)
 - [Dev.to/JS] [TxtToHTML - Review](https://dev.to/rabroldan/txttohtml-review-d28)
 - [Lifehacker] [You Can Get This Portable Gaming Monitor for 30% Off Right Now](https://lifehacker.com/you-can-get-this-portable-gaming-monitor-for-30-off-ri-1850839609)
-- [Dev.to/JS] [Episode 23/36: Q&amp;A Session Angular Team, Sololearn Course, Astro 3 &amp; Bun 1](https://dev.to/this-is-angular/episode-2336-qa-session-angular-team-sololearn-course-astro-3-bun-1-6g2)
-- [Dev.to/JS] [Unveiling the JavaScript FormData API: A Hidden Gem](https://dev.to/ervidaslaven/unveiling-the-javascript-formdata-api-a-hidden-gem-1m31)
 - [Lifehacker] [This Digital Tape Measure Can Remember 99 Measurements and Is $99](https://lifehacker.com/this-digital-tape-measure-can-remember-99-measurements-1850826201)
 - [Lifehacker] [How to Wash a Rain Jacket &lpar;and Why You Need To&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [Stack These Three Deals to Save More on the Adidas Fall Sale](https://lifehacker.com/stack-these-three-deals-to-save-more-on-the-adidas-fall-1850839484)
-- [Dev.to/JS] [Leetcode #1299 - Replace Elements with Greatest Element on Right Side](https://dev.to/irinakramer/leetcode-1299-replace-elements-with-greatest-element-on-right-side-5b58)
 - [Lifehacker] [How to Clean Grout the Right Way](https://lifehacker.com/how-to-clean-grout-the-right-way-1850839471)
 - [Lifehacker] [The Fail-Proof Way to Make a Lattice Pie Crust](https://lifehacker.com/easy-lattice-pie-crust-1848209585)
-- [Dev.to/JS] [React and Vue: Conditional Rendering](https://dev.to/hellodonovan/react-and-vue-conditional-rendering-3mob)
 - [Lifehacker] [The Biggest Differences Between the iPhone 15/15 Plus and iPhone 14/14 Plus](https://lifehacker.com/iphone-14-plus-versus-iphone-15-plus-1850838772)
 - [Lifehacker] [The Most Common Home Repair Mistakes Owners Make &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-home-repair-mistakes-owners-make-and-h-1850838869)
 - [Lifehacker] [Use These Fonts to Help Remember What You Study](https://lifehacker.com/use-these-fonts-to-help-remember-what-you-study-1850838925)
