@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Accelerate your prototypes development by using a monorepo](https://dev.to/francoisroget/accelerate-your-prototypes-development-by-using-a-monorepo-4d13)
+- [Dev.to/JS] [Bun: A new JavaScript runtime for the modern era](https://dev.to/ezzahirtaha/bun-a-new-javascript-runtime-for-the-modern-era-46dm)
+- [Dev.to/JS] [3 online tools to use for selecting a future-proof NPM library for frontend and Nodejs projects](https://dev.to/shershen08/3-online-tools-to-use-for-selecting-and-future-proof-npm-library-for-frontend-and-nodejs-projects-5fnp)
+- [Dev.to/JS] [Deep Dive Into Web Development](https://dev.to/ganeshstwt/deep-dive-into-web-development-4297)
+- [Dev.to/JS] [Mastering React State Management: From Local to Global](https://dev.to/cybermaxi7/mastering-react-state-management-from-local-to-global-18k)
 - [Dev.to/JS] [Bun 1.0 , is the Hype Justified?](https://dev.to/foxy17/bun-10-is-the-hype-justified-af8)
 - [Dev.to/JS] [#LearnedToday: Notifications in Browsers](https://dev.to/danielzotti/learnedtoday-notifications-in-browsers-4ji0)
 - [Dev.to/JS] [Front-End Dilemmas: Tackling Precision Problems in JavaScript with Decimal.js](https://dev.to/rio14/front-end-dilemmas-tackling-precision-problems-in-javascript-with-decimaljs-35bl)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Spread Multiple Props With This Syntax](https://dev.to/danielbellmas/spread-multiple-props-with-this-syntax-3e92)
 - [Dev.to/JS] [The 5 Best JavaScript Frameworks for 2023 &lpar;That Pay Well 🤑&rpar;](https://dev.to/jai7503556364/the-5-best-javascript-frameworks-for-2023-that-pay-well--4h21)
 - [Dev.to/JS] [Prefix Unused Variables With Underscore](https://dev.to/danielbellmas/prefix-unused-variables-with-underscore-3h2d)
-- [Dev.to/JS] [Building Progressive Web Apps &lpar;PWAs&rpar; with React: A Practical Guide](https://dev.to/shriharimurali/building-progressive-web-apps-pwas-with-react-a-practical-guide-14m1)
-- [Dev.to/JS] [Why I Stopped Using React Context: Unveiling a Better Path](https://dev.to/barrymichaeldoyle/why-i-stopped-using-react-context-unveiling-a-better-path-5cf2)
-- [Dev.to/JS] [PikaTorrent, a modern, open source, BitTorrent app ⚡.](https://dev.to/g_ray/pikatorrent-a-modern-open-source-bittorrent-app--18fc)
-- [Dev.to/JS] [Choosing Between Class and Functional Components in React](https://dev.to/oigoga/choosing-between-class-and-functional-components-in-react-3j62)
-- [Dev.to/JS] [Data binding: Directives 🫰](https://dev.to/dvalin99/data-binding-directives-5gn2)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
 - [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
