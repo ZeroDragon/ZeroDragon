@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Accelerate your prototypes development by using a monorepo](https://dev.to/francoisroget/accelerate-your-prototypes-development-by-using-a-monorepo-4d13)
+- [Lifehacker] [You Can Take a Decent Solar Eclipse Photo With Your Phone](https://lifehacker.com/you-can-take-a-decent-solar-eclipse-photo-with-your-pho-1850841117)
+- [Dev.to/JS] [Forgot where I saved my AWS S3 files so I wrote this File Watcher Program](https://dev.to/rickdelpo1/forgot-where-i-saved-my-aws-s3-files-so-i-wrote-this-file-watcher-program-55l7)
+- [Dev.to/JS] [Will Bun replace Node.js? First try with NestJS](https://dev.to/rodik/will-bun-replace-nodejs-first-try-with-nestjs-50a3)
+- [Lifehacker] [The Best Ways to Protect Your Kids From Online Scams](https://lifehacker.com/the-best-ways-to-protect-your-kids-from-online-scams-1850841015)
+- [Dev.to/JS] [Artificial Intelligence in Web Development](https://dev.to/sparkouttech/artificial-intelligence-in-web-development-2bh9)
+- [Dev.to/JS] [How to conditionally render React UI based on user permissions](https://dev.to/worldlinetech/how-to-conditionally-render-react-ui-based-on-user-permissions-2amg)
+- [Lifehacker] [Make This Quick Air Fryer Apple Turnover for Rosh Hashanah](https://lifehacker.com/air-fryer-apple-turnover-recipe-1850839282)
+- [Dev.to/JS] [Accelerate your prototypes development by using a monorepo](https://dev.to/worldlinetech/accelerate-your-prototypes-development-by-using-a-monorepo-4d13)
 - [Dev.to/JS] [Bun: A new JavaScript runtime for the modern era](https://dev.to/ezzahirtaha/bun-a-new-javascript-runtime-for-the-modern-era-46dm)
 - [Dev.to/JS] [3 online tools to use for selecting a future-proof NPM library for frontend and Nodejs projects](https://dev.to/shershen08/3-online-tools-to-use-for-selecting-and-future-proof-npm-library-for-frontend-and-nodejs-projects-5fnp)
 - [Dev.to/JS] [Deep Dive Into Web Development](https://dev.to/ganeshstwt/deep-dive-into-web-development-4297)
@@ -34,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bun 1.0 , is the Hype Justified?](https://dev.to/foxy17/bun-10-is-the-hype-justified-af8)
 - [Dev.to/JS] [#LearnedToday: Notifications in Browsers](https://dev.to/danielzotti/learnedtoday-notifications-in-browsers-4ji0)
 - [Dev.to/JS] [Front-End Dilemmas: Tackling Precision Problems in JavaScript with Decimal.js](https://dev.to/rio14/front-end-dilemmas-tackling-precision-problems-in-javascript-with-decimaljs-35bl)
-- [Dev.to/JS] [Creating Role and Permission Schemas for My Blog API using Chat GPT-4](https://dev.to/eneaslari/creating-role-and-permission-schemas-for-my-blog-api-using-chat-gpt-4-4m36)
-- [Dev.to/JS] [Spread Multiple Props With This Syntax](https://dev.to/danielbellmas/spread-multiple-props-with-this-syntax-3e92)
-- [Dev.to/JS] [The 5 Best JavaScript Frameworks for 2023 &lpar;That Pay Well 🤑&rpar;](https://dev.to/jai7503556364/the-5-best-javascript-frameworks-for-2023-that-pay-well--4h21)
-- [Dev.to/JS] [Prefix Unused Variables With Underscore](https://dev.to/danielbellmas/prefix-unused-variables-with-underscore-3h2d)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
 - [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Help Your Kids Build Self-Awareness](https://lifehacker.com/how-to-help-your-kids-build-self-awareness-1850828389)
 - [Lifehacker] [It&#39;s Time to Stop Watering Your Garden This Fall](https://lifehacker.com/its-time-to-stop-watering-your-garden-this-fall-1850837057)
 - [Lifehacker] [The Easiest Way to Train Any Kid to Be More Minimalist](https://lifehacker.com/the-easiest-way-to-train-any-kid-to-be-more-minimalist-1850836199)
-- [Lifehacker] [These Colorful Annuals Bloom in the Fall](https://lifehacker.com/best-flowering-fall-annuals-1850837088)
-- [Lifehacker] [You Can Transfer Music Between Spotify and Apple Music](https://lifehacker.com/you-can-transfer-music-between-spotify-and-apple-music-1850835932)
-- [Lifehacker] [The Best Ways to Make Your Own Bubble Tea](https://lifehacker.com/the-best-ways-to-make-your-own-bubble-tea-1850835291)
-- [Crazy Programmer] [5 Applications of Blockchain Technology in Programming](https://www.thecrazyprogrammer.com/2023/09/applications-of-blockchain-technology-in-programming.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Colorful Annuals Bloom in the Fall](https://lifehacker.com/best-flowering-fall-annuals-1850837088)<!-- TECH-POSTS:END -->
 
 ---
 
