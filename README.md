@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data binding: Directives 🫰](https://dev.to/dvalin99/data-binding-directives-5gn2)
+- [Dev.to/JS] [Learn git revert &lpar;to revert commit in GitHub&rpar;](https://dev.to/krushnachandradash654/learn-git-revert-to-revert-commit-in-github-1idj)
+- [Dev.to/JS] [Linux Foundation CKS dumps pdf are extraordinarily pleasant](https://dev.to/zahra12345/linux-foundation-cks-dumps-pdf-are-extraordinarily-pleasant-pg8)
 - [Dev.to/JS] [Building Custom Enterprise CRM – Comprehensive Guide](https://dev.to/alesiasirotka/building-custom-enterprise-crm-comprehensive-guide-5cmp)
 - [Dev.to/JS] [Bun- All in one JavaScript runtime](https://dev.to/dharan/bun-all-in-one-javascript-runtime-467e)
 - [Dev.to/JS] [JavaScript Async Generators Unleashed: Harnessing Asynchronous Power](https://dev.to/this-is-learning/javascript-async-generators-unleashed-harnessing-asynchronous-power-5acg)
@@ -35,14 +38,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [8 Best JavaScript One-Liners](https://dev.to/shivamblog/8-best-javascript-one-liners-303o)
 - [Dev.to/JS] [Understanding &quot;Property of Undefined&quot; TypeError in JavaScript](https://dev.to/maximization/understanding-property-of-undefined-typeerror-in-javascript-168f)
 - [Dev.to/JS] [JavaScript : Object Methods &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-object-methods-englishhindi-31g5)
-- [Dev.to/JS] [JavaScript - Loops and iteration](https://dev.to/zouhair_sahtout/javascript-loops-and-iteration-1djh)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
 - [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
-- [Dev.to/JS] [TypeScript and the NOT &lpar;!&rpar; operator in the context of an if statement](https://dev.to/moshkh/typescript-and-the-not-operator-in-the-context-of-an-if-statement-4lgi)
 - [Lifehacker] [The ScanWatch Is a Less Distracting Fitness Tracker](https://lifehacker.com/the-scanwatch-is-a-less-distracting-fitness-tracker-1850836025)
 - [Lifehacker] [Don’t Throw Your Old Phone Chargers in the Trash](https://lifehacker.com/recycle-old-phone-chargers-cables-1840925369)
-- [Dev.to/JS] [TxtToHTML - Review](https://dev.to/rabroldan/txttohtml-review-d28)
 - [Lifehacker] [You Can Get This Portable Gaming Monitor for 30% Off Right Now](https://lifehacker.com/you-can-get-this-portable-gaming-monitor-for-30-off-ri-1850839609)
 - [Lifehacker] [This Digital Tape Measure Can Remember 99 Measurements and Is $99](https://lifehacker.com/this-digital-tape-measure-can-remember-99-measurements-1850826201)
 - [Lifehacker] [How to Wash a Rain Jacket &lpar;and Why You Need To&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
