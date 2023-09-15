@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exposure in the Workplace - Pretzels and Arrays](https://dev.to/wraith/exposure-in-the-workplace-pretzels-and-arrays-25jo)
+- [Dev.to/JS] [Introducing the Modulo Project Dev Blog](https://dev.to/michaelpb/introducing-the-modulo-project-dev-blog-46bn)
+- [Lifehacker] [It&#39;s Not Always Best to Book Flights Through Your Credit Card Rewards Portal](https://lifehacker.com/its-not-always-best-to-book-flights-through-your-credit-1850834952)
+- [Lifehacker] [The Quickest Ways to Convert HEIC to JPEG](https://lifehacker.com/convert-heic-to-jpg-on-windows-and-mac-1848768694)
+- [Lifehacker] [The Gardening Supplies Worth Keeping for Next Year &lpar;and What to Get Rid Of&rpar;](https://lifehacker.com/the-gardening-supplies-worth-keeping-for-next-year-and-1850841600)
 - [Dev.to/JS] [React: Fine-grained reactivity should be the norm](https://dev.to/gabrielprrd/react-fine-grained-reactivity-should-be-the-norm-45pi)
 - [Dev.to/JS] [Day 49: Conditional Types](https://dev.to/dhrn/day-49-conditional-types-4mbc)
 - [Lifehacker] [The Samsung SmartThings Station Is on Sale for $1 This Weekend](https://lifehacker.com/the-samsung-smartthings-station-is-on-sale-for-1-this-1850841356)
@@ -40,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Accelerate your prototypes development by using a monorepo](https://dev.to/worldlinetech/accelerate-your-prototypes-development-by-using-a-monorepo-4d13)
 - [Dev.to/JS] [Bun: A new JavaScript runtime for the modern era](https://dev.to/ezzahirtaha/bun-a-new-javascript-runtime-for-the-modern-era-46dm)
 - [Dev.to/JS] [3 online tools to use for selecting a future-proof NPM library for frontend and Nodejs projects](https://dev.to/shershen08/3-online-tools-to-use-for-selecting-and-future-proof-npm-library-for-frontend-and-nodejs-projects-5fnp)
-- [Dev.to/JS] [Deep Dive Into Web Development](https://dev.to/ganeshstwt/deep-dive-into-web-development-4297)
-- [Dev.to/JS] [Mastering React State Management: From Local to Global](https://dev.to/cybermaxi7/mastering-react-state-management-from-local-to-global-18k)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
 - [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
 - [Lifehacker] [These Live Translation Earbuds Are $157](https://lifehacker.com/these-live-translation-earbuds-are-157-1850826286)
 - [Lifehacker] [Meredith&#39;s Training Diary: Running in Bad Weather](https://lifehacker.com/merediths-training-diary-running-in-bad-weather-1850833536)
-- [Lifehacker] [This Beginner-Friendly Ninja Drone Is $87 Right Now](https://lifehacker.com/this-beginner-friendly-ninja-drone-is-87-right-now-1850832198)
-- [Lifehacker] [How to Help Your Kids Build Self-Awareness](https://lifehacker.com/how-to-help-your-kids-build-self-awareness-1850828389)
-- [Lifehacker] [It&#39;s Time to Stop Watering Your Garden This Fall](https://lifehacker.com/its-time-to-stop-watering-your-garden-this-fall-1850837057)
-- [Lifehacker] [The Easiest Way to Train Any Kid to Be More Minimalist](https://lifehacker.com/the-easiest-way-to-train-any-kid-to-be-more-minimalist-1850836199)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Beginner-Friendly Ninja Drone Is $87 Right Now](https://lifehacker.com/this-beginner-friendly-ninja-drone-is-87-right-now-1850832198)<!-- TECH-POSTS:END -->
 
 ---
 
