@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to load react.js apps into existing ASP.NET , Simple AF 🥵](https://dev.to/noob_jeffrey/how-to-load-reactjs-apps-into-existing-aspnet-simple-af-2e09)
+- [Dev.to/JS] [8 Best JavaScript One-Liners](https://dev.to/shivamblog/8-best-javascript-one-liners-303o)
 - [Dev.to/JS] [Understanding &quot;Property of Undefined&quot; TypeError in JavaScript](https://dev.to/maximization/understanding-property-of-undefined-typeerror-in-javascript-168f)
 - [Dev.to/JS] [JavaScript : Object Methods &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-object-methods-englishhindi-31g5)
 - [Dev.to/JS] [JavaScript - Loops and iteration](https://dev.to/zouhair_sahtout/javascript-loops-and-iteration-1djh)
@@ -48,10 +50,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React and Vue: Conditional Rendering](https://dev.to/hellodonovan/react-and-vue-conditional-rendering-3mob)
 - [Lifehacker] [The Biggest Differences Between the iPhone 15/15 Plus and iPhone 14/14 Plus](https://lifehacker.com/iphone-14-plus-versus-iphone-15-plus-1850838772)
 - [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 2&rpar;](https://dev.to/louislazaris/web-dev-tools-of-the-week-no-2-40mm)
-- [Dev.to/JS] [Pagination in Django](https://dev.to/vincod/pagination-in-django-33bn)
 - [Lifehacker] [The Most Common Home Repair Mistakes Owners Make &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-home-repair-mistakes-owners-make-and-h-1850838869)
 - [Lifehacker] [Use These Fonts to Help Remember What You Study](https://lifehacker.com/use-these-fonts-to-help-remember-what-you-study-1850838925)
-- [Dev.to/JS] [Mastering API Requests in React.js: Examples, Explanations, and Use Cases](https://dev.to/anii1429/mastering-api-requests-in-reactjs-examples-explanations-and-use-cases-4hkg)
 - [Lifehacker] [Here’s How Much Your Old iPhone and Apple Watch Are Worth](https://lifehacker.com/here-s-how-much-your-old-iphone-and-apple-watch-are-wor-1850838545)
 - [Lifehacker] [What People Are Getting Wrong This Week: How the Universe Works](https://lifehacker.com/what-people-are-getting-wrong-this-week-how-the-univer-1850838675)
 - [Lifehacker] [Update Your Browsers Right Now](https://lifehacker.com/update-your-browsers-right-now-1850838260)
