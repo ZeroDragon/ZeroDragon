@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding &quot;Property of Undefined&quot; TypeError in JavaScript](https://dev.to/maximization/understanding-property-of-undefined-typeerror-in-javascript-168f)
+- [Dev.to/JS] [JavaScript : Object Methods &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-object-methods-englishhindi-31g5)
 - [Dev.to/JS] [JavaScript - Loops and iteration](https://dev.to/zouhair_sahtout/javascript-loops-and-iteration-1djh)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
@@ -50,9 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Common Home Repair Mistakes Owners Make &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-home-repair-mistakes-owners-make-and-h-1850838869)
 - [Lifehacker] [Use These Fonts to Help Remember What You Study](https://lifehacker.com/use-these-fonts-to-help-remember-what-you-study-1850838925)
 - [Dev.to/JS] [Mastering API Requests in React.js: Examples, Explanations, and Use Cases](https://dev.to/anii1429/mastering-api-requests-in-reactjs-examples-explanations-and-use-cases-4hkg)
-- [Dev.to/JS] [Introducing TxtToHTML Command Line Tool: Transform Your Text Files into HTML](https://dev.to/bhmistry/introducing-txttohtml-command-line-tool-transform-your-text-files-into-html-5elc)
 - [Lifehacker] [Here’s How Much Your Old iPhone and Apple Watch Are Worth](https://lifehacker.com/here-s-how-much-your-old-iphone-and-apple-watch-are-wor-1850838545)
-- [Dev.to/JS] [🚀 Introducing Bun.js: A Modern JavaScript Runner! 🚀](https://dev.to/joukhar/introducing-bunjs-a-modern-javascript-runner-1772)
 - [Lifehacker] [What People Are Getting Wrong This Week: How the Universe Works](https://lifehacker.com/what-people-are-getting-wrong-this-week-how-the-univer-1850838675)
 - [Lifehacker] [Update Your Browsers Right Now](https://lifehacker.com/update-your-browsers-right-now-1850838260)
 - [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
