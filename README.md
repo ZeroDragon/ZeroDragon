@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript - Loops and iteration](https://dev.to/zouhair_sahtout/javascript-loops-and-iteration-1djh)
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
 - [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
 - [Dev.to/JS] [TypeScript and the NOT &lpar;!&rpar; operator in the context of an if statement](https://dev.to/moshkh/typescript-and-the-not-operator-in-the-context-of-an-if-statement-4lgi)
@@ -51,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing TxtToHTML Command Line Tool: Transform Your Text Files into HTML](https://dev.to/bhmistry/introducing-txttohtml-command-line-tool-transform-your-text-files-into-html-5elc)
 - [Lifehacker] [Here’s How Much Your Old iPhone and Apple Watch Are Worth](https://lifehacker.com/here-s-how-much-your-old-iphone-and-apple-watch-are-wor-1850838545)
 - [Dev.to/JS] [🚀 Introducing Bun.js: A Modern JavaScript Runner! 🚀](https://dev.to/joukhar/introducing-bunjs-a-modern-javascript-runner-1772)
-- [Dev.to/JS] [NPM Error Code 4058 &lpar;ENOENT&rpar;](https://dev.to/electromorphous/npm-error-code-4058-enoent-1fi3)
 - [Lifehacker] [What People Are Getting Wrong This Week: How the Universe Works](https://lifehacker.com/what-people-are-getting-wrong-this-week-how-the-univer-1850838675)
 - [Lifehacker] [Update Your Browsers Right Now](https://lifehacker.com/update-your-browsers-right-now-1850838260)
 - [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Colorful Annuals Bloom in the Fall](https://lifehacker.com/best-flowering-fall-annuals-1850837088)
 - [Lifehacker] [You Can Transfer Music Between Spotify and Apple Music](https://lifehacker.com/you-can-transfer-music-between-spotify-and-apple-music-1850835932)
 - [Lifehacker] [The Best Ways to Make Your Own Bubble Tea](https://lifehacker.com/the-best-ways-to-make-your-own-bubble-tea-1850835291)
-- [Crazy Programmer] [5 Applications of Blockchain Technology in Programming](https://www.thecrazyprogrammer.com/2023/09/applications-of-blockchain-technology-in-programming.html)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 14](https://lifehacker.com/connections-answer-today-september-14-2023-1850833559)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [5 Applications of Blockchain Technology in Programming](https://www.thecrazyprogrammer.com/2023/09/applications-of-blockchain-technology-in-programming.html)<!-- TECH-POSTS:END -->
 
 ---
 
