@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Webdev use for HTML, CSS and JS](https://dev.to/smz01/webdev-use-for-html-css-and-js-d42)
+- [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
 - [Lifehacker] [Turn Woody Mushroom Stems Into an Umami-packed Powder](https://lifehacker.com/mushroom-umami-powder-recipe-1850843604)
 - [Lifehacker] [Why You Should Always Study in Silence, According to Science](https://lifehacker.com/why-you-should-always-study-in-silence-according-to-sc-1850843477)
 - [Dev.to/JS] [Why coding is scary and how to learn better](https://dev.to/annoh_karlgusta/why-coding-is-scary-and-how-to-learn-better-558h)
@@ -47,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add a JavaScript Excel XLSX Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-javascript-excel-xlsx-viewer-to-your-web-application-2932)
 - [Lifehacker] [Five Questions to Ask Yourself Before Having a Threesome](https://lifehacker.com/questions-to-ask-before-threesome-1850842094)
 - [Dev.to/JS] [Modulo.js - A full-featured Web Components framework in only 2000 lines](https://dev.to/michaelpb/modulojs-a-full-featured-web-components-framework-in-only-2000-lines-40nb)
-- [Dev.to/JS] [Feature Flag &amp; Dynamic Log features we shipped this summer](https://dev.to/jdwyah/feature-flag-dynamic-log-features-we-shipped-this-summer-55p1)
 - [Lifehacker] [How to Make Choux Pastry, or Pâte à Choux](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
 - [Lifehacker] [The Best Documentaries Currently Streaming on Netflix](https://lifehacker.com/best-documentaries-netflix-1850833851)
 - [Lifehacker] [How Companies Use ‘Drip Pricing’ to Charge You More](https://lifehacker.com/how-companies-use-drip-pricing-to-charge-you-more-1850788343)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The ScanWatch Is a Less Distracting Fitness Tracker](https://lifehacker.com/the-scanwatch-is-a-less-distracting-fitness-tracker-1850836025)
 - [Lifehacker] [Don’t Throw Your Old Phone Chargers in the Trash](https://lifehacker.com/recycle-old-phone-chargers-cables-1840925369)
 - [Lifehacker] [You Can Get This Portable Gaming Monitor for 30% Off Right Now](https://lifehacker.com/you-can-get-this-portable-gaming-monitor-for-30-off-ri-1850839609)
-- [Lifehacker] [This Digital Tape Measure Can Remember 99 Measurements and Is $99](https://lifehacker.com/this-digital-tape-measure-can-remember-99-measurements-1850826201)
-- [Lifehacker] [How to Wash a Rain Jacket &lpar;and Why You Need To&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Digital Tape Measure Can Remember 99 Measurements and Is $99](https://lifehacker.com/this-digital-tape-measure-can-remember-99-measurements-1850826201)<!-- TECH-POSTS:END -->
 
 ---
 
