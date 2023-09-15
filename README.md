@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why I don’t buy into “Self explanatory code”](https://dev.to/verax5/why-i-dont-buy-into-self-explanatory-code-24oc)
+- [Lifehacker] [The Rachio Is My Favorite Smart Hose Timer](https://lifehacker.com/rachio-smart-hose-timer-review-1850842996)
+- [Dev.to/JS] [Txt-To-Html Converter](https://dev.to/sshah135/txt-to-html-converter-4k3m)
+- [Dev.to/JS] [Implementing a participant audio level indicator with Daily’s video API](https://dev.to/trydaily/implementing-a-participant-audio-level-indicator-with-dailys-video-api-2k87)
+- [Lifehacker] [These Are My Favorite Mind-Mapping Templates for Studying](https://lifehacker.com/these-are-my-favorite-mind-mapping-templates-for-studyi-1850843156)
 - [Dev.to/JS] [Creating Own Chat GPT](https://dev.to/brnikita/creating-own-chat-gpt-cgo)
 - [Dev.to/JS] [Every React.js beginner should know these!](https://dev.to/shriharimurali/every-reactjs-beginner-should-know-these-520k)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What’s the Deal With Smurf Cat?](https://lifehacker.com/what-is-smurf-cat-1850842927)
@@ -41,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying Nested Data: A Guide to Accessing and Processing Objects, Arrays, and JSON in JavaScript](https://dev.to/iamcymentho/demystifying-nested-data-a-guide-to-accessing-and-processing-objects-arrays-and-json-in-javascript-34im)
 - [Lifehacker] [The Best Documentaries Currently Streaming on Netflix](https://lifehacker.com/best-documentaries-netflix-1850833851)
 - [Dev.to/JS] [JavaScript Snippets](https://dev.to/rockrgrrl/javascript-snippets-5b3o)
-- [Dev.to/JS] [How I built Web App to evaluate polynomials using Horner&#39;s algorithm.](https://dev.to/stevepurpose/how-i-built-web-app-to-evaluate-polynomials-using-horners-algorithm-56a7)
-- [Dev.to/JS] [Demystifying React&#39;s Rendering and Reconciliation Mechanisms](https://dev.to/judeebekes67/demystifying-reacts-rendering-and-reconciliation-mechanisms-2h71)
-- [Dev.to/JS] [How to Create a Color Dropdown List in an Angular Datagrid Application](https://dev.to/grapecity/how-to-create-a-color-dropdown-list-in-an-angular-datagrid-application-1em4)
 - [Lifehacker] [How Companies Use ‘Drip Pricing’ to Charge You More](https://lifehacker.com/how-companies-use-drip-pricing-to-charge-you-more-1850788343)
 - [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850836740)
 - [Lifehacker] [It&#39;s Not Always Best to Book Flights Through Your Credit Card Rewards Portal](https://lifehacker.com/its-not-always-best-to-book-flights-through-your-credit-1850834952)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Wash a Rain Jacket &lpar;and Why You Need To&rpar;](https://lifehacker.com/dont-use-detergent-on-your-rain-gear-do-this-instead-1850037456)
 - [Lifehacker] [Stack These Three Deals to Save More on the Adidas Fall Sale](https://lifehacker.com/stack-these-three-deals-to-save-more-on-the-adidas-fall-1850839484)
 - [Lifehacker] [How to Clean Grout the Right Way](https://lifehacker.com/how-to-clean-grout-the-right-way-1850839471)
-- [Lifehacker] [The Fail-Proof Way to Make a Lattice Pie Crust](https://lifehacker.com/easy-lattice-pie-crust-1848209585)
-- [Lifehacker] [The Biggest Differences Between the iPhone 15/15 Plus and iPhone 14/14 Plus](https://lifehacker.com/iphone-14-plus-versus-iphone-15-plus-1850838772)
-- [Lifehacker] [The Most Common Home Repair Mistakes Owners Make &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-home-repair-mistakes-owners-make-and-h-1850838869)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Fail-Proof Way to Make a Lattice Pie Crust](https://lifehacker.com/easy-lattice-pie-crust-1848209585)<!-- TECH-POSTS:END -->
 
 ---
 
