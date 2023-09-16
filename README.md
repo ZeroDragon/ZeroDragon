@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Boilerplate para TypeScript](https://dev.to/ingenierojlasso/boilerplate-para-typescript-jm3)
+- [Dev.to/JS] [Como o CloudGaming funciona + Criando um Jogo com GO e Transmitindo os quadros via WebRTC.](https://dev.to/wmattei/como-o-cloudgaming-funciona-criando-um-jogo-com-go-e-transmitindo-os-quadros-via-webrtc-56d0)
+- [Dev.to/JS] [How I think CloudGaming works + Building a Game with GO and Streaming the frames via WebRTC.](https://dev.to/wmattei/how-i-think-cloudgaming-works-building-a-game-with-go-and-streaming-the-frames-via-webrtc-2p2k)
 - [Dev.to/JS] [Protect Your Routes in Angular with Guards: Control Access and Exit of Routes Efficiently!](https://dev.to/fredydlemus/protect-your-routes-in-angular-with-guards-control-access-and-exit-of-routes-efficiently-10a0)
 - [Dev.to/JS] [How mange Global State Management In React With the Help of useContext&lpar;&rpar; Hook and time to say bye-bye Redux ?](https://dev.to/radhe65gupta/how-mange-global-state-management-in-react-with-the-help-of-usecontext-hook-and-time-to-say-bye-bye-redux--2c8p)
 - [Dev.to/JS] [How to create a website using the Cample.js framework?](https://dev.to/antonmak1/how-to-create-a-website-using-the-camplejs-framework-5f2a)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
 - [Dev.to/JS] [I attended an ng-conf 2023 workshop online - Was it worth it?](https://dev.to/vkagklis/i-attended-an-ng-conf-2023-workshop-online-was-it-worth-it-2pko)
 - [Dev.to/JS] [Mastering Javascript: Building An Interactive Shopping List App.](https://dev.to/paulineoraro/mastering-javascript-building-an-interactive-shopping-list-app-3j4f)
-- [Dev.to/JS] [How I made a Markdown - HTML dual file format &lpar;Modulo.js Development&rpar;](https://dev.to/michaelpb/how-i-made-a-markdown-html-dual-file-format-modulojs-development-k48)
-- [Dev.to/JS] [Testing with JS is like magic, but is it science?](https://dev.to/westbrook/testing-with-js-is-like-magic-but-is-it-science-23f8)
-- [Dev.to/JS] [How to integrate sentry to Nextjs application](https://dev.to/max24816/how-to-integrate-sentry-to-nextjs-application-52a0)
 - [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
 - [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
