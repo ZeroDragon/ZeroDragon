@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Latest Newsletter: Wonderfull and Strange Nerdy Discussions &lpar;Issue #132&rpar;](https://dev.to/mjgs/latest-newsletter-wonderfull-and-strange-nerdy-discussions-issue-132-4f8b)
+- [Dev.to/JS] [🚀Mastering Performance Optimisation in React Applications🚀](https://dev.to/ajayprakash/mastering-performance-optimisation-in-react-applications-1421)
+- [Dev.to/JS] [How Does Nerve Regen Formula Work?](https://dev.to/nerveregenformulas6/how-does-nerve-regen-formula-work-1f8g)
+- [Dev.to/JS] [What Is Bun 1.0? A Game-Changer in JavaScript Development](https://dev.to/harshvadadoriya/what-is-bun-a-game-changer-in-javascript-development-29f9)
 - [Dev.to/JS] [Mastering object manipulation in JavaScript](https://dev.to/frantchessico/mastering-object-manipulation-in-javascript-5914)
 - [Dev.to/JS] [Leetcode 118. Pascal&#39;s Triangle](https://dev.to/irinakramer/leetcode-118-pascals-triangle-27c7)
 - [Dev.to/JS] [Bun hype. How we learned nothing from Yarn](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j)
@@ -40,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Always Study in Silence, According to Science](https://lifehacker.com/why-you-should-always-study-in-silence-according-to-sc-1850843477)
 - [Dev.to/JS] [Why coding is scary and how to learn better](https://dev.to/annoh_karlgusta/why-coding-is-scary-and-how-to-learn-better-558h)
 - [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
-- [Dev.to/JS] [Exploring Symbols in JavaScript](https://dev.to/mainulspace/exploring-symbols-in-javascript-300g)
 - [Lifehacker] [You Can Get Windows 11 Home for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-home-for-30-right-now-1850836810)
-- [Dev.to/JS] [Why I don’t buy into “Self explanatory code”](https://dev.to/verax5/why-i-dont-buy-into-self-explanatory-code-24oc)
 - [Lifehacker] [The Rachio Is My Favorite Smart Hose Timer](https://lifehacker.com/rachio-smart-hose-timer-review-1850842996)
-- [Dev.to/JS] [Txt-To-Html Converter](https://dev.to/sshah135/txt-to-html-converter-4k3m)
-- [Dev.to/JS] [Implementing a participant audio level indicator with Daily’s video API](https://dev.to/trydaily/implementing-a-participant-audio-level-indicator-with-dailys-video-api-2k87)
 - [Lifehacker] [These Are My Favorite Mind-Mapping Templates for Studying](https://lifehacker.com/these-are-my-favorite-mind-mapping-templates-for-studyi-1850843156)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What’s the Deal With Smurf Cat?](https://lifehacker.com/what-is-smurf-cat-1850842927)
 - [Lifehacker] [Nine Tips for Perfect Mashed Potatoes](https://lifehacker.com/9-tips-for-perfect-mashed-potatoes-1845692616)
