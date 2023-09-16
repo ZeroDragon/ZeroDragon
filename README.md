@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 &#39;Aha&#39; Moments: Navigating React&#39;s New Documentation!](https://dev.to/alwalxed/10-aha-moments-navigating-reacts-new-documentation-3cm7)
+- [Dev.to/JS] [GitHub Decoded: Your Beginner&#39;s Guide](https://dev.to/anii1429/github-decoded-your-beginners-guide-4kii)
+- [Dev.to/JS] [Web workers in ReactJs](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)
+- [Dev.to/JS] [🚀Learn Next.js 13 Within 2 Hours🚀](https://dev.to/myogeshchavan97/learn-nextjs-13-within-2-hours-3i7n)
 - [Dev.to/JS] [Latest Newsletter: Wonderfull and Strange Nerdy Discussions &lpar;Issue #132&rpar;](https://dev.to/mjgs/latest-newsletter-wonderfull-and-strange-nerdy-discussions-issue-132-4f8b)
 - [Dev.to/JS] [🚀Mastering Performance Optimisation in React Applications🚀](https://dev.to/ajayprakash/mastering-performance-optimisation-in-react-applications-1421)
 - [Dev.to/JS] [How Does Nerve Regen Formula Work?](https://dev.to/nerveregenformulas6/how-does-nerve-regen-formula-work-1f8g)
@@ -35,14 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bun hype. How we learned nothing from Yarn](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
 - [Dev.to/JS] [How to manage state in a React app using Redux.](https://dev.to/efkumah/how-to-manage-state-in-a-react-app-using-redux-5pc)
-- [Dev.to/JS] [Bun.js hype](https://dev.to/damnpedrini/bunjs-hype-1mgg)
-- [Dev.to/JS] [Understanding JavaScript Temporal Dead Zone](https://dev.to/mmvergara/understanding-javascript-temporal-dead-zone-102a)
 - [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
-- [Dev.to/JS] [Webdev use for HTML, CSS and JS](https://dev.to/smz01/webdev-use-for-html-css-and-js-d42)
 - [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
 - [Lifehacker] [Turn Woody Mushroom Stems Into an Umami-packed Powder](https://lifehacker.com/mushroom-umami-powder-recipe-1850843604)
 - [Lifehacker] [Why You Should Always Study in Silence, According to Science](https://lifehacker.com/why-you-should-always-study-in-silence-according-to-sc-1850843477)
-- [Dev.to/JS] [Why coding is scary and how to learn better](https://dev.to/annoh_karlgusta/why-coding-is-scary-and-how-to-learn-better-558h)
 - [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
 - [Lifehacker] [You Can Get Windows 11 Home for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-home-for-30-right-now-1850836810)
 - [Lifehacker] [The Rachio Is My Favorite Smart Hose Timer](https://lifehacker.com/rachio-smart-hose-timer-review-1850842996)
