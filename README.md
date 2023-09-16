@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [kerala tour packages from bangalore](https://dev.to/social1221/kerala-tour-packages-from-bangalore-2hd3)
+- [Dev.to/JS] [Fetch API in JavaScript](https://dev.to/mursalfk/fetch-api-in-javascript-2nea)
+- [Dev.to/JS] [How to convert an onChange function to an onClick button in JavaScript](https://dev.to/p1rate01/how-to-convert-a-onchange-function-to-an-onclick-button-in-javascript-19hn)
+- [Dev.to/JS] [Find the best herbal chamomile tea - junglesting](https://dev.to/junglesting/find-the-best-herbal-chamomile-tea-junglesting-2e5i)
 - [Dev.to/JS] [10 &#39;Aha&#39; Moments: Navigating React&#39;s New Documentation!](https://dev.to/alwalxed/10-aha-moments-navigating-reacts-new-documentation-3cm7)
 - [Dev.to/JS] [GitHub Decoded: Your Beginner&#39;s Guide](https://dev.to/anii1429/github-decoded-your-beginners-guide-4kii)
 - [Dev.to/JS] [Web workers in ReactJs](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀Mastering Performance Optimisation in React Applications🚀](https://dev.to/ajayprakash/mastering-performance-optimisation-in-react-applications-1421)
 - [Dev.to/JS] [How Does Nerve Regen Formula Work?](https://dev.to/nerveregenformulas6/how-does-nerve-regen-formula-work-1f8g)
 - [Dev.to/JS] [What Is Bun 1.0? A Game-Changer in JavaScript Development](https://dev.to/harshvadadoriya/what-is-bun-a-game-changer-in-javascript-development-29f9)
-- [Dev.to/JS] [Mastering object manipulation in JavaScript](https://dev.to/frantchessico/mastering-object-manipulation-in-javascript-5914)
-- [Dev.to/JS] [Leetcode 118. Pascal&#39;s Triangle](https://dev.to/irinakramer/leetcode-118-pascals-triangle-27c7)
-- [Dev.to/JS] [Bun hype. How we learned nothing from Yarn](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
-- [Dev.to/JS] [How to manage state in a React app using Redux.](https://dev.to/efkumah/how-to-manage-state-in-a-react-app-using-redux-5pc)
 - [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
 - [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
 - [Lifehacker] [Turn Woody Mushroom Stems Into an Umami-packed Powder](https://lifehacker.com/mushroom-umami-powder-recipe-1850843604)
