@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cloned cards for sale](https://dev.to/farmapram2mgpills/cloned-cards-for-sale-ep)
+- [Dev.to/JS] [Preparing a React course in public - ideas](https://dev.to/manuartero/preparing-a-react-course-in-public-ideas-2fe3)
+- [Dev.to/JS] [Top 7 JavaScript One-Liners: Your Path to Cleaner, Readable Code 📜](https://dev.to/sharmakushal/top-7-javascript-one-liners-your-path-to-cleaner-readable-code-22ol)
+- [Dev.to/JS] [Bun is delicious. But why was it baked?](https://dev.to/sanjaybabu/bun-is-delicious-but-why-was-it-baked-2fm)
 - [Dev.to/JS] [How to keep your tokens secret?](https://dev.to/bashamega/how-to-keep-your-tokens-secret-1mp3)
 - [Dev.to/JS] [7 questions SaaS founders must answer](https://dev.to/ideahub_charlie/7-questions-saas-founders-must-answer-283a)
 - [Dev.to/JS] [Boostaro Reviews - Reviews, Results, Ingredients, Benefits &amp; Side Effects?](https://dev.to/boostaroin85697/boostaro-reviews-reviews-results-ingredients-benefits-side-effects-dl5)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [kerala tour packages from bangalore](https://dev.to/social1221/kerala-tour-packages-from-bangalore-2hd3)
 - [Dev.to/JS] [Fetch API in JavaScript](https://dev.to/mursalfk/fetch-api-in-javascript-2nea)
 - [Dev.to/JS] [How to convert an onChange function to an onClick button in JavaScript](https://dev.to/p1rate01/how-to-convert-a-onchange-function-to-an-onclick-button-in-javascript-19hn)
-- [Dev.to/JS] [Find the best herbal chamomile tea - junglesting](https://dev.to/junglesting/find-the-best-herbal-chamomile-tea-junglesting-2e5i)
-- [Dev.to/JS] [10 &#39;Aha&#39; Moments: Navigating React&#39;s Doc!](https://dev.to/alwalxed/10-aha-moments-navigating-reacts-new-documentation-3cm7)
-- [Dev.to/JS] [GitHub Decoded: Your Beginner&#39;s Guide](https://dev.to/anii1429/github-decoded-your-beginners-guide-4kii)
-- [Dev.to/JS] [Web workers in ReactJs](https://dev.to/sumankalia/web-workers-in-reactjs-4bc7)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
 - [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
 - [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
