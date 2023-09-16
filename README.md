@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript SQLite &lpar;SQL Database In Browser&rpar;](https://dev.to/codeboxx/javascript-sqlite-sql-database-in-browser-3962)
+- [Dev.to/JS] [Throw away the &quot;Script&quot; from &quot;Type&quot;&quot;Script&quot;.](https://dev.to/artxe2/throw-away-the-script-from-typescript-mn5)
 - [Dev.to/JS] [The first day of my solo project](https://dev.to/alexander6/the-first-day-of-my-solo-project-22a7)
 - [Dev.to/JS] [Array Data Structure](https://dev.to/monirulislam027/array-data-structure-3dja)
 - [Dev.to/JS] [هوک useContext ری اکت و بررسی تخصصی Context API ری اکت !](https://dev.to/frontendi/hwkh-usecontext-ry-kht-w-brrsy-tkhssy-context-api-ry-kht--1j07)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Preparing a React course in public - ideas](https://dev.to/manuartero/preparing-a-react-course-in-public-ideas-2fe3)
 - [Dev.to/JS] [Top 7 JavaScript One-Liners: Your Path to Cleaner, Readable Code 📜](https://dev.to/sharmakushal/top-7-javascript-one-liners-your-path-to-cleaner-readable-code-22ol)
 - [Dev.to/JS] [Bun is delicious. But why was it baked?](https://dev.to/sanjaybabu/bun-is-delicious-but-why-was-it-baked-2fm)
-- [Dev.to/JS] [How to keep your tokens secret?](https://dev.to/bashamega/how-to-keep-your-tokens-secret-1mp3)
-- [Dev.to/JS] [7 questions SaaS founders must answer](https://dev.to/ideahub_charlie/7-questions-saas-founders-must-answer-283a)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
 - [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
 - [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
