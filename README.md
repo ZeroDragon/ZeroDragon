@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
 - [Dev.to/JS] [How to manage state in a React app using Redux.](https://dev.to/efkumah/how-to-manage-state-in-a-react-app-using-redux-5pc)
 - [Dev.to/JS] [Bun.js hype](https://dev.to/damnpedrini/bunjs-hype-1mgg)
 - [Dev.to/JS] [Understanding JavaScript Temporal Dead Zone](https://dev.to/mmvergara/understanding-javascript-temporal-dead-zone-102a)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
 - [Lifehacker] [The ScanWatch Is a Less Distracting Fitness Tracker](https://lifehacker.com/the-scanwatch-is-a-less-distracting-fitness-tracker-1850836025)
-- [Lifehacker] [Don’t Throw Your Old Phone Chargers in the Trash](https://lifehacker.com/recycle-old-phone-chargers-cables-1840925369)
-- [Lifehacker] [You Can Get This Portable Gaming Monitor for 30% Off Right Now](https://lifehacker.com/you-can-get-this-portable-gaming-monitor-for-30-off-ri-1850839609)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Throw Your Old Phone Chargers in the Trash](https://lifehacker.com/recycle-old-phone-chargers-cables-1840925369)<!-- TECH-POSTS:END -->
 
 ---
 
