@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [همه چیز در مورد Strict Mode ری اکت !](https://dev.to/frontendi/hmh-chyz-dr-mwrd-strict-mode-ry-kht--ncl)
+- [Dev.to/JS] [React Query : staleTime vs cacheTime](https://dev.to/delisrey/react-query-staletime-vs-cachetime-hml)
 - [Dev.to/JS] [Cloned cards for sale](https://dev.to/farmapram2mgpills/cloned-cards-for-sale-ep)
 - [Dev.to/JS] [Preparing a React course in public - ideas](https://dev.to/manuartero/preparing-a-react-course-in-public-ideas-2fe3)
 - [Dev.to/JS] [Top 7 JavaScript One-Liners: Your Path to Cleaner, Readable Code 📜](https://dev.to/sharmakushal/top-7-javascript-one-liners-your-path-to-cleaner-readable-code-22ol)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Closer Look at the Best Certifications in Physical Security](https://dev.to/pppw9ol5/a-closer-look-at-the-best-certifications-in-physical-security-11a2)
 - [Dev.to/JS] [Random Code Inspiration Volume #1](https://dev.to/receter/random-code-inspiration-volume-1-3aip)
 - [Dev.to/JS] [kerala tour packages from bangalore](https://dev.to/social1221/kerala-tour-packages-from-bangalore-2hd3)
-- [Dev.to/JS] [Fetch API in JavaScript](https://dev.to/mursalfk/fetch-api-in-javascript-2nea)
-- [Dev.to/JS] [How to convert an onChange function to an onClick button in JavaScript](https://dev.to/p1rate01/how-to-convert-a-onchange-function-to-an-onclick-button-in-javascript-19hn)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
 - [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
 - [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
