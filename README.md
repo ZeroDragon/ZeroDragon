@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering object manipulation in JavaScript](https://dev.to/frantchessico/mastering-object-manipulation-in-javascript-5914)
 - [Dev.to/JS] [Leetcode 118. Pascal&#39;s Triangle](https://dev.to/irinakramer/leetcode-118-pascals-triangle-27c7)
 - [Dev.to/JS] [Bun hype. How we learned nothing from Yarn](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Txt-To-Html Converter](https://dev.to/sshah135/txt-to-html-converter-4k3m)
 - [Dev.to/JS] [Implementing a participant audio level indicator with Daily’s video API](https://dev.to/trydaily/implementing-a-participant-audio-level-indicator-with-dailys-video-api-2k87)
 - [Lifehacker] [These Are My Favorite Mind-Mapping Templates for Studying](https://lifehacker.com/these-are-my-favorite-mind-mapping-templates-for-studyi-1850843156)
-- [Dev.to/JS] [Creating Own Chat GPT](https://dev.to/brnikita/creating-own-chat-gpt-cgo)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What’s the Deal With Smurf Cat?](https://lifehacker.com/what-is-smurf-cat-1850842927)
 - [Lifehacker] [Nine Tips for Perfect Mashed Potatoes](https://lifehacker.com/9-tips-for-perfect-mashed-potatoes-1845692616)
 - [Lifehacker] [Here&#39;s How Fast the iPhone 15 Pro Really Is](https://lifehacker.com/heres-how-fast-the-iphone-15-pro-really-is-1850842175)
