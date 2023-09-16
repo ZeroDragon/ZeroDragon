@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Your Guide to SADAD Payment Gateway](https://dev.to/mohdhaider07/your-guide-to-sadad-payment-gateway-aba)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
 - [Dev.to/JS] [I attended an ng-conf 2023 workshop online - Was it worth it?](https://dev.to/vkagklis/i-attended-an-ng-conf-2023-workshop-online-was-it-worth-it-2pko)
 - [Dev.to/JS] [Mastering Javascript: Building An Interactive Shopping List App.](https://dev.to/paulineoraro/mastering-javascript-building-an-interactive-shopping-list-app-3j4f)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array Data Structure](https://dev.to/monirulislam027/array-data-structure-3dja)
 - [Dev.to/JS] [هوک useContext ری اکت و بررسی تخصصی Context API ری اکت !](https://dev.to/frontendi/hwkh-usecontext-ry-kht-w-brrsy-tkhssy-context-api-ry-kht--1j07)
 - [Dev.to/JS] [دام مجازی ری اکت و بررسی تخصصی Virtual DOM ری اکت](https://dev.to/frontendi/dm-mjzy-ry-kht-w-brrsy-tkhssy-virtual-dom-ry-kht-49i2)
-- [Dev.to/JS] [همه چیز در مورد Fragment در React !](https://dev.to/frontendi/hmh-chyz-dr-mwrd-fragment-dr-react--59j8)
 - [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
 - [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
