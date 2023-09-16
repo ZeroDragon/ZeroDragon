@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The first day of my solo project](https://dev.to/alexander6/the-first-day-of-my-solo-project-22a7)
+- [Dev.to/JS] [Array Data Structure](https://dev.to/monirulislam027/array-data-structure-3dja)
+- [Dev.to/JS] [هوک useContext ری اکت و بررسی تخصصی Context API ری اکت !](https://dev.to/frontendi/hwkh-usecontext-ry-kht-w-brrsy-tkhssy-context-api-ry-kht--1j07)
+- [Dev.to/JS] [دام مجازی ری اکت و بررسی تخصصی Virtual DOM ری اکت](https://dev.to/frontendi/dm-mjzy-ry-kht-w-brrsy-tkhssy-virtual-dom-ry-kht-49i2)
+- [Dev.to/JS] [همه چیز در مورد Fragment در React !](https://dev.to/frontendi/hmh-chyz-dr-mwrd-fragment-dr-react--59j8)
+- [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)
 - [Dev.to/JS] [همه چیز در مورد Strict Mode ری اکت !](https://dev.to/frontendi/hmh-chyz-dr-mwrd-strict-mode-ry-kht--ncl)
 - [Dev.to/JS] [React Query : staleTime vs cacheTime](https://dev.to/delisrey/react-query-staletime-vs-cachetime-hml)
-- [Dev.to/JS] [Cloned cards for sale](https://dev.to/farmapram2mgpills/cloned-cards-for-sale-ep)
 - [Dev.to/JS] [Preparing a React course in public - ideas](https://dev.to/manuartero/preparing-a-react-course-in-public-ideas-2fe3)
 - [Dev.to/JS] [Top 7 JavaScript One-Liners: Your Path to Cleaner, Readable Code 📜](https://dev.to/sharmakushal/top-7-javascript-one-liners-your-path-to-cleaner-readable-code-22ol)
 - [Dev.to/JS] [Bun is delicious. But why was it baked?](https://dev.to/sanjaybabu/bun-is-delicious-but-why-was-it-baked-2fm)
 - [Dev.to/JS] [How to keep your tokens secret?](https://dev.to/bashamega/how-to-keep-your-tokens-secret-1mp3)
 - [Dev.to/JS] [7 questions SaaS founders must answer](https://dev.to/ideahub_charlie/7-questions-saas-founders-must-answer-283a)
-- [Dev.to/JS] [Boostaro Reviews - Reviews, Results, Ingredients, Benefits &amp; Side Effects?](https://dev.to/boostaroin85697/boostaro-reviews-reviews-results-ingredients-benefits-side-effects-dl5)
-- [Dev.to/JS] [A Closer Look at the Best Certifications in Physical Security](https://dev.to/pppw9ol5/a-closer-look-at-the-best-certifications-in-physical-security-11a2)
-- [Dev.to/JS] [Random Code Inspiration Volume #1](https://dev.to/receter/random-code-inspiration-volume-1-3aip)
-- [Dev.to/JS] [kerala tour packages from bangalore](https://dev.to/social1221/kerala-tour-packages-from-bangalore-2hd3)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
 - [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
 - [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Quick Air Fryer Apple Turnover for Rosh Hashanah](https://lifehacker.com/air-fryer-apple-turnover-recipe-1850839282)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
 - [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
-- [Lifehacker] [The ScanWatch Is a Less Distracting Fitness Tracker](https://lifehacker.com/the-scanwatch-is-a-less-distracting-fitness-tracker-1850836025)
-- [Lifehacker] [Don’t Throw Your Old Phone Chargers in the Trash](https://lifehacker.com/recycle-old-phone-chargers-cables-1840925369)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The ScanWatch Is a Less Distracting Fitness Tracker](https://lifehacker.com/the-scanwatch-is-a-less-distracting-fitness-tracker-1850836025)<!-- TECH-POSTS:END -->
 
 ---
 
