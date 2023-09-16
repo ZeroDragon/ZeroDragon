@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Closer Look at the Best Certifications in Physical Security](https://dev.to/pppw9ol5/a-closer-look-at-the-best-certifications-in-physical-security-11a2)
+- [Dev.to/JS] [Random Code Inspiration Volume #1](https://dev.to/receter/random-code-inspiration-volume-1-3aip)
 - [Dev.to/JS] [kerala tour packages from bangalore](https://dev.to/social1221/kerala-tour-packages-from-bangalore-2hd3)
 - [Dev.to/JS] [Fetch API in JavaScript](https://dev.to/mursalfk/fetch-api-in-javascript-2nea)
 - [Dev.to/JS] [How to convert an onChange function to an onClick button in JavaScript](https://dev.to/p1rate01/how-to-convert-a-onchange-function-to-an-onclick-button-in-javascript-19hn)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀Learn Next.js 13 Within 2 Hours🚀](https://dev.to/myogeshchavan97/learn-nextjs-13-within-2-hours-3i7n)
 - [Dev.to/JS] [Latest Newsletter: Wonderfull and Strange Nerdy Discussions &lpar;Issue #132&rpar;](https://dev.to/mjgs/latest-newsletter-wonderfull-and-strange-nerdy-discussions-issue-132-4f8b)
 - [Dev.to/JS] [🚀Mastering Performance Optimisation in React Applications🚀](https://dev.to/ajayprakash/mastering-performance-optimisation-in-react-applications-1421)
-- [Dev.to/JS] [How Does Nerve Regen Formula Work?](https://dev.to/nerveregenformulas6/how-does-nerve-regen-formula-work-1f8g)
-- [Dev.to/JS] [What Is Bun 1.0? A Game-Changer in JavaScript Development](https://dev.to/harshvadadoriya/what-is-bun-a-game-changer-in-javascript-development-29f9)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
 - [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
 - [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
