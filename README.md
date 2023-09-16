@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to manage state in a React app using Redux.](https://dev.to/efkumah/how-to-manage-state-in-a-react-app-using-redux-5pc)
+- [Dev.to/JS] [Bun.js hype](https://dev.to/damnpedrini/bunjs-hype-1mgg)
 - [Dev.to/JS] [Understanding JavaScript Temporal Dead Zone](https://dev.to/mmvergara/understanding-javascript-temporal-dead-zone-102a)
 - [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
 - [Dev.to/JS] [Webdev use for HTML, CSS and JS](https://dev.to/smz01/webdev-use-for-html-css-and-js-d42)
@@ -46,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What’s the Deal With Smurf Cat?](https://lifehacker.com/what-is-smurf-cat-1850842927)
 - [Lifehacker] [Nine Tips for Perfect Mashed Potatoes](https://lifehacker.com/9-tips-for-perfect-mashed-potatoes-1845692616)
 - [Dev.to/JS] [Корисні JavaScript методи які помістяться в один рядок](https://dev.to/betelgeuseas/korisni-javascript-mietodi-iaki-pomistiatsia-v-odin-riadok-2h0m)
-- [Dev.to/JS] [My LFX Journey: The Zowe App Store UI Project](https://dev.to/sidmohanty11/my-lfx-journey-the-zowe-app-store-ui-project-1iao)
 - [Lifehacker] [Here&#39;s How Fast the iPhone 15 Pro Really Is](https://lifehacker.com/heres-how-fast-the-iphone-15-pro-really-is-1850842175)
-- [Dev.to/JS] [How to Add a JavaScript Excel XLSX Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-javascript-excel-xlsx-viewer-to-your-web-application-2932)
 - [Lifehacker] [Five Questions to Ask Yourself Before Having a Threesome](https://lifehacker.com/questions-to-ask-before-threesome-1850842094)
 - [Lifehacker] [How to Make Choux Pastry, or Pâte à Choux](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
 - [Lifehacker] [The Best Documentaries Currently Streaming on Netflix](https://lifehacker.com/best-documentaries-netflix-1850833851)
