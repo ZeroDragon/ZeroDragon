@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I made a Markdown - HTML dual file format &lpar;Modulo.js Development&rpar;](https://dev.to/michaelpb/how-i-made-a-markdown-html-dual-file-format-modulojs-development-k48)
+- [Dev.to/JS] [Testing with JS is like magic, but is it science?](https://dev.to/westbrook/testing-with-js-is-like-magic-but-is-it-science-23f8)
+- [Dev.to/JS] [How to integrate sentry to Nextjs application](https://dev.to/max24816/how-to-integrate-sentry-to-nextjs-application-52a0)
+- [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
 - [Dev.to/JS] [Javascript SQLite &lpar;SQL Database In Browser&rpar;](https://dev.to/codeboxx/javascript-sqlite-sql-database-in-browser-3962)
 - [Dev.to/JS] [Throw away the &quot;Script&quot; from &quot;Type&quot;&quot;Script&quot;.](https://dev.to/artxe2/throw-away-the-script-from-typescript-mn5)
 - [Dev.to/JS] [The first day of my solo project](https://dev.to/alexander6/the-first-day-of-my-solo-project-22a7)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)
 - [Dev.to/JS] [همه چیز در مورد Strict Mode ری اکت !](https://dev.to/frontendi/hmh-chyz-dr-mwrd-strict-mode-ry-kht--ncl)
 - [Dev.to/JS] [React Query : staleTime vs cacheTime](https://dev.to/delisrey/react-query-staletime-vs-cachetime-hml)
-- [Dev.to/JS] [Preparing a React course in public - ideas](https://dev.to/manuartero/preparing-a-react-course-in-public-ideas-2fe3)
-- [Dev.to/JS] [Top 7 JavaScript One-Liners: Your Path to Cleaner, Readable Code 📜](https://dev.to/sharmakushal/top-7-javascript-one-liners-your-path-to-cleaner-readable-code-22ol)
-- [Dev.to/JS] [Bun is delicious. But why was it baked?](https://dev.to/sanjaybabu/bun-is-delicious-but-why-was-it-baked-2fm)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
 - [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
 - [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Protect Your Kids From Online Scams](https://lifehacker.com/the-best-ways-to-protect-your-kids-from-online-scams-1850841015)
 - [Lifehacker] [Make This Quick Air Fryer Apple Turnover for Rosh Hashanah](https://lifehacker.com/air-fryer-apple-turnover-recipe-1850839282)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)
-- [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)
-- [Lifehacker] [The ScanWatch Is a Less Distracting Fitness Tracker](https://lifehacker.com/the-scanwatch-is-a-less-distracting-fitness-tracker-1850836025)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do If You Fill Your Car Up With the Wrong Gas?](https://lifehacker.com/what-happens-if-you-put-the-wrong-octane-of-gas-in-your-1785407622)<!-- TECH-POSTS:END -->
 
 ---
 
