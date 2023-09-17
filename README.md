@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Start Blogging Step By Step Full Guide | Easy way to earn money online](https://dev.to/lailarose33020/how-to-start-blogging-step-by-step-full-guide-easy-way-to-earn-money-online-7j2)
+- [Dev.to/JS] [Mastering Separation of Concerns in React with Custom Hooks](https://dev.to/barrymichaeldoyle/mastering-separation-of-concerns-in-react-with-custom-hooks-1e97)
+- [Dev.to/JS] [Converting Dates into Human-Readable Time Ago Format in JavaScript](https://dev.to/sh20raj/converting-dates-into-human-readable-time-ago-format-in-javascript-595g)
+- [Dev.to/JS] [How can I optimize my website&#39;s loading speed and overall performance](https://dev.to/amelia1/how-can-i-optimize-my-websites-loading-speed-and-overall-performance-1f7e)
+- [Dev.to/JS] [Generating React files with Plop to maintain code consistency and avoid trivial steps](https://dev.to/dionarodrigues/generating-react-files-with-plop-to-maintain-code-consistency-and-avoid-trivial-steps-189e)
+- [Dev.to/JS] [DiffAE: How to use AI to make your friends look bald, happy, young, blond, old - you name it!](https://dev.to/mikeyoung44/diffae-how-to-use-ai-to-make-your-friends-look-bald-happy-young-blond-old-you-name-it-2pb7)
 - [Dev.to/JS] [Mastering the `array.reduce&lpar;&rpar;` Method in JavaScript](https://dev.to/frantchessico/mastering-the-arrayreduce-method-in-javascript-2n69)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Dev.to/JS] [SOLIDJS in Browser](https://dev.to/artydev/solidjs-in-browser-26fg)
@@ -34,12 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 Tips for Becoming a Proficient Programmer](https://dev.to/sharmakushal/top-5-tips-for-becoming-a-proficient-programmer-25e2)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Dev.to/JS] [🚀 Transform Your Web Apps: Migrate from Node.js to Bun.js with Ease! 🚀](https://dev.to/joukhar/transform-your-web-apps-migrate-from-nodejs-to-bunjs-with-ease-hjf)
-- [Dev.to/JS] [Yet Another Newsletter LOL: New Beginnings](https://dev.to/nickytonline/yet-another-newsletter-lol-new-beginnings-o1d)
-- [Dev.to/JS] [𝗗𝗼𝘂𝗯𝗹𝗲 𝗡𝗲𝗴𝗮𝘁𝗶𝗼𝗻 &lpar;!!&rpar;](https://dev.to/2apreety18/-40m9)
-- [Dev.to/JS] [TypeScript Boilerplate](https://dev.to/julianlasso/typescript-boilerplate-l9c)
-- [Dev.to/JS] [Usefull Chrome Browser tips](https://dev.to/sajalmanjhi/usefull-chrome-browser-tips-1pgb)
-- [Dev.to/JS] [HTML CSS and JavaScript Projects for Beginners](https://dev.to/onlineittutstutorials/html-css-and-javascript-projects-for-beginners-34pm)
-- [Dev.to/JS] [Next js Advance Topics](https://dev.to/syedmuhammadaliraza/next-js-advance-topics-5dj1)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
