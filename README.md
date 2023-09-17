@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node&lpar;20.6.0&rpar; now supports built-in .env files](https://dev.to/nejos97/node2060-now-supports-built-in-env-files-48ah)
 - [Dev.to/JS] [새로운 웹 프레임워크: Rino](https://dev.to/opdev1004/saeroun-web-peureimweokeu-rino-3o50)
 - [Dev.to/JS] [Power Up Your API with Cloud Magic: Lambda Functions in Node.js](https://dev.to/thelordofth3cloud/power-up-your-api-with-cloud-magic-lambda-functions-in-nodejs-107b)
 - [Dev.to/JS] [JSX in React: A Comprehensive Guide](https://dev.to/easewithtuts/jsx-a-comprehensive-guide-32nh)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Protect Your Routes in Angular with Guards: Control Access and Exit of Routes Efficiently!](https://dev.to/fredydlemus/protect-your-routes-in-angular-with-guards-control-access-and-exit-of-routes-efficiently-10a0)
 - [Dev.to/JS] [How mange Global State Management In React With the Help of useContext&lpar;&rpar; Hook and time to say bye-bye Redux ?](https://dev.to/radhe65gupta/how-mange-global-state-management-in-react-with-the-help-of-usecontext-hook-and-time-to-say-bye-bye-redux--2c8p)
 - [Dev.to/JS] [How to create a website using the Cample.js framework?](https://dev.to/antonmak1/how-to-create-a-website-using-the-camplejs-framework-5f2a)
-- [Dev.to/JS] [Send Form Data With Ajax](https://dev.to/yubaeloualidi/send-form-data-with-ajax-1d78)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
 - [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
 - [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)
