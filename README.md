@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Python vs JavaScript: Which to Choose?](https://dev.to/easewithtuts/python-vs-javascript-which-to-choose-17ca)
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
 - [Dev.to/JS] [Writing Clean Code: Best Practices and Principles](https://dev.to/favourmark05/writing-clean-code-best-practices-and-principles-3amh)
 - [Dev.to/JS] [Boilerplate para TypeScript](https://dev.to/ingenierojlasso/boilerplate-para-typescript-jm3)
 - [Dev.to/JS] [Como o CloudGaming funciona + Criando um Jogo com GO e Transmitindo os quadros via WebRTC.](https://dev.to/wmattei/como-o-cloudgaming-funciona-criando-um-jogo-com-go-e-transmitindo-os-quadros-via-webrtc-56d0)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Contributing to Focusly: A Rewarding Experience](https://dev.to/kssaiteja/contributing-to-focusly-a-rewarding-experience-2971)
 - [Dev.to/JS] [Your Guide to SADAD Payment Gateway](https://dev.to/mohdhaider07/your-guide-to-sadad-payment-gateway-aba)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
-- [Dev.to/JS] [I attended an ng-conf 2023 workshop online - Was it worth it?](https://dev.to/vkagklis/i-attended-an-ng-conf-2023-workshop-online-was-it-worth-it-2pko)
 - [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
 - [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Samsung SmartThings Station Is on Sale for $1 This Weekend](https://lifehacker.com/the-samsung-smartthings-station-is-on-sale-for-1-this-1850841356)
 - [Lifehacker] [You Can Take a Decent Solar Eclipse Photo With Your Phone](https://lifehacker.com/you-can-take-a-decent-solar-eclipse-photo-with-your-pho-1850841117)
 - [Lifehacker] [The Best Ways to Protect Your Kids From Online Scams](https://lifehacker.com/the-best-ways-to-protect-your-kids-from-online-scams-1850841015)
-- [Lifehacker] [Make This Quick Air Fryer Apple Turnover for Rosh Hashanah](https://lifehacker.com/air-fryer-apple-turnover-recipe-1850839282)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Friday, September 15](https://lifehacker.com/connections-answer-today-september-15-2023-1850837707)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Quick Air Fryer Apple Turnover for Rosh Hashanah](https://lifehacker.com/air-fryer-apple-turnover-recipe-1850839282)<!-- TECH-POSTS:END -->
 
 ---
 
