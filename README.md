@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Изучение турецкого языка: секреты успешного обучения](https://dev.to/mistika24/izuchieniie-turietskogho-iazyka-siekriety-uspieshnogho-obuchieniia-2dbe)
+- [Dev.to/JS] [Unraveling the Cryptic Adware in a WordPress Site: A Journey into JavaScript Obfuscation](https://dev.to/nabous/unraveling-the-cryptic-adware-in-a-wordpress-site-a-journey-into-javascript-obfuscation-2hfc)
+- [Dev.to/JS] [Understanding the JavaScript `map&lpar;&rpar;` Method](https://dev.to/frantchessico/understanding-the-javascript-map-method-47oh)
 - [Dev.to/JS] [How To Start Blogging Step By Step Full Guide | Easy way to earn money online](https://dev.to/lailarose33020/how-to-start-blogging-step-by-step-full-guide-easy-way-to-earn-money-online-7j2)
 - [Dev.to/JS] [Mastering Separation of Concerns in React with Custom Hooks](https://dev.to/barrymichaeldoyle/mastering-separation-of-concerns-in-react-with-custom-hooks-1e97)
 - [Dev.to/JS] [Converting Dates into Human-Readable Time Ago Format in JavaScript](https://dev.to/sh20raj/converting-dates-into-human-readable-time-ago-format-in-javascript-595g)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Dev.to/JS] [SOLIDJS in Browser](https://dev.to/artydev/solidjs-in-browser-26fg)
 - [Dev.to/JS] [ECMAScript 2020 Spotlight: Unpacking the 5 Features You Can&#39;t Ignore](https://dev.to/gervaisamoah/ecmascript-2020-spotlight-unpacking-the-5-features-you-cant-ignore-1mlh)
-- [Dev.to/JS] [Typescript: Don&#39;t use &#39;as&#39; when using localStorage, define their types](https://dev.to/lico/typescript-dont-use-as-when-using-localstorage-define-their-types-2c9)
-- [Dev.to/JS] [Top 5 Tips for Becoming a Proficient Programmer](https://dev.to/sharmakushal/top-5-tips-for-becoming-a-proficient-programmer-25e2)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
-- [Dev.to/JS] [🚀 Transform Your Web Apps: Migrate from Node.js to Bun.js with Ease! 🚀](https://dev.to/joukhar/transform-your-web-apps-migrate-from-nodejs-to-bunjs-with-ease-hjf)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
