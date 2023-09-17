@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Power Up Your API with Cloud Magic: Lambda Functions in Node.js](https://dev.to/thelordofth3cloud/power-up-your-api-with-cloud-magic-lambda-functions-in-nodejs-107b)
+- [Dev.to/JS] [JSX in React: A Comprehensive Guide](https://dev.to/easewithtuts/jsx-a-comprehensive-guide-32nh)
 - [Dev.to/JS] [Python vs JavaScript: Which to Choose?](https://dev.to/easewithtuts/python-vs-javascript-which-to-choose-17ca)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
 - [Dev.to/JS] [Writing Clean Code: Best Practices and Principles](https://dev.to/favourmark05/writing-clean-code-best-practices-and-principles-3amh)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a website using the Cample.js framework?](https://dev.to/antonmak1/how-to-create-a-website-using-the-camplejs-framework-5f2a)
 - [Dev.to/JS] [Send Form Data With Ajax](https://dev.to/yubaeloualidi/send-form-data-with-ajax-1d78)
 - [Dev.to/JS] [Building shopping cart with html,tailwindcss and Javascript](https://dev.to/ndickers/building-shopping-cart-with-htmltailwindcss-and-javascript-1i5p)
-- [Dev.to/JS] [Contributing to Focusly: A Rewarding Experience](https://dev.to/kssaiteja/contributing-to-focusly-a-rewarding-experience-2971)
-- [Dev.to/JS] [Your Guide to SADAD Payment Gateway](https://dev.to/mohdhaider07/your-guide-to-sadad-payment-gateway-aba)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
 - [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
 - [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)
