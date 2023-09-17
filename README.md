@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Dev.to/JS] [🚀 Transform Your Web Apps: Migrate from Node.js to Bun.js with Ease! 🚀](https://dev.to/joukhar/transform-your-web-apps-migrate-from-nodejs-to-bunjs-with-ease-hjf)
 - [Dev.to/JS] [Yet Another Newsletter LOL: New Beginnings](https://dev.to/nickytonline/yet-another-newsletter-lol-new-beginnings-o1d)
 - [Dev.to/JS] [𝗗𝗼𝘂𝗯𝗹𝗲 𝗡𝗲𝗴𝗮𝘁𝗶𝗼𝗻 &lpar;!!&rpar;](https://dev.to/2apreety18/-40m9)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Quickest Ways to Convert HEIC to JPEG](https://lifehacker.com/convert-heic-to-jpg-on-windows-and-mac-1848768694)
 - [Lifehacker] [The Gardening Supplies Worth Keeping for Next Year &lpar;and What to Get Rid Of&rpar;](https://lifehacker.com/the-gardening-supplies-worth-keeping-for-next-year-and-1850841600)
 - [Lifehacker] [The Samsung SmartThings Station Is on Sale for $1 This Weekend](https://lifehacker.com/the-samsung-smartthings-station-is-on-sale-for-1-this-1850841356)
-- [Lifehacker] [You Can Take a Decent Solar Eclipse Photo With Your Phone](https://lifehacker.com/you-can-take-a-decent-solar-eclipse-photo-with-your-pho-1850841117)
-- [Lifehacker] [The Best Ways to Protect Your Kids From Online Scams](https://lifehacker.com/the-best-ways-to-protect-your-kids-from-online-scams-1850841015)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Take a Decent Solar Eclipse Photo With Your Phone](https://lifehacker.com/you-can-take-a-decent-solar-eclipse-photo-with-your-pho-1850841117)<!-- TECH-POSTS:END -->
 
 ---
 
