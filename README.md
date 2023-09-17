@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VueJS part 3: Vue directives and conditional rendering](https://dev.to/hi_iam_chris/vuejs-part-3-vue-directives-and-conditional-rendering-4pam)
 - [Dev.to/JS] [Изучение турецкого языка: секреты успешного обучения](https://dev.to/mistika24/izuchieniie-turietskogho-iazyka-siekriety-uspieshnogho-obuchieniia-2dbe)
 - [Dev.to/JS] [Unraveling the Cryptic Adware in a WordPress Site: A Journey into JavaScript Obfuscation](https://dev.to/nabous/unraveling-the-cryptic-adware-in-a-wordpress-site-a-journey-into-javascript-obfuscation-2hfc)
 - [Dev.to/JS] [Understanding the JavaScript `map&lpar;&rpar;` Method](https://dev.to/frantchessico/understanding-the-javascript-map-method-47oh)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering the `array.reduce&lpar;&rpar;` Method in JavaScript](https://dev.to/frantchessico/mastering-the-arrayreduce-method-in-javascript-2n69)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Dev.to/JS] [SOLIDJS in Browser](https://dev.to/artydev/solidjs-in-browser-26fg)
-- [Dev.to/JS] [ECMAScript 2020 Spotlight: Unpacking the 5 Features You Can&#39;t Ignore](https://dev.to/gervaisamoah/ecmascript-2020-spotlight-unpacking-the-5-features-you-cant-ignore-1mlh)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
