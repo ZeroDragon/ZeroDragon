@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first post](https://dev.to/gitkrishnaa/my-first-post-4jah)
+- [Dev.to/JS] [Unit Testing with Jest and Rewire in JavaScript](https://dev.to/mehmetkirkoca/unit-testing-with-jest-and-rewire-in-javascript-15o4)
+- [Dev.to/JS] [What is Context API? When Would You Use It?](https://dev.to/sidramaqbool/what-is-context-api-when-would-you-use-it-2m8k)
 - [Dev.to/JS] [Free Account Chat GPT Premium](https://dev.to/raizo24/free-account-chat-gpt-premium-1ml9)
 - [Dev.to/JS] [Use IntersectionObserver with Astro and Tailwind to create &quot;reveal on scroll&quot; animations](https://dev.to/adamkarminski/use-intersectionobserver-with-astro-and-tailwind-to-create-reveal-on-scroll-animations-2bpc)
 - [Dev.to/JS] [🌀 Unraveling React Fiber: A Dive into React&#39;s Reconciliation Algorithm🌀](https://dev.to/ajayprakash/unraveling-react-fiber-a-dive-into-reacts-reconciliation-algorithm-4g29)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [COMP 2800 - Collaborative Story Telling Platform 🤖](https://dev.to/rjsgml/comp-2800-collaborative-story-telling-platform-1epd)
 - [Dev.to/JS] [Node&lpar;20.6.0&rpar; now supports built-in .env files](https://dev.to/nejos97/node2060-now-supports-built-in-env-files-48ah)
 - [Dev.to/JS] [새로운 웹 프레임워크: Rino](https://dev.to/opdev1004/saeroun-web-peureimweokeu-rino-3o50)
-- [Dev.to/JS] [Power Up Your API with Cloud Magic: Lambda Functions in Node.js](https://dev.to/thelordofth3cloud/power-up-your-api-with-cloud-magic-lambda-functions-in-nodejs-107b)
-- [Dev.to/JS] [JSX in React: A Comprehensive Guide](https://dev.to/easewithtuts/jsx-a-comprehensive-guide-32nh)
-- [Dev.to/JS] [Python vs JavaScript: Which to Choose?](https://dev.to/easewithtuts/python-vs-javascript-which-to-choose-17ca)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
 - [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
