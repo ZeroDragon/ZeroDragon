@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use IntersectionObserver with Astro and Tailwind to create &quot;reveal on scroll&quot; animations](https://dev.to/adamkarminski/use-intersectionobserver-with-astro-and-tailwind-to-create-reveal-on-scroll-animations-2bpc)
+- [Dev.to/JS] [🌀 Unraveling React Fiber: A Dive into React&#39;s Reconciliation Algorithm🌀](https://dev.to/ajayprakash/unraveling-react-fiber-a-dive-into-reacts-reconciliation-algorithm-4g29)
 - [Dev.to/JS] [WebAssembly: Building GUI for C++ libraries with Embind](https://dev.to/iprosk/webassembly-building-gui-for-c-libraries-with-embind-53cc)
 - [Dev.to/JS] [Async and Generator Function Constructors in JavaScript](https://dev.to/banks/async-and-generator-function-constructors-in-javascript-22bi)
 - [Dev.to/JS] [Why not React?](https://dev.to/tigt/why-not-react-2f8l)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Python vs JavaScript: Which to Choose?](https://dev.to/easewithtuts/python-vs-javascript-which-to-choose-17ca)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
 - [Dev.to/JS] [Writing Clean Code: Best Practices and Principles](https://dev.to/favourmark05/writing-clean-code-best-practices-and-principles-3amh)
-- [Dev.to/JS] [Boilerplate para TypeScript](https://dev.to/ingenierojlasso/boilerplate-para-typescript-jm3)
-- [Dev.to/JS] [Como o CloudGaming funciona + Criando um Jogo com GO e Transmitindo os quadros via WebRTC.](https://dev.to/wmattei/como-o-cloudgaming-funciona-criando-um-jogo-com-go-e-transmitindo-os-quadros-via-webrtc-56d0)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
 - [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
 - [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)
