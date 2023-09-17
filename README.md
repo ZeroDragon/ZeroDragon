@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [15 Most Common Frontend Interview Questions](https://dev.to/m_midas/15-most-common-frontend-interview-questions-4njp)
+- [Dev.to/JS] [Top Code Editors for JS Developers](https://dev.to/easewithtuts/top-code-editors-for-js-developers-5h5k)
+- [Dev.to/JS] [Best HTML Parsing Libraries in JavaScript](https://dev.to/serpdogapi/best-html-parsing-libraries-in-javascript-6bn)
 - [Dev.to/JS] [ReactJs with typescript &lpar;Beginner&rpar;](https://dev.to/ayush_k_mandal/reactjs-with-typescript-beginner-1nae)
 - [Dev.to/JS] [React Query - The Definitive Guide to Making Requests in React](https://dev.to/thevinitgupta/react-query-the-definitive-guide-to-making-requests-in-react-l92)
 - [Dev.to/JS] [The Sorcerer&#39;s Scrolls: Unveiling JavaScript Arrays](https://dev.to/init_chandan/the-sorcerers-scrolls-unveiling-javascript-arrays-pf4)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My first post](https://dev.to/gitkrishnaa/my-first-post-4jah)
 - [Dev.to/JS] [Unit Testing with Jest and Rewire in JavaScript](https://dev.to/mehmetkirkoca/unit-testing-with-jest-and-rewire-in-javascript-15o4)
 - [Dev.to/JS] [What is Context API? When Would You Use It?](https://dev.to/sidramaqbool/what-is-context-api-when-would-you-use-it-2m8k)
-- [Dev.to/JS] [Free Account Chat GPT Premium](https://dev.to/raizo24/free-account-chat-gpt-premium-1ml9)
-- [Dev.to/JS] [Use IntersectionObserver with Astro and Tailwind to create &quot;reveal on scroll&quot; animations](https://dev.to/adamkarminski/use-intersectionobserver-with-astro-and-tailwind-to-create-reveal-on-scroll-animations-2bpc)
-- [Dev.to/JS] [🌀 Unraveling React Fiber: A Dive into React&#39;s Reconciliation Algorithm🌀](https://dev.to/ajayprakash/unraveling-react-fiber-a-dive-into-reacts-reconciliation-algorithm-4g29)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
 - [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
