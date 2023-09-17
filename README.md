@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebAssembly: Building GUI for C++ libraries with Embind](https://dev.to/iprosk/webassembly-building-gui-for-c-libraries-with-embind-53cc)
+- [Dev.to/JS] [Async and Generator Function Constructors in JavaScript](https://dev.to/banks/async-and-generator-function-constructors-in-javascript-22bi)
+- [Dev.to/JS] [Why not React?](https://dev.to/tigt/why-not-react-2f8l)
+- [Dev.to/JS] [COMP 2800 - Collaborative Story Telling Platform 🤖](https://dev.to/rjsgml/comp-2800-collaborative-story-telling-platform-1epd)
 - [Dev.to/JS] [Node&lpar;20.6.0&rpar; now supports built-in .env files](https://dev.to/nejos97/node2060-now-supports-built-in-env-files-48ah)
 - [Dev.to/JS] [새로운 웹 프레임워크: Rino](https://dev.to/opdev1004/saeroun-web-peureimweokeu-rino-3o50)
 - [Dev.to/JS] [Power Up Your API with Cloud Magic: Lambda Functions in Node.js](https://dev.to/thelordofth3cloud/power-up-your-api-with-cloud-magic-lambda-functions-in-nodejs-107b)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing Clean Code: Best Practices and Principles](https://dev.to/favourmark05/writing-clean-code-best-practices-and-principles-3amh)
 - [Dev.to/JS] [Boilerplate para TypeScript](https://dev.to/ingenierojlasso/boilerplate-para-typescript-jm3)
 - [Dev.to/JS] [Como o CloudGaming funciona + Criando um Jogo com GO e Transmitindo os quadros via WebRTC.](https://dev.to/wmattei/como-o-cloudgaming-funciona-criando-um-jogo-com-go-e-transmitindo-os-quadros-via-webrtc-56d0)
-- [Dev.to/JS] [How I think CloudGaming works + Building a Game with GO and Streaming the frames via WebRTC.](https://dev.to/wmattei/how-i-think-cloudgaming-works-building-a-game-with-go-and-streaming-the-frames-via-webrtc-2p2k)
-- [Dev.to/JS] [Protect Your Routes in Angular with Guards: Control Access and Exit of Routes Efficiently!](https://dev.to/fredydlemus/protect-your-routes-in-angular-with-guards-control-access-and-exit-of-routes-efficiently-10a0)
-- [Dev.to/JS] [How mange Global State Management In React With the Help of useContext&lpar;&rpar; Hook and time to say bye-bye Redux ?](https://dev.to/radhe65gupta/how-mange-global-state-management-in-react-with-the-help-of-usecontext-hook-and-time-to-say-bye-bye-redux--2c8p)
-- [Dev.to/JS] [How to create a website using the Cample.js framework?](https://dev.to/antonmak1/how-to-create-a-website-using-the-camplejs-framework-5f2a)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
 - [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
 - [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)
