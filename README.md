@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript ‘this’ keyword’s binding rules](https://dev.to/badr21/javascript-this-keywords-binding-rules-2n4e)
+- [Dev.to/JS] [Visual Studio JavaScript minifier / compressor](https://dev.to/karenpayneoregon/visual-studio-javascript-minifier-compressor-3281)
 - [Dev.to/JS] [VueJS part 3: Vue directives and conditional rendering](https://dev.to/hi_iam_chris/vuejs-part-3-vue-directives-and-conditional-rendering-4pam)
 - [Dev.to/JS] [Изучение турецкого языка: секреты успешного обучения](https://dev.to/mistika24/izuchieniie-turietskogho-iazyka-siekriety-uspieshnogho-obuchieniia-2dbe)
 - [Dev.to/JS] [Unraveling the Cryptic Adware in a WordPress Site: A Journey into JavaScript Obfuscation](https://dev.to/nabous/unraveling-the-cryptic-adware-in-a-wordpress-site-a-journey-into-javascript-obfuscation-2hfc)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How can I optimize my website&#39;s loading speed and overall performance](https://dev.to/amelia1/how-can-i-optimize-my-websites-loading-speed-and-overall-performance-1f7e)
 - [Dev.to/JS] [Generating React files with Plop to maintain code consistency and avoid trivial steps](https://dev.to/dionarodrigues/generating-react-files-with-plop-to-maintain-code-consistency-and-avoid-trivial-steps-189e)
 - [Dev.to/JS] [DiffAE: How to use AI to make your friends look bald, happy, young, blond, old - you name it!](https://dev.to/mikeyoung44/diffae-how-to-use-ai-to-make-your-friends-look-bald-happy-young-blond-old-you-name-it-2pb7)
-- [Dev.to/JS] [Mastering the `array.reduce&lpar;&rpar;` Method in JavaScript](https://dev.to/frantchessico/mastering-the-arrayreduce-method-in-javascript-2n69)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
-- [Dev.to/JS] [SOLIDJS in Browser](https://dev.to/artydev/solidjs-in-browser-26fg)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
