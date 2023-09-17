@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering the `array.reduce&lpar;&rpar;` Method in JavaScript](https://dev.to/frantchessico/mastering-the-arrayreduce-method-in-javascript-2n69)
+- [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Dev.to/JS] [SOLIDJS in Browser](https://dev.to/artydev/solidjs-in-browser-26fg)
 - [Dev.to/JS] [ECMAScript 2020 Spotlight: Unpacking the 5 Features You Can&#39;t Ignore](https://dev.to/gervaisamoah/ecmascript-2020-spotlight-unpacking-the-5-features-you-cant-ignore-1mlh)
 - [Dev.to/JS] [Typescript: Don&#39;t use &#39;as&#39; when using localStorage, define their types](https://dev.to/lico/typescript-dont-use-as-when-using-localstorage-define-their-types-2c9)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Usefull Chrome Browser tips](https://dev.to/sajalmanjhi/usefull-chrome-browser-tips-1pgb)
 - [Dev.to/JS] [HTML CSS and JavaScript Projects for Beginners](https://dev.to/onlineittutstutorials/html-css-and-javascript-projects-for-beginners-34pm)
 - [Dev.to/JS] [Next js Advance Topics](https://dev.to/syedmuhammadaliraza/next-js-advance-topics-5dj1)
-- [Dev.to/JS] [Simple markdown website generation with Rino Docs🚀](https://dev.to/opdev1004/simple-markdown-website-generation-with-rino-docs-4ckm)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Not Always Best to Book Flights Through Your Credit Card Rewards Portal](https://lifehacker.com/its-not-always-best-to-book-flights-through-your-credit-1850834952)
 - [Lifehacker] [The Quickest Ways to Convert HEIC to JPEG](https://lifehacker.com/convert-heic-to-jpg-on-windows-and-mac-1848768694)
 - [Lifehacker] [The Gardening Supplies Worth Keeping for Next Year &lpar;and What to Get Rid Of&rpar;](https://lifehacker.com/the-gardening-supplies-worth-keeping-for-next-year-and-1850841600)
-- [Lifehacker] [The Samsung SmartThings Station Is on Sale for $1 This Weekend](https://lifehacker.com/the-samsung-smartthings-station-is-on-sale-for-1-this-1850841356)
-- [Lifehacker] [You Can Take a Decent Solar Eclipse Photo With Your Phone](https://lifehacker.com/you-can-take-a-decent-solar-eclipse-photo-with-your-pho-1850841117)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Samsung SmartThings Station Is on Sale for $1 This Weekend](https://lifehacker.com/the-samsung-smartthings-station-is-on-sale-for-1-this-1850841356)<!-- TECH-POSTS:END -->
 
 ---
 
