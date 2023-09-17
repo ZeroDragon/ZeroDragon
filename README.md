@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [𝗗𝗼𝘂𝗯𝗹𝗲 𝗡𝗲𝗴𝗮𝘁𝗶𝗼𝗻 &lpar;!!&rpar;](https://dev.to/2apreety18/-40m9)
+- [Dev.to/JS] [TypeScript Boilerplate](https://dev.to/julianlasso/typescript-boilerplate-l9c)
+- [Dev.to/JS] [Usefull Chrome Browser tips](https://dev.to/sajalmanjhi/usefull-chrome-browser-tips-1pgb)
+- [Dev.to/JS] [HTML CSS and JavaScript Projects for Beginners](https://dev.to/onlineittutstutorials/html-css-and-javascript-projects-for-beginners-34pm)
+- [Dev.to/JS] [Next js Advance Topics](https://dev.to/syedmuhammadaliraza/next-js-advance-topics-5dj1)
+- [Dev.to/JS] [Simple markdown website generation with Rino Docs🚀](https://dev.to/opdev1004/simple-markdown-website-generation-with-rino-docs-4ckm)
+- [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
 - [Dev.to/JS] [Effortless Football Highlights Api Integration for Your Application: A Step-by-Step Guide](https://dev.to/sports_junkie/effortless-football-highlights-api-integration-for-your-application-a-step-by-step-guide-18jj)
 - [Dev.to/JS] [15 Most Common Frontend Interview Questions](https://dev.to/m_midas/15-most-common-frontend-interview-questions-4njp)
 - [Dev.to/JS] [Top Code Editors for JS Developers](https://dev.to/easewithtuts/top-code-editors-for-js-developers-5h5k)
 - [Dev.to/JS] [Best HTML Parsing Libraries in JavaScript](https://dev.to/serpdogapi/best-html-parsing-libraries-in-javascript-6bn)
 - [Dev.to/JS] [ReactJs with typescript &lpar;Beginner&rpar;](https://dev.to/ayush_k_mandal/reactjs-with-typescript-beginner-1nae)
 - [Dev.to/JS] [React Query - The Definitive Guide to Making Requests in React](https://dev.to/thevinitgupta/react-query-the-definitive-guide-to-making-requests-in-react-l92)
-- [Dev.to/JS] [The Sorcerer&#39;s Scrolls: Unveiling JavaScript Arrays](https://dev.to/init_chandan/the-sorcerers-scrolls-unveiling-javascript-arrays-pf4)
-- [Dev.to/JS] [CSS GRADIENT WAREHOUSE! Just one click away !!!](https://dev.to/monkcodes/css-gradient-warehousejust-one-click-away--he0)
-- [Dev.to/JS] [BigBites - A React.js Food Delivery App](https://dev.to/swayamdebata/bigbites-a-reactjs-food-delivery-app-534e)
-- [Dev.to/JS] [JavaScript or TypeScript](https://dev.to/esraanasr92/javascript-or-typescript-28ge)
-- [Dev.to/JS] [My first post](https://dev.to/gitkrishnaa/my-first-post-4jah)
-- [Dev.to/JS] [Unit Testing with Jest and Rewire in JavaScript](https://dev.to/mehmetkirkoca/unit-testing-with-jest-and-rewire-in-javascript-15o4)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
 - [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Gardening Supplies Worth Keeping for Next Year &lpar;and What to Get Rid Of&rpar;](https://lifehacker.com/the-gardening-supplies-worth-keeping-for-next-year-and-1850841600)
 - [Lifehacker] [The Samsung SmartThings Station Is on Sale for $1 This Weekend](https://lifehacker.com/the-samsung-smartthings-station-is-on-sale-for-1-this-1850841356)
 - [Lifehacker] [You Can Take a Decent Solar Eclipse Photo With Your Phone](https://lifehacker.com/you-can-take-a-decent-solar-eclipse-photo-with-your-pho-1850841117)
-- [Lifehacker] [The Best Ways to Protect Your Kids From Online Scams](https://lifehacker.com/the-best-ways-to-protect-your-kids-from-online-scams-1850841015)
-- [Lifehacker] [Make This Quick Air Fryer Apple Turnover for Rosh Hashanah](https://lifehacker.com/air-fryer-apple-turnover-recipe-1850839282)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Protect Your Kids From Online Scams](https://lifehacker.com/the-best-ways-to-protect-your-kids-from-online-scams-1850841015)<!-- TECH-POSTS:END -->
 
 ---
 
