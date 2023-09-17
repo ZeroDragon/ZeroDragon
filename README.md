@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SOLIDJS in Browser](https://dev.to/artydev/solidjs-in-browser-26fg)
+- [Dev.to/JS] [ECMAScript 2020 Spotlight: Unpacking the 5 Features You Can&#39;t Ignore](https://dev.to/gervaisamoah/ecmascript-2020-spotlight-unpacking-the-5-features-you-cant-ignore-1mlh)
+- [Dev.to/JS] [Typescript: Don&#39;t use &#39;as&#39; when using localStorage, define their types](https://dev.to/lico/typescript-dont-use-as-when-using-localstorage-define-their-types-2c9)
+- [Dev.to/JS] [Top 5 Tips for Becoming a Proficient Programmer](https://dev.to/sharmakushal/top-5-tips-for-becoming-a-proficient-programmer-25e2)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Dev.to/JS] [🚀 Transform Your Web Apps: Migrate from Node.js to Bun.js with Ease! 🚀](https://dev.to/joukhar/transform-your-web-apps-migrate-from-nodejs-to-bunjs-with-ease-hjf)
 - [Dev.to/JS] [Yet Another Newsletter LOL: New Beginnings](https://dev.to/nickytonline/yet-another-newsletter-lol-new-beginnings-o1d)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next js Advance Topics](https://dev.to/syedmuhammadaliraza/next-js-advance-topics-5dj1)
 - [Dev.to/JS] [Simple markdown website generation with Rino Docs🚀](https://dev.to/opdev1004/simple-markdown-website-generation-with-rino-docs-4ckm)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
-- [Dev.to/JS] [Effortless Football Highlights Api Integration for Your Application: A Step-by-Step Guide](https://dev.to/sports_junkie/effortless-football-highlights-api-integration-for-your-application-a-step-by-step-guide-18jj)
-- [Dev.to/JS] [15 Most Common Frontend Interview Questions](https://dev.to/m_midas/15-most-common-frontend-interview-questions-4njp)
-- [Dev.to/JS] [Top Code Editors for JS Developers](https://dev.to/easewithtuts/top-code-editors-for-js-developers-5h5k)
-- [Dev.to/JS] [Best HTML Parsing Libraries in JavaScript](https://dev.to/serpdogapi/best-html-parsing-libraries-in-javascript-6bn)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
 - [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
