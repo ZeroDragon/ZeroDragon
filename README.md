@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Находки по разработке 5](https://dev.to/potykion/nakhodki-po-razrabotkie-5-2683)
+- [Dev.to/JS] [HOW TO GENERATE PDF IN REACT-NATIVE &lpar;CROSS-PLATFORM&rpar;](https://dev.to/cudium/how-to-generate-pdf-in-react-native-cross-platform-1f8g)
+- [Dev.to/JS] [AZ-104 Dumps: Your Secret Weapon for Azure Certification](https://dev.to/ctnc7tug/az-104-dumps-your-secret-weapon-for-azure-certification-54k1)
 - [Dev.to/JS] [react-tweet: Vercel’s New React Library for Embedding Tweets](https://dev.to/ubahthebuilder/react-tweet-vercels-new-react-library-for-embedding-tweets-4dof)
 - [Dev.to/JS] [✨ Generate BDD tests with ChatGPT and run them with Playwright](https://dev.to/vitalets/generate-bdd-tests-with-chatgpt-and-run-them-with-playwright-4ffm)
 - [Dev.to/JS] [AZ-104 Dumps: The Secret to Azure Certification Success](https://dev.to/ctnc7tug/az-104-dumps-the-secret-to-azure-certification-success-15ge)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supabase realtime changes in Nuxt](https://dev.to/jacobandrewsky/supabase-realtime-changes-in-nuxt-i6b)
 - [Dev.to/JS] [Flowchart editor dgrm.net / Announcement / Live collaboration](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-live-collaboration-eem)
 - [Dev.to/JS] [asd](https://dev.to/tiendndev/asd-f9f)
-- [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript: A Comprehensive Guide to Promises and Async/Await](https://dev.to/gkhan205/mastering-asynchronous-programming-in-javascript-a-comprehensive-guide-to-promises-and-asyncawait-1hel)
-- [Dev.to/JS] [Wondershare Filmora 12.5.7 Crack](https://dev.to/ziapc/wondershare-filmora-1257-crack-3bde)
-- [Dev.to/JS] [Debouncing vs useDefferedValue](https://dev.to/shriharimurali/debouncing-vs-usedefferedvalue-4dlp)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
