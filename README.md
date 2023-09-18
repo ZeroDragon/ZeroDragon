@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Back on Track After an Expensive Vacation](https://lifehacker.com/how-to-get-back-on-track-after-an-expensive-vacation-1850849943)
+- [Lifehacker] [The Best New AirPods Features in iOS 17](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)
+- [Lifehacker] [How to Sign Up for Invite-Only Deals Before Amazon’s ‘Big Deal Days’](https://lifehacker.com/how-to-sign-up-for-invite-only-deals-before-amazon-s-b-1850849915)
 - [Dev.to/JS] [What is jQuery?](https://dev.to/dumebii/what-is-jquery-mcg)
 - [Lifehacker] [You Need to Prepare Your Sprinkler System for Winter](https://lifehacker.com/winterize-your-sprinkler-system-1850849900)
-- [Dev.to/JS] [Supercharge Your SVG Icon Workflow with This GitHub Template](https://dev.to/simprl/supercharge-your-svg-icon-workflow-with-this-github-template-10gn)
+- [Dev.to/JS] [Supercharge Your SVG Sprite Icons Library with This GitHub Template](https://dev.to/simprl/supercharge-your-svg-icon-workflow-with-this-github-template-10gn)
 - [Dev.to/JS] [💪Mastering React: Crafting a Stunning Reusable Button Component ✨](https://dev.to/taquiimam14/mastering-react-crafting-a-stunning-reusable-button-component-5amk)
 - [Lifehacker] [The Best Turkey Dry Brine Recipe Is a Simple Ratio](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
 - [Dev.to/JS] [⚛️ React.js: Avoid Memory Leaks and Race Conditions in API Calls🧹](https://dev.to/shameel/reactjs-avoid-memory-leaks-and-race-conditions-in-api-calls-4k1m)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
 - [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
 - [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
-- [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
-- [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
-- [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)<!-- TECH-POSTS:END -->
 
 ---
 
