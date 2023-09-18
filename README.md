@@ -26,9 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [📝 🚀 Creating our first documentation from scratch using Astro and Refact AI coding assistant](https://dev.to/refact/creating-our-first-documentation-from-scratch-using-astro-and-refact-ai-coding-assistant-36pg)
+- [Lifehacker] [Epic Is Selling Hundreds of PC Games at Up to 80% Off](https://lifehacker.com/epic-is-selling-hundreds-of-pc-games-at-up-to-80-off-1850849532)
+- [Dev.to/JS] [Node.js: A Guide to Native .env Support and local development](https://dev.to/usulpro/nodejs-a-guide-to-native-env-support-and-local-development-300g)
+- [Lifehacker] [You Can Install iOS 17 Right Now](https://lifehacker.com/ios-17-release-date-and-features-1850828707)
+- [Dev.to/JS] [Research in English News](https://dev.to/dvtt/research-in-english-39ff)
+- [Lifehacker] [Use the &#39;Jigsaw Method&#39; to Study Complex Topics](https://lifehacker.com/use-the-jigsaw-method-to-study-complex-topics-1850849174)
 - [Lifehacker] [Use &#39;Close Reading&#39; to Retain Every Detail When You Study](https://lifehacker.com/use-close-reading-to-retain-every-detail-when-you-study-1850849002)
 - [Dev.to/JS] [Mastering React Design Patterns: Creating a Tabs Component](https://dev.to/josephciullo/mastering-react-design-patterns-creating-a-tabs-component-1lem)
 - [Dev.to/JS] [Esto nunca para](https://dev.to/ulisesserranop/esto-nunca-para-3mbk)
+- [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [You Can Get a $30 Gift Card With a New Costco Membership](https://lifehacker.com/you-can-get-a-30-gift-card-with-a-new-costco-membershi-1850849083)
 - [Lifehacker] [Five Home Renovations Never Worth Doing Yourself](https://lifehacker.com/five-home-renovations-never-worth-doing-yourself-1850848046)
 - [Lifehacker] [Amazon Officially Announces Prime Big Deal Days for 2023](https://lifehacker.com/amazon-officially-announces-prime-big-deal-days-for-202-1850848692)
@@ -45,9 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok Myth of the Week: Your Guts Are Full of Poop](https://lifehacker.com/tiktok-gut-health-trend-1850844490)
 - [Dev.to/JS] [🚀 how to Create a Modal Component with Vanilla JavaScript](https://dev.to/idurar/how-to-create-a-modal-component-with-just-javascript-without-react-or-vue-5767)
 - [Lifehacker] [Six Cooling Rack Alternatives You Probably Already Have in Your Kitchen](https://lifehacker.com/cooling-rack-alternatives-1850844031)
-- [Dev.to/JS] [Understanding Angular Polyfills and the Role of Zone.js](https://dev.to/chintanonweb/understanding-angular-polyfills-and-the-role-of-zonejs-48mi)
-- [Dev.to/JS] [Находки по разработке 5](https://dev.to/potykion/nakhodki-po-razrabotkie-5-2683)
-- [Dev.to/JS] [HOW TO GENERATE PDF IN REACT-NATIVE &lpar;CROSS-PLATFORM&rpar;](https://dev.to/cudium/how-to-generate-pdf-in-react-native-cross-platform-1f8g)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
 - [Lifehacker] [Turn Woody Mushroom Stems Into an Umami-packed Powder](https://lifehacker.com/mushroom-umami-powder-recipe-1850843604)
 - [Lifehacker] [Why You Should Always Study in Silence, According to Science](https://lifehacker.com/why-you-should-always-study-in-silence-according-to-sc-1850843477)
-- [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)
-- [Lifehacker] [You Can Get Windows 11 Home for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-home-for-30-right-now-1850836810)
-- [Lifehacker] [The Rachio Is My Favorite Smart Hose Timer](https://lifehacker.com/rachio-smart-hose-timer-review-1850842996)
-- [Lifehacker] [These Are My Favorite Mind-Mapping Templates for Studying](https://lifehacker.com/these-are-my-favorite-mind-mapping-templates-for-studyi-1850843156)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What’s the Deal With Smurf Cat?](https://lifehacker.com/what-is-smurf-cat-1850842927)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)<!-- TECH-POSTS:END -->
 
 ---
 
