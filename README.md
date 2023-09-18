@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TF #15 | Your weekly frontend digest](https://dev.to/tech_foutraque/tf-15-your-weekly-frontend-digest-20fh)
+- [Dev.to/JS] [A First Look at HTMX and How it Compares to React](https://dev.to/builderio/a-first-look-at-htmx-and-how-it-compares-to-react-4jdl)
+- [Lifehacker] [You Can Save Up to 20% on a Steam Deck Right Now](https://lifehacker.com/steam-deck-deals-september-2023-1850849982)
+- [Dev.to/JS] [function of function &amp; closure](https://dev.to/horiyorrmi72/function-of-function-closure-56m2)
+- [Dev.to/JS] [Adding features to my open source project](https://dev.to/soham-thaker/adding-features-to-my-open-source-project-4m8f)
+- [Lifehacker] [Yes, It&#39;s OK to Run Every Day](https://lifehacker.com/is-it-okay-to-run-every-day-1835283015)
+- [Dev.to/JS] [Demystifying the JavaScript Reduce Method](https://dev.to/rockrgrrl/demystifying-the-javascript-reduce-method-157n)
+- [Lifehacker] [Make a Vibrant Syrup Using the Liquid From a Can of Fruit](https://lifehacker.com/make-a-vibrant-syrup-using-the-liquid-from-a-can-of-fru-1850850394)
 - [Lifehacker] [How to Get Back on Track After an Expensive Vacation](https://lifehacker.com/how-to-get-back-on-track-after-an-expensive-vacation-1850849943)
 - [Lifehacker] [The Best New AirPods Features in iOS 17](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)
 - [Lifehacker] [How to Sign Up for Invite-Only Deals Before Amazon’s ‘Big Deal Days’](https://lifehacker.com/how-to-sign-up-for-invite-only-deals-before-amazon-s-b-1850849915)
@@ -43,16 +51,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Research in English News](https://dev.to/dvtt/research-in-english-39ff)
 - [Lifehacker] [Use the &#39;Jigsaw Method&#39; to Study Complex Topics](https://lifehacker.com/use-the-jigsaw-method-to-study-complex-topics-1850849174)
 - [Lifehacker] [Use &#39;Close Reading&#39; to Retain Every Detail When You Study](https://lifehacker.com/use-close-reading-to-retain-every-detail-when-you-study-1850849002)
-- [Dev.to/JS] [Mastering React Design Patterns: Creating a Tabs Component](https://dev.to/josephciullo/mastering-react-design-patterns-creating-a-tabs-component-1lem)
-- [Dev.to/JS] [Esto nunca para](https://dev.to/ulisesserranop/esto-nunca-para-3mbk)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [You Can Get a $30 Gift Card With a New Costco Membership](https://lifehacker.com/you-can-get-a-30-gift-card-with-a-new-costco-membershi-1850849083)
 - [Lifehacker] [Five Home Renovations Never Worth Doing Yourself](https://lifehacker.com/five-home-renovations-never-worth-doing-yourself-1850848046)
 - [Lifehacker] [Amazon Officially Announces Prime Big Deal Days for 2023](https://lifehacker.com/amazon-officially-announces-prime-big-deal-days-for-202-1850848692)
-- [Dev.to/JS] [How was Halfstack Vienna 2023?](https://dev.to/bogomil/how-was-halfstack-vienna-2023-57o7)
 - [Lifehacker] [Yes, You Need to Clean Your Dirty Broom](https://lifehacker.com/yes-you-need-to-clean-your-dirty-broom-1849701048)
-- [Dev.to/JS] [The best way to get the month name from a date in JavaScript](https://dev.to/atapas/the-best-way-to-get-the-month-name-from-a-date-in-javascript-3pjn)
-- [Dev.to/JS] [Day 50: Template Literal Types](https://dev.to/dhrn/day-50-template-literal-types-56hd)
 - [Lifehacker] [This 9-Inch Car Display Screen Is $105 Right Now](https://lifehacker.com/this-9-inch-car-display-screen-is-105-right-now-1850842490)
 - [Lifehacker] [How to Adjust the Volume for Every App on Your Mac](https://lifehacker.com/how-to-individually-control-audio-volume-for-every-app-1847455401)
 - [Lifehacker] [The Best Ways to Get Smells Out of Thrifted Furniture](https://lifehacker.com/the-best-ways-to-get-smells-out-of-thrifted-furniture-1850847872)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)
-- [Lifehacker] [Use Productive Procrastination to Start a Daunting Task](https://lifehacker.com/use-productive-procrastination-to-start-a-daunting-task-1850845462)
-- [Lifehacker] [The Best Trees to Plant in the Fall](https://lifehacker.com/the-best-trees-to-plant-in-the-fall-1850845475)
-- [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)<!-- TECH-POSTS:END -->
 
 ---
 
