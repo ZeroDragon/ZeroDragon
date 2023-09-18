@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Secrets in Serverless](https://dev.to/robinthomas_30/using-secrets-in-serverless-50hf)
 - [Dev.to/JS] [JavaScript ‘this’ keyword’s binding rules](https://dev.to/badr21/javascript-this-keywords-binding-rules-2n4e)
 - [Dev.to/JS] [Visual Studio JavaScript minifier / compressor](https://dev.to/karenpayneoregon/visual-studio-javascript-minifier-compressor-3281)
 - [Dev.to/JS] [VueJS part 3: Vue directives and conditional rendering](https://dev.to/hi_iam_chris/vuejs-part-3-vue-directives-and-conditional-rendering-4pam)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Converting Dates into Human-Readable Time Ago Format in JavaScript](https://dev.to/sh20raj/converting-dates-into-human-readable-time-ago-format-in-javascript-595g)
 - [Dev.to/JS] [How can I optimize my website&#39;s loading speed and overall performance](https://dev.to/amelia1/how-can-i-optimize-my-websites-loading-speed-and-overall-performance-1f7e)
 - [Dev.to/JS] [Generating React files with Plop to maintain code consistency and avoid trivial steps](https://dev.to/dionarodrigues/generating-react-files-with-plop-to-maintain-code-consistency-and-avoid-trivial-steps-189e)
-- [Dev.to/JS] [DiffAE: How to use AI to make your friends look bald, happy, young, blond, old - you name it!](https://dev.to/mikeyoung44/diffae-how-to-use-ai-to-make-your-friends-look-bald-happy-young-blond-old-you-name-it-2pb7)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
