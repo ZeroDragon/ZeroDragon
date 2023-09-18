@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [asd](https://dev.to/tiendndev/asd-f9f)
 - [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript: A Comprehensive Guide to Promises and Async/Await](https://dev.to/gkhan205/mastering-asynchronous-programming-in-javascript-a-comprehensive-guide-to-promises-and-asyncawait-1hel)
 - [Dev.to/JS] [Wondershare Filmora 12.5.7 Crack](https://dev.to/ziapc/wondershare-filmora-1257-crack-3bde)
 - [Dev.to/JS] [Debouncing vs useDefferedValue](https://dev.to/shriharimurali/debouncing-vs-usedefferedvalue-4dlp)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSDoc in TS and JS](https://dev.to/artxe2/jsdoc-in-ts-and-js-1p6j)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
 - [Dev.to/JS] [Proyecto: “Big Tech Job Offer” — Parte 1](https://dev.to/jpromanonet/proyecto-big-tech-job-offer-parte-1-3kcf)
-- [Dev.to/JS] [React Js Developers ⭐ Create a Email Editor with React-Quill](https://dev.to/idurar/react-js-developers-create-a-email-editor-with-react-quill-1edl)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
