@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Uploading Images to a Sails.js Server: A Quick Guide](https://dev.to/dileepamabulage/uploading-images-to-a-sailsjs-server-a-quick-guide-2laj)
+- [Dev.to/JS] [JavaScript vs TypeScript](https://dev.to/easewithtuts/javascript-vs-typescript-1n6l)
 - [Dev.to/JS] [Hello](https://dev.to/linh2402/hello-1lkc)
 - [Dev.to/JS] [Rino Docs를 이용한 간단한 마크다운 웹사이트 생성🚀](https://dev.to/opdev1004/rino-docsreul-iyonghan-gandanhan-makeudaun-websaiteu-saengseong-2kkc)
 - [Dev.to/JS] [JavaScript : Generators &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-generators-englishhindi-202)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript ‘this’ keyword’s binding rules](https://dev.to/badr21/javascript-this-keywords-binding-rules-2n4e)
 - [Dev.to/JS] [Visual Studio JavaScript minifier / compressor](https://dev.to/karenpayneoregon/visual-studio-javascript-minifier-compressor-3281)
 - [Dev.to/JS] [VueJS part 3: Vue directives and conditional rendering](https://dev.to/hi_iam_chris/vuejs-part-3-vue-directives-and-conditional-rendering-4pam)
-- [Dev.to/JS] [Изучение турецкого языка: секреты успешного обучения](https://dev.to/mistika24/izuchieniie-turietskogho-iazyka-siekriety-uspieshnogho-obuchieniia-2dbe)
-- [Dev.to/JS] [Unraveling the Cryptic Adware in a WordPress Site: A Journey into JavaScript Obfuscation](https://dev.to/nabous/unraveling-the-cryptic-adware-in-a-wordpress-site-a-journey-into-javascript-obfuscation-2hfc)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
