@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is jQuery?](https://dev.to/dumebii/what-is-jquery-mcg)
+- [Lifehacker] [You Need to Prepare Your Sprinkler System for Winter](https://lifehacker.com/winterize-your-sprinkler-system-1850849900)
+- [Dev.to/JS] [Supercharge Your SVG Icon Workflow with This GitHub Template](https://dev.to/simprl/supercharge-your-svg-icon-workflow-with-this-github-template-10gn)
+- [Dev.to/JS] [💪Mastering React: Crafting a Stunning Reusable Button Component ✨](https://dev.to/taquiimam14/mastering-react-crafting-a-stunning-reusable-button-component-5amk)
+- [Lifehacker] [The Best Turkey Dry Brine Recipe Is a Simple Ratio](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
+- [Dev.to/JS] [⚛️ React.js: Avoid Memory Leaks and Race Conditions in API Calls🧹](https://dev.to/shameel/reactjs-avoid-memory-leaks-and-race-conditions-in-api-calls-4k1m)
+- [Lifehacker] [How to Found a New Town &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-found-a-new-town-and-why-you-might-want-to-1850849371)
 - [Dev.to/JS] [📝 🚀 Creating our first documentation from scratch using Astro and Refact AI coding assistant](https://dev.to/refact/creating-our-first-documentation-from-scratch-using-astro-and-refact-ai-coding-assistant-36pg)
 - [Lifehacker] [Epic Is Selling Hundreds of PC Games at Up to 80% Off](https://lifehacker.com/epic-is-selling-hundreds-of-pc-games-at-up-to-80-off-1850849532)
 - [Dev.to/JS] [Node.js: A Guide to Native .env Support and local development](https://dev.to/usulpro/nodejs-a-guide-to-native-env-support-and-local-development-300g)
@@ -45,12 +52,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 50: Template Literal Types](https://dev.to/dhrn/day-50-template-literal-types-56hd)
 - [Lifehacker] [This 9-Inch Car Display Screen Is $105 Right Now](https://lifehacker.com/this-9-inch-car-display-screen-is-105-right-now-1850842490)
 - [Lifehacker] [How to Adjust the Volume for Every App on Your Mac](https://lifehacker.com/how-to-individually-control-audio-volume-for-every-app-1847455401)
-- [Dev.to/JS] [Mastering SQL Interview Questions: A Comprehensive Guide](https://dev.to/sajalmanjhi/mastering-sql-interview-questions-a-comprehensive-guide-1ank)
-- [Dev.to/JS] [🧞‍♂️ Generator unlocked: Create memes with ChatGPT and NextJS 🚀 💥](https://dev.to/triggerdotdev/generator-unlocked-create-memes-with-chatgpt-and-nextjs-2g3c)
-- [Dev.to/JS] [Web Dev Trends in 2023 🔥- Part 2](https://dev.to/frjr17/web-dev-trends-in-2023-part-2-1m8l)
 - [Lifehacker] [The Best Ways to Get Smells Out of Thrifted Furniture](https://lifehacker.com/the-best-ways-to-get-smells-out-of-thrifted-furniture-1850847872)
 - [Lifehacker] [TikTok Myth of the Week: Your Guts Are Full of Poop](https://lifehacker.com/tiktok-gut-health-trend-1850844490)
-- [Dev.to/JS] [🚀 how to Create a Modal Component with Vanilla JavaScript](https://dev.to/idurar/how-to-create-a-modal-component-with-just-javascript-without-react-or-vue-5767)
 - [Lifehacker] [Six Cooling Rack Alternatives You Probably Already Have in Your Kitchen](https://lifehacker.com/cooling-rack-alternatives-1850844031)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Stream Thousands of Free Public Domain Audiobooks](https://lifehacker.com/you-can-stream-thousands-of-free-public-domain-audioboo-1850845294)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Saturday, September 16](https://lifehacker.com/connections-answer-today-september-16-2023-1850842165)
 - [Lifehacker] [Ten Situations Where You Should Really Keep Your Mouth Shut](https://lifehacker.com/ten-situations-where-you-should-really-keep-your-mouth-1850844470)
-- [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)
-- [Lifehacker] [Turn Woody Mushroom Stems Into an Umami-packed Powder](https://lifehacker.com/mushroom-umami-powder-recipe-1850843604)
-- [Lifehacker] [Why You Should Always Study in Silence, According to Science](https://lifehacker.com/why-you-should-always-study-in-silence-according-to-sc-1850843477)
-- [Lifehacker] [Get This CarPlay Wireless Adapter for 50% Off Right Now](https://lifehacker.com/get-this-carplay-wireless-adapter-for-50-off-right-now-1850839929)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid Using These Passive-Aggressive Phrases in Your Work Emails](https://lifehacker.com/avoid-using-these-passive-aggressive-phrases-in-your-wo-1850843297)<!-- TECH-POSTS:END -->
 
 ---
 
