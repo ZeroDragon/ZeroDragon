@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSDoc in TS and JS](https://dev.to/artxe2/jsdoc-in-ts-and-js-1p6j)
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
+- [Dev.to/JS] [Proyecto: “Big Tech Job Offer” — Parte 1](https://dev.to/jpromanonet/proyecto-big-tech-job-offer-parte-1-3kcf)
+- [Dev.to/JS] [React Js Developers ⭐ Create a Email Editor with React-Quill](https://dev.to/idurar/react-js-developers-create-a-email-editor-with-react-quill-1edl)
 - [Dev.to/JS] [Using Secrets in Serverless](https://dev.to/robinthomas_30/using-secrets-in-serverless-50hf)
 - [Dev.to/JS] [JavaScript ‘this’ keyword’s binding rules](https://dev.to/badr21/javascript-this-keywords-binding-rules-2n4e)
 - [Dev.to/JS] [Visual Studio JavaScript minifier / compressor](https://dev.to/karenpayneoregon/visual-studio-javascript-minifier-compressor-3281)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the JavaScript `map&lpar;&rpar;` Method](https://dev.to/frantchessico/understanding-the-javascript-map-method-47oh)
 - [Dev.to/JS] [How To Start Blogging Step By Step Full Guide | Easy way to earn money online](https://dev.to/lailarose33020/how-to-start-blogging-step-by-step-full-guide-easy-way-to-earn-money-online-7j2)
 - [Dev.to/JS] [Mastering Separation of Concerns in React with Custom Hooks](https://dev.to/barrymichaeldoyle/mastering-separation-of-concerns-in-react-with-custom-hooks-1e97)
-- [Dev.to/JS] [Converting Dates into Human-Readable Time Ago Format in JavaScript](https://dev.to/sh20raj/converting-dates-into-human-readable-time-ago-format-in-javascript-595g)
-- [Dev.to/JS] [How can I optimize my website&#39;s loading speed and overall performance](https://dev.to/amelia1/how-can-i-optimize-my-websites-loading-speed-and-overall-performance-1f7e)
-- [Dev.to/JS] [Generating React files with Plop to maintain code consistency and avoid trivial steps](https://dev.to/dionarodrigues/generating-react-files-with-plop-to-maintain-code-consistency-and-avoid-trivial-steps-189e)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850836740)
 - [Lifehacker] [It&#39;s Not Always Best to Book Flights Through Your Credit Card Rewards Portal](https://lifehacker.com/its-not-always-best-to-book-flights-through-your-credit-1850834952)
 - [Lifehacker] [The Quickest Ways to Convert HEIC to JPEG](https://lifehacker.com/convert-heic-to-jpg-on-windows-and-mac-1848768694)
-- [Lifehacker] [The Gardening Supplies Worth Keeping for Next Year &lpar;and What to Get Rid Of&rpar;](https://lifehacker.com/the-gardening-supplies-worth-keeping-for-next-year-and-1850841600)
-- [Lifehacker] [The Samsung SmartThings Station Is on Sale for $1 This Weekend](https://lifehacker.com/the-samsung-smartthings-station-is-on-sale-for-1-this-1850841356)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Gardening Supplies Worth Keeping for Next Year &lpar;and What to Get Rid Of&rpar;](https://lifehacker.com/the-gardening-supplies-worth-keeping-for-next-year-and-1850841600)<!-- TECH-POSTS:END -->
 
 ---
 
