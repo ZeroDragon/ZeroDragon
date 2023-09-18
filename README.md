@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 50: Template Literal Types](https://dev.to/dhrn/day-50-template-literal-types-56hd)
+- [Lifehacker] [This 9-Inch Car Display Screen Is $105 Right Now](https://lifehacker.com/this-9-inch-car-display-screen-is-105-right-now-1850842490)
+- [Lifehacker] [How to Adjust the Volume for Every App on Your Mac](https://lifehacker.com/how-to-individually-control-audio-volume-for-every-app-1847455401)
+- [Dev.to/JS] [Mastering SQL Interview Questions: A Comprehensive Guide](https://dev.to/sajalmanjhi/mastering-sql-interview-questions-a-comprehensive-guide-1ank)
+- [Dev.to/JS] [🧞‍♂️ Generator unlocked: Create memes with ChatGPT and NextJS 🚀 💥](https://dev.to/triggerdotdev/generator-unlocked-create-memes-with-chatgpt-and-nextjs-2g3c)
+- [Dev.to/JS] [Web Dev Trends in 2023 🔥- Part 2](https://dev.to/frjr17/web-dev-trends-in-2023-part-2-1m8l)
 - [Lifehacker] [The Best Ways to Get Smells Out of Thrifted Furniture](https://lifehacker.com/the-best-ways-to-get-smells-out-of-thrifted-furniture-1850847872)
-- [Lifehacker] [TikTok Myth of the Week: Your Guts Are Just Chock Full of Poop](https://lifehacker.com/tiktok-gut-health-trend-1850844490)
+- [Lifehacker] [TikTok Myth of the Week: Your Guts Are Full of Poop](https://lifehacker.com/tiktok-gut-health-trend-1850844490)
 - [Dev.to/JS] [🚀 how to Create a Modal Component with Vanilla JavaScript](https://dev.to/idurar/how-to-create-a-modal-component-with-just-javascript-without-react-or-vue-5767)
 - [Lifehacker] [Six Cooling Rack Alternatives You Probably Already Have in Your Kitchen](https://lifehacker.com/cooling-rack-alternatives-1850844031)
 - [Dev.to/JS] [Understanding Angular Polyfills and the Role of Zone.js](https://dev.to/chintanonweb/understanding-angular-polyfills-and-the-role-of-zonejs-48mi)
@@ -37,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [react-tweet: Vercel’s New React Library for Embedding Tweets](https://dev.to/ubahthebuilder/react-tweet-vercels-new-react-library-for-embedding-tweets-4dof)
 - [Dev.to/JS] [✨ Generate BDD tests with ChatGPT and run them with Playwright](https://dev.to/vitalets/generate-bdd-tests-with-chatgpt-and-run-them-with-playwright-4ffm)
 - [Dev.to/JS] [AZ-104 Dumps: The Secret to Azure Certification Success](https://dev.to/ctnc7tug/az-104-dumps-the-secret-to-azure-certification-success-15ge)
-- [Dev.to/JS] [JavaScript objects for beginners](https://dev.to/esraanasr92/javascript-objects-for-beginners-5hii)
-- [Dev.to/JS] [Is TypeScript Losing Ground? A Look at Recent Library Decisions](https://dev.to/khoubaibsudo/is-typescript-losing-ground-a-look-at-recent-library-decisions-1pfh)
-- [Dev.to/JS] [ECMAScript Explicit Resource Management early implementation in TypeScript 5.2](https://dev.to/iodigital-com/ecmascript-explicit-resource-management-early-implementation-in-typescript-52-3bl5)
-- [Dev.to/JS] [Supabase realtime changes in Nuxt](https://dev.to/jacobandrewsky/supabase-realtime-changes-in-nuxt-i6b)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Fast the iPhone 15 Pro Really Is](https://lifehacker.com/heres-how-fast-the-iphone-15-pro-really-is-1850842175)
 - [Lifehacker] [Five Questions to Ask Yourself Before Having a Threesome](https://lifehacker.com/questions-to-ask-before-threesome-1850842094)
 - [Lifehacker] [How to Make Choux Pastry, or Pâte à Choux](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
-- [Lifehacker] [The Best Documentaries Currently Streaming on Netflix](https://lifehacker.com/best-documentaries-netflix-1850833851)
-- [Lifehacker] [How Companies Use ‘Drip Pricing’ to Charge You More](https://lifehacker.com/how-companies-use-drip-pricing-to-charge-you-more-1850788343)
-- [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850836740)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Documentaries Currently Streaming on Netflix](https://lifehacker.com/best-documentaries-netflix-1850833851)<!-- TECH-POSTS:END -->
 
 ---
 
