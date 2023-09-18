@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript: A Comprehensive Guide to Promises and Async/Await](https://dev.to/gkhan205/mastering-asynchronous-programming-in-javascript-a-comprehensive-guide-to-promises-and-asyncawait-1hel)
+- [Dev.to/JS] [Wondershare Filmora 12.5.7 Crack](https://dev.to/ziapc/wondershare-filmora-1257-crack-3bde)
 - [Dev.to/JS] [Debouncing vs useDefferedValue](https://dev.to/shriharimurali/debouncing-vs-usedefferedvalue-4dlp)
 - [Dev.to/JS] [JavaScript&#39;s Promise.race&lpar;&rpar; for Efficient Asynchronous Operations](https://dev.to/souravbandyopadhyay/javascripts-promiserace-for-efficient-asynchronous-operations-efc)
 - [Dev.to/JS] [Mastering Node.js Streams: A Comprehensive Guide](https://dev.to/mrrishimeena/mastering-nodejs-streams-a-comprehensive-guide-37bb)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
 - [Dev.to/JS] [Proyecto: “Big Tech Job Offer” — Parte 1](https://dev.to/jpromanonet/proyecto-big-tech-job-offer-parte-1-3kcf)
 - [Dev.to/JS] [React Js Developers ⭐ Create a Email Editor with React-Quill](https://dev.to/idurar/react-js-developers-create-a-email-editor-with-react-quill-1edl)
-- [Dev.to/JS] [Using Secrets in Serverless](https://dev.to/robinthomas_30/using-secrets-in-serverless-50hf)
-- [Dev.to/JS] [JavaScript ‘this’ keyword’s binding rules](https://dev.to/badr21/javascript-this-keywords-binding-rules-2n4e)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
