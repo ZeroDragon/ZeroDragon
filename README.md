@@ -26,10 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debouncing vs useDefferedValue](https://dev.to/shriharimurali/debouncing-vs-usedefferedvalue-4dlp)
+- [Dev.to/JS] [JavaScript&#39;s Promise.race&lpar;&rpar; for Efficient Asynchronous Operations](https://dev.to/souravbandyopadhyay/javascripts-promiserace-for-efficient-asynchronous-operations-efc)
 - [Dev.to/JS] [Mastering Node.js Streams: A Comprehensive Guide](https://dev.to/mrrishimeena/mastering-nodejs-streams-a-comprehensive-guide-37bb)
 - [Dev.to/JS] [Uploading Images to a Sails.js Server: A Quick Guide](https://dev.to/dileepamabulage/uploading-images-to-a-sailsjs-server-a-quick-guide-2laj)
 - [Dev.to/JS] [JavaScript vs TypeScript](https://dev.to/easewithtuts/javascript-vs-typescript-1n6l)
-- [Dev.to/JS] [Hello](https://dev.to/linh2402/hello-1lkc)
 - [Dev.to/JS] [Rino Docs를 이용한 간단한 마크다운 웹사이트 생성🚀](https://dev.to/opdev1004/rino-docsreul-iyonghan-gandanhan-makeudaun-websaiteu-saengseong-2kkc)
 - [Dev.to/JS] [JavaScript : Generators &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-generators-englishhindi-202)
 - [Dev.to/JS] [JSDoc in TS and JS](https://dev.to/artxe2/jsdoc-in-ts-and-js-1p6j)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Js Developers ⭐ Create a Email Editor with React-Quill](https://dev.to/idurar/react-js-developers-create-a-email-editor-with-react-quill-1edl)
 - [Dev.to/JS] [Using Secrets in Serverless](https://dev.to/robinthomas_30/using-secrets-in-serverless-50hf)
 - [Dev.to/JS] [JavaScript ‘this’ keyword’s binding rules](https://dev.to/badr21/javascript-this-keywords-binding-rules-2n4e)
-- [Dev.to/JS] [Visual Studio JavaScript minifier / compressor](https://dev.to/karenpayneoregon/visual-studio-javascript-minifier-compressor-3281)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
 - [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
