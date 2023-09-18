@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)
+- [Dev.to/JS] [My First Open-Source Project: TILerator](https://dev.to/mismathh/my-first-open-source-project-tilerator-cjk)
+- [Dev.to/JS] [Typescript and JSDoc, shared names for Types + Values](https://dev.to/shakyshane/typescript-and-jsdoc-shared-names-for-types-values-3a8l)
+- [Lifehacker] [You Can Preorder the AirPods Pro With USB-C for $50 Off Right Now](https://lifehacker.com/you-can-preorder-the-airpods-pro-with-usb-c-for-50-off-1850850041)
 - [Dev.to/JS] [TF #15 | Your weekly frontend digest](https://dev.to/tech_foutraque/tf-15-your-weekly-frontend-digest-20fh)
 - [Dev.to/JS] [A First Look at HTMX and How it Compares to React](https://dev.to/builderio/a-first-look-at-htmx-and-how-it-compares-to-react-4jdl)
 - [Lifehacker] [You Can Save Up to 20% on a Steam Deck Right Now](https://lifehacker.com/steam-deck-deals-september-2023-1850849982)
@@ -46,9 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Found a New Town &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-found-a-new-town-and-why-you-might-want-to-1850849371)
 - [Dev.to/JS] [📝 🚀 Creating our first documentation from scratch using Astro and Refact AI coding assistant](https://dev.to/refact/creating-our-first-documentation-from-scratch-using-astro-and-refact-ai-coding-assistant-36pg)
 - [Lifehacker] [Epic Is Selling Hundreds of PC Games at Up to 80% Off](https://lifehacker.com/epic-is-selling-hundreds-of-pc-games-at-up-to-80-off-1850849532)
-- [Dev.to/JS] [Node.js: A Guide to Native .env Support and local development](https://dev.to/usulpro/nodejs-a-guide-to-native-env-support-and-local-development-300g)
 - [Lifehacker] [You Can Install iOS 17 Right Now](https://lifehacker.com/ios-17-release-date-and-features-1850828707)
-- [Dev.to/JS] [Research in English News](https://dev.to/dvtt/research-in-english-39ff)
 - [Lifehacker] [Use the &#39;Jigsaw Method&#39; to Study Complex Topics](https://lifehacker.com/use-the-jigsaw-method-to-study-complex-topics-1850849174)
 - [Lifehacker] [Use &#39;Close Reading&#39; to Retain Every Detail When You Study](https://lifehacker.com/use-close-reading-to-retain-every-detail-when-you-study-1850849002)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six Cooling Rack Alternatives You Probably Already Have in Your Kitchen](https://lifehacker.com/cooling-rack-alternatives-1850844031)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
-- [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
-- [Lifehacker] [The Best Ways to Reuse Old Bricks in Your Yard](https://lifehacker.com/the-best-ways-to-reuse-old-bricks-in-your-yard-1850846451)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Sunday, September 17](https://lifehacker.com/connections-answer-today-september-17-2023-1850842510)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)<!-- TECH-POSTS:END -->
 
 ---
 
