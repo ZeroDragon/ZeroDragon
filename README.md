@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Six Cooling Rack Alternatives You Probably Already Have in Your Kitchen](https://lifehacker.com/cooling-rack-alternatives-1850844031)
+- [Dev.to/JS] [Understanding Angular Polyfills and the Role of Zone.js](https://dev.to/chintanonweb/understanding-angular-polyfills-and-the-role-of-zonejs-48mi)
 - [Dev.to/JS] [Находки по разработке 5](https://dev.to/potykion/nakhodki-po-razrabotkie-5-2683)
 - [Dev.to/JS] [HOW TO GENERATE PDF IN REACT-NATIVE &lpar;CROSS-PLATFORM&rpar;](https://dev.to/cudium/how-to-generate-pdf-in-react-native-cross-platform-1f8g)
 - [Dev.to/JS] [AZ-104 Dumps: Your Secret Weapon for Azure Certification](https://dev.to/ctnc7tug/az-104-dumps-your-secret-weapon-for-azure-certification-54k1)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ECMAScript Explicit Resource Management early implementation in TypeScript 5.2](https://dev.to/iodigital-com/ecmascript-explicit-resource-management-early-implementation-in-typescript-52-3bl5)
 - [Dev.to/JS] [Supabase realtime changes in Nuxt](https://dev.to/jacobandrewsky/supabase-realtime-changes-in-nuxt-i6b)
 - [Dev.to/JS] [Flowchart editor dgrm.net / Announcement / Live collaboration](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-live-collaboration-eem)
-- [Dev.to/JS] [asd](https://dev.to/tiendndev/asd-f9f)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Companies Use ‘Drip Pricing’ to Charge You More](https://lifehacker.com/how-companies-use-drip-pricing-to-charge-you-more-1850788343)
 - [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850836740)
 - [Lifehacker] [It&#39;s Not Always Best to Book Flights Through Your Credit Card Rewards Portal](https://lifehacker.com/its-not-always-best-to-book-flights-through-your-credit-1850834952)
-- [Lifehacker] [The Quickest Ways to Convert HEIC to JPEG](https://lifehacker.com/convert-heic-to-jpg-on-windows-and-mac-1848768694)
-- [Lifehacker] [The Gardening Supplies Worth Keeping for Next Year &lpar;and What to Get Rid Of&rpar;](https://lifehacker.com/the-gardening-supplies-worth-keeping-for-next-year-and-1850841600)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Quickest Ways to Convert HEIC to JPEG](https://lifehacker.com/convert-heic-to-jpg-on-windows-and-mac-1848768694)<!-- TECH-POSTS:END -->
 
 ---
 
