@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use &#39;Close Reading&#39; to Retain Every Detail When You Study](https://lifehacker.com/use-close-reading-to-retain-every-detail-when-you-study-1850849002)
+- [Dev.to/JS] [Mastering React Design Patterns: Creating a Tabs Component](https://dev.to/josephciullo/mastering-react-design-patterns-creating-a-tabs-component-1lem)
+- [Dev.to/JS] [Esto nunca para](https://dev.to/ulisesserranop/esto-nunca-para-3mbk)
+- [Lifehacker] [You Can Get a $30 Gift Card With a New Costco Membership](https://lifehacker.com/you-can-get-a-30-gift-card-with-a-new-costco-membershi-1850849083)
 - [Lifehacker] [Five Home Renovations Never Worth Doing Yourself](https://lifehacker.com/five-home-renovations-never-worth-doing-yourself-1850848046)
 - [Lifehacker] [Amazon Officially Announces Prime Big Deal Days for 2023](https://lifehacker.com/amazon-officially-announces-prime-big-deal-days-for-202-1850848692)
 - [Dev.to/JS] [How was Halfstack Vienna 2023?](https://dev.to/bogomil/how-was-halfstack-vienna-2023-57o7)
@@ -44,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Angular Polyfills and the Role of Zone.js](https://dev.to/chintanonweb/understanding-angular-polyfills-and-the-role-of-zonejs-48mi)
 - [Dev.to/JS] [Находки по разработке 5](https://dev.to/potykion/nakhodki-po-razrabotkie-5-2683)
 - [Dev.to/JS] [HOW TO GENERATE PDF IN REACT-NATIVE &lpar;CROSS-PLATFORM&rpar;](https://dev.to/cudium/how-to-generate-pdf-in-react-native-cross-platform-1f8g)
-- [Dev.to/JS] [AZ-104 Dumps: Your Secret Weapon for Azure Certification](https://dev.to/ctnc7tug/az-104-dumps-your-secret-weapon-for-azure-certification-54k1)
-- [Dev.to/JS] [react-tweet: Vercel’s New React Library for Embedding Tweets](https://dev.to/ubahthebuilder/react-tweet-vercels-new-react-library-for-embedding-tweets-4dof)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Windows 11 Home for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-home-for-30-right-now-1850836810)
 - [Lifehacker] [The Rachio Is My Favorite Smart Hose Timer](https://lifehacker.com/rachio-smart-hose-timer-review-1850842996)
 - [Lifehacker] [These Are My Favorite Mind-Mapping Templates for Studying](https://lifehacker.com/these-are-my-favorite-mind-mapping-templates-for-studyi-1850843156)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What’s the Deal With Smurf Cat?](https://lifehacker.com/what-is-smurf-cat-1850842927)
-- [Lifehacker] [Nine Tips for Perfect Mashed Potatoes](https://lifehacker.com/9-tips-for-perfect-mashed-potatoes-1845692616)
-- [Lifehacker] [Here&#39;s How Fast the iPhone 15 Pro Really Is](https://lifehacker.com/heres-how-fast-the-iphone-15-pro-really-is-1850842175)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What’s the Deal With Smurf Cat?](https://lifehacker.com/what-is-smurf-cat-1850842927)<!-- TECH-POSTS:END -->
 
 ---
 
