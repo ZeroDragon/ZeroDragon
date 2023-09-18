@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Amazon Officially Announces Prime Big Deal Days for 2023](https://lifehacker.com/amazon-officially-announces-prime-big-deal-days-for-202-1850848692)
+- [Dev.to/JS] [How was Halfstack Vienna 2023?](https://dev.to/bogomil/how-was-halfstack-vienna-2023-57o7)
+- [Lifehacker] [Yes, You Need to Clean Your Dirty Broom](https://lifehacker.com/yes-you-need-to-clean-your-dirty-broom-1849701048)
+- [Dev.to/JS] [The best way to get the month name from a date in JavaScript](https://dev.to/atapas/the-best-way-to-get-the-month-name-from-a-date-in-javascript-3pjn)
 - [Dev.to/JS] [Day 50: Template Literal Types](https://dev.to/dhrn/day-50-template-literal-types-56hd)
 - [Lifehacker] [This 9-Inch Car Display Screen Is $105 Right Now](https://lifehacker.com/this-9-inch-car-display-screen-is-105-right-now-1850842490)
 - [Lifehacker] [How to Adjust the Volume for Every App on Your Mac](https://lifehacker.com/how-to-individually-control-audio-volume-for-every-app-1847455401)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HOW TO GENERATE PDF IN REACT-NATIVE &lpar;CROSS-PLATFORM&rpar;](https://dev.to/cudium/how-to-generate-pdf-in-react-native-cross-platform-1f8g)
 - [Dev.to/JS] [AZ-104 Dumps: Your Secret Weapon for Azure Certification](https://dev.to/ctnc7tug/az-104-dumps-your-secret-weapon-for-azure-certification-54k1)
 - [Dev.to/JS] [react-tweet: Vercel’s New React Library for Embedding Tweets](https://dev.to/ubahthebuilder/react-tweet-vercels-new-react-library-for-embedding-tweets-4dof)
-- [Dev.to/JS] [✨ Generate BDD tests with ChatGPT and run them with Playwright](https://dev.to/vitalets/generate-bdd-tests-with-chatgpt-and-run-them-with-playwright-4ffm)
-- [Dev.to/JS] [AZ-104 Dumps: The Secret to Azure Certification Success](https://dev.to/ctnc7tug/az-104-dumps-the-secret-to-azure-certification-success-15ge)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [The Most Effective Ways to Combat Psychological Avoidance](https://lifehacker.com/the-most-effective-ways-to-combat-psychological-avoidan-1850846448)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What’s the Deal With Smurf Cat?](https://lifehacker.com/what-is-smurf-cat-1850842927)
 - [Lifehacker] [Nine Tips for Perfect Mashed Potatoes](https://lifehacker.com/9-tips-for-perfect-mashed-potatoes-1845692616)
 - [Lifehacker] [Here&#39;s How Fast the iPhone 15 Pro Really Is](https://lifehacker.com/heres-how-fast-the-iphone-15-pro-really-is-1850842175)
-- [Lifehacker] [Five Questions to Ask Yourself Before Having a Threesome](https://lifehacker.com/questions-to-ask-before-threesome-1850842094)
-- [Lifehacker] [How to Make Choux Pastry, or Pâte à Choux](https://lifehacker.com/how-to-make-pate-a-choux-the-stuff-eclairs-are-made-of-1849422698)
-- [Lifehacker] [The Best Documentaries Currently Streaming on Netflix](https://lifehacker.com/best-documentaries-netflix-1850833851)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Questions to Ask Yourself Before Having a Threesome](https://lifehacker.com/questions-to-ask-before-threesome-1850842094)<!-- TECH-POSTS:END -->
 
 ---
 
