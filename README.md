@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Syntactic Elegance-The Developer’s Dream](https://dev.to/jakemclelland/syntactic-elegance-the-developers-dream-329b)
 - [Dev.to/JS] [Vuex or Pinia](https://dev.to/aditianand8/vuex-or-pinia-39m)
 - [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)
 - [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supercharge Your SVG Sprite Icons Library with This GitHub Template](https://dev.to/simprl/supercharge-your-svg-icon-workflow-with-this-github-template-10gn)
 - [Dev.to/JS] [💪Mastering React: Crafting a Stunning Reusable Button Component ✨](https://dev.to/taquiimam14/mastering-react-crafting-a-stunning-reusable-button-component-5amk)
 - [Lifehacker] [The Best Turkey Dry Brine Recipe Is a Simple Ratio](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
-- [Dev.to/JS] [⚛️ React.js: Avoid Memory Leaks and Race Conditions in API Calls🧹](https://dev.to/shameel/reactjs-avoid-memory-leaks-and-race-conditions-in-api-calls-4k1m)
 - [Lifehacker] [How to Found a New Town &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-found-a-new-town-and-why-you-might-want-to-1850849371)
 - [Lifehacker] [Epic Is Selling Hundreds of PC Games at Up to 80% Off](https://lifehacker.com/epic-is-selling-hundreds-of-pc-games-at-up-to-80-off-1850849532)
 - [Lifehacker] [You Can Install iOS 17 Right Now](https://lifehacker.com/ios-17-release-date-and-features-1850828707)
