@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [An Age-By-Age Guide to Helping Kids Manage Homework](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-manage-homework-1850849992)
+- [Dev.to/JS] [💡 JavaScript Hack: Conditionally Add Properties within Objects](https://dev.to/shameel/javascript-hack-conditionally-add-properties-within-objects-1n32)
+- [Dev.to/JS] [TruStacks Discussion](https://dev.to/trustacks/trustacks-discussion-3272)
+- [Dev.to/JS] [Isotope.js with rogue margin on masonry layout](https://dev.to/jackrussell/isotopejs-with-rogue-margin-on-masonry-layout-3p9j)
 - [Dev.to/JS] [Test post](https://dev.to/deep07/test-post-54a6)
 - [Dev.to/JS] [Java 21 is Coming – Know the Latest Features in JDK 21](https://dev.to/me_janki/java-21-is-coming-know-the-latest-features-in-jdk-21-1kdf)
 - [Dev.to/JS] [How to Build a Functional To-Do List App with JavaScript, HTML, and CSS: A Step-by-Step Guide](https://dev.to/iamcymentho/how-to-build-a-functional-to-do-list-app-with-javascript-html-and-css-a-step-by-step-guide-h9f)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Tricks: Undocumented Usage of Eval](https://dev.to/__28f08df2bb06aae67f97/javascript-tricks-undocumented-usage-of-eval-4om5)
 - [Dev.to/JS] [Placeholder for image](https://dev.to/placeholder_ink/placeholder-for-image-4bka)
 - [Dev.to/JS] [Conditional rendering: v-if vs v-show 🫴](https://dev.to/dvalin99/conditional-rendering-v-if-vs-v-show-4n1a)
-- [Dev.to/JS] [Hamdard University Karachi](https://dev.to/alluniversities/hamdard-university-karachi-4614)
-- [Dev.to/JS] [Efficient Code Version Control with Git and GitHub](https://dev.to/techno_yuga/efficient-code-version-control-with-git-and-github-43p5)
-- [Dev.to/JS] [iOttie Easy One Touch 5 Dashboard &amp; Windshield](https://dev.to/mubashir123/iottie-easy-one-touch-5-dashboard-windshield-g95)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
 - [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)
 - [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Adjust the Volume for Every App on Your Mac](https://lifehacker.com/how-to-individually-control-audio-volume-for-every-app-1847455401)
 - [Lifehacker] [The Best Ways to Get Smells Out of Thrifted Furniture](https://lifehacker.com/the-best-ways-to-get-smells-out-of-thrifted-furniture-1850847872)
 - [Lifehacker] [TikTok Myth of the Week: Your Guts Are Full of Poop](https://lifehacker.com/tiktok-gut-health-trend-1850844490)
-- [Lifehacker] [Six Cooling Rack Alternatives You Probably Already Have in Your Kitchen](https://lifehacker.com/cooling-rack-alternatives-1850844031)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Six Cooling Rack Alternatives You Probably Already Have in Your Kitchen](https://lifehacker.com/cooling-rack-alternatives-1850844031)<!-- TECH-POSTS:END -->
 
 ---
 
