@@ -26,11 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do When a Coworker Keeps Undermining You](https://lifehacker.com/what-to-do-when-a-coworker-keeps-undermining-you-1850852016)
+- [Dev.to/JS] [Mastering JavaScript One-Liners: Part 2](https://dev.to/coderj001/mastering-javascript-one-liners-part-2-2g7g)
+- [Dev.to/JS] [Why use Vite when Bun is also a bundler? - Vite vs. Bun](https://dev.to/redbar0n/why-use-vite-when-bun-is-also-a-bundler-vite-vs-bun-2723)
+- [Dev.to/JS] [3 Easy Ways to Solve SEO Problems in React Applications](https://dev.to/mohammadfaisal/3-easy-ways-to-solve-seo-problems-in-react-applications-3kfj)
+- [Dev.to/JS] [First Project Completed](https://dev.to/mheyrie/first-project-completed-20pd)
+- [Dev.to/JS] [Remix PWA v3.0: A new era](https://dev.to/shafspecs/remix-pwa-v30-a-new-era-48f)
+- [Lifehacker] [What&#39;s New on Hulu in October 2023](https://lifehacker.com/new-on-hulu-october-2023-1850851012)
+- [Dev.to/JS] [Vue.js and Vue Router Unveiled: Mastering Seamless Routing for Vue Apps](https://dev.to/chintanonweb/vuejs-and-vue-router-unveiled-mastering-seamless-routing-for-vue-apps-2bf8)
 - [Lifehacker] [This 3-in-1 Magnetic Wireless Charging Pad Is $33 Right Now](https://lifehacker.com/this-3-in-1-magnetic-wireless-charging-pad-is-33-right-1850842636)
 - [Dev.to/JS] [Preparing a React course in public - Examples Hub](https://dev.to/manuartero/preparing-a-react-course-in-public-examples-hub-5cpe)
 - [Lifehacker] [Five Home Renovations Worth Doing Yourself](https://lifehacker.com/home-renovations-worth-doing-yourself-1850851448)
 - [Dev.to/JS] [Single Page Image Editor](https://dev.to/aniiket/single-page-image-editor-4ok)
-- [Dev.to/JS] [Building User Authentication with Username and Password using Supabase](https://dev.to/supabase/building-user-authentication-with-username-and-password-using-supabase-n4h)
 - [Dev.to/JS] [Day 51: Recursive Types](https://dev.to/dhrn/day-51-recursive-types-365b)
 - [Lifehacker] [The 12 Most Anticipated Video Games Coming Out This Holiday Season](https://lifehacker.com/most-anticipated-video-games-coming-out-holidays-1850851453)
 - [Dev.to/JS] [Focus on Accessibility: Mastering Form Input States for All Users](https://dev.to/masynctech/focus-on-accessibility-mastering-form-input-states-for-all-users-25ga)
@@ -39,13 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Cheese-Filled ‘Pumpkin’ Is the Perfect Holiday Appetizer](https://lifehacker.com/a-cheese-filled-pumpkin-is-the-perfect-holiday-appeti-1849781033)
 - [Lifehacker] [This Anker Charger That Can Power All Your Devices Is 43% Off](https://lifehacker.com/this-anker-charger-that-can-power-all-your-devices-is-4-1850850523)
 - [Dev.to/JS] [Which back-end frameworks are impacting web application development immensely?](https://dev.to/sparkouttech/which-back-end-frameworks-are-impacting-web-application-development-immensely-44c8)
-- [Dev.to/JS] [SAML SSO: The Missing Piece in Your Next.js App&#39;s Authentication Puzzle 🧩](https://dev.to/nathan_tarbert/saml-sso-the-missing-piece-in-your-nextjs-apps-authentication-puzzle-3h9f)
 - [Lifehacker] [My Favorite Fitness Gear Under $100](https://lifehacker.com/my-favorite-fitness-gear-under-100-1850850932)
-- [Dev.to/JS] [The Complete Guide To JavaScript Functions](https://dev.to/catherineisonline/the-complete-guide-to-javascript-functions-304g)
-- [Dev.to/JS] [Beyond console.log in JavaScript](https://dev.to/devshetty/beyond-consolelog-in-javascript-267f)
-- [Dev.to/JS] [Useful Websites for Beginner Web Developers](https://dev.to/anand_roshan/useful-websites-for-beginner-web-developers-d8g)
 - [Lifehacker] [An Age-By-Age Guide to Helping Kids Manage Homework](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-manage-homework-1850849992)
-- [Dev.to/JS] [💡 JavaScript Hack: Conditionally Add Properties within Objects](https://dev.to/shameel/javascript-hack-conditionally-add-properties-within-objects-1n32)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
 - [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)
 - [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Install iOS 17 Right Now](https://lifehacker.com/ios-17-release-date-and-features-1850828707)
 - [Lifehacker] [Use the &#39;Jigsaw Method&#39; to Study Complex Topics](https://lifehacker.com/use-the-jigsaw-method-to-study-complex-topics-1850849174)
 - [Lifehacker] [Use &#39;Close Reading&#39; to Retain Every Detail When You Study](https://lifehacker.com/use-close-reading-to-retain-every-detail-when-you-study-1850849002)
-- [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
-- [Lifehacker] [You Can Get a $30 Gift Card With a New Costco Membership](https://lifehacker.com/you-can-get-a-30-gift-card-with-a-new-costco-membershi-1850849083)
-- [Lifehacker] [Five Home Renovations Never Worth Doing Yourself](https://lifehacker.com/five-home-renovations-never-worth-doing-yourself-1850848046)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)<!-- TECH-POSTS:END -->
 
 ---
 
