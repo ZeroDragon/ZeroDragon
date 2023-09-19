@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Release 1.0 - Text to Html Converter](https://dev.to/sshah135/release-10-text-to-html-converter-4og8)
 - [Dev.to/JS] [Effective Validations in NestJS: Flawless Software Development!](https://dev.to/fredydlemus/effective-validations-in-nestjs-flawless-software-development-45b3)
 - [Dev.to/JS] [Validate ratings using react hook form](https://dev.to/mthtitumir/validate-ratings-using-react-hook-form-2k8o)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A First Look at HTMX and How it Compares to React](https://dev.to/builderio/a-first-look-at-htmx-and-how-it-compares-to-react-4jdl)
 - [Lifehacker] [You Can Save Up to 20% on a Steam Deck Right Now](https://lifehacker.com/steam-deck-deals-september-2023-1850849982)
 - [Dev.to/JS] [function of function &amp; closure](https://dev.to/horiyorrmi72/function-of-function-closure-56m2)
-- [Dev.to/JS] [Adding features to my open source project](https://dev.to/soham-thaker/adding-features-to-my-open-source-project-4m8f)
 - [Lifehacker] [Yes, It&#39;s OK to Run Every Day](https://lifehacker.com/is-it-okay-to-run-every-day-1835283015)
 - [Lifehacker] [Make a Vibrant Syrup Using the Liquid From a Can of Fruit](https://lifehacker.com/make-a-vibrant-syrup-using-the-liquid-from-a-can-of-fru-1850850394)
 - [Lifehacker] [How to Get Back on Track After an Expensive Vacation](https://lifehacker.com/how-to-get-back-on-track-after-an-expensive-vacation-1850849943)
