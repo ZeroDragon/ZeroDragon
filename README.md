@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Java 21 is Coming – Know the Latest Features in JDK 21](https://dev.to/me_janki/java-21-is-coming-know-the-latest-features-in-jdk-21-1kdf)
+- [Dev.to/JS] [How to Build a Functional To-Do List App with JavaScript, HTML, and CSS: A Step-by-Step Guide](https://dev.to/iamcymentho/how-to-build-a-functional-to-do-list-app-with-javascript-html-and-css-a-step-by-step-guide-h9f)
+- [Dev.to/JS] [Exploring GitHub Copilot &lpar;AI&rpar;: Revolutionizing Code Development](https://dev.to/iamcymentho/exploring-github-copilot-ai-revolutionizing-code-development-5coj)
 - [Dev.to/JS] [Using filter&lpar;&rpar; Array Method to Keep Targets in an Array](https://dev.to/calvinoea/using-filter-array-method-to-keep-targets-in-an-array-5203)
 - [Dev.to/JS] [Client-side vs. Server-side Rendering: Choosing the Right Approach for Web Development](https://dev.to/manish7107/client-side-vs-server-side-rendering-choosing-the-right-approach-for-web-development-3klj)
 - [Dev.to/JS] [JavaScript Tricks: Undocumented Usage of Eval](https://dev.to/__28f08df2bb06aae67f97/javascript-tricks-undocumented-usage-of-eval-4om5)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Efficient Code Version Control with Git and GitHub](https://dev.to/techno_yuga/efficient-code-version-control-with-git-and-github-43p5)
 - [Dev.to/JS] [iOttie Easy One Touch 5 Dashboard &amp; Windshield](https://dev.to/mubashir123/iottie-easy-one-touch-5-dashboard-windshield-g95)
 - [Dev.to/JS] [How does a non-keyed implementation differ from keys in javascript frameworks?](https://dev.to/camplejs/how-does-a-non-keyed-implementation-differ-from-keys-in-javascript-frameworks-407f)
-- [Dev.to/JS] [Object.GroupBy functionality](https://dev.to/khizerrehandev/objectgroupby-functionality-4od6)
-- [Dev.to/JS] [Smiles at Your Desk: The Impact of free group cards on Workplace Happiness](https://dev.to/romanjack1150/smiles-at-your-desk-the-impact-of-free-group-cards-on-workplace-happiness-24ji)
-- [Dev.to/JS] [this in JS](https://dev.to/idolentbudha/this-in-js-3njg)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
 - [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)
 - [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)
