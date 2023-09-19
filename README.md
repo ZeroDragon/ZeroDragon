@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Object.GroupBy functionality](https://dev.to/khizerrehandev/objectgroupby-functionality-4od6)
+- [Dev.to/JS] [Smiles at Your Desk: The Impact of free group cards on Workplace Happiness](https://dev.to/romanjack1150/smiles-at-your-desk-the-impact-of-free-group-cards-on-workplace-happiness-24ji)
+- [Dev.to/JS] [this in JS](https://dev.to/idolentbudha/this-in-js-3njg)
+- [Dev.to/JS] [How to send JSON data to FastAPI using Javascript](https://dev.to/amr2018/how-to-send-json-data-to-fastapi-using-javascript-2dhi)
+- [Dev.to/JS] [Starting typescript project in 2023](https://dev.to/dachia/starting-typescript-project-in-2023-5bj6)
 - [Dev.to/JS] [Why Embracing Open Source is Essential for Developers](https://dev.to/jorgefelico/why-embracing-open-source-is-essential-for-developers-n52)
 - [Dev.to/JS] [Mastering the JavaScript Array `filter&lpar;&rpar;` method](https://dev.to/frantchessico/mastering-the-javascript-array-filter-method-4oh8)
 - [Dev.to/JS] [Boostaro - Price, Benefits, Reviews, Complaints &amp; Warnings?](https://dev.to/boostarofa23027/boostaro-price-benefits-reviews-complaints-warnings-1fn2)
@@ -34,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Effective Validations in NestJS: Flawless Software Development!](https://dev.to/fredydlemus/effective-validations-in-nestjs-flawless-software-development-45b3)
 - [Dev.to/JS] [Validate ratings using react hook form](https://dev.to/mthtitumir/validate-ratings-using-react-hook-form-2k8o)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
-- [Dev.to/JS] [why you should use IIfe &lpar;immediately invoked function expression &rpar; in your javascript code](https://dev.to/ysyasin/why-you-should-use-iife-immediately-invoked-function-expression-in-your-javascript-code-285h)
-- [Dev.to/JS] [Design Patterns Typescript - Singleton](https://dev.to/kevin-uehara/design-patterns-gof-typescript-singleton-5ac)
-- [Dev.to/JS] [Syntactic Elegance-The Developer’s Dream](https://dev.to/jakemclelland/syntactic-elegance-the-developers-dream-329b)
-- [Dev.to/JS] [Vuex or Pinia](https://dev.to/aditianand8/vuex-or-pinia-39m)
 - [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)
 - [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)
-- [Dev.to/JS] [My First Open-Source Project: TILerator](https://dev.to/mismathh/my-first-open-source-project-tilerator-cjk)
 - [Lifehacker] [You Can Preorder the AirPods Pro With USB-C for $50 Off Right Now](https://lifehacker.com/you-can-preorder-the-airpods-pro-with-usb-c-for-50-off-1850850041)
 - [Lifehacker] [You Can Save Up to 20% on a Steam Deck Right Now](https://lifehacker.com/steam-deck-deals-september-2023-1850849982)
 - [Lifehacker] [Yes, It&#39;s OK to Run Every Day](https://lifehacker.com/is-it-okay-to-run-every-day-1835283015)
