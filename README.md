@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Embracing Open Source is Essential for Developers](https://dev.to/jorgefelico/why-embracing-open-source-is-essential-for-developers-n52)
+- [Dev.to/JS] [Mastering the JavaScript Array `filter&lpar;&rpar;` method](https://dev.to/frantchessico/mastering-the-javascript-array-filter-method-4oh8)
+- [Dev.to/JS] [Boostaro - Price, Benefits, Reviews, Complaints &amp; Warnings?](https://dev.to/boostarofa23027/boostaro-price-benefits-reviews-complaints-warnings-1fn2)
+- [Dev.to/JS] [Weather App using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/weather-app-using-html-css-and-javascript-o32)
 - [Dev.to/JS] [Web API Services Beginners Guide](https://dev.to/syedmuhammadaliraza/web-api-services-beginners-guide-1b1c)
 - [Dev.to/JS] [Effective Validations in NestJS: Flawless Software Development!](https://dev.to/fredydlemus/effective-validations-in-nestjs-flawless-software-development-45b3)
 - [Dev.to/JS] [Validate ratings using react hook form](https://dev.to/mthtitumir/validate-ratings-using-react-hook-form-2k8o)
@@ -37,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)
 - [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)
 - [Dev.to/JS] [My First Open-Source Project: TILerator](https://dev.to/mismathh/my-first-open-source-project-tilerator-cjk)
-- [Dev.to/JS] [Typescript and JSDoc, shared names for Types + Values](https://dev.to/shakyshane/typescript-and-jsdoc-shared-names-for-types-values-3a8l)
 - [Lifehacker] [You Can Preorder the AirPods Pro With USB-C for $50 Off Right Now](https://lifehacker.com/you-can-preorder-the-airpods-pro-with-usb-c-for-50-off-1850850041)
-- [Dev.to/JS] [TF #15 | Your weekly frontend digest](https://dev.to/tech_foutraque/tf-15-your-weekly-frontend-digest-20fh)
-- [Dev.to/JS] [A First Look at HTMX and How it Compares to React](https://dev.to/builderio/a-first-look-at-htmx-and-how-it-compares-to-react-4jdl)
 - [Lifehacker] [You Can Save Up to 20% on a Steam Deck Right Now](https://lifehacker.com/steam-deck-deals-september-2023-1850849982)
-- [Dev.to/JS] [function of function &amp; closure](https://dev.to/horiyorrmi72/function-of-function-closure-56m2)
 - [Lifehacker] [Yes, It&#39;s OK to Run Every Day](https://lifehacker.com/is-it-okay-to-run-every-day-1835283015)
 - [Lifehacker] [Make a Vibrant Syrup Using the Liquid From a Can of Fruit](https://lifehacker.com/make-a-vibrant-syrup-using-the-liquid-from-a-can-of-fru-1850850394)
 - [Lifehacker] [How to Get Back on Track After an Expensive Vacation](https://lifehacker.com/how-to-get-back-on-track-after-an-expensive-vacation-1850849943)
