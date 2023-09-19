@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build an HTTP server in Bun](https://dev.to/sadeedpv/build-an-http-server-in-bun-4k8l)
+- [Dev.to/JS] [🔥FULL💎 Guide to Create a Game with Babylon.js](https://dev.to/noobizdev/full-guide-to-create-a-game-with-babylonjs-4lc8)
+- [Lifehacker] [Make Sour &#39;Candy&#39; With Dried Fruit and Citric Acid](https://lifehacker.com/homemade-sour-candy-recipe-1850853390)
+- [Lifehacker] [The Real Difference Between Dressing and Stuffing](https://lifehacker.com/the-difference-between-stuffing-and-dressing-1847999886)
+- [Dev.to/JS] [Some JS Weirdness](https://dev.to/baasmurdo/some-js-weirdness-3ah)
+- [Lifehacker] [Skill Success Courses Are on Sale for $120 Right Now](https://lifehacker.com/skill-success-courses-are-on-sale-for-120-right-now-1850842581)
 - [Dev.to/JS] [Satta Matka Live: Real-Time Results](https://dev.to/snowibev/satta-matka-live-real-time-results-2e1b)
 - [Lifehacker] [Yes, Pickle Juice Can Relieve Muscle Cramps](https://lifehacker.com/pickle-juice-help-with-muscle-cramps-1850851267)
 - [Dev.to/JS] [Elevate Your Home Entertainment with Orion Bar 7500: A Comprehensive Review](https://dev.to/veerpalsingh90/elevate-your-home-entertainment-with-orion-bar-7500-a-comprehensive-review-k37)
@@ -38,13 +44,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleash the Power of Popover API in Web Development](https://dev.to/usulpro/unleash-the-power-of-popover-api-in-web-development-2jaa)
 - [Lifehacker] [What&#39;s New on Disney+ in October 2023](https://lifehacker.com/whats-new-on-disney-in-october-2023-1850851532)
 - [Dev.to/JS] [Práticas Recomendadas de Segurança para Aplicações React](https://dev.to/jhonyaraujooficial/praticas-recomendadas-de-seguranca-para-aplicacoes-react-1l6b)
-- [Dev.to/JS] [After the try block....Getting wrong startTime and EndTime while posting in backend... Let me know](https://dev.to/gokulsarvesh/after-the-try-blockgetting-wrong-starttime-and-endtime-while-posting-in-backend-let-me-know-52dg)
 - [Dev.to/JS] [Mastering React.js Virtual DOM with Practical Examples](https://dev.to/anii1429/mastering-reactjs-virtual-dom-with-practical-examples-4mhf)
 - [Lifehacker] [iOS 17 Can Blur NSFW Pics on Your iPhone](https://lifehacker.com/ios-17-can-blur-nsfw-pics-on-your-iphone-1850852496)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [What to Do When a Coworker Keeps Undermining You](https://lifehacker.com/what-to-do-when-a-coworker-keeps-undermining-you-1850852016)
-- [Dev.to/JS] [Mastering JavaScript One-Liners: Part 2](https://dev.to/coderj001/mastering-javascript-one-liners-part-2-2g7g)
-- [Dev.to/JS] [Why use Vite when Bun is also a bundler? - Vite vs. Bun](https://dev.to/this-is-learning/why-use-vite-when-bun-is-also-a-bundler-vite-vs-bun-2723)
 - [Lifehacker] [What&#39;s New on Hulu in October 2023](https://lifehacker.com/new-on-hulu-october-2023-1850851012)
 - [Lifehacker] [This 3-in-1 Magnetic Wireless Charging Pad Is $33 Right Now](https://lifehacker.com/this-3-in-1-magnetic-wireless-charging-pad-is-33-right-1850842636)
 - [Lifehacker] [Five Home Renovations Worth Doing Yourself](https://lifehacker.com/home-renovations-worth-doing-yourself-1850851448)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, It&#39;s OK to Run Every Day](https://lifehacker.com/is-it-okay-to-run-every-day-1835283015)
 - [Lifehacker] [Make a Vibrant Syrup Using the Liquid From a Can of Fruit](https://lifehacker.com/make-a-vibrant-syrup-using-the-liquid-from-a-can-of-fru-1850850394)
 - [Lifehacker] [How to Get Back on Track After an Expensive Vacation](https://lifehacker.com/how-to-get-back-on-track-after-an-expensive-vacation-1850849943)
-- [Lifehacker] [The Best New AirPods Features in iOS 17](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)
-- [Lifehacker] [How to Sign Up for Invite-Only Deals Before Amazon’s ‘Big Deal Days’](https://lifehacker.com/how-to-sign-up-for-invite-only-deals-before-amazon-s-b-1850849915)
-- [Lifehacker] [You Need to Prepare Your Sprinkler System for Winter](https://lifehacker.com/winterize-your-sprinkler-system-1850849900)
-- [Lifehacker] [The Best Turkey Dry Brine Recipe Is a Simple Ratio](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New AirPods Features in iOS 17](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)<!-- TECH-POSTS:END -->
 
 ---
 
