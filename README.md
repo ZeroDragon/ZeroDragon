@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using filter&lpar;&rpar; Array Method to Keep Targets in an Array](https://dev.to/calvinoea/using-filter-array-method-to-keep-targets-in-an-array-5203)
+- [Dev.to/JS] [Client-side vs. Server-side Rendering: Choosing the Right Approach for Web Development](https://dev.to/manish7107/client-side-vs-server-side-rendering-choosing-the-right-approach-for-web-development-3klj)
+- [Dev.to/JS] [JavaScript Tricks: Undocumented Usage of Eval](https://dev.to/__28f08df2bb06aae67f97/javascript-tricks-undocumented-usage-of-eval-4om5)
+- [Dev.to/JS] [Placeholder for image](https://dev.to/placeholder_ink/placeholder-for-image-4bka)
 - [Dev.to/JS] [Conditional rendering: v-if vs v-show 🫴](https://dev.to/dvalin99/conditional-rendering-v-if-vs-v-show-4n1a)
 - [Dev.to/JS] [Hamdard University Karachi](https://dev.to/alluniversities/hamdard-university-karachi-4614)
 - [Dev.to/JS] [Efficient Code Version Control with Git and GitHub](https://dev.to/techno_yuga/efficient-code-version-control-with-git-and-github-43p5)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Object.GroupBy functionality](https://dev.to/khizerrehandev/objectgroupby-functionality-4od6)
 - [Dev.to/JS] [Smiles at Your Desk: The Impact of free group cards on Workplace Happiness](https://dev.to/romanjack1150/smiles-at-your-desk-the-impact-of-free-group-cards-on-workplace-happiness-24ji)
 - [Dev.to/JS] [this in JS](https://dev.to/idolentbudha/this-in-js-3njg)
-- [Dev.to/JS] [How to send JSON data to FastAPI using Javascript](https://dev.to/amr2018/how-to-send-json-data-to-fastapi-using-javascript-2dhi)
-- [Dev.to/JS] [Starting typescript project in 2023](https://dev.to/dachia/starting-typescript-project-in-2023-5bj6)
-- [Dev.to/JS] [Why Embracing Open Source is Essential for Developers](https://dev.to/jorgefelico/why-embracing-open-source-is-essential-for-developers-n52)
-- [Dev.to/JS] [Mastering the JavaScript Array `filter&lpar;&rpar;` method](https://dev.to/frantchessico/mastering-the-javascript-array-filter-method-4oh8)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
 - [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)
 - [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)
