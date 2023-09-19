@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [SurfShark VPN Is an Extra 20% Off Right Now](https://lifehacker.com/surfshark-vpn-is-an-extra-20-off-right-now-1850842968)
+- [Dev.to/JS] [Destructuring in JS](https://dev.to/kyrierui/destructuring-in-js-2009)
 - [Lifehacker] [You Can Finally Offer Bookable Appointments on Your Google Calendar](https://lifehacker.com/you-can-finally-offer-bookable-appointments-on-your-goo-1850853638)
+- [Dev.to/JS] [Offer Digital Assets Using Mintbase JS](https://dev.to/starpause/offer-digital-assets-using-mintbase-js-c85)
 - [Lifehacker] [The Newest M2 MacBook Pro Is $200 Off Right Now](https://lifehacker.com/the-newest-m2-macbook-pro-is-200-off-right-now-1850853811)
 - [Dev.to/JS] [Replace a Substring With Replace Method](https://dev.to/calvinoea/replace-a-substring-with-replace-method-4pcl)
 - [Lifehacker] [Try This When an Annoying Piece of Food Gets Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)
@@ -48,8 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New Keyboard Features in iOS 17](https://lifehacker.com/the-best-new-keyboard-features-in-ios-17-1850852783)
 - [Dev.to/JS] [Returning to a Journey](https://dev.to/hroney/returning-to-a-journey-238d)
 - [Dev.to/JS] [Leveraging Array Methods the Right Way in JavaScript](https://dev.to/salmandotweb/leveraging-array-methods-the-right-way-in-javascript-4g04)
-- [Dev.to/JS] [Clean Architecture &lpar;Domain Layer&rpar;](https://dev.to/julianlasso/clean-architecture-domain-layer-3bdd)
-- [Dev.to/JS] [Unleash the Power of Popover API in Web Development](https://dev.to/usulpro/unleash-the-power-of-popover-api-in-web-development-2jaa)
 - [Lifehacker] [What&#39;s New on Disney+ in October 2023](https://lifehacker.com/whats-new-on-disney-in-october-2023-1850851532)
 - [Lifehacker] [iOS 17 Can Blur NSFW Pics on Your iPhone](https://lifehacker.com/ios-17-can-blur-nsfw-pics-on-your-iphone-1850852496)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Favorite Fitness Gear Under $100](https://lifehacker.com/my-favorite-fitness-gear-under-100-1850850932)
 - [Lifehacker] [An Age-By-Age Guide to Helping Kids Manage Homework](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-manage-homework-1850849992)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
-- [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)
-- [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)<!-- TECH-POSTS:END -->
 
 ---
 
