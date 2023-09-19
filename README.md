@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are Callback Functions](https://dev.to/bookmdan/wht-are-callback-functions-1fgh)
+- [Lifehacker] [You Can Now Connect Bard to Gmail, Google Docs, YouTube, and More](https://lifehacker.com/set-up-google-bard-extensions-1850853309)
+- [Lifehacker] [How to Get the Best Possible Car Loan Right Now](https://lifehacker.com/how-to-get-the-best-possible-car-loan-right-now-1850852528)
 - [Dev.to/JS] [Build an HTTP server in Bun](https://dev.to/sadeedpv/build-an-http-server-in-bun-4k8l)
 - [Dev.to/JS] [🔥FULL💎 Guide to Create a Game with Babylon.js](https://dev.to/noobizdev/full-guide-to-create-a-game-with-babylonjs-4lc8)
 - [Lifehacker] [Make Sour &#39;Candy&#39; With Dried Fruit and Citric Acid](https://lifehacker.com/homemade-sour-candy-recipe-1850853390)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleash the Power of Popover API in Web Development](https://dev.to/usulpro/unleash-the-power-of-popover-api-in-web-development-2jaa)
 - [Lifehacker] [What&#39;s New on Disney+ in October 2023](https://lifehacker.com/whats-new-on-disney-in-october-2023-1850851532)
 - [Dev.to/JS] [Práticas Recomendadas de Segurança para Aplicações React](https://dev.to/jhonyaraujooficial/praticas-recomendadas-de-seguranca-para-aplicacoes-react-1l6b)
-- [Dev.to/JS] [Mastering React.js Virtual DOM with Practical Examples](https://dev.to/anii1429/mastering-reactjs-virtual-dom-with-practical-examples-4mhf)
 - [Lifehacker] [iOS 17 Can Blur NSFW Pics on Your iPhone](https://lifehacker.com/ios-17-can-blur-nsfw-pics-on-your-iphone-1850852496)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [What to Do When a Coworker Keeps Undermining You](https://lifehacker.com/what-to-do-when-a-coworker-keeps-undermining-you-1850852016)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Preorder the AirPods Pro With USB-C for $50 Off Right Now](https://lifehacker.com/you-can-preorder-the-airpods-pro-with-usb-c-for-50-off-1850850041)
 - [Lifehacker] [You Can Save Up to 20% on a Steam Deck Right Now](https://lifehacker.com/steam-deck-deals-september-2023-1850849982)
 - [Lifehacker] [Yes, It&#39;s OK to Run Every Day](https://lifehacker.com/is-it-okay-to-run-every-day-1835283015)
-- [Lifehacker] [Make a Vibrant Syrup Using the Liquid From a Can of Fruit](https://lifehacker.com/make-a-vibrant-syrup-using-the-liquid-from-a-can-of-fru-1850850394)
-- [Lifehacker] [How to Get Back on Track After an Expensive Vacation](https://lifehacker.com/how-to-get-back-on-track-after-an-expensive-vacation-1850849943)
-- [Lifehacker] [The Best New AirPods Features in iOS 17](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a Vibrant Syrup Using the Liquid From a Can of Fruit](https://lifehacker.com/make-a-vibrant-syrup-using-the-liquid-from-a-can-of-fru-1850850394)<!-- TECH-POSTS:END -->
 
 ---
 
