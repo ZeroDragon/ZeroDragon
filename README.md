@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Validate ratings using react hook form](https://dev.to/mthtitumir/validate-ratings-using-react-hook-form-2k8o)
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
+- [Dev.to/JS] [why you should use IIfe &lpar;immediately invoked function expression &rpar; in your javascript code](https://dev.to/ysyasin/why-you-should-use-iife-immediately-invoked-function-expression-in-your-javascript-code-285h)
+- [Dev.to/JS] [Design Patterns Typescript - Singleton](https://dev.to/kevin-uehara/design-patterns-gof-typescript-singleton-5ac)
 - [Dev.to/JS] [Syntactic Elegance-The Developer’s Dream](https://dev.to/jakemclelland/syntactic-elegance-the-developers-dream-329b)
 - [Dev.to/JS] [Vuex or Pinia](https://dev.to/aditianand8/vuex-or-pinia-39m)
 - [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)
@@ -44,10 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Back on Track After an Expensive Vacation](https://lifehacker.com/how-to-get-back-on-track-after-an-expensive-vacation-1850849943)
 - [Lifehacker] [The Best New AirPods Features in iOS 17](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)
 - [Lifehacker] [How to Sign Up for Invite-Only Deals Before Amazon’s ‘Big Deal Days’](https://lifehacker.com/how-to-sign-up-for-invite-only-deals-before-amazon-s-b-1850849915)
-- [Dev.to/JS] [What is jQuery?](https://dev.to/dumebii/what-is-jquery-mcg)
 - [Lifehacker] [You Need to Prepare Your Sprinkler System for Winter](https://lifehacker.com/winterize-your-sprinkler-system-1850849900)
-- [Dev.to/JS] [Supercharge Your SVG Sprite Icons Library with This GitHub Template](https://dev.to/simprl/supercharge-your-svg-icon-workflow-with-this-github-template-10gn)
-- [Dev.to/JS] [💪Mastering React: Crafting a Stunning Reusable Button Component ✨](https://dev.to/taquiimam14/mastering-react-crafting-a-stunning-reusable-button-component-5amk)
 - [Lifehacker] [The Best Turkey Dry Brine Recipe Is a Simple Ratio](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
 - [Lifehacker] [How to Found a New Town &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-found-a-new-town-and-why-you-might-want-to-1850849371)
 - [Lifehacker] [Epic Is Selling Hundreds of PC Games at Up to 80% Off](https://lifehacker.com/epic-is-selling-hundreds-of-pc-games-at-up-to-80-off-1850849532)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Get Smells Out of Thrifted Furniture](https://lifehacker.com/the-best-ways-to-get-smells-out-of-thrifted-furniture-1850847872)
 - [Lifehacker] [TikTok Myth of the Week: Your Guts Are Full of Poop](https://lifehacker.com/tiktok-gut-health-trend-1850844490)
 - [Lifehacker] [Six Cooling Rack Alternatives You Probably Already Have in Your Kitchen](https://lifehacker.com/cooling-rack-alternatives-1850844031)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)
-- [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Monday, September 18](https://lifehacker.com/connections-answer-today-september-18-2023-1850842534)<!-- TECH-POSTS:END -->
 
 ---
 
