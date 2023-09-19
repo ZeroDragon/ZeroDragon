@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Effective Validations in NestJS: Flawless Software Development!](https://dev.to/fredydlemus/effective-validations-in-nestjs-flawless-software-development-45b3)
 - [Dev.to/JS] [Validate ratings using react hook form](https://dev.to/mthtitumir/validate-ratings-using-react-hook-form-2k8o)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
 - [Dev.to/JS] [why you should use IIfe &lpar;immediately invoked function expression &rpar; in your javascript code](https://dev.to/ysyasin/why-you-should-use-iife-immediately-invoked-function-expression-in-your-javascript-code-285h)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [function of function &amp; closure](https://dev.to/horiyorrmi72/function-of-function-closure-56m2)
 - [Dev.to/JS] [Adding features to my open source project](https://dev.to/soham-thaker/adding-features-to-my-open-source-project-4m8f)
 - [Lifehacker] [Yes, It&#39;s OK to Run Every Day](https://lifehacker.com/is-it-okay-to-run-every-day-1835283015)
-- [Dev.to/JS] [Demystifying the JavaScript Reduce Method](https://dev.to/rockrgrrl/demystifying-the-javascript-reduce-method-157n)
 - [Lifehacker] [Make a Vibrant Syrup Using the Liquid From a Can of Fruit](https://lifehacker.com/make-a-vibrant-syrup-using-the-liquid-from-a-can-of-fru-1850850394)
 - [Lifehacker] [How to Get Back on Track After an Expensive Vacation](https://lifehacker.com/how-to-get-back-on-track-after-an-expensive-vacation-1850849943)
 - [Lifehacker] [The Best New AirPods Features in iOS 17](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)
