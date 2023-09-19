@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Finally Offer Bookable Appointments on Your Google Calendar](https://lifehacker.com/you-can-finally-offer-bookable-appointments-on-your-goo-1850853638)
+- [Lifehacker] [The Newest M2 MacBook Pro Is $200 Off Right Now](https://lifehacker.com/the-newest-m2-macbook-pro-is-200-off-right-now-1850853811)
+- [Dev.to/JS] [Replace a Substring With Replace Method](https://dev.to/calvinoea/replace-a-substring-with-replace-method-4pcl)
+- [Lifehacker] [Try This When an Annoying Piece of Food Gets Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)
+- [Lifehacker] [The Truth About Buying a $1 House to Fix Up](https://lifehacker.com/the-truth-about-buying-a-1-house-to-fix-up-1850853013)
 - [Dev.to/JS] [What are Callback Functions](https://dev.to/bookmdan/wht-are-callback-functions-1fgh)
 - [Lifehacker] [You Can Now Connect Bard to Gmail, Google Docs, YouTube, and More](https://lifehacker.com/set-up-google-bard-extensions-1850853309)
 - [Lifehacker] [How to Get the Best Possible Car Loan Right Now](https://lifehacker.com/how-to-get-the-best-possible-car-loan-right-now-1850852528)
@@ -46,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clean Architecture &lpar;Domain Layer&rpar;](https://dev.to/julianlasso/clean-architecture-domain-layer-3bdd)
 - [Dev.to/JS] [Unleash the Power of Popover API in Web Development](https://dev.to/usulpro/unleash-the-power-of-popover-api-in-web-development-2jaa)
 - [Lifehacker] [What&#39;s New on Disney+ in October 2023](https://lifehacker.com/whats-new-on-disney-in-october-2023-1850851532)
-- [Dev.to/JS] [Práticas Recomendadas de Segurança para Aplicações React](https://dev.to/jhonyaraujooficial/praticas-recomendadas-de-seguranca-para-aplicacoes-react-1l6b)
 - [Lifehacker] [iOS 17 Can Blur NSFW Pics on Your iPhone](https://lifehacker.com/ios-17-can-blur-nsfw-pics-on-your-iphone-1850852496)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [What to Do When a Coworker Keeps Undermining You](https://lifehacker.com/what-to-do-when-a-coworker-keeps-undermining-you-1850852016)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-By-Age Guide to Helping Kids Manage Homework](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-manage-homework-1850849992)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
 - [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)
-- [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)
-- [Lifehacker] [You Can Preorder the AirPods Pro With USB-C for $50 Off Right Now](https://lifehacker.com/you-can-preorder-the-airpods-pro-with-usb-c-for-50-off-1850850041)
-- [Lifehacker] [You Can Save Up to 20% on a Steam Deck Right Now](https://lifehacker.com/steam-deck-deals-september-2023-1850849982)
-- [Lifehacker] [Yes, It&#39;s OK to Run Every Day](https://lifehacker.com/is-it-okay-to-run-every-day-1835283015)
-- [Lifehacker] [Make a Vibrant Syrup Using the Liquid From a Can of Fruit](https://lifehacker.com/make-a-vibrant-syrup-using-the-liquid-from-a-can-of-fru-1850850394)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)<!-- TECH-POSTS:END -->
 
 ---
 
