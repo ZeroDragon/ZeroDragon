@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 51: Recursive Types](https://dev.to/dhrn/day-51-recursive-types-365b)
+- [Dev.to/JS] [Focus on Accessibility: Mastering Form Input States for All Users](https://dev.to/masynctech/focus-on-accessibility-mastering-form-input-states-for-all-users-25ga)
+- [Dev.to/JS] [React Profiler: A Step by step guide to measuring app performance](https://dev.to/alakkadshaw/react-profiler-a-step-by-step-guide-to-measuring-app-performance-36id)
+- [Lifehacker] [These Are the Best Garmin Smartwatch Deals Under $300](https://lifehacker.com/these-are-the-best-garmin-smartwatch-deals-under-300-1850850955)
 - [Lifehacker] [This Anker Charger That Can Power All Your Devices Is 43% Off](https://lifehacker.com/this-anker-charger-that-can-power-all-your-devices-is-4-1850850523)
 - [Dev.to/JS] [Which back-end frameworks are impacting web application development immensely?](https://dev.to/sparkouttech/which-back-end-frameworks-are-impacting-web-application-development-immensely-44c8)
 - [Dev.to/JS] [SAML SSO: The Missing Piece in Your Next.js App&#39;s Authentication Puzzle 🧩](https://dev.to/nathan_tarbert/saml-sso-the-missing-piece-in-your-nextjs-apps-authentication-puzzle-3h9f)
@@ -37,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [💡 JavaScript Hack: Conditionally Add Properties within Objects](https://dev.to/shameel/javascript-hack-conditionally-add-properties-within-objects-1n32)
 - [Dev.to/JS] [TruStacks Discussion](https://dev.to/trustacks/trustacks-discussion-3272)
 - [Dev.to/JS] [Isotope.js with rogue margin on masonry layout](https://dev.to/jackrussell/isotopejs-with-rogue-margin-on-masonry-layout-3p9j)
-- [Dev.to/JS] [Test post](https://dev.to/deep07/test-post-54a6)
-- [Dev.to/JS] [Java 21 is Coming – Know the Latest Features in JDK 21](https://dev.to/me_janki/java-21-is-coming-know-the-latest-features-in-jdk-21-1kdf)
-- [Dev.to/JS] [How to Build a Functional To-Do List App with JavaScript, HTML, and CSS: A Step-by-Step Guide](https://dev.to/iamcymentho/how-to-build-a-functional-to-do-list-app-with-javascript-html-and-css-a-step-by-step-guide-h9f)
-- [Dev.to/JS] [Exploring GitHub Copilot &lpar;AI&rpar;: Revolutionizing Code Development](https://dev.to/iamcymentho/exploring-github-copilot-ai-revolutionizing-code-development-5coj)
+- [Dev.to/JS] [Test post Test post Test post Test post Test post](https://dev.to/deep07/test-post-54a6)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
 - [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)
 - [Lifehacker] [This Dell Vostro Laptop Is $650 Off Right Now](https://lifehacker.com/this-dell-vostro-laptop-is-650-off-right-now-1850850485)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Officially Announces Prime Big Deal Days for 2023](https://lifehacker.com/amazon-officially-announces-prime-big-deal-days-for-202-1850848692)
 - [Lifehacker] [Yes, You Need to Clean Your Dirty Broom](https://lifehacker.com/yes-you-need-to-clean-your-dirty-broom-1849701048)
 - [Lifehacker] [This 9-Inch Car Display Screen Is $105 Right Now](https://lifehacker.com/this-9-inch-car-display-screen-is-105-right-now-1850842490)
-- [Lifehacker] [How to Adjust the Volume for Every App on Your Mac](https://lifehacker.com/how-to-individually-control-audio-volume-for-every-app-1847455401)
-- [Lifehacker] [The Best Ways to Get Smells Out of Thrifted Furniture](https://lifehacker.com/the-best-ways-to-get-smells-out-of-thrifted-furniture-1850847872)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Adjust the Volume for Every App on Your Mac](https://lifehacker.com/how-to-individually-control-audio-volume-for-every-app-1847455401)<!-- TECH-POSTS:END -->
 
 ---
 
