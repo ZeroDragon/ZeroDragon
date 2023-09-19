@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Práticas Recomendadas de Segurança para Aplicações React](https://dev.to/jhonyaraujooficial/praticas-recomendadas-de-seguranca-para-aplicacoes-react-1l6b)
+- [Dev.to/JS] [After the try block....Getting wrong startTime and EndTime while posting in backend... Let me know](https://dev.to/gokulsarvesh/after-the-try-blockgetting-wrong-starttime-and-endtime-while-posting-in-backend-let-me-know-52dg)
+- [Dev.to/JS] [Mastering React.js Virtual DOM with Practical Examples](https://dev.to/anii1429/mastering-reactjs-virtual-dom-with-practical-examples-4mhf)
+- [Lifehacker] [iOS 17 Can Blur NSFW Pics on Your iPhone](https://lifehacker.com/ios-17-can-blur-nsfw-pics-on-your-iphone-1850852496)
 - [Lifehacker] [What to Do When a Coworker Keeps Undermining You](https://lifehacker.com/what-to-do-when-a-coworker-keeps-undermining-you-1850852016)
 - [Dev.to/JS] [Mastering JavaScript One-Liners: Part 2](https://dev.to/coderj001/mastering-javascript-one-liners-part-2-2g7g)
 - [Dev.to/JS] [Why use Vite when Bun is also a bundler? - Vite vs. Bun](https://dev.to/redbar0n/why-use-vite-when-bun-is-also-a-bundler-vite-vs-bun-2723)
@@ -40,12 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Single Page Image Editor](https://dev.to/aniiket/single-page-image-editor-4ok)
 - [Dev.to/JS] [Day 51: Recursive Types](https://dev.to/dhrn/day-51-recursive-types-365b)
 - [Lifehacker] [The 12 Most Anticipated Video Games Coming Out This Holiday Season](https://lifehacker.com/most-anticipated-video-games-coming-out-holidays-1850851453)
-- [Dev.to/JS] [Focus on Accessibility: Mastering Form Input States for All Users](https://dev.to/masynctech/focus-on-accessibility-mastering-form-input-states-for-all-users-25ga)
-- [Dev.to/JS] [React Profiler: A Step by step guide to measuring app performance](https://dev.to/alakkadshaw/react-profiler-a-step-by-step-guide-to-measuring-app-performance-36id)
 - [Lifehacker] [These Are the Best Garmin Smartwatch Deals Under $300](https://lifehacker.com/these-are-the-best-garmin-smartwatch-deals-under-300-1850850955)
 - [Lifehacker] [A Cheese-Filled ‘Pumpkin’ Is the Perfect Holiday Appetizer](https://lifehacker.com/a-cheese-filled-pumpkin-is-the-perfect-holiday-appeti-1849781033)
 - [Lifehacker] [This Anker Charger That Can Power All Your Devices Is 43% Off](https://lifehacker.com/this-anker-charger-that-can-power-all-your-devices-is-4-1850850523)
-- [Dev.to/JS] [Which back-end frameworks are impacting web application development immensely?](https://dev.to/sparkouttech/which-back-end-frameworks-are-impacting-web-application-development-immensely-44c8)
 - [Lifehacker] [My Favorite Fitness Gear Under $100](https://lifehacker.com/my-favorite-fitness-gear-under-100-1850850932)
 - [Lifehacker] [An Age-By-Age Guide to Helping Kids Manage Homework](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-manage-homework-1850849992)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Epic Is Selling Hundreds of PC Games at Up to 80% Off](https://lifehacker.com/epic-is-selling-hundreds-of-pc-games-at-up-to-80-off-1850849532)
 - [Lifehacker] [You Can Install iOS 17 Right Now](https://lifehacker.com/ios-17-release-date-and-features-1850828707)
 - [Lifehacker] [Use the &#39;Jigsaw Method&#39; to Study Complex Topics](https://lifehacker.com/use-the-jigsaw-method-to-study-complex-topics-1850849174)
-- [Lifehacker] [Use &#39;Close Reading&#39; to Retain Every Detail When You Study](https://lifehacker.com/use-close-reading-to-retain-every-detail-when-you-study-1850849002)
-- [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use &#39;Close Reading&#39; to Retain Every Detail When You Study](https://lifehacker.com/use-close-reading-to-retain-every-detail-when-you-study-1850849002)<!-- TECH-POSTS:END -->
 
 ---
 
