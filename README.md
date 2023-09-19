@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Release 1.0 - Text to Html Converter](https://dev.to/sshah135/release-10-text-to-html-converter-4og8)
+- [Dev.to/JS] [Web API Services Beginners Guide](https://dev.to/syedmuhammadaliraza/web-api-services-beginners-guide-1b1c)
 - [Dev.to/JS] [Effective Validations in NestJS: Flawless Software Development!](https://dev.to/fredydlemus/effective-validations-in-nestjs-flawless-software-development-45b3)
 - [Dev.to/JS] [Validate ratings using react hook form](https://dev.to/mthtitumir/validate-ratings-using-react-hook-form-2k8o)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
