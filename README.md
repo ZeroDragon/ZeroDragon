@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Desvendando a Conexão do React a uma API com Axios](https://dev.to/drlegobox/desvendando-a-conexao-do-react-a-uma-api-com-axios-1h74)
+- [Dev.to/JS] [TinyMCE 6.7: Accessibility improvements, plugin enhancements and more](https://dev.to/tinymce/tinymce-67-accessibility-improvements-plugin-enhancements-and-more-28a8)
 - [Dev.to/JS] [AI and Javascript interactions with Hatch](https://dev.to/darrinm/ai-and-javascript-interactions-with-hatch-2ehj)
 - [Dev.to/JS] [Provide Vite with the ability to conditionally compile directives](https://dev.to/kejunmao/provide-vite-with-the-ability-to-conditionally-compile-instructions-lkc)
 - [Dev.to/JS] [Exploring the `flat&lpar;&rpar;` Method in JavaScript](https://dev.to/frantchessico/exploring-the-flat-method-in-javascript-4aan)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [SurfShark VPN Is an Extra 20% Off Right Now](https://lifehacker.com/surfshark-vpn-is-an-extra-20-off-right-now-1850842968)
 - [Dev.to/JS] [Destructuring in JS](https://dev.to/kyrierui/destructuring-in-js-2009)
 - [Lifehacker] [You Can Finally Offer Bookable Appointments on Your Google Calendar](https://lifehacker.com/you-can-finally-offer-bookable-appointments-on-your-goo-1850853638)
-- [Dev.to/JS] [Offer Digital Assets Using Mintbase JS](https://dev.to/starpause/offer-digital-assets-using-mintbase-js-c85)
 - [Lifehacker] [The Newest M2 MacBook Pro Is $200 Off Right Now](https://lifehacker.com/the-newest-m2-macbook-pro-is-200-off-right-now-1850853811)
-- [Dev.to/JS] [Replace a Substring With Replace Method](https://dev.to/calvinoea/replace-a-substring-with-replace-method-4pcl)
 - [Lifehacker] [Try This When an Annoying Piece of Food Gets Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)
 - [Lifehacker] [The Truth About Buying a $1 House to Fix Up](https://lifehacker.com/the-truth-about-buying-a-1-house-to-fix-up-1850853013)
 - [Lifehacker] [You Can Now Connect Bard to Gmail, Google Docs, YouTube, and More](https://lifehacker.com/set-up-google-bard-extensions-1850853309)
