@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;STEP INTO SAVINGS: WHOLESALE SOCKS USA&quot;](https://dev.to/tommy89/step-into-savings-wholesale-socks-usa-1ifg)
+- [Dev.to/JS] [Rotating a vertical rectangle image using React-cropper](https://dev.to/idiglove/rotating-a-vertical-rectangle-image-using-react-cropper-3pc5)
+- [Lifehacker] [You Can Get a Lifetime Babbel Subscription for $170 Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-170-rig-1850850936)
+- [Dev.to/JS] [Comparison of Node.js libraries to colorize text in terminal](https://dev.to/webdiscus/comparison-of-nodejs-libraries-to-colorize-text-in-terminal-4j3a)
+- [Dev.to/JS] [My first blog](https://dev.to/mahi19/my-first-blog-4p1b)
+- [Lifehacker] [How to See How Many Times You’ve Charged Your iPhone](https://lifehacker.com/check-iphone-battery-health-1847386877)
+- [Dev.to/JS] [How to create dynamic PDF using React?](https://dev.to/thedev_subrat/how-to-create-dynamic-pdf-using-react-4fpc)
+- [Lifehacker] [This LG A2 4K OLED TV Is $650 Off Right Now](https://lifehacker.com/this-lg-a2-4k-oled-tv-is-650-off-right-now-1850856036)
 - [Dev.to/JS] [Falcon 180B vs. Llama 2: Who Wins the AI Battle?](https://dev.to/thenomadevel/falcon-180b-vs-llama-2-who-wins-the-ai-battle-2cj3)
 - [Lifehacker] [The Best Sales Google Is Offering for Its 25th Birthday](https://lifehacker.com/the-best-sales-google-is-offering-for-its-25th-birthday-1850854978)
 - [Dev.to/JS] [Using Yup to validate user input in a NestJS project](https://dev.to/dmitryvz/using-yup-to-validate-user-input-in-a-nestjs-project-3bhf)
@@ -41,14 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cracking the Code: Finding the Duplicate Number in LeetCode 287](https://dev.to/speaklouder/cracking-the-code-finding-the-duplicate-number-in-leetcode-287-gf7)
 - [Lifehacker] [This 17-Inch LG Laptop Is $800 Off for Today Only](https://lifehacker.com/this-17-inch-lg-laptop-is-800-off-today-only-1850856914)
 - [Dev.to/JS] [JavaScript. WebRTC. Connecting browsers directly without a server, peer-to-peer](https://dev.to/alexboyko/javascript-webrtc-connecting-browsers-directly-without-a-server-peer-to-peer-42lj)
-- [Dev.to/JS] [Unveiling the Magic of JavaScript: A Comprehensive Introduction](https://dev.to/lollalolitta/unveiling-the-magic-of-javascript-a-comprehensive-introduction-3bpm)
 - [Lifehacker] [These Are the Best Fall Cleaning Tools](https://lifehacker.com/these-are-the-best-fall-cleaning-tools-1850856721)
-- [Dev.to/JS] [Serverless ecommerce with Next.js: Removing the server layer](https://dev.to/medusajs/serverless-ecommerce-with-nextjs-removing-the-server-layer-4ap9)
 - [Lifehacker] [You Can Make Funnel Cake With Pancake Mix](https://lifehacker.com/you-can-make-funnel-cake-with-pancake-mix-1850853970)
 - [Lifehacker] [The Blink 4 Is a Worthwhile Entry-Level Wireless Security Camera](https://lifehacker.com/blink-outdoor-4-security-camera-review-1850855801)
-- [Dev.to/JS] [React Advance IDEA while using the ternary operator](https://dev.to/kartheek_dev/react-advance-idea-while-using-the-ternary-operator-ao9)
-- [Dev.to/JS] [Bun 1.0: A New Era for JavaScript Development](https://dev.to/taquiimam14/bun-10-a-new-era-for-javascript-development-2oe5)
-- [Dev.to/JS] [Quick Sort in DSA &lpar;JAVASCRIPT&rpar;](https://dev.to/kartheek_dev/quick-sort-in-dsa-javascript-3ggp)
 - [Lifehacker] [This Six-Night Trip to Italy Is $699 Right Now](https://lifehacker.com/this-six-night-trip-to-italy-is-699-right-now-1850854333)
 - [Lifehacker] [This CarPlay Display and Dashcam Combo Is $150 Off Right Now](https://lifehacker.com/this-carplay-display-and-dashcam-combo-is-150-off-righ-1850854048)
 - [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try This When an Annoying Piece of Food Gets Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)
 - [Lifehacker] [The Truth About Buying a $1 House to Fix Up](https://lifehacker.com/the-truth-about-buying-a-1-house-to-fix-up-1850853013)
 - [Lifehacker] [You Can Now Connect Bard to Gmail, Google Docs, YouTube, and More](https://lifehacker.com/set-up-google-bard-extensions-1850853309)
-- [Lifehacker] [How to Get the Best Possible Car Loan Right Now](https://lifehacker.com/how-to-get-the-best-possible-car-loan-right-now-1850852528)
-- [Lifehacker] [Make Sour &#39;Candy&#39; With Dried Fruit and Citric Acid](https://lifehacker.com/homemade-sour-candy-recipe-1850853390)
-- [Lifehacker] [The Real Difference Between Dressing and Stuffing](https://lifehacker.com/the-difference-between-stuffing-and-dressing-1847999886)
-- [Lifehacker] [Skill Success Courses Are on Sale for $120 Right Now](https://lifehacker.com/skill-success-courses-are-on-sale-for-120-right-now-1850842581)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get the Best Possible Car Loan Right Now](https://lifehacker.com/how-to-get-the-best-possible-car-loan-right-now-1850852528)<!-- TECH-POSTS:END -->
 
 ---
 
