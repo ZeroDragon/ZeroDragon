@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Falcon 180B vs. Llama 2: Who Wins the AI Battle?](https://dev.to/thenomadevel/falcon-180b-vs-llama-2-who-wins-the-ai-battle-2cj3)
+- [Lifehacker] [The Best Sales Google Is Offering for Its 25th Birthday](https://lifehacker.com/the-best-sales-google-is-offering-for-its-25th-birthday-1850854978)
+- [Dev.to/JS] [Using Yup to validate user input in a NestJS project](https://dev.to/dmitryvz/using-yup-to-validate-user-input-in-a-nestjs-project-3bhf)
+- [Lifehacker] [These Are the Condiments You Need for This Year’s Thanksgiving Dinner](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
 - [Lifehacker] [Gym Chalk Is Your Secret Weapon for Lifting More Weight](https://lifehacker.com/gym-chalk-is-your-secret-weapon-for-lifting-more-weight-1850857195)
 - [Dev.to/JS] [Solve: react hook useEffect has a missing dependency](https://dev.to/reactjsguru/solve-react-hook-useeffect-has-a-missing-dependency-1p5b)
 - [Lifehacker] [How to Clean Your AirPods Max Without Damaging Them](https://lifehacker.com/how-to-clean-your-airpods-max-without-damaging-them-1850855676)
@@ -45,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Advance IDEA while using the ternary operator](https://dev.to/kartheek_dev/react-advance-idea-while-using-the-ternary-operator-ao9)
 - [Dev.to/JS] [Bun 1.0: A New Era for JavaScript Development](https://dev.to/taquiimam14/bun-10-a-new-era-for-javascript-development-2oe5)
 - [Dev.to/JS] [Quick Sort in DSA &lpar;JAVASCRIPT&rpar;](https://dev.to/kartheek_dev/quick-sort-in-dsa-javascript-3ggp)
-- [Dev.to/JS] [The Whispering Trees: How Callbacks Work in JavaScript Forest](https://dev.to/init_chandan/the-whispering-trees-how-callbacks-work-in-javascript-forest-277l)
 - [Lifehacker] [This Six-Night Trip to Italy Is $699 Right Now](https://lifehacker.com/this-six-night-trip-to-italy-is-699-right-now-1850854333)
-- [Dev.to/JS] [I&#39;m going ALL IN on Bun.js](https://dev.to/jacklehamster/im-going-all-in-on-bunjs-3ljk)
 - [Lifehacker] [This CarPlay Display and Dashcam Combo Is $150 Off Right Now](https://lifehacker.com/this-carplay-display-and-dashcam-combo-is-150-off-righ-1850854048)
 - [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)
 - [Lifehacker] [How to Not Spend a Fortune on Your Kids’ Extracurricular Activities](https://lifehacker.com/how-to-not-spend-a-fortune-on-your-kids-extracurricula-1850852736)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get the Best Possible Car Loan Right Now](https://lifehacker.com/how-to-get-the-best-possible-car-loan-right-now-1850852528)
 - [Lifehacker] [Make Sour &#39;Candy&#39; With Dried Fruit and Citric Acid](https://lifehacker.com/homemade-sour-candy-recipe-1850853390)
 - [Lifehacker] [The Real Difference Between Dressing and Stuffing](https://lifehacker.com/the-difference-between-stuffing-and-dressing-1847999886)
-- [Lifehacker] [Skill Success Courses Are on Sale for $120 Right Now](https://lifehacker.com/skill-success-courses-are-on-sale-for-120-right-now-1850842581)
-- [Lifehacker] [Yes, Pickle Juice Can Relieve Muscle Cramps](https://lifehacker.com/pickle-juice-help-with-muscle-cramps-1850851267)
-- [Lifehacker] [How to Stop Yelling at Your Kids so Much](https://lifehacker.com/how-to-stop-yelling-at-your-kids-so-much-1850851762)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Skill Success Courses Are on Sale for $120 Right Now](https://lifehacker.com/skill-success-courses-are-on-sale-for-120-right-now-1850842581)<!-- TECH-POSTS:END -->
 
 ---
 
