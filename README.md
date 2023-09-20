@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Frontend Web to the iOS Universe](https://dev.to/ctahirih/from-frontend-web-to-the-ios-universe-5972)
+- [Lifehacker] [You Can Save $500 on the New Samsung Odyssey Neo G9 57-Inch Gaming Monitor](https://lifehacker.com/you-can-save-500-on-the-new-samsung-odyssey-neo-g9-57-1850852797)
+- [Dev.to/JS] [¿Qué es Bun?](https://dev.to/degcode/que-es-bun-4b91)
 - [Lifehacker] [SurfShark VPN Is an Extra 20% Off Right Now](https://lifehacker.com/surfshark-vpn-is-an-extra-20-off-right-now-1850842968)
 - [Dev.to/JS] [Destructuring in JS](https://dev.to/kyrierui/destructuring-in-js-2009)
 - [Lifehacker] [You Can Finally Offer Bookable Appointments on Your Google Calendar](https://lifehacker.com/you-can-finally-offer-bookable-appointments-on-your-goo-1850853638)
@@ -49,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Yelling at Your Kids so Much](https://lifehacker.com/how-to-stop-yelling-at-your-kids-so-much-1850851762)
 - [Dev.to/JS] [Creatures.dev: Where Curious Developers Thrive Together 🐙](https://dev.to/ivana1991/creaturesdev-where-curious-developers-thrive-together-3neb)
 - [Lifehacker] [The Best New Keyboard Features in iOS 17](https://lifehacker.com/the-best-new-keyboard-features-in-ios-17-1850852783)
-- [Dev.to/JS] [Returning to a Journey](https://dev.to/hroney/returning-to-a-journey-238d)
-- [Dev.to/JS] [Leveraging Array Methods the Right Way in JavaScript](https://dev.to/salmandotweb/leveraging-array-methods-the-right-way-in-javascript-4g04)
 - [Lifehacker] [What&#39;s New on Disney+ in October 2023](https://lifehacker.com/whats-new-on-disney-in-october-2023-1850851532)
 - [Lifehacker] [iOS 17 Can Blur NSFW Pics on Your iPhone](https://lifehacker.com/ios-17-can-blur-nsfw-pics-on-your-iphone-1850852496)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Anker Charger That Can Power All Your Devices Is 43% Off](https://lifehacker.com/this-anker-charger-that-can-power-all-your-devices-is-4-1850850523)
 - [Lifehacker] [My Favorite Fitness Gear Under $100](https://lifehacker.com/my-favorite-fitness-gear-under-100-1850850932)
 - [Lifehacker] [An Age-By-Age Guide to Helping Kids Manage Homework](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-manage-homework-1850849992)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)
-- [Lifehacker] [This Is the Fastest, Easiest Way to Make Whipped Cream](https://lifehacker.com/this-is-the-fastest-easiest-way-to-make-whipped-cream-1850850409)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)<!-- TECH-POSTS:END -->
 
 ---
 
