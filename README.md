@@ -26,20 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript. WebRTC. Connecting browsers directly without a server, peer-to-peer](https://dev.to/alexboyko/javascript-webrtc-connecting-browsers-directly-without-a-server-peer-to-peer-42lj)
+- [Dev.to/JS] [Unveiling the Magic of JavaScript: A Comprehensive Introduction](https://dev.to/lollalolitta/unveiling-the-magic-of-javascript-a-comprehensive-introduction-3bpm)
+- [Lifehacker] [These Are the Best Fall Cleaning Tools](https://lifehacker.com/these-are-the-best-fall-cleaning-tools-1850856721)
+- [Dev.to/JS] [Serverless ecommerce with Next.js: Removing the server layer](https://dev.to/medusajs/serverless-ecommerce-with-nextjs-removing-the-server-layer-4ap9)
+- [Lifehacker] [You Can Make Funnel Cake With Pancake Mix](https://lifehacker.com/you-can-make-funnel-cake-with-pancake-mix-1850853970)
+- [Lifehacker] [The Blink 4 Is a Worthwhile Entry-Level Wireless Security Camera](https://lifehacker.com/blink-outdoor-4-security-camera-review-1850855801)
 - [Dev.to/JS] [React Advance IDEA while using the ternary operator](https://dev.to/kartheek_dev/react-advance-idea-while-using-the-ternary-operator-ao9)
 - [Dev.to/JS] [Bun 1.0: A New Era for JavaScript Development](https://dev.to/taquiimam14/bun-10-a-new-era-for-javascript-development-2oe5)
 - [Dev.to/JS] [Quick Sort in DSA &lpar;JAVASCRIPT&rpar;](https://dev.to/kartheek_dev/quick-sort-in-dsa-javascript-3ggp)
 - [Dev.to/JS] [The Whispering Trees: How Callbacks Work in JavaScript Forest](https://dev.to/init_chandan/the-whispering-trees-how-callbacks-work-in-javascript-forest-277l)
 - [Lifehacker] [This Six-Night Trip to Italy Is $699 Right Now](https://lifehacker.com/this-six-night-trip-to-italy-is-699-right-now-1850854333)
-- [Dev.to/JS] [Ruby on Rails Training in Chennai | Ruby on Rails](https://dev.to/jayabita/ruby-on-rails-training-in-chennai-ruby-on-rails-4hio)
 - [Dev.to/JS] [I&#39;m going ALL IN on Bun.js](https://dev.to/jacklehamster/im-going-all-in-on-bunjs-3ljk)
-- [Dev.to/JS] [Best Informatica Training | Informatica ETL Training](https://dev.to/jayabita/best-informatica-training-informatica-etl-training-epe)
 - [Dev.to/JS] [Best PySpark Training in Chennai | PySpark Course in Chennai](https://dev.to/jayabita/best-pyspark-training-in-chennai-pyspark-course-in-chennai-4d4o)
 - [Dev.to/JS] [Essential JavaScript Interview Questions for 2023: Intermediate Level](https://dev.to/mainulspace/essential-javascript-interview-questions-for-2023-intermediate-level-22d3)
 - [Dev.to/JS] [Day 52: Namespace Augmentation](https://dev.to/dhrn/day-52-namespace-augmentation-42ll)
 - [Lifehacker] [This CarPlay Display and Dashcam Combo Is $150 Off Right Now](https://lifehacker.com/this-carplay-display-and-dashcam-combo-is-150-off-righ-1850854048)
 - [Dev.to/JS] [LambdaTest Releases SSH Tunnel To Let You Test Your Locally Hosted Applications](https://dev.to/lambdatest/lambdatest-releases-ssh-tunnel-to-let-you-test-your-locally-hosted-applications-fh4)
-- [Dev.to/JS] [React sees a dip in downloads on npm 📉. What&#39;s going on?](https://dev.to/srbhr/react-sees-a-dip-in-downloads-on-npm-whats-going-on-ode)
 - [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)
 - [Lifehacker] [How to Not Spend a Fortune on Your Kids’ Extracurricular Activities](https://lifehacker.com/how-to-not-spend-a-fortune-on-your-kids-extracurricula-1850852736)
 - [Crazy Programmer] [How to Prepare for Data Scientist Interview in 2023?](https://www.thecrazyprogrammer.com/2023/09/how-to-prepare-for-data-scientist-interview.html)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [iOS 17 Can Blur NSFW Pics on Your iPhone](https://lifehacker.com/ios-17-can-blur-nsfw-pics-on-your-iphone-1850852496)
 - [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
 - [Lifehacker] [What to Do When a Coworker Keeps Undermining You](https://lifehacker.com/what-to-do-when-a-coworker-keeps-undermining-you-1850852016)
-- [Lifehacker] [What&#39;s New on Hulu in October 2023](https://lifehacker.com/new-on-hulu-october-2023-1850851012)
-- [Lifehacker] [This 3-in-1 Magnetic Wireless Charging Pad Is $33 Right Now](https://lifehacker.com/this-3-in-1-magnetic-wireless-charging-pad-is-33-right-1850842636)
-- [Lifehacker] [Five Home Renovations Worth Doing Yourself](https://lifehacker.com/home-renovations-worth-doing-yourself-1850851448)
-- [Lifehacker] [The 12 Most Anticipated Video Games Coming Out This Holiday Season](https://lifehacker.com/most-anticipated-video-games-coming-out-holidays-1850851453)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Hulu in October 2023](https://lifehacker.com/new-on-hulu-october-2023-1850851012)<!-- TECH-POSTS:END -->
 
 ---
 
