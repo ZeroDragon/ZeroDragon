@@ -26,21 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Six-Night Trip to Italy Is $699 Right Now](https://lifehacker.com/this-six-night-trip-to-italy-is-699-right-now-1850854333)
+- [Dev.to/JS] [Ruby on Rails Training in Chennai | Ruby on Rails](https://dev.to/jayabita/ruby-on-rails-training-in-chennai-ruby-on-rails-4hio)
+- [Dev.to/JS] [I&#39;m going ALL IN on Bun.js](https://dev.to/jacklehamster/im-going-all-in-on-bunjs-3ljk)
+- [Dev.to/JS] [Best Informatica Training | Informatica ETL Training](https://dev.to/jayabita/best-informatica-training-informatica-etl-training-epe)
+- [Dev.to/JS] [Best PySpark Training in Chennai | PySpark Course in Chennai](https://dev.to/jayabita/best-pyspark-training-in-chennai-pyspark-course-in-chennai-4d4o)
+- [Dev.to/JS] [Essential JavaScript Interview Questions for 2023: Intermediate Level](https://dev.to/mainulspace/essential-javascript-interview-questions-for-2023-intermediate-level-22d3)
+- [Dev.to/JS] [Day 52: Namespace Augmentation](https://dev.to/dhrn/day-52-namespace-augmentation-42ll)
+- [Lifehacker] [This CarPlay Display and Dashcam Combo Is $150 Off Right Now](https://lifehacker.com/this-carplay-display-and-dashcam-combo-is-150-off-righ-1850854048)
+- [Dev.to/JS] [LambdaTest Releases SSH Tunnel To Let You Test Your Locally Hosted Applications](https://dev.to/lambdatest/lambdatest-releases-ssh-tunnel-to-let-you-test-your-locally-hosted-applications-fh4)
+- [Dev.to/JS] [React sees a dip in downloads on npm 📉. What&#39;s going on?](https://dev.to/srbhr/react-sees-a-dip-in-downloads-on-npm-whats-going-on-ode)
+- [Dev.to/JS] [Image Slider](https://dev.to/jyotivns78/image-slider-269g)
 - [Dev.to/JS] [Angular Signals : A Comprehensive Introduction](https://dev.to/nikhil6076/angular-signals-a-comprehensive-introduction-45h2)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step: Deploy a frontend!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-deploy-a-frontend-31a6)
 - [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)
 - [Dev.to/JS] [React Quiz](https://dev.to/jshivecom/react-quiz-5307)
-- [Dev.to/JS] [Introducing Webcrumbs: An Open Source Platform Aiming to Be the WordPress for React](https://dev.to/opensourcee/introducing-webcrumbs-an-open-source-platform-aiming-to-be-the-wordpress-for-react-4jif)
-- [Dev.to/JS] [JavaScript - the Reduce method](https://dev.to/fabienschlegel/javascript-the-reduce-method-2391)
-- [Dev.to/JS] [7 Pro Tips JavaScript One-Liners for You to Know and Use](https://dev.to/renancferro/7-pro-tips-javascript-one-liners-for-you-to-know-and-use-3bll)
 - [Lifehacker] [How to Not Spend a Fortune on Your Kids’ Extracurricular Activities](https://lifehacker.com/how-to-not-spend-a-fortune-on-your-kids-extracurricula-1850852736)
-- [Dev.to/JS] [using: A keyword that make be easily that resource variable management &lpar;JavaScript &amp; TypeScript&rpar;](https://dev.to/genie_oh/using-a-keyword-that-make-be-easily-that-resource-variable-management-javascript-typescript-1pdj)
-- [Dev.to/JS] [Understanding the Difference Between Cluster and Worker in Node.js](https://dev.to/mrrishimeena/understanding-the-difference-between-cluster-and-worker-in-nodejs-1ijf)
-- [Dev.to/JS] [Axios Interceptors](https://dev.to/abhishek305/axios-interceptors-298a)
-- [Dev.to/JS] [From Novice to Pro: Your Journey through a UI Development Training Institute in Bangalore](https://dev.to/aravindait/from-novice-to-pro-your-journey-through-a-ui-development-training-institute-in-bangalore-gam)
-- [Dev.to/JS] [Server-Side Rendering with Vue 3: Boosting Your Web App&#39;s Performance](https://dev.to/chintanonweb/server-side-rendering-with-vue-3-boosting-your-web-apps-performance-1bge)
 - [Crazy Programmer] [How to Prepare for Data Scientist Interview in 2023?](https://www.thecrazyprogrammer.com/2023/09/how-to-prepare-for-data-scientist-interview.html)
-- [Dev.to/JS] [URL Validation In JavaScript](https://dev.to/noothan/url-validation-in-javascript-6j2)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 20](https://lifehacker.com/connections-answer-today-september-20-2023-1850852268)
 - [Lifehacker] [You Can Save $500 on the New Samsung Odyssey Neo G9 57-Inch Gaming Monitor](https://lifehacker.com/you-can-save-500-on-the-new-samsung-odyssey-neo-g9-57-1850852797)
 - [Lifehacker] [SurfShark VPN Is an Extra 20% Off Right Now](https://lifehacker.com/surfshark-vpn-is-an-extra-20-off-right-now-1850842968)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in October 2023](https://lifehacker.com/new-on-hulu-october-2023-1850851012)
 - [Lifehacker] [This 3-in-1 Magnetic Wireless Charging Pad Is $33 Right Now](https://lifehacker.com/this-3-in-1-magnetic-wireless-charging-pad-is-33-right-1850842636)
 - [Lifehacker] [Five Home Renovations Worth Doing Yourself](https://lifehacker.com/home-renovations-worth-doing-yourself-1850851448)
-- [Lifehacker] [The 12 Most Anticipated Video Games Coming Out This Holiday Season](https://lifehacker.com/most-anticipated-video-games-coming-out-holidays-1850851453)
-- [Lifehacker] [These Are the Best Garmin Smartwatch Deals Under $300](https://lifehacker.com/these-are-the-best-garmin-smartwatch-deals-under-300-1850850955)
-- [Lifehacker] [A Cheese-Filled ‘Pumpkin’ Is the Perfect Holiday Appetizer](https://lifehacker.com/a-cheese-filled-pumpkin-is-the-perfect-holiday-appeti-1849781033)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 12 Most Anticipated Video Games Coming Out This Holiday Season](https://lifehacker.com/most-anticipated-video-games-coming-out-holidays-1850851453)<!-- TECH-POSTS:END -->
 
 ---
 
