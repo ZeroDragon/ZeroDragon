@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Gym Chalk Is Your Secret Weapon for Lifting More Weight](https://lifehacker.com/gym-chalk-is-your-secret-weapon-for-lifting-more-weight-1850857195)
+- [Dev.to/JS] [Solve: react hook useEffect has a missing dependency](https://dev.to/reactjsguru/solve-react-hook-useeffect-has-a-missing-dependency-1p5b)
+- [Lifehacker] [How to Clean Your AirPods Max Without Damaging Them](https://lifehacker.com/how-to-clean-your-airpods-max-without-damaging-them-1850855676)
+- [Dev.to/JS] [Javascript concepts](https://dev.to/kartikg09/javascript-concepts-161g)
 - [Lifehacker] [This Hidden iPhone 15 Setting Can Save Your Battery](https://lifehacker.com/this-hidden-iphone-15-setting-can-save-your-battery-1850856552)
 - [Lifehacker] [The 20 Funniest Comedies on Netflix Right Now](https://lifehacker.com/best-comedies-netflix-1850849503)
 - [Dev.to/JS] [Enhance Your Angular Mastery with the Router: Change Styles According to the Route](https://dev.to/fredydlemus/enhance-your-angular-mastery-with-the-router-change-styles-according-to-the-route-1dkj)
@@ -44,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Whispering Trees: How Callbacks Work in JavaScript Forest](https://dev.to/init_chandan/the-whispering-trees-how-callbacks-work-in-javascript-forest-277l)
 - [Lifehacker] [This Six-Night Trip to Italy Is $699 Right Now](https://lifehacker.com/this-six-night-trip-to-italy-is-699-right-now-1850854333)
 - [Dev.to/JS] [I&#39;m going ALL IN on Bun.js](https://dev.to/jacklehamster/im-going-all-in-on-bunjs-3ljk)
-- [Dev.to/JS] [Essential JavaScript Interview Questions for 2023: Intermediate Level](https://dev.to/mainulspace/essential-javascript-interview-questions-for-2023-intermediate-level-22d3)
-- [Dev.to/JS] [Day 52: Namespace Augmentation](https://dev.to/dhrn/day-52-namespace-augmentation-42ll)
 - [Lifehacker] [This CarPlay Display and Dashcam Combo Is $150 Off Right Now](https://lifehacker.com/this-carplay-display-and-dashcam-combo-is-150-off-righ-1850854048)
 - [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)
 - [Lifehacker] [How to Not Spend a Fortune on Your Kids’ Extracurricular Activities](https://lifehacker.com/how-to-not-spend-a-fortune-on-your-kids-extracurricula-1850852736)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Real Difference Between Dressing and Stuffing](https://lifehacker.com/the-difference-between-stuffing-and-dressing-1847999886)
 - [Lifehacker] [Skill Success Courses Are on Sale for $120 Right Now](https://lifehacker.com/skill-success-courses-are-on-sale-for-120-right-now-1850842581)
 - [Lifehacker] [Yes, Pickle Juice Can Relieve Muscle Cramps](https://lifehacker.com/pickle-juice-help-with-muscle-cramps-1850851267)
-- [Lifehacker] [How to Stop Yelling at Your Kids so Much](https://lifehacker.com/how-to-stop-yelling-at-your-kids-so-much-1850851762)
-- [Lifehacker] [The Best New Keyboard Features in iOS 17](https://lifehacker.com/the-best-new-keyboard-features-in-ios-17-1850852783)
-- [Lifehacker] [What&#39;s New on Disney+ in October 2023](https://lifehacker.com/whats-new-on-disney-in-october-2023-1850851532)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop Yelling at Your Kids so Much](https://lifehacker.com/how-to-stop-yelling-at-your-kids-so-much-1850851762)<!-- TECH-POSTS:END -->
 
 ---
 
