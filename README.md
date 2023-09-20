@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [👍Benefits of using Next.JS in 2023](https://dev.to/mahfuzurrahman01/benefits-of-using-nextjs-in-2023-3mg7)
+- [Dev.to/JS] [The Secret Behind Steady App Performance: Asynchronous JavaScript](https://dev.to/maysanders/the-secret-behind-steady-app-performance-asynchronous-javascript-268k)
+- [Dev.to/JS] [Castor Wax Market MRFR Releases New Report](https://dev.to/shubham7007/castor-wax-market-mrfr-releases-new-report-31na)
 - [Dev.to/JS] [Enlightr - E-learning platform Multipage theme](https://dev.to/lexingtonthemes/enlightr-e-learning-platform-multipage-theme-5aig)
 - [Dev.to/JS] [Specialty Plasticizer Market 2023 Global Trends, Demand, Segmentation and Opportunities Forecast To 2032](https://dev.to/shubham7007/specialty-plasticizer-market-2023-global-trends-demand-segmentation-and-opportunities-forecast-to-2032-ehk)
 - [Dev.to/JS] [Experience the Best Cellulite Treatment at Our Med Spa](https://dev.to/rosshart/experience-the-best-cellulite-treatment-at-our-med-spa-5bd)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Provide Vite with the ability to conditionally compile directives](https://dev.to/kejunmao/provide-vite-with-the-ability-to-conditionally-compile-instructions-lkc)
 - [Dev.to/JS] [Exploring the `flat&lpar;&rpar;` Method in JavaScript](https://dev.to/frantchessico/exploring-the-flat-method-in-javascript-4aan)
 - [Dev.to/JS] [ReactとJavascript - Web アプリケーション開発に最適な組み合わせ](https://dev.to/miichisoft/reacttojavascript-web-apurikesiyonkai-fa-nizui-shi-nazu-mihe-wase-3dba)
-- [Dev.to/JS] [HCJ Generator: Simplifying HTML, CSS, and JavaScript Setup](https://dev.to/hsnmu/hcj-generator-simplifying-html-css-and-javascript-setup-2h9f)
-- [Dev.to/JS] [Professional web development service](https://dev.to/prowebdevelopment/professional-web-development-service-4gbn)
-- [Dev.to/JS] [JavaScript Tricks: Fancy Assignment](https://dev.to/__28f08df2bb06aae67f97/javascript-tricks-fancy-assignment-106f)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 20](https://lifehacker.com/connections-answer-today-september-20-2023-1850852268)
 - [Lifehacker] [You Can Save $500 on the New Samsung Odyssey Neo G9 57-Inch Gaming Monitor](https://lifehacker.com/you-can-save-500-on-the-new-samsung-odyssey-neo-g9-57-1850852797)
 - [Lifehacker] [SurfShark VPN Is an Extra 20% Off Right Now](https://lifehacker.com/surfshark-vpn-is-an-extra-20-off-right-now-1850842968)
