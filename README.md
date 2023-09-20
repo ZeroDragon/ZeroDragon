@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy AI Checker vs. Copyleaks | Which one is the most accurate?](https://dev.to/companionlink/easy-ai-checker-vs-copyleaks-which-one-is-the-most-accurate-470f)
+- [Lifehacker] [Amazon Is Having a Big Sale on Refurbished Devices Before Their Fall Launch](https://lifehacker.com/amazon-is-having-a-big-sale-on-refurbished-devices-befo-1850858167)
+- [Lifehacker] [Make This Easy Appetizer Board for Thanksgiving Dinner](https://lifehacker.com/easy-thanksgiving-appetizers-1845751654)
+- [Lifehacker] [Why It&#39;s Never Been More Important to Have a Good Credit Score](https://lifehacker.com/why-its-never-been-more-important-to-have-a-good-credit-1850857840)
 - [Dev.to/JS] [&quot;STEP INTO SAVINGS: WHOLESALE SOCKS USA&quot;](https://dev.to/tommy89/step-into-savings-wholesale-socks-usa-1ifg)
 - [Dev.to/JS] [Rotating a vertical rectangle image using React-cropper](https://dev.to/idiglove/rotating-a-vertical-rectangle-image-using-react-cropper-3pc5)
 - [Lifehacker] [You Can Get a Lifetime Babbel Subscription for $170 Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-170-rig-1850850936)
@@ -48,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Summarize Your Class Notes With the ’GIST&#39; Method](https://lifehacker.com/how-to-use-the-gist-study-method-1850855542)
 - [Dev.to/JS] [Cracking the Code: Finding the Duplicate Number in LeetCode 287](https://dev.to/speaklouder/cracking-the-code-finding-the-duplicate-number-in-leetcode-287-gf7)
 - [Lifehacker] [This 17-Inch LG Laptop Is $800 Off for Today Only](https://lifehacker.com/this-17-inch-lg-laptop-is-800-off-today-only-1850856914)
-- [Dev.to/JS] [JavaScript. WebRTC. Connecting browsers directly without a server, peer-to-peer](https://dev.to/alexboyko/javascript-webrtc-connecting-browsers-directly-without-a-server-peer-to-peer-42lj)
 - [Lifehacker] [These Are the Best Fall Cleaning Tools](https://lifehacker.com/these-are-the-best-fall-cleaning-tools-1850856721)
 - [Lifehacker] [You Can Make Funnel Cake With Pancake Mix](https://lifehacker.com/you-can-make-funnel-cake-with-pancake-mix-1850853970)
 - [Lifehacker] [The Blink 4 Is a Worthwhile Entry-Level Wireless Security Camera](https://lifehacker.com/blink-outdoor-4-security-camera-review-1850855801)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [SurfShark VPN Is an Extra 20% Off Right Now](https://lifehacker.com/surfshark-vpn-is-an-extra-20-off-right-now-1850842968)
 - [Lifehacker] [You Can Finally Offer Bookable Appointments on Your Google Calendar](https://lifehacker.com/you-can-finally-offer-bookable-appointments-on-your-goo-1850853638)
 - [Lifehacker] [The Newest M2 MacBook Pro Is $200 Off Right Now](https://lifehacker.com/the-newest-m2-macbook-pro-is-200-off-right-now-1850853811)
-- [Lifehacker] [Try This When an Annoying Piece of Food Gets Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)
-- [Lifehacker] [The Truth About Buying a $1 House to Fix Up](https://lifehacker.com/the-truth-about-buying-a-1-house-to-fix-up-1850853013)
-- [Lifehacker] [You Can Now Connect Bard to Gmail, Google Docs, YouTube, and More](https://lifehacker.com/set-up-google-bard-extensions-1850853309)
-- [Lifehacker] [How to Get the Best Possible Car Loan Right Now](https://lifehacker.com/how-to-get-the-best-possible-car-loan-right-now-1850852528)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try This When an Annoying Piece of Food Gets Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)<!-- TECH-POSTS:END -->
 
 ---
 
