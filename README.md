@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Hidden iPhone 15 Setting Can Save Your Battery](https://lifehacker.com/this-hidden-iphone-15-setting-can-save-your-battery-1850856552)
+- [Lifehacker] [The 20 Funniest Comedies on Netflix Right Now](https://lifehacker.com/best-comedies-netflix-1850849503)
+- [Dev.to/JS] [Enhance Your Angular Mastery with the Router: Change Styles According to the Route](https://dev.to/fredydlemus/enhance-your-angular-mastery-with-the-router-change-styles-according-to-the-route-1dkj)
+- [Lifehacker] [Summarize Your Class Notes With the ’GIST&#39; Method](https://lifehacker.com/how-to-use-the-gist-study-method-1850855542)
+- [Dev.to/JS] [Cracking the Code: Finding the Duplicate Number in LeetCode 287](https://dev.to/speaklouder/cracking-the-code-finding-the-duplicate-number-in-leetcode-287-gf7)
+- [Lifehacker] [This 17-Inch LG Laptop Is $800 Off for Today Only](https://lifehacker.com/this-17-inch-lg-laptop-is-800-off-today-only-1850856914)
 - [Dev.to/JS] [JavaScript. WebRTC. Connecting browsers directly without a server, peer-to-peer](https://dev.to/alexboyko/javascript-webrtc-connecting-browsers-directly-without-a-server-peer-to-peer-42lj)
 - [Dev.to/JS] [Unveiling the Magic of JavaScript: A Comprehensive Introduction](https://dev.to/lollalolitta/unveiling-the-magic-of-javascript-a-comprehensive-introduction-3bpm)
 - [Lifehacker] [These Are the Best Fall Cleaning Tools](https://lifehacker.com/these-are-the-best-fall-cleaning-tools-1850856721)
@@ -38,11 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Whispering Trees: How Callbacks Work in JavaScript Forest](https://dev.to/init_chandan/the-whispering-trees-how-callbacks-work-in-javascript-forest-277l)
 - [Lifehacker] [This Six-Night Trip to Italy Is $699 Right Now](https://lifehacker.com/this-six-night-trip-to-italy-is-699-right-now-1850854333)
 - [Dev.to/JS] [I&#39;m going ALL IN on Bun.js](https://dev.to/jacklehamster/im-going-all-in-on-bunjs-3ljk)
-- [Dev.to/JS] [Best PySpark Training in Chennai | PySpark Course in Chennai](https://dev.to/jayabita/best-pyspark-training-in-chennai-pyspark-course-in-chennai-4d4o)
 - [Dev.to/JS] [Essential JavaScript Interview Questions for 2023: Intermediate Level](https://dev.to/mainulspace/essential-javascript-interview-questions-for-2023-intermediate-level-22d3)
 - [Dev.to/JS] [Day 52: Namespace Augmentation](https://dev.to/dhrn/day-52-namespace-augmentation-42ll)
 - [Lifehacker] [This CarPlay Display and Dashcam Combo Is $150 Off Right Now](https://lifehacker.com/this-carplay-display-and-dashcam-combo-is-150-off-righ-1850854048)
-- [Dev.to/JS] [LambdaTest Releases SSH Tunnel To Let You Test Your Locally Hosted Applications](https://dev.to/lambdatest/lambdatest-releases-ssh-tunnel-to-let-you-test-your-locally-hosted-applications-fh4)
 - [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)
 - [Lifehacker] [How to Not Spend a Fortune on Your Kids’ Extracurricular Activities](https://lifehacker.com/how-to-not-spend-a-fortune-on-your-kids-extracurricula-1850852736)
 - [Crazy Programmer] [How to Prepare for Data Scientist Interview in 2023?](https://www.thecrazyprogrammer.com/2023/09/how-to-prepare-for-data-scientist-interview.html)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, Pickle Juice Can Relieve Muscle Cramps](https://lifehacker.com/pickle-juice-help-with-muscle-cramps-1850851267)
 - [Lifehacker] [How to Stop Yelling at Your Kids so Much](https://lifehacker.com/how-to-stop-yelling-at-your-kids-so-much-1850851762)
 - [Lifehacker] [The Best New Keyboard Features in iOS 17](https://lifehacker.com/the-best-new-keyboard-features-in-ios-17-1850852783)
-- [Lifehacker] [What&#39;s New on Disney+ in October 2023](https://lifehacker.com/whats-new-on-disney-in-october-2023-1850851532)
-- [Lifehacker] [iOS 17 Can Blur NSFW Pics on Your iPhone](https://lifehacker.com/ios-17-can-blur-nsfw-pics-on-your-iphone-1850852496)
-- [Lifehacker] [Use the &#39;Two-Minute Rule&#39; When Microwaving Food With a Paper Towel](https://lifehacker.com/use-the-two-minute-rule-when-microwaving-food-with-a-pa-1850846443)
-- [Lifehacker] [What to Do When a Coworker Keeps Undermining You](https://lifehacker.com/what-to-do-when-a-coworker-keeps-undermining-you-1850852016)
-- [Lifehacker] [What&#39;s New on Hulu in October 2023](https://lifehacker.com/new-on-hulu-october-2023-1850851012)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Disney+ in October 2023](https://lifehacker.com/whats-new-on-disney-in-october-2023-1850851532)<!-- TECH-POSTS:END -->
 
 ---
 
