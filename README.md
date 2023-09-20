@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Tricks: Fancy Assignment](https://dev.to/__28f08df2bb06aae67f97/javascript-tricks-fancy-assignment-106f)
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 20](https://lifehacker.com/connections-answer-today-september-20-2023-1850852268)
 - [Dev.to/JS] [From Frontend Web to the iOS Universe](https://dev.to/ctahirih/from-frontend-web-to-the-ios-universe-5972)
 - [Lifehacker] [You Can Save $500 on the New Samsung Odyssey Neo G9 57-Inch Gaming Monitor](https://lifehacker.com/you-can-save-500-on-the-new-samsung-odyssey-neo-g9-57-1850852797)
 - [Dev.to/JS] [¿Qué es Bun?](https://dev.to/degcode/que-es-bun-4b91)
@@ -50,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, Pickle Juice Can Relieve Muscle Cramps](https://lifehacker.com/pickle-juice-help-with-muscle-cramps-1850851267)
 - [Dev.to/JS] [Elevate Your Home Entertainment with Orion Bar 7500: A Comprehensive Review](https://dev.to/veerpalsingh90/elevate-your-home-entertainment-with-orion-bar-7500-a-comprehensive-review-k37)
 - [Lifehacker] [How to Stop Yelling at Your Kids so Much](https://lifehacker.com/how-to-stop-yelling-at-your-kids-so-much-1850851762)
-- [Dev.to/JS] [Creatures.dev: Where Curious Developers Thrive Together 🐙](https://dev.to/ivana1991/creaturesdev-where-curious-developers-thrive-together-3neb)
 - [Lifehacker] [The Best New Keyboard Features in iOS 17](https://lifehacker.com/the-best-new-keyboard-features-in-ios-17-1850852783)
 - [Lifehacker] [What&#39;s New on Disney+ in October 2023](https://lifehacker.com/whats-new-on-disney-in-october-2023-1850851532)
 - [Lifehacker] [iOS 17 Can Blur NSFW Pics on Your iPhone](https://lifehacker.com/ios-17-can-blur-nsfw-pics-on-your-iphone-1850852496)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Cheese-Filled ‘Pumpkin’ Is the Perfect Holiday Appetizer](https://lifehacker.com/a-cheese-filled-pumpkin-is-the-perfect-holiday-appeti-1849781033)
 - [Lifehacker] [This Anker Charger That Can Power All Your Devices Is 43% Off](https://lifehacker.com/this-anker-charger-that-can-power-all-your-devices-is-4-1850850523)
 - [Lifehacker] [My Favorite Fitness Gear Under $100](https://lifehacker.com/my-favorite-fitness-gear-under-100-1850850932)
-- [Lifehacker] [An Age-By-Age Guide to Helping Kids Manage Homework](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-manage-homework-1850849992)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 19](https://lifehacker.com/connections-answer-today-september-19-2023-1850848448)<!-- TECH-POSTS:END -->
+- [Lifehacker] [An Age-By-Age Guide to Helping Kids Manage Homework](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-manage-homework-1850849992)<!-- TECH-POSTS:END -->
 
 ---
 
