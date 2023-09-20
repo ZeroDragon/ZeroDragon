@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [using: A keyword that make be easily that resource variable management &lpar;JavaScript &amp; TypeScript&rpar;](https://dev.to/genie_oh/using-a-keyword-that-make-be-easily-that-resource-variable-management-javascript-typescript-1pdj)
+- [Dev.to/JS] [Understanding the Difference Between Cluster and Worker in Node.js](https://dev.to/mrrishimeena/understanding-the-difference-between-cluster-and-worker-in-nodejs-1ijf)
+- [Dev.to/JS] [Axios Interceptors](https://dev.to/abhishek305/axios-interceptors-298a)
+- [Dev.to/JS] [Lemon Casino - Online Casino 1](https://dev.to/lemoncasino/lemon-casino-online-casino-1-2o39)
 - [Dev.to/JS] [From Novice to Pro: Your Journey through a UI Development Training Institute in Bangalore](https://dev.to/aravindait/from-novice-to-pro-your-journey-through-a-ui-development-training-institute-in-bangalore-gam)
 - [Dev.to/JS] [Server-Side Rendering with Vue 3: Boosting Your Web App&#39;s Performance](https://dev.to/chintanonweb/server-side-rendering-with-vue-3-boosting-your-web-apps-performance-1bge)
 - [Crazy Programmer] [How to Prepare for Data Scientist Interview in 2023?](https://www.thecrazyprogrammer.com/2023/09/how-to-prepare-for-data-scientist-interview.html)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Operators Breakdown With Examples](https://dev.to/nsebhastian/javascript-operators-breakdown-with-examples-831)
 - [Dev.to/JS] [Creating Stunning 3D Render Effects on Your Website](https://dev.to/freedesstudio/creating-stunning-3d-render-effects-on-your-website-28cd)
 - [Dev.to/JS] [Unlocking ANS-C01 Certification: From Dumps to Distinction](https://dev.to/tq0ucy6h/unlocking-ans-c01-certification-from-dumps-to-distinction-4l2f)
-- [Dev.to/JS] [+ operator coerces functions into strings](https://dev.to/adrianskar/-operator-coerces-functions-into-strings-53j4)
-- [Dev.to/JS] [PWA: What changed in 2023?](https://dev.to/progressier/pwa-what-changed-in-2023-3co4)
-- [Dev.to/JS] [📝 7 Most Commonly Used Vue.js UI Components 😎](https://dev.to/terawuthth/7-most-commonly-used-vuejs-ui-components-dob)
-- [Dev.to/JS] [Don’t block your users! Why you should adopt event-driven architecture](https://dev.to/estephinson/dont-block-your-users-why-you-should-adopt-event-driven-architecture-38e6)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 20](https://lifehacker.com/connections-answer-today-september-20-2023-1850852268)
 - [Lifehacker] [You Can Save $500 on the New Samsung Odyssey Neo G9 57-Inch Gaming Monitor](https://lifehacker.com/you-can-save-500-on-the-new-samsung-odyssey-neo-g9-57-1850852797)
 - [Lifehacker] [SurfShark VPN Is an Extra 20% Off Right Now](https://lifehacker.com/surfshark-vpn-is-an-extra-20-off-right-now-1850842968)
