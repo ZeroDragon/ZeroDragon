@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Advance IDEA while using the ternary operator](https://dev.to/kartheek_dev/react-advance-idea-while-using-the-ternary-operator-ao9)
+- [Dev.to/JS] [Bun 1.0: A New Era for JavaScript Development](https://dev.to/taquiimam14/bun-10-a-new-era-for-javascript-development-2oe5)
+- [Dev.to/JS] [Quick Sort in DSA &lpar;JAVASCRIPT&rpar;](https://dev.to/kartheek_dev/quick-sort-in-dsa-javascript-3ggp)
+- [Dev.to/JS] [The Whispering Trees: How Callbacks Work in JavaScript Forest](https://dev.to/init_chandan/the-whispering-trees-how-callbacks-work-in-javascript-forest-277l)
 - [Lifehacker] [This Six-Night Trip to Italy Is $699 Right Now](https://lifehacker.com/this-six-night-trip-to-italy-is-699-right-now-1850854333)
 - [Dev.to/JS] [Ruby on Rails Training in Chennai | Ruby on Rails](https://dev.to/jayabita/ruby-on-rails-training-in-chennai-ruby-on-rails-4hio)
 - [Dev.to/JS] [I&#39;m going ALL IN on Bun.js](https://dev.to/jacklehamster/im-going-all-in-on-bunjs-3ljk)
@@ -36,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This CarPlay Display and Dashcam Combo Is $150 Off Right Now](https://lifehacker.com/this-carplay-display-and-dashcam-combo-is-150-off-righ-1850854048)
 - [Dev.to/JS] [LambdaTest Releases SSH Tunnel To Let You Test Your Locally Hosted Applications](https://dev.to/lambdatest/lambdatest-releases-ssh-tunnel-to-let-you-test-your-locally-hosted-applications-fh4)
 - [Dev.to/JS] [React sees a dip in downloads on npm 📉. What&#39;s going on?](https://dev.to/srbhr/react-sees-a-dip-in-downloads-on-npm-whats-going-on-ode)
-- [Dev.to/JS] [Image Slider](https://dev.to/jyotivns78/image-slider-269g)
-- [Dev.to/JS] [Angular Signals : A Comprehensive Introduction](https://dev.to/nikhil6076/angular-signals-a-comprehensive-introduction-45h2)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step: Deploy a frontend!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-deploy-a-frontend-31a6)
 - [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)
-- [Dev.to/JS] [React Quiz](https://dev.to/jshivecom/react-quiz-5307)
 - [Lifehacker] [How to Not Spend a Fortune on Your Kids’ Extracurricular Activities](https://lifehacker.com/how-to-not-spend-a-fortune-on-your-kids-extracurricula-1850852736)
 - [Crazy Programmer] [How to Prepare for Data Scientist Interview in 2023?](https://www.thecrazyprogrammer.com/2023/09/how-to-prepare-for-data-scientist-interview.html)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 20](https://lifehacker.com/connections-answer-today-september-20-2023-1850852268)
