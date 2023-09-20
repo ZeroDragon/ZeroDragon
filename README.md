@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enlightr - E-learning platform Multipage theme](https://dev.to/lexingtonthemes/enlightr-e-learning-platform-multipage-theme-5aig)
+- [Dev.to/JS] [Specialty Plasticizer Market 2023 Global Trends, Demand, Segmentation and Opportunities Forecast To 2032](https://dev.to/shubham7007/specialty-plasticizer-market-2023-global-trends-demand-segmentation-and-opportunities-forecast-to-2032-ehk)
+- [Dev.to/JS] [Experience the Best Cellulite Treatment at Our Med Spa](https://dev.to/rosshart/experience-the-best-cellulite-treatment-at-our-med-spa-5bd)
 - [Dev.to/JS] [Desvendando a Conexão do React a uma API com Axios](https://dev.to/drlegobox/desvendando-a-conexao-do-react-a-uma-api-com-axios-1h74)
 - [Dev.to/JS] [TinyMCE 6.7: Accessibility improvements, plugin enhancements and more](https://dev.to/tinymce/tinymce-67-accessibility-improvements-plugin-enhancements-and-more-28a8)
 - [Dev.to/JS] [AI and Javascript interactions with Hatch](https://dev.to/darrinm/ai-and-javascript-interactions-with-hatch-2ehj)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Professional web development service](https://dev.to/prowebdevelopment/professional-web-development-service-4gbn)
 - [Dev.to/JS] [JavaScript Tricks: Fancy Assignment](https://dev.to/__28f08df2bb06aae67f97/javascript-tricks-fancy-assignment-106f)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 20](https://lifehacker.com/connections-answer-today-september-20-2023-1850852268)
-- [Dev.to/JS] [From Frontend Web to the iOS Universe](https://dev.to/ctahirih/from-frontend-web-to-the-ios-universe-5972)
 - [Lifehacker] [You Can Save $500 on the New Samsung Odyssey Neo G9 57-Inch Gaming Monitor](https://lifehacker.com/you-can-save-500-on-the-new-samsung-odyssey-neo-g9-57-1850852797)
-- [Dev.to/JS] [¿Qué es Bun?](https://dev.to/degcode/que-es-bun-4b91)
 - [Lifehacker] [SurfShark VPN Is an Extra 20% Off Right Now](https://lifehacker.com/surfshark-vpn-is-an-extra-20-off-right-now-1850842968)
-- [Dev.to/JS] [Destructuring in JS](https://dev.to/kyrierui/destructuring-in-js-2009)
 - [Lifehacker] [You Can Finally Offer Bookable Appointments on Your Google Calendar](https://lifehacker.com/you-can-finally-offer-bookable-appointments-on-your-goo-1850853638)
 - [Lifehacker] [The Newest M2 MacBook Pro Is $200 Off Right Now](https://lifehacker.com/the-newest-m2-macbook-pro-is-200-off-right-now-1850853811)
 - [Lifehacker] [Try This When an Annoying Piece of Food Gets Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)
