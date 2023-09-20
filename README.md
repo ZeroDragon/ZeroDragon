@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Signals : A Comprehensive Introduction](https://dev.to/nikhil6076/angular-signals-a-comprehensive-introduction-45h2)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step: Deploy a frontend!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-deploy-a-frontend-31a6)
+- [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)
+- [Dev.to/JS] [React Quiz](https://dev.to/jshivecom/react-quiz-5307)
+- [Dev.to/JS] [Introducing Webcrumbs: An Open Source Platform Aiming to Be the WordPress for React](https://dev.to/opensourcee/introducing-webcrumbs-an-open-source-platform-aiming-to-be-the-wordpress-for-react-4jif)
+- [Dev.to/JS] [JavaScript - the Reduce method](https://dev.to/fabienschlegel/javascript-the-reduce-method-2391)
+- [Dev.to/JS] [7 Pro Tips JavaScript One-Liners for You to Know and Use](https://dev.to/renancferro/7-pro-tips-javascript-one-liners-for-you-to-know-and-use-3bll)
+- [Lifehacker] [How to Not Spend a Fortune on Your Kids’ Extracurricular Activities](https://lifehacker.com/how-to-not-spend-a-fortune-on-your-kids-extracurricula-1850852736)
 - [Dev.to/JS] [using: A keyword that make be easily that resource variable management &lpar;JavaScript &amp; TypeScript&rpar;](https://dev.to/genie_oh/using-a-keyword-that-make-be-easily-that-resource-variable-management-javascript-typescript-1pdj)
 - [Dev.to/JS] [Understanding the Difference Between Cluster and Worker in Node.js](https://dev.to/mrrishimeena/understanding-the-difference-between-cluster-and-worker-in-nodejs-1ijf)
 - [Dev.to/JS] [Axios Interceptors](https://dev.to/abhishek305/axios-interceptors-298a)
-- [Dev.to/JS] [Lemon Casino - Online Casino 1](https://dev.to/lemoncasino/lemon-casino-online-casino-1-2o39)
 - [Dev.to/JS] [From Novice to Pro: Your Journey through a UI Development Training Institute in Bangalore](https://dev.to/aravindait/from-novice-to-pro-your-journey-through-a-ui-development-training-institute-in-bangalore-gam)
 - [Dev.to/JS] [Server-Side Rendering with Vue 3: Boosting Your Web App&#39;s Performance](https://dev.to/chintanonweb/server-side-rendering-with-vue-3-boosting-your-web-apps-performance-1bge)
 - [Crazy Programmer] [How to Prepare for Data Scientist Interview in 2023?](https://www.thecrazyprogrammer.com/2023/09/how-to-prepare-for-data-scientist-interview.html)
 - [Dev.to/JS] [URL Validation In JavaScript](https://dev.to/noothan/url-validation-in-javascript-6j2)
-- [Dev.to/JS] [Its never too late to begin...](https://dev.to/kelvinnyaga/its-never-too-late-to-begin-a8h)
-- [Dev.to/JS] [Fetching &amp; Mutating Data with React-Query](https://dev.to/delisrey/fetching-mutating-data-with-react-query-395f)
-- [Dev.to/JS] [JavaScript Operators Breakdown With Examples](https://dev.to/nsebhastian/javascript-operators-breakdown-with-examples-831)
-- [Dev.to/JS] [Creating Stunning 3D Render Effects on Your Website](https://dev.to/freedesstudio/creating-stunning-3d-render-effects-on-your-website-28cd)
-- [Dev.to/JS] [Unlocking ANS-C01 Certification: From Dumps to Distinction](https://dev.to/tq0ucy6h/unlocking-ans-c01-certification-from-dumps-to-distinction-4l2f)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 20](https://lifehacker.com/connections-answer-today-september-20-2023-1850852268)
 - [Lifehacker] [You Can Save $500 on the New Samsung Odyssey Neo G9 57-Inch Gaming Monitor](https://lifehacker.com/you-can-save-500-on-the-new-samsung-odyssey-neo-g9-57-1850852797)
 - [Lifehacker] [SurfShark VPN Is an Extra 20% Off Right Now](https://lifehacker.com/surfshark-vpn-is-an-extra-20-off-right-now-1850842968)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Home Renovations Worth Doing Yourself](https://lifehacker.com/home-renovations-worth-doing-yourself-1850851448)
 - [Lifehacker] [The 12 Most Anticipated Video Games Coming Out This Holiday Season](https://lifehacker.com/most-anticipated-video-games-coming-out-holidays-1850851453)
 - [Lifehacker] [These Are the Best Garmin Smartwatch Deals Under $300](https://lifehacker.com/these-are-the-best-garmin-smartwatch-deals-under-300-1850850955)
-- [Lifehacker] [A Cheese-Filled ‘Pumpkin’ Is the Perfect Holiday Appetizer](https://lifehacker.com/a-cheese-filled-pumpkin-is-the-perfect-holiday-appeti-1849781033)
-- [Lifehacker] [This Anker Charger That Can Power All Your Devices Is 43% Off](https://lifehacker.com/this-anker-charger-that-can-power-all-your-devices-is-4-1850850523)
-- [Lifehacker] [My Favorite Fitness Gear Under $100](https://lifehacker.com/my-favorite-fitness-gear-under-100-1850850932)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Cheese-Filled ‘Pumpkin’ Is the Perfect Holiday Appetizer](https://lifehacker.com/a-cheese-filled-pumpkin-is-the-perfect-holiday-appeti-1849781033)<!-- TECH-POSTS:END -->
 
 ---
 
