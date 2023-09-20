@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking ANS-C01 Certification: From Dumps to Distinction](https://dev.to/tq0ucy6h/unlocking-ans-c01-certification-from-dumps-to-distinction-4l2f)
+- [Dev.to/JS] [+ operator coerces functions into strings](https://dev.to/adrianskar/-operator-coerces-functions-into-strings-53j4)
+- [Dev.to/JS] [PWA: What changed in 2023?](https://dev.to/progressier/pwa-what-changed-in-2023-3co4)
 - [Dev.to/JS] [📝 7 Most Commonly Used Vue.js UI Components 😎](https://dev.to/terawuthth/7-most-commonly-used-vuejs-ui-components-dob)
 - [Dev.to/JS] [Don’t block your users! Why you should adopt event-driven architecture](https://dev.to/estephinson/dont-block-your-users-why-you-should-adopt-event-driven-architecture-38e6)
 - [Dev.to/JS] [Solving the Tech Debt Puzzle: Strategies that boost business](https://dev.to/brainhubeu/solving-the-tech-debt-puzzle-strategies-that-boost-business-3noe)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Protecting Lives and Property with Excellence in Fire Safety Solutions](https://dev.to/firesupplies/protecting-lives-and-property-with-excellence-in-fire-safety-solutions-56la)
 - [Dev.to/JS] [The Future of Web Development: Trends to Watch in 2023](https://dev.to/taquiimam14/the-future-of-web-development-trends-to-watch-in-2023-1li2)
 - [Dev.to/JS] [Console Ninja VS Code Extension: Enhancing Front-End Development with Console Logs](https://dev.to/rio14/console-ninja-vs-code-extension-enhancing-front-end-development-with-console-logs-21ak)
-- [Dev.to/JS] [Growth Matrix - Reviews, Results, Price, Uses &amp; Where To Buy?](https://dev.to/growth78147/growth-matrix-reviews-results-price-uses-where-to-buy-4fj7)
-- [Dev.to/JS] [Next.js 13 - The Game Changer [2023 Update]](https://dev.to/codewithshahan/nextjs-13-the-game-changer-2023-update-2b46)
-- [Dev.to/JS] [How I Earn Through Social Media](https://dev.to/trendingblogers/how-i-earn-through-social-media-534h)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 20](https://lifehacker.com/connections-answer-today-september-20-2023-1850852268)
 - [Lifehacker] [You Can Save $500 on the New Samsung Odyssey Neo G9 57-Inch Gaming Monitor](https://lifehacker.com/you-can-save-500-on-the-new-samsung-odyssey-neo-g9-57-1850852797)
 - [Lifehacker] [SurfShark VPN Is an Extra 20% Off Right Now](https://lifehacker.com/surfshark-vpn-is-an-extra-20-off-right-now-1850842968)
