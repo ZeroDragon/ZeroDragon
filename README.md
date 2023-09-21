@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flabbergasted – SaaS Multipage theme.](https://dev.to/lexingtonthemes/flabbergasted-saas-multipage-theme-2ckc)
+- [Dev.to/JS] [I need a urgent love spell caster to help bring back ex whatsapp +2349013982681](https://dev.to/tbestrobert/i-need-a-urgent-love-spell-caster-to-help-bring-back-ex-whatsapp-2349013982681-2e67)
+- [Dev.to/JS] [Mastering Algorithms: 8 Common Challenges and Solutions in JavaScript](https://dev.to/frantchessico/mastering-algorithms-8-common-challenges-and-solutions-in-javascript-2kkf)
+- [Dev.to/JS] [20 VS Code Extensions pilihan untuk Web/Frontend Developer/Programmer 2023](https://dev.to/meshwara/20-vs-code-extensions-pilihan-untuk-webfrontend-developerprogrammer-2023-1087)
+- [Dev.to/JS] [Apa itu Bun dan cara install Bun di Linux, Mac dan Windows](https://dev.to/meshwara/apa-itu-bun-dan-cara-install-bun-di-linux-mac-dan-windows-4378)
 - [Dev.to/JS] [Does anyone want to work with a Korean company?](https://dev.to/peykorea/does-anyone-want-to-work-with-a-korean-company-439)
-- [Dev.to/JS] [Apa itu Bun dan cara install Bun di Linux, Mac dan Windows](https://dev.to/meshwara/apa-itu-bun-dan-cara-install-bun-di-linux-mac-dan-windows-2ii3)
 - [Dev.to/JS] [JavaScript Callbacks](https://dev.to/shriharimurali/javascript-callbacks-36gj)
 - [Dev.to/JS] [JavaScript Magic Tricks: Steganography](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-steganography-2108)
 - [Dev.to/JS] [Bun is breaking other package managers](https://dev.to/aishanipach/bun-is-breaking-other-package-managers-4bhe)
@@ -42,12 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;STEP INTO SAVINGS: WHOLESALE SOCKS USA&quot;](https://dev.to/tommy89/step-into-savings-wholesale-socks-usa-1ifg)
 - [Dev.to/JS] [Rotating a vertical rectangle image using React-cropper](https://dev.to/idiglove/rotating-a-vertical-rectangle-image-using-react-cropper-3pc5)
 - [Lifehacker] [You Can Get a Lifetime Babbel Subscription for $170 Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-170-rig-1850850936)
-- [Dev.to/JS] [Comparison of Node.js libraries to colorize text in terminal](https://dev.to/webdiscus/comparison-of-nodejs-libraries-to-colorize-text-in-terminal-4j3a)
-- [Dev.to/JS] [My first blog](https://dev.to/mahi19/my-first-blog-4p1b)
 - [Lifehacker] [How to See How Many Times You’ve Charged Your iPhone](https://lifehacker.com/check-iphone-battery-health-1847386877)
-- [Dev.to/JS] [How to create dynamic PDF using React?](https://dev.to/thedev_subrat/how-to-create-dynamic-pdf-using-react-4fpc)
 - [Lifehacker] [This LG A2 4K OLED TV Is $650 Off Right Now](https://lifehacker.com/this-lg-a2-4k-oled-tv-is-650-off-right-now-1850856036)
-- [Dev.to/JS] [Falcon 180B vs. Llama 2: Who Wins the AI Battle?](https://dev.to/thenomadevel/falcon-180b-vs-llama-2-who-wins-the-ai-battle-2cj3)
 - [Lifehacker] [The Best Sales Google Is Offering for Its 25th Birthday](https://lifehacker.com/the-best-sales-google-is-offering-for-its-25th-birthday-1850854978)
 - [Lifehacker] [These Are the Condiments You Need for This Year’s Thanksgiving Dinner](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
 - [Lifehacker] [Gym Chalk Is Your Secret Weapon for Lifting More Weight](https://lifehacker.com/gym-chalk-is-your-secret-weapon-for-lifting-more-weight-1850857195)
