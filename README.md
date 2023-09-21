@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Much Does React Native App Development Costs?](https://dev.to/bradlyhammer/how-much-does-react-native-app-development-costs-4fi9)
+- [Dev.to/JS] [What is Salesforce Pardot? Overview and Benefits](https://dev.to/tech9logycreators/what-is-salesforce-pardot-overview-and-benefits-247g)
 - [Dev.to/JS] [Flabbergasted – SaaS Multipage theme.](https://dev.to/lexingtonthemes/flabbergasted-saas-multipage-theme-2ckc)
 - [Dev.to/JS] [I need a urgent love spell caster to help bring back ex whatsapp +2349013982681](https://dev.to/tbestrobert/i-need-a-urgent-love-spell-caster-to-help-bring-back-ex-whatsapp-2349013982681-2e67)
 - [Dev.to/JS] [Mastering Algorithms: 8 Common Challenges and Solutions in JavaScript](https://dev.to/frantchessico/mastering-algorithms-8-common-challenges-and-solutions-in-javascript-2kkf)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Is Having a Big Sale on Refurbished Devices Before Their Fall Launch](https://lifehacker.com/amazon-is-having-a-big-sale-on-refurbished-devices-befo-1850858167)
 - [Lifehacker] [Make This Easy Appetizer Board for Thanksgiving Dinner](https://lifehacker.com/easy-thanksgiving-appetizers-1845751654)
 - [Lifehacker] [Why It&#39;s Never Been More Important to Have a Good Credit Score](https://lifehacker.com/why-its-never-been-more-important-to-have-a-good-credit-1850857840)
-- [Dev.to/JS] [&quot;STEP INTO SAVINGS: WHOLESALE SOCKS USA&quot;](https://dev.to/tommy89/step-into-savings-wholesale-socks-usa-1ifg)
-- [Dev.to/JS] [Rotating a vertical rectangle image using React-cropper](https://dev.to/idiglove/rotating-a-vertical-rectangle-image-using-react-cropper-3pc5)
 - [Lifehacker] [You Can Get a Lifetime Babbel Subscription for $170 Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-170-rig-1850850936)
 - [Lifehacker] [How to See How Many Times You’ve Charged Your iPhone](https://lifehacker.com/check-iphone-battery-health-1847386877)
 - [Lifehacker] [This LG A2 4K OLED TV Is $650 Off Right Now](https://lifehacker.com/this-lg-a2-4k-oled-tv-is-650-off-right-now-1850856036)
