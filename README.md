@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [prueba de osttt](https://dev.to/placidovenegas/prueba-de-osttt-14h5)
+- [Lifehacker] [What People Are Getting Wrong This Week: Clara and Mauricio](https://lifehacker.com/what-people-are-getting-wrong-this-week-clara-and-maur-1850861241)
+- [Dev.to/JS] [Thoughts on Bun so far?](https://dev.to/sadeedpv/thoughts-on-bun-so-far-1dhk)
+- [Lifehacker] [The Biggest New Features in Microsoft&#39;s Upcoming Windows 11 23H2 Update](https://lifehacker.com/biggest-new-features-windows-11-23h2-update-1850860890)
+- [Dev.to/JS] [Next.js 13.5 have 22% faster local server startup](https://dev.to/kumarkalyan/nextjs-135-have-22-faster-local-server-startup-2eld)
+- [Lifehacker] [The Easiest Smoked Turkey Recipe Is Also the Best](https://lifehacker.com/smoke-your-turkey-the-wrong-way-on-a-charcoal-grill-1848048358)
+- [Lifehacker] [This Travel eSIM Card Comes With a $50 Credit for $22 Right Now](https://lifehacker.com/this-travel-esim-card-comes-with-a-50-credit-for-22-r-1850854986)
 - [Dev.to/JS] [Should You Pair Signals &amp; OnPush?](https://dev.to/this-is-angular/should-you-pair-signals-onpush-1jko)
 - [Dev.to/JS] [Applying laziness to the extreme: A new code generator for Node.js](https://dev.to/iwaduarte/applying-laziness-to-the-extreme-a-new-code-generator-for-nodejs-5406)
 - [Dev.to/JS] [Day 53: Deep Readonly](https://dev.to/dhrn/day-53-deep-readonly-1fea)
@@ -38,12 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Episode 23/37: ISR in Angular, Cypress &amp; Playwright](https://dev.to/this-is-angular/episode-2337-isr-in-angular-cypress-playwright-4b4o)
 - [Dev.to/JS] [Pick peaks&quot;Code Wars&quot;](https://dev.to/richeskelechi/pick-peakscode-wars-d63)
 - [Dev.to/JS] [11 Best Free Software Testing Online Courses for Beginners](https://dev.to/lambdatest/11-best-free-software-testing-online-courses-for-beginners-77a)
-- [Dev.to/JS] [Bun vs Node.js: Everything you need to know](https://dev.to/builderio/bun-vs-nodejs-everything-you-need-to-know-4l66)
 - [Lifehacker] [Your iPhone Can Now Find Your Apple TV Remote](https://lifehacker.com/your-iphone-can-now-find-your-apple-tv-remote-1850860249)
 - [Lifehacker] [Everything You Should Know About iOS 17](https://lifehacker.com/iphone-ios-17-review-1850859158)
-- [Dev.to/JS] [Create an Amazin chart with ApexCharts.](https://dev.to/amr2018/create-an-amazin-chart-with-apexcharts-14hh)
 - [Lifehacker] [You Should Claim Your Part of the Fortnite FTC Settlement](https://lifehacker.com/fortnite-ftc-settlement-claim-1850858900)
-- [Dev.to/JS] [Working of Garbage Collection in JavaScript: Under the Hood ✨](https://dev.to/thebuildguy/working-of-garbage-collection-in-javascript-under-the-hood-231e)
 - [Lifehacker] [How You Can Try ChatGPT’s New Image Generator](https://lifehacker.com/how-you-can-try-chatgpt-s-new-image-generator-1850858864)
 - [Lifehacker] [How to Start Indoor Gardening This Winter](https://lifehacker.com/how-to-start-indoor-gardening-this-winter-1850857776)
 - [Lifehacker] [Your Pan-fried Dumplings Need a Crispy Skirt](https://lifehacker.com/easy-fried-dumpling-recipe-1850857713)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Sales Google Is Offering for Its 25th Birthday](https://lifehacker.com/the-best-sales-google-is-offering-for-its-25th-birthday-1850854978)
 - [Lifehacker] [These Are the Condiments You Need for This Year’s Thanksgiving Dinner](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
 - [Lifehacker] [Gym Chalk Is Your Secret Weapon for Lifting More Weight](https://lifehacker.com/gym-chalk-is-your-secret-weapon-for-lifting-more-weight-1850857195)
-- [Lifehacker] [How to Clean Your AirPods Max Without Damaging Them](https://lifehacker.com/how-to-clean-your-airpods-max-without-damaging-them-1850855676)
-- [Lifehacker] [This Hidden iPhone 15 Setting Can Save Your Battery](https://lifehacker.com/this-hidden-iphone-15-setting-can-save-your-battery-1850856552)
-- [Lifehacker] [The 20 Funniest Comedies on Netflix Right Now](https://lifehacker.com/best-comedies-netflix-1850849503)
-- [Lifehacker] [Summarize Your Class Notes With the ’GIST&#39; Method](https://lifehacker.com/how-to-use-the-gist-study-method-1850855542)
-- [Lifehacker] [This 17-Inch LG Laptop Is $800 Off for Today Only](https://lifehacker.com/this-17-inch-lg-laptop-is-800-off-today-only-1850856914)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Clean Your AirPods Max Without Damaging Them](https://lifehacker.com/how-to-clean-your-airpods-max-without-damaging-them-1850855676)<!-- TECH-POSTS:END -->
 
 ---
 
