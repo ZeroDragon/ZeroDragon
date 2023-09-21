@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Replace Spaces with Dashes in a JavaScript String](https://dev.to/imsan/how-to-replace-spaces-with-dashes-in-a-javascript-string-4mph)
+- [Dev.to/JS] [Why Migrate to Angular Standalone Components](https://dev.to/vkagklis/why-migrate-to-angular-standalone-components-4men)
+- [Lifehacker] [You Should Treat Your Budget Like a Healthy Diet](https://lifehacker.com/you-should-treat-your-budget-like-a-healthy-diet-1850860460)
+- [Dev.to/JS] [Art of Exceptional Customer Service: A Guide to Delighting Customers](https://dev.to/allen121/art-of-exceptional-customer-service-a-guide-to-delighting-customers-1d87)
+- [Dev.to/JS] [[Bun 1.0] Alternatives for NPM?](https://dev.to/worldgoit/bun-10-alternatives-for-npm-3047)
 - [Lifehacker] [The Best Desk Lamps Under $40](https://lifehacker.com/the-best-desk-lamps-under-40-1850862097)
 - [Dev.to/JS] [What is Strict Mode in JavaScript?](https://dev.to/catherineisonline/what-is-strict-mode-in-javascript-phn)
 - [Lifehacker] [iOS 17 Has Security Risks Already](https://lifehacker.com/ios-17-has-security-risks-already-1850861877)
@@ -44,11 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js 13.5 have 22% faster local server startup](https://dev.to/kumarkalyan/nextjs-135-have-22-faster-local-server-startup-2eld)
 - [Lifehacker] [The Easiest Smoked Turkey Recipe Is Also the Best](https://lifehacker.com/smoke-your-turkey-the-wrong-way-on-a-charcoal-grill-1848048358)
 - [Lifehacker] [This Travel eSIM Card Comes With a $50 Credit for $22 Right Now](https://lifehacker.com/this-travel-esim-card-comes-with-a-50-credit-for-22-r-1850854986)
-- [Dev.to/JS] [Should You Pair Signals &amp; OnPush?](https://dev.to/this-is-angular/should-you-pair-signals-onpush-1jko)
-- [Dev.to/JS] [Applying laziness to the extreme: A new code generator for Node.js](https://dev.to/iwaduarte/applying-laziness-to-the-extreme-a-new-code-generator-for-nodejs-5406)
-- [Dev.to/JS] [Day 53: Deep Readonly](https://dev.to/dhrn/day-53-deep-readonly-1fea)
 - [Lifehacker] [Free At-Home COVID Tests Are Coming Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
-- [Dev.to/JS] [JavaScript Web APIs Series: Document Object Model APIs](https://dev.to/olodocoder/javascript-web-apis-series-document-object-model-apis-5ef0)
 - [Lifehacker] [Why Leasing an Electric Vehicle Still Probably Isn&#39;t Worth It](https://lifehacker.com/why-leasing-an-electric-vehicle-still-probably-isnt-wor-1850829610)
 - [Lifehacker] [These Open-Ear Wireless Conduction Headphones Are $34 Right Now](https://lifehacker.com/these-open-ear-wireless-conduction-headphones-are-34-r-1850850886)
 - [Lifehacker] [Your iPhone Can Now Find Your Apple TV Remote](https://lifehacker.com/your-iphone-can-now-find-your-apple-tv-remote-1850860249)
@@ -58,14 +59,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Start Indoor Gardening This Winter](https://lifehacker.com/how-to-start-indoor-gardening-this-winter-1850857776)
 - [Lifehacker] [Your Pan-fried Dumplings Need a Crispy Skirt](https://lifehacker.com/easy-fried-dumpling-recipe-1850857713)
 - [Lifehacker] [A Beginner’s Guide to Sex Parties](https://lifehacker.com/a-beginner-s-guide-to-sex-parties-1850826250)
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 21](https://lifehacker.com/connections-answer-today-september-21-2023-1850856309)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
 - [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)
 - [Lifehacker] [How to Study in a Group &lpar;If You Must&rpar;](https://lifehacker.com/how-to-study-in-a-group-if-you-must-1850857034)
 - [Lifehacker] [Amazon Is Having a Big Sale on Refurbished Devices Before Their Fall Launch](https://lifehacker.com/amazon-is-having-a-big-sale-on-refurbished-devices-befo-1850858167)
-- [Lifehacker] [Make This Easy Appetizer Board for Thanksgiving Dinner](https://lifehacker.com/easy-thanksgiving-appetizers-1845751654)
-- [Lifehacker] [Why It&#39;s Never Been More Important to Have a Good Credit Score](https://lifehacker.com/why-its-never-been-more-important-to-have-a-good-credit-1850857840)
-- [Lifehacker] [You Can Get a Lifetime Babbel Subscription for $170 Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-170-rig-1850850936)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Easy Appetizer Board for Thanksgiving Dinner](https://lifehacker.com/easy-thanksgiving-appetizers-1845751654)<!-- TECH-POSTS:END -->
 
 ---
 
