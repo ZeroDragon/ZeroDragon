@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bun vs Node.js: Everything you need to know](https://dev.to/builderio/bun-vs-nodejs-everything-you-need-to-know-4l66)
+- [Lifehacker] [Your iPhone Can Now Find Your Apple TV Remote](https://lifehacker.com/your-iphone-can-now-find-your-apple-tv-remote-1850860249)
+- [Lifehacker] [Everything You Should Know About iOS 17](https://lifehacker.com/iphone-ios-17-review-1850859158)
+- [Dev.to/JS] [Create an Amazin chart with ApexCharts.](https://dev.to/amr2018/create-an-amazin-chart-with-apexcharts-14hh)
+- [Lifehacker] [You Should Claim Your Part of the Fortnite FTC Settlement](https://lifehacker.com/fortnite-ftc-settlement-claim-1850858900)
 - [Dev.to/JS] [Working of Garbage Collection in JavaScript: Under the Hood ✨](https://dev.to/thebuildguy/working-of-garbage-collection-in-javascript-under-the-hood-231e)
 - [Dev.to/JS] [Building a Complete Weather App from Scratch with HTML, CSS, and JavaScript: A Step-by-Step Guide](https://dev.to/iamcymentho/building-a-complete-weather-app-from-scratch-with-html-css-and-javascript-a-step-by-step-guide-30h4)
 - [Lifehacker] [How You Can Try ChatGPT’s New Image Generator](https://lifehacker.com/how-you-can-try-chatgpt-s-new-image-generator-1850858864)
@@ -40,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Email Outreach : Sending Bulk Emails from Google Sheets Using Scripts](https://dev.to/drsimplegraffiti/email-outreach-sending-bulk-emails-from-google-sheets-using-scripts-16g2)
 - [Dev.to/JS] [🔥 Building a video chat app with screen-sharing and React hooks 🤯](https://dev.to/video-sdk/building-a-video-chat-app-with-screen-sharing-and-react-hooks-3mmg)
 - [Dev.to/JS] [Leveraging DatoCMS for streamlined business operations: A comprehensive guide](https://dev.to/dsalinasgardon/leveraging-datocmsfor-streamlined-business-operationsa-comprehensive-guide-ann)
-- [Dev.to/JS] [The World of Web Development: A Comprehensive Overview](https://dev.to/codewithshahan/the-world-of-web-development-a-comprehensive-overview-4i45)
-- [Dev.to/JS] [Comprehensive Guide to Vue.js 3 State Management with Vuex](https://dev.to/chintanonweb/comprehensive-guide-to-vuejs-3-state-management-with-vuex-1bo1)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
 - [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 17-Inch LG Laptop Is $800 Off for Today Only](https://lifehacker.com/this-17-inch-lg-laptop-is-800-off-today-only-1850856914)
 - [Lifehacker] [These Are the Best Fall Cleaning Tools](https://lifehacker.com/these-are-the-best-fall-cleaning-tools-1850856721)
 - [Lifehacker] [You Can Make Funnel Cake With Pancake Mix](https://lifehacker.com/you-can-make-funnel-cake-with-pancake-mix-1850853970)
-- [Lifehacker] [The Blink 4 Is a Worthwhile Entry-Level Wireless Security Camera](https://lifehacker.com/blink-outdoor-4-security-camera-review-1850855801)
-- [Lifehacker] [This Six-Night Trip to Italy Is $699 Right Now](https://lifehacker.com/this-six-night-trip-to-italy-is-699-right-now-1850854333)
-- [Lifehacker] [This CarPlay Display and Dashcam Combo Is $150 Off Right Now](https://lifehacker.com/this-carplay-display-and-dashcam-combo-is-150-off-righ-1850854048)
-- [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Blink 4 Is a Worthwhile Entry-Level Wireless Security Camera](https://lifehacker.com/blink-outdoor-4-security-camera-review-1850855801)<!-- TECH-POSTS:END -->
 
 ---
 
