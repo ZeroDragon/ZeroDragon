@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build your embedded NativeScript app within the Xcode project](https://dev.to/tdermendjiev/how-to-build-your-embedded-nativescript-app-within-the-xcode-project-3jo0)
+- [Dev.to/JS] [Migrating from an Excel Gantt chart to a Bryntum Gantt chart](https://dev.to/bryntum/migrating-from-an-excel-gantt-chart-to-a-bryntum-gantt-chart-1j0e)
+- [Lifehacker] [You Can Save Up to $1,300 on Samsung’s Pricey ‘The Frame’ TVs Right Now](https://lifehacker.com/you-can-save-up-to-1-300-on-samsung-s-pricey-the-fram-1850861674)
+- [Lifehacker] [How to Share Games on Steam With Family Sharing](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)
 - [Dev.to/JS] [prueba de osttt](https://dev.to/placidovenegas/prueba-de-osttt-14h5)
 - [Lifehacker] [What People Are Getting Wrong This Week: Clara and Mauricio](https://lifehacker.com/what-people-are-getting-wrong-this-week-clara-and-maur-1850861241)
 - [Dev.to/JS] [Thoughts on Bun so far?](https://dev.to/sadeedpv/thoughts-on-bun-so-far-1dhk)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Realtime downloads statistics html javascript, ApexCharts 😎](https://dev.to/amr2018/realtime-downloads-statistics-html-javascript-apexcharts-2am7)
 - [Lifehacker] [These Open-Ear Wireless Conduction Headphones Are $34 Right Now](https://lifehacker.com/these-open-ear-wireless-conduction-headphones-are-34-r-1850850886)
 - [Dev.to/JS] [Episode 23/37: ISR in Angular, Cypress &amp; Playwright](https://dev.to/this-is-angular/episode-2337-isr-in-angular-cypress-playwright-4b4o)
-- [Dev.to/JS] [Pick peaks&quot;Code Wars&quot;](https://dev.to/richeskelechi/pick-peakscode-wars-d63)
-- [Dev.to/JS] [11 Best Free Software Testing Online Courses for Beginners](https://dev.to/lambdatest/11-best-free-software-testing-online-courses-for-beginners-77a)
 - [Lifehacker] [Your iPhone Can Now Find Your Apple TV Remote](https://lifehacker.com/your-iphone-can-now-find-your-apple-tv-remote-1850860249)
 - [Lifehacker] [Everything You Should Know About iOS 17](https://lifehacker.com/iphone-ios-17-review-1850859158)
 - [Lifehacker] [You Should Claim Your Part of the Fortnite FTC Settlement](https://lifehacker.com/fortnite-ftc-settlement-claim-1850858900)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to See How Many Times You’ve Charged Your iPhone](https://lifehacker.com/check-iphone-battery-health-1847386877)
 - [Lifehacker] [This LG A2 4K OLED TV Is $650 Off Right Now](https://lifehacker.com/this-lg-a2-4k-oled-tv-is-650-off-right-now-1850856036)
 - [Lifehacker] [The Best Sales Google Is Offering for Its 25th Birthday](https://lifehacker.com/the-best-sales-google-is-offering-for-its-25th-birthday-1850854978)
-- [Lifehacker] [These Are the Condiments You Need for This Year’s Thanksgiving Dinner](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
-- [Lifehacker] [Gym Chalk Is Your Secret Weapon for Lifting More Weight](https://lifehacker.com/gym-chalk-is-your-secret-weapon-for-lifting-more-weight-1850857195)
-- [Lifehacker] [How to Clean Your AirPods Max Without Damaging Them](https://lifehacker.com/how-to-clean-your-airpods-max-without-damaging-them-1850855676)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Condiments You Need for This Year’s Thanksgiving Dinner](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)<!-- TECH-POSTS:END -->
 
 ---
 
