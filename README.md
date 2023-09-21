@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Run Models in the Browser With Transformers.js](https://dev.to/kenzic/run-models-in-the-browser-with-transformersjs-7g8)
+- [Lifehacker] [You Should Make the Tiny Frozen Fried Eggs Reddit Hates](https://lifehacker.com/you-should-make-the-tiny-frozen-fried-eggs-reddit-hates-1850862675)
+- [Lifehacker] [How to Prevent and Manage Calluses From Lifting](https://lifehacker.com/how-to-prevent-and-manage-calluses-from-lifting-1836082994)
+- [Lifehacker] [The Apocalyptic Events You Should Actually Worry About](https://lifehacker.com/the-apocalyptic-events-you-should-actually-worry-about-1850861176)
 - [Dev.to/JS] [How to Replace Spaces with Dashes in a JavaScript String](https://dev.to/imsan/how-to-replace-spaces-with-dashes-in-a-javascript-string-4mph)
 - [Dev.to/JS] [Why Migrate to Angular Standalone Components](https://dev.to/vkagklis/why-migrate-to-angular-standalone-components-4men)
 - [Lifehacker] [You Should Treat Your Budget Like a Healthy Diet](https://lifehacker.com/you-should-treat-your-budget-like-a-healthy-diet-1850860460)
@@ -46,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: Clara and Mauricio](https://lifehacker.com/what-people-are-getting-wrong-this-week-clara-and-maur-1850861241)
 - [Dev.to/JS] [Thoughts on Bun so far?](https://dev.to/sadeedpv/thoughts-on-bun-so-far-1dhk)
 - [Lifehacker] [The Biggest New Features in Microsoft&#39;s Upcoming Windows 11 23H2 Update](https://lifehacker.com/biggest-new-features-windows-11-23h2-update-1850860890)
-- [Dev.to/JS] [Next.js 13.5 have 22% faster local server startup](https://dev.to/kumarkalyan/nextjs-135-have-22-faster-local-server-startup-2eld)
 - [Lifehacker] [The Easiest Smoked Turkey Recipe Is Also the Best](https://lifehacker.com/smoke-your-turkey-the-wrong-way-on-a-charcoal-grill-1848048358)
 - [Lifehacker] [This Travel eSIM Card Comes With a $50 Credit for $22 Right Now](https://lifehacker.com/this-travel-esim-card-comes-with-a-50-credit-for-22-r-1850854986)
 - [Lifehacker] [Free At-Home COVID Tests Are Coming Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 21](https://lifehacker.com/connections-answer-today-september-21-2023-1850856309)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
-- [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)
-- [Lifehacker] [How to Study in a Group &lpar;If You Must&rpar;](https://lifehacker.com/how-to-study-in-a-group-if-you-must-1850857034)
-- [Lifehacker] [Amazon Is Having a Big Sale on Refurbished Devices Before Their Fall Launch](https://lifehacker.com/amazon-is-having-a-big-sale-on-refurbished-devices-befo-1850858167)
-- [Lifehacker] [Make This Easy Appetizer Board for Thanksgiving Dinner](https://lifehacker.com/easy-thanksgiving-appetizers-1845751654)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)<!-- TECH-POSTS:END -->
 
 ---
 
