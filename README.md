@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
+- [Dev.to/JS] [Very Simple way to handle requests](https://dev.to/mmvergara/supabase-way-of-handling-request-18mn)
+- [Dev.to/JS] [5 JavaScript Hacks Every Web Developer Should Know Part 1](https://dev.to/basimghouri/10-javascript-hacks-every-web-developer-should-know-oge)
+- [Dev.to/JS] [Difference between microtask and macrotask queue in the event loop](https://dev.to/jeetvora331/difference-between-microtask-and-macrotask-queue-in-the-event-loop-4i4i)
+- [Lifehacker] [Everything to Know About the New Microsoft Surfaces](https://lifehacker.com/everything-to-know-about-the-new-microsoft-surfaces-1850862595)
 - [Dev.to/JS] [Run Models in the Browser With Transformers.js](https://dev.to/kenzic/run-models-in-the-browser-with-transformersjs-7g8)
 - [Lifehacker] [You Should Make the Tiny Frozen Fried Eggs Reddit Hates](https://lifehacker.com/you-should-make-the-tiny-frozen-fried-eggs-reddit-hates-1850862675)
 - [Lifehacker] [How to Prevent and Manage Calluses From Lifting](https://lifehacker.com/how-to-prevent-and-manage-calluses-from-lifting-1836082994)
@@ -43,12 +48,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Labeled statements - the forgotten JS feature](https://dev.to/0x96f/labeled-statements-the-forgotten-js-feature-169o)
 - [Lifehacker] [The Best Ways to Use ‘Association’ to Remember What You Study](https://lifehacker.com/the-best-ways-to-use-association-to-remember-what-you-1850861942)
 - [Dev.to/JS] [How to build your embedded NativeScript app within the Xcode project](https://dev.to/tdermendjiev/how-to-build-your-embedded-nativescript-app-within-the-xcode-project-3jo0)
-- [Dev.to/JS] [Migrating from an Excel Gantt chart to a Bryntum Gantt chart](https://dev.to/bryntum/migrating-from-an-excel-gantt-chart-to-a-bryntum-gantt-chart-1j0e)
 - [Lifehacker] [You Can Save Up to $1,300 on Samsung’s Pricey ‘The Frame’ TVs Right Now](https://lifehacker.com/you-can-save-up-to-1-300-on-samsung-s-pricey-the-fram-1850861674)
 - [Lifehacker] [How to Share Games on Steam With Family Sharing](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)
-- [Dev.to/JS] [prueba de osttt](https://dev.to/placidovenegas/prueba-de-osttt-14h5)
 - [Lifehacker] [What People Are Getting Wrong This Week: Clara and Mauricio](https://lifehacker.com/what-people-are-getting-wrong-this-week-clara-and-maur-1850861241)
-- [Dev.to/JS] [Thoughts on Bun so far?](https://dev.to/sadeedpv/thoughts-on-bun-so-far-1dhk)
 - [Lifehacker] [The Biggest New Features in Microsoft&#39;s Upcoming Windows 11 23H2 Update](https://lifehacker.com/biggest-new-features-windows-11-23h2-update-1850860890)
 - [Lifehacker] [The Easiest Smoked Turkey Recipe Is Also the Best](https://lifehacker.com/smoke-your-turkey-the-wrong-way-on-a-charcoal-grill-1848048358)
 - [Lifehacker] [This Travel eSIM Card Comes With a $50 Credit for $22 Right Now](https://lifehacker.com/this-travel-esim-card-comes-with-a-50-credit-for-22-r-1850854986)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Pan-fried Dumplings Need a Crispy Skirt](https://lifehacker.com/easy-fried-dumpling-recipe-1850857713)
 - [Lifehacker] [A Beginner’s Guide to Sex Parties](https://lifehacker.com/a-beginner-s-guide-to-sex-parties-1850826250)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 21](https://lifehacker.com/connections-answer-today-september-21-2023-1850856309)
-- [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
-- [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
-- [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)<!-- TECH-POSTS:END -->
+- [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)<!-- TECH-POSTS:END -->
 
 ---
 
