@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Email Outreach : Sending Bulk Emails from Google Sheets Using Scripts](https://dev.to/drsimplegraffiti/email-outreach-sending-bulk-emails-from-google-sheets-using-scripts-16g2)
+- [Dev.to/JS] [🔥 Building a video chat app with screen-sharing and React hooks 🤯](https://dev.to/video-sdk/building-a-video-chat-app-with-screen-sharing-and-react-hooks-3mmg)
 - [Dev.to/JS] [Leveraging DatoCMS for streamlined business operations: A comprehensive guide](https://dev.to/dsalinasgardon/leveraging-datocmsfor-streamlined-business-operationsa-comprehensive-guide-ann)
 - [Dev.to/JS] [The World of Web Development: A Comprehensive Overview](https://dev.to/codewithshahan/the-world-of-web-development-a-comprehensive-overview-4i45)
 - [Dev.to/JS] [Comprehensive Guide to Vue.js 3 State Management with Vuex](https://dev.to/chintanonweb/comprehensive-guide-to-vuejs-3-state-management-with-vuex-1bo1)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Different approaches to Conditional Rendering in React.js and when to use which!](https://dev.to/anojtheva789/different-approaches-to-conditional-rendering-in-reactjs-and-when-to-use-which-2fkb)
 - [Dev.to/JS] [Basic Exercises in JavaScript | Reverse a string &lpar;7 different ways&rpar;](https://dev.to/pilag_/how-to-reverse-a-string-in-javascript-7-different-ways-2i5o)
 - [Dev.to/JS] [Vue is still the only framework capable of this](https://dev.to/michalkuncio/vue-is-still-the-only-framework-capable-of-this-16km)
-- [Dev.to/JS] [A few things about regular expressions in JavaScript](https://dev.to/artxe2/a-few-things-about-regular-expressions-in-javascript-41k2)
-- [Dev.to/JS] [How to Handle ElementClickInterceptedException in Selenium Java](https://dev.to/lambdatest/how-to-handle-elementclickinterceptedexception-in-selenium-java-5bac)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
 - [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)
