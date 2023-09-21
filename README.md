@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Does anyone want to work with a Korean company?](https://dev.to/peykorea/does-anyone-want-to-work-with-a-korean-company-439)
+- [Dev.to/JS] [Apa itu Bun dan cara install Bun di Linux, Mac dan Windows](https://dev.to/meshwara/apa-itu-bun-dan-cara-install-bun-di-linux-mac-dan-windows-2ii3)
+- [Dev.to/JS] [JavaScript Callbacks](https://dev.to/shriharimurali/javascript-callbacks-36gj)
 - [Dev.to/JS] [JavaScript Magic Tricks: Steganography](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-steganography-2108)
 - [Dev.to/JS] [Bun is breaking other package managers](https://dev.to/aishanipach/bun-is-breaking-other-package-managers-4bhe)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
@@ -46,12 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This LG A2 4K OLED TV Is $650 Off Right Now](https://lifehacker.com/this-lg-a2-4k-oled-tv-is-650-off-right-now-1850856036)
 - [Dev.to/JS] [Falcon 180B vs. Llama 2: Who Wins the AI Battle?](https://dev.to/thenomadevel/falcon-180b-vs-llama-2-who-wins-the-ai-battle-2cj3)
 - [Lifehacker] [The Best Sales Google Is Offering for Its 25th Birthday](https://lifehacker.com/the-best-sales-google-is-offering-for-its-25th-birthday-1850854978)
-- [Dev.to/JS] [Using Yup to validate user input in a NestJS project](https://dev.to/dmitryvz/using-yup-to-validate-user-input-in-a-nestjs-project-3bhf)
 - [Lifehacker] [These Are the Condiments You Need for This Year’s Thanksgiving Dinner](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)
 - [Lifehacker] [Gym Chalk Is Your Secret Weapon for Lifting More Weight](https://lifehacker.com/gym-chalk-is-your-secret-weapon-for-lifting-more-weight-1850857195)
-- [Dev.to/JS] [Solve: react hook useEffect has a missing dependency](https://dev.to/reactjsguru/solve-react-hook-useeffect-has-a-missing-dependency-1p5b)
 - [Lifehacker] [How to Clean Your AirPods Max Without Damaging Them](https://lifehacker.com/how-to-clean-your-airpods-max-without-damaging-them-1850855676)
-- [Dev.to/JS] [Javascript concepts](https://dev.to/kartikg09/javascript-concepts-161g)
 - [Lifehacker] [This Hidden iPhone 15 Setting Can Save Your Battery](https://lifehacker.com/this-hidden-iphone-15-setting-can-save-your-battery-1850856552)
 - [Lifehacker] [The 20 Funniest Comedies on Netflix Right Now](https://lifehacker.com/best-comedies-netflix-1850849503)
 - [Lifehacker] [Summarize Your Class Notes With the ’GIST&#39; Method](https://lifehacker.com/how-to-use-the-gist-study-method-1850855542)
