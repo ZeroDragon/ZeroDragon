@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Should You Pair Signals &amp; OnPush?](https://dev.to/this-is-angular/should-you-pair-signals-onpush-1jko)
+- [Dev.to/JS] [Applying laziness to the extreme: A new code generator for Node.js](https://dev.to/iwaduarte/applying-laziness-to-the-extreme-a-new-code-generator-for-nodejs-5406)
+- [Dev.to/JS] [Day 53: Deep Readonly](https://dev.to/dhrn/day-53-deep-readonly-1fea)
+- [Lifehacker] [Free At-Home COVID Tests Are Coming Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
+- [Dev.to/JS] [JavaScript Web APIs Series: Document Object Model APIs](https://dev.to/olodocoder/javascript-web-apis-series-document-object-model-apis-5ef0)
+- [Dev.to/JS] [Simplicity vs Performance: How to transition between the background color and an image](https://dev.to/iwaduarte/simplicity-vs-performance-how-to-transition-between-the-background-color-and-an-image-o8l)
+- [Lifehacker] [Why Leasing an Electric Vehicle Still Probably Isn&#39;t Worth It](https://lifehacker.com/why-leasing-an-electric-vehicle-still-probably-isnt-wor-1850829610)
 - [Dev.to/JS] [Realtime downloads statistics html javascript, ApexCharts 😎](https://dev.to/amr2018/realtime-downloads-statistics-html-javascript-apexcharts-2am7)
 - [Lifehacker] [These Open-Ear Wireless Conduction Headphones Are $34 Right Now](https://lifehacker.com/these-open-ear-wireless-conduction-headphones-are-34-r-1850850886)
 - [Dev.to/JS] [Episode 23/37: ISR in Angular, Cypress &amp; Playwright](https://dev.to/this-is-angular/episode-2337-isr-in-angular-cypress-playwright-4b4o)
@@ -37,14 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create an Amazin chart with ApexCharts.](https://dev.to/amr2018/create-an-amazin-chart-with-apexcharts-14hh)
 - [Lifehacker] [You Should Claim Your Part of the Fortnite FTC Settlement](https://lifehacker.com/fortnite-ftc-settlement-claim-1850858900)
 - [Dev.to/JS] [Working of Garbage Collection in JavaScript: Under the Hood ✨](https://dev.to/thebuildguy/working-of-garbage-collection-in-javascript-under-the-hood-231e)
-- [Dev.to/JS] [Building a Complete Weather App from Scratch with HTML, CSS, and JavaScript: A Step-by-Step Guide](https://dev.to/iamcymentho/building-a-complete-weather-app-from-scratch-with-html-css-and-javascript-a-step-by-step-guide-30h4)
 - [Lifehacker] [How You Can Try ChatGPT’s New Image Generator](https://lifehacker.com/how-you-can-try-chatgpt-s-new-image-generator-1850858864)
-- [Dev.to/JS] [A Step-by-Step Guide to Using ElephantSQL with Node.js and Express](https://dev.to/fredabod/a-step-by-step-guide-to-using-elephantsql-with-nodejs-and-express-2e9f)
 - [Lifehacker] [How to Start Indoor Gardening This Winter](https://lifehacker.com/how-to-start-indoor-gardening-this-winter-1850857776)
-- [Dev.to/JS] [Android Application&lpar;Shot badges notification&rpar;](https://dev.to/divyanshu142/android-applicationshot-badges-notification-3bgb)
-- [Dev.to/JS] [Android Application&lpar;Shot badges notification&rpar;](https://dev.to/divyanshu142/android-applicationshot-badges-notification-1np3)
 - [Lifehacker] [Your Pan-fried Dumplings Need a Crispy Skirt](https://lifehacker.com/easy-fried-dumpling-recipe-1850857713)
-- [Dev.to/JS] [Building A Secure Note-Taking App: With HTML, CSS, and Javascript](https://dev.to/scofieldidehen/building-a-secure-note-taking-app-with-html-css-and-javascript-1o59)
 - [Lifehacker] [A Beginner’s Guide to Sex Parties](https://lifehacker.com/a-beginner-s-guide-to-sex-parties-1850826250)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Hidden iPhone 15 Setting Can Save Your Battery](https://lifehacker.com/this-hidden-iphone-15-setting-can-save-your-battery-1850856552)
 - [Lifehacker] [The 20 Funniest Comedies on Netflix Right Now](https://lifehacker.com/best-comedies-netflix-1850849503)
 - [Lifehacker] [Summarize Your Class Notes With the ’GIST&#39; Method](https://lifehacker.com/how-to-use-the-gist-study-method-1850855542)
-- [Lifehacker] [This 17-Inch LG Laptop Is $800 Off for Today Only](https://lifehacker.com/this-17-inch-lg-laptop-is-800-off-today-only-1850856914)
-- [Lifehacker] [These Are the Best Fall Cleaning Tools](https://lifehacker.com/these-are-the-best-fall-cleaning-tools-1850856721)
-- [Lifehacker] [You Can Make Funnel Cake With Pancake Mix](https://lifehacker.com/you-can-make-funnel-cake-with-pancake-mix-1850853970)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 17-Inch LG Laptop Is $800 Off for Today Only](https://lifehacker.com/this-17-inch-lg-laptop-is-800-off-today-only-1850856914)<!-- TECH-POSTS:END -->
 
 ---
 
