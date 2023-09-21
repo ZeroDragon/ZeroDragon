@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue is still the only framework capable of this](https://dev.to/michalkuncio/vue-is-still-the-only-framework-capable-of-this-16km)
+- [Dev.to/JS] [A few things about regular expressions in JavaScript](https://dev.to/artxe2/a-few-things-about-regular-expressions-in-javascript-41k2)
+- [Dev.to/JS] [How to Handle ElementClickInterceptedException in Selenium Java](https://dev.to/lambdatest/how-to-handle-elementclickinterceptedexception-in-selenium-java-5bac)
 - [Dev.to/JS] [Top 5 Js Frameworks](https://dev.to/hasanelsherbiny/top-5-js-frameworks-1ge3)
 - [Dev.to/JS] [10 common React Js interview questions.](https://dev.to/mahfuzurrahman01/10-common-react-js-interview-questions-2chd)
 - [Dev.to/JS] [How Much Does React Native App Development Costs?](https://dev.to/bradlyhammer/how-much-does-react-native-app-development-costs-4fi9)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Algorithms: 8 Common Challenges and Solutions in JavaScript](https://dev.to/frantchessico/mastering-algorithms-8-common-challenges-and-solutions-in-javascript-2kkf)
 - [Dev.to/JS] [20 VS Code Extensions pilihan untuk Web/Frontend Developer/Programmer 2023](https://dev.to/meshwara/20-vs-code-extensions-pilihan-untuk-webfrontend-developerprogrammer-2023-1087)
 - [Dev.to/JS] [Apa itu Bun dan cara install Bun di Linux, Mac dan Windows](https://dev.to/meshwara/apa-itu-bun-dan-cara-install-bun-di-linux-mac-dan-windows-4378)
-- [Dev.to/JS] [Does anyone want to work with a Korean company?](https://dev.to/peykorea/does-anyone-want-to-work-with-a-korean-company-439)
-- [Dev.to/JS] [JavaScript Callbacks](https://dev.to/shriharimurali/javascript-callbacks-36gj)
-- [Dev.to/JS] [JavaScript Magic Tricks: Steganography](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-steganography-2108)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
 - [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)
