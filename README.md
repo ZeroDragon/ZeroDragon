@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working of Garbage Collection in JavaScript: Under the Hood ✨](https://dev.to/thebuildguy/working-of-garbage-collection-in-javascript-under-the-hood-231e)
+- [Dev.to/JS] [Building a Complete Weather App from Scratch with HTML, CSS, and JavaScript: A Step-by-Step Guide](https://dev.to/iamcymentho/building-a-complete-weather-app-from-scratch-with-html-css-and-javascript-a-step-by-step-guide-30h4)
+- [Lifehacker] [How You Can Try ChatGPT’s New Image Generator](https://lifehacker.com/how-you-can-try-chatgpt-s-new-image-generator-1850858864)
+- [Dev.to/JS] [A Step-by-Step Guide to Using ElephantSQL with Node.js and Express](https://dev.to/fredabod/a-step-by-step-guide-to-using-elephantsql-with-nodejs-and-express-2e9f)
+- [Lifehacker] [How to Start Indoor Gardening This Winter](https://lifehacker.com/how-to-start-indoor-gardening-this-winter-1850857776)
 - [Dev.to/JS] [Android Application&lpar;Shot badges notification&rpar;](https://dev.to/divyanshu142/android-applicationshot-badges-notification-3bgb)
-- [Dev.to/JS] [prueba de post](https://dev.to/placidovenegas/prueba-de-post-31gk)
 - [Dev.to/JS] [Android Application&lpar;Shot badges notification&rpar;](https://dev.to/divyanshu142/android-applicationshot-badges-notification-1np3)
 - [Lifehacker] [Your Pan-fried Dumplings Need a Crispy Skirt](https://lifehacker.com/easy-fried-dumpling-recipe-1850857713)
 - [Dev.to/JS] [Building A Secure Note-Taking App: With HTML, CSS, and Javascript](https://dev.to/scofieldidehen/building-a-secure-note-taking-app-with-html-css-and-javascript-1o59)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leveraging DatoCMS for streamlined business operations: A comprehensive guide](https://dev.to/dsalinasgardon/leveraging-datocmsfor-streamlined-business-operationsa-comprehensive-guide-ann)
 - [Dev.to/JS] [The World of Web Development: A Comprehensive Overview](https://dev.to/codewithshahan/the-world-of-web-development-a-comprehensive-overview-4i45)
 - [Dev.to/JS] [Comprehensive Guide to Vue.js 3 State Management with Vuex](https://dev.to/chintanonweb/comprehensive-guide-to-vuejs-3-state-management-with-vuex-1bo1)
-- [Dev.to/JS] [Project-wide Refactor: JavaScript to TypeScript Migration](https://dev.to/codelink/project-wide-refactor-javascript-to-typescript-migration-2kmh)
-- [Dev.to/JS] [Human Resources Diagram: What It Is and How to Build the Most Proper One for Your Team](https://dev.to/plazarev/human-resources-diagram-what-it-is-and-how-to-build-the-most-proper-one-for-your-team-34db)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
 - [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Blink 4 Is a Worthwhile Entry-Level Wireless Security Camera](https://lifehacker.com/blink-outdoor-4-security-camera-review-1850855801)
 - [Lifehacker] [This Six-Night Trip to Italy Is $699 Right Now](https://lifehacker.com/this-six-night-trip-to-italy-is-699-right-now-1850854333)
 - [Lifehacker] [This CarPlay Display and Dashcam Combo Is $150 Off Right Now](https://lifehacker.com/this-carplay-display-and-dashcam-combo-is-150-off-righ-1850854048)
-- [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)
-- [Lifehacker] [How to Not Spend a Fortune on Your Kids’ Extracurricular Activities](https://lifehacker.com/how-to-not-spend-a-fortune-on-your-kids-extracurricula-1850852736)
-- [Crazy Programmer] [How to Prepare for Data Scientist Interview in 2023?](https://www.thecrazyprogrammer.com/2023/09/how-to-prepare-for-data-scientist-interview.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)<!-- TECH-POSTS:END -->
 
 ---
 
