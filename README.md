@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 common React Js interview questions.](https://dev.to/mahfuzurrahman01/10-common-react-js-interview-questions-2chd)
 - [Dev.to/JS] [How Much Does React Native App Development Costs?](https://dev.to/bradlyhammer/how-much-does-react-native-app-development-costs-4fi9)
 - [Dev.to/JS] [What is Salesforce Pardot? Overview and Benefits](https://dev.to/tech9logycreators/what-is-salesforce-pardot-overview-and-benefits-247g)
 - [Dev.to/JS] [Flabbergasted – SaaS Multipage theme.](https://dev.to/lexingtonthemes/flabbergasted-saas-multipage-theme-2ckc)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
 - [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)
 - [Lifehacker] [How to Study in a Group &lpar;If You Must&rpar;](https://lifehacker.com/how-to-study-in-a-group-if-you-must-1850857034)
-- [Dev.to/JS] [Easy AI Checker vs. Copyleaks | Which one is the most accurate?](https://dev.to/companionlink/easy-ai-checker-vs-copyleaks-which-one-is-the-most-accurate-470f)
 - [Lifehacker] [Amazon Is Having a Big Sale on Refurbished Devices Before Their Fall Launch](https://lifehacker.com/amazon-is-having-a-big-sale-on-refurbished-devices-befo-1850858167)
 - [Lifehacker] [Make This Easy Appetizer Board for Thanksgiving Dinner](https://lifehacker.com/easy-thanksgiving-appetizers-1845751654)
 - [Lifehacker] [Why It&#39;s Never Been More Important to Have a Good Credit Score](https://lifehacker.com/why-its-never-been-more-important-to-have-a-good-credit-1850857840)
