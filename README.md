@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Realtime downloads statistics html javascript, ApexCharts 😎](https://dev.to/amr2018/realtime-downloads-statistics-html-javascript-apexcharts-2am7)
+- [Lifehacker] [These Open-Ear Wireless Conduction Headphones Are $34 Right Now](https://lifehacker.com/these-open-ear-wireless-conduction-headphones-are-34-r-1850850886)
+- [Dev.to/JS] [Episode 23/37: ISR in Angular, Cypress &amp; Playwright](https://dev.to/this-is-angular/episode-2337-isr-in-angular-cypress-playwright-4b4o)
+- [Dev.to/JS] [Pick peaks&quot;Code Wars&quot;](https://dev.to/richeskelechi/pick-peakscode-wars-d63)
+- [Dev.to/JS] [11 Best Free Software Testing Online Courses for Beginners](https://dev.to/lambdatest/11-best-free-software-testing-online-courses-for-beginners-77a)
 - [Dev.to/JS] [Bun vs Node.js: Everything you need to know](https://dev.to/builderio/bun-vs-nodejs-everything-you-need-to-know-4l66)
 - [Lifehacker] [Your iPhone Can Now Find Your Apple TV Remote](https://lifehacker.com/your-iphone-can-now-find-your-apple-tv-remote-1850860249)
 - [Lifehacker] [Everything You Should Know About iOS 17](https://lifehacker.com/iphone-ios-17-review-1850859158)
@@ -40,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Android Application&lpar;Shot badges notification&rpar;](https://dev.to/divyanshu142/android-applicationshot-badges-notification-1np3)
 - [Lifehacker] [Your Pan-fried Dumplings Need a Crispy Skirt](https://lifehacker.com/easy-fried-dumpling-recipe-1850857713)
 - [Dev.to/JS] [Building A Secure Note-Taking App: With HTML, CSS, and Javascript](https://dev.to/scofieldidehen/building-a-secure-note-taking-app-with-html-css-and-javascript-1o59)
-- [Dev.to/JS] [&quot;The Cathedral and the Bazaar&quot;: A Deep Dive into Open Source Philosophy](https://dev.to/opensourcee/the-cathedral-and-the-bazaar-a-deep-dive-into-open-source-philosophy-3n0a)
 - [Lifehacker] [A Beginner’s Guide to Sex Parties](https://lifehacker.com/a-beginner-s-guide-to-sex-parties-1850826250)
-- [Dev.to/JS] [Email Outreach : Sending Bulk Emails from Google Sheets Using Scripts](https://dev.to/drsimplegraffiti/email-outreach-sending-bulk-emails-from-google-sheets-using-scripts-16g2)
-- [Dev.to/JS] [🔥 Building a video chat app with screen-sharing and React hooks 🤯](https://dev.to/video-sdk/building-a-video-chat-app-with-screen-sharing-and-react-hooks-3mmg)
-- [Dev.to/JS] [Leveraging DatoCMS for streamlined business operations: A comprehensive guide](https://dev.to/dsalinasgardon/leveraging-datocmsfor-streamlined-business-operationsa-comprehensive-guide-ann)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
 - [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Summarize Your Class Notes With the ’GIST&#39; Method](https://lifehacker.com/how-to-use-the-gist-study-method-1850855542)
 - [Lifehacker] [This 17-Inch LG Laptop Is $800 Off for Today Only](https://lifehacker.com/this-17-inch-lg-laptop-is-800-off-today-only-1850856914)
 - [Lifehacker] [These Are the Best Fall Cleaning Tools](https://lifehacker.com/these-are-the-best-fall-cleaning-tools-1850856721)
-- [Lifehacker] [You Can Make Funnel Cake With Pancake Mix](https://lifehacker.com/you-can-make-funnel-cake-with-pancake-mix-1850853970)
-- [Lifehacker] [The Blink 4 Is a Worthwhile Entry-Level Wireless Security Camera](https://lifehacker.com/blink-outdoor-4-security-camera-review-1850855801)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Funnel Cake With Pancake Mix](https://lifehacker.com/you-can-make-funnel-cake-with-pancake-mix-1850853970)<!-- TECH-POSTS:END -->
 
 ---
 
