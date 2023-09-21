@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Different approaches to Conditional Rendering in React.js and when to use which!](https://dev.to/anojtheva789/different-approaches-to-conditional-rendering-in-reactjs-and-when-to-use-which-2fkb)
+- [Dev.to/JS] [Basic Exercises in JavaScript | Reverse a string &lpar;7 different ways&rpar;](https://dev.to/pilag_/how-to-reverse-a-string-in-javascript-7-different-ways-2i5o)
 - [Dev.to/JS] [Vue is still the only framework capable of this](https://dev.to/michalkuncio/vue-is-still-the-only-framework-capable-of-this-16km)
 - [Dev.to/JS] [A few things about regular expressions in JavaScript](https://dev.to/artxe2/a-few-things-about-regular-expressions-in-javascript-41k2)
 - [Dev.to/JS] [How to Handle ElementClickInterceptedException in Selenium Java](https://dev.to/lambdatest/how-to-handle-elementclickinterceptedexception-in-selenium-java-5bac)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flabbergasted – SaaS Multipage theme.](https://dev.to/lexingtonthemes/flabbergasted-saas-multipage-theme-2ckc)
 - [Dev.to/JS] [I need a urgent love spell caster to help bring back ex whatsapp +2349013982681](https://dev.to/tbestrobert/i-need-a-urgent-love-spell-caster-to-help-bring-back-ex-whatsapp-2349013982681-2e67)
 - [Dev.to/JS] [Mastering Algorithms: 8 Common Challenges and Solutions in JavaScript](https://dev.to/frantchessico/mastering-algorithms-8-common-challenges-and-solutions-in-javascript-2kkf)
-- [Dev.to/JS] [20 VS Code Extensions pilihan untuk Web/Frontend Developer/Programmer 2023](https://dev.to/meshwara/20-vs-code-extensions-pilihan-untuk-webfrontend-developerprogrammer-2023-1087)
-- [Dev.to/JS] [Apa itu Bun dan cara install Bun di Linux, Mac dan Windows](https://dev.to/meshwara/apa-itu-bun-dan-cara-install-bun-di-linux-mac-dan-windows-4378)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
 - [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)
