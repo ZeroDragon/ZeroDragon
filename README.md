@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Js Frameworks](https://dev.to/hasanelsherbiny/top-5-js-frameworks-1ge3)
 - [Dev.to/JS] [10 common React Js interview questions.](https://dev.to/mahfuzurrahman01/10-common-react-js-interview-questions-2chd)
 - [Dev.to/JS] [How Much Does React Native App Development Costs?](https://dev.to/bradlyhammer/how-much-does-react-native-app-development-costs-4fi9)
 - [Dev.to/JS] [What is Salesforce Pardot? Overview and Benefits](https://dev.to/tech9logycreators/what-is-salesforce-pardot-overview-and-benefits-247g)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Does anyone want to work with a Korean company?](https://dev.to/peykorea/does-anyone-want-to-work-with-a-korean-company-439)
 - [Dev.to/JS] [JavaScript Callbacks](https://dev.to/shriharimurali/javascript-callbacks-36gj)
 - [Dev.to/JS] [JavaScript Magic Tricks: Steganography](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-steganography-2108)
-- [Dev.to/JS] [Bun is breaking other package managers](https://dev.to/aishanipach/bun-is-breaking-other-package-managers-4bhe)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
 - [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)
