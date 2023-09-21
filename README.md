@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Android Application&lpar;Shot badges notification&rpar;](https://dev.to/divyanshu142/android-applicationshot-badges-notification-3bgb)
+- [Dev.to/JS] [prueba de post](https://dev.to/placidovenegas/prueba-de-post-31gk)
+- [Dev.to/JS] [Android Application&lpar;Shot badges notification&rpar;](https://dev.to/divyanshu142/android-applicationshot-badges-notification-1np3)
+- [Lifehacker] [Your Pan-fried Dumplings Need a Crispy Skirt](https://lifehacker.com/easy-fried-dumpling-recipe-1850857713)
+- [Dev.to/JS] [Building A Secure Note-Taking App: With HTML, CSS, and Javascript](https://dev.to/scofieldidehen/building-a-secure-note-taking-app-with-html-css-and-javascript-1o59)
+- [Dev.to/JS] [&quot;The Cathedral and the Bazaar&quot;: A Deep Dive into Open Source Philosophy](https://dev.to/opensourcee/the-cathedral-and-the-bazaar-a-deep-dive-into-open-source-philosophy-3n0a)
+- [Lifehacker] [A Beginner’s Guide to Sex Parties](https://lifehacker.com/a-beginner-s-guide-to-sex-parties-1850826250)
 - [Dev.to/JS] [Email Outreach : Sending Bulk Emails from Google Sheets Using Scripts](https://dev.to/drsimplegraffiti/email-outreach-sending-bulk-emails-from-google-sheets-using-scripts-16g2)
 - [Dev.to/JS] [🔥 Building a video chat app with screen-sharing and React hooks 🤯](https://dev.to/video-sdk/building-a-video-chat-app-with-screen-sharing-and-react-hooks-3mmg)
 - [Dev.to/JS] [Leveraging DatoCMS for streamlined business operations: A comprehensive guide](https://dev.to/dsalinasgardon/leveraging-datocmsfor-streamlined-business-operationsa-comprehensive-guide-ann)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Comprehensive Guide to Vue.js 3 State Management with Vuex](https://dev.to/chintanonweb/comprehensive-guide-to-vuejs-3-state-management-with-vuex-1bo1)
 - [Dev.to/JS] [Project-wide Refactor: JavaScript to TypeScript Migration](https://dev.to/codelink/project-wide-refactor-javascript-to-typescript-migration-2kmh)
 - [Dev.to/JS] [Human Resources Diagram: What It Is and How to Build the Most Proper One for Your Team](https://dev.to/plazarev/human-resources-diagram-what-it-is-and-how-to-build-the-most-proper-one-for-your-team-34db)
-- [Dev.to/JS] [#LearnedToday: Web Workers](https://dev.to/danielzotti/learnedtoday-web-workers-4kkb)
-- [Dev.to/JS] [Introducing Bun 1.0: A Game-Changer in Web Development](https://dev.to/pasindu_anuhas/introducing-bun-10-a-game-changer-in-web-development-4cml)
-- [Dev.to/JS] [Different approaches to Conditional Rendering in React.js and when to use which!](https://dev.to/anojtheva789/different-approaches-to-conditional-rendering-in-reactjs-and-when-to-use-which-2fkb)
-- [Dev.to/JS] [Basic Exercises in JavaScript | Reverse a string &lpar;7 different ways&rpar;](https://dev.to/pilag_/how-to-reverse-a-string-in-javascript-7-different-ways-2i5o)
-- [Dev.to/JS] [Vue is still the only framework capable of this](https://dev.to/michalkuncio/vue-is-still-the-only-framework-capable-of-this-16km)
 - [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)
 - [Lifehacker] [Make a Booze-free Pan Sauce With Coca-Cola and Vinegar](https://lifehacker.com/easy-non-alcoholic-pan-sauce-coke-vinegar-1850858704)
 - [Lifehacker] [The Propella 7S Is a Better-Looking Budget E-bike](https://lifehacker.com/propella-7s-ebike-review-1850858073)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This CarPlay Display and Dashcam Combo Is $150 Off Right Now](https://lifehacker.com/this-carplay-display-and-dashcam-combo-is-150-off-righ-1850854048)
 - [Lifehacker] [Why Fall Is the Best Time to Power Wash Outside](https://lifehacker.com/why-fall-is-the-best-time-to-power-wash-outside-1850853383)
 - [Lifehacker] [How to Not Spend a Fortune on Your Kids’ Extracurricular Activities](https://lifehacker.com/how-to-not-spend-a-fortune-on-your-kids-extracurricula-1850852736)
-- [Crazy Programmer] [How to Prepare for Data Scientist Interview in 2023?](https://www.thecrazyprogrammer.com/2023/09/how-to-prepare-for-data-scientist-interview.html)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Wednesday, September 20](https://lifehacker.com/connections-answer-today-september-20-2023-1850852268)
-- [Lifehacker] [You Can Save $500 on the New Samsung Odyssey Neo G9 57-Inch Gaming Monitor](https://lifehacker.com/you-can-save-500-on-the-new-samsung-odyssey-neo-g9-57-1850852797)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [How to Prepare for Data Scientist Interview in 2023?](https://www.thecrazyprogrammer.com/2023/09/how-to-prepare-for-data-scientist-interview.html)<!-- TECH-POSTS:END -->
 
 ---
 
