@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Desk Lamps Under $40](https://lifehacker.com/the-best-desk-lamps-under-40-1850862097)
+- [Dev.to/JS] [What is Strict Mode in JavaScript?](https://dev.to/catherineisonline/what-is-strict-mode-in-javascript-phn)
+- [Lifehacker] [iOS 17 Has Security Risks Already](https://lifehacker.com/ios-17-has-security-risks-already-1850861877)
+- [Dev.to/JS] [VueJS part 4: Rendering in loop](https://dev.to/hi_iam_chris/vuejs-part-4-rendering-in-loop-n84)
+- [Lifehacker] [Your Pancakes Need Apple Cider Syrup](https://lifehacker.com/apple-cider-recipe-1849782079)
+- [Dev.to/JS] [Labeled statements - the forgotten JS feature](https://dev.to/0x96f/labeled-statements-the-forgotten-js-feature-169o)
+- [Lifehacker] [The Best Ways to Use ‘Association’ to Remember What You Study](https://lifehacker.com/the-best-ways-to-use-association-to-remember-what-you-1850861942)
 - [Dev.to/JS] [How to build your embedded NativeScript app within the Xcode project](https://dev.to/tdermendjiev/how-to-build-your-embedded-nativescript-app-within-the-xcode-project-3jo0)
 - [Dev.to/JS] [Migrating from an Excel Gantt chart to a Bryntum Gantt chart](https://dev.to/bryntum/migrating-from-an-excel-gantt-chart-to-a-bryntum-gantt-chart-1j0e)
 - [Lifehacker] [You Can Save Up to $1,300 on Samsung’s Pricey ‘The Frame’ TVs Right Now](https://lifehacker.com/you-can-save-up-to-1-300-on-samsung-s-pricey-the-fram-1850861674)
@@ -42,11 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 53: Deep Readonly](https://dev.to/dhrn/day-53-deep-readonly-1fea)
 - [Lifehacker] [Free At-Home COVID Tests Are Coming Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
 - [Dev.to/JS] [JavaScript Web APIs Series: Document Object Model APIs](https://dev.to/olodocoder/javascript-web-apis-series-document-object-model-apis-5ef0)
-- [Dev.to/JS] [Simplicity vs Performance: How to transition between the background color and an image](https://dev.to/iwaduarte/simplicity-vs-performance-how-to-transition-between-the-background-color-and-an-image-o8l)
 - [Lifehacker] [Why Leasing an Electric Vehicle Still Probably Isn&#39;t Worth It](https://lifehacker.com/why-leasing-an-electric-vehicle-still-probably-isnt-wor-1850829610)
-- [Dev.to/JS] [Realtime downloads statistics html javascript, ApexCharts 😎](https://dev.to/amr2018/realtime-downloads-statistics-html-javascript-apexcharts-2am7)
 - [Lifehacker] [These Open-Ear Wireless Conduction Headphones Are $34 Right Now](https://lifehacker.com/these-open-ear-wireless-conduction-headphones-are-34-r-1850850886)
-- [Dev.to/JS] [Episode 23/37: ISR in Angular, Cypress &amp; Playwright](https://dev.to/this-is-angular/episode-2337-isr-in-angular-cypress-playwright-4b4o)
 - [Lifehacker] [Your iPhone Can Now Find Your Apple TV Remote](https://lifehacker.com/your-iphone-can-now-find-your-apple-tv-remote-1850860249)
 - [Lifehacker] [Everything You Should Know About iOS 17](https://lifehacker.com/iphone-ios-17-review-1850859158)
 - [Lifehacker] [You Should Claim Your Part of the Fortnite FTC Settlement](https://lifehacker.com/fortnite-ftc-settlement-claim-1850858900)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Is Having a Big Sale on Refurbished Devices Before Their Fall Launch](https://lifehacker.com/amazon-is-having-a-big-sale-on-refurbished-devices-befo-1850858167)
 - [Lifehacker] [Make This Easy Appetizer Board for Thanksgiving Dinner](https://lifehacker.com/easy-thanksgiving-appetizers-1845751654)
 - [Lifehacker] [Why It&#39;s Never Been More Important to Have a Good Credit Score](https://lifehacker.com/why-its-never-been-more-important-to-have-a-good-credit-1850857840)
-- [Lifehacker] [You Can Get a Lifetime Babbel Subscription for $170 Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-170-rig-1850850936)
-- [Lifehacker] [How to See How Many Times You’ve Charged Your iPhone](https://lifehacker.com/check-iphone-battery-health-1847386877)
-- [Lifehacker] [This LG A2 4K OLED TV Is $650 Off Right Now](https://lifehacker.com/this-lg-a2-4k-oled-tv-is-650-off-right-now-1850856036)
-- [Lifehacker] [The Best Sales Google Is Offering for Its 25th Birthday](https://lifehacker.com/the-best-sales-google-is-offering-for-its-25th-birthday-1850854978)
-- [Lifehacker] [These Are the Condiments You Need for This Year’s Thanksgiving Dinner](https://lifehacker.com/12-unusual-condiments-that-will-maximize-your-thanksgiv-1849790619)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Lifetime Babbel Subscription for $170 Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-170-rig-1850850936)<!-- TECH-POSTS:END -->
 
 ---
 
