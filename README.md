@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Odin Tabs: A GPT-Powered Chrome Extension for Effortless Tab Navigation 🗣️](https://dev.to/leonid20000/introducing-odin-tabs-a-gpt-powered-chrome-extension-for-effortless-tab-navigation-3m2o)
+- [Dev.to/JS] [Implementing Catching Monsters On My JavaScript Game](https://dev.to/anradev/implementing-catching-monsters-on-my-javascript-game-2kpj)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
 - [Dev.to/JS] [Force Enable Copy and Paste on Websites! JavaScript Bookmarklet](https://dev.to/ahandsel/force-enable-copy-and-paste-on-websites-javascript-bookmarklet-414d)
 - [Dev.to/JS] [JavaScript Magic Tricks: Ajax hacking](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-ajax-hacking-1o0j)
@@ -45,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Art of Exceptional Customer Service: A Guide to Delighting Customers](https://dev.to/allen121/art-of-exceptional-customer-service-a-guide-to-delighting-customers-1d87)
 - [Dev.to/JS] [[Bun 1.0] Alternatives for NPM?](https://dev.to/worldgoit/bun-10-alternatives-for-npm-3047)
 - [Lifehacker] [The Best Desk Lamps Under $40](https://lifehacker.com/the-best-desk-lamps-under-40-1850862097)
-- [Dev.to/JS] [What is Strict Mode in JavaScript?](https://dev.to/catherineisonline/what-is-strict-mode-in-javascript-phn)
 - [Lifehacker] [iOS 17 Has Security Risks Already](https://lifehacker.com/ios-17-has-security-risks-already-1850861877)
-- [Dev.to/JS] [VueJS part 4: Rendering in loop](https://dev.to/hi_iam_chris/vuejs-part-4-rendering-in-loop-n84)
 - [Lifehacker] [Your Pancakes Need Apple Cider Syrup](https://lifehacker.com/apple-cider-recipe-1849782079)
 - [Lifehacker] [The Best Ways to Use ‘Association’ to Remember What You Study](https://lifehacker.com/the-best-ways-to-use-association-to-remember-what-you-1850861942)
 - [Lifehacker] [You Can Save Up to $1,300 on Samsung’s Pricey ‘The Frame’ TVs Right Now](https://lifehacker.com/you-can-save-up-to-1-300-on-samsung-s-pricey-the-fram-1850861674)
