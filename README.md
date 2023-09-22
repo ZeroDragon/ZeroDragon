@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Convert a 2D array to an object in JavaScript](https://dev.to/victuk/convert-a-2d-array-to-an-object-in-javascript-3h32)
+- [Dev.to/JS] [AWS Lambda Meets Bun through SST 🐰: Prime Time or Just Prime Hype? 🥵](https://dev.to/slsbytheodo/aws-lambda-meets-bun-through-sst-prime-time-or-just-prime-hype-2pb2)
+- [Lifehacker] [Some iPhone 15s Are &#39;Breaking&#39; During Setup](https://lifehacker.com/some-iphone-15s-are-breaking-during-setup-1850864742)
+- [Dev.to/JS] [🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects](https://dev.to/valentinbeggi/the-best-serverless-framework-in-2023-a-data-driven-showdown-for-aws-projects-ga1)
+- [Lifehacker] [21 of the Best Action Movies on Netflix Right Now](https://lifehacker.com/the-best-action-movies-on-netflix-right-now-1850856583)
 - [Dev.to/JS] [Are you a React developer?](https://dev.to/trustacks/are-you-a-react-developer-327a)
 - [Dev.to/JS] [Did bun just killed Node &amp; Deno?](https://dev.to/kumarkalyan/did-bun-just-killed-node-deno-jf6)
 - [Dev.to/JS] [JavaScript vs. TypeScript for Open Source: Seeking the Community&#39;s Thoughts 🤔](https://dev.to/opensourcee/javascript-vs-typescript-seeking-the-communitys-thoughts-3e1o)
@@ -41,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a ‘Cheesy’ Dairy-free Sauce With Butternut Squash](https://lifehacker.com/make-a-cheesy-dairy-free-sauce-with-butternut-squash-1850862613)
 - [Dev.to/JS] [vuetify vs vite](https://dev.to/github2786/vuetify-vs-vite-cme)
 - [Dev.to/JS] [Mastering the For Loop in JavaScript](https://dev.to/shawn2208/mastering-the-for-loop-in-javascript-1i)
-- [Dev.to/JS] [Day 1: Mastering JavaScript Date and Time 📆](https://dev.to/shivamblog/day-1-mastering-javascript-date-and-time-1b9)
-- [Dev.to/JS] [Displaying Real-Time Day, Date, and Time in a Custom Format using JavaScript](https://dev.to/msnmongare/displaying-real-time-day-date-and-time-in-a-custom-format-using-javascript-5did)
-- [Dev.to/JS] [Moonly weekly progress update #64 - Announcement Catcher and Staking V2](https://dev.to/moonly/moonly-weekly-progress-update-64-announcement-catcher-and-staking-v2-2jol)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
 - [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Smoked Turkey Recipe Is Also the Best](https://lifehacker.com/smoke-your-turkey-the-wrong-way-on-a-charcoal-grill-1848048358)
 - [Lifehacker] [This Travel eSIM Card Comes With a $50 Credit for $22 Right Now](https://lifehacker.com/this-travel-esim-card-comes-with-a-50-credit-for-22-r-1850854986)
 - [Lifehacker] [Free At-Home COVID Tests Are Coming Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
-- [Lifehacker] [Why Leasing an Electric Vehicle Still Probably Isn&#39;t Worth It](https://lifehacker.com/why-leasing-an-electric-vehicle-still-probably-isnt-wor-1850829610)
-- [Lifehacker] [These Open-Ear Wireless Conduction Headphones Are $34 Right Now](https://lifehacker.com/these-open-ear-wireless-conduction-headphones-are-34-r-1850850886)
-- [Lifehacker] [Your iPhone Can Now Find Your Apple TV Remote](https://lifehacker.com/your-iphone-can-now-find-your-apple-tv-remote-1850860249)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Leasing an Electric Vehicle Still Probably Isn&#39;t Worth It](https://lifehacker.com/why-leasing-an-electric-vehicle-still-probably-isnt-wor-1850829610)<!-- TECH-POSTS:END -->
 
 ---
 
