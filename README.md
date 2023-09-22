@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Kraft Singles Are Being Recalled for a Pretty Silly Reason](https://lifehacker.com/kraft-singles-recall-1850865306)
+- [Dev.to/JS] [Mastering API Data Retrieval: Unleash the Potential of Your Content](https://dev.to/mobarakamir17/mastering-api-data-retrieval-unleash-the-potential-of-your-content-1ac4)
+- [Dev.to/JS] [🚀 Mastering the 10 Pillars of Front-End](https://dev.to/phanimurari/mastering-the-10-pillars-of-front-end-5fa)
+- [Lifehacker] [Microsoft Is Adding a Passkey Manager to Windows 11](https://lifehacker.com/microsoft-is-adding-a-passkey-manager-to-windows-11-1850865246)
+- [Dev.to/JS] [Build a language translator app powered by OpenAI](https://dev.to/gadget/build-a-language-translator-app-powered-by-openai-37n0)
 - [Dev.to/JS] [Inverting the Binary Magic: Making Sense of LeetCode 226](https://dev.to/speaklouder/inverting-the-binary-magic-making-sense-of-leetcode-226-27i4)
 - [Dev.to/JS] [Destructuring in JavaScript](https://dev.to/honeybadger/destructuring-in-javascript-2ep7)
 - [Lifehacker] [You Can Finally Share Your AirTag’s Location With Others](https://lifehacker.com/how-to-share-airtag-locations-1850865334)
@@ -41,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Exciting Projects for Junior Developers to Level Up Their Skills](https://dev.to/mahfuzurrahman01/10-exciting-projects-for-junior-developers-to-level-up-their-skills-1h5l)
 - [Dev.to/JS] [Binary Search with Invariants: Easy and Clear Approach](https://dev.to/neemkashu/binary-search-with-invariants-easy-and-clear-approach-1k8l)
 - [Lifehacker] [This Blink Wireless Security Camera Bundle Is 50% Off Today Only](https://lifehacker.com/this-blink-wireless-security-camera-bundle-is-50-off-t-1850864881)
-- [Dev.to/JS] [Convert a 2D array to an object in JavaScript](https://dev.to/victuk/convert-a-2d-array-to-an-object-in-javascript-3h32)
-- [Dev.to/JS] [AWS Lambda Meets Bun through SST 🐰: Prime Time or Just Prime Hype? 🥵](https://dev.to/slsbytheodo/aws-lambda-meets-bun-through-sst-prime-time-or-just-prime-hype-2pb2)
 - [Lifehacker] [Some iPhone 15s Are &#39;Breaking&#39; During Setup](https://lifehacker.com/some-iphone-15s-are-breaking-during-setup-1850864742)
-- [Dev.to/JS] [🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects](https://dev.to/valentinbeggi/the-best-serverless-framework-in-2023-a-data-driven-showdown-for-aws-projects-ga1)
 - [Lifehacker] [21 of the Best Action Movies on Netflix Right Now](https://lifehacker.com/the-best-action-movies-on-netflix-right-now-1850856583)
 - [Lifehacker] [The Best Premium Cases for the iPhone 15 and iPhone 15 Pro](https://lifehacker.com/the-best-premium-cases-for-the-iphone-15-and-iphone-15-1850864098)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Sneako, and Why Is He so Dangerous?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-sn-1850863771)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Desk Lamps Under $40](https://lifehacker.com/the-best-desk-lamps-under-40-1850862097)
 - [Lifehacker] [iOS 17 Has Security Risks Already](https://lifehacker.com/ios-17-has-security-risks-already-1850861877)
 - [Lifehacker] [Your Pancakes Need Apple Cider Syrup](https://lifehacker.com/apple-cider-recipe-1849782079)
-- [Lifehacker] [The Best Ways to Use ‘Association’ to Remember What You Study](https://lifehacker.com/the-best-ways-to-use-association-to-remember-what-you-1850861942)
-- [Lifehacker] [You Can Save Up to $1,300 on Samsung’s Pricey ‘The Frame’ TVs Right Now](https://lifehacker.com/you-can-save-up-to-1-300-on-samsung-s-pricey-the-fram-1850861674)
-- [Lifehacker] [How to Share Games on Steam With Family Sharing](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Use ‘Association’ to Remember What You Study](https://lifehacker.com/the-best-ways-to-use-association-to-remember-what-you-1850861942)<!-- TECH-POSTS:END -->
 
 ---
 
