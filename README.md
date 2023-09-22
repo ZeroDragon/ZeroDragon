@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why I&#39;m not using Supabase again](https://dev.to/andyrewlee/why-im-not-using-supabase-again-5aia)
+- [Dev.to/JS] [How to build AWS State Machines using AWS CDK - Part II](https://dev.to/aws-builders/how-to-build-aws-state-machines-using-aws-cdk-part-ii-4jme)
+- [Dev.to/JS] [How To add arguments to a launch configuration in vscode](https://dev.to/teaganga/how-to-add-arguments-to-a-launch-configuration-in-vscode-3jfk)
+- [Dev.to/JS] [Streamlining Nodejs Error Debugging with Errsole Debugger: Node.js](https://dev.to/mrrishimeena/nodejs-streamlining-error-debugging-with-errsole-debugger-1ipe)
+- [Dev.to/JS] [# &quot;JavaScript Closures: Demystified.&quot;](https://dev.to/muhd/-javascript-closures-demystified-3jda)
 - [Dev.to/JS] [What is a PWA? Progressive Web Apps for Beginners](https://dev.to/sparkouttech/what-is-a-pwa-progressive-web-apps-for-beginners-p3n)
 - [Dev.to/JS] [🐳 Docker for Nodejs Developers](https://dev.to/shameel/docker-for-nodejs-developers-5458)
 - [Dev.to/JS] [Get the last character of a string](https://dev.to/imsan/get-the-last-character-of-a-string-15ee)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 Smart Ways to Use Input Validation in Node.js](https://dev.to/sureshpattu/top-10-smart-ways-to-use-input-validation-in-nodejs-970)
 - [Dev.to/JS] [Esaver Watt - Reviews, Price, Results, Benefits &amp; How To Use?](https://dev.to/esaverwatt92207/esaver-watt-reviews-price-results-benefits-how-to-use-2b1j)
 - [Dev.to/JS] [Node creator says you should strive for simplicity.](https://dev.to/iwaduarte/node-creator-says-you-should-strive-for-simplicity-4j28)
-- [Dev.to/JS] [[AWS] Using API Gateway for S3 Uploads to Trigger Lambda Functions](https://dev.to/iwaduarte/aws-using-api-gateway-for-s3-uploads-to-trigger-lambda-functions-2edg)
-- [Dev.to/JS] [GPT 4 and Why it is Good for Chrome to Crumble](https://dev.to/iwaduarte/gpt-4-and-why-it-is-good-for-chrome-to-crumble-4bal)
-- [Dev.to/JS] [AWS developer skillset: Definition, Examples and Tips](https://dev.to/jessica89079831/aws-developer-skillset-definition-examples-and-tips-1ei1)
-- [Dev.to/JS] [Can self-taught programmers get jobs?](https://dev.to/codewithshahan/can-self-taught-programmers-get-jobs-4f4d)
-- [Dev.to/JS] [A Complete Guide To The 7 Phases of Web Development Life Cycle](https://dev.to/buildwithharis/a-complete-guide-to-the-7-phases-of-web-development-life-cycle-e45)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
 - [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
