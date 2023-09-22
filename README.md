@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Educational Toys for Toddlers](https://lifehacker.com/best-educational-toys-for-toddlers-1850862963)
 - [Lifehacker] [You Can Get a Refurbished Samsung Galaxy for Half Off Right Now](https://lifehacker.com/you-can-get-a-refurbished-samsung-galaxy-for-half-off-r-1850862916)
 - [Lifehacker] [Everything You Should Document Right Now for Next Year&#39;s Garden](https://lifehacker.com/everything-you-should-document-right-now-for-next-years-1850861009)
 - [Dev.to/JS] [Building a High-Performance Angular Application with Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/chintanonweb/building-a-high-performance-angular-application-with-incremental-static-regeneration-isr-ebb)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Open-Ear Wireless Conduction Headphones Are $34 Right Now](https://lifehacker.com/these-open-ear-wireless-conduction-headphones-are-34-r-1850850886)
 - [Lifehacker] [Your iPhone Can Now Find Your Apple TV Remote](https://lifehacker.com/your-iphone-can-now-find-your-apple-tv-remote-1850860249)
 - [Lifehacker] [Everything You Should Know About iOS 17](https://lifehacker.com/iphone-ios-17-review-1850859158)
-- [Lifehacker] [You Should Claim Your Part of the Fortnite FTC Settlement](https://lifehacker.com/fortnite-ftc-settlement-claim-1850858900)
-- [Lifehacker] [How You Can Try ChatGPT’s New Image Generator](https://lifehacker.com/how-you-can-try-chatgpt-s-new-image-generator-1850858864)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Claim Your Part of the Fortnite FTC Settlement](https://lifehacker.com/fortnite-ftc-settlement-claim-1850858900)<!-- TECH-POSTS:END -->
 
 ---
 
