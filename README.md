@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Are you a React developer?](https://dev.to/trustacks/are-you-a-react-developer-327a)
+- [Dev.to/JS] [Did bun just killed Node &amp; Deno?](https://dev.to/kumarkalyan/did-bun-just-killed-node-deno-jf6)
+- [Dev.to/JS] [JavaScript vs. TypeScript for Open Source: Seeking the Community&#39;s Thoughts 🤔](https://dev.to/opensourcee/javascript-vs-typescript-seeking-the-communitys-thoughts-3e1o)
+- [Dev.to/JS] [Unifying React Development: Patterns You Should Know](https://dev.to/karthik2265/unifying-react-development-patterns-you-should-know-3a4)
+- [Lifehacker] [The Best Premium Cases for the iPhone 15 and iPhone 15 Pro](https://lifehacker.com/the-best-premium-cases-for-the-iphone-15-and-iphone-15-1850864098)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Sneako, and Why Is He so Dangerous?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-sn-1850863771)
 - [Lifehacker] [These Are the Best Educational Toys for Toddlers](https://lifehacker.com/best-educational-toys-for-toddlers-1850862963)
 - [Lifehacker] [You Can Get a Refurbished Samsung Galaxy for Half Off Right Now](https://lifehacker.com/you-can-get-a-refurbished-samsung-galaxy-for-half-off-r-1850862916)
 - [Lifehacker] [Everything You Should Document Right Now for Next Year&#39;s Garden](https://lifehacker.com/everything-you-should-document-right-now-for-next-years-1850861009)
@@ -38,10 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 1: Mastering JavaScript Date and Time 📆](https://dev.to/shivamblog/day-1-mastering-javascript-date-and-time-1b9)
 - [Dev.to/JS] [Displaying Real-Time Day, Date, and Time in a Custom Format using JavaScript](https://dev.to/msnmongare/displaying-real-time-day-date-and-time-in-a-custom-format-using-javascript-5did)
 - [Dev.to/JS] [Moonly weekly progress update #64 - Announcement Catcher and Staking V2](https://dev.to/moonly/moonly-weekly-progress-update-64-announcement-catcher-and-staking-v2-2jol)
-- [Dev.to/JS] [5 CSS Tricks That Will Instantly Improve Your Design Skills](https://dev.to/jai7503556364/5-css-tricks-that-will-instantly-improve-your-design-skills-49m2)
-- [Dev.to/JS] [Angular + Webpack: An Overview](https://dev.to/nikhil6076/angular-webpack-an-overview-44n6)
-- [Dev.to/JS] [Building a Private 1 to 1 Chat System in Rails 7 with WebSockets &amp; Action Cable](https://dev.to/ghostly08/building-a-private-1-to-1-chat-system-in-rails-7-with-websockets-action-cable-5bj5)
-- [Dev.to/JS] [🔐Unlocking the Power of Nest.js: A Beginner&#39;s Guide to Building Scalable Node.js Applications🚀](https://dev.to/taquiimam14/unlocking-the-power-of-nestjs-a-beginners-guide-to-building-scalable-nodejs-applications-4edk)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
 - [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Free At-Home COVID Tests Are Coming Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
 - [Lifehacker] [Why Leasing an Electric Vehicle Still Probably Isn&#39;t Worth It](https://lifehacker.com/why-leasing-an-electric-vehicle-still-probably-isnt-wor-1850829610)
 - [Lifehacker] [These Open-Ear Wireless Conduction Headphones Are $34 Right Now](https://lifehacker.com/these-open-ear-wireless-conduction-headphones-are-34-r-1850850886)
-- [Lifehacker] [Your iPhone Can Now Find Your Apple TV Remote](https://lifehacker.com/your-iphone-can-now-find-your-apple-tv-remote-1850860249)
-- [Lifehacker] [Everything You Should Know About iOS 17](https://lifehacker.com/iphone-ios-17-review-1850859158)
-- [Lifehacker] [You Should Claim Your Part of the Fortnite FTC Settlement](https://lifehacker.com/fortnite-ftc-settlement-claim-1850858900)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your iPhone Can Now Find Your Apple TV Remote](https://lifehacker.com/your-iphone-can-now-find-your-apple-tv-remote-1850860249)<!-- TECH-POSTS:END -->
 
 ---
 
