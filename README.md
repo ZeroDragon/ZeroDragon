@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Displaying Real-Time Day, Date, and Time in a Custom Format using JavaScript](https://dev.to/msnmongare/displaying-real-time-day-date-and-time-in-a-custom-format-using-javascript-5did)
+- [Dev.to/JS] [Moonly weekly progress update #64 - Announcement Catcher and Staking V2](https://dev.to/moonly/moonly-weekly-progress-update-64-announcement-catcher-and-staking-v2-2jol)
+- [Dev.to/JS] [5 CSS Tricks That Will Instantly Improve Your Design Skills](https://dev.to/jai7503556364/5-css-tricks-that-will-instantly-improve-your-design-skills-49m2)
+- [Dev.to/JS] [Angular + Webpack: An Overview](https://dev.to/nikhil6076/angular-webpack-an-overview-44n6)
 - [Dev.to/JS] [Building a Private 1 to 1 Chat System in Rails 7 with WebSockets &amp; Action Cable](https://dev.to/ghostly08/building-a-private-1-to-1-chat-system-in-rails-7-with-websockets-action-cable-5bj5)
 - [Dev.to/JS] [🔐Unlocking the Power of Nest.js: A Beginner&#39;s Guide to Building Scalable Node.js Applications🚀](https://dev.to/taquiimam14/unlocking-the-power-of-nestjs-a-beginners-guide-to-building-scalable-nodejs-applications-4edk)
 - [Dev.to/JS] [Promise In Javascript](https://dev.to/harendra21/promise-in-javascript-4nl)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build AWS State Machines using AWS CDK - Part II](https://dev.to/aws-builders/how-to-build-aws-state-machines-using-aws-cdk-part-ii-4jme)
 - [Dev.to/JS] [How To add arguments to a launch configuration in vscode](https://dev.to/teaganga/how-to-add-arguments-to-a-launch-configuration-in-vscode-3jfk)
 - [Dev.to/JS] [Streamlining Nodejs Error Debugging with Errsole Debugger: Node.js](https://dev.to/mrrishimeena/nodejs-streamlining-error-debugging-with-errsole-debugger-1ipe)
-- [Dev.to/JS] [# &quot;JavaScript Closures: Demystified.&quot;](https://dev.to/muhd/-javascript-closures-demystified-3jda)
-- [Dev.to/JS] [What is a PWA? Progressive Web Apps for Beginners](https://dev.to/sparkouttech/what-is-a-pwa-progressive-web-apps-for-beginners-p3n)
-- [Dev.to/JS] [🐳 Docker for Nodejs Developers](https://dev.to/shameel/docker-for-nodejs-developers-5458)
-- [Dev.to/JS] [Get the last character of a string](https://dev.to/imsan/get-the-last-character-of-a-string-15ee)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
 - [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
