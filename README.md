@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [vuetify vs vite](https://dev.to/github2786/vuetify-vs-vite-cme)
+- [Dev.to/JS] [Mastering the For Loop in JavaScript](https://dev.to/shawn2208/mastering-the-for-loop-in-javascript-1i)
+- [Dev.to/JS] [Day 1: Mastering JavaScript Date and Time 📆](https://dev.to/shivamblog/day-1-mastering-javascript-date-and-time-1b9)
 - [Dev.to/JS] [Displaying Real-Time Day, Date, and Time in a Custom Format using JavaScript](https://dev.to/msnmongare/displaying-real-time-day-date-and-time-in-a-custom-format-using-javascript-5did)
 - [Dev.to/JS] [Moonly weekly progress update #64 - Announcement Catcher and Staking V2](https://dev.to/moonly/moonly-weekly-progress-update-64-announcement-catcher-and-staking-v2-2jol)
 - [Dev.to/JS] [5 CSS Tricks That Will Instantly Improve Your Design Skills](https://dev.to/jai7503556364/5-css-tricks-that-will-instantly-improve-your-design-skills-49m2)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promise In Javascript](https://dev.to/harendra21/promise-in-javascript-4nl)
 - [Dev.to/JS] [3 AWS Services To Learn as a React Developer](https://dev.to/mohammadfaisal/3-aws-services-to-learn-as-a-react-developer-51a4)
 - [Dev.to/JS] [Why I&#39;m not using Supabase again](https://dev.to/andyrewlee/why-im-not-using-supabase-again-5aia)
-- [Dev.to/JS] [How to build AWS State Machines using AWS CDK - Part II](https://dev.to/aws-builders/how-to-build-aws-state-machines-using-aws-cdk-part-ii-4jme)
-- [Dev.to/JS] [How To add arguments to a launch configuration in vscode](https://dev.to/teaganga/how-to-add-arguments-to-a-launch-configuration-in-vscode-3jfk)
-- [Dev.to/JS] [Streamlining Nodejs Error Debugging with Errsole Debugger: Node.js](https://dev.to/mrrishimeena/nodejs-streamlining-error-debugging-with-errsole-debugger-1ipe)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
 - [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
