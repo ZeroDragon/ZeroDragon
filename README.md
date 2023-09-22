@@ -26,6 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [So, Your Partner Has a Foot Fetish](https://lifehacker.com/so-your-partner-has-a-foot-fetish-1850864998)
+- [Dev.to/JS] [Calling an imported API at runtime in Astro](https://dev.to/cassidoo/calling-an-imported-api-at-runtime-in-astro-52p9)
+- [Dev.to/JS] [My first WebDev project - My Personal Portfolio.](https://dev.to/praneetk/my-first-webdev-project-my-personal-portfolio-35in)
+- [Dev.to/JS] [Portfolio](https://dev.to/princenitrr24/portfolio-59hc)
+- [Lifehacker] [You Can Get an Amazon Fire TV Stick for 57% Off &lpar;Plus Three Months of Apple TV&rpar;](https://lifehacker.com/you-can-get-an-amazon-fire-tv-stick-for-57-off-plus-t-1850865131)
+- [Dev.to/JS] [🚀 Exciting News for Aspiring Developers! 🚀](https://dev.to/joukhar/exciting-news-for-aspiring-developers-385d)
+- [Lifehacker] [Why You Should Never Buy an Apple iPhone Case](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
+- [Dev.to/JS] [10 Exciting Projects for Junior Developers to Level Up Their Skills](https://dev.to/mahfuzurrahman01/10-exciting-projects-for-junior-developers-to-level-up-their-skills-1h5l)
+- [Dev.to/JS] [Binary Search with Invariants: Easy and Clear Approach](https://dev.to/neemkashu/binary-search-with-invariants-easy-and-clear-approach-1k8l)
+- [Lifehacker] [This Blink Wireless Security Camera Bundle Is 50% Off Today Only](https://lifehacker.com/this-blink-wireless-security-camera-bundle-is-50-off-t-1850864881)
 - [Dev.to/JS] [Convert a 2D array to an object in JavaScript](https://dev.to/victuk/convert-a-2d-array-to-an-object-in-javascript-3h32)
 - [Dev.to/JS] [AWS Lambda Meets Bun through SST 🐰: Prime Time or Just Prime Hype? 🥵](https://dev.to/slsbytheodo/aws-lambda-meets-bun-through-sst-prime-time-or-just-prime-hype-2pb2)
 - [Lifehacker] [Some iPhone 15s Are &#39;Breaking&#39; During Setup](https://lifehacker.com/some-iphone-15s-are-breaking-during-setup-1850864742)
@@ -34,18 +44,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Are you a React developer?](https://dev.to/trustacks/are-you-a-react-developer-327a)
 - [Dev.to/JS] [Did bun just killed Node &amp; Deno?](https://dev.to/kumarkalyan/did-bun-just-killed-node-deno-jf6)
 - [Dev.to/JS] [JavaScript vs. TypeScript for Open Source: Seeking the Community&#39;s Thoughts 🤔](https://dev.to/opensourcee/javascript-vs-typescript-seeking-the-communitys-thoughts-3e1o)
-- [Dev.to/JS] [Unifying React Development: Patterns You Should Know](https://dev.to/karthik2265/unifying-react-development-patterns-you-should-know-3a4)
 - [Lifehacker] [The Best Premium Cases for the iPhone 15 and iPhone 15 Pro](https://lifehacker.com/the-best-premium-cases-for-the-iphone-15-and-iphone-15-1850864098)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Sneako, and Why Is He so Dangerous?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-sn-1850863771)
 - [Lifehacker] [These Are the Best Educational Toys for Toddlers](https://lifehacker.com/best-educational-toys-for-toddlers-1850862963)
 - [Lifehacker] [You Can Get a Refurbished Samsung Galaxy for Half Off Right Now](https://lifehacker.com/you-can-get-a-refurbished-samsung-galaxy-for-half-off-r-1850862916)
 - [Lifehacker] [Everything You Should Document Right Now for Next Year&#39;s Garden](https://lifehacker.com/everything-you-should-document-right-now-for-next-years-1850861009)
-- [Dev.to/JS] [Building a High-Performance Angular Application with Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/chintanonweb/building-a-high-performance-angular-application-with-incremental-static-regeneration-isr-ebb)
-- [Dev.to/JS] [Understanding Vue.js Data Binding: A Comprehensive Guide](https://dev.to/chintanonweb/understanding-vuejs-data-binding-a-comprehensive-guide-4ll0)
-- [Dev.to/JS] [The Big Debate: Should We Explain Code or Not?](https://dev.to/kaushit/the-big-debate-should-we-explain-code-or-not-2om4)
 - [Lifehacker] [Make a ‘Cheesy’ Dairy-free Sauce With Butternut Squash](https://lifehacker.com/make-a-cheesy-dairy-free-sauce-with-butternut-squash-1850862613)
-- [Dev.to/JS] [vuetify vs vite](https://dev.to/github2786/vuetify-vs-vite-cme)
-- [Dev.to/JS] [Mastering the For Loop in JavaScript](https://dev.to/shawn2208/mastering-the-for-loop-in-javascript-1i)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
 - [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Save Up to $1,300 on Samsung’s Pricey ‘The Frame’ TVs Right Now](https://lifehacker.com/you-can-save-up-to-1-300-on-samsung-s-pricey-the-fram-1850861674)
 - [Lifehacker] [How to Share Games on Steam With Family Sharing](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)
 - [Lifehacker] [What People Are Getting Wrong This Week: Clara and Mauricio](https://lifehacker.com/what-people-are-getting-wrong-this-week-clara-and-maur-1850861241)
-- [Lifehacker] [The Biggest New Features in Microsoft&#39;s Upcoming Windows 11 23H2 Update](https://lifehacker.com/biggest-new-features-windows-11-23h2-update-1850860890)
-- [Lifehacker] [The Easiest Smoked Turkey Recipe Is Also the Best](https://lifehacker.com/smoke-your-turkey-the-wrong-way-on-a-charcoal-grill-1848048358)
-- [Lifehacker] [This Travel eSIM Card Comes With a $50 Credit for $22 Right Now](https://lifehacker.com/this-travel-esim-card-comes-with-a-50-credit-for-22-r-1850854986)
-- [Lifehacker] [Free At-Home COVID Tests Are Coming Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
-- [Lifehacker] [Why Leasing an Electric Vehicle Still Probably Isn&#39;t Worth It](https://lifehacker.com/why-leasing-an-electric-vehicle-still-probably-isnt-wor-1850829610)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Biggest New Features in Microsoft&#39;s Upcoming Windows 11 23H2 Update](https://lifehacker.com/biggest-new-features-windows-11-23h2-update-1850860890)<!-- TECH-POSTS:END -->
 
 ---
 
