@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node creator says you should strive for simplicity.](https://dev.to/iwaduarte/node-creator-says-you-should-strive-for-simplicity-4j28)
+- [Dev.to/JS] [[AWS] Using API Gateway for S3 Uploads to Trigger Lambda Functions](https://dev.to/iwaduarte/aws-using-api-gateway-for-s3-uploads-to-trigger-lambda-functions-2edg)
+- [Dev.to/JS] [GPT 4 and Why it is Good for Chrome to Crumble](https://dev.to/iwaduarte/gpt-4-and-why-it-is-good-for-chrome-to-crumble-4bal)
 - [Dev.to/JS] [AWS developer skillset: Definition, Examples and Tips](https://dev.to/jessica89079831/aws-developer-skillset-definition-examples-and-tips-1ei1)
 - [Dev.to/JS] [Can self-taught programmers get jobs?](https://dev.to/codewithshahan/can-self-taught-programmers-get-jobs-4f4d)
 - [Dev.to/JS] [A Complete Guide To The 7 Phases of Web Development Life Cycle](https://dev.to/buildwithharis/a-complete-guide-to-the-7-phases-of-web-development-life-cycle-e45)
@@ -38,13 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
 - [Dev.to/JS] [Very Simple way to handle requests](https://dev.to/mmvergara/supabase-way-of-handling-request-18mn)
 - [Dev.to/JS] [5 JavaScript Hacks Every Web Developer Should Know Part 1](https://dev.to/basimghouri/10-javascript-hacks-every-web-developer-should-know-oge)
-- [Dev.to/JS] [Difference between microtask and macrotask queue in the event loop](https://dev.to/jeetvora331/difference-between-microtask-and-macrotask-queue-in-the-event-loop-4i4i)
 - [Lifehacker] [Everything to Know About the New Microsoft Surfaces](https://lifehacker.com/everything-to-know-about-the-new-microsoft-surfaces-1850862595)
-- [Dev.to/JS] [Run Models in the Browser With Transformers.js](https://dev.to/kenzic/run-models-in-the-browser-with-transformersjs-7g8)
 - [Lifehacker] [You Should Make the Tiny Frozen Fried Eggs Reddit Hates](https://lifehacker.com/you-should-make-the-tiny-frozen-fried-eggs-reddit-hates-1850862675)
 - [Lifehacker] [How to Prevent and Manage Calluses From Lifting](https://lifehacker.com/how-to-prevent-and-manage-calluses-from-lifting-1836082994)
 - [Lifehacker] [The Apocalyptic Events You Should Actually Worry About](https://lifehacker.com/the-apocalyptic-events-you-should-actually-worry-about-1850861176)
-- [Dev.to/JS] [How to Replace Spaces with Dashes in a JavaScript String](https://dev.to/imsan/how-to-replace-spaces-with-dashes-in-a-javascript-string-4mph)
 - [Lifehacker] [You Should Treat Your Budget Like a Healthy Diet](https://lifehacker.com/you-should-treat-your-budget-like-a-healthy-diet-1850860460)
 - [Lifehacker] [The Best Desk Lamps Under $40](https://lifehacker.com/the-best-desk-lamps-under-40-1850862097)
 - [Lifehacker] [iOS 17 Has Security Risks Already](https://lifehacker.com/ios-17-has-security-risks-already-1850861877)
