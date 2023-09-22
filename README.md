@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
+- [Dev.to/JS] [Force Enable Copy and Paste on Websites! JavaScript Bookmarklet](https://dev.to/ahandsel/force-enable-copy-and-paste-on-websites-javascript-bookmarklet-414d)
 - [Dev.to/JS] [JavaScript Magic Tricks: Ajax hacking](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-ajax-hacking-1o0j)
 - [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
@@ -47,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [iOS 17 Has Security Risks Already](https://lifehacker.com/ios-17-has-security-risks-already-1850861877)
 - [Dev.to/JS] [VueJS part 4: Rendering in loop](https://dev.to/hi_iam_chris/vuejs-part-4-rendering-in-loop-n84)
 - [Lifehacker] [Your Pancakes Need Apple Cider Syrup](https://lifehacker.com/apple-cider-recipe-1849782079)
-- [Dev.to/JS] [Labeled statements - the forgotten JS feature](https://dev.to/0x96f/labeled-statements-the-forgotten-js-feature-169o)
 - [Lifehacker] [The Best Ways to Use ‘Association’ to Remember What You Study](https://lifehacker.com/the-best-ways-to-use-association-to-remember-what-you-1850861942)
 - [Lifehacker] [You Can Save Up to $1,300 on Samsung’s Pricey ‘The Frame’ TVs Right Now](https://lifehacker.com/you-can-save-up-to-1-300-on-samsung-s-pricey-the-fram-1850861674)
 - [Lifehacker] [How to Share Games on Steam With Family Sharing](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How You Can Try ChatGPT’s New Image Generator](https://lifehacker.com/how-you-can-try-chatgpt-s-new-image-generator-1850858864)
 - [Lifehacker] [How to Start Indoor Gardening This Winter](https://lifehacker.com/how-to-start-indoor-gardening-this-winter-1850857776)
 - [Lifehacker] [Your Pan-fried Dumplings Need a Crispy Skirt](https://lifehacker.com/easy-fried-dumpling-recipe-1850857713)
-- [Lifehacker] [A Beginner’s Guide to Sex Parties](https://lifehacker.com/a-beginner-s-guide-to-sex-parties-1850826250)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 21](https://lifehacker.com/connections-answer-today-september-21-2023-1850856309)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Beginner’s Guide to Sex Parties](https://lifehacker.com/a-beginner-s-guide-to-sex-parties-1850826250)<!-- TECH-POSTS:END -->
 
 ---
 
