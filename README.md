@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This 1TB Internal SSD Is 31% Off Right Now](https://lifehacker.com/this-1tb-internal-ssd-is-31-off-right-now-1850865883)
+- [Dev.to/JS] [Mastering Collaboration in Development Teams: A Guide for Success](https://dev.to/taiwoenoch/mastering-collaboration-in-development-teams-a-guide-for-success-51f8)
+- [Dev.to/JS] [The 2MB Tailwind CSS Dilemma: Performance Snag or Not? Explore Alternatives with BundlePhobia &amp; Moiva](https://dev.to/jcvb/the-2mb-tailwind-css-dilemma-performance-snag-or-not-explore-alternatives-with-bundlephobia-moiva-dl6)
+- [Lifehacker] [You Can Now Get Your Free Credit Report Every Week, Forever](https://lifehacker.com/you-can-now-get-your-free-credit-report-every-week-for-1850865987)
+- [Lifehacker] [How to Get Rid of Old Furniture](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
+- [Dev.to/JS] [JavaScript-Independent Web Apps: A Step Toward Inclusive Digital Experiences](https://dev.to/furqanramzan/javascript-independent-web-apps-a-step-toward-inclusive-digital-experiences-3a9j)
 - [Lifehacker] [Unsubscribe From Unwanted Mailing Lists With This Chrome Extension](https://lifehacker.com/unsubscribe-from-unwanted-mailing-lists-with-this-chrom-1850865766)
 - [Dev.to/JS] [Javascript Sort: Simplified🧑‍💻](https://dev.to/localhostd3veloper/javascript-sort-simplified-akm)
 - [Lifehacker] [OneAir Elite Is on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
@@ -44,11 +50,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Inverting the Binary Magic: Making Sense of LeetCode 226](https://dev.to/speaklouder/inverting-the-binary-magic-making-sense-of-leetcode-226-27i4)
 - [Dev.to/JS] [Destructuring in JavaScript](https://dev.to/honeybadger/destructuring-in-javascript-2ep7)
 - [Lifehacker] [You Can Finally Share Your AirTag’s Location With Others](https://lifehacker.com/how-to-share-airtag-locations-1850865334)
-- [Dev.to/JS] [Open-Source Contribution](https://dev.to/yousefmajidi/open-source-contribution-f58)
 - [Lifehacker] [How a Government Shutdown Could Affect Your Finances](https://lifehacker.com/how-a-government-shutdown-could-affect-your-finances-1821181628)
 - [Lifehacker] [So, Your Partner Has a Foot Fetish](https://lifehacker.com/so-your-partner-has-a-foot-fetish-1850864998)
-- [Dev.to/JS] [Calling an imported API at runtime in Astro](https://dev.to/cassidoo/calling-an-imported-api-at-runtime-in-astro-52p9)
-- [Dev.to/JS] [My first WebDev project - My Personal Portfolio.](https://dev.to/praneetk/my-first-webdev-project-my-personal-portfolio-35in)
 - [Lifehacker] [You Can Get an Amazon Fire TV Stick for 57% Off &lpar;Plus Three Months of Apple TV&rpar;](https://lifehacker.com/you-can-get-an-amazon-fire-tv-stick-for-57-off-plus-t-1850865131)
 - [Lifehacker] [Why You Should Never Buy an Apple iPhone Case](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
 - [Lifehacker] [This Blink Wireless Security Camera Bundle Is 50% Off Today Only](https://lifehacker.com/this-blink-wireless-security-camera-bundle-is-50-off-t-1850864881)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a ‘Cheesy’ Dairy-free Sauce With Butternut Squash](https://lifehacker.com/make-a-cheesy-dairy-free-sauce-with-butternut-squash-1850862613)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
 - [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
-- [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
-- [Lifehacker] [Everything to Know About the New Microsoft Surfaces](https://lifehacker.com/everything-to-know-about-the-new-microsoft-surfaces-1850862595)
-- [Lifehacker] [You Should Make the Tiny Frozen Fried Eggs Reddit Hates](https://lifehacker.com/you-should-make-the-tiny-frozen-fried-eggs-reddit-hates-1850862675)
-- [Lifehacker] [How to Prevent and Manage Calluses From Lifting](https://lifehacker.com/how-to-prevent-and-manage-calluses-from-lifting-1836082994)<!-- TECH-POSTS:END -->
+- [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)<!-- TECH-POSTS:END -->
 
 ---
 
