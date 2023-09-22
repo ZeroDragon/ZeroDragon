@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Inverting the Binary Magic: Making Sense of LeetCode 226](https://dev.to/speaklouder/inverting-the-binary-magic-making-sense-of-leetcode-226-27i4)
+- [Dev.to/JS] [Destructuring in JavaScript](https://dev.to/honeybadger/destructuring-in-javascript-2ep7)
+- [Lifehacker] [You Can Finally Share Your AirTag’s Location With Others](https://lifehacker.com/how-to-share-airtag-locations-1850865334)
+- [Dev.to/JS] [Open-Source Contribution](https://dev.to/yousefmajidi/open-source-contribution-f58)
+- [Lifehacker] [How a Government Shutdown Could Affect Your Finances](https://lifehacker.com/how-a-government-shutdown-could-affect-your-finances-1821181628)
 - [Lifehacker] [So, Your Partner Has a Foot Fetish](https://lifehacker.com/so-your-partner-has-a-foot-fetish-1850864998)
 - [Dev.to/JS] [Calling an imported API at runtime in Astro](https://dev.to/cassidoo/calling-an-imported-api-at-runtime-in-astro-52p9)
 - [Dev.to/JS] [My first WebDev project - My Personal Portfolio.](https://dev.to/praneetk/my-first-webdev-project-my-personal-portfolio-35in)
@@ -41,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Some iPhone 15s Are &#39;Breaking&#39; During Setup](https://lifehacker.com/some-iphone-15s-are-breaking-during-setup-1850864742)
 - [Dev.to/JS] [🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects](https://dev.to/valentinbeggi/the-best-serverless-framework-in-2023-a-data-driven-showdown-for-aws-projects-ga1)
 - [Lifehacker] [21 of the Best Action Movies on Netflix Right Now](https://lifehacker.com/the-best-action-movies-on-netflix-right-now-1850856583)
-- [Dev.to/JS] [Are you a React developer?](https://dev.to/trustacks/are-you-a-react-developer-327a)
-- [Dev.to/JS] [Did bun just killed Node &amp; Deno?](https://dev.to/kumarkalyan/did-bun-just-killed-node-deno-jf6)
-- [Dev.to/JS] [JavaScript vs. TypeScript for Open Source: Seeking the Community&#39;s Thoughts 🤔](https://dev.to/opensourcee/javascript-vs-typescript-seeking-the-communitys-thoughts-3e1o)
 - [Lifehacker] [The Best Premium Cases for the iPhone 15 and iPhone 15 Pro](https://lifehacker.com/the-best-premium-cases-for-the-iphone-15-and-iphone-15-1850864098)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Sneako, and Why Is He so Dangerous?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-sn-1850863771)
 - [Lifehacker] [These Are the Best Educational Toys for Toddlers](https://lifehacker.com/best-educational-toys-for-toddlers-1850862963)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Pancakes Need Apple Cider Syrup](https://lifehacker.com/apple-cider-recipe-1849782079)
 - [Lifehacker] [The Best Ways to Use ‘Association’ to Remember What You Study](https://lifehacker.com/the-best-ways-to-use-association-to-remember-what-you-1850861942)
 - [Lifehacker] [You Can Save Up to $1,300 on Samsung’s Pricey ‘The Frame’ TVs Right Now](https://lifehacker.com/you-can-save-up-to-1-300-on-samsung-s-pricey-the-fram-1850861674)
-- [Lifehacker] [How to Share Games on Steam With Family Sharing](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)
-- [Lifehacker] [What People Are Getting Wrong This Week: Clara and Mauricio](https://lifehacker.com/what-people-are-getting-wrong-this-week-clara-and-maur-1850861241)
-- [Lifehacker] [The Biggest New Features in Microsoft&#39;s Upcoming Windows 11 23H2 Update](https://lifehacker.com/biggest-new-features-windows-11-23h2-update-1850860890)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Share Games on Steam With Family Sharing](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)<!-- TECH-POSTS:END -->
 
 ---
 
