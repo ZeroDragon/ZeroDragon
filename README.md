@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Important things to learn in React](https://dev.to/prashanth123/important-things-to-learn-in-react-3f67)
+- [Dev.to/JS] [Top 10 Smart Ways to Use Input Validation in Node.js](https://dev.to/sureshpattu/top-10-smart-ways-to-use-input-validation-in-nodejs-970)
+- [Dev.to/JS] [Esaver Watt - Reviews, Price, Results, Benefits &amp; How To Use?](https://dev.to/esaverwatt92207/esaver-watt-reviews-price-results-benefits-how-to-use-2b1j)
 - [Dev.to/JS] [Node creator says you should strive for simplicity.](https://dev.to/iwaduarte/node-creator-says-you-should-strive-for-simplicity-4j28)
 - [Dev.to/JS] [[AWS] Using API Gateway for S3 Uploads to Trigger Lambda Functions](https://dev.to/iwaduarte/aws-using-api-gateway-for-s3-uploads-to-trigger-lambda-functions-2edg)
 - [Dev.to/JS] [GPT 4 and Why it is Good for Chrome to Crumble](https://dev.to/iwaduarte/gpt-4-and-why-it-is-good-for-chrome-to-crumble-4bal)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing Catching Monsters On My JavaScript Game](https://dev.to/anradev/implementing-catching-monsters-on-my-javascript-game-2kpj)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
 - [Dev.to/JS] [Force Enable Copy and Paste on Websites! JavaScript Bookmarklet](https://dev.to/ahandsel/force-enable-copy-and-paste-on-websites-javascript-bookmarklet-414d)
-- [Dev.to/JS] [JavaScript Magic Tricks: Ajax hacking](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-ajax-hacking-1o0j)
 - [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
-- [Dev.to/JS] [Very Simple way to handle requests](https://dev.to/mmvergara/supabase-way-of-handling-request-18mn)
-- [Dev.to/JS] [5 JavaScript Hacks Every Web Developer Should Know Part 1](https://dev.to/basimghouri/10-javascript-hacks-every-web-developer-should-know-oge)
 - [Lifehacker] [Everything to Know About the New Microsoft Surfaces](https://lifehacker.com/everything-to-know-about-the-new-microsoft-surfaces-1850862595)
 - [Lifehacker] [You Should Make the Tiny Frozen Fried Eggs Reddit Hates](https://lifehacker.com/you-should-make-the-tiny-frozen-fried-eggs-reddit-hates-1850862675)
 - [Lifehacker] [How to Prevent and Manage Calluses From Lifting](https://lifehacker.com/how-to-prevent-and-manage-calluses-from-lifting-1836082994)
