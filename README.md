@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Refurbished Samsung Galaxy for Half Off Right Now](https://lifehacker.com/you-can-get-a-refurbished-samsung-galaxy-for-half-off-r-1850862916)
+- [Lifehacker] [Everything You Should Document Right Now for Next Year&#39;s Garden](https://lifehacker.com/everything-you-should-document-right-now-for-next-years-1850861009)
+- [Dev.to/JS] [Building a High-Performance Angular Application with Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/chintanonweb/building-a-high-performance-angular-application-with-incremental-static-regeneration-isr-ebb)
+- [Dev.to/JS] [Understanding Vue.js Data Binding: A Comprehensive Guide](https://dev.to/chintanonweb/understanding-vuejs-data-binding-a-comprehensive-guide-4ll0)
+- [Dev.to/JS] [The Big Debate: Should We Explain Code or Not?](https://dev.to/kaushit/the-big-debate-should-we-explain-code-or-not-2om4)
+- [Lifehacker] [Make a ‘Cheesy’ Dairy-free Sauce With Butternut Squash](https://lifehacker.com/make-a-cheesy-dairy-free-sauce-with-butternut-squash-1850862613)
 - [Dev.to/JS] [vuetify vs vite](https://dev.to/github2786/vuetify-vs-vite-cme)
 - [Dev.to/JS] [Mastering the For Loop in JavaScript](https://dev.to/shawn2208/mastering-the-for-loop-in-javascript-1i)
 - [Dev.to/JS] [Day 1: Mastering JavaScript Date and Time 📆](https://dev.to/shivamblog/day-1-mastering-javascript-date-and-time-1b9)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular + Webpack: An Overview](https://dev.to/nikhil6076/angular-webpack-an-overview-44n6)
 - [Dev.to/JS] [Building a Private 1 to 1 Chat System in Rails 7 with WebSockets &amp; Action Cable](https://dev.to/ghostly08/building-a-private-1-to-1-chat-system-in-rails-7-with-websockets-action-cable-5bj5)
 - [Dev.to/JS] [🔐Unlocking the Power of Nest.js: A Beginner&#39;s Guide to Building Scalable Node.js Applications🚀](https://dev.to/taquiimam14/unlocking-the-power-of-nestjs-a-beginners-guide-to-building-scalable-nodejs-applications-4edk)
-- [Dev.to/JS] [Promise In Javascript](https://dev.to/harendra21/promise-in-javascript-4nl)
-- [Dev.to/JS] [3 AWS Services To Learn as a React Developer](https://dev.to/mohammadfaisal/3-aws-services-to-learn-as-a-react-developer-51a4)
-- [Dev.to/JS] [Why I&#39;m not using Supabase again](https://dev.to/andyrewlee/why-im-not-using-supabase-again-5aia)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
 - [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone Can Now Find Your Apple TV Remote](https://lifehacker.com/your-iphone-can-now-find-your-apple-tv-remote-1850860249)
 - [Lifehacker] [Everything You Should Know About iOS 17](https://lifehacker.com/iphone-ios-17-review-1850859158)
 - [Lifehacker] [You Should Claim Your Part of the Fortnite FTC Settlement](https://lifehacker.com/fortnite-ftc-settlement-claim-1850858900)
-- [Lifehacker] [How You Can Try ChatGPT’s New Image Generator](https://lifehacker.com/how-you-can-try-chatgpt-s-new-image-generator-1850858864)
-- [Lifehacker] [How to Start Indoor Gardening This Winter](https://lifehacker.com/how-to-start-indoor-gardening-this-winter-1850857776)
-- [Lifehacker] [Your Pan-fried Dumplings Need a Crispy Skirt](https://lifehacker.com/easy-fried-dumpling-recipe-1850857713)
-- [Lifehacker] [A Beginner’s Guide to Sex Parties](https://lifehacker.com/a-beginner-s-guide-to-sex-parties-1850826250)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How You Can Try ChatGPT’s New Image Generator](https://lifehacker.com/how-you-can-try-chatgpt-s-new-image-generator-1850858864)<!-- TECH-POSTS:END -->
 
 ---
 
