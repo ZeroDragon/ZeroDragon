@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is a PWA? Progressive Web Apps for Beginners](https://dev.to/sparkouttech/what-is-a-pwa-progressive-web-apps-for-beginners-p3n)
+- [Dev.to/JS] [🐳 Docker for Nodejs Developers](https://dev.to/shameel/docker-for-nodejs-developers-5458)
+- [Dev.to/JS] [Get the last character of a string](https://dev.to/imsan/get-the-last-character-of-a-string-15ee)
 - [Dev.to/JS] [Important things to learn in React](https://dev.to/prashanth123/important-things-to-learn-in-react-3f67)
 - [Dev.to/JS] [Top 10 Smart Ways to Use Input Validation in Node.js](https://dev.to/sureshpattu/top-10-smart-ways-to-use-input-validation-in-nodejs-970)
 - [Dev.to/JS] [Esaver Watt - Reviews, Price, Results, Benefits &amp; How To Use?](https://dev.to/esaverwatt92207/esaver-watt-reviews-price-results-benefits-how-to-use-2b1j)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AWS developer skillset: Definition, Examples and Tips](https://dev.to/jessica89079831/aws-developer-skillset-definition-examples-and-tips-1ei1)
 - [Dev.to/JS] [Can self-taught programmers get jobs?](https://dev.to/codewithshahan/can-self-taught-programmers-get-jobs-4f4d)
 - [Dev.to/JS] [A Complete Guide To The 7 Phases of Web Development Life Cycle](https://dev.to/buildwithharis/a-complete-guide-to-the-7-phases-of-web-development-life-cycle-e45)
-- [Dev.to/JS] [Introducing Odin Tabs: A GPT-Powered Chrome Extension for Effortless Tab Navigation 🗣️](https://dev.to/leonid20000/introducing-odin-tabs-a-gpt-powered-chrome-extension-for-effortless-tab-navigation-3m2o)
-- [Dev.to/JS] [Implementing Catching Monsters On My JavaScript Game](https://dev.to/anradev/implementing-catching-monsters-on-my-javascript-game-2kpj)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
-- [Dev.to/JS] [Force Enable Copy and Paste on Websites! JavaScript Bookmarklet](https://dev.to/ahandsel/force-enable-copy-and-paste-on-websites-javascript-bookmarklet-414d)
 - [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
 - [Lifehacker] [Everything to Know About the New Microsoft Surfaces](https://lifehacker.com/everything-to-know-about-the-new-microsoft-surfaces-1850862595)
