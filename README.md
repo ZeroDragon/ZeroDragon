@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Magic Tricks: Ajax hacking](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-ajax-hacking-1o0j)
+- [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
 - [Dev.to/JS] [Very Simple way to handle requests](https://dev.to/mmvergara/supabase-way-of-handling-request-18mn)
 - [Dev.to/JS] [5 JavaScript Hacks Every Web Developer Should Know Part 1](https://dev.to/basimghouri/10-javascript-hacks-every-web-developer-should-know-oge)
@@ -47,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Pancakes Need Apple Cider Syrup](https://lifehacker.com/apple-cider-recipe-1849782079)
 - [Dev.to/JS] [Labeled statements - the forgotten JS feature](https://dev.to/0x96f/labeled-statements-the-forgotten-js-feature-169o)
 - [Lifehacker] [The Best Ways to Use ‘Association’ to Remember What You Study](https://lifehacker.com/the-best-ways-to-use-association-to-remember-what-you-1850861942)
-- [Dev.to/JS] [How to build your embedded NativeScript app within the Xcode project](https://dev.to/tdermendjiev/how-to-build-your-embedded-nativescript-app-within-the-xcode-project-3jo0)
 - [Lifehacker] [You Can Save Up to $1,300 on Samsung’s Pricey ‘The Frame’ TVs Right Now](https://lifehacker.com/you-can-save-up-to-1-300-on-samsung-s-pricey-the-fram-1850861674)
 - [Lifehacker] [How to Share Games on Steam With Family Sharing](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)
 - [Lifehacker] [What People Are Getting Wrong This Week: Clara and Mauricio](https://lifehacker.com/what-people-are-getting-wrong-this-week-clara-and-maur-1850861241)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Start Indoor Gardening This Winter](https://lifehacker.com/how-to-start-indoor-gardening-this-winter-1850857776)
 - [Lifehacker] [Your Pan-fried Dumplings Need a Crispy Skirt](https://lifehacker.com/easy-fried-dumpling-recipe-1850857713)
 - [Lifehacker] [A Beginner’s Guide to Sex Parties](https://lifehacker.com/a-beginner-s-guide-to-sex-parties-1850826250)
-- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 21](https://lifehacker.com/connections-answer-today-september-21-2023-1850856309)
-- [Lifehacker] [AdGuard Is on Sale for $20 Right Now](https://lifehacker.com/adguard-is-on-sale-for-20-right-now-1850854950)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Thursday, September 21](https://lifehacker.com/connections-answer-today-september-21-2023-1850856309)<!-- TECH-POSTS:END -->
 
 ---
 
