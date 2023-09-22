@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Unsubscribe From Unwanted Mailing Lists With This Chrome Extension](https://lifehacker.com/unsubscribe-from-unwanted-mailing-lists-with-this-chrom-1850865766)
+- [Dev.to/JS] [Javascript Sort: Simplified🧑‍💻](https://dev.to/localhostd3veloper/javascript-sort-simplified-akm)
+- [Lifehacker] [OneAir Elite Is on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
+- [Dev.to/JS] [Case Sensitivity with `localeCompare` in JavaScript](https://dev.to/coreyward/case-sensitivity-with-localecompare-in-javascript-4c0o)
 - [Lifehacker] [Air-fried Croissants Make the Best Croutons](https://lifehacker.com/air-fried-croissants-make-the-best-croutons-1850865723)
 - [Lifehacker] [12 Podcasts That Explain the &#39;90s](https://lifehacker.com/the-podcasts-that-explain-the-90s-1850864874)
 - [Dev.to/JS] [JavaScript for Testers](https://dev.to/asheeshmisra/javascript-for-testers-1dpj)
@@ -45,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [So, Your Partner Has a Foot Fetish](https://lifehacker.com/so-your-partner-has-a-foot-fetish-1850864998)
 - [Dev.to/JS] [Calling an imported API at runtime in Astro](https://dev.to/cassidoo/calling-an-imported-api-at-runtime-in-astro-52p9)
 - [Dev.to/JS] [My first WebDev project - My Personal Portfolio.](https://dev.to/praneetk/my-first-webdev-project-my-personal-portfolio-35in)
-- [Dev.to/JS] [Portfolio](https://dev.to/princenitrr24/portfolio-59hc)
 - [Lifehacker] [You Can Get an Amazon Fire TV Stick for 57% Off &lpar;Plus Three Months of Apple TV&rpar;](https://lifehacker.com/you-can-get-an-amazon-fire-tv-stick-for-57-off-plus-t-1850865131)
-- [Dev.to/JS] [🚀 Exciting News for Aspiring Developers! 🚀](https://dev.to/joukhar/exciting-news-for-aspiring-developers-385d)
 - [Lifehacker] [Why You Should Never Buy an Apple iPhone Case](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
 - [Lifehacker] [This Blink Wireless Security Camera Bundle Is 50% Off Today Only](https://lifehacker.com/this-blink-wireless-security-camera-bundle-is-50-off-t-1850864881)
 - [Lifehacker] [Some iPhone 15s Are &#39;Breaking&#39; During Setup](https://lifehacker.com/some-iphone-15s-are-breaking-during-setup-1850864742)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)
 - [Lifehacker] [Everything to Know About the New Microsoft Surfaces](https://lifehacker.com/everything-to-know-about-the-new-microsoft-surfaces-1850862595)
 - [Lifehacker] [You Should Make the Tiny Frozen Fried Eggs Reddit Hates](https://lifehacker.com/you-should-make-the-tiny-frozen-fried-eggs-reddit-hates-1850862675)
-- [Lifehacker] [How to Prevent and Manage Calluses From Lifting](https://lifehacker.com/how-to-prevent-and-manage-calluses-from-lifting-1836082994)
-- [Lifehacker] [The Apocalyptic Events You Should Actually Worry About](https://lifehacker.com/the-apocalyptic-events-you-should-actually-worry-about-1850861176)
-- [Lifehacker] [You Should Treat Your Budget Like a Healthy Diet](https://lifehacker.com/you-should-treat-your-budget-like-a-healthy-diet-1850860460)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prevent and Manage Calluses From Lifting](https://lifehacker.com/how-to-prevent-and-manage-calluses-from-lifting-1836082994)<!-- TECH-POSTS:END -->
 
 ---
 
