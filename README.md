@@ -26,8 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is JavaScript&lpar;and what can you do with it&rpar;](https://dev.to/annoh_karlgusta/what-is-javascriptand-what-can-you-do-with-it-5fec)
+- [Lifehacker] [This ASUS Gaming Laptop Is $250 Off Right Now](https://lifehacker.com/this-asus-gaming-laptop-is-250-off-right-now-1850865843)
 - [Lifehacker] [This 1TB Internal SSD Is 31% Off Right Now](https://lifehacker.com/this-1tb-internal-ssd-is-31-off-right-now-1850865883)
-- [Dev.to/JS] [Mastering Collaboration in Development Teams: A Guide for Success](https://dev.to/taiwoenoch/mastering-collaboration-in-development-teams-a-guide-for-success-51f8)
 - [Dev.to/JS] [The 2MB Tailwind CSS Dilemma: Performance Snag or Not? Explore Alternatives with BundlePhobia &amp; Moiva](https://dev.to/jcvb/the-2mb-tailwind-css-dilemma-performance-snag-or-not-explore-alternatives-with-bundlephobia-moiva-dl6)
 - [Lifehacker] [You Can Now Get Your Free Credit Report Every Week, Forever](https://lifehacker.com/you-can-now-get-your-free-credit-report-every-week-for-1850865987)
 - [Lifehacker] [How to Get Rid of Old Furniture](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Should Document Right Now for Next Year&#39;s Garden](https://lifehacker.com/everything-you-should-document-right-now-for-next-years-1850861009)
 - [Lifehacker] [Make a ‘Cheesy’ Dairy-free Sauce With Butternut Squash](https://lifehacker.com/make-a-cheesy-dairy-free-sauce-with-butternut-squash-1850862613)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
-- [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)
-- [Lifehacker] [My Six Favorite Productivity Methods in One Efficient List](https://lifehacker.com/best-productivity-methods-1850862925)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)<!-- TECH-POSTS:END -->
 
 ---
 
