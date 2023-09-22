@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can self-taught programmers get jobs?](https://dev.to/codewithshahan/can-self-taught-programmers-get-jobs-4f4d)
 - [Dev.to/JS] [Introducing Odin Tabs: A GPT-Powered Chrome Extension for Effortless Tab Navigation 🗣️](https://dev.to/leonid20000/introducing-odin-tabs-a-gpt-powered-chrome-extension-for-effortless-tab-navigation-3m2o)
 - [Dev.to/JS] [Implementing Catching Monsters On My JavaScript Game](https://dev.to/anradev/implementing-catching-monsters-on-my-javascript-game-2kpj)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Migrate to Angular Standalone Components](https://dev.to/vkagklis/why-migrate-to-angular-standalone-components-4men)
 - [Lifehacker] [You Should Treat Your Budget Like a Healthy Diet](https://lifehacker.com/you-should-treat-your-budget-like-a-healthy-diet-1850860460)
 - [Dev.to/JS] [Art of Exceptional Customer Service: A Guide to Delighting Customers](https://dev.to/allen121/art-of-exceptional-customer-service-a-guide-to-delighting-customers-1d87)
-- [Dev.to/JS] [[Bun 1.0] Alternatives for NPM?](https://dev.to/worldgoit/bun-10-alternatives-for-npm-3047)
 - [Lifehacker] [The Best Desk Lamps Under $40](https://lifehacker.com/the-best-desk-lamps-under-40-1850862097)
 - [Lifehacker] [iOS 17 Has Security Risks Already](https://lifehacker.com/ios-17-has-security-risks-already-1850861877)
 - [Lifehacker] [Your Pancakes Need Apple Cider Syrup](https://lifehacker.com/apple-cider-recipe-1849782079)
