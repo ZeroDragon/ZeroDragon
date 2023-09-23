@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Change the Bytecode of an Already Deployed Smart Contract](https://dev.to/dzahar0v/how-to-change-the-bytecode-of-an-already-deployed-smart-contract-b77)
+- [Lifehacker] [The Most High-Maintenance Furniture You Might Want to Avoid](https://lifehacker.com/the-most-high-maintenance-furniture-you-might-want-to-a-1850861015)
 - [Dev.to/JS] [iosstream gzip compression example - Fix now](https://dev.to/sajalmanjhi/iosstream-gzip-compression-example-fix-now-43e0)
 - [Dev.to/JS] [Async and Await function in JavaScript Promises](https://dev.to/afii/async-and-await-function-in-javascript-promises-1jln)
 - [Dev.to/JS] [AZ-900 Exam Dumps: Tips for Effective Azure Learning](https://dev.to/ynhspsvn/az-900-exam-dumps-tips-for-effective-azure-learning-1ef0)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The value of null &lpar;ish&rpar;](https://dev.to/customcommander/the-value-of-null-ish-1mk6)
 - [Dev.to/JS] [Latest Newsletter: Beware Of Circularity &lpar;Issue #133&rpar;](https://dev.to/mjgs/latest-newsletter-beware-of-circularity-issue-133-5a8)
 - [Dev.to/JS] [Basic Promise in JavaScript](https://dev.to/afii/basic-promise-in-javascript-7f7)
-- [Dev.to/JS] [Conquer MS-101: Dumpsarena Offers Reliable Study Materials](https://dev.to/rb78iumw/conquer-ms-101-dumpsarena-offers-reliable-study-materials-39ec)
 - [Dev.to/JS] [JavaScript Magic Tricks: 6 Ways to Use &#39;alert&#39;](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-6-ways-to-use-alert-2nk5)
 - [Dev.to/JS] [typeof null return object...](https://dev.to/dipmajumdar1991/typeof-null-return-object-2gcd)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Premium Cases for the iPhone 15 and iPhone 15 Pro](https://lifehacker.com/the-best-premium-cases-for-the-iphone-15-and-iphone-15-1850864098)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Sneako, and Why Is He so Dangerous?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-sn-1850863771)
 - [Lifehacker] [These Are the Best Educational Toys for Toddlers](https://lifehacker.com/best-educational-toys-for-toddlers-1850862963)
-- [Lifehacker] [You Can Get a Refurbished Samsung Galaxy for Half Off Right Now](https://lifehacker.com/you-can-get-a-refurbished-samsung-galaxy-for-half-off-r-1850862916)
-- [Lifehacker] [Everything You Should Document Right Now for Next Year&#39;s Garden](https://lifehacker.com/everything-you-should-document-right-now-for-next-years-1850861009)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Refurbished Samsung Galaxy for Half Off Right Now](https://lifehacker.com/you-can-get-a-refurbished-samsung-galaxy-for-half-off-r-1850862916)<!-- TECH-POSTS:END -->
 
 ---
 
