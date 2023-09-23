@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bun | The all-in-one JavaScript runtime](https://dev.to/codemaker2015/bun-the-all-in-one-javascript-runtime-4n2b)
+- [Dev.to/JS] [Learn full stack development : MERN](https://dev.to/chandramani/learn-full-stack-development-mern-20bj)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
 - [Dev.to/JS] [I started on September 12 learning javascript guys how i learn so quickly](https://dev.to/abdiselam13/i-started-on-september-12-learning-javascript-guys-how-i-learn-so-quickly-5d62)
 - [Dev.to/JS] [Introduction to JavaScript: A Beginner&#39;s Guide](https://dev.to/joanayebola/introduction-to-javascript-a-beginners-guide-55n6)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most High-Maintenance Furniture You Might Want to Avoid](https://lifehacker.com/the-most-high-maintenance-furniture-you-might-want-to-a-1850861015)
 - [Dev.to/JS] [iosstream gzip compression example - Fix now](https://dev.to/sajalmanjhi/iosstream-gzip-compression-example-fix-now-43e0)
 - [Dev.to/JS] [Async and Await function in JavaScript Promises](https://dev.to/afii/async-and-await-function-in-javascript-promises-1jln)
-- [Dev.to/JS] [AZ-900 Exam Dumps: Tips for Effective Azure Learning](https://dev.to/ynhspsvn/az-900-exam-dumps-tips-for-effective-azure-learning-1ef0)
-- [Dev.to/JS] [Simplify Event Handling in React with the useEventListener Custom Hook](https://dev.to/serifcolakel/simplify-event-handling-in-react-with-the-useeventlistener-custom-hook-3e12)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
 - [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
 - [Lifehacker] [Headway Premium Is $60 Right Now](https://lifehacker.com/headway-premium-is-60-right-now-1850862380)
