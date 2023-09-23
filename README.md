@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Latest Newsletter: Beware Of Circularity &lpar;Issue #133&rpar;](https://dev.to/mjgs/latest-newsletter-beware-of-circularity-issue-133-5a8)
+- [Dev.to/JS] [Basic Promise in JavaScript](https://dev.to/afiya786/basic-promise-in-javascript-7f7)
+- [Dev.to/JS] [Conquer MS-101: Dumpsarena Offers Reliable Study Materials](https://dev.to/rb78iumw/conquer-ms-101-dumpsarena-offers-reliable-study-materials-39ec)
 - [Dev.to/JS] [JavaScript Magic Tricks: 6 Ways to Use &#39;alert&#39;](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-6-ways-to-use-alert-2nk5)
 - [Dev.to/JS] [typeof null return object...](https://dev.to/dipmajumdar1991/typeof-null-return-object-2gcd)
 - [Dev.to/JS] [Cracking the Code: Leet Code 1048 - Longest String Chain &lpar;Medium&rpar; - NileshDev](https://dev.to/speaklouder/cracking-the-code-leet-code-1048-longest-string-chain-medium-nileshdev-5d1a)
@@ -43,12 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Rid of Old Furniture](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
 - [Dev.to/JS] [JavaScript-Independent Web Apps: A Step Toward Inclusive Digital Experiences](https://dev.to/furqanramzan/javascript-independent-web-apps-a-step-toward-inclusive-digital-experiences-3a9j)
 - [Lifehacker] [Unsubscribe From Unwanted Mailing Lists With This Chrome Extension](https://lifehacker.com/unsubscribe-from-unwanted-mailing-lists-with-this-chrom-1850865766)
-- [Dev.to/JS] [Javascript Sort: Simplified🧑‍💻](https://dev.to/localhostd3veloper/javascript-sort-simplified-akm)
 - [Lifehacker] [OneAir Elite Is on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
-- [Dev.to/JS] [Case Sensitivity with `localeCompare` in JavaScript](https://dev.to/coreyward/case-sensitivity-with-localecompare-in-javascript-4c0o)
 - [Lifehacker] [Air-fried Croissants Make the Best Croutons](https://lifehacker.com/air-fried-croissants-make-the-best-croutons-1850865723)
 - [Lifehacker] [12 Podcasts That Explain the &#39;90s](https://lifehacker.com/the-podcasts-that-explain-the-90s-1850864874)
-- [Dev.to/JS] [JavaScript for Testers](https://dev.to/asheeshmisra/javascript-for-testers-1dpj)
 - [Lifehacker] [Why You Should Never Tent Your Turkey With Foil After Cooking It](https://lifehacker.com/do-not-tent-your-turkey-with-foil-1848035893)
 - [Lifehacker] [Meredith&#39;s Training Diary: The Difference Between Good and Bad Pain](https://lifehacker.com/merediths-training-diary-the-difference-between-good-a-1850864894)
 - [Lifehacker] [Kraft Singles Are Being Recalled for a Pretty Silly Reason](https://lifehacker.com/kraft-singles-recall-1850865306)
