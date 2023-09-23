@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [typeof null return object...](https://dev.to/dipmajumdar1991/typeof-null-return-object-2gcd)
+- [Dev.to/JS] [Cracking the Code: Leet Code 1048 - Longest String Chain &lpar;Medium&rpar; - NileshDev](https://dev.to/speaklouder/cracking-the-code-leet-code-1048-longest-string-chain-medium-nileshdev-5d1a)
 - [Dev.to/JS] [How To Quickly Fix Production Errors Along With CORS Error](https://dev.to/myogeshchavan97/how-to-quickly-fix-production-errors-along-with-cors-error-3902)
 - [Dev.to/JS] [Creating an NPM Package in 2024 &lpar;Deno, dnt&rpar;](https://dev.to/jlarky/creating-an-npm-package-in-2024-deno-dnt-3467)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
@@ -50,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Class To Body If JavaScript Is Enabled](https://dev.to/gauravchakraborty/add-class-to-body-if-javascript-is-enabled-37b3)
 - [Lifehacker] [Meredith&#39;s Training Diary: The Difference Between Good and Bad Pain](https://lifehacker.com/merediths-training-diary-the-difference-between-good-a-1850864894)
 - [Lifehacker] [Kraft Singles Are Being Recalled for a Pretty Silly Reason](https://lifehacker.com/kraft-singles-recall-1850865306)
-- [Dev.to/JS] [Mastering API Data Retrieval: Unleash the Potential of Your Content](https://dev.to/mobarakamir17/mastering-api-data-retrieval-unleash-the-potential-of-your-content-1ac4)
-- [Dev.to/JS] [🚀 Mastering the 10 Pillars of Front-End](https://dev.to/phanimurari/mastering-the-10-pillars-of-front-end-5fa)
 - [Lifehacker] [Microsoft Is Adding a Passkey Manager to Windows 11](https://lifehacker.com/microsoft-is-adding-a-passkey-manager-to-windows-11-1850865246)
 - [Lifehacker] [You Can Finally Share Your AirTag’s Location With Others](https://lifehacker.com/how-to-share-airtag-locations-1850865334)
 - [Lifehacker] [How a Government Shutdown Could Affect Your Finances](https://lifehacker.com/how-a-government-shutdown-could-affect-your-finances-1821181628)
