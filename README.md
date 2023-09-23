@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Quickly Fix Production Errors Along With CORS Error](https://dev.to/myogeshchavan97/how-to-quickly-fix-production-errors-along-with-cors-error-3902)
 - [Dev.to/JS] [Creating an NPM Package in 2024 &lpar;Deno, dnt&rpar;](https://dev.to/jlarky/creating-an-npm-package-in-2024-deno-dnt-3467)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
 - [Dev.to/JS] [Singleton Connection with Transactions in MongoDB](https://dev.to/limacon23/singleton-connection-with-transactions-in-mongodb-1b5c)
@@ -52,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering API Data Retrieval: Unleash the Potential of Your Content](https://dev.to/mobarakamir17/mastering-api-data-retrieval-unleash-the-potential-of-your-content-1ac4)
 - [Dev.to/JS] [🚀 Mastering the 10 Pillars of Front-End](https://dev.to/phanimurari/mastering-the-10-pillars-of-front-end-5fa)
 - [Lifehacker] [Microsoft Is Adding a Passkey Manager to Windows 11](https://lifehacker.com/microsoft-is-adding-a-passkey-manager-to-windows-11-1850865246)
-- [Dev.to/JS] [Build a language translator app powered by OpenAI](https://dev.to/gadget/build-a-language-translator-app-powered-by-openai-37n0)
 - [Lifehacker] [You Can Finally Share Your AirTag’s Location With Others](https://lifehacker.com/how-to-share-airtag-locations-1850865334)
 - [Lifehacker] [How a Government Shutdown Could Affect Your Finances](https://lifehacker.com/how-a-government-shutdown-could-affect-your-finances-1821181628)
 - [Lifehacker] [So, Your Partner Has a Foot Fetish](https://lifehacker.com/so-your-partner-has-a-foot-fetish-1850864998)
