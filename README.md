@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Находки по разработки 6](https://dev.to/potykion/nakhodki-po-razrabotki-6-4ijm)
+- [Dev.to/JS] [Understanding JavaScript Promise Methods and Prototypes](https://dev.to/mursalfk/understanding-javascript-promise-methods-and-prototypes-46aa)
+- [Dev.to/JS] [The value of null &lpar;ish&rpar;](https://dev.to/customcommander/the-value-of-null-ish-1mk6)
 - [Dev.to/JS] [Latest Newsletter: Beware Of Circularity &lpar;Issue #133&rpar;](https://dev.to/mjgs/latest-newsletter-beware-of-circularity-issue-133-5a8)
 - [Dev.to/JS] [Basic Promise in JavaScript](https://dev.to/afiya786/basic-promise-in-javascript-7f7)
 - [Dev.to/JS] [Conquer MS-101: Dumpsarena Offers Reliable Study Materials](https://dev.to/rb78iumw/conquer-ms-101-dumpsarena-offers-reliable-study-materials-39ec)
@@ -38,13 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Singleton Connection with Transactions in MongoDB](https://dev.to/limacon23/singleton-connection-with-transactions-in-mongodb-1b5c)
 - [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
 - [Lifehacker] [Headway Premium Is $60 Right Now](https://lifehacker.com/headway-premium-is-60-right-now-1850862380)
-- [Dev.to/JS] [What is JavaScript&lpar;and what can you do with it&rpar;](https://dev.to/annoh_karlgusta/what-is-javascriptand-what-can-you-do-with-it-5fec)
 - [Lifehacker] [This ASUS Gaming Laptop Is $250 Off Right Now](https://lifehacker.com/this-asus-gaming-laptop-is-250-off-right-now-1850865843)
 - [Lifehacker] [This 1TB Internal SSD Is 31% Off Right Now](https://lifehacker.com/this-1tb-internal-ssd-is-31-off-right-now-1850865883)
-- [Dev.to/JS] [The 2MB Tailwind CSS Dilemma: Performance Snag or Not? Explore Alternatives with BundlePhobia &amp; Moiva](https://dev.to/jcvb/the-2mb-tailwind-css-dilemma-performance-snag-or-not-explore-alternatives-with-bundlephobia-moiva-dl6)
 - [Lifehacker] [You Can Now Get Your Free Credit Report Every Week, Forever](https://lifehacker.com/you-can-now-get-your-free-credit-report-every-week-for-1850865987)
 - [Lifehacker] [How to Get Rid of Old Furniture](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
-- [Dev.to/JS] [JavaScript-Independent Web Apps: A Step Toward Inclusive Digital Experiences](https://dev.to/furqanramzan/javascript-independent-web-apps-a-step-toward-inclusive-digital-experiences-3a9j)
 - [Lifehacker] [Unsubscribe From Unwanted Mailing Lists With This Chrome Extension](https://lifehacker.com/unsubscribe-from-unwanted-mailing-lists-with-this-chrom-1850865766)
 - [Lifehacker] [OneAir Elite Is on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
 - [Lifehacker] [Air-fried Croissants Make the Best Croutons](https://lifehacker.com/air-fried-croissants-make-the-best-croutons-1850865723)
