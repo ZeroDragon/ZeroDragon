@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
+- [Lifehacker] [Headway Premium Is $60 Right Now](https://lifehacker.com/headway-premium-is-60-right-now-1850862380)
 - [Dev.to/JS] [What is JavaScript&lpar;and what can you do with it&rpar;](https://dev.to/annoh_karlgusta/what-is-javascriptand-what-can-you-do-with-it-5fec)
 - [Lifehacker] [This ASUS Gaming Laptop Is $250 Off Right Now](https://lifehacker.com/this-asus-gaming-laptop-is-250-off-right-now-1850865843)
 - [Lifehacker] [This 1TB Internal SSD Is 31% Off Right Now](https://lifehacker.com/this-1tb-internal-ssd-is-31-off-right-now-1850865883)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Educational Toys for Toddlers](https://lifehacker.com/best-educational-toys-for-toddlers-1850862963)
 - [Lifehacker] [You Can Get a Refurbished Samsung Galaxy for Half Off Right Now](https://lifehacker.com/you-can-get-a-refurbished-samsung-galaxy-for-half-off-r-1850862916)
 - [Lifehacker] [Everything You Should Document Right Now for Next Year&#39;s Garden](https://lifehacker.com/everything-you-should-document-right-now-for-next-years-1850861009)
-- [Lifehacker] [Make a ‘Cheesy’ Dairy-free Sauce With Butternut Squash](https://lifehacker.com/make-a-cheesy-dairy-free-sauce-with-butternut-squash-1850862613)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, September 22](https://lifehacker.com/connections-answer-today-september-22-2023-1850860545)
-- [Lifehacker] [You Can Get 10TB of Degoo Cloud Storage for $100 Right Now](https://lifehacker.com/you-can-get-10tb-of-degoo-cloud-storage-for-100-right-1850855021)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a ‘Cheesy’ Dairy-free Sauce With Butternut Squash](https://lifehacker.com/make-a-cheesy-dairy-free-sauce-with-butternut-squash-1850862613)<!-- TECH-POSTS:END -->
 
 ---
 
