@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Magic Tricks: 6 Ways to Use &#39;alert&#39;](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-6-ways-to-use-alert-2nk5)
 - [Dev.to/JS] [typeof null return object...](https://dev.to/dipmajumdar1991/typeof-null-return-object-2gcd)
 - [Dev.to/JS] [Cracking the Code: Leet Code 1048 - Longest String Chain &lpar;Medium&rpar; - NileshDev](https://dev.to/speaklouder/cracking-the-code-leet-code-1048-longest-string-chain-medium-nileshdev-5d1a)
 - [Dev.to/JS] [How To Quickly Fix Production Errors Along With CORS Error](https://dev.to/myogeshchavan97/how-to-quickly-fix-production-errors-along-with-cors-error-3902)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Podcasts That Explain the &#39;90s](https://lifehacker.com/the-podcasts-that-explain-the-90s-1850864874)
 - [Dev.to/JS] [JavaScript for Testers](https://dev.to/asheeshmisra/javascript-for-testers-1dpj)
 - [Lifehacker] [Why You Should Never Tent Your Turkey With Foil After Cooking It](https://lifehacker.com/do-not-tent-your-turkey-with-foil-1848035893)
-- [Dev.to/JS] [Add Class To Body If JavaScript Is Enabled](https://dev.to/gauravchakraborty/add-class-to-body-if-javascript-is-enabled-37b3)
 - [Lifehacker] [Meredith&#39;s Training Diary: The Difference Between Good and Bad Pain](https://lifehacker.com/merediths-training-diary-the-difference-between-good-a-1850864894)
 - [Lifehacker] [Kraft Singles Are Being Recalled for a Pretty Silly Reason](https://lifehacker.com/kraft-singles-recall-1850865306)
 - [Lifehacker] [Microsoft Is Adding a Passkey Manager to Windows 11](https://lifehacker.com/microsoft-is-adding-a-passkey-manager-to-windows-11-1850865246)
