@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Var vs Let vs Const](https://dev.to/muhammedshameel/var-vs-let-vs-const-258g)
+- [Dev.to/JS] [A Journey Down Memory Lane: The Early Days of Open Source](https://dev.to/opensourcee/a-journey-down-memory-lane-the-early-days-of-open-source-11pj)
+- [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
+- [Dev.to/JS] [Folder structure for Next JS 13](https://dev.to/juniorbatistadev/folder-structure-for-next-js-13-1af4)
 - [Dev.to/JS] [From Novice to Pro: Understanding JavaScript Primitive and Reference Data Types](https://dev.to/angelocodes/from-novice-to-pro-understanding-javascript-primitive-and-reference-data-types-3die)
 - [Dev.to/JS] [Feedback from React devs](https://dev.to/trustacks/feedback-from-react-devs-49b9)
 - [Dev.to/JS] [How to Change the Bytecode of an Already Deployed Smart Contract](https://dev.to/dzahar0v/how-to-change-the-bytecode-of-an-already-deployed-smart-contract-b77)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplify Event Handling in React with the useEventListener Custom Hook](https://dev.to/serifcolakel/simplify-event-handling-in-react-with-the-useeventlistener-custom-hook-3e12)
 - [Dev.to/JS] [Находки по разработки 6](https://dev.to/potykion/nakhodki-po-razrabotki-6-4ijm)
 - [Dev.to/JS] [Understanding JavaScript Promise Methods and Prototypes](https://dev.to/mursalfk/understanding-javascript-promise-methods-and-prototypes-46aa)
-- [Dev.to/JS] [The value of null &lpar;ish&rpar;](https://dev.to/customcommander/the-value-of-null-ish-1mk6)
-- [Dev.to/JS] [Latest Newsletter: Beware Of Circularity &lpar;Issue #133&rpar;](https://dev.to/mjgs/latest-newsletter-beware-of-circularity-issue-133-5a8)
-- [Dev.to/JS] [Basic Promise in JavaScript](https://dev.to/afii/basic-promise-in-javascript-7f7)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
 - [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
 - [Lifehacker] [Headway Premium Is $60 Right Now](https://lifehacker.com/headway-premium-is-60-right-now-1850862380)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [21 of the Best Action Movies on Netflix Right Now](https://lifehacker.com/the-best-action-movies-on-netflix-right-now-1850856583)
 - [Lifehacker] [The Best Premium Cases for the iPhone 15 and iPhone 15 Pro](https://lifehacker.com/the-best-premium-cases-for-the-iphone-15-and-iphone-15-1850864098)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Sneako, and Why Is He so Dangerous?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-sn-1850863771)
-- [Lifehacker] [These Are the Best Educational Toys for Toddlers](https://lifehacker.com/best-educational-toys-for-toddlers-1850862963)
-- [Lifehacker] [You Can Get a Refurbished Samsung Galaxy for Half Off Right Now](https://lifehacker.com/you-can-get-a-refurbished-samsung-galaxy-for-half-off-r-1850862916)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Educational Toys for Toddlers](https://lifehacker.com/best-educational-toys-for-toddlers-1850862963)<!-- TECH-POSTS:END -->
 
 ---
 
