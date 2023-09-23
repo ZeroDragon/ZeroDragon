@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Novice to Pro: Understanding JavaScript Primitive and Reference Data Types](https://dev.to/angelocodes/from-novice-to-pro-understanding-javascript-primitive-and-reference-data-types-3die)
+- [Dev.to/JS] [Feedback from React devs](https://dev.to/trustacks/feedback-from-react-devs-49b9)
 - [Dev.to/JS] [How to Change the Bytecode of an Already Deployed Smart Contract](https://dev.to/dzahar0v/how-to-change-the-bytecode-of-an-already-deployed-smart-contract-b77)
 - [Lifehacker] [The Most High-Maintenance Furniture You Might Want to Avoid](https://lifehacker.com/the-most-high-maintenance-furniture-you-might-want-to-a-1850861015)
 - [Dev.to/JS] [iosstream gzip compression example - Fix now](https://dev.to/sajalmanjhi/iosstream-gzip-compression-example-fix-now-43e0)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The value of null &lpar;ish&rpar;](https://dev.to/customcommander/the-value-of-null-ish-1mk6)
 - [Dev.to/JS] [Latest Newsletter: Beware Of Circularity &lpar;Issue #133&rpar;](https://dev.to/mjgs/latest-newsletter-beware-of-circularity-issue-133-5a8)
 - [Dev.to/JS] [Basic Promise in JavaScript](https://dev.to/afii/basic-promise-in-javascript-7f7)
-- [Dev.to/JS] [JavaScript Magic Tricks: 6 Ways to Use &#39;alert&#39;](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-6-ways-to-use-alert-2nk5)
-- [Dev.to/JS] [typeof null return object...](https://dev.to/dipmajumdar1991/typeof-null-return-object-2gcd)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
 - [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
 - [Lifehacker] [Headway Premium Is $60 Right Now](https://lifehacker.com/headway-premium-is-60-right-now-1850862380)
