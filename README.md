@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Meteor Community Packages listing for Hacktoberfest 2023](https://dev.to/storytellercz/meteor-community-packages-issues-for-hacktoberfest-2023-46hk)
+- [Dev.to/JS] [Unlock the Power of Open Source API Testing: A Complete Guide](https://dev.to/keploy/chatgpt-testing-your-hilarious-journey-into-test-automation-wonderland-14cc)
 - [Dev.to/JS] [Bun | The all-in-one JavaScript runtime](https://dev.to/codemaker2015/bun-the-all-in-one-javascript-runtime-4n2b)
 - [Dev.to/JS] [Learn full stack development : MERN](https://dev.to/chandramani/learn-full-stack-development-mern-20bj)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Feedback from React devs](https://dev.to/trustacks/feedback-from-react-devs-49b9)
 - [Dev.to/JS] [How to Change the Bytecode of an Already Deployed Smart Contract](https://dev.to/dzahar0v/how-to-change-the-bytecode-of-an-already-deployed-smart-contract-b77)
 - [Lifehacker] [The Most High-Maintenance Furniture You Might Want to Avoid](https://lifehacker.com/the-most-high-maintenance-furniture-you-might-want-to-a-1850861015)
-- [Dev.to/JS] [iosstream gzip compression example - Fix now](https://dev.to/sajalmanjhi/iosstream-gzip-compression-example-fix-now-43e0)
-- [Dev.to/JS] [Async and Await function in JavaScript Promises](https://dev.to/afii/async-and-await-function-in-javascript-promises-1jln)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
 - [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
 - [Lifehacker] [Headway Premium Is $60 Right Now](https://lifehacker.com/headway-premium-is-60-right-now-1850862380)
