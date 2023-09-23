@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AZ-900 Exam Dumps: Tips for Effective Azure Learning](https://dev.to/ynhspsvn/az-900-exam-dumps-tips-for-effective-azure-learning-1ef0)
 - [Dev.to/JS] [Находки по разработки 6](https://dev.to/potykion/nakhodki-po-razrabotki-6-4ijm)
 - [Dev.to/JS] [Understanding JavaScript Promise Methods and Prototypes](https://dev.to/mursalfk/understanding-javascript-promise-methods-and-prototypes-46aa)
 - [Dev.to/JS] [The value of null &lpar;ish&rpar;](https://dev.to/customcommander/the-value-of-null-ish-1mk6)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Quickly Fix Production Errors Along With CORS Error](https://dev.to/myogeshchavan97/how-to-quickly-fix-production-errors-along-with-cors-error-3902)
 - [Dev.to/JS] [Creating an NPM Package in 2024 &lpar;Deno, dnt&rpar;](https://dev.to/jlarky/creating-an-npm-package-in-2024-deno-dnt-3467)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
-- [Dev.to/JS] [Singleton Connection with Transactions in MongoDB](https://dev.to/limacon23/singleton-connection-with-transactions-in-mongodb-1b5c)
 - [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
 - [Lifehacker] [Headway Premium Is $60 Right Now](https://lifehacker.com/headway-premium-is-60-right-now-1850862380)
 - [Lifehacker] [This ASUS Gaming Laptop Is $250 Off Right Now](https://lifehacker.com/this-asus-gaming-laptop-is-250-off-right-now-1850865843)
