@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [25 Killer TypeScript One-Liners que te harán ver como un profesional](https://dev.to/holasoymalva/25-killer-typescript-one-liners-que-te-haran-ver-como-un-profesional-2mch)
+- [Dev.to/JS] [HI! I am writing my thesis and need your help answering this survey about development with AI vs without AI.](https://dev.to/anna757/hi-i-am-writing-my-thesis-and-need-your-help-answering-this-survey-about-development-with-ai-vs-without-ai-138e)
+- [Dev.to/JS] [A Comprehensive Comparison of JavaScript and Python](https://dev.to/joymukherjee_18/a-comprehensive-comparison-of-javascript-and-python-3j2c)
+- [Dev.to/JS] [Debouncing in JavaScript](https://dev.to/favourmark05/debouncing-in-javascript-3183)
 - [Dev.to/JS] [Building a Workout Tracker Web App with React and Docker Part 1](https://dev.to/scofieldidehen/building-a-workout-tracker-web-app-with-react-and-docker-part-1-p9c)
 - [Dev.to/JS] [How to Stay Relevant in the Tech World](https://dev.to/electromorphous/how-to-stay-relevant-in-the-tech-world-19aj)
 - [Dev.to/JS] [Meteor Community Packages listing for Hacktoberfest 2023](https://dev.to/storytellercz/meteor-community-packages-issues-for-hacktoberfest-2023-46hk)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I started on September 12 learning javascript guys how i learn so quickly](https://dev.to/abdiselam13/i-started-on-september-12-learning-javascript-guys-how-i-learn-so-quickly-5d62)
 - [Dev.to/JS] [Introduction to JavaScript: A Beginner&#39;s Guide](https://dev.to/joanayebola/introduction-to-javascript-a-beginners-guide-55n6)
 - [Dev.to/JS] [Var vs Let vs Const](https://dev.to/muhammedshameel/var-vs-let-vs-const-258g)
-- [Dev.to/JS] [A Journey Down Memory Lane: The Early Days of Open Source](https://dev.to/opensourcee/a-journey-down-memory-lane-the-early-days-of-open-source-11pj)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
-- [Dev.to/JS] [Folder structure for Next JS 13](https://dev.to/juniorbatistadev/folder-structure-for-next-js-13-1af4)
 - [Lifehacker] [The Most High-Maintenance Furniture You Might Want to Avoid](https://lifehacker.com/the-most-high-maintenance-furniture-you-might-want-to-a-1850861015)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
 - [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
