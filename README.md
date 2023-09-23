@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Workout Tracker Web App with React and Docker Part 1](https://dev.to/scofieldidehen/building-a-workout-tracker-web-app-with-react-and-docker-part-1-p9c)
+- [Dev.to/JS] [How to Stay Relevant in the Tech World](https://dev.to/electromorphous/how-to-stay-relevant-in-the-tech-world-19aj)
 - [Dev.to/JS] [Meteor Community Packages listing for Hacktoberfest 2023](https://dev.to/storytellercz/meteor-community-packages-issues-for-hacktoberfest-2023-46hk)
-- [Dev.to/JS] [Unlock the Power of Open Source API Testing: A Complete Guide](https://dev.to/keploy/chatgpt-testing-your-hilarious-journey-into-test-automation-wonderland-14cc)
+- [Dev.to/JS] [ChatGPT Testing: Your Hilarious Journey into Test Automation Wonderland!](https://dev.to/keploy/chatgpt-testing-your-hilarious-journey-into-test-automation-wonderland-14cc)
 - [Dev.to/JS] [Bun | The all-in-one JavaScript runtime](https://dev.to/codemaker2015/bun-the-all-in-one-javascript-runtime-4n2b)
 - [Dev.to/JS] [Learn full stack development : MERN](https://dev.to/chandramani/learn-full-stack-development-mern-20bj)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
 - [Dev.to/JS] [Folder structure for Next JS 13](https://dev.to/juniorbatistadev/folder-structure-for-next-js-13-1af4)
 - [Dev.to/JS] [From Novice to Pro: Understanding JavaScript Primitive and Reference Data Types](https://dev.to/angelocodes/from-novice-to-pro-understanding-javascript-primitive-and-reference-data-types-3die)
-- [Dev.to/JS] [Feedback from React devs](https://dev.to/trustacks/feedback-from-react-devs-49b9)
-- [Dev.to/JS] [How to Change the Bytecode of an Already Deployed Smart Contract](https://dev.to/dzahar0v/how-to-change-the-bytecode-of-an-already-deployed-smart-contract-b77)
 - [Lifehacker] [The Most High-Maintenance Furniture You Might Want to Avoid](https://lifehacker.com/the-most-high-maintenance-furniture-you-might-want-to-a-1850861015)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
 - [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
