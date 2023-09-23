@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Async and Await function in JavaScript Promises](https://dev.to/afii/async-and-await-function-in-javascript-promises-1jln)
 - [Dev.to/JS] [AZ-900 Exam Dumps: Tips for Effective Azure Learning](https://dev.to/ynhspsvn/az-900-exam-dumps-tips-for-effective-azure-learning-1ef0)
+- [Dev.to/JS] [Simplify Event Handling in React with the useEventListener Custom Hook](https://dev.to/serifcolakel/simplify-event-handling-in-react-with-the-useeventlistener-custom-hook-3e12)
 - [Dev.to/JS] [Находки по разработки 6](https://dev.to/potykion/nakhodki-po-razrabotki-6-4ijm)
 - [Dev.to/JS] [Understanding JavaScript Promise Methods and Prototypes](https://dev.to/mursalfk/understanding-javascript-promise-methods-and-prototypes-46aa)
 - [Dev.to/JS] [The value of null &lpar;ish&rpar;](https://dev.to/customcommander/the-value-of-null-ish-1mk6)
 - [Dev.to/JS] [Latest Newsletter: Beware Of Circularity &lpar;Issue #133&rpar;](https://dev.to/mjgs/latest-newsletter-beware-of-circularity-issue-133-5a8)
-- [Dev.to/JS] [Basic Promise in JavaScript](https://dev.to/afiya786/basic-promise-in-javascript-7f7)
+- [Dev.to/JS] [Basic Promise in JavaScript](https://dev.to/afii/basic-promise-in-javascript-7f7)
 - [Dev.to/JS] [Conquer MS-101: Dumpsarena Offers Reliable Study Materials](https://dev.to/rb78iumw/conquer-ms-101-dumpsarena-offers-reliable-study-materials-39ec)
 - [Dev.to/JS] [JavaScript Magic Tricks: 6 Ways to Use &#39;alert&#39;](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-6-ways-to-use-alert-2nk5)
 - [Dev.to/JS] [typeof null return object...](https://dev.to/dipmajumdar1991/typeof-null-return-object-2gcd)
 - [Dev.to/JS] [Cracking the Code: Leet Code 1048 - Longest String Chain &lpar;Medium&rpar; - NileshDev](https://dev.to/speaklouder/cracking-the-code-leet-code-1048-longest-string-chain-medium-nileshdev-5d1a)
-- [Dev.to/JS] [How To Quickly Fix Production Errors Along With CORS Error](https://dev.to/myogeshchavan97/how-to-quickly-fix-production-errors-along-with-cors-error-3902)
-- [Dev.to/JS] [Creating an NPM Package in 2024 &lpar;Deno, dnt&rpar;](https://dev.to/jlarky/creating-an-npm-package-in-2024-deno-dnt-3467)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
 - [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
 - [Lifehacker] [Headway Premium Is $60 Right Now](https://lifehacker.com/headway-premium-is-60-right-now-1850862380)
