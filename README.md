@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
+- [Dev.to/JS] [I started on September 12 learning javascript guys how i learn so quickly](https://dev.to/abdiselam13/i-started-on-september-12-learning-javascript-guys-how-i-learn-so-quickly-5d62)
+- [Dev.to/JS] [Introduction to JavaScript: A Beginner&#39;s Guide](https://dev.to/joanayebola/introduction-to-javascript-a-beginners-guide-55n6)
 - [Dev.to/JS] [Var vs Let vs Const](https://dev.to/muhammedshameel/var-vs-let-vs-const-258g)
 - [Dev.to/JS] [A Journey Down Memory Lane: The Early Days of Open Source](https://dev.to/opensourcee/a-journey-down-memory-lane-the-early-days-of-open-source-11pj)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async and Await function in JavaScript Promises](https://dev.to/afii/async-and-await-function-in-javascript-promises-1jln)
 - [Dev.to/JS] [AZ-900 Exam Dumps: Tips for Effective Azure Learning](https://dev.to/ynhspsvn/az-900-exam-dumps-tips-for-effective-azure-learning-1ef0)
 - [Dev.to/JS] [Simplify Event Handling in React with the useEventListener Custom Hook](https://dev.to/serifcolakel/simplify-event-handling-in-react-with-the-useeventlistener-custom-hook-3e12)
-- [Dev.to/JS] [Находки по разработки 6](https://dev.to/potykion/nakhodki-po-razrabotki-6-4ijm)
-- [Dev.to/JS] [Understanding JavaScript Promise Methods and Prototypes](https://dev.to/mursalfk/understanding-javascript-promise-methods-and-prototypes-46aa)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
 - [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
 - [Lifehacker] [Headway Premium Is $60 Right Now](https://lifehacker.com/headway-premium-is-60-right-now-1850862380)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Some iPhone 15s Are &#39;Breaking&#39; During Setup](https://lifehacker.com/some-iphone-15s-are-breaking-during-setup-1850864742)
 - [Lifehacker] [21 of the Best Action Movies on Netflix Right Now](https://lifehacker.com/the-best-action-movies-on-netflix-right-now-1850856583)
 - [Lifehacker] [The Best Premium Cases for the iPhone 15 and iPhone 15 Pro](https://lifehacker.com/the-best-premium-cases-for-the-iphone-15-and-iphone-15-1850864098)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Sneako, and Why Is He so Dangerous?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-sn-1850863771)
-- [Lifehacker] [These Are the Best Educational Toys for Toddlers](https://lifehacker.com/best-educational-toys-for-toddlers-1850862963)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Sneako, and Why Is He so Dangerous?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-sn-1850863771)<!-- TECH-POSTS:END -->
 
 ---
 
