@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering the Art of Software Design: Unveiling the Core Principles](https://dev.to/dr_anks/mastering-the-art-of-software-design-unveiling-the-core-principles-1ag3)
+- [Dev.to/JS] [My experience with OpenAI API](https://dev.to/mahinur05/my-experience-with-openai-api-5b3j)
 - [Dev.to/JS] [Why is Programming so Difficult?](https://dev.to/scofieldidehen/why-is-programming-so-difficult-90p)
 - [Dev.to/JS] [Design happens in mind first even for Softwares](https://dev.to/dr_anks/design-happens-in-mind-first-even-for-softwares-4k8h)
 - [Dev.to/JS] [What can you do with JavaScript&lpar;And where does it run&rpar;](https://dev.to/annoh_karlgusta/what-can-you-do-with-javascriptand-where-does-it-run-34j1)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Comprehensive Comparison of JavaScript and Python](https://dev.to/joymukherjee_18/a-comprehensive-comparison-of-javascript-and-python-3j2c)
 - [Dev.to/JS] [Debouncing in JavaScript](https://dev.to/favourmark05/debouncing-in-javascript-3183)
 - [Dev.to/JS] [Building a Workout Tracker Web App with React and Docker Part 1](https://dev.to/scofieldidehen/building-a-workout-tracker-web-app-with-react-and-docker-part-1-p9c)
-- [Dev.to/JS] [How to Stay Relevant in the Tech World](https://dev.to/electromorphous/how-to-stay-relevant-in-the-tech-world-19aj)
-- [Dev.to/JS] [Meteor Community Packages listing for Hacktoberfest 2023](https://dev.to/storytellercz/meteor-community-packages-issues-for-hacktoberfest-2023-46hk)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
 - [Lifehacker] [The Most High-Maintenance Furniture You Might Want to Avoid](https://lifehacker.com/the-most-high-maintenance-furniture-you-might-want-to-a-1850861015)
