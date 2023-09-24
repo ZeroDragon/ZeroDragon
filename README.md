@@ -26,10 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Promises: The Scrolls of Asynchronous Magic](https://dev.to/init_chandan/javascript-promises-the-scrolls-of-asynchronous-magic-516o)
+- [Dev.to/JS] [All you need to know about metadata in next.js 13 by Anik Routh](https://dev.to/anikrouth/all-you-need-to-know-about-metadata-in-nextjs-13-by-anik-routh-1e8i)
 - [Dev.to/JS] [The Best Way to Know What is React Js](https://dev.to/tbc/the-best-way-to-know-what-is-react-js-4mej)
 - [Dev.to/JS] [Prediksi Angka HK 25 September 2023](https://dev.to/angkajitu/prediksi-angka-hk-25-september-2023-30j8)
 - [Dev.to/JS] [Optimizing File Processing in React with Multipart Uploads and Downloads](https://dev.to/shingaiz/optimizing-file-processing-in-react-with-multipart-uploads-and-downloads-2n8p)
-- [Dev.to/JS] [Creating a Accordion with details and summary](https://dev.to/joxx/creating-a-accordion-with-details-and-summary-2i8j)
+- [Dev.to/JS] [Creating a Accordion with &lt;details&gt; and &lt;summary&gt;](https://dev.to/joxx/creating-a-accordion-with-details-and-summary-2i8j)
 - [Dev.to/JS] [Lesson 04 check replit projekt](https://dev.to/zafar7709/lesson-04-check-replit-projekt-ahl)
 - [Dev.to/JS] [alll links](https://dev.to/bjgfxzweeq32/alll-links-2h65)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Message Queue in Nodejs with BullMQ and Redis](https://dev.to/czarjulius/message-queue-in-nodejs-with-bullmq-and-redis-27lh)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
 - [Dev.to/JS] [Automated Web Scraping with Node.js and Puppeteer](https://dev.to/czarjulius/automated-web-scraping-with-nodejs-and-puppeteer-3f88)
-- [Dev.to/JS] [The missing part of firebase &#39;Resize Images&#39; extension](https://dev.to/bilalatique/the-missing-part-of-firebase-resize-images-extension-2fd7)
-- [Dev.to/JS] [How Understanding Falsy Values Can Improve Your Javascript Code Readability](https://dev.to/sharmakushal/how-understanding-falsy-values-can-improve-your-javascript-code-readability-16nb)
 - [Lifehacker] [This Is the Most &lpar;and Least&rpar; Popular Slang for Each Generation](https://lifehacker.com/this-is-the-most-and-least-popular-slang-for-each-gen-1850861058)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
