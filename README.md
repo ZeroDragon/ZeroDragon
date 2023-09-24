@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deep Dive into JavaScript Functions](https://dev.to/frantchessico/deep-dive-into-javascript-functions-2n6f)
 - [Dev.to/JS] [Los 20 principales lenguajes de programación 🚀](https://dev.to/yoezequiel/los-20-principales-lenguajes-de-programacion-2n7n)
 - [Dev.to/JS] [Message Queue in Nodejs with BullMQ and Redis](https://dev.to/czarjulius/message-queue-in-nodejs-with-bullmq-and-redis-27lh)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enhance React Conditional Rendering with the ConditionalRender Component](https://dev.to/serifcolakel/enhance-react-conditional-rendering-with-the-conditionalrender-component-1eh7)
 - [Dev.to/JS] [React-i-Py](https://dev.to/aniiket/react-i-py-4gal)
 - [Dev.to/JS] [Software Developers with Money](https://dev.to/cypriantinasheaarons/software-developers-with-money-446o)
-- [Dev.to/JS] [Junior React JS Developer Seeking Opportunities to Grow and Contribute](https://dev.to/mganji/junior-react-js-developer-seeking-opportunities-to-grow-and-contribute-56c7)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
