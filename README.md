@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Programming Paradigms](https://dev.to/frantchessico/programming-paradigms-4ka3)
+- [Dev.to/JS] [Never limit your tech stack](https://dev.to/aliraza/never-limit-your-tech-stack-3bp2)
+- [Dev.to/JS] [How To Build React Applications Using An Android Phone: A Step-by-Step Guide](https://dev.to/andrewezeani/how-to-build-react-applications-using-an-android-phone-a-step-by-step-guide-4amh)
+- [Lifehacker] [This Is the Most &lpar;and Least&rpar; Popular Slang for Each Generation](https://lifehacker.com/this-is-the-most-and-least-popular-slang-for-each-gen-1850861058)
 - [Dev.to/JS] [Enhance React Conditional Rendering with the ConditionalRender Component](https://dev.to/serifcolakel/enhance-react-conditional-rendering-with-the-conditionalrender-component-1eh7)
 - [Dev.to/JS] [React-i-Py](https://dev.to/aniiket/react-i-py-4gal)
 - [Dev.to/JS] [Software Developers with Money](https://dev.to/cypriantinasheaarons/software-developers-with-money-446o)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [STOP WATCHING CODING TUTORIALS!](https://dev.to/codewithshahan/stop-watching-coding-tutorials-7k1)
 - [Dev.to/JS] [A Detailed Introduction To JavaScript Objects](https://dev.to/thejason/a-detailed-introduction-to-javascript-objects-4p73)
 - [Dev.to/JS] [Create a Custom Exit-Intent Popup for Your Website](https://dev.to/azizqamar7/creating-a-custom-exit-intent-popup-for-your-website-2718)
-- [Dev.to/JS] [How to save JSON data to a file in Node.js](https://dev.to/kiani0x01/how-to-save-json-data-to-a-file-in-nodejs-4ej3)
-- [Dev.to/JS] [Master fs in Node.js](https://dev.to/easewithtuts/master-fs-in-nodejs-5cae)
-- [Dev.to/JS] [List files in a directory using nodejs](https://dev.to/kiani0x01/list-files-in-a-directory-using-nodejs-5a47)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Buy an Apple iPhone Case](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
 - [Lifehacker] [This Blink Wireless Security Camera Bundle Is 50% Off Today Only](https://lifehacker.com/this-blink-wireless-security-camera-bundle-is-50-off-t-1850864881)
 - [Lifehacker] [Some iPhone 15s Are &#39;Breaking&#39; During Setup](https://lifehacker.com/some-iphone-15s-are-breaking-during-setup-1850864742)
-- [Lifehacker] [21 of the Best Action Movies on Netflix Right Now](https://lifehacker.com/the-best-action-movies-on-netflix-right-now-1850856583)
-- [Lifehacker] [The Best Premium Cases for the iPhone 15 and iPhone 15 Pro](https://lifehacker.com/the-best-premium-cases-for-the-iphone-15-and-iphone-15-1850864098)<!-- TECH-POSTS:END -->
+- [Lifehacker] [21 of the Best Action Movies on Netflix Right Now](https://lifehacker.com/the-best-action-movies-on-netflix-right-now-1850856583)<!-- TECH-POSTS:END -->
 
 ---
 
