@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizing File Processing in React with Multipart Uploads and Downloads](https://dev.to/shingaiz/optimizing-file-processing-in-react-with-multipart-uploads-and-downloads-2n8p)
+- [Dev.to/JS] [Creating a Accordion with details and summary](https://dev.to/joxx/creating-a-accordion-with-details-and-summary-2i8j)
+- [Dev.to/JS] [Lesson 04 check replit projekt](https://dev.to/zafar7709/lesson-04-check-replit-projekt-ahl)
+- [Dev.to/JS] [alll links](https://dev.to/bjgfxzweeq32/alll-links-2h65)
+- [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Dev.to/JS] [Deep Dive into JavaScript Functions](https://dev.to/frantchessico/deep-dive-into-javascript-functions-2n6f)
 - [Dev.to/JS] [Los 20 principales lenguajes de programación 🚀](https://dev.to/yoezequiel/los-20-principales-lenguajes-de-programacion-2n7n)
 - [Dev.to/JS] [Message Queue in Nodejs with BullMQ and Redis](https://dev.to/czarjulius/message-queue-in-nodejs-with-bullmq-and-redis-27lh)
@@ -35,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Understanding Falsy Values Can Improve Your Javascript Code Readability](https://dev.to/sharmakushal/how-understanding-falsy-values-can-improve-your-javascript-code-readability-16nb)
 - [Dev.to/JS] [Programming Paradigms](https://dev.to/frantchessico/programming-paradigms-4ka3)
 - [Dev.to/JS] [Never limit your tech stack](https://dev.to/aliraza/never-limit-your-tech-stack-3bp2)
-- [Dev.to/JS] [How To Build React Applications Using An Android Phone: A Step-by-Step Guide](https://dev.to/andrewezeani/how-to-build-react-applications-using-an-android-phone-a-step-by-step-guide-4amh)
 - [Lifehacker] [This Is the Most &lpar;and Least&rpar; Popular Slang for Each Generation](https://lifehacker.com/this-is-the-most-and-least-popular-slang-for-each-gen-1850861058)
-- [Dev.to/JS] [Enhance React Conditional Rendering with the ConditionalRender Component](https://dev.to/serifcolakel/enhance-react-conditional-rendering-with-the-conditionalrender-component-1eh7)
-- [Dev.to/JS] [React-i-Py](https://dev.to/aniiket/react-i-py-4gal)
-- [Dev.to/JS] [Software Developers with Money](https://dev.to/cypriantinasheaarons/software-developers-with-money-446o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [So, Your Partner Has a Foot Fetish](https://lifehacker.com/so-your-partner-has-a-foot-fetish-1850864998)
 - [Lifehacker] [You Can Get an Amazon Fire TV Stick for 57% Off &lpar;Plus Three Months of Apple TV&rpar;](https://lifehacker.com/you-can-get-an-amazon-fire-tv-stick-for-57-off-plus-t-1850865131)
 - [Lifehacker] [Why You Should Never Buy an Apple iPhone Case](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
-- [Lifehacker] [This Blink Wireless Security Camera Bundle Is 50% Off Today Only](https://lifehacker.com/this-blink-wireless-security-camera-bundle-is-50-off-t-1850864881)
-- [Lifehacker] [Some iPhone 15s Are &#39;Breaking&#39; During Setup](https://lifehacker.com/some-iphone-15s-are-breaking-during-setup-1850864742)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Blink Wireless Security Camera Bundle Is 50% Off Today Only](https://lifehacker.com/this-blink-wireless-security-camera-bundle-is-50-off-t-1850864881)<!-- TECH-POSTS:END -->
 
 ---
 
