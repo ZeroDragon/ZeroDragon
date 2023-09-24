@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Los 20 principales lenguajes de programación 🚀](https://dev.to/yoezequiel/los-20-principales-lenguajes-de-programacion-2n7n)
+- [Dev.to/JS] [Message Queue in Nodejs with BullMQ and Redis](https://dev.to/czarjulius/message-queue-in-nodejs-with-bullmq-and-redis-27lh)
+- [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
 - [Dev.to/JS] [Automated Web Scraping with Node.js and Puppeteer](https://dev.to/czarjulius/automated-web-scraping-with-nodejs-and-puppeteer-3f88)
 - [Dev.to/JS] [The missing part of firebase &#39;Resize Images&#39; extension](https://dev.to/bilalatique/the-missing-part-of-firebase-resize-images-extension-2fd7)
 - [Dev.to/JS] [How Understanding Falsy Values Can Improve Your Javascript Code Readability](https://dev.to/sharmakushal/how-understanding-falsy-values-can-improve-your-javascript-code-readability-16nb)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React-i-Py](https://dev.to/aniiket/react-i-py-4gal)
 - [Dev.to/JS] [Software Developers with Money](https://dev.to/cypriantinasheaarons/software-developers-with-money-446o)
 - [Dev.to/JS] [Junior React JS Developer Seeking Opportunities to Grow and Contribute](https://dev.to/mganji/junior-react-js-developer-seeking-opportunities-to-grow-and-contribute-56c7)
-- [Dev.to/JS] [A Guide to React State Management with Persistence](https://dev.to/kiraaziz/a-guide-to-react-state-management-with-persistence-3maa)
-- [Dev.to/JS] [CRA to Vite migration &lpar;JS, not TS&rpar;, for beginners](https://dev.to/sanjarcode/cra-to-vite-js-not-ts-for-beginners-3eaa)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get an Amazon Fire TV Stick for 57% Off &lpar;Plus Three Months of Apple TV&rpar;](https://lifehacker.com/you-can-get-an-amazon-fire-tv-stick-for-57-off-plus-t-1850865131)
 - [Lifehacker] [Why You Should Never Buy an Apple iPhone Case](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
 - [Lifehacker] [This Blink Wireless Security Camera Bundle Is 50% Off Today Only](https://lifehacker.com/this-blink-wireless-security-camera-bundle-is-50-off-t-1850864881)
-- [Lifehacker] [Some iPhone 15s Are &#39;Breaking&#39; During Setup](https://lifehacker.com/some-iphone-15s-are-breaking-during-setup-1850864742)
-- [Lifehacker] [21 of the Best Action Movies on Netflix Right Now](https://lifehacker.com/the-best-action-movies-on-netflix-right-now-1850856583)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Some iPhone 15s Are &#39;Breaking&#39; During Setup](https://lifehacker.com/some-iphone-15s-are-breaking-during-setup-1850864742)<!-- TECH-POSTS:END -->
 
 ---
 
