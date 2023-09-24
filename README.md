@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [If React is soo bad, and alternatives are soo good, why are there so many of them??](https://dev.to/elsyng/if-react-is-soo-bad-and-alternatives-are-soo-good-why-are-there-so-many-of-them-2d45)
+- [Dev.to/JS] [Product Hunt launch](https://dev.to/lexingtonthemes/product-hunt-launch-21g0)
 - [Dev.to/JS] [Looping over a reactive array in NixixJS](https://dev.to/michthebrandofficial/looping-over-a-reactive-array-in-nixixjs-40j7)
 - [Dev.to/JS] [Mastering the Art of Software Design: Unveiling the Core Principles](https://dev.to/dr_anks/mastering-the-art-of-software-design-unveiling-the-core-principles-1ag3)
 - [Dev.to/JS] [My experience with OpenAI API](https://dev.to/mahinur05/my-experience-with-openai-api-5b3j)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
 - [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript: Unraveling the Magic of async/await, Promises, and More](https://dev.to/oluwatobi_/mastering-asynchronous-programming-in-javascript-unraveling-the-magic-of-asyncawait-promises-and-more-3lc5)
 - [Dev.to/JS] [HI! I am writing my thesis and need your help answering this survey about development with AI vs without AI.](https://dev.to/anna757/hi-i-am-writing-my-thesis-and-need-your-help-answering-this-survey-about-development-with-ai-vs-without-ai-138e)
-- [Dev.to/JS] [A Comprehensive Comparison of JavaScript and Python](https://dev.to/joymukherjee_18/a-comprehensive-comparison-of-javascript-and-python-3j2c)
-- [Dev.to/JS] [Debouncing in JavaScript](https://dev.to/favourmark05/debouncing-in-javascript-3183)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
 - [Lifehacker] [The Most High-Maintenance Furniture You Might Want to Avoid](https://lifehacker.com/the-most-high-maintenance-furniture-you-might-want-to-a-1850861015)
