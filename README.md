@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactPy = React + Python ?](https://dev.to/aniiket/reactpy-react-python--40mb)
+- [Dev.to/JS] [🔍 Exploring the Magic of JavaScript Sets and Maps 🗺️](https://dev.to/taquiimam14/exploring-the-magic-of-javascript-sets-and-maps-3df1)
+- [Dev.to/JS] [[每次进步0.1] ES2023中数组的复制更改方法](https://dev.to/andylow/mei-ci-jin-bu-01-es2023zhong-shu-zu-de-fu-zhi-geng-gai-fang-fa-476j)
 - [Dev.to/JS] [If React is soo bad, and alternatives are soo good, why are there so many of them??](https://dev.to/elsyng/if-react-is-soo-bad-and-alternatives-are-soo-good-why-are-there-so-many-of-them-2d45)
 - [Dev.to/JS] [Product Hunt launch](https://dev.to/lexingtonthemes/product-hunt-launch-21g0)
 - [Dev.to/JS] [Looping over a reactive array in NixixJS](https://dev.to/michthebrandofficial/looping-over-a-reactive-array-in-nixixjs-40j7)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Design happens in mind first even for Softwares](https://dev.to/dr_anks/design-happens-in-mind-first-even-for-softwares-4k8h)
 - [Dev.to/JS] [What can you do with JavaScript&lpar;And where does it run&rpar;](https://dev.to/annoh_karlgusta/what-can-you-do-with-javascriptand-where-does-it-run-34j1)
 - [Dev.to/JS] [You may never become a better blockchain developer if you don’t read this.](https://dev.to/01_arkade/you-may-never-become-a-better-blockchain-developer-if-you-dont-read-this-25a9)
-- [Dev.to/JS] [My First Project in Next js: Lumina AI](https://dev.to/tusharknwl/my-first-project-in-next-js-lumina-ai-4neb)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
-- [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript: Unraveling the Magic of async/await, Promises, and More](https://dev.to/oluwatobi_/mastering-asynchronous-programming-in-javascript-unraveling-the-magic-of-asyncawait-promises-and-more-3lc5)
-- [Dev.to/JS] [HI! I am writing my thesis and need your help answering this survey about development with AI vs without AI.](https://dev.to/anna757/hi-i-am-writing-my-thesis-and-need-your-help-answering-this-survey-about-development-with-ai-vs-without-ai-138e)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
 - [Lifehacker] [The Most High-Maintenance Furniture You Might Want to Avoid](https://lifehacker.com/the-most-high-maintenance-furniture-you-might-want-to-a-1850861015)
