@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My First Project in Next js: Lumina AI](https://dev.to/tusharknwl/my-first-project-in-next-js-lumina-ai-4neb)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
 - [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript: Unraveling the Magic of async/await, Promises, and More](https://dev.to/oluwatobi_/mastering-asynchronous-programming-in-javascript-unraveling-the-magic-of-asyncawait-promises-and-more-3lc5)
 - [Dev.to/JS] [HI! I am writing my thesis and need your help answering this survey about development with AI vs without AI.](https://dev.to/anna757/hi-i-am-writing-my-thesis-and-need-your-help-answering-this-survey-about-development-with-ai-vs-without-ai-138e)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn full stack development : MERN](https://dev.to/chandramani/learn-full-stack-development-mern-20bj)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
 - [Dev.to/JS] [I started on September 12 learning javascript guys how i learn so quickly](https://dev.to/abdiselam13/i-started-on-september-12-learning-javascript-guys-how-i-learn-so-quickly-5d62)
-- [Dev.to/JS] [Introduction to JavaScript: A Beginner&#39;s Guide](https://dev.to/joanayebola/introduction-to-javascript-a-beginners-guide-55n6)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
 - [Lifehacker] [The Most High-Maintenance Furniture You Might Want to Avoid](https://lifehacker.com/the-most-high-maintenance-furniture-you-might-want-to-a-1850861015)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
