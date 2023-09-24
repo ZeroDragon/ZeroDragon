@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enhance React Conditional Rendering with the ConditionalRender Component](https://dev.to/serifcolakel/enhance-react-conditional-rendering-with-the-conditionalrender-component-1eh7)
+- [Dev.to/JS] [React-i-Py](https://dev.to/aniiket/react-i-py-4gal)
 - [Dev.to/JS] [Software Developers with Money](https://dev.to/cypriantinasheaarons/software-developers-with-money-446o)
 - [Dev.to/JS] [Junior React JS Developer Seeking Opportunities to Grow and Contribute](https://dev.to/mganji/junior-react-js-developer-seeking-opportunities-to-grow-and-contribute-56c7)
 - [Dev.to/JS] [A Guide to React State Management with Persistence](https://dev.to/kiraaziz/a-guide-to-react-state-management-with-persistence-3maa)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to save JSON data to a file in Node.js](https://dev.to/kiani0x01/how-to-save-json-data-to-a-file-in-nodejs-4ej3)
 - [Dev.to/JS] [Master fs in Node.js](https://dev.to/easewithtuts/master-fs-in-nodejs-5cae)
 - [Dev.to/JS] [List files in a directory using nodejs](https://dev.to/kiani0x01/list-files-in-a-directory-using-nodejs-5a47)
-- [Dev.to/JS] [useState in React JS](https://dev.to/nouman64cat/usestate-in-react-js-2emi)
-- [Dev.to/JS] [Guess the JavaScript Output: Level impossible!](https://dev.to/sadeedpv/guess-the-javascript-output-level-impossible-4bp3)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
