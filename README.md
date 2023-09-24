@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [STOP WATCHING CODING TUTORIALS!](https://dev.to/codewithshahan/stop-watching-coding-tutorials-7k1)
 - [Dev.to/JS] [A Detailed Introduction To JavaScript Objects](https://dev.to/thejason/a-detailed-introduction-to-javascript-objects-4p73)
 - [Dev.to/JS] [Create a Custom Exit-Intent Popup for Your Website](https://dev.to/azizqamar7/creating-a-custom-exit-intent-popup-for-your-website-2718)
 - [Dev.to/JS] [How to save JSON data to a file in Node.js](https://dev.to/kiani0x01/how-to-save-json-data-to-a-file-in-nodejs-4ej3)
@@ -35,9 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guess the JavaScript Output: Level impossible!](https://dev.to/sadeedpv/guess-the-javascript-output-level-impossible-4bp3)
 - [Dev.to/JS] [Coding Beyond Opinions: A Tale of Two Scripts](https://dev.to/cstayyab/coding-beyond-opinions-a-tale-of-two-scripts-1n6m)
 - [Dev.to/JS] [ReactPy = React + Python ?](https://dev.to/aniiket/reactpy-react-python--40mb)
-- [Dev.to/JS] [🔍 Exploring the Magic of JavaScript Sets and Maps 🗺️](https://dev.to/taquiimam14/exploring-the-magic-of-javascript-sets-and-maps-3df1)
+- [Dev.to/JS] [Exploring the Magic of JavaScript Sets and Maps 🗺️](https://dev.to/taquiimam14/exploring-the-magic-of-javascript-sets-and-maps-3df1)
 - [Dev.to/JS] [[每次进步0.1] ES2023中数组的复制更改方法](https://dev.to/andylow/mei-ci-jin-bu-01-es2023zhong-shu-zu-de-fu-zhi-geng-gai-fang-fa-476j)
-- [Dev.to/JS] [If React is soo bad, and alternatives are soo good, why are there so many of them??](https://dev.to/elsyng/if-react-is-soo-bad-and-alternatives-are-soo-good-why-are-there-so-many-of-them-2d45)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
 - [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
