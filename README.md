@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nuxt 3 SSR, Firebase 9. How to set firebase authentication and configure middleware to stay signed in with example](https://dev.to/kucherol/nuxt-3-ssr-firebase-9-how-to-set-firebase-authentication-and-configure-middleware-to-stay-signed-in-with-example-op1)
+- [Lifehacker] [This 2023 Python Bootcamp Is $10 Right Now](https://lifehacker.com/this-2023-python-bootcamp-is-10-right-now-1850863052)
+- [Dev.to/JS] [Building a Custom Hook in React: Executing Actions on Specific Window Resizes](https://dev.to/alais29/building-a-custom-hook-in-react-executing-actions-on-specific-window-resizes-4gi1)
+- [Lifehacker] [Free At-Home COVID Tests Are Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
+- [Lifehacker] [Microsoft Office Is $50 Right Now](https://lifehacker.com/microsoft-office-is-50-right-now-1850862416)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/aurora1m/buy-google-reviews-671)
 - [Lifehacker] [What&#39;s New on Max in October 2023](https://lifehacker.com/whats-new-on-max-in-october-2023-1850868379)
 - [Dev.to/JS] [Detailed Introduction To Prisma ORM](https://dev.to/sammaji15/detailed-introduction-to-prisma-orm-nm2)
@@ -36,13 +41,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build Quicker with Zipper: Building a Ping Pong Ranking App using TypeScript functions](https://dev.to/thawkin3/build-quicker-with-zipper-building-a-ping-pong-ranking-app-using-typescript-functions-52hi)
 - [Lifehacker] [Why Your Flower Stems Have Gone Crooked &lpar;and How to Straighten Them Out Next Year&rpar;](https://lifehacker.com/why-your-flower-stems-have-gone-crooked-and-how-to-str-1850865776)
 - [Dev.to/JS] [Fixing “WordPress Hamburger Menu and Search Toggle Not Working”](https://dev.to/stephengade/fixing-wordpress-hamburger-menu-and-search-toggle-not-working-25m4)
-- [Dev.to/JS] [How do you manage changes to websites?](https://dev.to/opensourcee/have-you-ever-created-an-admin-panel-for-your-websites-4535)
 - [Dev.to/JS] [Buy Verified Paypal Account Cheap](https://dev.to/usatopservices/buy-verified-paypal-account-cheap-3omj)
 - [Dev.to/JS] [Building a Serverless Reader View with Lambda and Chrome](https://dev.to/aws-builders/building-a-serverless-reader-view-with-lambda-and-chrome-766)
 - [Crazy Programmer] [9 Best Free Node.js Hosting 2023](https://www.thecrazyprogrammer.com/2023/09/free-node-js-hosting.html)
 - [Dev.to/JS] [How To Dockerize A Bun App🐳](https://dev.to/code42cate/how-to-dockerize-a-bun-app-38e4)
 - [Dev.to/JS] [Deploying Bun Apps On Hetzner](https://dev.to/code42cate/deploying-bun-apps-on-hetzner-33kb)
-- [Dev.to/JS] [How much does the development of a web application cost?](https://dev.to/sparkouttech/how-much-does-the-development-of-a-web-application-cost-20o1)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [OneAir Elite Is on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
 - [Lifehacker] [Air-fried Croissants Make the Best Croutons](https://lifehacker.com/air-fried-croissants-make-the-best-croutons-1850865723)
 - [Lifehacker] [12 Podcasts That Explain the &#39;90s](https://lifehacker.com/the-podcasts-that-explain-the-90s-1850864874)
-- [Lifehacker] [Why You Should Never Tent Your Turkey With Foil After Cooking It](https://lifehacker.com/do-not-tent-your-turkey-with-foil-1848035893)
-- [Lifehacker] [Meredith&#39;s Training Diary: The Difference Between Good and Bad Pain](https://lifehacker.com/merediths-training-diary-the-difference-between-good-a-1850864894)
-- [Lifehacker] [Kraft Singles Are Being Recalled for a Pretty Silly Reason](https://lifehacker.com/kraft-singles-recall-1850865306)
-- [Lifehacker] [Microsoft Is Adding a Passkey Manager to Windows 11](https://lifehacker.com/microsoft-is-adding-a-passkey-manager-to-windows-11-1850865246)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Tent Your Turkey With Foil After Cooking It](https://lifehacker.com/do-not-tent-your-turkey-with-foil-1848035893)<!-- TECH-POSTS:END -->
 
 ---
 
