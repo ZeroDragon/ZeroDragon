@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
+- [Dev.to/JS] [How to Integrate ChatGpt Into Google Sheets With Apps Script?](https://dev.to/kcl/how-to-integrate-chatgpt-into-google-sheets-with-apps-script-2f5h)
 - [Dev.to/JS] [Mastering useEffect: Rules, Best Practices, and Pitfalls](https://dev.to/cybermaxi7/mastering-useeffect-rules-best-practices-and-pitfalls-353e)
 - [Dev.to/JS] [TypeScript Documentary: the Web evolved with types!](https://dev.to/lucasm/review-of-typescript-documentary-the-web-evolved-with-types-3af1)
 - [Dev.to/JS] [JavaScript Promises: The Scrolls of Asynchronous Magic](https://dev.to/init_chandan/javascript-promises-the-scrolls-of-asynchronous-magic-516o)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [alll links](https://dev.to/bjgfxzweeq32/alll-links-2h65)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Dev.to/JS] [Deep Dive into JavaScript Functions](https://dev.to/frantchessico/deep-dive-into-javascript-functions-2n6f)
-- [Dev.to/JS] [Los 20 principales lenguajes de programación 🚀](https://dev.to/yoezequiel/los-20-principales-lenguajes-de-programacion-2n7n)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
 - [Lifehacker] [This Is the Most &lpar;and Least&rpar; Popular Slang for Each Generation](https://lifehacker.com/this-is-the-most-and-least-popular-slang-for-each-gen-1850861058)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How a Government Shutdown Could Affect Your Finances](https://lifehacker.com/how-a-government-shutdown-could-affect-your-finances-1821181628)
 - [Lifehacker] [So, Your Partner Has a Foot Fetish](https://lifehacker.com/so-your-partner-has-a-foot-fetish-1850864998)
 - [Lifehacker] [You Can Get an Amazon Fire TV Stick for 57% Off &lpar;Plus Three Months of Apple TV&rpar;](https://lifehacker.com/you-can-get-an-amazon-fire-tv-stick-for-57-off-plus-t-1850865131)
-- [Lifehacker] [Why You Should Never Buy an Apple iPhone Case](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)
-- [Lifehacker] [This Blink Wireless Security Camera Bundle Is 50% Off Today Only](https://lifehacker.com/this-blink-wireless-security-camera-bundle-is-50-off-t-1850864881)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Buy an Apple iPhone Case](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)<!-- TECH-POSTS:END -->
 
 ---
 
