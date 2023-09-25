@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Two top-level JavaScript obfuscation tools: JScrambler and JShaman](https://dev.to/__28f08df2bb06aae67f97/two-top-level-javascript-obfuscation-tools-jscrambler-and-jshaman-421j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
 - [Dev.to/JS] [How to Integrate ChatGpt Into Google Sheets With Apps Script?](https://dev.to/kcl/how-to-integrate-chatgpt-into-google-sheets-with-apps-script-2f5h)
 - [Dev.to/JS] [Mastering useEffect: Rules, Best Practices, and Pitfalls](https://dev.to/cybermaxi7/mastering-useeffect-rules-best-practices-and-pitfalls-353e)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lesson 04 check replit projekt](https://dev.to/zafar7709/lesson-04-check-replit-projekt-ahl)
 - [Dev.to/JS] [alll links](https://dev.to/bjgfxzweeq32/alll-links-2h65)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
-- [Dev.to/JS] [Deep Dive into JavaScript Functions](https://dev.to/frantchessico/deep-dive-into-javascript-functions-2n6f)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
 - [Lifehacker] [This Is the Most &lpar;and Least&rpar; Popular Slang for Each Generation](https://lifehacker.com/this-is-the-most-and-least-popular-slang-for-each-gen-1850861058)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
