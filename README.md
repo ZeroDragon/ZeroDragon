@@ -26,29 +26,34 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Need a Digital ‘Dead Man’s Switch’](https://lifehacker.com/why-you-need-a-digital-dead-man-s-switch-1850870582)
+- [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 3&rpar;](https://dev.to/louislazaris/web-dev-tools-of-the-week-no-3-27o8)
+- [Dev.to/JS] [Demystifying the Flow: Understanding How React, Express, NGINX, and Docker Work Together](https://dev.to/kleinaitis/demystifying-the-flow-understanding-react-express-nginx-and-docker-1m5k)
+- [Lifehacker] [Use LIFO, Not FIFO, to Manage Your Inbox](https://lifehacker.com/use-lifo-not-fifo-to-manage-your-inbox-1850870937)
+- [Dev.to/JS] [collapsed menu getting refreshed on page opening](https://dev.to/devcommunity/collapsed-menu-getting-refreshed-on-page-opening-55e)
+- [Lifehacker] [How to Open a Health Savings Account Without an Employer](https://lifehacker.com/how-to-open-a-health-savings-account-1826916017)
+- [Dev.to/JS] [First basic API With Node&lpar;Javascript&rpar;](https://dev.to/gabrieldev2001/first-basic-api-with-nodejavascript-4eaa)
 - [Lifehacker] [This Is How Much You Need to Budget for Health Expenses](https://lifehacker.com/this-is-how-much-you-need-to-budget-for-health-expenses-1850865928)
 - [Dev.to/JS] [Why Ember.js is designed for Enterprise Software Development](https://dev.to/sukima/why-emberjs-is-designed-for-enterprise-software-development-6le)
 - [Lifehacker] [Use the ‘Yesterbox’ Method to Stay on Top of Your Inbox](https://lifehacker.com/use-the-yesterbox-method-to-stay-on-top-of-your-inbox-1850870791)
 - [Dev.to/JS] [React Hooks now part of Ably’s JavaScript SDK &lpar;and how to build a simple React App with Ably&rpar;](https://dev.to/ably/react-hooks-now-part-of-ablys-javascript-sdk-and-how-to-build-a-simple-react-app-with-ably-588i)
+- [Lifehacker] [Make Better Yams With This Homemade Marshmallow Fluff](https://lifehacker.com/make-your-own-marshmallow-fluff-for-better-yams-1839874160)
 - [Dev.to/JS] [Scaling Your Tech Team: Why Choose Full Stack Developers in India](https://dev.to/jackwil77516601/scaling-your-tech-team-why-choose-full-stack-developers-in-india-3fma)
 - [Dev.to/JS] [SEO Optimization with Nuxt.js](https://dev.to/hakimov_dev/seo-optimization-with-nuxtjs-14en)
 - [Lifehacker] [This Three-Camera Arlo Pro 4 Spotlight Bundle Is 53% Off Today Only](https://lifehacker.com/this-three-camera-arlo-pro-4-spotlight-bundle-is-53-of-1850870677)
 - [Dev.to/JS] [Getting Started with React: A Beginner&#39;s Guide to Web Development](https://dev.to/joymukherjee_18/getting-started-with-react-a-beginners-guide-to-web-development-4f2)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in October 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-october-2023-1850870374)
+- [Lifehacker] [How to Share Your Wifi Password From Basically Any Device](https://lifehacker.com/how-to-share-your-wifi-password-from-any-device-1847387089)
 - [Dev.to/JS] [Buy Trustpilot Reviews UK](https://dev.to/usatopservice23/buy-trustpilot-reviews-uk-3da5)
 - [Dev.to/JS] [Vulnerability Scanning of Node.js Applications](https://dev.to/saint_vandora/vulnerability-scanning-of-nodejs-applications-1oic)
 - [Lifehacker] [OpenAI Is Rolling Out Two New Ways to Chat With ChatGPT](https://lifehacker.com/openai-is-rolling-out-two-new-ways-to-chat-with-chatgpt-1850870166)
 - [Lifehacker] [You Might Want a Longer Needle for Your Next Vaccine](https://lifehacker.com/you-might-want-a-longer-needle-for-your-next-vaccine-1850870077)
 - [Lifehacker] [How to Bake Eggs in a Muffin Tin for an Easy Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
 - [Dev.to/JS] [Thrilling Features of ECMAScript 2023 &lpar;ES14&rpar;](https://dev.to/dhanushnehru/thrilling-features-of-ecmascript-2023-es14-9mp)
-- [Dev.to/JS] [React Props vs State: What&#39;s the Difference?](https://dev.to/highflyer910/react-props-vs-state-whats-the-difference-4e3i)
 - [Lifehacker] [All the Ways Your Smartphone Can Be a Crucial Home Maintenance Tool](https://lifehacker.com/all-the-ways-your-smartphone-can-be-a-crucial-home-main-1850870194)
-- [Dev.to/JS] [Nuxt 3 SSR, Firebase 9. How to set firebase authentication and configure middleware to stay signed in with example](https://dev.to/kucherol/nuxt-3-ssr-firebase-9-how-to-set-firebase-authentication-and-configure-middleware-to-stay-signed-in-with-example-op1)
 - [Lifehacker] [This 2023 Python Bootcamp Is $10 Right Now](https://lifehacker.com/this-2023-python-bootcamp-is-10-right-now-1850863052)
-- [Dev.to/JS] [Building a Custom Hook in React: Executing Actions on Specific Window Resizes](https://dev.to/alais29/building-a-custom-hook-in-react-executing-actions-on-specific-window-resizes-4gi1)
 - [Lifehacker] [Free At-Home COVID Tests Are Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
 - [Lifehacker] [Microsoft Office Is $50 Right Now](https://lifehacker.com/microsoft-office-is-50-right-now-1850862416)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/aurora1m/buy-google-reviews-671)
 - [Lifehacker] [What&#39;s New on Max in October 2023](https://lifehacker.com/whats-new-on-max-in-october-2023-1850868379)
 - [Lifehacker] [The Best Headphones on Sale in September 2023](https://lifehacker.com/best-headphone-deals-1850866758)
 - [Lifehacker] [Make Better Poached Eggs by Freezing Them First](https://lifehacker.com/make-better-poached-eggs-by-freezing-them-first-1850866365)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Most &lpar;and Least&rpar; Popular Slang for Each Generation](https://lifehacker.com/this-is-the-most-and-least-popular-slang-for-each-gen-1850861058)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)
 - [Lifehacker] [Why You Shouldn&#39;t Wait to Aerate Your Lawn](https://lifehacker.com/why-you-shouldnt-wait-to-aerate-your-lawn-1850860992)
-- [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)
-- [Lifehacker] [The Most High-Maintenance Furniture You Might Want to Avoid](https://lifehacker.com/the-most-high-maintenance-furniture-you-might-want-to-a-1850861015)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
-- [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
-- [Lifehacker] [Headway Premium Is $60 Right Now](https://lifehacker.com/headway-premium-is-60-right-now-1850862380)
-- [Lifehacker] [This ASUS Gaming Laptop Is $250 Off Right Now](https://lifehacker.com/this-asus-gaming-laptop-is-250-off-right-now-1850865843)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Improve Your Relationship With a Job You Hate](https://lifehacker.com/the-best-ways-to-improve-your-relationship-with-a-job-y-1850861003)<!-- TECH-POSTS:END -->
 
 ---
 
