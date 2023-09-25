@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with React: A Beginner&#39;s Guide to Web Development](https://dev.to/joymukherjee_18/getting-started-with-react-a-beginners-guide-to-web-development-4f2)
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in October 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-october-2023-1850870374)
+- [Dev.to/JS] [Buy Trustpilot Reviews UK](https://dev.to/usatopservice23/buy-trustpilot-reviews-uk-3da5)
+- [Dev.to/JS] [Vulnerability Scanning of Node.js Applications](https://dev.to/saint_vandora/vulnerability-scanning-of-nodejs-applications-1oic)
+- [Lifehacker] [OpenAI Is Rolling Out Two New Ways to Chat With ChatGPT](https://lifehacker.com/openai-is-rolling-out-two-new-ways-to-chat-with-chatgpt-1850870166)
 - [Lifehacker] [You Might Want a Longer Needle for Your Next Vaccine](https://lifehacker.com/you-might-want-a-longer-needle-for-your-next-vaccine-1850870077)
 - [Lifehacker] [How to Bake Eggs in a Muffin Tin for an Easy Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
 - [Dev.to/JS] [Thrilling Features of ECMAScript 2023 &lpar;ES14&rpar;](https://dev.to/dhanushnehru/thrilling-features-of-ecmascript-2023-es14-9mp)
@@ -45,10 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Better Poached Eggs by Freezing Them First](https://lifehacker.com/make-better-poached-eggs-by-freezing-them-first-1850866365)
 - [Dev.to/JS] [Build Quicker with Zipper: Building a Ping Pong Ranking App using TypeScript functions](https://dev.to/thawkin3/build-quicker-with-zipper-building-a-ping-pong-ranking-app-using-typescript-functions-52hi)
 - [Lifehacker] [Why Your Flower Stems Have Gone Crooked &lpar;and How to Straighten Them Out Next Year&rpar;](https://lifehacker.com/why-your-flower-stems-have-gone-crooked-and-how-to-str-1850865776)
-- [Dev.to/JS] [Fixing “WordPress Hamburger Menu and Search Toggle Not Working”](https://dev.to/stephengade/fixing-wordpress-hamburger-menu-and-search-toggle-not-working-25m4)
-- [Dev.to/JS] [Building a Serverless Reader View with Lambda and Chrome](https://dev.to/aws-builders/building-a-serverless-reader-view-with-lambda-and-chrome-766)
 - [Crazy Programmer] [9 Best Free Node.js Hosting 2023](https://www.thecrazyprogrammer.com/2023/09/free-node-js-hosting.html)
-- [Dev.to/JS] [How To Dockerize A Bun App🐳](https://dev.to/code42cate/how-to-dockerize-a-bun-app-38e4)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This ASUS Gaming Laptop Is $250 Off Right Now](https://lifehacker.com/this-asus-gaming-laptop-is-250-off-right-now-1850865843)
 - [Lifehacker] [This 1TB Internal SSD Is 31% Off Right Now](https://lifehacker.com/this-1tb-internal-ssd-is-31-off-right-now-1850865883)
 - [Lifehacker] [You Can Now Get Your Free Credit Report Every Week, Forever](https://lifehacker.com/you-can-now-get-your-free-credit-report-every-week-for-1850865987)
-- [Lifehacker] [How to Get Rid of Old Furniture](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
-- [Lifehacker] [Unsubscribe From Unwanted Mailing Lists With This Chrome Extension](https://lifehacker.com/unsubscribe-from-unwanted-mailing-lists-with-this-chrom-1850865766)
-- [Lifehacker] [OneAir Elite Is on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Rid of Old Furniture](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)<!-- TECH-POSTS:END -->
 
 ---
 
