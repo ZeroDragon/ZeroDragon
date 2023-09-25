@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Have you ever created an admin panel for your websites?](https://dev.to/opensourcee/have-you-ever-created-an-admin-panel-for-your-websites-4535)
+- [Dev.to/JS] [Buy Verified Paypal Account Cheap](https://dev.to/usatopservices/buy-verified-paypal-account-cheap-3omj)
+- [Dev.to/JS] [Building a Serverless Reader View with Lambda and Chrome](https://dev.to/aws-builders/building-a-serverless-reader-view-with-lambda-and-chrome-766)
 - [Crazy Programmer] [9 Best Free Node.js Hosting 2023](https://www.thecrazyprogrammer.com/2023/09/free-node-js-hosting.html)
 - [Dev.to/JS] [How To Dockerize A Bun App🐳](https://dev.to/code42cate/how-to-dockerize-a-bun-app-38e4)
 - [Dev.to/JS] [Deploying Bun Apps On Hetzner](https://dev.to/code42cate/deploying-bun-apps-on-hetzner-33kb)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SMS MARKETING FOR BUSINESS: COMPLETE GUIDE](https://dev.to/prashantkira/sms-marketing-for-business-complete-guide-4k39)
 - [Dev.to/JS] [Type sharing in OpenAPI Fullstack projects](https://dev.to/jacobandrewsky/type-sharing-in-openapi-fullstack-projects-dfc)
 - [Dev.to/JS] [Languages and Tools of Web Development](https://dev.to/annoh_karlgusta/languages-and-tools-of-web-development-10ao)
-- [Dev.to/JS] [File System Access API: How VSCode.dev Edits Local Files in the Browser](https://dev.to/nasserahmed009/file-system-access-api-how-vscodedev-edits-local-files-in-the-browser-484l)
-- [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Solution, Benefits, Reviews &amp; Where To Buy?](https://dev.to/bluevibecb60521/blue-vibe-cbd-gummies-pain-relief-solution-benefits-reviews-where-to-buy-g8d)
-- [Dev.to/JS] [Hackers in the dark web/ black hat](https://dev.to/canseo/hackers-in-the-dark-web-black-hat-1l8)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
