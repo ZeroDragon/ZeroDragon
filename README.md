@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is How Much You Need to Budget for Health Expenses](https://lifehacker.com/this-is-how-much-you-need-to-budget-for-health-expenses-1850865928)
+- [Dev.to/JS] [Why Ember.js is designed for Enterprise Software Development](https://dev.to/sukima/why-emberjs-is-designed-for-enterprise-software-development-6le)
+- [Lifehacker] [Use the ‘Yesterbox’ Method to Stay on Top of Your Inbox](https://lifehacker.com/use-the-yesterbox-method-to-stay-on-top-of-your-inbox-1850870791)
+- [Dev.to/JS] [React Hooks now part of Ably’s JavaScript SDK &lpar;and how to build a simple React App with Ably&rpar;](https://dev.to/ably/react-hooks-now-part-of-ablys-javascript-sdk-and-how-to-build-a-simple-react-app-with-ably-588i)
+- [Dev.to/JS] [Scaling Your Tech Team: Why Choose Full Stack Developers in India](https://dev.to/jackwil77516601/scaling-your-tech-team-why-choose-full-stack-developers-in-india-3fma)
+- [Dev.to/JS] [SEO Optimization with Nuxt.js](https://dev.to/hakimov_dev/seo-optimization-with-nuxtjs-14en)
+- [Lifehacker] [This Three-Camera Arlo Pro 4 Spotlight Bundle Is 53% Off Today Only](https://lifehacker.com/this-three-camera-arlo-pro-4-spotlight-bundle-is-53-of-1850870677)
 - [Dev.to/JS] [Getting Started with React: A Beginner&#39;s Guide to Web Development](https://dev.to/joymukherjee_18/getting-started-with-react-a-beginners-guide-to-web-development-4f2)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in October 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-october-2023-1850870374)
 - [Dev.to/JS] [Buy Trustpilot Reviews UK](https://dev.to/usatopservice23/buy-trustpilot-reviews-uk-3da5)
@@ -43,12 +50,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Microsoft Office Is $50 Right Now](https://lifehacker.com/microsoft-office-is-50-right-now-1850862416)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/aurora1m/buy-google-reviews-671)
 - [Lifehacker] [What&#39;s New on Max in October 2023](https://lifehacker.com/whats-new-on-max-in-october-2023-1850868379)
-- [Dev.to/JS] [Detailed Introduction To Prisma ORM](https://dev.to/sammaji15/detailed-introduction-to-prisma-orm-nm2)
-- [Dev.to/JS] [JavaScript : Modules and ES6 Modules &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-modules-and-es6-modules-englishhindi-55j0)
 - [Lifehacker] [The Best Headphones on Sale in September 2023](https://lifehacker.com/best-headphone-deals-1850866758)
-- [Dev.to/JS] [Optimizing JavaScript Runtime for Peak Performance](https://dev.to/codingcrafts/optimizing-javascript-runtime-for-peak-performance-30f)
 - [Lifehacker] [Make Better Poached Eggs by Freezing Them First](https://lifehacker.com/make-better-poached-eggs-by-freezing-them-first-1850866365)
-- [Dev.to/JS] [Build Quicker with Zipper: Building a Ping Pong Ranking App using TypeScript functions](https://dev.to/thawkin3/build-quicker-with-zipper-building-a-ping-pong-ranking-app-using-typescript-functions-52hi)
 - [Lifehacker] [Why Your Flower Stems Have Gone Crooked &lpar;and How to Straighten Them Out Next Year&rpar;](https://lifehacker.com/why-your-flower-stems-have-gone-crooked-and-how-to-str-1850865776)
 - [Crazy Programmer] [9 Best Free Node.js Hosting 2023](https://www.thecrazyprogrammer.com/2023/09/free-node-js-hosting.html)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 23](https://lifehacker.com/nyt-connections-answer-today-september-23-2023-1850862961)
 - [Lifehacker] [You Can Get eero mesh Wifi Systems at a Huge Discount Right Now](https://lifehacker.com/you-can-get-eero-mesh-wifi-systems-at-a-huge-discount-r-1850866748)
 - [Lifehacker] [Headway Premium Is $60 Right Now](https://lifehacker.com/headway-premium-is-60-right-now-1850862380)
-- [Lifehacker] [This ASUS Gaming Laptop Is $250 Off Right Now](https://lifehacker.com/this-asus-gaming-laptop-is-250-off-right-now-1850865843)
-- [Lifehacker] [This 1TB Internal SSD Is 31% Off Right Now](https://lifehacker.com/this-1tb-internal-ssd-is-31-off-right-now-1850865883)
-- [Lifehacker] [You Can Now Get Your Free Credit Report Every Week, Forever](https://lifehacker.com/you-can-now-get-your-free-credit-report-every-week-for-1850865987)
-- [Lifehacker] [How to Get Rid of Old Furniture](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This ASUS Gaming Laptop Is $250 Off Right Now](https://lifehacker.com/this-asus-gaming-laptop-is-250-off-right-now-1850865843)<!-- TECH-POSTS:END -->
 
 ---
 
