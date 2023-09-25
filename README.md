@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Might Want a Longer Needle for Your Next Vaccine](https://lifehacker.com/you-might-want-a-longer-needle-for-your-next-vaccine-1850870077)
+- [Lifehacker] [How to Bake Eggs in a Muffin Tin for an Easy Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
+- [Dev.to/JS] [Thrilling Features of ECMAScript 2023 &lpar;ES14&rpar;](https://dev.to/dhanushnehru/thrilling-features-of-ecmascript-2023-es14-9mp)
+- [Dev.to/JS] [React Props vs State: What&#39;s the Difference?](https://dev.to/highflyer910/react-props-vs-state-whats-the-difference-4e3i)
+- [Lifehacker] [All the Ways Your Smartphone Can Be a Crucial Home Maintenance Tool](https://lifehacker.com/all-the-ways-your-smartphone-can-be-a-crucial-home-main-1850870194)
 - [Dev.to/JS] [Nuxt 3 SSR, Firebase 9. How to set firebase authentication and configure middleware to stay signed in with example](https://dev.to/kucherol/nuxt-3-ssr-firebase-9-how-to-set-firebase-authentication-and-configure-middleware-to-stay-signed-in-with-example-op1)
 - [Lifehacker] [This 2023 Python Bootcamp Is $10 Right Now](https://lifehacker.com/this-2023-python-bootcamp-is-10-right-now-1850863052)
 - [Dev.to/JS] [Building a Custom Hook in React: Executing Actions on Specific Window Resizes](https://dev.to/alais29/building-a-custom-hook-in-react-executing-actions-on-specific-window-resizes-4gi1)
@@ -41,11 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build Quicker with Zipper: Building a Ping Pong Ranking App using TypeScript functions](https://dev.to/thawkin3/build-quicker-with-zipper-building-a-ping-pong-ranking-app-using-typescript-functions-52hi)
 - [Lifehacker] [Why Your Flower Stems Have Gone Crooked &lpar;and How to Straighten Them Out Next Year&rpar;](https://lifehacker.com/why-your-flower-stems-have-gone-crooked-and-how-to-str-1850865776)
 - [Dev.to/JS] [Fixing “WordPress Hamburger Menu and Search Toggle Not Working”](https://dev.to/stephengade/fixing-wordpress-hamburger-menu-and-search-toggle-not-working-25m4)
-- [Dev.to/JS] [Buy Verified Paypal Account Cheap](https://dev.to/usatopservices/buy-verified-paypal-account-cheap-3omj)
 - [Dev.to/JS] [Building a Serverless Reader View with Lambda and Chrome](https://dev.to/aws-builders/building-a-serverless-reader-view-with-lambda-and-chrome-766)
 - [Crazy Programmer] [9 Best Free Node.js Hosting 2023](https://www.thecrazyprogrammer.com/2023/09/free-node-js-hosting.html)
 - [Dev.to/JS] [How To Dockerize A Bun App🐳](https://dev.to/code42cate/how-to-dockerize-a-bun-app-38e4)
-- [Dev.to/JS] [Deploying Bun Apps On Hetzner](https://dev.to/code42cate/deploying-bun-apps-on-hetzner-33kb)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Get Your Free Credit Report Every Week, Forever](https://lifehacker.com/you-can-now-get-your-free-credit-report-every-week-for-1850865987)
 - [Lifehacker] [How to Get Rid of Old Furniture](https://lifehacker.com/the-right-way-to-get-rid-of-your-old-couch-1849842683)
 - [Lifehacker] [Unsubscribe From Unwanted Mailing Lists With This Chrome Extension](https://lifehacker.com/unsubscribe-from-unwanted-mailing-lists-with-this-chrom-1850865766)
-- [Lifehacker] [OneAir Elite Is on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
-- [Lifehacker] [Air-fried Croissants Make the Best Croutons](https://lifehacker.com/air-fried-croissants-make-the-best-croutons-1850865723)
-- [Lifehacker] [12 Podcasts That Explain the &#39;90s](https://lifehacker.com/the-podcasts-that-explain-the-90s-1850864874)
-- [Lifehacker] [Why You Should Never Tent Your Turkey With Foil After Cooking It](https://lifehacker.com/do-not-tent-your-turkey-with-foil-1848035893)<!-- TECH-POSTS:END -->
+- [Lifehacker] [OneAir Elite Is on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)<!-- TECH-POSTS:END -->
 
 ---
 
