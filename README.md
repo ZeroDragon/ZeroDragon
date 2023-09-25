@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How much does the development of a web application cost?](https://dev.to/sparkouttech/how-much-does-the-development-of-a-web-application-cost-20o1)
+- [Dev.to/JS] [Taking Frontend Architecture Serious with dependency-cruiser](https://dev.to/rubenoostinga/taking-frontend-architecture-serious-with-dependency-cruiser-5fc2)
 - [Dev.to/JS] [A Comprehensive Guide to the JavaScript slice&lpar;&rpar; Method: Exploring Arrays and Functions](https://dev.to/gkhan205/a-comprehensive-guide-to-the-javascript-slice-method-exploring-arrays-and-functions-3md4)
 - [Dev.to/JS] [Hacktoberfest 2023: My Web Development Odyssey 🚀👨‍💻](https://dev.to/cyblogerz/hacktoberfest-2023-my-web-development-odyssey-57kb)
 - [Dev.to/JS] [SMS MARKETING FOR BUSINESS: COMPLETE GUIDE](https://dev.to/prashantkira/sms-marketing-for-business-complete-guide-4k39)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hackers in the dark web/ black hat](https://dev.to/canseo/hackers-in-the-dark-web-black-hat-1l8)
 - [Dev.to/JS] [How Do You corroborate Your Cash App Account](https://dev.to/usatopservices/how-do-you-corroborate-your-cash-app-account-4023)
 - [Dev.to/JS] [🌲Svelte + 🍃Leaflet + 📍 Clusters](https://dev.to/arnaudfl/svelte-leaflet-clusters-1fgb)
-- [Dev.to/JS] [The other array methods in JavaScript](https://dev.to/kennethlum/the-other-array-methods-in-javascript-f1m)
-- [Dev.to/JS] [Best Practices in React Development](https://dev.to/arafatweb/best-practices-in-react-development-126c)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
