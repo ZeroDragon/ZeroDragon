@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [9 Best Free Node.js Hosting 2023](https://www.thecrazyprogrammer.com/2023/09/free-node-js-hosting.html)
+- [Dev.to/JS] [How To Dockerize A Bun App🐳](https://dev.to/code42cate/how-to-dockerize-a-bun-app-38e4)
+- [Dev.to/JS] [Deploying Bun Apps On Hetzner](https://dev.to/code42cate/deploying-bun-apps-on-hetzner-33kb)
 - [Dev.to/JS] [How much does the development of a web application cost?](https://dev.to/sparkouttech/how-much-does-the-development-of-a-web-application-cost-20o1)
 - [Dev.to/JS] [Taking Frontend Architecture Serious with dependency-cruiser](https://dev.to/rubenoostinga/taking-frontend-architecture-serious-with-dependency-cruiser-5fc2)
 - [Dev.to/JS] [A Comprehensive Guide to the JavaScript slice&lpar;&rpar; Method: Exploring Arrays and Functions](https://dev.to/gkhan205/a-comprehensive-guide-to-the-javascript-slice-method-exploring-arrays-and-functions-3md4)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [File System Access API: How VSCode.dev Edits Local Files in the Browser](https://dev.to/nasserahmed009/file-system-access-api-how-vscodedev-edits-local-files-in-the-browser-484l)
 - [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Solution, Benefits, Reviews &amp; Where To Buy?](https://dev.to/bluevibecb60521/blue-vibe-cbd-gummies-pain-relief-solution-benefits-reviews-where-to-buy-g8d)
 - [Dev.to/JS] [Hackers in the dark web/ black hat](https://dev.to/canseo/hackers-in-the-dark-web-black-hat-1l8)
-- [Dev.to/JS] [How Do You corroborate Your Cash App Account](https://dev.to/usatopservices/how-do-you-corroborate-your-cash-app-account-4023)
-- [Dev.to/JS] [🌲Svelte + 🍃Leaflet + 📍 Clusters](https://dev.to/arnaudfl/svelte-leaflet-clusters-1fgb)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Share Your AirTag’s Location With Others](https://lifehacker.com/how-to-share-airtag-locations-1850865334)
 - [Lifehacker] [How a Government Shutdown Could Affect Your Finances](https://lifehacker.com/how-a-government-shutdown-could-affect-your-finances-1821181628)
 - [Lifehacker] [So, Your Partner Has a Foot Fetish](https://lifehacker.com/so-your-partner-has-a-foot-fetish-1850864998)
-- [Lifehacker] [You Can Get an Amazon Fire TV Stick for 57% Off &lpar;Plus Three Months of Apple TV&rpar;](https://lifehacker.com/you-can-get-an-amazon-fire-tv-stick-for-57-off-plus-t-1850865131)
-- [Lifehacker] [Why You Should Never Buy an Apple iPhone Case](https://lifehacker.com/don-t-buy-apple-s-iphone-cases-1849984015)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get an Amazon Fire TV Stick for 57% Off &lpar;Plus Three Months of Apple TV&rpar;](https://lifehacker.com/you-can-get-an-amazon-fire-tv-stick-for-57-off-plus-t-1850865131)<!-- TECH-POSTS:END -->
 
 ---
 
