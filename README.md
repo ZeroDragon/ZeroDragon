@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🌲Svelte + 🍃Leaflet + 📍 Clusters](https://dev.to/arnaudfl/svelte-leaflet-clusters-1fgb)
 - [Dev.to/JS] [The other array methods in JavaScript](https://dev.to/kennethlum/the-other-array-methods-in-javascript-f1m)
 - [Dev.to/JS] [Best Practices in React Development](https://dev.to/arafatweb/best-practices-in-react-development-126c)
 - [Dev.to/JS] [How to Add Row in Datatable on Click of Button](https://dev.to/techsolutionstuff/how-to-add-row-in-datatable-on-click-of-button-4cd7)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All you need to know about metadata in next.js 13 by Anik Routh](https://dev.to/anikrouth/all-you-need-to-know-about-metadata-in-nextjs-13-by-anik-routh-1e8i)
 - [Dev.to/JS] [The Best Way to Know What is React Js](https://dev.to/tbc/the-best-way-to-know-what-is-react-js-4mej)
 - [Dev.to/JS] [Prediksi Angka HK 25 September 2023](https://dev.to/angkajitu/prediksi-angka-hk-25-september-2023-30j8)
-- [Dev.to/JS] [Optimizing File Processing in React with Multipart Uploads and Downloads](https://dev.to/shingaiz/optimizing-file-processing-in-react-with-multipart-uploads-and-downloads-2n8p)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
 - [Lifehacker] [This Is the Most &lpar;and Least&rpar; Popular Slang for Each Generation](https://lifehacker.com/this-is-the-most-and-least-popular-slang-for-each-gen-1850861058)
