@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Type sharing in OpenAPI Fullstack projects](https://dev.to/jacobandrewsky/type-sharing-in-openapi-fullstack-projects-dfc)
+- [Dev.to/JS] [Languages and Tools of Web Development](https://dev.to/annoh_karlgusta/languages-and-tools-of-web-development-10ao)
+- [Dev.to/JS] [File System Access API: How VSCode.dev Edits Local Files in the Browser](https://dev.to/nasserahmed009/file-system-access-api-how-vscodedev-edits-local-files-in-the-browser-484l)
+- [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Solution, Benefits, Reviews &amp; Where To Buy?](https://dev.to/bluevibecb60521/blue-vibe-cbd-gummies-pain-relief-solution-benefits-reviews-where-to-buy-g8d)
+- [Dev.to/JS] [Hackers in the dark web/ black hat](https://dev.to/canseo/hackers-in-the-dark-web-black-hat-1l8)
 - [Dev.to/JS] [How Do You corroborate Your Cash App Account](https://dev.to/usatopservices/how-do-you-corroborate-your-cash-app-account-4023)
 - [Dev.to/JS] [🌲Svelte + 🍃Leaflet + 📍 Clusters](https://dev.to/arnaudfl/svelte-leaflet-clusters-1fgb)
 - [Dev.to/JS] [The other array methods in JavaScript](https://dev.to/kennethlum/the-other-array-methods-in-javascript-f1m)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Two top-level JavaScript obfuscation tools: JScrambler and JShaman](https://dev.to/__28f08df2bb06aae67f97/two-top-level-javascript-obfuscation-tools-jscrambler-and-jshaman-421j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
 - [Dev.to/JS] [How to Integrate ChatGpt Into Google Sheets With Apps Script?](https://dev.to/kcl/how-to-integrate-chatgpt-into-google-sheets-with-apps-script-2f5h)
-- [Dev.to/JS] [Mastering useEffect: Rules, Best Practices, and Pitfalls](https://dev.to/cybermaxi7/mastering-useeffect-rules-best-practices-and-pitfalls-353e)
-- [Dev.to/JS] [TypeScript Documentary: the Web evolved with types!](https://dev.to/lucasm/review-of-typescript-documentary-the-web-evolved-with-types-3af1)
-- [Dev.to/JS] [JavaScript Promises: The Scrolls of Asynchronous Magic](https://dev.to/init_chandan/javascript-promises-the-scrolls-of-asynchronous-magic-516o)
-- [Dev.to/JS] [All you need to know about metadata in next.js 13 by Anik Routh](https://dev.to/anikrouth/all-you-need-to-know-about-metadata-in-nextjs-13-by-anik-routh-1e8i)
-- [Dev.to/JS] [The Best Way to Know What is React Js](https://dev.to/tbc/the-best-way-to-know-what-is-react-js-4mej)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
 - [Lifehacker] [This Is the Most &lpar;and Least&rpar; Popular Slang for Each Generation](https://lifehacker.com/this-is-the-most-and-least-popular-slang-for-each-gen-1850861058)
