@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Comprehensive Guide to the JavaScript slice&lpar;&rpar; Method: Exploring Arrays and Functions](https://dev.to/gkhan205/a-comprehensive-guide-to-the-javascript-slice-method-exploring-arrays-and-functions-3md4)
+- [Dev.to/JS] [Hacktoberfest 2023: My Web Development Odyssey 🚀👨‍💻](https://dev.to/cyblogerz/hacktoberfest-2023-my-web-development-odyssey-57kb)
+- [Dev.to/JS] [SMS MARKETING FOR BUSINESS: COMPLETE GUIDE](https://dev.to/prashantkira/sms-marketing-for-business-complete-guide-4k39)
 - [Dev.to/JS] [Type sharing in OpenAPI Fullstack projects](https://dev.to/jacobandrewsky/type-sharing-in-openapi-fullstack-projects-dfc)
 - [Dev.to/JS] [Languages and Tools of Web Development](https://dev.to/annoh_karlgusta/languages-and-tools-of-web-development-10ao)
 - [Dev.to/JS] [File System Access API: How VSCode.dev Edits Local Files in the Browser](https://dev.to/nasserahmed009/file-system-access-api-how-vscodedev-edits-local-files-in-the-browser-484l)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🌲Svelte + 🍃Leaflet + 📍 Clusters](https://dev.to/arnaudfl/svelte-leaflet-clusters-1fgb)
 - [Dev.to/JS] [The other array methods in JavaScript](https://dev.to/kennethlum/the-other-array-methods-in-javascript-f1m)
 - [Dev.to/JS] [Best Practices in React Development](https://dev.to/arafatweb/best-practices-in-react-development-126c)
-- [Dev.to/JS] [How to Add Row in Datatable on Click of Button](https://dev.to/techsolutionstuff/how-to-add-row-in-datatable-on-click-of-button-4cd7)
-- [Dev.to/JS] [Two top-level JavaScript obfuscation tools: JScrambler and JShaman](https://dev.to/__28f08df2bb06aae67f97/two-top-level-javascript-obfuscation-tools-jscrambler-and-jshaman-421j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
-- [Dev.to/JS] [How to Integrate ChatGpt Into Google Sheets With Apps Script?](https://dev.to/kcl/how-to-integrate-chatgpt-into-google-sheets-with-apps-script-2f5h)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
 - [Lifehacker] [This Is the Most &lpar;and Least&rpar; Popular Slang for Each Generation](https://lifehacker.com/this-is-the-most-and-least-popular-slang-for-each-gen-1850861058)
