@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript - Understanding Functions](https://dev.to/yuki-92c/javascript-understanding-functions-4dpj)
+- [Dev.to/JS] [Interested in the latest JS news? Follow me on Twitter/X to stay up to date 🔥](https://dev.to/michalkuncio/interested-in-the-latest-js-news-follow-me-on-twitterx-to-stay-up-to-date-339c)
+- [Lifehacker] [Now Anyone Can Play Music in Your Car, No Matter Who&#39;s Connected to CarPlay](https://lifehacker.com/now-anyone-can-play-music-in-your-car-no-matter-whos-c-1850871141)
+- [Lifehacker] [The Best Ways to Open a Coconut at Home](https://lifehacker.com/the-best-way-to-split-open-a-coconut-without-any-tools-1788929306)
+- [Dev.to/JS] [Hey Web Devs! What are you learning this week? 😋](https://dev.to/pavelkeyzik/hey-web-devs-what-are-you-learning-this-week-2lb4)
 - [Lifehacker] [These Apple Accessories Are Up to 90% Off Right Now](https://lifehacker.com/these-apple-accessories-are-up-to-90-off-right-now-1850871211)
 - [Dev.to/JS] [Who does even need Microfronteds?](https://dev.to/janhommes/who-does-even-need-microfronteds-49i2)
 - [Dev.to/JS] [Understanding Coupling in React: Best practices and Examples](https://dev.to/gvegacl/understanding-coupling-in-react-practices-and-examples-1h1n)
@@ -41,11 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Open a Health Savings Account Without an Employer](https://lifehacker.com/how-to-open-a-health-savings-account-1826916017)
 - [Dev.to/JS] [First basic API With Node&lpar;Javascript&rpar;](https://dev.to/gabrieldev2001/first-basic-api-with-nodejavascript-4eaa)
 - [Lifehacker] [This Is How Much You Need to Budget for Health Expenses](https://lifehacker.com/this-is-how-much-you-need-to-budget-for-health-expenses-1850865928)
-- [Dev.to/JS] [Why Ember.js is designed for Enterprise Software Development](https://dev.to/sukima/why-emberjs-is-designed-for-enterprise-software-development-6le)
 - [Lifehacker] [Use the ‘Yesterbox’ Method to Stay on Top of Your Inbox](https://lifehacker.com/use-the-yesterbox-method-to-stay-on-top-of-your-inbox-1850870791)
-- [Dev.to/JS] [React Hooks now part of Ably’s JavaScript SDK &lpar;and how to build a simple React App with Ably&rpar;](https://dev.to/ably/react-hooks-now-part-of-ablys-javascript-sdk-and-how-to-build-a-simple-react-app-with-ably-588i)
 - [Lifehacker] [Make Better Yams With This Homemade Marshmallow Fluff](https://lifehacker.com/make-your-own-marshmallow-fluff-for-better-yams-1839874160)
-- [Dev.to/JS] [Scaling Your Tech Team: Why Choose Full Stack Developers in India](https://dev.to/jackwil77516601/scaling-your-tech-team-why-choose-full-stack-developers-in-india-3fma)
 - [Lifehacker] [This Three-Camera Arlo Pro 4 Spotlight Bundle Is 53% Off Today Only](https://lifehacker.com/this-three-camera-arlo-pro-4-spotlight-bundle-is-53-of-1850870677)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in October 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-october-2023-1850870374)
 - [Lifehacker] [How to Share Your Wifi Password From Basically Any Device](https://lifehacker.com/how-to-share-your-wifi-password-from-any-device-1847387089)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [9 Best Free Node.js Hosting 2023](https://www.thecrazyprogrammer.com/2023/09/free-node-js-hosting.html)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
-- [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
-- [Lifehacker] [This Is the Most &lpar;and Least&rpar; Popular Slang for Each Generation](https://lifehacker.com/this-is-the-most-and-least-popular-slang-for-each-gen-1850861058)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, September 24](https://lifehacker.com/nyt-connections-answer-today-september-24-2023-1850864473)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)<!-- TECH-POSTS:END -->
 
 ---
 
