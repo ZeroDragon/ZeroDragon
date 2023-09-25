@@ -26,22 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/aurora1m/buy-google-reviews-671)
+- [Lifehacker] [What&#39;s New on Max in October 2023](https://lifehacker.com/whats-new-on-max-in-october-2023-1850868379)
+- [Dev.to/JS] [Detailed Introduction To Prisma ORM](https://dev.to/sammaji15/detailed-introduction-to-prisma-orm-nm2)
+- [Dev.to/JS] [JavaScript : Modules and ES6 Modules &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-modules-and-es6-modules-englishhindi-55j0)
 - [Lifehacker] [The Best Headphones on Sale in September 2023](https://lifehacker.com/best-headphone-deals-1850866758)
-- [Dev.to/JS] [Um post de teste2😉](https://dev.to/hugolima03/um-post-de-teste2-4mel)
 - [Dev.to/JS] [Optimizing JavaScript Runtime for Peak Performance](https://dev.to/codingcrafts/optimizing-javascript-runtime-for-peak-performance-30f)
 - [Lifehacker] [Make Better Poached Eggs by Freezing Them First](https://lifehacker.com/make-better-poached-eggs-by-freezing-them-first-1850866365)
 - [Dev.to/JS] [Build Quicker with Zipper: Building a Ping Pong Ranking App using TypeScript functions](https://dev.to/thawkin3/build-quicker-with-zipper-building-a-ping-pong-ranking-app-using-typescript-functions-52hi)
 - [Lifehacker] [Why Your Flower Stems Have Gone Crooked &lpar;and How to Straighten Them Out Next Year&rpar;](https://lifehacker.com/why-your-flower-stems-have-gone-crooked-and-how-to-str-1850865776)
 - [Dev.to/JS] [Fixing “WordPress Hamburger Menu and Search Toggle Not Working”](https://dev.to/stephengade/fixing-wordpress-hamburger-menu-and-search-toggle-not-working-25m4)
-- [Dev.to/JS] [Have you ever created an admin panel for your websites?](https://dev.to/opensourcee/have-you-ever-created-an-admin-panel-for-your-websites-4535)
+- [Dev.to/JS] [How do you manage changes to websites?](https://dev.to/opensourcee/have-you-ever-created-an-admin-panel-for-your-websites-4535)
 - [Dev.to/JS] [Buy Verified Paypal Account Cheap](https://dev.to/usatopservices/buy-verified-paypal-account-cheap-3omj)
 - [Dev.to/JS] [Building a Serverless Reader View with Lambda and Chrome](https://dev.to/aws-builders/building-a-serverless-reader-view-with-lambda-and-chrome-766)
 - [Crazy Programmer] [9 Best Free Node.js Hosting 2023](https://www.thecrazyprogrammer.com/2023/09/free-node-js-hosting.html)
 - [Dev.to/JS] [How To Dockerize A Bun App🐳](https://dev.to/code42cate/how-to-dockerize-a-bun-app-38e4)
 - [Dev.to/JS] [Deploying Bun Apps On Hetzner](https://dev.to/code42cate/deploying-bun-apps-on-hetzner-33kb)
 - [Dev.to/JS] [How much does the development of a web application cost?](https://dev.to/sparkouttech/how-much-does-the-development-of-a-web-application-cost-20o1)
-- [Dev.to/JS] [Taking Frontend Architecture Serious with dependency-cruiser](https://dev.to/rubenoostinga/taking-frontend-architecture-serious-with-dependency-cruiser-5fc2)
-- [Dev.to/JS] [A Comprehensive Guide to the JavaScript slice&lpar;&rpar; Method: Exploring Arrays and Functions](https://dev.to/gkhan205/a-comprehensive-guide-to-the-javascript-slice-method-exploring-arrays-and-functions-3md4)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, September 25](https://lifehacker.com/nyt-connections-answer-today-september-25-2023-1850864622)
 - [Lifehacker] [It&#39;s Not a Great Time to Buy a Starter Home](https://lifehacker.com/its-not-a-great-time-to-buy-a-starter-home-1850866617)
 - [Lifehacker] [Use This One-Minute Test to Find Out If Your Refrigerator Is Leaking Cold Air](https://lifehacker.com/use-this-one-minute-test-to-find-out-if-your-refrigerat-1850866620)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Tent Your Turkey With Foil After Cooking It](https://lifehacker.com/do-not-tent-your-turkey-with-foil-1848035893)
 - [Lifehacker] [Meredith&#39;s Training Diary: The Difference Between Good and Bad Pain](https://lifehacker.com/merediths-training-diary-the-difference-between-good-a-1850864894)
 - [Lifehacker] [Kraft Singles Are Being Recalled for a Pretty Silly Reason](https://lifehacker.com/kraft-singles-recall-1850865306)
-- [Lifehacker] [Microsoft Is Adding a Passkey Manager to Windows 11](https://lifehacker.com/microsoft-is-adding-a-passkey-manager-to-windows-11-1850865246)
-- [Lifehacker] [You Can Finally Share Your AirTag’s Location With Others](https://lifehacker.com/how-to-share-airtag-locations-1850865334)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Microsoft Is Adding a Passkey Manager to Windows 11](https://lifehacker.com/microsoft-is-adding-a-passkey-manager-to-windows-11-1850865246)<!-- TECH-POSTS:END -->
 
 ---
 
