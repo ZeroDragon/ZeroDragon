@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unit test...clean after yourself and sometimes after others too](https://dev.to/dfaiz/unit-testclean-after-yourself-and-sometimes-after-other-too-5ghl)
+- [Dev.to/JS] [NUXT JS/VUE JS. SIMPLE SLIDER WITH DYNAMIC COMPONENT.](https://dev.to/kucherol/nuxt-jsvue-js-simple-slider-with-dynamic-component-566c)
+- [Dev.to/JS] [Functional Programming: an accumulator of methods to transform objects in Javascript](https://dev.to/sw360cab/functional-programming-an-accumulator-of-methods-to-transform-objects-in-javascript-3in3)
+- [Dev.to/JS] [Building a Custom Image Editor with Xata](https://dev.to/moerayo/creating-a-custom-image-editor-with-xata-28ac)
 - [Dev.to/JS] [Mastering Closures in JavaScript: A Comprehensive Guide](https://dev.to/imranabdulmalik/mastering-closures-in-javascript-a-comprehensive-guide-4ja8)
 - [Dev.to/JS] [Smooth menu scroll action](https://dev.to/petrdlouhy/smooth-menu-scroll-action-3o9c)
 - [Dev.to/JS] [SSR Before &amp; After Next 13](https://dev.to/revoltez/ssr-before-after-next-13-8l)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Microsoft Azure AZ-900 Dumps: Your Key to Success](https://dev.to/az900testdumps/microsoft-azure-az-900-dumps-your-key-to-success-3pno)
 - [Dev.to/JS] [Best JavaScript Frameworks in 2023](https://dev.to/canadianagency/best-javascript-frameworks-in-2023-5257)
 - [Dev.to/JS] [Subset sum equal to target &lpar;DP- 14&rpar;](https://dev.to/zeeshanali0704/subset-sum-equal-to-target-dp-14-4fe)
-- [Dev.to/JS] [Sanjeev Mansotra | How to Become a Good Javascript Coder?](https://dev.to/sanjeevmansotra/sanjeev-mansotra-how-to-become-a-good-javascript-coder-207)
-- [Dev.to/JS] [React vs. Vue: A Comprehensive Comparison](https://dev.to/arafatweb/react-vs-vue-a-comprehensive-comparison-2ln7)
-- [Dev.to/JS] [Day 4: Throttling &amp; Debouncing 🚀](https://dev.to/shivamblog/day-4-throttling-debouncing-7dc)
-- [Dev.to/JS] [🛑 Stop learning many frameworks.](https://dev.to/michthebrandofficial/stop-learning-many-frameworks-1dak)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
 - [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
