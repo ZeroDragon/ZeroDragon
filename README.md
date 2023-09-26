@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Opportunities in Artificial Intelligence](https://dev.to/michellebuchiokonicha/opportunities-in-artificial-intelligence-2l4g)
+- [Dev.to/JS] [TOP Guide to Vue.js Events](https://dev.to/noobizdev/top-guide-to-vuejs-events-5efb)
+- [Dev.to/JS] [Frontend podcast list 🎙️](https://dev.to/tech_foutraque/frontend-podcast-list-fh7)
+- [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
+- [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)
 - [Dev.to/JS] [My HTML/CSS Journey: Overcoming Challenges and Embracing the World of JavaScript](https://dev.to/charleswtiffany/my-css-journey-overcoming-challenges-and-embracing-the-world-of-javascript-1af8)
 - [Lifehacker] [Woot Has Refurbished Philips Hue Smart Lights for Up to 62% Off](https://lifehacker.com/woot-has-refurbished-philips-hue-smart-lights-for-up-to-1850875208)
 - [Dev.to/JS] [Believe In The Web](https://dev.to/bbarbour/believe-in-the-web-32b2)
@@ -43,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s When You Should &lpar;and Shouldn’t&rpar; Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)
 - [Dev.to/JS] [Create stunning product tours with driver.js 🚖](https://dev.to/michalkuncio/create-stunning-product-tours-with-driverjs-42h4)
 - [Dev.to/JS] [React - useRef](https://dev.to/programador51/react-useref-3den)
-- [Dev.to/JS] [Top Adhesive Manufacturer](https://dev.to/topadhesivemanu/top-adhesive-manufacturer-4g8i)
-- [Dev.to/JS] [Day 3 Bubble Sort in JS](https://dev.to/devfs/day-3-bubble-sort-in-js-44b4)
-- [Dev.to/JS] [React Plugins](https://dev.to/opensourcee/react-plugins-516j)
 - [Lifehacker] [A ‘Work College’ Can Give You Experience and Education for Free](https://lifehacker.com/a-work-college-can-give-you-experience-and-education-1850873911)
 - [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
 - [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Jazz up Your Oatmeal With Honeyed Boba](https://lifehacker.com/jazz-up-your-oatmeal-with-honeyed-boba-1850871035)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
-- [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
-- [Lifehacker] [This Belkin 3-In-1 Magsafe Charger for iPhone is 32% Off Right Now](https://lifehacker.com/this-belkin-3-in-1-magsafe-charger-for-iphone-is-32-of-1850871665)
-- [Lifehacker] [Now Anyone Can Play Music in Your Car, No Matter Who&#39;s Connected to CarPlay](https://lifehacker.com/now-anyone-can-play-music-in-your-car-no-matter-whos-c-1850871141)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)<!-- TECH-POSTS:END -->
 
 ---
 
