@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Magic Tricks: Debugger Interception](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-debugger-interception-2gp)
 - [Dev.to/JS] [Como o npm install resolve as dependências de um projeto](https://dev.to/dan_bertolini/como-o-npm-install-resolve-as-dependencias-de-um-projeto-25cm)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
 - [Dev.to/JS] [React vs Vue](https://dev.to/easewithtuts/react-vs-vue-1olo)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished MacBook Air Is $320 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-320-right-now-1850862814)
 - [Dev.to/JS] [TF #16 | Your weekly frontend digest](https://dev.to/tech_foutraque/tf-16-your-weekly-frontend-digest-3934)
 - [Dev.to/JS] [Publishing your first enterprise-level NPM package](https://dev.to/anukr98/publishing-your-first-enterprise-level-npm-package-37eb)
-- [Dev.to/JS] [Elevate Your Sports App: A Guide to NCAA and NFL Highlights API Integration](https://dev.to/sports_junkie/elevate-your-sports-app-a-guide-to-ncaa-and-nfl-highlights-api-integration-1m03)
 - [Lifehacker] [Why You Need a Digital ‘Dead Man’s Switch’](https://lifehacker.com/why-you-need-a-digital-dead-man-s-switch-1850870582)
 - [Lifehacker] [Use LIFO, Not FIFO, to Manage Your Inbox](https://lifehacker.com/use-lifo-not-fifo-to-manage-your-inbox-1850870937)
 - [Lifehacker] [How to Open a Health Savings Account Without an Employer](https://lifehacker.com/how-to-open-a-health-savings-account-1826916017)
