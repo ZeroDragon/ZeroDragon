@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Tubi&#39;s AI Wants to Give You Better Movie Recommendations](https://lifehacker.com/tubi-ai-movie-recommendations-1850871190)
+- [Dev.to/JS] [cat carriers](https://dev.to/peppycats/cat-carriers-3k80)
+- [Lifehacker] [An Age-By-Age Guide to Raising an Autonomous Kid](https://lifehacker.com/an-age-by-age-guide-to-raising-an-autonomous-kid-1850871105)
+- [Dev.to/JS] [GPG/PGP Encryption Decryption](https://dev.to/silvenleaf/gpg-encryption-decryption-55cl)
+- [Dev.to/JS] [🚀 10 Github repositories to achieve Javascript mastery 🧙‍♂️🪄✨](https://dev.to/novu/10-github-repositories-to-achieve-javascript-mastery-50hk)
+- [Dev.to/JS] [VueJS part 5: Handling events](https://dev.to/hi_iam_chris/vuejs-part-5-handling-events-1p2a)
+- [Dev.to/JS] [10 Popular Web Design Trends in 2023](https://dev.to/lilybrown47/10-popular-web-design-trends-in-2023-5c2p)
+- [Dev.to/JS] [The Art of Clean Code: Java Style and Conventions](https://dev.to/alphaaman/the-art-of-clean-code-java-style-and-conventions-193h)
+- [Lifehacker] [Jazz up Your Oatmeal With Honeyed Boba](https://lifehacker.com/jazz-up-your-oatmeal-with-honeyed-boba-1850871035)
 - [Dev.to/JS] [Unit test...clean after yourself and sometimes after others too](https://dev.to/dfaiz/unit-testclean-after-yourself-and-sometimes-after-other-too-5ghl)
 - [Dev.to/JS] [NUXT JS/VUE JS. SIMPLE SLIDER WITH DYNAMIC COMPONENT.](https://dev.to/kucherol/nuxt-jsvue-js-simple-slider-with-dynamic-component-566c)
 - [Dev.to/JS] [Functional Programming: an accumulator of methods to transform objects in Javascript](https://dev.to/sw360cab/functional-programming-an-accumulator-of-methods-to-transform-objects-in-javascript-3in3)
 - [Dev.to/JS] [Building a Custom Image Editor with Xata](https://dev.to/moerayo/creating-a-custom-image-editor-with-xata-28ac)
 - [Dev.to/JS] [Mastering Closures in JavaScript: A Comprehensive Guide](https://dev.to/imranabdulmalik/mastering-closures-in-javascript-a-comprehensive-guide-4ja8)
 - [Dev.to/JS] [Smooth menu scroll action](https://dev.to/petrdlouhy/smooth-menu-scroll-action-3o9c)
-- [Dev.to/JS] [SSR Before &amp; After Next 13](https://dev.to/revoltez/ssr-before-after-next-13-8l)
-- [Dev.to/JS] [18. Acai Berry: Nature&#39;s Superfood Unleashed - Freeze-Dried Acai Powder](https://dev.to/thomasliam/18-acai-berry-natures-superfood-unleashed-freeze-dried-acai-powder-1674)
-- [Dev.to/JS] [Harnessing the Revolutionary Potential of AI: The Reasons Behind Infinity Pillars Adoption of Artificial Intelligence.](https://dev.to/abhishek8938/harnessing-the-revolutionary-potential-of-ai-the-reasons-behind-infinity-pillars-adoption-of-artificial-intelligence-4ac6)
-- [Dev.to/JS] [Microsoft Azure AZ-900 Dumps: Your Key to Success](https://dev.to/az900testdumps/microsoft-azure-az-900-dumps-your-key-to-success-3pno)
-- [Dev.to/JS] [Best JavaScript Frameworks in 2023](https://dev.to/canadianagency/best-javascript-frameworks-in-2023-5257)
-- [Dev.to/JS] [Subset sum equal to target &lpar;DP- 14&rpar;](https://dev.to/zeeshanali0704/subset-sum-equal-to-target-dp-14-4fe)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
 - [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 2023 Python Bootcamp Is $10 Right Now](https://lifehacker.com/this-2023-python-bootcamp-is-10-right-now-1850863052)
 - [Lifehacker] [Free At-Home COVID Tests Are Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
 - [Lifehacker] [Microsoft Office Is $50 Right Now](https://lifehacker.com/microsoft-office-is-50-right-now-1850862416)
-- [Lifehacker] [What&#39;s New on Max in October 2023](https://lifehacker.com/whats-new-on-max-in-october-2023-1850868379)
-- [Lifehacker] [The Best Headphones on Sale in September 2023](https://lifehacker.com/best-headphone-deals-1850866758)
-- [Lifehacker] [Make Better Poached Eggs by Freezing Them First](https://lifehacker.com/make-better-poached-eggs-by-freezing-them-first-1850866365)
-- [Lifehacker] [Why Your Flower Stems Have Gone Crooked &lpar;and How to Straighten Them Out Next Year&rpar;](https://lifehacker.com/why-your-flower-stems-have-gone-crooked-and-how-to-str-1850865776)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Max in October 2023](https://lifehacker.com/whats-new-on-max-in-october-2023-1850868379)<!-- TECH-POSTS:END -->
 
 ---
 
