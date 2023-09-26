@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MEAN Stack Explained](https://dev.to/kinsta/mean-stack-explained-lgj)
+- [Lifehacker] [Use the &#39;20/10 Method&#39; to Clean Without Exhausting Yourself](https://lifehacker.com/use-the-20-10-method-to-clean-without-exhausting-yourse-1850874448)
+- [Dev.to/JS] [Highs and Lows of a Firebase/React Development](https://dev.to/mjoycemilburn/highs-and-lows-of-a-firebasereact-development-2olh)
+- [Dev.to/JS] [Bite-Size Async Rust for TS/JS Developer](https://dev.to/chenhunghan/bite-size-async-rust-for-tsjs-developer-502i)
+- [Lifehacker] [11 of the Best Kettlebell Exercises for Beginners](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
+- [Lifehacker] [Here’s When You Should &lpar;and Shouldn’t&rpar; Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)
+- [Dev.to/JS] [Create stunning product tours with driver.js 🚖](https://dev.to/michalkuncio/create-stunning-product-tours-with-driverjs-42h4)
+- [Dev.to/JS] [React - useRef](https://dev.to/programador51/react-useref-3den)
+- [Dev.to/JS] [Top Adhesive Manufacturer](https://dev.to/topadhesivemanu/top-adhesive-manufacturer-4g8i)
 - [Dev.to/JS] [Day 3 Bubble Sort in JS](https://dev.to/devfs/day-3-bubble-sort-in-js-44b4)
 - [Dev.to/JS] [React Plugins](https://dev.to/opensourcee/react-plugins-516j)
 - [Lifehacker] [A ‘Work College’ Can Give You Experience and Education for Free](https://lifehacker.com/a-work-college-can-give-you-experience-and-education-1850873911)
@@ -35,18 +44,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)
 - [Dev.to/JS] [Building a store for digital products with Next.js and Medusa](https://dev.to/medusajs/building-a-store-for-digital-products-with-nextjs-and-medusa-1o6m)
 - [Dev.to/JS] [Promises, async, and await in ReScript &lpar;with Bun!&rpar;](https://dev.to/jderochervlk/promises-async-and-await-in-rescript-with-bun-2840)
-- [Dev.to/JS] [The Rise Of Bun 1.0: Is Node.js In Trouble?](https://dev.to/lena_everly/the-rise-of-bun-10-is-nodejs-in-trouble-4g63)
 - [Lifehacker] [No, iOS 17 Won’t ‘Kill’ Your iPhone](https://lifehacker.com/no-ios-17-won-t-kill-your-iphone-1850873506)
-- [Dev.to/JS] [Clean Architecture &lpar;Application Layer&rpar;](https://dev.to/julianlasso/clean-architecture-application-layer-3n1e)
 - [Lifehacker] [The Cielo Smart Thermostat Is on Sale for $150 Right Now](https://lifehacker.com/the-cielo-smart-thermostat-is-on-sale-for-150-right-no-1850866904)
-- [Dev.to/JS] [JavaScript + AI: a Perfect Duo for Low-code Automations](https://dev.to/latenode/javascript-ai-a-perfect-duo-for-low-code-automations-2b74)
-- [Dev.to/JS] [How to Connect Express app to RabbitMQ](https://dev.to/aiabhishek/how-to-connect-express-app-to-rabbitmq-4gjo)
 - [Lifehacker] [The Apple Watch Series 8 Is Up to $120 Off Right Now](https://lifehacker.com/the-apple-watch-series-8-is-up-to-120-off-right-now-1850873343)
-- [Dev.to/JS] [Free JavaScript book. “The comprehensive guide”](https://dev.to/shawn2208/free-javascript-book-the-comprehensive-guide-301n)
 - [Lifehacker] [Why You Shouldn&#39;t Use Apple AirTags to Keep Track of Your Kids](https://lifehacker.com/should-you-use-apple-airtags-to-keep-track-of-your-kids-1847752273)
 - [Lifehacker] [You Can Shift From a Scarcity Mindset to an Abundance Mindset](https://lifehacker.com/you-can-shift-from-a-scarcity-mindset-to-an-abundance-m-1850871908)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in October 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-october-2023-1850871930)
-- [Dev.to/JS] [👾 Getting started with Astro Framework](https://dev.to/refine/getting-started-with-astro-framework-2f2f)
 - [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
 - [Lifehacker] [This Dell Optiplex Desktop Is $380 Right Now](https://lifehacker.com/this-dell-optiplex-desktop-is-380-right-now-1850866868)
 - [Lifehacker] [The Samsung Galaxy Watch4 Classic LTE Is 58% Off Right Now](https://lifehacker.com/the-samsung-galaxy-watch4-classic-lte-is-58-off-right-1850871864)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Apple Accessories Are Up to 90% Off Right Now](https://lifehacker.com/these-apple-accessories-are-up-to-90-off-right-now-1850871211)
 - [Lifehacker] [This Refurbished MacBook Air Is $320 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-320-right-now-1850862814)
 - [Lifehacker] [Why You Need a Digital ‘Dead Man’s Switch’](https://lifehacker.com/why-you-need-a-digital-dead-man-s-switch-1850870582)
-- [Lifehacker] [Use LIFO, Not FIFO, to Manage Your Inbox](https://lifehacker.com/use-lifo-not-fifo-to-manage-your-inbox-1850870937)
-- [Lifehacker] [How to Open a Health Savings Account Without an Employer](https://lifehacker.com/how-to-open-a-health-savings-account-1826916017)
-- [Lifehacker] [This Is How Much You Need to Budget for Health Expenses](https://lifehacker.com/this-is-how-much-you-need-to-budget-for-health-expenses-1850865928)
-- [Lifehacker] [Use the ‘Yesterbox’ Method to Stay on Top of Your Inbox](https://lifehacker.com/use-the-yesterbox-method-to-stay-on-top-of-your-inbox-1850870791)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use LIFO, Not FIFO, to Manage Your Inbox](https://lifehacker.com/use-lifo-not-fifo-to-manage-your-inbox-1850870937)<!-- TECH-POSTS:END -->
 
 ---
 
