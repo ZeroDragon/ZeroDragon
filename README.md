@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My HTML/CSS Journey: Overcoming Challenges and Embracing the World of JavaScript](https://dev.to/charleswtiffany/my-css-journey-overcoming-challenges-and-embracing-the-world-of-javascript-1af8)
+- [Lifehacker] [Woot Has Refurbished Philips Hue Smart Lights for Up to 62% Off](https://lifehacker.com/woot-has-refurbished-philips-hue-smart-lights-for-up-to-1850875208)
+- [Dev.to/JS] [Believe In The Web](https://dev.to/bbarbour/believe-in-the-web-32b2)
 - [Lifehacker] [Avoid These Words That Send Your Email to Spam](https://lifehacker.com/avoid-these-words-that-send-your-email-to-spam-1850875029)
 - [Lifehacker] [Here&#39;s a Better Recipe for Those Viral Auntie Anne’s Cinnamon Sugar Pretzel Bites](https://lifehacker.com/heres-a-better-recipe-for-those-viral-auntie-anne-s-cin-1850874690)
 - [Dev.to/JS] [Variables and Data Types in JavaScript for Beginners](https://dev.to/joanayebola/variables-and-data-types-in-javascript-for-beginners-338o)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Appliances Are up to 76% Off During Walmart&#39;s Fall Sale](https://lifehacker.com/these-appliances-are-up-to-76-off-during-walmarts-fall-1850873915)
 - [Dev.to/JS] [MEAN Stack Explained](https://dev.to/kinsta/mean-stack-explained-lgj)
 - [Lifehacker] [Use the &#39;20/10 Method&#39; to Clean Without Exhausting Yourself](https://lifehacker.com/use-the-20-10-method-to-clean-without-exhausting-yourse-1850874448)
-- [Dev.to/JS] [Highs and Lows of a Firebase/React Development](https://dev.to/mjoycemilburn/highs-and-lows-of-a-firebasereact-development-2olh)
 - [Dev.to/JS] [Bite-Size Async Rust for TS/JS Developer](https://dev.to/chenhunghan/bite-size-async-rust-for-tsjs-developer-502i)
 - [Lifehacker] [11 of the Best Kettlebell Exercises for Beginners](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
 - [Lifehacker] [Here’s When You Should &lpar;and Shouldn’t&rpar; Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)
@@ -46,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Plugins](https://dev.to/opensourcee/react-plugins-516j)
 - [Lifehacker] [A ‘Work College’ Can Give You Experience and Education for Free](https://lifehacker.com/a-work-college-can-give-you-experience-and-education-1850873911)
 - [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
-- [Dev.to/JS] [How to develop a React application from scratch with modern libraries](https://dev.to/carlosazaustre/how-to-develop-a-react-application-from-scratch-with-modern-libraries-2n7f)
 - [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)
 - [Lifehacker] [No, iOS 17 Won’t ‘Kill’ Your iPhone](https://lifehacker.com/no-ios-17-won-t-kill-your-iphone-1850873506)
 - [Lifehacker] [The Cielo Smart Thermostat Is on Sale for $150 Right Now](https://lifehacker.com/the-cielo-smart-thermostat-is-on-sale-for-150-right-no-1850866904)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
 - [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
 - [Lifehacker] [This Belkin 3-In-1 Magsafe Charger for iPhone is 32% Off Right Now](https://lifehacker.com/this-belkin-3-in-1-magsafe-charger-for-iphone-is-32-of-1850871665)
-- [Lifehacker] [Now Anyone Can Play Music in Your Car, No Matter Who&#39;s Connected to CarPlay](https://lifehacker.com/now-anyone-can-play-music-in-your-car-no-matter-whos-c-1850871141)
-- [Lifehacker] [The Best Ways to Open a Coconut at Home](https://lifehacker.com/the-best-way-to-split-open-a-coconut-without-any-tools-1788929306)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Now Anyone Can Play Music in Your Car, No Matter Who&#39;s Connected to CarPlay](https://lifehacker.com/now-anyone-can-play-music-in-your-car-no-matter-whos-c-1850871141)<!-- TECH-POSTS:END -->
 
 ---
 
