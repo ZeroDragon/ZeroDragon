@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript + AI: a Perfect Duo for Low-code Automations](https://dev.to/latenode/javascript-ai-a-perfect-duo-for-low-code-automations-2b74)
+- [Dev.to/JS] [How to Connect Express app to RabbitMQ](https://dev.to/aiabhishek/how-to-connect-express-app-to-rabbitmq-4gjo)
+- [Lifehacker] [The Apple Watch Series 8 Is Up to $120 Off Right Now](https://lifehacker.com/the-apple-watch-series-8-is-up-to-120-off-right-now-1850873343)
+- [Dev.to/JS] [Free JavaScript book. “The comprehensive guide”](https://dev.to/shawn2208/free-javascript-book-the-comprehensive-guide-301n)
+- [Lifehacker] [Why You Shouldn&#39;t Use Apple AirTags to Keep Track of Your Kids](https://lifehacker.com/should-you-use-apple-airtags-to-keep-track-of-your-kids-1847752273)
+- [Lifehacker] [You Can Shift From a Scarcity Mindset to an Abundance Mindset](https://lifehacker.com/you-can-shift-from-a-scarcity-mindset-to-an-abundance-m-1850871908)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in October 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-october-2023-1850871930)
 - [Dev.to/JS] [🔥What are the differences between const, let, and var? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/10-must-know-questions-for-junior-developers-what-are-the-differences-between-const-let-and-var-11le)
 - [Dev.to/JS] [👾 Getting started with Astro Framework](https://dev.to/refine/getting-started-with-astro-framework-2f2f)
@@ -41,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-By-Age Guide to Raising an Autonomous Kid](https://lifehacker.com/an-age-by-age-guide-to-raising-an-autonomous-kid-1850871105)
 - [Dev.to/JS] [GPG/PGP Encryption Decryption](https://dev.to/silvenleaf/gpg-encryption-decryption-55cl)
 - [Dev.to/JS] [🚀 10 Github repositories to achieve Javascript mastery 🧙‍♂️🪄✨](https://dev.to/novu/10-github-repositories-to-achieve-javascript-mastery-50hk)
-- [Dev.to/JS] [VueJS part 5: Handling events](https://dev.to/hi_iam_chris/vuejs-part-5-handling-events-1p2a)
-- [Dev.to/JS] [10 Popular Web Design Trends in 2023](https://dev.to/lilybrown47/10-popular-web-design-trends-in-2023-5c2p)
-- [Dev.to/JS] [The Art of Clean Code: Java Style and Conventions](https://dev.to/alphaaman/the-art-of-clean-code-java-style-and-conventions-193h)
 - [Lifehacker] [Jazz up Your Oatmeal With Honeyed Boba](https://lifehacker.com/jazz-up-your-oatmeal-with-honeyed-boba-1850871035)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Three-Camera Arlo Pro 4 Spotlight Bundle Is 53% Off Today Only](https://lifehacker.com/this-three-camera-arlo-pro-4-spotlight-bundle-is-53-of-1850870677)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in October 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-october-2023-1850870374)
 - [Lifehacker] [How to Share Your Wifi Password From Basically Any Device](https://lifehacker.com/how-to-share-your-wifi-password-from-any-device-1847387089)
-- [Lifehacker] [OpenAI Is Rolling Out Two New Ways to Chat With ChatGPT](https://lifehacker.com/openai-is-rolling-out-two-new-ways-to-chat-with-chatgpt-1850870166)
-- [Lifehacker] [You Might Want a Longer Needle for Your Next Vaccine](https://lifehacker.com/you-might-want-a-longer-needle-for-your-next-vaccine-1850870077)
-- [Lifehacker] [How to Bake Eggs in a Muffin Tin for an Easy Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
-- [Lifehacker] [All the Ways Your Smartphone Can Be a Crucial Home Maintenance Tool](https://lifehacker.com/all-the-ways-your-smartphone-can-be-a-crucial-home-main-1850870194)<!-- TECH-POSTS:END -->
+- [Lifehacker] [OpenAI Is Rolling Out Two New Ways to Chat With ChatGPT](https://lifehacker.com/openai-is-rolling-out-two-new-ways-to-chat-with-chatgpt-1850870166)<!-- TECH-POSTS:END -->
 
 ---
 
