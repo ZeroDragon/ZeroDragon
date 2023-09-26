@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pass Data From Child to Parent Component in React](https://dev.to/reactjsguru/pass-data-from-child-to-parent-component-in-react-2e)
+- [Dev.to/JS] [Create A Middleware In NextJS 13](https://dev.to/skipperhoa/create-a-middleware-in-nextjs-13-17oh)
+- [Dev.to/JS] [Create A Example Handling Data Fetching With SWR In NextJS 13](https://dev.to/skipperhoa/create-a-example-handling-data-fetching-with-swr-in-nextjs-13-1997)
 - [Dev.to/JS] [Example Of Using The GenerateStaticParams&lpar;&rpar; In NextJs](https://dev.to/skipperhoa/example-of-using-the-generatestaticparams-in-nextjs-2db2)
 - [Dev.to/JS] [Create A Project With Next.Js](https://dev.to/skipperhoa/create-a-project-with-nextjs-1gi6)
 - [Dev.to/JS] [JavaScript Magic Tricks: Debugger Interception](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-debugger-interception-2gp)
@@ -41,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interested in the latest JS news? Follow me on Twitter/X to stay up to date 🔥](https://dev.to/michalkuncio/interested-in-the-latest-js-news-follow-me-on-twitterx-to-stay-up-to-date-339c)
 - [Lifehacker] [Now Anyone Can Play Music in Your Car, No Matter Who&#39;s Connected to CarPlay](https://lifehacker.com/now-anyone-can-play-music-in-your-car-no-matter-whos-c-1850871141)
 - [Lifehacker] [The Best Ways to Open a Coconut at Home](https://lifehacker.com/the-best-way-to-split-open-a-coconut-without-any-tools-1788929306)
-- [Dev.to/JS] [Hey Web Devs! What are you learning this week? 😋](https://dev.to/pavelkeyzik/hey-web-devs-what-are-you-learning-this-week-2lb4)
 - [Lifehacker] [These Apple Accessories Are Up to 90% Off Right Now](https://lifehacker.com/these-apple-accessories-are-up-to-90-off-right-now-1850871211)
-- [Dev.to/JS] [Who does even need Microfronteds?](https://dev.to/janhommes/who-does-even-need-microfronteds-49i2)
-- [Dev.to/JS] [Understanding Coupling in React: Best practices and Examples](https://dev.to/gvegacl/understanding-coupling-in-react-practices-and-examples-1h1n)
 - [Lifehacker] [This Refurbished MacBook Air Is $320 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-320-right-now-1850862814)
 - [Lifehacker] [Why You Need a Digital ‘Dead Man’s Switch’](https://lifehacker.com/why-you-need-a-digital-dead-man-s-switch-1850870582)
 - [Lifehacker] [Use LIFO, Not FIFO, to Manage Your Inbox](https://lifehacker.com/use-lifo-not-fifo-to-manage-your-inbox-1850870937)
