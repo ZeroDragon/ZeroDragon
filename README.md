@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Avoid These Words That Send Your Email to Spam](https://lifehacker.com/avoid-these-words-that-send-your-email-to-spam-1850875029)
+- [Lifehacker] [Here&#39;s a Better Recipe for Those Viral Auntie Anne’s Cinnamon Sugar Pretzel Bites](https://lifehacker.com/heres-a-better-recipe-for-those-viral-auntie-anne-s-cin-1850874690)
+- [Dev.to/JS] [Variables and Data Types in JavaScript for Beginners](https://dev.to/joanayebola/variables-and-data-types-in-javascript-for-beginners-338o)
+- [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
+- [Dev.to/JS] [Various Ways to Leverage Angular Directives: An In-Depth Guide](https://dev.to/zeeshanhshaheen/various-ways-to-leverage-angular-directives-an-in-depth-guide-1pka)
+- [Dev.to/JS] [Using Jest to bulletproof a TypeScript Class - Part 1](https://dev.to/joaotextor/using-jest-to-bulletproof-a-typescript-class-part-1-hjo)
+- [Lifehacker] [These Appliances Are up to 76% Off During Walmart&#39;s Fall Sale](https://lifehacker.com/these-appliances-are-up-to-76-off-during-walmarts-fall-1850873915)
 - [Dev.to/JS] [MEAN Stack Explained](https://dev.to/kinsta/mean-stack-explained-lgj)
 - [Lifehacker] [Use the &#39;20/10 Method&#39; to Clean Without Exhausting Yourself](https://lifehacker.com/use-the-20-10-method-to-clean-without-exhausting-yourse-1850874448)
 - [Dev.to/JS] [Highs and Lows of a Firebase/React Development](https://dev.to/mjoycemilburn/highs-and-lows-of-a-firebasereact-development-2olh)
@@ -40,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A ‘Work College’ Can Give You Experience and Education for Free](https://lifehacker.com/a-work-college-can-give-you-experience-and-education-1850873911)
 - [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
 - [Dev.to/JS] [How to develop a React application from scratch with modern libraries](https://dev.to/carlosazaustre/how-to-develop-a-react-application-from-scratch-with-modern-libraries-2n7f)
-- [Dev.to/JS] [Please vote for me](https://dev.to/dalalord/please-vote-for-me-e4o)
 - [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)
-- [Dev.to/JS] [Building a store for digital products with Next.js and Medusa](https://dev.to/medusajs/building-a-store-for-digital-products-with-nextjs-and-medusa-1o6m)
-- [Dev.to/JS] [Promises, async, and await in ReScript &lpar;with Bun!&rpar;](https://dev.to/jderochervlk/promises-async-and-await-in-rescript-with-bun-2840)
 - [Lifehacker] [No, iOS 17 Won’t ‘Kill’ Your iPhone](https://lifehacker.com/no-ios-17-won-t-kill-your-iphone-1850873506)
 - [Lifehacker] [The Cielo Smart Thermostat Is on Sale for $150 Right Now](https://lifehacker.com/the-cielo-smart-thermostat-is-on-sale-for-150-right-no-1850866904)
 - [Lifehacker] [The Apple Watch Series 8 Is Up to $120 Off Right Now](https://lifehacker.com/the-apple-watch-series-8-is-up-to-120-off-right-now-1850873343)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
 - [Lifehacker] [This Belkin 3-In-1 Magsafe Charger for iPhone is 32% Off Right Now](https://lifehacker.com/this-belkin-3-in-1-magsafe-charger-for-iphone-is-32-of-1850871665)
 - [Lifehacker] [Now Anyone Can Play Music in Your Car, No Matter Who&#39;s Connected to CarPlay](https://lifehacker.com/now-anyone-can-play-music-in-your-car-no-matter-whos-c-1850871141)
-- [Lifehacker] [The Best Ways to Open a Coconut at Home](https://lifehacker.com/the-best-way-to-split-open-a-coconut-without-any-tools-1788929306)
-- [Lifehacker] [These Apple Accessories Are Up to 90% Off Right Now](https://lifehacker.com/these-apple-accessories-are-up-to-90-off-right-now-1850871211)
-- [Lifehacker] [This Refurbished MacBook Air Is $320 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-320-right-now-1850862814)
-- [Lifehacker] [Why You Need a Digital ‘Dead Man’s Switch’](https://lifehacker.com/why-you-need-a-digital-dead-man-s-switch-1850870582)
-- [Lifehacker] [Use LIFO, Not FIFO, to Manage Your Inbox](https://lifehacker.com/use-lifo-not-fifo-to-manage-your-inbox-1850870937)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Open a Coconut at Home](https://lifehacker.com/the-best-way-to-split-open-a-coconut-without-any-tools-1788929306)<!-- TECH-POSTS:END -->
 
 ---
 
