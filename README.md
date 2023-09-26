@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is BUN](https://dev.to/akilesh/what-is-bun-1fa1)
+- [Dev.to/JS] [Python Web Scraping](https://dev.to/voicelifemedia/python-web-scraping-1d64)
+- [Dev.to/JS] [Supercharge Your React Development with Vite: A Comprehensive Guide](https://dev.to/xanyl/supercharge-your-react-development-with-vite-a-comprehensive-guide-n3g)
+- [Dev.to/JS] [What is Map, Reduce, and Filter in JavaScript?](https://dev.to/justmrkhan/what-is-map-reduce-and-filter-in-javascript-20ic)
 - [Dev.to/JS] [Pass Data From Child to Parent Component in React](https://dev.to/reactjsguru/pass-data-from-child-to-parent-component-in-react-2e)
 - [Dev.to/JS] [Create A Middleware In NextJS 13](https://dev.to/skipperhoa/create-a-middleware-in-nextjs-13-17oh)
 - [Dev.to/JS] [Create A Example Handling Data Fetching With SWR In NextJS 13](https://dev.to/skipperhoa/create-a-example-handling-data-fetching-with-swr-in-nextjs-13-1997)
@@ -35,13 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Como o npm install resolve as dependências de um projeto](https://dev.to/dan_bertolini/como-o-npm-install-resolve-as-dependencias-de-um-projeto-25cm)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
 - [Dev.to/JS] [React vs Vue](https://dev.to/easewithtuts/react-vs-vue-1olo)
-- [Dev.to/JS] [Understanding Object-Oriented Programming &lpar;OOP&rpar; in TypeScript: Key Concepts and Practical Example](https://dev.to/frantchessico/understanding-object-oriented-programming-oop-in-typescript-key-concepts-and-practical-example-4e1a)
-- [Dev.to/JS] [Bun. Será o fim do node?](https://dev.to/raphaelramos/bun-sera-o-fim-do-node-k12)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
 - [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
 - [Lifehacker] [This Belkin 3-In-1 Magsafe Charger for iPhone is 32% Off Right Now](https://lifehacker.com/this-belkin-3-in-1-magsafe-charger-for-iphone-is-32-of-1850871665)
-- [Dev.to/JS] [JavaScript - Understanding Functions](https://dev.to/yuki-92c/javascript-understanding-functions-4dpj)
-- [Dev.to/JS] [Interested in the latest JS news? Follow me on Twitter/X to stay up to date 🔥](https://dev.to/michalkuncio/interested-in-the-latest-js-news-follow-me-on-twitterx-to-stay-up-to-date-339c)
 - [Lifehacker] [Now Anyone Can Play Music in Your Car, No Matter Who&#39;s Connected to CarPlay](https://lifehacker.com/now-anyone-can-play-music-in-your-car-no-matter-whos-c-1850871141)
 - [Lifehacker] [The Best Ways to Open a Coconut at Home](https://lifehacker.com/the-best-way-to-split-open-a-coconut-without-any-tools-1788929306)
 - [Lifehacker] [These Apple Accessories Are Up to 90% Off Right Now](https://lifehacker.com/these-apple-accessories-are-up-to-90-off-right-now-1850871211)
