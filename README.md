@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Range Extraction &quot;Codewars&quot;](https://dev.to/richeskelechi/range-extraction-codewars-ka)
+- [Dev.to/JS] [Accordions: 1, 5 and 10 minute versions...all accessible [quicka11y]](https://dev.to/tota11ydev/accordions-1-5-and-10-minute-versionsall-accessible-quicka11y-2d3b)
+- [Lifehacker] [The Samsung Galaxy Watch4 Classic LTE Is 58% Off Right Now](https://lifehacker.com/the-samsung-galaxy-watch4-classic-lte-is-58-off-right-1850871864)
+- [Dev.to/JS] [Javascript &amp; Python-Learning by comparison- part 2](https://dev.to/kk-aggarwal/javascript-python-learning-by-comparison-part-2-2039)
+- [Dev.to/JS] [🔥 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/interview-question-what-are-falsey-values-in-javascript-3c8j)
 - [Lifehacker] [Tubi&#39;s AI Wants to Give You Better Movie Recommendations](https://lifehacker.com/tubi-ai-movie-recommendations-1850871190)
 - [Dev.to/JS] [cat carriers](https://dev.to/peppycats/cat-carriers-3k80)
 - [Lifehacker] [An Age-By-Age Guide to Raising an Autonomous Kid](https://lifehacker.com/an-age-by-age-guide-to-raising-an-autonomous-kid-1850871105)
@@ -37,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Jazz up Your Oatmeal With Honeyed Boba](https://lifehacker.com/jazz-up-your-oatmeal-with-honeyed-boba-1850871035)
 - [Dev.to/JS] [Unit test...clean after yourself and sometimes after others too](https://dev.to/dfaiz/unit-testclean-after-yourself-and-sometimes-after-other-too-5ghl)
 - [Dev.to/JS] [NUXT JS/VUE JS. SIMPLE SLIDER WITH DYNAMIC COMPONENT.](https://dev.to/kucherol/nuxt-jsvue-js-simple-slider-with-dynamic-component-566c)
-- [Dev.to/JS] [Functional Programming: an accumulator of methods to transform objects in Javascript](https://dev.to/sw360cab/functional-programming-an-accumulator-of-methods-to-transform-objects-in-javascript-3in3)
-- [Dev.to/JS] [Building a Custom Image Editor with Xata](https://dev.to/moerayo/creating-a-custom-image-editor-with-xata-28ac)
-- [Dev.to/JS] [Mastering Closures in JavaScript: A Comprehensive Guide](https://dev.to/imranabdulmalik/mastering-closures-in-javascript-a-comprehensive-guide-4ja8)
-- [Dev.to/JS] [Smooth menu scroll action](https://dev.to/petrdlouhy/smooth-menu-scroll-action-3o9c)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
 - [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways Your Smartphone Can Be a Crucial Home Maintenance Tool](https://lifehacker.com/all-the-ways-your-smartphone-can-be-a-crucial-home-main-1850870194)
 - [Lifehacker] [This 2023 Python Bootcamp Is $10 Right Now](https://lifehacker.com/this-2023-python-bootcamp-is-10-right-now-1850863052)
 - [Lifehacker] [Free At-Home COVID Tests Are Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
-- [Lifehacker] [Microsoft Office Is $50 Right Now](https://lifehacker.com/microsoft-office-is-50-right-now-1850862416)
-- [Lifehacker] [What&#39;s New on Max in October 2023](https://lifehacker.com/whats-new-on-max-in-october-2023-1850868379)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Microsoft Office Is $50 Right Now](https://lifehacker.com/microsoft-office-is-50-right-now-1850862416)<!-- TECH-POSTS:END -->
 
 ---
 
