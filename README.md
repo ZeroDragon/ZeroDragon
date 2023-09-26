@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)
+- [Dev.to/JS] [Building a store for digital products with Next.js and Medusa](https://dev.to/medusajs/building-a-store-for-digital-products-with-nextjs-and-medusa-1o6m)
+- [Dev.to/JS] [Promises, async, and await in ReScript &lpar;with Bun!&rpar;](https://dev.to/jderochervlk/promises-async-and-await-in-rescript-with-bun-2840)
+- [Dev.to/JS] [The Rise Of Bun 1.0: Is Node.js In Trouble?](https://dev.to/lena_everly/the-rise-of-bun-10-is-nodejs-in-trouble-4g63)
+- [Lifehacker] [No, iOS 17 Won’t ‘Kill’ Your iPhone](https://lifehacker.com/no-ios-17-won-t-kill-your-iphone-1850873506)
+- [Dev.to/JS] [Clean Architecture &lpar;Application Layer&rpar;](https://dev.to/julianlasso/clean-architecture-application-layer-3n1e)
+- [Lifehacker] [The Cielo Smart Thermostat Is on Sale for $150 Right Now](https://lifehacker.com/the-cielo-smart-thermostat-is-on-sale-for-150-right-no-1850866904)
 - [Dev.to/JS] [JavaScript + AI: a Perfect Duo for Low-code Automations](https://dev.to/latenode/javascript-ai-a-perfect-duo-for-low-code-automations-2b74)
 - [Dev.to/JS] [How to Connect Express app to RabbitMQ](https://dev.to/aiabhishek/how-to-connect-express-app-to-rabbitmq-4gjo)
 - [Lifehacker] [The Apple Watch Series 8 Is Up to $120 Off Right Now](https://lifehacker.com/the-apple-watch-series-8-is-up-to-120-off-right-now-1850873343)
@@ -33,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Use Apple AirTags to Keep Track of Your Kids](https://lifehacker.com/should-you-use-apple-airtags-to-keep-track-of-your-kids-1847752273)
 - [Lifehacker] [You Can Shift From a Scarcity Mindset to an Abundance Mindset](https://lifehacker.com/you-can-shift-from-a-scarcity-mindset-to-an-abundance-m-1850871908)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in October 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-october-2023-1850871930)
-- [Dev.to/JS] [🔥What are the differences between const, let, and var? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/10-must-know-questions-for-junior-developers-what-are-the-differences-between-const-let-and-var-11le)
 - [Dev.to/JS] [👾 Getting started with Astro Framework](https://dev.to/refine/getting-started-with-astro-framework-2f2f)
 - [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
 - [Lifehacker] [This Dell Optiplex Desktop Is $380 Right Now](https://lifehacker.com/this-dell-optiplex-desktop-is-380-right-now-1850866868)
@@ -43,10 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript &amp; Python-Learning by comparison- part 2](https://dev.to/kk-aggarwal/javascript-python-learning-by-comparison-part-2-2039)
 - [Dev.to/JS] [🔥 What are falsey values in JavaScript? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/interview-question-what-are-falsey-values-in-javascript-3c8j)
 - [Lifehacker] [Tubi&#39;s AI Wants to Give You Better Movie Recommendations](https://lifehacker.com/tubi-ai-movie-recommendations-1850871190)
-- [Dev.to/JS] [cat carriers](https://dev.to/peppycats/cat-carriers-3k80)
 - [Lifehacker] [An Age-By-Age Guide to Raising an Autonomous Kid](https://lifehacker.com/an-age-by-age-guide-to-raising-an-autonomous-kid-1850871105)
-- [Dev.to/JS] [GPG/PGP Encryption Decryption](https://dev.to/silvenleaf/gpg-encryption-decryption-55cl)
-- [Dev.to/JS] [🚀 10 Github repositories to achieve Javascript mastery 🧙‍♂️🪄✨](https://dev.to/novu/10-github-repositories-to-achieve-javascript-mastery-50hk)
 - [Lifehacker] [Jazz up Your Oatmeal With Honeyed Boba](https://lifehacker.com/jazz-up-your-oatmeal-with-honeyed-boba-1850871035)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How Much You Need to Budget for Health Expenses](https://lifehacker.com/this-is-how-much-you-need-to-budget-for-health-expenses-1850865928)
 - [Lifehacker] [Use the ‘Yesterbox’ Method to Stay on Top of Your Inbox](https://lifehacker.com/use-the-yesterbox-method-to-stay-on-top-of-your-inbox-1850870791)
 - [Lifehacker] [Make Better Yams With This Homemade Marshmallow Fluff](https://lifehacker.com/make-your-own-marshmallow-fluff-for-better-yams-1839874160)
-- [Lifehacker] [This Three-Camera Arlo Pro 4 Spotlight Bundle Is 53% Off Today Only](https://lifehacker.com/this-three-camera-arlo-pro-4-spotlight-bundle-is-53-of-1850870677)
-- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in October 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-october-2023-1850870374)
-- [Lifehacker] [How to Share Your Wifi Password From Basically Any Device](https://lifehacker.com/how-to-share-your-wifi-password-from-any-device-1847387089)
-- [Lifehacker] [OpenAI Is Rolling Out Two New Ways to Chat With ChatGPT](https://lifehacker.com/openai-is-rolling-out-two-new-ways-to-chat-with-chatgpt-1850870166)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Three-Camera Arlo Pro 4 Spotlight Bundle Is 53% Off Today Only](https://lifehacker.com/this-three-camera-arlo-pro-4-spotlight-bundle-is-53-of-1850870677)<!-- TECH-POSTS:END -->
 
 ---
 
