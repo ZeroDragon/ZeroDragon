@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Object-Oriented Programming &lpar;OOP&rpar; in TypeScript: Key Concepts and Practical Example](https://dev.to/frantchessico/understanding-object-oriented-programming-oop-in-typescript-key-concepts-and-practical-example-4e1a)
 - [Dev.to/JS] [Bun. Será o fim do node?](https://dev.to/raphaelramos/bun-sera-o-fim-do-node-k12)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
 - [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 3&rpar;](https://dev.to/louislazaris/web-dev-tools-of-the-week-no-3-27o8)
 - [Dev.to/JS] [Demystifying the Flow: Understanding How React, Express, NGINX, and Docker Work Together](https://dev.to/kleinaitis/demystifying-the-flow-understanding-react-express-nginx-and-docker-1m5k)
 - [Lifehacker] [Use LIFO, Not FIFO, to Manage Your Inbox](https://lifehacker.com/use-lifo-not-fifo-to-manage-your-inbox-1850870937)
-- [Dev.to/JS] [collapsed menu getting refreshed on page opening](https://dev.to/devcommunity/collapsed-menu-getting-refreshed-on-page-opening-55e)
 - [Lifehacker] [How to Open a Health Savings Account Without an Employer](https://lifehacker.com/how-to-open-a-health-savings-account-1826916017)
 - [Lifehacker] [This Is How Much You Need to Budget for Health Expenses](https://lifehacker.com/this-is-how-much-you-need-to-budget-for-health-expenses-1850865928)
 - [Lifehacker] [Use the ‘Yesterbox’ Method to Stay on Top of Your Inbox](https://lifehacker.com/use-the-yesterbox-method-to-stay-on-top-of-your-inbox-1850870791)
