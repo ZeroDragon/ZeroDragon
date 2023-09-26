@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Microsoft Azure AZ-900 Dumps: Your Key to Success](https://dev.to/az900testdumps/microsoft-azure-az-900-dumps-your-key-to-success-3pno)
+- [Dev.to/JS] [Best JavaScript Frameworks in 2023](https://dev.to/canadianagency/best-javascript-frameworks-in-2023-5257)
+- [Dev.to/JS] [Subset sum equal to target &lpar;DP- 14&rpar;](https://dev.to/zeeshanali0704/subset-sum-equal-to-target-dp-14-4fe)
 - [Dev.to/JS] [How Should I Meet? 9216208954 ! Amritsar Call Girls or Escort Agency?](https://dev.to/tawkgirlsfunny/how-should-i-meet-9216208954-amritsar-call-girls-or-escort-agency-2jfp)
 - [Dev.to/JS] [How Should I Meet? 9216208954 ! Amritsar Call Girls or Escort Agency?](https://dev.to/tawkgirlsfunny/how-should-i-meet-9216208954-amritsar-call-girls-or-escort-agency-ek)
 - [Dev.to/JS] [Where Can | 9216208954 | We Get Female Escorts in India? Tawk Girls](https://dev.to/tawkgirlsfunny/where-can-9216208954-we-get-female-escorts-in-india-tawk-girls-1bb6)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sanjeev Mansotra | How to Become a Good Javascript Coder?](https://dev.to/sanjeevmansotra/sanjeev-mansotra-how-to-become-a-good-javascript-coder-207)
 - [Dev.to/JS] [React vs. Vue: A Comprehensive Comparison](https://dev.to/arafatweb/react-vs-vue-a-comprehensive-comparison-2ln7)
 - [Dev.to/JS] [Day 4: Throttling &amp; Debouncing 🚀](https://dev.to/shivamblog/day-4-throttling-debouncing-7dc)
-- [Dev.to/JS] [🛑 Stop learning many frameworks.](https://dev.to/michthebrandofficial/stop-learning-many-frameworks-1dak)
-- [Dev.to/JS] [What is BUN](https://dev.to/akilesh/what-is-bun-1fa1)
-- [Dev.to/JS] [Python Web Scraping](https://dev.to/voicelifemedia/python-web-scraping-1d64)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
 - [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
