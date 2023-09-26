@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🛑 Stop learning many frameworks.](https://dev.to/michthebrandofficial/stop-learning-many-frameworks-1dak)
 - [Dev.to/JS] [What is BUN](https://dev.to/akilesh/what-is-bun-1fa1)
 - [Dev.to/JS] [Python Web Scraping](https://dev.to/voicelifemedia/python-web-scraping-1d64)
 - [Dev.to/JS] [Supercharge Your React Development with Vite: A Comprehensive Guide](https://dev.to/xanyl/supercharge-your-react-development-with-vite-a-comprehensive-guide-n3g)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Magic Tricks: Debugger Interception](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-debugger-interception-2gp)
 - [Dev.to/JS] [Como o npm install resolve as dependências de um projeto](https://dev.to/dan_bertolini/como-o-npm-install-resolve-as-dependencias-de-um-projeto-25cm)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
-- [Dev.to/JS] [React vs Vue](https://dev.to/easewithtuts/react-vs-vue-1olo)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
 - [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
 - [Lifehacker] [This Belkin 3-In-1 Magsafe Charger for iPhone is 32% Off Right Now](https://lifehacker.com/this-belkin-3-in-1-magsafe-charger-for-iphone-is-32-of-1850871665)
