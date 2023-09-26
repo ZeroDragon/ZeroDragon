@@ -26,11 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in October 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-october-2023-1850871930)
+- [Dev.to/JS] [🔥What are the differences between const, let, and var? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/10-must-know-questions-for-junior-developers-what-are-the-differences-between-const-let-and-var-11le)
+- [Dev.to/JS] [👾 Getting started with Astro Framework](https://dev.to/refine/getting-started-with-astro-framework-2f2f)
+- [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
+- [Lifehacker] [This Dell Optiplex Desktop Is $380 Right Now](https://lifehacker.com/this-dell-optiplex-desktop-is-380-right-now-1850866868)
 - [Dev.to/JS] [Range Extraction &quot;Codewars&quot;](https://dev.to/richeskelechi/range-extraction-codewars-ka)
 - [Dev.to/JS] [Accordions: 1, 5 and 10 minute versions...all accessible [quicka11y]](https://dev.to/tota11ydev/accordions-1-5-and-10-minute-versionsall-accessible-quicka11y-2d3b)
 - [Lifehacker] [The Samsung Galaxy Watch4 Classic LTE Is 58% Off Right Now](https://lifehacker.com/the-samsung-galaxy-watch4-classic-lte-is-58-off-right-1850871864)
 - [Dev.to/JS] [Javascript &amp; Python-Learning by comparison- part 2](https://dev.to/kk-aggarwal/javascript-python-learning-by-comparison-part-2-2039)
-- [Dev.to/JS] [🔥 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/interview-question-what-are-falsey-values-in-javascript-3c8j)
+- [Dev.to/JS] [🔥 What are falsey values in JavaScript? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/interview-question-what-are-falsey-values-in-javascript-3c8j)
 - [Lifehacker] [Tubi&#39;s AI Wants to Give You Better Movie Recommendations](https://lifehacker.com/tubi-ai-movie-recommendations-1850871190)
 - [Dev.to/JS] [cat carriers](https://dev.to/peppycats/cat-carriers-3k80)
 - [Lifehacker] [An Age-By-Age Guide to Raising an Autonomous Kid](https://lifehacker.com/an-age-by-age-guide-to-raising-an-autonomous-kid-1850871105)
@@ -40,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Popular Web Design Trends in 2023](https://dev.to/lilybrown47/10-popular-web-design-trends-in-2023-5c2p)
 - [Dev.to/JS] [The Art of Clean Code: Java Style and Conventions](https://dev.to/alphaaman/the-art-of-clean-code-java-style-and-conventions-193h)
 - [Lifehacker] [Jazz up Your Oatmeal With Honeyed Boba](https://lifehacker.com/jazz-up-your-oatmeal-with-honeyed-boba-1850871035)
-- [Dev.to/JS] [Unit test...clean after yourself and sometimes after others too](https://dev.to/dfaiz/unit-testclean-after-yourself-and-sometimes-after-other-too-5ghl)
-- [Dev.to/JS] [NUXT JS/VUE JS. SIMPLE SLIDER WITH DYNAMIC COMPONENT.](https://dev.to/kucherol/nuxt-jsvue-js-simple-slider-with-dynamic-component-566c)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
 - [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [OpenAI Is Rolling Out Two New Ways to Chat With ChatGPT](https://lifehacker.com/openai-is-rolling-out-two-new-ways-to-chat-with-chatgpt-1850870166)
 - [Lifehacker] [You Might Want a Longer Needle for Your Next Vaccine](https://lifehacker.com/you-might-want-a-longer-needle-for-your-next-vaccine-1850870077)
 - [Lifehacker] [How to Bake Eggs in a Muffin Tin for an Easy Morning](https://lifehacker.com/these-easy-batch-baked-eggs-are-perfect-for-thanksgivin-1849813715)
-- [Lifehacker] [All the Ways Your Smartphone Can Be a Crucial Home Maintenance Tool](https://lifehacker.com/all-the-ways-your-smartphone-can-be-a-crucial-home-main-1850870194)
-- [Lifehacker] [This 2023 Python Bootcamp Is $10 Right Now](https://lifehacker.com/this-2023-python-bootcamp-is-10-right-now-1850863052)
-- [Lifehacker] [Free At-Home COVID Tests Are Back](https://lifehacker.com/free-at-home-covid-tests-are-coming-back-1850860991)
-- [Lifehacker] [Microsoft Office Is $50 Right Now](https://lifehacker.com/microsoft-office-is-50-right-now-1850862416)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways Your Smartphone Can Be a Crucial Home Maintenance Tool](https://lifehacker.com/all-the-ways-your-smartphone-can-be-a-crucial-home-main-1850870194)<!-- TECH-POSTS:END -->
 
 ---
 
