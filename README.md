@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Closures in JavaScript: A Comprehensive Guide](https://dev.to/imranabdulmalik/mastering-closures-in-javascript-a-comprehensive-guide-4ja8)
+- [Dev.to/JS] [Smooth menu scroll action](https://dev.to/petrdlouhy/smooth-menu-scroll-action-3o9c)
+- [Dev.to/JS] [SSR Before &amp; After Next 13](https://dev.to/revoltez/ssr-before-after-next-13-8l)
+- [Dev.to/JS] [18. Acai Berry: Nature&#39;s Superfood Unleashed - Freeze-Dried Acai Powder](https://dev.to/thomasliam/18-acai-berry-natures-superfood-unleashed-freeze-dried-acai-powder-1674)
 - [Dev.to/JS] [Harnessing the Revolutionary Potential of AI: The Reasons Behind Infinity Pillars Adoption of Artificial Intelligence.](https://dev.to/abhishek8938/harnessing-the-revolutionary-potential-of-ai-the-reasons-behind-infinity-pillars-adoption-of-artificial-intelligence-4ac6)
 - [Dev.to/JS] [Microsoft Azure AZ-900 Dumps: Your Key to Success](https://dev.to/az900testdumps/microsoft-azure-az-900-dumps-your-key-to-success-3pno)
 - [Dev.to/JS] [Best JavaScript Frameworks in 2023](https://dev.to/canadianagency/best-javascript-frameworks-in-2023-5257)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React vs. Vue: A Comprehensive Comparison](https://dev.to/arafatweb/react-vs-vue-a-comprehensive-comparison-2ln7)
 - [Dev.to/JS] [Day 4: Throttling &amp; Debouncing 🚀](https://dev.to/shivamblog/day-4-throttling-debouncing-7dc)
 - [Dev.to/JS] [🛑 Stop learning many frameworks.](https://dev.to/michthebrandofficial/stop-learning-many-frameworks-1dak)
-- [Dev.to/JS] [What is BUN](https://dev.to/akilesh/what-is-bun-1fa1)
-- [Dev.to/JS] [Python Web Scraping](https://dev.to/voicelifemedia/python-web-scraping-1d64)
-- [Dev.to/JS] [Supercharge Your React Development with Vite: A Comprehensive Guide](https://dev.to/xanyl/supercharge-your-react-development-with-vite-a-comprehensive-guide-n3g)
-- [Dev.to/JS] [What is Map, Reduce, and Filter in JavaScript?](https://dev.to/justmrkhan/what-is-map-reduce-and-filter-in-javascript-20ic)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
 - [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
 - [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)
