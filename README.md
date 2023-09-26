@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 3 Bubble Sort in JS](https://dev.to/devfs/day-3-bubble-sort-in-js-44b4)
+- [Dev.to/JS] [React Plugins](https://dev.to/opensourcee/react-plugins-516j)
+- [Lifehacker] [A ‘Work College’ Can Give You Experience and Education for Free](https://lifehacker.com/a-work-college-can-give-you-experience-and-education-1850873911)
+- [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
+- [Dev.to/JS] [How to develop a React application from scratch with modern libraries](https://dev.to/carlosazaustre/how-to-develop-a-react-application-from-scratch-with-modern-libraries-2n7f)
+- [Dev.to/JS] [Please vote for me](https://dev.to/dalalord/please-vote-for-me-e4o)
 - [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)
 - [Dev.to/JS] [Building a store for digital products with Next.js and Medusa](https://dev.to/medusajs/building-a-store-for-digital-products-with-nextjs-and-medusa-1o6m)
 - [Dev.to/JS] [Promises, async, and await in ReScript &lpar;with Bun!&rpar;](https://dev.to/jderochervlk/promises-async-and-await-in-rescript-with-bun-2840)
@@ -43,11 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [👾 Getting started with Astro Framework](https://dev.to/refine/getting-started-with-astro-framework-2f2f)
 - [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
 - [Lifehacker] [This Dell Optiplex Desktop Is $380 Right Now](https://lifehacker.com/this-dell-optiplex-desktop-is-380-right-now-1850866868)
-- [Dev.to/JS] [Range Extraction &quot;Codewars&quot;](https://dev.to/richeskelechi/range-extraction-codewars-ka)
-- [Dev.to/JS] [Accordions: 1, 5 and 10 minute versions...all accessible [quicka11y]](https://dev.to/tota11ydev/accordions-1-5-and-10-minute-versionsall-accessible-quicka11y-2d3b)
 - [Lifehacker] [The Samsung Galaxy Watch4 Classic LTE Is 58% Off Right Now](https://lifehacker.com/the-samsung-galaxy-watch4-classic-lte-is-58-off-right-1850871864)
-- [Dev.to/JS] [Javascript &amp; Python-Learning by comparison- part 2](https://dev.to/kk-aggarwal/javascript-python-learning-by-comparison-part-2-2039)
-- [Dev.to/JS] [🔥 What are falsey values in JavaScript? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/interview-question-what-are-falsey-values-in-javascript-3c8j)
 - [Lifehacker] [Tubi&#39;s AI Wants to Give You Better Movie Recommendations](https://lifehacker.com/tubi-ai-movie-recommendations-1850871190)
 - [Lifehacker] [An Age-By-Age Guide to Raising an Autonomous Kid](https://lifehacker.com/an-age-by-age-guide-to-raising-an-autonomous-kid-1850871105)
 - [Lifehacker] [Jazz up Your Oatmeal With Honeyed Boba](https://lifehacker.com/jazz-up-your-oatmeal-with-honeyed-boba-1850871035)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use LIFO, Not FIFO, to Manage Your Inbox](https://lifehacker.com/use-lifo-not-fifo-to-manage-your-inbox-1850870937)
 - [Lifehacker] [How to Open a Health Savings Account Without an Employer](https://lifehacker.com/how-to-open-a-health-savings-account-1826916017)
 - [Lifehacker] [This Is How Much You Need to Budget for Health Expenses](https://lifehacker.com/this-is-how-much-you-need-to-budget-for-health-expenses-1850865928)
-- [Lifehacker] [Use the ‘Yesterbox’ Method to Stay on Top of Your Inbox](https://lifehacker.com/use-the-yesterbox-method-to-stay-on-top-of-your-inbox-1850870791)
-- [Lifehacker] [Make Better Yams With This Homemade Marshmallow Fluff](https://lifehacker.com/make-your-own-marshmallow-fluff-for-better-yams-1839874160)
-- [Lifehacker] [This Three-Camera Arlo Pro 4 Spotlight Bundle Is 53% Off Today Only](https://lifehacker.com/this-three-camera-arlo-pro-4-spotlight-bundle-is-53-of-1850870677)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the ‘Yesterbox’ Method to Stay on Top of Your Inbox](https://lifehacker.com/use-the-yesterbox-method-to-stay-on-top-of-your-inbox-1850870791)<!-- TECH-POSTS:END -->
 
 ---
 
