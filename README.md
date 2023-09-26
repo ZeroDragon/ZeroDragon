@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tutorial: Automate Highlighting in WYSIWIG Editors](https://dev.to/askui/tutorial-automate-highlighting-in-wysiwig-editors-2c6e)
 - [Dev.to/JS] [Opportunities in Artificial Intelligence](https://dev.to/michellebuchiokonicha/opportunities-in-artificial-intelligence-2l4g)
 - [Dev.to/JS] [TOP Guide to Vue.js Events](https://dev.to/noobizdev/top-guide-to-vuejs-events-5efb)
 - [Dev.to/JS] [Frontend podcast list 🎙️](https://dev.to/tech_foutraque/frontend-podcast-list-fh7)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 of the Best Kettlebell Exercises for Beginners](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
 - [Lifehacker] [Here’s When You Should &lpar;and Shouldn’t&rpar; Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)
 - [Dev.to/JS] [Create stunning product tours with driver.js 🚖](https://dev.to/michalkuncio/create-stunning-product-tours-with-driverjs-42h4)
-- [Dev.to/JS] [React - useRef](https://dev.to/programador51/react-useref-3den)
 - [Lifehacker] [A ‘Work College’ Can Give You Experience and Education for Free](https://lifehacker.com/a-work-college-can-give-you-experience-and-education-1850873911)
 - [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
 - [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)
