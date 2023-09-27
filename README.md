@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sane front-end project architecture based on 12 years of experience](https://dev.to/bolshchikov/sane-front-end-project-architecture-based-on-12-years-of-experience-5051)
+- [Lifehacker] [These Mini Dual Tube Night-Vision Binoculars Are $100 Right Now](https://lifehacker.com/these-mini-dual-tube-night-vision-binoculars-are-100-r-1850866884)
+- [Dev.to/JS] [🦖 Gentle, promise-based HTTP client for Deno and Node.js &lpar;part 2&rpar;](https://dev.to/sevapp/gentle-promise-based-http-client-for-deno-and-nodejs-part-2-1ian)
+- [Lifehacker] [These Southwest Flights Are 50% Off Right Now](https://lifehacker.com/these-southwest-flights-are-50-off-right-now-1850878025)
 - [Dev.to/JS] [A Step-by-Step Guide to Implementing React Router for Dynamic Single-Page Applications](https://dev.to/scofieldidehen/a-step-by-step-guide-to-implementing-react-router-for-dynamic-single-page-applications-34oh)
 - [Dev.to/JS] [@Postconstruct and @Predestroy](https://dev.to/javatute673/postconstruct-and-predestroy-16kj)
 - [Dev.to/JS] [Demystifying the Ternary Operator in JavaScript](https://dev.to/ewenikeemmanue4/demystifying-the-ternary-operator-in-javascript-2d2f)
@@ -42,11 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Help! Apollo is changing my graphql query response](https://dev.to/everas7/help-apollo-is-changing-my-graphql-query-response-13f4)
 - [Lifehacker] [This Five-Year Subscription to OysterVPN Is $30 Right Now](https://lifehacker.com/this-five-year-subscription-to-oystervpn-is-30-right-n-1850866940)
 - [Lifehacker] [This Whisper-Quiet Air Purifier Is $111 Off Right Now](https://lifehacker.com/this-whisper-quiet-air-purifier-is-71-right-now-1850875756)
-- [Dev.to/JS] [Node.js Development Made Easy With Docker 🐳](https://dev.to/shameel/nodejs-development-made-easy-with-docker-f0p)
 - [Lifehacker] [You Can Get Two 4K Camera Drones for $110 Right Now](https://lifehacker.com/you-can-get-two-4k-camera-drones-for-110-right-now-1850866993)
 - [Lifehacker] [Why Lights Flicker in Your Smartphone Videos &lpar;and How to Stop It&rpar;](https://lifehacker.com/why-lights-flicker-in-your-smartphone-videos-and-how-t-1850877053)
 - [Lifehacker] [How to Tell If Your iPhone Is Tapped](https://lifehacker.com/how-to-tell-if-your-iphone-is-tapped-1850876267)
-- [Dev.to/JS] [🔥7 open-source libraries to keep an eye on &lpar;and contribute to!&rpar; ✨👩‍💻](https://dev.to/quine/7-open-source-libraries-to-keep-an-eye-on-and-contribute-to-2c96)
 - [Lifehacker] [Why You Can Now Buy &#39;Legal&#39; Weed at the Gas Station](https://lifehacker.com/hemp-delta-9-thc-explainer-1850794904)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
 - [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
 - [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)
 - [Lifehacker] [No, iOS 17 Won’t ‘Kill’ Your iPhone](https://lifehacker.com/no-ios-17-won-t-kill-your-iphone-1850873506)
-- [Lifehacker] [The Cielo Smart Thermostat Is on Sale for $150 Right Now](https://lifehacker.com/the-cielo-smart-thermostat-is-on-sale-for-150-right-no-1850866904)
-- [Lifehacker] [The Apple Watch Series 8 Is Up to $120 Off Right Now](https://lifehacker.com/the-apple-watch-series-8-is-up-to-120-off-right-now-1850873343)
-- [Lifehacker] [Why You Shouldn&#39;t Use Apple AirTags to Keep Track of Your Kids](https://lifehacker.com/should-you-use-apple-airtags-to-keep-track-of-your-kids-1847752273)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Cielo Smart Thermostat Is on Sale for $150 Right Now](https://lifehacker.com/the-cielo-smart-thermostat-is-on-sale-for-150-right-no-1850866904)<!-- TECH-POSTS:END -->
 
 ---
 
