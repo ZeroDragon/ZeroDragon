@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Desenvolvimento de portifólio](https://dev.to/dsfhigor/desenvolvimento-de-portifolio-5060)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
 - [Dev.to/JS] [Tutorial: Automate Highlighting in WYSIWIG Editors](https://dev.to/askui/tutorial-automate-highlighting-in-wysiwig-editors-2c6e)
 - [Dev.to/JS] [Opportunities in Artificial Intelligence](https://dev.to/michellebuchiokonicha/opportunities-in-artificial-intelligence-2l4g)
 - [Dev.to/JS] [👑Mastering👑 Vue.js Events](https://dev.to/noobizdev/top-guide-to-vuejs-events-5efb)
@@ -47,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bite-Size Async Rust for TS/JS Developer](https://dev.to/chenhunghan/bite-size-async-rust-for-tsjs-developer-502i)
 - [Lifehacker] [11 of the Best Kettlebell Exercises for Beginners](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
 - [Lifehacker] [Here’s When You Should &lpar;and Shouldn’t&rpar; Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)
-- [Dev.to/JS] [Create stunning product tours with driver.js 🚖](https://dev.to/michalkuncio/create-stunning-product-tours-with-driverjs-42h4)
 - [Lifehacker] [A ‘Work College’ Can Give You Experience and Education for Free](https://lifehacker.com/a-work-college-can-give-you-experience-and-education-1850873911)
 - [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
 - [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-By-Age Guide to Raising an Autonomous Kid](https://lifehacker.com/an-age-by-age-guide-to-raising-an-autonomous-kid-1850871105)
 - [Lifehacker] [Jazz up Your Oatmeal With Honeyed Boba](https://lifehacker.com/jazz-up-your-oatmeal-with-honeyed-boba-1850871035)
 - [Lifehacker] [Today’s Connections Hints &lpar;and Answer&rpar; for Tuesday, September 26](https://lifehacker.com/nyt-connections-answer-today-september-26-2023-1850870469)
-- [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)
-- [Lifehacker] [You Can Get the 5th Gen iPad Air for $100 Off Right Now](https://lifehacker.com/you-can-get-the-5th-gen-ipad-air-for-100-off-right-now-1850871626)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Home Gym Equipment for Under $100](https://lifehacker.com/the-best-home-gym-equipment-for-under-100-1850871725)<!-- TECH-POSTS:END -->
 
 ---
 
