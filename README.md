@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 5: Callbacks, Promises, and Async/Await 🕰️](https://dev.to/shivamblog/day-5-callbacks-promises-and-asyncawait-54hl)
+- [Dev.to/JS] [Typescript utility types](https://dev.to/djzenma/typescript-utility-types-3np3)
 - [Dev.to/JS] [Webpack compilation error &quot;Critical dependency: the request of a dependency is an expression&quot; solution](https://dev.to/__28f08df2bb06aae67f97/webpack-compilation-error-critical-dependency-the-request-of-a-dependency-is-an-expression-solution-5f4n)
 - [Dev.to/JS] [Desenvolvimento de portifólio](https://dev.to/dsfhigor/desenvolvimento-de-portifolio-5060)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variables and Data Types in JavaScript for Beginners](https://dev.to/joanayebola/variables-and-data-types-in-javascript-for-beginners-338o)
 - [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
 - [Dev.to/JS] [Various Ways to Leverage Angular Directives: An In-Depth Guide](https://dev.to/zeeshanhshaheen/various-ways-to-leverage-angular-directives-an-in-depth-guide-1pka)
-- [Dev.to/JS] [Using Jest to bulletproof a TypeScript Class - Part 1](https://dev.to/joaotextor/using-jest-to-bulletproof-a-typescript-class-part-1-hjo)
 - [Lifehacker] [These Appliances Are up to 76% Off During Walmart&#39;s Fall Sale](https://lifehacker.com/these-appliances-are-up-to-76-off-during-walmarts-fall-1850873915)
-- [Dev.to/JS] [MEAN Stack Explained](https://dev.to/kinsta/mean-stack-explained-lgj)
 - [Lifehacker] [Use the &#39;20/10 Method&#39; to Clean Without Exhausting Yourself](https://lifehacker.com/use-the-20-10-method-to-clean-without-exhausting-yourse-1850874448)
 - [Lifehacker] [11 of the Best Kettlebell Exercises for Beginners](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
 - [Lifehacker] [Here’s When You Should &lpar;and Shouldn’t&rpar; Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)
