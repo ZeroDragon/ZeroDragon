@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React state in query](https://dev.to/maxwiggedal/react-state-in-query-3l8c)
+- [Dev.to/JS] [Big Projects Are Ditching TypeScript... Why?](https://dev.to/onix-systems/big-projects-are-ditching-typescript-why-180p)
 - [Dev.to/JS] [Building and Deploying a Next.js Website with Docker](https://dev.to/mrrishimeena/building-and-deploying-a-nextjs-website-with-docker-26b1)
 - [Dev.to/JS] [Admin Dashboard Using HTML CSS and JavaScript | Dark &amp; Light Mode](https://dev.to/onlineittutstutorials/admin-dashboard-using-html-css-and-javascript-dark-light-mode-14od)
 - [Dev.to/JS] [Understanding this in JavaScript: Guide for Beginners](https://dev.to/chideracode/understanding-this-in-javascript-guide-for-beginners-15pa)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 6 Javascript Libraries You Must Know](https://dev.to/scofieldidehen/top-6-javascript-libraries-you-must-know-2pa8)
 - [Dev.to/JS] [Dynamic Loading, Lazy Loading, and Dynamic Imports](https://dev.to/mariyabaig/dynamic-loading-lazy-loading-and-dynamic-imports-2c7j)
 - [Dev.to/JS] [JS Crush, the JavaScript Equality Game](https://dev.to/herrington_darkholme/js-crush-the-javascript-equality-game-3c9b)
-- [Dev.to/JS] [💻 Web Development Resources #167](https://dev.to/vincenius/web-development-resources-167-2m2d)
-- [Dev.to/JS] [Optimizing Angular Applications for Peak Performance](https://dev.to/chintanonweb/optimizing-angular-applications-for-peak-performance-1e3h)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
 - [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
 - [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)
