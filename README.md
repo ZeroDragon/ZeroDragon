@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimize Your Nest.js App Performance With These Practices](https://dev.to/brilworks/optimize-your-nestjs-app-performance-with-these-practices-485c)
+- [Dev.to/JS] [Unlocking JavaScript&#39;s Secret Weapon: The Power of WeakMaps](https://dev.to/this-is-learning/unlocking-javascripts-secret-weapon-the-power-of-weakmaps-36ni)
+- [Dev.to/JS] [O que é Bun? Será este o novo queridinho dos devs Javascript?](https://dev.to/gabrielgcj/o-que-e-bun-e-para-o-que-serve-2e2c)
+- [Dev.to/JS] [A Quick Guide To Creating React Native Mobile App](https://dev.to/richarddukusa/a-quick-guide-to-creating-react-native-mobile-app-4nof)
 - [Dev.to/JS] [The Full Stack Developer: A Comprehensive Guide](https://dev.to/imparth/the-full-stack-developer-a-comprehensive-guide-2731)
 - [Dev.to/JS] [Check Login Using Middleware With NextJS 13](https://dev.to/skipperhoa/check-login-using-middleware-with-nextjs-13-1iab)
 - [Dev.to/JS] [Day 5: Callbacks, Promises, and Async/Await 🕰️](https://dev.to/shivamblog/day-5-callbacks-promises-and-asyncawait-54hl)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
 - [Dev.to/JS] [Tutorial: Automate Highlighting in WYSIWIG Editors](https://dev.to/askui/tutorial-automate-highlighting-in-wysiwig-editors-2c6e)
 - [Dev.to/JS] [Opportunities in Artificial Intelligence](https://dev.to/michellebuchiokonicha/opportunities-in-artificial-intelligence-2l4g)
-- [Dev.to/JS] [👑Mastering👑 Vue.js Events](https://dev.to/noobizdev/top-guide-to-vuejs-events-5efb)
-- [Dev.to/JS] [LeetCode 2233 Maximum Product After K Increments &lpar;Medium&rpar;](https://dev.to/speaklouder/leetcode-2233-maximum-product-after-k-increments-medium-23fm)
-- [Dev.to/JS] [Frontend podcast list 🎙️](https://dev.to/tech_foutraque/frontend-podcast-list-fh7)
 - [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
 - [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)
-- [Dev.to/JS] [My HTML/CSS Journey: Overcoming Challenges and Embracing the World of JavaScript](https://dev.to/charleswtiffany/my-css-journey-overcoming-challenges-and-embracing-the-world-of-javascript-1af8)
 - [Lifehacker] [Woot Has Refurbished Philips Hue Smart Lights for Up to 62% Off](https://lifehacker.com/woot-has-refurbished-philips-hue-smart-lights-for-up-to-1850875208)
 - [Lifehacker] [Avoid These Words That Send Your Email to Spam](https://lifehacker.com/avoid-these-words-that-send-your-email-to-spam-1850875029)
 - [Lifehacker] [Here&#39;s a Better Recipe for Those Viral Auntie Anne’s Cinnamon Sugar Pretzel Bites](https://lifehacker.com/heres-a-better-recipe-for-those-viral-auntie-anne-s-cin-1850874690)
