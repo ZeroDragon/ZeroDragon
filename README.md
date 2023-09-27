@@ -26,9 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding this in JavaScript: Guide for Beginners](https://dev.to/chideracode/understanding-this-in-javascript-guide-for-beginners-15pa)
+- [Dev.to/JS] [How React Works!](https://dev.to/harixom/how-react-works-1ma6)
 - [Dev.to/JS] [Belajar Next.Js Part 1](https://dev.to/ruqfarawayy/belajar-nextjs-part-1-208c)
 - [Dev.to/JS] [⚡ Best Open Source React framework and libraries for Building Enterprise B2B apps](https://dev.to/refine/best-open-source-react-framework-and-libraries-for-building-enterprise-b2b-apps-5a0m)
-- [Dev.to/JS] [GCP GC ADM Certification Best coaching manual For GCP GC ADM Certification Check](https://dev.to/zubab12345/gcp-gc-adm-certification-best-coaching-manual-for-gcp-gc-adm-certification-check-2adl)
 - [Dev.to/JS] [How can I follow someone on Instagram outside Instagram app &lpar;i.e. React/Next app&rpar; using Instagram API / scrapping.?](https://dev.to/zeer/how-can-i-follow-someone-on-instagram-outside-instagram-app-ie-reactnext-app-using-instagram-api-scrapping-4pa8)
 - [Dev.to/JS] [Top 6 Javascript Libraries You Must Know](https://dev.to/scofieldidehen/top-6-javascript-libraries-you-must-know-2pa8)
 - [Dev.to/JS] [Dynamic Loading, Lazy Loading, and Dynamic Imports](https://dev.to/mariyabaig/dynamic-loading-lazy-loading-and-dynamic-imports-2c7j)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing Angular Applications for Peak Performance](https://dev.to/chintanonweb/optimizing-angular-applications-for-peak-performance-1e3h)
 - [Dev.to/JS] [Misconceptions About Closures](https://dev.to/jonrandy/misconceptions-about-closures-i15)
 - [Dev.to/JS] [Cracking the LeetCode 880. Decoded String at Index &lpar;Medium&rpar;](https://dev.to/speaklouder/cracking-the-leetcode-880-decoded-string-at-index-medium-hn9)
-- [Dev.to/JS] [Call Stack in JavaScript: A Comprehensive Guide with Examples](https://dev.to/shriharimurali/call-stack-in-javascript-a-comprehensive-guide-with-examples-25bh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
 - [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
 - [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)
