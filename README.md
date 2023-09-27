@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Webpack compilation error &quot;Critical dependency: the request of a dependency is an expression&quot; solution](https://dev.to/__28f08df2bb06aae67f97/webpack-compilation-error-critical-dependency-the-request-of-a-dependency-is-an-expression-solution-5f4n)
 - [Dev.to/JS] [Desenvolvimento de portifólio](https://dev.to/dsfhigor/desenvolvimento-de-portifolio-5060)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
 - [Dev.to/JS] [Tutorial: Automate Highlighting in WYSIWIG Editors](https://dev.to/askui/tutorial-automate-highlighting-in-wysiwig-editors-2c6e)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Appliances Are up to 76% Off During Walmart&#39;s Fall Sale](https://lifehacker.com/these-appliances-are-up-to-76-off-during-walmarts-fall-1850873915)
 - [Dev.to/JS] [MEAN Stack Explained](https://dev.to/kinsta/mean-stack-explained-lgj)
 - [Lifehacker] [Use the &#39;20/10 Method&#39; to Clean Without Exhausting Yourself](https://lifehacker.com/use-the-20-10-method-to-clean-without-exhausting-yourse-1850874448)
-- [Dev.to/JS] [Bite-Size Async Rust for TS/JS Developer](https://dev.to/chenhunghan/bite-size-async-rust-for-tsjs-developer-502i)
 - [Lifehacker] [11 of the Best Kettlebell Exercises for Beginners](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
 - [Lifehacker] [Here’s When You Should &lpar;and Shouldn’t&rpar; Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)
 - [Lifehacker] [A ‘Work College’ Can Give You Experience and Education for Free](https://lifehacker.com/a-work-college-can-give-you-experience-and-education-1850873911)
