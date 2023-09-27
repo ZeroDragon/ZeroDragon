@@ -28,7 +28,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Tutorial: Automate Highlighting in WYSIWIG Editors](https://dev.to/askui/tutorial-automate-highlighting-in-wysiwig-editors-2c6e)
 - [Dev.to/JS] [Opportunities in Artificial Intelligence](https://dev.to/michellebuchiokonicha/opportunities-in-artificial-intelligence-2l4g)
-- [Dev.to/JS] [TOP Guide to Vue.js Events](https://dev.to/noobizdev/top-guide-to-vuejs-events-5efb)
+- [Dev.to/JS] [👑Mastering👑 Vue.js Events](https://dev.to/noobizdev/top-guide-to-vuejs-events-5efb)
 - [Dev.to/JS] [Frontend podcast list 🎙️](https://dev.to/tech_foutraque/frontend-podcast-list-fh7)
 - [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
 - [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)
