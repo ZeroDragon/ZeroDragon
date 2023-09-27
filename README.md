@@ -26,10 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the Difference Between Primitive and Non-Primitive Data Types in JavaScript](https://dev.to/daslaw/understanding-the-difference-between-primitive-and-non-primitive-data-types-in-javascript-5bb0)
+- [Dev.to/JS] [I asked ChatGPT what he thought of our open source project. Here’s what it says.](https://dev.to/opensourcee/i-asked-chatgpt-what-he-thought-of-our-open-source-project-heres-what-it-says-3h5e)
+- [Dev.to/JS] [Help! Apollo is changing my graphql query response](https://dev.to/everas7/help-apollo-is-changing-my-graphql-query-response-13f4)
+- [Lifehacker] [This Five-Year Subscription to OysterVPN Is $30 Right Now](https://lifehacker.com/this-five-year-subscription-to-oystervpn-is-30-right-n-1850866940)
+- [Lifehacker] [This Whisper-Quiet Air Purifier Is $111 Off Right Now](https://lifehacker.com/this-whisper-quiet-air-purifier-is-71-right-now-1850875756)
+- [Dev.to/JS] [Node.js Development Made Easy With Docker 🐳](https://dev.to/shameel/nodejs-development-made-easy-with-docker-f0p)
+- [Lifehacker] [You Can Get Two 4K Camera Drones for $110 Right Now](https://lifehacker.com/you-can-get-two-4k-camera-drones-for-110-right-now-1850866993)
 - [Lifehacker] [Why Lights Flicker in Your Smartphone Videos &lpar;and How to Stop It&rpar;](https://lifehacker.com/why-lights-flicker-in-your-smartphone-videos-and-how-t-1850877053)
 - [Lifehacker] [How to Tell If Your iPhone Is Tapped](https://lifehacker.com/how-to-tell-if-your-iphone-is-tapped-1850876267)
 - [Dev.to/JS] [🔥7 open-source libraries to keep an eye on &lpar;and contribute to!&rpar; ✨👩‍💻](https://dev.to/quine/7-open-source-libraries-to-keep-an-eye-on-and-contribute-to-2c96)
-- [Lifehacker] [This Whisper-Quiet Air Purifier Is 71% Off Right Now](https://lifehacker.com/this-whisper-quiet-air-purifier-is-71-right-now-1850875756)
 - [Lifehacker] [Why You Can Now Buy &#39;Legal&#39; Weed at the Gas Station](https://lifehacker.com/hemp-delta-9-thc-explainer-1850794904)
 - [Dev.to/JS] [React state in query](https://dev.to/maxwiggedal/react-state-in-query-3l8c)
 - [Dev.to/JS] [Big Projects Are Ditching TypeScript... Why?](https://dev.to/onix-systems/big-projects-are-ditching-typescript-why-180p)
@@ -38,10 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding this in JavaScript: Guide for Beginners](https://dev.to/chideracode/understanding-this-in-javascript-guide-for-beginners-15pa)
 - [Dev.to/JS] [How React Works!](https://dev.to/harixom/how-react-works-1ma6)
 - [Dev.to/JS] [Belajar Next.Js Part 1](https://dev.to/ruqfarawayy/belajar-nextjs-part-1-208c)
-- [Dev.to/JS] [⚡ Best Open Source React framework and libraries for Building Enterprise B2B apps](https://dev.to/refine/best-open-source-react-framework-and-libraries-for-building-enterprise-b2b-apps-5a0m)
-- [Dev.to/JS] [How can I follow someone on Instagram outside Instagram app &lpar;i.e. React/Next app&rpar; using Instagram API / scrapping.?](https://dev.to/zeer/how-can-i-follow-someone-on-instagram-outside-instagram-app-ie-reactnext-app-using-instagram-api-scrapping-4pa8)
-- [Dev.to/JS] [Top 6 Javascript Libraries You Must Know](https://dev.to/scofieldidehen/top-6-javascript-libraries-you-must-know-2pa8)
-- [Dev.to/JS] [Dynamic Loading, Lazy Loading, and Dynamic Imports](https://dev.to/mariyabaig/dynamic-loading-lazy-loading-and-dynamic-imports-2c7j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
 - [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
 - [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Shift From a Scarcity Mindset to an Abundance Mindset](https://lifehacker.com/you-can-shift-from-a-scarcity-mindset-to-an-abundance-m-1850871908)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in October 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-october-2023-1850871930)
 - [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
-- [Lifehacker] [This Dell Optiplex Desktop Is $380 Right Now](https://lifehacker.com/this-dell-optiplex-desktop-is-380-right-now-1850866868)
-- [Lifehacker] [The Samsung Galaxy Watch4 Classic LTE Is 58% Off Right Now](https://lifehacker.com/the-samsung-galaxy-watch4-classic-lte-is-58-off-right-1850871864)
-- [Lifehacker] [Tubi&#39;s AI Wants to Give You Better Movie Recommendations](https://lifehacker.com/tubi-ai-movie-recommendations-1850871190)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Dell Optiplex Desktop Is $380 Right Now](https://lifehacker.com/this-dell-optiplex-desktop-is-380-right-now-1850866868)<!-- TECH-POSTS:END -->
 
 ---
 
