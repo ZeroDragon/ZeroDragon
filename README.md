@@ -26,13 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Step-by-Step Guide to Implementing React Router for Dynamic Single-Page Applications](https://dev.to/scofieldidehen/a-step-by-step-guide-to-implementing-react-router-for-dynamic-single-page-applications-34oh)
+- [Dev.to/JS] [@Postconstruct and @Predestroy](https://dev.to/javatute673/postconstruct-and-predestroy-16kj)
+- [Dev.to/JS] [Demystifying the Ternary Operator in JavaScript](https://dev.to/ewenikeemmanue4/demystifying-the-ternary-operator-in-javascript-2d2f)
+- [Lifehacker] [Spotify Jam Lets Anyone Add a Song to Your Party Playlist](https://lifehacker.com/how-to-use-spotify-jam-1850877565)
+- [Dev.to/JS] [Meet firstissue.dev: A Website to Help You Find a Project for Your Next Open-Source Contribution.](https://dev.to/lucavallin/meet-firstissuedev-a-website-to-help-you-find-a-project-for-your-next-open-source-contribution-421c)
+- [Lifehacker] [What&#39;s New on Netflix in October 2023](https://lifehacker.com/whats-new-on-netflix-in-october-2023-1850877574)
 - [Dev.to/JS] [Optimize Performance with Memoization](https://dev.to/theramoliya/optimize-performance-with-memoization-3ec6)
 - [Lifehacker] [Use These Kinesthetic Methods to Retain What You Study](https://lifehacker.com/use-these-kinesthetic-methods-to-retain-what-you-study-1850877695)
 - [Dev.to/JS] [🔥What are the differences between const, let, and var? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/what-are-the-differences-between-const-let-and-var-10-must-know-questions-for-junior-developers-2ji4)
 - [Dev.to/JS] [Next.js ile Modern Web Geliştirme: Hızlı, SEO Dostu ve Ötesi](https://dev.to/yunuselci/nextjs-ile-modern-web-gelistirme-hizli-seo-dostu-ve-otesi-2h8i)
 - [Lifehacker] [Your iPhone’s Portrait Mode Just Became Unnecessary](https://lifehacker.com/your-iphone-s-portrait-mode-just-became-unnecessary-1850877430)
 - [Dev.to/JS] [Understanding the Difference Between Primitive and Non-Primitive Data Types in JavaScript](https://dev.to/daslaw/understanding-the-difference-between-primitive-and-non-primitive-data-types-in-javascript-5bb0)
-- [Dev.to/JS] [I asked ChatGPT what he thought of our open source project. Here’s what it says.](https://dev.to/opensourcee/i-asked-chatgpt-what-he-thought-of-our-open-source-project-heres-what-it-says-3h5e)
+- [Dev.to/JS] [I asked ChatGPT what it thought of our open source project. Here’s what it says.](https://dev.to/opensourcee/i-asked-chatgpt-what-he-thought-of-our-open-source-project-heres-what-it-says-3h5e)
 - [Dev.to/JS] [Help! Apollo is changing my graphql query response](https://dev.to/everas7/help-apollo-is-changing-my-graphql-query-response-13f4)
 - [Lifehacker] [This Five-Year Subscription to OysterVPN Is $30 Right Now](https://lifehacker.com/this-five-year-subscription-to-oystervpn-is-30-right-n-1850866940)
 - [Lifehacker] [This Whisper-Quiet Air Purifier Is $111 Off Right Now](https://lifehacker.com/this-whisper-quiet-air-purifier-is-71-right-now-1850875756)
@@ -42,10 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Your iPhone Is Tapped](https://lifehacker.com/how-to-tell-if-your-iphone-is-tapped-1850876267)
 - [Dev.to/JS] [🔥7 open-source libraries to keep an eye on &lpar;and contribute to!&rpar; ✨👩‍💻](https://dev.to/quine/7-open-source-libraries-to-keep-an-eye-on-and-contribute-to-2c96)
 - [Lifehacker] [Why You Can Now Buy &#39;Legal&#39; Weed at the Gas Station](https://lifehacker.com/hemp-delta-9-thc-explainer-1850794904)
-- [Dev.to/JS] [React state in query](https://dev.to/maxwiggedal/react-state-in-query-3l8c)
-- [Dev.to/JS] [Big Projects Are Ditching TypeScript... Why?](https://dev.to/onix-systems/big-projects-are-ditching-typescript-why-180p)
-- [Dev.to/JS] [Building and Deploying a Next.js Website with Docker](https://dev.to/mrrishimeena/building-and-deploying-a-nextjs-website-with-docker-26b1)
-- [Dev.to/JS] [Admin Dashboard Using HTML CSS and JavaScript | Dark &amp; Light Mode](https://dev.to/onlineittutstutorials/admin-dashboard-using-html-css-and-javascript-dark-light-mode-14od)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
 - [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
 - [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, iOS 17 Won’t ‘Kill’ Your iPhone](https://lifehacker.com/no-ios-17-won-t-kill-your-iphone-1850873506)
 - [Lifehacker] [The Cielo Smart Thermostat Is on Sale for $150 Right Now](https://lifehacker.com/the-cielo-smart-thermostat-is-on-sale-for-150-right-no-1850866904)
 - [Lifehacker] [The Apple Watch Series 8 Is Up to $120 Off Right Now](https://lifehacker.com/the-apple-watch-series-8-is-up-to-120-off-right-now-1850873343)
-- [Lifehacker] [Why You Shouldn&#39;t Use Apple AirTags to Keep Track of Your Kids](https://lifehacker.com/should-you-use-apple-airtags-to-keep-track-of-your-kids-1847752273)
-- [Lifehacker] [You Can Shift From a Scarcity Mindset to an Abundance Mindset](https://lifehacker.com/you-can-shift-from-a-scarcity-mindset-to-an-abundance-m-1850871908)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in October 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-october-2023-1850871930)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn&#39;t Use Apple AirTags to Keep Track of Your Kids](https://lifehacker.com/should-you-use-apple-airtags-to-keep-track-of-your-kids-1847752273)<!-- TECH-POSTS:END -->
 
 ---
 
