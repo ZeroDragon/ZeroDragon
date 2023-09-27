@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Lights Flicker in Your Smartphone Videos &lpar;and How to Stop It&rpar;](https://lifehacker.com/why-lights-flicker-in-your-smartphone-videos-and-how-t-1850877053)
 - [Lifehacker] [How to Tell If Your iPhone Is Tapped](https://lifehacker.com/how-to-tell-if-your-iphone-is-tapped-1850876267)
 - [Dev.to/JS] [🔥7 open-source libraries to keep an eye on &lpar;and contribute to!&rpar; ✨👩‍💻](https://dev.to/quine/7-open-source-libraries-to-keep-an-eye-on-and-contribute-to-2c96)
 - [Lifehacker] [This Whisper-Quiet Air Purifier Is 71% Off Right Now](https://lifehacker.com/this-whisper-quiet-air-purifier-is-71-right-now-1850875756)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Can Do With iPhone 15 Pro&#39;s Action Button](https://lifehacker.com/everything-you-can-do-with-iphone-15-pros-action-button-1850832992)
 - [Lifehacker] [This Dell Optiplex Desktop Is $380 Right Now](https://lifehacker.com/this-dell-optiplex-desktop-is-380-right-now-1850866868)
 - [Lifehacker] [The Samsung Galaxy Watch4 Classic LTE Is 58% Off Right Now](https://lifehacker.com/the-samsung-galaxy-watch4-classic-lte-is-58-off-right-1850871864)
-- [Lifehacker] [Tubi&#39;s AI Wants to Give You Better Movie Recommendations](https://lifehacker.com/tubi-ai-movie-recommendations-1850871190)
-- [Lifehacker] [An Age-By-Age Guide to Raising an Autonomous Kid](https://lifehacker.com/an-age-by-age-guide-to-raising-an-autonomous-kid-1850871105)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Tubi&#39;s AI Wants to Give You Better Movie Recommendations](https://lifehacker.com/tubi-ai-movie-recommendations-1850871190)<!-- TECH-POSTS:END -->
 
 ---
 
