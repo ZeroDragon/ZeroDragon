@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Full Stack Developer: A Comprehensive Guide](https://dev.to/imparth/the-full-stack-developer-a-comprehensive-guide-2731)
+- [Dev.to/JS] [Check Login Using Middleware With NextJS 13](https://dev.to/skipperhoa/check-login-using-middleware-with-nextjs-13-1iab)
 - [Dev.to/JS] [Day 5: Callbacks, Promises, and Async/Await 🕰️](https://dev.to/shivamblog/day-5-callbacks-promises-and-asyncawait-54hl)
 - [Dev.to/JS] [Typescript utility types](https://dev.to/djzenma/typescript-utility-types-3np3)
 - [Dev.to/JS] [Webpack compilation error &quot;Critical dependency: the request of a dependency is an expression&quot; solution](https://dev.to/__28f08df2bb06aae67f97/webpack-compilation-error-critical-dependency-the-request-of-a-dependency-is-an-expression-solution-5f4n)
@@ -34,17 +36,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tutorial: Automate Highlighting in WYSIWIG Editors](https://dev.to/askui/tutorial-automate-highlighting-in-wysiwig-editors-2c6e)
 - [Dev.to/JS] [Opportunities in Artificial Intelligence](https://dev.to/michellebuchiokonicha/opportunities-in-artificial-intelligence-2l4g)
 - [Dev.to/JS] [👑Mastering👑 Vue.js Events](https://dev.to/noobizdev/top-guide-to-vuejs-events-5efb)
+- [Dev.to/JS] [LeetCode 2233 Maximum Product After K Increments &lpar;Medium&rpar;](https://dev.to/speaklouder/leetcode-2233-maximum-product-after-k-increments-medium-23fm)
 - [Dev.to/JS] [Frontend podcast list 🎙️](https://dev.to/tech_foutraque/frontend-podcast-list-fh7)
 - [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
 - [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)
 - [Dev.to/JS] [My HTML/CSS Journey: Overcoming Challenges and Embracing the World of JavaScript](https://dev.to/charleswtiffany/my-css-journey-overcoming-challenges-and-embracing-the-world-of-javascript-1af8)
 - [Lifehacker] [Woot Has Refurbished Philips Hue Smart Lights for Up to 62% Off](https://lifehacker.com/woot-has-refurbished-philips-hue-smart-lights-for-up-to-1850875208)
-- [Dev.to/JS] [Believe In The Web](https://dev.to/bbarbour/believe-in-the-web-32b2)
 - [Lifehacker] [Avoid These Words That Send Your Email to Spam](https://lifehacker.com/avoid-these-words-that-send-your-email-to-spam-1850875029)
 - [Lifehacker] [Here&#39;s a Better Recipe for Those Viral Auntie Anne’s Cinnamon Sugar Pretzel Bites](https://lifehacker.com/heres-a-better-recipe-for-those-viral-auntie-anne-s-cin-1850874690)
-- [Dev.to/JS] [Variables and Data Types in JavaScript for Beginners](https://dev.to/joanayebola/variables-and-data-types-in-javascript-for-beginners-338o)
 - [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
-- [Dev.to/JS] [Various Ways to Leverage Angular Directives: An In-Depth Guide](https://dev.to/zeeshanhshaheen/various-ways-to-leverage-angular-directives-an-in-depth-guide-1pka)
 - [Lifehacker] [These Appliances Are up to 76% Off During Walmart&#39;s Fall Sale](https://lifehacker.com/these-appliances-are-up-to-76-off-during-walmarts-fall-1850873915)
 - [Lifehacker] [Use the &#39;20/10 Method&#39; to Clean Without Exhausting Yourself](https://lifehacker.com/use-the-20-10-method-to-clean-without-exhausting-yourse-1850874448)
 - [Lifehacker] [11 of the Best Kettlebell Exercises for Beginners](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
