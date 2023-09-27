@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best National Coffee Day Deals of 2023](https://lifehacker.com/the-best-national-coffee-day-deals-1850878856)
+- [Dev.to/JS] [[HD] !!— vida perra Ver Película &lpar;2023&rpar; Gratis en Español Y Latino MEga](https://dev.to/aseplamansartoki/hd-vida-perra-ver-pelicula-2023-gratis-en-espanol-y-latino-mega-515e)
+- [Lifehacker] [Meta Is Adding a Ton of AI-powered Features to Messenger, Instagram, and WhatsApp](https://lifehacker.com/ai-features-instagram-messenger-whatsapp-1850879342)
+- [Dev.to/JS] [Ver &#39;vida perra&#39; online &lpar;película completa&rpar;](https://dev.to/aseplamansartoki/ver-vida-perra-online-pelicula-completa-16h0)
+- [Dev.to/JS] [[HD] !!— La monja II Ver Película &lpar;2023&rpar; Gratis en Español Y Latino MEga](https://dev.to/aseplamansartoki/hd-la-monja-ii-ver-pelicula-2023-gratis-en-espanol-y-latino-mega-2nbb)
+- [Dev.to/JS] [CUEVANA.3 VER La monja II, La Película &lpar;2023&rpar; Película completa en Español](https://dev.to/aseplamansartoki/cuevana3-ver-la-monja-ii-la-pelicula-2023-pelicula-completa-en-espanol-5gom)
+- [Dev.to/JS] [Ver &#39;La monja II&#39; online &lpar;película completa&rpar;](https://dev.to/aseplamansartoki/ver-la-monja-ii-online-pelicula-completa-4nj7)
+- [Dev.to/JS] [Generating Universally Unique Identifiers &lpar;UUIDs&rpar; in JavaScript: A Comprehensive Guide with Code Examples](https://dev.to/iamcymentho/generating-universally-unique-identifiers-uuids-in-javascript-a-comprehensive-guide-with-code-examples-41cm)
+- [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
 - [Lifehacker] [Why You Should Plant Your Tulips in Crates Instead](https://lifehacker.com/best-way-to-plant-tulip-bulbs-for-landscaping-1850878528)
 - [Dev.to/JS] [Check item is already exists in an array using JS](https://dev.to/imsan/check-item-is-already-exists-in-an-array-using-js-32j3)
 - [Dev.to/JS] [What I&#39;ve learnt in 1 month of programming](https://dev.to/acamikuro/what-ive-learnt-in-1-month-of-programming-4a6o)
@@ -39,15 +48,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [8xbet soccer](https://dev.to/8xbetsoccerv/8xbet-soccer-db7)
 - [Lifehacker] [What to Do When Your Toddler Acts Aggressively](https://lifehacker.com/what-to-do-when-your-toddler-acts-aggressively-1850875525)
 - [Lifehacker] [All the Wolfenstein Games Are Up to 85% Off Right Now](https://lifehacker.com/all-the-wolfenstein-games-are-up-to-85-off-right-now-1850878466)
-- [Dev.to/JS] [API Protocol types: When to use each with Examples](https://dev.to/alakkadshaw/api-protocol-types-when-to-use-each-with-examples-ead)
-- [Dev.to/JS] [Beginner&#39;s Guide to Debugging &lpar;JavaScript&rpar;](https://dev.to/khamerling-potts/beginners-guide-to-debugging-javascript-1c3a)
 - [Lifehacker] [The Best DIY Halloween Spiderweb Decorations &lpar;That Aren’t Dangerous for Wildlife&rpar;](https://lifehacker.com/the-best-diy-halloween-spiderweb-decorations-that-aren-1850876779)
-- [Dev.to/JS] [Sane front-end project architecture based on 12 years of experience](https://dev.to/bolshchikov/sane-front-end-project-architecture-based-on-12-years-of-experience-5051)
 - [Lifehacker] [These Mini Dual Tube Night-Vision Binoculars Are $100 Right Now](https://lifehacker.com/these-mini-dual-tube-night-vision-binoculars-are-100-r-1850866884)
-- [Dev.to/JS] [🦖 Gentle, promise-based HTTP client for Deno and Node.js &lpar;part 2&rpar;](https://dev.to/sevapp/gentle-promise-based-http-client-for-deno-and-nodejs-part-2-1ian)
 - [Lifehacker] [These Southwest Flights Are 50% Off Right Now](https://lifehacker.com/these-southwest-flights-are-50-off-right-now-1850878025)
-- [Dev.to/JS] [A Step-by-Step Guide to Implementing React Router for Dynamic Single-Page Applications](https://dev.to/scofieldidehen/a-step-by-step-guide-to-implementing-react-router-for-dynamic-single-page-applications-34oh)
-- [Dev.to/JS] [@Postconstruct and @Predestroy](https://dev.to/javatute673/postconstruct-and-predestroy-16kj)
 - [Lifehacker] [Spotify Jam Lets Anyone Add a Song to Your Party Playlist](https://lifehacker.com/how-to-use-spotify-jam-1850877565)
 - [Lifehacker] [What&#39;s New on Netflix in October 2023](https://lifehacker.com/whats-new-on-netflix-in-october-2023-1850877574)
 - [Lifehacker] [Use These Kinesthetic Methods to Retain What You Study](https://lifehacker.com/use-these-kinesthetic-methods-to-retain-what-you-study-1850877695)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
 - [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)
 - [Lifehacker] [Woot Has Refurbished Philips Hue Smart Lights for Up to 62% Off](https://lifehacker.com/woot-has-refurbished-philips-hue-smart-lights-for-up-to-1850875208)
-- [Lifehacker] [Avoid These Words That Send Your Email to Spam](https://lifehacker.com/avoid-these-words-that-send-your-email-to-spam-1850875029)
-- [Lifehacker] [Here&#39;s a Better Recipe for Those Viral Auntie Anne’s Cinnamon Sugar Pretzel Bites](https://lifehacker.com/heres-a-better-recipe-for-those-viral-auntie-anne-s-cin-1850874690)
-- [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
-- [Lifehacker] [These Appliances Are up to 76% Off During Walmart&#39;s Fall Sale](https://lifehacker.com/these-appliances-are-up-to-76-off-during-walmarts-fall-1850873915)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid These Words That Send Your Email to Spam](https://lifehacker.com/avoid-these-words-that-send-your-email-to-spam-1850875029)<!-- TECH-POSTS:END -->
 
 ---
 
