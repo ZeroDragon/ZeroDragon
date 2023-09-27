@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Plant Your Tulips in Crates Instead](https://lifehacker.com/best-way-to-plant-tulip-bulbs-for-landscaping-1850878528)
+- [Dev.to/JS] [Check item is already exists in an array using JS](https://dev.to/imsan/check-item-is-already-exists-in-an-array-using-js-32j3)
+- [Dev.to/JS] [What I&#39;ve learnt in 1 month of programming](https://dev.to/acamikuro/what-ive-learnt-in-1-month-of-programming-4a6o)
+- [Lifehacker] [Make This Gooey, Stretchy Cheese Sauce With Lemon Juice and Baking Soda](https://lifehacker.com/make-this-gooey-stretchy-cheese-sauce-with-lemon-juice-1850879631)
+- [Lifehacker] [Make and Freeze Mash Potatoes Now for an Easier Thanksgiving](https://lifehacker.com/you-can-freeze-and-reheat-mashed-potatoes-for-thanksgiv-1830102087)
+- [Dev.to/JS] [Node-red Prelude. Blind inception](https://dev.to/lgtome/node-red-prelude-blind-inception-14fm)
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/the-best-romantic-comedies-streaming-on-netflix-right-n-1850873654)
 - [Lifehacker] [The Most Common Myths That Keep People From Investing](https://lifehacker.com/the-most-common-myths-that-keep-people-from-investing-1850878694)
 - [Dev.to/JS] [React-router-dom 6 for beginners](https://dev.to/jeetvora331/react-router-dom-6-for-beginners-20ob)
@@ -42,11 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Southwest Flights Are 50% Off Right Now](https://lifehacker.com/these-southwest-flights-are-50-off-right-now-1850878025)
 - [Dev.to/JS] [A Step-by-Step Guide to Implementing React Router for Dynamic Single-Page Applications](https://dev.to/scofieldidehen/a-step-by-step-guide-to-implementing-react-router-for-dynamic-single-page-applications-34oh)
 - [Dev.to/JS] [@Postconstruct and @Predestroy](https://dev.to/javatute673/postconstruct-and-predestroy-16kj)
-- [Dev.to/JS] [Demystifying the Ternary Operator in JavaScript](https://dev.to/ewenikeemmanue4/demystifying-the-ternary-operator-in-javascript-2d2f)
 - [Lifehacker] [Spotify Jam Lets Anyone Add a Song to Your Party Playlist](https://lifehacker.com/how-to-use-spotify-jam-1850877565)
-- [Dev.to/JS] [Meet firstissue.dev: A Website to Help You Find a Project for Your Next Open-Source Contribution.](https://dev.to/lucavallin/meet-firstissuedev-a-website-to-help-you-find-a-project-for-your-next-open-source-contribution-421c)
 - [Lifehacker] [What&#39;s New on Netflix in October 2023](https://lifehacker.com/whats-new-on-netflix-in-october-2023-1850877574)
-- [Dev.to/JS] [Optimize Performance with Memoization](https://dev.to/theramoliya/optimize-performance-with-memoization-3ec6)
 - [Lifehacker] [Use These Kinesthetic Methods to Retain What You Study](https://lifehacker.com/use-these-kinesthetic-methods-to-retain-what-you-study-1850877695)
 - [Lifehacker] [Your iPhone’s Portrait Mode Just Became Unnecessary](https://lifehacker.com/your-iphone-s-portrait-mode-just-became-unnecessary-1850877430)
 - [Lifehacker] [This Five-Year Subscription to OysterVPN Is $30 Right Now](https://lifehacker.com/this-five-year-subscription-to-oystervpn-is-30-right-n-1850866940)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Words That Send Your Email to Spam](https://lifehacker.com/avoid-these-words-that-send-your-email-to-spam-1850875029)
 - [Lifehacker] [Here&#39;s a Better Recipe for Those Viral Auntie Anne’s Cinnamon Sugar Pretzel Bites](https://lifehacker.com/heres-a-better-recipe-for-those-viral-auntie-anne-s-cin-1850874690)
 - [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
-- [Lifehacker] [These Appliances Are up to 76% Off During Walmart&#39;s Fall Sale](https://lifehacker.com/these-appliances-are-up-to-76-off-during-walmarts-fall-1850873915)
-- [Lifehacker] [Use the &#39;20/10 Method&#39; to Clean Without Exhausting Yourself](https://lifehacker.com/use-the-20-10-method-to-clean-without-exhausting-yourse-1850874448)
-- [Lifehacker] [11 of the Best Kettlebell Exercises for Beginners](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
-- [Lifehacker] [Here’s When You Should &lpar;and Shouldn’t&rpar; Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Appliances Are up to 76% Off During Walmart&#39;s Fall Sale](https://lifehacker.com/these-appliances-are-up-to-76-off-during-walmarts-fall-1850873915)<!-- TECH-POSTS:END -->
 
 ---
 
