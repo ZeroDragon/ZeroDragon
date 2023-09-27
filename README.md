@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/the-best-romantic-comedies-streaming-on-netflix-right-n-1850873654)
+- [Lifehacker] [The Most Common Myths That Keep People From Investing](https://lifehacker.com/the-most-common-myths-that-keep-people-from-investing-1850878694)
+- [Dev.to/JS] [React-router-dom 6 for beginners](https://dev.to/jeetvora331/react-router-dom-6-for-beginners-20ob)
+- [Dev.to/JS] [Merge my branches into Main](https://dev.to/seogjun/merge-my-branches-into-main-1cjd)
+- [Dev.to/JS] [8xbet soccer](https://dev.to/8xbetsoccerv/8xbet-soccer-db7)
+- [Lifehacker] [What to Do When Your Toddler Acts Aggressively](https://lifehacker.com/what-to-do-when-your-toddler-acts-aggressively-1850875525)
 - [Lifehacker] [All the Wolfenstein Games Are Up to 85% Off Right Now](https://lifehacker.com/all-the-wolfenstein-games-are-up-to-85-off-right-now-1850878466)
 - [Dev.to/JS] [API Protocol types: When to use each with Examples](https://dev.to/alakkadshaw/api-protocol-types-when-to-use-each-with-examples-ead)
 - [Dev.to/JS] [Beginner&#39;s Guide to Debugging &lpar;JavaScript&rpar;](https://dev.to/khamerling-potts/beginners-guide-to-debugging-javascript-1c3a)
@@ -42,10 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in October 2023](https://lifehacker.com/whats-new-on-netflix-in-october-2023-1850877574)
 - [Dev.to/JS] [Optimize Performance with Memoization](https://dev.to/theramoliya/optimize-performance-with-memoization-3ec6)
 - [Lifehacker] [Use These Kinesthetic Methods to Retain What You Study](https://lifehacker.com/use-these-kinesthetic-methods-to-retain-what-you-study-1850877695)
-- [Dev.to/JS] [🔥What are the differences between const, let, and var? 10 Must-Know Questions for Junior Developers💡🚀](https://dev.to/xmohammedawad/what-are-the-differences-between-const-let-and-var-10-must-know-questions-for-junior-developers-2ji4)
-- [Dev.to/JS] [Next.js ile Modern Web Geliştirme: Hızlı, SEO Dostu ve Ötesi](https://dev.to/yunuselci/nextjs-ile-modern-web-gelistirme-hizli-seo-dostu-ve-otesi-2h8i)
 - [Lifehacker] [Your iPhone’s Portrait Mode Just Became Unnecessary](https://lifehacker.com/your-iphone-s-portrait-mode-just-became-unnecessary-1850877430)
-- [Dev.to/JS] [Understanding the Difference Between Primitive and Non-Primitive Data Types in JavaScript](https://dev.to/daslaw/understanding-the-difference-between-primitive-and-non-primitive-data-types-in-javascript-5bb0)
 - [Lifehacker] [This Five-Year Subscription to OysterVPN Is $30 Right Now](https://lifehacker.com/this-five-year-subscription-to-oystervpn-is-30-right-n-1850866940)
 - [Lifehacker] [This Whisper-Quiet Air Purifier Is $111 Off Right Now](https://lifehacker.com/this-whisper-quiet-air-purifier-is-71-right-now-1850875756)
 - [Lifehacker] [You Can Get Two 4K Camera Drones for $110 Right Now](https://lifehacker.com/you-can-get-two-4k-camera-drones-for-110-right-now-1850866993)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Appliances Are up to 76% Off During Walmart&#39;s Fall Sale](https://lifehacker.com/these-appliances-are-up-to-76-off-during-walmarts-fall-1850873915)
 - [Lifehacker] [Use the &#39;20/10 Method&#39; to Clean Without Exhausting Yourself](https://lifehacker.com/use-the-20-10-method-to-clean-without-exhausting-yourse-1850874448)
 - [Lifehacker] [11 of the Best Kettlebell Exercises for Beginners](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
-- [Lifehacker] [Here’s When You Should &lpar;and Shouldn’t&rpar; Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)
-- [Lifehacker] [A ‘Work College’ Can Give You Experience and Education for Free](https://lifehacker.com/a-work-college-can-give-you-experience-and-education-1850873911)
-- [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
-- [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s When You Should &lpar;and Shouldn’t&rpar; Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)<!-- TECH-POSTS:END -->
 
 ---
 
