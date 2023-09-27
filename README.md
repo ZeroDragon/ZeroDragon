@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How can I follow someone on Instagram outside Instagram app &lpar;i.e. React/Next app&rpar; using Instagram API / scrapping.?](https://dev.to/zeer/how-can-i-follow-someone-on-instagram-outside-instagram-app-ie-reactnext-app-using-instagram-api-scrapping-4pa8)
+- [Dev.to/JS] [Top 6 Javascript Libraries You Must Know](https://dev.to/scofieldidehen/top-6-javascript-libraries-you-must-know-2pa8)
+- [Dev.to/JS] [Dynamic Loading, Lazy Loading, and Dynamic Imports](https://dev.to/mariyabaig/dynamic-loading-lazy-loading-and-dynamic-imports-2c7j)
 - [Dev.to/JS] [JS Crush, the JavaScript Equality Game](https://dev.to/herrington_darkholme/js-crush-the-javascript-equality-game-3c9b)
 - [Dev.to/JS] [💻 Web Development Resources #167](https://dev.to/vincenius/web-development-resources-167-2m2d)
 - [Dev.to/JS] [Optimizing Angular Applications for Peak Performance](https://dev.to/chintanonweb/optimizing-angular-applications-for-peak-performance-1e3h)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimize Your Nest.js App Performance With These Practices](https://dev.to/brilworks/optimize-your-nestjs-app-performance-with-these-practices-485c)
 - [Dev.to/JS] [Unlocking JavaScript&#39;s Secret Weapon: The Power of WeakMaps](https://dev.to/this-is-learning/unlocking-javascripts-secret-weapon-the-power-of-weakmaps-36ni)
 - [Dev.to/JS] [O que é Bun? Será este o novo queridinho dos devs Javascript?](https://dev.to/gabrielgcj/o-que-e-bun-e-para-o-que-serve-2e2c)
-- [Dev.to/JS] [A Quick Guide To Creating React Native Mobile App](https://dev.to/richarddukusa/a-quick-guide-to-creating-react-native-mobile-app-4nof)
-- [Dev.to/JS] [The Full Stack Developer: A Comprehensive Guide](https://dev.to/imparth/the-full-stack-developer-a-comprehensive-guide-2731)
-- [Dev.to/JS] [Check Login Using Middleware With NextJS 13](https://dev.to/skipperhoa/check-login-using-middleware-with-nextjs-13-1iab)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
 - [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
 - [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)
