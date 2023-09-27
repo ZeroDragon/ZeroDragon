@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Wolfenstein Games Are Up to 85% Off Right Now](https://lifehacker.com/all-the-wolfenstein-games-are-up-to-85-off-right-now-1850878466)
+- [Dev.to/JS] [API Protocol types: When to use each with Examples](https://dev.to/alakkadshaw/api-protocol-types-when-to-use-each-with-examples-ead)
+- [Dev.to/JS] [Beginner&#39;s Guide to Debugging &lpar;JavaScript&rpar;](https://dev.to/khamerling-potts/beginners-guide-to-debugging-javascript-1c3a)
+- [Lifehacker] [The Best DIY Halloween Spiderweb Decorations &lpar;That Aren’t Dangerous for Wildlife&rpar;](https://lifehacker.com/the-best-diy-halloween-spiderweb-decorations-that-aren-1850876779)
 - [Dev.to/JS] [Sane front-end project architecture based on 12 years of experience](https://dev.to/bolshchikov/sane-front-end-project-architecture-based-on-12-years-of-experience-5051)
 - [Lifehacker] [These Mini Dual Tube Night-Vision Binoculars Are $100 Right Now](https://lifehacker.com/these-mini-dual-tube-night-vision-binoculars-are-100-r-1850866884)
 - [Dev.to/JS] [🦖 Gentle, promise-based HTTP client for Deno and Node.js &lpar;part 2&rpar;](https://dev.to/sevapp/gentle-promise-based-http-client-for-deno-and-nodejs-part-2-1ian)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js ile Modern Web Geliştirme: Hızlı, SEO Dostu ve Ötesi](https://dev.to/yunuselci/nextjs-ile-modern-web-gelistirme-hizli-seo-dostu-ve-otesi-2h8i)
 - [Lifehacker] [Your iPhone’s Portrait Mode Just Became Unnecessary](https://lifehacker.com/your-iphone-s-portrait-mode-just-became-unnecessary-1850877430)
 - [Dev.to/JS] [Understanding the Difference Between Primitive and Non-Primitive Data Types in JavaScript](https://dev.to/daslaw/understanding-the-difference-between-primitive-and-non-primitive-data-types-in-javascript-5bb0)
-- [Dev.to/JS] [I asked ChatGPT what it thought of our open source project. Here’s what it says.](https://dev.to/opensourcee/i-asked-chatgpt-what-he-thought-of-our-open-source-project-heres-what-it-says-3h5e)
-- [Dev.to/JS] [Help! Apollo is changing my graphql query response](https://dev.to/everas7/help-apollo-is-changing-my-graphql-query-response-13f4)
 - [Lifehacker] [This Five-Year Subscription to OysterVPN Is $30 Right Now](https://lifehacker.com/this-five-year-subscription-to-oystervpn-is-30-right-n-1850866940)
 - [Lifehacker] [This Whisper-Quiet Air Purifier Is $111 Off Right Now](https://lifehacker.com/this-whisper-quiet-air-purifier-is-71-right-now-1850875756)
 - [Lifehacker] [You Can Get Two 4K Camera Drones for $110 Right Now](https://lifehacker.com/you-can-get-two-4k-camera-drones-for-110-right-now-1850866993)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s When You Should &lpar;and Shouldn’t&rpar; Buy Mortgage Points](https://lifehacker.com/here-s-when-you-should-and-shouldn-t-buy-mortgage-poi-1850874288)
 - [Lifehacker] [A ‘Work College’ Can Give You Experience and Education for Free](https://lifehacker.com/a-work-college-can-give-you-experience-and-education-1850873911)
 - [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
-- [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)
-- [Lifehacker] [No, iOS 17 Won’t ‘Kill’ Your iPhone](https://lifehacker.com/no-ios-17-won-t-kill-your-iphone-1850873506)
-- [Lifehacker] [The Cielo Smart Thermostat Is on Sale for $150 Right Now](https://lifehacker.com/the-cielo-smart-thermostat-is-on-sale-for-150-right-no-1850866904)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why It’s So Hard to Get the New COVID Booster](https://lifehacker.com/why-it-s-so-hard-to-get-the-new-covid-booster-1850873829)<!-- TECH-POSTS:END -->
 
 ---
 
