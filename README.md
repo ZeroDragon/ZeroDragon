@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Super Smooth Mashed Potatoes With a Fine Mesh Strainer](https://lifehacker.com/how-to-make-mashed-potatoes-without-lumps-1850883812)
+- [Dev.to/JS] [Building My Personal Blog Site from Scratch: A Tech Journey.](https://dev.to/eneaslari/building-my-personal-blog-site-from-scratch-a-tech-journey-1hpj)
+- [Dev.to/JS] [React Performance Optimization: Best Practices with Examples](https://dev.to/chintanonweb/react-performance-optimization-best-practices-with-examples-3c76)
+- [Lifehacker] [You Can Finally Use iCloud Keychain in Google Chrome](https://lifehacker.com/you-can-finally-use-icloud-keychain-in-google-chrome-1850883588)
+- [Dev.to/JS] [My Vanilla Fresh Hacktoberfest23 Pledge](https://dev.to/overflow/my-vanilla-fresh-hacktoberfest23-pledge-39kn)
 - [Lifehacker] [Where to Stream the Oregon Vs. Stanford Game](https://lifehacker.com/where-to-stream-the-oregon-vs-stanford-game-1850883655)
-- [Dev.to/JS] [How to solve medium leetcode problem?](https://dev.to/xmohammedawad/how-to-solve-medium-leetcode-problem-cip)
 - [Lifehacker] [Where to Stream the Penn State Vs. Northwestern Game](https://lifehacker.com/where-to-stream-the-penn-state-vs-northwestern-game-1850882748)
 - [Dev.to/JS] [All we know about Vue 3 Vapor Mode](https://dev.to/icarusgk/all-we-know-about-vue-3-vapor-mode-3nfa)
 - [Dev.to/JS] [Run Nextjs using docker](https://dev.to/rupadana/run-nextjs-using-docker-1a38)
@@ -48,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [222222222](https://dev.to/b5321766a/222222222-41dj)
 - [Lifehacker] [Dell Is Having a 50% Off Sale on Refurbished Laptops](https://lifehacker.com/dell-is-having-a-50-off-sale-on-refurbished-laptops-1850880524)
 - [Lifehacker] [How to Watch College Football Without Cable This Season](https://lifehacker.com/how-to-watch-college-football-without-cable-this-season-1850880861)
-- [Dev.to/JS] [How to create a Chrome extension full sidebar?](https://dev.to/karenr/chrome-extension-full-sidebar-4kj1)
-- [Dev.to/JS] [Supercharge Your React.js App with Performance Hacks. 🛠](https://dev.to/usamabinkashif/supercharge-your-reactjs-app-with-performance-hacks-3876)
 - [Lifehacker] [Please Stop Ordering Off-Menu Crap You See on TikTok](https://lifehacker.com/please-stop-ordering-off-menu-crap-you-see-on-tiktok-1850880309)
 - [Lifehacker] [WHOOP’s New AI Coach Actually Makes the App More Useful](https://lifehacker.com/whoop-s-new-ai-coach-actually-makes-the-app-more-useful-1850879568)
 - [Lifehacker] [Use the ‘4D’ Method to Keep Up With Your Inbox](https://lifehacker.com/use-the-4d-method-to-keep-up-with-your-inbox-1850878672)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Gooey, Stretchy Cheese Sauce With Lemon Juice and Baking Soda](https://lifehacker.com/make-this-gooey-stretchy-cheese-sauce-with-lemon-juice-1850879631)
 - [Lifehacker] [Make and Freeze Mash Potatoes Now for an Easier Thanksgiving](https://lifehacker.com/you-can-freeze-and-reheat-mashed-potatoes-for-thanksgiv-1830102087)
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/the-best-romantic-comedies-streaming-on-netflix-right-n-1850873654)
-- [Lifehacker] [The Most Common Myths That Keep People From Investing](https://lifehacker.com/the-most-common-myths-that-keep-people-from-investing-1850878694)
-- [Lifehacker] [What to Do When Your Toddler Acts Aggressively](https://lifehacker.com/what-to-do-when-your-toddler-acts-aggressively-1850875525)
-- [Lifehacker] [All the Wolfenstein Games Are Up to 85% Off Right Now](https://lifehacker.com/all-the-wolfenstein-games-are-up-to-85-off-right-now-1850878466)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Common Myths That Keep People From Investing](https://lifehacker.com/the-most-common-myths-that-keep-people-from-investing-1850878694)<!-- TECH-POSTS:END -->
 
 ---
 
