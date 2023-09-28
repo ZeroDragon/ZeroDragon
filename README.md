@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Try Copilot, Windows 11’s New AI Assistant, Right Now](https://lifehacker.com/you-can-try-copilot-windows-11-s-new-ai-assistant-rig-1850884313)
+- [Lifehacker] [Check If You Qualify for One of These Student Loan Grants](https://lifehacker.com/check-if-you-qualify-for-one-of-these-student-loan-gran-1850882286)
+- [Dev.to/JS] [Javascript object - Object Literal and Constructor](https://dev.to/hyeo151/javascript-object-object-literal-and-constructor-m6o)
+- [Lifehacker] [You Can Get an Amazon Echo Pop and a Month of Amazon Music Unlimited for $15 Right Now](https://lifehacker.com/you-can-get-an-amazon-echo-pop-and-a-month-of-amazon-mu-1850883447)
 - [Lifehacker] [Where to Stream the Washington Vs. Arizona Game](https://lifehacker.com/where-to-stream-the-washington-vs-arizona-game-1850884048)
 - [Lifehacker] [How to Make Turkey Gravy Without Pan Drippings](https://lifehacker.com/how-to-make-turkey-gravy-without-pan-drippings-1830415802)
 - [Lifehacker] [The Three Best Kitchen Countertops to Install Yourself](https://lifehacker.com/the-best-kitchen-countertops-to-install-yourself-1850880923)
@@ -34,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSON Schema applied to InterSystems IRIS](https://dev.to/intersystems/json-schema-applied-to-intersystems-iris-3eck)
 - [Dev.to/JS] [The ugly part of CSS-in-JS](https://dev.to/andi1984/the-ugly-part-of-css-in-js-2iph)
 - [Dev.to/JS] [AI is a Loom: The End and the New Beginning of Web Dev](https://dev.to/mor10/ai-is-a-loom-the-end-and-the-new-beginning-of-web-dev-1dab)
-- [Dev.to/JS] [8xbet blog](https://dev.to/8xbetblogvn/8xbet-blog-9ab)
 - [Dev.to/JS] [No changelog for your open source project? We&#39;ll make one for you for Hacktoberfest!](https://dev.to/allieoopz/no-changelog-for-your-open-source-project-well-make-one-for-you-for-hacktoberfest-pmk)
 - [Lifehacker] [Make Super Smooth Mashed Potatoes With a Fine Mesh Strainer](https://lifehacker.com/how-to-make-mashed-potatoes-without-lumps-1850883812)
 - [Dev.to/JS] [Building My Personal Blog Site from Scratch: A Tech Journey.](https://dev.to/eneaslari/building-my-personal-blog-site-from-scratch-a-tech-journey-1hpj)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
 - [Lifehacker] [These Are the Best Features of macOS Sonoma](https://lifehacker.com/the-best-features-of-macos-sonoma-1850879931)
-- [Lifehacker] [These Are the Best National Coffee Day Deals of 2023](https://lifehacker.com/the-best-national-coffee-day-deals-1850878856)
-- [Lifehacker] [Meta Is Adding a Ton of AI-powered Features to Messenger, Instagram, and WhatsApp](https://lifehacker.com/ai-features-instagram-messenger-whatsapp-1850879342)
-- [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
-- [Lifehacker] [Why You Should Plant Your Tulips in Crates Instead](https://lifehacker.com/best-way-to-plant-tulip-bulbs-for-landscaping-1850878528)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best National Coffee Day Deals of 2023](https://lifehacker.com/the-best-national-coffee-day-deals-1850878856)<!-- TECH-POSTS:END -->
 
 ---
 
