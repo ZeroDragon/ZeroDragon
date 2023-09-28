@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding an Interactive &lpar;and Damn Satisfying&rpar; Cursor: 7 Simple Steps + 2kb of Code](https://dev.to/uuuuuulala/coding-an-interactive-and-damn-satisfying-cursor-7-simple-steps-2kb-of-code-1c8b)
 - [Dev.to/JS] [👉 TypeScript Record Type with Examples](https://dev.to/refine/typescript-record-type-with-examples-l09)
 - [Dev.to/JS] [Outkast - Multipage agency theme](https://dev.to/lexingtonthemes/outkast-multipage-agency-theme-57mm)
 - [Dev.to/JS] [Top 5 Programming Languages &amp; Frameworks for Mobile App Development](https://dev.to/externlabs/top-5-programming-languages-frameworks-for-mobile-app-development-1p9k)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
 - [Dev.to/JS] [Implementing Signals from Scratch](https://dev.to/ratiu5/implementing-signals-from-scratch-3e4c)
 - [Dev.to/JS] [Discovering Odd Behavior with Angular Error Handling](https://dev.to/this-is-angular/discovering-odd-behavior-with-angular-error-handling-5gpg)
-- [Dev.to/JS] [Nested Layouts in NextJS &lpar;App Router&rpar;](https://dev.to/idiglove/nested-layouts-in-nextjs-app-router-6f)
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
 - [Lifehacker] [These Are the Best Features of macOS Sonoma](https://lifehacker.com/the-best-features-of-macos-sonoma-1850879931)
 - [Lifehacker] [These Are the Best National Coffee Day Deals of 2023](https://lifehacker.com/the-best-national-coffee-day-deals-1850878856)
