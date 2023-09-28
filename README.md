@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the ‘4D’ Method to Keep Up With Your Inbox](https://lifehacker.com/use-the-4d-method-to-keep-up-with-your-inbox-1850878672)
 - [Dev.to/JS] [Web or mobile application: what to choose?](https://dev.to/sparkouttech/web-or-mobile-application-what-to-choose-20hd)
 - [Dev.to/JS] [Fast-Tracking Electric Vehicle Adoption in India](https://dev.to/rahulku/fast-tracking-electric-vehicle-adoption-in-india-3kk2)
 - [Dev.to/JS] [&lt;=60s - React](https://dev.to/easewithtuts/60s-react-5em9)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Lights Flicker in Your Smartphone Videos &lpar;and How to Stop It&rpar;](https://lifehacker.com/why-lights-flicker-in-your-smartphone-videos-and-how-t-1850877053)
 - [Lifehacker] [How to Tell If Your iPhone Is Tapped](https://lifehacker.com/how-to-tell-if-your-iphone-is-tapped-1850876267)
 - [Lifehacker] [Why You Can Now Buy &#39;Legal&#39; Weed at the Gas Station](https://lifehacker.com/hemp-delta-9-thc-explainer-1850794904)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
-- [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)<!-- TECH-POSTS:END -->
 
 ---
 
