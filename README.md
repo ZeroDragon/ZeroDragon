@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js 13 Drops with Exciting Updates: Find Out What’s New?](https://dev.to/brilworks/nextjs-13-drops-with-exciting-updates-find-out-whats-new-3o7g)
 - [Dev.to/JS] [Authentication &amp; User Management in Nextjs App Router + TypeScript, 2023](https://dev.to/shinjithdev/authentication-user-management-in-nextjs-app-router-typescript-2023-3nnp)
 - [Dev.to/JS] [JS: Event Bubble](https://dev.to/onikd08/js-event-bubble-23j)
 - [Dev.to/JS] [Announcing the EAP of Forge in Bitbucket Cloud](https://dev.to/atlassian/announcing-the-eap-of-forge-in-bitbucket-cloud-in2)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
 - [Lifehacker] [These Are the Best Features of macOS Sonoma](https://lifehacker.com/the-best-features-of-macos-sonoma-1850879931)
 - [Lifehacker] [These Are the Best National Coffee Day Deals of 2023](https://lifehacker.com/the-best-national-coffee-day-deals-1850878856)
-- [Dev.to/JS] [[HD] !!— vida perra Ver Película &lpar;2023&rpar; Gratis en Español Y Latino MEga](https://dev.to/aseplamansartoki/hd-vida-perra-ver-pelicula-2023-gratis-en-espanol-y-latino-mega-515e)
 - [Lifehacker] [Meta Is Adding a Ton of AI-powered Features to Messenger, Instagram, and WhatsApp](https://lifehacker.com/ai-features-instagram-messenger-whatsapp-1850879342)
 - [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
 - [Lifehacker] [Why You Should Plant Your Tulips in Crates Instead](https://lifehacker.com/best-way-to-plant-tulip-bulbs-for-landscaping-1850878528)
