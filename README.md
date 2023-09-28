@@ -27,7 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [JS: Event Bubble](https://dev.to/onikd08/js-event-bubble-23j)
-- [Dev.to/JS] [Announcing the EAP of Forge in Bitbucket Cloud](https://dev.to/edmund_munday_atlassian/announcing-the-eap-of-forge-in-bitbucket-cloud-in2)
+- [Dev.to/JS] [Announcing the EAP of Forge in Bitbucket Cloud](https://dev.to/atlassian/announcing-the-eap-of-forge-in-bitbucket-cloud-in2)
 - [Dev.to/JS] [Create a timer in React with Start, Pause and Reset feature](https://dev.to/indrakantm23/create-a-timer-in-react-with-start-pause-and-reset-feature-1k40)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
 - [Dev.to/JS] [Implementing Signals from Scratch](https://dev.to/ratiu5/implementing-signals-from-scratch-3e4c)
