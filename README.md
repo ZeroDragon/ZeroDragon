@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS: Event Bubble](https://dev.to/onikd08/js-event-bubble-23j)
+- [Dev.to/JS] [Announcing the EAP of Forge in Bitbucket Cloud](https://dev.to/edmund_munday_atlassian/announcing-the-eap-of-forge-in-bitbucket-cloud-in2)
+- [Dev.to/JS] [Create a timer in React with Start, Pause and Reset feature](https://dev.to/indrakantm23/create-a-timer-in-react-with-start-pause-and-reset-feature-1k40)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
 - [Dev.to/JS] [Implementing Signals from Scratch](https://dev.to/ratiu5/implementing-signals-from-scratch-3e4c)
 - [Dev.to/JS] [Discovering Odd Behavior with Angular Error Handling](https://dev.to/this-is-angular/discovering-odd-behavior-with-angular-error-handling-5gpg)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[HD] !!— vida perra Ver Película &lpar;2023&rpar; Gratis en Español Y Latino MEga](https://dev.to/aseplamansartoki/hd-vida-perra-ver-pelicula-2023-gratis-en-espanol-y-latino-mega-515e)
 - [Lifehacker] [Meta Is Adding a Ton of AI-powered Features to Messenger, Instagram, and WhatsApp](https://lifehacker.com/ai-features-instagram-messenger-whatsapp-1850879342)
 - [Dev.to/JS] [Ver &#39;vida perra&#39; online &lpar;película completa&rpar;](https://dev.to/aseplamansartoki/ver-vida-perra-online-pelicula-completa-16h0)
-- [Dev.to/JS] [[HD] !!— La monja II Ver Película &lpar;2023&rpar; Gratis en Español Y Latino MEga](https://dev.to/aseplamansartoki/hd-la-monja-ii-ver-pelicula-2023-gratis-en-espanol-y-latino-mega-2nbb)
-- [Dev.to/JS] [CUEVANA.3 VER La monja II, La Película &lpar;2023&rpar; Película completa en Español](https://dev.to/aseplamansartoki/cuevana3-ver-la-monja-ii-la-pelicula-2023-pelicula-completa-en-espanol-5gom)
-- [Dev.to/JS] [Ver &#39;La monja II&#39; online &lpar;película completa&rpar;](https://dev.to/aseplamansartoki/ver-la-monja-ii-online-pelicula-completa-4nj7)
 - [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
 - [Lifehacker] [Why You Should Plant Your Tulips in Crates Instead](https://lifehacker.com/best-way-to-plant-tulip-bulbs-for-landscaping-1850878528)
 - [Lifehacker] [Make This Gooey, Stretchy Cheese Sauce With Lemon Juice and Baking Soda](https://lifehacker.com/make-this-gooey-stretchy-cheese-sauce-with-lemon-juice-1850879631)
