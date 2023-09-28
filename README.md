@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [👉 TypeScript Record Type with Examples](https://dev.to/refine/typescript-record-type-with-examples-l09)
+- [Dev.to/JS] [Outkast - Multipage agency theme](https://dev.to/lexingtonthemes/outkast-multipage-agency-theme-57mm)
+- [Dev.to/JS] [Top 5 Programming Languages &amp; Frameworks for Mobile App Development](https://dev.to/externlabs/top-5-programming-languages-frameworks-for-mobile-app-development-1p9k)
+- [Dev.to/JS] [Javascript Event Listeners 🎧](https://dev.to/shivamblog/day-6-event-listeners-3n6o)
 - [Dev.to/JS] [Next.js 13 Drops with Exciting Updates: Find Out What’s New?](https://dev.to/brilworks/nextjs-13-drops-with-exciting-updates-find-out-whats-new-3o7g)
 - [Dev.to/JS] [Authentication &amp; User Management in Nextjs App Router + TypeScript, 2023](https://dev.to/shinjithdev/authentication-user-management-in-nextjs-app-router-typescript-2023-3nnp)
 - [Dev.to/JS] [JS: Event Bubble](https://dev.to/onikd08/js-event-bubble-23j)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing Signals from Scratch](https://dev.to/ratiu5/implementing-signals-from-scratch-3e4c)
 - [Dev.to/JS] [Discovering Odd Behavior with Angular Error Handling](https://dev.to/this-is-angular/discovering-odd-behavior-with-angular-error-handling-5gpg)
 - [Dev.to/JS] [Nested Layouts in NextJS &lpar;App Router&rpar;](https://dev.to/idiglove/nested-layouts-in-nextjs-app-router-6f)
-- [Dev.to/JS] [Core JavaScript Concepts to Master Before Learning React](https://dev.to/compleat_dev/core-javascript-concepts-to-master-before-learning-react-23jm)
-- [Dev.to/JS] [My Experience learning to code.](https://dev.to/nathanwelliver/my-experience-learning-javascript-46a3)
-- [Dev.to/JS] [Tips for using Javascript in your projects](https://dev.to/axedigitalci/tips-for-using-javascript-in-your-projects-5h76)
-- [Dev.to/JS] [¿Qué es y para que sirve el TESTING en Javascript?](https://dev.to/davichobits/que-es-y-para-que-sirve-el-testing-en-javascript-nc6)
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
 - [Lifehacker] [These Are the Best Features of macOS Sonoma](https://lifehacker.com/the-best-features-of-macos-sonoma-1850879931)
 - [Lifehacker] [These Are the Best National Coffee Day Deals of 2023](https://lifehacker.com/the-best-national-coffee-day-deals-1850878856)
