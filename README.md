@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Manage Your Catastrophic Thinking](https://lifehacker.com/how-to-manage-your-catastrophic-thinking-1850880206)
+- [Lifehacker] [The Best Exercise Modifications to Try If You Have Sore Wrists](https://lifehacker.com/the-best-exercise-modifications-to-try-if-you-have-sore-1850881098)
 - [Lifehacker] [There&#39;s an iOS 17.1 Already](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
 - [Dev.to/JS] [Who Ate My Disk Space? It&#39;s &quot;node_modules&quot; Again! 🕵️‍♂️](https://dev.to/maurerkrisztian/who-ate-my-disk-space-its-nodemodules-again-23dp)
 - [Lifehacker] [Meross Makes the Best Smart Plugs](https://lifehacker.com/meross-makes-the-best-smart-plugs-1850879264)
@@ -44,7 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cracking Your First React Developer Interview: Top 10 Questions and How to Answer Them](https://dev.to/eneaslari/cracking-your-first-react-developer-interview-top-10-questions-and-how-to-answer-them-36o2)
 - [Dev.to/JS] [Nuxt 3 SSR: Simple Meta Tags - Adding Meta Tags to Static and Dynamic Pages](https://dev.to/kucherol/nuxt-3-ssr-simple-meta-tags-adding-meta-tags-to-static-and-dynamic-pages-4mam)
 - [Dev.to/JS] [How to create a simple VSCE for CSS Lube](https://dev.to/artxe2/how-to-create-a-simple-vsce-for-css-lube-33cf)
-- [Dev.to/JS] [Neep Help for Ccapture.js and multer.js](https://dev.to/sesto/neep-help-for-ccapturejs-and-multerjs-22gh)
+- [Dev.to/JS] [Need Help for Ccapture.js and multer.js](https://dev.to/sesto/neep-help-for-ccapturejs-and-multerjs-22gh)
 - [Lifehacker] [Use the ‘4D’ Method to Keep Up With Your Inbox](https://lifehacker.com/use-the-4d-method-to-keep-up-with-your-inbox-1850878672)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Mini Dual Tube Night-Vision Binoculars Are $100 Right Now](https://lifehacker.com/these-mini-dual-tube-night-vision-binoculars-are-100-r-1850866884)
 - [Lifehacker] [These Southwest Flights Are 50% Off Right Now](https://lifehacker.com/these-southwest-flights-are-50-off-right-now-1850878025)
 - [Lifehacker] [Spotify Jam Lets Anyone Add a Song to Your Party Playlist](https://lifehacker.com/how-to-use-spotify-jam-1850877565)
-- [Lifehacker] [What&#39;s New on Netflix in October 2023](https://lifehacker.com/whats-new-on-netflix-in-october-2023-1850877574)
-- [Lifehacker] [Use These Kinesthetic Methods to Retain What You Study](https://lifehacker.com/use-these-kinesthetic-methods-to-retain-what-you-study-1850877695)
-- [Lifehacker] [Your iPhone’s Portrait Mode Just Became Unnecessary](https://lifehacker.com/your-iphone-s-portrait-mode-just-became-unnecessary-1850877430)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Netflix in October 2023](https://lifehacker.com/whats-new-on-netflix-in-october-2023-1850877574)<!-- TECH-POSTS:END -->
 
 ---
 
