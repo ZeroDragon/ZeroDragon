@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nested Layouts in NextJS &lpar;App Router&rpar;](https://dev.to/idiglove/nested-layouts-in-nextjs-app-router-6f)
+- [Dev.to/JS] [Core JavaScript Concepts to Master Before Learning React](https://dev.to/compleat_dev/core-javascript-concepts-to-master-before-learning-react-23jm)
+- [Dev.to/JS] [My Experience learning to code.](https://dev.to/nathanwelliver/my-experience-learning-javascript-46a3)
+- [Dev.to/JS] [Tips for using Javascript in your projects](https://dev.to/axedigitalci/tips-for-using-javascript-in-your-projects-5h76)
+- [Dev.to/JS] [¿Qué es y para que sirve el TESTING en Javascript?](https://dev.to/davichobits/que-es-y-para-que-sirve-el-testing-en-javascript-nc6)
+- [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
 - [Lifehacker] [These Are the Best Features of macOS Sonoma](https://lifehacker.com/the-best-features-of-macos-sonoma-1850879931)
 - [Lifehacker] [These Are the Best National Coffee Day Deals of 2023](https://lifehacker.com/the-best-national-coffee-day-deals-1850878856)
 - [Dev.to/JS] [[HD] !!— vida perra Ver Película &lpar;2023&rpar; Gratis en Español Y Latino MEga](https://dev.to/aseplamansartoki/hd-vida-perra-ver-pelicula-2023-gratis-en-espanol-y-latino-mega-515e)
@@ -38,15 +44,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
 - [Lifehacker] [Why You Should Plant Your Tulips in Crates Instead](https://lifehacker.com/best-way-to-plant-tulip-bulbs-for-landscaping-1850878528)
 - [Dev.to/JS] [Check item is already exists in an array using JS](https://dev.to/imsan/check-item-is-already-exists-in-an-array-using-js-32j3)
-- [Dev.to/JS] [What I&#39;ve learnt in 1 month of programming](https://dev.to/acamikuro/what-ive-learnt-in-1-month-of-programming-4a6o)
 - [Lifehacker] [Make This Gooey, Stretchy Cheese Sauce With Lemon Juice and Baking Soda](https://lifehacker.com/make-this-gooey-stretchy-cheese-sauce-with-lemon-juice-1850879631)
 - [Lifehacker] [Make and Freeze Mash Potatoes Now for an Easier Thanksgiving](https://lifehacker.com/you-can-freeze-and-reheat-mashed-potatoes-for-thanksgiv-1830102087)
-- [Dev.to/JS] [Node-red Prelude. Blind inception](https://dev.to/lgtome/node-red-prelude-blind-inception-14fm)
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/the-best-romantic-comedies-streaming-on-netflix-right-n-1850873654)
 - [Lifehacker] [The Most Common Myths That Keep People From Investing](https://lifehacker.com/the-most-common-myths-that-keep-people-from-investing-1850878694)
-- [Dev.to/JS] [React-router-dom 6 for beginners](https://dev.to/jeetvora331/react-router-dom-6-for-beginners-20ob)
-- [Dev.to/JS] [Merge my branches into Main](https://dev.to/seogjun/merge-my-branches-into-main-1cjd)
-- [Dev.to/JS] [8xbet soccer](https://dev.to/8xbetsoccerv/8xbet-soccer-db7)
 - [Lifehacker] [What to Do When Your Toddler Acts Aggressively](https://lifehacker.com/what-to-do-when-your-toddler-acts-aggressively-1850875525)
 - [Lifehacker] [All the Wolfenstein Games Are Up to 85% Off Right Now](https://lifehacker.com/all-the-wolfenstein-games-are-up-to-85-off-right-now-1850878466)
 - [Lifehacker] [The Best DIY Halloween Spiderweb Decorations &lpar;That Aren’t Dangerous for Wildlife&rpar;](https://lifehacker.com/the-best-diy-halloween-spiderweb-decorations-that-aren-1850876779)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Can Now Buy &#39;Legal&#39; Weed at the Gas Station](https://lifehacker.com/hemp-delta-9-thc-explainer-1850794904)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
 - [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
-- [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)
-- [Lifehacker] [Woot Has Refurbished Philips Hue Smart Lights for Up to 62% Off](https://lifehacker.com/woot-has-refurbished-philips-hue-smart-lights-for-up-to-1850875208)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)<!-- TECH-POSTS:END -->
 
 ---
 
