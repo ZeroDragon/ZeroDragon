@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [There&#39;s an iOS 17.1 Already](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
+- [Dev.to/JS] [Who Ate My Disk Space? It&#39;s &quot;node_modules&quot; Again! 🕵️‍♂️](https://dev.to/maurerkrisztian/who-ate-my-disk-space-its-nodemodules-again-23dp)
+- [Lifehacker] [Meross Makes the Best Smart Plugs](https://lifehacker.com/meross-makes-the-best-smart-plugs-1850879264)
 - [Lifehacker] [The Best Gadgets to Make Parenting Little Kids so Much Easier](https://lifehacker.com/the-best-gadgets-to-make-parenting-little-kids-so-much-1850879745)
 - [Dev.to/JS] [222222222](https://dev.to/b5321766a/222222222-41dj)
 - [Lifehacker] [Dell Is Having a 50% Off Sale on Refurbished Laptops](https://lifehacker.com/dell-is-having-a-50-off-sale-on-refurbished-laptops-1850880524)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a simple VSCE for CSS Lube](https://dev.to/artxe2/how-to-create-a-simple-vsce-for-css-lube-33cf)
 - [Dev.to/JS] [Neep Help for Ccapture.js and multer.js](https://dev.to/sesto/neep-help-for-ccapturejs-and-multerjs-22gh)
 - [Lifehacker] [Use the ‘4D’ Method to Keep Up With Your Inbox](https://lifehacker.com/use-the-4d-method-to-keep-up-with-your-inbox-1850878672)
-- [Dev.to/JS] [Web or mobile application: what to choose?](https://dev.to/sparkouttech/web-or-mobile-application-what-to-choose-20hd)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
 - [Lifehacker] [These Are the Best Features of macOS Sonoma](https://lifehacker.com/the-best-features-of-macos-sonoma-1850879931)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Spotify Jam Lets Anyone Add a Song to Your Party Playlist](https://lifehacker.com/how-to-use-spotify-jam-1850877565)
 - [Lifehacker] [What&#39;s New on Netflix in October 2023](https://lifehacker.com/whats-new-on-netflix-in-october-2023-1850877574)
 - [Lifehacker] [Use These Kinesthetic Methods to Retain What You Study](https://lifehacker.com/use-these-kinesthetic-methods-to-retain-what-you-study-1850877695)
-- [Lifehacker] [Your iPhone’s Portrait Mode Just Became Unnecessary](https://lifehacker.com/your-iphone-s-portrait-mode-just-became-unnecessary-1850877430)
-- [Lifehacker] [This Five-Year Subscription to OysterVPN Is $30 Right Now](https://lifehacker.com/this-five-year-subscription-to-oystervpn-is-30-right-n-1850866940)
-- [Lifehacker] [This Whisper-Quiet Air Purifier Is $111 Off Right Now](https://lifehacker.com/this-whisper-quiet-air-purifier-is-71-right-now-1850875756)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your iPhone’s Portrait Mode Just Became Unnecessary](https://lifehacker.com/your-iphone-s-portrait-mode-just-became-unnecessary-1850877430)<!-- TECH-POSTS:END -->
 
 ---
 
