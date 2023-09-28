@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
+- [Dev.to/JS] [Implementing Signals from Scratch](https://dev.to/ratiu5/implementing-signals-from-scratch-3e4c)
+- [Dev.to/JS] [Discovering Odd Behavior with Angular Error Handling](https://dev.to/this-is-angular/discovering-odd-behavior-with-angular-error-handling-5gpg)
 - [Dev.to/JS] [Nested Layouts in NextJS &lpar;App Router&rpar;](https://dev.to/idiglove/nested-layouts-in-nextjs-app-router-6f)
 - [Dev.to/JS] [Core JavaScript Concepts to Master Before Learning React](https://dev.to/compleat_dev/core-javascript-concepts-to-master-before-learning-react-23jm)
 - [Dev.to/JS] [My Experience learning to code.](https://dev.to/nathanwelliver/my-experience-learning-javascript-46a3)
@@ -40,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[HD] !!— La monja II Ver Película &lpar;2023&rpar; Gratis en Español Y Latino MEga](https://dev.to/aseplamansartoki/hd-la-monja-ii-ver-pelicula-2023-gratis-en-espanol-y-latino-mega-2nbb)
 - [Dev.to/JS] [CUEVANA.3 VER La monja II, La Película &lpar;2023&rpar; Película completa en Español](https://dev.to/aseplamansartoki/cuevana3-ver-la-monja-ii-la-pelicula-2023-pelicula-completa-en-espanol-5gom)
 - [Dev.to/JS] [Ver &#39;La monja II&#39; online &lpar;película completa&rpar;](https://dev.to/aseplamansartoki/ver-la-monja-ii-online-pelicula-completa-4nj7)
-- [Dev.to/JS] [Generating Universally Unique Identifiers &lpar;UUIDs&rpar; in JavaScript: A Comprehensive Guide with Code Examples](https://dev.to/iamcymentho/generating-universally-unique-identifiers-uuids-in-javascript-a-comprehensive-guide-with-code-examples-41cm)
 - [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
 - [Lifehacker] [Why You Should Plant Your Tulips in Crates Instead](https://lifehacker.com/best-way-to-plant-tulip-bulbs-for-landscaping-1850878528)
-- [Dev.to/JS] [Check item is already exists in an array using JS](https://dev.to/imsan/check-item-is-already-exists-in-an-array-using-js-32j3)
 - [Lifehacker] [Make This Gooey, Stretchy Cheese Sauce With Lemon Juice and Baking Soda](https://lifehacker.com/make-this-gooey-stretchy-cheese-sauce-with-lemon-juice-1850879631)
 - [Lifehacker] [Make and Freeze Mash Potatoes Now for an Easier Thanksgiving](https://lifehacker.com/you-can-freeze-and-reheat-mashed-potatoes-for-thanksgiv-1830102087)
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/the-best-romantic-comedies-streaming-on-netflix-right-n-1850873654)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Your iPhone Is Tapped](https://lifehacker.com/how-to-tell-if-your-iphone-is-tapped-1850876267)
 - [Lifehacker] [Why You Can Now Buy &#39;Legal&#39; Weed at the Gas Station](https://lifehacker.com/hemp-delta-9-thc-explainer-1850794904)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)
-- [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)
-- [Lifehacker] [The New Apple Watch Ultra 2 Is $20 off on Amazon Right Now](https://lifehacker.com/the-new-apple-watch-ultra-2-is-20-off-on-amazon-right-1850875470)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 6th Gen iPad Pro 12.9-inch Is $100 Off on Amazon Right Now](https://lifehacker.com/the-6th-gen-ipad-pro-12-9-inch-is-100-off-on-amazon-ri-1850875550)<!-- TECH-POSTS:END -->
 
 ---
 
