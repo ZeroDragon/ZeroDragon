@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web or mobile application: what to choose?](https://dev.to/sparkouttech/web-or-mobile-application-what-to-choose-20hd)
+- [Dev.to/JS] [Fast-Tracking Electric Vehicle Adoption in India](https://dev.to/rahulku/fast-tracking-electric-vehicle-adoption-in-india-3kk2)
+- [Dev.to/JS] [&lt;=60s - React](https://dev.to/easewithtuts/60s-react-5em9)
 - [Dev.to/JS] [Building a React Page Builder: An Introduction to Puck](https://dev.to/chrisvxd/building-a-react-page-builder-an-introduction-to-puck-2pgi)
 - [Dev.to/JS] [AZ-900 Passing Score Decoded: Insider Tips](https://dev.to/qspvg13m/az-900-passing-score-decoded-insider-tips-4ki2)
 - [Dev.to/JS] [Mastering TypeScript: A Comprehensive Tutorial](https://dev.to/xanyl/mastering-typescript-a-comprehensive-tutorial-mkn)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Outkast - Multipage agency theme](https://dev.to/lexingtonthemes/outkast-multipage-agency-theme-57mm)
 - [Dev.to/JS] [Top 5 Programming Languages &amp; Frameworks for Mobile App Development](https://dev.to/externlabs/top-5-programming-languages-frameworks-for-mobile-app-development-1p9k)
 - [Dev.to/JS] [Javascript Event Listeners 🎧](https://dev.to/shivamblog/day-6-event-listeners-3n6o)
-- [Dev.to/JS] [Next.js 13 Drops with Exciting Updates: Find Out What’s New?](https://dev.to/brilworks/nextjs-13-drops-with-exciting-updates-find-out-whats-new-3o7g)
-- [Dev.to/JS] [Authentication &amp; User Management in Nextjs App Router + TypeScript, 2023](https://dev.to/shinjithdev/authentication-user-management-in-nextjs-app-router-typescript-2023-3nnp)
-- [Dev.to/JS] [JS: Event Bubble](https://dev.to/onikd08/js-event-bubble-23j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
 - [Lifehacker] [These Are the Best Features of macOS Sonoma](https://lifehacker.com/the-best-features-of-macos-sonoma-1850879931)
