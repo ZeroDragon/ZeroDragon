@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Stream the Washington Vs. Arizona Game](https://lifehacker.com/where-to-stream-the-washington-vs-arizona-game-1850884048)
+- [Lifehacker] [How to Make Turkey Gravy Without Pan Drippings](https://lifehacker.com/how-to-make-turkey-gravy-without-pan-drippings-1830415802)
 - [Lifehacker] [The Three Best Kitchen Countertops to Install Yourself](https://lifehacker.com/the-best-kitchen-countertops-to-install-yourself-1850880923)
 - [Dev.to/JS] [Badge for Security FAQs: Strengthening Online Trust](https://dev.to/safezoneasa/badge-for-security-faqs-strengthening-online-trust-4a80)
 - [Lifehacker] [How to Rejuvenate the Soil in Your Raised Garden Beds](https://lifehacker.com/how-to-rejuvenate-soil-in-raised-garden-beds-1850882749)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best National Coffee Day Deals of 2023](https://lifehacker.com/the-best-national-coffee-day-deals-1850878856)
 - [Lifehacker] [Meta Is Adding a Ton of AI-powered Features to Messenger, Instagram, and WhatsApp](https://lifehacker.com/ai-features-instagram-messenger-whatsapp-1850879342)
 - [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
-- [Lifehacker] [Why You Should Plant Your Tulips in Crates Instead](https://lifehacker.com/best-way-to-plant-tulip-bulbs-for-landscaping-1850878528)
-- [Lifehacker] [Make This Gooey, Stretchy Cheese Sauce With Lemon Juice and Baking Soda](https://lifehacker.com/make-this-gooey-stretchy-cheese-sauce-with-lemon-juice-1850879631)
-- [Lifehacker] [Make and Freeze Mash Potatoes Now for an Easier Thanksgiving](https://lifehacker.com/you-can-freeze-and-reheat-mashed-potatoes-for-thanksgiv-1830102087)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Plant Your Tulips in Crates Instead](https://lifehacker.com/best-way-to-plant-tulip-bulbs-for-landscaping-1850878528)<!-- TECH-POSTS:END -->
 
 ---
 
