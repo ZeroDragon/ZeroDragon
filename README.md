@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix Ugly Nail Pops in Your Walls](https://lifehacker.com/how-to-fix-nail-pops-in-walls-1850882251)
+- [Dev.to/JS] [Harmonising Elegance: The Art of Functional Programming in Software Design](https://dev.to/dr_anks/harmonising-elegance-the-art-of-functional-programming-in-software-design-32bh)
+- [Dev.to/JS] [looking for a slider package for angular](https://dev.to/ash_sg/looking-for-a-slider-for-angular-1el6)
+- [Lifehacker] [All the ‘Single-Use’ Household Items You Should Be Re-Using](https://lifehacker.com/all-the-single-use-household-items-you-should-be-re-u-1850883065)
+- [Dev.to/JS] [September 🧑‍💻 Changelog](https://dev.to/basestack/september-changelog-17np)
+- [Lifehacker] [This Ring Doorbell and Floodlight Camera Bundle Is 40% Off Right Now](https://lifehacker.com/this-ring-doorbell-and-floodlight-camera-bundle-is-40-1850882729)
 - [Lifehacker] [How to Manage Your Catastrophic Thinking](https://lifehacker.com/how-to-manage-your-catastrophic-thinking-1850880206)
 - [Lifehacker] [The Best Exercise Modifications to Try If You Have Sore Wrists](https://lifehacker.com/the-best-exercise-modifications-to-try-if-you-have-sore-1850881098)
 - [Lifehacker] [There&#39;s an iOS 17.1 Already](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
@@ -44,9 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [WHOOP’s New AI Coach Actually Makes the App More Useful](https://lifehacker.com/whoop-s-new-ai-coach-actually-makes-the-app-more-useful-1850879568)
 - [Dev.to/JS] [Breaching Boundaries with WebSockets: A Simple Dive into Real-Time Communication in JavaScript](https://dev.to/eneaslari/breaching-boundaries-with-websockets-a-simple-dive-into-real-time-communication-in-javascript-26fn)
 - [Dev.to/JS] [Cracking Your First React Developer Interview: Top 10 Questions and How to Answer Them](https://dev.to/eneaslari/cracking-your-first-react-developer-interview-top-10-questions-and-how-to-answer-them-36o2)
-- [Dev.to/JS] [Nuxt 3 SSR: Simple Meta Tags - Adding Meta Tags to Static and Dynamic Pages](https://dev.to/kucherol/nuxt-3-ssr-simple-meta-tags-adding-meta-tags-to-static-and-dynamic-pages-4mam)
-- [Dev.to/JS] [How to create a simple VSCE for CSS Lube](https://dev.to/artxe2/how-to-create-a-simple-vsce-for-css-lube-33cf)
-- [Dev.to/JS] [Need Help for Ccapture.js and multer.js](https://dev.to/sesto/neep-help-for-ccapturejs-and-multerjs-22gh)
 - [Lifehacker] [Use the ‘4D’ Method to Keep Up With Your Inbox](https://lifehacker.com/use-the-4d-method-to-keep-up-with-your-inbox-1850878672)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When Your Toddler Acts Aggressively](https://lifehacker.com/what-to-do-when-your-toddler-acts-aggressively-1850875525)
 - [Lifehacker] [All the Wolfenstein Games Are Up to 85% Off Right Now](https://lifehacker.com/all-the-wolfenstein-games-are-up-to-85-off-right-now-1850878466)
 - [Lifehacker] [The Best DIY Halloween Spiderweb Decorations &lpar;That Aren’t Dangerous for Wildlife&rpar;](https://lifehacker.com/the-best-diy-halloween-spiderweb-decorations-that-aren-1850876779)
-- [Lifehacker] [These Mini Dual Tube Night-Vision Binoculars Are $100 Right Now](https://lifehacker.com/these-mini-dual-tube-night-vision-binoculars-are-100-r-1850866884)
-- [Lifehacker] [These Southwest Flights Are 50% Off Right Now](https://lifehacker.com/these-southwest-flights-are-50-off-right-now-1850878025)
-- [Lifehacker] [Spotify Jam Lets Anyone Add a Song to Your Party Playlist](https://lifehacker.com/how-to-use-spotify-jam-1850877565)
-- [Lifehacker] [What&#39;s New on Netflix in October 2023](https://lifehacker.com/whats-new-on-netflix-in-october-2023-1850877574)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Mini Dual Tube Night-Vision Binoculars Are $100 Right Now](https://lifehacker.com/these-mini-dual-tube-night-vision-binoculars-are-100-r-1850866884)<!-- TECH-POSTS:END -->
 
 ---
 
