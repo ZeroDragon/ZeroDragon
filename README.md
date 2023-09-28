@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a React Page Builder: An Introduction to Puck](https://dev.to/chrisvxd/building-a-react-page-builder-an-introduction-to-puck-2pgi)
+- [Dev.to/JS] [AZ-900 Passing Score Decoded: Insider Tips](https://dev.to/qspvg13m/az-900-passing-score-decoded-insider-tips-4ki2)
+- [Dev.to/JS] [Mastering TypeScript: A Comprehensive Tutorial](https://dev.to/xanyl/mastering-typescript-a-comprehensive-tutorial-mkn)
+- [Dev.to/JS] [Cracking the LeetCode 905. Sort Array By Parity By Nilesh](https://dev.to/speaklouder/cracking-the-leetcode-905-sort-array-by-parity-by-nilesh-4n4o)
 - [Dev.to/JS] [Coding an Interactive &lpar;and Damn Satisfying&rpar; Cursor: 7 Simple Steps + 2kb of Code](https://dev.to/uuuuuulala/coding-an-interactive-and-damn-satisfying-cursor-7-simple-steps-2kb-of-code-1c8b)
 - [Dev.to/JS] [👉 TypeScript Record Type with Examples](https://dev.to/refine/typescript-record-type-with-examples-l09)
 - [Dev.to/JS] [Outkast - Multipage agency theme](https://dev.to/lexingtonthemes/outkast-multipage-agency-theme-57mm)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js 13 Drops with Exciting Updates: Find Out What’s New?](https://dev.to/brilworks/nextjs-13-drops-with-exciting-updates-find-out-whats-new-3o7g)
 - [Dev.to/JS] [Authentication &amp; User Management in Nextjs App Router + TypeScript, 2023](https://dev.to/shinjithdev/authentication-user-management-in-nextjs-app-router-typescript-2023-3nnp)
 - [Dev.to/JS] [JS: Event Bubble](https://dev.to/onikd08/js-event-bubble-23j)
-- [Dev.to/JS] [Announcing the EAP of Forge in Bitbucket Cloud](https://dev.to/atlassian/announcing-the-eap-of-forge-in-bitbucket-cloud-in2)
-- [Dev.to/JS] [Create a timer in React with Start, Pause and Reset feature](https://dev.to/indrakantm23/create-a-timer-in-react-with-start-pause-and-reset-feature-1k40)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
-- [Dev.to/JS] [Implementing Signals from Scratch](https://dev.to/ratiu5/implementing-signals-from-scratch-3e4c)
-- [Dev.to/JS] [Discovering Odd Behavior with Angular Error Handling](https://dev.to/this-is-angular/discovering-odd-behavior-with-angular-error-handling-5gpg)
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
 - [Lifehacker] [These Are the Best Features of macOS Sonoma](https://lifehacker.com/the-best-features-of-macos-sonoma-1850879931)
 - [Lifehacker] [These Are the Best National Coffee Day Deals of 2023](https://lifehacker.com/the-best-national-coffee-day-deals-1850878856)
