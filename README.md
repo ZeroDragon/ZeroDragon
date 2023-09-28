@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Watch College Football Without Cable This Season](https://lifehacker.com/how-to-watch-college-football-without-cable-this-season-1850880861)
+- [Dev.to/JS] [How to create a Chrome extension full sidebar?](https://dev.to/karenr/chrome-extension-full-sidebar-4kj1)
+- [Dev.to/JS] [Supercharge Your React.js App with Performance Hacks. 🛠](https://dev.to/usamabinkashif/supercharge-your-reactjs-app-with-performance-hacks-3876)
 - [Lifehacker] [Please Stop Ordering Off-Menu Crap You See on TikTok](https://lifehacker.com/please-stop-ordering-off-menu-crap-you-see-on-tiktok-1850880309)
 - [Dev.to/JS] [LeetCode - Solution for 2723. Add Two Promises](https://dev.to/jenchen/leetcode-solution-for-2723-add-two-promises-412l)
 - [Dev.to/JS] [Updated docs](https://dev.to/trustacks/updated-docs-8da)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘4D’ Method to Keep Up With Your Inbox](https://lifehacker.com/use-the-4d-method-to-keep-up-with-your-inbox-1850878672)
 - [Dev.to/JS] [Web or mobile application: what to choose?](https://dev.to/sparkouttech/web-or-mobile-application-what-to-choose-20hd)
 - [Dev.to/JS] [Fast-Tracking Electric Vehicle Adoption in India](https://dev.to/rahulku/fast-tracking-electric-vehicle-adoption-in-india-3kk2)
-- [Dev.to/JS] [&lt;=60s - React](https://dev.to/easewithtuts/60s-react-5em9)
-- [Dev.to/JS] [Building a React Page Builder: An Introduction to Puck](https://dev.to/chrisvxd/building-a-react-page-builder-an-introduction-to-puck-2pgi)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
 - [Lifehacker] [These Are the Best Features of macOS Sonoma](https://lifehacker.com/the-best-features-of-macos-sonoma-1850879931)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Five-Year Subscription to OysterVPN Is $30 Right Now](https://lifehacker.com/this-five-year-subscription-to-oystervpn-is-30-right-n-1850866940)
 - [Lifehacker] [This Whisper-Quiet Air Purifier Is $111 Off Right Now](https://lifehacker.com/this-whisper-quiet-air-purifier-is-71-right-now-1850875756)
 - [Lifehacker] [You Can Get Two 4K Camera Drones for $110 Right Now](https://lifehacker.com/you-can-get-two-4k-camera-drones-for-110-right-now-1850866993)
-- [Lifehacker] [Why Lights Flicker in Your Smartphone Videos &lpar;and How to Stop It&rpar;](https://lifehacker.com/why-lights-flicker-in-your-smartphone-videos-and-how-t-1850877053)
-- [Lifehacker] [How to Tell If Your iPhone Is Tapped](https://lifehacker.com/how-to-tell-if-your-iphone-is-tapped-1850876267)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Lights Flicker in Your Smartphone Videos &lpar;and How to Stop It&rpar;](https://lifehacker.com/why-lights-flicker-in-your-smartphone-videos-and-how-t-1850877053)<!-- TECH-POSTS:END -->
 
 ---
 
