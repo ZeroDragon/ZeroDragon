@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Please Stop Ordering Off-Menu Crap You See on TikTok](https://lifehacker.com/please-stop-ordering-off-menu-crap-you-see-on-tiktok-1850880309)
+- [Dev.to/JS] [LeetCode - Solution for 2723. Add Two Promises](https://dev.to/jenchen/leetcode-solution-for-2723-add-two-promises-412l)
+- [Dev.to/JS] [Updated docs](https://dev.to/trustacks/updated-docs-8da)
+- [Dev.to/JS] [8Xbet studio](https://dev.to/8xbetstudiovn/8xbet-studio-26ej)
+- [Lifehacker] [WHOOP’s New AI Coach Actually Makes the App More Useful](https://lifehacker.com/whoop-s-new-ai-coach-actually-makes-the-app-more-useful-1850879568)
+- [Dev.to/JS] [Breaching Boundaries with WebSockets: A Simple Dive into Real-Time Communication in JavaScript](https://dev.to/eneaslari/breaching-boundaries-with-websockets-a-simple-dive-into-real-time-communication-in-javascript-26fn)
+- [Dev.to/JS] [Cracking Your First React Developer Interview: Top 10 Questions and How to Answer Them](https://dev.to/eneaslari/cracking-your-first-react-developer-interview-top-10-questions-and-how-to-answer-them-36o2)
+- [Dev.to/JS] [Nuxt 3 SSR: Simple Meta Tags - Adding Meta Tags to Static and Dynamic Pages](https://dev.to/kucherol/nuxt-3-ssr-simple-meta-tags-adding-meta-tags-to-static-and-dynamic-pages-4mam)
+- [Dev.to/JS] [How to create a simple VSCE for CSS Lube](https://dev.to/artxe2/how-to-create-a-simple-vsce-for-css-lube-33cf)
+- [Dev.to/JS] [Neep Help for Ccapture.js and multer.js](https://dev.to/sesto/neep-help-for-ccapturejs-and-multerjs-22gh)
 - [Lifehacker] [Use the ‘4D’ Method to Keep Up With Your Inbox](https://lifehacker.com/use-the-4d-method-to-keep-up-with-your-inbox-1850878672)
 - [Dev.to/JS] [Web or mobile application: what to choose?](https://dev.to/sparkouttech/web-or-mobile-application-what-to-choose-20hd)
 - [Dev.to/JS] [Fast-Tracking Electric Vehicle Adoption in India](https://dev.to/rahulku/fast-tracking-electric-vehicle-adoption-in-india-3kk2)
 - [Dev.to/JS] [&lt;=60s - React](https://dev.to/easewithtuts/60s-react-5em9)
 - [Dev.to/JS] [Building a React Page Builder: An Introduction to Puck](https://dev.to/chrisvxd/building-a-react-page-builder-an-introduction-to-puck-2pgi)
-- [Dev.to/JS] [AZ-900 Passing Score Decoded: Insider Tips](https://dev.to/qspvg13m/az-900-passing-score-decoded-insider-tips-4ki2)
-- [Dev.to/JS] [Mastering TypeScript: A Comprehensive Tutorial](https://dev.to/xanyl/mastering-typescript-a-comprehensive-tutorial-mkn)
-- [Dev.to/JS] [Cracking the LeetCode 905. Sort Array By Parity By Nilesh](https://dev.to/speaklouder/cracking-the-leetcode-905-sort-array-by-parity-by-nilesh-4n4o)
-- [Dev.to/JS] [Coding an Interactive &lpar;and Damn Satisfying&rpar; Cursor: 7 Simple Steps + 2kb of Code](https://dev.to/uuuuuulala/coding-an-interactive-and-damn-satisfying-cursor-7-simple-steps-2kb-of-code-1c8b)
-- [Dev.to/JS] [👉 TypeScript Record Type with Examples](https://dev.to/refine/typescript-record-type-with-examples-l09)
-- [Dev.to/JS] [Outkast - Multipage agency theme](https://dev.to/lexingtonthemes/outkast-multipage-agency-theme-57mm)
-- [Dev.to/JS] [Top 5 Programming Languages &amp; Frameworks for Mobile App Development](https://dev.to/externlabs/top-5-programming-languages-frameworks-for-mobile-app-development-1p9k)
-- [Dev.to/JS] [Javascript Event Listeners 🎧](https://dev.to/shivamblog/day-6-event-listeners-3n6o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
 - [Lifehacker] [These Are the Best Features of macOS Sonoma](https://lifehacker.com/the-best-features-of-macos-sonoma-1850879931)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Whisper-Quiet Air Purifier Is $111 Off Right Now](https://lifehacker.com/this-whisper-quiet-air-purifier-is-71-right-now-1850875756)
 - [Lifehacker] [You Can Get Two 4K Camera Drones for $110 Right Now](https://lifehacker.com/you-can-get-two-4k-camera-drones-for-110-right-now-1850866993)
 - [Lifehacker] [Why Lights Flicker in Your Smartphone Videos &lpar;and How to Stop It&rpar;](https://lifehacker.com/why-lights-flicker-in-your-smartphone-videos-and-how-t-1850877053)
-- [Lifehacker] [How to Tell If Your iPhone Is Tapped](https://lifehacker.com/how-to-tell-if-your-iphone-is-tapped-1850876267)
-- [Lifehacker] [Why You Can Now Buy &#39;Legal&#39; Weed at the Gas Station](https://lifehacker.com/hemp-delta-9-thc-explainer-1850794904)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, September 27](https://lifehacker.com/nyt-connections-answer-today-september-27-2023-1850873401)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If Your iPhone Is Tapped](https://lifehacker.com/how-to-tell-if-your-iphone-is-tapped-1850876267)<!-- TECH-POSTS:END -->
 
 ---
 
