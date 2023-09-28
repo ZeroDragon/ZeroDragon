@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Stream the Oregon Vs. Stanford Game](https://lifehacker.com/where-to-stream-the-oregon-vs-stanford-game-1850883655)
+- [Dev.to/JS] [How to solve medium leetcode problem?](https://dev.to/xmohammedawad/how-to-solve-medium-leetcode-problem-cip)
+- [Lifehacker] [Where to Stream the Penn State Vs. Northwestern Game](https://lifehacker.com/where-to-stream-the-penn-state-vs-northwestern-game-1850882748)
+- [Dev.to/JS] [All we know about Vue 3 Vapor Mode](https://dev.to/icarusgk/all-we-know-about-vue-3-vapor-mode-3nfa)
+- [Dev.to/JS] [Run Nextjs using docker](https://dev.to/rupadana/run-nextjs-using-docker-1a38)
+- [Dev.to/JS] [Declaring Variables Guide](https://dev.to/shreddinpenguin/declaring-variables-guide-2a1d)
+- [Dev.to/JS] [Unlocking the Power of AI in Modern Development](https://dev.to/thclinical/unlocking-the-power-of-ai-in-modern-development-4hb6)
 - [Lifehacker] [How to Fix Ugly Nail Pops in Your Walls](https://lifehacker.com/how-to-fix-nail-pops-in-walls-1850882251)
 - [Dev.to/JS] [Harmonising Elegance: The Art of Functional Programming in Software Design](https://dev.to/dr_anks/harmonising-elegance-the-art-of-functional-programming-in-software-design-32bh)
 - [Dev.to/JS] [looking for a slider package for angular](https://dev.to/ash_sg/looking-for-a-slider-for-angular-1el6)
@@ -44,12 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a Chrome extension full sidebar?](https://dev.to/karenr/chrome-extension-full-sidebar-4kj1)
 - [Dev.to/JS] [Supercharge Your React.js App with Performance Hacks. 🛠](https://dev.to/usamabinkashif/supercharge-your-reactjs-app-with-performance-hacks-3876)
 - [Lifehacker] [Please Stop Ordering Off-Menu Crap You See on TikTok](https://lifehacker.com/please-stop-ordering-off-menu-crap-you-see-on-tiktok-1850880309)
-- [Dev.to/JS] [LeetCode - Solution for 2723. Add Two Promises](https://dev.to/jenchen/leetcode-solution-for-2723-add-two-promises-412l)
-- [Dev.to/JS] [Updated docs](https://dev.to/trustacks/updated-docs-8da)
-- [Dev.to/JS] [8Xbet studio](https://dev.to/8xbetstudiovn/8xbet-studio-26ej)
 - [Lifehacker] [WHOOP’s New AI Coach Actually Makes the App More Useful](https://lifehacker.com/whoop-s-new-ai-coach-actually-makes-the-app-more-useful-1850879568)
-- [Dev.to/JS] [Breaching Boundaries with WebSockets: A Simple Dive into Real-Time Communication in JavaScript](https://dev.to/eneaslari/breaching-boundaries-with-websockets-a-simple-dive-into-real-time-communication-in-javascript-26fn)
-- [Dev.to/JS] [Cracking Your First React Developer Interview: Top 10 Questions and How to Answer Them](https://dev.to/eneaslari/cracking-your-first-react-developer-interview-top-10-questions-and-how-to-answer-them-36o2)
 - [Lifehacker] [Use the ‘4D’ Method to Keep Up With Your Inbox](https://lifehacker.com/use-the-4d-method-to-keep-up-with-your-inbox-1850878672)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
 - [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/the-best-romantic-comedies-streaming-on-netflix-right-n-1850873654)
 - [Lifehacker] [The Most Common Myths That Keep People From Investing](https://lifehacker.com/the-most-common-myths-that-keep-people-from-investing-1850878694)
 - [Lifehacker] [What to Do When Your Toddler Acts Aggressively](https://lifehacker.com/what-to-do-when-your-toddler-acts-aggressively-1850875525)
-- [Lifehacker] [All the Wolfenstein Games Are Up to 85% Off Right Now](https://lifehacker.com/all-the-wolfenstein-games-are-up-to-85-off-right-now-1850878466)
-- [Lifehacker] [The Best DIY Halloween Spiderweb Decorations &lpar;That Aren’t Dangerous for Wildlife&rpar;](https://lifehacker.com/the-best-diy-halloween-spiderweb-decorations-that-aren-1850876779)
-- [Lifehacker] [These Mini Dual Tube Night-Vision Binoculars Are $100 Right Now](https://lifehacker.com/these-mini-dual-tube-night-vision-binoculars-are-100-r-1850866884)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Wolfenstein Games Are Up to 85% Off Right Now](https://lifehacker.com/all-the-wolfenstein-games-are-up-to-85-off-right-now-1850878466)<!-- TECH-POSTS:END -->
 
 ---
 
