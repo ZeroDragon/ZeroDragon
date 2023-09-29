@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create Resizable Columns in Angular Table: A Step-by-Step Guide](https://dev.to/chintanonweb/how-to-create-resizable-columns-in-angular-table-a-step-by-step-guide-1n0i)
+- [Dev.to/JS] [Learn Laravel Filament full tutorial: Build powerful admin panels with ease](https://dev.to/laravellercom/learn-laravel-filament-full-tutorial-build-powerful-admin-panels-with-ease-4g89)
+- [Dev.to/JS] [Solving the Happy Number Problem in Java: Helpful Tips](https://dev.to/vaibhhav/solving-the-happy-number-problem-in-java-helpful-tips-6cm)
+- [Dev.to/JS] [Use gRPC inside monolith](https://dev.to/bloodboy21/use-grpc-inside-monolith-2i01)
 - [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Benefits, Results, Reviews &amp; How To Use?](https://dev.to/kdsakyna/blue-vibe-cbd-gummies-pain-relief-benefits-results-reviews-how-to-use-2j5d)
 - [Dev.to/JS] [How to Create a Website Without Coding Knowledge](https://dev.to/hmawebdesign/how-to-create-a-website-without-coding-knowledge-361n)
 - [Dev.to/JS] [Improving SEO for React Apps with Server-Side Rendering and Static Site Generation](https://dev.to/scofieldidehen/improving-seo-for-react-apps-with-server-side-rendering-and-static-site-generation-4397)
@@ -42,11 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream the Washington Vs. Arizona Game](https://lifehacker.com/where-to-stream-the-washington-vs-arizona-game-1850884048)
 - [Lifehacker] [How to Make Turkey Gravy Without Pan Drippings](https://lifehacker.com/how-to-make-turkey-gravy-without-pan-drippings-1830415802)
 - [Lifehacker] [The Three Best Kitchen Countertops to Install Yourself](https://lifehacker.com/the-best-kitchen-countertops-to-install-yourself-1850880923)
-- [Dev.to/JS] [Badge for Security FAQs: Strengthening Online Trust](https://dev.to/safezoneasa/badge-for-security-faqs-strengthening-online-trust-4a80)
 - [Lifehacker] [How to Rejuvenate the Soil in Your Raised Garden Beds](https://lifehacker.com/how-to-rejuvenate-soil-in-raised-garden-beds-1850882749)
-- [Dev.to/JS] [JSON Schema applied to InterSystems IRIS](https://dev.to/intersystems/json-schema-applied-to-intersystems-iris-3eck)
-- [Dev.to/JS] [The ugly part of CSS-in-JS](https://dev.to/andi1984/the-ugly-part-of-css-in-js-2iph)
-- [Dev.to/JS] [AI is a Loom: The End and the New Beginning of Web Dev](https://dev.to/mor10/ai-is-a-loom-the-end-and-the-new-beginning-of-web-dev-1dab)
 - [Lifehacker] [Make Super Smooth Mashed Potatoes With a Fine Mesh Strainer](https://lifehacker.com/how-to-make-mashed-potatoes-without-lumps-1850883812)
 - [Lifehacker] [You Can Finally Use iCloud Keychain in Google Chrome](https://lifehacker.com/you-can-finally-use-icloud-keychain-in-google-chrome-1850883588)
 - [Lifehacker] [Where to Stream the Oregon Vs. Stanford Game](https://lifehacker.com/where-to-stream-the-oregon-vs-stanford-game-1850883655)
