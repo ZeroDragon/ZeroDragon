@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Category Filter Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/category-filter-using-html-css-javascript-5ek4)
+- [Dev.to/JS] [React VS Angular](https://dev.to/arsalanmee/react-vs-angular-2h8n)
+- [Dev.to/JS] [Send records in batch to Algolia with free plan](https://dev.to/manonsmnn/send-records-in-batch-to-algolia-with-free-plan-4lk5)
+- [Dev.to/JS] [Find out first unique element from array](https://dev.to/indrakantm23/find-out-first-unique-element-from-array-5e7f)
+- [Dev.to/JS] [&gt; Merging arrays &lpar;with and without duplicates&rpar;](https://dev.to/aronsantha/-merging-arrays-with-and-without-duplicates-2ek5)
 - [Dev.to/JS] [How to create a GitHub Packages for typescript projectsg](https://dev.to/vitoraguila/how-to-create-a-github-packages-for-typescript-projectsg-2d7g)
 - [Dev.to/JS] [Rewrite styled-components in ReactJS with just 60 lines of JavaScript code](https://dev.to/ducga1998/rewrite-styled-components-in-reactjs-with-just-60-lines-of-javascript-code-25eb)
 - [Dev.to/JS] [😯 gRPC vs REST - A Brief Comparison](https://dev.to/refine/grpc-vs-rest-a-brief-comparison-4p8b)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn Laravel Filament full tutorial: Build powerful admin panels with ease](https://dev.to/laravellercom/learn-laravel-filament-full-tutorial-build-powerful-admin-panels-with-ease-4g89)
 - [Dev.to/JS] [Solving the Happy Number Problem in Java: Helpful Tips](https://dev.to/vaibhhav/solving-the-happy-number-problem-in-java-helpful-tips-6cm)
 - [Dev.to/JS] [Use gRPC inside monolith](https://dev.to/bloodboy21/use-grpc-inside-monolith-2i01)
-- [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Benefits, Results, Reviews &amp; How To Use?](https://dev.to/kdsakyna/blue-vibe-cbd-gummies-pain-relief-benefits-results-reviews-how-to-use-2j5d)
-- [Dev.to/JS] [How to Create a Website Without Coding Knowledge](https://dev.to/hmawebdesign/how-to-create-a-website-without-coding-knowledge-361n)
-- [Dev.to/JS] [Improving SEO for React Apps with Server-Side Rendering and Static Site Generation](https://dev.to/scofieldidehen/improving-seo-for-react-apps-with-server-side-rendering-and-static-site-generation-4397)
-- [Dev.to/JS] [Updates from the 98th TC39 meeting](https://dev.to/hemanth/updates-from-the-98th-tc39-meeting-1lcf)
-- [Dev.to/JS] [ProFoliox – Multipage personal theme](https://dev.to/lexingtonthemes/profoliox-multipage-personal-theme-3412)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for September 29, 2023](https://lifehacker.com/nyt-connections-answer-today-september-29-2023-1850881958)
 - [Lifehacker] [Where to Stream the Iowa State Vs. Oklahoma Game](https://lifehacker.com/where-to-stream-the-iowa-state-vs-oklahoma-game-1850884575)
 - [Lifehacker] [You Can Try Copilot, Windows 11’s New AI Assistant, Right Now](https://lifehacker.com/you-can-try-copilot-windows-11-s-new-ai-assistant-rig-1850884313)
