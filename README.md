@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ProFoliox – Multipage personal theme](https://dev.to/lexingtonthemes/profoliox-multipage-personal-theme-3412)
 - [Dev.to/JS] [Buy Verified PayPal Accounts - 100% Safe Verified Accounts](https://dev.to/robertcassero67/buy-verified-paypal-accounts-100-safe-verified-accounts-15pk)
 - [Dev.to/JS] [Unlocking the Power of Native Modules in JavaScript: An Introductory Guide](https://dev.to/danielboll/unlocking-the-power-of-native-modules-in-javascript-an-introductory-guide-4jh1)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for September 29, 2023](https://lifehacker.com/nyt-connections-answer-today-september-29-2023-1850881958)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Vanilla Fresh Hacktoberfest23 Pledge](https://dev.to/overflow/my-vanilla-fresh-hacktoberfest23-pledge-39kn)
 - [Lifehacker] [Where to Stream the Oregon Vs. Stanford Game](https://lifehacker.com/where-to-stream-the-oregon-vs-stanford-game-1850883655)
 - [Lifehacker] [Where to Stream the Penn State Vs. Northwestern Game](https://lifehacker.com/where-to-stream-the-penn-state-vs-northwestern-game-1850882748)
-- [Dev.to/JS] [All we know about Vue 3 Vapor Mode](https://dev.to/icarusgk/all-we-know-about-vue-3-vapor-mode-3nfa)
 - [Lifehacker] [How to Fix Ugly Nail Pops in Your Walls](https://lifehacker.com/how-to-fix-nail-pops-in-walls-1850882251)
 - [Lifehacker] [All the ‘Single-Use’ Household Items You Should Be Re-Using](https://lifehacker.com/all-the-single-use-household-items-you-should-be-re-u-1850883065)
 - [Lifehacker] [This Ring Doorbell and Floodlight Camera Bundle Is 40% Off Right Now](https://lifehacker.com/this-ring-doorbell-and-floodlight-camera-bundle-is-40-1850882729)
