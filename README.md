@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building doxshare[0]: The beginning](https://dev.to/shaancodes/building-doxshare0-the-beginning-55h2)
+- [Dev.to/JS] [Phase 1 FlatIron](https://dev.to/mariov/phase-1-flatiron-5946)
+- [Dev.to/JS] [Optimizing Next.js Performance with Code Splitting and Dynamic Imports](https://dev.to/rupadana/optimizing-nextjs-performance-with-code-splitting-and-dynamic-imports-2hhl)
+- [Lifehacker] [Fall Is the Perfect Time to Repair the Mortar on Your Walkways](https://lifehacker.com/fall-is-the-perfect-time-to-repair-the-mortar-on-your-w-1850884311)
+- [Dev.to/JS] [Solved my first Hard Difficulty LC Problem, Yay!](https://dev.to/raihanmahmudiut/solved-my-first-hard-difficulty-lc-problem-yay-m8k)
+- [Dev.to/JS] [Building Your First Rock Paper Scissors Game: A Beginner&#39;s Guide](https://dev.to/aniiket/building-your-first-rock-paper-scissors-game-a-beginners-guide-2gdm)
+- [Dev.to/JS] [【Video】896. Monotonic Array - Python, JavaScript, Java and C++](https://dev.to/niitsken/video-896-monotonic-array-python-javascript-java-and-c-50kk)
 - [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
 - [Dev.to/JS] [&lt;=60s - JavaScript](https://dev.to/easewithtuts/60s-javascript-4dm2)
 - [Dev.to/JS] [Custom File Generator Tutorial](https://dev.to/sethdavis512/custom-file-generator-tutorial-17pa)
@@ -35,14 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)
 - [Dev.to/JS] [How to use jQuery with Astro](https://dev.to/whitep4nth3r/how-to-use-jquery-with-astro-56lk)
 - [Lifehacker] [Refurbished Apple Watches Are As Cheap As $70 on Woot Today](https://lifehacker.com/refurbished-apple-watches-are-as-cheap-as-70-on-woot-t-1850884670)
-- [Dev.to/JS] [Nailing Your First JavaScript Developer Interview: 10 Common Questions and How to Respond](https://dev.to/eneaslari/nailing-your-first-javascript-developer-interview-10-common-questions-and-how-to-respond-2poi)
-- [Dev.to/JS] [😱 ESlint over Conventions - You have Not unlocked the power of ESlint 😱](https://dev.to/borysshulyak/eslint-over-conventions-you-have-not-unlocked-the-power-of-eslint-2h30)
-- [Dev.to/JS] [How to Mint Fungible Tokens in JavaScript Using Agoric](https://dev.to/wolzcodelife/how-to-mint-fungible-tokens-in-javascript-using-agoric-2h3)
 - [Lifehacker] [The Best Ways to Streamline Your Grocery Shopping and Save Money](https://lifehacker.com/the-best-ways-to-streamline-your-grocery-shopping-and-s-1850883509)
-- [Dev.to/JS] [𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐂𝐥𝐞𝐚𝐧 𝐂𝐨𝐝𝐞𝐬](https://dev.to/2apreety18/-1ef8)
 - [Lifehacker] [Try Playing NYT Connections on Paper](https://lifehacker.com/try-playing-nyt-connections-on-paper-1850883755)
-- [Dev.to/JS] [How I Added Multiple Products To The Shopify Cart](https://dev.to/moek/how-i-added-multiple-products-to-the-shopify-cart-dl1)
-- [Dev.to/JS] [Power of Javascript Array Methods 🔍🛠️](https://dev.to/shivamblog/power-of-javascript-array-methods-3fbp)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for September 29, 2023](https://lifehacker.com/nyt-connections-answer-today-september-29-2023-1850881958)
 - [Lifehacker] [Where to Stream the Iowa State Vs. Oklahoma Game](https://lifehacker.com/where-to-stream-the-iowa-state-vs-oklahoma-game-1850884575)
 - [Lifehacker] [You Can Try Copilot, Windows 11’s New AI Assistant, Right Now](https://lifehacker.com/you-can-try-copilot-windows-11-s-new-ai-assistant-rig-1850884313)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s an iOS 17.1 Already](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
 - [Lifehacker] [Meross Makes the Best Smart Plugs](https://lifehacker.com/meross-makes-the-best-smart-plugs-1850879264)
 - [Lifehacker] [The Best Gadgets to Make Parenting Little Kids so Much Easier](https://lifehacker.com/the-best-gadgets-to-make-parenting-little-kids-so-much-1850879745)
-- [Lifehacker] [Dell Is Having a 50% Off Sale on Refurbished Laptops](https://lifehacker.com/dell-is-having-a-50-off-sale-on-refurbished-laptops-1850880524)
-- [Lifehacker] [How to Watch College Football Without Cable This Season](https://lifehacker.com/how-to-watch-college-football-without-cable-this-season-1850880861)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Dell Is Having a 50% Off Sale on Refurbished Laptops](https://lifehacker.com/dell-is-having-a-50-off-sale-on-refurbished-laptops-1850880524)<!-- TECH-POSTS:END -->
 
 ---
 
