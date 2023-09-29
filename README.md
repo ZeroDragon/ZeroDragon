@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
+- [Dev.to/JS] [&lt;=60s - JavaScript](https://dev.to/easewithtuts/60s-javascript-4dm2)
+- [Dev.to/JS] [Custom File Generator Tutorial](https://dev.to/sethdavis512/custom-file-generator-tutorial-17pa)
+- [Dev.to/JS] [React &lpar;Part - 1&rpar;: How to Create a New Project in React.](https://dev.to/guhapritam/react-part-1-how-to-create-a-new-project-in-react-22bl)
+- [Dev.to/JS] [Day 58: Commonly Used HTML Tags](https://dev.to/dhrn/day-58-commonly-used-html-tags-7om)
+- [Dev.to/JS] [A Comprehensive Guide to JSON Web Tokens](https://dev.to/dhanushnehru/a-comprehensive-guide-to-json-web-tokens-2no4)
+- [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)
+- [Dev.to/JS] [How to use jQuery with Astro](https://dev.to/whitep4nth3r/how-to-use-jquery-with-astro-56lk)
 - [Lifehacker] [Refurbished Apple Watches Are As Cheap As $70 on Woot Today](https://lifehacker.com/refurbished-apple-watches-are-as-cheap-as-70-on-woot-t-1850884670)
 - [Dev.to/JS] [Nailing Your First JavaScript Developer Interview: 10 Common Questions and How to Respond](https://dev.to/eneaslari/nailing-your-first-javascript-developer-interview-10-common-questions-and-how-to-respond-2poi)
 - [Dev.to/JS] [😱 ESlint over Conventions - You have Not unlocked the power of ESlint 😱](https://dev.to/borysshulyak/eslint-over-conventions-you-have-not-unlocked-the-power-of-eslint-2h30)
@@ -35,12 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try Playing NYT Connections on Paper](https://lifehacker.com/try-playing-nyt-connections-on-paper-1850883755)
 - [Dev.to/JS] [How I Added Multiple Products To The Shopify Cart](https://dev.to/moek/how-i-added-multiple-products-to-the-shopify-cart-dl1)
 - [Dev.to/JS] [Power of Javascript Array Methods 🔍🛠️](https://dev.to/shivamblog/power-of-javascript-array-methods-3fbp)
-- [Dev.to/JS] [Building a Web Application Using Python](https://dev.to/sparkouttech/building-a-web-application-using-python-4l02)
-- [Dev.to/JS] [Pipeline Operator great again!](https://dev.to/pengeszikra/pipeline-operator-great-again-1cbn)
-- [Dev.to/JS] [20++ Essential Articles for Vue.js &lpar;Vue 3&rpar; Beginner](https://dev.to/ansonch/20-essential-articles-for-vuejs-vue-3-beginner-1dmf)
-- [Dev.to/JS] [LeetCode - Solution for 2631. Group By](https://dev.to/jenchen/leetcode-solution-for-2631-group-by-1hl0)
-- [Dev.to/JS] [Category Filter Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/category-filter-using-html-css-javascript-5ek4)
-- [Dev.to/JS] [React VS Angular](https://dev.to/arsalanmee/react-vs-angular-2h8n)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for September 29, 2023](https://lifehacker.com/nyt-connections-answer-today-september-29-2023-1850881958)
 - [Lifehacker] [Where to Stream the Iowa State Vs. Oklahoma Game](https://lifehacker.com/where-to-stream-the-iowa-state-vs-oklahoma-game-1850884575)
 - [Lifehacker] [You Can Try Copilot, Windows 11’s New AI Assistant, Right Now](https://lifehacker.com/you-can-try-copilot-windows-11-s-new-ai-assistant-rig-1850884313)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meross Makes the Best Smart Plugs](https://lifehacker.com/meross-makes-the-best-smart-plugs-1850879264)
 - [Lifehacker] [The Best Gadgets to Make Parenting Little Kids so Much Easier](https://lifehacker.com/the-best-gadgets-to-make-parenting-little-kids-so-much-1850879745)
 - [Lifehacker] [Dell Is Having a 50% Off Sale on Refurbished Laptops](https://lifehacker.com/dell-is-having-a-50-off-sale-on-refurbished-laptops-1850880524)
-- [Lifehacker] [How to Watch College Football Without Cable This Season](https://lifehacker.com/how-to-watch-college-football-without-cable-this-season-1850880861)
-- [Lifehacker] [Please Stop Ordering Off-Menu Crap You See on TikTok](https://lifehacker.com/please-stop-ordering-off-menu-crap-you-see-on-tiktok-1850880309)
-- [Lifehacker] [WHOOP’s New AI Coach Actually Makes the App More Useful](https://lifehacker.com/whoop-s-new-ai-coach-actually-makes-the-app-more-useful-1850879568)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Watch College Football Without Cable This Season](https://lifehacker.com/how-to-watch-college-football-without-cable-this-season-1850880861)<!-- TECH-POSTS:END -->
 
 ---
 
