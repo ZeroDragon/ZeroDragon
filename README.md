@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Refurbished Apple Watches Are As Cheap As $70 on Woot Today](https://lifehacker.com/refurbished-apple-watches-are-as-cheap-as-70-on-woot-t-1850884670)
+- [Dev.to/JS] [Nailing Your First JavaScript Developer Interview: 10 Common Questions and How to Respond](https://dev.to/eneaslari/nailing-your-first-javascript-developer-interview-10-common-questions-and-how-to-respond-2poi)
+- [Dev.to/JS] [😱 ESlint over Conventions - You have Not unlocked the power of ESlint 😱](https://dev.to/borysshulyak/eslint-over-conventions-you-have-not-unlocked-the-power-of-eslint-2h30)
+- [Dev.to/JS] [How to Mint Fungible Tokens in JavaScript Using Agoric](https://dev.to/wolzcodelife/how-to-mint-fungible-tokens-in-javascript-using-agoric-2h3)
+- [Lifehacker] [The Best Ways to Streamline Your Grocery Shopping and Save Money](https://lifehacker.com/the-best-ways-to-streamline-your-grocery-shopping-and-s-1850883509)
+- [Dev.to/JS] [𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐂𝐥𝐞𝐚𝐧 𝐂𝐨𝐝𝐞𝐬](https://dev.to/2apreety18/-1ef8)
+- [Lifehacker] [Try Playing NYT Connections on Paper](https://lifehacker.com/try-playing-nyt-connections-on-paper-1850883755)
 - [Dev.to/JS] [How I Added Multiple Products To The Shopify Cart](https://dev.to/moek/how-i-added-multiple-products-to-the-shopify-cart-dl1)
 - [Dev.to/JS] [Power of Javascript Array Methods 🔍🛠️](https://dev.to/shivamblog/power-of-javascript-array-methods-3fbp)
 - [Dev.to/JS] [Building a Web Application Using Python](https://dev.to/sparkouttech/building-a-web-application-using-python-4l02)
@@ -34,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Solution for 2631. Group By](https://dev.to/jenchen/leetcode-solution-for-2631-group-by-1hl0)
 - [Dev.to/JS] [Category Filter Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/category-filter-using-html-css-javascript-5ek4)
 - [Dev.to/JS] [React VS Angular](https://dev.to/arsalanmee/react-vs-angular-2h8n)
-- [Dev.to/JS] [Send records in batch to Algolia with free plan](https://dev.to/manonsmnn/send-records-in-batch-to-algolia-with-free-plan-4lk5)
-- [Dev.to/JS] [Find out first unique element from array](https://dev.to/indrakantm23/find-out-first-unique-element-from-array-5e7f)
-- [Dev.to/JS] [&gt; Merging arrays &lpar;with and without duplicates&rpar;](https://dev.to/aronsantha/-merging-arrays-with-and-without-duplicates-2ek5)
-- [Dev.to/JS] [How to create a GitHub Packages for typescript projectsg](https://dev.to/vitoraguila/how-to-create-a-github-packages-for-typescript-projectsg-2d7g)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for September 29, 2023](https://lifehacker.com/nyt-connections-answer-today-september-29-2023-1850881958)
 - [Lifehacker] [Where to Stream the Iowa State Vs. Oklahoma Game](https://lifehacker.com/where-to-stream-the-iowa-state-vs-oklahoma-game-1850884575)
 - [Lifehacker] [You Can Try Copilot, Windows 11’s New AI Assistant, Right Now](https://lifehacker.com/you-can-try-copilot-windows-11-s-new-ai-assistant-rig-1850884313)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Dell Is Having a 50% Off Sale on Refurbished Laptops](https://lifehacker.com/dell-is-having-a-50-off-sale-on-refurbished-laptops-1850880524)
 - [Lifehacker] [How to Watch College Football Without Cable This Season](https://lifehacker.com/how-to-watch-college-football-without-cable-this-season-1850880861)
 - [Lifehacker] [Please Stop Ordering Off-Menu Crap You See on TikTok](https://lifehacker.com/please-stop-ordering-off-menu-crap-you-see-on-tiktok-1850880309)
-- [Lifehacker] [WHOOP’s New AI Coach Actually Makes the App More Useful](https://lifehacker.com/whoop-s-new-ai-coach-actually-makes-the-app-more-useful-1850879568)
-- [Lifehacker] [Use the ‘4D’ Method to Keep Up With Your Inbox](https://lifehacker.com/use-the-4d-method-to-keep-up-with-your-inbox-1850878672)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, September 28](https://lifehacker.com/nyt-connections-answer-today-september-28-2023-1850877476)
-- [Lifehacker] [12 Podcasts With the Best Listener Communities](https://lifehacker.com/best-podcast-fan-communities-1850878619)<!-- TECH-POSTS:END -->
+- [Lifehacker] [WHOOP’s New AI Coach Actually Makes the App More Useful](https://lifehacker.com/whoop-s-new-ai-coach-actually-makes-the-app-more-useful-1850879568)<!-- TECH-POSTS:END -->
 
 ---
 
