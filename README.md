@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improving SEO for React Apps with Server-Side Rendering and Static Site Generation](https://dev.to/scofieldidehen/improving-seo-for-react-apps-with-server-side-rendering-and-static-site-generation-4397)
+- [Dev.to/JS] [Updates from the 98th TC39 meeting](https://dev.to/hemanth/updates-from-the-98th-tc39-meeting-1lcf)
 - [Dev.to/JS] [ProFoliox – Multipage personal theme](https://dev.to/lexingtonthemes/profoliox-multipage-personal-theme-3412)
 - [Dev.to/JS] [Buy Verified PayPal Accounts - 100% Safe Verified Accounts](https://dev.to/robertcassero67/buy-verified-paypal-accounts-100-safe-verified-accounts-15pk)
 - [Dev.to/JS] [Unlocking the Power of Native Modules in JavaScript: An Introductory Guide](https://dev.to/danielboll/unlocking-the-power-of-native-modules-in-javascript-an-introductory-guide-4jh1)
@@ -46,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [No changelog for your open source project? We&#39;ll make one for you for Hacktoberfest!](https://dev.to/allieoopz/no-changelog-for-your-open-source-project-well-make-one-for-you-for-hacktoberfest-pmk)
 - [Lifehacker] [Make Super Smooth Mashed Potatoes With a Fine Mesh Strainer](https://lifehacker.com/how-to-make-mashed-potatoes-without-lumps-1850883812)
 - [Dev.to/JS] [Building My Personal Blog Site from Scratch: A Tech Journey.](https://dev.to/eneaslari/building-my-personal-blog-site-from-scratch-a-tech-journey-1hpj)
-- [Dev.to/JS] [React Performance Optimization: Best Practices with Examples](https://dev.to/chintanonweb/react-performance-optimization-best-practices-with-examples-3c76)
 - [Lifehacker] [You Can Finally Use iCloud Keychain in Google Chrome](https://lifehacker.com/you-can-finally-use-icloud-keychain-in-google-chrome-1850883588)
-- [Dev.to/JS] [My Vanilla Fresh Hacktoberfest23 Pledge](https://dev.to/overflow/my-vanilla-fresh-hacktoberfest23-pledge-39kn)
 - [Lifehacker] [Where to Stream the Oregon Vs. Stanford Game](https://lifehacker.com/where-to-stream-the-oregon-vs-stanford-game-1850883655)
 - [Lifehacker] [Where to Stream the Penn State Vs. Northwestern Game](https://lifehacker.com/where-to-stream-the-penn-state-vs-northwestern-game-1850882748)
 - [Lifehacker] [How to Fix Ugly Nail Pops in Your Walls](https://lifehacker.com/how-to-fix-nail-pops-in-walls-1850882251)
