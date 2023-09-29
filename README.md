@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Three-camera Blink Bundle Is 58% Off Right Now](https://lifehacker.com/this-three-camera-blink-bundle-is-58-off-right-now-1850887133)
+- [Lifehacker] [Cling to That Summer Feeling With This Lemon Stick &#39;Drink&#39;](https://lifehacker.com/cling-to-that-summer-feeling-with-this-lemon-stick-drin-1850887254)
+- [Dev.to/JS] [Difference Between Authorization and Authentication](https://dev.to/emmanuelawolu/difference-between-authorization-and-authentication-58gn)
+- [Lifehacker] [Back Up Your Xbox Screenshots and Videos Before Microsoft Deletes Them All](https://lifehacker.com/back-up-your-xbox-screenshots-and-videos-before-microso-1850886074)
 - [Dev.to/JS] [Episode 23/38: TypeScript Origins, Reusable Forms, Bun in Angular, Svelte Runes](https://dev.to/this-is-angular/episode-2338-typescript-origins-reusable-forms-bun-in-angular-svelte-runes-1g54)
 - [Lifehacker] [These Are the Signs of Poor Interoception in Kids](https://lifehacker.com/these-are-the-signs-of-poor-interoception-in-kids-1850884972)
 - [Dev.to/JS] [Mastering JavaScript Closures: A Comprehensive Guide to Understanding Scope, Context, and Practical Applications](https://dev.to/iamcymentho/mastering-javascript-closures-a-comprehensive-guide-to-understanding-scope-context-and-practical-applications-1j9o)
@@ -43,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [【Video】896. Monotonic Array - Python, JavaScript, Java and C++](https://dev.to/niitsken/video-896-monotonic-array-python-javascript-java-and-c-50kk)
 - [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
 - [Dev.to/JS] [&lt;=60s - JavaScript](https://dev.to/easewithtuts/60s-javascript-4dm2)
-- [Dev.to/JS] [Custom File Generator Tutorial](https://dev.to/sethdavis512/custom-file-generator-tutorial-17pa)
 - [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)
 - [Lifehacker] [Refurbished Apple Watches Are As Cheap As $70 on Woot Today](https://lifehacker.com/refurbished-apple-watches-are-as-cheap-as-70-on-woot-t-1850884670)
 - [Lifehacker] [The Best Ways to Streamline Your Grocery Shopping and Save Money](https://lifehacker.com/the-best-ways-to-streamline-your-grocery-shopping-and-s-1850883509)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream the Oregon Vs. Stanford Game](https://lifehacker.com/where-to-stream-the-oregon-vs-stanford-game-1850883655)
 - [Lifehacker] [Where to Stream the Penn State Vs. Northwestern Game](https://lifehacker.com/where-to-stream-the-penn-state-vs-northwestern-game-1850882748)
 - [Lifehacker] [How to Fix Ugly Nail Pops in Your Walls](https://lifehacker.com/how-to-fix-nail-pops-in-walls-1850882251)
-- [Lifehacker] [All the ‘Single-Use’ Household Items You Should Be Re-Using](https://lifehacker.com/all-the-single-use-household-items-you-should-be-re-u-1850883065)
-- [Lifehacker] [This Ring Doorbell and Floodlight Camera Bundle Is 40% Off Right Now](https://lifehacker.com/this-ring-doorbell-and-floodlight-camera-bundle-is-40-1850882729)
-- [Lifehacker] [How to Manage Your Catastrophic Thinking](https://lifehacker.com/how-to-manage-your-catastrophic-thinking-1850880206)
-- [Lifehacker] [The Best Exercise Modifications to Try If You Have Sore Wrists](https://lifehacker.com/the-best-exercise-modifications-to-try-if-you-have-sore-1850881098)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the ‘Single-Use’ Household Items You Should Be Re-Using](https://lifehacker.com/all-the-single-use-household-items-you-should-be-re-u-1850883065)<!-- TECH-POSTS:END -->
 
 ---
 
