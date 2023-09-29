@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [20++ Essential Articles for Vue.js &lpar;Vue 3&rpar; Beginner](https://dev.to/ansonch/20-essential-articles-for-vuejs-vue-3-beginner-1dmf)
+- [Dev.to/JS] [LeetCode - Solution for 2631. Group By](https://dev.to/jenchen/leetcode-solution-for-2631-group-by-1hl0)
 - [Dev.to/JS] [Category Filter Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/category-filter-using-html-css-javascript-5ek4)
 - [Dev.to/JS] [React VS Angular](https://dev.to/arsalanmee/react-vs-angular-2h8n)
 - [Dev.to/JS] [Send records in batch to Algolia with free plan](https://dev.to/manonsmnn/send-records-in-batch-to-algolia-with-free-plan-4lk5)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [😯 gRPC vs REST - A Brief Comparison](https://dev.to/refine/grpc-vs-rest-a-brief-comparison-4p8b)
 - [Dev.to/JS] [How to Create Resizable Columns in Angular Table: A Step-by-Step Guide](https://dev.to/chintanonweb/how-to-create-resizable-columns-in-angular-table-a-step-by-step-guide-1n0i)
 - [Dev.to/JS] [Learn Laravel Filament full tutorial: Build powerful admin panels with ease](https://dev.to/laravellercom/learn-laravel-filament-full-tutorial-build-powerful-admin-panels-with-ease-4g89)
-- [Dev.to/JS] [Solving the Happy Number Problem in Java: Helpful Tips](https://dev.to/vaibhhav/solving-the-happy-number-problem-in-java-helpful-tips-6cm)
-- [Dev.to/JS] [Use gRPC inside monolith](https://dev.to/bloodboy21/use-grpc-inside-monolith-2i01)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for September 29, 2023](https://lifehacker.com/nyt-connections-answer-today-september-29-2023-1850881958)
 - [Lifehacker] [Where to Stream the Iowa State Vs. Oklahoma Game](https://lifehacker.com/where-to-stream-the-iowa-state-vs-oklahoma-game-1850884575)
 - [Lifehacker] [You Can Try Copilot, Windows 11’s New AI Assistant, Right Now](https://lifehacker.com/you-can-try-copilot-windows-11-s-new-ai-assistant-rig-1850884313)
