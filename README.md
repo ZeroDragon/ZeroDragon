@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why It’s Still Worth It to Wire Your House for Ethernet](https://lifehacker.com/is-ethernet-still-worth-it-1850887111)
+- [Lifehacker] [Why a Pawn Shop Is Better Than a Payday Loan in an Emergency](https://lifehacker.com/why-a-pawn-shop-is-better-than-a-payday-loan-in-an-emer-1850886664)
 - [Dev.to/JS] [Coisas triviais &lpar;talvez nem tanto&rpar; que melhoram o código](https://dev.to/luigiss97/coisas-triviais-talvez-nem-tanto-que-melhoram-o-codigo-3hli)
 - [Dev.to/JS] [Remix + Trigger.dev: Match made in Heaven](https://dev.to/shafspecs/remix-triggerdev-match-made-in-heaven-51n1)
 - [Dev.to/JS] [LAB -3 Adding new Features to the Tool.](https://dev.to/sshah135/lab-3-adding-new-features-to-the-tool-c4d)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Try Copilot, Windows 11’s New AI Assistant, Right Now](https://lifehacker.com/you-can-try-copilot-windows-11-s-new-ai-assistant-rig-1850884313)
 - [Lifehacker] [Check If You Qualify for One of These Student Loan Grants](https://lifehacker.com/check-if-you-qualify-for-one-of-these-student-loan-gran-1850882286)
 - [Lifehacker] [You Can Get an Amazon Echo Pop and a Month of Amazon Music Unlimited for $15 Right Now](https://lifehacker.com/you-can-get-an-amazon-echo-pop-and-a-month-of-amazon-mu-1850883447)
-- [Lifehacker] [Where to Stream the Washington Vs. Arizona Game](https://lifehacker.com/where-to-stream-the-washington-vs-arizona-game-1850884048)
-- [Lifehacker] [How to Make Turkey Gravy Without Pan Drippings](https://lifehacker.com/how-to-make-turkey-gravy-without-pan-drippings-1830415802)
-- [Lifehacker] [The Three Best Kitchen Countertops to Install Yourself](https://lifehacker.com/the-best-kitchen-countertops-to-install-yourself-1850880923)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Stream the Washington Vs. Arizona Game](https://lifehacker.com/where-to-stream-the-washington-vs-arizona-game-1850884048)<!-- TECH-POSTS:END -->
 
 ---
 
