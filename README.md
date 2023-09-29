@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coisas triviais &lpar;talvez nem tanto&rpar; que melhoram o código](https://dev.to/luigiss97/coisas-triviais-talvez-nem-tanto-que-melhoram-o-codigo-3hli)
+- [Dev.to/JS] [Remix + Trigger.dev: Match made in Heaven](https://dev.to/shafspecs/remix-triggerdev-match-made-in-heaven-51n1)
+- [Dev.to/JS] [LAB -3 Adding new Features to the Tool.](https://dev.to/sshah135/lab-3-adding-new-features-to-the-tool-c4d)
+- [Lifehacker] [The iPhone 15 Pro Max Is Apple’s Most Boring Phone Yet](https://lifehacker.com/iphone-15-pro-max-review-1850887664)
+- [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
+- [Dev.to/JS] [Demystifying Hoisting in JavaScript](https://dev.to/arindam_1729/demystifying-hoisting-in-javascript-3ja4)
+- [Dev.to/JS] [Tuto: Setup a Svelte project using esbuild](https://dev.to/barim/tuto-setup-a-svelte-project-using-esbuild-1jmg)
+- [Lifehacker] [Everything You Need to Know About the Fitbit Charge 6](https://lifehacker.com/fitbit-charge-6-review-1850887582)
 - [Dev.to/JS] [I&#39;m bad at blogging](https://dev.to/hroney/im-bad-at-blogging-540d)
 - [Dev.to/JS] [🦖 My attempt to make an HTTP client...](https://dev.to/sevapp/my-attempt-to-make-an-http-client-495m)
 - [Lifehacker] [Six Sinks, Ranked by How Easy They Are to Install Yourself](https://lifehacker.com/easiest-sinks-install-1850884571)
@@ -40,15 +48,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cling to That Summer Feeling With This Lemon Stick &#39;Drink&#39;](https://lifehacker.com/cling-to-that-summer-feeling-with-this-lemon-stick-drin-1850887254)
 - [Dev.to/JS] [Difference Between Authorization and Authentication](https://dev.to/emmanuelawolu/difference-between-authorization-and-authentication-58gn)
 - [Lifehacker] [Back Up Your Xbox Screenshots and Videos Before Microsoft Deletes Them All](https://lifehacker.com/back-up-your-xbox-screenshots-and-videos-before-microso-1850886074)
-- [Dev.to/JS] [Episode 23/38: TypeScript Origins, Reusable Forms, Bun in Angular, Svelte Runes](https://dev.to/this-is-angular/episode-2338-typescript-origins-reusable-forms-bun-in-angular-svelte-runes-1g54)
 - [Lifehacker] [These Are the Signs of Poor Interoception in Kids](https://lifehacker.com/these-are-the-signs-of-poor-interoception-in-kids-1850884972)
-- [Dev.to/JS] [Mastering JavaScript Closures: A Comprehensive Guide to Understanding Scope, Context, and Practical Applications](https://dev.to/iamcymentho/mastering-javascript-closures-a-comprehensive-guide-to-understanding-scope-context-and-practical-applications-1j9o)
-- [Dev.to/JS] [Database Soft Deletes: How and Why with Custom Prisma Client queries](https://dev.to/jeff_codes/database-soft-deletes-how-and-why-with-custom-prisma-client-queries-2ga7)
-- [Dev.to/JS] [Building Authentication in React Using Firebase](https://dev.to/jps27cse/building-authentication-in-react-using-firebase-2ihl)
 - [Lifehacker] [Use &#39;Think, Pair, Share&#39; for Effective Group Studying](https://lifehacker.com/use-think-pair-share-for-effective-group-studying-1850885376)
 - [Lifehacker] [Use Inquiry-Based Learning to Stay Curious About What You’re Studying](https://lifehacker.com/use-inquiry-based-learning-to-stay-curious-about-what-y-1850885326)
 - [Lifehacker] [The 25 Best Science Fiction and Fantasy Movies on Netflix](https://lifehacker.com/the-best-science-fiction-and-fantasy-movies-on-netflix-1850881836)
-- [Dev.to/JS] [Building doxshare[0]: The beginning](https://dev.to/shaancodes/building-doxshare0-the-beginning-55h2)
 - [Lifehacker] [Fall Is the Perfect Time to Repair the Mortar on Your Walkways](https://lifehacker.com/fall-is-the-perfect-time-to-repair-the-mortar-on-your-w-1850884311)
 - [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
 - [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get an Amazon Echo Pop and a Month of Amazon Music Unlimited for $15 Right Now](https://lifehacker.com/you-can-get-an-amazon-echo-pop-and-a-month-of-amazon-mu-1850883447)
 - [Lifehacker] [Where to Stream the Washington Vs. Arizona Game](https://lifehacker.com/where-to-stream-the-washington-vs-arizona-game-1850884048)
 - [Lifehacker] [How to Make Turkey Gravy Without Pan Drippings](https://lifehacker.com/how-to-make-turkey-gravy-without-pan-drippings-1830415802)
-- [Lifehacker] [The Three Best Kitchen Countertops to Install Yourself](https://lifehacker.com/the-best-kitchen-countertops-to-install-yourself-1850880923)
-- [Lifehacker] [How to Rejuvenate the Soil in Your Raised Garden Beds](https://lifehacker.com/how-to-rejuvenate-soil-in-raised-garden-beds-1850882749)
-- [Lifehacker] [Make Super Smooth Mashed Potatoes With a Fine Mesh Strainer](https://lifehacker.com/how-to-make-mashed-potatoes-without-lumps-1850883812)
-- [Lifehacker] [You Can Finally Use iCloud Keychain in Google Chrome](https://lifehacker.com/you-can-finally-use-icloud-keychain-in-google-chrome-1850883588)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Three Best Kitchen Countertops to Install Yourself](https://lifehacker.com/the-best-kitchen-countertops-to-install-yourself-1850880923)<!-- TECH-POSTS:END -->
 
 ---
 
