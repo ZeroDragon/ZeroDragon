@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a GitHub Packages for typescript projectsg](https://dev.to/vitoraguila/how-to-create-a-github-packages-for-typescript-projectsg-2d7g)
+- [Dev.to/JS] [Rewrite styled-components in ReactJS with just 60 lines of JavaScript code](https://dev.to/ducga1998/rewrite-styled-components-in-reactjs-with-just-60-lines-of-javascript-code-25eb)
+- [Dev.to/JS] [😯 gRPC vs REST - A Brief Comparison](https://dev.to/refine/grpc-vs-rest-a-brief-comparison-4p8b)
 - [Dev.to/JS] [How to Create Resizable Columns in Angular Table: A Step-by-Step Guide](https://dev.to/chintanonweb/how-to-create-resizable-columns-in-angular-table-a-step-by-step-guide-1n0i)
 - [Dev.to/JS] [Learn Laravel Filament full tutorial: Build powerful admin panels with ease](https://dev.to/laravellercom/learn-laravel-filament-full-tutorial-build-powerful-admin-panels-with-ease-4g89)
 - [Dev.to/JS] [Solving the Happy Number Problem in Java: Helpful Tips](https://dev.to/vaibhhav/solving-the-happy-number-problem-in-java-helpful-tips-6cm)
@@ -35,13 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Improving SEO for React Apps with Server-Side Rendering and Static Site Generation](https://dev.to/scofieldidehen/improving-seo-for-react-apps-with-server-side-rendering-and-static-site-generation-4397)
 - [Dev.to/JS] [Updates from the 98th TC39 meeting](https://dev.to/hemanth/updates-from-the-98th-tc39-meeting-1lcf)
 - [Dev.to/JS] [ProFoliox – Multipage personal theme](https://dev.to/lexingtonthemes/profoliox-multipage-personal-theme-3412)
-- [Dev.to/JS] [Buy Verified PayPal Accounts - 100% Safe Verified Accounts](https://dev.to/robertcassero67/buy-verified-paypal-accounts-100-safe-verified-accounts-15pk)
-- [Dev.to/JS] [Unlocking the Power of Native Modules in JavaScript: An Introductory Guide](https://dev.to/danielboll/unlocking-the-power-of-native-modules-in-javascript-an-introductory-guide-4jh1)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for September 29, 2023](https://lifehacker.com/nyt-connections-answer-today-september-29-2023-1850881958)
 - [Lifehacker] [Where to Stream the Iowa State Vs. Oklahoma Game](https://lifehacker.com/where-to-stream-the-iowa-state-vs-oklahoma-game-1850884575)
 - [Lifehacker] [You Can Try Copilot, Windows 11’s New AI Assistant, Right Now](https://lifehacker.com/you-can-try-copilot-windows-11-s-new-ai-assistant-rig-1850884313)
 - [Lifehacker] [Check If You Qualify for One of These Student Loan Grants](https://lifehacker.com/check-if-you-qualify-for-one-of-these-student-loan-gran-1850882286)
-- [Dev.to/JS] [Javascript object - Object Literal and Constructor](https://dev.to/hyeo151/javascript-object-object-literal-and-constructor-m6o)
 - [Lifehacker] [You Can Get an Amazon Echo Pop and a Month of Amazon Music Unlimited for $15 Right Now](https://lifehacker.com/you-can-get-an-amazon-echo-pop-and-a-month-of-amazon-mu-1850883447)
 - [Lifehacker] [Where to Stream the Washington Vs. Arizona Game](https://lifehacker.com/where-to-stream-the-washington-vs-arizona-game-1850884048)
 - [Lifehacker] [How to Make Turkey Gravy Without Pan Drippings](https://lifehacker.com/how-to-make-turkey-gravy-without-pan-drippings-1830415802)
