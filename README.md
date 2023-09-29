@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 23/38: TypeScript Origins, Reusable Forms, Bun in Angular, Svelte Runes](https://dev.to/this-is-angular/episode-2338-typescript-origins-reusable-forms-bun-in-angular-svelte-runes-1g54)
+- [Lifehacker] [These Are the Signs of Poor Interoception in Kids](https://lifehacker.com/these-are-the-signs-of-poor-interoception-in-kids-1850884972)
+- [Dev.to/JS] [Mastering JavaScript Closures: A Comprehensive Guide to Understanding Scope, Context, and Practical Applications](https://dev.to/iamcymentho/mastering-javascript-closures-a-comprehensive-guide-to-understanding-scope-context-and-practical-applications-1j9o)
+- [Dev.to/JS] [Database Soft Deletes: How and Why with Custom Prisma Client queries](https://dev.to/jeff_codes/database-soft-deletes-how-and-why-with-custom-prisma-client-queries-2ga7)
+- [Dev.to/JS] [Building Authentication in React Using Firebase](https://dev.to/jps27cse/building-authentication-in-react-using-firebase-2ihl)
+- [Lifehacker] [Use &#39;Think, Pair, Share&#39; for Effective Group Studying](https://lifehacker.com/use-think-pair-share-for-effective-group-studying-1850885376)
 - [Lifehacker] [Use Inquiry-Based Learning to Stay Curious About What You’re Studying](https://lifehacker.com/use-inquiry-based-learning-to-stay-curious-about-what-y-1850885326)
 - [Lifehacker] [The 25 Best Science Fiction and Fantasy Movies on Netflix](https://lifehacker.com/the-best-science-fiction-and-fantasy-movies-on-netflix-1850881836)
 - [Dev.to/JS] [Building doxshare[0]: The beginning](https://dev.to/shaancodes/building-doxshare0-the-beginning-55h2)
@@ -38,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
 - [Dev.to/JS] [&lt;=60s - JavaScript](https://dev.to/easewithtuts/60s-javascript-4dm2)
 - [Dev.to/JS] [Custom File Generator Tutorial](https://dev.to/sethdavis512/custom-file-generator-tutorial-17pa)
-- [Dev.to/JS] [React &lpar;Part - 1&rpar;: How to Create a New Project in React.](https://dev.to/guhapritam/react-part-1-how-to-create-a-new-project-in-react-22bl)
-- [Dev.to/JS] [Day 58: Commonly Used HTML Tags](https://dev.to/dhrn/day-58-commonly-used-html-tags-7om)
-- [Dev.to/JS] [A Comprehensive Guide to JSON Web Tokens](https://dev.to/dhanushnehru/a-comprehensive-guide-to-json-web-tokens-2no4)
 - [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)
-- [Dev.to/JS] [How to use jQuery with Astro](https://dev.to/whitep4nth3r/how-to-use-jquery-with-astro-56lk)
 - [Lifehacker] [Refurbished Apple Watches Are As Cheap As $70 on Woot Today](https://lifehacker.com/refurbished-apple-watches-are-as-cheap-as-70-on-woot-t-1850884670)
 - [Lifehacker] [The Best Ways to Streamline Your Grocery Shopping and Save Money](https://lifehacker.com/the-best-ways-to-streamline-your-grocery-shopping-and-s-1850883509)
 - [Lifehacker] [Try Playing NYT Connections on Paper](https://lifehacker.com/try-playing-nyt-connections-on-paper-1850883755)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the ‘Single-Use’ Household Items You Should Be Re-Using](https://lifehacker.com/all-the-single-use-household-items-you-should-be-re-u-1850883065)
 - [Lifehacker] [This Ring Doorbell and Floodlight Camera Bundle Is 40% Off Right Now](https://lifehacker.com/this-ring-doorbell-and-floodlight-camera-bundle-is-40-1850882729)
 - [Lifehacker] [How to Manage Your Catastrophic Thinking](https://lifehacker.com/how-to-manage-your-catastrophic-thinking-1850880206)
-- [Lifehacker] [The Best Exercise Modifications to Try If You Have Sore Wrists](https://lifehacker.com/the-best-exercise-modifications-to-try-if-you-have-sore-1850881098)
-- [Lifehacker] [There&#39;s an iOS 17.1 Already](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
-- [Lifehacker] [Meross Makes the Best Smart Plugs](https://lifehacker.com/meross-makes-the-best-smart-plugs-1850879264)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Exercise Modifications to Try If You Have Sore Wrists](https://lifehacker.com/the-best-exercise-modifications-to-try-if-you-have-sore-1850881098)<!-- TECH-POSTS:END -->
 
 ---
 
