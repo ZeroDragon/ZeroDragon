@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Added Multiple Products To The Shopify Cart](https://dev.to/moek/how-i-added-multiple-products-to-the-shopify-cart-dl1)
+- [Dev.to/JS] [Power of Javascript Array Methods 🔍🛠️](https://dev.to/shivamblog/power-of-javascript-array-methods-3fbp)
+- [Dev.to/JS] [Building a Web Application Using Python](https://dev.to/sparkouttech/building-a-web-application-using-python-4l02)
+- [Dev.to/JS] [Pipeline Operator great again!](https://dev.to/pengeszikra/pipeline-operator-great-again-1cbn)
 - [Dev.to/JS] [20++ Essential Articles for Vue.js &lpar;Vue 3&rpar; Beginner](https://dev.to/ansonch/20-essential-articles-for-vuejs-vue-3-beginner-1dmf)
 - [Dev.to/JS] [LeetCode - Solution for 2631. Group By](https://dev.to/jenchen/leetcode-solution-for-2631-group-by-1hl0)
 - [Dev.to/JS] [Category Filter Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/category-filter-using-html-css-javascript-5ek4)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Find out first unique element from array](https://dev.to/indrakantm23/find-out-first-unique-element-from-array-5e7f)
 - [Dev.to/JS] [&gt; Merging arrays &lpar;with and without duplicates&rpar;](https://dev.to/aronsantha/-merging-arrays-with-and-without-duplicates-2ek5)
 - [Dev.to/JS] [How to create a GitHub Packages for typescript projectsg](https://dev.to/vitoraguila/how-to-create-a-github-packages-for-typescript-projectsg-2d7g)
-- [Dev.to/JS] [Rewrite styled-components in ReactJS with just 60 lines of JavaScript code](https://dev.to/ducga1998/rewrite-styled-components-in-reactjs-with-just-60-lines-of-javascript-code-25eb)
-- [Dev.to/JS] [😯 gRPC vs REST - A Brief Comparison](https://dev.to/refine/grpc-vs-rest-a-brief-comparison-4p8b)
-- [Dev.to/JS] [How to Create Resizable Columns in Angular Table: A Step-by-Step Guide](https://dev.to/chintanonweb/how-to-create-resizable-columns-in-angular-table-a-step-by-step-guide-1n0i)
-- [Dev.to/JS] [Learn Laravel Filament full tutorial: Build powerful admin panels with ease](https://dev.to/laravellercom/learn-laravel-filament-full-tutorial-build-powerful-admin-panels-with-ease-4g89)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for September 29, 2023](https://lifehacker.com/nyt-connections-answer-today-september-29-2023-1850881958)
 - [Lifehacker] [Where to Stream the Iowa State Vs. Oklahoma Game](https://lifehacker.com/where-to-stream-the-iowa-state-vs-oklahoma-game-1850884575)
 - [Lifehacker] [You Can Try Copilot, Windows 11’s New AI Assistant, Right Now](https://lifehacker.com/you-can-try-copilot-windows-11-s-new-ai-assistant-rig-1850884313)
