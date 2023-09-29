@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to implement autocomplete feature in TinyMCE](https://dev.to/tinymce/how-to-implement-autocomplete-feature-in-tinymce-4nb3)
+- [Dev.to/JS] [React Advanced: Manage Server States in the right way](https://dev.to/riktar/react-advanced-manage-server-states-in-the-right-way-2740)
+- [Dev.to/JS] [What is destructuring](https://dev.to/khamal22/what-is-destructuring-35on)
+- [Lifehacker] [You Can Actually Trigger Two Shortcuts With the iPhone 15 Pro’s Action Button](https://lifehacker.com/two-shortcuts-iphone-15-pro-action-button-1850886176)
+- [Lifehacker] [Every Thanksgiving Recipe You Can Microwave &lpar;and Those You Can&#39;t&rpar;](https://lifehacker.com/everything-you-can-and-cannot-microwave-on-thanksgiving-1830572421)
+- [Dev.to/JS] [Understanding ReactJS: Solving Web Development Challenges](https://dev.to/codehassanx/understanding-reactjs-solving-web-development-challenges-5ddl)
 - [Lifehacker] [This Three-camera Blink Bundle Is 58% Off Right Now](https://lifehacker.com/this-three-camera-blink-bundle-is-58-off-right-now-1850887133)
 - [Lifehacker] [Cling to That Summer Feeling With This Lemon Stick &#39;Drink&#39;](https://lifehacker.com/cling-to-that-summer-feeling-with-this-lemon-stick-drin-1850887254)
 - [Dev.to/JS] [Difference Between Authorization and Authentication](https://dev.to/emmanuelawolu/difference-between-authorization-and-authentication-58gn)
@@ -42,11 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Phase 1 FlatIron](https://dev.to/mariov/phase-1-flatiron-5946)
 - [Dev.to/JS] [Optimizing Next.js Performance with Code Splitting and Dynamic Imports](https://dev.to/rupadana/optimizing-nextjs-performance-with-code-splitting-and-dynamic-imports-2hhl)
 - [Lifehacker] [Fall Is the Perfect Time to Repair the Mortar on Your Walkways](https://lifehacker.com/fall-is-the-perfect-time-to-repair-the-mortar-on-your-w-1850884311)
-- [Dev.to/JS] [Solved my first Hard Difficulty LC Problem, Yay!](https://dev.to/raihanmahmudiut/solved-my-first-hard-difficulty-lc-problem-yay-m8k)
-- [Dev.to/JS] [Building Your First Rock Paper Scissors Game: A Beginner&#39;s Guide](https://dev.to/aniiket/building-your-first-rock-paper-scissors-game-a-beginners-guide-2gdm)
-- [Dev.to/JS] [【Video】896. Monotonic Array - Python, JavaScript, Java and C++](https://dev.to/niitsken/video-896-monotonic-array-python-javascript-java-and-c-50kk)
 - [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
-- [Dev.to/JS] [&lt;=60s - JavaScript](https://dev.to/easewithtuts/60s-javascript-4dm2)
 - [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)
 - [Lifehacker] [Refurbished Apple Watches Are As Cheap As $70 on Woot Today](https://lifehacker.com/refurbished-apple-watches-are-as-cheap-as-70-on-woot-t-1850884670)
 - [Lifehacker] [The Best Ways to Streamline Your Grocery Shopping and Save Money](https://lifehacker.com/the-best-ways-to-streamline-your-grocery-shopping-and-s-1850883509)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Super Smooth Mashed Potatoes With a Fine Mesh Strainer](https://lifehacker.com/how-to-make-mashed-potatoes-without-lumps-1850883812)
 - [Lifehacker] [You Can Finally Use iCloud Keychain in Google Chrome](https://lifehacker.com/you-can-finally-use-icloud-keychain-in-google-chrome-1850883588)
 - [Lifehacker] [Where to Stream the Oregon Vs. Stanford Game](https://lifehacker.com/where-to-stream-the-oregon-vs-stanford-game-1850883655)
-- [Lifehacker] [Where to Stream the Penn State Vs. Northwestern Game](https://lifehacker.com/where-to-stream-the-penn-state-vs-northwestern-game-1850882748)
-- [Lifehacker] [How to Fix Ugly Nail Pops in Your Walls](https://lifehacker.com/how-to-fix-nail-pops-in-walls-1850882251)
-- [Lifehacker] [All the ‘Single-Use’ Household Items You Should Be Re-Using](https://lifehacker.com/all-the-single-use-household-items-you-should-be-re-u-1850883065)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Stream the Penn State Vs. Northwestern Game](https://lifehacker.com/where-to-stream-the-penn-state-vs-northwestern-game-1850882748)<!-- TECH-POSTS:END -->
 
 ---
 
