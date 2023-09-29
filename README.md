@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use Inquiry-Based Learning to Stay Curious About What You’re Studying](https://lifehacker.com/use-inquiry-based-learning-to-stay-curious-about-what-y-1850885326)
+- [Lifehacker] [The 25 Best Science Fiction and Fantasy Movies on Netflix](https://lifehacker.com/the-best-science-fiction-and-fantasy-movies-on-netflix-1850881836)
 - [Dev.to/JS] [Building doxshare[0]: The beginning](https://dev.to/shaancodes/building-doxshare0-the-beginning-55h2)
 - [Dev.to/JS] [Phase 1 FlatIron](https://dev.to/mariov/phase-1-flatiron-5946)
 - [Dev.to/JS] [Optimizing Next.js Performance with Code Splitting and Dynamic Imports](https://dev.to/rupadana/optimizing-nextjs-performance-with-code-splitting-and-dynamic-imports-2hhl)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Manage Your Catastrophic Thinking](https://lifehacker.com/how-to-manage-your-catastrophic-thinking-1850880206)
 - [Lifehacker] [The Best Exercise Modifications to Try If You Have Sore Wrists](https://lifehacker.com/the-best-exercise-modifications-to-try-if-you-have-sore-1850881098)
 - [Lifehacker] [There&#39;s an iOS 17.1 Already](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
-- [Lifehacker] [Meross Makes the Best Smart Plugs](https://lifehacker.com/meross-makes-the-best-smart-plugs-1850879264)
-- [Lifehacker] [The Best Gadgets to Make Parenting Little Kids so Much Easier](https://lifehacker.com/the-best-gadgets-to-make-parenting-little-kids-so-much-1850879745)
-- [Lifehacker] [Dell Is Having a 50% Off Sale on Refurbished Laptops](https://lifehacker.com/dell-is-having-a-50-off-sale-on-refurbished-laptops-1850880524)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Meross Makes the Best Smart Plugs](https://lifehacker.com/meross-makes-the-best-smart-plugs-1850879264)<!-- TECH-POSTS:END -->
 
 ---
 
