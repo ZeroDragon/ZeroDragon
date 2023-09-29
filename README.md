@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;m bad at blogging](https://dev.to/hroney/im-bad-at-blogging-540d)
+- [Dev.to/JS] [🦖 My attempt to make an HTTP client...](https://dev.to/sevapp/my-attempt-to-make-an-http-client-495m)
+- [Lifehacker] [Six Sinks, Ranked by How Easy They Are to Install Yourself](https://lifehacker.com/easiest-sinks-install-1850884571)
+- [Lifehacker] [You Can Finally Preorder Raspberry Pi 5](https://lifehacker.com/how-to-preorder-raspberry-pi-5-1850887192)
 - [Dev.to/JS] [How to implement autocomplete feature in TinyMCE](https://dev.to/tinymce/how-to-implement-autocomplete-feature-in-tinymce-4nb3)
 - [Dev.to/JS] [React Advanced: Manage Server States in the right way](https://dev.to/riktar/react-advanced-manage-server-states-in-the-right-way-2740)
 - [Dev.to/JS] [What is destructuring](https://dev.to/khamal22/what-is-destructuring-35on)
@@ -45,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Inquiry-Based Learning to Stay Curious About What You’re Studying](https://lifehacker.com/use-inquiry-based-learning-to-stay-curious-about-what-y-1850885326)
 - [Lifehacker] [The 25 Best Science Fiction and Fantasy Movies on Netflix](https://lifehacker.com/the-best-science-fiction-and-fantasy-movies-on-netflix-1850881836)
 - [Dev.to/JS] [Building doxshare[0]: The beginning](https://dev.to/shaancodes/building-doxshare0-the-beginning-55h2)
-- [Dev.to/JS] [Phase 1 FlatIron](https://dev.to/mariov/phase-1-flatiron-5946)
-- [Dev.to/JS] [Optimizing Next.js Performance with Code Splitting and Dynamic Imports](https://dev.to/rupadana/optimizing-nextjs-performance-with-code-splitting-and-dynamic-imports-2hhl)
 - [Lifehacker] [Fall Is the Perfect Time to Repair the Mortar on Your Walkways](https://lifehacker.com/fall-is-the-perfect-time-to-repair-the-mortar-on-your-w-1850884311)
 - [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
 - [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Three Best Kitchen Countertops to Install Yourself](https://lifehacker.com/the-best-kitchen-countertops-to-install-yourself-1850880923)
 - [Lifehacker] [How to Rejuvenate the Soil in Your Raised Garden Beds](https://lifehacker.com/how-to-rejuvenate-soil-in-raised-garden-beds-1850882749)
 - [Lifehacker] [Make Super Smooth Mashed Potatoes With a Fine Mesh Strainer](https://lifehacker.com/how-to-make-mashed-potatoes-without-lumps-1850883812)
-- [Lifehacker] [You Can Finally Use iCloud Keychain in Google Chrome](https://lifehacker.com/you-can-finally-use-icloud-keychain-in-google-chrome-1850883588)
-- [Lifehacker] [Where to Stream the Oregon Vs. Stanford Game](https://lifehacker.com/where-to-stream-the-oregon-vs-stanford-game-1850883655)
-- [Lifehacker] [Where to Stream the Penn State Vs. Northwestern Game](https://lifehacker.com/where-to-stream-the-penn-state-vs-northwestern-game-1850882748)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Use iCloud Keychain in Google Chrome](https://lifehacker.com/you-can-finally-use-icloud-keychain-in-google-chrome-1850883588)<!-- TECH-POSTS:END -->
 
 ---
 
