@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What it means for Modulo to be an &quot;HTML framework&quot; first, and why that makes it simpler and more powerful](https://dev.to/michaelpb/what-it-means-for-modulo-to-be-an-html-framework-first-and-why-that-makes-it-simpler-and-more-powerful-3dnh)
+- [Dev.to/JS] [Web5: How to Query Records by Protocol Path](https://dev.to/tbdevs/web5-how-to-query-records-by-protocol-path-1g6h)
+- [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
+- [Lifehacker] [How to Deep Clean Your Kitchen Cabinets](https://lifehacker.com/how-to-deep-clean-your-kitchen-cabinets-1850887869)
 - [Dev.to/JS] [The Garbage Collector Myth: A Reflection on Web App Memory Efficiency and Corporate Structure](https://dev.to/vipert/the-garbage-collector-myth-a-reflection-on-web-app-memory-efficiency-and-corporate-structure-3ho6)
 - [Dev.to/JS] [Uploading Images in React](https://dev.to/sjamescarter/uploading-images-in-react-3lmb)
 - [Dev.to/JS] [SOLID Principles Series: Understanding the Single Responsibility Principle &lpar;SRP&rpar; in Node.js with TypeScript](https://dev.to/ruben_alapont/solid-principles-series-understanding-the-single-responsibility-principle-srp-in-nodejs-with-typescript-57e8)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s a New Global Entry App for US Customs](https://lifehacker.com/theres-a-new-global-entry-app-for-us-customs-1850887880)
 - [Dev.to/JS] [How to Create a Pie Chart in JavaScript: IPL Winnership](https://dev.to/andreykh/how-to-create-a-pie-chart-in-javascript-ipl-winnership-15lc)
 - [Dev.to/JS] [A better way to communicate with business teams](https://dev.to/opensourcee/a-better-way-to-communicate-with-business-teams-3888)
-- [Dev.to/JS] [5 Ways Bun is just better, than NodeJS](https://dev.to/sriniwas/5-ways-bun-is-just-better-than-nodejs-2an1)
-- [Dev.to/JS] [Demystifying Frontend and Backend Development: A Beginner&#39;s Guide](https://dev.to/aniiket/demystifying-frontend-and-backend-development-a-beginners-guide-2o25)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
 - [Lifehacker] [This &#39;All-in-one&#39; JBL Soundbar Is $81 Right Now](https://lifehacker.com/this-all-in-one-jbl-soundbar-is-81-right-now-1850888300)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
 - [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)
 - [Lifehacker] [Refurbished Apple Watches Are As Cheap As $70 on Woot Today](https://lifehacker.com/refurbished-apple-watches-are-as-cheap-as-70-on-woot-t-1850884670)
-- [Lifehacker] [The Best Ways to Streamline Your Grocery Shopping and Save Money](https://lifehacker.com/the-best-ways-to-streamline-your-grocery-shopping-and-s-1850883509)
-- [Lifehacker] [Try Playing NYT Connections on Paper](https://lifehacker.com/try-playing-nyt-connections-on-paper-1850883755)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for September 29, 2023](https://lifehacker.com/nyt-connections-answer-today-september-29-2023-1850881958)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Streamline Your Grocery Shopping and Save Money](https://lifehacker.com/the-best-ways-to-streamline-your-grocery-shopping-and-s-1850883509)<!-- TECH-POSTS:END -->
 
 ---
 
