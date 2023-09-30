@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Button Hover Animation](https://dev.to/vikas7754/react-button-hover-animation-jfl)
+- [Dev.to/JS] [Step by step on how to setup fabric.js in the next.js app](https://dev.to/ziqinyeow/step-by-step-on-how-to-setup-fabricjs-in-the-nextjs-app-3hi3)
+- [Dev.to/JS] [A new Node.js v20 &lpar;Current&rpar; is now available! 💚](https://dev.to/abin-c/a-new-nodejs-v20-current-is-now-available-2mio)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
 - [Dev.to/JS] [How Do You Experience TypeScript: Iceberg or Icing-Bag?](https://dev.to/oluwatobilobaibuola/how-do-you-experience-typescript-iceberg-or-icing-bag-2eab)
@@ -46,11 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six Sinks, Ranked by How Easy They Are to Install Yourself](https://lifehacker.com/easiest-sinks-install-1850884571)
 - [Lifehacker] [You Can Finally Preorder Raspberry Pi 5](https://lifehacker.com/how-to-preorder-raspberry-pi-5-1850887192)
 - [Dev.to/JS] [How to implement autocomplete feature in TinyMCE](https://dev.to/tinymce/how-to-implement-autocomplete-feature-in-tinymce-4nb3)
-- [Dev.to/JS] [React Advanced: Manage Server States in the right way](https://dev.to/riktar/react-advanced-manage-server-states-in-the-right-way-2740)
-- [Dev.to/JS] [What is destructuring](https://dev.to/khamal22/what-is-destructuring-35on)
 - [Lifehacker] [You Can Actually Trigger Two Shortcuts With the iPhone 15 Pro’s Action Button](https://lifehacker.com/two-shortcuts-iphone-15-pro-action-button-1850886176)
 - [Lifehacker] [Every Thanksgiving Recipe You Can Microwave &lpar;and Those You Can&#39;t&rpar;](https://lifehacker.com/everything-you-can-and-cannot-microwave-on-thanksgiving-1830572421)
-- [Dev.to/JS] [Understanding ReactJS: Solving Web Development Challenges](https://dev.to/codehassanx/understanding-reactjs-solving-web-development-challenges-5ddl)
 - [Lifehacker] [This Three-camera Blink Bundle Is 58% Off Right Now](https://lifehacker.com/this-three-camera-blink-bundle-is-58-off-right-now-1850887133)
 - [Lifehacker] [Cling to That Summer Feeling With This Lemon Stick &#39;Drink&#39;](https://lifehacker.com/cling-to-that-summer-feeling-with-this-lemon-stick-drin-1850887254)
 - [Lifehacker] [Back Up Your Xbox Screenshots and Videos Before Microsoft Deletes Them All](https://lifehacker.com/back-up-your-xbox-screenshots-and-videos-before-microso-1850886074)
