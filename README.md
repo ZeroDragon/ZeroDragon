@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Roadmap to Web Dev Mastery &lpar;Best Resources&rpar;](https://dev.to/codewithshahan/the-roadmap-to-web-dev-mastery-best-resources-2o1m)
+- [Dev.to/JS] [Stop throwing errors like this, do that instead!](https://dev.to/ksawery297/stop-throwing-errors-like-this-do-that-instead-354)
+- [Dev.to/JS] [Casting a Global Net: Mastering Internationalization &lpar;i18n&rpar; in Web Applications](https://dev.to/ishanbagchi/casting-a-global-net-mastering-internationalization-i18n-in-web-applications-2e10)
 - [Dev.to/JS] [Events Handling In JavaScript](https://dev.to/akinnimimanuel/events-handling-in-javascript-440l)
 - [Dev.to/JS] [Day 5 Railway Reservation in js](https://dev.to/devfs/day-5-railway-reservation-1453)
 - [Dev.to/JS] [A step-by-step guide to creating a RESTful API using Node.js and Express, including CRUD operations and authentication](https://dev.to/jaimaldullat/a-step-by-step-guide-to-creating-a-restful-api-using-nodejs-and-express-including-crud-operations-and-authentication-2mo2)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
 - [Dev.to/JS] [Create your own `npm create` CLI like `create vite`](https://dev.to/mikhaelesa/create-your-own-npm-create-cli-like-create-vite-3ig7)
 - [Dev.to/JS] [What it means for Modulo to be an &quot;HTML framework&quot; first, and why that makes it simpler and more powerful](https://dev.to/michaelpb/what-it-means-for-modulo-to-be-an-html-framework-first-and-why-that-makes-it-simpler-and-more-powerful-3dnh)
-- [Dev.to/JS] [JavaScript Location: A Handy Cheatsheet for Web Developers](https://dev.to/speaklouder/javascript-location-a-handy-cheatsheet-for-web-developers-1d8i)
-- [Dev.to/JS] [Web5: How to Query Records by Protocol Path](https://dev.to/tbdevs/web5-how-to-query-records-by-protocol-path-1g6h)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
 - [Lifehacker] [How to Deep Clean Your Kitchen Cabinets](https://lifehacker.com/how-to-deep-clean-your-kitchen-cabinets-1850887869)
-- [Dev.to/JS] [The Garbage Collector Myth: A Reflection on Web App Memory Efficiency and Corporate Structure](https://dev.to/vipert/the-garbage-collector-myth-a-reflection-on-web-app-memory-efficiency-and-corporate-structure-3ho6)
 - [Lifehacker] [There&#39;s a New Global Entry App for US Customs](https://lifehacker.com/theres-a-new-global-entry-app-for-us-customs-1850887880)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
