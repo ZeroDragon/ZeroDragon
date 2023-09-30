@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying TypeScript Generics with Simple Examples](https://dev.to/xanyl/demystifying-typescript-generics-with-simple-examples-3a8l)
 - [Dev.to/JS] [React Button Hover Animation](https://dev.to/vikas7754/react-button-hover-animation-jfl)
 - [Dev.to/JS] [Step by step on how to setup fabric.js in the next.js app](https://dev.to/ziqinyeow/step-by-step-on-how-to-setup-fabricjs-in-the-nextjs-app-3hi3)
 - [Dev.to/JS] [A new Node.js v20 &lpar;Current&rpar; is now available! 💚](https://dev.to/abin-c/a-new-nodejs-v20-current-is-now-available-2mio)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🦖 My attempt to make an HTTP client...](https://dev.to/sevapp/my-attempt-to-make-an-http-client-495m)
 - [Lifehacker] [Six Sinks, Ranked by How Easy They Are to Install Yourself](https://lifehacker.com/easiest-sinks-install-1850884571)
 - [Lifehacker] [You Can Finally Preorder Raspberry Pi 5](https://lifehacker.com/how-to-preorder-raspberry-pi-5-1850887192)
-- [Dev.to/JS] [How to implement autocomplete feature in TinyMCE](https://dev.to/tinymce/how-to-implement-autocomplete-feature-in-tinymce-4nb3)
 - [Lifehacker] [You Can Actually Trigger Two Shortcuts With the iPhone 15 Pro’s Action Button](https://lifehacker.com/two-shortcuts-iphone-15-pro-action-button-1850886176)
 - [Lifehacker] [Every Thanksgiving Recipe You Can Microwave &lpar;and Those You Can&#39;t&rpar;](https://lifehacker.com/everything-you-can-and-cannot-microwave-on-thanksgiving-1830572421)
 - [Lifehacker] [This Three-camera Blink Bundle Is 58% Off Right Now](https://lifehacker.com/this-three-camera-blink-bundle-is-58-off-right-now-1850887133)
