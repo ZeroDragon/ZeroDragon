@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering React.js: Top 20 Interview Questions You Need to Know](https://dev.to/arafatweb/mastering-reactjs-top-20-interview-questions-you-need-to-know-4dk2)
+- [Dev.to/JS] [Latest Newsletter: Bitcoin Butterfly &lpar;Issue #134&rpar;](https://dev.to/mjgs/latest-newsletter-bitcoin-butterfly-issue-134-1fo0)
+- [Dev.to/JS] [Send email confirmation in Strapi](https://dev.to/huylv/send-email-confirmation-in-strapi-4anh)
 - [Dev.to/JS] [ALTER 26&quot; 002S MODEL CYCLE | Alter Bikes](https://dev.to/alterbikes/alter-26-002s-model-cycle-alter-bikes-35e9)
 - [Dev.to/JS] [10 Best Tools and Practices for Boosting Code Quality in Node.js](https://dev.to/smitthakkar/10-best-tools-and-practices-for-boosting-code-quality-in-nodejs-4kde)
 - [Dev.to/JS] [How to Create a Chat App With Bun Using WebSockets](https://dev.to/eneaslari/how-to-create-a-chat-app-with-bun-using-websockets-40jn)
@@ -41,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why It’s Still Worth It to Wire Your House for Ethernet](https://lifehacker.com/is-ethernet-still-worth-it-1850887111)
 - [Lifehacker] [Why a Pawn Shop Is Better Than a Payday Loan in an Emergency](https://lifehacker.com/why-a-pawn-shop-is-better-than-a-payday-loan-in-an-emer-1850886664)
 - [Dev.to/JS] [Coisas triviais &lpar;talvez nem tanto&rpar; que melhoram o código](https://dev.to/luigiss97/coisas-triviais-talvez-nem-tanto-que-melhoram-o-codigo-3hli)
-- [Dev.to/JS] [Remix + Trigger.dev: Match made in Heaven](https://dev.to/shafspecs/remix-triggerdev-match-made-in-heaven-51n1)
-- [Dev.to/JS] [LAB -3 Adding new Features to the Tool.](https://dev.to/sshah135/lab-3-adding-new-features-to-the-tool-c4d)
 - [Lifehacker] [The iPhone 15 Pro Max Is Apple’s Most Boring Phone Yet](https://lifehacker.com/iphone-15-pro-max-review-1850887664)
 - [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
-- [Dev.to/JS] [Demystifying Hoisting in JavaScript](https://dev.to/arindam_1729/demystifying-hoisting-in-javascript-3ja4)
 - [Lifehacker] [Everything You Need to Know About the Fitbit Charge 6](https://lifehacker.com/fitbit-charge-6-review-1850887582)
 - [Lifehacker] [Six Sinks, Ranked by How Easy They Are to Install Yourself](https://lifehacker.com/easiest-sinks-install-1850884571)
 - [Lifehacker] [You Can Finally Preorder Raspberry Pi 5](https://lifehacker.com/how-to-preorder-raspberry-pi-5-1850887192)
