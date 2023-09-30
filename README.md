@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [American Airlines Name Change: A Complete Guide](https://dev.to/skyledavid/american-airlines-name-change-a-complete-guide-3mpm)
+- [Dev.to/JS] [Exploring Next.js: The React Framework for Modern Web Development](https://dev.to/codehassanx/exploring-nextjs-the-react-framework-for-modern-web-development-4hob)
 - [Dev.to/JS] [Flaco - Personal multipage theme](https://dev.to/lexingtonthemes/flaco-personal-multipage-theme-2fjg)
 - [Dev.to/JS] [Optimising Architectural Excellence: Must-Have Tools for Success!](https://dev.to/dr_anks/optimising-architectural-excellence-must-have-tools-for-success-1m3b)
 - [Dev.to/JS] [Exploring React&#39;s Data Retrieval Methods](https://dev.to/mursalfk/exploring-reacts-data-retrieval-methods-82e)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Best Tools and Practices for Boosting Code Quality in Node.js](https://dev.to/smitthakkar/10-best-tools-and-practices-for-boosting-code-quality-in-nodejs-4kde)
 - [Dev.to/JS] [How to Create a Chat App With Bun Using WebSockets](https://dev.to/eneaslari/how-to-create-a-chat-app-with-bun-using-websockets-40jn)
 - [Dev.to/JS] [Demystifying TypeScript Generics with Simple Examples](https://dev.to/xanyl/demystifying-typescript-generics-with-simple-examples-3a8l)
-- [Dev.to/JS] [React Button Hover Animation](https://dev.to/vikas7754/react-button-hover-animation-jfl)
-- [Dev.to/JS] [Step by step on how to setup fabric.js in the next.js app](https://dev.to/ziqinyeow/step-by-step-on-how-to-setup-fabricjs-in-the-nextjs-app-3hi3)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
 - [Lifehacker] [This &#39;All-in-one&#39; JBL Soundbar Is $81 Right Now](https://lifehacker.com/this-all-in-one-jbl-soundbar-is-81-right-now-1850888300)
