@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BitArray &amp; SetFixed &lpar;JS&rpar; are awesome for compression or drawing | 250 K Booleans =&gt; 31 kB](https://dev.to/vipert/bitarray-setfixed-js-are-awesome-for-compression-or-drawing-250-k-booleans-31-kb-lg7)
+- [Dev.to/JS] [How to enable the new control flow or defer block in the Angular v17.0.0-next.6?](https://dev.to/madhust/how-to-enable-the-new-control-flow-or-defer-block-in-the-angular-v1700-next6-l6n)
+- [Dev.to/JS] [How to Build a File Explorer using Xata and Vue.js](https://dev.to/moerayo/how-to-build-a-file-explorer-using-xata-and-vuejs-585i)
+- [Dev.to/JS] [Angular — New Control flow with a working example](https://dev.to/madhust/angular-new-control-flow-with-a-working-example-i48)
+- [Dev.to/JS] [Using Compact Mode with Aex v0.18.0](https://dev.to/610470416/using-compact-mode-with-aex-v0180-52ei)
+- [Lifehacker] [There&#39;s a New Global Entry App for US Customs](https://lifehacker.com/theres-a-new-global-entry-app-for-us-customs-1850887880)
 - [Dev.to/JS] [How to Create a Pie Chart in JavaScript: IPL Winnership](https://dev.to/andreykh/how-to-create-a-pie-chart-in-javascript-ipl-winnership-15lc)
 - [Dev.to/JS] [A better way to communicate with business teams](https://dev.to/opensourcee/a-better-way-to-communicate-with-business-teams-3888)
-- [Dev.to/JS] [SEO Services in Mumbai](https://dev.to/apexseo/seo-services-in-mumbai-4c7l)
 - [Dev.to/JS] [5 Ways Bun is just better, than NodeJS](https://dev.to/sriniwas/5-ways-bun-is-just-better-than-nodejs-2an1)
 - [Dev.to/JS] [Demystifying Frontend and Backend Development: A Beginner&#39;s Guide](https://dev.to/aniiket/demystifying-frontend-and-backend-development-a-beginners-guide-2o25)
 - [Dev.to/JS] [&lpar;help&rpar;Deploy Nest.js Application to Vercel](https://dev.to/alexander6/helpdeploy-nestjs-application-to-vercel-4j91)
 - [Dev.to/JS] [Copy Commands Online Tool](https://dev.to/mrjeanmichell/copy-commands-online-tool-18g5)
 - [Dev.to/JS] [American Airlines Name Change: A Complete Guide](https://dev.to/skyledavid/american-airlines-name-change-a-complete-guide-3mpm)
-- [Dev.to/JS] [Exploring Next.js: The React Framework for Modern Web Development](https://dev.to/codehassanx/exploring-nextjs-the-react-framework-for-modern-web-development-4hob)
-- [Dev.to/JS] [Flaco - Personal multipage theme](https://dev.to/lexingtonthemes/flaco-personal-multipage-theme-2fjg)
-- [Dev.to/JS] [Optimising Architectural Excellence: Must-Have Tools for Success!](https://dev.to/dr_anks/optimising-architectural-excellence-must-have-tools-for-success-1m3b)
-- [Dev.to/JS] [Exploring React&#39;s Data Retrieval Methods](https://dev.to/mursalfk/exploring-reacts-data-retrieval-methods-82e)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
 - [Lifehacker] [This &#39;All-in-one&#39; JBL Soundbar Is $81 Right Now](https://lifehacker.com/this-all-in-one-jbl-soundbar-is-81-right-now-1850888300)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Refurbished Apple Watches Are As Cheap As $70 on Woot Today](https://lifehacker.com/refurbished-apple-watches-are-as-cheap-as-70-on-woot-t-1850884670)
 - [Lifehacker] [The Best Ways to Streamline Your Grocery Shopping and Save Money](https://lifehacker.com/the-best-ways-to-streamline-your-grocery-shopping-and-s-1850883509)
 - [Lifehacker] [Try Playing NYT Connections on Paper](https://lifehacker.com/try-playing-nyt-connections-on-paper-1850883755)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for September 29, 2023](https://lifehacker.com/nyt-connections-answer-today-september-29-2023-1850881958)
-- [Lifehacker] [Where to Stream the Iowa State Vs. Oklahoma Game](https://lifehacker.com/where-to-stream-the-iowa-state-vs-oklahoma-game-1850884575)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for September 29, 2023](https://lifehacker.com/nyt-connections-answer-today-september-29-2023-1850881958)<!-- TECH-POSTS:END -->
 
 ---
 
