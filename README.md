@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Events Handling In JavaScript](https://dev.to/akinnimimanuel/events-handling-in-javascript-440l)
 - [Dev.to/JS] [Day 5 Railway Reservation in js](https://dev.to/devfs/day-5-railway-reservation-1453)
 - [Dev.to/JS] [A step-by-step guide to creating a RESTful API using Node.js and Express, including CRUD operations and authentication](https://dev.to/jaimaldullat/a-step-by-step-guide-to-creating-a-restful-api-using-nodejs-and-express-including-crud-operations-and-authentication-2mo2)
 - [Dev.to/JS] [Revolutionizing Homework with Homeworkify: Your Ultimate AI Homework Helper](https://dev.to/mediarayek/revolutionizing-homework-with-homeworkify-your-ultimate-ai-homework-helper-3a24)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
 - [Lifehacker] [How to Deep Clean Your Kitchen Cabinets](https://lifehacker.com/how-to-deep-clean-your-kitchen-cabinets-1850887869)
 - [Dev.to/JS] [The Garbage Collector Myth: A Reflection on Web App Memory Efficiency and Corporate Structure](https://dev.to/vipert/the-garbage-collector-myth-a-reflection-on-web-app-memory-efficiency-and-corporate-structure-3ho6)
-- [Dev.to/JS] [Uploading Images in React](https://dev.to/sjamescarter/uploading-images-in-react-3lmb)
 - [Lifehacker] [There&#39;s a New Global Entry App for US Customs](https://lifehacker.com/theres-a-new-global-entry-app-for-us-customs-1850887880)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
