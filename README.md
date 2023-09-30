@@ -28,6 +28,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [The Roadmap to Web Dev Mastery &lpar;Best Resources&rpar;](https://dev.to/codewithshahan/the-roadmap-to-web-dev-mastery-best-resources-2o1m)
 - [Dev.to/JS] [Stop throwing errors like this, do that instead!](https://dev.to/ksawery297/stop-throwing-errors-like-this-do-that-instead-354)
+- [Dev.to/JS] [Cheerio &amp; ChatGPT: A Primer on Web Scraping with Node.js](https://dev.to/bytebricks/cheerio-chatgpt-a-primer-on-web-scraping-with-nodejs-4klf)
 - [Dev.to/JS] [Casting a Global Net: Mastering Internationalization &lpar;i18n&rpar; in Web Applications](https://dev.to/ishanbagchi/casting-a-global-net-mastering-internationalization-i18n-in-web-applications-2e10)
 - [Dev.to/JS] [Events Handling In JavaScript](https://dev.to/akinnimimanuel/events-handling-in-javascript-440l)
 - [Dev.to/JS] [Day 5 Railway Reservation in js](https://dev.to/devfs/day-5-railway-reservation-1453)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Friendship ended with Webpack, now ESBuild is my best friend](https://dev.to/inosrahul/friendship-ended-with-webpack-now-esbuild-is-my-best-friend-5b4n)
 - [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
 - [Dev.to/JS] [Create your own `npm create` CLI like `create vite`](https://dev.to/mikhaelesa/create-your-own-npm-create-cli-like-create-vite-3ig7)
-- [Dev.to/JS] [What it means for Modulo to be an &quot;HTML framework&quot; first, and why that makes it simpler and more powerful](https://dev.to/michaelpb/what-it-means-for-modulo-to-be-an-html-framework-first-and-why-that-makes-it-simpler-and-more-powerful-3dnh)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
 - [Lifehacker] [How to Deep Clean Your Kitchen Cabinets](https://lifehacker.com/how-to-deep-clean-your-kitchen-cabinets-1850887869)
 - [Lifehacker] [There&#39;s a New Global Entry App for US Customs](https://lifehacker.com/theres-a-new-global-entry-app-for-us-customs-1850887880)
