@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Pie Chart in JavaScript: IPL Winnership](https://dev.to/andreykh/how-to-create-a-pie-chart-in-javascript-ipl-winnership-15lc)
+- [Dev.to/JS] [A better way to communicate with business teams](https://dev.to/opensourcee/a-better-way-to-communicate-with-business-teams-3888)
+- [Dev.to/JS] [SEO Services in Mumbai](https://dev.to/apexseo/seo-services-in-mumbai-4c7l)
 - [Dev.to/JS] [5 Ways Bun is just better, than NodeJS](https://dev.to/sriniwas/5-ways-bun-is-just-better-than-nodejs-2an1)
 - [Dev.to/JS] [Demystifying Frontend and Backend Development: A Beginner&#39;s Guide](https://dev.to/aniiket/demystifying-frontend-and-backend-development-a-beginners-guide-2o25)
 - [Dev.to/JS] [&lpar;help&rpar;Deploy Nest.js Application to Vercel](https://dev.to/alexander6/helpdeploy-nestjs-application-to-vercel-4j91)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flaco - Personal multipage theme](https://dev.to/lexingtonthemes/flaco-personal-multipage-theme-2fjg)
 - [Dev.to/JS] [Optimising Architectural Excellence: Must-Have Tools for Success!](https://dev.to/dr_anks/optimising-architectural-excellence-must-have-tools-for-success-1m3b)
 - [Dev.to/JS] [Exploring React&#39;s Data Retrieval Methods](https://dev.to/mursalfk/exploring-reacts-data-retrieval-methods-82e)
-- [Dev.to/JS] [Mastering React.js: Top 20 Interview Questions You Need to Know](https://dev.to/arafatweb/mastering-reactjs-top-20-interview-questions-you-need-to-know-4dk2)
-- [Dev.to/JS] [Latest Newsletter: Bitcoin Butterfly &lpar;Issue #134&rpar;](https://dev.to/mjgs/latest-newsletter-bitcoin-butterfly-issue-134-1fo0)
-- [Dev.to/JS] [Send email confirmation in Strapi](https://dev.to/huylv/send-email-confirmation-in-strapi-4anh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
 - [Lifehacker] [This &#39;All-in-one&#39; JBL Soundbar Is $81 Right Now](https://lifehacker.com/this-all-in-one-jbl-soundbar-is-81-right-now-1850888300)
