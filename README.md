@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ALTER 26&quot; 002S MODEL CYCLE | Alter Bikes](https://dev.to/alterbikes/alter-26-002s-model-cycle-alter-bikes-35e9)
+- [Dev.to/JS] [10 Best Tools and Practices for Boosting Code Quality in Node.js](https://dev.to/smitthakkar/10-best-tools-and-practices-for-boosting-code-quality-in-nodejs-4kde)
+- [Dev.to/JS] [How to Create a Chat App With Bun Using WebSockets](https://dev.to/eneaslari/how-to-create-a-chat-app-with-bun-using-websockets-40jn)
 - [Dev.to/JS] [Demystifying TypeScript Generics with Simple Examples](https://dev.to/xanyl/demystifying-typescript-generics-with-simple-examples-3a8l)
 - [Dev.to/JS] [React Button Hover Animation](https://dev.to/vikas7754/react-button-hover-animation-jfl)
 - [Dev.to/JS] [Step by step on how to setup fabric.js in the next.js app](https://dev.to/ziqinyeow/step-by-step-on-how-to-setup-fabricjs-in-the-nextjs-app-3hi3)
@@ -43,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The iPhone 15 Pro Max Is Apple’s Most Boring Phone Yet](https://lifehacker.com/iphone-15-pro-max-review-1850887664)
 - [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
 - [Dev.to/JS] [Demystifying Hoisting in JavaScript](https://dev.to/arindam_1729/demystifying-hoisting-in-javascript-3ja4)
-- [Dev.to/JS] [Tuto: Setup a Svelte project using esbuild](https://dev.to/barim/tuto-setup-a-svelte-project-using-esbuild-1jmg)
 - [Lifehacker] [Everything You Need to Know About the Fitbit Charge 6](https://lifehacker.com/fitbit-charge-6-review-1850887582)
-- [Dev.to/JS] [I&#39;m bad at blogging](https://dev.to/hroney/im-bad-at-blogging-540d)
-- [Dev.to/JS] [🦖 My attempt to make an HTTP client...](https://dev.to/sevapp/my-attempt-to-make-an-http-client-495m)
 - [Lifehacker] [Six Sinks, Ranked by How Easy They Are to Install Yourself](https://lifehacker.com/easiest-sinks-install-1850884571)
 - [Lifehacker] [You Can Finally Preorder Raspberry Pi 5](https://lifehacker.com/how-to-preorder-raspberry-pi-5-1850887192)
 - [Lifehacker] [You Can Actually Trigger Two Shortcuts With the iPhone 15 Pro’s Action Button](https://lifehacker.com/two-shortcuts-iphone-15-pro-action-button-1850886176)
