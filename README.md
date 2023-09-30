@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Revolutionizing Homework with Homeworkify: Your Ultimate AI Homework Helper](https://dev.to/mediarayek/revolutionizing-homework-with-homeworkify-your-ultimate-ai-homework-helper-3a24)
+- [Dev.to/JS] [Beginner&#39;s Guide to Creating a Simple CRUD Application with React and IndexedDB](https://dev.to/mr_emma/beginners-guide-to-creating-a-simple-crud-application-with-react-and-indexeddb-iid)
+- [Dev.to/JS] [JavaScript comparison that never lies](https://dev.to/spanarin/javascript-comparison-that-never-lies-17ji)
+- [Dev.to/JS] [Friendship ended with Webpack, now ESBuild is my best friend](https://dev.to/inosrahul/friendship-ended-with-webpack-now-esbuild-is-my-best-friend-5b4n)
+- [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
 - [Dev.to/JS] [Create your own `npm create` CLI like `create vite`](https://dev.to/mikhaelesa/create-your-own-npm-create-cli-like-create-vite-3ig7)
 - [Dev.to/JS] [What it means for Modulo to be an &quot;HTML framework&quot; first, and why that makes it simpler and more powerful](https://dev.to/michaelpb/what-it-means-for-modulo-to-be-an-html-framework-first-and-why-that-makes-it-simpler-and-more-powerful-3dnh)
 - [Dev.to/JS] [Web5: How to Query Records by Protocol Path](https://dev.to/tbdevs/web5-how-to-query-records-by-protocol-path-1g6h)
@@ -36,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SOLID Principles Series: Understanding the Single Responsibility Principle &lpar;SRP&rpar; in Node.js with TypeScript](https://dev.to/ruben_alapont/solid-principles-series-understanding-the-single-responsibility-principle-srp-in-nodejs-with-typescript-57e8)
 - [Dev.to/JS] [BitArray &amp; SetFixed &lpar;JS&rpar; are awesome for compression or drawing | 250 K Booleans =&gt; 31 kB](https://dev.to/vipert/bitarray-setfixed-js-are-awesome-for-compression-or-drawing-250-k-booleans-31-kb-lg7)
 - [Dev.to/JS] [How to enable the new control flow or defer block in the Angular v17.0.0-next.6?](https://dev.to/madhust/how-to-enable-the-new-control-flow-or-defer-block-in-the-angular-v1700-next6-l6n)
-- [Dev.to/JS] [How to Build a File Explorer using Xata and Vue.js](https://dev.to/moerayo/how-to-build-a-file-explorer-using-xata-and-vuejs-585i)
-- [Dev.to/JS] [Angular — New Control flow with a working example](https://dev.to/madhust/angular-new-control-flow-with-a-working-example-i48)
-- [Dev.to/JS] [Using Compact Mode with Aex v0.18.0](https://dev.to/610470416/using-compact-mode-with-aex-v0180-52ei)
 - [Lifehacker] [There&#39;s a New Global Entry App for US Customs](https://lifehacker.com/theres-a-new-global-entry-app-for-us-customs-1850887880)
-- [Dev.to/JS] [How to Create a Pie Chart in JavaScript: IPL Winnership](https://dev.to/andreykh/how-to-create-a-pie-chart-in-javascript-ipl-winnership-15lc)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
 - [Lifehacker] [This &#39;All-in-one&#39; JBL Soundbar Is $81 Right Now](https://lifehacker.com/this-all-in-one-jbl-soundbar-is-81-right-now-1850888300)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fall Is the Perfect Time to Repair the Mortar on Your Walkways](https://lifehacker.com/fall-is-the-perfect-time-to-repair-the-mortar-on-your-w-1850884311)
 - [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
 - [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)
-- [Lifehacker] [Refurbished Apple Watches Are As Cheap As $70 on Woot Today](https://lifehacker.com/refurbished-apple-watches-are-as-cheap-as-70-on-woot-t-1850884670)
-- [Lifehacker] [The Best Ways to Streamline Your Grocery Shopping and Save Money](https://lifehacker.com/the-best-ways-to-streamline-your-grocery-shopping-and-s-1850883509)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Refurbished Apple Watches Are As Cheap As $70 on Woot Today](https://lifehacker.com/refurbished-apple-watches-are-as-cheap-as-70-on-woot-t-1850884670)<!-- TECH-POSTS:END -->
 
 ---
 
