@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create your own `npm create` CLI like `create vite`](https://dev.to/mikhaelesa/create-your-own-npm-create-cli-like-create-vite-3ig7)
 - [Dev.to/JS] [What it means for Modulo to be an &quot;HTML framework&quot; first, and why that makes it simpler and more powerful](https://dev.to/michaelpb/what-it-means-for-modulo-to-be-an-html-framework-first-and-why-that-makes-it-simpler-and-more-powerful-3dnh)
 - [Dev.to/JS] [Web5: How to Query Records by Protocol Path](https://dev.to/tbdevs/web5-how-to-query-records-by-protocol-path-1g6h)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Compact Mode with Aex v0.18.0](https://dev.to/610470416/using-compact-mode-with-aex-v0180-52ei)
 - [Lifehacker] [There&#39;s a New Global Entry App for US Customs](https://lifehacker.com/theres-a-new-global-entry-app-for-us-customs-1850887880)
 - [Dev.to/JS] [How to Create a Pie Chart in JavaScript: IPL Winnership](https://dev.to/andreykh/how-to-create-a-pie-chart-in-javascript-ipl-winnership-15lc)
-- [Dev.to/JS] [A better way to communicate with business teams](https://dev.to/opensourcee/a-better-way-to-communicate-with-business-teams-3888)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
 - [Lifehacker] [This &#39;All-in-one&#39; JBL Soundbar Is $81 Right Now](https://lifehacker.com/this-all-in-one-jbl-soundbar-is-81-right-now-1850888300)
