@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flaco - Personal multipage theme](https://dev.to/lexingtonthemes/flaco-personal-multipage-theme-2fjg)
+- [Dev.to/JS] [Optimising Architectural Excellence: Must-Have Tools for Success!](https://dev.to/dr_anks/optimising-architectural-excellence-must-have-tools-for-success-1m3b)
+- [Dev.to/JS] [Exploring React&#39;s Data Retrieval Methods](https://dev.to/mursalfk/exploring-reacts-data-retrieval-methods-82e)
 - [Dev.to/JS] [Mastering React.js: Top 20 Interview Questions You Need to Know](https://dev.to/arafatweb/mastering-reactjs-top-20-interview-questions-you-need-to-know-4dk2)
 - [Dev.to/JS] [Latest Newsletter: Bitcoin Butterfly &lpar;Issue #134&rpar;](https://dev.to/mjgs/latest-newsletter-bitcoin-butterfly-issue-134-1fo0)
 - [Dev.to/JS] [Send email confirmation in Strapi](https://dev.to/huylv/send-email-confirmation-in-strapi-4anh)
@@ -35,15 +38,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying TypeScript Generics with Simple Examples](https://dev.to/xanyl/demystifying-typescript-generics-with-simple-examples-3a8l)
 - [Dev.to/JS] [React Button Hover Animation](https://dev.to/vikas7754/react-button-hover-animation-jfl)
 - [Dev.to/JS] [Step by step on how to setup fabric.js in the next.js app](https://dev.to/ziqinyeow/step-by-step-on-how-to-setup-fabricjs-in-the-nextjs-app-3hi3)
-- [Dev.to/JS] [A new Node.js v20 &lpar;Current&rpar; is now available! 💚](https://dev.to/abin-c/a-new-nodejs-v20-current-is-now-available-2mio)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
-- [Dev.to/JS] [How Do You Experience TypeScript: Iceberg or Icing-Bag?](https://dev.to/oluwatobilobaibuola/how-do-you-experience-typescript-iceberg-or-icing-bag-2eab)
 - [Lifehacker] [This &#39;All-in-one&#39; JBL Soundbar Is $81 Right Now](https://lifehacker.com/this-all-in-one-jbl-soundbar-is-81-right-now-1850888300)
 - [Lifehacker] [How to Choose Between the Meta Quest 2, Apple Vision Pro, and Vive Pro 2](https://lifehacker.com/meta-quest-3-vc-apple-vision-pro-vs-vive-pro-2-1850887857)
 - [Lifehacker] [Why It’s Still Worth It to Wire Your House for Ethernet](https://lifehacker.com/is-ethernet-still-worth-it-1850887111)
 - [Lifehacker] [Why a Pawn Shop Is Better Than a Payday Loan in an Emergency](https://lifehacker.com/why-a-pawn-shop-is-better-than-a-payday-loan-in-an-emer-1850886664)
-- [Dev.to/JS] [Coisas triviais &lpar;talvez nem tanto&rpar; que melhoram o código](https://dev.to/luigiss97/coisas-triviais-talvez-nem-tanto-que-melhoram-o-codigo-3hli)
 - [Lifehacker] [The iPhone 15 Pro Max Is Apple’s Most Boring Phone Yet](https://lifehacker.com/iphone-15-pro-max-review-1850887664)
 - [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
 - [Lifehacker] [Everything You Need to Know About the Fitbit Charge 6](https://lifehacker.com/fitbit-charge-6-review-1850887582)
