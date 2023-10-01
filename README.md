@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Firebase Authentication and Private Route System in a React App](https://dev.to/jps27cse/building-a-firebase-authentication-and-private-route-system-in-a-react-app-5203)
+- [Dev.to/JS] [Mastering the Art of Software Design: Unveiling the Power of Design Patterns](https://dev.to/dr_anks/mastering-the-art-of-software-design-unveiling-the-power-of-design-patterns-3f30)
+- [Dev.to/JS] [Exploring Fast Tech Stacks for Building MVP Apps](https://dev.to/jackynote/exploring-fast-tech-stacks-for-building-mvp-apps-ekd)
 - [Dev.to/JS] [Developing a Powerful Alert System Using React Context API](https://dev.to/mohammadfaisal/developing-a-powerful-alert-system-using-react-context-api-4f6a)
 - [Dev.to/JS] [Weekly Dev Findings 7](https://dev.to/potykion/dev-findings-7-2gom)
 - [Dev.to/JS] [My prepared repositories for hacktoberfest 23 - any contributions are welcomed 🚀](https://dev.to/jankapunkt/my-prepared-repositories-for-hacktoberfest-23-any-contributions-are-welcomed-5el4)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing Image Loading for Lightning-Fast Performance in NEXT.js](https://dev.to/devantoniorogers/optimizing-image-loading-for-lightning-fast-performance-in-nextjs-533i)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 1, 2023](https://lifehacker.com/nyt-connections-answer-today-october-1-2023-1850886727)
 - [Dev.to/JS] [The Roadmap to Web Dev Mastery &lpar;Best Resources&rpar;](https://dev.to/codewithshahan/the-roadmap-to-web-dev-mastery-best-resources-2o1m)
-- [Dev.to/JS] [Stop throwing errors like this, do that instead!](https://dev.to/ksawery297/stop-throwing-errors-like-this-do-that-instead-354)
-- [Dev.to/JS] [Cheerio &amp; ChatGPT: A Primer on Web Scraping with Node.js](https://dev.to/bytebricks/cheerio-chatgpt-a-primer-on-web-scraping-with-nodejs-4klf)
-- [Dev.to/JS] [Casting a Global Net: Mastering Internationalization &lpar;i18n&rpar; in Web Applications](https://dev.to/ishanbagchi/casting-a-global-net-mastering-internationalization-i18n-in-web-applications-2e10)
 - [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
 - [Lifehacker] [How to Deep Clean Your Kitchen Cabinets](https://lifehacker.com/how-to-deep-clean-your-kitchen-cabinets-1850887869)
