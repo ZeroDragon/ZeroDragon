@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Single Responsibility Principle in React](https://dev.to/mikhaelesa/single-responsibility-principle-in-react-10oc)
+- [Dev.to/JS] [How to Fix “react-scripts is not recognized as an internal or external command” Error](https://dev.to/reactjsguru/how-to-fix-react-scripts-is-not-recognized-as-an-internal-or-external-command-error-2a0m)
 - [Dev.to/JS] [What is &quot;VirtualizedLists should never be nested inside plain ScrollViews&quot; in React Native?](https://dev.to/krishna121996/what-is-virtualizedlists-should-never-be-nested-inside-plain-scrollviews-in-react-native-3g66)
 - [Dev.to/JS] [Client-side data storage with IndexedDB](https://dev.to/michthebrandofficial/client-side-data-storage-with-indexeddb-4k5p)
 - [Dev.to/JS] [Optimizing Image Loading for Lightning-Fast Performance in NEXT.js](https://dev.to/devantoniorogers/optimizing-image-loading-for-lightning-fast-performance-in-nextjs-533i)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Events Handling In JavaScript](https://dev.to/akinnimimanuel/events-handling-in-javascript-440l)
 - [Dev.to/JS] [Decorator Pattern through Ice Cream](https://dev.to/tomasforsman/understanding-the-decorator-pattern-with-a-simple-ice-cream-example-2c7b)
 - [Dev.to/JS] [Day 5 Railway Reservation in js](https://dev.to/devfs/day-5-railway-reservation-1453)
-- [Dev.to/JS] [A step-by-step guide to creating a RESTful API using Node.js and Express, including CRUD operations and authentication](https://dev.to/jaimaldullat/a-step-by-step-guide-to-creating-a-restful-api-using-nodejs-and-express-including-crud-operations-and-authentication-2mo2)
-- [Dev.to/JS] [Revolutionizing Homework with Homeworkify: Your Ultimate AI Homework Helper](https://dev.to/mediarayek/revolutionizing-homework-with-homeworkify-your-ultimate-ai-homework-helper-3a24)
 - [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
 - [Lifehacker] [How to Deep Clean Your Kitchen Cabinets](https://lifehacker.com/how-to-deep-clean-your-kitchen-cabinets-1850887869)
