@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding Clean Popups: The Power of the &lt;dialog&gt; HTML Element](https://dev.to/joxx/coding-clean-popups-the-power-of-the-html-element-31hj)
+- [Dev.to/JS] [Understanding Bun.js: A Modern JavaScript Bundler](https://dev.to/riyajathahamed/understanding-bunjs-a-modern-javascript-bundler-2gie)
+- [Dev.to/JS] [Using Supabase as a database and image store with Strapi CMS.](https://dev.to/reggi/using-supabase-as-a-database-and-image-store-with-strapi-cms-2kkk)
+- [Dev.to/JS] [What is Web OTP, and which benefits do it provide to users?](https://dev.to/patik123/what-is-web-otp-and-which-benefits-do-it-provide-to-users-4h1f)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 - [Dev.to/JS] [Daniel: The Prologue](https://dev.to/dkbosei/daniel-the-prologue-104g)
 - [Dev.to/JS] [react form validation with Formik and Yup](https://dev.to/zeeshanmustfai/react-form-validation-with-formik-and-yup-4m6l)
@@ -37,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Include Alpine.js in a production environment](https://dev.to/aggregata/include-alpinejs-in-a-production-environment-5a1m)
 - [Lifehacker] [You Should Clean Your Sink&#39;s Overflow Hole](https://lifehacker.com/you-should-clean-your-sinks-overflow-hole-1850888031)
 - [Dev.to/JS] [How to display Webflow form Success message into Netlify with 6 easy steps](https://dev.to/azizqamar7/how-to-display-webflow-form-success-message-into-netlify-with-6-easy-steps-11l0)
-- [Dev.to/JS] [6 frontend tools for you](https://dev.to/opensourcee/6-frontend-utilities-for-you-1iim)
-- [Dev.to/JS] [Do you know these frontend tools?](https://dev.to/opensourcee/curated-list-of-frontend-utilities-6-3ggo)
-- [Dev.to/JS] [Build apps and sites with these tools](https://dev.to/opensourcee/curated-list-of-frontend-utilities-5-38b4)
-- [Dev.to/JS] [Free tools for frontend](https://dev.to/opensourcee/curated-list-of-frontend-utilities-4-484n)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 1, 2023](https://lifehacker.com/nyt-connections-answer-today-october-1-2023-1850886727)
 - [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
