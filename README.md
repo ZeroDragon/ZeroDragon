@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamic Refs in Vue3 The Right Way](https://dev.to/walidov/dynamic-refs-in-vue3-the-right-way-229k)
+- [Dev.to/JS] [Curated list of frontend utilities &lpar;1&rpar;](https://dev.to/opensourcee/curated-list-of-frontend-utilities-40mk)
+- [Dev.to/JS] [Introduction to variables](https://dev.to/las/introduction-to-variables-2pbf)
 - [Dev.to/JS] [How to Set Dynamic Property Keys with ES6 ?](https://dev.to/speaklouder/how-to-set-dynamic-property-keys-with-es6--3b3e)
+- [Dev.to/JS] [ES6 - how to Clone an Array By Nilesh](https://dev.to/speaklouder/es6-way-to-clone-an-array-28n4)
 - [Dev.to/JS] [Hire Wise – Multipage Job platform](https://dev.to/lexingtonthemes/hire-wise-multipage-job-platform-253d)
+- [Dev.to/JS] [🤔How to Check if Object is Empty in JavaScript](https://dev.to/speaklouder/how-to-check-if-object-is-empty-in-javascript-41o9)
 - [Dev.to/JS] [Building a Firebase Authentication and Private Route System in a React App](https://dev.to/jps27cse/building-a-firebase-authentication-and-private-route-system-in-a-react-app-5203)
 - [Dev.to/JS] [Mastering the Art of Software Design: Unveiling the Power of Design Patterns](https://dev.to/dr_anks/mastering-the-art-of-software-design-unveiling-the-power-of-design-patterns-3f30)
 - [Dev.to/JS] [Exploring Fast Tech Stacks for Building MVP Apps](https://dev.to/jackynote/exploring-fast-tech-stacks-for-building-mvp-apps-ekd)
 - [Dev.to/JS] [Developing a Powerful Alert System Using React Context API](https://dev.to/mohammadfaisal/developing-a-powerful-alert-system-using-react-context-api-4f6a)
 - [Dev.to/JS] [Weekly Dev Findings 7](https://dev.to/potykion/dev-findings-7-2gom)
-- [Dev.to/JS] [My prepared repositories for hacktoberfest 23 - any contributions are welcomed 🚀](https://dev.to/jankapunkt/my-prepared-repositories-for-hacktoberfest-23-any-contributions-are-welcomed-5el4)
-- [Dev.to/JS] [Single Responsibility Principle in React](https://dev.to/mikhaelesa/single-responsibility-principle-in-react-10oc)
-- [Dev.to/JS] [How to Fix “react-scripts is not recognized as an internal or external command” Error](https://dev.to/reactjsguru/how-to-fix-react-scripts-is-not-recognized-as-an-internal-or-external-command-error-2a0m)
-- [Dev.to/JS] [What is &quot;VirtualizedLists should never be nested inside plain ScrollViews&quot; in React Native?](https://dev.to/krishna121996/what-is-virtualizedlists-should-never-be-nested-inside-plain-scrollviews-in-react-native-3g66)
-- [Dev.to/JS] [Client-side data storage with IndexedDB](https://dev.to/michthebrandofficial/client-side-data-storage-with-indexeddb-4k5p)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 1, 2023](https://lifehacker.com/nyt-connections-answer-today-october-1-2023-1850886727)
 - [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
