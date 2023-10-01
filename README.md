@@ -26,20 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Serverless development with Amplify Studio](https://dev.to/aws-heroes/serverless-development-with-amplify-studio-1fkp)
+- [Dev.to/JS] [Building Session-Enabled Applications with Deno: A Step-by-Step Tutorial](https://dev.to/franciscomendes10866/demystifying-full-stack-with-deno-a-session-enabled-application-guide-3hi)
+- [Dev.to/JS] [How I Built My Single-Page React.js Web App.](https://dev.to/kande/how-i-built-my-single-page-reactjs-web-app-1emc)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
 - [Dev.to/JS] [React Dev Tools extension defect?](https://dev.to/hairlessuncle/react-dev-tools-extension-defect-6ig)
 - [Dev.to/JS] [Include Alpine.js in a production environment](https://dev.to/aggregata/include-alpinejs-in-a-production-environment-5a1m)
 - [Lifehacker] [You Should Clean Your Sink&#39;s Overflow Hole](https://lifehacker.com/you-should-clean-your-sinks-overflow-hole-1850888031)
 - [Dev.to/JS] [How to display Webflow form Success message into Netlify with 6 easy steps](https://dev.to/azizqamar7/how-to-display-webflow-form-success-message-into-netlify-with-6-easy-steps-11l0)
-- [Dev.to/JS] [&lpar;Wizard James Recovery&rpar;Reliable Recovery Agency!!!](https://dev.to/frankb34/wizard-james-recoveryreliable-recovery-agency-59p0)
 - [Dev.to/JS] [6 frontend tools for you](https://dev.to/opensourcee/6-frontend-utilities-for-you-1iim)
 - [Dev.to/JS] [Do you know these frontend tools?](https://dev.to/opensourcee/curated-list-of-frontend-utilities-6-3ggo)
 - [Dev.to/JS] [Build apps and sites with these tools](https://dev.to/opensourcee/curated-list-of-frontend-utilities-5-38b4)
 - [Dev.to/JS] [Free tools for frontend](https://dev.to/opensourcee/curated-list-of-frontend-utilities-4-484n)
 - [Dev.to/JS] [💌 Safe message sending script in Telegram with just 49 lines of code? Really?](https://dev.to/sevapp/safe-message-sending-script-in-telegram-with-just-49-lines-of-code-really-18jf)
 - [Dev.to/JS] [Open source for frontend](https://dev.to/opensourcee/curated-list-of-frontend-utilities-3-lpm)
-- [Dev.to/JS] [A selection of frontend tools](https://dev.to/opensourcee/curated-list-of-frontend-utilities-2-138b)
-- [Dev.to/JS] [Dynamic Refs in Vue3 The Right Way](https://dev.to/walidov/dynamic-refs-in-vue3-the-right-way-229k)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 1, 2023](https://lifehacker.com/nyt-connections-answer-today-october-1-2023-1850886727)
 - [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
