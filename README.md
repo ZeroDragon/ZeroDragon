@@ -26,11 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 1, 2023](https://lifehacker.com/nyt-connections-answer-today-october-1-2023-1850886727)
 - [Dev.to/JS] [The Roadmap to Web Dev Mastery &lpar;Best Resources&rpar;](https://dev.to/codewithshahan/the-roadmap-to-web-dev-mastery-best-resources-2o1m)
 - [Dev.to/JS] [Stop throwing errors like this, do that instead!](https://dev.to/ksawery297/stop-throwing-errors-like-this-do-that-instead-354)
 - [Dev.to/JS] [Cheerio &amp; ChatGPT: A Primer on Web Scraping with Node.js](https://dev.to/bytebricks/cheerio-chatgpt-a-primer-on-web-scraping-with-nodejs-4klf)
 - [Dev.to/JS] [Casting a Global Net: Mastering Internationalization &lpar;i18n&rpar; in Web Applications](https://dev.to/ishanbagchi/casting-a-global-net-mastering-internationalization-i18n-in-web-applications-2e10)
 - [Dev.to/JS] [Events Handling In JavaScript](https://dev.to/akinnimimanuel/events-handling-in-javascript-440l)
+- [Dev.to/JS] [Decorator Pattern through Ice Cream](https://dev.to/tomasforsman/understanding-the-decorator-pattern-with-a-simple-ice-cream-example-2c7b)
 - [Dev.to/JS] [Day 5 Railway Reservation in js](https://dev.to/devfs/day-5-railway-reservation-1453)
 - [Dev.to/JS] [A step-by-step guide to creating a RESTful API using Node.js and Express, including CRUD operations and authentication](https://dev.to/jaimaldullat/a-step-by-step-guide-to-creating-a-restful-api-using-nodejs-and-express-including-crud-operations-and-authentication-2mo2)
 - [Dev.to/JS] [Revolutionizing Homework with Homeworkify: Your Ultimate AI Homework Helper](https://dev.to/mediarayek/revolutionizing-homework-with-homeworkify-your-ultimate-ai-homework-helper-3a24)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript comparison that never lies](https://dev.to/spanarin/javascript-comparison-that-never-lies-17ji)
 - [Dev.to/JS] [Friendship ended with Webpack, now ESBuild is my best friend](https://dev.to/inosrahul/friendship-ended-with-webpack-now-esbuild-is-my-best-friend-5b4n)
 - [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
-- [Dev.to/JS] [Create your own `npm create` CLI like `create vite`](https://dev.to/mikhaelesa/create-your-own-npm-create-cli-like-create-vite-3ig7)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
 - [Lifehacker] [How to Deep Clean Your Kitchen Cabinets](https://lifehacker.com/how-to-deep-clean-your-kitchen-cabinets-1850887869)
 - [Lifehacker] [There&#39;s a New Global Entry App for US Customs](https://lifehacker.com/theres-a-new-global-entry-app-for-us-customs-1850887880)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 25 Best Science Fiction and Fantasy Movies on Netflix](https://lifehacker.com/the-best-science-fiction-and-fantasy-movies-on-netflix-1850881836)
 - [Lifehacker] [Fall Is the Perfect Time to Repair the Mortar on Your Walkways](https://lifehacker.com/fall-is-the-perfect-time-to-repair-the-mortar-on-your-w-1850884311)
 - [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
-- [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)
-- [Lifehacker] [Refurbished Apple Watches Are As Cheap As $70 on Woot Today](https://lifehacker.com/refurbished-apple-watches-are-as-cheap-as-70-on-woot-t-1850884670)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)<!-- TECH-POSTS:END -->
 
 ---
 
