@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developing a Powerful Alert System Using React Context API](https://dev.to/mohammadfaisal/developing-a-powerful-alert-system-using-react-context-api-4f6a)
+- [Dev.to/JS] [Weekly Dev Findings 7](https://dev.to/potykion/dev-findings-7-2gom)
+- [Dev.to/JS] [My prepared repositories for hacktoberfest 23 - any contributions are welcomed 🚀](https://dev.to/jankapunkt/my-prepared-repositories-for-hacktoberfest-23-any-contributions-are-welcomed-5el4)
 - [Dev.to/JS] [Single Responsibility Principle in React](https://dev.to/mikhaelesa/single-responsibility-principle-in-react-10oc)
 - [Dev.to/JS] [How to Fix “react-scripts is not recognized as an internal or external command” Error](https://dev.to/reactjsguru/how-to-fix-react-scripts-is-not-recognized-as-an-internal-or-external-command-error-2a0m)
 - [Dev.to/JS] [What is &quot;VirtualizedLists should never be nested inside plain ScrollViews&quot; in React Native?](https://dev.to/krishna121996/what-is-virtualizedlists-should-never-be-nested-inside-plain-scrollviews-in-react-native-3g66)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stop throwing errors like this, do that instead!](https://dev.to/ksawery297/stop-throwing-errors-like-this-do-that-instead-354)
 - [Dev.to/JS] [Cheerio &amp; ChatGPT: A Primer on Web Scraping with Node.js](https://dev.to/bytebricks/cheerio-chatgpt-a-primer-on-web-scraping-with-nodejs-4klf)
 - [Dev.to/JS] [Casting a Global Net: Mastering Internationalization &lpar;i18n&rpar; in Web Applications](https://dev.to/ishanbagchi/casting-a-global-net-mastering-internationalization-i18n-in-web-applications-2e10)
-- [Dev.to/JS] [Events Handling In JavaScript](https://dev.to/akinnimimanuel/events-handling-in-javascript-440l)
-- [Dev.to/JS] [Decorator Pattern through Ice Cream](https://dev.to/tomasforsman/understanding-the-decorator-pattern-with-a-simple-ice-cream-example-2c7b)
-- [Dev.to/JS] [Day 5 Railway Reservation in js](https://dev.to/devfs/day-5-railway-reservation-1453)
 - [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
 - [Lifehacker] [How to Deep Clean Your Kitchen Cabinets](https://lifehacker.com/how-to-deep-clean-your-kitchen-cabinets-1850887869)
