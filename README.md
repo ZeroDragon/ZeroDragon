@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TF #17 | Your weekly frontend digest](https://dev.to/tech_foutraque/tf-17-your-weekly-frontend-digest-19ko)
+- [Dev.to/JS] [Using Fetch Requests to Update a JSON Database Without Creating Duplicate Database Entries](https://dev.to/jimgrimes86/using-fetch-requests-to-update-a-json-database-without-creating-duplicate-database-entries-4l8a)
+- [Dev.to/JS] [Intro to Machine Learning](https://dev.to/gfish94/intro-to-machine-learning-52kd)
+- [Dev.to/JS] [Terminal Shortcuts and Aliases](https://dev.to/jshep23prog/terminal-shortcuts-and-aliases-240b)
 - [Dev.to/JS] [Python Programming Essentials: Your Ultimate Interview Prep Guide](https://dev.to/dinvstr/python-programming-essentials-your-ultimate-interview-prep-guide-9cb)
 - [Dev.to/JS] [Web Design Wonderland: 10 Portfolio Inspirations to Elevate Your Site 🚀](https://dev.to/jrud25/web-design-wonderland-10-portfolio-inspirations-to-elevate-your-site-4bmg)
 - [Dev.to/JS] [Step-by-Step Guide: Creating Your First React App](https://dev.to/shadmirza/step-by-step-guide-creating-your-first-react-app-4fa0)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular — Deferred Loading using defer block — What you need to know](https://dev.to/madhust/angular-deferred-loading-using-defer-block-what-you-need-to-know-49b9)
 - [Dev.to/JS] [Coding Clean Popups: The Power of the &lt;dialog&gt; HTML Element](https://dev.to/joxx/coding-clean-popups-the-power-of-the-html-element-31hj)
 - [Dev.to/JS] [Understanding Bun.js: A Modern JavaScript Bundler](https://dev.to/riyajathahamed/understanding-bunjs-a-modern-javascript-bundler-2gie)
-- [Dev.to/JS] [Using Supabase as a database and image store with Strapi CMS.](https://dev.to/reggi/using-supabase-as-a-database-and-image-store-with-strapi-cms-2kkk)
-- [Dev.to/JS] [What is Web OTP, and which benefits do it provide to users?](https://dev.to/patik123/what-is-web-otp-and-which-benefits-do-it-provide-to-users-4h1f)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
-- [Dev.to/JS] [Daniel: The Prologue](https://dev.to/dkbosei/daniel-the-prologue-104g)
-- [Dev.to/JS] [react form validation with Formik and Yup](https://dev.to/zeeshanmustfai/react-form-validation-with-formik-and-yup-4m6l)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
 - [Lifehacker] [You Should Clean Your Sink&#39;s Overflow Hole](https://lifehacker.com/you-should-clean-your-sinks-overflow-hole-1850888031)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 1, 2023](https://lifehacker.com/nyt-connections-answer-today-october-1-2023-1850886727)
