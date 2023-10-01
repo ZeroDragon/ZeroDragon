@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
+- [Dev.to/JS] [Daniel: The Prologue](https://dev.to/dkbosei/daniel-the-prologue-104g)
+- [Dev.to/JS] [react form validation with Formik and Yup](https://dev.to/zeeshanmustfai/react-form-validation-with-formik-and-yup-4m6l)
 - [Dev.to/JS] [Serverless development with Amplify Studio](https://dev.to/aws-heroes/serverless-development-with-amplify-studio-1fkp)
 - [Dev.to/JS] [Building Session-Enabled Applications with Deno: A Step-by-Step Tutorial](https://dev.to/franciscomendes10866/demystifying-full-stack-with-deno-a-session-enabled-application-guide-3hi)
 - [Dev.to/JS] [How I Built My Single-Page React.js Web App.](https://dev.to/kande/how-i-built-my-single-page-reactjs-web-app-1emc)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do you know these frontend tools?](https://dev.to/opensourcee/curated-list-of-frontend-utilities-6-3ggo)
 - [Dev.to/JS] [Build apps and sites with these tools](https://dev.to/opensourcee/curated-list-of-frontend-utilities-5-38b4)
 - [Dev.to/JS] [Free tools for frontend](https://dev.to/opensourcee/curated-list-of-frontend-utilities-4-484n)
-- [Dev.to/JS] [💌 Safe message sending script in Telegram with just 49 lines of code? Really?](https://dev.to/sevapp/safe-message-sending-script-in-telegram-with-just-49-lines-of-code-really-18jf)
-- [Dev.to/JS] [Open source for frontend](https://dev.to/opensourcee/curated-list-of-frontend-utilities-3-lpm)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 1, 2023](https://lifehacker.com/nyt-connections-answer-today-october-1-2023-1850886727)
 - [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Signs of Poor Interoception in Kids](https://lifehacker.com/these-are-the-signs-of-poor-interoception-in-kids-1850884972)
 - [Lifehacker] [Use &#39;Think, Pair, Share&#39; for Effective Group Studying](https://lifehacker.com/use-think-pair-share-for-effective-group-studying-1850885376)
 - [Lifehacker] [Use Inquiry-Based Learning to Stay Curious About What You’re Studying](https://lifehacker.com/use-inquiry-based-learning-to-stay-curious-about-what-y-1850885326)
-- [Lifehacker] [The 25 Best Science Fiction and Fantasy Movies on Netflix](https://lifehacker.com/the-best-science-fiction-and-fantasy-movies-on-netflix-1850881836)
-- [Lifehacker] [Fall Is the Perfect Time to Repair the Mortar on Your Walkways](https://lifehacker.com/fall-is-the-perfect-time-to-repair-the-mortar-on-your-w-1850884311)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 25 Best Science Fiction and Fantasy Movies on Netflix](https://lifehacker.com/the-best-science-fiction-and-fantasy-movies-on-netflix-1850881836)<!-- TECH-POSTS:END -->
 
 ---
 
