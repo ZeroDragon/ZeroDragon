@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Include Alpine.js in a production environment](https://dev.to/aggregata/include-alpinejs-in-a-production-environment-5a1m)
+- [Lifehacker] [You Should Clean Your Sink&#39;s Overflow Hole](https://lifehacker.com/you-should-clean-your-sinks-overflow-hole-1850888031)
 - [Dev.to/JS] [How to display Webflow form Success message into Netlify with 6 easy steps](https://dev.to/azizqamar7/how-to-display-webflow-form-success-message-into-netlify-with-6-easy-steps-11l0)
 - [Dev.to/JS] [&lpar;Wizard James Recovery&rpar;Reliable Recovery Agency!!!](https://dev.to/frankb34/wizard-james-recoveryreliable-recovery-agency-59p0)
 - [Dev.to/JS] [6 frontend utilities for you](https://dev.to/opensourcee/6-frontend-utilities-for-you-1iim)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A selection of frontend techs](https://dev.to/opensourcee/curated-list-of-frontend-utilities-2-138b)
 - [Dev.to/JS] [Dynamic Refs in Vue3 The Right Way](https://dev.to/walidov/dynamic-refs-in-vue3-the-right-way-229k)
 - [Dev.to/JS] [No-code low-code frontend utilities](https://dev.to/opensourcee/curated-list-of-frontend-utilities-40mk)
-- [Dev.to/JS] [Introduction to variables](https://dev.to/las/introduction-to-variables-2pbf)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 1, 2023](https://lifehacker.com/nyt-connections-answer-today-october-1-2023-1850886727)
 - [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
 - [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Inquiry-Based Learning to Stay Curious About What You’re Studying](https://lifehacker.com/use-inquiry-based-learning-to-stay-curious-about-what-y-1850885326)
 - [Lifehacker] [The 25 Best Science Fiction and Fantasy Movies on Netflix](https://lifehacker.com/the-best-science-fiction-and-fantasy-movies-on-netflix-1850881836)
 - [Lifehacker] [Fall Is the Perfect Time to Repair the Mortar on Your Walkways](https://lifehacker.com/fall-is-the-perfect-time-to-repair-the-mortar-on-your-w-1850884311)
-- [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)
-- [Lifehacker] [Where to Stream the Tennessee Vs. South Carolina Game](https://lifehacker.com/where-to-stream-the-tennessee-vs-south-carolina-game-1850884935)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Air Fried Key Lime Pie Is So Easy, It Feels Like Cheating](https://lifehacker.com/this-air-fried-key-lime-pie-is-so-easy-it-feels-like-c-1850871411)<!-- TECH-POSTS:END -->
 
 ---
 
