@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first Introduction on Dev Community !](https://dev.to/rsai12/my-first-introduction-on-dev-community--c62)
+- [Dev.to/JS] [Integrate GrowthBook with Your React App](https://dev.to/saloniagrawal/integrate-growthbook-with-your-react-app-4pdp)
+- [Lifehacker] [These Blink Security Cameras Are Up to 60% Off](https://lifehacker.com/these-blink-security-cameras-are-up-to-60-off-1850892027)
+- [Dev.to/JS] [In progress Developer](https://dev.to/josemelendez430/in-progress-developer-2nob)
+- [Dev.to/JS] [⚛️ Full Stack Amazon Clone with Next.js, Typescript, Tailwind CSS, Zustand, Next UI, Recharts and Amplication 🚀](https://dev.to/koolkishan/full-stack-amazon-clone-with-nextjs-typescript-tailwind-css-zustand-next-ui-recharts-and-amplication-1h89)
+- [Lifehacker] [Use This Checklist to Declutter Your Digital Life](https://lifehacker.com/use-this-checklist-to-declutter-your-digital-life-1850891990)
+- [Dev.to/JS] [TIPS ON: The Garbage Collector Myth: A Reflection on Web App Memory Efficiency and Corporate Structure &lpar;2/2&rpar;](https://dev.to/vipert/tips-on-the-garbage-collector-myth-a-reflection-on-web-app-memory-efficiency-and-corporate-structure-22-16h3)
+- [Dev.to/JS] [Day 6 Basics of Web application](https://dev.to/devfs/day-6-basics-of-web-application-2jbh)
+- [Dev.to/JS] [Getting Started with JavaScript: The Basics](https://dev.to/aadyaasrivastava/getting-started-with-javascript-the-basics-4900)
 - [Lifehacker] [You Can Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
 - [Lifehacker] [This 6-in-1 inCharge X Max Charging Cable Is $19 Right Now](https://lifehacker.com/this-6-in-1-incharge-x-max-charging-cable-is-19-right-1850872485)
 - [Dev.to/JS] [Chart your code and dive into Hacktoberfest 2023](https://dev.to/opensourcee/chart-your-code-and-dive-into-hacktoberfest-2023-2n02)
@@ -34,15 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open-Source Contribution Dilemma? Hacktoberfest 2023 Has Your Back!](https://dev.to/opensourcee/open-source-contribution-dilemma-hacktoberfest-2023-has-your-back-8gc)
 - [Lifehacker] [The Best Study and Time Management Apps for College Students](https://lifehacker.com/best-study-apps-for-college-students-1850888147)
 - [Dev.to/JS] [ANGULAR INJECT FUNCTION](https://dev.to/maurizio8788/angular-inject-function-5cia)
-- [Dev.to/JS] [Need of React ?](https://dev.to/afii/need-of-react--5fcm)
-- [Dev.to/JS] [Developers, Hacktoberfest 2023 is Here!](https://dev.to/opensourcee/developers-hacktoberfest-2023-is-here-219f)
-- [Dev.to/JS] [GraphQL: A Paradigm Shift in API Design 🚀](https://dev.to/bhavesh_yadav/graphql-a-paradigm-shift-in-api-design-3mo9)
-- [Dev.to/JS] [Tricking Dependabot to have multiple configs for one package ecosystem](https://dev.to/mellis481/tricking-dependabot-to-have-multiple-configs-for-one-package-ecosystem-5b5g)
 - [Lifehacker] [Why You Should Switch From Google Authenticator to iCloud Keychain](https://lifehacker.com/why-you-should-switch-from-google-authenticator-to-iclo-1850891304)
 - [Lifehacker] [12 of the Best New Podcasts This Fall](https://lifehacker.com/12-of-the-best-new-podcasts-this-fall-1850889624)
-- [Dev.to/JS] [Mastering JavaScript Array Methods: Your Ultimate Guide](https://dev.to/jaimaldullat/mastering-javascript-array-methods-your-ultimate-guide-661)
-- [Dev.to/JS] [What is this ExpressJS thing all about?!](https://dev.to/kycodee/what-is-this-expressjs-thing-all-about-3266)
-- [Dev.to/JS] [Day 59: Multimedia Tags](https://dev.to/dhrn/day-59-multimedia-tags-542h)
 - [Lifehacker] [What People Are Getting Wrong This Week: NFL Misinformation](https://lifehacker.com/what-people-are-getting-wrong-this-week-nfl-misinforma-1850888774)
 - [Lifehacker] [This Refurbished 16GB Lenovo Tab 4 Is $75 Right Now](https://lifehacker.com/this-refurbished-16gb-lenovo-tab-4-is-75-right-now-1850867001)
 - [Lifehacker] [Don’t Prune These Bushes in the Fall](https://lifehacker.com/bushes-to-prune-in-fall-1850887331)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why It’s Still Worth It to Wire Your House for Ethernet](https://lifehacker.com/is-ethernet-still-worth-it-1850887111)
 - [Lifehacker] [Why a Pawn Shop Is Better Than a Payday Loan in an Emergency](https://lifehacker.com/why-a-pawn-shop-is-better-than-a-payday-loan-in-an-emer-1850886664)
 - [Lifehacker] [The iPhone 15 Pro Max Is Apple’s Most Boring Phone Yet](https://lifehacker.com/iphone-15-pro-max-review-1850887664)
-- [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
-- [Lifehacker] [Everything You Need to Know About the Fitbit Charge 6](https://lifehacker.com/fitbit-charge-6-review-1850887582)
-- [Lifehacker] [Six Sinks, Ranked by How Easy They Are to Install Yourself](https://lifehacker.com/easiest-sinks-install-1850884571)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)<!-- TECH-POSTS:END -->
 
 ---
 
