@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript Array Methods: Your Ultimate Guide](https://dev.to/jaimaldullat/mastering-javascript-array-methods-your-ultimate-guide-661)
+- [Dev.to/JS] [What is this ExpressJS thing all about?!](https://dev.to/kycodee/what-is-this-expressjs-thing-all-about-3266)
+- [Dev.to/JS] [Day 59: Multimedia Tags](https://dev.to/dhrn/day-59-multimedia-tags-542h)
+- [Lifehacker] [What People Are Getting Wrong This Week: NFL Misinformation](https://lifehacker.com/what-people-are-getting-wrong-this-week-nfl-misinforma-1850888774)
+- [Dev.to/JS] [Building a Real-Time Location Sharing App with React, Socket.io, and Leaflet](https://dev.to/manishmehra/building-a-real-time-location-sharing-app-with-react-socketio-and-leaflet-236l)
+- [Dev.to/JS] [How to Use Momentum Scrolling, Image Parallax Animation, and Scroll Midway Fixed Display | somefolk from London](https://dev.to/portfoliotechnics/how-to-use-momentum-scrolling-image-parallax-animation-and-scroll-midway-fixed-display-somefolk-from-london-269h)
+- [Dev.to/JS] [Dev. Principles: Orthogonality📚](https://dev.to/frjr17/dev-principles-orthogonality-1gka)
 - [Lifehacker] [This Refurbished 16GB Lenovo Tab 4 Is $75 Right Now](https://lifehacker.com/this-refurbished-16gb-lenovo-tab-4-is-75-right-now-1850867001)
 - [Dev.to/JS] [Nuxt 3 build configuration. Generate dynamic routes and sitemap in SSR](https://dev.to/kucherol/nuxt-3-build-configuration-generate-dynamic-routes-and-sitemap-in-ssr-3i4l)
 - [Lifehacker] [Don’t Prune These Bushes in the Fall](https://lifehacker.com/bushes-to-prune-in-fall-1850887331)
@@ -35,12 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Bootstrap Autocomplete and Auto Class Suggestor Intellisense Extension for VSCode 2023](https://dev.to/noobmahbub/best-bootstrap-autocomplete-and-auto-class-suggestor-intellisense-extension-for-vscode-2023-1oa9)
 - [Dev.to/JS] [Choosing Between Class and Functional Components in React: When to Use Each](https://dev.to/the2minengineer/choosing-between-class-and-functional-components-in-react-when-to-use-each-46en)
 - [Dev.to/JS] [Display a modal using Vue and its Teleport component](https://dev.to/capsulescodes/how-to-display-a-modal-using-vue-and-its-teleport-component-3e45)
-- [Dev.to/JS] [Deploy Vue.js Project dari GitHub ke Cloudflare Gratis: Panduan Sederhana](https://dev.to/welldyrosman/deploy-vuejs-project-dari-github-ke-cloudflare-gratis-panduan-sederhana-jgh)
-- [Dev.to/JS] [This Is The Weirdest JavaScript Operator 🤯](https://dev.to/taquiimam14/this-is-the-weirdest-javascript-operator-1d01)
-- [Dev.to/JS] [How Networks Work: Exploring the Fundamentals of Switches, Routers, DNS, DHCP, NAT, VPN, and More](https://dev.to/kaushit/how-networks-work-exploring-the-fundamentals-of-switches-routers-dns-dhcp-nat-vpn-and-more-33d1)
-- [Dev.to/JS] [Super Store – E-Commerce Multipage Theme](https://dev.to/lexingtonthemes/super-store-e-commerce-multipage-theme-opj)
-- [Dev.to/JS] [How React Forget will make React useMemo and useCallback hooks absolutely redundant](https://dev.to/usulpro/how-react-forget-will-make-react-usememo-and-usecallback-hooks-absolutely-redundant-4l68)
-- [Dev.to/JS] [Using URL to store state in Vue](https://dev.to/jacobandrewsky/using-url-to-store-state-in-vue-275c)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Actually Trigger Two Shortcuts With the iPhone 15 Pro’s Action Button](https://lifehacker.com/two-shortcuts-iphone-15-pro-action-button-1850886176)
 - [Lifehacker] [Every Thanksgiving Recipe You Can Microwave &lpar;and Those You Can&#39;t&rpar;](https://lifehacker.com/everything-you-can-and-cannot-microwave-on-thanksgiving-1830572421)
 - [Lifehacker] [This Three-camera Blink Bundle Is 58% Off Right Now](https://lifehacker.com/this-three-camera-blink-bundle-is-58-off-right-now-1850887133)
-- [Lifehacker] [Cling to That Summer Feeling With This Lemon Stick &#39;Drink&#39;](https://lifehacker.com/cling-to-that-summer-feeling-with-this-lemon-stick-drin-1850887254)
-- [Lifehacker] [Back Up Your Xbox Screenshots and Videos Before Microsoft Deletes Them All](https://lifehacker.com/back-up-your-xbox-screenshots-and-videos-before-microso-1850886074)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Cling to That Summer Feeling With This Lemon Stick &#39;Drink&#39;](https://lifehacker.com/cling-to-that-summer-feeling-with-this-lemon-stick-drin-1850887254)<!-- TECH-POSTS:END -->
 
 ---
 
