@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Feature flags in Angular](https://dev.to/jstnjs/feature-flags-in-angular-4kb0)
+- [Lifehacker] [The Best Way to Get Your Kids to Actually Listen](https://lifehacker.com/the-best-way-to-get-your-kids-to-actually-listen-1850892285)
+- [Lifehacker] [You Can Use ‘SMART’ Goals for Studying Too](https://lifehacker.com/use-smart-goals-to-study-more-effectively-1850892313)
 - [Dev.to/JS] [Smooth Landing page using Html CSS JavaScript](https://dev.to/codewithtop/smooth-landing-page-using-html-css-javascript-43bj)
 - [Lifehacker] [Meredith&#39;s Training Diary: Running Slower Than You Think You Should](https://lifehacker.com/merediths-training-diary-running-slower-than-you-think-1850886568)
 - [Lifehacker] [You Can Get $30 Free to Spend During Amazon Prime Big Deal Days](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 6-in-1 inCharge X Max Charging Cable Is $19 Right Now](https://lifehacker.com/this-6-in-1-incharge-x-max-charging-cable-is-19-right-1850872485)
 - [Dev.to/JS] [Chart your code and dive into Hacktoberfest 2023](https://dev.to/opensourcee/chart-your-code-and-dive-into-hacktoberfest-2023-2n02)
 - [Dev.to/JS] [Hacktoberfest 2023: bring your best and join the club](https://dev.to/opensourcee/hacktoberfest-2023-bring-your-best-and-join-the-club-3b5g)
-- [Dev.to/JS] [Transform your Open-Source journey](https://dev.to/opensourcee/transform-your-open-source-journey-31h6)
 - [Lifehacker] [The Best Study and Time Management Apps for College Students](https://lifehacker.com/best-study-apps-for-college-students-1850888147)
 - [Lifehacker] [Why You Should Switch From Google Authenticator to iCloud Keychain](https://lifehacker.com/why-you-should-switch-from-google-authenticator-to-iclo-1850891304)
 - [Lifehacker] [12 of the Best New Podcasts This Fall](https://lifehacker.com/12-of-the-best-new-podcasts-this-fall-1850889624)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
 - [Lifehacker] [This &#39;All-in-one&#39; JBL Soundbar Is $81 Right Now](https://lifehacker.com/this-all-in-one-jbl-soundbar-is-81-right-now-1850888300)
-- [Lifehacker] [How to Choose Between the Meta Quest 3, Apple Vision Pro, and Vive Pro 2](https://lifehacker.com/meta-quest-3-vc-apple-vision-pro-vs-vive-pro-2-1850887857)
-- [Lifehacker] [Why It’s Still Worth It to Wire Your House for Ethernet](https://lifehacker.com/is-ethernet-still-worth-it-1850887111)
-- [Lifehacker] [Why a Pawn Shop Is Better Than a Payday Loan in an Emergency](https://lifehacker.com/why-a-pawn-shop-is-better-than-a-payday-loan-in-an-emer-1850886664)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose Between the Meta Quest 3, Apple Vision Pro, and Vive Pro 2](https://lifehacker.com/meta-quest-3-vc-apple-vision-pro-vs-vive-pro-2-1850887857)<!-- TECH-POSTS:END -->
 
 ---
 
