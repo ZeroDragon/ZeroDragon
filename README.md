@@ -26,8 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Refurbished iPad Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-is-240-right-now-1850877949)
+- [Dev.to/JS] [Progressive Web Apps definition, Pros and Cons, and how to convert an existing React App into a PWA](https://dev.to/alaa-m1/progressive-web-apps-definition-pros-and-cons-and-how-to-convert-an-existing-react-app-into-a-pwa-1m9d)
+- [Dev.to/JS] [O Futuro do Desenvolvimento Web: Node.js vs Bun](https://dev.to/fransborges/o-futuro-do-desenvolvimento-web-nodejs-vs-bun-1hk2)
+- [Lifehacker] [These Sales Are Target’s Answer to Prime Big Deal Days](https://lifehacker.com/target-circle-week-deals-during-prime-day-1850892740)
+- [Lifehacker] [How to Set Price Alerts for Amazon Prime Big Deal Days](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
+- [Dev.to/JS] [CRYPTOCURRENCY RECOVERY IS REAL](https://dev.to/garciakat01/cryptocurrency-recovery-is-real-553h)
+- [Dev.to/JS] [Don&#39;t use Nest.js](https://dev.to/akibrk/dont-use-nestjs-473b)
+- [Lifehacker] [This iOS 17 Setting Almost Revives 3D Touch on Your iPhone](https://lifehacker.com/speed-up-haptic-touch-ios-17-1850891591)
 - [Dev.to/JS] [Unlock the Digital World: Web Development for Beginners Guide](https://dev.to/jcodes5/unlock-the-digital-world-web-development-for-beginners-guide-4n2j)
 - [Lifehacker] [This 13-In-1 HDMI and USB Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-hdmi-and-usb-docking-station-is-50-right-1850877897)
+- [Lifehacker] [Don&#39;t Miss These October Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441)
 - [Dev.to/JS] [Feature flags in Angular](https://dev.to/jstnjs/feature-flags-in-angular-4kb0)
 - [Lifehacker] [How to Watch Google&#39;s Pixel 8 Event](https://lifehacker.com/stream-google-pixel-8-event-1850892543)
 - [Lifehacker] [The Best Way to Get Your Kids to Actually Listen](https://lifehacker.com/the-best-way-to-get-your-kids-to-actually-listen-1850892285)
@@ -42,12 +51,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [In progress Developer](https://dev.to/josemelendez430/in-progress-developer-2nob)
 - [Dev.to/JS] [⚛️ Full Stack Amazon Clone with Next.js, Typescript, Tailwind CSS, Zustand, Next UI, Recharts and Amplication 🚀](https://dev.to/koolkishan/full-stack-amazon-clone-with-nextjs-typescript-tailwind-css-zustand-next-ui-recharts-and-amplication-1h89)
 - [Lifehacker] [Use This Checklist to Declutter Your Digital Life](https://lifehacker.com/use-this-checklist-to-declutter-your-digital-life-1850891990)
-- [Dev.to/JS] [TIPS ON: The Garbage Collector Myth: A Reflection on Web App Memory Efficiency and Corporate Structure &lpar;2/2&rpar;](https://dev.to/vipert/tips-on-the-garbage-collector-myth-a-reflection-on-web-app-memory-efficiency-and-corporate-structure-22-16h3)
-- [Dev.to/JS] [Day 6 Basics of Web application](https://dev.to/devfs/day-6-basics-of-web-application-2jbh)
-- [Dev.to/JS] [Getting Started with JavaScript: The Basics](https://dev.to/aadyaasrivastava/getting-started-with-javascript-the-basics-4900)
 - [Lifehacker] [You Can Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
 - [Lifehacker] [This 6-in-1 inCharge X Max Charging Cable Is $19 Right Now](https://lifehacker.com/this-6-in-1-incharge-x-max-charging-cable-is-19-right-1850872485)
-- [Dev.to/JS] [Chart your code and dive into Hacktoberfest 2023](https://dev.to/opensourcee/chart-your-code-and-dive-into-hacktoberfest-2023-2n02)
 - [Lifehacker] [The Best Study and Time Management Apps for College Students](https://lifehacker.com/best-study-apps-for-college-students-1850888147)
 - [Lifehacker] [Why You Should Switch From Google Authenticator to iCloud Keychain](https://lifehacker.com/why-you-should-switch-from-google-authenticator-to-iclo-1850891304)
 - [Lifehacker] [12 of the Best New Podcasts This Fall](https://lifehacker.com/12-of-the-best-new-podcasts-this-fall-1850889624)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
 - [Lifehacker] [You Should Clean Your Sink&#39;s Overflow Hole](https://lifehacker.com/you-should-clean-your-sinks-overflow-hole-1850888031)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 1, 2023](https://lifehacker.com/nyt-connections-answer-today-october-1-2023-1850886727)
-- [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)
-- [Lifehacker] [Add These 12 Killer Supersets to Your Next Workout](https://lifehacker.com/12-killer-supersets-to-add-to-your-next-workout-1849986590)
-- [Lifehacker] [How to Deep Clean Your Kitchen Cabinets](https://lifehacker.com/how-to-deep-clean-your-kitchen-cabinets-1850887869)
-- [Lifehacker] [There&#39;s a New Global Entry App for US Customs](https://lifehacker.com/theres-a-new-global-entry-app-for-us-customs-1850887880)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
-- [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)<!-- TECH-POSTS:END -->
 
 ---
 
