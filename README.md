@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ANGULAR INJECT FUNCTION](https://dev.to/maurizio8788/angular-inject-function-5cia)
+- [Dev.to/JS] [Need of React ?](https://dev.to/afii/need-of-react--5fcm)
+- [Dev.to/JS] [Developers, Hacktoberfest 2023 is Here!](https://dev.to/opensourcee/developers-hacktoberfest-2023-is-here-219f)
+- [Dev.to/JS] [GraphQL: A Paradigm Shift in API Design 🚀](https://dev.to/bhavesh_yadav/graphql-a-paradigm-shift-in-api-design-3mo9)
+- [Dev.to/JS] [Tricking Dependabot to have multiple configs for one package ecosystem](https://dev.to/mellis481/tricking-dependabot-to-have-multiple-configs-for-one-package-ecosystem-5b5g)
+- [Lifehacker] [Why You Should Switch From Google Authenticator to iCloud Keychain](https://lifehacker.com/why-you-should-switch-from-google-authenticator-to-iclo-1850891304)
+- [Lifehacker] [12 of the Best New Podcasts This Fall](https://lifehacker.com/12-of-the-best-new-podcasts-this-fall-1850889624)
 - [Dev.to/JS] [Mastering JavaScript Array Methods: Your Ultimate Guide](https://dev.to/jaimaldullat/mastering-javascript-array-methods-your-ultimate-guide-661)
 - [Dev.to/JS] [What is this ExpressJS thing all about?!](https://dev.to/kycodee/what-is-this-expressjs-thing-all-about-3266)
 - [Dev.to/JS] [Day 59: Multimedia Tags](https://dev.to/dhrn/day-59-multimedia-tags-542h)
@@ -36,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished 16GB Lenovo Tab 4 Is $75 Right Now](https://lifehacker.com/this-refurbished-16gb-lenovo-tab-4-is-75-right-now-1850867001)
 - [Dev.to/JS] [Nuxt 3 build configuration. Generate dynamic routes and sitemap in SSR](https://dev.to/kucherol/nuxt-3-build-configuration-generate-dynamic-routes-and-sitemap-in-ssr-3i4l)
 - [Lifehacker] [Don’t Prune These Bushes in the Fall](https://lifehacker.com/bushes-to-prune-in-fall-1850887331)
-- [Dev.to/JS] [Open-Closed Principle in React](https://dev.to/mikhaelesa/open-closed-principle-in-react-1lgd)
 - [Lifehacker] [How to Stop Being a Financial Procrastinator](https://lifehacker.com/are-you-a-financial-procrastinator-1850887300)
-- [Dev.to/JS] [E2E Testing Strategies: Handling Edge Cases while Testing](https://dev.to/keploy/e2e-testing-strategies-handling-edge-cases-while-testing-381)
-- [Dev.to/JS] [Best Bootstrap Autocomplete and Auto Class Suggestor Intellisense Extension for VSCode 2023](https://dev.to/noobmahbub/best-bootstrap-autocomplete-and-auto-class-suggestor-intellisense-extension-for-vscode-2023-1oa9)
-- [Dev.to/JS] [Choosing Between Class and Functional Components in React: When to Use Each](https://dev.to/the2minengineer/choosing-between-class-and-functional-components-in-react-when-to-use-each-46en)
-- [Dev.to/JS] [Display a modal using Vue and its Teleport component](https://dev.to/capsulescodes/how-to-display-a-modal-using-vue-and-its-teleport-component-3e45)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six Sinks, Ranked by How Easy They Are to Install Yourself](https://lifehacker.com/easiest-sinks-install-1850884571)
 - [Lifehacker] [You Can Finally Preorder Raspberry Pi 5](https://lifehacker.com/how-to-preorder-raspberry-pi-5-1850887192)
 - [Lifehacker] [You Can Actually Trigger Two Shortcuts With the iPhone 15 Pro’s Action Button](https://lifehacker.com/two-shortcuts-iphone-15-pro-action-button-1850886176)
-- [Lifehacker] [Every Thanksgiving Recipe You Can Microwave &lpar;and Those You Can&#39;t&rpar;](https://lifehacker.com/everything-you-can-and-cannot-microwave-on-thanksgiving-1830572421)
-- [Lifehacker] [This Three-camera Blink Bundle Is 58% Off Right Now](https://lifehacker.com/this-three-camera-blink-bundle-is-58-off-right-now-1850887133)
-- [Lifehacker] [Cling to That Summer Feeling With This Lemon Stick &#39;Drink&#39;](https://lifehacker.com/cling-to-that-summer-feeling-with-this-lemon-stick-drin-1850887254)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Every Thanksgiving Recipe You Can Microwave &lpar;and Those You Can&#39;t&rpar;](https://lifehacker.com/everything-you-can-and-cannot-microwave-on-thanksgiving-1830572421)<!-- TECH-POSTS:END -->
 
 ---
 
