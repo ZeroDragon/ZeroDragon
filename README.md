@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
+- [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
+- [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/how-to-check-a-product-s-price-history-on-amazon-1849158394)
 - [Lifehacker] [This Refurbished iPad Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-is-240-right-now-1850877949)
 - [Dev.to/JS] [Progressive Web Apps definition, Pros and Cons, and how to convert an existing React App into a PWA](https://dev.to/alaa-m1/progressive-web-apps-definition-pros-and-cons-and-how-to-convert-an-existing-react-app-into-a-pwa-1m9d)
 - [Dev.to/JS] [O Futuro do Desenvolvimento Web: Node.js vs Bun](https://dev.to/fransborges/o-futuro-do-desenvolvimento-web-nodejs-vs-bun-1hk2)
@@ -40,6 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Feature flags in Angular](https://dev.to/jstnjs/feature-flags-in-angular-4kb0)
 - [Lifehacker] [How to Watch Google&#39;s Pixel 8 Event](https://lifehacker.com/stream-google-pixel-8-event-1850892543)
 - [Lifehacker] [The Best Way to Get Your Kids to Actually Listen](https://lifehacker.com/the-best-way-to-get-your-kids-to-actually-listen-1850892285)
+- [Lifehacker] [The 10 Best Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
 - [Lifehacker] [You Can Use ‘SMART’ Goals for Studying Too](https://lifehacker.com/use-smart-goals-to-study-more-effectively-1850892313)
 - [Dev.to/JS] [Smooth Landing page using Html CSS JavaScript](https://dev.to/codewithtop/smooth-landing-page-using-html-css-javascript-43bj)
 - [Lifehacker] [Meredith&#39;s Training Diary: Running Slower Than You Think You Should](https://lifehacker.com/merediths-training-diary-running-slower-than-you-think-1850886568)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Prune These Bushes in the Fall](https://lifehacker.com/bushes-to-prune-in-fall-1850887331)
 - [Lifehacker] [How to Stop Being a Financial Procrastinator](https://lifehacker.com/are-you-a-financial-procrastinator-1850887300)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
-- [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
-- [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
-- [Lifehacker] [You Should Clean Your Sink&#39;s Overflow Hole](https://lifehacker.com/you-should-clean-your-sinks-overflow-hole-1850888031)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 1, 2023](https://lifehacker.com/nyt-connections-answer-today-october-1-2023-1850886727)
-- [Lifehacker] [The Most Clever Ways to Reuse an Old Pillow](https://lifehacker.com/the-most-clever-ways-to-reuse-an-old-pillow-1850887855)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)<!-- TECH-POSTS:END -->
 
 ---
 
