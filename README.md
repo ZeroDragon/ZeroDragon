@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
+- [Lifehacker] [This 6-in-1 inCharge X Max Charging Cable Is $19 Right Now](https://lifehacker.com/this-6-in-1-incharge-x-max-charging-cable-is-19-right-1850872485)
+- [Dev.to/JS] [Chart your code and dive into Hacktoberfest 2023](https://dev.to/opensourcee/chart-your-code-and-dive-into-hacktoberfest-2023-2n02)
+- [Dev.to/JS] [Hacktoberfest 2023: bring your best and join the club](https://dev.to/opensourcee/hacktoberfest-2023-bring-your-best-and-join-the-club-3b5g)
+- [Dev.to/JS] [Transform your Open-Source journey](https://dev.to/opensourcee/transform-your-open-source-journey-31h6)
+- [Dev.to/JS] [Open-Source Contribution Dilemma? Hacktoberfest 2023 Has Your Back!](https://dev.to/opensourcee/open-source-contribution-dilemma-hacktoberfest-2023-has-your-back-8gc)
+- [Lifehacker] [The Best Study and Time Management Apps for College Students](https://lifehacker.com/best-study-apps-for-college-students-1850888147)
 - [Dev.to/JS] [ANGULAR INJECT FUNCTION](https://dev.to/maurizio8788/angular-inject-function-5cia)
 - [Dev.to/JS] [Need of React ?](https://dev.to/afii/need-of-react--5fcm)
 - [Dev.to/JS] [Developers, Hacktoberfest 2023 is Here!](https://dev.to/opensourcee/developers-hacktoberfest-2023-is-here-219f)
@@ -37,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is this ExpressJS thing all about?!](https://dev.to/kycodee/what-is-this-expressjs-thing-all-about-3266)
 - [Dev.to/JS] [Day 59: Multimedia Tags](https://dev.to/dhrn/day-59-multimedia-tags-542h)
 - [Lifehacker] [What People Are Getting Wrong This Week: NFL Misinformation](https://lifehacker.com/what-people-are-getting-wrong-this-week-nfl-misinforma-1850888774)
-- [Dev.to/JS] [Building a Real-Time Location Sharing App with React, Socket.io, and Leaflet](https://dev.to/manishmehra/building-a-real-time-location-sharing-app-with-react-socketio-and-leaflet-236l)
-- [Dev.to/JS] [How to Use Momentum Scrolling, Image Parallax Animation, and Scroll Midway Fixed Display | somefolk from London](https://dev.to/portfoliotechnics/how-to-use-momentum-scrolling-image-parallax-animation-and-scroll-midway-fixed-display-somefolk-from-london-269h)
-- [Dev.to/JS] [Dev. Principles: Orthogonality📚](https://dev.to/frjr17/dev-principles-orthogonality-1gka)
 - [Lifehacker] [This Refurbished 16GB Lenovo Tab 4 Is $75 Right Now](https://lifehacker.com/this-refurbished-16gb-lenovo-tab-4-is-75-right-now-1850867001)
-- [Dev.to/JS] [Nuxt 3 build configuration. Generate dynamic routes and sitemap in SSR](https://dev.to/kucherol/nuxt-3-build-configuration-generate-dynamic-routes-and-sitemap-in-ssr-3i4l)
 - [Lifehacker] [Don’t Prune These Bushes in the Fall](https://lifehacker.com/bushes-to-prune-in-fall-1850887331)
 - [Lifehacker] [How to Stop Being a Financial Procrastinator](https://lifehacker.com/are-you-a-financial-procrastinator-1850887300)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
@@ -56,16 +59,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
 - [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
 - [Lifehacker] [This &#39;All-in-one&#39; JBL Soundbar Is $81 Right Now](https://lifehacker.com/this-all-in-one-jbl-soundbar-is-81-right-now-1850888300)
-- [Lifehacker] [How to Choose Between the Meta Quest 2, Apple Vision Pro, and Vive Pro 2](https://lifehacker.com/meta-quest-3-vc-apple-vision-pro-vs-vive-pro-2-1850887857)
+- [Lifehacker] [How to Choose Between the Meta Quest 3, Apple Vision Pro, and Vive Pro 2](https://lifehacker.com/meta-quest-3-vc-apple-vision-pro-vs-vive-pro-2-1850887857)
 - [Lifehacker] [Why It’s Still Worth It to Wire Your House for Ethernet](https://lifehacker.com/is-ethernet-still-worth-it-1850887111)
 - [Lifehacker] [Why a Pawn Shop Is Better Than a Payday Loan in an Emergency](https://lifehacker.com/why-a-pawn-shop-is-better-than-a-payday-loan-in-an-emer-1850886664)
 - [Lifehacker] [The iPhone 15 Pro Max Is Apple’s Most Boring Phone Yet](https://lifehacker.com/iphone-15-pro-max-review-1850887664)
 - [Lifehacker] [12 of the Best Exercises to Do With Resistance Bands at the Gym](https://lifehacker.com/12-of-the-best-exercises-to-do-with-resistance-bands-at-1849658908)
 - [Lifehacker] [Everything You Need to Know About the Fitbit Charge 6](https://lifehacker.com/fitbit-charge-6-review-1850887582)
-- [Lifehacker] [Six Sinks, Ranked by How Easy They Are to Install Yourself](https://lifehacker.com/easiest-sinks-install-1850884571)
-- [Lifehacker] [You Can Finally Preorder Raspberry Pi 5](https://lifehacker.com/how-to-preorder-raspberry-pi-5-1850887192)
-- [Lifehacker] [You Can Actually Trigger Two Shortcuts With the iPhone 15 Pro’s Action Button](https://lifehacker.com/two-shortcuts-iphone-15-pro-action-button-1850886176)
-- [Lifehacker] [Every Thanksgiving Recipe You Can Microwave &lpar;and Those You Can&#39;t&rpar;](https://lifehacker.com/everything-you-can-and-cannot-microwave-on-thanksgiving-1830572421)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Six Sinks, Ranked by How Easy They Are to Install Yourself](https://lifehacker.com/easiest-sinks-install-1850884571)<!-- TECH-POSTS:END -->
 
 ---
 
