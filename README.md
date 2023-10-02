@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Refurbished 16GB Lenovo Tab 4 Is $75 Right Now](https://lifehacker.com/this-refurbished-16gb-lenovo-tab-4-is-75-right-now-1850867001)
+- [Dev.to/JS] [Nuxt 3 build configuration. Generate dynamic routes and sitemap in SSR](https://dev.to/kucherol/nuxt-3-build-configuration-generate-dynamic-routes-and-sitemap-in-ssr-3i4l)
+- [Lifehacker] [Don’t Prune These Bushes in the Fall](https://lifehacker.com/bushes-to-prune-in-fall-1850887331)
+- [Dev.to/JS] [Open-Closed Principle in React](https://dev.to/mikhaelesa/open-closed-principle-in-react-1lgd)
 - [Lifehacker] [How to Stop Being a Financial Procrastinator](https://lifehacker.com/are-you-a-financial-procrastinator-1850887300)
 - [Dev.to/JS] [E2E Testing Strategies: Handling Edge Cases while Testing](https://dev.to/keploy/e2e-testing-strategies-handling-edge-cases-while-testing-381)
 - [Dev.to/JS] [Best Bootstrap Autocomplete and Auto Class Suggestor Intellisense Extension for VSCode 2023](https://dev.to/noobmahbub/best-bootstrap-autocomplete-and-auto-class-suggestor-intellisense-extension-for-vscode-2023-1oa9)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Super Store – E-Commerce Multipage Theme](https://dev.to/lexingtonthemes/super-store-e-commerce-multipage-theme-opj)
 - [Dev.to/JS] [How React Forget will make React useMemo and useCallback hooks absolutely redundant](https://dev.to/usulpro/how-react-forget-will-make-react-usememo-and-usecallback-hooks-absolutely-redundant-4l68)
 - [Dev.to/JS] [Using URL to store state in Vue](https://dev.to/jacobandrewsky/using-url-to-store-state-in-vue-275c)
-- [Dev.to/JS] [React: Rest and Spread Operator](https://dev.to/kyrierui/react-rest-and-spread-operator-5f72)
-- [Dev.to/JS] [How to retain form data using JavaScript when model is not directly bind to html controls in ASP.Net Core](https://dev.to/swapnilt/how-to-retain-form-data-using-javascript-when-model-is-not-directly-bind-to-html-controls-in-aspnet-core-5h5e)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Thanksgiving Recipe You Can Microwave &lpar;and Those You Can&#39;t&rpar;](https://lifehacker.com/everything-you-can-and-cannot-microwave-on-thanksgiving-1830572421)
 - [Lifehacker] [This Three-camera Blink Bundle Is 58% Off Right Now](https://lifehacker.com/this-three-camera-blink-bundle-is-58-off-right-now-1850887133)
 - [Lifehacker] [Cling to That Summer Feeling With This Lemon Stick &#39;Drink&#39;](https://lifehacker.com/cling-to-that-summer-feeling-with-this-lemon-stick-drin-1850887254)
-- [Lifehacker] [Back Up Your Xbox Screenshots and Videos Before Microsoft Deletes Them All](https://lifehacker.com/back-up-your-xbox-screenshots-and-videos-before-microso-1850886074)
-- [Lifehacker] [These Are the Signs of Poor Interoception in Kids](https://lifehacker.com/these-are-the-signs-of-poor-interoception-in-kids-1850884972)
-- [Lifehacker] [Use &#39;Think, Pair, Share&#39; for Effective Group Studying](https://lifehacker.com/use-think-pair-share-for-effective-group-studying-1850885376)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Back Up Your Xbox Screenshots and Videos Before Microsoft Deletes Them All](https://lifehacker.com/back-up-your-xbox-screenshots-and-videos-before-microso-1850886074)<!-- TECH-POSTS:END -->
 
 ---
 
