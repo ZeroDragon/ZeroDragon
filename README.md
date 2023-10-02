@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlock the Digital World: Web Development for Beginners Guide](https://dev.to/jcodes5/unlock-the-digital-world-web-development-for-beginners-guide-4n2j)
+- [Lifehacker] [This 13-In-1 HDMI and USB Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-hdmi-and-usb-docking-station-is-50-right-1850877897)
 - [Dev.to/JS] [Feature flags in Angular](https://dev.to/jstnjs/feature-flags-in-angular-4kb0)
+- [Lifehacker] [How to Watch Google&#39;s Pixel 8 Event](https://lifehacker.com/stream-google-pixel-8-event-1850892543)
 - [Lifehacker] [The Best Way to Get Your Kids to Actually Listen](https://lifehacker.com/the-best-way-to-get-your-kids-to-actually-listen-1850892285)
 - [Lifehacker] [You Can Use ‘SMART’ Goals for Studying Too](https://lifehacker.com/use-smart-goals-to-study-more-effectively-1850892313)
 - [Dev.to/JS] [Smooth Landing page using Html CSS JavaScript](https://dev.to/codewithtop/smooth-landing-page-using-html-css-javascript-43bj)
@@ -34,7 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get $30 Free to Spend During Amazon Prime Big Deal Days](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
 - [Dev.to/JS] [React Refs: Key to DOM Manipulation](https://dev.to/nitro779/react-refs-key-to-dom-manipulation-4pb2)
 - [Dev.to/JS] [My first Introduction on Dev Community !](https://dev.to/rsai12/my-first-introduction-on-dev-community--c62)
-- [Dev.to/JS] [Integrate GrowthBook with Your React App](https://dev.to/saloniagrawal/integrate-growthbook-with-your-react-app-4pdp)
+- [Dev.to/JS] [Feature flagging using GrowthBook in your React App](https://dev.to/saloniagrawal/integrate-growthbook-with-your-react-app-4pdp)
 - [Lifehacker] [These Blink Security Cameras Are Up to 60% Off](https://lifehacker.com/these-blink-security-cameras-are-up-to-60-off-1850892027)
 - [Dev.to/JS] [In progress Developer](https://dev.to/josemelendez430/in-progress-developer-2nob)
 - [Dev.to/JS] [⚛️ Full Stack Amazon Clone with Next.js, Typescript, Tailwind CSS, Zustand, Next UI, Recharts and Amplication 🚀](https://dev.to/koolkishan/full-stack-amazon-clone-with-nextjs-typescript-tailwind-css-zustand-next-ui-recharts-and-amplication-1h89)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
 - [Lifehacker] [This 6-in-1 inCharge X Max Charging Cable Is $19 Right Now](https://lifehacker.com/this-6-in-1-incharge-x-max-charging-cable-is-19-right-1850872485)
 - [Dev.to/JS] [Chart your code and dive into Hacktoberfest 2023](https://dev.to/opensourcee/chart-your-code-and-dive-into-hacktoberfest-2023-2n02)
-- [Dev.to/JS] [Hacktoberfest 2023: bring your best and join the club](https://dev.to/opensourcee/hacktoberfest-2023-bring-your-best-and-join-the-club-3b5g)
 - [Lifehacker] [The Best Study and Time Management Apps for College Students](https://lifehacker.com/best-study-apps-for-college-students-1850888147)
 - [Lifehacker] [Why You Should Switch From Google Authenticator to iCloud Keychain](https://lifehacker.com/why-you-should-switch-from-google-authenticator-to-iclo-1850891304)
 - [Lifehacker] [12 of the Best New Podcasts This Fall](https://lifehacker.com/12-of-the-best-new-podcasts-this-fall-1850889624)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Deep Clean Your Kitchen Cabinets](https://lifehacker.com/how-to-deep-clean-your-kitchen-cabinets-1850887869)
 - [Lifehacker] [There&#39;s a New Global Entry App for US Customs](https://lifehacker.com/theres-a-new-global-entry-app-for-us-customs-1850887880)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, September 30, 2023](https://lifehacker.com/nyt-connections-answer-today-september-30-2023-1850886122)
-- [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)
-- [Lifehacker] [This &#39;All-in-one&#39; JBL Soundbar Is $81 Right Now](https://lifehacker.com/this-all-in-one-jbl-soundbar-is-81-right-now-1850888300)
-- [Lifehacker] [How to Choose Between the Meta Quest 3, Apple Vision Pro, and Vive Pro 2](https://lifehacker.com/meta-quest-3-vc-apple-vision-pro-vs-vive-pro-2-1850887857)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Spotify Can Now Transcribe Podcasts While You Listen](https://lifehacker.com/spotify-can-now-transcribe-podcasts-while-you-listen-1850887011)<!-- TECH-POSTS:END -->
 
 ---
 
