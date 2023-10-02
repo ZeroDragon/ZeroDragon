@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Being a Financial Procrastinator](https://lifehacker.com/are-you-a-financial-procrastinator-1850887300)
+- [Dev.to/JS] [E2E Testing Strategies: Handling Edge Cases while Testing](https://dev.to/keploy/e2e-testing-strategies-handling-edge-cases-while-testing-381)
+- [Dev.to/JS] [Best Bootstrap Autocomplete and Auto Class Suggestor Intellisense Extension for VSCode 2023](https://dev.to/noobmahbub/best-bootstrap-autocomplete-and-auto-class-suggestor-intellisense-extension-for-vscode-2023-1oa9)
+- [Dev.to/JS] [Choosing Between Class and Functional Components in React: When to Use Each](https://dev.to/the2minengineer/choosing-between-class-and-functional-components-in-react-when-to-use-each-46en)
+- [Dev.to/JS] [Display a modal using Vue and its Teleport component](https://dev.to/capsulescodes/how-to-display-a-modal-using-vue-and-its-teleport-component-3e45)
 - [Dev.to/JS] [Deploy Vue.js Project dari GitHub ke Cloudflare Gratis: Panduan Sederhana](https://dev.to/welldyrosman/deploy-vuejs-project-dari-github-ke-cloudflare-gratis-panduan-sederhana-jgh)
 - [Dev.to/JS] [This Is The Weirdest JavaScript Operator 🤯](https://dev.to/taquiimam14/this-is-the-weirdest-javascript-operator-1d01)
 - [Dev.to/JS] [How Networks Work: Exploring the Fundamentals of Switches, Routers, DNS, DHCP, NAT, VPN, and More](https://dev.to/kaushit/how-networks-work-exploring-the-fundamentals-of-switches-routers-dns-dhcp-nat-vpn-and-more-33d1)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using URL to store state in Vue](https://dev.to/jacobandrewsky/using-url-to-store-state-in-vue-275c)
 - [Dev.to/JS] [React: Rest and Spread Operator](https://dev.to/kyrierui/react-rest-and-spread-operator-5f72)
 - [Dev.to/JS] [How to retain form data using JavaScript when model is not directly bind to html controls in ASP.Net Core](https://dev.to/swapnilt/how-to-retain-form-data-using-javascript-when-model-is-not-directly-bind-to-html-controls-in-aspnet-core-5h5e)
-- [Dev.to/JS] [BunJs a New JS Runtime](https://dev.to/jinoantony/bunjs-a-new-js-runtime-4090)
-- [Dev.to/JS] [Episode 23/39: NxConf 2023 &amp; New Template Syntax](https://dev.to/this-is-angular/episode-2339-nxconf-2023-new-template-syntax-4g8l)
-- [Dev.to/JS] [Maximize Your Score: 1z0-1003-22 Dumps Edition](https://dev.to/vci8jug0/maximize-your-score-1z0-1003-22-dumps-edition-47g6)
-- [Dev.to/JS] [A quick Functional Programming recap](https://dev.to/s3an_0vert0n/a-quick-functional-programming-recap-2o0d)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cling to That Summer Feeling With This Lemon Stick &#39;Drink&#39;](https://lifehacker.com/cling-to-that-summer-feeling-with-this-lemon-stick-drin-1850887254)
 - [Lifehacker] [Back Up Your Xbox Screenshots and Videos Before Microsoft Deletes Them All](https://lifehacker.com/back-up-your-xbox-screenshots-and-videos-before-microso-1850886074)
 - [Lifehacker] [These Are the Signs of Poor Interoception in Kids](https://lifehacker.com/these-are-the-signs-of-poor-interoception-in-kids-1850884972)
-- [Lifehacker] [Use &#39;Think, Pair, Share&#39; for Effective Group Studying](https://lifehacker.com/use-think-pair-share-for-effective-group-studying-1850885376)
-- [Lifehacker] [Use Inquiry-Based Learning to Stay Curious About What You’re Studying](https://lifehacker.com/use-inquiry-based-learning-to-stay-curious-about-what-y-1850885326)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use &#39;Think, Pair, Share&#39; for Effective Group Studying](https://lifehacker.com/use-think-pair-share-for-effective-group-studying-1850885376)<!-- TECH-POSTS:END -->
 
 ---
 
