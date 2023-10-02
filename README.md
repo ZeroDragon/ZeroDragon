@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Maximize Your Score: 1z0-1003-22 Dumps Edition](https://dev.to/vci8jug0/maximize-your-score-1z0-1003-22-dumps-edition-47g6)
+- [Dev.to/JS] [A quick Functional Programming recap](https://dev.to/s3an_0vert0n/a-quick-functional-programming-recap-2o0d)
 - [Dev.to/JS] [What are Promises &amp; Async/Await in JavaScript?](https://dev.to/justmrkhan/what-are-promises-asyncawait-in-javascript-8p0)
 - [Dev.to/JS] [Creating My First npx Package: &quot;create-sra&quot;](https://dev.to/bladearya/creating-my-first-npx-package-create-sra-3762)
 - [Dev.to/JS] [Google Translate API in a React.js](https://dev.to/codelover405/google-translate-api-in-a-reactjs-2697)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSX vs HTML](https://dev.to/easewithtuts/jsx-vs-html-40gl)
 - [Dev.to/JS] [My first ever Hacktoberfest contribution](https://dev.to/soham-thaker/my-first-ever-hacktoberfest-contribution-14aa)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
-- [Dev.to/JS] [TF #17 | Your weekly frontend digest](https://dev.to/tech_foutraque/tf-17-your-weekly-frontend-digest-19ko)
-- [Dev.to/JS] [Using Fetch Requests to Update a JSON Database Without Creating Duplicate Database Entries](https://dev.to/jimgrimes86/using-fetch-requests-to-update-a-json-database-without-creating-duplicate-database-entries-4l8a)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
 - [Lifehacker] [You Should Clean Your Sink&#39;s Overflow Hole](https://lifehacker.com/you-should-clean-your-sinks-overflow-hole-1850888031)
