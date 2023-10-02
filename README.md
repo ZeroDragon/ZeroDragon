@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploy Vue.js Project dari GitHub ke Cloudflare Gratis: Panduan Sederhana](https://dev.to/welldyrosman/deploy-vuejs-project-dari-github-ke-cloudflare-gratis-panduan-sederhana-jgh)
+- [Dev.to/JS] [This Is The Weirdest JavaScript Operator 🤯](https://dev.to/taquiimam14/this-is-the-weirdest-javascript-operator-1d01)
+- [Dev.to/JS] [How Networks Work: Exploring the Fundamentals of Switches, Routers, DNS, DHCP, NAT, VPN, and More](https://dev.to/kaushit/how-networks-work-exploring-the-fundamentals-of-switches-routers-dns-dhcp-nat-vpn-and-more-33d1)
 - [Dev.to/JS] [Super Store – E-Commerce Multipage Theme](https://dev.to/lexingtonthemes/super-store-e-commerce-multipage-theme-opj)
 - [Dev.to/JS] [How React Forget will make React useMemo and useCallback hooks absolutely redundant](https://dev.to/usulpro/how-react-forget-will-make-react-usememo-and-usecallback-hooks-absolutely-redundant-4l68)
 - [Dev.to/JS] [Using URL to store state in Vue](https://dev.to/jacobandrewsky/using-url-to-store-state-in-vue-275c)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Episode 23/39: NxConf 2023 &amp; New Template Syntax](https://dev.to/this-is-angular/episode-2339-nxconf-2023-new-template-syntax-4g8l)
 - [Dev.to/JS] [Maximize Your Score: 1z0-1003-22 Dumps Edition](https://dev.to/vci8jug0/maximize-your-score-1z0-1003-22-dumps-edition-47g6)
 - [Dev.to/JS] [A quick Functional Programming recap](https://dev.to/s3an_0vert0n/a-quick-functional-programming-recap-2o0d)
-- [Dev.to/JS] [What are Promises &amp; Async/Await in JavaScript?](https://dev.to/justmrkhan/what-are-promises-asyncawait-in-javascript-8p0)
-- [Dev.to/JS] [Creating My First npx Package: &quot;create-sra&quot;](https://dev.to/bladearya/creating-my-first-npx-package-create-sra-3762)
-- [Dev.to/JS] [Google Translate API in a React.js](https://dev.to/codelover405/google-translate-api-in-a-reactjs-2697)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
