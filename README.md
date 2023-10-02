@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Super Store – E-Commerce Multipage Theme](https://dev.to/lexingtonthemes/super-store-e-commerce-multipage-theme-opj)
 - [Dev.to/JS] [How React Forget will make React useMemo and useCallback hooks absolutely redundant](https://dev.to/usulpro/how-react-forget-will-make-react-usememo-and-usecallback-hooks-absolutely-redundant-4l68)
 - [Dev.to/JS] [Using URL to store state in Vue](https://dev.to/jacobandrewsky/using-url-to-store-state-in-vue-275c)
 - [Dev.to/JS] [React: Rest and Spread Operator](https://dev.to/kyrierui/react-rest-and-spread-operator-5f72)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are Promises &amp; Async/Await in JavaScript?](https://dev.to/justmrkhan/what-are-promises-asyncawait-in-javascript-8p0)
 - [Dev.to/JS] [Creating My First npx Package: &quot;create-sra&quot;](https://dev.to/bladearya/creating-my-first-npx-package-create-sra-3762)
 - [Dev.to/JS] [Google Translate API in a React.js](https://dev.to/codelover405/google-translate-api-in-a-reactjs-2697)
-- [Dev.to/JS] [Mastering the Javascript DOM 🎡](https://dev.to/shivamblog/mastering-the-javascript-dom-43gj)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
