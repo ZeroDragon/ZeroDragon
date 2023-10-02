@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How React Forget will make React useMemo and useCallback hooks absolutely redundant](https://dev.to/usulpro/how-react-forget-will-make-react-usememo-and-usecallback-hooks-absolutely-redundant-4l68)
+- [Dev.to/JS] [Using URL to store state in Vue](https://dev.to/jacobandrewsky/using-url-to-store-state-in-vue-275c)
+- [Dev.to/JS] [React: Rest and Spread Operator](https://dev.to/kyrierui/react-rest-and-spread-operator-5f72)
+- [Dev.to/JS] [How to retain form data using JavaScript when model is not directly bind to html controls in ASP.Net Core](https://dev.to/swapnilt/how-to-retain-form-data-using-javascript-when-model-is-not-directly-bind-to-html-controls-in-aspnet-core-5h5e)
 - [Dev.to/JS] [BunJs a New JS Runtime](https://dev.to/jinoantony/bunjs-a-new-js-runtime-4090)
 - [Dev.to/JS] [Episode 23/39: NxConf 2023 &amp; New Template Syntax](https://dev.to/this-is-angular/episode-2339-nxconf-2023-new-template-syntax-4g8l)
 - [Dev.to/JS] [Maximize Your Score: 1z0-1003-22 Dumps Edition](https://dev.to/vci8jug0/maximize-your-score-1z0-1003-22-dumps-edition-47g6)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating My First npx Package: &quot;create-sra&quot;](https://dev.to/bladearya/creating-my-first-npx-package-create-sra-3762)
 - [Dev.to/JS] [Google Translate API in a React.js](https://dev.to/codelover405/google-translate-api-in-a-reactjs-2697)
 - [Dev.to/JS] [Mastering the Javascript DOM 🎡](https://dev.to/shivamblog/mastering-the-javascript-dom-43gj)
-- [Dev.to/JS] [Million.js Beyond Speed | Making React Apps Memory Efficient](https://dev.to/ricardonunezio/millionjs-beyond-speed-making-react-apps-memory-efficient-2amn)
-- [Dev.to/JS] [When changes are too expensive: JavaScript and data change performance.](https://dev.to/dmtrshat/when-changes-are-too-expensive-javascript-and-data-change-performance-2dl4)
-- [Dev.to/JS] [Postmortem on NAPL&#39;s first scrapped experiment - a language to code WebGL](https://dev.to/jacklehamster/postmortem-on-napls-first-scrapped-experiment-a-language-to-code-webgl-1pk7)
-- [Dev.to/JS] [Cracking the Code: Leetcode 2038 - Removing Colored Pieces with Identical Neighbors](https://dev.to/speaklouder/cracking-the-code-leetcode-2038-removing-colored-pieces-with-identical-neighbors-2j94)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
