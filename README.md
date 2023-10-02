@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BunJs a New JS Runtime](https://dev.to/jinoantony/bunjs-a-new-js-runtime-4090)
+- [Dev.to/JS] [Episode 23/39: NxConf 2023 &amp; New Template Syntax](https://dev.to/this-is-angular/episode-2339-nxconf-2023-new-template-syntax-4g8l)
 - [Dev.to/JS] [Maximize Your Score: 1z0-1003-22 Dumps Edition](https://dev.to/vci8jug0/maximize-your-score-1z0-1003-22-dumps-edition-47g6)
 - [Dev.to/JS] [A quick Functional Programming recap](https://dev.to/s3an_0vert0n/a-quick-functional-programming-recap-2o0d)
 - [Dev.to/JS] [What are Promises &amp; Async/Await in JavaScript?](https://dev.to/justmrkhan/what-are-promises-asyncawait-in-javascript-8p0)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [When changes are too expensive: JavaScript and data change performance.](https://dev.to/dmtrshat/when-changes-are-too-expensive-javascript-and-data-change-performance-2dl4)
 - [Dev.to/JS] [Postmortem on NAPL&#39;s first scrapped experiment - a language to code WebGL](https://dev.to/jacklehamster/postmortem-on-napls-first-scrapped-experiment-a-language-to-code-webgl-1pk7)
 - [Dev.to/JS] [Cracking the Code: Leetcode 2038 - Removing Colored Pieces with Identical Neighbors](https://dev.to/speaklouder/cracking-the-code-leetcode-2038-removing-colored-pieces-with-identical-neighbors-2j94)
-- [Dev.to/JS] [JSX vs HTML](https://dev.to/easewithtuts/jsx-vs-html-40gl)
-- [Dev.to/JS] [My first ever Hacktoberfest contribution](https://dev.to/soham-thaker/my-first-ever-hacktoberfest-contribution-14aa)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
