@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When changes are too expensive: JavaScript and data change performance.](https://dev.to/dmtrshat/when-changes-are-too-expensive-javascript-and-data-change-performance-2dl4)
 - [Dev.to/JS] [Postmortem on NAPL&#39;s first scrapped experiment - a language to code WebGL](https://dev.to/jacklehamster/postmortem-on-napls-first-scrapped-experiment-a-language-to-code-webgl-1pk7)
 - [Dev.to/JS] [Cracking the Code: Leetcode 2038 - Removing Colored Pieces with Identical Neighbors](https://dev.to/speaklouder/cracking-the-code-leetcode-2038-removing-colored-pieces-with-identical-neighbors-2j94)
 - [Dev.to/JS] [JSX vs HTML](https://dev.to/easewithtuts/jsx-vs-html-40gl)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Python Programming Essentials: Your Ultimate Interview Prep Guide](https://dev.to/dinvstr/python-programming-essentials-your-ultimate-interview-prep-guide-9cb)
 - [Dev.to/JS] [Web Design Wonderland: 10 Portfolio Inspirations to Elevate Your Site 🚀](https://dev.to/jrud25/web-design-wonderland-10-portfolio-inspirations-to-elevate-your-site-4bmg)
 - [Dev.to/JS] [Step-by-Step Guide: Creating Your First React App](https://dev.to/shadmirza/step-by-step-guide-creating-your-first-react-app-4fa0)
-- [Dev.to/JS] [Buy Verified PayPal Account](https://dev.to/authorizeaccount/buy-verified-paypal-account-1b5i)
 - [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)
 - [Lifehacker] [Use This Renovation Calculator to Figure Out Which Home Upgrades Add the Most Value](https://lifehacker.com/use-this-renovation-calculator-to-figure-out-which-home-1850888023)
 - [Lifehacker] [You Should Clean Your Sink&#39;s Overflow Hole](https://lifehacker.com/you-should-clean-your-sinks-overflow-hole-1850888031)
