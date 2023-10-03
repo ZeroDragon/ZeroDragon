@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Verified Authorize Account](https://dev.to/stripeaccountpva/buy-verified-authorize-account-3d96)
+- [Lifehacker] [Watch Out for Malicious Ads on Bing Chat](https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698)
+- [Dev.to/JS] [Eleventy components woes](https://dev.to/graphqleditor/eleventy-components-woes-3nap)
+- [Dev.to/JS] [Buy Verified Stripe Account](https://dev.to/stripeaccount/buy-verified-stripe-account-1dig)
+- [Dev.to/JS] [Tracking Personal Velocity: An Intro to the Jira API](https://dev.to/abane94/tracking-personal-velocity-an-intro-to-the-jira-api-3ma)
 - [Dev.to/JS] [Day 60: Table Elements](https://dev.to/dhrn/day-60-table-elements-3o97)
 - [Lifehacker] [Your Phone Will Sound a Loud Alarm on Oct. 4](https://lifehacker.com/your-phone-will-sound-a-loud-alarm-on-oct-4-1850894829)
 - [Dev.to/JS] [LeetCode - Solution for 2715. Timeout Cancellation](https://dev.to/jenchen/leetcode-solution-for-2715-timeout-cancellation-32d4)
@@ -39,10 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Leviton Scene Controller Could Be Smarter](https://lifehacker.com/leviton-scene-controller-review-1850894184)
 - [Dev.to/JS] [JavaScript : Functional Programming &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-functional-programming-englishhindi-4oij)
 - [Lifehacker] [Is Amazon Prime Really Worth It?](https://lifehacker.com/is-amazon-prime-really-worth-it-1850892083)
-- [Dev.to/JS] [VueJS part 6: Components introduction](https://dev.to/hi_iam_chris/vuejs-part-6-components-introduction-12b5)
-- [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Benefits, Reviews, Results &amp; How To Use?](https://dev.to/kdsawhya/blue-vibe-cbd-gummies-pain-relief-benefits-reviews-results-how-to-use-1bj4)
-- [Dev.to/JS] [Take your JavaScript skills to the next level with these 10 GitHub repositories 🕵️‍♂️ 🚀](https://dev.to/shafia/take-your-javascript-skills-to-the-next-level-with-these-10-github-repositories-3f2l)
-- [Dev.to/JS] [DOM Manipulation: Accessing and Modifying the Document Object Model with JavaScript](https://dev.to/outstandingvick/dom-manipulation-accessing-and-modifying-the-document-object-model-with-javascript-2ohk)
 - [Lifehacker] [This Apple Watch Wireless Charger Keychain Is $19 Right Now](https://lifehacker.com/this-apple-watch-wireless-charger-keychain-is-19-right-1850878081)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Checklist to Declutter Your Digital Life](https://lifehacker.com/use-this-checklist-to-declutter-your-digital-life-1850891990)
 - [Lifehacker] [You Can Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
 - [Lifehacker] [This 6-in-1 inCharge X Max Charging Cable Is $19 Right Now](https://lifehacker.com/this-6-in-1-incharge-x-max-charging-cable-is-19-right-1850872485)
-- [Lifehacker] [The Best Study and Time Management Apps for College Students](https://lifehacker.com/best-study-apps-for-college-students-1850888147)
-- [Lifehacker] [Why You Should Switch From Google Authenticator to iCloud Keychain](https://lifehacker.com/why-you-should-switch-from-google-authenticator-to-iclo-1850891304)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Study and Time Management Apps for College Students](https://lifehacker.com/best-study-apps-for-college-students-1850888147)<!-- TECH-POSTS:END -->
 
 ---
 
