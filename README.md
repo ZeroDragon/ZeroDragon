@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Currency Converter App in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/build-a-currency-converter-app-in-html-css-javascript-2244)
+- [Dev.to/JS] [Unlocking the Power of JavaScript Generators 🦾⏭️](https://dev.to/alessandrofoglia07/unlocking-the-power-of-javascript-generators-5d4i)
 - [Dev.to/JS] [Javascript Debugging &amp; Error Handling 🐞](https://dev.to/shivamblog/javascript-debugging-error-handling-ci8)
 - [Dev.to/JS] [Next.js 13: Introduction to Client-Side Rendering and Client Components](https://dev.to/nathlowe/nextjs-13-introduction-to-client-side-rendering-and-client-components-5hd9)
 - [Dev.to/JS] [Character Conversation For JavaScript](https://dev.to/anradev/character-conversation-for-javascript-104g)
@@ -41,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/how-to-check-a-product-s-price-history-on-amazon-1849158394)
 - [Lifehacker] [This Refurbished iPad Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-is-240-right-now-1850877949)
 - [Dev.to/JS] [Progressive Web Apps definition, Pros and Cons, and how to convert an existing React App into a PWA](https://dev.to/alaa-m1/progressive-web-apps-definition-pros-and-cons-and-how-to-convert-an-existing-react-app-into-a-pwa-1m9d)
-- [Dev.to/JS] [O Futuro do Desenvolvimento Web: Node.js vs Bun](https://dev.to/fransborges/o-futuro-do-desenvolvimento-web-nodejs-vs-bun-1hk2)
 - [Lifehacker] [These Sales Are Target’s Answer to Prime Big Deal Days](https://lifehacker.com/target-circle-week-deals-during-prime-day-1850892740)
 - [Lifehacker] [How to Set Price Alerts for Amazon Prime Big Deal Days](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
-- [Dev.to/JS] [CRYPTOCURRENCY RECOVERY IS REAL](https://dev.to/garciakat01/cryptocurrency-recovery-is-real-553h)
 - [Lifehacker] [This iOS 17 Setting Almost Revives 3D Touch on Your iPhone](https://lifehacker.com/speed-up-haptic-touch-ios-17-1850891591)
 - [Lifehacker] [This 13-In-1 HDMI and USB Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-hdmi-and-usb-docking-station-is-50-right-1850877897)
 - [Lifehacker] [Don&#39;t Miss These October Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441)
