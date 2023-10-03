@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Leviton Scene Controller Could Be Smarter](https://lifehacker.com/leviton-scene-controller-review-1850894184)
+- [Dev.to/JS] [JavaScript : Functional Programming &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-functional-programming-englishhindi-4oij)
 - [Lifehacker] [Is Amazon Prime Really Worth It?](https://lifehacker.com/is-amazon-prime-really-worth-it-1850892083)
 - [Dev.to/JS] [VueJS part 6: Components introduction](https://dev.to/hi_iam_chris/vuejs-part-6-components-introduction-12b5)
 - [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Benefits, Reviews, Results &amp; How To Use?](https://dev.to/kdsawhya/blue-vibe-cbd-gummies-pain-relief-benefits-reviews-results-how-to-use-1bj4)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing Stack UI - Origin!](https://dev.to/krybone/introducing-stack-ui-origin-k3n)
 - [Dev.to/JS] [How To use .env in Reactjs](https://dev.to/ayoubelsvg/how-to-use-env-in-reactjs-m4n)
 - [Dev.to/JS] [End of React? Web Components Review](https://dev.to/easewithtuts/end-of-react-web-components-review-4664)
-- [Dev.to/JS] [Legit Crypto Recovery Expert!!](https://dev.to/zaneberenger/legit-crypto-recovery-expert-32hn)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Switch From Google Authenticator to iCloud Keychain](https://lifehacker.com/why-you-should-switch-from-google-authenticator-to-iclo-1850891304)
 - [Lifehacker] [12 of the Best New Podcasts This Fall](https://lifehacker.com/12-of-the-best-new-podcasts-this-fall-1850889624)
 - [Lifehacker] [What People Are Getting Wrong This Week: NFL Misinformation](https://lifehacker.com/what-people-are-getting-wrong-this-week-nfl-misinforma-1850888774)
-- [Lifehacker] [This Refurbished 16GB Lenovo Tab 4 Is $75 Right Now](https://lifehacker.com/this-refurbished-16gb-lenovo-tab-4-is-75-right-now-1850867001)
-- [Lifehacker] [Don’t Prune These Bushes in the Fall](https://lifehacker.com/bushes-to-prune-in-fall-1850887331)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished 16GB Lenovo Tab 4 Is $75 Right Now](https://lifehacker.com/this-refurbished-16gb-lenovo-tab-4-is-75-right-now-1850867001)<!-- TECH-POSTS:END -->
 
 ---
 
