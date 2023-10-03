@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Is Amazon Prime Really Worth It?](https://lifehacker.com/is-amazon-prime-really-worth-it-1850892083)
+- [Dev.to/JS] [VueJS part 6: Components introduction](https://dev.to/hi_iam_chris/vuejs-part-6-components-introduction-12b5)
+- [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Benefits, Reviews, Results &amp; How To Use?](https://dev.to/kdsawhya/blue-vibe-cbd-gummies-pain-relief-benefits-reviews-results-how-to-use-1bj4)
+- [Dev.to/JS] [Take your JavaScript skills to the next level with these 10 GitHub repositories 🕵️‍♂️ 🚀](https://dev.to/shafia/take-your-javascript-skills-to-the-next-level-with-these-10-github-repositories-3f2l)
+- [Dev.to/JS] [DOM Manipulation: Accessing and Modifying the Document Object Model with JavaScript](https://dev.to/outstandingvick/dom-manipulation-accessing-and-modifying-the-document-object-model-with-javascript-2ohk)
+- [Dev.to/JS] [The Power of Angular Directives: A Comprehensive Guide](https://dev.to/chintanonweb/the-power-of-angular-directives-a-comprehensive-guide-3m0b)
+- [Dev.to/JS] [Understanding Variables and Data Types in JavaScript](https://dev.to/outstandingvick/understanding-variables-and-data-types-in-javascript-3d2g)
+- [Lifehacker] [This Apple Watch Wireless Charger Keychain Is $19 Right Now](https://lifehacker.com/this-apple-watch-wireless-charger-keychain-is-19-right-1850878081)
+- [Dev.to/JS] [Styling Active Navigation Links Using Vanilla JS and CSS.](https://dev.to/ghostaram/styling-active-navigation-links-using-vanilla-js-and-css-215b)
+- [Dev.to/JS] [Mastering Fullstack App Dev with FastAPI, React.js, and Chakra UI](https://dev.to/bekbrace/mastering-fullstack-app-dev-with-fastapi-reactjs-and-chakra-ui-mfe)
 - [Dev.to/JS] [Introducing Stack UI - Origin!](https://dev.to/krybone/introducing-stack-ui-origin-k3n)
 - [Dev.to/JS] [How To use .env in Reactjs](https://dev.to/ayoubelsvg/how-to-use-env-in-reactjs-m4n)
 - [Dev.to/JS] [End of React? Web Components Review](https://dev.to/easewithtuts/end-of-react-web-components-review-4664)
 - [Dev.to/JS] [Legit Crypto Recovery Expert!!](https://dev.to/zaneberenger/legit-crypto-recovery-expert-32hn)
-- [Dev.to/JS] [topoconfig: enhancing config declarations with graphs](https://dev.to/antongolub/topoconfig-enhancing-config-declarations-with-graphs-2d4)
-- [Dev.to/JS] [🚀 Achieve NextJS Mastery: Build a Sales Page with Stripe and Airtable 🧙‍♂️🪄✨](https://dev.to/triggerdotdev/achieve-nextjs-mastery-build-a-sales-page-with-stripe-and-airtable-1p5m)
-- [Dev.to/JS] [✨ The most talked about open source projects on HackerNews &lpar;and ones to contribute to&rpar; 🚀](https://dev.to/quine/the-most-talked-about-open-source-projects-on-hackernews-and-ones-to-contribute-to-375)
-- [Dev.to/JS] [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Angular - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-angular-is-out-2i3b)
-- [Dev.to/JS] [JavaScript Tricky Outputs: Unveiling the Mysteries](https://dev.to/jaimaldullat/javascript-tricky-outputs-unveiling-the-mysteries-1laf)
-- [Dev.to/JS] [Web Page Rendering and Everything You Need to Know About It](https://dev.to/peculiarrichard/web-page-rendering-and-everything-you-need-to-know-about-it-1k57)
-- [Dev.to/JS] [SeroLean Reviews – Does It Work? What They Won’t Tell You!](https://dev.to/beverlysmith/serolean-reviews-does-it-work-what-they-wont-tell-you-4im1)
-- [Dev.to/JS] [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Express - is out](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-express-is-out-3dld)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Best New Podcasts This Fall](https://lifehacker.com/12-of-the-best-new-podcasts-this-fall-1850889624)
 - [Lifehacker] [What People Are Getting Wrong This Week: NFL Misinformation](https://lifehacker.com/what-people-are-getting-wrong-this-week-nfl-misinforma-1850888774)
 - [Lifehacker] [This Refurbished 16GB Lenovo Tab 4 Is $75 Right Now](https://lifehacker.com/this-refurbished-16gb-lenovo-tab-4-is-75-right-now-1850867001)
-- [Lifehacker] [Don’t Prune These Bushes in the Fall](https://lifehacker.com/bushes-to-prune-in-fall-1850887331)
-- [Lifehacker] [How to Stop Being a Financial Procrastinator](https://lifehacker.com/are-you-a-financial-procrastinator-1850887300)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Prune These Bushes in the Fall](https://lifehacker.com/bushes-to-prune-in-fall-1850887331)<!-- TECH-POSTS:END -->
 
 ---
 
