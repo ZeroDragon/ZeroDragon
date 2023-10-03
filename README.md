@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Playwright: Best Practices for Web Automation with the Page Object Model](https://dev.to/lucgagan/mastering-playwright-best-practices-for-web-automation-with-the-page-object-model-4pam)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/how-to-check-a-product-s-price-history-on-amazon-1849158394)
@@ -53,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Feature flagging using GrowthBook in your React App](https://dev.to/saloniagrawal/integrate-growthbook-with-your-react-app-4pdp)
 - [Lifehacker] [These Blink Security Cameras Are Up to 60% Off](https://lifehacker.com/these-blink-security-cameras-are-up-to-60-off-1850892027)
 - [Dev.to/JS] [In progress Developer](https://dev.to/josemelendez430/in-progress-developer-2nob)
-- [Dev.to/JS] [⚛️ Full Stack Amazon Clone with Next.js, Typescript, Tailwind CSS, Zustand, Next UI, Recharts and Amplication 🚀](https://dev.to/koolkishan/full-stack-amazon-clone-with-nextjs-typescript-tailwind-css-zustand-next-ui-recharts-and-amplication-1h89)
 - [Lifehacker] [Use This Checklist to Declutter Your Digital Life](https://lifehacker.com/use-this-checklist-to-declutter-your-digital-life-1850891990)
 - [Lifehacker] [You Can Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
 - [Lifehacker] [This 6-in-1 inCharge X Max Charging Cable Is $19 Right Now](https://lifehacker.com/this-6-in-1-incharge-x-max-charging-cable-is-19-right-1850872485)
