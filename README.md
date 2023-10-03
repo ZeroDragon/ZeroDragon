@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding require function &lpar;Node.js&rpar;](https://dev.to/mtorre4580/understanding-require-function-nodejs-1cc4)
 - [Dev.to/JS] [JavaScript Engine Behind the Scenes](https://dev.to/eoluwaseun/javascript-engine-behind-the-scenes-37k4)
 - [Dev.to/JS] [Updated My JavaScript Game UI](https://dev.to/anradev/updated-my-javascript-game-ui-159e)
 - [Dev.to/JS] [Top 5 image carousels libraries in react and next js](https://dev.to/zeeshanmustfai/top-5-image-carousels-libraries-in-react-and-next-js-285f)
@@ -51,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Get Your Kids to Actually Listen](https://lifehacker.com/the-best-way-to-get-your-kids-to-actually-listen-1850892285)
 - [Lifehacker] [The 10 Best Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
 - [Lifehacker] [You Can Use ‘SMART’ Goals for Studying Too](https://lifehacker.com/use-smart-goals-to-study-more-effectively-1850892313)
-- [Dev.to/JS] [Smooth Landing page using Html CSS JavaScript](https://dev.to/codewithtop/smooth-landing-page-using-html-css-javascript-43bj)
 - [Lifehacker] [Meredith&#39;s Training Diary: Running Slower Than You Think You Should](https://lifehacker.com/merediths-training-diary-running-slower-than-you-think-1850886568)
 - [Lifehacker] [You Can Get $30 Free to Spend During Amazon Prime Big Deal Days](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
 - [Lifehacker] [These Blink Security Cameras Are Up to 60% Off](https://lifehacker.com/these-blink-security-cameras-are-up-to-60-off-1850892027)
