@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started With TypeScript](https://dev.to/bhavesh_yadav/getting-started-with-typescript-3o42)
+- [Dev.to/JS] [🔥 Building a Complete React CRM App with refine, Ant Design and GraphQL](https://dev.to/refine/building-a-complete-react-crm-app-with-refine-ant-design-and-graphql-4pgm)
+- [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 4&rpar;](https://dev.to/louislazaris/web-dev-tools-of-the-week-no-4-2bko)
+- [Dev.to/JS] [Angular Addicts #18: Angular 17&#39;s New control flow and View transitions, Incremental static regeneration &amp; more](https://dev.to/this-is-angular/angular-addicts-18-angular-17s-new-control-flow-and-view-transitions-incremental-static-regeneration-more-12cm)
+- [Dev.to/JS] [Easy steps to migrate all Angular components to standalone](https://dev.to/manthanank/create-an-angular-complete-standalone-app-2f4a)
 - [Dev.to/JS] [How To Get ChatGPT API Key? A Step-by-Step Guide](https://dev.to/onlinemsr/how-to-get-chatgpt-api-key-a-step-by-step-guide-2am3)
 - [Dev.to/JS] [Tech Pilgrimage: A Beginners Journey In The World Of Tech.](https://dev.to/gutopro/tech-pilgrimage-a-beginners-journey-in-the-world-of-tech-bd7)
 - [Dev.to/JS] [Carriera - Multipage Job platform](https://dev.to/lexingtonthemes/carriera-multipage-job-platform-11he)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Currency Converter App in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/build-a-currency-converter-app-in-html-css-javascript-2244)
 - [Dev.to/JS] [Unlocking the Power of JavaScript Generators 🦾⏭️](https://dev.to/alessandrofoglia07/unlocking-the-power-of-javascript-generators-5d4i)
 - [Dev.to/JS] [Javascript Debugging &amp; Error Handling 🐞](https://dev.to/shivamblog/javascript-debugging-error-handling-ci8)
-- [Dev.to/JS] [Next.js 13: Introduction to Client-Side Rendering and Client Components](https://dev.to/nathlowe/nextjs-13-introduction-to-client-side-rendering-and-client-components-5hd9)
-- [Dev.to/JS] [Character Conversation For JavaScript](https://dev.to/anradev/character-conversation-for-javascript-104g)
-- [Dev.to/JS] [Understanding require function &lpar;Node.js&rpar;](https://dev.to/mtorre4580/understanding-require-function-nodejs-1cc4)
-- [Dev.to/JS] [JavaScript Engine Behind the Scenes](https://dev.to/eoluwaseun/javascript-engine-behind-the-scenes-37k4)
-- [Dev.to/JS] [Updated My JavaScript Game UI](https://dev.to/anradev/updated-my-javascript-game-ui-159e)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
