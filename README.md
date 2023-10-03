@@ -26,6 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 60: Table Elements](https://dev.to/dhrn/day-60-table-elements-3o97)
+- [Lifehacker] [Your Phone Will Sound a Loud Alarm on Oct. 4](https://lifehacker.com/your-phone-will-sound-a-loud-alarm-on-oct-4-1850894829)
+- [Dev.to/JS] [LeetCode - Solution for 2715. Timeout Cancellation](https://dev.to/jenchen/leetcode-solution-for-2715-timeout-cancellation-32d4)
+- [Dev.to/JS] [My new project: Cardsera.in](https://dev.to/merudra754/my-new-project-cardserain-228p)
+- [Dev.to/JS] [How can decorators simplify the web forms development](https://dev.to/yoskutik/how-can-decorators-simplify-the-web-forms-development-4hle)
+- [Dev.to/JS] [“Python Programming Essentials: Interview Prep Guide”](https://dev.to/dinvstr/python-programming-essentials-interview-prep-guide-5g5o)
+- [Dev.to/JS] [CHEAT SHEET TO FULL STACK SOFTWARE DEVELOPMENT IN 21 WEEKS](https://dev.to/dinvstr/cheat-sheet-to-full-stack-software-developmentin-21-weeks-1pdo)
+- [Lifehacker] [20 of the Best Thrillers on Netflix](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
+- [Dev.to/JS] [Building an entire fullstack project with Firebase 10 and React &lpar;Vite&rpar;](https://dev.to/thebuildguy/building-an-entire-fullstack-project-with-firebase-10-and-react-vite-dfe)
+- [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)
 - [Lifehacker] [The Leviton Scene Controller Could Be Smarter](https://lifehacker.com/leviton-scene-controller-review-1850894184)
 - [Dev.to/JS] [JavaScript : Functional Programming &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-functional-programming-englishhindi-4oij)
 - [Lifehacker] [Is Amazon Prime Really Worth It?](https://lifehacker.com/is-amazon-prime-really-worth-it-1850892083)
@@ -33,14 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Benefits, Reviews, Results &amp; How To Use?](https://dev.to/kdsawhya/blue-vibe-cbd-gummies-pain-relief-benefits-reviews-results-how-to-use-1bj4)
 - [Dev.to/JS] [Take your JavaScript skills to the next level with these 10 GitHub repositories 🕵️‍♂️ 🚀](https://dev.to/shafia/take-your-javascript-skills-to-the-next-level-with-these-10-github-repositories-3f2l)
 - [Dev.to/JS] [DOM Manipulation: Accessing and Modifying the Document Object Model with JavaScript](https://dev.to/outstandingvick/dom-manipulation-accessing-and-modifying-the-document-object-model-with-javascript-2ohk)
-- [Dev.to/JS] [The Power of Angular Directives: A Comprehensive Guide](https://dev.to/chintanonweb/the-power-of-angular-directives-a-comprehensive-guide-3m0b)
-- [Dev.to/JS] [Understanding Variables and Data Types in JavaScript](https://dev.to/outstandingvick/understanding-variables-and-data-types-in-javascript-3d2g)
 - [Lifehacker] [This Apple Watch Wireless Charger Keychain Is $19 Right Now](https://lifehacker.com/this-apple-watch-wireless-charger-keychain-is-19-right-1850878081)
-- [Dev.to/JS] [Styling Active Navigation Links Using Vanilla JS and CSS.](https://dev.to/ghostaram/styling-active-navigation-links-using-vanilla-js-and-css-215b)
-- [Dev.to/JS] [Mastering Fullstack App Dev with FastAPI, React.js, and Chakra UI](https://dev.to/bekbrace/mastering-fullstack-app-dev-with-fastapi-reactjs-and-chakra-ui-mfe)
-- [Dev.to/JS] [Introducing Stack UI - Origin!](https://dev.to/krybone/introducing-stack-ui-origin-k3n)
-- [Dev.to/JS] [How To use .env in Reactjs](https://dev.to/ayoubelsvg/how-to-use-env-in-reactjs-m4n)
-- [Dev.to/JS] [End of React? Web Components Review](https://dev.to/easewithtuts/end-of-react-web-components-review-4664)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
 - [Lifehacker] [This 6-in-1 inCharge X Max Charging Cable Is $19 Right Now](https://lifehacker.com/this-6-in-1-incharge-x-max-charging-cable-is-19-right-1850872485)
 - [Lifehacker] [The Best Study and Time Management Apps for College Students](https://lifehacker.com/best-study-apps-for-college-students-1850888147)
-- [Lifehacker] [Why You Should Switch From Google Authenticator to iCloud Keychain](https://lifehacker.com/why-you-should-switch-from-google-authenticator-to-iclo-1850891304)
-- [Lifehacker] [12 of the Best New Podcasts This Fall](https://lifehacker.com/12-of-the-best-new-podcasts-this-fall-1850889624)
-- [Lifehacker] [What People Are Getting Wrong This Week: NFL Misinformation](https://lifehacker.com/what-people-are-getting-wrong-this-week-nfl-misinforma-1850888774)
-- [Lifehacker] [This Refurbished 16GB Lenovo Tab 4 Is $75 Right Now](https://lifehacker.com/this-refurbished-16gb-lenovo-tab-4-is-75-right-now-1850867001)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Switch From Google Authenticator to iCloud Keychain](https://lifehacker.com/why-you-should-switch-from-google-authenticator-to-iclo-1850891304)<!-- TECH-POSTS:END -->
 
 ---
 
