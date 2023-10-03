@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Four New Games Are Coming to Apple Arcade This Month](https://lifehacker.com/these-four-new-games-are-coming-to-apple-arcade-this-mo-1850896428)
+- [Dev.to/JS] [Django Formsets for Creating Multiple Related Model Instances](https://dev.to/nathanlewis99/django-formsets-for-creating-multiple-related-model-instances-afe)
+- [Dev.to/JS] [The Full Stack Odyssey: A Journey through Software Development](https://dev.to/dinvstr/the-full-stack-odyssey-a-journey-through-software-development-18d5)
+- [Dev.to/JS] [Simplify Async State Management with Redux Toolkit](https://dev.to/codybarker/simplify-async-state-management-with-redux-toolkit-37kl)
+- [Lifehacker] [This i7 Dell Inspiron 16 Laptop Is $320 Off Right Now](https://lifehacker.com/this-i7-dell-inspiron-16-laptop-is-320-off-right-now-1850896343)
 - [Lifehacker] [The Fastest Way to Turn iPhone Live Photos Into a Video](https://lifehacker.com/turn-live-photos-into-video-iphone-1850895845)
 - [Dev.to/JS] [Understanding JavasScript OOPs](https://dev.to/arindam_1729/understanding-javasscript-oops-26l6)
 - [Dev.to/JS] [Unveiling Javascript Scopes](https://dev.to/arindam_1729/unveiling-javascript-scopes-4bl5)
@@ -47,9 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Verified Authorize Account](https://dev.to/stripeaccountpva/buy-verified-authorize-account-3d96)
 - [Lifehacker] [Watch Out for Malicious Ads on Bing Chat](https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698)
 - [Dev.to/JS] [Eleventy components woes](https://dev.to/graphqleditor/eleventy-components-woes-3nap)
-- [Dev.to/JS] [Buy Verified Stripe Account](https://dev.to/stripeaccount/buy-verified-stripe-account-1dig)
-- [Dev.to/JS] [Tracking Personal Velocity: An Intro to the Jira API](https://dev.to/abane94/tracking-personal-velocity-an-intro-to-the-jira-api-3ma)
-- [Dev.to/JS] [Day 60: Table Elements](https://dev.to/dhrn/day-60-table-elements-3o97)
 - [Lifehacker] [Your Phone Will Sound a Loud Alarm on Oct. 4](https://lifehacker.com/your-phone-will-sound-a-loud-alarm-on-oct-4-1850894829)
 - [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
 - [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished iPad Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-is-240-right-now-1850877949)
 - [Lifehacker] [These Sales Are Target’s Answer to Prime Big Deal Days](https://lifehacker.com/target-circle-week-deals-during-prime-day-1850892740)
 - [Lifehacker] [How to Set Price Alerts for Amazon Prime Big Deal Days](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
-- [Lifehacker] [This iOS 17 Setting Almost Revives 3D Touch on Your iPhone](https://lifehacker.com/speed-up-haptic-touch-ios-17-1850891591)
-- [Lifehacker] [This 13-In-1 HDMI and USB Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-hdmi-and-usb-docking-station-is-50-right-1850877897)
-- [Lifehacker] [Don&#39;t Miss These October Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This iOS 17 Setting Almost Revives 3D Touch on Your iPhone](https://lifehacker.com/speed-up-haptic-touch-ios-17-1850891591)<!-- TECH-POSTS:END -->
 
 ---
 
