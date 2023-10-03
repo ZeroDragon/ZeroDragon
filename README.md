@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Fastest Way to Turn iPhone Live Photos Into a Video](https://lifehacker.com/turn-live-photos-into-video-iphone-1850895845)
+- [Dev.to/JS] [Understanding JavasScript OOPs](https://dev.to/arindam_1729/understanding-javasscript-oops-26l6)
+- [Dev.to/JS] [Unveiling Javascript Scopes](https://dev.to/arindam_1729/unveiling-javascript-scopes-4bl5)
+- [Dev.to/JS] [Understanding JavaScript Execution Context](https://dev.to/arindam_1729/understanding-javascript-execution-context-573k)
+- [Dev.to/JS] [How to create an RRS feed in Nuxt Content](https://dev.to/michalkuncio/how-to-create-an-rrs-feed-in-nuxt-content-1bg5)
+- [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
+- [Lifehacker] [These Latest Celebrity Deepfakes Show How Advanced Scams Have Become](https://lifehacker.com/these-latest-celebrity-deepfakes-show-how-advanced-scam-1850895311)
 - [Dev.to/JS] [Cardsera: My New Project](https://dev.to/merudra754/cardsera-my-new-project-12ec)
 - [Lifehacker] [How to Download Pictures and Videos From Threads on Your iPhone](https://lifehacker.com/download-pictures-video-from-threads-iphone-1850895658)
 - [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Big Deal Days](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)
@@ -44,10 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tracking Personal Velocity: An Intro to the Jira API](https://dev.to/abane94/tracking-personal-velocity-an-intro-to-the-jira-api-3ma)
 - [Dev.to/JS] [Day 60: Table Elements](https://dev.to/dhrn/day-60-table-elements-3o97)
 - [Lifehacker] [Your Phone Will Sound a Loud Alarm on Oct. 4](https://lifehacker.com/your-phone-will-sound-a-loud-alarm-on-oct-4-1850894829)
-- [Dev.to/JS] [LeetCode - Solution for 2715. Timeout Cancellation](https://dev.to/jenchen/leetcode-solution-for-2715-timeout-cancellation-32d4)
-- [Dev.to/JS] [My new project: Cardsera.in](https://dev.to/merudra754/my-new-project-cardserain-228p)
-- [Dev.to/JS] [How can decorators simplify the web forms development](https://dev.to/yoskutik/how-can-decorators-simplify-the-web-forms-development-4hle)
-- [Dev.to/JS] [“Python Programming Essentials: Interview Prep Guide”](https://dev.to/dinvstr/python-programming-essentials-interview-prep-guide-5g5o)
 - [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
 - [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)
 - [Lifehacker] [The Leviton Scene Controller Could Be Smarter](https://lifehacker.com/leviton-scene-controller-review-1850894184)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Set Price Alerts for Amazon Prime Big Deal Days](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
 - [Lifehacker] [This iOS 17 Setting Almost Revives 3D Touch on Your iPhone](https://lifehacker.com/speed-up-haptic-touch-ios-17-1850891591)
 - [Lifehacker] [This 13-In-1 HDMI and USB Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-hdmi-and-usb-docking-station-is-50-right-1850877897)
-- [Lifehacker] [Don&#39;t Miss These October Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441)
-- [Lifehacker] [How to Watch Google&#39;s Pixel 8 Event](https://lifehacker.com/stream-google-pixel-8-event-1850892543)
-- [Lifehacker] [The Best Way to Get Your Kids to Actually Listen](https://lifehacker.com/the-best-way-to-get-your-kids-to-actually-listen-1850892285)
-- [Lifehacker] [The 10 Best Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Miss These October Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441)<!-- TECH-POSTS:END -->
 
 ---
 
