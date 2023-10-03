@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Beyoncé’s ‘Renaissance’ Tour Is Coming to Movie Theaters](https://lifehacker.com/preorder-tickets-beyonce-s-renaissance-tour-movie-1850896536)
+- [Dev.to/JS] [Payload CMS -Authentication in Nuxt Using a Custom Plugin](https://dev.to/aaronksaunders/payload-cms-authentication-in-nuxt-using-a-custom-plugin-1gg5)
+- [Lifehacker] [Avoid These Common Window-Cleaning Mistakes](https://lifehacker.com/avoid-these-common-window-cleaning-mistakes-1850895198)
 - [Lifehacker] [These Four New Games Are Coming to Apple Arcade This Month](https://lifehacker.com/these-four-new-games-are-coming-to-apple-arcade-this-mo-1850896428)
 - [Dev.to/JS] [Django Formsets for Creating Multiple Related Model Instances](https://dev.to/nathanlewis99/django-formsets-for-creating-multiple-related-model-instances-afe)
 - [Dev.to/JS] [The Full Stack Odyssey: A Journey through Software Development](https://dev.to/dinvstr/the-full-stack-odyssey-a-journey-through-software-development-18d5)
@@ -51,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Annotate When Reading](https://lifehacker.com/the-best-ways-to-annotate-when-reading-1850895212)
 - [Dev.to/JS] [Buy Verified Authorize Account](https://dev.to/stripeaccountpva/buy-verified-authorize-account-3d96)
 - [Lifehacker] [Watch Out for Malicious Ads on Bing Chat](https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698)
-- [Dev.to/JS] [Eleventy components woes](https://dev.to/graphqleditor/eleventy-components-woes-3nap)
 - [Lifehacker] [Your Phone Will Sound a Loud Alarm on Oct. 4](https://lifehacker.com/your-phone-will-sound-a-loud-alarm-on-oct-4-1850894829)
 - [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
 - [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/how-to-check-a-product-s-price-history-on-amazon-1849158394)
 - [Lifehacker] [This Refurbished iPad Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-is-240-right-now-1850877949)
-- [Lifehacker] [These Sales Are Target’s Answer to Prime Big Deal Days](https://lifehacker.com/target-circle-week-deals-during-prime-day-1850892740)
-- [Lifehacker] [How to Set Price Alerts for Amazon Prime Big Deal Days](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
-- [Lifehacker] [This iOS 17 Setting Almost Revives 3D Touch on Your iPhone](https://lifehacker.com/speed-up-haptic-touch-ios-17-1850891591)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Sales Are Target’s Answer to Prime Big Deal Days](https://lifehacker.com/target-circle-week-deals-during-prime-day-1850892740)<!-- TECH-POSTS:END -->
 
 ---
 
