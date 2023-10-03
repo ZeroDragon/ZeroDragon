@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Engine Behind the Scenes](https://dev.to/eoluwaseun/javascript-engine-behind-the-scenes-37k4)
+- [Dev.to/JS] [Updated My JavaScript Game UI](https://dev.to/anradev/updated-my-javascript-game-ui-159e)
+- [Dev.to/JS] [Top 5 image carousels libraries in react and next js](https://dev.to/zeeshanmustfai/top-5-image-carousels-libraries-in-react-and-next-js-285f)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
 - [Dev.to/JS] [Test Your JavaScript Skills](https://dev.to/jaimaldullat/test-your-javascript-skills-2009)
 - [Dev.to/JS] [Mastering Playwright: Best Practices for Web Automation with the Page Object Model](https://dev.to/lucgagan/mastering-playwright-best-practices-for-web-automation-with-the-page-object-model-4pam)
@@ -51,9 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Smooth Landing page using Html CSS JavaScript](https://dev.to/codewithtop/smooth-landing-page-using-html-css-javascript-43bj)
 - [Lifehacker] [Meredith&#39;s Training Diary: Running Slower Than You Think You Should](https://lifehacker.com/merediths-training-diary-running-slower-than-you-think-1850886568)
 - [Lifehacker] [You Can Get $30 Free to Spend During Amazon Prime Big Deal Days](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
-- [Dev.to/JS] [React Refs: Key to DOM Manipulation](https://dev.to/nitro779/react-refs-key-to-dom-manipulation-4pb2)
-- [Dev.to/JS] [My first Introduction on Dev Community !](https://dev.to/rsai12/my-first-introduction-on-dev-community--c62)
-- [Dev.to/JS] [Feature flagging using GrowthBook in your React App](https://dev.to/saloniagrawal/integrate-growthbook-with-your-react-app-4pdp)
 - [Lifehacker] [These Blink Security Cameras Are Up to 60% Off](https://lifehacker.com/these-blink-security-cameras-are-up-to-60-off-1850892027)
 - [Lifehacker] [Use This Checklist to Declutter Your Digital Life](https://lifehacker.com/use-this-checklist-to-declutter-your-digital-life-1850891990)
 - [Lifehacker] [You Can Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
