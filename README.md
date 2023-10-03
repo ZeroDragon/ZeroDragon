@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Get ChatGPT API Key? A Step-by-Step Guide](https://dev.to/onlinemsr/how-to-get-chatgpt-api-key-a-step-by-step-guide-2am3)
+- [Dev.to/JS] [Tech Pilgrimage: A Beginners Journey In The World Of Tech.](https://dev.to/gutopro/tech-pilgrimage-a-beginners-journey-in-the-world-of-tech-bd7)
+- [Dev.to/JS] [Carriera - Multipage Job platform](https://dev.to/lexingtonthemes/carriera-multipage-job-platform-11he)
+- [Dev.to/JS] [Using HTTPS with Callbacks &lpar;Non-Promise Approach&rpar;:](https://dev.to/eskiimo/using-https-with-callbacks-non-promise-approach-5846)
 - [Dev.to/JS] [Build a Currency Converter App in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/build-a-currency-converter-app-in-html-css-javascript-2244)
 - [Dev.to/JS] [Unlocking the Power of JavaScript Generators 🦾⏭️](https://dev.to/alessandrofoglia07/unlocking-the-power-of-javascript-generators-5d4i)
 - [Dev.to/JS] [Javascript Debugging &amp; Error Handling 🐞](https://dev.to/shivamblog/javascript-debugging-error-handling-ci8)
@@ -34,15 +38,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding require function &lpar;Node.js&rpar;](https://dev.to/mtorre4580/understanding-require-function-nodejs-1cc4)
 - [Dev.to/JS] [JavaScript Engine Behind the Scenes](https://dev.to/eoluwaseun/javascript-engine-behind-the-scenes-37k4)
 - [Dev.to/JS] [Updated My JavaScript Game UI](https://dev.to/anradev/updated-my-javascript-game-ui-159e)
-- [Dev.to/JS] [Top 5 image carousels libraries in react and next js](https://dev.to/zeeshanmustfai/top-5-image-carousels-libraries-in-react-and-next-js-285f)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
-- [Dev.to/JS] [Test Your JavaScript Skills](https://dev.to/jaimaldullat/test-your-javascript-skills-2009)
-- [Dev.to/JS] [Mastering Playwright: Best Practices for Web Automation with the Page Object Model](https://dev.to/lucgagan/mastering-playwright-best-practices-for-web-automation-with-the-page-object-model-4pam)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/how-to-check-a-product-s-price-history-on-amazon-1849158394)
 - [Lifehacker] [This Refurbished iPad Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-is-240-right-now-1850877949)
-- [Dev.to/JS] [Progressive Web Apps definition, Pros and Cons, and how to convert an existing React App into a PWA](https://dev.to/alaa-m1/progressive-web-apps-definition-pros-and-cons-and-how-to-convert-an-existing-react-app-into-a-pwa-1m9d)
 - [Lifehacker] [These Sales Are Target’s Answer to Prime Big Deal Days](https://lifehacker.com/target-circle-week-deals-during-prime-day-1850892740)
 - [Lifehacker] [How to Set Price Alerts for Amazon Prime Big Deal Days](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
 - [Lifehacker] [This iOS 17 Setting Almost Revives 3D Touch on Your iPhone](https://lifehacker.com/speed-up-haptic-touch-ios-17-1850891591)
