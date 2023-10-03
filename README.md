@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can ‘Unionize’ Your Debt](https://lifehacker.com/how-and-when-to-join-debtors-union-1850895018)
+- [Lifehacker] [The Best Early Deals on Robot Vacuums for Amazon’s ‘Big Deal Days’](https://lifehacker.com/the-best-early-prime-day-deals-for-vacuums-1850562769)
+- [Dev.to/JS] [Javascript Singly Linked Lists: Where, When, And How](https://dev.to/snaryshkov/javascript-singly-linked-lists-where-when-and-how-1l8c)
+- [Lifehacker] [The Best Ways to Annotate When Reading](https://lifehacker.com/the-best-ways-to-annotate-when-reading-1850895212)
 - [Dev.to/JS] [Buy Verified Authorize Account](https://dev.to/stripeaccountpva/buy-verified-authorize-account-3d96)
 - [Lifehacker] [Watch Out for Malicious Ads on Bing Chat](https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698)
 - [Dev.to/JS] [Eleventy components woes](https://dev.to/graphqleditor/eleventy-components-woes-3nap)
@@ -38,11 +42,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How can decorators simplify the web forms development](https://dev.to/yoskutik/how-can-decorators-simplify-the-web-forms-development-4hle)
 - [Dev.to/JS] [“Python Programming Essentials: Interview Prep Guide”](https://dev.to/dinvstr/python-programming-essentials-interview-prep-guide-5g5o)
 - [Dev.to/JS] [CHEAT SHEET TO FULL STACK SOFTWARE DEVELOPMENT IN 21 WEEKS](https://dev.to/dinvstr/cheat-sheet-to-full-stack-software-developmentin-21-weeks-1pdo)
-- [Lifehacker] [20 of the Best Thrillers on Netflix](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
+- [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
 - [Dev.to/JS] [Building an entire fullstack project with Firebase 10 and React &lpar;Vite&rpar;](https://dev.to/thebuildguy/building-an-entire-fullstack-project-with-firebase-10-and-react-vite-dfe)
 - [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)
 - [Lifehacker] [The Leviton Scene Controller Could Be Smarter](https://lifehacker.com/leviton-scene-controller-review-1850894184)
-- [Dev.to/JS] [JavaScript : Functional Programming &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-functional-programming-englishhindi-4oij)
 - [Lifehacker] [Is Amazon Prime Really Worth It?](https://lifehacker.com/is-amazon-prime-really-worth-it-1850892083)
 - [Lifehacker] [This Apple Watch Wireless Charger Keychain Is $19 Right Now](https://lifehacker.com/this-apple-watch-wireless-charger-keychain-is-19-right-1850878081)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meredith&#39;s Training Diary: Running Slower Than You Think You Should](https://lifehacker.com/merediths-training-diary-running-slower-than-you-think-1850886568)
 - [Lifehacker] [You Can Get $30 Free to Spend During Amazon Prime Big Deal Days](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
 - [Lifehacker] [These Blink Security Cameras Are Up to 60% Off](https://lifehacker.com/these-blink-security-cameras-are-up-to-60-off-1850892027)
-- [Lifehacker] [Use This Checklist to Declutter Your Digital Life](https://lifehacker.com/use-this-checklist-to-declutter-your-digital-life-1850891990)
-- [Lifehacker] [You Can Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
-- [Lifehacker] [This 6-in-1 inCharge X Max Charging Cable Is $19 Right Now](https://lifehacker.com/this-6-in-1-incharge-x-max-charging-cable-is-19-right-1850872485)
-- [Lifehacker] [The Best Study and Time Management Apps for College Students](https://lifehacker.com/best-study-apps-for-college-students-1850888147)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Checklist to Declutter Your Digital Life](https://lifehacker.com/use-this-checklist-to-declutter-your-digital-life-1850891990)<!-- TECH-POSTS:END -->
 
 ---
 
