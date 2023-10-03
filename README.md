@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Practical Guide to the Cluster Module in Node JS](https://dev.to/sriniwas/a-practical-guide-to-the-cluster-module-in-node-js-2l17)
 - [Dev.to/JS] [Achieve AWS Success with CLF-C01 Exam Dumps](https://dev.to/rfrc3l3b/achieve-aws-success-with-clf-c01-exam-dumps-4hdj)
 - [Dev.to/JS] [Understanding the Difference Between .js and .txt Files in JavaScript Development](https://dev.to/aadyaasrivastava/understanding-the-difference-between-js-and-txt-files-in-javascript-development-p56)
 - [Dev.to/JS] [React Refs: key to DOM Manipulation Part-2](https://dev.to/nitro779/react-refs-key-to-dom-manipulation-part-2-3h9a)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Get ChatGPT API Key? A Step-by-Step Guide](https://dev.to/onlinemsr/how-to-get-chatgpt-api-key-a-step-by-step-guide-2am3)
 - [Dev.to/JS] [Tech Pilgrimage: A Beginners Journey In The World Of Tech.](https://dev.to/gutopro/tech-pilgrimage-a-beginners-journey-in-the-world-of-tech-bd7)
 - [Dev.to/JS] [Carriera - Multipage Job platform](https://dev.to/lexingtonthemes/carriera-multipage-job-platform-11he)
-- [Dev.to/JS] [Using HTTPS with Callbacks &lpar;Non-Promise Approach&rpar;:](https://dev.to/eskiimo/using-https-with-callbacks-non-promise-approach-5846)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
