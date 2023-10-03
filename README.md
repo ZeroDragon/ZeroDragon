@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to JavaScript if statement](https://dev.to/las/introduction-to-javascript-if-statement-5f89)
+- [Lifehacker] [The FAFSA Will Be Delayed This Year](https://lifehacker.com/the-fafsa-will-be-delayed-this-year-1850895008)
+- [Lifehacker] [If You Have a Secret Cell Phone, Turn It Off on Wednesday](https://lifehacker.com/if-you-have-a-secret-cell-phone-turn-it-off-on-wednesd-1850895009)
 - [Lifehacker] [You Can ‘Unionize’ Your Debt](https://lifehacker.com/how-and-when-to-join-debtors-union-1850895018)
 - [Lifehacker] [The Best Early Deals on Robot Vacuums for Amazon’s ‘Big Deal Days’](https://lifehacker.com/the-best-early-prime-day-deals-for-vacuums-1850562769)
 - [Dev.to/JS] [Javascript Singly Linked Lists: Where, When, And How](https://dev.to/snaryshkov/javascript-singly-linked-lists-where-when-and-how-1l8c)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [“Python Programming Essentials: Interview Prep Guide”](https://dev.to/dinvstr/python-programming-essentials-interview-prep-guide-5g5o)
 - [Dev.to/JS] [CHEAT SHEET TO FULL STACK SOFTWARE DEVELOPMENT IN 21 WEEKS](https://dev.to/dinvstr/cheat-sheet-to-full-stack-software-developmentin-21-weeks-1pdo)
 - [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
-- [Dev.to/JS] [Building an entire fullstack project with Firebase 10 and React &lpar;Vite&rpar;](https://dev.to/thebuildguy/building-an-entire-fullstack-project-with-firebase-10-and-react-vite-dfe)
 - [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)
 - [Lifehacker] [The Leviton Scene Controller Could Be Smarter](https://lifehacker.com/leviton-scene-controller-review-1850894184)
 - [Lifehacker] [Is Amazon Prime Really Worth It?](https://lifehacker.com/is-amazon-prime-really-worth-it-1850892083)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 10 Best Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
 - [Lifehacker] [You Can Use ‘SMART’ Goals for Studying Too](https://lifehacker.com/use-smart-goals-to-study-more-effectively-1850892313)
 - [Lifehacker] [Meredith&#39;s Training Diary: Running Slower Than You Think You Should](https://lifehacker.com/merediths-training-diary-running-slower-than-you-think-1850886568)
-- [Lifehacker] [You Can Get $30 Free to Spend During Amazon Prime Big Deal Days](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
-- [Lifehacker] [These Blink Security Cameras Are Up to 60% Off](https://lifehacker.com/these-blink-security-cameras-are-up-to-60-off-1850892027)
-- [Lifehacker] [Use This Checklist to Declutter Your Digital Life](https://lifehacker.com/use-this-checklist-to-declutter-your-digital-life-1850891990)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get $30 Free to Spend During Amazon Prime Big Deal Days](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)<!-- TECH-POSTS:END -->
 
 ---
 
