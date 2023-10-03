@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
+- [Dev.to/JS] [Test Your JavaScript Skills](https://dev.to/jaimaldullat/test-your-javascript-skills-2009)
 - [Dev.to/JS] [Mastering Playwright: Best Practices for Web Automation with the Page Object Model](https://dev.to/lucgagan/mastering-playwright-best-practices-for-web-automation-with-the-page-object-model-4pam)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
@@ -53,7 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My first Introduction on Dev Community !](https://dev.to/rsai12/my-first-introduction-on-dev-community--c62)
 - [Dev.to/JS] [Feature flagging using GrowthBook in your React App](https://dev.to/saloniagrawal/integrate-growthbook-with-your-react-app-4pdp)
 - [Lifehacker] [These Blink Security Cameras Are Up to 60% Off](https://lifehacker.com/these-blink-security-cameras-are-up-to-60-off-1850892027)
-- [Dev.to/JS] [In progress Developer](https://dev.to/josemelendez430/in-progress-developer-2nob)
 - [Lifehacker] [Use This Checklist to Declutter Your Digital Life](https://lifehacker.com/use-this-checklist-to-declutter-your-digital-life-1850891990)
 - [Lifehacker] [You Can Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
 - [Lifehacker] [This 6-in-1 inCharge X Max Charging Cable Is $19 Right Now](https://lifehacker.com/this-6-in-1-incharge-x-max-charging-cable-is-19-right-1850872485)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished 16GB Lenovo Tab 4 Is $75 Right Now](https://lifehacker.com/this-refurbished-16gb-lenovo-tab-4-is-75-right-now-1850867001)
 - [Lifehacker] [Don’t Prune These Bushes in the Fall](https://lifehacker.com/bushes-to-prune-in-fall-1850887331)
 - [Lifehacker] [How to Stop Being a Financial Procrastinator](https://lifehacker.com/are-you-a-financial-procrastinator-1850887300)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)
-- [Lifehacker] [Approach a Potential Career Change As If You Were Designing a New Product](https://lifehacker.com/approach-a-potential-career-change-as-if-you-were-desig-1850888017)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 2, 2023](https://lifehacker.com/nyt-connections-answer-today-october-2-2023-1850886791)<!-- TECH-POSTS:END -->
 
 ---
 
