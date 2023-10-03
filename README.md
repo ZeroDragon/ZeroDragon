@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SeroLean Reviews – Does It Work? What They Won’t Tell You!](https://dev.to/beverlysmith/serolean-reviews-does-it-work-what-they-wont-tell-you-4im1)
+- [Dev.to/JS] [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Express - is out](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-express-is-out-3dld)
+- [Dev.to/JS] [Bitbucket Dependency Bot Using Renovate 🤖](https://dev.to/pgburrack/bitbucket-dependency-bot-using-renovate-5d3b)
+- [Dev.to/JS] [DP-203 Exam Dumps: DumpsArena&#39;s Expert Guidance](https://dev.to/zjgzrgc0/dp-203-exam-dumps-dumpsarenas-expert-guidance-4jgf)
+- [Dev.to/JS] [The Dangers of Preventing Node.js App Crashes: Why &#39;uncaughtException&#39; Is a Last Resort](https://dev.to/mrrishimeena/the-dangers-of-preventing-nodejs-app-crashes-why-uncaughtexception-is-a-last-resort-1mmh)
 - [Dev.to/JS] [A Practical Guide to the Cluster Module in Node JS](https://dev.to/sriniwas/a-practical-guide-to-the-cluster-module-in-node-js-2l17)
 - [Dev.to/JS] [Achieve AWS Success with CLF-C01 Exam Dumps](https://dev.to/rfrc3l3b/achieve-aws-success-with-clf-c01-exam-dumps-4hdj)
 - [Dev.to/JS] [Understanding the Difference Between .js and .txt Files in JavaScript Development](https://dev.to/aadyaasrivastava/understanding-the-difference-between-js-and-txt-files-in-javascript-development-p56)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started With TypeScript](https://dev.to/bhavesh_yadav/getting-started-with-typescript-3o42)
 - [Dev.to/JS] [🔥 Building a Complete React CRM App with refine, Ant Design and GraphQL](https://dev.to/refine/building-a-complete-react-crm-app-with-refine-ant-design-and-graphql-4pgm)
 - [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 4&rpar;](https://dev.to/louislazaris/web-dev-tools-of-the-week-no-4-2bko)
-- [Dev.to/JS] [Angular Addicts #18: Angular 17&#39;s New control flow and View transitions, Incremental static regeneration &amp; more](https://dev.to/this-is-angular/angular-addicts-18-angular-17s-new-control-flow-and-view-transitions-incremental-static-regeneration-more-12cm)
-- [Dev.to/JS] [Easy steps to migrate all Angular components to standalone](https://dev.to/manthanank/create-an-angular-complete-standalone-app-2f4a)
-- [Dev.to/JS] [How To Get ChatGPT API Key? A Step-by-Step Guide](https://dev.to/onlinemsr/how-to-get-chatgpt-api-key-a-step-by-step-guide-2am3)
-- [Dev.to/JS] [Tech Pilgrimage: A Beginners Journey In The World Of Tech.](https://dev.to/gutopro/tech-pilgrimage-a-beginners-journey-in-the-world-of-tech-bd7)
-- [Dev.to/JS] [Carriera - Multipage Job platform](https://dev.to/lexingtonthemes/carriera-multipage-job-platform-11he)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
