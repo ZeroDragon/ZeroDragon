@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Debugging &amp; Error Handling 🐞](https://dev.to/shivamblog/javascript-debugging-error-handling-ci8)
+- [Dev.to/JS] [Next.js 13: Introduction to Client-Side Rendering and Client Components](https://dev.to/nathlowe/nextjs-13-introduction-to-client-side-rendering-and-client-components-5hd9)
+- [Dev.to/JS] [Character Conversation For JavaScript](https://dev.to/anradev/character-conversation-for-javascript-104g)
 - [Dev.to/JS] [Understanding require function &lpar;Node.js&rpar;](https://dev.to/mtorre4580/understanding-require-function-nodejs-1cc4)
 - [Dev.to/JS] [JavaScript Engine Behind the Scenes](https://dev.to/eoluwaseun/javascript-engine-behind-the-scenes-37k4)
 - [Dev.to/JS] [Updated My JavaScript Game UI](https://dev.to/anradev/updated-my-javascript-game-ui-159e)
@@ -42,12 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Sales Are Target’s Answer to Prime Big Deal Days](https://lifehacker.com/target-circle-week-deals-during-prime-day-1850892740)
 - [Lifehacker] [How to Set Price Alerts for Amazon Prime Big Deal Days](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
 - [Dev.to/JS] [CRYPTOCURRENCY RECOVERY IS REAL](https://dev.to/garciakat01/cryptocurrency-recovery-is-real-553h)
-- [Dev.to/JS] [Don&#39;t use Nest.js](https://dev.to/akibrk/dont-use-nestjs-473b)
 - [Lifehacker] [This iOS 17 Setting Almost Revives 3D Touch on Your iPhone](https://lifehacker.com/speed-up-haptic-touch-ios-17-1850891591)
-- [Dev.to/JS] [Unlock the Digital World: Web Development for Beginners Guide](https://dev.to/jcodes5/unlock-the-digital-world-web-development-for-beginners-guide-4n2j)
 - [Lifehacker] [This 13-In-1 HDMI and USB Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-hdmi-and-usb-docking-station-is-50-right-1850877897)
 - [Lifehacker] [Don&#39;t Miss These October Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441)
-- [Dev.to/JS] [Feature flags in Angular](https://dev.to/jstnjs/feature-flags-in-angular-4kb0)
 - [Lifehacker] [How to Watch Google&#39;s Pixel 8 Event](https://lifehacker.com/stream-google-pixel-8-event-1850892543)
 - [Lifehacker] [The Best Way to Get Your Kids to Actually Listen](https://lifehacker.com/the-best-way-to-get-your-kids-to-actually-listen-1850892285)
 - [Lifehacker] [The 10 Best Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
