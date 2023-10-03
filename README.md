@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript won. What next?](https://dev.to/remojansen/typescript-won-what-next-27md)
+- [Dev.to/JS] [Laravel: Tailwind Livewire UI Components](https://dev.to/bytebricks/laravel-tailwind-livewire-ui-components-8pn)
+- [Dev.to/JS] [Crypto-Wallet Password Recovery](https://dev.to/rowanbarland/crypto-wallet-password-recovery-4mlb)
+- [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
+- [Dev.to/JS] [How to store google api key as secret with expo](https://dev.to/allenwalker3/how-to-store-google-api-key-as-secret-with-expo-5egg)
+- [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
 - [Lifehacker] [Beyoncé’s ‘Renaissance’ Tour Is Coming to Movie Theaters](https://lifehacker.com/preorder-tickets-beyonce-s-renaissance-tour-movie-1850896536)
 - [Dev.to/JS] [Payload CMS -Authentication in Nuxt Using a Custom Plugin](https://dev.to/aaronksaunders/payload-cms-authentication-in-nuxt-using-a-custom-plugin-1gg5)
 - [Lifehacker] [Avoid These Common Window-Cleaning Mistakes](https://lifehacker.com/avoid-these-common-window-cleaning-mistakes-1850895198)
@@ -41,18 +47,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create an RRS feed in Nuxt Content](https://dev.to/michalkuncio/how-to-create-an-rrs-feed-in-nuxt-content-1bg5)
 - [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
 - [Lifehacker] [These Latest Celebrity Deepfakes Show How Advanced Scams Have Become](https://lifehacker.com/these-latest-celebrity-deepfakes-show-how-advanced-scam-1850895311)
-- [Dev.to/JS] [Cardsera: My New Project](https://dev.to/merudra754/cardsera-my-new-project-12ec)
 - [Lifehacker] [How to Download Pictures and Videos From Threads on Your iPhone](https://lifehacker.com/download-pictures-video-from-threads-iphone-1850895658)
 - [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Big Deal Days](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)
 - [Lifehacker] [5 Hidden Brave Browser Features You Should Use](https://lifehacker.com/brave-browser-best-hidden-features-1850895498)
-- [Dev.to/JS] [Introduction to JavaScript if statement](https://dev.to/las/introduction-to-javascript-if-statement-5f89)
 - [Lifehacker] [The FAFSA Will Be Delayed This Year](https://lifehacker.com/the-fafsa-will-be-delayed-this-year-1850895008)
 - [Lifehacker] [If You Have a Secret Cell Phone, Turn It Off on Wednesday](https://lifehacker.com/if-you-have-a-secret-cell-phone-turn-it-off-on-wednesd-1850895009)
 - [Lifehacker] [You Can ‘Unionize’ Your Debt](https://lifehacker.com/how-and-when-to-join-debtors-union-1850895018)
 - [Lifehacker] [The Best Early Deals on Robot Vacuums for Amazon’s ‘Big Deal Days’](https://lifehacker.com/the-best-early-prime-day-deals-for-vacuums-1850562769)
-- [Dev.to/JS] [Javascript Singly Linked Lists: Where, When, And How](https://dev.to/snaryshkov/javascript-singly-linked-lists-where-when-and-how-1l8c)
 - [Lifehacker] [The Best Ways to Annotate When Reading](https://lifehacker.com/the-best-ways-to-annotate-when-reading-1850895212)
-- [Dev.to/JS] [Buy Verified Authorize Account](https://dev.to/stripeaccountpva/buy-verified-authorize-account-3d96)
 - [Lifehacker] [Watch Out for Malicious Ads on Bing Chat](https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698)
 - [Lifehacker] [Your Phone Will Sound a Loud Alarm on Oct. 4](https://lifehacker.com/your-phone-will-sound-a-loud-alarm-on-oct-4-1850894829)
 - [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
-- [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/how-to-check-a-product-s-price-history-on-amazon-1849158394)
-- [Lifehacker] [This Refurbished iPad Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-is-240-right-now-1850877949)
-- [Lifehacker] [These Sales Are Target’s Answer to Prime Big Deal Days](https://lifehacker.com/target-circle-week-deals-during-prime-day-1850892740)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/how-to-check-a-product-s-price-history-on-amazon-1849158394)<!-- TECH-POSTS:END -->
 
 ---
 
