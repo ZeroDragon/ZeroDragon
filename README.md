@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Achieve NextJS Mastery: Build a Sales Page with Stripe and Airtable 🧙‍♂️🪄✨](https://dev.to/triggerdotdev/achieve-nextjs-mastery-build-a-sales-page-with-stripe-and-airtable-1p5m)
+- [Dev.to/JS] [✨ The most talked about open source projects on HackerNews &lpar;and ones to contribute to&rpar; 🚀](https://dev.to/quine/the-most-talked-about-open-source-projects-on-hackernews-and-ones-to-contribute-to-375)
+- [Dev.to/JS] [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Angular - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-angular-is-out-2i3b)
+- [Dev.to/JS] [JavaScript Tricky Outputs: Unveiling the Mysteries](https://dev.to/jaimaldullat/javascript-tricky-outputs-unveiling-the-mysteries-1laf)
+- [Dev.to/JS] [Web Page Rendering and Everything You Need to Know About It](https://dev.to/peculiarrichard/web-page-rendering-and-everything-you-need-to-know-about-it-1k57)
 - [Dev.to/JS] [SeroLean Reviews – Does It Work? What They Won’t Tell You!](https://dev.to/beverlysmith/serolean-reviews-does-it-work-what-they-wont-tell-you-4im1)
 - [Dev.to/JS] [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Express - is out](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-express-is-out-3dld)
 - [Dev.to/JS] [Bitbucket Dependency Bot Using Renovate 🤖](https://dev.to/pgburrack/bitbucket-dependency-bot-using-renovate-5d3b)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Dangers of Preventing Node.js App Crashes: Why &#39;uncaughtException&#39; Is a Last Resort](https://dev.to/mrrishimeena/the-dangers-of-preventing-nodejs-app-crashes-why-uncaughtexception-is-a-last-resort-1mmh)
 - [Dev.to/JS] [A Practical Guide to the Cluster Module in Node JS](https://dev.to/sriniwas/a-practical-guide-to-the-cluster-module-in-node-js-2l17)
 - [Dev.to/JS] [Achieve AWS Success with CLF-C01 Exam Dumps](https://dev.to/rfrc3l3b/achieve-aws-success-with-clf-c01-exam-dumps-4hdj)
-- [Dev.to/JS] [Understanding the Difference Between .js and .txt Files in JavaScript Development](https://dev.to/aadyaasrivastava/understanding-the-difference-between-js-and-txt-files-in-javascript-development-p56)
-- [Dev.to/JS] [React Refs: key to DOM Manipulation Part-2](https://dev.to/nitro779/react-refs-key-to-dom-manipulation-part-2-3h9a)
-- [Dev.to/JS] [Getting Started With TypeScript](https://dev.to/bhavesh_yadav/getting-started-with-typescript-3o42)
-- [Dev.to/JS] [🔥 Building a Complete React CRM App with refine, Ant Design and GraphQL](https://dev.to/refine/building-a-complete-react-crm-app-with-refine-ant-design-and-graphql-4pgm)
-- [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 4&rpar;](https://dev.to/louislazaris/web-dev-tools-of-the-week-no-4-2bko)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
 - [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
