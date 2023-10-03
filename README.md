@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cardsera: My New Project](https://dev.to/merudra754/cardsera-my-new-project-12ec)
+- [Lifehacker] [How to Download Pictures and Videos From Threads on Your iPhone](https://lifehacker.com/download-pictures-video-from-threads-iphone-1850895658)
+- [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Big Deal Days](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)
+- [Lifehacker] [5 Hidden Brave Browser Features You Should Use](https://lifehacker.com/brave-browser-best-hidden-features-1850895498)
 - [Dev.to/JS] [Introduction to JavaScript if statement](https://dev.to/las/introduction-to-javascript-if-statement-5f89)
 - [Lifehacker] [The FAFSA Will Be Delayed This Year](https://lifehacker.com/the-fafsa-will-be-delayed-this-year-1850895008)
 - [Lifehacker] [If You Have a Secret Cell Phone, Turn It Off on Wednesday](https://lifehacker.com/if-you-have-a-secret-cell-phone-turn-it-off-on-wednesd-1850895009)
@@ -44,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My new project: Cardsera.in](https://dev.to/merudra754/my-new-project-cardserain-228p)
 - [Dev.to/JS] [How can decorators simplify the web forms development](https://dev.to/yoskutik/how-can-decorators-simplify-the-web-forms-development-4hle)
 - [Dev.to/JS] [“Python Programming Essentials: Interview Prep Guide”](https://dev.to/dinvstr/python-programming-essentials-interview-prep-guide-5g5o)
-- [Dev.to/JS] [CHEAT SHEET TO FULL STACK SOFTWARE DEVELOPMENT IN 21 WEEKS](https://dev.to/dinvstr/cheat-sheet-to-full-stack-software-developmentin-21-weeks-1pdo)
 - [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
 - [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)
 - [Lifehacker] [The Leviton Scene Controller Could Be Smarter](https://lifehacker.com/leviton-scene-controller-review-1850894184)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Miss These October Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441)
 - [Lifehacker] [How to Watch Google&#39;s Pixel 8 Event](https://lifehacker.com/stream-google-pixel-8-event-1850892543)
 - [Lifehacker] [The Best Way to Get Your Kids to Actually Listen](https://lifehacker.com/the-best-way-to-get-your-kids-to-actually-listen-1850892285)
-- [Lifehacker] [The 10 Best Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)
-- [Lifehacker] [You Can Use ‘SMART’ Goals for Studying Too](https://lifehacker.com/use-smart-goals-to-study-more-effectively-1850892313)
-- [Lifehacker] [Meredith&#39;s Training Diary: Running Slower Than You Think You Should](https://lifehacker.com/merediths-training-diary-running-slower-than-you-think-1850886568)
-- [Lifehacker] [You Can Get $30 Free to Spend During Amazon Prime Big Deal Days](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 10 Best Exercises to Do With Tiny Dumbbells](https://lifehacker.com/10-versatile-exercises-to-do-with-tiny-dumbbells-1849738072)<!-- TECH-POSTS:END -->
 
 ---
 
