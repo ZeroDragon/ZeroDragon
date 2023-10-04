@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Amazon Fire Sticks for Over 50% Off Right Now](https://lifehacker.com/you-can-get-amazon-fire-sticks-for-over-50-off-right-n-1850896973)
+- [Lifehacker] [The Best Ways to Digitize Your Notes](https://lifehacker.com/best-ways-digitize-notes-1850896868)
+- [Dev.to/JS] [Function Parameter Mode Choices for Http Handlers](https://dev.to/610470416/function-parameter-mode-choices-for-http-handlers-1bk5)
+- [Dev.to/JS] [Multi Step Progress Bar in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/multi-step-progress-bar-in-html-css-javascript-3i34)
 - [Lifehacker] [How to Keep Your Pumpkin Plants Alive Until Halloween](https://lifehacker.com/how-to-keep-your-pumpkin-plants-alive-until-halloween-1850896507)
 - [Dev.to/JS] [ReactJS to fetch weather data from a weather API](https://dev.to/codelover405/reactjs-to-fetch-weather-data-from-a-weather-api-3ela)
 - [Dev.to/JS] [Routup: A Fast, Lightweight and Asynchronous Routing Framework](https://dev.to/tada5hi/routup-a-fast-lightweight-and-asynchronous-routing-framework-1jnf)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript and Functional Programming: A Dive into Pure Functions, Currying, and Functional Composition](https://dev.to/jaimaldullat/javascript-and-functional-programming-a-dive-into-pure-functions-currying-and-functional-composition-2abc)
 - [Dev.to/JS] [JavaScript for Beginners: Classes](https://dev.to/catherineisonline/javascript-for-beginners-classes-525o)
 - [Dev.to/JS] [In-store Bakery Products Market Size Analysis, Drivers, Restraints, Key Factors Forecast, 2030](https://dev.to/adamsmark0077/in-store-bakery-products-market-size-analysis-drivers-restraints-key-factors-forecast-2030-gfh)
-- [Dev.to/JS] [Replacing All Occurrences of a String in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/replacing-all-occurrences-of-a-string-in-javascript-a-comprehensive-guide-3o9n)
-- [Dev.to/JS] [Beyond the Hype: Rethinking Decoupled Architecture and the Pursuit of Modern Frontends](https://dev.to/nickciolpan/beyond-the-hype-rethinking-decoupled-architecture-and-the-pursuit-of-modern-frontends-3hhe)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
 - [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)
 - [Lifehacker] [The Leviton Scene Controller Could Be Smarter](https://lifehacker.com/leviton-scene-controller-review-1850894184)
 - [Lifehacker] [Is Amazon Prime Really Worth It?](https://lifehacker.com/is-amazon-prime-really-worth-it-1850892083)
-- [Lifehacker] [This Apple Watch Wireless Charger Keychain Is $19 Right Now](https://lifehacker.com/this-apple-watch-wireless-charger-keychain-is-19-right-1850878081)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
-- [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Apple Watch Wireless Charger Keychain Is $19 Right Now](https://lifehacker.com/this-apple-watch-wireless-charger-keychain-is-19-right-1850878081)<!-- TECH-POSTS:END -->
 
 ---
 
