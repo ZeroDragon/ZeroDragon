@@ -26,12 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Day 61: HTML Events](https://dev.to/dhrn/day-61-html-events-173b)
+- [Dev.to/JS] [Buy Verified CashApp Account](https://dev.to/stripeaccountpva2/buy-verified-cashapp-account-44nj)
+- [Dev.to/JS] [MVP Development for SaaS: Strategies for Success](https://dev.to/techno_yuga/mvp-development-for-saas-strategies-for-success-5fi3)
+- [Lifehacker] [All the New Android 14 Features Google Announced Today](https://lifehacker.com/best-new-features-android-14-1850897684)
+- [Dev.to/JS] [Sentry Web Vitals: Unpacking and Resolving LCP Metric Detection Challenges](https://dev.to/realoff/sentry-web-vitals-unpacking-and-resolving-lcp-metric-detection-challenges-3l7c)
 - [Lifehacker] [These Are the Newest Updates to Pixel Buds Pro](https://lifehacker.com/these-are-the-newest-updates-to-pixel-buds-pro-1850897682)
 - [Dev.to/JS] [Using the Driver.js library to guide user focus](https://dev.to/logrocket/using-the-driverjs-library-to-guide-user-focus-43ie)
 - [Lifehacker] [The ‘Ring of Fire’ Eclipse and Other Solar Events to Watch in October](https://lifehacker.com/the-ring-of-fire-eclipse-and-other-solar-events-to-wa-1850898067)
 - [Dev.to/JS] [Angular Pipes: Unleashing the Power of Data Transformation](https://dev.to/chintanonweb/angular-pipes-unleashing-the-power-of-data-transformation-1i6k)
-- [Lifehacker] [Here&#39;s How Many Calories I Burned Riding an Ebike Vs. a Regular Bike](https://lifehacker.com/heres-how-many-calories-i-burned-riding-an-ebike-vs-a-1850897770)
+- [Lifehacker] [Here&#39;s How Many Calories I Burned Riding an E-bike Vs. a Regular Bike](https://lifehacker.com/heres-how-many-calories-i-burned-riding-an-ebike-vs-a-1850897770)
 - [Dev.to/JS] [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Svelte - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-svelte-is-out-556a)
 - [Dev.to/JS] [Portable Electric Mini Fan](https://dev.to/manimani1348527/portable-electric-mini-fan-2o71)
 - [Dev.to/JS] [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Laravel - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-laravel-is-out-29hc)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Multi Step Progress Bar in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/multi-step-progress-bar-in-html-css-javascript-3i34)
 - [Lifehacker] [How to Keep Your Pumpkin Plants Alive Until Halloween](https://lifehacker.com/how-to-keep-your-pumpkin-plants-alive-until-halloween-1850896507)
 - [Dev.to/JS] [ReactJS to fetch weather data from a weather API](https://dev.to/codelover405/reactjs-to-fetch-weather-data-from-a-weather-api-3ela)
-- [Dev.to/JS] [Routup: A Fast, Lightweight and Asynchronous Routing Framework](https://dev.to/tada5hi/routup-a-fast-lightweight-and-asynchronous-routing-framework-1jnf)
-- [Dev.to/JS] [Tab based login and signup logic in React.js](https://dev.to/codelover405/tab-based-login-and-signup-logic-in-reactjs-5f6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
 - [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Annotate When Reading](https://lifehacker.com/the-best-ways-to-annotate-when-reading-1850895212)
 - [Lifehacker] [Watch Out for Malicious Ads on Bing Chat](https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698)
 - [Lifehacker] [Your Phone Will Sound a Loud Alarm on Oct. 4](https://lifehacker.com/your-phone-will-sound-a-loud-alarm-on-oct-4-1850894829)
-- [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
-- [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)<!-- TECH-POSTS:END -->
 
 ---
 
