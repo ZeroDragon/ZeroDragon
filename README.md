@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Replacing All Occurrences of a String in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/replacing-all-occurrences-of-a-string-in-javascript-a-comprehensive-guide-3o9n)
+- [Dev.to/JS] [Beyond the Hype: Rethinking Decoupled Architecture and the Pursuit of Modern Frontends](https://dev.to/nickciolpan/beyond-the-hype-rethinking-decoupled-architecture-and-the-pursuit-of-modern-frontends-3hhe)
+- [Dev.to/JS] [Maternity Clothes Market Key Strategies, Application, Growth, Trends and Opportunities 2028](https://dev.to/adamsmark0077/maternity-clothes-market-key-strategies-application-growth-trends-and-opportunities-2028-457g)
 - [Dev.to/JS] [How to use IndexedDB to store images and other files in your browser](https://dev.to/tqbit/how-to-use-indexeddb-to-store-images-and-other-files-in-your-browser-51fm)
 - [Dev.to/JS] [Dev.to vs Dev.js: I&#39;m not interested in JavaScript, but my timeline is full of it](https://dev.to/unikzforce/devto-vs-devjs-im-not-interested-in-javascript-but-my-timeline-is-full-of-it-1hm2)
 - [Dev.to/JS] [Building A Simple CRUD API With Next.Js 13](https://dev.to/skipperhoa/building-a-simple-crud-api-with-nextjs-13-40eh)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [💻 Web Development Resources #168](https://dev.to/vincenius/web-development-resources-168-234a)
 - [Dev.to/JS] [Phòng Khám Đa Khoa Tháng Tám Dịch Vụ Chăm Sóc Sức Khỏe Đẳng Cấp](https://dev.to/pkdkthangtam/phong-kham-da-khoa-thang-tam-dich-vu-cham-soc-suc-khoe-dang-cap-29n1)
 - [Dev.to/JS] [Unlocking the Power of Multi-Core CPUs: Supercharge Your Node.js App with Clustering!](https://dev.to/probir-sarkar/unlocking-the-power-of-multi-core-cpus-supercharge-your-nodejs-app-with-clustering-18md)
-- [Dev.to/JS] [ESLint playground &amp; meta tag editor - DevHunt Digest #3](https://dev.to/gerimate/eslint-playground-meta-tag-editor-devhunt-digest-3-1ml6)
-- [Dev.to/JS] [Dollar Sign in JavaScript: A Comprehensive Guide](https://dev.to/onlinemsr/dollar-sign-in-javascript-a-comprehensive-guide-23b2)
-- [Dev.to/JS] [Empowering Your Future: The full stack development online course](https://dev.to/helen002/empowering-your-future-the-full-stack-development-online-course-3ihb)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
 - [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
