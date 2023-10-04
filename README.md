@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use IndexedDB to store images and other files in your browser](https://dev.to/tqbit/how-to-use-indexeddb-to-store-images-and-other-files-in-your-browser-51fm)
+- [Dev.to/JS] [Dev.to vs Dev.js: I&#39;m not interested in JavaScript, but my timeline is full of it](https://dev.to/unikzforce/devto-vs-devjs-im-not-interested-in-javascript-but-my-timeline-is-full-of-it-1hm2)
+- [Dev.to/JS] [Building A Simple CRUD API With Next.Js 13](https://dev.to/skipperhoa/building-a-simple-crud-api-with-nextjs-13-40eh)
+- [Dev.to/JS] [Beginner’s Guide to Frontend Web Development — Part 3](https://dev.to/jebbs/beginners-guide-to-frontend-web-development-part-3-4gl3)
 - [Dev.to/JS] [Blueprinting Software Excellence with UML Diagrams in Design](https://dev.to/dr_anks/blueprinting-software-excellence-with-uml-diagrams-in-design-2e5g)
 - [Dev.to/JS] [Understanding Logging in Express.js: A Beginner&#39;s Guide](https://dev.to/siva1b3/understanding-logging-in-expressjs-a-beginners-guide-6b6)
 - [Dev.to/JS] [💻 Web Development Resources #168](https://dev.to/vincenius/web-development-resources-168-234a)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ESLint playground &amp; meta tag editor - DevHunt Digest #3](https://dev.to/gerimate/eslint-playground-meta-tag-editor-devhunt-digest-3-1ml6)
 - [Dev.to/JS] [Dollar Sign in JavaScript: A Comprehensive Guide](https://dev.to/onlinemsr/dollar-sign-in-javascript-a-comprehensive-guide-23b2)
 - [Dev.to/JS] [Empowering Your Future: The full stack development online course](https://dev.to/helen002/empowering-your-future-the-full-stack-development-online-course-3ihb)
-- [Dev.to/JS] [Unlock the Power of JavaScript WeakSet: Mastering a Hidden Gem!](https://dev.to/this-is-learning/unlock-the-power-of-javascript-weakset-mastering-a-hidden-gem-3jl7)
-- [Dev.to/JS] [Assign PRs randomly to a specific list of users in Bitbucket Cloud](https://dev.to/atlassian/assign-prs-randomly-to-a-specific-list-of-users-in-bitbucket-cloud-2l5m)
-- [Dev.to/JS] [Ionic 7 + React Project Setup and Android Studio Live Reload and Debug on Real Device](https://dev.to/mikhaelesa/ionic-7-react-project-setup-and-android-studio-live-reload-196f)
-- [Dev.to/JS] [Javascript The Ultimate Guide 🏆](https://dev.to/shivamblog/javascript-the-ultimate-guide-4cg4)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
 - [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
