@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
+- [Dev.to/JS] [useState | Entrevistas de React](https://dev.to/sebastianmaciel/usestate-entrevistas-de-react-58n4)
 - [Dev.to/JS] [JS faz sentido](https://dev.to/serjo/js-faz-sentido-2o4c)
 - [Dev.to/JS] [Explain API Like I&#39;m Five](https://dev.to/bytebricks/explain-api-like-im-five-23eb)
 - [Dev.to/JS] [TypeScript won. What next?](https://dev.to/remojansen/typescript-won-what-next-27md)
@@ -44,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This i7 Dell Inspiron 16 Laptop Is $320 Off Right Now](https://lifehacker.com/this-i7-dell-inspiron-16-laptop-is-320-off-right-now-1850896343)
 - [Lifehacker] [The Fastest Way to Turn iPhone Live Photos Into a Video](https://lifehacker.com/turn-live-photos-into-video-iphone-1850895845)
 - [Dev.to/JS] [Understanding JavasScript OOPs](https://dev.to/arindam_1729/understanding-javasscript-oops-26l6)
-- [Dev.to/JS] [Unveiling Javascript Scopes](https://dev.to/arindam_1729/unveiling-javascript-scopes-4bl5)
 - [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
 - [Lifehacker] [These Latest Celebrity Deepfakes Show How Advanced Scams Have Become](https://lifehacker.com/these-latest-celebrity-deepfakes-show-how-advanced-scam-1850895311)
 - [Lifehacker] [How to Download Pictures and Videos From Threads on Your iPhone](https://lifehacker.com/download-pictures-video-from-threads-iphone-1850895658)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Apple Watch Wireless Charger Keychain Is $19 Right Now](https://lifehacker.com/this-apple-watch-wireless-charger-keychain-is-19-right-1850878081)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
 - [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
-- [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)
-- [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/how-to-check-a-product-s-price-history-on-amazon-1849158394)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)<!-- TECH-POSTS:END -->
 
 ---
 
