@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 61: HTML Events](https://dev.to/dhrn/day-61-html-events-173b)
+- [Lifehacker] [These Are the Newest Updates to Pixel Buds Pro](https://lifehacker.com/these-are-the-newest-updates-to-pixel-buds-pro-1850897682)
+- [Dev.to/JS] [Using the Driver.js library to guide user focus](https://dev.to/logrocket/using-the-driverjs-library-to-guide-user-focus-43ie)
 - [Lifehacker] [The ‘Ring of Fire’ Eclipse and Other Solar Events to Watch in October](https://lifehacker.com/the-ring-of-fire-eclipse-and-other-solar-events-to-wa-1850898067)
 - [Dev.to/JS] [Angular Pipes: Unleashing the Power of Data Transformation](https://dev.to/chintanonweb/angular-pipes-unleashing-the-power-of-data-transformation-1i6k)
 - [Lifehacker] [Here&#39;s How Many Calories I Burned Riding an Ebike Vs. a Regular Bike](https://lifehacker.com/heres-how-many-calories-i-burned-riding-an-ebike-vs-a-1850897770)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ReactJS to fetch weather data from a weather API](https://dev.to/codelover405/reactjs-to-fetch-weather-data-from-a-weather-api-3ela)
 - [Dev.to/JS] [Routup: A Fast, Lightweight and Asynchronous Routing Framework](https://dev.to/tada5hi/routup-a-fast-lightweight-and-asynchronous-routing-framework-1jnf)
 - [Dev.to/JS] [Tab based login and signup logic in React.js](https://dev.to/codelover405/tab-based-login-and-signup-logic-in-reactjs-5f6)
-- [Dev.to/JS] [Custom Modal React.js](https://dev.to/codelover405/custom-modal-reactjs-if1)
-- [Dev.to/JS] [VITE vs CREATE REACT APP - A Quick Comparison](https://dev.to/vamsitupakula_/vite-vs-create-react-app-a-quick-comparison-2dj2)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
 - [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Watch Out for Malicious Ads on Bing Chat](https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698)
 - [Lifehacker] [Your Phone Will Sound a Loud Alarm on Oct. 4](https://lifehacker.com/your-phone-will-sound-a-loud-alarm-on-oct-4-1850894829)
 - [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
-- [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)
-- [Lifehacker] [The Leviton Scene Controller Could Be Smarter](https://lifehacker.com/leviton-scene-controller-review-1850894184)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)<!-- TECH-POSTS:END -->
 
 ---
 
