@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blueprinting Software Excellence with UML Diagrams in Design](https://dev.to/dr_anks/blueprinting-software-excellence-with-uml-diagrams-in-design-2e5g)
+- [Dev.to/JS] [Understanding Logging in Express.js: A Beginner&#39;s Guide](https://dev.to/siva1b3/understanding-logging-in-expressjs-a-beginners-guide-6b6)
+- [Dev.to/JS] [💻 Web Development Resources #168](https://dev.to/vincenius/web-development-resources-168-234a)
+- [Dev.to/JS] [Phòng Khám Đa Khoa Tháng Tám Dịch Vụ Chăm Sóc Sức Khỏe Đẳng Cấp](https://dev.to/pkdkthangtam/phong-kham-da-khoa-thang-tam-dich-vu-cham-soc-suc-khoe-dang-cap-29n1)
 - [Dev.to/JS] [Unlocking the Power of Multi-Core CPUs: Supercharge Your Node.js App with Clustering!](https://dev.to/probir-sarkar/unlocking-the-power-of-multi-core-cpus-supercharge-your-nodejs-app-with-clustering-18md)
 - [Dev.to/JS] [ESLint playground &amp; meta tag editor - DevHunt Digest #3](https://dev.to/gerimate/eslint-playground-meta-tag-editor-devhunt-digest-3-1ml6)
 - [Dev.to/JS] [Dollar Sign in JavaScript: A Comprehensive Guide](https://dev.to/onlinemsr/dollar-sign-in-javascript-a-comprehensive-guide-23b2)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Assign PRs randomly to a specific list of users in Bitbucket Cloud](https://dev.to/atlassian/assign-prs-randomly-to-a-specific-list-of-users-in-bitbucket-cloud-2l5m)
 - [Dev.to/JS] [Ionic 7 + React Project Setup and Android Studio Live Reload and Debug on Real Device](https://dev.to/mikhaelesa/ionic-7-react-project-setup-and-android-studio-live-reload-196f)
 - [Dev.to/JS] [Javascript The Ultimate Guide 🏆](https://dev.to/shivamblog/javascript-the-ultimate-guide-4cg4)
-- [Dev.to/JS] [Modern VS Code extension development tutorial: Building a secure extension](https://dev.to/snyk/modern-vs-code-extension-development-tutorial-building-a-secure-extension-56m7)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
-- [Dev.to/JS] [useState | Entrevistas de React](https://dev.to/sebastianmaciel/usestate-entrevistas-de-react-58n4)
-- [Dev.to/JS] [JS faz sentido](https://dev.to/serjo/js-faz-sentido-2o4c)
-- [Dev.to/JS] [Explain API Like I&#39;m Five](https://dev.to/bytebricks/explain-api-like-im-five-23eb)
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
 - [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
 - [Lifehacker] [Beyoncé’s ‘Renaissance’ Tour Is Coming to Movie Theaters](https://lifehacker.com/preorder-tickets-beyonce-s-renaissance-tour-movie-1850896536)
