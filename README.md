@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Ionic 7 + React Project Setup and Android Studio Live Reload](https://dev.to/mikhaelesa/ionic-7-react-project-setup-and-android-studio-live-reload-196f)
+- [Dev.to/JS] [Assign PRs randomly to a specific list of users in Bitbucket Cloud](https://dev.to/atlassian/assign-prs-randomly-to-a-specific-list-of-users-in-bitbucket-cloud-2l5m)
+- [Dev.to/JS] [Ionic 7 + React Project Setup and Android Studio Live Reload and Debug on Real Device](https://dev.to/mikhaelesa/ionic-7-react-project-setup-and-android-studio-live-reload-196f)
 - [Dev.to/JS] [Javascript The Ultimate Guide 🏆](https://dev.to/shivamblog/javascript-the-ultimate-guide-4cg4)
 - [Dev.to/JS] [Modern VS Code extension development tutorial: Building a secure extension](https://dev.to/snyk/modern-vs-code-extension-development-tutorial-building-a-secure-extension-56m7)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Payload CMS -Authentication in Nuxt Using a Custom Plugin](https://dev.to/aaronksaunders/payload-cms-authentication-in-nuxt-using-a-custom-plugin-1gg5)
 - [Lifehacker] [Avoid These Common Window-Cleaning Mistakes](https://lifehacker.com/avoid-these-common-window-cleaning-mistakes-1850895198)
 - [Lifehacker] [These Four New Games Are Coming to Apple Arcade This Month](https://lifehacker.com/these-four-new-games-are-coming-to-apple-arcade-this-mo-1850896428)
-- [Dev.to/JS] [Django Formsets for Creating Multiple Related Model Instances](https://dev.to/nathanlewis99/django-formsets-for-creating-multiple-related-model-instances-afe)
 - [Lifehacker] [This i7 Dell Inspiron 16 Laptop Is $320 Off Right Now](https://lifehacker.com/this-i7-dell-inspiron-16-laptop-is-320-off-right-now-1850896343)
 - [Lifehacker] [The Fastest Way to Turn iPhone Live Photos Into a Video](https://lifehacker.com/turn-live-photos-into-video-iphone-1850895845)
 - [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
