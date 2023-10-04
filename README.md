@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Must have software for programmers](https://dev.to/codewithshahan/must-have-software-for-programmers-48b7)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
 - [Dev.to/JS] [Beginner Interview CheatSheet: 300+ Javascript Interview Q&amp;A](https://dev.to/getreactdev/beginner-interview-cheatsheet-300-javascript-interview-qa-1m3h)
 - [Lifehacker] [Where to Stream the 2023 Cricket World Cup](https://lifehacker.com/where-to-stream-the-2023-cricket-world-cup-1850900552)
@@ -55,7 +56,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Great Nintendo Switch Games for Little Kids &lpar;That Don&#39;t Star Mario&rpar;](https://lifehacker.com/best-nintendo-switch-games-little-kids-1850897137)
 - [Lifehacker] [How to Safely View a Solar Eclipse](https://lifehacker.com/how-to-safely-view-a-solar-eclipse-1847016020)
 - [Lifehacker] [This BirdBike A-Frame E-bike Is On Sale for $900 Right Now](https://lifehacker.com/this-birdbike-a-frame-e-bike-is-on-sale-for-900-right-1850892312)
-- [Dev.to/JS] [Buy Verified CashApp Account](https://dev.to/stripeaccountpva2/buy-verified-cashapp-account-44nj)
 - [Lifehacker] [All the New Android 14 Features Google Announced Today](https://lifehacker.com/best-new-features-android-14-1850897684)
 - [Lifehacker] [These Are the Newest Updates to Pixel Buds Pro](https://lifehacker.com/these-are-the-newest-updates-to-pixel-buds-pro-1850897682)
 - [Lifehacker] [The ‘Ring of Fire’ Eclipse and Other Solar Events to Watch in October](https://lifehacker.com/the-ring-of-fire-eclipse-and-other-solar-events-to-wa-1850898067)
