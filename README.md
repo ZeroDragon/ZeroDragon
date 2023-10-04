@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep Your Pumpkin Plants Alive Until Halloween](https://lifehacker.com/how-to-keep-your-pumpkin-plants-alive-until-halloween-1850896507)
+- [Dev.to/JS] [ReactJS to fetch weather data from a weather API](https://dev.to/codelover405/reactjs-to-fetch-weather-data-from-a-weather-api-3ela)
+- [Dev.to/JS] [Routup: A Fast, Lightweight and Asynchronous Routing Framework](https://dev.to/tada5hi/routup-a-fast-lightweight-and-asynchronous-routing-framework-1jnf)
+- [Dev.to/JS] [Tab based login and signup logic in React.js](https://dev.to/codelover405/tab-based-login-and-signup-logic-in-reactjs-5f6)
+- [Dev.to/JS] [Custom Modal React.js](https://dev.to/codelover405/custom-modal-reactjs-if1)
+- [Dev.to/JS] [VITE vs CREATE REACT APP - A Quick Comparison](https://dev.to/vamsitupakula_/vite-vs-create-react-app-a-quick-comparison-2dj2)
+- [Dev.to/JS] [Vue 3, Nuxt 3 Form Validation: Creating Simple Custom Input Validator](https://dev.to/kucherol/vue-3-nuxt-3-form-validation-creating-simple-custom-input-validator-de0)
+- [Dev.to/JS] [Active Keto Gummies South Africa &lpar;Fake Hype Exposed&rpar; Does it Really Work?](https://dev.to/klishachavez/active-keto-gummies-south-africa-fake-hype-exposed-does-it-really-work-4dkm)
 - [Dev.to/JS] [JavaScript and Functional Programming: A Dive into Pure Functions, Currying, and Functional Composition](https://dev.to/jaimaldullat/javascript-and-functional-programming-a-dive-into-pure-functions-currying-and-functional-composition-2abc)
 - [Dev.to/JS] [JavaScript for Beginners: Classes](https://dev.to/catherineisonline/javascript-for-beginners-classes-525o)
 - [Dev.to/JS] [In-store Bakery Products Market Size Analysis, Drivers, Restraints, Key Factors Forecast, 2030](https://dev.to/adamsmark0077/in-store-bakery-products-market-size-analysis-drivers-restraints-key-factors-forecast-2030-gfh)
 - [Dev.to/JS] [Replacing All Occurrences of a String in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/replacing-all-occurrences-of-a-string-in-javascript-a-comprehensive-guide-3o9n)
 - [Dev.to/JS] [Beyond the Hype: Rethinking Decoupled Architecture and the Pursuit of Modern Frontends](https://dev.to/nickciolpan/beyond-the-hype-rethinking-decoupled-architecture-and-the-pursuit-of-modern-frontends-3hhe)
-- [Dev.to/JS] [Maternity Clothes Market Key Strategies, Application, Growth, Trends and Opportunities 2028](https://dev.to/adamsmark0077/maternity-clothes-market-key-strategies-application-growth-trends-and-opportunities-2028-457g)
-- [Dev.to/JS] [How to use IndexedDB to store images and other files in your browser](https://dev.to/tqbit/how-to-use-indexeddb-to-store-images-and-other-files-in-your-browser-51fm)
-- [Dev.to/JS] [Dev.to vs Dev.js: I&#39;m not interested in JavaScript, but my timeline is full of it](https://dev.to/unikzforce/devto-vs-devjs-im-not-interested-in-javascript-but-my-timeline-is-full-of-it-1hm2)
-- [Dev.to/JS] [Building A Simple CRUD API With Next.Js 13](https://dev.to/skipperhoa/building-a-simple-crud-api-with-nextjs-13-40eh)
-- [Dev.to/JS] [Beginner’s Guide to Frontend Web Development — Part 3](https://dev.to/jebbs/beginners-guide-to-frontend-web-development-part-3-4gl3)
-- [Dev.to/JS] [Blueprinting Software Excellence with UML Diagrams in Design](https://dev.to/dr_anks/blueprinting-software-excellence-with-uml-diagrams-in-design-2e5g)
-- [Dev.to/JS] [Understanding Logging in Express.js: A Beginner&#39;s Guide](https://dev.to/siva1b3/understanding-logging-in-expressjs-a-beginners-guide-6b6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
 - [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is Amazon Prime Really Worth It?](https://lifehacker.com/is-amazon-prime-really-worth-it-1850892083)
 - [Lifehacker] [This Apple Watch Wireless Charger Keychain Is $19 Right Now](https://lifehacker.com/this-apple-watch-wireless-charger-keychain-is-19-right-1850878081)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 3, 2023](https://lifehacker.com/nyt-connections-answer-today-october-3-2023-1850891515)
-- [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)
-- [Lifehacker] [The Unbreakable Rules of Running Track Etiquette](https://lifehacker.com/running-track-etiquette-1850893229)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Apple Watch Ultra 2 Isn’t Just For Fitness Enthusiasts](https://lifehacker.com/apple-watch-ultra-2-review-1850892815)<!-- TECH-POSTS:END -->
 
 ---
 
