@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The ‘Ring of Fire’ Eclipse and Other Solar Events to Watch in October](https://lifehacker.com/the-ring-of-fire-eclipse-and-other-solar-events-to-wa-1850898067)
+- [Dev.to/JS] [Angular Pipes: Unleashing the Power of Data Transformation](https://dev.to/chintanonweb/angular-pipes-unleashing-the-power-of-data-transformation-1i6k)
+- [Lifehacker] [Here&#39;s How Many Calories I Burned Riding an Ebike Vs. a Regular Bike](https://lifehacker.com/heres-how-many-calories-i-burned-riding-an-ebike-vs-a-1850897770)
+- [Dev.to/JS] [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Svelte - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-svelte-is-out-556a)
+- [Dev.to/JS] [Portable Electric Mini Fan](https://dev.to/manimani1348527/portable-electric-mini-fan-2o71)
+- [Dev.to/JS] [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Laravel - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-laravel-is-out-29hc)
 - [Lifehacker] [You Can Get Amazon Fire Sticks for Over 50% Off Right Now](https://lifehacker.com/you-can-get-amazon-fire-sticks-for-over-50-off-right-n-1850896973)
+- [Dev.to/JS] [Delight your users with this instant scroll restoration custom hook](https://dev.to/miketalbot/delight-your-users-with-this-instant-scroll-restoration-custom-hook-8fd)
 - [Lifehacker] [The Best Ways to Digitize Your Notes](https://lifehacker.com/best-ways-digitize-notes-1850896868)
 - [Dev.to/JS] [Function Parameter Mode Choices for Http Handlers](https://dev.to/610470416/function-parameter-mode-choices-for-http-handlers-1bk5)
 - [Dev.to/JS] [Multi Step Progress Bar in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/multi-step-progress-bar-in-html-css-javascript-3i34)
@@ -36,11 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tab based login and signup logic in React.js](https://dev.to/codelover405/tab-based-login-and-signup-logic-in-reactjs-5f6)
 - [Dev.to/JS] [Custom Modal React.js](https://dev.to/codelover405/custom-modal-reactjs-if1)
 - [Dev.to/JS] [VITE vs CREATE REACT APP - A Quick Comparison](https://dev.to/vamsitupakula_/vite-vs-create-react-app-a-quick-comparison-2dj2)
-- [Dev.to/JS] [Vue 3, Nuxt 3 Form Validation: Creating Simple Custom Input Validator](https://dev.to/kucherol/vue-3-nuxt-3-form-validation-creating-simple-custom-input-validator-de0)
-- [Dev.to/JS] [Active Keto Gummies South Africa &lpar;Fake Hype Exposed&rpar; Does it Really Work?](https://dev.to/klishachavez/active-keto-gummies-south-africa-fake-hype-exposed-does-it-really-work-4dkm)
-- [Dev.to/JS] [JavaScript and Functional Programming: A Dive into Pure Functions, Currying, and Functional Composition](https://dev.to/jaimaldullat/javascript-and-functional-programming-a-dive-into-pure-functions-currying-and-functional-composition-2abc)
-- [Dev.to/JS] [JavaScript for Beginners: Classes](https://dev.to/catherineisonline/javascript-for-beginners-classes-525o)
-- [Dev.to/JS] [In-store Bakery Products Market Size Analysis, Drivers, Restraints, Key Factors Forecast, 2030](https://dev.to/adamsmark0077/in-store-bakery-products-market-size-analysis-drivers-restraints-key-factors-forecast-2030-gfh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
 - [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Phone Will Sound a Loud Alarm on Oct. 4](https://lifehacker.com/your-phone-will-sound-a-loud-alarm-on-oct-4-1850894829)
 - [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)
 - [Lifehacker] [This Epic Flight 4K Drone Is Under $90 Right Now](https://lifehacker.com/this-epic-flight-4k-drone-is-under-90-right-now-1850878261)
-- [Lifehacker] [The Leviton Scene Controller Could Be Smarter](https://lifehacker.com/leviton-scene-controller-review-1850894184)
-- [Lifehacker] [Is Amazon Prime Really Worth It?](https://lifehacker.com/is-amazon-prime-really-worth-it-1850892083)
-- [Lifehacker] [This Apple Watch Wireless Charger Keychain Is $19 Right Now](https://lifehacker.com/this-apple-watch-wireless-charger-keychain-is-19-right-1850878081)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Leviton Scene Controller Could Be Smarter](https://lifehacker.com/leviton-scene-controller-review-1850894184)<!-- TECH-POSTS:END -->
 
 ---
 
