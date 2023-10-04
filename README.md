@@ -26,9 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [✨7 learnings as a DevRel &lpar;in my first months on the job&rpar;🚀](https://dev.to/fernandezbaptiste/7-learnings-as-a-devrel-in-my-first-months-on-the-job-nmd)
+- [Dev.to/JS] [Javascript: Nullish Coalescing vs OR operator](https://dev.to/djzenma/javascript-nullish-coalescing-vs-or-operator-2297)
+- [Lifehacker] [The Differences Between the Pixel Watch and Pixel Watch 2](https://lifehacker.com/the-differences-between-the-pixel-watch-and-pixel-watch-1850900243)
+- [Lifehacker] [Use &#39;Project-Based Learning&#39; to Study on Your Own](https://lifehacker.com/use-project-based-learning-to-study-on-your-own-1850899403)
+- [Dev.to/JS] [I hate Typescript, is it a shame?](https://dev.to/bytebricks/i-hate-typescript-is-it-shame-5cek)
+- [Lifehacker] [You Can Officially Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
+- [Lifehacker] [AdGuard VPN Is $30 for Three Years Right Now](https://lifehacker.com/adguard-vpn-is-30-for-three-years-right-now-1850888705)
 - [Lifehacker] [Avoid These Common Mistakes During Open Enrollment](https://lifehacker.com/avoid-these-common-mistakes-during-open-enrollment-1850899618)
 - [Lifehacker] [The Best Ways to Get Motivated to Work Out Every Morning](https://lifehacker.com/how-to-motivate-yourself-to-exercise-every-morning-1827028412)
+- [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
 - [Dev.to/JS] [Process Management in Operating Systems](https://dev.to/syedmuhammadaliraza/process-management-in-operating-systems-e01)
 - [Lifehacker] [Amazon Smart Speakers Are on Sale Before Prime &#39;Big Deal Days&#39;](https://lifehacker.com/early-amazon-prime-day-deals-echo-speakers-1850899982)
 - [Dev.to/JS] [Como Habilitar o Botão de Envio apenas com Inputs Preenchidos Usando JavaScript](https://dev.to/anabergerr/como-habilitar-o-botao-de-envio-apenas-com-inputs-preenchidos-usando-javascript-1djh)
@@ -49,7 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Verified CashApp Account](https://dev.to/stripeaccountpva2/buy-verified-cashapp-account-44nj)
 - [Dev.to/JS] [MVP Development for SaaS: Strategies for Success](https://dev.to/techno_yuga/mvp-development-for-saas-strategies-for-success-5fi3)
 - [Lifehacker] [All the New Android 14 Features Google Announced Today](https://lifehacker.com/best-new-features-android-14-1850897684)
-- [Dev.to/JS] [Sentry Web Vitals: Unpacking and Resolving LCP Metric Detection Challenges](https://dev.to/realoff/sentry-web-vitals-unpacking-and-resolving-lcp-metric-detection-challenges-3l7c)
 - [Lifehacker] [These Are the Newest Updates to Pixel Buds Pro](https://lifehacker.com/these-are-the-newest-updates-to-pixel-buds-pro-1850897682)
 - [Lifehacker] [The ‘Ring of Fire’ Eclipse and Other Solar Events to Watch in October](https://lifehacker.com/the-ring-of-fire-eclipse-and-other-solar-events-to-wa-1850898067)
 - [Lifehacker] [Here&#39;s How Many Calories I Burned Riding an E-bike Vs. a Regular Bike](https://lifehacker.com/heres-how-many-calories-i-burned-riding-an-ebike-vs-a-1850897770)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
 - [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
 - [Lifehacker] [Beyoncé’s ‘Renaissance’ Tour Is Coming to Movie Theaters](https://lifehacker.com/preorder-tickets-beyonce-s-renaissance-tour-movie-1850896536)
-- [Lifehacker] [Avoid These Common Window-Cleaning Mistakes](https://lifehacker.com/avoid-these-common-window-cleaning-mistakes-1850895198)
-- [Lifehacker] [These Four New Games Are Coming to Apple Arcade This Month](https://lifehacker.com/these-four-new-games-are-coming-to-apple-arcade-this-mo-1850896428)
-- [Lifehacker] [This i7 Dell Inspiron 16 Laptop Is $320 Off Right Now](https://lifehacker.com/this-i7-dell-inspiron-16-laptop-is-320-off-right-now-1850896343)
-- [Lifehacker] [The Fastest Way to Turn iPhone Live Photos Into a Video](https://lifehacker.com/turn-live-photos-into-video-iphone-1850895845)
-- [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
-- [Lifehacker] [These Latest Celebrity Deepfakes Show How Advanced Scams Have Become](https://lifehacker.com/these-latest-celebrity-deepfakes-show-how-advanced-scam-1850895311)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid These Common Window-Cleaning Mistakes](https://lifehacker.com/avoid-these-common-window-cleaning-mistakes-1850895198)<!-- TECH-POSTS:END -->
 
 ---
 
