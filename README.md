@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript The Ultimate Guide 🏆](https://dev.to/shivamblog/javascript-the-ultimate-guide-4cg4)
 - [Dev.to/JS] [Modern VS Code extension development tutorial: Building a secure extension](https://dev.to/snyk/modern-vs-code-extension-development-tutorial-building-a-secure-extension-56m7)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
 - [Dev.to/JS] [useState | Entrevistas de React](https://dev.to/sebastianmaciel/usestate-entrevistas-de-react-58n4)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Four New Games Are Coming to Apple Arcade This Month](https://lifehacker.com/these-four-new-games-are-coming-to-apple-arcade-this-mo-1850896428)
 - [Dev.to/JS] [Django Formsets for Creating Multiple Related Model Instances](https://dev.to/nathanlewis99/django-formsets-for-creating-multiple-related-model-instances-afe)
 - [Dev.to/JS] [The Full Stack Odyssey: A Journey through Software Development](https://dev.to/dinvstr/the-full-stack-odyssey-a-journey-through-software-development-18d5)
-- [Dev.to/JS] [Simplify Async State Management with Redux Toolkit](https://dev.to/codybarker/simplify-async-state-management-with-redux-toolkit-37kl)
 - [Lifehacker] [This i7 Dell Inspiron 16 Laptop Is $320 Off Right Now](https://lifehacker.com/this-i7-dell-inspiron-16-laptop-is-320-off-right-now-1850896343)
 - [Lifehacker] [The Fastest Way to Turn iPhone Live Photos Into a Video](https://lifehacker.com/turn-live-photos-into-video-iphone-1850895845)
 - [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
