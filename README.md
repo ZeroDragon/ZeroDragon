@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [✨7 learnings as a DevRel &lpar;in my first months on the job&rpar;🚀](https://dev.to/fernandezbaptiste/7-learnings-as-a-devrel-in-my-first-months-on-the-job-nmd)
+- [Lifehacker] [Avoid These Common Mistakes During Open Enrollment](https://lifehacker.com/avoid-these-common-mistakes-during-open-enrollment-1850899618)
+- [Lifehacker] [The Best Ways to Get Motivated to Work Out Every Morning](https://lifehacker.com/how-to-motivate-yourself-to-exercise-every-morning-1827028412)
 - [Dev.to/JS] [Process Management in Operating Systems](https://dev.to/syedmuhammadaliraza/process-management-in-operating-systems-e01)
 - [Lifehacker] [Amazon Smart Speakers Are on Sale Before Prime &#39;Big Deal Days&#39;](https://lifehacker.com/early-amazon-prime-day-deals-echo-speakers-1850899982)
 - [Dev.to/JS] [Como Habilitar o Botão de Envio apenas com Inputs Preenchidos Usando JavaScript](https://dev.to/anabergerr/como-habilitar-o-botao-de-envio-apenas-com-inputs-preenchidos-usando-javascript-1djh)
@@ -48,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Android 14 Features Google Announced Today](https://lifehacker.com/best-new-features-android-14-1850897684)
 - [Dev.to/JS] [Sentry Web Vitals: Unpacking and Resolving LCP Metric Detection Challenges](https://dev.to/realoff/sentry-web-vitals-unpacking-and-resolving-lcp-metric-detection-challenges-3l7c)
 - [Lifehacker] [These Are the Newest Updates to Pixel Buds Pro](https://lifehacker.com/these-are-the-newest-updates-to-pixel-buds-pro-1850897682)
-- [Dev.to/JS] [Using the Driver.js library to guide user focus](https://dev.to/logrocket/using-the-driverjs-library-to-guide-user-focus-43ie)
 - [Lifehacker] [The ‘Ring of Fire’ Eclipse and Other Solar Events to Watch in October](https://lifehacker.com/the-ring-of-fire-eclipse-and-other-solar-events-to-wa-1850898067)
 - [Lifehacker] [Here&#39;s How Many Calories I Burned Riding an E-bike Vs. a Regular Bike](https://lifehacker.com/heres-how-many-calories-i-burned-riding-an-ebike-vs-a-1850897770)
 - [Lifehacker] [You Can Get Amazon Fire Sticks for Over 50% Off Right Now](https://lifehacker.com/you-can-get-amazon-fire-sticks-for-over-50-off-right-n-1850896973)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This i7 Dell Inspiron 16 Laptop Is $320 Off Right Now](https://lifehacker.com/this-i7-dell-inspiron-16-laptop-is-320-off-right-now-1850896343)
 - [Lifehacker] [The Fastest Way to Turn iPhone Live Photos Into a Video](https://lifehacker.com/turn-live-photos-into-video-iphone-1850895845)
 - [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
-- [Lifehacker] [These Latest Celebrity Deepfakes Show How Advanced Scams Have Become](https://lifehacker.com/these-latest-celebrity-deepfakes-show-how-advanced-scam-1850895311)
-- [Lifehacker] [How to Download Pictures and Videos From Threads on Your iPhone](https://lifehacker.com/download-pictures-video-from-threads-iphone-1850895658)
-- [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Big Deal Days](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Latest Celebrity Deepfakes Show How Advanced Scams Have Become](https://lifehacker.com/these-latest-celebrity-deepfakes-show-how-advanced-scam-1850895311)<!-- TECH-POSTS:END -->
 
 ---
 
