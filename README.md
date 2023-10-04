@@ -26,6 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Process Management in Operating Systems](https://dev.to/syedmuhammadaliraza/process-management-in-operating-systems-e01)
+- [Lifehacker] [Amazon Smart Speakers Are on Sale Before Prime &#39;Big Deal Days&#39;](https://lifehacker.com/early-amazon-prime-day-deals-echo-speakers-1850899982)
+- [Dev.to/JS] [Como Habilitar o Botão de Envio apenas com Inputs Preenchidos Usando JavaScript](https://dev.to/anabergerr/como-habilitar-o-botao-de-envio-apenas-com-inputs-preenchidos-usando-javascript-1djh)
+- [Dev.to/JS] [Getting Started with Umi: Building Solana JavaScript Clients with Ease](https://dev.to/vivekpal/getting-started-with-umi-building-solana-javascript-clients-with-ease-23e8)
+- [Dev.to/JS] [JavaScript Event Loop: The Wizard&#39;s Time-Turner](https://dev.to/init_chandan/javascript-event-loop-the-wizards-time-turner-525k)
+- [Lifehacker] [How to Change the Filter on Your Range Hood](https://lifehacker.com/how-to-change-the-filter-on-your-range-hood-1850897978)
+- [Dev.to/JS] [Vanilla JavaScript: How To Create a Draggable Slider With Auto-Play and Navigation.](https://dev.to/lynxdev32/vanilla-javascript-how-to-create-a-draggable-slider-with-auto-play-and-navigation-4p9m)
+- [Dev.to/JS] [7 Open-Source Search Engines for your Enterprise and Startups you MUST know.](https://dev.to/swirl/7-open-source-search-engines-for-your-enterprise-and-startups-you-must-know-4504)
+- [Dev.to/JS] [Simplest Reactivity in Web Pages Using Vanilla Javascript;](https://dev.to/arnavk09/simplest-reactivity-in-web-pages-using-vanilla-javascript-5ekp)
+- [Lifehacker] [All the New AI Features Coming to Google Pixel 8](https://lifehacker.com/all-the-new-ai-features-coming-to-google-pixel-8-1850899112)
 - [Lifehacker] [This Deeper Connect Mini VPN Is On Sale for $200 Right Now](https://lifehacker.com/this-deeper-connect-mini-vpn-is-on-sale-for-200-right-1850888671)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [How to Know If You’re Addicted to Porn &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-deal-with-a-porn-addiction-1850899123)
@@ -40,16 +50,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Newest Updates to Pixel Buds Pro](https://lifehacker.com/these-are-the-newest-updates-to-pixel-buds-pro-1850897682)
 - [Dev.to/JS] [Using the Driver.js library to guide user focus](https://dev.to/logrocket/using-the-driverjs-library-to-guide-user-focus-43ie)
 - [Lifehacker] [The ‘Ring of Fire’ Eclipse and Other Solar Events to Watch in October](https://lifehacker.com/the-ring-of-fire-eclipse-and-other-solar-events-to-wa-1850898067)
-- [Dev.to/JS] [Angular Pipes: Unleashing the Power of Data Transformation](https://dev.to/chintanonweb/angular-pipes-unleashing-the-power-of-data-transformation-1i6k)
 - [Lifehacker] [Here&#39;s How Many Calories I Burned Riding an E-bike Vs. a Regular Bike](https://lifehacker.com/heres-how-many-calories-i-burned-riding-an-ebike-vs-a-1850897770)
-- [Dev.to/JS] [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Svelte - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-svelte-is-out-556a)
-- [Dev.to/JS] [Portable Electric Mini Fan](https://dev.to/manimani1348527/portable-electric-mini-fan-2o71)
-- [Dev.to/JS] [Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Laravel - is out.](https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-laravel-is-out-29hc)
 - [Lifehacker] [You Can Get Amazon Fire Sticks for Over 50% Off Right Now](https://lifehacker.com/you-can-get-amazon-fire-sticks-for-over-50-off-right-n-1850896973)
-- [Dev.to/JS] [Delight your users with this instant scroll restoration custom hook](https://dev.to/miketalbot/delight-your-users-with-this-instant-scroll-restoration-custom-hook-8fd)
 - [Lifehacker] [The Best Ways to Digitize Your Notes](https://lifehacker.com/best-ways-digitize-notes-1850896868)
-- [Dev.to/JS] [Function Parameter Mode Choices for Http Handlers](https://dev.to/610470416/function-parameter-mode-choices-for-http-handlers-1bk5)
-- [Dev.to/JS] [Multi Step Progress Bar in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/multi-step-progress-bar-in-html-css-javascript-3i34)
 - [Lifehacker] [How to Keep Your Pumpkin Plants Alive Until Halloween](https://lifehacker.com/how-to-keep-your-pumpkin-plants-alive-until-halloween-1850896507)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
 - [Lifehacker] [These Latest Celebrity Deepfakes Show How Advanced Scams Have Become](https://lifehacker.com/these-latest-celebrity-deepfakes-show-how-advanced-scam-1850895311)
 - [Lifehacker] [How to Download Pictures and Videos From Threads on Your iPhone](https://lifehacker.com/download-pictures-video-from-threads-iphone-1850895658)
-- [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Big Deal Days](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)
-- [Lifehacker] [5 Hidden Brave Browser Features You Should Use](https://lifehacker.com/brave-browser-best-hidden-features-1850895498)
-- [Lifehacker] [The FAFSA Will Be Delayed This Year](https://lifehacker.com/the-fafsa-will-be-delayed-this-year-1850895008)
-- [Lifehacker] [If You Have a Secret Cell Phone, Turn It Off on Wednesday](https://lifehacker.com/if-you-have-a-secret-cell-phone-turn-it-off-on-wednesd-1850895009)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Big Deal Days](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)<!-- TECH-POSTS:END -->
 
 ---
 
