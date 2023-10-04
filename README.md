@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript and Functional Programming: A Dive into Pure Functions, Currying, and Functional Composition](https://dev.to/jaimaldullat/javascript-and-functional-programming-a-dive-into-pure-functions-currying-and-functional-composition-2abc)
+- [Dev.to/JS] [JavaScript for Beginners: Classes](https://dev.to/catherineisonline/javascript-for-beginners-classes-525o)
+- [Dev.to/JS] [In-store Bakery Products Market Size Analysis, Drivers, Restraints, Key Factors Forecast, 2030](https://dev.to/adamsmark0077/in-store-bakery-products-market-size-analysis-drivers-restraints-key-factors-forecast-2030-gfh)
 - [Dev.to/JS] [Replacing All Occurrences of a String in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/replacing-all-occurrences-of-a-string-in-javascript-a-comprehensive-guide-3o9n)
 - [Dev.to/JS] [Beyond the Hype: Rethinking Decoupled Architecture and the Pursuit of Modern Frontends](https://dev.to/nickciolpan/beyond-the-hype-rethinking-decoupled-architecture-and-the-pursuit-of-modern-frontends-3hhe)
 - [Dev.to/JS] [Maternity Clothes Market Key Strategies, Application, Growth, Trends and Opportunities 2028](https://dev.to/adamsmark0077/maternity-clothes-market-key-strategies-application-growth-trends-and-opportunities-2028-457g)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner’s Guide to Frontend Web Development — Part 3](https://dev.to/jebbs/beginners-guide-to-frontend-web-development-part-3-4gl3)
 - [Dev.to/JS] [Blueprinting Software Excellence with UML Diagrams in Design](https://dev.to/dr_anks/blueprinting-software-excellence-with-uml-diagrams-in-design-2e5g)
 - [Dev.to/JS] [Understanding Logging in Express.js: A Beginner&#39;s Guide](https://dev.to/siva1b3/understanding-logging-in-expressjs-a-beginners-guide-6b6)
-- [Dev.to/JS] [💻 Web Development Resources #168](https://dev.to/vincenius/web-development-resources-168-234a)
-- [Dev.to/JS] [Phòng Khám Đa Khoa Tháng Tám Dịch Vụ Chăm Sóc Sức Khỏe Đẳng Cấp](https://dev.to/pkdkthangtam/phong-kham-da-khoa-thang-tam-dich-vu-cham-soc-suc-khoe-dang-cap-29n1)
-- [Dev.to/JS] [Unlocking the Power of Multi-Core CPUs: Supercharge Your Node.js App with Clustering!](https://dev.to/probir-sarkar/unlocking-the-power-of-multi-core-cpus-supercharge-your-nodejs-app-with-clustering-18md)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
 - [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
