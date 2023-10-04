@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Deeper Connect Mini VPN Is On Sale for $200 Right Now](https://lifehacker.com/this-deeper-connect-mini-vpn-is-on-sale-for-200-right-1850888671)
+- [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [How to Know If You’re Addicted to Porn &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-deal-with-a-porn-addiction-1850899123)
 - [Dev.to/JS] [A List of Useful NPM Packages for React/Next JS Developers](https://dev.to/jon_snow789/a-list-of-useful-npm-packages-for-reactnext-js-developers-7ln)
-- [Lifehacker] [20 Great Nintendo Switch Games for Little Kids &lpar;That Don&#39;t Star Mario&rpar;](https://lifehacker.com/best-nintendo-switch-games-little-kids-1850897137)
+- [Lifehacker] [9 Great Nintendo Switch Games for Little Kids &lpar;That Don&#39;t Star Mario&rpar;](https://lifehacker.com/best-nintendo-switch-games-little-kids-1850897137)
 - [Lifehacker] [How to Safely View a Solar Eclipse](https://lifehacker.com/how-to-safely-view-a-solar-eclipse-1847016020)
 - [Lifehacker] [This BirdBike A-Frame E-bike Is On Sale for $900 Right Now](https://lifehacker.com/this-birdbike-a-frame-e-bike-is-on-sale-for-900-right-1850892312)
 - [Dev.to/JS] [Buy Verified CashApp Account](https://dev.to/stripeaccountpva2/buy-verified-cashapp-account-44nj)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Big Deal Days](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)
 - [Lifehacker] [5 Hidden Brave Browser Features You Should Use](https://lifehacker.com/brave-browser-best-hidden-features-1850895498)
 - [Lifehacker] [The FAFSA Will Be Delayed This Year](https://lifehacker.com/the-fafsa-will-be-delayed-this-year-1850895008)
-- [Lifehacker] [If You Have a Secret Cell Phone, Turn It Off on Wednesday](https://lifehacker.com/if-you-have-a-secret-cell-phone-turn-it-off-on-wednesd-1850895009)
-- [Lifehacker] [You Can ‘Unionize’ Your Debt](https://lifehacker.com/how-and-when-to-join-debtors-union-1850895018)
-- [Lifehacker] [The Best Early Deals on Robot Vacuums for Amazon’s ‘Big Deal Days’](https://lifehacker.com/the-best-early-prime-day-deals-for-vacuums-1850562769)<!-- TECH-POSTS:END -->
+- [Lifehacker] [If You Have a Secret Cell Phone, Turn It Off on Wednesday](https://lifehacker.com/if-you-have-a-secret-cell-phone-turn-it-off-on-wednesd-1850895009)<!-- TECH-POSTS:END -->
 
 ---
 
