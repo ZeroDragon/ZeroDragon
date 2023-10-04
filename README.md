@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Know If You’re Addicted to Porn &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-deal-with-a-porn-addiction-1850899123)
+- [Dev.to/JS] [A List of Useful NPM Packages for React/Next JS Developers](https://dev.to/jon_snow789/a-list-of-useful-npm-packages-for-reactnext-js-developers-7ln)
+- [Lifehacker] [20 Great Nintendo Switch Games for Little Kids &lpar;That Don&#39;t Star Mario&rpar;](https://lifehacker.com/best-nintendo-switch-games-little-kids-1850897137)
+- [Lifehacker] [How to Safely View a Solar Eclipse](https://lifehacker.com/how-to-safely-view-a-solar-eclipse-1847016020)
+- [Lifehacker] [This BirdBike A-Frame E-bike Is On Sale for $900 Right Now](https://lifehacker.com/this-birdbike-a-frame-e-bike-is-on-sale-for-900-right-1850892312)
 - [Dev.to/JS] [Buy Verified CashApp Account](https://dev.to/stripeaccountpva2/buy-verified-cashapp-account-44nj)
 - [Dev.to/JS] [MVP Development for SaaS: Strategies for Success](https://dev.to/techno_yuga/mvp-development-for-saas-strategies-for-success-5fi3)
 - [Lifehacker] [All the New Android 14 Features Google Announced Today](https://lifehacker.com/best-new-features-android-14-1850897684)
@@ -44,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Function Parameter Mode Choices for Http Handlers](https://dev.to/610470416/function-parameter-mode-choices-for-http-handlers-1bk5)
 - [Dev.to/JS] [Multi Step Progress Bar in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/multi-step-progress-bar-in-html-css-javascript-3i34)
 - [Lifehacker] [How to Keep Your Pumpkin Plants Alive Until Halloween](https://lifehacker.com/how-to-keep-your-pumpkin-plants-alive-until-halloween-1850896507)
-- [Dev.to/JS] [ReactJS to fetch weather data from a weather API](https://dev.to/codelover405/reactjs-to-fetch-weather-data-from-a-weather-api-3ela)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
 - [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
 - [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The FAFSA Will Be Delayed This Year](https://lifehacker.com/the-fafsa-will-be-delayed-this-year-1850895008)
 - [Lifehacker] [If You Have a Secret Cell Phone, Turn It Off on Wednesday](https://lifehacker.com/if-you-have-a-secret-cell-phone-turn-it-off-on-wednesd-1850895009)
 - [Lifehacker] [You Can ‘Unionize’ Your Debt](https://lifehacker.com/how-and-when-to-join-debtors-union-1850895018)
-- [Lifehacker] [The Best Early Deals on Robot Vacuums for Amazon’s ‘Big Deal Days’](https://lifehacker.com/the-best-early-prime-day-deals-for-vacuums-1850562769)
-- [Lifehacker] [The Best Ways to Annotate When Reading](https://lifehacker.com/the-best-ways-to-annotate-when-reading-1850895212)
-- [Lifehacker] [Watch Out for Malicious Ads on Bing Chat](https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698)
-- [Lifehacker] [Your Phone Will Sound a Loud Alarm on Oct. 4](https://lifehacker.com/your-phone-will-sound-a-loud-alarm-on-oct-4-1850894829)
-- [Lifehacker] [The 20 Best Thrillers on Netflix Right Now](https://lifehacker.com/the-best-thrillers-on-netflix-1850891960)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Early Deals on Robot Vacuums for Amazon’s ‘Big Deal Days’](https://lifehacker.com/the-best-early-prime-day-deals-for-vacuums-1850562769)<!-- TECH-POSTS:END -->
 
 ---
 
