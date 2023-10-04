@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS faz sentido](https://dev.to/serjo/js-faz-sentido-2o4c)
+- [Dev.to/JS] [Explain API Like I&#39;m Five](https://dev.to/bytebricks/explain-api-like-im-five-23eb)
 - [Dev.to/JS] [TypeScript won. What next?](https://dev.to/remojansen/typescript-won-what-next-27md)
 - [Dev.to/JS] [Laravel: Tailwind Livewire UI Components](https://dev.to/bytebricks/laravel-tailwind-livewire-ui-components-8pn)
 - [Dev.to/JS] [Crypto-Wallet Password Recovery](https://dev.to/rowanbarland/crypto-wallet-password-recovery-4mlb)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Way to Turn iPhone Live Photos Into a Video](https://lifehacker.com/turn-live-photos-into-video-iphone-1850895845)
 - [Dev.to/JS] [Understanding JavasScript OOPs](https://dev.to/arindam_1729/understanding-javasscript-oops-26l6)
 - [Dev.to/JS] [Unveiling Javascript Scopes](https://dev.to/arindam_1729/unveiling-javascript-scopes-4bl5)
-- [Dev.to/JS] [Understanding JavaScript Execution Context](https://dev.to/arindam_1729/understanding-javascript-execution-context-573k)
-- [Dev.to/JS] [How to create an RRS feed in Nuxt Content](https://dev.to/michalkuncio/how-to-create-an-rrs-feed-in-nuxt-content-1bg5)
 - [Lifehacker] [10 Bear Facts You Need for Fat Bear Week](https://lifehacker.com/10-bear-facts-you-need-for-fat-bear-week-1849627121)
 - [Lifehacker] [These Latest Celebrity Deepfakes Show How Advanced Scams Have Become](https://lifehacker.com/these-latest-celebrity-deepfakes-show-how-advanced-scam-1850895311)
 - [Lifehacker] [How to Download Pictures and Videos From Threads on Your iPhone](https://lifehacker.com/download-pictures-video-from-threads-iphone-1850895658)
