@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Note for those who use JS timer in their pages 📢 This bug might be there for you guys too!](https://dev.to/gpingfeng/note-for-those-who-use-js-timer-in-their-pages-this-bug-might-be-there-for-you-guys-too-8hp)
+- [Dev.to/JS] [Analisa emas hari ini](https://dev.to/aseplawyers/analisa-emas-hari-ini-f92)
+- [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
 - [Dev.to/JS] [Vue2 to Vue3 Upgrade.](https://dev.to/aditianand8/vue2-to-vue3-upgrade-epa)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
 - [Dev.to/JS] [Rails 7.1 is coming out soon. Infield will upgrade your app with minimal back and forth.](https://dev.to/allieoopz/rails-71-is-coming-out-soon-infield-will-upgrade-your-app-with-minimal-back-and-forth-2fkf)
@@ -47,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
 - [Dev.to/JS] [Process Management in Operating Systems](https://dev.to/syedmuhammadaliraza/process-management-in-operating-systems-e01)
 - [Lifehacker] [Amazon Smart Speakers Are on Sale Before Prime &#39;Big Deal Days&#39;](https://lifehacker.com/early-amazon-prime-day-deals-echo-speakers-1850899982)
-- [Dev.to/JS] [Como Habilitar o Botão de Envio apenas com Inputs Preenchidos Usando JavaScript](https://dev.to/anabergerr/como-habilitar-o-botao-de-envio-apenas-com-inputs-preenchidos-usando-javascript-1djh)
-- [Dev.to/JS] [Getting Started with Umi: Building Solana JavaScript Clients with Ease](https://dev.to/vivekpal/getting-started-with-umi-building-solana-javascript-clients-with-ease-23e8)
 - [Lifehacker] [How to Change the Filter on Your Range Hood](https://lifehacker.com/how-to-change-the-filter-on-your-range-hood-1850897978)
 - [Lifehacker] [All the New AI Features Coming to Google Pixel 8](https://lifehacker.com/all-the-new-ai-features-coming-to-google-pixel-8-1850899112)
 - [Lifehacker] [This Deeper Connect Mini VPN Is On Sale for $200 Right Now](https://lifehacker.com/this-deeper-connect-mini-vpn-is-on-sale-for-200-right-1850888671)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Amazon Fire Sticks for Over 50% Off Right Now](https://lifehacker.com/you-can-get-amazon-fire-sticks-for-over-50-off-right-n-1850896973)
 - [Lifehacker] [The Best Ways to Digitize Your Notes](https://lifehacker.com/best-ways-digitize-notes-1850896868)
 - [Lifehacker] [How to Keep Your Pumpkin Plants Alive Until Halloween](https://lifehacker.com/how-to-keep-your-pumpkin-plants-alive-until-halloween-1850896507)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
-- [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)<!-- TECH-POSTS:END -->
 
 ---
 
