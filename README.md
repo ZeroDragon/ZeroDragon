@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue2 to Vue3 Upgrade.](https://dev.to/aditianand8/vue2-to-vue3-upgrade-epa)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
+- [Dev.to/JS] [Rails 7.1 is coming out soon. Infield will upgrade your app with minimal back and forth.](https://dev.to/allieoopz/rails-71-is-coming-out-soon-infield-will-upgrade-your-app-with-minimal-back-and-forth-2fkf)
+- [Dev.to/JS] [Introducción a Jest y su importancia en el desarrollo de software](https://dev.to/davichobits/introduccion-a-jest-y-su-importancia-en-el-desarrollo-de-software-4h7l)
 - [Dev.to/JS] [Investing homepage with waves animation](https://dev.to/friendlyuser/investing-homepage-with-waves-animation-2eh2)
 - [Dev.to/JS] [Is Typescript less famous? Going away?](https://dev.to/justcode_27/is-typescript-less-famous-going-away-3pio)
 - [Dev.to/JS] [Must have software for programmers](https://dev.to/codewithshahan/must-have-software-for-programmers-48b7)
@@ -45,10 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Smart Speakers Are on Sale Before Prime &#39;Big Deal Days&#39;](https://lifehacker.com/early-amazon-prime-day-deals-echo-speakers-1850899982)
 - [Dev.to/JS] [Como Habilitar o Botão de Envio apenas com Inputs Preenchidos Usando JavaScript](https://dev.to/anabergerr/como-habilitar-o-botao-de-envio-apenas-com-inputs-preenchidos-usando-javascript-1djh)
 - [Dev.to/JS] [Getting Started with Umi: Building Solana JavaScript Clients with Ease](https://dev.to/vivekpal/getting-started-with-umi-building-solana-javascript-clients-with-ease-23e8)
-- [Dev.to/JS] [JavaScript Event Loop: The Wizard&#39;s Time-Turner](https://dev.to/init_chandan/javascript-event-loop-the-wizards-time-turner-525k)
 - [Lifehacker] [How to Change the Filter on Your Range Hood](https://lifehacker.com/how-to-change-the-filter-on-your-range-hood-1850897978)
-- [Dev.to/JS] [Vanilla JavaScript: How To Create a Draggable Slider With Auto-Play and Navigation.](https://dev.to/lynxdev32/vanilla-javascript-how-to-create-a-draggable-slider-with-auto-play-and-navigation-4p9m)
-- [Dev.to/JS] [7 Open-Source Search Engines for your Enterprise and Startups you MUST know.](https://dev.to/swirl/7-open-source-search-engines-for-your-enterprise-and-startups-you-must-know-4504)
 - [Lifehacker] [All the New AI Features Coming to Google Pixel 8](https://lifehacker.com/all-the-new-ai-features-coming-to-google-pixel-8-1850899112)
 - [Lifehacker] [This Deeper Connect Mini VPN Is On Sale for $200 Right Now](https://lifehacker.com/this-deeper-connect-mini-vpn-is-on-sale-for-200-right-1850888671)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Digitize Your Notes](https://lifehacker.com/best-ways-digitize-notes-1850896868)
 - [Lifehacker] [How to Keep Your Pumpkin Plants Alive Until Halloween](https://lifehacker.com/how-to-keep-your-pumpkin-plants-alive-until-halloween-1850896507)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)
-- [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)
-- [Lifehacker] [Where to Stream the Georgia Vs. Kentucky Game](https://lifehacker.com/where-to-stream-the-georgia-vs-kentucky-game-1850896734)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Rosetta Stone and Microsoft Office Together for $200](https://lifehacker.com/you-can-get-rosetta-stone-and-microsoft-office-together-1850878418)<!-- TECH-POSTS:END -->
 
 ---
 
