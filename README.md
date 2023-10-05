@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guess the JavaScript Output: Very Tricky!](https://dev.to/sadeedpv/guess-the-javascript-output-very-tricky-2a6i)
+- [Dev.to/JS] [What If You Only Need One Table for Your Entire Database System?](https://dev.to/mohammadfaisal/what-if-you-only-need-one-table-for-your-entire-database-system-4c40)
+- [Dev.to/JS] [React&#39;s Concurrent Mode and its Benefits](https://dev.to/sidramaqbool/reacts-concurrent-mode-and-its-benefits-ji3)
+- [Dev.to/JS] [Welcome to the dark side. Ree.js awaits you!](https://dev.to/renhiyama/welcome-to-the-dark-side-reejs-awaits-you-1e4p)
 - [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Reviews, Benefits, Complaints &amp; Warnings?](https://dev.to/kdsanwbva/blue-vibe-cbd-gummies-pain-relief-reviews-benefits-complaints-warnings-290k)
 - [Dev.to/JS] [Update total booking price on a form &lpar;like Airbnb&rpar; without refreshing using Stimulus](https://dev.to/dmbf29/update-total-booking-price-on-a-form-like-airbnb-without-refreshing-using-stimulus-25m5)
 - [Dev.to/JS] [Use URL imports before Node/TypeScript supports it](https://dev.to/ayonli/use-url-imports-before-nodetypescript-supports-it-2fjm)
@@ -34,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [API Works, cool.](https://dev.to/jpablux/api-works-cool-1b4p)
 - [Dev.to/JS] [React Script Error when navigating through pages](https://dev.to/shivendra8004/react-script-error-when-navigating-through-pages-3d06)
 - [Dev.to/JS] [Fragment tag in React](https://dev.to/shivraj07/fragment-tag-in-react-pgn)
-- [Dev.to/JS] [Note for those who use JS timer in their pages 📢 This bug might be there for you guys too!](https://dev.to/gpingfeng/note-for-those-who-use-js-timer-in-their-pages-this-bug-might-be-there-for-you-guys-too-8hp)
-- [Dev.to/JS] [Analisa emas hari ini](https://dev.to/aseplawyers/analisa-emas-hari-ini-f92)
 - [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
-- [Dev.to/JS] [Vue2 to Vue3 Upgrade.](https://dev.to/aditianand8/vue2-to-vue3-upgrade-epa)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
-- [Dev.to/JS] [Rails 7.1 is coming out soon. Infield will upgrade your app with minimal back and forth.](https://dev.to/allieoopz/rails-71-is-coming-out-soon-infield-will-upgrade-your-app-with-minimal-back-and-forth-2fkf)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
 - [Lifehacker] [Where to Stream the 2023 Cricket World Cup](https://lifehacker.com/where-to-stream-the-2023-cricket-world-cup-1850900552)
 - [Lifehacker] [The Differences Between the Pixel Watch and Pixel Watch 2](https://lifehacker.com/the-differences-between-the-pixel-watch-and-pixel-watch-1850900243)
