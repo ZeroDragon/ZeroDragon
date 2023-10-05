@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Artificial Intelligence- A Comprehensive Guide to Definition and Functionality](https://dev.to/oajaiml/artificial-intelligence-a-comprehensive-guide-to-definition-and-functionality-3p4o)
+- [Dev.to/JS] [Ruby on Rails and Node.js: which one to choose? ⌨️](https://dev.to/proxify_dev/ruby-on-rails-and-nodejs-which-one-to-choose-2p9n)
+- [Dev.to/JS] [5 Main Features of React JS That Developers Must Know](https://dev.to/jebbs/5-main-features-of-react-js-that-developers-must-know-48i8)
+- [Dev.to/JS] [write a function, chunk&lpar;arr, n&rpar;, that returns chunked array of size n at the least. Look at](https://dev.to/houssni/write-a-function-chunkarr-n-that-returns-chunked-array-of-size-n-at-the-least-look-at-3dfe)
+- [Dev.to/JS] [Empowering Healthcare Through Innovative Telemedicine App Development Services](https://dev.to/pareshsagar/empowering-healthcare-through-innovative-telemedicine-app-development-services-fed)
 - [Dev.to/JS] [Mumbai escorts and call girls service](https://dev.to/priyasengupta/mumbai-escorts-and-call-girls-service-3a52)
 - [Dev.to/JS] [Take My Online Exams Services In USA](https://dev.to/billyobaines/take-my-online-exams-services-in-usa-3hmj)
 - [Dev.to/JS] [Mastering Vue.js Lifecycle Hooks: A Comprehensive Guide with Examples](https://dev.to/chintanonweb/mastering-vuejs-lifecycle-hooks-a-comprehensive-guide-with-examples-3mp6)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supercharge Your 1z0-1003-22 Exam Prep with Dumps](https://dev.to/iql7mz0o/supercharge-your-1z0-1003-22-exam-prep-with-dumps-4fbg)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step: Strong Types!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-strong-types-213i)
 - [Dev.to/JS] [I shoude be better](https://dev.to/sobhanhadikhah/i-shoude-be-better-5a9e)
-- [Dev.to/JS] [Number Guessing Game Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/number-guessing-game-using-html-css-and-javascript-4a1g)
-- [Dev.to/JS] [Guess the JavaScript Output: Very Tricky!](https://dev.to/sadeedpv/guess-the-javascript-output-very-tricky-2a6i)
-- [Dev.to/JS] [What If You Only Need One Table for Your Entire Database System?](https://dev.to/mohammadfaisal/what-if-you-only-need-one-table-for-your-entire-database-system-4c40)
-- [Dev.to/JS] [React&#39;s Concurrent Mode and its Benefits](https://dev.to/sidramaqbool/reacts-concurrent-mode-and-its-benefits-ji3)
-- [Dev.to/JS] [Welcome to the dark side. Ree.js awaits you!](https://dev.to/renhiyama/welcome-to-the-dark-side-reejs-awaits-you-1e4p)
 - [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
