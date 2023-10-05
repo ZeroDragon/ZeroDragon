@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mumbai escorts and call girls service](https://dev.to/priyasengupta/mumbai-escorts-and-call-girls-service-3a52)
+- [Dev.to/JS] [Take My Online Exams Services In USA](https://dev.to/billyobaines/take-my-online-exams-services-in-usa-3hmj)
+- [Dev.to/JS] [Mastering Vue.js Lifecycle Hooks: A Comprehensive Guide with Examples](https://dev.to/chintanonweb/mastering-vuejs-lifecycle-hooks-a-comprehensive-guide-with-examples-3mp6)
 - [Dev.to/JS] [4 Ways to Convert String to Character Array in JavaScript](https://dev.to/speaklouder/4-ways-to-convert-string-to-character-array-in-javascript-3en)
 - [Dev.to/JS] [Supercharge Your 1z0-1003-22 Exam Prep with Dumps](https://dev.to/iql7mz0o/supercharge-your-1z0-1003-22-exam-prep-with-dumps-4fbg)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step: Strong Types!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-strong-types-213i)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What If You Only Need One Table for Your Entire Database System?](https://dev.to/mohammadfaisal/what-if-you-only-need-one-table-for-your-entire-database-system-4c40)
 - [Dev.to/JS] [React&#39;s Concurrent Mode and its Benefits](https://dev.to/sidramaqbool/reacts-concurrent-mode-and-its-benefits-ji3)
 - [Dev.to/JS] [Welcome to the dark side. Ree.js awaits you!](https://dev.to/renhiyama/welcome-to-the-dark-side-reejs-awaits-you-1e4p)
-- [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Reviews, Benefits, Complaints &amp; Warnings?](https://dev.to/kdsanwbva/blue-vibe-cbd-gummies-pain-relief-reviews-benefits-complaints-warnings-290k)
-- [Dev.to/JS] [Update total booking price on a form &lpar;like Airbnb&rpar; without refreshing using Stimulus](https://dev.to/dmbf29/update-total-booking-price-on-a-form-like-airbnb-without-refreshing-using-stimulus-25m5)
-- [Dev.to/JS] [Use URL imports before Node/TypeScript supports it](https://dev.to/ayonli/use-url-imports-before-nodetypescript-supports-it-2fjm)
 - [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
