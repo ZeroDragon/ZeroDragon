@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Follow This &#39;Mapping&#39; Strategy on Big Cleaning Days](https://lifehacker.com/follow-this-mapping-strategy-on-big-cleaning-days-1850902546)
 - [Lifehacker] [Here&#39;s What Would Happen If You Didn&#39;t Heat Your House All Winter](https://lifehacker.com/heres-what-would-happen-if-you-didnt-heat-your-house-al-1850902659)
 - [Lifehacker] [10 Clever Ways to Keep Cats From Shredding Your Curtains](https://lifehacker.com/10-clever-ways-to-keep-cats-from-shredding-your-curtain-1850901273)
 - [Dev.to/JS] [Simplifying Code Organization with Sorted Imports in React Applications](https://dev.to/itsgsashish/simplifying-code-organization-with-sorted-imports-in-react-applications-3cpk)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Deeper Connect Mini VPN Is On Sale for $200 Right Now](https://lifehacker.com/this-deeper-connect-mini-vpn-is-on-sale-for-200-right-1850888671)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [How to Know If You’re Addicted to Porn &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-deal-with-a-porn-addiction-1850899123)
-- [Lifehacker] [9 Great Nintendo Switch Games for Little Kids &lpar;That Don&#39;t Star Mario&rpar;](https://lifehacker.com/best-nintendo-switch-games-little-kids-1850897137)
-- [Lifehacker] [How to Safely View a Solar Eclipse](https://lifehacker.com/how-to-safely-view-a-solar-eclipse-1847016020)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 Great Nintendo Switch Games for Little Kids &lpar;That Don&#39;t Star Mario&rpar;](https://lifehacker.com/best-nintendo-switch-games-little-kids-1850897137)<!-- TECH-POSTS:END -->
 
 ---
 
