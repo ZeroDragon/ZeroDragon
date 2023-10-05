@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Investing homepage with waves animation](https://dev.to/friendlyuser/investing-homepage-with-waves-animation-2eh2)
+- [Dev.to/JS] [Is Typescript less famous? Going away?](https://dev.to/justcode_27/is-typescript-less-famous-going-away-3pio)
 - [Dev.to/JS] [Must have software for programmers](https://dev.to/codewithshahan/must-have-software-for-programmers-48b7)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
 - [Dev.to/JS] [Beginner Interview CheatSheet: 300+ Javascript Interview Q&amp;A](https://dev.to/getreactdev/beginner-interview-cheatsheet-300-javascript-interview-qa-1m3h)
@@ -47,12 +49,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Change the Filter on Your Range Hood](https://lifehacker.com/how-to-change-the-filter-on-your-range-hood-1850897978)
 - [Dev.to/JS] [Vanilla JavaScript: How To Create a Draggable Slider With Auto-Play and Navigation.](https://dev.to/lynxdev32/vanilla-javascript-how-to-create-a-draggable-slider-with-auto-play-and-navigation-4p9m)
 - [Dev.to/JS] [7 Open-Source Search Engines for your Enterprise and Startups you MUST know.](https://dev.to/swirl/7-open-source-search-engines-for-your-enterprise-and-startups-you-must-know-4504)
-- [Dev.to/JS] [Simplest Reactivity in Web Pages Using Vanilla Javascript;](https://dev.to/arnavk09/simplest-reactivity-in-web-pages-using-vanilla-javascript-5ekp)
 - [Lifehacker] [All the New AI Features Coming to Google Pixel 8](https://lifehacker.com/all-the-new-ai-features-coming-to-google-pixel-8-1850899112)
 - [Lifehacker] [This Deeper Connect Mini VPN Is On Sale for $200 Right Now](https://lifehacker.com/this-deeper-connect-mini-vpn-is-on-sale-for-200-right-1850888671)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [How to Know If You’re Addicted to Porn &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-deal-with-a-porn-addiction-1850899123)
-- [Dev.to/JS] [A List of Useful NPM Packages for React/Next JS Developers](https://dev.to/jon_snow789/a-list-of-useful-npm-packages-for-reactnext-js-developers-7ln)
 - [Lifehacker] [9 Great Nintendo Switch Games for Little Kids &lpar;That Don&#39;t Star Mario&rpar;](https://lifehacker.com/best-nintendo-switch-games-little-kids-1850897137)
 - [Lifehacker] [How to Safely View a Solar Eclipse](https://lifehacker.com/how-to-safely-view-a-solar-eclipse-1847016020)
 - [Lifehacker] [This BirdBike A-Frame E-bike Is On Sale for $900 Right Now](https://lifehacker.com/this-birdbike-a-frame-e-bike-is-on-sale-for-900-right-1850892312)
