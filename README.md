@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [API Blog Post Testing](https://dev.to/jpablux/api-blog-post-testing-2g7a)
+- [Dev.to/JS] [How to create an invite-only auth flow in 2023](https://dev.to/supertokens/how-to-create-an-invite-only-auth-flow-in-2023-233d)
+- [Dev.to/JS] [API Works, cool.](https://dev.to/jpablux/api-works-cool-1b4p)
 - [Dev.to/JS] [React Script Error when navigating through pages](https://dev.to/shivendra8004/react-script-error-when-navigating-through-pages-3d06)
 - [Dev.to/JS] [Fragment tag in React](https://dev.to/shivraj07/fragment-tag-in-react-pgn)
 - [Dev.to/JS] [Note for those who use JS timer in their pages 📢 This bug might be there for you guys too!](https://dev.to/gpingfeng/note-for-those-who-use-js-timer-in-their-pages-this-bug-might-be-there-for-you-guys-too-8hp)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducción a Jest y su importancia en el desarrollo de software](https://dev.to/davichobits/introduccion-a-jest-y-su-importancia-en-el-desarrollo-de-software-4h7l)
 - [Dev.to/JS] [Investing homepage with waves animation](https://dev.to/friendlyuser/investing-homepage-with-waves-animation-2eh2)
 - [Dev.to/JS] [Is Typescript less famous? Going away?](https://dev.to/justcode_27/is-typescript-less-famous-going-away-3pio)
-- [Dev.to/JS] [Must have software for programmers](https://dev.to/codewithshahan/must-have-software-for-programmers-48b7)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
-- [Dev.to/JS] [Beginner Interview CheatSheet: 300+ Javascript Interview Q&amp;A](https://dev.to/getreactdev/beginner-interview-cheatsheet-300-javascript-interview-qa-1m3h)
 - [Lifehacker] [Where to Stream the 2023 Cricket World Cup](https://lifehacker.com/where-to-stream-the-2023-cricket-world-cup-1850900552)
-- [Dev.to/JS] [Javascript: Nullish Coalescing vs OR operator](https://dev.to/djzenma/javascript-nullish-coalescing-vs-or-operator-2297)
 - [Lifehacker] [The Differences Between the Pixel Watch and Pixel Watch 2](https://lifehacker.com/the-differences-between-the-pixel-watch-and-pixel-watch-1850900243)
 - [Lifehacker] [Use &#39;Project-Based Learning&#39; to Study on Your Own](https://lifehacker.com/use-project-based-learning-to-study-on-your-own-1850899403)
 - [Lifehacker] [You Can Officially Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
