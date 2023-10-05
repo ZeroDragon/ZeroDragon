@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Reviews, Benefits, Complaints &amp; Warnings?](https://dev.to/kdsanwbva/blue-vibe-cbd-gummies-pain-relief-reviews-benefits-complaints-warnings-290k)
+- [Dev.to/JS] [Update total booking price on a form &lpar;like Airbnb&rpar; without refreshing using Stimulus](https://dev.to/dmbf29/update-total-booking-price-on-a-form-like-airbnb-without-refreshing-using-stimulus-25m5)
+- [Dev.to/JS] [Use URL imports before Node/TypeScript supports it](https://dev.to/ayonli/use-url-imports-before-nodetypescript-supports-it-2fjm)
 - [Dev.to/JS] [API Blog Post Testing](https://dev.to/jpablux/api-blog-post-testing-2g7a)
 - [Dev.to/JS] [How to create an invite-only auth flow in 2023](https://dev.to/supertokens/how-to-create-an-invite-only-auth-flow-in-2023-233d)
 - [Dev.to/JS] [API Works, cool.](https://dev.to/jpablux/api-works-cool-1b4p)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue2 to Vue3 Upgrade.](https://dev.to/aditianand8/vue2-to-vue3-upgrade-epa)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
 - [Dev.to/JS] [Rails 7.1 is coming out soon. Infield will upgrade your app with minimal back and forth.](https://dev.to/allieoopz/rails-71-is-coming-out-soon-infield-will-upgrade-your-app-with-minimal-back-and-forth-2fkf)
-- [Dev.to/JS] [Introducción a Jest y su importancia en el desarrollo de software](https://dev.to/davichobits/introduccion-a-jest-y-su-importancia-en-el-desarrollo-de-software-4h7l)
-- [Dev.to/JS] [Investing homepage with waves animation](https://dev.to/friendlyuser/investing-homepage-with-waves-animation-2eh2)
-- [Dev.to/JS] [Is Typescript less famous? Going away?](https://dev.to/justcode_27/is-typescript-less-famous-going-away-3pio)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
 - [Lifehacker] [Where to Stream the 2023 Cricket World Cup](https://lifehacker.com/where-to-stream-the-2023-cricket-world-cup-1850900552)
 - [Lifehacker] [The Differences Between the Pixel Watch and Pixel Watch 2](https://lifehacker.com/the-differences-between-the-pixel-watch-and-pixel-watch-1850900243)
