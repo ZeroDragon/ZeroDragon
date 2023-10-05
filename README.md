@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Preorder Sales for the Google Pixel 8](https://lifehacker.com/these-are-the-best-preorder-sales-for-the-google-pixel-1850903463)
+- [Lifehacker] [Winterize Your Grill Now to Keep It From Rusting](https://lifehacker.com/how-to-winterize-gas-or-charcoal-grill-1850903347)
+- [Lifehacker] [‘Girl Math’ Isn’t a Joke for Your Finances](https://lifehacker.com/girl-math-isn-t-a-joke-for-your-finances-1850902889)
+- [Dev.to/JS] [Need your help to decide which post should I write about next](https://dev.to/talorlanczyk/need-your-help-to-decide-which-post-should-i-write-about-next-577c)
 - [Lifehacker] [How to Choose Between a Makita and Ryobi Battery Powered Wet Saw](https://lifehacker.com/makita-ryobi-wet-saw-review-comparison-1850901408)
 - [Dev.to/JS] [How to build real-time data applications using Mongoose and WebSockets in Node.js](https://dev.to/akashakki/how-to-build-real-time-data-applications-using-mongoose-and-websockets-in-nodejs-16ol)
 - [Dev.to/JS] [Using a tagged template to simplify regular expressions](https://dev.to/tracygjg/using-a-tagged-template-to-simplify-regular-expressions-da2)
@@ -49,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;High&#39; Price of Gas](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-high-price-1850901691)
 - [Dev.to/JS] [Brotli vs. GZIP vs. Zopfli: Comparing JavaScript Compression Techniques.](https://dev.to/codingcrafts/brotli-vs-gzip-vs-zopfli-comparing-javascript-compression-techniques-1fo2)
 - [Lifehacker] [Uber Will Now Return Your Online Orders for You](https://lifehacker.com/uber-will-now-return-your-online-orders-for-you-1850901068)
-- [Dev.to/JS] [Artificial Intelligence- A Comprehensive Guide to Definition and Functionality](https://dev.to/oajaiml/artificial-intelligence-a-comprehensive-guide-to-definition-and-functionality-3p4o)
 - [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Get Motivated to Work Out Every Morning](https://lifehacker.com/how-to-motivate-yourself-to-exercise-every-morning-1827028412)
 - [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
 - [Lifehacker] [Amazon Smart Speakers Are on Sale Before Prime &#39;Big Deal Days&#39;](https://lifehacker.com/early-amazon-prime-day-deals-echo-speakers-1850899982)
-- [Lifehacker] [How to Change the Filter on Your Range Hood](https://lifehacker.com/how-to-change-the-filter-on-your-range-hood-1850897978)
-- [Lifehacker] [All the New AI Features Coming to Google Pixel 8](https://lifehacker.com/all-the-new-ai-features-coming-to-google-pixel-8-1850899112)
-- [Lifehacker] [This Deeper Connect Mini VPN Is On Sale for $200 Right Now](https://lifehacker.com/this-deeper-connect-mini-vpn-is-on-sale-for-200-right-1850888671)
-- [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Change the Filter on Your Range Hood](https://lifehacker.com/how-to-change-the-filter-on-your-range-hood-1850897978)<!-- TECH-POSTS:END -->
 
 ---
 
