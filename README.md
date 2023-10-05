@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build blazing fast serverless apps using Cloudflare 🏃](https://dev.to/slsbytheodo/build-blazing-fast-serverless-apps-using-cloudflare-n3g)
+- [Lifehacker] [All the Seeds You Should Be Saving Right Now for Next Year](https://lifehacker.com/all-the-seeds-you-should-be-saving-right-now-for-next-y-1850901886)
+- [Dev.to/JS] [Sending emails in NodeJs with NodeMailer: The Comprehensive Guide](https://dev.to/alakkadshaw/sending-emails-in-nodejs-with-nodemailer-the-comprehensive-guide-5429)
+- [Lifehacker] [The Best Smart-Home Tech Sales on Amazon Right Now](https://lifehacker.com/the-best-smart-home-tech-sales-on-amazon-right-now-1850901870)
 - [Dev.to/JS] [Zen JavaScript?](https://dev.to/opensourcee/zen-javascript-5fjp)
 - [Dev.to/JS] [Boost Your Webpage Load Performance with the new Webpack plugin](https://dev.to/fogel/boost-your-webpage-load-performance-with-the-new-webpack-plugin-1kko)
 - [Dev.to/JS] [Trigger.dev update – September 2023](https://dev.to/triggerdotdev/triggerdev-update-september-2023-39oj)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Main Features of React JS That Developers Must Know](https://dev.to/jebbs/5-main-features-of-react-js-that-developers-must-know-48i8)
 - [Dev.to/JS] [write a function, chunk&lpar;arr, n&rpar;, that returns chunked array of size n at the least. Look at](https://dev.to/houssni/write-a-function-chunkarr-n-that-returns-chunked-array-of-size-n-at-the-least-look-at-3dfe)
 - [Dev.to/JS] [Empowering Healthcare Through Innovative Telemedicine App Development Services](https://dev.to/pareshsagar/empowering-healthcare-through-innovative-telemedicine-app-development-services-fed)
-- [Dev.to/JS] [Mumbai escorts and call girls service](https://dev.to/priyasengupta/mumbai-escorts-and-call-girls-service-3a52)
-- [Dev.to/JS] [Take My Online Exams Services In USA](https://dev.to/billyobaines/take-my-online-exams-services-in-usa-3hmj)
 - [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Safely View a Solar Eclipse](https://lifehacker.com/how-to-safely-view-a-solar-eclipse-1847016020)
 - [Lifehacker] [This BirdBike A-Frame E-bike Is On Sale for $900 Right Now](https://lifehacker.com/this-birdbike-a-frame-e-bike-is-on-sale-for-900-right-1850892312)
 - [Lifehacker] [All the New Android 14 Features Google Announced Today](https://lifehacker.com/best-new-features-android-14-1850897684)
-- [Lifehacker] [These Are the Newest Updates to Pixel Buds Pro](https://lifehacker.com/these-are-the-newest-updates-to-pixel-buds-pro-1850897682)
-- [Lifehacker] [The ‘Ring of Fire’ Eclipse and Other Solar Events to Watch in October](https://lifehacker.com/the-ring-of-fire-eclipse-and-other-solar-events-to-wa-1850898067)
-- [Lifehacker] [Here&#39;s How Many Calories I Burned Riding an E-bike Vs. a Regular Bike](https://lifehacker.com/heres-how-many-calories-i-burned-riding-an-ebike-vs-a-1850897770)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Newest Updates to Pixel Buds Pro](https://lifehacker.com/these-are-the-newest-updates-to-pixel-buds-pro-1850897682)<!-- TECH-POSTS:END -->
 
 ---
 
