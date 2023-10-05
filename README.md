@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Script Error when navigating through pages](https://dev.to/shivendra8004/react-script-error-when-navigating-through-pages-3d06)
+- [Dev.to/JS] [Fragment tag in React](https://dev.to/shivraj07/fragment-tag-in-react-pgn)
 - [Dev.to/JS] [Note for those who use JS timer in their pages 📢 This bug might be there for you guys too!](https://dev.to/gpingfeng/note-for-those-who-use-js-timer-in-their-pages-this-bug-might-be-there-for-you-guys-too-8hp)
 - [Dev.to/JS] [Analisa emas hari ini](https://dev.to/aseplawyers/analisa-emas-hari-ini-f92)
 - [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
@@ -42,13 +44,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript: Nullish Coalescing vs OR operator](https://dev.to/djzenma/javascript-nullish-coalescing-vs-or-operator-2297)
 - [Lifehacker] [The Differences Between the Pixel Watch and Pixel Watch 2](https://lifehacker.com/the-differences-between-the-pixel-watch-and-pixel-watch-1850900243)
 - [Lifehacker] [Use &#39;Project-Based Learning&#39; to Study on Your Own](https://lifehacker.com/use-project-based-learning-to-study-on-your-own-1850899403)
-- [Dev.to/JS] [I hate Typescript, is it a shame?](https://dev.to/bytebricks/i-hate-typescript-is-it-shame-5cek)
 - [Lifehacker] [You Can Officially Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/you-can-stop-your-iphone-15-pro-from-overheating-1850891798)
 - [Lifehacker] [AdGuard VPN Is $30 for Three Years Right Now](https://lifehacker.com/adguard-vpn-is-30-for-three-years-right-now-1850888705)
 - [Lifehacker] [Avoid These Common Mistakes During Open Enrollment](https://lifehacker.com/avoid-these-common-mistakes-during-open-enrollment-1850899618)
 - [Lifehacker] [The Best Ways to Get Motivated to Work Out Every Morning](https://lifehacker.com/how-to-motivate-yourself-to-exercise-every-morning-1827028412)
 - [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
-- [Dev.to/JS] [Process Management in Operating Systems](https://dev.to/syedmuhammadaliraza/process-management-in-operating-systems-e01)
 - [Lifehacker] [Amazon Smart Speakers Are on Sale Before Prime &#39;Big Deal Days&#39;](https://lifehacker.com/early-amazon-prime-day-deals-echo-speakers-1850899982)
 - [Lifehacker] [How to Change the Filter on Your Range Hood](https://lifehacker.com/how-to-change-the-filter-on-your-range-hood-1850897978)
 - [Lifehacker] [All the New AI Features Coming to Google Pixel 8](https://lifehacker.com/all-the-new-ai-features-coming-to-google-pixel-8-1850899112)
