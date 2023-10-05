@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s What Would Happen If You Didn&#39;t Heat Your House All Winter](https://lifehacker.com/heres-what-would-happen-if-you-didnt-heat-your-house-al-1850902659)
+- [Lifehacker] [10 Clever Ways to Keep Cats From Shredding Your Curtains](https://lifehacker.com/10-clever-ways-to-keep-cats-from-shredding-your-curtain-1850901273)
+- [Dev.to/JS] [Simplifying Code Organization with Sorted Imports in React Applications](https://dev.to/itsgsashish/simplifying-code-organization-with-sorted-imports-in-react-applications-3cpk)
+- [Dev.to/JS] [TERNAry review 1](https://dev.to/ireneternovets/ternary-review-1-4pkm)
+- [Lifehacker] [This CompTIA Cybersecurity Course Is $50 Right Now](https://lifehacker.com/this-comptia-cybersecurity-course-is-50-right-now-1850888636)
 - [Dev.to/JS] [Build blazing fast serverless apps using Cloudflare 🏃](https://dev.to/slsbytheodo/build-blazing-fast-serverless-apps-using-cloudflare-n3g)
 - [Lifehacker] [All the Seeds You Should Be Saving Right Now for Next Year](https://lifehacker.com/all-the-seeds-you-should-be-saving-right-now-for-next-y-1850901886)
 - [Dev.to/JS] [Sending emails in NodeJs with NodeMailer: The Comprehensive Guide](https://dev.to/alakkadshaw/sending-emails-in-nodejs-with-nodemailer-the-comprehensive-guide-5429)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Artificial Intelligence- A Comprehensive Guide to Definition and Functionality](https://dev.to/oajaiml/artificial-intelligence-a-comprehensive-guide-to-definition-and-functionality-3p4o)
 - [Dev.to/JS] [Ruby on Rails and Node.js: which one to choose? ⌨️](https://dev.to/proxify_dev/ruby-on-rails-and-nodejs-which-one-to-choose-2p9n)
 - [Dev.to/JS] [5 Main Features of React JS That Developers Must Know](https://dev.to/jebbs/5-main-features-of-react-js-that-developers-must-know-48i8)
-- [Dev.to/JS] [write a function, chunk&lpar;arr, n&rpar;, that returns chunked array of size n at the least. Look at](https://dev.to/houssni/write-a-function-chunkarr-n-that-returns-chunked-array-of-size-n-at-the-least-look-at-3dfe)
-- [Dev.to/JS] [Empowering Healthcare Through Innovative Telemedicine App Development Services](https://dev.to/pareshsagar/empowering-healthcare-through-innovative-telemedicine-app-development-services-fed)
 - [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [How to Know If You’re Addicted to Porn &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-deal-with-a-porn-addiction-1850899123)
 - [Lifehacker] [9 Great Nintendo Switch Games for Little Kids &lpar;That Don&#39;t Star Mario&rpar;](https://lifehacker.com/best-nintendo-switch-games-little-kids-1850897137)
-- [Lifehacker] [How to Safely View a Solar Eclipse](https://lifehacker.com/how-to-safely-view-a-solar-eclipse-1847016020)
-- [Lifehacker] [This BirdBike A-Frame E-bike Is On Sale for $900 Right Now](https://lifehacker.com/this-birdbike-a-frame-e-bike-is-on-sale-for-900-right-1850892312)
-- [Lifehacker] [All the New Android 14 Features Google Announced Today](https://lifehacker.com/best-new-features-android-14-1850897684)
-- [Lifehacker] [These Are the Newest Updates to Pixel Buds Pro](https://lifehacker.com/these-are-the-newest-updates-to-pixel-buds-pro-1850897682)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Safely View a Solar Eclipse](https://lifehacker.com/how-to-safely-view-a-solar-eclipse-1847016020)<!-- TECH-POSTS:END -->
 
 ---
 
