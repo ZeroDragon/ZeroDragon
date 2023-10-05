@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 Ways to Convert String to Character Array in JavaScript](https://dev.to/speaklouder/4-ways-to-convert-string-to-character-array-in-javascript-3en)
+- [Dev.to/JS] [Supercharge Your 1z0-1003-22 Exam Prep with Dumps](https://dev.to/iql7mz0o/supercharge-your-1z0-1003-22-exam-prep-with-dumps-4fbg)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step: Strong Types!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-strong-types-213i)
+- [Dev.to/JS] [I shoude be better](https://dev.to/sobhanhadikhah/i-shoude-be-better-5a9e)
+- [Dev.to/JS] [Number Guessing Game Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/number-guessing-game-using-html-css-and-javascript-4a1g)
 - [Dev.to/JS] [Guess the JavaScript Output: Very Tricky!](https://dev.to/sadeedpv/guess-the-javascript-output-very-tricky-2a6i)
 - [Dev.to/JS] [What If You Only Need One Table for Your Entire Database System?](https://dev.to/mohammadfaisal/what-if-you-only-need-one-table-for-your-entire-database-system-4c40)
 - [Dev.to/JS] [React&#39;s Concurrent Mode and its Benefits](https://dev.to/sidramaqbool/reacts-concurrent-mode-and-its-benefits-ji3)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Reviews, Benefits, Complaints &amp; Warnings?](https://dev.to/kdsanwbva/blue-vibe-cbd-gummies-pain-relief-reviews-benefits-complaints-warnings-290k)
 - [Dev.to/JS] [Update total booking price on a form &lpar;like Airbnb&rpar; without refreshing using Stimulus](https://dev.to/dmbf29/update-total-booking-price-on-a-form-like-airbnb-without-refreshing-using-stimulus-25m5)
 - [Dev.to/JS] [Use URL imports before Node/TypeScript supports it](https://dev.to/ayonli/use-url-imports-before-nodetypescript-supports-it-2fjm)
-- [Dev.to/JS] [API Blog Post Testing](https://dev.to/jpablux/api-blog-post-testing-2g7a)
-- [Dev.to/JS] [How to create an invite-only auth flow in 2023](https://dev.to/supertokens/how-to-create-an-invite-only-auth-flow-in-2023-233d)
-- [Dev.to/JS] [API Works, cool.](https://dev.to/jpablux/api-works-cool-1b4p)
-- [Dev.to/JS] [React Script Error when navigating through pages](https://dev.to/shivendra8004/react-script-error-when-navigating-through-pages-3d06)
-- [Dev.to/JS] [Fragment tag in React](https://dev.to/shivraj07/fragment-tag-in-react-pgn)
 - [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
