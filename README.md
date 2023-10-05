@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Filter Junk Out of Your Gmail Inbox](https://lifehacker.com/the-easiest-way-to-filter-junk-out-of-your-gmail-inbox-1850903652)
 - [Lifehacker] [These Are the Best Preorder Sales for the Google Pixel 8](https://lifehacker.com/these-are-the-best-preorder-sales-for-the-google-pixel-1850903463)
 - [Lifehacker] [Winterize Your Grill Now to Keep It From Rusting](https://lifehacker.com/how-to-winterize-gas-or-charcoal-grill-1850903347)
 - [Lifehacker] [‘Girl Math’ Isn’t a Joke for Your Finances](https://lifehacker.com/girl-math-isn-t-a-joke-for-your-finances-1850902889)
@@ -35,6 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using a tagged template to simplify regular expressions](https://dev.to/tracygjg/using-a-tagged-template-to-simplify-regular-expressions-da2)
 - [Lifehacker] [The Best Pixel 8 Feature Is One You Won’t Find on Any Other Android](https://lifehacker.com/the-best-pixel-8-feature-is-one-you-won-t-find-on-any-o-1850902696)
 - [Lifehacker] [Follow This &#39;Mapping&#39; Strategy on Big Cleaning Days](https://lifehacker.com/follow-this-mapping-strategy-on-big-cleaning-days-1850902546)
+- [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime ‘Big Deal Days’ Sales](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)
 - [Lifehacker] [Here&#39;s What Would Happen If You Didn&#39;t Heat Your House All Winter](https://lifehacker.com/heres-what-would-happen-if-you-didnt-heat-your-house-al-1850902659)
 - [Lifehacker] [10 Clever Ways to Keep Cats From Shredding Your Curtains](https://lifehacker.com/10-clever-ways-to-keep-cats-from-shredding-your-curtain-1850901273)
 - [Dev.to/JS] [Simplifying Code Organization with Sorted Imports in React Applications](https://dev.to/itsgsashish/simplifying-code-organization-with-sorted-imports-in-react-applications-3cpk)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [AdGuard VPN Is $30 for Three Years Right Now](https://lifehacker.com/adguard-vpn-is-30-for-three-years-right-now-1850888705)
 - [Lifehacker] [Avoid These Common Mistakes During Open Enrollment](https://lifehacker.com/avoid-these-common-mistakes-during-open-enrollment-1850899618)
 - [Lifehacker] [The Best Ways to Get Motivated to Work Out Every Morning](https://lifehacker.com/how-to-motivate-yourself-to-exercise-every-morning-1827028412)
-- [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
-- [Lifehacker] [Amazon Smart Speakers Are on Sale Before Prime &#39;Big Deal Days&#39;](https://lifehacker.com/early-amazon-prime-day-deals-echo-speakers-1850899982)
-- [Lifehacker] [How to Change the Filter on Your Range Hood](https://lifehacker.com/how-to-change-the-filter-on-your-range-hood-1850897978)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)<!-- TECH-POSTS:END -->
 
 ---
 
