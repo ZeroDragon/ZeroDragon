@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get an Echo Show Right Now for Less Than $50](https://lifehacker.com/you-can-get-an-echo-show-right-now-for-less-than-50-1850901049)
+- [Lifehacker] [What People Are Getting Wrong This Week: The &#39;High&#39; Price of Gas](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-high-price-1850901691)
+- [Dev.to/JS] [Brotli vs. GZIP vs. Zopfli: Comparing JavaScript Compression Techniques.](https://dev.to/codingcrafts/brotli-vs-gzip-vs-zopfli-comparing-javascript-compression-techniques-1fo2)
+- [Lifehacker] [Uber Will Now Return Your Online Orders for You](https://lifehacker.com/uber-will-now-return-your-online-orders-for-you-1850901068)
 - [Dev.to/JS] [Artificial Intelligence- A Comprehensive Guide to Definition and Functionality](https://dev.to/oajaiml/artificial-intelligence-a-comprehensive-guide-to-definition-and-functionality-3p4o)
 - [Dev.to/JS] [Ruby on Rails and Node.js: which one to choose? ⌨️](https://dev.to/proxify_dev/ruby-on-rails-and-nodejs-which-one-to-choose-2p9n)
 - [Dev.to/JS] [5 Main Features of React JS That Developers Must Know](https://dev.to/jebbs/5-main-features-of-react-js-that-developers-must-know-48i8)
@@ -36,8 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Vue.js Lifecycle Hooks: A Comprehensive Guide with Examples](https://dev.to/chintanonweb/mastering-vuejs-lifecycle-hooks-a-comprehensive-guide-with-examples-3mp6)
 - [Dev.to/JS] [4 Ways to Convert String to Character Array in JavaScript](https://dev.to/speaklouder/4-ways-to-convert-string-to-character-array-in-javascript-3en)
 - [Dev.to/JS] [Supercharge Your 1z0-1003-22 Exam Prep with Dumps](https://dev.to/iql7mz0o/supercharge-your-1z0-1003-22-exam-prep-with-dumps-4fbg)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step: Strong Types!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-strong-types-213i)
-- [Dev.to/JS] [I shoude be better](https://dev.to/sobhanhadikhah/i-shoude-be-better-5a9e)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step: Strong Lambda Types!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-strong-types-213i)
 - [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
 - [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Newest Updates to Pixel Buds Pro](https://lifehacker.com/these-are-the-newest-updates-to-pixel-buds-pro-1850897682)
 - [Lifehacker] [The ‘Ring of Fire’ Eclipse and Other Solar Events to Watch in October](https://lifehacker.com/the-ring-of-fire-eclipse-and-other-solar-events-to-wa-1850898067)
 - [Lifehacker] [Here&#39;s How Many Calories I Burned Riding an E-bike Vs. a Regular Bike](https://lifehacker.com/heres-how-many-calories-i-burned-riding-an-ebike-vs-a-1850897770)
-- [Lifehacker] [You Can Get Amazon Fire Sticks for Over 50% Off Right Now](https://lifehacker.com/you-can-get-amazon-fire-sticks-for-over-50-off-right-n-1850896973)
-- [Lifehacker] [The Best Ways to Digitize Your Notes](https://lifehacker.com/best-ways-digitize-notes-1850896868)
-- [Lifehacker] [How to Keep Your Pumpkin Plants Alive Until Halloween](https://lifehacker.com/how-to-keep-your-pumpkin-plants-alive-until-halloween-1850896507)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 4, 2023](https://lifehacker.com/nyt-connections-answer-today-october-4-2023-1850895117)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Amazon Fire Sticks for Over 50% Off Right Now](https://lifehacker.com/you-can-get-amazon-fire-sticks-for-over-50-off-right-n-1850896973)<!-- TECH-POSTS:END -->
 
 ---
 
