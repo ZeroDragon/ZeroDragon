@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tailwind CSS vs. Styled-Components for Styling in React JS](https://dev.to/jebbs/tailwind-css-vs-styled-components-for-styling-in-react-js-13ed)
+- [Dev.to/JS] [How did you switch from JavaScript to TypeScript?](https://dev.to/catherineisonline/how-did-you-switch-from-javascript-to-typescript-5gja)
+- [Dev.to/JS] [Azure Certification with AZ-900 Dumps](https://dev.to/az900dumps/azure-certification-with-az-900-dumps-4jd8)
 - [Dev.to/JS] [Liskov Substitution Principle in React](https://dev.to/mikhaelesa/liskov-substitution-principle-in-react-2p1n)
 - [Dev.to/JS] [How to connect MongoDB to your Next.js application](https://dev.to/aedamjung/how-to-connect-mongodb-to-your-nextjs-application-44dn)
 - [Dev.to/JS] [How to Build an Image Search App With Pagination Using React](https://dev.to/myogeshchavan97/how-to-build-an-image-search-app-with-pagination-using-react-mg6)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)
 - [Dev.to/JS] [Quick Read of All npm Commands.](https://dev.to/power_coder/quick-read-of-all-npm-commands-3ipd)
 - [Lifehacker] [You Can Get Windows 11 and Office Pro for $50 Right Now](https://lifehacker.com/you-can-get-windows-11-and-office-pro-for-50-right-now-1850892379)
-- [Dev.to/JS] [Understanding parseInt in JavaScript: Usage, Quirks, and Best Practices](https://dev.to/judevector/understanding-parseint-in-javascript-usage-quirks-and-best-practices-1dl7)
-- [Dev.to/JS] [Quick Read to understand `package.json`](https://dev.to/power_coder/quick-read-to-understand-packagejson-f9o)
 - [Lifehacker] [Where to Stream the Oklahoma Vs. Texas Game](https://lifehacker.com/where-to-stream-the-oklahoma-vs-texas-game-1850904332)
 - [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Cancel Automatically After Prime Big Deal Days](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)
 - [Lifehacker] [Use the Boxing Method to Take Better Digital Notes](https://lifehacker.com/use-the-boxing-method-for-digital-note-taking-1850904099)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Winterize Your Grill Now to Keep It From Rusting](https://lifehacker.com/how-to-winterize-gas-or-charcoal-grill-1850903347)
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Lifehacker] [‘Girl Math’ Isn’t a Joke for Your Finances](https://lifehacker.com/girl-math-isn-t-a-joke-for-your-finances-1850902889)
-- [Dev.to/JS] [Need your help to decide which post should I write about next](https://dev.to/talorlanczyk/need-your-help-to-decide-which-post-should-i-write-about-next-577c)
 - [Lifehacker] [How to Choose Between a Makita and Ryobi Battery Powered Wet Saw](https://lifehacker.com/makita-ryobi-wet-saw-review-comparison-1850901408)
 - [Lifehacker] [This Is the Direction You Should Slice a Turkey Breast](https://lifehacker.com/the-one-thing-you-should-never-do-when-carving-your-tur-1848062524)
 - [Lifehacker] [The Best Pixel 8 Feature Is One You Won’t Find on Any Other Android](https://lifehacker.com/the-best-pixel-8-feature-is-one-you-won-t-find-on-any-o-1850902696)
