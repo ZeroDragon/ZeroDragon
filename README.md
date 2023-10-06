@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Locktober&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-l-1850905693)
+- [Lifehacker] [How to Freeze Apples so You Don’t Ruin Them for Later](https://lifehacker.com/how-to-freeze-apples-so-you-don-t-ruin-them-for-later-1850904637)
+- [Dev.to/JS] [The Overuse of Arrow Functions: A Cautionary Tale](https://dev.to/lebbe/the-overuse-of-arrow-functions-a-cautionary-tale-p92)
+- [Dev.to/JS] [Cross-Site Scripting &lpar;XSS&rpar; Attacks in Node.js: Understanding, Preventing, and Mitigating Risks](https://dev.to/saint_vandora/cross-site-scripting-xss-attacks-in-nodejs-understanding-preventing-and-mitigating-risks-4b2p)
+- [Dev.to/JS] [🙈 Beginner&#39;s Guide to React Query](https://dev.to/refine/beginners-guide-to-react-query-1o27)
 - [Lifehacker] [All the Yard and Garden Tasks You Should Do in October](https://lifehacker.com/all-the-yard-and-garden-tasks-you-should-do-in-october-1850901896)
 - [Dev.to/JS] [Use AI to create great product descriptions with this free plugin](https://dev.to/medusajs/use-ai-to-create-great-product-descriptions-with-this-free-plugin-1jph)
 - [Dev.to/JS] [Monorepos: Making Development Easier and Smoother](https://dev.to/furqanramzan/monorepos-making-development-easier-and-smoother-3kl8)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [【徵才】REMOTE远程: Web3/ AI/ Blochain/QA-测试/IOS/Android/JAVA/前端开发](https://dev.to/hrzizi01/zheng-cai-remoteyuan-cheng-web3-ai-blochainqa-ce-shi-iosandroidjavaqian-duan-kai-fa-22c5)
 - [Dev.to/JS] [712-50 braindumps date get hold of unfastened updates](https://dev.to/bisma12345/712-50-braindumps-date-get-hold-of-unfastened-updates-2hjm)
 - [Dev.to/JS] [Tailwind CSS vs. Styled-Components for Styling in React JS](https://dev.to/jebbs/tailwind-css-vs-styled-components-for-styling-in-react-js-13ed)
-- [Dev.to/JS] [How did you switch from JavaScript to TypeScript?](https://dev.to/catherineisonline/how-did-you-switch-from-javascript-to-typescript-5gja)
-- [Dev.to/JS] [Azure Certification with AZ-900 Dumps](https://dev.to/az900dumps/azure-certification-with-az-900-dumps-4jd8)
-- [Dev.to/JS] [Liskov Substitution Principle in React](https://dev.to/mikhaelesa/liskov-substitution-principle-in-react-2p1n)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
 - [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)
 - [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Seeds You Should Be Saving Right Now for Next Year](https://lifehacker.com/all-the-seeds-you-should-be-saving-right-now-for-next-y-1850901886)
 - [Lifehacker] [The Best Smart-Home Tech Sales on Amazon Right Now](https://lifehacker.com/the-best-smart-home-tech-sales-on-amazon-right-now-1850901870)
 - [Lifehacker] [When You Need to Do &#39;Activation Exercises&#39; &lpar;and When You Don&#39;t&rpar;](https://lifehacker.com/when-you-need-to-do-activation-exercises-and-when-you-1850901058)
-- [Lifehacker] [You Can Get an Echo Show Right Now for Less Than $50](https://lifehacker.com/you-can-get-an-echo-show-right-now-for-less-than-50-1850901049)
-- [Lifehacker] [What People Are Getting Wrong This Week: The &#39;High&#39; Price of Gas](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-high-price-1850901691)
-- [Lifehacker] [Uber Will Now Return Your Online Orders for You](https://lifehacker.com/uber-will-now-return-your-online-orders-for-you-1850901068)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get an Echo Show Right Now for Less Than $50](https://lifehacker.com/you-can-get-an-echo-show-right-now-for-less-than-50-1850901049)<!-- TECH-POSTS:END -->
 
 ---
 
