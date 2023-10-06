@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Feature Flags in Action: 13 Real-World Scenarios](https://dev.to/basestack/feature-flags-in-action-13-real-world-scenarios-57k8)
+- [Dev.to/JS] [Who can overthrow the authority of React?](https://dev.to/artxe2/who-can-overthrow-the-authority-of-react-1om5)
+- [Lifehacker] [You Can Reserve an Invite for This 50&quot; 4K TV for $149](https://lifehacker.com/you-can-reserve-an-invite-for-this-50-4k-tv-for-149-1850904808)
+- [Dev.to/JS] [ExpressJS - Cookies and Using Express.js Middleware for Cookie Handling](https://dev.to/devgauravjatt/expressjs-cookies-and-using-expressjs-middleware-for-cookie-handling-3nnf)
+- [Lifehacker] [You Can Now Set Up Profiles in Safari](https://lifehacker.com/how-to-use-profiles-in-safari-1850906118)
 - [Dev.to/JS] [Pokémouille - A modern Pokédex &lpar;part 5&rpar;](https://dev.to/vaalley/pokemouille-a-modern-pokedex-part-5-bi9)
 - [Dev.to/JS] [Leveraging Environment Variables in React: A Safe &amp; Effective Guide](https://dev.to/shriharimurali/leveraging-environment-variables-in-react-a-safe-effective-guide-1p4j)
-- [Lifehacker] [Where to Watch the LSU Vs. Missouri Game](https://lifehacker.com/where-to-watch-the-lsu-vs-missouri-game-1850905184)
+- [Lifehacker] [Where to Stream the LSU Vs. Missouri Game](https://lifehacker.com/where-to-watch-the-lsu-vs-missouri-game-1850905184)
 - [Dev.to/JS] [Binary Tree](https://dev.to/captaincody187/binary-tree-36m4)
 - [Dev.to/JS] [Object.groupBy&lpar;&rpar;, la manera nativa de agrupar datos en JavaScript 👌](https://dev.to/duxtech/objectgroupby-la-manera-nativa-de-agrupar-datos-en-javascript-3l6)
 - [Lifehacker] [You Can Officially Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/iphone-15-pro-overheating-1850891798)
@@ -40,12 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These New Arc Al Features Will Change How You Browse the Internet](https://lifehacker.com/these-new-arc-al-features-will-change-how-you-browse-th-1850905895)
 - [Dev.to/JS] [Mastering the Symphony of React Components: A Deep Dive into the Component Lifecycle](https://dev.to/chintanonweb/mastering-the-symphony-of-react-components-a-deep-dive-into-the-component-lifecycle-4enl)
 - [Dev.to/JS] [Mastering Angular Services and Dependency Injection: A Comprehensive Guide with Examples&quot;](https://dev.to/chintanonweb/mastering-angular-services-and-dependency-injection-a-comprehensive-guide-with-examples-kbp)
-- [Dev.to/JS] [Javascript Deobfuscation](https://dev.to/dhanushnehru/javascript-deobfuscation-42ip)
 - [Lifehacker] [The Easiest Way to Ask Your Bank for a Higher Credit Limit](https://lifehacker.com/the-easiest-way-to-ask-your-bank-for-a-higher-credit-li-1850903120)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Locktober&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-l-1850905693)
 - [Lifehacker] [How to Freeze Apples so You Don’t Ruin Them for Later](https://lifehacker.com/how-to-freeze-apples-so-you-don-t-ruin-them-for-later-1850904637)
-- [Dev.to/JS] [The Overuse of Arrow Functions: A Cautionary Tale](https://dev.to/lebbe/the-overuse-of-arrow-functions-a-cautionary-tale-p92)
-- [Dev.to/JS] [Cross-Site Scripting &lpar;XSS&rpar; Attacks in Node.js: Understanding, Preventing, and Mitigating Risks](https://dev.to/saint_vandora/cross-site-scripting-xss-attacks-in-nodejs-understanding-preventing-and-mitigating-risks-4b2p)
 - [Lifehacker] [All the Yard and Garden Tasks You Should Do in October](https://lifehacker.com/all-the-yard-and-garden-tasks-you-should-do-in-october-1850901896)
 - [Lifehacker] [A Lifetime Subscription to Skoove Premium Piano Lessons Is $150 Right Now](https://lifehacker.com/a-lifetime-subscription-to-skoove-premium-piano-lessons-1850892168)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose Between a Makita and Ryobi Battery Powered Wet Saw](https://lifehacker.com/makita-ryobi-wet-saw-review-comparison-1850901408)
 - [Lifehacker] [This Is the Direction You Should Slice a Turkey Breast](https://lifehacker.com/the-one-thing-you-should-never-do-when-carving-your-tur-1848062524)
 - [Lifehacker] [The Best Pixel 8 Feature Is One You Won’t Find on Any Other Android](https://lifehacker.com/the-best-pixel-8-feature-is-one-you-won-t-find-on-any-o-1850902696)
-- [Lifehacker] [Follow This &#39;Mapping&#39; Strategy on Big Cleaning Days](https://lifehacker.com/follow-this-mapping-strategy-on-big-cleaning-days-1850902546)
-- [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime ‘Big Deal Days’ Sales](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)
-- [Lifehacker] [Here&#39;s What Would Happen If You Didn&#39;t Heat Your House All Winter](https://lifehacker.com/heres-what-would-happen-if-you-didnt-heat-your-house-al-1850902659)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Follow This &#39;Mapping&#39; Strategy on Big Cleaning Days](https://lifehacker.com/follow-this-mapping-strategy-on-big-cleaning-days-1850902546)<!-- TECH-POSTS:END -->
 
 ---
 
