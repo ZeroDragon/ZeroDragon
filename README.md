@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
+- [Dev.to/JS] [Best React.js Frontend Bootcamp 🧑‍💻](https://dev.to/idurar/best-reactjs-frontend-bootcamp-2oa7)
+- [Dev.to/JS] [jam - JSON Array Modifier](https://dev.to/dwbra/jam-json-array-modifier-i0j)
 - [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)
 - [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)
 - [Lifehacker] [You Can Get Windows 11 and Office Pro for $50 Right Now](https://lifehacker.com/you-can-get-windows-11-and-office-pro-for-50-right-now-1850892379)
@@ -57,15 +60,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Smart-Home Tech Sales on Amazon Right Now](https://lifehacker.com/the-best-smart-home-tech-sales-on-amazon-right-now-1850901870)
 - [Dev.to/JS] [Zen JavaScript?](https://dev.to/opensourcee/zen-javascript-5fjp)
 - [Dev.to/JS] [Boost Your Webpage Load Performance with the new Webpack plugin](https://dev.to/fogel/boost-your-webpage-load-performance-with-the-new-webpack-plugin-1kko)
-- [Dev.to/JS] [Trigger.dev update – September 2023](https://dev.to/triggerdotdev/triggerdev-update-september-2023-39oj)
 - [Lifehacker] [When You Need to Do &#39;Activation Exercises&#39; &lpar;and When You Don&#39;t&rpar;](https://lifehacker.com/when-you-need-to-do-activation-exercises-and-when-you-1850901058)
-- [Dev.to/JS] [Understanding Types in TypeScript](https://dev.to/bhavesh_yadav/understanding-types-in-typescript-3hm)
 - [Lifehacker] [You Can Get an Echo Show Right Now for Less Than $50](https://lifehacker.com/you-can-get-an-echo-show-right-now-for-less-than-50-1850901049)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;High&#39; Price of Gas](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-high-price-1850901691)
 - [Lifehacker] [Uber Will Now Return Your Online Orders for You](https://lifehacker.com/uber-will-now-return-your-online-orders-for-you-1850901068)
 - [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)
-- [Lifehacker] [Where to Watch the Alabama Vs. Texas A&amp;M Game](https://lifehacker.com/where-to-watch-the-alabama-vs-texas-a-m-game-1850901048)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)<!-- TECH-POSTS:END -->
 
 ---
 
