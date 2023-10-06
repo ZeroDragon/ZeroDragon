@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [We&#39;re open to Hacktoberfest](https://dev.to/opensourcee/were-open-to-hacktoberfest-59ep)
+- [Lifehacker] [The 23 Gayest Horror Movies Ever Made](https://lifehacker.com/the-23-gayest-horror-movies-ever-made-1850902784)
+- [Dev.to/JS] [Mastering React Forms: Building Dynamic and User-Friendly Interfaces](https://dev.to/chintanonweb/mastering-react-forms-building-dynamic-and-user-friendly-interfaces-14nf)
+- [Lifehacker] [These New Arc Al Features Will Change How You Browse the Internet](https://lifehacker.com/these-new-arc-al-features-will-change-how-you-browse-th-1850905895)
 - [Dev.to/JS] [Mastering the Symphony of React Components: A Deep Dive into the Component Lifecycle](https://dev.to/chintanonweb/mastering-the-symphony-of-react-components-a-deep-dive-into-the-component-lifecycle-4enl)
 - [Dev.to/JS] [Mastering Angular Services and Dependency Injection: A Comprehensive Guide with Examples&quot;](https://dev.to/chintanonweb/mastering-angular-services-and-dependency-injection-a-comprehensive-guide-with-examples-kbp)
 - [Dev.to/JS] [Javascript Deobfuscation](https://dev.to/dhanushnehru/javascript-deobfuscation-42ip)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Lifetime Subscription to Skoove Premium Piano Lessons Is $150 Right Now](https://lifehacker.com/a-lifetime-subscription-to-skoove-premium-piano-lessons-1850892168)
 - [Dev.to/JS] [Exploring Vite&#39;s Features and Advantages for React Developers](https://dev.to/oigoga/exploring-vites-features-and-advantages-for-react-developers-25h7)
 - [Dev.to/JS] [Moonly weekly progress update #65 - Karamendos WL Flow](https://dev.to/moonly/moonly-weekly-progress-update-65-karamendos-wl-flow-jfh)
-- [Dev.to/JS] [Mastering Async/Await: Ditching Traditional try-catch for the &#39;Result&#39; Pattern in Node.js](https://dev.to/rahulladumor/mastering-asyncawait-ditching-traditional-try-catch-for-the-result-pattern-in-nodejs-3fko)
-- [Dev.to/JS] [Mastering TypeScript&#39;s Type System: Advanced Features and Configuration](https://dev.to/bhavesh_yadav/mastering-typescripts-type-system-advanced-features-and-configuration-ei9)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
 - [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)
 - [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s What Would Happen If You Didn&#39;t Heat Your House All Winter](https://lifehacker.com/heres-what-would-happen-if-you-didnt-heat-your-house-al-1850902659)
 - [Lifehacker] [10 Clever Ways to Keep Cats From Shredding Your Curtains](https://lifehacker.com/10-clever-ways-to-keep-cats-from-shredding-your-curtain-1850901273)
 - [Lifehacker] [This CompTIA Cybersecurity Course Is $50 Right Now](https://lifehacker.com/this-comptia-cybersecurity-course-is-50-right-now-1850888636)
-- [Lifehacker] [All the Seeds You Should Be Saving Right Now for Next Year](https://lifehacker.com/all-the-seeds-you-should-be-saving-right-now-for-next-y-1850901886)
-- [Lifehacker] [The Best Smart-Home Tech Sales on Amazon Right Now](https://lifehacker.com/the-best-smart-home-tech-sales-on-amazon-right-now-1850901870)
-- [Lifehacker] [When You Need to Do &#39;Activation Exercises&#39; &lpar;and When You Don&#39;t&rpar;](https://lifehacker.com/when-you-need-to-do-activation-exercises-and-when-you-1850901058)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Seeds You Should Be Saving Right Now for Next Year](https://lifehacker.com/all-the-seeds-you-should-be-saving-right-now-for-next-y-1850901886)<!-- TECH-POSTS:END -->
 
 ---
 
