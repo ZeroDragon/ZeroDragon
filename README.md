@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Liskov Substitution Principle in React](https://dev.to/mikhaelesa/liskov-substitution-principle-in-react-2p1n)
 - [Dev.to/JS] [How to connect MongoDB to your Next.js application](https://dev.to/aedamjung/how-to-connect-mongodb-to-your-nextjs-application-44dn)
 - [Dev.to/JS] [How to Build an Image Search App With Pagination Using React](https://dev.to/myogeshchavan97/how-to-build-an-image-search-app-with-pagination-using-react-mg6)
 - [Dev.to/JS] [Why JavaScript Is Running the World](https://dev.to/pranta/why-javascript-is-running-the-world-55ao)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Girl Math’ Isn’t a Joke for Your Finances](https://lifehacker.com/girl-math-isn-t-a-joke-for-your-finances-1850902889)
 - [Dev.to/JS] [Need your help to decide which post should I write about next](https://dev.to/talorlanczyk/need-your-help-to-decide-which-post-should-i-write-about-next-577c)
 - [Lifehacker] [How to Choose Between a Makita and Ryobi Battery Powered Wet Saw](https://lifehacker.com/makita-ryobi-wet-saw-review-comparison-1850901408)
-- [Dev.to/JS] [How to build real-time data applications using Mongoose and WebSockets in Node.js](https://dev.to/akashakki/how-to-build-real-time-data-applications-using-mongoose-and-websockets-in-nodejs-16ol)
 - [Lifehacker] [This Is the Direction You Should Slice a Turkey Breast](https://lifehacker.com/the-one-thing-you-should-never-do-when-carving-your-tur-1848062524)
 - [Lifehacker] [The Best Pixel 8 Feature Is One You Won’t Find on Any Other Android](https://lifehacker.com/the-best-pixel-8-feature-is-one-you-won-t-find-on-any-o-1850902696)
 - [Lifehacker] [Follow This &#39;Mapping&#39; Strategy on Big Cleaning Days](https://lifehacker.com/follow-this-mapping-strategy-on-big-cleaning-days-1850902546)
