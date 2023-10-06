@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Yard and Garden Tasks You Should Do in October](https://lifehacker.com/all-the-yard-and-garden-tasks-you-should-do-in-october-1850901896)
+- [Dev.to/JS] [Use AI to create great product descriptions with this free plugin](https://dev.to/medusajs/use-ai-to-create-great-product-descriptions-with-this-free-plugin-1jph)
+- [Dev.to/JS] [Monorepos: Making Development Easier and Smoother](https://dev.to/furqanramzan/monorepos-making-development-easier-and-smoother-3kl8)
+- [Lifehacker] [A Lifetime Subscription to Skoove Premium Piano Lessons Is $150 Right Now](https://lifehacker.com/a-lifetime-subscription-to-skoove-premium-piano-lessons-1850892168)
+- [Dev.to/JS] [Exploring Vite&#39;s Features and Advantages for React Developers](https://dev.to/oigoga/exploring-vites-features-and-advantages-for-react-developers-25h7)
+- [Dev.to/JS] [Moonly weekly progress update #65 - Karamendos WL Flow](https://dev.to/moonly/moonly-weekly-progress-update-65-karamendos-wl-flow-jfh)
 - [Dev.to/JS] [Mastering Async/Await: Ditching Traditional try-catch for the &#39;Result&#39; Pattern in Node.js](https://dev.to/rahulladumor/mastering-asyncawait-ditching-traditional-try-catch-for-the-result-pattern-in-nodejs-3fko)
 - [Dev.to/JS] [Mastering TypeScript&#39;s Type System: Advanced Features and Configuration](https://dev.to/bhavesh_yadav/mastering-typescripts-type-system-advanced-features-and-configuration-ei9)
 - [Dev.to/JS] [【徵才】REMOTE远程: Web3/ AI/ Blochain/QA-测试/IOS/Android/JAVA/前端开发](https://dev.to/hrzizi01/zheng-cai-remoteyuan-cheng-web3-ai-blochainqa-ce-shi-iosandroidjavaqian-duan-kai-fa-22c5)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How did you switch from JavaScript to TypeScript?](https://dev.to/catherineisonline/how-did-you-switch-from-javascript-to-typescript-5gja)
 - [Dev.to/JS] [Azure Certification with AZ-900 Dumps](https://dev.to/az900dumps/azure-certification-with-az-900-dumps-4jd8)
 - [Dev.to/JS] [Liskov Substitution Principle in React](https://dev.to/mikhaelesa/liskov-substitution-principle-in-react-2p1n)
-- [Dev.to/JS] [How to connect MongoDB to your Next.js application](https://dev.to/aedamjung/how-to-connect-mongodb-to-your-nextjs-application-44dn)
-- [Dev.to/JS] [How to Build an Image Search App With Pagination Using React](https://dev.to/myogeshchavan97/how-to-build-an-image-search-app-with-pagination-using-react-mg6)
-- [Dev.to/JS] [Why JavaScript Is Running the World](https://dev.to/pranta/why-javascript-is-running-the-world-55ao)
-- [Dev.to/JS] [JavaScript - how to remove duplicate subArray?](https://dev.to/jose_89/javascript-how-to-remove-duplicate-subarray-pco)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
 - [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)
 - [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Need to Do &#39;Activation Exercises&#39; &lpar;and When You Don&#39;t&rpar;](https://lifehacker.com/when-you-need-to-do-activation-exercises-and-when-you-1850901058)
 - [Lifehacker] [You Can Get an Echo Show Right Now for Less Than $50](https://lifehacker.com/you-can-get-an-echo-show-right-now-for-less-than-50-1850901049)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;High&#39; Price of Gas](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-high-price-1850901691)
-- [Lifehacker] [Uber Will Now Return Your Online Orders for You](https://lifehacker.com/uber-will-now-return-your-online-orders-for-you-1850901068)
-- [Lifehacker] [TikTok Myth of the Week: ‘Bone Smashing’ Will Make You Beautiful](https://lifehacker.com/tiktok-myth-of-the-week-bone-smashing-will-make-you-1850897318)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 5, 2023](https://lifehacker.com/nyt-connections-answer-today-october-5-2023-1850898977)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Uber Will Now Return Your Online Orders for You](https://lifehacker.com/uber-will-now-return-your-online-orders-for-you-1850901068)<!-- TECH-POSTS:END -->
 
 ---
 
