@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript - how to remove duplicate subArray?](https://dev.to/jose_89/javascript-how-to-remove-duplicate-subarray-pco)
+- [Dev.to/JS] [HTML Canvas cheat sheet](https://dev.to/enshunt/html-canvas-cheat-sheet-48pg)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
 - [Dev.to/JS] [Best React.js Frontend Bootcamp 🧑‍💻](https://dev.to/idurar/best-reactjs-frontend-bootcamp-2oa7)
 - [Dev.to/JS] [jam - JSON Array Modifier](https://dev.to/dwbra/jam-json-array-modifier-i0j)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Seeds You Should Be Saving Right Now for Next Year](https://lifehacker.com/all-the-seeds-you-should-be-saving-right-now-for-next-y-1850901886)
 - [Dev.to/JS] [Sending emails in NodeJs with NodeMailer: The Comprehensive Guide](https://dev.to/alakkadshaw/sending-emails-in-nodejs-with-nodemailer-the-comprehensive-guide-5429)
 - [Lifehacker] [The Best Smart-Home Tech Sales on Amazon Right Now](https://lifehacker.com/the-best-smart-home-tech-sales-on-amazon-right-now-1850901870)
-- [Dev.to/JS] [Zen JavaScript?](https://dev.to/opensourcee/zen-javascript-5fjp)
-- [Dev.to/JS] [Boost Your Webpage Load Performance with the new Webpack plugin](https://dev.to/fogel/boost-your-webpage-load-performance-with-the-new-webpack-plugin-1kko)
 - [Lifehacker] [When You Need to Do &#39;Activation Exercises&#39; &lpar;and When You Don&#39;t&rpar;](https://lifehacker.com/when-you-need-to-do-activation-exercises-and-when-you-1850901058)
 - [Lifehacker] [You Can Get an Echo Show Right Now for Less Than $50](https://lifehacker.com/you-can-get-an-echo-show-right-now-for-less-than-50-1850901049)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;High&#39; Price of Gas](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-high-price-1850901691)
