@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Benefits of TypeScript](https://dev.to/chuksjohnleo/benefits-of-typescript-1oob)
+- [Dev.to/JS] [Better way to make disabled variants of the components](https://dev.to/sahilgarg/better-way-to-make-disabled-variants-of-the-components-1bh6)
+- [Lifehacker] [Here’s Everything You Have to Look Forward to in Android 14](https://lifehacker.com/android-14-best-new-features-1850907386)
+- [Lifehacker] [This Tech Brand Will Get the Biggest Discounts During Prime Big Deal Days](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
+- [Dev.to/JS] [Environment Variables in Environment Variables in NodeJs: The complete Guide](https://dev.to/alakkadshaw/environment-variables-in-environment-variables-in-nodejs-the-complete-guide-em1)
+- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Replace Your Deadbolt With a Smart Lock](https://lifehacker.com/smart-lock-vs-traditional-deadbolt-1850907262)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-koofr-cloud-stor-1850892687)
 - [Dev.to/JS] [Microservices: Why You Need To Use npm Workspaces](https://dev.to/sumitbhanushali/microservices-why-you-need-to-use-npm-workspaces-3095)
 - [Lifehacker] [Where to Stream the Colorado Vs. Arizona State Game](https://lifehacker.com/where-to-stream-the-colorado-vs-arizona-state-game-1850907119)
@@ -41,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Binary Tree](https://dev.to/captaincody187/binary-tree-36m4)
 - [Dev.to/JS] [Object.groupBy&lpar;&rpar;, la manera nativa de agrupar datos en JavaScript 👌](https://dev.to/duxtech/objectgroupby-la-manera-nativa-de-agrupar-datos-en-javascript-3l6)
 - [Lifehacker] [You Can Officially Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/iphone-15-pro-overheating-1850891798)
-- [Dev.to/JS] [Better Way To Manage Your Node.js Secrets, Technically](https://dev.to/apoorvtomar/better-way-to-manage-your-nodejs-secrets-technically-1np8)
 - [Lifehacker] [You Can Get Five Years of AdGuard VPN for $40 Right Now](https://lifehacker.com/you-can-get-five-years-of-adguard-vpn-for-40-right-now-1850891907)
-- [Dev.to/JS] [We&#39;re open to Hacktoberfest](https://dev.to/opensourcee/were-open-to-hacktoberfest-59ep)
 - [Lifehacker] [The 23 Gayest Horror Movies Ever Made](https://lifehacker.com/the-23-gayest-horror-movies-ever-made-1850902784)
-- [Dev.to/JS] [Mastering React Forms: Building Dynamic and User-Friendly Interfaces](https://dev.to/chintanonweb/mastering-react-forms-building-dynamic-and-user-friendly-interfaces-14nf)
 - [Lifehacker] [These New Arc Al Features Will Change How You Browse the Internet](https://lifehacker.com/these-new-arc-al-features-will-change-how-you-browse-th-1850905895)
 - [Lifehacker] [The Easiest Way to Ask Your Bank for a Higher Credit Limit](https://lifehacker.com/the-easiest-way-to-ask-your-bank-for-a-higher-credit-li-1850903120)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Locktober&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-l-1850905693)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Filter Junk Out of Your Gmail Inbox](https://lifehacker.com/the-easiest-way-to-filter-junk-out-of-your-gmail-inbox-1850903652)
 - [Lifehacker] [These Are the Best Preorder Sales for the Google Pixel 8](https://lifehacker.com/these-are-the-best-preorder-sales-for-the-google-pixel-1850903463)
 - [Lifehacker] [Winterize Your Grill Now to Keep It From Rusting](https://lifehacker.com/how-to-winterize-gas-or-charcoal-grill-1850903347)
-- [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
-- [Lifehacker] [‘Girl Math’ Isn’t a Joke for Your Finances](https://lifehacker.com/girl-math-isn-t-a-joke-for-your-finances-1850902889)
-- [Lifehacker] [How to Choose Between a Makita and Ryobi Battery Powered Wet Saw](https://lifehacker.com/makita-ryobi-wet-saw-review-comparison-1850901408)
-- [Lifehacker] [This Is the Direction You Should Slice a Turkey Breast](https://lifehacker.com/the-one-thing-you-should-never-do-when-carving-your-tur-1848062524)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)<!-- TECH-POSTS:END -->
 
 ---
 
