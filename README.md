@@ -26,6 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Time-series IoT tracker using QuestDB, Node.js, and Grafana](https://dev.to/questdb/time-series-iot-tracker-using-questdb-nodejs-and-grafana-51ii)
+- [Dev.to/JS] [Endless slideshow with just framer-motion for animation](https://dev.to/seniorui/endless-slideshow-with-just-framer-motion-for-animation-1jpe)
+- [Dev.to/JS] [Never Worry About What to Do About Hi reliability capacitors Again With These Tips](https://dev.to/w46p38fb/never-worry-about-what-to-do-about-hi-reliability-capacitors-again-with-these-tips-2dlo)
+- [Dev.to/JS] [Developing Chrome extension using React](https://dev.to/sanujbansal/developing-chrome-extension-using-react-2ena)
+- [Lifehacker] [These Email Templates Make Inbox Management so Much Easier](https://lifehacker.com/these-email-templates-make-inbox-management-so-much-eas-1850907511)
+- [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
+- [Dev.to/JS] [How to Make a Website With Login and Register in HTML and CSS](https://dev.to/onlineittutstutorials/how-to-make-a-website-with-login-and-register-in-html-and-css-36o2)
+- [Dev.to/JS] [Prefix vs. Postfix in incrementation. Do you know the difference?](https://dev.to/jsowinska/prefix-vs-postfix-in-incrementation-do-you-know-the-difference-39i3)
+- [Dev.to/JS] [LAB - 4 Adding config file Feature to TILL tool](https://dev.to/sshah135/lab-4-adding-config-file-feature-to-till-tool-1jd4)
+- [Lifehacker] [You Can Get Flux 7 Earbuds on Sale for $23 Right Now](https://lifehacker.com/you-can-get-flux-7-earbuds-on-sale-for-23-right-now-1850899669)
 - [Dev.to/JS] [Benefits of TypeScript](https://dev.to/chuksjohnleo/benefits-of-typescript-1oob)
 - [Dev.to/JS] [Better way to make disabled variants of the components](https://dev.to/sahilgarg/better-way-to-make-disabled-variants-of-the-components-1bh6)
 - [Lifehacker] [Here’s Everything You Have to Look Forward to in Android 14](https://lifehacker.com/android-14-best-new-features-1850907386)
@@ -35,17 +45,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime Subscription to Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-koofr-cloud-stor-1850892687)
 - [Dev.to/JS] [Microservices: Why You Need To Use npm Workspaces](https://dev.to/sumitbhanushali/microservices-why-you-need-to-use-npm-workspaces-3095)
 - [Lifehacker] [Where to Stream the Colorado Vs. Arizona State Game](https://lifehacker.com/where-to-stream-the-colorado-vs-arizona-state-game-1850907119)
-- [Dev.to/JS] [Look how global our community is!](https://dev.to/opensourcee/look-how-global-the-dev-community-is-2j39)
-- [Dev.to/JS] [Feature Flags in Action: 13 Real-World Scenarios](https://dev.to/basestack/feature-flags-in-action-13-real-world-scenarios-57k8)
-- [Dev.to/JS] [Who can overthrow the authority of React?](https://dev.to/artxe2/who-can-overthrow-the-authority-of-react-1om5)
+- [Dev.to/JS] [24 countries in 3 weeks!](https://dev.to/opensourcee/look-how-global-the-dev-community-is-2j39)
 - [Lifehacker] [You Can Reserve an Invite for This 50&quot; 4K TV for $149](https://lifehacker.com/you-can-reserve-an-invite-for-this-50-4k-tv-for-149-1850904808)
-- [Dev.to/JS] [ExpressJS - Cookies and Using Express.js Middleware for Cookie Handling](https://dev.to/devgauravjatt/expressjs-cookies-and-using-expressjs-middleware-for-cookie-handling-3nnf)
 - [Lifehacker] [You Can Now Set Up Profiles in Safari](https://lifehacker.com/how-to-use-profiles-in-safari-1850906118)
-- [Dev.to/JS] [Pokémouille - A modern Pokédex &lpar;part 5&rpar;](https://dev.to/vaalley/pokemouille-a-modern-pokedex-part-5-bi9)
-- [Dev.to/JS] [Leveraging Environment Variables in React: A Safe &amp; Effective Guide](https://dev.to/shriharimurali/leveraging-environment-variables-in-react-a-safe-effective-guide-1p4j)
 - [Lifehacker] [Where to Stream the LSU Vs. Missouri Game](https://lifehacker.com/where-to-watch-the-lsu-vs-missouri-game-1850905184)
-- [Dev.to/JS] [Binary Tree](https://dev.to/captaincody187/binary-tree-36m4)
-- [Dev.to/JS] [Object.groupBy&lpar;&rpar;, la manera nativa de agrupar datos en JavaScript 👌](https://dev.to/duxtech/objectgroupby-la-manera-nativa-de-agrupar-datos-en-javascript-3l6)
 - [Lifehacker] [You Can Officially Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/iphone-15-pro-overheating-1850891798)
 - [Lifehacker] [You Can Get Five Years of AdGuard VPN for $40 Right Now](https://lifehacker.com/you-can-get-five-years-of-adguard-vpn-for-40-right-now-1850891907)
 - [Lifehacker] [The 23 Gayest Horror Movies Ever Made](https://lifehacker.com/the-23-gayest-horror-movies-ever-made-1850902784)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream the Oklahoma Vs. Texas Game](https://lifehacker.com/where-to-stream-the-oklahoma-vs-texas-game-1850904332)
 - [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Cancel Automatically After Prime Big Deal Days](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)
 - [Lifehacker] [Use the Boxing Method to Take Better Digital Notes](https://lifehacker.com/use-the-boxing-method-for-digital-note-taking-1850904099)
-- [Lifehacker] [The Easiest Way to Filter Junk Out of Your Gmail Inbox](https://lifehacker.com/the-easiest-way-to-filter-junk-out-of-your-gmail-inbox-1850903652)
-- [Lifehacker] [These Are the Best Preorder Sales for the Google Pixel 8](https://lifehacker.com/these-are-the-best-preorder-sales-for-the-google-pixel-1850903463)
-- [Lifehacker] [Winterize Your Grill Now to Keep It From Rusting](https://lifehacker.com/how-to-winterize-gas-or-charcoal-grill-1850903347)
-- [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Filter Junk Out of Your Gmail Inbox](https://lifehacker.com/the-easiest-way-to-filter-junk-out-of-your-gmail-inbox-1850903652)<!-- TECH-POSTS:END -->
 
 ---
 
