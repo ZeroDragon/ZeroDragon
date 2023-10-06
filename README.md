@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to connect MongoDB to your Next.js application](https://dev.to/aedamjung/how-to-connect-mongodb-to-your-nextjs-application-44dn)
+- [Dev.to/JS] [How to Build an Image Search App With Pagination Using React](https://dev.to/myogeshchavan97/how-to-build-an-image-search-app-with-pagination-using-react-mg6)
 - [Dev.to/JS] [Why JavaScript Is Running the World](https://dev.to/pranta/why-javascript-is-running-the-world-55ao)
 - [Dev.to/JS] [JavaScript - how to remove duplicate subArray?](https://dev.to/jose_89/javascript-how-to-remove-duplicate-subarray-pco)
 - [Dev.to/JS] [HTML Canvas cheat sheet](https://dev.to/enshunt/html-canvas-cheat-sheet-48pg)
@@ -49,14 +51,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Need your help to decide which post should I write about next](https://dev.to/talorlanczyk/need-your-help-to-decide-which-post-should-i-write-about-next-577c)
 - [Lifehacker] [How to Choose Between a Makita and Ryobi Battery Powered Wet Saw](https://lifehacker.com/makita-ryobi-wet-saw-review-comparison-1850901408)
 - [Dev.to/JS] [How to build real-time data applications using Mongoose and WebSockets in Node.js](https://dev.to/akashakki/how-to-build-real-time-data-applications-using-mongoose-and-websockets-in-nodejs-16ol)
-- [Dev.to/JS] [Using a tagged template to simplify regular expressions](https://dev.to/tracygjg/using-a-tagged-template-to-simplify-regular-expressions-da2)
 - [Lifehacker] [This Is the Direction You Should Slice a Turkey Breast](https://lifehacker.com/the-one-thing-you-should-never-do-when-carving-your-tur-1848062524)
 - [Lifehacker] [The Best Pixel 8 Feature Is One You Won’t Find on Any Other Android](https://lifehacker.com/the-best-pixel-8-feature-is-one-you-won-t-find-on-any-o-1850902696)
 - [Lifehacker] [Follow This &#39;Mapping&#39; Strategy on Big Cleaning Days](https://lifehacker.com/follow-this-mapping-strategy-on-big-cleaning-days-1850902546)
 - [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime ‘Big Deal Days’ Sales](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)
 - [Lifehacker] [Here&#39;s What Would Happen If You Didn&#39;t Heat Your House All Winter](https://lifehacker.com/heres-what-would-happen-if-you-didnt-heat-your-house-al-1850902659)
 - [Lifehacker] [10 Clever Ways to Keep Cats From Shredding Your Curtains](https://lifehacker.com/10-clever-ways-to-keep-cats-from-shredding-your-curtain-1850901273)
-- [Dev.to/JS] [Simplifying Code Organization with Sorted Imports in React Applications](https://dev.to/itsgsashish/simplifying-code-organization-with-sorted-imports-in-react-applications-3cpk)
 - [Lifehacker] [This CompTIA Cybersecurity Course Is $50 Right Now](https://lifehacker.com/this-comptia-cybersecurity-course-is-50-right-now-1850888636)
 - [Lifehacker] [All the Seeds You Should Be Saving Right Now for Next Year](https://lifehacker.com/all-the-seeds-you-should-be-saving-right-now-for-next-y-1850901886)
 - [Lifehacker] [The Best Smart-Home Tech Sales on Amazon Right Now](https://lifehacker.com/the-best-smart-home-tech-sales-on-amazon-right-now-1850901870)
