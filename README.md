@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactJs vs React Native: Resumen, diferencias clave, ventajas y desventajas](https://dev.to/ccaracach/reactjs-vs-react-native-resumen-diferencias-clave-ventajas-y-desventajas-1jmh)
+- [Lifehacker] [You Can Throw Away Your COVID Vaccine Card Now](https://lifehacker.com/you-can-throw-away-your-covid-vaccine-card-now-1850907656)
+- [Dev.to/JS] [Getting Started with Drizzle ORM: A Beginner&#39;s Guide](https://dev.to/franciscomendes10866/getting-started-with-drizzle-orm-a-beginners-tutorial-4782)
+- [Lifehacker] [Meredith&#39;s Training Diary: My Favorite Way to Fuel for a Marathon](https://lifehacker.com/what-to-eat-before-and-during-a-marathon-1850907648)
 - [Dev.to/JS] [Time-series IoT tracker using QuestDB, Node.js, and Grafana](https://dev.to/questdb/time-series-iot-tracker-using-questdb-nodejs-and-grafana-51ii)
 - [Dev.to/JS] [Endless slideshow with just framer-motion for animation](https://dev.to/seniorui/endless-slideshow-with-just-framer-motion-for-animation-1jpe)
 - [Dev.to/JS] [Never Worry About What to Do About Hi reliability capacitors Again With These Tips](https://dev.to/w46p38fb/never-worry-about-what-to-do-about-hi-reliability-capacitors-again-with-these-tips-2dlo)
@@ -43,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Environment Variables in Environment Variables in NodeJs: The complete Guide](https://dev.to/alakkadshaw/environment-variables-in-environment-variables-in-nodejs-the-complete-guide-em1)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Replace Your Deadbolt With a Smart Lock](https://lifehacker.com/smart-lock-vs-traditional-deadbolt-1850907262)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-koofr-cloud-stor-1850892687)
-- [Dev.to/JS] [Microservices: Why You Need To Use npm Workspaces](https://dev.to/sumitbhanushali/microservices-why-you-need-to-use-npm-workspaces-3095)
 - [Lifehacker] [Where to Stream the Colorado Vs. Arizona State Game](https://lifehacker.com/where-to-stream-the-colorado-vs-arizona-state-game-1850907119)
-- [Dev.to/JS] [24 countries in 3 weeks!](https://dev.to/opensourcee/look-how-global-the-dev-community-is-2j39)
 - [Lifehacker] [You Can Reserve an Invite for This 50&quot; 4K TV for $149](https://lifehacker.com/you-can-reserve-an-invite-for-this-50-4k-tv-for-149-1850904808)
 - [Lifehacker] [You Can Now Set Up Profiles in Safari](https://lifehacker.com/how-to-use-profiles-in-safari-1850906118)
 - [Lifehacker] [Where to Stream the LSU Vs. Missouri Game](https://lifehacker.com/where-to-watch-the-lsu-vs-missouri-game-1850905184)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)
 - [Lifehacker] [You Can Get Windows 11 and Office Pro for $50 Right Now](https://lifehacker.com/you-can-get-windows-11-and-office-pro-for-50-right-now-1850892379)
 - [Lifehacker] [Where to Stream the Oklahoma Vs. Texas Game](https://lifehacker.com/where-to-stream-the-oklahoma-vs-texas-game-1850904332)
-- [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Cancel Automatically After Prime Big Deal Days](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)
-- [Lifehacker] [Use the Boxing Method to Take Better Digital Notes](https://lifehacker.com/use-the-boxing-method-for-digital-note-taking-1850904099)
-- [Lifehacker] [The Easiest Way to Filter Junk Out of Your Gmail Inbox](https://lifehacker.com/the-easiest-way-to-filter-junk-out-of-your-gmail-inbox-1850903652)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Cancel Automatically After Prime Big Deal Days](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)<!-- TECH-POSTS:END -->
 
 ---
 
