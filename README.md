@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The modern way of checking radio groups](https://dev.to/latz/the-modern-way-of-checking-radio-groups-9j9)
+- [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
+- [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
 - [Dev.to/JS] [ReactJs vs React Native: Resumen, diferencias clave, ventajas y desventajas](https://dev.to/ccaracach/reactjs-vs-react-native-resumen-diferencias-clave-ventajas-y-desventajas-1jmh)
 - [Lifehacker] [You Can Throw Away Your COVID Vaccine Card Now](https://lifehacker.com/you-can-throw-away-your-covid-vaccine-card-now-1850907656)
 - [Dev.to/JS] [Getting Started with Drizzle ORM: A Beginner&#39;s Guide](https://dev.to/franciscomendes10866/getting-started-with-drizzle-orm-a-beginners-tutorial-4782)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Better way to make disabled variants of the components](https://dev.to/sahilgarg/better-way-to-make-disabled-variants-of-the-components-1bh6)
 - [Lifehacker] [Here’s Everything You Have to Look Forward to in Android 14](https://lifehacker.com/android-14-best-new-features-1850907386)
 - [Lifehacker] [This Tech Brand Will Get the Biggest Discounts During Prime Big Deal Days](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
-- [Dev.to/JS] [Environment Variables in Environment Variables in NodeJs: The complete Guide](https://dev.to/alakkadshaw/environment-variables-in-environment-variables-in-nodejs-the-complete-guide-em1)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Replace Your Deadbolt With a Smart Lock](https://lifehacker.com/smart-lock-vs-traditional-deadbolt-1850907262)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-koofr-cloud-stor-1850892687)
 - [Lifehacker] [Where to Stream the Colorado Vs. Arizona State Game](https://lifehacker.com/where-to-stream-the-colorado-vs-arizona-state-game-1850907119)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
 - [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)
 - [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)
-- [Lifehacker] [You Can Get Windows 11 and Office Pro for $50 Right Now](https://lifehacker.com/you-can-get-windows-11-and-office-pro-for-50-right-now-1850892379)
-- [Lifehacker] [Where to Stream the Oklahoma Vs. Texas Game](https://lifehacker.com/where-to-stream-the-oklahoma-vs-texas-game-1850904332)
-- [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Cancel Automatically After Prime Big Deal Days](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Windows 11 and Office Pro for $50 Right Now](https://lifehacker.com/you-can-get-windows-11-and-office-pro-for-50-right-now-1850892379)<!-- TECH-POSTS:END -->
 
 ---
 
