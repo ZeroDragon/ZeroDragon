@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [【徵才】REMOTE远程: Web3/ AI/ Blochain/QA-测试/IOS/Android/JAVA/前端开发](https://dev.to/hrzizi01/zheng-cai-remoteyuan-cheng-web3-ai-blochainqa-ce-shi-iosandroidjavaqian-duan-kai-fa-22c5)
+- [Dev.to/JS] [712-50 braindumps date get hold of unfastened updates](https://dev.to/bisma12345/712-50-braindumps-date-get-hold-of-unfastened-updates-2hjm)
 - [Dev.to/JS] [Tailwind CSS vs. Styled-Components for Styling in React JS](https://dev.to/jebbs/tailwind-css-vs-styled-components-for-styling-in-react-js-13ed)
 - [Dev.to/JS] [How did you switch from JavaScript to TypeScript?](https://dev.to/catherineisonline/how-did-you-switch-from-javascript-to-typescript-5gja)
 - [Dev.to/JS] [Azure Certification with AZ-900 Dumps](https://dev.to/az900dumps/azure-certification-with-az-900-dumps-4jd8)
@@ -37,10 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML Canvas cheat sheet](https://dev.to/enshunt/html-canvas-cheat-sheet-48pg)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
 - [Dev.to/JS] [Best React.js Frontend Bootcamp 🧑‍💻](https://dev.to/idurar/best-reactjs-frontend-bootcamp-2oa7)
-- [Dev.to/JS] [jam - JSON Array Modifier](https://dev.to/dwbra/jam-json-array-modifier-i0j)
 - [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)
 - [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)
-- [Dev.to/JS] [Quick Read of All npm Commands.](https://dev.to/power_coder/quick-read-of-all-npm-commands-3ipd)
 - [Lifehacker] [You Can Get Windows 11 and Office Pro for $50 Right Now](https://lifehacker.com/you-can-get-windows-11-and-office-pro-for-50-right-now-1850892379)
 - [Lifehacker] [Where to Stream the Oklahoma Vs. Texas Game](https://lifehacker.com/where-to-stream-the-oklahoma-vs-texas-game-1850904332)
 - [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Cancel Automatically After Prime Big Deal Days](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)
