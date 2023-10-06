@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Lifetime Subscription to Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-koofr-cloud-stor-1850892687)
+- [Dev.to/JS] [Microservices: Why You Need To Use npm Workspaces](https://dev.to/sumitbhanushali/microservices-why-you-need-to-use-npm-workspaces-3095)
+- [Lifehacker] [Where to Stream the Colorado Vs. Arizona State Game](https://lifehacker.com/where-to-stream-the-colorado-vs-arizona-state-game-1850907119)
+- [Dev.to/JS] [Look how global our community is!](https://dev.to/opensourcee/look-how-global-the-dev-community-is-2j39)
 - [Dev.to/JS] [Feature Flags in Action: 13 Real-World Scenarios](https://dev.to/basestack/feature-flags-in-action-13-real-world-scenarios-57k8)
 - [Dev.to/JS] [Who can overthrow the authority of React?](https://dev.to/artxe2/who-can-overthrow-the-authority-of-react-1om5)
 - [Lifehacker] [You Can Reserve an Invite for This 50&quot; 4K TV for $149](https://lifehacker.com/you-can-reserve-an-invite-for-this-50-4k-tv-for-149-1850904808)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 23 Gayest Horror Movies Ever Made](https://lifehacker.com/the-23-gayest-horror-movies-ever-made-1850902784)
 - [Dev.to/JS] [Mastering React Forms: Building Dynamic and User-Friendly Interfaces](https://dev.to/chintanonweb/mastering-react-forms-building-dynamic-and-user-friendly-interfaces-14nf)
 - [Lifehacker] [These New Arc Al Features Will Change How You Browse the Internet](https://lifehacker.com/these-new-arc-al-features-will-change-how-you-browse-th-1850905895)
-- [Dev.to/JS] [Mastering the Symphony of React Components: A Deep Dive into the Component Lifecycle](https://dev.to/chintanonweb/mastering-the-symphony-of-react-components-a-deep-dive-into-the-component-lifecycle-4enl)
-- [Dev.to/JS] [Mastering Angular Services and Dependency Injection: A Comprehensive Guide with Examples&quot;](https://dev.to/chintanonweb/mastering-angular-services-and-dependency-injection-a-comprehensive-guide-with-examples-kbp)
 - [Lifehacker] [The Easiest Way to Ask Your Bank for a Higher Credit Limit](https://lifehacker.com/the-easiest-way-to-ask-your-bank-for-a-higher-credit-li-1850903120)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Locktober&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-l-1850905693)
 - [Lifehacker] [How to Freeze Apples so You Don’t Ruin Them for Later](https://lifehacker.com/how-to-freeze-apples-so-you-don-t-ruin-them-for-later-1850904637)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Lifehacker] [‘Girl Math’ Isn’t a Joke for Your Finances](https://lifehacker.com/girl-math-isn-t-a-joke-for-your-finances-1850902889)
 - [Lifehacker] [How to Choose Between a Makita and Ryobi Battery Powered Wet Saw](https://lifehacker.com/makita-ryobi-wet-saw-review-comparison-1850901408)
-- [Lifehacker] [This Is the Direction You Should Slice a Turkey Breast](https://lifehacker.com/the-one-thing-you-should-never-do-when-carving-your-tur-1848062524)
-- [Lifehacker] [The Best Pixel 8 Feature Is One You Won’t Find on Any Other Android](https://lifehacker.com/the-best-pixel-8-feature-is-one-you-won-t-find-on-any-o-1850902696)
-- [Lifehacker] [Follow This &#39;Mapping&#39; Strategy on Big Cleaning Days](https://lifehacker.com/follow-this-mapping-strategy-on-big-cleaning-days-1850902546)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Direction You Should Slice a Turkey Breast](https://lifehacker.com/the-one-thing-you-should-never-do-when-carving-your-tur-1848062524)<!-- TECH-POSTS:END -->
 
 ---
 
