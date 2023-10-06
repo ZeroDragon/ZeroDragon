@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering the Symphony of React Components: A Deep Dive into the Component Lifecycle](https://dev.to/chintanonweb/mastering-the-symphony-of-react-components-a-deep-dive-into-the-component-lifecycle-4enl)
+- [Dev.to/JS] [Mastering Angular Services and Dependency Injection: A Comprehensive Guide with Examples&quot;](https://dev.to/chintanonweb/mastering-angular-services-and-dependency-injection-a-comprehensive-guide-with-examples-kbp)
+- [Dev.to/JS] [Javascript Deobfuscation](https://dev.to/dhanushnehru/javascript-deobfuscation-42ip)
+- [Lifehacker] [The Easiest Way to Ask Your Bank for a Higher Credit Limit](https://lifehacker.com/the-easiest-way-to-ask-your-bank-for-a-higher-credit-li-1850903120)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Locktober&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-l-1850905693)
 - [Lifehacker] [How to Freeze Apples so You Don’t Ruin Them for Later](https://lifehacker.com/how-to-freeze-apples-so-you-don-t-ruin-them-for-later-1850904637)
 - [Dev.to/JS] [The Overuse of Arrow Functions: A Cautionary Tale](https://dev.to/lebbe/the-overuse-of-arrow-functions-a-cautionary-tale-p92)
@@ -39,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Moonly weekly progress update #65 - Karamendos WL Flow](https://dev.to/moonly/moonly-weekly-progress-update-65-karamendos-wl-flow-jfh)
 - [Dev.to/JS] [Mastering Async/Await: Ditching Traditional try-catch for the &#39;Result&#39; Pattern in Node.js](https://dev.to/rahulladumor/mastering-asyncawait-ditching-traditional-try-catch-for-the-result-pattern-in-nodejs-3fko)
 - [Dev.to/JS] [Mastering TypeScript&#39;s Type System: Advanced Features and Configuration](https://dev.to/bhavesh_yadav/mastering-typescripts-type-system-advanced-features-and-configuration-ei9)
-- [Dev.to/JS] [【徵才】REMOTE远程: Web3/ AI/ Blochain/QA-测试/IOS/Android/JAVA/前端开发](https://dev.to/hrzizi01/zheng-cai-remoteyuan-cheng-web3-ai-blochainqa-ce-shi-iosandroidjavaqian-duan-kai-fa-22c5)
-- [Dev.to/JS] [712-50 braindumps date get hold of unfastened updates](https://dev.to/bisma12345/712-50-braindumps-date-get-hold-of-unfastened-updates-2hjm)
-- [Dev.to/JS] [Tailwind CSS vs. Styled-Components for Styling in React JS](https://dev.to/jebbs/tailwind-css-vs-styled-components-for-styling-in-react-js-13ed)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
 - [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)
 - [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This CompTIA Cybersecurity Course Is $50 Right Now](https://lifehacker.com/this-comptia-cybersecurity-course-is-50-right-now-1850888636)
 - [Lifehacker] [All the Seeds You Should Be Saving Right Now for Next Year](https://lifehacker.com/all-the-seeds-you-should-be-saving-right-now-for-next-y-1850901886)
 - [Lifehacker] [The Best Smart-Home Tech Sales on Amazon Right Now](https://lifehacker.com/the-best-smart-home-tech-sales-on-amazon-right-now-1850901870)
-- [Lifehacker] [When You Need to Do &#39;Activation Exercises&#39; &lpar;and When You Don&#39;t&rpar;](https://lifehacker.com/when-you-need-to-do-activation-exercises-and-when-you-1850901058)
-- [Lifehacker] [You Can Get an Echo Show Right Now for Less Than $50](https://lifehacker.com/you-can-get-an-echo-show-right-now-for-less-than-50-1850901049)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When You Need to Do &#39;Activation Exercises&#39; &lpar;and When You Don&#39;t&rpar;](https://lifehacker.com/when-you-need-to-do-activation-exercises-and-when-you-1850901058)<!-- TECH-POSTS:END -->
 
 ---
 
