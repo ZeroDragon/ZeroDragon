@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pokémouille - A modern Pokédex &lpar;part 5&rpar;](https://dev.to/vaalley/pokemouille-a-modern-pokedex-part-5-bi9)
+- [Dev.to/JS] [Leveraging Environment Variables in React: A Safe &amp; Effective Guide](https://dev.to/shriharimurali/leveraging-environment-variables-in-react-a-safe-effective-guide-1p4j)
+- [Lifehacker] [Where to Watch the LSU Vs. Missouri Game](https://lifehacker.com/where-to-watch-the-lsu-vs-missouri-game-1850905184)
+- [Dev.to/JS] [Binary Tree](https://dev.to/captaincody187/binary-tree-36m4)
+- [Dev.to/JS] [Object.groupBy&lpar;&rpar;, la manera nativa de agrupar datos en JavaScript 👌](https://dev.to/duxtech/objectgroupby-la-manera-nativa-de-agrupar-datos-en-javascript-3l6)
+- [Lifehacker] [You Can Officially Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/iphone-15-pro-overheating-1850891798)
+- [Dev.to/JS] [Better Way To Manage Your Node.js Secrets, Technically](https://dev.to/apoorvtomar/better-way-to-manage-your-nodejs-secrets-technically-1np8)
+- [Lifehacker] [You Can Get Five Years of AdGuard VPN for $40 Right Now](https://lifehacker.com/you-can-get-five-years-of-adguard-vpn-for-40-right-now-1850891907)
 - [Dev.to/JS] [We&#39;re open to Hacktoberfest](https://dev.to/opensourcee/were-open-to-hacktoberfest-59ep)
 - [Lifehacker] [The 23 Gayest Horror Movies Ever Made](https://lifehacker.com/the-23-gayest-horror-movies-ever-made-1850902784)
 - [Dev.to/JS] [Mastering React Forms: Building Dynamic and User-Friendly Interfaces](https://dev.to/chintanonweb/mastering-react-forms-building-dynamic-and-user-friendly-interfaces-14nf)
@@ -38,13 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Freeze Apples so You Don’t Ruin Them for Later](https://lifehacker.com/how-to-freeze-apples-so-you-don-t-ruin-them-for-later-1850904637)
 - [Dev.to/JS] [The Overuse of Arrow Functions: A Cautionary Tale](https://dev.to/lebbe/the-overuse-of-arrow-functions-a-cautionary-tale-p92)
 - [Dev.to/JS] [Cross-Site Scripting &lpar;XSS&rpar; Attacks in Node.js: Understanding, Preventing, and Mitigating Risks](https://dev.to/saint_vandora/cross-site-scripting-xss-attacks-in-nodejs-understanding-preventing-and-mitigating-risks-4b2p)
-- [Dev.to/JS] [🙈 Beginner&#39;s Guide to React Query](https://dev.to/refine/beginners-guide-to-react-query-1o27)
 - [Lifehacker] [All the Yard and Garden Tasks You Should Do in October](https://lifehacker.com/all-the-yard-and-garden-tasks-you-should-do-in-october-1850901896)
-- [Dev.to/JS] [Use AI to create great product descriptions with this free plugin](https://dev.to/medusajs/use-ai-to-create-great-product-descriptions-with-this-free-plugin-1jph)
-- [Dev.to/JS] [Monorepos: Making Development Easier and Smoother](https://dev.to/furqanramzan/monorepos-making-development-easier-and-smoother-3kl8)
 - [Lifehacker] [A Lifetime Subscription to Skoove Premium Piano Lessons Is $150 Right Now](https://lifehacker.com/a-lifetime-subscription-to-skoove-premium-piano-lessons-1850892168)
-- [Dev.to/JS] [Exploring Vite&#39;s Features and Advantages for React Developers](https://dev.to/oigoga/exploring-vites-features-and-advantages-for-react-developers-25h7)
-- [Dev.to/JS] [Moonly weekly progress update #65 - Karamendos WL Flow](https://dev.to/moonly/moonly-weekly-progress-update-65-karamendos-wl-flow-jfh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
 - [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)
 - [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Pixel 8 Feature Is One You Won’t Find on Any Other Android](https://lifehacker.com/the-best-pixel-8-feature-is-one-you-won-t-find-on-any-o-1850902696)
 - [Lifehacker] [Follow This &#39;Mapping&#39; Strategy on Big Cleaning Days](https://lifehacker.com/follow-this-mapping-strategy-on-big-cleaning-days-1850902546)
 - [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime ‘Big Deal Days’ Sales](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)
-- [Lifehacker] [Here&#39;s What Would Happen If You Didn&#39;t Heat Your House All Winter](https://lifehacker.com/heres-what-would-happen-if-you-didnt-heat-your-house-al-1850902659)
-- [Lifehacker] [10 Clever Ways to Keep Cats From Shredding Your Curtains](https://lifehacker.com/10-clever-ways-to-keep-cats-from-shredding-your-curtain-1850901273)
-- [Lifehacker] [This CompTIA Cybersecurity Course Is $50 Right Now](https://lifehacker.com/this-comptia-cybersecurity-course-is-50-right-now-1850888636)
-- [Lifehacker] [All the Seeds You Should Be Saving Right Now for Next Year](https://lifehacker.com/all-the-seeds-you-should-be-saving-right-now-for-next-y-1850901886)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s What Would Happen If You Didn&#39;t Heat Your House All Winter](https://lifehacker.com/heres-what-would-happen-if-you-didnt-heat-your-house-al-1850902659)<!-- TECH-POSTS:END -->
 
 ---
 
