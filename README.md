@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring the Python Universe From Novice to Ninja](https://dev.to/saurabhdevops/exploring-the-python-universe-from-novice-to-ninja-3pln)
 - [Dev.to/JS] [Have you heard about all in one pack?](https://dev.to/da7483/have-you-heard-about-all-in-one-pack-3b2o)
 - [Dev.to/JS] [JavaScript Magic Tricks: Mutable Eval](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-mutable-eval-2496)
 - [Dev.to/JS] [Moving a Square with CSS Grid and Minimal JavaScript](https://dev.to/jcvb/moving-a-square-with-css-grid-and-minimal-javascript-2lal)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Email Templates Make Inbox Management so Much Easier](https://lifehacker.com/these-email-templates-make-inbox-management-so-much-eas-1850907511)
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
 - [Dev.to/JS] [How to Make a Website With Login and Register in HTML and CSS](https://dev.to/onlineittutstutorials/how-to-make-a-website-with-login-and-register-in-html-and-css-36o2)
-- [Dev.to/JS] [Prefix vs. Postfix in incrementation. Do you know the difference?](https://dev.to/jsowinska/prefix-vs-postfix-in-incrementation-do-you-know-the-difference-39i3)
 - [Lifehacker] [You Can Get Flux 7 Earbuds on Sale for $23 Right Now](https://lifehacker.com/you-can-get-flux-7-earbuds-on-sale-for-23-right-now-1850899669)
 - [Lifehacker] [Here’s Everything You Have to Look Forward to in Android 14](https://lifehacker.com/android-14-best-new-features-1850907386)
 - [Lifehacker] [This Tech Brand Will Get the Biggest Discounts During Prime Big Deal Days](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
