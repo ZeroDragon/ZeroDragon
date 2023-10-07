@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Veracity Accounting in Canada: Navigating Financial Clarity](https://dev.to/seorank/veracity-accounting-in-canada-navigating-financial-clarity-4ojg)
+- [Dev.to/JS] [Concrete Estimator Canada and USA: Calculating Costs with Precision](https://dev.to/seorank/concrete-estimator-canada-and-usa-calculating-costs-with-precision-10e)
+- [Dev.to/JS] [Turning my codepen into an actual app - Brick 1100](https://dev.to/khangnd/turning-my-codepen-into-an-actual-app-brick-1100-on3)
+- [Dev.to/JS] [Connect With Customers From Email List on LinkedIn With Automation](https://dev.to/rodionchachura/connect-with-customers-from-email-list-on-linkedin-with-automation-44a9)
+- [Dev.to/JS] [Microtask Queue + RxJS + Angular](https://dev.to/this-is-angular/microtask-queue-rxjs-angular-38ah)
 - [Dev.to/JS] [Exploring the Python Universe From Novice to Ninja](https://dev.to/saurabhdevops/exploring-the-python-universe-from-novice-to-ninja-3pln)
 - [Dev.to/JS] [Have you heard about all in one pack?](https://dev.to/da7483/have-you-heard-about-all-in-one-pack-3b2o)
 - [Dev.to/JS] [JavaScript Magic Tricks: Mutable Eval](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-mutable-eval-2496)
@@ -38,13 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Throw Away Your COVID Vaccine Card Now](https://lifehacker.com/you-can-throw-away-your-covid-vaccine-card-now-1850907656)
 - [Dev.to/JS] [Getting Started with Drizzle ORM: A Beginner&#39;s Guide](https://dev.to/franciscomendes10866/getting-started-with-drizzle-orm-a-beginners-tutorial-4782)
 - [Lifehacker] [Meredith&#39;s Training Diary: My Favorite Way to Fuel for a Marathon](https://lifehacker.com/what-to-eat-before-and-during-a-marathon-1850907648)
-- [Dev.to/JS] [Time-series IoT tracker using QuestDB, Node.js, and Grafana](https://dev.to/questdb/time-series-iot-tracker-using-questdb-nodejs-and-grafana-51ii)
-- [Dev.to/JS] [Endless slideshow with just framer-motion for animation](https://dev.to/seniorui/endless-slideshow-with-just-framer-motion-for-animation-1jpe)
-- [Dev.to/JS] [Never Worry About What to Do About Hi reliability capacitors Again With These Tips](https://dev.to/w46p38fb/never-worry-about-what-to-do-about-hi-reliability-capacitors-again-with-these-tips-2dlo)
-- [Dev.to/JS] [Developing Chrome extension using React](https://dev.to/sanujbansal/developing-chrome-extension-using-react-2ena)
 - [Lifehacker] [These Email Templates Make Inbox Management so Much Easier](https://lifehacker.com/these-email-templates-make-inbox-management-so-much-eas-1850907511)
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
-- [Dev.to/JS] [How to Make a Website With Login and Register in HTML and CSS](https://dev.to/onlineittutstutorials/how-to-make-a-website-with-login-and-register-in-html-and-css-36o2)
 - [Lifehacker] [You Can Get Flux 7 Earbuds on Sale for $23 Right Now](https://lifehacker.com/you-can-get-flux-7-earbuds-on-sale-for-23-right-now-1850899669)
 - [Lifehacker] [Here’s Everything You Have to Look Forward to in Android 14](https://lifehacker.com/android-14-best-new-features-1850907386)
 - [Lifehacker] [This Tech Brand Will Get the Biggest Discounts During Prime Big Deal Days](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
