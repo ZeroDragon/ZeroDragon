@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [After changing the usage of axios, my work efficiency increased by 3 times](https://dev.to/coderhu/after-changing-the-usage-of-axios-my-work-efficiency-increased-by-3-times-4lhd)
+- [Dev.to/JS] [Latest Newsletter: Walled Gardens and Reality Interfaces &lpar;Issue #135&rpar;](https://dev.to/mjgs/latest-newsletter-walled-gardens-and-reality-interfaces-issue-135-1pne)
+- [Dev.to/JS] [I need issues for my Repo 😐](https://dev.to/omicreative/i-need-issues-for-my-repo-2kga)
+- [Dev.to/JS] [The Ultimate Guide to Java Testing Frameworks: JUnit and TestNG](https://dev.to/piyachaudhry/the-ultimate-guide-to-java-testing-frameworks-junit-and-testng-4dpl)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/reviewsfundusa0/buy-google-voice-accounts-51ci)
 - [Dev.to/JS] [Veracity Accounting in Canada: Navigating Financial Clarity](https://dev.to/seorank/veracity-accounting-in-canada-navigating-financial-clarity-4ojg)
 - [Dev.to/JS] [Concrete Estimator Canada and USA: Calculating Costs with Precision](https://dev.to/seorank/concrete-estimator-canada-and-usa-calculating-costs-with-precision-10e)
 - [Dev.to/JS] [Turning my codepen into an actual app - Brick 1100](https://dev.to/khangnd/turning-my-codepen-into-an-actual-app-brick-1100-on3)
@@ -33,15 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Microtask Queue + RxJS + Angular](https://dev.to/this-is-angular/microtask-queue-rxjs-angular-38ah)
 - [Dev.to/JS] [Exploring the Python Universe From Novice to Ninja](https://dev.to/saurabhdevops/exploring-the-python-universe-from-novice-to-ninja-3pln)
 - [Dev.to/JS] [Have you heard about all in one pack?](https://dev.to/da7483/have-you-heard-about-all-in-one-pack-3b2o)
-- [Dev.to/JS] [JavaScript Magic Tricks: Mutable Eval](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-mutable-eval-2496)
-- [Dev.to/JS] [Moving a Square with CSS Grid and Minimal JavaScript](https://dev.to/jcvb/moving-a-square-with-css-grid-and-minimal-javascript-2lal)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
-- [Dev.to/JS] [The modern way of checking radio groups](https://dev.to/latz/the-modern-way-of-checking-radio-groups-9j9)
 - [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
 - [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
-- [Dev.to/JS] [ReactJs vs React Native: Resumen, diferencias clave, ventajas y desventajas](https://dev.to/ccaracach/reactjs-vs-react-native-resumen-diferencias-clave-ventajas-y-desventajas-1jmh)
 - [Lifehacker] [You Can Throw Away Your COVID Vaccine Card Now](https://lifehacker.com/you-can-throw-away-your-covid-vaccine-card-now-1850907656)
-- [Dev.to/JS] [Getting Started with Drizzle ORM: A Beginner&#39;s Guide](https://dev.to/franciscomendes10866/getting-started-with-drizzle-orm-a-beginners-tutorial-4782)
 - [Lifehacker] [Meredith&#39;s Training Diary: My Favorite Way to Fuel for a Marathon](https://lifehacker.com/what-to-eat-before-and-during-a-marathon-1850907648)
 - [Lifehacker] [These Email Templates Make Inbox Management so Much Easier](https://lifehacker.com/these-email-templates-make-inbox-management-so-much-eas-1850907511)
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
