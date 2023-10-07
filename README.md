@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DOMPurify，增加網站對 XSS 攻擊的防護力](https://dev.to/letswrite/dompurifyzeng-jia-wang-zhan-dui-xss-gong-ji-de-fang-hu-li-22fd)
 - [Dev.to/JS] [After changing the usage of axios, my work efficiency increased by 3 times](https://dev.to/coderhu/after-changing-the-usage-of-axios-my-work-efficiency-increased-by-3-times-4lhd)
 - [Dev.to/JS] [Latest Newsletter: Walled Gardens and Reality Interfaces &lpar;Issue #135&rpar;](https://dev.to/mjgs/latest-newsletter-walled-gardens-and-reality-interfaces-issue-135-1pne)
 - [Dev.to/JS] [I need issues for my Repo 😐](https://dev.to/omicreative/i-need-issues-for-my-repo-2kga)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Connect With Customers From Email List on LinkedIn With Automation](https://dev.to/rodionchachura/connect-with-customers-from-email-list-on-linkedin-with-automation-44a9)
 - [Dev.to/JS] [Microtask Queue + RxJS + Angular](https://dev.to/this-is-angular/microtask-queue-rxjs-angular-38ah)
 - [Dev.to/JS] [Exploring the Python Universe From Novice to Ninja](https://dev.to/saurabhdevops/exploring-the-python-universe-from-novice-to-ninja-3pln)
-- [Dev.to/JS] [Have you heard about all in one pack?](https://dev.to/da7483/have-you-heard-about-all-in-one-pack-3b2o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
 - [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
 - [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
