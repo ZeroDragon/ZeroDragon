@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Moving a Square with CSS Grid and Minimal JavaScript](https://dev.to/jcvb/moving-a-square-with-css-grid-and-minimal-javascript-2lal)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
 - [Dev.to/JS] [The modern way of checking radio groups](https://dev.to/latz/the-modern-way-of-checking-radio-groups-9j9)
 - [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
 - [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
@@ -44,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LAB - 4 Adding config file Feature to TILL tool](https://dev.to/sshah135/lab-4-adding-config-file-feature-to-till-tool-1jd4)
 - [Lifehacker] [You Can Get Flux 7 Earbuds on Sale for $23 Right Now](https://lifehacker.com/you-can-get-flux-7-earbuds-on-sale-for-23-right-now-1850899669)
 - [Dev.to/JS] [Benefits of TypeScript](https://dev.to/chuksjohnleo/benefits-of-typescript-1oob)
-- [Dev.to/JS] [Better way to make disabled variants of the components](https://dev.to/sahilgarg/better-way-to-make-disabled-variants-of-the-components-1bh6)
 - [Lifehacker] [Here’s Everything You Have to Look Forward to in Android 14](https://lifehacker.com/android-14-best-new-features-1850907386)
 - [Lifehacker] [This Tech Brand Will Get the Biggest Discounts During Prime Big Deal Days](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Replace Your Deadbolt With a Smart Lock](https://lifehacker.com/smart-lock-vs-traditional-deadbolt-1850907262)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Lifetime Subscription to Skoove Premium Piano Lessons Is $150 Right Now](https://lifehacker.com/a-lifetime-subscription-to-skoove-premium-piano-lessons-1850892168)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
 - [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)
-- [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)
-- [Lifehacker] [You Can Get Windows 11 and Office Pro for $50 Right Now](https://lifehacker.com/you-can-get-windows-11-and-office-pro-for-50-right-now-1850892379)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)<!-- TECH-POSTS:END -->
 
 ---
 
