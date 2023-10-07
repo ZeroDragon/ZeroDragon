@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Magic Tricks: Mutable Eval](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-mutable-eval-2496)
 - [Dev.to/JS] [Moving a Square with CSS Grid and Minimal JavaScript](https://dev.to/jcvb/moving-a-square-with-css-grid-and-minimal-javascript-2lal)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
 - [Dev.to/JS] [The modern way of checking radio groups](https://dev.to/latz/the-modern-way-of-checking-radio-groups-9j9)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prefix vs. Postfix in incrementation. Do you know the difference?](https://dev.to/jsowinska/prefix-vs-postfix-in-incrementation-do-you-know-the-difference-39i3)
 - [Dev.to/JS] [LAB - 4 Adding config file Feature to TILL tool](https://dev.to/sshah135/lab-4-adding-config-file-feature-to-till-tool-1jd4)
 - [Lifehacker] [You Can Get Flux 7 Earbuds on Sale for $23 Right Now](https://lifehacker.com/you-can-get-flux-7-earbuds-on-sale-for-23-right-now-1850899669)
-- [Dev.to/JS] [Benefits of TypeScript](https://dev.to/chuksjohnleo/benefits-of-typescript-1oob)
 - [Lifehacker] [Here’s Everything You Have to Look Forward to in Android 14](https://lifehacker.com/android-14-best-new-features-1850907386)
 - [Lifehacker] [This Tech Brand Will Get the Biggest Discounts During Prime Big Deal Days](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Replace Your Deadbolt With a Smart Lock](https://lifehacker.com/smart-lock-vs-traditional-deadbolt-1850907262)
