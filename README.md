@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [polkadot mushroom chocolate bar](https://dev.to/polkadotmushroom/polkadot-mushroom-chocolate-bar-4jjg)
+- [Dev.to/JS] [Learning ReactJS, Suggest Resources and Roadmap?](https://dev.to/codexharsh/learning-reactjs-suggest-resources-and-roadmap-3n96)
+- [Lifehacker] [When to Expect the First Frost in Your Area](https://lifehacker.com/when-to-expect-the-first-frost-in-your-area-1850903636)
 - [Dev.to/JS] [White labeling colors in embedded applications](https://dev.to/ranquild/white-labeling-colors-in-embedded-applications-5e92)
 - [Dev.to/JS] [How to Make CRUD app in JavaScript](https://dev.to/codewithsadee/how-to-make-crud-app-in-javascript-27je)
 - [Dev.to/JS] [Part 1.1 - Build a fullstack blogging website using MERN &lpar; MongoDB, ReactJS, ExpressJS and NodeJS &rpar;](https://dev.to/themodernweb/part-11-build-a-fullstack-blogging-website-using-mern-mongodb-reactjs-expressjs-and-nodejs--hdo)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Job scheduler App using Bree in Node Js](https://dev.to/manjunatha_nanjappa/job-scheduler-app-using-bree-in-node-js-5gge)
 - [Dev.to/JS] [Novice Guide to Securing API and Firebase Key In React Vite using dotenv&lpar;Environment Veriable&rpar;.](https://dev.to/shollytemmy/novice-guide-to-securing-api-and-firebase-key-in-react-vite-using-dotenvenvironment-veriable-2554)
 - [Dev.to/JS] [Demystifying the Decorator Design Pattern in TypeScript with Coffee Brewing](https://dev.to/vedantbhamare/demystifying-the-decorator-design-pattern-in-typescript-with-coffee-brewing-4gpj)
-- [Dev.to/JS] [furniture shop in odisha](https://dev.to/jayalwal_designs/furniture-shop-in-odisha-23mj)
-- [Dev.to/JS] [Weekly Dev Findings 8](https://dev.to/potykion/weekly-dev-findings-8-1hig)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
 - [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
 - [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Yard and Garden Tasks You Should Do in October](https://lifehacker.com/all-the-yard-and-garden-tasks-you-should-do-in-october-1850901896)
 - [Lifehacker] [A Lifetime Subscription to Skoove Premium Piano Lessons Is $150 Right Now](https://lifehacker.com/a-lifetime-subscription-to-skoove-premium-piano-lessons-1850892168)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
-- [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)
-- [Lifehacker] [Where to Stream the Virginia Tech Vs. Florida State Game](https://lifehacker.com/where-to-stream-the-virginia-tech-vs-florida-state-gam-1850904662)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)<!-- TECH-POSTS:END -->
 
 ---
 
