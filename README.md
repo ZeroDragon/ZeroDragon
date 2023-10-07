@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [White labeling colors in embedded applications](https://dev.to/ranquild/white-labeling-colors-in-embedded-applications-5e92)
+- [Dev.to/JS] [How to Make CRUD app in JavaScript](https://dev.to/codewithsadee/how-to-make-crud-app-in-javascript-27je)
+- [Dev.to/JS] [Part 1.1 - Build a fullstack blogging website using MERN &lpar; MongoDB, ReactJS, ExpressJS and NodeJS &rpar;](https://dev.to/themodernweb/part-11-build-a-fullstack-blogging-website-using-mern-mongodb-reactjs-expressjs-and-nodejs--hdo)
+- [Dev.to/JS] [Using Github Actions with Bun](https://dev.to/code42cate/using-github-actions-with-bun-g0o)
+- [Dev.to/JS] [Chronicles of the Unemployed, Week One After 12 Continuous Years of Employment](https://dev.to/luishcastroc/chronicles-of-the-unemployed-week-one-after-12-continuous-years-of-employment-1gpn)
 - [Dev.to/JS] [Frontend vs Backend vs Full Stack: Understanding the Differences](https://dev.to/ahanash46390872/frontend-vs-backend-vs-full-stack-understanding-the-differences-59cj)
 - [Dev.to/JS] [Render Props in React, Frontend System Design](https://dev.to/jeetvora331/render-props-in-react-frontend-system-design-3f3b)
 - [Dev.to/JS] [Job scheduler App using Bree in Node Js](https://dev.to/manjunatha_nanjappa/job-scheduler-app-using-bree-in-node-js-5gge)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying the Decorator Design Pattern in TypeScript with Coffee Brewing](https://dev.to/vedantbhamare/demystifying-the-decorator-design-pattern-in-typescript-with-coffee-brewing-4gpj)
 - [Dev.to/JS] [furniture shop in odisha](https://dev.to/jayalwal_designs/furniture-shop-in-odisha-23mj)
 - [Dev.to/JS] [Weekly Dev Findings 8](https://dev.to/potykion/weekly-dev-findings-8-1hig)
-- [Dev.to/JS] [DOMPurify，增加網站對 XSS 攻擊的防護力](https://dev.to/letswrite/dompurifyzeng-jia-wang-zhan-dui-xss-gong-ji-de-fang-hu-li-22fd)
-- [Dev.to/JS] [After changing the usage of axios, my work efficiency increased by 3 times](https://dev.to/coderhu/after-changing-the-usage-of-axios-my-work-efficiency-increased-by-3-times-4lhd)
-- [Dev.to/JS] [Latest Newsletter: Walled Gardens and Reality Interfaces &lpar;Issue #135&rpar;](https://dev.to/mjgs/latest-newsletter-walled-gardens-and-reality-interfaces-issue-135-1pne)
-- [Dev.to/JS] [I need issues for my Repo 😐](https://dev.to/omicreative/i-need-issues-for-my-repo-2kga)
-- [Dev.to/JS] [The Ultimate Guide to Java Testing Frameworks: JUnit and TestNG](https://dev.to/piyachaudhry/the-ultimate-guide-to-java-testing-frameworks-junit-and-testng-4dpl)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
 - [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
 - [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
