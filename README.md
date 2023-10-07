@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
+- [Dev.to/JS] [SOLID Principles Series: Mastering the Open-Closed Principle &lpar;OCP&rpar; in Node.js with TypeScript](https://dev.to/ruben_alapont/solid-principles-series-mastering-the-open-closed-principle-ocp-in-nodejs-with-typescript-2om9)
+- [Dev.to/JS] [Infinite scrolling using IntersectionObserver in React](https://dev.to/codeashdev/infinite-scrolling-using-intersectionobserver-in-react-7nf)
 - [Dev.to/JS] [polkadot mushroom chocolate bar](https://dev.to/polkadotmushroom/polkadot-mushroom-chocolate-bar-4jjg)
 - [Dev.to/JS] [Learning ReactJS, Suggest Resources and Roadmap?](https://dev.to/codexharsh/learning-reactjs-suggest-resources-and-roadmap-3n96)
 - [Lifehacker] [When to Expect the First Frost in Your Area](https://lifehacker.com/when-to-expect-the-first-frost-in-your-area-1850903636)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend vs Backend vs Full Stack: Understanding the Differences](https://dev.to/ahanash46390872/frontend-vs-backend-vs-full-stack-understanding-the-differences-59cj)
 - [Dev.to/JS] [Render Props in React, Frontend System Design](https://dev.to/jeetvora331/render-props-in-react-frontend-system-design-3f3b)
 - [Dev.to/JS] [Job scheduler App using Bree in Node Js](https://dev.to/manjunatha_nanjappa/job-scheduler-app-using-bree-in-node-js-5gge)
-- [Dev.to/JS] [Novice Guide to Securing API and Firebase Key In React Vite using dotenv&lpar;Environment Veriable&rpar;.](https://dev.to/shollytemmy/novice-guide-to-securing-api-and-firebase-key-in-react-vite-using-dotenvenvironment-veriable-2554)
-- [Dev.to/JS] [Demystifying the Decorator Design Pattern in TypeScript with Coffee Brewing](https://dev.to/vedantbhamare/demystifying-the-decorator-design-pattern-in-typescript-with-coffee-brewing-4gpj)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
 - [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
 - [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Freeze Apples so You Don’t Ruin Them for Later](https://lifehacker.com/how-to-freeze-apples-so-you-don-t-ruin-them-for-later-1850904637)
 - [Lifehacker] [All the Yard and Garden Tasks You Should Do in October](https://lifehacker.com/all-the-yard-and-garden-tasks-you-should-do-in-october-1850901896)
 - [Lifehacker] [A Lifetime Subscription to Skoove Premium Piano Lessons Is $150 Right Now](https://lifehacker.com/a-lifetime-subscription-to-skoove-premium-piano-lessons-1850892168)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)
-- [Lifehacker] [The Differences Between the Pixel 8 and Pixel 8 Pro](https://lifehacker.com/differences-between-the-pixel-8-and-pixel-8-pro-1850904755)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)<!-- TECH-POSTS:END -->
 
 ---
 
