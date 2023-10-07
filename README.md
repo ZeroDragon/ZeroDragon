@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chronicles of a Beginner&#39;s Journey into the World of Programming](https://dev.to/duke09/chronicles-of-a-beginners-journey-into-the-world-of-programming-5a2f)
+- [Dev.to/JS] [Final Fantasy Legend Level Editor Update](https://dev.to/jesterxl/final-fantasy-legend-level-editor-update-4c6j)
+- [Dev.to/JS] [Do this and stop wasting time creating React components](https://dev.to/joaofelipe/do-this-and-stop-wasting-time-creating-react-components-38lj)
+- [Dev.to/JS] [⚡️ FREE Llama 2 API: OpenAI-compatible API for Workers AI 🧠](https://dev.to/chand1012/openai-compatible-api-for-workers-ai-4mjh)
+- [Dev.to/JS] [Get Your Svelte On: 5 UI Libraries That Will Make Your App Look Super Cool](https://dev.to/uncle_ben/get-your-svelte-on-5-ui-libraries-that-will-make-your-app-look-super-cool-1853)
+- [Dev.to/JS] [React 18: The Features and The Future](https://dev.to/jebbs/react-18-the-features-and-the-future-nbm)
+- [Dev.to/JS] [String.charAt&lpar;&rpar; Method in JavaScript](https://dev.to/speaklouder/stringcharat-method-in-javascript-2jm3)
 - [Dev.to/JS] [JavaScript: The Runtime Environment🏃🏻🏃🏻🏃🏻](https://dev.to/rahmanmajeed/javascript-the-runtime-environment-35a2)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Dev.to/JS] [Tuto: Password Creation in Svelte](https://dev.to/barim/tuto-password-creation-in-svelte-1dnh)
@@ -33,14 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Joy of Debugging: Unraveling Mistakes in Knitting and Code](https://dev.to/catherineaross/the-joy-of-debugging-unraveling-mistakes-in-knitting-and-code-5e63)
 - [Dev.to/JS] [JavaScript - Functional Programming Concepts](https://dev.to/theramoliya/javascript-functional-programming-concepts-45l6)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
-- [Dev.to/JS] [SOLID Principles Series: Mastering the Open-Closed Principle &lpar;OCP&rpar; in Node.js with TypeScript](https://dev.to/ruben_alapont/solid-principles-series-mastering-the-open-closed-principle-ocp-in-nodejs-with-typescript-2om9)
-- [Dev.to/JS] [Infinite scrolling using IntersectionObserver in React](https://dev.to/codeashdev/infinite-scrolling-using-intersectionobserver-in-react-7nf)
-- [Dev.to/JS] [polkadot mushroom chocolate bar](https://dev.to/polkadotmushroom/polkadot-mushroom-chocolate-bar-4jjg)
-- [Dev.to/JS] [Learning ReactJS, Suggest Resources and Roadmap?](https://dev.to/codexharsh/learning-reactjs-suggest-resources-and-roadmap-3n96)
 - [Lifehacker] [When to Expect the First Frost in Your Area](https://lifehacker.com/when-to-expect-the-first-frost-in-your-area-1850903636)
-- [Dev.to/JS] [White labeling colors in embedded applications](https://dev.to/ranquild/white-labeling-colors-in-embedded-applications-5e92)
-- [Dev.to/JS] [How to Make CRUD app in JavaScript](https://dev.to/codewithsadee/how-to-make-crud-app-in-javascript-27je)
-- [Dev.to/JS] [Part 1.1 - Build a fullstack blogging website using MERN &lpar; MongoDB, ReactJS, ExpressJS and NodeJS &rpar;](https://dev.to/themodernweb/part-11-build-a-fullstack-blogging-website-using-mern-mongodb-reactjs-expressjs-and-nodejs--hdo)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
 - [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
 - [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
