@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Frontend vs Backend vs Full Stack: Understanding the Differences](https://dev.to/ahanash46390872/frontend-vs-backend-vs-full-stack-understanding-the-differences-59cj)
+- [Dev.to/JS] [Render Props in React, Frontend System Design](https://dev.to/jeetvora331/render-props-in-react-frontend-system-design-3f3b)
 - [Dev.to/JS] [Job scheduler App using Bree in Node Js](https://dev.to/manjunatha_nanjappa/job-scheduler-app-using-bree-in-node-js-5gge)
 - [Dev.to/JS] [Novice Guide to Securing API and Firebase Key In React Vite using dotenv&lpar;Environment Veriable&rpar;.](https://dev.to/shollytemmy/novice-guide-to-securing-api-and-firebase-key-in-react-vite-using-dotenvenvironment-veriable-2554)
 - [Dev.to/JS] [Demystifying the Decorator Design Pattern in TypeScript with Coffee Brewing](https://dev.to/vedantbhamare/demystifying-the-decorator-design-pattern-in-typescript-with-coffee-brewing-4gpj)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Latest Newsletter: Walled Gardens and Reality Interfaces &lpar;Issue #135&rpar;](https://dev.to/mjgs/latest-newsletter-walled-gardens-and-reality-interfaces-issue-135-1pne)
 - [Dev.to/JS] [I need issues for my Repo 😐](https://dev.to/omicreative/i-need-issues-for-my-repo-2kga)
 - [Dev.to/JS] [The Ultimate Guide to Java Testing Frameworks: JUnit and TestNG](https://dev.to/piyachaudhry/the-ultimate-guide-to-java-testing-frameworks-junit-and-testng-4dpl)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/reviewsfundusa0/buy-google-voice-accounts-51ci)
-- [Dev.to/JS] [Veracity Accounting in Canada: Navigating Financial Clarity](https://dev.to/seorank/veracity-accounting-in-canada-navigating-financial-clarity-4ojg)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
 - [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
 - [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
