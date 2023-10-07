@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [RegEx cheat sheet for JavaScript](https://dev.to/volodyslav/regex-cheat-sheet-for-javascript-6np)
+- [Dev.to/JS] [The Joy of Debugging: Unraveling Mistakes in Knitting and Code](https://dev.to/catherineaross/the-joy-of-debugging-unraveling-mistakes-in-knitting-and-code-5e63)
+- [Dev.to/JS] [JavaScript - Functional Programming Concepts](https://dev.to/theramoliya/javascript-functional-programming-concepts-45l6)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
 - [Dev.to/JS] [SOLID Principles Series: Mastering the Open-Closed Principle &lpar;OCP&rpar; in Node.js with TypeScript](https://dev.to/ruben_alapont/solid-principles-series-mastering-the-open-closed-principle-ocp-in-nodejs-with-typescript-2om9)
 - [Dev.to/JS] [Infinite scrolling using IntersectionObserver in React](https://dev.to/codeashdev/infinite-scrolling-using-intersectionobserver-in-react-7nf)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part 1.1 - Build a fullstack blogging website using MERN &lpar; MongoDB, ReactJS, ExpressJS and NodeJS &rpar;](https://dev.to/themodernweb/part-11-build-a-fullstack-blogging-website-using-mern-mongodb-reactjs-expressjs-and-nodejs--hdo)
 - [Dev.to/JS] [Using Github Actions with Bun](https://dev.to/code42cate/using-github-actions-with-bun-g0o)
 - [Dev.to/JS] [Chronicles of the Unemployed, Week One After 12 Continuous Years of Employment](https://dev.to/luishcastroc/chronicles-of-the-unemployed-week-one-after-12-continuous-years-of-employment-1gpn)
-- [Dev.to/JS] [Frontend vs Backend vs Full Stack: Understanding the Differences](https://dev.to/ahanash46390872/frontend-vs-backend-vs-full-stack-understanding-the-differences-59cj)
-- [Dev.to/JS] [Render Props in React, Frontend System Design](https://dev.to/jeetvora331/render-props-in-react-frontend-system-design-3f3b)
-- [Dev.to/JS] [Job scheduler App using Bree in Node Js](https://dev.to/manjunatha_nanjappa/job-scheduler-app-using-bree-in-node-js-5gge)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
 - [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
 - [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
