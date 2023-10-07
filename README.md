@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Thrills and Challenges of Learning to Code: A Journey of Discovery](https://dev.to/devincb93/the-thrills-and-challenges-of-learning-to-code-a-journey-of-discovery-knn)
 - [Dev.to/JS] [We should get rid of Typescript](https://dev.to/gene/we-should-get-rid-of-typescript-3n51)
 - [Dev.to/JS] [Chronicles of a Beginner&#39;s Journey into the World of Programming](https://dev.to/duke09/chronicles-of-a-beginners-journey-into-the-world-of-programming-5a2f)
 - [Dev.to/JS] [Final Fantasy Legend Level Editor Update](https://dev.to/jesterxl/final-fantasy-legend-level-editor-update-4c6j)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Dev.to/JS] [Tuto: Password Creation in Svelte](https://dev.to/barim/tuto-password-creation-in-svelte-1dnh)
 - [Dev.to/JS] [RegEx cheat sheet for JavaScript](https://dev.to/volodyslav/regex-cheat-sheet-for-javascript-6np)
-- [Dev.to/JS] [The Joy of Debugging: Unraveling Mistakes in Knitting and Code](https://dev.to/catherineaross/the-joy-of-debugging-unraveling-mistakes-in-knitting-and-code-5e63)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
 - [Lifehacker] [When to Expect the First Frost in Your Area](https://lifehacker.com/when-to-expect-the-first-frost-in-your-area-1850903636)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
