@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: The Runtime Environment🏃🏻🏃🏻🏃🏻](https://dev.to/rahmanmajeed/javascript-the-runtime-environment-35a2)
+- [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Dev.to/JS] [Tuto: Password Creation in Svelte](https://dev.to/barim/tuto-password-creation-in-svelte-1dnh)
 - [Dev.to/JS] [RegEx cheat sheet for JavaScript](https://dev.to/volodyslav/regex-cheat-sheet-for-javascript-6np)
 - [Dev.to/JS] [The Joy of Debugging: Unraveling Mistakes in Knitting and Code](https://dev.to/catherineaross/the-joy-of-debugging-unraveling-mistakes-in-knitting-and-code-5e63)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [White labeling colors in embedded applications](https://dev.to/ranquild/white-labeling-colors-in-embedded-applications-5e92)
 - [Dev.to/JS] [How to Make CRUD app in JavaScript](https://dev.to/codewithsadee/how-to-make-crud-app-in-javascript-27je)
 - [Dev.to/JS] [Part 1.1 - Build a fullstack blogging website using MERN &lpar; MongoDB, ReactJS, ExpressJS and NodeJS &rpar;](https://dev.to/themodernweb/part-11-build-a-fullstack-blogging-website-using-mern-mongodb-reactjs-expressjs-and-nodejs--hdo)
-- [Dev.to/JS] [Using Github Actions with Bun](https://dev.to/code42cate/using-github-actions-with-bun-g0o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
 - [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
 - [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Locktober&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-l-1850905693)
 - [Lifehacker] [How to Freeze Apples so You Don’t Ruin Them for Later](https://lifehacker.com/how-to-freeze-apples-so-you-don-t-ruin-them-for-later-1850904637)
 - [Lifehacker] [All the Yard and Garden Tasks You Should Do in October](https://lifehacker.com/all-the-yard-and-garden-tasks-you-should-do-in-october-1850901896)
-- [Lifehacker] [A Lifetime Subscription to Skoove Premium Piano Lessons Is $150 Right Now](https://lifehacker.com/a-lifetime-subscription-to-skoove-premium-piano-lessons-1850892168)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 6, 2023](https://lifehacker.com/nyt-connections-answer-today-october-6-2023-1850902590)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Lifetime Subscription to Skoove Premium Piano Lessons Is $150 Right Now](https://lifehacker.com/a-lifetime-subscription-to-skoove-premium-piano-lessons-1850892168)<!-- TECH-POSTS:END -->
 
 ---
 
