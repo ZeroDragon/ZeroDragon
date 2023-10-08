@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to the Principles of JavaScript Encryption and JavaScript Obfuscation](https://dev.to/__28f08df2bb06aae67f97/introduction-to-the-principles-of-javascript-encryption-and-javascript-obfuscation-1jkh)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
+- [Dev.to/JS] [Understanding Web Workers: What Are They and How Can They Enhance Your Web Apps](https://dev.to/gervaisamoah/understanding-web-workers-what-are-they-and-how-can-they-enhance-your-web-apps-3i50)
+- [Dev.to/JS] [React Native Theming 2023!](https://dev.to/kjgm/react-native-theming-2023-38f9)
+- [Dev.to/JS] [let j = &quot;JavaScript&quot;&lpar;A newbie&#39;s guide on Declaring Variables in JavaScript&rpar;](https://dev.to/vectorojaydev/let-j-javascripta-newbies-guide-on-declaring-variables-in-javascript-2a4f)
+- [Dev.to/JS] [Learning FullCalendar Part 1: Must-Knows to Get Started](https://dev.to/ayako_yk/learning-fullcalendar-part-1-must-knows-to-get-started-392f)
 - [Dev.to/JS] [The Newbie&#39;s Guide to TypeScript: Important TypeScript Concepts for Beginners](https://dev.to/compleat_dev/the-newbies-guide-to-typescript-important-typescript-concepts-for-beginners-53o2)
 - [Dev.to/JS] [How I use Axios interceptor for refreshing token in a custom React hook](https://dev.to/gagiknav/how-i-use-axios-interceptor-for-refreshing-token-in-a-custom-react-hook-1089)
 - [Dev.to/JS] [Why Weather Buddy was a bad idea for a SaaS](https://dev.to/ogechukwu/why-weather-buddy-was-a-bad-idea-for-a-saas-gm8)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We should get rid of Typescript](https://dev.to/gene/we-should-get-rid-of-typescript-3n51)
 - [Dev.to/JS] [Chronicles of a Beginner&#39;s Journey into the World of Programming](https://dev.to/duke09/chronicles-of-a-beginners-journey-into-the-world-of-programming-5a2f)
 - [Dev.to/JS] [Final Fantasy Legend Level Editor Update](https://dev.to/jesterxl/final-fantasy-legend-level-editor-update-4c6j)
-- [Dev.to/JS] [Do this and stop wasting time creating React components](https://dev.to/joaofelipe/do-this-and-stop-wasting-time-creating-react-components-38lj)
-- [Dev.to/JS] [⚡️ FREE Llama 2 API: OpenAI-compatible API for Workers AI 🧠](https://dev.to/chand1012/openai-compatible-api-for-workers-ai-4mjh)
-- [Dev.to/JS] [Get Your Svelte On: 5 UI Libraries That Will Make Your App Look Super Cool](https://dev.to/uncle_ben/get-your-svelte-on-5-ui-libraries-that-will-make-your-app-look-super-cool-1853)
-- [Dev.to/JS] [React 18: The Features and The Future](https://dev.to/jebbs/react-18-the-features-and-the-future-nbm)
-- [Dev.to/JS] [String.charAt&lpar;&rpar; Method in JavaScript](https://dev.to/speaklouder/stringcharat-method-in-javascript-2jm3)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
 - [Lifehacker] [When to Expect the First Frost in Your Area](https://lifehacker.com/when-to-expect-the-first-frost-in-your-area-1850903636)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Ask Your Bank for a Higher Credit Limit](https://lifehacker.com/the-easiest-way-to-ask-your-bank-for-a-higher-credit-li-1850903120)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Locktober&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-l-1850905693)
 - [Lifehacker] [How to Freeze Apples so You Don’t Ruin Them for Later](https://lifehacker.com/how-to-freeze-apples-so-you-don-t-ruin-them-for-later-1850904637)
-- [Lifehacker] [All the Yard and Garden Tasks You Should Do in October](https://lifehacker.com/all-the-yard-and-garden-tasks-you-should-do-in-october-1850901896)
-- [Lifehacker] [A Lifetime Subscription to Skoove Premium Piano Lessons Is $150 Right Now](https://lifehacker.com/a-lifetime-subscription-to-skoove-premium-piano-lessons-1850892168)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Yard and Garden Tasks You Should Do in October](https://lifehacker.com/all-the-yard-and-garden-tasks-you-should-do-in-october-1850901896)<!-- TECH-POSTS:END -->
 
 ---
 
