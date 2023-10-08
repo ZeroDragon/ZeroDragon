@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [File Upload using AWS S3, Node.js and React](https://dev.to/umakantv/file-upload-using-aws-s3-nodejs-and-react-2boh)
 - [Dev.to/JS] [Question: The Future of Programmers](https://dev.to/zu/question-the-future-of-programmers-15h4)
 - [Dev.to/JS] [ChatGPT Applet Developer Prompt v1.0](https://dev.to/markfulton/chatgpt-applet-developer-prompt-v10-188o)
 - [Dev.to/JS] [JavaScript Magic Tricks: Html Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-html-encryption-49hd)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Fullstack webpage with Python,Flask, react, and SQLalchemy](https://dev.to/atenliao/create-a-fullstack-webpage-with-python-react-and-sqlalchemy-4ap4)
 - [Dev.to/JS] [Demystifying Model-View-Controller &lpar;MVC&rpar; Architecture: The Heart of Software Design](https://dev.to/dr_anks/demystifying-model-view-controller-mvc-architecture-the-heart-of-software-design-5glg)
 - [Dev.to/JS] [Slidev Tip - Export With Background Images](https://dev.to/ahandsel/slidev-tip-export-with-background-images-17ik)
-- [Dev.to/JS] [Introduction to the Principles of JavaScript Encryption and JavaScript Obfuscation](https://dev.to/__28f08df2bb06aae67f97/introduction-to-the-principles-of-javascript-encryption-and-javascript-obfuscation-1jkh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
