@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an Image Comparison Slider with HTML, CSS, and JavaScript](https://dev.to/mursalfk/creating-an-image-comparison-slider-with-html-css-and-javascript-5dmn)
+- [Dev.to/JS] [Preparing a React course in public - Raw HTML + CSS](https://dev.to/manuartero/preparing-a-react-course-in-public-raw-html-css-4gbc)
+- [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
 - [Dev.to/JS] [React Beautiful DND Examples: 3 Stunning Examples](https://dev.to/normalcoding/react-beautiful-dnd-examples-3-stunning-examples-3mka)
 - [Dev.to/JS] [npm and Yarn: Package Managers for JavaScript Projects](https://dev.to/heyariss/npm-and-yarn-package-managers-for-javascript-projects-57a0)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Pizza Byte](https://dev.to/nickytonline/yet-another-newsletter-lol-pizza-byte-1i06)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Question: The Future of Programmers](https://dev.to/zu/question-the-future-of-programmers-15h4)
 - [Dev.to/JS] [ChatGPT Applet Developer Prompt v1.0](https://dev.to/markfulton/chatgpt-applet-developer-prompt-v10-188o)
 - [Dev.to/JS] [JavaScript Magic Tricks: Html Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-html-encryption-49hd)
-- [Dev.to/JS] [Understanding Angular Component Lifecycle Hooks](https://dev.to/judexes/understanding-angular-component-lifecycle-hooks-35p0)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Next.js](https://dev.to/solomanerr/a-beginners-guide-to-dynamic-web-development-nextjs-228k)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 23 Gayest Horror Movies Ever Made](https://lifehacker.com/the-23-gayest-horror-movies-ever-made-1850902784)
 - [Lifehacker] [These New Arc Al Features Will Change How You Browse the Internet](https://lifehacker.com/these-new-arc-al-features-will-change-how-you-browse-th-1850905895)
 - [Lifehacker] [The Easiest Way to Ask Your Bank for a Higher Credit Limit](https://lifehacker.com/the-easiest-way-to-ask-your-bank-for-a-higher-credit-li-1850903120)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Locktober&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-l-1850905693)
-- [Lifehacker] [How to Freeze Apples so You Don’t Ruin Them for Later](https://lifehacker.com/how-to-freeze-apples-so-you-don-t-ruin-them-for-later-1850904637)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Locktober&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-l-1850905693)<!-- TECH-POSTS:END -->
 
 ---
 
