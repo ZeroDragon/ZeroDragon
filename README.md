@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Cool CodePen Demos &lpar;September 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2023-2pk)
+- [Dev.to/JS] [Yopmail: Disposable Email - Your Ultimate Solution](https://dev.to/bondxeber/yopmail-disposable-email-your-ultimate-solution-a7o)
+- [Dev.to/JS] [Adding a chat room to any app with one line of code](https://dev.to/jeremyckahn/adding-free-anonymous-chat-to-any-web-with-one-line-of-code-44l7)
 - [Dev.to/JS] [S3 File Upload in Node.js and React - Setting Up Node.js App](https://dev.to/umakantv/s3-file-upload-in-nodejs-and-react-setting-up-nodejs-app-15mk)
 - [Dev.to/JS] [Hire a hacker for WhatsApp](https://dev.to/john_batista/hire-a-hacker-for-whatsapp-hcf)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [instant distributed database- gun.js](https://dev.to/heyraghab/instant-distributed-database-gunjs-4394)
 - [Dev.to/JS] [My search for open source drag-and-drop website builders based on React](https://dev.to/opensourcee/best-open-source-drag-and-drop-website-builders-based-on-react-ll6)
 - [Dev.to/JS] [Creating an Image Comparison Slider with HTML, CSS, and JavaScript](https://dev.to/mursalfk/creating-an-image-comparison-slider-with-html-css-and-javascript-5dmn)
-- [Dev.to/JS] [Preparing a React course in public - Raw HTML + CSS](https://dev.to/manuartero/preparing-a-react-course-in-public-raw-html-css-4gbc)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
-- [Dev.to/JS] [React Beautiful DND Examples: 3 Stunning Examples](https://dev.to/normalcoding/react-beautiful-dnd-examples-3-stunning-examples-3mka)
-- [Dev.to/JS] [npm and Yarn: Package Managers for JavaScript Projects](https://dev.to/heyariss/npm-and-yarn-package-managers-for-javascript-projects-57a0)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
