@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interface Segregation Principle in React](https://dev.to/mikhaelesa/interface-segregation-principle-in-react-2501)
+- [Dev.to/JS] [String in JavaScript](https://dev.to/shivraj07/string-in-javascript-40c6)
 - [Dev.to/JS] [Advanced Usage of the useState Hook in React](https://dev.to/devantoniorogers/advanced-usage-of-the-usestate-hook-in-react-2o3j)
 - [Dev.to/JS] [Create a Fullstack webpage with Python,Flask, react, and SQLalchemy](https://dev.to/atenliao/create-a-fullstack-webpage-with-python-react-and-sqlalchemy-4ap4)
 - [Dev.to/JS] [Demystifying Model-View-Controller &lpar;MVC&rpar; Architecture: The Heart of Software Design](https://dev.to/dr_anks/demystifying-model-view-controller-mvc-architecture-the-heart-of-software-design-5glg)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [let j = &quot;JavaScript&quot;&lpar;A newbie&#39;s guide on Declaring Variables in JavaScript&rpar;](https://dev.to/vectorojaydev/let-j-javascripta-newbies-guide-on-declaring-variables-in-javascript-2a4f)
 - [Dev.to/JS] [Learning FullCalendar Part 1: Must-Knows to Get Started](https://dev.to/ayako_yk/learning-fullcalendar-part-1-must-knows-to-get-started-392f)
 - [Dev.to/JS] [The Newbie&#39;s Guide to TypeScript: Important TypeScript Concepts for Beginners](https://dev.to/compleat_dev/the-newbies-guide-to-typescript-important-typescript-concepts-for-beginners-53o2)
-- [Dev.to/JS] [How I use Axios interceptor for refreshing token in a custom React hook](https://dev.to/gagiknav/how-i-use-axios-interceptor-for-refreshing-token-in-a-custom-react-hook-1089)
-- [Dev.to/JS] [Why Weather Buddy was a bad idea for a SaaS](https://dev.to/ogechukwu/why-weather-buddy-was-a-bad-idea-for-a-saas-gm8)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
 - [Lifehacker] [When to Expect the First Frost in Your Area](https://lifehacker.com/when-to-expect-the-first-frost-in-your-area-1850903636)
