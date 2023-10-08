@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Beautiful DND Examples: 3 Stunning Examples](https://dev.to/normalcoding/react-beautiful-dnd-examples-3-stunning-examples-3mka)
+- [Dev.to/JS] [npm and Yarn: Package Managers for JavaScript Projects](https://dev.to/heyariss/npm-and-yarn-package-managers-for-javascript-projects-57a0)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Pizza Byte](https://dev.to/nickytonline/yet-another-newsletter-lol-pizza-byte-1i06)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
 - [Dev.to/JS] [Call Multiple Functions onClick in React](https://dev.to/reactjsguru/call-multiple-functions-onclick-in-react-34pk)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Magic Tricks: Html Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-html-encryption-49hd)
 - [Dev.to/JS] [Understanding Angular Component Lifecycle Hooks](https://dev.to/judexes/understanding-angular-component-lifecycle-hooks-35p0)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Next.js](https://dev.to/solomanerr/a-beginners-guide-to-dynamic-web-development-nextjs-228k)
-- [Dev.to/JS] [Interface Segregation Principle in React](https://dev.to/mikhaelesa/interface-segregation-principle-in-react-2501)
-- [Dev.to/JS] [String in JavaScript](https://dev.to/shivraj07/string-in-javascript-40c6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
