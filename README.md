@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Slidev Tip - Export With Background Images](https://dev.to/ahandsel/slidev-tip-export-with-background-images-17ik)
 - [Dev.to/JS] [Introduction to the Principles of JavaScript Encryption and JavaScript Obfuscation](https://dev.to/__28f08df2bb06aae67f97/introduction-to-the-principles-of-javascript-encryption-and-javascript-obfuscation-1jkh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
 - [Dev.to/JS] [Understanding Web Workers: What Are They and How Can They Enhance Your Web Apps](https://dev.to/gervaisamoah/understanding-web-workers-what-are-they-and-how-can-they-enhance-your-web-apps-3i50)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Thrills and Challenges of Learning to Code: A Journey of Discovery](https://dev.to/devincb93/the-thrills-and-challenges-of-learning-to-code-a-journey-of-discovery-knn)
 - [Dev.to/JS] [We should get rid of Typescript](https://dev.to/gene/we-should-get-rid-of-typescript-3n51)
 - [Dev.to/JS] [Chronicles of a Beginner&#39;s Journey into the World of Programming](https://dev.to/duke09/chronicles-of-a-beginners-journey-into-the-world-of-programming-5a2f)
-- [Dev.to/JS] [Final Fantasy Legend Level Editor Update](https://dev.to/jesterxl/final-fantasy-legend-level-editor-update-4c6j)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
 - [Lifehacker] [When to Expect the First Frost in Your Area](https://lifehacker.com/when-to-expect-the-first-frost-in-your-area-1850903636)
