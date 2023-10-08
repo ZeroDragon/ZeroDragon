@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hire a hacker for WhatsApp](https://dev.to/john_batista/hire-a-hacker-for-whatsapp-hcf)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Dev.to/JS] [Brain.js for Beginners](https://dev.to/gfish94/brainjs-for-beginners-1g77)
 - [Dev.to/JS] [Turning my codepen into an actual app - Brick 1100](https://dev.to/khangnd/turning-my-codepen-into-an-actual-app-brick-1100-2821)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [npm and Yarn: Package Managers for JavaScript Projects](https://dev.to/heyariss/npm-and-yarn-package-managers-for-javascript-projects-57a0)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Pizza Byte](https://dev.to/nickytonline/yet-another-newsletter-lol-pizza-byte-1i06)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
-- [Dev.to/JS] [Call Multiple Functions onClick in React](https://dev.to/reactjsguru/call-multiple-functions-onclick-in-react-34pk)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
