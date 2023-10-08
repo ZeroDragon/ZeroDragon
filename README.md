@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
+- [Dev.to/JS] [Call Multiple Functions onClick in React](https://dev.to/reactjsguru/call-multiple-functions-onclick-in-react-34pk)
+- [Dev.to/JS] [Preview your Dev Server in mobile - Daily Tricks](https://dev.to/easewithtuts/preview-your-dev-server-in-mobile-daily-tricks-272i)
+- [Dev.to/JS] [Scopes, Scope Chains, and Closures Explained](https://dev.to/shingaiz/scopes-scope-chains-and-closures-explained-3e89)
 - [Dev.to/JS] [File Upload using AWS S3, Node.js and React](https://dev.to/umakantv/file-upload-using-aws-s3-nodejs-and-react-2boh)
 - [Dev.to/JS] [Question: The Future of Programmers](https://dev.to/zu/question-the-future-of-programmers-15h4)
 - [Dev.to/JS] [ChatGPT Applet Developer Prompt v1.0](https://dev.to/markfulton/chatgpt-applet-developer-prompt-v10-188o)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interface Segregation Principle in React](https://dev.to/mikhaelesa/interface-segregation-principle-in-react-2501)
 - [Dev.to/JS] [String in JavaScript](https://dev.to/shivraj07/string-in-javascript-40c6)
 - [Dev.to/JS] [Advanced Usage of the useState Hook in React](https://dev.to/devantoniorogers/advanced-usage-of-the-usestate-hook-in-react-2o3j)
-- [Dev.to/JS] [Create a Fullstack webpage with Python,Flask, react, and SQLalchemy](https://dev.to/atenliao/create-a-fullstack-webpage-with-python-react-and-sqlalchemy-4ap4)
-- [Dev.to/JS] [Demystifying Model-View-Controller &lpar;MVC&rpar; Architecture: The Heart of Software Design](https://dev.to/dr_anks/demystifying-model-view-controller-mvc-architecture-the-heart-of-software-design-5glg)
-- [Dev.to/JS] [Slidev Tip - Export With Background Images](https://dev.to/ahandsel/slidev-tip-export-with-background-images-17ik)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These New Arc Al Features Will Change How You Browse the Internet](https://lifehacker.com/these-new-arc-al-features-will-change-how-you-browse-th-1850905895)
 - [Lifehacker] [The Easiest Way to Ask Your Bank for a Higher Credit Limit](https://lifehacker.com/the-easiest-way-to-ask-your-bank-for-a-higher-credit-li-1850903120)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Locktober&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-l-1850905693)
-- [Lifehacker] [How to Freeze Apples so You Don’t Ruin Them for Later](https://lifehacker.com/how-to-freeze-apples-so-you-don-t-ruin-them-for-later-1850904637)
-- [Lifehacker] [All the Yard and Garden Tasks You Should Do in October](https://lifehacker.com/all-the-yard-and-garden-tasks-you-should-do-in-october-1850901896)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Freeze Apples so You Don’t Ruin Them for Later](https://lifehacker.com/how-to-freeze-apples-so-you-don-t-ruin-them-for-later-1850904637)<!-- TECH-POSTS:END -->
 
 ---
 
