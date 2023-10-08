@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Yet Another Newsletter LOL: Pizza Byte](https://dev.to/nickytonline/yet-another-newsletter-lol-pizza-byte-1i06)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
 - [Dev.to/JS] [Call Multiple Functions onClick in React](https://dev.to/reactjsguru/call-multiple-functions-onclick-in-react-34pk)
 - [Dev.to/JS] [Preview your Dev Server in mobile - Daily Tricks](https://dev.to/easewithtuts/preview-your-dev-server-in-mobile-daily-tricks-272i)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to Next.js](https://dev.to/solomanerr/a-beginners-guide-to-dynamic-web-development-nextjs-228k)
 - [Dev.to/JS] [Interface Segregation Principle in React](https://dev.to/mikhaelesa/interface-segregation-principle-in-react-2501)
 - [Dev.to/JS] [String in JavaScript](https://dev.to/shivraj07/string-in-javascript-40c6)
-- [Dev.to/JS] [Advanced Usage of the useState Hook in React](https://dev.to/devantoniorogers/advanced-usage-of-the-usestate-hook-in-react-2o3j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
