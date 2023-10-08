@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced Usage of the useState Hook in React](https://dev.to/devantoniorogers/advanced-usage-of-the-usestate-hook-in-react-2o3j)
+- [Dev.to/JS] [Create a Fullstack webpage with Python,Flask, react, and SQLalchemy](https://dev.to/atenliao/create-a-fullstack-webpage-with-python-react-and-sqlalchemy-4ap4)
 - [Dev.to/JS] [Demystifying Model-View-Controller &lpar;MVC&rpar; Architecture: The Heart of Software Design](https://dev.to/dr_anks/demystifying-model-view-controller-mvc-architecture-the-heart-of-software-design-5glg)
 - [Dev.to/JS] [Slidev Tip - Export With Background Images](https://dev.to/ahandsel/slidev-tip-export-with-background-images-17ik)
 - [Dev.to/JS] [Introduction to the Principles of JavaScript Encryption and JavaScript Obfuscation](https://dev.to/__28f08df2bb06aae67f97/introduction-to-the-principles-of-javascript-encryption-and-javascript-obfuscation-1jkh)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Newbie&#39;s Guide to TypeScript: Important TypeScript Concepts for Beginners](https://dev.to/compleat_dev/the-newbies-guide-to-typescript-important-typescript-concepts-for-beginners-53o2)
 - [Dev.to/JS] [How I use Axios interceptor for refreshing token in a custom React hook](https://dev.to/gagiknav/how-i-use-axios-interceptor-for-refreshing-token-in-a-custom-react-hook-1089)
 - [Dev.to/JS] [Why Weather Buddy was a bad idea for a SaaS](https://dev.to/ogechukwu/why-weather-buddy-was-a-bad-idea-for-a-saas-gm8)
-- [Dev.to/JS] [The Thrills and Challenges of Learning to Code: A Journey of Discovery](https://dev.to/devincb93/the-thrills-and-challenges-of-learning-to-code-a-journey-of-discovery-knn)
-- [Dev.to/JS] [We should get rid of Typescript](https://dev.to/gene/we-should-get-rid-of-typescript-3n51)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
 - [Lifehacker] [When to Expect the First Frost in Your Area](https://lifehacker.com/when-to-expect-the-first-frost-in-your-area-1850903636)
