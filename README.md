@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Refactoring code, git rebase, squash, solving merge conflicts, and beyond](https://dev.to/soham-thaker/refactoring-code-git-rebase-squash-solving-merge-conflicts-and-beyond-1opb)
+- [Dev.to/JS] [The Mighty MutationObserver](https://dev.to/nicm42/the-mighty-mutationobserver-1oo4)
+- [Dev.to/JS] [React: Behind the Scenes Part 1](https://dev.to/thecoollearner/react-behind-the-scenes-part-1-36lh)
+- [Dev.to/JS] [Unveiling Insights :Exploratory Data Analysis through data visualization techniques.](https://dev.to/hillilapamelapeter/unveiling-insights-exploratory-data-analysis-through-data-visualization-techniques-2ch7)
 - [Dev.to/JS] [10 Cool CodePen Demos &lpar;September 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2023-2pk)
 - [Dev.to/JS] [Yopmail: Disposable Email - Your Ultimate Solution](https://dev.to/bondxeber/yopmail-disposable-email-your-ultimate-solution-a7o)
 - [Dev.to/JS] [Adding a chat room to any app with one line of code](https://dev.to/jeremyckahn/adding-free-anonymous-chat-to-any-web-with-one-line-of-code-44l7)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Brain.js for Beginners](https://dev.to/gfish94/brainjs-for-beginners-1g77)
 - [Dev.to/JS] [Turning my codepen into an actual app - Brick 1100](https://dev.to/khangnd/turning-my-codepen-into-an-actual-app-brick-1100-2821)
 - [Dev.to/JS] [📧 Introducing Email Inspector 📧](https://dev.to/sr-26/introducing-email-inspector-2fh6)
-- [Dev.to/JS] [CFG sporting quiz](https://dev.to/charlottehay/cfg-sporting-quiz-hcb)
-- [Dev.to/JS] [instant distributed database- gun.js](https://dev.to/heyraghab/instant-distributed-database-gunjs-4394)
-- [Dev.to/JS] [My search for open source drag-and-drop website builders based on React](https://dev.to/opensourcee/best-open-source-drag-and-drop-website-builders-based-on-react-ll6)
-- [Dev.to/JS] [Creating an Image Comparison Slider with HTML, CSS, and JavaScript](https://dev.to/mursalfk/creating-an-image-comparison-slider-with-html-css-and-javascript-5dmn)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
