@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript &amp; TypeScript: How to Use Functions Inside Five](https://dev.to/domfive/javascript-typescript-how-to-use-functions-inside-five-3c54)
 - [Dev.to/JS] [Make a guess the number game with JavaScript!](https://dev.to/alexmbeasley/make-a-guess-the-number-game-with-javascript-143l)
 - [Dev.to/JS] [Error Handling in JavaScript: The Magical Shields and Barriers](https://dev.to/init_chandan/error-handling-in-js-the-magical-shields-and-barriers-ee8)
 - [Dev.to/JS] [Refactoring code, git rebase, squash, solving merge conflicts, and beyond](https://dev.to/soham-thaker/refactoring-code-git-rebase-squash-solving-merge-conflicts-and-beyond-1opb)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [S3 File Upload in Node.js and React - Setting Up Node.js App](https://dev.to/umakantv/s3-file-upload-in-nodejs-and-react-setting-up-nodejs-app-15mk)
 - [Dev.to/JS] [Hire a hacker for WhatsApp](https://dev.to/john_batista/hire-a-hacker-for-whatsapp-hcf)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
-- [Dev.to/JS] [Brain.js for Beginners](https://dev.to/gfish94/brainjs-for-beginners-1g77)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
