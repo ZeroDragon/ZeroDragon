@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ChatGPT Applet Developer Prompt v1.0](https://dev.to/markfulton/chatgpt-applet-developer-prompt-v10-188o)
+- [Dev.to/JS] [JavaScript Magic Tricks: Html Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-html-encryption-49hd)
 - [Dev.to/JS] [Understanding Angular Component Lifecycle Hooks](https://dev.to/judexes/understanding-angular-component-lifecycle-hooks-35p0)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Next.js](https://dev.to/solomanerr/a-beginners-guide-to-dynamic-web-development-nextjs-228k)
 - [Dev.to/JS] [Interface Segregation Principle in React](https://dev.to/mikhaelesa/interface-segregation-principle-in-react-2501)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to the Principles of JavaScript Encryption and JavaScript Obfuscation](https://dev.to/__28f08df2bb06aae67f97/introduction-to-the-principles-of-javascript-encryption-and-javascript-obfuscation-1jkh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
 - [Dev.to/JS] [Understanding Web Workers: What Are They and How Can They Enhance Your Web Apps](https://dev.to/gervaisamoah/understanding-web-workers-what-are-they-and-how-can-they-enhance-your-web-apps-3i50)
-- [Dev.to/JS] [React Native Theming 2023!](https://dev.to/kjgm/react-native-theming-2023-38f9)
-- [Dev.to/JS] [let j = &quot;JavaScript&quot;&lpar;A newbie&#39;s guide on Declaring Variables in JavaScript&rpar;](https://dev.to/vectorojaydev/let-j-javascripta-newbies-guide-on-declaring-variables-in-javascript-2a4f)
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
 - [Lifehacker] [When to Expect the First Frost in Your Area](https://lifehacker.com/when-to-expect-the-first-frost-in-your-area-1850903636)
