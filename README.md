@@ -26,20 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Winterize Your E-Bike Now](https://lifehacker.com/you-should-winterize-your-e-bike-now-1850911208)
+- [Dev.to/JS] [Ruby vs. JavaScript](https://dev.to/jshep23prog/ruby-vs-javascript-2gae)
 - [Lifehacker] [Medical Credit Cards Are a Bad Idea, Actually](https://lifehacker.com/medical-credit-cards-are-a-bad-idea-actually-1850910748)
 - [Dev.to/JS] [Console Methods in JavaScript: A Guide for Beginners](https://dev.to/usulpro/console-methods-in-javascript-a-guide-for-beginners-32mg)
 - [Lifehacker] [Use the Earbuds App to Share Songs Between Spotify and Apple Music](https://lifehacker.com/use-the-earbuds-app-to-share-songs-between-spotify-and-1850911135)
 - [Dev.to/JS] [Unlocking Node.js Performance: The Art of Data Caching](https://dev.to/victor1890/unlocking-nodejs-performance-the-art-of-data-caching-20l)
 - [Dev.to/JS] [Announcing the Directus Panel Quest Hackathon](https://dev.to/directus/announcing-the-directus-panel-quest-hackathon-43e7)
 - [Dev.to/JS] [Transforme arrays em ouro: aprenda a manipular dados com o map&lpar;&rpar; em Javascript](https://dev.to/demenezes/transforme-arrays-em-ouro-aprenda-a-manipular-dados-com-o-map-em-javascript-4g60)
-- [Dev.to/JS] [The motivation behind WebCrumbs in 16 images](https://dev.to/opensourcee/the-motivation-behind-webcrumbs-in-16-images-43dg)
+- [Dev.to/JS] [16 images that explains why WebCrumbs](https://dev.to/opensourcee/the-motivation-behind-webcrumbs-in-16-images-43dg)
 - [Dev.to/JS] [Eleventy and Storyblok — My perfect combination](https://dev.to/guaca/eleventy-and-storyblok-my-perfect-combination-42oe)
 - [Dev.to/JS] [Incremental Static Regeneration in Nuxt](https://dev.to/jacobandrewsky/incremental-static-regeneration-in-nuxt-3255)
 - [Dev.to/JS] [framework7- build ios, android styled apps with JavaScript](https://dev.to/heyraghab/framework7-build-ios-android-styled-apps-with-javascript-37l1)
 - [Dev.to/JS] [📬 TF #18 | Your weekly frontend digest 🗞️](https://dev.to/tech_foutraque/tf-18-your-weekly-frontend-digest-23c4)
 - [Dev.to/JS] [10 reasons why Tally.so is the best form tool](https://dev.to/guillaumeduhan/10-reasons-why-tallyso-is-the-best-form-tool-300b)
 - [Dev.to/JS] [Embed your forms with Tally.so](https://dev.to/guillaumeduhan/embed-your-forms-with-tallyso-38ip)
-- [Dev.to/JS] [How to Handle Forms in React](https://dev.to/sidramaqbool/how-to-handle-forms-in-react-4jml)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Reserve an Invite for This 50&quot; 4K TV for $149](https://lifehacker.com/you-can-reserve-an-invite-for-this-50-4k-tv-for-149-1850904808)
 - [Lifehacker] [You Can Now Set Up Profiles in Safari](https://lifehacker.com/how-to-use-profiles-in-safari-1850906118)
 - [Lifehacker] [Where to Stream the LSU Vs. Missouri Game](https://lifehacker.com/where-to-watch-the-lsu-vs-missouri-game-1850905184)
-- [Lifehacker] [You Can Officially Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/iphone-15-pro-overheating-1850891798)
-- [Lifehacker] [You Can Get Five Years of AdGuard VPN for $40 Right Now](https://lifehacker.com/you-can-get-five-years-of-adguard-vpn-for-40-right-now-1850891907)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Officially Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/iphone-15-pro-overheating-1850891798)<!-- TECH-POSTS:END -->
 
 ---
 
