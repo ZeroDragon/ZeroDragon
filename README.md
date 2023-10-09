@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)
+- [Dev.to/JS] [Building an Interactive TikTok Live Game with Js](https://dev.to/northoniserhardt/building-an-interactive-tiktok-live-game-with-js-2g1m)
+- [Dev.to/JS] [Fetch API](https://dev.to/gisellec60/fetch-api-270j)
 - [Dev.to/JS] [React’s useEffect and useState Hooks](https://dev.to/vikran7_pa7el_/reacts-useeffect-and-usestate-hooks-gld)
 - [Dev.to/JS] [What is a String and why is it important in JavaScript.](https://dev.to/cravencraven/what-is-a-string-and-why-is-it-important-in-javascript-m0p)
 - [Dev.to/JS] [JavaScript &amp; TypeScript: How to Use Functions Inside Five](https://dev.to/domfive/javascript-typescript-how-to-use-functions-inside-five-3c54)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React: Behind the Scenes Part 1](https://dev.to/thecoollearner/react-behind-the-scenes-part-1-36lh)
 - [Dev.to/JS] [Unveiling Insights :Exploratory Data Analysis through data visualization techniques.](https://dev.to/hillilapamelapeter/unveiling-insights-exploratory-data-analysis-through-data-visualization-techniques-2ch7)
 - [Dev.to/JS] [10 Cool CodePen Demos &lpar;September 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2023-2pk)
-- [Dev.to/JS] [Yopmail: Disposable Email - Your Ultimate Solution](https://dev.to/bondxeber/yopmail-disposable-email-your-ultimate-solution-a7o)
-- [Dev.to/JS] [Adding a chat room to any app with one line of code](https://dev.to/jeremyckahn/adding-free-anonymous-chat-to-any-web-with-one-line-of-code-44l7)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Officially Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/iphone-15-pro-overheating-1850891798)
 - [Lifehacker] [You Can Get Five Years of AdGuard VPN for $40 Right Now](https://lifehacker.com/you-can-get-five-years-of-adguard-vpn-for-40-right-now-1850891907)
 - [Lifehacker] [The 23 Gayest Horror Movies Ever Made](https://lifehacker.com/the-23-gayest-horror-movies-ever-made-1850902784)
-- [Lifehacker] [These New Arc Al Features Will Change How You Browse the Internet](https://lifehacker.com/these-new-arc-al-features-will-change-how-you-browse-th-1850905895)
-- [Lifehacker] [The Easiest Way to Ask Your Bank for a Higher Credit Limit](https://lifehacker.com/the-easiest-way-to-ask-your-bank-for-a-higher-credit-li-1850903120)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These New Arc Al Features Will Change How You Browse the Internet](https://lifehacker.com/these-new-arc-al-features-will-change-how-you-browse-th-1850905895)<!-- TECH-POSTS:END -->
 
 ---
 
