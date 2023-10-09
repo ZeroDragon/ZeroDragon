@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [It&#39;s Time to Get Wood Chips for Your Yard](https://lifehacker.com/its-time-to-get-wood-chips-for-your-yard-1850911759)
+- [Dev.to/JS] [Stop Using Form Libraries Just to Validate HTML Forms](https://dev.to/nuxt-wimadev/stop-using-form-libraries-just-to-validate-html-forms-576p)
+- [Dev.to/JS] [Integrando IA com Mapas para geração de Localizações](https://dev.to/nodebr/integrando-ia-com-mapas-para-geracao-de-localizacoes-411p)
+- [Lifehacker] [Use Productivity &#39;Sprints&#39; When Your Attention Span Is Low](https://lifehacker.com/how-to-use-sprints-productivity-method-1850911750)
+- [Lifehacker] [These Office Chairs Are up to 66% Off at Woot](https://lifehacker.com/these-office-chairs-are-up-to-66-off-at-woot-1850911711)
+- [Dev.to/JS] [I made a C++ version of console.log&lpar;&rpar;](https://dev.to/philip82148/i-made-a-c-version-of-consolelog-o88)
 - [Dev.to/JS] [Speed up your React application](https://dev.to/marcin_codes/speed-up-your-react-application-55m8)
 - [Lifehacker] [The 40 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)
 - [Lifehacker] [These Are All the New Accessibility Features in iOS 17](https://lifehacker.com/these-are-all-the-new-accessibility-features-in-ios-17-1850911314)
@@ -40,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [16 images that explain the logic behind WebCrumbs](https://dev.to/opensourcee/the-motivation-behind-webcrumbs-in-16-images-43dg)
 - [Dev.to/JS] [Eleventy and Storyblok — My perfect combination](https://dev.to/guaca/eleventy-and-storyblok-my-perfect-combination-42oe)
 - [Dev.to/JS] [Incremental Static Regeneration in Nuxt](https://dev.to/jacobandrewsky/incremental-static-regeneration-in-nuxt-3255)
-- [Dev.to/JS] [framework7- build ios, android styled apps with JavaScript](https://dev.to/heyraghab/framework7-build-ios-android-styled-apps-with-javascript-37l1)
-- [Dev.to/JS] [📬 TF #18 | Your weekly frontend digest 🗞️](https://dev.to/tech_foutraque/tf-18-your-weekly-frontend-digest-23c4)
-- [Dev.to/JS] [10 reasons why Tally.so is the best form tool](https://dev.to/guillaumeduhan/10-reasons-why-tallyso-is-the-best-form-tool-300b)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s Everything You Have to Look Forward to in Android 14](https://lifehacker.com/android-14-best-new-features-1850907386)
 - [Lifehacker] [This Tech Brand Will Get the Biggest Discounts During Prime Big Deal Days](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Replace Your Deadbolt With a Smart Lock](https://lifehacker.com/smart-lock-vs-traditional-deadbolt-1850907262)
-- [Lifehacker] [You Can Get a Lifetime Subscription to Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-koofr-cloud-stor-1850892687)
-- [Lifehacker] [Where to Stream the Colorado Vs. Arizona State Game](https://lifehacker.com/where-to-stream-the-colorado-vs-arizona-state-game-1850907119)
-- [Lifehacker] [You Can Reserve an Invite for This 50&quot; 4K TV for $149](https://lifehacker.com/you-can-reserve-an-invite-for-this-50-4k-tv-for-149-1850904808)
-- [Lifehacker] [You Can Now Set Up Profiles in Safari](https://lifehacker.com/how-to-use-profiles-in-safari-1850906118)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Lifetime Subscription to Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-koofr-cloud-stor-1850892687)<!-- TECH-POSTS:END -->
 
 ---
 
