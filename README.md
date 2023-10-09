@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 6&rpar; - Creating a body-parser middleware](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-6-creating-a-body-parser-middleware-15e7)
+- [Lifehacker] [The Best Way to Freeze and Reheat Rice](https://lifehacker.com/the-best-way-to-freeze-and-reheat-rice-1850871446)
+- [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-1ic3)
+- [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-3n11)
+- [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-13an)
+- [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-3p30)
+- [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-m1o)
+- [Dev.to/JS] [Retrieve SSL Certificate Details with a Single API Call!](https://dev.to/rahulmukati/retrieve-ssl-certificate-details-with-a-single-api-call-14h8)
+- [Lifehacker] [Regularly Check These Items in Your Home to Stay Safe](https://lifehacker.com/regularly-check-these-items-in-your-home-to-stay-safe-1850911784)
 - [Lifehacker] [It&#39;s Time to Get Wood Chips for Your Yard](https://lifehacker.com/its-time-to-get-wood-chips-for-your-yard-1850911759)
 - [Dev.to/JS] [Stop Using Form Libraries Just to Validate HTML Forms](https://dev.to/nuxt-wimadev/stop-using-form-libraries-just-to-validate-html-forms-576p)
 - [Dev.to/JS] [Integrando IA com Mapas para geração de Localizações](https://dev.to/nodebr/integrando-ia-com-mapas-para-geracao-de-localizacoes-411p)
@@ -38,14 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Winterize Your E-Bike Now](https://lifehacker.com/you-should-winterize-your-e-bike-now-1850911208)
 - [Dev.to/JS] [Ruby vs. JavaScript](https://dev.to/jshep23prog/ruby-vs-javascript-2gae)
 - [Lifehacker] [Medical Credit Cards Are a Bad Idea, Actually](https://lifehacker.com/medical-credit-cards-are-a-bad-idea-actually-1850910748)
-- [Dev.to/JS] [Console Methods in JavaScript: A Guide for Beginners](https://dev.to/usulpro/console-methods-in-javascript-a-guide-for-beginners-32mg)
 - [Lifehacker] [Use the Earbuds App to Share Songs Between Spotify and Apple Music](https://lifehacker.com/use-the-earbuds-app-to-share-songs-between-spotify-and-1850911135)
-- [Dev.to/JS] [Unlocking Node.js Performance: The Art of Data Caching](https://dev.to/victor1890/unlocking-nodejs-performance-the-art-of-data-caching-20l)
-- [Dev.to/JS] [Announcing the Directus Panel Quest Hackathon](https://dev.to/directus/announcing-the-directus-panel-quest-hackathon-43e7)
-- [Dev.to/JS] [Transforme arrays em ouro: aprenda a manipular dados com o map&lpar;&rpar; em Javascript](https://dev.to/demenezes/transforme-arrays-em-ouro-aprenda-a-manipular-dados-com-o-map-em-javascript-4g60)
-- [Dev.to/JS] [16 images that explain the logic behind WebCrumbs](https://dev.to/opensourcee/the-motivation-behind-webcrumbs-in-16-images-43dg)
-- [Dev.to/JS] [Eleventy and Storyblok — My perfect combination](https://dev.to/guaca/eleventy-and-storyblok-my-perfect-combination-42oe)
-- [Dev.to/JS] [Incremental Static Regeneration in Nuxt](https://dev.to/jacobandrewsky/incremental-static-regeneration-in-nuxt-3255)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
 - [Lifehacker] [You Can Get Flux 7 Earbuds on Sale for $23 Right Now](https://lifehacker.com/you-can-get-flux-7-earbuds-on-sale-for-23-right-now-1850899669)
 - [Lifehacker] [Here’s Everything You Have to Look Forward to in Android 14](https://lifehacker.com/android-14-best-new-features-1850907386)
-- [Lifehacker] [This Tech Brand Will Get the Biggest Discounts During Prime Big Deal Days](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
-- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Replace Your Deadbolt With a Smart Lock](https://lifehacker.com/smart-lock-vs-traditional-deadbolt-1850907262)
-- [Lifehacker] [You Can Get a Lifetime Subscription to Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-koofr-cloud-stor-1850892687)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Tech Brand Will Get the Biggest Discounts During Prime Big Deal Days](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)<!-- TECH-POSTS:END -->
 
 ---
 
