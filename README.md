@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Medical Credit Cards Are a Bad Idea, Actually](https://lifehacker.com/medical-credit-cards-are-a-bad-idea-actually-1850910748)
+- [Dev.to/JS] [Console Methods in JavaScript: A Guide for Beginners](https://dev.to/usulpro/console-methods-in-javascript-a-guide-for-beginners-32mg)
+- [Lifehacker] [Use the Earbuds App to Share Songs Between Spotify and Apple Music](https://lifehacker.com/use-the-earbuds-app-to-share-songs-between-spotify-and-1850911135)
+- [Dev.to/JS] [Unlocking Node.js Performance: The Art of Data Caching](https://dev.to/victor1890/unlocking-nodejs-performance-the-art-of-data-caching-20l)
 - [Dev.to/JS] [Announcing the Directus Panel Quest Hackathon](https://dev.to/directus/announcing-the-directus-panel-quest-hackathon-43e7)
 - [Dev.to/JS] [Transforme arrays em ouro: aprenda a manipular dados com o map&lpar;&rpar; em Javascript](https://dev.to/demenezes/transforme-arrays-em-ouro-aprenda-a-manipular-dados-com-o-map-em-javascript-4g60)
 - [Dev.to/JS] [The motivation behind WebCrumbs in 16 images](https://dev.to/opensourcee/the-motivation-behind-webcrumbs-in-16-images-43dg)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 reasons why Tally.so is the best form tool](https://dev.to/guillaumeduhan/10-reasons-why-tallyso-is-the-best-form-tool-300b)
 - [Dev.to/JS] [Embed your forms with Tally.so](https://dev.to/guillaumeduhan/embed-your-forms-with-tallyso-38ip)
 - [Dev.to/JS] [How to Handle Forms in React](https://dev.to/sidramaqbool/how-to-handle-forms-in-react-4jml)
-- [Dev.to/JS] [Day 2: Built Cafe-Menu with Basics of CSS](https://dev.to/duke09/day-2-built-cafe-menu-with-basics-of-css-cec)
-- [Dev.to/JS] [❄️ An Intro to Server Components in React](https://dev.to/refine/an-intro-to-server-components-in-react-192k)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Set Up Profiles in Safari](https://lifehacker.com/how-to-use-profiles-in-safari-1850906118)
 - [Lifehacker] [Where to Stream the LSU Vs. Missouri Game](https://lifehacker.com/where-to-watch-the-lsu-vs-missouri-game-1850905184)
 - [Lifehacker] [You Can Officially Stop Your iPhone 15 Pro From Overheating](https://lifehacker.com/iphone-15-pro-overheating-1850891798)
-- [Lifehacker] [You Can Get Five Years of AdGuard VPN for $40 Right Now](https://lifehacker.com/you-can-get-five-years-of-adguard-vpn-for-40-right-now-1850891907)
-- [Lifehacker] [The 23 Gayest Horror Movies Ever Made](https://lifehacker.com/the-23-gayest-horror-movies-ever-made-1850902784)
-- [Lifehacker] [These New Arc Al Features Will Change How You Browse the Internet](https://lifehacker.com/these-new-arc-al-features-will-change-how-you-browse-th-1850905895)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Five Years of AdGuard VPN for $40 Right Now](https://lifehacker.com/you-can-get-five-years-of-adguard-vpn-for-40-right-now-1850891907)<!-- TECH-POSTS:END -->
 
 ---
 
