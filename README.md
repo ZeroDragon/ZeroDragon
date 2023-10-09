@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Embed your forms with Tally.so](https://dev.to/guillaumeduhan/embed-your-forms-with-tallyso-38ip)
+- [Dev.to/JS] [How to Handle Forms in React](https://dev.to/sidramaqbool/how-to-handle-forms-in-react-4jml)
+- [Dev.to/JS] [Day 2: Built Cafe-Menu with Basics of CSS](https://dev.to/duke09/day-2-built-cafe-menu-with-basics-of-css-cec)
 - [Dev.to/JS] [❄️ An Intro to Server Components in React](https://dev.to/refine/an-intro-to-server-components-in-react-192k)
 - [Dev.to/JS] [Boosting React App with Custom Hook : useOnScreen](https://dev.to/brdnicolas/boosting-react-app-with-custom-hook-useonscreen-ojh)
 - [Dev.to/JS] [Mastering Angular Lazy Loading: A Comprehensive Guide](https://dev.to/chintanonweb/mastering-angular-lazy-loading-a-comprehensive-guide-345b)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hacktoberfest: PR #2](https://dev.to/omalk98/hacktoberfest-pr-2-56n0)
 - [Dev.to/JS] [The journey](https://dev.to/mikecruzm/the-journey-k38)
 - [Dev.to/JS] [Beginners introduction to React](https://dev.to/bernicenj21/beginners-introduction-to-react-ml)
-- [Dev.to/JS] [JavaScript Magic Tricks: Code Minification &amp; Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-code-minification-encryption-4297)
-- [Dev.to/JS] [Elevate Your Website&#39;s Image Carousel with Owl Carousel Two, Elevated Zoom, and Fancybox Integration](https://dev.to/sammulla47/elevate-your-websites-image-carousel-with-owl-carousel-two-elevated-zoom-and-fancybox-integration-5d87)
-- [Dev.to/JS] [Elevate Your Website&#39;s Image Carousel with Owl Carousel Two, Elevated Zoom, and Fancybox Integration](https://dev.to/sammulla47/elevate-your-websites-image-carousel-with-owl-carousel-two-elevated-zoom-and-fancybox-integration-4n11)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
