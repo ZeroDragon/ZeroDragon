@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React’s useEffect and useState Hooks](https://dev.to/vikran7_pa7el_/reacts-useeffect-and-usestate-hooks-gld)
+- [Dev.to/JS] [What is a String and why is it important in JavaScript.](https://dev.to/cravencraven/what-is-a-string-and-why-is-it-important-in-javascript-m0p)
 - [Dev.to/JS] [JavaScript &amp; TypeScript: How to Use Functions Inside Five](https://dev.to/domfive/javascript-typescript-how-to-use-functions-inside-five-3c54)
 - [Dev.to/JS] [Make a guess the number game with JavaScript!](https://dev.to/alexmbeasley/make-a-guess-the-number-game-with-javascript-143l)
 - [Dev.to/JS] [Error Handling in JavaScript: The Magical Shields and Barriers](https://dev.to/init_chandan/error-handling-in-js-the-magical-shields-and-barriers-ee8)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Cool CodePen Demos &lpar;September 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-september-2023-2pk)
 - [Dev.to/JS] [Yopmail: Disposable Email - Your Ultimate Solution](https://dev.to/bondxeber/yopmail-disposable-email-your-ultimate-solution-a7o)
 - [Dev.to/JS] [Adding a chat room to any app with one line of code](https://dev.to/jeremyckahn/adding-free-anonymous-chat-to-any-web-with-one-line-of-code-44l7)
-- [Dev.to/JS] [S3 File Upload in Node.js and React - Setting Up Node.js App](https://dev.to/umakantv/s3-file-upload-in-nodejs-and-react-setting-up-nodejs-app-15mk)
-- [Dev.to/JS] [Hire a hacker for WhatsApp](https://dev.to/john_batista/hire-a-hacker-for-whatsapp-hcf)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
