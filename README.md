@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Gmail Archives Should Be More Organized](https://lifehacker.com/your-gmail-archives-should-be-more-organized-1850912212)
+- [Dev.to/JS] [AdonisJS v6 - One Step Closer to the Release](https://dev.to/adonisframework/adonisjs-v6-one-step-closer-to-the-release-306b)
+- [Dev.to/JS] [My simplest-to-do application powered by AI in 2023 in 4 steps](https://dev.to/shreyvijayvargiya/my-simplest-to-do-application-powered-by-ai-in-2023-in-4-steps-1oeh)
+- [Dev.to/JS] [Visualize Bubble Sort Algorithm using SVG](https://dev.to/rmmgc/visualize-bubble-sort-algorithm-using-svg-2n16)
 - [Lifehacker] [This Lenovo ThinkPad Is 55% Off With a Limited Time Coupon](https://lifehacker.com/this-lenovo-thinkpad-is-55-off-with-a-limited-time-cou-1850912317)
 - [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Before Prime Big Deal Days](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
 - [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 6&rpar; - Creating a body-parser middleware](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-6-creating-a-body-parser-middleware-15e7)
@@ -42,12 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrando IA com Mapas para geração de Localizações](https://dev.to/nodebr/integrando-ia-com-mapas-para-geracao-de-localizacoes-411p)
 - [Lifehacker] [Use Productivity &#39;Sprints&#39; When Your Attention Span Is Low](https://lifehacker.com/how-to-use-sprints-productivity-method-1850911750)
 - [Lifehacker] [These Office Chairs Are up to 66% Off at Woot](https://lifehacker.com/these-office-chairs-are-up-to-66-off-at-woot-1850911711)
-- [Dev.to/JS] [I made a C++ version of console.log&lpar;&rpar;](https://dev.to/philip82148/i-made-a-c-version-of-consolelog-o88)
-- [Dev.to/JS] [Speed up your React application](https://dev.to/marcin_codes/speed-up-your-react-application-55m8)
 - [Lifehacker] [The 40 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)
 - [Lifehacker] [These Are All the New Accessibility Features in iOS 17](https://lifehacker.com/these-are-all-the-new-accessibility-features-in-ios-17-1850911314)
 - [Lifehacker] [You Should Winterize Your E-Bike Now](https://lifehacker.com/you-should-winterize-your-e-bike-now-1850911208)
-- [Dev.to/JS] [Ruby vs. JavaScript](https://dev.to/jshep23prog/ruby-vs-javascript-2gae)
 - [Lifehacker] [Medical Credit Cards Are a Bad Idea, Actually](https://lifehacker.com/medical-credit-cards-are-a-bad-idea-actually-1850910748)
 - [Lifehacker] [Use the Earbuds App to Share Songs Between Spotify and Apple Music](https://lifehacker.com/use-the-earbuds-app-to-share-songs-between-spotify-and-1850911135)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Throw Away Your COVID Vaccine Card Now](https://lifehacker.com/you-can-throw-away-your-covid-vaccine-card-now-1850907656)
 - [Lifehacker] [Meredith&#39;s Training Diary: My Favorite Way to Fuel for a Marathon](https://lifehacker.com/what-to-eat-before-and-during-a-marathon-1850907648)
 - [Lifehacker] [These Email Templates Make Inbox Management so Much Easier](https://lifehacker.com/these-email-templates-make-inbox-management-so-much-eas-1850907511)
-- [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
-- [Lifehacker] [You Can Get Flux 7 Earbuds on Sale for $23 Right Now](https://lifehacker.com/you-can-get-flux-7-earbuds-on-sale-for-23-right-now-1850899669)<!-- TECH-POSTS:END -->
+- [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)<!-- TECH-POSTS:END -->
 
 ---
 
