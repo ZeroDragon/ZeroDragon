@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
+- [Dev.to/JS] [Building a RESTful Minimal API with .NET Core 7](https://dev.to/moesif/building-a-restful-minimal-api-with-net-core-7-g6j)
+- [Lifehacker] [Get $50 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
+- [Dev.to/JS] [Rebuilding Isometric World](https://dev.to/sheunglaili/rebuilding-isometric-world-5dm1)
 - [Lifehacker] [How to Make Your Own AI &#39;90s Yearbook Photo](https://lifehacker.com/how-to-make-your-own-ai-90s-yearbook-photo-1850912877)
 - [Dev.to/JS] [Supercharge Your Svelte: Top Tips for Clean Code](https://dev.to/uncle_ben/supercharge-your-svelte-top-tips-for-clean-code-51kh)
 - [Lifehacker] [Make a Quick Chicken Stock in Your Microwave](https://lifehacker.com/microwave-chicken-stock-recipe-1850912504)
@@ -44,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-3n11)
 - [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-13an)
 - [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-3p30)
-- [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-m1o)
-- [Dev.to/JS] [Retrieve SSL Certificate Details with a Single API Call!](https://dev.to/rahulmukati/retrieve-ssl-certificate-details-with-a-single-api-call-14h8)
 - [Lifehacker] [Regularly Check These Items in Your Home to Stay Safe](https://lifehacker.com/regularly-check-these-items-in-your-home-to-stay-safe-1850911784)
 - [Lifehacker] [It&#39;s Time to Get Wood Chips for Your Yard](https://lifehacker.com/its-time-to-get-wood-chips-for-your-yard-1850911759)
 - [Lifehacker] [Use Productivity &#39;Sprints&#39; When Your Attention Span Is Low](https://lifehacker.com/how-to-use-sprints-productivity-method-1850911750)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
 - [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
 - [Lifehacker] [When to Expect the First Frost in Your Area](https://lifehacker.com/when-to-expect-the-first-frost-in-your-area-1850903636)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)
-- [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
-- [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)<!-- TECH-POSTS:END -->
 
 ---
 
