@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automated release with Semantic Release and commitizen](https://dev.to/marksie1988/automated-release-with-semantic-release-and-commitizen-109m)
+- [Lifehacker] [You Get Get &#39;Long Colds&#39; and &#39;Long Flu,&#39; Too](https://lifehacker.com/long-colds-long-flu-versus-long-covid-1850912310)
+- [Lifehacker] [You Can Automatically Make Your iPhone Less Addicting at Bedtime](https://lifehacker.com/use-greyscale-make-your-phone-less-addicting-1850912330)
 - [Lifehacker] [Your Gmail Archives Should Be More Organized](https://lifehacker.com/your-gmail-archives-should-be-more-organized-1850912212)
 - [Dev.to/JS] [AdonisJS v6 - One Step Closer to the Release](https://dev.to/adonisframework/adonisjs-v6-one-step-closer-to-the-release-306b)
 - [Dev.to/JS] [My simplest-to-do application powered by AI in 2023 in 4 steps](https://dev.to/shreyvijayvargiya/my-simplest-to-do-application-powered-by-ai-in-2023-in-4-steps-1oeh)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Regularly Check These Items in Your Home to Stay Safe](https://lifehacker.com/regularly-check-these-items-in-your-home-to-stay-safe-1850911784)
 - [Lifehacker] [It&#39;s Time to Get Wood Chips for Your Yard](https://lifehacker.com/its-time-to-get-wood-chips-for-your-yard-1850911759)
 - [Dev.to/JS] [Stop Using Form Libraries Just to Validate HTML Forms](https://dev.to/nuxt-wimadev/stop-using-form-libraries-just-to-validate-html-forms-576p)
-- [Dev.to/JS] [Integrando IA com Mapas para geração de Localizações](https://dev.to/nodebr/integrando-ia-com-mapas-para-geracao-de-localizacoes-411p)
 - [Lifehacker] [Use Productivity &#39;Sprints&#39; When Your Attention Span Is Low](https://lifehacker.com/how-to-use-sprints-productivity-method-1850911750)
 - [Lifehacker] [These Office Chairs Are up to 66% Off at Woot](https://lifehacker.com/these-office-chairs-are-up-to-66-off-at-woot-1850911711)
 - [Lifehacker] [The 40 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Amazon Fire Tablets and Bundles Are Up to 50% Off Right Now](https://lifehacker.com/these-amazon-fire-tablets-and-bundles-are-up-to-50-off-1850908376)
 - [Lifehacker] [Use This Three-Step Method to Read More Critically](https://lifehacker.com/use-this-three-step-method-to-read-more-critically-1850907822)
 - [Lifehacker] [You Can Throw Away Your COVID Vaccine Card Now](https://lifehacker.com/you-can-throw-away-your-covid-vaccine-card-now-1850907656)
-- [Lifehacker] [Meredith&#39;s Training Diary: My Favorite Way to Fuel for a Marathon](https://lifehacker.com/what-to-eat-before-and-during-a-marathon-1850907648)
-- [Lifehacker] [These Email Templates Make Inbox Management so Much Easier](https://lifehacker.com/these-email-templates-make-inbox-management-so-much-eas-1850907511)
-- [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Meredith&#39;s Training Diary: My Favorite Way to Fuel for a Marathon](https://lifehacker.com/what-to-eat-before-and-during-a-marathon-1850907648)<!-- TECH-POSTS:END -->
 
 ---
 
