@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Eleventy and Storyblok — My perfect combination](https://dev.to/guaca/eleventy-and-storyblok-my-perfect-combination-42oe)
+- [Dev.to/JS] [Incremental Static Regeneration in Nuxt](https://dev.to/jacobandrewsky/incremental-static-regeneration-in-nuxt-3255)
+- [Dev.to/JS] [framework7- build ios, android styled apps with JavaScript](https://dev.to/heyraghab/framework7-build-ios-android-styled-apps-with-javascript-37l1)
+- [Dev.to/JS] [📬 TF #18 | Your weekly frontend digest 🗞️](https://dev.to/tech_foutraque/tf-18-your-weekly-frontend-digest-23c4)
+- [Dev.to/JS] [10 reasons why Tally.so is the best form tool](https://dev.to/guillaumeduhan/10-reasons-why-tallyso-is-the-best-form-tool-300b)
 - [Dev.to/JS] [Embed your forms with Tally.so](https://dev.to/guillaumeduhan/embed-your-forms-with-tallyso-38ip)
 - [Dev.to/JS] [How to Handle Forms in React](https://dev.to/sidramaqbool/how-to-handle-forms-in-react-4jml)
 - [Dev.to/JS] [Day 2: Built Cafe-Menu with Basics of CSS](https://dev.to/duke09/day-2-built-cafe-menu-with-basics-of-css-cec)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boosting React App with Custom Hook : useOnScreen](https://dev.to/brdnicolas/boosting-react-app-with-custom-hook-useonscreen-ojh)
 - [Dev.to/JS] [Mastering Angular Lazy Loading: A Comprehensive Guide](https://dev.to/chintanonweb/mastering-angular-lazy-loading-a-comprehensive-guide-345b)
 - [Dev.to/JS] [Enhance Web Application Performance with JavaScript Debouncing](https://dev.to/ghnshym/enhance-web-application-performance-with-javascript-debouncing-4ldp)
-- [Dev.to/JS] [Proxy Puzzle](https://dev.to/flash1105/proxy-puzzle-3pbf)
-- [Dev.to/JS] [How to Preview Images before Upload in React.js with textarea dynamically increasing Modal&#39;s height ♥](https://dev.to/delisrey/how-to-preview-images-before-upload-in-reactjs-with-textarea-dynamically-increasing-modals-height-4mj0)
-- [Dev.to/JS] [Hacktoberfest: PR #2](https://dev.to/omalk98/hacktoberfest-pr-2-56n0)
-- [Dev.to/JS] [The journey](https://dev.to/mikecruzm/the-journey-k38)
-- [Dev.to/JS] [Beginners introduction to React](https://dev.to/bernicenj21/beginners-introduction-to-react-ml)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
