@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hacktoberfest: PR #2](https://dev.to/omalk98/hacktoberfest-pr-2-56n0)
+- [Dev.to/JS] [The journey](https://dev.to/mikecruzm/the-journey-k38)
+- [Dev.to/JS] [Beginners introduction to React](https://dev.to/bernicenj21/beginners-introduction-to-react-ml)
 - [Dev.to/JS] [JavaScript Magic Tricks: Code Minification &amp; Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-code-minification-encryption-4297)
 - [Dev.to/JS] [Elevate Your Website&#39;s Image Carousel with Owl Carousel Two, Elevated Zoom, and Fancybox Integration](https://dev.to/sammulla47/elevate-your-websites-image-carousel-with-owl-carousel-two-elevated-zoom-and-fancybox-integration-5d87)
 - [Dev.to/JS] [Elevate Your Website&#39;s Image Carousel with Owl Carousel Two, Elevated Zoom, and Fancybox Integration](https://dev.to/sammulla47/elevate-your-websites-image-carousel-with-owl-carousel-two-elevated-zoom-and-fancybox-integration-4n11)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is a String and why is it important in JavaScript.](https://dev.to/cravencraven/what-is-a-string-and-why-is-it-important-in-javascript-m0p)
 - [Dev.to/JS] [JavaScript &amp; TypeScript: How to Use Functions Inside Five](https://dev.to/domfive/javascript-typescript-how-to-use-functions-inside-five-3c54)
 - [Dev.to/JS] [Make a guess the number game with JavaScript!](https://dev.to/alexmbeasley/make-a-guess-the-number-game-with-javascript-143l)
-- [Dev.to/JS] [Error Handling in JavaScript: The Magical Shields and Barriers](https://dev.to/init_chandan/error-handling-in-js-the-magical-shields-and-barriers-ee8)
-- [Dev.to/JS] [Refactoring code, git rebase, squash, solving merge conflicts, and beyond](https://dev.to/soham-thaker/refactoring-code-git-rebase-squash-solving-merge-conflicts-and-beyond-1opb)
-- [Dev.to/JS] [The Mighty MutationObserver](https://dev.to/nicm42/the-mighty-mutationobserver-1oo4)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
