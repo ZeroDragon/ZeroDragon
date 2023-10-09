@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [❄️ An Intro to Server Components in React](https://dev.to/refine/an-intro-to-server-components-in-react-192k)
+- [Dev.to/JS] [Boosting React App with Custom Hook : useOnScreen](https://dev.to/brdnicolas/boosting-react-app-with-custom-hook-useonscreen-ojh)
+- [Dev.to/JS] [Mastering Angular Lazy Loading: A Comprehensive Guide](https://dev.to/chintanonweb/mastering-angular-lazy-loading-a-comprehensive-guide-345b)
 - [Dev.to/JS] [Enhance Web Application Performance with JavaScript Debouncing](https://dev.to/ghnshym/enhance-web-application-performance-with-javascript-debouncing-4ldp)
 - [Dev.to/JS] [Proxy Puzzle](https://dev.to/flash1105/proxy-puzzle-3pbf)
 - [Dev.to/JS] [How to Preview Images before Upload in React.js with textarea dynamically increasing Modal&#39;s height ♥](https://dev.to/delisrey/how-to-preview-images-before-upload-in-reactjs-with-textarea-dynamically-increasing-modals-height-4mj0)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Elevate Your Website&#39;s Image Carousel with Owl Carousel Two, Elevated Zoom, and Fancybox Integration](https://dev.to/sammulla47/elevate-your-websites-image-carousel-with-owl-carousel-two-elevated-zoom-and-fancybox-integration-5d87)
 - [Dev.to/JS] [Elevate Your Website&#39;s Image Carousel with Owl Carousel Two, Elevated Zoom, and Fancybox Integration](https://dev.to/sammulla47/elevate-your-websites-image-carousel-with-owl-carousel-two-elevated-zoom-and-fancybox-integration-4n11)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)
-- [Dev.to/JS] [Building an Interactive TikTok Live Game with Js](https://dev.to/northoniserhardt/building-an-interactive-tiktok-live-game-with-js-2g1m)
-- [Dev.to/JS] [Fetch API](https://dev.to/gisellec60/fetch-api-270j)
-- [Dev.to/JS] [React’s useEffect and useState Hooks](https://dev.to/vikran7_pa7el_/reacts-useeffect-and-usestate-hooks-gld)
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
