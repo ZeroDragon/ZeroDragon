@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Lenovo ThinkPad Is 55% Off With a Limited Time Coupon](https://lifehacker.com/this-lenovo-thinkpad-is-55-off-with-a-limited-time-cou-1850912317)
+- [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Before Prime Big Deal Days](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
 - [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 6&rpar; - Creating a body-parser middleware](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-6-creating-a-body-parser-middleware-15e7)
 - [Lifehacker] [The Best Way to Freeze and Reheat Rice](https://lifehacker.com/the-best-way-to-freeze-and-reheat-rice-1850871446)
 - [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-1ic3)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meredith&#39;s Training Diary: My Favorite Way to Fuel for a Marathon](https://lifehacker.com/what-to-eat-before-and-during-a-marathon-1850907648)
 - [Lifehacker] [These Email Templates Make Inbox Management so Much Easier](https://lifehacker.com/these-email-templates-make-inbox-management-so-much-eas-1850907511)
 - [Lifehacker] [That Amazon &#39;Deal&#39; Might Actually Be a Hidden Price Hike](https://lifehacker.com/that-amazon-deal-might-actually-be-a-hidden-price-hike-1849649849)
-- [Lifehacker] [You Can Get Flux 7 Earbuds on Sale for $23 Right Now](https://lifehacker.com/you-can-get-flux-7-earbuds-on-sale-for-23-right-now-1850899669)
-- [Lifehacker] [Here’s Everything You Have to Look Forward to in Android 14](https://lifehacker.com/android-14-best-new-features-1850907386)
-- [Lifehacker] [This Tech Brand Will Get the Biggest Discounts During Prime Big Deal Days](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Flux 7 Earbuds on Sale for $23 Right Now](https://lifehacker.com/you-can-get-flux-7-earbuds-on-sale-for-23-right-now-1850899669)<!-- TECH-POSTS:END -->
 
 ---
 
