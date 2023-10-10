@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Peloton Bike for 24% Off Today](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
+- [Lifehacker] [The Eufy G20 Robot Vacuum Is 43% Off for Prime Big Deal Days](https://lifehacker.com/the-eufy-g20-robot-vacuum-is-43-off-for-prime-big-deal-1850913723)
+- [Dev.to/JS] [RELIABLE HACKER](https://dev.to/catrionabath14/reliable-hacker-1ak6)
+- [Dev.to/JS] [Controlled Components Make No Sense](https://dev.to/vlence/controlled-components-make-no-sense-jbm)
+- [Dev.to/JS] [💥 Docker Volumes](https://dev.to/refine/docker-volumes-3lk8)
+- [Lifehacker] [Keep a Baguette in the Freezer for Easy Entertaining](https://lifehacker.com/keep-a-baguette-in-the-freezer-for-easy-entertaining-1850912727)
 - [Lifehacker] [The Best Deals on Android Tablets During Prime Big Deal Days](https://lifehacker.com/the-best-deals-on-android-tablets-during-prime-big-deal-1850913025)
 - [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [Beats Headphones Are up to 45% Off During Prime Big Deal Days](https://lifehacker.com/beats-headphones-are-up-to-45-off-during-prime-big-dea-1850912551)
@@ -38,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implement Google Auth with AWS Lambda and Supabase in 30 minutes](https://dev.to/slsbytheodo/implement-google-auth-with-aws-lambda-and-supabase-in-30-minutes-p15)
 - [Dev.to/JS] [Day 3: Learning Colors, by building colored markers](https://dev.to/duke09/day-3-learning-colors-by-building-colored-markers-5hj7)
 - [Dev.to/JS] [Microfrontends and microservices](https://dev.to/opensourcee/microfrontends-and-microservices-3k2l)
-- [Lifehacker] [The Best &#39;Prime Big Deal Days&#39; Deals for Toys](https://lifehacker.com/the-best-prime-day-deals-for-toys-1850906701)
+- [Lifehacker] [The Best Prime Big Deal Days Deals for Toys](https://lifehacker.com/the-best-prime-day-deals-for-toys-1850906701)
 - [Dev.to/JS] [3D parallax effect by moving mouse using HTML/CSS](https://dev.to/webdiscus/3d-parallax-effect-by-moving-mouse-using-htmlcss-7b2)
-- [Dev.to/JS] [How to deploy Full Stack Amazon Clone with Next.js, Tailwind CSS, Zustand, and Nest.js on Aptible](https://dev.to/kishansheth/how-to-deploy-full-stack-amazon-clone-with-nextjs-tailwind-css-zustand-and-nestjs-on-aptible-4i2j)
-- [Dev.to/JS] [Matt Mullenweg: the visionary behind WordPress](https://dev.to/opensourcee/meet-matt-mullenweg-the-visionary-behind-wordpress-ho6)
-- [Dev.to/JS] [Webscraping using Playwright](https://dev.to/rickynyairo/webscraping-using-playwright-18d1)
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
 - [Lifehacker] [How to Make Your Own AI &#39;90s Yearbook Photo](https://lifehacker.com/how-to-make-your-own-ai-90s-yearbook-photo-1850912877)
 - [Lifehacker] [Make a Quick Chicken Stock in Your Microwave](https://lifehacker.com/microwave-chicken-stock-recipe-1850912504)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Medical Credit Cards Are a Bad Idea, Actually](https://lifehacker.com/medical-credit-cards-are-a-bad-idea-actually-1850910748)
 - [Lifehacker] [Use the Earbuds App to Share Songs Between Spotify and Apple Music](https://lifehacker.com/use-the-earbuds-app-to-share-songs-between-spotify-and-1850911135)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)
-- [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
-- [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
-- [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)<!-- TECH-POSTS:END -->
 
 ---
 
