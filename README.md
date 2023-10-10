@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You might need to know this about React...](https://dev.to/ragudos/you-might-need-to-know-this-about-react-4df5)
+- [Dev.to/JS] [Does anyone else hate Jest?](https://dev.to/mistval/does-anyone-else-hate-jest-2279)
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
 - [Dev.to/JS] [Building a RESTful Minimal API with .NET Core 7](https://dev.to/moesif/building-a-restful-minimal-api-with-net-core-7-g6j)
 - [Lifehacker] [Get $50 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
@@ -46,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Freeze and Reheat Rice](https://lifehacker.com/the-best-way-to-freeze-and-reheat-rice-1850871446)
 - [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-1ic3)
 - [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-3n11)
-- [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-13an)
-- [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-3p30)
 - [Lifehacker] [Regularly Check These Items in Your Home to Stay Safe](https://lifehacker.com/regularly-check-these-items-in-your-home-to-stay-safe-1850911784)
 - [Lifehacker] [It&#39;s Time to Get Wood Chips for Your Yard](https://lifehacker.com/its-time-to-get-wood-chips-for-your-yard-1850911759)
 - [Lifehacker] [Use Productivity &#39;Sprints&#39; When Your Attention Span Is Low](https://lifehacker.com/how-to-use-sprints-productivity-method-1850911750)
