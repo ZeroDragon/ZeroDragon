@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s Hydration in SSR?](https://dev.to/lausuarez02/whats-hydration-in-ssr-o06)
+- [Lifehacker] [The Best Chromebook Deals for October Prime Day](https://lifehacker.com/the-best-chromebook-deals-for-october-prime-day-1850913907)
+- [Dev.to/JS] [Getting started with LangChainJS](https://dev.to/logrocket/getting-started-with-langchainjs-1jna)
+- [Dev.to/JS] [Bun.js e Deno.js: uma comparação detalhada](https://dev.to/mfortunat0/bunjs-e-denojs-uma-comparacao-detalhada-4c1)
+- [Dev.to/JS] [Michael Kerr&#39;s Culture Leadership Podcast. Interview with the Inspiring CEO Richard Blank.](https://dev.to/richard15050746/michael-kerrs-culture-leadership-podcast-interview-with-the-inspiring-ceo-richard-blank-mbe)
 - [Dev.to/JS] [Como Criar um Lead com a API do RD Station Marketing em JavaScript](https://dev.to/rd-station-community/como-criar-um-lead-com-a-api-do-rd-station-marketing-em-javascript-1hcl)
 - [Lifehacker] [You Can Get $90 Off This 1TB Xbox Storage Expansion Card](https://lifehacker.com/you-can-get-90-off-this-1tb-xbox-storage-expansion-car-1850914926)
 - [Dev.to/JS] [Letting Supabase Users Transcribe YouTube Videos](https://dev.to/isheanesu_dev/letting-supabase-users-transcribe-youtube-videos-1oei)
@@ -43,11 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Apple Watch SE Is $200 During October Prime Day](https://lifehacker.com/the-apple-watch-se-is-200-during-october-prime-day-1850913825)
 - [Dev.to/JS] [Simplifying Web Styling: A Guide to CSS-in-JS Libraries](https://dev.to/uiuxsatyam/simplifying-web-styling-a-guide-to-css-in-js-libraries-5h68)
 - [Lifehacker] [Samsung&#39;s Galaxy Book3 Pro Is $300 Off Right Now](https://lifehacker.com/samsungs-galaxy-book3-pro-is-300-off-right-now-1850914690)
-- [Dev.to/JS] [Profile Components: display social profiles in native web components](https://dev.to/scottnath/profile-components-display-social-profiles-in-native-web-components-49b2)
-- [Dev.to/JS] [Interactive forms with Alpine.js](https://dev.to/jairusjoer/interactive-forms-with-alpinejs-3o1h)
-- [Dev.to/JS] [The Pros and Cons of Blockchain Web Hosting](https://dev.to/tonypalm/the-pros-and-cons-of-blockchain-web-hosting-4jke)
 - [Lifehacker] [The Ryobi Storm Kit Is a Must-Have for Weather Emergencies](https://lifehacker.com/the-ryobi-storm-kit-is-a-must-have-for-weather-emergenc-1850913109)
-- [Dev.to/JS] [Stop Memory Leaks in JavaScript and Boost Your App&#39;s Performance!](https://dev.to/shriharimurali/stop-memory-leaks-in-javascript-and-boost-your-apps-performance-2144)
 - [Lifehacker] [Make This Fancy French Sauce Out of Butter and Water](https://lifehacker.com/beurre-monte-recipe-1850913038)
 - [Lifehacker] [The Eufy G20 Robot Vacuum Is 43% Off for Prime Big Deal Days](https://lifehacker.com/the-eufy-g20-robot-vacuum-is-43-off-for-prime-big-deal-1850913723)
 - [Lifehacker] [Keep a Baguette in the Freezer for Easy Entertaining](https://lifehacker.com/keep-a-baguette-in-the-freezer-for-easy-entertaining-1850912727)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Gmail Archives Should Be More Organized](https://lifehacker.com/your-gmail-archives-should-be-more-organized-1850912212)
 - [Lifehacker] [This Lenovo ThinkPad Is 55% Off With a Limited Time Coupon](https://lifehacker.com/this-lenovo-thinkpad-is-55-off-with-a-limited-time-cou-1850912317)
 - [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Before Prime Big Deal Days](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
-- [Lifehacker] [The Best Way to Freeze and Reheat Rice](https://lifehacker.com/the-best-way-to-freeze-and-reheat-rice-1850871446)
-- [Lifehacker] [Regularly Check These Items in Your Home to Stay Safe](https://lifehacker.com/regularly-check-these-items-in-your-home-to-stay-safe-1850911784)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Freeze and Reheat Rice](https://lifehacker.com/the-best-way-to-freeze-and-reheat-rice-1850871446)<!-- TECH-POSTS:END -->
 
 ---
 
