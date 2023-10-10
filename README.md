@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hii There 👋](https://dev.to/sonu8544/hii-there-1abd)
+- [Dev.to/JS] [ASP From the Trenches — Hey Bartender, Make It A Double!](https://dev.to/davidsabine/asp-from-the-trenches-hey-bartender-make-it-a-double-5em4)
 - [Dev.to/JS] [You might need to know this about React...](https://dev.to/ragudos/you-might-need-to-know-this-about-react-4df5)
 - [Dev.to/JS] [Does anyone else hate Jest?](https://dev.to/mistval/does-anyone-else-hate-jest-2279)
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
@@ -46,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Before Prime Big Deal Days](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
 - [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 6&rpar; - Creating a body-parser middleware](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-6-creating-a-body-parser-middleware-15e7)
 - [Lifehacker] [The Best Way to Freeze and Reheat Rice](https://lifehacker.com/the-best-way-to-freeze-and-reheat-rice-1850871446)
-- [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-1ic3)
-- [Dev.to/JS] [Power up your Sports Blog: Real-Time Basketball Highlights API aggregation guide](https://dev.to/sports_junkie/power-up-your-sports-blog-real-time-basketball-highlights-api-aggregation-guide-3n11)
 - [Lifehacker] [Regularly Check These Items in Your Home to Stay Safe](https://lifehacker.com/regularly-check-these-items-in-your-home-to-stay-safe-1850911784)
 - [Lifehacker] [It&#39;s Time to Get Wood Chips for Your Yard](https://lifehacker.com/its-time-to-get-wood-chips-for-your-yard-1850911759)
 - [Lifehacker] [Use Productivity &#39;Sprints&#39; When Your Attention Span Is Low](https://lifehacker.com/how-to-use-sprints-productivity-method-1850911750)
