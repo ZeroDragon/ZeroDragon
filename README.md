@@ -26,8 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tauri: 10 Minute Docs Audits](https://dev.to/documentwrites/tauri-10-minute-docs-audits-7p9)
 - [Dev.to/JS] [Hii There 👋](https://dev.to/sonu8544/hii-there-1abd)
-- [Dev.to/JS] [ASP From the Trenches — Hey Bartender, Make It A Double!](https://dev.to/davidsabine/asp-from-the-trenches-hey-bartender-make-it-a-double-5em4)
 - [Dev.to/JS] [You might need to know this about React...](https://dev.to/ragudos/you-might-need-to-know-this-about-react-4df5)
 - [Dev.to/JS] [Does anyone else hate Jest?](https://dev.to/mistval/does-anyone-else-hate-jest-2279)
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
