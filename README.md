@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Apple Watch SE Is $200 During October Prime Day](https://lifehacker.com/the-apple-watch-se-is-200-during-october-prime-day-1850913825)
+- [Dev.to/JS] [Simplifying Web Styling: A Guide to CSS-in-JS Libraries](https://dev.to/uiuxsatyam/simplifying-web-styling-a-guide-to-css-in-js-libraries-5h68)
 - [Lifehacker] [Samsung&#39;s Galaxy Book3 Pro Is $300 Off Right Now](https://lifehacker.com/samsungs-galaxy-book3-pro-is-300-off-right-now-1850914690)
 - [Dev.to/JS] [Profile Components: display social profiles in native web components](https://dev.to/scottnath/profile-components-display-social-profiles-in-native-web-components-49b2)
 - [Dev.to/JS] [Interactive forms with Alpine.js](https://dev.to/jairusjoer/interactive-forms-with-alpinejs-3o1h)
@@ -46,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [Beats Headphones Are up to 45% Off During Prime Big Deal Days](https://lifehacker.com/beats-headphones-are-up-to-45-off-during-prime-big-dea-1850912551)
 - [Dev.to/JS] [Episode: 23/40: Angular&#39;s Future, Functional Components, Stable Signals](https://dev.to/this-is-angular/episode-2340-angulars-future-functional-components-stable-signals-14k4)
-- [Dev.to/JS] [What is Embedding? Generating Embedding using Supabase](https://dev.to/surajondev/what-is-embedding-generating-embedding-using-supabase-4pnl)
 - [Lifehacker] [The Best Way to Save Your Own Seeds](https://lifehacker.com/the-best-way-to-save-your-own-seeds-1850910586)
 - [Lifehacker] [The Best Prime Big Deal Days Deals for Toys](https://lifehacker.com/the-best-prime-day-deals-for-toys-1850906701)
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Office Chairs Are up to 66% Off at Woot](https://lifehacker.com/these-office-chairs-are-up-to-66-off-at-woot-1850911711)
 - [Lifehacker] [The 40 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)
 - [Lifehacker] [These Are All the New Accessibility Features in iOS 17](https://lifehacker.com/these-are-all-the-new-accessibility-features-in-ios-17-1850911314)
-- [Lifehacker] [You Should Winterize Your E-Bike Now](https://lifehacker.com/you-should-winterize-your-e-bike-now-1850911208)
-- [Lifehacker] [Medical Credit Cards Are a Bad Idea, Actually](https://lifehacker.com/medical-credit-cards-are-a-bad-idea-actually-1850910748)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Winterize Your E-Bike Now](https://lifehacker.com/you-should-winterize-your-e-bike-now-1850911208)<!-- TECH-POSTS:END -->
 
 ---
 
