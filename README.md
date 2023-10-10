@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Manage State in Astro and Svelte.](https://dev.to/cuadroscode/how-to-manage-state-in-astro-and-svelte-jen)
+- [Dev.to/JS] [What is the best front-end javascript framework: Angular, React, or Vue?](https://dev.to/adaeze123_/what-is-the-best-front-end-javascript-framework-angular-react-or-vue-3e3n)
+- [Dev.to/JS] [How to study programming correctly?](https://dev.to/ricka-dev/how-to-study-programming-correctly-4f95)
+- [Dev.to/JS] [JavaScript Magic Tricks: From Lexical Analysis to Confusing Encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-from-lexical-analysis-to-confusing-encryption-5ggf)
 - [Dev.to/JS] [Tauri: 10 Minute Docs Audits](https://dev.to/documentwrites/tauri-10-minute-docs-audits-7p9)
 - [Dev.to/JS] [Hii There 👋](https://dev.to/sonu8544/hii-there-1abd)
 - [Dev.to/JS] [You might need to know this about React...](https://dev.to/ragudos/you-might-need-to-know-this-about-react-4df5)
@@ -41,12 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get &#39;Long Colds&#39; and &#39;Long Flu,&#39; Too](https://lifehacker.com/long-colds-long-flu-versus-long-covid-1850912310)
 - [Lifehacker] [You Can Automatically Make Your iPhone Less Addicting at Bedtime](https://lifehacker.com/use-greyscale-make-your-phone-less-addicting-1850912330)
 - [Lifehacker] [Your Gmail Archives Should Be More Organized](https://lifehacker.com/your-gmail-archives-should-be-more-organized-1850912212)
-- [Dev.to/JS] [AdonisJS v6 - One Step Closer to the Release](https://dev.to/adonisframework/adonisjs-v6-one-step-closer-to-the-release-306b)
-- [Dev.to/JS] [My simplest-to-do application powered by AI in 2023 in 4 steps](https://dev.to/shreyvijayvargiya/my-simplest-to-do-application-powered-by-ai-in-2023-in-4-steps-1oeh)
-- [Dev.to/JS] [Visualize Bubble Sort Algorithm using SVG](https://dev.to/rmmgc/visualize-bubble-sort-algorithm-using-svg-2n16)
 - [Lifehacker] [This Lenovo ThinkPad Is 55% Off With a Limited Time Coupon](https://lifehacker.com/this-lenovo-thinkpad-is-55-off-with-a-limited-time-cou-1850912317)
 - [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Before Prime Big Deal Days](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
-- [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 6&rpar; - Creating a body-parser middleware](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-6-creating-a-body-parser-middleware-15e7)
 - [Lifehacker] [The Best Way to Freeze and Reheat Rice](https://lifehacker.com/the-best-way-to-freeze-and-reheat-rice-1850871446)
 - [Lifehacker] [Regularly Check These Items in Your Home to Stay Safe](https://lifehacker.com/regularly-check-these-items-in-your-home-to-stay-safe-1850911784)
 - [Lifehacker] [It&#39;s Time to Get Wood Chips for Your Yard](https://lifehacker.com/its-time-to-get-wood-chips-for-your-yard-1850911759)
