@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Beats Headphones Are up to 45% Off During Prime Big Deal Days](https://lifehacker.com/beats-headphones-are-up-to-45-off-during-prime-big-dea-1850912551)
+- [Dev.to/JS] [Episode: 23/40: Angular&#39;s Future, Functional Components, Stable Signals](https://dev.to/this-is-angular/episode-2340-angulars-future-functional-components-stable-signals-14k4)
+- [Dev.to/JS] [What is Embedding? Generating Embedding using Supabase](https://dev.to/surajondev/what-is-embedding-generating-embedding-using-supabase-4pnl)
+- [Dev.to/JS] [worker wanted](https://dev.to/psearch/worker-wanted-4mpa)
+- [Dev.to/JS] [VueJS part 7: Lifecycle methods](https://dev.to/hi_iam_chris/vuejs-part-7-lifecycle-methods-35fp)
+- [Lifehacker] [The Best Way to Save Your Own Seeds](https://lifehacker.com/the-best-way-to-save-your-own-seeds-1850910586)
+- [Dev.to/JS] [How to Fix ‘Adjacent JSX elements must be wrapped in an enclosing tag’](https://dev.to/reactjsguru/how-to-fix-adjacent-jsx-elements-must-be-wrapped-in-an-enclosing-tag-gf7)
+- [Dev.to/JS] [Implement Google Auth with AWS Lambda and Supabase in 30 minutes](https://dev.to/slsbytheodo/implement-google-auth-with-aws-lambda-and-supabase-in-30-minutes-p15)
+- [Dev.to/JS] [Day 3: Learning Colors, by building colored markers](https://dev.to/duke09/day-3-learning-colors-by-building-colored-markers-5hj7)
+- [Dev.to/JS] [Microfrontends and microservices](https://dev.to/opensourcee/microfrontends-and-microservices-3k2l)
+- [Lifehacker] [The Best &#39;Prime Big Deal Days&#39; Deals for Toys](https://lifehacker.com/the-best-prime-day-deals-for-toys-1850906701)
 - [Dev.to/JS] [3D parallax effect by moving mouse using HTML/CSS](https://dev.to/webdiscus/3d-parallax-effect-by-moving-mouse-using-htmlcss-7b2)
 - [Dev.to/JS] [How to deploy Full Stack Amazon Clone with Next.js, Tailwind CSS, Zustand, and Nest.js on Aptible](https://dev.to/kishansheth/how-to-deploy-full-stack-amazon-clone-with-nextjs-tailwind-css-zustand-and-nestjs-on-aptible-4i2j)
 - [Dev.to/JS] [Matt Mullenweg: the visionary behind WordPress](https://dev.to/opensourcee/meet-matt-mullenweg-the-visionary-behind-wordpress-ho6)
 - [Dev.to/JS] [Webscraping using Playwright](https://dev.to/rickynyairo/webscraping-using-playwright-18d1)
-- [Dev.to/JS] [Buy Verified Binance Account](https://dev.to/binancewyt3/buy-verified-binance-account-2hk6)
-- [Dev.to/JS] [Verified Cash App Account](https://dev.to/binancewyt3/verified-cash-app-account-4p09)
-- [Dev.to/JS] [HTML Canvas cheat sheet](https://dev.to/hoanganhlam/html-canvas-cheat-sheet-3op3)
-- [Dev.to/JS] [Imlie Full Episode](https://dev.to/imliedesitv1/imlie-full-episode-1l9a)
-- [Dev.to/JS] [Prodentim - Results, Reviews, Price, Uses &amp; Where To Buy?](https://dev.to/vdsakhtba/prodentim-results-reviews-price-uses-where-to-buy-53l4)
-- [Dev.to/JS] [Decoding Server-Side Rendering: Boosting Web Performance and SEO Description](https://dev.to/eneaslari/decoding-server-side-rendering-boosting-web-performance-and-seo-description-2apj)
-- [Dev.to/JS] [Creating a hackathon winning AI based app in a weekend using Supabase, OpenAI, &amp; Next.js](https://dev.to/asheeshh/creating-a-hackathon-winning-ai-based-app-in-a-weekend-using-supabase-openai-nextjs-2pe7)
-- [Dev.to/JS] [SyntaxHighlighter does not highlight the code block when used with ReactMarkdown](https://dev.to/muditchoudhary/syntaxhighlighter-does-not-highlight-the-code-block-when-used-with-reactmarkdown-5fa9)
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
 - [Lifehacker] [Get $50 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [How to Make Your Own AI &#39;90s Yearbook Photo](https://lifehacker.com/how-to-make-your-own-ai-90s-yearbook-photo-1850912877)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
-- [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)
-- [Lifehacker] [The Meanings Behind the Alerts You Hear on Planes](https://lifehacker.com/the-meanings-behind-the-alerts-you-hear-on-planes-1850903647)
-- [Lifehacker] [When to Expect the First Frost in Your Area](https://lifehacker.com/when-to-expect-the-first-frost-in-your-area-1850903636)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 7, 2023](https://lifehacker.com/nyt-connections-answer-today-october-7-2023-1850904847)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)<!-- TECH-POSTS:END -->
 
 ---
 
