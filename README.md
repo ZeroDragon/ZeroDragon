@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best iPad Deals During October Prime Day](https://lifehacker.com/the-best-ipad-deals-during-october-prime-day-1850914633)
+- [Dev.to/JS] [Titanium News #17](https://dev.to/miga/titanium-news-17-3cm8)
+- [Dev.to/JS] [A Guide to Creating a Platform like Flickapp &lpar;Part 2&rpar;](https://dev.to/akiola/a-guide-to-creating-a-platform-like-flickapp-part-2-3lgp)
+- [Dev.to/JS] [NodeWallet &lpar;projeto NodeJS de uma carteira virtual, usando Node+Express+Postgres&rpar;](https://dev.to/ramospedro1421/nodewallet-projeto-nodejs-de-uma-carteira-virtual-usando-nodeexpresspostgres-18hj)
+- [Lifehacker] [The Best MacBook Deals During October Prime Day](https://lifehacker.com/the-best-macbook-deals-during-october-prime-day-1850914484)
 - [Lifehacker] [The Apple Watch SE Is $200 During October Prime Day](https://lifehacker.com/the-apple-watch-se-is-200-during-october-prime-day-1850913825)
 - [Dev.to/JS] [Simplifying Web Styling: A Guide to CSS-in-JS Libraries](https://dev.to/uiuxsatyam/simplifying-web-styling-a-guide-to-css-in-js-libraries-5h68)
 - [Lifehacker] [Samsung&#39;s Galaxy Book3 Pro Is $300 Off Right Now](https://lifehacker.com/samsungs-galaxy-book3-pro-is-300-off-right-now-1850914690)
@@ -41,13 +46,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Peloton Bike for 24% Off Today](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
 - [Lifehacker] [The Eufy G20 Robot Vacuum Is 43% Off for Prime Big Deal Days](https://lifehacker.com/the-eufy-g20-robot-vacuum-is-43-off-for-prime-big-deal-1850913723)
 - [Dev.to/JS] [RELIABLE HACKER](https://dev.to/catrionabath14/reliable-hacker-1ak6)
-- [Dev.to/JS] [Controlled Components Make No Sense](https://dev.to/vlence/controlled-components-make-no-sense-jbm)
-- [Dev.to/JS] [💥 Docker Volumes](https://dev.to/refine/docker-volumes-3lk8)
 - [Lifehacker] [Keep a Baguette in the Freezer for Easy Entertaining](https://lifehacker.com/keep-a-baguette-in-the-freezer-for-easy-entertaining-1850912727)
 - [Lifehacker] [The Best Deals on Android Tablets During Prime Big Deal Days](https://lifehacker.com/the-best-deals-on-android-tablets-during-prime-big-deal-1850913025)
 - [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [Beats Headphones Are up to 45% Off During Prime Big Deal Days](https://lifehacker.com/beats-headphones-are-up-to-45-off-during-prime-big-dea-1850912551)
-- [Dev.to/JS] [Episode: 23/40: Angular&#39;s Future, Functional Components, Stable Signals](https://dev.to/this-is-angular/episode-2340-angulars-future-functional-components-stable-signals-14k4)
 - [Lifehacker] [The Best Way to Save Your Own Seeds](https://lifehacker.com/the-best-way-to-save-your-own-seeds-1850910586)
 - [Lifehacker] [The Best Prime Big Deal Days Deals for Toys](https://lifehacker.com/the-best-prime-day-deals-for-toys-1850906701)
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Time to Get Wood Chips for Your Yard](https://lifehacker.com/its-time-to-get-wood-chips-for-your-yard-1850911759)
 - [Lifehacker] [Use Productivity &#39;Sprints&#39; When Your Attention Span Is Low](https://lifehacker.com/how-to-use-sprints-productivity-method-1850911750)
 - [Lifehacker] [These Office Chairs Are up to 66% Off at Woot](https://lifehacker.com/these-office-chairs-are-up-to-66-off-at-woot-1850911711)
-- [Lifehacker] [The 40 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)
-- [Lifehacker] [These Are All the New Accessibility Features in iOS 17](https://lifehacker.com/these-are-all-the-new-accessibility-features-in-ios-17-1850911314)
-- [Lifehacker] [You Should Winterize Your E-Bike Now](https://lifehacker.com/you-should-winterize-your-e-bike-now-1850911208)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 40 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)<!-- TECH-POSTS:END -->
 
 ---
 
