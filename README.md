@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3D parallax effect by moving mouse using HTML/CSS](https://dev.to/webdiscus/3d-parallax-effect-by-moving-mouse-using-htmlcss-7b2)
 - [Dev.to/JS] [How to deploy Full Stack Amazon Clone with Next.js, Tailwind CSS, Zustand, and Nest.js on Aptible](https://dev.to/kishansheth/how-to-deploy-full-stack-amazon-clone-with-nextjs-tailwind-css-zustand-and-nestjs-on-aptible-4i2j)
 - [Dev.to/JS] [Matt Mullenweg: the visionary behind WordPress](https://dev.to/opensourcee/meet-matt-mullenweg-the-visionary-behind-wordpress-ho6)
 - [Dev.to/JS] [Webscraping using Playwright](https://dev.to/rickynyairo/webscraping-using-playwright-18d1)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Decoding Server-Side Rendering: Boosting Web Performance and SEO Description](https://dev.to/eneaslari/decoding-server-side-rendering-boosting-web-performance-and-seo-description-2apj)
 - [Dev.to/JS] [Creating a hackathon winning AI based app in a weekend using Supabase, OpenAI, &amp; Next.js](https://dev.to/asheeshh/creating-a-hackathon-winning-ai-based-app-in-a-weekend-using-supabase-openai-nextjs-2pe7)
 - [Dev.to/JS] [SyntaxHighlighter does not highlight the code block when used with ReactMarkdown](https://dev.to/muditchoudhary/syntaxhighlighter-does-not-highlight-the-code-block-when-used-with-reactmarkdown-5fa9)
-- [Dev.to/JS] [Track your variables: Watchers 👀](https://dev.to/dvalin99/track-your-variables-watchers-3j6c)
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
 - [Lifehacker] [Get $50 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [How to Make Your Own AI &#39;90s Yearbook Photo](https://lifehacker.com/how-to-make-your-own-ai-90s-yearbook-photo-1850912877)
