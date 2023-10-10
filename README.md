@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como Criar um Lead com a API do RD Station Marketing em JavaScript](https://dev.to/rd-station-community/como-criar-um-lead-com-a-api-do-rd-station-marketing-em-javascript-1hcl)
+- [Lifehacker] [You Can Get $90 Off This 1TB Xbox Storage Expansion Card](https://lifehacker.com/you-can-get-90-off-this-1tb-xbox-storage-expansion-car-1850914926)
+- [Dev.to/JS] [Letting Supabase Users Transcribe YouTube Videos](https://dev.to/isheanesu_dev/letting-supabase-users-transcribe-youtube-videos-1oei)
+- [Lifehacker] [You Can Get a Peloton Bike for 24% Off Today](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
+- [Dev.to/JS] [La programmation purement fonctionnelle](https://dev.to/ximaz/la-programmation-purement-fonctionnelle-5gok)
+- [Lifehacker] [These NordicTrack Treadmills Are 15% Off for October Prime Day](https://lifehacker.com/these-nordictrack-treadmills-are-15-off-for-october-pr-1850914396)
+- [Lifehacker] [These Sony Headphones Are $100 Off During October Prime Day](https://lifehacker.com/these-sony-headphones-are-100-off-during-october-prime-1850913257)
+- [Dev.to/JS] [Astro: 10 Minute Docs Audit](https://dev.to/documentwrites/astro-10-minute-docs-audit-3aep)
+- [Lifehacker] [The Best 4K TV Deals During October Prime Day](https://lifehacker.com/the-best-4k-tv-deals-during-october-prime-day-1850913259)
 - [Lifehacker] [The Best iPad Deals During October Prime Day](https://lifehacker.com/the-best-ipad-deals-during-october-prime-day-1850914633)
 - [Dev.to/JS] [Titanium News #17](https://dev.to/miga/titanium-news-17-3cm8)
 - [Dev.to/JS] [A Guide to Creating a Platform like Flickapp &lpar;Part 2&rpar;](https://dev.to/akiola/a-guide-to-creating-a-platform-like-flickapp-part-2-3lgp)
@@ -39,13 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Pros and Cons of Blockchain Web Hosting](https://dev.to/tonypalm/the-pros-and-cons-of-blockchain-web-hosting-4jke)
 - [Lifehacker] [The Ryobi Storm Kit Is a Must-Have for Weather Emergencies](https://lifehacker.com/the-ryobi-storm-kit-is-a-must-have-for-weather-emergenc-1850913109)
 - [Dev.to/JS] [Stop Memory Leaks in JavaScript and Boost Your App&#39;s Performance!](https://dev.to/shriharimurali/stop-memory-leaks-in-javascript-and-boost-your-apps-performance-2144)
-- [Dev.to/JS] [Tackle building a Rich Text Editor with Remirror and React](https://dev.to/ironcladdev/tackle-building-a-rich-text-editor-with-remirror-and-react-3205)
-- [Dev.to/JS] [If Headless is To Go Mainstream we Need to Dumb it Down](https://dev.to/alangleeson/if-headless-is-to-go-mainstream-we-need-to-dumb-it-down-33on)
 - [Lifehacker] [Make This Fancy French Sauce Out of Butter and Water](https://lifehacker.com/beurre-monte-recipe-1850913038)
-- [Dev.to/JS] [Reviving an ancient Meteor.js project in 10 minutes 🦖](https://dev.to/jankapunkt/reviving-an-ancient-meteorjs-project-in-10-minutes-30hl)
-- [Lifehacker] [You Can Get a Peloton Bike for 24% Off Today](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
 - [Lifehacker] [The Eufy G20 Robot Vacuum Is 43% Off for Prime Big Deal Days](https://lifehacker.com/the-eufy-g20-robot-vacuum-is-43-off-for-prime-big-deal-1850913723)
-- [Dev.to/JS] [RELIABLE HACKER](https://dev.to/catrionabath14/reliable-hacker-1ak6)
 - [Lifehacker] [Keep a Baguette in the Freezer for Easy Entertaining](https://lifehacker.com/keep-a-baguette-in-the-freezer-for-easy-entertaining-1850912727)
 - [Lifehacker] [The Best Deals on Android Tablets During Prime Big Deal Days](https://lifehacker.com/the-best-deals-on-android-tablets-during-prime-big-deal-1850913025)
 - [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Lenovo ThinkPad Is 55% Off With a Limited Time Coupon](https://lifehacker.com/this-lenovo-thinkpad-is-55-off-with-a-limited-time-cou-1850912317)
 - [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Before Prime Big Deal Days](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
 - [Lifehacker] [The Best Way to Freeze and Reheat Rice](https://lifehacker.com/the-best-way-to-freeze-and-reheat-rice-1850871446)
-- [Lifehacker] [Regularly Check These Items in Your Home to Stay Safe](https://lifehacker.com/regularly-check-these-items-in-your-home-to-stay-safe-1850911784)
-- [Lifehacker] [It&#39;s Time to Get Wood Chips for Your Yard](https://lifehacker.com/its-time-to-get-wood-chips-for-your-yard-1850911759)
-- [Lifehacker] [Use Productivity &#39;Sprints&#39; When Your Attention Span Is Low](https://lifehacker.com/how-to-use-sprints-productivity-method-1850911750)
-- [Lifehacker] [These Office Chairs Are up to 66% Off at Woot](https://lifehacker.com/these-office-chairs-are-up-to-66-off-at-woot-1850911711)
-- [Lifehacker] [The 40 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Regularly Check These Items in Your Home to Stay Safe](https://lifehacker.com/regularly-check-these-items-in-your-home-to-stay-safe-1850911784)<!-- TECH-POSTS:END -->
 
 ---
 
