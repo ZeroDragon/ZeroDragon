@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SyntaxHighlighter does not highlight the code block when used with ReactMarkdown](https://dev.to/muditchoudhary/syntaxhighlighter-does-not-highlight-the-code-block-when-used-with-reactmarkdown-5fa9)
+- [Dev.to/JS] [Track your variables: Watchers 👀](https://dev.to/dvalin99/track-your-variables-watchers-3j6c)
 - [Dev.to/JS] [JavaScript : Prototype and Inheritance &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-prototype-and-inheritance-englishhindi-dm0)
 - [Dev.to/JS] [Data Science Training in Chennai](https://dev.to/htopsoln326/data-science-training-in-chennai-224f)
 - [Dev.to/JS] [⭐️Kèo châu á – Tìm hiểu Kèo châu á và cách chơi](https://dev.to/88onlinemobicom/keo-chau-a-tim-hieu-keo-chau-a-va-cach-choi-3941)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tauri: 10 Minute Docs Audits](https://dev.to/documentwrites/tauri-10-minute-docs-audits-7p9)
 - [Dev.to/JS] [Hii There 👋](https://dev.to/sonu8544/hii-there-1abd)
 - [Dev.to/JS] [You might need to know this about React...](https://dev.to/ragudos/you-might-need-to-know-this-about-react-4df5)
-- [Dev.to/JS] [Does anyone else hate Jest?](https://dev.to/mistval/does-anyone-else-hate-jest-2279)
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
-- [Dev.to/JS] [Building a RESTful Minimal API with .NET Core 7](https://dev.to/moesif/building-a-restful-minimal-api-with-net-core-7-g6j)
 - [Lifehacker] [Get $50 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [How to Make Your Own AI &#39;90s Yearbook Photo](https://lifehacker.com/how-to-make-your-own-ai-90s-yearbook-photo-1850912877)
 - [Lifehacker] [Make a Quick Chicken Stock in Your Microwave](https://lifehacker.com/microwave-chicken-stock-recipe-1850912504)
