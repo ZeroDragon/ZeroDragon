@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Deals on Android Tablets During Prime Big Deal Days](https://lifehacker.com/the-best-deals-on-android-tablets-during-prime-big-deal-1850913025)
+- [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [Beats Headphones Are up to 45% Off During Prime Big Deal Days](https://lifehacker.com/beats-headphones-are-up-to-45-off-during-prime-big-dea-1850912551)
 - [Dev.to/JS] [Episode: 23/40: Angular&#39;s Future, Functional Components, Stable Signals](https://dev.to/this-is-angular/episode-2340-angulars-future-functional-components-stable-signals-14k4)
 - [Dev.to/JS] [What is Embedding? Generating Embedding using Supabase](https://dev.to/surajondev/what-is-embedding-generating-embedding-using-supabase-4pnl)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Matt Mullenweg: the visionary behind WordPress](https://dev.to/opensourcee/meet-matt-mullenweg-the-visionary-behind-wordpress-ho6)
 - [Dev.to/JS] [Webscraping using Playwright](https://dev.to/rickynyairo/webscraping-using-playwright-18d1)
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
-- [Lifehacker] [Get $50 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [How to Make Your Own AI &#39;90s Yearbook Photo](https://lifehacker.com/how-to-make-your-own-ai-90s-yearbook-photo-1850912877)
 - [Lifehacker] [Make a Quick Chicken Stock in Your Microwave](https://lifehacker.com/microwave-chicken-stock-recipe-1850912504)
 - [Lifehacker] [You Can Get &#39;Long Colds&#39; and &#39;Long Flu,&#39; Too](https://lifehacker.com/long-colds-long-flu-versus-long-covid-1850912310)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Reuse Your Old Kitchen Tools](https://lifehacker.com/the-best-ways-to-reuse-your-old-kitchen-tools-1850903539)
 - [Lifehacker] [Use Your Work Rivalry for Good](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
 - [Lifehacker] [Why You Shouldn&#39;t Top Off Your Gas Tank](https://lifehacker.com/why-you-shouldnt-top-off-your-gas-tank-1850903558)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)
-- [Lifehacker] [Avoid These Common Car Washing Mistakes](https://lifehacker.com/avoid-these-common-car-washing-mistakes-1850903613)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 8, 2023](https://lifehacker.com/nyt-connections-answer-today-october-8-2023-1850906425)<!-- TECH-POSTS:END -->
 
 ---
 
