@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Samsung&#39;s Galaxy Book3 Pro Is $300 Off Right Now](https://lifehacker.com/samsungs-galaxy-book3-pro-is-300-off-right-now-1850914690)
+- [Dev.to/JS] [Profile Components: display social profiles in native web components](https://dev.to/scottnath/profile-components-display-social-profiles-in-native-web-components-49b2)
+- [Dev.to/JS] [Interactive forms with Alpine.js](https://dev.to/jairusjoer/interactive-forms-with-alpinejs-3o1h)
+- [Dev.to/JS] [The Pros and Cons of Blockchain Web Hosting](https://dev.to/tonypalm/the-pros-and-cons-of-blockchain-web-hosting-4jke)
+- [Lifehacker] [The Ryobi Storm Kit Is a Must-Have for Weather Emergencies](https://lifehacker.com/the-ryobi-storm-kit-is-a-must-have-for-weather-emergenc-1850913109)
 - [Dev.to/JS] [Stop Memory Leaks in JavaScript and Boost Your App&#39;s Performance!](https://dev.to/shriharimurali/stop-memory-leaks-in-javascript-and-boost-your-apps-performance-2144)
 - [Dev.to/JS] [Tackle building a Rich Text Editor with Remirror and React](https://dev.to/ironcladdev/tackle-building-a-rich-text-editor-with-remirror-and-react-3205)
 - [Dev.to/JS] [If Headless is To Go Mainstream we Need to Dumb it Down](https://dev.to/alangleeson/if-headless-is-to-go-mainstream-we-need-to-dumb-it-down-33on)
@@ -42,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beats Headphones Are up to 45% Off During Prime Big Deal Days](https://lifehacker.com/beats-headphones-are-up-to-45-off-during-prime-big-dea-1850912551)
 - [Dev.to/JS] [Episode: 23/40: Angular&#39;s Future, Functional Components, Stable Signals](https://dev.to/this-is-angular/episode-2340-angulars-future-functional-components-stable-signals-14k4)
 - [Dev.to/JS] [What is Embedding? Generating Embedding using Supabase](https://dev.to/surajondev/what-is-embedding-generating-embedding-using-supabase-4pnl)
-- [Dev.to/JS] [worker wanted](https://dev.to/psearch/worker-wanted-4mpa)
-- [Dev.to/JS] [VueJS part 7: Lifecycle methods](https://dev.to/hi_iam_chris/vuejs-part-7-lifecycle-methods-35fp)
 - [Lifehacker] [The Best Way to Save Your Own Seeds](https://lifehacker.com/the-best-way-to-save-your-own-seeds-1850910586)
-- [Dev.to/JS] [How to Fix ‘Adjacent JSX elements must be wrapped in an enclosing tag’](https://dev.to/reactjsguru/how-to-fix-adjacent-jsx-elements-must-be-wrapped-in-an-enclosing-tag-gf7)
 - [Lifehacker] [The Best Prime Big Deal Days Deals for Toys](https://lifehacker.com/the-best-prime-day-deals-for-toys-1850906701)
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
 - [Lifehacker] [How to Make Your Own AI &#39;90s Yearbook Photo](https://lifehacker.com/how-to-make-your-own-ai-90s-yearbook-photo-1850912877)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 40 Best &#39;80s Movies You Can Stream Right Now](https://lifehacker.com/the-best-80s-movies-you-can-stream-right-now-1850909972)
 - [Lifehacker] [These Are All the New Accessibility Features in iOS 17](https://lifehacker.com/these-are-all-the-new-accessibility-features-in-ios-17-1850911314)
 - [Lifehacker] [You Should Winterize Your E-Bike Now](https://lifehacker.com/you-should-winterize-your-e-bike-now-1850911208)
-- [Lifehacker] [Medical Credit Cards Are a Bad Idea, Actually](https://lifehacker.com/medical-credit-cards-are-a-bad-idea-actually-1850910748)
-- [Lifehacker] [Use the Earbuds App to Share Songs Between Spotify and Apple Music](https://lifehacker.com/use-the-earbuds-app-to-share-songs-between-spotify-and-1850911135)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 9, 2023](https://lifehacker.com/nyt-connections-answer-today-october-9-2023-1850906560)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Medical Credit Cards Are a Bad Idea, Actually](https://lifehacker.com/medical-credit-cards-are-a-bad-idea-actually-1850910748)<!-- TECH-POSTS:END -->
 
 ---
 
