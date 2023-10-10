@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Apple AirPods Are $89 During October Prime Day](https://lifehacker.com/apple-airpods-are-89-during-october-prime-day-1850914902)
+- [Dev.to/JS] [Error handling in Express Server - NodeJS](https://dev.to/myepes82/error-handling-in-express-server-nodejs-44c)
+- [Lifehacker] [This Home Gym Equipment Generates Power While You Work Out](https://lifehacker.com/this-home-gym-equipment-generates-power-while-you-work-1850912243)
+- [Lifehacker] [The Best Deals on Pet Gear During October Prime Day](https://lifehacker.com/the-best-deals-on-pet-gear-during-october-prime-day-1850915127)
 - [Dev.to/JS] [What&#39;s Hydration in SSR?](https://dev.to/lausuarez02/whats-hydration-in-ssr-o06)
 - [Lifehacker] [The Best Chromebook Deals for October Prime Day](https://lifehacker.com/the-best-chromebook-deals-for-october-prime-day-1850913907)
 - [Dev.to/JS] [Getting started with LangChainJS](https://dev.to/logrocket/getting-started-with-langchainjs-1jna)
@@ -46,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NodeWallet &lpar;projeto NodeJS de uma carteira virtual, usando Node+Express+Postgres&rpar;](https://dev.to/ramospedro1421/nodewallet-projeto-nodejs-de-uma-carteira-virtual-usando-nodeexpresspostgres-18hj)
 - [Lifehacker] [The Best MacBook Deals During October Prime Day](https://lifehacker.com/the-best-macbook-deals-during-october-prime-day-1850914484)
 - [Lifehacker] [The Apple Watch SE Is $200 During October Prime Day](https://lifehacker.com/the-apple-watch-se-is-200-during-october-prime-day-1850913825)
-- [Dev.to/JS] [Simplifying Web Styling: A Guide to CSS-in-JS Libraries](https://dev.to/uiuxsatyam/simplifying-web-styling-a-guide-to-css-in-js-libraries-5h68)
 - [Lifehacker] [Samsung&#39;s Galaxy Book3 Pro Is $300 Off Right Now](https://lifehacker.com/samsungs-galaxy-book3-pro-is-300-off-right-now-1850914690)
 - [Lifehacker] [The Ryobi Storm Kit Is a Must-Have for Weather Emergencies](https://lifehacker.com/the-ryobi-storm-kit-is-a-must-have-for-weather-emergenc-1850913109)
 - [Lifehacker] [Make This Fancy French Sauce Out of Butter and Water](https://lifehacker.com/beurre-monte-recipe-1850913038)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Quick Chicken Stock in Your Microwave](https://lifehacker.com/microwave-chicken-stock-recipe-1850912504)
 - [Lifehacker] [You Can Get &#39;Long Colds&#39; and &#39;Long Flu,&#39; Too](https://lifehacker.com/long-colds-long-flu-versus-long-covid-1850912310)
 - [Lifehacker] [You Can Automatically Make Your iPhone Less Addicting at Bedtime](https://lifehacker.com/use-greyscale-make-your-phone-less-addicting-1850912330)
-- [Lifehacker] [Your Gmail Archives Should Be More Organized](https://lifehacker.com/your-gmail-archives-should-be-more-organized-1850912212)
-- [Lifehacker] [This Lenovo ThinkPad Is 55% Off With a Limited Time Coupon](https://lifehacker.com/this-lenovo-thinkpad-is-55-off-with-a-limited-time-cou-1850912317)
-- [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Before Prime Big Deal Days](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
-- [Lifehacker] [The Best Way to Freeze and Reheat Rice](https://lifehacker.com/the-best-way-to-freeze-and-reheat-rice-1850871446)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Gmail Archives Should Be More Organized](https://lifehacker.com/your-gmail-archives-should-be-more-organized-1850912212)<!-- TECH-POSTS:END -->
 
 ---
 
