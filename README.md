@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nx: Elevate monorepo to the next level](https://dev.to/furqanramzan/nx-elevate-monorepo-to-the-next-level-84b)
+- [Dev.to/JS] [Leveraging JavaScript for Common Search Operations](https://dev.to/frantchessico/leveraging-javascript-for-common-search-operations-4gc6)
+- [Lifehacker] [This Kasa Smart Power Strip Is 50% Off for October Prime Day](https://lifehacker.com/this-kasa-smart-power-strip-is-50-off-for-october-prim-1850913738)
+- [Dev.to/JS] [How do you define the main sections of a web page using HTML?](https://dev.to/matheushchaves/how-do-you-define-the-main-sections-of-a-web-page-using-html-253j)
+- [Dev.to/JS] [I&#39;ll see you after the Function.](https://dev.to/stuartbate/ill-see-you-after-the-function-4j35)
+- [Lifehacker] [The Echo Dot Is 54% Off for October Prime Day](https://lifehacker.com/the-best-prime-day-deals-on-smart-speakers-1850914061)
 - [Lifehacker] [Apple AirPods Are $89 During October Prime Day](https://lifehacker.com/apple-airpods-are-89-during-october-prime-day-1850914902)
 - [Dev.to/JS] [Error handling in Express Server - NodeJS](https://dev.to/myepes82/error-handling-in-express-server-nodejs-44c)
 - [Lifehacker] [This Home Gym Equipment Generates Power While You Work Out](https://lifehacker.com/this-home-gym-equipment-generates-power-while-you-work-1850912243)
@@ -42,12 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [La programmation purement fonctionnelle](https://dev.to/ximaz/la-programmation-purement-fonctionnelle-5gok)
 - [Lifehacker] [These NordicTrack Treadmills Are 15% Off for October Prime Day](https://lifehacker.com/these-nordictrack-treadmills-are-15-off-for-october-pr-1850914396)
 - [Lifehacker] [These Sony Headphones Are $100 Off During October Prime Day](https://lifehacker.com/these-sony-headphones-are-100-off-during-october-prime-1850913257)
-- [Dev.to/JS] [Astro: 10 Minute Docs Audit](https://dev.to/documentwrites/astro-10-minute-docs-audit-3aep)
 - [Lifehacker] [The Best 4K TV Deals During October Prime Day](https://lifehacker.com/the-best-4k-tv-deals-during-october-prime-day-1850913259)
 - [Lifehacker] [The Best iPad Deals During October Prime Day](https://lifehacker.com/the-best-ipad-deals-during-october-prime-day-1850914633)
-- [Dev.to/JS] [Titanium News #17](https://dev.to/miga/titanium-news-17-3cm8)
-- [Dev.to/JS] [A Guide to Creating a Platform like Flickapp &lpar;Part 2&rpar;](https://dev.to/akiola/a-guide-to-creating-a-platform-like-flickapp-part-2-3lgp)
-- [Dev.to/JS] [NodeWallet &lpar;projeto NodeJS de uma carteira virtual, usando Node+Express+Postgres&rpar;](https://dev.to/ramospedro1421/nodewallet-projeto-nodejs-de-uma-carteira-virtual-usando-nodeexpresspostgres-18hj)
 - [Lifehacker] [The Best MacBook Deals During October Prime Day](https://lifehacker.com/the-best-macbook-deals-during-october-prime-day-1850914484)
 - [Lifehacker] [The Apple Watch SE Is $200 During October Prime Day](https://lifehacker.com/the-apple-watch-se-is-200-during-october-prime-day-1850913825)
 - [Lifehacker] [Samsung&#39;s Galaxy Book3 Pro Is $300 Off Right Now](https://lifehacker.com/samsungs-galaxy-book3-pro-is-300-off-right-now-1850914690)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)
 - [Lifehacker] [How to Make Your Own AI &#39;90s Yearbook Photo](https://lifehacker.com/how-to-make-your-own-ai-90s-yearbook-photo-1850912877)
 - [Lifehacker] [Make a Quick Chicken Stock in Your Microwave](https://lifehacker.com/microwave-chicken-stock-recipe-1850912504)
-- [Lifehacker] [You Can Get &#39;Long Colds&#39; and &#39;Long Flu,&#39; Too](https://lifehacker.com/long-colds-long-flu-versus-long-covid-1850912310)
-- [Lifehacker] [You Can Automatically Make Your iPhone Less Addicting at Bedtime](https://lifehacker.com/use-greyscale-make-your-phone-less-addicting-1850912330)
-- [Lifehacker] [Your Gmail Archives Should Be More Organized](https://lifehacker.com/your-gmail-archives-should-be-more-organized-1850912212)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get &#39;Long Colds&#39; and &#39;Long Flu,&#39; Too](https://lifehacker.com/long-colds-long-flu-versus-long-covid-1850912310)<!-- TECH-POSTS:END -->
 
 ---
 
