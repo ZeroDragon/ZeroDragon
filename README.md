@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Layer Your Bulbs in Planters to Get Months of Flowers](https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574)
+- [Dev.to/JS] [How Do You Change UI Design When Testing it is Hard?](https://dev.to/jesterxl/how-do-you-change-ui-design-when-testing-it-is-hard-59fk)
+- [Dev.to/JS] [Flutter App Development Company](https://dev.to/clickboxagency/flutter-app-development-company-3451)
+- [Dev.to/JS] [Buy Verified Cash App Accounts](https://dev.to/cashapp43/buy-verified-cash-app-accounts-47o1)
+- [Dev.to/JS] [Title: Travelling Light: Discover the Thrilling Side of Himachal Pradesh](https://dev.to/gilctrav/title-travelling-light-discover-the-thrilling-side-of-himachal-pradesh-3g3o)
 - [Dev.to/JS] [Improve List View Performance Pada React Native Dengan Case Infinite Scroll](https://dev.to/putuekamulyana/improve-list-view-performance-pada-react-native-dengan-case-infinite-scroll-10h6)
 - [Dev.to/JS] [How to Fix Vercel 404 error: Child URL Path Issues](https://dev.to/david_bilsonn/how-to-fix-vercel-404-error-child-url-path-issues-n0o)
 - [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 1&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-1-44cf)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploy a Lambda with a static IP for FREE 💸](https://dev.to/slsbytheodo/deploy-a-lambda-with-a-static-ip-for-free-4e0l)
 - [Dev.to/JS] [JavaScript arrays : fundamentals &amp; methods](https://dev.to/fabienschlegel/javascript-arrays-fundamentals-methods-44jp)
 - [Dev.to/JS] [The 5 Node.js PDF Libraries Every Developer Must Know](https://dev.to/xeshan6981/the-5-nodejs-pdf-libraries-every-developer-must-know-4b39)
-- [Dev.to/JS] [Rehman Enterprises: Crafting High-Quality Custom Rugs in the USA](https://dev.to/rugmanufacturers/rehman-enterprises-crafting-high-quality-custom-rugs-in-the-usa-5f0m)
-- [Dev.to/JS] [Setting Up the Environment for Writing JavaScript code](https://dev.to/annoh_karlgusta/setting-up-the-environment-for-writing-javascript-code-36n4)
-- [Dev.to/JS] [JavaScript equivalent&lpar;s&rpar; of CSS @supports Feature Queries for bugfix detection](https://dev.to/ingosteinke/css-supports-feature-queries-in-javascript-for-bugfix-detection-2pbm)
-- [Dev.to/JS] [What makes Next.js the future of web applications?👨‍💻](https://dev.to/proxify_dev/what-makes-nextjs-the-future-of-web-applications-9pg)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
 - [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Deals on Android Tablets During Prime Big Deal Days](https://lifehacker.com/the-best-deals-on-android-tablets-during-prime-big-deal-1850913025)
 - [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [Beats Headphones Are up to 45% Off During Prime Big Deal Days](https://lifehacker.com/beats-headphones-are-up-to-45-off-during-prime-big-dea-1850912551)
-- [Lifehacker] [The Best Way to Save Your Own Seeds](https://lifehacker.com/the-best-way-to-save-your-own-seeds-1850910586)
-- [Lifehacker] [The Best Prime Big Deal Days Deals for Toys](https://lifehacker.com/the-best-prime-day-deals-for-toys-1850906701)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Save Your Own Seeds](https://lifehacker.com/the-best-way-to-save-your-own-seeds-1850910586)<!-- TECH-POSTS:END -->
 
 ---
 
