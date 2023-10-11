@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Uma Jornada na Engenharia de Software: Minha História e Experiência](https://dev.to/rntvicente/uma-jornada-na-engenharia-de-software-minha-historia-e-experiencia-jbn)
+- [Lifehacker] [These Are the Best Deals on Smart Lights for October Prime Day](https://lifehacker.com/these-are-the-best-deals-on-smart-lights-for-october-pr-1850918437)
+- [Dev.to/JS] [The Underappreciated Power of TypeScript Interfaces: Going Beyond &quot;Interface vs Type&quot;](https://dev.to/anavalo/the-underappreciated-power-of-typescript-interfaces-going-beyond-interface-vs-type-53i)
+- [Lifehacker] [The Best Deals on Smart Doorbells During October Prime Day](https://lifehacker.com/the-best-deals-on-smart-doorbells-during-october-prime-1850917585)
+- [Lifehacker] [My Favorite Coffee Grinder Is $80 Right Now](https://lifehacker.com/my-favorite-coffee-grinder-is-80-right-now-1850917834)
 - [Lifehacker] [The Best Wireless Earbud Deals &lpar;From Cheap to Pricey&rpar; During October Prime Day](https://lifehacker.com/best-wireless-earbud-deals-prime-day-1850918280)
 - [Dev.to/JS] [The Ultimate Guide to Building a Telegram Clone with Next.js 13 &amp; Express &lpar;Tailwind.css , Socket.io , MongoDB&rpar;](https://dev.to/alishirani/the-ultimate-guide-to-building-a-telegram-clone-with-nextjs-13-express-tailwindcss-socketio-mongodb-2io5)
 - [Lifehacker] [This Highly Rated Smart Lock Is 50% Off for October Prime Day](https://lifehacker.com/this-highly-rated-smart-lock-is-50-off-for-october-pri-1850918061)
@@ -48,10 +53,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bun vs. Node.js: Which JavaScript Runtime Is Better?](https://dev.to/fively/bun-vs-nodejs-which-javascript-runtime-is-better-31dp)
 - [Lifehacker] [A Beginner’s Guide to Playing Blackjack in a Casino Without Embarrassing Yourself](https://lifehacker.com/a-beginner-s-guide-to-playing-blackjack-in-a-casino-wit-1850913688)
 - [Dev.to/JS] [Modernizing Data Fetching in React](https://dev.to/nitin93/modernizing-data-fetching-in-react-5058)
-- [Dev.to/JS] [How I build my startup supa-quick](https://dev.to/taishi/how-i-build-my-startup-supa-quick-2bhd)
 - [Lifehacker] [These Apps Are Secretly Cluttering Up Your Camera Roll](https://lifehacker.com/these-apps-are-secretly-cluttering-up-your-camera-roll-1850913660)
 - [Lifehacker] [Use the &#39;Production Effect&#39; to Study More Effectively](https://lifehacker.com/use-the-production-effect-to-study-more-effectively-1850915123)
-- [Dev.to/JS] [How Much Does it cost to build a hotel booking app?](https://dev.to/richarddukusa/how-much-does-it-cost-to-build-a-hotel-booking-app-3o3c)
 - [Lifehacker] [All the Things You Should Never Clean With Vinegar](https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553)
 - [Lifehacker] [How to Choose the Best Fall Fertilizer for Anything in Your Garden](https://lifehacker.com/how-to-choose-the-best-fall-fertilizer-for-anything-in-1850913755)
 - [Lifehacker] [Layer Your Bulbs in Planters to Get Months of Flowers](https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Kasa Smart Power Strip Is 50% Off for October Prime Day](https://lifehacker.com/this-kasa-smart-power-strip-is-50-off-for-october-prim-1850913738)
 - [Lifehacker] [The Echo Dot Is 54% Off for October Prime Day](https://lifehacker.com/the-best-prime-day-deals-on-smart-speakers-1850914061)
 - [Lifehacker] [Apple AirPods Are $89 During October Prime Day](https://lifehacker.com/apple-airpods-are-89-during-october-prime-day-1850914902)
-- [Lifehacker] [This Home Gym Equipment Generates Power While You Work Out](https://lifehacker.com/this-home-gym-equipment-generates-power-while-you-work-1850912243)
-- [Lifehacker] [The Best Deals on Pet Gear During October Prime Day](https://lifehacker.com/the-best-deals-on-pet-gear-during-october-prime-day-1850915127)
-- [Lifehacker] [The Best Chromebook Deals for October Prime Day](https://lifehacker.com/the-best-chromebook-deals-for-october-prime-day-1850913907)
-- [Lifehacker] [You Can Get $90 Off This 1TB Xbox Storage Expansion Card](https://lifehacker.com/you-can-get-90-off-this-1tb-xbox-storage-expansion-car-1850914926)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Home Gym Equipment Generates Power While You Work Out](https://lifehacker.com/this-home-gym-equipment-generates-power-while-you-work-1850912243)<!-- TECH-POSTS:END -->
 
 ---
 
