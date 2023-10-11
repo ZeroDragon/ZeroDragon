@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing clean and reusable code as a developer](https://dev.to/olathegreat/writing-clean-and-reusable-code-as-a-developer-cfi)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
+- [Dev.to/JS] [Why You Can&#39;t Learn Web Dev](https://dev.to/easewithtuts/why-you-cant-learn-web-dev-59b5)
+- [Dev.to/JS] [Migrating JavaScript Projects to TypeScript](https://dev.to/rajaerobinson/migrating-javascript-projects-to-typescript-3cjm)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
 - [Dev.to/JS] [Easy Context in React Server Components &lpar;RSC&rpar;](https://dev.to/jdgamble555/easy-context-in-react-server-components-rsc-1mdf)
 - [Dev.to/JS] [Point that function somewhere else](https://dev.to/stuartbate/point-that-function-somewhere-else-4o01)
@@ -41,12 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I&#39;ll see you after the Function.](https://dev.to/stuartbate/ill-see-you-after-the-function-4j35)
 - [Lifehacker] [The Echo Dot Is 54% Off for October Prime Day](https://lifehacker.com/the-best-prime-day-deals-on-smart-speakers-1850914061)
 - [Lifehacker] [Apple AirPods Are $89 During October Prime Day](https://lifehacker.com/apple-airpods-are-89-during-october-prime-day-1850914902)
-- [Dev.to/JS] [Error handling in Express Server - NodeJS](https://dev.to/myepes82/error-handling-in-express-server-nodejs-44c)
 - [Lifehacker] [This Home Gym Equipment Generates Power While You Work Out](https://lifehacker.com/this-home-gym-equipment-generates-power-while-you-work-1850912243)
 - [Lifehacker] [The Best Deals on Pet Gear During October Prime Day](https://lifehacker.com/the-best-deals-on-pet-gear-during-october-prime-day-1850915127)
-- [Dev.to/JS] [What&#39;s Hydration in SSR?](https://dev.to/lausuarez02/whats-hydration-in-ssr-o06)
 - [Lifehacker] [The Best Chromebook Deals for October Prime Day](https://lifehacker.com/the-best-chromebook-deals-for-october-prime-day-1850913907)
-- [Dev.to/JS] [Getting started with LangChainJS](https://dev.to/logrocket/getting-started-with-langchainjs-1jna)
 - [Lifehacker] [You Can Get $90 Off This 1TB Xbox Storage Expansion Card](https://lifehacker.com/you-can-get-90-off-this-1tb-xbox-storage-expansion-car-1850914926)
 - [Lifehacker] [You Can Get a Peloton Bike for 24% Off Today](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
 - [Lifehacker] [These NordicTrack Treadmills Are 15% Off for October Prime Day](https://lifehacker.com/these-nordictrack-treadmills-are-15-off-for-october-pr-1850914396)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [Beats Headphones Are up to 45% Off During Prime Big Deal Days](https://lifehacker.com/beats-headphones-are-up-to-45-off-during-prime-big-dea-1850912551)
 - [Lifehacker] [The Best Way to Save Your Own Seeds](https://lifehacker.com/the-best-way-to-save-your-own-seeds-1850910586)
-- [Lifehacker] [The Best Prime Big Deal Days Deals for Toys](https://lifehacker.com/the-best-prime-day-deals-for-toys-1850906701)
-- [Lifehacker] [The Best Tech Deals From Walmart’s ‘Holiday Kickoff’ Sale](https://lifehacker.com/the-best-tech-deals-from-walmart-s-holiday-kickoff-sa-1850913084)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Prime Big Deal Days Deals for Toys](https://lifehacker.com/the-best-prime-day-deals-for-toys-1850906701)<!-- TECH-POSTS:END -->
 
 ---
 
