@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Startup is Collapsing, and I Can’t do Anything About It](https://dev.to/mohammadfaisal/my-startup-is-collapsing-and-i-cant-do-anything-about-it-437a)
+- [Dev.to/JS] [💻 Web Development Resources #169](https://dev.to/vincenius/web-development-resources-169-10a4)
 - [Dev.to/JS] [React: how I understand Virtual DOM through useState](https://dev.to/jessicacb12/react-how-i-understand-virtual-dom-through-usestate-3f73)
 - [Dev.to/JS] [Synogut - Reviews, Results, Price, Ingredients &amp; Where To Buy?](https://dev.to/dsakhtma/synogut-reviews-results-price-ingredients-where-to-buy-4ee1)
 - [Dev.to/JS] [WEB DEVELOPMENT TRENDS AND TECHNOLOGIES 2024](https://dev.to/sparkouttech/web-development-trends-and-technologies-2024-3bl2)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Migrating JavaScript Projects to TypeScript](https://dev.to/rajaerobinson/migrating-javascript-projects-to-typescript-3cjm)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
 - [Dev.to/JS] [Easy Context in React Server Components &lpar;RSC&rpar;](https://dev.to/jdgamble555/easy-context-in-react-server-components-rsc-1mdf)
-- [Dev.to/JS] [Point that function somewhere else](https://dev.to/stuartbate/point-that-function-somewhere-else-4o01)
-- [Dev.to/JS] [The reality of the frontend industry](https://dev.to/alextana/the-reality-of-the-frontend-industry-30kj)
 - [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)
 - [Lifehacker] [These Vitamix Blenders Are Deeply Discounted for October Prime Day](https://lifehacker.com/these-vitamix-blenders-are-deeply-discounted-for-octobe-1850915653)
 - [Lifehacker] [This Kasa Smart Power Strip Is 50% Off for October Prime Day](https://lifehacker.com/this-kasa-smart-power-strip-is-50-off-for-october-prim-1850913738)
