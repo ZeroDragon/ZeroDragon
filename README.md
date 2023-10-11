@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Recreating Medium&#39;s Banner](https://dev.to/mowglimecha9/recreating-mediums-banner-3jk6)
+- [Dev.to/JS] [Day 66: Document Object Model](https://dev.to/dhrn/day-66-document-object-model-38ha)
+- [Lifehacker] [These Are the Best Dyson Vacuum Deals for Walmart’s Version of Prime Day](https://lifehacker.com/these-are-the-best-dyson-vacuum-deals-for-walmart-s-ver-1850916171)
+- [Dev.to/JS] [Flowchart editor dgrm.net / Quick save](https://dev.to/alexboyko/flowchart-editor-dgrmnet-quick-save-15la)
+- [Lifehacker] [The 24 Best Horror Comedies Streaming Right Now](https://lifehacker.com/best-horror-comedies-1850914493)
 - [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/buyglobalsmm84/buy-verified-binance-accounts-2adk)
 - [Dev.to/JS] [Buy Verified Cash App Accounts](https://dev.to/buyglobalsmm84/buy-verified-cash-app-accounts-4j4a)
 - [Dev.to/JS] [Bun vs. Node.js: Which JavaScript Runtime Is Better?](https://dev.to/fively/bun-vs-nodejs-which-javascript-runtime-is-better-31dp)
@@ -39,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Things You Should Never Clean With Vinegar](https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553)
 - [Dev.to/JS] [Day 4: Building a Registration Form](https://dev.to/duke09/day-4-building-a-registration-form-28mm)
 - [Dev.to/JS] [Dynamic Calendar using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/dynamic-calendar-using-html-css-and-javascript-207j)
-- [Dev.to/JS] [JavaScript: Debouncing vs. Throttling](https://dev.to/shameel/javascript-debouncing-vs-throttling-55kh)
 - [Lifehacker] [How to Choose the Best Fall Fertilizer for Anything in Your Garden](https://lifehacker.com/how-to-choose-the-best-fall-fertilizer-for-anything-in-1850913755)
-- [Dev.to/JS] [How to add different sizes of pizzas to Redux?](https://dev.to/nik1011/how-to-add-different-sizes-of-pizzas-to-redux-6ip)
 - [Lifehacker] [Layer Your Bulbs in Planters to Get Months of Flowers](https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574)
-- [Dev.to/JS] [How Do You Change UI Design When Testing it is Hard?](https://dev.to/jesterxl/how-do-you-change-ui-design-when-testing-it-is-hard-59fk)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
 - [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best MacBook Deals During October Prime Day](https://lifehacker.com/the-best-macbook-deals-during-october-prime-day-1850914484)
 - [Lifehacker] [The Apple Watch SE Is $200 During October Prime Day](https://lifehacker.com/the-apple-watch-se-is-200-during-october-prime-day-1850913825)
 - [Lifehacker] [Samsung&#39;s Galaxy Book3 Pro Is $300 Off Right Now](https://lifehacker.com/samsungs-galaxy-book3-pro-is-300-off-right-now-1850914690)
-- [Lifehacker] [The Ryobi Storm Kit Is a Must-Have for Weather Emergencies](https://lifehacker.com/the-ryobi-storm-kit-is-a-must-have-for-weather-emergenc-1850913109)
-- [Lifehacker] [Make This Fancy French Sauce Out of Butter and Water](https://lifehacker.com/beurre-monte-recipe-1850913038)
-- [Lifehacker] [The Eufy G20 Robot Vacuum Is 43% Off for Prime Big Deal Days](https://lifehacker.com/the-eufy-g20-robot-vacuum-is-43-off-for-prime-big-deal-1850913723)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Ryobi Storm Kit Is a Must-Have for Weather Emergencies](https://lifehacker.com/the-ryobi-storm-kit-is-a-must-have-for-weather-emergenc-1850913109)<!-- TECH-POSTS:END -->
 
 ---
 
