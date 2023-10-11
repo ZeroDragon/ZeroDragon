@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React: how I understand Virtual DOM through useState](https://dev.to/jessicacb12/react-how-i-understand-virtual-dom-through-usestate-3f73)
+- [Dev.to/JS] [Synogut - Reviews, Results, Price, Ingredients &amp; Where To Buy?](https://dev.to/dsakhtma/synogut-reviews-results-price-ingredients-where-to-buy-4ee1)
+- [Dev.to/JS] [WEB DEVELOPMENT TRENDS AND TECHNOLOGIES 2024](https://dev.to/sparkouttech/web-development-trends-and-technologies-2024-3bl2)
+- [Dev.to/JS] [JavaScript WeakRef Explained: Harnessing Memory Management Magic](https://dev.to/this-is-learning/javascript-weakref-explained-harnessing-memory-management-magic-16f6)
 - [Dev.to/JS] [Compare the Top Programming Languages: Which One is Right for You?](https://dev.to/tonychain/compare-the-top-programming-languages-which-one-is-right-for-you-a7p)
 - [Dev.to/JS] [A Better Guide To Forms in React](https://dev.to/ajones_codes/a-better-guide-to-forms-in-react-47f0)
 - [Dev.to/JS] [Writing clean and reusable code as a developer](https://dev.to/olathegreat/writing-clean-and-reusable-code-as-a-developer-cfi)
@@ -37,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Point that function somewhere else](https://dev.to/stuartbate/point-that-function-somewhere-else-4o01)
 - [Dev.to/JS] [The reality of the frontend industry](https://dev.to/alextana/the-reality-of-the-frontend-industry-30kj)
 - [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)
-- [Dev.to/JS] [ALL ABOUT ARRAYS](https://dev.to/itsmohamedyahia/all-about-arrays-4d1n)
-- [Dev.to/JS] [Useful VSCODE Extensions for Frontend Beginners](https://dev.to/itsmohamedyahia/useful-vscode-extensions-for-frontend-beginners-4c04)
 - [Lifehacker] [These Vitamix Blenders Are Deeply Discounted for October Prime Day](https://lifehacker.com/these-vitamix-blenders-are-deeply-discounted-for-octobe-1850915653)
-- [Dev.to/JS] [Nx: Elevate monorepo to the next level](https://dev.to/furqanramzan/nx-elevate-monorepo-to-the-next-level-84b)
-- [Dev.to/JS] [Leveraging JavaScript for Common Search Operations](https://dev.to/frantchessico/leveraging-javascript-for-common-search-operations-4gc6)
 - [Lifehacker] [This Kasa Smart Power Strip Is 50% Off for October Prime Day](https://lifehacker.com/this-kasa-smart-power-strip-is-50-off-for-october-prim-1850913738)
 - [Lifehacker] [The Echo Dot Is 54% Off for October Prime Day](https://lifehacker.com/the-best-prime-day-deals-on-smart-speakers-1850914061)
 - [Lifehacker] [Apple AirPods Are $89 During October Prime Day](https://lifehacker.com/apple-airpods-are-89-during-october-prime-day-1850914902)
