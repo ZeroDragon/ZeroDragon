@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Things You Should Never Clean With Vinegar](https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553)
+- [Dev.to/JS] [Day 4: Building a Registration Form](https://dev.to/duke09/day-4-building-a-registration-form-28mm)
+- [Dev.to/JS] [Dynamic Calendar using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/dynamic-calendar-using-html-css-and-javascript-207j)
+- [Dev.to/JS] [JavaScript: Debouncing vs. Throttling](https://dev.to/shameel/javascript-debouncing-vs-throttling-55kh)
+- [Lifehacker] [How to Choose the Best Fall Fertilizer for Anything in Your Garden](https://lifehacker.com/how-to-choose-the-best-fall-fertilizer-for-anything-in-1850913755)
+- [Dev.to/JS] [How to add different sizes of pizzas to Redux?](https://dev.to/nik1011/how-to-add-different-sizes-of-pizzas-to-redux-6ip)
 - [Lifehacker] [Layer Your Bulbs in Planters to Get Months of Flowers](https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574)
 - [Dev.to/JS] [How Do You Change UI Design When Testing it is Hard?](https://dev.to/jesterxl/how-do-you-change-ui-design-when-testing-it-is-hard-59fk)
 - [Dev.to/JS] [Flutter App Development Company](https://dev.to/clickboxagency/flutter-app-development-company-3451)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Fix Vercel 404 error: Child URL Path Issues](https://dev.to/david_bilsonn/how-to-fix-vercel-404-error-child-url-path-issues-n0o)
 - [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 1&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-1-44cf)
 - [Dev.to/JS] [Zsh and Bash](https://dev.to/refine/zsh-and-bash-55i0)
-- [Dev.to/JS] [A Guide to Model Definitions in dcupl](https://dev.to/dominikstrasser/a-guide-to-model-definitions-in-dcupl-cj9)
-- [Dev.to/JS] [Deploy a Lambda with a static IP for FREE 💸](https://dev.to/slsbytheodo/deploy-a-lambda-with-a-static-ip-for-free-4e0l)
-- [Dev.to/JS] [JavaScript arrays : fundamentals &amp; methods](https://dev.to/fabienschlegel/javascript-arrays-fundamentals-methods-44jp)
-- [Dev.to/JS] [The 5 Node.js PDF Libraries Every Developer Must Know](https://dev.to/xeshan6981/the-5-nodejs-pdf-libraries-every-developer-must-know-4b39)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
 - [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Eufy G20 Robot Vacuum Is 43% Off for Prime Big Deal Days](https://lifehacker.com/the-eufy-g20-robot-vacuum-is-43-off-for-prime-big-deal-1850913723)
 - [Lifehacker] [Keep a Baguette in the Freezer for Easy Entertaining](https://lifehacker.com/keep-a-baguette-in-the-freezer-for-easy-entertaining-1850912727)
 - [Lifehacker] [The Best Deals on Android Tablets During Prime Big Deal Days](https://lifehacker.com/the-best-deals-on-android-tablets-during-prime-big-deal-1850913025)
-- [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
-- [Lifehacker] [Beats Headphones Are up to 45% Off During Prime Big Deal Days](https://lifehacker.com/beats-headphones-are-up-to-45-off-during-prime-big-dea-1850912551)
-- [Lifehacker] [The Best Way to Save Your Own Seeds](https://lifehacker.com/the-best-way-to-save-your-own-seeds-1850910586)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)<!-- TECH-POSTS:END -->
 
 ---
 
