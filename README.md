@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/buyglobalsmm84/buy-verified-binance-accounts-2adk)
+- [Dev.to/JS] [Buy Verified Cash App Accounts](https://dev.to/buyglobalsmm84/buy-verified-cash-app-accounts-4j4a)
+- [Dev.to/JS] [Bun vs. Node.js: Which JavaScript Runtime Is Better?](https://dev.to/fively/bun-vs-nodejs-which-javascript-runtime-is-better-31dp)
+- [Lifehacker] [A Beginner’s Guide to Playing Blackjack in a Casino Without Embarrassing Yourself](https://lifehacker.com/a-beginner-s-guide-to-playing-blackjack-in-a-casino-wit-1850913688)
+- [Dev.to/JS] [Modernizing Data Fetching in React](https://dev.to/nitin93/modernizing-data-fetching-in-react-5058)
+- [Dev.to/JS] [How I build my startup supa-quick](https://dev.to/taishi/how-i-build-my-startup-supa-quick-2bhd)
+- [Lifehacker] [These Apps Are Secretly Cluttering Up Your Camera Roll](https://lifehacker.com/these-apps-are-secretly-cluttering-up-your-camera-roll-1850913660)
 - [Dev.to/JS] [Pure Ease CBD Gummies - Ingredients Its Really Work! Must Read Before Buying!](https://dev.to/pureeasecbdgummiesusa/pure-ease-cbd-gummies-ingredients-its-really-work-must-read-before-buying-185p)
 - [Lifehacker] [Use the &#39;Production Effect&#39; to Study More Effectively](https://lifehacker.com/use-the-production-effect-to-study-more-effectively-1850915123)
 - [Dev.to/JS] [How Much Does it cost to build a hotel booking app?](https://dev.to/richarddukusa/how-much-does-it-cost-to-build-a-hotel-booking-app-3o3c)
@@ -37,11 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add different sizes of pizzas to Redux?](https://dev.to/nik1011/how-to-add-different-sizes-of-pizzas-to-redux-6ip)
 - [Lifehacker] [Layer Your Bulbs in Planters to Get Months of Flowers](https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574)
 - [Dev.to/JS] [How Do You Change UI Design When Testing it is Hard?](https://dev.to/jesterxl/how-do-you-change-ui-design-when-testing-it-is-hard-59fk)
-- [Dev.to/JS] [Flutter App Development Company](https://dev.to/clickboxagency/flutter-app-development-company-3451)
-- [Dev.to/JS] [Buy Verified Cash App Accounts](https://dev.to/cashapp43/buy-verified-cash-app-accounts-47o1)
-- [Dev.to/JS] [Title: Travelling Light: Discover the Thrilling Side of Himachal Pradesh](https://dev.to/gilctrav/title-travelling-light-discover-the-thrilling-side-of-himachal-pradesh-3g3o)
-- [Dev.to/JS] [Improve List View Performance Pada React Native Dengan Case Infinite Scroll](https://dev.to/putuekamulyana/improve-list-view-performance-pada-react-native-dengan-case-infinite-scroll-10h6)
-- [Dev.to/JS] [How to Fix Vercel 404 error: Child URL Path Issues](https://dev.to/david_bilsonn/how-to-fix-vercel-404-error-child-url-path-issues-n0o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
 - [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Samsung&#39;s Galaxy Book3 Pro Is $300 Off Right Now](https://lifehacker.com/samsungs-galaxy-book3-pro-is-300-off-right-now-1850914690)
 - [Lifehacker] [The Ryobi Storm Kit Is a Must-Have for Weather Emergencies](https://lifehacker.com/the-ryobi-storm-kit-is-a-must-have-for-weather-emergenc-1850913109)
 - [Lifehacker] [Make This Fancy French Sauce Out of Butter and Water](https://lifehacker.com/beurre-monte-recipe-1850913038)
-- [Lifehacker] [The Eufy G20 Robot Vacuum Is 43% Off for Prime Big Deal Days](https://lifehacker.com/the-eufy-g20-robot-vacuum-is-43-off-for-prime-big-deal-1850913723)
-- [Lifehacker] [Keep a Baguette in the Freezer for Easy Entertaining](https://lifehacker.com/keep-a-baguette-in-the-freezer-for-easy-entertaining-1850912727)
-- [Lifehacker] [The Best Deals on Android Tablets During Prime Big Deal Days](https://lifehacker.com/the-best-deals-on-android-tablets-during-prime-big-deal-1850913025)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Eufy G20 Robot Vacuum Is 43% Off for Prime Big Deal Days](https://lifehacker.com/the-eufy-g20-robot-vacuum-is-43-off-for-prime-big-deal-1850913723)<!-- TECH-POSTS:END -->
 
 ---
 
