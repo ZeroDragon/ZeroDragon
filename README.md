@@ -26,25 +26,27 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Toss These Foods in Your Oven While You&#39;re Cooking Something Else](https://lifehacker.com/toss-these-foods-in-your-oven-while-youre-cooking-somet-1850913080)
+- [Dev.to/JS] [Peculiaridades do JS. Que não são erros! Nem esquisitice! - conversão implícita de tipos](https://dev.to/urielsouza29/peculiaridades-do-js-que-nao-sao-erros-nem-esquisitice-conversao-implicita-de-tipos-4n7c)
+- [Lifehacker] [The Best LEGO Deals During October Prime Day](https://lifehacker.com/the-best-lego-deals-during-october-prime-day-1850916502)
 - [Dev.to/JS] [Recreating Medium&#39;s Banner](https://dev.to/mowglimecha9/recreating-mediums-banner-3jk6)
 - [Dev.to/JS] [Day 66: Document Object Model](https://dev.to/dhrn/day-66-document-object-model-38ha)
 - [Lifehacker] [These Are the Best Dyson Vacuum Deals for Walmart’s Version of Prime Day](https://lifehacker.com/these-are-the-best-dyson-vacuum-deals-for-walmart-s-ver-1850916171)
 - [Dev.to/JS] [Flowchart editor dgrm.net / Quick save](https://dev.to/alexboyko/flowchart-editor-dgrmnet-quick-save-15la)
 - [Lifehacker] [The 24 Best Horror Comedies Streaming Right Now](https://lifehacker.com/best-horror-comedies-1850914493)
-- [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/buyglobalsmm84/buy-verified-binance-accounts-2adk)
-- [Dev.to/JS] [Buy Verified Cash App Accounts](https://dev.to/buyglobalsmm84/buy-verified-cash-app-accounts-4j4a)
 - [Dev.to/JS] [Bun vs. Node.js: Which JavaScript Runtime Is Better?](https://dev.to/fively/bun-vs-nodejs-which-javascript-runtime-is-better-31dp)
 - [Lifehacker] [A Beginner’s Guide to Playing Blackjack in a Casino Without Embarrassing Yourself](https://lifehacker.com/a-beginner-s-guide-to-playing-blackjack-in-a-casino-wit-1850913688)
 - [Dev.to/JS] [Modernizing Data Fetching in React](https://dev.to/nitin93/modernizing-data-fetching-in-react-5058)
 - [Dev.to/JS] [How I build my startup supa-quick](https://dev.to/taishi/how-i-build-my-startup-supa-quick-2bhd)
 - [Lifehacker] [These Apps Are Secretly Cluttering Up Your Camera Roll](https://lifehacker.com/these-apps-are-secretly-cluttering-up-your-camera-roll-1850913660)
-- [Dev.to/JS] [Pure Ease CBD Gummies - Ingredients Its Really Work! Must Read Before Buying!](https://dev.to/pureeasecbdgummiesusa/pure-ease-cbd-gummies-ingredients-its-really-work-must-read-before-buying-185p)
 - [Lifehacker] [Use the &#39;Production Effect&#39; to Study More Effectively](https://lifehacker.com/use-the-production-effect-to-study-more-effectively-1850915123)
 - [Dev.to/JS] [How Much Does it cost to build a hotel booking app?](https://dev.to/richarddukusa/how-much-does-it-cost-to-build-a-hotel-booking-app-3o3c)
 - [Lifehacker] [All the Things You Should Never Clean With Vinegar](https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553)
 - [Dev.to/JS] [Day 4: Building a Registration Form](https://dev.to/duke09/day-4-building-a-registration-form-28mm)
 - [Dev.to/JS] [Dynamic Calendar using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/dynamic-calendar-using-html-css-and-javascript-207j)
+- [Dev.to/JS] [JavaScript: Debouncing vs. Throttling](https://dev.to/shameel/javascript-debouncing-vs-throttling-55kh)
 - [Lifehacker] [How to Choose the Best Fall Fertilizer for Anything in Your Garden](https://lifehacker.com/how-to-choose-the-best-fall-fertilizer-for-anything-in-1850913755)
+- [Dev.to/JS] [How to add different sizes of pizzas to Redux?](https://dev.to/nik1011/how-to-add-different-sizes-of-pizzas-to-redux-6ip)
 - [Lifehacker] [Layer Your Bulbs in Planters to Get Months of Flowers](https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best 4K TV Deals During October Prime Day](https://lifehacker.com/the-best-4k-tv-deals-during-october-prime-day-1850913259)
 - [Lifehacker] [The Best iPad Deals During October Prime Day](https://lifehacker.com/the-best-ipad-deals-during-october-prime-day-1850914633)
 - [Lifehacker] [The Best MacBook Deals During October Prime Day](https://lifehacker.com/the-best-macbook-deals-during-october-prime-day-1850914484)
-- [Lifehacker] [The Apple Watch SE Is $200 During October Prime Day](https://lifehacker.com/the-apple-watch-se-is-200-during-october-prime-day-1850913825)
-- [Lifehacker] [Samsung&#39;s Galaxy Book3 Pro Is $300 Off Right Now](https://lifehacker.com/samsungs-galaxy-book3-pro-is-300-off-right-now-1850914690)
-- [Lifehacker] [The Ryobi Storm Kit Is a Must-Have for Weather Emergencies](https://lifehacker.com/the-ryobi-storm-kit-is-a-must-have-for-weather-emergenc-1850913109)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Apple Watch SE Is $200 During October Prime Day](https://lifehacker.com/the-apple-watch-se-is-200-during-october-prime-day-1850913825)<!-- TECH-POSTS:END -->
 
 ---
 
