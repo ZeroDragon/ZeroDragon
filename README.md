@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pure Ease CBD Gummies - Ingredients Its Really Work! Must Read Before Buying!](https://dev.to/pureeasecbdgummiesusa/pure-ease-cbd-gummies-ingredients-its-really-work-must-read-before-buying-185p)
+- [Lifehacker] [Use the &#39;Production Effect&#39; to Study More Effectively](https://lifehacker.com/use-the-production-effect-to-study-more-effectively-1850915123)
+- [Dev.to/JS] [How Much Does it cost to build a hotel booking app?](https://dev.to/richarddukusa/how-much-does-it-cost-to-build-a-hotel-booking-app-3o3c)
 - [Lifehacker] [All the Things You Should Never Clean With Vinegar](https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553)
 - [Dev.to/JS] [Day 4: Building a Registration Form](https://dev.to/duke09/day-4-building-a-registration-form-28mm)
 - [Dev.to/JS] [Dynamic Calendar using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/dynamic-calendar-using-html-css-and-javascript-207j)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Title: Travelling Light: Discover the Thrilling Side of Himachal Pradesh](https://dev.to/gilctrav/title-travelling-light-discover-the-thrilling-side-of-himachal-pradesh-3g3o)
 - [Dev.to/JS] [Improve List View Performance Pada React Native Dengan Case Infinite Scroll](https://dev.to/putuekamulyana/improve-list-view-performance-pada-react-native-dengan-case-infinite-scroll-10h6)
 - [Dev.to/JS] [How to Fix Vercel 404 error: Child URL Path Issues](https://dev.to/david_bilsonn/how-to-fix-vercel-404-error-child-url-path-issues-n0o)
-- [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 1&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-1-44cf)
-- [Dev.to/JS] [Zsh and Bash](https://dev.to/refine/zsh-and-bash-55i0)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
 - [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Fancy French Sauce Out of Butter and Water](https://lifehacker.com/beurre-monte-recipe-1850913038)
 - [Lifehacker] [The Eufy G20 Robot Vacuum Is 43% Off for Prime Big Deal Days](https://lifehacker.com/the-eufy-g20-robot-vacuum-is-43-off-for-prime-big-deal-1850913723)
 - [Lifehacker] [Keep a Baguette in the Freezer for Easy Entertaining](https://lifehacker.com/keep-a-baguette-in-the-freezer-for-easy-entertaining-1850912727)
-- [Lifehacker] [The Best Deals on Android Tablets During Prime Big Deal Days](https://lifehacker.com/the-best-deals-on-android-tablets-during-prime-big-deal-1850913025)
-- [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Deals on Android Tablets During Prime Big Deal Days](https://lifehacker.com/the-best-deals-on-android-tablets-during-prime-big-deal-1850913025)<!-- TECH-POSTS:END -->
 
 ---
 
