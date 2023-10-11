@@ -26,11 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Wireless Earbud Deals &lpar;From Cheap to Pricey&rpar; During October Prime Day](https://lifehacker.com/best-wireless-earbud-deals-prime-day-1850918280)
+- [Dev.to/JS] [The Ultimate Guide to Building a Telegram Clone with Next.js 13 &amp; Express &lpar;Tailwind.css , Socket.io , MongoDB&rpar;](https://dev.to/alishirani/the-ultimate-guide-to-building-a-telegram-clone-with-nextjs-13-express-tailwindcss-socketio-mongodb-2io5)
+- [Lifehacker] [This Highly Rated Smart Lock Is 50% Off for October Prime Day](https://lifehacker.com/this-highly-rated-smart-lock-is-50-off-for-october-pri-1850918061)
+- [Lifehacker] [You Can Get a Whole Blink Security System for up to 50% Off During October Prime Day](https://lifehacker.com/you-can-get-a-whole-blink-security-system-for-up-to-50-1850918233)
 - [Lifehacker] [The Google Pixel Watch Is $140 Off on Amazon Right Now](https://lifehacker.com/the-google-pixel-watch-is-140-off-on-amazon-right-now-1850917882)
 - [Dev.to/JS] [🚀 Level up your Hacktoberfest game with these new treats 🍫](https://dev.to/quine/level-up-your-hacktoberfest-game-with-these-new-treats-402d)
 - [Dev.to/JS] [When to avoid squishing dates together &lpar;a lesson in UI &lt;--&gt; backend team collaboration&rpar;](https://dev.to/dgreene1/when-to-avoid-squishing-dates-together-a-lesson-in-ui-backend-team-collaboration-2cjl)
 - [Lifehacker] [Garmin&#39;s Forerunner 945 Smartwatch Is Only $320 Today](https://lifehacker.com/garmins-forerunner-945-smartwatch-is-only-320-today-1850918717)
-- [Dev.to/JS] [Buy Linkedin Accounts](https://dev.to/graysongut/buy-linkedin-accounts-2h5n)
 - [Lifehacker] [You Can Save up to $400 on These Galaxy Smartphones Right Now](https://lifehacker.com/you-can-save-up-to-400-on-these-galaxy-smartphones-rig-1850917822)
 - [Dev.to/JS] [How to create a Sitemap in Nuxt Content](https://dev.to/michalkuncio/how-to-create-a-sitemap-in-nuxt-content-405d)
 - [Lifehacker] [You Can Now Reduce Background Noises From Videos on Your Pixel 8](https://lifehacker.com/you-can-now-reduce-background-noises-from-videos-on-you-1850904039)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Home Gym Equipment Generates Power While You Work Out](https://lifehacker.com/this-home-gym-equipment-generates-power-while-you-work-1850912243)
 - [Lifehacker] [The Best Deals on Pet Gear During October Prime Day](https://lifehacker.com/the-best-deals-on-pet-gear-during-october-prime-day-1850915127)
 - [Lifehacker] [The Best Chromebook Deals for October Prime Day](https://lifehacker.com/the-best-chromebook-deals-for-october-prime-day-1850913907)
-- [Lifehacker] [You Can Get $90 Off This 1TB Xbox Storage Expansion Card](https://lifehacker.com/you-can-get-90-off-this-1tb-xbox-storage-expansion-car-1850914926)
-- [Lifehacker] [You Can Get a Peloton Bike for 24% Off Today](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
-- [Lifehacker] [These NordicTrack Treadmills Are 15% Off for October Prime Day](https://lifehacker.com/these-nordictrack-treadmills-are-15-off-for-october-pr-1850914396)
-- [Lifehacker] [These Sony Headphones Are $100 Off During October Prime Day](https://lifehacker.com/these-sony-headphones-are-100-off-during-october-prime-1850913257)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get $90 Off This 1TB Xbox Storage Expansion Card](https://lifehacker.com/you-can-get-90-off-this-1tb-xbox-storage-expansion-car-1850914926)<!-- TECH-POSTS:END -->
 
 ---
 
