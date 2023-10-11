@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improve List View Performance Pada React Native Dengan Case Infinite Scroll](https://dev.to/putuekamulyana/improve-list-view-performance-pada-react-native-dengan-case-infinite-scroll-10h6)
 - [Dev.to/JS] [How to Fix Vercel 404 error: Child URL Path Issues](https://dev.to/david_bilsonn/how-to-fix-vercel-404-error-child-url-path-issues-n0o)
 - [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 1&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-1-44cf)
 - [Dev.to/JS] [Zsh and Bash](https://dev.to/refine/zsh-and-bash-55i0)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting Up the Environment for Writing JavaScript code](https://dev.to/annoh_karlgusta/setting-up-the-environment-for-writing-javascript-code-36n4)
 - [Dev.to/JS] [JavaScript equivalent&lpar;s&rpar; of CSS @supports Feature Queries for bugfix detection](https://dev.to/ingosteinke/css-supports-feature-queries-in-javascript-for-bugfix-detection-2pbm)
 - [Dev.to/JS] [What makes Next.js the future of web applications?👨‍💻](https://dev.to/proxify_dev/what-makes-nextjs-the-future-of-web-applications-9pg)
-- [Dev.to/JS] [My Startup is Collapsing, and I Can’t do Anything About It](https://dev.to/mohammadfaisal/my-startup-is-collapsing-and-i-cant-do-anything-about-it-437a)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
 - [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)
