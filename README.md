@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Compare the Top Programming Languages: Which One is Right for You?](https://dev.to/tonychain/compare-the-top-programming-languages-which-one-is-right-for-you-a7p)
+- [Dev.to/JS] [A Better Guide To Forms in React](https://dev.to/ajones_codes/a-better-guide-to-forms-in-react-47f0)
 - [Dev.to/JS] [Writing clean and reusable code as a developer](https://dev.to/olathegreat/writing-clean-and-reusable-code-as-a-developer-cfi)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
 - [Dev.to/JS] [Why You Can&#39;t Learn Web Dev](https://dev.to/easewithtuts/why-you-cant-learn-web-dev-59b5)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nx: Elevate monorepo to the next level](https://dev.to/furqanramzan/nx-elevate-monorepo-to-the-next-level-84b)
 - [Dev.to/JS] [Leveraging JavaScript for Common Search Operations](https://dev.to/frantchessico/leveraging-javascript-for-common-search-operations-4gc6)
 - [Lifehacker] [This Kasa Smart Power Strip Is 50% Off for October Prime Day](https://lifehacker.com/this-kasa-smart-power-strip-is-50-off-for-october-prim-1850913738)
-- [Dev.to/JS] [How do you define the main sections of a web page using HTML?](https://dev.to/matheushchaves/how-do-you-define-the-main-sections-of-a-web-page-using-html-253j)
-- [Dev.to/JS] [I&#39;ll see you after the Function.](https://dev.to/stuartbate/ill-see-you-after-the-function-4j35)
 - [Lifehacker] [The Echo Dot Is 54% Off for October Prime Day](https://lifehacker.com/the-best-prime-day-deals-on-smart-speakers-1850914061)
 - [Lifehacker] [Apple AirPods Are $89 During October Prime Day](https://lifehacker.com/apple-airpods-are-89-during-october-prime-day-1850914902)
 - [Lifehacker] [This Home Gym Equipment Generates Power While You Work Out](https://lifehacker.com/this-home-gym-equipment-generates-power-while-you-work-1850912243)
