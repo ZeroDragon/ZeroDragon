@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Fix Vercel 404 error: Child URL Path Issues](https://dev.to/david_bilsonn/how-to-fix-vercel-404-error-child-url-path-issues-n0o)
+- [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 1&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-1-44cf)
+- [Dev.to/JS] [Zsh and Bash](https://dev.to/refine/zsh-and-bash-55i0)
 - [Dev.to/JS] [A Guide to Model Definitions in dcupl](https://dev.to/dominikstrasser/a-guide-to-model-definitions-in-dcupl-cj9)
 - [Dev.to/JS] [Deploy a Lambda with a static IP for FREE 💸](https://dev.to/slsbytheodo/deploy-a-lambda-with-a-static-ip-for-free-4e0l)
 - [Dev.to/JS] [JavaScript arrays : fundamentals &amp; methods](https://dev.to/fabienschlegel/javascript-arrays-fundamentals-methods-44jp)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript equivalent&lpar;s&rpar; of CSS @supports Feature Queries for bugfix detection](https://dev.to/ingosteinke/css-supports-feature-queries-in-javascript-for-bugfix-detection-2pbm)
 - [Dev.to/JS] [What makes Next.js the future of web applications?👨‍💻](https://dev.to/proxify_dev/what-makes-nextjs-the-future-of-web-applications-9pg)
 - [Dev.to/JS] [My Startup is Collapsing, and I Can’t do Anything About It](https://dev.to/mohammadfaisal/my-startup-is-collapsing-and-i-cant-do-anything-about-it-437a)
-- [Dev.to/JS] [💻 Web Development Resources #169](https://dev.to/vincenius/web-development-resources-169-10a4)
-- [Dev.to/JS] [React: how I understand Virtual DOM through useState](https://dev.to/jessicacb12/react-how-i-understand-virtual-dom-through-usestate-3f73)
-- [Dev.to/JS] [Synogut - Reviews, Results, Price, Ingredients &amp; Where To Buy?](https://dev.to/dsakhtma/synogut-reviews-results-price-ingredients-where-to-buy-4ee1)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
 - [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)
