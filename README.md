@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Google Pixel Watch Is $140 Off on Amazon Right Now](https://lifehacker.com/the-google-pixel-watch-is-140-off-on-amazon-right-now-1850917882)
+- [Dev.to/JS] [🚀 Level up your Hacktoberfest game with these new treats 🍫](https://dev.to/quine/level-up-your-hacktoberfest-game-with-these-new-treats-402d)
+- [Dev.to/JS] [When to avoid squishing dates together &lpar;a lesson in UI &lt;--&gt; backend team collaboration&rpar;](https://dev.to/dgreene1/when-to-avoid-squishing-dates-together-a-lesson-in-ui-backend-team-collaboration-2cjl)
+- [Lifehacker] [Garmin&#39;s Forerunner 945 Smartwatch Is Only $320 Today](https://lifehacker.com/garmins-forerunner-945-smartwatch-is-only-320-today-1850918717)
+- [Dev.to/JS] [Buy Linkedin Accounts](https://dev.to/graysongut/buy-linkedin-accounts-2h5n)
+- [Lifehacker] [You Can Save up to $400 on These Galaxy Smartphones Right Now](https://lifehacker.com/you-can-save-up-to-400-on-these-galaxy-smartphones-rig-1850917822)
+- [Dev.to/JS] [How to create a Sitemap in Nuxt Content](https://dev.to/michalkuncio/how-to-create-a-sitemap-in-nuxt-content-405d)
+- [Lifehacker] [You Can Now Reduce Background Noises From Videos on Your Pixel 8](https://lifehacker.com/you-can-now-reduce-background-noises-from-videos-on-you-1850904039)
 - [Lifehacker] [Toss These Foods in Your Oven While You&#39;re Cooking Something Else](https://lifehacker.com/toss-these-foods-in-your-oven-while-youre-cooking-somet-1850913080)
 - [Dev.to/JS] [Peculiaridades do JS. Que não são erros! Nem esquisitice! - conversão implícita de tipos](https://dev.to/urielsouza29/peculiaridades-do-js-que-nao-sao-erros-nem-esquisitice-conversao-implicita-de-tipos-4n7c)
 - [Lifehacker] [The Best LEGO Deals During October Prime Day](https://lifehacker.com/the-best-lego-deals-during-october-prime-day-1850916502)
@@ -42,11 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the &#39;Production Effect&#39; to Study More Effectively](https://lifehacker.com/use-the-production-effect-to-study-more-effectively-1850915123)
 - [Dev.to/JS] [How Much Does it cost to build a hotel booking app?](https://dev.to/richarddukusa/how-much-does-it-cost-to-build-a-hotel-booking-app-3o3c)
 - [Lifehacker] [All the Things You Should Never Clean With Vinegar](https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553)
-- [Dev.to/JS] [Day 4: Building a Registration Form](https://dev.to/duke09/day-4-building-a-registration-form-28mm)
-- [Dev.to/JS] [Dynamic Calendar using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/dynamic-calendar-using-html-css-and-javascript-207j)
-- [Dev.to/JS] [JavaScript: Debouncing vs. Throttling](https://dev.to/shameel/javascript-debouncing-vs-throttling-55kh)
 - [Lifehacker] [How to Choose the Best Fall Fertilizer for Anything in Your Garden](https://lifehacker.com/how-to-choose-the-best-fall-fertilizer-for-anything-in-1850913755)
-- [Dev.to/JS] [How to add different sizes of pizzas to Redux?](https://dev.to/nik1011/how-to-add-different-sizes-of-pizzas-to-redux-6ip)
 - [Lifehacker] [Layer Your Bulbs in Planters to Get Months of Flowers](https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get $90 Off This 1TB Xbox Storage Expansion Card](https://lifehacker.com/you-can-get-90-off-this-1tb-xbox-storage-expansion-car-1850914926)
 - [Lifehacker] [You Can Get a Peloton Bike for 24% Off Today](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
 - [Lifehacker] [These NordicTrack Treadmills Are 15% Off for October Prime Day](https://lifehacker.com/these-nordictrack-treadmills-are-15-off-for-october-pr-1850914396)
-- [Lifehacker] [These Sony Headphones Are $100 Off During October Prime Day](https://lifehacker.com/these-sony-headphones-are-100-off-during-october-prime-1850913257)
-- [Lifehacker] [The Best 4K TV Deals During October Prime Day](https://lifehacker.com/the-best-4k-tv-deals-during-october-prime-day-1850913259)
-- [Lifehacker] [The Best iPad Deals During October Prime Day](https://lifehacker.com/the-best-ipad-deals-during-october-prime-day-1850914633)
-- [Lifehacker] [The Best MacBook Deals During October Prime Day](https://lifehacker.com/the-best-macbook-deals-during-october-prime-day-1850914484)
-- [Lifehacker] [The Apple Watch SE Is $200 During October Prime Day](https://lifehacker.com/the-apple-watch-se-is-200-during-october-prime-day-1850913825)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Sony Headphones Are $100 Off During October Prime Day](https://lifehacker.com/these-sony-headphones-are-100-off-during-october-prime-1850913257)<!-- TECH-POSTS:END -->
 
 ---
 
