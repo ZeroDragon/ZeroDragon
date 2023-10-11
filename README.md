@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All About JS Functions](https://dev.to/itsmohamedyahia/all-about-functions-4a8d)
+- [Dev.to/JS] [Build Your Own Epik-inspired App: Transform Selfies into &#39;90s Yearbook Photos with Node.js and AI](https://dev.to/mikeyoung44/build-your-own-epik-inspired-app-transform-selfies-into-90s-yearbook-photos-with-nodejs-and-ai-4oel)
 - [Dev.to/JS] [How to Create an Effective Enterprise Business Application: Essential Guide](https://dev.to/flatlogic/how-to-create-an-effective-enterprise-business-application-essential-guide-1ad0)
 - [Dev.to/JS] [Trabalhando com Promessas em JavaScript: Uma Abordagem Profunda](https://dev.to/brayanmonteiroo/trabalhando-com-promessas-em-javascript-uma-abordagem-profunda-5022)
 - [Lifehacker] [The Newest Google Pixel Buds Are Already 40% Off](https://lifehacker.com/the-newest-google-pixel-buds-are-already-40-off-1850919604)
@@ -46,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Highly Rated Smart Lock Is 50% Off for October Prime Day](https://lifehacker.com/this-highly-rated-smart-lock-is-50-off-for-october-pri-1850918061)
 - [Lifehacker] [You Can Get a Whole Blink Security System for up to 50% Off During October Prime Day](https://lifehacker.com/you-can-get-a-whole-blink-security-system-for-up-to-50-1850918233)
 - [Lifehacker] [The Google Pixel Watch Is $140 Off on Amazon Right Now](https://lifehacker.com/the-google-pixel-watch-is-140-off-on-amazon-right-now-1850917882)
-- [Dev.to/JS] [🚀 Level up your Hacktoberfest game with these new treats 🍫](https://dev.to/quine/level-up-your-hacktoberfest-game-with-these-new-treats-402d)
-- [Dev.to/JS] [When to avoid squishing dates together &lpar;a lesson in UI &lt;--&gt; backend team collaboration&rpar;](https://dev.to/dgreene1/when-to-avoid-squishing-dates-together-a-lesson-in-ui-backend-team-collaboration-2cjl)
 - [Lifehacker] [Garmin&#39;s Forerunner 945 Smartwatch Is Only $320 Today](https://lifehacker.com/garmins-forerunner-945-smartwatch-is-only-320-today-1850918717)
 - [Lifehacker] [You Can Save up to $400 on These Galaxy Smartphones Right Now](https://lifehacker.com/you-can-save-up-to-400-on-these-galaxy-smartphones-rig-1850917822)
 - [Lifehacker] [You Can Now Reduce Background Noises From Videos on Your Pixel 8](https://lifehacker.com/you-can-now-reduce-background-noises-from-videos-on-you-1850904039)
