@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mongoose: entendendo o básico](https://dev.to/htamagnus/mongoose-entendendo-o-basico-2i57)
+- [Lifehacker] [Where to Stream the Stanford Vs. Colorado Game](https://lifehacker.com/where-to-stream-the-stanford-vs-colorado-game-1850922214)
+- [Dev.to/JS] [Solana for Javascript developers](https://dev.to/almostefficient/solana-for-javascript-developers-448)
+- [Lifehacker] [Why Edge Is Blocking YouTube &lpar;and How to Fix It&rpar;](https://lifehacker.com/stop-edge-blocking-youtube-videos-1850922235)
 - [Lifehacker] [How the Pixel 8 Pro Stacks Up Against the iPhone 15 Pro Max](https://lifehacker.com/pixel-8-pro-versus-iphone-15-pro-max-1850922123)
 - [Dev.to/JS] [Day 5: Completed The First Task &quot;Survey Form&quot;](https://dev.to/duke09/day-5-completed-the-first-task-survey-form-14oi)
 - [Lifehacker] [These Refurbished Ninja Kitchen Appliances Are Deeply Discounted Right Now](https://lifehacker.com/these-refurbished-ninja-kitchen-appliances-are-deeply-d-1850922009)
@@ -44,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A new and very useful web component 🚀](https://dev.to/nyousefi/a-new-and-very-useful-web-component-1406)
 - [Dev.to/JS] [Avoid the Promise.all pitfall!](https://dev.to/miketalbot/avoid-the-promiseall-pitfall-38ik)
 - [Lifehacker] [These New Sonoma Desktop Widgets Are Actually Useful](https://lifehacker.com/these-new-sonoma-desktop-widgets-are-actually-useful-1850913802)
-- [Dev.to/JS] [Entendendo a Diferença entre JavaScript e TypeScript](https://dev.to/rntvicente/entendendo-a-diferenca-entre-javascript-e-typescript-3fci)
 - [Lifehacker] [The Best Parcel Drop Boxes to Deter Package Thieves](https://lifehacker.com/the-best-parcel-drop-boxes-to-deter-package-thieves-1850920598)
-- [Dev.to/JS] [Easy Form Validation | React | 1](https://dev.to/shubhamtiwari909/easy-form-validation-react-1-6g1)
 - [Lifehacker] [What People Are Getting Wrong This Week: &#39;Police Benevolent Association&#39; Calls](https://lifehacker.com/police-benevolent-association-calls-what-people-are-ge-1850920352)
 - [Lifehacker] [These Are the Best Meal Delivery Services for Busy Families](https://lifehacker.com/these-are-the-best-meal-delivery-services-for-busy-fami-1850916963)
 - [Lifehacker] [You Should Build a Pain ‘Tool Kit’ to Manage Flare-Ups](https://lifehacker.com/you-should-build-a-pain-tool-kit-to-manage-flare-ups-1850916785)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Wireless Earbud Deals &lpar;From Cheap to Pricey&rpar; During October Prime Day](https://lifehacker.com/best-wireless-earbud-deals-prime-day-1850918280)
 - [Lifehacker] [This Highly Rated Smart Lock Is 50% Off for October Prime Day](https://lifehacker.com/this-highly-rated-smart-lock-is-50-off-for-october-pri-1850918061)
 - [Lifehacker] [You Can Get a Whole Blink Security System for up to 50% Off During October Prime Day](https://lifehacker.com/you-can-get-a-whole-blink-security-system-for-up-to-50-1850918233)
-- [Lifehacker] [The Google Pixel Watch Is $140 Off on Amazon Right Now](https://lifehacker.com/the-google-pixel-watch-is-140-off-on-amazon-right-now-1850917882)
-- [Lifehacker] [Garmin&#39;s Forerunner 945 Smartwatch Is Only $320 Today](https://lifehacker.com/garmins-forerunner-945-smartwatch-is-only-320-today-1850918717)
-- [Lifehacker] [You Can Save up to $400 on These Galaxy Smartphones Right Now](https://lifehacker.com/you-can-save-up-to-400-on-these-galaxy-smartphones-rig-1850917822)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Google Pixel Watch Is $140 Off on Amazon Right Now](https://lifehacker.com/the-google-pixel-watch-is-140-off-on-amazon-right-now-1850917882)<!-- TECH-POSTS:END -->
 
 ---
 
