@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Magic Tricks: Manipulating URLs](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-manipulating-urls-11i7)
 - [Dev.to/JS] [Clean Code Cookbook is Out](https://dev.to/mcsee/clean-code-cookbook-is-out-4cfc)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 10, 2023](https://lifehacker.com/nyt-connections-answer-today-october-10-2023-1850911643)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 12, 2023](https://lifehacker.com/nyt-connections-answer-today-october-12-2023-1850917526)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Dyson Vacuum &#39;Dupes&#39; Are up to 44% Off During October Prime Day](https://lifehacker.com/best-dyson-dupe-deals-prime-day-1850918597)
 - [Dev.to/JS] [Uma Jornada na Engenharia de Software: Minha História e Experiência](https://dev.to/rntvicente/uma-jornada-na-engenharia-de-software-minha-historia-e-experiencia-jbn)
 - [Lifehacker] [These Are the Best Deals on Smart Lights for October Prime Day](https://lifehacker.com/these-are-the-best-deals-on-smart-lights-for-october-pr-1850918437)
-- [Dev.to/JS] [The Underappreciated Power of TypeScript Interfaces: Going Beyond &quot;Interface vs Type&quot;](https://dev.to/anavalo/the-underappreciated-power-of-typescript-interfaces-going-beyond-interface-vs-type-53i)
 - [Lifehacker] [The Best Deals on Smart Doorbells During October Prime Day](https://lifehacker.com/the-best-deals-on-smart-doorbells-during-october-prime-1850917585)
 - [Lifehacker] [My Favorite Coffee Grinder Is $80 Right Now](https://lifehacker.com/my-favorite-coffee-grinder-is-80-right-now-1850917834)
 - [Lifehacker] [The Best Wireless Earbud Deals &lpar;From Cheap to Pricey&rpar; During October Prime Day](https://lifehacker.com/best-wireless-earbud-deals-prime-day-1850918280)
