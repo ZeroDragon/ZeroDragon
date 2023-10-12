@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Download Pictures and Videos From Threads on Your Android](https://lifehacker.com/how-to-download-pictures-and-videos-from-threads-on-you-1850920937)
+- [Lifehacker] [How to Protect Your Child From Weight Talk at the Doctor&#39;s Office](https://lifehacker.com/how-to-protect-your-child-from-weight-talk-at-the-docto-1850919240)
+- [Dev.to/JS] [A new and very useful web component 🚀](https://dev.to/nyousefi/a-new-and-very-useful-web-component-1406)
+- [Dev.to/JS] [Avoid the Promise.all pitfall!](https://dev.to/miketalbot/avoid-the-promiseall-pitfall-38ik)
+- [Lifehacker] [These New Sonoma Desktop Widgets Are Actually Useful](https://lifehacker.com/these-new-sonoma-desktop-widgets-are-actually-useful-1850913802)
+- [Dev.to/JS] [Entendendo a Diferença entre JavaScript e TypeScript](https://dev.to/rntvicente/entendendo-a-diferenca-entre-javascript-e-typescript-3fci)
+- [Lifehacker] [The Best Parcel Drop Boxes to Deter Package Thieves](https://lifehacker.com/the-best-parcel-drop-boxes-to-deter-package-thieves-1850920598)
 - [Dev.to/JS] [Easy Form Validation | React | 1](https://dev.to/shubhamtiwari909/easy-form-validation-react-1-6g1)
 - [Lifehacker] [What People Are Getting Wrong This Week: &#39;Police Benevolent Association&#39; Calls](https://lifehacker.com/police-benevolent-association-calls-what-people-are-ge-1850920352)
 - [Dev.to/JS] [codedamn: The Perfect Platform to Learn Programming 🖥️💡](https://dev.to/arjuncodess/codedamn-the-perfect-platform-to-learn-programming-417e)
@@ -39,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Travelling Light: Discover the Thrilling Side of Himachal Pradesh](https://dev.to/gilctrav/travelling-light-discover-the-thrilling-side-of-himachal-pradesh-5a7h)
 - [Dev.to/JS] [Guide to Implementing Function-as-a-Service: A Deep Dive into Serverless Computing](https://dev.to/documatic/guide-to-implementing-function-as-a-service-a-deep-dive-into-serverless-computing-55gd)
 - [Dev.to/JS] [Building My First Full-Stack Web Application with React, MongoDB, Node.js, Express.js](https://dev.to/anandprabhu530/building-my-first-full-stack-web-application-with-react-mongodb-nodejs-expressjs-19am)
-- [Dev.to/JS] [Build and Run a Web App using Turso, Drizzle ORM, and Express on Koyeb](https://dev.to/koyeb/build-and-run-a-web-app-using-turso-drizzle-orm-and-express-on-koyeb-1jd2)
-- [Dev.to/JS] [React Learning Basic to Advance](https://dev.to/mbuguadennis/react-learning-basic-to-advance-3n2p)
-- [Dev.to/JS] [Next JS dynamic page errors](https://dev.to/faseehqureshi/next-js-dynamic-page-errors-3h00)
 - [Crazy Programmer] [7 Different Types of Keys in DBMS](https://www.thecrazyprogrammer.com/2023/10/types-of-keys-in-dbms.html)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 10, 2023](https://lifehacker.com/nyt-connections-answer-today-october-10-2023-1850911643)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 12, 2023](https://lifehacker.com/nyt-connections-answer-today-october-12-2023-1850917526)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Toss These Foods in Your Oven While You&#39;re Cooking Something Else](https://lifehacker.com/toss-these-foods-in-your-oven-while-youre-cooking-somet-1850913080)
 - [Lifehacker] [The Best LEGO Deals During October Prime Day](https://lifehacker.com/the-best-lego-deals-during-october-prime-day-1850916502)
 - [Lifehacker] [These Are the Best Dyson Vacuum Deals for Walmart’s Version of Prime Day](https://lifehacker.com/these-are-the-best-dyson-vacuum-deals-for-walmart-s-ver-1850916171)
-- [Lifehacker] [The 24 Best Horror Comedies Streaming Right Now](https://lifehacker.com/best-horror-comedies-1850914493)
-- [Lifehacker] [A Beginner’s Guide to Playing Blackjack in a Casino Without Embarrassing Yourself](https://lifehacker.com/a-beginner-s-guide-to-playing-blackjack-in-a-casino-wit-1850913688)
-- [Lifehacker] [These Apps Are Secretly Cluttering Up Your Camera Roll](https://lifehacker.com/these-apps-are-secretly-cluttering-up-your-camera-roll-1850913660)
-- [Lifehacker] [Use the &#39;Production Effect&#39; to Study More Effectively](https://lifehacker.com/use-the-production-effect-to-study-more-effectively-1850915123)
-- [Lifehacker] [All the Things You Should Never Clean With Vinegar](https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 24 Best Horror Comedies Streaming Right Now](https://lifehacker.com/best-horror-comedies-1850914493)<!-- TECH-POSTS:END -->
 
 ---
 
