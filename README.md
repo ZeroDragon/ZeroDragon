@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy Form Validation | React | 1](https://dev.to/shubhamtiwari909/easy-form-validation-react-1-6g1)
+- [Lifehacker] [What People Are Getting Wrong This Week: &#39;Police Benevolent Association&#39; Calls](https://lifehacker.com/police-benevolent-association-calls-what-people-are-ge-1850920352)
+- [Dev.to/JS] [codedamn: The Perfect Platform to Learn Programming 🖥️💡](https://dev.to/arjuncodess/codedamn-the-perfect-platform-to-learn-programming-417e)
 - [Lifehacker] [These Are the Best Meal Delivery Services for Busy Families](https://lifehacker.com/these-are-the-best-meal-delivery-services-for-busy-fami-1850916963)
 - [Dev.to/JS] [The Full-Stack development experience](https://dev.to/coorasse/the-full-stack-development-experience-297n)
 - [Dev.to/JS] [Parallel Processing in JavaScript with Concurrency](https://dev.to/shnoman97/parallel-processing-in-javascript-with-concurrency-4gml)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build and Run a Web App using Turso, Drizzle ORM, and Express on Koyeb](https://dev.to/koyeb/build-and-run-a-web-app-using-turso-drizzle-orm-and-express-on-koyeb-1jd2)
 - [Dev.to/JS] [React Learning Basic to Advance](https://dev.to/mbuguadennis/react-learning-basic-to-advance-3n2p)
 - [Dev.to/JS] [Next JS dynamic page errors](https://dev.to/faseehqureshi/next-js-dynamic-page-errors-3h00)
-- [Dev.to/JS] [Mastering the Art of Software Design: A Deep Dive into SOLID Principles](https://dev.to/dr_anks/mastering-the-art-of-software-design-a-deep-dive-into-solid-principles-2ook)
-- [Dev.to/JS] [10 Days of DevOps Challenge⚙️](https://dev.to/isolderea/10-days-of-devops-challenge-3n6p)
 - [Crazy Programmer] [7 Different Types of Keys in DBMS](https://www.thecrazyprogrammer.com/2023/10/types-of-keys-in-dbms.html)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 10, 2023](https://lifehacker.com/nyt-connections-answer-today-october-10-2023-1850911643)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 12, 2023](https://lifehacker.com/nyt-connections-answer-today-october-12-2023-1850917526)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Beginner’s Guide to Playing Blackjack in a Casino Without Embarrassing Yourself](https://lifehacker.com/a-beginner-s-guide-to-playing-blackjack-in-a-casino-wit-1850913688)
 - [Lifehacker] [These Apps Are Secretly Cluttering Up Your Camera Roll](https://lifehacker.com/these-apps-are-secretly-cluttering-up-your-camera-roll-1850913660)
 - [Lifehacker] [Use the &#39;Production Effect&#39; to Study More Effectively](https://lifehacker.com/use-the-production-effect-to-study-more-effectively-1850915123)
-- [Lifehacker] [All the Things You Should Never Clean With Vinegar](https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553)
-- [Lifehacker] [How to Choose the Best Fall Fertilizer for Anything in Your Garden](https://lifehacker.com/how-to-choose-the-best-fall-fertilizer-for-anything-in-1850913755)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Things You Should Never Clean With Vinegar](https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553)<!-- TECH-POSTS:END -->
 
 ---
 
