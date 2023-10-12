@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lab 5 - Refactoring the code](https://dev.to/sshah135/lab-5-refactoring-the-code-4k27)
+- [Lifehacker] [Where to Stream the USC Vs. Notre Dame Game](https://lifehacker.com/where-to-stream-the-usc-vs-notre-dame-game-1850922956)
+- [Lifehacker] [The Right Way to Dry Bread for Stuffing](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)
+- [Lifehacker] [Where to Stream the Ohio State Vs. Purdue Game](https://lifehacker.com/where-to-stream-the-ohio-state-vs-purdue-1850922585)
 - [Dev.to/JS] [Mongoose: entendendo o básico](https://dev.to/htamagnus/mongoose-entendendo-o-basico-2i57)
 - [Lifehacker] [Where to Stream the Stanford Vs. Colorado Game](https://lifehacker.com/where-to-stream-the-stanford-vs-colorado-game-1850922214)
 - [Dev.to/JS] [Solana for Javascript developers](https://dev.to/almostefficient/solana-for-javascript-developers-448)
@@ -46,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Download Pictures and Videos From Threads on Your Android](https://lifehacker.com/how-to-download-pictures-and-videos-from-threads-on-you-1850920937)
 - [Lifehacker] [How to Protect Your Child From Weight Talk at the Doctor&#39;s Office](https://lifehacker.com/how-to-protect-your-child-from-weight-talk-at-the-docto-1850919240)
 - [Dev.to/JS] [A new and very useful web component 🚀](https://dev.to/nyousefi/a-new-and-very-useful-web-component-1406)
-- [Dev.to/JS] [Avoid the Promise.all pitfall!](https://dev.to/miketalbot/avoid-the-promiseall-pitfall-38ik)
 - [Lifehacker] [These New Sonoma Desktop Widgets Are Actually Useful](https://lifehacker.com/these-new-sonoma-desktop-widgets-are-actually-useful-1850913802)
 - [Lifehacker] [The Best Parcel Drop Boxes to Deter Package Thieves](https://lifehacker.com/the-best-parcel-drop-boxes-to-deter-package-thieves-1850920598)
 - [Lifehacker] [What People Are Getting Wrong This Week: &#39;Police Benevolent Association&#39; Calls](https://lifehacker.com/police-benevolent-association-calls-what-people-are-ge-1850920352)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Deals on Smart Lights for October Prime Day](https://lifehacker.com/these-are-the-best-deals-on-smart-lights-for-october-pr-1850918437)
 - [Lifehacker] [The Best Deals on Smart Doorbells During October Prime Day](https://lifehacker.com/the-best-deals-on-smart-doorbells-during-october-prime-1850917585)
 - [Lifehacker] [My Favorite Coffee Grinder Is $80 Right Now](https://lifehacker.com/my-favorite-coffee-grinder-is-80-right-now-1850917834)
-- [Lifehacker] [The Best Wireless Earbud Deals &lpar;From Cheap to Pricey&rpar; During October Prime Day](https://lifehacker.com/best-wireless-earbud-deals-prime-day-1850918280)
-- [Lifehacker] [This Highly Rated Smart Lock Is 50% Off for October Prime Day](https://lifehacker.com/this-highly-rated-smart-lock-is-50-off-for-october-pri-1850918061)
-- [Lifehacker] [You Can Get a Whole Blink Security System for up to 50% Off During October Prime Day](https://lifehacker.com/you-can-get-a-whole-blink-security-system-for-up-to-50-1850918233)
-- [Lifehacker] [The Google Pixel Watch Is $140 Off on Amazon Right Now](https://lifehacker.com/the-google-pixel-watch-is-140-off-on-amazon-right-now-1850917882)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Wireless Earbud Deals &lpar;From Cheap to Pricey&rpar; During October Prime Day](https://lifehacker.com/best-wireless-earbud-deals-prime-day-1850918280)<!-- TECH-POSTS:END -->
 
 ---
 
