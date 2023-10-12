@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Wage Access Apps are Just As Bad As Payday Loans](https://lifehacker.com/why-wage-access-apps-are-just-as-bad-as-payday-loans-1850914390)
+- [Dev.to/JS] [Travelling Light: Discover the Thrilling Side of Himachal Pradesh](https://dev.to/gilctrav/travelling-light-discover-the-thrilling-side-of-himachal-pradesh-5a7h)
+- [Dev.to/JS] [Guide to Implementing Function-as-a-Service: A Deep Dive into Serverless Computing](https://dev.to/documatic/guide-to-implementing-function-as-a-service-a-deep-dive-into-serverless-computing-55gd)
+- [Dev.to/JS] [Building My First Full-Stack Web Application with React, MongoDB, Node.js, Express.js](https://dev.to/anandprabhu530/building-my-first-full-stack-web-application-with-react-mongodb-nodejs-expressjs-19am)
+- [Dev.to/JS] [Build and Run a Web App using Turso, Drizzle ORM, and Express on Koyeb](https://dev.to/koyeb/build-and-run-a-web-app-using-turso-drizzle-orm-and-express-on-koyeb-1jd2)
+- [Dev.to/JS] [React Learning Basic to Advance](https://dev.to/mbuguadennis/react-learning-basic-to-advance-3n2p)
 - [Dev.to/JS] [Next JS dynamic page errors](https://dev.to/faseehqureshi/next-js-dynamic-page-errors-3h00)
 - [Dev.to/JS] [Mastering the Art of Software Design: A Deep Dive into SOLID Principles](https://dev.to/dr_anks/mastering-the-art-of-software-design-a-deep-dive-into-solid-principles-2ook)
 - [Dev.to/JS] [10 Days of DevOps Challenge⚙️](https://dev.to/isolderea/10-days-of-devops-challenge-3n6p)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Refactoring: The Art of Crafting Readable, Concise, and Well-Designed Code](https://dev.to/lordneic/code-refactoring-the-art-of-crafting-readable-concise-and-well-designed-code-3g79)
 - [Dev.to/JS] [Building an AI assistant for ecommerce with Medusa, Vercel AI SDK, and OpenAI](https://dev.to/medusajs/building-an-ai-assistant-for-ecommerce-with-medusa-vercel-ai-sdk-and-openai-27dp)
 - [Dev.to/JS] [🌟 Discover the world of stunning web themes! 🌟](https://dev.to/lilybrown47/discover-the-world-of-stunning-web-themes-12kg)
-- [Dev.to/JS] [Angular Authentication: Route Guards.](https://dev.to/samuelwachira/angular-authentication-route-guards-4joe)
-- [Dev.to/JS] [Unleashing GraphQL Type-Based Mocking](https://dev.to/skathuria29/unleashing-graphql-type-based-mocking-jpk)
-- [Dev.to/JS] [Comparing 11 Top Email Service Providers](https://dev.to/shreyvijayvargiya/comparing-11-top-email-service-providers-3kbh)
-- [Dev.to/JS] [💙 TypeScript Decorators in Brief](https://dev.to/refine/typescript-decorators-in-brief-1i23)
-- [Dev.to/JS] [$ brain/challenge.js](https://dev.to/haykerman/-brainchallengejs-3pmj)
 - [Crazy Programmer] [7 Different Types of Keys in DBMS](https://www.thecrazyprogrammer.com/2023/10/types-of-keys-in-dbms.html)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 10, 2023](https://lifehacker.com/nyt-connections-answer-today-october-10-2023-1850911643)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 12, 2023](https://lifehacker.com/nyt-connections-answer-today-october-12-2023-1850917526)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Things You Should Never Clean With Vinegar](https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553)
 - [Lifehacker] [How to Choose the Best Fall Fertilizer for Anything in Your Garden](https://lifehacker.com/how-to-choose-the-best-fall-fertilizer-for-anything-in-1850913755)
 - [Lifehacker] [Layer Your Bulbs in Planters to Get Months of Flowers](https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
-- [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)<!-- TECH-POSTS:END -->
 
 ---
 
