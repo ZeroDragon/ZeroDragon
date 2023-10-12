@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Clean Code Cookbook is Out](https://dev.to/mcsee/clean-code-cookbook-is-out-4cfc)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 10, 2023](https://lifehacker.com/nyt-connections-answer-today-october-10-2023-1850911643)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 12, 2023](https://lifehacker.com/nyt-connections-answer-today-october-12-2023-1850917526)
 - [Dev.to/JS] [All About JS Functions](https://dev.to/itsmohamedyahia/all-about-functions-4a8d)
 - [Dev.to/JS] [Build Your Own Epik-inspired App: Transform Selfies into &#39;90s Yearbook Photos with Node.js and AI](https://dev.to/mikeyoung44/build-your-own-epik-inspired-app-transform-selfies-into-90s-yearbook-photos-with-nodejs-and-ai-4oel)
 - [Dev.to/JS] [How to Create an Effective Enterprise Business Application: Essential Guide](https://dev.to/flatlogic/how-to-create-an-effective-enterprise-business-application-essential-guide-1ad0)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Deals on Smart Doorbells During October Prime Day](https://lifehacker.com/the-best-deals-on-smart-doorbells-during-october-prime-1850917585)
 - [Lifehacker] [My Favorite Coffee Grinder Is $80 Right Now](https://lifehacker.com/my-favorite-coffee-grinder-is-80-right-now-1850917834)
 - [Lifehacker] [The Best Wireless Earbud Deals &lpar;From Cheap to Pricey&rpar; During October Prime Day](https://lifehacker.com/best-wireless-earbud-deals-prime-day-1850918280)
-- [Dev.to/JS] [The Ultimate Guide to Building a Telegram Clone with Next.js 13 &amp; Express &lpar;Tailwind.css , Socket.io , MongoDB&rpar;](https://dev.to/alishirani/the-ultimate-guide-to-building-a-telegram-clone-with-nextjs-13-express-tailwindcss-socketio-mongodb-2io5)
 - [Lifehacker] [This Highly Rated Smart Lock Is 50% Off for October Prime Day](https://lifehacker.com/this-highly-rated-smart-lock-is-50-off-for-october-pri-1850918061)
 - [Lifehacker] [You Can Get a Whole Blink Security System for up to 50% Off During October Prime Day](https://lifehacker.com/you-can-get-a-whole-blink-security-system-for-up-to-50-1850918233)
 - [Lifehacker] [The Google Pixel Watch Is $140 Off on Amazon Right Now](https://lifehacker.com/the-google-pixel-watch-is-140-off-on-amazon-right-now-1850917882)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Layer Your Bulbs in Planters to Get Months of Flowers](https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
 - [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
-- [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)
-- [Lifehacker] [These Vitamix Blenders Are Deeply Discounted for October Prime Day](https://lifehacker.com/these-vitamix-blenders-are-deeply-discounted-for-octobe-1850915653)
-- [Lifehacker] [This Kasa Smart Power Strip Is 50% Off for October Prime Day](https://lifehacker.com/this-kasa-smart-power-strip-is-50-off-for-october-prim-1850913738)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)<!-- TECH-POSTS:END -->
 
 ---
 
