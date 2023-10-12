@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Meal Delivery Services for Busy Families](https://lifehacker.com/these-are-the-best-meal-delivery-services-for-busy-fami-1850916963)
+- [Dev.to/JS] [The Full-Stack development experience](https://dev.to/coorasse/the-full-stack-development-experience-297n)
+- [Dev.to/JS] [Parallel Processing in JavaScript with Concurrency](https://dev.to/shnoman97/parallel-processing-in-javascript-with-concurrency-4gml)
+- [Lifehacker] [You Should Build a Pain ‘Tool Kit’ to Manage Flare-Ups](https://lifehacker.com/you-should-build-a-pain-tool-kit-to-manage-flare-ups-1850916785)
+- [Dev.to/JS] [Web application development: languages and tools](https://dev.to/sparkouttech/web-application-development-languages-and-tools-1hkj)
+- [Dev.to/JS] [Building a Scrollable Navbar with React: A Step-by-Step Guide](https://dev.to/ryaddev/building-a-scrollable-navbar-with-react-a-step-by-step-guide-268p)
 - [Lifehacker] [Why Wage Access Apps are Just As Bad As Payday Loans](https://lifehacker.com/why-wage-access-apps-are-just-as-bad-as-payday-loans-1850914390)
 - [Dev.to/JS] [Travelling Light: Discover the Thrilling Side of Himachal Pradesh](https://dev.to/gilctrav/travelling-light-discover-the-thrilling-side-of-himachal-pradesh-5a7h)
 - [Dev.to/JS] [Guide to Implementing Function-as-a-Service: A Deep Dive into Serverless Computing](https://dev.to/documatic/guide-to-implementing-function-as-a-service-a-deep-dive-into-serverless-computing-55gd)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next JS dynamic page errors](https://dev.to/faseehqureshi/next-js-dynamic-page-errors-3h00)
 - [Dev.to/JS] [Mastering the Art of Software Design: A Deep Dive into SOLID Principles](https://dev.to/dr_anks/mastering-the-art-of-software-design-a-deep-dive-into-solid-principles-2ook)
 - [Dev.to/JS] [10 Days of DevOps Challenge⚙️](https://dev.to/isolderea/10-days-of-devops-challenge-3n6p)
-- [Dev.to/JS] [Turmeric Facial Wax Powder: An Ancient Beauty Secret](https://dev.to/faithandpatience/turmeric-facial-wax-powder-an-ancient-beauty-secret-32nk)
-- [Dev.to/JS] [Code Refactoring: The Art of Crafting Readable, Concise, and Well-Designed Code](https://dev.to/lordneic/code-refactoring-the-art-of-crafting-readable-concise-and-well-designed-code-3g79)
-- [Dev.to/JS] [Building an AI assistant for ecommerce with Medusa, Vercel AI SDK, and OpenAI](https://dev.to/medusajs/building-an-ai-assistant-for-ecommerce-with-medusa-vercel-ai-sdk-and-openai-27dp)
-- [Dev.to/JS] [🌟 Discover the world of stunning web themes! 🌟](https://dev.to/lilybrown47/discover-the-world-of-stunning-web-themes-12kg)
 - [Crazy Programmer] [7 Different Types of Keys in DBMS](https://www.thecrazyprogrammer.com/2023/10/types-of-keys-in-dbms.html)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 10, 2023](https://lifehacker.com/nyt-connections-answer-today-october-10-2023-1850911643)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 12, 2023](https://lifehacker.com/nyt-connections-answer-today-october-12-2023-1850917526)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Apps Are Secretly Cluttering Up Your Camera Roll](https://lifehacker.com/these-apps-are-secretly-cluttering-up-your-camera-roll-1850913660)
 - [Lifehacker] [Use the &#39;Production Effect&#39; to Study More Effectively](https://lifehacker.com/use-the-production-effect-to-study-more-effectively-1850915123)
 - [Lifehacker] [All the Things You Should Never Clean With Vinegar](https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553)
-- [Lifehacker] [How to Choose the Best Fall Fertilizer for Anything in Your Garden](https://lifehacker.com/how-to-choose-the-best-fall-fertilizer-for-anything-in-1850913755)
-- [Lifehacker] [Layer Your Bulbs in Planters to Get Months of Flowers](https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose the Best Fall Fertilizer for Anything in Your Garden](https://lifehacker.com/how-to-choose-the-best-fall-fertilizer-for-anything-in-1850913755)<!-- TECH-POSTS:END -->
 
 ---
 
