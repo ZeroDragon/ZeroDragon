@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Coding Projects for Middle and High School Students](https://dev.to/codeguppy/10-coding-projects-for-middle-and-high-school-students-2la1)
+- [Dev.to/JS] [Prototype In Javascript](https://dev.to/zeeshanali0704/prototype-in-javascript-5b44)
+- [Dev.to/JS] [10 Features Driving Your Chrome Extension Development](https://dev.to/tonychain/10-features-driving-your-chrome-extension-development-3j7a)
 - [Dev.to/JS] [JavaScript Magic Tricks: Manipulating URLs](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-manipulating-urls-11i7)
 - [Dev.to/JS] [Clean Code Cookbook is Out](https://dev.to/mcsee/clean-code-cookbook-is-out-4cfc)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 10, 2023](https://lifehacker.com/nyt-connections-answer-today-october-10-2023-1850911643)
@@ -38,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Trabalhando com Funções de Setas &lpar;Arrow Functions&rpar; em JavaScript](https://dev.to/brayanmonteiroo/trabalhando-com-funcoes-de-setas-arrow-functions-em-javascript-2jci)
 - [Dev.to/JS] [Programação Orientada a Objetos &lpar;POO&rpar; em JavaScript: Conceitos Fundamentais](https://dev.to/brayanmonteiroo/programacao-orientada-a-objetos-poo-em-javascript-conceitos-fundamentais-1aek)
 - [Dev.to/JS] [Promessas em JavaScript: Trabalhando com Assincronia de Forma Elegante](https://dev.to/brayanmonteiroo/promessas-em-javascript-trabalhando-com-assincronia-de-forma-elegante-5a6l)
-- [Dev.to/JS] [Eventos em Node.js: Uma Introdução Abrangente](https://dev.to/brayanmonteiroo/eventos-em-nodejs-uma-introducao-abrangente-2b9l)
 - [Lifehacker] [These Robot Vacuums Are at All-Time Low Prices During October Prime Day](https://lifehacker.com/robot-vacuum-deals-prime-day-1850919434)
-- [Dev.to/JS] [JavaScript: Procedural, Functional, or Object-Oriented?](https://dev.to/uncle_ben/javascript-procedural-functional-or-object-oriented-2km0)
 - [Lifehacker] [These Dyson Vacuum &#39;Dupes&#39; Are up to 44% Off During October Prime Day](https://lifehacker.com/best-dyson-dupe-deals-prime-day-1850918597)
-- [Dev.to/JS] [Uma Jornada na Engenharia de Software: Minha História e Experiência](https://dev.to/rntvicente/uma-jornada-na-engenharia-de-software-minha-historia-e-experiencia-jbn)
 - [Lifehacker] [These Are the Best Deals on Smart Lights for October Prime Day](https://lifehacker.com/these-are-the-best-deals-on-smart-lights-for-october-pr-1850918437)
 - [Lifehacker] [The Best Deals on Smart Doorbells During October Prime Day](https://lifehacker.com/the-best-deals-on-smart-doorbells-during-october-prime-1850917585)
 - [Lifehacker] [My Favorite Coffee Grinder Is $80 Right Now](https://lifehacker.com/my-favorite-coffee-grinder-is-80-right-now-1850917834)
