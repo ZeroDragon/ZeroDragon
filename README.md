@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🌟 Discover the world of stunning web themes! 🌟](https://dev.to/lilybrown47/discover-the-world-of-stunning-web-themes-12kg)
+- [Dev.to/JS] [Angular Authentication: Route Guards.](https://dev.to/samuelwachira/angular-authentication-route-guards-4joe)
+- [Dev.to/JS] [Unleashing GraphQL Type-Based Mocking](https://dev.to/skathuria29/unleashing-graphql-type-based-mocking-jpk)
+- [Dev.to/JS] [Comparing 11 Top Email Service Providers](https://dev.to/shreyvijayvargiya/comparing-11-top-email-service-providers-3kbh)
 - [Dev.to/JS] [💙 TypeScript Decorators in Brief](https://dev.to/refine/typescript-decorators-in-brief-1i23)
 - [Dev.to/JS] [$ brain/challenge.js](https://dev.to/haykerman/-brainchallengejs-3pmj)
 - [Dev.to/JS] [da](https://dev.to/bachhieu/da-3mcp)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gratis microsoft office 2019](https://dev.to/yasir2520000/gratis-microsoft-office-2019-28o3)
 - [Dev.to/JS] [10 Coding Projects for Middle and High School Students](https://dev.to/codeguppy/10-coding-projects-for-middle-and-high-school-students-2la1)
 - [Dev.to/JS] [Prototype In Javascript](https://dev.to/zeeshanali0704/prototype-in-javascript-5b44)
-- [Dev.to/JS] [10 Features Driving Your Chrome Extension Development](https://dev.to/tonychain/10-features-driving-your-chrome-extension-development-3j7a)
-- [Dev.to/JS] [JavaScript Magic Tricks: Manipulating URLs](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-manipulating-urls-11i7)
-- [Dev.to/JS] [Clean Code Cookbook is Out](https://dev.to/mcsee/clean-code-cookbook-is-out-4cfc)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 10, 2023](https://lifehacker.com/nyt-connections-answer-today-october-10-2023-1850911643)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 12, 2023](https://lifehacker.com/nyt-connections-answer-today-october-12-2023-1850917526)
-- [Dev.to/JS] [All About JS Functions](https://dev.to/itsmohamedyahia/all-about-functions-4a8d)
 - [Lifehacker] [The Newest Google Pixel Buds Are Already 40% Off](https://lifehacker.com/the-newest-google-pixel-buds-are-already-40-off-1850919604)
 - [Lifehacker] [These Robot Vacuums Are at All-Time Low Prices During October Prime Day](https://lifehacker.com/robot-vacuum-deals-prime-day-1850919434)
 - [Lifehacker] [These Dyson Vacuum &#39;Dupes&#39; Are up to 44% Off During October Prime Day](https://lifehacker.com/best-dyson-dupe-deals-prime-day-1850918597)
