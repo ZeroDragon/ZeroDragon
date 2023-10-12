@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Buy the PS5 Slim](https://lifehacker.com/dont-buy-the-ps5-slim-1850921681)
+- [Dev.to/JS] [I need a job as a Frontend Developer](https://dev.to/gauravsoni97/i-need-a-job-as-a-frontend-developer-1alm)
+- [Dev.to/JS] [Next steps of junior developer: how to maintain the growth](https://dev.to/haskinator/next-steps-of-junior-developer-how-to-maintain-the-growth-5022)
 - [Dev.to/JS] [🎃 The Hacktoberfest challenge giving physical merch prizes 🧢](https://dev.to/quine/the-hacktoberfest-challenge-giving-physical-merch-prizes-32oa)
 - [Dev.to/JS] [Preparing a React course in public - modifying the DOM with Vanilla Js](https://dev.to/manuartero/preparing-a-react-course-in-public-modifying-the-dom-with-vanilla-js-9kf)
 - [Dev.to/JS] [Building a Simple Node.js App for Downloading PDFs using Express.js](https://dev.to/fredabod/building-a-simple-nodejs-app-for-downloading-pdfs-using-expressjs-42ki)
@@ -43,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Full-Stack development experience](https://dev.to/coorasse/the-full-stack-development-experience-297n)
 - [Dev.to/JS] [Parallel Processing in JavaScript with Concurrency](https://dev.to/shnoman97/parallel-processing-in-javascript-with-concurrency-4gml)
 - [Lifehacker] [You Should Build a Pain ‘Tool Kit’ to Manage Flare-Ups](https://lifehacker.com/you-should-build-a-pain-tool-kit-to-manage-flare-ups-1850916785)
-- [Dev.to/JS] [Web application development: languages and tools](https://dev.to/sparkouttech/web-application-development-languages-and-tools-1hkj)
-- [Dev.to/JS] [Building a Scrollable Navbar with React: A Step-by-Step Guide](https://dev.to/ryaddev/building-a-scrollable-navbar-with-react-a-step-by-step-guide-268p)
 - [Lifehacker] [Why Wage Access Apps are Just As Bad As Payday Loans](https://lifehacker.com/why-wage-access-apps-are-just-as-bad-as-payday-loans-1850914390)
 - [Crazy Programmer] [7 Different Types of Keys in DBMS](https://www.thecrazyprogrammer.com/2023/10/types-of-keys-in-dbms.html)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 10, 2023](https://lifehacker.com/nyt-connections-answer-today-october-10-2023-1850911643)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Reduce Background Noises From Videos on Your Pixel 8](https://lifehacker.com/you-can-now-reduce-background-noises-from-videos-on-you-1850904039)
 - [Lifehacker] [Toss These Foods in Your Oven While You&#39;re Cooking Something Else](https://lifehacker.com/toss-these-foods-in-your-oven-while-youre-cooking-somet-1850913080)
 - [Lifehacker] [The Best LEGO Deals During October Prime Day](https://lifehacker.com/the-best-lego-deals-during-october-prime-day-1850916502)
-- [Lifehacker] [These Are the Best Dyson Vacuum Deals for Walmart’s Version of Prime Day](https://lifehacker.com/these-are-the-best-dyson-vacuum-deals-for-walmart-s-ver-1850916171)
-- [Lifehacker] [The 24 Best Horror Comedies Streaming Right Now](https://lifehacker.com/best-horror-comedies-1850914493)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Dyson Vacuum Deals for Walmart’s Version of Prime Day](https://lifehacker.com/these-are-the-best-dyson-vacuum-deals-for-walmart-s-ver-1850916171)<!-- TECH-POSTS:END -->
 
 ---
 
