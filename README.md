@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [da](https://dev.to/bachhieu/da-3mcp)
+- [Crazy Programmer] [7 Different Types of Keys in DBMS](https://www.thecrazyprogrammer.com/2023/10/types-of-keys-in-dbms.html)
+- [Dev.to/JS] [SY0-601 Exam Domination: Academic Approaches for Victory](https://dev.to/examdumps/sy0-601-exam-domination-academic-approaches-for-victory-3l8e)
 - [Dev.to/JS] [Cara Mengunduh Microsoft Office 2019-di Jalan Tikus Yasir252](https://dev.to/yasir2520000/cara-mengunduh-microsoft-office-2019-di-jalan-tikus-yasir252-1595)
 - [Dev.to/JS] [Gratis microsoft office 2019](https://dev.to/yasir2520000/gratis-microsoft-office-2019-28o3)
 - [Dev.to/JS] [10 Coding Projects for Middle and High School Students](https://dev.to/codeguppy/10-coding-projects-for-middle-and-high-school-students-2la1)
@@ -38,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All About JS Functions](https://dev.to/itsmohamedyahia/all-about-functions-4a8d)
 - [Dev.to/JS] [Build Your Own Epik-inspired App: Transform Selfies into &#39;90s Yearbook Photos with Node.js and AI](https://dev.to/mikeyoung44/build-your-own-epik-inspired-app-transform-selfies-into-90s-yearbook-photos-with-nodejs-and-ai-4oel)
 - [Dev.to/JS] [How to Create an Effective Enterprise Business Application: Essential Guide](https://dev.to/flatlogic/how-to-create-an-effective-enterprise-business-application-essential-guide-1ad0)
-- [Dev.to/JS] [Trabalhando com Promessas em JavaScript: Uma Abordagem Profunda](https://dev.to/brayanmonteiroo/trabalhando-com-promessas-em-javascript-uma-abordagem-profunda-5022)
 - [Lifehacker] [The Newest Google Pixel Buds Are Already 40% Off](https://lifehacker.com/the-newest-google-pixel-buds-are-already-40-off-1850919604)
-- [Dev.to/JS] [Trabalhando com Funções de Setas &lpar;Arrow Functions&rpar; em JavaScript](https://dev.to/brayanmonteiroo/trabalhando-com-funcoes-de-setas-arrow-functions-em-javascript-2jci)
 - [Lifehacker] [These Robot Vacuums Are at All-Time Low Prices During October Prime Day](https://lifehacker.com/robot-vacuum-deals-prime-day-1850919434)
 - [Lifehacker] [These Dyson Vacuum &#39;Dupes&#39; Are up to 44% Off During October Prime Day](https://lifehacker.com/best-dyson-dupe-deals-prime-day-1850918597)
 - [Lifehacker] [These Are the Best Deals on Smart Lights for October Prime Day](https://lifehacker.com/these-are-the-best-deals-on-smart-lights-for-october-pr-1850918437)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Best Fall Fertilizer for Anything in Your Garden](https://lifehacker.com/how-to-choose-the-best-fall-fertilizer-for-anything-in-1850913755)
 - [Lifehacker] [Layer Your Bulbs in Planters to Get Months of Flowers](https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 11, 2023](https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556)
-- [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)
-- [Lifehacker] [The Newest Kindle Paperwhite Is 32% Off for October Prime Day](https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Bike Gear on Sale During October Prime Day](https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146)<!-- TECH-POSTS:END -->
 
 ---
 
