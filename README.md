@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New Features in Next.js 13 that make Server Side Rendering way cooler](https://dev.to/cynthiaisutsa/new-features-in-nextjs-13-that-make-server-side-rendering-way-cooler-1fhm)
+- [Lifehacker] [The Best Way to Clean Your Uggs](https://lifehacker.com/the-best-way-to-clean-your-uggs-1850923424)
+- [Dev.to/JS] [Setting up TinaCMS with Astro](https://dev.to/idiglove/setting-up-tinacms-with-astro-5fm)
+- [Dev.to/JS] [Validating forms, an easy way](https://dev.to/artydev/validating-forms-an-easy-way-169n)
+- [Dev.to/JS] [How To Get Free 10 BNB with PancakeSwap Full Tutorial 2023](https://dev.to/cointelegraph/how-to-get-free-10-bnb-with-pancakeswap-full-tutorial-2023-2ee6)
+- [Dev.to/JS] [How To Get Free 4 ETH with UniSwap Full Tutorial 2023](https://dev.to/cointelegraph/how-to-get-free-4-eth-with-uniswap-full-tutorial-2023-56ni)
+- [Lifehacker] [The Pura 4 Smart Diffuser Answers the Question, ‘Why Would Anyone Need a Smart Diffuser?’](https://lifehacker.com/pura-4-smart-diffuser-review-1850921822)
+- [Lifehacker] [These Popular TikTok Cleaning ‘Hacks’ Don’t Actually Work](https://lifehacker.com/these-popular-tiktok-cleaning-hacks-don-t-actually-wo-1850922216)
 - [Dev.to/JS] [Lab 5 - Refactoring the code](https://dev.to/sshah135/lab-5-refactoring-the-code-4k27)
 - [Lifehacker] [Where to Stream the USC Vs. Notre Dame Game](https://lifehacker.com/where-to-stream-the-usc-vs-notre-dame-game-1850922956)
 - [Lifehacker] [The Right Way to Dry Bread for Stuffing](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)
@@ -42,14 +50,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘Von Restorff Effect’ When Studying Difficult Concepts](https://lifehacker.com/how-to-use-von-resteroff-effect-when-studying-1850921998)
 - [Lifehacker] [The Gmail Add-ons You Need &lpar;and the Ones You Don’t&rpar;](https://lifehacker.com/the-gmail-add-ons-you-need-and-the-ones-you-don-t-1850921673)
 - [Lifehacker] [Don&#39;t Buy the PS5 Slim](https://lifehacker.com/dont-buy-the-ps5-slim-1850921681)
-- [Dev.to/JS] [I need a job as a Frontend Developer](https://dev.to/gauravsoni97/i-need-a-job-as-a-frontend-developer-1alm)
 - [Dev.to/JS] [Next steps of junior developer: how to maintain the growth](https://dev.to/haskinator/next-steps-of-junior-developer-how-to-maintain-the-growth-5022)
-- [Dev.to/JS] [🎃 The Hacktoberfest challenge giving physical merch prizes 🧢](https://dev.to/quine/the-hacktoberfest-challenge-giving-physical-merch-prizes-32oa)
-- [Dev.to/JS] [Preparing a React course in public - modifying the DOM with Vanilla Js](https://dev.to/manuartero/preparing-a-react-course-in-public-modifying-the-dom-with-vanilla-js-9kf)
-- [Dev.to/JS] [Building a Simple Node.js App for Downloading PDFs using Express.js](https://dev.to/fredabod/building-a-simple-nodejs-app-for-downloading-pdfs-using-expressjs-42ki)
 - [Lifehacker] [How to Download Pictures and Videos From Threads on Your Android](https://lifehacker.com/how-to-download-pictures-and-videos-from-threads-on-you-1850920937)
 - [Lifehacker] [How to Protect Your Child From Weight Talk at the Doctor&#39;s Office](https://lifehacker.com/how-to-protect-your-child-from-weight-talk-at-the-docto-1850919240)
-- [Dev.to/JS] [A new and very useful web component 🚀](https://dev.to/nyousefi/a-new-and-very-useful-web-component-1406)
 - [Lifehacker] [These New Sonoma Desktop Widgets Are Actually Useful](https://lifehacker.com/these-new-sonoma-desktop-widgets-are-actually-useful-1850913802)
 - [Lifehacker] [The Best Parcel Drop Boxes to Deter Package Thieves](https://lifehacker.com/the-best-parcel-drop-boxes-to-deter-package-thieves-1850920598)
 - [Lifehacker] [What People Are Getting Wrong This Week: &#39;Police Benevolent Association&#39; Calls](https://lifehacker.com/police-benevolent-association-calls-what-people-are-ge-1850920352)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Newest Google Pixel Buds Are Already 40% Off](https://lifehacker.com/the-newest-google-pixel-buds-are-already-40-off-1850919604)
 - [Lifehacker] [These Robot Vacuums Are at All-Time Low Prices During October Prime Day](https://lifehacker.com/robot-vacuum-deals-prime-day-1850919434)
 - [Lifehacker] [These Dyson Vacuum &#39;Dupes&#39; Are up to 44% Off During October Prime Day](https://lifehacker.com/best-dyson-dupe-deals-prime-day-1850918597)
-- [Lifehacker] [These Are the Best Deals on Smart Lights for October Prime Day](https://lifehacker.com/these-are-the-best-deals-on-smart-lights-for-october-pr-1850918437)
-- [Lifehacker] [The Best Deals on Smart Doorbells During October Prime Day](https://lifehacker.com/the-best-deals-on-smart-doorbells-during-october-prime-1850917585)
-- [Lifehacker] [My Favorite Coffee Grinder Is $80 Right Now](https://lifehacker.com/my-favorite-coffee-grinder-is-80-right-now-1850917834)
-- [Lifehacker] [The Best Wireless Earbud Deals &lpar;From Cheap to Pricey&rpar; During October Prime Day](https://lifehacker.com/best-wireless-earbud-deals-prime-day-1850918280)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Deals on Smart Lights for October Prime Day](https://lifehacker.com/these-are-the-best-deals-on-smart-lights-for-october-pr-1850918437)<!-- TECH-POSTS:END -->
 
 ---
 
