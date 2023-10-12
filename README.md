@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [💙 TypeScript Decorators in Brief](https://dev.to/refine/typescript-decorators-in-brief-1i23)
+- [Dev.to/JS] [$ brain/challenge.js](https://dev.to/haykerman/-brainchallengejs-3pmj)
 - [Dev.to/JS] [da](https://dev.to/bachhieu/da-3mcp)
 - [Crazy Programmer] [7 Different Types of Keys in DBMS](https://www.thecrazyprogrammer.com/2023/10/types-of-keys-in-dbms.html)
 - [Dev.to/JS] [SY0-601 Exam Domination: Academic Approaches for Victory](https://dev.to/examdumps/sy0-601-exam-domination-academic-approaches-for-victory-3l8e)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 10, 2023](https://lifehacker.com/nyt-connections-answer-today-october-10-2023-1850911643)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 12, 2023](https://lifehacker.com/nyt-connections-answer-today-october-12-2023-1850917526)
 - [Dev.to/JS] [All About JS Functions](https://dev.to/itsmohamedyahia/all-about-functions-4a8d)
-- [Dev.to/JS] [Build Your Own Epik-inspired App: Transform Selfies into &#39;90s Yearbook Photos with Node.js and AI](https://dev.to/mikeyoung44/build-your-own-epik-inspired-app-transform-selfies-into-90s-yearbook-photos-with-nodejs-and-ai-4oel)
-- [Dev.to/JS] [How to Create an Effective Enterprise Business Application: Essential Guide](https://dev.to/flatlogic/how-to-create-an-effective-enterprise-business-application-essential-guide-1ad0)
 - [Lifehacker] [The Newest Google Pixel Buds Are Already 40% Off](https://lifehacker.com/the-newest-google-pixel-buds-are-already-40-off-1850919604)
 - [Lifehacker] [These Robot Vacuums Are at All-Time Low Prices During October Prime Day](https://lifehacker.com/robot-vacuum-deals-prime-day-1850919434)
 - [Lifehacker] [These Dyson Vacuum &#39;Dupes&#39; Are up to 44% Off During October Prime Day](https://lifehacker.com/best-dyson-dupe-deals-prime-day-1850918597)
