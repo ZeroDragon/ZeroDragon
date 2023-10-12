@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 4: Building a Registration Form](https://dev.to/duke09/day-4-building-a-registration-form-3774)
+- [Dev.to/JS] [Buy Verified Skrill Accounts](https://dev.to/johnbruceds129/buy-verified-skrill-accounts-2pk2)
+- [Lifehacker] [Use the ‘Von Restorff Effect’ When Studying Difficult Concepts](https://lifehacker.com/how-to-use-von-resteroff-effect-when-studying-1850921998)
+- [Lifehacker] [The Gmail Add-ons You Need &lpar;and the Ones You Don’t&rpar;](https://lifehacker.com/the-gmail-add-ons-you-need-and-the-ones-you-don-t-1850921673)
 - [Lifehacker] [Don&#39;t Buy the PS5 Slim](https://lifehacker.com/dont-buy-the-ps5-slim-1850921681)
 - [Dev.to/JS] [I need a job as a Frontend Developer](https://dev.to/gauravsoni97/i-need-a-job-as-a-frontend-developer-1alm)
 - [Dev.to/JS] [Next steps of junior developer: how to maintain the growth](https://dev.to/haskinator/next-steps-of-junior-developer-how-to-maintain-the-growth-5022)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: &#39;Police Benevolent Association&#39; Calls](https://lifehacker.com/police-benevolent-association-calls-what-people-are-ge-1850920352)
 - [Dev.to/JS] [codedamn: The Perfect Platform to Learn Programming 🖥️💡](https://dev.to/arjuncodess/codedamn-the-perfect-platform-to-learn-programming-417e)
 - [Lifehacker] [These Are the Best Meal Delivery Services for Busy Families](https://lifehacker.com/these-are-the-best-meal-delivery-services-for-busy-fami-1850916963)
-- [Dev.to/JS] [The Full-Stack development experience](https://dev.to/coorasse/the-full-stack-development-experience-297n)
-- [Dev.to/JS] [Parallel Processing in JavaScript with Concurrency](https://dev.to/shnoman97/parallel-processing-in-javascript-with-concurrency-4gml)
 - [Lifehacker] [You Should Build a Pain ‘Tool Kit’ to Manage Flare-Ups](https://lifehacker.com/you-should-build-a-pain-tool-kit-to-manage-flare-ups-1850916785)
 - [Lifehacker] [Why Wage Access Apps are Just As Bad As Payday Loans](https://lifehacker.com/why-wage-access-apps-are-just-as-bad-as-payday-loans-1850914390)
 - [Crazy Programmer] [7 Different Types of Keys in DBMS](https://www.thecrazyprogrammer.com/2023/10/types-of-keys-in-dbms.html)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Garmin&#39;s Forerunner 945 Smartwatch Is Only $320 Today](https://lifehacker.com/garmins-forerunner-945-smartwatch-is-only-320-today-1850918717)
 - [Lifehacker] [You Can Save up to $400 on These Galaxy Smartphones Right Now](https://lifehacker.com/you-can-save-up-to-400-on-these-galaxy-smartphones-rig-1850917822)
 - [Lifehacker] [You Can Now Reduce Background Noises From Videos on Your Pixel 8](https://lifehacker.com/you-can-now-reduce-background-noises-from-videos-on-you-1850904039)
-- [Lifehacker] [Toss These Foods in Your Oven While You&#39;re Cooking Something Else](https://lifehacker.com/toss-these-foods-in-your-oven-while-youre-cooking-somet-1850913080)
-- [Lifehacker] [The Best LEGO Deals During October Prime Day](https://lifehacker.com/the-best-lego-deals-during-october-prime-day-1850916502)
-- [Lifehacker] [These Are the Best Dyson Vacuum Deals for Walmart’s Version of Prime Day](https://lifehacker.com/these-are-the-best-dyson-vacuum-deals-for-walmart-s-ver-1850916171)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Toss These Foods in Your Oven While You&#39;re Cooking Something Else](https://lifehacker.com/toss-these-foods-in-your-oven-while-youre-cooking-somet-1850913080)<!-- TECH-POSTS:END -->
 
 ---
 
