@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cara Mengunduh Microsoft Office 2019-di Jalan Tikus Yasir252](https://dev.to/yasir2520000/cara-mengunduh-microsoft-office-2019-di-jalan-tikus-yasir252-1595)
+- [Dev.to/JS] [Gratis microsoft office 2019](https://dev.to/yasir2520000/gratis-microsoft-office-2019-28o3)
 - [Dev.to/JS] [10 Coding Projects for Middle and High School Students](https://dev.to/codeguppy/10-coding-projects-for-middle-and-high-school-students-2la1)
 - [Dev.to/JS] [Prototype In Javascript](https://dev.to/zeeshanali0704/prototype-in-javascript-5b44)
 - [Dev.to/JS] [10 Features Driving Your Chrome Extension Development](https://dev.to/tonychain/10-features-driving-your-chrome-extension-development-3j7a)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Trabalhando com Promessas em JavaScript: Uma Abordagem Profunda](https://dev.to/brayanmonteiroo/trabalhando-com-promessas-em-javascript-uma-abordagem-profunda-5022)
 - [Lifehacker] [The Newest Google Pixel Buds Are Already 40% Off](https://lifehacker.com/the-newest-google-pixel-buds-are-already-40-off-1850919604)
 - [Dev.to/JS] [Trabalhando com Funções de Setas &lpar;Arrow Functions&rpar; em JavaScript](https://dev.to/brayanmonteiroo/trabalhando-com-funcoes-de-setas-arrow-functions-em-javascript-2jci)
-- [Dev.to/JS] [Programação Orientada a Objetos &lpar;POO&rpar; em JavaScript: Conceitos Fundamentais](https://dev.to/brayanmonteiroo/programacao-orientada-a-objetos-poo-em-javascript-conceitos-fundamentais-1aek)
-- [Dev.to/JS] [Promessas em JavaScript: Trabalhando com Assincronia de Forma Elegante](https://dev.to/brayanmonteiroo/promessas-em-javascript-trabalhando-com-assincronia-de-forma-elegante-5a6l)
 - [Lifehacker] [These Robot Vacuums Are at All-Time Low Prices During October Prime Day](https://lifehacker.com/robot-vacuum-deals-prime-day-1850919434)
 - [Lifehacker] [These Dyson Vacuum &#39;Dupes&#39; Are up to 44% Off During October Prime Day](https://lifehacker.com/best-dyson-dupe-deals-prime-day-1850918597)
 - [Lifehacker] [These Are the Best Deals on Smart Lights for October Prime Day](https://lifehacker.com/these-are-the-best-deals-on-smart-lights-for-october-pr-1850918437)
