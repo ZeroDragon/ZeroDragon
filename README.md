@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How the Pixel 8 Pro Stacks Up Against the iPhone 15 Pro Max](https://lifehacker.com/pixel-8-pro-versus-iphone-15-pro-max-1850922123)
+- [Dev.to/JS] [Day 5: Completed The First Task &quot;Survey Form&quot;](https://dev.to/duke09/day-5-completed-the-first-task-survey-form-14oi)
+- [Lifehacker] [These Refurbished Ninja Kitchen Appliances Are Deeply Discounted Right Now](https://lifehacker.com/these-refurbished-ninja-kitchen-appliances-are-deeply-d-1850922009)
 - [Dev.to/JS] [Day 4: Building a Registration Form](https://dev.to/duke09/day-4-building-a-registration-form-3774)
 - [Dev.to/JS] [Buy Verified Skrill Accounts](https://dev.to/johnbruceds129/buy-verified-skrill-accounts-2pk2)
 - [Lifehacker] [Use the ‘Von Restorff Effect’ When Studying Difficult Concepts](https://lifehacker.com/how-to-use-von-resteroff-effect-when-studying-1850921998)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Parcel Drop Boxes to Deter Package Thieves](https://lifehacker.com/the-best-parcel-drop-boxes-to-deter-package-thieves-1850920598)
 - [Dev.to/JS] [Easy Form Validation | React | 1](https://dev.to/shubhamtiwari909/easy-form-validation-react-1-6g1)
 - [Lifehacker] [What People Are Getting Wrong This Week: &#39;Police Benevolent Association&#39; Calls](https://lifehacker.com/police-benevolent-association-calls-what-people-are-ge-1850920352)
-- [Dev.to/JS] [codedamn: The Perfect Platform to Learn Programming 🖥️💡](https://dev.to/arjuncodess/codedamn-the-perfect-platform-to-learn-programming-417e)
 - [Lifehacker] [These Are the Best Meal Delivery Services for Busy Families](https://lifehacker.com/these-are-the-best-meal-delivery-services-for-busy-fami-1850916963)
 - [Lifehacker] [You Should Build a Pain ‘Tool Kit’ to Manage Flare-Ups](https://lifehacker.com/you-should-build-a-pain-tool-kit-to-manage-flare-ups-1850916785)
 - [Lifehacker] [Why Wage Access Apps are Just As Bad As Payday Loans](https://lifehacker.com/why-wage-access-apps-are-just-as-bad-as-payday-loans-1850914390)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Whole Blink Security System for up to 50% Off During October Prime Day](https://lifehacker.com/you-can-get-a-whole-blink-security-system-for-up-to-50-1850918233)
 - [Lifehacker] [The Google Pixel Watch Is $140 Off on Amazon Right Now](https://lifehacker.com/the-google-pixel-watch-is-140-off-on-amazon-right-now-1850917882)
 - [Lifehacker] [Garmin&#39;s Forerunner 945 Smartwatch Is Only $320 Today](https://lifehacker.com/garmins-forerunner-945-smartwatch-is-only-320-today-1850918717)
-- [Lifehacker] [You Can Save up to $400 on These Galaxy Smartphones Right Now](https://lifehacker.com/you-can-save-up-to-400-on-these-galaxy-smartphones-rig-1850917822)
-- [Lifehacker] [You Can Now Reduce Background Noises From Videos on Your Pixel 8](https://lifehacker.com/you-can-now-reduce-background-noises-from-videos-on-you-1850904039)
-- [Lifehacker] [Toss These Foods in Your Oven While You&#39;re Cooking Something Else](https://lifehacker.com/toss-these-foods-in-your-oven-while-youre-cooking-somet-1850913080)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Save up to $400 on These Galaxy Smartphones Right Now](https://lifehacker.com/you-can-save-up-to-400-on-these-galaxy-smartphones-rig-1850917822)<!-- TECH-POSTS:END -->
 
 ---
 
