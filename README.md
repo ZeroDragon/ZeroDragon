@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🎃 The Hacktoberfest challenge giving physical merch prizes 🧢](https://dev.to/quine/the-hacktoberfest-challenge-giving-physical-merch-prizes-32oa)
+- [Dev.to/JS] [Preparing a React course in public - modifying the DOM with Vanilla Js](https://dev.to/manuartero/preparing-a-react-course-in-public-modifying-the-dom-with-vanilla-js-9kf)
+- [Dev.to/JS] [Building a Simple Node.js App for Downloading PDFs using Express.js](https://dev.to/fredabod/building-a-simple-nodejs-app-for-downloading-pdfs-using-expressjs-42ki)
 - [Lifehacker] [How to Download Pictures and Videos From Threads on Your Android](https://lifehacker.com/how-to-download-pictures-and-videos-from-threads-on-you-1850920937)
 - [Lifehacker] [How to Protect Your Child From Weight Talk at the Doctor&#39;s Office](https://lifehacker.com/how-to-protect-your-child-from-weight-talk-at-the-docto-1850919240)
 - [Dev.to/JS] [A new and very useful web component 🚀](https://dev.to/nyousefi/a-new-and-very-useful-web-component-1406)
@@ -43,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web application development: languages and tools](https://dev.to/sparkouttech/web-application-development-languages-and-tools-1hkj)
 - [Dev.to/JS] [Building a Scrollable Navbar with React: A Step-by-Step Guide](https://dev.to/ryaddev/building-a-scrollable-navbar-with-react-a-step-by-step-guide-268p)
 - [Lifehacker] [Why Wage Access Apps are Just As Bad As Payday Loans](https://lifehacker.com/why-wage-access-apps-are-just-as-bad-as-payday-loans-1850914390)
-- [Dev.to/JS] [Travelling Light: Discover the Thrilling Side of Himachal Pradesh](https://dev.to/gilctrav/travelling-light-discover-the-thrilling-side-of-himachal-pradesh-5a7h)
-- [Dev.to/JS] [Guide to Implementing Function-as-a-Service: A Deep Dive into Serverless Computing](https://dev.to/documatic/guide-to-implementing-function-as-a-service-a-deep-dive-into-serverless-computing-55gd)
-- [Dev.to/JS] [Building My First Full-Stack Web Application with React, MongoDB, Node.js, Express.js](https://dev.to/anandprabhu530/building-my-first-full-stack-web-application-with-react-mongodb-nodejs-expressjs-19am)
 - [Crazy Programmer] [7 Different Types of Keys in DBMS](https://www.thecrazyprogrammer.com/2023/10/types-of-keys-in-dbms.html)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 10, 2023](https://lifehacker.com/nyt-connections-answer-today-october-10-2023-1850911643)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 12, 2023](https://lifehacker.com/nyt-connections-answer-today-october-12-2023-1850917526)
