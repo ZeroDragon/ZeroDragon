@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arehs for promise-based massively parallel processing](https://dev.to/seongjin605/arehs-for-promise-based-massively-parallel-processing-2nbl)
+- [Dev.to/JS] [What would you like to see in a tool that allows one-click installation of plugins for React websites?](https://dev.to/opensourcee/what-would-you-like-to-see-in-a-tool-that-allows-one-click-installation-of-plugins-for-react-websites-960)
+- [Dev.to/JS] [44 React Frontend Interview Questions](https://dev.to/m_midas/44-react-frontend-interview-questions-2o63)
 - [Lifehacker] [Where to Stream the California Vs. Utah Game](https://lifehacker.com/where-to-stream-the-california-vs-utah-game-1850923465)
 - [Dev.to/JS] [New Features in Next.js 13 that make Server Side Rendering way cooler](https://dev.to/cynthiaisutsa/new-features-in-nextjs-13-that-make-server-side-rendering-way-cooler-1fhm)
 - [Lifehacker] [The Best Way to Clean Your Uggs](https://lifehacker.com/the-best-way-to-clean-your-uggs-1850923424)
@@ -46,12 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How the Pixel 8 Pro Stacks Up Against the iPhone 15 Pro Max](https://lifehacker.com/pixel-8-pro-versus-iphone-15-pro-max-1850922123)
 - [Dev.to/JS] [Day 5: Completed The First Task &quot;Survey Form&quot;](https://dev.to/duke09/day-5-completed-the-first-task-survey-form-14oi)
 - [Lifehacker] [These Refurbished Ninja Kitchen Appliances Are Deeply Discounted Right Now](https://lifehacker.com/these-refurbished-ninja-kitchen-appliances-are-deeply-d-1850922009)
-- [Dev.to/JS] [Day 4: Building a Registration Form](https://dev.to/duke09/day-4-building-a-registration-form-3774)
-- [Dev.to/JS] [Buy Verified Skrill Accounts](https://dev.to/johnbruceds129/buy-verified-skrill-accounts-2pk2)
 - [Lifehacker] [Use the ‘Von Restorff Effect’ When Studying Difficult Concepts](https://lifehacker.com/how-to-use-von-resteroff-effect-when-studying-1850921998)
 - [Lifehacker] [The Gmail Add-ons You Need &lpar;and the Ones You Don’t&rpar;](https://lifehacker.com/the-gmail-add-ons-you-need-and-the-ones-you-don-t-1850921673)
 - [Lifehacker] [Don&#39;t Buy the PS5 Slim](https://lifehacker.com/dont-buy-the-ps5-slim-1850921681)
-- [Dev.to/JS] [Next steps of junior developer: how to maintain the growth](https://dev.to/haskinator/next-steps-of-junior-developer-how-to-maintain-the-growth-5022)
 - [Lifehacker] [How to Download Pictures and Videos From Threads on Your Android](https://lifehacker.com/how-to-download-pictures-and-videos-from-threads-on-you-1850920937)
 - [Lifehacker] [How to Protect Your Child From Weight Talk at the Doctor&#39;s Office](https://lifehacker.com/how-to-protect-your-child-from-weight-talk-at-the-docto-1850919240)
 - [Lifehacker] [These New Sonoma Desktop Widgets Are Actually Useful](https://lifehacker.com/these-new-sonoma-desktop-widgets-are-actually-useful-1850913802)
