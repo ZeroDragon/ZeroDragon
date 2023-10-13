@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Measure Any Ingredient](https://lifehacker.com/how-to-measure-any-ingredient-1850865017)
+- [Dev.to/JS] [Include CSS and jQuery in Your WordPress Plugin](https://dev.to/hellousermeta/include-css-and-jquery-in-your-wordpress-plugin-3189)
+- [Dev.to/JS] [PHP Array](https://dev.to/halflearning/php-array-2d5o)
+- [Dev.to/JS] [Formik and how to create static and dynamic inputs](https://dev.to/chris10garcia/formik-and-how-to-create-static-and-dynamic-inputs-2d93)
+- [Dev.to/JS] [Sync clerk users to your database using Webhooks: A Step-by-Step Guide](https://dev.to/devlawrence/sync-clerk-users-to-your-database-using-webhooks-a-step-by-step-guide-263i)
 - [Lifehacker] [How to Choose and Care for a Cutting Board &lpar;so It Doesn&#39;t Mess up Your Knife&rpar;](https://lifehacker.com/how-to-choose-and-care-for-a-cutting-board-so-it-doesn-1850870074)
+- [Dev.to/JS] [How you can have Facebook like push notifications](https://dev.to/dhillondapinder/how-you-can-have-facebook-like-push-notifications-4hej)
 - [Dev.to/JS] [Veer Wagon: The Ultimate All-Terrain Adventure Companion](https://dev.to/hareemhadi/veer-wagon-the-ultimate-all-terrain-adventure-companion-3eml)
 - [Dev.to/JS] [JavaScript - Understanding Closures and Lexical Scoping](https://dev.to/theramoliya/javascript-understanding-closures-and-lexical-scoping-b52)
 - [Lifehacker] [The Kitchen Tools That Deserve a Spot in Your Utensil Holder](https://lifehacker.com/the-kitchen-tools-that-deserve-a-spot-in-your-utensil-h-1850860971)
@@ -35,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Skip the Knife Block and Buy These Knives Instead](https://lifehacker.com/skip-the-knife-block-and-buy-these-knives-instead-1850849157)
 - [Dev.to/JS] [Day 6: Learnt Box Model by Building a Rothko Painting](https://dev.to/duke09/day-6-learnt-box-model-by-building-a-rothko-painting-3bd2)
 - [Dev.to/JS] [Exploring Advanced Type System Features](https://dev.to/bhavesh_yadav/exploring-advanced-type-system-features-112f)
-- [Dev.to/JS] [Twin Elements CBD Gummies Reviews : I Tried This Twin Elements CBD Gummies For 30 Days And Here’s What Happened!](https://dev.to/twinelementscbdgummy/twin-elements-cbd-gummies-reviews-i-tried-this-twin-elements-cbd-gummies-for-30-days-and-heres-what-happened-5140)
 - [Dev.to/JS] [Nobel Laureates’ Countries, or Creating a Word Cloud with JS](https://dev.to/andreykh/nobel-laureates-countries-or-creating-a-word-cloud-with-js-4ik4)
 - [Lifehacker] [The Eight Basic Baking Tools You Need &lpar;Even If You Don&#39;t Bake That Much&rpar;](https://lifehacker.com/basic-baking-tools-1850842596)
 - [Lifehacker] [How to Buy, Use, and Care for Nonstick Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-nonstick-cookware-1850875663)
@@ -43,10 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Buy, Use, and Care for a Cast Iron Pan](https://lifehacker.com/how-to-buy-use-and-care-for-a-cast-iron-pan-1850888042)
 - [Lifehacker] [Welcome to The Grown-up Kitchen](https://lifehacker.com/welcome-to-the-grown-up-kitchen-1850844044)
 - [Dev.to/JS] [Key Benefits in choosing Python for Web Development](https://dev.to/sparkouttech/key-benefits-in-choosing-python-for-web-development-2jig)
-- [Dev.to/JS] [The What, Why and How of JavaScript bundlers](https://dev.to/sayanide/the-what-why-and-how-of-javascript-bundlers-4po9)
-- [Dev.to/JS] [Linting Unveiled: Elevating Code Quality and Consistency](https://dev.to/kanav/linting-unveiled-elevating-code-quality-and-consistency-2ili)
-- [Dev.to/JS] [Dive into Open Source: A Guide to Hacktoberfest 2023](https://dev.to/devvsakib/dive-into-open-source-a-guide-to-hacktoberfest-2023-3o41)
-- [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Reviews, Results, Ingredients &amp; Benefits?](https://dev.to/wakhgnva/blue-vibe-cbd-gummies-pain-relief-reviews-results-ingredients-benefits-16mh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)
 - [Lifehacker] [Where to Stream the Umass Vs. Penn State Game](https://lifehacker.com/where-to-stream-the-umass-vs-penn-state-game-1850923651)
 - [Lifehacker] [Where to Stream the California Vs. Utah Game](https://lifehacker.com/where-to-stream-the-california-vs-utah-game-1850923465)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Gmail Add-ons You Need &lpar;and the Ones You Don’t&rpar;](https://lifehacker.com/the-gmail-add-ons-you-need-and-the-ones-you-don-t-1850921673)
 - [Lifehacker] [Don&#39;t Buy the PS5 Slim](https://lifehacker.com/dont-buy-the-ps5-slim-1850921681)
 - [Lifehacker] [How to Download Pictures and Videos From Threads on Your Android](https://lifehacker.com/how-to-download-pictures-and-videos-from-threads-on-you-1850920937)
-- [Lifehacker] [How to Protect Your Child From Weight Talk at the Doctor&#39;s Office](https://lifehacker.com/how-to-protect-your-child-from-weight-talk-at-the-docto-1850919240)
-- [Lifehacker] [These New Sonoma Desktop Widgets Are Actually Useful](https://lifehacker.com/these-new-sonoma-desktop-widgets-are-actually-useful-1850913802)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Protect Your Child From Weight Talk at the Doctor&#39;s Office](https://lifehacker.com/how-to-protect-your-child-from-weight-talk-at-the-docto-1850919240)<!-- TECH-POSTS:END -->
 
 ---
 
