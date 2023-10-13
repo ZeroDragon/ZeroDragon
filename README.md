@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizing Software Engineering Knowledge: 7 Essential Computer Science Fundamentals](https://dev.to/danities316/optimizing-software-engineering-knowledge-7-essential-computer-science-fundamentals-349h)
+- [Dev.to/JS] [Where is the reach?](https://dev.to/devsimc/where-is-the-reach-a9f)
+- [Dev.to/JS] [A Cool underrated feature in Typescript 🤯](https://dev.to/taquiimam14/a-cool-underrated-feature-in-typescript-53il)
+- [Dev.to/JS] [Leveraging AWS Cognito with Serverless for User Authentication and Data Management](https://dev.to/aws-builders/leveraging-aws-cognito-with-serverless-for-user-authentication-and-data-management-15m1)
 - [Dev.to/JS] [JavaScript Shorthand Techniques](https://dev.to/shriharimurali/javascript-shorthand-techniques-23lk)
 - [Dev.to/JS] [What is the difference between Generator, and Async,Promise ?](https://dev.to/amritapadhy/what-is-the-difference-between-generator-and-asyncpromise--33ok)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)
@@ -38,15 +42,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Clean Your Uggs](https://lifehacker.com/the-best-way-to-clean-your-uggs-1850923424)
 - [Dev.to/JS] [Setting up TinaCMS with Astro](https://dev.to/idiglove/setting-up-tinacms-with-astro-5fm)
 - [Dev.to/JS] [Validating forms, an easy way](https://dev.to/artydev/validating-forms-an-easy-way-169n)
-- [Dev.to/JS] [How To Get Free 10 BNB with PancakeSwap Full Tutorial 2023](https://dev.to/cointelegraph/how-to-get-free-10-bnb-with-pancakeswap-full-tutorial-2023-2ee6)
-- [Dev.to/JS] [How To Get Free 4 ETH with UniSwap Full Tutorial 2023](https://dev.to/cointelegraph/how-to-get-free-4-eth-with-uniswap-full-tutorial-2023-56ni)
 - [Lifehacker] [The Pura 4 Smart Diffuser Answers the Question, ‘Why Would Anyone Need a Smart Diffuser?’](https://lifehacker.com/pura-4-smart-diffuser-review-1850921822)
 - [Lifehacker] [These Popular TikTok Cleaning ‘Hacks’ Don’t Actually Work](https://lifehacker.com/these-popular-tiktok-cleaning-hacks-don-t-actually-wo-1850922216)
-- [Dev.to/JS] [Lab 5 - Refactoring the code](https://dev.to/sshah135/lab-5-refactoring-the-code-4k27)
 - [Lifehacker] [Where to Stream the USC Vs. Notre Dame Game](https://lifehacker.com/where-to-stream-the-usc-vs-notre-dame-game-1850922956)
 - [Lifehacker] [The Right Way to Dry Bread for Stuffing](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)
 - [Lifehacker] [Where to Stream the Ohio State Vs. Purdue Game](https://lifehacker.com/where-to-stream-the-ohio-state-vs-purdue-1850922585)
-- [Dev.to/JS] [Mongoose: entendendo o básico](https://dev.to/htamagnus/mongoose-entendendo-o-basico-2i57)
 - [Lifehacker] [Where to Stream the Stanford Vs. Colorado Game](https://lifehacker.com/where-to-stream-the-stanford-vs-colorado-game-1850922214)
 - [Lifehacker] [Why Edge Is Blocking YouTube &lpar;and How to Fix It&rpar;](https://lifehacker.com/stop-edge-blocking-youtube-videos-1850922235)
 - [Lifehacker] [How the Pixel 8 Pro Stacks Up Against the iPhone 15 Pro Max](https://lifehacker.com/pixel-8-pro-versus-iphone-15-pro-max-1850922123)
