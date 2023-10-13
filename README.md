@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I have successfully completed 4 pull requests for this edition of Hacktoberfest](https://dev.to/piyush61818686/i-have-successfully-completed-4-pull-requests-for-this-edition-of-hacktoberfest-3ldh)
+- [Lifehacker] [Everything You Wanted to Know About Salt but Were Too Afraid to Ask](https://lifehacker.com/everything-you-wanted-to-know-about-salt-but-were-too-a-1850851318)
+- [Dev.to/JS] [Only good developers make bad UI](https://dev.to/ameliasmith/only-good-developers-make-bad-ui-m72)
+- [Dev.to/JS] [Thinking Locally with Signals](https://dev.to/this-is-learning/thinking-locally-with-signals-3b7h)
+- [Lifehacker] [Why Every Kitchen Needs a Thermometer &lpar;and Which One You Should Buy&rpar;](https://lifehacker.com/why-every-kitchen-needs-a-thermometer-and-which-one-yo-1850859185)
 - [Lifehacker] [How to Measure Any Ingredient](https://lifehacker.com/how-to-measure-any-ingredient-1850865017)
 - [Dev.to/JS] [Include CSS and jQuery in Your WordPress Plugin](https://dev.to/hellousermeta/include-css-and-jquery-in-your-wordpress-plugin-3189)
 - [Dev.to/JS] [PHP Array](https://dev.to/halflearning/php-array-2d5o)
@@ -40,14 +45,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-take-care-of-your-knives-like-an-adult-1850854698)
 - [Lifehacker] [Skip the Knife Block and Buy These Knives Instead](https://lifehacker.com/skip-the-knife-block-and-buy-these-knives-instead-1850849157)
 - [Dev.to/JS] [Day 6: Learnt Box Model by Building a Rothko Painting](https://dev.to/duke09/day-6-learnt-box-model-by-building-a-rothko-painting-3bd2)
-- [Dev.to/JS] [Exploring Advanced Type System Features](https://dev.to/bhavesh_yadav/exploring-advanced-type-system-features-112f)
-- [Dev.to/JS] [Nobel Laureates’ Countries, or Creating a Word Cloud with JS](https://dev.to/andreykh/nobel-laureates-countries-or-creating-a-word-cloud-with-js-4ik4)
 - [Lifehacker] [The Eight Basic Baking Tools You Need &lpar;Even If You Don&#39;t Bake That Much&rpar;](https://lifehacker.com/basic-baking-tools-1850842596)
 - [Lifehacker] [How to Buy, Use, and Care for Nonstick Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-nonstick-cookware-1850875663)
 - [Lifehacker] [How to Buy, Use, and Care for Stainless Steel Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-stainless-steel-cookware-1850907423)
 - [Lifehacker] [How to Buy, Use, and Care for a Cast Iron Pan](https://lifehacker.com/how-to-buy-use-and-care-for-a-cast-iron-pan-1850888042)
 - [Lifehacker] [Welcome to The Grown-up Kitchen](https://lifehacker.com/welcome-to-the-grown-up-kitchen-1850844044)
-- [Dev.to/JS] [Key Benefits in choosing Python for Web Development](https://dev.to/sparkouttech/key-benefits-in-choosing-python-for-web-development-2jig)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)
 - [Lifehacker] [Where to Stream the Umass Vs. Penn State Game](https://lifehacker.com/where-to-stream-the-umass-vs-penn-state-game-1850923651)
 - [Lifehacker] [Where to Stream the California Vs. Utah Game](https://lifehacker.com/where-to-stream-the-california-vs-utah-game-1850923465)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Refurbished Ninja Kitchen Appliances Are Deeply Discounted Right Now](https://lifehacker.com/these-refurbished-ninja-kitchen-appliances-are-deeply-d-1850922009)
 - [Lifehacker] [Use the ‘Von Restorff Effect’ When Studying Difficult Concepts](https://lifehacker.com/how-to-use-von-resteroff-effect-when-studying-1850921998)
 - [Lifehacker] [The Gmail Add-ons You Need &lpar;and the Ones You Don’t&rpar;](https://lifehacker.com/the-gmail-add-ons-you-need-and-the-ones-you-don-t-1850921673)
-- [Lifehacker] [Don&#39;t Buy the PS5 Slim](https://lifehacker.com/dont-buy-the-ps5-slim-1850921681)
-- [Lifehacker] [How to Download Pictures and Videos From Threads on Your Android](https://lifehacker.com/how-to-download-pictures-and-videos-from-threads-on-you-1850920937)
-- [Lifehacker] [How to Protect Your Child From Weight Talk at the Doctor&#39;s Office](https://lifehacker.com/how-to-protect-your-child-from-weight-talk-at-the-docto-1850919240)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Buy the PS5 Slim](https://lifehacker.com/dont-buy-the-ps5-slim-1850921681)<!-- TECH-POSTS:END -->
 
 ---
 
