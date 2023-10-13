@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Run React App Localhost in Https in 2 steps](https://dev.to/krushnachandradash654/run-react-app-localhost-in-https-in-2-steps-264d)
+- [Dev.to/JS] [Best AI tools for code generation.](https://dev.to/rishabh062/best-ai-tools-for-code-generation-1i0d)
+- [Dev.to/JS] [🧠 My first neural network...in vanilla JS! 😱 With no libraries! 🤯](https://dev.to/grahamthedev/a-noob-learns-ai-my-first-neural-networkin-vanilla-jswith-no-libraries-1f92)
 - [Dev.to/JS] [Comparing Traditional Satta with Online Casino Gaming](https://dev.to/joneast09/comparing-traditional-satta-with-online-casino-gaming-1d07)
 - [Dev.to/JS] [Fetch Multiple API Using Promises. You Can Fix 429 &lpar;Too Many Requests&rpar;](https://dev.to/skipperhoa/fetch-multiple-api-using-promises-you-can-fix-429-too-many-requests-46gh)
 - [Dev.to/JS] [Optimizing Software Engineering Knowledge: 7 Essential Computer Science Fundamentals](https://dev.to/danities316/optimizing-software-engineering-knowledge-7-essential-computer-science-fundamentals-349h)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)
 - [Lifehacker] [Where to Stream the Umass Vs. Penn State Game](https://lifehacker.com/where-to-stream-the-umass-vs-penn-state-game-1850923651)
 - [Dev.to/JS] [Arehs for promise-based massively parallel processing](https://dev.to/seongjin605/arehs-for-promise-based-massively-parallel-processing-2nbl)
-- [Dev.to/JS] [What would you like to see in a tool that allows one-click installation of plugins for React websites?](https://dev.to/opensourcee/what-would-you-like-to-see-in-a-tool-that-allows-one-click-installation-of-plugins-for-react-websites-960)
-- [Dev.to/JS] [44 React Frontend Interview Questions](https://dev.to/m_midas/44-react-frontend-interview-questions-2o63)
 - [Lifehacker] [Where to Stream the California Vs. Utah Game](https://lifehacker.com/where-to-stream-the-california-vs-utah-game-1850923465)
-- [Dev.to/JS] [New Features in Next.js 13 that make Server Side Rendering way cooler](https://dev.to/cynthiaisutsa/new-features-in-nextjs-13-that-make-server-side-rendering-way-cooler-1fhm)
 - [Lifehacker] [The Best Way to Clean Your Uggs](https://lifehacker.com/the-best-way-to-clean-your-uggs-1850923424)
 - [Lifehacker] [The Pura 4 Smart Diffuser Answers the Question, ‘Why Would Anyone Need a Smart Diffuser?’](https://lifehacker.com/pura-4-smart-diffuser-review-1850921822)
 - [Lifehacker] [These Popular TikTok Cleaning ‘Hacks’ Don’t Actually Work](https://lifehacker.com/these-popular-tiktok-cleaning-hacks-don-t-actually-wo-1850922216)
