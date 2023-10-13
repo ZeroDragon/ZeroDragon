@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Get Free 4 ETH with UniSwap Full Tutorial 2023](https://dev.to/garonbvb/how-to-get-free-4-eth-with-uniswap-full-tutorial-2023-4bnb)
+- [Lifehacker] [This Shark Smart Vacuum Is $300 Off Right Now](https://lifehacker.com/this-shark-smart-vacuum-is-300-off-right-now-1850925484)
+- [Lifehacker] [You Can Now Edit Your Posts on Threads](https://lifehacker.com/you-can-now-edit-your-posts-on-threads-1850924676)
 - [Dev.to/JS] [How Svelte made me understand Web development better in general](https://dev.to/nicholascostadev/how-svelte-made-me-understand-web-development-better-in-general-ag5)
 - [Dev.to/JS] [I Literally Can&#39;t With Template Literals](https://dev.to/rachelmlawson/i-literally-cant-with-template-literals-431l)
 - [Lifehacker] [Why You Keep Triggering Fireworks During Video Calls &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-you-keep-triggering-fireworks-during-video-calls-a-1850924117)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SQL Injection Prevention in Node.js: Safeguarding Your Application&#39;s Data](https://dev.to/saint_vandora/sql-injection-prevention-in-nodejs-safeguarding-your-applications-data-5alm)
 - [Dev.to/JS] [Copy as MarkdownLink](https://dev.to/kolja/copy-as-markdownlink-38c0)
 - [Dev.to/JS] [Crafting Parallax Magic in Your React App: From Basics to Advanced](https://dev.to/razzivofficial_9/crafting-parallax-magic-in-your-react-app-from-basics-to-advanced-2mci)
-- [Dev.to/JS] [The Future of Cloud Computing: Predictions and Trends](https://dev.to/documatic/the-future-of-cloud-computing-predictions-and-trends-4j2m)
 - [Lifehacker] [How &lpar;and When&rpar; to Use Fresh Vs. Dried Herbs in Your Cooking](https://lifehacker.com/how-to-substitute-dried-herbs-for-fresh-ones-1850880579)
 - [Lifehacker] [How to Use Peppercorns of All Colors](https://lifehacker.com/how-to-use-peppercorns-of-all-colors-1798473776)
 - [Lifehacker] [Everything You Wanted to Know About Salt but Were Too Afraid to Ask](https://lifehacker.com/everything-you-wanted-to-know-about-salt-but-were-too-a-1850851318)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream the California Vs. Utah Game](https://lifehacker.com/where-to-stream-the-california-vs-utah-game-1850923465)
 - [Lifehacker] [The Best Way to Clean Your Uggs](https://lifehacker.com/the-best-way-to-clean-your-uggs-1850923424)
 - [Lifehacker] [The Pura 4 Smart Diffuser Answers the Question, ‘Why Would Anyone Need a Smart Diffuser?’](https://lifehacker.com/pura-4-smart-diffuser-review-1850921822)
-- [Lifehacker] [These Popular TikTok Cleaning ‘Hacks’ Don’t Actually Work](https://lifehacker.com/these-popular-tiktok-cleaning-hacks-don-t-actually-wo-1850922216)
-- [Lifehacker] [Where to Stream the USC Vs. Notre Dame Game](https://lifehacker.com/where-to-stream-the-usc-vs-notre-dame-game-1850922956)
-- [Lifehacker] [The Right Way to Dry Bread for Stuffing](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Popular TikTok Cleaning ‘Hacks’ Don’t Actually Work](https://lifehacker.com/these-popular-tiktok-cleaning-hacks-don-t-actually-wo-1850922216)<!-- TECH-POSTS:END -->
 
 ---
 
