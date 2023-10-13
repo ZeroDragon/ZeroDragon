@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to edit any text on any page](https://dev.to/kkoziarski/how-to-edit-any-text-on-any-page-2kkj)
+- [Lifehacker] [How to Choose the Right Cooking Oil &lpar;or Butter&rpar;](https://lifehacker.com/how-to-choose-the-right-cooking-oil-or-butter-1850863098)
+- [Dev.to/JS] [The Power of Server-Side Rendering in Next.js: Faster Loading, Better Performance by Anik routh](https://dev.to/anikrouth/the-power-of-server-side-rendering-in-nextjs-faster-loading-better-performance-by-anik-routh-1n8i)
+- [Lifehacker] [How to Add Heat to Your Food Without Scorching Your Tastebuds](https://lifehacker.com/how-to-add-heat-to-your-food-without-scorching-your-tas-1850870708)
 - [Dev.to/JS] [SQL Injection Prevention in Node.js: Safeguarding Your Application&#39;s Data](https://dev.to/saint_vandora/sql-injection-prevention-in-nodejs-safeguarding-your-applications-data-5alm)
 - [Dev.to/JS] [Copy as MarkdownLink](https://dev.to/kolja/copy-as-markdownlink-38c0)
 - [Dev.to/JS] [Crafting Parallax Magic in Your React App: From Basics to Advanced](https://dev.to/razzivofficial_9/crafting-parallax-magic-in-your-react-app-from-basics-to-advanced-2mci)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Every Kitchen Needs a Thermometer &lpar;and Which One You Should Buy&rpar;](https://lifehacker.com/why-every-kitchen-needs-a-thermometer-and-which-one-yo-1850859185)
 - [Lifehacker] [How to Measure Any Ingredient](https://lifehacker.com/how-to-measure-any-ingredient-1850865017)
 - [Dev.to/JS] [Include CSS and jQuery in Your WordPress Plugin](https://dev.to/hellousermeta/include-css-and-jquery-in-your-wordpress-plugin-3189)
-- [Dev.to/JS] [PHP Array](https://dev.to/halflearning/php-array-2d5o)
-- [Dev.to/JS] [Formik and how to create static and dynamic inputs](https://dev.to/chris10garcia/formik-and-how-to-create-static-and-dynamic-inputs-2d93)
 - [Lifehacker] [How to Choose and Care for a Cutting Board &lpar;so It Doesn&#39;t Mess up Your Knife&rpar;](https://lifehacker.com/how-to-choose-and-care-for-a-cutting-board-so-it-doesn-1850870074)
 - [Lifehacker] [The Kitchen Tools That Deserve a Spot in Your Utensil Holder](https://lifehacker.com/the-kitchen-tools-that-deserve-a-spot-in-your-utensil-h-1850860971)
 - [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-take-care-of-your-knives-like-an-adult-1850854698)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream the Ohio State Vs. Purdue Game](https://lifehacker.com/where-to-stream-the-ohio-state-vs-purdue-1850922585)
 - [Lifehacker] [Where to Stream the Stanford Vs. Colorado Game](https://lifehacker.com/where-to-stream-the-stanford-vs-colorado-game-1850922214)
 - [Lifehacker] [Why Edge Is Blocking YouTube &lpar;and How to Fix It&rpar;](https://lifehacker.com/stop-edge-blocking-youtube-videos-1850922235)
-- [Lifehacker] [How the Pixel 8 Pro Stacks Up Against the iPhone 15 Pro Max](https://lifehacker.com/pixel-8-pro-versus-iphone-15-pro-max-1850922123)
-- [Lifehacker] [These Refurbished Ninja Kitchen Appliances Are Deeply Discounted Right Now](https://lifehacker.com/these-refurbished-ninja-kitchen-appliances-are-deeply-d-1850922009)
-- [Lifehacker] [Use the ‘Von Restorff Effect’ When Studying Difficult Concepts](https://lifehacker.com/how-to-use-von-resteroff-effect-when-studying-1850921998)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How the Pixel 8 Pro Stacks Up Against the iPhone 15 Pro Max](https://lifehacker.com/pixel-8-pro-versus-iphone-15-pro-max-1850922123)<!-- TECH-POSTS:END -->
 
 ---
 
