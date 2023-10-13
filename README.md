@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Key Benefits in choosing Python for Web Development](https://dev.to/sparkouttech/key-benefits-in-choosing-python-for-web-development-2jig)
+- [Dev.to/JS] [The What, Why and How of JavaScript bundlers](https://dev.to/sayanide/the-what-why-and-how-of-javascript-bundlers-4po9)
+- [Dev.to/JS] [Linting Unveiled: Elevating Code Quality and Consistency](https://dev.to/kanav/linting-unveiled-elevating-code-quality-and-consistency-2ili)
+- [Dev.to/JS] [Dive into Open Source: A Guide to Hacktoberfest 2023](https://dev.to/devvsakib/dive-into-open-source-a-guide-to-hacktoberfest-2023-3o41)
 - [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Reviews, Results, Ingredients &amp; Benefits?](https://dev.to/wakhgnva/blue-vibe-cbd-gummies-pain-relief-reviews-results-ingredients-benefits-16mh)
 - [Dev.to/JS] [How I created AI-powered ORM for PostgreSQL, MySQL and SQLite and why you shouldn&#39;t use it](https://dev.to/meatboy/how-i-created-ai-powered-orm-for-postgresql-mysql-and-sqlite-and-why-you-shouldnt-use-it-1a)
 - [Dev.to/JS] [Comparing Axios and the Fetch API: Which One Should You Choose?](https://dev.to/sidramaqbool/comparing-axios-and-the-fetch-api-which-one-should-you-choose-111c)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript Or Javascript ?](https://dev.to/fonyuygita/typescript-or-javascript--2kg0)
 - [Dev.to/JS] [Building an AI Doctor API with ChatGPT&#39;s Language model](https://dev.to/anthony11hub/building-an-ai-doctor-api-with-chatgpts-language-model-789)
 - [Dev.to/JS] [Let&#39;s optimize dependency management with URL Imports](https://dev.to/renhiyama/lets-optimize-dependency-management-with-url-imports-1401)
-- [Dev.to/JS] [Collection of Diagrams to Use in Your React App for Effective Data Visualization](https://dev.to/plazarev/collection-of-diagrams-to-use-in-your-react-app-for-effective-data-visualization-4o7n)
-- [Dev.to/JS] [Run React App Localhost in Https in 2 steps](https://dev.to/krushnachandradash654/run-react-app-localhost-in-https-in-2-steps-264d)
-- [Dev.to/JS] [Best AI tools for code generation.](https://dev.to/rishabh062/best-ai-tools-for-code-generation-1i0d)
-- [Dev.to/JS] [🧠 An AI / neural network...in vanilla JS! 😱 With no libraries! 🤯](https://dev.to/grahamthedev/a-noob-learns-ai-my-first-neural-networkin-vanilla-jswith-no-libraries-1f92)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)
 - [Lifehacker] [Where to Stream the Umass Vs. Penn State Game](https://lifehacker.com/where-to-stream-the-umass-vs-penn-state-game-1850923651)
 - [Lifehacker] [Where to Stream the California Vs. Utah Game](https://lifehacker.com/where-to-stream-the-california-vs-utah-game-1850923465)
