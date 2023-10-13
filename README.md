@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Shorthand Techniques](https://dev.to/shriharimurali/javascript-shorthand-techniques-23lk)
+- [Dev.to/JS] [What is the difference between Generator, and Async,Promise ?](https://dev.to/amritapadhy/what-is-the-difference-between-generator-and-asyncpromise--33ok)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)
 - [Lifehacker] [Where to Stream the Umass Vs. Penn State Game](https://lifehacker.com/where-to-stream-the-umass-vs-penn-state-game-1850923651)
 - [Dev.to/JS] [Arehs for promise-based massively parallel processing](https://dev.to/seongjin605/arehs-for-promise-based-massively-parallel-processing-2nbl)
@@ -46,10 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream the Ohio State Vs. Purdue Game](https://lifehacker.com/where-to-stream-the-ohio-state-vs-purdue-1850922585)
 - [Dev.to/JS] [Mongoose: entendendo o básico](https://dev.to/htamagnus/mongoose-entendendo-o-basico-2i57)
 - [Lifehacker] [Where to Stream the Stanford Vs. Colorado Game](https://lifehacker.com/where-to-stream-the-stanford-vs-colorado-game-1850922214)
-- [Dev.to/JS] [Solana for Javascript developers](https://dev.to/almostefficient/solana-for-javascript-developers-448)
 - [Lifehacker] [Why Edge Is Blocking YouTube &lpar;and How to Fix It&rpar;](https://lifehacker.com/stop-edge-blocking-youtube-videos-1850922235)
 - [Lifehacker] [How the Pixel 8 Pro Stacks Up Against the iPhone 15 Pro Max](https://lifehacker.com/pixel-8-pro-versus-iphone-15-pro-max-1850922123)
-- [Dev.to/JS] [Day 5: Completed The First Task &quot;Survey Form&quot;](https://dev.to/duke09/day-5-completed-the-first-task-survey-form-14oi)
 - [Lifehacker] [These Refurbished Ninja Kitchen Appliances Are Deeply Discounted Right Now](https://lifehacker.com/these-refurbished-ninja-kitchen-appliances-are-deeply-d-1850922009)
 - [Lifehacker] [Use the ‘Von Restorff Effect’ When Studying Difficult Concepts](https://lifehacker.com/how-to-use-von-resteroff-effect-when-studying-1850921998)
 - [Lifehacker] [The Gmail Add-ons You Need &lpar;and the Ones You Don’t&rpar;](https://lifehacker.com/the-gmail-add-ons-you-need-and-the-ones-you-don-t-1850921673)
