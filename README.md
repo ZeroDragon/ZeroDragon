@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Svelte made me understand Web development better in general](https://dev.to/nicholascostadev/how-svelte-made-me-understand-web-development-better-in-general-ag5)
+- [Dev.to/JS] [I Literally Can&#39;t With Template Literals](https://dev.to/rachelmlawson/i-literally-cant-with-template-literals-431l)
+- [Lifehacker] [Why You Keep Triggering Fireworks During Video Calls &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-you-keep-triggering-fireworks-during-video-calls-a-1850924117)
+- [Lifehacker] [The 36 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)
 - [Dev.to/JS] [The building block of React Series 1: Components](https://dev.to/tashigyatso45/the-building-block-of-react-series-1-components-36n9)
 - [Dev.to/JS] [Discover The Secret To Skyrocketing Your Website’s SEO Ranking in Just 7 Days!](https://dev.to/the_emmanuel_ao/discover-the-secret-to-skyrocketing-your-websites-seo-ranking-in-just-7-days-506c)
 - [Lifehacker] [Chrome Just Made It Easier to Delete the Evidence of What You’ve Been Doing](https://lifehacker.com/quickly-clear-chrome-browsing-history-android-1850923251)
@@ -40,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Copy as MarkdownLink](https://dev.to/kolja/copy-as-markdownlink-38c0)
 - [Dev.to/JS] [Crafting Parallax Magic in Your React App: From Basics to Advanced](https://dev.to/razzivofficial_9/crafting-parallax-magic-in-your-react-app-from-basics-to-advanced-2mci)
 - [Dev.to/JS] [The Future of Cloud Computing: Predictions and Trends](https://dev.to/documatic/the-future-of-cloud-computing-predictions-and-trends-4j2m)
-- [Dev.to/JS] [Adding New Element in Array : JavaScript 💭](https://dev.to/speaklouder/adding-new-element-in-array-javascript-5e3l)
 - [Lifehacker] [How &lpar;and When&rpar; to Use Fresh Vs. Dried Herbs in Your Cooking](https://lifehacker.com/how-to-substitute-dried-herbs-for-fresh-ones-1850880579)
-- [Dev.to/JS] [Nx Conf 2023 - Recap](https://dev.to/nx/nx-conf-2023-recap-53ep)
 - [Lifehacker] [How to Use Peppercorns of All Colors](https://lifehacker.com/how-to-use-peppercorns-of-all-colors-1798473776)
 - [Lifehacker] [Everything You Wanted to Know About Salt but Were Too Afraid to Ask](https://lifehacker.com/everything-you-wanted-to-know-about-salt-but-were-too-a-1850851318)
 - [Lifehacker] [Why Every Kitchen Needs a Thermometer &lpar;and Which One You Should Buy&rpar;](https://lifehacker.com/why-every-kitchen-needs-a-thermometer-and-which-one-yo-1850859185)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Pura 4 Smart Diffuser Answers the Question, ‘Why Would Anyone Need a Smart Diffuser?’](https://lifehacker.com/pura-4-smart-diffuser-review-1850921822)
 - [Lifehacker] [These Popular TikTok Cleaning ‘Hacks’ Don’t Actually Work](https://lifehacker.com/these-popular-tiktok-cleaning-hacks-don-t-actually-wo-1850922216)
 - [Lifehacker] [Where to Stream the USC Vs. Notre Dame Game](https://lifehacker.com/where-to-stream-the-usc-vs-notre-dame-game-1850922956)
-- [Lifehacker] [The Right Way to Dry Bread for Stuffing](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)
-- [Lifehacker] [Where to Stream the Ohio State Vs. Purdue Game](https://lifehacker.com/where-to-stream-the-ohio-state-vs-purdue-1850922585)
-- [Lifehacker] [Where to Stream the Stanford Vs. Colorado Game](https://lifehacker.com/where-to-stream-the-stanford-vs-colorado-game-1850922214)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Way to Dry Bread for Stuffing](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)<!-- TECH-POSTS:END -->
 
 ---
 
