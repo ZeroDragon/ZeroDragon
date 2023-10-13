@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Choose and Care for a Cutting Board &lpar;so It Doesn&#39;t Mess up Your Knife&rpar;](https://lifehacker.com/how-to-choose-and-care-for-a-cutting-board-so-it-doesn-1850870074)
+- [Dev.to/JS] [Veer Wagon: The Ultimate All-Terrain Adventure Companion](https://dev.to/hareemhadi/veer-wagon-the-ultimate-all-terrain-adventure-companion-3eml)
+- [Dev.to/JS] [JavaScript - Understanding Closures and Lexical Scoping](https://dev.to/theramoliya/javascript-understanding-closures-and-lexical-scoping-b52)
+- [Lifehacker] [The Kitchen Tools That Deserve a Spot in Your Utensil Holder](https://lifehacker.com/the-kitchen-tools-that-deserve-a-spot-in-your-utensil-h-1850860971)
+- [Dev.to/JS] [Bun.js: A fast and efficient JavaScript runtime](https://dev.to/fonyuygita/bunjs-a-fast-and-efficient-javascript-runtime-1gnm)
 - [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-take-care-of-your-knives-like-an-adult-1850854698)
 - [Lifehacker] [Skip the Knife Block and Buy These Knives Instead](https://lifehacker.com/skip-the-knife-block-and-buy-these-knives-instead-1850849157)
 - [Dev.to/JS] [Day 6: Learnt Box Model by Building a Rothko Painting](https://dev.to/duke09/day-6-learnt-box-model-by-building-a-rothko-painting-3bd2)
@@ -42,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Linting Unveiled: Elevating Code Quality and Consistency](https://dev.to/kanav/linting-unveiled-elevating-code-quality-and-consistency-2ili)
 - [Dev.to/JS] [Dive into Open Source: A Guide to Hacktoberfest 2023](https://dev.to/devvsakib/dive-into-open-source-a-guide-to-hacktoberfest-2023-3o41)
 - [Dev.to/JS] [Blue Vibe CBD Gummies - Pain Relief Reviews, Results, Ingredients &amp; Benefits?](https://dev.to/wakhgnva/blue-vibe-cbd-gummies-pain-relief-reviews-results-ingredients-benefits-16mh)
-- [Dev.to/JS] [How I created AI-powered ORM for PostgreSQL, MySQL and SQLite and why you shouldn&#39;t use it](https://dev.to/meatboy/how-i-created-ai-powered-orm-for-postgresql-mysql-and-sqlite-and-why-you-shouldnt-use-it-1a)
-- [Dev.to/JS] [Comparing Axios and the Fetch API: Which One Should You Choose?](https://dev.to/sidramaqbool/comparing-axios-and-the-fetch-api-which-one-should-you-choose-111c)
-- [Dev.to/JS] [Satta King Fast: Your Ticket to Quick Satta Results](https://dev.to/joneast09/satta-king-fast-your-ticket-to-quick-satta-results-2anl)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)
 - [Lifehacker] [Where to Stream the Umass Vs. Penn State Game](https://lifehacker.com/where-to-stream-the-umass-vs-penn-state-game-1850923651)
 - [Lifehacker] [Where to Stream the California Vs. Utah Game](https://lifehacker.com/where-to-stream-the-california-vs-utah-game-1850923465)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Buy the PS5 Slim](https://lifehacker.com/dont-buy-the-ps5-slim-1850921681)
 - [Lifehacker] [How to Download Pictures and Videos From Threads on Your Android](https://lifehacker.com/how-to-download-pictures-and-videos-from-threads-on-you-1850920937)
 - [Lifehacker] [How to Protect Your Child From Weight Talk at the Doctor&#39;s Office](https://lifehacker.com/how-to-protect-your-child-from-weight-talk-at-the-docto-1850919240)
-- [Lifehacker] [These New Sonoma Desktop Widgets Are Actually Useful](https://lifehacker.com/these-new-sonoma-desktop-widgets-are-actually-useful-1850913802)
-- [Lifehacker] [The Best Parcel Drop Boxes to Deter Package Thieves](https://lifehacker.com/the-best-parcel-drop-boxes-to-deter-package-thieves-1850920598)
-- [Lifehacker] [What People Are Getting Wrong This Week: &#39;Police Benevolent Association&#39; Calls](https://lifehacker.com/police-benevolent-association-calls-what-people-are-ge-1850920352)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These New Sonoma Desktop Widgets Are Actually Useful](https://lifehacker.com/these-new-sonoma-desktop-widgets-are-actually-useful-1850913802)<!-- TECH-POSTS:END -->
 
 ---
 
