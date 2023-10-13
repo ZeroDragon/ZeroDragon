@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comparing Traditional Satta with Online Casino Gaming](https://dev.to/joneast09/comparing-traditional-satta-with-online-casino-gaming-1d07)
+- [Dev.to/JS] [Fetch Multiple API Using Promises. You Can Fix 429 &lpar;Too Many Requests&rpar;](https://dev.to/skipperhoa/fetch-multiple-api-using-promises-you-can-fix-429-too-many-requests-46gh)
 - [Dev.to/JS] [Optimizing Software Engineering Knowledge: 7 Essential Computer Science Fundamentals](https://dev.to/danities316/optimizing-software-engineering-knowledge-7-essential-computer-science-fundamentals-349h)
 - [Dev.to/JS] [Where is the reach?](https://dev.to/devsimc/where-is-the-reach-a9f)
 - [Dev.to/JS] [A Cool underrated feature in Typescript 🤯](https://dev.to/taquiimam14/a-cool-underrated-feature-in-typescript-53il)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream the California Vs. Utah Game](https://lifehacker.com/where-to-stream-the-california-vs-utah-game-1850923465)
 - [Dev.to/JS] [New Features in Next.js 13 that make Server Side Rendering way cooler](https://dev.to/cynthiaisutsa/new-features-in-nextjs-13-that-make-server-side-rendering-way-cooler-1fhm)
 - [Lifehacker] [The Best Way to Clean Your Uggs](https://lifehacker.com/the-best-way-to-clean-your-uggs-1850923424)
-- [Dev.to/JS] [Setting up TinaCMS with Astro](https://dev.to/idiglove/setting-up-tinacms-with-astro-5fm)
-- [Dev.to/JS] [Validating forms, an easy way](https://dev.to/artydev/validating-forms-an-easy-way-169n)
 - [Lifehacker] [The Pura 4 Smart Diffuser Answers the Question, ‘Why Would Anyone Need a Smart Diffuser?’](https://lifehacker.com/pura-4-smart-diffuser-review-1850921822)
 - [Lifehacker] [These Popular TikTok Cleaning ‘Hacks’ Don’t Actually Work](https://lifehacker.com/these-popular-tiktok-cleaning-hacks-don-t-actually-wo-1850922216)
 - [Lifehacker] [Where to Stream the USC Vs. Notre Dame Game](https://lifehacker.com/where-to-stream-the-usc-vs-notre-dame-game-1850922956)
