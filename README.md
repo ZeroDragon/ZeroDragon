@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-take-care-of-your-knives-like-an-adult-1850854698)
+- [Lifehacker] [Skip the Knife Block and Buy These Knives Instead](https://lifehacker.com/skip-the-knife-block-and-buy-these-knives-instead-1850849157)
+- [Dev.to/JS] [Day 6: Learnt Box Model by Building a Rothko Painting](https://dev.to/duke09/day-6-learnt-box-model-by-building-a-rothko-painting-3bd2)
+- [Dev.to/JS] [Exploring Advanced Type System Features](https://dev.to/bhavesh_yadav/exploring-advanced-type-system-features-112f)
+- [Dev.to/JS] [Twin Elements CBD Gummies Reviews : I Tried This Twin Elements CBD Gummies For 30 Days And Here’s What Happened!](https://dev.to/twinelementscbdgummy/twin-elements-cbd-gummies-reviews-i-tried-this-twin-elements-cbd-gummies-for-30-days-and-heres-what-happened-5140)
+- [Dev.to/JS] [Nobel Laureates’ Countries, or Creating a Word Cloud with JS](https://dev.to/andreykh/nobel-laureates-countries-or-creating-a-word-cloud-with-js-4ik4)
 - [Lifehacker] [The Eight Basic Baking Tools You Need &lpar;Even If You Don&#39;t Bake That Much&rpar;](https://lifehacker.com/basic-baking-tools-1850842596)
 - [Lifehacker] [How to Buy, Use, and Care for Nonstick Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-nonstick-cookware-1850875663)
 - [Lifehacker] [How to Buy, Use, and Care for Stainless Steel Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-stainless-steel-cookware-1850907423)
@@ -39,10 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I created AI-powered ORM for PostgreSQL, MySQL and SQLite and why you shouldn&#39;t use it](https://dev.to/meatboy/how-i-created-ai-powered-orm-for-postgresql-mysql-and-sqlite-and-why-you-shouldnt-use-it-1a)
 - [Dev.to/JS] [Comparing Axios and the Fetch API: Which One Should You Choose?](https://dev.to/sidramaqbool/comparing-axios-and-the-fetch-api-which-one-should-you-choose-111c)
 - [Dev.to/JS] [Satta King Fast: Your Ticket to Quick Satta Results](https://dev.to/joneast09/satta-king-fast-your-ticket-to-quick-satta-results-2anl)
-- [Dev.to/JS] [Comparing Axios and the Fetch API: Which One Should You Choose?](https://dev.to/sidramaqbool/comparing-axios-and-the-fetch-api-which-one-should-you-choose-51fl)
-- [Dev.to/JS] [Typescript Or Javascript ?](https://dev.to/fonyuygita/typescript-or-javascript--2kg0)
-- [Dev.to/JS] [Building an AI Doctor API with ChatGPT&#39;s Language model](https://dev.to/anthony11hub/building-an-ai-doctor-api-with-chatgpts-language-model-789)
-- [Dev.to/JS] [Let&#39;s optimize dependency management with URL Imports](https://dev.to/renhiyama/lets-optimize-dependency-management-with-url-imports-1401)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)
 - [Lifehacker] [Where to Stream the Umass Vs. Penn State Game](https://lifehacker.com/where-to-stream-the-umass-vs-penn-state-game-1850923651)
 - [Lifehacker] [Where to Stream the California Vs. Utah Game](https://lifehacker.com/where-to-stream-the-california-vs-utah-game-1850923465)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Protect Your Child From Weight Talk at the Doctor&#39;s Office](https://lifehacker.com/how-to-protect-your-child-from-weight-talk-at-the-docto-1850919240)
 - [Lifehacker] [These New Sonoma Desktop Widgets Are Actually Useful](https://lifehacker.com/these-new-sonoma-desktop-widgets-are-actually-useful-1850913802)
 - [Lifehacker] [The Best Parcel Drop Boxes to Deter Package Thieves](https://lifehacker.com/the-best-parcel-drop-boxes-to-deter-package-thieves-1850920598)
-- [Lifehacker] [What People Are Getting Wrong This Week: &#39;Police Benevolent Association&#39; Calls](https://lifehacker.com/police-benevolent-association-calls-what-people-are-ge-1850920352)
-- [Lifehacker] [These Are the Best Meal Delivery Services for Busy Families](https://lifehacker.com/these-are-the-best-meal-delivery-services-for-busy-fami-1850916963)
-- [Lifehacker] [You Should Build a Pain ‘Tool Kit’ to Manage Flare-Ups](https://lifehacker.com/you-should-build-a-pain-tool-kit-to-manage-flare-ups-1850916785)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: &#39;Police Benevolent Association&#39; Calls](https://lifehacker.com/police-benevolent-association-calls-what-people-are-ge-1850920352)<!-- TECH-POSTS:END -->
 
 ---
 
