@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The building block of React Series 1: Components](https://dev.to/tashigyatso45/the-building-block-of-react-series-1-components-36n9)
+- [Dev.to/JS] [Discover The Secret To Skyrocketing Your Website’s SEO Ranking in Just 7 Days!](https://dev.to/the_emmanuel_ao/discover-the-secret-to-skyrocketing-your-websites-seo-ranking-in-just-7-days-506c)
+- [Lifehacker] [Chrome Just Made It Easier to Delete the Evidence of What You’ve Been Doing](https://lifehacker.com/quickly-clear-chrome-browsing-history-android-1850923251)
+- [Dev.to/JS] [Partition arrays in Javascript using reduce.](https://dev.to/artydev/partitioning-arrays-in-javascript-4dk9)
+- [Dev.to/JS] [Mastering the Art of Responsive Design](https://dev.to/khamal22/mastering-the-art-of-responsive-design-2l79)
+- [Lifehacker] [The Best Lights to Help You Survive a Power Outage](https://lifehacker.com/best-emergency-lights-for-a-blackout-1850923506)
 - [Dev.to/JS] [How to edit any text on any page](https://dev.to/kkoziarski/how-to-edit-any-text-on-any-page-2kkj)
 - [Lifehacker] [How to Choose the Right Cooking Oil &lpar;or Butter&rpar;](https://lifehacker.com/how-to-choose-the-right-cooking-oil-or-butter-1850863098)
 - [Dev.to/JS] [The Power of Server-Side Rendering in Next.js: Faster Loading, Better Performance by Anik routh](https://dev.to/anikrouth/the-power-of-server-side-rendering-in-nextjs-faster-loading-better-performance-by-anik-routh-1n8i)
@@ -38,13 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How &lpar;and When&rpar; to Use Fresh Vs. Dried Herbs in Your Cooking](https://lifehacker.com/how-to-substitute-dried-herbs-for-fresh-ones-1850880579)
 - [Dev.to/JS] [Nx Conf 2023 - Recap](https://dev.to/nx/nx-conf-2023-recap-53ep)
 - [Lifehacker] [How to Use Peppercorns of All Colors](https://lifehacker.com/how-to-use-peppercorns-of-all-colors-1798473776)
-- [Dev.to/JS] [I have successfully completed 4 pull requests for this edition of Hacktoberfest](https://dev.to/piyush61818686/i-have-successfully-completed-4-pull-requests-for-this-edition-of-hacktoberfest-3ldh)
 - [Lifehacker] [Everything You Wanted to Know About Salt but Were Too Afraid to Ask](https://lifehacker.com/everything-you-wanted-to-know-about-salt-but-were-too-a-1850851318)
-- [Dev.to/JS] [Only good developers make bad UI](https://dev.to/ameliasmith/only-good-developers-make-bad-ui-m72)
-- [Dev.to/JS] [Thinking Locally with Signals](https://dev.to/this-is-learning/thinking-locally-with-signals-3b7h)
 - [Lifehacker] [Why Every Kitchen Needs a Thermometer &lpar;and Which One You Should Buy&rpar;](https://lifehacker.com/why-every-kitchen-needs-a-thermometer-and-which-one-yo-1850859185)
 - [Lifehacker] [How to Measure Any Ingredient](https://lifehacker.com/how-to-measure-any-ingredient-1850865017)
-- [Dev.to/JS] [Include CSS and jQuery in Your WordPress Plugin](https://dev.to/hellousermeta/include-css-and-jquery-in-your-wordpress-plugin-3189)
 - [Lifehacker] [How to Choose and Care for a Cutting Board &lpar;so It Doesn&#39;t Mess up Your Knife&rpar;](https://lifehacker.com/how-to-choose-and-care-for-a-cutting-board-so-it-doesn-1850870074)
 - [Lifehacker] [The Kitchen Tools That Deserve a Spot in Your Utensil Holder](https://lifehacker.com/the-kitchen-tools-that-deserve-a-spot-in-your-utensil-h-1850860971)
 - [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-take-care-of-your-knives-like-an-adult-1850854698)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream the USC Vs. Notre Dame Game](https://lifehacker.com/where-to-stream-the-usc-vs-notre-dame-game-1850922956)
 - [Lifehacker] [The Right Way to Dry Bread for Stuffing](https://lifehacker.com/for-the-best-stuffing-dry-your-bread-instead-of-stalin-1849729944)
 - [Lifehacker] [Where to Stream the Ohio State Vs. Purdue Game](https://lifehacker.com/where-to-stream-the-ohio-state-vs-purdue-1850922585)
-- [Lifehacker] [Where to Stream the Stanford Vs. Colorado Game](https://lifehacker.com/where-to-stream-the-stanford-vs-colorado-game-1850922214)
-- [Lifehacker] [Why Edge Is Blocking YouTube &lpar;and How to Fix It&rpar;](https://lifehacker.com/stop-edge-blocking-youtube-videos-1850922235)
-- [Lifehacker] [How the Pixel 8 Pro Stacks Up Against the iPhone 15 Pro Max](https://lifehacker.com/pixel-8-pro-versus-iphone-15-pro-max-1850922123)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Stream the Stanford Vs. Colorado Game](https://lifehacker.com/where-to-stream-the-stanford-vs-colorado-game-1850922214)<!-- TECH-POSTS:END -->
 
 ---
 
