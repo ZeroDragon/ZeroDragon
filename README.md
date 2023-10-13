@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s optimize dependency management with URL Imports](https://dev.to/renhiyama/lets-optimize-dependency-management-with-url-imports-1401)
+- [Dev.to/JS] [Collection of Diagrams to Use in Your React App for Effective Data Visualization](https://dev.to/plazarev/collection-of-diagrams-to-use-in-your-react-app-for-effective-data-visualization-4o7n)
 - [Dev.to/JS] [Run React App Localhost in Https in 2 steps](https://dev.to/krushnachandradash654/run-react-app-localhost-in-https-in-2-steps-264d)
 - [Dev.to/JS] [Best AI tools for code generation.](https://dev.to/rishabh062/best-ai-tools-for-code-generation-1i0d)
-- [Dev.to/JS] [🧠 My first neural network...in vanilla JS! 😱 With no libraries! 🤯](https://dev.to/grahamthedev/a-noob-learns-ai-my-first-neural-networkin-vanilla-jswith-no-libraries-1f92)
+- [Dev.to/JS] [🧠 An AI / neural network...in vanilla JS! 😱 With no libraries! 🤯](https://dev.to/grahamthedev/a-noob-learns-ai-my-first-neural-networkin-vanilla-jswith-no-libraries-1f92)
 - [Dev.to/JS] [Comparing Traditional Satta with Online Casino Gaming](https://dev.to/joneast09/comparing-traditional-satta-with-online-casino-gaming-1d07)
 - [Dev.to/JS] [Fetch Multiple API Using Promises. You Can Fix 429 &lpar;Too Many Requests&rpar;](https://dev.to/skipperhoa/fetch-multiple-api-using-promises-you-can-fix-429-too-many-requests-46gh)
 - [Dev.to/JS] [Optimizing Software Engineering Knowledge: 7 Essential Computer Science Fundamentals](https://dev.to/danities316/optimizing-software-engineering-knowledge-7-essential-computer-science-fundamentals-349h)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Cool underrated feature in Typescript 🤯](https://dev.to/taquiimam14/a-cool-underrated-feature-in-typescript-53il)
 - [Dev.to/JS] [Leveraging AWS Cognito with Serverless for User Authentication and Data Management](https://dev.to/aws-builders/leveraging-aws-cognito-with-serverless-for-user-authentication-and-data-management-15m1)
 - [Dev.to/JS] [JavaScript Shorthand Techniques](https://dev.to/shriharimurali/javascript-shorthand-techniques-23lk)
-- [Dev.to/JS] [What is the difference between Generator, and Async,Promise ?](https://dev.to/amritapadhy/what-is-the-difference-between-generator-and-asyncpromise--33ok)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)
 - [Lifehacker] [Where to Stream the Umass Vs. Penn State Game](https://lifehacker.com/where-to-stream-the-umass-vs-penn-state-game-1850923651)
-- [Dev.to/JS] [Arehs for promise-based massively parallel processing](https://dev.to/seongjin605/arehs-for-promise-based-massively-parallel-processing-2nbl)
 - [Lifehacker] [Where to Stream the California Vs. Utah Game](https://lifehacker.com/where-to-stream-the-california-vs-utah-game-1850923465)
 - [Lifehacker] [The Best Way to Clean Your Uggs](https://lifehacker.com/the-best-way-to-clean-your-uggs-1850923424)
 - [Lifehacker] [The Pura 4 Smart Diffuser Answers the Question, ‘Why Would Anyone Need a Smart Diffuser?’](https://lifehacker.com/pura-4-smart-diffuser-review-1850921822)
