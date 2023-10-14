@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Preschool in Lahore: A Journey to Excellence at Olive Tree Montessori](https://dev.to/preschoolinlahore/preschool-in-lahore-a-journey-to-excellence-at-olive-tree-montessori-23hf)
+- [Dev.to/JS] [Creating Interactive Maps with React and Mapbox](https://dev.to/razzivdecoder/creating-interactive-maps-with-react-and-mapbox-55eg)
+- [Dev.to/JS] [Unravelling this #Hacktobersfest10 Yarn](https://dev.to/overflow/unravelling-this-hacktobersfest10-yarn-2fdh)
+- [Dev.to/JS] [Git Commands: The Ultimate Cheatsheet](https://dev.to/mosimidev/git-commands-the-ultimate-cheatsheet-41j2)
 - [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
 - [Dev.to/JS] [Dependency Inversion Principle in React](https://dev.to/mikhaelesa/dependency-inversion-principle-in-react-5287)
 - [Dev.to/JS] [Why Prototypal Inheritance is Key to JavaScript Development?](https://dev.to/jaimaldullat/why-prototypal-inheritance-is-key-to-javascript-development-5g1k)
@@ -37,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Autoresizeble textarea with hidden input technique](https://dev.to/oversec/creating-autoresizeble-textarea-with-hidden-input-technique-4ic)
 - [Dev.to/JS] [JavaScript - a big no no!](https://dev.to/kwnaidoo/javascript-a-big-no-no-1j3j)
 - [Dev.to/JS] [Luxurious Bedding Sets: Elevate Your Sleep Experience](https://dev.to/manish12009/luxurious-bedding-sets-elevate-your-sleep-experience-5aag)
-- [Dev.to/JS] [Event Propagation &amp; Delegation: Bubbling and Capturing in JavaScript DOM](https://dev.to/justmrkhan/event-propagation-delegation-bubbling-and-capturing-in-javascript-dom-3616)
-- [Dev.to/JS] [Singleton - JavaScript Design Patterns](https://dev.to/inancakduvan/singleton-javascript-design-patterns-24lm)
-- [Dev.to/JS] [My #30DayCodingChallenge](https://dev.to/sujithamathvini/my-30daycodingchallenge-5g3c)
-- [Dev.to/JS] [🔄 Displaying React Components in Reverse Order](https://dev.to/bonychops/displaying-react-components-in-reverse-order-354g)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 14, 2023](https://lifehacker.com/nyt-connections-answer-today-october-14-2023-1850921647)
 - [Lifehacker] [You Can Now Chat With One of Meta’s Horrifying AI Personas](https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Sticking Out Your Gyat for the Rizzler?&#39;](https://lifehacker.com/what-is-sticking-out-your-gyat-for-the-rizzler-1850926437)
