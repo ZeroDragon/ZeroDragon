@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
+- [Dev.to/JS] [Dependency Inversion Principle in React](https://dev.to/mikhaelesa/dependency-inversion-principle-in-react-5287)
+- [Dev.to/JS] [Why Prototypal Inheritance is Key to JavaScript Development?](https://dev.to/jaimaldullat/why-prototypal-inheritance-is-key-to-javascript-development-5g1k)
+- [Dev.to/JS] [SOLID Principles Series: Demystifying the Liskov Substitution Principle &lpar;LSP&rpar; in Node.js with TypeScript](https://dev.to/ruben_alapont/solid-principles-series-demystifying-the-liskov-substitution-principle-lsp-in-nodejs-with-typescript-4j96)
+- [Dev.to/JS] [Florida Matchmakers](https://dev.to/sherrimurphy14/florida-matchmakers-107i)
+- [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)
 - [Dev.to/JS] [Unleashing the Power of ZOD](https://dev.to/bhavesh_yadav/unleashing-the-power-of-zod-3d2e)
 - [Lifehacker] [The Difference Between Hardwood and Softwood, and When to Use Each](https://lifehacker.com/the-difference-between-hardwood-and-softwood-and-when-1850921855)
 - [Dev.to/JS] [Creating Autoresizeble textarea with hidden input technique](https://dev.to/oversec/creating-autoresizeble-textarea-with-hidden-input-technique-4ic)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Singleton - JavaScript Design Patterns](https://dev.to/inancakduvan/singleton-javascript-design-patterns-24lm)
 - [Dev.to/JS] [My #30DayCodingChallenge](https://dev.to/sujithamathvini/my-30daycodingchallenge-5g3c)
 - [Dev.to/JS] [🔄 Displaying React Components in Reverse Order](https://dev.to/bonychops/displaying-react-components-in-reverse-order-354g)
-- [Dev.to/JS] [Easily style active links in Tanstack Router](https://dev.to/andreasbergstrom/easily-style-active-links-in-tanstack-router-7n)
-- [Dev.to/JS] [Get Ahead with Top-quality AZ-700 Exam Dumps](https://dev.to/xhkxbwmb/get-ahead-with-top-quality-az-700-exam-dumps-16j6)
-- [Dev.to/JS] [Weekly Dev Findings 9](https://dev.to/potykion/weekly-dev-findings-9-4p3f)
-- [Dev.to/JS] [🚀 Supercharge Your Next.js App with Stunning Images! Learn the Ultimate Cloudinary Image Upload Hack 🔥](https://dev.to/kishansheth/supercharge-your-nextjs-app-with-stunning-images-learn-the-ultimate-cloudinary-image-upload-hack-31ja)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 14, 2023](https://lifehacker.com/nyt-connections-answer-today-october-14-2023-1850921647)
 - [Lifehacker] [You Can Now Chat With One of Meta’s Horrifying AI Personas](https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Sticking Out Your Gyat for the Rizzler?&#39;](https://lifehacker.com/what-is-sticking-out-your-gyat-for-the-rizzler-1850926437)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Eight Basic Baking Tools You Need &lpar;Even If You Don&#39;t Bake That Much&rpar;](https://lifehacker.com/basic-baking-tools-1850842596)
 - [Lifehacker] [How to Buy, Use, and Care for Nonstick Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-nonstick-cookware-1850875663)
 - [Lifehacker] [How to Buy, Use, and Care for Stainless Steel Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-stainless-steel-cookware-1850907423)
-- [Lifehacker] [How to Buy, Use, and Care for a Cast Iron Pan](https://lifehacker.com/how-to-buy-use-and-care-for-a-cast-iron-pan-1850888042)
-- [Lifehacker] [Welcome to The Grown-up Kitchen](https://lifehacker.com/welcome-to-the-grown-up-kitchen-1850844044)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Buy, Use, and Care for a Cast Iron Pan](https://lifehacker.com/how-to-buy-use-and-care-for-a-cast-iron-pan-1850888042)<!-- TECH-POSTS:END -->
 
 ---
 
