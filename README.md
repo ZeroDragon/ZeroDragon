@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Want to help with Cardboard? JS/TS Vanilla Reactive Framework](https://dev.to/nombrekeff/want-to-help-with-cardboard-jsts-vanilla-reactive-framework-jcl)
+- [Dev.to/JS] [🚀 Easy string manipulation in JavaScript](https://dev.to/ksawery297/easy-string-manipulation-in-javascript-4ln3)
+- [Dev.to/JS] [The magic of JWT tokens ✨](https://dev.to/prakharrai1609/the-magic-of-jwt-tokens-193g)
+- [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
+- [Dev.to/JS] [Zustand + React Query: The Future of Fluent State Management](https://dev.to/madhuriskumar/zustand-react-query-the-future-of-fluent-state-management-4jm)
 - [Dev.to/JS] [Preschool in Lahore: A Journey to Excellence at Olive Tree Montessori](https://dev.to/preschoolinlahore/preschool-in-lahore-a-journey-to-excellence-at-olive-tree-montessori-23hf)
 - [Dev.to/JS] [Creating Interactive Maps with React and Mapbox](https://dev.to/razzivdecoder/creating-interactive-maps-with-react-and-mapbox-55eg)
 - [Dev.to/JS] [Unravelling this #Hacktobersfest10 Yarn](https://dev.to/overflow/unravelling-this-hacktobersfest10-yarn-2fdh)
@@ -36,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SOLID Principles Series: Demystifying the Liskov Substitution Principle &lpar;LSP&rpar; in Node.js with TypeScript](https://dev.to/ruben_alapont/solid-principles-series-demystifying-the-liskov-substitution-principle-lsp-in-nodejs-with-typescript-4j96)
 - [Dev.to/JS] [Florida Matchmakers](https://dev.to/sherrimurphy14/florida-matchmakers-107i)
 - [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)
-- [Dev.to/JS] [Unleashing the Power of ZOD](https://dev.to/bhavesh_yadav/unleashing-the-power-of-zod-3d2e)
 - [Lifehacker] [The Difference Between Hardwood and Softwood, and When to Use Each](https://lifehacker.com/the-difference-between-hardwood-and-softwood-and-when-1850921855)
-- [Dev.to/JS] [Creating Autoresizeble textarea with hidden input technique](https://dev.to/oversec/creating-autoresizeble-textarea-with-hidden-input-technique-4ic)
-- [Dev.to/JS] [JavaScript - a big no no!](https://dev.to/kwnaidoo/javascript-a-big-no-no-1j3j)
-- [Dev.to/JS] [Luxurious Bedding Sets: Elevate Your Sleep Experience](https://dev.to/manish12009/luxurious-bedding-sets-elevate-your-sleep-experience-5aag)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 14, 2023](https://lifehacker.com/nyt-connections-answer-today-october-14-2023-1850921647)
 - [Lifehacker] [You Can Now Chat With One of Meta’s Horrifying AI Personas](https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Sticking Out Your Gyat for the Rizzler?&#39;](https://lifehacker.com/what-is-sticking-out-your-gyat-for-the-rizzler-1850926437)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Skip the Knife Block and Buy These Knives Instead](https://lifehacker.com/skip-the-knife-block-and-buy-these-knives-instead-1850849157)
 - [Lifehacker] [The Eight Basic Baking Tools You Need &lpar;Even If You Don&#39;t Bake That Much&rpar;](https://lifehacker.com/basic-baking-tools-1850842596)
 - [Lifehacker] [How to Buy, Use, and Care for Nonstick Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-nonstick-cookware-1850875663)
-- [Lifehacker] [How to Buy, Use, and Care for Stainless Steel Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-stainless-steel-cookware-1850907423)
-- [Lifehacker] [How to Buy, Use, and Care for a Cast Iron Pan](https://lifehacker.com/how-to-buy-use-and-care-for-a-cast-iron-pan-1850888042)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Buy, Use, and Care for Stainless Steel Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-stainless-steel-cookware-1850907423)<!-- TECH-POSTS:END -->
 
 ---
 
