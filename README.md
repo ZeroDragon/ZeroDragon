@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My #30DayCodingChallenge](https://dev.to/sujithamathvini/my-30daycodingchallenge-5g3c)
+- [Dev.to/JS] [🔄 Displaying React Components in Reverse Order](https://dev.to/bonychops/displaying-react-components-in-reverse-order-354g)
 - [Dev.to/JS] [Easily style active links in Tanstack Router](https://dev.to/andreasbergstrom/easily-style-active-links-in-tanstack-router-7n)
 - [Dev.to/JS] [Get Ahead with Top-quality AZ-700 Exam Dumps](https://dev.to/xhkxbwmb/get-ahead-with-top-quality-az-700-exam-dumps-16j6)
 - [Dev.to/JS] [Weekly Dev Findings 9](https://dev.to/potykion/weekly-dev-findings-9-4p3f)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Get Free 4 ETH with UniSwap Full Tutorial 2023](https://dev.to/garonbvb/how-to-get-free-4-eth-with-uniswap-full-tutorial-2023-4bnb)
 - [Lifehacker] [This Shark Smart Vacuum Is $300 Off Right Now](https://lifehacker.com/this-shark-smart-vacuum-is-300-off-right-now-1850925484)
 - [Lifehacker] [You Can Now Edit Your Posts on Threads](https://lifehacker.com/you-can-now-edit-your-posts-on-threads-1850924676)
-- [Dev.to/JS] [How Svelte made me understand Web development better in general](https://dev.to/nicholascostadev/how-svelte-made-me-understand-web-development-better-in-general-ag5)
-- [Dev.to/JS] [I Literally Can&#39;t With Template Literals](https://dev.to/rachelmlawson/i-literally-cant-with-template-literals-431l)
 - [Lifehacker] [Why You Keep Triggering Fireworks During Video Calls &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-you-keep-triggering-fireworks-during-video-calls-a-1850924117)
 - [Lifehacker] [The 36 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)
 - [Lifehacker] [Chrome Just Made It Easier to Delete the Evidence of What You’ve Been Doing](https://lifehacker.com/quickly-clear-chrome-browsing-history-android-1850923251)
