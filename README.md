@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Supercharge Your Next.js App with Stunning Images! Learn the Ultimate Cloudinary Image Upload Hack 🔥](https://dev.to/kishansheth/supercharge-your-nextjs-app-with-stunning-images-learn-the-ultimate-cloudinary-image-upload-hack-31ja)
+- [Dev.to/JS] [Latest Newsletter: Exhausted &lpar;Issue #136&rpar;](https://dev.to/mjgs/latest-newsletter-exhausted-issue-136-2mdc)
 - [Dev.to/JS] [Refactoring: Enhancing Code for Better Maintainability](https://dev.to/bhmistry/refactoring-enhancing-code-for-better-maintainability-48in)
 - [Dev.to/JS] [Vanilla-Tilt Js](https://dev.to/rahulbhatt43/vanilla-tilt-js-5e51)
 - [Dev.to/JS] [Understanding JavaScript Collections: Arrays, Sets, Maps, and More](https://dev.to/eneaslari/understanding-javascript-collections-arrays-sets-maps-and-more-54a3)
@@ -45,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Discover The Secret To Skyrocketing Your Website’s SEO Ranking in Just 7 Days!](https://dev.to/the_emmanuel_ao/discover-the-secret-to-skyrocketing-your-websites-seo-ranking-in-just-7-days-506c)
 - [Lifehacker] [Chrome Just Made It Easier to Delete the Evidence of What You’ve Been Doing](https://lifehacker.com/quickly-clear-chrome-browsing-history-android-1850923251)
 - [Dev.to/JS] [Partition arrays in Javascript using reduce.](https://dev.to/artydev/partitioning-arrays-in-javascript-4dk9)
-- [Dev.to/JS] [Mastering the Art of Responsive Design](https://dev.to/khamal22/mastering-the-art-of-responsive-design-2l79)
 - [Lifehacker] [The Best Lights to Help You Survive a Power Outage](https://lifehacker.com/best-emergency-lights-for-a-blackout-1850923506)
-- [Dev.to/JS] [How to edit any text on any page](https://dev.to/kkoziarski/how-to-edit-any-text-on-any-page-2kkj)
 - [Lifehacker] [How to Choose the Right Cooking Oil &lpar;or Butter&rpar;](https://lifehacker.com/how-to-choose-the-right-cooking-oil-or-butter-1850863098)
 - [Lifehacker] [How to Add Heat to Your Food Without Scorching Your Tastebuds](https://lifehacker.com/how-to-add-heat-to-your-food-without-scorching-your-tas-1850870708)
 - [Lifehacker] [How &lpar;and When&rpar; to Use Fresh Vs. Dried Herbs in Your Cooking](https://lifehacker.com/how-to-substitute-dried-herbs-for-fresh-ones-1850880579)
