@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Hardwood and Softwood, and When to Use Each](https://lifehacker.com/the-difference-between-hardwood-and-softwood-and-when-1850921855)
 - [Dev.to/JS] [Creating Autoresizeble textarea with hidden input technique](https://dev.to/oversec/creating-autoresizeble-textarea-with-hidden-input-technique-4ic)
 - [Dev.to/JS] [JavaScript - a big no no!](https://dev.to/kwnaidoo/javascript-a-big-no-no-1j3j)
 - [Dev.to/JS] [Luxurious Bedding Sets: Elevate Your Sleep Experience](https://dev.to/manish12009/luxurious-bedding-sets-elevate-your-sleep-experience-5aag)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Buy, Use, and Care for Stainless Steel Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-stainless-steel-cookware-1850907423)
 - [Lifehacker] [How to Buy, Use, and Care for a Cast Iron Pan](https://lifehacker.com/how-to-buy-use-and-care-for-a-cast-iron-pan-1850888042)
 - [Lifehacker] [Welcome to The Grown-up Kitchen](https://lifehacker.com/welcome-to-the-grown-up-kitchen-1850844044)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)
-- [Lifehacker] [Where to Stream the Umass Vs. Penn State Game](https://lifehacker.com/where-to-stream-the-umass-vs-penn-state-game-1850923651)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 13, 2023](https://lifehacker.com/nyt-connections-answer-today-october-13-2023-1850921344)<!-- TECH-POSTS:END -->
 
 ---
 
