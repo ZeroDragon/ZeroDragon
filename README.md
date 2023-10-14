@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Event Propagation &amp; Delegation: Bubbling and Capturing in JavaScript DOM](https://dev.to/justmrkhan/event-propagation-delegation-bubbling-and-capturing-in-javascript-dom-3616)
+- [Dev.to/JS] [Singleton - JavaScript Design Patterns](https://dev.to/inancakduvan/singleton-javascript-design-patterns-24lm)
 - [Dev.to/JS] [My #30DayCodingChallenge](https://dev.to/sujithamathvini/my-30daycodingchallenge-5g3c)
 - [Dev.to/JS] [🔄 Displaying React Components in Reverse Order](https://dev.to/bonychops/displaying-react-components-in-reverse-order-354g)
 - [Dev.to/JS] [Easily style active links in Tanstack Router](https://dev.to/andreasbergstrom/easily-style-active-links-in-tanstack-router-7n)
@@ -36,12 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Refactoring: Enhancing Code for Better Maintainability](https://dev.to/bhmistry/refactoring-enhancing-code-for-better-maintainability-48in)
 - [Dev.to/JS] [Vanilla-Tilt Js](https://dev.to/rahulbhatt43/vanilla-tilt-js-5e51)
 - [Dev.to/JS] [Understanding JavaScript Collections: Arrays, Sets, Maps, and More](https://dev.to/eneaslari/understanding-javascript-collections-arrays-sets-maps-and-more-54a3)
-- [Dev.to/JS] [Junior to Senior Web Developer Roadmap: Breakdown](https://dev.to/aswin2001barath/junior-to-senior-web-developer-roadmap-breakdown-1525)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 14, 2023](https://lifehacker.com/nyt-connections-answer-today-october-14-2023-1850921647)
 - [Lifehacker] [You Can Now Chat With One of Meta’s Horrifying AI Personas](https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Sticking Out Your Gyat for the Rizzler?&#39;](https://lifehacker.com/what-is-sticking-out-your-gyat-for-the-rizzler-1850926437)
 - [Lifehacker] [This Massive Samsung Gaming Monitor Is $450 Off](https://lifehacker.com/this-massive-samsung-gaming-monitor-is-450-off-1850925954)
-- [Dev.to/JS] [How To Get Free 4 ETH with UniSwap Full Tutorial 2023](https://dev.to/garonbvb/how-to-get-free-4-eth-with-uniswap-full-tutorial-2023-4bnb)
 - [Lifehacker] [This Shark Smart Vacuum Is $300 Off Right Now](https://lifehacker.com/this-shark-smart-vacuum-is-300-off-right-now-1850925484)
 - [Lifehacker] [You Can Now Edit Your Posts on Threads](https://lifehacker.com/you-can-now-edit-your-posts-on-threads-1850924676)
 - [Lifehacker] [Why You Keep Triggering Fireworks During Video Calls &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-you-keep-triggering-fireworks-during-video-calls-a-1850924117)
