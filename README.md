@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vanilla-Tilt Js](https://dev.to/rahulbhatt43/vanilla-tilt-js-5e51)
 - [Dev.to/JS] [Understanding JavaScript Collections: Arrays, Sets, Maps, and More](https://dev.to/eneaslari/understanding-javascript-collections-arrays-sets-maps-and-more-54a3)
 - [Dev.to/JS] [Junior to Senior Web Developer Roadmap: Breakdown](https://dev.to/aswin2001barath/junior-to-senior-web-developer-roadmap-breakdown-1525)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 14, 2023](https://lifehacker.com/nyt-connections-answer-today-october-14-2023-1850921647)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Right Cooking Oil &lpar;or Butter&rpar;](https://lifehacker.com/how-to-choose-the-right-cooking-oil-or-butter-1850863098)
 - [Dev.to/JS] [The Power of Server-Side Rendering in Next.js: Faster Loading, Better Performance by Anik routh](https://dev.to/anikrouth/the-power-of-server-side-rendering-in-nextjs-faster-loading-better-performance-by-anik-routh-1n8i)
 - [Lifehacker] [How to Add Heat to Your Food Without Scorching Your Tastebuds](https://lifehacker.com/how-to-add-heat-to-your-food-without-scorching-your-tas-1850870708)
-- [Dev.to/JS] [SQL Injection Prevention in Node.js: Safeguarding Your Application&#39;s Data](https://dev.to/saint_vandora/sql-injection-prevention-in-nodejs-safeguarding-your-applications-data-5alm)
 - [Lifehacker] [How &lpar;and When&rpar; to Use Fresh Vs. Dried Herbs in Your Cooking](https://lifehacker.com/how-to-substitute-dried-herbs-for-fresh-ones-1850880579)
 - [Lifehacker] [How to Use Peppercorns of All Colors](https://lifehacker.com/how-to-use-peppercorns-of-all-colors-1798473776)
 - [Lifehacker] [Everything You Wanted to Know About Salt but Were Too Afraid to Ask](https://lifehacker.com/everything-you-wanted-to-know-about-salt-but-were-too-a-1850851318)
