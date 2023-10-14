@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easily style active links in Tanstack Router](https://dev.to/andreasbergstrom/easily-style-active-links-in-tanstack-router-7n)
+- [Dev.to/JS] [Get Ahead with Top-quality AZ-700 Exam Dumps](https://dev.to/xhkxbwmb/get-ahead-with-top-quality-az-700-exam-dumps-16j6)
+- [Dev.to/JS] [Weekly Dev Findings 9](https://dev.to/potykion/weekly-dev-findings-9-4p3f)
 - [Dev.to/JS] [🚀 Supercharge Your Next.js App with Stunning Images! Learn the Ultimate Cloudinary Image Upload Hack 🔥](https://dev.to/kishansheth/supercharge-your-nextjs-app-with-stunning-images-learn-the-ultimate-cloudinary-image-upload-hack-31ja)
 - [Dev.to/JS] [Latest Newsletter: Exhausted &lpar;Issue #136&rpar;](https://dev.to/mjgs/latest-newsletter-exhausted-issue-136-2mdc)
 - [Dev.to/JS] [Refactoring: Enhancing Code for Better Maintainability](https://dev.to/bhmistry/refactoring-enhancing-code-for-better-maintainability-48in)
@@ -43,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Literally Can&#39;t With Template Literals](https://dev.to/rachelmlawson/i-literally-cant-with-template-literals-431l)
 - [Lifehacker] [Why You Keep Triggering Fireworks During Video Calls &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-you-keep-triggering-fireworks-during-video-calls-a-1850924117)
 - [Lifehacker] [The 36 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)
-- [Dev.to/JS] [The building block of React Series 1: Components](https://dev.to/tashigyatso45/the-building-block-of-react-series-1-components-36n9)
-- [Dev.to/JS] [Discover The Secret To Skyrocketing Your Website’s SEO Ranking in Just 7 Days!](https://dev.to/the_emmanuel_ao/discover-the-secret-to-skyrocketing-your-websites-seo-ranking-in-just-7-days-506c)
 - [Lifehacker] [Chrome Just Made It Easier to Delete the Evidence of What You’ve Been Doing](https://lifehacker.com/quickly-clear-chrome-browsing-history-android-1850923251)
-- [Dev.to/JS] [Partition arrays in Javascript using reduce.](https://dev.to/artydev/partitioning-arrays-in-javascript-4dk9)
 - [Lifehacker] [The Best Lights to Help You Survive a Power Outage](https://lifehacker.com/best-emergency-lights-for-a-blackout-1850923506)
 - [Lifehacker] [How to Choose the Right Cooking Oil &lpar;or Butter&rpar;](https://lifehacker.com/how-to-choose-the-right-cooking-oil-or-butter-1850863098)
 - [Lifehacker] [How to Add Heat to Your Food Without Scorching Your Tastebuds](https://lifehacker.com/how-to-add-heat-to-your-food-without-scorching-your-tas-1850870708)
