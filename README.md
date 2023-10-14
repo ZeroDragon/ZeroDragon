@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the Power of ZOD](https://dev.to/bhavesh_yadav/unleashing-the-power-of-zod-3d2e)
 - [Lifehacker] [The Difference Between Hardwood and Softwood, and When to Use Each](https://lifehacker.com/the-difference-between-hardwood-and-softwood-and-when-1850921855)
 - [Dev.to/JS] [Creating Autoresizeble textarea with hidden input technique](https://dev.to/oversec/creating-autoresizeble-textarea-with-hidden-input-technique-4ic)
 - [Dev.to/JS] [JavaScript - a big no no!](https://dev.to/kwnaidoo/javascript-a-big-no-no-1j3j)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get Ahead with Top-quality AZ-700 Exam Dumps](https://dev.to/xhkxbwmb/get-ahead-with-top-quality-az-700-exam-dumps-16j6)
 - [Dev.to/JS] [Weekly Dev Findings 9](https://dev.to/potykion/weekly-dev-findings-9-4p3f)
 - [Dev.to/JS] [🚀 Supercharge Your Next.js App with Stunning Images! Learn the Ultimate Cloudinary Image Upload Hack 🔥](https://dev.to/kishansheth/supercharge-your-nextjs-app-with-stunning-images-learn-the-ultimate-cloudinary-image-upload-hack-31ja)
-- [Dev.to/JS] [Latest Newsletter: Exhausted &lpar;Issue #136&rpar;](https://dev.to/mjgs/latest-newsletter-exhausted-issue-136-2mdc)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 14, 2023](https://lifehacker.com/nyt-connections-answer-today-october-14-2023-1850921647)
 - [Lifehacker] [You Can Now Chat With One of Meta’s Horrifying AI Personas](https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Sticking Out Your Gyat for the Rizzler?&#39;](https://lifehacker.com/what-is-sticking-out-your-gyat-for-the-rizzler-1850926437)
