@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to structure your frontend code in ReactJS [with explanations]. 🚀](https://dev.to/harshal255/how-to-structure-your-frontend-code-in-reactjs-with-explanations-59dl)
+- [Dev.to/JS] [10 game-changing shortcut links that can supercharge your online productivity. 💼🚀](https://dev.to/harshal255/10-game-changing-shortcut-links-that-can-supercharge-your-online-productivity-1in3)
 - [Dev.to/JS] [Day 7: Created a Catphoto Web-app, flexbox was the main idea](https://dev.to/duke09/day-7-created-a-catphoto-web-app-flexbox-was-the-main-idea-3jnp)
 - [Dev.to/JS] [Hyperimport - Import c, rust, zig etc. files in TypeScript](https://dev.to/tr1ckydev/hyperimport-import-c-rust-zig-etc-files-in-typescript-1ia5)
 - [Dev.to/JS] [Hacktoberfest PR 4](https://dev.to/soham-thaker/hacktoberfest-pr-4-2pbb)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zustand + React Query: The Future of Fluent State Management](https://dev.to/madhuriskumar/zustand-react-query-the-future-of-fluent-state-management-4jm)
 - [Dev.to/JS] [Creating Interactive Maps with React and Mapbox](https://dev.to/razzivdecoder/creating-interactive-maps-with-react-and-mapbox-55eg)
 - [Dev.to/JS] [Unravelling this #Hacktobersfest10 Yarn](https://dev.to/overflow/unravelling-this-hacktobersfest10-yarn-2fdh)
-- [Dev.to/JS] [Git Commands: The Ultimate Cheatsheet](https://dev.to/mosimidev/git-commands-the-ultimate-cheatsheet-41j2)
 - [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
-- [Dev.to/JS] [Dependency Inversion Principle in React](https://dev.to/mikhaelesa/dependency-inversion-principle-in-react-5287)
 - [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)
 - [Lifehacker] [The Difference Between Hardwood and Softwood, and When to Use Each](https://lifehacker.com/the-difference-between-hardwood-and-softwood-and-when-1850921855)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 14, 2023](https://lifehacker.com/nyt-connections-answer-today-october-14-2023-1850921647)
