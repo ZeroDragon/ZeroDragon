@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding JavaScript Collections: Arrays, Sets, Maps, and More](https://dev.to/eneaslari/understanding-javascript-collections-arrays-sets-maps-and-more-54a3)
+- [Dev.to/JS] [Junior to Senior Web Developer Roadmap: Breakdown](https://dev.to/aswin2001barath/junior-to-senior-web-developer-roadmap-breakdown-1525)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 14, 2023](https://lifehacker.com/nyt-connections-answer-today-october-14-2023-1850921647)
 - [Lifehacker] [You Can Now Chat With One of Meta’s Horrifying AI Personas](https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Sticking Out Your Gyat for the Rizzler?&#39;](https://lifehacker.com/what-is-sticking-out-your-gyat-for-the-rizzler-1850926437)
@@ -48,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Power of Server-Side Rendering in Next.js: Faster Loading, Better Performance by Anik routh](https://dev.to/anikrouth/the-power-of-server-side-rendering-in-nextjs-faster-loading-better-performance-by-anik-routh-1n8i)
 - [Lifehacker] [How to Add Heat to Your Food Without Scorching Your Tastebuds](https://lifehacker.com/how-to-add-heat-to-your-food-without-scorching-your-tas-1850870708)
 - [Dev.to/JS] [SQL Injection Prevention in Node.js: Safeguarding Your Application&#39;s Data](https://dev.to/saint_vandora/sql-injection-prevention-in-nodejs-safeguarding-your-applications-data-5alm)
-- [Dev.to/JS] [Copy as MarkdownLink](https://dev.to/kolja/copy-as-markdownlink-38c0)
-- [Dev.to/JS] [Crafting Parallax Magic in Your React App: From Basics to Advanced](https://dev.to/razzivofficial_9/crafting-parallax-magic-in-your-react-app-from-basics-to-advanced-2mci)
 - [Lifehacker] [How &lpar;and When&rpar; to Use Fresh Vs. Dried Herbs in Your Cooking](https://lifehacker.com/how-to-substitute-dried-herbs-for-fresh-ones-1850880579)
 - [Lifehacker] [How to Use Peppercorns of All Colors](https://lifehacker.com/how-to-use-peppercorns-of-all-colors-1798473776)
 - [Lifehacker] [Everything You Wanted to Know About Salt but Were Too Afraid to Ask](https://lifehacker.com/everything-you-wanted-to-know-about-salt-but-were-too-a-1850851318)
