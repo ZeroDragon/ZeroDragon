@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paisa World Loan App Customer Care Helpline Number 8103010265 /*/7637953787 Any issue call now hf](https://dev.to/rohitkumar96616253/paisa-world-loan-app-customer-care-helpline-number-8103010265-7637953787-any-issue-call-now-hf-a1j)
+- [Dev.to/JS] [Paisa World Loan App Customer Care Helpline Number 8103010265 /*/7637953787 Any issue call now](https://dev.to/rohitkumar96616253/paisa-world-loan-app-customer-care-helpline-number-8103010265-7637953787-any-issue-call-now-3hh3)
 - [Dev.to/JS] [do you guys like the javascript code](https://dev.to/deutscher-junge/do-you-guys-like-the-javascript-code-777)
 - [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
 - [Dev.to/JS] [⚡Build a Social Media Profiles Showcase Website with Next.js, Shadcn Ui and TailwindCSS](https://dev.to/taquiimam14/build-a-social-media-profiles-showcase-website-with-nextjs-shadcn-ui-and-tailwindcss-4lc9)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning FullCalendar Part 2: Building Your First Calendar App](https://dev.to/ayako_yk/learning-fullcalendar-part-2-building-your-first-calendar-app-ngc)
 - [Dev.to/JS] [How to structure your frontend code in ReactJS [with explanations]. 🚀](https://dev.to/harshal255/how-to-structure-your-frontend-code-in-reactjs-with-explanations-59dl)
 - [Dev.to/JS] [10 game-changing shortcut links that can supercharge your online productivity. 💼🚀](https://dev.to/harshal255/10-game-changing-shortcut-links-that-can-supercharge-your-online-productivity-1in3)
-- [Dev.to/JS] [Day 7: Created a Catphoto Web-app, flexbox was the main idea](https://dev.to/duke09/day-7-created-a-catphoto-web-app-flexbox-was-the-main-idea-3jnp)
-- [Dev.to/JS] [Hyperimport - Import c, rust, zig etc. files in TypeScript](https://dev.to/tr1ckydev/hyperimport-import-c-rust-zig-etc-files-in-typescript-1ia5)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
 - [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
 - [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)
