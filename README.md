@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [List&lpar;Array&rpar; Comprehension in JavaScript](https://dev.to/phpflow/listarray-comprehension-in-javascript-mcm)
 - [Dev.to/JS] [Paisa World Loan App Customer Care Helpline Number 8103010265 /*/7637953787 Any issue call now hf](https://dev.to/rohitkumar96616253/paisa-world-loan-app-customer-care-helpline-number-8103010265-7637953787-any-issue-call-now-hf-a1j)
 - [Dev.to/JS] [Paisa World Loan App Customer Care Helpline Number 8103010265 /*/7637953787 Any issue call now](https://dev.to/rohitkumar96616253/paisa-world-loan-app-customer-care-helpline-number-8103010265-7637953787-any-issue-call-now-3hh3)
 - [Dev.to/JS] [do you guys like the javascript code](https://dev.to/deutscher-junge/do-you-guys-like-the-javascript-code-777)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Guide to CSS Flexbox: Creating Flexible Layouts](https://dev.to/kenferio/a-guide-to-css-flexbox-creating-flexible-layouts-3e7l)
 - [Dev.to/JS] [Learning FullCalendar Part 2: Building Your First Calendar App](https://dev.to/ayako_yk/learning-fullcalendar-part-2-building-your-first-calendar-app-ngc)
 - [Dev.to/JS] [How to structure your frontend code in ReactJS [with explanations]. 🚀](https://dev.to/harshal255/how-to-structure-your-frontend-code-in-reactjs-with-explanations-59dl)
-- [Dev.to/JS] [10 game-changing shortcut links that can supercharge your online productivity. 💼🚀](https://dev.to/harshal255/10-game-changing-shortcut-links-that-can-supercharge-your-online-productivity-1in3)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
 - [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
 - [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)
