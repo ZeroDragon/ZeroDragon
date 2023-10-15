@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to code and develop banking software using Web3 development tools and frameworks](https://dev.to/remotecypto/how-to-code-and-develop-banking-software-using-web3-development-tools-and-frameworks-3di8)
 - [Dev.to/JS] [Paisa World Loan App 7637953787*/8103010265](https://dev.to/rohitkumar96616253/paisa-world-loan-app-76379537878103010265-1oc6)
 - [Dev.to/JS] [Mastering React&#39;s Lifecycle Methods: A Step-by-Step Guide](https://dev.to/adii/mastering-reacts-lifecycle-methods-a-step-by-step-guide-1f1g)
 - [Dev.to/JS] [List&lpar;Array&rpar; Comprehension in JavaScript](https://dev.to/phpflow/listarray-comprehension-in-javascript-mcm)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cory’s Coding Tips](https://dev.to/charkinsdevelopment/corys-coding-tips-1989)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
 - [Dev.to/JS] [Introducing Javascript Web Workers](https://dev.to/kevin-uehara/introducing-javascript-web-workers-5fde)
-- [Dev.to/JS] [A Guide to CSS Flexbox: Creating Flexible Layouts](https://dev.to/kenferio/a-guide-to-css-flexbox-creating-flexible-layouts-3e7l)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
 - [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
 - [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)
