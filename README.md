@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zod in Action: Building a Resilient Data Validation Pipeline](https://dev.to/bhavesh_yadav/zod-in-action-building-a-resilient-data-validation-pipeline-42bo)
+- [Dev.to/JS] [Part 2: Mastering the useState Hook](https://dev.to/dev_ojay/part-2-mastering-the-usestate-hook-4dnm)
+- [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
 - [Dev.to/JS] [How to Set Up Push Notifications in Safari on iOS](https://dev.to/u4aew/how-to-set-up-push-notifications-in-safari-on-ios-ki9)
 - [Dev.to/JS] [JavaScript First, Then TypeScript](https://dev.to/somedood/javascript-first-then-typescript-10bg)
 - [Dev.to/JS] [How Many Dependencies Does Your Project Really Have?](https://dev.to/syki/how-many-dependencies-does-your-project-really-have-239c)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bum - Bun Version Manager](https://dev.to/owenizedd/bum-bun-version-manager-5g5f)
 - [Dev.to/JS] [Configure TypeORM migrations in 5 minutes](https://dev.to/andreasbergstrom/configure-typeorm-migrations-in-5-minutes-2njg)
 - [Dev.to/JS] [do you want to know about DATA STRUCTURES ?](https://dev.to/betpido/do-you-want-to-know-about-data-structures--2dhe)
-- [Dev.to/JS] [How to code and develop banking software using Web3 development tools and frameworks](https://dev.to/remotecypto/how-to-code-and-develop-banking-software-using-web3-development-tools-and-frameworks-3di8)
-- [Dev.to/JS] [Paisa World Loan App 7637953787*/8103010265](https://dev.to/rohitkumar96616253/paisa-world-loan-app-76379537878103010265-1oc6)
 - [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose and Care for a Cutting Board &lpar;so It Doesn&#39;t Mess up Your Knife&rpar;](https://lifehacker.com/how-to-choose-and-care-for-a-cutting-board-so-it-doesn-1850870074)
 - [Lifehacker] [The Kitchen Tools That Deserve a Spot in Your Utensil Holder](https://lifehacker.com/the-kitchen-tools-that-deserve-a-spot-in-your-utensil-h-1850860971)
 - [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-take-care-of-your-knives-like-an-adult-1850854698)
-- [Lifehacker] [Skip the Knife Block and Buy These Knives Instead](https://lifehacker.com/skip-the-knife-block-and-buy-these-knives-instead-1850849157)
-- [Lifehacker] [The Eight Basic Baking Tools You Need &lpar;Even If You Don&#39;t Bake That Much&rpar;](https://lifehacker.com/basic-baking-tools-1850842596)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Skip the Knife Block and Buy These Knives Instead](https://lifehacker.com/skip-the-knife-block-and-buy-these-knives-instead-1850849157)<!-- TECH-POSTS:END -->
 
 ---
 
