@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to organize your project&#39;s folders - A quick guide to repository and folder structures.](https://dev.to/gvegacl/how-to-organize-your-projects-folders-a-quick-guide-to-repository-and-folder-structures-5fje)
+- [Dev.to/JS] [How To Start Freelancing On Upwork](https://dev.to/fisayomi/how-to-start-freelancing-on-upwork-28hg)
+- [Dev.to/JS] [Rethinking Password Strength Estimation: Beyond Composition Rules](https://dev.to/ghamadi/rethinking-password-strength-estimation-beyond-composition-rules-408i)
+- [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Dev.to/JS] [Testing React Components: A Comprehensive Overview of Testing Libraries](https://dev.to/rowsanali/testing-react-components-a-comprehensive-overview-of-testing-libraries-2gd1)
 - [Dev.to/JS] [How to write types for better usability](https://dev.to/artxe2/how-to-write-types-for-better-usability-2b6b)
 - [Dev.to/JS] [Zod in Action: Building a Resilient Data Validation Pipeline](https://dev.to/bhavesh_yadav/zod-in-action-building-a-resilient-data-validation-pipeline-42bo)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Many Dependencies Does Your Project Really Have?](https://dev.to/syki/how-many-dependencies-does-your-project-really-have-239c)
 - [Dev.to/JS] [Using variant types in ReScript to represent business logic](https://dev.to/jderochervlk/using-variant-types-in-rescript-to-represent-business-logic-34e3)
 - [Dev.to/JS] [Introduction to Form Validation 🔥](https://dev.to/taquiimam14/introduction-to-form-validation-2il4)
-- [Dev.to/JS] [Understanding Object.seal&lpar;&rpar;, Object.freeze&lpar;&rpar;, and Object.preventExtensions&lpar;&rpar; in JavaScript](https://dev.to/vivek96_/objectseal-objectfreeze-and-objectpreventextensions-in-javascript-4c3k)
-- [Dev.to/JS] [test everywhere with dagger.io](https://dev.to/matfire/test-everywhere-with-daggerio-1fac)
-- [Dev.to/JS] [Bum - Bun Version Manager](https://dev.to/owenizedd/bum-bun-version-manager-5g5f)
 - [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Measure Any Ingredient](https://lifehacker.com/how-to-measure-any-ingredient-1850865017)
 - [Lifehacker] [How to Choose and Care for a Cutting Board &lpar;so It Doesn&#39;t Mess up Your Knife&rpar;](https://lifehacker.com/how-to-choose-and-care-for-a-cutting-board-so-it-doesn-1850870074)
 - [Lifehacker] [The Kitchen Tools That Deserve a Spot in Your Utensil Holder](https://lifehacker.com/the-kitchen-tools-that-deserve-a-spot-in-your-utensil-h-1850860971)
-- [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-take-care-of-your-knives-like-an-adult-1850854698)
-- [Lifehacker] [Skip the Knife Block and Buy These Knives Instead](https://lifehacker.com/skip-the-knife-block-and-buy-these-knives-instead-1850849157)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-take-care-of-your-knives-like-an-adult-1850854698)<!-- TECH-POSTS:END -->
 
 ---
 
