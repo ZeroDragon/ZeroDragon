@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Many Dependencies Does Your Project Really Have?](https://dev.to/syki/how-many-dependencies-does-your-project-really-have-239c)
+- [Dev.to/JS] [Using variant types in ReScript to represent business logic](https://dev.to/jderochervlk/using-variant-types-in-rescript-to-represent-business-logic-34e3)
 - [Dev.to/JS] [Introduction to Form Validation 🔥](https://dev.to/taquiimam14/introduction-to-form-validation-2il4)
 - [Dev.to/JS] [Understanding Object.seal&lpar;&rpar;, Object.freeze&lpar;&rpar;, and Object.preventExtensions&lpar;&rpar; in JavaScript](https://dev.to/vivek96_/objectseal-objectfreeze-and-objectpreventextensions-in-javascript-4c3k)
 - [Dev.to/JS] [test everywhere with dagger.io](https://dev.to/matfire/test-everywhere-with-daggerio-1fac)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paisa World Loan App 7637953787*/8103010265](https://dev.to/rohitkumar96616253/paisa-world-loan-app-76379537878103010265-1oc6)
 - [Dev.to/JS] [Mastering React&#39;s Lifecycle Methods: A Step-by-Step Guide](https://dev.to/adii/mastering-reacts-lifecycle-methods-a-step-by-step-guide-1f1g)
 - [Dev.to/JS] [List&lpar;Array&rpar; Comprehension in JavaScript](https://dev.to/phpflow/listarray-comprehension-in-javascript-mcm)
-- [Dev.to/JS] [Paisa World Loan App Customer Care Helpline Number 8103010265 /*/7637953787 Any issue call now hf](https://dev.to/rohitkumar96616253/paisa-world-loan-app-customer-care-helpline-number-8103010265-7637953787-any-issue-call-now-hf-a1j)
-- [Dev.to/JS] [Paisa World Loan App Customer Care Helpline Number 8103010265 /*/7637953787 Any issue call now](https://dev.to/rohitkumar96616253/paisa-world-loan-app-customer-care-helpline-number-8103010265-7637953787-any-issue-call-now-3hh3)
 - [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
