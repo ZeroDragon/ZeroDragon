@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [test everywhere with dagger.io](https://dev.to/matfire/test-everywhere-with-daggerio-1fac)
+- [Dev.to/JS] [Bum - Bun Version Manager](https://dev.to/owenizedd/bum-bun-version-manager-5g5f)
 - [Dev.to/JS] [Configure TypeORM migrations in 5 minutes](https://dev.to/andreasbergstrom/configure-typeorm-migrations-in-5-minutes-2njg)
 - [Dev.to/JS] [do you want to know about DATA STRUCTURES ?](https://dev.to/betpido/do-you-want-to-know-about-data-structures--2dhe)
 - [Dev.to/JS] [How to code and develop banking software using Web3 development tools and frameworks](https://dev.to/remotecypto/how-to-code-and-develop-banking-software-using-web3-development-tools-and-frameworks-3di8)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paisa World Loan App Customer Care Helpline Number 8103010265 /*/7637953787 Any issue call now](https://dev.to/rohitkumar96616253/paisa-world-loan-app-customer-care-helpline-number-8103010265-7637953787-any-issue-call-now-3hh3)
 - [Dev.to/JS] [do you guys like the javascript code](https://dev.to/deutscher-junge/do-you-guys-like-the-javascript-code-777)
 - [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
-- [Dev.to/JS] [⚡Build a Social Media Profiles Showcase Website with Next.js, Shadcn Ui and TailwindCSS](https://dev.to/taquiimam14/build-a-social-media-profiles-showcase-website-with-nextjs-shadcn-ui-and-tailwindcss-4lc9)
-- [Dev.to/JS] [Awesome Design patterns js/ts](https://dev.to/m4r14/awesome-design-patterns-jsts-20ff)
-- [Dev.to/JS] [JavaScript Magic Trick: Automatic Download](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-trick-automatic-download-5bn6)
+- [Dev.to/JS] [⚡Build a LinkTree Clone with Next.js, Shadcn Ui and TailwindCSS](https://dev.to/taquiimam14/build-a-social-media-profiles-showcase-website-with-nextjs-shadcn-ui-and-tailwindcss-4lc9)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
 - [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
