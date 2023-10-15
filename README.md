@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Set Up Push Notifications in Safari on iOS](https://dev.to/u4aew/how-to-set-up-push-notifications-in-safari-on-ios-ki9)
+- [Dev.to/JS] [JavaScript First, Then TypeScript](https://dev.to/somedood/javascript-first-then-typescript-10bg)
 - [Dev.to/JS] [How Many Dependencies Does Your Project Really Have?](https://dev.to/syki/how-many-dependencies-does-your-project-really-have-239c)
 - [Dev.to/JS] [Using variant types in ReScript to represent business logic](https://dev.to/jderochervlk/using-variant-types-in-rescript-to-represent-business-logic-34e3)
 - [Dev.to/JS] [Introduction to Form Validation 🔥](https://dev.to/taquiimam14/introduction-to-form-validation-2il4)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [do you want to know about DATA STRUCTURES ?](https://dev.to/betpido/do-you-want-to-know-about-data-structures--2dhe)
 - [Dev.to/JS] [How to code and develop banking software using Web3 development tools and frameworks](https://dev.to/remotecypto/how-to-code-and-develop-banking-software-using-web3-development-tools-and-frameworks-3di8)
 - [Dev.to/JS] [Paisa World Loan App 7637953787*/8103010265](https://dev.to/rohitkumar96616253/paisa-world-loan-app-76379537878103010265-1oc6)
-- [Dev.to/JS] [Mastering React&#39;s Lifecycle Methods: A Step-by-Step Guide](https://dev.to/adii/mastering-reacts-lifecycle-methods-a-step-by-step-guide-1f1g)
-- [Dev.to/JS] [List&lpar;Array&rpar; Comprehension in JavaScript](https://dev.to/phpflow/listarray-comprehension-in-javascript-mcm)
 - [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
