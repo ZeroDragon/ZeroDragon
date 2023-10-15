@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Awesome Design patterns js/ts](https://dev.to/m4r14/awesome-design-patterns-jsts-20ff)
+- [Dev.to/JS] [JavaScript Magic Trick: Automatic Download](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-trick-automatic-download-5bn6)
+- [Dev.to/JS] [Cory’s Coding Tips](https://dev.to/charkinsdevelopment/corys-coding-tips-1989)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
 - [Dev.to/JS] [Introducing Javascript Web Workers](https://dev.to/kevin-uehara/introducing-javascript-web-workers-5fde)
 - [Dev.to/JS] [A Guide to CSS Flexbox: Creating Flexible Layouts](https://dev.to/kenferio/a-guide-to-css-flexbox-creating-flexible-layouts-3e7l)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hyperimport - Import c, rust, zig etc. files in TypeScript](https://dev.to/tr1ckydev/hyperimport-import-c-rust-zig-etc-files-in-typescript-1ia5)
 - [Dev.to/JS] [Hacktoberfest PR 4](https://dev.to/soham-thaker/hacktoberfest-pr-4-2pbb)
 - [Dev.to/JS] [Want to help with Cardboard? JS/TS Vanilla Reactive Framework](https://dev.to/nombrekeff/want-to-help-with-cardboard-jsts-vanilla-reactive-framework-jcl)
-- [Dev.to/JS] [🚀 Easy string manipulation in JavaScript](https://dev.to/ksawery297/easy-string-manipulation-in-javascript-4ln3)
-- [Dev.to/JS] [A New Way to Create Accessible Accordions. Guide to the Jolty.js](https://dev.to/anmoldovanovdev/part-1-a-new-way-to-create-accessible-accordions-guide-to-the-tablist-component-of-the-ui-library-joltyjs-5hnm)
-- [Dev.to/JS] [The magic of JWT tokens ✨](https://dev.to/prakharrai1609/the-magic-of-jwt-tokens-193g)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
 - [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
 - [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)
