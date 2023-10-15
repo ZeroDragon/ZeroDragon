@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What I would like to see in the future of React development](https://dev.to/opensourcee/what-i-would-like-to-see-in-the-future-of-react-development-4f7f)
 - [Dev.to/JS] [How to organize your project&#39;s folders - A quick guide to repository and folder structures.](https://dev.to/gvegacl/how-to-organize-your-projects-folders-a-quick-guide-to-repository-and-folder-structures-5fje)
 - [Dev.to/JS] [How To Start Freelancing On Upwork](https://dev.to/fisayomi/how-to-start-freelancing-on-upwork-28hg)
 - [Dev.to/JS] [Rethinking Password Strength Estimation: Beyond Composition Rules](https://dev.to/ghamadi/rethinking-password-strength-estimation-beyond-composition-rules-408i)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript First, Then TypeScript](https://dev.to/somedood/javascript-first-then-typescript-10bg)
 - [Dev.to/JS] [How Many Dependencies Does Your Project Really Have?](https://dev.to/syki/how-many-dependencies-does-your-project-really-have-239c)
 - [Dev.to/JS] [Using variant types in ReScript to represent business logic](https://dev.to/jderochervlk/using-variant-types-in-rescript-to-represent-business-logic-34e3)
-- [Dev.to/JS] [Introduction to Form Validation 🔥](https://dev.to/taquiimam14/introduction-to-form-validation-2il4)
 - [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
