@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testing React Components: A Comprehensive Overview of Testing Libraries](https://dev.to/rowsanali/testing-react-components-a-comprehensive-overview-of-testing-libraries-2gd1)
+- [Dev.to/JS] [How to write types for better usability](https://dev.to/artxe2/how-to-write-types-for-better-usability-2b6b)
 - [Dev.to/JS] [Zod in Action: Building a Resilient Data Validation Pipeline](https://dev.to/bhavesh_yadav/zod-in-action-building-a-resilient-data-validation-pipeline-42bo)
 - [Dev.to/JS] [Part 2: Mastering the useState Hook](https://dev.to/dev_ojay/part-2-mastering-the-usestate-hook-4dnm)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Object.seal&lpar;&rpar;, Object.freeze&lpar;&rpar;, and Object.preventExtensions&lpar;&rpar; in JavaScript](https://dev.to/vivek96_/objectseal-objectfreeze-and-objectpreventextensions-in-javascript-4c3k)
 - [Dev.to/JS] [test everywhere with dagger.io](https://dev.to/matfire/test-everywhere-with-daggerio-1fac)
 - [Dev.to/JS] [Bum - Bun Version Manager](https://dev.to/owenizedd/bum-bun-version-manager-5g5f)
-- [Dev.to/JS] [Configure TypeORM migrations in 5 minutes](https://dev.to/andreasbergstrom/configure-typeorm-migrations-in-5-minutes-2njg)
-- [Dev.to/JS] [do you want to know about DATA STRUCTURES ?](https://dev.to/betpido/do-you-want-to-know-about-data-structures--2dhe)
 - [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
