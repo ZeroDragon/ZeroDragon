@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript&#39;s Prototype Chain: The Ancestral Magic Lineage](https://dev.to/init_chandan/javascripts-prototype-chain-the-ancestral-magic-lineage-3kpp)
+- [Dev.to/JS] [Store your notes in your browser 😎🔥](https://dev.to/navdeepm20/store-your-notes-in-your-browser-304m)
+- [Dev.to/JS] [S3 File Upload in Node.js and React - Build React App](https://dev.to/umakantv/s3-file-upload-in-nodejs-and-react-build-react-app-4fei)
 - [Dev.to/JS] [What I would like to see in the future of React development](https://dev.to/opensourcee/what-i-would-like-to-see-in-the-future-of-react-development-4f7f)
+- [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Dev.to/JS] [How to organize your project&#39;s folders - A quick guide to repository and folder structures.](https://dev.to/gvegacl/how-to-organize-your-projects-folders-a-quick-guide-to-repository-and-folder-structures-5fje)
 - [Dev.to/JS] [How To Start Freelancing On Upwork](https://dev.to/fisayomi/how-to-start-freelancing-on-upwork-28hg)
 - [Dev.to/JS] [Rethinking Password Strength Estimation: Beyond Composition Rules](https://dev.to/ghamadi/rethinking-password-strength-estimation-beyond-composition-rules-408i)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part 2: Mastering the useState Hook](https://dev.to/dev_ojay/part-2-mastering-the-usestate-hook-4dnm)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
 - [Dev.to/JS] [How to Set Up Push Notifications in Safari on iOS](https://dev.to/u4aew/how-to-set-up-push-notifications-in-safari-on-ios-ki9)
-- [Dev.to/JS] [JavaScript First, Then TypeScript](https://dev.to/somedood/javascript-first-then-typescript-10bg)
-- [Dev.to/JS] [How Many Dependencies Does Your Project Really Have?](https://dev.to/syki/how-many-dependencies-does-your-project-really-have-239c)
-- [Dev.to/JS] [Using variant types in ReScript to represent business logic](https://dev.to/jderochervlk/using-variant-types-in-rescript-to-represent-business-logic-34e3)
 - [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Every Kitchen Needs a Thermometer &lpar;and Which One You Should Buy&rpar;](https://lifehacker.com/why-every-kitchen-needs-a-thermometer-and-which-one-yo-1850859185)
 - [Lifehacker] [How to Measure Any Ingredient](https://lifehacker.com/how-to-measure-any-ingredient-1850865017)
 - [Lifehacker] [How to Choose and Care for a Cutting Board &lpar;so It Doesn&#39;t Mess up Your Knife&rpar;](https://lifehacker.com/how-to-choose-and-care-for-a-cutting-board-so-it-doesn-1850870074)
-- [Lifehacker] [The Kitchen Tools That Deserve a Spot in Your Utensil Holder](https://lifehacker.com/the-kitchen-tools-that-deserve-a-spot-in-your-utensil-h-1850860971)
-- [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-take-care-of-your-knives-like-an-adult-1850854698)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Kitchen Tools That Deserve a Spot in Your Utensil Holder](https://lifehacker.com/the-kitchen-tools-that-deserve-a-spot-in-your-utensil-h-1850860971)<!-- TECH-POSTS:END -->
 
 ---
 
