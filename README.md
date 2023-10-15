@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ML5 ALIVE!](https://dev.to/gfish94/ml5-alive-2klg)
+- [Dev.to/JS] [Understanding React Components: Types, Exports, and Best Practices](https://dev.to/mrnz/understanding-react-components-types-exports-and-best-practices-2nj)
 - [Dev.to/JS] [Frontend face-off: React vs. Vue in 2023](https://dev.to/opensourcee/frontend-face-off-react-vs-vue-in-2023-2g8a)
 - [Dev.to/JS] [# The useState Hook and Forms in Controlled Components](https://dev.to/jimgrimes86/-the-usestate-hook-and-forms-in-controlled-components-2lj9)
 - [Dev.to/JS] [The secret sauce: How WebCrumbs makes React dev a cakewalk](https://dev.to/opensourcee/the-secret-sauce-how-webcrumbs-makes-react-dev-a-cakewalk-282l)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debouncing in React: A Custom Hook Example 🚀](https://dev.to/vikas2426/debouncing-in-react-a-custom-hook-example-3i4n)
 - [Dev.to/JS] [Learn JavaScript Basics to Advance](https://dev.to/anish_khadtare/learn-javascript-basics-to-advance-1inn)
 - [Dev.to/JS] [JavaScript&#39;s Prototype Chain: The Ancestral Magic Lineage](https://dev.to/init_chandan/javascripts-prototype-chain-the-ancestral-magic-lineage-3kpp)
-- [Dev.to/JS] [Store your notes in your browser 😎🔥](https://dev.to/navdeepm20/store-your-notes-in-your-browser-304m)
-- [Dev.to/JS] [S3 File Upload in Node.js and React - Build React App](https://dev.to/umakantv/s3-file-upload-in-nodejs-and-react-build-react-app-4fei)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
