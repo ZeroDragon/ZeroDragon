@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Javascript Web Workers](https://dev.to/kevin-uehara/introducing-javascript-web-workers-5fde)
 - [Dev.to/JS] [A Guide to CSS Flexbox: Creating Flexible Layouts](https://dev.to/kenferio/a-guide-to-css-flexbox-creating-flexible-layouts-3e7l)
 - [Dev.to/JS] [Learning FullCalendar Part 2: Building Your First Calendar App](https://dev.to/ayako_yk/learning-fullcalendar-part-2-building-your-first-calendar-app-ngc)
 - [Dev.to/JS] [How to structure your frontend code in ReactJS [with explanations]. 🚀](https://dev.to/harshal255/how-to-structure-your-frontend-code-in-reactjs-with-explanations-59dl)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A New Way to Create Accessible Accordions. Guide to the Jolty.js](https://dev.to/anmoldovanovdev/part-1-a-new-way-to-create-accessible-accordions-guide-to-the-tablist-component-of-the-ui-library-joltyjs-5hnm)
 - [Dev.to/JS] [The magic of JWT tokens ✨](https://dev.to/prakharrai1609/the-magic-of-jwt-tokens-193g)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
-- [Dev.to/JS] [Zustand + React Query: The Future of Fluent State Management](https://dev.to/madhuriskumar/zustand-react-query-the-future-of-fluent-state-management-4jm)
 - [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
 - [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)
 - [Lifehacker] [The Difference Between Hardwood and Softwood, and When to Use Each](https://lifehacker.com/the-difference-between-hardwood-and-softwood-and-when-1850921855)
