@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Meeting TimeCounter](https://dev.to/digfish/meeting-timecounter-33af)
+- [Dev.to/JS] [A Simple Observer in Vanilla Javascript](https://dev.to/parenttobias/a-simple-observer-in-vanilla-javascript-1m80)
+- [Dev.to/JS] [JavaScript for Testers - Part 2 &lpar;Callbacks, Promises and async-await&rpar;](https://dev.to/asheeshmisra/javascript-for-testers-part-2-callbacks-promises-and-async-await-15b1)
 - [Dev.to/JS] [Understanding the Virtual DOM in React: A Comprehensive Explanation](https://dev.to/rowsanali/understanding-the-virtual-dom-in-react-a-comprehensive-explanation-17g2)
 - [Dev.to/JS] [Accessibility in React Applications: Best Practices and Tools](https://dev.to/rowsanali/accessibility-in-react-applications-best-practices-and-tools-3ck4)
 - [Dev.to/JS] [Debouncing in React: A Custom Hook Example 🚀](https://dev.to/vikas2426/debouncing-in-react-a-custom-hook-example-3i4n)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Dev.to/JS] [How to organize your project&#39;s folders - A quick guide to repository and folder structures.](https://dev.to/gvegacl/how-to-organize-your-projects-folders-a-quick-guide-to-repository-and-folder-structures-5fje)
 - [Dev.to/JS] [How To Start Freelancing On Upwork](https://dev.to/fisayomi/how-to-start-freelancing-on-upwork-28hg)
-- [Dev.to/JS] [Rethinking Password Strength Estimation: Beyond Composition Rules](https://dev.to/ghamadi/rethinking-password-strength-estimation-beyond-composition-rules-408i)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
 - [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
