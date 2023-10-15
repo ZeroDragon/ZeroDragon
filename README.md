@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [do you guys like the javascript code](https://dev.to/deutscher-junge/do-you-guys-like-the-javascript-code-777)
+- [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
 - [Dev.to/JS] [⚡Build a Social Media Profiles Showcase Website with Next.js, Shadcn Ui and TailwindCSS](https://dev.to/taquiimam14/build-a-social-media-profiles-showcase-website-with-nextjs-shadcn-ui-and-tailwindcss-4lc9)
 - [Dev.to/JS] [Awesome Design patterns js/ts](https://dev.to/m4r14/awesome-design-patterns-jsts-20ff)
 - [Dev.to/JS] [JavaScript Magic Trick: Automatic Download](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-trick-automatic-download-5bn6)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 game-changing shortcut links that can supercharge your online productivity. 💼🚀](https://dev.to/harshal255/10-game-changing-shortcut-links-that-can-supercharge-your-online-productivity-1in3)
 - [Dev.to/JS] [Day 7: Created a Catphoto Web-app, flexbox was the main idea](https://dev.to/duke09/day-7-created-a-catphoto-web-app-flexbox-was-the-main-idea-3jnp)
 - [Dev.to/JS] [Hyperimport - Import c, rust, zig etc. files in TypeScript](https://dev.to/tr1ckydev/hyperimport-import-c-rust-zig-etc-files-in-typescript-1ia5)
-- [Dev.to/JS] [Hacktoberfest PR 4](https://dev.to/soham-thaker/hacktoberfest-pr-4-2pbb)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
 - [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
 - [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Kitchen Tools That Deserve a Spot in Your Utensil Holder](https://lifehacker.com/the-kitchen-tools-that-deserve-a-spot-in-your-utensil-h-1850860971)
 - [Lifehacker] [How to Take Care of Your Knives Like an Adult](https://lifehacker.com/how-to-take-care-of-your-knives-like-an-adult-1850854698)
 - [Lifehacker] [Skip the Knife Block and Buy These Knives Instead](https://lifehacker.com/skip-the-knife-block-and-buy-these-knives-instead-1850849157)
-- [Lifehacker] [The Eight Basic Baking Tools You Need &lpar;Even If You Don&#39;t Bake That Much&rpar;](https://lifehacker.com/basic-baking-tools-1850842596)
-- [Lifehacker] [How to Buy, Use, and Care for Nonstick Cookware](https://lifehacker.com/how-to-buy-use-and-care-for-nonstick-cookware-1850875663)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Eight Basic Baking Tools You Need &lpar;Even If You Don&#39;t Bake That Much&rpar;](https://lifehacker.com/basic-baking-tools-1850842596)<!-- TECH-POSTS:END -->
 
 ---
 
