@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Frontend face-off: React vs. Vue in 2023](https://dev.to/opensourcee/frontend-face-off-react-vs-vue-in-2023-2g8a)
 - [Dev.to/JS] [# The useState Hook and Forms in Controlled Components](https://dev.to/jimgrimes86/-the-usestate-hook-and-forms-in-controlled-components-2lj9)
 - [Dev.to/JS] [The secret sauce: How WebCrumbs makes React dev a cakewalk](https://dev.to/opensourcee/the-secret-sauce-how-webcrumbs-makes-react-dev-a-cakewalk-282l)
 - [Dev.to/JS] [A Simple Observer in Vanilla Javascript](https://dev.to/parenttobias/a-simple-observer-in-vanilla-javascript-1m80)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript&#39;s Prototype Chain: The Ancestral Magic Lineage](https://dev.to/init_chandan/javascripts-prototype-chain-the-ancestral-magic-lineage-3kpp)
 - [Dev.to/JS] [Store your notes in your browser 😎🔥](https://dev.to/navdeepm20/store-your-notes-in-your-browser-304m)
 - [Dev.to/JS] [S3 File Upload in Node.js and React - Build React App](https://dev.to/umakantv/s3-file-upload-in-nodejs-and-react-build-react-app-4fei)
-- [Dev.to/JS] [My opinion on the future of React development](https://dev.to/opensourcee/what-i-would-like-to-see-in-the-future-of-react-development-4f7f)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
