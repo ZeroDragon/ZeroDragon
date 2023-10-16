@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Going Mobile: React Native for Cross-Platform App Development](https://dev.to/rowsanali/going-mobile-react-native-for-cross-platform-app-development-251i)
+- [Dev.to/JS] [Return object after login successfull using nextauth.js](https://dev.to/imsan/return-object-after-login-successfull-using-nextauthjs-3lgc)
+- [Lifehacker] [Google Gets It Mostly Right With the Pixel 8 Pro](https://lifehacker.com/google-pixel-8-pro-review-1850930355)
+- [Lifehacker] [How to Freeze Fresh Cranberries Before They Get Slimy](https://lifehacker.com/how-to-freeze-fresh-cranberries-1849801424)
+- [Lifehacker] [This ChatGPT WordPress Plugin Is $60 Right Now](https://lifehacker.com/this-chatgpt-wordpress-plugin-is-60-right-now-1850911855)
 - [Dev.to/JS] [npm projects](https://dev.to/itsmohamedyahia/npm-projects-4o7a)
 - [Dev.to/JS] [what does &quot;literal&quot; mean?? string literal? object literal? literal syntax???](https://dev.to/itsmohamedyahia/what-does-literal-mean-string-literal-object-literal-literal-syntax-3k08)
 - [Dev.to/JS] [TF #19 | Weekly Frontend digest](https://dev.to/tech_foutraque/tf-19-weekly-frontend-digest-kfi)
@@ -38,6 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone’s Flashlight Can Go Dimmer Than You Think](https://lifehacker.com/your-iphone-s-flashlight-can-go-dimmer-than-you-think-1850930045)
 - [Lifehacker] [The Best Air Fryer Pumpkin Seeds Are Brined in Beer](https://lifehacker.com/you-should-brine-some-pumpkin-seeds-in-beer-and-air-fry-1847956673)
 - [Lifehacker] [Intel’s Latest i9 Chip Has Speeds up to 6GHz](https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876)
+- [Dev.to/JS] [JavaScript Under the Hood: `Promise.race`](https://dev.to/doziestar/javascript-under-the-hood-promiserace-3pba)
 - [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
 - [Dev.to/JS] [Draw a pixel art with vanilla js](https://dev.to/hoanganhlam/draw-a-pixel-art-with-vanilla-js-jj4)
 - [Dev.to/JS] [Accessing directives located in child components in Angular](https://dev.to/dmitryefimenko/accessing-directives-located-in-child-components-in-angular-1fl8)
@@ -45,9 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Content Creators Can Get Micmonster&#39;s Voice Library for $60 Right Now](https://lifehacker.com/content-creators-can-get-micmonsters-voice-library-for-1850899854)
 - [Lifehacker] [The Best Ways to Remove Paint Splatters From Any Surface](https://lifehacker.com/best-ways-remove-paint-from-any-surface-1850928455)
 - [Lifehacker] [How to Speed Read Without Forgetting Everything](https://lifehacker.com/how-to-speed-read-without-forgetting-everything-1850928985)
-- [Dev.to/JS] [HTTP Request Methods](https://dev.to/skeesen8/http-request-methods-2pjn)
-- [Dev.to/JS] [❤✨ Unleash Your Creativity with Stunning Design usng HTML ,CSS,JAVASCRIPT,THREE.JS,SHERY.JS! ✨❤](https://dev.to/princenitrr24/unleash-your-creativity-with-stunning-design-usng-html-cssjavasciptthreejssheryjs-15kf)
-- [Dev.to/JS] [Unleashing Iconify: Your Ultimate Solution for Icons](https://dev.to/furqanramzan/unleashing-iconify-your-ultimate-solution-for-icons-3dlc)
 - [Lifehacker] [How You Can Help Kids With ADHD Throughout the School Year](https://lifehacker.com/how-you-can-help-kids-with-adhd-throughout-the-school-y-1850928950)
 - [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $100 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-100-r-1850899833)
 - [Lifehacker] [The Aventon Pace 500.3 E-bike Is Beginner Friendly but High Performing](https://lifehacker.com/the-aventon-pace-500-3-e-bike-is-beginner-friendly-but-1850928918)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
 - [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
 - [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
-- [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)
-- [Lifehacker] [The Difference Between Hardwood and Softwood, and When to Use Each](https://lifehacker.com/the-difference-between-hardwood-and-softwood-and-when-1850921855)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 14, 2023](https://lifehacker.com/nyt-connections-answer-today-october-14-2023-1850921647)
-- [Lifehacker] [You Can Now Chat With One of Meta’s Horrifying AI Personas](https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)<!-- TECH-POSTS:END -->
 
 ---
 
