@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js vs React.js: A Comparison of Two Popular Frontend Frameworks](https://dev.to/gkhan205/nextjs-vs-reactjs-a-comparison-of-two-popular-frontend-frameworks-b1k)
+- [Dev.to/JS] [✨ 8 components to become a React master 🧙‍♂️ 🪄](https://dev.to/github20k/8-components-to-become-a-react-master-2ee4)
 - [Dev.to/JS] [My first project](https://dev.to/quiizzii/my-first-project-3ee)
 - [Dev.to/JS] [JavaScript Event Listeners for Beginners](https://dev.to/skeesen8/javascript-event-listeners-for-beginners-f81)
 - [Dev.to/JS] [Differences Between textContents, innerText, and innerHTML and When to Use What.](https://dev.to/sassy85/differences-between-textcontents-innertext-and-innerhtml-and-when-to-use-what-2h64)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Criando um jogo em Javascript em apenas 13Kb](https://dev.to/justaguyfrombr/criando-um-jogo-em-javascript-em-apenas-13kb-5320)
 - [Dev.to/JS] [ML5 ALIVE!](https://dev.to/gfish94/ml5-alive-2klg)
 - [Dev.to/JS] [Understanding React Components: Types, Exports, and Best Practices](https://dev.to/mrnz/understanding-react-components-types-exports-and-best-practices-2nj)
-- [Dev.to/JS] [Frontend face-off: React vs. Vue in 2023](https://dev.to/opensourcee/frontend-face-off-react-vs-vue-in-2023-2g8a)
-- [Dev.to/JS] [# The useState Hook and Forms in Controlled Components](https://dev.to/jimgrimes86/-the-usestate-hook-and-forms-in-controlled-components-2lj9)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
