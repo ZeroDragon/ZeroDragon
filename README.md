@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Shouldn&#39;t Buy a Used Electric Car—Yet](https://lifehacker.com/is-buying-a-used-ev-worth-it-1850929963)
+- [Dev.to/JS] [You Don&#39;t Know JS: Up &amp; Going: Una guía esencial para principiantes](https://dev.to/judlup/you-dont-know-js-up-going-una-guia-esencial-para-principiantes-1l8o)
+- [Dev.to/JS] [Blueprinting projects in Notion](https://dev.to/rhyshodgsondev/blueprinting-projects-in-notion-278m)
+- [Lifehacker] [The Best Isometric Exercises for Beginners](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
+- [Dev.to/JS] [Demystifying useLocation in ReactJS: A Beginner’s Guide to Navigation](https://dev.to/gaurbprajapati/demystifying-uselocation-in-reactjs-a-beginners-guide-to-navigation-4h6f)
 - [Lifehacker] [The Best &#39;Naked&#39; Pizza Is Made With Ice Cubes](https://lifehacker.com/the-best-naked-pizza-is-made-with-ice-cubes-1850931368)
 - [Dev.to/JS] [What is the best way to sync hotel reservations with Airbnb and Booking.com?](https://dev.to/arturo2r/what-is-the-best-way-to-sync-hotel-reservations-with-airbnb-and-bookingcom-g03)
 - [Lifehacker] [Sort Your Email by Sender Before Cleaning Your Inbox](https://lifehacker.com/sort-your-email-by-sender-before-cleaning-your-inbox-1850930311)
@@ -47,10 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone’s Flashlight Can Go Dimmer Than You Think](https://lifehacker.com/your-iphone-s-flashlight-can-go-dimmer-than-you-think-1850930045)
 - [Lifehacker] [The Best Air Fryer Pumpkin Seeds Are Brined in Beer](https://lifehacker.com/you-should-brine-some-pumpkin-seeds-in-beer-and-air-fry-1847956673)
 - [Lifehacker] [Intel’s Latest i9 Chip Has Speeds up to 6GHz](https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876)
-- [Dev.to/JS] [JavaScript Under the Hood: `Promise.race`](https://dev.to/doziestar/javascript-under-the-hood-promiserace-3pba)
 - [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
-- [Dev.to/JS] [Draw a pixel art with vanilla js](https://dev.to/hoanganhlam/draw-a-pixel-art-with-vanilla-js-jj4)
-- [Dev.to/JS] [Accessing directives located in child components in Angular](https://dev.to/dmitryefimenko/accessing-directives-located-in-child-components-in-angular-1fl8)
 - [Lifehacker] [Content Creators Can Get Micmonster&#39;s Voice Library for $60 Right Now](https://lifehacker.com/content-creators-can-get-micmonsters-voice-library-for-1850899854)
 - [Lifehacker] [The Best Ways to Remove Paint Splatters From Any Surface](https://lifehacker.com/best-ways-remove-paint-from-any-surface-1850928455)
 - [Lifehacker] [How to Speed Read Without Forgetting Everything](https://lifehacker.com/how-to-speed-read-without-forgetting-everything-1850928985)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
-- [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
-- [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)<!-- TECH-POSTS:END -->
 
 ---
 
