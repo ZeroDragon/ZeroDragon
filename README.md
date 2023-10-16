@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Differences Between textContents, innerText, and innerHTML and When to Use What.](https://dev.to/sassy85/differences-between-textcontents-innertext-and-innerhtml-and-when-to-use-what-2h64)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
 - [Dev.to/JS] [The Art of Test-Driven Development: A Comprehensive Guide](https://dev.to/easewithtuts/the-art-of-test-driven-development-a-comprehensive-guide-gbl)
 - [Dev.to/JS] [Mastering Binary Search](https://dev.to/cleancodestudio/mastering-binary-search-3li6)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [# The useState Hook and Forms in Controlled Components](https://dev.to/jimgrimes86/-the-usestate-hook-and-forms-in-controlled-components-2lj9)
 - [Dev.to/JS] [The secret sauce: How WebCrumbs makes React dev a cakewalk](https://dev.to/opensourcee/the-secret-sauce-how-webcrumbs-makes-react-dev-a-cakewalk-282l)
 - [Dev.to/JS] [A Simple Observer in Vanilla Javascript](https://dev.to/parenttobias/a-simple-observer-in-vanilla-javascript-1m80)
-- [Dev.to/JS] [JavaScript for Testers - Part 2 &lpar;Callbacks, Promises and async-await&rpar;](https://dev.to/asheeshmisra/javascript-for-testers-part-2-callbacks-promises-and-async-await-15b1)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
