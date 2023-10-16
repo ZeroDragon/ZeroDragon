@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first project](https://dev.to/quiizzii/my-first-project-3ee)
+- [Dev.to/JS] [JavaScript Event Listeners for Beginners](https://dev.to/skeesen8/javascript-event-listeners-for-beginners-f81)
 - [Dev.to/JS] [Differences Between textContents, innerText, and innerHTML and When to Use What.](https://dev.to/sassy85/differences-between-textcontents-innertext-and-innerhtml-and-when-to-use-what-2h64)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
 - [Dev.to/JS] [The Art of Test-Driven Development: A Comprehensive Guide](https://dev.to/easewithtuts/the-art-of-test-driven-development-a-comprehensive-guide-gbl)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding React Components: Types, Exports, and Best Practices](https://dev.to/mrnz/understanding-react-components-types-exports-and-best-practices-2nj)
 - [Dev.to/JS] [Frontend face-off: React vs. Vue in 2023](https://dev.to/opensourcee/frontend-face-off-react-vs-vue-in-2023-2g8a)
 - [Dev.to/JS] [# The useState Hook and Forms in Controlled Components](https://dev.to/jimgrimes86/-the-usestate-hook-and-forms-in-controlled-components-2lj9)
-- [Dev.to/JS] [The secret sauce: How WebCrumbs makes React dev a cakewalk](https://dev.to/opensourcee/the-secret-sauce-how-webcrumbs-makes-react-dev-a-cakewalk-282l)
-- [Dev.to/JS] [A Simple Observer in Vanilla Javascript](https://dev.to/parenttobias/a-simple-observer-in-vanilla-javascript-1m80)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
