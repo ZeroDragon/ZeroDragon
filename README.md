@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best &#39;Naked&#39; Pizza Is Made With Ice Cubes](https://lifehacker.com/the-best-naked-pizza-is-made-with-ice-cubes-1850931368)
+- [Dev.to/JS] [What is the best way to sync hotel reservations with Airbnb and Booking.com?](https://dev.to/arturo2r/what-is-the-best-way-to-sync-hotel-reservations-with-airbnb-and-bookingcom-g03)
+- [Lifehacker] [Sort Your Email by Sender Before Cleaning Your Inbox](https://lifehacker.com/sort-your-email-by-sender-before-cleaning-your-inbox-1850930311)
+- [Lifehacker] [Motorola&#39;s New Razr Is the Cheapest Way to Get a Foldable Smartphone](https://lifehacker.com/motorolas-new-razr-is-the-cheapest-way-to-get-a-foldabl-1850930730)
 - [Dev.to/JS] [Going Mobile: React Native for Cross-Platform App Development](https://dev.to/rowsanali/going-mobile-react-native-for-cross-platform-app-development-251i)
 - [Dev.to/JS] [Return object after login successfull using nextauth.js](https://dev.to/imsan/return-object-after-login-successfull-using-nextauthjs-3lgc)
 - [Lifehacker] [Google Gets It Mostly Right With the Pixel 8 Pro](https://lifehacker.com/google-pixel-8-pro-review-1850930355)
@@ -47,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
 - [Dev.to/JS] [Draw a pixel art with vanilla js](https://dev.to/hoanganhlam/draw-a-pixel-art-with-vanilla-js-jj4)
 - [Dev.to/JS] [Accessing directives located in child components in Angular](https://dev.to/dmitryefimenko/accessing-directives-located-in-child-components-in-angular-1fl8)
-- [Dev.to/JS] [Evolution of Front-End Development: Past and Future Trends](https://dev.to/c0mmand3rj/evolution-of-front-end-development-past-and-future-trends-4n8i)
 - [Lifehacker] [Content Creators Can Get Micmonster&#39;s Voice Library for $60 Right Now](https://lifehacker.com/content-creators-can-get-micmonsters-voice-library-for-1850899854)
 - [Lifehacker] [The Best Ways to Remove Paint Splatters From Any Surface](https://lifehacker.com/best-ways-remove-paint-from-any-surface-1850928455)
 - [Lifehacker] [How to Speed Read Without Forgetting Everything](https://lifehacker.com/how-to-speed-read-without-forgetting-everything-1850928985)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
 - [Lifehacker] [You Can Get Windows 11 Pro for $30 Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-30-right-now-1850899787)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)
-- [Lifehacker] [How to Respond When Someone Says They’ll ‘Look Into’ Your Request &lpar;but They Don’t&rpar;](https://lifehacker.com/how-to-respond-when-someone-says-they-ll-look-into-yo-1850921606)
-- [Lifehacker] [How to Keep Mice Out of Your House This Winter](https://lifehacker.com/how-to-keep-mice-out-of-your-house-this-winter-1850921825)
-- [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 15, 2023](https://lifehacker.com/nyt-connections-answer-today-october-15-2023-1850924736)<!-- TECH-POSTS:END -->
 
 ---
 
