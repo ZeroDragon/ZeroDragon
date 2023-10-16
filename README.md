@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Power of Progressive Web Apps: Enhancing User Experience and Engagement](https://dev.to/arafatweb/the-power-of-progressive-web-apps-enhancing-user-experience-and-engagement-236m)
+- [Dev.to/JS] [A Complete Guide to Scrape Amazon Reviews](https://dev.to/crawlbase/a-complete-guide-to-scrape-amazon-reviews-4a01)
+- [Dev.to/JS] [Converting Numbers to Words in a Kintone App Using JavaScript](https://dev.to/ahandsel/converting-numbers-to-words-in-a-kintone-app-using-javascript-ei0)
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 1&rpar;? Look At JS Engine](https://dev.to/samanabbasi/how-javascript-works-part-1-look-at-js-engine-1kkb)
 - [Dev.to/JS] [Build E-Commerce apps faster with Storefront UI](https://dev.to/jacobandrewsky/build-e-commerce-apps-faster-with-storefront-ui-5390)
 - [Dev.to/JS] [Node.js Package Security: NPM Vulnerabilities](https://dev.to/saint_vandora/nodejs-package-security-npm-vulnerabilities-57jo)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From a Tweet to $3,000: How I Turned a Twitter Follower into a Web Development Client](https://dev.to/amrtcrypto/from-a-tweet-to-3000-how-i-turned-a-twitter-follower-into-a-web-development-client-4c6b)
 - [Dev.to/JS] [Lazy Loading in React: Enhancing Performance with Suspense and Lazy](https://dev.to/rowsanali/lazy-loading-in-react-enhancing-performance-with-suspense-and-lazy-1g5h)
 - [Dev.to/JS] [Easy use of MATH](https://dev.to/efpage/easy-use-of-math-48bg)
-- [Dev.to/JS] [Immutable Data in JavaScript: Why and How to Use It](https://dev.to/rowsanali/immutable-data-in-javascript-why-and-how-to-use-it-1ddd)
-- [Dev.to/JS] [Error Handling in JavaScript and React: Best Practices and Tips](https://dev.to/rowsanali/error-handling-in-javascript-and-react-best-practices-and-tips-5d0i)
-- [Dev.to/JS] [Next.js vs React.js: A Comparison of Two Popular Frontend Frameworks](https://dev.to/gkhan205/nextjs-vs-reactjs-a-comparison-of-two-popular-frontend-frameworks-b1k)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
