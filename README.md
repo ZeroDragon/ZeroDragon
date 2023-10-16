@@ -26,10 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Container and Presentational Components](https://dev.to/kurmivivek295/container-and-presentational-components-48p7)
+- [Dev.to/JS] [npm projects](https://dev.to/itsmohamedyahia/npm-projects-4o7a)
+- [Dev.to/JS] [what does &quot;literal&quot; mean?? string literal? object literal? literal syntax???](https://dev.to/itsmohamedyahia/what-does-literal-mean-string-literal-object-literal-literal-syntax-3k08)
+- [Dev.to/JS] [TF #19 | Weekly Frontend digest](https://dev.to/tech_foutraque/tf-19-weekly-frontend-digest-kfi)
+- [Dev.to/JS] [Maximizing Engagement on Your Sports Blog with Hockey Highlights API](https://dev.to/sports_junkie/maximizing-engagement-on-your-sports-blog-with-hockey-highlights-api-232m)
+- [Lifehacker] [The Right Ways to Load and Unload a Barbell](https://lifehacker.com/the-right-ways-to-load-and-unload-a-barbell-1850925490)
+- [Dev.to/JS] [Node 21 might have WebSockets built-in](https://dev.to/andreasbergstrom/node-21-might-have-websockets-built-in-24f3)
+- [Lifehacker] [The Best Streaming Deals for October 2023](https://lifehacker.com/best-streaming-deals-1850763728)
+- [Lifehacker] [The Scariest Horror Podcasts to Listen This Halloween](https://lifehacker.com/the-best-horror-podcasts-for-halloween-1850930127)
 - [Dev.to/JS] [map, reduce, filter, sort, slice ...etc](https://dev.to/nawazmujawar/map-reduce-filter-sort-slice-etc-methods-of-array-in-js-2f9o)
-- [Dev.to/JS] [React Design Patterns](https://dev.to/kurmivivek295/react-design-patterns-228c)
 - [Lifehacker] [Your iPhone’s Flashlight Can Go Dimmer Than You Think](https://lifehacker.com/your-iphone-s-flashlight-can-go-dimmer-than-you-think-1850930045)
+- [Lifehacker] [The Best Air Fryer Pumpkin Seeds Are Brined in Beer](https://lifehacker.com/you-should-brine-some-pumpkin-seeds-in-beer-and-air-fry-1847956673)
 - [Lifehacker] [Intel’s Latest i9 Chip Has Speeds up to 6GHz](https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876)
 - [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
 - [Dev.to/JS] [Draw a pixel art with vanilla js](https://dev.to/hoanganhlam/draw-a-pixel-art-with-vanilla-js-jj4)
@@ -42,11 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [❤✨ Unleash Your Creativity with Stunning Design usng HTML ,CSS,JAVASCRIPT,THREE.JS,SHERY.JS! ✨❤](https://dev.to/princenitrr24/unleash-your-creativity-with-stunning-design-usng-html-cssjavasciptthreejssheryjs-15kf)
 - [Dev.to/JS] [Unleashing Iconify: Your Ultimate Solution for Icons](https://dev.to/furqanramzan/unleashing-iconify-your-ultimate-solution-for-icons-3dlc)
 - [Lifehacker] [How You Can Help Kids With ADHD Throughout the School Year](https://lifehacker.com/how-you-can-help-kids-with-adhd-throughout-the-school-y-1850928950)
-- [Dev.to/JS] [JavaScript Variables: Difference between Const and Let](https://dev.to/queenice90/javascript-variables-difference-between-const-and-let-16d2)
-- [Dev.to/JS] [Using Decap for a &quot;headless&quot; CMS on the Modulo Jamstack template to let non-coders work directly on Git](https://dev.to/michaelpb/using-decap-for-a-headless-cms-on-modulo-jamstack-template-to-let-non-coders-work-directly-on-git-23p4)
 - [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $100 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-100-r-1850899833)
 - [Lifehacker] [The Aventon Pace 500.3 E-bike Is Beginner Friendly but High Performing](https://lifehacker.com/the-aventon-pace-500-3-e-bike-is-beginner-friendly-but-1850928918)
-- [Dev.to/JS] [Announcing Wasp Launch Week #4: Waspolution + win swag! 👕🐝](https://dev.to/wasp/announcing-wasp-launch-week-4-waspolution-win-swag-4i85)
 - [Lifehacker] [The Best Ways to Thicken Chili](https://lifehacker.com/the-best-ways-to-thicken-chili-1850922435)
 - [Lifehacker] [Switchbots Can Make Dumb Devices Smart](https://lifehacker.com/switchbots-can-make-dumb-devices-smart-1850924093)
 - [Lifehacker] [The Best Ways to Actually Hear TV Dialogue](https://lifehacker.com/the-best-ways-to-actually-hear-tv-dialogue-1850921387)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Kodak Film and Slide Scanner Is $170 Right Now](https://lifehacker.com/this-kodak-film-and-slide-scanner-is-170-right-now-1850892504)
 - [Lifehacker] [The Difference Between Hardwood and Softwood, and When to Use Each](https://lifehacker.com/the-difference-between-hardwood-and-softwood-and-when-1850921855)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 14, 2023](https://lifehacker.com/nyt-connections-answer-today-october-14-2023-1850921647)
-- [Lifehacker] [You Can Now Chat With One of Meta’s Horrifying AI Personas](https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Sticking Out Your Gyat for the Rizzler?&#39;](https://lifehacker.com/what-is-sticking-out-your-gyat-for-the-rizzler-1850926437)
-- [Lifehacker] [This Massive Samsung Gaming Monitor Is $450 Off](https://lifehacker.com/this-massive-samsung-gaming-monitor-is-450-off-1850925954)
-- [Lifehacker] [This Shark Smart Vacuum Is $300 Off Right Now](https://lifehacker.com/this-shark-smart-vacuum-is-300-off-right-now-1850925484)
-- [Lifehacker] [You Can Now Edit Your Posts on Threads](https://lifehacker.com/you-can-now-edit-your-posts-on-threads-1850924676)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Chat With One of Meta’s Horrifying AI Personas](https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959)<!-- TECH-POSTS:END -->
 
 ---
 
