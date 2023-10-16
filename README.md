@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Aventon Pace 500.3 E-bike Is Beginner Friendly but High Performing](https://lifehacker.com/the-aventon-pace-500-3-e-bike-is-beginner-friendly-but-1850928918)
+- [Dev.to/JS] [Announcing Wasp Launch Week #4: Waspolution + win swag! 👕🐝](https://dev.to/wasp/announcing-wasp-launch-week-4-waspolution-win-swag-4i85)
+- [Dev.to/JS] [Java vs. JavaScript](https://dev.to/snelson723/java-vs-javascript-41c8)
 - [Lifehacker] [The Best Ways to Thicken Chili](https://lifehacker.com/the-best-ways-to-thicken-chili-1850922435)
 - [Dev.to/JS] [Using Intersection Observer API in React](https://dev.to/chirag__dev/using-intersection-observer-api-in-react-2hhl)
 - [Lifehacker] [Switchbots Can Make Dumb Devices Smart](https://lifehacker.com/switchbots-can-make-dumb-devices-smart-1850924093)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Common Vue.js Development Mistakes and How to Avoid Them ✅](https://dev.to/obiwanpelosi/common-vuejs-development-mistakes-and-how-to-avoid-them-4k60)
 - [Dev.to/JS] [WhatsApp Business vs WhatsApp Business API](https://dev.to/johnmerry/whatsapp-business-vs-whatsapp-business-api-52p9)
 - [Dev.to/JS] [Pros and Cons of Low-Code vs. No-Code Development](https://dev.to/vipulgupta/pros-and-cons-of-low-code-vs-no-code-development-4p3d)
-- [Dev.to/JS] [JavaScript Habits That Grind My Gears](https://dev.to/devprogrammer/javascript-habits-that-grind-my-gears-40g3)
-- [Dev.to/JS] [Paisa World Loan App 08103010265*/7637953787 any issue call this](https://dev.to/rohitroy741741/paisa-world-loan-app-081030102657637953787-any-issue-call-this-549g)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Right Cooking Oil &lpar;or Butter&rpar;](https://lifehacker.com/how-to-choose-the-right-cooking-oil-or-butter-1850863098)
 - [Lifehacker] [How to Add Heat to Your Food Without Scorching Your Tastebuds](https://lifehacker.com/how-to-add-heat-to-your-food-without-scorching-your-tas-1850870708)
 - [Lifehacker] [How &lpar;and When&rpar; to Use Fresh Vs. Dried Herbs in Your Cooking](https://lifehacker.com/how-to-substitute-dried-herbs-for-fresh-ones-1850880579)
-- [Lifehacker] [How to Use Peppercorns of All Colors](https://lifehacker.com/how-to-use-peppercorns-of-all-colors-1798473776)
-- [Lifehacker] [Everything You Wanted to Know About Salt but Were Too Afraid to Ask](https://lifehacker.com/everything-you-wanted-to-know-about-salt-but-were-too-a-1850851318)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Use Peppercorns of All Colors](https://lifehacker.com/how-to-use-peppercorns-of-all-colors-1798473776)<!-- TECH-POSTS:END -->
 
 ---
 
