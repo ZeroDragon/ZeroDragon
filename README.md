@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
+- [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
 - [Lifehacker] [Why You Shouldn&#39;t Buy a Used Electric Car—Yet](https://lifehacker.com/is-buying-a-used-ev-worth-it-1850929963)
 - [Dev.to/JS] [You Don&#39;t Know JS: Up &amp; Going: Una guía esencial para principiantes](https://dev.to/judlup/you-dont-know-js-up-going-una-guia-esencial-para-principiantes-1l8o)
 - [Dev.to/JS] [Blueprinting projects in Notion](https://dev.to/rhyshodgsondev/blueprinting-projects-in-notion-278m)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Switchbots Can Make Dumb Devices Smart](https://lifehacker.com/switchbots-can-make-dumb-devices-smart-1850924093)
 - [Lifehacker] [The Best Ways to Actually Hear TV Dialogue](https://lifehacker.com/the-best-ways-to-actually-hear-tv-dialogue-1850921387)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
-- [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
-- [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
-- [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)<!-- TECH-POSTS:END -->
 
 ---
 
