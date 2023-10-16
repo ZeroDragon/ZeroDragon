@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
+- [Dev.to/JS] [Draw a pixel art with vanilla js](https://dev.to/hoanganhlam/draw-a-pixel-art-with-vanilla-js-jj4)
+- [Dev.to/JS] [Accessing directives located in child components in Angular](https://dev.to/dmitryefimenko/accessing-directives-located-in-child-components-in-angular-1fl8)
+- [Dev.to/JS] [Evolution of Front-End Development: Past and Future Trends](https://dev.to/c0mmand3rj/evolution-of-front-end-development-past-and-future-trends-4n8i)
+- [Lifehacker] [Content Creators Can Get Micmonster&#39;s Voice Library for $60 Right Now](https://lifehacker.com/content-creators-can-get-micmonsters-voice-library-for-1850899854)
 - [Lifehacker] [The Best Ways to Remove Paint Splatters From Any Surface](https://lifehacker.com/best-ways-remove-paint-from-any-surface-1850928455)
 - [Lifehacker] [How to Speed Read Without Forgetting Everything](https://lifehacker.com/how-to-speed-read-without-forgetting-everything-1850928985)
 - [Dev.to/JS] [HTTP Request Methods](https://dev.to/skeesen8/http-request-methods-2pjn)
@@ -42,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Intersection Observer API in React](https://dev.to/chirag__dev/using-intersection-observer-api-in-react-2hhl)
 - [Lifehacker] [Switchbots Can Make Dumb Devices Smart](https://lifehacker.com/switchbots-can-make-dumb-devices-smart-1850924093)
 - [Dev.to/JS] [1 hour features](https://dev.to/alertpix/1-hour-features-1la7)
-- [Dev.to/JS] [🟣 Compilation of Best Full Stack Clones: Amazon, Airbnb, Fiverr, Whatsapp, Netflix, Spotify, Youtube, Zoom &amp; Candy Crush](https://dev.to/kishansheth/compilation-of-best-full-stack-clones-amazon-airbnb-fiverr-whatsapp-netflix-spotify-youtube-zoom-candy-crush-3b8n)
 - [Lifehacker] [The Best Ways to Actually Hear TV Dialogue](https://lifehacker.com/the-best-ways-to-actually-hear-tv-dialogue-1850921387)
-- [Dev.to/JS] [Web Security Encryption](https://dev.to/jshep23prog/web-security-encryption-3bom)
-- [Dev.to/JS] [JavaScript regular expression encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-regular-expression-encryption-5f1c)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Shark Smart Vacuum Is $300 Off Right Now](https://lifehacker.com/this-shark-smart-vacuum-is-300-off-right-now-1850925484)
 - [Lifehacker] [You Can Now Edit Your Posts on Threads](https://lifehacker.com/you-can-now-edit-your-posts-on-threads-1850924676)
 - [Lifehacker] [Why You Keep Triggering Fireworks During Video Calls &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-you-keep-triggering-fireworks-during-video-calls-a-1850924117)
-- [Lifehacker] [The 36 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)
-- [Lifehacker] [Chrome Just Made It Easier to Delete the Evidence of What You’ve Been Doing](https://lifehacker.com/quickly-clear-chrome-browsing-history-android-1850923251)
-- [Lifehacker] [The Best Lights to Help You Survive a Power Outage](https://lifehacker.com/best-emergency-lights-for-a-blackout-1850923506)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 36 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)<!-- TECH-POSTS:END -->
 
 ---
 
