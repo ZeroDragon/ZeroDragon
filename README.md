@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From a Tweet to $3,000: How I Turned a Twitter Follower into a Web Development Client](https://dev.to/amrtcrypto/from-a-tweet-to-3000-how-i-turned-a-twitter-follower-into-a-web-development-client-4c6b)
+- [Dev.to/JS] [Lazy Loading in React: Enhancing Performance with Suspense and Lazy](https://dev.to/rowsanali/lazy-loading-in-react-enhancing-performance-with-suspense-and-lazy-1g5h)
+- [Dev.to/JS] [Easy use of MATH](https://dev.to/efpage/easy-use-of-math-48bg)
+- [Dev.to/JS] [Immutable Data in JavaScript: Why and How to Use It](https://dev.to/rowsanali/immutable-data-in-javascript-why-and-how-to-use-it-1ddd)
+- [Dev.to/JS] [Error Handling in JavaScript and React: Best Practices and Tips](https://dev.to/rowsanali/error-handling-in-javascript-and-react-best-practices-and-tips-5d0i)
 - [Dev.to/JS] [Next.js vs React.js: A Comparison of Two Popular Frontend Frameworks](https://dev.to/gkhan205/nextjs-vs-reactjs-a-comparison-of-two-popular-frontend-frameworks-b1k)
 - [Dev.to/JS] [✨ 8 components to become a React master 🧙‍♂️ 🪄](https://dev.to/github20k/8-components-to-become-a-react-master-2ee4)
 - [Dev.to/JS] [My first project](https://dev.to/quiizzii/my-first-project-3ee)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
 - [Dev.to/JS] [The Art of Test-Driven Development: A Comprehensive Guide](https://dev.to/easewithtuts/the-art-of-test-driven-development-a-comprehensive-guide-gbl)
 - [Dev.to/JS] [Mastering Binary Search](https://dev.to/cleancodestudio/mastering-binary-search-3li6)
-- [Dev.to/JS] [Day 8: Learned Typography By Building a Nutrition Label](https://dev.to/duke09/day-8-learned-typography-by-building-a-nutrition-label-5g38)
-- [Dev.to/JS] [Creating a 13kb Game in JavaScript](https://dev.to/justaguyfrombr/creating-a-13kb-game-in-javascript-42g5)
-- [Dev.to/JS] [Criando um jogo em Javascript em apenas 13Kb](https://dev.to/justaguyfrombr/criando-um-jogo-em-javascript-em-apenas-13kb-5320)
-- [Dev.to/JS] [ML5 ALIVE!](https://dev.to/gfish94/ml5-alive-2klg)
-- [Dev.to/JS] [Understanding React Components: Types, Exports, and Best Practices](https://dev.to/mrnz/understanding-react-components-types-exports-and-best-practices-2nj)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
