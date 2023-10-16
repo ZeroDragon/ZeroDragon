@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Container and Presentational Components](https://dev.to/kurmivivek295/container-and-presentational-components-48p7)
+- [Dev.to/JS] [map, reduce, filter, sort, slice ...etc](https://dev.to/nawazmujawar/map-reduce-filter-sort-slice-etc-methods-of-array-in-js-2f9o)
+- [Dev.to/JS] [React Design Patterns](https://dev.to/kurmivivek295/react-design-patterns-228c)
+- [Lifehacker] [Your iPhone’s Flashlight Can Go Dimmer Than You Think](https://lifehacker.com/your-iphone-s-flashlight-can-go-dimmer-than-you-think-1850930045)
+- [Lifehacker] [Intel’s Latest i9 Chip Has Speeds up to 6GHz](https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876)
 - [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
 - [Dev.to/JS] [Draw a pixel art with vanilla js](https://dev.to/hoanganhlam/draw-a-pixel-art-with-vanilla-js-jj4)
 - [Dev.to/JS] [Accessing directives located in child components in Angular](https://dev.to/dmitryefimenko/accessing-directives-located-in-child-components-in-angular-1fl8)
@@ -42,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $100 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-100-r-1850899833)
 - [Lifehacker] [The Aventon Pace 500.3 E-bike Is Beginner Friendly but High Performing](https://lifehacker.com/the-aventon-pace-500-3-e-bike-is-beginner-friendly-but-1850928918)
 - [Dev.to/JS] [Announcing Wasp Launch Week #4: Waspolution + win swag! 👕🐝](https://dev.to/wasp/announcing-wasp-launch-week-4-waspolution-win-swag-4i85)
-- [Dev.to/JS] [Java vs. JavaScript](https://dev.to/snelson723/java-vs-javascript-41c8)
 - [Lifehacker] [The Best Ways to Thicken Chili](https://lifehacker.com/the-best-ways-to-thicken-chili-1850922435)
-- [Dev.to/JS] [Using Intersection Observer API in React](https://dev.to/chirag__dev/using-intersection-observer-api-in-react-2hhl)
 - [Lifehacker] [Switchbots Can Make Dumb Devices Smart](https://lifehacker.com/switchbots-can-make-dumb-devices-smart-1850924093)
-- [Dev.to/JS] [1 hour features](https://dev.to/alertpix/1-hour-features-1la7)
 - [Lifehacker] [The Best Ways to Actually Hear TV Dialogue](https://lifehacker.com/the-best-ways-to-actually-hear-tv-dialogue-1850921387)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Sticking Out Your Gyat for the Rizzler?&#39;](https://lifehacker.com/what-is-sticking-out-your-gyat-for-the-rizzler-1850926437)
 - [Lifehacker] [This Massive Samsung Gaming Monitor Is $450 Off](https://lifehacker.com/this-massive-samsung-gaming-monitor-is-450-off-1850925954)
 - [Lifehacker] [This Shark Smart Vacuum Is $300 Off Right Now](https://lifehacker.com/this-shark-smart-vacuum-is-300-off-right-now-1850925484)
-- [Lifehacker] [You Can Now Edit Your Posts on Threads](https://lifehacker.com/you-can-now-edit-your-posts-on-threads-1850924676)
-- [Lifehacker] [Why You Keep Triggering Fireworks During Video Calls &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-you-keep-triggering-fireworks-during-video-calls-a-1850924117)
-- [Lifehacker] [The 36 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Edit Your Posts on Threads](https://lifehacker.com/you-can-now-edit-your-posts-on-threads-1850924676)<!-- TECH-POSTS:END -->
 
 ---
 
