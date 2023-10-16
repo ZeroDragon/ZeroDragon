@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
+- [Dev.to/JS] [The Art of Test-Driven Development: A Comprehensive Guide](https://dev.to/easewithtuts/the-art-of-test-driven-development-a-comprehensive-guide-gbl)
+- [Dev.to/JS] [Mastering Binary Search](https://dev.to/cleancodestudio/mastering-binary-search-3li6)
 - [Dev.to/JS] [Day 8: Learned Typography By Building a Nutrition Label](https://dev.to/duke09/day-8-learned-typography-by-building-a-nutrition-label-5g38)
 - [Dev.to/JS] [Creating a 13kb Game in JavaScript](https://dev.to/justaguyfrombr/creating-a-13kb-game-in-javascript-42g5)
 - [Dev.to/JS] [Criando um jogo em Javascript em apenas 13Kb](https://dev.to/justaguyfrombr/criando-um-jogo-em-javascript-em-apenas-13kb-5320)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The secret sauce: How WebCrumbs makes React dev a cakewalk](https://dev.to/opensourcee/the-secret-sauce-how-webcrumbs-makes-react-dev-a-cakewalk-282l)
 - [Dev.to/JS] [A Simple Observer in Vanilla Javascript](https://dev.to/parenttobias/a-simple-observer-in-vanilla-javascript-1m80)
 - [Dev.to/JS] [JavaScript for Testers - Part 2 &lpar;Callbacks, Promises and async-await&rpar;](https://dev.to/asheeshmisra/javascript-for-testers-part-2-callbacks-promises-and-async-await-15b1)
-- [Dev.to/JS] [Understanding the Virtual DOM in React: A Comprehensive Explanation](https://dev.to/rowsanali/understanding-the-virtual-dom-in-react-a-comprehensive-explanation-17g2)
-- [Dev.to/JS] [Accessibility in React Applications: Best Practices and Tools](https://dev.to/rowsanali/accessibility-in-react-applications-best-practices-and-tools-3ck4)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Wanted to Know About Salt but Were Too Afraid to Ask](https://lifehacker.com/everything-you-wanted-to-know-about-salt-but-were-too-a-1850851318)
 - [Lifehacker] [Why Every Kitchen Needs a Thermometer &lpar;and Which One You Should Buy&rpar;](https://lifehacker.com/why-every-kitchen-needs-a-thermometer-and-which-one-yo-1850859185)
 - [Lifehacker] [How to Measure Any Ingredient](https://lifehacker.com/how-to-measure-any-ingredient-1850865017)
-- [Lifehacker] [How to Choose and Care for a Cutting Board &lpar;so It Doesn&#39;t Mess up Your Knife&rpar;](https://lifehacker.com/how-to-choose-and-care-for-a-cutting-board-so-it-doesn-1850870074)
-- [Lifehacker] [The Kitchen Tools That Deserve a Spot in Your Utensil Holder](https://lifehacker.com/the-kitchen-tools-that-deserve-a-spot-in-your-utensil-h-1850860971)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose and Care for a Cutting Board &lpar;so It Doesn&#39;t Mess up Your Knife&rpar;](https://lifehacker.com/how-to-choose-and-care-for-a-cutting-board-so-it-doesn-1850870074)<!-- TECH-POSTS:END -->
 
 ---
 
