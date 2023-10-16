@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Thicken Chili](https://lifehacker.com/the-best-ways-to-thicken-chili-1850922435)
+- [Dev.to/JS] [Using Intersection Observer API in React](https://dev.to/chirag__dev/using-intersection-observer-api-in-react-2hhl)
+- [Lifehacker] [Switchbots Can Make Dumb Devices Smart](https://lifehacker.com/switchbots-can-make-dumb-devices-smart-1850924093)
+- [Dev.to/JS] [1 hour features](https://dev.to/alertpix/1-hour-features-1la7)
+- [Dev.to/JS] [🟣 Compilation of Best Full Stack Clones: Amazon, Airbnb, Fiverr, Whatsapp, Netflix, Spotify, Youtube, Zoom &amp; Candy Crush](https://dev.to/kishansheth/compilation-of-best-full-stack-clones-amazon-airbnb-fiverr-whatsapp-netflix-spotify-youtube-zoom-candy-crush-3b8n)
+- [Lifehacker] [The Best Ways to Actually Hear TV Dialogue](https://lifehacker.com/the-best-ways-to-actually-hear-tv-dialogue-1850921387)
 - [Dev.to/JS] [Web Security Encryption](https://dev.to/jshep23prog/web-security-encryption-3bom)
 - [Dev.to/JS] [JavaScript regular expression encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-regular-expression-encryption-5f1c)
 - [Dev.to/JS] [Mastering Data Fetching in React: A Comprehensive Guide to SWR](https://dev.to/tphilus/mastering-data-fetching-in-react-a-comprehensive-guide-to-swr-4l7o)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pros and Cons of Low-Code vs. No-Code Development](https://dev.to/vipulgupta/pros-and-cons-of-low-code-vs-no-code-development-4p3d)
 - [Dev.to/JS] [JavaScript Habits That Grind My Gears](https://dev.to/devprogrammer/javascript-habits-that-grind-my-gears-40g3)
 - [Dev.to/JS] [Paisa World Loan App 08103010265*/7637953787 any issue call this](https://dev.to/rohitroy741741/paisa-world-loan-app-081030102657637953787-any-issue-call-this-549g)
-- [Dev.to/JS] [Paisa World Loan App 08103010265*/7637953787 any issue call this](https://dev.to/rohitroy741741/paisa-world-loan-app-081030102657637953787-any-issue-call-this-4nka)
-- [Dev.to/JS] [Paisa World Loan App 08103010265*/7637953787 any issue call this](https://dev.to/rohitroy741741/paisa-world-loan-app-081030102657637953787-any-issue-call-this-20hk)
-- [Dev.to/JS] [The Power of Progressive Web Apps: Enhancing User Experience and Engagement](https://dev.to/arafatweb/the-power-of-progressive-web-apps-enhancing-user-experience-and-engagement-236m)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Add Heat to Your Food Without Scorching Your Tastebuds](https://lifehacker.com/how-to-add-heat-to-your-food-without-scorching-your-tas-1850870708)
 - [Lifehacker] [How &lpar;and When&rpar; to Use Fresh Vs. Dried Herbs in Your Cooking](https://lifehacker.com/how-to-substitute-dried-herbs-for-fresh-ones-1850880579)
 - [Lifehacker] [How to Use Peppercorns of All Colors](https://lifehacker.com/how-to-use-peppercorns-of-all-colors-1798473776)
-- [Lifehacker] [Everything You Wanted to Know About Salt but Were Too Afraid to Ask](https://lifehacker.com/everything-you-wanted-to-know-about-salt-but-were-too-a-1850851318)
-- [Lifehacker] [Why Every Kitchen Needs a Thermometer &lpar;and Which One You Should Buy&rpar;](https://lifehacker.com/why-every-kitchen-needs-a-thermometer-and-which-one-yo-1850859185)
-- [Lifehacker] [How to Measure Any Ingredient](https://lifehacker.com/how-to-measure-any-ingredient-1850865017)
-- [Lifehacker] [How to Choose and Care for a Cutting Board &lpar;so It Doesn&#39;t Mess up Your Knife&rpar;](https://lifehacker.com/how-to-choose-and-care-for-a-cutting-board-so-it-doesn-1850870074)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Wanted to Know About Salt but Were Too Afraid to Ask](https://lifehacker.com/everything-you-wanted-to-know-about-salt-but-were-too-a-1850851318)<!-- TECH-POSTS:END -->
 
 ---
 
