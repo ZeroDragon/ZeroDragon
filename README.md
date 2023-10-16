@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTTP Request Methods](https://dev.to/skeesen8/http-request-methods-2pjn)
+- [Dev.to/JS] [❤✨ Unleash Your Creativity with Stunning Design usng HTML ,CSS,JAVASCRIPT,THREE.JS,SHERY.JS! ✨❤](https://dev.to/princenitrr24/unleash-your-creativity-with-stunning-design-usng-html-cssjavasciptthreejssheryjs-15kf)
+- [Dev.to/JS] [Unleashing Iconify: Your Ultimate Solution for Icons](https://dev.to/furqanramzan/unleashing-iconify-your-ultimate-solution-for-icons-3dlc)
+- [Lifehacker] [How You Can Help Kids With ADHD Throughout the School Year](https://lifehacker.com/how-you-can-help-kids-with-adhd-throughout-the-school-y-1850928950)
+- [Dev.to/JS] [JavaScript Variables: Difference between Const and Let](https://dev.to/queenice90/javascript-variables-difference-between-const-and-let-16d2)
+- [Dev.to/JS] [Using Decap for a &quot;headless&quot; CMS on the Modulo Jamstack template to let non-coders work directly on Git](https://dev.to/michaelpb/using-decap-for-a-headless-cms-on-modulo-jamstack-template-to-let-non-coders-work-directly-on-git-23p4)
+- [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $100 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-100-r-1850899833)
 - [Lifehacker] [The Aventon Pace 500.3 E-bike Is Beginner Friendly but High Performing](https://lifehacker.com/the-aventon-pace-500-3-e-bike-is-beginner-friendly-but-1850928918)
 - [Dev.to/JS] [Announcing Wasp Launch Week #4: Waspolution + win swag! 👕🐝](https://dev.to/wasp/announcing-wasp-launch-week-4-waspolution-win-swag-4i85)
 - [Dev.to/JS] [Java vs. JavaScript](https://dev.to/snelson723/java-vs-javascript-41c8)
@@ -37,11 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Actually Hear TV Dialogue](https://lifehacker.com/the-best-ways-to-actually-hear-tv-dialogue-1850921387)
 - [Dev.to/JS] [Web Security Encryption](https://dev.to/jshep23prog/web-security-encryption-3bom)
 - [Dev.to/JS] [JavaScript regular expression encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-regular-expression-encryption-5f1c)
-- [Dev.to/JS] [Mastering Data Fetching in React: A Comprehensive Guide to SWR](https://dev.to/tphilus/mastering-data-fetching-in-react-a-comprehensive-guide-to-swr-4l7o)
-- [Dev.to/JS] [Recommendation algorithm with vector database](https://dev.to/heyraghab/recommendation-algorithm-with-vector-database-429c)
-- [Dev.to/JS] [Common Vue.js Development Mistakes and How to Avoid Them ✅](https://dev.to/obiwanpelosi/common-vuejs-development-mistakes-and-how-to-avoid-them-4k60)
-- [Dev.to/JS] [WhatsApp Business vs WhatsApp Business API](https://dev.to/johnmerry/whatsapp-business-vs-whatsapp-business-api-52p9)
-- [Dev.to/JS] [Pros and Cons of Low-Code vs. No-Code Development](https://dev.to/vipulgupta/pros-and-cons-of-low-code-vs-no-code-development-4p3d)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Chrome Just Made It Easier to Delete the Evidence of What You’ve Been Doing](https://lifehacker.com/quickly-clear-chrome-browsing-history-android-1850923251)
 - [Lifehacker] [The Best Lights to Help You Survive a Power Outage](https://lifehacker.com/best-emergency-lights-for-a-blackout-1850923506)
 - [Lifehacker] [How to Choose the Right Cooking Oil &lpar;or Butter&rpar;](https://lifehacker.com/how-to-choose-the-right-cooking-oil-or-butter-1850863098)
-- [Lifehacker] [How to Add Heat to Your Food Without Scorching Your Tastebuds](https://lifehacker.com/how-to-add-heat-to-your-food-without-scorching-your-tas-1850870708)
-- [Lifehacker] [How &lpar;and When&rpar; to Use Fresh Vs. Dried Herbs in Your Cooking](https://lifehacker.com/how-to-substitute-dried-herbs-for-fresh-ones-1850880579)
-- [Lifehacker] [How to Use Peppercorns of All Colors](https://lifehacker.com/how-to-use-peppercorns-of-all-colors-1798473776)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Add Heat to Your Food Without Scorching Your Tastebuds](https://lifehacker.com/how-to-add-heat-to-your-food-without-scorching-your-tas-1850870708)<!-- TECH-POSTS:END -->
 
 ---
 
