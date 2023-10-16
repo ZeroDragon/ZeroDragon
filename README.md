@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 1&rpar;? Look At JS Engine](https://dev.to/samanabbasi/how-javascript-works-part-1-look-at-js-engine-1kkb)
+- [Dev.to/JS] [Build E-Commerce apps faster with Storefront UI](https://dev.to/jacobandrewsky/build-e-commerce-apps-faster-with-storefront-ui-5390)
+- [Dev.to/JS] [Node.js Package Security: NPM Vulnerabilities](https://dev.to/saint_vandora/nodejs-package-security-npm-vulnerabilities-57jo)
 - [Dev.to/JS] [How to Build an Online MRZ Generator with Python, Pyodide and HTML5](https://dev.to/yushulx/how-to-build-an-online-mrz-generator-with-python-pyodide-and-html5-2akh)
 - [Dev.to/JS] [The Sneaky CSS Selectors You&#39;re Missing Out On](https://dev.to/taquiimam14/the-sneaky-css-selectors-youre-missing-out-on-3m65)
 - [Dev.to/JS] [Click Outside Magic: a new Custom Hook!](https://dev.to/brdnicolas/click-outside-magic-a-new-custom-hook-4np4)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Immutable Data in JavaScript: Why and How to Use It](https://dev.to/rowsanali/immutable-data-in-javascript-why-and-how-to-use-it-1ddd)
 - [Dev.to/JS] [Error Handling in JavaScript and React: Best Practices and Tips](https://dev.to/rowsanali/error-handling-in-javascript-and-react-best-practices-and-tips-5d0i)
 - [Dev.to/JS] [Next.js vs React.js: A Comparison of Two Popular Frontend Frameworks](https://dev.to/gkhan205/nextjs-vs-reactjs-a-comparison-of-two-popular-frontend-frameworks-b1k)
-- [Dev.to/JS] [✨ 8 components to become a React master 🧙‍♂️ 🪄](https://dev.to/github20k/8-components-to-become-a-react-master-2ee4)
-- [Dev.to/JS] [My first project](https://dev.to/quiizzii/my-first-project-3ee)
-- [Dev.to/JS] [JavaScript Event Listeners for Beginners](https://dev.to/skeesen8/javascript-event-listeners-for-beginners-f81)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
