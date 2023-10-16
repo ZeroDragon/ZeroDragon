@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build an Online MRZ Generator with Python, Pyodide and HTML5](https://dev.to/yushulx/how-to-build-an-online-mrz-generator-with-python-pyodide-and-html5-2akh)
+- [Dev.to/JS] [The Sneaky CSS Selectors You&#39;re Missing Out On](https://dev.to/taquiimam14/the-sneaky-css-selectors-youre-missing-out-on-3m65)
+- [Dev.to/JS] [Click Outside Magic: a new Custom Hook!](https://dev.to/brdnicolas/click-outside-magic-a-new-custom-hook-4np4)
 - [Dev.to/JS] [From a Tweet to $3,000: How I Turned a Twitter Follower into a Web Development Client](https://dev.to/amrtcrypto/from-a-tweet-to-3000-how-i-turned-a-twitter-follower-into-a-web-development-client-4c6b)
 - [Dev.to/JS] [Lazy Loading in React: Enhancing Performance with Suspense and Lazy](https://dev.to/rowsanali/lazy-loading-in-react-enhancing-performance-with-suspense-and-lazy-1g5h)
 - [Dev.to/JS] [Easy use of MATH](https://dev.to/efpage/easy-use-of-math-48bg)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [✨ 8 components to become a React master 🧙‍♂️ 🪄](https://dev.to/github20k/8-components-to-become-a-react-master-2ee4)
 - [Dev.to/JS] [My first project](https://dev.to/quiizzii/my-first-project-3ee)
 - [Dev.to/JS] [JavaScript Event Listeners for Beginners](https://dev.to/skeesen8/javascript-event-listeners-for-beginners-f81)
-- [Dev.to/JS] [Differences Between textContents, innerText, and innerHTML and When to Use What.](https://dev.to/sassy85/differences-between-textcontents-innertext-and-innerhtml-and-when-to-use-what-2h64)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)
-- [Dev.to/JS] [The Art of Test-Driven Development: A Comprehensive Guide](https://dev.to/easewithtuts/the-art-of-test-driven-development-a-comprehensive-guide-gbl)
-- [Dev.to/JS] [Mastering Binary Search](https://dev.to/cleancodestudio/mastering-binary-search-3li6)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
