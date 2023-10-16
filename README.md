@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 8: Learned Typography By Building a Nutrition Label](https://dev.to/duke09/day-8-learned-typography-by-building-a-nutrition-label-5g38)
+- [Dev.to/JS] [Creating a 13kb Game in JavaScript](https://dev.to/justaguyfrombr/creating-a-13kb-game-in-javascript-42g5)
+- [Dev.to/JS] [Criando um jogo em Javascript em apenas 13Kb](https://dev.to/justaguyfrombr/criando-um-jogo-em-javascript-em-apenas-13kb-5320)
 - [Dev.to/JS] [ML5 ALIVE!](https://dev.to/gfish94/ml5-alive-2klg)
 - [Dev.to/JS] [Understanding React Components: Types, Exports, and Best Practices](https://dev.to/mrnz/understanding-react-components-types-exports-and-best-practices-2nj)
 - [Dev.to/JS] [Frontend face-off: React vs. Vue in 2023](https://dev.to/opensourcee/frontend-face-off-react-vs-vue-in-2023-2g8a)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript for Testers - Part 2 &lpar;Callbacks, Promises and async-await&rpar;](https://dev.to/asheeshmisra/javascript-for-testers-part-2-callbacks-promises-and-async-await-15b1)
 - [Dev.to/JS] [Understanding the Virtual DOM in React: A Comprehensive Explanation](https://dev.to/rowsanali/understanding-the-virtual-dom-in-react-a-comprehensive-explanation-17g2)
 - [Dev.to/JS] [Accessibility in React Applications: Best Practices and Tools](https://dev.to/rowsanali/accessibility-in-react-applications-best-practices-and-tools-3ck4)
-- [Dev.to/JS] [Debouncing in React: A Custom Hook Example 🚀](https://dev.to/vikas2426/debouncing-in-react-a-custom-hook-example-3i4n)
-- [Dev.to/JS] [Learn JavaScript Basics to Advance](https://dev.to/anish_khadtare/learn-javascript-basics-to-advance-1inn)
-- [Dev.to/JS] [JavaScript&#39;s Prototype Chain: The Ancestral Magic Lineage](https://dev.to/init_chandan/javascripts-prototype-chain-the-ancestral-magic-lineage-3kpp)
 - [Lifehacker] [How to Disinfect Your Pruning Tools &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-disinfect-your-pruning-tools-and-why-you-should-1850921527)
 - [Lifehacker] [The Pros and Cons of Hard-Shell Vs. Soft-Sided Luggage](https://lifehacker.com/the-pros-and-cons-of-hard-shell-vs-soft-sided-luggage-1850921535)
 - [Lifehacker] [How to Clean a Box Spring](https://lifehacker.com/how-to-clean-a-box-spring-1850921545)
