@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Remove Paint Splatters From Any Surface](https://lifehacker.com/best-ways-remove-paint-from-any-surface-1850928455)
+- [Lifehacker] [How to Speed Read Without Forgetting Everything](https://lifehacker.com/how-to-speed-read-without-forgetting-everything-1850928985)
 - [Dev.to/JS] [HTTP Request Methods](https://dev.to/skeesen8/http-request-methods-2pjn)
 - [Dev.to/JS] [❤✨ Unleash Your Creativity with Stunning Design usng HTML ,CSS,JAVASCRIPT,THREE.JS,SHERY.JS! ✨❤](https://dev.to/princenitrr24/unleash-your-creativity-with-stunning-design-usng-html-cssjavasciptthreejssheryjs-15kf)
 - [Dev.to/JS] [Unleashing Iconify: Your Ultimate Solution for Icons](https://dev.to/furqanramzan/unleashing-iconify-your-ultimate-solution-for-icons-3dlc)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Keep Triggering Fireworks During Video Calls &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-you-keep-triggering-fireworks-during-video-calls-a-1850924117)
 - [Lifehacker] [The 36 Best &#39;90s Movies You Can Stream Right Now](https://lifehacker.com/the-best-90s-movies-you-can-stream-right-now-1850921813)
 - [Lifehacker] [Chrome Just Made It Easier to Delete the Evidence of What You’ve Been Doing](https://lifehacker.com/quickly-clear-chrome-browsing-history-android-1850923251)
-- [Lifehacker] [The Best Lights to Help You Survive a Power Outage](https://lifehacker.com/best-emergency-lights-for-a-blackout-1850923506)
-- [Lifehacker] [How to Choose the Right Cooking Oil &lpar;or Butter&rpar;](https://lifehacker.com/how-to-choose-the-right-cooking-oil-or-butter-1850863098)
-- [Lifehacker] [How to Add Heat to Your Food Without Scorching Your Tastebuds](https://lifehacker.com/how-to-add-heat-to-your-food-without-scorching-your-tas-1850870708)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Lights to Help You Survive a Power Outage](https://lifehacker.com/best-emergency-lights-for-a-blackout-1850923506)<!-- TECH-POSTS:END -->
 
 ---
 
