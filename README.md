@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SOLID Principles in JavaScript](https://dev.to/carlosazaustre/solid-principles-in-javascript-123c)
+- [Dev.to/JS] [Metro has encountered an error ANOET no such file or directory](https://dev.to/aspsptyd/metro-has-encountered-an-error-anoet-no-such-file-or-directory-2ek2)
+- [Dev.to/JS] [Transforming Your Essays with an Essay Rephraser: A Comprehensive Guide](https://dev.to/josephinelinnea/transforming-your-essays-with-an-essay-rephraser-a-comprehensive-guide-5166)
+- [Dev.to/JS] [Migrating to Next.js 13: A Simple Walkthrough](https://dev.to/digitalpollution/migrating-to-nextjs-13-a-simple-walkthrough-3lo6)
 - [Dev.to/JS] [How to hire java developer](https://dev.to/shreyanshrane_39/how-to-hire-java-developer-2jld)
 - [Dev.to/JS] [CleanMyMac for developers](https://dev.to/tdermendjiev/cleanmymac-for-developers-5491)
 - [Dev.to/JS] [The Power of Static Site Generation &lpar;SSG&rpar; in Next.js: A Practical Guide](https://dev.to/rowsanali/the-power-of-static-site-generation-ssg-in-nextjs-a-practical-guide-225a)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [✨7 Github Repositories to Master React](https://dev.to/taquiimam14/7-github-repositories-to-master-react-446)
 - [Dev.to/JS] [CSS : Inline vs Inline-Block, vs Block](https://dev.to/speaklouder/css-inline-vs-inline-block-vs-block-o98)
 - [Dev.to/JS] [Game Đổi Thưởng](https://dev.to/one88uno/game-doi-thuong-220p)
-- [Dev.to/JS] [💾 Automatiser le « backup » d&#39;une base de donnée MySQL avec NestJS et TypeORM](https://dev.to/messagegit/automatiser-le-backup-dune-base-de-donnee-mysql-avec-nestjs-et-typeorm-i7k)
-- [Dev.to/JS] [The Principles Behind Front-end Routing](https://dev.to/zhangyu1818/the-principles-behind-front-end-routing-4df4)
-- [Dev.to/JS] [👤 Implémenter un système d&#39;authentification via LinkedIn avec React &amp; NestJS](https://dev.to/messagegit/implementer-un-systeme-dauthentification-via-linkedin-avec-react-nestjs-47ok)
-- [Dev.to/JS] [⏰ Les fonctions Debounce et Throttle : comment ça fonctionne ?](https://dev.to/messagegit/les-fonctions-debounce-et-throttle-comment-ca-fonctionne--3j9l)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 17, 2023](https://lifehacker.com/nyt-connections-answer-today-october-17-2023-1850931234)
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
 - [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
