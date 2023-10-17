@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make an Autumnal Beurre Blanc With Apples and Sage](https://lifehacker.com/make-an-autumnal-beurre-blanc-with-apples-and-sage-1850931857)
+- [Lifehacker] [You Can Get the Xbox Elite Series 2 Core Controller for $89](https://lifehacker.com/you-can-get-the-xbox-elite-series-2-core-controller-for-1850931628)
 - [Dev.to/JS] [Bun JavaScript Runtime First Look](https://dev.to/thegnarco/bun-javascript-runtime-first-look-3eon)
+- [Dev.to/JS] [WebAssembly with Go: Taking Web Apps to the Next Level](https://dev.to/permify/webassembly-with-go-taking-web-apps-to-the-next-level-1imd)
 - [Dev.to/JS] [👥 From Candidate to Colleague: Acing a competitive Junior-level recruitment challenge📋](https://dev.to/wasp/from-candidate-to-colleague-acing-a-competitive-junior-level-recruitment-challenge-l3k)
 - [Dev.to/JS] [How to Optimize Your Website for SEO Using JavaScript](https://dev.to/abhaysinghr1/how-to-optimize-your-website-for-seo-using-javascript-4h4c)
 - [Dev.to/JS] [Migrating a React Project from JavaScript to TypeScript: An Easy Step-by-Step Guide](https://dev.to/digitalpollution/migrating-a-react-project-from-javascript-to-typescript-an-easy-step-by-step-guide-1hgo)
@@ -37,11 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enhance Testing Workflows with HTML Allure Reports in Cypress](https://dev.to/kailashpathak7/enhance-testing-workflows-with-html-allure-reports-in-cypress-55o)
 - [Dev.to/JS] [No jsconfig.json, no fun](https://dev.to/receter/no-jsconfigjson-no-fun-31b8)
 - [Dev.to/JS] [SOLID Principles in JavaScript](https://dev.to/carlosazaustre/solid-principles-in-javascript-123c)
-- [Dev.to/JS] [Metro has encountered an error ANOET no such file or directory](https://dev.to/aspsptyd/metro-has-encountered-an-error-anoet-no-such-file-or-directory-2ek2)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 17, 2023](https://lifehacker.com/nyt-connections-answer-today-october-17-2023-1850931234)
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
 - [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
-- [Lifehacker] [Why You Shouldn&#39;t Buy a Used Electric Car—Yet](https://lifehacker.com/is-buying-a-used-ev-worth-it-1850929963)
+- [Lifehacker] [Why You Shouldn&#39;t Buy a Used Electric Car Yet](https://lifehacker.com/is-buying-a-used-ev-worth-it-1850929963)
 - [Lifehacker] [The Best Isometric Exercises for Beginners](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
 - [Lifehacker] [The Best &#39;Naked&#39; Pizza Is Made With Ice Cubes](https://lifehacker.com/the-best-naked-pizza-is-made-with-ice-cubes-1850931368)
 - [Lifehacker] [Sort Your Email by Sender Before Cleaning Your Inbox](https://lifehacker.com/sort-your-email-by-sender-before-cleaning-your-inbox-1850930311)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $100 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-100-r-1850899833)
 - [Lifehacker] [The Aventon Pace 500.3 E-bike Is Beginner Friendly but High Performing](https://lifehacker.com/the-aventon-pace-500-3-e-bike-is-beginner-friendly-but-1850928918)
 - [Lifehacker] [The Best Ways to Thicken Chili](https://lifehacker.com/the-best-ways-to-thicken-chili-1850922435)
-- [Lifehacker] [Switchbots Can Make Dumb Devices Smart](https://lifehacker.com/switchbots-can-make-dumb-devices-smart-1850924093)
-- [Lifehacker] [The Best Ways to Actually Hear TV Dialogue](https://lifehacker.com/the-best-ways-to-actually-hear-tv-dialogue-1850921387)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 16, 2023](https://lifehacker.com/nyt-connections-answer-today-october-16-2023-1850924829)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Switchbots Can Make Dumb Devices Smart](https://lifehacker.com/switchbots-can-make-dumb-devices-smart-1850924093)<!-- TECH-POSTS:END -->
 
 ---
 
