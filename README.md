@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deques: entendendo e implementando essa estrutura de dados](https://dev.to/brunopinho/deques-entendendo-e-implementando-essa-estrutura-de-dados-2k58)
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
 - [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
 - [Lifehacker] [Why You Shouldn&#39;t Buy a Used Electric Car—Yet](https://lifehacker.com/is-buying-a-used-ev-worth-it-1850929963)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node 21 might have WebSockets built-in](https://dev.to/andreasbergstrom/node-21-might-have-websockets-built-in-24f3)
 - [Lifehacker] [The Best Streaming Deals for October 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [The Scariest Horror Podcasts to Listen This Halloween](https://lifehacker.com/the-best-horror-podcasts-for-halloween-1850930127)
-- [Dev.to/JS] [map, reduce, filter, sort, slice ...etc](https://dev.to/nawazmujawar/map-reduce-filter-sort-slice-etc-methods-of-array-in-js-2f9o)
 - [Lifehacker] [Your iPhone’s Flashlight Can Go Dimmer Than You Think](https://lifehacker.com/your-iphone-s-flashlight-can-go-dimmer-than-you-think-1850930045)
 - [Lifehacker] [The Best Air Fryer Pumpkin Seeds Are Brined in Beer](https://lifehacker.com/you-should-brine-some-pumpkin-seeds-in-beer-and-air-fry-1847956673)
 - [Lifehacker] [Intel’s Latest i9 Chip Has Speeds up to 6GHz](https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876)
