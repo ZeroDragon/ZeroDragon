@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Introduction to ⚡FastAPI](https://dev.to/refine/an-introduction-to-fastapi-2fda)
+- [Dev.to/JS] [How to transfer your projects to Appwrite in one click](https://dev.to/hackmamba/how-to-transfer-your-projects-to-appwrite-in-one-click-3iea)
+- [Dev.to/JS] [Enhance Testing Workflows with HTML Allure Reports in Cypress](https://dev.to/kailashpathak7/enhance-testing-workflows-with-html-allure-reports-in-cypress-55o)
+- [Dev.to/JS] [No jsconfig.json, no fun](https://dev.to/receter/no-jsconfigjson-no-fun-31b8)
 - [Dev.to/JS] [SOLID Principles in JavaScript](https://dev.to/carlosazaustre/solid-principles-in-javascript-123c)
 - [Dev.to/JS] [Metro has encountered an error ANOET no such file or directory](https://dev.to/aspsptyd/metro-has-encountered-an-error-anoet-no-such-file-or-directory-2ek2)
 - [Dev.to/JS] [Transforming Your Essays with an Essay Rephraser: A Comprehensive Guide](https://dev.to/josephinelinnea/transforming-your-essays-with-an-essay-rephraser-a-comprehensive-guide-5166)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CleanMyMac for developers](https://dev.to/tdermendjiev/cleanmymac-for-developers-5491)
 - [Dev.to/JS] [The Power of Static Site Generation &lpar;SSG&rpar; in Next.js: A Practical Guide](https://dev.to/rowsanali/the-power-of-static-site-generation-ssg-in-nextjs-a-practical-guide-225a)
 - [Dev.to/JS] [⭐️ Why Does the Same package.json Install Different node_modules❓You Need to Understand package-lock.json❗️](https://dev.to/yutzi/why-does-the-same-packagejson-install-different-nodemodulesyou-need-to-understand-package-lockjson-3an4)
-- [Dev.to/JS] [Mastering Array Validation with JavaScript&#39;s array.every&lpar;&rpar; method](https://dev.to/hugaidas/mastering-array-validation-with-javascripts-arrayevery-method-3gln)
-- [Dev.to/JS] [✨7 Github Repositories to Master React](https://dev.to/taquiimam14/7-github-repositories-to-master-react-446)
-- [Dev.to/JS] [CSS : Inline vs Inline-Block, vs Block](https://dev.to/speaklouder/css-inline-vs-inline-block-vs-block-o98)
-- [Dev.to/JS] [Game Đổi Thưởng](https://dev.to/one88uno/game-doi-thuong-220p)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 17, 2023](https://lifehacker.com/nyt-connections-answer-today-october-17-2023-1850931234)
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
 - [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
