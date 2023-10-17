@@ -26,7 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sending Notifications In Your Web Apps](https://dev.to/oluwatobi_/sending-notifications-in-your-web-apps-3iof)
+- [Dev.to/JS] [Stricter TypeScript &gt;, &lt;, and ===](https://dev.to/jesterxl/stricter-typescript-lt-and--2m4p)
+- [Dev.to/JS] [元素方城市-線上看2023完整版| 小鴨影音| 中文字幕](https://dev.to/mamang/hdxhdfh-4f3i)
+- [Lifehacker] [The 42 Best 2000s Movies You Can Stream Right Now](https://lifehacker.com/the-best-2000s-movies-you-can-stream-right-now-1850930073)
+- [Dev.to/JS] [How to Make Hotel Booking Calendar Using DHTMLX Scheduler and Angular](https://dev.to/plazarev/how-to-make-hotel-booking-calendar-using-dhtmlx-scheduler-and-angular-3o23)
+- [Dev.to/JS] [Vanilla JavaScript: How to Create a Draggable Slider with Auto-Play and Navigation - Part Two](https://dev.to/lynxdev32/vanilla-javascript-how-to-create-a-draggable-slider-with-auto-play-and-navigation-part-two-29he)
+- [Dev.to/JS] [What is useState in React?](https://dev.to/mikhaelesa/what-is-usestate-in-react-47io)
 - [Lifehacker] [Where to Get Roadside Assistance Coverage &lpar;and Why You Need It&rpar;](https://lifehacker.com/how-to-find-roadside-assistance-1850930049)
+- [Dev.to/JS] [Build and Deploy a Full-Stack E-Commerce: Next.js 13, React.js, Typescript, Tailwind, Prisma, Stripe](https://dev.to/chaoocharles/build-and-deploy-a-full-stack-e-commerce-nextjs-13-reactjs-typescript-tailwind-prisma-stripe-45f2)
 - [Lifehacker] [Why the Dyson Gen5Detect Is the Best Stick Vacuum](https://lifehacker.com/why-the-dyson-gen5detect-is-the-best-stick-vacuum-1850932694)
 - [Dev.to/JS] [Linksooon - Save. Share. Browse. All the amazing links.](https://dev.to/oskidev/linksooon-save-share-browse-all-the-amazing-links-3b0c)
 - [Lifehacker] [How to Grow &lpar;Good&rpar; Weed Indoors](https://lifehacker.com/how-to-grow-good-weed-indoors-1850931994)
@@ -37,13 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bun JavaScript Runtime First Look](https://dev.to/thegnarco/bun-javascript-runtime-first-look-3eon)
 - [Dev.to/JS] [WebAssembly with Go: Taking Web Apps to the Next Level](https://dev.to/permify/webassembly-with-go-taking-web-apps-to-the-next-level-1imd)
 - [Dev.to/JS] [👥 From Candidate to Colleague: Acing a competitive Junior-level recruitment challenge📋](https://dev.to/wasp/from-candidate-to-colleague-acing-a-competitive-junior-level-recruitment-challenge-l3k)
-- [Dev.to/JS] [How to Optimize Your Website for SEO Using JavaScript](https://dev.to/abhaysinghr1/how-to-optimize-your-website-for-seo-using-javascript-4h4c)
-- [Dev.to/JS] [Migrating a React Project from JavaScript to TypeScript: An Easy Step-by-Step Guide](https://dev.to/digitalpollution/migrating-a-react-project-from-javascript-to-typescript-an-easy-step-by-step-guide-1hgo)
-- [Dev.to/JS] [Domine o método Filter e simplifique sua lógica com arrays em Javascript](https://dev.to/demenezes/domine-o-metodo-filter-e-simplifique-sua-logica-com-arrays-em-javascript-209b)
-- [Dev.to/JS] [Build and Deploy a Full-Stack E-Commerce: Next.js 13, React.js, Typescript, Tailwind, Prisma, Stripe](https://dev.to/chaoocharles/build-and-deploy-a-full-stack-e-commerce-nextjs-13-reactjs-typescript-tailwind-prisma-stripe-4m2)
-- [Dev.to/JS] [An Introduction to ⚡FastAPI](https://dev.to/refine/an-introduction-to-fastapi-2fda)
-- [Dev.to/JS] [How to transfer your projects to Appwrite in one click](https://dev.to/hackmamba/how-to-transfer-your-projects-to-appwrite-in-one-click-3iea)
-- [Dev.to/JS] [Enhance Testing Workflows with HTML Allure Reports in Cypress](https://dev.to/kailashpathak7/enhance-testing-workflows-with-html-allure-reports-in-cypress-55o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 17, 2023](https://lifehacker.com/nyt-connections-answer-today-october-17-2023-1850931234)
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
 - [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
 - [Lifehacker] [Content Creators Can Get Micmonster&#39;s Voice Library for $60 Right Now](https://lifehacker.com/content-creators-can-get-micmonsters-voice-library-for-1850899854)
 - [Lifehacker] [The Best Ways to Remove Paint Splatters From Any Surface](https://lifehacker.com/best-ways-remove-paint-from-any-surface-1850928455)
-- [Lifehacker] [How to Speed Read Without Forgetting Everything](https://lifehacker.com/how-to-speed-read-without-forgetting-everything-1850928985)
-- [Lifehacker] [How You Can Help Kids With ADHD Throughout the School Year](https://lifehacker.com/how-you-can-help-kids-with-adhd-throughout-the-school-y-1850928950)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Speed Read Without Forgetting Everything](https://lifehacker.com/how-to-speed-read-without-forgetting-everything-1850928985)<!-- TECH-POSTS:END -->
 
 ---
 
