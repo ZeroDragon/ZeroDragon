@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cheapest Flights Within K Stops](https://dev.to/zeeshanali0704/cheapest-flights-within-k-stops-3ei0)
+- [Dev.to/JS] [TypeScript Compiler Explained](https://dev.to/dsibinski/typescript-compiler-explained-10id)
 - [Dev.to/JS] [Guidance: need guidance for my small project web AR](https://dev.to/soumitya/guidance-need-guidance-for-my-small-project-web-ar-ogc)
 - [Dev.to/JS] [Part 1: Making a tic-tac-toe game in React JS.](https://dev.to/hamzaihsan/part-1-making-a-tic-tac-toe-game-in-react-js-515c)
 - [Dev.to/JS] [What is React JS?](https://dev.to/shariqahmed525/what-is-react-js-20hi)
@@ -44,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the best way to sync hotel reservations with Airbnb and Booking.com?](https://dev.to/arturo2r/what-is-the-best-way-to-sync-hotel-reservations-with-airbnb-and-bookingcom-g03)
 - [Lifehacker] [Sort Your Email by Sender Before Cleaning Your Inbox](https://lifehacker.com/sort-your-email-by-sender-before-cleaning-your-inbox-1850930311)
 - [Lifehacker] [Motorola&#39;s New Razr Is the Cheapest Way to Get a Foldable Smartphone](https://lifehacker.com/motorolas-new-razr-is-the-cheapest-way-to-get-a-foldabl-1850930730)
-- [Dev.to/JS] [Going Mobile: React Native for Cross-Platform App Development](https://dev.to/rowsanali/going-mobile-react-native-for-cross-platform-app-development-251i)
-- [Dev.to/JS] [Return object after login successfull using nextauth.js](https://dev.to/imsan/return-object-after-login-successfull-using-nextauthjs-3lgc)
 - [Lifehacker] [Google Gets It Mostly Right With the Pixel 8 Pro](https://lifehacker.com/google-pixel-8-pro-review-1850930355)
 - [Lifehacker] [How to Freeze Fresh Cranberries Before They Get Slimy](https://lifehacker.com/how-to-freeze-fresh-cranberries-1849801424)
 - [Lifehacker] [This ChatGPT WordPress Plugin Is $60 Right Now](https://lifehacker.com/this-chatgpt-wordpress-plugin-is-60-right-now-1850911855)
