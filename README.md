@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)
+- [Lifehacker] [These Are the Best Power Tools for Pumpkin Carving](https://lifehacker.com/these-are-the-best-power-tools-for-pumpkin-carving-1850932479)
 - [Dev.to/JS] [No-Code and Low-Code Frontend Development: A Revolution](https://dev.to/rowsanali/no-code-and-low-code-frontend-development-a-revolution-967)
 - [Dev.to/JS] [!!BUN? How to Develop an HTTP Server and Handle Routes Dynamically ✔💻🗜](https://dev.to/myepes82/bun-how-to-develop-an-http-server-and-handle-routes-dynamically-125k)
 - [Lifehacker] [This Portable Smart Projector Is Under $200 Right Now](https://lifehacker.com/this-portable-smart-projector-is-under-200-right-now-1850919262)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
 - [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
 - [Lifehacker] [Why You Shouldn&#39;t Buy a Used Electric Car Yet](https://lifehacker.com/is-buying-a-used-ev-worth-it-1850929963)
-- [Lifehacker] [The Best Isometric Exercises for Beginners](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
-- [Lifehacker] [The Best &#39;Naked&#39; Pizza Is Made With Ice Cubes](https://lifehacker.com/the-best-naked-pizza-is-made-with-ice-cubes-1850931368)
-- [Lifehacker] [Sort Your Email by Sender Before Cleaning Your Inbox](https://lifehacker.com/sort-your-email-by-sender-before-cleaning-your-inbox-1850930311)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Isometric Exercises for Beginners](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)<!-- TECH-POSTS:END -->
 
 ---
 
