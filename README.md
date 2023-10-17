@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guidance: need guidance for my small project web AR](https://dev.to/soumitya/guidance-need-guidance-for-my-small-project-web-ar-ogc)
 - [Dev.to/JS] [Part 1: Making a tic-tac-toe game in React JS.](https://dev.to/hamzaihsan/part-1-making-a-tic-tac-toe-game-in-react-js-515c)
 - [Dev.to/JS] [What is React JS?](https://dev.to/shariqahmed525/what-is-react-js-20hi)
 - [Dev.to/JS] [Marko: 10 Minute Docs Audit](https://dev.to/documentwrites/marko-10-minutes-docs-audit-3b1p)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Google Gets It Mostly Right With the Pixel 8 Pro](https://lifehacker.com/google-pixel-8-pro-review-1850930355)
 - [Lifehacker] [How to Freeze Fresh Cranberries Before They Get Slimy](https://lifehacker.com/how-to-freeze-fresh-cranberries-1849801424)
 - [Lifehacker] [This ChatGPT WordPress Plugin Is $60 Right Now](https://lifehacker.com/this-chatgpt-wordpress-plugin-is-60-right-now-1850911855)
-- [Dev.to/JS] [npm projects](https://dev.to/itsmohamedyahia/npm-projects-4o7a)
 - [Lifehacker] [The Right Ways to Load and Unload a Barbell](https://lifehacker.com/the-right-ways-to-load-and-unload-a-barbell-1850925490)
 - [Lifehacker] [The Best Streaming Deals for October 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [The Scariest Horror Podcasts to Listen This Halloween](https://lifehacker.com/the-best-horror-podcasts-for-halloween-1850930127)
