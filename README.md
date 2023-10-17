@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You’re Already Seeing Ads on Prime Video](https://lifehacker.com/why-you-re-already-seeing-ads-on-prime-video-1850933777)
+- [Lifehacker] [This Microsoft Surface Laptop 4 Is 57% Off Today](https://lifehacker.com/this-microsoft-surface-laptop-4-is-57-off-today-1850934441)
+- [Dev.to/JS] [16 Conceptual React Questions to Stand Out in Your Next Interview](https://dev.to/mohammadfaisal/16-conceptual-react-questions-to-stand-out-in-your-next-interview-2277)
+- [Dev.to/JS] [🔍 Save these 5 free platforms next time you&#39;re looking to contribute to open source 👩‍💻](https://dev.to/quine/save-these-5-free-platforms-next-time-you-contribute-to-open-source-50c2)
 - [Lifehacker] [Is the Novavax COVID Vaccine Actually ‘Better’?](https://lifehacker.com/is-the-novavax-covid-vaccine-actually-better-1850932093)
 - [Lifehacker] [How to Opt Out of Data Collection by Data Brokers](https://lifehacker.com/how-to-opt-out-of-data-collection-by-data-brokers-1850933513)
 - [Dev.to/JS] [Day 70: Data Fetching](https://dev.to/dhrn/day-70-data-fetching-3kp9)
@@ -42,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vanilla JavaScript: How to Create a Draggable Slider with Auto-Play and Navigation - Part Two](https://dev.to/lynxdev32/vanilla-javascript-how-to-create-a-draggable-slider-with-auto-play-and-navigation-part-two-29he)
 - [Dev.to/JS] [What is useState in React?](https://dev.to/mikhaelesa/what-is-usestate-in-react-47io)
 - [Lifehacker] [Where to Get Roadside Assistance Coverage &lpar;and Why You Need It&rpar;](https://lifehacker.com/how-to-find-roadside-assistance-1850930049)
-- [Dev.to/JS] [Build and Deploy a Full-Stack E-Commerce: Next.js 13, React.js, Typescript, Tailwind, Prisma, Stripe](https://dev.to/chaoocharles/build-and-deploy-a-full-stack-e-commerce-nextjs-13-reactjs-typescript-tailwind-prisma-stripe-45f2)
 - [Lifehacker] [Why the Dyson Gen5Detect Is the Best Stick Vacuum](https://lifehacker.com/why-the-dyson-gen5detect-is-the-best-stick-vacuum-1850932694)
-- [Dev.to/JS] [Linksooon - Save. Share. Browse. All the amazing links.](https://dev.to/oskidev/linksooon-save-share-browse-all-the-amazing-links-3b0c)
 - [Lifehacker] [How to Grow &lpar;Good&rpar; Weed Indoors](https://lifehacker.com/how-to-grow-good-weed-indoors-1850931994)
 - [Lifehacker] [Four Things to Do When You Move Plants Indoors for Winter](https://lifehacker.com/how-to-move-outdoor-plants-inside-for-winter-1850932706)
 - [Lifehacker] [Make an Autumnal Beurre Blanc With Apples and Sage](https://lifehacker.com/make-an-autumnal-beurre-blanc-with-apples-and-sage-1850931857)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Right Ways to Load and Unload a Barbell](https://lifehacker.com/the-right-ways-to-load-and-unload-a-barbell-1850925490)
 - [Lifehacker] [The Best Streaming Deals for October 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [The Scariest Horror Podcasts to Listen This Halloween](https://lifehacker.com/the-best-horror-podcasts-for-halloween-1850930127)
-- [Lifehacker] [Your iPhone’s Flashlight Can Go Dimmer Than You Think](https://lifehacker.com/your-iphone-s-flashlight-can-go-dimmer-than-you-think-1850930045)
-- [Lifehacker] [The Best Air Fryer Pumpkin Seeds Are Brined in Beer](https://lifehacker.com/you-should-brine-some-pumpkin-seeds-in-beer-and-air-fry-1847956673)
-- [Lifehacker] [Intel’s Latest i9 Chip Has Speeds up to 6GHz](https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your iPhone’s Flashlight Can Go Dimmer Than You Think](https://lifehacker.com/your-iphone-s-flashlight-can-go-dimmer-than-you-think-1850930045)<!-- TECH-POSTS:END -->
 
 ---
 
