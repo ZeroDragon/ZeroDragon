@@ -26,9 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript - Writing Functional Flows with Custom Pipes](https://dev.to/synthetic_rain/javascript-writing-functional-flows-with-custom-pipes-on4)
+- [Dev.to/JS] [VueJS part 8: Creating the Vue app with CLI](https://dev.to/hi_iam_chris/vuejs-part-8-creating-the-vue-app-with-cli-4gkb)
+- [Lifehacker] [You Should Cook Your Pasta in Leftover Bean Broth](https://lifehacker.com/you-should-cook-your-pasta-in-leftover-bean-broth-1850934202)
+- [Dev.to/JS] [Estruturas de projetos baseado em MVC com NodeJS e MongoDB](https://dev.to/htamagnus/estruturas-de-projetos-baseado-em-mvc-com-nodejs-e-mongodb-3poo)
+- [Lifehacker] [These Are the Best Streaming Discounts for Students Right Now](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
+- [Lifehacker] [This BirdBike E-bike Is on Sale for Over 50% Off Right Now](https://lifehacker.com/this-birdbike-e-bike-is-on-sale-for-over-50-off-right-1850913618)
 - [Lifehacker] [Why You’re Already Seeing Ads on Prime Video](https://lifehacker.com/why-you-re-already-seeing-ads-on-prime-video-1850933777)
 - [Lifehacker] [This Microsoft Surface Laptop 4 Is 57% Off Today](https://lifehacker.com/this-microsoft-surface-laptop-4-is-57-off-today-1850934441)
-- [Dev.to/JS] [16 Conceptual React Questions to Stand Out in Your Next Interview](https://dev.to/mohammadfaisal/16-conceptual-react-questions-to-stand-out-in-your-next-interview-2277)
+- [Dev.to/JS] [16 React Interview Questions](https://dev.to/mohammadfaisal/16-conceptual-react-questions-to-stand-out-in-your-next-interview-2277)
 - [Dev.to/JS] [🔍 Save these 5 free platforms next time you&#39;re looking to contribute to open source 👩‍💻](https://dev.to/quine/save-these-5-free-platforms-next-time-you-contribute-to-open-source-50c2)
 - [Lifehacker] [Is the Novavax COVID Vaccine Actually ‘Better’?](https://lifehacker.com/is-the-novavax-covid-vaccine-actually-better-1850932093)
 - [Lifehacker] [How to Opt Out of Data Collection by Data Brokers](https://lifehacker.com/how-to-opt-out-of-data-collection-by-data-brokers-1850933513)
@@ -42,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sending Notifications In Your Web Apps](https://dev.to/oluwatobi_/sending-notifications-in-your-web-apps-3iof)
 - [Dev.to/JS] [Stricter TypeScript &gt;, &lt;, and ===](https://dev.to/jesterxl/stricter-typescript-lt-and--2m4p)
 - [Lifehacker] [The 42 Best 2000s Movies You Can Stream Right Now](https://lifehacker.com/the-best-2000s-movies-you-can-stream-right-now-1850930073)
-- [Dev.to/JS] [How to Make Hotel Booking Calendar Using DHTMLX Scheduler and Angular](https://dev.to/plazarev/how-to-make-hotel-booking-calendar-using-dhtmlx-scheduler-and-angular-3o23)
-- [Dev.to/JS] [Vanilla JavaScript: How to Create a Draggable Slider with Auto-Play and Navigation - Part Two](https://dev.to/lynxdev32/vanilla-javascript-how-to-create-a-draggable-slider-with-auto-play-and-navigation-part-two-29he)
-- [Dev.to/JS] [What is useState in React?](https://dev.to/mikhaelesa/what-is-usestate-in-react-47io)
 - [Lifehacker] [Where to Get Roadside Assistance Coverage &lpar;and Why You Need It&rpar;](https://lifehacker.com/how-to-find-roadside-assistance-1850930049)
 - [Lifehacker] [Why the Dyson Gen5Detect Is the Best Stick Vacuum](https://lifehacker.com/why-the-dyson-gen5detect-is-the-best-stick-vacuum-1850932694)
 - [Lifehacker] [How to Grow &lpar;Good&rpar; Weed Indoors](https://lifehacker.com/how-to-grow-good-weed-indoors-1850931994)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Google Gets It Mostly Right With the Pixel 8 Pro](https://lifehacker.com/google-pixel-8-pro-review-1850930355)
 - [Lifehacker] [How to Freeze Fresh Cranberries Before They Get Slimy](https://lifehacker.com/how-to-freeze-fresh-cranberries-1849801424)
 - [Lifehacker] [This ChatGPT WordPress Plugin Is $60 Right Now](https://lifehacker.com/this-chatgpt-wordpress-plugin-is-60-right-now-1850911855)
-- [Lifehacker] [The Right Ways to Load and Unload a Barbell](https://lifehacker.com/the-right-ways-to-load-and-unload-a-barbell-1850925490)
-- [Lifehacker] [The Best Streaming Deals for October 2023](https://lifehacker.com/best-streaming-deals-1850763728)
-- [Lifehacker] [The Scariest Horror Podcasts to Listen This Halloween](https://lifehacker.com/the-best-horror-podcasts-for-halloween-1850930127)
-- [Lifehacker] [Your iPhone’s Flashlight Can Go Dimmer Than You Think](https://lifehacker.com/your-iphone-s-flashlight-can-go-dimmer-than-you-think-1850930045)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Ways to Load and Unload a Barbell](https://lifehacker.com/the-right-ways-to-load-and-unload-a-barbell-1850925490)<!-- TECH-POSTS:END -->
 
 ---
 
