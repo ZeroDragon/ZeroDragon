@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The life of Vue app: Lifecycle Hooks♻️](https://dev.to/dvalin99/the-life-of-vue-app-lifecycle-hooks-34j)
+- [Dev.to/JS] [5 Tips on How To Create The Perfect Freelancer Profile.](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-53op)
 - [Dev.to/JS] [Cheapest Flights Within K Stops](https://dev.to/zeeshanali0704/cheapest-flights-within-k-stops-3ei0)
 - [Dev.to/JS] [TypeScript Compiler Explained](https://dev.to/dsibinski/typescript-compiler-explained-10id)
 - [Dev.to/JS] [Guidance: need guidance for my small project web AR](https://dev.to/soumitya/guidance-need-guidance-for-my-small-project-web-ar-ogc)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [You Don&#39;t Know JS: Up &amp; Going: Una guía esencial para principiantes](https://dev.to/judlup/you-dont-know-js-up-going-una-guia-esencial-para-principiantes-1l8o)
 - [Dev.to/JS] [Blueprinting projects in Notion](https://dev.to/rhyshodgsondev/blueprinting-projects-in-notion-278m)
 - [Lifehacker] [The Best Isometric Exercises for Beginners](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
-- [Dev.to/JS] [Demystifying useLocation in ReactJS: A Beginner’s Guide to Navigation](https://dev.to/gaurbprajapati/demystifying-uselocation-in-reactjs-a-beginners-guide-to-navigation-4h6f)
 - [Lifehacker] [The Best &#39;Naked&#39; Pizza Is Made With Ice Cubes](https://lifehacker.com/the-best-naked-pizza-is-made-with-ice-cubes-1850931368)
-- [Dev.to/JS] [What is the best way to sync hotel reservations with Airbnb and Booking.com?](https://dev.to/arturo2r/what-is-the-best-way-to-sync-hotel-reservations-with-airbnb-and-bookingcom-g03)
 - [Lifehacker] [Sort Your Email by Sender Before Cleaning Your Inbox](https://lifehacker.com/sort-your-email-by-sender-before-cleaning-your-inbox-1850930311)
 - [Lifehacker] [Motorola&#39;s New Razr Is the Cheapest Way to Get a Foldable Smartphone](https://lifehacker.com/motorolas-new-razr-is-the-cheapest-way-to-get-a-foldabl-1850930730)
 - [Lifehacker] [Google Gets It Mostly Right With the Pixel 8 Pro](https://lifehacker.com/google-pixel-8-pro-review-1850930355)
