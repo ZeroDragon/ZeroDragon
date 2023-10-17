@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [No-Code and Low-Code Frontend Development: A Revolution](https://dev.to/rowsanali/no-code-and-low-code-frontend-development-a-revolution-967)
+- [Dev.to/JS] [!!BUN? How to Develop an HTTP Server and Handle Routes Dynamically ✔💻🗜](https://dev.to/myepes82/bun-how-to-develop-an-http-server-and-handle-routes-dynamically-125k)
+- [Lifehacker] [This Portable Smart Projector Is Under $200 Right Now](https://lifehacker.com/this-portable-smart-projector-is-under-200-right-now-1850919262)
+- [Lifehacker] [The Google Pixel Watch 2 Is Good, but There’s Still a Ways to Go](https://lifehacker.com/google-pixel-watch-2-review-1850934602)
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad-Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
 - [Dev.to/JS] [About creating a digital presence...](https://dev.to/juanpinheirx/about-creating-a-digital-presence-22g2)
 - [Lifehacker] [The Best Exercises to Do With a Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
@@ -47,9 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MithrilJS, create HTML table from 2D array of data](https://dev.to/pablo_74/mithriljs-create-html-table-from-2d-array-of-data-2fki)
 - [Dev.to/JS] [Risky Click Text Editor Edition](https://dev.to/mike-the-security-guy/risky-click-text-editor-edition-3fki)
 - [Lifehacker] [Make Your Next Pie Crust With Pop-Tarts](https://lifehacker.com/pop-tart-pie-crust-recipe-1850933508)
-- [Dev.to/JS] [Website&#39;s best for JavaScript beginners!](https://dev.to/pujita789/websites-best-for-javascript-beginners-44m)
 - [Lifehacker] [Use This Extension to Block Sponsored Ads on YouTube](https://lifehacker.com/use-this-extension-to-block-sponsored-ads-on-youtube-1850932708)
-- [Dev.to/JS] [Sending Notifications In Your Web Apps](https://dev.to/oluwatobi_/sending-notifications-in-your-web-apps-3iof)
 - [Lifehacker] [The 42 Best 2000s Movies You Can Stream Right Now](https://lifehacker.com/the-best-2000s-movies-you-can-stream-right-now-1850930073)
 - [Lifehacker] [Where to Get Roadside Assistance Coverage &lpar;and Why You Need It&rpar;](https://lifehacker.com/how-to-find-roadside-assistance-1850930049)
 - [Lifehacker] [Why the Dyson Gen5Detect Is the Best Stick Vacuum](https://lifehacker.com/why-the-dyson-gen5detect-is-the-best-stick-vacuum-1850932694)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Buy a Used Electric Car Yet](https://lifehacker.com/is-buying-a-used-ev-worth-it-1850929963)
 - [Lifehacker] [The Best Isometric Exercises for Beginners](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
 - [Lifehacker] [The Best &#39;Naked&#39; Pizza Is Made With Ice Cubes](https://lifehacker.com/the-best-naked-pizza-is-made-with-ice-cubes-1850931368)
-- [Lifehacker] [Sort Your Email by Sender Before Cleaning Your Inbox](https://lifehacker.com/sort-your-email-by-sender-before-cleaning-your-inbox-1850930311)
-- [Lifehacker] [Motorola&#39;s New Razr Is the Cheapest Way to Get a Foldable Smartphone](https://lifehacker.com/motorolas-new-razr-is-the-cheapest-way-to-get-a-foldabl-1850930730)
-- [Lifehacker] [Google Gets It Mostly Right With the Pixel 8 Pro](https://lifehacker.com/google-pixel-8-pro-review-1850930355)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Sort Your Email by Sender Before Cleaning Your Inbox](https://lifehacker.com/sort-your-email-by-sender-before-cleaning-your-inbox-1850930311)<!-- TECH-POSTS:END -->
 
 ---
 
