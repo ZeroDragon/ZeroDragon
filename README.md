@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Four Things to Do When You Move Plants Indoors for Winter](https://lifehacker.com/how-to-move-outdoor-plants-inside-for-winter-1850932706)
+- [Dev.to/JS] [MORGAN MORGANA😮: A Comprehensive Guide to Express Middleware &lpar;Morgan&rpar;](https://dev.to/tani1964/morgan-morgana-a-comprehensive-guide-to-express-middleware-morgan-4fi5)
 - [Lifehacker] [Make an Autumnal Beurre Blanc With Apples and Sage](https://lifehacker.com/make-an-autumnal-beurre-blanc-with-apples-and-sage-1850931857)
 - [Lifehacker] [You Can Get the Xbox Elite Series 2 Core Controller for $89](https://lifehacker.com/you-can-get-the-xbox-elite-series-2-core-controller-for-1850931628)
 - [Dev.to/JS] [Bun JavaScript Runtime First Look](https://dev.to/thegnarco/bun-javascript-runtime-first-look-3eon)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to transfer your projects to Appwrite in one click](https://dev.to/hackmamba/how-to-transfer-your-projects-to-appwrite-in-one-click-3iea)
 - [Dev.to/JS] [Enhance Testing Workflows with HTML Allure Reports in Cypress](https://dev.to/kailashpathak7/enhance-testing-workflows-with-html-allure-reports-in-cypress-55o)
 - [Dev.to/JS] [No jsconfig.json, no fun](https://dev.to/receter/no-jsconfigjson-no-fun-31b8)
-- [Dev.to/JS] [SOLID Principles in JavaScript](https://dev.to/carlosazaustre/solid-principles-in-javascript-123c)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 17, 2023](https://lifehacker.com/nyt-connections-answer-today-october-17-2023-1850931234)
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
 - [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How You Can Help Kids With ADHD Throughout the School Year](https://lifehacker.com/how-you-can-help-kids-with-adhd-throughout-the-school-y-1850928950)
 - [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $100 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-100-r-1850899833)
 - [Lifehacker] [The Aventon Pace 500.3 E-bike Is Beginner Friendly but High Performing](https://lifehacker.com/the-aventon-pace-500-3-e-bike-is-beginner-friendly-but-1850928918)
-- [Lifehacker] [The Best Ways to Thicken Chili](https://lifehacker.com/the-best-ways-to-thicken-chili-1850922435)
-- [Lifehacker] [Switchbots Can Make Dumb Devices Smart](https://lifehacker.com/switchbots-can-make-dumb-devices-smart-1850924093)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Thicken Chili](https://lifehacker.com/the-best-ways-to-thicken-chili-1850922435)<!-- TECH-POSTS:END -->
 
 ---
 
