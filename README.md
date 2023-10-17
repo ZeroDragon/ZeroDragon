@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello](https://dev.to/bartoghx/hello-5fjn)
+- [Dev.to/JS] [MithrilJS, create HTML table from 2D array of data](https://dev.to/pablo_74/mithriljs-create-html-table-from-2d-array-of-data-2fki)
+- [Dev.to/JS] [Risky Click Text Editor Edition](https://dev.to/mike-the-security-guy/risky-click-text-editor-edition-3fki)
+- [Lifehacker] [Make Your Next Pie Crust With Pop-Tarts](https://lifehacker.com/pop-tart-pie-crust-recipe-1850933508)
+- [Dev.to/JS] [Website&#39;s best for JavaScript beginners!](https://dev.to/pujita789/websites-best-for-javascript-beginners-44m)
+- [Dev.to/JS] [元素方城市-高清[HD~2023] 在线观看- 完整版](https://dev.to/mamang/tedhsh-3gce)
+- [Dev.to/JS] [【元素方城市】線上看- 2023-完整版- TW/HD](https://dev.to/mamang/hdxhdfh-5agi)
+- [Lifehacker] [Use This Extension to Block Sponsored Ads on YouTube](https://lifehacker.com/use-this-extension-to-block-sponsored-ads-on-youtube-1850932708)
 - [Dev.to/JS] [Sending Notifications In Your Web Apps](https://dev.to/oluwatobi_/sending-notifications-in-your-web-apps-3iof)
 - [Dev.to/JS] [Stricter TypeScript &gt;, &lt;, and ===](https://dev.to/jesterxl/stricter-typescript-lt-and--2m4p)
 - [Dev.to/JS] [元素方城市-線上看2023完整版| 小鴨影音| 中文字幕](https://dev.to/mamang/hdxhdfh-4f3i)
@@ -34,17 +42,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vanilla JavaScript: How to Create a Draggable Slider with Auto-Play and Navigation - Part Two](https://dev.to/lynxdev32/vanilla-javascript-how-to-create-a-draggable-slider-with-auto-play-and-navigation-part-two-29he)
 - [Dev.to/JS] [What is useState in React?](https://dev.to/mikhaelesa/what-is-usestate-in-react-47io)
 - [Lifehacker] [Where to Get Roadside Assistance Coverage &lpar;and Why You Need It&rpar;](https://lifehacker.com/how-to-find-roadside-assistance-1850930049)
-- [Dev.to/JS] [Build and Deploy a Full-Stack E-Commerce: Next.js 13, React.js, Typescript, Tailwind, Prisma, Stripe](https://dev.to/chaoocharles/build-and-deploy-a-full-stack-e-commerce-nextjs-13-reactjs-typescript-tailwind-prisma-stripe-45f2)
 - [Lifehacker] [Why the Dyson Gen5Detect Is the Best Stick Vacuum](https://lifehacker.com/why-the-dyson-gen5detect-is-the-best-stick-vacuum-1850932694)
-- [Dev.to/JS] [Linksooon - Save. Share. Browse. All the amazing links.](https://dev.to/oskidev/linksooon-save-share-browse-all-the-amazing-links-3b0c)
 - [Lifehacker] [How to Grow &lpar;Good&rpar; Weed Indoors](https://lifehacker.com/how-to-grow-good-weed-indoors-1850931994)
 - [Lifehacker] [Four Things to Do When You Move Plants Indoors for Winter](https://lifehacker.com/how-to-move-outdoor-plants-inside-for-winter-1850932706)
-- [Dev.to/JS] [MORGAN MORGANA😮: A Comprehensive Guide to Express Middleware &lpar;Morgan&rpar;](https://dev.to/tani1964/morgan-morgana-a-comprehensive-guide-to-express-middleware-morgan-4fi5)
 - [Lifehacker] [Make an Autumnal Beurre Blanc With Apples and Sage](https://lifehacker.com/make-an-autumnal-beurre-blanc-with-apples-and-sage-1850931857)
 - [Lifehacker] [You Can Get the Xbox Elite Series 2 Core Controller for $89](https://lifehacker.com/you-can-get-the-xbox-elite-series-2-core-controller-for-1850931628)
-- [Dev.to/JS] [Bun JavaScript Runtime First Look](https://dev.to/thegnarco/bun-javascript-runtime-first-look-3eon)
-- [Dev.to/JS] [WebAssembly with Go: Taking Web Apps to the Next Level](https://dev.to/permify/webassembly-with-go-taking-web-apps-to-the-next-level-1imd)
-- [Dev.to/JS] [👥 From Candidate to Colleague: Acing a competitive Junior-level recruitment challenge📋](https://dev.to/wasp/from-candidate-to-colleague-acing-a-competitive-junior-level-recruitment-challenge-l3k)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 17, 2023](https://lifehacker.com/nyt-connections-answer-today-october-17-2023-1850931234)
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
 - [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Air Fryer Pumpkin Seeds Are Brined in Beer](https://lifehacker.com/you-should-brine-some-pumpkin-seeds-in-beer-and-air-fry-1847956673)
 - [Lifehacker] [Intel’s Latest i9 Chip Has Speeds up to 6GHz](https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876)
 - [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
-- [Lifehacker] [Content Creators Can Get Micmonster&#39;s Voice Library for $60 Right Now](https://lifehacker.com/content-creators-can-get-micmonsters-voice-library-for-1850899854)
-- [Lifehacker] [The Best Ways to Remove Paint Splatters From Any Surface](https://lifehacker.com/best-ways-remove-paint-from-any-surface-1850928455)
-- [Lifehacker] [How to Speed Read Without Forgetting Everything](https://lifehacker.com/how-to-speed-read-without-forgetting-everything-1850928985)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Content Creators Can Get Micmonster&#39;s Voice Library for $60 Right Now](https://lifehacker.com/content-creators-can-get-micmonsters-voice-library-for-1850899854)<!-- TECH-POSTS:END -->
 
 ---
 
