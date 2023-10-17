@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New Angular v17 feature: deferred loading](https://dev.to/this-is-angular/new-angular-v17-feature-deferred-loading-41mi)
+- [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/tanmaycode/hoisting-in-javascript-10jh)
 - [Dev.to/JS] [The life of Vue app: Lifecycle Hooks♻️](https://dev.to/dvalin99/the-life-of-vue-app-lifecycle-hooks-34j)
 - [Dev.to/JS] [5 Tips on How To Create The Perfect Freelancer Profile.](https://dev.to/devsimc/5-tips-on-how-to-create-the-perfect-freelancer-profile-53op)
 - [Dev.to/JS] [Cheapest Flights Within K Stops](https://dev.to/zeeshanali0704/cheapest-flights-within-k-stops-3ei0)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
 - [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
 - [Lifehacker] [Why You Shouldn&#39;t Buy a Used Electric Car—Yet](https://lifehacker.com/is-buying-a-used-ev-worth-it-1850929963)
-- [Dev.to/JS] [You Don&#39;t Know JS: Up &amp; Going: Una guía esencial para principiantes](https://dev.to/judlup/you-dont-know-js-up-going-una-guia-esencial-para-principiantes-1l8o)
-- [Dev.to/JS] [Blueprinting projects in Notion](https://dev.to/rhyshodgsondev/blueprinting-projects-in-notion-278m)
 - [Lifehacker] [The Best Isometric Exercises for Beginners](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
 - [Lifehacker] [The Best &#39;Naked&#39; Pizza Is Made With Ice Cubes](https://lifehacker.com/the-best-naked-pizza-is-made-with-ice-cubes-1850931368)
 - [Lifehacker] [Sort Your Email by Sender Before Cleaning Your Inbox](https://lifehacker.com/sort-your-email-by-sender-before-cleaning-your-inbox-1850930311)
