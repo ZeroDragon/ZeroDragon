@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 1: Making a tic-tac-toe game in React JS.](https://dev.to/hamzaihsan/part-1-making-a-tic-tac-toe-game-in-react-js-515c)
+- [Dev.to/JS] [What is React JS?](https://dev.to/shariqahmed525/what-is-react-js-20hi)
+- [Dev.to/JS] [Marko: 10 Minute Docs Audit](https://dev.to/documentwrites/marko-10-minutes-docs-audit-3b1p)
+- [Dev.to/JS] [JavaScript Tricks: Executing Privately](https://dev.to/__28f08df2bb06aae67f97/javascript-tricks-executing-privately-3h2o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 17, 2023](https://lifehacker.com/nyt-connections-answer-today-october-17-2023-1850931234)
 - [Dev.to/JS] [Deques: entendendo e implementando essa estrutura de dados](https://dev.to/brunopinho/deques-entendendo-e-implementando-essa-estrutura-de-dados-2k58)
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
@@ -45,11 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Freeze Fresh Cranberries Before They Get Slimy](https://lifehacker.com/how-to-freeze-fresh-cranberries-1849801424)
 - [Lifehacker] [This ChatGPT WordPress Plugin Is $60 Right Now](https://lifehacker.com/this-chatgpt-wordpress-plugin-is-60-right-now-1850911855)
 - [Dev.to/JS] [npm projects](https://dev.to/itsmohamedyahia/npm-projects-4o7a)
-- [Dev.to/JS] [what does &quot;literal&quot; mean?? string literal? object literal? literal syntax???](https://dev.to/itsmohamedyahia/what-does-literal-mean-string-literal-object-literal-literal-syntax-3k08)
-- [Dev.to/JS] [TF #19 | Weekly Frontend digest](https://dev.to/tech_foutraque/tf-19-weekly-frontend-digest-kfi)
-- [Dev.to/JS] [Maximizing Engagement on Your Sports Blog with Hockey Highlights API](https://dev.to/sports_junkie/maximizing-engagement-on-your-sports-blog-with-hockey-highlights-api-232m)
 - [Lifehacker] [The Right Ways to Load and Unload a Barbell](https://lifehacker.com/the-right-ways-to-load-and-unload-a-barbell-1850925490)
-- [Dev.to/JS] [Node 21 might have WebSockets built-in](https://dev.to/andreasbergstrom/node-21-might-have-websockets-built-in-24f3)
 - [Lifehacker] [The Best Streaming Deals for October 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [The Scariest Horror Podcasts to Listen This Halloween](https://lifehacker.com/the-best-horror-podcasts-for-halloween-1850930127)
 - [Lifehacker] [Your iPhone’s Flashlight Can Go Dimmer Than You Think](https://lifehacker.com/your-iphone-s-flashlight-can-go-dimmer-than-you-think-1850930045)
