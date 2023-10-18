@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;in&quot; operator considered harmful in Typescript](https://dev.to/vjau/in-operator-considered-harmful-in-typescript-h2o)
+- [Dev.to/JS] [Node.js 21 is Here: Explore the Exciting New Features and Improvements! 🚀](https://dev.to/sewas87/nodejs-21-is-here-explore-the-exciting-new-features-and-improvements-5427)
+- [Dev.to/JS] [JavaScript](https://dev.to/kitandara06/javascript-19ko)
+- [Dev.to/JS] [Dev.to articles migration to markdown files](https://dev.to/idiglove/devto-articles-migration-to-markdown-files-4iop)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
 - [Dev.to/JS] [can someone help me ?](https://dev.to/chedy322/can-someone-help-me--lf3)
@@ -43,12 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Bodyweight Exercises That Will Actually Make You Stronger](https://lifehacker.com/best-bodyweight-exercises-for-strength-1847903062)
 - [Dev.to/JS] [Day 10: Built a Quiz Web App](https://dev.to/duke09/day-10-built-a-quiz-web-app-4jgo)
 - [Lifehacker] [This Smart Pet Feeder and Video Camera Is $100 Right Now](https://lifehacker.com/this-smart-pet-feeder-and-video-camera-is-100-right-no-1850931294)
-- [Dev.to/JS] [Common Vue.js Development Mistakes and How to Avoid Them: Part 2 ✅](https://dev.to/obiwanpelosi/common-vuejs-development-mistakes-and-how-to-avoid-them-part-2-4hco)
 - [Lifehacker] [You Can Sign Up for TSA Precheck at Staples](https://lifehacker.com/where-to-sign-up-for-tsa-precheck-1850937513)
-- [Dev.to/JS] [Collaborative Coding: Teamwork with Next.js and Git](https://dev.to/rowsanali/collaborative-coding-teamwork-with-nextjs-and-git-5e6m)
-- [Dev.to/JS] [When To Use &#39;submit&#39; &amp; &#39;click&#39; Events](https://dev.to/tmarku4/when-to-use-submit-click-events-1fpj)
 - [Lifehacker] [How to Buy the Best Thanksgiving Turkey](https://lifehacker.com/how-to-buy-the-best-thanksgivign-turkey-1849728686)
-- [Dev.to/JS] [Beyond the Basics: Advanced Routing in Next.js](https://dev.to/rowsanali/beyond-the-basics-advanced-routing-in-nextjs-1gml)
 - [Lifehacker] [This Gemelli Pizza Oven Is $200 Off Right Now](https://lifehacker.com/this-gemelli-pizza-oven-is-200-off-right-now-1850931455)
 - [Lifehacker] [The Two Things You Need in a Coffee Shop to Actually Get Work Done](https://lifehacker.com/the-two-things-you-need-in-a-coffee-shop-to-actually-ge-1850937465)
 - [Lifehacker] [Why You Shouldn&#39;t Put Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
