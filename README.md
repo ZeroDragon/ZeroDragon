@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Modern CSS Frameworks: Tailwind CSS, Bulma, and Beyond](https://dev.to/rowsanali/modern-css-frameworks-tailwind-css-bulma-and-beyond-4n6h)
+- [Dev.to/JS] [Future-Proofing Your Business: NetSuite Development Best Practices](https://dev.to/officialintelvue/future-proofing-your-business-netsuite-development-best-practices-1on2)
 - [Dev.to/JS] [Routing is FUN - the Web is weird, but fun](https://dev.to/nombrekeff/routing-is-fun-the-web-is-weird-but-fun-iap)
 - [Dev.to/JS] [test](https://dev.to/dinhphuong20z1/test-5392)
 - [Dev.to/JS] [off the DOM](https://dev.to/dumpsterofthings/off-the-dom-3bkh)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Power of Proxies: JavaScript&#39;s Secret Superheroes](https://dev.to/this-is-learning/unlocking-the-power-of-proxies-javascripts-secret-superheroes-2298)
 - [Dev.to/JS] [What are the features of a voice calling API?](https://dev.to/johnmerry/what-are-the-features-of-a-voice-calling-api-5hkc)
 - [Dev.to/JS] [Differences between background_color and theme_color in a PWA manifest](https://dev.to/progressier/differences-between-backgroundcolor-and-themecolor-in-a-pwa-manifest-bj0)
-- [Dev.to/JS] [An In-Depth Guide to HTTP Methods for frontend developers](https://dev.to/vivek96_/an-in-depth-guide-to-http-methods-for-frontend-developers-2men)
-- [Dev.to/JS] [Demystifying React&#39;s Virtual DOM: A Deep Dive for Developers](https://dev.to/mrnz/demystifying-reacts-virtual-dom-a-deep-dive-for-developers-4cfi)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)
 - [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)
 - [Lifehacker] [These Are the Best Power Tools for Pumpkin Carving](https://lifehacker.com/these-are-the-best-power-tools-for-pumpkin-carving-1850932479)
