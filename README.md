@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Netsuite Searching with SuiteScript 2.0 &quot;Snyder&quot; cut](https://dev.to/smith288/netsuite-searching-with-suitescript-20-snyder-cut-531m)
+- [Dev.to/JS] [Building a Polymorphic React FormElement Component](https://dev.to/serifcolakel/building-a-polymorphic-react-formelement-component-48a9)
+- [Dev.to/JS] [Closures in JavaScript: The Wizard&#39;s Secret Chest](https://dev.to/init_chandan/closures-in-javascript-the-wizards-secret-chest-501j)
+- [Lifehacker] [The Google Pixel Buds Pro Are Still Worth the Money](https://lifehacker.com/google-pixel-buds-pro-review-1850938576)
+- [Dev.to/JS] [sdhgrfdg](https://dev.to/jonigun/sdhgrfdg-fin)
+- [Lifehacker] [12 Bodyweight Exercises That Will Actually Make You Stronger](https://lifehacker.com/best-bodyweight-exercises-for-strength-1847903062)
+- [Dev.to/JS] [Day 10: Built a Quiz Web App](https://dev.to/duke09/day-10-built-a-quiz-web-app-4jgo)
 - [Lifehacker] [This Smart Pet Feeder and Video Camera Is $100 Right Now](https://lifehacker.com/this-smart-pet-feeder-and-video-camera-is-100-right-no-1850931294)
 - [Dev.to/JS] [Common Vue.js Development Mistakes and How to Avoid Them: Part 2 ✅](https://dev.to/obiwanpelosi/common-vuejs-development-mistakes-and-how-to-avoid-them-part-2-4hco)
 - [Lifehacker] [You Can Sign Up for TSA Precheck at Staples](https://lifehacker.com/where-to-sign-up-for-tsa-precheck-1850937513)
@@ -39,12 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Serving Tasks Efficiently: Understanding P-Limit In Javascript](https://dev.to/doziestar/serving-tasks-efficiently-understanding-p-limit-in-javascript-4m0m)
 - [Lifehacker] [The Two Things You Need in a Coffee Shop to Actually Get Work Done](https://lifehacker.com/the-two-things-you-need-in-a-coffee-shop-to-actually-ge-1850937465)
 - [Lifehacker] [Why You Shouldn&#39;t Put Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
-- [Dev.to/JS] [Exploring Microservices Architecture](https://dev.to/the_emmanuel_ao/exploring-microservices-architecture-5hk2)
-- [Dev.to/JS] [The Document Object Model](https://dev.to/ianafrankel/the-document-object-model-1bbn)
-- [Dev.to/JS] [JavaScript Promises](https://dev.to/umahichristopher/javascript-promises-f0i)
 - [Lifehacker] [Don&#39;t Make These Mistakes With Your Roth IRA](https://lifehacker.com/common-roth-ira-mistakes-1850935007)
-- [Dev.to/JS] [How much Javascript is needed to learn ReactJS](https://dev.to/harshal255/dont-overwhelm-to-learn-javascript-alp)
-- [Dev.to/JS] [Useful features by NextJS](https://dev.to/harshal255/useful-features-by-nextjs-3cp9)
 - [Lifehacker] [This Eufy Security Floodlight Camera Is 55% Off](https://lifehacker.com/this-eufy-security-floodlight-camera-is-55-off-1850937543)
 - [Lifehacker] [Kagi Lets You Search the Internet Without Ads &lpar;but It Will Cost You&rpar;](https://lifehacker.com/kagi-paid-search-engine-review-1850936944)
 - [Lifehacker] [This 7th-Gen Apple iPad Is on Sale for $280 Right Now](https://lifehacker.com/this-7th-gen-apple-ipad-is-on-sale-for-280-right-now-1850931256)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
 - [Lifehacker] [The Best Exercises to Do With a Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
 - [Lifehacker] [Why You Need Vent Extenders This Winter](https://lifehacker.com/why-you-need-vent-extenders-this-winter-1850933941)
-- [Lifehacker] [You Should Cook Your Pasta in Leftover Bean Broth](https://lifehacker.com/you-should-cook-your-pasta-in-leftover-bean-broth-1850934202)
-- [Lifehacker] [These Are the Best Streaming Discounts for Students Right Now](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
-- [Lifehacker] [This BirdBike E-bike Is on Sale for Over 50% Off Right Now](https://lifehacker.com/this-birdbike-e-bike-is-on-sale-for-over-50-off-right-1850913618)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Cook Your Pasta in Leftover Bean Broth](https://lifehacker.com/you-should-cook-your-pasta-in-leftover-bean-broth-1850934202)<!-- TECH-POSTS:END -->
 
 ---
 
