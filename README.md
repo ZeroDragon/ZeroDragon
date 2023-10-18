@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Concurrency in JavaScript](https://dev.to/honeybadger/concurrency-in-javascript-35jl)
+- [Lifehacker] [This Oraimo Cordless Stick Vacuum Sucks &lpar;in a Good Way&rpar;](https://lifehacker.com/oraimo-osv-225a-cordless-stick-vacuum-review-1850895582)
+- [Dev.to/JS] [🚀Unleashing the Power of JavaScript Promises: A Step-by-Step Guide](https://dev.to/darshangaikwad/unleashing-the-power-of-javascript-promises-a-step-by-step-guide-2ci)
+- [Lifehacker] [These Capcom Games Are up to 83% Off at Best Buy](https://lifehacker.com/these-capcom-games-are-up-to-83-off-at-best-buy-1850938716)
 - [Dev.to/JS] [Netsuite Searching with SuiteScript 2.0 &quot;Snyder&quot; cut](https://dev.to/smith288/netsuite-searching-with-suitescript-20-snyder-cut-531m)
 - [Dev.to/JS] [Building a Polymorphic React FormElement Component](https://dev.to/serifcolakel/building-a-polymorphic-react-formelement-component-48a9)
 - [Dev.to/JS] [Closures in JavaScript: The Wizard&#39;s Secret Chest](https://dev.to/init_chandan/closures-in-javascript-the-wizards-secret-chest-501j)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beyond the Basics: Advanced Routing in Next.js](https://dev.to/rowsanali/beyond-the-basics-advanced-routing-in-nextjs-1gml)
 - [Dev.to/JS] [Front-End: Qual framework escolher? Por onde começar?](https://dev.to/raynneandrade/front-end-qual-framework-escolher-por-onde-comecar-1e2p)
 - [Lifehacker] [This Gemelli Pizza Oven Is $200 Off Right Now](https://lifehacker.com/this-gemelli-pizza-oven-is-200-off-right-now-1850931455)
-- [Dev.to/JS] [The Art of Abstraction](https://dev.to/shokuninja/the-art-of-abstraction-20g)
-- [Dev.to/JS] [Serving Tasks Efficiently: Understanding P-Limit In Javascript](https://dev.to/doziestar/serving-tasks-efficiently-understanding-p-limit-in-javascript-4m0m)
 - [Lifehacker] [The Two Things You Need in a Coffee Shop to Actually Get Work Done](https://lifehacker.com/the-two-things-you-need-in-a-coffee-shop-to-actually-ge-1850937465)
 - [Lifehacker] [Why You Shouldn&#39;t Put Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
 - [Lifehacker] [Don&#39;t Make These Mistakes With Your Roth IRA](https://lifehacker.com/common-roth-ira-mistakes-1850935007)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Portable Smart Projector Is Under $200 Right Now](https://lifehacker.com/this-portable-smart-projector-is-under-200-right-now-1850919262)
 - [Lifehacker] [The Google Pixel Watch 2 Is Good, but There’s Still a Ways to Go](https://lifehacker.com/google-pixel-watch-2-review-1850934602)
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
-- [Lifehacker] [The Best Exercises to Do With a Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
-- [Lifehacker] [Why You Need Vent Extenders This Winter](https://lifehacker.com/why-you-need-vent-extenders-this-winter-1850933941)
-- [Lifehacker] [You Should Cook Your Pasta in Leftover Bean Broth](https://lifehacker.com/you-should-cook-your-pasta-in-leftover-bean-broth-1850934202)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Exercises to Do With a Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)<!-- TECH-POSTS:END -->
 
 ---
 
