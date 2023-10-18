@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Explore 3 Stylish Bootstrap 5 Free Templates😇](https://dev.to/ritirathod0/explore-3-stylish-bootstrap-5-free-templates-1gel)
+- [Dev.to/JS] [We Almost Lost Our Production Database](https://dev.to/mohammadfaisal/we-almost-lost-our-production-database-54lh)
 - [Dev.to/JS] [ZenGPT: a simple ChapGPT alternative frontend](https://dev.to/christianfei/zengpt-a-simple-chapgpt-alternative-frontend-2kln)
 - [Dev.to/JS] [What Is The Function Of Application Software?](https://dev.to/programmingscript/what-is-the-function-of-application-software-4183)
 - [Dev.to/JS] [Modern CSS Frameworks: Tailwind CSS, Bulma, and Beyond](https://dev.to/rowsanali/modern-css-frameworks-tailwind-css-bulma-and-beyond-4n6h)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [💻 Web Development Resources #170](https://dev.to/vincenius/web-development-resources-170-277d)
 - [Dev.to/JS] [React.js make custom Carousel with image inside Next ,Previous button and thumbnail image](https://dev.to/codelover405/reactjs-make-custom-carousel-with-image-inside-next-previous-button-and-thumbnail-image-4fg7)
 - [Dev.to/JS] [Closures in JavaScript](https://dev.to/tanmaycode/closures-in-javascript-4f6k)
-- [Dev.to/JS] [JavaScript ES6 Features Every Developer Should Know.](https://dev.to/codingcrafts/javascript-es6-features-every-developer-should-know-12ak)
-- [Dev.to/JS] [Unlocking the Power of Proxies: JavaScript&#39;s Secret Superheroes](https://dev.to/this-is-learning/unlocking-the-power-of-proxies-javascripts-secret-superheroes-2298)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)
 - [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)
 - [Lifehacker] [These Are the Best Power Tools for Pumpkin Carving](https://lifehacker.com/these-are-the-best-power-tools-for-pumpkin-carving-1850932479)
