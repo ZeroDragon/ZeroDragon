@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying React&#39;s Virtual DOM: A Deep Dive for Developers](https://dev.to/mrnz/demystifying-reacts-virtual-dom-a-deep-dive-for-developers-4cfi)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)
 - [Dev.to/JS] [Getting Started with Jest: A Comprehensive Guide for Beginners and Intermediate Developers](https://dev.to/easewithtuts/getting-started-with-jest-a-comprehensive-guide-for-beginners-and-intermediate-developers-2ibh)
 - [Dev.to/JS] [Simplifying Data Table Management with EzyTables](https://dev.to/ra9/simplifying-data-table-management-with-ezytables-g0j)
@@ -52,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🔍 Save these 5 free platforms next time you&#39;re looking to contribute to open source 👩‍💻](https://dev.to/quine/save-these-5-free-platforms-next-time-you-contribute-to-open-source-50c2)
 - [Lifehacker] [Is the Novavax COVID Vaccine Actually ‘Better’?](https://lifehacker.com/is-the-novavax-covid-vaccine-actually-better-1850932093)
 - [Lifehacker] [How to Opt Out of Data Collection by Data Brokers](https://lifehacker.com/how-to-opt-out-of-data-collection-by-data-brokers-1850933513)
-- [Dev.to/JS] [Day 70: Data Fetching](https://dev.to/dhrn/day-70-data-fetching-3kp9)
 - [Lifehacker] [Make Your Next Pie Crust With Pop-Tarts](https://lifehacker.com/pop-tart-pie-crust-recipe-1850933508)
 - [Lifehacker] [Use This Extension to Block Sponsored Ads on YouTube](https://lifehacker.com/use-this-extension-to-block-sponsored-ads-on-youtube-1850932708)
 - [Lifehacker] [The 42 Best 2000s Movies You Can Stream Right Now](https://lifehacker.com/the-best-2000s-movies-you-can-stream-right-now-1850930073)
