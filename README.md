@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React.js make custom Carousel with image inside Next ,Previous button and thumbnail image](https://dev.to/codelover405/reactjs-make-custom-carousel-with-image-inside-next-previous-button-and-thumbnail-image-4fg7)
+- [Dev.to/JS] [Closures in JavaScript](https://dev.to/tanmaycode/closures-in-javascript-4f6k)
+- [Dev.to/JS] [JavaScript ES6 Features Every Developer Should Know.](https://dev.to/codingcrafts/javascript-es6-features-every-developer-should-know-12ak)
+- [Dev.to/JS] [Unlocking the Power of Proxies: JavaScript&#39;s Secret Superheroes](https://dev.to/this-is-learning/unlocking-the-power-of-proxies-javascripts-secret-superheroes-2298)
 - [Dev.to/JS] [What are the features of a voice calling API?](https://dev.to/johnmerry/what-are-the-features-of-a-voice-calling-api-5hkc)
 - [Dev.to/JS] [Differences between background_color and theme_color in a PWA manifest](https://dev.to/progressier/differences-between-backgroundcolor-and-themecolor-in-a-pwa-manifest-bj0)
 - [Dev.to/JS] [An In-Depth Guide to HTTP Methods for frontend developers](https://dev.to/vivek96_/an-in-depth-guide-to-http-methods-for-frontend-developers-2men)
@@ -37,15 +41,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)
 - [Lifehacker] [These Are the Best Power Tools for Pumpkin Carving](https://lifehacker.com/these-are-the-best-power-tools-for-pumpkin-carving-1850932479)
 - [Dev.to/JS] [No-Code and Low-Code Frontend Development: A Revolution](https://dev.to/rowsanali/no-code-and-low-code-frontend-development-a-revolution-967)
-- [Dev.to/JS] [!!BUN? How to Develop an HTTP Server and Handle Routes Dynamically ✔💻🗜](https://dev.to/myepes82/bun-how-to-develop-an-http-server-and-handle-routes-dynamically-125k)
 - [Lifehacker] [This Portable Smart Projector Is Under $200 Right Now](https://lifehacker.com/this-portable-smart-projector-is-under-200-right-now-1850919262)
 - [Lifehacker] [The Google Pixel Watch 2 Is Good, but There’s Still a Ways to Go](https://lifehacker.com/google-pixel-watch-2-review-1850934602)
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad-Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
-- [Dev.to/JS] [About creating a digital presence...](https://dev.to/juanpinheirx/about-creating-a-digital-presence-22g2)
 - [Lifehacker] [The Best Exercises to Do With a Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)
 - [Lifehacker] [Why You Need Vent Extenders This Winter](https://lifehacker.com/why-you-need-vent-extenders-this-winter-1850933941)
-- [Dev.to/JS] [JavaScript - Writing Functional Flows with Custom Pipes](https://dev.to/synthetic_rain/javascript-writing-functional-flows-with-custom-pipes-on4)
-- [Dev.to/JS] [VueJS part 8: Creating the Vue app with CLI](https://dev.to/hi_iam_chris/vuejs-part-8-creating-the-vue-app-with-cli-4gkb)
 - [Lifehacker] [You Should Cook Your Pasta in Leftover Bean Broth](https://lifehacker.com/you-should-cook-your-pasta-in-leftover-bean-broth-1850934202)
 - [Lifehacker] [These Are the Best Streaming Discounts for Students Right Now](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
 - [Lifehacker] [This BirdBike E-bike Is on Sale for Over 50% Off Right Now](https://lifehacker.com/this-birdbike-e-bike-is-on-sale-for-over-50-off-right-1850913618)
