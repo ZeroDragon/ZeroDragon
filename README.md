@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enabling inline CSS for pseudo classes](https://dev.to/dara_tobi/enabling-inline-css-for-pseudo-classes-4bek)
 - [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)
 - [Lifehacker] [These Are the Best Power Tools for Pumpkin Carving](https://lifehacker.com/these-are-the-best-power-tools-for-pumpkin-carving-1850932479)
 - [Dev.to/JS] [No-Code and Low-Code Frontend Development: A Revolution](https://dev.to/rowsanali/no-code-and-low-code-frontend-development-a-revolution-967)
@@ -51,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 70: Data Fetching](https://dev.to/dhrn/day-70-data-fetching-3kp9)
 - [Dev.to/JS] [Hello](https://dev.to/bartoghx/hello-5fjn)
 - [Dev.to/JS] [MithrilJS, create HTML table from 2D array of data](https://dev.to/pablo_74/mithriljs-create-html-table-from-2d-array-of-data-2fki)
-- [Dev.to/JS] [Risky Click Text Editor Edition](https://dev.to/mike-the-security-guy/risky-click-text-editor-edition-3fki)
 - [Lifehacker] [Make Your Next Pie Crust With Pop-Tarts](https://lifehacker.com/pop-tart-pie-crust-recipe-1850933508)
 - [Lifehacker] [Use This Extension to Block Sponsored Ads on YouTube](https://lifehacker.com/use-this-extension-to-block-sponsored-ads-on-youtube-1850932708)
 - [Lifehacker] [The 42 Best 2000s Movies You Can Stream Right Now](https://lifehacker.com/the-best-2000s-movies-you-can-stream-right-now-1850930073)
