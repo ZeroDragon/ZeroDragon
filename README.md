@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
+- [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
+- [Dev.to/JS] [can someone help me ?](https://dev.to/chedy322/can-someone-help-me--lf3)
+- [Lifehacker] [Make This Easy No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
+- [Lifehacker] [When to Use a Robo-Advisor &lpar;and When to Avoid Them&rpar;](https://lifehacker.com/when-to-use-a-robo-advisor-and-when-to-avoid-them-1850937460)
 - [Dev.to/JS] [Concurrency in JavaScript](https://dev.to/honeybadger/concurrency-in-javascript-35jl)
 - [Lifehacker] [This Oraimo Cordless Stick Vacuum Sucks &lpar;in a Good Way&rpar;](https://lifehacker.com/oraimo-osv-225a-cordless-stick-vacuum-review-1850895582)
 - [Dev.to/JS] [🚀Unleashing the Power of JavaScript Promises: A Step-by-Step Guide](https://dev.to/darshangaikwad/unleashing-the-power-of-javascript-promises-a-step-by-step-guide-2ci)
@@ -44,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [When To Use &#39;submit&#39; &amp; &#39;click&#39; Events](https://dev.to/tmarku4/when-to-use-submit-click-events-1fpj)
 - [Lifehacker] [How to Buy the Best Thanksgiving Turkey](https://lifehacker.com/how-to-buy-the-best-thanksgivign-turkey-1849728686)
 - [Dev.to/JS] [Beyond the Basics: Advanced Routing in Next.js](https://dev.to/rowsanali/beyond-the-basics-advanced-routing-in-nextjs-1gml)
-- [Dev.to/JS] [Front-End: Qual framework escolher? Por onde começar?](https://dev.to/raynneandrade/front-end-qual-framework-escolher-por-onde-comecar-1e2p)
 - [Lifehacker] [This Gemelli Pizza Oven Is $200 Off Right Now](https://lifehacker.com/this-gemelli-pizza-oven-is-200-off-right-now-1850931455)
 - [Lifehacker] [The Two Things You Need in a Coffee Shop to Actually Get Work Done](https://lifehacker.com/the-two-things-you-need-in-a-coffee-shop-to-actually-ge-1850937465)
 - [Lifehacker] [Why You Shouldn&#39;t Put Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Safest Payment Methods &lpar;and the Ones You Should Avoid&rpar;](https://lifehacker.com/safest-payment-methods-1850934063)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)
 - [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)
-- [Lifehacker] [These Are the Best Power Tools for Pumpkin Carving](https://lifehacker.com/these-are-the-best-power-tools-for-pumpkin-carving-1850932479)
-- [Lifehacker] [This Portable Smart Projector Is Under $200 Right Now](https://lifehacker.com/this-portable-smart-projector-is-under-200-right-now-1850919262)
-- [Lifehacker] [The Google Pixel Watch 2 Is Good, but There’s Still a Ways to Go](https://lifehacker.com/google-pixel-watch-2-review-1850934602)
-- [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
-- [Lifehacker] [The Best Exercises to Do With a Landmine Attachment](https://lifehacker.com/9-of-the-best-exercises-to-do-with-the-landmine-attachm-1849442119)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Power Tools for Pumpkin Carving](https://lifehacker.com/these-are-the-best-power-tools-for-pumpkin-carving-1850932479)<!-- TECH-POSTS:END -->
 
 ---
 
