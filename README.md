@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Safest Payment Methods &lpar;and the Ones You Should Avoid&rpar;](https://lifehacker.com/safest-payment-methods-1850934063)
+- [Dev.to/JS] [I finally understand what are transducers - part 1](https://dev.to/artydev/i-finally-understand-what-are-transducers-part-1-15b6)
+- [Dev.to/JS] [Episode 23/41: @defer, Application Builder, new equality check in Signals](https://dev.to/this-is-angular/episode-2341-defer-application-builder-new-equality-check-in-signals-g4f)
+- [Dev.to/JS] [Top 10 reasons why you should learn React right now](https://dev.to/veeh/top-10-reasons-why-you-should-learn-react-right-now-39n9)
+- [Dev.to/JS] [We need a mentor](https://dev.to/asim031/we-need-a-mentor-28dl)
 - [Dev.to/JS] [Explore 3 Stylish Bootstrap 5 Free Templates😇](https://dev.to/ritirathod0/explore-3-stylish-bootstrap-5-free-templates-1gel)
 - [Dev.to/JS] [We Almost Lost Our Production Database](https://dev.to/mohammadfaisal/we-almost-lost-our-production-database-54lh)
 - [Dev.to/JS] [ZenGPT: a simple ChapGPT alternative frontend](https://dev.to/christianfei/zengpt-a-simple-chapgpt-alternative-frontend-2kln)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Future-Proofing Your Business: NetSuite Development Best Practices](https://dev.to/officialintelvue/future-proofing-your-business-netsuite-development-best-practices-1on2)
 - [Dev.to/JS] [Routing is FUN - the Web is weird, but fun](https://dev.to/nombrekeff/routing-is-fun-the-web-is-weird-but-fun-iap)
 - [Dev.to/JS] [test](https://dev.to/dinhphuong20z1/test-5392)
-- [Dev.to/JS] [off the DOM](https://dev.to/dumpsterofthings/off-the-dom-3bkh)
-- [Dev.to/JS] [💻 Web Development Resources #170](https://dev.to/vincenius/web-development-resources-170-277d)
-- [Dev.to/JS] [React.js make custom Carousel with image inside Next ,Previous button and thumbnail image](https://dev.to/codelover405/reactjs-make-custom-carousel-with-image-inside-next-previous-button-and-thumbnail-image-4fg7)
-- [Dev.to/JS] [Closures in JavaScript](https://dev.to/tanmaycode/closures-in-javascript-4f6k)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)
 - [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)
 - [Lifehacker] [These Are the Best Power Tools for Pumpkin Carving](https://lifehacker.com/these-are-the-best-power-tools-for-pumpkin-carving-1850932479)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get the Xbox Elite Series 2 Core Controller for $89](https://lifehacker.com/you-can-get-the-xbox-elite-series-2-core-controller-for-1850931628)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 17, 2023](https://lifehacker.com/nyt-connections-answer-today-october-17-2023-1850931234)
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
-- [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
-- [Lifehacker] [Why You Shouldn&#39;t Buy a Used Electric Car Yet](https://lifehacker.com/is-buying-a-used-ev-worth-it-1850929963)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)<!-- TECH-POSTS:END -->
 
 ---
 
