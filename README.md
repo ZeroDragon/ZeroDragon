@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the features of a voice calling API?](https://dev.to/johnmerry/what-are-the-features-of-a-voice-calling-api-5hkc)
 - [Dev.to/JS] [Differences between background_color and theme_color in a PWA manifest](https://dev.to/progressier/differences-between-backgroundcolor-and-themecolor-in-a-pwa-manifest-bj0)
 - [Dev.to/JS] [An In-Depth Guide to HTTP Methods for frontend developers](https://dev.to/vivek96_/an-in-depth-guide-to-http-methods-for-frontend-developers-2men)
 - [Dev.to/JS] [Demystifying React&#39;s Virtual DOM: A Deep Dive for Developers](https://dev.to/mrnz/demystifying-reacts-virtual-dom-a-deep-dive-for-developers-4cfi)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript - Writing Functional Flows with Custom Pipes](https://dev.to/synthetic_rain/javascript-writing-functional-flows-with-custom-pipes-on4)
 - [Dev.to/JS] [VueJS part 8: Creating the Vue app with CLI](https://dev.to/hi_iam_chris/vuejs-part-8-creating-the-vue-app-with-cli-4gkb)
 - [Lifehacker] [You Should Cook Your Pasta in Leftover Bean Broth](https://lifehacker.com/you-should-cook-your-pasta-in-leftover-bean-broth-1850934202)
-- [Dev.to/JS] [Estruturas de projetos baseado em MVC com NodeJS e MongoDB](https://dev.to/htamagnus/estruturas-de-projetos-baseado-em-mvc-com-nodejs-e-mongodb-3poo)
 - [Lifehacker] [These Are the Best Streaming Discounts for Students Right Now](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
 - [Lifehacker] [This BirdBike E-bike Is on Sale for Over 50% Off Right Now](https://lifehacker.com/this-birdbike-e-bike-is-on-sale-for-over-50-off-right-1850913618)
 - [Lifehacker] [Why You’re Already Seeing Ads on Prime Video](https://lifehacker.com/why-you-re-already-seeing-ads-on-prime-video-1850933777)
