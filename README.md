@@ -26,20 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to TanStack Query: Supercharge Your Data Fetching in a React App](https://dev.to/tundejames20/introduction-to-tanstack-query-supercharge-your-data-fetching-in-a-react-app-3bac)
+- [Dev.to/JS] [Vue.js: Prepare Images for Upload with Compressor.js](https://dev.to/kucherol/vuejs-prepare-images-for-upload-with-compressorjs-515e)
+- [Dev.to/JS] [Como Testar APIs REST com Express.js Usando Cypress](https://dev.to/brayanmonteiroo/como-testar-apis-rest-com-expressjs-usando-cypress-2ifk)
+- [Lifehacker] [Make a Big Batch of Fluffy Soufflé Pancakes in Your Oven](https://lifehacker.com/make-a-big-batch-of-fluffy-souffle-pancakes-in-your-ove-1850935544)
+- [Dev.to/JS] [😍 How to set up a WebSocket connection with Node and React?](https://dev.to/refine/how-to-set-up-a-websocket-connection-with-node-and-react-dn9)
+- [Dev.to/JS] [10 Bad Habits That Can Slow Down Your JavaScript Applications 🐌](https://dev.to/mattryanmtl/10-bad-habits-that-can-slow-down-your-javascript-applications-3f2p)
+- [Lifehacker] [Blend Caramelized Onions Into Soups for Extra Umami](https://lifehacker.com/blend-caramelized-onions-into-soups-for-extra-umami-1850935632)
 - [Dev.to/JS] [Understanding functions and function signatures in Typescript](https://dev.to/fonyuygita/understanding-functions-and-function-signatures-in-typescript-5epe)
 - [Dev.to/JS] [Optimizing Web Performance: Unleashing the Need for Speed 🚀](https://dev.to/razzivdecoder/optimizing-web-performance-unleashing-the-need-for-speed-3l0j)
 - [Lifehacker] [You Can Get a Sam&#39;s Club One-Year Membership for $15](https://lifehacker.com/you-can-get-a-sams-club-one-year-membership-for-15-1850935326)
 - [Dev.to/JS] [Level Up Node.js E2E and Integration Testing with OpenTelemetry](https://dev.to/kubeshop/level-up-nodejs-e2e-and-integration-testing-with-opentelemetry-5882)
 - [Lifehacker] [These Are the Safest Payment Methods &lpar;and the Ones You Should Avoid&rpar;](https://lifehacker.com/safest-payment-methods-1850934063)
-- [Dev.to/JS] [I finally understand what are transducers - part 1](https://dev.to/artydev/i-finally-understand-what-are-transducers-part-1-15b6)
+- [Dev.to/JS] [I am trying to understand what are transducers - part 1](https://dev.to/artydev/i-finally-understand-what-are-transducers-part-1-15b6)
 - [Dev.to/JS] [Episode 23/41: @defer, Application Builder, new equality check in Signals](https://dev.to/this-is-angular/episode-2341-defer-application-builder-new-equality-check-in-signals-g4f)
 - [Dev.to/JS] [Top 10 reasons why you should learn React right now](https://dev.to/veeh/top-10-reasons-why-you-should-learn-react-right-now-39n9)
 - [Dev.to/JS] [We need a mentor](https://dev.to/asim031/we-need-a-mentor-28dl)
-- [Dev.to/JS] [Explore Stylish Bootstrap 5 Free Admin Templates😇](https://dev.to/ritirathod0/explore-3-stylish-bootstrap-5-free-templates-1gel)
-- [Dev.to/JS] [We Almost Lost Our Production Database](https://dev.to/mohammadfaisal/we-almost-lost-our-production-database-54lh)
-- [Dev.to/JS] [ZenGPT: a simple ChapGPT alternative frontend](https://dev.to/christianfei/zengpt-a-simple-chapgpt-alternative-frontend-2kln)
-- [Dev.to/JS] [What Is The Function Of Application Software?](https://dev.to/programmingscript/what-is-the-function-of-application-software-4183)
-- [Dev.to/JS] [Modern CSS Frameworks: Tailwind CSS, Bulma, and Beyond](https://dev.to/rowsanali/modern-css-frameworks-tailwind-css-bulma-and-beyond-4n6h)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)
 - [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)
 - [Lifehacker] [These Are the Best Power Tools for Pumpkin Carving](https://lifehacker.com/these-are-the-best-power-tools-for-pumpkin-carving-1850932479)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Grow &lpar;Good&rpar; Weed Indoors](https://lifehacker.com/how-to-grow-good-weed-indoors-1850931994)
 - [Lifehacker] [Four Things to Do When You Move Plants Indoors for Winter](https://lifehacker.com/how-to-move-outdoor-plants-inside-for-winter-1850932706)
 - [Lifehacker] [Make an Autumnal Beurre Blanc With Apples and Sage](https://lifehacker.com/make-an-autumnal-beurre-blanc-with-apples-and-sage-1850931857)
-- [Lifehacker] [You Can Get the Xbox Elite Series 2 Core Controller for $89](https://lifehacker.com/you-can-get-the-xbox-elite-series-2-core-controller-for-1850931628)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 17, 2023](https://lifehacker.com/nyt-connections-answer-today-october-17-2023-1850931234)
-- [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get the Xbox Elite Series 2 Core Controller for $89](https://lifehacker.com/you-can-get-the-xbox-elite-series-2-core-controller-for-1850931628)<!-- TECH-POSTS:END -->
 
 ---
 
