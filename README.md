@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Differences between background_color and theme_color in a PWA manifest](https://dev.to/progressier/differences-between-backgroundcolor-and-themecolor-in-a-pwa-manifest-bj0)
+- [Dev.to/JS] [An In-Depth Guide to HTTP Methods for frontend developers](https://dev.to/vivek96_/an-in-depth-guide-to-http-methods-for-frontend-developers-2men)
 - [Dev.to/JS] [Demystifying React&#39;s Virtual DOM: A Deep Dive for Developers](https://dev.to/mrnz/demystifying-reacts-virtual-dom-a-deep-dive-for-developers-4cfi)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)
 - [Dev.to/JS] [Getting Started with Jest: A Comprehensive Guide for Beginners and Intermediate Developers](https://dev.to/easewithtuts/getting-started-with-jest-a-comprehensive-guide-for-beginners-and-intermediate-developers-2ibh)
@@ -49,8 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This BirdBike E-bike Is on Sale for Over 50% Off Right Now](https://lifehacker.com/this-birdbike-e-bike-is-on-sale-for-over-50-off-right-1850913618)
 - [Lifehacker] [Why You’re Already Seeing Ads on Prime Video](https://lifehacker.com/why-you-re-already-seeing-ads-on-prime-video-1850933777)
 - [Lifehacker] [This Microsoft Surface Laptop 4 Is 57% Off Today](https://lifehacker.com/this-microsoft-surface-laptop-4-is-57-off-today-1850934441)
-- [Dev.to/JS] [16 React Interview Questions](https://dev.to/mohammadfaisal/16-conceptual-react-questions-to-stand-out-in-your-next-interview-2277)
-- [Dev.to/JS] [🔍 Save these 5 free platforms next time you&#39;re looking to contribute to open source 👩‍💻](https://dev.to/quine/save-these-5-free-platforms-next-time-you-contribute-to-open-source-50c2)
 - [Lifehacker] [Is the Novavax COVID Vaccine Actually ‘Better’?](https://lifehacker.com/is-the-novavax-covid-vaccine-actually-better-1850932093)
 - [Lifehacker] [How to Opt Out of Data Collection by Data Brokers](https://lifehacker.com/how-to-opt-out-of-data-collection-by-data-brokers-1850933513)
 - [Lifehacker] [Make Your Next Pie Crust With Pop-Tarts](https://lifehacker.com/pop-tart-pie-crust-recipe-1850933508)
