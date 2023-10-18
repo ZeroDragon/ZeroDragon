@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How much Javascript is needed to learn ReactJS](https://dev.to/harshal255/dont-overwhelm-to-learn-javascript-alp)
+- [Dev.to/JS] [Useful features by NextJS](https://dev.to/harshal255/useful-features-by-nextjs-3cp9)
+- [Lifehacker] [This Eufy Security Floodlight Camera Is 55% Off](https://lifehacker.com/this-eufy-security-floodlight-camera-is-55-off-1850937543)
+- [Dev.to/JS] [Automate NPM releases on GitHub using changesets 🦋](https://dev.to/ignace/automate-npm-releases-on-github-using-changesets-25b8)
 - [Lifehacker] [Kagi Lets You Search the Internet Without Ads &lpar;but It Will Cost You&rpar;](https://lifehacker.com/kagi-paid-search-engine-review-1850936944)
 - [Dev.to/JS] [DEV Profile Web Components: embed your dev.to profile anywhere](https://dev.to/scottnath/dev-profile-web-components-embed-your-devto-profile-anywhere-4o0b)
 - [Dev.to/JS] [JavaScript Text Color Change Every Second](https://dev.to/divinector/javascript-text-color-change-every-second-1gbd)
@@ -42,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [😍 How to set up a WebSocket connection with Node and React?](https://dev.to/refine/how-to-set-up-a-websocket-connection-with-node-and-react-dn9)
 - [Dev.to/JS] [10 Bad Habits That Can Slow Down Your JavaScript Applications 🐌](https://dev.to/mattryanmtl/10-bad-habits-that-can-slow-down-your-javascript-applications-3f2p)
 - [Lifehacker] [Blend Caramelized Onions Into Soups for Extra Umami](https://lifehacker.com/blend-caramelized-onions-into-soups-for-extra-umami-1850935632)
-- [Dev.to/JS] [Understanding functions and function signatures in Typescript](https://dev.to/fonyuygita/understanding-functions-and-function-signatures-in-typescript-5epe)
-- [Dev.to/JS] [Optimizing Web Performance: Unleashing the Need for Speed 🚀](https://dev.to/razzivdecoder/optimizing-web-performance-unleashing-the-need-for-speed-3l0j)
 - [Lifehacker] [You Can Get a Sam&#39;s Club One-Year Membership for $15](https://lifehacker.com/you-can-get-a-sams-club-one-year-membership-for-15-1850935326)
-- [Dev.to/JS] [Level Up Node.js E2E and Integration Testing with OpenTelemetry](https://dev.to/kubeshop/level-up-nodejs-e2e-and-integration-testing-with-opentelemetry-5882)
 - [Lifehacker] [These Are the Safest Payment Methods &lpar;and the Ones You Should Avoid&rpar;](https://lifehacker.com/safest-payment-methods-1850934063)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)
 - [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Opt Out of Data Collection by Data Brokers](https://lifehacker.com/how-to-opt-out-of-data-collection-by-data-brokers-1850933513)
 - [Lifehacker] [Make Your Next Pie Crust With Pop-Tarts](https://lifehacker.com/pop-tart-pie-crust-recipe-1850933508)
 - [Lifehacker] [Use This Extension to Block Sponsored Ads on YouTube](https://lifehacker.com/use-this-extension-to-block-sponsored-ads-on-youtube-1850932708)
-- [Lifehacker] [The 42 Best 2000s Movies You Can Stream Right Now](https://lifehacker.com/the-best-2000s-movies-you-can-stream-right-now-1850930073)
-- [Lifehacker] [Where to Get Roadside Assistance Coverage &lpar;and Why You Need It&rpar;](https://lifehacker.com/how-to-find-roadside-assistance-1850930049)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 42 Best 2000s Movies You Can Stream Right Now](https://lifehacker.com/the-best-2000s-movies-you-can-stream-right-now-1850930073)<!-- TECH-POSTS:END -->
 
 ---
 
