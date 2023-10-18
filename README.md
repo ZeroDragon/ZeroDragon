@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)
+- [Dev.to/JS] [Getting Started with Jest: A Comprehensive Guide for Beginners and Intermediate Developers](https://dev.to/easewithtuts/getting-started-with-jest-a-comprehensive-guide-for-beginners-and-intermediate-developers-2ibh)
+- [Dev.to/JS] [Simplifying Data Table Management with EzyTables](https://dev.to/ra9/simplifying-data-table-management-with-ezytables-g0j)
 - [Dev.to/JS] [Enabling inline CSS for pseudo classes](https://dev.to/dara_tobi/enabling-inline-css-for-pseudo-classes-4bek)
 - [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)
 - [Lifehacker] [These Are the Best Power Tools for Pumpkin Carving](https://lifehacker.com/these-are-the-best-power-tools-for-pumpkin-carving-1850932479)
@@ -50,8 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is the Novavax COVID Vaccine Actually ‘Better’?](https://lifehacker.com/is-the-novavax-covid-vaccine-actually-better-1850932093)
 - [Lifehacker] [How to Opt Out of Data Collection by Data Brokers](https://lifehacker.com/how-to-opt-out-of-data-collection-by-data-brokers-1850933513)
 - [Dev.to/JS] [Day 70: Data Fetching](https://dev.to/dhrn/day-70-data-fetching-3kp9)
-- [Dev.to/JS] [Hello](https://dev.to/bartoghx/hello-5fjn)
-- [Dev.to/JS] [MithrilJS, create HTML table from 2D array of data](https://dev.to/pablo_74/mithriljs-create-html-table-from-2d-array-of-data-2fki)
 - [Lifehacker] [Make Your Next Pie Crust With Pop-Tarts](https://lifehacker.com/pop-tart-pie-crust-recipe-1850933508)
 - [Lifehacker] [Use This Extension to Block Sponsored Ads on YouTube](https://lifehacker.com/use-this-extension-to-block-sponsored-ads-on-youtube-1850932708)
 - [Lifehacker] [The 42 Best 2000s Movies You Can Stream Right Now](https://lifehacker.com/the-best-2000s-movies-you-can-stream-right-now-1850930073)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 17, 2023](https://lifehacker.com/nyt-connections-answer-today-october-17-2023-1850931234)
 - [Lifehacker] [These Two Beginner-Friendly Drones Are on Sale for $145 Right Now](https://lifehacker.com/these-two-beginner-friendly-drones-are-on-sale-for-145-1850913471)
 - [Lifehacker] [How to Clean Every Sex Toy You Own](https://lifehacker.com/how-to-clean-sex-toys-1850929892)
-- [Lifehacker] [Why You Shouldn&#39;t Buy a Used Electric Car Yet](https://lifehacker.com/is-buying-a-used-ev-worth-it-1850929963)
-- [Lifehacker] [The Best Isometric Exercises for Beginners](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn&#39;t Buy a Used Electric Car Yet](https://lifehacker.com/is-buying-a-used-ev-worth-it-1850929963)<!-- TECH-POSTS:END -->
 
 ---
 
