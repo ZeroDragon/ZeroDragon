@@ -26,7 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Smart Pet Feeder and Video Camera Is $100 Right Now](https://lifehacker.com/this-smart-pet-feeder-and-video-camera-is-100-right-no-1850931294)
+- [Dev.to/JS] [Common Vue.js Development Mistakes and How to Avoid Them: Part 2 ✅](https://dev.to/obiwanpelosi/common-vuejs-development-mistakes-and-how-to-avoid-them-part-2-4hco)
+- [Lifehacker] [You Can Sign Up for TSA Precheck at Staples](https://lifehacker.com/where-to-sign-up-for-tsa-precheck-1850937513)
+- [Dev.to/JS] [Collaborative Coding: Teamwork with Next.js and Git](https://dev.to/rowsanali/collaborative-coding-teamwork-with-nextjs-and-git-5e6m)
+- [Dev.to/JS] [When To Use &#39;submit&#39; &amp; &#39;click&#39; Events](https://dev.to/tmarku4/when-to-use-submit-click-events-1fpj)
+- [Lifehacker] [How to Buy the Best Thanksgiving Turkey](https://lifehacker.com/how-to-buy-the-best-thanksgivign-turkey-1849728686)
+- [Dev.to/JS] [Beyond the Basics: Advanced Routing in Next.js](https://dev.to/rowsanali/beyond-the-basics-advanced-routing-in-nextjs-1gml)
+- [Dev.to/JS] [Front-End: Qual framework escolher? Por onde começar?](https://dev.to/raynneandrade/front-end-qual-framework-escolher-por-onde-comecar-1e2p)
+- [Lifehacker] [This Gemelli Pizza Oven Is $200 Off Right Now](https://lifehacker.com/this-gemelli-pizza-oven-is-200-off-right-now-1850931455)
 - [Dev.to/JS] [The Art of Abstraction](https://dev.to/shokuninja/the-art-of-abstraction-20g)
+- [Dev.to/JS] [Serving Tasks Efficiently: Understanding P-Limit In Javascript](https://dev.to/doziestar/serving-tasks-efficiently-understanding-p-limit-in-javascript-4m0m)
 - [Lifehacker] [The Two Things You Need in a Coffee Shop to Actually Get Work Done](https://lifehacker.com/the-two-things-you-need-in-a-coffee-shop-to-actually-ge-1850937465)
 - [Lifehacker] [Why You Shouldn&#39;t Put Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
 - [Dev.to/JS] [Exploring Microservices Architecture](https://dev.to/the_emmanuel_ao/exploring-microservices-architecture-5hk2)
@@ -36,17 +46,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How much Javascript is needed to learn ReactJS](https://dev.to/harshal255/dont-overwhelm-to-learn-javascript-alp)
 - [Dev.to/JS] [Useful features by NextJS](https://dev.to/harshal255/useful-features-by-nextjs-3cp9)
 - [Lifehacker] [This Eufy Security Floodlight Camera Is 55% Off](https://lifehacker.com/this-eufy-security-floodlight-camera-is-55-off-1850937543)
-- [Dev.to/JS] [Automate NPM releases on GitHub using changesets 🦋](https://dev.to/ignace/automate-npm-releases-on-github-using-changesets-25b8)
 - [Lifehacker] [Kagi Lets You Search the Internet Without Ads &lpar;but It Will Cost You&rpar;](https://lifehacker.com/kagi-paid-search-engine-review-1850936944)
-- [Dev.to/JS] [DEV Profile Web Components: embed your dev.to profile anywhere](https://dev.to/scottnath/dev-profile-web-components-embed-your-devto-profile-anywhere-4o0b)
-- [Dev.to/JS] [JavaScript Text Color Change Every Second](https://dev.to/divinector/javascript-text-color-change-every-second-1gbd)
 - [Lifehacker] [This 7th-Gen Apple iPad Is on Sale for $280 Right Now](https://lifehacker.com/this-7th-gen-apple-ipad-is-on-sale-for-280-right-now-1850931256)
 - [Lifehacker] [What&#39;s New on Disney+ in November 2023](https://lifehacker.com/new-on-disney-plus-in-november-2023-1850935611)
 - [Lifehacker] [What&#39;s New on Hulu in November 2023](https://lifehacker.com/new-on-hulu-november-2023-1850935764)
-- [Dev.to/JS] [JSX Unchained: Make a template engine without React](https://dev.to/argonauta/jsx-unchained-make-a-template-engine-4h56)
-- [Dev.to/JS] [Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.](https://dev.to/leonidas_savvides_0d224f2/deprecated-gradle-features-were-used-in-this-build-making-it-incompatible-with-gradle-90-19ea)
 - [Lifehacker] [The Mildly Depressing History of &#39;Black Friday&#39;](https://lifehacker.com/the-mildly-depressing-history-of-black-friday-1850935779)
-- [Dev.to/JS] [Introduction to TanStack Query: Supercharge Your Data Fetching in a React App](https://dev.to/tundejames20/introduction-to-tanstack-query-supercharge-your-data-fetching-in-a-react-app-3bac)
 - [Lifehacker] [Make a Big Batch of Fluffy Soufflé Pancakes in Your Oven](https://lifehacker.com/make-a-big-batch-of-fluffy-souffle-pancakes-in-your-ove-1850935544)
 - [Lifehacker] [Blend Caramelized Onions Into Soups for Extra Umami](https://lifehacker.com/blend-caramelized-onions-into-soups-for-extra-umami-1850935632)
 - [Lifehacker] [You Can Get a Sam&#39;s Club One-Year Membership for $15](https://lifehacker.com/you-can-get-a-sams-club-one-year-membership-for-15-1850935326)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need Vent Extenders This Winter](https://lifehacker.com/why-you-need-vent-extenders-this-winter-1850933941)
 - [Lifehacker] [You Should Cook Your Pasta in Leftover Bean Broth](https://lifehacker.com/you-should-cook-your-pasta-in-leftover-bean-broth-1850934202)
 - [Lifehacker] [These Are the Best Streaming Discounts for Students Right Now](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
-- [Lifehacker] [This BirdBike E-bike Is on Sale for Over 50% Off Right Now](https://lifehacker.com/this-birdbike-e-bike-is-on-sale-for-over-50-off-right-1850913618)
-- [Lifehacker] [Why You’re Already Seeing Ads on Prime Video](https://lifehacker.com/why-you-re-already-seeing-ads-on-prime-video-1850933777)
-- [Lifehacker] [This Microsoft Surface Laptop 4 Is 57% Off Today](https://lifehacker.com/this-microsoft-surface-laptop-4-is-57-off-today-1850934441)
-- [Lifehacker] [Is the Novavax COVID Vaccine Actually ‘Better’?](https://lifehacker.com/is-the-novavax-covid-vaccine-actually-better-1850932093)
-- [Lifehacker] [How to Opt Out of Data Collection by Data Brokers](https://lifehacker.com/how-to-opt-out-of-data-collection-by-data-brokers-1850933513)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This BirdBike E-bike Is on Sale for Over 50% Off Right Now](https://lifehacker.com/this-birdbike-e-bike-is-on-sale-for-over-50-off-right-1850913618)<!-- TECH-POSTS:END -->
 
 ---
 
