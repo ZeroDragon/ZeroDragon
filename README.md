@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GCP-GC-ADM check questions are to the factor of having absolutely](https://dev.to/lola12345/gcp-gc-adm-check-questions-are-to-the-factor-of-having-absolutely-12e1)
+- [Dev.to/JS] [⚡️ Check Active Links &amp; Sub-Links in NextJS](https://dev.to/codewithshan/check-active-links-sub-links-in-nextjs-195o)
+- [Dev.to/JS] [Professional Bookkeeping Services for Restaurants in Dubai!](https://dev.to/saconsultantsuae01/professional-bookkeeping-services-for-restaurants-in-dubai-3doj)
+- [Dev.to/JS] [🔥🚀V-Code [ OpenSource ] - Low Code Platform for Web UI Development](https://dev.to/vallarasuj/v-code-opensource-low-code-platform-for-web-ui-development-507i)
 - [Dev.to/JS] [Backend Development Basics: Servers, Databases, and APIs](https://dev.to/rowsanali/backend-development-basics-servers-databases-and-apis-1l7h)
 - [Dev.to/JS] [PWA Magic: Turning Your Next.js App into a Progressive Web App](https://dev.to/rowsanali/pwa-magic-turning-your-nextjs-app-into-a-progressive-web-app-4de)
 - [Dev.to/JS] [DOM Manipulation in JS](https://dev.to/tanmaycode/dom-manipulation-in-js-3ihl)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Angular: 12 Essential Skills for Web Developers](https://dev.to/robinrai2612/mastering-angular-12-essential-skills-for-web-developers-1af2)
 - [Dev.to/JS] [WhatsApp Channel V/S WhatsApp Business API](https://dev.to/johnmerry/whatsapp-channel-vs-whatsapp-business-api-38ch)
 - [Dev.to/JS] [Why you should choose HTMX for your next project](https://dev.to/turculaurentiu91/why-you-should-choose-htmx-for-your-next-project-o7j)
-- [Dev.to/JS] [JavaScript : Event Handling and Event Delegation &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-event-handling-and-event-delegation-englishhindi-3hfi)
-- [Dev.to/JS] [Why you have to use localStorage for checking for authenticated routes.](https://dev.to/elihood/why-you-have-to-use-localstorage-for-checking-for-authenticated-routes-1ao8)
-- [Dev.to/JS] [What is Private field in JS &lpar;JavaScript&rpar;](https://dev.to/diwakarkashyap/what-is-private-field-in-js-javascript-4ma0)
-- [Dev.to/JS] [Markdoc: 10 Minute Docs Audit](https://dev.to/documentwrites/markdoc-10-minute-docs-audit-3ala)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
