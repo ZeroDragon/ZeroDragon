@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Backend Development Basics: Servers, Databases, and APIs](https://dev.to/rowsanali/backend-development-basics-servers-databases-and-apis-1l7h)
+- [Dev.to/JS] [PWA Magic: Turning Your Next.js App into a Progressive Web App](https://dev.to/rowsanali/pwa-magic-turning-your-nextjs-app-into-a-progressive-web-app-4de)
+- [Dev.to/JS] [DOM Manipulation in JS](https://dev.to/tanmaycode/dom-manipulation-in-js-3ihl)
+- [Dev.to/JS] [Main differences between web design and development](https://dev.to/sparkouttech/main-differences-between-web-design-and-development-6bh)
 - [Dev.to/JS] [Context API in React](https://dev.to/madhubankhatri/context-api-in-react-5a82)
 - [Dev.to/JS] [Mastering Angular: 12 Essential Skills for Web Developers](https://dev.to/robinrai2612/mastering-angular-12-essential-skills-for-web-developers-1af2)
 - [Dev.to/JS] [WhatsApp Channel V/S WhatsApp Business API](https://dev.to/johnmerry/whatsapp-channel-vs-whatsapp-business-api-38ch)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why you have to use localStorage for checking for authenticated routes.](https://dev.to/elihood/why-you-have-to-use-localstorage-for-checking-for-authenticated-routes-1ao8)
 - [Dev.to/JS] [What is Private field in JS &lpar;JavaScript&rpar;](https://dev.to/diwakarkashyap/what-is-private-field-in-js-javascript-4ma0)
 - [Dev.to/JS] [Markdoc: 10 Minute Docs Audit](https://dev.to/documentwrites/markdoc-10-minute-docs-audit-3ala)
-- [Dev.to/JS] [Dockerize Nodejs and Postgres example](https://dev.to/tienbku/dockerize-nodejs-and-postgres-example-4k2j)
-- [Dev.to/JS] [JavaScript: Promise](https://dev.to/lakharashubham007/javascript-promise-4dj5)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
-- [Dev.to/JS] [Web APIs in a Nutshell: Unlocking the Power of Interconnected Systems](https://dev.to/easewithtuts/web-apis-in-a-nutshell-unlocking-the-power-of-interconnected-systems-4aoh)
-- [Dev.to/JS] [100 Days of Code](https://dev.to/sapiosonic/100-days-of-code-11no)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
 - [Lifehacker] [Make This Easy No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
