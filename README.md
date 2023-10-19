@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Hide Someone in Your Google Photos &#39;Memories&#39;](https://lifehacker.com/how-to-hide-someone-in-your-google-photos-memories-1850941408)
+- [Dev.to/JS] [Exploring React&#39;s New useOptimistic Hook: An Early Look](https://dev.to/barrymichaeldoyle/exploring-reacts-new-useoptimistic-hook-an-early-look-1a80)
+- [Dev.to/JS] [JavaScript - Understanding Event Handling and Event Loop](https://dev.to/theramoliya/javascript-understanding-event-handling-and-event-loop-4acn)
+- [Lifehacker] [This Key on Your Mac Is Full of Hidden Shortcuts](https://lifehacker.com/this-key-on-your-mac-is-full-of-hidden-shortcuts-1850941307)
+- [Dev.to/JS] [Optimize Your Node.js API with Clustering, Load Testing, and Advanced Caching](https://dev.to/umoren/optimize-your-nodejs-image-recognition-api-with-clustering-load-testing-and-advanced-caching-1pj5)
+- [Lifehacker] [Wait, How Much Does Netflix Cost Now?](https://lifehacker.com/wait-how-much-does-netflix-cost-now-1850655093)
+- [Lifehacker] [You Can Get Microsoft Office for $30 Right Now](https://lifehacker.com/you-can-get-microsoft-office-for-30-right-now-1850935211)
+- [Dev.to/JS] [Initial Commit](https://dev.to/din0saur5/initial-commit-49nh)
+- [Lifehacker] [You Should Waffle Some Instant Mashed Potatoes](https://lifehacker.com/instant-mashed-potato-waffles-recipe-1850939015)
 - [Dev.to/JS] [Javascript - Polyfills](https://dev.to/sandyabhi/javascript-polyfills-21b3)
 - [Lifehacker] [‘Biophilic Design’ Is the New Home Decor Trend](https://lifehacker.com/biophilic-design-is-the-new-home-decor-trend-1850939348)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Bigfoot Sighting in Colorado](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-bigfoot-si-1850939927)
@@ -39,10 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a minimalistic To-Do app in Vue.js](https://dev.to/pxlmastrxd/creating-a-minimalistic-to-do-app-in-vuejs-2ol5)
 - [Dev.to/JS] [Sloan&#39;s Inbox: How and when to choose a JavaScript Framework?](https://dev.to/devteam/sloans-inbox-how-and-when-to-choose-a-javascript-framework-ch9)
 - [Lifehacker] [How to Keep Potted Herbs Alive Inside All Winter](https://lifehacker.com/how-to-keep-potted-herbs-alive-inside-all-winter-1850936375)
-- [Dev.to/JS] [Beyond MVC: Exploring Architectural Patterns for Frontend](https://dev.to/rowsanali/beyond-mvc-exploring-architectural-patterns-for-frontend-2cg9)
-- [Dev.to/JS] [👕 Last 10 years of Hacktoberfest merch, a journey through time 👀](https://dev.to/quine/last-10-years-of-hacktoberfest-merch-a-journey-through-time-8od)
-- [Dev.to/JS] [Git on Steroids 🧐_Boosting Functionality 🧐🧐](https://dev.to/ako61142833/git-on-steroids-boostingfunctionality-2kl0)
-- [Dev.to/JS] [5 Project ideas for NextJS](https://dev.to/codewithshan/5-project-ideas-for-nextjs-14bk)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 19, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Put Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
 - [Lifehacker] [Don&#39;t Make These Mistakes With Your Roth IRA](https://lifehacker.com/common-roth-ira-mistakes-1850935007)
 - [Lifehacker] [This Eufy Security Floodlight Camera Is 55% Off](https://lifehacker.com/this-eufy-security-floodlight-camera-is-55-off-1850937543)
-- [Lifehacker] [Kagi Lets You Search the Internet Without Ads &lpar;but It Will Cost You&rpar;](https://lifehacker.com/kagi-paid-search-engine-review-1850936944)
-- [Lifehacker] [This 7th-Gen Apple iPad Is on Sale for $280 Right Now](https://lifehacker.com/this-7th-gen-apple-ipad-is-on-sale-for-280-right-now-1850931256)
-- [Lifehacker] [What&#39;s New on Disney+ in November 2023](https://lifehacker.com/new-on-disney-plus-in-november-2023-1850935611)
-- [Lifehacker] [What&#39;s New on Hulu in November 2023](https://lifehacker.com/new-on-hulu-november-2023-1850935764)
-- [Lifehacker] [The Mildly Depressing History of &#39;Black Friday&#39;](https://lifehacker.com/the-mildly-depressing-history-of-black-friday-1850935779)
-- [Lifehacker] [Make a Big Batch of Fluffy Soufflé Pancakes in Your Oven](https://lifehacker.com/make-a-big-batch-of-fluffy-souffle-pancakes-in-your-ove-1850935544)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Kagi Lets You Search the Internet Without Ads &lpar;but It Will Cost You&rpar;](https://lifehacker.com/kagi-paid-search-engine-review-1850936944)<!-- TECH-POSTS:END -->
 
 ---
 
