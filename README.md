@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Promise](https://dev.to/lakharashubham007/javascript-promise-4dj5)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
 - [Dev.to/JS] [Web APIs in a Nutshell: Unlocking the Power of Interconnected Systems](https://dev.to/easewithtuts/web-apis-in-a-nutshell-unlocking-the-power-of-interconnected-systems-4aoh)
 - [Dev.to/JS] [100 Days of Code](https://dev.to/sapiosonic/100-days-of-code-11no)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Capcom Games Are up to 83% Off at Best Buy](https://lifehacker.com/these-capcom-games-are-up-to-83-off-at-best-buy-1850938716)
 - [Dev.to/JS] [Netsuite Searching with SuiteScript 2.0 &quot;Snyder&quot; cut](https://dev.to/smith288/netsuite-searching-with-suitescript-20-snyder-cut-531m)
 - [Dev.to/JS] [Building a Polymorphic React FormElement Component](https://dev.to/serifcolakel/building-a-polymorphic-react-formelement-component-48a9)
-- [Dev.to/JS] [Closures in JavaScript: The Wizard&#39;s Secret Chest](https://dev.to/init_chandan/closures-in-javascript-the-wizards-secret-chest-501j)
 - [Lifehacker] [The Google Pixel Buds Pro Are Still Worth the Money](https://lifehacker.com/google-pixel-buds-pro-review-1850938576)
 - [Lifehacker] [12 Bodyweight Exercises That Will Actually Make You Stronger](https://lifehacker.com/best-bodyweight-exercises-for-strength-1847903062)
 - [Lifehacker] [This Smart Pet Feeder and Video Camera Is $100 Right Now](https://lifehacker.com/this-smart-pet-feeder-and-video-camera-is-100-right-no-1850931294)
