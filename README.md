@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep Potted Herbs Alive Inside All Winter](https://lifehacker.com/how-to-keep-potted-herbs-alive-inside-all-winter-1850936375)
+- [Dev.to/JS] [Beyond MVC: Exploring Architectural Patterns for Frontend](https://dev.to/rowsanali/beyond-mvc-exploring-architectural-patterns-for-frontend-2cg9)
 - [Dev.to/JS] [👕 Last 10 years of Hacktoberfest merch, a journey through time 👀](https://dev.to/quine/last-10-years-of-hacktoberfest-merch-a-journey-through-time-8od)
 - [Dev.to/JS] [Git on Steroids 🧐_Boosting Functionality 🧐🧐](https://dev.to/ako61142833/git-on-steroids-boostingfunctionality-2kl0)
 - [Dev.to/JS] [5 Project ideas for NextJS](https://dev.to/codewithshan/5-project-ideas-for-nextjs-14bk)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⚡️ Check Active Links &amp; Sub-Links in NextJS](https://dev.to/codewithshan/check-active-links-sub-links-in-nextjs-195o)
 - [Dev.to/JS] [Professional Bookkeeping Services for Restaurants in Dubai!](https://dev.to/saconsultantsuae01/professional-bookkeeping-services-for-restaurants-in-dubai-3doj)
 - [Dev.to/JS] [🔥🚀V-Code [ OpenSource ] - Low Code Platform for Web UI Development](https://dev.to/vallarasuj/v-code-opensource-low-code-platform-for-web-ui-development-507i)
-- [Dev.to/JS] [Backend Development Basics: Servers, Databases, and APIs](https://dev.to/rowsanali/backend-development-basics-servers-databases-and-apis-1l7h)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Blend Caramelized Onions Into Soups for Extra Umami](https://lifehacker.com/blend-caramelized-onions-into-soups-for-extra-umami-1850935632)
 - [Lifehacker] [You Can Get a Sam&#39;s Club One-Year Membership for $15](https://lifehacker.com/you-can-get-a-sams-club-one-year-membership-for-15-1850935326)
 - [Lifehacker] [These Are the Safest Payment Methods &lpar;and the Ones You Should Avoid&rpar;](https://lifehacker.com/safest-payment-methods-1850934063)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)
-- [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)<!-- TECH-POSTS:END -->
 
 ---
 
