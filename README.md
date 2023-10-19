@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript : Event Handling and Event Delegation &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-event-handling-and-event-delegation-englishhindi-3hfi)
+- [Dev.to/JS] [Why you have to use localStorage for checking for authenticated routes.](https://dev.to/elihood/why-you-have-to-use-localstorage-for-checking-for-authenticated-routes-1ao8)
+- [Dev.to/JS] [What is Private field in JS &lpar;JavaScript&rpar;](https://dev.to/diwakarkashyap/what-is-private-field-in-js-javascript-4ma0)
 - [Dev.to/JS] [Markdoc: 10 Minute Docs Audit](https://dev.to/documentwrites/markdoc-10-minute-docs-audit-3ala)
 - [Dev.to/JS] [Dockerize Nodejs and Postgres example](https://dev.to/tienbku/dockerize-nodejs-and-postgres-example-4k2j)
 - [Dev.to/JS] [JavaScript: Promise](https://dev.to/lakharashubham007/javascript-promise-4dj5)
@@ -38,12 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dev.to articles migration to markdown files](https://dev.to/idiglove/devto-articles-migration-to-markdown-files-4iop)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
-- [Dev.to/JS] [can someone help me ?](https://dev.to/chedy322/can-someone-help-me--lf3)
 - [Lifehacker] [Make This Easy No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
 - [Lifehacker] [When to Use a Robo-Advisor &lpar;and When to Avoid Them&rpar;](https://lifehacker.com/when-to-use-a-robo-advisor-and-when-to-avoid-them-1850937460)
-- [Dev.to/JS] [Concurrency in JavaScript](https://dev.to/honeybadger/concurrency-in-javascript-35jl)
 - [Lifehacker] [This Oraimo Cordless Stick Vacuum Sucks &lpar;in a Good Way&rpar;](https://lifehacker.com/oraimo-osv-225a-cordless-stick-vacuum-review-1850895582)
-- [Dev.to/JS] [🚀Unleashing the Power of JavaScript Promises: A Step-by-Step Guide](https://dev.to/darshangaikwad/unleashing-the-power-of-javascript-promises-a-step-by-step-guide-2ci)
 - [Lifehacker] [These Capcom Games Are up to 83% Off at Best Buy](https://lifehacker.com/these-capcom-games-are-up-to-83-off-at-best-buy-1850938716)
 - [Lifehacker] [The Google Pixel Buds Pro Are Still Worth the Money](https://lifehacker.com/google-pixel-buds-pro-review-1850938576)
 - [Lifehacker] [12 Bodyweight Exercises That Will Actually Make You Stronger](https://lifehacker.com/best-bodyweight-exercises-for-strength-1847903062)
