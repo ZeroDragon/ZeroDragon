@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beirut Escorts Is Offering Only the Best Services](https://dev.to/samantha2024/beirut-escorts-is-offering-only-the-best-services-431f)
+- [Dev.to/JS] [How Can I find Trustworthy Istanbul Escorts in Turkey?](https://dev.to/samantha2024/how-can-i-find-trustworthy-istanbul-escorts-in-turkey-1458)
+- [Lifehacker] [Use the ‘OHIO’ Method to Manage Endless Tasks and Messages](https://lifehacker.com/use-the-ohio-method-to-manage-endless-tasks-and-messa-1850937350)
+- [Dev.to/JS] [🚀 10 books to achieve Javascript mastery 👨‍💻](https://dev.to/novu/10-books-to-achieve-javascript-mastery-3dbj)
+- [Dev.to/JS] [Creating a minimalistic To-Do app in Vue.js](https://dev.to/pxlmastrxd/creating-a-minimalistic-to-do-app-in-vuejs-2ol5)
+- [Dev.to/JS] [Sloan&#39;s Inbox: How and when to choose a JavaScript Framework?](https://dev.to/devteam/sloans-inbox-how-and-when-to-choose-a-javascript-framework-ch9)
 - [Lifehacker] [How to Keep Potted Herbs Alive Inside All Winter](https://lifehacker.com/how-to-keep-potted-herbs-alive-inside-all-winter-1850936375)
 - [Dev.to/JS] [Beyond MVC: Exploring Architectural Patterns for Frontend](https://dev.to/rowsanali/beyond-mvc-exploring-architectural-patterns-for-frontend-2cg9)
 - [Dev.to/JS] [👕 Last 10 years of Hacktoberfest merch, a journey through time 👀](https://dev.to/quine/last-10-years-of-hacktoberfest-merch-a-journey-through-time-8od)
@@ -34,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NextJS Tip ⚡ Better Website Optimization with Smarter Font Management](https://dev.to/codewithshan/nextjs-tip-better-website-optimization-with-smarter-font-management-aee)
 - [Dev.to/JS] [I18next translations inside maps &amp; React dynamic import](https://dev.to/graphqleditor/i18next-translations-inside-maps-react-dynamic-import-4kha)
 - [Dev.to/JS] [Best Digital Marketing in Bhopal | SEO | SMO | Website &amp; App Development and Training](https://dev.to/orphic123/best-digital-marketing-in-bhopal-seo-smo-website-app-development-and-training-14g8)
-- [Dev.to/JS] [No space on google cloud :&lpar;](https://dev.to/gamedev90/no-space-on-google-cloud--3ijj)
-- [Dev.to/JS] [GCP-GC-ADM check questions are to the factor of having absolutely](https://dev.to/lola12345/gcp-gc-adm-check-questions-are-to-the-factor-of-having-absolutely-12e1)
-- [Dev.to/JS] [⚡️ Check Active Links &amp; Sub-Links in NextJS](https://dev.to/codewithshan/check-active-links-sub-links-in-nextjs-195o)
-- [Dev.to/JS] [Professional Bookkeeping Services for Restaurants in Dubai!](https://dev.to/saconsultantsuae01/professional-bookkeeping-services-for-restaurants-in-dubai-3doj)
-- [Dev.to/JS] [🔥🚀V-Code [ OpenSource ] - Low Code Platform for Web UI Development](https://dev.to/vallarasuj/v-code-opensource-low-code-platform-for-web-ui-development-507i)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Big Batch of Fluffy Soufflé Pancakes in Your Oven](https://lifehacker.com/make-a-big-batch-of-fluffy-souffle-pancakes-in-your-ove-1850935544)
 - [Lifehacker] [Blend Caramelized Onions Into Soups for Extra Umami](https://lifehacker.com/blend-caramelized-onions-into-soups-for-extra-umami-1850935632)
 - [Lifehacker] [You Can Get a Sam&#39;s Club One-Year Membership for $15](https://lifehacker.com/you-can-get-a-sams-club-one-year-membership-for-15-1850935326)
-- [Lifehacker] [These Are the Safest Payment Methods &lpar;and the Ones You Should Avoid&rpar;](https://lifehacker.com/safest-payment-methods-1850934063)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Safest Payment Methods &lpar;and the Ones You Should Avoid&rpar;](https://lifehacker.com/safest-payment-methods-1850934063)<!-- TECH-POSTS:END -->
 
 ---
 
