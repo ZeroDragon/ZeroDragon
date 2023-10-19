@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript - Polyfills](https://dev.to/sandyabhi/javascript-polyfills-21b3)
 - [Lifehacker] [‘Biophilic Design’ Is the New Home Decor Trend](https://lifehacker.com/biophilic-design-is-the-new-home-decor-trend-1850939348)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Bigfoot Sighting in Colorado](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-bigfoot-si-1850939927)
 - [Dev.to/JS] [Splitting an array into rows of alternating length](https://dev.to/receter/how-to-split-up-an-array-to-rows-of-alternating-length-2jn3)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [👕 Last 10 years of Hacktoberfest merch, a journey through time 👀](https://dev.to/quine/last-10-years-of-hacktoberfest-merch-a-journey-through-time-8od)
 - [Dev.to/JS] [Git on Steroids 🧐_Boosting Functionality 🧐🧐](https://dev.to/ako61142833/git-on-steroids-boostingfunctionality-2kl0)
 - [Dev.to/JS] [5 Project ideas for NextJS](https://dev.to/codewithshan/5-project-ideas-for-nextjs-14bk)
-- [Dev.to/JS] [NextJS Tip ⚡ Better Website Optimization with Smarter Font Management](https://dev.to/codewithshan/nextjs-tip-better-website-optimization-with-smarter-font-management-aee)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 19, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
