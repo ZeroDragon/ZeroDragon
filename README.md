@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [⚛ The Terrible React Anti-Pattern You Must Avoid](https://dev.to/shameel/the-terrible-react-anti-pattern-you-must-avoid-4el8)
+- [Dev.to/JS] [Enhancing SEO for React Apps: A Comprehensive Guide](https://dev.to/kushmunot/enhancing-seo-for-react-apps-a-comprehensive-guide-1nfj)
+- [Lifehacker] [Pop-Tarts Are the New Toast](https://lifehacker.com/pop-tarts-are-the-new-toast-1850941409)
 - [Lifehacker] [How to Hide Someone in Your Google Photos &#39;Memories&#39;](https://lifehacker.com/how-to-hide-someone-in-your-google-photos-memories-1850941408)
 - [Dev.to/JS] [Exploring React&#39;s New useOptimistic Hook: An Early Look](https://dev.to/barrymichaeldoyle/exploring-reacts-new-useoptimistic-hook-an-early-look-1a80)
 - [Dev.to/JS] [JavaScript - Understanding Event Handling and Event Loop](https://dev.to/theramoliya/javascript-understanding-event-handling-and-event-loop-4acn)
@@ -45,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Can I find Trustworthy Istanbul Escorts in Turkey?](https://dev.to/samantha2024/how-can-i-find-trustworthy-istanbul-escorts-in-turkey-1458)
 - [Lifehacker] [Use the ‘OHIO’ Method to Manage Endless Tasks and Messages](https://lifehacker.com/use-the-ohio-method-to-manage-endless-tasks-and-messa-1850937350)
 - [Dev.to/JS] [🚀 10 books to achieve Javascript mastery 👨‍💻](https://dev.to/novu/10-books-to-achieve-javascript-mastery-3dbj)
-- [Dev.to/JS] [Creating a minimalistic To-Do app in Vue.js](https://dev.to/pxlmastrxd/creating-a-minimalistic-to-do-app-in-vuejs-2ol5)
-- [Dev.to/JS] [Sloan&#39;s Inbox: How and when to choose a JavaScript Framework?](https://dev.to/devteam/sloans-inbox-how-and-when-to-choose-a-javascript-framework-ch9)
 - [Lifehacker] [How to Keep Potted Herbs Alive Inside All Winter](https://lifehacker.com/how-to-keep-potted-herbs-alive-inside-all-winter-1850936375)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 19, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Two Things You Need in a Coffee Shop to Actually Get Work Done](https://lifehacker.com/the-two-things-you-need-in-a-coffee-shop-to-actually-ge-1850937465)
 - [Lifehacker] [Why You Shouldn&#39;t Put Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
 - [Lifehacker] [Don&#39;t Make These Mistakes With Your Roth IRA](https://lifehacker.com/common-roth-ira-mistakes-1850935007)
-- [Lifehacker] [This Eufy Security Floodlight Camera Is 55% Off](https://lifehacker.com/this-eufy-security-floodlight-camera-is-55-off-1850937543)
-- [Lifehacker] [Kagi Lets You Search the Internet Without Ads &lpar;but It Will Cost You&rpar;](https://lifehacker.com/kagi-paid-search-engine-review-1850936944)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Eufy Security Floodlight Camera Is 55% Off](https://lifehacker.com/this-eufy-security-floodlight-camera-is-55-off-1850937543)<!-- TECH-POSTS:END -->
 
 ---
 
