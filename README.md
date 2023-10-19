@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [👕 Last 10 years of Hacktoberfest merch, a journey through time 👀](https://dev.to/quine/last-10-years-of-hacktoberfest-merch-a-journey-through-time-8od)
+- [Dev.to/JS] [Git on Steroids 🧐_Boosting Functionality 🧐🧐](https://dev.to/ako61142833/git-on-steroids-boostingfunctionality-2kl0)
+- [Dev.to/JS] [5 Project ideas for NextJS](https://dev.to/codewithshan/5-project-ideas-for-nextjs-14bk)
 - [Dev.to/JS] [NextJS Tip ⚡ Better Website Optimization with Smarter Font Management](https://dev.to/codewithshan/nextjs-tip-better-website-optimization-with-smarter-font-management-aee)
 - [Dev.to/JS] [I18next translations inside maps &amp; React dynamic import](https://dev.to/graphqleditor/i18next-translations-inside-maps-react-dynamic-import-4kha)
 - [Dev.to/JS] [Best Digital Marketing in Bhopal | SEO | SMO | Website &amp; App Development and Training](https://dev.to/orphic123/best-digital-marketing-in-bhopal-seo-smo-website-app-development-and-training-14g8)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Professional Bookkeeping Services for Restaurants in Dubai!](https://dev.to/saconsultantsuae01/professional-bookkeeping-services-for-restaurants-in-dubai-3doj)
 - [Dev.to/JS] [🔥🚀V-Code [ OpenSource ] - Low Code Platform for Web UI Development](https://dev.to/vallarasuj/v-code-opensource-low-code-platform-for-web-ui-development-507i)
 - [Dev.to/JS] [Backend Development Basics: Servers, Databases, and APIs](https://dev.to/rowsanali/backend-development-basics-servers-databases-and-apis-1l7h)
-- [Dev.to/JS] [PWA Magic: Turning Your Next.js App into a Progressive Web App](https://dev.to/rowsanali/pwa-magic-turning-your-nextjs-app-into-a-progressive-web-app-4de)
-- [Dev.to/JS] [DOM Manipulation in JS](https://dev.to/tanmaycode/dom-manipulation-in-js-3ihl)
-- [Dev.to/JS] [Main differences between web design and development](https://dev.to/sparkouttech/main-differences-between-web-design-and-development-6bh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
