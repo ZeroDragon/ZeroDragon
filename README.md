@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Context API in React](https://dev.to/madhubankhatri/context-api-in-react-5a82)
+- [Dev.to/JS] [Mastering Angular: 12 Essential Skills for Web Developers](https://dev.to/robinrai2612/mastering-angular-12-essential-skills-for-web-developers-1af2)
+- [Dev.to/JS] [WhatsApp Channel V/S WhatsApp Business API](https://dev.to/johnmerry/whatsapp-channel-vs-whatsapp-business-api-38ch)
+- [Dev.to/JS] [Why you should choose HTMX for your next project](https://dev.to/turculaurentiu91/why-you-should-choose-htmx-for-your-next-project-o7j)
 - [Dev.to/JS] [JavaScript : Event Handling and Event Delegation &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-event-handling-and-event-delegation-englishhindi-3hfi)
 - [Dev.to/JS] [Why you have to use localStorage for checking for authenticated routes.](https://dev.to/elihood/why-you-have-to-use-localstorage-for-checking-for-authenticated-routes-1ao8)
 - [Dev.to/JS] [What is Private field in JS &lpar;JavaScript&rpar;](https://dev.to/diwakarkashyap/what-is-private-field-in-js-javascript-4ma0)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
 - [Dev.to/JS] [Web APIs in a Nutshell: Unlocking the Power of Interconnected Systems](https://dev.to/easewithtuts/web-apis-in-a-nutshell-unlocking-the-power-of-interconnected-systems-4aoh)
 - [Dev.to/JS] [100 Days of Code](https://dev.to/sapiosonic/100-days-of-code-11no)
-- [Dev.to/JS] [&quot;in&quot; operator considered harmful in Typescript](https://dev.to/vjau/in-operator-considered-harmful-in-typescript-h2o)
-- [Dev.to/JS] [Node.js 21 is Here: Explore the Exciting New Features and Improvements! 🚀](https://dev.to/sewas87/nodejs-21-is-here-explore-the-exciting-new-features-and-improvements-5427)
-- [Dev.to/JS] [JavaScript](https://dev.to/kitandara06/javascript-19ko)
-- [Dev.to/JS] [Dev.to articles migration to markdown files](https://dev.to/idiglove/devto-articles-migration-to-markdown-files-4iop)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
 - [Lifehacker] [Make This Easy No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
