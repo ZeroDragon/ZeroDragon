@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
+- [Dev.to/JS] [Web APIs in a Nutshell: Unlocking the Power of Interconnected Systems](https://dev.to/easewithtuts/web-apis-in-a-nutshell-unlocking-the-power-of-interconnected-systems-4aoh)
+- [Dev.to/JS] [100 Days of Code](https://dev.to/sapiosonic/100-days-of-code-11no)
 - [Dev.to/JS] [&quot;in&quot; operator considered harmful in Typescript](https://dev.to/vjau/in-operator-considered-harmful-in-typescript-h2o)
 - [Dev.to/JS] [Node.js 21 is Here: Explore the Exciting New Features and Improvements! 🚀](https://dev.to/sewas87/nodejs-21-is-here-explore-the-exciting-new-features-and-improvements-5427)
 - [Dev.to/JS] [JavaScript](https://dev.to/kitandara06/javascript-19ko)
@@ -43,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Polymorphic React FormElement Component](https://dev.to/serifcolakel/building-a-polymorphic-react-formelement-component-48a9)
 - [Dev.to/JS] [Closures in JavaScript: The Wizard&#39;s Secret Chest](https://dev.to/init_chandan/closures-in-javascript-the-wizards-secret-chest-501j)
 - [Lifehacker] [The Google Pixel Buds Pro Are Still Worth the Money](https://lifehacker.com/google-pixel-buds-pro-review-1850938576)
-- [Dev.to/JS] [sdhgrfdg](https://dev.to/jonigun/sdhgrfdg-fin)
 - [Lifehacker] [12 Bodyweight Exercises That Will Actually Make You Stronger](https://lifehacker.com/best-bodyweight-exercises-for-strength-1847903062)
-- [Dev.to/JS] [Day 10: Built a Quiz Web App](https://dev.to/duke09/day-10-built-a-quiz-web-app-4jgo)
 - [Lifehacker] [This Smart Pet Feeder and Video Camera Is $100 Right Now](https://lifehacker.com/this-smart-pet-feeder-and-video-camera-is-100-right-no-1850931294)
 - [Lifehacker] [You Can Sign Up for TSA Precheck at Staples](https://lifehacker.com/where-to-sign-up-for-tsa-precheck-1850937513)
 - [Lifehacker] [How to Buy the Best Thanksgiving Turkey](https://lifehacker.com/how-to-buy-the-best-thanksgivign-turkey-1849728686)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Sam&#39;s Club One-Year Membership for $15](https://lifehacker.com/you-can-get-a-sams-club-one-year-membership-for-15-1850935326)
 - [Lifehacker] [These Are the Safest Payment Methods &lpar;and the Ones You Should Avoid&rpar;](https://lifehacker.com/safest-payment-methods-1850934063)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-18-2023-1850933341)
-- [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)
-- [Lifehacker] [These Are the Best Power Tools for Pumpkin Carving](https://lifehacker.com/these-are-the-best-power-tools-for-pumpkin-carving-1850932479)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Best Strategy for Cleaning Your Entire House](https://lifehacker.com/this-is-the-best-strategy-for-cleaning-your-entire-hous-1850933885)<!-- TECH-POSTS:END -->
 
 ---
 
