@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [JavaScript&#39;e Giriş](https://dev.to/eminaltan/javascripte-giris-1jc8)
+- [Dev.to/JS] [Day 11: #100DaysOfCode - Built a Balance Sheet](https://dev.to/duke09/day-11-100daysofcode-built-a-balance-sheet-2lac)
+- [Dev.to/JS] [Who can help me for a interview preparation?](https://dev.to/harbinr1/who-can-help-me-for-a-interview-preparation-4epj)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
 - [Dev.to/JS] [Don’t do it on Frontend or... Frontend good practices for devs](https://dev.to/lucasm/frontend-best-practices-guide-or-dont-do-it-on-frontend-32n4)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Block Someone From Appearing in Your iPhone Photo ‘Memories’](https://lifehacker.com/how-to-block-someone-from-appearing-in-your-iphone-phot-1850941624)
 - [Lifehacker] [How Much Turkey Do You Actually Need to Buy for Thanksgiving?](https://lifehacker.com/how-much-food-do-you-actually-need-for-thanksgiving-1848068486)
 - [Dev.to/JS] [The Evolution of Enterprise-Grade Low-Code Development](https://dev.to/laradissouza99/the-evolution-of-enterprise-grade-low-code-development-4ggc)
-- [Dev.to/JS] [nextjs-app: Create a Next.js App in One Command](https://dev.to/muhammadfiaz/nextjs-app-create-a-nextjs-app-in-one-command-4fhe)
 - [Lifehacker] [Pop-Tarts Are the New Toast](https://lifehacker.com/pop-tarts-are-the-new-toast-1850941409)
 - [Lifehacker] [How to Hide Someone in Your Google Photos &#39;Memories&#39;](https://lifehacker.com/how-to-hide-someone-in-your-google-photos-memories-1850941408)
 - [Lifehacker] [This Key on Your Mac Is Full of Hidden Shortcuts](https://lifehacker.com/this-key-on-your-mac-is-full-of-hidden-shortcuts-1850941307)
