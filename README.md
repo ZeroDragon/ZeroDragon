@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guia para Instalar o Bootstrap em um Aplicativo React](https://dev.to/rodrigozan/guia-para-instalar-o-bootstrap-em-um-aplicativo-react-36b)
+- [Dev.to/JS] [How create a recursive function using Javascript](https://dev.to/thehuferr/how-create-a-recursive-function-using-javascript-1e9o)
+- [Dev.to/JS] [Ways to Set Default Values in JavaScript](https://dev.to/speaklouder/ways-to-set-default-values-in-javascript-3n79)
+- [Lifehacker] [The Best Laptops for Students](https://lifehacker.com/best-laptops-for-kids-1850940357)
+- [Dev.to/JS] [Mastering React Query&#39;s useQuery for Data Fetching](https://dev.to/naweli_verma/mastering-react-querys-usequery-for-data-fetching-olf)
 - [Lifehacker] [You Can Stop Instagram From Tracking You Across Other Sites and Apps](https://lifehacker.com/you-can-stop-instagram-from-tracking-you-across-other-s-1850941462)
 - [Dev.to/JS] [Alterando uma lib Node de forma rápida](https://dev.to/itsmicaio/alterando-uma-lib-node-de-forma-rapida-41p6)
 - [Lifehacker] [Here’s How Much You Can Make Renting Out Your Driveway](https://lifehacker.com/here-s-how-much-you-can-make-renting-out-your-driveway-1850941525)
@@ -41,15 +46,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring React&#39;s New useOptimistic Hook: An Early Look](https://dev.to/barrymichaeldoyle/exploring-reacts-new-useoptimistic-hook-an-early-look-1a80)
 - [Dev.to/JS] [JavaScript - Understanding Event Handling and Event Loop](https://dev.to/theramoliya/javascript-understanding-event-handling-and-event-loop-4acn)
 - [Lifehacker] [This Key on Your Mac Is Full of Hidden Shortcuts](https://lifehacker.com/this-key-on-your-mac-is-full-of-hidden-shortcuts-1850941307)
-- [Dev.to/JS] [Optimize Your Node.js API with Clustering, Load Testing, and Advanced Caching](https://dev.to/umoren/optimize-your-nodejs-image-recognition-api-with-clustering-load-testing-and-advanced-caching-1pj5)
 - [Lifehacker] [Wait, How Much Does Netflix Cost Now?](https://lifehacker.com/wait-how-much-does-netflix-cost-now-1850655093)
 - [Lifehacker] [You Can Get Microsoft Office for $30 Right Now](https://lifehacker.com/you-can-get-microsoft-office-for-30-right-now-1850935211)
-- [Dev.to/JS] [Initial Commit](https://dev.to/din0saur5/initial-commit-49nh)
 - [Lifehacker] [You Should Waffle Some Instant Mashed Potatoes](https://lifehacker.com/instant-mashed-potato-waffles-recipe-1850939015)
-- [Dev.to/JS] [Javascript - Polyfills](https://dev.to/sandyabhi/javascript-polyfills-21b3)
 - [Lifehacker] [‘Biophilic Design’ Is the New Home Decor Trend](https://lifehacker.com/biophilic-design-is-the-new-home-decor-trend-1850939348)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Bigfoot Sighting in Colorado](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-bigfoot-si-1850939927)
-- [Dev.to/JS] [Splitting an array into rows of alternating length](https://dev.to/receter/how-to-split-up-an-array-to-rows-of-alternating-length-2jn3)
 - [Lifehacker] [You Can Get These JBL Headphones for up to 53% Off](https://lifehacker.com/you-can-get-these-jbl-headphones-for-up-to-53-off-1850939457)
 - [Lifehacker] [Use the ‘OHIO’ Method to Manage Endless Tasks and Messages](https://lifehacker.com/use-the-ohio-method-to-manage-endless-tasks-and-messa-1850937350)
 - [Lifehacker] [How to Keep Potted Herbs Alive Inside All Winter](https://lifehacker.com/how-to-keep-potted-herbs-alive-inside-all-winter-1850936375)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Bodyweight Exercises That Will Actually Make You Stronger](https://lifehacker.com/best-bodyweight-exercises-for-strength-1847903062)
 - [Lifehacker] [This Smart Pet Feeder and Video Camera Is $100 Right Now](https://lifehacker.com/this-smart-pet-feeder-and-video-camera-is-100-right-no-1850931294)
 - [Lifehacker] [You Can Sign Up for TSA Precheck at Staples](https://lifehacker.com/where-to-sign-up-for-tsa-precheck-1850937513)
-- [Lifehacker] [How to Buy the Best Thanksgiving Turkey](https://lifehacker.com/how-to-buy-the-best-thanksgivign-turkey-1849728686)
-- [Lifehacker] [This Gemelli Pizza Oven Is $200 Off Right Now](https://lifehacker.com/this-gemelli-pizza-oven-is-200-off-right-now-1850931455)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Buy the Best Thanksgiving Turkey](https://lifehacker.com/how-to-buy-the-best-thanksgivign-turkey-1849728686)<!-- TECH-POSTS:END -->
 
 ---
 
