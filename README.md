@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DON&#39;T DO IT on Frontend or... Frontend Best Practices Guide](https://dev.to/lucasm/frontend-best-practices-guide-or-dont-do-it-on-frontend-32n4)
+- [Dev.to/JS] [Cross-site Scripting and how to fix it](https://dev.to/powdree123/cross-site-scripting-and-how-to-fix-it-56hm)
+- [Lifehacker] [Here Are Best Buy&#39;s Black Friday Calendar and Price-Match Rules](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
+- [Lifehacker] [How to Travel With Someone Who Sucks](https://lifehacker.com/how-to-travel-with-someone-who-sucks-1850937387)
 - [Dev.to/JS] [What do front-end developers think of no-code DataViz tools?](https://dev.to/dkkent/what-do-front-end-developers-think-of-no-code-dataviz-tools-1npj)
 - [Lifehacker] [How to Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
 - [Lifehacker] [The Fitbit Charge 6 Integrates More of the Google Ecosystem](https://lifehacker.com/fitbit-charge-6-review-1850941537)
@@ -43,10 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Evolution of Enterprise-Grade Low-Code Development](https://dev.to/laradissouza99/the-evolution-of-enterprise-grade-low-code-development-4ggc)
 - [Dev.to/JS] [nextjs-app: Create a Next.js App in One Command](https://dev.to/muhammadfiaz/nextjs-app-create-a-nextjs-app-in-one-command-4fhe)
 - [Dev.to/JS] [⚛ The Terrible React Anti-Pattern You Must Avoid](https://dev.to/shameel/the-terrible-react-anti-pattern-you-must-avoid-4el8)
-- [Dev.to/JS] [Enhancing SEO for React Apps: A Comprehensive Guide](https://dev.to/kushmunot/enhancing-seo-for-react-apps-a-comprehensive-guide-1nfj)
 - [Lifehacker] [Pop-Tarts Are the New Toast](https://lifehacker.com/pop-tarts-are-the-new-toast-1850941409)
 - [Lifehacker] [How to Hide Someone in Your Google Photos &#39;Memories&#39;](https://lifehacker.com/how-to-hide-someone-in-your-google-photos-memories-1850941408)
-- [Dev.to/JS] [Exploring React&#39;s New useOptimistic Hook: An Early Look](https://dev.to/barrymichaeldoyle/exploring-reacts-new-useoptimistic-hook-an-early-look-1a80)
 - [Lifehacker] [This Key on Your Mac Is Full of Hidden Shortcuts](https://lifehacker.com/this-key-on-your-mac-is-full-of-hidden-shortcuts-1850941307)
 - [Lifehacker] [Wait, How Much Does Netflix Cost Now?](https://lifehacker.com/wait-how-much-does-netflix-cost-now-1850655093)
 - [Lifehacker] [You Can Get Microsoft Office for $30 Right Now](https://lifehacker.com/you-can-get-microsoft-office-for-30-right-now-1850935211)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Use a Robo-Advisor &lpar;and When to Avoid Them&rpar;](https://lifehacker.com/when-to-use-a-robo-advisor-and-when-to-avoid-them-1850937460)
 - [Lifehacker] [This Oraimo Cordless Stick Vacuum Sucks &lpar;in a Good Way&rpar;](https://lifehacker.com/oraimo-osv-225a-cordless-stick-vacuum-review-1850895582)
 - [Lifehacker] [These Capcom Games Are up to 83% Off at Best Buy](https://lifehacker.com/these-capcom-games-are-up-to-83-off-at-best-buy-1850938716)
-- [Lifehacker] [The Google Pixel Buds Pro Are Still Worth the Money](https://lifehacker.com/google-pixel-buds-pro-review-1850938576)
-- [Lifehacker] [12 Bodyweight Exercises That Will Actually Make You Stronger](https://lifehacker.com/best-bodyweight-exercises-for-strength-1847903062)
-- [Lifehacker] [This Smart Pet Feeder and Video Camera Is $100 Right Now](https://lifehacker.com/this-smart-pet-feeder-and-video-camera-is-100-right-no-1850931294)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Google Pixel Buds Pro Are Still Worth the Money](https://lifehacker.com/google-pixel-buds-pro-review-1850938576)<!-- TECH-POSTS:END -->
 
 ---
 
