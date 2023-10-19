@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What do front-end developers think of no-code DataViz tools?](https://dev.to/dkkent/what-do-front-end-developers-think-of-no-code-dataviz-tools-1npj)
+- [Lifehacker] [How to Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
+- [Lifehacker] [The Fitbit Charge 6 Integrates More of the Google Ecosystem](https://lifehacker.com/fitbit-charge-6-review-1850941537)
 - [Dev.to/JS] [Guia para Instalar o Bootstrap em um Aplicativo React](https://dev.to/rodrigozan/guia-para-instalar-o-bootstrap-em-um-aplicativo-react-36b)
 - [Dev.to/JS] [How create a recursive function using Javascript](https://dev.to/thehuferr/how-create-a-recursive-function-using-javascript-1e9o)
 - [Dev.to/JS] [Ways to Set Default Values in JavaScript](https://dev.to/speaklouder/ways-to-set-default-values-in-javascript-3n79)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pop-Tarts Are the New Toast](https://lifehacker.com/pop-tarts-are-the-new-toast-1850941409)
 - [Lifehacker] [How to Hide Someone in Your Google Photos &#39;Memories&#39;](https://lifehacker.com/how-to-hide-someone-in-your-google-photos-memories-1850941408)
 - [Dev.to/JS] [Exploring React&#39;s New useOptimistic Hook: An Early Look](https://dev.to/barrymichaeldoyle/exploring-reacts-new-useoptimistic-hook-an-early-look-1a80)
-- [Dev.to/JS] [JavaScript - Understanding Event Handling and Event Loop](https://dev.to/theramoliya/javascript-understanding-event-handling-and-event-loop-4acn)
 - [Lifehacker] [This Key on Your Mac Is Full of Hidden Shortcuts](https://lifehacker.com/this-key-on-your-mac-is-full-of-hidden-shortcuts-1850941307)
 - [Lifehacker] [Wait, How Much Does Netflix Cost Now?](https://lifehacker.com/wait-how-much-does-netflix-cost-now-1850655093)
 - [Lifehacker] [You Can Get Microsoft Office for $30 Right Now](https://lifehacker.com/you-can-get-microsoft-office-for-30-right-now-1850935211)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Capcom Games Are up to 83% Off at Best Buy](https://lifehacker.com/these-capcom-games-are-up-to-83-off-at-best-buy-1850938716)
 - [Lifehacker] [The Google Pixel Buds Pro Are Still Worth the Money](https://lifehacker.com/google-pixel-buds-pro-review-1850938576)
 - [Lifehacker] [12 Bodyweight Exercises That Will Actually Make You Stronger](https://lifehacker.com/best-bodyweight-exercises-for-strength-1847903062)
-- [Lifehacker] [This Smart Pet Feeder and Video Camera Is $100 Right Now](https://lifehacker.com/this-smart-pet-feeder-and-video-camera-is-100-right-no-1850931294)
-- [Lifehacker] [You Can Sign Up for TSA Precheck at Staples](https://lifehacker.com/where-to-sign-up-for-tsa-precheck-1850937513)
-- [Lifehacker] [How to Buy the Best Thanksgiving Turkey](https://lifehacker.com/how-to-buy-the-best-thanksgivign-turkey-1849728686)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Smart Pet Feeder and Video Camera Is $100 Right Now](https://lifehacker.com/this-smart-pet-feeder-and-video-camera-is-100-right-no-1850931294)<!-- TECH-POSTS:END -->
 
 ---
 
