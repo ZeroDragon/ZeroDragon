@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NextJS Tip ⚡ Better Website Optimization with Smarter Font Management](https://dev.to/codewithshan/nextjs-tip-better-website-optimization-with-smarter-font-management-aee)
+- [Dev.to/JS] [I18next translations inside maps &amp; React dynamic import](https://dev.to/graphqleditor/i18next-translations-inside-maps-react-dynamic-import-4kha)
 - [Dev.to/JS] [Best Digital Marketing in Bhopal | SEO | SMO | Website &amp; App Development and Training](https://dev.to/orphic123/best-digital-marketing-in-bhopal-seo-smo-website-app-development-and-training-14g8)
 - [Dev.to/JS] [No space on google cloud :&lpar;](https://dev.to/gamedev90/no-space-on-google-cloud--3ijj)
 - [Dev.to/JS] [GCP-GC-ADM check questions are to the factor of having absolutely](https://dev.to/lola12345/gcp-gc-adm-check-questions-are-to-the-factor-of-having-absolutely-12e1)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PWA Magic: Turning Your Next.js App into a Progressive Web App](https://dev.to/rowsanali/pwa-magic-turning-your-nextjs-app-into-a-progressive-web-app-4de)
 - [Dev.to/JS] [DOM Manipulation in JS](https://dev.to/tanmaycode/dom-manipulation-in-js-3ihl)
 - [Dev.to/JS] [Main differences between web design and development](https://dev.to/sparkouttech/main-differences-between-web-design-and-development-6bh)
-- [Dev.to/JS] [Context API in React](https://dev.to/madhubankhatri/context-api-in-react-5a82)
-- [Dev.to/JS] [Mastering Angular: 12 Essential Skills for Web Developers](https://dev.to/robinrai2612/mastering-angular-12-essential-skills-for-web-developers-1af2)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 18, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
