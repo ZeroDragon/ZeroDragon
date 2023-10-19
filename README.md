@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Stop Instagram From Tracking You Across Other Sites and Apps](https://lifehacker.com/you-can-stop-instagram-from-tracking-you-across-other-s-1850941462)
+- [Dev.to/JS] [Alterando uma lib Node de forma rápida](https://dev.to/itsmicaio/alterando-uma-lib-node-de-forma-rapida-41p6)
+- [Lifehacker] [Here’s How Much You Can Make Renting Out Your Driveway](https://lifehacker.com/here-s-how-much-you-can-make-renting-out-your-driveway-1850941525)
+- [Dev.to/JS] [How to properly destroy a Daily video call instance](https://dev.to/trydaily/how-to-properly-destroy-a-daily-video-call-instance-54ec)
+- [Lifehacker] [How to Block Someone From Appearing in Your iPhone Photo ‘Memories’](https://lifehacker.com/how-to-block-someone-from-appearing-in-your-iphone-phot-1850941624)
+- [Lifehacker] [How Much Turkey Do You Actually Need to Buy for Thanksgiving?](https://lifehacker.com/how-much-food-do-you-actually-need-for-thanksgiving-1848068486)
+- [Dev.to/JS] [The Evolution of Enterprise-Grade Low-Code Development](https://dev.to/laradissouza99/the-evolution-of-enterprise-grade-low-code-development-4ggc)
+- [Dev.to/JS] [nextjs-app: Create a Next.js App in One Command](https://dev.to/muhammadfiaz/nextjs-app-create-a-nextjs-app-in-one-command-4fhe)
 - [Dev.to/JS] [⚛ The Terrible React Anti-Pattern You Must Avoid](https://dev.to/shameel/the-terrible-react-anti-pattern-you-must-avoid-4el8)
 - [Dev.to/JS] [Enhancing SEO for React Apps: A Comprehensive Guide](https://dev.to/kushmunot/enhancing-seo-for-react-apps-a-comprehensive-guide-1nfj)
 - [Lifehacker] [Pop-Tarts Are the New Toast](https://lifehacker.com/pop-tarts-are-the-new-toast-1850941409)
@@ -42,12 +50,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Biophilic Design’ Is the New Home Decor Trend](https://lifehacker.com/biophilic-design-is-the-new-home-decor-trend-1850939348)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Bigfoot Sighting in Colorado](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-bigfoot-si-1850939927)
 - [Dev.to/JS] [Splitting an array into rows of alternating length](https://dev.to/receter/how-to-split-up-an-array-to-rows-of-alternating-length-2jn3)
-- [Dev.to/JS] [22 Useful Console Methods Every Web Developer Should Know](https://dev.to/franciscomoretti/22-useful-console-methods-every-web-developer-should-know-57le)
 - [Lifehacker] [You Can Get These JBL Headphones for up to 53% Off](https://lifehacker.com/you-can-get-these-jbl-headphones-for-up-to-53-off-1850939457)
-- [Dev.to/JS] [Beirut Escorts Is Offering Only the Best Services](https://dev.to/samantha2024/beirut-escorts-is-offering-only-the-best-services-431f)
-- [Dev.to/JS] [How Can I find Trustworthy Istanbul Escorts in Turkey?](https://dev.to/samantha2024/how-can-i-find-trustworthy-istanbul-escorts-in-turkey-1458)
 - [Lifehacker] [Use the ‘OHIO’ Method to Manage Endless Tasks and Messages](https://lifehacker.com/use-the-ohio-method-to-manage-endless-tasks-and-messa-1850937350)
-- [Dev.to/JS] [🚀 10 books to achieve Javascript mastery 👨‍💻](https://dev.to/novu/10-books-to-achieve-javascript-mastery-3dbj)
 - [Lifehacker] [How to Keep Potted Herbs Alive Inside All Winter](https://lifehacker.com/how-to-keep-potted-herbs-alive-inside-all-winter-1850936375)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 19, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Smart Pet Feeder and Video Camera Is $100 Right Now](https://lifehacker.com/this-smart-pet-feeder-and-video-camera-is-100-right-no-1850931294)
 - [Lifehacker] [You Can Sign Up for TSA Precheck at Staples](https://lifehacker.com/where-to-sign-up-for-tsa-precheck-1850937513)
 - [Lifehacker] [How to Buy the Best Thanksgiving Turkey](https://lifehacker.com/how-to-buy-the-best-thanksgivign-turkey-1849728686)
-- [Lifehacker] [This Gemelli Pizza Oven Is $200 Off Right Now](https://lifehacker.com/this-gemelli-pizza-oven-is-200-off-right-now-1850931455)
-- [Lifehacker] [The Two Things You Need in a Coffee Shop to Actually Get Work Done](https://lifehacker.com/the-two-things-you-need-in-a-coffee-shop-to-actually-ge-1850937465)
-- [Lifehacker] [Why You Shouldn&#39;t Put Your Address on Your Resume](https://lifehacker.com/stop-putting-your-address-on-your-resume-1849899579)
-- [Lifehacker] [Don&#39;t Make These Mistakes With Your Roth IRA](https://lifehacker.com/common-roth-ira-mistakes-1850935007)
-- [Lifehacker] [This Eufy Security Floodlight Camera Is 55% Off](https://lifehacker.com/this-eufy-security-floodlight-camera-is-55-off-1850937543)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Gemelli Pizza Oven Is $200 Off Right Now](https://lifehacker.com/this-gemelli-pizza-oven-is-200-off-right-now-1850931455)<!-- TECH-POSTS:END -->
 
 ---
 
