@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js Event Loop: A Deep Dive](https://dev.to/tannu28_/nodejs-event-loop-a-deep-dive-3ieb)
+- [Dev.to/JS] [Styling React Components with Styled-Components: A Comprehensive Guide](https://dev.to/rowsanali/styling-react-components-with-styled-components-a-comprehensive-guide-5gh1)
+- [Lifehacker] [These Are the Cheapest Houses You Can Build](https://lifehacker.com/these-are-the-cheapest-houses-you-can-build-1850945371)
+- [Dev.to/JS] [Declarative Loop Control Flow in Angular 17](https://dev.to/this-is-angular/declarative-loop-control-flow-in-angular-17-97d)
+- [Lifehacker] [Make a Better PSL With Pumpkin Butter](https://lifehacker.com/make-a-better-psl-with-pumpkin-butter-1850945774)
 - [Dev.to/JS] [Cracking JS Hexagons 🔍🤔](https://dev.to/vipert/cracking-js-hexagons-fle)
 - [Dev.to/JS] [Building a Full Stack Application with Ruby on Rails and React within the MVC Architecture](https://dev.to/minchulan/building-a-full-stack-mvc-application-with-ruby-on-rails-and-react-4n9n)
 - [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)
@@ -36,17 +41,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell What Kind of Procrastinator You Are &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-stop-procrastinating-1850945168)
 - [Dev.to/JS] [Working with Cookies in JavaScript🍪](https://dev.to/iarchitsharma/working-with-cookies-in-javascript-12ea)
 - [Dev.to/JS] [How to Send Parallel API Calls in Angular](https://dev.to/mariazayed/how-to-send-parallel-api-calls-in-angular-kp8)
-- [Lifehacker] [What to Expect This Black Friday](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
 - [Dev.to/JS] [Vantage Point - Combining the imperative and the declerative](https://dev.to/ibrahimtanyalcin/vantage-point-combining-the-imperative-and-the-declerative-4fdk)
 - [Lifehacker] [How to Spot Financial Infidelity &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-financial-infidelity-and-what-to-do-about-1850937367)
 - [Dev.to/JS] [What to use instead of `@ember/string`](https://dev.to/nullvoxpopuli/what-to-use-instead-of-emberstring-34mo)
 - [Lifehacker] [Where to Stream the North Carolina Vs. Virginia Game](https://lifehacker.com/where-to-stream-the-north-carolina-vs-virginia-game-1850945079)
 - [Lifehacker] [Nine Free Apps That Will Change Your Life, According to Reddit](https://lifehacker.com/the-best-free-apps-that-will-change-your-life-accordin-1850944947)
 - [Dev.to/JS] [Context leaking in EmberJS tests](https://dev.to/michalbryxi/context-leaking-in-emberjs-tests-52nm)
-- [Dev.to/JS] [Introduction to typescript](https://dev.to/shyynux/introduction-to-typescript-303o)
 - [Lifehacker] [The 30 Best Animated Movies You Can Stream Right Now](https://lifehacker.com/best-animated-movies-on-streaming-1850942505)
-- [Dev.to/JS] [Maximizing Performance: How to Memoize Async Functions in JavaScript](https://dev.to/devsmitra/maximizing-performance-how-to-memoize-async-functions-in-javascript-4on8)
-- [Dev.to/JS] [Integrando o Google Maps com Next.js usando @googlemaps/google-maps-services-js e @googlemaps/js-api-loader](https://dev.to/devdoido/integrando-o-google-maps-com-nextjs-usando-googlemapsgoogle-maps-services-js-e-googlemapsjs-api-loader-21c5)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for $150 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-150-1850935747)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do It for the Plot](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-it-for-1850944099)
 - [Lifehacker] [Make Spooky Halloween ‘Mummy Fingers’ in Your Air Fryer](https://lifehacker.com/make-spooky-halloween-mummy-fingers-in-your-air-fryer-1850943021)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Block Someone From Appearing in Your iPhone Photo ‘Memories’](https://lifehacker.com/how-to-block-someone-from-appearing-in-your-iphone-phot-1850941624)
 - [Lifehacker] [How Much Turkey Do You Actually Need to Buy for Thanksgiving?](https://lifehacker.com/how-much-food-do-you-actually-need-for-thanksgiving-1848068486)
 - [Lifehacker] [Pop-Tarts Are the New Toast](https://lifehacker.com/pop-tarts-are-the-new-toast-1850941409)
-- [Lifehacker] [How to Hide Someone in Your Google Photos &#39;Memories&#39;](https://lifehacker.com/how-to-hide-someone-in-your-google-photos-memories-1850941408)
-- [Lifehacker] [This Key on Your Mac Is Full of Hidden Shortcuts](https://lifehacker.com/this-key-on-your-mac-is-full-of-hidden-shortcuts-1850941307)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Hide Someone in Your Google Photos &#39;Memories&#39;](https://lifehacker.com/how-to-hide-someone-in-your-google-photos-memories-1850941408)<!-- TECH-POSTS:END -->
 
 ---
 
