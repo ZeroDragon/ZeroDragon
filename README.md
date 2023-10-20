@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploration of a Modular Web Architecture: Embedding Admin Container](https://dev.to/opensourcee/exploration-of-a-modular-web-architecture-embedding-admin-container-m22)
+- [Dev.to/JS] [Nemanex - Inhaltsstoffe Preis, Ergebnisse, Vorteile &amp; Wo zu kaufen?](https://dev.to/pdsakvhda/nemanex-inhaltsstoffe-preis-ergebnisse-vorteile-wo-zu-kaufen-3l7a)
+- [Dev.to/JS] [FrontEnd in Depth](https://dev.to/devgancode/frontend-in-depth-28jh)
+- [Dev.to/JS] [Hacktoberfest Machine Learning Projects for JS/TS Developers 🎃](https://dev.to/markusstoll/hacktoberfest-machine-learning-projects-for-jsts-developers-58cb)
+- [Dev.to/JS] [JavaScript Magic Tricks: try &amp; catch encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-try-catch-encryption-4ko0)
 - [Dev.to/JS] [Learn software engineering at your own pace. My story.](https://dev.to/tony-fang/learn-software-engineering-at-your-own-pace-my-story-3ako)
 - [Dev.to/JS] [High Order Component](https://dev.to/zeeshanali0704/high-order-component-2dnm)
 - [Dev.to/JS] [🚀 API Maker - Git Integration](https://dev.to/apimaker/api-maker-git-integration-222p)
@@ -34,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Starlight: 10 Minute Docs Audit](https://dev.to/documentwrites/starlight-10-minute-docs-audit-4meb)
 - [Dev.to/JS] [GitHub Copilot code security: XSS in React](https://dev.to/snyk/github-copilot-code-security-xss-in-react-5124)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
-- [Dev.to/JS] [JavaScript&#39;e Giriş](https://dev.to/eminaltan/javascripte-giris-39fc)
-- [Dev.to/JS] [3 Things You Need to Know About JavaScript Functions](https://dev.to/tranmatt/3-things-you-need-to-know-about-javascript-functions-4ac)
-- [Dev.to/JS] [I am trying to understand what are transducers - part 2](https://dev.to/artydev/i-am-trying-to-understand-what-are-transducers-part-2-2na0)
-- [Dev.to/JS] [Who can help me for a interview preparation?](https://dev.to/harbinr1/who-can-help-me-for-a-interview-preparation-4epj)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
-- [Dev.to/JS] [Don’t do it on Frontend or... Frontend good practices for devs](https://dev.to/lucasm/frontend-best-practices-guide-or-dont-do-it-on-frontend-32n4)
 - [Lifehacker] [Here Are Best Buy&#39;s Black Friday Calendar and Price-Match Rules](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [How to Travel With Someone Who Sucks](https://lifehacker.com/how-to-travel-with-someone-who-sucks-1850937387)
 - [Lifehacker] [How to Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
