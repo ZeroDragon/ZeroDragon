@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Magic of Event Listeners](https://dev.to/devincb93/the-magic-of-event-listeners-52lf)
+- [Dev.to/JS] [Starlight: 10 Minute Docs Audit](https://dev.to/documentwrites/starlight-10-minute-docs-audit-4meb)
 - [Dev.to/JS] [GitHub Copilot code security: XSS in React](https://dev.to/snyk/github-copilot-code-security-xss-in-react-5124)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Dev.to/JS] [JavaScript&#39;e Giriş](https://dev.to/eminaltan/javascripte-giris-39fc)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fitbit Charge 6 Integrates More of the Google Ecosystem](https://lifehacker.com/fitbit-charge-6-review-1850941537)
 - [Dev.to/JS] [Guia para Instalar o Bootstrap em um Aplicativo React](https://dev.to/rodrigozan/guia-para-instalar-o-bootstrap-em-um-aplicativo-react-36b)
 - [Dev.to/JS] [How create a recursive function using Javascript](https://dev.to/thehuferr/how-create-a-recursive-function-using-javascript-1e9o)
-- [Dev.to/JS] [Ways to Set Default Values in JavaScript](https://dev.to/speaklouder/ways-to-set-default-values-in-javascript-3n79)
 - [Lifehacker] [The Best Laptops for Students](https://lifehacker.com/best-laptops-for-kids-1850940357)
-- [Dev.to/JS] [Mastering React Query&#39;s useQuery for Data Fetching](https://dev.to/naweli_verma/mastering-react-querys-usequery-for-data-fetching-olf)
 - [Lifehacker] [You Can Stop Instagram From Tracking You Across Other Sites and Apps](https://lifehacker.com/you-can-stop-instagram-from-tracking-you-across-other-s-1850941462)
 - [Lifehacker] [Here’s How Much You Can Make Renting Out Your Driveway](https://lifehacker.com/here-s-how-much-you-can-make-renting-out-your-driveway-1850941525)
 - [Lifehacker] [How to Block Someone From Appearing in Your iPhone Photo ‘Memories’](https://lifehacker.com/how-to-block-someone-from-appearing-in-your-iphone-phot-1850941624)
