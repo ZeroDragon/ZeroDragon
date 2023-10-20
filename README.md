@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
+- [Dev.to/JS] [JavaScript&#39;e Giriş](https://dev.to/eminaltan/javascripte-giris-39fc)
 - [Dev.to/JS] [3 Things You Need to Know About JavaScript Functions](https://dev.to/tranmatt/3-things-you-need-to-know-about-javascript-functions-4ac)
-- [Dev.to/JS] [Day 11: #100DaysOfCode - Built a Balance Sheet](https://dev.to/duke09/day-11-100daysofcode-built-a-balance-sheet-2lac)
+- [Dev.to/JS] [I am trying to understand what are transducers - part 2](https://dev.to/artydev/i-am-trying-to-understand-what-are-transducers-part-2-2na0)
 - [Dev.to/JS] [Who can help me for a interview preparation?](https://dev.to/harbinr1/who-can-help-me-for-a-interview-preparation-4epj)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
@@ -46,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Stop Instagram From Tracking You Across Other Sites and Apps](https://lifehacker.com/you-can-stop-instagram-from-tracking-you-across-other-s-1850941462)
 - [Dev.to/JS] [Alterando uma lib Node de forma rápida](https://dev.to/itsmicaio/alterando-uma-lib-node-de-forma-rapida-41p6)
 - [Lifehacker] [Here’s How Much You Can Make Renting Out Your Driveway](https://lifehacker.com/here-s-how-much-you-can-make-renting-out-your-driveway-1850941525)
-- [Dev.to/JS] [How to properly destroy a Daily video call instance](https://dev.to/trydaily/how-to-properly-destroy-a-daily-video-call-instance-54ec)
 - [Lifehacker] [How to Block Someone From Appearing in Your iPhone Photo ‘Memories’](https://lifehacker.com/how-to-block-someone-from-appearing-in-your-iphone-phot-1850941624)
 - [Lifehacker] [How Much Turkey Do You Actually Need to Buy for Thanksgiving?](https://lifehacker.com/how-much-food-do-you-actually-need-for-thanksgiving-1848068486)
 - [Lifehacker] [Pop-Tarts Are the New Toast](https://lifehacker.com/pop-tarts-are-the-new-toast-1850941409)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
 - [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
 - [Lifehacker] [Make This Easy, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
-- [Lifehacker] [When to Use a Robo-Advisor &lpar;and When to Avoid Them&rpar;](https://lifehacker.com/when-to-use-a-robo-advisor-and-when-to-avoid-them-1850937460)
-- [Lifehacker] [This Oraimo Cordless Stick Vacuum Sucks &lpar;in a Good Way&rpar;](https://lifehacker.com/oraimo-osv-225a-cordless-stick-vacuum-review-1850895582)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Use a Robo-Advisor &lpar;and When to Avoid Them&rpar;](https://lifehacker.com/when-to-use-a-robo-advisor-and-when-to-avoid-them-1850937460)<!-- TECH-POSTS:END -->
 
 ---
 
