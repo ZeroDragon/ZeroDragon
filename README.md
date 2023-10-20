@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript Promises🔥| all, allSettled, race, any](https://dev.to/anjankarmakar/mastering-javascript-promises-all-allsettled-race-any-2b1d)
 - [Dev.to/JS] [The Magic of Event Listeners](https://dev.to/devincb93/the-magic-of-event-listeners-52lf)
 - [Dev.to/JS] [Starlight: 10 Minute Docs Audit](https://dev.to/documentwrites/starlight-10-minute-docs-audit-4meb)
 - [Dev.to/JS] [GitHub Copilot code security: XSS in React](https://dev.to/snyk/github-copilot-code-security-xss-in-react-5124)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
 - [Lifehacker] [The Fitbit Charge 6 Integrates More of the Google Ecosystem](https://lifehacker.com/fitbit-charge-6-review-1850941537)
 - [Dev.to/JS] [Guia para Instalar o Bootstrap em um Aplicativo React](https://dev.to/rodrigozan/guia-para-instalar-o-bootstrap-em-um-aplicativo-react-36b)
-- [Dev.to/JS] [How create a recursive function using Javascript](https://dev.to/thehuferr/how-create-a-recursive-function-using-javascript-1e9o)
 - [Lifehacker] [The Best Laptops for Students](https://lifehacker.com/best-laptops-for-kids-1850940357)
 - [Lifehacker] [You Can Stop Instagram From Tracking You Across Other Sites and Apps](https://lifehacker.com/you-can-stop-instagram-from-tracking-you-across-other-s-1850941462)
 - [Lifehacker] [Here’s How Much You Can Make Renting Out Your Driveway](https://lifehacker.com/here-s-how-much-you-can-make-renting-out-your-driveway-1850941525)
