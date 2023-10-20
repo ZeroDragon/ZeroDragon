@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript String Methods](https://dev.to/tanmaycode/javascript-string-methods-3h48)
 - [Dev.to/JS] [Exploration of a Modular Web Architecture: Embedding Admin Container](https://dev.to/opensourcee/exploration-of-a-modular-web-architecture-embedding-admin-container-m22)
 - [Dev.to/JS] [Nemanex - Inhaltsstoffe Preis, Ergebnisse, Vorteile &amp; Wo zu kaufen?](https://dev.to/pdsakvhda/nemanex-inhaltsstoffe-preis-ergebnisse-vorteile-wo-zu-kaufen-3l7a)
 - [Dev.to/JS] [FrontEnd in Depth](https://dev.to/devgancode/frontend-in-depth-28jh)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering JavaScript Promises🔥| all, allSettled, race, any](https://dev.to/anjankarmakar/mastering-javascript-promises-all-allsettled-race-any-2b1d)
 - [Dev.to/JS] [The Magic of Event Listeners](https://dev.to/devincb93/the-magic-of-event-listeners-52lf)
 - [Dev.to/JS] [Starlight: 10 Minute Docs Audit](https://dev.to/documentwrites/starlight-10-minute-docs-audit-4meb)
-- [Dev.to/JS] [GitHub Copilot code security: XSS in React](https://dev.to/snyk/github-copilot-code-security-xss-in-react-5124)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
