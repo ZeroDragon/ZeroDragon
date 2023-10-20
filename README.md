@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Authentication and Authorization in Node.js: Safeguarding Your Application](https://dev.to/saint_vandora/authentication-and-authorization-in-nodejs-safeguarding-your-application-3l2f)
+- [Dev.to/JS] [JavaScript&#39;e Giriş](https://dev.to/eminaltan/javascripte-giris-40kd)
+- [Dev.to/JS] [How do I send a video in Python API](https://dev.to/johnmerry/how-do-i-send-a-video-in-python-api-5d6n)
+- [Dev.to/JS] [Introduction to Immer.js](https://dev.to/matek075/introduction-to-immerjs-mae)
 - [Dev.to/JS] [RSA Encryption Decryption](https://dev.to/silvenleaf/rsa-encryption-decryption-1bm8)
 - [Dev.to/JS] [Flexible Ansible Playbook scanning with Steampunk Spotter](https://dev.to/xlab_steampunk/flexible-ansible-playbook-scanning-with-steampunk-spotter-2gil)
 - [Dev.to/JS] [GLASS CARD EFFECT](https://dev.to/chikucoder/glass-card-effect-33kj)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the difference between a React Library and a React Plugin?](https://dev.to/opensourcee/what-is-the-difference-between-a-react-library-and-a-react-plugin-3e9o)
 - [Dev.to/JS] [What is the difference between a React Component and a React Plugin?](https://dev.to/opensourcee/what-is-the-difference-between-a-react-component-and-a-react-plugin-2e1g)
 - [Dev.to/JS] [🐋 How to use the Docker Exec command?](https://dev.to/refine/how-to-use-the-docker-exec-command-46e9)
-- [Dev.to/JS] [JavaScript String Methods](https://dev.to/tanmaycode/javascript-string-methods-3h48)
-- [Dev.to/JS] [Exploration of a Modular Web Architecture: Embedding Admin Container](https://dev.to/opensourcee/exploration-of-a-modular-web-architecture-embedding-admin-container-m22)
-- [Dev.to/JS] [Nemanex - Inhaltsstoffe Preis, Ergebnisse, Vorteile &amp; Wo zu kaufen?](https://dev.to/pdsakvhda/nemanex-inhaltsstoffe-preis-ergebnisse-vorteile-wo-zu-kaufen-3l7a)
-- [Dev.to/JS] [FrontEnd in Depth](https://dev.to/devgancode/frontend-in-depth-28jh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
