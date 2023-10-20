@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Nine Free Apps That Will Change Your Life, According to Reddit](https://lifehacker.com/the-best-free-apps-that-will-change-your-life-accordin-1850944947)
+- [Dev.to/JS] [Context leaking in EmberJS tests](https://dev.to/michalbryxi/context-leaking-in-emberjs-tests-52nm)
+- [Dev.to/JS] [Introduction to typescript](https://dev.to/shyynux/introduction-to-typescript-303o)
+- [Lifehacker] [The 30 Best Animated Movies You Can Stream Right Now](https://lifehacker.com/best-animated-movies-on-streaming-1850942505)
 - [Dev.to/JS] [Maximizing Performance: How to Memoize Async Functions in JavaScript](https://dev.to/devsmitra/maximizing-performance-how-to-memoize-async-functions-in-javascript-4on8)
 - [Dev.to/JS] [Integrando o Google Maps com Next.js usando @googlemaps/google-maps-services-js e @googlemaps/js-api-loader](https://dev.to/devdoido/integrando-o-google-maps-com-nextjs-usando-googlemapsgoogle-maps-services-js-e-googlemapsjs-api-loader-21c5)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for $150 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-150-1850935747)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authentication and Authorization in Node.js: Safeguarding Your Application](https://dev.to/saint_vandora/authentication-and-authorization-in-nodejs-safeguarding-your-application-3l2f)
 - [Dev.to/JS] [How do I send a video in Python API](https://dev.to/johnmerry/how-do-i-send-a-video-in-python-api-5d6n)
 - [Dev.to/JS] [Introduction to Immer.js](https://dev.to/matek075/introduction-to-immerjs-mae)
-- [Dev.to/JS] [RSA Encryption Decryption](https://dev.to/silvenleaf/rsa-encryption-decryption-1bm8)
-- [Dev.to/JS] [Flexible Ansible Playbook scanning with Steampunk Spotter](https://dev.to/xlab_steampunk/flexible-ansible-playbook-scanning-with-steampunk-spotter-2gil)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Biophilic Design’ Is the New Home Decor Trend](https://lifehacker.com/biophilic-design-is-the-new-home-decor-trend-1850939348)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Bigfoot Sighting in Colorado](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-bigfoot-si-1850939927)
 - [Lifehacker] [You Can Get These JBL Headphones for up to 53% Off](https://lifehacker.com/you-can-get-these-jbl-headphones-for-up-to-53-off-1850939457)
-- [Lifehacker] [Use the ‘OHIO’ Method to Manage Endless Tasks and Messages](https://lifehacker.com/use-the-ohio-method-to-manage-endless-tasks-and-messa-1850937350)
-- [Lifehacker] [How to Keep Potted Herbs Alive Inside All Winter](https://lifehacker.com/how-to-keep-potted-herbs-alive-inside-all-winter-1850936375)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 19, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the ‘OHIO’ Method to Manage Endless Tasks and Messages](https://lifehacker.com/use-the-ohio-method-to-manage-endless-tasks-and-messa-1850937350)<!-- TECH-POSTS:END -->
 
 ---
 
