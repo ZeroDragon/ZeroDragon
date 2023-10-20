@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn software engineering at your own pace. My story.](https://dev.to/tony-fang/learn-software-engineering-at-your-own-pace-my-story-3ako)
+- [Dev.to/JS] [High Order Component](https://dev.to/zeeshanali0704/high-order-component-2dnm)
+- [Dev.to/JS] [🚀 API Maker - Git Integration](https://dev.to/apimaker/api-maker-git-integration-222p)
 - [Dev.to/JS] [Mastering JavaScript Promises🔥| all, allSettled, race, any](https://dev.to/anjankarmakar/mastering-javascript-promises-all-allsettled-race-any-2b1d)
 - [Dev.to/JS] [The Magic of Event Listeners](https://dev.to/devincb93/the-magic-of-event-listeners-52lf)
 - [Dev.to/JS] [Starlight: 10 Minute Docs Audit](https://dev.to/documentwrites/starlight-10-minute-docs-audit-4meb)
@@ -38,13 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
 - [Dev.to/JS] [Don’t do it on Frontend or... Frontend good practices for devs](https://dev.to/lucasm/frontend-best-practices-guide-or-dont-do-it-on-frontend-32n4)
-- [Dev.to/JS] [Cross-site Scripting and how to fix it](https://dev.to/powdree123/cross-site-scripting-and-how-to-fix-it-56hm)
 - [Lifehacker] [Here Are Best Buy&#39;s Black Friday Calendar and Price-Match Rules](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [How to Travel With Someone Who Sucks](https://lifehacker.com/how-to-travel-with-someone-who-sucks-1850937387)
-- [Dev.to/JS] [What do front-end developers think of no-code DataViz tools?](https://dev.to/dkkent/what-do-front-end-developers-think-of-no-code-dataviz-tools-1npj)
 - [Lifehacker] [How to Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
 - [Lifehacker] [The Fitbit Charge 6 Integrates More of the Google Ecosystem](https://lifehacker.com/fitbit-charge-6-review-1850941537)
-- [Dev.to/JS] [Guia para Instalar o Bootstrap em um Aplicativo React](https://dev.to/rodrigozan/guia-para-instalar-o-bootstrap-em-um-aplicativo-react-36b)
 - [Lifehacker] [The Best Laptops for Students](https://lifehacker.com/best-laptops-for-kids-1850940357)
 - [Lifehacker] [You Can Stop Instagram From Tracking You Across Other Sites and Apps](https://lifehacker.com/you-can-stop-instagram-from-tracking-you-across-other-s-1850941462)
 - [Lifehacker] [Here’s How Much You Can Make Renting Out Your Driveway](https://lifehacker.com/here-s-how-much-you-can-make-renting-out-your-driveway-1850941525)
