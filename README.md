@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the difference between web browser extensions and React Plugins?](https://dev.to/opensourcee/what-is-the-difference-between-web-browser-extensions-and-react-plugins-16n7)
+- [Dev.to/JS] [What is the difference between a React Library and a React Plugin?](https://dev.to/opensourcee/what-is-the-difference-between-a-react-library-and-a-react-plugin-3e9o)
+- [Dev.to/JS] [What is the difference between a React Component and a React Plugin?](https://dev.to/opensourcee/what-is-the-difference-between-a-react-component-and-a-react-plugin-2e1g)
+- [Dev.to/JS] [🐋 How to use the Docker Exec command?](https://dev.to/refine/how-to-use-the-docker-exec-command-46e9)
 - [Dev.to/JS] [JavaScript String Methods](https://dev.to/tanmaycode/javascript-string-methods-3h48)
 - [Dev.to/JS] [Exploration of a Modular Web Architecture: Embedding Admin Container](https://dev.to/opensourcee/exploration-of-a-modular-web-architecture-embedding-admin-container-m22)
 - [Dev.to/JS] [Nemanex - Inhaltsstoffe Preis, Ergebnisse, Vorteile &amp; Wo zu kaufen?](https://dev.to/pdsakvhda/nemanex-inhaltsstoffe-preis-ergebnisse-vorteile-wo-zu-kaufen-3l7a)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Magic Tricks: try &amp; catch encryption](https://dev.to/__28f08df2bb06aae67f97/javascript-magic-tricks-try-catch-encryption-4ko0)
 - [Dev.to/JS] [Learn software engineering at your own pace. My story.](https://dev.to/tony-fang/learn-software-engineering-at-your-own-pace-my-story-3ako)
 - [Dev.to/JS] [High Order Component](https://dev.to/zeeshanali0704/high-order-component-2dnm)
-- [Dev.to/JS] [🚀 API Maker - Git Integration](https://dev.to/apimaker/api-maker-git-integration-222p)
-- [Dev.to/JS] [Mastering JavaScript Promises🔥| all, allSettled, race, any](https://dev.to/anjankarmakar/mastering-javascript-promises-all-allsettled-race-any-2b1d)
-- [Dev.to/JS] [The Magic of Event Listeners](https://dev.to/devincb93/the-magic-of-event-listeners-52lf)
-- [Dev.to/JS] [Starlight: 10 Minute Docs Audit](https://dev.to/documentwrites/starlight-10-minute-docs-audit-4meb)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
