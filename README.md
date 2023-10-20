@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Maximizing Performance: How to Memoize Async Functions in JavaScript](https://dev.to/devsmitra/maximizing-performance-how-to-memoize-async-functions-in-javascript-4on8)
+- [Dev.to/JS] [Integrando o Google Maps com Next.js usando @googlemaps/google-maps-services-js e @googlemaps/js-api-loader](https://dev.to/devdoido/integrando-o-google-maps-com-nextjs-usando-googlemapsgoogle-maps-services-js-e-googlemapsjs-api-loader-21c5)
+- [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for $150 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-150-1850935747)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do It for the Plot](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-it-for-1850944099)
 - [Dev.to/JS] [The power of reduce : Counting letters frequencies.](https://dev.to/artydev/the-power-of-reduce-counting-letters-frequencies-187g)
 - [Dev.to/JS] [Using Flexbox for Efficient Frontend Layouts](https://dev.to/rowsanali/using-flexbox-for-efficient-frontend-layouts-2531)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Immer.js](https://dev.to/matek075/introduction-to-immerjs-mae)
 - [Dev.to/JS] [RSA Encryption Decryption](https://dev.to/silvenleaf/rsa-encryption-decryption-1bm8)
 - [Dev.to/JS] [Flexible Ansible Playbook scanning with Steampunk Spotter](https://dev.to/xlab_steampunk/flexible-ansible-playbook-scanning-with-steampunk-spotter-2gil)
-- [Dev.to/JS] [GLASS CARD EFFECT](https://dev.to/chikucoder/glass-card-effect-33kj)
-- [Dev.to/JS] [5 JavaScript Project Ideas Beyond TODO Apps.](https://dev.to/swastikyadav/5-javascript-project-ideas-beyond-todo-apps-h9h)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get These JBL Headphones for up to 53% Off](https://lifehacker.com/you-can-get-these-jbl-headphones-for-up-to-53-off-1850939457)
 - [Lifehacker] [Use the ‘OHIO’ Method to Manage Endless Tasks and Messages](https://lifehacker.com/use-the-ohio-method-to-manage-endless-tasks-and-messa-1850937350)
 - [Lifehacker] [How to Keep Potted Herbs Alive Inside All Winter](https://lifehacker.com/how-to-keep-potted-herbs-alive-inside-all-winter-1850936375)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 19, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
-- [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 19, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)<!-- TECH-POSTS:END -->
 
 ---
 
