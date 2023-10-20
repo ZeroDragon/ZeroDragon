@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Managing Your Money Abroad: Automating Expense Tracking With Receipt Recognition](https://dev.to/kwan/managing-your-money-abroad-automating-expense-tracking-with-receipt-recognition-1meg)
 - [Dev.to/JS] [Authentication and Authorization in Node.js: Safeguarding Your Application](https://dev.to/saint_vandora/authentication-and-authorization-in-nodejs-safeguarding-your-application-3l2f)
 - [Dev.to/JS] [JavaScript&#39;e Giriş](https://dev.to/eminaltan/javascripte-giris-40kd)
 - [Dev.to/JS] [How do I send a video in Python API](https://dev.to/johnmerry/how-do-i-send-a-video-in-python-api-5d6n)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the difference between web browser extensions and React Plugins?](https://dev.to/opensourcee/what-is-the-difference-between-web-browser-extensions-and-react-plugins-16n7)
 - [Dev.to/JS] [What is the difference between a React Library and a React Plugin?](https://dev.to/opensourcee/what-is-the-difference-between-a-react-library-and-a-react-plugin-3e9o)
 - [Dev.to/JS] [What is the difference between a React Component and a React Plugin?](https://dev.to/opensourcee/what-is-the-difference-between-a-react-component-and-a-react-plugin-2e1g)
-- [Dev.to/JS] [🐋 How to use the Docker Exec command?](https://dev.to/refine/how-to-use-the-docker-exec-command-46e9)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
