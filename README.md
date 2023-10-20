@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Top 10 Reusable Components in React](https://dev.to/mrnz/the-top-10-reusable-components-in-react-ed3)
+- [Dev.to/JS] [CSV files with Node and PapaParse: The Complete Guide](https://dev.to/alakkadshaw/csv-files-with-node-and-papaparse-the-complete-guide-13h1)
 - [Dev.to/JS] [Amazon KDP for beginners.](https://dev.to/fisayomi/amazon-kdp-for-beginners-333l)
 - [Lifehacker] [8 Ways to Have Fun With a Soft Penis](https://lifehacker.com/8-ways-to-have-fun-with-a-soft-penis-1850945425)
 - [Lifehacker] [The Best Way to Insulate Your Soil Now so You Can Plant Earlier in the Spring](https://lifehacker.com/the-best-way-to-insulate-your-soil-now-so-you-can-plant-1850946315)
@@ -49,8 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Patch Pulse: Devlog #1 - Get notified when new packages are released](https://dev.to/barrymichaeldoyle/patch-pulse-devlog-1-get-notified-when-new-packages-are-released-5c42)
 - [Dev.to/JS] [Create a Chrome Extension with React FW Plasmo](https://dev.to/ky6yk/create-a-chrome-extension-with-react-fw-plasmo-4adf)
 - [Lifehacker] [How to Tell What Kind of Procrastinator You Are &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-stop-procrastinating-1850945168)
-- [Dev.to/JS] [Working with Cookies in JavaScript🍪](https://dev.to/iarchitsharma/working-with-cookies-in-javascript-12ea)
-- [Dev.to/JS] [How to Send Parallel API Calls in Angular](https://dev.to/mariazayed/how-to-send-parallel-api-calls-in-angular-kp8)
 - [Lifehacker] [How to Spot Financial Infidelity &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-financial-infidelity-and-what-to-do-about-1850937367)
 - [Lifehacker] [Where to Stream the North Carolina Vs. Virginia Game](https://lifehacker.com/where-to-stream-the-north-carolina-vs-virginia-game-1850945079)
 - [Lifehacker] [Nine Free Apps That Will Change Your Life, According to Reddit](https://lifehacker.com/the-best-free-apps-that-will-change-your-life-accordin-1850944947)
