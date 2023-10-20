@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 Things You Need to Know About JavaScript Functions](https://dev.to/tranmatt/3-things-you-need-to-know-about-javascript-functions-4ac)
 - [Dev.to/JS] [Day 11: #100DaysOfCode - Built a Balance Sheet](https://dev.to/duke09/day-11-100daysofcode-built-a-balance-sheet-2lac)
 - [Dev.to/JS] [Who can help me for a interview preparation?](https://dev.to/harbinr1/who-can-help-me-for-a-interview-preparation-4epj)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to properly destroy a Daily video call instance](https://dev.to/trydaily/how-to-properly-destroy-a-daily-video-call-instance-54ec)
 - [Lifehacker] [How to Block Someone From Appearing in Your iPhone Photo ‘Memories’](https://lifehacker.com/how-to-block-someone-from-appearing-in-your-iphone-phot-1850941624)
 - [Lifehacker] [How Much Turkey Do You Actually Need to Buy for Thanksgiving?](https://lifehacker.com/how-much-food-do-you-actually-need-for-thanksgiving-1848068486)
-- [Dev.to/JS] [The Evolution of Enterprise-Grade Low-Code Development](https://dev.to/laradissouza99/the-evolution-of-enterprise-grade-low-code-development-4ggc)
 - [Lifehacker] [Pop-Tarts Are the New Toast](https://lifehacker.com/pop-tarts-are-the-new-toast-1850941409)
 - [Lifehacker] [How to Hide Someone in Your Google Photos &#39;Memories&#39;](https://lifehacker.com/how-to-hide-someone-in-your-google-photos-memories-1850941408)
 - [Lifehacker] [This Key on Your Mac Is Full of Hidden Shortcuts](https://lifehacker.com/this-key-on-your-mac-is-full-of-hidden-shortcuts-1850941307)
