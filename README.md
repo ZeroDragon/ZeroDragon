@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript&#39;e Giriş](https://dev.to/eminaltan/javascripte-giris-3dam)
+- [Lifehacker] [Your Kids Are Absolutely Dumb Enough to Eat Magnets](https://lifehacker.com/your-kids-are-absolutely-dumb-enough-to-eat-magnets-1850945370)
 - [Lifehacker] [How to Tell a Fake Rolex From a Real One in 2023](https://lifehacker.com/how-to-spot-a-fake-rolex-1850946148)
 - [Dev.to/JS] [Going real time with donation alerts](https://dev.to/alertpix/going-real-time-with-donation-alerts-92n)
 - [Lifehacker] [Meredith&#39;s Training Diaries: Surviving the Dreaded Taper](https://lifehacker.com/how-to-survive-the-marathon-taper-1850945224)
+- [Lifehacker] [You Can Totally Make Fried Eggs in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)
 - [Lifehacker] [Everything You Should Do Now If You Shop on Black Friday](https://lifehacker.com/everything-you-should-do-now-if-you-shop-on-black-frida-1850945998)
 - [Dev.to/JS] [Node.js Event Loop: A Deep Dive](https://dev.to/tannu28_/nodejs-event-loop-a-deep-dive-3ieb)
 - [Dev.to/JS] [Styling React Components with Styled-Components: A Comprehensive Guide](https://dev.to/rowsanali/styling-react-components-with-styled-components-a-comprehensive-guide-5gh1)
@@ -47,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Send Parallel API Calls in Angular](https://dev.to/mariazayed/how-to-send-parallel-api-calls-in-angular-kp8)
 - [Dev.to/JS] [Vantage Point - Combining the imperative and the declerative](https://dev.to/ibrahimtanyalcin/vantage-point-combining-the-imperative-and-the-declerative-4fdk)
 - [Lifehacker] [How to Spot Financial Infidelity &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-financial-infidelity-and-what-to-do-about-1850937367)
-- [Dev.to/JS] [What to use instead of `@ember/string`](https://dev.to/nullvoxpopuli/what-to-use-instead-of-emberstring-34mo)
 - [Lifehacker] [Where to Stream the North Carolina Vs. Virginia Game](https://lifehacker.com/where-to-stream-the-north-carolina-vs-virginia-game-1850945079)
 - [Lifehacker] [Nine Free Apps That Will Change Your Life, According to Reddit](https://lifehacker.com/the-best-free-apps-that-will-change-your-life-accordin-1850944947)
 - [Lifehacker] [The 30 Best Animated Movies You Can Stream Right Now](https://lifehacker.com/best-animated-movies-on-streaming-1850942505)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
 - [Lifehacker] [The Fitbit Charge 6 Integrates More of the Google Ecosystem](https://lifehacker.com/fitbit-charge-6-review-1850941537)
 - [Lifehacker] [The Best Laptops for Students](https://lifehacker.com/best-laptops-for-kids-1850940357)
-- [Lifehacker] [You Can Stop Instagram From Tracking You Across Other Sites and Apps](https://lifehacker.com/you-can-stop-instagram-from-tracking-you-across-other-s-1850941462)
-- [Lifehacker] [Here’s How Much You Can Make Renting Out Your Driveway](https://lifehacker.com/here-s-how-much-you-can-make-renting-out-your-driveway-1850941525)
-- [Lifehacker] [How to Block Someone From Appearing in Your iPhone Photo ‘Memories’](https://lifehacker.com/how-to-block-someone-from-appearing-in-your-iphone-phot-1850941624)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Stop Instagram From Tracking You Across Other Sites and Apps](https://lifehacker.com/you-can-stop-instagram-from-tracking-you-across-other-s-1850941462)<!-- TECH-POSTS:END -->
 
 ---
 
