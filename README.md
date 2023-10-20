@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GitHub Copilot code security: XSS in React](https://dev.to/snyk/github-copilot-code-security-xss-in-react-5124)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Dev.to/JS] [JavaScript&#39;e Giriş](https://dev.to/eminaltan/javascripte-giris-39fc)
 - [Dev.to/JS] [3 Things You Need to Know About JavaScript Functions](https://dev.to/tranmatt/3-things-you-need-to-know-about-javascript-functions-4ac)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Laptops for Students](https://lifehacker.com/best-laptops-for-kids-1850940357)
 - [Dev.to/JS] [Mastering React Query&#39;s useQuery for Data Fetching](https://dev.to/naweli_verma/mastering-react-querys-usequery-for-data-fetching-olf)
 - [Lifehacker] [You Can Stop Instagram From Tracking You Across Other Sites and Apps](https://lifehacker.com/you-can-stop-instagram-from-tracking-you-across-other-s-1850941462)
-- [Dev.to/JS] [Alterando uma lib Node de forma rápida](https://dev.to/itsmicaio/alterando-uma-lib-node-de-forma-rapida-41p6)
 - [Lifehacker] [Here’s How Much You Can Make Renting Out Your Driveway](https://lifehacker.com/here-s-how-much-you-can-make-renting-out-your-driveway-1850941525)
 - [Lifehacker] [How to Block Someone From Appearing in Your iPhone Photo ‘Memories’](https://lifehacker.com/how-to-block-someone-from-appearing-in-your-iphone-phot-1850941624)
 - [Lifehacker] [How Much Turkey Do You Actually Need to Buy for Thanksgiving?](https://lifehacker.com/how-much-food-do-you-actually-need-for-thanksgiving-1848068486)
