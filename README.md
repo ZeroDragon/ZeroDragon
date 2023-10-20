@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Chrome Extension with React FW Plasmo](https://dev.to/ky6yk/create-a-chrome-extension-with-react-fw-plasmo-4adf)
+- [Lifehacker] [How to Tell What Kind of Procrastinator You Are &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-stop-procrastinating-1850945168)
+- [Dev.to/JS] [Working with Cookies in JavaScript🍪](https://dev.to/iarchitsharma/working-with-cookies-in-javascript-12ea)
+- [Dev.to/JS] [How to Send Parallel API Calls in Angular](https://dev.to/mariazayed/how-to-send-parallel-api-calls-in-angular-kp8)
 - [Dev.to/JS] [Vantage Point - Combining the imperative and the declerative](https://dev.to/ibrahimtanyalcin/vantage-point-combining-the-imperative-and-the-declerative-4fdk)
 - [Lifehacker] [How to Spot Financial Infidelity &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-financial-infidelity-and-what-to-do-about-1850937367)
 - [Dev.to/JS] [What to use instead of `@ember/string`](https://dev.to/nullvoxpopuli/what-to-use-instead-of-emberstring-34mo)
@@ -43,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Spooky Halloween ‘Mummy Fingers’ in Your Air Fryer](https://lifehacker.com/make-spooky-halloween-mummy-fingers-in-your-air-fryer-1850943021)
 - [Dev.to/JS] [Demystifying Microservices with Node.js: A Journey from Netflix&#39;s Semicolon Crisis to the Future of Software](https://dev.to/davydocsurg/demystifying-microservices-with-nodejs-a-journey-from-netflixs-semicolon-crisis-to-the-future-of-software-103e)
 - [Lifehacker] [These Are the Best Mulchers to Tackle Your Leaves This Fall](https://lifehacker.com/best-vacuum-mulchers-for-leaves-1850942354)
-- [Dev.to/JS] [Creating an Interactive Glowing Mouse Trail with HTML5 Canvas and JavaScript](https://dev.to/mawayalebo/creating-an-interactive-glowing-mouse-trail-with-html5-canvas-and-javascript-4a04)
-- [Dev.to/JS] [Managing Your Money Abroad: Automating Expense Tracking With Receipt Recognition](https://dev.to/kwan/managing-your-money-abroad-automating-expense-tracking-with-receipt-recognition-1meg)
-- [Dev.to/JS] [Authentication and Authorization in Node.js: Safeguarding Your Application](https://dev.to/saint_vandora/authentication-and-authorization-in-nodejs-safeguarding-your-application-3l2f)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
@@ -60,12 +61,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Turkey Do You Actually Need to Buy for Thanksgiving?](https://lifehacker.com/how-much-food-do-you-actually-need-for-thanksgiving-1848068486)
 - [Lifehacker] [Pop-Tarts Are the New Toast](https://lifehacker.com/pop-tarts-are-the-new-toast-1850941409)
 - [Lifehacker] [How to Hide Someone in Your Google Photos &#39;Memories&#39;](https://lifehacker.com/how-to-hide-someone-in-your-google-photos-memories-1850941408)
+- [Lifehacker] [What to Expect This Black Friday](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
 - [Lifehacker] [This Key on Your Mac Is Full of Hidden Shortcuts](https://lifehacker.com/this-key-on-your-mac-is-full-of-hidden-shortcuts-1850941307)
 - [Lifehacker] [Wait, How Much Does Netflix Cost Now?](https://lifehacker.com/wait-how-much-does-netflix-cost-now-1850655093)
 - [Lifehacker] [You Can Get Microsoft Office for $30 Right Now](https://lifehacker.com/you-can-get-microsoft-office-for-30-right-now-1850935211)
-- [Lifehacker] [You Should Waffle Some Instant Mashed Potatoes](https://lifehacker.com/instant-mashed-potato-waffles-recipe-1850939015)
-- [Lifehacker] [‘Biophilic Design’ Is the New Home Decor Trend](https://lifehacker.com/biophilic-design-is-the-new-home-decor-trend-1850939348)
-- [Lifehacker] [What People Are Getting Wrong This Week: The Bigfoot Sighting in Colorado](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-bigfoot-si-1850939927)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Waffle Some Instant Mashed Potatoes](https://lifehacker.com/instant-mashed-potato-waffles-recipe-1850939015)<!-- TECH-POSTS:END -->
 
 ---
 
