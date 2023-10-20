@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Amazon KDP for beginners.](https://dev.to/fisayomi/amazon-kdp-for-beginners-333l)
+- [Lifehacker] [8 Ways to Have Fun With a Soft Penis](https://lifehacker.com/8-ways-to-have-fun-with-a-soft-penis-1850945425)
+- [Lifehacker] [The Best Way to Insulate Your Soil Now so You Can Plant Earlier in the Spring](https://lifehacker.com/the-best-way-to-insulate-your-soil-now-so-you-can-plant-1850946315)
 - [Dev.to/JS] [JavaScript&#39;e Giriş](https://dev.to/eminaltan/javascripte-giris-3dam)
 - [Lifehacker] [Your Kids Are Absolutely Dumb Enough to Eat Magnets](https://lifehacker.com/your-kids-are-absolutely-dumb-enough-to-eat-magnets-1850945370)
 - [Lifehacker] [How to Tell a Fake Rolex From a Real One in 2023](https://lifehacker.com/how-to-spot-a-fake-rolex-1850946148)
@@ -48,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell What Kind of Procrastinator You Are &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-stop-procrastinating-1850945168)
 - [Dev.to/JS] [Working with Cookies in JavaScript🍪](https://dev.to/iarchitsharma/working-with-cookies-in-javascript-12ea)
 - [Dev.to/JS] [How to Send Parallel API Calls in Angular](https://dev.to/mariazayed/how-to-send-parallel-api-calls-in-angular-kp8)
-- [Dev.to/JS] [Vantage Point - Combining the imperative and the declerative](https://dev.to/ibrahimtanyalcin/vantage-point-combining-the-imperative-and-the-declerative-4fdk)
 - [Lifehacker] [How to Spot Financial Infidelity &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-financial-infidelity-and-what-to-do-about-1850937367)
 - [Lifehacker] [Where to Stream the North Carolina Vs. Virginia Game](https://lifehacker.com/where-to-stream-the-north-carolina-vs-virginia-game-1850945079)
 - [Lifehacker] [Nine Free Apps That Will Change Your Life, According to Reddit](https://lifehacker.com/the-best-free-apps-that-will-change-your-life-accordin-1850944947)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Are Best Buy&#39;s Black Friday Calendar and Price-Match Rules](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [How to Travel With Someone Who Sucks](https://lifehacker.com/how-to-travel-with-someone-who-sucks-1850937387)
 - [Lifehacker] [How to Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
-- [Lifehacker] [The Fitbit Charge 6 Integrates More of the Google Ecosystem](https://lifehacker.com/fitbit-charge-6-review-1850941537)
-- [Lifehacker] [The Best Laptops for Students](https://lifehacker.com/best-laptops-for-kids-1850940357)
-- [Lifehacker] [You Can Stop Instagram From Tracking You Across Other Sites and Apps](https://lifehacker.com/you-can-stop-instagram-from-tracking-you-across-other-s-1850941462)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Fitbit Charge 6 Integrates More of the Google Ecosystem](https://lifehacker.com/fitbit-charge-6-review-1850941537)<!-- TECH-POSTS:END -->
 
 ---
 
