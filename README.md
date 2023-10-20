@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vantage Point - Combining the imperative and the declerative](https://dev.to/ibrahimtanyalcin/vantage-point-combining-the-imperative-and-the-declerative-4fdk)
+- [Lifehacker] [How to Spot Financial Infidelity &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-financial-infidelity-and-what-to-do-about-1850937367)
+- [Dev.to/JS] [What to use instead of `@ember/string`](https://dev.to/nullvoxpopuli/what-to-use-instead-of-emberstring-34mo)
+- [Lifehacker] [Where to Stream the North Carolina Vs. Virginia Game](https://lifehacker.com/where-to-stream-the-north-carolina-vs-virginia-game-1850945079)
 - [Lifehacker] [Nine Free Apps That Will Change Your Life, According to Reddit](https://lifehacker.com/the-best-free-apps-that-will-change-your-life-accordin-1850944947)
 - [Dev.to/JS] [Context leaking in EmberJS tests](https://dev.to/michalbryxi/context-leaking-in-emberjs-tests-52nm)
 - [Dev.to/JS] [Introduction to typescript](https://dev.to/shyynux/introduction-to-typescript-303o)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating an Interactive Glowing Mouse Trail with HTML5 Canvas and JavaScript](https://dev.to/mawayalebo/creating-an-interactive-glowing-mouse-trail-with-html5-canvas-and-javascript-4a04)
 - [Dev.to/JS] [Managing Your Money Abroad: Automating Expense Tracking With Receipt Recognition](https://dev.to/kwan/managing-your-money-abroad-automating-expense-tracking-with-receipt-recognition-1meg)
 - [Dev.to/JS] [Authentication and Authorization in Node.js: Safeguarding Your Application](https://dev.to/saint_vandora/authentication-and-authorization-in-nodejs-safeguarding-your-application-3l2f)
-- [Dev.to/JS] [How do I send a video in Python API](https://dev.to/johnmerry/how-do-i-send-a-video-in-python-api-5d6n)
-- [Dev.to/JS] [Introduction to Immer.js](https://dev.to/matek075/introduction-to-immerjs-mae)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Microsoft Office for $30 Right Now](https://lifehacker.com/you-can-get-microsoft-office-for-30-right-now-1850935211)
 - [Lifehacker] [You Should Waffle Some Instant Mashed Potatoes](https://lifehacker.com/instant-mashed-potato-waffles-recipe-1850939015)
 - [Lifehacker] [‘Biophilic Design’ Is the New Home Decor Trend](https://lifehacker.com/biophilic-design-is-the-new-home-decor-trend-1850939348)
-- [Lifehacker] [What People Are Getting Wrong This Week: The Bigfoot Sighting in Colorado](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-bigfoot-si-1850939927)
-- [Lifehacker] [You Can Get These JBL Headphones for up to 53% Off](https://lifehacker.com/you-can-get-these-jbl-headphones-for-up-to-53-off-1850939457)
-- [Lifehacker] [Use the ‘OHIO’ Method to Manage Endless Tasks and Messages](https://lifehacker.com/use-the-ohio-method-to-manage-endless-tasks-and-messa-1850937350)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: The Bigfoot Sighting in Colorado](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-bigfoot-si-1850939927)<!-- TECH-POSTS:END -->
 
 ---
 
