@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do It for the Plot](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-it-for-1850944099)
+- [Dev.to/JS] [The power of reduce : Counting letters frequencies.](https://dev.to/artydev/the-power-of-reduce-counting-letters-frequencies-187g)
+- [Dev.to/JS] [Using Flexbox for Efficient Frontend Layouts](https://dev.to/rowsanali/using-flexbox-for-efficient-frontend-layouts-2531)
+- [Lifehacker] [Make Spooky Halloween ‘Mummy Fingers’ in Your Air Fryer](https://lifehacker.com/make-spooky-halloween-mummy-fingers-in-your-air-fryer-1850943021)
+- [Dev.to/JS] [Demystifying Microservices with Node.js: A Journey from Netflix&#39;s Semicolon Crisis to the Future of Software](https://dev.to/davydocsurg/demystifying-microservices-with-nodejs-a-journey-from-netflixs-semicolon-crisis-to-the-future-of-software-103e)
+- [Lifehacker] [These Are the Best Mulchers to Tackle Your Leaves This Fall](https://lifehacker.com/best-vacuum-mulchers-for-leaves-1850942354)
 - [Dev.to/JS] [Creating an Interactive Glowing Mouse Trail with HTML5 Canvas and JavaScript](https://dev.to/mawayalebo/creating-an-interactive-glowing-mouse-trail-with-html5-canvas-and-javascript-4a04)
 - [Dev.to/JS] [Managing Your Money Abroad: Automating Expense Tracking With Receipt Recognition](https://dev.to/kwan/managing-your-money-abroad-automating-expense-tracking-with-receipt-recognition-1meg)
 - [Dev.to/JS] [Authentication and Authorization in Node.js: Safeguarding Your Application](https://dev.to/saint_vandora/authentication-and-authorization-in-nodejs-safeguarding-your-application-3l2f)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flexible Ansible Playbook scanning with Steampunk Spotter](https://dev.to/xlab_steampunk/flexible-ansible-playbook-scanning-with-steampunk-spotter-2gil)
 - [Dev.to/JS] [GLASS CARD EFFECT](https://dev.to/chikucoder/glass-card-effect-33kj)
 - [Dev.to/JS] [5 JavaScript Project Ideas Beyond TODO Apps.](https://dev.to/swastikyadav/5-javascript-project-ideas-beyond-todo-apps-h9h)
-- [Dev.to/JS] [What is the difference between web browser extensions and React Plugins?](https://dev.to/opensourcee/what-is-the-difference-between-web-browser-extensions-and-react-plugins-16n7)
-- [Dev.to/JS] [What is the difference between a React Library and a React Plugin?](https://dev.to/opensourcee/what-is-the-difference-between-a-react-library-and-a-react-plugin-3e9o)
-- [Dev.to/JS] [What is the difference between a React Component and a React Plugin?](https://dev.to/opensourcee/what-is-the-difference-between-a-react-component-and-a-react-plugin-2e1g)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘OHIO’ Method to Manage Endless Tasks and Messages](https://lifehacker.com/use-the-ohio-method-to-manage-endless-tasks-and-messa-1850937350)
 - [Lifehacker] [How to Keep Potted Herbs Alive Inside All Winter](https://lifehacker.com/how-to-keep-potted-herbs-alive-inside-all-winter-1850936375)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 19, 2023](https://lifehacker.com/nyt-connections-answer-today-october-19-2023-1850937162)
-- [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)
-- [Lifehacker] [Make High-protein Dumplings With Egg White Wrappers](https://lifehacker.com/make-high-protein-dumplings-with-egg-white-wrappers-1850939006)
-- [Lifehacker] [Make This Easy, No-Bake Slab of Cheesecake](https://lifehacker.com/make-this-casual-no-bake-slab-of-cheesecake-1849816536)
-- [Lifehacker] [When to Use a Robo-Advisor &lpar;and When to Avoid Them&rpar;](https://lifehacker.com/when-to-use-a-robo-advisor-and-when-to-avoid-them-1850937460)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This WFH Headset Is on Sale for $35 Right Now](https://lifehacker.com/this-wfh-headset-is-on-sale-for-35-right-now-1850931342)<!-- TECH-POSTS:END -->
 
 ---
 
