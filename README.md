@@ -26,9 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an Interactive Glowing Mouse Trail with HTML5 Canvas and JavaScript](https://dev.to/mawayalebo/creating-an-interactive-glowing-mouse-trail-with-html5-canvas-and-javascript-4a04)
 - [Dev.to/JS] [Managing Your Money Abroad: Automating Expense Tracking With Receipt Recognition](https://dev.to/kwan/managing-your-money-abroad-automating-expense-tracking-with-receipt-recognition-1meg)
 - [Dev.to/JS] [Authentication and Authorization in Node.js: Safeguarding Your Application](https://dev.to/saint_vandora/authentication-and-authorization-in-nodejs-safeguarding-your-application-3l2f)
-- [Dev.to/JS] [JavaScript&#39;e Giriş](https://dev.to/eminaltan/javascripte-giris-40kd)
 - [Dev.to/JS] [How do I send a video in Python API](https://dev.to/johnmerry/how-do-i-send-a-video-in-python-api-5d6n)
 - [Dev.to/JS] [Introduction to Immer.js](https://dev.to/matek075/introduction-to-immerjs-mae)
 - [Dev.to/JS] [RSA Encryption Decryption](https://dev.to/silvenleaf/rsa-encryption-decryption-1bm8)
