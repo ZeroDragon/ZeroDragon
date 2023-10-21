@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I am here now](https://dev.to/codingfeedsme/i-am-here-now-328h)
 - [Dev.to/JS] [“Zero dependencies” is overrated, build it like Theseus](https://dev.to/noriller/zero-dependencies-is-overrated-build-it-like-theseus-1p25)
 - [Dev.to/JS] [nhacaimcw77](https://dev.to/nhacaimcw77/nhacaimcw77-26e2)
 - [Dev.to/JS] [React Router: A step-by-step guide](https://dev.to/luqmanshaban/react-router-a-step-by-step-guide-307a)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 73: Authentication](https://dev.to/dhrn/day-73-authentication-3ej9)
 - [Dev.to/JS] [SOLID Principles Series: Embracing the Interface Segregation Principle &lpar;ISP&rpar; in TypeScript](https://dev.to/ruben_alapont/solid-principles-series-embracing-the-interface-segregation-principle-isp-in-typescript-59n6)
 - [Dev.to/JS] [Method Chaining In Javascript](https://dev.to/joewalker/method-chaining-in-javascript-842)
-- [Dev.to/JS] [✨ Morgan Package in Nodejs 🔥](https://dev.to/todayscode14/morgan-package-in-nodejs-58mc)
 - [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
 - [Lifehacker] [8 Ways to Have Fun With a Soft Penis](https://lifehacker.com/8-ways-to-have-fun-with-a-soft-penis-1850945425)
