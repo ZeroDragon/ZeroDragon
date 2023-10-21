@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤔My Underrated Nextjs Project 🔥](https://dev.to/todayscode14/underrated-nextjs-project-1oce)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
 - [Dev.to/JS] [The Top 10 Reusable Components in React](https://dev.to/mrnz/the-top-10-reusable-components-in-react-ed3)
 - [Dev.to/JS] [CSV files with Node and PapaParse: The Complete Guide](https://dev.to/alakkadshaw/csv-files-with-node-and-papaparse-the-complete-guide-13h1)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘Calendar Method’ to Finally Declutter Your House](https://lifehacker.com/use-the-calendar-method-to-finally-declutter-your-hou-1850945389)
 - [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)
 - [Dev.to/JS] [Patch Pulse: Devlog #1 - Get notified when new packages are released](https://dev.to/barrymichaeldoyle/patch-pulse-devlog-1-get-notified-when-new-packages-are-released-5c42)
-- [Dev.to/JS] [Create a Chrome Extension with React FW Plasmo](https://dev.to/ky6yk/create-a-chrome-extension-with-react-fw-plasmo-4adf)
 - [Lifehacker] [How to Tell What Kind of Procrastinator You Are &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-stop-procrastinating-1850945168)
 - [Lifehacker] [How to Spot Financial Infidelity &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-financial-infidelity-and-what-to-do-about-1850937367)
 - [Lifehacker] [Where to Stream the North Carolina Vs. Virginia Game](https://lifehacker.com/where-to-stream-the-north-carolina-vs-virginia-game-1850945079)
