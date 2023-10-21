@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Github Repositories to Master React 😎](https://dev.to/todayscode14/7-github-repositories-to-master-react-5bm3)
+- [Dev.to/JS] [How small business benefits from digital marketing?](https://dev.to/icoresg/how-small-business-benefits-from-digital-marketing-2ofo)
+- [Dev.to/JS] [Proseso ng paggawa ng aking &lpar;dating&rpar; Website](https://dev.to/torten/proseso-ng-paggawa-ng-aking-dating-website-3kb3)
+- [Dev.to/JS] [Cranberry: The Cure for Your URI](https://dev.to/kcole93/cranberry-the-cure-for-your-uri-k90)
 - [Dev.to/JS] [JavaScript - Under the hood &lpar;Part 1 - Overview of Runtime Environment&rpar;](https://dev.to/ahsanulkabir/javascript-under-the-hood-part-1-overview-of-runtime-environment-3jbp)
 - [Dev.to/JS] [🤔My Underrated Nextjs Project 🔥](https://dev.to/todayscode14/underrated-nextjs-project-1oce)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
@@ -42,12 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Totally Make Fried Eggs in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)
 - [Lifehacker] [Everything You Should Do Now If You Shop on Black Friday](https://lifehacker.com/everything-you-should-do-now-if-you-shop-on-black-frida-1850945998)
 - [Dev.to/JS] [Node.js Event Loop: A Deep Dive](https://dev.to/tannu28_/nodejs-event-loop-a-deep-dive-3ieb)
-- [Dev.to/JS] [Styling React Components with Styled-Components: A Comprehensive Guide](https://dev.to/rowsanali/styling-react-components-with-styled-components-a-comprehensive-guide-5gh1)
 - [Lifehacker] [These Are the Cheapest Houses You Can Build](https://lifehacker.com/these-are-the-cheapest-houses-you-can-build-1850945371)
-- [Dev.to/JS] [Declarative Loop Control Flow in Angular 17](https://dev.to/this-is-angular/declarative-loop-control-flow-in-angular-17-97d)
 - [Lifehacker] [Make a Better PSL With Pumpkin Butter](https://lifehacker.com/make-a-better-psl-with-pumpkin-butter-1850945774)
-- [Dev.to/JS] [Cracking JS Hexagons 🔍🤔](https://dev.to/vipert/cracking-js-hexagons-fle)
-- [Dev.to/JS] [Building a Full Stack Application with Ruby on Rails and React within the MVC Architecture](https://dev.to/minchulan/building-a-full-stack-mvc-application-with-ruby-on-rails-and-react-4n9n)
 - [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)
 - [Lifehacker] [Use the ‘Calendar Method’ to Finally Declutter Your House](https://lifehacker.com/use-the-calendar-method-to-finally-declutter-your-hou-1850945389)
 - [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)
