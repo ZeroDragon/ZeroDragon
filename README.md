@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
+- [Dev.to/JS] [Master React: Say Goodbye to 7 Costly Mistakes Forever!](https://dev.to/miroiudev/master-react-say-goodbye-to-7-costly-mistakes-forever-58j)
 - [Dev.to/JS] [Accelerate Your Career 👩🏻‍💻 by Contributing to these 9 Repositories 🔥](https://dev.to/swirl/accelerate-your-career-by-contributing-to-these-9-repositories-28e3)
 - [Dev.to/JS] [How to make JWT more secure in NestJS](https://dev.to/axotion/how-to-make-jwt-more-secure-in-nestjs-4oma)
 - [Lifehacker] [How to Avoid Pump Switching Scams at the Gas Station](https://lifehacker.com/how-to-avoid-pump-switching-scams-at-the-gas-station-1850947323)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)
 - [Dev.to/JS] [expo doctor issues](https://dev.to/salman12345a/expo-doctor-issues-1ij8)
 - [Dev.to/JS] [Medium Unlimited Read](https://dev.to/rahulalam31/medium-unlimited-read-1p04)
-- [Dev.to/JS] [Introduction to GraphQL](https://dev.to/bhavesh_yadav/introduction-to-graphql-5f0i)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
 - [Lifehacker] [8 Ways to Have Fun With a Soft Penis](https://lifehacker.com/8-ways-to-have-fun-with-a-soft-penis-1850945425)
 - [Lifehacker] [The Best Way to Insulate Your Soil Now so You Can Plant Earlier in the Spring](https://lifehacker.com/the-best-way-to-insulate-your-soil-now-so-you-can-plant-1850946315)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Mulchers to Tackle Your Leaves This Fall](https://lifehacker.com/best-vacuum-mulchers-for-leaves-1850942354)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
-- [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
-- [Lifehacker] [Here Are Best Buy&#39;s Black Friday Calendar and Price-Match Rules](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)<!-- TECH-POSTS:END -->
 
 ---
 
