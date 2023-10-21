@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Latest Newsletter: Wordpress for Crypto? &lpar;Issue #137&rpar;](https://dev.to/mjgs/latest-newsletter-wordpress-for-crypto-issue-137-3mbo)
+- [Dev.to/JS] [🎯Remove the Adblock Popup from YOUTUBE🚫](https://dev.to/sxurxbh/remove-the-adblock-popup-from-youtube-2an4)
 - [Dev.to/JS] [Weekly Dev Findings 10](https://dev.to/potykion/weekly-dev-findings-10-367a)
 - [Dev.to/JS] [GraphQl Integration With React Native](https://dev.to/sachingaggar/graphql-integration-with-react-native-531a)
 - [Dev.to/JS] [Building Accessible Web Apps](https://dev.to/ipratikmali/building-accessible-web-apps-2nmg)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How small business benefits from digital marketing?](https://dev.to/icoresg/how-small-business-benefits-from-digital-marketing-2ofo)
 - [Dev.to/JS] [Proseso ng paggawa ng aking &lpar;dating&rpar; Website](https://dev.to/torten/proseso-ng-paggawa-ng-aking-dating-website-3kb3)
 - [Dev.to/JS] [Cranberry: The Cure for Your URI](https://dev.to/kcole93/cranberry-the-cure-for-your-uri-k90)
-- [Dev.to/JS] [JavaScript - Under the hood &lpar;Part 1 - Overview of Runtime Environment&rpar;](https://dev.to/ahsanulkabir/javascript-under-the-hood-part-1-overview-of-runtime-environment-3jbp)
-- [Dev.to/JS] [🤔My Underrated Nextjs Project 🔥](https://dev.to/todayscode14/underrated-nextjs-project-1oce)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
 - [Lifehacker] [8 Ways to Have Fun With a Soft Penis](https://lifehacker.com/8-ways-to-have-fun-with-a-soft-penis-1850945425)
 - [Lifehacker] [The Best Way to Insulate Your Soil Now so You Can Plant Earlier in the Spring](https://lifehacker.com/the-best-way-to-insulate-your-soil-now-so-you-can-plant-1850946315)
