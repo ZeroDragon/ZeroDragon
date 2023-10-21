@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [“Zero dependencies” is overrated, build it like Theseus](https://dev.to/noriller/zero-dependencies-is-overrated-build-it-like-theseus-1p25)
+- [Dev.to/JS] [nhacaimcw77](https://dev.to/nhacaimcw77/nhacaimcw77-26e2)
+- [Dev.to/JS] [React Router: A step-by-step guide](https://dev.to/luqmanshaban/react-router-a-step-by-step-guide-307a)
+- [Dev.to/JS] [The Deceptive Ease of Easy Problems on LeetCode: 10 Confidence-Boosting Challenges for Beginners](https://dev.to/vitalipri/the-deceptive-ease-of-easy-problems-on-leetcode-10-confidence-boosting-challenges-for-beginners-2g48)
+- [Dev.to/JS] [Next.js: Enhancing Modern Web Development with a Simple Example](https://dev.to/mursalfk/nextjs-enhancing-modern-web-development-with-a-simple-example-k28)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
 - [Dev.to/JS] [Master React: Say Goodbye to 7 Costly Mistakes Forever!](https://dev.to/miroiudev/master-react-say-goodbye-to-7-costly-mistakes-forever-58j)
 - [Dev.to/JS] [Accelerate Your Career 👩🏻‍💻 by Contributing to these 9 Repositories 🔥](https://dev.to/swirl/accelerate-your-career-by-contributing-to-these-9-repositories-28e3)
@@ -35,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SOLID Principles Series: Embracing the Interface Segregation Principle &lpar;ISP&rpar; in TypeScript](https://dev.to/ruben_alapont/solid-principles-series-embracing-the-interface-segregation-principle-isp-in-typescript-59n6)
 - [Dev.to/JS] [Method Chaining In Javascript](https://dev.to/joewalker/method-chaining-in-javascript-842)
 - [Dev.to/JS] [✨ Morgan Package in Nodejs 🔥](https://dev.to/todayscode14/morgan-package-in-nodejs-58mc)
-- [Dev.to/JS] [A simple image gallery](https://dev.to/girish1729/a-simple-image-gallery-5id)
-- [Dev.to/JS] [Lets talk about A-Frame](https://dev.to/anandson47/lets-talk-about-a-frame-2n3d)
-- [Dev.to/JS] [Unmasking the npm Enigma:](https://dev.to/omkarbhavare/npm-120c)
 - [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)
-- [Dev.to/JS] [expo doctor issues](https://dev.to/salman12345a/expo-doctor-issues-1ij8)
-- [Dev.to/JS] [Medium Unlimited Read](https://dev.to/rahulalam31/medium-unlimited-read-1p04)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
 - [Lifehacker] [8 Ways to Have Fun With a Soft Penis](https://lifehacker.com/8-ways-to-have-fun-with-a-soft-penis-1850945425)
 - [Lifehacker] [The Best Way to Insulate Your Soil Now so You Can Plant Earlier in the Spring](https://lifehacker.com/the-best-way-to-insulate-your-soil-now-so-you-can-plant-1850946315)
