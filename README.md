@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [expo doctor issues](https://dev.to/salman12345a/expo-doctor-issues-1ij8)
 - [Dev.to/JS] [Medium Unlimited Read](https://dev.to/rahulalam31/medium-unlimited-read-1p04)
 - [Dev.to/JS] [Introduction to GraphQL](https://dev.to/bhavesh_yadav/introduction-to-graphql-5f0i)
 - [Dev.to/JS] [NextJS Auth0 and sub-domains](https://dev.to/alexcloudstar/nextjs-auth0-and-sub-domains-3le2)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GraphQl Integration With React Native](https://dev.to/sachingaggar/graphql-integration-with-react-native-531a)
 - [Dev.to/JS] [Building Accessible Web Apps](https://dev.to/ipratikmali/building-accessible-web-apps-2nmg)
 - [Dev.to/JS] [Abstract Syntax Trees and Practical Applications in JavaScript](https://dev.to/marvinjude/abstract-syntax-trees-and-practical-applications-in-javascript-4a3)
-- [Dev.to/JS] [Digital Marketing Company in Tricity](https://dev.to/sanchit567/digital-marketing-company-in-tricity-20h)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
 - [Lifehacker] [8 Ways to Have Fun With a Soft Penis](https://lifehacker.com/8-ways-to-have-fun-with-a-soft-penis-1850945425)
 - [Lifehacker] [The Best Way to Insulate Your Soil Now so You Can Plant Earlier in the Spring](https://lifehacker.com/the-best-way-to-insulate-your-soil-now-so-you-can-plant-1850946315)
