@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Package manager wars. The real picture](https://dev.to/wojtekmaj/package-manager-wars-the-real-picture-e9p)
+- [Dev.to/JS] [Free up storage space in Linux](https://dev.to/ramirezmz/free-up-storage-space-in-linux-2bne)
 - [Dev.to/JS] [JavaScript, Craftsmanship, and Me: A Journey of Code and Creativity](https://dev.to/uncle_ben/javascript-craftsmanship-and-me-a-journey-of-code-and-creativity-4g3l)
 - [Dev.to/JS] [My Hacktoberfest Journey - Adding Quotes to QuoteVerse](https://dev.to/vishnudas2003/my-hacktoberfest-journey-adding-quotes-to-quoteverse-539a)
 - [Dev.to/JS] [JavaScript&#39;in Temelleri](https://dev.to/eminaltan/javascriptin-temelleri-1l0b)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js: Enhancing Modern Web Development with a Simple Example](https://dev.to/mursalfk/nextjs-enhancing-modern-web-development-with-a-simple-example-k28)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
 - [Dev.to/JS] [Master React: Say Goodbye to 7 Costly Mistakes Forever!](https://dev.to/miroiudev/master-react-say-goodbye-to-7-costly-mistakes-forever-58j)
-- [Dev.to/JS] [Accelerate Your Career 👩🏻‍💻 by Contributing to these 9 Repositories 🔥](https://dev.to/swirl/accelerate-your-career-by-contributing-to-these-9-repositories-28e3)
-- [Dev.to/JS] [How to make JWT more secure in NestJS](https://dev.to/axotion/how-to-make-jwt-more-secure-in-nestjs-4oma)
 - [Lifehacker] [How to Avoid Pump Switching Scams at the Gas Station](https://lifehacker.com/how-to-avoid-pump-switching-scams-at-the-gas-station-1850947323)
 - [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
