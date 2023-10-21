@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A simple image gallery](https://dev.to/girish1729/a-simple-image-gallery-5id)
+- [Dev.to/JS] [Lets talk about A-Frame](https://dev.to/anandson47/lets-talk-about-a-frame-2n3d)
+- [Dev.to/JS] [Unmasking the npm Enigma:](https://dev.to/omkarbhavare/npm-120c)
+- [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)
 - [Dev.to/JS] [expo doctor issues](https://dev.to/salman12345a/expo-doctor-issues-1ij8)
 - [Dev.to/JS] [Medium Unlimited Read](https://dev.to/rahulalam31/medium-unlimited-read-1p04)
 - [Dev.to/JS] [Introduction to GraphQL](https://dev.to/bhavesh_yadav/introduction-to-graphql-5f0i)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Latest Newsletter: Wordpress for Crypto? &lpar;Issue #137&rpar;](https://dev.to/mjgs/latest-newsletter-wordpress-for-crypto-issue-137-3mbo)
 - [Dev.to/JS] [🎯Remove the Adblock Popup from YOUTUBE🚫](https://dev.to/sxurxbh/remove-the-adblock-popup-from-youtube-2an4)
 - [Dev.to/JS] [Weekly Dev Findings 10](https://dev.to/potykion/weekly-dev-findings-10-367a)
-- [Dev.to/JS] [GraphQl Integration With React Native](https://dev.to/sachingaggar/graphql-integration-with-react-native-531a)
-- [Dev.to/JS] [Building Accessible Web Apps](https://dev.to/ipratikmali/building-accessible-web-apps-2nmg)
-- [Dev.to/JS] [Abstract Syntax Trees and Practical Applications in JavaScript](https://dev.to/marvinjude/abstract-syntax-trees-and-practical-applications-in-javascript-4a3)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
 - [Lifehacker] [8 Ways to Have Fun With a Soft Penis](https://lifehacker.com/8-ways-to-have-fun-with-a-soft-penis-1850945425)
 - [Lifehacker] [The Best Way to Insulate Your Soil Now so You Can Plant Earlier in the Spring](https://lifehacker.com/the-best-way-to-insulate-your-soil-now-so-you-can-plant-1850946315)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Single-serving, Crustless Pumpkin Pie in Your Microwave](https://lifehacker.com/make-this-single-serving-crustless-pumpkin-pie-in-your-1850943180)
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
 - [Lifehacker] [Here Are Best Buy&#39;s Black Friday Calendar and Price-Match Rules](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
-- [Lifehacker] [How to Travel With Someone Who Sucks](https://lifehacker.com/how-to-travel-with-someone-who-sucks-1850937387)
-- [Lifehacker] [How to Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Travel With Someone Who Sucks](https://lifehacker.com/how-to-travel-with-someone-who-sucks-1850937387)<!-- TECH-POSTS:END -->
 
 ---
 
