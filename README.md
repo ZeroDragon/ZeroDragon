@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly Dev Findings 10](https://dev.to/potykion/weekly-dev-findings-10-367a)
+- [Dev.to/JS] [GraphQl Integration With React Native](https://dev.to/sachingaggar/graphql-integration-with-react-native-531a)
+- [Dev.to/JS] [Building Accessible Web Apps](https://dev.to/ipratikmali/building-accessible-web-apps-2nmg)
+- [Dev.to/JS] [Abstract Syntax Trees and Practical Applications in JavaScript](https://dev.to/marvinjude/abstract-syntax-trees-and-practical-applications-in-javascript-4a3)
 - [Dev.to/JS] [Digital Marketing Company in Tricity](https://dev.to/sanchit567/digital-marketing-company-in-tricity-20h)
 - [Dev.to/JS] [Creating and Styling Forms with HTML and CSS: A Comprehensive Guide](https://dev.to/rowsanali/creating-and-styling-forms-with-html-and-css-a-comprehensive-guide-3fp6)
 - [Dev.to/JS] [7 Github Repositories to Master React 😎](https://dev.to/todayscode14/7-github-repositories-to-master-react-5bm3)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript - Under the hood &lpar;Part 1 - Overview of Runtime Environment&rpar;](https://dev.to/ahsanulkabir/javascript-under-the-hood-part-1-overview-of-runtime-environment-3jbp)
 - [Dev.to/JS] [🤔My Underrated Nextjs Project 🔥](https://dev.to/todayscode14/underrated-nextjs-project-1oce)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
-- [Dev.to/JS] [The Top 10 Reusable Components in React](https://dev.to/mrnz/the-top-10-reusable-components-in-react-ed3)
-- [Dev.to/JS] [CSV files with Node and PapaParse: The Complete Guide](https://dev.to/alakkadshaw/csv-files-with-node-and-papaparse-the-complete-guide-13h1)
-- [Dev.to/JS] [Amazon KDP for beginners.](https://dev.to/fisayomi/amazon-kdp-for-beginners-333l)
 - [Lifehacker] [8 Ways to Have Fun With a Soft Penis](https://lifehacker.com/8-ways-to-have-fun-with-a-soft-penis-1850945425)
 - [Lifehacker] [The Best Way to Insulate Your Soil Now so You Can Plant Earlier in the Spring](https://lifehacker.com/the-best-way-to-insulate-your-soil-now-so-you-can-plant-1850946315)
-- [Dev.to/JS] [JavaScript&#39;e Giriş](https://dev.to/eminaltan/javascripte-giris-3dam)
 - [Lifehacker] [Your Kids Are Absolutely Dumb Enough to Eat Magnets](https://lifehacker.com/your-kids-are-absolutely-dumb-enough-to-eat-magnets-1850945370)
 - [Lifehacker] [How to Tell a Fake Rolex From a Real One in 2023](https://lifehacker.com/how-to-spot-a-fake-rolex-1850946148)
 - [Lifehacker] [Meredith&#39;s Training Diaries: Surviving the Dreaded Taper](https://lifehacker.com/how-to-survive-the-marathon-taper-1850945224)
