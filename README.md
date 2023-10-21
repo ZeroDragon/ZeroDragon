@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
 - [Dev.to/JS] [The Top 10 Reusable Components in React](https://dev.to/mrnz/the-top-10-reusable-components-in-react-ed3)
 - [Dev.to/JS] [CSV files with Node and PapaParse: The Complete Guide](https://dev.to/alakkadshaw/csv-files-with-node-and-papaparse-the-complete-guide-13h1)
 - [Dev.to/JS] [Amazon KDP for beginners.](https://dev.to/fisayomi/amazon-kdp-for-beginners-333l)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Prism Drive Cloud Storage for $60 Right Now](https://lifehacker.com/you-can-get-prism-drive-cloud-storage-for-60-right-now-1850935644)
 - [Lifehacker] [Here Are Best Buy&#39;s Black Friday Calendar and Price-Match Rules](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [How to Travel With Someone Who Sucks](https://lifehacker.com/how-to-travel-with-someone-who-sucks-1850937387)
-- [Lifehacker] [How to Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
-- [Lifehacker] [The Fitbit Charge 6 Integrates More of the Google Ecosystem](https://lifehacker.com/fitbit-charge-6-review-1850941537)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)<!-- TECH-POSTS:END -->
 
 ---
 
