@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 73: Authentication](https://dev.to/dhrn/day-73-authentication-3ej9)
+- [Dev.to/JS] [SOLID Principles Series: Embracing the Interface Segregation Principle &lpar;ISP&rpar; in TypeScript](https://dev.to/ruben_alapont/solid-principles-series-embracing-the-interface-segregation-principle-isp-in-typescript-59n6)
+- [Dev.to/JS] [Method Chaining In Javascript](https://dev.to/joewalker/method-chaining-in-javascript-842)
+- [Dev.to/JS] [Morgan Package in Nodejs 🔥](https://dev.to/todayscode14/morgan-package-in-nodejs-58mc)
 - [Dev.to/JS] [A simple image gallery](https://dev.to/girish1729/a-simple-image-gallery-5id)
 - [Dev.to/JS] [Lets talk about A-Frame](https://dev.to/anandson47/lets-talk-about-a-frame-2n3d)
 - [Dev.to/JS] [Unmasking the npm Enigma:](https://dev.to/omkarbhavare/npm-120c)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to GraphQL](https://dev.to/bhavesh_yadav/introduction-to-graphql-5f0i)
 - [Dev.to/JS] [NextJS Auth0 and sub-domains](https://dev.to/alexcloudstar/nextjs-auth0-and-sub-domains-3le2)
 - [Dev.to/JS] [NodeJS Levels Up, And ChatGPT Is Getting Artsy. This Week In Web Development &lpar;October 20, 2023&rpar;](https://dev.to/ctrlaltnews/nodejs-levels-up-and-chatgpt-is-getting-artsy-this-week-in-web-development-october-20-2023-4n03)
-- [Dev.to/JS] [JavaScript and Basic Security](https://dev.to/artxe2/javascript-and-basic-security-1oc5)
-- [Dev.to/JS] [Latest Newsletter: Wordpress for Crypto? &lpar;Issue #137&rpar;](https://dev.to/mjgs/latest-newsletter-wordpress-for-crypto-issue-137-3mbo)
-- [Dev.to/JS] [🎯Remove the Adblock Popup from YOUTUBE🚫](https://dev.to/sxurxbh/remove-the-adblock-popup-from-youtube-2an4)
-- [Dev.to/JS] [Weekly Dev Findings 10](https://dev.to/potykion/weekly-dev-findings-10-367a)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
 - [Lifehacker] [8 Ways to Have Fun With a Soft Penis](https://lifehacker.com/8-ways-to-have-fun-with-a-soft-penis-1850945425)
 - [Lifehacker] [The Best Way to Insulate Your Soil Now so You Can Plant Earlier in the Spring](https://lifehacker.com/the-best-way-to-insulate-your-soil-now-so-you-can-plant-1850946315)
