@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Rookie to Remarkable: Navigating my Internship experience at ONLYOFFICE](https://dev.to/sawanteeshaan/from-rookie-to-remarkable-navigating-my-internship-experience-at-onlyoffice-20ga)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Dev.to/JS] [The Pragmatic Guide to Your First JavaScript Library](https://dev.to/sameer1612/the-pragmatic-guide-to-your-first-javascript-library-1cfa)
 - [Dev.to/JS] [10 Best Javascript Animation Libraries 🎉](https://dev.to/todayscode14/10-best-javascript-animation-libraries-1ppd)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Iterating through Arrays: forEach vs for...of](https://dev.to/frantchessico/iterating-through-arrays-foreach-vs-forof-kkc)
 - [Dev.to/JS] [Unleash the Power of MERN and GraphQL with Our New Social Media App 🚀](https://dev.to/hasnainasif/unleash-the-power-of-mern-and-graphql-with-our-new-social-media-app-3k41)
 - [Dev.to/JS] [Understanding Schema and Types in GraphQL](https://dev.to/bhavesh_yadav/understanding-schema-and-types-in-graphql-1f81)
-- [Dev.to/JS] [Thank You For the Support - Reaching 1K+ Followers on DEV](https://dev.to/jaimaldullat/thank-you-for-the-support-reaching-1k-followers-on-dev-n43)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
 - [Lifehacker] [How to Avoid Pump Switching Scams at the Gas Station](https://lifehacker.com/how-to-avoid-pump-switching-scams-at-the-gas-station-1850947323)
