@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Verified Stripe Account](https://dev.to/stripepva03/buy-verified-stripe-account-4118)
 - [Dev.to/JS] [The story of my first time making a game on Phaser 3](https://dev.to/hoando9x/the-story-of-my-first-time-making-a-game-on-phaser-3-1663)
 - [Dev.to/JS] [Exploring Error Boundary in React: Enhancing Robustness and Error Handling](https://dev.to/m_midas/exploring-error-boundary-in-react-enhancing-robustness-and-error-handling-3457)
 - [Dev.to/JS] [The JavaScript open-source ebook](https://dev.to/robertobutti/the-javascript-open-source-ebook-1j4e)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Rookie to Remarkable: Navigating my Internship experience at ONLYOFFICE](https://dev.to/sawanteeshaan/from-rookie-to-remarkable-navigating-my-internship-experience-at-onlyoffice-20ga)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Dev.to/JS] [The Pragmatic Guide to Your First JavaScript Library](https://dev.to/sameer1612/the-pragmatic-guide-to-your-first-javascript-library-1cfa)
-- [Dev.to/JS] [10 Best Javascript Animation Libraries 🎉](https://dev.to/todayscode14/10-best-javascript-animation-libraries-1ppd)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
