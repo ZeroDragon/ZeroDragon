@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleash the Power of MERN and GraphQL with Our New Social Media App 🚀](https://dev.to/hasnainasif/unleash-the-power-of-mern-and-graphql-with-our-new-social-media-app-3k41)
+- [Dev.to/JS] [Understanding Schema and Types in GraphQL](https://dev.to/bhavesh_yadav/understanding-schema-and-types-in-graphql-1f81)
 - [Dev.to/JS] [Thank You For the Support - Reaching 1K+ Followers on DEV](https://dev.to/jaimaldullat/thank-you-for-the-support-reaching-1k-followers-on-dev-n43)
 - [Dev.to/JS] [Step-by-Step Guide: How to Add a Download Button to Save React Component as PDF](https://dev.to/apoorvtomar/step-by-step-guide-how-to-add-a-download-button-to-save-react-component-as-pdf-3gie)
 - [Dev.to/JS] [😏 Have you ever hear about ELECTRON? Then... I have to introduce you TAURI!! 😏](https://dev.to/inushin/have-you-ever-hear-about-electron-then-i-have-to-introduce-you-tauri-3pjc)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2000+ Landing Page Prodigy—Prompts 🔥](https://dev.to/todayscode14/2000-landing-page-prodigy-prompts-2ng4)
 - [Dev.to/JS] [Thirteen Potions Build Log](https://dev.to/cassidoo/thirteen-potions-build-log-5h01)
 - [Dev.to/JS] [🚀 Crie Aplicativos Web com o Guarapi Rapidamente!](https://dev.to/joao_neto/crie-aplicativos-com-o-guarapi-rapidamente-2n9g)
-- [Dev.to/JS] [#Leetcode 1361: Validating Binary Tree Nodes &lpar;Medium&rpar;](https://dev.to/speaklouder/leetcode-1361-validating-binary-tree-nodes-medium-2bla)
-- [Dev.to/JS] [LeetCode1425: Solving Constrained Subsequence Sum with DP and Heap Approach](https://dev.to/speaklouder/leetcode1425-solving-constrained-subsequence-sum-with-dp-and-heap-approach-a51)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
 - [Lifehacker] [How to Avoid Pump Switching Scams at the Gas Station](https://lifehacker.com/how-to-avoid-pump-switching-scams-at-the-gas-station-1850947323)
