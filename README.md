@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why React Is Still a Good Choice in 2023](https://dev.to/mrnz/why-react-is-still-a-good-choice-in-2023-b0g)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
 - [Dev.to/JS] [Free Code Camp JavaScript](https://dev.to/codingfeedsme/free-code-camp-javascript-7ec)
 - [Dev.to/JS] [Package manager wars. The real picture](https://dev.to/wojtekmaj/package-manager-wars-the-real-picture-e9p)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [nhacaimcw77](https://dev.to/nhacaimcw77/nhacaimcw77-26e2)
 - [Dev.to/JS] [React Router: A step-by-step guide](https://dev.to/luqmanshaban/react-router-a-step-by-step-guide-307a)
 - [Dev.to/JS] [The Deceptive Ease of Easy Problems on LeetCode: 10 Confidence-Boosting Challenges for Beginners](https://dev.to/vitalipri/the-deceptive-ease-of-easy-problems-on-leetcode-10-confidence-boosting-challenges-for-beginners-2g48)
-- [Dev.to/JS] [Next.js: Enhancing Modern Web Development with a Simple Example](https://dev.to/mursalfk/nextjs-enhancing-modern-web-development-with-a-simple-example-k28)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
 - [Lifehacker] [How to Avoid Pump Switching Scams at the Gas Station](https://lifehacker.com/how-to-avoid-pump-switching-scams-at-the-gas-station-1850947323)
 - [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)
