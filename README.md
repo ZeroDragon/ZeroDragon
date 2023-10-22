@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The story of my first time making a game on Phaser 3](https://dev.to/hoando9x/the-story-of-my-first-time-making-a-game-on-phaser-3-1663)
+- [Dev.to/JS] [Exploring Error Boundary in React: Enhancing Robustness and Error Handling](https://dev.to/m_midas/exploring-error-boundary-in-react-enhancing-robustness-and-error-handling-3457)
+- [Dev.to/JS] [The JavaScript open-source ebook](https://dev.to/robertobutti/the-javascript-open-source-ebook-1j4e)
+- [Dev.to/JS] [_a Redux like system: using ES6 Generators and vanilla JS ! :&rpar; - chapter 1](https://dev.to/system_dimsum/a-redux-like-system-using-es6-generators-and-vanilla-js-chapter-1-1de8)
 - [Dev.to/JS] [How to create suspense in the next JS?](https://dev.to/zeeshanmustfai/how-to-create-suspense-in-the-next-js-456b)
 - [Dev.to/JS] [Highlights from ViteConf 2023](https://dev.to/junsupark94/highlights-from-viteconf-2023-35j4)
 - [Dev.to/JS] [How to Handle Side Effects like API Calls in React Components](https://dev.to/sidramaqbool/how-to-handle-side-effects-like-api-calls-in-react-components-18c4)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Dev.to/JS] [The Pragmatic Guide to Your First JavaScript Library](https://dev.to/sameer1612/the-pragmatic-guide-to-your-first-javascript-library-1cfa)
 - [Dev.to/JS] [10 Best Javascript Animation Libraries 🎉](https://dev.to/todayscode14/10-best-javascript-animation-libraries-1ppd)
-- [Dev.to/JS] [The 20 Most Common Use Cases for JavaScript Arrays](https://dev.to/perssondennis/the-20-most-common-use-cases-for-javascript-arrays-2j8j)
-- [Dev.to/JS] [A Vital Importância de Saber Trabalhar Com Mais de Uma Linguagem de Programação](https://dev.to/reinanbr/a-vital-importancia-de-saber-trabalhar-com-mais-de-uma-linguagem-de-programacao-2ogn)
-- [Dev.to/JS] [Abstraindo a API Pública do CNJ - DataJud](https://dev.to/joaotextor/abstraindo-a-api-publica-do-cnj-datajud-54d)
-- [Dev.to/JS] [Intensive JSON Course: Mastering JavaScript Object Notation](https://dev.to/frantchessico/intensive-json-course-mastering-javascript-object-notation-49pf)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
