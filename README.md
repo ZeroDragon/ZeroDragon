@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a French Flashcard Carousel in an evening](https://dev.to/menilek/create-a-french-flashcard-carousel-in-an-evening-3hc7)
 - [Dev.to/JS] [JavaScript Variable&#39;ları](https://dev.to/eminaltan/javascript-variablelari-2mbn)
 - [Dev.to/JS] [Generate GraphQL queries from simple text prompts!](https://dev.to/geobde/generate-graphql-queries-from-simple-text-prompts-2dcd)
 - [Dev.to/JS] [HOW I WAS ABLE TO RECOVER MY STOLEN BITCOIN](https://dev.to/sophiarichardson/how-i-was-able-to-recover-my-stolen-bitcoin-4i85)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [_a Redux like system: using ES6 Generators and vanilla JS ! :&rpar; - chapter 1](https://dev.to/system_dimsum/a-redux-like-system-using-es6-generators-and-vanilla-js-chapter-1-1de8)
 - [Lifehacker] [The Meanings Behind the Mechanical Sounds You Hear on a Plane](https://lifehacker.com/the-meanings-behind-the-mechanical-sounds-you-hear-on-a-1850908617)
 - [Dev.to/JS] [How to create suspense in the next JS?](https://dev.to/zeeshanmustfai/how-to-create-suspense-in-the-next-js-456b)
-- [Dev.to/JS] [Highlights from ViteConf 2023](https://dev.to/junsupark94/highlights-from-viteconf-2023-35j4)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
