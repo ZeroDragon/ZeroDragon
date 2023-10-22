@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jest Mastery: Elevating Your Testing Skills with Proven Best Practices](https://dev.to/thagichucodes/jest-mastery-elevating-your-testing-skills-with-proven-best-practices-4d7m)
 - [Dev.to/JS] [Free Nextjs Blog Template &lpar;App Dir&rpar;](https://dev.to/zelal/free-nextjs-blog-template-app-dir-21f2)
 - [Dev.to/JS] [2000+ Landing Page Prodigy—Prompts 🔥](https://dev.to/todayscode14/2000-landing-page-prodigy-prompts-2ng4)
 - [Dev.to/JS] [Thirteen Potions Build Log](https://dev.to/cassidoo/thirteen-potions-build-log-5h01)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Magic Tricks: Encryption and Anti-Debugging](https://dev.to/wangliwen/javascript-magic-tricks-encryption-and-anti-debugging-4kh)
 - [Dev.to/JS] [Why React Is Still a Good Choice in 2023](https://dev.to/mrnz/why-react-is-still-a-good-choice-in-2023-b0g)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
-- [Dev.to/JS] [Free Code Camp JavaScript](https://dev.to/codingfeedsme/free-code-camp-javascript-7ec)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
 - [Lifehacker] [How to Avoid Pump Switching Scams at the Gas Station](https://lifehacker.com/how-to-avoid-pump-switching-scams-at-the-gas-station-1850947323)
 - [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)
