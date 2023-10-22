@@ -30,6 +30,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Error Boundary in React: Enhancing Robustness and Error Handling](https://dev.to/m_midas/exploring-error-boundary-in-react-enhancing-robustness-and-error-handling-3457)
 - [Dev.to/JS] [The JavaScript open-source ebook](https://dev.to/robertobutti/the-javascript-open-source-ebook-1j4e)
 - [Dev.to/JS] [_a Redux like system: using ES6 Generators and vanilla JS ! :&rpar; - chapter 1](https://dev.to/system_dimsum/a-redux-like-system-using-es6-generators-and-vanilla-js-chapter-1-1de8)
+- [Lifehacker] [The Meanings Behind the Mechanical Sounds You Hear on a Plane](https://lifehacker.com/the-meanings-behind-the-mechanical-sounds-you-hear-on-a-1850908617)
 - [Dev.to/JS] [How to create suspense in the next JS?](https://dev.to/zeeshanmustfai/how-to-create-suspense-in-the-next-js-456b)
 - [Dev.to/JS] [Highlights from ViteConf 2023](https://dev.to/junsupark94/highlights-from-viteconf-2023-35j4)
 - [Dev.to/JS] [How to Handle Side Effects like API Calls in React Components](https://dev.to/sidramaqbool/how-to-handle-side-effects-like-api-calls-in-react-components-18c4)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 30 Best Animated Movies You Can Stream Right Now](https://lifehacker.com/best-animated-movies-on-streaming-1850942505)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for $150 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-150-1850935747)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do It for the Plot](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-it-for-1850944099)
-- [Lifehacker] [Make Spooky Halloween ‘Mummy Fingers’ in Your Air Fryer](https://lifehacker.com/make-spooky-halloween-mummy-fingers-in-your-air-fryer-1850943021)
-- [Lifehacker] [These Are the Best Mulchers to Tackle Your Leaves This Fall](https://lifehacker.com/best-vacuum-mulchers-for-leaves-1850942354)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Spooky Halloween ‘Mummy Fingers’ in Your Air Fryer](https://lifehacker.com/make-spooky-halloween-mummy-fingers-in-your-air-fryer-1850943021)<!-- TECH-POSTS:END -->
 
 ---
 
