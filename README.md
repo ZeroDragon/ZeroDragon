@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Crie Aplicativos Web com o Guarapi Rapidamente!](https://dev.to/joao_neto/crie-aplicativos-com-o-guarapi-rapidamente-2n9g)
+- [Dev.to/JS] [#Leetcode 1361: Validating Binary Tree Nodes &lpar;Medium&rpar;](https://dev.to/speaklouder/leetcode-1361-validating-binary-tree-nodes-medium-2bla)
+- [Dev.to/JS] [LeetCode1425: Solving Constrained Subsequence Sum with DP and Heap Approach](https://dev.to/speaklouder/leetcode1425-solving-constrained-subsequence-sum-with-dp-and-heap-approach-a51)
+- [Dev.to/JS] [Solving LeetCode 1793: Maximum Score of a Good Subarray](https://dev.to/speaklouder/solving-leetcode-1793-maximum-score-of-a-good-subarray-24dn)
 - [Dev.to/JS] [Aprendiendo juntos JavaScript](https://dev.to/lfernand_cs/javascript-41aj)
 - [Dev.to/JS] [Nextra: 10 Minute Docs Audit](https://dev.to/documentwrites/nextra-10-minute-docs-audit-41i6)
 - [Dev.to/JS] [JavaScript Magic Tricks: Encryption and Anti-Debugging](https://dev.to/wangliwen/javascript-magic-tricks-encryption-and-anti-debugging-4kh)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Package manager wars. The real picture](https://dev.to/wojtekmaj/package-manager-wars-the-real-picture-e9p)
 - [Dev.to/JS] [Free up storage space in Linux](https://dev.to/ramirezmz/free-up-storage-space-in-linux-2bne)
 - [Dev.to/JS] [JavaScript, Craftsmanship, and Me: A Journey of Code and Creativity](https://dev.to/uncle_ben/javascript-craftsmanship-and-me-a-journey-of-code-and-creativity-4g3l)
-- [Dev.to/JS] [My Hacktoberfest Journey - Adding Quotes to QuoteVerse](https://dev.to/vishnudas2003/my-hacktoberfest-journey-adding-quotes-to-quoteverse-539a)
-- [Dev.to/JS] [JavaScript&#39;in Temelleri](https://dev.to/eminaltan/javascriptin-temelleri-1l0b)
-- [Dev.to/JS] [I am here now](https://dev.to/codingfeedsme/i-am-here-now-328h)
-- [Dev.to/JS] [“Zero dependencies” is overrated, build it like Theseus](https://dev.to/noriller/zero-dependencies-is-overrated-build-it-like-theseus-1p25)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
 - [Lifehacker] [How to Avoid Pump Switching Scams at the Gas Station](https://lifehacker.com/how-to-avoid-pump-switching-scams-at-the-gas-station-1850947323)
 - [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)
