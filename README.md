@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Variable&#39;ları](https://dev.to/eminaltan/javascript-variablelari-2mbn)
+- [Dev.to/JS] [Generate GraphQL queries from simple text prompts!](https://dev.to/geobde/generate-graphql-queries-from-simple-text-prompts-2dcd)
+- [Dev.to/JS] [HOW I WAS ABLE TO RECOVER MY STOLEN BITCOIN](https://dev.to/sophiarichardson/how-i-was-able-to-recover-my-stolen-bitcoin-4i85)
+- [Dev.to/JS] [Hello new here](https://dev.to/saqlain/hello-new-here-5199)
 - [Dev.to/JS] [2025: A.I. Puts Game Programmers out of Business!](https://dev.to/rexblade6502/2025-ai-puts-game-programmers-out-of-business-4j5o)
 - [Dev.to/JS] [Buy Verified Stripe Account](https://dev.to/stripepva03/buy-verified-stripe-account-4118)
 - [Dev.to/JS] [The story of my first time making a game on Phaser 3](https://dev.to/hoando9x/the-story-of-my-first-time-making-a-game-on-phaser-3-1663)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Meanings Behind the Mechanical Sounds You Hear on a Plane](https://lifehacker.com/the-meanings-behind-the-mechanical-sounds-you-hear-on-a-1850908617)
 - [Dev.to/JS] [How to create suspense in the next JS?](https://dev.to/zeeshanmustfai/how-to-create-suspense-in-the-next-js-456b)
 - [Dev.to/JS] [Highlights from ViteConf 2023](https://dev.to/junsupark94/highlights-from-viteconf-2023-35j4)
-- [Dev.to/JS] [How to Handle Side Effects like API Calls in React Components](https://dev.to/sidramaqbool/how-to-handle-side-effects-like-api-calls-in-react-components-18c4)
-- [Dev.to/JS] [The Greatest React Developer I Ever Met](https://dev.to/mohammadfaisal/the-greatest-react-developer-i-ever-met-1bp3)
-- [Dev.to/JS] [Enhance User Experience with Remix.js and Toast Notifications](https://dev.to/franciscomendes10866/enhance-user-experience-with-remixjs-and-toast-notifications-292g)
-- [Dev.to/JS] [From Rookie to Remarkable: Navigating my Internship experience at ONLYOFFICE](https://dev.to/sawanteeshaan/from-rookie-to-remarkable-navigating-my-internship-experience-at-onlyoffice-20ga)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
