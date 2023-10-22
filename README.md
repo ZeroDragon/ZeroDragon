@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the Differences Between HTML and HTML5](https://dev.to/rowsanali/understanding-the-differences-between-html-and-html5-5ea5)
 - [Dev.to/JS] [Jest Mastery: Elevating Your Testing Skills with Proven Best Practices](https://dev.to/thagichucodes/jest-mastery-elevating-your-testing-skills-with-proven-best-practices-4d7m)
 - [Dev.to/JS] [Free Nextjs Blog Template &lpar;App Dir&rpar;](https://dev.to/zelal/free-nextjs-blog-template-app-dir-21f2)
 - [Dev.to/JS] [2000+ Landing Page Prodigy—Prompts 🔥](https://dev.to/todayscode14/2000-landing-page-prodigy-prompts-2ng4)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Aprendiendo juntos JavaScript](https://dev.to/lfernand_cs/javascript-41aj)
 - [Dev.to/JS] [Nextra: 10 Minute Docs Audit](https://dev.to/documentwrites/nextra-10-minute-docs-audit-41i6)
 - [Dev.to/JS] [JavaScript Magic Tricks: Encryption and Anti-Debugging](https://dev.to/wangliwen/javascript-magic-tricks-encryption-and-anti-debugging-4kh)
-- [Dev.to/JS] [Why React Is Still a Good Choice in 2023](https://dev.to/mrnz/why-react-is-still-a-good-choice-in-2023-b0g)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
 - [Lifehacker] [How to Avoid Pump Switching Scams at the Gas Station](https://lifehacker.com/how-to-avoid-pump-switching-scams-at-the-gas-station-1850947323)
