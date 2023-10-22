@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
+- [Dev.to/JS] [The Pragmatic Guide to Your First JavaScript Library](https://dev.to/sameer1612/the-pragmatic-guide-to-your-first-javascript-library-1cfa)
+- [Dev.to/JS] [10 Best Javascript Animation Libraries 🎉](https://dev.to/todayscode14/10-best-javascript-animation-libraries-1ppd)
+- [Dev.to/JS] [The 20 Most Common Use Cases for JavaScript Arrays](https://dev.to/perssondennis/the-20-most-common-use-cases-for-javascript-arrays-2j8j)
+- [Dev.to/JS] [A Vital Importância de Saber Trabalhar Com Mais de Uma Linguagem de Programação](https://dev.to/reinanbr/a-vital-importancia-de-saber-trabalhar-com-mais-de-uma-linguagem-de-programacao-2ogn)
 - [Dev.to/JS] [Yet Another Newsletter LOL: So Nullish](https://dev.to/nickytonline/yet-another-newsletter-lol-so-nullish-a0l)
 - [Dev.to/JS] [Abstraindo a API Pública do CNJ - DataJud](https://dev.to/joaotextor/abstraindo-a-api-publica-do-cnj-datajud-54d)
 - [Dev.to/JS] [Intensive JSON Course: Mastering JavaScript Object Notation](https://dev.to/frantchessico/intensive-json-course-mastering-javascript-object-notation-49pf)
@@ -35,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleash the Power of MERN and GraphQL with Our New Social Media App 🚀](https://dev.to/hasnainasif/unleash-the-power-of-mern-and-graphql-with-our-new-social-media-app-3k41)
 - [Dev.to/JS] [Understanding Schema and Types in GraphQL](https://dev.to/bhavesh_yadav/understanding-schema-and-types-in-graphql-1f81)
 - [Dev.to/JS] [Thank You For the Support - Reaching 1K+ Followers on DEV](https://dev.to/jaimaldullat/thank-you-for-the-support-reaching-1k-followers-on-dev-n43)
-- [Dev.to/JS] [Step-by-Step Guide: How to Add a Download Button to Save React Component as PDF](https://dev.to/apoorvtomar/step-by-step-guide-how-to-add-a-download-button-to-save-react-component-as-pdf-3gie)
-- [Dev.to/JS] [😏 Have you ever hear about ELECTRON? Then... I have to introduce you TAURI!! 😏](https://dev.to/inushin/have-you-ever-hear-about-electron-then-i-have-to-introduce-you-tauri-3pjc)
-- [Dev.to/JS] [How filesystem-based routers work: building one for express](https://dev.to/matfire/how-filesystem-based-routers-work-building-one-for-express-1p26)
-- [Dev.to/JS] [Understanding the Differences Between HTML and HTML5](https://dev.to/rowsanali/understanding-the-differences-between-html-and-html5-5ea5)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
 - [Lifehacker] [How to Avoid Pump Switching Scams at the Gas Station](https://lifehacker.com/how-to-avoid-pump-switching-scams-at-the-gas-station-1850947323)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for $150 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-150-1850935747)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do It for the Plot](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-it-for-1850944099)
 - [Lifehacker] [Make Spooky Halloween ‘Mummy Fingers’ in Your Air Fryer](https://lifehacker.com/make-spooky-halloween-mummy-fingers-in-your-air-fryer-1850943021)
-- [Lifehacker] [These Are the Best Mulchers to Tackle Your Leaves This Fall](https://lifehacker.com/best-vacuum-mulchers-for-leaves-1850942354)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 20, 2023](https://lifehacker.com/nyt-connections-answer-today-october-20-2023-1850940875)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Mulchers to Tackle Your Leaves This Fall](https://lifehacker.com/best-vacuum-mulchers-for-leaves-1850942354)<!-- TECH-POSTS:END -->
 
 ---
 
