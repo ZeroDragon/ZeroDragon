@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Streamlining Your Finances: A Comprehensive Guide to Mepco Online Bill Payment](https://dev.to/onlinebillexpert/streamlining-your-finances-a-comprehensive-guide-to-mepco-online-bill-payment-23cf)
+- [Dev.to/JS] [JavaScript Frameworks: Choosing the Right One](https://dev.to/rowsanali/javascript-frameworks-choosing-the-right-one-3mbj)
+- [Dev.to/JS] [Code for sliding headlines on website JS , CSS and HTML](https://dev.to/smz01/code-for-sliding-headlines-on-website-js-css-and-html-4d3c)
 - [Dev.to/JS] [🔥 New Update in in React Query 5.0 🤯](https://dev.to/todayscode14/new-update-in-in-react-query-50-5b5d)
 - [Dev.to/JS] [JavaScript Arrays Simplified](https://dev.to/tanmaycode/javascript-arrays-simplified-2cng)
 - [Dev.to/JS] [Using Firebase Remote Config for Feature Flags](https://dev.to/jacobandrewsky/using-firebase-remote-config-for-feature-flags-2ji9)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [💅 Creating Polished Content with React Markdown](https://dev.to/refine/creating-polished-content-with-react-markdown-3h65)
 - [Dev.to/JS] [WhatsApp API Integration | Complete Guide | EnableX](https://dev.to/johnmerry/whatsapp-api-integration-complete-guide-enablex-53l5)
 - [Dev.to/JS] [Free Google Analytics Alternative: Quickstart with Umami Analytics](https://dev.to/adri_zag/free-google-analytics-alternative-quickstart-with-umami-analytics-1op5)
-- [Dev.to/JS] [NPS Software Pioneering IT Excellence Unlocking Digital Potential](https://dev.to/divudivya/nps-software-pioneering-it-excellence-unlocking-digital-potential-4430)
-- [Dev.to/JS] [🤓 The Top 10 JavaScript Tricks for Cleaner Code](https://dev.to/todayscode14/the-top-10-javascript-tricks-for-cleaner-code-422b)
-- [Dev.to/JS] [simple Hacker Earth Problem Solution](https://dev.to/hussein173/simple-hacker-earth-problem-solution-3nop)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
