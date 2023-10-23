@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Checking version updates in package.json](https://dev.to/luqmanrom/checking-version-updates-in-packagejson-3ae4)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
 - [Dev.to/JS] [Create a French Flashcard Carousel in an evening](https://dev.to/menilek/create-a-french-flashcard-carousel-in-an-evening-3hc7)
 - [Dev.to/JS] [JavaScript Variable&#39;ları](https://dev.to/eminaltan/javascript-variablelari-2mbn)
 - [Dev.to/JS] [Generate GraphQL queries from simple text prompts!](https://dev.to/geobde/generate-graphql-queries-from-simple-text-prompts-2dcd)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [_a Redux like system: using ES6 Generators and vanilla JS ! :&rpar; - chapter 1](https://dev.to/system_dimsum/a-redux-like-system-using-es6-generators-and-vanilla-js-chapter-1-1de8)
 - [Lifehacker] [The Meanings Behind the Mechanical Sounds You Hear on a Plane](https://lifehacker.com/the-meanings-behind-the-mechanical-sounds-you-hear-on-a-1850908617)
 - [Dev.to/JS] [How to create suspense in the next JS?](https://dev.to/zeeshanmustfai/how-to-create-suspense-in-the-next-js-456b)
-- [Dev.to/JS] [Highlights from ViteConf 2023](https://dev.to/junsupark94/highlights-from-viteconf-2023-35j4)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nine Free Apps That Will Change Your Life, According to Reddit](https://lifehacker.com/the-best-free-apps-that-will-change-your-life-accordin-1850944947)
 - [Lifehacker] [The 30 Best Animated Movies You Can Stream Right Now](https://lifehacker.com/best-animated-movies-on-streaming-1850942505)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for $150 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-150-1850935747)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do It for the Plot](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-it-for-1850944099)
-- [Lifehacker] [Make Spooky Halloween ‘Mummy Fingers’ in Your Air Fryer](https://lifehacker.com/make-spooky-halloween-mummy-fingers-in-your-air-fryer-1850943021)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do It for the Plot](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-it-for-1850944099)<!-- TECH-POSTS:END -->
 
 ---
 
