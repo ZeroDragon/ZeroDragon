@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Por que Node.js é a Escolha Certa para o seu Próximo Projeto?💚](https://dev.to/nagref/por-que-nodejs-e-a-escolha-certa-para-o-seu-proximo-projeto-517e)
+- [Lifehacker] [12 Cozy Podcasts to Warm Your Mind, Body, and Soul](https://lifehacker.com/best-cozy-podcasts-1850950191)
+- [Dev.to/JS] [⚙️ Easy Binary Search Template in Javascript](https://dev.to/raaynaldo/easy-binary-search-template-in-javascript-18i5)
+- [Lifehacker] [All the Different Retirement Accounts You Can Take Advantage Of](https://lifehacker.com/all-the-different-retirement-accounts-you-can-take-adva-1850950256)
 - [Lifehacker] [These Refurbished Blink Cameras Are up to 66% Off](https://lifehacker.com/these-refurbished-blink-cameras-are-up-to-66-off-1850950512)
 - [Dev.to/JS] [Day 74: Tip](https://dev.to/dhrn/day-74-tip-calculator-352l)
 - [Lifehacker] [Use This Tool to Get Your Preferred Seat on Any Flight](https://lifehacker.com/use-this-tool-to-get-your-preferred-seat-on-any-flight-1850949719)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Machine Learning for JavaScript Developers: TensorFlow Step-by-Step Guide to Getting Started](https://dev.to/eugene_b/machine-learning-for-javascript-developers-tensorflow-step-by-step-guide-to-getting-started-58il)
 - [Lifehacker] [The M2 MacBook Air Has Dropped to Prime Day Prices](https://lifehacker.com/the-m2-macbook-air-has-dropped-to-prime-day-prices-1850949799)
 - [Dev.to/JS] [Introducing Sandpack Lit: The Universal CodeSandbox](https://dev.to/andrico1234/introducing-sandpack-lit-the-universal-codesandbox-178o)
-- [Dev.to/JS] [Weekly programmers report 23/10/2023](https://dev.to/2nit/weekly-programmers-report-23102023-3mo4)
-- [Dev.to/JS] [What’s my AGI again? Implementing an Autonomous Agent in Js](https://dev.to/ale_annini/whats-my-agi-again-implementing-an-autonomous-agent-in-js-39b4)
 - [Lifehacker] [You Can Get This Dual-Camera Drone for $80](https://lifehacker.com/you-can-get-this-dual-camera-drone-for-80-1850945533)
 - [Lifehacker] [The Dyson Hot+Cold Gen1 Air Purifier Is Both Cool and Hot](https://lifehacker.com/dyson-hot-cold-gen1-air-purifier-review-1850948670)
 - [Lifehacker] [How to Prepare for the Dentist if You Haven&#39;t Been in Forever](https://lifehacker.com/how-to-prepare-for-the-dentist-if-you-havent-been-in-fo-1850931921)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Kids Are Absolutely Dumb Enough to Eat Magnets](https://lifehacker.com/your-kids-are-absolutely-dumb-enough-to-eat-magnets-1850945370)
 - [Lifehacker] [How to Tell a Fake Rolex From a Real One in 2023](https://lifehacker.com/how-to-spot-a-fake-rolex-1850946148)
 - [Lifehacker] [Meredith&#39;s Training Diaries: Surviving the Dreaded Taper](https://lifehacker.com/how-to-survive-the-marathon-taper-1850945224)
-- [Lifehacker] [You Can Totally Make Fried Eggs in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)
-- [Lifehacker] [Everything You Should Do Now If You Shop on Black Friday](https://lifehacker.com/everything-you-should-do-now-if-you-shop-on-black-frida-1850945998)
-- [Lifehacker] [These Are the Cheapest Houses You Can Build](https://lifehacker.com/these-are-the-cheapest-houses-you-can-build-1850945371)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Totally Make Fried Eggs in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)<!-- TECH-POSTS:END -->
 
 ---
 
