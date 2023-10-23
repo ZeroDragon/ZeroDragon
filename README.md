@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript: A Comprehensive Interview Guide for Students](https://dev.to/mi1an/mastering-javascript-a-comprehensive-interview-guide-for-students-37l2)
+- [Dev.to/JS] [Creating a Custom Styled File Input Component with Chakra UI and React Hook Form](https://dev.to/tashynw/creating-a-custom-styled-file-input-component-with-chakra-ui-and-react-hook-form-14g9)
 - [Dev.to/JS] [Checking version updates in package.json](https://dev.to/luqmanrom/checking-version-updates-in-packagejson-3ae4)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
 - [Dev.to/JS] [Create a French Flashcard Carousel in an evening](https://dev.to/menilek/create-a-french-flashcard-carousel-in-an-evening-3hc7)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The story of my first time making a game on Phaser 3](https://dev.to/hoando9x/the-story-of-my-first-time-making-a-game-on-phaser-3-1663)
 - [Dev.to/JS] [Exploring Error Boundary in React: Enhancing Robustness and Error Handling](https://dev.to/m_midas/exploring-error-boundary-in-react-enhancing-robustness-and-error-handling-3457)
 - [Dev.to/JS] [The JavaScript open-source ebook](https://dev.to/robertobutti/the-javascript-open-source-ebook-1j4e)
-- [Dev.to/JS] [_a Redux like system: using ES6 Generators and vanilla JS ! :&rpar; - chapter 1](https://dev.to/system_dimsum/a-redux-like-system-using-es6-generators-and-vanilla-js-chapter-1-1de8)
 - [Lifehacker] [The Meanings Behind the Mechanical Sounds You Hear on a Plane](https://lifehacker.com/the-meanings-behind-the-mechanical-sounds-you-hear-on-a-1850908617)
-- [Dev.to/JS] [How to create suspense in the next JS?](https://dev.to/zeeshanmustfai/how-to-create-suspense-in-the-next-js-456b)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
