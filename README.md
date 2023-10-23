@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WhatsApp API Integration | Complete Guide | EnableX](https://dev.to/johnmerry/whatsapp-api-integration-complete-guide-enablex-53l5)
+- [Dev.to/JS] [Free Google Analytics Alternative: Quickstart with Umami Analytics](https://dev.to/adri_zag/free-google-analytics-alternative-quickstart-with-umami-analytics-1op5)
+- [Dev.to/JS] [NPS Software Pioneering IT Excellence Unlocking Digital Potential](https://dev.to/divudivya/nps-software-pioneering-it-excellence-unlocking-digital-potential-4430)
+- [Dev.to/JS] [🤓 The Top 10 JavaScript Tricks for Cleaner Code](https://dev.to/todayscode14/the-top-10-javascript-tricks-for-cleaner-code-422b)
+- [Dev.to/JS] [simple Hacker Earth Problem Solution](https://dev.to/hussein173/simple-hacker-earth-problem-solution-3nop)
 - [Dev.to/JS] [Handlebars AST to Template String](https://dev.to/satyajitnayak/handlebars-ast-to-template-string-2dlm)
 - [Dev.to/JS] [Mastering JavaScript: A Comprehensive Interview Guide for Students](https://dev.to/mi1an/mastering-javascript-a-comprehensive-interview-guide-for-students-37l2)
 - [Dev.to/JS] [Creating a Custom Styled File Input Component with Chakra UI and React Hook Form](https://dev.to/tashynw/creating-a-custom-styled-file-input-component-with-chakra-ui-and-react-hook-form-14g9)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a French Flashcard Carousel in an evening](https://dev.to/menilek/create-a-french-flashcard-carousel-in-an-evening-3hc7)
 - [Dev.to/JS] [JavaScript Variable&#39;ları](https://dev.to/eminaltan/javascript-variablelari-2mbn)
 - [Dev.to/JS] [Generate GraphQL queries from simple text prompts!](https://dev.to/geobde/generate-graphql-queries-from-simple-text-prompts-2dcd)
-- [Dev.to/JS] [HOW I WAS ABLE TO RECOVER MY STOLEN BITCOIN](https://dev.to/sophiarichardson/how-i-was-able-to-recover-my-stolen-bitcoin-4i85)
-- [Dev.to/JS] [Hello new here](https://dev.to/saqlain/hello-new-here-5199)
-- [Dev.to/JS] [2025: A.I. Puts Game Programmers out of Business!](https://dev.to/rexblade6502/2025-ai-puts-game-programmers-out-of-business-4j5o)
-- [Dev.to/JS] [The story of my first time making a game on Phaser 3](https://dev.to/hoando9x/the-story-of-my-first-time-making-a-game-on-phaser-3-1663)
-- [Dev.to/JS] [Exploring Error Boundary in React: Enhancing Robustness and Error Handling](https://dev.to/m_midas/exploring-error-boundary-in-react-enhancing-robustness-and-error-handling-3457)
 - [Lifehacker] [The Meanings Behind the Mechanical Sounds You Hear on a Plane](https://lifehacker.com/the-meanings-behind-the-mechanical-sounds-you-hear-on-a-1850908617)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
