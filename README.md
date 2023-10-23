@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Random Color Palette Generator in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/create-a-random-color-palette-generator-in-html-css-javascript-2c5p)
+- [Dev.to/JS] [React useTransition: performance game changer or...?](https://dev.to/adevnadia/react-usetransition-performance-game-changer-or-1302)
+- [Dev.to/JS] [How to Add a Large List of Elements to the DOM Efficiently Using DocumentFragments 🧩](https://dev.to/mike-at-redspace/how-to-add-a-large-list-of-elements-to-the-dom-efficiently-using-documentfragments-37pp)
 - [Dev.to/JS] [Streamlining Your Finances: A Comprehensive Guide to Mepco Online Bill Payment](https://dev.to/onlinebillexpert/streamlining-your-finances-a-comprehensive-guide-to-mepco-online-bill-payment-23cf)
 - [Dev.to/JS] [JavaScript Frameworks: Choosing the Right One](https://dev.to/rowsanali/javascript-frameworks-choosing-the-right-one-3mbj)
 - [Dev.to/JS] [Code for sliding headlines on website JS , CSS and HTML](https://dev.to/smz01/code-for-sliding-headlines-on-website-js-css-and-html-4d3c)
-- [Dev.to/JS] [🔥 New Update in in React Query 5.0 🤯](https://dev.to/todayscode14/new-update-in-in-react-query-50-5b5d)
+- [Dev.to/JS] [🔥 What&#39;s new update in React Query 5.0 🤯](https://dev.to/todayscode14/new-update-in-in-react-query-50-5b5d)
 - [Dev.to/JS] [JavaScript Arrays Simplified](https://dev.to/tanmaycode/javascript-arrays-simplified-2cng)
 - [Dev.to/JS] [Using Firebase Remote Config for Feature Flags](https://dev.to/jacobandrewsky/using-firebase-remote-config-for-feature-flags-2ji9)
 - [Dev.to/JS] [👨🏾‍💻🚀Top 35 Advanced ReactJS Interview Questions](https://dev.to/chrisimade/top-35-reactjs-interview-questions-every-developer-should-know-28jk)
 - [Dev.to/JS] [Unlocking JavaScript Design Patterns: Mastering Singleton for Ultimate Code Efficiency](https://dev.to/brdnicolas/unlocking-javascript-design-patterns-mastering-singleton-for-ultimate-code-efficiency-4ne0)
 - [Dev.to/JS] [Vue.js : Build Simple Tabs with Dynamic Components](https://dev.to/kucherol/vuejs-build-simple-tabs-with-dynamic-components-jh7)
-- [Dev.to/JS] [💅 Creating Polished Content with React Markdown](https://dev.to/refine/creating-polished-content-with-react-markdown-3h65)
-- [Dev.to/JS] [WhatsApp API Integration | Complete Guide | EnableX](https://dev.to/johnmerry/whatsapp-api-integration-complete-guide-enablex-53l5)
-- [Dev.to/JS] [Free Google Analytics Alternative: Quickstart with Umami Analytics](https://dev.to/adri_zag/free-google-analytics-alternative-quickstart-with-umami-analytics-1op5)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
