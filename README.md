@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This ‘Language Learner’ Bundle Is $30 Right Now](https://lifehacker.com/this-language-learner-bundle-is-30-right-now-1850945763)
+- [Dev.to/JS] [Kickstart Your Coding Journey: Mimo and JavaScript!](https://dev.to/shawn2208/kickstart-your-coding-journey-mimo-and-javascript-1j3j)
+- [Dev.to/JS] [Developers, Add AI To Your Toolkit in 10 Minutes](https://dev.to/pezzo/developers-add-ai-to-your-toolkit-in-10-minutes-mdn)
+- [Dev.to/JS] [Declarative JavaScript](https://dev.to/sultan99/declarative-javascript-10oh)
+- [Lifehacker] [There Are Better Ways to Carve a Pumpkin Than That Dollar-Store Kit](https://lifehacker.com/there-are-better-ways-to-carve-a-pumpkin-than-that-doll-1850949973)
 - [Dev.to/JS] [Introducing the first JS13K Games Community Soundtrack](https://dev.to/mrlopis/introducing-the-first-js13k-games-community-soundtrack-3kgm)
 - [Dev.to/JS] [PDFMake en Acción: Cómo Diseñar Tickets en ReactJS con PDFMake](https://dev.to/malcode/pdfmake-en-accion-como-disenar-tickets-en-reactjs-con-pdfmake-43ck)
 - [Lifehacker] [You Can Now Format Text in Google Keep](https://lifehacker.com/how-to-format-text-in-google-keep-1850949818)
@@ -42,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prepare for the Dentist if You Haven&#39;t Been in Forever](https://lifehacker.com/how-to-prepare-for-the-dentist-if-you-havent-been-in-fo-1850931921)
 - [Lifehacker] [You Can Get This Beginner&#39;s Cybersecurity Course for $60 Right Now](https://lifehacker.com/you-can-get-this-beginners-cybersecurity-course-for-60-1850935796)
 - [Lifehacker] [The Best Vegan Mashed Potatoes Start With Yukon Golds](https://lifehacker.com/best-vegan-mashed-potatoes-recipe-1850946894)
-- [Dev.to/JS] [The Magic of Angular Change Detection: A Developer&#39;s Handbook](https://dev.to/chintanonweb/the-magic-of-angular-change-detection-a-developers-handbook-42ak)
-- [Dev.to/JS] [The JavaScript Fullscreen API](https://dev.to/oneminch/the-javascript-fullscreen-api-3lie)
 - [Lifehacker] [Five Fixes for Leaky Gutters That You Can DIY](https://lifehacker.com/five-fixes-for-leaky-gutters-that-you-can-diy-1850946604)
-- [Dev.to/JS] [GraphQL Subscriptions](https://dev.to/bhavesh_yadav/graphql-subscriptions-4b8g)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Should Do Now If You Shop on Black Friday](https://lifehacker.com/everything-you-should-do-now-if-you-shop-on-black-frida-1850945998)
 - [Lifehacker] [These Are the Cheapest Houses You Can Build](https://lifehacker.com/these-are-the-cheapest-houses-you-can-build-1850945371)
 - [Lifehacker] [Make a Better PSL With Pumpkin Butter](https://lifehacker.com/make-a-better-psl-with-pumpkin-butter-1850945774)
-- [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)
-- [Lifehacker] [Use the ‘Calendar Method’ to Finally Declutter Your House](https://lifehacker.com/use-the-calendar-method-to-finally-declutter-your-hou-1850945389)
-- [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)<!-- TECH-POSTS:END -->
+- [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)<!-- TECH-POSTS:END -->
 
 ---
 
