@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [👨🏾‍💻🚀Top 35 Advanced ReactJS Interview Questions](https://dev.to/chrisimade/top-35-reactjs-interview-questions-every-developer-should-know-28jk)
+- [Dev.to/JS] [Unlocking JavaScript Design Patterns: Mastering Singleton for Ultimate Code Efficiency](https://dev.to/brdnicolas/unlocking-javascript-design-patterns-mastering-singleton-for-ultimate-code-efficiency-4ne0)
+- [Dev.to/JS] [Vue.js : Build Simple Tabs with Dynamic Components](https://dev.to/kucherol/vuejs-build-simple-tabs-with-dynamic-components-jh7)
+- [Dev.to/JS] [💅 Creating Polished Content with React Markdown](https://dev.to/refine/creating-polished-content-with-react-markdown-3h65)
 - [Dev.to/JS] [WhatsApp API Integration | Complete Guide | EnableX](https://dev.to/johnmerry/whatsapp-api-integration-complete-guide-enablex-53l5)
 - [Dev.to/JS] [Free Google Analytics Alternative: Quickstart with Umami Analytics](https://dev.to/adri_zag/free-google-analytics-alternative-quickstart-with-umami-analytics-1op5)
 - [Dev.to/JS] [NPS Software Pioneering IT Excellence Unlocking Digital Potential](https://dev.to/divudivya/nps-software-pioneering-it-excellence-unlocking-digital-potential-4430)
@@ -34,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handlebars AST to Template String](https://dev.to/satyajitnayak/handlebars-ast-to-template-string-2dlm)
 - [Dev.to/JS] [Mastering JavaScript: A Comprehensive Interview Guide for Students](https://dev.to/mi1an/mastering-javascript-a-comprehensive-interview-guide-for-students-37l2)
 - [Dev.to/JS] [Creating a Custom Styled File Input Component with Chakra UI and React Hook Form](https://dev.to/tashynw/creating-a-custom-styled-file-input-component-with-chakra-ui-and-react-hook-form-14g9)
-- [Dev.to/JS] [Checking version updates in package.json](https://dev.to/luqmanrom/checking-version-updates-in-packagejson-3ae4)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
-- [Dev.to/JS] [Create a French Flashcard Carousel in an evening](https://dev.to/menilek/create-a-french-flashcard-carousel-in-an-evening-3hc7)
-- [Dev.to/JS] [JavaScript Variable&#39;ları](https://dev.to/eminaltan/javascript-variablelari-2mbn)
-- [Dev.to/JS] [Generate GraphQL queries from simple text prompts!](https://dev.to/geobde/generate-graphql-queries-from-simple-text-prompts-2dcd)
-- [Lifehacker] [The Meanings Behind the Mechanical Sounds You Hear on a Plane](https://lifehacker.com/the-meanings-behind-the-mechanical-sounds-you-hear-on-a-1850908617)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
@@ -65,7 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nine Free Apps That Will Change Your Life, According to Reddit](https://lifehacker.com/the-best-free-apps-that-will-change-your-life-accordin-1850944947)
 - [Lifehacker] [The 30 Best Animated Movies You Can Stream Right Now](https://lifehacker.com/best-animated-movies-on-streaming-1850942505)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for $150 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-150-1850935747)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do It for the Plot](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-it-for-1850944099)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do It for the Plot](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-it-for-1850944099)
+- [Lifehacker] [Make Spooky Halloween ‘Mummy Fingers’ in Your Air Fryer](https://lifehacker.com/make-spooky-halloween-mummy-fingers-in-your-air-fryer-1850943021)<!-- TECH-POSTS:END -->
 
 ---
 
