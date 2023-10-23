@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The JavaScript Fullscreen API](https://dev.to/oneminch/the-javascript-fullscreen-api-3lie)
+- [Lifehacker] [Five Fixes for Leaky Gutters That You Can DIY](https://lifehacker.com/five-fixes-for-leaky-gutters-that-you-can-diy-1850946604)
+- [Dev.to/JS] [GraphQL Subscriptions](https://dev.to/bhavesh_yadav/graphql-subscriptions-4b8g)
+- [Dev.to/JS] [Library-Agnostic Mocks for HTTP Request Libraries in Node.js](https://dev.to/leogiraldimg/library-agnostic-mocks-for-http-request-libraries-in-nodejs-1bjm)
+- [Dev.to/JS] [Mocks agnósticos para bibliotecas de requisições HTTP no Node.js](https://dev.to/leogiraldimg/mocks-agnosticos-para-bibliotecas-de-requisicoes-http-no-nodejs-6i6)
+- [Dev.to/JS] [TF #20 | Your frontend digest](https://dev.to/tech_foutraque/tf-20-your-frontend-digest-18be)
 - [Dev.to/JS] [Overcoming Rheumatoid Arthritis: Strategies for a Better Life](https://dev.to/daniyalmehmood/overcoming-rheumatoid-arthritis-strategies-for-a-better-life-57fe)
 - [Dev.to/JS] [Top 5 React Lazy-Loading Images Libraries for 2023](https://dev.to/martygo/top-5-react-lazy-loading-images-libraries-for-2023-40nf)
 - [Dev.to/JS] [Search Engine Marketing](https://dev.to/vibrantmediatek/search-engine-marketing-p2a)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Agricultural economics - Field of study - Technology in Agriculture 2023](https://dev.to/organicfarming/agricultural-economics-field-of-study-technology-in-agriculture-2023-4b10)
 - [Dev.to/JS] [Search Engine Optimization](https://dev.to/vibrantmediatek/search-engine-optimization-3737)
 - [Dev.to/JS] [Create a Random Color Palette Generator in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/create-a-random-color-palette-generator-in-html-css-javascript-2c5p)
-- [Dev.to/JS] [React useTransition: performance game changer or...?](https://dev.to/adevnadia/react-usetransition-performance-game-changer-or-1302)
-- [Dev.to/JS] [How to Add a Large List of Elements to the DOM Efficiently Using DocumentFragments 🧩](https://dev.to/mike-at-redspace/how-to-add-a-large-list-of-elements-to-the-dom-efficiently-using-documentfragments-37pp)
-- [Dev.to/JS] [Streamlining Your Finances: A Comprehensive Guide to Mepco Online Bill Payment](https://dev.to/onlinebillexpert/streamlining-your-finances-a-comprehensive-guide-to-mepco-online-bill-payment-23cf)
-- [Dev.to/JS] [JavaScript Frameworks: Choosing the Right One](https://dev.to/rowsanali/javascript-frameworks-choosing-the-right-one-3mbj)
-- [Dev.to/JS] [Code for sliding headlines on website JS , CSS and HTML](https://dev.to/smz01/code-for-sliding-headlines-on-website-js-css-and-html-4d3c)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nine Free Apps That Will Change Your Life, According to Reddit](https://lifehacker.com/the-best-free-apps-that-will-change-your-life-accordin-1850944947)
 - [Lifehacker] [The 30 Best Animated Movies You Can Stream Right Now](https://lifehacker.com/best-animated-movies-on-streaming-1850942505)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for $150 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-150-1850935747)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do It for the Plot](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-it-for-1850944099)
-- [Lifehacker] [Make Spooky Halloween ‘Mummy Fingers’ in Your Air Fryer](https://lifehacker.com/make-spooky-halloween-mummy-fingers-in-your-air-fryer-1850943021)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Do It for the Plot](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-do-it-for-1850944099)<!-- TECH-POSTS:END -->
 
 ---
 
