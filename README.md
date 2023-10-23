@@ -26,7 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Weekly programmers report 23/10/2023](https://dev.to/2nitarticles/weekly-programmers-report-23102023-3mo4)
+- [Dev.to/JS] [Introducing the first JS13K Games Community Soundtrack](https://dev.to/mrlopis/introducing-the-first-js13k-games-community-soundtrack-3kgm)
+- [Dev.to/JS] [PDFMake en Acción: Cómo Diseñar Tickets en ReactJS con PDFMake](https://dev.to/malcode/pdfmake-en-accion-como-disenar-tickets-en-reactjs-con-pdfmake-43ck)
+- [Lifehacker] [You Can Now Format Text in Google Keep](https://lifehacker.com/how-to-format-text-in-google-keep-1850949818)
+- [Dev.to/JS] [Creating and Testing Apollo Client Links](https://dev.to/companycam/creating-and-testing-apollo-client-links-cca)
+- [Dev.to/JS] [Posibles Características en TypeScript 5.3](https://dev.to/malcode/posibles-caracteristicas-en-typescript-53-hb7)
+- [Dev.to/JS] [Machine Learning for JavaScript Developers: TensorFlow Step-by-Step Guide to Getting Started](https://dev.to/eugene_b/machine-learning-for-javascript-developers-tensorflow-step-by-step-guide-to-getting-started-58il)
+- [Lifehacker] [The M2 MacBook Air Has Dropped to Prime Day Prices](https://lifehacker.com/the-m2-macbook-air-has-dropped-to-prime-day-prices-1850949799)
+- [Dev.to/JS] [Introducing Sandpack Lit: The Universal CodeSandbox](https://dev.to/andrico1234/introducing-sandpack-lit-the-universal-codesandbox-178o)
+- [Dev.to/JS] [Weekly programmers report 23/10/2023](https://dev.to/2nit/weekly-programmers-report-23102023-3mo4)
 - [Dev.to/JS] [What’s my AGI again? Implementing an Autonomous Agent in Js](https://dev.to/ale_annini/whats-my-agi-again-implementing-an-autonomous-agent-in-js-39b4)
 - [Lifehacker] [You Can Get This Dual-Camera Drone for $80](https://lifehacker.com/you-can-get-this-dual-camera-drone-for-80-1850945533)
 - [Lifehacker] [The Dyson Hot+Cold Gen1 Air Purifier Is Both Cool and Hot](https://lifehacker.com/dyson-hot-cold-gen1-air-purifier-review-1850948670)
@@ -37,13 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Magic of Angular Change Detection: A Developer&#39;s Handbook](https://dev.to/chintanonweb/the-magic-of-angular-change-detection-a-developers-handbook-42ak)
 - [Dev.to/JS] [The JavaScript Fullscreen API](https://dev.to/oneminch/the-javascript-fullscreen-api-3lie)
 - [Lifehacker] [Five Fixes for Leaky Gutters That You Can DIY](https://lifehacker.com/five-fixes-for-leaky-gutters-that-you-can-diy-1850946604)
-- [Dev.to/JS] [Mocks agnósticos para bibliotecas de requisições HTTP no Node.js](https://dev.to/leogiraldimg/mocks-agnosticos-para-bibliotecas-de-requisicoes-http-no-nodejs-6i6)
-- [Dev.to/JS] [Library-Agnostic Mocks for HTTP Request Libraries in Node.js](https://dev.to/leogiraldimg/library-agnostic-mocks-for-http-request-libraries-in-nodejs-1bjm)
 - [Dev.to/JS] [GraphQL Subscriptions](https://dev.to/bhavesh_yadav/graphql-subscriptions-4b8g)
-- [Dev.to/JS] [TF #20 | Your frontend digest](https://dev.to/tech_foutraque/tf-20-your-frontend-digest-18be)
-- [Dev.to/JS] [Overcoming Rheumatoid Arthritis: Strategies for a Better Life](https://dev.to/daniyalmehmood/overcoming-rheumatoid-arthritis-strategies-for-a-better-life-57fe)
-- [Dev.to/JS] [Top 5 React Lazy-Loading Images Libraries for 2023](https://dev.to/martygo/top-5-react-lazy-loading-images-libraries-for-2023-40nf)
-- [Dev.to/JS] [Search Engine Marketing](https://dev.to/vibrantmediatek/search-engine-marketing-p2a)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Better PSL With Pumpkin Butter](https://lifehacker.com/make-a-better-psl-with-pumpkin-butter-1850945774)
 - [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)
 - [Lifehacker] [Use the ‘Calendar Method’ to Finally Declutter Your House](https://lifehacker.com/use-the-calendar-method-to-finally-declutter-your-hou-1850945389)
-- [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)
-- [Lifehacker] [How to Tell What Kind of Procrastinator You Are &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-stop-procrastinating-1850945168)
-- [Lifehacker] [How to Spot Financial Infidelity &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-financial-infidelity-and-what-to-do-about-1850937367)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)<!-- TECH-POSTS:END -->
 
 ---
 
