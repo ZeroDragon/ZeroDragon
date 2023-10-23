@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly programmers report 23/10/2023](https://dev.to/2nitarticles/weekly-programmers-report-23102023-3mo4)
+- [Dev.to/JS] [What’s my AGI again? Implementing an Autonomous Agent in Js](https://dev.to/ale_annini/whats-my-agi-again-implementing-an-autonomous-agent-in-js-39b4)
+- [Lifehacker] [You Can Get This Dual-Camera Drone for $80](https://lifehacker.com/you-can-get-this-dual-camera-drone-for-80-1850945533)
+- [Lifehacker] [The Dyson Hot+Cold Gen1 Air Purifier Is Both Cool and Hot](https://lifehacker.com/dyson-hot-cold-gen1-air-purifier-review-1850948670)
 - [Dev.to/JS] [How to create a reusable API service client in react using FETCH.](https://dev.to/austinevick/how-to-create-a-reusable-api-service-client-in-react-using-fetch-2o8b)
 - [Lifehacker] [How to Prepare for the Dentist if You Haven&#39;t Been in Forever](https://lifehacker.com/how-to-prepare-for-the-dentist-if-you-havent-been-in-fo-1850931921)
 - [Lifehacker] [You Can Get This Beginner&#39;s Cybersecurity Course for $60 Right Now](https://lifehacker.com/you-can-get-this-beginners-cybersecurity-course-for-60-1850935796)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Overcoming Rheumatoid Arthritis: Strategies for a Better Life](https://dev.to/daniyalmehmood/overcoming-rheumatoid-arthritis-strategies-for-a-better-life-57fe)
 - [Dev.to/JS] [Top 5 React Lazy-Loading Images Libraries for 2023](https://dev.to/martygo/top-5-react-lazy-loading-images-libraries-for-2023-40nf)
 - [Dev.to/JS] [Search Engine Marketing](https://dev.to/vibrantmediatek/search-engine-marketing-p2a)
-- [Dev.to/JS] [What is Email Marketing](https://dev.to/vibrantmediatek/what-is-email-marketing-1f48)
-- [Dev.to/JS] [Agricultural economics - Field of study - Technology in Agriculture 2023](https://dev.to/organicfarming/agricultural-economics-field-of-study-technology-in-agriculture-2023-4b10)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘Calendar Method’ to Finally Declutter Your House](https://lifehacker.com/use-the-calendar-method-to-finally-declutter-your-hou-1850945389)
 - [Lifehacker] [Why Not Shape Your Gnocchi Into Wee Pumpkins?](https://lifehacker.com/why-not-shape-your-gnocchi-into-wee-pumpkins-1849723768)
 - [Lifehacker] [How to Tell What Kind of Procrastinator You Are &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-stop-procrastinating-1850945168)
-- [Lifehacker] [How to Spot Financial Infidelity &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-financial-infidelity-and-what-to-do-about-1850937367)
-- [Lifehacker] [Where to Stream the North Carolina Vs. Virginia Game](https://lifehacker.com/where-to-stream-the-north-carolina-vs-virginia-game-1850945079)
-- [Lifehacker] [Nine Free Apps That Will Change Your Life, According to Reddit](https://lifehacker.com/the-best-free-apps-that-will-change-your-life-accordin-1850944947)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Spot Financial Infidelity &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-financial-infidelity-and-what-to-do-about-1850937367)<!-- TECH-POSTS:END -->
 
 ---
 
