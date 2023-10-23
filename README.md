@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding EventEmitter - Nodejs Core Concept](https://dev.to/taiwo17/understanding-eventemitter-nodejs-core-concept-3ffg)
+- [Lifehacker] [Why Not Dust Your Fruits and Vegetables With Buttermilk Powder](https://lifehacker.com/why-not-dust-your-fruits-and-vegetables-with-buttermilk-1850950818)
+- [Lifehacker] [The Biggest Differences Between the Pixel Watch 2 and Galaxy Watch 6](https://lifehacker.com/the-biggest-differences-between-the-pixel-watch-2-and-g-1850950925)
 - [Lifehacker] [Make a Mini Loaf of Bread With a Single Cup of Flour](https://lifehacker.com/make-a-mini-loaf-of-bread-with-a-single-cup-of-flour-1850950863)
 - [Dev.to/JS] [Express &amp; Stripe: Webhooks Done Right](https://dev.to/stephensamra/express-stripe-webhooks-done-right-1510)
 - [Dev.to/JS] [Hacktoberfest Recap](https://dev.to/sdthaker/hacktoberfest-recap-494k)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PDFMake en Acción: Cómo Diseñar Tickets en ReactJS con PDFMake](https://dev.to/malcode/pdfmake-en-accion-como-disenar-tickets-en-reactjs-con-pdfmake-43ck)
 - [Lifehacker] [You Can Now Format Text in Google Keep](https://lifehacker.com/how-to-format-text-in-google-keep-1850949818)
 - [Dev.to/JS] [Creating and Testing Apollo Client Links](https://dev.to/companycam/creating-and-testing-apollo-client-links-cca)
-- [Dev.to/JS] [Posibles Características en TypeScript 5.3](https://dev.to/malcode/posibles-caracteristicas-en-typescript-53-hb7)
 - [Lifehacker] [The M2 MacBook Air Has Dropped to Prime Day Prices](https://lifehacker.com/the-m2-macbook-air-has-dropped-to-prime-day-prices-1850949799)
 - [Lifehacker] [You Can Get This Dual-Camera Drone for $80](https://lifehacker.com/you-can-get-this-dual-camera-drone-for-80-1850945533)
 - [Lifehacker] [The Dyson Hot+Cold Gen1 Air Purifier Is Both Cool and Hot](https://lifehacker.com/dyson-hot-cold-gen1-air-purifier-review-1850948670)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)
 - [Lifehacker] [8 Ways to Have Fun With a Soft Penis](https://lifehacker.com/8-ways-to-have-fun-with-a-soft-penis-1850945425)
-- [Lifehacker] [The Best Way to Insulate Your Soil Now so You Can Plant Earlier in the Spring](https://lifehacker.com/the-best-way-to-insulate-your-soil-now-so-you-can-plant-1850946315)
-- [Lifehacker] [Your Kids Are Absolutely Dumb Enough to Eat Magnets](https://lifehacker.com/your-kids-are-absolutely-dumb-enough-to-eat-magnets-1850945370)
-- [Lifehacker] [How to Tell a Fake Rolex From a Real One in 2023](https://lifehacker.com/how-to-spot-a-fake-rolex-1850946148)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Insulate Your Soil Now so You Can Plant Earlier in the Spring](https://lifehacker.com/the-best-way-to-insulate-your-soil-now-so-you-can-plant-1850946315)<!-- TECH-POSTS:END -->
 
 ---
 
