@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Refurbished Blink Cameras Are up to 66% Off](https://lifehacker.com/these-refurbished-blink-cameras-are-up-to-66-off-1850950512)
+- [Dev.to/JS] [Day 74: Tip](https://dev.to/dhrn/day-74-tip-calculator-352l)
+- [Lifehacker] [Use This Tool to Get Your Preferred Seat on Any Flight](https://lifehacker.com/use-this-tool-to-get-your-preferred-seat-on-any-flight-1850949719)
 - [Lifehacker] [This ‘Language Learner’ Bundle Is $30 Right Now](https://lifehacker.com/this-language-learner-bundle-is-30-right-now-1850945763)
 - [Dev.to/JS] [Kickstart Your Coding Journey: Mimo and JavaScript!](https://dev.to/shawn2208/kickstart-your-coding-journey-mimo-and-javascript-1j3j)
 - [Dev.to/JS] [Developers, Add AI To Your Toolkit in 10 Minutes](https://dev.to/pezzo/developers-add-ai-to-your-toolkit-in-10-minutes-mdn)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What’s my AGI again? Implementing an Autonomous Agent in Js](https://dev.to/ale_annini/whats-my-agi-again-implementing-an-autonomous-agent-in-js-39b4)
 - [Lifehacker] [You Can Get This Dual-Camera Drone for $80](https://lifehacker.com/you-can-get-this-dual-camera-drone-for-80-1850945533)
 - [Lifehacker] [The Dyson Hot+Cold Gen1 Air Purifier Is Both Cool and Hot](https://lifehacker.com/dyson-hot-cold-gen1-air-purifier-review-1850948670)
-- [Dev.to/JS] [How to create a reusable API service client in react using FETCH.](https://dev.to/austinevick/how-to-create-a-reusable-api-service-client-in-react-using-fetch-2o8b)
 - [Lifehacker] [How to Prepare for the Dentist if You Haven&#39;t Been in Forever](https://lifehacker.com/how-to-prepare-for-the-dentist-if-you-havent-been-in-fo-1850931921)
 - [Lifehacker] [You Can Get This Beginner&#39;s Cybersecurity Course for $60 Right Now](https://lifehacker.com/you-can-get-this-beginners-cybersecurity-course-for-60-1850935796)
 - [Lifehacker] [The Best Vegan Mashed Potatoes Start With Yukon Golds](https://lifehacker.com/best-vegan-mashed-potatoes-recipe-1850946894)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meredith&#39;s Training Diaries: Surviving the Dreaded Taper](https://lifehacker.com/how-to-survive-the-marathon-taper-1850945224)
 - [Lifehacker] [You Can Totally Make Fried Eggs in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)
 - [Lifehacker] [Everything You Should Do Now If You Shop on Black Friday](https://lifehacker.com/everything-you-should-do-now-if-you-shop-on-black-frida-1850945998)
-- [Lifehacker] [These Are the Cheapest Houses You Can Build](https://lifehacker.com/these-are-the-cheapest-houses-you-can-build-1850945371)
-- [Lifehacker] [Make a Better PSL With Pumpkin Butter](https://lifehacker.com/make-a-better-psl-with-pumpkin-butter-1850945774)
-- [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Cheapest Houses You Can Build](https://lifehacker.com/these-are-the-cheapest-houses-you-can-build-1850945371)<!-- TECH-POSTS:END -->
 
 ---
 
