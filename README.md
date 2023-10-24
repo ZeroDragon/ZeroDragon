@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You Don&#39;t Need Axios](https://dev.to/ngfizzy/you-dont-need-axios-34j9)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 24, 2023](https://lifehacker.com/nyt-connections-answer-today-october-24-2023-1850949522)
 - [Dev.to/JS] [Demystifying Architectural Patterns](https://dev.to/alvisonhunter/demystifying-architectural-patterns-2nik)
 - [Dev.to/JS] [Font Loading API: A Fun and Powerful Tool for Making Your Web Pages Look Amazing](https://dev.to/joebim/font-loading-api-a-fun-and-powerful-tool-for-making-your-web-pages-look-amazing-4a35)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Tool to Get Your Preferred Seat on Any Flight](https://lifehacker.com/use-this-tool-to-get-your-preferred-seat-on-any-flight-1850949719)
 - [Lifehacker] [This ‘Language Learner’ Bundle Is $30 Right Now](https://lifehacker.com/this-language-learner-bundle-is-30-right-now-1850945763)
 - [Dev.to/JS] [Kickstart Your Coding Journey: Mimo and JavaScript!](https://dev.to/shawn2208/kickstart-your-coding-journey-mimo-and-javascript-1j3j)
-- [Dev.to/JS] [Developers, Add AI To Your Toolkit in 10 Minutes](https://dev.to/pezzo/developers-add-ai-to-your-toolkit-in-10-minutes-mdn)
 - [Lifehacker] [There Are Better Ways to Carve a Pumpkin Than That Dollar-Store Kit](https://lifehacker.com/there-are-better-ways-to-carve-a-pumpkin-than-that-doll-1850949973)
 - [Lifehacker] [You Can Now Format Text in Google Keep](https://lifehacker.com/how-to-format-text-in-google-keep-1850949818)
 - [Lifehacker] [The M2 MacBook Air Has Dropped to Prime Day Prices](https://lifehacker.com/the-m2-macbook-air-has-dropped-to-prime-day-prices-1850949799)
