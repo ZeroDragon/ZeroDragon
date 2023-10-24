@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Java vs. JavaScript: Understanding Their Distinctions](https://dev.to/ctrlcoding/java-vs-javascript-understanding-their-distinctions-3gfh)
+- [Lifehacker] [What&#39;s New on Max in November 2023](https://lifehacker.com/whats-new-on-max-in-november-2023-1850951003)
+- [Dev.to/JS] [Why I believe in open source](https://dev.to/opensourcee/why-i-believe-in-open-source-1fjb)
+- [Lifehacker] [Turn Pumpkin Guts Into a Comforting, Flavorful Broth](https://lifehacker.com/pumpkin-broth-recipe-1850951909)
+- [Dev.to/JS] [🎉 17 Javascript repositories to become the best developer in the world 🌍](https://dev.to/triggerdotdev/17-javascript-repositories-to-become-the-best-developer-in-the-world-15f3)
 - [Dev.to/JS] [Creating engaging buttons for your dev.to posts](https://dev.to/opensourcee/creating-engaging-buttons-for-your-devto-posts-4fn1)
 - [Dev.to/JS] [Simplifying JavaScript Code with Array Destructuring](https://dev.to/shameel/simplifying-javascript-code-with-array-destructuring-3j4k)
 - [Dev.to/JS] [HTTP Requests in JavaScript](https://dev.to/oneminch/http-requests-in-javascript-4ecc)
+- [Lifehacker] [Yes, It&#39;s OK to Cheat at One-Player Games](https://lifehacker.com/yes-its-ok-to-cheat-at-one-player-games-1850951574)
 - [Dev.to/JS] [First 10 Days of 30 Days of Javascript](https://dev.to/madalitsonyemba/first-10-days-of-30-days-of-javascript-3blo)
 - [Dev.to/JS] [Apresentando o PO-UI: Facilidade na implementação de CRUDs com componentes dinâmicos](https://dev.to/matheushchaves/apresentando-o-po-ui-facilidade-na-implementacao-de-cruds-com-componentes-dinamicos-anf)
 - [Dev.to/JS] [Advanced GraphQL Concepts](https://dev.to/bhavesh_yadav/advanced-graphql-concepts-3mh6)
 - [Dev.to/JS] [ECMAScript Decorators. The Ones That are Real](https://dev.to/what1s1ove/ecmascript-decorators-the-ones-that-are-real-g96)
 - [Dev.to/JS] [Summary of Common Javascript Array Methods](https://dev.to/snowiewdev/summary-of-common-javascript-array-methods-o3j)
 - [Dev.to/JS] [Frontend Performance Glossary: The 11 Most Common Metrics](https://dev.to/dsitdikov/frontend-performance-glossary-the-11-most-common-metrics-76o)
-- [Dev.to/JS] [BLM - Build Learn Monetize: My Journey of Learning](https://dev.to/d41_dev/blm-build-learn-monetize-my-journey-of-learning-lp0)
-- [Dev.to/JS] [Creating Your First NPM Package](https://dev.to/prajesheleven/creating-your-first-npm-package-2b9o)
-- [Dev.to/JS] [[HELP]I want to convert my react/next js component file to text.](https://dev.to/shacodes/i-want-to-convert-my-reactnext-js-component-file-to-text-26ph)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 24, 2023](https://lifehacker.com/nyt-connections-answer-today-october-24-2023-1850949522)
 - [Lifehacker] [This Heated and Adjustable Massage Gun Is $50](https://lifehacker.com/this-heated-and-adjustable-massage-gun-is-50-1850945815)
 - [Lifehacker] [This LG High Res Sound Bar Is $280 Right Now](https://lifehacker.com/this-lg-high-res-sound-bar-is-280-right-now-1850951508)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
 - [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
-- [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
-- [Lifehacker] [How to Avoid Pump Switching Scams at the Gas Station](https://lifehacker.com/how-to-avoid-pump-switching-scams-at-the-gas-station-1850947323)
-- [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)<!-- TECH-POSTS:END -->
 
 ---
 
