@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deep DHTMLX Gantt Customization: New Looks of Tasks, Month Marker, and Customized Grid](https://dev.to/plazarev/deep-dhtmlx-gantt-customization-new-looks-of-tasks-month-marker-and-customized-grid-1f71)
+- [Dev.to/JS] [Functional Programming in JavaScript: A Comprehensive Guide to Clean and Maintainable Code](https://dev.to/outstandingvick/functional-programming-in-javascript-a-comprehensive-guide-to-clean-and-maintainable-code-5a08)
+- [Dev.to/JS] [kill a windows/linux process](https://dev.to/rajarajacholank/kill-a-windowslinux-process-1ook)
+- [Lifehacker] [The Best Ways to Keep Seeds Organized and Stored All Year](https://lifehacker.com/the-best-ways-to-keep-seeds-organized-and-stored-all-ye-1850952359)
+- [Dev.to/JS] [nhacaiWin55](https://dev.to/nhacaiwin55/nhacaiwin55-4i39)
+- [Dev.to/JS] [JS devs, what&#39;s your take on marketing content?](https://dev.to/olob96/js-devs-whats-your-take-on-marketing-content-3403)
 - [Dev.to/JS] [Java vs. JavaScript: Understanding Their Distinctions](https://dev.to/ctrlcoding/java-vs-javascript-understanding-their-distinctions-3gfh)
 - [Lifehacker] [What&#39;s New on Max in November 2023](https://lifehacker.com/whats-new-on-max-in-november-2023-1850951003)
 - [Dev.to/JS] [Why I believe in open source](https://dev.to/opensourcee/why-i-believe-in-open-source-1fjb)
@@ -36,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTTP Requests in JavaScript](https://dev.to/oneminch/http-requests-in-javascript-4ecc)
 - [Lifehacker] [Yes, It&#39;s OK to Cheat at One-Player Games](https://lifehacker.com/yes-its-ok-to-cheat-at-one-player-games-1850951574)
 - [Dev.to/JS] [First 10 Days of 30 Days of Javascript](https://dev.to/madalitsonyemba/first-10-days-of-30-days-of-javascript-3blo)
-- [Dev.to/JS] [Apresentando o PO-UI: Facilidade na implementação de CRUDs com componentes dinâmicos](https://dev.to/matheushchaves/apresentando-o-po-ui-facilidade-na-implementacao-de-cruds-com-componentes-dinamicos-anf)
-- [Dev.to/JS] [Advanced GraphQL Concepts](https://dev.to/bhavesh_yadav/advanced-graphql-concepts-3mh6)
-- [Dev.to/JS] [ECMAScript Decorators. The Ones That are Real](https://dev.to/what1s1ove/ecmascript-decorators-the-ones-that-are-real-g96)
-- [Dev.to/JS] [Summary of Common Javascript Array Methods](https://dev.to/snowiewdev/summary-of-common-javascript-array-methods-o3j)
-- [Dev.to/JS] [Frontend Performance Glossary: The 11 Most Common Metrics](https://dev.to/dsitdikov/frontend-performance-glossary-the-11-most-common-metrics-76o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 24, 2023](https://lifehacker.com/nyt-connections-answer-today-october-24-2023-1850949522)
 - [Lifehacker] [This Heated and Adjustable Massage Gun Is $50](https://lifehacker.com/this-heated-and-adjustable-massage-gun-is-50-1850945815)
 - [Lifehacker] [This LG High Res Sound Bar Is $280 Right Now](https://lifehacker.com/this-lg-high-res-sound-bar-is-280-right-now-1850951508)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Fixes for Leaky Gutters That You Can DIY](https://lifehacker.com/five-fixes-for-leaky-gutters-that-you-can-diy-1850946604)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
 - [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
-- [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)<!-- TECH-POSTS:END -->
 
 ---
 
