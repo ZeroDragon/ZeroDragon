@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Before You Learn React In 2023](https://dev.to/scofieldidehen/before-you-learn-react-in-2023-3c5i)
+- [Dev.to/JS] [Angular vs React: A Comprehensive Comparison of Pros and Cons](https://dev.to/lakincoder/angular-vs-react-a-comprehensive-comparison-of-pros-and-cons-1kao)
+- [Dev.to/JS] [Explained with code example - What is API statelessness and why do we care?](https://dev.to/abhichakra/explained-with-code-example-what-is-api-statelessness-and-why-do-we-care-3dn4)
+- [Dev.to/JS] [✨ The quickest way to find Hacktoberfest projects 🚀](https://dev.to/quine/the-quickest-way-to-find-hacktoberfest-projects-1795)
+- [Lifehacker] [This Mobile Data Deal Gets You $50 of Credit for $21.97](https://lifehacker.com/this-mobile-data-deal-gets-you-50-of-credit-for-21-97-1850951815)
+- [Dev.to/JS] [Playing with the Gamepad API](https://dev.to/alvaromontoro/playing-with-the-gamepad-api-gha)
+- [Dev.to/JS] [Porque você não deveria usar funções de debounce o tempo todo](https://dev.to/ricmello/porque-voce-nao-deveria-usar-funcoes-de-debounce-o-tempo-todo-1bam)
+- [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
+- [Lifehacker] [How to Download Videos From X/Twitter](https://lifehacker.com/how-to-download-twitter-videos-1850952824)
 - [Dev.to/JS] [Hackerrank: Understanding the minMaxSum Function in JavaScript](https://dev.to/chrisimade/hackerrank-understanding-the-minmaxsum-function-in-javascript-2o2h)
 - [Dev.to/JS] [Back Button Navigation - Angular](https://dev.to/germansaracca/back-button-navigation-angular-4fal)
 - [Lifehacker] [Get Your Desert Landscaping Ready for Winter](https://lifehacker.com/how-to-prepare-desert-landscaping-for-winter-1850952385)
@@ -34,15 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deep DHTMLX Gantt Customization: New Looks of Tasks, Month Marker, and Customized Grid](https://dev.to/plazarev/deep-dhtmlx-gantt-customization-new-looks-of-tasks-month-marker-and-customized-grid-1f71)
 - [Lifehacker] [The Best Streaming Devices in 2023](https://lifehacker.com/best-streaming-devices-1850951613)
 - [Dev.to/JS] [Functional Programming in JavaScript: A Comprehensive Guide to Clean and Maintainable Code](https://dev.to/outstandingvick/functional-programming-in-javascript-a-comprehensive-guide-to-clean-and-maintainable-code-5a08)
-- [Dev.to/JS] [kill a windows/linux process](https://dev.to/rajarajacholank/kill-a-windowslinux-process-1ook)
 - [Lifehacker] [The Best Ways to Keep Seeds Organized and Stored All Year](https://lifehacker.com/the-best-ways-to-keep-seeds-organized-and-stored-all-ye-1850952359)
-- [Dev.to/JS] [nhacaiWin55](https://dev.to/nhacaiwin55/nhacaiwin55-4i39)
-- [Dev.to/JS] [JS devs, what&#39;s your take on marketing content?](https://dev.to/olob96/js-devs-whats-your-take-on-marketing-content-3403)
-- [Dev.to/JS] [Java vs. JavaScript: Understanding Their Distinctions](https://dev.to/ctrlcoding/java-vs-javascript-understanding-their-distinctions-3gfh)
 - [Lifehacker] [What&#39;s New on Max in November 2023](https://lifehacker.com/whats-new-on-max-in-november-2023-1850951003)
-- [Dev.to/JS] [Why I believe in open source](https://dev.to/opensourcee/why-i-believe-in-open-source-1fjb)
 - [Lifehacker] [Turn Pumpkin Guts Into a Comforting, Flavorful Broth](https://lifehacker.com/pumpkin-broth-recipe-1850951909)
-- [Dev.to/JS] [🎉 17 Javascript repositories to become the best developer in the world 🌍](https://dev.to/triggerdotdev/17-javascript-repositories-to-become-the-best-developer-in-the-world-15f3)
 - [Lifehacker] [Yes, It&#39;s OK to Cheat at One-Player Games](https://lifehacker.com/yes-its-ok-to-cheat-at-one-player-games-1850951574)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 24, 2023](https://lifehacker.com/nyt-connections-answer-today-october-24-2023-1850949522)
 - [Lifehacker] [This Heated and Adjustable Massage Gun Is $50](https://lifehacker.com/this-heated-and-adjustable-massage-gun-is-50-1850945815)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Dual-Camera Drone for $80](https://lifehacker.com/you-can-get-this-dual-camera-drone-for-80-1850945533)
 - [Lifehacker] [The Dyson Hot+Cold Gen1 Air Purifier Is Both Cool and Hot](https://lifehacker.com/dyson-hot-cold-gen1-air-purifier-review-1850948670)
 - [Lifehacker] [How to Prepare for the Dentist if You Haven&#39;t Been in Forever](https://lifehacker.com/how-to-prepare-for-the-dentist-if-you-havent-been-in-fo-1850931921)
-- [Lifehacker] [You Can Get This Beginner&#39;s Cybersecurity Course for $60 Right Now](https://lifehacker.com/you-can-get-this-beginners-cybersecurity-course-for-60-1850935796)
-- [Lifehacker] [The Best Vegan Mashed Potatoes Start With Yukon Golds](https://lifehacker.com/best-vegan-mashed-potatoes-recipe-1850946894)
-- [Lifehacker] [Five Fixes for Leaky Gutters That You Can DIY](https://lifehacker.com/five-fixes-for-leaky-gutters-that-you-can-diy-1850946604)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Beginner&#39;s Cybersecurity Course for $60 Right Now](https://lifehacker.com/you-can-get-this-beginners-cybersecurity-course-for-60-1850935796)<!-- TECH-POSTS:END -->
 
 ---
 
