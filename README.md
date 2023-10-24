@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Calculator: Building Basic Arithmetic Operations with User-Friendly Interface](https://dev.to/kartikbudhraja/react-calculator-building-basic-arithmetic-operations-with-user-friendly-interface-1b1b)
+- [Dev.to/JS] [Share admin privileges with participants during a real-time video call](https://dev.to/trydaily/share-admin-privileges-with-participants-during-a-real-time-video-call-3fob)
+- [Lifehacker] [The 45 Best Classic Movies &lpar;1970s and Earlier&rpar; You Can Stream Right Now](https://lifehacker.com/best-classic-movies-on-streaming-1850951262)
+- [Lifehacker] [The Best Ways to Extend a Jack-o-Lantern’s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
+- [Lifehacker] [How to Share Your Focus Status on iPhone &lpar;and Why You’d Want To&rpar;](https://lifehacker.com/how-to-use-share-focus-status-iphone-1850952493)
+- [Dev.to/JS] [LOST CRYPTO/ETH/FUNDS RECOVERY EXPERTS//LOST RECOVERY MASTERS](https://dev.to/benpesci/lost-cryptoethfunds-recovery-expertslost-recovery-masters-5pn)
 - [Lifehacker] [How to Use the PS5 Controller on a PS4](https://lifehacker.com/how-to-use-the-ps5-controller-on-a-ps4-1850953710)
 - [Lifehacker] [You Can Make Roux in the Microwave &lpar;or Oven&rpar;](https://lifehacker.com/how-to-make-roux-in-the-microwave-or-oven-1848187134)
 - [Dev.to/JS] [Beginner’s Guide On Sending Automated Emails With Node.js, Nodemailer, and Cron Jobs](https://dev.to/scofieldidehen/beginners-guide-on-sending-automated-emails-with-nodejs-nodemailer-and-cron-jobs-35pm)
@@ -45,9 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hackerrank: Understanding the minMaxSum Function in JavaScript](https://dev.to/chrisimade/hackerrank-understanding-the-minmaxsum-function-in-javascript-2o2h)
 - [Dev.to/JS] [Back Button Navigation - Angular](https://dev.to/germansaracca/back-button-navigation-angular-4fal)
 - [Lifehacker] [Get Your Desert Landscaping Ready for Winter](https://lifehacker.com/how-to-prepare-desert-landscaping-for-winter-1850952385)
-- [Dev.to/JS] [Building a Node.js Authentication System with MySQL: A Step-by-Step Guide](https://dev.to/nuelobeto/building-a-nodejs-authentication-system-with-mysql-a-step-by-step-guide-19l9)
-- [Dev.to/JS] [ES6+ Features: A Comprehensive Exploration of ECMAScript&#39;s Latest Advancements](https://dev.to/outstandingvick/es6-features-a-comprehensive-exploration-of-ecmascripts-latest-advancements-5da1)
-- [Dev.to/JS] [Deep DHTMLX Gantt Customization: New Looks of Tasks, Month Marker, and Customized Grid](https://dev.to/plazarev/deep-dhtmlx-gantt-customization-new-looks-of-tasks-month-marker-and-customized-grid-1f71)
 - [Lifehacker] [The Best Streaming Devices in 2023](https://lifehacker.com/best-streaming-devices-1850951613)
 - [Lifehacker] [The Best Ways to Keep Seeds Organized and Stored All Year](https://lifehacker.com/the-best-ways-to-keep-seeds-organized-and-stored-all-ye-1850952359)
 - [Lifehacker] [What&#39;s New on Max in November 2023](https://lifehacker.com/whats-new-on-max-in-november-2023-1850951003)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use ‘Curb Alerts’ to Get Free Stuff in Your Neighborhood](https://lifehacker.com/use-curb-alerts-to-get-free-stuff-in-your-neighborhoo-1850950095)
 - [Lifehacker] [12 Cozy Podcasts to Warm Your Mind, Body, and Soul](https://lifehacker.com/best-cozy-podcasts-1850950191)
 - [Lifehacker] [All the Different Retirement Accounts You Can Take Advantage Of](https://lifehacker.com/all-the-different-retirement-accounts-you-can-take-adva-1850950256)
-- [Lifehacker] [These Refurbished Blink Cameras Are up to 66% Off](https://lifehacker.com/these-refurbished-blink-cameras-are-up-to-66-off-1850950512)
-- [Lifehacker] [Use This Tool to Get Your Preferred Seat on Any Flight](https://lifehacker.com/use-this-tool-to-get-your-preferred-seat-on-any-flight-1850949719)
-- [Lifehacker] [This ‘Language Learner’ Bundle Is $30 Right Now](https://lifehacker.com/this-language-learner-bundle-is-30-right-now-1850945763)
-- [Lifehacker] [There Are Better Ways to Carve a Pumpkin Than That Dollar-Store Kit](https://lifehacker.com/there-are-better-ways-to-carve-a-pumpkin-than-that-doll-1850949973)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Refurbished Blink Cameras Are up to 66% Off](https://lifehacker.com/these-refurbished-blink-cameras-are-up-to-66-off-1850950512)<!-- TECH-POSTS:END -->
 
 ---
 
