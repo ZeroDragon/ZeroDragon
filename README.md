@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 24, 2023](https://lifehacker.com/nyt-connections-answer-today-october-24-2023-1850949522)
+- [Dev.to/JS] [Demystifying Architectural Patterns](https://dev.to/alvisonhunter/demystifying-architectural-patterns-2nik)
 - [Dev.to/JS] [Font Loading API: A Fun and Powerful Tool for Making Your Web Pages Look Amazing](https://dev.to/joebim/font-loading-api-a-fun-and-powerful-tool-for-making-your-web-pages-look-amazing-4a35)
 - [Dev.to/JS] [Server side Javascript in WebAssembly](https://dev.to/technosophos/server-side-javascript-in-webassembly-4coh)
 - [Lifehacker] [This Heated and Adjustable Massage Gun Is $50](https://lifehacker.com/this-heated-and-adjustable-massage-gun-is-50-1850945815)
@@ -48,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This ‘Language Learner’ Bundle Is $30 Right Now](https://lifehacker.com/this-language-learner-bundle-is-30-right-now-1850945763)
 - [Dev.to/JS] [Kickstart Your Coding Journey: Mimo and JavaScript!](https://dev.to/shawn2208/kickstart-your-coding-journey-mimo-and-javascript-1j3j)
 - [Dev.to/JS] [Developers, Add AI To Your Toolkit in 10 Minutes](https://dev.to/pezzo/developers-add-ai-to-your-toolkit-in-10-minutes-mdn)
-- [Dev.to/JS] [Declarative JavaScript](https://dev.to/sultan99/declarative-javascript-10oh)
 - [Lifehacker] [There Are Better Ways to Carve a Pumpkin Than That Dollar-Store Kit](https://lifehacker.com/there-are-better-ways-to-carve-a-pumpkin-than-that-doll-1850949973)
 - [Lifehacker] [You Can Now Format Text in Google Keep](https://lifehacker.com/how-to-format-text-in-google-keep-1850949818)
 - [Lifehacker] [The M2 MacBook Air Has Dropped to Prime Day Prices](https://lifehacker.com/the-m2-macbook-air-has-dropped-to-prime-day-prices-1850949799)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 22, 2023](https://lifehacker.com/nyt-connections-answer-today-october-22-2023-1850943448)
 - [Lifehacker] [How to Respectfully Disagree With a Coworker](https://lifehacker.com/how-to-respectfully-disagree-with-a-coworker-1850947325)
 - [Lifehacker] [How to Avoid Pump Switching Scams at the Gas Station](https://lifehacker.com/how-to-avoid-pump-switching-scams-at-the-gas-station-1850947323)
-- [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 21, 2023](https://lifehacker.com/nyt-connections-answer-today-october-21-2023-1850943287)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Popular Home Design Trends Coming in 2024, According to Zillow](https://lifehacker.com/the-most-popular-home-design-trends-coming-in-2024-acc-1850947316)<!-- TECH-POSTS:END -->
 
 ---
 
