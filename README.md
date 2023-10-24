@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Font Loading API: A Fun and Powerful Tool for Making Your Web Pages Look Amazing](https://dev.to/joebim/font-loading-api-a-fun-and-powerful-tool-for-making-your-web-pages-look-amazing-4a35)
+- [Dev.to/JS] [Server side Javascript in WebAssembly](https://dev.to/technosophos/server-side-javascript-in-webassembly-4coh)
 - [Lifehacker] [This Heated and Adjustable Massage Gun Is $50](https://lifehacker.com/this-heated-and-adjustable-massage-gun-is-50-1850945815)
 - [Lifehacker] [This LG High Res Sound Bar Is $280 Right Now](https://lifehacker.com/this-lg-high-res-sound-bar-is-280-right-now-1850951508)
 - [Dev.to/JS] [Attaching Images to Discord Webhooks with Google App Scripts](https://dev.to/elitogame/attaching-images-to-discord-webhooks-with-google-app-scripts-4053)
@@ -48,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Developers, Add AI To Your Toolkit in 10 Minutes](https://dev.to/pezzo/developers-add-ai-to-your-toolkit-in-10-minutes-mdn)
 - [Dev.to/JS] [Declarative JavaScript](https://dev.to/sultan99/declarative-javascript-10oh)
 - [Lifehacker] [There Are Better Ways to Carve a Pumpkin Than That Dollar-Store Kit](https://lifehacker.com/there-are-better-ways-to-carve-a-pumpkin-than-that-doll-1850949973)
-- [Dev.to/JS] [Introducing the first JS13K Games Community Soundtrack](https://dev.to/mrlopis/introducing-the-first-js13k-games-community-soundtrack-3kgm)
-- [Dev.to/JS] [PDFMake en Acción: Cómo Diseñar Tickets en ReactJS con PDFMake](https://dev.to/malcode/pdfmake-en-accion-como-disenar-tickets-en-reactjs-con-pdfmake-43ck)
 - [Lifehacker] [You Can Now Format Text in Google Keep](https://lifehacker.com/how-to-format-text-in-google-keep-1850949818)
 - [Lifehacker] [The M2 MacBook Air Has Dropped to Prime Day Prices](https://lifehacker.com/the-m2-macbook-air-has-dropped-to-prime-day-prices-1850949799)
 - [Lifehacker] [You Can Get This Dual-Camera Drone for $80](https://lifehacker.com/you-can-get-this-dual-camera-drone-for-80-1850945533)
