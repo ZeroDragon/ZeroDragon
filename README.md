@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Podcasts That Will Make You a Better DIYer](https://lifehacker.com/the-best-home-improvement-podcasts-1850952184)
+- [Lifehacker] [The OLED Nintendo Switch Is $60 Off Right Now](https://lifehacker.com/the-oled-nintendo-switch-is-60-off-right-now-1850953806)
+- [Lifehacker] [These Eight Banks Reimburse ATM Fees](https://lifehacker.com/these-banks-reimburse-atm-fees-1848982111)
+- [Lifehacker] [There Are Four Ways to Turn Off Your iPhone](https://lifehacker.com/how-to-turn-off-iphone-1850952580)
 - [Dev.to/JS] [Before You Learn React In 2023](https://dev.to/scofieldidehen/before-you-learn-react-in-2023-3c5i)
 - [Dev.to/JS] [Angular vs React: A Comprehensive Comparison of Pros and Cons](https://dev.to/lakincoder/angular-vs-react-a-comprehensive-comparison-of-pros-and-cons-1kao)
 - [Dev.to/JS] [Explained with code example - What is API statelessness and why do we care?](https://dev.to/abhichakra/explained-with-code-example-what-is-api-statelessness-and-why-do-we-care-3dn4)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This ‘Language Learner’ Bundle Is $30 Right Now](https://lifehacker.com/this-language-learner-bundle-is-30-right-now-1850945763)
 - [Lifehacker] [There Are Better Ways to Carve a Pumpkin Than That Dollar-Store Kit](https://lifehacker.com/there-are-better-ways-to-carve-a-pumpkin-than-that-doll-1850949973)
 - [Lifehacker] [You Can Now Format Text in Google Keep](https://lifehacker.com/how-to-format-text-in-google-keep-1850949818)
-- [Lifehacker] [The M2 MacBook Air Has Dropped to Prime Day Prices](https://lifehacker.com/the-m2-macbook-air-has-dropped-to-prime-day-prices-1850949799)
-- [Lifehacker] [You Can Get This Dual-Camera Drone for $80](https://lifehacker.com/you-can-get-this-dual-camera-drone-for-80-1850945533)
-- [Lifehacker] [The Dyson Hot+Cold Gen1 Air Purifier Is Both Cool and Hot](https://lifehacker.com/dyson-hot-cold-gen1-air-purifier-review-1850948670)
-- [Lifehacker] [How to Prepare for the Dentist if You Haven&#39;t Been in Forever](https://lifehacker.com/how-to-prepare-for-the-dentist-if-you-havent-been-in-fo-1850931921)
-- [Lifehacker] [You Can Get This Beginner&#39;s Cybersecurity Course for $60 Right Now](https://lifehacker.com/you-can-get-this-beginners-cybersecurity-course-for-60-1850935796)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The M2 MacBook Air Has Dropped to Prime Day Prices](https://lifehacker.com/the-m2-macbook-air-has-dropped-to-prime-day-prices-1850949799)<!-- TECH-POSTS:END -->
 
 ---
 
