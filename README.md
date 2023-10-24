@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Your First NPM Package](https://dev.to/prajesheleven/creating-your-first-npm-package-2b9o)
+- [Dev.to/JS] [[HELP]I want to convert my react/next js component file to text.](https://dev.to/shacodes/i-want-to-convert-my-reactnext-js-component-file-to-text-26ph)
 - [Dev.to/JS] [🤯20 JavaScript Tricks to Optimize Code Like a Pro 🚀](https://dev.to/todayscode14/20-javascript-tricks-to-optimize-code-like-a-pro-2e3a)
 - [Dev.to/JS] [Master Angular 16.1 &amp; 16.2](https://dev.to/this-is-angular/master-angular-161-162-1lfd)
 - [Dev.to/JS] [Customize your components: Class and Style Bindings 💅](https://dev.to/dvalin99/customize-your-components-class-and-style-bindings-2kk9)
@@ -39,11 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Heated and Adjustable Massage Gun Is $50](https://lifehacker.com/this-heated-and-adjustable-massage-gun-is-50-1850945815)
 - [Lifehacker] [This LG High Res Sound Bar Is $280 Right Now](https://lifehacker.com/this-lg-high-res-sound-bar-is-280-right-now-1850951508)
 - [Dev.to/JS] [Attaching Images to Discord Webhooks with Google App Scripts](https://dev.to/elitogame/attaching-images-to-discord-webhooks-with-google-app-scripts-4053)
-- [Dev.to/JS] [Understanding EventEmitter - Nodejs Core Concept](https://dev.to/taiwo17/understanding-eventemitter-nodejs-core-concept-3ffg)
 - [Lifehacker] [Why Not Dust Your Fruits and Vegetables With Buttermilk Powder?](https://lifehacker.com/why-not-dust-your-fruits-and-vegetables-with-buttermilk-1850950818)
 - [Lifehacker] [The Biggest Differences Between the Pixel Watch 2 and Galaxy Watch 6](https://lifehacker.com/the-biggest-differences-between-the-pixel-watch-2-and-g-1850950925)
 - [Lifehacker] [Make a Mini Loaf of Bread With a Single Cup of Flour](https://lifehacker.com/make-a-mini-loaf-of-bread-with-a-single-cup-of-flour-1850950863)
-- [Dev.to/JS] [Express &amp; Stripe: Webhooks Done Right](https://dev.to/stephensamra/express-stripe-webhooks-done-right-1510)
 - [Lifehacker] [Use ‘Curb Alerts’ to Get Free Stuff in Your Neighborhood](https://lifehacker.com/use-curb-alerts-to-get-free-stuff-in-your-neighborhoo-1850950095)
 - [Lifehacker] [12 Cozy Podcasts to Warm Your Mind, Body, and Soul](https://lifehacker.com/best-cozy-podcasts-1850950191)
 - [Lifehacker] [All the Different Retirement Accounts You Can Take Advantage Of](https://lifehacker.com/all-the-different-retirement-accounts-you-can-take-adva-1850950256)
