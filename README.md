@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Lexical Scoping and Nested Functions](https://dev.to/tanmaycode/javascript-lexical-scoping-and-nested-functions-18g7)
+- [Dev.to/JS] [Error: Failed to create a worklet. Did you forget to add Reanimated Babel plugin in babel.config.js?](https://dev.to/evadon/error-failed-to-create-a-worklet-did-you-forget-to-add-reanimated-babel-plugin-in-babelconfigjs-3pin)
 - [Dev.to/JS] [You Don&#39;t Need Axios](https://dev.to/ngfizzy/you-dont-need-axios-34j9)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 24, 2023](https://lifehacker.com/nyt-connections-answer-today-october-24-2023-1850949522)
 - [Dev.to/JS] [Demystifying Architectural Patterns](https://dev.to/alvisonhunter/demystifying-architectural-patterns-2nik)
@@ -46,10 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⚙️ Easy Binary Search Template in Javascript](https://dev.to/raaynaldo/easy-binary-search-template-in-javascript-18i5)
 - [Lifehacker] [All the Different Retirement Accounts You Can Take Advantage Of](https://lifehacker.com/all-the-different-retirement-accounts-you-can-take-adva-1850950256)
 - [Lifehacker] [These Refurbished Blink Cameras Are up to 66% Off](https://lifehacker.com/these-refurbished-blink-cameras-are-up-to-66-off-1850950512)
-- [Dev.to/JS] [Day 74: Tip](https://dev.to/dhrn/day-74-tip-calculator-352l)
 - [Lifehacker] [Use This Tool to Get Your Preferred Seat on Any Flight](https://lifehacker.com/use-this-tool-to-get-your-preferred-seat-on-any-flight-1850949719)
 - [Lifehacker] [This ‘Language Learner’ Bundle Is $30 Right Now](https://lifehacker.com/this-language-learner-bundle-is-30-right-now-1850945763)
-- [Dev.to/JS] [Kickstart Your Coding Journey: Mimo and JavaScript!](https://dev.to/shawn2208/kickstart-your-coding-journey-mimo-and-javascript-1j3j)
 - [Lifehacker] [There Are Better Ways to Carve a Pumpkin Than That Dollar-Store Kit](https://lifehacker.com/there-are-better-ways-to-carve-a-pumpkin-than-that-doll-1850949973)
 - [Lifehacker] [You Can Now Format Text in Google Keep](https://lifehacker.com/how-to-format-text-in-google-keep-1850949818)
 - [Lifehacker] [The M2 MacBook Air Has Dropped to Prime Day Prices](https://lifehacker.com/the-m2-macbook-air-has-dropped-to-prime-day-prices-1850949799)
