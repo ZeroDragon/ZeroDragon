@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ECMAScript Decorators. The Ones That are Real](https://dev.to/what1s1ove/ecmascript-decorators-the-ones-that-are-real-g96)
+- [Dev.to/JS] [Summary of Common Javascript Array Methods](https://dev.to/snowiewdev/summary-of-common-javascript-array-methods-o3j)
+- [Dev.to/JS] [Frontend Performance Glossary: The 11 Most Common Metrics](https://dev.to/dsitdikov/frontend-performance-glossary-the-11-most-common-metrics-76o)
 - [Dev.to/JS] [BLM - Build Learn Monetize: My Journey of Learning](https://dev.to/d41_dev/blm-build-learn-monetize-my-journey-of-learning-lp0)
 - [Dev.to/JS] [Creating Your First NPM Package](https://dev.to/prajesheleven/creating-your-first-npm-package-2b9o)
 - [Dev.to/JS] [[HELP]I want to convert my react/next js component file to text.](https://dev.to/shacodes/i-want-to-convert-my-reactnext-js-component-file-to-text-26ph)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Error: Failed to create a worklet. Did you forget to add Reanimated Babel plugin in babel.config.js?](https://dev.to/evadon/error-failed-to-create-a-worklet-did-you-forget-to-add-reanimated-babel-plugin-in-babelconfigjs-3pin)
 - [Dev.to/JS] [You Don&#39;t Need Axios](https://dev.to/ngfizzy/you-dont-need-axios-34j9)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 24, 2023](https://lifehacker.com/nyt-connections-answer-today-october-24-2023-1850949522)
-- [Dev.to/JS] [Demystifying Architectural Patterns](https://dev.to/alvisonhunter/demystifying-architectural-patterns-2nik)
-- [Dev.to/JS] [Font Loading API: A Fun and Powerful Tool for Making Your Web Pages Look Amazing](https://dev.to/joebim/font-loading-api-a-fun-and-powerful-tool-for-making-your-web-pages-look-amazing-4a35)
-- [Dev.to/JS] [Server side Javascript in WebAssembly](https://dev.to/technosophos/server-side-javascript-in-webassembly-4coh)
 - [Lifehacker] [This Heated and Adjustable Massage Gun Is $50](https://lifehacker.com/this-heated-and-adjustable-massage-gun-is-50-1850945815)
 - [Lifehacker] [This LG High Res Sound Bar Is $280 Right Now](https://lifehacker.com/this-lg-high-res-sound-bar-is-280-right-now-1850951508)
 - [Lifehacker] [Why Not Dust Your Fruits and Vegetables With Buttermilk Powder?](https://lifehacker.com/why-not-dust-your-fruits-and-vegetables-with-buttermilk-1850950818)
