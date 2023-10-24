@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Your Toilet is Squealing &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-your-toilet-is-squealing-and-what-to-do-about-it-1850952165)
+- [Dev.to/JS] [Hacktoberfest: PR #4](https://dev.to/omalk98/hacktoberfest-pr-4-1e2f)
+- [Lifehacker] [&#39;Super Mario Bros. Wonder&#39; Makes Your Switch Controllers Sing](https://lifehacker.com/super-mario-bros-wonder-makes-your-switch-controllers-1850954536)
+- [Dev.to/JS] [10 Fun Web Development Project Ideas for Bored Coders](https://dev.to/best_codes/10-fun-web-development-project-ideas-for-bored-coders-51dl)
+- [Lifehacker] [These Are the Best Tools for Tracking Online Sale Prices](https://lifehacker.com/best-price-tracking-tools-1692745053)
+- [Lifehacker] [All the Different Email Addresses You Should Set Up &lpar;and What to Use Them For&rpar;](https://lifehacker.com/all-the-different-email-addresses-you-should-set-up-an-1850954346)
 - [Dev.to/JS] [React Calculator: Building Basic Arithmetic Operations with User-Friendly Interface](https://dev.to/kartikbudhraja/react-calculator-building-basic-arithmetic-operations-with-user-friendly-interface-1b1b)
 - [Dev.to/JS] [Share admin privileges with participants during a real-time video call](https://dev.to/trydaily/share-admin-privileges-with-participants-during-a-real-time-video-call-3fob)
 - [Lifehacker] [The 45 Best Classic Movies &lpar;1970s and Earlier&rpar; You Can Stream Right Now](https://lifehacker.com/best-classic-movies-on-streaming-1850951262)
@@ -48,8 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Porque você não deveria usar funções de debounce o tempo todo](https://dev.to/ricmello/porque-voce-nao-deveria-usar-funcoes-de-debounce-o-tempo-todo-1bam)
 - [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
 - [Lifehacker] [How to Download Videos From X/Twitter](https://lifehacker.com/how-to-download-twitter-videos-1850952824)
-- [Dev.to/JS] [Hackerrank: Understanding the minMaxSum Function in JavaScript](https://dev.to/chrisimade/hackerrank-understanding-the-minmaxsum-function-in-javascript-2o2h)
-- [Dev.to/JS] [Back Button Navigation - Angular](https://dev.to/germansaracca/back-button-navigation-angular-4fal)
 - [Lifehacker] [Get Your Desert Landscaping Ready for Winter](https://lifehacker.com/how-to-prepare-desert-landscaping-for-winter-1850952385)
 - [Lifehacker] [The Best Streaming Devices in 2023](https://lifehacker.com/best-streaming-devices-1850951613)
 - [Lifehacker] [The Best Ways to Keep Seeds Organized and Stored All Year](https://lifehacker.com/the-best-ways-to-keep-seeds-organized-and-stored-all-ye-1850952359)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This LG High Res Sound Bar Is $280 Right Now](https://lifehacker.com/this-lg-high-res-sound-bar-is-280-right-now-1850951508)
 - [Lifehacker] [Why Not Dust Your Fruits and Vegetables With Buttermilk Powder?](https://lifehacker.com/why-not-dust-your-fruits-and-vegetables-with-buttermilk-1850950818)
 - [Lifehacker] [The Biggest Differences Between the Pixel Watch 2 and Galaxy Watch 6](https://lifehacker.com/the-biggest-differences-between-the-pixel-watch-2-and-g-1850950925)
-- [Lifehacker] [Make a Mini Loaf of Bread With a Single Cup of Flour](https://lifehacker.com/make-a-mini-loaf-of-bread-with-a-single-cup-of-flour-1850950863)
-- [Lifehacker] [Use ‘Curb Alerts’ to Get Free Stuff in Your Neighborhood](https://lifehacker.com/use-curb-alerts-to-get-free-stuff-in-your-neighborhoo-1850950095)
-- [Lifehacker] [12 Cozy Podcasts to Warm Your Mind, Body, and Soul](https://lifehacker.com/best-cozy-podcasts-1850950191)
-- [Lifehacker] [All the Different Retirement Accounts You Can Take Advantage Of](https://lifehacker.com/all-the-different-retirement-accounts-you-can-take-adva-1850950256)
-- [Lifehacker] [These Refurbished Blink Cameras Are up to 66% Off](https://lifehacker.com/these-refurbished-blink-cameras-are-up-to-66-off-1850950512)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a Mini Loaf of Bread With a Single Cup of Flour](https://lifehacker.com/make-a-mini-loaf-of-bread-with-a-single-cup-of-flour-1850950863)<!-- TECH-POSTS:END -->
 
 ---
 
