@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BLM - Build Learn Monetize: My Journey of Learning](https://dev.to/d41_dev/blm-build-learn-monetize-my-journey-of-learning-lp0)
 - [Dev.to/JS] [Creating Your First NPM Package](https://dev.to/prajesheleven/creating-your-first-npm-package-2b9o)
 - [Dev.to/JS] [[HELP]I want to convert my react/next js component file to text.](https://dev.to/shacodes/i-want-to-convert-my-reactnext-js-component-file-to-text-26ph)
 - [Dev.to/JS] [🤯20 JavaScript Tricks to Optimize Code Like a Pro 🚀](https://dev.to/todayscode14/20-javascript-tricks-to-optimize-code-like-a-pro-2e3a)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Server side Javascript in WebAssembly](https://dev.to/technosophos/server-side-javascript-in-webassembly-4coh)
 - [Lifehacker] [This Heated and Adjustable Massage Gun Is $50](https://lifehacker.com/this-heated-and-adjustable-massage-gun-is-50-1850945815)
 - [Lifehacker] [This LG High Res Sound Bar Is $280 Right Now](https://lifehacker.com/this-lg-high-res-sound-bar-is-280-right-now-1850951508)
-- [Dev.to/JS] [Attaching Images to Discord Webhooks with Google App Scripts](https://dev.to/elitogame/attaching-images-to-discord-webhooks-with-google-app-scripts-4053)
 - [Lifehacker] [Why Not Dust Your Fruits and Vegetables With Buttermilk Powder?](https://lifehacker.com/why-not-dust-your-fruits-and-vegetables-with-buttermilk-1850950818)
 - [Lifehacker] [The Biggest Differences Between the Pixel Watch 2 and Galaxy Watch 6](https://lifehacker.com/the-biggest-differences-between-the-pixel-watch-2-and-g-1850950925)
 - [Lifehacker] [Make a Mini Loaf of Bread With a Single Cup of Flour](https://lifehacker.com/make-a-mini-loaf-of-bread-with-a-single-cup-of-flour-1850950863)
