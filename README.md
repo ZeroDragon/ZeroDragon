@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hackerrank: Understanding the minMaxSum Function in JavaScript](https://dev.to/chrisimade/hackerrank-understanding-the-minmaxsum-function-in-javascript-2o2h)
+- [Dev.to/JS] [Back Button Navigation - Angular](https://dev.to/germansaracca/back-button-navigation-angular-4fal)
+- [Lifehacker] [Get Your Desert Landscaping Ready for Winter](https://lifehacker.com/how-to-prepare-desert-landscaping-for-winter-1850952385)
+- [Dev.to/JS] [Building a Node.js Authentication System with MySQL: A Step-by-Step Guide](https://dev.to/nuelobeto/building-a-nodejs-authentication-system-with-mysql-a-step-by-step-guide-19l9)
+- [Dev.to/JS] [ES6+ Features: A Comprehensive Exploration of ECMAScript&#39;s Latest Advancements](https://dev.to/outstandingvick/es6-features-a-comprehensive-exploration-of-ecmascripts-latest-advancements-5da1)
 - [Dev.to/JS] [Deep DHTMLX Gantt Customization: New Looks of Tasks, Month Marker, and Customized Grid](https://dev.to/plazarev/deep-dhtmlx-gantt-customization-new-looks-of-tasks-month-marker-and-customized-grid-1f71)
+- [Lifehacker] [The Best Streaming Devices in 2023](https://lifehacker.com/best-streaming-devices-1850951613)
 - [Dev.to/JS] [Functional Programming in JavaScript: A Comprehensive Guide to Clean and Maintainable Code](https://dev.to/outstandingvick/functional-programming-in-javascript-a-comprehensive-guide-to-clean-and-maintainable-code-5a08)
 - [Dev.to/JS] [kill a windows/linux process](https://dev.to/rajarajacholank/kill-a-windowslinux-process-1ook)
 - [Lifehacker] [The Best Ways to Keep Seeds Organized and Stored All Year](https://lifehacker.com/the-best-ways-to-keep-seeds-organized-and-stored-all-ye-1850952359)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why I believe in open source](https://dev.to/opensourcee/why-i-believe-in-open-source-1fjb)
 - [Lifehacker] [Turn Pumpkin Guts Into a Comforting, Flavorful Broth](https://lifehacker.com/pumpkin-broth-recipe-1850951909)
 - [Dev.to/JS] [🎉 17 Javascript repositories to become the best developer in the world 🌍](https://dev.to/triggerdotdev/17-javascript-repositories-to-become-the-best-developer-in-the-world-15f3)
-- [Dev.to/JS] [Creating engaging buttons for your dev.to posts](https://dev.to/opensourcee/creating-engaging-buttons-for-your-devto-posts-4fn1)
-- [Dev.to/JS] [Simplifying JavaScript Code with Array Destructuring](https://dev.to/shameel/simplifying-javascript-code-with-array-destructuring-3j4k)
-- [Dev.to/JS] [HTTP Requests in JavaScript](https://dev.to/oneminch/http-requests-in-javascript-4ecc)
 - [Lifehacker] [Yes, It&#39;s OK to Cheat at One-Player Games](https://lifehacker.com/yes-its-ok-to-cheat-at-one-player-games-1850951574)
-- [Dev.to/JS] [First 10 Days of 30 Days of Javascript](https://dev.to/madalitsonyemba/first-10-days-of-30-days-of-javascript-3blo)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 24, 2023](https://lifehacker.com/nyt-connections-answer-today-october-24-2023-1850949522)
 - [Lifehacker] [This Heated and Adjustable Massage Gun Is $50](https://lifehacker.com/this-heated-and-adjustable-massage-gun-is-50-1850945815)
 - [Lifehacker] [This LG High Res Sound Bar Is $280 Right Now](https://lifehacker.com/this-lg-high-res-sound-bar-is-280-right-now-1850951508)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Beginner&#39;s Cybersecurity Course for $60 Right Now](https://lifehacker.com/you-can-get-this-beginners-cybersecurity-course-for-60-1850935796)
 - [Lifehacker] [The Best Vegan Mashed Potatoes Start With Yukon Golds](https://lifehacker.com/best-vegan-mashed-potatoes-recipe-1850946894)
 - [Lifehacker] [Five Fixes for Leaky Gutters That You Can DIY](https://lifehacker.com/five-fixes-for-leaky-gutters-that-you-can-diy-1850946604)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)
-- [Lifehacker] [The Pros and Cons of Granite, Quartz, and Marble Countertops](https://lifehacker.com/the-pros-and-cons-of-granite-quartz-and-marble-counte-1850943472)
-- [Lifehacker] [Prevention Is the Key to a Clean House](https://lifehacker.com/prevention-is-the-key-to-a-clean-house-1850943493)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 23, 2023](https://lifehacker.com/nyt-connections-answer-today-october-23-2023-1850944964)<!-- TECH-POSTS:END -->
 
 ---
 
