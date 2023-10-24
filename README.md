@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use the PS5 Controller on a PS4](https://lifehacker.com/how-to-use-the-ps5-controller-on-a-ps4-1850953710)
+- [Lifehacker] [You Can Make Roux in the Microwave &lpar;or Oven&rpar;](https://lifehacker.com/how-to-make-roux-in-the-microwave-or-oven-1848187134)
+- [Dev.to/JS] [Beginner’s Guide On Sending Automated Emails With Node.js, Nodemailer, and Cron Jobs](https://dev.to/scofieldidehen/beginners-guide-on-sending-automated-emails-with-nodejs-nodemailer-and-cron-jobs-35pm)
 - [Lifehacker] [10 Podcasts That Will Make You a Better DIYer](https://lifehacker.com/the-best-home-improvement-podcasts-1850952184)
 - [Lifehacker] [The OLED Nintendo Switch Is $60 Off Right Now](https://lifehacker.com/the-oled-nintendo-switch-is-60-off-right-now-1850953806)
 - [Lifehacker] [These Eight Banks Reimburse ATM Fees](https://lifehacker.com/these-banks-reimburse-atm-fees-1848982111)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ES6+ Features: A Comprehensive Exploration of ECMAScript&#39;s Latest Advancements](https://dev.to/outstandingvick/es6-features-a-comprehensive-exploration-of-ecmascripts-latest-advancements-5da1)
 - [Dev.to/JS] [Deep DHTMLX Gantt Customization: New Looks of Tasks, Month Marker, and Customized Grid](https://dev.to/plazarev/deep-dhtmlx-gantt-customization-new-looks-of-tasks-month-marker-and-customized-grid-1f71)
 - [Lifehacker] [The Best Streaming Devices in 2023](https://lifehacker.com/best-streaming-devices-1850951613)
-- [Dev.to/JS] [Functional Programming in JavaScript: A Comprehensive Guide to Clean and Maintainable Code](https://dev.to/outstandingvick/functional-programming-in-javascript-a-comprehensive-guide-to-clean-and-maintainable-code-5a08)
 - [Lifehacker] [The Best Ways to Keep Seeds Organized and Stored All Year](https://lifehacker.com/the-best-ways-to-keep-seeds-organized-and-stored-all-ye-1850952359)
 - [Lifehacker] [What&#39;s New on Max in November 2023](https://lifehacker.com/whats-new-on-max-in-november-2023-1850951003)
 - [Lifehacker] [Turn Pumpkin Guts Into a Comforting, Flavorful Broth](https://lifehacker.com/pumpkin-broth-recipe-1850951909)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Refurbished Blink Cameras Are up to 66% Off](https://lifehacker.com/these-refurbished-blink-cameras-are-up-to-66-off-1850950512)
 - [Lifehacker] [Use This Tool to Get Your Preferred Seat on Any Flight](https://lifehacker.com/use-this-tool-to-get-your-preferred-seat-on-any-flight-1850949719)
 - [Lifehacker] [This ‘Language Learner’ Bundle Is $30 Right Now](https://lifehacker.com/this-language-learner-bundle-is-30-right-now-1850945763)
-- [Lifehacker] [There Are Better Ways to Carve a Pumpkin Than That Dollar-Store Kit](https://lifehacker.com/there-are-better-ways-to-carve-a-pumpkin-than-that-doll-1850949973)
-- [Lifehacker] [You Can Now Format Text in Google Keep](https://lifehacker.com/how-to-format-text-in-google-keep-1850949818)
-- [Lifehacker] [The M2 MacBook Air Has Dropped to Prime Day Prices](https://lifehacker.com/the-m2-macbook-air-has-dropped-to-prime-day-prices-1850949799)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There Are Better Ways to Carve a Pumpkin Than That Dollar-Store Kit](https://lifehacker.com/there-are-better-ways-to-carve-a-pumpkin-than-that-doll-1850949973)<!-- TECH-POSTS:END -->
 
 ---
 
