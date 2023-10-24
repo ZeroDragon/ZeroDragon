@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Master Angular 16.1 &amp; 16.2](https://dev.to/this-is-angular/master-angular-161-162-1lfd)
+- [Dev.to/JS] [Customize your components: Class and Style Bindings 💅](https://dev.to/dvalin99/customize-your-components-class-and-style-bindings-2kk9)
 - [Dev.to/JS] [JavaScript Lexical Scoping and Nested Functions](https://dev.to/tanmaycode/javascript-lexical-scoping-and-nested-functions-18g7)
 - [Dev.to/JS] [Error: Failed to create a worklet. Did you forget to add Reanimated Babel plugin in babel.config.js?](https://dev.to/evadon/error-failed-to-create-a-worklet-did-you-forget-to-add-reanimated-babel-plugin-in-babelconfigjs-3pin)
 - [Dev.to/JS] [You Don&#39;t Need Axios](https://dev.to/ngfizzy/you-dont-need-axios-34j9)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Express &amp; Stripe: Webhooks Done Right](https://dev.to/stephensamra/express-stripe-webhooks-done-right-1510)
 - [Dev.to/JS] [Hacktoberfest Recap](https://dev.to/sdthaker/hacktoberfest-recap-494k)
 - [Lifehacker] [Use ‘Curb Alerts’ to Get Free Stuff in Your Neighborhood](https://lifehacker.com/use-curb-alerts-to-get-free-stuff-in-your-neighborhoo-1850950095)
-- [Dev.to/JS] [Por que Node.js é a Escolha Certa para o seu Próximo Projeto?💚](https://dev.to/nagref/por-que-nodejs-e-a-escolha-certa-para-o-seu-proximo-projeto-517e)
 - [Lifehacker] [12 Cozy Podcasts to Warm Your Mind, Body, and Soul](https://lifehacker.com/best-cozy-podcasts-1850950191)
-- [Dev.to/JS] [⚙️ Easy Binary Search Template in Javascript](https://dev.to/raaynaldo/easy-binary-search-template-in-javascript-18i5)
 - [Lifehacker] [All the Different Retirement Accounts You Can Take Advantage Of](https://lifehacker.com/all-the-different-retirement-accounts-you-can-take-adva-1850950256)
 - [Lifehacker] [These Refurbished Blink Cameras Are up to 66% Off](https://lifehacker.com/these-refurbished-blink-cameras-are-up-to-66-off-1850950512)
 - [Lifehacker] [Use This Tool to Get Your Preferred Seat on Any Flight](https://lifehacker.com/use-this-tool-to-get-your-preferred-seat-on-any-flight-1850949719)
