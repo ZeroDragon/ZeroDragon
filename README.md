@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navy – SaaS Multipage theme.](https://dev.to/lexingtonthemes/navy-saas-multipage-theme-4gfh)
+- [Dev.to/JS] [Navy – SaaS Multipage theme.](https://dev.to/mike_andreuzza/navy-saas-multipage-theme-21pg)
+- [Dev.to/JS] [JavaScript Inclusion Strategies: Async vs. Defer Unveiled](https://dev.to/mnamesujit/javascript-inclusion-strategies-async-vs-defer-unveiled-4d6o)
 - [Dev.to/JS] [Building an Realtime Web Notepad App](https://dev.to/varshithvhegde/building-an-realtime-web-notepad-app-4g50)
+- [Dev.to/JS] [Pain. The good kind.](https://dev.to/charleswtiffany/pain-the-good-kind-1l3g)
 - [Dev.to/JS] [JavaScript Magic Tricks: Anti-Copy](https://dev.to/wangliwen/javascript-magic-tricks-anti-copy-2882)
 - [Dev.to/JS] [Tic Tac Toe Game Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/tic-tac-toe-game-using-html-css-and-javascript-59e)
 - [Dev.to/JS] [How to secure JavaScript applications right from the CLI](https://dev.to/snyk/how-to-secure-javascript-applications-right-from-the-cli-4kj6)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My second Hacktoberfest PR!](https://dev.to/amnish04/my-second-hacktoberfest-pr-4d1e)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
 - [Dev.to/JS] [Base64 problem solved](https://dev.to/toviszsolt/base64-problem-solved-29og)
-- [Dev.to/JS] [5 JavaScript Portfolio Projects You Need To Build](https://dev.to/domfive/5-javascript-portfolio-projects-to-unleash-your-web-dev-potential-i3i)
 - [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
-- [Dev.to/JS] [How To Create A Simple Audio-player in HTML, JavaScript, and CSS](https://dev.to/ctrlcoding/how-to-create-a-simple-audio-player-in-html-javascript-and-css-4l2e)
-- [Dev.to/JS] [We need a new convention for Javascript](https://dev.to/shreyvijayvargiya/we-need-a-new-convention-for-javascript-1ck9)
-- [Dev.to/JS] [Basics of Styled-Components](https://dev.to/jtfinley/basics-of-styled-components-404a)
 - [Lifehacker] [These Sous-Vide Egg Bites Are Better Than What You Get at Starbucks](https://lifehacker.com/these-sous-vide-egg-bites-are-your-new-weekday-breakfas-1824008696)
 - [Lifehacker] [How to Get Pumpkin Stains Out of Clothing, Fabric, and Hard Surfaces](https://lifehacker.com/how-to-get-pumpkin-stains-out-of-clothing-fabric-and-1850955207)
 - [Lifehacker] [How to Get Health Insurance When You’re Self-Employed](https://lifehacker.com/how-to-get-health-insurance-when-you-re-self-employed-1850953230)
