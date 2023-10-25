@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Contempo Crystals](https://dev.to/contempocrystals/contempo-crystals-3nab)
+- [Dev.to/JS] [🧰 zsh-pkgmanager-switcher - A ZSH JavaScript package manager switcher plugin](https://dev.to/ziggornif/zsh-pkgmanager-switcher-a-zsh-javascript-package-manager-switcher-plugin-8k3)
+- [Dev.to/JS] [ChatGPT&#39;S, evil twins are here](https://dev.to/fonyuygita/chatgpts-evil-twins-are-here-4hd4)
+- [Lifehacker] [This 65-inch TLC 4K TV Is $400 Right Now](https://lifehacker.com/this-65-inch-tlc-4k-tv-is-400-right-now-1850959252)
+- [Dev.to/JS] [Make your app install and run faster with nolyfill](https://dev.to/wojtekmaj/make-your-app-install-and-run-faster-with-nolyfill-25dk)
+- [Dev.to/JS] [Mind-Expanding Read: Head First JavaScript](https://dev.to/umahichristopher/mind-expanding-read-head-first-javascript-f0)
+- [Lifehacker] [Think Twice About Letting Vines Envelop Your House](https://lifehacker.com/think-twice-about-letting-vines-envelop-your-house-1850958235)
 - [Dev.to/JS] [React: Behind the Scenes Part 2](https://dev.to/thecoollearner/react-behind-the-scenes-part-2-40l4)
 - [Lifehacker] [What to Expect From Apple&#39;s &#39;Scary Fast&#39; October Event](https://lifehacker.com/what-to-expect-from-apples-scary-fast-october-event-1850959168)
 - [Dev.to/JS] [Modules in JavaScript: The Magic Spell Libraries](https://dev.to/init_chandan/modules-in-javascript-the-magic-spell-libraries-8g0)
@@ -38,13 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 4&rpar;? Hoisting, var, let, const, TDZ](https://dev.to/samanabbasi/how-javascript-works-part-4-hoisting-var-let-const-tdz-2d6)
 - [Dev.to/JS] [How to Deploy Your Node.js Backend on Vercel: A Step-by-Step Guide](https://dev.to/kkupgrader/how-to-deploy-your-nodejs-backend-on-vercel-a-step-by-step-guide-o54)
 - [Lifehacker] [The Case for Buying ‘Dumb’ Appliances](https://lifehacker.com/the-case-for-buying-dumb-appliances-1850957723)
-- [Dev.to/JS] [SQL Injections at Work](https://dev.to/snigdho611/sql-injections-at-work-ijm)
-- [Dev.to/JS] [A Blazingly Fast Open-Source Federation V1/V2 Gateway](https://dev.to/slickstef11/a-blazingly-fast-open-source-federation-v1v2-gateway-4i7k)
 - [Lifehacker] [What&#39;s New on Netflix in November 2023](https://lifehacker.com/new-on-netflix-november-2023-1850955304)
-- [Dev.to/JS] [CodeSmash LTD Campaign](https://dev.to/mariostopfer/codesmash-ltd-campaign-9ji)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in November 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-november-2023-1850956201)
-- [Dev.to/JS] [Entendendo o NaN &lpar;Not a Number&rpar; no JavaScript e Suas Particularidades](https://dev.to/rayanavital/entendendo-o-nan-not-a-number-no-javascript-e-suas-particularidades-cji)
-- [Dev.to/JS] [JS Code Challenges : 1](https://dev.to/amera/js-code-challenges-1-320)
 - [Lifehacker] [These Are the Best Portable Projectors for 2023](https://lifehacker.com/best-portable-projectors-1850955681)
 - [Lifehacker] [Why You Should Turn Websites Into Apps on Your Mac](https://lifehacker.com/why-you-should-turn-websites-into-apps-on-your-mac-1850956567)
 - [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Make These Savory Crumpets](https://lifehacker.com/best-savory-crumpet-recipe-1849585719)
 - [Lifehacker] [Why Your Toilet is Squealing &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-your-toilet-is-squealing-and-what-to-do-about-it-1850952165)
 - [Lifehacker] [&#39;Super Mario Bros. Wonder&#39; Makes Your Switch Controllers Sing](https://lifehacker.com/super-mario-bros-wonder-makes-your-switch-controllers-1850954536)
-- [Lifehacker] [These Are the Best Tools for Tracking Online Sale Prices](https://lifehacker.com/best-price-tracking-tools-1692745053)
-- [Lifehacker] [All the Different Email Addresses You Should Set Up &lpar;and What to Use Them For&rpar;](https://lifehacker.com/all-the-different-email-addresses-you-should-set-up-an-1850954346)
-- [Lifehacker] [The 45 Best Classic Movies &lpar;1970s and Earlier&rpar; You Can Stream Right Now](https://lifehacker.com/best-classic-movies-on-streaming-1850951262)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Tools for Tracking Online Sale Prices](https://lifehacker.com/best-price-tracking-tools-1692745053)<!-- TECH-POSTS:END -->
 
 ---
 
