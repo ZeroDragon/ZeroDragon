@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [30 Killer Project Ideas 😍 For Your Resume 💪](https://dev.to/todayscode14/30-killer-project-ideas-for-your-resume-4cj8)
+- [Lifehacker] [How to Connect AirPods to a Windows Laptop](https://lifehacker.com/how-to-connect-airpods-to-a-windows-laptop-1850953839)
+- [Dev.to/JS] [JavaScript Operatörleri](https://dev.to/eminaltan/javascript-operatorleri-88j)
+- [Dev.to/JS] [Entendendo a Reactividade no Vue.js e React](https://dev.to/jhonyaraujooficial/entendendo-a-reactividade-no-vuejs-e-react-um-guia-pratico-com-exemplos-de-codigo-4me0)
+- [Lifehacker] [How to Buy the Right Ethernet Cable](https://lifehacker.com/how-to-buy-the-right-ethernet-cable-1850955081)
 - [Dev.to/JS] [7 Powerful Principles to Tackle Complex Coding Problems 😤](https://dev.to/nuxt-wimadev/7-powerful-principles-to-tackle-complex-coding-problems-40a5)
 - [Dev.to/JS] [Integrate MongoDB database with multiple collections using Mongoose in NestJS and Typescript](https://dev.to/one-beyond/integrate-mongodb-database-with-multiple-collections-using-mongoose-in-nestjs-and-typescript-egg)
 - [Dev.to/JS] [Setting up Code Formatting with ESLint, TypeScript, and Prettier in Visual Studio Code](https://dev.to/drunckj/setting-up-code-formatting-with-eslint-typescript-and-prettier-in-visual-studio-code-44an)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The JavaScript Fetch API](https://dev.to/oneminch/the-javascript-fetch-api-3jg7)
 - [Lifehacker] [These Spider Web Eggs Are Freaky, and You Just Might Need Them](https://lifehacker.com/these-spider-web-eggs-are-freaky-and-you-just-might-ne-1850954909)
 - [Dev.to/JS] [Actiflow – Prostate Health Benefits, Results, Price &amp; Where to Buy?](https://dev.to/udsakkba/actiflow-prostate-health-benefits-results-price-where-to-buy-3k3)
-- [Dev.to/JS] [Importing Remote JavaScript Functions in Your Project](https://dev.to/opensourcee/importing-remote-javascript-functions-in-your-project-1nne)
-- [Dev.to/JS] [GraphQL Best Practices and Tips](https://dev.to/bhavesh_yadav/graphql-best-practices-and-tips-450f)
-- [Dev.to/JS] [🔄 Looping Through JavaScript Arrays with Different Approaches 🔄](https://dev.to/shameel/looping-through-javascript-arrays-with-different-approaches-4h87)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
 - [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
 - [Lifehacker] [These Sous-Vide Egg Bites Are Better Than What You Get at Starbucks](https://lifehacker.com/these-sous-vide-egg-bites-are-your-new-weekday-breakfas-1824008696)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There Are Four Ways to Turn Off Your iPhone](https://lifehacker.com/how-to-turn-off-iphone-1850952580)
 - [Lifehacker] [This Mobile Data Deal Gets You $50 of Credit for $21.97](https://lifehacker.com/this-mobile-data-deal-gets-you-50-of-credit-for-21-97-1850951815)
 - [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
-- [Lifehacker] [How to Download Videos From X/Twitter](https://lifehacker.com/how-to-download-twitter-videos-1850952824)
-- [Lifehacker] [Get Your Desert Landscaping Ready for Winter](https://lifehacker.com/how-to-prepare-desert-landscaping-for-winter-1850952385)
-- [Lifehacker] [The Best Streaming Devices in 2023](https://lifehacker.com/best-streaming-devices-1850951613)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Download Videos From X/Twitter](https://lifehacker.com/how-to-download-twitter-videos-1850952824)<!-- TECH-POSTS:END -->
 
 ---
 
