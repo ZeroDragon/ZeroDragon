@@ -26,24 +26,27 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Turn Websites Into Apps on Your Mac](https://lifehacker.com/why-you-should-turn-websites-into-apps-on-your-mac-1850956567)
+- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 5&rpar;? Closure](https://dev.to/samanabbasi/how-javascript-works-part-5-closure-4pob)
+- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 3&rpar;? Function Scope, Block Scope](https://dev.to/samanabbasi/how-javascript-works-part-3-function-scope-block-scope-185n)
+- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 2&rpar;? The lexical scope mechanism of JavaScript](https://dev.to/samanabbasi/how-javascript-works-part-2-the-lexical-scope-mechanism-of-javascript-52jb)
+- [Dev.to/JS] [JavaScript - Use Modules for Better Code Organization](https://dev.to/theramoliya/javascript-use-modules-for-better-code-organization-1dp)
+- [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
+- [Dev.to/JS] [execute the start script with Nodemon](https://dev.to/khaled17/execute-the-start-script-with-nodemon-2jfg)
+- [Dev.to/JS] [VueJS part 9: Creating components in the .vue files](https://dev.to/hi_iam_chris/vuejs-part-9-creating-components-in-the-vue-files-10n2)
+- [Dev.to/JS] [Hacktoberfest 2023 Journey: Maintaining SnapURL](https://dev.to/dhananjaythomble/hacktoberfest-2023-journey-maintaining-snapurl-349e)
+- [Lifehacker] [Add Bluetooth to Almost Any Device for $46](https://lifehacker.com/add-bluetooth-to-almost-any-device-for-46-1850951920)
 - [Dev.to/JS] [30 Killer Project Ideas 😍 For Your Resume 💪](https://dev.to/todayscode14/30-killer-project-ideas-for-your-resume-4cj8)
 - [Lifehacker] [How to Connect AirPods to a Windows Laptop](https://lifehacker.com/how-to-connect-airpods-to-a-windows-laptop-1850953839)
 - [Dev.to/JS] [JavaScript Operatörleri](https://dev.to/eminaltan/javascript-operatorleri-88j)
 - [Dev.to/JS] [Entendendo a Reactividade no Vue.js e React](https://dev.to/jhonyaraujooficial/entendendo-a-reactividade-no-vuejs-e-react-um-guia-pratico-com-exemplos-de-codigo-4me0)
 - [Lifehacker] [How to Buy the Right Ethernet Cable](https://lifehacker.com/how-to-buy-the-right-ethernet-cable-1850955081)
-- [Dev.to/JS] [7 Powerful Principles to Tackle Complex Coding Problems 😤](https://dev.to/nuxt-wimadev/7-powerful-principles-to-tackle-complex-coding-problems-40a5)
 - [Dev.to/JS] [Integrate MongoDB database with multiple collections using Mongoose in NestJS and Typescript](https://dev.to/one-beyond/integrate-mongodb-database-with-multiple-collections-using-mongoose-in-nestjs-and-typescript-egg)
 - [Dev.to/JS] [Setting up Code Formatting with ESLint, TypeScript, and Prettier in Visual Studio Code](https://dev.to/drunckj/setting-up-code-formatting-with-eslint-typescript-and-prettier-in-visual-studio-code-44an)
 - [Lifehacker] [The Best &lpar;and Cheapest&rpar; Ways to Add a Little ‘Cottagecore’ Style to Your Home](https://lifehacker.com/the-best-and-cheapest-ways-to-add-a-little-cottageco-1850956033)
-- [Dev.to/JS] [Blazor vs. JavaScript Frameworks: A Detailed Side-by-Side Evaluation for Distinct Scenarios](https://dev.to/hayk_harutyunyan_4325fe5f/blazor-vs-javascript-frameworks-a-detailed-side-by-side-evaluation-for-distinct-scenarios-10hh)
 - [Lifehacker] [How to Drop and Share a Pin in Google Maps](https://lifehacker.com/how-to-drop-and-share-a-google-maps-pin-1850952703)
 - [Lifehacker] [These Are the Best Amazon Early Black Friday Deals &lpar;So Far&rpar;](https://lifehacker.com/these-are-the-best-amazon-early-black-friday-deals-so-1850955489)
-- [Dev.to/JS] [How to create image compression website by using Amazon S3 &amp; Lambda](https://dev.to/5d8vsrhksd93374/how-to-create-image-compression-website-by-using-amazon-s3-lambda-2k81)
-- [Dev.to/JS] [What&#39;s Your Favorite Python IDE, and Why?](https://dev.to/asifali1995/whats-your-favorite-python-ide-and-why-56ak)
-- [Dev.to/JS] [Revolutionize Your Nest.js Development: 4 Steps to Dockerize Your Nest.js App](https://dev.to/mrrishimeena/revolutionize-your-nestjs-development-4-steps-to-dockerize-your-nestjs-app-6ea)
-- [Dev.to/JS] [The JavaScript Fetch API](https://dev.to/oneminch/the-javascript-fetch-api-3jg7)
 - [Lifehacker] [These Spider Web Eggs Are Freaky, and You Just Might Need Them](https://lifehacker.com/these-spider-web-eggs-are-freaky-and-you-just-might-ne-1850954909)
-- [Dev.to/JS] [Actiflow – Prostate Health Benefits, Results, Price &amp; Where to Buy?](https://dev.to/udsakkba/actiflow-prostate-health-benefits-results-price-where-to-buy-3k3)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
 - [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
 - [Lifehacker] [These Sous-Vide Egg Bites Are Better Than What You Get at Starbucks](https://lifehacker.com/these-sous-vide-egg-bites-are-your-new-weekday-breakfas-1824008696)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Podcasts That Will Make You a Better DIYer](https://lifehacker.com/the-best-home-improvement-podcasts-1850952184)
 - [Lifehacker] [The OLED Nintendo Switch Is $60 Off Right Now](https://lifehacker.com/the-oled-nintendo-switch-is-60-off-right-now-1850953806)
 - [Lifehacker] [These Eight Banks Reimburse ATM Fees](https://lifehacker.com/these-banks-reimburse-atm-fees-1848982111)
-- [Lifehacker] [There Are Four Ways to Turn Off Your iPhone](https://lifehacker.com/how-to-turn-off-iphone-1850952580)
-- [Lifehacker] [This Mobile Data Deal Gets You $50 of Credit for $21.97](https://lifehacker.com/this-mobile-data-deal-gets-you-50-of-credit-for-21-97-1850951815)
-- [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
-- [Lifehacker] [How to Download Videos From X/Twitter](https://lifehacker.com/how-to-download-twitter-videos-1850952824)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There Are Four Ways to Turn Off Your iPhone](https://lifehacker.com/how-to-turn-off-iphone-1850952580)<!-- TECH-POSTS:END -->
 
 ---
 
