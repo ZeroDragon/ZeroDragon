@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Case for Buying ‘Dumb’ Appliances](https://lifehacker.com/the-case-for-buying-dumb-appliances-1850957723)
+- [Dev.to/JS] [SQL Injections at Work](https://dev.to/snigdho611/sql-injections-at-work-ijm)
+- [Dev.to/JS] [A Blazingly Fast Open-Source Federation V1/V2 Gateway](https://dev.to/slickstef11/a-blazingly-fast-open-source-federation-v1v2-gateway-4i7k)
+- [Lifehacker] [What&#39;s New on Netflix in November 2023](https://lifehacker.com/new-on-netflix-november-2023-1850955304)
+- [Dev.to/JS] [CodeSmash LTD Campaign](https://dev.to/mariostopfer/codesmash-ltd-campaign-9ji)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in November 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-november-2023-1850956201)
 - [Dev.to/JS] [Entendendo o NaN &lpar;Not a Number&rpar; no JavaScript e Suas Particularidades](https://dev.to/rayanavital/entendendo-o-nan-not-a-number-no-javascript-e-suas-particularidades-cji)
 - [Dev.to/JS] [JS Code Challenges : 1](https://dev.to/amera/js-code-challenges-1-320)
@@ -39,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
 - [Dev.to/JS] [execute the start script with Nodemon](https://dev.to/khaled17/execute-the-start-script-with-nodemon-2jfg)
 - [Dev.to/JS] [VueJS part 9: Creating components in the .vue files](https://dev.to/hi_iam_chris/vuejs-part-9-creating-components-in-the-vue-files-10n2)
-- [Dev.to/JS] [Hacktoberfest 2023 Journey: Maintaining SnapURL](https://dev.to/dhananjaythomble/hacktoberfest-2023-journey-maintaining-snapurl-349e)
 - [Lifehacker] [Add Bluetooth to Almost Any Device for $46](https://lifehacker.com/add-bluetooth-to-almost-any-device-for-46-1850951920)
-- [Dev.to/JS] [30 Killer Project Ideas 😍 For Your Resume 💪](https://dev.to/todayscode14/30-killer-project-ideas-for-your-resume-4cj8)
 - [Lifehacker] [How to Connect AirPods to a Windows Laptop](https://lifehacker.com/how-to-connect-airpods-to-a-windows-laptop-1850953839)
-- [Dev.to/JS] [JavaScript Operatörleri](https://dev.to/eminaltan/javascript-operatorleri-88j)
 - [Lifehacker] [How to Buy the Right Ethernet Cable](https://lifehacker.com/how-to-buy-the-right-ethernet-cable-1850955081)
 - [Lifehacker] [The Best &lpar;and Cheapest&rpar; Ways to Add a Little ‘Cottagecore’ Style to Your Home](https://lifehacker.com/the-best-and-cheapest-ways-to-add-a-little-cottageco-1850956033)
 - [Lifehacker] [How to Drop and Share a Pin in Google Maps](https://lifehacker.com/how-to-drop-and-share-a-google-maps-pin-1850952703)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Extend a Jack-o-Lantern’s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
 - [Lifehacker] [How to Share Your Focus Status on iPhone &lpar;and Why You’d Want To&rpar;](https://lifehacker.com/how-to-use-share-focus-status-iphone-1850952493)
 - [Lifehacker] [How to Use the PS5 Controller on a PS4](https://lifehacker.com/how-to-use-the-ps5-controller-on-a-ps4-1850953710)
-- [Lifehacker] [You Can Make Roux in the Microwave &lpar;or Oven&rpar;](https://lifehacker.com/how-to-make-roux-in-the-microwave-or-oven-1848187134)
-- [Lifehacker] [10 Podcasts That Will Make You a Better DIYer](https://lifehacker.com/the-best-home-improvement-podcasts-1850952184)
-- [Lifehacker] [The OLED Nintendo Switch Is $60 Off Right Now](https://lifehacker.com/the-oled-nintendo-switch-is-60-off-right-now-1850953806)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Roux in the Microwave &lpar;or Oven&rpar;](https://lifehacker.com/how-to-make-roux-in-the-microwave-or-oven-1848187134)<!-- TECH-POSTS:END -->
 
 ---
 
