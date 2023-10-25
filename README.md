@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Tail Call Optimization With JavaScript](https://dev.to/douglasdemoura/understanding-tail-call-optimization-with-javascript-3da8)
+- [Dev.to/JS] [Common Vue.js Development Mistakes and How to Avoid Them: Part 3 ✅](https://dev.to/obiwanpelosi/common-vuejs-development-mistakes-and-how-to-avoid-them-part-3-16eh)
+- [Dev.to/JS] [Difference between == and === in JavaScript](https://dev.to/ayush12303/difference-between-and-in-javascript-1j0n)
 - [Dev.to/JS] [What is D3 js](https://dev.to/simbamkenya/what-is-d3-js-k19)
 - [Dev.to/JS] [5 Cool Animations in React with Framer Motion](https://dev.to/salehmubashar/5-cool-animations-in-react-with-framer-motion-5g9k)
 - [Dev.to/JS] [💻 Web Development Resources #171](https://dev.to/vincenius/web-development-resources-171-1fka)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript FinalizationRegistry Unraveled: Memory Management Magic Explained!](https://dev.to/this-is-learning/javascript-finalizationregistry-unraveled-memory-management-magic-explained-3m70)
 - [Dev.to/JS] [Prototypes in JavaScript.](https://dev.to/tanmaycode/prototypes-in-javascript-hik)
 - [Dev.to/JS] [How to Handle Scroll Events in React](https://dev.to/buaiscia/how-to-handle-scroll-events-in-react-10b5)
-- [Dev.to/JS] [Navy – SaaS Multipage theme.](https://dev.to/lexingtonthemes/navy-saas-multipage-theme-4gfh)
-- [Dev.to/JS] [Navy – SaaS Multipage theme.](https://dev.to/mike_andreuzza/navy-saas-multipage-theme-21pg)
-- [Dev.to/JS] [JavaScript Inclusion Strategies: Async vs. Defer Unveiled](https://dev.to/mnamesujit/javascript-inclusion-strategies-async-vs-defer-unveiled-4d6o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
 - [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
 - [Lifehacker] [These Sous-Vide Egg Bites Are Better Than What You Get at Starbucks](https://lifehacker.com/these-sous-vide-egg-bites-are-your-new-weekday-breakfas-1824008696)
