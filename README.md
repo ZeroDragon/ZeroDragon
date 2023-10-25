@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Powerful Principles to Tackle Complex Coding Problems 😤](https://dev.to/nuxt-wimadev/7-powerful-principles-to-tackle-complex-coding-problems-40a5)
+- [Dev.to/JS] [Integrate MongoDB database with multiple collections using Mongoose in NestJS and Typescript](https://dev.to/one-beyond/integrate-mongodb-database-with-multiple-collections-using-mongoose-in-nestjs-and-typescript-egg)
+- [Dev.to/JS] [Setting up Code Formatting with ESLint, TypeScript, and Prettier in Visual Studio Code](https://dev.to/drunckj/setting-up-code-formatting-with-eslint-typescript-and-prettier-in-visual-studio-code-44an)
+- [Lifehacker] [The Best &lpar;and Cheapest&rpar; Ways to Add a Little ‘Cottagecore’ Style to Your Home](https://lifehacker.com/the-best-and-cheapest-ways-to-add-a-little-cottageco-1850956033)
+- [Dev.to/JS] [Blazor vs. JavaScript Frameworks: A Detailed Side-by-Side Evaluation for Distinct Scenarios](https://dev.to/hayk_harutyunyan_4325fe5f/blazor-vs-javascript-frameworks-a-detailed-side-by-side-evaluation-for-distinct-scenarios-10hh)
+- [Lifehacker] [How to Drop and Share a Pin in Google Maps](https://lifehacker.com/how-to-drop-and-share-a-google-maps-pin-1850952703)
 - [Lifehacker] [These Are the Best Amazon Early Black Friday Deals &lpar;So Far&rpar;](https://lifehacker.com/these-are-the-best-amazon-early-black-friday-deals-so-1850955489)
 - [Dev.to/JS] [How to create image compression website by using Amazon S3 &amp; Lambda](https://dev.to/5d8vsrhksd93374/how-to-create-image-compression-website-by-using-amazon-s3-lambda-2k81)
 - [Dev.to/JS] [What&#39;s Your Favorite Python IDE, and Why?](https://dev.to/asifali1995/whats-your-favorite-python-ide-and-why-56ak)
@@ -36,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Importing Remote JavaScript Functions in Your Project](https://dev.to/opensourcee/importing-remote-javascript-functions-in-your-project-1nne)
 - [Dev.to/JS] [GraphQL Best Practices and Tips](https://dev.to/bhavesh_yadav/graphql-best-practices-and-tips-450f)
 - [Dev.to/JS] [🔄 Looping Through JavaScript Arrays with Different Approaches 🔄](https://dev.to/shameel/looping-through-javascript-arrays-with-different-approaches-4h87)
-- [Dev.to/JS] [Crafting Digital Masterpieces Custom Web Development](https://dev.to/hireseoconsultants/crafting-digital-masterpieces-custom-web-development-1oj7)
-- [Dev.to/JS] [Consuming Loki logs with Grafana API and Node.js](https://dev.to/fraxken/consuming-loki-logs-with-grafana-api-and-nodejs-bgg)
-- [Dev.to/JS] [Tanstack&#39;s React Query Kicked `onSuccess`, `onError`, and `onSettled` Out of `useQuery`: Now What?!](https://dev.to/barrymichaeldoyle/tanstacks-react-query-kicked-onsuccess-onerror-and-onsettled-out-of-usequery-now-what-2i33)
-- [Dev.to/JS] [Understanding Tail Call Optimization With JavaScript](https://dev.to/douglasdemoura/understanding-tail-call-optimization-with-javascript-3da8)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
 - [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
 - [Lifehacker] [These Sous-Vide Egg Bites Are Better Than What You Get at Starbucks](https://lifehacker.com/these-sous-vide-egg-bites-are-your-new-weekday-breakfas-1824008696)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
 - [Lifehacker] [How to Download Videos From X/Twitter](https://lifehacker.com/how-to-download-twitter-videos-1850952824)
 - [Lifehacker] [Get Your Desert Landscaping Ready for Winter](https://lifehacker.com/how-to-prepare-desert-landscaping-for-winter-1850952385)
-- [Lifehacker] [The Best Streaming Devices in 2023](https://lifehacker.com/best-streaming-devices-1850951613)
-- [Lifehacker] [The Best Ways to Keep Seeds Organized and Stored All Year](https://lifehacker.com/the-best-ways-to-keep-seeds-organized-and-stored-all-ye-1850952359)
-- [Lifehacker] [What&#39;s New on Max in November 2023](https://lifehacker.com/whats-new-on-max-in-november-2023-1850951003)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Streaming Devices in 2023](https://lifehacker.com/best-streaming-devices-1850951613)<!-- TECH-POSTS:END -->
 
 ---
 
