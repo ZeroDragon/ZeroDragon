@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to secure JavaScript applications right from the CLI](https://dev.to/snyk/how-to-secure-javascript-applications-right-from-the-cli-4kj6)
+- [Dev.to/JS] [High-level overview of PureScript](https://dev.to/zelenya/high-level-overview-of-purescript-37lf)
+- [Dev.to/JS] [Hacktoberfest: Recap](https://dev.to/omalk98/hacktoberfest-recap-1pon)
 - [Dev.to/JS] [My second Hacktoberfest PR!](https://dev.to/amnish04/my-second-hacktoberfest-pr-4d1e)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
 - [Dev.to/JS] [Base64 problem solved](https://dev.to/toviszsolt/base64-problem-solved-29og)
@@ -43,11 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Toilet is Squealing &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-your-toilet-is-squealing-and-what-to-do-about-it-1850952165)
 - [Dev.to/JS] [Hacktoberfest: PR #4](https://dev.to/omalk98/hacktoberfest-pr-4-1e2f)
 - [Lifehacker] [&#39;Super Mario Bros. Wonder&#39; Makes Your Switch Controllers Sing](https://lifehacker.com/super-mario-bros-wonder-makes-your-switch-controllers-1850954536)
-- [Dev.to/JS] [10 Fun Web Development Project Ideas for Bored Coders](https://dev.to/best_codes/10-fun-web-development-project-ideas-for-bored-coders-51dl)
 - [Lifehacker] [These Are the Best Tools for Tracking Online Sale Prices](https://lifehacker.com/best-price-tracking-tools-1692745053)
 - [Lifehacker] [All the Different Email Addresses You Should Set Up &lpar;and What to Use Them For&rpar;](https://lifehacker.com/all-the-different-email-addresses-you-should-set-up-an-1850954346)
-- [Dev.to/JS] [React Calculator: Building Basic Arithmetic Operations with User-Friendly Interface](https://dev.to/kartikbudhraja/react-calculator-building-basic-arithmetic-operations-with-user-friendly-interface-1b1b)
-- [Dev.to/JS] [Share admin privileges with participants during a real-time video call](https://dev.to/trydaily/share-admin-privileges-with-participants-during-a-real-time-video-call-3fob)
 - [Lifehacker] [The 45 Best Classic Movies &lpar;1970s and Earlier&rpar; You Can Stream Right Now](https://lifehacker.com/best-classic-movies-on-streaming-1850951262)
 - [Lifehacker] [The Best Ways to Extend a Jack-o-Lantern’s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
 - [Lifehacker] [How to Share Your Focus Status on iPhone &lpar;and Why You’d Want To&rpar;](https://lifehacker.com/how-to-use-share-focus-status-iphone-1850952493)
