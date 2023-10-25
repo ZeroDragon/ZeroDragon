@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in November 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-november-2023-1850956201)
+- [Dev.to/JS] [Entendendo o NaN &lpar;Not a Number&rpar; no JavaScript e Suas Particularidades](https://dev.to/rayanavital/entendendo-o-nan-not-a-number-no-javascript-e-suas-particularidades-cji)
+- [Dev.to/JS] [JS Code Challenges : 1](https://dev.to/amera/js-code-challenges-1-320)
+- [Lifehacker] [These Are the Best Portable Projectors for 2023](https://lifehacker.com/best-portable-projectors-1850955681)
+- [Dev.to/JS] [The Most Important Trends for React Native in 2023](https://dev.to/devteles/the-most-important-trends-for-react-native-in-2023-2igh)
 - [Lifehacker] [Why You Should Turn Websites Into Apps on Your Mac](https://lifehacker.com/why-you-should-turn-websites-into-apps-on-your-mac-1850956567)
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 5&rpar;? Closure](https://dev.to/samanabbasi/how-javascript-works-part-5-closure-4pob)
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 3&rpar;? Function Scope, Block Scope](https://dev.to/samanabbasi/how-javascript-works-part-3-function-scope-block-scope-185n)
@@ -39,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [30 Killer Project Ideas 😍 For Your Resume 💪](https://dev.to/todayscode14/30-killer-project-ideas-for-your-resume-4cj8)
 - [Lifehacker] [How to Connect AirPods to a Windows Laptop](https://lifehacker.com/how-to-connect-airpods-to-a-windows-laptop-1850953839)
 - [Dev.to/JS] [JavaScript Operatörleri](https://dev.to/eminaltan/javascript-operatorleri-88j)
-- [Dev.to/JS] [Entendendo a Reactividade no Vue.js e React](https://dev.to/jhonyaraujooficial/entendendo-a-reactividade-no-vuejs-e-react-um-guia-pratico-com-exemplos-de-codigo-4me0)
 - [Lifehacker] [How to Buy the Right Ethernet Cable](https://lifehacker.com/how-to-buy-the-right-ethernet-cable-1850955081)
-- [Dev.to/JS] [Integrate MongoDB database with multiple collections using Mongoose in NestJS and Typescript](https://dev.to/one-beyond/integrate-mongodb-database-with-multiple-collections-using-mongoose-in-nestjs-and-typescript-egg)
-- [Dev.to/JS] [Setting up Code Formatting with ESLint, TypeScript, and Prettier in Visual Studio Code](https://dev.to/drunckj/setting-up-code-formatting-with-eslint-typescript-and-prettier-in-visual-studio-code-44an)
 - [Lifehacker] [The Best &lpar;and Cheapest&rpar; Ways to Add a Little ‘Cottagecore’ Style to Your Home](https://lifehacker.com/the-best-and-cheapest-ways-to-add-a-little-cottageco-1850956033)
 - [Lifehacker] [How to Drop and Share a Pin in Google Maps](https://lifehacker.com/how-to-drop-and-share-a-google-maps-pin-1850952703)
 - [Lifehacker] [These Are the Best Amazon Early Black Friday Deals &lpar;So Far&rpar;](https://lifehacker.com/these-are-the-best-amazon-early-black-friday-deals-so-1850955489)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use the PS5 Controller on a PS4](https://lifehacker.com/how-to-use-the-ps5-controller-on-a-ps4-1850953710)
 - [Lifehacker] [You Can Make Roux in the Microwave &lpar;or Oven&rpar;](https://lifehacker.com/how-to-make-roux-in-the-microwave-or-oven-1848187134)
 - [Lifehacker] [10 Podcasts That Will Make You a Better DIYer](https://lifehacker.com/the-best-home-improvement-podcasts-1850952184)
-- [Lifehacker] [The OLED Nintendo Switch Is $60 Off Right Now](https://lifehacker.com/the-oled-nintendo-switch-is-60-off-right-now-1850953806)
-- [Lifehacker] [These Eight Banks Reimburse ATM Fees](https://lifehacker.com/these-banks-reimburse-atm-fees-1848982111)
-- [Lifehacker] [There Are Four Ways to Turn Off Your iPhone](https://lifehacker.com/how-to-turn-off-iphone-1850952580)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The OLED Nintendo Switch Is $60 Off Right Now](https://lifehacker.com/the-oled-nintendo-switch-is-60-off-right-now-1850953806)<!-- TECH-POSTS:END -->
 
 ---
 
