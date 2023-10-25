@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building an Realtime Web Notepad App](https://dev.to/varshithvhegde/building-an-realtime-web-notepad-app-4g50)
 - [Dev.to/JS] [JavaScript Magic Tricks: Anti-Copy](https://dev.to/wangliwen/javascript-magic-tricks-anti-copy-2882)
 - [Dev.to/JS] [Tic Tac Toe Game Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/tic-tac-toe-game-using-html-css-and-javascript-59e)
 - [Dev.to/JS] [How to secure JavaScript applications right from the CLI](https://dev.to/snyk/how-to-secure-javascript-applications-right-from-the-cli-4kj6)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Basics of Styled-Components](https://dev.to/jtfinley/basics-of-styled-components-404a)
 - [Lifehacker] [These Sous-Vide Egg Bites Are Better Than What You Get at Starbucks](https://lifehacker.com/these-sous-vide-egg-bites-are-your-new-weekday-breakfas-1824008696)
 - [Lifehacker] [How to Get Pumpkin Stains Out of Clothing, Fabric, and Hard Surfaces](https://lifehacker.com/how-to-get-pumpkin-stains-out-of-clothing-fabric-and-1850955207)
-- [Dev.to/JS] [Web Animation Techniques – CSS vs JavaScript](https://dev.to/ctrlcoding/web-animation-techniques-css-vs-javascript-42oj)
 - [Lifehacker] [How to Get Health Insurance When You’re Self-Employed](https://lifehacker.com/how-to-get-health-insurance-when-you-re-self-employed-1850953230)
 - [Lifehacker] [You Need to Make These Savory Crumpets](https://lifehacker.com/best-savory-crumpet-recipe-1849585719)
 - [Lifehacker] [Why Your Toilet is Squealing &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-your-toilet-is-squealing-and-what-to-do-about-it-1850952165)
