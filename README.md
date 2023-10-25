@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Consuming Loki logs with Grafana API and Node.js](https://dev.to/fraxken/consuming-loki-logs-with-grafana-api-and-nodejs-bgg)
+- [Dev.to/JS] [Tanstack&#39;s React Query Kicked `onSuccess`, `onError`, and `onSettled` Out of `useQuery`: Now What?!](https://dev.to/barrymichaeldoyle/tanstacks-react-query-kicked-onsuccess-onerror-and-onsettled-out-of-usequery-now-what-2i33)
 - [Dev.to/JS] [Understanding Tail Call Optimization With JavaScript](https://dev.to/douglasdemoura/understanding-tail-call-optimization-with-javascript-3da8)
 - [Dev.to/JS] [Common Vue.js Development Mistakes and How to Avoid Them: Part 3 ✅](https://dev.to/obiwanpelosi/common-vuejs-development-mistakes-and-how-to-avoid-them-part-3-16eh)
 - [Dev.to/JS] [Difference between == and === in JavaScript](https://dev.to/ayush12303/difference-between-and-in-javascript-1j0n)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🥳 Master JavaScript Loops with Fun Pattern Examples](https://dev.to/todayscode14/master-javascript-loops-with-fun-pattern-examples-2hnk)
 - [Dev.to/JS] [The Top 10 JavaScript Tricks for Cleaner Code](https://dev.to/rajeshnatarajan/the-top-10-javascript-tricks-for-cleaner-code-1f62)
 - [Dev.to/JS] [JavaScript FinalizationRegistry Unraveled: Memory Management Magic Explained!](https://dev.to/this-is-learning/javascript-finalizationregistry-unraveled-memory-management-magic-explained-3m70)
-- [Dev.to/JS] [Prototypes in JavaScript.](https://dev.to/tanmaycode/prototypes-in-javascript-hik)
-- [Dev.to/JS] [How to Handle Scroll Events in React](https://dev.to/buaiscia/how-to-handle-scroll-events-in-react-10b5)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
 - [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
 - [Lifehacker] [These Sous-Vide Egg Bites Are Better Than What You Get at Starbucks](https://lifehacker.com/these-sous-vide-egg-bites-are-your-new-weekday-breakfas-1824008696)
