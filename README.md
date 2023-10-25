@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Base64 problem solved](https://dev.to/toviszsolt/base64-problem-solved-29og)
 - [Dev.to/JS] [5 JavaScript Portfolio Projects You Need To Build](https://dev.to/domfive/5-javascript-portfolio-projects-to-unleash-your-web-dev-potential-i3i)
 - [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
 - [Dev.to/JS] [How To Create A Simple Audio-player in HTML, JavaScript, and CSS](https://dev.to/ctrlcoding/how-to-create-a-simple-audio-player-in-html-javascript-and-css-4l2e)
@@ -55,7 +56,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The OLED Nintendo Switch Is $60 Off Right Now](https://lifehacker.com/the-oled-nintendo-switch-is-60-off-right-now-1850953806)
 - [Lifehacker] [These Eight Banks Reimburse ATM Fees](https://lifehacker.com/these-banks-reimburse-atm-fees-1848982111)
 - [Lifehacker] [There Are Four Ways to Turn Off Your iPhone](https://lifehacker.com/how-to-turn-off-iphone-1850952580)
-- [Dev.to/JS] [Before You Learn React In 2023](https://dev.to/scofieldidehen/before-you-learn-react-in-2023-3c5i)
 - [Lifehacker] [This Mobile Data Deal Gets You $50 of Credit for $21.97](https://lifehacker.com/this-mobile-data-deal-gets-you-50-of-credit-for-21-97-1850951815)
 - [Lifehacker] [Prepare Now so the Time Change Is Less Jarring](https://lifehacker.com/prepare-now-so-the-time-change-is-less-jarring-1849738866)
 - [Lifehacker] [How to Download Videos From X/Twitter](https://lifehacker.com/how-to-download-twitter-videos-1850952824)
