@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My second Hacktoberfest PR!](https://dev.to/amnish04/my-second-hacktoberfest-pr-4d1e)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
 - [Dev.to/JS] [Base64 problem solved](https://dev.to/toviszsolt/base64-problem-solved-29og)
 - [Dev.to/JS] [5 JavaScript Portfolio Projects You Need To Build](https://dev.to/domfive/5-javascript-portfolio-projects-to-unleash-your-web-dev-potential-i3i)
 - [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
@@ -51,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Share Your Focus Status on iPhone &lpar;and Why You’d Want To&rpar;](https://lifehacker.com/how-to-use-share-focus-status-iphone-1850952493)
 - [Lifehacker] [How to Use the PS5 Controller on a PS4](https://lifehacker.com/how-to-use-the-ps5-controller-on-a-ps4-1850953710)
 - [Lifehacker] [You Can Make Roux in the Microwave &lpar;or Oven&rpar;](https://lifehacker.com/how-to-make-roux-in-the-microwave-or-oven-1848187134)
-- [Dev.to/JS] [Beginner’s Guide On Sending Automated Emails With Node.js, Nodemailer, and Cron Jobs](https://dev.to/scofieldidehen/beginners-guide-on-sending-automated-emails-with-nodejs-nodemailer-and-cron-jobs-35pm)
 - [Lifehacker] [10 Podcasts That Will Make You a Better DIYer](https://lifehacker.com/the-best-home-improvement-podcasts-1850952184)
 - [Lifehacker] [The OLED Nintendo Switch Is $60 Off Right Now](https://lifehacker.com/the-oled-nintendo-switch-is-60-off-right-now-1850953806)
 - [Lifehacker] [These Eight Banks Reimburse ATM Fees](https://lifehacker.com/these-banks-reimburse-atm-fees-1848982111)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Keep Seeds Organized and Stored All Year](https://lifehacker.com/the-best-ways-to-keep-seeds-organized-and-stored-all-ye-1850952359)
 - [Lifehacker] [What&#39;s New on Max in November 2023](https://lifehacker.com/whats-new-on-max-in-november-2023-1850951003)
 - [Lifehacker] [Turn Pumpkin Guts Into a Comforting, Flavorful Broth](https://lifehacker.com/pumpkin-broth-recipe-1850951909)
-- [Lifehacker] [Yes, It&#39;s OK to Cheat at One-Player Games](https://lifehacker.com/yes-its-ok-to-cheat-at-one-player-games-1850951574)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 24, 2023](https://lifehacker.com/nyt-connections-answer-today-october-24-2023-1850949522)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yes, It&#39;s OK to Cheat at One-Player Games](https://lifehacker.com/yes-its-ok-to-cheat-at-one-player-games-1850951574)<!-- TECH-POSTS:END -->
 
 ---
 
