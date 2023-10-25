@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Amazon Early Black Friday Deals &lpar;So Far&rpar;](https://lifehacker.com/these-are-the-best-amazon-early-black-friday-deals-so-1850955489)
+- [Dev.to/JS] [How to create image compression website by using Amazon S3 &amp; Lambda](https://dev.to/5d8vsrhksd93374/how-to-create-image-compression-website-by-using-amazon-s3-lambda-2k81)
+- [Dev.to/JS] [What&#39;s Your Favorite Python IDE, and Why?](https://dev.to/asifali1995/whats-your-favorite-python-ide-and-why-56ak)
+- [Dev.to/JS] [Revolutionize Your Nest.js Development: 4 Steps to Dockerize Your Nest.js App](https://dev.to/mrrishimeena/revolutionize-your-nestjs-development-4-steps-to-dockerize-your-nestjs-app-6ea)
 - [Dev.to/JS] [The JavaScript Fetch API](https://dev.to/oneminch/the-javascript-fetch-api-3jg7)
+- [Lifehacker] [These Spider Web Eggs Are Freaky, and You Just Might Need Them](https://lifehacker.com/these-spider-web-eggs-are-freaky-and-you-just-might-ne-1850954909)
 - [Dev.to/JS] [Actiflow – Prostate Health Benefits, Results, Price &amp; Where to Buy?](https://dev.to/udsakkba/actiflow-prostate-health-benefits-results-price-where-to-buy-3k3)
 - [Dev.to/JS] [Importing Remote JavaScript Functions in Your Project](https://dev.to/opensourcee/importing-remote-javascript-functions-in-your-project-1nne)
 - [Dev.to/JS] [GraphQL Best Practices and Tips](https://dev.to/bhavesh_yadav/graphql-best-practices-and-tips-450f)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Consuming Loki logs with Grafana API and Node.js](https://dev.to/fraxken/consuming-loki-logs-with-grafana-api-and-nodejs-bgg)
 - [Dev.to/JS] [Tanstack&#39;s React Query Kicked `onSuccess`, `onError`, and `onSettled` Out of `useQuery`: Now What?!](https://dev.to/barrymichaeldoyle/tanstacks-react-query-kicked-onsuccess-onerror-and-onsettled-out-of-usequery-now-what-2i33)
 - [Dev.to/JS] [Understanding Tail Call Optimization With JavaScript](https://dev.to/douglasdemoura/understanding-tail-call-optimization-with-javascript-3da8)
-- [Dev.to/JS] [Common Vue.js Development Mistakes and How to Avoid Them: Part 3 ✅](https://dev.to/obiwanpelosi/common-vuejs-development-mistakes-and-how-to-avoid-them-part-3-16eh)
-- [Dev.to/JS] [Difference between == and === in JavaScript](https://dev.to/ayush12303/difference-between-and-in-javascript-1j0n)
-- [Dev.to/JS] [What is D3 js](https://dev.to/simbamkenya/what-is-d3-js-k19)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
 - [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
 - [Lifehacker] [These Sous-Vide Egg Bites Are Better Than What You Get at Starbucks](https://lifehacker.com/these-sous-vide-egg-bites-are-your-new-weekday-breakfas-1824008696)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Your Desert Landscaping Ready for Winter](https://lifehacker.com/how-to-prepare-desert-landscaping-for-winter-1850952385)
 - [Lifehacker] [The Best Streaming Devices in 2023](https://lifehacker.com/best-streaming-devices-1850951613)
 - [Lifehacker] [The Best Ways to Keep Seeds Organized and Stored All Year](https://lifehacker.com/the-best-ways-to-keep-seeds-organized-and-stored-all-ye-1850952359)
-- [Lifehacker] [What&#39;s New on Max in November 2023](https://lifehacker.com/whats-new-on-max-in-november-2023-1850951003)
-- [Lifehacker] [Turn Pumpkin Guts Into a Comforting, Flavorful Broth](https://lifehacker.com/pumpkin-broth-recipe-1850951909)
-- [Lifehacker] [Yes, It&#39;s OK to Cheat at One-Player Games](https://lifehacker.com/yes-its-ok-to-cheat-at-one-player-games-1850951574)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Max in November 2023](https://lifehacker.com/whats-new-on-max-in-november-2023-1850951003)<!-- TECH-POSTS:END -->
 
 ---
 
