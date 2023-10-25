@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Maybe You Have a &#39;Financial Kink&#39;?](https://lifehacker.com/what-is-financial-domination-1850958970)
+- [Dev.to/JS] [Asynchronous Javascript and Some advanced use cases](https://dev.to/mdimran1409036/asynchronous-javascript-and-some-advanced-use-cases-2357)
+- [Lifehacker] [All the New Features in iOS 17.1](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
+- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 5&rpar;? Closure](https://dev.to/samanabbasi/how-javascript-works-part-5-closure-2-jbi)
+- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 4&rpar;? Hoisting, var, let, const, TDZ](https://dev.to/samanabbasi/how-javascript-works-part-4-hoisting-var-let-const-tdz-2d6)
+- [Dev.to/JS] [How to Deploy Your Node.js Backend on Vercel: A Step-by-Step Guide](https://dev.to/kkupgrader/how-to-deploy-your-nodejs-backend-on-vercel-a-step-by-step-guide-o54)
 - [Lifehacker] [The Case for Buying ‘Dumb’ Appliances](https://lifehacker.com/the-case-for-buying-dumb-appliances-1850957723)
 - [Dev.to/JS] [SQL Injections at Work](https://dev.to/snigdho611/sql-injections-at-work-ijm)
 - [Dev.to/JS] [A Blazingly Fast Open-Source Federation V1/V2 Gateway](https://dev.to/slickstef11/a-blazingly-fast-open-source-federation-v1v2-gateway-4i7k)
@@ -37,13 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Portable Projectors for 2023](https://lifehacker.com/best-portable-projectors-1850955681)
 - [Dev.to/JS] [The Most Important Trends for React Native in 2023](https://dev.to/devteles/the-most-important-trends-for-react-native-in-2023-2igh)
 - [Lifehacker] [Why You Should Turn Websites Into Apps on Your Mac](https://lifehacker.com/why-you-should-turn-websites-into-apps-on-your-mac-1850956567)
-- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 5&rpar;? Closure](https://dev.to/samanabbasi/how-javascript-works-part-5-closure-4pob)
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 3&rpar;? Function Scope, Block Scope](https://dev.to/samanabbasi/how-javascript-works-part-3-function-scope-block-scope-185n)
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 2&rpar;? The lexical scope mechanism of JavaScript](https://dev.to/samanabbasi/how-javascript-works-part-2-the-lexical-scope-mechanism-of-javascript-52jb)
-- [Dev.to/JS] [JavaScript - Use Modules for Better Code Organization](https://dev.to/theramoliya/javascript-use-modules-for-better-code-organization-1dp)
 - [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
-- [Dev.to/JS] [execute the start script with Nodemon](https://dev.to/khaled17/execute-the-start-script-with-nodemon-2jfg)
-- [Dev.to/JS] [VueJS part 9: Creating components in the .vue files](https://dev.to/hi_iam_chris/vuejs-part-9-creating-components-in-the-vue-files-10n2)
 - [Lifehacker] [Add Bluetooth to Almost Any Device for $46](https://lifehacker.com/add-bluetooth-to-almost-any-device-for-46-1850951920)
 - [Lifehacker] [How to Connect AirPods to a Windows Laptop](https://lifehacker.com/how-to-connect-airpods-to-a-windows-laptop-1850953839)
 - [Lifehacker] [How to Buy the Right Ethernet Cable](https://lifehacker.com/how-to-buy-the-right-ethernet-cable-1850955081)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Different Email Addresses You Should Set Up &lpar;and What to Use Them For&rpar;](https://lifehacker.com/all-the-different-email-addresses-you-should-set-up-an-1850954346)
 - [Lifehacker] [The 45 Best Classic Movies &lpar;1970s and Earlier&rpar; You Can Stream Right Now](https://lifehacker.com/best-classic-movies-on-streaming-1850951262)
 - [Lifehacker] [The Best Ways to Extend a Jack-o-Lantern’s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
-- [Lifehacker] [How to Share Your Focus Status on iPhone &lpar;and Why You’d Want To&rpar;](https://lifehacker.com/how-to-use-share-focus-status-iphone-1850952493)
-- [Lifehacker] [How to Use the PS5 Controller on a PS4](https://lifehacker.com/how-to-use-the-ps5-controller-on-a-ps4-1850953710)
-- [Lifehacker] [You Can Make Roux in the Microwave &lpar;or Oven&rpar;](https://lifehacker.com/how-to-make-roux-in-the-microwave-or-oven-1848187134)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Share Your Focus Status on iPhone &lpar;and Why You’d Want To&rpar;](https://lifehacker.com/how-to-use-share-focus-status-iphone-1850952493)<!-- TECH-POSTS:END -->
 
 ---
 
