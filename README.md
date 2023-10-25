@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Bake a Taller Cake Without Buying a Deeper Pan](https://lifehacker.com/bake-a-taller-cake-without-buying-a-deeper-pan-1850959115)
+- [Dev.to/JS] [Ace Your React Interview: Comprehensive Guide &amp; Key Concepts](https://dev.to/giovapanasiti/ace-your-react-interview-comprehensive-guide-key-concepts-44n2)
+- [Lifehacker] [7 Ways to Make Your Halloween Spread a Little Creepy](https://lifehacker.com/7-ways-to-make-your-halloween-spread-a-little-creepy-1850959121)
+- [Lifehacker] [Get Four Smart Plugs for $24 Right Now](https://lifehacker.com/get-four-smart-plugs-for-24-right-now-1850955497)
 - [Lifehacker] [What Your Relationship Needs Is a Little ‘Romantic Nostalgia’](https://lifehacker.com/what-your-relationship-needs-is-a-little-romantic-nost-1850955371)
 - [Lifehacker] [Why You Should Start Every Day by Accomplishing One Small Task](https://lifehacker.com/why-you-should-start-every-day-by-accomplishing-one-sma-1850958333)
 - [Dev.to/JS] [Contempo Crystals](https://dev.to/contempocrystals/contempo-crystals-3nab)
@@ -45,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Features in iOS 17.1](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 5&rpar;? Closure](https://dev.to/samanabbasi/how-javascript-works-part-5-closure-2-jbi)
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 4&rpar;? Hoisting, var, let, const, TDZ](https://dev.to/samanabbasi/how-javascript-works-part-4-hoisting-var-let-const-tdz-2d6)
-- [Dev.to/JS] [How to Deploy Your Node.js Backend on Vercel: A Step-by-Step Guide](https://dev.to/kkupgrader/how-to-deploy-your-nodejs-backend-on-vercel-a-step-by-step-guide-o54)
 - [Lifehacker] [The Case for Buying ‘Dumb’ Appliances](https://lifehacker.com/the-case-for-buying-dumb-appliances-1850957723)
 - [Lifehacker] [What&#39;s New on Netflix in November 2023](https://lifehacker.com/new-on-netflix-november-2023-1850955304)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in November 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-november-2023-1850956201)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
 - [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
 - [Lifehacker] [These Sous-Vide Egg Bites Are Better Than What You Get at Starbucks](https://lifehacker.com/these-sous-vide-egg-bites-are-your-new-weekday-breakfas-1824008696)
-- [Lifehacker] [How to Get Pumpkin Stains Out of Clothing, Fabric, and Hard Surfaces](https://lifehacker.com/how-to-get-pumpkin-stains-out-of-clothing-fabric-and-1850955207)
-- [Lifehacker] [How to Get Health Insurance When You’re Self-Employed](https://lifehacker.com/how-to-get-health-insurance-when-you-re-self-employed-1850953230)
-- [Lifehacker] [You Need to Make These Savory Crumpets](https://lifehacker.com/best-savory-crumpet-recipe-1849585719)
-- [Lifehacker] [Why Your Toilet is Squealing &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-your-toilet-is-squealing-and-what-to-do-about-it-1850952165)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Pumpkin Stains Out of Clothing, Fabric, and Hard Surfaces](https://lifehacker.com/how-to-get-pumpkin-stains-out-of-clothing-fabric-and-1850955207)<!-- TECH-POSTS:END -->
 
 ---
 
