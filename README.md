@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React: Behind the Scenes Part 2](https://dev.to/thecoollearner/react-behind-the-scenes-part-2-40l4)
+- [Lifehacker] [What to Expect From Apple&#39;s &#39;Scary Fast&#39; October Event](https://lifehacker.com/what-to-expect-from-apples-scary-fast-october-event-1850959168)
+- [Dev.to/JS] [Modules in JavaScript: The Magic Spell Libraries](https://dev.to/init_chandan/modules-in-javascript-the-magic-spell-libraries-8g0)
+- [Dev.to/JS] [SignalDB: Bringing Meteor-Like Reactivity to the Modern Age](https://dev.to/maxnowack/signaldb-bringing-meteor-like-reactivity-to-the-modern-age-1af)
+- [Lifehacker] [You Can Get a Lifetime Subscription to Headway for $50](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-headway-for-50-1850955551)
 - [Lifehacker] [Maybe You Have a &#39;Financial Kink&#39;?](https://lifehacker.com/what-is-financial-domination-1850958970)
 - [Dev.to/JS] [Asynchronous Javascript and Some advanced use cases](https://dev.to/mdimran1409036/asynchronous-javascript-and-some-advanced-use-cases-2357)
 - [Lifehacker] [All the New Features in iOS 17.1](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
@@ -41,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Entendendo o NaN &lpar;Not a Number&rpar; no JavaScript e Suas Particularidades](https://dev.to/rayanavital/entendendo-o-nan-not-a-number-no-javascript-e-suas-particularidades-cji)
 - [Dev.to/JS] [JS Code Challenges : 1](https://dev.to/amera/js-code-challenges-1-320)
 - [Lifehacker] [These Are the Best Portable Projectors for 2023](https://lifehacker.com/best-portable-projectors-1850955681)
-- [Dev.to/JS] [The Most Important Trends for React Native in 2023](https://dev.to/devteles/the-most-important-trends-for-react-native-in-2023-2igh)
 - [Lifehacker] [Why You Should Turn Websites Into Apps on Your Mac](https://lifehacker.com/why-you-should-turn-websites-into-apps-on-your-mac-1850956567)
-- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 3&rpar;? Function Scope, Block Scope](https://dev.to/samanabbasi/how-javascript-works-part-3-function-scope-block-scope-185n)
-- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 2&rpar;? The lexical scope mechanism of JavaScript](https://dev.to/samanabbasi/how-javascript-works-part-2-the-lexical-scope-mechanism-of-javascript-52jb)
 - [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
 - [Lifehacker] [Add Bluetooth to Almost Any Device for $46](https://lifehacker.com/add-bluetooth-to-almost-any-device-for-46-1850951920)
 - [Lifehacker] [How to Connect AirPods to a Windows Laptop](https://lifehacker.com/how-to-connect-airpods-to-a-windows-laptop-1850953839)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Super Mario Bros. Wonder&#39; Makes Your Switch Controllers Sing](https://lifehacker.com/super-mario-bros-wonder-makes-your-switch-controllers-1850954536)
 - [Lifehacker] [These Are the Best Tools for Tracking Online Sale Prices](https://lifehacker.com/best-price-tracking-tools-1692745053)
 - [Lifehacker] [All the Different Email Addresses You Should Set Up &lpar;and What to Use Them For&rpar;](https://lifehacker.com/all-the-different-email-addresses-you-should-set-up-an-1850954346)
-- [Lifehacker] [The 45 Best Classic Movies &lpar;1970s and Earlier&rpar; You Can Stream Right Now](https://lifehacker.com/best-classic-movies-on-streaming-1850951262)
-- [Lifehacker] [The Best Ways to Extend a Jack-o-Lantern’s Life](https://lifehacker.com/do-these-three-things-to-prolong-your-jack-o-lanterns-l-1849667151)
-- [Lifehacker] [How to Share Your Focus Status on iPhone &lpar;and Why You’d Want To&rpar;](https://lifehacker.com/how-to-use-share-focus-status-iphone-1850952493)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 45 Best Classic Movies &lpar;1970s and Earlier&rpar; You Can Stream Right Now](https://lifehacker.com/best-classic-movies-on-streaming-1850951262)<!-- TECH-POSTS:END -->
 
 ---
 
