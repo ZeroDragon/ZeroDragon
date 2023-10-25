@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Magic Tricks: Anti-Copy](https://dev.to/wangliwen/javascript-magic-tricks-anti-copy-2882)
+- [Dev.to/JS] [Tic Tac Toe Game Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/tic-tac-toe-game-using-html-css-and-javascript-59e)
 - [Dev.to/JS] [How to secure JavaScript applications right from the CLI](https://dev.to/snyk/how-to-secure-javascript-applications-right-from-the-cli-4kj6)
 - [Dev.to/JS] [High-level overview of PureScript](https://dev.to/zelenya/high-level-overview-of-purescript-37lf)
 - [Dev.to/JS] [Hacktoberfest: Recap](https://dev.to/omalk98/hacktoberfest-recap-1pon)
@@ -41,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Pumpkin Stains Out of Clothing, Fabric, and Hard Surfaces](https://lifehacker.com/how-to-get-pumpkin-stains-out-of-clothing-fabric-and-1850955207)
 - [Dev.to/JS] [Web Animation Techniques – CSS vs JavaScript](https://dev.to/ctrlcoding/web-animation-techniques-css-vs-javascript-42oj)
 - [Lifehacker] [How to Get Health Insurance When You’re Self-Employed](https://lifehacker.com/how-to-get-health-insurance-when-you-re-self-employed-1850953230)
-- [Dev.to/JS] [Setting up Tailwind, the easy way](https://dev.to/nullvoxpopuli/setting-up-tailwind-the-easy-way-5843)
 - [Lifehacker] [You Need to Make These Savory Crumpets](https://lifehacker.com/best-savory-crumpet-recipe-1849585719)
 - [Lifehacker] [Why Your Toilet is Squealing &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-your-toilet-is-squealing-and-what-to-do-about-it-1850952165)
-- [Dev.to/JS] [Hacktoberfest: PR #4](https://dev.to/omalk98/hacktoberfest-pr-4-1e2f)
 - [Lifehacker] [&#39;Super Mario Bros. Wonder&#39; Makes Your Switch Controllers Sing](https://lifehacker.com/super-mario-bros-wonder-makes-your-switch-controllers-1850954536)
 - [Lifehacker] [These Are the Best Tools for Tracking Online Sale Prices](https://lifehacker.com/best-price-tracking-tools-1692745053)
 - [Lifehacker] [All the Different Email Addresses You Should Set Up &lpar;and What to Use Them For&rpar;](https://lifehacker.com/all-the-different-email-addresses-you-should-set-up-an-1850954346)
