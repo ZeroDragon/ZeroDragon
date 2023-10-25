@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Your Relationship Needs Is a Little ‘Romantic Nostalgia’](https://lifehacker.com/what-your-relationship-needs-is-a-little-romantic-nost-1850955371)
+- [Lifehacker] [Why You Should Start Every Day by Accomplishing One Small Task](https://lifehacker.com/why-you-should-start-every-day-by-accomplishing-one-sma-1850958333)
 - [Dev.to/JS] [Contempo Crystals](https://dev.to/contempocrystals/contempo-crystals-3nab)
 - [Dev.to/JS] [🧰 zsh-pkgmanager-switcher - A ZSH JavaScript package manager switcher plugin](https://dev.to/ziggornif/zsh-pkgmanager-switcher-a-zsh-javascript-package-manager-switcher-plugin-8k3)
 - [Dev.to/JS] [ChatGPT&#39;S, evil twins are here](https://dev.to/fonyuygita/chatgpts-evil-twins-are-here-4hd4)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Pumpkin Stains Out of Clothing, Fabric, and Hard Surfaces](https://lifehacker.com/how-to-get-pumpkin-stains-out-of-clothing-fabric-and-1850955207)
 - [Lifehacker] [How to Get Health Insurance When You’re Self-Employed](https://lifehacker.com/how-to-get-health-insurance-when-you-re-self-employed-1850953230)
 - [Lifehacker] [You Need to Make These Savory Crumpets](https://lifehacker.com/best-savory-crumpet-recipe-1849585719)
-- [Lifehacker] [Why Your Toilet is Squealing &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-your-toilet-is-squealing-and-what-to-do-about-it-1850952165)
-- [Lifehacker] [&#39;Super Mario Bros. Wonder&#39; Makes Your Switch Controllers Sing](https://lifehacker.com/super-mario-bros-wonder-makes-your-switch-controllers-1850954536)
-- [Lifehacker] [These Are the Best Tools for Tracking Online Sale Prices](https://lifehacker.com/best-price-tracking-tools-1692745053)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Your Toilet is Squealing &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-your-toilet-is-squealing-and-what-to-do-about-it-1850952165)<!-- TECH-POSTS:END -->
 
 ---
 
