@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Top 10 JavaScript Tricks for Cleaner Code](https://dev.to/rajeshnatarajan/the-top-10-javascript-tricks-for-cleaner-code-1f62)
+- [Dev.to/JS] [JavaScript FinalizationRegistry Unraveled: Memory Management Magic Explained!](https://dev.to/this-is-learning/javascript-finalizationregistry-unraveled-memory-management-magic-explained-3m70)
+- [Dev.to/JS] [Prototypes in JavaScript.](https://dev.to/tanmaycode/prototypes-in-javascript-hik)
+- [Dev.to/JS] [How to Handle Scroll Events in React](https://dev.to/buaiscia/how-to-handle-scroll-events-in-react-10b5)
 - [Dev.to/JS] [Navy – SaaS Multipage theme.](https://dev.to/lexingtonthemes/navy-saas-multipage-theme-4gfh)
 - [Dev.to/JS] [Navy – SaaS Multipage theme.](https://dev.to/mike_andreuzza/navy-saas-multipage-theme-21pg)
 - [Dev.to/JS] [JavaScript Inclusion Strategies: Async vs. Defer Unveiled](https://dev.to/mnamesujit/javascript-inclusion-strategies-async-vs-defer-unveiled-4d6o)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Magic Tricks: Anti-Copy](https://dev.to/wangliwen/javascript-magic-tricks-anti-copy-2882)
 - [Dev.to/JS] [Tic Tac Toe Game Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/tic-tac-toe-game-using-html-css-and-javascript-59e)
 - [Dev.to/JS] [How to secure JavaScript applications right from the CLI](https://dev.to/snyk/how-to-secure-javascript-applications-right-from-the-cli-4kj6)
-- [Dev.to/JS] [High-level overview of PureScript](https://dev.to/zelenya/high-level-overview-of-purescript-37lf)
-- [Dev.to/JS] [Hacktoberfest: Recap](https://dev.to/omalk98/hacktoberfest-recap-1pon)
-- [Dev.to/JS] [My second Hacktoberfest PR!](https://dev.to/amnish04/my-second-hacktoberfest-pr-4d1e)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
-- [Dev.to/JS] [Base64 problem solved](https://dev.to/toviszsolt/base64-problem-solved-29og)
 - [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)
 - [Lifehacker] [These Sous-Vide Egg Bites Are Better Than What You Get at Starbucks](https://lifehacker.com/these-sous-vide-egg-bites-are-your-new-weekday-breakfas-1824008696)
 - [Lifehacker] [How to Get Pumpkin Stains Out of Clothing, Fabric, and Hard Surfaces](https://lifehacker.com/how-to-get-pumpkin-stains-out-of-clothing-fabric-and-1850955207)
