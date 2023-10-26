@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CBSE Previous Year Question Papers Class 12](https://dev.to/neetexam/cbse-previous-year-question-papers-class-12-2gl7)
+- [Lifehacker] [All the New AI Features Coming to Google Maps](https://lifehacker.com/google-maps-ai-features-1850958601)
+- [Lifehacker] [The Best Cable Modem/Router Combos to Buy Right Now](https://lifehacker.com/best-cable-modem-router-combos-for-most-people-1850958525)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step: Master DynamoDB!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-master-dynamodb-3cki)
 - [Lifehacker] [You Can Create a ‘Live’ Wallpaper on Your Phone](https://lifehacker.com/you-can-create-a-live-wallpaper-on-your-phone-1850825279)
 - [Dev.to/JS] [A Comprehensive Guide to FinTech Regulations and Compliance](https://dev.to/richarddukusa/a-comprehensive-guide-to-fintech-regulations-and-compliance-38m5)
 - [Dev.to/JS] [Grammar correct tool](https://dev.to/wdevind/grammar-correct-tool-3l59)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 9&rpar;? Arrow functions and lexical this](https://dev.to/samanabbasi/how-javascript-works-part-9-arrow-functions-and-lexical-this-38jo)
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 8&rpar;? Binding](https://dev.to/samanabbasi/how-javascript-works-part-8-binding-4kn)
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 7&rpar;? `this`](https://dev.to/samanabbasi/how-javascript-works-part-7-this-a3b)
-- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 6&rpar;? Module](https://dev.to/samanabbasi/how-javascript-works-part-6-module-48h0)
-- [Dev.to/JS] [Test-Driven Development in React: Building Reliable Applications from Scratch](https://dev.to/edemagbenyo/test-driven-development-in-react-building-reliable-applications-from-scratch-9mh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
 - [Lifehacker] [How to Create a Root Cellar in Your Modern Home](https://lifehacker.com/how-to-create-a-root-cellar-in-your-modern-home-1850958423)
 - [Lifehacker] [Bake a Taller Cake Without Buying a Deeper Pan](https://lifehacker.com/bake-a-taller-cake-without-buying-a-deeper-pan-1850959115)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Buy the Right Ethernet Cable](https://lifehacker.com/how-to-buy-the-right-ethernet-cable-1850955081)
 - [Lifehacker] [The Best &lpar;and Cheapest&rpar; Ways to Add a Little ‘Cottagecore’ Style to Your Home](https://lifehacker.com/the-best-and-cheapest-ways-to-add-a-little-cottageco-1850956033)
 - [Lifehacker] [How to Drop and Share a Pin in Google Maps](https://lifehacker.com/how-to-drop-and-share-a-google-maps-pin-1850952703)
-- [Lifehacker] [These Are the Best Amazon Early Black Friday Deals &lpar;So Far&rpar;](https://lifehacker.com/these-are-the-best-amazon-early-black-friday-deals-so-1850955489)
-- [Lifehacker] [These Spider Web Eggs Are Freaky, and You Just Might Need Them](https://lifehacker.com/these-spider-web-eggs-are-freaky-and-you-just-might-ne-1850954909)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Amazon Early Black Friday Deals &lpar;So Far&rpar;](https://lifehacker.com/these-are-the-best-amazon-early-black-friday-deals-so-1850955489)<!-- TECH-POSTS:END -->
 
 ---
 
