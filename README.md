@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in November 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-november-2023-1850958769)
+- [Lifehacker] [Start Your Morning With Deep-Fried Scrambled Eggs](https://lifehacker.com/deep-fried-scrambled-eggs-recipe-1850960422)
+- [Dev.to/JS] [Convert HTML to Image: A Step-by-Step Guide](https://dev.to/xiacodes/how-to-turn-html-to-image-10ja)
+- [Dev.to/JS] [hmmm Recursion](https://dev.to/codingfeedsme/hmmm-recursion-5g4o)
+- [Dev.to/JS] [Free Face-Swap AI 🎭 with Source Code for Web and Mobile App.](https://dev.to/shadee22/free-face-swap-ai-with-source-code-for-web-and-mobile-app-pm6)
+- [Dev.to/JS] [Image Management and Database Integration with Node.js, Multer, Cloudinary and MySQL](https://dev.to/nuelobeto/image-management-and-database-integration-with-nodejs-multer-cloudinary-and-mysql-1p1l)
 - [Dev.to/JS] [CBSE Previous Year Question Papers Class 12](https://dev.to/neetexam/cbse-previous-year-question-papers-class-12-2gl7)
 - [Lifehacker] [All the New AI Features Coming to Google Maps](https://lifehacker.com/google-maps-ai-features-1850958601)
 - [Lifehacker] [The Best Cable Modem/Router Combos to Buy Right Now](https://lifehacker.com/best-cable-modem-router-combos-for-most-people-1850958525)
@@ -37,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Singleton Pattern: Managing a Single Elevator Instance](https://dev.to/vedantbhamare/javascript-singleton-pattern-managing-a-single-elevator-instance-1fo5)
 - [Dev.to/JS] [The Ultimate AZ-305 Dumps: DumpsArena&#39;s Promise](https://dev.to/of37xhn0/the-ultimate-az-305-dumps-dumpsarenas-promise-3e78)
 - [Dev.to/JS] [Paginators in the AWS SDK for Javascript V3](https://dev.to/claranet/paginators-in-the-aws-sdk-for-javascript-v3-3lp6)
-- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 10&rpar;? Class](https://dev.to/samanabbasi/how-javascript-works-part-10-class-17oi)
-- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 9&rpar;? Arrow functions and lexical this](https://dev.to/samanabbasi/how-javascript-works-part-9-arrow-functions-and-lexical-this-38jo)
-- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 8&rpar;? Binding](https://dev.to/samanabbasi/how-javascript-works-part-8-binding-4kn)
-- [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 7&rpar;? `this`](https://dev.to/samanabbasi/how-javascript-works-part-7-this-a3b)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
 - [Lifehacker] [How to Create a Root Cellar in Your Modern Home](https://lifehacker.com/how-to-create-a-root-cellar-in-your-modern-home-1850958423)
 - [Lifehacker] [Bake a Taller Cake Without Buying a Deeper Pan](https://lifehacker.com/bake-a-taller-cake-without-buying-a-deeper-pan-1850959115)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add Bluetooth to Almost Any Device for $46](https://lifehacker.com/add-bluetooth-to-almost-any-device-for-46-1850951920)
 - [Lifehacker] [How to Connect AirPods to a Windows Laptop](https://lifehacker.com/how-to-connect-airpods-to-a-windows-laptop-1850953839)
 - [Lifehacker] [How to Buy the Right Ethernet Cable](https://lifehacker.com/how-to-buy-the-right-ethernet-cable-1850955081)
-- [Lifehacker] [The Best &lpar;and Cheapest&rpar; Ways to Add a Little ‘Cottagecore’ Style to Your Home](https://lifehacker.com/the-best-and-cheapest-ways-to-add-a-little-cottageco-1850956033)
-- [Lifehacker] [How to Drop and Share a Pin in Google Maps](https://lifehacker.com/how-to-drop-and-share-a-google-maps-pin-1850952703)
-- [Lifehacker] [These Are the Best Amazon Early Black Friday Deals &lpar;So Far&rpar;](https://lifehacker.com/these-are-the-best-amazon-early-black-friday-deals-so-1850955489)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best &lpar;and Cheapest&rpar; Ways to Add a Little ‘Cottagecore’ Style to Your Home](https://lifehacker.com/the-best-and-cheapest-ways-to-add-a-little-cottageco-1850956033)<!-- TECH-POSTS:END -->
 
 ---
 
