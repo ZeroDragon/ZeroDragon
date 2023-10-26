@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Create a ‘Live’ Wallpaper on Your Phone](https://lifehacker.com/you-can-create-a-live-wallpaper-on-your-phone-1850825279)
+- [Dev.to/JS] [A Comprehensive Guide to FinTech Regulations and Compliance](https://dev.to/richarddukusa/a-comprehensive-guide-to-fintech-regulations-and-compliance-38m5)
+- [Dev.to/JS] [Grammar correct tool](https://dev.to/wdevind/grammar-correct-tool-3l59)
+- [Dev.to/JS] [React 18 is Here: What You Need to Know](https://dev.to/akashakki/react-18-is-here-what-you-need-to-know-150f)
 - [Dev.to/JS] [JavaScript Singleton Pattern: Managing a Single Elevator Instance](https://dev.to/vedantbhamare/javascript-singleton-pattern-managing-a-single-elevator-instance-1fo5)
 - [Dev.to/JS] [The Ultimate AZ-305 Dumps: DumpsArena&#39;s Promise](https://dev.to/of37xhn0/the-ultimate-az-305-dumps-dumpsarenas-promise-3e78)
 - [Dev.to/JS] [Paginators in the AWS SDK for Javascript V3](https://dev.to/claranet/paginators-in-the-aws-sdk-for-javascript-v3-3lp6)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 7&rpar;? `this`](https://dev.to/samanabbasi/how-javascript-works-part-7-this-a3b)
 - [Dev.to/JS] [🚀How JavaScript Works &lpar;Part 6&rpar;? Module](https://dev.to/samanabbasi/how-javascript-works-part-6-module-48h0)
 - [Dev.to/JS] [Test-Driven Development in React: Building Reliable Applications from Scratch](https://dev.to/edemagbenyo/test-driven-development-in-react-building-reliable-applications-from-scratch-9mh)
-- [Dev.to/JS] [Creating Dynamic Tabs in Vue.js with Server Data and the &quot;KeepAlive&quot; Component](https://dev.to/kucherol/creating-dynamic-tabs-in-vuejs-with-server-data-and-the-keepalive-component-268j)
-- [Dev.to/JS] [𝑫𝒖𝒎𝒃𝒆𝒓 𝒚𝒆𝒕 S𝒎𝒂𝒓𝒕𝒆𝒓 A𝒑𝒑𝒓𝒐𝒂𝒄𝒉 𝒐𝒇 D𝒆𝒃𝒖𝒈𝒈𝒊𝒏𝒈](https://dev.to/shameel/s-a-d-35kn)
-- [Dev.to/JS] [JS being weird again: forcibly convert synchronous statement to asynchronous with async function](https://dev.to/tylim88/js-being-weird-again-forcibly-convert-synchronous-statement-to-asynchronous-with-async-function-4408)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
 - [Lifehacker] [How to Create a Root Cellar in Your Modern Home](https://lifehacker.com/how-to-create-a-root-cellar-in-your-modern-home-1850958423)
 - [Lifehacker] [Bake a Taller Cake Without Buying a Deeper Pan](https://lifehacker.com/bake-a-taller-cake-without-buying-a-deeper-pan-1850959115)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Drop and Share a Pin in Google Maps](https://lifehacker.com/how-to-drop-and-share-a-google-maps-pin-1850952703)
 - [Lifehacker] [These Are the Best Amazon Early Black Friday Deals &lpar;So Far&rpar;](https://lifehacker.com/these-are-the-best-amazon-early-black-friday-deals-so-1850955489)
 - [Lifehacker] [These Spider Web Eggs Are Freaky, and You Just Might Need Them](https://lifehacker.com/these-spider-web-eggs-are-freaky-and-you-just-might-ne-1850954909)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)
-- [Lifehacker] [These Lifetime Subscriptions to Dollar Flight Club Are Deeply Discounted Right Now](https://lifehacker.com/these-lifetime-subscriptions-to-dollar-flight-club-are-1850951897)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, October 25, 2023](https://lifehacker.com/nyt-connections-answer-today-october-25-2023-1850953011)<!-- TECH-POSTS:END -->
 
 ---
 
