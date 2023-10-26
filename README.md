@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [iOS 17.2 Finally Introduces the Journal App](https://lifehacker.com/new-features-in-ios-17-2-1850964155)
+- [Dev.to/JS] [NodeJS - Ofuscando rostos humanos em fotos](https://dev.to/justaguyfrombr/nodejs-ofuscando-rostos-humanos-em-fotos-2ip)
+- [Lifehacker] [The Right Way to Clean an Air Fryer](https://lifehacker.com/how-to-clean-an-air-fryer-1849553685)
+- [Lifehacker] [You Can Get the Apple Watch Series 8 for Its Lowest Price Ever](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [There’s No Reason People Need to Call You on X/Twitter](https://lifehacker.com/there-s-no-reason-people-need-to-call-you-on-x-twitter-1850963557)
 - [Lifehacker] [These Are the Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)
 - [Lifehacker] [How to Get Rid of a Smoke Smell in Your New Home](https://lifehacker.com/get-rid-of-cigarette-smell-in-house-1850962845)
@@ -47,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hunt for Ghosts With Your iPhone](https://lifehacker.com/how-to-hunt-for-ghosts-with-your-iphone-1850934303)
 - [Lifehacker] [These Are The Best Watch Faces for Apple Watch](https://lifehacker.com/best-apple-watch-faces-1850961202)
 - [Dev.to/JS] [How to Send Alerts from Supabase](https://dev.to/patrikbraborec/how-to-send-alerts-from-supabase-3kl5)
-- [Dev.to/JS] [Exclusive collection of free SVG icons download for commercial projects without attribution](https://dev.to/nikrunic/exclusive-collection-of-free-svg-icons-downloadfor-commercial-projects-without-attribution-5254)
 - [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
 - [Lifehacker] [This Refurbished HP Chromebook Is $107 Right Now](https://lifehacker.com/this-refurbished-hp-chromebook-is-107-right-now-1850955561)
 - [Lifehacker] [What People Are Getting Wrong This Week: Four Halloween Myths &lpar;and One Real Danger&rpar;](https://lifehacker.com/what-people-are-getting-wrong-this-week-four-halloween-1850960766)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
 - [Lifehacker] [How to Create a Root Cellar in Your Modern Home](https://lifehacker.com/how-to-create-a-root-cellar-in-your-modern-home-1850958423)
 - [Lifehacker] [Bake a Taller Cake Without Buying a Deeper Pan](https://lifehacker.com/bake-a-taller-cake-without-buying-a-deeper-pan-1850959115)
-- [Lifehacker] [7 Ways to Make Your Halloween Spread a Little Creepy](https://lifehacker.com/7-ways-to-make-your-halloween-spread-a-little-creepy-1850959121)
-- [Lifehacker] [Get Four Smart Plugs for $24 Right Now](https://lifehacker.com/get-four-smart-plugs-for-24-right-now-1850955497)
-- [Lifehacker] [What Your Relationship Needs Is a Little ‘Romantic Nostalgia’](https://lifehacker.com/what-your-relationship-needs-is-a-little-romantic-nost-1850955371)
-- [Lifehacker] [Why You Should Start Every Day by Accomplishing One Small Task](https://lifehacker.com/why-you-should-start-every-day-by-accomplishing-one-sma-1850958333)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 Ways to Make Your Halloween Spread a Little Creepy](https://lifehacker.com/7-ways-to-make-your-halloween-spread-a-little-creepy-1850959121)<!-- TECH-POSTS:END -->
 
 ---
 
