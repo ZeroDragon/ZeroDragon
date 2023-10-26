@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are The Best Watch Faces for Apple Watch](https://lifehacker.com/best-apple-watch-faces-1850961202)
+- [Dev.to/JS] [How to Send Alerts from Supabase](https://dev.to/patrikbraborec/how-to-send-alerts-from-supabase-3kl5)
+- [Dev.to/JS] [Exclusive collection of free SVG icons download for commercial projects without attribution](https://dev.to/nikrunic/exclusive-collection-of-free-svg-icons-downloadfor-commercial-projects-without-attribution-5254)
+- [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
+- [Lifehacker] [This Refurbished HP Chromebook Is $107 Right Now](https://lifehacker.com/this-refurbished-hp-chromebook-is-107-right-now-1850955561)
 - [Dev.to/JS] [Using json-server to create a mock back-end for front-end development](https://dev.to/michaelikoko/using-json-server-to-create-a-mock-back-end-for-front-end-development-2mgp)
 - [Dev.to/JS] [Key JavaScript Concepts I Mastered During LeetCode’s 30-Day Challenge](https://dev.to/ilatif/key-javascript-concepts-i-mastered-during-leetcodes-30-day-challenge-27f5)
 - [Lifehacker] [What People Are Getting Wrong This Week: Four Halloween Myths &lpar;and One Real Danger&rpar;](https://lifehacker.com/what-people-are-getting-wrong-this-week-four-halloween-1850960766)
@@ -45,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Cable Modem/Router Combos to Buy Right Now](https://lifehacker.com/best-cable-modem-router-combos-for-most-people-1850958525)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step: Master DynamoDB!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-master-dynamodb-3cki)
 - [Lifehacker] [You Can Create a ‘Live’ Wallpaper on Your Phone](https://lifehacker.com/you-can-create-a-live-wallpaper-on-your-phone-1850825279)
-- [Dev.to/JS] [A Comprehensive Guide to FinTech Regulations and Compliance](https://dev.to/richarddukusa/a-comprehensive-guide-to-fintech-regulations-and-compliance-38m5)
-- [Dev.to/JS] [Grammar correct tool](https://dev.to/wdevind/grammar-correct-tool-3l59)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
 - [Lifehacker] [How to Create a Root Cellar in Your Modern Home](https://lifehacker.com/how-to-create-a-root-cellar-in-your-modern-home-1850958423)
 - [Lifehacker] [Bake a Taller Cake Without Buying a Deeper Pan](https://lifehacker.com/bake-a-taller-cake-without-buying-a-deeper-pan-1850959115)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Features in iOS 17.1](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
 - [Lifehacker] [The Case for Buying ‘Dumb’ Appliances](https://lifehacker.com/the-case-for-buying-dumb-appliances-1850957723)
 - [Lifehacker] [What&#39;s New on Netflix in November 2023](https://lifehacker.com/new-on-netflix-november-2023-1850955304)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in November 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-november-2023-1850956201)
-- [Lifehacker] [These Are the Best Portable Projectors for 2023](https://lifehacker.com/best-portable-projectors-1850955681)
-- [Lifehacker] [Why You Should Turn Websites Into Apps on Your Mac](https://lifehacker.com/why-you-should-turn-websites-into-apps-on-your-mac-1850956567)
-- [Lifehacker] [Add Bluetooth to Almost Any Device for $46](https://lifehacker.com/add-bluetooth-to-almost-any-device-for-46-1850951920)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in November 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-november-2023-1850956201)<!-- TECH-POSTS:END -->
 
 ---
 
