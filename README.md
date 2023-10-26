@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [billboard.js 3.10 release: point radialGradient, new theme and improved stability.](https://dev.to/netil/billboardjs-310-release-point-radialgradient-new-theme-and-improved-stability-3jkb)
+- [Dev.to/JS] [Web Scraping in Javascript &lpar;Complete tutorial for Beginner&rpar;](https://dev.to/serpapi/web-scraping-in-javascript-complete-tutorial-for-beginner-4ofc)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
 - [Dev.to/JS] [How to create your own custom array methods in JavaScript](https://dev.to/thehuferr/how-to-create-your-own-custom-array-methods-in-javascript-4po)
 - [Dev.to/JS] [Introduction to React Redux](https://dev.to/ethand91/introduction-to-react-redux-4mp4)
@@ -46,10 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React: Behind the Scenes Part 2](https://dev.to/thecoollearner/react-behind-the-scenes-part-2-40l4)
 - [Lifehacker] [What to Expect From Apple&#39;s &#39;Scary Fast&#39; October Event](https://lifehacker.com/what-to-expect-from-apples-scary-fast-october-event-1850959168)
 - [Dev.to/JS] [Modules in JavaScript: The Magic Spell Libraries](https://dev.to/init_chandan/modules-in-javascript-the-magic-spell-libraries-8g0)
-- [Dev.to/JS] [SignalDB: Bringing Meteor-Like Reactivity to the Modern Age](https://dev.to/maxnowack/signaldb-bringing-meteor-like-reactivity-to-the-modern-age-1af)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Headway for $50](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-headway-for-50-1850955551)
 - [Lifehacker] [Maybe You Have a &#39;Financial Kink&#39;?](https://lifehacker.com/what-is-financial-domination-1850958970)
-- [Dev.to/JS] [Asynchronous Javascript and Some advanced use cases](https://dev.to/mdimran1409036/asynchronous-javascript-and-some-advanced-use-cases-2357)
 - [Lifehacker] [All the New Features in iOS 17.1](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
 - [Lifehacker] [The Case for Buying ‘Dumb’ Appliances](https://lifehacker.com/the-case-for-buying-dumb-appliances-1850957723)
 - [Lifehacker] [What&#39;s New on Netflix in November 2023](https://lifehacker.com/new-on-netflix-november-2023-1850955304)
