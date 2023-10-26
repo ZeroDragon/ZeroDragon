@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [There’s No Reason People Need to Call You on X/Twitter](https://lifehacker.com/there-s-no-reason-people-need-to-call-you-on-x-twitter-1850963557)
+- [Lifehacker] [These Are the Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)
 - [Lifehacker] [How to Get Rid of a Smoke Smell in Your New Home](https://lifehacker.com/get-rid-of-cigarette-smell-in-house-1850962845)
 - [Dev.to/JS] [NodeMailer vs EmailJS](https://dev.to/scofieldidehen/nodemailer-vs-emailjs-5fdl)
 - [Dev.to/JS] [Function declaration vs Function expression](https://dev.to/cravencraven/function-declaration-vs-function-expression-1jd9)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Ways to Make Your Halloween Spread a Little Creepy](https://lifehacker.com/7-ways-to-make-your-halloween-spread-a-little-creepy-1850959121)
 - [Lifehacker] [Get Four Smart Plugs for $24 Right Now](https://lifehacker.com/get-four-smart-plugs-for-24-right-now-1850955497)
 - [Lifehacker] [What Your Relationship Needs Is a Little ‘Romantic Nostalgia’](https://lifehacker.com/what-your-relationship-needs-is-a-little-romantic-nost-1850955371)
-- [Lifehacker] [Why You Should Start Every Day by Accomplishing One Small Task](https://lifehacker.com/why-you-should-start-every-day-by-accomplishing-one-sma-1850958333)
-- [Lifehacker] [This 65-inch TLC 4K TV Is $400 Right Now](https://lifehacker.com/this-65-inch-tlc-4k-tv-is-400-right-now-1850959252)
-- [Lifehacker] [Think Twice About Letting Vines Envelop Your House](https://lifehacker.com/think-twice-about-letting-vines-envelop-your-house-1850958235)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Start Every Day by Accomplishing One Small Task](https://lifehacker.com/why-you-should-start-every-day-by-accomplishing-one-sma-1850958333)<!-- TECH-POSTS:END -->
 
 ---
 
