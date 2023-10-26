@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Lazy Potatoes au Gratin With Alfredo Sauce](https://lifehacker.com/easy-potatoes-au-gratin-1850962376)
+- [Dev.to/JS] [Use of useDebounce while searching data. Send data on value change using useRouter hook next](https://dev.to/imsan/use-of-usedebounce-while-searching-data-send-data-on-value-change-using-userouter-hook-next-1e30)
+- [Lifehacker] [How to Hunt for Ghosts With Your iPhone](https://lifehacker.com/how-to-hunt-for-ghosts-with-your-iphone-1850934303)
 - [Lifehacker] [These Are The Best Watch Faces for Apple Watch](https://lifehacker.com/best-apple-watch-faces-1850961202)
 - [Dev.to/JS] [How to Send Alerts from Supabase](https://dev.to/patrikbraborec/how-to-send-alerts-from-supabase-3kl5)
 - [Dev.to/JS] [Exclusive collection of free SVG icons download for commercial projects without attribution](https://dev.to/nikrunic/exclusive-collection-of-free-svg-icons-downloadfor-commercial-projects-without-attribution-5254)
@@ -48,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CBSE Previous Year Question Papers Class 12](https://dev.to/neetexam/cbse-previous-year-question-papers-class-12-2gl7)
 - [Lifehacker] [All the New AI Features Coming to Google Maps](https://lifehacker.com/google-maps-ai-features-1850958601)
 - [Lifehacker] [The Best Cable Modem/Router Combos to Buy Right Now](https://lifehacker.com/best-cable-modem-router-combos-for-most-people-1850958525)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step: Master DynamoDB!](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-master-dynamodb-3cki)
 - [Lifehacker] [You Can Create a ‘Live’ Wallpaper on Your Phone](https://lifehacker.com/you-can-create-a-live-wallpaper-on-your-phone-1850825279)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
 - [Lifehacker] [How to Create a Root Cellar in Your Modern Home](https://lifehacker.com/how-to-create-a-root-cellar-in-your-modern-home-1850958423)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime Subscription to Headway for $50](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-headway-for-50-1850955551)
 - [Lifehacker] [Maybe You Have a &#39;Financial Kink&#39;?](https://lifehacker.com/what-is-financial-domination-1850958970)
 - [Lifehacker] [All the New Features in iOS 17.1](https://lifehacker.com/theres-an-ios-17-1-already-1850882032)
-- [Lifehacker] [The Case for Buying ‘Dumb’ Appliances](https://lifehacker.com/the-case-for-buying-dumb-appliances-1850957723)
-- [Lifehacker] [What&#39;s New on Netflix in November 2023](https://lifehacker.com/new-on-netflix-november-2023-1850955304)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in November 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-november-2023-1850956201)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Case for Buying ‘Dumb’ Appliances](https://lifehacker.com/the-case-for-buying-dumb-appliances-1850957723)<!-- TECH-POSTS:END -->
 
 ---
 
