@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using json-server to create a mock back-end for front-end development](https://dev.to/michaelikoko/using-json-server-to-create-a-mock-back-end-for-front-end-development-2mgp)
+- [Dev.to/JS] [Key JavaScript Concepts I Mastered During LeetCode’s 30-Day Challenge](https://dev.to/ilatif/key-javascript-concepts-i-mastered-during-leetcodes-30-day-challenge-27f5)
+- [Lifehacker] [What People Are Getting Wrong This Week: Four Halloween Myths &lpar;and One Real Danger&rpar;](https://lifehacker.com/what-people-are-getting-wrong-this-week-four-halloween-1850960766)
+- [Dev.to/JS] [I am a successful Devop engineer.](https://dev.to/ulomaekpe/i-am-a-successful-devop-engineer-2d8)
+- [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
 - [Lifehacker] [You Can Get the ASUS Zenbook 14X for Its Lowest Price Yet](https://lifehacker.com/you-can-get-the-asus-zenbook-14x-for-its-lowest-price-y-1850959975)
 - [Lifehacker] [These Indoor Digital TV Antennas &lpar;Might&rpar; Actually Work](https://lifehacker.com/best-digital-tv-antennas-1850958729)
 - [Dev.to/JS] [Real World Client Angular Application - Pre-Sale Promo- 120 + Hours Course](https://dev.to/asma921208/real-world-client-angular-application-pre-sale-promo-120-hours-course-438b)
@@ -42,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Create a ‘Live’ Wallpaper on Your Phone](https://lifehacker.com/you-can-create-a-live-wallpaper-on-your-phone-1850825279)
 - [Dev.to/JS] [A Comprehensive Guide to FinTech Regulations and Compliance](https://dev.to/richarddukusa/a-comprehensive-guide-to-fintech-regulations-and-compliance-38m5)
 - [Dev.to/JS] [Grammar correct tool](https://dev.to/wdevind/grammar-correct-tool-3l59)
-- [Dev.to/JS] [React 18 is Here: What You Need to Know](https://dev.to/akashakki/react-18-is-here-what-you-need-to-know-150f)
-- [Dev.to/JS] [JavaScript Singleton Pattern: Managing a Single Elevator Instance](https://dev.to/vedantbhamare/javascript-singleton-pattern-managing-a-single-elevator-instance-1fo5)
-- [Dev.to/JS] [The Ultimate AZ-305 Dumps: DumpsArena&#39;s Promise](https://dev.to/of37xhn0/the-ultimate-az-305-dumps-dumpsarenas-promise-3e78)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
 - [Lifehacker] [How to Create a Root Cellar in Your Modern Home](https://lifehacker.com/how-to-create-a-root-cellar-in-your-modern-home-1850958423)
 - [Lifehacker] [Bake a Taller Cake Without Buying a Deeper Pan](https://lifehacker.com/bake-a-taller-cake-without-buying-a-deeper-pan-1850959115)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in November 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-november-2023-1850956201)
 - [Lifehacker] [These Are the Best Portable Projectors for 2023](https://lifehacker.com/best-portable-projectors-1850955681)
 - [Lifehacker] [Why You Should Turn Websites Into Apps on Your Mac](https://lifehacker.com/why-you-should-turn-websites-into-apps-on-your-mac-1850956567)
-- [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
-- [Lifehacker] [Add Bluetooth to Almost Any Device for $46](https://lifehacker.com/add-bluetooth-to-almost-any-device-for-46-1850951920)
-- [Lifehacker] [How to Connect AirPods to a Windows Laptop](https://lifehacker.com/how-to-connect-airpods-to-a-windows-laptop-1850953839)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Add Bluetooth to Almost Any Device for $46](https://lifehacker.com/add-bluetooth-to-almost-any-device-for-46-1850951920)<!-- TECH-POSTS:END -->
 
 ---
 
