@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Dynamic Tabs in Vue.js with Server Data and the &quot;KeepAlive&quot; Component](https://dev.to/kucherol/creating-dynamic-tabs-in-vuejs-with-server-data-and-the-keepalive-component-268j)
+- [Dev.to/JS] [𝑫𝒖𝒎𝒃𝒆𝒓 𝒚𝒆𝒕 S𝒎𝒂𝒓𝒕𝒆𝒓 A𝒑𝒑𝒓𝒐𝒂𝒄𝒉 𝒐𝒇 D𝒆𝒃𝒖𝒈𝒈𝒊𝒏𝒈](https://dev.to/shameel/s-a-d-35kn)
 - [Dev.to/JS] [JS being weird again: forcibly convert synchronous statement to asynchronous with async function](https://dev.to/tylim88/js-being-weird-again-forcibly-convert-synchronous-statement-to-asynchronous-with-async-function-4408)
 - [Dev.to/JS] [Mastering Responsive Web Design: Best Practices and Tools](https://dev.to/shadbalti/mastering-responsive-web-design-best-practices-and-tools-3akn)
 - [Dev.to/JS] [Contributing to the Community: Hacktoberfest PR #2](https://dev.to/namatuzio/contributing-to-the-community-hacktoberfest-pr-2-48j6)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are the commonly used techniques for front-end engineers in Australia](https://dev.to/wihend/what-are-the-commonly-used-techniques-for-front-end-engineers-in-australia-5ggm)
 - [Dev.to/JS] [Celebrating a Milestone: My Fourth Merged Pull Request as a Hacktoberfest Maintainer](https://dev.to/jps27cse/celebrating-a-milestone-my-fourth-merged-pull-request-as-a-hacktoberfest-maintainer-3nd2)
 - [Dev.to/JS] [JavaScript: sorting algorithms](https://dev.to/fabienschlegel/javascript-sorting-algorithms-1j2d)
-- [Dev.to/JS] [ESM vs CJS - the prelude, the clash, and the solution](https://dev.to/midnqp/esm-vs-cjs-the-prelude-the-clash-and-the-solution-46ia)
-- [Dev.to/JS] [Web Storage in JavaScript](https://dev.to/iarchitsharma/web-storage-in-javascript-mbi)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
 - [Lifehacker] [How to Create a Root Cellar in Your Modern Home](https://lifehacker.com/how-to-create-a-root-cellar-in-your-modern-home-1850958423)
 - [Lifehacker] [Bake a Taller Cake Without Buying a Deeper Pan](https://lifehacker.com/bake-a-taller-cake-without-buying-a-deeper-pan-1850959115)
