@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Responsive Web Design: Best Practices and Tools](https://dev.to/shadbalti/mastering-responsive-web-design-best-practices-and-tools-3akn)
+- [Dev.to/JS] [Contributing to the Community: Hacktoberfest PR #2](https://dev.to/namatuzio/contributing-to-the-community-hacktoberfest-pr-2-48j6)
+- [Dev.to/JS] [Dependency Injection: The Key to Writing Testable and Flexible Code](https://dev.to/larix/dependency-injection-the-key-to-writing-testable-and-flexible-code-26g4)
+- [Dev.to/JS] [#1 JavaScript Tricks for Cleaner Code with : 💡Object Destructuring](https://dev.to/todayscode14/1-javascript-tricks-for-cleaner-code-with-object-destructuring-5eco)
+- [Dev.to/JS] [An Introduction to Data Structures and Algorithms](https://dev.to/callmeweirdo/an-introduction-to-data-structures-and-algorithms-11dm)
 - [Dev.to/JS] [💛 Let me Try to Compare the Event Loop to a Shipping Service 📦](https://dev.to/yutzi/let-me-try-to-compare-the-event-loop-to-a-shipping-service-1b32)
 - [Dev.to/JS] [What are the commonly used techniques for front-end engineers in Australia](https://dev.to/wihend/what-are-the-commonly-used-techniques-for-front-end-engineers-in-australia-5ggm)
 - [Dev.to/JS] [Celebrating a Milestone: My Fourth Merged Pull Request as a Hacktoberfest Maintainer](https://dev.to/jps27cse/celebrating-a-milestone-my-fourth-merged-pull-request-as-a-hacktoberfest-maintainer-3nd2)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ESM vs CJS - the prelude, the clash, and the solution](https://dev.to/midnqp/esm-vs-cjs-the-prelude-the-clash-and-the-solution-46ia)
 - [Dev.to/JS] [Web Storage in JavaScript](https://dev.to/iarchitsharma/web-storage-in-javascript-mbi)
 - [Dev.to/JS] [Let V/s Var in JavaScript](https://dev.to/tanmaycode/let-vs-var-in-javascript-3gd6)
-- [Dev.to/JS] [Web App Development: relevant types &amp; examples](https://dev.to/sparkouttech/web-app-development-relevant-types-examples-32fg)
-- [Dev.to/JS] [Hacktoberfest 2023 Contributor](https://dev.to/minhngh12/hacktoberfest-2023-contributor-23l)
-- [Dev.to/JS] [How to Dynamically Adjust the Height of a Textarea in ReactJS](https://dev.to/sachinchaurasiya/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs-3ckd)
-- [Dev.to/JS] [Understanding the Difference Between compose&lpar;&rpar; and pipe&lpar;&rpar; in JavaScript](https://dev.to/vivek96_/understanding-the-difference-between-compose-and-pipe-in-javascript-11ji)
-- [Dev.to/JS] [billboard.js 3.10 release: point radialGradient, new theme and improved stability.](https://dev.to/netil/billboardjs-310-release-point-radialgradient-new-theme-and-improved-stability-3jkb)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
 - [Lifehacker] [How to Create a Root Cellar in Your Modern Home](https://lifehacker.com/how-to-create-a-root-cellar-in-your-modern-home-1850958423)
 - [Lifehacker] [Bake a Taller Cake Without Buying a Deeper Pan](https://lifehacker.com/bake-a-taller-cake-without-buying-a-deeper-pan-1850959115)
