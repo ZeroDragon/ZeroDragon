@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get the ASUS Zenbook 14X for Its Lowest Price Yet](https://lifehacker.com/you-can-get-the-asus-zenbook-14x-for-its-lowest-price-y-1850959975)
+- [Lifehacker] [These Indoor Digital TV Antennas &lpar;Might&rpar; Actually Work](https://lifehacker.com/best-digital-tv-antennas-1850958729)
+- [Dev.to/JS] [Real World Client Angular Application - Pre-Sale Promo- 120 + Hours Course](https://dev.to/asma921208/real-world-client-angular-application-pre-sale-promo-120-hours-course-438b)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in November 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-november-2023-1850958769)
 - [Lifehacker] [Start Your Morning With Deep-Fried Scrambled Eggs](https://lifehacker.com/deep-fried-scrambled-eggs-recipe-1850960422)
 - [Dev.to/JS] [Convert HTML to Image: A Step-by-Step Guide](https://dev.to/xiacodes/how-to-turn-html-to-image-10ja)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React 18 is Here: What You Need to Know](https://dev.to/akashakki/react-18-is-here-what-you-need-to-know-150f)
 - [Dev.to/JS] [JavaScript Singleton Pattern: Managing a Single Elevator Instance](https://dev.to/vedantbhamare/javascript-singleton-pattern-managing-a-single-elevator-instance-1fo5)
 - [Dev.to/JS] [The Ultimate AZ-305 Dumps: DumpsArena&#39;s Promise](https://dev.to/of37xhn0/the-ultimate-az-305-dumps-dumpsarenas-promise-3e78)
-- [Dev.to/JS] [Paginators in the AWS SDK for Javascript V3](https://dev.to/claranet/paginators-in-the-aws-sdk-for-javascript-v3-3lp6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
 - [Lifehacker] [How to Create a Root Cellar in Your Modern Home](https://lifehacker.com/how-to-create-a-root-cellar-in-your-modern-home-1850958423)
 - [Lifehacker] [Bake a Taller Cake Without Buying a Deeper Pan](https://lifehacker.com/bake-a-taller-cake-without-buying-a-deeper-pan-1850959115)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Turn Websites Into Apps on Your Mac](https://lifehacker.com/why-you-should-turn-websites-into-apps-on-your-mac-1850956567)
 - [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
 - [Lifehacker] [Add Bluetooth to Almost Any Device for $46](https://lifehacker.com/add-bluetooth-to-almost-any-device-for-46-1850951920)
-- [Lifehacker] [How to Connect AirPods to a Windows Laptop](https://lifehacker.com/how-to-connect-airpods-to-a-windows-laptop-1850953839)
-- [Lifehacker] [How to Buy the Right Ethernet Cable](https://lifehacker.com/how-to-buy-the-right-ethernet-cable-1850955081)
-- [Lifehacker] [The Best &lpar;and Cheapest&rpar; Ways to Add a Little ‘Cottagecore’ Style to Your Home](https://lifehacker.com/the-best-and-cheapest-ways-to-add-a-little-cottageco-1850956033)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Connect AirPods to a Windows Laptop](https://lifehacker.com/how-to-connect-airpods-to-a-windows-laptop-1850953839)<!-- TECH-POSTS:END -->
 
 ---
 
