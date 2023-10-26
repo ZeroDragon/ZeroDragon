@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Storage in JavaScript](https://dev.to/iarchitsharma/web-storage-in-javascript-mbi)
+- [Dev.to/JS] [Let V/s Var in JavaScript](https://dev.to/tanmaycode/let-vs-var-in-javascript-3gd6)
+- [Dev.to/JS] [Web App Development: relevant types &amp; examples](https://dev.to/sparkouttech/web-app-development-relevant-types-examples-32fg)
 - [Dev.to/JS] [Hacktoberfest 2023 Contributor](https://dev.to/minhngh12/hacktoberfest-2023-contributor-23l)
 - [Dev.to/JS] [How to Dynamically Adjust the Height of a Textarea in ReactJS](https://dev.to/sachinchaurasiya/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs-3ckd)
 - [Dev.to/JS] [Understanding the Difference Between compose&lpar;&rpar; and pipe&lpar;&rpar; in JavaScript](https://dev.to/vivek96_/understanding-the-difference-between-compose-and-pipe-in-javascript-11ji)
@@ -42,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Your Relationship Needs Is a Little ‘Romantic Nostalgia’](https://lifehacker.com/what-your-relationship-needs-is-a-little-romantic-nost-1850955371)
 - [Lifehacker] [Why You Should Start Every Day by Accomplishing One Small Task](https://lifehacker.com/why-you-should-start-every-day-by-accomplishing-one-sma-1850958333)
 - [Dev.to/JS] [Contempo Crystals](https://dev.to/contempocrystals/contempo-crystals-3nab)
-- [Dev.to/JS] [🧰 zsh-pkgmanager-switcher - A ZSH JavaScript package manager switcher plugin](https://dev.to/ziggornif/zsh-pkgmanager-switcher-a-zsh-javascript-package-manager-switcher-plugin-8k3)
-- [Dev.to/JS] [ChatGPT&#39;S, evil twins are here](https://dev.to/fonyuygita/chatgpts-evil-twins-are-here-4hd4)
 - [Lifehacker] [This 65-inch TLC 4K TV Is $400 Right Now](https://lifehacker.com/this-65-inch-tlc-4k-tv-is-400-right-now-1850959252)
-- [Dev.to/JS] [Make your app install and run faster with nolyfill](https://dev.to/wojtekmaj/make-your-app-install-and-run-faster-with-nolyfill-25dk)
 - [Lifehacker] [Think Twice About Letting Vines Envelop Your House](https://lifehacker.com/think-twice-about-letting-vines-envelop-your-house-1850958235)
 - [Lifehacker] [What to Expect From Apple&#39;s &#39;Scary Fast&#39; October Event](https://lifehacker.com/what-to-expect-from-apples-scary-fast-october-event-1850959168)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Headway for $50](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-headway-for-50-1850955551)
