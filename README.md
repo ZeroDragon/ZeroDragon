@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Dynamically Adjust the Height of a Textarea in ReactJS](https://dev.to/sachinchaurasiya/how-to-dynamically-adjust-the-height-of-a-textarea-in-reactjs-3ckd)
 - [Dev.to/JS] [Understanding the Difference Between compose&lpar;&rpar; and pipe&lpar;&rpar; in JavaScript](https://dev.to/vivek96_/understanding-the-difference-between-compose-and-pipe-in-javascript-11ji)
 - [Dev.to/JS] [billboard.js 3.10 release: point radialGradient, new theme and improved stability.](https://dev.to/netil/billboardjs-310-release-point-radialgradient-new-theme-and-improved-stability-3jkb)
 - [Dev.to/JS] [Web Scraping in Javascript &lpar;Complete tutorial for Beginner&rpar;](https://dev.to/serpapi/web-scraping-in-javascript-complete-tutorial-for-beginner-4ofc)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make your app install and run faster with nolyfill](https://dev.to/wojtekmaj/make-your-app-install-and-run-faster-with-nolyfill-25dk)
 - [Dev.to/JS] [Mind-Expanding Read: Head First JavaScript](https://dev.to/umahichristopher/mind-expanding-read-head-first-javascript-f0)
 - [Lifehacker] [Think Twice About Letting Vines Envelop Your House](https://lifehacker.com/think-twice-about-letting-vines-envelop-your-house-1850958235)
-- [Dev.to/JS] [React: Behind the Scenes Part 2](https://dev.to/thecoollearner/react-behind-the-scenes-part-2-40l4)
 - [Lifehacker] [What to Expect From Apple&#39;s &#39;Scary Fast&#39; October Event](https://lifehacker.com/what-to-expect-from-apples-scary-fast-october-event-1850959168)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Headway for $50](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-headway-for-50-1850955551)
 - [Lifehacker] [Maybe You Have a &#39;Financial Kink&#39;?](https://lifehacker.com/what-is-financial-domination-1850958970)
