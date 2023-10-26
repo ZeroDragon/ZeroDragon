@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Rid of a Smoke Smell in Your New Home](https://lifehacker.com/get-rid-of-cigarette-smell-in-house-1850962845)
+- [Dev.to/JS] [NodeMailer vs EmailJS](https://dev.to/scofieldidehen/nodemailer-vs-emailjs-5fdl)
+- [Dev.to/JS] [Function declaration vs Function expression](https://dev.to/cravencraven/function-declaration-vs-function-expression-1jd9)
+- [Dev.to/JS] [Survey about security issues for MERN stack developer](https://dev.to/royal1214v/survey-about-security-issues-for-mern-stack-developer-28f8)
+- [Lifehacker] [How to Know If That Bug in Your House Is an Actual Emergency](https://lifehacker.com/how-to-know-if-that-bug-in-your-house-is-an-actual-emer-1850962180)
+- [Dev.to/JS] [JavaScript ES6 Features Every Developer Should Know](https://dev.to/baransel/javascript-es6-features-every-developer-should-know-40el)
 - [Dev.to/JS] [How Can I achieve this scroll image animation?](https://dev.to/saimasawrin/how-can-i-achieve-this-scroll-image-animation-11n2)
 - [Lifehacker] [This Drone for Beginners Is on Sale for $70](https://lifehacker.com/this-drone-for-beginners-is-on-sale-for-70-1850955594)
 - [Dev.to/JS] [Django 4.2.6: What&#39;s New and How to Upgrade](https://dev.to/akashakki/django-426-whats-new-and-how-to-upgrade-3n20)
@@ -42,14 +48,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exclusive collection of free SVG icons download for commercial projects without attribution](https://dev.to/nikrunic/exclusive-collection-of-free-svg-icons-downloadfor-commercial-projects-without-attribution-5254)
 - [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
 - [Lifehacker] [This Refurbished HP Chromebook Is $107 Right Now](https://lifehacker.com/this-refurbished-hp-chromebook-is-107-right-now-1850955561)
-- [Dev.to/JS] [Using json-server to create a mock back-end for front-end development](https://dev.to/michaelikoko/using-json-server-to-create-a-mock-back-end-for-front-end-development-2mgp)
-- [Dev.to/JS] [Key JavaScript Concepts I Mastered During LeetCode’s 30-Day Challenge](https://dev.to/ilatif/key-javascript-concepts-i-mastered-during-leetcodes-30-day-challenge-27f5)
 - [Lifehacker] [What People Are Getting Wrong This Week: Four Halloween Myths &lpar;and One Real Danger&rpar;](https://lifehacker.com/what-people-are-getting-wrong-this-week-four-halloween-1850960766)
-- [Dev.to/JS] [I am a successful Devop engineer.](https://dev.to/ulomaekpe/i-am-a-successful-devop-engineer-2d8)
 - [Lifehacker] [Make Honey Apple Butter With Those Extra Apples](https://lifehacker.com/make-honey-apple-butter-with-those-extra-apples-1849539652)
 - [Lifehacker] [You Can Get the ASUS Zenbook 14X for Its Lowest Price Yet](https://lifehacker.com/you-can-get-the-asus-zenbook-14x-for-its-lowest-price-y-1850959975)
 - [Lifehacker] [These Indoor Digital TV Antennas &lpar;Might&rpar; Actually Work](https://lifehacker.com/best-digital-tv-antennas-1850958729)
-- [Dev.to/JS] [Real World Client Angular Application - Pre-Sale Promo- 120 + Hours Course](https://dev.to/asma921208/real-world-client-angular-application-pre-sale-promo-120-hours-course-438b)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in November 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-november-2023-1850958769)
 - [Lifehacker] [Start Your Morning With Deep-Fried Scrambled Eggs](https://lifehacker.com/deep-fried-scrambled-eggs-recipe-1850960422)
 - [Lifehacker] [All the New AI Features Coming to Google Maps](https://lifehacker.com/google-maps-ai-features-1850958601)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Your Relationship Needs Is a Little ‘Romantic Nostalgia’](https://lifehacker.com/what-your-relationship-needs-is-a-little-romantic-nost-1850955371)
 - [Lifehacker] [Why You Should Start Every Day by Accomplishing One Small Task](https://lifehacker.com/why-you-should-start-every-day-by-accomplishing-one-sma-1850958333)
 - [Lifehacker] [This 65-inch TLC 4K TV Is $400 Right Now](https://lifehacker.com/this-65-inch-tlc-4k-tv-is-400-right-now-1850959252)
-- [Lifehacker] [Think Twice About Letting Vines Envelop Your House](https://lifehacker.com/think-twice-about-letting-vines-envelop-your-house-1850958235)
-- [Lifehacker] [What to Expect From Apple&#39;s &#39;Scary Fast&#39; October Event](https://lifehacker.com/what-to-expect-from-apples-scary-fast-october-event-1850959168)
-- [Lifehacker] [You Can Get a Lifetime Subscription to Headway for $50](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-headway-for-50-1850955551)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Think Twice About Letting Vines Envelop Your House](https://lifehacker.com/think-twice-about-letting-vines-envelop-your-house-1850958235)<!-- TECH-POSTS:END -->
 
 ---
 
