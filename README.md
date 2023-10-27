@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Lies Contractors Tell](https://lifehacker.com/9-lies-contractors-tell-1850967181)
+- [Dev.to/JS] [Hactoberfest 2023 Contribution.](https://dev.to/mohd786hub/hactoberfest-2023-contribution-3ofa)
+- [Dev.to/JS] [Hactoberfest 2023](https://dev.to/mohd786hub/hactoberfest-2023-3i9)
+- [Dev.to/JS] [dotgenv – Revolutionize Your Node.js Secret Management](https://dev.to/devrx/dotgenv-revolutionize-your-nodejs-secret-management-a1m)
+- [Lifehacker] [I&#39;ll Take the Check, When You Have a Moment](https://lifehacker.com/lifehackers-best-food-hacks-ever-1850967435)
+- [Lifehacker] [The Best Deals From Best Buy&#39;s Early Access Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
+- [Lifehacker] [Hot Chicken Sliders Should Make a Football Appearance This Weekend](https://lifehacker.com/2-45-hot-chicken-slider-recipe-1850967503)
 - [Dev.to/JS] [Node.js for Beginners: A Step-by-Step Guide](https://dev.to/akashakki/nodejs-for-beginners-a-step-by-step-guide-2996)
 - [Lifehacker] [These Dell Laptops and Monitors Are Already Half Off for Black Friday](https://lifehacker.com/these-dell-laptops-and-monitors-are-already-half-off-fo-1850967603)
 - [Dev.to/JS] [JavaScript](https://dev.to/imsan/javascript-33ij)
@@ -40,12 +47,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to &lpar;Safely&rpar; Hide Power Outlets](https://lifehacker.com/the-best-ways-to-safely-hide-power-outlets-1850966549)
 - [Dev.to/JS] [6 Free Websites to Test the Performance of Your Web App](https://dev.to/mohammadfaisal/6-free-websites-to-test-the-performance-of-your-web-app-5f6c)
 - [Dev.to/JS] [Why ReactJS? Exploring the Benefits of Learning This Framework](https://dev.to/cleveroscar/why-reactjs-exploring-the-benefits-of-learning-this-framework-3n5i)
-- [Dev.to/JS] [map&lpar;&rpar; v/s forEach&lpar;&rpar; array function Comparsion](https://dev.to/ganeshyadav3142/map-vs-foreach-array-function-comparsion-fj0)
 - [Lifehacker] [Use the Peg System to Remember Ordered Information](https://lifehacker.com/use-the-peg-system-to-remember-ordered-information-1850966616)
-- [Dev.to/JS] [CodePush with ReactNative for Android.](https://dev.to/raghad60/codepush-with-reactnative-for-android-4l02)
 - [Lifehacker] [These Are the Best Music Streaming Services](https://lifehacker.com/the-best-music-streaming-services-1850864544)
 - [Lifehacker] [These AI-Powered Apps Can Help You Save Money](https://lifehacker.com/these-ai-powered-apps-can-help-you-save-money-1850957278)
-- [Dev.to/JS] [How To Find A Developer Job In 2023 &lpar;With Little Or No Experience&rpar; 🔥](https://dev.to/dragosnedelcu/how-to-find-a-developer-job-in-2023-with-little-or-no-experience-27h7)
 - [Lifehacker] [The 30 Best Teen Movies You Can Stream Right Now](https://lifehacker.com/best-teen-movies-streaming-1850962642)
 - [Lifehacker] [This Bird eBike Is on Sale for $850](https://lifehacker.com/this-bird-ebike-is-on-sale-for-850-1850958669)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Gen Z Goes to Work, Finds It Time-Consuming](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-go-1850965502)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [iOS 17.2 Finally Introduces the Journal App](https://lifehacker.com/new-features-in-ios-17-2-1850964155)
 - [Lifehacker] [The Right Way to Clean an Air Fryer](https://lifehacker.com/how-to-clean-an-air-fryer-1849553685)
 - [Lifehacker] [You Can Get the Apple Watch Series 8 for Its Lowest Price Ever](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
-- [Lifehacker] [There’s No Reason People Need to Call You on X/Twitter](https://lifehacker.com/there-s-no-reason-people-need-to-call-you-on-x-twitter-1850963557)
-- [Lifehacker] [These Are the Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)
-- [Lifehacker] [How to Get Rid of a Smoke Smell in Your New Home](https://lifehacker.com/get-rid-of-cigarette-smell-in-house-1850962845)
-- [Lifehacker] [How to Know If That Bug in Your House Is an Actual Emergency](https://lifehacker.com/how-to-know-if-that-bug-in-your-house-is-an-actual-emer-1850962180)
-- [Lifehacker] [This Drone for Beginners Is on Sale for $70](https://lifehacker.com/this-drone-for-beginners-is-on-sale-for-70-1850955594)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There’s No Reason People Need to Call You on X/Twitter](https://lifehacker.com/there-s-no-reason-people-need-to-call-you-on-x-twitter-1850963557)<!-- TECH-POSTS:END -->
 
 ---
 
