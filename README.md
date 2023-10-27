@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Type-Safe Backends with TypeScript: Use Custom Error Handling](https://dev.to/shoki/type-safe-backends-with-typescript-use-custom-error-handling-48j3)
+- [Dev.to/JS] [Asynchronous JavaScript: Promises vs. Callbacks](https://dev.to/rowsanali/asynchronous-javascript-promises-vs-callbacks-2jn5)
+- [Dev.to/JS] [Common CSS Issues and How to Solve Them](https://dev.to/rowsanali/common-css-issues-and-how-to-solve-them-1o97)
+- [Dev.to/JS] [Temporal Dead Zone&lpar;TDZ&rpar;](https://dev.to/tanmaycode/temporal-dead-zonetdz-2gbp)
 - [Dev.to/JS] [Securing Nodemailer with Proper Authentication](https://dev.to/scofieldidehen/securing-nodemailer-with-proper-authentication-3i8g)
 - [Dev.to/JS] [How to Integrate a Video Conferencing API into a Website](https://dev.to/johnmerry/how-to-integrate-a-video-conferencing-api-into-a-website-2ofo)
 - [Dev.to/JS] [test publish](https://dev.to/dinhphuong20z1/test-publish-16a8)
@@ -43,12 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Rid of a Smoke Smell in Your New Home](https://lifehacker.com/get-rid-of-cigarette-smell-in-house-1850962845)
 - [Dev.to/JS] [NodeMailer vs EmailJS](https://dev.to/scofieldidehen/nodemailer-vs-emailjs-5fdl)
 - [Dev.to/JS] [Function declaration vs Function expression](https://dev.to/cravencraven/function-declaration-vs-function-expression-1jd9)
-- [Dev.to/JS] [Survey about security issues for MERN stack developer](https://dev.to/royal1214v/survey-about-security-issues-for-mern-stack-developer-28f8)
 - [Lifehacker] [How to Know If That Bug in Your House Is an Actual Emergency](https://lifehacker.com/how-to-know-if-that-bug-in-your-house-is-an-actual-emer-1850962180)
-- [Dev.to/JS] [JavaScript ES6 Features Every Developer Should Know](https://dev.to/baransel/javascript-es6-features-every-developer-should-know-40el)
-- [Dev.to/JS] [How Can I achieve this scroll image animation?](https://dev.to/saimasawrin/how-can-i-achieve-this-scroll-image-animation-11n2)
 - [Lifehacker] [This Drone for Beginners Is on Sale for $70](https://lifehacker.com/this-drone-for-beginners-is-on-sale-for-70-1850955594)
-- [Dev.to/JS] [Django 4.2.6: What&#39;s New and How to Upgrade](https://dev.to/akashakki/django-426-whats-new-and-how-to-upgrade-3n20)
 - [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
 - [Lifehacker] [These Are the Best Free Email Accounts](https://lifehacker.com/best-free-email-accounts-1850769983)
 - [Lifehacker] [Make This Lazy Potatoes au Gratin With Alfredo Sauce](https://lifehacker.com/easy-potatoes-au-gratin-1850962376)
