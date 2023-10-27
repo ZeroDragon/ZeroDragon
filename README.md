@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Workers: Exploring Parallel Processing in JavaScript Applications for Improved Performance](https://dev.to/outstandingvick/web-workers-exploring-parallel-processing-in-javascript-applications-for-improved-performance-ppk)
+- [Dev.to/JS] [💥 10 Ways React Made Me a Faster Developer 💪](https://dev.to/todayscode14/10-ways-react-made-me-a-faster-developer-3mec)
 - [Dev.to/JS] [STARTING SAAS ON HRM](https://dev.to/devsimc/starting-saas-on-hrm-3hj)
 - [Dev.to/JS] [Expressway: Enhancing Productivity with Systemized Workflows](https://dev.to/d41_dev/expressway-enhancing-productivity-with-systemized-workflows-1f97)
 - [Dev.to/JS] [Alpha Tonic - Testosterone Booster, Price, Benefits &amp; Reviews?](https://dev.to/ydsajhgwa/alpha-tonic-testosterone-booster-price-benefits-reviews-p1l)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Common CSS Issues and How to Solve Them](https://dev.to/rowsanali/common-css-issues-and-how-to-solve-them-1o97)
 - [Dev.to/JS] [Temporal Dead Zone&lpar;TDZ&rpar;](https://dev.to/tanmaycode/temporal-dead-zonetdz-2gbp)
 - [Dev.to/JS] [Securing Nodemailer with Proper Authentication](https://dev.to/scofieldidehen/securing-nodemailer-with-proper-authentication-3i8g)
-- [Dev.to/JS] [How to Integrate a Video Conferencing API into a Website](https://dev.to/johnmerry/how-to-integrate-a-video-conferencing-api-into-a-website-2ofo)
-- [Dev.to/JS] [test publish](https://dev.to/dinhphuong20z1/test-publish-16a8)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 27, 2023](https://lifehacker.com/nyt-connections-answer-today-october-27-2023-1850961985)
 - [Lifehacker] [Woot Is Selling Reconditioned Soundbars for as Low as $80](https://lifehacker.com/woot-is-selling-reconditioned-soundbars-for-as-low-as-1850963514)
 - [Lifehacker] [You Can Get This Tiny Wireless Camera for $61](https://lifehacker.com/you-can-get-this-tiny-wireless-camera-for-61-1850958567)
