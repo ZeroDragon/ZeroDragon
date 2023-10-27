@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [test publish](https://dev.to/dinhphuong20z1/test-publish-16a8)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 27, 2023](https://lifehacker.com/nyt-connections-answer-today-october-27-2023-1850961985)
 - [Dev.to/JS] [Episode 23/42: Template Control Flow &amp; @defer, Forms &amp; Signals](https://dev.to/this-is-angular/episode-2342-template-control-flow-defer-forms-signals-5fga)
 - [Dev.to/JS] [Implementing Paystack Payment in a React Application: A Step-by-Step Guide](https://dev.to/devlawrence/implementing-paystack-payment-in-a-react-application-a-step-by-step-guide-10bf)
@@ -51,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An introduction to the Web Preferences API](https://dev.to/logrocket/an-introduction-to-the-web-preferences-api-42l9)
 - [Lifehacker] [These Are the Best Free Email Accounts](https://lifehacker.com/best-free-email-accounts-1850769983)
 - [Lifehacker] [Make This Lazy Potatoes au Gratin With Alfredo Sauce](https://lifehacker.com/easy-potatoes-au-gratin-1850962376)
-- [Dev.to/JS] [Use of useDebounce while searching data. Send data on value change using useRouter hook next](https://dev.to/imsan/use-of-usedebounce-while-searching-data-send-data-on-value-change-using-userouter-hook-next-1e30)
 - [Lifehacker] [How to Hunt for Ghosts With Your iPhone](https://lifehacker.com/how-to-hunt-for-ghosts-with-your-iphone-1850934303)
 - [Lifehacker] [These Are The Best Watch Faces for Apple Watch](https://lifehacker.com/best-apple-watch-faces-1850961202)
 - [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
