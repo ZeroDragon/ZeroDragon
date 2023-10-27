@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 23/42: Template Control Flow &amp; @defer, Forms &amp; Signals](https://dev.to/this-is-angular/episode-2342-template-control-flow-defer-forms-signals-5fga)
 - [Dev.to/JS] [Implementing Paystack Payment in a React Application: A Step-by-Step Guide](https://dev.to/devlawrence/implementing-paystack-payment-in-a-react-application-a-step-by-step-guide-10bf)
 - [Lifehacker] [Woot Is Selling Reconditioned Soundbars for as Low as $80](https://lifehacker.com/woot-is-selling-reconditioned-soundbars-for-as-low-as-1850963514)
 - [Lifehacker] [You Can Get This Tiny Wireless Camera for $61](https://lifehacker.com/you-can-get-this-tiny-wireless-camera-for-61-1850958567)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Free Email Accounts](https://lifehacker.com/best-free-email-accounts-1850769983)
 - [Lifehacker] [Make This Lazy Potatoes au Gratin With Alfredo Sauce](https://lifehacker.com/easy-potatoes-au-gratin-1850962376)
 - [Dev.to/JS] [Use of useDebounce while searching data. Send data on value change using useRouter hook next](https://dev.to/imsan/use-of-usedebounce-while-searching-data-send-data-on-value-change-using-userouter-hook-next-1e30)
-- [Dev.to/JS] [Vs code shortcuts you don&#39;t want to miss🤔](https://dev.to/anand69505358/vs-code-shortcuts-you-dont-want-to-miss-c2g)
 - [Lifehacker] [How to Hunt for Ghosts With Your iPhone](https://lifehacker.com/how-to-hunt-for-ghosts-with-your-iphone-1850934303)
 - [Lifehacker] [These Are The Best Watch Faces for Apple Watch](https://lifehacker.com/best-apple-watch-faces-1850961202)
 - [Lifehacker] [You Can Avoid the Apple TV+ Price Hike &lpar;for Now&rpar;](https://lifehacker.com/you-can-avoid-the-apple-tv-price-hike-for-now-1850957710)
