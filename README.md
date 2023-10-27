@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alpha Tonic - Testosterone Booster, Price, Benefits &amp; Reviews?](https://dev.to/ydsajhgwa/alpha-tonic-testosterone-booster-price-benefits-reviews-p1l)
+- [Dev.to/JS] [Building a .NET RESTful Service with Dynamsoft&#39;s Document, Barcode, and MRZ SDKs](https://dev.to/yushulx/building-a-net-restful-service-with-dynamsofts-document-barcode-and-mrz-sdks-4lfh)
+- [Dev.to/JS] [3 Simple Steps to Create a “Back to Top” Button Using HTML, CSS and JavaScript](https://dev.to/devshefali/3-simple-steps-to-create-a-back-to-top-button-using-html-css-and-javascript-5bb3)
 - [Dev.to/JS] [Type-Safe Backends with TypeScript: Use Custom Error Handling](https://dev.to/shoki/type-safe-backends-with-typescript-use-custom-error-handling-48j3)
 - [Dev.to/JS] [Asynchronous JavaScript: Promises vs. Callbacks](https://dev.to/rowsanali/asynchronous-javascript-promises-vs-callbacks-2jn5)
 - [Dev.to/JS] [Common CSS Issues and How to Solve Them](https://dev.to/rowsanali/common-css-issues-and-how-to-solve-them-1o97)
@@ -39,14 +42,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Woot Is Selling Reconditioned Soundbars for as Low as $80](https://lifehacker.com/woot-is-selling-reconditioned-soundbars-for-as-low-as-1850963514)
 - [Lifehacker] [You Can Get This Tiny Wireless Camera for $61](https://lifehacker.com/you-can-get-this-tiny-wireless-camera-for-61-1850958567)
 - [Lifehacker] [iOS 17.2 Finally Introduces the Journal App](https://lifehacker.com/new-features-in-ios-17-2-1850964155)
-- [Dev.to/JS] [NodeJS - Ofuscando rostos humanos em fotos](https://dev.to/justaguyfrombr/nodejs-ofuscando-rostos-humanos-em-fotos-2ip)
 - [Lifehacker] [The Right Way to Clean an Air Fryer](https://lifehacker.com/how-to-clean-an-air-fryer-1849553685)
 - [Lifehacker] [You Can Get the Apple Watch Series 8 for Its Lowest Price Ever](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [There’s No Reason People Need to Call You on X/Twitter](https://lifehacker.com/there-s-no-reason-people-need-to-call-you-on-x-twitter-1850963557)
 - [Lifehacker] [These Are the Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)
 - [Lifehacker] [How to Get Rid of a Smoke Smell in Your New Home](https://lifehacker.com/get-rid-of-cigarette-smell-in-house-1850962845)
-- [Dev.to/JS] [NodeMailer vs EmailJS](https://dev.to/scofieldidehen/nodemailer-vs-emailjs-5fdl)
-- [Dev.to/JS] [Function declaration vs Function expression](https://dev.to/cravencraven/function-declaration-vs-function-expression-1jd9)
 - [Lifehacker] [How to Know If That Bug in Your House Is an Actual Emergency](https://lifehacker.com/how-to-know-if-that-bug-in-your-house-is-an-actual-emer-1850962180)
 - [Lifehacker] [This Drone for Beginners Is on Sale for $70](https://lifehacker.com/this-drone-for-beginners-is-on-sale-for-70-1850955594)
 - [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
