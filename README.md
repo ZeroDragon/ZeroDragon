@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js for Beginners: A Step-by-Step Guide](https://dev.to/akashakki/nodejs-for-beginners-a-step-by-step-guide-2996)
+- [Lifehacker] [These Dell Laptops and Monitors Are Already Half Off for Black Friday](https://lifehacker.com/these-dell-laptops-and-monitors-are-already-half-off-fo-1850967603)
+- [Dev.to/JS] [JavaScript](https://dev.to/imsan/javascript-33ij)
+- [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/how-to-blanch-and-skin-almonds-1849639820)
+- [Dev.to/JS] [gswgrwsg](https://dev.to/numana/gswgrwsg-353n)
+- [Dev.to/JS] [Building a Stopwatch in React](https://dev.to/kartikbudhraja/building-a-stopwatch-in-react-1nb3)
+- [Lifehacker] [You Can Get 1TB of Cloud Storage for $120 With This Code](https://lifehacker.com/you-can-get-1tb-of-cloud-storage-for-120-with-this-cod-1850959122)
 - [Dev.to/JS] [Asymptotic Analysis: Understanding Infinite Limits](https://dev.to/devrossi/asymptotic-analysis-understanding-infinite-limits-429a)
 - [Lifehacker] [How to Cope When Your Parents Become Toxic Grandparents](https://lifehacker.com/how-to-cope-when-your-parents-become-toxic-grandparents-1850965637)
 - [Dev.to/JS] [Is TypeScript A Programming Language?](https://dev.to/mshertzberg/is-typescript-a-programming-language-25dd)
@@ -39,12 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Music Streaming Services](https://lifehacker.com/the-best-music-streaming-services-1850864544)
 - [Lifehacker] [These AI-Powered Apps Can Help You Save Money](https://lifehacker.com/these-ai-powered-apps-can-help-you-save-money-1850957278)
 - [Dev.to/JS] [How To Find A Developer Job In 2023 &lpar;With Little Or No Experience&rpar; 🔥](https://dev.to/dragosnedelcu/how-to-find-a-developer-job-in-2023-with-little-or-no-experience-27h7)
-- [Dev.to/JS] [How To Call JavaScript From Blazor Web Assembly – Breaking Boundaries With JavaScript Interop](https://dev.to/devleader/how-to-call-javascript-from-blazor-web-assembly-breaking-boundaries-with-javascript-interop-57bb)
 - [Lifehacker] [The 30 Best Teen Movies You Can Stream Right Now](https://lifehacker.com/best-teen-movies-streaming-1850962642)
-- [Dev.to/JS] [Wasp Auth: New Authentication For Your React/Nextjs App ✨](https://dev.to/todayscode14/wasp-auth-new-authentication-for-your-reactnextjs-app-5gcd)
 - [Lifehacker] [This Bird eBike Is on Sale for $850](https://lifehacker.com/this-bird-ebike-is-on-sale-for-850-1850958669)
-- [Dev.to/JS] [Embracing Challenges: My Journey as a Passionate Developer with Disabilities](https://dev.to/dinhvankhoideveloper/embracing-challenges-my-journey-as-a-passionate-developer-with-disabilities-and-oop-struggles-1m13)
-- [Dev.to/JS] [📈 October&#39;s Top 7 open source repos on GitHub 🚀✨](https://dev.to/quine/top-7-open-source-repos-on-github-2l64)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Gen Z Goes to Work, Finds It Time-Consuming](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-go-1850965502)
 - [Lifehacker] [TikTok Myth of the Week: All Your Problems Are Due to High Cortisol](https://lifehacker.com/tiktok-myth-of-the-week-all-your-problems-are-due-to-h-1850963889)
 - [Lifehacker] [Meredith&#39;s Training Diary: Nothing New on Race Day](https://lifehacker.com/nothing-new-on-race-day-1850962483)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)
 - [Lifehacker] [How to Get Rid of a Smoke Smell in Your New Home](https://lifehacker.com/get-rid-of-cigarette-smell-in-house-1850962845)
 - [Lifehacker] [How to Know If That Bug in Your House Is an Actual Emergency](https://lifehacker.com/how-to-know-if-that-bug-in-your-house-is-an-actual-emer-1850962180)
-- [Lifehacker] [This Drone for Beginners Is on Sale for $70](https://lifehacker.com/this-drone-for-beginners-is-on-sale-for-70-1850955594)
-- [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
-- [Lifehacker] [These Are the Best Free Email Accounts](https://lifehacker.com/best-free-email-accounts-1850769983)
-- [Lifehacker] [Make This Lazy Potatoes au Gratin With Alfredo Sauce](https://lifehacker.com/easy-potatoes-au-gratin-1850962376)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Drone for Beginners Is on Sale for $70](https://lifehacker.com/this-drone-for-beginners-is-on-sale-for-70-1850955594)<!-- TECH-POSTS:END -->
 
 ---
 
