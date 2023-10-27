@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [É possível se destacar com Javascript fazendo cursos e mais cursos?](https://dev.to/devdoido/e-possivel-se-destacar-com-javascript-fazendo-cursos-e-mais-cursos-14fg)
+- [Dev.to/JS] [The Interview Process for Developers](https://dev.to/hiredevelopers/the-interview-process-for-developers-5917)
+- [Dev.to/JS] [2023 DevOps is Terrible: Unpacking the Evolution into Platform Engineering](https://dev.to/rahulladumor/2023-devops-is-terrible-unpacking-the-evolution-into-platform-engineering-5d0l)
+- [Dev.to/JS] [Frontend Frameworks Showdown: React vs. Angular vs. Vue](https://dev.to/adamparker/frontend-frameworks-showdown-react-vs-angular-vs-vue-p3b)
 - [Dev.to/JS] [Web Workers: Exploring Parallel Processing in JavaScript Applications for Improved Performance](https://dev.to/outstandingvick/web-workers-exploring-parallel-processing-in-javascript-applications-for-improved-performance-ppk)
 - [Dev.to/JS] [💥 10 Ways React Made Me a Faster Developer 💪](https://dev.to/todayscode14/10-ways-react-made-me-a-faster-developer-3mec)
 - [Dev.to/JS] [STARTING SAAS ON HRM](https://dev.to/devsimc/starting-saas-on-hrm-3hj)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a .NET RESTful Service with Dynamsoft&#39;s Document, Barcode, and MRZ SDKs](https://dev.to/yushulx/building-a-net-restful-service-with-dynamsofts-document-barcode-and-mrz-sdks-4lfh)
 - [Dev.to/JS] [3 Simple Steps to Create a “Back to Top” Button Using HTML, CSS and JavaScript](https://dev.to/devshefali/3-simple-steps-to-create-a-back-to-top-button-using-html-css-and-javascript-5bb3)
 - [Dev.to/JS] [Type-Safe Backends with TypeScript: Use Custom Error Handling](https://dev.to/shoki/type-safe-backends-with-typescript-use-custom-error-handling-48j3)
-- [Dev.to/JS] [Asynchronous JavaScript: Promises vs. Callbacks](https://dev.to/rowsanali/asynchronous-javascript-promises-vs-callbacks-2jn5)
-- [Dev.to/JS] [Common CSS Issues and How to Solve Them](https://dev.to/rowsanali/common-css-issues-and-how-to-solve-them-1o97)
-- [Dev.to/JS] [Temporal Dead Zone&lpar;TDZ&rpar;](https://dev.to/tanmaycode/temporal-dead-zonetdz-2gbp)
-- [Dev.to/JS] [Securing Nodemailer with Proper Authentication](https://dev.to/scofieldidehen/securing-nodemailer-with-proper-authentication-3i8g)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 27, 2023](https://lifehacker.com/nyt-connections-answer-today-october-27-2023-1850961985)
 - [Lifehacker] [Woot Is Selling Reconditioned Soundbars for as Low as $80](https://lifehacker.com/woot-is-selling-reconditioned-soundbars-for-as-low-as-1850963514)
 - [Lifehacker] [You Can Get This Tiny Wireless Camera for $61](https://lifehacker.com/you-can-get-this-tiny-wireless-camera-for-61-1850958567)
