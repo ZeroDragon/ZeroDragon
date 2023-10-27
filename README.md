@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Securing Nodemailer with Proper Authentication](https://dev.to/scofieldidehen/securing-nodemailer-with-proper-authentication-3i8g)
+- [Dev.to/JS] [How to Integrate a Video Conferencing API into a Website](https://dev.to/johnmerry/how-to-integrate-a-video-conferencing-api-into-a-website-2ofo)
 - [Dev.to/JS] [test publish](https://dev.to/dinhphuong20z1/test-publish-16a8)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 27, 2023](https://lifehacker.com/nyt-connections-answer-today-october-27-2023-1850961985)
 - [Dev.to/JS] [Episode 23/42: Template Control Flow &amp; @defer, Forms &amp; Signals](https://dev.to/this-is-angular/episode-2342-template-control-flow-defer-forms-signals-5fga)
@@ -48,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Drone for Beginners Is on Sale for $70](https://lifehacker.com/this-drone-for-beginners-is-on-sale-for-70-1850955594)
 - [Dev.to/JS] [Django 4.2.6: What&#39;s New and How to Upgrade](https://dev.to/akashakki/django-426-whats-new-and-how-to-upgrade-3n20)
 - [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
-- [Dev.to/JS] [Get secure, extensible auth instantly in Gadget](https://dev.to/gadgetdev/get-secure-extensible-auth-instantly-in-gadget-5dlk)
-- [Dev.to/JS] [An introduction to the Web Preferences API](https://dev.to/logrocket/an-introduction-to-the-web-preferences-api-42l9)
 - [Lifehacker] [These Are the Best Free Email Accounts](https://lifehacker.com/best-free-email-accounts-1850769983)
 - [Lifehacker] [Make This Lazy Potatoes au Gratin With Alfredo Sauce](https://lifehacker.com/easy-potatoes-au-gratin-1850962376)
 - [Lifehacker] [How to Hunt for Ghosts With Your iPhone](https://lifehacker.com/how-to-hunt-for-ghosts-with-your-iphone-1850934303)
