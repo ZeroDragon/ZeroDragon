@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 27, 2023](https://lifehacker.com/nyt-connections-answer-today-october-27-2023-1850961985)
 - [Dev.to/JS] [Episode 23/42: Template Control Flow &amp; @defer, Forms &amp; Signals](https://dev.to/this-is-angular/episode-2342-template-control-flow-defer-forms-signals-5fga)
 - [Dev.to/JS] [Implementing Paystack Payment in a React Application: A Step-by-Step Guide](https://dev.to/devlawrence/implementing-paystack-payment-in-a-react-application-a-step-by-step-guide-10bf)
 - [Lifehacker] [Woot Is Selling Reconditioned Soundbars for as Low as $80](https://lifehacker.com/woot-is-selling-reconditioned-soundbars-for-as-low-as-1850963514)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New AI Features Coming to Google Maps](https://lifehacker.com/google-maps-ai-features-1850958601)
 - [Lifehacker] [The Best Cable Modem/Router Combos to Buy Right Now](https://lifehacker.com/best-cable-modem-router-combos-for-most-people-1850958525)
 - [Lifehacker] [You Can Create a ‘Live’ Wallpaper on Your Phone](https://lifehacker.com/you-can-create-a-live-wallpaper-on-your-phone-1850825279)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)
-- [Lifehacker] [How to Create a Root Cellar in Your Modern Home](https://lifehacker.com/how-to-create-a-root-cellar-in-your-modern-home-1850958423)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)<!-- TECH-POSTS:END -->
 
 ---
 
