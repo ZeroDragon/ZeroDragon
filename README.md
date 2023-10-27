@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Number Guessing Game in Java](https://dev.to/code_mystery/simple-number-guessing-game-in-java-2m52)
+- [Dev.to/JS] [Why React Developers write Custom Hooks?](https://dev.to/himanshupal0001/why-react-developers-write-custom-hooks-5ab1)
+- [Dev.to/JS] [Mastering TypeScript: A Beginner&#39;s Guide](https://dev.to/baransel/mastering-typescript-a-beginners-guide-5ch6)
+- [Dev.to/JS] [Harnessing the Power of a Monorepo: AWS Serverless API Gateway, NestJS, and Microservices gRPC](https://dev.to/dpejic/harnessing-the-power-of-a-monorepo-aws-serverless-api-gateway-nestjs-and-microservices-grpc-3pho)
+- [Lifehacker] [Fluffy Sformati Is for Soufflé Lovers Who Don&#39;t Want to Whip Egg Whites](https://lifehacker.com/easy-sformati-recipe-1850964364)
 - [Dev.to/JS] [Dubai &quot;Call &quot;Girls 00971507602549 &quot;Call &quot;Girls in Dubai](https://dev.to/adrbvadad/dubai-call-girls-00971507602549-call-girls-in-dubai-5gk)
+- [Lifehacker] [These Sonos Home Theater Sets Are up to 20% Off](https://lifehacker.com/these-sonos-home-theater-sets-are-up-to-20-off-1850953667)
 - [Dev.to/JS] [Updating Service Workers in Production](https://dev.to/vinibgoulart/updating-service-workers-in-production-32pa)
 - [Dev.to/JS] [Debugging Node.js like a PRO](https://dev.to/andonimihai/debugging-nodejs-like-a-pro-5cck)
 - [Dev.to/JS] [Task: Javascripy Arrays Methods](https://dev.to/d41_dev/task-javascripy-arrays-methods-m3p)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Interview Process for Developers](https://dev.to/hiredevelopers/the-interview-process-for-developers-5917)
 - [Dev.to/JS] [2023 DevOps is Terrible: Unpacking the Evolution into Platform Engineering](https://dev.to/rahulladumor/2023-devops-is-terrible-unpacking-the-evolution-into-platform-engineering-5d0l)
 - [Dev.to/JS] [Frontend Frameworks Showdown: React vs. Angular vs. Vue](https://dev.to/adamparker/frontend-frameworks-showdown-react-vs-angular-vs-vue-p3b)
-- [Dev.to/JS] [Web Workers: Exploring Parallel Processing in JavaScript Applications for Improved Performance](https://dev.to/outstandingvick/web-workers-exploring-parallel-processing-in-javascript-applications-for-improved-performance-ppk)
-- [Dev.to/JS] [💥 10 Ways React Made Me a Faster Developer 💪](https://dev.to/todayscode14/10-ways-react-made-me-a-faster-developer-3mec)
-- [Dev.to/JS] [STARTING SAAS ON HRM](https://dev.to/devsimc/starting-saas-on-hrm-3hj)
-- [Dev.to/JS] [Expressway: Enhancing Productivity with Systemized Workflows](https://dev.to/d41_dev/expressway-enhancing-productivity-with-systemized-workflows-1f97)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 27, 2023](https://lifehacker.com/nyt-connections-answer-today-october-27-2023-1850961985)
 - [Lifehacker] [Woot Is Selling Reconditioned Soundbars for as Low as $80](https://lifehacker.com/woot-is-selling-reconditioned-soundbars-for-as-low-as-1850963514)
 - [Lifehacker] [You Can Get This Tiny Wireless Camera for $61](https://lifehacker.com/you-can-get-this-tiny-wireless-camera-for-61-1850958567)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in November 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-november-2023-1850958769)
 - [Lifehacker] [Start Your Morning With Deep-Fried Scrambled Eggs](https://lifehacker.com/deep-fried-scrambled-eggs-recipe-1850960422)
 - [Lifehacker] [All the New AI Features Coming to Google Maps](https://lifehacker.com/google-maps-ai-features-1850958601)
-- [Lifehacker] [The Best Cable Modem/Router Combos to Buy Right Now](https://lifehacker.com/best-cable-modem-router-combos-for-most-people-1850958525)
-- [Lifehacker] [You Can Create a ‘Live’ Wallpaper on Your Phone](https://lifehacker.com/you-can-create-a-live-wallpaper-on-your-phone-1850825279)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, October 26, 2023](https://lifehacker.com/nyt-connections-answer-today-october-26-2023-1850953242)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Cable Modem/Router Combos to Buy Right Now](https://lifehacker.com/best-cable-modem-router-combos-for-most-people-1850958525)<!-- TECH-POSTS:END -->
 
 ---
 
