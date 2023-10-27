@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asymptotic Analysis: Understanding Infinite Limits](https://dev.to/devrossi/asymptotic-analysis-understanding-infinite-limits-429a)
+- [Lifehacker] [How to Cope When Your Parents Become Toxic Grandparents](https://lifehacker.com/how-to-cope-when-your-parents-become-toxic-grandparents-1850965637)
+- [Dev.to/JS] [Is TypeScript A Programming Language?](https://dev.to/mshertzberg/is-typescript-a-programming-language-25dd)
+- [Dev.to/JS] [Let&#39;s understand what JavaScript Closures are.](https://dev.to/_b1ngus/lets-understand-what-javascript-closures-are-510o)
 - [Lifehacker] [The Best Ways to &lpar;Safely&rpar; Hide Power Outlets](https://lifehacker.com/the-best-ways-to-safely-hide-power-outlets-1850966549)
+- [Dev.to/JS] [6 Free Websites to Test the Performance of Your Web App](https://dev.to/mohammadfaisal/6-free-websites-to-test-the-performance-of-your-web-app-5f6c)
+- [Dev.to/JS] [Why ReactJS? Exploring the Benefits of Learning This Framework](https://dev.to/cleveroscar/why-reactjs-exploring-the-benefits-of-learning-this-framework-3n5i)
 - [Dev.to/JS] [map&lpar;&rpar; v/s forEach&lpar;&rpar; array function Comparsion](https://dev.to/ganeshyadav3142/map-vs-foreach-array-function-comparsion-fj0)
 - [Lifehacker] [Use the Peg System to Remember Ordered Information](https://lifehacker.com/use-the-peg-system-to-remember-ordered-information-1850966616)
 - [Dev.to/JS] [CodePush with ReactNative for Android.](https://dev.to/raghad60/codepush-with-reactnative-for-android-4l02)
@@ -39,14 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Bird eBike Is on Sale for $850](https://lifehacker.com/this-bird-ebike-is-on-sale-for-850-1850958669)
 - [Dev.to/JS] [Embracing Challenges: My Journey as a Passionate Developer with Disabilities](https://dev.to/dinhvankhoideveloper/embracing-challenges-my-journey-as-a-passionate-developer-with-disabilities-and-oop-struggles-1m13)
 - [Dev.to/JS] [📈 October&#39;s Top 7 open source repos on GitHub 🚀✨](https://dev.to/quine/top-7-open-source-repos-on-github-2l64)
-- [Dev.to/JS] [Wanted to access url based on user role in my app but there seems to be some problem](https://dev.to/rnd2002/wanted-to-access-url-based-on-user-role-in-my-app-but-there-seems-to-be-some-problem-268j)
-- [Dev.to/JS] [Demystifying &#39;this&#39; in JavaScript](https://dev.to/ptheodosiou/demystifying-this-in-javascript-4ec6)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Gen Z Goes to Work, Finds It Time-Consuming](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-go-1850965502)
 - [Lifehacker] [TikTok Myth of the Week: All Your Problems Are Due to High Cortisol](https://lifehacker.com/tiktok-myth-of-the-week-all-your-problems-are-due-to-h-1850963889)
-- [Dev.to/JS] [Cloning startups is one of the best ways to learn code! - FREE Weekly Learning Series 🚀](https://dev.to/cloneandlearn/cloning-startups-is-one-of-the-best-ways-to-learn-code-free-weekly-learning-series-3l6c)
 - [Lifehacker] [Meredith&#39;s Training Diary: Nothing New on Race Day](https://lifehacker.com/nothing-new-on-race-day-1850962483)
-- [Dev.to/JS] [Which programming language should I learn first?](https://dev.to/justmrkhan/which-programming-language-should-i-learn-first-1g9f)
-- [Dev.to/JS] [🔄 Looping Through JavaScript Objects with Different Approaches 🔄](https://dev.to/shameel/looping-through-javascript-objects-with-different-approaches-3c6m)
 - [Lifehacker] [The iRobot Roomba i4 EVO is 48% Off on Amazon Right Now](https://lifehacker.com/the-irobot-roomba-i4-evo-is-48-off-on-amazon-right-now-1850964399)
 - [Lifehacker] [Use the &#39;Method of Loci&#39; to Remember Anything](https://lifehacker.com/loci-method-remember-anything-on-a-test-1850963999)
 - [Lifehacker] [Fluffy Sformati Is for Soufflé Lovers Who Don&#39;t Want to Whip Egg Whites](https://lifehacker.com/easy-sformati-recipe-1850964364)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Drone for Beginners Is on Sale for $70](https://lifehacker.com/this-drone-for-beginners-is-on-sale-for-70-1850955594)
 - [Lifehacker] [10 Lazy, Last-Minute Costumes You Can Throw Together Before Halloween](https://lifehacker.com/10-lazy-last-minute-costumes-you-can-throw-together-be-1849710458)
 - [Lifehacker] [These Are the Best Free Email Accounts](https://lifehacker.com/best-free-email-accounts-1850769983)
-- [Lifehacker] [Make This Lazy Potatoes au Gratin With Alfredo Sauce](https://lifehacker.com/easy-potatoes-au-gratin-1850962376)
-- [Lifehacker] [How to Hunt for Ghosts With Your iPhone](https://lifehacker.com/how-to-hunt-for-ghosts-with-your-iphone-1850934303)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Lazy Potatoes au Gratin With Alfredo Sauce](https://lifehacker.com/easy-potatoes-au-gratin-1850962376)<!-- TECH-POSTS:END -->
 
 ---
 
