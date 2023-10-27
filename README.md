@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Manage Multiple Appwrite Functions in a Single Repository](https://dev.to/chukwutosin_/how-to-manage-multiple-appwrite-functions-in-a-single-repository-4lpo)
+- [Lifehacker] [These Are the Best Android Apps for 2023](https://lifehacker.com/the-best-android-apps-1850964120)
+- [Lifehacker] [Yes, the FDA Really Did Issue a Warning About Black Licorice](https://lifehacker.com/fda-black-licorice-warning-1839441801)
 - [Lifehacker] [9 Lies Contractors Tell](https://lifehacker.com/9-lies-contractors-tell-1850967181)
 - [Dev.to/JS] [Hactoberfest 2023 Contribution.](https://dev.to/mohd786hub/hactoberfest-2023-contribution-3ofa)
 - [Dev.to/JS] [Hactoberfest 2023](https://dev.to/mohd786hub/hactoberfest-2023-3i9)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s understand what JavaScript Closures are.](https://dev.to/_b1ngus/lets-understand-what-javascript-closures-are-510o)
 - [Lifehacker] [The Best Ways to &lpar;Safely&rpar; Hide Power Outlets](https://lifehacker.com/the-best-ways-to-safely-hide-power-outlets-1850966549)
 - [Dev.to/JS] [6 Free Websites to Test the Performance of Your Web App](https://dev.to/mohammadfaisal/6-free-websites-to-test-the-performance-of-your-web-app-5f6c)
-- [Dev.to/JS] [Why ReactJS? Exploring the Benefits of Learning This Framework](https://dev.to/cleveroscar/why-reactjs-exploring-the-benefits-of-learning-this-framework-3n5i)
 - [Lifehacker] [Use the Peg System to Remember Ordered Information](https://lifehacker.com/use-the-peg-system-to-remember-ordered-information-1850966616)
 - [Lifehacker] [These Are the Best Music Streaming Services](https://lifehacker.com/the-best-music-streaming-services-1850864544)
 - [Lifehacker] [These AI-Powered Apps Can Help You Save Money](https://lifehacker.com/these-ai-powered-apps-can-help-you-save-money-1850957278)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Woot Is Selling Reconditioned Soundbars for as Low as $80](https://lifehacker.com/woot-is-selling-reconditioned-soundbars-for-as-low-as-1850963514)
 - [Lifehacker] [You Can Get This Tiny Wireless Camera for $61](https://lifehacker.com/you-can-get-this-tiny-wireless-camera-for-61-1850958567)
 - [Lifehacker] [iOS 17.2 Finally Introduces the Journal App](https://lifehacker.com/new-features-in-ios-17-2-1850964155)
-- [Lifehacker] [The Right Way to Clean an Air Fryer](https://lifehacker.com/how-to-clean-an-air-fryer-1849553685)
-- [Lifehacker] [You Can Get the Apple Watch Series 8 for Its Lowest Price Ever](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
-- [Lifehacker] [There’s No Reason People Need to Call You on X/Twitter](https://lifehacker.com/there-s-no-reason-people-need-to-call-you-on-x-twitter-1850963557)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Way to Clean an Air Fryer](https://lifehacker.com/how-to-clean-an-air-fryer-1849553685)<!-- TECH-POSTS:END -->
 
 ---
 
