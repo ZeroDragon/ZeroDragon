@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 3&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-3-52o4)
+- [Dev.to/JS] [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 2&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-2-1ij1)
+- [Dev.to/JS] [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 1&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8)
+- [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
+- [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
+- [Dev.to/JS] [Mastering Message Passing in Chrome Extensions: From Basics to Advanced Techniques](https://dev.to/arijitparia2002/mastering-message-passing-in-chrome-extensions-from-basics-to-advanced-techniques-4ana)
+- [Lifehacker] [You Can Now React to iMessages With Emojis and Stickers](https://lifehacker.com/you-can-now-react-to-imessages-with-emojis-and-stickers-1850967753)
 - [Dev.to/JS] [How to Manage Multiple Appwrite Functions in a Single Repository](https://dev.to/chukwutosin_/how-to-manage-multiple-appwrite-functions-in-a-single-repository-4lpo)
 - [Lifehacker] [These Are the Best Android Apps for 2023](https://lifehacker.com/the-best-android-apps-1850964120)
 - [Lifehacker] [Yes, the FDA Really Did Issue a Warning About Black Licorice](https://lifehacker.com/fda-black-licorice-warning-1839441801)
@@ -43,12 +50,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [gswgrwsg](https://dev.to/numana/gswgrwsg-353n)
 - [Dev.to/JS] [Building a Stopwatch in React](https://dev.to/kartikbudhraja/building-a-stopwatch-in-react-1nb3)
 - [Lifehacker] [You Can Get 1TB of Cloud Storage for $120 With This Code](https://lifehacker.com/you-can-get-1tb-of-cloud-storage-for-120-with-this-cod-1850959122)
-- [Dev.to/JS] [Asymptotic Analysis: Understanding Infinite Limits](https://dev.to/devrossi/asymptotic-analysis-understanding-infinite-limits-429a)
 - [Lifehacker] [How to Cope When Your Parents Become Toxic Grandparents](https://lifehacker.com/how-to-cope-when-your-parents-become-toxic-grandparents-1850965637)
-- [Dev.to/JS] [Is TypeScript A Programming Language?](https://dev.to/mshertzberg/is-typescript-a-programming-language-25dd)
-- [Dev.to/JS] [Let&#39;s understand what JavaScript Closures are.](https://dev.to/_b1ngus/lets-understand-what-javascript-closures-are-510o)
 - [Lifehacker] [The Best Ways to &lpar;Safely&rpar; Hide Power Outlets](https://lifehacker.com/the-best-ways-to-safely-hide-power-outlets-1850966549)
-- [Dev.to/JS] [6 Free Websites to Test the Performance of Your Web App](https://dev.to/mohammadfaisal/6-free-websites-to-test-the-performance-of-your-web-app-5f6c)
 - [Lifehacker] [Use the Peg System to Remember Ordered Information](https://lifehacker.com/use-the-peg-system-to-remember-ordered-information-1850966616)
 - [Lifehacker] [These Are the Best Music Streaming Services](https://lifehacker.com/the-best-music-streaming-services-1850864544)
 - [Lifehacker] [These AI-Powered Apps Can Help You Save Money](https://lifehacker.com/these-ai-powered-apps-can-help-you-save-money-1850957278)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fluffy Sformati Is for Soufflé Lovers Who Don&#39;t Want to Whip Egg Whites](https://lifehacker.com/easy-sformati-recipe-1850964364)
 - [Lifehacker] [These Sonos Home Theater Sets Are up to 20% Off](https://lifehacker.com/these-sonos-home-theater-sets-are-up-to-20-off-1850953667)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 27, 2023](https://lifehacker.com/nyt-connections-answer-today-october-27-2023-1850961985)
-- [Lifehacker] [Woot Is Selling Reconditioned Soundbars for as Low as $80](https://lifehacker.com/woot-is-selling-reconditioned-soundbars-for-as-low-as-1850963514)
-- [Lifehacker] [You Can Get This Tiny Wireless Camera for $61](https://lifehacker.com/you-can-get-this-tiny-wireless-camera-for-61-1850958567)
-- [Lifehacker] [iOS 17.2 Finally Introduces the Journal App](https://lifehacker.com/new-features-in-ios-17-2-1850964155)
-- [Lifehacker] [The Right Way to Clean an Air Fryer](https://lifehacker.com/how-to-clean-an-air-fryer-1849553685)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Woot Is Selling Reconditioned Soundbars for as Low as $80](https://lifehacker.com/woot-is-selling-reconditioned-soundbars-for-as-low-as-1850963514)<!-- TECH-POSTS:END -->
 
 ---
 
