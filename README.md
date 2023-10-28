@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tailwind CSS for Beginners: A Step-by-Step Guide](https://dev.to/akashakki/tailwind-css-for-beginners-a-step-by-step-guide-3gff)
+- [Lifehacker] [If You Still Have Student Loans, at Least They’ll Get You a Free Pizza](https://lifehacker.com/if-you-still-have-student-loans-at-least-they-ll-get-y-1850968678)
 - [Dev.to/JS] [Angular: Modern Web Application Development](https://dev.to/sparkouttech/angular-modern-web-application-development-125l)
 - [Dev.to/JS] [Our website has gone live!](https://dev.to/opensourcee/our-website-has-gone-live-1a7)
 - [Dev.to/JS] [INTENSIVE PLACEMENT PROGRAM FOR FRESHERS 100% PLACEMENT ASSISTANCE JAVA FULL STACK DEVELOPER](https://dev.to/datavalley_ai/intensive-placement-program-for-freshers100-placement-assistancejava-full-stack-developer-37jo)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How do I configure ESLint for a specific file or folder 📂 🥰?](https://dev.to/martygo/how-do-i-configure-eslint-for-a-specific-file-or-folder--2eem)
 - [Dev.to/JS] [Understanding the MERN Stack:](https://dev.to/baaskaa-se/understanding-the-mern-stack-j70)
 - [Dev.to/JS] [Why is node_modules heavier than the universe? &lpar;No seriously, why is it so big?&rpar;](https://dev.to/faizbshah/why-is-nodemodules-heavier-than-the-universe-no-seriously-why-is-it-so-big-12dl)
-- [Dev.to/JS] [what is the last date for bca admission in 2023](https://dev.to/vgigroupblog/what-is-the-last-date-for-bca-admission-in-2023-40g9)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meredith&#39;s Training Diary: Nothing New on Race Day](https://lifehacker.com/nothing-new-on-race-day-1850962483)
 - [Lifehacker] [The iRobot Roomba i4 EVO is 48% Off on Amazon Right Now](https://lifehacker.com/the-irobot-roomba-i4-evo-is-48-off-on-amazon-right-now-1850964399)
 - [Lifehacker] [Use the &#39;Method of Loci&#39; to Remember Anything](https://lifehacker.com/loci-method-remember-anything-on-a-test-1850963999)
-- [Lifehacker] [Fluffy Sformati Is for Soufflé Lovers Who Don&#39;t Want to Whip Egg Whites](https://lifehacker.com/easy-sformati-recipe-1850964364)
-- [Lifehacker] [These Sonos Home Theater Sets Are up to 20% Off](https://lifehacker.com/these-sonos-home-theater-sets-are-up-to-20-off-1850953667)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Fluffy Sformati Is for Soufflé Lovers Who Don&#39;t Want to Whip Egg Whites](https://lifehacker.com/easy-sformati-recipe-1850964364)<!-- TECH-POSTS:END -->
 
 ---
 
