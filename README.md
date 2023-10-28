@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular: Modern Web Application Development](https://dev.to/sparkouttech/angular-modern-web-application-development-125l)
 - [Dev.to/JS] [Our website has gone live!](https://dev.to/opensourcee/our-website-has-gone-live-1a7)
 - [Dev.to/JS] [INTENSIVE PLACEMENT PROGRAM FOR FRESHERS 100% PLACEMENT ASSISTANCE JAVA FULL STACK DEVELOPER](https://dev.to/datavalley_ai/intensive-placement-program-for-freshers100-placement-assistancejava-full-stack-developer-37jo)
 - [Lifehacker] [This Pop-Up Car Tent Is Now Less Than $300](https://lifehacker.com/this-pop-up-car-tent-is-now-less-than-300-1850959395)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the MERN Stack:](https://dev.to/baaskaa-se/understanding-the-mern-stack-j70)
 - [Dev.to/JS] [Why is node_modules heavier than the universe? &lpar;No seriously, why is it so big?&rpar;](https://dev.to/faizbshah/why-is-nodemodules-heavier-than-the-universe-no-seriously-why-is-it-so-big-12dl)
 - [Dev.to/JS] [what is the last date for bca admission in 2023](https://dev.to/vgigroupblog/what-is-the-last-date-for-bca-admission-in-2023-40g9)
-- [Dev.to/JS] [Exploring Deno vs. Node.js: A Comprehensive Comparison](https://dev.to/rowsanali/exploring-deno-vs-nodejs-a-comprehensive-comparison-5dmg)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
