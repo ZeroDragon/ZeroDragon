@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Our website has gone live!](https://dev.to/opensourcee/our-website-has-gone-live-1a7)
 - [Dev.to/JS] [INTENSIVE PLACEMENT PROGRAM FOR FRESHERS 100% PLACEMENT ASSISTANCE JAVA FULL STACK DEVELOPER](https://dev.to/datavalley_ai/intensive-placement-program-for-freshers100-placement-assistancejava-full-stack-developer-37jo)
+- [Lifehacker] [This Pop-Up Car Tent Is Now Less Than $300](https://lifehacker.com/this-pop-up-car-tent-is-now-less-than-300-1850959395)
 - [Dev.to/JS] [What are Design Patterns in javascript?](https://dev.to/zeeshanali0704/what-are-design-patterns-4m71)
 - [Dev.to/JS] [How to build a custom input range slider](https://dev.to/anandson47/how-to-build-a-custom-input-range-slider-4d59)
 - [Dev.to/JS] [Design Pattern In Javascript](https://dev.to/zeeshanali0704/design-pattern-in-javascript-4km)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why is node_modules heavier than the universe? &lpar;No seriously, why is it so big?&rpar;](https://dev.to/faizbshah/why-is-nodemodules-heavier-than-the-universe-no-seriously-why-is-it-so-big-12dl)
 - [Dev.to/JS] [what is the last date for bca admission in 2023](https://dev.to/vgigroupblog/what-is-the-last-date-for-bca-admission-in-2023-40g9)
 - [Dev.to/JS] [Exploring Deno vs. Node.js: A Comprehensive Comparison](https://dev.to/rowsanali/exploring-deno-vs-nodejs-a-comprehensive-comparison-5dmg)
-- [Dev.to/JS] [Authentication and Authorization in Node.js: A Comprehensive Guide](https://dev.to/rowsanali/authentication-and-authorization-in-nodejs-a-comprehensive-guide-4jl6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The iRobot Roomba i4 EVO is 48% Off on Amazon Right Now](https://lifehacker.com/the-irobot-roomba-i4-evo-is-48-off-on-amazon-right-now-1850964399)
 - [Lifehacker] [Use the &#39;Method of Loci&#39; to Remember Anything](https://lifehacker.com/loci-method-remember-anything-on-a-test-1850963999)
 - [Lifehacker] [Fluffy Sformati Is for Soufflé Lovers Who Don&#39;t Want to Whip Egg Whites](https://lifehacker.com/easy-sformati-recipe-1850964364)
-- [Lifehacker] [These Sonos Home Theater Sets Are up to 20% Off](https://lifehacker.com/these-sonos-home-theater-sets-are-up-to-20-off-1850953667)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 27, 2023](https://lifehacker.com/nyt-connections-answer-today-october-27-2023-1850961985)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Sonos Home Theater Sets Are up to 20% Off](https://lifehacker.com/these-sonos-home-theater-sets-are-up-to-20-off-1850953667)<!-- TECH-POSTS:END -->
 
 ---
 
