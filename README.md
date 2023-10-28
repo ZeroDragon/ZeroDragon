@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interactive Textures in three.js](https://dev.to/zimlearn/interactive-textures-in-threejs-410o)
+- [Dev.to/JS] [These 3 Types of Coding Projects Give You an UNFAIR Advantage](https://dev.to/codewithshahan/these-3-types-of-coding-projects-give-you-an-unfair-advantage-4jp4)
+- [Dev.to/JS] [Fastify + NestJS file upload](https://dev.to/josethz00/fastify-nestjs-file-upload-3mip)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
+- [Dev.to/JS] [Understanding Throttling in JavaScript: A Comprehensive Guide](https://dev.to/junaidkhan/understanding-throttling-in-javascript-a-comprehensive-guide-3cg3)
 - [Dev.to/JS] [Setting up a new Cloudflare Worker with a custom domain.](https://dev.to/andyjessop/setting-up-a-new-cloudflare-worker-with-a-custom-domain-fl9)
 - [Dev.to/JS] [Tailwind CSS Linear Gradient Randomizer](https://dev.to/learncodeprofessor/tailwind-css-linear-gradient-randomizer-2j36)
 - [Dev.to/JS] [Please how can I achieve this.](https://dev.to/favouraderemi/please-how-can-i-achieve-this-353h)
@@ -37,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Performance of Runtime CSS Generation using MutationObserver](https://dev.to/artxe2/performance-of-runtime-css-generation-using-mutationobserver-3ndi)
 - [Dev.to/JS] [Tailwind CSS for Beginners: A Step-by-Step Guide](https://dev.to/akashakki/tailwind-css-for-beginners-a-step-by-step-guide-3gff)
 - [Lifehacker] [If You Still Have Student Loans, at Least They’ll Get You a Free Pizza](https://lifehacker.com/if-you-still-have-student-loans-at-least-they-ll-get-y-1850968678)
-- [Dev.to/JS] [Angular: Modern Web Application Development](https://dev.to/sparkouttech/angular-modern-web-application-development-125l)
-- [Dev.to/JS] [Our website has gone live!](https://dev.to/opensourcee/our-website-has-gone-live-1a7)
-- [Dev.to/JS] [INTENSIVE PLACEMENT PROGRAM FOR FRESHERS 100% PLACEMENT ASSISTANCE JAVA FULL STACK DEVELOPER](https://dev.to/datavalley_ai/intensive-placement-program-for-freshers100-placement-assistancejava-full-stack-developer-37jo)
 - [Lifehacker] [This Pop-Up Car Tent Is Now Less Than $300](https://lifehacker.com/this-pop-up-car-tent-is-now-less-than-300-1850959395)
-- [Dev.to/JS] [What are Design Patterns in javascript?](https://dev.to/zeeshanali0704/what-are-design-patterns-4m71)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
