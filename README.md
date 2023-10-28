@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
+- [Dev.to/JS] [Setting up a new Cloudflare Worker with a custom domain.](https://dev.to/andyjessop/setting-up-a-new-cloudflare-worker-with-a-custom-domain-fl9)
+- [Dev.to/JS] [Tailwind CSS Linear Gradient Randomizer](https://dev.to/learncodeprofessor/tailwind-css-linear-gradient-randomizer-2j36)
 - [Dev.to/JS] [Please how can I achieve this.](https://dev.to/favouraderemi/please-how-can-i-achieve-this-353h)
 - [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
 - [Dev.to/JS] [SOLID Principles Series: The Dependency Inversion Principle &lpar;DIP&rpar; in TypeScript](https://dev.to/ruben_alapont/solid-principles-series-the-dependency-inversion-principle-dip-in-typescript-3ojc)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [INTENSIVE PLACEMENT PROGRAM FOR FRESHERS 100% PLACEMENT ASSISTANCE JAVA FULL STACK DEVELOPER](https://dev.to/datavalley_ai/intensive-placement-program-for-freshers100-placement-assistancejava-full-stack-developer-37jo)
 - [Lifehacker] [This Pop-Up Car Tent Is Now Less Than $300](https://lifehacker.com/this-pop-up-car-tent-is-now-less-than-300-1850959395)
 - [Dev.to/JS] [What are Design Patterns in javascript?](https://dev.to/zeeshanali0704/what-are-design-patterns-4m71)
-- [Dev.to/JS] [How to build a custom input range slider](https://dev.to/anandson47/how-to-build-a-custom-input-range-slider-4d59)
-- [Dev.to/JS] [Design Pattern In Javascript](https://dev.to/zeeshanali0704/design-pattern-in-javascript-4km)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Gen Z Goes to Work, Finds It Time-Consuming](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-go-1850965502)
 - [Lifehacker] [TikTok Myth of the Week: All Your Problems Are Due to High Cortisol](https://lifehacker.com/tiktok-myth-of-the-week-all-your-problems-are-due-to-h-1850963889)
 - [Lifehacker] [Meredith&#39;s Training Diary: Nothing New on Race Day](https://lifehacker.com/nothing-new-on-race-day-1850962483)
-- [Lifehacker] [The iRobot Roomba i4 EVO is 48% Off on Amazon Right Now](https://lifehacker.com/the-irobot-roomba-i4-evo-is-48-off-on-amazon-right-now-1850964399)
-- [Lifehacker] [Use the &#39;Method of Loci&#39; to Remember Anything](https://lifehacker.com/loci-method-remember-anything-on-a-test-1850963999)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The iRobot Roomba i4 EVO is 48% Off on Amazon Right Now](https://lifehacker.com/the-irobot-roomba-i4-evo-is-48-off-on-amazon-right-now-1850964399)<!-- TECH-POSTS:END -->
 
 ---
 
