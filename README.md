@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Score High in AWS SAA-C03 Dumps with Premium Quality Dumps](https://dev.to/saac03dumps/score-high-in-aws-saa-c03-dumps-with-premium-quality-dumps-385)
+- [Dev.to/JS] [Latest Newsletter: Embarrassed to be Human &lpar;Issue #138&rpar;](https://dev.to/mjgs/latest-newsletter-embarrassed-to-be-human-issue-138-3p7i)
+- [Dev.to/JS] [Announcing the First Ever State of React Survey](https://dev.to/sachagreif/announcing-the-first-ever-state-of-react-survey-3k6b)
 - [Dev.to/JS] [Performing CRUD Operations in a React-Express-MongoDB Application](https://dev.to/jps27cse/performing-crud-operations-in-a-react-express-mongodb-application-45d4)
 - [Dev.to/JS] [Pollyfill - PROMISE. ALL](https://dev.to/zeeshanali0704/pollyfill-promise-all-1oe9)
 - [Dev.to/JS] [React Search Using-Debounce](https://dev.to/zeeshanali0704/react-search-using-debounce-235a)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 02&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-02-4ngm)
 - [Dev.to/JS] [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 01&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-01-5ajh)
 - [Dev.to/JS] [CloudGaming Part 2: That code was terrible lol](https://dev.to/wmattei/cloudgaming-part-2-that-code-was-terrible-lol-4lp7)
-- [Dev.to/JS] [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 3&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-3-52o4)
-- [Dev.to/JS] [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 2&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-2-1ij1)
-- [Dev.to/JS] [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 01&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
 - [Lifehacker] [You Can Now React to iMessages With Emojis and Stickers](https://lifehacker.com/you-can-now-react-to-imessages-with-emojis-and-stickers-1850967753)
