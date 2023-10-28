@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Performing CRUD Operations in a React-Express-MongoDB Application](https://dev.to/jps27cse/performing-crud-operations-in-a-react-express-mongodb-application-45d4)
 - [Dev.to/JS] [Pollyfill - PROMISE. ALL](https://dev.to/zeeshanali0704/pollyfill-promise-all-1oe9)
 - [Dev.to/JS] [React Search Using-Debounce](https://dev.to/zeeshanali0704/react-search-using-debounce-235a)
 - [Dev.to/JS] [How To Mock MongoDB&#39;s ObjectID](https://dev.to/kaxmoglan/how-to-mock-mongodbs-objectid-5fei)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 01&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
-- [Dev.to/JS] [Mastering Message Passing in Chrome Extensions: From Basics to Advanced Techniques](https://dev.to/arijitparia2002/mastering-message-passing-in-chrome-extensions-from-basics-to-advanced-techniques-4ana)
 - [Lifehacker] [You Can Now React to iMessages With Emojis and Stickers](https://lifehacker.com/you-can-now-react-to-imessages-with-emojis-and-stickers-1850967753)
 - [Lifehacker] [These Are the Best Android Apps for 2023](https://lifehacker.com/the-best-android-apps-1850964120)
 - [Lifehacker] [Yes, the FDA Really Did Issue a Warning About Black Licorice](https://lifehacker.com/fda-black-licorice-warning-1839441801)
