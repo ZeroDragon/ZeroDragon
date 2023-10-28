@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SOLID Principles Series: The Dependency Inversion Principle &lpar;DIP&rpar; in TypeScript](https://dev.to/ruben_alapont/solid-principles-series-the-dependency-inversion-principle-dip-in-typescript-3ojc)
+- [Dev.to/JS] [Building Production Grade Microservices with Go and gRPC - A Step-by-Step Developer Guide with Example](https://dev.to/nikl/building-production-grade-microservices-with-go-and-grpc-a-step-by-step-developer-guide-with-example-2839)
+- [Dev.to/JS] [Subjects and BehaviorSubjects in Angular: A Deep Dive](https://dev.to/mariazayed/subjects-and-behaviorsubjects-in-angular-a-deep-dive-4kf2)
+- [Dev.to/JS] [Performance of Runtime CSS Generation using MutationObserver](https://dev.to/artxe2/performance-of-runtime-css-generation-using-mutationobserver-3ndi)
 - [Dev.to/JS] [Tailwind CSS for Beginners: A Step-by-Step Guide](https://dev.to/akashakki/tailwind-css-for-beginners-a-step-by-step-guide-3gff)
 - [Lifehacker] [If You Still Have Student Loans, at Least They’ll Get You a Free Pizza](https://lifehacker.com/if-you-still-have-student-loans-at-least-they-ll-get-y-1850968678)
 - [Dev.to/JS] [Angular: Modern Web Application Development](https://dev.to/sparkouttech/angular-modern-web-application-development-125l)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build a custom input range slider](https://dev.to/anandson47/how-to-build-a-custom-input-range-slider-4d59)
 - [Dev.to/JS] [Design Pattern In Javascript](https://dev.to/zeeshanali0704/design-pattern-in-javascript-4km)
 - [Dev.to/JS] [WebPush for iOS – demo site and sample code to implement your own](https://dev.to/andreinwald/webpush-for-ios-demo-site-and-sample-code-to-implement-your-own-4hb4)
-- [Dev.to/JS] [Defining static methods in interfaces with TypeScript](https://dev.to/_staticvoid/defining-static-methods-in-interfaces-with-typescript-4232)
-- [Dev.to/JS] [How do I configure ESLint for a specific file or folder 📂 🥰?](https://dev.to/martygo/how-do-i-configure-eslint-for-a-specific-file-or-folder--2eem)
-- [Dev.to/JS] [Understanding the MERN Stack:](https://dev.to/baaskaa-se/understanding-the-mern-stack-j70)
-- [Dev.to/JS] [Why is node_modules heavier than the universe? &lpar;No seriously, why is it so big?&rpar;](https://dev.to/faizbshah/why-is-nodemodules-heavier-than-the-universe-no-seriously-why-is-it-so-big-12dl)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
