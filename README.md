@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
+- [Dev.to/JS] [How and when to use keys in React](https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb)
 - [Dev.to/JS] [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 03&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-03-2n68)
 - [Dev.to/JS] [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 02&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-02-4ngm)
 - [Dev.to/JS] [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 01&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-01-5ajh)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Lies Contractors Tell](https://lifehacker.com/9-lies-contractors-tell-1850967181)
 - [Dev.to/JS] [Hactoberfest 2023 Contribution.](https://dev.to/mohd786hub/hactoberfest-2023-contribution-3ofa)
 - [Dev.to/JS] [Hactoberfest 2023](https://dev.to/mohd786hub/hactoberfest-2023-3i9)
-- [Dev.to/JS] [dotgenv – Revolutionize Your Node.js Secret Management](https://dev.to/devrx/dotgenv-revolutionize-your-nodejs-secret-management-a1m)
 - [Lifehacker] [I&#39;ll Take the Check, When You Have a Moment](https://lifehacker.com/lifehackers-best-food-hacks-ever-1850967435)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Access Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [Hot Chicken Sliders Should Make a Football Appearance This Weekend](https://lifehacker.com/2-45-hot-chicken-slider-recipe-1850967503)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the &#39;Method of Loci&#39; to Remember Anything](https://lifehacker.com/loci-method-remember-anything-on-a-test-1850963999)
 - [Lifehacker] [Fluffy Sformati Is for Soufflé Lovers Who Don&#39;t Want to Whip Egg Whites](https://lifehacker.com/easy-sformati-recipe-1850964364)
 - [Lifehacker] [These Sonos Home Theater Sets Are up to 20% Off](https://lifehacker.com/these-sonos-home-theater-sets-are-up-to-20-off-1850953667)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 27, 2023](https://lifehacker.com/nyt-connections-answer-today-october-27-2023-1850961985)
-- [Lifehacker] [Woot Is Selling Reconditioned Soundbars for as Low as $80](https://lifehacker.com/woot-is-selling-reconditioned-soundbars-for-as-low-as-1850963514)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, October 27, 2023](https://lifehacker.com/nyt-connections-answer-today-october-27-2023-1850961985)<!-- TECH-POSTS:END -->
 
 ---
 
