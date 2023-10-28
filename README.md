@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 03&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-03-2n68)
+- [Dev.to/JS] [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 02&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-02-4ngm)
+- [Dev.to/JS] [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 01&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-01-5ajh)
+- [Dev.to/JS] [CloudGaming Part 2: That code was terrible lol](https://dev.to/wmattei/cloudgaming-part-2-that-code-was-terrible-lol-4lp7)
 - [Dev.to/JS] [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 3&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-3-52o4)
 - [Dev.to/JS] [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 2&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-2-1ij1)
-- [Dev.to/JS] [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 1&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8)
+- [Dev.to/JS] [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 01&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
 - [Dev.to/JS] [Mastering Message Passing in Chrome Extensions: From Basics to Advanced Techniques](https://dev.to/arijitparia2002/mastering-message-passing-in-chrome-extensions-from-basics-to-advanced-techniques-4ana)
@@ -43,12 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I&#39;ll Take the Check, When You Have a Moment](https://lifehacker.com/lifehackers-best-food-hacks-ever-1850967435)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Access Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [Hot Chicken Sliders Should Make a Football Appearance This Weekend](https://lifehacker.com/2-45-hot-chicken-slider-recipe-1850967503)
-- [Dev.to/JS] [Node.js for Beginners: A Step-by-Step Guide](https://dev.to/akashakki/nodejs-for-beginners-a-step-by-step-guide-2996)
 - [Lifehacker] [These Dell Laptops and Monitors Are Already Half Off for Black Friday](https://lifehacker.com/these-dell-laptops-and-monitors-are-already-half-off-fo-1850967603)
-- [Dev.to/JS] [JavaScript](https://dev.to/imsan/javascript-33ij)
 - [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/how-to-blanch-and-skin-almonds-1849639820)
-- [Dev.to/JS] [gswgrwsg](https://dev.to/numana/gswgrwsg-353n)
-- [Dev.to/JS] [Building a Stopwatch in React](https://dev.to/kartikbudhraja/building-a-stopwatch-in-react-1nb3)
 - [Lifehacker] [You Can Get 1TB of Cloud Storage for $120 With This Code](https://lifehacker.com/you-can-get-1tb-of-cloud-storage-for-120-with-this-cod-1850959122)
 - [Lifehacker] [How to Cope When Your Parents Become Toxic Grandparents](https://lifehacker.com/how-to-cope-when-your-parents-become-toxic-grandparents-1850965637)
 - [Lifehacker] [The Best Ways to &lpar;Safely&rpar; Hide Power Outlets](https://lifehacker.com/the-best-ways-to-safely-hide-power-outlets-1850966549)
