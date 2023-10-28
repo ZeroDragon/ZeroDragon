@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Achieve AZ-305 Success with DumpsArena&#39;s Dumps](https://dev.to/y1rq0n1o/achieve-az-305-success-with-dumpsarenas-dumps-1pma)
+- [Dev.to/JS] [15 Reasons to Learn JavaScript: Unlocking the Power of the Web](https://dev.to/tehczpad/15-reasons-to-learn-javascript-unlocking-the-power-of-the-web-1bjl)
+- [Dev.to/JS] [Basic Pattern - Javascript Interview](https://dev.to/zeeshanali0704/basic-pattern-javascript-interview-46j0)
+- [Dev.to/JS] [Stylized Castle WebGL demo](https://dev.to/keaukraine/stylized-castle-webgl-demo-1k29)
+- [Dev.to/JS] [why learn web &lpar;javascript&rpar; ML&lpar;machine learning&rpar; 2024](https://dev.to/fonyuygita/why-learn-web-javascript-mlmachine-learning-2024-2ef1)
 - [Dev.to/JS] [Score High in AWS SAA-C03 Dumps with Premium Quality Dumps](https://dev.to/saac03dumps/score-high-in-aws-saa-c03-dumps-with-premium-quality-dumps-385)
 - [Dev.to/JS] [Latest Newsletter: Embarrassed to be Human &lpar;Issue #138&rpar;](https://dev.to/mjgs/latest-newsletter-embarrassed-to-be-human-issue-138-3p7i)
 - [Dev.to/JS] [Announcing the First Ever State of React Survey](https://dev.to/sachagreif/announcing-the-first-ever-state-of-react-survey-3k6b)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Search Using-Debounce](https://dev.to/zeeshanali0704/react-search-using-debounce-235a)
 - [Dev.to/JS] [How To Mock MongoDB&#39;s ObjectID](https://dev.to/kaxmoglan/how-to-mock-mongodbs-objectid-5fei)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
-- [Dev.to/JS] [How and when to use keys in React](https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb)
-- [Dev.to/JS] [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 03&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-03-2n68)
-- [Dev.to/JS] [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 02&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-02-4ngm)
-- [Dev.to/JS] [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 01&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-01-5ajh)
-- [Dev.to/JS] [CloudGaming Part 2: That code was terrible lol](https://dev.to/wmattei/cloudgaming-part-2-that-code-was-terrible-lol-4lp7)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
 - [Lifehacker] [You Can Now React to iMessages With Emojis and Stickers](https://lifehacker.com/you-can-now-react-to-imessages-with-emojis-and-stickers-1850967753)
