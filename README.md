@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Deno vs. Node.js: A Comprehensive Comparison](https://dev.to/rowsanali/exploring-deno-vs-nodejs-a-comprehensive-comparison-5dmg)
+- [Dev.to/JS] [Authentication and Authorization in Node.js: A Comprehensive Guide](https://dev.to/rowsanali/authentication-and-authorization-in-nodejs-a-comprehensive-guide-4jl6)
 - [Dev.to/JS] [Achieve AZ-305 Success with DumpsArena&#39;s Dumps](https://dev.to/y1rq0n1o/achieve-az-305-success-with-dumpsarenas-dumps-1pma)
 - [Dev.to/JS] [15 Reasons to Learn JavaScript: Unlocking the Power of the Web](https://dev.to/tehczpad/15-reasons-to-learn-javascript-unlocking-the-power-of-the-web-1bjl)
 - [Dev.to/JS] [Basic Pattern - Javascript Interview](https://dev.to/zeeshanali0704/basic-pattern-javascript-interview-46j0)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Announcing the First Ever State of React Survey](https://dev.to/sachagreif/announcing-the-first-ever-state-of-react-survey-3k6b)
 - [Dev.to/JS] [Performing CRUD Operations in a React-Express-MongoDB Application](https://dev.to/jps27cse/performing-crud-operations-in-a-react-express-mongodb-application-45d4)
 - [Dev.to/JS] [Pollyfill - PROMISE. ALL](https://dev.to/zeeshanali0704/pollyfill-promise-all-1oe9)
-- [Dev.to/JS] [React Search Using-Debounce](https://dev.to/zeeshanali0704/react-search-using-debounce-235a)
-- [Dev.to/JS] [How To Mock MongoDB&#39;s ObjectID](https://dev.to/kaxmoglan/how-to-mock-mongodbs-objectid-5fei)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
