@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplifying HTTP Requests in Angular with Generic HTTP Services](https://dev.to/charkourkoulis/simplifying-http-requests-in-angular-with-generic-http-services-1i14)
+- [Dev.to/JS] [Facade pattern in Angular](https://dev.to/charkourkoulis/facade-pattern-in-angular-ph4)
 - [Dev.to/JS] [Memory Management in JavaScript: Exploring Garbage Collection and Best Practices](https://dev.to/outstandingvick/memory-management-in-javascript-exploring-garbage-collection-and-best-practices-35jd)
 - [Dev.to/JS] [10 UI Libraries You Should Explore for Your Next Vue.js Project](https://dev.to/tecnophille/10-ui-libraries-you-should-explore-for-your-next-vuejs-project-1coh)
 - [Dev.to/JS] [Interactive Textures in three.js](https://dev.to/zimlearn/interactive-textures-in-threejs-410o)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Please how can I achieve this.](https://dev.to/favouraderemi/please-how-can-i-achieve-this-353h)
 - [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
 - [Dev.to/JS] [SOLID Principles Series: The Dependency Inversion Principle &lpar;DIP&rpar; in TypeScript](https://dev.to/ruben_alapont/solid-principles-series-the-dependency-inversion-principle-dip-in-typescript-3ojc)
-- [Dev.to/JS] [Building Production Grade Microservices with Go and gRPC - A Step-by-Step Developer Guide with Example](https://dev.to/nikl/building-production-grade-microservices-with-go-and-grpc-a-step-by-step-developer-guide-with-example-2839)
-- [Dev.to/JS] [Subjects and BehaviorSubjects in Angular: A Deep Dive](https://dev.to/mariazayed/subjects-and-behaviorsubjects-in-angular-a-deep-dive-4kf2)
 - [Lifehacker] [If You Still Have Student Loans, at Least They’ll Get You a Free Pizza](https://lifehacker.com/if-you-still-have-student-loans-at-least-they-ll-get-y-1850968678)
 - [Lifehacker] [This Pop-Up Car Tent Is Now Less Than $300](https://lifehacker.com/this-pop-up-car-tent-is-now-less-than-300-1850959395)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
