@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pollyfill - PROMISE. ALL](https://dev.to/zeeshanali0704/pollyfill-promise-all-1oe9)
+- [Dev.to/JS] [React Search Using-Debounce](https://dev.to/zeeshanali0704/react-search-using-debounce-235a)
 - [Dev.to/JS] [How To Mock MongoDB&#39;s ObjectID](https://dev.to/kaxmoglan/how-to-mock-mongodbs-objectid-5fei)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
 - [Dev.to/JS] [How and when to use keys in React](https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb)
@@ -40,11 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
 - [Dev.to/JS] [Mastering Message Passing in Chrome Extensions: From Basics to Advanced Techniques](https://dev.to/arijitparia2002/mastering-message-passing-in-chrome-extensions-from-basics-to-advanced-techniques-4ana)
 - [Lifehacker] [You Can Now React to iMessages With Emojis and Stickers](https://lifehacker.com/you-can-now-react-to-imessages-with-emojis-and-stickers-1850967753)
-- [Dev.to/JS] [How to Manage Multiple Appwrite Functions in a Single Repository](https://dev.to/chukwutosin_/how-to-manage-multiple-appwrite-functions-in-a-single-repository-4lpo)
 - [Lifehacker] [These Are the Best Android Apps for 2023](https://lifehacker.com/the-best-android-apps-1850964120)
 - [Lifehacker] [Yes, the FDA Really Did Issue a Warning About Black Licorice](https://lifehacker.com/fda-black-licorice-warning-1839441801)
 - [Lifehacker] [9 Lies Contractors Tell](https://lifehacker.com/9-lies-contractors-tell-1850967181)
-- [Dev.to/JS] [Hactoberfest 2023 Contribution.](https://dev.to/mohd786hub/hactoberfest-2023-contribution-3ofa)
 - [Lifehacker] [I&#39;ll Take the Check, When You Have a Moment](https://lifehacker.com/lifehackers-best-food-hacks-ever-1850967435)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Access Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [Hot Chicken Sliders Should Make a Football Appearance This Weekend](https://lifehacker.com/2-45-hot-chicken-slider-recipe-1850967503)
