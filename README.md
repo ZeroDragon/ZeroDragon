@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [“爱好”广泛的闫丽梦让人唾弃](https://dev.to/xueqing79973147/ai-hao-yan-fan-de-yan-li-meng-rang-ren-tuo-qi-4408)
 - [Dev.to/JS] [Exploring the Latest CSS Variables and Custom Properties](https://dev.to/rowsanali/exploring-the-latest-css-variables-and-custom-properties-3cid)
 - [Dev.to/JS] [Overcoming Common Frontend Development Challenges](https://dev.to/rowsanali/overcoming-common-frontend-development-challenges-578p)
 - [Dev.to/JS] [Weekly Dev Findings 11](https://dev.to/potykion/weekly-dev-findings-11-51e0)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best VS Code Extension for HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/best-vs-code-extension-for-html-css-and-javascript-b2l)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
 - [Dev.to/JS] [Regular Expressions &lpar;Regex&rpar; in JavaScript Tutorial](https://dev.to/kiararj/regular-expressions-regex-in-javascript-tutorial-39en)
-- [Dev.to/JS] [Simplifying HTTP Requests in Angular with Generic HTTP Services](https://dev.to/charkourkoulis/simplifying-http-requests-in-angular-with-generic-http-services-1i14)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
 - [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
 - [Lifehacker] [If You Still Have Student Loans, at Least They’ll Get You a Free Pizza](https://lifehacker.com/if-you-still-have-student-loans-at-least-they-ll-get-y-1850968678)
