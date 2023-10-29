@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Must-have Frontend Development Skills &lpar;Roadmap 2024&rpar;](https://dev.to/codewithshahan/must-have-frontend-development-skills-roadmap-2024-28jc)
+- [Dev.to/JS] [TypeScript vs. JavaScript: Making the Right Choice for Your Project](https://dev.to/baransel/typescript-vs-javascript-making-the-right-choice-for-your-project-5blo)
+- [Dev.to/JS] [Must-have Skills to Become a Frontend Developer in 6 Months &lpar;Roadmap 2024&rpar;](https://dev.to/codewithshahan/must-have-frontend-development-skills-roadmap-2024-28jc)
 - [Dev.to/JS] [Creating a Dynamic Star Rating System in React](https://dev.to/kartikbudhraja/creating-a-dynamic-star-rating-system-in-react-2c8)
 - [Dev.to/JS] [ALL NEW NEXT.JS 14 IS HERE](https://dev.to/bhavesh_yadav/all-new-nextjs-14-is-here-5ja)
 - [Dev.to/JS] [Debouncing and Throttling in React: A Simplified Guide](https://dev.to/shriharimurali/debouncing-and-throttling-in-react-a-simplified-guide-31mo)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Latest CSS Variables and Custom Properties](https://dev.to/rowsanali/exploring-the-latest-css-variables-and-custom-properties-3cid)
 - [Dev.to/JS] [Overcoming Common Frontend Development Challenges](https://dev.to/rowsanali/overcoming-common-frontend-development-challenges-578p)
 - [Dev.to/JS] [Weekly Dev Findings 11](https://dev.to/potykion/weekly-dev-findings-11-51e0)
-- [Dev.to/JS] [25 lines to setup a Form and send Emails in Next.js 14 using Server Actions](https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-170l)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
 - [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
