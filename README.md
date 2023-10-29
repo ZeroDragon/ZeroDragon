@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Detailed Explanation of JavaScript Prototype Chain](https://dev.to/shingaiz/detailed-explanation-of-javascript-prototype-chain-prototype-1392)
 - [Dev.to/JS] [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
 - [Dev.to/JS] [Setting Up a Modern Frontend Build Process with Rollup for SASS and JavaScript](https://dev.to/joxx/setting-up-a-modern-frontend-build-process-with-rollup-for-sass-and-javascript-5d99)
 - [Dev.to/JS] [How to create a custom cursor follower with gsap](https://dev.to/dionarodrigues/how-to-create-a-custom-cursor-follower-with-gsap-87k)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enhancing the Weather App with Weekly Forecasts](https://dev.to/vishnudas2003/enhancing-the-weather-app-with-weekly-forecasts-4hh0)
 - [Dev.to/JS] [Best Practices for Writing Clean React Code with Examples](https://dev.to/serifcolakel/best-practices-for-writing-clean-react-code-with-examples-4b90)
 - [Dev.to/JS] [Adding new feature to my project](https://dev.to/sdthaker/adding-new-feature-to-my-project-4dgc)
-- [Dev.to/JS] [Diving into Docusaurus codebase](https://dev.to/sdthaker/diving-into-docusaurus-codebase-if1)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
