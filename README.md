@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
 - [Dev.to/JS] [Regular Expressions &lpar;Regex&rpar; in JavaScript Tutorial](https://dev.to/kiararj/regular-expressions-regex-in-javascript-tutorial-39en)
 - [Dev.to/JS] [Simplifying HTTP Requests in Angular with Generic HTTP Services](https://dev.to/charkourkoulis/simplifying-http-requests-in-angular-with-generic-http-services-1i14)
 - [Dev.to/JS] [Facade pattern in Angular](https://dev.to/charkourkoulis/facade-pattern-in-angular-ph4)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Bird eBike Is on Sale for $850](https://lifehacker.com/this-bird-ebike-is-on-sale-for-850-1850958669)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Gen Z Goes to Work, Finds It Time-Consuming](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-go-1850965502)
 - [Lifehacker] [TikTok Myth of the Week: All Your Problems Are Due to High Cortisol](https://lifehacker.com/tiktok-myth-of-the-week-all-your-problems-are-due-to-h-1850963889)
-- [Lifehacker] [Meredith&#39;s Training Diary: Nothing New on Race Day](https://lifehacker.com/nothing-new-on-race-day-1850962483)
-- [Lifehacker] [The iRobot Roomba i4 EVO is 48% Off on Amazon Right Now](https://lifehacker.com/the-irobot-roomba-i4-evo-is-48-off-on-amazon-right-now-1850964399)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Meredith&#39;s Training Diary: Nothing New on Race Day](https://lifehacker.com/nothing-new-on-race-day-1850962483)<!-- TECH-POSTS:END -->
 
 ---
 
