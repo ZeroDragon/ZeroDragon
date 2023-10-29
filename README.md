@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Docusaurus Rocks!](https://dev.to/amnish04/docusaurus-rocks-30jk)
+- [Dev.to/JS] [JavaScript Number Data Type](https://dev.to/eminaltan/javascript-number-data-type-4b7)
+- [Dev.to/JS] [JavaScript String Data Type](https://dev.to/eminaltan/javascript-string-data-type-5643)
+- [Dev.to/JS] [Undefined vs Null in JavaScript: Deciphering the Void Magic](https://dev.to/init_chandan/undefined-vs-null-in-javascript-deciphering-the-void-magic-4hj)
 - [Dev.to/JS] [Detailed Explanation of JavaScript Prototype Chain](https://dev.to/shingaiz/detailed-explanation-of-javascript-prototype-chain-prototype-1392)
 - [Dev.to/JS] [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
 - [Dev.to/JS] [Setting Up a Modern Frontend Build Process with Rollup for SASS and JavaScript](https://dev.to/joxx/setting-up-a-modern-frontend-build-process-with-rollup-for-sass-and-javascript-5d99)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A new way of sharing code](https://dev.to/opensourcee/a-new-way-of-sharing-code-1327)
 - [Dev.to/JS] [What&#39;s new in Nextjs 14 ✨](https://dev.to/todayscode14/whats-new-in-nextjs-14-iep)
 - [Dev.to/JS] [Validate request data with @novice1/validator-joi](https://dev.to/shygyver/validate-request-data-with-novice1validator-joi-29ag)
-- [Dev.to/JS] [Understanding JavaScript String Methods: A Comprehensive Guide](https://dev.to/shreyasico/understanding-javascript-string-methods-a-comprehensive-guide-cdn)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
-- [Dev.to/JS] [Enhancing the Weather App with Weekly Forecasts](https://dev.to/vishnudas2003/enhancing-the-weather-app-with-weekly-forecasts-4hh0)
-- [Dev.to/JS] [Best Practices for Writing Clean React Code with Examples](https://dev.to/serifcolakel/best-practices-for-writing-clean-react-code-with-examples-4b90)
-- [Dev.to/JS] [Adding new feature to my project](https://dev.to/sdthaker/adding-new-feature-to-my-project-4dgc)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
