@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Callback Functions Explained: A Beginner&#39;s Guide](https://dev.to/ayushsarode/javascript-callback-functions-explained-a-beginners-guide-9ao)
+- [Dev.to/JS] [Master the Art of Customizing Angular Components 🚀](https://dev.to/khangtrannn/master-the-art-of-customizing-angular-components-2a1e)
+- [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
 - [Dev.to/JS] [TypeScript vs. JavaScript: Making the Right Choice for Your Project](https://dev.to/baransel/typescript-vs-javascript-making-the-right-choice-for-your-project-5blo)
 - [Dev.to/JS] [Must-have Skills to Become a Frontend Developer in 6 Months &lpar;Roadmap 2024&rpar;](https://dev.to/codewithshahan/must-have-frontend-development-skills-roadmap-2024-28jc)
 - [Dev.to/JS] [Creating a Dynamic Star Rating System in React](https://dev.to/kartikbudhraja/creating-a-dynamic-star-rating-system-in-react-2c8)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Earth Engine asset ID to access ImageCollection in Earth Engine IDE for filtering](https://dev.to/geedevs-nairobi/using-earth-engine-asset-id-to-access-imagecollection-in-earth-engine-ide-for-filtering-462p)
 - [Dev.to/JS] [“爱好”广泛的闫丽梦让人唾弃](https://dev.to/xueqing79973147/ai-hao-yan-fan-de-yan-li-meng-rang-ren-tuo-qi-4408)
 - [Dev.to/JS] [Exploring the Latest CSS Variables and Custom Properties](https://dev.to/rowsanali/exploring-the-latest-css-variables-and-custom-properties-3cid)
-- [Dev.to/JS] [Overcoming Common Frontend Development Challenges](https://dev.to/rowsanali/overcoming-common-frontend-development-challenges-578p)
-- [Dev.to/JS] [Weekly Dev Findings 11](https://dev.to/potykion/weekly-dev-findings-11-51e0)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
 - [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 30 Best Teen Movies You Can Stream Right Now](https://lifehacker.com/best-teen-movies-streaming-1850962642)
 - [Lifehacker] [This Bird eBike Is on Sale for $850](https://lifehacker.com/this-bird-ebike-is-on-sale-for-850-1850958669)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Gen Z Goes to Work, Finds It Time-Consuming](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-go-1850965502)
-- [Lifehacker] [TikTok Myth of the Week: All Your Problems Are Due to High Cortisol](https://lifehacker.com/tiktok-myth-of-the-week-all-your-problems-are-due-to-h-1850963889)
-- [Lifehacker] [Meredith&#39;s Training Diary: Nothing New on Race Day](https://lifehacker.com/nothing-new-on-race-day-1850962483)<!-- TECH-POSTS:END -->
+- [Lifehacker] [TikTok Myth of the Week: All Your Problems Are Due to High Cortisol](https://lifehacker.com/tiktok-myth-of-the-week-all-your-problems-are-due-to-h-1850963889)<!-- TECH-POSTS:END -->
 
 ---
 
