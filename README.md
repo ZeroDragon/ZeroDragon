@@ -34,7 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Memory Management in JavaScript: Exploring Garbage Collection and Best Practices](https://dev.to/outstandingvick/memory-management-in-javascript-exploring-garbage-collection-and-best-practices-35jd)
 - [Dev.to/JS] [10 UI Libraries You Should Explore for Your Next Vue.js Project](https://dev.to/tecnophille/10-ui-libraries-you-should-explore-for-your-next-vuejs-project-1coh)
 - [Dev.to/JS] [Interactive Textures in three.js](https://dev.to/zimlearn/interactive-textures-in-threejs-410o)
-- [Dev.to/JS] [3 Coding Projects That Guarantee an Unfair Advantage](https://dev.to/codewithshahan/these-3-types-of-coding-projects-give-you-an-unfair-advantage-4jp4)
+- [Dev.to/JS] [These coding projects give you an unfair advantage](https://dev.to/codewithshahan/these-3-types-of-coding-projects-give-you-an-unfair-advantage-4jp4)
 - [Dev.to/JS] [Fastify + NestJS file upload](https://dev.to/josethz00/fastify-nestjs-file-upload-3mip)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
 - [Dev.to/JS] [Understanding Throttling in JavaScript: A Comprehensive Guide](https://dev.to/junaidkhan/understanding-throttling-in-javascript-a-comprehensive-guide-3cg3)
