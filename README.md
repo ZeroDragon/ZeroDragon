@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a custom cursor follower with gsap](https://dev.to/dionarodrigues/how-to-create-a-custom-cursor-follower-with-gsap-87k)
+- [Dev.to/JS] [Testing in JavaScript: A Comprehensive Guide](https://dev.to/outstandingvick/testing-in-javascript-a-comprehensive-guide-2l2n)
+- [Dev.to/JS] [A new way of sharing code](https://dev.to/opensourcee/a-new-way-of-sharing-code-1327)
+- [Dev.to/JS] [What&#39;s new in Nextjs 14 ✨](https://dev.to/todayscode14/whats-new-in-nextjs-14-iep)
 - [Dev.to/JS] [Validate request data with @novice1/validator-joi](https://dev.to/shygyver/validate-request-data-with-novice1validator-joi-29ag)
 - [Dev.to/JS] [Understanding JavaScript String Methods: A Comprehensive Guide](https://dev.to/shreyasico/understanding-javascript-string-methods-a-comprehensive-guide-cdn)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Diving into Docusaurus codebase](https://dev.to/sdthaker/diving-into-docusaurus-codebase-if1)
 - [Dev.to/JS] [Next.js Conf 2023 was this week, here&#39;s what I learned](https://dev.to/maxfindel/nextjs-conf-2023-was-this-week-heres-what-i-learned-2975)
 - [Dev.to/JS] [JavaScript Data Types](https://dev.to/eminaltan/javascript-data-types-kfa)
-- [Dev.to/JS] [Now I&#39;m learning web development](https://dev.to/nasirullah/now-im-learning-web-development-323i)
-- [Dev.to/JS] [Cross Site Scripting attacks &lpar;XSS&rpar;](https://dev.to/akshay_lite/cross-site-scripting-attacks-xss-2g4f)
-- [Dev.to/JS] [TITTLE: Exploring the Exciting World of Software Development](https://dev.to/goodlluck/tittle-exploring-the-exciting-world-of-software-development-2f4e)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
-- [Dev.to/JS] [Automating access to a GitHub Repo using Stripe Webhooks and Astro Endpoints](https://dev.to/reeshee/automating-access-to-a-github-repo-using-stripe-webhooks-github-repo-and-astro-endpoints-1kp1)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
