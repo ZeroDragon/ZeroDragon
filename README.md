@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Validate request data with @novice1/validator-joi](https://dev.to/shygyver/validate-request-data-with-novice1validator-joi-29ag)
+- [Dev.to/JS] [Understanding JavaScript String Methods: A Comprehensive Guide](https://dev.to/shreyasico/understanding-javascript-string-methods-a-comprehensive-guide-cdn)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Dev.to/JS] [Enhancing the Weather App with Weekly Forecasts](https://dev.to/vishnudas2003/enhancing-the-weather-app-with-weekly-forecasts-4hh0)
 - [Dev.to/JS] [Best Practices for Writing Clean React Code with Examples](https://dev.to/serifcolakel/best-practices-for-writing-clean-react-code-with-examples-4b90)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TITTLE: Exploring the Exciting World of Software Development](https://dev.to/goodlluck/tittle-exploring-the-exciting-world-of-software-development-2f4e)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
 - [Dev.to/JS] [Automating access to a GitHub Repo using Stripe Webhooks and Astro Endpoints](https://dev.to/reeshee/automating-access-to-a-github-repo-using-stripe-webhooks-github-repo-and-astro-endpoints-1kp1)
-- [Dev.to/JS] [JavaScript Callback Functions Explained: A Beginner&#39;s Guide](https://dev.to/ayushsarode/javascript-callback-functions-explained-a-beginners-guide-9ao)
-- [Dev.to/JS] [Master the Art of Customizing Angular Components 🚀](https://dev.to/khangtrannn/master-the-art-of-customizing-angular-components-2a1e)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
