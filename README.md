@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
+- [Dev.to/JS] [Setting Up a Modern Frontend Build Process with Rollup for SASS and JavaScript](https://dev.to/joxx/setting-up-a-modern-frontend-build-process-with-rollup-for-sass-and-javascript-5d99)
 - [Dev.to/JS] [How to create a custom cursor follower with gsap](https://dev.to/dionarodrigues/how-to-create-a-custom-cursor-follower-with-gsap-87k)
 - [Dev.to/JS] [Testing in JavaScript: A Comprehensive Guide](https://dev.to/outstandingvick/testing-in-javascript-a-comprehensive-guide-2l2n)
 - [Dev.to/JS] [A new way of sharing code](https://dev.to/opensourcee/a-new-way-of-sharing-code-1327)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Practices for Writing Clean React Code with Examples](https://dev.to/serifcolakel/best-practices-for-writing-clean-react-code-with-examples-4b90)
 - [Dev.to/JS] [Adding new feature to my project](https://dev.to/sdthaker/adding-new-feature-to-my-project-4dgc)
 - [Dev.to/JS] [Diving into Docusaurus codebase](https://dev.to/sdthaker/diving-into-docusaurus-codebase-if1)
-- [Dev.to/JS] [Next.js Conf 2023 was this week, here&#39;s what I learned](https://dev.to/maxfindel/nextjs-conf-2023-was-this-week-heres-what-i-learned-2975)
-- [Dev.to/JS] [JavaScript Data Types](https://dev.to/eminaltan/javascript-data-types-kfa)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
