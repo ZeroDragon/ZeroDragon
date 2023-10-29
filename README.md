@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Automating access to a GitHub Repo using Stripe Webhooks, GitHub repo and Astro Endpoints](https://dev.to/reeshee/automating-access-to-a-github-repo-using-stripe-webhooks-github-repo-and-astro-endpoints-1kp1)
+- [Dev.to/JS] [Next.js Conf 2023 was this week, here&#39;s what I learned](https://dev.to/maxfindel/nextjs-conf-2023-was-this-week-heres-what-i-learned-2975)
+- [Dev.to/JS] [JavaScript Data Types](https://dev.to/eminaltan/javascript-data-types-kfa)
+- [Dev.to/JS] [Now I&#39;m learning web development](https://dev.to/nasirullah/now-im-learning-web-development-323i)
+- [Dev.to/JS] [Cross Site Scripting attacks &lpar;XSS&rpar;](https://dev.to/akshay_lite/cross-site-scripting-attacks-xss-2g4f)
+- [Dev.to/JS] [TITTLE: Exploring the Exciting World of Software Development](https://dev.to/goodlluck/tittle-exploring-the-exciting-world-of-software-development-2f4e)
+- [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
+- [Dev.to/JS] [Automating access to a GitHub Repo using Stripe Webhooks and Astro Endpoints](https://dev.to/reeshee/automating-access-to-a-github-repo-using-stripe-webhooks-github-repo-and-astro-endpoints-1kp1)
 - [Dev.to/JS] [JavaScript Callback Functions Explained: A Beginner&#39;s Guide](https://dev.to/ayushsarode/javascript-callback-functions-explained-a-beginners-guide-9ao)
 - [Dev.to/JS] [Master the Art of Customizing Angular Components 🚀](https://dev.to/khangtrannn/master-the-art-of-customizing-angular-components-2a1e)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
@@ -34,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Must-have Skills to Become a Frontend Developer in 6 Months &lpar;Roadmap 2024&rpar;](https://dev.to/codewithshahan/must-have-frontend-development-skills-roadmap-2024-28jc)
 - [Dev.to/JS] [Creating a Dynamic Star Rating System in React](https://dev.to/kartikbudhraja/creating-a-dynamic-star-rating-system-in-react-2c8)
 - [Dev.to/JS] [ALL NEW NEXT.JS 14 IS HERE](https://dev.to/bhavesh_yadav/all-new-nextjs-14-is-here-5ja)
-- [Dev.to/JS] [Debouncing and Throttling in React: A Simplified Guide](https://dev.to/shriharimurali/debouncing-and-throttling-in-react-a-simplified-guide-31mo)
-- [Dev.to/JS] [Exploring the World of WebGL: An Introduction to 3D Web Graphics](https://dev.to/remotikalinc/exploring-the-world-of-webgl-an-introduction-to-3d-web-graphics-4llj)
-- [Dev.to/JS] [What is callback function in JavaScript](https://dev.to/xuho/what-is-callback-function-in-javascript-1ecl)
-- [Dev.to/JS] [Using Earth Engine asset ID to access ImageCollection in Earth Engine IDE for filtering](https://dev.to/geedevs-nairobi/using-earth-engine-asset-id-to-access-imagecollection-in-earth-engine-ide-for-filtering-462p)
-- [Dev.to/JS] [“爱好”广泛的闫丽梦让人唾弃](https://dev.to/xueqing79973147/ai-hao-yan-fan-de-yan-li-meng-rang-ren-tuo-qi-4408)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
 - [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These AI-Powered Apps Can Help You Save Money](https://lifehacker.com/these-ai-powered-apps-can-help-you-save-money-1850957278)
 - [Lifehacker] [The 30 Best Teen Movies You Can Stream Right Now](https://lifehacker.com/best-teen-movies-streaming-1850962642)
 - [Lifehacker] [This Bird eBike Is on Sale for $850](https://lifehacker.com/this-bird-ebike-is-on-sale-for-850-1850958669)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Gen Z Goes to Work, Finds It Time-Consuming](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-go-1850965502)
-- [Lifehacker] [TikTok Myth of the Week: All Your Problems Are Due to High Cortisol](https://lifehacker.com/tiktok-myth-of-the-week-all-your-problems-are-due-to-h-1850963889)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Gen Z Goes to Work, Finds It Time-Consuming](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-go-1850965502)<!-- TECH-POSTS:END -->
 
 ---
 
