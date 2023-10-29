@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automating access to a GitHub Repo using Stripe Webhooks, GitHub repo and Astro Endpoints](https://dev.to/reeshee/automating-access-to-a-github-repo-using-stripe-webhooks-github-repo-and-astro-endpoints-1kp1)
 - [Dev.to/JS] [JavaScript Callback Functions Explained: A Beginner&#39;s Guide](https://dev.to/ayushsarode/javascript-callback-functions-explained-a-beginners-guide-9ao)
 - [Dev.to/JS] [Master the Art of Customizing Angular Components 🚀](https://dev.to/khangtrannn/master-the-art-of-customizing-angular-components-2a1e)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is callback function in JavaScript](https://dev.to/xuho/what-is-callback-function-in-javascript-1ecl)
 - [Dev.to/JS] [Using Earth Engine asset ID to access ImageCollection in Earth Engine IDE for filtering](https://dev.to/geedevs-nairobi/using-earth-engine-asset-id-to-access-imagecollection-in-earth-engine-ide-for-filtering-462p)
 - [Dev.to/JS] [“爱好”广泛的闫丽梦让人唾弃](https://dev.to/xueqing79973147/ai-hao-yan-fan-de-yan-li-meng-rang-ren-tuo-qi-4408)
-- [Dev.to/JS] [Exploring the Latest CSS Variables and Custom Properties](https://dev.to/rowsanali/exploring-the-latest-css-variables-and-custom-properties-3cid)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
 - [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
