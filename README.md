@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
+- [Dev.to/JS] [Enhancing the Weather App with Weekly Forecasts](https://dev.to/vishnudas2003/enhancing-the-weather-app-with-weekly-forecasts-4hh0)
+- [Dev.to/JS] [Best Practices for Writing Clean React Code with Examples](https://dev.to/serifcolakel/best-practices-for-writing-clean-react-code-with-examples-4b90)
+- [Dev.to/JS] [Adding new feature to my project](https://dev.to/sdthaker/adding-new-feature-to-my-project-4dgc)
+- [Dev.to/JS] [Diving into Docusaurus codebase](https://dev.to/sdthaker/diving-into-docusaurus-codebase-if1)
 - [Dev.to/JS] [Next.js Conf 2023 was this week, here&#39;s what I learned](https://dev.to/maxfindel/nextjs-conf-2023-was-this-week-heres-what-i-learned-2975)
 - [Dev.to/JS] [JavaScript Data Types](https://dev.to/eminaltan/javascript-data-types-kfa)
 - [Dev.to/JS] [Now I&#39;m learning web development](https://dev.to/nasirullah/now-im-learning-web-development-323i)
@@ -36,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Callback Functions Explained: A Beginner&#39;s Guide](https://dev.to/ayushsarode/javascript-callback-functions-explained-a-beginners-guide-9ao)
 - [Dev.to/JS] [Master the Art of Customizing Angular Components 🚀](https://dev.to/khangtrannn/master-the-art-of-customizing-angular-components-2a1e)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
-- [Dev.to/JS] [TypeScript vs. JavaScript: Making the Right Choice for Your Project](https://dev.to/baransel/typescript-vs-javascript-making-the-right-choice-for-your-project-5blo)
-- [Dev.to/JS] [Must-have Skills to Become a Frontend Developer in 6 Months &lpar;Roadmap 2024&rpar;](https://dev.to/codewithshahan/must-have-frontend-development-skills-roadmap-2024-28jc)
-- [Dev.to/JS] [Creating a Dynamic Star Rating System in React](https://dev.to/kartikbudhraja/creating-a-dynamic-star-rating-system-in-react-2c8)
-- [Dev.to/JS] [ALL NEW NEXT.JS 14 IS HERE](https://dev.to/bhavesh_yadav/all-new-nextjs-14-is-here-5ja)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
 - [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Music Streaming Services](https://lifehacker.com/the-best-music-streaming-services-1850864544)
 - [Lifehacker] [These AI-Powered Apps Can Help You Save Money](https://lifehacker.com/these-ai-powered-apps-can-help-you-save-money-1850957278)
 - [Lifehacker] [The 30 Best Teen Movies You Can Stream Right Now](https://lifehacker.com/best-teen-movies-streaming-1850962642)
-- [Lifehacker] [This Bird eBike Is on Sale for $850](https://lifehacker.com/this-bird-ebike-is-on-sale-for-850-1850958669)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Gen Z Goes to Work, Finds It Time-Consuming](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-go-1850965502)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Bird eBike Is on Sale for $850](https://lifehacker.com/this-bird-ebike-is-on-sale-for-850-1850958669)<!-- TECH-POSTS:END -->
 
 ---
 
