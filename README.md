@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best VS Code Extension for HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/best-vs-code-extension-for-html-css-and-javascript-b2l)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
 - [Dev.to/JS] [Regular Expressions &lpar;Regex&rpar; in JavaScript Tutorial](https://dev.to/kiararj/regular-expressions-regex-in-javascript-tutorial-39en)
 - [Dev.to/JS] [Simplifying HTTP Requests in Angular with Generic HTTP Services](https://dev.to/charkourkoulis/simplifying-http-requests-in-angular-with-generic-http-services-1i14)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Throttling in JavaScript: A Comprehensive Guide](https://dev.to/junaidkhan/understanding-throttling-in-javascript-a-comprehensive-guide-3cg3)
 - [Dev.to/JS] [Setting up a new Cloudflare Worker with a custom domain.](https://dev.to/andyjessop/setting-up-a-new-cloudflare-worker-with-a-custom-domain-fl9)
 - [Dev.to/JS] [Tailwind CSS Linear Gradient Randomizer](https://dev.to/learncodeprofessor/tailwind-css-linear-gradient-randomizer-2j36)
-- [Dev.to/JS] [Please how can I achieve this.](https://dev.to/favouraderemi/please-how-can-i-achieve-this-353h)
 - [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
 - [Lifehacker] [If You Still Have Student Loans, at Least They’ll Get You a Free Pizza](https://lifehacker.com/if-you-still-have-student-loans-at-least-they-ll-get-y-1850968678)
 - [Lifehacker] [This Pop-Up Car Tent Is Now Less Than $300](https://lifehacker.com/this-pop-up-car-tent-is-now-less-than-300-1850959395)
