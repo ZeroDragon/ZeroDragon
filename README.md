@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debouncing and Throttling in React: A Simplified Guide](https://dev.to/shriharimurali/debouncing-and-throttling-in-react-a-simplified-guide-31mo)
+- [Dev.to/JS] [Exploring the World of WebGL: An Introduction to 3D Web Graphics](https://dev.to/remotikalinc/exploring-the-world-of-webgl-an-introduction-to-3d-web-graphics-4llj)
+- [Dev.to/JS] [What is callback function in JavaScript](https://dev.to/xuho/what-is-callback-function-in-javascript-1ecl)
+- [Dev.to/JS] [Using Earth Engine asset ID to access ImageCollection in Earth Engine IDE for filtering](https://dev.to/geedevs-nairobi/using-earth-engine-asset-id-to-access-imagecollection-in-earth-engine-ide-for-filtering-462p)
 - [Dev.to/JS] [“爱好”广泛的闫丽梦让人唾弃](https://dev.to/xueqing79973147/ai-hao-yan-fan-de-yan-li-meng-rang-ren-tuo-qi-4408)
 - [Dev.to/JS] [Exploring the Latest CSS Variables and Custom Properties](https://dev.to/rowsanali/exploring-the-latest-css-variables-and-custom-properties-3cid)
 - [Dev.to/JS] [Overcoming Common Frontend Development Challenges](https://dev.to/rowsanali/overcoming-common-frontend-development-challenges-578p)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [25 lines to setup a Form and send Emails in Next.js 14 using Server Actions](https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-1if1)
 - [Dev.to/JS] [Unit-Testing: The Unsung Hero of Code Quality 🛡️](https://dev.to/rahulladumor/unit-testing-the-unsung-hero-of-code-quality-e68)
 - [Dev.to/JS] [30 Killer JavaScript One-Liners That’ll Make You Look Like a Pro 😎](https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el)
-- [Dev.to/JS] [React State Management Basics](https://dev.to/dsibinski/react-state-management-basics-3252)
-- [Dev.to/JS] [React -CSV-Reader](https://dev.to/zeeshanali0704/react-csv-reader-2i0e)
-- [Dev.to/JS] [Best VS Code Extension for HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/best-vs-code-extension-for-html-css-and-javascript-b2l)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
-- [Dev.to/JS] [Regular Expressions &lpar;Regex&rpar; in JavaScript Tutorial](https://dev.to/kiararj/regular-expressions-regex-in-javascript-tutorial-39en)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
 - [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
 - [Lifehacker] [If You Still Have Student Loans, at Least They’ll Get You a Free Pizza](https://lifehacker.com/if-you-still-have-student-loans-at-least-they-ll-get-y-1850968678)
