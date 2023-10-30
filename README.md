@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
 - [Dev.to/JS] [Setting Up AI Prompt in Nuxt.js](https://dev.to/kamruzzaman/setting-up-ai-prompt-in-nuxtjs-16e6)
 - [Dev.to/JS] [Making Curry: JavaScript Functional Programming](https://dev.to/oculus42/making-curry-javascript-functional-programming-2d6e)
 - [Dev.to/JS] [Understanding the Power of React in JavaScript: Exploring its Functions and the Return Statement](https://dev.to/queenice90/understanding-the-power-of-react-in-javascript-exploring-its-functions-and-the-return-statement-4hia)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do Now That Amazon Is Killing Alexa’s IFTTT Integration](https://lifehacker.com/what-to-do-now-that-amazon-is-killing-alexa-s-ifttt-int-1850967474)
 - [Lifehacker] [How to Find Your Apple ID, Even When All Seems Lost](https://lifehacker.com/how-to-find-your-apple-id-even-when-all-seems-lost-1850959114)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
-- [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
-- [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)<!-- TECH-POSTS:END -->
 
 ---
 
