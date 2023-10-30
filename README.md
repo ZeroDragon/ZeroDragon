@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to setup and configure TURN server using coTURN?](https://dev.to/alakkadshaw/how-to-setup-and-configure-turn-server-using-coturn-4oec)
 - [Dev.to/JS] [The Great Fetch vs. Axios Showdown: A Web Development Comedy 😂](https://dev.to/glennlaysonjr/the-great-fetch-vs-axios-showdown-a-web-development-comedy-26ab)
 - [Dev.to/JS] [Docusaurus Rocks!](https://dev.to/amnish04/docusaurus-rocks-30jk)
 - [Dev.to/JS] [JavaScript Number Data Type](https://dev.to/eminaltan/javascript-number-data-type-4b7)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a custom cursor follower with gsap](https://dev.to/dionarodrigues/how-to-create-a-custom-cursor-follower-with-gsap-87k)
 - [Dev.to/JS] [Testing in JavaScript: A Comprehensive Guide](https://dev.to/outstandingvick/testing-in-javascript-a-comprehensive-guide-2l2n)
 - [Dev.to/JS] [A new way of sharing code](https://dev.to/opensourcee/a-new-way-of-sharing-code-1327)
-- [Dev.to/JS] [What&#39;s new in Nextjs 14 ✨](https://dev.to/todayscode14/whats-new-in-nextjs-14-iep)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
