@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Starting an Adventure: Exploring Startups, Coding, and More](https://dev.to/kamesh_dev/starting-an-adventure-exploring-startups-coding-and-more-3lkg)
+- [Lifehacker] [Why You Should Shop the Early Black Friday Deals This Year](https://lifehacker.com/why-you-should-shop-the-early-black-friday-deals-this-y-1850972779)
+- [Dev.to/JS] [Tips for optimizing the build process of an Angular application.](https://dev.to/balajipatnam/tips-for-optimizing-the-build-process-of-an-angular-application-40hg)
+- [Lifehacker] [Evil Week: The ‘Nice’ Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
+- [Lifehacker] [This Dump Cake Is Lazy as Hell, and I Love It](https://lifehacker.com/easy-peach-dump-cake-recipe-1850972867)
 - [Lifehacker] [All the Stuff in Your Home You Should Be Testing for Voltage](https://lifehacker.com/all-the-stuff-in-your-home-you-should-be-testing-for-vo-1850972788)
 - [Dev.to/JS] [TypeScript Generics Demystified: Unlocking the Power of Parametric Polymorphism](https://dev.to/baransel/typescript-generics-demystified-unlocking-the-power-of-parametric-polymorphism-742)
 - [Dev.to/JS] [It&#39;s Easy To Switch from CommonJS to ES Modules with TS2ESM](https://dev.to/typescripttv/its-easy-to-switch-from-commonjs-to-es-modules-with-ts2esm-4chg)
@@ -44,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime Subscription to This Documentary Streaming Service for $169.97](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-this-documentary-1850968516)
 - [Dev.to/JS] [Seeking Opportunities: A Passionate Software Developer Eager to Learn](https://dev.to/devrohit0/seeking-opportunities-a-passionate-software-developer-eager-to-learn-akh)
 - [Lifehacker] [Evil Week: How to Hide Porn on Your Windows PC](https://lifehacker.com/how-to-hide-porn-on-your-windows-pc-1845511290)
-- [Dev.to/JS] [How To Perform Memory Optimization and Garbage Collector Management in Go? &lpar;with code example&rpar;](https://dev.to/nikl/how-to-perform-memory-optimization-and-garbage-collector-management-in-go-1j7)
-- [Dev.to/JS] [Killer JavaScript One-Liners: Code That Packs a Punch!](https://dev.to/saloman_james/killer-javascript-one-liners-code-that-packs-a-punch-4i6)
 - [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
 - [Lifehacker] [The Best All-in-One Desktops You Can Buy in 2023](https://lifehacker.com/the-best-all-in-one-desktops-1850968043)
 - [Lifehacker] [Enable These Accessibility Features on Your Smart TV](https://lifehacker.com/enable-these-accessibility-features-on-your-smart-tv-1850967222)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Pop-Up Car Tent Is Now Less Than $300](https://lifehacker.com/this-pop-up-car-tent-is-now-less-than-300-1850959395)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
 - [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
-- [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
-- [Lifehacker] [You Can Now React to iMessages With Emojis and Stickers](https://lifehacker.com/you-can-now-react-to-imessages-with-emojis-and-stickers-1850967753)
-- [Lifehacker] [These Are the Best Android Apps for 2023](https://lifehacker.com/the-best-android-apps-1850964120)
-- [Lifehacker] [Yes, the FDA Really Did Issue a Warning About Black Licorice](https://lifehacker.com/fda-black-licorice-warning-1839441801)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)<!-- TECH-POSTS:END -->
 
 ---
 
