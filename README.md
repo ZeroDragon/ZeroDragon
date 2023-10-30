@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Essential Web Development Tools You Can&#39;t Live Without](https://dev.to/delia_code/10-essential-web-development-tools-you-cant-live-without-1f0i)
+- [Lifehacker] [The Best All-in-One Desktops You Can Buy in 2023](https://lifehacker.com/the-best-all-in-one-desktops-1850968043)
+- [Dev.to/JS] [Running out of disk space? Delete node_modules](https://dev.to/opensourcee/running-out-of-disk-space-delete-nodemodules-36l6)
+- [Dev.to/JS] [Demystifying Docker: The Future of Efficient Software Deployment](https://dev.to/eneaslari/demystifying-docker-the-future-of-efficient-software-deployment-3naf)
 - [Lifehacker] [Enable These Accessibility Features on Your Smart TV](https://lifehacker.com/enable-these-accessibility-features-on-your-smart-tv-1850967222)
 - [Dev.to/JS] [Learn how to use JavaScript to power UI components based on Tailwind CSS](https://dev.to/themesberg/learn-how-to-use-javascript-to-power-ui-components-based-on-tailwind-css-57ci)
 - [Dev.to/JS] [Useful NPM scripts, Example usage&lpar;Basics Nodejs Series&rpar;](https://dev.to/ajitforger97/useful-npm-scripts-example-usage-2kha)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New React Chart Library For Basic Charts - graphjs-react](https://dev.to/gokhanergentech/new-react-chart-library-for-basic-charts-graphjs-react-16ed)
 - [Dev.to/JS] [Why Functions Are Better Than Classes in React.js](https://dev.to/sidramaqbool/why-functions-are-better-than-classes-in-reactjs-4gee)
 - [Dev.to/JS] [JavaScript BigInt Data Type](https://dev.to/eminaltan/javascript-bigint-data-type-2j1o)
-- [Dev.to/JS] [Mastering Unit-Testing in Microservices: Best Practices Unveiled 🛠️](https://dev.to/rahulladumor/mastering-unit-testing-in-microservices-best-practices-unveiled-2obm)
-- [Dev.to/JS] [Top Trending Unit-Testing Frameworks: The Ultimate Showdown 🥊](https://dev.to/rahulladumor/top-trending-unit-testing-frameworks-the-ultimate-showdown-1h48)
-- [Dev.to/JS] [Nuxt Modules Crash Course](https://dev.to/jacobandrewsky/nuxt-modules-crash-course-1l9c)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/how-to-blanch-and-skin-almonds-1849639820)
 - [Lifehacker] [You Can Get 1TB of Cloud Storage for $120 With This Code](https://lifehacker.com/you-can-get-1tb-of-cloud-storage-for-120-with-this-cod-1850959122)
 - [Lifehacker] [How to Cope When Your Parents Become Toxic Grandparents](https://lifehacker.com/how-to-cope-when-your-parents-become-toxic-grandparents-1850965637)
-- [Lifehacker] [The Best Ways to &lpar;Safely&rpar; Hide Power Outlets](https://lifehacker.com/the-best-ways-to-safely-hide-power-outlets-1850966549)
-- [Lifehacker] [Use the Peg System to Remember Ordered Information](https://lifehacker.com/use-the-peg-system-to-remember-ordered-information-1850966616)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to &lpar;Safely&rpar; Hide Power Outlets](https://lifehacker.com/the-best-ways-to-safely-hide-power-outlets-1850966549)<!-- TECH-POSTS:END -->
 
 ---
 
