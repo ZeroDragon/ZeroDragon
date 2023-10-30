@@ -26,6 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A CRUD ExpressJS example, with React and Vue example usage](https://dev.to/burhanahmeed/a-crud-expressjs-example-with-react-and-vue-example-usage-1bfg)
+- [Dev.to/JS] [My first Year Of Hacktober fest Contribution Journey - 2023](https://dev.to/adamkaram/my-first-year-of-hacktober-fest-contribution-journey-2023-2l9i)
+- [Dev.to/JS] [My first Year Of Hacktober fest Contribution Journey - 2023](https://dev.to/adamkaram/my-first-year-of-hacktober-fest-contribution-journey-2023-5d8j)
+- [Lifehacker] [You Can Get a Lifetime Subscription to This Documentary Streaming Service for $169.97](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-this-documentary-1850968516)
+- [Dev.to/JS] [Seeking Opportunities: A Passionate Software Developer Eager to Learn](https://dev.to/devrohit0/seeking-opportunities-a-passionate-software-developer-eager-to-learn-akh)
+- [Lifehacker] [Evil Week: How to Hide Porn on Your Windows PC](https://lifehacker.com/how-to-hide-porn-on-your-windows-pc-1845511290)
+- [Dev.to/JS] [How To Perform Memory Optimization and Garbage Collector Management in Go? &lpar;with code example&rpar;](https://dev.to/nikl/how-to-perform-memory-optimization-and-garbage-collector-management-in-go-1j7)
+- [Dev.to/JS] [Killer JavaScript One-Liners: Code That Packs a Punch!](https://dev.to/saloman_james/killer-javascript-one-liners-code-that-packs-a-punch-4i6)
+- [Dev.to/JS] [Using CSS variables with AntD Design system](https://dev.to/mvpv/using-css-variables-with-antd-design-system-3li2)
+- [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
 - [Dev.to/JS] [10 Essential Web Development Tools You Can&#39;t Live Without](https://dev.to/delia_code/10-essential-web-development-tools-you-cant-live-without-1f0i)
 - [Lifehacker] [The Best All-in-One Desktops You Can Buy in 2023](https://lifehacker.com/the-best-all-in-one-desktops-1850968043)
 - [Dev.to/JS] [Running out of disk space? Delete node_modules](https://dev.to/opensourcee/running-out-of-disk-space-delete-nodemodules-36l6)
@@ -33,15 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Enable These Accessibility Features on Your Smart TV](https://lifehacker.com/enable-these-accessibility-features-on-your-smart-tv-1850967222)
 - [Dev.to/JS] [Learn how to use JavaScript to power UI components based on Tailwind CSS](https://dev.to/themesberg/learn-how-to-use-javascript-to-power-ui-components-based-on-tailwind-css-57ci)
 - [Dev.to/JS] [Useful NPM scripts, Example usage&lpar;Basics Nodejs Series&rpar;](https://dev.to/ajitforger97/useful-npm-scripts-example-usage-2kha)
-- [Dev.to/JS] [Build an AI Powered Moderation System in Under 10 Minutes Using JavaScript](https://dev.to/pezzo/build-an-ai-powered-moderation-system-in-under-10-minutes-using-javascript-a6d)
 - [Lifehacker] [What to Do Now That Amazon Is Killing Alexa’s IFTTT Integration](https://lifehacker.com/what-to-do-now-that-amazon-is-killing-alexa-s-ifttt-int-1850967474)
-- [Dev.to/JS] [ডাটা টাইপ ইন জাভাস্ক্রিপ্ট](https://dev.to/nazsakib/ddaattaa-ttaaip-in-jaabhaaskriptt-2l72)
-- [Dev.to/JS] [From Beginner to Expert: The Juniper Certification Pathway](https://dev.to/roseberry0085/from-beginner-to-expert-the-juniper-certification-pathway-4obb)
 - [Lifehacker] [How to Find Your Apple ID, Even When All Seems Lost](https://lifehacker.com/how-to-find-your-apple-id-even-when-all-seems-lost-1850959114)
-- [Dev.to/JS] [I&#39;ve had enough of checking the GitHub trending feed... 😡](https://dev.to/github20k/ive-had-enough-of-checking-the-github-trending-feed-4l16)
-- [Dev.to/JS] [New React Chart Library For Basic Charts - graphjs-react](https://dev.to/gokhanergentech/new-react-chart-library-for-basic-charts-graphjs-react-16ed)
-- [Dev.to/JS] [Why Functions Are Better Than Classes in React.js](https://dev.to/sidramaqbool/why-functions-are-better-than-classes-in-reactjs-4gee)
-- [Dev.to/JS] [JavaScript BigInt Data Type](https://dev.to/eminaltan/javascript-bigint-data-type-2j1o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Access Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [Hot Chicken Sliders Should Make a Football Appearance This Weekend](https://lifehacker.com/2-45-hot-chicken-slider-recipe-1850967503)
 - [Lifehacker] [These Dell Laptops and Monitors Are Already Half Off for Black Friday](https://lifehacker.com/these-dell-laptops-and-monitors-are-already-half-off-fo-1850967603)
-- [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/how-to-blanch-and-skin-almonds-1849639820)
-- [Lifehacker] [You Can Get 1TB of Cloud Storage for $120 With This Code](https://lifehacker.com/you-can-get-1tb-of-cloud-storage-for-120-with-this-cod-1850959122)
-- [Lifehacker] [How to Cope When Your Parents Become Toxic Grandparents](https://lifehacker.com/how-to-cope-when-your-parents-become-toxic-grandparents-1850965637)
-- [Lifehacker] [The Best Ways to &lpar;Safely&rpar; Hide Power Outlets](https://lifehacker.com/the-best-ways-to-safely-hide-power-outlets-1850966549)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/how-to-blanch-and-skin-almonds-1849639820)<!-- TECH-POSTS:END -->
 
 ---
 
