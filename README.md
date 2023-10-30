@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript : The &#39;this&#39; Keyword &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-the-this-keyword-englishhindi-4jmo)
+- [Dev.to/JS] [SMTP.js – Send Email without a Server from the Browser](https://dev.to/scofieldidehen/smtpjs-send-email-without-a-server-from-the-browser-2oo2)
 - [Dev.to/JS] [My 3rd Year Of Hacktober fest Contribution Journey - 2023](https://dev.to/pratap360/my-3rd-year-of-hacktober-fest-contribution-journey-2023-3ckg)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
 - [Dev.to/JS] [Reading Docusaurus code](https://dev.to/avelynhc/reading-docusaurus-code-ggm)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript String Data Type](https://dev.to/eminaltan/javascript-string-data-type-5643)
 - [Dev.to/JS] [Undefined vs Null in JavaScript: Deciphering the Void Magic](https://dev.to/init_chandan/undefined-vs-null-in-javascript-deciphering-the-void-magic-4hj)
 - [Dev.to/JS] [Detailed Explanation of JavaScript Prototype Chain](https://dev.to/shingaiz/detailed-explanation-of-javascript-prototype-chain-prototype-1392)
-- [Dev.to/JS] [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
-- [Dev.to/JS] [Setting Up a Modern Frontend Build Process with Rollup for SASS and JavaScript](https://dev.to/joxx/setting-up-a-modern-frontend-build-process-with-rollup-for-sass-and-javascript-5d99)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
