@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Stuff in Your Home You Should Be Testing for Voltage](https://lifehacker.com/all-the-stuff-in-your-home-you-should-be-testing-for-vo-1850972788)
+- [Dev.to/JS] [TypeScript Generics Demystified: Unlocking the Power of Parametric Polymorphism](https://dev.to/baransel/typescript-generics-demystified-unlocking-the-power-of-parametric-polymorphism-742)
+- [Dev.to/JS] [It&#39;s Easy To Switch from CommonJS to ES Modules with TS2ESM](https://dev.to/typescripttv/its-easy-to-switch-from-commonjs-to-es-modules-with-ts2esm-4chg)
+- [Lifehacker] [Evil Week: How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)
+- [Lifehacker] [This Eight-Piece Japanese Knife Set Is $130 Right Now](https://lifehacker.com/this-eight-piece-japanese-knife-set-is-130-right-now-1850968556)
 - [Dev.to/JS] [Quick overview of Next JS 14 Updates](https://dev.to/mukeshkuiry/quick-overview-of-next-js-14-updates-521o)
 - [Dev.to/JS] [My first React JS work](https://dev.to/yesiamanerd/my-first-react-js-work-5en5)
 - [Lifehacker] [You Can Automatically &lpar;Temporarily&rpar; Disable Your Apple Music Listening History](https://lifehacker.com/you-can-automatically-temporarily-disable-your-apple-1850769572)
@@ -41,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: How to Hide Porn on Your Windows PC](https://lifehacker.com/how-to-hide-porn-on-your-windows-pc-1845511290)
 - [Dev.to/JS] [How To Perform Memory Optimization and Garbage Collector Management in Go? &lpar;with code example&rpar;](https://dev.to/nikl/how-to-perform-memory-optimization-and-garbage-collector-management-in-go-1j7)
 - [Dev.to/JS] [Killer JavaScript One-Liners: Code That Packs a Punch!](https://dev.to/saloman_james/killer-javascript-one-liners-code-that-packs-a-punch-4i6)
-- [Dev.to/JS] [Using CSS variables with AntD Design system](https://dev.to/mvpv/using-css-variables-with-antd-design-system-3li2)
 - [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
-- [Dev.to/JS] [10 Essential Web Development Tools You Can&#39;t Live Without](https://dev.to/delia_code/10-essential-web-development-tools-you-cant-live-without-1f0i)
 - [Lifehacker] [The Best All-in-One Desktops You Can Buy in 2023](https://lifehacker.com/the-best-all-in-one-desktops-1850968043)
 - [Lifehacker] [Enable These Accessibility Features on Your Smart TV](https://lifehacker.com/enable-these-accessibility-features-on-your-smart-tv-1850967222)
 - [Lifehacker] [What to Do Now That Amazon Is Killing Alexa’s IFTTT Integration](https://lifehacker.com/what-to-do-now-that-amazon-is-killing-alexa-s-ifttt-int-1850967474)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)
 - [Lifehacker] [You Can Now React to iMessages With Emojis and Stickers](https://lifehacker.com/you-can-now-react-to-imessages-with-emojis-and-stickers-1850967753)
 - [Lifehacker] [These Are the Best Android Apps for 2023](https://lifehacker.com/the-best-android-apps-1850964120)
-- [Lifehacker] [Yes, the FDA Really Did Issue a Warning About Black Licorice](https://lifehacker.com/fda-black-licorice-warning-1839441801)
-- [Lifehacker] [9 Lies Contractors Tell](https://lifehacker.com/9-lies-contractors-tell-1850967181)
-- [Lifehacker] [I&#39;ll Take the Check, When You Have a Moment](https://lifehacker.com/lifehackers-best-food-hacks-ever-1850967435)
-- [Lifehacker] [The Best Deals From Best Buy&#39;s Early Access Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yes, the FDA Really Did Issue a Warning About Black Licorice](https://lifehacker.com/fda-black-licorice-warning-1839441801)<!-- TECH-POSTS:END -->
 
 ---
 
