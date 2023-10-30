@@ -26,13 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don&#39;t follow me, I&#39;m lost too](https://dev.to/lorainevilches/dont-follow-me-im-lost-too-1l9k)
+- [Lifehacker] [Send a Pencil-and-Paper Battleship Game in Your Kid&#39;s Lunchbox](https://lifehacker.com/play-battleship-with-pen-and-paper-rules-1850974186)
+- [Lifehacker] [The Easiest Way to Clean Blinds](https://lifehacker.com/quickly-clean-window-blinds-by-wrapping-tongs-in-microf-1788463255)
 - [Lifehacker] [Evil Week: How to View Someone Else&#39;s TikToks Anonymously](https://lifehacker.com/evil-week-how-to-view-someone-elses-tiktoks-anonymousl-1850973668)
 - [Dev.to/JS] [Source-to-Action with Dagger](https://dev.to/trustacks/source-to-action-with-dagger-3km0)
 - [Lifehacker] [It&#39;s Time to Reverse Your Ceiling Fans](https://lifehacker.com/its-time-to-reverse-your-ceiling-fans-1850973629)
+- [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [This Lifetime Learning Subscription Is $160 Through the Rest of October](https://lifehacker.com/this-lifetime-learning-subscription-is-160-through-the-1850968565)
 - [Dev.to/JS] [Performance Devtools](https://dev.to/ajay-8192/performance-devtools-3d1c)
 - [Lifehacker] [Evil Week: Trick Your Family Into Eating Lots of Tofu](https://lifehacker.com/evil-week-trick-your-family-into-eating-lots-of-tofu-1850973486)
-- [Dev.to/JS] [DON&#39;T Just a Programmer Be a COACH!](https://dev.to/codewithshahan/dont-just-a-programmer-be-a-coach-1b2l)
+- [Dev.to/JS] [Be a coach; don&#39;t just be a programmer](https://dev.to/codewithshahan/dont-just-a-programmer-be-a-coach-1b2l)
 - [Lifehacker] [Evil Week: How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
 - [Dev.to/JS] [Create a React app using Webpack 5](https://dev.to/ajay-8192/create-a-react-app-using-webpack-5-afl)
 - [Lifehacker] [These Accessories Will No Longer Work on Your Xbox Next Month](https://lifehacker.com/these-accessories-will-no-longer-work-on-your-xbox-next-1850972910)
@@ -51,7 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Automatically &lpar;Temporarily&rpar; Disable Your Apple Music Listening History](https://lifehacker.com/you-can-automatically-temporarily-disable-your-apple-1850769572)
 - [Lifehacker] [Evil Week: How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
 - [Dev.to/JS] [Props In React JS Functional Components](https://dev.to/shoyeb001/props-in-react-js-functional-components-2b8h)
-- [Dev.to/JS] [LeetCode - Solution for 2625. Flatten Deeply Nested Array](https://dev.to/jenchen/leetcode-solution-for-2625-flatten-deeply-nested-array-18nl)
 - [Lifehacker] [Welcome Back to Evil Week](https://lifehacker.com/welcome-back-to-evil-week-1850972262)
 - [Lifehacker] [You Can Get a Lifetime Subscription to This Documentary Streaming Service for $169.97](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-this-documentary-1850968516)
 - [Lifehacker] [Evil Week: How to Hide Porn on Your Windows PC](https://lifehacker.com/how-to-hide-porn-on-your-windows-pc-1845511290)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find Your Apple ID, Even When All Seems Lost](https://lifehacker.com/how-to-find-your-apple-id-even-when-all-seems-lost-1850959114)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
-- [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
-- [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
-- [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)<!-- TECH-POSTS:END -->
 
 ---
 
