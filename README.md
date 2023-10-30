@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;ve had enough of checking the GitHub trending feed... 😡](https://dev.to/github20k/ive-had-enough-of-checking-the-github-trending-feed-4l16)
 - [Dev.to/JS] [New React Chart Library For Basic Charts - graphjs-react](https://dev.to/gokhanergentech/new-react-chart-library-for-basic-charts-graphjs-react-16ed)
 - [Dev.to/JS] [Why Functions Are Better Than Classes in React.js](https://dev.to/sidramaqbool/why-functions-are-better-than-classes-in-reactjs-4gee)
 - [Dev.to/JS] [JavaScript BigInt Data Type](https://dev.to/eminaltan/javascript-bigint-data-type-2j1o)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implement complex requests declaratively, making the code more elegant](https://dev.to/coderhu/implement-complex-requests-declaratively-making-the-code-more-elegant-1ef5)
 - [Dev.to/JS] [Bringing 3D to Life: Integrating Three.js with React, Redux and MUI](https://dev.to/chamallakshika09/bringing-3d-to-life-integrating-threejs-with-react-redux-and-mui-5388)
 - [Dev.to/JS] [Building Single-Page Applications &lpar;SPAs&rpar; with JavaScript and React](https://dev.to/rowsanali/building-single-page-applications-spas-with-javascript-and-react-3fcl)
-- [Dev.to/JS] [TF #21 | Your weekly frontend digest](https://dev.to/tech_foutraque/tf-21-your-weekly-frontend-digest-50ch)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
