@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why You Should Never Use &lpar;==&rpar; in JavaScript](https://dev.to/quratulaiinn/why-you-should-never-use-in-javascript-1lo0)
+- [Dev.to/JS] [Multi Step Form With Progress Bar Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/multi-step-form-with-progress-bar-using-html-css-javascript-27g4)
+- [Dev.to/JS] [Pub-Sub using ES6 Promise](https://dev.to/kiranmantha/pub-sub-using-es6-promise-38kj)
+- [Dev.to/JS] [The Rise of TypeScript: A Strongly Typed JavaScript Superset](https://dev.to/saloman_james/the-rise-of-typescript-a-strongly-typed-javascript-superset-5b27)
 - [Dev.to/JS] [JavaScript : The &#39;this&#39; Keyword &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-the-this-keyword-englishhindi-4jmo)
 - [Dev.to/JS] [SMTP.js – Send Email without a Server from the Browser](https://dev.to/scofieldidehen/smtpjs-send-email-without-a-server-from-the-browser-2oo2)
 - [Dev.to/JS] [My 3rd Year Of Hacktober fest Contribution Journey - 2023](https://dev.to/pratap360/my-3rd-year-of-hacktober-fest-contribution-journey-2023-3ckg)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Great Fetch vs. Axios Showdown: A Web Development Comedy 😂](https://dev.to/glennlaysonjr/the-great-fetch-vs-axios-showdown-a-web-development-comedy-26ab)
 - [Dev.to/JS] [Implement a Simple Version Control with JavaScript to Understand Git Better!](https://dev.to/pshaddel/implement-a-simple-version-control-with-javascript-to-understand-git-better-48i6)
 - [Dev.to/JS] [Docusaurus Rocks!](https://dev.to/amnish04/docusaurus-rocks-30jk)
-- [Dev.to/JS] [JavaScript Number Data Type](https://dev.to/eminaltan/javascript-number-data-type-4b7)
-- [Dev.to/JS] [JavaScript String Data Type](https://dev.to/eminaltan/javascript-string-data-type-5643)
-- [Dev.to/JS] [Undefined vs Null in JavaScript: Deciphering the Void Magic](https://dev.to/init_chandan/undefined-vs-null-in-javascript-deciphering-the-void-magic-4hj)
-- [Dev.to/JS] [Detailed Explanation of JavaScript Prototype Chain](https://dev.to/shingaiz/detailed-explanation-of-javascript-prototype-chain-prototype-1392)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
