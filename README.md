@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Enable These Accessibility Features on Your Smart TV](https://lifehacker.com/enable-these-accessibility-features-on-your-smart-tv-1850967222)
+- [Dev.to/JS] [Learn how to use JavaScript to power UI components based on Tailwind CSS](https://dev.to/themesberg/learn-how-to-use-javascript-to-power-ui-components-based-on-tailwind-css-57ci)
+- [Dev.to/JS] [Useful NPM scripts, Example usage&lpar;Basics Nodejs Series&rpar;](https://dev.to/ajitforger97/useful-npm-scripts-example-usage-2kha)
+- [Dev.to/JS] [Build an AI Powered Moderation System in Under 10 Minutes Using JavaScript](https://dev.to/pezzo/build-an-ai-powered-moderation-system-in-under-10-minutes-using-javascript-a6d)
+- [Lifehacker] [What to Do Now That Amazon Is Killing Alexa’s IFTTT Integration](https://lifehacker.com/what-to-do-now-that-amazon-is-killing-alexa-s-ifttt-int-1850967474)
+- [Dev.to/JS] [ডাটা টাইপ ইন জাভাস্ক্রিপ্ট](https://dev.to/nazsakib/ddaattaa-ttaaip-in-jaabhaaskriptt-2l72)
+- [Dev.to/JS] [From Beginner to Expert: The Juniper Certification Pathway](https://dev.to/roseberry0085/from-beginner-to-expert-the-juniper-certification-pathway-4obb)
+- [Lifehacker] [How to Find Your Apple ID, Even When All Seems Lost](https://lifehacker.com/how-to-find-your-apple-id-even-when-all-seems-lost-1850959114)
 - [Dev.to/JS] [I&#39;ve had enough of checking the GitHub trending feed... 😡](https://dev.to/github20k/ive-had-enough-of-checking-the-github-trending-feed-4l16)
 - [Dev.to/JS] [New React Chart Library For Basic Charts - graphjs-react](https://dev.to/gokhanergentech/new-react-chart-library-for-basic-charts-graphjs-react-16ed)
 - [Dev.to/JS] [Why Functions Are Better Than Classes in React.js](https://dev.to/sidramaqbool/why-functions-are-better-than-classes-in-reactjs-4gee)
@@ -33,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Unit-Testing in Microservices: Best Practices Unveiled 🛠️](https://dev.to/rahulladumor/mastering-unit-testing-in-microservices-best-practices-unveiled-2obm)
 - [Dev.to/JS] [Top Trending Unit-Testing Frameworks: The Ultimate Showdown 🥊](https://dev.to/rahulladumor/top-trending-unit-testing-frameworks-the-ultimate-showdown-1h48)
 - [Dev.to/JS] [Nuxt Modules Crash Course](https://dev.to/jacobandrewsky/nuxt-modules-crash-course-1l9c)
-- [Dev.to/JS] [Easy Leafz CBD Gummies Reviews Canada, Where to Buy in Canada?](https://dev.to/buyeasyleafzcbd/easy-leafz-cbd-gummies-reviews-canada-where-to-buy-in-canada-38bi)
-- [Dev.to/JS] [Scrape Google Trends Trending Now in Javascript](https://dev.to/terrytanys/scrape-google-trends-trending-now-in-javascript-421p)
-- [Dev.to/JS] [Implement complex requests declaratively, making the code more elegant](https://dev.to/coderhu/implement-complex-requests-declaratively-making-the-code-more-elegant-1ef5)
-- [Dev.to/JS] [Bringing 3D to Life: Integrating Three.js with React, Redux and MUI](https://dev.to/chamallakshika09/bringing-3d-to-life-integrating-threejs-with-react-redux-and-mui-5388)
-- [Dev.to/JS] [Building Single-Page Applications &lpar;SPAs&rpar; with JavaScript and React](https://dev.to/rowsanali/building-single-page-applications-spas-with-javascript-and-react-3fcl)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get 1TB of Cloud Storage for $120 With This Code](https://lifehacker.com/you-can-get-1tb-of-cloud-storage-for-120-with-this-cod-1850959122)
 - [Lifehacker] [How to Cope When Your Parents Become Toxic Grandparents](https://lifehacker.com/how-to-cope-when-your-parents-become-toxic-grandparents-1850965637)
 - [Lifehacker] [The Best Ways to &lpar;Safely&rpar; Hide Power Outlets](https://lifehacker.com/the-best-ways-to-safely-hide-power-outlets-1850966549)
-- [Lifehacker] [Use the Peg System to Remember Ordered Information](https://lifehacker.com/use-the-peg-system-to-remember-ordered-information-1850966616)
-- [Lifehacker] [These Are the Best Music Streaming Services](https://lifehacker.com/the-best-music-streaming-services-1850864544)
-- [Lifehacker] [These AI-Powered Apps Can Help You Save Money](https://lifehacker.com/these-ai-powered-apps-can-help-you-save-money-1850957278)
-- [Lifehacker] [The 30 Best Teen Movies You Can Stream Right Now](https://lifehacker.com/best-teen-movies-streaming-1850962642)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the Peg System to Remember Ordered Information](https://lifehacker.com/use-the-peg-system-to-remember-ordered-information-1850966616)<!-- TECH-POSTS:END -->
 
 ---
 
