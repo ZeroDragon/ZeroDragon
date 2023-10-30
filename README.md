@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Lifetime Learning Subscription Is $160 Through the Rest of October](https://lifehacker.com/this-lifetime-learning-subscription-is-160-through-the-1850968565)
+- [Dev.to/JS] [Performance Devtools](https://dev.to/ajay-8192/performance-devtools-3d1c)
+- [Lifehacker] [Evil Week: Trick Your Family Into Eating Lots of Tofu](https://lifehacker.com/evil-week-trick-your-family-into-eating-lots-of-tofu-1850973486)
+- [Dev.to/JS] [DON&#39;T Just a Programmer Be a COACH!](https://dev.to/codewithshahan/dont-just-a-programmer-be-a-coach-1b2l)
+- [Lifehacker] [Evil Week: How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
+- [Dev.to/JS] [Create a React app using Webpack 5](https://dev.to/ajay-8192/create-a-react-app-using-webpack-5-afl)
+- [Lifehacker] [These Accessories Will No Longer Work on Your Xbox Next Month](https://lifehacker.com/these-accessories-will-no-longer-work-on-your-xbox-next-1850972910)
 - [Dev.to/JS] [Starting an Adventure: Exploring Startups, Coding, and More](https://dev.to/kamesh_dev/starting-an-adventure-exploring-startups-coding-and-more-3lkg)
 - [Lifehacker] [Why You Should Shop the Early Black Friday Deals This Year](https://lifehacker.com/why-you-should-shop-the-early-black-friday-deals-this-y-1850972779)
 - [Dev.to/JS] [Tips for optimizing the build process of an Angular application.](https://dev.to/balajipatnam/tips-for-optimizing-the-build-process-of-an-angular-application-40hg)
@@ -44,10 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Solution for 2625. Flatten Deeply Nested Array](https://dev.to/jenchen/leetcode-solution-for-2625-flatten-deeply-nested-array-18nl)
 - [Lifehacker] [Welcome Back to Evil Week](https://lifehacker.com/welcome-back-to-evil-week-1850972262)
 - [Dev.to/JS] [A CRUD ExpressJS example, with React and Vue example usage](https://dev.to/burhanahmeed/a-crud-expressjs-example-with-react-and-vue-example-usage-1bfg)
-- [Dev.to/JS] [My first Year Of Hacktober fest Contribution Journey - 2023](https://dev.to/adamkaram/my-first-year-of-hacktober-fest-contribution-journey-2023-2l9i)
-- [Dev.to/JS] [My first Year Of Hacktober fest Contribution Journey - 2023](https://dev.to/adamkaram/my-first-year-of-hacktober-fest-contribution-journey-2023-5d8j)
 - [Lifehacker] [You Can Get a Lifetime Subscription to This Documentary Streaming Service for $169.97](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-this-documentary-1850968516)
-- [Dev.to/JS] [Seeking Opportunities: A Passionate Software Developer Eager to Learn](https://dev.to/devrohit0/seeking-opportunities-a-passionate-software-developer-eager-to-learn-akh)
 - [Lifehacker] [Evil Week: How to Hide Porn on Your Windows PC](https://lifehacker.com/how-to-hide-porn-on-your-windows-pc-1845511290)
 - [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
 - [Lifehacker] [The Best All-in-One Desktops You Can Buy in 2023](https://lifehacker.com/the-best-all-in-one-desktops-1850968043)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
 - [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
 - [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
-- [Lifehacker] [If You Still Have Student Loans, at Least They’ll Get You a Free Pizza](https://lifehacker.com/if-you-still-have-student-loans-at-least-they-ll-get-y-1850968678)
-- [Lifehacker] [This Pop-Up Car Tent Is Now Less Than $300](https://lifehacker.com/this-pop-up-car-tent-is-now-less-than-300-1850959395)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, October 28, 2023](https://lifehacker.com/nyt-connections-answer-today-october-28-2023-1850966520)
-- [Lifehacker] [Level Up Your Productivity With &#39;Time Pockets&#39;](https://lifehacker.com/level-up-your-productivity-with-time-pockets-1850966690)
-- [Lifehacker] [Put MSG in Everything, You Cowards](https://lifehacker.com/put-msg-in-everything-you-cowards-1831721707)<!-- TECH-POSTS:END -->
+- [Lifehacker] [If You Still Have Student Loans, at Least They’ll Get You a Free Pizza](https://lifehacker.com/if-you-still-have-student-loans-at-least-they-ll-get-y-1850968678)<!-- TECH-POSTS:END -->
 
 ---
 
