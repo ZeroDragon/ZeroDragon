@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Best Programming Languages in 2023](https://dev.to/lukaroshop/the-best-programming-languages-in-2023-c1b)
+- [Dev.to/JS] [Outlook](https://dev.to/noshy/outlook-11pe)
+- [Dev.to/JS] [Unlocking the Benefits of Professional Car Service to LAX](https://dev.to/mmtransco/unlocking-the-benefits-of-professional-car-service-to-lax-5afp)
+- [Dev.to/JS] [JS Promises Simplified!!!](https://dev.to/tanmaycode/js-promises-simplified-3moh)
 - [Dev.to/JS] [Why You Should Never Use &lpar;==&rpar; in JavaScript](https://dev.to/quratulaiinn/why-you-should-never-use-in-javascript-1lo0)
 - [Dev.to/JS] [Multi Step Form With Progress Bar Using HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/multi-step-form-with-progress-bar-using-html-css-javascript-27g4)
 - [Dev.to/JS] [Pub-Sub using ES6 Promise](https://dev.to/kiranmantha/pub-sub-using-es6-promise-38kj)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My 3rd Year Of Hacktober fest Contribution Journey - 2023](https://dev.to/pratap360/my-3rd-year-of-hacktober-fest-contribution-journey-2023-3ckg)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
 - [Dev.to/JS] [Reading Docusaurus code](https://dev.to/avelynhc/reading-docusaurus-code-ggm)
-- [Dev.to/JS] [How to setup and configure TURN server using coTURN?](https://dev.to/alakkadshaw/how-to-setup-and-configure-turn-server-using-coturn-4oec)
-- [Dev.to/JS] [The Great Fetch vs. Axios Showdown: A Web Development Comedy 😂](https://dev.to/glennlaysonjr/the-great-fetch-vs-axios-showdown-a-web-development-comedy-26ab)
-- [Dev.to/JS] [Implement a Simple Version Control with JavaScript to Understand Git Better!](https://dev.to/pshaddel/implement-a-simple-version-control-with-javascript-to-understand-git-better-48i6)
-- [Dev.to/JS] [Docusaurus Rocks!](https://dev.to/amnish04/docusaurus-rocks-30jk)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
