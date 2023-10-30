@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Trending Unit-Testing Frameworks: The Ultimate Showdown 🥊](https://dev.to/rahulladumor/top-trending-unit-testing-frameworks-the-ultimate-showdown-1h48)
+- [Dev.to/JS] [Nuxt Modules Crash Course](https://dev.to/jacobandrewsky/nuxt-modules-crash-course-1l9c)
+- [Dev.to/JS] [Easy Leafz CBD Gummies Reviews Canada, Where to Buy in Canada?](https://dev.to/buyeasyleafzcbd/easy-leafz-cbd-gummies-reviews-canada-where-to-buy-in-canada-38bi)
+- [Dev.to/JS] [Scrape Google Trends Trending Now in Javascript](https://dev.to/terrytanys/scrape-google-trends-trending-now-in-javascript-421p)
 - [Dev.to/JS] [Implement complex requests declaratively, making the code more elegant](https://dev.to/coderhu/implement-complex-requests-declaratively-making-the-code-more-elegant-1ef5)
 - [Dev.to/JS] [Bringing 3D to Life: Integrating Three.js with React, Redux and MUI](https://dev.to/chamallakshika09/bringing-3d-to-life-integrating-threejs-with-react-redux-and-mui-5388)
 - [Dev.to/JS] [Building Single-Page Applications &lpar;SPAs&rpar; with JavaScript and React](https://dev.to/rowsanali/building-single-page-applications-spas-with-javascript-and-react-3fcl)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How JavaScript Works on Websites: A Simple Explanation](https://dev.to/rowsanali/how-javascript-works-on-websites-a-simple-explanation-4b1m)
 - [Dev.to/JS] [😳 Next.js vs React - A Beginner&#39;s Guide](https://dev.to/refine/nextjs-vs-react-a-beginners-guide-5607)
 - [Dev.to/JS] [If/Else No More: Best Practices for Angular Developers](https://dev.to/chintanonweb/ifelse-no-more-best-practices-for-angular-developers-5hkh)
-- [Dev.to/JS] [The Best Programming Languages in 2023](https://dev.to/lukaroshop/the-best-programming-languages-in-2023-c1b)
-- [Dev.to/JS] [Outlook](https://dev.to/noshy/outlook-11pe)
-- [Dev.to/JS] [Unlocking the Benefits of Professional Car Service to LAX](https://dev.to/mmtransco/unlocking-the-benefits-of-professional-car-service-to-lax-5afp)
-- [Dev.to/JS] [JS Promises Simplified!!!](https://dev.to/tanmaycode/js-promises-simplified-3moh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
