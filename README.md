@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
+- [Dev.to/JS] [Reading Docusaurus code](https://dev.to/avelynhc/reading-docusaurus-code-ggm)
 - [Dev.to/JS] [How to setup and configure TURN server using coTURN?](https://dev.to/alakkadshaw/how-to-setup-and-configure-turn-server-using-coturn-4oec)
 - [Dev.to/JS] [The Great Fetch vs. Axios Showdown: A Web Development Comedy 😂](https://dev.to/glennlaysonjr/the-great-fetch-vs-axios-showdown-a-web-development-comedy-26ab)
+- [Dev.to/JS] [Implement a Simple Version Control with JavaScript to Understand Git Better!](https://dev.to/pshaddel/implement-a-simple-version-control-with-javascript-to-understand-git-better-48i6)
 - [Dev.to/JS] [Docusaurus Rocks!](https://dev.to/amnish04/docusaurus-rocks-30jk)
 - [Dev.to/JS] [JavaScript Number Data Type](https://dev.to/eminaltan/javascript-number-data-type-4b7)
 - [Dev.to/JS] [JavaScript String Data Type](https://dev.to/eminaltan/javascript-string-data-type-5643)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
 - [Dev.to/JS] [Setting Up a Modern Frontend Build Process with Rollup for SASS and JavaScript](https://dev.to/joxx/setting-up-a-modern-frontend-build-process-with-rollup-for-sass-and-javascript-5d99)
 - [Dev.to/JS] [How to create a custom cursor follower with gsap](https://dev.to/dionarodrigues/how-to-create-a-custom-cursor-follower-with-gsap-87k)
-- [Dev.to/JS] [Testing in JavaScript: A Comprehensive Guide](https://dev.to/outstandingvick/testing-in-javascript-a-comprehensive-guide-2l2n)
-- [Dev.to/JS] [A new way of sharing code](https://dev.to/opensourcee/a-new-way-of-sharing-code-1327)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the Peg System to Remember Ordered Information](https://lifehacker.com/use-the-peg-system-to-remember-ordered-information-1850966616)
 - [Lifehacker] [These Are the Best Music Streaming Services](https://lifehacker.com/the-best-music-streaming-services-1850864544)
 - [Lifehacker] [These AI-Powered Apps Can Help You Save Money](https://lifehacker.com/these-ai-powered-apps-can-help-you-save-money-1850957278)
-- [Lifehacker] [The 30 Best Teen Movies You Can Stream Right Now](https://lifehacker.com/best-teen-movies-streaming-1850962642)
-- [Lifehacker] [This Bird eBike Is on Sale for $850](https://lifehacker.com/this-bird-ebike-is-on-sale-for-850-1850958669)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 30 Best Teen Movies You Can Stream Right Now](https://lifehacker.com/best-teen-movies-streaming-1850962642)<!-- TECH-POSTS:END -->
 
 ---
 
