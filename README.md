@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setting Up AI Prompt in Nuxt.js](https://dev.to/kamruzzaman/setting-up-ai-prompt-in-nuxtjs-16e6)
+- [Dev.to/JS] [Making Curry: JavaScript Functional Programming](https://dev.to/oculus42/making-curry-javascript-functional-programming-2d6e)
+- [Dev.to/JS] [Understanding the Power of React in JavaScript: Exploring its Functions and the Return Statement](https://dev.to/queenice90/understanding-the-power-of-react-in-javascript-exploring-its-functions-and-the-return-statement-4hia)
 - [Dev.to/JS] [Don&#39;t follow me, I&#39;m lost too](https://dev.to/lorainevilches/dont-follow-me-im-lost-too-1l9k)
 - [Lifehacker] [Send a Pencil-and-Paper Battleship Game in Your Kid&#39;s Lunchbox](https://lifehacker.com/play-battleship-with-pen-and-paper-rules-1850974186)
 - [Lifehacker] [The Easiest Way to Clean Blinds](https://lifehacker.com/quickly-clean-window-blinds-by-wrapping-tongs-in-microf-1788463255)
@@ -50,11 +53,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [It&#39;s Easy To Switch from CommonJS to ES Modules with TS2ESM](https://dev.to/typescripttv/its-easy-to-switch-from-commonjs-to-es-modules-with-ts2esm-4chg)
 - [Lifehacker] [Evil Week: How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)
 - [Lifehacker] [This Eight-Piece Japanese Knife Set Is $130 Right Now](https://lifehacker.com/this-eight-piece-japanese-knife-set-is-130-right-now-1850968556)
-- [Dev.to/JS] [Quick overview of Next JS 14 Updates](https://dev.to/mukeshkuiry/quick-overview-of-next-js-14-updates-521o)
-- [Dev.to/JS] [My first React JS work](https://dev.to/yesiamanerd/my-first-react-js-work-5en5)
 - [Lifehacker] [You Can Automatically &lpar;Temporarily&rpar; Disable Your Apple Music Listening History](https://lifehacker.com/you-can-automatically-temporarily-disable-your-apple-1850769572)
 - [Lifehacker] [Evil Week: How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
-- [Dev.to/JS] [Props In React JS Functional Components](https://dev.to/shoyeb001/props-in-react-js-functional-components-2b8h)
 - [Lifehacker] [Welcome Back to Evil Week](https://lifehacker.com/welcome-back-to-evil-week-1850972262)
 - [Lifehacker] [You Can Get a Lifetime Subscription to This Documentary Streaming Service for $169.97](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-this-documentary-1850968516)
 - [Lifehacker] [Evil Week: How to Hide Porn on Your Windows PC](https://lifehacker.com/how-to-hide-porn-on-your-windows-pc-1845511290)
