@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Evil Week: How to View Someone Else&#39;s TikToks Anonymously](https://lifehacker.com/evil-week-how-to-view-someone-elses-tiktoks-anonymousl-1850973668)
+- [Dev.to/JS] [Source-to-Action with Dagger](https://dev.to/trustacks/source-to-action-with-dagger-3km0)
+- [Lifehacker] [It&#39;s Time to Reverse Your Ceiling Fans](https://lifehacker.com/its-time-to-reverse-your-ceiling-fans-1850973629)
 - [Lifehacker] [This Lifetime Learning Subscription Is $160 Through the Rest of October](https://lifehacker.com/this-lifetime-learning-subscription-is-160-through-the-1850968565)
 - [Dev.to/JS] [Performance Devtools](https://dev.to/ajay-8192/performance-devtools-3d1c)
 - [Lifehacker] [Evil Week: Trick Your Family Into Eating Lots of Tofu](https://lifehacker.com/evil-week-trick-your-family-into-eating-lots-of-tofu-1850973486)
@@ -50,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Props In React JS Functional Components](https://dev.to/shoyeb001/props-in-react-js-functional-components-2b8h)
 - [Dev.to/JS] [LeetCode - Solution for 2625. Flatten Deeply Nested Array](https://dev.to/jenchen/leetcode-solution-for-2625-flatten-deeply-nested-array-18nl)
 - [Lifehacker] [Welcome Back to Evil Week](https://lifehacker.com/welcome-back-to-evil-week-1850972262)
-- [Dev.to/JS] [A CRUD ExpressJS example, with React and Vue example usage](https://dev.to/burhanahmeed/a-crud-expressjs-example-with-react-and-vue-example-usage-1bfg)
 - [Lifehacker] [You Can Get a Lifetime Subscription to This Documentary Streaming Service for $169.97](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-this-documentary-1850968516)
 - [Lifehacker] [Evil Week: How to Hide Porn on Your Windows PC](https://lifehacker.com/how-to-hide-porn-on-your-windows-pc-1845511290)
 - [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
 - [Lifehacker] [These Are the Best Food Deals and Freebies This Halloween](https://lifehacker.com/these-are-the-best-food-deals-and-freebies-this-hallowe-1850968584)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, October 29, 2023](https://lifehacker.com/nyt-connections-answer-today-october-29-2023-1850968208)
-- [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)
-- [Lifehacker] [Here&#39;s When You Should &lpar;and Shouldn&#39;t&rpar; Use Silicone Grease for Household Projects](https://lifehacker.com/heres-when-you-should-and-shouldnt-use-silicone-greas-1850968671)
-- [Lifehacker] [If You Still Have Student Loans, at Least They’ll Get You a Free Pizza](https://lifehacker.com/if-you-still-have-student-loans-at-least-they-ll-get-y-1850968678)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Assume a Brand New Car Has No Damage](https://lifehacker.com/dont-assume-a-brand-new-car-has-no-damage-1850968651)<!-- TECH-POSTS:END -->
 
 ---
 
