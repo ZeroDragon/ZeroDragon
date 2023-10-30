@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript BigInt Data Type](https://dev.to/eminaltan/javascript-bigint-data-type-2j1o)
+- [Dev.to/JS] [Mastering Unit-Testing in Microservices: Best Practices Unveiled 🛠️](https://dev.to/rahulladumor/mastering-unit-testing-in-microservices-best-practices-unveiled-2obm)
 - [Dev.to/JS] [Top Trending Unit-Testing Frameworks: The Ultimate Showdown 🥊](https://dev.to/rahulladumor/top-trending-unit-testing-frameworks-the-ultimate-showdown-1h48)
 - [Dev.to/JS] [Nuxt Modules Crash Course](https://dev.to/jacobandrewsky/nuxt-modules-crash-course-1l9c)
 - [Dev.to/JS] [Easy Leafz CBD Gummies Reviews Canada, Where to Buy in Canada?](https://dev.to/buyeasyleafzcbd/easy-leafz-cbd-gummies-reviews-canada-where-to-buy-in-canada-38bi)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TF #21 | Your weekly frontend digest](https://dev.to/tech_foutraque/tf-21-your-weekly-frontend-digest-50ch)
 - [Dev.to/JS] [Mastering Real-Time Magic: The Observer Pattern](https://dev.to/brdnicolas/mastering-real-time-magic-the-observer-pattern-1l0k)
 - [Dev.to/JS] [How JavaScript Works on Websites: A Simple Explanation](https://dev.to/rowsanali/how-javascript-works-on-websites-a-simple-explanation-4b1m)
-- [Dev.to/JS] [😳 Next.js vs React - A Beginner&#39;s Guide](https://dev.to/refine/nextjs-vs-react-a-beginners-guide-5607)
-- [Dev.to/JS] [If/Else No More: Best Practices for Angular Developers](https://dev.to/chintanonweb/ifelse-no-more-best-practices-for-angular-developers-5hkh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
 - [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)
 - [Lifehacker] [Use a Blow Dryer to Smooth Wrinkled Leather Furniture](https://lifehacker.com/use-a-blow-dryer-to-smooth-wrinkled-leather-furniture-1850968553)
