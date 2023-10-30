@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick overview of Next JS 14 Updates](https://dev.to/mukeshkuiry/quick-overview-of-next-js-14-updates-521o)
+- [Dev.to/JS] [My first React JS work](https://dev.to/yesiamanerd/my-first-react-js-work-5en5)
+- [Lifehacker] [You Can Automatically &lpar;Temporarily&rpar; Disable Your Apple Music Listening History](https://lifehacker.com/you-can-automatically-temporarily-disable-your-apple-1850769572)
+- [Lifehacker] [Evil Week: How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
+- [Dev.to/JS] [Props In React JS Functional Components](https://dev.to/shoyeb001/props-in-react-js-functional-components-2b8h)
+- [Dev.to/JS] [LeetCode - Solution for 2625. Flatten Deeply Nested Array](https://dev.to/jenchen/leetcode-solution-for-2625-flatten-deeply-nested-array-18nl)
+- [Lifehacker] [Welcome Back to Evil Week](https://lifehacker.com/welcome-back-to-evil-week-1850972262)
 - [Dev.to/JS] [A CRUD ExpressJS example, with React and Vue example usage](https://dev.to/burhanahmeed/a-crud-expressjs-example-with-react-and-vue-example-usage-1bfg)
 - [Dev.to/JS] [My first Year Of Hacktober fest Contribution Journey - 2023](https://dev.to/adamkaram/my-first-year-of-hacktober-fest-contribution-journey-2023-2l9i)
 - [Dev.to/JS] [My first Year Of Hacktober fest Contribution Journey - 2023](https://dev.to/adamkaram/my-first-year-of-hacktober-fest-contribution-journey-2023-5d8j)
@@ -38,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
 - [Dev.to/JS] [10 Essential Web Development Tools You Can&#39;t Live Without](https://dev.to/delia_code/10-essential-web-development-tools-you-cant-live-without-1f0i)
 - [Lifehacker] [The Best All-in-One Desktops You Can Buy in 2023](https://lifehacker.com/the-best-all-in-one-desktops-1850968043)
-- [Dev.to/JS] [Running out of disk space? Delete node_modules](https://dev.to/opensourcee/running-out-of-disk-space-delete-nodemodules-36l6)
-- [Dev.to/JS] [Demystifying Docker: The Future of Efficient Software Deployment](https://dev.to/eneaslari/demystifying-docker-the-future-of-efficient-software-deployment-3naf)
 - [Lifehacker] [Enable These Accessibility Features on Your Smart TV](https://lifehacker.com/enable-these-accessibility-features-on-your-smart-tv-1850967222)
-- [Dev.to/JS] [Learn how to use JavaScript to power UI components based on Tailwind CSS](https://dev.to/themesberg/learn-how-to-use-javascript-to-power-ui-components-based-on-tailwind-css-57ci)
-- [Dev.to/JS] [Useful NPM scripts, Example usage&lpar;Basics Nodejs Series&rpar;](https://dev.to/ajitforger97/useful-npm-scripts-example-usage-2kha)
 - [Lifehacker] [What to Do Now That Amazon Is Killing Alexa’s IFTTT Integration](https://lifehacker.com/what-to-do-now-that-amazon-is-killing-alexa-s-ifttt-int-1850967474)
 - [Lifehacker] [How to Find Your Apple ID, Even When All Seems Lost](https://lifehacker.com/how-to-find-your-apple-id-even-when-all-seems-lost-1850959114)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, the FDA Really Did Issue a Warning About Black Licorice](https://lifehacker.com/fda-black-licorice-warning-1839441801)
 - [Lifehacker] [9 Lies Contractors Tell](https://lifehacker.com/9-lies-contractors-tell-1850967181)
 - [Lifehacker] [I&#39;ll Take the Check, When You Have a Moment](https://lifehacker.com/lifehackers-best-food-hacks-ever-1850967435)
-- [Lifehacker] [The Best Deals From Best Buy&#39;s Early Access Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
-- [Lifehacker] [Hot Chicken Sliders Should Make a Football Appearance This Weekend](https://lifehacker.com/2-45-hot-chicken-slider-recipe-1850967503)
-- [Lifehacker] [These Dell Laptops and Monitors Are Already Half Off for Black Friday](https://lifehacker.com/these-dell-laptops-and-monitors-are-already-half-off-fo-1850967603)
-- [Lifehacker] [The Fastest Way to Skin an Almond](https://lifehacker.com/how-to-blanch-and-skin-almonds-1849639820)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Deals From Best Buy&#39;s Early Access Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)<!-- TECH-POSTS:END -->
 
 ---
 
