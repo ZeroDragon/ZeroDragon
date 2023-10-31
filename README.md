@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Java Stream flatMap&lpar;&rpar;](https://dev.to/javatute673/java-stream-flatmap-2n02)
+- [Lifehacker] [Sam’s Club Memberships Are $20 Today](https://lifehacker.com/sam-s-club-memberships-are-20-today-1850974737)
+- [Dev.to/JS] [How to deploy Spring Boot application using Docker](https://dev.to/javatute673/how-to-deploy-spring-boot-application-using-docker-4552)
+- [Lifehacker] [Evil Week: The Passive-Aggressive Way to Stop Someone From Reclining Their Seat on a Flight](https://lifehacker.com/how-to-get-someone-to-stop-reclining-their-seat-on-a-fl-1839467741)
+- [Dev.to/JS] [Understanding Callback Functions in JavaScript](https://dev.to/joanayebola/understanding-callback-functions-in-javascript-1leh)
+- [Dev.to/JS] [How to Add a JavaScript Pivot Grid to Your Web Application](https://dev.to/grapecity/how-to-add-a-javascript-pivot-grid-to-your-web-application-3h2p)
 - [Lifehacker] [Look Out for These Signs of a Badly Flipped House](https://lifehacker.com/look-out-for-these-signs-of-a-badly-flipped-house-1850976861)
 - [Dev.to/JS] [Hacktoberfest Progress](https://dev.to/bseefieldt/hacktoberfest-progress-50jf)
 - [Dev.to/JS] [Building Learnelo - Educational Video Chat Application for students using Express, Socket.io and Hanko Authentication](https://dev.to/harshitraj14/building-learnelo-educational-video-chat-application-for-students-using-express-socketio-and-hanko-authentication-14b9)
@@ -40,10 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add an Angular Pivot Grid to Your Web Application](https://dev.to/grapecity/how-to-add-an-angular-pivot-grid-to-your-web-application-4bn7)
 - [Dev.to/JS] [How to provide meaningful error messages in your API response](https://dev.to/learnwithparam/how-to-provide-meaningful-error-messages-in-your-api-response-3dbl)
 - [Lifehacker] [Evil Week: Give a Crappy Handmade Gift for Christmas](https://lifehacker.com/give-handmade-gifts-so-people-cant-complain-1845484484)
-- [Dev.to/JS] [Static Site Generation with Next.js](https://dev.to/mohammadfaisal/static-site-generation-with-nextjs-5aic)
-- [Dev.to/JS] [stop website spam](https://dev.to/irishgeoff22/stop-website-spam-2j9d)
-- [Dev.to/JS] [Made an .io game in 10 days✈️](https://dev.to/lilshake/made-an-io-game-in-10-days-48fi)
-- [Dev.to/JS] [A Simple Nodejs App using Postgres and Express](https://dev.to/fredabod/a-simple-nodejs-app-using-postgres-and-express-2179)
 - [Lifehacker] [The New M3 MacBook Pro Is Practically the Perfect Laptop](https://lifehacker.com/new-m3-macbook-pro-review-1850976188)
 - [Lifehacker] [This Color-Matching Sensor Is 40% Off Right Now](https://lifehacker.com/this-color-matching-sensor-is-40-off-right-now-1850974626)
 - [Lifehacker] [Evil Week: How to Insult Your Enemies in a Classy Way](https://lifehacker.com/evil-week-how-to-insult-your-enemies-in-a-classy-way-1850950018)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Lifetime Learning Subscription Is $160 Through the Rest of October](https://lifehacker.com/this-lifetime-learning-subscription-is-160-through-the-1850968565)
 - [Lifehacker] [Evil Week: Trick Your Family Into Eating Lots of Tofu](https://lifehacker.com/evil-week-trick-your-family-into-eating-lots-of-tofu-1850973486)
 - [Lifehacker] [Evil Week: How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
-- [Lifehacker] [These Accessories Will No Longer Work on Your Xbox Next Month](https://lifehacker.com/these-accessories-will-no-longer-work-on-your-xbox-next-1850972910)
-- [Lifehacker] [Why You Should Shop the Early Black Friday Deals This Year](https://lifehacker.com/why-you-should-shop-the-early-black-friday-deals-this-y-1850972779)
-- [Lifehacker] [Evil Week: The ‘Nice’ Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Accessories Will No Longer Work on Your Xbox Next Month](https://lifehacker.com/these-accessories-will-no-longer-work-on-your-xbox-next-1850972910)<!-- TECH-POSTS:END -->
 
 ---
 
