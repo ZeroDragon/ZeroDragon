@@ -26,7 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Look Out for These Signs of a Badly Flipped House](https://lifehacker.com/look-out-for-these-signs-of-a-badly-flipped-house-1850976861)
+- [Dev.to/JS] [Hacktoberfest Progress](https://dev.to/bseefieldt/hacktoberfest-progress-50jf)
+- [Dev.to/JS] [Building Learnelo - Educational Video Chat Application for students using Express, Socket.io and Hanko Authentication](https://dev.to/harshitraj14/building-learnelo-educational-video-chat-application-for-students-using-express-socketio-and-hanko-authentication-14b9)
+- [Dev.to/JS] [Promise APIs with Example🤝](https://dev.to/niteshxp/promise-apis-with-example-1gci)
+- [Lifehacker] [Evil Week: Keep Your Snacks Out of Your Family&#39;s Filthy Paws](https://lifehacker.com/evil-week-keep-your-snacks-out-of-your-familys-filthy-1850976695)
+- [Dev.to/JS] [These 6 repositories will help you crush React Server Components](https://dev.to/formbricks/these-6-repositories-will-help-you-crush-react-server-components-3lld)
+- [Dev.to/JS] [How to Integrate Font Awesome Icons into React Applications](https://dev.to/michaellarocca/how-to-integrate-font-awesome-icons-into-react-applications-1kc4)
+- [Lifehacker] [Evil Week: The Best Fake Phone Number Is the One You Make Yourself With Twilio](https://lifehacker.com/how-to-set-up-a-fake-phone-number-1829907777)
 - [Lifehacker] [Evil Week: Imply You&#39;re Pregnant for Better Treatment](https://lifehacker.com/evil-week-imply-youre-pregnant-for-better-treatment-1850976678)
+- [Dev.to/JS] [What are HTTP headers in a REST API?](https://dev.to/sharmakushal/what-are-http-headers-in-a-rest-api-18c4)
 - [Lifehacker] [Everything Apple Announced During Its &#39;Scary Fast&#39; Mac Event](https://lifehacker.com/everything-apple-announced-during-its-scary-fast-mac-ev-1850976502)
 - [Dev.to/JS] [How to Add an Angular Pivot Grid to Your Web Application](https://dev.to/grapecity/how-to-add-an-angular-pivot-grid-to-your-web-application-4bn7)
 - [Dev.to/JS] [How to provide meaningful error messages in your API response](https://dev.to/learnwithparam/how-to-provide-meaningful-error-messages-in-your-api-response-3dbl)
@@ -36,14 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Made an .io game in 10 days✈️](https://dev.to/lilshake/made-an-io-game-in-10-days-48fi)
 - [Dev.to/JS] [A Simple Nodejs App using Postgres and Express](https://dev.to/fredabod/a-simple-nodejs-app-using-postgres-and-express-2179)
 - [Lifehacker] [The New M3 MacBook Pro Is Practically the Perfect Laptop](https://lifehacker.com/new-m3-macbook-pro-review-1850976188)
-- [Dev.to/JS] [The Advanced React Compound Component Pattern](https://dev.to/cybermaxi7/the-advanced-react-compound-component-pattern-2j79)
-- [Dev.to/JS] [Navigating the JS TS Limbo](https://dev.to/slobodan4nista/navigating-the-js-ts-limbo-2h1d)
 - [Lifehacker] [This Color-Matching Sensor Is 40% Off Right Now](https://lifehacker.com/this-color-matching-sensor-is-40-off-right-now-1850974626)
-- [Dev.to/JS] [VueJS part 10: Passing data to the components](https://dev.to/hi_iam_chris/vuejs-part-10-passing-data-to-the-components-3ehg)
-- [Dev.to/JS] [Email obfuscation](https://dev.to/irishgeoff22/email-obfuscation-lb0)
-- [Dev.to/JS] [Integrating SendGrid with Node.js for sending transactional emails](https://dev.to/scofieldidehen/integrating-sendgrid-with-nodejs-for-sending-transactional-emails-4moa)
 - [Lifehacker] [Evil Week: How to Insult Your Enemies in a Classy Way](https://lifehacker.com/evil-week-how-to-insult-your-enemies-in-a-classy-way-1850950018)
-- [Dev.to/JS] [Top 10 React.js Best Practices for Clean Code](https://dev.to/rowsanali/top-10-reactjs-best-practices-for-clean-code-2bjc)
 - [Lifehacker] [Evil Week: The Best Ways to Get Revenge &lpar;Legally&rpar;](https://lifehacker.com/evil-week-the-best-ways-to-get-revenge-legally-1850974570)
 - [Lifehacker] [Evil Week: How to Sell Your Soul to the Devil](https://lifehacker.com/how-to-sell-your-soul-to-the-devil-1850353292)
 - [Lifehacker] [You Can Get the Google Pixel 7a for Its Lowest Price Ever Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
 - [Lifehacker] [These Accessories Will No Longer Work on Your Xbox Next Month](https://lifehacker.com/these-accessories-will-no-longer-work-on-your-xbox-next-1850972910)
 - [Lifehacker] [Why You Should Shop the Early Black Friday Deals This Year](https://lifehacker.com/why-you-should-shop-the-early-black-friday-deals-this-y-1850972779)
-- [Lifehacker] [Evil Week: The ‘Nice’ Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
-- [Lifehacker] [This Dump Cake Is Lazy as Hell, and I Love It](https://lifehacker.com/easy-peach-dump-cake-recipe-1850972867)
-- [Lifehacker] [All the Stuff in Your Home You Should Be Testing for Voltage](https://lifehacker.com/all-the-stuff-in-your-home-you-should-be-testing-for-vo-1850972788)
-- [Lifehacker] [Evil Week: How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: The ‘Nice’ Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)<!-- TECH-POSTS:END -->
 
 ---
 
