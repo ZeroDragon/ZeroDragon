@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enlightening Syntax Highlighting in Docusaurus](https://dev.to/vishnudas2003/enlightening-syntax-highlighting-in-docusaurus-2cj7)
+- [Dev.to/JS] [Deploy a NuxtJS App and Laravel API on a Linux Server](https://dev.to/kamruzzaman/deploy-a-nuxtjs-app-and-laravel-api-on-a-linux-server-54bh)
+- [Dev.to/JS] [Laravel API Integration in Nuxt.js](https://dev.to/kamruzzaman/laravel-api-integration-in-nuxtjs-b89)
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
 - [Dev.to/JS] [JavaScript Build Tools: Unveiling the Power of Webpack, Babel, and Rollup](https://dev.to/outstandingvick/javascript-build-tools-unveiling-the-power-of-webpack-babel-and-rollup-e7i)
@@ -43,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The super power that lets you tell TypeScript what is actually happening](https://dev.to/gingerchew/the-super-power-that-lets-you-tell-typescript-what-is-actually-happening-22mo)
 - [Lifehacker] [Three Things I Do to Protect My Plants Before a Freeze](https://lifehacker.com/three-things-i-do-to-protect-my-plants-before-a-freeze-1850977175)
 - [Dev.to/JS] [Unit Testing in React with Jest and Enzyme](https://dev.to/rowsanali/unit-testing-in-react-with-jest-and-enzyme-5e1e)
-- [Dev.to/JS] [Creating Custom Hooks in React for Reusable Logic](https://dev.to/rowsanali/creating-custom-hooks-in-react-for-reusable-logic-ne4)
 - [Lifehacker] [Evil Week: How to Creep on Someone&#39;s Instagram Stories in Secret](https://lifehacker.com/how-to-creep-on-someones-instagram-stories-anonymously-1848794616)
-- [Dev.to/JS] [Exploring React Component Libraries: Material-UI, Ant Design, and More](https://dev.to/rowsanali/exploring-react-component-libraries-material-ui-ant-design-and-more-2g7d)
-- [Dev.to/JS] [Building a Gamified Habit Tracker on MERN Stack and Hanko for passkey authentication](https://dev.to/lakshyasatpal/building-a-gamified-habit-tracker-on-mern-stack-and-hanko-for-passkey-authentication-4dpf)
 - [Lifehacker] [The ASUS Rog Ally Z1 Is a Solid Steam Deck Alternative](https://lifehacker.com/asus-rog-ally-z1-review-1850976924)
 - [Lifehacker] [Sam’s Club Memberships Are $20 Today](https://lifehacker.com/sam-s-club-memberships-are-20-today-1850974737)
 - [Lifehacker] [Evil Week: The Passive-Aggressive Way to Stop Someone From Reclining Their Seat on a Flight](https://lifehacker.com/how-to-get-someone-to-stop-reclining-their-seat-on-a-fl-1839467741)
