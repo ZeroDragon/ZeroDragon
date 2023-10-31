@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Elegance of JS Code: A Comprehensive Guide](https://dev.to/alvisonhunter/the-art-of-writing-clean-concise-and-precise-javascript-with-typescript-220l)
 - [Dev.to/JS] [Create your own calculator](https://dev.to/ruanaragao/create-your-own-calculator-1n9i)
 - [Dev.to/JS] [Angular renaissance](https://dev.to/apijay/angular-renaissance-197j)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: Trick Your Family Into Eating Lots of Tofu](https://lifehacker.com/evil-week-trick-your-family-into-eating-lots-of-tofu-1850973486)
 - [Dev.to/JS] [Be a coach; don&#39;t just be a programmer](https://dev.to/codewithshahan/dont-just-a-programmer-be-a-coach-1b2l)
 - [Lifehacker] [Evil Week: How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
-- [Dev.to/JS] [Create a React app using Webpack 5](https://dev.to/ajay-8192/create-a-react-app-using-webpack-5-afl)
 - [Lifehacker] [These Accessories Will No Longer Work on Your Xbox Next Month](https://lifehacker.com/these-accessories-will-no-longer-work-on-your-xbox-next-1850972910)
 - [Lifehacker] [Why You Should Shop the Early Black Friday Deals This Year](https://lifehacker.com/why-you-should-shop-the-early-black-friday-deals-this-y-1850972779)
 - [Lifehacker] [Evil Week: The ‘Nice’ Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
