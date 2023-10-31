@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Putting More in a 401&lpar;k&rpar; Can Now Increase Your College Financial Aid](https://lifehacker.com/new-fafsa-returement-savings-rule-1850976648)
+- [Dev.to/JS] [Scroll Infinito: um veneno à produtividade.](https://dev.to/lucianodiisouza/scroll-infinito-um-veneno-a-produtividade-40hi)
+- [Lifehacker] [This Portable Bluetooth Wireless Neckband Speaker Is $37.99](https://lifehacker.com/this-portable-bluetooth-wireless-neckband-speaker-is-3-1850974647)
+- [Dev.to/JS] [Contributing to Mermaid Github](https://dev.to/sshah135/contributing-to-mermaid-github-4p2d)
+- [Lifehacker] [Evil Week: Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
+- [Dev.to/JS] [Next.js 14: No New APIs &amp; Breaking Changes](https://dev.to/mongodb/nextjs-14-no-new-apis-breaking-changes-3nh3)
 - [Lifehacker] [These Are Target&#39;s Best Early Black Friday Deals](https://lifehacker.com/these-are-targets-best-early-black-friday-deals-1850977262)
 - [Dev.to/JS] [The super power that lets you tell TypeScript what is actually happening](https://dev.to/gingerchew/the-super-power-that-lets-you-tell-typescript-what-is-actually-happening-22mo)
 - [Lifehacker] [Three Things I Do to Protect My Plants Before a Freeze](https://lifehacker.com/three-things-i-do-to-protect-my-plants-before-a-freeze-1850977175)
@@ -42,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Callback Functions in JavaScript](https://dev.to/joanayebola/understanding-callback-functions-in-javascript-1leh)
 - [Dev.to/JS] [How to Add a JavaScript Pivot Grid to Your Web Application](https://dev.to/grapecity/how-to-add-a-javascript-pivot-grid-to-your-web-application-3h2p)
 - [Lifehacker] [Look Out for These Signs of a Badly Flipped House](https://lifehacker.com/look-out-for-these-signs-of-a-badly-flipped-house-1850976861)
-- [Dev.to/JS] [Hacktoberfest Progress](https://dev.to/bseefieldt/hacktoberfest-progress-50jf)
-- [Dev.to/JS] [Building Learnelo - Educational Video Chat Application for students using Express, Socket.io and Hanko Authentication](https://dev.to/harshitraj14/building-learnelo-educational-video-chat-application-for-students-using-express-socketio-and-hanko-authentication-14b9)
-- [Dev.to/JS] [Promise APIs with Example🤝](https://dev.to/niteshxp/promise-apis-with-example-1gci)
 - [Lifehacker] [Evil Week: Keep Your Snacks Out of Your Family&#39;s Filthy Paws](https://lifehacker.com/evil-week-keep-your-snacks-out-of-your-familys-filthy-1850976695)
 - [Lifehacker] [Evil Week: The Best Fake Phone Number Is the One You Make Yourself With Twilio](https://lifehacker.com/how-to-set-up-a-fake-phone-number-1829907777)
 - [Lifehacker] [Evil Week: Imply You&#39;re Pregnant for Better Treatment](https://lifehacker.com/evil-week-imply-youre-pregnant-for-better-treatment-1850976678)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)
 - [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
 - [Lifehacker] [Send a Pencil-and-Paper Battleship Game in Your Kid&#39;s Lunchbox](https://lifehacker.com/play-battleship-with-pen-and-paper-rules-1850974186)
-- [Lifehacker] [The Easiest Way to Clean Blinds](https://lifehacker.com/quickly-clean-window-blinds-by-wrapping-tongs-in-microf-1788463255)
-- [Lifehacker] [Evil Week: How to View Someone Else&#39;s TikToks Anonymously](https://lifehacker.com/evil-week-how-to-view-someone-elses-tiktoks-anonymousl-1850973668)
-- [Lifehacker] [It&#39;s Time to Reverse Your Ceiling Fans](https://lifehacker.com/its-time-to-reverse-your-ceiling-fans-1850973629)
-- [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Clean Blinds](https://lifehacker.com/quickly-clean-window-blinds-by-wrapping-tongs-in-microf-1788463255)<!-- TECH-POSTS:END -->
 
 ---
 
