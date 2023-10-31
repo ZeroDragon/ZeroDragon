@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
+- [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
+- [Dev.to/JS] [JavaScript Build Tools: Unveiling the Power of Webpack, Babel, and Rollup](https://dev.to/outstandingvick/javascript-build-tools-unveiling-the-power-of-webpack-babel-and-rollup-e7i)
+- [Dev.to/JS] [Contributing to timelydiff](https://dev.to/sshah135/contributing-to-timelydiff-5hbb)
+- [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
+- [Dev.to/JS] [Array-like Objects in JavaScript: A Deep Dive](https://dev.to/rasaf_ibrahim/array-like-objects-in-javascript-a-deep-dive-469b)
+- [Dev.to/JS] [Setting Up Redux with Persistent State Rehydration in Next.js](https://dev.to/sasithwarnakafonseka/setting-up-redux-with-persistent-state-rehydration-in-nextjs-h3o)
 - [Lifehacker] [Why Putting More in a 401&lpar;k&rpar; Can Now Increase Your College Financial Aid](https://lifehacker.com/new-fafsa-returement-savings-rule-1850976648)
 - [Dev.to/JS] [Scroll Infinito: um veneno à produtividade.](https://dev.to/lucianodiisouza/scroll-infinito-um-veneno-a-produtividade-40hi)
 - [Lifehacker] [This Portable Bluetooth Wireless Neckband Speaker Is $37.99](https://lifehacker.com/this-portable-bluetooth-wireless-neckband-speaker-is-3-1850974647)
@@ -41,12 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring React Component Libraries: Material-UI, Ant Design, and More](https://dev.to/rowsanali/exploring-react-component-libraries-material-ui-ant-design-and-more-2g7d)
 - [Dev.to/JS] [Building a Gamified Habit Tracker on MERN Stack and Hanko for passkey authentication](https://dev.to/lakshyasatpal/building-a-gamified-habit-tracker-on-mern-stack-and-hanko-for-passkey-authentication-4dpf)
 - [Lifehacker] [The ASUS Rog Ally Z1 Is a Solid Steam Deck Alternative](https://lifehacker.com/asus-rog-ally-z1-review-1850976924)
-- [Dev.to/JS] [Java Stream flatMap&lpar;&rpar;](https://dev.to/javatute673/java-stream-flatmap-2n02)
 - [Lifehacker] [Sam’s Club Memberships Are $20 Today](https://lifehacker.com/sam-s-club-memberships-are-20-today-1850974737)
-- [Dev.to/JS] [How to deploy Spring Boot application using Docker](https://dev.to/javatute673/how-to-deploy-spring-boot-application-using-docker-4552)
 - [Lifehacker] [Evil Week: The Passive-Aggressive Way to Stop Someone From Reclining Their Seat on a Flight](https://lifehacker.com/how-to-get-someone-to-stop-reclining-their-seat-on-a-fl-1839467741)
-- [Dev.to/JS] [Understanding Callback Functions in JavaScript](https://dev.to/joanayebola/understanding-callback-functions-in-javascript-1leh)
-- [Dev.to/JS] [How to Add a JavaScript Pivot Grid to Your Web Application](https://dev.to/grapecity/how-to-add-a-javascript-pivot-grid-to-your-web-application-3h2p)
 - [Lifehacker] [Look Out for These Signs of a Badly Flipped House](https://lifehacker.com/look-out-for-these-signs-of-a-badly-flipped-house-1850976861)
 - [Lifehacker] [Evil Week: Keep Your Snacks Out of Your Family&#39;s Filthy Paws](https://lifehacker.com/evil-week-keep-your-snacks-out-of-your-familys-filthy-1850976695)
 - [Lifehacker] [Evil Week: The Best Fake Phone Number Is the One You Make Yourself With Twilio](https://lifehacker.com/how-to-set-up-a-fake-phone-number-1829907777)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the RAFT Technique to Quickly Sort Emails](https://lifehacker.com/use-the-raft-technique-to-quickly-sort-emails-1850973880)
 - [Lifehacker] [This Is the Right Way to Store Firewood](https://lifehacker.com/the-best-way-to-store-firewood-1850972464)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)
-- [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
-- [Lifehacker] [Send a Pencil-and-Paper Battleship Game in Your Kid&#39;s Lunchbox](https://lifehacker.com/play-battleship-with-pen-and-paper-rules-1850974186)
-- [Lifehacker] [The Easiest Way to Clean Blinds](https://lifehacker.com/quickly-clean-window-blinds-by-wrapping-tongs-in-microf-1788463255)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)<!-- TECH-POSTS:END -->
 
 ---
 
