@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)
 - [Dev.to/JS] [Ayim](https://dev.to/adlinke/ayim-23hp)
 - [Dev.to/JS] [The Illusion of Data Ownership](https://dev.to/tbdevs/the-illusion-of-data-ownership-3nbi)
 - [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best All-in-One Desktops You Can Buy in 2023](https://lifehacker.com/the-best-all-in-one-desktops-1850968043)
 - [Lifehacker] [Enable These Accessibility Features on Your Smart TV](https://lifehacker.com/enable-these-accessibility-features-on-your-smart-tv-1850967222)
 - [Lifehacker] [What to Do Now That Amazon Is Killing Alexa’s IFTTT Integration](https://lifehacker.com/what-to-do-now-that-amazon-is-killing-alexa-s-ifttt-int-1850967474)
-- [Lifehacker] [How to Find Your Apple ID, Even When All Seems Lost](https://lifehacker.com/how-to-find-your-apple-id-even-when-all-seems-lost-1850959114)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, October 30, 2023](https://lifehacker.com/nyt-connections-answer-today-october-30-2023-1850968521)
-- [Lifehacker] [How to Locate and Clean Your Washing Machine&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-washing-machines-filter-1850968382)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Find Your Apple ID, Even When All Seems Lost](https://lifehacker.com/how-to-find-your-apple-id-even-when-all-seems-lost-1850959114)<!-- TECH-POSTS:END -->
 
 ---
 
