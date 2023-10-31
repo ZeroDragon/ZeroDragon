@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🎃🦇 HTMLoween🦇🎃 HTML, CSS and JS that&#39;ll make you scream! 😱](https://dev.to/grahamthedev/htmloween-html-css-and-js-thatll-make-you-scream-2mad)
+- [Lifehacker] [This Is the Right Way to Store Firewood](https://lifehacker.com/the-best-way-to-store-firewood-1850972464)
+- [Dev.to/JS] [Using Promise.all,Implement mapLimit async function](https://dev.to/chandrapenugonda/using-promiseallimplement-maplimit-async-function-29jj)
+- [Dev.to/JS] [How to create a terminal simulation in the browser 👩‍💻🧑‍💻](https://dev.to/ehlo_250/how-to-create-a-terminal-simulation-in-the-browser-3l54)
+- [Dev.to/JS] [Renewed Remedy CBD Gummies: The Sweetest Way to Relieve Stress and Anxiety](https://dev.to/renewedremedycbdgummy/renewed-remedy-cbd-gummies-the-sweetest-way-to-relieve-stress-and-anxiety-n1h)
 - [Dev.to/JS] [Mastering the useState Hook: Creating a GitHub profile catalog using an API](https://dev.to/gideon1999/mastering-the-usestate-hook-creating-a-github-profile-catalog-using-an-api-33ge)
 - [Dev.to/JS] [Could someone help me to add annotation feature in reactsjs](https://dev.to/pankajsainiofficial/could-someone-help-me-to-add-annotation-feature-in-reactsjs-o6k)
 - [Dev.to/JS] [Why We Prefer Double Quotes in HTML Attributes and Single Quotes in JavaScript](https://dev.to/lebbe/why-we-prefer-double-quotes-in-html-attributes-and-single-quotes-in-javascript-4npn)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [quick start of alovajs, a request strategy library](https://dev.to/coderhu/quick-start-of-alovajs-a-request-strategy-library-3870)
 - [Dev.to/JS] [New Angular 17 feature: new control flow syntax](https://dev.to/this-is-angular/new-angular-17-feature-new-control-flow-syntax-23j3)
 - [Dev.to/JS] [How to use Firebase Storage to upload and retrieve files in Next.js &lpar;Pages Router&rpar;?](https://dev.to/reeshee/how-to-use-firebase-storage-to-upload-and-retrieve-files-in-nextjs-pages-router-2p16)
-- [Dev.to/JS] [JavaScript: language, engines, runtimes, environments &lpar;part 7/7&rpar;](https://dev.to/boolfalse1024/javascript-language-engines-runtimes-environments-part-77-gjf)
-- [Dev.to/JS] [Node.js: event-loop with practical examples. A big picture &lpar;part 6/7&rpar;](https://dev.to/boolfalse1024/nodejs-event-loop-with-practical-examples-a-big-picture-part-67-2nhi)
-- [Dev.to/JS] [Node.js: thread pool, real life analogy &lpar;part 5/7&rpar;](https://dev.to/boolfalse1024/nodejs-thread-pool-real-life-analogy-part-57-4njo)
-- [Dev.to/JS] [Node.js: libUV, introducing event-loop &lpar;part 4/7&rpar;](https://dev.to/boolfalse1024/nodejs-libuv-introducing-event-loop-part-47-59hp)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)
 - [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
 - [Lifehacker] [The Best All-in-One Desktops You Can Buy in 2023](https://lifehacker.com/the-best-all-in-one-desktops-1850968043)
 - [Lifehacker] [Enable These Accessibility Features on Your Smart TV](https://lifehacker.com/enable-these-accessibility-features-on-your-smart-tv-1850967222)
-- [Lifehacker] [What to Do Now That Amazon Is Killing Alexa’s IFTTT Integration](https://lifehacker.com/what-to-do-now-that-amazon-is-killing-alexa-s-ifttt-int-1850967474)
-- [Lifehacker] [How to Find Your Apple ID, Even When All Seems Lost](https://lifehacker.com/how-to-find-your-apple-id-even-when-all-seems-lost-1850959114)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do Now That Amazon Is Killing Alexa’s IFTTT Integration](https://lifehacker.com/what-to-do-now-that-amazon-is-killing-alexa-s-ifttt-int-1850967474)<!-- TECH-POSTS:END -->
 
 ---
 
