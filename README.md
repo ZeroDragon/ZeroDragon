@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering the useState Hook: Creating a GitHub profile catalog using an API](https://dev.to/gideon1999/mastering-the-usestate-hook-creating-a-github-profile-catalog-using-an-api-33ge)
+- [Dev.to/JS] [Could someone help me to add annotation feature in reactsjs](https://dev.to/pankajsainiofficial/could-someone-help-me-to-add-annotation-feature-in-reactsjs-o6k)
 - [Dev.to/JS] [Why We Prefer Double Quotes in HTML Attributes and Single Quotes in JavaScript](https://dev.to/lebbe/why-we-prefer-double-quotes-in-html-attributes-and-single-quotes-in-javascript-4npn)
 - [Dev.to/JS] [The Hidden Secrets of Website Speed: How We Achieved a 90% Page Load Time Improvement &lpar;With Real-Life Examples&rpar;](https://dev.to/delia_code/the-hidden-secrets-of-website-speed-how-we-achieved-a-90-page-load-time-improvement-with-real-life-examples-3fhg)
 - [Dev.to/JS] [Exploring TypeScript Enums and Discriminated Unions in Message Handling](https://dev.to/kuncheriakuruvilla/exploring-typescript-enums-and-discriminated-unions-in-message-handling-3hm)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js: event-loop with practical examples. A big picture &lpar;part 6/7&rpar;](https://dev.to/boolfalse1024/nodejs-event-loop-with-practical-examples-a-big-picture-part-67-2nhi)
 - [Dev.to/JS] [Node.js: thread pool, real life analogy &lpar;part 5/7&rpar;](https://dev.to/boolfalse1024/nodejs-thread-pool-real-life-analogy-part-57-4njo)
 - [Dev.to/JS] [Node.js: libUV, introducing event-loop &lpar;part 4/7&rpar;](https://dev.to/boolfalse1024/nodejs-libuv-introducing-event-loop-part-47-59hp)
-- [Dev.to/JS] [JavaScript: Execution Context, Data Storing &lpar;part 3/7&rpar;](https://dev.to/boolfalse1024/javascript-execution-context-data-storing-part-37-2n1l)
-- [Dev.to/JS] [JavaScript Engine: meaning and structure &lpar;part 2/7&rpar;](https://dev.to/boolfalse1024/javascript-engine-meaning-and-structure-part-27-2pc6)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)
 - [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
