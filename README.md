@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why We Prefer Double Quotes in HTML Attributes and Single Quotes in JavaScript](https://dev.to/lebbe/why-we-prefer-double-quotes-in-html-attributes-and-single-quotes-in-javascript-4npn)
+- [Dev.to/JS] [The Hidden Secrets of Website Speed: How We Achieved a 90% Page Load Time Improvement &lpar;With Real-Life Examples&rpar;](https://dev.to/delia_code/the-hidden-secrets-of-website-speed-how-we-achieved-a-90-page-load-time-improvement-with-real-life-examples-3fhg)
+- [Dev.to/JS] [Exploring TypeScript Enums and Discriminated Unions in Message Handling](https://dev.to/kuncheriakuruvilla/exploring-typescript-enums-and-discriminated-unions-in-message-handling-3hm)
+- [Dev.to/JS] [quick start of alovajs, a request strategy library](https://dev.to/coderhu/quick-start-of-alovajs-a-request-strategy-library-3870)
 - [Dev.to/JS] [New Angular 17 feature: new control flow syntax](https://dev.to/this-is-angular/new-angular-17-feature-new-control-flow-syntax-23j3)
 - [Dev.to/JS] [How to use Firebase Storage to upload and retrieve files in Next.js &lpar;Pages Router&rpar;?](https://dev.to/reeshee/how-to-use-firebase-storage-to-upload-and-retrieve-files-in-nextjs-pages-router-2p16)
 - [Dev.to/JS] [JavaScript: language, engines, runtimes, environments &lpar;part 7/7&rpar;](https://dev.to/boolfalse1024/javascript-language-engines-runtimes-environments-part-77-gjf)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js: libUV, introducing event-loop &lpar;part 4/7&rpar;](https://dev.to/boolfalse1024/nodejs-libuv-introducing-event-loop-part-47-59hp)
 - [Dev.to/JS] [JavaScript: Execution Context, Data Storing &lpar;part 3/7&rpar;](https://dev.to/boolfalse1024/javascript-execution-context-data-storing-part-37-2n1l)
 - [Dev.to/JS] [JavaScript Engine: meaning and structure &lpar;part 2/7&rpar;](https://dev.to/boolfalse1024/javascript-engine-meaning-and-structure-part-27-2pc6)
-- [Dev.to/JS] [Browsers; JavaScript Creation &lpar;part 1/7&rpar;](https://dev.to/boolfalse1024/browsers-javascript-creation-part-17-3c85)
-- [Dev.to/JS] [Not Great, Not Terrible JavaScript &lpar;part 0/7&rpar;](https://dev.to/boolfalse1024/not-great-not-terrible-javascript-part-07-3hp5)
-- [Dev.to/JS] [Make your Las Vegas business stand out with custom web design](https://dev.to/wigenllc/make-your-las-vegas-business-stand-out-with-web-design-51cp)
-- [Dev.to/JS] [Display your list: v-for 🫨](https://dev.to/dvalin99/display-your-list-v-for-4m8c)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)
 - [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
