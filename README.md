@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Keep Life Organized With Dashb.io: It changed my morning routine](https://dev.to/ngduc/keep-life-organized-with-dashbio-it-changed-my-morning-routine-2ogb)
 - [Dev.to/JS] [Build a Music Player using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/build-a-music-player-using-html-css-and-javascript-2d0m)
 - [Dev.to/JS] [The Elegance of JS Code: A Comprehensive Guide](https://dev.to/alvisonhunter/the-art-of-writing-clean-concise-and-precise-javascript-with-typescript-220l)
 - [Dev.to/JS] [Create your own calculator](https://dev.to/ruanaragao/create-your-own-calculator-1n9i)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Time to Reverse Your Ceiling Fans](https://lifehacker.com/its-time-to-reverse-your-ceiling-fans-1850973629)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [This Lifetime Learning Subscription Is $160 Through the Rest of October](https://lifehacker.com/this-lifetime-learning-subscription-is-160-through-the-1850968565)
-- [Dev.to/JS] [Performance Devtools](https://dev.to/ajay-8192/performance-devtools-3d1c)
 - [Lifehacker] [Evil Week: Trick Your Family Into Eating Lots of Tofu](https://lifehacker.com/evil-week-trick-your-family-into-eating-lots-of-tofu-1850973486)
 - [Lifehacker] [Evil Week: How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
 - [Lifehacker] [These Accessories Will No Longer Work on Your Xbox Next Month](https://lifehacker.com/these-accessories-will-no-longer-work-on-your-xbox-next-1850972910)
