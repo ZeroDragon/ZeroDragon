@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The New M3 MacBook Pro Is Practically the Perfect Laptop](https://lifehacker.com/new-m3-macbook-pro-review-1850976188)
+- [Dev.to/JS] [Navigating the JS TS Limbo](https://dev.to/slobodan4nista/navigating-the-js-ts-limbo-2h1d)
+- [Lifehacker] [This Color-Matching Sensor Is 40% Off Right Now](https://lifehacker.com/this-color-matching-sensor-is-40-off-right-now-1850974626)
+- [Dev.to/JS] [VueJS part 10: Passing data to the components](https://dev.to/hi_iam_chris/vuejs-part-10-passing-data-to-the-components-3ehg)
+- [Dev.to/JS] [Email obfuscation](https://dev.to/irishgeoff22/email-obfuscation-lb0)
+- [Dev.to/JS] [Integrating SendGrid with Node.js for sending transactional emails](https://dev.to/scofieldidehen/integrating-sendgrid-with-nodejs-for-sending-transactional-emails-4moa)
+- [Lifehacker] [Evil Week: How to Insult Your Enemies in a Classy Way](https://lifehacker.com/evil-week-how-to-insult-your-enemies-in-a-classy-way-1850950018)
 - [Dev.to/JS] [Top 10 React.js Best Practices for Clean Code](https://dev.to/rowsanali/top-10-reactjs-best-practices-for-clean-code-2bjc)
 - [Dev.to/JS] [Desenvolvimento de Componentes Assíncronos com Vue.js](https://dev.to/jhonyaraujooficial/desenvolvimento-de-componentes-assincronos-com-vuejs-4kfo)
 - [Lifehacker] [Evil Week: The Best Ways to Get Revenge &lpar;Legally&rpar;](https://lifehacker.com/evil-week-the-best-ways-to-get-revenge-legally-1850974570)
@@ -38,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the RAFT Technique to Quickly Sort Emails](https://lifehacker.com/use-the-raft-technique-to-quickly-sort-emails-1850973880)
 - [Dev.to/JS] [JavaScript&#39;de Boolean&#39;lar](https://dev.to/eminaltan/javascriptde-booleanlar-oh1)
 - [Dev.to/JS] [The complete guide to WebSockets with React](https://dev.to/ably/the-complete-guide-to-websockets-with-react-5d0m)
-- [Dev.to/JS] [🎃🦇 HTMLoween🦇🎃 HTML, CSS and JS that&#39;ll make you scream! 😱](https://dev.to/grahamthedev/htmloween-html-css-and-js-thatll-make-you-scream-2mad)
 - [Lifehacker] [This Is the Right Way to Store Firewood](https://lifehacker.com/the-best-way-to-store-firewood-1850972464)
-- [Dev.to/JS] [Using Promise.all,Implement mapLimit async function](https://dev.to/chandrapenugonda/using-promiseallimplement-maplimit-async-function-29jj)
-- [Dev.to/JS] [How to create a terminal simulation in the browser 👩‍💻🧑‍💻](https://dev.to/ehlo_250/how-to-create-a-terminal-simulation-in-the-browser-3l54)
-- [Dev.to/JS] [Renewed Remedy CBD Gummies: The Sweetest Way to Relieve Stress and Anxiety](https://dev.to/renewedremedycbdgummy/renewed-remedy-cbd-gummies-the-sweetest-way-to-relieve-stress-and-anxiety-n1h)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)
 - [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)
 - [Lifehacker] [This Eight-Piece Japanese Knife Set Is $130 Right Now](https://lifehacker.com/this-eight-piece-japanese-knife-set-is-130-right-now-1850968556)
 - [Lifehacker] [You Can Automatically &lpar;Temporarily&rpar; Disable Your Apple Music Listening History](https://lifehacker.com/you-can-automatically-temporarily-disable-your-apple-1850769572)
-- [Lifehacker] [Evil Week: How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
-- [Lifehacker] [Welcome Back to Evil Week](https://lifehacker.com/welcome-back-to-evil-week-1850972262)
-- [Lifehacker] [You Can Get a Lifetime Subscription to This Documentary Streaming Service for $169.97](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-this-documentary-1850968516)
-- [Lifehacker] [Evil Week: How to Hide Porn on Your Windows PC](https://lifehacker.com/how-to-hide-porn-on-your-windows-pc-1845511290)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)<!-- TECH-POSTS:END -->
 
 ---
 
