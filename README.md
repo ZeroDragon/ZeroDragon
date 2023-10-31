@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 React.js Best Practices for Clean Code](https://dev.to/rowsanali/top-10-reactjs-best-practices-for-clean-code-2bjc)
+- [Dev.to/JS] [Desenvolvimento de Componentes Assíncronos com Vue.js](https://dev.to/jhonyaraujooficial/desenvolvimento-de-componentes-assincronos-com-vuejs-4kfo)
+- [Lifehacker] [Evil Week: The Best Ways to Get Revenge &lpar;Legally&rpar;](https://lifehacker.com/evil-week-the-best-ways-to-get-revenge-legally-1850974570)
+- [Dev.to/JS] [The Devil Fruits of Frontend Frameworks: which suits best for you?](https://dev.to/thezal/the-devil-fruits-of-frontend-frameworks-which-suits-best-for-you-5a2i)
+- [Lifehacker] [Evil Week: How to Sell Your Soul to the Devil](https://lifehacker.com/how-to-sell-your-soul-to-the-devil-1850353292)
+- [Dev.to/JS] [JSON is Slower. Here Are Its 4 Faster Alternatives](https://dev.to/nikl/json-is-slower-here-are-its-4-faster-alternatives-2g30)
+- [Dev.to/JS] [Javascript em 6 meses do zero é possível?](https://dev.to/devdoido/javascript-em-6-meses-do-zero-e-possivel-ded)
+- [Lifehacker] [You Can Get the Google Pixel 7a for Its Lowest Price Ever Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
 - [Dev.to/JS] [Lets say I have 1/4 PRS and there are 24 other PRs which are in waiting list](https://dev.to/saikiran76/lets-say-i-have-14-prs-and-there-are-24-other-prs-which-are-in-waiting-list-3igo)
 - [Lifehacker] [Use the RAFT Technique to Quickly Sort Emails](https://lifehacker.com/use-the-raft-technique-to-quickly-sort-emails-1850973880)
 - [Dev.to/JS] [JavaScript&#39;de Boolean&#39;lar](https://dev.to/eminaltan/javascriptde-booleanlar-oh1)
@@ -35,11 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Promise.all,Implement mapLimit async function](https://dev.to/chandrapenugonda/using-promiseallimplement-maplimit-async-function-29jj)
 - [Dev.to/JS] [How to create a terminal simulation in the browser 👩‍💻🧑‍💻](https://dev.to/ehlo_250/how-to-create-a-terminal-simulation-in-the-browser-3l54)
 - [Dev.to/JS] [Renewed Remedy CBD Gummies: The Sweetest Way to Relieve Stress and Anxiety](https://dev.to/renewedremedycbdgummy/renewed-remedy-cbd-gummies-the-sweetest-way-to-relieve-stress-and-anxiety-n1h)
-- [Dev.to/JS] [Mastering the useState Hook: Creating a GitHub profile catalog using an API](https://dev.to/gideon1999/mastering-the-usestate-hook-creating-a-github-profile-catalog-using-an-api-33ge)
-- [Dev.to/JS] [Could someone help me to add annotation feature in reactsjs](https://dev.to/pankajsainiofficial/could-someone-help-me-to-add-annotation-feature-in-reactsjs-o6k)
-- [Dev.to/JS] [Why We Prefer Double Quotes in HTML Attributes and Single Quotes in JavaScript](https://dev.to/lebbe/why-we-prefer-double-quotes-in-html-attributes-and-single-quotes-in-javascript-4npn)
-- [Dev.to/JS] [The Hidden Secrets of Website Speed: How We Achieved a 90% Page Load Time Improvement &lpar;With Real-Life Examples&rpar;](https://dev.to/delia_code/the-hidden-secrets-of-website-speed-how-we-achieved-a-90-page-load-time-improvement-with-real-life-examples-3fhg)
-- [Dev.to/JS] [Exploring TypeScript Enums and Discriminated Unions in Message Handling](https://dev.to/kuncheriakuruvilla/exploring-typescript-enums-and-discriminated-unions-in-message-handling-3hm)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)
 - [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
 - [Lifehacker] [Welcome Back to Evil Week](https://lifehacker.com/welcome-back-to-evil-week-1850972262)
 - [Lifehacker] [You Can Get a Lifetime Subscription to This Documentary Streaming Service for $169.97](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-this-documentary-1850968516)
-- [Lifehacker] [Evil Week: How to Hide Porn on Your Windows PC](https://lifehacker.com/how-to-hide-porn-on-your-windows-pc-1845511290)
-- [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
-- [Lifehacker] [The Best All-in-One Desktops You Can Buy in 2023](https://lifehacker.com/the-best-all-in-one-desktops-1850968043)
-- [Lifehacker] [Enable These Accessibility Features on Your Smart TV](https://lifehacker.com/enable-these-accessibility-features-on-your-smart-tv-1850967222)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: How to Hide Porn on Your Windows PC](https://lifehacker.com/how-to-hide-porn-on-your-windows-pc-1845511290)<!-- TECH-POSTS:END -->
 
 ---
 
