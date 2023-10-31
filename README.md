@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create your own calculator](https://dev.to/ruanaragao/create-your-own-calculator-1n9i)
+- [Dev.to/JS] [Angular renaissance](https://dev.to/apijay/angular-renaissance-197j)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)
 - [Dev.to/JS] [Ayim](https://dev.to/adlinke/ayim-23hp)
@@ -48,9 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: How to Befriend Crows and Turn Them Against Your Enemies](https://lifehacker.com/how-to-befriend-crows-and-turn-them-against-your-enemie-1849393502)
 - [Dev.to/JS] [Create a React app using Webpack 5](https://dev.to/ajay-8192/create-a-react-app-using-webpack-5-afl)
 - [Lifehacker] [These Accessories Will No Longer Work on Your Xbox Next Month](https://lifehacker.com/these-accessories-will-no-longer-work-on-your-xbox-next-1850972910)
-- [Dev.to/JS] [Starting an Adventure: Exploring Startups, Coding, and More](https://dev.to/kamesh_dev/starting-an-adventure-exploring-startups-coding-and-more-3lkg)
 - [Lifehacker] [Why You Should Shop the Early Black Friday Deals This Year](https://lifehacker.com/why-you-should-shop-the-early-black-friday-deals-this-y-1850972779)
-- [Dev.to/JS] [Tips for optimizing the build process of an Angular application.](https://dev.to/balajipatnam/tips-for-optimizing-the-build-process-of-an-angular-application-40hg)
 - [Lifehacker] [Evil Week: The ‘Nice’ Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
 - [Lifehacker] [This Dump Cake Is Lazy as Hell, and I Love It](https://lifehacker.com/easy-peach-dump-cake-recipe-1850972867)
 - [Lifehacker] [All the Stuff in Your Home You Should Be Testing for Voltage](https://lifehacker.com/all-the-stuff-in-your-home-you-should-be-testing-for-vo-1850972788)
