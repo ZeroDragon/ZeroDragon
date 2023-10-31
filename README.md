@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lets say I have 1/4 PRS and there are 24 other PRs which are in waiting list](https://dev.to/saikiran76/lets-say-i-have-14-prs-and-there-are-24-other-prs-which-are-in-waiting-list-3igo)
+- [Lifehacker] [Use the RAFT Technique to Quickly Sort Emails](https://lifehacker.com/use-the-raft-technique-to-quickly-sort-emails-1850973880)
+- [Dev.to/JS] [JavaScript&#39;de Boolean&#39;lar](https://dev.to/eminaltan/javascriptde-booleanlar-oh1)
+- [Dev.to/JS] [The complete guide to WebSockets with React](https://dev.to/ably/the-complete-guide-to-websockets-with-react-5d0m)
 - [Dev.to/JS] [🎃🦇 HTMLoween🦇🎃 HTML, CSS and JS that&#39;ll make you scream! 😱](https://dev.to/grahamthedev/htmloween-html-css-and-js-thatll-make-you-scream-2mad)
 - [Lifehacker] [This Is the Right Way to Store Firewood](https://lifehacker.com/the-best-way-to-store-firewood-1850972464)
 - [Dev.to/JS] [Using Promise.all,Implement mapLimit async function](https://dev.to/chandrapenugonda/using-promiseallimplement-maplimit-async-function-29jj)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why We Prefer Double Quotes in HTML Attributes and Single Quotes in JavaScript](https://dev.to/lebbe/why-we-prefer-double-quotes-in-html-attributes-and-single-quotes-in-javascript-4npn)
 - [Dev.to/JS] [The Hidden Secrets of Website Speed: How We Achieved a 90% Page Load Time Improvement &lpar;With Real-Life Examples&rpar;](https://dev.to/delia_code/the-hidden-secrets-of-website-speed-how-we-achieved-a-90-page-load-time-improvement-with-real-life-examples-3fhg)
 - [Dev.to/JS] [Exploring TypeScript Enums and Discriminated Unions in Message Handling](https://dev.to/kuncheriakuruvilla/exploring-typescript-enums-and-discriminated-unions-in-message-handling-3hm)
-- [Dev.to/JS] [quick start of alovajs, a request strategy library](https://dev.to/coderhu/quick-start-of-alovajs-a-request-strategy-library-3870)
-- [Dev.to/JS] [New Angular 17 feature: new control flow syntax](https://dev.to/this-is-angular/new-angular-17-feature-new-control-flow-syntax-23j3)
-- [Dev.to/JS] [How to use Firebase Storage to upload and retrieve files in Next.js &lpar;Pages Router&rpar;?](https://dev.to/reeshee/how-to-use-firebase-storage-to-upload-and-retrieve-files-in-nextjs-pages-router-2p16)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)
 - [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: How to Hide Porn on Your Windows PC](https://lifehacker.com/how-to-hide-porn-on-your-windows-pc-1845511290)
 - [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
 - [Lifehacker] [The Best All-in-One Desktops You Can Buy in 2023](https://lifehacker.com/the-best-all-in-one-desktops-1850968043)
-- [Lifehacker] [Enable These Accessibility Features on Your Smart TV](https://lifehacker.com/enable-these-accessibility-features-on-your-smart-tv-1850967222)
-- [Lifehacker] [What to Do Now That Amazon Is Killing Alexa’s IFTTT Integration](https://lifehacker.com/what-to-do-now-that-amazon-is-killing-alexa-s-ifttt-int-1850967474)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Enable These Accessibility Features on Your Smart TV](https://lifehacker.com/enable-these-accessibility-features-on-your-smart-tv-1850967222)<!-- TECH-POSTS:END -->
 
 ---
 
