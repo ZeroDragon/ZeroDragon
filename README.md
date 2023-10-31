@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ayim](https://dev.to/adlinke/ayim-23hp)
+- [Dev.to/JS] [The Illusion of Data Ownership](https://dev.to/tbdevs/the-illusion-of-data-ownership-3nbi)
 - [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
 - [Dev.to/JS] [Setting Up AI Prompt in Nuxt.js](https://dev.to/kamruzzaman/setting-up-ai-prompt-in-nuxtjs-16e6)
 - [Dev.to/JS] [Making Curry: JavaScript Functional Programming](https://dev.to/oculus42/making-curry-javascript-functional-programming-2d6e)
@@ -50,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: The ‘Nice’ Way to Get Rid of the Tote Bags You Hate](https://lifehacker.com/the-nice-way-to-get-rid-of-the-tote-bags-you-hate-1849874545)
 - [Lifehacker] [This Dump Cake Is Lazy as Hell, and I Love It](https://lifehacker.com/easy-peach-dump-cake-recipe-1850972867)
 - [Lifehacker] [All the Stuff in Your Home You Should Be Testing for Voltage](https://lifehacker.com/all-the-stuff-in-your-home-you-should-be-testing-for-vo-1850972788)
-- [Dev.to/JS] [TypeScript Generics Demystified: Unlocking the Power of Parametric Polymorphism](https://dev.to/baransel/typescript-generics-demystified-unlocking-the-power-of-parametric-polymorphism-742)
-- [Dev.to/JS] [It&#39;s Easy To Switch from CommonJS to ES Modules with TS2ESM](https://dev.to/typescripttv/its-easy-to-switch-from-commonjs-to-es-modules-with-ts2esm-4chg)
 - [Lifehacker] [Evil Week: How to Curse Your Enemies](https://lifehacker.com/how-to-curse-your-enemies-1849791469)
 - [Lifehacker] [This Eight-Piece Japanese Knife Set Is $130 Right Now](https://lifehacker.com/this-eight-piece-japanese-knife-set-is-130-right-now-1850968556)
 - [Lifehacker] [You Can Automatically &lpar;Temporarily&rpar; Disable Your Apple Music Listening History](https://lifehacker.com/you-can-automatically-temporarily-disable-your-apple-1850769572)
