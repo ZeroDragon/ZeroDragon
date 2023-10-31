@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New Angular 17 feature: new control flow syntax](https://dev.to/this-is-angular/new-angular-17-feature-new-control-flow-syntax-23j3)
+- [Dev.to/JS] [How to use Firebase Storage to upload and retrieve files in Next.js &lpar;Pages Router&rpar;?](https://dev.to/reeshee/how-to-use-firebase-storage-to-upload-and-retrieve-files-in-nextjs-pages-router-2p16)
 - [Dev.to/JS] [JavaScript: language, engines, runtimes, environments &lpar;part 7/7&rpar;](https://dev.to/boolfalse1024/javascript-language-engines-runtimes-environments-part-77-gjf)
 - [Dev.to/JS] [Node.js: event-loop with practical examples. A big picture &lpar;part 6/7&rpar;](https://dev.to/boolfalse1024/nodejs-event-loop-with-practical-examples-a-big-picture-part-67-2nhi)
 - [Dev.to/JS] [Node.js: thread pool, real life analogy &lpar;part 5/7&rpar;](https://dev.to/boolfalse1024/nodejs-thread-pool-real-life-analogy-part-57-4njo)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Not Great, Not Terrible JavaScript &lpar;part 0/7&rpar;](https://dev.to/boolfalse1024/not-great-not-terrible-javascript-part-07-3hp5)
 - [Dev.to/JS] [Make your Las Vegas business stand out with custom web design](https://dev.to/wigenllc/make-your-las-vegas-business-stand-out-with-web-design-51cp)
 - [Dev.to/JS] [Display your list: v-for 🫨](https://dev.to/dvalin99/display-your-list-v-for-4m8c)
-- [Dev.to/JS] [Authentication Keeps Getting Easier: Passkeys with Hanko Cloud.](https://dev.to/abdulmuminyqn/authentication-keeps-getting-easier-passkeys-with-hanko-cloud-5dma)
-- [Dev.to/JS] [Web Development for Non-Developers: A Comprehensive Guide](https://dev.to/rowsanali/web-development-for-non-developers-a-comprehensive-guide-2n90)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)
 - [Lifehacker] [This Wireless Car Display Is $100 Right Now](https://lifehacker.com/this-wireless-car-display-is-100-right-now-1850968573)
