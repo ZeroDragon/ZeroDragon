@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Landing Page: Essential Tips and Tricks 🚀 #webdesign](https://dev.to/technicalmickey/mastering-landing-page-essential-tips-and-tricks-webdesign-2g04)
+- [Dev.to/JS] [🤓 Signal&lpar; &rpar; are most underrated in React.js](https://dev.to/todayscode14/signal-are-most-underrated-in-reactjs-16dg)
+- [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 2&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-2-51cn)
 - [Dev.to/JS] [Frontend Developer: Join the Tech Frontier at Verifik! 🚀](https://dev.to/verifik/frontend-developer-join-the-tech-frontier-at-verifik-45af)
 - [Dev.to/JS] [ReactJS Roadmap 2024 | by Trishan | How to become React Developer in 2024](https://dev.to/trishan9/reactjs-roadmap-2024-by-trishan-how-to-become-react-developer-in-2024-185m)
 - [Dev.to/JS] [Hacktober the 3rd](https://dev.to/bseefieldt/hacktober-the-3rd-3l1e)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Inicio estudos React Native](https://dev.to/dsfhigor/inicio-estudos-react-native-4bh7)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
 - [Dev.to/JS] [Is Your Code Running Slow? The Impact of Neglecting Function Memoization](https://dev.to/jaimaldullat/is-your-code-running-slow-the-impact-of-neglecting-function-memoization-2lmd)
-- [Dev.to/JS] [Top 7 Javascript Web Scraping Libraries in 2023](https://dev.to/serpapi/top-7-javascript-web-scraping-libraries-in-2023-4he)
-- [Dev.to/JS] [Enlightening Syntax Highlighting in Docusaurus](https://dev.to/vishnudas2003/enlightening-syntax-highlighting-in-docusaurus-2cj7)
-- [Dev.to/JS] [Deploy a NuxtJS App and Laravel API on a Linux Server](https://dev.to/kamruzzaman/deploy-a-nuxtjs-app-and-laravel-api-on-a-linux-server-54bh)
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
 - [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
