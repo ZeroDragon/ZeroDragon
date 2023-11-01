@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
+- [Dev.to/JS] [Implementing a decorator design pattern within React.](https://dev.to/elihood/implementing-a-decorator-design-pattern-within-react-gno)
 - [Dev.to/JS] [Performance Optimization: Techniques for Improving JavaScript Application Performance](https://dev.to/outstandingvick/performance-optimization-techniques-for-improving-javascript-application-performance-331d)
 - [Dev.to/JS] [The Best ORMs for Node.js App Development in 2023](https://dev.to/victor1890/the-best-orms-for-nodejs-app-development-in-2023-1blk)
 - [Dev.to/JS] [Build a comfortable and blazing fast image viewer in just 10 lines of Javascript code](https://dev.to/efpage/build-a-comfortable-and-blazing-fast-image-viewer-in-just-10-lines-of-javascript-code-5gad)
@@ -49,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🏆 The top 3 repos from hacktoberfest you CANNOT ignore🚀](https://dev.to/quine/the-top-3-repos-from-hacktoberfest-you-cannot-ignore-3mpb)
 - [Lifehacker] [Why You Should Masturbate Before a First Date](https://lifehacker.com/why-you-should-masturbate-before-a-first-date-1850978919)
 - [Dev.to/JS] [HTML, CSS and JS - a silly little game](https://dev.to/lisag/html-css-and-js-a-silly-little-game-272b)
-- [Dev.to/JS] [Mastering Reusable Modals in Vue.js: Enhancing UI Flexibility](https://dev.to/kucherol/mastering-reusable-modals-in-vuejs-enhancing-ui-flexibility-1fh0)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Organize Your To-Do List](https://lifehacker.com/the-best-and-worst-ways-to-organize-your-to-do-list-1850980235)
 - [Lifehacker] [The Biggest New Features in Windows 11&#39;s 23H2 Update](https://lifehacker.com/best-new-features-windows-11-23h2-update-1850860890)
 - [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
-- [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
-- [Lifehacker] [Why Putting More in a 401&lpar;k&rpar; Can Now Increase Your College Financial Aid](https://lifehacker.com/new-fafsa-returement-savings-rule-1850976648)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)<!-- TECH-POSTS:END -->
 
 ---
 
