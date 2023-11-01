@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 How I built AI pictures generator in a GitHub logo style 😻 and got featured in GitHub&#39;s Twitter and Instagram 🤯](https://dev.to/garrrikkotua/how-i-built-ai-pictures-generator-in-a-github-logo-style-and-got-featured-in-githubs-twitter-and-instagram-5226)
+- [Lifehacker] [Evil Week: How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)
+- [Dev.to/JS] [Mastering Node.js Streams: Unleashing Scalable I/O 🚀](https://dev.to/rahulladumor/mastering-nodejs-streams-unleashing-scalable-io-2jmk)
+- [Dev.to/JS] [Hat Trick for Sport Bloggers: Maximizing Engagement with Soccer Highlights](https://dev.to/sports_junkie/hat-trick-for-sport-bloggers-maximizing-engagement-with-soccer-highlights-4pgp)
+- [Dev.to/JS] [🏆 The top 3 repos from hacktoberfest 🚀](https://dev.to/quine/the-top-3-repos-from-hacktoberfest-you-cannot-ignore-3mpb)
+- [Lifehacker] [Why You Should Masturbate Before a First Date](https://lifehacker.com/why-you-should-masturbate-before-a-first-date-1850978919)
 - [Dev.to/JS] [HTML, CSS and JS - a silly little game](https://dev.to/lisag/html-css-and-js-a-silly-little-game-272b)
 - [Dev.to/JS] [Mastering Reusable Modals in Vue.js: Enhancing UI Flexibility](https://dev.to/kucherol/mastering-reusable-modals-in-vuejs-enhancing-ui-flexibility-1fh0)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Organize Your To-Do List](https://lifehacker.com/the-best-and-worst-ways-to-organize-your-to-do-list-1850980235)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
 - [Dev.to/JS] [Assistir Filme Não Abras Dublado e Legendado Online Grátis](https://dev.to/vgbhgbu/assistir-filme-nao-abras-dublado-e-legendado-online-gratis-48mk)
 - [Dev.to/JS] [Assistir Não Abras online dublado em Português](https://dev.to/vgbhgbu/assistir-nao-abras-online-dublado-em-portugues-383d)
-- [Dev.to/JS] [How can i make this react Layout private](https://dev.to/ayoubelsvg/how-can-i-make-this-react-layout-private-3beh)
-- [Dev.to/JS] [How should a beginner start programming?](https://dev.to/sharathchandark/how-should-a-beginner-start-programming-3hom)
 - [Lifehacker] [10 of the Best Podcasts About Adoption](https://lifehacker.com/best-adoption-podcasts-1850976630)
-- [Dev.to/JS] [ASSISTIR-HDQ! Não Abras Completo ONLINE Dublado Gratis-720p](https://dev.to/vgbhgbu/assistir-hdq-nao-abras-completo-online-dublado-gratis-720p-1ndp)
-- [Dev.to/JS] [Assistir Não Abras Filme Completo Online Dublado e Legendado Grátis em Português](https://dev.to/vgbhgbu/assistir-nao-abras-filme-completo-online-dublado-e-legendado-gratis-em-portugues-4fk8)
 - [Lifehacker] [Evil Week: How to Get Into Exclusive Parties Without an Invitation](https://lifehacker.com/how-to-get-into-exclusive-parties-and-clubs-without-an-1453378483)
 - [Lifehacker] [You Can Get a 3rd Generation iPad Air for $280](https://lifehacker.com/you-can-get-a-3rd-generation-ipad-air-for-280-1850974914)
 - [Lifehacker] [The Best Ways to Clean and Care for Natural Wood Cabinets](https://lifehacker.com/the-best-ways-to-clean-and-care-for-natural-wood-cabine-1850978380)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Sam’s Club Memberships Are $20 Today](https://lifehacker.com/sam-s-club-memberships-are-20-today-1850974737)
 - [Lifehacker] [Evil Week: The Passive-Aggressive Way to Stop Someone From Reclining Their Seat on a Flight](https://lifehacker.com/how-to-get-someone-to-stop-reclining-their-seat-on-a-fl-1839467741)
 - [Lifehacker] [Look Out for These Signs of a Badly Flipped House](https://lifehacker.com/look-out-for-these-signs-of-a-badly-flipped-house-1850976861)
-- [Lifehacker] [Evil Week: Keep Your Snacks Out of Your Family&#39;s Filthy Paws](https://lifehacker.com/evil-week-keep-your-snacks-out-of-your-familys-filthy-1850976695)
-- [Lifehacker] [Evil Week: The Best Fake Phone Number Is the One You Make Yourself With Twilio](https://lifehacker.com/how-to-set-up-a-fake-phone-number-1829907777)
-- [Lifehacker] [Evil Week: Imply You&#39;re Pregnant for Better Treatment](https://lifehacker.com/evil-week-imply-youre-pregnant-for-better-treatment-1850976678)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: Keep Your Snacks Out of Your Family&#39;s Filthy Paws](https://lifehacker.com/evil-week-keep-your-snacks-out-of-your-familys-filthy-1850976695)<!-- TECH-POSTS:END -->
 
 ---
 
