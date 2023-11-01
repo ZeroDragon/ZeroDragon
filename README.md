@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [Evil Week: Everything You Can Find Out About Someone From Public Information](https://lifehacker.com/evil-week-everything-you-can-find-out-about-someone-fr-1850981103)
+- [Dev.to/JS] [Taming the HTML dialog with React and TailwindCSS](https://dev.to/fibonacid/taming-the-html-dialog-with-react-and-tailwindcss-5hec)
+- [Lifehacker] [You Can &#39;Marcona&#39; Your Own Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)
+- [Lifehacker] [Should You Buy the ASUS ROG Ally Z1 or the Z1 Extreme?](https://lifehacker.com/asus-rog-ally-z1-versus-z1-extreme-comparison-1850981011)
 - [Dev.to/JS] [Java Coding Practice for Beginners: 10 Exercises to Get You Started](https://dev.to/devme/java-coding-practice-for-beginners-10-exercises-to-get-you-started-4849)
+- [Lifehacker] [Evil Week: Everything You Can Find Out About Someone From Public Information](https://lifehacker.com/evil-week-everything-you-can-find-out-about-someone-fr-1850981103)
 - [Lifehacker] [Evil Week: Pass Off Cheap Baked Goods As the Expensive Stuff](https://lifehacker.com/evil-week-pass-off-cheap-baked-goods-as-the-expensive-1850980950)
 - [Dev.to/JS] [Why you should start profiling your application on the production](https://dev.to/axotion/why-you-should-start-profiling-the-production-1hom)
 - [Lifehacker] [Apple Arcade Is Getting New Games](https://lifehacker.com/apple-arcade-is-getting-new-games-1850980518)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Waterfall Chart with JavaScript](https://dev.to/awanshrestha/how-to-build-a-waterfall-chart-with-javascript-2a31)
 - [Lifehacker] [The Biggest New Features in Windows 11&#39;s 23H2 Update](https://lifehacker.com/best-new-features-windows-11-23h2-update-1850860890)
 - [Dev.to/JS] [Assistir Não Abras &lpar;2023&rpar; Online em Português - Filme Completo](https://dev.to/vgbhgbu/assistir-nao-abras-2023-online-em-portugues-filme-completo-1hc2)
-- [Dev.to/JS] [ReactJS Good Practices](https://dev.to/nikacodes/reactjs-good-practices-59b3)
 - [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
 - [Lifehacker] [10 of the Best Podcasts About Adoption](https://lifehacker.com/best-adoption-podcasts-1850976630)
 - [Lifehacker] [Evil Week: How to Get Into Exclusive Parties Without an Invitation](https://lifehacker.com/how-to-get-into-exclusive-parties-and-clubs-without-an-1453378483)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
 - [Lifehacker] [These Are Target&#39;s Best Early Black Friday Deals](https://lifehacker.com/these-are-targets-best-early-black-friday-deals-1850977262)
 - [Lifehacker] [Three Things I Do to Protect My Plants Before a Freeze](https://lifehacker.com/three-things-i-do-to-protect-my-plants-before-a-freeze-1850977175)
-- [Lifehacker] [Evil Week: How to Creep on Someone&#39;s Instagram Stories in Secret](https://lifehacker.com/how-to-creep-on-someones-instagram-stories-anonymously-1848794616)
-- [Lifehacker] [The ASUS Rog Ally Z1 Is a Solid Steam Deck Alternative](https://lifehacker.com/asus-rog-ally-z1-review-1850976924)
-- [Lifehacker] [Sam’s Club Memberships Are $20 Today](https://lifehacker.com/sam-s-club-memberships-are-20-today-1850974737)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: How to Creep on Someone&#39;s Instagram Stories in Secret](https://lifehacker.com/how-to-creep-on-someones-instagram-stories-anonymously-1848794616)<!-- TECH-POSTS:END -->
 
 ---
 
