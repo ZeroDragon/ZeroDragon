@@ -26,21 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML, CSS and JS - a silly little game](https://dev.to/lisag/html-css-and-js-a-silly-little-game-272b)
+- [Dev.to/JS] [Mastering Reusable Modals in Vue.js: Enhancing UI Flexibility](https://dev.to/kucherol/mastering-reusable-modals-in-vuejs-enhancing-ui-flexibility-1fh0)
+- [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Organize Your To-Do List](https://lifehacker.com/the-best-and-worst-ways-to-organize-your-to-do-list-1850980235)
+- [Dev.to/JS] [Adding code formatting, linting, pre-commit hooks and beyond...](https://dev.to/sdthaker/adding-code-formatting-linting-pre-commit-hooks-and-beyond-4mkh)
+- [Dev.to/JS] [How to Build a Waterfall Chart with JavaScript](https://dev.to/awanshrestha/how-to-build-a-waterfall-chart-with-javascript-2a31)
+- [Lifehacker] [The Biggest New Features in Windows 11&#39;s 23H2 Update](https://lifehacker.com/best-new-features-windows-11-23h2-update-1850860890)
+- [Dev.to/JS] [Assistir Não Abras &lpar;2023&rpar; Online em Português - Filme Completo](https://dev.to/vgbhgbu/assistir-nao-abras-2023-online-em-portugues-filme-completo-1hc2)
+- [Dev.to/JS] [ReactJS Good Practices](https://dev.to/nikacodes/reactjs-good-practices-59b3)
+- [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
+- [Dev.to/JS] [Assistir Filme Não Abras Dublado e Legendado Online Grátis](https://dev.to/vgbhgbu/assistir-filme-nao-abras-dublado-e-legendado-online-gratis-48mk)
+- [Dev.to/JS] [Assistir Não Abras online dublado em Português](https://dev.to/vgbhgbu/assistir-nao-abras-online-dublado-em-portugues-383d)
+- [Dev.to/JS] [How can i make this react Layout private](https://dev.to/ayoubelsvg/how-can-i-make-this-react-layout-private-3beh)
 - [Dev.to/JS] [How should a beginner start programming?](https://dev.to/sharathchandark/how-should-a-beginner-start-programming-3hom)
 - [Lifehacker] [10 of the Best Podcasts About Adoption](https://lifehacker.com/best-adoption-podcasts-1850976630)
 - [Dev.to/JS] [ASSISTIR-HDQ! Não Abras Completo ONLINE Dublado Gratis-720p](https://dev.to/vgbhgbu/assistir-hdq-nao-abras-completo-online-dublado-gratis-720p-1ndp)
 - [Dev.to/JS] [Assistir Não Abras Filme Completo Online Dublado e Legendado Grátis em Português](https://dev.to/vgbhgbu/assistir-nao-abras-filme-completo-online-dublado-e-legendado-gratis-em-portugues-4fk8)
-- [Dev.to/JS] [Convert HTML to Markdown &lpar;md&rpar;](https://dev.to/myogeshverma/convert-html-to-markdown-md-1dk9)
-- [Dev.to/JS] [~^Assistir Não Abras Filme Completo](https://dev.to/vgbhgbu/assistir-nao-abras-filme-completo-1hfa)
-- [Dev.to/JS] [ASSISTIR,!! Não Abras Filme Dublado Online HD Grátis Filme](https://dev.to/vgbhgbu/assistir-nao-abras-filme-dublado-online-hd-gratis-filme-33g0)
+- [Lifehacker] [Evil Week: How to Get Into Exclusive Parties Without an Invitation](https://lifehacker.com/how-to-get-into-exclusive-parties-and-clubs-without-an-1453378483)
 - [Lifehacker] [You Can Get a 3rd Generation iPad Air for $280](https://lifehacker.com/you-can-get-a-3rd-generation-ipad-air-for-280-1850974914)
-- [Dev.to/JS] [What framework do you use to write an interface for watching videos and music, music, when working with React?](https://dev.to/dinhvankhoideveloper/what-framework-do-you-use-to-write-an-interface-for-watching-videos-and-music-music-when-working-with-react-201l)
-- [Dev.to/JS] [Next JS Authentication With Clerk](https://dev.to/mahamatmans/next-js-authentication-with-clerk-1h9p)
-- [Dev.to/JS] [Using Google Apps Script: Create a todo web app](https://dev.to/sauravshah31/using-google-apps-script-create-a-todo-web-app-4cah)
-- [Dev.to/JS] [10 JavaScript Shorthand Techniques To Improve Efficiency 💡](https://dev.to/todayscode14/10-javascript-shorthand-techniques-to-improve-efficiency-5cop)
 - [Lifehacker] [The Best Ways to Clean and Care for Natural Wood Cabinets](https://lifehacker.com/the-best-ways-to-clean-and-care-for-natural-wood-cabine-1850978380)
-- [Dev.to/JS] [Assistir! Não Abras Filme Completo &lpar;2023&rpar; Dublado Online Grátis](https://dev.to/vgbhgbu/assistir-nao-abras-filme-completo-2023-dublado-online-gratis-46ji)
-- [Dev.to/JS] [[¡Assistir!] ― Não Abras&quot; &lpar;2023&rpar; Filme Completo Dublado e Legendado](https://dev.to/vgbhgbu/assistir-nao-abras-2023-filme-completo-dublado-e-legendado-53jo)
 - [Lifehacker] [Evil Week: How to Summon a Demon](https://lifehacker.com/how-to-summon-a-demon-1848558679)
 - [Lifehacker] [Evil Week: You Can Make Personalized Porn Images With AI](https://lifehacker.com/evil-week-you-can-make-personalized-porn-images-with-a-1850978902)
 - [Lifehacker] [Don&#39;t Give Up, You Can Re-soften Stale Cookies](https://lifehacker.com/how-to-re-soften-stale-cookies-1850978028)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Look Out for These Signs of a Badly Flipped House](https://lifehacker.com/look-out-for-these-signs-of-a-badly-flipped-house-1850976861)
 - [Lifehacker] [Evil Week: Keep Your Snacks Out of Your Family&#39;s Filthy Paws](https://lifehacker.com/evil-week-keep-your-snacks-out-of-your-familys-filthy-1850976695)
 - [Lifehacker] [Evil Week: The Best Fake Phone Number Is the One You Make Yourself With Twilio](https://lifehacker.com/how-to-set-up-a-fake-phone-number-1829907777)
-- [Lifehacker] [Evil Week: Imply You&#39;re Pregnant for Better Treatment](https://lifehacker.com/evil-week-imply-youre-pregnant-for-better-treatment-1850976678)
-- [Lifehacker] [Everything Apple Announced During Its &#39;Scary Fast&#39; Mac Event](https://lifehacker.com/everything-apple-announced-during-its-scary-fast-mac-ev-1850976502)
-- [Lifehacker] [Evil Week: Give a Crappy Handmade Gift for Christmas](https://lifehacker.com/give-handmade-gifts-so-people-cant-complain-1845484484)
-- [Lifehacker] [The New M3 MacBook Pro Is Practically the Perfect Laptop](https://lifehacker.com/new-m3-macbook-pro-review-1850976188)
-- [Lifehacker] [This Color-Matching Sensor Is 40% Off Right Now](https://lifehacker.com/this-color-matching-sensor-is-40-off-right-now-1850974626)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: Imply You&#39;re Pregnant for Better Treatment](https://lifehacker.com/evil-week-imply-youre-pregnant-for-better-treatment-1850976678)<!-- TECH-POSTS:END -->
 
 ---
 
