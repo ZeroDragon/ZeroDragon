@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Screen Recorder in 20 lines of JavaScript](https://dev.to/ninofiliu/simple-screen-recorder-in-20-lines-of-javascript-4ina)
+- [Dev.to/JS] [Prepare your Meteor.js project for the big 3.0 release!](https://dev.to/jankapunkt/prepare-your-meteorjs-project-for-the-big-30-release-14bf)
 - [Dev.to/JS] [The Importance of OCR Performance Optimization](https://dev.to/ideradevtools/the-importance-of-ocr-performance-optimization-5d4l)
 - [Dev.to/JS] [Unearthing Data Structures &amp; Algorithms: The Essentials Guide. P1](https://dev.to/rcmtcristian/unearthing-data-structures-algorithms-the-essentials-guide-p1-194l)
 - [Dev.to/JS] [Javascript datetime to and from postgres with time zone](https://dev.to/thebridge2/javascript-to-and-from-postgres-datetime-with-timezone-eif)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Development Services in Chandigarh](https://dev.to/neptune9362/web-development-services-in-chandigarh-55ca)
 - [Dev.to/JS] [Snapchat Planets: Order &amp; Meaning Explained](https://dev.to/thenexttech/snapchat-planets-order-meaning-explained-43ff)
 - [Dev.to/JS] [Doing 23 micro launches instead of just 1 platform](https://dev.to/ako61142833/doing-23-micro-launches-instead-of-just-1-platform-1hn8)
-- [Dev.to/JS] [💻 Web Development Resources #172](https://dev.to/vincenius/web-development-resources-172-2g1l)
-- [Dev.to/JS] [Joomla Job Support: Your Path to Success](https://dev.to/emma02/joomla-job-support-your-path-to-success-4l9a)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
