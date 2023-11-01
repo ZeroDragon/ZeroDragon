@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 4 platforms for learning how to code &lpar;2020 edition&rpar;](https://dev.to/sediak/top-4-platforms-for-learning-how-to-code-2020-edition-4eo1)
+- [Dev.to/JS] [IS IT OK TO ACCESS REACTJS WITHOUT KNOWLEDGE ABOUT OOP JS? CAN YOU LEARN REACTJS?](https://dev.to/dinhvankhoideveloper/is-it-ok-to-access-reactjs-without-knowledge-about-oop-js-can-you-learn-reactjs-2g76)
 - [Dev.to/JS] [7 New JDK 19 Features Explained](https://dev.to/infiraise/7-new-jdk-19-features-explained-2982)
 - [Dev.to/JS] [Searching Algorithm in JS](https://dev.to/delaquash/searching-algorithm-in-js-47kg)
 - [Dev.to/JS] [Mastering Landing Page: Essential Tips and Tricks 🚀 #webdesign](https://dev.to/technicalmickey/mastering-landing-page-essential-tips-and-tricks-webdesign-2g04)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hacktober the 3rd](https://dev.to/bseefieldt/hacktober-the-3rd-3l1e)
 - [Dev.to/JS] [Adding reCAPTCHA in MERN Application](https://dev.to/dharan/adding-recaptcha-in-mern-application-1kon)
 - [Dev.to/JS] [Javascript - Handling reject in a Promise](https://dev.to/rishadomar/javascript-handling-reject-in-a-promise-205f)
-- [Dev.to/JS] [Advanced Email Functionality with Node.js, React.js, Nodemailer, and OAuth2 in 2023](https://dev.to/scofieldidehen/advanced-email-functionality-with-nodejs-reactjs-nodemailer-and-oauth2-in-2023-134o)
-- [Dev.to/JS] [GET BACK STOLEN CRYPTOCURRENCY FROM SCAMMERS THROUGH OMEGA CRYPTO RECOVERY SPECIALIST](https://dev.to/princeea/get-back-stolen-cryptocurrency-from-scammers-through-omega-crypto-recovery-specialist-jcb)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
