@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Inicio estudos React Native](https://dev.to/dsfhigor/inicio-estudos-react-native-4bh7)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
+- [Dev.to/JS] [Is Your Code Running Slow? The Impact of Neglecting Function Memoization](https://dev.to/jaimaldullat/is-your-code-running-slow-the-impact-of-neglecting-function-memoization-2lmd)
+- [Dev.to/JS] [Top 7 Javascript Web Scraping Libraries in 2023](https://dev.to/serpapi/top-7-javascript-web-scraping-libraries-in-2023-4he)
 - [Dev.to/JS] [Enlightening Syntax Highlighting in Docusaurus](https://dev.to/vishnudas2003/enlightening-syntax-highlighting-in-docusaurus-2cj7)
 - [Dev.to/JS] [Deploy a NuxtJS App and Laravel API on a Linux Server](https://dev.to/kamruzzaman/deploy-a-nuxtjs-app-and-laravel-api-on-a-linux-server-54bh)
 - [Dev.to/JS] [Laravel API Integration in Nuxt.js](https://dev.to/kamruzzaman/laravel-api-integration-in-nuxtjs-b89)
@@ -41,11 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Portable Bluetooth Wireless Neckband Speaker Is $37.99](https://lifehacker.com/this-portable-bluetooth-wireless-neckband-speaker-is-3-1850974647)
 - [Dev.to/JS] [Contributing to Mermaid Github](https://dev.to/sshah135/contributing-to-mermaid-github-4p2d)
 - [Lifehacker] [Evil Week: Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
-- [Dev.to/JS] [Next.js 14: No New APIs &amp; Breaking Changes](https://dev.to/mongodb/nextjs-14-no-new-apis-breaking-changes-3nh3)
 - [Lifehacker] [These Are Target&#39;s Best Early Black Friday Deals](https://lifehacker.com/these-are-targets-best-early-black-friday-deals-1850977262)
-- [Dev.to/JS] [The super power that lets you tell TypeScript what is actually happening](https://dev.to/gingerchew/the-super-power-that-lets-you-tell-typescript-what-is-actually-happening-22mo)
 - [Lifehacker] [Three Things I Do to Protect My Plants Before a Freeze](https://lifehacker.com/three-things-i-do-to-protect-my-plants-before-a-freeze-1850977175)
-- [Dev.to/JS] [Unit Testing in React with Jest and Enzyme](https://dev.to/rowsanali/unit-testing-in-react-with-jest-and-enzyme-5e1e)
 - [Lifehacker] [Evil Week: How to Creep on Someone&#39;s Instagram Stories in Secret](https://lifehacker.com/how-to-creep-on-someones-instagram-stories-anonymously-1848794616)
 - [Lifehacker] [The ASUS Rog Ally Z1 Is a Solid Steam Deck Alternative](https://lifehacker.com/asus-rog-ally-z1-review-1850976924)
 - [Lifehacker] [Sam’s Club Memberships Are $20 Today](https://lifehacker.com/sam-s-club-memberships-are-20-today-1850974737)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get the Google Pixel 7a for Its Lowest Price Ever Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
 - [Lifehacker] [Use the RAFT Technique to Quickly Sort Emails](https://lifehacker.com/use-the-raft-technique-to-quickly-sort-emails-1850973880)
 - [Lifehacker] [This Is the Right Way to Store Firewood](https://lifehacker.com/the-best-way-to-store-firewood-1850972464)
-- [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, October 31, 2023](https://lifehacker.com/nyt-connections-answer-today-october-31-2023-1850972354)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)<!-- TECH-POSTS:END -->
 
 ---
 
