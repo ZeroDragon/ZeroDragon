@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How you can use GitHub Issues as your CMS?](https://dev.to/reeshee/how-you-can-use-github-issues-as-your-cms-9aj)
+- [Dev.to/JS] [Web Development Services in Chandigarh](https://dev.to/neptune9362/web-development-services-in-chandigarh-55ca)
+- [Dev.to/JS] [Snapchat Planets: Order &amp; Meaning Explained](https://dev.to/thenexttech/snapchat-planets-order-meaning-explained-43ff)
+- [Dev.to/JS] [Doing 23 micro launches instead of just 1 platform](https://dev.to/ako61142833/doing-23-micro-launches-instead-of-just-1-platform-1hn8)
 - [Dev.to/JS] [💻 Web Development Resources #172](https://dev.to/vincenius/web-development-resources-172-2g1l)
 - [Dev.to/JS] [Joomla Job Support: Your Path to Success](https://dev.to/emma02/joomla-job-support-your-path-to-success-4l9a)
 - [Dev.to/JS] [Bape hoodie Fashion Statement](https://dev.to/xtremedigits/bape-hoodie-fashion-statement-4ei6)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [IS IT OK TO ACCESS REACTJS WITHOUT KNOWLEDGE ABOUT OOP JS? CAN YOU LEARN REACTJS?](https://dev.to/dinhvankhoideveloper/is-it-ok-to-access-reactjs-without-knowledge-about-oop-js-can-you-learn-reactjs-2g76)
 - [Dev.to/JS] [7 New JDK 19 Features Explained](https://dev.to/infiraise/7-new-jdk-19-features-explained-2982)
 - [Dev.to/JS] [Searching Algorithm in JS](https://dev.to/delaquash/searching-algorithm-in-js-47kg)
-- [Dev.to/JS] [Mastering Landing Page: Essential Tips and Tricks 🚀 #webdesign](https://dev.to/technicalmickey/mastering-landing-page-essential-tips-and-tricks-webdesign-2g04)
-- [Dev.to/JS] [🤓 Signal&lpar; &rpar; are most underrated in React.js](https://dev.to/todayscode14/signal-are-most-underrated-in-reactjs-16dg)
-- [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 2&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-2-51cn)
-- [Dev.to/JS] [Frontend Developer: Join the Tech Frontier at Verifik! 🚀](https://dev.to/verifik/frontend-developer-join-the-tech-frontier-at-verifik-45af)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
