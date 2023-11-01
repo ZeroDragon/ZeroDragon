@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Simple Screen Recorder in 20 lines of JavaScript](https://dev.to/ninofiliu/simple-screen-recorder-in-20-lines-of-javascript-4ina)
-- [Dev.to/JS] [Prepare your Meteor.js project for the big 3.0 release!](https://dev.to/jankapunkt/prepare-your-meteorjs-project-for-the-big-30-release-14bf)
-- [Dev.to/JS] [The Importance of OCR Performance Optimization](https://dev.to/ideradevtools/the-importance-of-ocr-performance-optimization-5d4l)
-- [Dev.to/JS] [Unearthing Data Structures &amp; Algorithms: The Essentials Guide. P1](https://dev.to/rcmtcristian/unearthing-data-structures-algorithms-the-essentials-guide-p1-194l)
-- [Dev.to/JS] [Javascript datetime to and from postgres with time zone](https://dev.to/thebridge2/javascript-to-and-from-postgres-datetime-with-timezone-eif)
-- [Dev.to/JS] [JavaScript Object Properties: Dot Notation or Bracket Notation?](https://dev.to/quratulaiinn/javascript-object-properties-dot-notation-or-bracket-notation-3gk0)
-- [Dev.to/JS] [The Side Hustles of a Web Developer: Turning Passion into Profit](https://dev.to/delia_code/the-side-hustles-of-a-web-developer-turning-passion-into-profit-ok)
-- [Dev.to/JS] [JavaScript&#39;de Array Data Type](https://dev.to/eminaltan/javascriptde-arraylar-m1o)
-- [Dev.to/JS] [How to you use GitHub Issues as your CMS?](https://dev.to/reeshee/how-you-can-use-github-issues-as-your-cms-9aj)
-- [Dev.to/JS] [Web Development Services in Chandigarh](https://dev.to/neptune9362/web-development-services-in-chandigarh-55ca)
-- [Dev.to/JS] [Snapchat Planets: Order &amp; Meaning Explained](https://dev.to/thenexttech/snapchat-planets-order-meaning-explained-43ff)
-- [Dev.to/JS] [Doing 23 micro launches instead of just 1 platform](https://dev.to/ako61142833/doing-23-micro-launches-instead-of-just-1-platform-1hn8)
+- [Dev.to/JS] [[Cuevana-3] VER— Priscilla 2023 Película Completa Online](https://dev.to/castlok/cuevana-3-ver-priscilla-2023-pelicula-completa-online-10mh)
+- [Dev.to/JS] [[VER] Priscilla &lpar;2023&rpar; PELÍCULA COMPLETA EN LÍNEA](https://dev.to/castlok/ver-priscilla-2023-pelicula-completa-en-linea-4mhc)
+- [Dev.to/JS] [Cuevana~3 Ver Priscilla &lpar;2023&rpar; Completa Online Gratis](https://dev.to/castlok/cuevana3-ver-priscilla-2023-completa-online-gratis-h5j)
+- [Dev.to/JS] [[VERPELIS] ~ Priscilla*2023 - PELÍCULA COMPLETA en Español](https://dev.to/castlok/verpelis-priscilla2023-pelicula-completa-en-espanol-dnk)
+- [Dev.to/JS] [AI Meets WYSIWYG Editors: The Future of Smart Content Creation](https://dev.to/ideradevtools/ai-meets-wysiwyg-editors-the-future-of-smart-content-creation-ll5)
+- [Dev.to/JS] [[!PELISPLUS!]~Ver Priscilla 𝐏elícula Completa Castellano en 𝗲spañol Latino HD](https://dev.to/castlok/pelisplusver-priscilla-elicula-completa-castellano-en-spanol-latino-hd-l30)
+- [Dev.to/JS] [Priscilla &lpar;2023&rpar; Película completa en español repelis](https://dev.to/castlok/priscilla-2023-pelicula-completa-en-espanol-repelis-1bln)
+- [Dev.to/JS] [6 AI Tools You Have To Know as a Software Developer! 🛠 🤯](https://dev.to/matan_abramovich/6-ai-tools-you-have-to-know-as-a-software-developer-4i6k)
+- [Lifehacker] [Don&#39;t Give Up, You Can Re-soften Stale Cookies](https://lifehacker.com/how-to-re-soften-stale-cookies-1850978028)
+- [Dev.to/JS] [24 Best Resources 🎨 For Web Developers 💻 [HTML + CSS + JavaScript] 😱](https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog)
+- [Lifehacker] [Evil Week: How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
+- [Dev.to/JS] [JavaScript - Map and filter an array at the same time](https://dev.to/jenchen/javascript-map-and-filter-an-array-at-the-same-time-5ado)
+- [Dev.to/JS] [Buzzoid](https://dev.to/buzzoid143/buzzoid-1jg4)
+- [Dev.to/JS] [Ignite Keto ACV Gummies: The All-Natural Way to Shed Pounds Fast](https://dev.to/igniteketoacvgummy/ignite-keto-acv-gummies-the-all-natural-way-to-shed-pounds-fast-4l55)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: The Best Ways to Get Revenge &lpar;Legally&rpar;](https://lifehacker.com/evil-week-the-best-ways-to-get-revenge-legally-1850974570)
 - [Lifehacker] [Evil Week: How to Sell Your Soul to the Devil](https://lifehacker.com/how-to-sell-your-soul-to-the-devil-1850353292)
 - [Lifehacker] [You Can Get the Google Pixel 7a for Its Lowest Price Ever Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
-- [Lifehacker] [Use the RAFT Technique to Quickly Sort Emails](https://lifehacker.com/use-the-raft-technique-to-quickly-sort-emails-1850973880)
-- [Lifehacker] [This Is the Right Way to Store Firewood](https://lifehacker.com/the-best-way-to-store-firewood-1850972464)
-- [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the RAFT Technique to Quickly Sort Emails](https://lifehacker.com/use-the-raft-technique-to-quickly-sort-emails-1850973880)<!-- TECH-POSTS:END -->
 
 ---
 
