@@ -26,11 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Evil Week: Everything You Can Find Out About Someone From Public Information](https://lifehacker.com/evil-week-everything-you-can-find-out-about-someone-fr-1850981103)
+- [Dev.to/JS] [Java Coding Practice for Beginners: 10 Exercises to Get You Started](https://dev.to/devme/java-coding-practice-for-beginners-10-exercises-to-get-you-started-4849)
+- [Lifehacker] [Evil Week: Pass Off Cheap Baked Goods As the Expensive Stuff](https://lifehacker.com/evil-week-pass-off-cheap-baked-goods-as-the-expensive-1850980950)
+- [Dev.to/JS] [Why you should start profiling your application on the production](https://dev.to/axotion/why-you-should-start-profiling-the-production-1hom)
+- [Lifehacker] [Apple Arcade Is Getting New Games](https://lifehacker.com/apple-arcade-is-getting-new-games-1850980518)
 - [Dev.to/JS] [🚀 How I built AI pictures generator in a GitHub logo style 😻 and got featured in GitHub&#39;s Twitter and Instagram 🤯](https://dev.to/garrrikkotua/how-i-built-ai-pictures-generator-in-a-github-logo-style-and-got-featured-in-githubs-twitter-and-instagram-5226)
 - [Lifehacker] [Evil Week: How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)
 - [Dev.to/JS] [Mastering Node.js Streams: Unleashing Scalable I/O 🚀](https://dev.to/rahulladumor/mastering-nodejs-streams-unleashing-scalable-io-2jmk)
 - [Dev.to/JS] [Hat Trick for Sport Bloggers: Maximizing Engagement with Soccer Highlights](https://dev.to/sports_junkie/hat-trick-for-sport-bloggers-maximizing-engagement-with-soccer-highlights-4pgp)
-- [Dev.to/JS] [🏆 The top 3 repos from hacktoberfest 🚀](https://dev.to/quine/the-top-3-repos-from-hacktoberfest-you-cannot-ignore-3mpb)
+- [Dev.to/JS] [🏆 The top 3 repos from hacktoberfest you CANNOT ignore🚀](https://dev.to/quine/the-top-3-repos-from-hacktoberfest-you-cannot-ignore-3mpb)
 - [Lifehacker] [Why You Should Masturbate Before a First Date](https://lifehacker.com/why-you-should-masturbate-before-a-first-date-1850978919)
 - [Dev.to/JS] [HTML, CSS and JS - a silly little game](https://dev.to/lisag/html-css-and-js-a-silly-little-game-272b)
 - [Dev.to/JS] [Mastering Reusable Modals in Vue.js: Enhancing UI Flexibility](https://dev.to/kucherol/mastering-reusable-modals-in-vuejs-enhancing-ui-flexibility-1fh0)
@@ -41,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Assistir Não Abras &lpar;2023&rpar; Online em Português - Filme Completo](https://dev.to/vgbhgbu/assistir-nao-abras-2023-online-em-portugues-filme-completo-1hc2)
 - [Dev.to/JS] [ReactJS Good Practices](https://dev.to/nikacodes/reactjs-good-practices-59b3)
 - [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
-- [Dev.to/JS] [Assistir Filme Não Abras Dublado e Legendado Online Grátis](https://dev.to/vgbhgbu/assistir-filme-nao-abras-dublado-e-legendado-online-gratis-48mk)
-- [Dev.to/JS] [Assistir Não Abras online dublado em Português](https://dev.to/vgbhgbu/assistir-nao-abras-online-dublado-em-portugues-383d)
 - [Lifehacker] [10 of the Best Podcasts About Adoption](https://lifehacker.com/best-adoption-podcasts-1850976630)
 - [Lifehacker] [Evil Week: How to Get Into Exclusive Parties Without an Invitation](https://lifehacker.com/how-to-get-into-exclusive-parties-and-clubs-without-an-1453378483)
 - [Lifehacker] [You Can Get a 3rd Generation iPad Air for $280](https://lifehacker.com/you-can-get-a-3rd-generation-ipad-air-for-280-1850974914)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Things I Do to Protect My Plants Before a Freeze](https://lifehacker.com/three-things-i-do-to-protect-my-plants-before-a-freeze-1850977175)
 - [Lifehacker] [Evil Week: How to Creep on Someone&#39;s Instagram Stories in Secret](https://lifehacker.com/how-to-creep-on-someones-instagram-stories-anonymously-1848794616)
 - [Lifehacker] [The ASUS Rog Ally Z1 Is a Solid Steam Deck Alternative](https://lifehacker.com/asus-rog-ally-z1-review-1850976924)
-- [Lifehacker] [Sam’s Club Memberships Are $20 Today](https://lifehacker.com/sam-s-club-memberships-are-20-today-1850974737)
-- [Lifehacker] [Evil Week: The Passive-Aggressive Way to Stop Someone From Reclining Their Seat on a Flight](https://lifehacker.com/how-to-get-someone-to-stop-reclining-their-seat-on-a-fl-1839467741)
-- [Lifehacker] [Look Out for These Signs of a Badly Flipped House](https://lifehacker.com/look-out-for-these-signs-of-a-badly-flipped-house-1850976861)
-- [Lifehacker] [Evil Week: Keep Your Snacks Out of Your Family&#39;s Filthy Paws](https://lifehacker.com/evil-week-keep-your-snacks-out-of-your-familys-filthy-1850976695)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Sam’s Club Memberships Are $20 Today](https://lifehacker.com/sam-s-club-memberships-are-20-today-1850974737)<!-- TECH-POSTS:END -->
 
 ---
 
