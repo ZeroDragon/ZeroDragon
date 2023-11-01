@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How should a beginner start programming?](https://dev.to/sharathchandark/how-should-a-beginner-start-programming-3hom)
+- [Lifehacker] [10 of the Best Podcasts About Adoption](https://lifehacker.com/best-adoption-podcasts-1850976630)
+- [Dev.to/JS] [ASSISTIR-HDQ! Não Abras Completo ONLINE Dublado Gratis-720p](https://dev.to/vgbhgbu/assistir-hdq-nao-abras-completo-online-dublado-gratis-720p-1ndp)
+- [Dev.to/JS] [Assistir Não Abras Filme Completo Online Dublado e Legendado Grátis em Português](https://dev.to/vgbhgbu/assistir-nao-abras-filme-completo-online-dublado-e-legendado-gratis-em-portugues-4fk8)
+- [Dev.to/JS] [Convert HTML to Markdown &lpar;md&rpar;](https://dev.to/myogeshverma/convert-html-to-markdown-md-1dk9)
+- [Dev.to/JS] [~^Assistir Não Abras Filme Completo](https://dev.to/vgbhgbu/assistir-nao-abras-filme-completo-1hfa)
+- [Dev.to/JS] [ASSISTIR,!! Não Abras Filme Dublado Online HD Grátis Filme](https://dev.to/vgbhgbu/assistir-nao-abras-filme-dublado-online-hd-gratis-filme-33g0)
+- [Lifehacker] [You Can Get a 3rd Generation iPad Air for $280](https://lifehacker.com/you-can-get-a-3rd-generation-ipad-air-for-280-1850974914)
 - [Dev.to/JS] [What framework do you use to write an interface for watching videos and music, music, when working with React?](https://dev.to/dinhvankhoideveloper/what-framework-do-you-use-to-write-an-interface-for-watching-videos-and-music-music-when-working-with-react-201l)
 - [Dev.to/JS] [Next JS Authentication With Clerk](https://dev.to/mahamatmans/next-js-authentication-with-clerk-1h9p)
 - [Dev.to/JS] [Using Google Apps Script: Create a todo web app](https://dev.to/sauravshah31/using-google-apps-script-create-a-todo-web-app-4cah)
@@ -34,13 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Assistir! Não Abras Filme Completo &lpar;2023&rpar; Dublado Online Grátis](https://dev.to/vgbhgbu/assistir-nao-abras-filme-completo-2023-dublado-online-gratis-46ji)
 - [Dev.to/JS] [[¡Assistir!] ― Não Abras&quot; &lpar;2023&rpar; Filme Completo Dublado e Legendado](https://dev.to/vgbhgbu/assistir-nao-abras-2023-filme-completo-dublado-e-legendado-53jo)
 - [Lifehacker] [Evil Week: How to Summon a Demon](https://lifehacker.com/how-to-summon-a-demon-1848558679)
-- [Dev.to/JS] [{CUEVANA} Priscilla &lpar;2023&rpar; Película Completa Online En Español](https://dev.to/castlok/cuevana-priscilla-2023-pelicula-completa-online-en-espanol-565k)
-- [Dev.to/JS] [VER—Priscilla &lpar;2023&rpar; Pelicula Completa Online en Español](https://dev.to/castlok/ver-priscilla-2023-pelicula-completa-online-en-espanol-4mg3)
-- [Dev.to/JS] [¡PELISPLUS! Ver Priscilla &lpar;2023&rpar; Online en Español y Latino Gratis](https://dev.to/castlok/pelisplus-ver-priscilla-2023-online-en-espanol-y-latino-gratis-22j6)
-- [Dev.to/JS] [[Cuevana-3] VER— Priscilla 2023 Película Completa Online](https://dev.to/castlok/cuevana-3-ver-priscilla-2023-pelicula-completa-online-10mh)
 - [Lifehacker] [Evil Week: You Can Make Personalized Porn Images With AI](https://lifehacker.com/evil-week-you-can-make-personalized-porn-images-with-a-1850978902)
-- [Dev.to/JS] [[VER] Priscilla &lpar;2023&rpar; PELÍCULA COMPLETA EN LÍNEA](https://dev.to/castlok/ver-priscilla-2023-pelicula-completa-en-linea-4mhc)
-- [Dev.to/JS] [Cuevana~3 Ver Priscilla &lpar;2023&rpar; Completa Online Gratis](https://dev.to/castlok/cuevana3-ver-priscilla-2023-completa-online-gratis-h5j)
 - [Lifehacker] [Don&#39;t Give Up, You Can Re-soften Stale Cookies](https://lifehacker.com/how-to-re-soften-stale-cookies-1850978028)
 - [Lifehacker] [Evil Week: How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything Apple Announced During Its &#39;Scary Fast&#39; Mac Event](https://lifehacker.com/everything-apple-announced-during-its-scary-fast-mac-ev-1850976502)
 - [Lifehacker] [Evil Week: Give a Crappy Handmade Gift for Christmas](https://lifehacker.com/give-handmade-gifts-so-people-cant-complain-1845484484)
 - [Lifehacker] [The New M3 MacBook Pro Is Practically the Perfect Laptop](https://lifehacker.com/new-m3-macbook-pro-review-1850976188)
-- [Lifehacker] [This Color-Matching Sensor Is 40% Off Right Now](https://lifehacker.com/this-color-matching-sensor-is-40-off-right-now-1850974626)
-- [Lifehacker] [Evil Week: How to Insult Your Enemies in a Classy Way](https://lifehacker.com/evil-week-how-to-insult-your-enemies-in-a-classy-way-1850950018)
-- [Lifehacker] [Evil Week: The Best Ways to Get Revenge &lpar;Legally&rpar;](https://lifehacker.com/evil-week-the-best-ways-to-get-revenge-legally-1850974570)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Color-Matching Sensor Is 40% Off Right Now](https://lifehacker.com/this-color-matching-sensor-is-40-off-right-now-1850974626)<!-- TECH-POSTS:END -->
 
 ---
 
