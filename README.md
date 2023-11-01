@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Performance Optimization: Techniques for Improving JavaScript Application Performance](https://dev.to/outstandingvick/performance-optimization-techniques-for-improving-javascript-application-performance-331d)
 - [Dev.to/JS] [The Best ORMs for Node.js App Development in 2023](https://dev.to/victor1890/the-best-orms-for-nodejs-app-development-in-2023-1blk)
 - [Dev.to/JS] [Build a comfortable and blazing fast image viewer in just 10 lines of Javascript code](https://dev.to/efpage/build-a-comfortable-and-blazing-fast-image-viewer-in-just-10-lines-of-javascript-code-5gad)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML, CSS and JS - a silly little game](https://dev.to/lisag/html-css-and-js-a-silly-little-game-272b)
 - [Dev.to/JS] [Mastering Reusable Modals in Vue.js: Enhancing UI Flexibility](https://dev.to/kucherol/mastering-reusable-modals-in-vuejs-enhancing-ui-flexibility-1fh0)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Organize Your To-Do List](https://lifehacker.com/the-best-and-worst-ways-to-organize-your-to-do-list-1850980235)
-- [Dev.to/JS] [Adding code formatting, linting, pre-commit hooks and beyond...](https://dev.to/sdthaker/adding-code-formatting-linting-pre-commit-hooks-and-beyond-4mkh)
 - [Lifehacker] [The Biggest New Features in Windows 11&#39;s 23H2 Update](https://lifehacker.com/best-new-features-windows-11-23h2-update-1850860890)
 - [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
 - [Lifehacker] [10 of the Best Podcasts About Adoption](https://lifehacker.com/best-adoption-podcasts-1850976630)
