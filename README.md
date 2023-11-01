@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 New JDK 19 Features Explained](https://dev.to/infiraise/7-new-jdk-19-features-explained-2982)
+- [Dev.to/JS] [Searching Algorithm in JS](https://dev.to/delaquash/searching-algorithm-in-js-47kg)
 - [Dev.to/JS] [Mastering Landing Page: Essential Tips and Tricks 🚀 #webdesign](https://dev.to/technicalmickey/mastering-landing-page-essential-tips-and-tricks-webdesign-2g04)
 - [Dev.to/JS] [🤓 Signal&lpar; &rpar; are most underrated in React.js](https://dev.to/todayscode14/signal-are-most-underrated-in-reactjs-16dg)
 - [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 2&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-2-51cn)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript - Handling reject in a Promise](https://dev.to/rishadomar/javascript-handling-reject-in-a-promise-205f)
 - [Dev.to/JS] [Advanced Email Functionality with Node.js, React.js, Nodemailer, and OAuth2 in 2023](https://dev.to/scofieldidehen/advanced-email-functionality-with-nodejs-reactjs-nodemailer-and-oauth2-in-2023-134o)
 - [Dev.to/JS] [GET BACK STOLEN CRYPTOCURRENCY FROM SCAMMERS THROUGH OMEGA CRYPTO RECOVERY SPECIALIST](https://dev.to/princeea/get-back-stolen-cryptocurrency-from-scammers-through-omega-crypto-recovery-specialist-jcb)
-- [Dev.to/JS] [Inicio estudos React Native](https://dev.to/dsfhigor/inicio-estudos-react-native-4bh7)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
-- [Dev.to/JS] [Is Your Code Running Slow? The Impact of Neglecting Function Memoization](https://dev.to/jaimaldullat/is-your-code-running-slow-the-impact-of-neglecting-function-memoization-2lmd)
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
 - [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
