@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Frontend Developer: Join the Tech Frontier at Verifik! 🚀](https://dev.to/verifik/frontend-developer-join-the-tech-frontier-at-verifik-45af)
+- [Dev.to/JS] [ReactJS Roadmap 2024 | by Trishan | How to become React Developer in 2024](https://dev.to/trishan9/reactjs-roadmap-2024-by-trishan-how-to-become-react-developer-in-2024-185m)
+- [Dev.to/JS] [Hacktober the 3rd](https://dev.to/bseefieldt/hacktober-the-3rd-3l1e)
+- [Dev.to/JS] [Adding reCAPTCHA in MERN Application](https://dev.to/dharan/adding-recaptcha-in-mern-application-1kon)
 - [Dev.to/JS] [Javascript - Handling reject in a Promise](https://dev.to/rishadomar/javascript-handling-reject-in-a-promise-205f)
 - [Dev.to/JS] [Advanced Email Functionality with Node.js, React.js, Nodemailer, and OAuth2 in 2023](https://dev.to/scofieldidehen/advanced-email-functionality-with-nodejs-reactjs-nodemailer-and-oauth2-in-2023-134o)
 - [Dev.to/JS] [GET BACK STOLEN CRYPTOCURRENCY FROM SCAMMERS THROUGH OMEGA CRYPTO RECOVERY SPECIALIST](https://dev.to/princeea/get-back-stolen-cryptocurrency-from-scammers-through-omega-crypto-recovery-specialist-jcb)
@@ -35,13 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 7 Javascript Web Scraping Libraries in 2023](https://dev.to/serpapi/top-7-javascript-web-scraping-libraries-in-2023-4he)
 - [Dev.to/JS] [Enlightening Syntax Highlighting in Docusaurus](https://dev.to/vishnudas2003/enlightening-syntax-highlighting-in-docusaurus-2cj7)
 - [Dev.to/JS] [Deploy a NuxtJS App and Laravel API on a Linux Server](https://dev.to/kamruzzaman/deploy-a-nuxtjs-app-and-laravel-api-on-a-linux-server-54bh)
-- [Dev.to/JS] [Laravel API Integration in Nuxt.js](https://dev.to/kamruzzaman/laravel-api-integration-in-nuxtjs-b89)
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
-- [Dev.to/JS] [JavaScript Build Tools: Unveiling the Power of Webpack, Babel, and Rollup](https://dev.to/outstandingvick/javascript-build-tools-unveiling-the-power-of-webpack-babel-and-rollup-e7i)
-- [Dev.to/JS] [Contributing to timelydiff](https://dev.to/sshah135/contributing-to-timelydiff-5hbb)
 - [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
-- [Dev.to/JS] [Array-like Objects in JavaScript: A Deep Dive](https://dev.to/rasaf_ibrahim/array-like-objects-in-javascript-a-deep-dive-469b)
 - [Lifehacker] [Why Putting More in a 401&lpar;k&rpar; Can Now Increase Your College Financial Aid](https://lifehacker.com/new-fafsa-returement-savings-rule-1850976648)
 - [Lifehacker] [This Portable Bluetooth Wireless Neckband Speaker Is $37.99](https://lifehacker.com/this-portable-bluetooth-wireless-neckband-speaker-is-3-1850974647)
 - [Lifehacker] [Evil Week: Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
