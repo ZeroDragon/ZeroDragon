@@ -26,20 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What framework do you use to write an interface for watching videos and music, music, when working with React?](https://dev.to/dinhvankhoideveloper/what-framework-do-you-use-to-write-an-interface-for-watching-videos-and-music-music-when-working-with-react-201l)
+- [Dev.to/JS] [Next JS Authentication With Clerk](https://dev.to/mahamatmans/next-js-authentication-with-clerk-1h9p)
+- [Dev.to/JS] [Using Google Apps Script: Create a todo web app](https://dev.to/sauravshah31/using-google-apps-script-create-a-todo-web-app-4cah)
+- [Dev.to/JS] [10 JavaScript Shorthand Techniques To Improve Efficiency 💡](https://dev.to/todayscode14/10-javascript-shorthand-techniques-to-improve-efficiency-5cop)
+- [Lifehacker] [The Best Ways to Clean and Care for Natural Wood Cabinets](https://lifehacker.com/the-best-ways-to-clean-and-care-for-natural-wood-cabine-1850978380)
+- [Dev.to/JS] [Assistir! Não Abras Filme Completo &lpar;2023&rpar; Dublado Online Grátis](https://dev.to/vgbhgbu/assistir-nao-abras-filme-completo-2023-dublado-online-gratis-46ji)
+- [Dev.to/JS] [[¡Assistir!] ― Não Abras&quot; &lpar;2023&rpar; Filme Completo Dublado e Legendado](https://dev.to/vgbhgbu/assistir-nao-abras-2023-filme-completo-dublado-e-legendado-53jo)
+- [Lifehacker] [Evil Week: How to Summon a Demon](https://lifehacker.com/how-to-summon-a-demon-1848558679)
+- [Dev.to/JS] [{CUEVANA} Priscilla &lpar;2023&rpar; Película Completa Online En Español](https://dev.to/castlok/cuevana-priscilla-2023-pelicula-completa-online-en-espanol-565k)
+- [Dev.to/JS] [VER—Priscilla &lpar;2023&rpar; Pelicula Completa Online en Español](https://dev.to/castlok/ver-priscilla-2023-pelicula-completa-online-en-espanol-4mg3)
+- [Dev.to/JS] [¡PELISPLUS! Ver Priscilla &lpar;2023&rpar; Online en Español y Latino Gratis](https://dev.to/castlok/pelisplus-ver-priscilla-2023-online-en-espanol-y-latino-gratis-22j6)
 - [Dev.to/JS] [[Cuevana-3] VER— Priscilla 2023 Película Completa Online](https://dev.to/castlok/cuevana-3-ver-priscilla-2023-pelicula-completa-online-10mh)
+- [Lifehacker] [Evil Week: You Can Make Personalized Porn Images With AI](https://lifehacker.com/evil-week-you-can-make-personalized-porn-images-with-a-1850978902)
 - [Dev.to/JS] [[VER] Priscilla &lpar;2023&rpar; PELÍCULA COMPLETA EN LÍNEA](https://dev.to/castlok/ver-priscilla-2023-pelicula-completa-en-linea-4mhc)
 - [Dev.to/JS] [Cuevana~3 Ver Priscilla &lpar;2023&rpar; Completa Online Gratis](https://dev.to/castlok/cuevana3-ver-priscilla-2023-completa-online-gratis-h5j)
-- [Dev.to/JS] [[VERPELIS] ~ Priscilla*2023 - PELÍCULA COMPLETA en Español](https://dev.to/castlok/verpelis-priscilla2023-pelicula-completa-en-espanol-dnk)
-- [Dev.to/JS] [AI Meets WYSIWYG Editors: The Future of Smart Content Creation](https://dev.to/ideradevtools/ai-meets-wysiwyg-editors-the-future-of-smart-content-creation-ll5)
-- [Dev.to/JS] [[!PELISPLUS!]~Ver Priscilla 𝐏elícula Completa Castellano en 𝗲spañol Latino HD](https://dev.to/castlok/pelisplusver-priscilla-elicula-completa-castellano-en-spanol-latino-hd-l30)
-- [Dev.to/JS] [Priscilla &lpar;2023&rpar; Película completa en español repelis](https://dev.to/castlok/priscilla-2023-pelicula-completa-en-espanol-repelis-1bln)
-- [Dev.to/JS] [6 AI Tools You Have To Know as a Software Developer! 🛠 🤯](https://dev.to/matan_abramovich/6-ai-tools-you-have-to-know-as-a-software-developer-4i6k)
 - [Lifehacker] [Don&#39;t Give Up, You Can Re-soften Stale Cookies](https://lifehacker.com/how-to-re-soften-stale-cookies-1850978028)
-- [Dev.to/JS] [24 Best Resources 🎨 For Web Developers 💻 [HTML + CSS + JavaScript] 😱](https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog)
 - [Lifehacker] [Evil Week: How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
-- [Dev.to/JS] [JavaScript - Map and filter an array at the same time](https://dev.to/jenchen/javascript-map-and-filter-an-array-at-the-same-time-5ado)
-- [Dev.to/JS] [Buzzoid](https://dev.to/buzzoid143/buzzoid-1jg4)
-- [Dev.to/JS] [Ignite Keto ACV Gummies: The All-Natural Way to Shed Pounds Fast](https://dev.to/igniteketoacvgummy/ignite-keto-acv-gummies-the-all-natural-way-to-shed-pounds-fast-4l55)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The New M3 MacBook Pro Is Practically the Perfect Laptop](https://lifehacker.com/new-m3-macbook-pro-review-1850976188)
 - [Lifehacker] [This Color-Matching Sensor Is 40% Off Right Now](https://lifehacker.com/this-color-matching-sensor-is-40-off-right-now-1850974626)
 - [Lifehacker] [Evil Week: How to Insult Your Enemies in a Classy Way](https://lifehacker.com/evil-week-how-to-insult-your-enemies-in-a-classy-way-1850950018)
-- [Lifehacker] [Evil Week: The Best Ways to Get Revenge &lpar;Legally&rpar;](https://lifehacker.com/evil-week-the-best-ways-to-get-revenge-legally-1850974570)
-- [Lifehacker] [Evil Week: How to Sell Your Soul to the Devil](https://lifehacker.com/how-to-sell-your-soul-to-the-devil-1850353292)
-- [Lifehacker] [You Can Get the Google Pixel 7a for Its Lowest Price Ever Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
-- [Lifehacker] [Use the RAFT Technique to Quickly Sort Emails](https://lifehacker.com/use-the-raft-technique-to-quickly-sort-emails-1850973880)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: The Best Ways to Get Revenge &lpar;Legally&rpar;](https://lifehacker.com/evil-week-the-best-ways-to-get-revenge-legally-1850974570)<!-- TECH-POSTS:END -->
 
 ---
 
