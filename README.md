@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Best ORMs for Node.js App Development in 2023](https://dev.to/victor1890/the-best-orms-for-nodejs-app-development-in-2023-1blk)
+- [Dev.to/JS] [Build a comfortable and blazing fast image viewer in just 10 lines of Javascript code](https://dev.to/efpage/build-a-comfortable-and-blazing-fast-image-viewer-in-just-10-lines-of-javascript-code-5gad)
+- [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
+- [Lifehacker] [It’s Fine, You Can Lift in Running Shoes](https://lifehacker.com/it-s-fine-you-can-lift-in-running-shoes-1850982430)
 - [Lifehacker] [This Is the Apple Pencil You Should Buy](https://lifehacker.com/apple-pencil-review-1850981746)
+- [Lifehacker] [Don&#39;t Miss These November Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441)
 - [Lifehacker] [Why You Should Take the Day Off on Jan. 8, 2024](https://lifehacker.com/why-you-should-take-the-day-off-on-jan-8-2024-1850981604)
 - [Dev.to/JS] [Taming the HTML dialog with React and TailwindCSS](https://dev.to/fibonacid/taming-the-html-dialog-with-react-and-tailwindcss-5hec)
 - [Lifehacker] [You Can &#39;Marcona&#39; Your Own Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)
@@ -46,9 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Reusable Modals in Vue.js: Enhancing UI Flexibility](https://dev.to/kucherol/mastering-reusable-modals-in-vuejs-enhancing-ui-flexibility-1fh0)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Organize Your To-Do List](https://lifehacker.com/the-best-and-worst-ways-to-organize-your-to-do-list-1850980235)
 - [Dev.to/JS] [Adding code formatting, linting, pre-commit hooks and beyond...](https://dev.to/sdthaker/adding-code-formatting-linting-pre-commit-hooks-and-beyond-4mkh)
-- [Dev.to/JS] [How to Build a Waterfall Chart with JavaScript](https://dev.to/awanshrestha/how-to-build-a-waterfall-chart-with-javascript-2a31)
 - [Lifehacker] [The Biggest New Features in Windows 11&#39;s 23H2 Update](https://lifehacker.com/best-new-features-windows-11-23h2-update-1850860890)
-- [Dev.to/JS] [ReactJS Good Practices](https://dev.to/nikacodes/reactjs-good-practices-59b3)
 - [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
 - [Lifehacker] [10 of the Best Podcasts About Adoption](https://lifehacker.com/best-adoption-podcasts-1850976630)
 - [Lifehacker] [Evil Week: How to Get Into Exclusive Parties Without an Invitation](https://lifehacker.com/how-to-get-into-exclusive-parties-and-clubs-without-an-1453378483)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
 - [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
-- [Lifehacker] [Why Putting More in a 401&lpar;k&rpar; Can Now Increase Your College Financial Aid](https://lifehacker.com/new-fafsa-returement-savings-rule-1850976648)
-- [Lifehacker] [This Portable Bluetooth Wireless Neckband Speaker Is $37.99](https://lifehacker.com/this-portable-bluetooth-wireless-neckband-speaker-is-3-1850974647)
-- [Lifehacker] [Evil Week: Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
-- [Lifehacker] [These Are Target&#39;s Best Early Black Friday Deals](https://lifehacker.com/these-are-targets-best-early-black-friday-deals-1850977262)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Putting More in a 401&lpar;k&rpar; Can Now Increase Your College Financial Aid](https://lifehacker.com/new-fafsa-returement-savings-rule-1850976648)<!-- TECH-POSTS:END -->
 
 ---
 
