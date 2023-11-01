@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced Email Functionality with Node.js, React.js, Nodemailer, and OAuth2 in 2023](https://dev.to/scofieldidehen/advanced-email-functionality-with-nodejs-reactjs-nodemailer-and-oauth2-in-2023-134o)
+- [Dev.to/JS] [GET BACK STOLEN CRYPTOCURRENCY FROM SCAMMERS THROUGH OMEGA CRYPTO RECOVERY SPECIALIST](https://dev.to/princeea/get-back-stolen-cryptocurrency-from-scammers-through-omega-crypto-recovery-specialist-jcb)
 - [Dev.to/JS] [Inicio estudos React Native](https://dev.to/dsfhigor/inicio-estudos-react-native-4bh7)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
 - [Dev.to/JS] [Is Your Code Running Slow? The Impact of Neglecting Function Memoization](https://dev.to/jaimaldullat/is-your-code-running-slow-the-impact-of-neglecting-function-memoization-2lmd)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array-like Objects in JavaScript: A Deep Dive](https://dev.to/rasaf_ibrahim/array-like-objects-in-javascript-a-deep-dive-469b)
 - [Dev.to/JS] [Setting Up Redux with Persistent State Rehydration in Next.js](https://dev.to/sasithwarnakafonseka/setting-up-redux-with-persistent-state-rehydration-in-nextjs-h3o)
 - [Lifehacker] [Why Putting More in a 401&lpar;k&rpar; Can Now Increase Your College Financial Aid](https://lifehacker.com/new-fafsa-returement-savings-rule-1850976648)
-- [Dev.to/JS] [Scroll Infinito: um veneno à produtividade.](https://dev.to/lucianodiisouza/scroll-infinito-um-veneno-a-produtividade-40hi)
 - [Lifehacker] [This Portable Bluetooth Wireless Neckband Speaker Is $37.99](https://lifehacker.com/this-portable-bluetooth-wireless-neckband-speaker-is-3-1850974647)
-- [Dev.to/JS] [Contributing to Mermaid Github](https://dev.to/sshah135/contributing-to-mermaid-github-4p2d)
 - [Lifehacker] [Evil Week: Fool Your Family With a Store-Bought Pie Crust](https://lifehacker.com/how-to-fool-your-family-with-a-store-bought-pie-crust-1849764533)
 - [Lifehacker] [These Are Target&#39;s Best Early Black Friday Deals](https://lifehacker.com/these-are-targets-best-early-black-friday-deals-1850977262)
 - [Lifehacker] [Three Things I Do to Protect My Plants Before a Freeze](https://lifehacker.com/three-things-i-do-to-protect-my-plants-before-a-freeze-1850977175)
