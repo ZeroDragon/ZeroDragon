@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [💻 Web Development Resources #172](https://dev.to/vincenius/web-development-resources-172-2g1l)
+- [Dev.to/JS] [Joomla Job Support: Your Path to Success](https://dev.to/emma02/joomla-job-support-your-path-to-success-4l9a)
+- [Dev.to/JS] [Bape hoodie Fashion Statement](https://dev.to/xtremedigits/bape-hoodie-fashion-statement-4ei6)
+- [Dev.to/JS] [alova instance of alovajs, a request strategy library](https://dev.to/coderhu/alova-instance-of-alovajs-a-request-strategy-library-1e6k)
 - [Dev.to/JS] [Top 4 platforms for learning how to code &lpar;2020 edition&rpar;](https://dev.to/sediak/top-4-platforms-for-learning-how-to-code-2020-edition-4eo1)
 - [Dev.to/JS] [IS IT OK TO ACCESS REACTJS WITHOUT KNOWLEDGE ABOUT OOP JS? CAN YOU LEARN REACTJS?](https://dev.to/dinhvankhoideveloper/is-it-ok-to-access-reactjs-without-knowledge-about-oop-js-can-you-learn-reactjs-2g76)
 - [Dev.to/JS] [7 New JDK 19 Features Explained](https://dev.to/infiraise/7-new-jdk-19-features-explained-2982)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🤓 Signal&lpar; &rpar; are most underrated in React.js](https://dev.to/todayscode14/signal-are-most-underrated-in-reactjs-16dg)
 - [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 2&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-2-51cn)
 - [Dev.to/JS] [Frontend Developer: Join the Tech Frontier at Verifik! 🚀](https://dev.to/verifik/frontend-developer-join-the-tech-frontier-at-verifik-45af)
-- [Dev.to/JS] [ReactJS Roadmap 2024 | by Trishan | How to become React Developer in 2024](https://dev.to/trishan9/reactjs-roadmap-2024-by-trishan-how-to-become-react-developer-in-2024-185m)
-- [Dev.to/JS] [Hacktober the 3rd](https://dev.to/bseefieldt/hacktober-the-3rd-3l1e)
-- [Dev.to/JS] [Adding reCAPTCHA in MERN Application](https://dev.to/dharan/adding-recaptcha-in-mern-application-1kon)
-- [Dev.to/JS] [Javascript - Handling reject in a Promise](https://dev.to/rishadomar/javascript-handling-reject-in-a-promise-205f)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
 - [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
