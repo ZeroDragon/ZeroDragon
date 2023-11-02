@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Rest API&#39;s - part 1](https://dev.to/emmyjaff/understanding-rest-apis-part-1-482o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)
 - [Dev.to/JS] [Stripe Payments with Nextjs](https://dev.to/jeremypersing/stripe-payments-with-nextjs-5fnl)
 - [Dev.to/JS] [new to coding](https://dev.to/redcodes/new-to-coding-1g8c)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 How I built AI pictures generator in a GitHub logo style 😻 and got featured in GitHub&#39;s Twitter and Instagram 🤯](https://dev.to/garrrikkotua/how-i-built-ai-pictures-generator-in-a-github-logo-style-and-got-featured-in-githubs-twitter-and-instagram-5226)
 - [Lifehacker] [Evil Week: How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)
 - [Dev.to/JS] [Mastering Node.js Streams: Unleashing Scalable I/O 🚀](https://dev.to/rahulladumor/mastering-nodejs-streams-unleashing-scalable-io-2jmk)
-- [Dev.to/JS] [Hat Trick for Sport Bloggers: Maximizing Engagement with Soccer Highlights](https://dev.to/sports_junkie/hat-trick-for-sport-bloggers-maximizing-engagement-with-soccer-highlights-4pgp)
 - [Lifehacker] [Why You Should Masturbate Before a First Date](https://lifehacker.com/why-you-should-masturbate-before-a-first-date-1850978919)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Organize Your To-Do List](https://lifehacker.com/the-best-and-worst-ways-to-organize-your-to-do-list-1850980235)
 - [Lifehacker] [The Biggest New Features in Windows 11&#39;s 23H2 Update](https://lifehacker.com/best-new-features-windows-11-23h2-update-1850860890)
