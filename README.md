@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Fix These Common Hot Water Heater Problems Yourself](https://lifehacker.com/you-can-fix-these-common-hot-water-heater-problems-your-1850982530)
+- [Dev.to/JS] [💪💪 Top 5 Open-Source Insomnia alternatives that you must try in 2024 🔥](https://dev.to/shreya_gr/top-5-open-source-insomnia-alternatives-that-you-must-try-in-2024-37lm)
+- [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Dead Internet Theory&#39; Isn&#39;t Real, I Swear](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-dead-inter-1850983564)
+- [Lifehacker] [Evil Week: 20 Unethical &lpar;but Brilliant&rpar; Life Hacks From Reddit](https://lifehacker.com/20-unethical-but-brilliant-life-hacks-from-reddit-1847783281)
+- [Lifehacker] [Evil Week: How To Hide Porn On A Mac](https://lifehacker.com/how-to-hide-porn-on-a-mac-1850982371)
 - [Dev.to/JS] [10 Exceptional Investment Opportunities in Murree, Pakistan for 2023-2024](https://dev.to/waqasrajput333/10-exceptional-investment-opportunities-in-murree-pakistan-for-2023-2024-20ph)
 - [Dev.to/JS] [O método find e a busca ao modo CTRL + F em JavaScript](https://dev.to/demenezes/o-metodo-find-e-a-busca-ao-modo-ctrl-f-em-javascript-27el)
 - [Dev.to/JS] [How To Set Up the Template Library Pro Module in Apostrophe](https://dev.to/apostrophecms/how-to-set-up-the-template-library-pro-module-in-apostrophe-56p)
@@ -37,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the Difference Between the Internet and the World Wide Web](https://dev.to/alfakalel1/understanding-the-difference-between-the-internet-and-the-world-wide-web-j5j)
 - [Dev.to/JS] [Method instance of alovajs, a request strategy library](https://dev.to/coderhu/quick-start-of-alovajs-a-request-strategy-library-39ne)
 - [Dev.to/JS] [How JWT works in Authorization](https://dev.to/tarekibnkhayer/how-jwt-works-in-authorization-1ldo)
-- [Dev.to/JS] [Meme November: Day - 2](https://dev.to/jon_snow789/meme-november-day-2-3d24)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Clean and Care for Natural Wood Cabinets](https://lifehacker.com/the-best-ways-to-clean-and-care-for-natural-wood-cabine-1850978380)
 - [Lifehacker] [Evil Week: How to Summon a Demon](https://lifehacker.com/how-to-summon-a-demon-1848558679)
 - [Lifehacker] [Evil Week: You Can Make Personalized Porn Images With AI](https://lifehacker.com/evil-week-you-can-make-personalized-porn-images-with-a-1850978902)
-- [Lifehacker] [Don&#39;t Give Up, You Can Re-soften Stale Cookies](https://lifehacker.com/how-to-re-soften-stale-cookies-1850978028)
-- [Lifehacker] [Evil Week: How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 1, 2023](https://lifehacker.com/nyt-connections-answer-today-november-1-2023-1850976152)
-- [Lifehacker] [Evil Week: How to Spy on People With Your iPhone](https://lifehacker.com/evil-week-how-to-spy-on-people-with-your-iphone-1850977875)
-- [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Give Up, You Can Re-soften Stale Cookies](https://lifehacker.com/how-to-re-soften-stale-cookies-1850978028)<!-- TECH-POSTS:END -->
 
 ---
 
