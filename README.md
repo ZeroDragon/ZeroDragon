@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Drop CSTM80 Is a Great Custom Keyboard for Everyone](https://lifehacker.com/drop-cstm80-custom-keyboard-review-1850985799)
+- [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)
+- [Dev.to/JS] [Frontend Wizardry](https://dev.to/bkmahapatra/frontend-wizardry-1b11)
 - [Lifehacker] [You Can Get These Two Drones for $160](https://lifehacker.com/you-can-get-these-two-drones-for-160-1850977010)
 - [Dev.to/JS] [Should You Learn Vue, React, or Angular?](https://dev.to/jakeespinosa/should-you-learn-vue-react-or-angular-13mm)
 - [Dev.to/JS] [Navigating the Software Development Journey: What I Wish I Knew as a Junior Developer](https://dev.to/delia_code/navigating-the-software-development-journey-what-i-wish-i-knew-as-a-junior-developer-4egd)
@@ -47,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing Features like Docusaurus](https://dev.to/sshah135/implementing-features-like-docusaurus-42c5)
 - [Lifehacker] [What to Expect From Walmart&#39;s Early Black Friday Deals](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
 - [Dev.to/JS] [Nuxt Social Share module has been released 🎉](https://dev.to/stefanobartoletti/nuxt-social-share-module-has-been-released-36gb)
-- [Dev.to/JS] [Debug JS events with monitorEvents](https://dev.to/danilo1/debug-js-events-with-monitorevents-ge9)
 - [Lifehacker] [Make Crispy Corn Crackers From Leftover Cornbread](https://lifehacker.com/make-crispy-corn-crackers-from-leftover-cornbread-1850985298)
 - [Lifehacker] [How to Cheat on a Lie Detector Test](https://lifehacker.com/how-to-cheat-on-a-lie-detector-test-1819793069)
 - [Lifehacker] [You Can Save More Money in Your Retirement Accounts in 2024](https://lifehacker.com/you-can-save-more-money-in-your-retirement-accounts-in-1850985218)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
 - [Lifehacker] [It’s Fine, You Can Lift in Running Shoes](https://lifehacker.com/it-s-fine-you-can-lift-in-running-shoes-1850982430)
-- [Lifehacker] [This Is the Apple Pencil You Should Buy](https://lifehacker.com/apple-pencil-review-1850981746)
-- [Lifehacker] [Don&#39;t Miss These November Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441)
-- [Lifehacker] [Why You Should Take the Day Off on Jan. 8, 2024](https://lifehacker.com/why-you-should-take-the-day-off-on-jan-8-2024-1850981604)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Apple Pencil You Should Buy](https://lifehacker.com/apple-pencil-review-1850981746)<!-- TECH-POSTS:END -->
 
 ---
 
