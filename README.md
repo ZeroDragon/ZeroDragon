@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Move Chrome’s Address Bar to the Bottom of Your iPhone](https://lifehacker.com/you-should-move-chrome-s-address-bar-to-the-bottom-of-y-1850945219)
 - [Lifehacker] [This 4K Retro Gaming System is $50 Right Now](https://lifehacker.com/this-4k-retro-gaming-system-is-50-right-now-1850976978)
+- [Dev.to/JS] [JavaScript Variable: Should you choose let, var or const?](https://dev.to/shameel/javascript-variable-should-you-choose-let-var-or-const-47ke)
 - [Lifehacker] [All the New Ways to Use Your Apple Watch](https://lifehacker.com/all-the-new-ways-to-use-your-apple-watch-1850984316)
 - [Dev.to/JS] [4 Laws of RxJS Observables](https://dev.to/this-is-angular/4-laws-of-rxjs-observables-4a5c)
 - [Lifehacker] [Evil Week: How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)
@@ -34,7 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [💪💪 Top 5 Open-Source Insomnia alternatives that you must try in 2024 🔥](https://dev.to/shreya_gr/top-5-open-source-insomnia-alternatives-that-you-must-try-in-2024-37lm)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Dead Internet Theory&#39; Isn&#39;t Real, I Swear](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-dead-inter-1850983564)
 - [Lifehacker] [Evil Week: 20 Unethical &lpar;but Brilliant&rpar; Life Hacks From Reddit](https://lifehacker.com/20-unethical-but-brilliant-life-hacks-from-reddit-1847783281)
-- [Lifehacker] [Evil Week: How To Hide Porn On A Mac](https://lifehacker.com/how-to-hide-porn-on-a-mac-1850982371)
+- [Lifehacker] [Evil Week: How to Hide Porn on a Mac](https://lifehacker.com/how-to-hide-porn-on-a-mac-1850982371)
 - [Dev.to/JS] [10 Exceptional Investment Opportunities in Murree, Pakistan for 2023-2024](https://dev.to/waqasrajput333/10-exceptional-investment-opportunities-in-murree-pakistan-for-2023-2024-20ph)
 - [Dev.to/JS] [O método find e a busca ao modo CTRL + F em JavaScript](https://dev.to/demenezes/o-metodo-find-e-a-busca-ao-modo-ctrl-f-em-javascript-27el)
 - [Dev.to/JS] [How To Set Up the Template Library Pro Module in Apostrophe](https://dev.to/apostrophecms/how-to-set-up-the-template-library-pro-module-in-apostrophe-56p)
@@ -44,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Apex LFG?](https://dev.to/gametree_lee/what-is-apex-lfg-2ol5)
 - [Dev.to/JS] [Data Science Life Cycle](https://dev.to/victoralando/data-science-life-cycle-4019)
 - [Dev.to/JS] [Understanding the Difference Between the Internet and the World Wide Web](https://dev.to/alfakalel1/understanding-the-difference-between-the-internet-and-the-world-wide-web-j5j)
-- [Dev.to/JS] [Method instance of alovajs, a request strategy library](https://dev.to/coderhu/quick-start-of-alovajs-a-request-strategy-library-39ne)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
 - [Lifehacker] [10 of the Best Podcasts About Adoption](https://lifehacker.com/best-adoption-podcasts-1850976630)
 - [Lifehacker] [Evil Week: How to Get Into Exclusive Parties Without an Invitation](https://lifehacker.com/how-to-get-into-exclusive-parties-and-clubs-without-an-1453378483)
-- [Lifehacker] [You Can Get a 3rd Generation iPad Air for $280](https://lifehacker.com/you-can-get-a-3rd-generation-ipad-air-for-280-1850974914)
-- [Lifehacker] [The Best Ways to Clean and Care for Natural Wood Cabinets](https://lifehacker.com/the-best-ways-to-clean-and-care-for-natural-wood-cabine-1850978380)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a 3rd Generation iPad Air for $280](https://lifehacker.com/you-can-get-a-3rd-generation-ipad-air-for-280-1850974914)<!-- TECH-POSTS:END -->
 
 ---
 
