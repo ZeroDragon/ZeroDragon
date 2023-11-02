@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get These Two Drones for $160](https://lifehacker.com/you-can-get-these-two-drones-for-160-1850977010)
+- [Dev.to/JS] [Should You Learn Vue, React, or Angular?](https://dev.to/jakeespinosa/should-you-learn-vue-react-or-angular-13mm)
+- [Dev.to/JS] [Navigating the Software Development Journey: What I Wish I Knew as a Junior Developer](https://dev.to/delia_code/navigating-the-software-development-journey-what-i-wish-i-knew-as-a-junior-developer-4egd)
+- [Dev.to/JS] [How to build an app with nestjs and hotwire!](https://dev.to/mrispoli24/how-to-build-an-app-with-nestjs-and-hotwire-42j1)
+- [Lifehacker] [Evil Week: Do Chores Badly and You&#39;ll Be Free of Them](https://lifehacker.com/evil-week-do-chores-badly-and-youll-be-free-of-them-1850985894)
+- [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
+- [Lifehacker] [Use the &#39;Zen to Done&#39; Method to Create New Productivity Habits](https://lifehacker.com/how-to-use-the-zen-to-done-productivity-method-1850986328)
 - [Dev.to/JS] [Let&#39;s Learn Redux &lpar;Complete Tutorial&rpar;](https://dev.to/sagarkattel/lets-learn-redux-complete-tutorial-1iem)
 - [Lifehacker] [You Don&#39;t Need to Buy a Desktop to Get the Most Power in a Mac Anymore](https://lifehacker.com/m3-max-macbook-pro-review-1850985646)
 - [Lifehacker] [Evil Week: How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
@@ -42,13 +49,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nuxt Social Share module has been released 🎉](https://dev.to/stefanobartoletti/nuxt-social-share-module-has-been-released-36gb)
 - [Dev.to/JS] [Debug JS events with monitorEvents](https://dev.to/danilo1/debug-js-events-with-monitorevents-ge9)
 - [Lifehacker] [Make Crispy Corn Crackers From Leftover Cornbread](https://lifehacker.com/make-crispy-corn-crackers-from-leftover-cornbread-1850985298)
-- [Dev.to/JS] [20 Best Web Development Frameworks in 2023](https://dev.to/snevy1/20-best-web-development-frameworks-in-2023-531)
 - [Lifehacker] [How to Cheat on a Lie Detector Test](https://lifehacker.com/how-to-cheat-on-a-lie-detector-test-1819793069)
 - [Lifehacker] [You Can Save More Money in Your Retirement Accounts in 2024](https://lifehacker.com/you-can-save-more-money-in-your-retirement-accounts-in-1850985218)
 - [Lifehacker] [You Should Move Chrome’s Address Bar to the Bottom of Your iPhone](https://lifehacker.com/you-should-move-chrome-s-address-bar-to-the-bottom-of-y-1850945219)
-- [Dev.to/JS] [Deja vu — How Server Components Are Changing The Game Using Old Ideas](https://dev.to/julianburr/deja-vu-how-server-components-are-changing-the-game-using-old-ideas-4ib3)
 - [Lifehacker] [This 4K Retro Gaming System is $50 Right Now](https://lifehacker.com/this-4k-retro-gaming-system-is-50-right-now-1850976978)
-- [Dev.to/JS] [JavaScript Variable: Should you choose let, var or const?](https://dev.to/shameel/javascript-variable-should-you-choose-let-var-or-const-47ke)
 - [Lifehacker] [All the New Ways to Use Your Apple Watch](https://lifehacker.com/all-the-new-ways-to-use-your-apple-watch-1850984316)
 - [Lifehacker] [Evil Week: How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)
 - [Lifehacker] [You Can Fix These Common Hot Water Heater Problems Yourself](https://lifehacker.com/you-can-fix-these-common-hot-water-heater-problems-your-1850982530)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It’s Fine, You Can Lift in Running Shoes](https://lifehacker.com/it-s-fine-you-can-lift-in-running-shoes-1850982430)
 - [Lifehacker] [This Is the Apple Pencil You Should Buy](https://lifehacker.com/apple-pencil-review-1850981746)
 - [Lifehacker] [Don&#39;t Miss These November Class-Action Settlement Deadlines](https://lifehacker.com/class-action-settlements-2023-1850797441)
-- [Lifehacker] [Why You Should Take the Day Off on Jan. 8, 2024](https://lifehacker.com/why-you-should-take-the-day-off-on-jan-8-2024-1850981604)
-- [Lifehacker] [You Can &#39;Marcona&#39; Your Own Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)
-- [Lifehacker] [Should You Buy the ASUS ROG Ally Z1 or the Z1 Extreme?](https://lifehacker.com/asus-rog-ally-z1-versus-z1-extreme-comparison-1850981011)
-- [Lifehacker] [Evil Week: Everything You Can Find Out About Someone From Public Information](https://lifehacker.com/evil-week-everything-you-can-find-out-about-someone-fr-1850981103)
-- [Lifehacker] [Evil Week: Pass Off Cheap Baked Goods As the Expensive Stuff](https://lifehacker.com/evil-week-pass-off-cheap-baked-goods-as-the-expensive-1850980950)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Take the Day Off on Jan. 8, 2024](https://lifehacker.com/why-you-should-take-the-day-off-on-jan-8-2024-1850981604)<!-- TECH-POSTS:END -->
 
 ---
 
