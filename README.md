@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vanilla Design: The Best React UI Library Ever](https://dev.to/maotoumao/vanilla-design-the-best-react-ui-library-ever-3ncm)
+- [Dev.to/JS] [Cómo convertir un número a formato de moneda en JavaScript](https://dev.to/efrencodes/como-convertir-un-numero-a-formato-de-moneda-en-javascript-54dc)
+- [Dev.to/JS] [Maximiza el Poder de Astro: Dominando el Arte de los Slots](https://dev.to/efrencodes/maximiza-el-poder-de-astro-dominando-el-arte-de-los-slots-1acp)
+- [Dev.to/JS] [Debounce vs. Throttle in JavaScript](https://dev.to/xuho/debounce-vs-throttle-in-javascript-4b71)
 - [Dev.to/JS] [Demystifying Function Declarations Within Conditional Blocks](https://dev.to/corinamurg/demystifying-function-declarations-within-conditional-blocks-opm)
 - [Dev.to/JS] [The Temporal Dead Zone](https://dev.to/corinamurg/the-temporal-dead-zone-idh)
 - [Dev.to/JS] [Ngầu Hầm - Hướng Dẫn Cách chơi Ngầu Hầm Dễ Thắng Tại](https://dev.to/gsm66com/ngau-ham-huong-dan-cach-choi-ngau-ham-de-thang-tai-39ed)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stripe Payments with Nextjs](https://dev.to/jeremypersing/stripe-payments-with-nextjs-5fnl)
 - [Dev.to/JS] [new to coding](https://dev.to/redcodes/new-to-coding-1g8c)
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
-- [Dev.to/JS] [Implementing a decorator design pattern within React.](https://dev.to/elihood/implementing-a-decorator-design-pattern-within-react-gno)
-- [Dev.to/JS] [Performance Optimization: Techniques for Improving JavaScript Application Performance](https://dev.to/outstandingvick/performance-optimization-techniques-for-improving-javascript-application-performance-331d)
-- [Dev.to/JS] [The Best ORMs for Node.js App Development in 2023](https://dev.to/victor1890/the-best-orms-for-nodejs-app-development-in-2023-1blk)
-- [Dev.to/JS] [Build a comfortable and blazing fast image viewer in just 10 lines of Javascript code](https://dev.to/efpage/build-a-comfortable-and-blazing-fast-image-viewer-in-just-10-lines-of-javascript-code-5gad)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
 - [Lifehacker] [It’s Fine, You Can Lift in Running Shoes](https://lifehacker.com/it-s-fine-you-can-lift-in-running-shoes-1850982430)
 - [Lifehacker] [This Is the Apple Pencil You Should Buy](https://lifehacker.com/apple-pencil-review-1850981746)
