@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best SEO Services agency](https://dev.to/marketingwakeandmakemedia/best-seo-services-agency-1g9d)
 - [Dev.to/JS] [Vanilla Design: The Best React UI Library Ever](https://dev.to/maotoumao/vanilla-design-the-best-react-ui-library-ever-3ncm)
 - [Dev.to/JS] [Cómo convertir un número a formato de moneda en JavaScript](https://dev.to/efrencodes/como-convertir-un-numero-a-formato-de-moneda-en-javascript-54dc)
 - [Dev.to/JS] [Maximiza el Poder de Astro: Dominando el Arte de los Slots](https://dev.to/efrencodes/maximiza-el-poder-de-astro-dominando-el-arte-de-los-slots-1acp)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Rest API&#39;s - part 1](https://dev.to/emmyjaff/understanding-rest-apis-part-1-482o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)
 - [Dev.to/JS] [Stripe Payments with Nextjs](https://dev.to/jeremypersing/stripe-payments-with-nextjs-5fnl)
-- [Dev.to/JS] [new to coding](https://dev.to/redcodes/new-to-coding-1g8c)
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
 - [Lifehacker] [It’s Fine, You Can Lift in Running Shoes](https://lifehacker.com/it-s-fine-you-can-lift-in-running-shoes-1850982430)
