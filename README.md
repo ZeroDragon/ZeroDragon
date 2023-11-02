@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nuxt Social Share module has been released 🎉](https://dev.to/stefanobartoletti/nuxt-social-share-module-has-been-released-36gb)
+- [Dev.to/JS] [Debug JS events with monitorEvents](https://dev.to/danilo1/debug-js-events-with-monitorevents-ge9)
+- [Lifehacker] [Make Crispy Corn Crackers From Leftover Cornbread](https://lifehacker.com/make-crispy-corn-crackers-from-leftover-cornbread-1850985298)
+- [Dev.to/JS] [20 Best Web Development Frameworks in 2023](https://dev.to/snevy1/20-best-web-development-frameworks-in-2023-531)
+- [Lifehacker] [How to Cheat on a Lie Detector Test](https://lifehacker.com/how-to-cheat-on-a-lie-detector-test-1819793069)
+- [Lifehacker] [You Can Save More Money in Your Retirement Accounts in 2024](https://lifehacker.com/you-can-save-more-money-in-your-retirement-accounts-in-1850985218)
 - [Lifehacker] [You Should Move Chrome’s Address Bar to the Bottom of Your iPhone](https://lifehacker.com/you-should-move-chrome-s-address-bar-to-the-bottom-of-y-1850945219)
+- [Dev.to/JS] [Deja vu — How Server Components Are Changing The Game Using Old Ideas](https://dev.to/julianburr/deja-vu-how-server-components-are-changing-the-game-using-old-ideas-4ib3)
 - [Lifehacker] [This 4K Retro Gaming System is $50 Right Now](https://lifehacker.com/this-4k-retro-gaming-system-is-50-right-now-1850976978)
 - [Dev.to/JS] [JavaScript Variable: Should you choose let, var or const?](https://dev.to/shameel/javascript-variable-should-you-choose-let-var-or-const-47ke)
 - [Lifehacker] [All the New Ways to Use Your Apple Watch](https://lifehacker.com/all-the-new-ways-to-use-your-apple-watch-1850984316)
@@ -42,10 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Set Up the Template Library Pro Module in Apostrophe](https://dev.to/apostrophecms/how-to-set-up-the-template-library-pro-module-in-apostrophe-56p)
 - [Dev.to/JS] [🚀 7 Open Source Projects on Product Hunt you CANNOT miss 👀💨](https://dev.to/quine/7-open-source-projects-on-product-hunt-you-cannot-miss-5bje)
 - [Dev.to/JS] [Introducing the Telegram Booking System in &quot;Expressway&quot;](https://dev.to/d41_dev/introducing-the-telegram-booking-system-in-expressway-1kdb)
-- [Dev.to/JS] [Soft launching Squaredev alpha. The LLM platform for developers.](https://dev.to/momegas/soft-launching-squaredev-alpha-the-llm-platform-for-developers-3gel)
-- [Dev.to/JS] [What is Apex LFG?](https://dev.to/gametree_lee/what-is-apex-lfg-2ol5)
-- [Dev.to/JS] [Data Science Life Cycle](https://dev.to/victoralando/data-science-life-cycle-4019)
-- [Dev.to/JS] [Understanding the Difference Between the Internet and the World Wide Web](https://dev.to/alfakalel1/understanding-the-difference-between-the-internet-and-the-world-wide-web-j5j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Masturbate Before a First Date](https://lifehacker.com/why-you-should-masturbate-before-a-first-date-1850978919)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Organize Your To-Do List](https://lifehacker.com/the-best-and-worst-ways-to-organize-your-to-do-list-1850980235)
 - [Lifehacker] [The Biggest New Features in Windows 11&#39;s 23H2 Update](https://lifehacker.com/best-new-features-windows-11-23h2-update-1850860890)
-- [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
-- [Lifehacker] [10 of the Best Podcasts About Adoption](https://lifehacker.com/best-adoption-podcasts-1850976630)
-- [Lifehacker] [Evil Week: How to Get Into Exclusive Parties Without an Invitation](https://lifehacker.com/how-to-get-into-exclusive-parties-and-clubs-without-an-1453378483)
-- [Lifehacker] [You Can Get a 3rd Generation iPad Air for $280](https://lifehacker.com/you-can-get-a-3rd-generation-ipad-air-for-280-1850974914)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)<!-- TECH-POSTS:END -->
 
 ---
 
