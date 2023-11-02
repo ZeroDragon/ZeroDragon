@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Styling React 2023 edition](https://dev.to/mrmartineau/styling-react-2023-edition-3dg5)
+- [Dev.to/JS] [Bad UI Battels: Developers are competing who create the worst UI](https://dev.to/jon_snow789/bad-ui-battels-developers-are-competing-who-create-the-worst-ui-1no2)
+- [Dev.to/JS] [Implementing Feature Flags with Next.js and App Router](https://dev.to/kylessg/implementing-feature-flags-with-nextjs-and-app-router-1gl8)
+- [Dev.to/JS] [Why Running Apps on Your Cat is the Ultimate in Serverless Computing](https://dev.to/rpeden/why-running-apps-on-your-cat-is-the-ultimate-in-serverless-computing-1f7j)
+- [Lifehacker] [You Can Get a New, Open-Box Apple Magic Keyboard Folio for $99](https://lifehacker.com/you-can-get-a-new-open-box-apple-magic-keyboard-folio-1850976998)
+- [Dev.to/JS] [Simplify JavaScript&#39;s Async Concepts with One GIF](https://dev.to/devsmitra/simplify-javascripts-async-concepts-with-one-gif-3c6a)
+- [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
+- [Dev.to/JS] [Implementing Features like Docusaurus](https://dev.to/sshah135/implementing-features-like-docusaurus-42c5)
+- [Lifehacker] [What to Expect From Walmart&#39;s Early Black Friday Deals](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
 - [Dev.to/JS] [Nuxt Social Share module has been released 🎉](https://dev.to/stefanobartoletti/nuxt-social-share-module-has-been-released-36gb)
 - [Dev.to/JS] [Debug JS events with monitorEvents](https://dev.to/danilo1/debug-js-events-with-monitorevents-ge9)
 - [Lifehacker] [Make Crispy Corn Crackers From Leftover Cornbread](https://lifehacker.com/make-crispy-corn-crackers-from-leftover-cornbread-1850985298)
@@ -40,15 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [4 Laws of RxJS Observables](https://dev.to/this-is-angular/4-laws-of-rxjs-observables-4a5c)
 - [Lifehacker] [Evil Week: How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)
 - [Lifehacker] [You Can Fix These Common Hot Water Heater Problems Yourself](https://lifehacker.com/you-can-fix-these-common-hot-water-heater-problems-your-1850982530)
-- [Dev.to/JS] [💪💪 Top 5 Open-Source Insomnia alternatives that you must try in 2024 🔥](https://dev.to/shreya_gr/top-5-open-source-insomnia-alternatives-that-you-must-try-in-2024-37lm)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Dead Internet Theory&#39; Isn&#39;t Real, I Swear](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-dead-inter-1850983564)
 - [Lifehacker] [Evil Week: 20 Unethical &lpar;but Brilliant&rpar; Life Hacks From Reddit](https://lifehacker.com/20-unethical-but-brilliant-life-hacks-from-reddit-1847783281)
 - [Lifehacker] [Evil Week: How to Hide Porn on a Mac](https://lifehacker.com/how-to-hide-porn-on-a-mac-1850982371)
-- [Dev.to/JS] [10 Exceptional Investment Opportunities in Murree, Pakistan for 2023-2024](https://dev.to/waqasrajput333/10-exceptional-investment-opportunities-in-murree-pakistan-for-2023-2024-20ph)
-- [Dev.to/JS] [O método find e a busca ao modo CTRL + F em JavaScript](https://dev.to/demenezes/o-metodo-find-e-a-busca-ao-modo-ctrl-f-em-javascript-27el)
-- [Dev.to/JS] [How To Set Up the Template Library Pro Module in Apostrophe](https://dev.to/apostrophecms/how-to-set-up-the-template-library-pro-module-in-apostrophe-56p)
-- [Dev.to/JS] [🚀 7 Open Source Projects on Product Hunt you CANNOT miss 👀💨](https://dev.to/quine/7-open-source-projects-on-product-hunt-you-cannot-miss-5bje)
-- [Dev.to/JS] [Introducing the Telegram Booking System in &quot;Expressway&quot;](https://dev.to/d41_dev/introducing-the-telegram-booking-system-in-expressway-1kdb)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: Pass Off Cheap Baked Goods As the Expensive Stuff](https://lifehacker.com/evil-week-pass-off-cheap-baked-goods-as-the-expensive-1850980950)
 - [Lifehacker] [Apple Arcade Is Getting New Games](https://lifehacker.com/apple-arcade-is-getting-new-games-1850980518)
 - [Lifehacker] [Evil Week: How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)
-- [Lifehacker] [Why You Should Masturbate Before a First Date](https://lifehacker.com/why-you-should-masturbate-before-a-first-date-1850978919)
-- [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Organize Your To-Do List](https://lifehacker.com/the-best-and-worst-ways-to-organize-your-to-do-list-1850980235)
-- [Lifehacker] [The Biggest New Features in Windows 11&#39;s 23H2 Update](https://lifehacker.com/best-new-features-windows-11-23h2-update-1850860890)
-- [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Masturbate Before a First Date](https://lifehacker.com/why-you-should-masturbate-before-a-first-date-1850978919)<!-- TECH-POSTS:END -->
 
 ---
 
