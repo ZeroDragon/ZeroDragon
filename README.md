@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
 - [Lifehacker] [Evil Week: Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
 - [Dev.to/JS] [Memoization and the Magic of Self-Containing Functions](https://dev.to/corinamurg/memoization-and-the-magic-of-self-containing-functions-4b75)
 - [Dev.to/JS] [Remix: 10 Minute Docs Audit](https://dev.to/documentwrites/remix-10-minute-docs-audit-55dh)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: 20 Unethical &lpar;but Brilliant&rpar; Life Hacks From Reddit](https://lifehacker.com/20-unethical-but-brilliant-life-hacks-from-reddit-1847783281)
 - [Lifehacker] [Evil Week: How to Hide Porn on a Mac](https://lifehacker.com/how-to-hide-porn-on-a-mac-1850982371)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)
-- [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
-- [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)<!-- TECH-POSTS:END -->
 
 ---
 
