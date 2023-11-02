@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [new to coding](https://dev.to/redcodes/new-to-coding-1g8c)
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Dev.to/JS] [Implementing a decorator design pattern within React.](https://dev.to/elihood/implementing-a-decorator-design-pattern-within-react-gno)
 - [Dev.to/JS] [Performance Optimization: Techniques for Improving JavaScript Application Performance](https://dev.to/outstandingvick/performance-optimization-techniques-for-improving-javascript-application-performance-331d)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hat Trick for Sport Bloggers: Maximizing Engagement with Soccer Highlights](https://dev.to/sports_junkie/hat-trick-for-sport-bloggers-maximizing-engagement-with-soccer-highlights-4pgp)
 - [Dev.to/JS] [🏆 The top 3 repos from hacktoberfest you CANNOT ignore🚀](https://dev.to/quine/the-top-3-repos-from-hacktoberfest-you-cannot-ignore-3mpb)
 - [Lifehacker] [Why You Should Masturbate Before a First Date](https://lifehacker.com/why-you-should-masturbate-before-a-first-date-1850978919)
-- [Dev.to/JS] [HTML, CSS and JS - a silly little game](https://dev.to/lisag/html-css-and-js-a-silly-little-game-272b)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Organize Your To-Do List](https://lifehacker.com/the-best-and-worst-ways-to-organize-your-to-do-list-1850980235)
 - [Lifehacker] [The Biggest New Features in Windows 11&#39;s 23H2 Update](https://lifehacker.com/best-new-features-windows-11-23h2-update-1850860890)
 - [Lifehacker] [A Lifetime Subscription to Babbel Is $140 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
