@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Null Data Type](https://dev.to/eminaltan/javascript-null-data-type-31ih)
+- [Dev.to/JS] [JavaScript Undefined Data Type](https://dev.to/eminaltan/javascript-undefined-data-type-5b14)
+- [Dev.to/JS] [Mengenal Permainan Slot](https://dev.to/rtpgacor/mengenal-permainan-slot-3n5l)
+- [Dev.to/JS] [Serena Leafz Cbd Gummies Canada:-[IS FAKE or REAL?] Read Before Buy?](https://dev.to/serenaleafzcbdget/serena-leafz-cbd-gummies-canada-is-fake-or-real-read-before-buy-57b8)
+- [Dev.to/JS] [Browser storage - Localstorage, cookies and session](https://dev.to/yashnirmal/browser-storage-localstorage-cookies-and-session-25jp)
 - [Dev.to/JS] [Deep Dive into Constructors and Prototypes in JavaScript](https://dev.to/emmyjaff/deep-dive-into-constructors-and-prototypes-in-javascript-52l3)
 - [Dev.to/JS] [A simplified guide to Async/Await](https://dev.to/yashnirmal/a-simplified-guide-to-asyncawait-3jlj)
 - [Dev.to/JS] [The Power of JavaScript DOM Manipulation](https://dev.to/rowsanali/the-power-of-javascript-dom-manipulation-1251)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Loops in JavaScript: A Comprehensive Guide with Code Examples](https://dev.to/rowsanali/mastering-loops-in-javascript-a-comprehensive-guide-with-code-examples-30em)
 - [Dev.to/JS] [Technology Stacks and Tools for MVP Development:](https://dev.to/techno_yuga/technology-stacks-and-tools-for-mvp-development-83n)
 - [Dev.to/JS] [Episode 23/43: Angular Love Meetup, Younes Jaaidi on Testing](https://dev.to/this-is-angular/episode-2343-angular-love-meetup-younes-jaaidi-on-testing-4aco)
-- [Dev.to/JS] [Mastering Arrays in JavaScript: A Comprehensive Guide with Code Examples](https://dev.to/rowsanali/mastering-arrays-in-javascript-a-comprehensive-guide-with-code-examples-53kn)
-- [Dev.to/JS] [Next.js 14 - Laugh or Clap?](https://dev.to/ayyasudeenm/nextjs-14-laugh-or-clap-24an)
-- [Dev.to/JS] [Introduction to React createPortal API](https://dev.to/refine/introduction-to-react-createportal-api-442o)
-- [Dev.to/JS] [The Power of Positive Thinking](https://dev.to/brojenuel/the-power-of-positive-thinking-22h5)
-- [Dev.to/JS] [Enhancing SEO in TxtToHTML](https://dev.to/bhmistry/enhancing-seo-in-txttohtml-57gp)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
