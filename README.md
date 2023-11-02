@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Apex LFG?](https://dev.to/gametree_lee/what-is-apex-lfg-2ol5)
+- [Dev.to/JS] [Data Science Life Cycle](https://dev.to/victoralando/data-science-life-cycle-4019)
+- [Dev.to/JS] [Understanding the Difference Between the Internet and the World Wide Web](https://dev.to/alfakalel1/understanding-the-difference-between-the-internet-and-the-world-wide-web-j5j)
 - [Dev.to/JS] [Method instance of alovajs, a request strategy library](https://dev.to/coderhu/quick-start-of-alovajs-a-request-strategy-library-39ne)
 - [Dev.to/JS] [How JWT works in Authorization](https://dev.to/tarekibnkhayer/how-jwt-works-in-authorization-1ldo)
 - [Dev.to/JS] [Meme November: Day - 2](https://dev.to/jon_snow789/meme-november-day-2-3d24)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Null Data Type](https://dev.to/eminaltan/javascript-null-data-type-31ih)
 - [Dev.to/JS] [JavaScript Undefined Data Type](https://dev.to/eminaltan/javascript-undefined-data-type-5b14)
 - [Dev.to/JS] [Mengenal Permainan Slot](https://dev.to/rtpgacor/mengenal-permainan-slot-3n5l)
-- [Dev.to/JS] [Serena Leafz Cbd Gummies Canada:-[IS FAKE or REAL?] Read Before Buy?](https://dev.to/serenaleafzcbdget/serena-leafz-cbd-gummies-canada-is-fake-or-real-read-before-buy-57b8)
-- [Dev.to/JS] [Browser storage - Localstorage, cookies and session](https://dev.to/yashnirmal/browser-storage-localstorage-cookies-and-session-25jp)
-- [Dev.to/JS] [Deep Dive into Constructors and Prototypes in JavaScript](https://dev.to/emmyjaff/deep-dive-into-constructors-and-prototypes-in-javascript-52l3)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
