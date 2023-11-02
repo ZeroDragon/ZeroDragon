@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s Learn Redux &lpar;Complete Tutorial&rpar;](https://dev.to/sagarkattel/lets-learn-redux-complete-tutorial-1iem)
+- [Lifehacker] [You Don&#39;t Need to Buy a Desktop to Get the Most Power in a Mac Anymore](https://lifehacker.com/m3-max-macbook-pro-review-1850985646)
+- [Lifehacker] [Evil Week: How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
+- [Lifehacker] [How to Sleep on a Couch Without Hurting Yourself](https://lifehacker.com/how-to-sleep-on-a-couch-without-hurting-yourself-1850985809)
 - [Dev.to/JS] [Styling React 2023 edition](https://dev.to/mrmartineau/styling-react-2023-edition-3dg5)
 - [Dev.to/JS] [Bad UI Battels: Developers are competing who create the worst UI](https://dev.to/jon_snow789/bad-ui-battels-developers-are-competing-who-create-the-worst-ui-1no2)
 - [Dev.to/JS] [Implementing Feature Flags with Next.js and App Router](https://dev.to/kylessg/implementing-feature-flags-with-nextjs-and-app-router-1gl8)
@@ -46,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 4K Retro Gaming System is $50 Right Now](https://lifehacker.com/this-4k-retro-gaming-system-is-50-right-now-1850976978)
 - [Dev.to/JS] [JavaScript Variable: Should you choose let, var or const?](https://dev.to/shameel/javascript-variable-should-you-choose-let-var-or-const-47ke)
 - [Lifehacker] [All the New Ways to Use Your Apple Watch](https://lifehacker.com/all-the-new-ways-to-use-your-apple-watch-1850984316)
-- [Dev.to/JS] [4 Laws of RxJS Observables](https://dev.to/this-is-angular/4-laws-of-rxjs-observables-4a5c)
 - [Lifehacker] [Evil Week: How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)
 - [Lifehacker] [You Can Fix These Common Hot Water Heater Problems Yourself](https://lifehacker.com/you-can-fix-these-common-hot-water-heater-problems-your-1850982530)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Dead Internet Theory&#39; Isn&#39;t Real, I Swear](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-dead-inter-1850983564)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can &#39;Marcona&#39; Your Own Almonds at Home](https://lifehacker.com/you-can-marcona-your-almonds-at-home-1849695840)
 - [Lifehacker] [Should You Buy the ASUS ROG Ally Z1 or the Z1 Extreme?](https://lifehacker.com/asus-rog-ally-z1-versus-z1-extreme-comparison-1850981011)
 - [Lifehacker] [Evil Week: Everything You Can Find Out About Someone From Public Information](https://lifehacker.com/evil-week-everything-you-can-find-out-about-someone-fr-1850981103)
-- [Lifehacker] [Evil Week: Pass Off Cheap Baked Goods As the Expensive Stuff](https://lifehacker.com/evil-week-pass-off-cheap-baked-goods-as-the-expensive-1850980950)
-- [Lifehacker] [Apple Arcade Is Getting New Games](https://lifehacker.com/apple-arcade-is-getting-new-games-1850980518)
-- [Lifehacker] [Evil Week: How to Launder Dirty Money](https://lifehacker.com/how-to-launder-dirty-money-1849595817)
-- [Lifehacker] [Why You Should Masturbate Before a First Date](https://lifehacker.com/why-you-should-masturbate-before-a-first-date-1850978919)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: Pass Off Cheap Baked Goods As the Expensive Stuff](https://lifehacker.com/evil-week-pass-off-cheap-baked-goods-as-the-expensive-1850980950)<!-- TECH-POSTS:END -->
 
 ---
 
