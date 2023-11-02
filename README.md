@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Memoization and the Magic of Self-Containing Functions](https://dev.to/corinamurg/memoization-and-the-magic-of-self-containing-functions-4b75)
+- [Dev.to/JS] [Remix: 10 Minute Docs Audit](https://dev.to/documentwrites/remix-10-minute-docs-audit-55dh)
+- [Lifehacker] [Evil Week: How to Keep Dogs From Crapping on Your Lawn](https://lifehacker.com/the-evil-way-to-keep-dogs-off-your-lawn-1839469715)
+- [Dev.to/JS] [Automating code patterns with Husky](https://dev.to/fellipeutaka/automating-code-patterns-with-husky-pkp)
 - [Lifehacker] [The Drop CSTM80 Is a Great Custom Keyboard for Everyone](https://lifehacker.com/drop-cstm80-custom-keyboard-review-1850985799)
 - [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)
 - [Dev.to/JS] [Frontend Wizardry](https://dev.to/bkmahapatra/frontend-wizardry-1b11)
@@ -45,11 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing Feature Flags with Next.js and App Router](https://dev.to/kylessg/implementing-feature-flags-with-nextjs-and-app-router-1gl8)
 - [Dev.to/JS] [Why Running Apps on Your Cat is the Ultimate in Serverless Computing](https://dev.to/rpeden/why-running-apps-on-your-cat-is-the-ultimate-in-serverless-computing-1f7j)
 - [Lifehacker] [You Can Get a New, Open-Box Apple Magic Keyboard Folio for $99](https://lifehacker.com/you-can-get-a-new-open-box-apple-magic-keyboard-folio-1850976998)
-- [Dev.to/JS] [Simplify JavaScript&#39;s Async Concepts with One GIF](https://dev.to/devsmitra/simplify-javascripts-async-concepts-with-one-gif-3c6a)
 - [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
-- [Dev.to/JS] [Implementing Features like Docusaurus](https://dev.to/sshah135/implementing-features-like-docusaurus-42c5)
 - [Lifehacker] [What to Expect From Walmart&#39;s Early Black Friday Deals](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
-- [Dev.to/JS] [Nuxt Social Share module has been released 🎉](https://dev.to/stefanobartoletti/nuxt-social-share-module-has-been-released-36gb)
 - [Lifehacker] [Make Crispy Corn Crackers From Leftover Cornbread](https://lifehacker.com/make-crispy-corn-crackers-from-leftover-cornbread-1850985298)
 - [Lifehacker] [How to Cheat on a Lie Detector Test](https://lifehacker.com/how-to-cheat-on-a-lie-detector-test-1819793069)
 - [Lifehacker] [You Can Save More Money in Your Retirement Accounts in 2024](https://lifehacker.com/you-can-save-more-money-in-your-retirement-accounts-in-1850985218)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
-- [Lifehacker] [It’s Fine, You Can Lift in Running Shoes](https://lifehacker.com/it-s-fine-you-can-lift-in-running-shoes-1850982430)
-- [Lifehacker] [This Is the Apple Pencil You Should Buy](https://lifehacker.com/apple-pencil-review-1850981746)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It’s Fine, You Can Lift in Running Shoes](https://lifehacker.com/it-s-fine-you-can-lift-in-running-shoes-1850982430)<!-- TECH-POSTS:END -->
 
 ---
 
