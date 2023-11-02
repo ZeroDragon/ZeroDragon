@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Method instance of alovajs, a request strategy library](https://dev.to/coderhu/quick-start-of-alovajs-a-request-strategy-library-39ne)
+- [Dev.to/JS] [How JWT works in Authorization](https://dev.to/tarekibnkhayer/how-jwt-works-in-authorization-1ldo)
+- [Dev.to/JS] [Meme November: Day - 2](https://dev.to/jon_snow789/meme-november-day-2-3d24)
 - [Dev.to/JS] [Meme November: Day - 1](https://dev.to/jon_snow789/meme-november-day-1-50eg)
 - [Dev.to/JS] [Event Emitter in Angular Not in AngularJs!](https://dev.to/abhishek_159/event-emitter-in-angular-not-in-angularjs-59c1)
 - [Dev.to/JS] [Why do we use Modules in angular?](https://dev.to/abhishek_159/why-do-we-use-modules-in-angular-2561)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Serena Leafz Cbd Gummies Canada:-[IS FAKE or REAL?] Read Before Buy?](https://dev.to/serenaleafzcbdget/serena-leafz-cbd-gummies-canada-is-fake-or-real-read-before-buy-57b8)
 - [Dev.to/JS] [Browser storage - Localstorage, cookies and session](https://dev.to/yashnirmal/browser-storage-localstorage-cookies-and-session-25jp)
 - [Dev.to/JS] [Deep Dive into Constructors and Prototypes in JavaScript](https://dev.to/emmyjaff/deep-dive-into-constructors-and-prototypes-in-javascript-52l3)
-- [Dev.to/JS] [A simplified guide to Async/Await](https://dev.to/yashnirmal/a-simplified-guide-to-asyncawait-3jlj)
-- [Dev.to/JS] [The Power of JavaScript DOM Manipulation](https://dev.to/rowsanali/the-power-of-javascript-dom-manipulation-1251)
-- [Dev.to/JS] [Cracking the JavaScript Code: Unveil the Magic of Object Descriptors](https://dev.to/this-is-learning/cracking-the-javascript-code-unveil-the-magic-of-object-descriptors-17b6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)
 - [Lifehacker] [Nine Ways to Talk to the Dead](https://lifehacker.com/9-ways-to-talk-to-the-dead-1849556416)
 - [Lifehacker] [Evil Week: The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
