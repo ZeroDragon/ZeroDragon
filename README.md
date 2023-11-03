@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Promises and Async/Await in JavaScript](https://dev.to/rowsanali/using-promises-and-asyncawait-in-javascript-3bpb)
+- [Dev.to/JS] [The Evolution of JavaScript: ES5 to ES2022](https://dev.to/rowsanali/the-evolution-of-javascript-es5-to-es2022-49p9)
+- [Dev.to/JS] [Working with Databases in JavaScript: SQL and NoSQL](https://dev.to/rowsanali/working-with-databases-in-javascript-sql-and-nosql-3k8k)
+- [Dev.to/JS] [tehysryhreyh](https://dev.to/uyahan4/tehysryhreyh-2jfl)
+- [Dev.to/JS] [Ecosystems for modern web development: Headless CMS, SSG and Serverless Database](https://dev.to/sparkouttech/ecosystems-for-modern-web-development-headless-cms-ssg-and-serverless-database-1ji1)
 - [Dev.to/JS] [Error Handling in JavaScript](https://dev.to/tanmaycode/error-handling-in-javascript-186p)
 - [Dev.to/JS] [10 Tips and Tricks With JavaScript Objects](https://dev.to/xuho/10-tips-and-tricks-with-javascript-objects-3al0)
 - [Dev.to/JS] [Unleashing the Power of JavaScript: A Comprehensive Guide.](https://dev.to/rasel9t6/unleashing-the-power-of-javascript-a-comprehensive-guide-360m)
@@ -38,14 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Memoization and the Magic of Self-Containing Functions](https://dev.to/corinamurg/memoization-and-the-magic-of-self-containing-functions-4b75)
 - [Dev.to/JS] [Remix: 10 Minute Docs Audit](https://dev.to/documentwrites/remix-10-minute-docs-audit-55dh)
 - [Lifehacker] [Evil Week: How to Keep Dogs From Crapping on Your Lawn](https://lifehacker.com/the-evil-way-to-keep-dogs-off-your-lawn-1839469715)
-- [Dev.to/JS] [Automating code patterns with Husky](https://dev.to/fellipeutaka/automating-code-patterns-with-husky-pkp)
 - [Lifehacker] [The Drop CSTM80 Is a Great Custom Keyboard for Everyone](https://lifehacker.com/drop-cstm80-custom-keyboard-review-1850985799)
 - [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)
-- [Dev.to/JS] [Frontend Wizardry](https://dev.to/bkmahapatra/frontend-wizardry-1b11)
 - [Lifehacker] [You Can Get These Two Drones for $160](https://lifehacker.com/you-can-get-these-two-drones-for-160-1850977010)
-- [Dev.to/JS] [Should You Learn Vue, React, or Angular?](https://dev.to/jakeespinosa/should-you-learn-vue-react-or-angular-13mm)
-- [Dev.to/JS] [Navigating the Software Development Journey: What I Wish I Knew as a Junior Developer](https://dev.to/delia_code/navigating-the-software-development-journey-what-i-wish-i-knew-as-a-junior-developer-4egd)
-- [Dev.to/JS] [How to build an app with nestjs and hotwire!](https://dev.to/mrispoli24/how-to-build-an-app-with-nestjs-and-hotwire-42j1)
 - [Lifehacker] [Evil Week: Do Chores Badly and You&#39;ll Be Free of Them](https://lifehacker.com/evil-week-do-chores-badly-and-youll-be-free-of-them-1850985894)
 - [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [Use the &#39;Zen to Done&#39; Method to Create New Productivity Habits](https://lifehacker.com/how-to-use-the-zen-to-done-productivity-method-1850986328)
