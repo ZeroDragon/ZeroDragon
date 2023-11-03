@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
+- [Lifehacker] [You Can &lpar;Probably&rpar; Still Make a Killing on I Bonds](https://lifehacker.com/when-to-buy-series-i-savings-bonds-1849855295)
+- [Dev.to/JS] [Must know concepts of JS to make life simple](https://dev.to/sibichandru-rajendran/must-know-concepts-of-js-to-make-life-simple-2och)
 - [Dev.to/JS] [useEffect&lpar;&rpar; vs useState&lpar;&rpar;, props vs callback, Dependency types for useEffect](https://dev.to/bookmdan/useeffect-vs-usestate-props-vs-callback-dependency-types-for-useeffect-441m)
 - [Dev.to/JS] [10 Math Concepts for Every Programmer](https://dev.to/codewithshahan/10-math-concepts-for-every-programmer-31n9)
 - [Dev.to/JS] [Unleash Your Coding Superpowers with CoderKit! 🚀](https://dev.to/bibekkakati/unleash-your-coding-superpowers-with-coderkit-k9h)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $80](https://lifehacker.com/these-night-vision-binoculars-are-on-sale-for-80-1850986770)
 - [Dev.to/JS] [Canvas-Txt: Multiline Text Magic on HTML5 Canvas](https://dev.to/geongeorge/canvas-txt-multiline-text-magic-on-html5-canvas-41b8)
 - [Dev.to/JS] [TypeScript Best Practices: Writing Clean and Maintainable Code](https://dev.to/baransel/typescript-best-practices-writing-clean-and-maintainable-code-33dg)
-- [Dev.to/JS] [React: useState or useRef?](https://dev.to/lum3ll_96/react-usestate-or-useref-4gog)
 - [Lifehacker] [How to Get Rid of PMI As Soon As Possible](https://lifehacker.com/how-to-get-rid-of-pmi-as-soon-as-possible-1850990113)
 - [Lifehacker] [&#39;Don&#39;t Break the Chain&#39; to Build a New Habit](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
 - [Lifehacker] [Use the &#39;Agile Results&#39; System to Achieve Short- and Long-Term Goals](https://lifehacker.com/use-the-agile-results-system-to-achieve-short-and-long-1850990095)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: Things You Can Do on the Dark Web That Aren&#39;t Illegal](https://lifehacker.com/legal-things-you-can-do-on-the-dark-web-1819790298)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)
 - [Lifehacker] [This Portable Golf Simulator Is $172.97 Right Now](https://lifehacker.com/this-portable-golf-simulator-is-172-97-right-now-1850977112)
-- [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
-- [Lifehacker] [Evil Week: Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
-- [Lifehacker] [Evil Week: How to Keep Dogs From Crapping on Your Lawn](https://lifehacker.com/the-evil-way-to-keep-dogs-off-your-lawn-1839469715)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)<!-- TECH-POSTS:END -->
 
 ---
 
