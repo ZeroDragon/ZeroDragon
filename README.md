@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding JSON: A Beginner&#39;s Guide](https://dev.to/xuho/understanding-json-a-beginners-guide-483g)
+- [Dev.to/JS] [Chi phí Phòng khám đa khoa Hồng Cường](https://dev.to/phongkhamdkhongcuong6/chi-phi-phong-kham-da-khoa-hong-cuong-24md)
+- [Dev.to/JS] [The Secret Life of a Bug: What Debugging Teaches About Problem Solving](https://dev.to/delia_code/the-secret-life-of-a-bug-what-debugging-teaches-about-problem-solving-eic)
+- [Dev.to/JS] [Careful using forEach in Javascript](https://dev.to/tino_muc/careful-using-foreach-in-javascript-50jd)
 - [Dev.to/JS] [Revolutionizing Education: IQRA Technology&#39;s Journey Towards a Smarter Tomorrow](https://dev.to/iqratechnology4/revolutionizing-education-iqra-technologys-journey-towards-a-smarter-tomorrow-5o2)
+- [Dev.to/JS] [Angular Directive Grammar &amp; Microsyntax: Demystifying the Hidden Parts](https://dev.to/khangtrannn/angular-directive-grammar-microsyntax-demystifying-the-hidden-parts-529g)
 - [Dev.to/JS] [Moment.js Is Now Legacy Project | Alternatives?](https://dev.to/shameel/momentjs-is-now-legacy-project-alternatives-5738)
 - [Dev.to/JS] [Using Promises and Async/Await in JavaScript](https://dev.to/rowsanali/using-promises-and-asyncawait-in-javascript-3bpb)
 - [Dev.to/JS] [The Evolution of JavaScript: ES5 to ES2022](https://dev.to/rowsanali/the-evolution-of-javascript-es5-to-es2022-49p9)
 - [Dev.to/JS] [Working with Databases in JavaScript: SQL and NoSQL](https://dev.to/rowsanali/working-with-databases-in-javascript-sql-and-nosql-3k8k)
 - [Dev.to/JS] [tehysryhreyh](https://dev.to/uyahan4/tehysryhreyh-2jfl)
 - [Dev.to/JS] [Ecosystems for modern web development: Headless CMS, SSG and Serverless Database](https://dev.to/sparkouttech/ecosystems-for-modern-web-development-headless-cms-ssg-and-serverless-database-1ji1)
-- [Dev.to/JS] [Error Handling in JavaScript](https://dev.to/tanmaycode/error-handling-in-javascript-186p)
-- [Dev.to/JS] [10 Tips and Tricks With JavaScript Objects](https://dev.to/xuho/10-tips-and-tricks-with-javascript-objects-3al0)
-- [Dev.to/JS] [Unleashing the Power of JavaScript: A Comprehensive Guide.](https://dev.to/rasel9t6/unleashing-the-power-of-javascript-a-comprehensive-guide-360m)
-- [Dev.to/JS] [Tư vấn Phòng khám đa khoa Hồng Cường](https://dev.to/phongkhamdkhongcuong5/tu-van-phong-kham-da-khoa-hong-cuong-18ml)
-- [Dev.to/JS] [[Vite plugin] Jump to the editor by clicking console.log output.](https://dev.to/yuyinws/vite-plugin-jump-to-the-editor-by-clicking-consolelog-output-9hc)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)
 - [Lifehacker] [This Portable Golf Simulator Is $172.97 Right Now](https://lifehacker.com/this-portable-golf-simulator-is-172-97-right-now-1850977112)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
