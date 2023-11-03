@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Error Handling in JavaScript](https://dev.to/tanmaycode/error-handling-in-javascript-186p)
+- [Dev.to/JS] [10 Tips and Tricks With JavaScript Objects](https://dev.to/xuho/10-tips-and-tricks-with-javascript-objects-3al0)
 - [Dev.to/JS] [Unleashing the Power of JavaScript: A Comprehensive Guide.](https://dev.to/rasel9t6/unleashing-the-power-of-javascript-a-comprehensive-guide-360m)
 - [Dev.to/JS] [Tư vấn Phòng khám đa khoa Hồng Cường](https://dev.to/phongkhamdkhongcuong5/tu-van-phong-kham-da-khoa-hong-cuong-18ml)
 - [Dev.to/JS] [[Vite plugin] Jump to the editor by clicking console.log output.](https://dev.to/yuyinws/vite-plugin-jump-to-the-editor-by-clicking-consolelog-output-9hc)
@@ -47,11 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: Do Chores Badly and You&#39;ll Be Free of Them](https://lifehacker.com/evil-week-do-chores-badly-and-youll-be-free-of-them-1850985894)
 - [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
 - [Lifehacker] [Use the &#39;Zen to Done&#39; Method to Create New Productivity Habits](https://lifehacker.com/how-to-use-the-zen-to-done-productivity-method-1850986328)
-- [Dev.to/JS] [Let&#39;s Learn Redux &lpar;Complete Tutorial&rpar;](https://dev.to/sagarkattel/lets-learn-redux-complete-tutorial-1iem)
 - [Lifehacker] [You Don&#39;t Need to Buy a Desktop to Get the Most Power in a Mac Anymore](https://lifehacker.com/m3-max-macbook-pro-review-1850985646)
 - [Lifehacker] [Evil Week: How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
 - [Lifehacker] [How to Sleep on a Couch Without Hurting Yourself](https://lifehacker.com/how-to-sleep-on-a-couch-without-hurting-yourself-1850985809)
-- [Dev.to/JS] [Styling React 2023 edition](https://dev.to/mrmartineau/styling-react-2023-edition-3dg5)
 - [Lifehacker] [You Can Get a New, Open-Box Apple Magic Keyboard Folio for $99](https://lifehacker.com/you-can-get-a-new-open-box-apple-magic-keyboard-folio-1850976998)
 - [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
 - [Lifehacker] [What to Expect From Walmart&#39;s Early Black Friday Deals](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
