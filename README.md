@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)
 - [Lifehacker] [This Portable Golf Simulator Is $172.97 Right Now](https://lifehacker.com/this-portable-golf-simulator-is-172-97-right-now-1850977112)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
 - [Lifehacker] [Evil Week: Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Fix These Common Hot Water Heater Problems Yourself](https://lifehacker.com/you-can-fix-these-common-hot-water-heater-problems-your-1850982530)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Dead Internet Theory&#39; Isn&#39;t Real, I Swear](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-dead-inter-1850983564)
 - [Lifehacker] [Evil Week: 20 Unethical &lpar;but Brilliant&rpar; Life Hacks From Reddit](https://lifehacker.com/20-unethical-but-brilliant-life-hacks-from-reddit-1847783281)
-- [Lifehacker] [Evil Week: How to Hide Porn on a Mac](https://lifehacker.com/how-to-hide-porn-on-a-mac-1850982371)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 2, 2023](https://lifehacker.com/nyt-connections-answer-today-november-2-2023-1850980019)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: How to Hide Porn on a Mac](https://lifehacker.com/how-to-hide-porn-on-a-mac-1850982371)<!-- TECH-POSTS:END -->
 
 ---
 
