@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Power of JavaScript Promises](https://dev.to/nora13/the-power-of-javascript-promises-1991)
+- [Lifehacker] [Evil Week: Take Multiple Pictures of Your Next Flat Tire So You Can Re-Use the Excuse](https://lifehacker.com/take-multiple-pictures-of-your-next-flat-tire-so-you-ca-1839500390)
+- [Dev.to/JS] [Meme November: Day - 3](https://dev.to/jon_snow789/meme-november-day-3-28lk)
+- [Lifehacker] [This 55-Inch 4K QLED TCL TV Is $400 Right Now](https://lifehacker.com/this-55-inch-4k-qled-tcl-tv-is-400-right-now-1850989986)
+- [Dev.to/JS] [How to Show Loader on Page Changes in Next.js](https://dev.to/mohammadfaisal/how-to-show-loader-on-page-changes-in-nextjs-k8o)
 - [Dev.to/JS] [Building Reactive CLIs with Ink - React CLI library](https://dev.to/skirianov/building-reactive-clis-with-ink-react-cli-library-4jpa)
 - [Dev.to/JS] [Micro Frontends: DO&#39;s, DON&#39;Ts, Tools and Scaling Strategies](https://dev.to/dr_anks/micro-frontends-dos-donts-tools-and-scaling-strategies-3n4o)
 - [Lifehacker] [This $230 Refurbished iPad Comes With Beats Headphones](https://lifehacker.com/this-230-refurbished-ipad-comes-with-beats-headphones-1850986626)
@@ -43,10 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a custom, re-usable Component Part to implement generic actions and with state binding in Modulo JS](https://dev.to/michaelpb/building-a-custom-re-usable-component-part-to-implement-generic-actions-and-with-state-binding-in-modulo-js-180a)
 - [Lifehacker] [Evil Week: Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [The 20 Best Holiday and Christmas Movies on Netflix Right Now](https://lifehacker.com/best-holiday-movies-on-netflix-1850972904)
-- [Dev.to/JS] [Exploring the Realm of Online Java Compilers](https://dev.to/veronicajoseph/exploring-the-realm-of-online-java-compilers-3f18)
 - [Lifehacker] [The Google Pixel 7 Is The Cheapest It’s Ever Been](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)
-- [Dev.to/JS] [Computer IT Waste Recycling For Computer Recycling Services](https://dev.to/waheed12/computer-it-waste-recycling-for-computer-recycling-services-2pg7)
-- [Dev.to/JS] [Eco Green IT Recycling For Computer Recycling Services](https://dev.to/xmavix/eco-green-it-recycling-for-computer-recycling-services-4ic9)
 - [Lifehacker] [Evil Week: 7 Bar Bets That Will Trick People Into Buying You Drinks](https://lifehacker.com/trick-people-into-buying-you-drinks-with-these-bar-bets-1819176229)
 - [Lifehacker] [Evil Week: 8 Things People Only Think Are Illegal](https://lifehacker.com/evil-week-8-things-people-only-think-are-illegal-1850986491)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don&#39;t Need to Buy a Desktop to Get the Most Power in a Mac Anymore](https://lifehacker.com/m3-max-macbook-pro-review-1850985646)
 - [Lifehacker] [Evil Week: How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
 - [Lifehacker] [How to Sleep on a Couch Without Hurting Yourself](https://lifehacker.com/how-to-sleep-on-a-couch-without-hurting-yourself-1850985809)
-- [Lifehacker] [You Can Get a New, Open-Box Apple Magic Keyboard Folio for $99](https://lifehacker.com/you-can-get-a-new-open-box-apple-magic-keyboard-folio-1850976998)
-- [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
-- [Lifehacker] [What to Expect From Walmart&#39;s Early Black Friday Deals](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a New, Open-Box Apple Magic Keyboard Folio for $99](https://lifehacker.com/you-can-get-a-new-open-box-apple-magic-keyboard-folio-1850976998)<!-- TECH-POSTS:END -->
 
 ---
 
