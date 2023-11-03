@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wellness Peak CBD Gummies - [SCAM EXPOSED] Results, Ingredients, Price &amp; Benefits?](https://dev.to/dsanbvpa/wellness-peak-cbd-gummies-scam-exposed-results-ingredients-price-benefits-43d8)
+- [Dev.to/JS] [Serena Leafz CBD Gummies Canada Reviews &lpar;Toronto Updated 2023 Also Available In CA](https://dev.to/serenaleafzcbdgu/serena-leafz-cbd-gummies-canada-reviews-toronto-updated-2023-also-available-in-ca-1jea)
+- [Dev.to/JS] [useHook to request, a extremely fast variant of request library](https://dev.to/coderhu/usehook-to-request-a-extremely-fast-variant-of-request-library-39l3)
+- [Dev.to/JS] [PostGraphile — The Gateway Drug To GraphQL](https://dev.to/sameer1612/postgraphile-the-gateway-drug-to-graphql-5505)
 - [Dev.to/JS] [Stop using the old way of creating React components](https://dev.to/semihgkl/stop-using-the-old-way-of-creating-react-components-42pj)
 - [Dev.to/JS] [AZ-500 measures your ability to describe the following concepts](https://dev.to/jackel12345/az-500-measures-your-ability-to-describe-the-following-concepts-470d)
 - [Dev.to/JS] [Web Developer Bootcamp 2024](https://dev.to/lifewithcode/web-developer-bootcamp-2024-3hh0)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chi phí Phòng khám đa khoa Hồng Cường](https://dev.to/phongkhamdkhongcuong6/chi-phi-phong-kham-da-khoa-hong-cuong-24md)
 - [Dev.to/JS] [The Secret Life of a Bug: What Debugging Teaches About Problem Solving](https://dev.to/delia_code/the-secret-life-of-a-bug-what-debugging-teaches-about-problem-solving-eic)
 - [Dev.to/JS] [Careful using forEach in Javascript](https://dev.to/tino_muc/careful-using-foreach-in-javascript-50jd)
-- [Dev.to/JS] [Revolutionizing Education: IQRA Technology&#39;s Journey Towards a Smarter Tomorrow](https://dev.to/iqratechnology4/revolutionizing-education-iqra-technologys-journey-towards-a-smarter-tomorrow-5o2)
-- [Dev.to/JS] [Angular Directive Grammar &amp; Microsyntax: Demystifying the Hidden Parts](https://dev.to/khangtrannn/angular-directive-grammar-microsyntax-demystifying-the-hidden-parts-529g)
-- [Dev.to/JS] [Moment.js Is Now Legacy Project | Alternatives?](https://dev.to/shameel/momentjs-is-now-legacy-project-alternatives-5738)
-- [Dev.to/JS] [Using Promises and Async/Await in JavaScript](https://dev.to/rowsanali/using-promises-and-asyncawait-in-javascript-3bpb)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)
 - [Lifehacker] [This Portable Golf Simulator Is $172.97 Right Now](https://lifehacker.com/this-portable-golf-simulator-is-172-97-right-now-1850977112)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
