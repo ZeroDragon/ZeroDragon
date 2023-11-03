@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 20 Best Holiday Movies on Netflix Right Now](https://lifehacker.com/best-holiday-movies-on-netflix-1850972904)
+- [Dev.to/JS] [Exploring the Realm of Online Java Compilers](https://dev.to/veronicajoseph/exploring-the-realm-of-online-java-compilers-3f18)
+- [Lifehacker] [The Google Pixel 7 Is The Cheapest It’s Ever Been](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)
+- [Dev.to/JS] [Computer IT Waste Recycling For Computer Recycling Services](https://dev.to/waheed12/computer-it-waste-recycling-for-computer-recycling-services-2pg7)
+- [Dev.to/JS] [Eco Green IT Recycling For Computer Recycling Services](https://dev.to/xmavix/eco-green-it-recycling-for-computer-recycling-services-4ic9)
+- [Lifehacker] [Evil Week: 7 Bar Bets That Will Trick People Into Buying You Drinks](https://lifehacker.com/trick-people-into-buying-you-drinks-with-these-bar-bets-1819176229)
+- [Dev.to/JS] [Choose Computer IT Disposals For Computer Recycling Services](https://dev.to/techgamz12/choose-computer-it-disposals-for-computer-recycling-services-3og7)
+- [Lifehacker] [Evil Week: 8 Things People Only Think Are Illegal](https://lifehacker.com/evil-week-8-things-people-only-think-are-illegal-1850986491)
 - [Dev.to/JS] [Hire a genuine hacker to fix credit and recover your crypto currency](https://dev.to/savannascott42/hire-a-genuine-hacker-to-fix-credit-and-recover-your-crypto-currency-2kj4)
 - [Dev.to/JS] [Aayansh Finance | Quick Loans Services Provider in Pune](https://dev.to/aayanshfinance/aayansh-finance-quick-loans-services-provider-in-pune-ili)
 - [Dev.to/JS] [State Management Alternatives: Best Tools for React Apps](https://dev.to/codingcrafts/state-management-alternatives-best-tools-for-react-apps-2cn)
@@ -34,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Wellness Peak CBD Gummies - [SCAM EXPOSED] Results, Ingredients, Price &amp; Benefits?](https://dev.to/dsanbvpa/wellness-peak-cbd-gummies-scam-exposed-results-ingredients-price-benefits-43d8)
 - [Dev.to/JS] [Serena Leafz CBD Gummies Canada Reviews &lpar;Toronto Updated 2023 Also Available In CA](https://dev.to/serenaleafzcbdgu/serena-leafz-cbd-gummies-canada-reviews-toronto-updated-2023-also-available-in-ca-1jea)
 - [Dev.to/JS] [How To Create a Javascript Calculator.](https://dev.to/snevy1/how-to-create-a-javascript-calculator-h12)
-- [Dev.to/JS] [useHook to request, a extremely fast variant of request library](https://dev.to/coderhu/usehook-to-request-a-extremely-fast-variant-of-request-library-39l3)
-- [Dev.to/JS] [PostGraphile — The Gateway Drug To GraphQL](https://dev.to/sameer1612/postgraphile-the-gateway-drug-to-graphql-5505)
-- [Dev.to/JS] [Stop using the old way of creating React components](https://dev.to/semihgkl/stop-using-the-old-way-of-creating-react-components-42pj)
-- [Dev.to/JS] [AZ-500 measures your ability to describe the following concepts](https://dev.to/jackel12345/az-500-measures-your-ability-to-describe-the-following-concepts-470d)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)
 - [Lifehacker] [This Portable Golf Simulator Is $172.97 Right Now](https://lifehacker.com/this-portable-golf-simulator-is-172-97-right-now-1850977112)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Move Chrome’s Address Bar to the Bottom of Your iPhone](https://lifehacker.com/you-should-move-chrome-s-address-bar-to-the-bottom-of-y-1850945219)
 - [Lifehacker] [This 4K Retro Gaming System is $50 Right Now](https://lifehacker.com/this-4k-retro-gaming-system-is-50-right-now-1850976978)
 - [Lifehacker] [All the New Ways to Use Your Apple Watch](https://lifehacker.com/all-the-new-ways-to-use-your-apple-watch-1850984316)
-- [Lifehacker] [Evil Week: How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)
-- [Lifehacker] [You Can Fix These Common Hot Water Heater Problems Yourself](https://lifehacker.com/you-can-fix-these-common-hot-water-heater-problems-your-1850982530)
-- [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Dead Internet Theory&#39; Isn&#39;t Real, I Swear](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-dead-inter-1850983564)
-- [Lifehacker] [Evil Week: 20 Unethical &lpar;but Brilliant&rpar; Life Hacks From Reddit](https://lifehacker.com/20-unethical-but-brilliant-life-hacks-from-reddit-1847783281)
-- [Lifehacker] [Evil Week: How to Hide Porn on a Mac](https://lifehacker.com/how-to-hide-porn-on-a-mac-1850982371)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)<!-- TECH-POSTS:END -->
 
 ---
 
