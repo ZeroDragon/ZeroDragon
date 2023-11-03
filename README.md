@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Reactive CLIs with Ink - React CLI library](https://dev.to/skirianov/building-reactive-clis-with-ink-react-cli-library-4jpa)
+- [Dev.to/JS] [Micro Frontends: DO&#39;s, DON&#39;Ts, Tools and Scaling Strategies](https://dev.to/dr_anks/micro-frontends-dos-donts-tools-and-scaling-strategies-3n4o)
+- [Lifehacker] [This $230 Refurbished iPad Comes With Beats Headphones](https://lifehacker.com/this-230-refurbished-ipad-comes-with-beats-headphones-1850986626)
+- [Lifehacker] [Evil Week: What to Do If You Get Caught Shoplifting](https://lifehacker.com/know-your-rights-if-a-store-detains-you-for-shoplifting-5853355)
 - [Dev.to/JS] [Data Transformation Magic: Simplify Complex Data with Remap.JS!](https://dev.to/trinly01/data-transformation-magic-simplify-complex-data-with-remapjs-o1a)
 - [Lifehacker] [A Lifetime Subscription to AdGuard Is $17 Right Now](https://lifehacker.com/a-lifetime-subscription-to-adguard-is-17-right-now-1850986577)
 - [Lifehacker] [Evil Week: Give These Gifts to the Kids of Parents You Hate](https://lifehacker.com/10-gifts-to-give-to-the-kids-of-parents-you-hate-1819809665)
@@ -44,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Computer IT Waste Recycling For Computer Recycling Services](https://dev.to/waheed12/computer-it-waste-recycling-for-computer-recycling-services-2pg7)
 - [Dev.to/JS] [Eco Green IT Recycling For Computer Recycling Services](https://dev.to/xmavix/eco-green-it-recycling-for-computer-recycling-services-4ic9)
 - [Lifehacker] [Evil Week: 7 Bar Bets That Will Trick People Into Buying You Drinks](https://lifehacker.com/trick-people-into-buying-you-drinks-with-these-bar-bets-1819176229)
-- [Dev.to/JS] [Choose Computer IT Disposals For Computer Recycling Services](https://dev.to/techgamz12/choose-computer-it-disposals-for-computer-recycling-services-3og7)
 - [Lifehacker] [Evil Week: 8 Things People Only Think Are Illegal](https://lifehacker.com/evil-week-8-things-people-only-think-are-illegal-1850986491)
-- [Dev.to/JS] [Hire a genuine hacker to fix credit and recover your crypto currency](https://dev.to/savannascott42/hire-a-genuine-hacker-to-fix-credit-and-recover-your-crypto-currency-2kj4)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)
 - [Lifehacker] [This Portable Golf Simulator Is $172.97 Right Now](https://lifehacker.com/this-portable-golf-simulator-is-172-97-right-now-1850977112)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Sleep on a Couch Without Hurting Yourself](https://lifehacker.com/how-to-sleep-on-a-couch-without-hurting-yourself-1850985809)
 - [Lifehacker] [You Can Get a New, Open-Box Apple Magic Keyboard Folio for $99](https://lifehacker.com/you-can-get-a-new-open-box-apple-magic-keyboard-folio-1850976998)
 - [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
-- [Lifehacker] [What to Expect From Walmart&#39;s Early Black Friday Deals](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
-- [Lifehacker] [Make Crispy Corn Crackers From Leftover Cornbread](https://lifehacker.com/make-crispy-corn-crackers-from-leftover-cornbread-1850985298)
-- [Lifehacker] [How to Cheat on a Lie Detector Test](https://lifehacker.com/how-to-cheat-on-a-lie-detector-test-1819793069)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Expect From Walmart&#39;s Early Black Friday Deals](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)<!-- TECH-POSTS:END -->
 
 ---
 
