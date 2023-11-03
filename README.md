@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSON Serialization in Laravel to Access Laravel Relational Data in JavaScript](https://dev.to/faizankamal7/json-serialization-in-laravel-to-access-laravel-relational-data-in-javascript-25ab)
+- [Lifehacker] [Please, Air Fry Some Frico Gratin Potato Squares](https://lifehacker.com/please-air-fry-some-frico-gratin-potato-squares-1850990145)
+- [Dev.to/JS] [How to use useSearchParams hooks in next js 13](https://dev.to/imsan/how-to-use-usesearchparams-hooks-in-next-js-13-f7f)
+- [Dev.to/JS] [Random Password Generator with Reactjs](https://dev.to/kartikbudhraja/random-password-generator-with-reactjs-308e)
+- [Lifehacker] [I Tried a Vintage Mail Order Bodybuilding Course and There&#39;s a Reason Nobody Does These Anymore](https://lifehacker.com/do-vintage-exercise-routines-work-1818849451)
+- [Dev.to/JS] [Understanding the Timeline and Client Involvement in Bankruptcy Cases Handled by Local Lawyers](https://dev.to/jonnybones/understanding-the-timeline-and-client-involvement-in-bankruptcy-cases-handled-by-local-lawyers-1lfi)
+- [Dev.to/JS] [Understanding Graph Data Structure](https://dev.to/khamal22/understanding-graph-data-structure-55g8)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $80](https://lifehacker.com/these-night-vision-binoculars-are-on-sale-for-80-1850986770)
 - [Dev.to/JS] [Canvas-Txt: Multiline Text Magic on HTML5 Canvas](https://dev.to/geongeorge/canvas-txt-multiline-text-magic-on-html5-canvas-41b8)
 - [Dev.to/JS] [TypeScript Best Practices: Writing Clean and Maintainable Code](https://dev.to/baransel/typescript-best-practices-writing-clean-and-maintainable-code-33dg)
@@ -39,16 +46,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meme November: Day - 3](https://dev.to/jon_snow789/meme-november-day-3-28lk)
 - [Lifehacker] [This 55-Inch 4K QLED TCL TV Is $400 Right Now](https://lifehacker.com/this-55-inch-4k-qled-tcl-tv-is-400-right-now-1850989986)
 - [Dev.to/JS] [How to Show Loader on Page Changes in Next.js](https://dev.to/mohammadfaisal/how-to-show-loader-on-page-changes-in-nextjs-k8o)
-- [Dev.to/JS] [Building Reactive CLIs with Ink - React CLI library](https://dev.to/skirianov/building-reactive-clis-with-ink-react-cli-library-4jpa)
-- [Dev.to/JS] [Micro Frontends: DO&#39;s, DON&#39;Ts, Tools and Scaling Strategies](https://dev.to/dr_anks/micro-frontends-dos-donts-tools-and-scaling-strategies-3n4o)
 - [Lifehacker] [This $230 Refurbished iPad Comes With Beats Headphones](https://lifehacker.com/this-230-refurbished-ipad-comes-with-beats-headphones-1850986626)
 - [Lifehacker] [Evil Week: What to Do If You Get Caught Shoplifting](https://lifehacker.com/know-your-rights-if-a-store-detains-you-for-shoplifting-5853355)
-- [Dev.to/JS] [Data Transformation Magic: Simplify Complex Data with Remap.JS!](https://dev.to/trinly01/data-transformation-magic-simplify-complex-data-with-remapjs-o1a)
 - [Lifehacker] [A Lifetime Subscription to AdGuard Is $17 Right Now](https://lifehacker.com/a-lifetime-subscription-to-adguard-is-17-right-now-1850986577)
 - [Lifehacker] [Evil Week: Give These Gifts to the Kids of Parents You Hate](https://lifehacker.com/10-gifts-to-give-to-the-kids-of-parents-you-hate-1819809665)
-- [Dev.to/JS] [React Use State Introduction](https://dev.to/nafizmahmud_94/react-use-state-introduction-3j3e)
+- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
 - [Lifehacker] [How to Add a Light Switch to Any Existing Outlet](https://lifehacker.com/how-to-add-a-light-switch-to-any-existing-outlet-1850988750)
-- [Dev.to/JS] [Error Handling in JavaScript](https://dev.to/talhaiqbal/error-handling-in-javascript-291o)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Gaylor Swift Theory](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-gaylo-1850988212)
 - [Lifehacker] [Evil Week: Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [The 20 Best Holiday and Christmas Movies on Netflix Right Now](https://lifehacker.com/best-holiday-movies-on-netflix-1850972904)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: How to Keep Dogs From Crapping on Your Lawn](https://lifehacker.com/the-evil-way-to-keep-dogs-off-your-lawn-1839469715)
 - [Lifehacker] [The Drop CSTM80 Is a Great Custom Keyboard for Everyone](https://lifehacker.com/drop-cstm80-custom-keyboard-review-1850985799)
 - [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)
-- [Lifehacker] [You Can Get These Two Drones for $160](https://lifehacker.com/you-can-get-these-two-drones-for-160-1850977010)
-- [Lifehacker] [Evil Week: Do Chores Badly and You&#39;ll Be Free of Them](https://lifehacker.com/evil-week-do-chores-badly-and-youll-be-free-of-them-1850985894)
-- [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
-- [Lifehacker] [Use the &#39;Zen to Done&#39; Method to Create New Productivity Habits](https://lifehacker.com/how-to-use-the-zen-to-done-productivity-method-1850986328)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get These Two Drones for $160](https://lifehacker.com/you-can-get-these-two-drones-for-160-1850977010)<!-- TECH-POSTS:END -->
 
 ---
 
