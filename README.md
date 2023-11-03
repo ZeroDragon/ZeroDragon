@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Vite plugin] Jump to the editor by clicking console.log output.](https://dev.to/yuyinws/vite-plugin-jump-to-the-editor-by-clicking-consolelog-output-9hc)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)
 - [Lifehacker] [This Portable Golf Simulator Is $172.97 Right Now](https://lifehacker.com/this-portable-golf-simulator-is-172-97-right-now-1850977112)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
@@ -51,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Styling React 2023 edition](https://dev.to/mrmartineau/styling-react-2023-edition-3dg5)
 - [Dev.to/JS] [Bad UI Battels: Developers are competing who create the worst UI](https://dev.to/jon_snow789/bad-ui-battels-developers-are-competing-who-create-the-worst-ui-1no2)
 - [Dev.to/JS] [Implementing Feature Flags with Next.js and App Router](https://dev.to/kylessg/implementing-feature-flags-with-nextjs-and-app-router-1gl8)
-- [Dev.to/JS] [Why Running Apps on Your Cat is the Ultimate in Serverless Computing](https://dev.to/rpeden/why-running-apps-on-your-cat-is-the-ultimate-in-serverless-computing-1f7j)
 - [Lifehacker] [You Can Get a New, Open-Box Apple Magic Keyboard Folio for $99](https://lifehacker.com/you-can-get-a-new-open-box-apple-magic-keyboard-folio-1850976998)
 - [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
 - [Lifehacker] [What to Expect From Walmart&#39;s Early Black Friday Deals](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
