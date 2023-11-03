@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Night-Vision Binoculars Are on Sale for $80](https://lifehacker.com/these-night-vision-binoculars-are-on-sale-for-80-1850986770)
+- [Dev.to/JS] [Canvas-Txt: Multiline Text Magic on HTML5 Canvas](https://dev.to/geongeorge/canvas-txt-multiline-text-magic-on-html5-canvas-41b8)
+- [Dev.to/JS] [TypeScript Best Practices: Writing Clean and Maintainable Code](https://dev.to/baransel/typescript-best-practices-writing-clean-and-maintainable-code-33dg)
+- [Dev.to/JS] [React: useState or useRef?](https://dev.to/lum3ll_96/react-usestate-or-useref-4gog)
+- [Lifehacker] [How to Get Rid of PMI As Soon As Possible](https://lifehacker.com/how-to-get-rid-of-pmi-as-soon-as-possible-1850990113)
+- [Dev.to/JS] [What is HTTP and How to Use It?](https://dev.to/the_emmanuel_ao/what-is-http-and-how-to-use-it-13j1)
+- [Lifehacker] [&#39;Don&#39;t Break the Chain&#39; to Build a New Habit](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
+- [Lifehacker] [Use the &#39;Agile Results&#39; System to Achieve Short- and Long-Term Goals](https://lifehacker.com/use-the-agile-results-system-to-achieve-short-and-long-1850990095)
 - [Dev.to/JS] [The Power of JavaScript Promises](https://dev.to/nora13/the-power-of-javascript-promises-1991)
 - [Lifehacker] [Evil Week: Take Multiple Pictures of Your Next Flat Tire So You Can Re-Use the Excuse](https://lifehacker.com/take-multiple-pictures-of-your-next-flat-tire-so-you-ca-1839500390)
 - [Dev.to/JS] [Meme November: Day - 3](https://dev.to/jon_snow789/meme-november-day-3-28lk)
@@ -41,11 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Use State Introduction](https://dev.to/nafizmahmud_94/react-use-state-introduction-3j3e)
 - [Lifehacker] [How to Add a Light Switch to Any Existing Outlet](https://lifehacker.com/how-to-add-a-light-switch-to-any-existing-outlet-1850988750)
 - [Dev.to/JS] [Error Handling in JavaScript](https://dev.to/talhaiqbal/error-handling-in-javascript-291o)
-- [Dev.to/JS] [Simplified Redux](https://dev.to/sultan99/simplified-redux-fp)
-- [Dev.to/JS] [The Recent at&lpar;&rpar; Method in JavaScript](https://dev.to/corinamurg/the-new-at-method-in-javascript-35mp)
-- [Dev.to/JS] [Binary Option/Bitcoin Recovery Agent](https://dev.to/addisonp5/binary-optionbitcoin-recovery-agent-23db)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Gaylor Swift Theory](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-gaylo-1850988212)
-- [Dev.to/JS] [Building a custom, re-usable Component Part to implement generic actions and with state binding in Modulo JS](https://dev.to/michaelpb/building-a-custom-re-usable-component-part-to-implement-generic-actions-and-with-state-binding-in-modulo-js-180a)
 - [Lifehacker] [Evil Week: Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [The 20 Best Holiday and Christmas Movies on Netflix Right Now](https://lifehacker.com/best-holiday-movies-on-netflix-1850972904)
 - [Lifehacker] [The Google Pixel 7 Is The Cheapest It’s Ever Been](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get These Two Drones for $160](https://lifehacker.com/you-can-get-these-two-drones-for-160-1850977010)
 - [Lifehacker] [Evil Week: Do Chores Badly and You&#39;ll Be Free of Them](https://lifehacker.com/evil-week-do-chores-badly-and-youll-be-free-of-them-1850985894)
 - [Lifehacker] [Get $60 Off the New AirPods Pro Right Now](https://lifehacker.com/get-50-off-the-new-airpods-pro-right-now-1850912629)
-- [Lifehacker] [Use the &#39;Zen to Done&#39; Method to Create New Productivity Habits](https://lifehacker.com/how-to-use-the-zen-to-done-productivity-method-1850986328)
-- [Lifehacker] [You Don&#39;t Need to Buy a Desktop to Get the Most Power in a Mac Anymore](https://lifehacker.com/m3-max-macbook-pro-review-1850985646)
-- [Lifehacker] [Evil Week: How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
-- [Lifehacker] [How to Sleep on a Couch Without Hurting Yourself](https://lifehacker.com/how-to-sleep-on-a-couch-without-hurting-yourself-1850985809)
-- [Lifehacker] [You Can Get a New, Open-Box Apple Magic Keyboard Folio for $99](https://lifehacker.com/you-can-get-a-new-open-box-apple-magic-keyboard-folio-1850976998)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the &#39;Zen to Done&#39; Method to Create New Productivity Habits](https://lifehacker.com/how-to-use-the-zen-to-done-productivity-method-1850986328)<!-- TECH-POSTS:END -->
 
 ---
 
