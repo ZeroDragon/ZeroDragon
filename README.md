@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stop using the old way of creating React components](https://dev.to/semihgkl/stop-using-the-old-way-of-creating-react-components-42pj)
+- [Dev.to/JS] [AZ-500 measures your ability to describe the following concepts](https://dev.to/jackel12345/az-500-measures-your-ability-to-describe-the-following-concepts-470d)
+- [Dev.to/JS] [Web Developer Bootcamp 2024](https://dev.to/lifewithcode/web-developer-bootcamp-2024-3hh0)
+- [Dev.to/JS] [Les 8 concepts de base de JavaScript](https://dev.to/kureru/les-8-concepts-de-base-de-javascript-4g6c)
 - [Dev.to/JS] [Understanding JSON: A Beginner&#39;s Guide](https://dev.to/xuho/understanding-json-a-beginners-guide-483g)
 - [Dev.to/JS] [Chi phí Phòng khám đa khoa Hồng Cường](https://dev.to/phongkhamdkhongcuong6/chi-phi-phong-kham-da-khoa-hong-cuong-24md)
 - [Dev.to/JS] [The Secret Life of a Bug: What Debugging Teaches About Problem Solving](https://dev.to/delia_code/the-secret-life-of-a-bug-what-debugging-teaches-about-problem-solving-eic)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Directive Grammar &amp; Microsyntax: Demystifying the Hidden Parts](https://dev.to/khangtrannn/angular-directive-grammar-microsyntax-demystifying-the-hidden-parts-529g)
 - [Dev.to/JS] [Moment.js Is Now Legacy Project | Alternatives?](https://dev.to/shameel/momentjs-is-now-legacy-project-alternatives-5738)
 - [Dev.to/JS] [Using Promises and Async/Await in JavaScript](https://dev.to/rowsanali/using-promises-and-asyncawait-in-javascript-3bpb)
-- [Dev.to/JS] [The Evolution of JavaScript: ES5 to ES2022](https://dev.to/rowsanali/the-evolution-of-javascript-es5-to-es2022-49p9)
-- [Dev.to/JS] [Working with Databases in JavaScript: SQL and NoSQL](https://dev.to/rowsanali/working-with-databases-in-javascript-sql-and-nosql-3k8k)
-- [Dev.to/JS] [tehysryhreyh](https://dev.to/uyahan4/tehysryhreyh-2jfl)
-- [Dev.to/JS] [Ecosystems for modern web development: Headless CMS, SSG and Serverless Database](https://dev.to/sparkouttech/ecosystems-for-modern-web-development-headless-cms-ssg-and-serverless-database-1ji1)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)
 - [Lifehacker] [This Portable Golf Simulator Is $172.97 Right Now](https://lifehacker.com/this-portable-golf-simulator-is-172-97-right-now-1850977112)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
