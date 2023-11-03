@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
+- [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
 - [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
 - [Lifehacker] [You Can &lpar;Probably&rpar; Still Make a Killing on I Bonds](https://lifehacker.com/when-to-buy-series-i-savings-bonds-1849855295)
 - [Dev.to/JS] [Must know concepts of JS to make life simple](https://dev.to/sibichandru-rajendran/must-know-concepts-of-js-to-make-life-simple-2och)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: 7 Bar Bets That Will Trick People Into Buying You Drinks](https://lifehacker.com/trick-people-into-buying-you-drinks-with-these-bar-bets-1819176229)
 - [Lifehacker] [Evil Week: 8 Things People Only Think Are Illegal](https://lifehacker.com/evil-week-8-things-people-only-think-are-illegal-1850986491)
 - [Lifehacker] [Evil Week: Things You Can Do on the Dark Web That Aren&#39;t Illegal](https://lifehacker.com/legal-things-you-can-do-on-the-dark-web-1819790298)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)
-- [Lifehacker] [This Portable Golf Simulator Is $172.97 Right Now](https://lifehacker.com/this-portable-golf-simulator-is-172-97-right-now-1850977112)
-- [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)<!-- TECH-POSTS:END -->
 
 ---
 
