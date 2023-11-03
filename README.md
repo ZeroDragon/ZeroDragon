@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Revolutionizing Education: IQRA Technology&#39;s Journey Towards a Smarter Tomorrow](https://dev.to/iqratechnology4/revolutionizing-education-iqra-technologys-journey-towards-a-smarter-tomorrow-5o2)
+- [Dev.to/JS] [Moment.js Is Now Legacy Project | Alternatives?](https://dev.to/shameel/momentjs-is-now-legacy-project-alternatives-5738)
 - [Dev.to/JS] [Using Promises and Async/Await in JavaScript](https://dev.to/rowsanali/using-promises-and-asyncawait-in-javascript-3bpb)
 - [Dev.to/JS] [The Evolution of JavaScript: ES5 to ES2022](https://dev.to/rowsanali/the-evolution-of-javascript-es5-to-es2022-49p9)
 - [Dev.to/JS] [Working with Databases in JavaScript: SQL and NoSQL](https://dev.to/rowsanali/working-with-databases-in-javascript-sql-and-nosql-3k8k)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Portable Golf Simulator Is $172.97 Right Now](https://lifehacker.com/this-portable-golf-simulator-is-172-97-right-now-1850977112)
 - [Lifehacker] [The Right Way to Remove Salty Streaks From Your Floor](https://lifehacker.com/the-right-way-to-remove-salty-streaks-from-your-floor-1849980743)
 - [Lifehacker] [Evil Week: Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
-- [Dev.to/JS] [Memoization and the Magic of Self-Containing Functions](https://dev.to/corinamurg/memoization-and-the-magic-of-self-containing-functions-4b75)
-- [Dev.to/JS] [Remix: 10 Minute Docs Audit](https://dev.to/documentwrites/remix-10-minute-docs-audit-55dh)
 - [Lifehacker] [Evil Week: How to Keep Dogs From Crapping on Your Lawn](https://lifehacker.com/the-evil-way-to-keep-dogs-off-your-lawn-1839469715)
 - [Lifehacker] [The Drop CSTM80 Is a Great Custom Keyboard for Everyone](https://lifehacker.com/drop-cstm80-custom-keyboard-review-1850985799)
 - [Lifehacker] [These Are the Best Store-Bought Pie Crusts](https://lifehacker.com/these-are-the-best-store-bought-pie-crusts-1849737398)
