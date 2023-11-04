@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Earthmed CBD Male Enhancement Gummies - Increased Sexual Confidence](https://dev.to/earthmedcbdmegummies/earthmed-cbd-male-enhancement-gummies-increased-sexual-confidence-jnc)
+- [Dev.to/JS] [Sheriff release v16](https://dev.to/andreapontrandolfo/sheriff-release-v16-22j9)
+- [Dev.to/JS] [Simple Youtube Downloader in under 50 Javascript lines](https://dev.to/timgabrikowski/simple-youtube-downloader-in-under-50-javascript-lines-23f3)
 - [Dev.to/JS] [How to bundle your custom service worker in Vite? &lpar;without using PWA&rpar;](https://dev.to/reeshee/how-to-bundle-your-custom-service-worker-in-vite-without-using-pwa-4nk)
 - [Dev.to/JS] [Top 10 react packages for SaaS platforms](https://dev.to/pranav_badami/top-10-react-packages-for-saas-platforms-48ea)
 - [Dev.to/JS] [React useState hook from Scratch](https://dev.to/mohammadfaisal/react-usestate-hook-from-scratch-5f0e)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Importance of Expert-Level Certifications in Today&#39;s Competitive Job Market](https://dev.to/namalkevin/the-importance-of-expert-level-certifications-in-todays-competitive-job-market-1ph)
 - [Dev.to/JS] [Started a repo for my new game engine](https://dev.to/jacklehamster/started-a-repo-for-my-new-game-engine-54cc)
 - [Dev.to/JS] [What is flatmap and Advantage of using flatmap ?](https://dev.to/krishna121996/what-is-flatmap-and-advantage-of-using-flatmap--3h47)
-- [Dev.to/JS] [Elevate Your Tech Team: Hiring Full Stack Developers for Excellence](https://dev.to/jackwil77516601/elevate-your-tech-team-hiring-full-stack-developers-for-excellence-442f)
-- [Dev.to/JS] [Scraping with puppeteer and export in JSON format](https://dev.to/alexanie_/scraping-with-puppeteer-and-export-in-json-format-2feo)
-- [Dev.to/JS] [JavaScript vs. ECMAScript: Understanding the Key Differences](https://dev.to/rowsanali/javascript-vs-ecmascript-understanding-the-key-differences-1m15)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
