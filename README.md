@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reusable Redux-toolkit code [1]](https://dev.to/hdbdbeben/reusable-redux-toolkit-code-1-2ak5)
 - [Dev.to/JS] [Day 81: Web Workers](https://dev.to/dhrn/day-81-web-workers-4ec0)
 - [Dev.to/JS] [JSON in JavaScript: An In-Depth Guide](https://dev.to/rowsanali/json-in-javascript-an-in-depth-guide-212g)
 - [Dev.to/JS] [JavaScript Engines: How V8 Powers Google Chrome](https://dev.to/rowsanali/javascript-engines-how-v8-powers-google-chrome-1b0k)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to bundle your custom service worker in Vite? &lpar;without using PWA&rpar;](https://dev.to/reeshee/how-to-bundle-your-custom-service-worker-in-vite-without-using-pwa-4nk)
 - [Dev.to/JS] [Top 10 react packages for SaaS platforms](https://dev.to/pranav_badami/top-10-react-packages-for-saas-platforms-48ea)
 - [Dev.to/JS] [React useState hook from Scratch](https://dev.to/mohammadfaisal/react-usestate-hook-from-scratch-5f0e)
-- [Dev.to/JS] [Efficient DOM Manipulation with document.createDocumentFragment&lpar;&rpar;](https://dev.to/vivek96_/efficient-dom-manipulation-with-documentcreatedocumentfragment-54i6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
