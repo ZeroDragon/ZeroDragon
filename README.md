@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [State Management in React: Finding the Sweet Spot](https://dev.to/opensourcee/state-management-in-react-finding-the-sweet-spot-5efh)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
 - [Dev.to/JS] [Anomaly Detection in Multivariate Time Series with... Diffusion Models?](https://dev.to/mikeyoung44/anomaly-detection-in-multivariate-time-series-with-diffusion-models-1jf3)
 - [Dev.to/JS] [Switch from a Framework/Library User to a Pro Frontend Engineer](https://dev.to/ahmeddammarr/switch-from-a-frameworklibrary-user-to-a-pro-frontend-engineer-2cci)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [《陆小凤传奇之绣花大盗》|善用绣花针活灵活现的女装大盗#动作#武侠#古装#泥鳅影视- 线上看在线视频 - 手机视频线上看 - 海外在线影视 &lpar;niqiutv.com&rpar;](https://dev.to/niqiutv/-shan-yong-xiu-hua-zhen-huo-ling-huo-xian-de-nu-zhuang-da-dao-dong-zuo-wu-xia-gu-zhuang-ni-qiu-ying-shi-xian-shang-kan-zai-xian-shi-pin-shou-ji-shi-pin-xian-shang-kan-hai-wai-zai-xian-ying-shi-niqiutvcom-3e29)
 - [Dev.to/JS] [Earthmed CBD Male Enhancement Gummies - Increased Sexual Confidence](https://dev.to/earthmedcbdmegummies/earthmed-cbd-male-enhancement-gummies-increased-sexual-confidence-jnc)
 - [Dev.to/JS] [Sheriff release v16](https://dev.to/andreapontrandolfo/sheriff-release-v16-22j9)
-- [Dev.to/JS] [Simple Youtube Downloader in under 50 Javascript lines](https://dev.to/timgabrikowski/simple-youtube-downloader-in-under-50-javascript-lines-23f3)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
