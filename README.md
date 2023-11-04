@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 81: Web Workers](https://dev.to/dhrn/day-81-web-workers-4ec0)
+- [Dev.to/JS] [JSON in JavaScript: An In-Depth Guide](https://dev.to/rowsanali/json-in-javascript-an-in-depth-guide-212g)
+- [Dev.to/JS] [JavaScript Engines: How V8 Powers Google Chrome](https://dev.to/rowsanali/javascript-engines-how-v8-powers-google-chrome-1b0k)
+- [Lifehacker] [Take Advantage of Amtrak&#39;s New Fares to Book Your Holiday Travel](https://lifehacker.com/take-advantage-of-amtraks-new-fares-to-book-your-holida-1850992100)
 - [Dev.to/JS] [What are the Cyber Security challenges in Website Development?](https://dev.to/webdevelopmentindia12/what-are-the-cyber-security-challenges-in-website-development-2j2i)
 - [Dev.to/JS] [《陆小凤传奇之绣花大盗》|善用绣花针活灵活现的女装大盗#动作#武侠#古装#泥鳅影视- 线上看在线视频 - 手机视频线上看 - 海外在线影视 &lpar;niqiutv.com&rpar;](https://dev.to/niqiutv/-shan-yong-xiu-hua-zhen-huo-ling-huo-xian-de-nu-zhuang-da-dao-dong-zuo-wu-xia-gu-zhuang-ni-qiu-ying-shi-xian-shang-kan-zai-xian-shi-pin-shou-ji-shi-pin-xian-shang-kan-hai-wai-zai-xian-ying-shi-niqiutvcom-3e29)
 - [Dev.to/JS] [Earthmed CBD Male Enhancement Gummies - Increased Sexual Confidence](https://dev.to/earthmedcbdmegummies/earthmed-cbd-male-enhancement-gummies-increased-sexual-confidence-jnc)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 react packages for SaaS platforms](https://dev.to/pranav_badami/top-10-react-packages-for-saas-platforms-48ea)
 - [Dev.to/JS] [React useState hook from Scratch](https://dev.to/mohammadfaisal/react-usestate-hook-from-scratch-5f0e)
 - [Dev.to/JS] [Efficient DOM Manipulation with document.createDocumentFragment&lpar;&rpar;](https://dev.to/vivek96_/efficient-dom-manipulation-with-documentcreatedocumentfragment-54i6)
-- [Dev.to/JS] [How To Make Your Website Faster 🔥🚀🚀](https://dev.to/xeuxdev/how-to-make-your-website-faster-384n)
-- [Dev.to/JS] [Quelles sont les nouveautés d&#39;ECMAScript 14 ?](https://dev.to/kureru/quelles-sont-les-nouveautes-decmascript-14--2763)
-- [Dev.to/JS] [The Importance of Expert-Level Certifications in Today&#39;s Competitive Job Market](https://dev.to/namalkevin/the-importance-of-expert-level-certifications-in-todays-competitive-job-market-1ph)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 20 Best Holiday and Christmas Movies on Netflix Right Now](https://lifehacker.com/best-holiday-movies-on-netflix-1850972904)
 - [Lifehacker] [The Google Pixel 7 Is The Cheapest It’s Ever Been](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)
 - [Lifehacker] [Evil Week: 7 Bar Bets That Will Trick People Into Buying You Drinks](https://lifehacker.com/trick-people-into-buying-you-drinks-with-these-bar-bets-1819176229)
-- [Lifehacker] [Evil Week: 8 Things People Only Think Are Illegal](https://lifehacker.com/evil-week-8-things-people-only-think-are-illegal-1850986491)
-- [Lifehacker] [Evil Week: Things You Can Do on the Dark Web That Aren&#39;t Illegal](https://lifehacker.com/legal-things-you-can-do-on-the-dark-web-1819790298)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: 8 Things People Only Think Are Illegal](https://lifehacker.com/evil-week-8-things-people-only-think-are-illegal-1850986491)<!-- TECH-POSTS:END -->
 
 ---
 
