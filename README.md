@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 JavaScript Frameworks to Master – Which One Leads in 2023?](https://dev.to/delia_code/top-10-javascript-frameworks-to-master-which-one-leads-in-2023-5h40)
 - [Dev.to/JS] [Latest Newsletter: Social Media Renaissance &lpar;Issue #139&rpar;](https://dev.to/mjgs/latest-newsletter-social-media-renaissance-issue-139-1agc)
 - [Dev.to/JS] [How to Dynamically Change Favicon Icon in Next.js 14: A Step-by-Step Guide](https://dev.to/sabbirsobhani/how-to-dynamically-change-favicon-icon-in-nextjs-14-a-step-by-step-guide-26l1)
 - [Dev.to/JS] [1. SocialAds](https://dev.to/mariajames101/1-socialads-3d42)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to eslint-plugin-lube](https://dev.to/artxe2/introduction-to-eslint-plugin-lube-9dh)
 - [Dev.to/JS] [My first npm package](https://dev.to/rafaelmagalhaes/my-first-npm-package-aae)
 - [Dev.to/JS] [Danh sách phòng khám hàng đầu](https://dev.to/phongkhamdkhongcuong7/danh-sach-phong-kham-hang-dau-2nja)
-- [Dev.to/JS] [🚀 Unveiling Jai.js: A Blazing Fast, JSX-Inclusive Framework for Modern Web UIs – Launching Nov 25th](https://dev.to/hsk11/unveiling-jaijs-a-blazing-fast-jsx-inclusive-framework-for-modern-web-uis-launching-nov-25th-3fp0)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
