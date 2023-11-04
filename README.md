@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I NEED 100 GitHub Stars By Nov. 30](https://dev.to/verisimilitudex/i-need-100-github-stars-by-nov-30-4378)
+- [Dev.to/JS] [Streak continues for 4 years as Hacktoberfest 2023](https://dev.to/zainbinfurqan/streak-continues-for-4-years-as-hacktoberfest-2023-1he5)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Dev.to/JS] [Setting up Redux Persist with Redux Toolkit in React JS](https://dev.to/snigdho611/setting-up-redux-persist-with-redux-toolkit-in-react-js-30kn)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
@@ -46,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Tried a Vintage Mail Order Bodybuilding Course and There&#39;s a Reason Nobody Does These Anymore](https://lifehacker.com/do-vintage-exercise-routines-work-1818849451)
 - [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
 - [Dev.to/JS] [Understanding the Timeline and Client Involvement in Bankruptcy Cases Handled by Local Lawyers](https://dev.to/jonnybones/understanding-the-timeline-and-client-involvement-in-bankruptcy-cases-handled-by-local-lawyers-1lfi)
-- [Dev.to/JS] [Understanding Graph Data Structure](https://dev.to/khamal22/understanding-graph-data-structure-55g8)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $80](https://lifehacker.com/these-night-vision-binoculars-are-on-sale-for-80-1850986770)
-- [Dev.to/JS] [Canvas-Txt: Multiline Text Magic on HTML5 Canvas](https://dev.to/geongeorge/canvas-txt-multiline-text-magic-on-html5-canvas-41b8)
 - [Lifehacker] [How to Get Rid of PMI As Soon As Possible](https://lifehacker.com/how-to-get-rid-of-pmi-as-soon-as-possible-1850990113)
 - [Lifehacker] [&#39;Don&#39;t Break the Chain&#39; to Build a New Habit](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
 - [Lifehacker] [Use the &#39;Agile Results&#39; System to Achieve Short- and Long-Term Goals](https://lifehacker.com/use-the-agile-results-system-to-achieve-short-and-long-1850990095)
