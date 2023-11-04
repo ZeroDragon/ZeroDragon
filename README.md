@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [1. SocialAds](https://dev.to/mariajames101/1-socialads-3d42)
+- [Dev.to/JS] [Let&#39;s Build a Full-Stack AI Application in React!](https://dev.to/pavanbelagatti/lets-build-a-full-stack-ai-application-in-react-19ha)
+- [Dev.to/JS] [How to Develop a Profitable Penny Auction Website: A Comprehensive Guide](https://dev.to/vitarag/how-to-develop-a-profitable-penny-auction-website-a-comprehensive-guide-11ef)
+- [Dev.to/JS] [How To Build A Containerized Microservice in Golang: A Step-by-step Guide with Example Use-Case](https://dev.to/nikl/how-to-build-a-containerized-microservice-in-golang-a-step-by-step-guide-with-example-use-case-5ea8)
+- [Dev.to/JS] [Serena Leafz Cbd Gummies Canada:-Read Before Buy?](https://dev.to/serenaleafzcbdbuy/serena-leafz-cbd-gummies-canada-read-before-buy-51cl)
 - [Dev.to/JS] [JavaScript Objects Recap](https://dev.to/tanmaycode/javascript-objects-recap-510e)
 - [Dev.to/JS] [Introduction to eslint-plugin-lube](https://dev.to/artxe2/introduction-to-eslint-plugin-lube-9dh)
 - [Dev.to/JS] [My first npm package](https://dev.to/rafaelmagalhaes/my-first-npm-package-aae)
@@ -34,15 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I NEED 100 GitHub Stars By Nov. 30](https://dev.to/verisimilitudex/i-need-100-github-stars-by-nov-30-4378)
 - [Dev.to/JS] [Streak continues for 4 years as Hacktoberfest 2023](https://dev.to/zainbinfurqan/streak-continues-for-4-years-as-hacktoberfest-2023-1he5)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
-- [Dev.to/JS] [Setting up Redux Persist with Redux Toolkit in React JS](https://dev.to/snigdho611/setting-up-redux-persist-with-redux-toolkit-in-react-js-30kn)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
 - [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
 - [Lifehacker] [You Can &lpar;Probably&rpar; Still Make a Killing on I Bonds](https://lifehacker.com/when-to-buy-series-i-savings-bonds-1849855295)
-- [Dev.to/JS] [Must know concepts of JS to make life simple](https://dev.to/sibichandru-rajendran/must-know-concepts-of-js-to-make-life-simple-2och)
-- [Dev.to/JS] [useEffect&lpar;&rpar; vs useState&lpar;&rpar;, props vs callback, Dependency types for useEffect](https://dev.to/bookmdan/useeffect-vs-usestate-props-vs-callback-dependency-types-for-useeffect-441m)
-- [Dev.to/JS] [10 Math Concepts for Every Programmer](https://dev.to/codewithshahan/10-math-concepts-for-every-programmer-31n9)
-- [Dev.to/JS] [Unleash Your Coding Superpowers with CoderKit! 🚀](https://dev.to/bibekkakati/unleash-your-coding-superpowers-with-coderkit-k9h)
 - [Lifehacker] [Try These Thanksgiving Main Dish Alternatives to Break Free From Turkey Tyranny](https://lifehacker.com/the-best-thanksgiving-main-dish-alternatives-1820251130)
 - [Lifehacker] [What Is BVO, and Why Is the FDA Banning It in Drinks?](https://lifehacker.com/fda-banning-bvo-in-drinks-1850990733)
 - [Lifehacker] [Please, Air Fry Some Frico Gratin Potato Squares](https://lifehacker.com/please-air-fry-some-frico-gratin-potato-squares-1850990145)
