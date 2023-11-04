@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ES6 Rewriting Imports in JavaScript and TypeScript](https://dev.to/rudolfolah/es6-rewriting-imports-in-javascript-and-typescript-1e03)
+- [Dev.to/JS] [Temporal - A trustworthy alternative for &lpar;legacy&rpar; moment.js ?](https://dev.to/shameel/temporal-a-trustworthy-alternative-for-legacy-momentjs--gcf)
 - [Dev.to/JS] [A step-by-step guide to creating a bot that publishes push events on a GitHub repository to a slack channel using nodejs](https://dev.to/talibackend/a-step-by-step-guide-to-creating-a-bot-that-publishes-push-events-on-a-github-repository-to-a-slack-channel-using-nodejs-47a6)
 - [Dev.to/JS] [Next.js - understanding page routing](https://dev.to/eugene_k/nextjs-understanding-page-routing-53c9)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSON in JavaScript: An In-Depth Guide](https://dev.to/rowsanali/json-in-javascript-an-in-depth-guide-212g)
 - [Dev.to/JS] [JavaScript Engines: How V8 Powers Google Chrome](https://dev.to/rowsanali/javascript-engines-how-v8-powers-google-chrome-1b0k)
 - [Lifehacker] [Take Advantage of Amtrak&#39;s New Fares to Book Your Holiday Travel](https://lifehacker.com/take-advantage-of-amtraks-new-fares-to-book-your-holida-1850992100)
-- [Dev.to/JS] [What are the Cyber Security challenges in Website Development?](https://dev.to/webdevelopmentindia12/what-are-the-cyber-security-challenges-in-website-development-2j2i)
-- [Dev.to/JS] [《陆小凤传奇之绣花大盗》|善用绣花针活灵活现的女装大盗#动作#武侠#古装#泥鳅影视- 线上看在线视频 - 手机视频线上看 - 海外在线影视 &lpar;niqiutv.com&rpar;](https://dev.to/niqiutv/-shan-yong-xiu-hua-zhen-huo-ling-huo-xian-de-nu-zhuang-da-dao-dong-zuo-wu-xia-gu-zhuang-ni-qiu-ying-shi-xian-shang-kan-zai-xian-shi-pin-shou-ji-shi-pin-xian-shang-kan-hai-wai-zai-xian-ying-shi-niqiutvcom-3e29)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
