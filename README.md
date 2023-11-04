@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A step-by-step guide to creating a bot that publishes push events on a GitHub repository to a slack channel using nodejs](https://dev.to/talibackend/a-step-by-step-guide-to-creating-a-bot-that-publishes-push-events-on-a-github-repository-to-a-slack-channel-using-nodejs-47a6)
+- [Dev.to/JS] [Next.js - understanding page routing](https://dev.to/eugene_k/nextjs-understanding-page-routing-53c9)
+- [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Dev.to/JS] [State Management in React: Finding the Sweet Spot](https://dev.to/opensourcee/state-management-in-react-finding-the-sweet-spot-5efh)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
 - [Dev.to/JS] [Anomaly Detection in Multivariate Time Series with... Diffusion Models?](https://dev.to/mikeyoung44/anomaly-detection-in-multivariate-time-series-with-diffusion-models-1jf3)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Take Advantage of Amtrak&#39;s New Fares to Book Your Holiday Travel](https://lifehacker.com/take-advantage-of-amtraks-new-fares-to-book-your-holida-1850992100)
 - [Dev.to/JS] [What are the Cyber Security challenges in Website Development?](https://dev.to/webdevelopmentindia12/what-are-the-cyber-security-challenges-in-website-development-2j2i)
 - [Dev.to/JS] [《陆小凤传奇之绣花大盗》|善用绣花针活灵活现的女装大盗#动作#武侠#古装#泥鳅影视- 线上看在线视频 - 手机视频线上看 - 海外在线影视 &lpar;niqiutv.com&rpar;](https://dev.to/niqiutv/-shan-yong-xiu-hua-zhen-huo-ling-huo-xian-de-nu-zhuang-da-dao-dong-zuo-wu-xia-gu-zhuang-ni-qiu-ying-shi-xian-shang-kan-zai-xian-shi-pin-shou-ji-shi-pin-xian-shang-kan-hai-wai-zai-xian-ying-shi-niqiutvcom-3e29)
-- [Dev.to/JS] [Earthmed CBD Male Enhancement Gummies - Increased Sexual Confidence](https://dev.to/earthmedcbdmegummies/earthmed-cbd-male-enhancement-gummies-increased-sexual-confidence-jnc)
-- [Dev.to/JS] [Sheriff release v16](https://dev.to/andreapontrandolfo/sheriff-release-v16-22j9)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Add a Light Switch to Any Existing Outlet](https://lifehacker.com/how-to-add-a-light-switch-to-any-existing-outlet-1850988750)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Gaylor Swift Theory](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-gaylo-1850988212)
 - [Lifehacker] [Evil Week: Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
-- [Lifehacker] [The 20 Best Holiday and Christmas Movies on Netflix Right Now](https://lifehacker.com/best-holiday-movies-on-netflix-1850972904)
-- [Lifehacker] [The Google Pixel 7 Is The Cheapest It’s Ever Been](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 20 Best Holiday and Christmas Movies on Netflix Right Now](https://lifehacker.com/best-holiday-movies-on-netflix-1850972904)<!-- TECH-POSTS:END -->
 
 ---
 
