@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Objects Recap](https://dev.to/tanmaycode/javascript-objects-recap-510e)
 - [Dev.to/JS] [Introduction to eslint-plugin-lube](https://dev.to/artxe2/introduction-to-eslint-plugin-lube-9dh)
 - [Dev.to/JS] [My first npm package](https://dev.to/rafaelmagalhaes/my-first-npm-package-aae)
 - [Dev.to/JS] [Danh sách phòng khám hàng đầu](https://dev.to/phongkhamdkhongcuong7/danh-sach-phong-kham-hang-dau-2nja)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useEffect&lpar;&rpar; vs useState&lpar;&rpar;, props vs callback, Dependency types for useEffect](https://dev.to/bookmdan/useeffect-vs-usestate-props-vs-callback-dependency-types-for-useeffect-441m)
 - [Dev.to/JS] [10 Math Concepts for Every Programmer](https://dev.to/codewithshahan/10-math-concepts-for-every-programmer-31n9)
 - [Dev.to/JS] [Unleash Your Coding Superpowers with CoderKit! 🚀](https://dev.to/bibekkakati/unleash-your-coding-superpowers-with-coderkit-k9h)
-- [Dev.to/JS] [Pivot Table Name](https://dev.to/ankit199/pivot-table-name-15dl)
 - [Lifehacker] [Try These Thanksgiving Main Dish Alternatives to Break Free From Turkey Tyranny](https://lifehacker.com/the-best-thanksgiving-main-dish-alternatives-1820251130)
 - [Lifehacker] [What Is BVO, and Why Is the FDA Banning It in Drinks?](https://lifehacker.com/fda-banning-bvo-in-drinks-1850990733)
 - [Lifehacker] [Please, Air Fry Some Frico Gratin Potato Squares](https://lifehacker.com/please-air-fry-some-frico-gratin-potato-squares-1850990145)
