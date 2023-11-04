@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to eslint-plugin-lube](https://dev.to/artxe2/introduction-to-eslint-plugin-lube-9dh)
+- [Dev.to/JS] [My first npm package](https://dev.to/rafaelmagalhaes/my-first-npm-package-aae)
+- [Dev.to/JS] [Danh sách phòng khám hàng đầu](https://dev.to/phongkhamdkhongcuong7/danh-sach-phong-kham-hang-dau-2nja)
+- [Dev.to/JS] [🚀 Unveiling Jai.js: A Blazing Fast, JSX-Inclusive Framework for Modern Web UIs – Launching Nov 25th](https://dev.to/hsk11/unveiling-jaijs-a-blazing-fast-jsx-inclusive-framework-for-modern-web-uis-launching-nov-25th-3fp0)
 - [Dev.to/JS] [I NEED 100 GitHub Stars By Nov. 30](https://dev.to/verisimilitudex/i-need-100-github-stars-by-nov-30-4378)
 - [Dev.to/JS] [Streak continues for 4 years as Hacktoberfest 2023](https://dev.to/zainbinfurqan/streak-continues-for-4-years-as-hacktoberfest-2023-1he5)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
@@ -41,13 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pivot Table Name](https://dev.to/ankit199/pivot-table-name-15dl)
 - [Lifehacker] [Try These Thanksgiving Main Dish Alternatives to Break Free From Turkey Tyranny](https://lifehacker.com/the-best-thanksgiving-main-dish-alternatives-1820251130)
 - [Lifehacker] [What Is BVO, and Why Is the FDA Banning It in Drinks?](https://lifehacker.com/fda-banning-bvo-in-drinks-1850990733)
-- [Dev.to/JS] [JSON Serialization in Laravel to Access Laravel Relational Data in JavaScript](https://dev.to/faizankamal7/json-serialization-in-laravel-to-access-laravel-relational-data-in-javascript-25ab)
 - [Lifehacker] [Please, Air Fry Some Frico Gratin Potato Squares](https://lifehacker.com/please-air-fry-some-frico-gratin-potato-squares-1850990145)
-- [Dev.to/JS] [How to use useSearchParams hooks in next js 13](https://dev.to/imsan/how-to-use-usesearchparams-hooks-in-next-js-13-f7f)
-- [Dev.to/JS] [Random Password Generator with Reactjs](https://dev.to/kartikbudhraja/random-password-generator-with-reactjs-308e)
 - [Lifehacker] [I Tried a Vintage Mail Order Bodybuilding Course and There&#39;s a Reason Nobody Does These Anymore](https://lifehacker.com/do-vintage-exercise-routines-work-1818849451)
 - [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
-- [Dev.to/JS] [Understanding the Timeline and Client Involvement in Bankruptcy Cases Handled by Local Lawyers](https://dev.to/jonnybones/understanding-the-timeline-and-client-involvement-in-bankruptcy-cases-handled-by-local-lawyers-1lfi)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $80](https://lifehacker.com/these-night-vision-binoculars-are-on-sale-for-80-1850986770)
 - [Lifehacker] [How to Get Rid of PMI As Soon As Possible](https://lifehacker.com/how-to-get-rid-of-pmi-as-soon-as-possible-1850990113)
 - [Lifehacker] [&#39;Don&#39;t Break the Chain&#39; to Build a New Habit](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
