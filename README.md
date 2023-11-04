@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Make Your Website Faster 🔥🚀🚀](https://dev.to/xeuxdev/how-to-make-your-website-faster-384n)
+- [Dev.to/JS] [Quelles sont les nouveautés d&#39;ECMAScript 14 ?](https://dev.to/kureru/quelles-sont-les-nouveautes-decmascript-14--2763)
 - [Dev.to/JS] [The Importance of Expert-Level Certifications in Today&#39;s Competitive Job Market](https://dev.to/namalkevin/the-importance-of-expert-level-certifications-in-todays-competitive-job-market-1ph)
 - [Dev.to/JS] [Started a repo for my new game engine](https://dev.to/jacklehamster/started-a-repo-for-my-new-game-engine-54cc)
 - [Dev.to/JS] [What is flatmap and Advantage of using flatmap ?](https://dev.to/krishna121996/what-is-flatmap-and-advantage-of-using-flatmap--3h47)
@@ -33,11 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scraping with puppeteer and export in JSON format](https://dev.to/alexanie_/scraping-with-puppeteer-and-export-in-json-format-2feo)
 - [Dev.to/JS] [JavaScript vs. ECMAScript: Understanding the Key Differences](https://dev.to/rowsanali/javascript-vs-ecmascript-understanding-the-key-differences-1m15)
 - [Dev.to/JS] [Meme November: Day - 4](https://dev.to/jon_snow789/meme-november-day-4-2p0p)
-- [Dev.to/JS] [🧹🧹 Sanitizing any user input with OpenAI under $1](https://dev.to/bolshchikov/sanitizing-any-user-input-with-openai-under-1-3ief)
+- [Dev.to/JS] [🧹🧹 Sanitizing user input with OpenAI under $1](https://dev.to/bolshchikov/sanitizing-any-user-input-with-openai-under-1-3ief)
 - [Dev.to/JS] [Revolutionizing React with Server Components: A Game Changer for Performance](https://dev.to/qur786/revolutionizing-react-with-server-components-a-game-changer-for-performance-3p30)
 - [Dev.to/JS] [Top 10 JavaScript Frameworks to Master – Which One Leads in 2023?](https://dev.to/delia_code/top-10-javascript-frameworks-to-master-which-one-leads-in-2023-5h40)
-- [Dev.to/JS] [Latest Newsletter: Social Media Renaissance &lpar;Issue #139&rpar;](https://dev.to/mjgs/latest-newsletter-social-media-renaissance-issue-139-1agc)
-- [Dev.to/JS] [How to Dynamically Change Favicon Icon in Next.js 14: A Step-by-Step Guide](https://dev.to/sabbirsobhani/how-to-dynamically-change-favicon-icon-in-nextjs-14-a-step-by-step-guide-26l1)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
