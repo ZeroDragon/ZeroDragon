@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to bundle your custom service worker in Vite? &lpar;without using PWA&rpar;](https://dev.to/reeshee/how-to-bundle-your-custom-service-worker-in-vite-without-using-pwa-4nk)
+- [Dev.to/JS] [Top 10 react packages for SaaS platforms](https://dev.to/pranav_badami/top-10-react-packages-for-saas-platforms-48ea)
+- [Dev.to/JS] [React useState hook from Scratch](https://dev.to/mohammadfaisal/react-usestate-hook-from-scratch-5f0e)
+- [Dev.to/JS] [Efficient DOM Manipulation with document.createDocumentFragment&lpar;&rpar;](https://dev.to/vivek96_/efficient-dom-manipulation-with-documentcreatedocumentfragment-54i6)
 - [Dev.to/JS] [How To Make Your Website Faster 🔥🚀🚀](https://dev.to/xeuxdev/how-to-make-your-website-faster-384n)
 - [Dev.to/JS] [Quelles sont les nouveautés d&#39;ECMAScript 14 ?](https://dev.to/kureru/quelles-sont-les-nouveautes-decmascript-14--2763)
 - [Dev.to/JS] [The Importance of Expert-Level Certifications in Today&#39;s Competitive Job Market](https://dev.to/namalkevin/the-importance-of-expert-level-certifications-in-todays-competitive-job-market-1ph)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Elevate Your Tech Team: Hiring Full Stack Developers for Excellence](https://dev.to/jackwil77516601/elevate-your-tech-team-hiring-full-stack-developers-for-excellence-442f)
 - [Dev.to/JS] [Scraping with puppeteer and export in JSON format](https://dev.to/alexanie_/scraping-with-puppeteer-and-export-in-json-format-2feo)
 - [Dev.to/JS] [JavaScript vs. ECMAScript: Understanding the Key Differences](https://dev.to/rowsanali/javascript-vs-ecmascript-understanding-the-key-differences-1m15)
-- [Dev.to/JS] [Meme November: Day - 4](https://dev.to/jon_snow789/meme-november-day-4-2p0p)
-- [Dev.to/JS] [🧹🧹 Sanitizing user input with OpenAI under $1](https://dev.to/bolshchikov/sanitizing-any-user-input-with-openai-under-1-3ief)
-- [Dev.to/JS] [Revolutionizing React with Server Components: A Game Changer for Performance](https://dev.to/qur786/revolutionizing-react-with-server-components-a-game-changer-for-performance-3p30)
-- [Dev.to/JS] [Top 10 JavaScript Frameworks to Master – Which One Leads in 2023?](https://dev.to/delia_code/top-10-javascript-frameworks-to-master-which-one-leads-in-2023-5h40)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
