@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Dev.to/JS] [Setting up Redux Persist with Redux Toolkit in React JS](https://dev.to/snigdho611/setting-up-redux-persist-with-redux-toolkit-in-react-js-30kn)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Google Pixel 7 Is The Cheapest It’s Ever Been](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)
 - [Lifehacker] [Evil Week: 7 Bar Bets That Will Trick People Into Buying You Drinks](https://lifehacker.com/trick-people-into-buying-you-drinks-with-these-bar-bets-1819176229)
 - [Lifehacker] [Evil Week: 8 Things People Only Think Are Illegal](https://lifehacker.com/evil-week-8-things-people-only-think-are-illegal-1850986491)
-- [Lifehacker] [Evil Week: Things You Can Do on the Dark Web That Aren&#39;t Illegal](https://lifehacker.com/legal-things-you-can-do-on-the-dark-web-1819790298)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 3, 2023](https://lifehacker.com/nyt-connections-answer-today-november-3-2023-1850985071)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: Things You Can Do on the Dark Web That Aren&#39;t Illegal](https://lifehacker.com/legal-things-you-can-do-on-the-dark-web-1819790298)<!-- TECH-POSTS:END -->
 
 ---
 
