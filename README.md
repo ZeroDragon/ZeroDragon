@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
 - [Dev.to/JS] [Anomaly Detection in Multivariate Time Series with... Diffusion Models?](https://dev.to/mikeyoung44/anomaly-detection-in-multivariate-time-series-with-diffusion-models-1jf3)
 - [Dev.to/JS] [Switch from a Framework/Library User to a Pro Frontend Engineer](https://dev.to/ahmeddammarr/switch-from-a-frameworklibrary-user-to-a-pro-frontend-engineer-2cci)
 - [Dev.to/JS] [How to Create User Routes in Node.js: A Step-by-Step Guide](https://dev.to/aneeqakhan/create-user-model-3cfb)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Gaylor Swift Theory](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-gaylo-1850988212)
 - [Lifehacker] [Evil Week: Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [The 20 Best Holiday and Christmas Movies on Netflix Right Now](https://lifehacker.com/best-holiday-movies-on-netflix-1850972904)
-- [Lifehacker] [The Google Pixel 7 Is The Cheapest It’s Ever Been](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)
-- [Lifehacker] [Evil Week: 7 Bar Bets That Will Trick People Into Buying You Drinks](https://lifehacker.com/trick-people-into-buying-you-drinks-with-these-bar-bets-1819176229)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Google Pixel 7 Is The Cheapest It’s Ever Been](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)<!-- TECH-POSTS:END -->
 
 ---
 
