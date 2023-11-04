@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the Cyber Security challenges in Website Development?](https://dev.to/webdevelopmentindia12/what-are-the-cyber-security-challenges-in-website-development-2j2i)
+- [Dev.to/JS] [《陆小凤传奇之绣花大盗》|善用绣花针活灵活现的女装大盗#动作#武侠#古装#泥鳅影视- 线上看在线视频 - 手机视频线上看 - 海外在线影视 &lpar;niqiutv.com&rpar;](https://dev.to/niqiutv/-shan-yong-xiu-hua-zhen-huo-ling-huo-xian-de-nu-zhuang-da-dao-dong-zuo-wu-xia-gu-zhuang-ni-qiu-ying-shi-xian-shang-kan-zai-xian-shi-pin-shou-ji-shi-pin-xian-shang-kan-hai-wai-zai-xian-ying-shi-niqiutvcom-3e29)
 - [Dev.to/JS] [Earthmed CBD Male Enhancement Gummies - Increased Sexual Confidence](https://dev.to/earthmedcbdmegummies/earthmed-cbd-male-enhancement-gummies-increased-sexual-confidence-jnc)
 - [Dev.to/JS] [Sheriff release v16](https://dev.to/andreapontrandolfo/sheriff-release-v16-22j9)
 - [Dev.to/JS] [Simple Youtube Downloader in under 50 Javascript lines](https://dev.to/timgabrikowski/simple-youtube-downloader-in-under-50-javascript-lines-23f3)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Make Your Website Faster 🔥🚀🚀](https://dev.to/xeuxdev/how-to-make-your-website-faster-384n)
 - [Dev.to/JS] [Quelles sont les nouveautés d&#39;ECMAScript 14 ?](https://dev.to/kureru/quelles-sont-les-nouveautes-decmascript-14--2763)
 - [Dev.to/JS] [The Importance of Expert-Level Certifications in Today&#39;s Competitive Job Market](https://dev.to/namalkevin/the-importance-of-expert-level-certifications-in-todays-competitive-job-market-1ph)
-- [Dev.to/JS] [Started a repo for my new game engine](https://dev.to/jacklehamster/started-a-repo-for-my-new-game-engine-54cc)
-- [Dev.to/JS] [What is flatmap and Advantage of using flatmap ?](https://dev.to/krishna121996/what-is-flatmap-and-advantage-of-using-flatmap--3h47)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
