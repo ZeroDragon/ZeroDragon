@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I built a Snake Game in React](https://dev.to/menard_codes/i-built-a-snake-game-in-react-48b6)
+- [Dev.to/JS] [Creating a RESTful API with Node.js](https://dev.to/sanketbodake/creating-a-restful-api-with-nodejs-30km)
 - [Dev.to/JS] [10 ES6 Tricks Every JavaScript Developer Should Know](https://dev.to/rowsanali/10-es6-tricks-every-javascript-developer-should-know-3i5g)
 - [Dev.to/JS] [Why ES6 Was a Game-Changer for JavaScript](https://dev.to/rowsanali/why-es6-was-a-game-changer-for-javascript-23gp)
 - [Dev.to/JS] [Why React is Winning the Web: Insights into the Most Popular UI Library](https://dev.to/delia_code/why-react-is-winning-the-web-insights-into-the-most-popular-ui-library-1j3k)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Format Woocommerce price in javascript according to the Woocommerce settings.](https://dev.to/mrabbani/format-woocommerce-price-in-javascript-according-to-the-woocommerce-settings-ek4)
 - [Dev.to/JS] [Web Workers 調用 API，減輕主執行緒負擔](https://dev.to/letswrite/web-workers-diao-yong-apijian-qing-zhu-zhi-xing-xu-fu-dan-2enc)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
-- [Dev.to/JS] [✨Top 15 GitHub repositories to achieve Typescript Mastery🏆](https://dev.to/kumarkalyan/top-15-github-repositories-to-achieve-typescript-mastery-gk0)
-- [Dev.to/JS] [ES6 Rewriting Imports in JavaScript and TypeScript](https://dev.to/rudolfolah/es6-rewriting-imports-in-javascript-and-typescript-1e03)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
 - [Lifehacker] [Avoid Using These Rude Phrases &lpar;And What to Say Instead&rpar;](https://lifehacker.com/avoid-using-these-rude-phrases-and-what-to-say-instead-1850992156)
