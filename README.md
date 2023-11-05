@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering `is.boolean` for Type Checking in JavaScript with &#39;thiis&#39;: Fun Examples and Useful Tips](https://dev.to/karbashevskyi/mastering-isboolean-for-type-checking-in-javascript-with-thiis-fun-examples-and-useful-tips-2gf1)
 - [Dev.to/JS] [Conditional rendering in React](https://dev.to/graphqleditor/conditional-rendering-in-react-35p)
 - [Dev.to/JS] [How do you define your points [],{x,y}, x, y?](https://dev.to/slobodan4nista/how-do-you-define-your-points-xy-x-y-5c16)
 - [Dev.to/JS] [Meme November: Day - 5](https://dev.to/jon_snow789/meme-november-day-5-1h56)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [euphony offering contact with developer to developer](https://dev.to/pranav1924/euphony-offering-contact-with-developer-to-developer-224a)
 - [Dev.to/JS] [euphony offering contact with developer to developer](https://dev.to/pranav1924/euphony-offering-contact-with-developer-to-developer-4o50)
 - [Dev.to/JS] [Node.js Export Dilemma: Decoding module.exports vs exports for Developers](https://dev.to/udaay/nodejs-export-dilemma-decoding-moduleexports-vs-exports-for-developers-dk8)
-- [Dev.to/JS] [Next.js 14: Turbocharging Development, Simplified Mutations, and Partial Prerendering](https://dev.to/gkhan205/nextjs-14-turbocharging-development-simplified-mutations-and-partial-prerendering-4j81)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
