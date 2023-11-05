@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s Time to Ditch Node.js - bun.js is the Future](https://dev.to/manitej/discover-the-next-generation-of-javascript-runtimes-with-bunjs-ggn)
+- [Dev.to/JS] [Learn React The Hard Way: Manage State Better](https://dev.to/papercoding22/how-to-manage-react-state-better-4bl7)
+- [Dev.to/JS] [JavaScript Clean Code: The Ultimate Guide for Developers](https://dev.to/alvisonhunter/javascript-clean-code-the-ultimate-guide-for-developers-4m7n)
 - [Dev.to/JS] [Format Woocommerce price in javascript according to the Woocommerce settings.](https://dev.to/mrabbani/format-woocommerce-price-in-javascript-according-to-the-woocommerce-settings-ek4)
 - [Dev.to/JS] [Web Workers 調用 API，減輕主執行緒負擔](https://dev.to/letswrite/web-workers-diao-yong-apijian-qing-zhu-zhi-xing-xu-fu-dan-2enc)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State Management in React: Finding the Sweet Spot](https://dev.to/opensourcee/state-management-in-react-finding-the-sweet-spot-5efh)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
 - [Dev.to/JS] [Anomaly Detection in Multivariate Time Series with... Diffusion Models?](https://dev.to/mikeyoung44/anomaly-detection-in-multivariate-time-series-with-diffusion-models-1jf3)
-- [Dev.to/JS] [Switch from a Framework/Library User to a Pro Frontend Engineer](https://dev.to/ahmeddammarr/switch-from-a-frameworklibrary-user-to-a-pro-frontend-engineer-2cci)
-- [Dev.to/JS] [How to Create User Routes in Node.js: A Step-by-Step Guide](https://dev.to/aneeqakhan/create-user-model-3cfb)
 - [Lifehacker] [Avoid Using These Rude Phrases &lpar;And What to Say Instead&rpar;](https://lifehacker.com/avoid-using-these-rude-phrases-and-what-to-say-instead-1850992156)
-- [Dev.to/JS] [Reusable Redux-toolkit code [1]](https://dev.to/hdbdbeben/reusable-redux-toolkit-code-1-2ak5)
 - [Lifehacker] [Take Advantage of Amtrak&#39;s New Fares to Book Your Holiday Travel](https://lifehacker.com/take-advantage-of-amtraks-new-fares-to-book-your-holida-1850992100)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
