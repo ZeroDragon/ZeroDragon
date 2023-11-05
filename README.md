@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conditional rendering in React](https://dev.to/graphqleditor/conditional-rendering-in-react-35p)
+- [Dev.to/JS] [How do you define your points [],{x,y}, x, y?](https://dev.to/slobodan4nista/how-do-you-define-your-points-xy-x-y-5c16)
+- [Dev.to/JS] [Meme November: Day - 5](https://dev.to/jon_snow789/meme-november-day-5-1h56)
+- [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
 - [Dev.to/JS] [The awakening of the monster](https://dev.to/schukai/the-awakening-of-the-monster-53jk)
 - [Dev.to/JS] [How Creating Content as a Developer Changed My Life](https://dev.to/chaoocharles/how-creating-content-as-a-developer-changed-my-life-270e)
 - [Dev.to/JS] [My Accessibility Engineer Project: the Head Element](https://dev.to/corinamurg/accessibility-engineer-project-the-head-element-653)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [euphony offering contact with developer to developer](https://dev.to/pranav1924/euphony-offering-contact-with-developer-to-developer-4o50)
 - [Dev.to/JS] [Node.js Export Dilemma: Decoding module.exports vs exports for Developers](https://dev.to/udaay/nodejs-export-dilemma-decoding-moduleexports-vs-exports-for-developers-dk8)
 - [Dev.to/JS] [Next.js 14: Turbocharging Development, Simplified Mutations, and Partial Prerendering](https://dev.to/gkhan205/nextjs-14-turbocharging-development-simplified-mutations-and-partial-prerendering-4j81)
-- [Dev.to/JS] [Optimize JS in your website ahead of time with ConstexprJS](https://dev.to/amokfa/optimize-js-in-your-website-ahead-of-time-with-constexprjs-910)
-- [Dev.to/JS] [Why useSyncExternalStore Is Not Used in Jotai](https://dev.to/dai_shi/why-usesyncexternalstore-is-not-used-in-jotai-23h9)
-- [Dev.to/JS] [Implementation of LinkedList](https://dev.to/believer15/implementation-of-linkedlist-1eka)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: What to Do If You Get Caught Shoplifting](https://lifehacker.com/know-your-rights-if-a-store-detains-you-for-shoplifting-5853355)
 - [Lifehacker] [A Lifetime Subscription to AdGuard Is $17 Right Now](https://lifehacker.com/a-lifetime-subscription-to-adguard-is-17-right-now-1850986577)
 - [Lifehacker] [Evil Week: Give These Gifts to the Kids of Parents You Hate](https://lifehacker.com/10-gifts-to-give-to-the-kids-of-parents-you-hate-1819809665)
-- [Lifehacker] [How to Add a Light Switch to Any Existing Outlet](https://lifehacker.com/how-to-add-a-light-switch-to-any-existing-outlet-1850988750)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Gaylor Swift Theory](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-gaylo-1850988212)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Add a Light Switch to Any Existing Outlet](https://lifehacker.com/how-to-add-a-light-switch-to-any-existing-outlet-1850988750)<!-- TECH-POSTS:END -->
 
 ---
 
