@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tuto: Create tabs in Svelte](https://dev.to/barim/tuto-create-tabs-in-svelte-n82)
 - [Dev.to/JS] [How to Control Strict Mode](https://dev.to/wolframkriesing/how-to-control-strict-mode-4i82)
 - [Dev.to/JS] [Virtual Scrolling in React: Implementation from scratch and using react-window](https://dev.to/imvedanshmehra/virtual-scrolling-in-react-implementation-from-scratch-and-using-react-window-336o)
 - [Dev.to/JS] [VidPalAI: Revolutionizing Video Content with ChatGPT 4.0](https://dev.to/william23/vidpalai-revolutionizing-video-content-with-chatgpt-40-1dbh)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
 - [Dev.to/JS] [The awakening of the monster](https://dev.to/schukai/the-awakening-of-the-monster-53jk)
 - [Dev.to/JS] [How Creating Content as a Developer Changed My Life](https://dev.to/chaoocharles/how-creating-content-as-a-developer-changed-my-life-270e)
-- [Dev.to/JS] [My Accessibility Engineer Project: the Head Element](https://dev.to/corinamurg/accessibility-engineer-project-the-head-element-653)
 - [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
