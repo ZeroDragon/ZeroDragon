@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Block Users from Specific Countries using Hono Ultrafast Web Framework and Vercel Edge Functions](https://dev.to/reeshee/block-users-from-specific-countries-using-hono-ultrafast-web-framework-and-vercel-edge-functions-50jo)
+- [Dev.to/JS] [Preserving Special Characters in Query Parameters: A React Journey](https://dev.to/remonhasan/preserving-special-characters-in-query-parameters-a-react-journey-oko)
 - [Dev.to/JS] [It&#39;s Time to Ditch Node.js - bun.js is the Future](https://dev.to/manitej/discover-the-next-generation-of-javascript-runtimes-with-bunjs-ggn)
 - [Dev.to/JS] [Learn React The Hard Way: Manage State Better](https://dev.to/papercoding22/how-to-manage-react-state-better-4bl7)
 - [Dev.to/JS] [JavaScript Clean Code: The Ultimate Guide for Developers](https://dev.to/alvisonhunter/javascript-clean-code-the-ultimate-guide-for-developers-4m7n)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A step-by-step guide to creating a bot that publishes push events on a GitHub repository to a slack channel using nodejs](https://dev.to/talibackend/a-step-by-step-guide-to-creating-a-bot-that-publishes-push-events-on-a-github-repository-to-a-slack-channel-using-nodejs-47a6)
 - [Dev.to/JS] [Next.js - understanding page routing](https://dev.to/eugene_k/nextjs-understanding-page-routing-53c9)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
-- [Dev.to/JS] [State Management in React: Finding the Sweet Spot](https://dev.to/opensourcee/state-management-in-react-finding-the-sweet-spot-5efh)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
-- [Dev.to/JS] [Anomaly Detection in Multivariate Time Series with... Diffusion Models?](https://dev.to/mikeyoung44/anomaly-detection-in-multivariate-time-series-with-diffusion-models-1jf3)
 - [Lifehacker] [Avoid Using These Rude Phrases &lpar;And What to Say Instead&rpar;](https://lifehacker.com/avoid-using-these-rude-phrases-and-what-to-say-instead-1850992156)
 - [Lifehacker] [Take Advantage of Amtrak&#39;s New Fares to Book Your Holiday Travel](https://lifehacker.com/take-advantage-of-amtraks-new-fares-to-book-your-holida-1850992100)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
