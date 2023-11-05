@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Dev.to/JS] [✨Top 15 GitHub repositories to achieve Typescript Mastery 🏆](https://dev.to/kumarkalyan/top-15-github-repositories-to-achieve-typescript-mastery-gk0)
 - [Dev.to/JS] [ES6 Rewriting Imports in JavaScript and TypeScript](https://dev.to/rudolfolah/es6-rewriting-imports-in-javascript-and-typescript-1e03)
 - [Dev.to/JS] [Temporal - A trustworthy alternative for &lpar;legacy&rpar; moment.js ?](https://dev.to/shameel/temporal-a-trustworthy-alternative-for-legacy-momentjs--gcf)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: Give These Gifts to the Kids of Parents You Hate](https://lifehacker.com/10-gifts-to-give-to-the-kids-of-parents-you-hate-1819809665)
 - [Lifehacker] [How to Add a Light Switch to Any Existing Outlet](https://lifehacker.com/how-to-add-a-light-switch-to-any-existing-outlet-1850988750)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Gaylor Swift Theory](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-gaylo-1850988212)
-- [Lifehacker] [Evil Week: Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
-- [Lifehacker] [The 20 Best Holiday and Christmas Movies on Netflix Right Now](https://lifehacker.com/best-holiday-movies-on-netflix-1850972904)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)<!-- TECH-POSTS:END -->
 
 ---
 
