@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimize JS in your website ahead of time with ConstexprJS](https://dev.to/amokfa/optimize-js-in-your-website-ahead-of-time-with-constexprjs-910)
+- [Dev.to/JS] [Why useSyncExternalStore Is Not Used in Jotai](https://dev.to/dai_shi/why-usesyncexternalstore-is-not-used-in-jotai-23h9)
+- [Dev.to/JS] [Implementation of LinkedList](https://dev.to/believer15/implementation-of-linkedlist-1eka)
+- [Dev.to/JS] [Hero Rupee Loan Customer Care Number@8961508401 Toll Free](https://dev.to/tfree3374/hero-rupee-loan-customer-care-number8961508401-toll-free-56ih)
 - [Dev.to/JS] [2024 Web Development Trends: The Future of Web Tech That You Can’t Ignore](https://dev.to/delia_code/2024-web-development-trends-the-future-of-web-tech-that-you-cant-ignore-7k8)
 - [Dev.to/JS] [New88v1iocom](https://dev.to/new88v1/new88v1iocom-4b76)
 - [Dev.to/JS] [Web APIs: The Magical Portals in JavaScript&#39;s Enchanted Realm](https://dev.to/init_chandan/web-apis-the-magical-portals-in-javascripts-enchanted-realm-45om)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a RESTful API with Node.js](https://dev.to/sanketbodake/creating-a-restful-api-with-nodejs-30km)
 - [Dev.to/JS] [10 ES6 Tricks Every JavaScript Developer Should Know](https://dev.to/rowsanali/10-es6-tricks-every-javascript-developer-should-know-3i5g)
 - [Dev.to/JS] [Why ES6 Was a Game-Changer for JavaScript](https://dev.to/rowsanali/why-es6-was-a-game-changer-for-javascript-23gp)
-- [Dev.to/JS] [Why React is Winning the Web: Insights into the Most Popular UI Library](https://dev.to/delia_code/why-react-is-winning-the-web-insights-into-the-most-popular-ui-library-1j3k)
-- [Dev.to/JS] [Block Users from Specific Countries using Hono Ultrafast Web Framework and Vercel Edge Functions](https://dev.to/reeshee/block-users-from-specific-countries-using-hono-ultrafast-web-framework-and-vercel-edge-functions-50jo)
-- [Dev.to/JS] [Preserving Special Characters in Query Parameters: A React Journey](https://dev.to/remonhasan/preserving-special-characters-in-query-parameters-a-react-journey-oko)
-- [Dev.to/JS] [It&#39;s Time to Ditch Node.js - bun.js is the Future](https://dev.to/manitej/discover-the-next-generation-of-javascript-runtimes-with-bunjs-ggn)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
