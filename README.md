@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2024 Web Development Trends: The Future of Web Tech That You Can’t Ignore](https://dev.to/delia_code/2024-web-development-trends-the-future-of-web-tech-that-you-cant-ignore-7k8)
+- [Dev.to/JS] [New88v1iocom](https://dev.to/new88v1/new88v1iocom-4b76)
+- [Dev.to/JS] [Web APIs: The Magical Portals in JavaScript&#39;s Enchanted Realm](https://dev.to/init_chandan/web-apis-the-magical-portals-in-javascripts-enchanted-realm-45om)
 - [Dev.to/JS] [Shopify - the peculiarity that I hit my forehead](https://dev.to/sa-hola/shopify-the-peculiarity-that-i-hit-my-forehead-2imi)
 - [Dev.to/JS] [I built a Snake Game in React](https://dev.to/menard_codes/i-built-a-snake-game-in-react-48b6)
 - [Dev.to/JS] [Creating a RESTful API with Node.js](https://dev.to/sanketbodake/creating-a-restful-api-with-nodejs-30km)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Block Users from Specific Countries using Hono Ultrafast Web Framework and Vercel Edge Functions](https://dev.to/reeshee/block-users-from-specific-countries-using-hono-ultrafast-web-framework-and-vercel-edge-functions-50jo)
 - [Dev.to/JS] [Preserving Special Characters in Query Parameters: A React Journey](https://dev.to/remonhasan/preserving-special-characters-in-query-parameters-a-react-journey-oko)
 - [Dev.to/JS] [It&#39;s Time to Ditch Node.js - bun.js is the Future](https://dev.to/manitej/discover-the-next-generation-of-javascript-runtimes-with-bunjs-ggn)
-- [Dev.to/JS] [Learn React The Hard Way: Manage State Better](https://dev.to/papercoding22/how-to-manage-react-state-better-4bl7)
-- [Dev.to/JS] [JavaScript Clean Code: The Ultimate Guide for Developers](https://dev.to/alvisonhunter/javascript-clean-code-the-ultimate-guide-for-developers-4m7n)
-- [Dev.to/JS] [Format Woocommerce price in javascript according to the Woocommerce settings.](https://dev.to/mrabbani/format-woocommerce-price-in-javascript-according-to-the-woocommerce-settings-ek4)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
