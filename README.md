@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VidPalAI: Revolutionizing Video Content with ChatGPT 4.0](https://dev.to/william23/vidpalai-revolutionizing-video-content-with-chatgpt-40-1dbh)
+- [Dev.to/JS] [Designing file upload endpoint in REST API](https://dev.to/rossjay/designing-file-upload-endpoint-in-rest-api-4nec)
+- [Dev.to/JS] [Fullstackopen Summary Part 1](https://dev.to/acesif/fullstackopen-summary-part-1-3bl0)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
 - [Dev.to/JS] [Mastering `is.boolean` for Type Checking in JavaScript with &#39;thiis&#39;: Fun Examples and Useful Tips](https://dev.to/karbashevskyi/mastering-isboolean-for-type-checking-in-javascript-with-thiis-fun-examples-and-useful-tips-2gf1)
 - [Dev.to/JS] [Conditional rendering in React](https://dev.to/graphqleditor/conditional-rendering-in-react-35p)
@@ -38,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create modals and popups with Dialog tag in Html](https://dev.to/thatanjan/how-to-create-modals-and-popups-with-dialog-tag-in-html-dfd)
 - [Dev.to/JS] [Full Stack NEXTJS Project with Google Sign-In and CRUD Operations](https://dev.to/ajmal_hasan/full-stack-nextjs-project-with-google-sign-in-and-crud-operations-1n62)
 - [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
-- [Dev.to/JS] [euphony offering contact with developer to developer](https://dev.to/pranav1924/euphony-offering-contact-with-developer-to-developer-224a)
-- [Dev.to/JS] [euphony offering contact with developer to developer](https://dev.to/pranav1924/euphony-offering-contact-with-developer-to-developer-4o50)
-- [Dev.to/JS] [Node.js Export Dilemma: Decoding module.exports vs exports for Developers](https://dev.to/udaay/nodejs-export-dilemma-decoding-moduleexports-vs-exports-for-developers-dk8)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
