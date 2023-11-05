@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shopify - the peculiarity that I hit my forehead](https://dev.to/sa-hola/shopify-the-peculiarity-that-i-hit-my-forehead-2imi)
 - [Dev.to/JS] [I built a Snake Game in React](https://dev.to/menard_codes/i-built-a-snake-game-in-react-48b6)
 - [Dev.to/JS] [Creating a RESTful API with Node.js](https://dev.to/sanketbodake/creating-a-restful-api-with-nodejs-30km)
 - [Dev.to/JS] [10 ES6 Tricks Every JavaScript Developer Should Know](https://dev.to/rowsanali/10-es6-tricks-every-javascript-developer-should-know-3i5g)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn React The Hard Way: Manage State Better](https://dev.to/papercoding22/how-to-manage-react-state-better-4bl7)
 - [Dev.to/JS] [JavaScript Clean Code: The Ultimate Guide for Developers](https://dev.to/alvisonhunter/javascript-clean-code-the-ultimate-guide-for-developers-4m7n)
 - [Dev.to/JS] [Format Woocommerce price in javascript according to the Woocommerce settings.](https://dev.to/mrabbani/format-woocommerce-price-in-javascript-according-to-the-woocommerce-settings-ek4)
-- [Dev.to/JS] [Web Workers 調用 API，減輕主執行緒負擔](https://dev.to/letswrite/web-workers-diao-yong-apijian-qing-zhu-zhi-xing-xu-fu-dan-2enc)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
