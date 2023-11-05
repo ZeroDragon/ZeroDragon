@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How Creating Content as a Developer Changed My Life](https://dev.to/chaoocharles/why-you-should-create-content-as-a-developer-4ojd)
+- [Dev.to/JS] [The awakening of the monster](https://dev.to/schukai/the-awakening-of-the-monster-53jk)
+- [Dev.to/JS] [How Creating Content as a Developer Changed My Life](https://dev.to/chaoocharles/how-creating-content-as-a-developer-changed-my-life-270e)
+- [Dev.to/JS] [My Accessibility Engineer Project: the Head Element](https://dev.to/corinamurg/accessibility-engineer-project-the-head-element-653)
 - [Dev.to/JS] [How to create modals and popups with Dialog tag in Html](https://dev.to/thatanjan/how-to-create-modals-and-popups-with-dialog-tag-in-html-dfd)
 - [Dev.to/JS] [Full Stack NEXTJS Project with Google Sign-In and CRUD Operations](https://dev.to/ajmal_hasan/full-stack-nextjs-project-with-google-sign-in-and-crud-operations-1n62)
 - [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimize JS in your website ahead of time with ConstexprJS](https://dev.to/amokfa/optimize-js-in-your-website-ahead-of-time-with-constexprjs-910)
 - [Dev.to/JS] [Why useSyncExternalStore Is Not Used in Jotai](https://dev.to/dai_shi/why-usesyncexternalstore-is-not-used-in-jotai-23h9)
 - [Dev.to/JS] [Implementation of LinkedList](https://dev.to/believer15/implementation-of-linkedlist-1eka)
-- [Dev.to/JS] [Hero Rupee Loan Customer Care Number@8961508401 Toll Free](https://dev.to/tfree3374/hero-rupee-loan-customer-care-number8961508401-toll-free-56ih)
-- [Dev.to/JS] [2024 Web Development Trends: The Future of Web Tech That You Can’t Ignore](https://dev.to/delia_code/2024-web-development-trends-the-future-of-web-tech-that-you-cant-ignore-7k8)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
