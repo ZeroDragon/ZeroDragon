@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 ES6 Tricks Every JavaScript Developer Should Know](https://dev.to/rowsanali/10-es6-tricks-every-javascript-developer-should-know-3i5g)
+- [Dev.to/JS] [Why ES6 Was a Game-Changer for JavaScript](https://dev.to/rowsanali/why-es6-was-a-game-changer-for-javascript-23gp)
+- [Dev.to/JS] [Why React is Winning the Web: Insights into the Most Popular UI Library](https://dev.to/delia_code/why-react-is-winning-the-web-insights-into-the-most-popular-ui-library-1j3k)
 - [Dev.to/JS] [Block Users from Specific Countries using Hono Ultrafast Web Framework and Vercel Edge Functions](https://dev.to/reeshee/block-users-from-specific-countries-using-hono-ultrafast-web-framework-and-vercel-edge-functions-50jo)
 - [Dev.to/JS] [Preserving Special Characters in Query Parameters: A React Journey](https://dev.to/remonhasan/preserving-special-characters-in-query-parameters-a-react-journey-oko)
 - [Dev.to/JS] [It&#39;s Time to Ditch Node.js - bun.js is the Future](https://dev.to/manitej/discover-the-next-generation-of-javascript-runtimes-with-bunjs-ggn)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Dev.to/JS] [✨Top 15 GitHub repositories to achieve Typescript Mastery🏆](https://dev.to/kumarkalyan/top-15-github-repositories-to-achieve-typescript-mastery-gk0)
 - [Dev.to/JS] [ES6 Rewriting Imports in JavaScript and TypeScript](https://dev.to/rudolfolah/es6-rewriting-imports-in-javascript-and-typescript-1e03)
-- [Dev.to/JS] [Temporal - A trustworthy alternative for &lpar;legacy&rpar; moment.js ?](https://dev.to/shameel/temporal-a-trustworthy-alternative-for-legacy-momentjs--gcf)
-- [Dev.to/JS] [A step-by-step guide to creating a bot that publishes push events on a GitHub repository to a slack channel using nodejs](https://dev.to/talibackend/a-step-by-step-guide-to-creating-a-bot-that-publishes-push-events-on-a-github-repository-to-a-slack-channel-using-nodejs-47a6)
-- [Dev.to/JS] [Next.js - understanding page routing](https://dev.to/eugene_k/nextjs-understanding-page-routing-53c9)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
 - [Lifehacker] [Avoid Using These Rude Phrases &lpar;And What to Say Instead&rpar;](https://lifehacker.com/avoid-using-these-rude-phrases-and-what-to-say-instead-1850992156)
