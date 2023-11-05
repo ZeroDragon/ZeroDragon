@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [✨Top 15 GitHub repositories to achieve Typescript Mastery 🏆](https://dev.to/kumarkalyan/top-15-github-repositories-to-achieve-typescript-mastery-gk0)
 - [Dev.to/JS] [ES6 Rewriting Imports in JavaScript and TypeScript](https://dev.to/rudolfolah/es6-rewriting-imports-in-javascript-and-typescript-1e03)
 - [Dev.to/JS] [Temporal - A trustworthy alternative for &lpar;legacy&rpar; moment.js ?](https://dev.to/shameel/temporal-a-trustworthy-alternative-for-legacy-momentjs--gcf)
 - [Dev.to/JS] [A step-by-step guide to creating a bot that publishes push events on a GitHub repository to a slack channel using nodejs](https://dev.to/talibackend/a-step-by-step-guide-to-creating-a-bot-that-publishes-push-events-on-a-github-repository-to-a-slack-channel-using-nodejs-47a6)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reusable Redux-toolkit code [1]](https://dev.to/hdbdbeben/reusable-redux-toolkit-code-1-2ak5)
 - [Dev.to/JS] [Day 81: Web Workers](https://dev.to/dhrn/day-81-web-workers-4ec0)
 - [Dev.to/JS] [JSON in JavaScript: An In-Depth Guide](https://dev.to/rowsanali/json-in-javascript-an-in-depth-guide-212g)
-- [Dev.to/JS] [JavaScript Engines: How V8 Powers Google Chrome](https://dev.to/rowsanali/javascript-engines-how-v8-powers-google-chrome-1b0k)
 - [Lifehacker] [Take Advantage of Amtrak&#39;s New Fares to Book Your Holiday Travel](https://lifehacker.com/take-advantage-of-amtraks-new-fares-to-book-your-holida-1850992100)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
