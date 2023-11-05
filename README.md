@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Full Stack NEXTJS Project with Google Sign-In and CRUD Operations](https://dev.to/ajmal_hasan/full-stack-nextjs-project-with-google-sign-in-and-crud-operations-1n62)
+- [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
+- [Dev.to/JS] [euphony offering contact with developer to developer](https://dev.to/pranav1924/euphony-offering-contact-with-developer-to-developer-224a)
+- [Dev.to/JS] [euphony offering contact with developer to developer](https://dev.to/pranav1924/euphony-offering-contact-with-developer-to-developer-4o50)
+- [Dev.to/JS] [Node.js Export Dilemma: Decoding module.exports vs exports for Developers](https://dev.to/udaay/nodejs-export-dilemma-decoding-moduleexports-vs-exports-for-developers-dk8)
+- [Dev.to/JS] [Next.js 14: Turbocharging Development, Simplified Mutations, and Partial Prerendering](https://dev.to/gkhan205/nextjs-14-turbocharging-development-simplified-mutations-and-partial-prerendering-4j81)
 - [Dev.to/JS] [Optimize JS in your website ahead of time with ConstexprJS](https://dev.to/amokfa/optimize-js-in-your-website-ahead-of-time-with-constexprjs-910)
 - [Dev.to/JS] [Why useSyncExternalStore Is Not Used in Jotai](https://dev.to/dai_shi/why-usesyncexternalstore-is-not-used-in-jotai-23h9)
 - [Dev.to/JS] [Implementation of LinkedList](https://dev.to/believer15/implementation-of-linkedlist-1eka)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2024 Web Development Trends: The Future of Web Tech That You Can’t Ignore](https://dev.to/delia_code/2024-web-development-trends-the-future-of-web-tech-that-you-cant-ignore-7k8)
 - [Dev.to/JS] [New88v1iocom](https://dev.to/new88v1/new88v1iocom-4b76)
 - [Dev.to/JS] [Web APIs: The Magical Portals in JavaScript&#39;s Enchanted Realm](https://dev.to/init_chandan/web-apis-the-magical-portals-in-javascripts-enchanted-realm-45om)
-- [Dev.to/JS] [Shopify - the peculiarity that I hit my forehead](https://dev.to/sa-hola/shopify-the-peculiarity-that-i-hit-my-forehead-2imi)
-- [Dev.to/JS] [I built a Snake Game in React](https://dev.to/menard_codes/i-built-a-snake-game-in-react-48b6)
-- [Dev.to/JS] [Creating a RESTful API with Node.js](https://dev.to/sanketbodake/creating-a-restful-api-with-nodejs-30km)
-- [Dev.to/JS] [10 ES6 Tricks Every JavaScript Developer Should Know](https://dev.to/rowsanali/10-es6-tricks-every-javascript-developer-should-know-3i5g)
-- [Dev.to/JS] [Why ES6 Was a Game-Changer for JavaScript](https://dev.to/rowsanali/why-es6-was-a-game-changer-for-javascript-23gp)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Lifetime Subscription to AdGuard Is $17 Right Now](https://lifehacker.com/a-lifetime-subscription-to-adguard-is-17-right-now-1850986577)
 - [Lifehacker] [Evil Week: Give These Gifts to the Kids of Parents You Hate](https://lifehacker.com/10-gifts-to-give-to-the-kids-of-parents-you-hate-1819809665)
 - [Lifehacker] [How to Add a Light Switch to Any Existing Outlet](https://lifehacker.com/how-to-add-a-light-switch-to-any-existing-outlet-1850988750)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Gaylor Swift Theory](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-gaylo-1850988212)
-- [Lifehacker] [Evil Week: Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Gaylor Swift Theory](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-gaylo-1850988212)<!-- TECH-POSTS:END -->
 
 ---
 
