@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Amazon Bedrock For JavaScript and TypeScript Developers](https://dev.to/aws-builders/amazon-bedrock-for-javascript-and-typescript-developers-4m5b)
+- [Lifehacker] [How to Take a Screenshot on a Chromebook](https://lifehacker.com/how-to-take-a-screenshot-on-a-chromebook-1850990003)
+- [Dev.to/JS] [Differences between Nginx and Nod](https://dev.to/sparkouttech/differences-between-nginx-and-nod-5kh)
+- [Dev.to/JS] [🔥 Top 11 Open Source Innovators Who Shaped the Developer World as We Live Today 🔭🔭](https://dev.to/shreya_gr/top-11-open-source-innovators-who-shaped-the-developer-world-as-we-live-today-j0b)
+- [Dev.to/JS] [Save Time and Stay Informed: 9 Must-Know Updates in NextJS v14 🔥](https://dev.to/usulpro/save-time-and-stay-informed-9-must-know-updates-in-nextjs-v14-5fnp)
 - [Dev.to/JS] [Measure Web Performance with Web Vitals](https://dev.to/jacobandrewsky/measure-web-performance-with-web-vitals-49oh)
 - [Dev.to/JS] [Enhancing Web Security in JavaScript: Mitigating Common Vulnerabilities](https://dev.to/outstandingvick/enhancing-web-security-in-javascript-mitigating-common-vulnerabilities-49ee)
 - [Dev.to/JS] [Understanding Javascript Call-Stack](https://dev.to/arindam_1729/understanding-javascript-call-stack-156i)
@@ -35,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Full text search with Firestore &amp; Meilisearch Deployment to Koyeb](https://dev.to/gautham495/full-text-search-with-firestore-meilisearch-deployment-to-koyeb-bbb)
 - [Dev.to/JS] [Meilisearch Full Text search with Firestore - Introduction](https://dev.to/gautham495/meilisearch-full-text-search-with-firestore-introduction-1k12)
 - [Dev.to/JS] [How edit This Component](https://dev.to/samsu/how-edit-this-component-ig2)
-- [Dev.to/JS] [How to Create a Tic Tac Toe Game in Javascript.](https://dev.to/snevy1/how-to-create-a-tic-tac-toe-game-in-javascript-133i)
-- [Dev.to/JS] [Publishing Google Docs to WordPress with Ease: A Guide to the &quot;Google Website Check&quot;](https://dev.to/k3shariq/publishing-google-docs-to-wordpress-with-ease-a-guide-to-the-google-website-check-3645)
-- [Dev.to/JS] [Master Angular 17 &lpar;a study guide&rpar;](https://dev.to/this-is-angular/master-angular-17-a-study-guide-1679)
-- [Dev.to/JS] [Trusted Choice for Heathrow, Gatwick, Stansted, Luton, and City Airport Transfers](https://dev.to/jackhayman/trusted-choice-for-heathrow-gatwick-stansted-luton-and-city-airport-transfers-5ap7)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the &#39;Agile Results&#39; System to Achieve Short- and Long-Term Goals](https://lifehacker.com/use-the-agile-results-system-to-achieve-short-and-long-1850990095)
 - [Lifehacker] [Evil Week: Take Multiple Pictures of Your Next Flat Tire So You Can Re-Use the Excuse](https://lifehacker.com/take-multiple-pictures-of-your-next-flat-tire-so-you-ca-1839500390)
 - [Lifehacker] [This 55-Inch 4K QLED TCL TV Is $400 Right Now](https://lifehacker.com/this-55-inch-4k-qled-tcl-tv-is-400-right-now-1850989986)
-- [Lifehacker] [This $230 Refurbished iPad Comes With Beats Headphones](https://lifehacker.com/this-230-refurbished-ipad-comes-with-beats-headphones-1850986626)
-- [Lifehacker] [Evil Week: What to Do If You Get Caught Shoplifting](https://lifehacker.com/know-your-rights-if-a-store-detains-you-for-shoplifting-5853355)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This $230 Refurbished iPad Comes With Beats Headphones](https://lifehacker.com/this-230-refurbished-ipad-comes-with-beats-headphones-1850986626)<!-- TECH-POSTS:END -->
 
 ---
 
