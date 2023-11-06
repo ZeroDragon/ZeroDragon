@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pangram validator in one line](https://dev.to/codepo8/pangram-validator-in-one-line-59e9)
+- [Dev.to/JS] [How to Write More Exceptional Code](https://dev.to/rajeshnatarajan/how-to-write-more-exceptional-code-1pj2)
+- [Lifehacker] [Fermented Cranberry Sauce Is a Revelation](https://lifehacker.com/fermented-cranberry-sauce-recipe-1850990441)
+- [Dev.to/JS] [pdfmake Server Side Outputs](https://dev.to/helenkwok/pdfmake-server-side-outputs-1dkl)
 - [Dev.to/JS] [Amazon Bedrock For JavaScript and TypeScript Developers](https://dev.to/aws-builders/amazon-bedrock-for-javascript-and-typescript-developers-4m5b)
 - [Lifehacker] [How to Take a Screenshot on a Chromebook](https://lifehacker.com/how-to-take-a-screenshot-on-a-chromebook-1850990003)
 - [Dev.to/JS] [Differences between Nginx and Nod](https://dev.to/sparkouttech/differences-between-nginx-and-nod-5kh)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeORM - remove children with orphanedRowAction](https://dev.to/mgohin/typeorm-remove-children-with-orphanedrowaction-4m7b)
 - [Crazy Programmer] [Mac vs Windows for Programming](https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html)
 - [Dev.to/JS] [Full text search with Firestore &amp; Meili search API&#39;s](https://dev.to/gautham495/full-text-search-with-firestore-meili-search-apis-26kk)
-- [Dev.to/JS] [Full text search with Firestore &amp; Meilisearch Deployment to Koyeb](https://dev.to/gautham495/full-text-search-with-firestore-meilisearch-deployment-to-koyeb-bbb)
-- [Dev.to/JS] [Meilisearch Full Text search with Firestore - Introduction](https://dev.to/gautham495/meilisearch-full-text-search-with-firestore-introduction-1k12)
-- [Dev.to/JS] [How edit This Component](https://dev.to/samsu/how-edit-this-component-ig2)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Don&#39;t Break the Chain&#39; to Build a New Habit](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
 - [Lifehacker] [Use the &#39;Agile Results&#39; System to Achieve Short- and Long-Term Goals](https://lifehacker.com/use-the-agile-results-system-to-achieve-short-and-long-1850990095)
 - [Lifehacker] [Evil Week: Take Multiple Pictures of Your Next Flat Tire So You Can Re-Use the Excuse](https://lifehacker.com/take-multiple-pictures-of-your-next-flat-tire-so-you-ca-1839500390)
-- [Lifehacker] [This 55-Inch 4K QLED TCL TV Is $400 Right Now](https://lifehacker.com/this-55-inch-4k-qled-tcl-tv-is-400-right-now-1850989986)
-- [Lifehacker] [This $230 Refurbished iPad Comes With Beats Headphones](https://lifehacker.com/this-230-refurbished-ipad-comes-with-beats-headphones-1850986626)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 55-Inch 4K QLED TCL TV Is $400 Right Now](https://lifehacker.com/this-55-inch-4k-qled-tcl-tv-is-400-right-now-1850989986)<!-- TECH-POSTS:END -->
 
 ---
 
