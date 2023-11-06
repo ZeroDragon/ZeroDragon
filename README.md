@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can&#39;t override default mat-step-header tabindex behavior](https://dev.to/smoothiesrock/cant-override-default-mat-step-header-tabindex-behavior-4of0)
+- [Dev.to/JS] [Intern2Grow: Virtual Internships, Real Tasks](https://dev.to/ahmed0saber/intern2grow-virtual-internships-real-tasks-326n)
+- [Lifehacker] [When to See the Northern Lights From the Continental U.S. This Week](https://lifehacker.com/when-to-see-the-northern-lights-from-the-continental-u-1850996264)
+- [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
+- [Dev.to/JS] [Using AI to Generate Database Query Is Cool. But What About Access Control?](https://dev.to/zenstack/using-ai-to-generate-database-query-is-cool-but-what-about-access-control-cc)
+- [Lifehacker] [Here’s the Difference Between a Modem and a Router](https://lifehacker.com/here-s-the-difference-between-a-modem-and-a-router-1850995716)
 - [Dev.to/JS] [Understanding &quot;use strict&quot; in TypeScript](https://dev.to/avwerosuoghene/understanding-use-strict-in-typescript-2dh)
 - [Lifehacker] [When &lpar;and How&rpar; to Paint Your Vinyl Siding](https://lifehacker.com/when-and-how-to-paint-your-vinyl-siding-1850995472)
 - [Lifehacker] [Make Mushroom Garum Today and Use It on Everything This Thanksgiving](https://lifehacker.com/mushroom-garum-recipe-1850994225)
@@ -41,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Quick Look at the JavaScript bind&lpar;&rpar; Method: Understand the bind&lpar;&rpar; Method in JavaScript](https://dev.to/rhieger/a-quick-look-at-the-javascript-bind-method-understand-the-bind-method-in-javascript-7hh)
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
 - [Dev.to/JS] [polyfill - PROMISE](https://dev.to/zeeshanali0704/polyfill-promise-2ebj)
-- [Dev.to/JS] [React: Is here to stay?](https://dev.to/tuminha/react-is-here-to-stay-5b9d)
 - [Lifehacker] [Tyson Recalls These Dino Chicken Nuggets That May Contain Metal Pieces](https://lifehacker.com/tyson-recalls-these-dino-chicken-nuggets-that-may-conta-1850994941)
-- [Dev.to/JS] [Adding Quill Module into ReactQuill in React App TS](https://dev.to/nofikoff/adding-quill-module-into-reactquill-in-react-app-ts-2hgh)
-- [Dev.to/JS] [Capture IP address using Bun with ElysiaJS, Docker and Render.com](https://dev.to/reeshee/capture-ip-address-using-bun-with-elysiajs-docker-and-rendercom-506)
 - [Lifehacker] [What If You Serve Fish on Thanksgiving Instead?](https://lifehacker.com/thanksgiving-fish-seafood-recipes-1850994120)
 - [Lifehacker] [Use the CODE Method to Manage Your Digital Hoarding](https://lifehacker.com/use-the-code-method-to-manage-your-digital-hoarding-1850994152)
 - [Lifehacker] [How Your Grill Can Help You Survive Thanksgiving](https://lifehacker.com/how-your-grill-can-help-you-survive-thanksgiving-1850994197)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
 - [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
 - [Lifehacker] [Avoid Using These Rude Phrases &lpar;And What to Say Instead&rpar;](https://lifehacker.com/avoid-using-these-rude-phrases-and-what-to-say-instead-1850992156)
-- [Lifehacker] [Take Advantage of Amtrak&#39;s New Fares to Book Your Holiday Travel](https://lifehacker.com/take-advantage-of-amtraks-new-fares-to-book-your-holida-1850992100)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
-- [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
-- [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Take Advantage of Amtrak&#39;s New Fares to Book Your Holiday Travel](https://lifehacker.com/take-advantage-of-amtraks-new-fares-to-book-your-holida-1850992100)<!-- TECH-POSTS:END -->
 
 ---
 
