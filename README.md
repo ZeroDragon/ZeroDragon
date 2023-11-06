@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build your first chrome extension &lpar;Part 2&rpar;](https://dev.to/djibrilm/build-your-first-chrome-extension-part-2-1gli)
+- [Lifehacker] [How Your Grill Can Help You Survive Thanksgiving](https://lifehacker.com/how-your-grill-can-help-you-survive-thanksgiving-1850994197)
+- [Dev.to/JS] [Paracetamol.js💊| #218: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-217-explica-este-codigo-javascript-4fp1)
+- [Dev.to/JS] [Moonly weekly progress update #67 - Staking V2](https://dev.to/moonly/moonly-weekly-progress-update-67-staking-v2-2kfn)
+- [Dev.to/JS] [Patterson Dental: Broad Offerings, but Personalization Lacking](https://dev.to/repairdental041/patterson-dental-broad-offerings-but-personalization-lacking-5be1)
+- [Dev.to/JS] [Repair.Dental: Elevating Dental Equipment Care to New Heights](https://dev.to/repairdental041/repairdental-elevating-dental-equipment-care-to-new-heights-2709)
+- [Lifehacker] [How to Score a Discount on Spotify Premium](https://lifehacker.com/how-to-score-a-discount-on-spotify-premium-1850994502)
 - [Dev.to/JS] [Henry Schein: A Broader Focus, But Is It the Best Fit?](https://dev.to/repairdental041/henry-schein-a-broader-focus-but-is-it-the-best-fit-3aa)
 - [Dev.to/JS] [Making the Choice: Why Repair.Dental Stands Above the Rest](https://dev.to/repairdental041/making-the-choice-why-repairdental-stands-above-the-rest-1d3o)
 - [Dev.to/JS] [Getting Started with Socket.io:Enhancing Real-Time Communication in Web Applications](https://dev.to/oyegoke/getting-started-with-socketioenhancing-real-time-communication-in-web-applications-4d3j)
@@ -35,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte Flow – a library for rendering interactive node-based UIs](https://dev.to/johnrobbjr/svelte-flow-a-library-for-rendering-interactive-node-based-uis-22d2)
 - [Lifehacker] [The Differences Between the Apple Watch Ultra and Ultra 2](https://lifehacker.com/the-differences-between-the-apple-watch-ultra-and-ultra-1850990715)
 - [Dev.to/JS] [Pangram validator in one line](https://dev.to/codepo8/pangram-validator-in-one-line-59e9)
-- [Dev.to/JS] [How to Write More Exceptional Code](https://dev.to/rajeshnatarajan/how-to-write-more-exceptional-code-1pj2)
 - [Lifehacker] [Fermented Cranberry Sauce Is a Revelation](https://lifehacker.com/fermented-cranberry-sauce-recipe-1850990441)
-- [Dev.to/JS] [pdfmake Server Side Outputs](https://dev.to/helenkwok/pdfmake-server-side-outputs-1dkl)
-- [Dev.to/JS] [Amazon Bedrock For JavaScript and TypeScript Developers](https://dev.to/aws-builders/amazon-bedrock-for-javascript-and-typescript-developers-4m5b)
 - [Lifehacker] [How to Take a Screenshot on a Chromebook](https://lifehacker.com/how-to-take-a-screenshot-on-a-chromebook-1850990003)
-- [Dev.to/JS] [Differences between Nginx and Nod](https://dev.to/sparkouttech/differences-between-nginx-and-nod-5kh)
-- [Dev.to/JS] [🔥 Top 11 Open Source Innovators Who Shaped the Developer World as We Live Today 🔭🔭](https://dev.to/shreya_gr/top-11-open-source-innovators-who-shaped-the-developer-world-as-we-live-today-j0b)
 - [Crazy Programmer] [Mac vs Windows for Programming](https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Tried a Vintage Mail Order Bodybuilding Course and There&#39;s a Reason Nobody Does These Anymore](https://lifehacker.com/do-vintage-exercise-routines-work-1818849451)
 - [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $80](https://lifehacker.com/these-night-vision-binoculars-are-on-sale-for-80-1850986770)
-- [Lifehacker] [How to Get Rid of PMI As Soon As Possible](https://lifehacker.com/how-to-get-rid-of-pmi-as-soon-as-possible-1850990113)
-- [Lifehacker] [&#39;Don&#39;t Break the Chain&#39; to Build a New Habit](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
-- [Lifehacker] [Use the &#39;Agile Results&#39; System to Achieve Short- and Long-Term Goals](https://lifehacker.com/use-the-agile-results-system-to-achieve-short-and-long-1850990095)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Rid of PMI As Soon As Possible](https://lifehacker.com/how-to-get-rid-of-pmi-as-soon-as-possible-1850990113)<!-- TECH-POSTS:END -->
 
 ---
 
