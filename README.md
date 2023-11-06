@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I started using Qwik...](https://dev.to/nyruchi/i-started-using-qwik-1n5n)
+- [Dev.to/JS] [Command-based undo for JS apps](https://dev.to/npbee/command-based-undo-for-js-apps-34d6)
 - [Dev.to/JS] [Tuto: Create tabs in Svelte](https://dev.to/barim/tuto-create-tabs-in-svelte-n82)
 - [Dev.to/JS] [How to Control Strict Mode](https://dev.to/wolframkriesing/how-to-control-strict-mode-4i82)
 - [Dev.to/JS] [Virtual Scrolling in React: Implementation from scratch and using react-window](https://dev.to/imvedanshmehra/virtual-scrolling-in-react-implementation-from-scratch-and-using-react-window-336o)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How do you define your points [x,y],{x,y}, x, y?](https://dev.to/slobodan4nista/how-do-you-define-your-points-xy-x-y-5c16)
 - [Dev.to/JS] [Meme November: Day - 5](https://dev.to/jon_snow789/meme-november-day-5-1h56)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
-- [Dev.to/JS] [The awakening of the monster](https://dev.to/schukai/the-awakening-of-the-monster-53jk)
-- [Dev.to/JS] [How Creating Content as a Developer Changed My Life](https://dev.to/chaoocharles/how-creating-content-as-a-developer-changed-my-life-270e)
 - [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
 - [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
