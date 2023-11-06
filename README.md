@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tricksters of JavaScript](https://dev.to/tanmaycode/tricksters-of-javascript-6b)
 - [Dev.to/JS] [How to Save a Node.js Script](https://dev.to/me_janki/how-to-save-a-nodejs-script-5em1)
 - [Dev.to/JS] [HTML CSS and JavaScript Projects For Beginners](https://dev.to/onlineittutstutorials/html-css-and-javascript-projects-for-beginners-30g7)
 - [Dev.to/JS] [Web Scraping a Dynamic Website Using Puppeteer and Node.js](https://dev.to/serpapi/web-scraping-a-dynamic-website-using-puppeteer-and-nodejs-1p0)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HOW TO USE USEIMPERATIVEHANDLE HOOK IN REACT ?](https://dev.to/thejokers/how-to-use-useimperativehandle-3h4h)
 - [Dev.to/JS] [How to Call an API in JavaScript – Examples](https://dev.to/sws-5007/how-to-call-an-api-in-javascript-examples-2fh9)
 - [Dev.to/JS] [How To Write Better and Quality Code](https://dev.to/brojenuel/how-to-write-better-and-quality-code-gf7)
-- [Dev.to/JS] [Input para duração de tempo &lpar;horas acima de 24&rpar;](https://dev.to/casewinter/input-para-duracao-de-tempo-horas-acima-de-24-3813)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
 - [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
