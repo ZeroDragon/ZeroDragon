@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the ‘Must, Should, Want’ Method to Prioritize Your To-Do List](https://lifehacker.com/use-the-must-should-want-method-to-prioritize-your-1850995165)
+- [Dev.to/JS] [I wrote my own version of the Qwik documentation](https://dev.to/nandinishinduja/i-wrote-my-own-version-of-the-qwik-documentation-58p5)
+- [Dev.to/JS] [Hello All Developer](https://dev.to/jasgiigli/hello-all-developer-3nni)
+- [Lifehacker] [Furniture and Home Goods Are up to 70% off During Wayfair’s Early Black Friday Sale](https://lifehacker.com/furniture-and-home-goods-are-up-to-70-off-during-wayfa-1850991886)
+- [Dev.to/JS] [A Quick Look at the JavaScript bind&lpar;&rpar; Method: Understand the bind&lpar;&rpar; Method in JavaScript](https://dev.to/rhieger/a-quick-look-at-the-javascript-bind-method-understand-the-bind-method-in-javascript-7hh)
+- [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
+- [Dev.to/JS] [polyfill - PROMISE](https://dev.to/zeeshanali0704/polyfill-promise-2ebj)
+- [Dev.to/JS] [React: Is here to stay?](https://dev.to/tuminha/react-is-here-to-stay-5b9d)
+- [Lifehacker] [Tyson Recalls These Dino Chicken Nuggets That May Contain Metal Pieces](https://lifehacker.com/tyson-recalls-these-dino-chicken-nuggets-that-may-conta-1850994941)
 - [Dev.to/JS] [Adding Quill Module into ReactQuill in React App TS](https://dev.to/nofikoff/adding-quill-module-into-reactquill-in-react-app-ts-2hgh)
 - [Dev.to/JS] [Capture IP address using Bun with ElysiaJS, Docker and Render.com](https://dev.to/reeshee/capture-ip-address-using-bun-with-elysiajs-docker-and-rendercom-506)
 - [Dev.to/JS] [Unveiling Excellence in Dental Equipment Repair &amp; Maintenance: A Comparative Analysis of Repair.Dental and Sinclair Dental](https://dev.to/repairdental041/unveiling-excellence-in-dental-equipment-repair-maintenance-a-comparative-analysis-of-repairdental-and-sinclair-dental-308h)
@@ -36,12 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Your Grill Can Help You Survive Thanksgiving](https://lifehacker.com/how-your-grill-can-help-you-survive-thanksgiving-1850994197)
 - [Dev.to/JS] [Paracetamol.js💊| #218: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-217-explica-este-codigo-javascript-4fp1)
 - [Dev.to/JS] [Moonly weekly progress update #67 - Staking V2](https://dev.to/moonly/moonly-weekly-progress-update-67-staking-v2-2kfn)
-- [Dev.to/JS] [Patterson Dental: Broad Offerings, but Personalization Lacking](https://dev.to/repairdental041/patterson-dental-broad-offerings-but-personalization-lacking-5be1)
-- [Dev.to/JS] [Repair.Dental: Elevating Dental Equipment Care to New Heights](https://dev.to/repairdental041/repairdental-elevating-dental-equipment-care-to-new-heights-2709)
 - [Lifehacker] [How to Score a Discount on Spotify Premium](https://lifehacker.com/how-to-score-a-discount-on-spotify-premium-1850994502)
-- [Dev.to/JS] [Henry Schein: A Broader Focus, But Is It the Best Fit?](https://dev.to/repairdental041/henry-schein-a-broader-focus-but-is-it-the-best-fit-3aa)
-- [Dev.to/JS] [Making the Choice: Why Repair.Dental Stands Above the Rest](https://dev.to/repairdental041/making-the-choice-why-repairdental-stands-above-the-rest-1d3o)
-- [Dev.to/JS] [Getting Started with Socket.io:Enhancing Real-Time Communication in Web Applications](https://dev.to/oyegoke/getting-started-with-socketioenhancing-real-time-communication-in-web-applications-4d3j)
 - [Lifehacker] [How to Build an Owl&#39;s Nest Box for Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-build-an-owls-nest-box-for-your-yard-and-why-yo-1850993028)
 - [Lifehacker] [The Differences Between the Apple Watch Ultra and Ultra 2](https://lifehacker.com/the-differences-between-the-apple-watch-ultra-and-ultra-1850990715)
 - [Lifehacker] [Fermented Cranberry Sauce Is a Revelation](https://lifehacker.com/fermented-cranberry-sauce-recipe-1850990441)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
 - [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
 - [Lifehacker] [You Can &lpar;Probably&rpar; Still Make a Killing on I Bonds](https://lifehacker.com/when-to-buy-series-i-savings-bonds-1849855295)
-- [Lifehacker] [Try These Thanksgiving Main Dish Alternatives to Break Free From Turkey Tyranny](https://lifehacker.com/the-best-thanksgiving-main-dish-alternatives-1820251130)
-- [Lifehacker] [What Is BVO, and Why Is the FDA Banning It in Drinks?](https://lifehacker.com/fda-banning-bvo-in-drinks-1850990733)
-- [Lifehacker] [Please, Air Fry Some Frico Gratin Potato Squares](https://lifehacker.com/please-air-fry-some-frico-gratin-potato-squares-1850990145)
-- [Lifehacker] [I Tried a Vintage Mail Order Bodybuilding Course and There&#39;s a Reason Nobody Does These Anymore](https://lifehacker.com/do-vintage-exercise-routines-work-1818849451)
-- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try These Thanksgiving Main Dish Alternatives to Break Free From Turkey Tyranny](https://lifehacker.com/the-best-thanksgiving-main-dish-alternatives-1820251130)<!-- TECH-POSTS:END -->
 
 ---
 
