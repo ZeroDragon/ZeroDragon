@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Measure Web Performance with Web Vitals](https://dev.to/jacobandrewsky/measure-web-performance-with-web-vitals-49oh)
+- [Dev.to/JS] [Enhancing Web Security in JavaScript: Mitigating Common Vulnerabilities](https://dev.to/outstandingvick/enhancing-web-security-in-javascript-mitigating-common-vulnerabilities-49ee)
+- [Dev.to/JS] [Understanding Javascript Call-Stack](https://dev.to/arindam_1729/understanding-javascript-call-stack-156i)
+- [Dev.to/JS] [TypeORM - remove children with orphanedRowAction](https://dev.to/mgohin/typeorm-remove-children-with-orphanedrowaction-4m7b)
+- [Crazy Programmer] [Mac vs Windows for Programming](https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html)
+- [Dev.to/JS] [Full text search with Firestore &amp; Meili search API&#39;s](https://dev.to/gautham495/full-text-search-with-firestore-meili-search-apis-26kk)
+- [Dev.to/JS] [Full text search with Firestore &amp; Meilisearch Deployment to Koyeb](https://dev.to/gautham495/full-text-search-with-firestore-meilisearch-deployment-to-koyeb-bbb)
+- [Dev.to/JS] [Meilisearch Full Text search with Firestore - Introduction](https://dev.to/gautham495/meilisearch-full-text-search-with-firestore-introduction-1k12)
+- [Dev.to/JS] [How edit This Component](https://dev.to/samsu/how-edit-this-component-ig2)
 - [Dev.to/JS] [How to Create a Tic Tac Toe Game in Javascript.](https://dev.to/snevy1/how-to-create-a-tic-tac-toe-game-in-javascript-133i)
 - [Dev.to/JS] [Publishing Google Docs to WordPress with Ease: A Guide to the &quot;Google Website Check&quot;](https://dev.to/k3shariq/publishing-google-docs-to-wordpress-with-ease-a-guide-to-the-google-website-check-3645)
 - [Dev.to/JS] [Master Angular 17 &lpar;a study guide&rpar;](https://dev.to/this-is-angular/master-angular-17-a-study-guide-1679)
 - [Dev.to/JS] [Trusted Choice for Heathrow, Gatwick, Stansted, Luton, and City Airport Transfers](https://dev.to/jackhayman/trusted-choice-for-heathrow-gatwick-stansted-luton-and-city-airport-transfers-5ap7)
-- [Dev.to/JS] [Page Object Model &lpar;POM&rpar; – With Playwright](https://dev.to/kailashpathak7/page-object-model-pom-with-playwright-566p)
-- [Dev.to/JS] [Handle Lemon Squeezy webhooks with Node.js Express](https://dev.to/vallu/handle-lemon-squeezy-webhooks-with-nodejs-express-4c3b)
-- [Dev.to/JS] [Unveiling JavaScript Tricks:[] is equal ![]?](https://dev.to/fadhilijosue/unveiling-javascript-tricks-is-equal--4di5)
-- [Dev.to/JS] [Javascript Underrated Method &quot;endsWith&lpar;&rpar;&quot;](https://dev.to/devmahfuz/javascript-underrated-method-endswith-2jm8)
-- [Dev.to/JS] [TF #22 | Your weekly frontend digest](https://dev.to/tech_foutraque/tf-22-your-weekly-frontend-digest-bkg)
-- [Dev.to/JS] [How to clone a object in JavaScript](https://dev.to/alesm0101/how-to-clone-a-object-3kpc)
-- [Dev.to/JS] [Node.js Observability Tool: Enhance Visibility Without Performance Impact](https://dev.to/mrrishimeena/nodejs-observability-tool-enhance-visibility-without-performance-impact-3mo3)
-- [Dev.to/JS] [JavaScript Variable: Declaration vs. Initialization](https://dev.to/shameel/javascript-variable-declaration-vs-initialization-4d8b)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: Take Multiple Pictures of Your Next Flat Tire So You Can Re-Use the Excuse](https://lifehacker.com/take-multiple-pictures-of-your-next-flat-tire-so-you-ca-1839500390)
 - [Lifehacker] [This 55-Inch 4K QLED TCL TV Is $400 Right Now](https://lifehacker.com/this-55-inch-4k-qled-tcl-tv-is-400-right-now-1850989986)
 - [Lifehacker] [This $230 Refurbished iPad Comes With Beats Headphones](https://lifehacker.com/this-230-refurbished-ipad-comes-with-beats-headphones-1850986626)
-- [Lifehacker] [Evil Week: What to Do If You Get Caught Shoplifting](https://lifehacker.com/know-your-rights-if-a-store-detains-you-for-shoplifting-5853355)
-- [Lifehacker] [A Lifetime Subscription to AdGuard Is $17 Right Now](https://lifehacker.com/a-lifetime-subscription-to-adguard-is-17-right-now-1850986577)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Evil Week: What to Do If You Get Caught Shoplifting](https://lifehacker.com/know-your-rights-if-a-store-detains-you-for-shoplifting-5853355)<!-- TECH-POSTS:END -->
 
 ---
 
