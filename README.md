@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
+- [Dev.to/JS] [HOW TO USE USEIMPERATIVEHANDLE HOOK IN REACT ?](https://dev.to/thejokers/how-to-use-useimperativehandle-3h4h)
+- [Dev.to/JS] [How to Call an API in JavaScript – Examples](https://dev.to/sws-5007/how-to-call-an-api-in-javascript-examples-2fh9)
 - [Dev.to/JS] [How To Write Better and Quality Code](https://dev.to/brojenuel/how-to-write-better-and-quality-code-gf7)
 - [Dev.to/JS] [Input para duração de tempo &lpar;horas acima de 24&rpar;](https://dev.to/casewinter/input-para-duracao-de-tempo-horas-acima-de-24-3813)
 - [Dev.to/JS] [I started using Qwik...](https://dev.to/nyruchi/i-started-using-qwik-1n5n)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Designing file upload endpoint in REST API](https://dev.to/rossjay/designing-file-upload-endpoint-in-rest-api-4nec)
 - [Dev.to/JS] [Fullstackopen Summary Part 1](https://dev.to/acesif/fullstackopen-summary-part-1-3bl0)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
-- [Dev.to/JS] [Mastering `is.boolean` for Type Checking in JavaScript with &#39;thiis&#39;: Fun Examples and Useful Tips](https://dev.to/karbashevskyi/mastering-isboolean-for-type-checking-in-javascript-with-thiis-fun-examples-and-useful-tips-2gf1)
-- [Dev.to/JS] [Conditional rendering in React](https://dev.to/graphqleditor/conditional-rendering-in-react-35p)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
 - [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 55-Inch 4K QLED TCL TV Is $400 Right Now](https://lifehacker.com/this-55-inch-4k-qled-tcl-tv-is-400-right-now-1850989986)
 - [Lifehacker] [This $230 Refurbished iPad Comes With Beats Headphones](https://lifehacker.com/this-230-refurbished-ipad-comes-with-beats-headphones-1850986626)
 - [Lifehacker] [Evil Week: What to Do If You Get Caught Shoplifting](https://lifehacker.com/know-your-rights-if-a-store-detains-you-for-shoplifting-5853355)
-- [Lifehacker] [A Lifetime Subscription to AdGuard Is $17 Right Now](https://lifehacker.com/a-lifetime-subscription-to-adguard-is-17-right-now-1850986577)
-- [Lifehacker] [Evil Week: Give These Gifts to the Kids of Parents You Hate](https://lifehacker.com/10-gifts-to-give-to-the-kids-of-parents-you-hate-1819809665)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Lifetime Subscription to AdGuard Is $17 Right Now](https://lifehacker.com/a-lifetime-subscription-to-adguard-is-17-right-now-1850986577)<!-- TECH-POSTS:END -->
 
 ---
 
