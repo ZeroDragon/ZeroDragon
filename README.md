@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding Quill Module into ReactQuill in React App TS](https://dev.to/nofikoff/adding-quill-module-into-reactquill-in-react-app-ts-2hgh)
+- [Dev.to/JS] [Capture IP address using Bun with ElysiaJS, Docker and Render.com](https://dev.to/reeshee/capture-ip-address-using-bun-with-elysiajs-docker-and-rendercom-506)
+- [Dev.to/JS] [Unveiling Excellence in Dental Equipment Repair &amp; Maintenance: A Comparative Analysis of Repair.Dental and Sinclair Dental](https://dev.to/repairdental041/unveiling-excellence-in-dental-equipment-repair-maintenance-a-comparative-analysis-of-repairdental-and-sinclair-dental-308h)
+- [Lifehacker] [What If You Serve Fish on Thanksgiving Instead?](https://lifehacker.com/thanksgiving-fish-seafood-recipes-1850994120)
+- [Dev.to/JS] [Build your first chrome extension &lpar;Part 1&rpar;](https://dev.to/djibrilm/build-your-first-chrome-extension-part-1-1h80)
+- [Lifehacker] [Use the CODE Method to Manage Your Digital Hoarding](https://lifehacker.com/use-the-code-method-to-manage-your-digital-hoarding-1850994152)
 - [Dev.to/JS] [Build your first chrome extension &lpar;Part 2&rpar;](https://dev.to/djibrilm/build-your-first-chrome-extension-part-2-1gli)
 - [Lifehacker] [How Your Grill Can Help You Survive Thanksgiving](https://lifehacker.com/how-your-grill-can-help-you-survive-thanksgiving-1850994197)
 - [Dev.to/JS] [Paracetamol.js💊| #218: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-217-explica-este-codigo-javascript-4fp1)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Henry Schein: A Broader Focus, But Is It the Best Fit?](https://dev.to/repairdental041/henry-schein-a-broader-focus-but-is-it-the-best-fit-3aa)
 - [Dev.to/JS] [Making the Choice: Why Repair.Dental Stands Above the Rest](https://dev.to/repairdental041/making-the-choice-why-repairdental-stands-above-the-rest-1d3o)
 - [Dev.to/JS] [Getting Started with Socket.io:Enhancing Real-Time Communication in Web Applications](https://dev.to/oyegoke/getting-started-with-socketioenhancing-real-time-communication-in-web-applications-4d3j)
-- [Dev.to/JS] [Day 82: Service Worker](https://dev.to/dhrn/day-82-service-worker-67d)
 - [Lifehacker] [How to Build an Owl&#39;s Nest Box for Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-build-an-owls-nest-box-for-your-yard-and-why-yo-1850993028)
-- [Dev.to/JS] [How to create a &#39;canary&#39; release on npm](https://dev.to/charlesloder/how-to-create-a-canary-release-on-npm-2dom)
-- [Dev.to/JS] [Svelte Flow – a library for rendering interactive node-based UIs](https://dev.to/johnrobbjr/svelte-flow-a-library-for-rendering-interactive-node-based-uis-22d2)
 - [Lifehacker] [The Differences Between the Apple Watch Ultra and Ultra 2](https://lifehacker.com/the-differences-between-the-apple-watch-ultra-and-ultra-1850990715)
-- [Dev.to/JS] [Pangram validator in one line](https://dev.to/codepo8/pangram-validator-in-one-line-59e9)
 - [Lifehacker] [Fermented Cranberry Sauce Is a Revelation](https://lifehacker.com/fermented-cranberry-sauce-recipe-1850990441)
 - [Lifehacker] [How to Take a Screenshot on a Chromebook](https://lifehacker.com/how-to-take-a-screenshot-on-a-chromebook-1850990003)
 - [Crazy Programmer] [Mac vs Windows for Programming](https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is BVO, and Why Is the FDA Banning It in Drinks?](https://lifehacker.com/fda-banning-bvo-in-drinks-1850990733)
 - [Lifehacker] [Please, Air Fry Some Frico Gratin Potato Squares](https://lifehacker.com/please-air-fry-some-frico-gratin-potato-squares-1850990145)
 - [Lifehacker] [I Tried a Vintage Mail Order Bodybuilding Course and There&#39;s a Reason Nobody Does These Anymore](https://lifehacker.com/do-vintage-exercise-routines-work-1818849451)
-- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
-- [Lifehacker] [These Night-Vision Binoculars Are on Sale for $80](https://lifehacker.com/these-night-vision-binoculars-are-on-sale-for-80-1850986770)
-- [Lifehacker] [How to Get Rid of PMI As Soon As Possible](https://lifehacker.com/how-to-get-rid-of-pmi-as-soon-as-possible-1850990113)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)<!-- TECH-POSTS:END -->
 
 ---
 
