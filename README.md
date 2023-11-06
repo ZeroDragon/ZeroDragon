@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Can&#39;t override default mat-step-header tabindex behavior](https://dev.to/smoothiesrock/cant-override-default-mat-step-header-tabindex-behavior-4of0)
+- [Lifehacker] [Use the ‘REAP’ Method to Study Brand New Information](https://lifehacker.com/use-the-reap-method-for-studying-new-information-1850995271)
+- [Dev.to/JS] [Currency to number transformation in JavaScript](https://dev.to/mateus4k/simplify-currency-to-number-transformation-in-javascript-4ml4)
+- [Lifehacker] [How to Clean When You Feel Overwhelmed](https://lifehacker.com/7-of-the-best-cleaning-methods-when-you-feel-overwhelme-1850029414)
+- [Lifehacker] [This Smart Digital Ruler Is $115 Right Now](https://lifehacker.com/this-smart-digital-ruler-is-115-right-now-1850986817)
 - [Dev.to/JS] [Intern2Grow: Virtual Internships, Real Tasks](https://dev.to/ahmed0saber/intern2grow-virtual-internships-real-tasks-326n)
 - [Lifehacker] [When to See the Northern Lights From the Continental U.S. This Week](https://lifehacker.com/when-to-see-the-northern-lights-from-the-continental-u-1850996264)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
 - [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
-- [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)
-- [Lifehacker] [The Difference Between Renovating and Remodeling](https://lifehacker.com/the-difference-between-renovating-and-remodeling-1850992153)
-- [Lifehacker] [Avoid Using These Rude Phrases &lpar;And What to Say Instead&rpar;](https://lifehacker.com/avoid-using-these-rude-phrases-and-what-to-say-instead-1850992156)
-- [Lifehacker] [Take Advantage of Amtrak&#39;s New Fares to Book Your Holiday Travel](https://lifehacker.com/take-advantage-of-amtraks-new-fares-to-book-your-holida-1850992100)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)<!-- TECH-POSTS:END -->
 
 ---
 
