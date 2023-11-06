@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Smart Data Table in React](https://dev.to/mescius/building-a-smart-data-table-in-react-1m3p)
+- [Dev.to/JS] [Tables SUCK and this is WHY](https://dev.to/justoptimize/tables-suck-and-this-is-why-4cje)
+- [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
+- [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)
 - [Lifehacker] [Use the ‘REAP’ Method to Study Brand New Information](https://lifehacker.com/use-the-reap-method-for-studying-new-information-1850995271)
 - [Dev.to/JS] [Currency to number transformation in JavaScript](https://dev.to/mateus4k/simplify-currency-to-number-transformation-in-javascript-4ml4)
 - [Lifehacker] [How to Clean When You Feel Overwhelmed](https://lifehacker.com/7-of-the-best-cleaning-methods-when-you-feel-overwhelme-1850029414)
@@ -37,6 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s the Difference Between a Modem and a Router](https://lifehacker.com/here-s-the-difference-between-a-modem-and-a-router-1850995716)
 - [Dev.to/JS] [Understanding &quot;use strict&quot; in TypeScript](https://dev.to/avwerosuoghene/understanding-use-strict-in-typescript-2dh)
 - [Lifehacker] [When &lpar;and How&rpar; to Paint Your Vinyl Siding](https://lifehacker.com/when-and-how-to-paint-your-vinyl-siding-1850995472)
+- [Lifehacker] [You Can Polish Chrome Fixtures With Baby Oil](https://lifehacker.com/macgyver-tip-polish-chrome-with-baby-oil-247098)
 - [Lifehacker] [Make Mushroom Garum Today and Use It on Everything This Thanksgiving](https://lifehacker.com/mushroom-garum-recipe-1850994225)
 - [Dev.to/JS] [Using the keyboard on Murdle cards](https://dev.to/nicm42/using-the-keyboard-on-murdle-cards-3ikd)
 - [Lifehacker] [This Miso-Roasted Cabbage Will Be the Surprise Hit of Your Thanksgiving](https://lifehacker.com/this-miso-roasted-cabbage-recipe-makes-the-perfect-than-1850994078)
@@ -47,9 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I wrote my own version of the Qwik documentation](https://dev.to/nandinishinduja/i-wrote-my-own-version-of-the-qwik-documentation-58p5)
 - [Dev.to/JS] [Hello All Developer](https://dev.to/jasgiigli/hello-all-developer-3nni)
 - [Lifehacker] [Furniture and Home Goods Are up to 70% off During Wayfair’s Early Black Friday Sale](https://lifehacker.com/furniture-and-home-goods-are-up-to-70-off-during-wayfa-1850991886)
-- [Dev.to/JS] [A Quick Look at the JavaScript bind&lpar;&rpar; Method: Understand the bind&lpar;&rpar; Method in JavaScript](https://dev.to/rhieger/a-quick-look-at-the-javascript-bind-method-understand-the-bind-method-in-javascript-7hh)
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
-- [Dev.to/JS] [polyfill - PROMISE](https://dev.to/zeeshanali0704/polyfill-promise-2ebj)
 - [Lifehacker] [Tyson Recalls These Dino Chicken Nuggets That May Contain Metal Pieces](https://lifehacker.com/tyson-recalls-these-dino-chicken-nuggets-that-may-conta-1850994941)
 - [Lifehacker] [What If You Serve Fish on Thanksgiving Instead?](https://lifehacker.com/thanksgiving-fish-seafood-recipes-1850994120)
 - [Lifehacker] [Use the CODE Method to Manage Your Digital Hoarding](https://lifehacker.com/use-the-code-method-to-manage-your-digital-hoarding-1850994152)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Mac vs Windows for Programming](https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
-- [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
-- [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
-- [Lifehacker] [The Real History of Daylight Saving Time](https://lifehacker.com/the-real-history-of-daylight-saving-time-1823611526)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)<!-- TECH-POSTS:END -->
 
 ---
 
