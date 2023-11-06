@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using the keyboard on Murdle cards](https://dev.to/nicm42/using-the-keyboard-on-murdle-cards-3ikd)
+- [Lifehacker] [This Miso-Roasted Cabbage Will Be the Surprise Hit of Your Thanksgiving](https://lifehacker.com/this-miso-roasted-cabbage-recipe-makes-the-perfect-than-1850994078)
+- [Dev.to/JS] [Level up your JavaScript debugging skills with these console APIs](https://dev.to/roopkumar/level-up-your-javascript-debugging-skills-with-these-console-apis-14c3)
+- [Dev.to/JS] [A Quick Introduction to CSS container queries](https://dev.to/shreenidhibatavi/a-quick-introduction-to-css-container-queries-45o0)
+- [Dev.to/JS] [How to automate an image-based captcha solution in JavaScript](https://dev.to/dzmitry/how-to-automate-an-image-based-captcha-solution-in-javascript-5925)
 - [Lifehacker] [Use the ‘Must, Should, Want’ Method to Prioritize Your To-Do List](https://lifehacker.com/use-the-must-should-want-method-to-prioritize-your-1850995165)
 - [Dev.to/JS] [I wrote my own version of the Qwik documentation](https://dev.to/nandinishinduja/i-wrote-my-own-version-of-the-qwik-documentation-58p5)
 - [Dev.to/JS] [Hello All Developer](https://dev.to/jasgiigli/hello-all-developer-3nni)
@@ -39,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Capture IP address using Bun with ElysiaJS, Docker and Render.com](https://dev.to/reeshee/capture-ip-address-using-bun-with-elysiajs-docker-and-rendercom-506)
 - [Dev.to/JS] [Unveiling Excellence in Dental Equipment Repair &amp; Maintenance: A Comparative Analysis of Repair.Dental and Sinclair Dental](https://dev.to/repairdental041/unveiling-excellence-in-dental-equipment-repair-maintenance-a-comparative-analysis-of-repairdental-and-sinclair-dental-308h)
 - [Lifehacker] [What If You Serve Fish on Thanksgiving Instead?](https://lifehacker.com/thanksgiving-fish-seafood-recipes-1850994120)
-- [Dev.to/JS] [Build your first chrome extension &lpar;Part 1&rpar;](https://dev.to/djibrilm/build-your-first-chrome-extension-part-1-1h80)
 - [Lifehacker] [Use the CODE Method to Manage Your Digital Hoarding](https://lifehacker.com/use-the-code-method-to-manage-your-digital-hoarding-1850994152)
-- [Dev.to/JS] [Build your first chrome extension &lpar;Part 2&rpar;](https://dev.to/djibrilm/build-your-first-chrome-extension-part-2-1gli)
 - [Lifehacker] [How Your Grill Can Help You Survive Thanksgiving](https://lifehacker.com/how-your-grill-can-help-you-survive-thanksgiving-1850994197)
-- [Dev.to/JS] [Paracetamol.js💊| #218: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-217-explica-este-codigo-javascript-4fp1)
-- [Dev.to/JS] [Moonly weekly progress update #67 - Staking V2](https://dev.to/moonly/moonly-weekly-progress-update-67-staking-v2-2kfn)
 - [Lifehacker] [How to Score a Discount on Spotify Premium](https://lifehacker.com/how-to-score-a-discount-on-spotify-premium-1850994502)
 - [Lifehacker] [How to Build an Owl&#39;s Nest Box for Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-build-an-owls-nest-box-for-your-yard-and-why-yo-1850993028)
 - [Lifehacker] [The Differences Between the Apple Watch Ultra and Ultra 2](https://lifehacker.com/the-differences-between-the-apple-watch-ultra-and-ultra-1850990715)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
 - [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
 - [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
-- [Lifehacker] [You Can &lpar;Probably&rpar; Still Make a Killing on I Bonds](https://lifehacker.com/when-to-buy-series-i-savings-bonds-1849855295)
-- [Lifehacker] [Try These Thanksgiving Main Dish Alternatives to Break Free From Turkey Tyranny](https://lifehacker.com/the-best-thanksgiving-main-dish-alternatives-1820251130)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can &lpar;Probably&rpar; Still Make a Killing on I Bonds](https://lifehacker.com/when-to-buy-series-i-savings-bonds-1849855295)<!-- TECH-POSTS:END -->
 
 ---
 
