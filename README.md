@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding &quot;use strict&quot; in TypeScript](https://dev.to/avwerosuoghene/understanding-use-strict-in-typescript-2dh)
+- [Lifehacker] [When &lpar;and How&rpar; to Paint Your Vinyl Siding](https://lifehacker.com/when-and-how-to-paint-your-vinyl-siding-1850995472)
+- [Lifehacker] [Make Mushroom Garum Today and Use It on Everything This Thanksgiving](https://lifehacker.com/mushroom-garum-recipe-1850994225)
 - [Dev.to/JS] [Using the keyboard on Murdle cards](https://dev.to/nicm42/using-the-keyboard-on-murdle-cards-3ikd)
 - [Lifehacker] [This Miso-Roasted Cabbage Will Be the Surprise Hit of Your Thanksgiving](https://lifehacker.com/this-miso-roasted-cabbage-recipe-makes-the-perfect-than-1850994078)
 - [Dev.to/JS] [Level up your JavaScript debugging skills with these console APIs](https://dev.to/roopkumar/level-up-your-javascript-debugging-skills-with-these-console-apis-14c3)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tyson Recalls These Dino Chicken Nuggets That May Contain Metal Pieces](https://lifehacker.com/tyson-recalls-these-dino-chicken-nuggets-that-may-conta-1850994941)
 - [Dev.to/JS] [Adding Quill Module into ReactQuill in React App TS](https://dev.to/nofikoff/adding-quill-module-into-reactquill-in-react-app-ts-2hgh)
 - [Dev.to/JS] [Capture IP address using Bun with ElysiaJS, Docker and Render.com](https://dev.to/reeshee/capture-ip-address-using-bun-with-elysiajs-docker-and-rendercom-506)
-- [Dev.to/JS] [Unveiling Excellence in Dental Equipment Repair &amp; Maintenance: A Comparative Analysis of Repair.Dental and Sinclair Dental](https://dev.to/repairdental041/unveiling-excellence-in-dental-equipment-repair-maintenance-a-comparative-analysis-of-repairdental-and-sinclair-dental-308h)
 - [Lifehacker] [What If You Serve Fish on Thanksgiving Instead?](https://lifehacker.com/thanksgiving-fish-seafood-recipes-1850994120)
 - [Lifehacker] [Use the CODE Method to Manage Your Digital Hoarding](https://lifehacker.com/use-the-code-method-to-manage-your-digital-hoarding-1850994152)
 - [Lifehacker] [How Your Grill Can Help You Survive Thanksgiving](https://lifehacker.com/how-your-grill-can-help-you-survive-thanksgiving-1850994197)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Take Advantage of Amtrak&#39;s New Fares to Book Your Holiday Travel](https://lifehacker.com/take-advantage-of-amtraks-new-fares-to-book-your-holida-1850992100)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 4, 2023](https://lifehacker.com/nyt-connections-answer-today-november-4-2023-1850985233)
 - [Lifehacker] [Evil Week: How to Watch Free Movies and TV With a VPN](https://lifehacker.com/evil-week-how-to-watch-free-movies-and-tv-with-a-vpn-1850991427)
-- [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)
-- [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
-- [Lifehacker] [You Can &lpar;Probably&rpar; Still Make a Killing on I Bonds](https://lifehacker.com/when-to-buy-series-i-savings-bonds-1849855295)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Meredith’s Training Diaries: How to Be the Most Supportive Spectator at a Marathon](https://lifehacker.com/how-to-be-the-most-supportive-spectator-at-a-marathon-1850985012)<!-- TECH-POSTS:END -->
 
 ---
 
