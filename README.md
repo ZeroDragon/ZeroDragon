@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Henry Schein: A Broader Focus, But Is It the Best Fit?](https://dev.to/repairdental041/henry-schein-a-broader-focus-but-is-it-the-best-fit-3aa)
+- [Dev.to/JS] [Making the Choice: Why Repair.Dental Stands Above the Rest](https://dev.to/repairdental041/making-the-choice-why-repairdental-stands-above-the-rest-1d3o)
+- [Dev.to/JS] [Getting Started with Socket.io:Enhancing Real-Time Communication in Web Applications](https://dev.to/oyegoke/getting-started-with-socketioenhancing-real-time-communication-in-web-applications-4d3j)
+- [Dev.to/JS] [Day 82: Service Worker](https://dev.to/dhrn/day-82-service-worker-67d)
+- [Lifehacker] [How to Build an Owl&#39;s Nest Box for Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-build-an-owls-nest-box-for-your-yard-and-why-yo-1850993028)
+- [Dev.to/JS] [How to create a &#39;canary&#39; release on npm](https://dev.to/charlesloder/how-to-create-a-canary-release-on-npm-2dom)
+- [Dev.to/JS] [Svelte Flow – a library for rendering interactive node-based UIs](https://dev.to/johnrobbjr/svelte-flow-a-library-for-rendering-interactive-node-based-uis-22d2)
+- [Lifehacker] [The Differences Between the Apple Watch Ultra and Ultra 2](https://lifehacker.com/the-differences-between-the-apple-watch-ultra-and-ultra-1850990715)
 - [Dev.to/JS] [Pangram validator in one line](https://dev.to/codepo8/pangram-validator-in-one-line-59e9)
 - [Dev.to/JS] [How to Write More Exceptional Code](https://dev.to/rajeshnatarajan/how-to-write-more-exceptional-code-1pj2)
 - [Lifehacker] [Fermented Cranberry Sauce Is a Revelation](https://lifehacker.com/fermented-cranberry-sauce-recipe-1850990441)
@@ -34,13 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Take a Screenshot on a Chromebook](https://lifehacker.com/how-to-take-a-screenshot-on-a-chromebook-1850990003)
 - [Dev.to/JS] [Differences between Nginx and Nod](https://dev.to/sparkouttech/differences-between-nginx-and-nod-5kh)
 - [Dev.to/JS] [🔥 Top 11 Open Source Innovators Who Shaped the Developer World as We Live Today 🔭🔭](https://dev.to/shreya_gr/top-11-open-source-innovators-who-shaped-the-developer-world-as-we-live-today-j0b)
-- [Dev.to/JS] [Save Time and Stay Informed: 9 Must-Know Updates in NextJS v14 🔥](https://dev.to/usulpro/save-time-and-stay-informed-9-must-know-updates-in-nextjs-v14-5fnp)
-- [Dev.to/JS] [Measure Web Performance with Web Vitals](https://dev.to/jacobandrewsky/measure-web-performance-with-web-vitals-49oh)
-- [Dev.to/JS] [Enhancing Web Security in JavaScript: Mitigating Common Vulnerabilities](https://dev.to/outstandingvick/enhancing-web-security-in-javascript-mitigating-common-vulnerabilities-49ee)
-- [Dev.to/JS] [Understanding Javascript Call-Stack](https://dev.to/arindam_1729/understanding-javascript-call-stack-156i)
-- [Dev.to/JS] [TypeORM - remove children with orphanedRowAction](https://dev.to/mgohin/typeorm-remove-children-with-orphanedrowaction-4m7b)
 - [Crazy Programmer] [Mac vs Windows for Programming](https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html)
-- [Dev.to/JS] [Full text search with Firestore &amp; Meili search API&#39;s](https://dev.to/gautham495/full-text-search-with-firestore-meili-search-apis-26kk)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $80](https://lifehacker.com/these-night-vision-binoculars-are-on-sale-for-80-1850986770)
 - [Lifehacker] [How to Get Rid of PMI As Soon As Possible](https://lifehacker.com/how-to-get-rid-of-pmi-as-soon-as-possible-1850990113)
 - [Lifehacker] [&#39;Don&#39;t Break the Chain&#39; to Build a New Habit](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
-- [Lifehacker] [Use the &#39;Agile Results&#39; System to Achieve Short- and Long-Term Goals](https://lifehacker.com/use-the-agile-results-system-to-achieve-short-and-long-1850990095)
-- [Lifehacker] [Evil Week: Take Multiple Pictures of Your Next Flat Tire So You Can Re-Use the Excuse](https://lifehacker.com/take-multiple-pictures-of-your-next-flat-tire-so-you-ca-1839500390)
-- [Lifehacker] [This 55-Inch 4K QLED TCL TV Is $400 Right Now](https://lifehacker.com/this-55-inch-4k-qled-tcl-tv-is-400-right-now-1850989986)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the &#39;Agile Results&#39; System to Achieve Short- and Long-Term Goals](https://lifehacker.com/use-the-agile-results-system-to-achieve-short-and-long-1850990095)<!-- TECH-POSTS:END -->
 
 ---
 
