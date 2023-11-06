@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Save a Node.js Script](https://dev.to/me_janki/how-to-save-a-nodejs-script-5em1)
+- [Dev.to/JS] [HTML CSS and JavaScript Projects For Beginners](https://dev.to/onlineittutstutorials/html-css-and-javascript-projects-for-beginners-30g7)
+- [Dev.to/JS] [Web Scraping a Dynamic Website Using Puppeteer and Node.js](https://dev.to/serpapi/web-scraping-a-dynamic-website-using-puppeteer-and-nodejs-1p0)
+- [Dev.to/JS] [A Complete Guide to Obtaining Your K-Electric Duplicate Bill Online](https://dev.to/abbas432/a-complete-guide-to-obtaining-your-k-electric-duplicate-bill-online-5gn2)
 - [Dev.to/JS] [Exploring JS Frameworks with Component Party](https://dev.to/giuliano1993/exploring-js-frameworks-with-component-party-10dk)
 - [Dev.to/JS] [Meme November: Day - 6](https://dev.to/jon_snow789/meme-november-day-6-2e65)
 - [Dev.to/JS] [IDURAR Open Source Code Alternative to SalesForce 🎉Got 2000 Stars on GitHub 🌟](https://dev.to/idurar/idurar-open-source-code-alternative-to-salesforce-got-2000-stars-on-github-26o9)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Call an API in JavaScript – Examples](https://dev.to/sws-5007/how-to-call-an-api-in-javascript-examples-2fh9)
 - [Dev.to/JS] [How To Write Better and Quality Code](https://dev.to/brojenuel/how-to-write-better-and-quality-code-gf7)
 - [Dev.to/JS] [Input para duração de tempo &lpar;horas acima de 24&rpar;](https://dev.to/casewinter/input-para-duracao-de-tempo-horas-acima-de-24-3813)
-- [Dev.to/JS] [I started using Qwik...](https://dev.to/nyruchi/i-started-using-qwik-1n5n)
-- [Dev.to/JS] [Command-based undo for JS apps](https://dev.to/npbee/command-based-undo-for-js-apps-34d6)
-- [Dev.to/JS] [Tuto: Create tabs in Svelte](https://dev.to/barim/tuto-create-tabs-in-svelte-n82)
-- [Dev.to/JS] [How to Control Strict Mode](https://dev.to/wolframkriesing/how-to-control-strict-mode-4i82)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
 - [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
