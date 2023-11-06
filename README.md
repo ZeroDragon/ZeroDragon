@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [IDURAR Open Source Code Alternative to SalesForce 🎉Got 2000 Stars on GitHub 🌟](https://dev.to/idurar/idurar-open-source-code-alternative-to-salesforce-got-2000-stars-on-github-26o9)
+- [Dev.to/JS] [Detecting and Adapting to Device Types in React with Custom Hooks through matchMedia api](https://dev.to/kamesh_dev/detecting-and-adapting-to-device-types-in-react-with-custom-hooks-through-matchmedia-api-3eih)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
 - [Dev.to/JS] [HOW TO USE USEIMPERATIVEHANDLE HOOK IN REACT ?](https://dev.to/thejokers/how-to-use-useimperativehandle-3h4h)
 - [Dev.to/JS] [How to Call an API in JavaScript – Examples](https://dev.to/sws-5007/how-to-call-an-api-in-javascript-examples-2fh9)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Control Strict Mode](https://dev.to/wolframkriesing/how-to-control-strict-mode-4i82)
 - [Dev.to/JS] [Virtual Scrolling in React: Implementation from scratch and using react-window](https://dev.to/imvedanshmehra/virtual-scrolling-in-react-implementation-from-scratch-and-using-react-window-336o)
 - [Dev.to/JS] [VidPalAI: Revolutionizing Video Content with ChatGPT 4.0](https://dev.to/william23/vidpalai-revolutionizing-video-content-with-chatgpt-40-1dbh)
-- [Dev.to/JS] [Designing file upload endpoint in REST API](https://dev.to/rossjay/designing-file-upload-endpoint-in-rest-api-4nec)
-- [Dev.to/JS] [Fullstackopen Summary Part 1](https://dev.to/acesif/fullstackopen-summary-part-1-3bl0)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
 - [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
