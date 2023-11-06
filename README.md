@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Underrated Method &quot;endsWith&lpar;&rpar;&quot;](https://dev.to/devmahfuz/javascript-underrated-method-endswith-2jm8)
+- [Dev.to/JS] [TF #22 | Your weekly frontend digest](https://dev.to/tech_foutraque/tf-22-your-weekly-frontend-digest-bkg)
+- [Dev.to/JS] [How to clone a object](https://dev.to/alesm0101/how-to-clone-a-object-3kpc)
+- [Dev.to/JS] [Node.js Observability Tool: Enhance Visibility Without Performance Impact](https://dev.to/mrrishimeena/nodejs-observability-tool-enhance-visibility-without-performance-impact-3mo3)
+- [Dev.to/JS] [JavaScript Variable: Declaration vs. Initialization](https://dev.to/shameel/javascript-variable-declaration-vs-initialization-4d8b)
 - [Dev.to/JS] [Mastering Java: Java Courses and Java Static Class](https://dev.to/veronicajoseph/mastering-java-java-courses-and-java-static-class-5beg)
 - [Dev.to/JS] [A new way to implement form submission](https://dev.to/coderhu/a-new-way-to-implement-form-submission-1gk0)
 - [Dev.to/JS] [How to Build a Document Scanning Component with LitElement](https://dev.to/xulihang/how-to-build-a-document-scanning-component-with-litelement-oo1)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript topics for learning react](https://dev.to/rowsanali/javascript-topics-for-learning-react-2ao6)
 - [Dev.to/JS] [Episode 23/44: effect&lpar;&rpar; in developer preview, local change detection with Signals](https://dev.to/this-is-angular/episode-2344-effect-in-developer-preview-local-change-detection-with-signals-ecm)
 - [Dev.to/JS] [Better Use pNPM](https://dev.to/dmnchzl/better-use-pnpm-445m)
-- [Dev.to/JS] [A Simple Guide to Making a Custom React Hook](https://dev.to/yashnirmal/a-simple-guide-to-making-a-custom-react-hook-f31)
-- [Dev.to/JS] [Tricksters of JavaScript](https://dev.to/tanmaycode/tricksters-of-javascript-6b)
-- [Dev.to/JS] [How to Save a Node.js Script](https://dev.to/me_janki/how-to-save-a-nodejs-script-5em1)
-- [Dev.to/JS] [HTML CSS and JavaScript Projects For Beginners](https://dev.to/onlineittutstutorials/html-css-and-javascript-projects-for-beginners-30g7)
-- [Dev.to/JS] [Web Scraping a Dynamic Website Using Puppeteer and Node.js](https://dev.to/serpapi/web-scraping-a-dynamic-website-using-puppeteer-and-nodejs-1p0)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
