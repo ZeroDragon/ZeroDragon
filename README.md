@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Write Better and Quality Code](https://dev.to/brojenuel/how-to-write-better-and-quality-code-gf7)
+- [Dev.to/JS] [Input para duração de tempo &lpar;horas acima de 24&rpar;](https://dev.to/casewinter/input-para-duracao-de-tempo-horas-acima-de-24-3813)
 - [Dev.to/JS] [I started using Qwik...](https://dev.to/nyruchi/i-started-using-qwik-1n5n)
 - [Dev.to/JS] [Command-based undo for JS apps](https://dev.to/npbee/command-based-undo-for-js-apps-34d6)
 - [Dev.to/JS] [Tuto: Create tabs in Svelte](https://dev.to/barim/tuto-create-tabs-in-svelte-n82)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)
 - [Dev.to/JS] [Mastering `is.boolean` for Type Checking in JavaScript with &#39;thiis&#39;: Fun Examples and Useful Tips](https://dev.to/karbashevskyi/mastering-isboolean-for-type-checking-in-javascript-with-thiis-fun-examples-and-useful-tips-2gf1)
 - [Dev.to/JS] [Conditional rendering in React](https://dev.to/graphqleditor/conditional-rendering-in-react-35p)
-- [Dev.to/JS] [How do you define your points [x,y],{x,y}, x, y?](https://dev.to/slobodan4nista/how-do-you-define-your-points-xy-x-y-5c16)
-- [Dev.to/JS] [Meme November: Day - 5](https://dev.to/jon_snow789/meme-november-day-5-1h56)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
 - [Lifehacker] [How to Become More Curious &lpar;And Why You Should&rpar;](https://lifehacker.com/how-to-become-more-curious-and-why-you-should-1850992666)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 5, 2023](https://lifehacker.com/nyt-connections-answer-today-november-5-2023-1850989670)
