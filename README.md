@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Functions - Basic Example With Parameters](https://dev.to/ashehub/js-functions-basic-example-with-parameters-1hia)
+- [Dev.to/JS] [IS JAVASCRIPT SYNCHRONOUS OR ASYNCHRONOUS ????](https://dev.to/joshik27/is-javascript-synchronous-or-asynchronous--4b15)
+- [Lifehacker] [Yes, You Can Have Too Much Money in a Savings Account](https://lifehacker.com/yes-you-can-have-too-much-money-in-a-savings-account-1850999287)
+- [Dev.to/JS] [How to use CDN links wisely](https://dev.to/kreativ-anders/how-to-use-cdn-links-wisely-3k23)
+- [Dev.to/JS] [Splitting Your Code With CodePen](https://dev.to/ashehub/splitting-your-code-with-codepen-3m28)
+- [Dev.to/JS] [Python vs JavaScript](https://dev.to/flaniyanjr/python-vs-javascript-35jn)
 - [Lifehacker] [Two Ways to Use the &#39;Blurting&#39; Method to Study](https://lifehacker.com/two-ways-to-use-the-blurting-method-to-study-1850999140)
 - [Dev.to/JS] [HD Streamz Download](https://dev.to/imranlar5/hd-streamz-download-5111)
 - [Lifehacker] [Everything at Noxgear Is 50% Off Right Now](https://lifehacker.com/everything-at-noxgear-is-50-off-right-now-1850998913)
@@ -37,14 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This AI Resume Builder Is $33 Right Now](https://lifehacker.com/this-ai-resume-builder-is-33-right-now-1850991002)
 - [Lifehacker] [Why You Need to Stop Using LinkedIn’s Template to Message Recruiters](https://lifehacker.com/why-you-need-to-stop-using-linkedin-s-template-to-messa-1850993125)
 - [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
+- [Dev.to/JS] [5 Open-Source Projects That Will Elevate Your Coding Game in 2024](https://dev.to/alexopensource/5-open-source-projects-that-will-elevate-your-coding-game-in-2024-gfb)
 - [Dev.to/JS] [Introducing pkg-size.dev](https://dev.to/privatenumber/introducing-pkg-sizedev-2hlf)
-- [Dev.to/JS] [JavaScript Symbol Veri Türü](https://dev.to/eminaltan/javascript-symbol-veri-turu-ip2)
 - [Lifehacker] [How to Clear the Cache on Your iPhone](https://lifehacker.com/how-to-clear-the-cache-on-your-iphone-1850998050)
-- [Dev.to/JS] [Le mot-clé this en JavaScript](https://dev.to/kureru/le-mot-cle-this-en-javascript-38ji)
-- [Dev.to/JS] [11 JavaScript Tricks You Probably Didn&#39;t Know About](https://dev.to/fadhilijosue/11-javascript-tricks-you-probably-didnt-know-about-3k3o)
-- [Dev.to/JS] [What’s new in Novu 0.21?](https://dev.to/novu/whats-new-in-novu-021-1bam)
-- [Dev.to/JS] [What’s new in Novu 0.20?](https://dev.to/novu/whats-new-in-novu-020-1kmh)
-- [Dev.to/JS] [Top Popular Apps Built With React Native](https://dev.to/imparth/top-popular-apps-built-with-react-native-4b3o)
 - [Lifehacker] [These DIY Room Dividers Can Help Break Up Your Open Floor Plan](https://lifehacker.com/these-diy-room-dividers-can-help-break-up-your-open-flo-1850997451)
 - [Lifehacker] [Four Ways to Uninstall Apps on Android](https://lifehacker.com/how-to-uninstall-apps-on-android-1850996319)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Furniture and Home Goods Are up to 70% Off During Wayfair’s Early Black Friday Sale](https://lifehacker.com/furniture-and-home-goods-are-up-to-70-off-during-wayfa-1850991886)
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
 - [Lifehacker] [Tyson Recalls These Dino Chicken Nuggets That May Contain Metal Pieces](https://lifehacker.com/tyson-recalls-these-dino-chicken-nuggets-that-may-conta-1850994941)
-- [Lifehacker] [What If You Serve Fish on Thanksgiving Instead?](https://lifehacker.com/thanksgiving-fish-seafood-recipes-1850994120)
-- [Lifehacker] [Use the CODE Method to Manage Your Digital Hoarding](https://lifehacker.com/use-the-code-method-to-manage-your-digital-hoarding-1850994152)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What If You Serve Fish on Thanksgiving Instead?](https://lifehacker.com/thanksgiving-fish-seafood-recipes-1850994120)<!-- TECH-POSTS:END -->
 
 ---
 
