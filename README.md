@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking the Code: A Beginner&#39;s Guide to Getting Started with Programming](https://dev.to/kenferio/unlocking-the-code-a-beginners-guide-to-getting-started-with-programming-4okd)
+- [Dev.to/JS] [Competitive Advantage in a Commoditized Industry](https://dev.to/spwebdevs012/competitive-advantage-in-a-commoditized-industry-1086)
 - [Dev.to/JS] [E-Commerce Website &lpar;Basic&rpar;](https://dev.to/spwebdevs012/e-commerce-website-basic-4f3b)
 - [Dev.to/JS] [Full text search with Firestore &amp; Meili search - Implementing Full text search function in React Native app](https://dev.to/gautham495/full-text-search-with-firestore-meili-search-implementing-full-text-search-function-in-react-native-app-36bk)
 - [Dev.to/JS] [Full text search with Firestore &amp; Melli search - Implementing Full text search with MeiliSearch in React/Next JS](https://dev.to/gautham495/full-text-search-with-firestore-melli-search-implementing-full-text-search-with-meilisearch-in-reactnext-js-2n42)
@@ -40,10 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
 - [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)
 - [Lifehacker] [Use the ‘REAP’ Method to Study Brand New Information](https://lifehacker.com/use-the-reap-method-for-studying-new-information-1850995271)
-- [Dev.to/JS] [Currency to number transformation in JavaScript](https://dev.to/mateus4k/simplify-currency-to-number-transformation-in-javascript-4ml4)
 - [Lifehacker] [How to Clean When You Feel Overwhelmed](https://lifehacker.com/7-of-the-best-cleaning-methods-when-you-feel-overwhelme-1850029414)
 - [Lifehacker] [This Smart Digital Ruler Is $115 Right Now](https://lifehacker.com/this-smart-digital-ruler-is-115-right-now-1850986817)
-- [Dev.to/JS] [Intern2Grow: Virtual Internships, Real Tasks](https://dev.to/ahmed0saber/intern2grow-virtual-internships-real-tasks-326n)
 - [Lifehacker] [When to See the Northern Lights From the Continental U.S. This Week](https://lifehacker.com/when-to-see-the-northern-lights-from-the-continental-u-1850996264)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [Here’s the Difference Between a Modem and a Router](https://lifehacker.com/here-s-the-difference-between-a-modem-and-a-router-1850995716)
