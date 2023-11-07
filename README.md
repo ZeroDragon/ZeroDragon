@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Develop and Deploy Fast Applications With Vite JS](https://dev.to/me_janki/how-to-develop-and-deploy-fast-applications-with-vite-js-7km)
+- [Dev.to/JS] [Rehman Enterprises - Your Destination for Luxury Handmade Rugs in the USA](https://dev.to/rugmanufacturers/rehman-enterprises-your-destination-for-luxury-handmade-rugs-in-the-usa-2oc3)
 - [Dev.to/JS] [HAVE YOU LOST ANY CRYPTO/BTC TO ANY ONLINE SERVICE? WELL, IN iBOLT CYBER HACKER, YOU HAVE FOUND REDEMPTION.](https://dev.to/ralph_zachary/have-you-lost-any-cryptobtc-to-any-online-service-well-in-ibolt-cyber-hacker-you-have-found-redemption-59gg)
 - [Dev.to/JS] [Why Learn JavaScript?](https://dev.to/annoh_karlgusta/why-learn-javascript-2825)
 - [Dev.to/JS] [Validate using regular expressions in JavaScript](https://dev.to/satishjaiswal/validate-using-regular-expressions-in-javascript-1lc9)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best free place to learn JavaScript &lpar;personally used&rpar;](https://dev.to/rowsanali/best-free-place-to-learn-javascript-personally-used-54j0)
 - [Dev.to/JS] [Pokemon Card Generator](https://dev.to/anishpuj/pokemon-card-generator-3pgm)
 - [Dev.to/JS] [Locking the Digital Doors: Understanding Web and Mobile App Security](https://dev.to/gibots/locking-the-digital-doors-understanding-web-and-mobile-app-security-5db8)
-- [Dev.to/JS] [Node Package Manager🦆🦆🦆🦆](https://dev.to/tanmaycode/node-package-manager-5ff4)
-- [Dev.to/JS] [Unraveling the Mysteries of Asynchronous JavaScript: Callbacks to Async/Await](https://dev.to/delia_code/unraveling-the-mysteries-of-asynchronous-javascript-callbacks-to-asyncawait-35be)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
 - [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
 - [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)
