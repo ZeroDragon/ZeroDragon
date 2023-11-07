@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
+- [Dev.to/JS] [How the internet works by Subair quadri](https://dev.to/mc_coast02/how-the-internet-works-by-subair-quadri-4da6)
+- [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
+- [Dev.to/JS] [JS - this second example of Events](https://dev.to/ashehub/js-this-second-example-of-events-33fk)
+- [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
+- [Lifehacker] [Here&#39;s an Early Look at Amazon&#39;s Black Friday Deals](https://lifehacker.com/heres-an-early-look-at-amazons-black-friday-deals-1851000539)
 - [Dev.to/JS] [JS Events - Change Style](https://dev.to/ashehub/js-events-change-style-58dg)
 - [Dev.to/JS] [Understanding Fetch &#39;cache&#39; with VanilaJS and Next.js](https://dev.to/lico/understanding-fetch-cache-with-vanilajs-and-nextjs-5g81)
 - [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $15 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-15-ri-1850991050)
@@ -43,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Lemon Water Doesn’t Do Anything](https://lifehacker.com/lemon-water-doesn-t-do-anything-1822932908)
 - [Lifehacker] [Freeze Your Thanksgiving Gravy Now, Add Drippings Later](https://lifehacker.com/freeze-your-thanksgiving-gravy-now-add-drippings-later-1850999490)
 - [Dev.to/JS] [JS Functions - Basic Example With Parameters](https://dev.to/ashehub/js-functions-basic-example-with-parameters-1hia)
-- [Dev.to/JS] [IS JAVASCRIPT SYNCHRONOUS OR ASYNCHRONOUS ????](https://dev.to/joshik27/is-javascript-synchronous-or-asynchronous--4b15)
 - [Lifehacker] [Yes, You Can Have Too Much Money in a Savings Account](https://lifehacker.com/yes-you-can-have-too-much-money-in-a-savings-account-1850999287)
-- [Dev.to/JS] [How to use CDN links wisely](https://dev.to/kreativ-anders/how-to-use-cdn-links-wisely-3k23)
 - [Lifehacker] [Two Ways to Use the &#39;Blurting&#39; Method to Study](https://lifehacker.com/two-ways-to-use-the-blurting-method-to-study-1850999140)
 - [Lifehacker] [Everything at Noxgear Is 50% Off Right Now](https://lifehacker.com/everything-at-noxgear-is-50-off-right-now-1850998913)
 - [Lifehacker] [The Best Way to Share Your PlayStation Screenshots](https://lifehacker.com/the-best-way-to-share-your-playstation-screenshots-1850998668)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘REAP’ Method to Study Brand New Information](https://lifehacker.com/use-the-reap-method-for-studying-new-information-1850995271)
 - [Lifehacker] [How to Clean When You Feel Overwhelmed](https://lifehacker.com/7-of-the-best-cleaning-methods-when-you-feel-overwhelme-1850029414)
 - [Lifehacker] [This Smart Digital Ruler Is $115 Right Now](https://lifehacker.com/this-smart-digital-ruler-is-115-right-now-1850986817)
-- [Lifehacker] [When to See the Northern Lights From the Continental U.S. This Week](https://lifehacker.com/when-to-see-the-northern-lights-from-the-continental-u-1850996264)
-- [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
-- [Lifehacker] [Here’s the Difference Between a Modem and a Router](https://lifehacker.com/here-s-the-difference-between-a-modem-and-a-router-1850995716)
-- [Lifehacker] [When &lpar;and How&rpar; to Paint Your Vinyl Siding](https://lifehacker.com/when-and-how-to-paint-your-vinyl-siding-1850995472)
-- [Lifehacker] [You Can Polish Chrome Fixtures With Baby Oil](https://lifehacker.com/macgyver-tip-polish-chrome-with-baby-oil-247098)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to See the Northern Lights From the Continental U.S. This Week](https://lifehacker.com/when-to-see-the-northern-lights-from-the-continental-u-1850996264)<!-- TECH-POSTS:END -->
 
 ---
 
