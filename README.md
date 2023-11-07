@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Learn JavaScript?](https://dev.to/annoh_karlgusta/why-learn-javascript-2825)
 - [Dev.to/JS] [Validate using regular expressions in JavaScript](https://dev.to/satishjaiswal/validate-using-regular-expressions-in-javascript-1lc9)
 - [Dev.to/JS] [Unveiling JavaScript Tricks: Dots and spreading well explained with examples](https://dev.to/fadhilijosue/unveiling-javascript-tricks-dots-and-spreading-well-explained-with-examples-1nh8)
 - [Dev.to/JS] [🚀 Embrace the Frontend Adventure: Your Coding Odyssey Begins Here! 🌟](https://dev.to/codsterdev/embrace-the-frontend-adventure-your-coding-odyssey-begins-here-2ei0)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node Package Manager🦆🦆🦆🦆](https://dev.to/tanmaycode/node-package-manager-5ff4)
 - [Dev.to/JS] [Unraveling the Mysteries of Asynchronous JavaScript: Callbacks to Async/Await](https://dev.to/delia_code/unraveling-the-mysteries-of-asynchronous-javascript-callbacks-to-asyncawait-35be)
 - [Dev.to/JS] [Show and Hide Password React](https://dev.to/sanketbodake/show-and-hide-password-react-3ejl)
-- [Dev.to/JS] [Convert Text to Speech in Javascript using Speech Synthesis API](https://dev.to/devsmitra/convert-text-to-speech-in-javascript-using-speech-synthesis-api-223g)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
 - [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
 - [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)
