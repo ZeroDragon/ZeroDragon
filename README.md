@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Walmart Will Have PS5 and &#39;Spider-Man 2&#39; Bundles on Sale for $499](https://lifehacker.com/walmart-will-have-ps5-and-spider-man-2-bundles-on-sale-1851000160)
+- [Dev.to/JS] [JavaScript Fonksiyonlar](https://dev.to/eminaltan/javascript-fonksiyonlar-792)
+- [Dev.to/JS] [Thinking Beyond Next.js: When Not to Use It for Your Project](https://dev.to/alexopensource/thinking-beyond-nextjs-when-not-to-use-it-for-your-project-1h8l)
+- [Lifehacker] [You Can Try These New YouTube AI Features Right Now](https://lifehacker.com/you-can-try-these-new-youtube-ai-features-right-now-1851000046)
+- [Dev.to/JS] [I wrote a function that creates a drawing animation for any logo or simple SVG Image](https://dev.to/piko/i-wrote-a-function-that-creates-a-drawing-animation-for-any-logo-or-simple-svg-image-5g1e)
+- [Dev.to/JS] [JS Events - Basic Date Example](https://dev.to/ashehub/js-events-basic-date-example-4pl6)
+- [Lifehacker] [The Best PG-13 Movies to Watch With Your Kid](https://lifehacker.com/the-best-pg-13-movies-to-watch-with-your-kid-1850999306)
+- [Dev.to/JS] [Simple Calculator using HTML, CSS and JavaScript](https://dev.to/mhyemon95/calculator-17mg)
 - [Dev.to/JS] [How I Found a Front-End Bug on Spotify&#39;s Mobile App: Bug Bounty and Beyond](https://dev.to/aswin2001barath/how-i-found-a-front-end-bug-on-spotifys-mobile-app-bug-bounty-and-beyond-2lbi)
 - [Dev.to/JS] [The 2000 line framework challenge: How to build Web Components with two-way state binding with only 1 file &lpar;and no node_modules&rpar;](https://dev.to/michaelpb/the-2000-line-framework-challenge-how-to-build-web-components-with-two-way-state-binding-with-only-1-file-and-no-nodemodules-2jmf)
 - [Lifehacker] [Make This Cheap and Easy DIY Soft Scrub](https://lifehacker.com/homemade-soft-scrub-recipe-1850999667)
@@ -38,13 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Splitting Your Code With CodePen](https://dev.to/ashehub/splitting-your-code-with-codepen-3m28)
 - [Dev.to/JS] [Python vs JavaScript](https://dev.to/flaniyanjr/python-vs-javascript-35jn)
 - [Lifehacker] [Two Ways to Use the &#39;Blurting&#39; Method to Study](https://lifehacker.com/two-ways-to-use-the-blurting-method-to-study-1850999140)
-- [Dev.to/JS] [HD Streamz Download](https://dev.to/imranlar5/hd-streamz-download-5111)
 - [Lifehacker] [Everything at Noxgear Is 50% Off Right Now](https://lifehacker.com/everything-at-noxgear-is-50-off-right-now-1850998913)
-- [Dev.to/JS] [Day 83: Push Notifications](https://dev.to/dhrn/day-83-push-notifications-274a)
-- [Dev.to/JS] [Efficient Route Protection in Next.js with Auth0 Middleware: Excluding Specific Routes](https://dev.to/sabbirsobhani/efficient-route-protection-in-nextjs-with-auth0-middleware-excluding-specific-routes-1d3f)
 - [Lifehacker] [The Best Way to Share Your PlayStation Screenshots](https://lifehacker.com/the-best-way-to-share-your-playstation-screenshots-1850998668)
-- [Dev.to/JS] [Animated Login and Registration Form in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/animated-login-and-registration-form-in-html-css-javascript-46g2)
-- [Dev.to/JS] [Unraveling Event Bubbling in JavaScript](https://dev.to/okrahul/unraveling-event-bubbling-in-javascript-2lij)
 - [Lifehacker] [This AI Resume Builder Is $33 Right Now](https://lifehacker.com/this-ai-resume-builder-is-33-right-now-1850991002)
 - [Lifehacker] [Why You Need to Stop Using LinkedIn’s Template to Message Recruiters](https://lifehacker.com/why-you-need-to-stop-using-linkedin-s-template-to-messa-1850993125)
 - [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s the Difference Between a Modem and a Router](https://lifehacker.com/here-s-the-difference-between-a-modem-and-a-router-1850995716)
 - [Lifehacker] [When &lpar;and How&rpar; to Paint Your Vinyl Siding](https://lifehacker.com/when-and-how-to-paint-your-vinyl-siding-1850995472)
 - [Lifehacker] [You Can Polish Chrome Fixtures With Baby Oil](https://lifehacker.com/macgyver-tip-polish-chrome-with-baby-oil-247098)
-- [Lifehacker] [Make Mushroom Garum Today and Use It on Everything This Thanksgiving](https://lifehacker.com/mushroom-garum-recipe-1850994225)
-- [Lifehacker] [This Miso-Roasted Cabbage Will Be the Surprise Hit of Your Thanksgiving](https://lifehacker.com/this-miso-roasted-cabbage-recipe-makes-the-perfect-than-1850994078)
-- [Lifehacker] [Use the ‘Must, Should, Want’ Method to Prioritize Your To-Do List](https://lifehacker.com/use-the-must-should-want-method-to-prioritize-your-1850995165)
-- [Lifehacker] [Furniture and Home Goods Are up to 70% Off During Wayfair’s Early Black Friday Sale](https://lifehacker.com/furniture-and-home-goods-are-up-to-70-off-during-wayfa-1850991886)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Mushroom Garum Today and Use It on Everything This Thanksgiving](https://lifehacker.com/mushroom-garum-recipe-1850994225)<!-- TECH-POSTS:END -->
 
 ---
 
