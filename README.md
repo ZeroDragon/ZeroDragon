@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Found a Front-End Bug on Spotify&#39;s Mobile App: Bug Bounty and Beyond](https://dev.to/aswin2001barath/how-i-found-a-front-end-bug-on-spotifys-mobile-app-bug-bounty-and-beyond-2lbi)
+- [Dev.to/JS] [The 2000 line framework challenge: How to build Web Components with two-way state binding with only 1 file &lpar;and no node_modules&rpar;](https://dev.to/michaelpb/the-2000-line-framework-challenge-how-to-build-web-components-with-two-way-state-binding-with-only-1-file-and-no-nodemodules-2jmf)
+- [Lifehacker] [Make This Cheap and Easy DIY Soft Scrub](https://lifehacker.com/homemade-soft-scrub-recipe-1850999667)
+- [Lifehacker] [Lemon Water Doesn’t Do Anything](https://lifehacker.com/lemon-water-doesn-t-do-anything-1822932908)
+- [Lifehacker] [Freeze Your Thanksgiving Gravy Now, Add Drippings Later](https://lifehacker.com/freeze-your-thanksgiving-gravy-now-add-drippings-later-1850999490)
 - [Dev.to/JS] [JS Functions - Basic Example With Parameters](https://dev.to/ashehub/js-functions-basic-example-with-parameters-1hia)
 - [Dev.to/JS] [IS JAVASCRIPT SYNCHRONOUS OR ASYNCHRONOUS ????](https://dev.to/joshik27/is-javascript-synchronous-or-asynchronous--4b15)
 - [Lifehacker] [Yes, You Can Have Too Much Money in a Savings Account](https://lifehacker.com/yes-you-can-have-too-much-money-in-a-savings-account-1850999287)
@@ -43,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This AI Resume Builder Is $33 Right Now](https://lifehacker.com/this-ai-resume-builder-is-33-right-now-1850991002)
 - [Lifehacker] [Why You Need to Stop Using LinkedIn’s Template to Message Recruiters](https://lifehacker.com/why-you-need-to-stop-using-linkedin-s-template-to-messa-1850993125)
 - [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
-- [Dev.to/JS] [5 Open-Source Projects That Will Elevate Your Coding Game in 2024](https://dev.to/alexopensource/5-open-source-projects-that-will-elevate-your-coding-game-in-2024-gfb)
-- [Dev.to/JS] [Introducing pkg-size.dev](https://dev.to/privatenumber/introducing-pkg-sizedev-2hlf)
 - [Lifehacker] [How to Clear the Cache on Your iPhone](https://lifehacker.com/how-to-clear-the-cache-on-your-iphone-1850998050)
 - [Lifehacker] [These DIY Room Dividers Can Help Break Up Your Open Floor Plan](https://lifehacker.com/these-diy-room-dividers-can-help-break-up-your-open-flo-1850997451)
 - [Lifehacker] [Four Ways to Uninstall Apps on Android](https://lifehacker.com/how-to-uninstall-apps-on-android-1850996319)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Mushroom Garum Today and Use It on Everything This Thanksgiving](https://lifehacker.com/mushroom-garum-recipe-1850994225)
 - [Lifehacker] [This Miso-Roasted Cabbage Will Be the Surprise Hit of Your Thanksgiving](https://lifehacker.com/this-miso-roasted-cabbage-recipe-makes-the-perfect-than-1850994078)
 - [Lifehacker] [Use the ‘Must, Should, Want’ Method to Prioritize Your To-Do List](https://lifehacker.com/use-the-must-should-want-method-to-prioritize-your-1850995165)
-- [Lifehacker] [Furniture and Home Goods Are up to 70% Off During Wayfair’s Early Black Friday Sale](https://lifehacker.com/furniture-and-home-goods-are-up-to-70-off-during-wayfa-1850991886)
-- [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
-- [Lifehacker] [Tyson Recalls These Dino Chicken Nuggets That May Contain Metal Pieces](https://lifehacker.com/tyson-recalls-these-dino-chicken-nuggets-that-may-conta-1850994941)
-- [Lifehacker] [What If You Serve Fish on Thanksgiving Instead?](https://lifehacker.com/thanksgiving-fish-seafood-recipes-1850994120)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Furniture and Home Goods Are up to 70% Off During Wayfair’s Early Black Friday Sale](https://lifehacker.com/furniture-and-home-goods-are-up-to-70-off-during-wayfa-1850991886)<!-- TECH-POSTS:END -->
 
 ---
 
