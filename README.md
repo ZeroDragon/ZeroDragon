@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Le mot-clé this en JavaScript](https://dev.to/kureru/le-mot-cle-this-en-javascript-38ji)
+- [Dev.to/JS] [11 JavaScript Tricks You Probably Didn&#39;t Know About](https://dev.to/fadhilijosue/11-javascript-tricks-you-probably-didnt-know-about-3k3o)
+- [Dev.to/JS] [What’s new in Novu 0.21?](https://dev.to/novu/whats-new-in-novu-021-1bam)
+- [Dev.to/JS] [What’s new in Novu 0.20?](https://dev.to/novu/whats-new-in-novu-020-1kmh)
+- [Dev.to/JS] [Top Popular Apps Built With React Native](https://dev.to/imparth/top-popular-apps-built-with-react-native-4b3o)
+- [Lifehacker] [These DIY Room Dividers Can Help Break Up Your Open Floor Plan](https://lifehacker.com/these-diy-room-dividers-can-help-break-up-your-open-flo-1850997451)
 - [Lifehacker] [Four Ways to Uninstall Apps on Android](https://lifehacker.com/how-to-uninstall-apps-on-android-1850996319)
 - [Dev.to/JS] [ESLint: under the hood](https://dev.to/matmont/eslint-under-the-hood-5b8p)
 - [Dev.to/JS] [React redux](https://dev.to/cold_doubt/react-redux-27mk)
@@ -34,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The best way to pad a string in JavaScript](https://dev.to/atapas/the-best-way-to-pad-a-string-in-javascript-28j8)
 - [Dev.to/JS] [VigorBoostX Male Enhancement Gummies: Experience Unmatched Sensations and Long-Lasting Performance](https://dev.to/vigorboostxmegummies/vigorboostx-male-enhancement-gummies-experience-unmatched-sensations-and-long-lasting-performance-1pfe)
 - [Dev.to/JS] [JavaScript Variables: Understanding the Basics](https://dev.to/hackobansa/javascript-variables-understanding-the-basics-5aob)
-- [Dev.to/JS] [Unlocking the Power of Microservices with esProc SPL 🚀](https://dev.to/mukeshkuiry/unlocking-the-power-of-microservices-with-esproc-spl-3mg7)
-- [Dev.to/JS] [How to Develop and Deploy Fast Applications With Vite JS](https://dev.to/me_janki/how-to-develop-and-deploy-fast-applications-with-vite-js-7km)
-- [Dev.to/JS] [Rehman Enterprises - Your Destination for Luxury Handmade Rugs in the USA](https://dev.to/rugmanufacturers/rehman-enterprises-your-destination-for-luxury-handmade-rugs-in-the-usa-2oc3)
-- [Dev.to/JS] [HAVE YOU LOST ANY CRYPTO/BTC TO ANY ONLINE SERVICE? WELL, IN iBOLT CYBER HACKER, YOU HAVE FOUND REDEMPTION.](https://dev.to/ralph_zachary/have-you-lost-any-cryptobtc-to-any-online-service-well-in-ibolt-cyber-hacker-you-have-found-redemption-59gg)
-- [Dev.to/JS] [Why Learn JavaScript?](https://dev.to/annoh_karlgusta/why-learn-javascript-2825)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
 - [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
 - [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Differences Between the Apple Watch Ultra and Ultra 2](https://lifehacker.com/the-differences-between-the-apple-watch-ultra-and-ultra-1850990715)
 - [Lifehacker] [Fermented Cranberry Sauce Is a Revelation](https://lifehacker.com/fermented-cranberry-sauce-recipe-1850990441)
 - [Lifehacker] [How to Take a Screenshot on a Chromebook](https://lifehacker.com/how-to-take-a-screenshot-on-a-chromebook-1850990003)
-- [Crazy Programmer] [Mac vs Windows for Programming](https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Mac vs Windows for Programming](https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html)<!-- TECH-POSTS:END -->
 
 ---
 
