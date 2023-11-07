@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [E-Commerce Website &lpar;Basic&rpar;](https://dev.to/spwebdevs012/e-commerce-website-basic-4f3b)
+- [Dev.to/JS] [Full text search with Firestore &amp; Meili search - Implementing Full text search function in React Native app](https://dev.to/gautham495/full-text-search-with-firestore-meili-search-implementing-full-text-search-function-in-react-native-app-36bk)
+- [Dev.to/JS] [Full text search with Firestore &amp; Melli search - Implementing Full text search with MeiliSearch in React/Next JS](https://dev.to/gautham495/full-text-search-with-firestore-melli-search-implementing-full-text-search-with-meilisearch-in-reactnext-js-2n42)
+- [Dev.to/JS] [Super Basic Intro to Using HTML and JavaScript Together](https://dev.to/moosesharkgames/super-basic-intro-to-using-html-and-javascript-together-43mb)
+- [Dev.to/JS] [Natural Cron ⏰⏰](https://dev.to/satyajitnayak/natural-cron-2l3o)
 - [Dev.to/JS] [Adding tests to my project](https://dev.to/sdthaker/adding-tests-to-my-project-1l7k)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
 - [Dev.to/JS] [Building an Image-Based Search app with Google Lens API](https://dev.to/serpapi/building-an-image-based-search-app-with-google-lens-api-1l55)
@@ -41,16 +46,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Intern2Grow: Virtual Internships, Real Tasks](https://dev.to/ahmed0saber/intern2grow-virtual-internships-real-tasks-326n)
 - [Lifehacker] [When to See the Northern Lights From the Continental U.S. This Week](https://lifehacker.com/when-to-see-the-northern-lights-from-the-continental-u-1850996264)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
-- [Dev.to/JS] [Using AI to Generate Database Query Is Cool. But What About Access Control?](https://dev.to/zenstack/using-ai-to-generate-database-query-is-cool-but-what-about-access-control-cc)
 - [Lifehacker] [Here’s the Difference Between a Modem and a Router](https://lifehacker.com/here-s-the-difference-between-a-modem-and-a-router-1850995716)
-- [Dev.to/JS] [Understanding &quot;use strict&quot; in TypeScript](https://dev.to/avwerosuoghene/understanding-use-strict-in-typescript-2dh)
 - [Lifehacker] [When &lpar;and How&rpar; to Paint Your Vinyl Siding](https://lifehacker.com/when-and-how-to-paint-your-vinyl-siding-1850995472)
 - [Lifehacker] [You Can Polish Chrome Fixtures With Baby Oil](https://lifehacker.com/macgyver-tip-polish-chrome-with-baby-oil-247098)
 - [Lifehacker] [Make Mushroom Garum Today and Use It on Everything This Thanksgiving](https://lifehacker.com/mushroom-garum-recipe-1850994225)
-- [Dev.to/JS] [Using the keyboard on Murdle cards](https://dev.to/nicm42/using-the-keyboard-on-murdle-cards-3ikd)
 - [Lifehacker] [This Miso-Roasted Cabbage Will Be the Surprise Hit of Your Thanksgiving](https://lifehacker.com/this-miso-roasted-cabbage-recipe-makes-the-perfect-than-1850994078)
-- [Dev.to/JS] [Level up your JavaScript debugging skills with these console APIs](https://dev.to/roopkumar/level-up-your-javascript-debugging-skills-with-these-console-apis-14c3)
-- [Dev.to/JS] [A Quick Introduction to CSS container queries](https://dev.to/shreenidhibatavi/a-quick-introduction-to-css-container-queries-45o0)
 - [Lifehacker] [Use the ‘Must, Should, Want’ Method to Prioritize Your To-Do List](https://lifehacker.com/use-the-must-should-want-method-to-prioritize-your-1850995165)
 - [Lifehacker] [Furniture and Home Goods Are up to 70% off During Wayfair’s Early Black Friday Sale](https://lifehacker.com/furniture-and-home-goods-are-up-to-70-off-during-wayfa-1850991886)
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
