@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Two Ways to Use the &#39;Blurting&#39; Method to Study](https://lifehacker.com/two-ways-to-use-the-blurting-method-to-study-1850999140)
+- [Dev.to/JS] [HD Streamz Download](https://dev.to/imranlar5/hd-streamz-download-5111)
+- [Lifehacker] [Everything at Noxgear Is 50% Off Right Now](https://lifehacker.com/everything-at-noxgear-is-50-off-right-now-1850998913)
+- [Dev.to/JS] [Day 83: Push Notifications](https://dev.to/dhrn/day-83-push-notifications-274a)
+- [Dev.to/JS] [Efficient Route Protection in Next.js with Auth0 Middleware: Excluding Specific Routes](https://dev.to/sabbirsobhani/efficient-route-protection-in-nextjs-with-auth0-middleware-excluding-specific-routes-1d3f)
 - [Lifehacker] [The Best Way to Share Your PlayStation Screenshots](https://lifehacker.com/the-best-way-to-share-your-playstation-screenshots-1850998668)
 - [Dev.to/JS] [Animated Login and Registration Form in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/animated-login-and-registration-form-in-html-css-javascript-46g2)
 - [Dev.to/JS] [Unraveling Event Bubbling in JavaScript](https://dev.to/okrahul/unraveling-event-bubbling-in-javascript-2lij)
@@ -41,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What’s new in Novu 0.20?](https://dev.to/novu/whats-new-in-novu-020-1kmh)
 - [Dev.to/JS] [Top Popular Apps Built With React Native](https://dev.to/imparth/top-popular-apps-built-with-react-native-4b3o)
 - [Lifehacker] [These DIY Room Dividers Can Help Break Up Your Open Floor Plan](https://lifehacker.com/these-diy-room-dividers-can-help-break-up-your-open-flo-1850997451)
-- [Dev.to/JS] [Swords and Hammers](https://dev.to/techthatconnect/swords-and-hammers-nij)
 - [Lifehacker] [Four Ways to Uninstall Apps on Android](https://lifehacker.com/how-to-uninstall-apps-on-android-1850996319)
-- [Dev.to/JS] [ESLint: under the hood](https://dev.to/matmont/eslint-under-the-hood-5b8p)
-- [Dev.to/JS] [React redux](https://dev.to/cold_doubt/react-redux-27mk)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
 - [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
 - [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
 - [Lifehacker] [Tyson Recalls These Dino Chicken Nuggets That May Contain Metal Pieces](https://lifehacker.com/tyson-recalls-these-dino-chicken-nuggets-that-may-conta-1850994941)
 - [Lifehacker] [What If You Serve Fish on Thanksgiving Instead?](https://lifehacker.com/thanksgiving-fish-seafood-recipes-1850994120)
-- [Lifehacker] [Use the CODE Method to Manage Your Digital Hoarding](https://lifehacker.com/use-the-code-method-to-manage-your-digital-hoarding-1850994152)
-- [Lifehacker] [How Your Grill Can Help You Survive Thanksgiving](https://lifehacker.com/how-your-grill-can-help-you-survive-thanksgiving-1850994197)
-- [Lifehacker] [How to Score a Discount on Spotify Premium](https://lifehacker.com/how-to-score-a-discount-on-spotify-premium-1850994502)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the CODE Method to Manage Your Digital Hoarding](https://lifehacker.com/use-the-code-method-to-manage-your-digital-hoarding-1850994152)<!-- TECH-POSTS:END -->
 
 ---
 
