@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Events - Change Style](https://dev.to/ashehub/js-events-change-style-58dg)
+- [Dev.to/JS] [Understanding Fetch &#39;cache&#39; with VanilaJS and Next.js](https://dev.to/lico/understanding-fetch-cache-with-vanilajs-and-nextjs-5g81)
+- [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $15 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-15-ri-1850991050)
 - [Lifehacker] [Walmart Will Have PS5 and &#39;Spider-Man 2&#39; Bundles on Sale for $499](https://lifehacker.com/walmart-will-have-ps5-and-spider-man-2-bundles-on-sale-1851000160)
 - [Dev.to/JS] [JavaScript Fonksiyonlar](https://dev.to/eminaltan/javascript-fonksiyonlar-792)
 - [Dev.to/JS] [Thinking Beyond Next.js: When Not to Use It for Your Project](https://dev.to/alexopensource/thinking-beyond-nextjs-when-not-to-use-it-for-your-project-1h8l)
@@ -43,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [IS JAVASCRIPT SYNCHRONOUS OR ASYNCHRONOUS ????](https://dev.to/joshik27/is-javascript-synchronous-or-asynchronous--4b15)
 - [Lifehacker] [Yes, You Can Have Too Much Money in a Savings Account](https://lifehacker.com/yes-you-can-have-too-much-money-in-a-savings-account-1850999287)
 - [Dev.to/JS] [How to use CDN links wisely](https://dev.to/kreativ-anders/how-to-use-cdn-links-wisely-3k23)
-- [Dev.to/JS] [Splitting Your Code With CodePen](https://dev.to/ashehub/splitting-your-code-with-codepen-3m28)
-- [Dev.to/JS] [Python vs JavaScript](https://dev.to/flaniyanjr/python-vs-javascript-35jn)
 - [Lifehacker] [Two Ways to Use the &#39;Blurting&#39; Method to Study](https://lifehacker.com/two-ways-to-use-the-blurting-method-to-study-1850999140)
 - [Lifehacker] [Everything at Noxgear Is 50% Off Right Now](https://lifehacker.com/everything-at-noxgear-is-50-off-right-now-1850998913)
 - [Lifehacker] [The Best Way to Share Your PlayStation Screenshots](https://lifehacker.com/the-best-way-to-share-your-playstation-screenshots-1850998668)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [Here’s the Difference Between a Modem and a Router](https://lifehacker.com/here-s-the-difference-between-a-modem-and-a-router-1850995716)
 - [Lifehacker] [When &lpar;and How&rpar; to Paint Your Vinyl Siding](https://lifehacker.com/when-and-how-to-paint-your-vinyl-siding-1850995472)
-- [Lifehacker] [You Can Polish Chrome Fixtures With Baby Oil](https://lifehacker.com/macgyver-tip-polish-chrome-with-baby-oil-247098)
-- [Lifehacker] [Make Mushroom Garum Today and Use It on Everything This Thanksgiving](https://lifehacker.com/mushroom-garum-recipe-1850994225)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Polish Chrome Fixtures With Baby Oil](https://lifehacker.com/macgyver-tip-polish-chrome-with-baby-oil-247098)<!-- TECH-POSTS:END -->
 
 ---
 
