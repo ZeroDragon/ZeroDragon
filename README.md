@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Share Your PlayStation Screenshots](https://lifehacker.com/the-best-way-to-share-your-playstation-screenshots-1850998668)
+- [Dev.to/JS] [Animated Login and Registration Form in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/animated-login-and-registration-form-in-html-css-javascript-46g2)
+- [Dev.to/JS] [Unraveling Event Bubbling in JavaScript](https://dev.to/okrahul/unraveling-event-bubbling-in-javascript-2lij)
+- [Lifehacker] [This AI Resume Builder Is $33 Right Now](https://lifehacker.com/this-ai-resume-builder-is-33-right-now-1850991002)
+- [Lifehacker] [Why You Need to Stop Using LinkedIn’s Template to Message Recruiters](https://lifehacker.com/why-you-need-to-stop-using-linkedin-s-template-to-messa-1850993125)
 - [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
 - [Dev.to/JS] [Introducing pkg-size.dev](https://dev.to/privatenumber/introducing-pkg-sizedev-2hlf)
 - [Dev.to/JS] [JavaScript Symbol Veri Türü](https://dev.to/eminaltan/javascript-symbol-veri-turu-ip2)
@@ -40,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways to Uninstall Apps on Android](https://lifehacker.com/how-to-uninstall-apps-on-android-1850996319)
 - [Dev.to/JS] [ESLint: under the hood](https://dev.to/matmont/eslint-under-the-hood-5b8p)
 - [Dev.to/JS] [React redux](https://dev.to/cold_doubt/react-redux-27mk)
-- [Dev.to/JS] [AWS Advanced Networking: Solution of Complex Challenges](https://dev.to/jessica89079831/aws-advanced-networking-solution-of-complex-challenges-1alj)
-- [Dev.to/JS] [Google Icons from Google Fonts with Nextjs](https://dev.to/sabbirsobhani/google-icons-from-google-fonts-with-nextjs-11pa)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
 - [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
 - [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What If You Serve Fish on Thanksgiving Instead?](https://lifehacker.com/thanksgiving-fish-seafood-recipes-1850994120)
 - [Lifehacker] [Use the CODE Method to Manage Your Digital Hoarding](https://lifehacker.com/use-the-code-method-to-manage-your-digital-hoarding-1850994152)
 - [Lifehacker] [How Your Grill Can Help You Survive Thanksgiving](https://lifehacker.com/how-your-grill-can-help-you-survive-thanksgiving-1850994197)
-- [Lifehacker] [How to Score a Discount on Spotify Premium](https://lifehacker.com/how-to-score-a-discount-on-spotify-premium-1850994502)
-- [Lifehacker] [How to Build an Owl&#39;s Nest Box for Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-build-an-owls-nest-box-for-your-yard-and-why-yo-1850993028)
-- [Lifehacker] [The Differences Between the Apple Watch Ultra and Ultra 2](https://lifehacker.com/the-differences-between-the-apple-watch-ultra-and-ultra-1850990715)
-- [Lifehacker] [Fermented Cranberry Sauce Is a Revelation](https://lifehacker.com/fermented-cranberry-sauce-recipe-1850990441)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Score a Discount on Spotify Premium](https://lifehacker.com/how-to-score-a-discount-on-spotify-premium-1850994502)<!-- TECH-POSTS:END -->
 
 ---
 
