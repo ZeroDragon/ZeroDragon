@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making JavaScript Fun with is.false and is.not_false from &#39;thiis&#39;](https://dev.to/karbashevskyi/making-javascript-fun-with-isfalse-and-isnotfalse-from-thiis-kgp)
 - [Dev.to/JS] [Building a Smart Data Table in React](https://dev.to/mescius/building-a-smart-data-table-in-react-1m3p)
 - [Dev.to/JS] [Tables SUCK and this is WHY](https://dev.to/justoptimize/tables-suck-and-this-is-why-4cje)
 - [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to automate an image-based captcha solution in JavaScript](https://dev.to/dzmitry/how-to-automate-an-image-based-captcha-solution-in-javascript-5925)
 - [Lifehacker] [Use the ‘Must, Should, Want’ Method to Prioritize Your To-Do List](https://lifehacker.com/use-the-must-should-want-method-to-prioritize-your-1850995165)
 - [Dev.to/JS] [I wrote my own version of the Qwik documentation](https://dev.to/nandinishinduja/i-wrote-my-own-version-of-the-qwik-documentation-58p5)
-- [Dev.to/JS] [Hello All Developer](https://dev.to/jasgiigli/hello-all-developer-3nni)
 - [Lifehacker] [Furniture and Home Goods Are up to 70% off During Wayfair’s Early Black Friday Sale](https://lifehacker.com/furniture-and-home-goods-are-up-to-70-off-during-wayfa-1850991886)
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
 - [Lifehacker] [Tyson Recalls These Dino Chicken Nuggets That May Contain Metal Pieces](https://lifehacker.com/tyson-recalls-these-dino-chicken-nuggets-that-may-conta-1850994941)
