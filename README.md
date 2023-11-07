@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding tests to my project](https://dev.to/sdthaker/adding-tests-to-my-project-1l7k)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
 - [Dev.to/JS] [Building an Image-Based Search app with Google Lens API](https://dev.to/serpapi/building-an-image-based-search-app-with-google-lens-api-1l55)
 - [Dev.to/JS] [Making JavaScript Fun with is.false and is.not_false from &#39;thiis&#39;](https://dev.to/karbashevskyi/making-javascript-fun-with-isfalse-and-isnotfalse-from-thiis-kgp)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Miso-Roasted Cabbage Will Be the Surprise Hit of Your Thanksgiving](https://lifehacker.com/this-miso-roasted-cabbage-recipe-makes-the-perfect-than-1850994078)
 - [Dev.to/JS] [Level up your JavaScript debugging skills with these console APIs](https://dev.to/roopkumar/level-up-your-javascript-debugging-skills-with-these-console-apis-14c3)
 - [Dev.to/JS] [A Quick Introduction to CSS container queries](https://dev.to/shreenidhibatavi/a-quick-introduction-to-css-container-queries-45o0)
-- [Dev.to/JS] [How to automate an image-based captcha solution in JavaScript](https://dev.to/dzmitry/how-to-automate-an-image-based-captcha-solution-in-javascript-5925)
 - [Lifehacker] [Use the ‘Must, Should, Want’ Method to Prioritize Your To-Do List](https://lifehacker.com/use-the-must-should-want-method-to-prioritize-your-1850995165)
 - [Lifehacker] [Furniture and Home Goods Are up to 70% off During Wayfair’s Early Black Friday Sale](https://lifehacker.com/furniture-and-home-goods-are-up-to-70-off-during-wayfa-1850991886)
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
