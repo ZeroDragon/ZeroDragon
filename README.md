@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Locking the Digital Doors: Understanding Web and Mobile App Security](https://dev.to/gibots/locking-the-digital-doors-understanding-web-and-mobile-app-security-5db8)
+- [Dev.to/JS] [Node Package Manager🦆🦆🦆🦆](https://dev.to/tanmaycode/node-package-manager-5ff4)
 - [Dev.to/JS] [Show and Hide Password React](https://dev.to/sanketbodake/show-and-hide-password-react-3ejl)
 - [Dev.to/JS] [Convert Text to Speech in Javascript using Speech Synthesis API](https://dev.to/devsmitra/convert-text-to-speech-in-javascript-using-speech-synthesis-api-223g)
 - [Dev.to/JS] [Unlocking the Code: A Beginner&#39;s Guide to Getting Started with Programming](https://dev.to/kenferio/unlocking-the-code-a-beginners-guide-to-getting-started-with-programming-4okd)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Natural Cron ⏰⏰](https://dev.to/satyajitnayak/natural-cron-2l3o)
 - [Dev.to/JS] [Adding tests to my project](https://dev.to/sdthaker/adding-tests-to-my-project-1l7k)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
-- [Dev.to/JS] [Building an Image-Based Search app with Google Lens API](https://dev.to/serpapi/building-an-image-based-search-app-with-google-lens-api-1l55)
-- [Dev.to/JS] [Making JavaScript Fun with is.false and is.not_false from &#39;thiis&#39;](https://dev.to/karbashevskyi/making-javascript-fun-with-isfalse-and-isnotfalse-from-thiis-kgp)
 - [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
 - [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)
 - [Lifehacker] [Use the ‘REAP’ Method to Study Brand New Information](https://lifehacker.com/use-the-reap-method-for-studying-new-information-1850995271)
