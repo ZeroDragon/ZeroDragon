@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Aws Advanced Networking: Solution of Complex Challenges](https://dev.to/jessica89079831/aws-advanced-networking-solution-of-complex-challenges-1alj)
+- [Lifehacker] [Four Ways to Uninstall Apps on Android](https://lifehacker.com/how-to-uninstall-apps-on-android-1850996319)
+- [Dev.to/JS] [ESLint: under the hood](https://dev.to/matmont/eslint-under-the-hood-5b8p)
+- [Dev.to/JS] [React redux](https://dev.to/cold_doubt/react-redux-27mk)
+- [Dev.to/JS] [AWS Advanced Networking: Solution of Complex Challenges](https://dev.to/jessica89079831/aws-advanced-networking-solution-of-complex-challenges-1alj)
 - [Dev.to/JS] [Google Icons from Google Fonts with Nextjs](https://dev.to/sabbirsobhani/google-icons-from-google-fonts-with-nextjs-11pa)
 - [Dev.to/JS] [The best way to pad a string in JavaScript](https://dev.to/atapas/the-best-way-to-pad-a-string-in-javascript-28j8)
 - [Dev.to/JS] [VigorBoostX Male Enhancement Gummies: Experience Unmatched Sensations and Long-Lasting Performance](https://dev.to/vigorboostxmegummies/vigorboostx-male-enhancement-gummies-experience-unmatched-sensations-and-long-lasting-performance-1pfe)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rehman Enterprises - Your Destination for Luxury Handmade Rugs in the USA](https://dev.to/rugmanufacturers/rehman-enterprises-your-destination-for-luxury-handmade-rugs-in-the-usa-2oc3)
 - [Dev.to/JS] [HAVE YOU LOST ANY CRYPTO/BTC TO ANY ONLINE SERVICE? WELL, IN iBOLT CYBER HACKER, YOU HAVE FOUND REDEMPTION.](https://dev.to/ralph_zachary/have-you-lost-any-cryptobtc-to-any-online-service-well-in-ibolt-cyber-hacker-you-have-found-redemption-59gg)
 - [Dev.to/JS] [Why Learn JavaScript?](https://dev.to/annoh_karlgusta/why-learn-javascript-2825)
-- [Dev.to/JS] [Validate using regular expressions in JavaScript](https://dev.to/satishjaiswal/validate-using-regular-expressions-in-javascript-1lc9)
-- [Dev.to/JS] [Unveiling JavaScript Tricks: Dots and spreading well explained with examples](https://dev.to/fadhilijosue/unveiling-javascript-tricks-dots-and-spreading-well-explained-with-examples-1nh8)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
 - [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
 - [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)
@@ -52,7 +53,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Mushroom Garum Today and Use It on Everything This Thanksgiving](https://lifehacker.com/mushroom-garum-recipe-1850994225)
 - [Lifehacker] [This Miso-Roasted Cabbage Will Be the Surprise Hit of Your Thanksgiving](https://lifehacker.com/this-miso-roasted-cabbage-recipe-makes-the-perfect-than-1850994078)
 - [Lifehacker] [Use the ‘Must, Should, Want’ Method to Prioritize Your To-Do List](https://lifehacker.com/use-the-must-should-want-method-to-prioritize-your-1850995165)
-- [Lifehacker] [Furniture and Home Goods Are up to 70% off During Wayfair’s Early Black Friday Sale](https://lifehacker.com/furniture-and-home-goods-are-up-to-70-off-during-wayfa-1850991886)
+- [Lifehacker] [Furniture and Home Goods Are up to 70% Off During Wayfair’s Early Black Friday Sale](https://lifehacker.com/furniture-and-home-goods-are-up-to-70-off-during-wayfa-1850991886)
 - [Lifehacker] [What to Do When YouTube Warns You About Your Ad Blocker](https://lifehacker.com/youtube-ad-blocker-popup-1850934372)
 - [Lifehacker] [Tyson Recalls These Dino Chicken Nuggets That May Contain Metal Pieces](https://lifehacker.com/tyson-recalls-these-dino-chicken-nuggets-that-may-conta-1850994941)
 - [Lifehacker] [What If You Serve Fish on Thanksgiving Instead?](https://lifehacker.com/thanksgiving-fish-seafood-recipes-1850994120)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fermented Cranberry Sauce Is a Revelation](https://lifehacker.com/fermented-cranberry-sauce-recipe-1850990441)
 - [Lifehacker] [How to Take a Screenshot on a Chromebook](https://lifehacker.com/how-to-take-a-screenshot-on-a-chromebook-1850990003)
 - [Crazy Programmer] [Mac vs Windows for Programming](https://www.thecrazyprogrammer.com/2023/11/mac-vs-windows-for-programming.html)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)
-- [Lifehacker] [What to Do If You Find a Problem With Your Brand New Car](https://lifehacker.com/what-to-do-if-you-find-a-problem-with-your-brand-new-ca-1850992661)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 6, 2023](https://lifehacker.com/nyt-connections-answer-today-november-6-2023-1850989804)<!-- TECH-POSTS:END -->
 
 ---
 
