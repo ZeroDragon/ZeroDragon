@@ -26,22 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Nue JS, a Svelte alternative](https://dev.to/logrocket/introducing-nue-js-a-svelte-alternative-3dil)
+- [Dev.to/JS] [Field Plugin SDK v1 Stable Release](https://dev.to/storyblok/field-plugin-sdk-v1-stable-release-30jn)
+- [Lifehacker] [25 Modern Christmas Classics You Can Stream Right Now](https://lifehacker.com/modern-christmas-classics-you-can-stream-right-now-1850996662)
+- [Dev.to/JS] [welxome back](https://dev.to/abhishek8928/welxome-back-16md)
+- [Dev.to/JS] [🕵️ Looking at the top 5 FREE Alternatives to Postman 🔥](https://dev.to/quine/looking-at-the-top-5-free-alternatives-to-postman-58jl)
+- [Dev.to/JS] [Using TypeScript Enums in Angular Templates](https://dev.to/mescius/using-typescript-enums-in-angular-templates-423l)
+- [Dev.to/JS] [I made an app that generates random blob creatures! Use cases include: endless avatar creation](https://dev.to/piko/i-made-an-app-that-generates-random-blob-creatures-use-cases-include-endless-avatar-creation-5dio)
+- [Lifehacker] [Thanksgiving Turkey Porchetta Is Worth It in the End](https://lifehacker.com/thanksgiving-turkey-porchetta-is-worth-it-in-the-end-1851000096)
 - [Dev.to/JS] [The Log Blog](https://dev.to/shokuninja/the-log-blog-2mo1)
 - [Dev.to/JS] [as any;](https://dev.to/manuartero/as-any-1ah3)
 - [Lifehacker] [Use These New Google Tools to Find Holiday Discounts](https://lifehacker.com/use-these-new-google-tools-to-find-holiday-discounts-1851001880)
 - [Dev.to/JS] [Using Hooks in React: &#39;useState&#39; &amp; &#39;useEffect&#39;](https://dev.to/tmarku4/using-hooks-in-react-usestate-useeffect-20mj)
-- [Dev.to/JS] [13 reasons why Dev Tutorials can be Misleading](https://dev.to/rickdelpo1/13-reasons-why-dev-tutorials-can-be-misleading-2bfn)
+- [Dev.to/JS] [13 reasons why Google Tutorials can be Misleading](https://dev.to/rickdelpo1/13-reasons-why-dev-tutorials-can-be-misleading-2bfn)
 - [Lifehacker] [Use These Different Ice Packs on Every Part of Your Body](https://lifehacker.com/use-these-different-ice-packs-on-every-part-of-your-bod-1851001868)
 - [Dev.to/JS] [How To Build AI Chatbots Using React JS in Minutes](https://dev.to/salmenus/how-to-build-ai-chatbots-using-react-js-in-minutes-1j67)
 - [Dev.to/JS] [Set and Map in JavaScript: A Close Look](https://dev.to/rasaf_ibrahim/set-and-map-in-javascript-a-close-look-h01)
 - [Lifehacker] [Mark Your Calendar With These 2023 Holiday Shipping Deadlines](https://lifehacker.com/mark-your-calendar-with-these-2023-holiday-shipping-dea-1851000806)
 - [Lifehacker] [You Can Get Luminar Neo Lite for $50 Right Now](https://lifehacker.com/you-can-get-luminar-neo-lite-for-50-right-now-1850991219)
-- [Dev.to/JS] [How to build AWS State Machines using AWS CDK - Part III](https://dev.to/aws-builders/how-to-build-aws-state-machines-using-aws-cdk-part-iii-4ok9)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step: Upload files on S3](https://dev.to/pchol22/learn-serverless-on-aws-step-by-step-upload-files-on-s3-50d4)
-- [Dev.to/JS] [Build a CLI based Project Generator with Node](https://dev.to/ghostaram/build-a-cli-based-project-generator-with-node-56ld)
-- [Dev.to/JS] [🚀Creating a resume builder with NextJS, Trigger.dev and GPT4🔥✨](https://dev.to/triggerdotdev/creating-a-resume-builder-with-nextjs-triggerdev-and-gpt4-4gmf)
-- [Dev.to/JS] [Anatomy of a Web Component: the Low-level Basics](https://dev.to/andyjessop/anatomy-of-a-web-component-the-low-level-basics-3gpp)
-- [Dev.to/JS] [Is Preact the Real Deal? Share Your Experience!](https://dev.to/opensourcee/is-preact-the-real-deal-share-your-experience-3fb)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
 - [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
 - [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
 - [Lifehacker] [How to Clear the Cache on Your iPhone](https://lifehacker.com/how-to-clear-the-cache-on-your-iphone-1850998050)
 - [Lifehacker] [These DIY Room Dividers Can Help Break Up Your Open Floor Plan](https://lifehacker.com/these-diy-room-dividers-can-help-break-up-your-open-flo-1850997451)
-- [Lifehacker] [Four Ways to Uninstall Apps on Android](https://lifehacker.com/how-to-uninstall-apps-on-android-1850996319)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
-- [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Four Ways to Uninstall Apps on Android](https://lifehacker.com/how-to-uninstall-apps-on-android-1850996319)<!-- TECH-POSTS:END -->
 
 ---
 
