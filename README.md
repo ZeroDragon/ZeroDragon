@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Breaking Down HTTP Status Codes](https://dev.to/saminwankwo/breaking-down-http-status-codes-46lm)
+- [Dev.to/JS] [Guide To Learn Dayjs](https://dev.to/shameel/guide-to-learn-dayjs-36l9)
+- [Dev.to/JS] [Streamlining Code with go generate for Reduced Boilerplate](https://dev.to/nikl/streamlining-code-with-go-generate-for-reduced-boilerplate-khg)
 - [Dev.to/JS] [Understanding parts of URL](https://dev.to/tanmaycode/understanding-parts-of-url-1n1g)
 - [Dev.to/JS] [Interview Question: Priority Queue for Promises in JavaScript](https://dev.to/devsmitra/interview-question-priority-queue-for-promises-in-javascript-3l2)
 - [Dev.to/JS] [Letitia Dean Keto Gummies Reviews [Updated Warning 2023]](https://dev.to/letitiadeanketouk/letitia-dean-keto-gummies-reviews-updated-warning-2023-2e2l)
@@ -38,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
 - [Dev.to/JS] [How the internet works by Subair quadri](https://dev.to/mc_coast02/how-the-internet-works-by-subair-quadri-4da6)
 - [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
-- [Dev.to/JS] [JS - this second example of Events](https://dev.to/ashehub/js-this-second-example-of-events-33fk)
 - [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
 - [Lifehacker] [Here&#39;s an Early Look at Amazon&#39;s Black Friday Deals](https://lifehacker.com/heres-an-early-look-at-amazons-black-friday-deals-1851000539)
-- [Dev.to/JS] [JS Events - Change Style](https://dev.to/ashehub/js-events-change-style-58dg)
-- [Dev.to/JS] [Understanding Fetch &#39;cache&#39; with VanilaJS and Next.js](https://dev.to/lico/understanding-fetch-cache-with-vanilajs-and-nextjs-5g81)
 - [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $15 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-15-ri-1850991050)
 - [Lifehacker] [Walmart Will Have PS5 and &#39;Spider-Man 2&#39; Bundles on Sale for $499](https://lifehacker.com/walmart-will-have-ps5-and-spider-man-2-bundles-on-sale-1851000160)
 - [Lifehacker] [You Can Try These New YouTube AI Features Right Now](https://lifehacker.com/you-can-try-these-new-youtube-ai-features-right-now-1851000046)
