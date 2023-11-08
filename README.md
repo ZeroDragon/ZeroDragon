@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create A Restaurant Bill and Tip Calculator in JavaScript](https://dev.to/thedevdrawer/create-a-restaurant-bill-and-tip-calculator-in-javascript-25ep)
+- [Dev.to/JS] [How to Use Angular Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-angular-pivot-grids-and-panels-in-your-web-application-1k56)
+- [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on TVs](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-tvs-1851003978)
+- [Lifehacker] [12 Walmart Early Black Friday Deals Actually Worth Your Attention](https://lifehacker.com/walmarts-best-early-black-friday-sale-deals-1851004637)
+- [Dev.to/JS] [Optimizing Vue.js Performance: A Guide to Tree Shaking with Webpack and Vite](https://dev.to/rafaelogic/optimizing-vuejs-performance-a-guide-to-tree-shaking-with-webpack-and-vite-3if7)
 - [Dev.to/JS] [Learn the SVG linear gradient axes](https://dev.to/witty_code/learn-the-svg-linear-gradient-axes-2j4a)
 - [Lifehacker] [These Are Walmart’s Best Early Black Friday Vacuum Deals](https://lifehacker.com/these-are-walmart-s-best-early-black-friday-vacuum-deal-1851001199)
 - [Dev.to/JS] [TOP - Objects and Object Constructors](https://dev.to/copious/top-objects-and-object-constructors-1p0)
@@ -41,11 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [File Upload with Progress Bar HTML CSS &amp; JavaScript](https://dev.to/codingcss/file-upload-with-progress-bar-html-css-javascript-341c)
 - [Dev.to/JS] [Tricksters of Typescript](https://dev.to/hakimov_dev/tricksters-of-typescript-24ed)
 - [Lifehacker] [Here’s When It’s Smart to Have Just One Credit Card](https://lifehacker.com/here-s-when-it-s-smart-to-have-just-one-credit-card-1851002878)
-- [Dev.to/JS] [ARE YOU AN INVESTMENT OR ONLINE SCAM VICTIM? iBOLT CYBER HACKER CAN ASSIST YOU.](https://dev.to/elijah_robert/are-you-an-investment-or-online-scam-victim-ibolt-cyber-hacker-can-assist-you-336g)
-- [Dev.to/JS] [What is Linting and how to use a Linter tool.](https://dev.to/aryan_shourie/what-is-linting-and-how-to-use-a-linter-tool-524l)
 - [Lifehacker] [You Can Get SheetsMagic for $50 Right Now and Integrate ChatGPT With Google Sheets](https://lifehacker.com/you-can-get-sheetsmagic-for-50-right-now-and-integrate-1850991391)
 - [Lifehacker] [Exploit These Extended Return Policies From Amazon, Apple, Best Buy, and Walmart](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
-- [Dev.to/JS] [How to build Single Sign-On for your Web App](https://dev.to/tbantle22/how-to-build-single-sign-on-for-your-web-app-ec1)
 - [Lifehacker] [How to Print Documents From Your iPhone](https://lifehacker.com/how-to-print-documents-from-your-iphone-1851002978)
 - [Lifehacker] [You Might Already Be Able to Disable Read Receipts for Your Instagram DMs](https://lifehacker.com/you-might-already-be-able-to-disable-read-receipts-for-1851003161)
 - [Lifehacker] [The Fastest Ways to Thaw Your Thanksgiving Turkey](https://lifehacker.com/what-to-do-if-your-turkey-is-still-frozen-1848113182)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
 - [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
 - [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
-- [Lifehacker] [Here&#39;s an Early Look at Amazon&#39;s Black Friday Deals](https://lifehacker.com/heres-an-early-look-at-amazons-black-friday-deals-1851000539)
-- [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $15 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-15-ri-1850991050)
-- [Lifehacker] [Walmart Will Have PS5 and &#39;Spider-Man 2&#39; Bundles on Sale for $499](https://lifehacker.com/walmart-will-have-ps5-and-spider-man-2-bundles-on-sale-1851000160)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s an Early Look at Amazon&#39;s Black Friday Deals](https://lifehacker.com/heres-an-early-look-at-amazons-black-friday-deals-1851000539)<!-- TECH-POSTS:END -->
 
 ---
 
