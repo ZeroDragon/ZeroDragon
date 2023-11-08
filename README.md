@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #219: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-219-explica-este-codigo-javascript-42of)
+- [Dev.to/JS] [Effortless Data Fetching and Rendering with Redux Toolkit](https://dev.to/eneaslari/effortless-data-fetching-and-rendering-with-redux-toolkit-3fec)
+- [Dev.to/JS] [Let&#39;s Build React Card App](https://dev.to/dev_kiran/lets-build-react-card-app-2ia4)
+- [Dev.to/JS] [Fullstackopen Summary Part 2](https://dev.to/acesif/fullstackopen-summary-part-2-8l8)
 - [Dev.to/JS] [TicTacToe - the pragmatic way](https://dev.to/frankwisniewski/tictactoe-the-pragmatic-way-3kgg)
 - [Dev.to/JS] [Optimizing Vue Js Performance: Practical Tips and Code Examples Part 1](https://dev.to/devmahfuz/optimizing-vue-js-performance-practical-tips-and-code-examples-part-1-5b14)
 - [Dev.to/JS] [How we used Neural network, Replicate.com, and WebGL to generate photorealistic 3D avatars for the GitNation portal`s users](https://dev.to/focusreactive/how-we-used-neural-network-replicatecom-and-webgl-to-generate-photorealistic-3d-avatars-for-the-gitnation-portals-users-3cim)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useWatcher of alovajs, a request strategy library](https://dev.to/coderhu/usewatcher-of-alovajs-a-request-strategy-library-2fc9)
 - [Dev.to/JS] [Understanding JSX Compilation: The Role of Babel in React](https://dev.to/rowsanali/understanding-jsx-compilation-the-role-of-babel-in-react-ief)
 - [Dev.to/JS] [Another React Dos and Don&#39;ts](https://dev.to/katekate/another-react-dos-and-donts-4ba0)
-- [Dev.to/JS] [Tips and Strategies for Writing Clean and Maintainable JSX Code](https://dev.to/rowsanali/tips-and-strategies-for-writing-clean-and-maintainable-jsx-code-3o14)
-- [Dev.to/JS] [Strumenti Essenziali per Ogni Sviluppatore Web](https://dev.to/nyruchi/strumenti-essenziali-per-ogni-sviluppatore-web-35c2)
-- [Dev.to/JS] [Call Girls Service In India | 8824685266 | Escort Agency For Dating](https://dev.to/abhinayfunny/call-girls-service-in-india-8824685266-escort-agency-for-dating-1ecj)
-- [Dev.to/JS] [Best Escort Service In India | 8824685266 | Call Girls Cash payments Only](https://dev.to/abhinayfunny/best-escort-service-in-india-8824685266-call-girls-cash-payments-only-41e)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
 - [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
 - [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
