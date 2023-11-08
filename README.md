@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ARE YOU AN INVESTMENT OR ONLINE SCAM VICTIM? iBOLT CYBER HACKER CAN ASSIST YOU.](https://dev.to/elijah_robert/are-you-an-investment-or-online-scam-victim-ibolt-cyber-hacker-can-assist-you-336g)
+- [Dev.to/JS] [What is Linting and how to use a Linter tool.](https://dev.to/aryan_shourie/what-is-linting-and-how-to-use-a-linter-tool-524l)
+- [Lifehacker] [You Can Get SheetsMagic for $50 Right Now and Integrate ChatGPT With Google Sheets](https://lifehacker.com/you-can-get-sheetsmagic-for-50-right-now-and-integrate-1850991391)
+- [Lifehacker] [Exploit These Extended Return Policies From Amazon, Apple, Best Buy, and Walmart](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
+- [Dev.to/JS] [How to build Single Sign-On for your Web App](https://dev.to/tbantle22/how-to-build-single-sign-on-for-your-web-app-ec1)
+- [Lifehacker] [How to Print Documents From Your iPhone](https://lifehacker.com/how-to-print-documents-from-your-iphone-1851002978)
 - [Dev.to/JS] [My review on JavaScript, React, CSS, Python and SQL](https://dev.to/skeesen8/my-review-on-javascript-react-css-python-and-sql-57a1)
 - [Dev.to/JS] [Best Resources For Web Developers 💻 [HTML + CSS + JavaScript]](https://dev.to/pinky057/24-best-resources-for-web-developers-html-css-javascript-opo)
 - [Lifehacker] [You Might Already Be Able to Disable Read Receipts for Your Instagram DMs](https://lifehacker.com/you-might-already-be-able-to-disable-read-receipts-for-1851003161)
@@ -41,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Geminos Stacked Dual-Screen Monitor for Over $150 Off Right Now](https://lifehacker.com/you-can-get-this-geminos-stacked-dual-screen-monitor-fo-1850991293)
 - [Dev.to/JS] [Node.js modules &lpar;Basics Node.js Series&rpar;](https://dev.to/ajitforger97/nodejs-modules-basics-nodejs-series-2dpb)
 - [Dev.to/JS] [Introducing Nue JS, a Svelte alternative](https://dev.to/logrocket/introducing-nue-js-a-svelte-alternative-3dil)
-- [Dev.to/JS] [Field Plugin SDK v1 Stable Release](https://dev.to/storyblok/field-plugin-sdk-v1-stable-release-30jn)
 - [Lifehacker] [25 Modern Christmas Classics You Can Stream Right Now](https://lifehacker.com/modern-christmas-classics-you-can-stream-right-now-1850996662)
-- [Dev.to/JS] [welxome back](https://dev.to/abhishek8928/welxome-back-16md)
-- [Dev.to/JS] [🕵️ Looking at the top 5 FREE Alternatives to Postman 🔥](https://dev.to/quine/looking-at-the-top-5-free-alternatives-to-postman-58jl)
 - [Lifehacker] [Thanksgiving Turkey Porchetta Is Worth It in the End](https://lifehacker.com/thanksgiving-turkey-porchetta-is-worth-it-in-the-end-1851000096)
 - [Lifehacker] [Use These New Google Tools to Find Holiday Discounts](https://lifehacker.com/use-these-new-google-tools-to-find-holiday-discounts-1851001880)
 - [Lifehacker] [Use These Different Ice Packs on Every Part of Your Body](https://lifehacker.com/use-these-different-ice-packs-on-every-part-of-your-bod-1851001868)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Cheap and Easy DIY Soft Scrub](https://lifehacker.com/homemade-soft-scrub-recipe-1850999667)
 - [Lifehacker] [Lemon Water Doesn’t Do Anything](https://lifehacker.com/lemon-water-doesn-t-do-anything-1822932908)
 - [Lifehacker] [Freeze Your Thanksgiving Gravy Now, Add Drippings Later](https://lifehacker.com/freeze-your-thanksgiving-gravy-now-add-drippings-later-1850999490)
-- [Lifehacker] [Yes, You Can Have Too Much Money in a Savings Account](https://lifehacker.com/yes-you-can-have-too-much-money-in-a-savings-account-1850999287)
-- [Lifehacker] [Two Ways to Use the &#39;Blurting&#39; Method to Study](https://lifehacker.com/two-ways-to-use-the-blurting-method-to-study-1850999140)
-- [Lifehacker] [Everything at Noxgear Is 50% Off Right Now](https://lifehacker.com/everything-at-noxgear-is-50-off-right-now-1850998913)
-- [Lifehacker] [The Best Way to Share Your PlayStation Screenshots](https://lifehacker.com/the-best-way-to-share-your-playstation-screenshots-1850998668)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yes, You Can Have Too Much Money in a Savings Account](https://lifehacker.com/yes-you-can-have-too-much-money-in-a-savings-account-1850999287)<!-- TECH-POSTS:END -->
 
 ---
 
