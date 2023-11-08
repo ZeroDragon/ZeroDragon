@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn the SVG linear gradient axes](https://dev.to/witty_code/learn-the-svg-linear-gradient-axes-2j4a)
+- [Lifehacker] [These Are Walmart’s Best Early Black Friday Vacuum Deals](https://lifehacker.com/these-are-walmart-s-best-early-black-friday-vacuum-deal-1851001199)
+- [Dev.to/JS] [TOP - Objects and Object Constructors](https://dev.to/copious/top-objects-and-object-constructors-1p0)
+- [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)
+- [Lifehacker] [These Are the Best Smartwatch Deals During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-are-the-best-smartwatch-deals-during-walmarts-ear-1851003742)
 - [Dev.to/JS] [Typescript&#39;s enums may not be what you think](https://dev.to/gingerchew/typescripts-enums-may-not-be-what-you-think-4d1j)
 - [Dev.to/JS] [How to Add a JavaScript Pivot Table to Your Web Application](https://dev.to/mescius/how-to-add-a-javascript-pivot-table-to-your-web-application-1c1b)
 - [Dev.to/JS] [Next JS might be exposing your backend environment variables](https://dev.to/thecodeinfluencer/next-js-might-be-exposing-your-backend-environment-variables-4bmd)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Exploit These Extended Return Policies From Amazon, Apple, Best Buy, and Walmart](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
 - [Dev.to/JS] [How to build Single Sign-On for your Web App](https://dev.to/tbantle22/how-to-build-single-sign-on-for-your-web-app-ec1)
 - [Lifehacker] [How to Print Documents From Your iPhone](https://lifehacker.com/how-to-print-documents-from-your-iphone-1851002978)
-- [Dev.to/JS] [My review on JavaScript, React, CSS, Python and SQL](https://dev.to/skeesen8/my-review-on-javascript-react-css-python-and-sql-57a1)
-- [Dev.to/JS] [Best Resources For Web Developers 💻 [HTML + CSS + JavaScript]](https://dev.to/pinky057/24-best-resources-for-web-developers-html-css-javascript-opo)
 - [Lifehacker] [You Might Already Be Able to Disable Read Receipts for Your Instagram DMs](https://lifehacker.com/you-might-already-be-able-to-disable-read-receipts-for-1851003161)
 - [Lifehacker] [The Fastest Ways to Thaw Your Thanksgiving Turkey](https://lifehacker.com/what-to-do-if-your-turkey-is-still-frozen-1848113182)
 - [Lifehacker] [You Should Make a &#39;To-Don&#39;t List&#39;](https://lifehacker.com/you-should-make-a-to-dont-list-1851002808)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
 - [Lifehacker] [Here&#39;s an Early Look at Amazon&#39;s Black Friday Deals](https://lifehacker.com/heres-an-early-look-at-amazons-black-friday-deals-1851000539)
 - [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $15 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-15-ri-1850991050)
-- [Lifehacker] [Walmart Will Have PS5 and &#39;Spider-Man 2&#39; Bundles on Sale for $499](https://lifehacker.com/walmart-will-have-ps5-and-spider-man-2-bundles-on-sale-1851000160)
-- [Lifehacker] [You Can Try These New YouTube AI Features Right Now](https://lifehacker.com/you-can-try-these-new-youtube-ai-features-right-now-1851000046)
-- [Lifehacker] [The Best PG-13 Movies to Watch With Your Kid](https://lifehacker.com/the-best-pg-13-movies-to-watch-with-your-kid-1850999306)
-- [Lifehacker] [Make This Cheap and Easy DIY Soft Scrub](https://lifehacker.com/homemade-soft-scrub-recipe-1850999667)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Walmart Will Have PS5 and &#39;Spider-Man 2&#39; Bundles on Sale for $499](https://lifehacker.com/walmart-will-have-ps5-and-spider-man-2-bundles-on-sale-1851000160)<!-- TECH-POSTS:END -->
 
 ---
 
