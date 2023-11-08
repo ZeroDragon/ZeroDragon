@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Log Blog](https://dev.to/shokuninja/the-log-blog-2mo1)
+- [Dev.to/JS] [as any;](https://dev.to/manuartero/as-any-1ah3)
+- [Lifehacker] [Use These New Google Tools to Find Holiday Discounts](https://lifehacker.com/use-these-new-google-tools-to-find-holiday-discounts-1851001880)
+- [Dev.to/JS] [Using Hooks in React: &#39;useState&#39; &amp; &#39;useEffect&#39;](https://dev.to/tmarku4/using-hooks-in-react-usestate-useeffect-20mj)
+- [Dev.to/JS] [13 reasons why Dev Tutorials can be Misleading](https://dev.to/rickdelpo1/13-reasons-why-dev-tutorials-can-be-misleading-2bfn)
 - [Lifehacker] [Use These Different Ice Packs on Every Part of Your Body](https://lifehacker.com/use-these-different-ice-packs-on-every-part-of-your-bod-1851001868)
 - [Dev.to/JS] [How To Build AI Chatbots Using React JS in Minutes](https://dev.to/salmenus/how-to-build-ai-chatbots-using-react-js-in-minutes-1j67)
 - [Dev.to/JS] [Set and Map in JavaScript: A Close Look](https://dev.to/rasaf_ibrahim/set-and-map-in-javascript-a-close-look-h01)
@@ -37,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀Creating a resume builder with NextJS, Trigger.dev and GPT4🔥✨](https://dev.to/triggerdotdev/creating-a-resume-builder-with-nextjs-triggerdev-and-gpt4-4gmf)
 - [Dev.to/JS] [Anatomy of a Web Component: the Low-level Basics](https://dev.to/andyjessop/anatomy-of-a-web-component-the-low-level-basics-3gpp)
 - [Dev.to/JS] [Is Preact the Real Deal? Share Your Experience!](https://dev.to/opensourcee/is-preact-the-real-deal-share-your-experience-3fb)
-- [Dev.to/JS] [🚀 10 Projects to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl)
-- [Dev.to/JS] [Mastering Booleans with is.true and is.not_true in JavaScript: Your Guide to True Values](https://dev.to/karbashevskyi/mastering-booleans-with-istrue-and-isnottrue-in-javascript-your-guide-to-true-values-55gf)
-- [Dev.to/JS] [Embrace the Power of `is.falsy` and `is.not_falsy` with &#39;thiis&#39;: A Journey into JavaScript Booleans](https://dev.to/karbashevskyi/embrace-the-power-of-isfalsy-and-isnotfalsy-with-thiis-a-journey-into-javascript-booleans-1i9c)
-- [Dev.to/JS] [What’s difference between The Internet and The Web ?](https://dev.to/6736shafi/whats-difference-between-the-internet-and-the-web--3fgk)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
 - [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
 - [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These DIY Room Dividers Can Help Break Up Your Open Floor Plan](https://lifehacker.com/these-diy-room-dividers-can-help-break-up-your-open-flo-1850997451)
 - [Lifehacker] [Four Ways to Uninstall Apps on Android](https://lifehacker.com/how-to-uninstall-apps-on-android-1850996319)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
-- [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
-- [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)<!-- TECH-POSTS:END -->
 
 ---
 
