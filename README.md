@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding parts of URL](https://dev.to/tanmaycode/understanding-parts-of-url-1n1g)
+- [Dev.to/JS] [Interview Question: Priority Queue for Promises in JavaScript](https://dev.to/devsmitra/interview-question-priority-queue-for-promises-in-javascript-3l2)
+- [Dev.to/JS] [Letitia Dean Keto Gummies Reviews [Updated Warning 2023]](https://dev.to/letitiadeanketouk/letitia-dean-keto-gummies-reviews-updated-warning-2023-2e2l)
+- [Dev.to/JS] [Multidimensional Data Presentation Based on VTable](https://dev.to/xuanhun/multidimensional-data-presentation-based-on-vtable-e6o)
+- [Dev.to/JS] [W.I.L.D - Week 1](https://dev.to/393creative/wild-week-1-3cog)
 - [Dev.to/JS] [HOISTING IN JAVASCRIPT](https://dev.to/orung/hoisting-in-javascript-1198)
 - [Dev.to/JS] [What is an Example of Scripting Programming?](https://dev.to/rogerwillium/what-is-an-example-of-scripting-programming-329p)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
@@ -40,13 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Fetch &#39;cache&#39; with VanilaJS and Next.js](https://dev.to/lico/understanding-fetch-cache-with-vanilajs-and-nextjs-5g81)
 - [Lifehacker] [You Can Get a Lifetime of iBrave Web Hosting for $15 Right Now](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-web-hosting-for-15-ri-1850991050)
 - [Lifehacker] [Walmart Will Have PS5 and &#39;Spider-Man 2&#39; Bundles on Sale for $499](https://lifehacker.com/walmart-will-have-ps5-and-spider-man-2-bundles-on-sale-1851000160)
-- [Dev.to/JS] [JavaScript Fonksiyonlar](https://dev.to/eminaltan/javascript-fonksiyonlar-792)
-- [Dev.to/JS] [Thinking Beyond Next.js: When Not to Use It for Your Project](https://dev.to/alexopensource/thinking-beyond-nextjs-when-not-to-use-it-for-your-project-1h8l)
 - [Lifehacker] [You Can Try These New YouTube AI Features Right Now](https://lifehacker.com/you-can-try-these-new-youtube-ai-features-right-now-1851000046)
-- [Dev.to/JS] [I wrote a function that creates a drawing animation for any logo or simple SVG Image](https://dev.to/piko/i-wrote-a-function-that-creates-a-drawing-animation-for-any-logo-or-simple-svg-image-5g1e)
-- [Dev.to/JS] [JS Events - Basic Date Example](https://dev.to/ashehub/js-events-basic-date-example-4pl6)
 - [Lifehacker] [The Best PG-13 Movies to Watch With Your Kid](https://lifehacker.com/the-best-pg-13-movies-to-watch-with-your-kid-1850999306)
-- [Dev.to/JS] [Simple Calculator using HTML, CSS and JavaScript](https://dev.to/mhyemon95/calculator-17mg)
 - [Lifehacker] [Make This Cheap and Easy DIY Soft Scrub](https://lifehacker.com/homemade-soft-scrub-recipe-1850999667)
 - [Lifehacker] [Lemon Water Doesn’t Do Anything](https://lifehacker.com/lemon-water-doesn-t-do-anything-1822932908)
 - [Lifehacker] [Freeze Your Thanksgiving Gravy Now, Add Drippings Later](https://lifehacker.com/freeze-your-thanksgiving-gravy-now-add-drippings-later-1850999490)
