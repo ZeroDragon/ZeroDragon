@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build AWS State Machines using AWS CDK - Part III](https://dev.to/aws-builders/how-to-build-aws-state-machines-using-aws-cdk-part-iii-4ok9)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step: Upload files on S3](https://dev.to/pchol22/learn-serverless-on-aws-step-by-step-upload-files-on-s3-50d4)
+- [Dev.to/JS] [Build a CLI based Project Generator with Node](https://dev.to/ghostaram/build-a-cli-based-project-generator-with-node-56ld)
+- [Dev.to/JS] [🚀Creating a resume builder with NextJS, Trigger.dev and GPT4🔥✨](https://dev.to/triggerdotdev/creating-a-resume-builder-with-nextjs-triggerdev-and-gpt4-4gmf)
 - [Dev.to/JS] [Anatomy of a Web Component: the Low-level Basics](https://dev.to/andyjessop/anatomy-of-a-web-component-the-low-level-basics-3gpp)
 - [Dev.to/JS] [Is Preact the Real Deal? Share Your Experience!](https://dev.to/opensourcee/is-preact-the-real-deal-share-your-experience-3fb)
 - [Dev.to/JS] [🚀 10 Projects to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What’s difference between The Internet and The Web ?](https://dev.to/6736shafi/whats-difference-between-the-internet-and-the-web--3fgk)
 - [Dev.to/JS] [Paracetamol.js💊| #219: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-219-explica-este-codigo-javascript-42of)
 - [Dev.to/JS] [Effortless Data Fetching and Rendering with Redux Toolkit](https://dev.to/eneaslari/effortless-data-fetching-and-rendering-with-redux-toolkit-3fec)
-- [Dev.to/JS] [Let&#39;s Build React Card App](https://dev.to/dev_kiran/lets-build-react-card-app-2ia4)
-- [Dev.to/JS] [Fullstackopen Summary Part 2](https://dev.to/acesif/fullstackopen-summary-part-2-8l8)
-- [Dev.to/JS] [TicTacToe - the pragmatic way](https://dev.to/frankwisniewski/tictactoe-the-pragmatic-way-3kgg)
-- [Dev.to/JS] [Optimizing Vue Js Performance: Practical Tips and Code Examples Part 1](https://dev.to/devmahfuz/optimizing-vue-js-performance-practical-tips-and-code-examples-part-1-5b14)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
 - [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
 - [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
