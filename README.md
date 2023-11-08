@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use These Different Ice Packs on Every Part of Your Body](https://lifehacker.com/use-these-different-ice-packs-on-every-part-of-your-bod-1851001868)
+- [Dev.to/JS] [How To Build AI Chatbots Using React JS in Minutes](https://dev.to/salmenus/how-to-build-ai-chatbots-using-react-js-in-minutes-1j67)
+- [Dev.to/JS] [Set and Map in JavaScript: A Close Look](https://dev.to/rasaf_ibrahim/set-and-map-in-javascript-a-close-look-h01)
+- [Lifehacker] [Mark Your Calendar With These 2023 Holiday Shipping Deadlines](https://lifehacker.com/mark-your-calendar-with-these-2023-holiday-shipping-dea-1851000806)
+- [Lifehacker] [You Can Get Luminar Neo Lite for $50 Right Now](https://lifehacker.com/you-can-get-luminar-neo-lite-for-50-right-now-1850991219)
 - [Dev.to/JS] [How to build AWS State Machines using AWS CDK - Part III](https://dev.to/aws-builders/how-to-build-aws-state-machines-using-aws-cdk-part-iii-4ok9)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step: Upload files on S3](https://dev.to/pchol22/learn-serverless-on-aws-step-by-step-upload-files-on-s3-50d4)
 - [Dev.to/JS] [Build a CLI based Project Generator with Node](https://dev.to/ghostaram/build-a-cli-based-project-generator-with-node-56ld)
@@ -36,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Booleans with is.true and is.not_true in JavaScript: Your Guide to True Values](https://dev.to/karbashevskyi/mastering-booleans-with-istrue-and-isnottrue-in-javascript-your-guide-to-true-values-55gf)
 - [Dev.to/JS] [Embrace the Power of `is.falsy` and `is.not_falsy` with &#39;thiis&#39;: A Journey into JavaScript Booleans](https://dev.to/karbashevskyi/embrace-the-power-of-isfalsy-and-isnotfalsy-with-thiis-a-journey-into-javascript-booleans-1i9c)
 - [Dev.to/JS] [What’s difference between The Internet and The Web ?](https://dev.to/6736shafi/whats-difference-between-the-internet-and-the-web--3fgk)
-- [Dev.to/JS] [Paracetamol.js💊| #219: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-219-explica-este-codigo-javascript-42of)
-- [Dev.to/JS] [Effortless Data Fetching and Rendering with Redux Toolkit](https://dev.to/eneaslari/effortless-data-fetching-and-rendering-with-redux-toolkit-3fec)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
 - [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
 - [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways to Uninstall Apps on Android](https://lifehacker.com/how-to-uninstall-apps-on-android-1850996319)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 7, 2023](https://lifehacker.com/nyt-connections-answer-today-november-7-2023-1850994832)
 - [Lifehacker] [9 Ways to Make Google Chrome Safer and More Private](https://lifehacker.com/change-these-default-chrome-privacy-settings-1848561036)
-- [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)
-- [Lifehacker] [Use the ‘REAP’ Method to Study Brand New Information](https://lifehacker.com/use-the-reap-method-for-studying-new-information-1850995271)
-- [Lifehacker] [How to Clean When You Feel Overwhelmed](https://lifehacker.com/7-of-the-best-cleaning-methods-when-you-feel-overwhelme-1850029414)
-- [Lifehacker] [This Smart Digital Ruler Is $115 Right Now](https://lifehacker.com/this-smart-digital-ruler-is-115-right-now-1850986817)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)<!-- TECH-POSTS:END -->
 
 ---
 
