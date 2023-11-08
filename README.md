@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My review on JavaScript, React, CSS, Python and SQL](https://dev.to/skeesen8/my-review-on-javascript-react-css-python-and-sql-57a1)
+- [Dev.to/JS] [Best Resources For Web Developers 💻 [HTML + CSS + JavaScript]](https://dev.to/pinky057/24-best-resources-for-web-developers-html-css-javascript-opo)
+- [Lifehacker] [You Might Already Be Able to Disable Read Receipts for Your Instagram DMs](https://lifehacker.com/you-might-already-be-able-to-disable-read-receipts-for-1851003161)
+- [Dev.to/JS] [Cash App $750 free](https://dev.to/lizadydv/cash-app-750-free-18i9)
+- [Lifehacker] [The Fastest Ways to Thaw Your Thanksgiving Turkey](https://lifehacker.com/what-to-do-if-your-turkey-is-still-frozen-1848113182)
+- [Dev.to/JS] [Importance of File system in system design 📂](https://dev.to/mukeshkuiry/importance-of-file-system-in-system-design-475e)
+- [Dev.to/JS] [React Higher Order Component](https://dev.to/rakibhasan1/react-higher-order-component-4c11)
+- [Lifehacker] [You Should Make a &#39;To-Don&#39;t List&#39;](https://lifehacker.com/you-should-make-a-to-dont-list-1851002808)
 - [Dev.to/JS] [Writing clean and maintainable JSX](https://dev.to/pinky057/writing-clean-and-maintainable-jsx-438p)
-- [Dev.to/JS] [Writing clean and maintainable JSX](https://dev.to/pinky057/writing-clean-and-maintainable-jsx-14jf)
 - [Lifehacker] [Why Twice-Baked Potatoes Are Better Than Mashed](https://lifehacker.com/why-twice-baked-potatoes-are-better-than-mashed-1851001796)
 - [Dev.to/JS] [Understanding of CommonJS&lpar;Basics Node.js Series&rpar;](https://dev.to/ajitforger97/understanding-of-commonjsbasics-nodejs-series-149j)
 - [Lifehacker] [Walmart&#39;s Early Black Friday Deals Went Live Today](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
@@ -38,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 Modern Christmas Classics You Can Stream Right Now](https://lifehacker.com/modern-christmas-classics-you-can-stream-right-now-1850996662)
 - [Dev.to/JS] [welxome back](https://dev.to/abhishek8928/welxome-back-16md)
 - [Dev.to/JS] [🕵️ Looking at the top 5 FREE Alternatives to Postman 🔥](https://dev.to/quine/looking-at-the-top-5-free-alternatives-to-postman-58jl)
-- [Dev.to/JS] [Using TypeScript Enums in Angular Templates](https://dev.to/mescius/using-typescript-enums-in-angular-templates-423l)
-- [Dev.to/JS] [I made an app that generates random blob creatures! Use cases include: endless avatar creation](https://dev.to/piko/i-made-an-app-that-generates-random-blob-creatures-use-cases-include-endless-avatar-creation-5dio)
 - [Lifehacker] [Thanksgiving Turkey Porchetta Is Worth It in the End](https://lifehacker.com/thanksgiving-turkey-porchetta-is-worth-it-in-the-end-1851000096)
-- [Dev.to/JS] [The Log Blog](https://dev.to/shokuninja/the-log-blog-2mo1)
-- [Dev.to/JS] [as any;](https://dev.to/manuartero/as-any-1ah3)
 - [Lifehacker] [Use These New Google Tools to Find Holiday Discounts](https://lifehacker.com/use-these-new-google-tools-to-find-holiday-discounts-1851001880)
 - [Lifehacker] [Use These Different Ice Packs on Every Part of Your Body](https://lifehacker.com/use-these-different-ice-packs-on-every-part-of-your-bod-1851001868)
 - [Lifehacker] [Mark Your Calendar With These 2023 Holiday Shipping Deadlines](https://lifehacker.com/mark-your-calendar-with-these-2023-holiday-shipping-dea-1851000806)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, You Can Have Too Much Money in a Savings Account](https://lifehacker.com/yes-you-can-have-too-much-money-in-a-savings-account-1850999287)
 - [Lifehacker] [Two Ways to Use the &#39;Blurting&#39; Method to Study](https://lifehacker.com/two-ways-to-use-the-blurting-method-to-study-1850999140)
 - [Lifehacker] [Everything at Noxgear Is 50% Off Right Now](https://lifehacker.com/everything-at-noxgear-is-50-off-right-now-1850998913)
-- [Lifehacker] [The Best Way to Share Your PlayStation Screenshots](https://lifehacker.com/the-best-way-to-share-your-playstation-screenshots-1850998668)
-- [Lifehacker] [This AI Resume Builder Is $33 Right Now](https://lifehacker.com/this-ai-resume-builder-is-33-right-now-1850991002)
-- [Lifehacker] [Why You Need to Stop Using LinkedIn’s Template to Message Recruiters](https://lifehacker.com/why-you-need-to-stop-using-linkedin-s-template-to-messa-1850993125)
-- [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Share Your PlayStation Screenshots](https://lifehacker.com/the-best-way-to-share-your-playstation-screenshots-1850998668)<!-- TECH-POSTS:END -->
 
 ---
 
