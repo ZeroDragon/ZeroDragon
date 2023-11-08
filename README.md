@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on Laptops](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-lap-1851004628)
 - [Dev.to/JS] [Create A Restaurant Bill and Tip Calculator in JavaScript](https://dev.to/thedevdrawer/create-a-restaurant-bill-and-tip-calculator-in-javascript-25ep)
 - [Dev.to/JS] [How to Use Angular Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-angular-pivot-grids-and-panels-in-your-web-application-1k56)
 - [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on TVs](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-tvs-1851003978)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
 - [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
 - [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
-- [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)
-- [Lifehacker] [Here&#39;s an Early Look at Amazon&#39;s Black Friday Deals](https://lifehacker.com/heres-an-early-look-at-amazons-black-friday-deals-1851000539)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)<!-- TECH-POSTS:END -->
 
 ---
 
