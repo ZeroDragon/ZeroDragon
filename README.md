@@ -26,6 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript&#39;s enums may not be what you think](https://dev.to/gingerchew/typescripts-enums-may-not-be-what-you-think-4d1j)
+- [Dev.to/JS] [How to Add a JavaScript Pivot Table to Your Web Application](https://dev.to/mescius/how-to-add-a-javascript-pivot-table-to-your-web-application-1c1b)
+- [Dev.to/JS] [Next JS might be exposing your backend environment variables](https://dev.to/thecodeinfluencer/next-js-might-be-exposing-your-backend-environment-variables-4bmd)
+- [Lifehacker] [The Apple watchOS 10.1.1 Update Fixes a Critical Issue](https://lifehacker.com/the-apple-watchos-10-1-1-update-fixes-a-critical-issue-1851003414)
+- [Dev.to/JS] [Crafting a basic React IP Address Fetch Utility for beginners: From Start to Finish](https://dev.to/alexopensource/crafting-a-basic-react-ip-address-fetch-utility-for-beginners-from-start-to-finish-k4k)
+- [Dev.to/JS] [Tree Shaking in JavaScript: Boost Web Performance](https://dev.to/kartikbudhraja/tree-shaking-in-javascript-boost-web-performance-1ach)
+- [Lifehacker] [The Best Deals for Vets on Veterans Day 2023](https://lifehacker.com/the-best-veterans-day-deals-that-arent-free-food-1849764792)
+- [Dev.to/JS] [File Upload with Progress Bar HTML CSS &amp; JavaScript](https://dev.to/codingcss/file-upload-with-progress-bar-html-css-javascript-341c)
+- [Dev.to/JS] [Tricksters of Typescript](https://dev.to/hakimov_dev/tricksters-of-typescript-24ed)
+- [Lifehacker] [Here’s When It’s Smart to Have Just One Credit Card](https://lifehacker.com/here-s-when-it-s-smart-to-have-just-one-credit-card-1851002878)
 - [Dev.to/JS] [ARE YOU AN INVESTMENT OR ONLINE SCAM VICTIM? iBOLT CYBER HACKER CAN ASSIST YOU.](https://dev.to/elijah_robert/are-you-an-investment-or-online-scam-victim-ibolt-cyber-hacker-can-assist-you-336g)
 - [Dev.to/JS] [What is Linting and how to use a Linter tool.](https://dev.to/aryan_shourie/what-is-linting-and-how-to-use-a-linter-tool-524l)
 - [Lifehacker] [You Can Get SheetsMagic for $50 Right Now and Integrate ChatGPT With Google Sheets](https://lifehacker.com/you-can-get-sheetsmagic-for-50-right-now-and-integrate-1850991391)
@@ -35,18 +45,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My review on JavaScript, React, CSS, Python and SQL](https://dev.to/skeesen8/my-review-on-javascript-react-css-python-and-sql-57a1)
 - [Dev.to/JS] [Best Resources For Web Developers 💻 [HTML + CSS + JavaScript]](https://dev.to/pinky057/24-best-resources-for-web-developers-html-css-javascript-opo)
 - [Lifehacker] [You Might Already Be Able to Disable Read Receipts for Your Instagram DMs](https://lifehacker.com/you-might-already-be-able-to-disable-read-receipts-for-1851003161)
-- [Dev.to/JS] [Cash App $750 free](https://dev.to/lizadydv/cash-app-750-free-18i9)
 - [Lifehacker] [The Fastest Ways to Thaw Your Thanksgiving Turkey](https://lifehacker.com/what-to-do-if-your-turkey-is-still-frozen-1848113182)
-- [Dev.to/JS] [Importance of File system in system design 📂](https://dev.to/mukeshkuiry/importance-of-file-system-in-system-design-475e)
-- [Dev.to/JS] [React Higher Order Component](https://dev.to/rakibhasan1/react-higher-order-component-4c11)
 - [Lifehacker] [You Should Make a &#39;To-Don&#39;t List&#39;](https://lifehacker.com/you-should-make-a-to-dont-list-1851002808)
-- [Dev.to/JS] [Writing clean and maintainable JSX](https://dev.to/pinky057/writing-clean-and-maintainable-jsx-438p)
 - [Lifehacker] [Why Twice-Baked Potatoes Are Better Than Mashed](https://lifehacker.com/why-twice-baked-potatoes-are-better-than-mashed-1851001796)
-- [Dev.to/JS] [Understanding of CommonJS&lpar;Basics Node.js Series&rpar;](https://dev.to/ajitforger97/understanding-of-commonjsbasics-nodejs-series-149j)
 - [Lifehacker] [Walmart&#39;s Early Black Friday Deals Went Live Today](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
 - [Lifehacker] [You Can Get This Geminos Stacked Dual-Screen Monitor for Over $150 Off Right Now](https://lifehacker.com/you-can-get-this-geminos-stacked-dual-screen-monitor-fo-1850991293)
-- [Dev.to/JS] [Node.js modules &lpar;Basics Node.js Series&rpar;](https://dev.to/ajitforger97/nodejs-modules-basics-nodejs-series-2dpb)
-- [Dev.to/JS] [Introducing Nue JS, a Svelte alternative](https://dev.to/logrocket/introducing-nue-js-a-svelte-alternative-3dil)
 - [Lifehacker] [25 Modern Christmas Classics You Can Stream Right Now](https://lifehacker.com/modern-christmas-classics-you-can-stream-right-now-1850996662)
 - [Lifehacker] [Thanksgiving Turkey Porchetta Is Worth It in the End](https://lifehacker.com/thanksgiving-turkey-porchetta-is-worth-it-in-the-end-1851000096)
 - [Lifehacker] [Use These New Google Tools to Find Holiday Discounts](https://lifehacker.com/use-these-new-google-tools-to-find-holiday-discounts-1851001880)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Walmart Will Have PS5 and &#39;Spider-Man 2&#39; Bundles on Sale for $499](https://lifehacker.com/walmart-will-have-ps5-and-spider-man-2-bundles-on-sale-1851000160)
 - [Lifehacker] [You Can Try These New YouTube AI Features Right Now](https://lifehacker.com/you-can-try-these-new-youtube-ai-features-right-now-1851000046)
 - [Lifehacker] [The Best PG-13 Movies to Watch With Your Kid](https://lifehacker.com/the-best-pg-13-movies-to-watch-with-your-kid-1850999306)
-- [Lifehacker] [Make This Cheap and Easy DIY Soft Scrub](https://lifehacker.com/homemade-soft-scrub-recipe-1850999667)
-- [Lifehacker] [Lemon Water Doesn’t Do Anything](https://lifehacker.com/lemon-water-doesn-t-do-anything-1822932908)
-- [Lifehacker] [Freeze Your Thanksgiving Gravy Now, Add Drippings Later](https://lifehacker.com/freeze-your-thanksgiving-gravy-now-add-drippings-later-1850999490)
-- [Lifehacker] [Yes, You Can Have Too Much Money in a Savings Account](https://lifehacker.com/yes-you-can-have-too-much-money-in-a-savings-account-1850999287)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Cheap and Easy DIY Soft Scrub](https://lifehacker.com/homemade-soft-scrub-recipe-1850999667)<!-- TECH-POSTS:END -->
 
 ---
 
