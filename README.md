@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing clean and maintainable JSX](https://dev.to/pinky057/writing-clean-and-maintainable-jsx-438p)
+- [Dev.to/JS] [Writing clean and maintainable JSX](https://dev.to/pinky057/writing-clean-and-maintainable-jsx-14jf)
+- [Lifehacker] [Why Twice-Baked Potatoes Are Better Than Mashed](https://lifehacker.com/why-twice-baked-potatoes-are-better-than-mashed-1851001796)
+- [Dev.to/JS] [Understanding of CommonJS&lpar;Basics Node.js Series&rpar;](https://dev.to/ajitforger97/understanding-of-commonjsbasics-nodejs-series-149j)
+- [Lifehacker] [Walmart&#39;s Early Black Friday Deals Went Live Today](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
+- [Lifehacker] [You Can Get This Geminos Stacked Dual-Screen Monitor for Over $150 Off Right Now](https://lifehacker.com/you-can-get-this-geminos-stacked-dual-screen-monitor-fo-1850991293)
+- [Dev.to/JS] [Node.js modules &lpar;Basics Node.js Series&rpar;](https://dev.to/ajitforger97/nodejs-modules-basics-nodejs-series-2dpb)
 - [Dev.to/JS] [Introducing Nue JS, a Svelte alternative](https://dev.to/logrocket/introducing-nue-js-a-svelte-alternative-3dil)
 - [Dev.to/JS] [Field Plugin SDK v1 Stable Release](https://dev.to/storyblok/field-plugin-sdk-v1-stable-release-30jn)
 - [Lifehacker] [25 Modern Christmas Classics You Can Stream Right Now](https://lifehacker.com/modern-christmas-classics-you-can-stream-right-now-1850996662)
@@ -37,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Log Blog](https://dev.to/shokuninja/the-log-blog-2mo1)
 - [Dev.to/JS] [as any;](https://dev.to/manuartero/as-any-1ah3)
 - [Lifehacker] [Use These New Google Tools to Find Holiday Discounts](https://lifehacker.com/use-these-new-google-tools-to-find-holiday-discounts-1851001880)
-- [Dev.to/JS] [Using Hooks in React: &#39;useState&#39; &amp; &#39;useEffect&#39;](https://dev.to/tmarku4/using-hooks-in-react-usestate-useeffect-20mj)
-- [Dev.to/JS] [13 reasons why Google Tutorials can be Misleading](https://dev.to/rickdelpo1/13-reasons-why-dev-tutorials-can-be-misleading-2bfn)
 - [Lifehacker] [Use These Different Ice Packs on Every Part of Your Body](https://lifehacker.com/use-these-different-ice-packs-on-every-part-of-your-bod-1851001868)
-- [Dev.to/JS] [How To Build AI Chatbots Using React JS in Minutes](https://dev.to/salmenus/how-to-build-ai-chatbots-using-react-js-in-minutes-1j67)
-- [Dev.to/JS] [Set and Map in JavaScript: A Close Look](https://dev.to/rasaf_ibrahim/set-and-map-in-javascript-a-close-look-h01)
 - [Lifehacker] [Mark Your Calendar With These 2023 Holiday Shipping Deadlines](https://lifehacker.com/mark-your-calendar-with-these-2023-holiday-shipping-dea-1851000806)
 - [Lifehacker] [You Can Get Luminar Neo Lite for $50 Right Now](https://lifehacker.com/you-can-get-luminar-neo-lite-for-50-right-now-1850991219)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Share Your PlayStation Screenshots](https://lifehacker.com/the-best-way-to-share-your-playstation-screenshots-1850998668)
 - [Lifehacker] [This AI Resume Builder Is $33 Right Now](https://lifehacker.com/this-ai-resume-builder-is-33-right-now-1850991002)
 - [Lifehacker] [Why You Need to Stop Using LinkedIn’s Template to Message Recruiters](https://lifehacker.com/why-you-need-to-stop-using-linkedin-s-template-to-messa-1850993125)
-- [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
-- [Lifehacker] [How to Clear the Cache on Your iPhone](https://lifehacker.com/how-to-clear-the-cache-on-your-iphone-1850998050)
-- [Lifehacker] [These DIY Room Dividers Can Help Break Up Your Open Floor Plan](https://lifehacker.com/these-diy-room-dividers-can-help-break-up-your-open-flo-1850997451)
-- [Lifehacker] [Four Ways to Uninstall Apps on Android](https://lifehacker.com/how-to-uninstall-apps-on-android-1850996319)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)<!-- TECH-POSTS:END -->
 
 ---
 
