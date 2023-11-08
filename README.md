@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is an Example of Scripting Programming?](https://dev.to/rogerwillium/what-is-an-example-of-scripting-programming-329p)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
+- [Dev.to/JS] [Building Node.js C++ Addon for Document Edge Detection and Rectification](https://dev.to/yushulx/building-nodejs-c-addon-for-document-edge-detection-and-rectification-4n70)
 - [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
 - [Dev.to/JS] [How the internet works by Subair quadri](https://dev.to/mc_coast02/how-the-internet-works-by-subair-quadri-4da6)
 - [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
@@ -44,11 +47,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best PG-13 Movies to Watch With Your Kid](https://lifehacker.com/the-best-pg-13-movies-to-watch-with-your-kid-1850999306)
 - [Dev.to/JS] [Simple Calculator using HTML, CSS and JavaScript](https://dev.to/mhyemon95/calculator-17mg)
 - [Dev.to/JS] [How I Found a Front-End Bug on Spotify&#39;s Mobile App: Bug Bounty and Beyond](https://dev.to/aswin2001barath/how-i-found-a-front-end-bug-on-spotifys-mobile-app-bug-bounty-and-beyond-2lbi)
-- [Dev.to/JS] [The 2000 line framework challenge: How to build Web Components with two-way state binding with only 1 file &lpar;and no node_modules&rpar;](https://dev.to/michaelpb/the-2000-line-framework-challenge-how-to-build-web-components-with-two-way-state-binding-with-only-1-file-and-no-nodemodules-2jmf)
 - [Lifehacker] [Make This Cheap and Easy DIY Soft Scrub](https://lifehacker.com/homemade-soft-scrub-recipe-1850999667)
 - [Lifehacker] [Lemon Water Doesn’t Do Anything](https://lifehacker.com/lemon-water-doesn-t-do-anything-1822932908)
 - [Lifehacker] [Freeze Your Thanksgiving Gravy Now, Add Drippings Later](https://lifehacker.com/freeze-your-thanksgiving-gravy-now-add-drippings-later-1850999490)
-- [Dev.to/JS] [JS Functions - Basic Example With Parameters](https://dev.to/ashehub/js-functions-basic-example-with-parameters-1hia)
 - [Lifehacker] [Yes, You Can Have Too Much Money in a Savings Account](https://lifehacker.com/yes-you-can-have-too-much-money-in-a-savings-account-1850999287)
 - [Lifehacker] [Two Ways to Use the &#39;Blurting&#39; Method to Study](https://lifehacker.com/two-ways-to-use-the-blurting-method-to-study-1850999140)
 - [Lifehacker] [Everything at Noxgear Is 50% Off Right Now](https://lifehacker.com/everything-at-noxgear-is-50-off-right-now-1850998913)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Plugin Shows You Where Every Amazon Product Was Made](https://lifehacker.com/this-plugin-shows-you-where-every-amazon-product-was-ma-1850995122)
 - [Lifehacker] [Use the ‘REAP’ Method to Study Brand New Information](https://lifehacker.com/use-the-reap-method-for-studying-new-information-1850995271)
 - [Lifehacker] [How to Clean When You Feel Overwhelmed](https://lifehacker.com/7-of-the-best-cleaning-methods-when-you-feel-overwhelme-1850029414)
-- [Lifehacker] [This Smart Digital Ruler Is $115 Right Now](https://lifehacker.com/this-smart-digital-ruler-is-115-right-now-1850986817)
-- [Lifehacker] [When to See the Northern Lights From the Continental U.S. This Week](https://lifehacker.com/when-to-see-the-northern-lights-from-the-continental-u-1850996264)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Smart Digital Ruler Is $115 Right Now](https://lifehacker.com/this-smart-digital-ruler-is-115-right-now-1850986817)<!-- TECH-POSTS:END -->
 
 ---
 
