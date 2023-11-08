@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Anatomy of a Web Component: the Low-level Basics](https://dev.to/andyjessop/anatomy-of-a-web-component-the-low-level-basics-3gpp)
+- [Dev.to/JS] [Is Preact the Real Deal? Share Your Experience!](https://dev.to/opensourcee/is-preact-the-real-deal-share-your-experience-3fb)
+- [Dev.to/JS] [🚀 10 Projects to skyrocket your coding skills](https://dev.to/bigsondev/10-projects-to-skyrocket-your-coding-skills-19hl)
 - [Dev.to/JS] [Mastering Booleans with is.true and is.not_true in JavaScript: Your Guide to True Values](https://dev.to/karbashevskyi/mastering-booleans-with-istrue-and-isnottrue-in-javascript-your-guide-to-true-values-55gf)
 - [Dev.to/JS] [Embrace the Power of `is.falsy` and `is.not_falsy` with &#39;thiis&#39;: A Journey into JavaScript Booleans](https://dev.to/karbashevskyi/embrace-the-power-of-isfalsy-and-isnotfalsy-with-thiis-a-journey-into-javascript-booleans-1i9c)
 - [Dev.to/JS] [What’s difference between The Internet and The Web ?](https://dev.to/6736shafi/whats-difference-between-the-internet-and-the-web--3fgk)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fullstackopen Summary Part 2](https://dev.to/acesif/fullstackopen-summary-part-2-8l8)
 - [Dev.to/JS] [TicTacToe - the pragmatic way](https://dev.to/frankwisniewski/tictactoe-the-pragmatic-way-3kgg)
 - [Dev.to/JS] [Optimizing Vue Js Performance: Practical Tips and Code Examples Part 1](https://dev.to/devmahfuz/optimizing-vue-js-performance-practical-tips-and-code-examples-part-1-5b14)
-- [Dev.to/JS] [How we used Neural network, Replicate.com, and WebGL to generate photorealistic 3D avatars for the GitNation portal`s users](https://dev.to/focusreactive/how-we-used-neural-network-replicatecom-and-webgl-to-generate-photorealistic-3d-avatars-for-the-gitnation-portals-users-3cim)
-- [Dev.to/JS] [Tackle DDOS attacks with Redis Rate Limiting](https://dev.to/reeshee/tackle-ddos-with-redis-rate-limiting-3n1i)
-- [Dev.to/JS] [VisActor — Narrative-oriented Intelligent Visualization Solution](https://dev.to/xuanhun/visactor-narrative-oriented-intelligent-visualization-solution-178h)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
 - [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
 - [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
