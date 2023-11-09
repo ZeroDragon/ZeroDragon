@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Thanksgiving Dinner Needs These No-Knead Dinner Rolls](https://lifehacker.com/soft-no-kead-dinner-rolls-recipe-1851007587)
+- [Dev.to/JS] [Demystifying Semantic Versioning](https://dev.to/omkarbhavare/demystifying-semantic-versioning-3ic8)
+- [Lifehacker] [This Kodak Film Scanner Is $170 Today](https://lifehacker.com/this-kodak-film-scanner-is-170-today-1850991327)
+- [Lifehacker] [Roblox Gift Cards Are 40% Off at Target Today](https://lifehacker.com/you-can-get-roblox-gift-cards-40-off-today-1851007681)
+- [Dev.to/JS] [AISEO.ai](https://dev.to/wsovn4/aiseoai-160l)
+- [Dev.to/JS] [How to migrate from SuperViz v4.x to v5.x](https://dev.to/superviz/how-to-migrate-from-superviz-v4x-to-v5x-2ei6)
+- [Dev.to/JS] [SlideModel](https://dev.to/rankmarket123/slidemodel-5385)
+- [Dev.to/JS] [Day 85: Device Orientation](https://dev.to/dhrn/day-85device-orientation-5dba)
+- [Dev.to/JS] [Embracing the Future with Progressive Web Apps](https://dev.to/bubu13gu/embracing-the-future-with-progressive-web-apps-43n7)
 - [Dev.to/JS] [Contentpace](https://dev.to/wsovn4/contentpace-189h)
 - [Dev.to/JS] [Treewalker api javascript](https://dev.to/thejokers/treewalker-api-javascript-j58)
 - [Dev.to/JS] [1000+ HTML templates you can use for FREE 🤩](https://dev.to/todayscode14/1000-html-templates-you-can-use-for-free-gj)
@@ -35,16 +44,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Choosing Between React and Angular: Making an Informed Decision](https://dev.to/rohitashsingh89/choosing-between-react-and-angular-making-an-informed-decision-1dih)
 - [Lifehacker] [13 Podcasts for Your Holiday Road Trip](https://lifehacker.com/the-best-podcasts-for-a-road-trip-1851005103)
 - [Lifehacker] [The Best Ways to Win Over a Job Recruiter](https://lifehacker.com/the-best-ways-to-win-over-a-job-recruiter-1850993132)
-- [Dev.to/JS] [Sonavel - Ear Results, Reviews, Price, Ingredients &amp; Benefits?](https://dev.to/wsakhrua/sonavel-ear-results-reviews-price-ingredients-benefits-2j2g)
 - [Lifehacker] [How to Record Your Screen in Windows 11](https://lifehacker.com/how-to-record-your-screen-in-windows-11-1851005168)
-- [Dev.to/JS] [React Best Practices 🚀](https://dev.to/bhavesh_yadav/react-best-practices-51hc)
 - [Lifehacker] [Waze Can Now Help You Stay Off Accident-Prone Roads](https://lifehacker.com/waze-can-now-help-you-stay-off-accident-prone-roads-1851006424)
 - [Lifehacker] [You Should Make Turkey Pastrami for Thanksgiving](https://lifehacker.com/you-should-make-turkey-pastrami-for-thanksgiving-1851001884)
-- [Dev.to/JS] [EcmaScript Modules na prática](https://dev.to/itsmicaio/ecmascript-modules-na-pratica-4ppn)
-- [Dev.to/JS] [De Array para Set e Volta: Uma Jornada Sem ou Com Duplicatas!](https://dev.to/mattheuzz/de-array-para-set-e-volta-uma-jornada-sem-ou-com-duplicatas-22fh)
 - [Lifehacker] [TikTok Myth of the Week: Why Everyone&#39;s Freaking Out About the MTHFR Gene](https://lifehacker.com/tiktok-myth-of-the-week-why-everyones-freaking-out-abo-1851004664)
-- [Dev.to/JS] [Why Is the Nullish Coalescing Operator&lpar;??&rpar; Essential in JavaScript?](https://dev.to/jaimaldullat/why-is-the-nullish-coalescing-operator-essential-in-javascript-4g2j)
-- [Dev.to/JS] [Exploring Angular 17: A Glimpse into the Future of Web Development - Part 2](https://dev.to/this-is-learning/exploring-angular-17-a-glimpse-into-the-future-of-web-development-part-2-3e0)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Print Documents From Your iPhone](https://lifehacker.com/how-to-print-documents-from-your-iphone-1851002978)
 - [Lifehacker] [You Might Already Be Able to Disable Read Receipts for Your Instagram DMs](https://lifehacker.com/you-might-already-be-able-to-disable-read-receipts-for-1851003161)
 - [Lifehacker] [The Fastest Ways to Thaw Your Thanksgiving Turkey](https://lifehacker.com/what-to-do-if-your-turkey-is-still-frozen-1848113182)
-- [Lifehacker] [You Should Make a &#39;To-Don&#39;t List&#39;](https://lifehacker.com/you-should-make-a-to-dont-list-1851002808)
-- [Lifehacker] [Why Twice-Baked Potatoes Are Better Than Mashed](https://lifehacker.com/why-twice-baked-potatoes-are-better-than-mashed-1851001796)
-- [Lifehacker] [Walmart&#39;s Early Black Friday Deals Went Live Today](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
-- [Lifehacker] [You Can Get This Geminos Stacked Dual-Screen Monitor for Over $150 Off Right Now](https://lifehacker.com/you-can-get-this-geminos-stacked-dual-screen-monitor-fo-1850991293)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Make a &#39;To-Don&#39;t List&#39;](https://lifehacker.com/you-should-make-a-to-dont-list-1851002808)<!-- TECH-POSTS:END -->
 
 ---
 
