@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tô meio perdido, necessito de um resgate .](https://dev.to/fruguinha/to-meio-perdido-necessito-de-um-resgate--nc8)
+- [Dev.to/JS] [Integrating GraphQL in React.js: Simplifying Data Fetching](https://dev.to/jayanthbabu123/integrating-graphql-in-reactjs-simplifying-data-fetching-5aan)
+- [Lifehacker] [You Can Now Hide Your IP Address During WhatsApp Calls](https://lifehacker.com/you-can-now-hide-your-ip-address-during-whatsapp-calls-1851007730)
 - [Lifehacker] [Your Thanksgiving Dinner Needs These No-Knead Dinner Rolls](https://lifehacker.com/soft-no-kead-dinner-rolls-recipe-1851007587)
 - [Dev.to/JS] [Demystifying Semantic Versioning](https://dev.to/omkarbhavare/demystifying-semantic-versioning-3ic8)
 - [Lifehacker] [This Kodak Film Scanner Is $170 Today](https://lifehacker.com/this-kodak-film-scanner-is-170-today-1850991327)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [1000+ HTML templates you can use for FREE 🤩](https://dev.to/todayscode14/1000-html-templates-you-can-use-for-free-gj)
 - [Dev.to/JS] [Common Pitfalls: Code Practices That Disable Tree Shaking in Vue.js](https://dev.to/rafaelogic/common-pitfalls-code-practices-that-disable-tree-shaking-in-vuejs-applications-101a)
 - [Lifehacker] [You Can Now See How Much RAM a Chrome Tab Is Using](https://lifehacker.com/you-can-now-see-how-much-ram-a-chrome-tab-is-using-1851007147)
-- [Dev.to/JS] [Astro: progressively enhanced forms](https://dev.to/mfrachet/astro-progressively-enhanced-forms-442g)
-- [Dev.to/JS] [Choosing Between React and Angular: Making an Informed Decision](https://dev.to/rohitashsingh89/choosing-between-react-and-angular-making-an-informed-decision-1dih)
 - [Lifehacker] [13 Podcasts for Your Holiday Road Trip](https://lifehacker.com/the-best-podcasts-for-a-road-trip-1851005103)
 - [Lifehacker] [The Best Ways to Win Over a Job Recruiter](https://lifehacker.com/the-best-ways-to-win-over-a-job-recruiter-1850993132)
 - [Lifehacker] [How to Record Your Screen in Windows 11](https://lifehacker.com/how-to-record-your-screen-in-windows-11-1851005168)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Exploit These Extended Return Policies From Amazon, Apple, Best Buy, and Walmart](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
 - [Lifehacker] [How to Print Documents From Your iPhone](https://lifehacker.com/how-to-print-documents-from-your-iphone-1851002978)
 - [Lifehacker] [You Might Already Be Able to Disable Read Receipts for Your Instagram DMs](https://lifehacker.com/you-might-already-be-able-to-disable-read-receipts-for-1851003161)
-- [Lifehacker] [The Fastest Ways to Thaw Your Thanksgiving Turkey](https://lifehacker.com/what-to-do-if-your-turkey-is-still-frozen-1848113182)
-- [Lifehacker] [You Should Make a &#39;To-Don&#39;t List&#39;](https://lifehacker.com/you-should-make-a-to-dont-list-1851002808)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Fastest Ways to Thaw Your Thanksgiving Turkey](https://lifehacker.com/what-to-do-if-your-turkey-is-still-frozen-1848113182)<!-- TECH-POSTS:END -->
 
 ---
 
