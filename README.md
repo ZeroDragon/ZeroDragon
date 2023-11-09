@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Meme November: Day - 8](https://dev.to/jon_snow789/meme-november-day-8-3i1h)
+- [Dev.to/JS] [Data prefetch of alovajs, a request strategy library](https://dev.to/coderhu/data-prefetch-of-alovajs-a-request-strategy-library-42ej)
+- [Dev.to/JS] [Dịch vụ SEO trọn gói](https://dev.to/dvseotrongoicom/dich-vu-seo-tron-goi-58pj)
 - [Dev.to/JS] [↩️Clean Coding Tip: Early Return Principle](https://dev.to/shameel/-clean-coding-tip-early-return-principle-47kj)
 - [Dev.to/JS] [The Reflect API: The Swiss Army Knife Every JavaScript Developer Needs](https://dev.to/this-is-learning/the-reflect-api-the-swiss-army-knife-every-javascript-developer-needs-512k)
 - [Dev.to/JS] [Latest Updates and Changes in Cisco 300-410 Exam](https://dev.to/300410exams/latest-updates-and-changes-in-cisco-300-410-exam-516g)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Power of Open Source: How to Get Involved and Why It Matters](https://dev.to/alexopensource/unlocking-the-power-of-open-source-how-to-get-involved-and-why-it-matters-2b68)
 - [Dev.to/JS] [FontAwesome Alternatives: Explore These 4 Free Icon Libraries](https://dev.to/sabbirsobhani/fontawesome-alternatives-explore-these-4-free-icon-libraries-53ll)
 - [Dev.to/JS] [Easy Leafz CBD Gummies Reviews Canada 2023, Where to Buy in Canada?](https://dev.to/easyleafzcbd/easy-leafz-cbd-gummies-reviews-canada-2023-where-to-buy-in-canada-9c7)
-- [Dev.to/JS] [Dynamic Components In Vue](https://dev.to/devmahfuz/dynamic-components-in-vue-1d87)
-- [Dev.to/JS] [Navigating Unit Testing in React: Your Questions Answered](https://dev.to/opensourcee/navigating-unit-testing-in-react-your-questions-answered-442c)
-- [Dev.to/JS] [The Way to Surpass CoolMathGames](https://dev.to/cmleary/the-way-to-surpass-coolmathgames-3hff)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
