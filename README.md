@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Auto generate favicons and inject into HTML with Webpack](https://dev.to/webdiscus/automatically-generate-favicons-and-inject-into-html-with-webpack-53nm)
+- [Dev.to/JS] [Designing React Components for Reusability and Efficiency](https://dev.to/minionkim/react-components-design-4pk3)
+- [Dev.to/JS] [Smoke and Sanity Testing in Software Testing](https://dev.to/talenttinaapi/smoke-and-sanity-testing-in-software-testing-n7e)
 - [Dev.to/JS] [Software registry with tutorial videos? 👩‍💻](https://dev.to/d41_dev/software-registry-with-tutorial-videos-59l4)
 - [Dev.to/JS] [Astrology in India | Beginning to Now | Divine Solutions For a Happy Life.](https://dev.to/blessings121/astrology-in-india-beginning-to-now-divine-solutions-for-a-happy-life-268k)
 - [Dev.to/JS] [Meme November: Day - 8](https://dev.to/jon_snow789/meme-november-day-8-3i1h)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Reflect API: The Swiss Army Knife Every JavaScript Developer Needs](https://dev.to/this-is-learning/the-reflect-api-the-swiss-army-knife-every-javascript-developer-needs-512k)
 - [Dev.to/JS] [Latest Updates and Changes in Cisco 300-410 Exam](https://dev.to/300410exams/latest-updates-and-changes-in-cisco-300-410-exam-516g)
 - [Dev.to/JS] [Omegle Founder Announces Heartbreaking Decision to Shut Down Amidst a Barrage of Attacks](https://dev.to/alexopensource/omegle-founder-announces-heartbreaking-decision-to-shut-down-amidst-a-barrage-of-attacks-1iin)
-- [Dev.to/JS] [Basics of Node.js](https://dev.to/tanmaycode/basics-of-nodejs-2lck)
-- [Dev.to/JS] [electronics assembly adhesives](https://dev.to/eleassadhe/electronics-assembly-adhesives-11c1)
-- [Dev.to/JS] [Unlocking the Power of Open Source: How to Get Involved and Why It Matters](https://dev.to/alexopensource/unlocking-the-power-of-open-source-how-to-get-involved-and-why-it-matters-2b68)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
