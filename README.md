@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Contentpace](https://dev.to/wsovn4/contentpace-189h)
+- [Dev.to/JS] [Treewalker api javascript](https://dev.to/thejokers/treewalker-api-javascript-j58)
+- [Dev.to/JS] [1000+ HTML templates you can use for FREE 🤩](https://dev.to/todayscode14/1000-html-templates-you-can-use-for-free-gj)
 - [Dev.to/JS] [Common Pitfalls: Code Practices That Disable Tree Shaking in Vue.js](https://dev.to/rafaelogic/common-pitfalls-code-practices-that-disable-tree-shaking-in-vuejs-applications-101a)
+- [Lifehacker] [You Can Now See How Much RAM a Chrome Tab Is Using](https://lifehacker.com/you-can-now-see-how-much-ram-a-chrome-tab-is-using-1851007147)
 - [Dev.to/JS] [Astro: progressively enhanced forms](https://dev.to/mfrachet/astro-progressively-enhanced-forms-442g)
 - [Dev.to/JS] [Choosing Between React and Angular: Making an Informed Decision](https://dev.to/rohitashsingh89/choosing-between-react-and-angular-making-an-informed-decision-1dih)
 - [Lifehacker] [13 Podcasts for Your Holiday Road Trip](https://lifehacker.com/the-best-podcasts-for-a-road-trip-1851005103)
@@ -41,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok Myth of the Week: Why Everyone&#39;s Freaking Out About the MTHFR Gene](https://lifehacker.com/tiktok-myth-of-the-week-why-everyones-freaking-out-abo-1851004664)
 - [Dev.to/JS] [Why Is the Nullish Coalescing Operator&lpar;??&rpar; Essential in JavaScript?](https://dev.to/jaimaldullat/why-is-the-nullish-coalescing-operator-essential-in-javascript-4g2j)
 - [Dev.to/JS] [Exploring Angular 17: A Glimpse into the Future of Web Development - Part 2](https://dev.to/this-is-learning/exploring-angular-17-a-glimpse-into-the-future-of-web-development-part-2-3e0)
-- [Dev.to/JS] [The best way to learn backend web development](https://dev.to/sparkouttech/the-best-way-to-learn-backend-web-development-1d01)
-- [Dev.to/JS] [Auto generate favicons and inject into HTML with Webpack](https://dev.to/webdiscus/automatically-generate-favicons-and-inject-into-html-with-webpack-53nm)
-- [Dev.to/JS] [Designing React Components for Reusability and Efficiency](https://dev.to/minionkim/react-components-design-4pk3)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make a &#39;To-Don&#39;t List&#39;](https://lifehacker.com/you-should-make-a-to-dont-list-1851002808)
 - [Lifehacker] [Why Twice-Baked Potatoes Are Better Than Mashed](https://lifehacker.com/why-twice-baked-potatoes-are-better-than-mashed-1851001796)
 - [Lifehacker] [Walmart&#39;s Early Black Friday Deals Went Live Today](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
-- [Lifehacker] [You Can Get This Geminos Stacked Dual-Screen Monitor for Over $150 Off Right Now](https://lifehacker.com/you-can-get-this-geminos-stacked-dual-screen-monitor-fo-1850991293)
-- [Lifehacker] [25 Modern Christmas Classics You Can Stream Right Now](https://lifehacker.com/modern-christmas-classics-you-can-stream-right-now-1850996662)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Geminos Stacked Dual-Screen Monitor for Over $150 Off Right Now](https://lifehacker.com/you-can-get-this-geminos-stacked-dual-screen-monitor-fo-1850991293)<!-- TECH-POSTS:END -->
 
 ---
 
