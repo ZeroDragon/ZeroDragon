@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Software registry with tutorial videos? 👩‍💻](https://dev.to/d41_dev/software-registry-with-tutorial-videos-59l4)
+- [Dev.to/JS] [Astrology in India | Beginning to Now | Divine Solutions For a Happy Life.](https://dev.to/blessings121/astrology-in-india-beginning-to-now-divine-solutions-for-a-happy-life-268k)
 - [Dev.to/JS] [Meme November: Day - 8](https://dev.to/jon_snow789/meme-november-day-8-3i1h)
 - [Dev.to/JS] [Data prefetch of alovajs, a request strategy library](https://dev.to/coderhu/data-prefetch-of-alovajs-a-request-strategy-library-42ej)
 - [Dev.to/JS] [Dịch vụ SEO trọn gói](https://dev.to/dvseotrongoicom/dich-vu-seo-tron-goi-58pj)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Basics of Node.js](https://dev.to/tanmaycode/basics-of-nodejs-2lck)
 - [Dev.to/JS] [electronics assembly adhesives](https://dev.to/eleassadhe/electronics-assembly-adhesives-11c1)
 - [Dev.to/JS] [Unlocking the Power of Open Source: How to Get Involved and Why It Matters](https://dev.to/alexopensource/unlocking-the-power-of-open-source-how-to-get-involved-and-why-it-matters-2b68)
-- [Dev.to/JS] [FontAwesome Alternatives: Explore These 4 Free Icon Libraries](https://dev.to/sabbirsobhani/fontawesome-alternatives-explore-these-4-free-icon-libraries-53ll)
-- [Dev.to/JS] [Easy Leafz CBD Gummies Reviews Canada 2023, Where to Buy in Canada?](https://dev.to/easyleafzcbd/easy-leafz-cbd-gummies-reviews-canada-2023-where-to-buy-in-canada-9c7)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
