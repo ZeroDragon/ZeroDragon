@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy Leafz CBD Gummies Reviews Canada 2023, Where to Buy in Canada?](https://dev.to/easyleafzcbd/easy-leafz-cbd-gummies-reviews-canada-2023-where-to-buy-in-canada-9c7)
+- [Dev.to/JS] [Dynamic Components In Vue](https://dev.to/devmahfuz/dynamic-components-in-vue-1d87)
 - [Dev.to/JS] [Navigating Unit Testing in React: Your Questions Answered](https://dev.to/opensourcee/navigating-unit-testing-in-react-your-questions-answered-442c)
 - [Dev.to/JS] [The Way to Surpass CoolMathGames](https://dev.to/cmleary/the-way-to-surpass-coolmathgames-3hff)
 - [Dev.to/JS] [BunJS : La star montante du monde JavaScript](https://dev.to/benoitpetit/bunjs-la-star-montante-du-monde-javascript-52be)
@@ -40,10 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
 - [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on Laptops](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-lap-1851004628)
 - [Dev.to/JS] [Create A Restaurant Bill and Tip Calculator in JavaScript](https://dev.to/thedevdrawer/create-a-restaurant-bill-and-tip-calculator-in-javascript-25ep)
-- [Dev.to/JS] [How to Use Angular Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-angular-pivot-grids-and-panels-in-your-web-application-1k56)
 - [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on TVs](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-tvs-1851003978)
 - [Lifehacker] [12 Walmart Early Black Friday Deals Actually Worth Your Attention](https://lifehacker.com/walmarts-best-early-black-friday-sale-deals-1851004637)
-- [Dev.to/JS] [Optimizing Vue.js Performance: A Guide to Tree Shaking with Webpack and Vite](https://dev.to/rafaelogic/optimizing-vuejs-performance-a-guide-to-tree-shaking-with-webpack-and-vite-3if7)
 - [Lifehacker] [These Are Walmart’s Best Early Black Friday Vacuum Deals](https://lifehacker.com/these-are-walmart-s-best-early-black-friday-vacuum-deal-1851001199)
 - [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)
 - [Lifehacker] [These Are the Best Smartwatch Deals During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-are-the-best-smartwatch-deals-during-walmarts-ear-1851003742)
