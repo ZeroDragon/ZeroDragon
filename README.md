@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating Unit Testing in React: Your Questions Answered](https://dev.to/opensourcee/navigating-unit-testing-in-react-your-questions-answered-442c)
+- [Dev.to/JS] [The Way to Surpass CoolMathGames](https://dev.to/cmleary/the-way-to-surpass-coolmathgames-3hff)
+- [Dev.to/JS] [BunJS : La star montante du monde JavaScript](https://dev.to/benoitpetit/bunjs-la-star-montante-du-monde-javascript-52be)
+- [Dev.to/JS] [Take Control of Your Crypto: Creating Your Wallet with JavaScript](https://dev.to/mister_g/take-control-of-your-crypto-creating-your-wallet-with-javascript-5en4)
 - [Dev.to/JS] [Retrieving Implementation Contract Addresses from Proxy Contracts in EVM Networks](https://dev.to/mister_g/retrieving-implementation-contract-addresses-from-proxy-contracts-in-evm-networks-38fm)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
 - [Dev.to/JS] [[JavaScript] - Arrays](https://dev.to/bruno8moura/javascript-arrays-2egd)
@@ -40,13 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on TVs](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-tvs-1851003978)
 - [Lifehacker] [12 Walmart Early Black Friday Deals Actually Worth Your Attention](https://lifehacker.com/walmarts-best-early-black-friday-sale-deals-1851004637)
 - [Dev.to/JS] [Optimizing Vue.js Performance: A Guide to Tree Shaking with Webpack and Vite](https://dev.to/rafaelogic/optimizing-vuejs-performance-a-guide-to-tree-shaking-with-webpack-and-vite-3if7)
-- [Dev.to/JS] [Learn the SVG linear gradient axes](https://dev.to/witty_code/learn-the-svg-linear-gradient-axes-2j4a)
 - [Lifehacker] [These Are Walmart’s Best Early Black Friday Vacuum Deals](https://lifehacker.com/these-are-walmart-s-best-early-black-friday-vacuum-deal-1851001199)
-- [Dev.to/JS] [TOP - Objects and Object Constructors](https://dev.to/copious/top-objects-and-object-constructors-1p0)
 - [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)
 - [Lifehacker] [These Are the Best Smartwatch Deals During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-are-the-best-smartwatch-deals-during-walmarts-ear-1851003742)
-- [Dev.to/JS] [Typescript&#39;s enums may not be what you think](https://dev.to/gingerchew/typescripts-enums-may-not-be-what-you-think-4d1j)
-- [Dev.to/JS] [How to Add a JavaScript Pivot Table to Your Web Application](https://dev.to/mescius/how-to-add-a-javascript-pivot-table-to-your-web-application-1c1b)
 - [Lifehacker] [The Apple watchOS 10.1.1 Update Fixes a Critical Issue](https://lifehacker.com/the-apple-watchos-10-1-1-update-fixes-a-critical-issue-1851003414)
 - [Lifehacker] [The Best Deals for Vets on Veterans Day 2023](https://lifehacker.com/the-best-veterans-day-deals-that-arent-free-food-1849764792)
 - [Lifehacker] [Here’s When It’s Smart to Have Just One Credit Card](https://lifehacker.com/here-s-when-it-s-smart-to-have-just-one-credit-card-1851002878)
