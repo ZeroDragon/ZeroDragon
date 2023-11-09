@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sonavel - Ear Results, Reviews, Price, Ingredients &amp; Benefits?](https://dev.to/wsakhrua/sonavel-ear-results-reviews-price-ingredients-benefits-2j2g)
+- [Lifehacker] [How to Record Your Screen in Windows 11](https://lifehacker.com/how-to-record-your-screen-in-windows-11-1851005168)
+- [Dev.to/JS] [React Best Practices 🚀](https://dev.to/bhavesh_yadav/react-best-practices-51hc)
+- [Lifehacker] [Waze Can Now Help You Stay Off Accident-Prone Roads](https://lifehacker.com/waze-can-now-help-you-stay-off-accident-prone-roads-1851006424)
 - [Lifehacker] [You Should Make Turkey Pastrami for Thanksgiving](https://lifehacker.com/you-should-make-turkey-pastrami-for-thanksgiving-1851001884)
 - [Dev.to/JS] [EcmaScript Modules na prática](https://dev.to/itsmicaio/ecmascript-modules-na-pratica-4ppn)
 - [Dev.to/JS] [De Array para Set e Volta: Uma Jornada Sem ou Com Duplicatas!](https://dev.to/mattheuzz/de-array-para-set-e-volta-uma-jornada-sem-ou-com-duplicatas-22fh)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Smoke and Sanity Testing in Software Testing](https://dev.to/talenttinaapi/smoke-and-sanity-testing-in-software-testing-n7e)
 - [Dev.to/JS] [Software registry with tutorial videos? 👩‍💻](https://dev.to/d41_dev/software-registry-with-tutorial-videos-59l4)
 - [Dev.to/JS] [Astrology in India | Beginning to Now | Divine Solutions For a Happy Life.](https://dev.to/blessings121/astrology-in-india-beginning-to-now-divine-solutions-for-a-happy-life-268k)
-- [Dev.to/JS] [Meme November: Day - 8](https://dev.to/jon_snow789/meme-november-day-8-3i1h)
-- [Dev.to/JS] [Data prefetch of alovajs, a request strategy library](https://dev.to/coderhu/data-prefetch-of-alovajs-a-request-strategy-library-42ej)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Geminos Stacked Dual-Screen Monitor for Over $150 Off Right Now](https://lifehacker.com/you-can-get-this-geminos-stacked-dual-screen-monitor-fo-1850991293)
 - [Lifehacker] [25 Modern Christmas Classics You Can Stream Right Now](https://lifehacker.com/modern-christmas-classics-you-can-stream-right-now-1850996662)
 - [Lifehacker] [Thanksgiving Turkey Porchetta Is Worth It in the End](https://lifehacker.com/thanksgiving-turkey-porchetta-is-worth-it-in-the-end-1851000096)
-- [Lifehacker] [Use These New Google Tools to Find Holiday Discounts](https://lifehacker.com/use-these-new-google-tools-to-find-holiday-discounts-1851001880)
-- [Lifehacker] [Use These Different Ice Packs on Every Part of Your Body](https://lifehacker.com/use-these-different-ice-packs-on-every-part-of-your-bod-1851001868)
-- [Lifehacker] [Mark Your Calendar With These 2023 Holiday Shipping Deadlines](https://lifehacker.com/mark-your-calendar-with-these-2023-holiday-shipping-dea-1851000806)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use These New Google Tools to Find Holiday Discounts](https://lifehacker.com/use-these-new-google-tools-to-find-holiday-discounts-1851001880)<!-- TECH-POSTS:END -->
 
 ---
 
