@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
+- [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
 - [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on Laptops](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-lap-1851004628)
 - [Dev.to/JS] [Create A Restaurant Bill and Tip Calculator in JavaScript](https://dev.to/thedevdrawer/create-a-restaurant-bill-and-tip-calculator-in-javascript-25ep)
 - [Dev.to/JS] [How to Use Angular Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-angular-pivot-grids-and-panels-in-your-web-application-1k56)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Mark Your Calendar With These 2023 Holiday Shipping Deadlines](https://lifehacker.com/mark-your-calendar-with-these-2023-holiday-shipping-dea-1851000806)
 - [Lifehacker] [You Can Get Luminar Neo Lite for $50 Right Now](https://lifehacker.com/you-can-get-luminar-neo-lite-for-50-right-now-1850991219)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)
-- [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)
-- [Lifehacker] [The Differences Between the Pixel Watch 2 and Fitbit Charge 6](https://lifehacker.com/the-differences-between-the-pixel-watch-2-and-fitbit-ch-1850999470)
-- [Lifehacker] [The Best Early Black Friday Sales](https://lifehacker.com/what-to-expect-this-black-friday-1850941407)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Surfshark VPN for Less Than $2 a Month Right Now](https://lifehacker.com/you-can-get-surfshark-vpn-for-less-than-2-a-month-righ-1850991206)<!-- TECH-POSTS:END -->
 
 ---
 
