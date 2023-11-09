@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Make Turkey Pastrami for Thanksgiving](https://lifehacker.com/you-should-make-turkey-pastrami-for-thanksgiving-1851001884)
+- [Dev.to/JS] [EcmaScript Modules na prática](https://dev.to/itsmicaio/ecmascript-modules-na-pratica-4ppn)
+- [Dev.to/JS] [De Array para Set e Volta: Uma Jornada Sem ou Com Duplicatas!](https://dev.to/mattheuzz/de-array-para-set-e-volta-uma-jornada-sem-ou-com-duplicatas-22fh)
+- [Lifehacker] [TikTok Myth of the Week: Why Everyone&#39;s Freaking Out About the MTHFR Gene](https://lifehacker.com/tiktok-myth-of-the-week-why-everyones-freaking-out-abo-1851004664)
 - [Dev.to/JS] [Why Is the Nullish Coalescing Operator&lpar;??&rpar; Essential in JavaScript?](https://dev.to/jaimaldullat/why-is-the-nullish-coalescing-operator-essential-in-javascript-4g2j)
 - [Dev.to/JS] [Exploring Angular 17: A Glimpse into the Future of Web Development - Part 2](https://dev.to/this-is-learning/exploring-angular-17-a-glimpse-into-the-future-of-web-development-part-2-3e0)
 - [Dev.to/JS] [The best way to learn backend web development](https://dev.to/sparkouttech/the-best-way-to-learn-backend-web-development-1d01)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Astrology in India | Beginning to Now | Divine Solutions For a Happy Life.](https://dev.to/blessings121/astrology-in-india-beginning-to-now-divine-solutions-for-a-happy-life-268k)
 - [Dev.to/JS] [Meme November: Day - 8](https://dev.to/jon_snow789/meme-november-day-8-3i1h)
 - [Dev.to/JS] [Data prefetch of alovajs, a request strategy library](https://dev.to/coderhu/data-prefetch-of-alovajs-a-request-strategy-library-42ej)
-- [Dev.to/JS] [Dịch vụ SEO trọn gói](https://dev.to/dvseotrongoicom/dich-vu-seo-tron-goi-58pj)
-- [Dev.to/JS] [↩️Clean Coding Tip: Early Return Principle](https://dev.to/shameel/-clean-coding-tip-early-return-principle-47kj)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Thanksgiving Turkey Porchetta Is Worth It in the End](https://lifehacker.com/thanksgiving-turkey-porchetta-is-worth-it-in-the-end-1851000096)
 - [Lifehacker] [Use These New Google Tools to Find Holiday Discounts](https://lifehacker.com/use-these-new-google-tools-to-find-holiday-discounts-1851001880)
 - [Lifehacker] [Use These Different Ice Packs on Every Part of Your Body](https://lifehacker.com/use-these-different-ice-packs-on-every-part-of-your-bod-1851001868)
-- [Lifehacker] [Mark Your Calendar With These 2023 Holiday Shipping Deadlines](https://lifehacker.com/mark-your-calendar-with-these-2023-holiday-shipping-dea-1851000806)
-- [Lifehacker] [You Can Get Luminar Neo Lite for $50 Right Now](https://lifehacker.com/you-can-get-luminar-neo-lite-for-50-right-now-1850991219)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 8](https://lifehacker.com/nyt-connections-answer-today-november-8-2023-1850998488)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Mark Your Calendar With These 2023 Holiday Shipping Deadlines](https://lifehacker.com/mark-your-calendar-with-these-2023-holiday-shipping-dea-1851000806)<!-- TECH-POSTS:END -->
 
 ---
 
