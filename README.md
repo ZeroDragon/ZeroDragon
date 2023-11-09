@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Key differences between GraphQL and RESTful API](https://dev.to/hashcode01/key-differences-between-graphql-and-restful-api-17o9)
+- [Lifehacker] [The Galaxy S23 FE Tries, but Ultimately Fails, to Stand Out Among the Crowd](https://lifehacker.com/samsung-galaxy-s23-review-1851008538)
+- [Lifehacker] [You Can Get an Xbox Series X for Its Cheapest Price Ever &lpar;Plus a $75 Gift Card&rpar;](https://lifehacker.com/best-xbox-series-x-deal-1851008333)
 - [Dev.to/JS] [Gulf Crypto Bank Unleashed: Say Goodbye to Traditional Banking](https://dev.to/nftbuzz2/gulf-crypto-bank-unleashed-say-goodbye-to-traditional-banking-5dd9)
+- [Dev.to/JS] [ES6 Features You Didn&#39;t Know You Needed: A JavaScript Guide for Beginners](https://dev.to/opensign/es6-features-you-didnt-know-you-needed-a-javascript-guide-for-beginners-543e)
 - [Dev.to/JS] [Hey fellow developers and tech enthusiasts](https://dev.to/opensourcee/hey-fellow-developers-and-tech-enthusiasts-17n5)
 - [Lifehacker] [Meredith&#39;s Training Diaries: My Marathon Post-Mortem](https://lifehacker.com/merediths-training-diaries-my-marathon-post-mortem-1851002897)
 - [Dev.to/JS] [Effortless Data Generation: Tools for JSON, XML, CSV, and More!](https://dev.to/kankanadas/effortless-data-generation-tools-for-json-xml-csv-and-more-62o)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to migrate from SuperViz v4.x to v5.x](https://dev.to/superviz/how-to-migrate-from-superviz-v4x-to-v5x-2ei6)
 - [Dev.to/JS] [SlideModel](https://dev.to/rankmarket123/slidemodel-5385)
 - [Dev.to/JS] [Day 85: Device Orientation](https://dev.to/dhrn/day-85device-orientation-5dba)
-- [Dev.to/JS] [Embracing the Future with Progressive Web Apps](https://dev.to/bubu13gu/embracing-the-future-with-progressive-web-apps-43n7)
-- [Dev.to/JS] [Contentpace](https://dev.to/wsovn4/contentpace-189h)
 - [Lifehacker] [You Can Now See How Much RAM a Chrome Tab Is Using](https://lifehacker.com/you-can-now-see-how-much-ram-a-chrome-tab-is-using-1851007147)
 - [Lifehacker] [13 Podcasts for Your Holiday Road Trip](https://lifehacker.com/the-best-podcasts-for-a-road-trip-1851005103)
 - [Lifehacker] [The Best Ways to Win Over a Job Recruiter](https://lifehacker.com/the-best-ways-to-win-over-a-job-recruiter-1850993132)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Apple watchOS 10.1.1 Update Fixes a Critical Issue](https://lifehacker.com/the-apple-watchos-10-1-1-update-fixes-a-critical-issue-1851003414)
 - [Lifehacker] [The Best Deals for Vets on Veterans Day 2023](https://lifehacker.com/the-best-veterans-day-deals-that-arent-free-food-1849764792)
 - [Lifehacker] [Here’s When It’s Smart to Have Just One Credit Card](https://lifehacker.com/here-s-when-it-s-smart-to-have-just-one-credit-card-1851002878)
-- [Lifehacker] [You Can Get SheetsMagic for $50 Right Now and Integrate ChatGPT With Google Sheets](https://lifehacker.com/you-can-get-sheetsmagic-for-50-right-now-and-integrate-1850991391)
-- [Lifehacker] [Exploit These Extended Return Policies From Amazon, Apple, Best Buy, and Walmart](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
-- [Lifehacker] [How to Print Documents From Your iPhone](https://lifehacker.com/how-to-print-documents-from-your-iphone-1851002978)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get SheetsMagic for $50 Right Now and Integrate ChatGPT With Google Sheets](https://lifehacker.com/you-can-get-sheetsmagic-for-50-right-now-and-integrate-1850991391)<!-- TECH-POSTS:END -->
 
 ---
 
