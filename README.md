@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Latest Updates and Changes in Cisco 300-410 Exam](https://dev.to/300410exams/latest-updates-and-changes-in-cisco-300-410-exam-516g)
+- [Dev.to/JS] [Omegle Founder Announces Heartbreaking Decision to Shut Down Amidst a Barrage of Attacks](https://dev.to/alexopensource/omegle-founder-announces-heartbreaking-decision-to-shut-down-amidst-a-barrage-of-attacks-1iin)
 - [Dev.to/JS] [Basics of Node.js](https://dev.to/tanmaycode/basics-of-nodejs-2lck)
 - [Dev.to/JS] [electronics assembly adhesives](https://dev.to/eleassadhe/electronics-assembly-adhesives-11c1)
 - [Dev.to/JS] [Unlocking the Power of Open Source: How to Get Involved and Why It Matters](https://dev.to/alexopensource/unlocking-the-power-of-open-source-how-to-get-involved-and-why-it-matters-2b68)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Way to Surpass CoolMathGames](https://dev.to/cmleary/the-way-to-surpass-coolmathgames-3hff)
 - [Dev.to/JS] [BunJS : La star montante du monde JavaScript](https://dev.to/benoitpetit/bunjs-la-star-montante-du-monde-javascript-52be)
 - [Dev.to/JS] [Take Control of Your Crypto: Creating Your Wallet with JavaScript](https://dev.to/mister_g/take-control-of-your-crypto-creating-your-wallet-with-javascript-5en4)
-- [Dev.to/JS] [Retrieving Implementation Contract Addresses from Proxy Contracts in EVM Networks](https://dev.to/mister_g/retrieving-implementation-contract-addresses-from-proxy-contracts-in-evm-networks-38fm)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
-- [Dev.to/JS] [[JavaScript] - Arrays](https://dev.to/bruno8moura/javascript-arrays-2egd)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
 - [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on Laptops](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-lap-1851004628)
