@@ -26,10 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking the Potential of Vue.js: A Modern Framework for Progressive Web Applications](https://dev.to/bubu13gu/unlocking-the-potential-of-vuejs-a-modern-framework-for-progressive-web-applications-30e6)
 - [Lifehacker] [xFyro Noise-Cancelling Earbuds Are On Sale For $30 Right Now](https://lifehacker.com/xfyro-noise-cancelling-earbuds-are-on-sale-for-30-righ-1850997205)
 - [Lifehacker] [Woot Has Refurbished Blink and Ring Security Cameras for up to 71% Off](https://lifehacker.com/woot-has-refurbished-blink-and-ring-security-cameras-fo-1851009366)
 - [Lifehacker] [15 Walmart Early Black Friday Deals Actually Worth Your Attention](https://lifehacker.com/walmarts-best-early-black-friday-sale-deals-1851004637)
 - [Lifehacker] [How to Combine Multiple PDFs for Free](https://lifehacker.com/how-to-combine-multiple-pdfs-for-free-1851008826)
+- [Dev.to/JS] [A Guide To HTTP POST Requests In JavaScript](https://dev.to/davidking/a-guide-to-http-post-requests-in-javascript-no7)
 - [Dev.to/JS] [Key differences between GraphQL and RESTful API](https://dev.to/hashcode01/key-differences-between-graphql-and-restful-api-17o9)
 - [Lifehacker] [The Galaxy S23 FE Tries, but Ultimately Fails, to Stand Out Among the Crowd](https://lifehacker.com/samsung-galaxy-s23-review-1851008538)
 - [Lifehacker] [You Can Get an Xbox Series X for Its Cheapest Price Ever &lpar;Plus a $75 Gift Card&rpar;](https://lifehacker.com/best-xbox-series-x-deal-1851008333)
@@ -48,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Roblox Gift Cards Are 40% Off at Target Today](https://lifehacker.com/you-can-get-roblox-gift-cards-40-off-today-1851007681)
 - [Dev.to/JS] [AISEO.ai](https://dev.to/wsovn4/aiseoai-160l)
 - [Dev.to/JS] [How to migrate from SuperViz v4.x to v5.x](https://dev.to/superviz/how-to-migrate-from-superviz-v4x-to-v5x-2ei6)
-- [Dev.to/JS] [SlideModel](https://dev.to/rankmarket123/slidemodel-5385)
-- [Dev.to/JS] [Day 85: Device Orientation](https://dev.to/dhrn/day-85device-orientation-5dba)
 - [Lifehacker] [You Can Now See How Much RAM a Chrome Tab Is Using](https://lifehacker.com/you-can-now-see-how-much-ram-a-chrome-tab-is-using-1851007147)
 - [Lifehacker] [13 Podcasts for Your Holiday Road Trip](https://lifehacker.com/the-best-podcasts-for-a-road-trip-1851005103)
 - [Lifehacker] [The Best Ways to Win Over a Job Recruiter](https://lifehacker.com/the-best-ways-to-win-over-a-job-recruiter-1850993132)
