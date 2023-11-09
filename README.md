@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gulf Crypto Bank Unleashed: Say Goodbye to Traditional Banking](https://dev.to/nftbuzz2/gulf-crypto-bank-unleashed-say-goodbye-to-traditional-banking-5dd9)
+- [Dev.to/JS] [Hey fellow developers and tech enthusiasts](https://dev.to/opensourcee/hey-fellow-developers-and-tech-enthusiasts-17n5)
+- [Lifehacker] [Meredith&#39;s Training Diaries: My Marathon Post-Mortem](https://lifehacker.com/merediths-training-diaries-my-marathon-post-mortem-1851002897)
+- [Dev.to/JS] [Effortless Data Generation: Tools for JSON, XML, CSV, and More!](https://dev.to/kankanadas/effortless-data-generation-tools-for-json-xml-csv-and-more-62o)
+- [Lifehacker] [How to Dry Out a Water-Damaged Carpet You Can’t Replace](https://lifehacker.com/how-to-dry-out-a-water-damaged-carpet-you-can-t-replace-1851007817)
 - [Dev.to/JS] [Tô meio perdido, necessito de um resgate .](https://dev.to/fruguinha/to-meio-perdido-necessito-de-um-resgate--nc8)
 - [Dev.to/JS] [Integrating GraphQL in React.js: Simplifying Data Fetching](https://dev.to/jayanthbabu123/integrating-graphql-in-reactjs-simplifying-data-fetching-5aan)
 - [Lifehacker] [You Can Now Hide Your IP Address During WhatsApp Calls](https://lifehacker.com/you-can-now-hide-your-ip-address-during-whatsapp-calls-1851007730)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 85: Device Orientation](https://dev.to/dhrn/day-85device-orientation-5dba)
 - [Dev.to/JS] [Embracing the Future with Progressive Web Apps](https://dev.to/bubu13gu/embracing-the-future-with-progressive-web-apps-43n7)
 - [Dev.to/JS] [Contentpace](https://dev.to/wsovn4/contentpace-189h)
-- [Dev.to/JS] [Treewalker api javascript](https://dev.to/thejokers/treewalker-api-javascript-j58)
-- [Dev.to/JS] [1000+ HTML templates you can use for FREE 🤩](https://dev.to/todayscode14/1000-html-templates-you-can-use-for-free-gj)
-- [Dev.to/JS] [Common Pitfalls: Code Practices That Disable Tree Shaking in Vue.js](https://dev.to/rafaelogic/common-pitfalls-code-practices-that-disable-tree-shaking-in-vuejs-applications-101a)
 - [Lifehacker] [You Can Now See How Much RAM a Chrome Tab Is Using](https://lifehacker.com/you-can-now-see-how-much-ram-a-chrome-tab-is-using-1851007147)
 - [Lifehacker] [13 Podcasts for Your Holiday Road Trip](https://lifehacker.com/the-best-podcasts-for-a-road-trip-1851005103)
 - [Lifehacker] [The Best Ways to Win Over a Job Recruiter](https://lifehacker.com/the-best-ways-to-win-over-a-job-recruiter-1850993132)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s When It’s Smart to Have Just One Credit Card](https://lifehacker.com/here-s-when-it-s-smart-to-have-just-one-credit-card-1851002878)
 - [Lifehacker] [You Can Get SheetsMagic for $50 Right Now and Integrate ChatGPT With Google Sheets](https://lifehacker.com/you-can-get-sheetsmagic-for-50-right-now-and-integrate-1850991391)
 - [Lifehacker] [Exploit These Extended Return Policies From Amazon, Apple, Best Buy, and Walmart](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
-- [Lifehacker] [How to Print Documents From Your iPhone](https://lifehacker.com/how-to-print-documents-from-your-iphone-1851002978)
-- [Lifehacker] [You Might Already Be Able to Disable Read Receipts for Your Instagram DMs](https://lifehacker.com/you-might-already-be-able-to-disable-read-receipts-for-1851003161)
-- [Lifehacker] [The Fastest Ways to Thaw Your Thanksgiving Turkey](https://lifehacker.com/what-to-do-if-your-turkey-is-still-frozen-1848113182)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Print Documents From Your iPhone](https://lifehacker.com/how-to-print-documents-from-your-iphone-1851002978)<!-- TECH-POSTS:END -->
 
 ---
 
