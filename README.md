@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Common Pitfalls: Code Practices That Disable Tree Shaking in Vue.js](https://dev.to/rafaelogic/common-pitfalls-code-practices-that-disable-tree-shaking-in-vuejs-applications-101a)
+- [Dev.to/JS] [Astro: progressively enhanced forms](https://dev.to/mfrachet/astro-progressively-enhanced-forms-442g)
+- [Dev.to/JS] [Choosing Between React and Angular: Making an Informed Decision](https://dev.to/rohitashsingh89/choosing-between-react-and-angular-making-an-informed-decision-1dih)
+- [Lifehacker] [13 Podcasts for Your Holiday Road Trip](https://lifehacker.com/the-best-podcasts-for-a-road-trip-1851005103)
+- [Lifehacker] [The Best Ways to Win Over a Job Recruiter](https://lifehacker.com/the-best-ways-to-win-over-a-job-recruiter-1850993132)
 - [Dev.to/JS] [Sonavel - Ear Results, Reviews, Price, Ingredients &amp; Benefits?](https://dev.to/wsakhrua/sonavel-ear-results-reviews-price-ingredients-benefits-2j2g)
 - [Lifehacker] [How to Record Your Screen in Windows 11](https://lifehacker.com/how-to-record-your-screen-in-windows-11-1851005168)
 - [Dev.to/JS] [React Best Practices 🚀](https://dev.to/bhavesh_yadav/react-best-practices-51hc)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The best way to learn backend web development](https://dev.to/sparkouttech/the-best-way-to-learn-backend-web-development-1d01)
 - [Dev.to/JS] [Auto generate favicons and inject into HTML with Webpack](https://dev.to/webdiscus/automatically-generate-favicons-and-inject-into-html-with-webpack-53nm)
 - [Dev.to/JS] [Designing React Components for Reusability and Efficiency](https://dev.to/minionkim/react-components-design-4pk3)
-- [Dev.to/JS] [Smoke and Sanity Testing in Software Testing](https://dev.to/talenttinaapi/smoke-and-sanity-testing-in-software-testing-n7e)
-- [Dev.to/JS] [Software registry with tutorial videos? 👩‍💻](https://dev.to/d41_dev/software-registry-with-tutorial-videos-59l4)
-- [Dev.to/JS] [Astrology in India | Beginning to Now | Divine Solutions For a Happy Life.](https://dev.to/blessings121/astrology-in-india-beginning-to-now-divine-solutions-for-a-happy-life-268k)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Twice-Baked Potatoes Are Better Than Mashed](https://lifehacker.com/why-twice-baked-potatoes-are-better-than-mashed-1851001796)
 - [Lifehacker] [Walmart&#39;s Early Black Friday Deals Went Live Today](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
 - [Lifehacker] [You Can Get This Geminos Stacked Dual-Screen Monitor for Over $150 Off Right Now](https://lifehacker.com/you-can-get-this-geminos-stacked-dual-screen-monitor-fo-1850991293)
-- [Lifehacker] [25 Modern Christmas Classics You Can Stream Right Now](https://lifehacker.com/modern-christmas-classics-you-can-stream-right-now-1850996662)
-- [Lifehacker] [Thanksgiving Turkey Porchetta Is Worth It in the End](https://lifehacker.com/thanksgiving-turkey-porchetta-is-worth-it-in-the-end-1851000096)
-- [Lifehacker] [Use These New Google Tools to Find Holiday Discounts](https://lifehacker.com/use-these-new-google-tools-to-find-holiday-discounts-1851001880)<!-- TECH-POSTS:END -->
+- [Lifehacker] [25 Modern Christmas Classics You Can Stream Right Now](https://lifehacker.com/modern-christmas-classics-you-can-stream-right-now-1850996662)<!-- TECH-POSTS:END -->
 
 ---
 
