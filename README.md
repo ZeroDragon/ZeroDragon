@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [xFyro Noise-Cancelling Earbuds Are On Sale For $30 Right Now](https://lifehacker.com/xfyro-noise-cancelling-earbuds-are-on-sale-for-30-righ-1850997205)
+- [Lifehacker] [Woot Has Refurbished Blink and Ring Security Cameras for up to 71% Off](https://lifehacker.com/woot-has-refurbished-blink-and-ring-security-cameras-fo-1851009366)
+- [Lifehacker] [15 Walmart Early Black Friday Deals Actually Worth Your Attention](https://lifehacker.com/walmarts-best-early-black-friday-sale-deals-1851004637)
+- [Lifehacker] [How to Combine Multiple PDFs for Free](https://lifehacker.com/how-to-combine-multiple-pdfs-for-free-1851008826)
 - [Dev.to/JS] [Key differences between GraphQL and RESTful API](https://dev.to/hashcode01/key-differences-between-graphql-and-restful-api-17o9)
 - [Lifehacker] [The Galaxy S23 FE Tries, but Ultimately Fails, to Stand Out Among the Crowd](https://lifehacker.com/samsung-galaxy-s23-review-1851008538)
 - [Lifehacker] [You Can Get an Xbox Series X for Its Cheapest Price Ever &lpar;Plus a $75 Gift Card&rpar;](https://lifehacker.com/best-xbox-series-x-deal-1851008333)
@@ -58,14 +62,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
 - [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on Laptops](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-lap-1851004628)
 - [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on TVs](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-tvs-1851003978)
-- [Lifehacker] [12 Walmart Early Black Friday Deals Actually Worth Your Attention](https://lifehacker.com/walmarts-best-early-black-friday-sale-deals-1851004637)
 - [Lifehacker] [These Are Walmart’s Best Early Black Friday Vacuum Deals](https://lifehacker.com/these-are-walmart-s-best-early-black-friday-vacuum-deal-1851001199)
 - [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)
 - [Lifehacker] [These Are the Best Smartwatch Deals During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-are-the-best-smartwatch-deals-during-walmarts-ear-1851003742)
-- [Lifehacker] [The Apple watchOS 10.1.1 Update Fixes a Critical Issue](https://lifehacker.com/the-apple-watchos-10-1-1-update-fixes-a-critical-issue-1851003414)
-- [Lifehacker] [The Best Deals for Vets on Veterans Day 2023](https://lifehacker.com/the-best-veterans-day-deals-that-arent-free-food-1849764792)
-- [Lifehacker] [Here’s When It’s Smart to Have Just One Credit Card](https://lifehacker.com/here-s-when-it-s-smart-to-have-just-one-credit-card-1851002878)
-- [Lifehacker] [You Can Get SheetsMagic for $50 Right Now and Integrate ChatGPT With Google Sheets](https://lifehacker.com/you-can-get-sheetsmagic-for-50-right-now-and-integrate-1850991391)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Apple watchOS 10.1.1 Update Fixes a Critical Issue](https://lifehacker.com/the-apple-watchos-10-1-1-update-fixes-a-critical-issue-1851003414)<!-- TECH-POSTS:END -->
 
 ---
 
