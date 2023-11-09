@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Copy issue reference to clipboard enhancement](https://dev.to/rouilj/copy-issue-reference-to-clipboard-enhancement-4ka1)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
 - [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on Laptops](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-lap-1851004628)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tree Shaking in JavaScript: Boost Web Performance](https://dev.to/kartikbudhraja/tree-shaking-in-javascript-boost-web-performance-1ach)
 - [Lifehacker] [The Best Deals for Vets on Veterans Day 2023](https://lifehacker.com/the-best-veterans-day-deals-that-arent-free-food-1849764792)
 - [Dev.to/JS] [File Upload with Progress Bar HTML CSS &amp; JavaScript](https://dev.to/codingcss/file-upload-with-progress-bar-html-css-javascript-341c)
-- [Dev.to/JS] [Tricksters of Typescript](https://dev.to/hakimov_dev/tricksters-of-typescript-24ed)
 - [Lifehacker] [Here’s When It’s Smart to Have Just One Credit Card](https://lifehacker.com/here-s-when-it-s-smart-to-have-just-one-credit-card-1851002878)
 - [Lifehacker] [You Can Get SheetsMagic for $50 Right Now and Integrate ChatGPT With Google Sheets](https://lifehacker.com/you-can-get-sheetsmagic-for-50-right-now-and-integrate-1850991391)
 - [Lifehacker] [Exploit These Extended Return Policies From Amazon, Apple, Best Buy, and Walmart](https://lifehacker.com/exploit-amazons-extended-return-policy-to-score-the-bes-1849727617)
