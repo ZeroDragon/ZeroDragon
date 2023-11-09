@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Is the Nullish Coalescing Operator&lpar;??&rpar; Essential in JavaScript?](https://dev.to/jaimaldullat/why-is-the-nullish-coalescing-operator-essential-in-javascript-4g2j)
+- [Dev.to/JS] [Exploring Angular 17: A Glimpse into the Future of Web Development - Part 2](https://dev.to/this-is-learning/exploring-angular-17-a-glimpse-into-the-future-of-web-development-part-2-3e0)
+- [Dev.to/JS] [The best way to learn backend web development](https://dev.to/sparkouttech/the-best-way-to-learn-backend-web-development-1d01)
 - [Dev.to/JS] [Auto generate favicons and inject into HTML with Webpack](https://dev.to/webdiscus/automatically-generate-favicons-and-inject-into-html-with-webpack-53nm)
 - [Dev.to/JS] [Designing React Components for Reusability and Efficiency](https://dev.to/minionkim/react-components-design-4pk3)
 - [Dev.to/JS] [Smoke and Sanity Testing in Software Testing](https://dev.to/talenttinaapi/smoke-and-sanity-testing-in-software-testing-n7e)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data prefetch of alovajs, a request strategy library](https://dev.to/coderhu/data-prefetch-of-alovajs-a-request-strategy-library-42ej)
 - [Dev.to/JS] [Dịch vụ SEO trọn gói](https://dev.to/dvseotrongoicom/dich-vu-seo-tron-goi-58pj)
 - [Dev.to/JS] [↩️Clean Coding Tip: Early Return Principle](https://dev.to/shameel/-clean-coding-tip-early-return-principle-47kj)
-- [Dev.to/JS] [The Reflect API: The Swiss Army Knife Every JavaScript Developer Needs](https://dev.to/this-is-learning/the-reflect-api-the-swiss-army-knife-every-javascript-developer-needs-512k)
-- [Dev.to/JS] [Latest Updates and Changes in Cisco 300-410 Exam](https://dev.to/300410exams/latest-updates-and-changes-in-cisco-300-410-exam-516g)
-- [Dev.to/JS] [Omegle Founder Announces Heartbreaking Decision to Shut Down Amidst a Barrage of Attacks](https://dev.to/alexopensource/omegle-founder-announces-heartbreaking-decision-to-shut-down-amidst-a-barrage-of-attacks-1iin)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
