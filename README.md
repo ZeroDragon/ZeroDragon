@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a Document Scanner with Expo](https://dev.to/xulihang/how-to-build-a-document-scanner-with-expo-1p37)
+- [Dev.to/JS] [Unleashing the Magic of `is.truthy` and `is.not_truthy` with &#39;thiis&#39;: A Playground of JavaScript Booleans](https://dev.to/karbashevskyi/unleashing-the-magic-of-istruthy-and-isnottruthy-with-thiis-a-playground-of-javascript-booleans-82n)
+- [Dev.to/JS] [Adleg Suite](https://dev.to/wsovn123/adleg-suite-231c)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
 - [Dev.to/JS] [Singleton classes with Typescript](https://dev.to/thalesbruno/singleton-classes-with-typescript-3fkg)
 - [Dev.to/JS] [Exploring the Pros and Cons of Standalone Components in Angular](https://dev.to/ctahirih/exploring-the-pros-and-cons-of-standalone-components-in-angular-3433)
@@ -45,11 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meredith&#39;s Training Diaries: My Marathon Post-Mortem](https://lifehacker.com/merediths-training-diaries-my-marathon-post-mortem-1851002897)
 - [Dev.to/JS] [Effortless Data Generation: Tools for JSON, XML, CSV, and More!](https://dev.to/kankanadas/effortless-data-generation-tools-for-json-xml-csv-and-more-62o)
 - [Lifehacker] [How to Dry Out a Water-Damaged Carpet You Can’t Replace](https://lifehacker.com/how-to-dry-out-a-water-damaged-carpet-you-can-t-replace-1851007817)
-- [Dev.to/JS] [Tô meio perdido, necessito de um resgate .](https://dev.to/fruguinha/to-meio-perdido-necessito-de-um-resgate--nc8)
-- [Dev.to/JS] [Integrating GraphQL in React.js: Simplifying Data Fetching](https://dev.to/jayanthbabu123/integrating-graphql-in-reactjs-simplifying-data-fetching-5aan)
 - [Lifehacker] [You Can Now Hide Your IP Address During WhatsApp Calls](https://lifehacker.com/you-can-now-hide-your-ip-address-during-whatsapp-calls-1851007730)
 - [Lifehacker] [Your Thanksgiving Dinner Needs These No-Knead Dinner Rolls](https://lifehacker.com/soft-no-kead-dinner-rolls-recipe-1851007587)
-- [Dev.to/JS] [Demystifying Semantic Versioning](https://dev.to/omkarbhavare/demystifying-semantic-versioning-3ic8)
 - [Lifehacker] [This Kodak Film Scanner Is $170 Today](https://lifehacker.com/this-kodak-film-scanner-is-170-today-1850991327)
 - [Lifehacker] [Roblox Gift Cards Are 40% Off at Target Today](https://lifehacker.com/you-can-get-roblox-gift-cards-40-off-today-1851007681)
 - [Lifehacker] [You Can Now See How Much RAM a Chrome Tab Is Using](https://lifehacker.com/you-can-now-see-how-much-ram-a-chrome-tab-is-using-1851007147)
