@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Choose Data Fetching Strategies In NextJS](https://dev.to/mohammadfaisal/how-to-choose-data-fetching-strategies-in-nextjs-1pm1)
+- [Dev.to/JS] [Qwik look at Resumability with Astro on Vercel](https://dev.to/reeshee/qwik-look-at-resumability-with-astro-on-vercel-44fj)
+- [Dev.to/JS] [🔥 Start Your Web Development Journey Using Just Your Android Phone!](https://dev.to/fazle-rabbi-dev/start-your-web-development-journey-using-just-your-android-phone-1hfh)
+- [Dev.to/JS] [Fixing rendering issues with Feedbin using 11ty](https://dev.to/gingerchew/fixing-rendering-issues-with-feedbin-using-11ty-3fc7)
 - [Dev.to/JS] [Enhancing Productivity: An Essential Tools for Front-End Developers](https://dev.to/function12_io/enhancing-productivity-an-essential-tools-for-front-end-developers-1alj)
 - [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
 - [Dev.to/JS] [How to Build a Document Scanner with Expo](https://dev.to/xulihang/how-to-build-a-document-scanner-with-expo-1p37)
@@ -41,12 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Walmart Early Black Friday Deals Actually Worth Your Attention](https://lifehacker.com/walmarts-best-early-black-friday-sale-deals-1851004637)
 - [Lifehacker] [How to Combine Multiple PDFs for Free](https://lifehacker.com/how-to-combine-multiple-pdfs-for-free-1851008826)
 - [Dev.to/JS] [A Guide To HTTP POST Requests In JavaScript](https://dev.to/davidking/a-guide-to-http-post-requests-in-javascript-no7)
-- [Dev.to/JS] [Key differences between GraphQL and RESTful API](https://dev.to/hashcode01/key-differences-between-graphql-and-restful-api-17o9)
 - [Lifehacker] [The Galaxy S23 FE Tries, but Ultimately Fails, to Stand Out Among the Crowd](https://lifehacker.com/samsung-galaxy-s23-review-1851008538)
 - [Lifehacker] [You Can Get an Xbox Series X for Its Cheapest Price Ever &lpar;Plus a $75 Gift Card&rpar;](https://lifehacker.com/best-xbox-series-x-deal-1851008333)
-- [Dev.to/JS] [Gulf Crypto Bank Unleashed: Say Goodbye to Traditional Banking](https://dev.to/nftbuzz2/gulf-crypto-bank-unleashed-say-goodbye-to-traditional-banking-5dd9)
-- [Dev.to/JS] [ES6 Features You Didn&#39;t Know You Needed: A JavaScript Guide for Beginners](https://dev.to/opensign/es6-features-you-didnt-know-you-needed-a-javascript-guide-for-beginners-543e)
-- [Dev.to/JS] [Hey fellow developers and tech enthusiasts](https://dev.to/opensourcee/hey-fellow-developers-and-tech-enthusiasts-17n5)
 - [Lifehacker] [Meredith&#39;s Training Diaries: My Marathon Post-Mortem](https://lifehacker.com/merediths-training-diaries-my-marathon-post-mortem-1851002897)
 - [Lifehacker] [How to Dry Out a Water-Damaged Carpet You Can’t Replace](https://lifehacker.com/how-to-dry-out-a-water-damaged-carpet-you-can-t-replace-1851007817)
 - [Lifehacker] [You Can Now Hide Your IP Address During WhatsApp Calls](https://lifehacker.com/you-can-now-hide-your-ip-address-during-whatsapp-calls-1851007730)
