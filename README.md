@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This 6th-Gen iPad Is $150 Right Now](https://lifehacker.com/this-6th-gen-ipad-is-150-right-now-1851004389)
+- [Dev.to/JS] [React useMemo](https://dev.to/lorenzojkrl/react-usememo-3faf)
+- [Dev.to/JS] [JavaScript&#39;de Nesneler](https://dev.to/eminaltan/javascriptde-nesneler-47o7)
+- [Dev.to/JS] [Exploring React State Management: From Simple to Sophisticated Solutions](https://dev.to/bhavesh_yadav/exploring-react-state-management-from-simple-to-sophisticated-solutions-4kcg)
 - [Dev.to/JS] [What is JSON?](https://dev.to/catherineisonline/what-is-json-1042)
 - [Dev.to/JS] [How to use Generators in JavaScript](https://dev.to/accreditly/how-to-use-generators-in-javascript-jol)
 - [Dev.to/JS] [Error on my API](https://dev.to/leiocopio/error-on-my-api-5f9k)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pega CSA Certification Journey Made Easy with Dumpsarena](https://dev.to/jrt1dkp5/pega-csa-certification-journey-made-easy-with-dumpsarena-4bie)
 - [Dev.to/JS] [✈️ Create JavaScript Function On The Fly](https://dev.to/shameel/create-javascript-function-on-the-fly-3p23)
 - [Dev.to/JS] [Cache mode of alovajs, a request strategy library](https://dev.to/coderhu/cache-mode-of-alovajs-a-request-strategy-library-4jki)
-- [Dev.to/JS] [Understanding JavaScript Concepts: CommonJS vs. ECMAScript Modules](https://dev.to/bartick/understanding-javascript-concepts-commonjs-vs-ecmascript-modules-2doe)
-- [Dev.to/JS] [Understanding asynchronous programming in JavaScript](https://dev.to/ghoulkingr/understanding-asynchronous-programming-in-javascript-3cmo)
-- [Dev.to/JS] [CSS Selectors Unleashed](https://dev.to/rowsanali/css-selectors-unleashed-1of9)
 - [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
 - [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
 - [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
 - [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on Laptops](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-lap-1851004628)
-- [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on TVs](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-tvs-1851003978)
-- [Lifehacker] [These Are Walmart’s Best Early Black Friday Vacuum Deals](https://lifehacker.com/these-are-walmart-s-best-early-black-friday-vacuum-deal-1851001199)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on TVs](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-tvs-1851003978)<!-- TECH-POSTS:END -->
 
 ---
 
