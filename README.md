@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Singleton classes with Typescript](https://dev.to/thalesbruno/singleton-classes-with-typescript-3fkg)
+- [Dev.to/JS] [Exploring the Pros and Cons of Standalone Components in Angular](https://dev.to/ctahirih/exploring-the-pros-and-cons-of-standalone-components-in-angular-3433)
+- [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)
 - [Dev.to/JS] [Unlocking the Potential of Vue.js: A Modern Framework for Progressive Web Applications](https://dev.to/bubu13gu/unlocking-the-potential-of-vuejs-a-modern-framework-for-progressive-web-applications-30e6)
 - [Lifehacker] [xFyro Noise-Cancelling Earbuds Are On Sale For $30 Right Now](https://lifehacker.com/xfyro-noise-cancelling-earbuds-are-on-sale-for-30-righ-1850997205)
 - [Lifehacker] [Woot Has Refurbished Blink and Ring Security Cameras for up to 71% Off](https://lifehacker.com/woot-has-refurbished-blink-and-ring-security-cameras-fo-1851009366)
@@ -48,8 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying Semantic Versioning](https://dev.to/omkarbhavare/demystifying-semantic-versioning-3ic8)
 - [Lifehacker] [This Kodak Film Scanner Is $170 Today](https://lifehacker.com/this-kodak-film-scanner-is-170-today-1850991327)
 - [Lifehacker] [Roblox Gift Cards Are 40% Off at Target Today](https://lifehacker.com/you-can-get-roblox-gift-cards-40-off-today-1851007681)
-- [Dev.to/JS] [AISEO.ai](https://dev.to/wsovn4/aiseoai-160l)
-- [Dev.to/JS] [How to migrate from SuperViz v4.x to v5.x](https://dev.to/superviz/how-to-migrate-from-superviz-v4x-to-v5x-2ei6)
 - [Lifehacker] [You Can Now See How Much RAM a Chrome Tab Is Using](https://lifehacker.com/you-can-now-see-how-much-ram-a-chrome-tab-is-using-1851007147)
 - [Lifehacker] [13 Podcasts for Your Holiday Road Trip](https://lifehacker.com/the-best-podcasts-for-a-road-trip-1851005103)
 - [Lifehacker] [The Best Ways to Win Over a Job Recruiter](https://lifehacker.com/the-best-ways-to-win-over-a-job-recruiter-1850993132)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on TVs](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-tvs-1851003978)
 - [Lifehacker] [These Are Walmart’s Best Early Black Friday Vacuum Deals](https://lifehacker.com/these-are-walmart-s-best-early-black-friday-vacuum-deal-1851001199)
 - [Lifehacker] [How Many Steps You Really Need to Take Each Day, According to Science](https://lifehacker.com/how-many-steps-you-really-need-to-take-each-day-accord-1849535168)
-- [Lifehacker] [These Are the Best Smartwatch Deals During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-are-the-best-smartwatch-deals-during-walmarts-ear-1851003742)
-- [Lifehacker] [The Apple watchOS 10.1.1 Update Fixes a Critical Issue](https://lifehacker.com/the-apple-watchos-10-1-1-update-fixes-a-critical-issue-1851003414)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Smartwatch Deals During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-are-the-best-smartwatch-deals-during-walmarts-ear-1851003742)<!-- TECH-POSTS:END -->
 
 ---
 
