@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Kem dexeryl Pháp](https://dev.to/myphamhang/kem-dexeryl-phap-3h89)
+- [Lifehacker] [The JBL Bar 2.0 &#39;All-in-One&#39; Soundbar Is Now Over $100 Off](https://lifehacker.com/the-jbl-bar-2-0-all-in-one-soundbar-is-now-over-100-of-1851011606)
+- [Dev.to/JS] [Creating Chess Board SVGs, PNGs, and GIFs](https://dev.to/robmwilc/creating-chess-board-svgs-pngs-and-gifs-1m2n)
+- [Dev.to/JS] [How to Build a JavaScript Retail Income Statement App](https://dev.to/mescius/how-to-build-a-javascript-retail-income-statement-app-4d1e)
+- [Lifehacker] [Five Types of Checks You Should Never Cash](https://lifehacker.com/types-of-checks-you-should-never-cash-1851011208)
 - [Dev.to/JS] [The 2000 line framework challenge: How to split state when using global stores with no extra dependencies beyond Modulo.js](https://dev.to/michaelpb/the-2000-line-framework-challenge-how-to-split-state-when-using-global-stores-with-no-extra-dependencies-beyond-modulojs-4o80)
 - [Lifehacker] [Use a Ziploc Bag to Separate the Fat From Your Turkey Drippings](https://lifehacker.com/use-a-ziploc-bag-to-separate-the-fat-from-your-turkey-d-1851010515)
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S.](https://lifehacker.com/where-is-weed-legal-1845595270)
@@ -42,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This TikTok Relationship Hack Is Actually Based in Research](https://lifehacker.com/tiktok-relationship-bird-test-1851009635)
 - [Dev.to/JS] [TW Elements new pricing plans announcement!](https://dev.to/mz2387/tw-elements-new-pricing-plans-announcement-4da3)
 - [Dev.to/JS] [make money $750 Free cash](https://dev.to/freecashapp750/make-money-750-free-cash-3i0a)
-- [Dev.to/JS] [How to load an Unpacked Extension on Chrome / Edge](https://dev.to/mattkenefick/how-to-load-an-unpacked-extension-on-chrome-edge-3547)
 - [Lifehacker] [The Easiest Ways to Take Better Vacation Pictures](https://lifehacker.com/the-easiest-ways-to-take-better-vacation-pictures-1851009554)
-- [Dev.to/JS] [Join us: Unleashing the Future of AI Development with ViewML. AI Open Source Invention.](https://dev.to/ntemkenyor/join-us-unleashing-the-future-of-ai-development-with-viewml-ai-open-source-invention-2lb8)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Uncanny Valley Makeup](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uncanny-1851010555)
-- [Dev.to/JS] [WebCrumbs: We are stitching together the future of the modern web](https://dev.to/opensourcee/webcrumbs-we-are-stitching-together-the-future-of-the-modern-web-47ld)
 - [Lifehacker] [Use &#39;Dual Coding&#39; to Study Twice As Effectively](https://lifehacker.com/use-dual-coding-to-study-twice-as-effectively-1851010396)
 - [Lifehacker] [This 6th-Gen iPad Is $150 Right Now](https://lifehacker.com/this-6th-gen-ipad-is-150-right-now-1851004389)
 - [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Hide Your IP Address During WhatsApp Calls](https://lifehacker.com/you-can-now-hide-your-ip-address-during-whatsapp-calls-1851007730)
 - [Lifehacker] [Your Thanksgiving Dinner Needs These No-Knead Dinner Rolls](https://lifehacker.com/soft-no-kead-dinner-rolls-recipe-1851007587)
 - [Lifehacker] [This Kodak Film Scanner Is $170 Today](https://lifehacker.com/this-kodak-film-scanner-is-170-today-1850991327)
-- [Lifehacker] [Roblox Gift Cards Are 40% Off at Target Today](https://lifehacker.com/you-can-get-roblox-gift-cards-40-off-today-1851007681)
-- [Lifehacker] [You Can Now See How Much RAM a Chrome Tab Is Using](https://lifehacker.com/you-can-now-see-how-much-ram-a-chrome-tab-is-using-1851007147)
-- [Lifehacker] [13 Podcasts for Your Holiday Road Trip](https://lifehacker.com/the-best-podcasts-for-a-road-trip-1851005103)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Roblox Gift Cards Are 40% Off at Target Today](https://lifehacker.com/you-can-get-roblox-gift-cards-40-off-today-1851007681)<!-- TECH-POSTS:END -->
 
 ---
 
