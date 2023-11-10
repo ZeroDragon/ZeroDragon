@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Tailwind CSS with React.js: A Concise Guide](https://dev.to/haszankauna/using-tailwind-css-with-reactjs-a-concise-guide-33j)
+- [Dev.to/JS] [Comparing Turbopack And Webpack](https://dev.to/davidking/comparing-turbopack-and-webpack-2cbc)
+- [Dev.to/JS] [How to Use an Angular Pivot Table Component in Your Web Application](https://dev.to/mescius/how-to-use-an-angular-pivot-table-component-in-your-web-application-449e)
 - [Dev.to/JS] [How To Choose Data Fetching Strategies In NextJS](https://dev.to/mohammadfaisal/how-to-choose-data-fetching-strategies-in-nextjs-1pm1)
 - [Dev.to/JS] [Qwik look at Resumability with Astro on Vercel](https://dev.to/reeshee/qwik-look-at-resumability-with-astro-on-vercel-44fj)
 - [Dev.to/JS] [🔥 Start Your Web Development Journey Using Just Your Android Phone!](https://dev.to/fazle-rabbi-dev/start-your-web-development-journey-using-just-your-android-phone-1hfh)
@@ -37,14 +40,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adleg Suite](https://dev.to/wsovn123/adleg-suite-231c)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
 - [Dev.to/JS] [Singleton classes with Typescript](https://dev.to/thalesbruno/singleton-classes-with-typescript-3fkg)
-- [Dev.to/JS] [Exploring the Pros and Cons of Standalone Components in Angular](https://dev.to/ctahirih/exploring-the-pros-and-cons-of-standalone-components-in-angular-3433)
 - [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)
-- [Dev.to/JS] [Unlocking the Potential of Vue.js: A Modern Framework for Progressive Web Applications](https://dev.to/bubu13gu/unlocking-the-potential-of-vuejs-a-modern-framework-for-progressive-web-applications-30e6)
 - [Lifehacker] [xFyro Noise-Cancelling Earbuds Are On Sale For $30 Right Now](https://lifehacker.com/xfyro-noise-cancelling-earbuds-are-on-sale-for-30-righ-1850997205)
 - [Lifehacker] [Woot Has Refurbished Blink and Ring Security Cameras for up to 71% Off](https://lifehacker.com/woot-has-refurbished-blink-and-ring-security-cameras-fo-1851009366)
 - [Lifehacker] [15 Walmart Early Black Friday Deals Actually Worth Your Attention](https://lifehacker.com/walmarts-best-early-black-friday-sale-deals-1851004637)
 - [Lifehacker] [How to Combine Multiple PDFs for Free](https://lifehacker.com/how-to-combine-multiple-pdfs-for-free-1851008826)
-- [Dev.to/JS] [A Guide To HTTP POST Requests In JavaScript](https://dev.to/davidking/a-guide-to-http-post-requests-in-javascript-no7)
 - [Lifehacker] [The Galaxy S23 FE Tries, but Ultimately Fails, to Stand Out Among the Crowd](https://lifehacker.com/samsung-galaxy-s23-review-1851008538)
 - [Lifehacker] [You Can Get an Xbox Series X for Its Cheapest Price Ever &lpar;Plus a $75 Gift Card&rpar;](https://lifehacker.com/best-xbox-series-x-deal-1851008333)
 - [Lifehacker] [Meredith&#39;s Training Diaries: My Marathon Post-Mortem](https://lifehacker.com/merediths-training-diaries-my-marathon-post-mortem-1851002897)
