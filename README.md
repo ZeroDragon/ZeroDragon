@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS Selectors Unleashed](https://dev.to/rowsanali/css-selectors-unleashed-1of9)
+- [Dev.to/JS] [Creating Interactive Web Animations with CSS and JavaScript](https://dev.to/haszankauna/creating-interactive-web-animations-with-css-and-javascript-e3f)
+- [Dev.to/JS] [How to GraphQL in Your React.js Project](https://dev.to/haszankauna/how-to-graphql-in-your-reactjs-project-3neh)
 - [Dev.to/JS] [Using Tailwind CSS with React.js: A Concise Guide](https://dev.to/haszankauna/using-tailwind-css-with-reactjs-a-concise-guide-33j)
 - [Dev.to/JS] [Comparing Turbopack And Webpack](https://dev.to/davidking/comparing-turbopack-and-webpack-2cbc)
 - [Dev.to/JS] [How to Use an Angular Pivot Table Component in Your Web Application](https://dev.to/mescius/how-to-use-an-angular-pivot-table-component-in-your-web-application-449e)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enhancing Productivity: An Essential Tools for Front-End Developers](https://dev.to/function12_io/enhancing-productivity-an-essential-tools-for-front-end-developers-1alj)
 - [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
 - [Dev.to/JS] [How to Build a Document Scanner with Expo](https://dev.to/xulihang/how-to-build-a-document-scanner-with-expo-1p37)
-- [Dev.to/JS] [Unleashing the Magic of `is.truthy` and `is.not_truthy` with &#39;thiis&#39;: A Playground of JavaScript Booleans](https://dev.to/karbashevskyi/unleashing-the-magic-of-istruthy-and-isnottruthy-with-thiis-a-playground-of-javascript-booleans-82n)
-- [Dev.to/JS] [Adleg Suite](https://dev.to/wsovn123/adleg-suite-231c)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
-- [Dev.to/JS] [Singleton classes with Typescript](https://dev.to/thalesbruno/singleton-classes-with-typescript-3fkg)
 - [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)
 - [Lifehacker] [xFyro Noise-Cancelling Earbuds Are On Sale For $30 Right Now](https://lifehacker.com/xfyro-noise-cancelling-earbuds-are-on-sale-for-30-righ-1850997205)
 - [Lifehacker] [Woot Has Refurbished Blink and Ring Security Cameras for up to 71% Off](https://lifehacker.com/woot-has-refurbished-blink-and-ring-security-cameras-fo-1851009366)
