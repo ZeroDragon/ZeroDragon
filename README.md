@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Check if a Value is an Object in JavaScript](https://dev.to/alesm0101/how-to-check-if-a-value-is-an-object-in-javascript-3pin)
+- [Dev.to/JS] [How to Clone an Object in JavaScript](https://dev.to/alesm0101/how-to-clone-an-object-in-javascript-ij0)
+- [Dev.to/JS] [JAVASCRIPT CONSTRUCTORS](https://dev.to/maame_afia/javascript-constructors-4gk4)
+- [Lifehacker] [Use &#39;Elaborative Interrogation&#39; to Challenge Yourself While Studying](https://lifehacker.com/use-elaborative-interrogation-to-challenge-yourself-whi-1851011669)
+- [Dev.to/JS] [Introducing OpenSign™: The Open Source Revolution in Digital Signatures](https://dev.to/opensign/introducing-opensign-the-open-source-revolution-in-digital-signatures-5fih)
 - [Lifehacker] [How to Blind Bake a Pie Crust &lpar;Because You Probably Should&rpar;](https://lifehacker.com/how-to-blind-bake-a-pie-crust-because-you-probably-sho-1851012606)
 - [Lifehacker] [You Can Get a Digi Pen for $40 Right Now](https://lifehacker.com/you-can-get-a-digi-pen-for-40-right-now-1851000905)
 - [Dev.to/JS] [Gel Rửa Mặt Bioderma Sebium Gel Moussant](https://dev.to/mypham12345/gel-rua-mat-bioderma-sebium-gel-moussant-572l)
@@ -40,13 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Delving into open source territory with Google: An Investigation](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-an-investigation-1dd5)
 - [Dev.to/JS] [Delving into open source territory with Google: PR #3](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-pr-3-4am7)
 - [Dev.to/JS] [Delving into open source territory with Google: PR #2](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-pr-2-863)
-- [Dev.to/JS] [Delving into open source territory with Google: PR #1](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-pr-1-3gkk)
 - [Lifehacker] [You Can Already Record Apple Vision Pro Videos on Your iPhone](https://lifehacker.com/you-can-already-record-apple-vision-pro-videos-on-your-1851011585)
 - [Lifehacker] [The Easiest Way to Hide iPhone Notifications While Screen Recording](https://lifehacker.com/the-easiest-way-to-hide-iphone-notifications-while-scre-1851011325)
-- [Dev.to/JS] [Kem dexeryl Pháp](https://dev.to/myphamhang/kem-dexeryl-phap-3h89)
 - [Lifehacker] [The JBL Bar 2.0 &#39;All-in-One&#39; Soundbar Is Now Over $100 Off](https://lifehacker.com/the-jbl-bar-2-0-all-in-one-soundbar-is-now-over-100-of-1851011606)
-- [Dev.to/JS] [Creating Chess Board SVGs, PNGs, and GIFs](https://dev.to/robmwilc/creating-chess-board-svgs-pngs-and-gifs-1m2n)
-- [Dev.to/JS] [How to Build a JavaScript Retail Income Statement App](https://dev.to/mescius/how-to-build-a-javascript-retail-income-statement-app-4d1e)
 - [Lifehacker] [Five Types of Checks You Should Never Cash](https://lifehacker.com/types-of-checks-you-should-never-cash-1851011208)
 - [Lifehacker] [Use a Ziploc Bag to Separate the Fat From Your Turkey Drippings](https://lifehacker.com/use-a-ziploc-bag-to-separate-the-fat-from-your-turkey-d-1851010515)
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S.](https://lifehacker.com/where-is-weed-legal-1845595270)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)
 - [Lifehacker] [xFyro Noise-Cancelling Earbuds Are On Sale For $30 Right Now](https://lifehacker.com/xfyro-noise-cancelling-earbuds-are-on-sale-for-30-righ-1850997205)
 - [Lifehacker] [Woot Has Refurbished Blink and Ring Security Cameras for up to 71% Off](https://lifehacker.com/woot-has-refurbished-blink-and-ring-security-cameras-fo-1851009366)
-- [Lifehacker] [15 Walmart Early Black Friday Deals Actually Worth Your Attention](https://lifehacker.com/walmarts-best-early-black-friday-sale-deals-1851004637)
-- [Lifehacker] [How to Combine Multiple PDFs for Free](https://lifehacker.com/how-to-combine-multiple-pdfs-for-free-1851008826)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Walmart Early Black Friday Deals Actually Worth Your Attention](https://lifehacker.com/walmarts-best-early-black-friday-sale-deals-1851004637)<!-- TECH-POSTS:END -->
 
 ---
 
