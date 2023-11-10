@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Uncanny Valley Makeup](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uncanny-1851010555)
+- [Dev.to/JS] [WebCrumbs: We are stitching together the future of the modern web](https://dev.to/opensourcee/webcrumbs-we-are-stitching-together-the-future-of-the-modern-web-47ld)
+- [Lifehacker] [Use &#39;Dual Coding&#39; to Study Twice As Effectively](https://lifehacker.com/use-dual-coding-to-study-twice-as-effectively-1851010396)
 - [Lifehacker] [This 6th-Gen iPad Is $150 Right Now](https://lifehacker.com/this-6th-gen-ipad-is-150-right-now-1851004389)
 - [Dev.to/JS] [React useMemo](https://dev.to/lorenzojkrl/react-usememo-3faf)
 - [Dev.to/JS] [JavaScript&#39;de Nesneler](https://dev.to/eminaltan/javascriptde-nesneler-47o7)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing DFlex - A Modern Javascript Drag and Drop Library](https://dev.to/jalal246/introducing-dflex-a-modern-javascript-drag-and-drop-library-26k0)
 - [Dev.to/JS] [Pega CSA Certification Journey Made Easy with Dumpsarena](https://dev.to/jrt1dkp5/pega-csa-certification-journey-made-easy-with-dumpsarena-4bie)
 - [Dev.to/JS] [✈️ Create JavaScript Function On The Fly](https://dev.to/shameel/create-javascript-function-on-the-fly-3p23)
-- [Dev.to/JS] [Cache mode of alovajs, a request strategy library](https://dev.to/coderhu/cache-mode-of-alovajs-a-request-strategy-library-4jki)
 - [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
 - [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok Myth of the Week: Why Everyone&#39;s Freaking Out About the MTHFR Gene](https://lifehacker.com/tiktok-myth-of-the-week-why-everyones-freaking-out-abo-1851004664)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
 - [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
-- [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)
-- [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on Laptops](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-lap-1851004628)
-- [Lifehacker] [These Are Walmart&#39;s Best Early Black Friday Deals on TVs](https://lifehacker.com/these-are-walmarts-best-early-black-friday-deals-on-tvs-1851003978)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)<!-- TECH-POSTS:END -->
 
 ---
 
