@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding JavaScript Concepts: CommonJS vs. ECMAScript Modules](https://dev.to/bartick/understanding-javascript-concepts-commonjs-vs-ecmascript-modules-2doe)
+- [Dev.to/JS] [Understanding asynchronous programming in JavaScript](https://dev.to/ghoulkingr/understanding-asynchronous-programming-in-javascript-3cmo)
 - [Dev.to/JS] [CSS Selectors Unleashed](https://dev.to/rowsanali/css-selectors-unleashed-1of9)
 - [Dev.to/JS] [Creating Interactive Web Animations with CSS and JavaScript](https://dev.to/haszankauna/creating-interactive-web-animations-with-css-and-javascript-e3f)
 - [Dev.to/JS] [How to GraphQL in Your React.js Project](https://dev.to/haszankauna/how-to-graphql-in-your-reactjs-project-3neh)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Qwik look at Resumability with Astro on Vercel](https://dev.to/reeshee/qwik-look-at-resumability-with-astro-on-vercel-44fj)
 - [Dev.to/JS] [🔥 Start Your Web Development Journey Using Just Your Android Phone!](https://dev.to/fazle-rabbi-dev/start-your-web-development-journey-using-just-your-android-phone-1hfh)
 - [Dev.to/JS] [Fixing rendering issues with Feedbin using 11ty](https://dev.to/gingerchew/fixing-rendering-issues-with-feedbin-using-11ty-3fc7)
-- [Dev.to/JS] [Enhancing Productivity: An Essential Tools for Front-End Developers](https://dev.to/function12_io/enhancing-productivity-an-essential-tools-for-front-end-developers-1alj)
 - [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
-- [Dev.to/JS] [How to Build a Document Scanner with Expo](https://dev.to/xulihang/how-to-build-a-document-scanner-with-expo-1p37)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
 - [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)
 - [Lifehacker] [xFyro Noise-Cancelling Earbuds Are On Sale For $30 Right Now](https://lifehacker.com/xfyro-noise-cancelling-earbuds-are-on-sale-for-30-righ-1850997205)
