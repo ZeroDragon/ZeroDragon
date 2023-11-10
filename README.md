@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Error on my API](https://dev.to/leiocopio/error-on-my-api-5f9k)
+- [Dev.to/JS] [Using React.memo to optimize your React applications](https://dev.to/ichintansoni/using-reactmemo-to-optimize-your-react-applications-577a)
+- [Dev.to/JS] [Day 1-2: React Image Search Application](https://dev.to/codewithtee/day-1-2-react-image-search-application-30pe)
+- [Dev.to/JS] [Introducing DFlex - A Modern Javascript Drag and Drop Library](https://dev.to/jalal246/introducing-dflex-a-modern-javascript-drag-and-drop-library-26k0)
+- [Dev.to/JS] [Pega CSA Certification Journey Made Easy with Dumpsarena](https://dev.to/jrt1dkp5/pega-csa-certification-journey-made-easy-with-dumpsarena-4bie)
 - [Dev.to/JS] [✈️ Create JavaScript Function On The Fly](https://dev.to/shameel/create-javascript-function-on-the-fly-3p23)
 - [Dev.to/JS] [Cache mode of alovajs, a request strategy library](https://dev.to/coderhu/cache-mode-of-alovajs-a-request-strategy-library-4jki)
 - [Dev.to/JS] [Understanding JavaScript Concepts: CommonJS vs. ECMAScript Modules](https://dev.to/bartick/understanding-javascript-concepts-commonjs-vs-ecmascript-modules-2doe)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CSS Selectors Unleashed](https://dev.to/rowsanali/css-selectors-unleashed-1of9)
 - [Dev.to/JS] [Creating Interactive Web Animations with CSS and JavaScript](https://dev.to/haszankauna/creating-interactive-web-animations-with-css-and-javascript-e3f)
 - [Dev.to/JS] [How to GraphQL in Your React.js Project](https://dev.to/haszankauna/how-to-graphql-in-your-reactjs-project-3neh)
-- [Dev.to/JS] [Using Tailwind CSS with React.js: A Concise Guide](https://dev.to/haszankauna/using-tailwind-css-with-reactjs-a-concise-guide-33j)
-- [Dev.to/JS] [Comparing Turbopack And Webpack](https://dev.to/davidking/comparing-turbopack-and-webpack-2cbc)
-- [Dev.to/JS] [How to Use an Angular Pivot Table Component in Your Web Application](https://dev.to/mescius/how-to-use-an-angular-pivot-table-component-in-your-web-application-449e)
-- [Dev.to/JS] [How To Choose Data Fetching Strategies In NextJS](https://dev.to/mohammadfaisal/how-to-choose-data-fetching-strategies-in-nextjs-1pm1)
-- [Dev.to/JS] [Qwik look at Resumability with Astro on Vercel](https://dev.to/reeshee/qwik-look-at-resumability-with-astro-on-vercel-44fj)
 - [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
 - [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)
