@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Delving into open source territory with Google: An Investigation](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-an-investigation-1dd5)
+- [Dev.to/JS] [Delving into open source territory with Google: PR #3](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-pr-3-4am7)
+- [Dev.to/JS] [Delving into open source territory with Google: PR #2](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-pr-2-863)
+- [Dev.to/JS] [Delving into open source territory with Google: PR #1](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-pr-1-3gkk)
+- [Lifehacker] [You Can Already Record Apple Vision Pro Videos on Your iPhone](https://lifehacker.com/you-can-already-record-apple-vision-pro-videos-on-your-1851011585)
+- [Lifehacker] [The Easiest Way to Hide iPhone Notifications While Screen Recording](https://lifehacker.com/the-easiest-way-to-hide-iphone-notifications-while-scre-1851011325)
 - [Dev.to/JS] [Kem dexeryl Pháp](https://dev.to/myphamhang/kem-dexeryl-phap-3h89)
 - [Lifehacker] [The JBL Bar 2.0 &#39;All-in-One&#39; Soundbar Is Now Over $100 Off](https://lifehacker.com/the-jbl-bar-2-0-all-in-one-soundbar-is-now-over-100-of-1851011606)
 - [Dev.to/JS] [Creating Chess Board SVGs, PNGs, and GIFs](https://dev.to/robmwilc/creating-chess-board-svgs-pngs-and-gifs-1m2n)
@@ -40,13 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Significant Small Changes to improve UI / UX](https://dev.to/craftingbugs/significant-small-changes-to-improve-ui-ux-4ipp)
 - [Lifehacker] [I Drank Ketchup Packets on My Run, for Science](https://lifehacker.com/i-drank-ketchup-packets-on-my-run-for-science-1851011104)
 - [Dev.to/JS] [Creating a Single-File Node.js API with Express, MongoDB, and EJS Integration](https://dev.to/eneaslari/creating-a-single-file-nodejs-api-with-express-mongodb-and-ejs-integration-pa7)
-- [Dev.to/JS] [The World of Sparse Arrays in JavaScript](https://dev.to/corinamurg/the-world-of-sparse-arrays-in-javascript-1fpo)
 - [Lifehacker] [Everything You Can Do With Your Apple Watch Without an iPhone](https://lifehacker.com/all-the-ways-you-can-use-the-apple-watch-without-an-iph-1851010672)
-- [Dev.to/JS] [Zach Bryan: Harmonizing Music and Style](https://dev.to/zachbryanshirtx/zach-bryan-harmonizing-music-and-style-5ajg)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [This TikTok Relationship Hack Is Actually Based in Research](https://lifehacker.com/tiktok-relationship-bird-test-1851009635)
-- [Dev.to/JS] [TW Elements new pricing plans announcement!](https://dev.to/mz2387/tw-elements-new-pricing-plans-announcement-4da3)
-- [Dev.to/JS] [make money $750 Free cash](https://dev.to/freecashapp750/make-money-750-free-cash-3i0a)
 - [Lifehacker] [The Easiest Ways to Take Better Vacation Pictures](https://lifehacker.com/the-easiest-ways-to-take-better-vacation-pictures-1851009554)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Uncanny Valley Makeup](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uncanny-1851010555)
 - [Lifehacker] [Use &#39;Dual Coding&#39; to Study Twice As Effectively](https://lifehacker.com/use-dual-coding-to-study-twice-as-effectively-1851010396)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meredith&#39;s Training Diaries: My Marathon Post-Mortem](https://lifehacker.com/merediths-training-diaries-my-marathon-post-mortem-1851002897)
 - [Lifehacker] [How to Dry Out a Water-Damaged Carpet You Can’t Replace](https://lifehacker.com/how-to-dry-out-a-water-damaged-carpet-you-can-t-replace-1851007817)
 - [Lifehacker] [You Can Now Hide Your IP Address During WhatsApp Calls](https://lifehacker.com/you-can-now-hide-your-ip-address-during-whatsapp-calls-1851007730)
-- [Lifehacker] [Your Thanksgiving Dinner Needs These No-Knead Dinner Rolls](https://lifehacker.com/soft-no-kead-dinner-rolls-recipe-1851007587)
-- [Lifehacker] [This Kodak Film Scanner Is $170 Today](https://lifehacker.com/this-kodak-film-scanner-is-170-today-1850991327)
-- [Lifehacker] [Roblox Gift Cards Are 40% Off at Target Today](https://lifehacker.com/you-can-get-roblox-gift-cards-40-off-today-1851007681)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Thanksgiving Dinner Needs These No-Knead Dinner Rolls](https://lifehacker.com/soft-no-kead-dinner-rolls-recipe-1851007587)<!-- TECH-POSTS:END -->
 
 ---
 
