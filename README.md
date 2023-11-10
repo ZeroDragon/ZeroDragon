@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zach Bryan: Harmonizing Music and Style](https://dev.to/zachbryanshirtx/zach-bryan-harmonizing-music-and-style-5ajg)
+- [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
+- [Dev.to/JS] [Find if a number is prime in O&lpar;1&rpar;](https://dev.to/masekere/find-if-a-number-is-prime-in-o1-2aai)
+- [Lifehacker] [This TikTok Relationship Hack Is Actually Based in Research](https://lifehacker.com/tiktok-relationship-bird-test-1851009635)
 - [Dev.to/JS] [TW Elements new pricing plans announcement!](https://dev.to/mz2387/tw-elements-new-pricing-plans-announcement-4da3)
 - [Dev.to/JS] [make money $750 Free cash](https://dev.to/freecashapp750/make-money-750-free-cash-3i0a)
 - [Dev.to/JS] [How to load an Unpacked Extension on Chrome / Edge](https://dev.to/mattkenefick/how-to-load-an-unpacked-extension-on-chrome-edge-3547)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring React State Management: From Simple to Sophisticated Solutions](https://dev.to/bhavesh_yadav/exploring-react-state-management-from-simple-to-sophisticated-solutions-4kcg)
 - [Dev.to/JS] [What is JSON?](https://dev.to/catherineisonline/what-is-json-1042)
 - [Dev.to/JS] [How to use Generators in JavaScript](https://dev.to/accreditly/how-to-use-generators-in-javascript-jol)
-- [Dev.to/JS] [Error on my API](https://dev.to/leiocopio/error-on-my-api-5f9k)
-- [Dev.to/JS] [Using React.memo to optimize your React applications](https://dev.to/ichintansoni/using-reactmemo-to-optimize-your-react-applications-577a)
 - [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
 - [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Record Your Screen in Windows 11](https://lifehacker.com/how-to-record-your-screen-in-windows-11-1851005168)
 - [Lifehacker] [Waze Can Now Help You Stay Off Accident-Prone Roads](https://lifehacker.com/waze-can-now-help-you-stay-off-accident-prone-roads-1851006424)
 - [Lifehacker] [You Should Make Turkey Pastrami for Thanksgiving](https://lifehacker.com/you-should-make-turkey-pastrami-for-thanksgiving-1851001884)
-- [Lifehacker] [TikTok Myth of the Week: Why Everyone&#39;s Freaking Out About the MTHFR Gene](https://lifehacker.com/tiktok-myth-of-the-week-why-everyones-freaking-out-abo-1851004664)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
-- [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)<!-- TECH-POSTS:END -->
+- [Lifehacker] [TikTok Myth of the Week: Why Everyone&#39;s Freaking Out About the MTHFR Gene](https://lifehacker.com/tiktok-myth-of-the-week-why-everyones-freaking-out-abo-1851004664)<!-- TECH-POSTS:END -->
 
 ---
 
