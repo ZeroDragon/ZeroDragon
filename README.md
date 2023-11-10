@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TW Elements new pricing plans announcement!](https://dev.to/mz2387/tw-elements-new-pricing-plans-announcement-4da3)
+- [Dev.to/JS] [make money $750 Free cash](https://dev.to/freecashapp750/make-money-750-free-cash-3i0a)
+- [Dev.to/JS] [How to load an Unpacked Extension on Chrome / Edge](https://dev.to/mattkenefick/how-to-load-an-unpacked-extension-on-chrome-edge-3547)
+- [Lifehacker] [The Easiest Ways to Take Better Vacation Pictures](https://lifehacker.com/the-easiest-ways-to-take-better-vacation-pictures-1851009554)
+- [Dev.to/JS] [Join us: Unleashing the Future of AI Development with ViewML. AI Open Source Invention.](https://dev.to/ntemkenyor/join-us-unleashing-the-future-of-ai-development-with-viewml-ai-open-source-invention-2lb8)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Uncanny Valley Makeup](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uncanny-1851010555)
 - [Dev.to/JS] [WebCrumbs: We are stitching together the future of the modern web](https://dev.to/opensourcee/webcrumbs-we-are-stitching-together-the-future-of-the-modern-web-47ld)
 - [Lifehacker] [Use &#39;Dual Coding&#39; to Study Twice As Effectively](https://lifehacker.com/use-dual-coding-to-study-twice-as-effectively-1851010396)
@@ -37,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Generators in JavaScript](https://dev.to/accreditly/how-to-use-generators-in-javascript-jol)
 - [Dev.to/JS] [Error on my API](https://dev.to/leiocopio/error-on-my-api-5f9k)
 - [Dev.to/JS] [Using React.memo to optimize your React applications](https://dev.to/ichintansoni/using-reactmemo-to-optimize-your-react-applications-577a)
-- [Dev.to/JS] [Day 1-2: React Image Search Application](https://dev.to/codewithtee/day-1-2-react-image-search-application-30pe)
-- [Dev.to/JS] [Introducing DFlex - A Modern Javascript Drag and Drop Library](https://dev.to/jalal246/introducing-dflex-a-modern-javascript-drag-and-drop-library-26k0)
-- [Dev.to/JS] [Pega CSA Certification Journey Made Easy with Dumpsarena](https://dev.to/jrt1dkp5/pega-csa-certification-journey-made-easy-with-dumpsarena-4bie)
-- [Dev.to/JS] [✈️ Create JavaScript Function On The Fly](https://dev.to/shameel/create-javascript-function-on-the-fly-3p23)
 - [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
 - [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Turkey Pastrami for Thanksgiving](https://lifehacker.com/you-should-make-turkey-pastrami-for-thanksgiving-1851001884)
 - [Lifehacker] [TikTok Myth of the Week: Why Everyone&#39;s Freaking Out About the MTHFR Gene](https://lifehacker.com/tiktok-myth-of-the-week-why-everyones-freaking-out-abo-1851004664)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 9, 2023](https://lifehacker.com/nyt-connections-answer-today-november-9-2023-1851002422)
-- [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)
-- [Lifehacker] [These Apple AirPods Are Only $69 During Walmart&#39;s Early Black Friday Sale](https://lifehacker.com/these-apple-airpods-are-only-69-during-walmarts-early-1851005217)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Soundbar Deals During Walmart’s Black Friday Sale](https://lifehacker.com/these-are-the-best-soundbar-deals-during-walmart-s-blac-1851004952)<!-- TECH-POSTS:END -->
 
 ---
 
