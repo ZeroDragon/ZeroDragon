@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a JavaScript Profit and Loss Analysis App](https://dev.to/mescius/how-to-build-a-javascript-profit-and-loss-analysis-app-2fjo)
+- [Dev.to/JS] [Phấn Phủ Canmake](https://dev.to/mypham12345/phan-phu-canmake-6p9)
+- [Lifehacker] [The Price of Olive Oil Is Too Damn High](https://lifehacker.com/the-best-substitutes-for-olive-oil-1851011974)
+- [Dev.to/JS] [[Discussion] What&#39;s the new big thing in web dev in the past 2 years?](https://dev.to/tusharkashyap63/discussion-whats-the-new-big-thing-in-web-dev-in-the-past-2-years-55n4)
+- [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
+- [Lifehacker] [Check to See If Your Tax Bracket Is Changing for 2024](https://lifehacker.com/check-to-see-if-your-tax-bracket-is-changing-for-2024-1851011635)
 - [Dev.to/JS] [Delving into open source territory with Google: An Investigation](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-an-investigation-1dd5)
 - [Dev.to/JS] [Delving into open source territory with Google: PR #3](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-pr-3-4am7)
 - [Dev.to/JS] [Delving into open source territory with Google: PR #2](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-pr-2-863)
@@ -42,10 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S.](https://lifehacker.com/where-is-weed-legal-1845595270)
 - [Dev.to/JS] [https://docs.google.com/forms/d/e/1FAIpQLSfhQepIRYI_njodneG61KP8xPayaCo6zhStGU1KDGq8VAglWw/viewform?usp=pp_url](https://dev.to/moore12/httpsdocsgooglecomformsde1faipqlsfhqepiryinjodneg61kp8xpayaco6zhstgu1kdgq8vaglwwviewformuspppurl-26kl)
 - [Lifehacker] [40 Hygge Movies to Get You Through the Long Dark Winter](https://lifehacker.com/cozy-movies-with-hygge-vibes-1851003088)
-- [Dev.to/JS] [VueJS part 11: Sending data from component to parent](https://dev.to/hi_iam_chris/vuejs-part-11-sending-data-from-component-to-parent-4hn3)
-- [Dev.to/JS] [Significant Small Changes to improve UI / UX](https://dev.to/craftingbugs/significant-small-changes-to-improve-ui-ux-4ipp)
 - [Lifehacker] [I Drank Ketchup Packets on My Run, for Science](https://lifehacker.com/i-drank-ketchup-packets-on-my-run-for-science-1851011104)
-- [Dev.to/JS] [Creating a Single-File Node.js API with Express, MongoDB, and EJS Integration](https://dev.to/eneaslari/creating-a-single-file-nodejs-api-with-express-mongodb-and-ejs-integration-pa7)
 - [Lifehacker] [Everything You Can Do With Your Apple Watch Without an iPhone](https://lifehacker.com/all-the-ways-you-can-use-the-apple-watch-without-an-iph-1851010672)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [This TikTok Relationship Hack Is Actually Based in Research](https://lifehacker.com/tiktok-relationship-bird-test-1851009635)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Combine Multiple PDFs for Free](https://lifehacker.com/how-to-combine-multiple-pdfs-for-free-1851008826)
 - [Lifehacker] [The Galaxy S23 FE Tries, but Ultimately Fails, to Stand Out Among the Crowd](https://lifehacker.com/samsung-galaxy-s23-review-1851008538)
 - [Lifehacker] [You Can Get an Xbox Series X for Its Cheapest Price Ever &lpar;Plus a $75 Gift Card&rpar;](https://lifehacker.com/best-xbox-series-x-deal-1851008333)
-- [Lifehacker] [Meredith&#39;s Training Diaries: My Marathon Post-Mortem](https://lifehacker.com/merediths-training-diaries-my-marathon-post-mortem-1851002897)
-- [Lifehacker] [How to Dry Out a Water-Damaged Carpet You Can’t Replace](https://lifehacker.com/how-to-dry-out-a-water-damaged-carpet-you-can-t-replace-1851007817)
-- [Lifehacker] [You Can Now Hide Your IP Address During WhatsApp Calls](https://lifehacker.com/you-can-now-hide-your-ip-address-during-whatsapp-calls-1851007730)
-- [Lifehacker] [Your Thanksgiving Dinner Needs These No-Knead Dinner Rolls](https://lifehacker.com/soft-no-kead-dinner-rolls-recipe-1851007587)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Meredith&#39;s Training Diaries: My Marathon Post-Mortem](https://lifehacker.com/merediths-training-diaries-my-marathon-post-mortem-1851002897)<!-- TECH-POSTS:END -->
 
 ---
 
