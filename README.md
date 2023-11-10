@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VueJS part 11: Sending data from component to parent](https://dev.to/hi_iam_chris/vuejs-part-11-sending-data-from-component-to-parent-4hn3)
+- [Dev.to/JS] [Significant Small Changes to improve UI / UX](https://dev.to/craftingbugs/significant-small-changes-to-improve-ui-ux-4ipp)
+- [Lifehacker] [I Drank Ketchup Packets on My Run, for Science](https://lifehacker.com/i-drank-ketchup-packets-on-my-run-for-science-1851011104)
+- [Dev.to/JS] [Creating a Single-File Node.js API with Express, MongoDB, and EJS Integration](https://dev.to/eneaslari/creating-a-single-file-nodejs-api-with-express-mongodb-and-ejs-integration-pa7)
+- [Dev.to/JS] [The World of Sparse Arrays in JavaScript](https://dev.to/corinamurg/the-world-of-sparse-arrays-in-javascript-1fpo)
+- [Lifehacker] [Everything You Can Do With Your Apple Watch Without an iPhone](https://lifehacker.com/all-the-ways-you-can-use-the-apple-watch-without-an-iph-1851010672)
 - [Dev.to/JS] [Zach Bryan: Harmonizing Music and Style](https://dev.to/zachbryanshirtx/zach-bryan-harmonizing-music-and-style-5ajg)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Dev.to/JS] [Find if a number is prime in O&lpar;1&rpar;](https://dev.to/masekere/find-if-a-number-is-prime-in-o1-2aai)
@@ -40,10 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use &#39;Dual Coding&#39; to Study Twice As Effectively](https://lifehacker.com/use-dual-coding-to-study-twice-as-effectively-1851010396)
 - [Lifehacker] [This 6th-Gen iPad Is $150 Right Now](https://lifehacker.com/this-6th-gen-ipad-is-150-right-now-1851004389)
 - [Dev.to/JS] [React useMemo](https://dev.to/lorenzojkrl/react-usememo-3faf)
-- [Dev.to/JS] [JavaScript&#39;de Nesneler](https://dev.to/eminaltan/javascriptde-nesneler-47o7)
-- [Dev.to/JS] [Exploring React State Management: From Simple to Sophisticated Solutions](https://dev.to/bhavesh_yadav/exploring-react-state-management-from-simple-to-sophisticated-solutions-4kcg)
-- [Dev.to/JS] [What is JSON?](https://dev.to/catherineisonline/what-is-json-1042)
-- [Dev.to/JS] [How to use Generators in JavaScript](https://dev.to/accreditly/how-to-use-generators-in-javascript-jol)
 - [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
 - [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Podcasts for Your Holiday Road Trip](https://lifehacker.com/the-best-podcasts-for-a-road-trip-1851005103)
 - [Lifehacker] [The Best Ways to Win Over a Job Recruiter](https://lifehacker.com/the-best-ways-to-win-over-a-job-recruiter-1850993132)
 - [Lifehacker] [How to Record Your Screen in Windows 11](https://lifehacker.com/how-to-record-your-screen-in-windows-11-1851005168)
-- [Lifehacker] [Waze Can Now Help You Stay Off Accident-Prone Roads](https://lifehacker.com/waze-can-now-help-you-stay-off-accident-prone-roads-1851006424)
-- [Lifehacker] [You Should Make Turkey Pastrami for Thanksgiving](https://lifehacker.com/you-should-make-turkey-pastrami-for-thanksgiving-1851001884)
-- [Lifehacker] [TikTok Myth of the Week: Why Everyone&#39;s Freaking Out About the MTHFR Gene](https://lifehacker.com/tiktok-myth-of-the-week-why-everyones-freaking-out-abo-1851004664)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Waze Can Now Help You Stay Off Accident-Prone Roads](https://lifehacker.com/waze-can-now-help-you-stay-off-accident-prone-roads-1851006424)<!-- TECH-POSTS:END -->
 
 ---
 
