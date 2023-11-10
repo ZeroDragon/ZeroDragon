@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Blind Bake a Pie Crust &lpar;Because You Probably Should&rpar;](https://lifehacker.com/how-to-blind-bake-a-pie-crust-because-you-probably-sho-1851012606)
+- [Lifehacker] [You Can Get a Digi Pen for $40 Right Now](https://lifehacker.com/you-can-get-a-digi-pen-for-40-right-now-1851000905)
+- [Dev.to/JS] [Gel Rửa Mặt Bioderma Sebium Gel Moussant](https://dev.to/mypham12345/gel-rua-mat-bioderma-sebium-gel-moussant-572l)
+- [Dev.to/JS] [Navigating the Web with is.browser and is.not_browser in JavaScript: Your Go-To Tools for Browser Checks](https://dev.to/karbashevskyi/navigating-the-web-with-isbrowser-and-isnotbrowser-in-javascript-your-go-to-tools-for-browser-checks-3pg7)
+- [Lifehacker] [Everything Valve Upgraded on the New Steam Deck OLED](https://lifehacker.com/everything-valve-updated-for-the-steam-deck-oled-1851012321)
 - [Dev.to/JS] [How to Build a JavaScript Profit and Loss Analysis App](https://dev.to/mescius/how-to-build-a-javascript-profit-and-loss-analysis-app-2fjo)
 - [Dev.to/JS] [Phấn Phủ Canmake](https://dev.to/mypham12345/phan-phu-canmake-6p9)
 - [Lifehacker] [The Price of Olive Oil Is Too Damn High](https://lifehacker.com/the-best-substitutes-for-olive-oil-1851011974)
@@ -43,10 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Chess Board SVGs, PNGs, and GIFs](https://dev.to/robmwilc/creating-chess-board-svgs-pngs-and-gifs-1m2n)
 - [Dev.to/JS] [How to Build a JavaScript Retail Income Statement App](https://dev.to/mescius/how-to-build-a-javascript-retail-income-statement-app-4d1e)
 - [Lifehacker] [Five Types of Checks You Should Never Cash](https://lifehacker.com/types-of-checks-you-should-never-cash-1851011208)
-- [Dev.to/JS] [The 2000 line framework challenge: How to split state when using global stores with no extra dependencies beyond Modulo.js](https://dev.to/michaelpb/the-2000-line-framework-challenge-how-to-split-state-when-using-global-stores-with-no-extra-dependencies-beyond-modulojs-4o80)
 - [Lifehacker] [Use a Ziploc Bag to Separate the Fat From Your Turkey Drippings](https://lifehacker.com/use-a-ziploc-bag-to-separate-the-fat-from-your-turkey-d-1851010515)
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S.](https://lifehacker.com/where-is-weed-legal-1845595270)
-- [Dev.to/JS] [https://docs.google.com/forms/d/e/1FAIpQLSfhQepIRYI_njodneG61KP8xPayaCo6zhStGU1KDGq8VAglWw/viewform?usp=pp_url](https://dev.to/moore12/httpsdocsgooglecomformsde1faipqlsfhqepiryinjodneg61kp8xpayaco6zhstgu1kdgq8vaglwwviewformuspppurl-26kl)
 - [Lifehacker] [40 Hygge Movies to Get You Through the Long Dark Winter](https://lifehacker.com/cozy-movies-with-hygge-vibes-1851003088)
 - [Lifehacker] [I Drank Ketchup Packets on My Run, for Science](https://lifehacker.com/i-drank-ketchup-packets-on-my-run-for-science-1851011104)
 - [Lifehacker] [Everything You Can Do With Your Apple Watch Without an iPhone](https://lifehacker.com/all-the-ways-you-can-use-the-apple-watch-without-an-iph-1851010672)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [xFyro Noise-Cancelling Earbuds Are On Sale For $30 Right Now](https://lifehacker.com/xfyro-noise-cancelling-earbuds-are-on-sale-for-30-righ-1850997205)
 - [Lifehacker] [Woot Has Refurbished Blink and Ring Security Cameras for up to 71% Off](https://lifehacker.com/woot-has-refurbished-blink-and-ring-security-cameras-fo-1851009366)
 - [Lifehacker] [15 Walmart Early Black Friday Deals Actually Worth Your Attention](https://lifehacker.com/walmarts-best-early-black-friday-sale-deals-1851004637)
-- [Lifehacker] [How to Combine Multiple PDFs for Free](https://lifehacker.com/how-to-combine-multiple-pdfs-for-free-1851008826)
-- [Lifehacker] [The Galaxy S23 FE Tries, but Ultimately Fails, to Stand Out Among the Crowd](https://lifehacker.com/samsung-galaxy-s23-review-1851008538)
-- [Lifehacker] [You Can Get an Xbox Series X for Its Cheapest Price Ever &lpar;Plus a $75 Gift Card&rpar;](https://lifehacker.com/best-xbox-series-x-deal-1851008333)
-- [Lifehacker] [Meredith&#39;s Training Diaries: My Marathon Post-Mortem](https://lifehacker.com/merediths-training-diaries-my-marathon-post-mortem-1851002897)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Combine Multiple PDFs for Free](https://lifehacker.com/how-to-combine-multiple-pdfs-for-free-1851008826)<!-- TECH-POSTS:END -->
 
 ---
 
