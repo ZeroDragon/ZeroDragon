@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adapting Agile Methodology for IT Project Management](https://dev.to/lucycolly/adapting-agile-methodology-for-it-project-management-1m5b)
 - [Dev.to/JS] [Create a simple web app with Deno&#39;s Fresh](https://dev.to/dunkbing/create-a-simple-web-app-with-denos-fresh-pg5)
 - [Dev.to/JS] [Understanding the four Pillars of Object-Oriented Programming using JavaScript](https://dev.to/adhirajk/understanding-the-four-pillars-of-object-oriented-programming-using-javascript-3a71)
 - [Dev.to/JS] [Journey of SkyPress-Pt 1: Review](https://dev.to/keys87/journey-of-skypress-pt-1-review-214o)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ANALYSING TRENDS IN PROGRAMMING LANGUAGE POPULARITY ON STACK OVERFLOW 2023](https://dev.to/nezirzahirovic/analysing-trends-in-programming-language-popularity-on-stack-overflow-2023-2amb)
 - [Dev.to/JS] [How to Use Vue Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-vue-pivot-grids-and-panels-in-your-web-application-c2b)
 - [Dev.to/JS] [Implementing a Testing Framework](https://dev.to/mismathh/implementing-a-testing-framework-2m0p)
-- [Dev.to/JS] [Unleashing Excellence: Choosing the Right Truck Company for Your Transportation Needs](https://dev.to/faizanahmad/unleashing-excellence-choosing-the-right-truck-company-for-your-transportation-needs-94f)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
