@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AfricAi Chronicles: Crafting Tech Awesomeness in 2023 🚀](https://dev.to/cypriantinasheaarons/africai-chronicles-crafting-tech-awesomeness-in-2023-4jfo)
 - [Dev.to/JS] [Message Queue in Node.js](https://dev.to/bhavika14/message-queue-in-nodejs-26om)
 - [Dev.to/JS] [Empowering Africa: AfricAi&#39;s Tech Odyssey Unveiled](https://dev.to/cypriantinasheaarons/empowering-africa-africais-tech-odyssey-unveiled-29lo)
 - [Dev.to/JS] [Building Secure User Authentication in Node.js](https://dev.to/aneeqakhan/building-secure-user-authentication-in-nodejs-4cjj)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Latest Newsletter: Money, Movies, Kindness, Elon and Barack &lpar;Issue #140&rpar;](https://dev.to/mjgs/latest-newsletter-money-movies-kindness-elon-and-barack-issue-140-1jmi)
 - [Dev.to/JS] [Building a Blogging Website with React.js: A Step-by-Step Guide](https://dev.to/rohitashsingh89/building-a-blogging-website-with-reactjs-a-step-by-step-guide-4l9l)
 - [Dev.to/JS] [Complete Introduction to WebSerial API](https://dev.to/malikbagwala/complete-introduction-to-webserial-api-1ela)
-- [Dev.to/JS] [I see this MEME and i do that](https://dev.to/songtuyen97/i-see-this-meme-and-i-do-that-5e3)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
