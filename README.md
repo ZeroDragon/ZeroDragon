@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I see this MEME and i do that](https://dev.to/songtuyen97/i-see-this-meme-and-i-do-that-5e3)
+- [Dev.to/JS] [ANALYSING TRENDS IN PROGRAMMING LANGUAGE POPULARITY ON STACK OVERFLOW 2023](https://dev.to/nezirzahirovic/analysing-trends-in-programming-language-popularity-on-stack-overflow-2023-2amb)
 - [Dev.to/JS] [How to Use Vue Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-vue-pivot-grids-and-panels-in-your-web-application-c2b)
 - [Dev.to/JS] [Implementing a Testing Framework](https://dev.to/mismathh/implementing-a-testing-framework-2m0p)
 - [Dev.to/JS] [Unleashing Excellence: Choosing the Right Truck Company for Your Transportation Needs](https://dev.to/faizanahmad/unleashing-excellence-choosing-the-right-truck-company-for-your-transportation-needs-94f)
@@ -41,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Clone an Object in JavaScript](https://dev.to/alesm0101/how-to-clone-an-object-in-javascript-ij0)
 - [Dev.to/JS] [JAVASCRIPT CONSTRUCTORS](https://dev.to/maame_afia/javascript-constructors-4gk4)
 - [Lifehacker] [Use &#39;Elaborative Interrogation&#39; to Challenge Yourself While Studying](https://lifehacker.com/use-elaborative-interrogation-to-challenge-yourself-whi-1851011669)
-- [Dev.to/JS] [Introducing OpenSign™: The Open Source Revolution in Digital Signatures](https://dev.to/opensign/introducing-opensign-the-open-source-revolution-in-digital-signatures-5fih)
 - [Lifehacker] [How to Blind Bake a Pie Crust &lpar;Because You Probably Should&rpar;](https://lifehacker.com/how-to-blind-bake-a-pie-crust-because-you-probably-sho-1851012606)
 - [Lifehacker] [You Can Get a Digi Pen for $40 Right Now](https://lifehacker.com/you-can-get-a-digi-pen-for-40-right-now-1851000905)
-- [Dev.to/JS] [Gel Rửa Mặt Bioderma Sebium Gel Moussant](https://dev.to/mypham12345/gel-rua-mat-bioderma-sebium-gel-moussant-572l)
 - [Lifehacker] [Everything Valve Upgraded on the New Steam Deck OLED](https://lifehacker.com/everything-valve-updated-for-the-steam-deck-oled-1851012321)
 - [Lifehacker] [The Price of Olive Oil Is Too Damn High](https://lifehacker.com/the-best-substitutes-for-olive-oil-1851011974)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
