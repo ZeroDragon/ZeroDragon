@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use Vue Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-vue-pivot-grids-and-panels-in-your-web-application-c2b)
+- [Dev.to/JS] [Implementing a Testing Framework](https://dev.to/mismathh/implementing-a-testing-framework-2m0p)
 - [Dev.to/JS] [Unleashing Excellence: Choosing the Right Truck Company for Your Transportation Needs](https://dev.to/faizanahmad/unleashing-excellence-choosing-the-right-truck-company-for-your-transportation-needs-94f)
 - [Dev.to/JS] [How to Add a Vue Pivot Grid to Your Web Application](https://dev.to/mescius/how-to-add-a-vue-pivot-grid-to-your-web-application-4a1i)
 - [Dev.to/JS] [How to Create Tools on WordPress and Blogger](https://dev.to/softcodeon/how-to-create-tools-on-wordpress-and-blogger-49pf)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Blind Bake a Pie Crust &lpar;Because You Probably Should&rpar;](https://lifehacker.com/how-to-blind-bake-a-pie-crust-because-you-probably-sho-1851012606)
 - [Lifehacker] [You Can Get a Digi Pen for $40 Right Now](https://lifehacker.com/you-can-get-a-digi-pen-for-40-right-now-1851000905)
 - [Dev.to/JS] [Gel Rửa Mặt Bioderma Sebium Gel Moussant](https://dev.to/mypham12345/gel-rua-mat-bioderma-sebium-gel-moussant-572l)
-- [Dev.to/JS] [Navigating the Web with is.browser and is.not_browser in JavaScript: Your Go-To Tools for Browser Checks](https://dev.to/karbashevskyi/navigating-the-web-with-isbrowser-and-isnotbrowser-in-javascript-your-go-to-tools-for-browser-checks-3pg7)
 - [Lifehacker] [Everything Valve Upgraded on the New Steam Deck OLED](https://lifehacker.com/everything-valve-updated-for-the-steam-deck-oled-1851012321)
-- [Dev.to/JS] [How to Build a JavaScript Profit and Loss Analysis App](https://dev.to/mescius/how-to-build-a-javascript-profit-and-loss-analysis-app-2fjo)
 - [Lifehacker] [The Price of Olive Oil Is Too Damn High](https://lifehacker.com/the-best-substitutes-for-olive-oil-1851011974)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [Check to See If Your Tax Bracket Is Changing for 2024](https://lifehacker.com/check-to-see-if-your-tax-bracket-is-changing-for-2024-1851011635)
