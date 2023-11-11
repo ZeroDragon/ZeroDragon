@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [O que é JSDoc](https://dev.to/cristuker/o-que-e-jsdoc-fdc)
+- [Dev.to/JS] [A function that generates random SVG waves](https://dev.to/piko/a-function-that-generates-random-svg-waves-55pn)
+- [Dev.to/JS] [Advantages of using Next.js in software development](https://dev.to/emapeire/advantages-of-using-nextjs-in-software-development-1g50)
+- [Dev.to/JS] [Ventajas de usar Next.js en el desarrollo de software](https://dev.to/emapeire/ventajas-de-usar-nextjs-en-el-desarrollo-de-software-2kh2)
+- [Dev.to/JS] [Web Authentication &lpar;WebAuthn&rpar;: Enhancing Security and User Experience in Web Applications](https://dev.to/outstandingvick/web-authentication-webauthn-enhancing-security-and-user-experience-in-web-applications-43ai)
 - [Dev.to/JS] [Tử vi Việt Nam](https://dev.to/tuvivn123/tu-vi-viet-nam-298i)
 - [Dev.to/JS] [Para que serve o useState no react.js](https://dev.to/jeffersonfalves/para-que-serve-o-usestate-no-reactjs-2hcg)
 - [Dev.to/JS] [Tử Vi](https://dev.to/tuvivn123/tu-vi-2928)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First posr](https://dev.to/ayush9900/first-posr-mge)
 - [Dev.to/JS] [React Playlist Manager: A Singly Linked Approach🌟🎶](https://dev.to/hunorvadaszperhat/react-playlist-manager-a-singly-linked-approach-2p15)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
-- [Dev.to/JS] [Lấy lá số tử vi](https://dev.to/tuvivn123/lay-la-so-tu-vi-18h9)
-- [Dev.to/JS] [Tử Vi Cổ Học](https://dev.to/tuvi78/tu-vi-co-hoc-3i29)
-- [Dev.to/JS] [Xem tuổi vợ chồng](https://dev.to/tuvi78/xem-tuoi-vo-chong-40k7)
-- [Dev.to/JS] [Diving into the Open Source Realm: My Qwik Journey Begins! 🚀🌐](https://dev.to/nyruchi/diving-into-the-open-source-realm-my-qwik-journey-begins-127i)
-- [Dev.to/JS] [How to Learn Angular 17 Features with Angular.dev](https://dev.to/danywalls/how-to-learn-angular-17-features-with-angulardev-32il)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
 - [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
