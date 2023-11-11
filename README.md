@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tử vi Việt Nam](https://dev.to/tuvivn123/tu-vi-viet-nam-298i)
+- [Dev.to/JS] [Para que serve o useState no react.js](https://dev.to/jeffersonfalves/para-que-serve-o-usestate-no-reactjs-2hcg)
 - [Dev.to/JS] [Tử Vi](https://dev.to/tuvivn123/tu-vi-2928)
 - [Dev.to/JS] [Text to Speech Converter in HTML CSS &amp; JavaScript](https://dev.to/codingcss/text-to-speech-converter-in-html-css-javascript-4p9p)
 - [Dev.to/JS] [React কেন বর্তমানে বেশি জনপ্রিয়?](https://dev.to/samiulalimsaad/react-ken-brtmaane-beshi-jnpriyy-4k1f)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Xem tuổi vợ chồng](https://dev.to/tuvi78/xem-tuoi-vo-chong-40k7)
 - [Dev.to/JS] [Diving into the Open Source Realm: My Qwik Journey Begins! 🚀🌐](https://dev.to/nyruchi/diving-into-the-open-source-realm-my-qwik-journey-begins-127i)
 - [Dev.to/JS] [How to Learn Angular 17 Features with Angular.dev](https://dev.to/danywalls/how-to-learn-angular-17-features-with-angulardev-32il)
-- [Dev.to/JS] [Transform Inputs Properties in Angular Easy](https://dev.to/danywalls/transform-inputs-properties-in-angular-easy-n7a)
-- [Dev.to/JS] [Tu Vi](https://dev.to/tuvi78/tu-vi-5di9)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
 - [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
