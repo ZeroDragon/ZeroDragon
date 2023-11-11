@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Message Queue in Node.js](https://dev.to/bhavika14/message-queue-in-nodejs-26om)
+- [Dev.to/JS] [Empowering Africa: AfricAi&#39;s Tech Odyssey Unveiled](https://dev.to/cypriantinasheaarons/empowering-africa-africais-tech-odyssey-unveiled-29lo)
+- [Dev.to/JS] [Building Secure User Authentication in Node.js](https://dev.to/aneeqakhan/building-secure-user-authentication-in-nodejs-4cjj)
 - [Dev.to/JS] [Adapting Agile Methodology for IT Project Management](https://dev.to/lucycolly/adapting-agile-methodology-for-it-project-management-1m5b)
 - [Dev.to/JS] [Create a simple web app with Deno&#39;s Fresh](https://dev.to/dunkbing/create-a-simple-web-app-with-denos-fresh-pg5)
-- [Dev.to/JS] [Understanding the four Pillars of Object-Oriented Programming using JavaScript](https://dev.to/adhirajk/understanding-the-four-pillars-of-object-oriented-programming-using-javascript-3a71)
+- [Dev.to/JS] [Understanding the four Pillars of Object-Oriented Programming using JavaScript 🐦](https://dev.to/adhirajk/understanding-the-four-pillars-of-object-oriented-programming-using-javascript-3a71)
 - [Dev.to/JS] [Journey of SkyPress-Pt 1: Review](https://dev.to/keys87/journey-of-skypress-pt-1-review-214o)
 - [Dev.to/JS] [Đồng phục công sở](https://dev.to/dongphuchh123/dong-phuc-cong-so-43i0)
 - [Dev.to/JS] [Latest Newsletter: Money, Movies, Kindness, Elon and Barack &lpar;Issue #140&rpar;](https://dev.to/mjgs/latest-newsletter-money-movies-kindness-elon-and-barack-issue-140-1jmi)
 - [Dev.to/JS] [Building a Blogging Website with React.js: A Step-by-Step Guide](https://dev.to/rohitashsingh89/building-a-blogging-website-with-reactjs-a-step-by-step-guide-4l9l)
 - [Dev.to/JS] [Complete Introduction to WebSerial API](https://dev.to/malikbagwala/complete-introduction-to-webserial-api-1ela)
 - [Dev.to/JS] [I see this MEME and i do that](https://dev.to/songtuyen97/i-see-this-meme-and-i-do-that-5e3)
-- [Dev.to/JS] [ANALYSING TRENDS IN PROGRAMMING LANGUAGE POPULARITY ON STACK OVERFLOW 2023](https://dev.to/nezirzahirovic/analysing-trends-in-programming-language-popularity-on-stack-overflow-2023-2amb)
-- [Dev.to/JS] [How to Use Vue Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-vue-pivot-grids-and-panels-in-your-web-application-c2b)
-- [Dev.to/JS] [Implementing a Testing Framework](https://dev.to/mismathh/implementing-a-testing-framework-2m0p)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
