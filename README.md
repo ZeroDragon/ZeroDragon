@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lấy lá số tử vi](https://dev.to/tuvivn123/lay-la-so-tu-vi-18h9)
+- [Dev.to/JS] [Tử Vi Cổ Học](https://dev.to/tuvi78/tu-vi-co-hoc-3i29)
 - [Dev.to/JS] [Xem tuổi vợ chồng](https://dev.to/tuvi78/xem-tuoi-vo-chong-40k7)
 - [Dev.to/JS] [Diving into the Open Source Realm: My Qwik Journey Begins! 🚀🌐](https://dev.to/nyruchi/diving-into-the-open-source-realm-my-qwik-journey-begins-127i)
 - [Dev.to/JS] [How to Learn Angular 17 Features with Angular.dev](https://dev.to/danywalls/how-to-learn-angular-17-features-with-angulardev-32il)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
 - [Dev.to/JS] [I want to develop a one-click installation environment tool, do you really need it?](https://dev.to/suxin2017/i-want-to-develop-a-one-click-installation-environment-tool-do-you-really-need-it-1416)
 - [Dev.to/JS] [Boox To Trello](https://dev.to/ssherlock/boox-to-trello-20jo)
-- [Dev.to/JS] [AfricAi Chronicles: Crafting Tech Awesomeness in 2023 🚀](https://dev.to/cypriantinasheaarons/africai-chronicles-crafting-tech-awesomeness-in-2023-4jfo)
-- [Dev.to/JS] [Message Queue in Node.js](https://dev.to/bhavika14/message-queue-in-nodejs-26om)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
