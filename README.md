@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The only thing you need to master React! &lpar;from my 5 years of experience&rpar;](https://dev.to/goodgit/the-only-thing-you-need-to-master-react-from-my-5-years-of-experience-1i6o)
 - [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
 - [Dev.to/JS] [I want to develop a one-click installation environment tool, do you really need it?](https://dev.to/suxin2017/i-want-to-develop-a-one-click-installation-environment-tool-do-you-really-need-it-1416)
 - [Dev.to/JS] [Boox To Trello](https://dev.to/ssherlock/boox-to-trello-20jo)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a simple web app with Deno&#39;s Fresh](https://dev.to/dunkbing/create-a-simple-web-app-with-denos-fresh-pg5)
 - [Dev.to/JS] [Understanding the four Pillars of Object-Oriented Programming using JavaScript 🐦](https://dev.to/adhirajk/understanding-the-four-pillars-of-object-oriented-programming-using-javascript-3a71)
 - [Dev.to/JS] [Journey of SkyPress-Pt 1: Review](https://dev.to/keys87/journey-of-skypress-pt-1-review-214o)
-- [Dev.to/JS] [Đồng phục công sở](https://dev.to/dongphuchh123/dong-phuc-cong-so-43i0)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
