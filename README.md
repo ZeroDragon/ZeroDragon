@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [✨ Los 7 Principios de las Aplicaciones Web Enriquecidas](https://dev.to/emapeire/los-7-principios-de-las-aplicaciones-web-enriquecidas-5d7)
+- [Dev.to/JS] [✨ Next.js 14](https://dev.to/emapeire/nextjs-14-3je7)
+- [Dev.to/JS] [✨ Cómo funciona Next.js](https://dev.to/emapeire/como-funciona-nextjs-1kba)
+- [Dev.to/JS] [✨ Por qué todas las migraciones de aplicaciones deberían ser incrementales](https://dev.to/emapeire/por-que-todas-las-migraciones-de-aplicaciones-deberian-ser-incrementales-dm0)
 - [Dev.to/JS] [O que é JSDoc](https://dev.to/cristuker/o-que-e-jsdoc-fdc)
 - [Dev.to/JS] [A function that generates random SVG waves](https://dev.to/piko/a-function-that-generates-random-svg-waves-55pn)
-- [Dev.to/JS] [Advantages of using Next.js in software development](https://dev.to/emapeire/advantages-of-using-nextjs-in-software-development-1g50)
-- [Dev.to/JS] [Ventajas de usar Next.js en el desarrollo de software](https://dev.to/emapeire/ventajas-de-usar-nextjs-en-el-desarrollo-de-software-2kh2)
 - [Dev.to/JS] [Web Authentication &lpar;WebAuthn&rpar;: Enhancing Security and User Experience in Web Applications](https://dev.to/outstandingvick/web-authentication-webauthn-enhancing-security-and-user-experience-in-web-applications-43ai)
 - [Dev.to/JS] [Tử vi Việt Nam](https://dev.to/tuvivn123/tu-vi-viet-nam-298i)
 - [Dev.to/JS] [Para que serve o useState no react.js](https://dev.to/jeffersonfalves/para-que-serve-o-usestate-no-reactjs-2hcg)
 - [Dev.to/JS] [Tử Vi](https://dev.to/tuvivn123/tu-vi-2928)
 - [Dev.to/JS] [Text to Speech Converter in HTML CSS &amp; JavaScript](https://dev.to/codingcss/text-to-speech-converter-in-html-css-javascript-4p9p)
 - [Dev.to/JS] [React কেন বর্তমানে বেশি জনপ্রিয়?](https://dev.to/samiulalimsaad/react-ken-brtmaane-beshi-jnpriyy-4k1f)
-- [Dev.to/JS] [First posr](https://dev.to/ayush9900/first-posr-mge)
-- [Dev.to/JS] [React Playlist Manager: A Singly Linked Approach🌟🎶](https://dev.to/hunorvadaszperhat/react-playlist-manager-a-singly-linked-approach-2p15)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
 - [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
