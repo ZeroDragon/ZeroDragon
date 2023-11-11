@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Xem tuổi vợ chồng](https://dev.to/tuvi78/xem-tuoi-vo-chong-40k7)
+- [Dev.to/JS] [Diving into the Open Source Realm: My Qwik Journey Begins! 🚀🌐](https://dev.to/nyruchi/diving-into-the-open-source-realm-my-qwik-journey-begins-127i)
+- [Dev.to/JS] [How to Learn Angular 17 Features with Angular.dev](https://dev.to/danywalls/how-to-learn-angular-17-features-with-angulardev-32il)
+- [Dev.to/JS] [Transform Inputs Properties in Angular Easy](https://dev.to/danywalls/transform-inputs-properties-in-angular-easy-n7a)
+- [Dev.to/JS] [Tu Vi](https://dev.to/tuvi78/tu-vi-5di9)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
 - [Dev.to/JS] [xem ngày tốt xấu](https://dev.to/tuvivn123/xem-ngay-tot-xau-12jd)
 - [Dev.to/JS] [Secure your Web Applications with Facial Authentication](https://dev.to/0ruko002/secure-your-web-applications-with-facial-authentication-3gof)
@@ -35,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boox To Trello](https://dev.to/ssherlock/boox-to-trello-20jo)
 - [Dev.to/JS] [AfricAi Chronicles: Crafting Tech Awesomeness in 2023 🚀](https://dev.to/cypriantinasheaarons/africai-chronicles-crafting-tech-awesomeness-in-2023-4jfo)
 - [Dev.to/JS] [Message Queue in Node.js](https://dev.to/bhavika14/message-queue-in-nodejs-26om)
-- [Dev.to/JS] [Empowering Africa: AfricAi&#39;s Tech Odyssey Unveiled](https://dev.to/cypriantinasheaarons/empowering-africa-africais-tech-odyssey-unveiled-29lo)
-- [Dev.to/JS] [Building Secure User Authentication in Node.js](https://dev.to/aneeqakhan/building-secure-user-authentication-in-nodejs-4cjj)
-- [Dev.to/JS] [Adapting Agile Methodology for IT Project Management](https://dev.to/lucycolly/adapting-agile-methodology-for-it-project-management-1m5b)
-- [Dev.to/JS] [Create a simple web app with Deno&#39;s Fresh](https://dev.to/dunkbing/create-a-simple-web-app-with-denos-fresh-pg5)
-- [Dev.to/JS] [Understanding the four Pillars of Object-Oriented Programming using JavaScript 🐦](https://dev.to/adhirajk/understanding-the-four-pillars-of-object-oriented-programming-using-javascript-3a71)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
