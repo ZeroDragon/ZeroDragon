@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create Tools on WordPress and Blogger](https://dev.to/softcodeon/how-to-create-tools-on-wordpress-and-blogger-49pf)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
 - [Dev.to/JS] [How to Use React Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-react-pivot-grids-and-panels-in-your-web-application-12e8)
 - [Dev.to/JS] [How to Add Dynamic Data Binding to a JavaScript Reporting App](https://dev.to/mescius/how-to-add-dynamic-data-binding-to-a-javascript-reporting-app-2l9i)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Discussion] What&#39;s the new big thing in web dev in the past 2 years?](https://dev.to/tusharkashyap63/discussion-whats-the-new-big-thing-in-web-dev-in-the-past-2-years-55n4)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [Check to See If Your Tax Bracket Is Changing for 2024](https://lifehacker.com/check-to-see-if-your-tax-bracket-is-changing-for-2024-1851011635)
-- [Dev.to/JS] [Delving into open source territory with Google: An Investigation](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-an-investigation-1dd5)
 - [Lifehacker] [You Can Already Record Apple Vision Pro Videos on Your iPhone](https://lifehacker.com/you-can-already-record-apple-vision-pro-videos-on-your-1851011585)
 - [Lifehacker] [The Easiest Way to Hide iPhone Notifications While Screen Recording](https://lifehacker.com/the-easiest-way-to-hide-iphone-notifications-while-scre-1851011325)
 - [Lifehacker] [The JBL Bar 2.0 &#39;All-in-One&#39; Soundbar Is Now Over $100 Off](https://lifehacker.com/the-jbl-bar-2-0-all-in-one-soundbar-is-now-over-100-of-1851011606)
