@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
+- [Dev.to/JS] [I want to develop a one-click installation environment tool, do you really need it?](https://dev.to/suxin2017/i-want-to-develop-a-one-click-installation-environment-tool-do-you-really-need-it-1416)
+- [Dev.to/JS] [Boox To Trello](https://dev.to/ssherlock/boox-to-trello-20jo)
+- [Dev.to/JS] [Cinema HD APK](https://dev.to/hdc9702/cinema-hd-apk-1fp8)
 - [Dev.to/JS] [AfricAi Chronicles: Crafting Tech Awesomeness in 2023 🚀](https://dev.to/cypriantinasheaarons/africai-chronicles-crafting-tech-awesomeness-in-2023-4jfo)
 - [Dev.to/JS] [Message Queue in Node.js](https://dev.to/bhavika14/message-queue-in-nodejs-26om)
 - [Dev.to/JS] [Empowering Africa: AfricAi&#39;s Tech Odyssey Unveiled](https://dev.to/cypriantinasheaarons/empowering-africa-africais-tech-odyssey-unveiled-29lo)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the four Pillars of Object-Oriented Programming using JavaScript 🐦](https://dev.to/adhirajk/understanding-the-four-pillars-of-object-oriented-programming-using-javascript-3a71)
 - [Dev.to/JS] [Journey of SkyPress-Pt 1: Review](https://dev.to/keys87/journey-of-skypress-pt-1-review-214o)
 - [Dev.to/JS] [Đồng phục công sở](https://dev.to/dongphuchh123/dong-phuc-cong-so-43i0)
-- [Dev.to/JS] [Latest Newsletter: Money, Movies, Kindness, Elon and Barack &lpar;Issue #140&rpar;](https://dev.to/mjgs/latest-newsletter-money-movies-kindness-elon-and-barack-issue-140-1jmi)
-- [Dev.to/JS] [Building a Blogging Website with React.js: A Step-by-Step Guide](https://dev.to/rohitashsingh89/building-a-blogging-website-with-reactjs-a-step-by-step-guide-4l9l)
-- [Dev.to/JS] [Complete Introduction to WebSerial API](https://dev.to/malikbagwala/complete-introduction-to-webserial-api-1ela)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Uncanny Valley Makeup](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uncanny-1851010555)
 - [Lifehacker] [Use &#39;Dual Coding&#39; to Study Twice As Effectively](https://lifehacker.com/use-dual-coding-to-study-twice-as-effectively-1851010396)
 - [Lifehacker] [This 6th-Gen iPad Is $150 Right Now](https://lifehacker.com/this-6th-gen-ipad-is-150-right-now-1851004389)
-- [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)<!-- TECH-POSTS:END -->
 
 ---
 
