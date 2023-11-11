@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing Excellence: Choosing the Right Truck Company for Your Transportation Needs](https://dev.to/faizanahmad/unleashing-excellence-choosing-the-right-truck-company-for-your-transportation-needs-94f)
+- [Dev.to/JS] [How to Add a Vue Pivot Grid to Your Web Application](https://dev.to/mescius/how-to-add-a-vue-pivot-grid-to-your-web-application-4a1i)
 - [Dev.to/JS] [How to Create Tools on WordPress and Blogger](https://dev.to/softcodeon/how-to-create-tools-on-wordpress-and-blogger-49pf)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
 - [Dev.to/JS] [How to Use React Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-react-pivot-grids-and-panels-in-your-web-application-12e8)
@@ -44,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigating the Web with is.browser and is.not_browser in JavaScript: Your Go-To Tools for Browser Checks](https://dev.to/karbashevskyi/navigating-the-web-with-isbrowser-and-isnotbrowser-in-javascript-your-go-to-tools-for-browser-checks-3pg7)
 - [Lifehacker] [Everything Valve Upgraded on the New Steam Deck OLED](https://lifehacker.com/everything-valve-updated-for-the-steam-deck-oled-1851012321)
 - [Dev.to/JS] [How to Build a JavaScript Profit and Loss Analysis App](https://dev.to/mescius/how-to-build-a-javascript-profit-and-loss-analysis-app-2fjo)
-- [Dev.to/JS] [Phấn Phủ Canmake](https://dev.to/mypham12345/phan-phu-canmake-6p9)
 - [Lifehacker] [The Price of Olive Oil Is Too Damn High](https://lifehacker.com/the-best-substitutes-for-olive-oil-1851011974)
-- [Dev.to/JS] [[Discussion] What&#39;s the new big thing in web dev in the past 2 years?](https://dev.to/tusharkashyap63/discussion-whats-the-new-big-thing-in-web-dev-in-the-past-2-years-55n4)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [Check to See If Your Tax Bracket Is Changing for 2024](https://lifehacker.com/check-to-see-if-your-tax-bracket-is-changing-for-2024-1851011635)
 - [Lifehacker] [You Can Already Record Apple Vision Pro Videos on Your iPhone](https://lifehacker.com/you-can-already-record-apple-vision-pro-videos-on-your-1851011585)
