@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
+- [Dev.to/JS] [How to Use React Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-react-pivot-grids-and-panels-in-your-web-application-12e8)
 - [Dev.to/JS] [How to Add Dynamic Data Binding to a JavaScript Reporting App](https://dev.to/mescius/how-to-add-dynamic-data-binding-to-a-javascript-reporting-app-2l9i)
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
@@ -47,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Early Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [Check to See If Your Tax Bracket Is Changing for 2024](https://lifehacker.com/check-to-see-if-your-tax-bracket-is-changing-for-2024-1851011635)
 - [Dev.to/JS] [Delving into open source territory with Google: An Investigation](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-an-investigation-1dd5)
-- [Dev.to/JS] [Delving into open source territory with Google: PR #3](https://dev.to/sdthaker/delving-into-open-source-territory-with-google-pr-3-4am7)
 - [Lifehacker] [You Can Already Record Apple Vision Pro Videos on Your iPhone](https://lifehacker.com/you-can-already-record-apple-vision-pro-videos-on-your-1851011585)
 - [Lifehacker] [The Easiest Way to Hide iPhone Notifications While Screen Recording](https://lifehacker.com/the-easiest-way-to-hide-iphone-notifications-while-scre-1851011325)
 - [Lifehacker] [The JBL Bar 2.0 &#39;All-in-One&#39; Soundbar Is Now Over $100 Off](https://lifehacker.com/the-jbl-bar-2-0-all-in-one-soundbar-is-now-over-100-of-1851011606)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use &#39;Dual Coding&#39; to Study Twice As Effectively](https://lifehacker.com/use-dual-coding-to-study-twice-as-effectively-1851010396)
 - [Lifehacker] [This 6th-Gen iPad Is $150 Right Now](https://lifehacker.com/this-6th-gen-ipad-is-150-right-now-1851004389)
 - [Lifehacker] [The Easiest Way to Clean Your Washing Machine](https://lifehacker.com/the-easiest-way-to-clean-your-washing-machine-1851007204)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)
-- [Lifehacker] [You Can Get TurboTax for 21% Off Right Now](https://lifehacker.com/the-best-turbotax-software-deals-1851009679)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 10, 2023](https://lifehacker.com/nyt-connections-answer-today-november-10-2023-1851007022)<!-- TECH-POSTS:END -->
 
 ---
 
