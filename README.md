@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Latest Newsletter: Money, Movies, Kindness, Elon and Barack &lpar;Issue #140&rpar;](https://dev.to/mjgs/latest-newsletter-money-movies-kindness-elon-and-barack-issue-140-1jmi)
+- [Dev.to/JS] [Building a Blogging Website with React.js: A Step-by-Step Guide](https://dev.to/rohitashsingh89/building-a-blogging-website-with-reactjs-a-step-by-step-guide-4l9l)
+- [Dev.to/JS] [Complete Introduction to WebSerial API](https://dev.to/malikbagwala/complete-introduction-to-webserial-api-1ela)
 - [Dev.to/JS] [I see this MEME and i do that](https://dev.to/songtuyen97/i-see-this-meme-and-i-do-that-5e3)
 - [Dev.to/JS] [ANALYSING TRENDS IN PROGRAMMING LANGUAGE POPULARITY ON STACK OVERFLOW 2023](https://dev.to/nezirzahirovic/analysing-trends-in-programming-language-popularity-on-stack-overflow-2023-2amb)
 - [Dev.to/JS] [How to Use Vue Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-vue-pivot-grids-and-panels-in-your-web-application-c2b)
@@ -39,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
 - [Lifehacker] [The Microsoft Surface Laptop 4 Is at Its Lowest Price Right Now](https://lifehacker.com/the-microsoft-surface-laptop-4-is-at-its-lowest-price-r-1851012902)
-- [Dev.to/JS] [How to Check if a Value is an Object in JavaScript](https://dev.to/alesm0101/how-to-check-if-a-value-is-an-object-in-javascript-3pin)
-- [Dev.to/JS] [How to Clone an Object in JavaScript](https://dev.to/alesm0101/how-to-clone-an-object-in-javascript-ij0)
-- [Dev.to/JS] [JAVASCRIPT CONSTRUCTORS](https://dev.to/maame_afia/javascript-constructors-4gk4)
 - [Lifehacker] [Use &#39;Elaborative Interrogation&#39; to Challenge Yourself While Studying](https://lifehacker.com/use-elaborative-interrogation-to-challenge-yourself-whi-1851011669)
 - [Lifehacker] [How to Blind Bake a Pie Crust &lpar;Because You Probably Should&rpar;](https://lifehacker.com/how-to-blind-bake-a-pie-crust-because-you-probably-sho-1851012606)
 - [Lifehacker] [You Can Get a Digi Pen for $40 Right Now](https://lifehacker.com/you-can-get-a-digi-pen-for-40-right-now-1851000905)
