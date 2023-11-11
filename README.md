@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tử Vi](https://dev.to/tuvivn123/tu-vi-2928)
+- [Dev.to/JS] [Text to Speech Converter in HTML CSS &amp; JavaScript](https://dev.to/codingcss/text-to-speech-converter-in-html-css-javascript-4p9p)
+- [Dev.to/JS] [React কেন বর্তমানে বেশি জনপ্রিয়?](https://dev.to/samiulalimsaad/react-ken-brtmaane-beshi-jnpriyy-4k1f)
+- [Dev.to/JS] [First posr](https://dev.to/ayush9900/first-posr-mge)
+- [Dev.to/JS] [React Playlist Manager: A Singly Linked Approach🌟🎶](https://dev.to/hunorvadaszperhat/react-playlist-manager-a-singly-linked-approach-2p15)
+- [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Dev.to/JS] [Lấy lá số tử vi](https://dev.to/tuvivn123/lay-la-so-tu-vi-18h9)
 - [Dev.to/JS] [Tử Vi Cổ Học](https://dev.to/tuvi78/tu-vi-co-hoc-3i29)
 - [Dev.to/JS] [Xem tuổi vợ chồng](https://dev.to/tuvi78/xem-tuoi-vo-chong-40k7)
@@ -34,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transform Inputs Properties in Angular Easy](https://dev.to/danywalls/transform-inputs-properties-in-angular-easy-n7a)
 - [Dev.to/JS] [Tu Vi](https://dev.to/tuvi78/tu-vi-5di9)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
-- [Dev.to/JS] [xem ngày tốt xấu](https://dev.to/tuvivn123/xem-ngay-tot-xau-12jd)
-- [Dev.to/JS] [Secure your Web Applications with Facial Authentication](https://dev.to/0ruko002/secure-your-web-applications-with-facial-authentication-3gof)
-- [Dev.to/JS] [The only thing you need to master React! &lpar;from my 5 years of experience&rpar;](https://dev.to/goodgit/the-only-thing-you-need-to-master-react-from-my-5-years-of-experience-1i6o)
 - [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
-- [Dev.to/JS] [I want to develop a one-click installation environment tool, do you really need it?](https://dev.to/suxin2017/i-want-to-develop-a-one-click-installation-environment-tool-do-you-really-need-it-1416)
-- [Dev.to/JS] [Boox To Trello](https://dev.to/ssherlock/boox-to-trello-20jo)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This TikTok Relationship Hack Is Actually Based in Research](https://lifehacker.com/tiktok-relationship-bird-test-1851009635)
 - [Lifehacker] [The Easiest Ways to Take Better Vacation Pictures](https://lifehacker.com/the-easiest-ways-to-take-better-vacation-pictures-1851009554)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Uncanny Valley Makeup](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uncanny-1851010555)
-- [Lifehacker] [Use &#39;Dual Coding&#39; to Study Twice As Effectively](https://lifehacker.com/use-dual-coding-to-study-twice-as-effectively-1851010396)
-- [Lifehacker] [This 6th-Gen iPad Is $150 Right Now](https://lifehacker.com/this-6th-gen-ipad-is-150-right-now-1851004389)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use &#39;Dual Coding&#39; to Study Twice As Effectively](https://lifehacker.com/use-dual-coding-to-study-twice-as-effectively-1851010396)<!-- TECH-POSTS:END -->
 
 ---
 
