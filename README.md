@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the four Pillars of Object-Oriented Programming using JavaScript](https://dev.to/adhirajk/understanding-the-four-pillars-of-object-oriented-programming-using-javascript-3a71)
+- [Dev.to/JS] [Journey of SkyPress-Pt 1: Review](https://dev.to/keys87/journey-of-skypress-pt-1-review-214o)
+- [Dev.to/JS] [Đồng phục công sở](https://dev.to/dongphuchh123/dong-phuc-cong-so-43i0)
 - [Dev.to/JS] [Latest Newsletter: Money, Movies, Kindness, Elon and Barack &lpar;Issue #140&rpar;](https://dev.to/mjgs/latest-newsletter-money-movies-kindness-elon-and-barack-issue-140-1jmi)
 - [Dev.to/JS] [Building a Blogging Website with React.js: A Step-by-Step Guide](https://dev.to/rohitashsingh89/building-a-blogging-website-with-reactjs-a-step-by-step-guide-4l9l)
 - [Dev.to/JS] [Complete Introduction to WebSerial API](https://dev.to/malikbagwala/complete-introduction-to-webserial-api-1ela)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing a Testing Framework](https://dev.to/mismathh/implementing-a-testing-framework-2m0p)
 - [Dev.to/JS] [Unleashing Excellence: Choosing the Right Truck Company for Your Transportation Needs](https://dev.to/faizanahmad/unleashing-excellence-choosing-the-right-truck-company-for-your-transportation-needs-94f)
 - [Dev.to/JS] [How to Add a Vue Pivot Grid to Your Web Application](https://dev.to/mescius/how-to-add-a-vue-pivot-grid-to-your-web-application-4a1i)
-- [Dev.to/JS] [How to Create Tools on WordPress and Blogger](https://dev.to/softcodeon/how-to-create-tools-on-wordpress-and-blogger-49pf)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
-- [Dev.to/JS] [How to Use React Pivot Grids and Panels in Your Web Application](https://dev.to/mescius/how-to-use-react-pivot-grids-and-panels-in-your-web-application-12e8)
-- [Dev.to/JS] [How to Add Dynamic Data Binding to a JavaScript Reporting App](https://dev.to/mescius/how-to-add-dynamic-data-binding-to-a-javascript-reporting-app-2l9i)
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
 - [Lifehacker] [The Microsoft Surface Laptop 4 Is at Its Lowest Price Right Now](https://lifehacker.com/the-microsoft-surface-laptop-4-is-at-its-lowest-price-r-1851012902)
