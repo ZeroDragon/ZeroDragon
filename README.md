@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
 - [Dev.to/JS] [Mastering Beyond CRUD: Advanced Skills for Backend Software Engineers](https://dev.to/danities316/mastering-beyond-crud-advanced-skills-for-backend-software-engineers-58m3)
 - [Dev.to/JS] [Shallow copy and Deep copy in JavaScript](https://dev.to/joao_juliasz/shallow-copy-and-deep-copy-in-javascript-226i)
 - [Dev.to/JS] [Learn Next.js 14 — Full course for beginners [3 hours] 2023](https://dev.to/guillaumeduhan/learn-nextjs-14-full-course-for-beginners-3-hours-2023-3lcg)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [This TikTok Relationship Hack Is Actually Based in Research](https://lifehacker.com/tiktok-relationship-bird-test-1851009635)
 - [Lifehacker] [The Easiest Ways to Take Better Vacation Pictures](https://lifehacker.com/the-easiest-ways-to-take-better-vacation-pictures-1851009554)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Uncanny Valley Makeup](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uncanny-1851010555)
-- [Lifehacker] [Use &#39;Dual Coding&#39; to Study Twice As Effectively](https://lifehacker.com/use-dual-coding-to-study-twice-as-effectively-1851010396)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Uncanny Valley Makeup](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uncanny-1851010555)<!-- TECH-POSTS:END -->
 
 ---
 
