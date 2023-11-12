@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Beyond CRUD: Advanced Skills for Backend Software Engineers](https://dev.to/danities316/mastering-beyond-crud-advanced-skills-for-backend-software-engineers-58m3)
+- [Dev.to/JS] [Shallow copy and Deep copy in JavaScript](https://dev.to/joao_juliasz/shallow-copy-and-deep-copy-in-javascript-226i)
 - [Dev.to/JS] [Learn Next.js 14 — Full course for beginners [3 hours] 2023](https://dev.to/guillaumeduhan/learn-nextjs-14-full-course-for-beginners-3-hours-2023-3lcg)
 - [Dev.to/JS] [BunJS : Le Serveur HTTP en Action](https://dev.to/benoitpetit/le-serveur-http-de-bunjs-en-action-10bl)
 - [Dev.to/JS] [✨ Los 7 Principios de las Aplicaciones Web Enriquecidas](https://dev.to/emapeire/los-7-principios-de-las-aplicaciones-web-enriquecidas-5d7)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A function that generates random SVG waves](https://dev.to/piko/a-function-that-generates-random-svg-waves-55pn)
 - [Dev.to/JS] [Web Authentication &lpar;WebAuthn&rpar;: Enhancing Security and User Experience in Web Applications](https://dev.to/outstandingvick/web-authentication-webauthn-enhancing-security-and-user-experience-in-web-applications-43ai)
 - [Dev.to/JS] [Tử vi Việt Nam](https://dev.to/tuvivn123/tu-vi-viet-nam-298i)
-- [Dev.to/JS] [Para que serve o useState no react.js](https://dev.to/jeffersonfalves/para-que-serve-o-usestate-no-reactjs-2hcg)
-- [Dev.to/JS] [Tử Vi](https://dev.to/tuvivn123/tu-vi-2928)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
 - [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
