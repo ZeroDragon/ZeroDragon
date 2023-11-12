@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [InterSystems Java Contest](https://dev.to/intersystems/intersystems-java-contest-4hni)
+- [Dev.to/JS] [Common Mistakes in a Developer&#39;s Early Journey](https://dev.to/kamesh_dev/common-mistakes-in-a-developers-early-journey-2opb)
+- [Dev.to/JS] [React Query vs SWR](https://dev.to/mohammadfaisal/react-query-vs-swr-3016)
+- [Dev.to/JS] [Building a Robust Unsaved Changes Prompt with React and React Router DOM](https://dev.to/serifcolakel/building-a-robust-unsaved-changes-prompt-with-react-and-react-router-dom-22d4)
+- [Dev.to/JS] [Create personal portfolio Website for free](https://dev.to/profilez/create-personal-portfolio-website-for-free-27mi)
+- [Dev.to/JS] [Mastering Prototypal Inheritance in JavaScript: A Comprehensive Guide](https://dev.to/thenomadtechie/mastering-prototypal-inheritance-in-javascript-a-comprehensive-guide-2op2)
+- [Dev.to/JS] [20,000 Followers on Dev.to](https://dev.to/scofieldidehen/20000-followers-on-devto-59n4)
+- [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
 - [Dev.to/JS] [Levidio Pro](https://dev.to/rankmarket123/levidio-pro-5a24)
 - [Dev.to/JS] [2024&#39;s Game-Changers: 2 Unstoppable JavaScript Runtimes Transforming App Development](https://dev.to/mitch1009/2024s-game-changers-2-unstoppable-javascript-runtimes-transforming-app-development-4bbg)
 - [Dev.to/JS] [How to automate an MTcaptcha solution in JavaScript &lpar;Puppeteer&rpar;](https://dev.to/dzmitry/how-to-automate-an-mtcaptcha-solution-in-javascript-puppeteer-a2d)
 - [Dev.to/JS] [Web scraper in Nuxt 3 - part III - Displaying the results on frontend](https://dev.to/aloisseckar/web-scraper-in-nuxt-3-part-iii-displaying-the-results-on-frontend-59kf)
 - [Dev.to/JS] [My first Svelte5 reactive component](https://dev.to/robertobutti/my-first-svelte5-reactive-component-5elc)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
-- [Dev.to/JS] [Paracetamol.js💊| #220: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-220-explica-este-codigo-javascript-1dkp)
-- [Dev.to/JS] [TLDR; What’s Webcrumbs?](https://dev.to/opensourcee/tldr-whats-webcrumbs-42l6)
-- [Dev.to/JS] [Hello Guest How Are You](https://dev.to/elsie99/hello-guest-how-are-you-3hcd)
-- [Dev.to/JS] [Getting Started with Redux Toolkit: Simplifying Complex State Management in React](https://dev.to/bhavesh_yadav/getting-started-with-redux-toolkit-simplifying-complex-state-management-in-react-34l0)
-- [Dev.to/JS] [React Basics: Essential Knowledge for Every React Developer](https://dev.to/adaptive-shield-matrix/react-basics-essential-knowledge-for-every-react-developer-2096)
-- [Dev.to/JS] [Is JavaScript&#39;s freedom a strength or a weakness?](https://dev.to/artxe2/is-javascripts-freedom-a-strength-or-a-weakness-1358)
-- [Dev.to/JS] [Áo đồng phục](https://dev.to/dongphuchh123/ao-dong-phuc-ocd)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Drank Ketchup Packets on My Run, for Science](https://lifehacker.com/i-drank-ketchup-packets-on-my-run-for-science-1851011104)
 - [Lifehacker] [Everything You Can Do With Your Apple Watch Without an iPhone](https://lifehacker.com/all-the-ways-you-can-use-the-apple-watch-without-an-iph-1851010672)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
-- [Lifehacker] [This TikTok Relationship Hack Is Actually Based in Research](https://lifehacker.com/tiktok-relationship-bird-test-1851009635)
-- [Lifehacker] [The Easiest Ways to Take Better Vacation Pictures](https://lifehacker.com/the-easiest-ways-to-take-better-vacation-pictures-1851009554)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This TikTok Relationship Hack Is Actually Based in Research](https://lifehacker.com/tiktok-relationship-bird-test-1851009635)<!-- TECH-POSTS:END -->
 
 ---
 
