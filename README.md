@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Useful Chrome Extensions for Web Developers](https://dev.to/this-is-learning/10-useful-chrome-extensions-for-web-developers-meg)
+- [Dev.to/JS] [$75 bonus for bingo cash here](https://dev.to/hatem_mrabet_fd63cf60bb5e/75-bonus-for-bingo-cash-here-3n9e)
 - [Dev.to/JS] [Clay Theme - Unlocking the Power of Gatsby v5+ and NetlifyCMS with Clay Theme](https://dev.to/lilxyzz/clay-theme-unlocking-the-power-of-gatsby-v5-and-netlifycms-with-clay-theme-njn)
 - [Dev.to/JS] [Rejuvezen Hemp Gummies - Unwind and Unburden - Pain and Stress Be Gone](https://dev.to/rejuvezenhempgummies/rejuvezen-hemp-gummies-unwind-and-unburden-pain-and-stress-be-gone-57lf)
 - [Dev.to/JS] [Mastering React: Essential JavaScript Concepts for Web Developers](https://dev.to/josephmaina/mastering-react-essential-javascript-concepts-for-web-developers-4i1i)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shallow copy and Deep copy in JavaScript](https://dev.to/joao_juliasz/shallow-copy-and-deep-copy-in-javascript-226i)
 - [Dev.to/JS] [Learn Next.js 14 — Full course for beginners [3 hours] 2023](https://dev.to/guillaumeduhan/learn-nextjs-14-full-course-for-beginners-3-hours-2023-3lcg)
 - [Dev.to/JS] [BunJS : Le Serveur HTTP en Action](https://dev.to/benoitpetit/le-serveur-http-de-bunjs-en-action-10bl)
-- [Dev.to/JS] [✨ Los 7 Principios de las Aplicaciones Web Enriquecidas](https://dev.to/emapeire/los-7-principios-de-las-aplicaciones-web-enriquecidas-5d7)
-- [Dev.to/JS] [✨ Next.js 14](https://dev.to/emapeire/nextjs-14-3je7)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
 - [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
