@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web scraper in Nuxt 3 - part III - Displaying the results on frontend](https://dev.to/aloisseckar/web-scraper-in-nuxt-3-part-iii-displaying-the-results-on-frontend-59kf)
+- [Dev.to/JS] [My first Svelte5 reactive component](https://dev.to/robertobutti/my-first-svelte5-reactive-component-5elc)
+- [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
+- [Dev.to/JS] [Paracetamol.js💊| #220: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-220-explica-este-codigo-javascript-1dkp)
+- [Dev.to/JS] [TLDR; What’s Webcrumbs?](https://dev.to/opensourcee/tldr-whats-webcrumbs-42l6)
+- [Dev.to/JS] [Hello Guest How Are You](https://dev.to/elsie99/hello-guest-how-are-you-3hcd)
 - [Dev.to/JS] [Getting Started with Redux Toolkit: Simplifying Complex State Management in React](https://dev.to/bhavesh_yadav/getting-started-with-redux-toolkit-simplifying-complex-state-management-in-react-34l0)
 - [Dev.to/JS] [React Basics: Essential Knowledge for Every React Developer](https://dev.to/adaptive-shield-matrix/react-basics-essential-knowledge-for-every-react-developer-2096)
 - [Dev.to/JS] [Is JavaScript&#39;s freedom a strength or a weakness?](https://dev.to/artxe2/is-javascripts-freedom-a-strength-or-a-weakness-1358)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Much JavaScript is Enough JavaScript to Learn React? 🤔](https://dev.to/chaoocharles/how-much-javascript-is-enough-javascript-to-learn-react-584o)
 - [Dev.to/JS] [Build a Rest API using NodeJS and ExpressJS with MongoDB](https://dev.to/oshendikkumbura/build-a-rest-api-using-nodejs-and-expressjs-with-mongodb-1ek6)
 - [Dev.to/JS] [Common mistakes to avoid when using React Hooks](https://dev.to/emkay860/common-mistakes-to-avoid-when-using-react-hooks-53gn)
-- [Dev.to/JS] [Web scraper in Nuxt 3 - part I - Introduction and setting up](https://dev.to/aloisseckar/web-scraper-in-nuxt-3-part-i-introduction-and-setting-up-4bb5)
-- [Dev.to/JS] [Chrome Extension for CSS Layouts: HTML Visualization](https://dev.to/minionkim/chrome-extension-for-css-layouts-html-visualization-367n)
-- [Dev.to/JS] [Exploring React&#39;s Top Useful Hooks with Code Examples](https://dev.to/rakibcloud/exploring-reacts-top-useful-hooks-with-code-examples-3ikc)
-- [Dev.to/JS] [SEO in NextJS &lpar;How to correctly use &lt;NextSeo&gt; tags in Nextjs for SEO&rpar;](https://dev.to/sufian/seo-in-nextjs-how-to-correctly-use-tags-in-nextjs-for-seo-392m)
-- [Dev.to/JS] [Zoom + Pan, clamped to a container](https://dev.to/neophen/zoom-pan-clamped-to-a-container-2lp)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Can Do With Your Apple Watch Without an iPhone](https://lifehacker.com/all-the-ways-you-can-use-the-apple-watch-without-an-iph-1851010672)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [This TikTok Relationship Hack Is Actually Based in Research](https://lifehacker.com/tiktok-relationship-bird-test-1851009635)
-- [Lifehacker] [The Easiest Ways to Take Better Vacation Pictures](https://lifehacker.com/the-easiest-ways-to-take-better-vacation-pictures-1851009554)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Uncanny Valley Makeup](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uncanny-1851010555)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Take Better Vacation Pictures](https://lifehacker.com/the-easiest-ways-to-take-better-vacation-pictures-1851009554)<!-- TECH-POSTS:END -->
 
 ---
 
