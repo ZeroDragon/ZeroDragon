@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to automate an MTcaptcha solution in JavaScript &lpar;Puppeteer&rpar;](https://dev.to/dzmitry/how-to-automate-an-mtcaptcha-solution-in-javascript-puppeteer-a2d)
 - [Dev.to/JS] [Web scraper in Nuxt 3 - part III - Displaying the results on frontend](https://dev.to/aloisseckar/web-scraper-in-nuxt-3-part-iii-displaying-the-results-on-frontend-59kf)
 - [Dev.to/JS] [My first Svelte5 reactive component](https://dev.to/robertobutti/my-first-svelte5-reactive-component-5elc)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Áo đồng phục](https://dev.to/dongphuchh123/ao-dong-phuc-ocd)
 - [Dev.to/JS] [How Much JavaScript is Enough JavaScript to Learn React? 🤔](https://dev.to/chaoocharles/how-much-javascript-is-enough-javascript-to-learn-react-584o)
 - [Dev.to/JS] [Build a Rest API using NodeJS and ExpressJS with MongoDB](https://dev.to/oshendikkumbura/build-a-rest-api-using-nodejs-and-expressjs-with-mongodb-1ek6)
-- [Dev.to/JS] [Common mistakes to avoid when using React Hooks](https://dev.to/emkay860/common-mistakes-to-avoid-when-using-react-hooks-53gn)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
