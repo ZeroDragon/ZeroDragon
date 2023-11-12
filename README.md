@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying &#39;this&#39; keyword in JavaScript for Beginners](https://dev.to/opensign/demystifying-this-keyword-in-javascript-for-beginners-4723)
+- [Dev.to/JS] [Exploring Angular 17: A Glimpse into the Future of Web Development - Part 3](https://dev.to/ahmoustafa35/exploring-angular-17-a-glimpse-into-the-future-of-web-development-part-3-2n4c)
+- [Dev.to/JS] [Xem tử vi trọn đời theo giờ sinh, ngày tháng năm sinh](https://dev.to/tuvivn123/xem-tu-vi-tron-doi-theo-gio-sinh-ngay-thang-nam-sinh-5lg)
 - [Dev.to/JS] [Why and How to Check the Server-side Rendered Content on your Website](https://dev.to/ajones_codes/why-and-how-to-check-the-server-side-rendered-content-on-your-website-89a)
 - [Dev.to/JS] [Cash App $750 Free](https://dev.to/aslamkhan/cash-app-750-free-3fda)
 - [Dev.to/JS] [YTMP3](https://dev.to/yttomp3/ytmp3-36g0)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Common Mistakes in a Developer&#39;s Early Journey](https://dev.to/kamesh_dev/common-mistakes-in-a-developers-early-journey-2opb)
 - [Dev.to/JS] [React Query vs SWR](https://dev.to/mohammadfaisal/react-query-vs-swr-3016)
 - [Dev.to/JS] [Building a Robust Unsaved Changes Prompt with React and React Router DOM](https://dev.to/serifcolakel/building-a-robust-unsaved-changes-prompt-with-react-and-react-router-dom-22d4)
-- [Dev.to/JS] [Create personal portfolio Website for free](https://dev.to/profilez/create-personal-portfolio-website-for-free-27mi)
-- [Dev.to/JS] [Mastering Prototypal Inheritance in JavaScript: A Comprehensive Guide](https://dev.to/thenomadtechie/mastering-prototypal-inheritance-in-javascript-a-comprehensive-guide-2op2)
-- [Dev.to/JS] [20,000 Followers on Dev.to](https://dev.to/scofieldidehen/20000-followers-on-devto-59n4)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
