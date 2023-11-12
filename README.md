@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SEO in NextJS &lpar;How to correctly use &lt;NextSeo&gt; tags in Nextjs for SEO&rpar;](https://dev.to/sufian/seo-in-nextjs-how-to-correctly-use-tags-in-nextjs-for-seo-392m)
+- [Dev.to/JS] [Zoom + Pan, clamped to a container](https://dev.to/neophen/zoom-pan-clamped-to-a-container-2lp)
 - [Dev.to/JS] [Happy Diwali: CSS Burning Crackers effect](https://dev.to/puneetkumar2010/happy-diwali-css-burning-crackers-effect-4pga)
 - [Dev.to/JS] [Telegram Bot on Node.JS](https://dev.to/codesynx/telegram-bot-on-nodejs-3d1p)
 - [Dev.to/JS] [10 Useful Chrome Extensions for Web Developers](https://dev.to/this-is-learning/10-useful-chrome-extensions-for-web-developers-meg)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 6 System Design Patterns to Ace Every System Design Interview](https://dev.to/mukeshkuiry/top-6-system-design-patterns-to-ace-every-system-design-interview-4388)
 - [Dev.to/JS] [A Quick Look at the JavaScript apply&lpar;&rpar; Method](https://dev.to/rhieger/a-quick-look-at-the-javascript-apply-method-147j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
-- [Dev.to/JS] [Mastering Beyond CRUD: Advanced Skills for Backend Software Engineers](https://dev.to/danities316/mastering-beyond-crud-advanced-skills-for-backend-software-engineers-58m3)
-- [Dev.to/JS] [Shallow copy and Deep copy in JavaScript](https://dev.to/joao_juliasz/shallow-copy-and-deep-copy-in-javascript-226i)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
 - [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
