@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with Redux Toolkit: Simplifying Complex State Management in React](https://dev.to/bhavesh_yadav/getting-started-with-redux-toolkit-simplifying-complex-state-management-in-react-34l0)
 - [Dev.to/JS] [React Basics: Essential Knowledge for Every React Developer](https://dev.to/adaptive-shield-matrix/react-basics-essential-knowledge-for-every-react-developer-2096)
 - [Dev.to/JS] [Is JavaScript&#39;s freedom a strength or a weakness?](https://dev.to/artxe2/is-javascripts-freedom-a-strength-or-a-weakness-1358)
 - [Dev.to/JS] [Áo đồng phục](https://dev.to/dongphuchh123/ao-dong-phuc-ocd)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring React&#39;s Top Useful Hooks with Code Examples](https://dev.to/rakibcloud/exploring-reacts-top-useful-hooks-with-code-examples-3ikc)
 - [Dev.to/JS] [SEO in NextJS &lpar;How to correctly use &lt;NextSeo&gt; tags in Nextjs for SEO&rpar;](https://dev.to/sufian/seo-in-nextjs-how-to-correctly-use-tags-in-nextjs-for-seo-392m)
 - [Dev.to/JS] [Zoom + Pan, clamped to a container](https://dev.to/neophen/zoom-pan-clamped-to-a-container-2lp)
-- [Dev.to/JS] [Happy Diwali: CSS Burning Crackers effect](https://dev.to/puneetkumar2010/happy-diwali-css-burning-crackers-effect-4pga)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
