@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Basics: Essential Knowledge for Every React Developer](https://dev.to/adaptive-shield-matrix/react-basics-essential-knowledge-for-every-react-developer-2096)
+- [Dev.to/JS] [Is JavaScript&#39;s freedom a strength or a weakness?](https://dev.to/artxe2/is-javascripts-freedom-a-strength-or-a-weakness-1358)
+- [Dev.to/JS] [Áo đồng phục](https://dev.to/dongphuchh123/ao-dong-phuc-ocd)
+- [Dev.to/JS] [How Much JavaScript is Enough JavaScript to Learn React? 🤔](https://dev.to/chaoocharles/how-much-javascript-is-enough-javascript-to-learn-react-584o)
 - [Dev.to/JS] [Build a Rest API using NodeJS and ExpressJS with MongoDB](https://dev.to/oshendikkumbura/build-a-rest-api-using-nodejs-and-expressjs-with-mongodb-1ek6)
 - [Dev.to/JS] [Common mistakes to avoid when using React Hooks](https://dev.to/emkay860/common-mistakes-to-avoid-when-using-react-hooks-53gn)
 - [Dev.to/JS] [Web scraper in Nuxt 3 - part I - Introduction and setting up](https://dev.to/aloisseckar/web-scraper-in-nuxt-3-part-i-introduction-and-setting-up-4bb5)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SEO in NextJS &lpar;How to correctly use &lt;NextSeo&gt; tags in Nextjs for SEO&rpar;](https://dev.to/sufian/seo-in-nextjs-how-to-correctly-use-tags-in-nextjs-for-seo-392m)
 - [Dev.to/JS] [Zoom + Pan, clamped to a container](https://dev.to/neophen/zoom-pan-clamped-to-a-container-2lp)
 - [Dev.to/JS] [Happy Diwali: CSS Burning Crackers effect](https://dev.to/puneetkumar2010/happy-diwali-css-burning-crackers-effect-4pga)
-- [Dev.to/JS] [Telegram Bot on Node.JS](https://dev.to/codesynx/telegram-bot-on-nodejs-3d1p)
-- [Dev.to/JS] [10 Useful Chrome Extensions for Web Developers](https://dev.to/this-is-learning/10-useful-chrome-extensions-for-web-developers-meg)
-- [Dev.to/JS] [$75 bonus for bingo cash here](https://dev.to/hatem_mrabet_fd63cf60bb5e/75-bonus-for-bingo-cash-here-3n9e)
-- [Dev.to/JS] [Clay Theme - Unlocking the Power of Gatsby v5+ and NetlifyCMS with Clay Theme](https://dev.to/lilxyzz/clay-theme-unlocking-the-power-of-gatsby-v5-and-netlifycms-with-clay-theme-njn)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
