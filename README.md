@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevate Your Research Game with Cutting-Edge Peptides!](https://dev.to/anzikbro/elevate-your-research-game-with-cutting-edge-peptides-3hnj)
 - [Dev.to/JS] [InterSystems Java Contest](https://dev.to/intersystems/intersystems-java-contest-4hni)
 - [Dev.to/JS] [Common Mistakes in a Developer&#39;s Early Journey](https://dev.to/kamesh_dev/common-mistakes-in-a-developers-early-journey-2opb)
 - [Dev.to/JS] [React Query vs SWR](https://dev.to/mohammadfaisal/react-query-vs-swr-3016)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2024&#39;s Game-Changers: 2 Unstoppable JavaScript Runtimes Transforming App Development](https://dev.to/mitch1009/2024s-game-changers-2-unstoppable-javascript-runtimes-transforming-app-development-4bbg)
 - [Dev.to/JS] [How to automate an MTcaptcha solution in JavaScript &lpar;Puppeteer&rpar;](https://dev.to/dzmitry/how-to-automate-an-mtcaptcha-solution-in-javascript-puppeteer-a2d)
 - [Dev.to/JS] [Web scraper in Nuxt 3 - part III - Displaying the results on frontend](https://dev.to/aloisseckar/web-scraper-in-nuxt-3-part-iii-displaying-the-results-on-frontend-59kf)
-- [Dev.to/JS] [My first Svelte5 reactive component](https://dev.to/robertobutti/my-first-svelte5-reactive-component-5elc)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
