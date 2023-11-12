@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Mastering Website Previews: A Step by Step Guide to Playwright and Chromium! ✨](https://dev.to/joshuaamaju/mastering-website-previews-a-step-by-step-guide-to-playwright-and-chromium-2a8p)
 - [Dev.to/JS] [Mastering ES2019: A Deep Dive into Five Key JavaScript Features](https://dev.to/gervaisamoah/mastering-es2019-a-deep-dive-into-five-key-javascript-features-f4p)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Priority Queue](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-priority-queue-1ogg)
 - [Dev.to/JS] [Demystifying &#39;this&#39; keyword in JavaScript for Beginners](https://dev.to/opensign/demystifying-this-keyword-in-javascript-for-beginners-4723)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Dev.to/JS] [Elevate Your Research Game with Cutting-Edge Peptides!](https://dev.to/anzikbro/elevate-your-research-game-with-cutting-edge-peptides-3hnj)
 - [Dev.to/JS] [InterSystems Java Contest](https://dev.to/intersystems/intersystems-java-contest-4hni)
-- [Dev.to/JS] [Common Mistakes in a Developer&#39;s Early Journey](https://dev.to/kamesh_dev/common-mistakes-in-a-developers-early-journey-2opb)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
