@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Levidio Pro](https://dev.to/rankmarket123/levidio-pro-5a24)
+- [Dev.to/JS] [2024&#39;s Game-Changers: 2 Unstoppable JavaScript Runtimes Transforming App Development](https://dev.to/mitch1009/2024s-game-changers-2-unstoppable-javascript-runtimes-transforming-app-development-4bbg)
 - [Dev.to/JS] [How to automate an MTcaptcha solution in JavaScript &lpar;Puppeteer&rpar;](https://dev.to/dzmitry/how-to-automate-an-mtcaptcha-solution-in-javascript-puppeteer-a2d)
 - [Dev.to/JS] [Web scraper in Nuxt 3 - part III - Displaying the results on frontend](https://dev.to/aloisseckar/web-scraper-in-nuxt-3-part-iii-displaying-the-results-on-frontend-59kf)
 - [Dev.to/JS] [My first Svelte5 reactive component](https://dev.to/robertobutti/my-first-svelte5-reactive-component-5elc)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Basics: Essential Knowledge for Every React Developer](https://dev.to/adaptive-shield-matrix/react-basics-essential-knowledge-for-every-react-developer-2096)
 - [Dev.to/JS] [Is JavaScript&#39;s freedom a strength or a weakness?](https://dev.to/artxe2/is-javascripts-freedom-a-strength-or-a-weakness-1358)
 - [Dev.to/JS] [Áo đồng phục](https://dev.to/dongphuchh123/ao-dong-phuc-ocd)
-- [Dev.to/JS] [How Much JavaScript is Enough JavaScript to Learn React? 🤔](https://dev.to/chaoocharles/how-much-javascript-is-enough-javascript-to-learn-react-584o)
-- [Dev.to/JS] [Build a Rest API using NodeJS and ExpressJS with MongoDB](https://dev.to/oshendikkumbura/build-a-rest-api-using-nodejs-and-expressjs-with-mongodb-1ek6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
