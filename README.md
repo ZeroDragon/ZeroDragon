@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web scraper in Nuxt 3 - part I - Introduction and setting up](https://dev.to/aloisseckar/web-scraper-in-nuxt-3-part-i-introduction-and-setting-up-4bb5)
+- [Dev.to/JS] [Chrome Extension for CSS Layouts: HTML Visualization](https://dev.to/minionkim/chrome-extension-for-css-layouts-html-visualization-367n)
+- [Dev.to/JS] [Exploring React&#39;s Top Useful Hooks with Code Examples](https://dev.to/rakibcloud/exploring-reacts-top-useful-hooks-with-code-examples-3ikc)
 - [Dev.to/JS] [SEO in NextJS &lpar;How to correctly use &lt;NextSeo&gt; tags in Nextjs for SEO&rpar;](https://dev.to/sufian/seo-in-nextjs-how-to-correctly-use-tags-in-nextjs-for-seo-392m)
 - [Dev.to/JS] [Zoom + Pan, clamped to a container](https://dev.to/neophen/zoom-pan-clamped-to-a-container-2lp)
 - [Dev.to/JS] [Happy Diwali: CSS Burning Crackers effect](https://dev.to/puneetkumar2010/happy-diwali-css-burning-crackers-effect-4pga)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clay Theme - Unlocking the Power of Gatsby v5+ and NetlifyCMS with Clay Theme](https://dev.to/lilxyzz/clay-theme-unlocking-the-power-of-gatsby-v5-and-netlifycms-with-clay-theme-njn)
 - [Dev.to/JS] [Rejuvezen Hemp Gummies - Unwind and Unburden - Pain and Stress Be Gone](https://dev.to/rejuvezenhempgummies/rejuvezen-hemp-gummies-unwind-and-unburden-pain-and-stress-be-gone-57lf)
 - [Dev.to/JS] [Mastering React: Essential JavaScript Concepts for Web Developers](https://dev.to/josephmaina/mastering-react-essential-javascript-concepts-for-web-developers-4i1i)
-- [Dev.to/JS] [Use Astro for your personal or portfolio website](https://dev.to/craigaholliday/use-astro-for-your-personal-or-portfolio-website-4lp0)
-- [Dev.to/JS] [Top 6 System Design Patterns to Ace Every System Design Interview](https://dev.to/mukeshkuiry/top-6-system-design-patterns-to-ace-every-system-design-interview-4388)
-- [Dev.to/JS] [A Quick Look at the JavaScript apply&lpar;&rpar; Method](https://dev.to/rhieger/a-quick-look-at-the-javascript-apply-method-147j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
