@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why and How to Check the Server-side Rendered Content on your Website](https://dev.to/ajones_codes/why-and-how-to-check-the-server-side-rendered-content-on-your-website-89a)
+- [Dev.to/JS] [Cash App $750 Free](https://dev.to/aslamkhan/cash-app-750-free-3fda)
 - [Dev.to/JS] [YTMP3](https://dev.to/yttomp3/ytmp3-36g0)
 - [Dev.to/JS] [AdFlex](https://dev.to/wsovn123/adflex-1m0o)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Prototypal Inheritance in JavaScript: A Comprehensive Guide](https://dev.to/thenomadtechie/mastering-prototypal-inheritance-in-javascript-a-comprehensive-guide-2op2)
 - [Dev.to/JS] [20,000 Followers on Dev.to](https://dev.to/scofieldidehen/20000-followers-on-devto-59n4)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
-- [Dev.to/JS] [Levidio Pro](https://dev.to/rankmarket123/levidio-pro-5a24)
-- [Dev.to/JS] [2024&#39;s Game-Changers: 2 Unstoppable JavaScript Runtimes Transforming App Development](https://dev.to/mitch1009/2024s-game-changers-2-unstoppable-javascript-runtimes-transforming-app-development-4bbg)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
 - [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
