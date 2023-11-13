@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s create an NPX command](https://dev.to/giuliano1993/lets-create-an-npx-command-3l2o)
+- [Dev.to/JS] [Revolutionize Your React App with useReducer: Mastering State Management](https://dev.to/brdnicolas/revolutionize-your-react-app-with-usereducer-mastering-state-management-naa)
+- [Dev.to/JS] [How to Build a Custom React Hook to Listen for Keyboard Events](https://dev.to/barrymichaeldoyle/how-to-build-a-custom-react-hook-to-listen-for-keyboard-events-32b4)
 - [Dev.to/JS] [Explaining ‘this’ keyword in javascript to a beginner](https://dev.to/opensign/explaining-this-keyword-in-javascript-to-a-beginner-59e0)
 - [Dev.to/JS] [How To Build a Todo List App Using HTML, CSS, and JavaScript](https://dev.to/sharathchandark/how-to-build-a-todo-list-app-using-html-css-and-javascript-4mg6)
 - [Dev.to/JS] [TOKO777 ⚡Best Online Website For Promote Business ⚡](https://dev.to/toko777official/toko777-best-online-website-for-promote-business-5ckk)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Por qué necesitás React Query](https://dev.to/ccaracach/por-que-necesitas-react-query-3a1n)
 - [Dev.to/JS] [ObjectObject](https://dev.to/jackh404/objectobject-2638)
 - [Dev.to/JS] [ljdhar, un package NPM pour récupérer les articles du Journal du Hacker](https://dev.to/benoitpetit/ljdhar-un-package-npm-pour-recuperer-les-derniers-articles-du-journal-du-hacker-pck)
-- [Dev.to/JS] [Understanding Memory Location in JavaScript](https://dev.to/wdp/understanding-memory-location-in-javascript-4adm)
-- [Dev.to/JS] [Hello World, this is Cipherchat! 🐈‍⬛](https://dev.to/secondl1ght/hello-world-this-is-cipherchat-2817)
-- [Dev.to/JS] [Wanna Start HTML CSS to Embark on Your Web Development Journey?](https://dev.to/takitajwar17/wanna-start-html-css-to-embark-on-your-web-development-journey-dev-retro-2022-3d6o)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
