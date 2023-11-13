@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TF #23 | Frontend digest](https://dev.to/tech_foutraque/tf-23-frontend-digest-1ikk)
+- [Dev.to/JS] [test123](https://dev.to/mix682/test123-1ndm)
+- [Dev.to/JS] [Chatbot Dreams &amp; Markdown Streams: Creating React JS ChatGPT Bots in Minutes](https://dev.to/salmenus/chatbot-dreams-markdown-streams-creating-react-js-chatgpt-bots-in-minutes-1nig)
+- [Dev.to/JS] [Understanding Arrow Functions in JavaScript](https://dev.to/gurrudev/understanding-arrow-functions-in-javascript-1n36)
+- [Dev.to/JS] [Security in modern Web Applications -&gt; Owasp to the rescue!](https://dev.to/jacobandrewsky/security-in-modern-web-applications-owasp-to-the-rescue-52k9)
 - [Dev.to/JS] [Let&#39;s create an NPX command](https://dev.to/giuliano1993/lets-create-an-npx-command-3l2o)
 - [Dev.to/JS] [Revolutionize Your React App with useReducer: Mastering State Management](https://dev.to/brdnicolas/revolutionize-your-react-app-with-usereducer-mastering-state-management-naa)
 - [Dev.to/JS] [How to Build a Custom React Hook to Listen for Keyboard Events](https://dev.to/barrymichaeldoyle/how-to-build-a-custom-react-hook-to-listen-for-keyboard-events-32b4)
@@ -33,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Build a Todo List App Using HTML, CSS, and JavaScript](https://dev.to/sharathchandark/how-to-build-a-todo-list-app-using-html-css-and-javascript-4mg6)
 - [Dev.to/JS] [TOKO777 ⚡Best Online Website For Promote Business ⚡](https://dev.to/toko777official/toko777-best-online-website-for-promote-business-5ckk)
 - [Dev.to/JS] [Asynchronous Programming in JavaScript: Unleashing the Power of Non-Blocking Code Execution](https://dev.to/gurrudev/asynchronous-programming-in-javascript-unleashing-the-power-of-non-blocking-code-execution-4d1g)
-- [Dev.to/JS] [Typescript Generics - What are they doing](https://dev.to/udayanmaurya/typescript-generics-what-are-they-doing-1j6i)
-- [Dev.to/JS] [Cham soc suc khoe cua ban](https://dev.to/dkhongcuong14/cham-soc-suc-khoe-cua-ban-5eo6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
-- [Dev.to/JS] [Por qué necesitás React Query](https://dev.to/ccaracach/por-que-necesitas-react-query-3a1n)
-- [Dev.to/JS] [ObjectObject](https://dev.to/jackh404/objectobject-2638)
-- [Dev.to/JS] [ljdhar, un package NPM pour récupérer les articles du Journal du Hacker](https://dev.to/benoitpetit/ljdhar-un-package-npm-pour-recuperer-les-derniers-articles-du-journal-du-hacker-pck)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
