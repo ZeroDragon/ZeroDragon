@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Generics - What are they doing](https://dev.to/udayanmaurya/typescript-generics-what-are-they-doing-1j6i)
+- [Dev.to/JS] [Cham soc suc khoe cua ban](https://dev.to/dkhongcuong14/cham-soc-suc-khoe-cua-ban-5eo6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
 - [Dev.to/JS] [Por qué necesitás React Query](https://dev.to/ccaracach/por-que-necesitas-react-query-3a1n)
 - [Dev.to/JS] [ObjectObject](https://dev.to/jackh404/objectobject-2638)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering ES2019: A Deep Dive into Five Key JavaScript Features](https://dev.to/gervaisamoah/mastering-es2019-a-deep-dive-into-five-key-javascript-features-f4p)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Priority Queue](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-priority-queue-1ogg)
 - [Dev.to/JS] [Demystifying &#39;this&#39; keyword in JavaScript for Beginners](https://dev.to/opensign/demystifying-this-keyword-in-javascript-for-beginners-4723)
-- [Dev.to/JS] [Exploring Angular 17: A Glimpse into the Future of Web Development - Part 3](https://dev.to/ahmoustafa35/exploring-angular-17-a-glimpse-into-the-future-of-web-development-part-3-2n4c)
-- [Dev.to/JS] [Xem tử vi trọn đời theo giờ sinh, ngày tháng năm sinh](https://dev.to/tuvivn123/xem-tu-vi-tron-doi-theo-gio-sinh-ngay-thang-nam-sinh-5lg)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
