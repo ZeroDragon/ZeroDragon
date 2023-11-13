@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get $750 on your Cash App Instantly](https://dev.to/makemoney/get-750-on-your-cash-app-instantly-54ng)
+- [Dev.to/JS] [Business Card Generator!](https://dev.to/ubaton/business-card-generator-48g0)
 - [Dev.to/JS] [Introduction to Docker Networking](https://dev.to/refine/introduction-to-docker-networking-35nl)
 - [Lifehacker] [Why All the Gen Z Kids Love ‘Soft Saving’ &lpar;and How to Do It&rpar;](https://lifehacker.com/what-is-gen-z-soft-saving-1851012142)
 - [Lifehacker] [Add These Three Worldly Relishes to Your Thanksgiving Dinner Table](https://lifehacker.com/best-thanksgiving-relish-recipes-1851012262)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [test123](https://dev.to/mix682/test123-1ndm)
 - [Dev.to/JS] [Chatbot Dreams &amp; Markdown Streams: Creating React JS ChatGPT Bots in Minutes](https://dev.to/salmenus/chatbot-dreams-markdown-streams-creating-react-js-chatgpt-bots-in-minutes-1nig)
 - [Dev.to/JS] [Understanding Arrow Functions in JavaScript](https://dev.to/gurrudev/understanding-arrow-functions-in-javascript-1n36)
-- [Dev.to/JS] [Security in modern Web Applications -&gt; Owasp to the rescue!](https://dev.to/jacobandrewsky/security-in-modern-web-applications-owasp-to-the-rescue-52k9)
-- [Dev.to/JS] [Let&#39;s create an NPX command](https://dev.to/giuliano1993/lets-create-an-npx-command-3l2o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
