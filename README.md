@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
+- [Lifehacker] [When to Buy the Steam Deck OLED, and When to Buy the Switch OLED](https://lifehacker.com/tech/steam-deck-oled-vs-switch-oled)
 - [Dev.to/JS] [Understanding Closures in JavaScript with Simple Practical Examples](https://dev.to/opensign/understanding-closures-in-javascript-with-simple-practical-examples-25co)
 - [Dev.to/JS] [Integrating Preact Signals with Lit via Custom Directive](https://dev.to/andyjessop/integrating-preact-signals-with-lit-via-custom-directive-1fl6)
 - [Lifehacker] [This Is the Best Nintendo Switch OLED Black Friday Deal so Far](https://lifehacker.com/entertainment/best-nintendo-switch-oled-black-friday-deal)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Microsoft Surface Laptop 4 Is at Its Lowest Price Right Now](https://lifehacker.com/the-microsoft-surface-laptop-4-is-at-its-lowest-price-r-1851012902)
 - [Lifehacker] [Use &#39;Elaborative Interrogation&#39; to Challenge Yourself While Studying](https://lifehacker.com/use-elaborative-interrogation-to-challenge-yourself-whi-1851011669)
 - [Lifehacker] [How to Blind Bake a Pie Crust &lpar;Because You Probably Should&rpar;](https://lifehacker.com/how-to-blind-bake-a-pie-crust-because-you-probably-sho-1851012606)
-- [Lifehacker] [You Can Get a Digi Pen for $40 Right Now](https://lifehacker.com/you-can-get-a-digi-pen-for-40-right-now-1851000905)
-- [Lifehacker] [Everything Valve Upgraded on the New Steam Deck OLED](https://lifehacker.com/everything-valve-updated-for-the-steam-deck-oled-1851012321)
-- [Lifehacker] [The Price of Olive Oil Is Too Damn High](https://lifehacker.com/the-best-substitutes-for-olive-oil-1851011974)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Digi Pen for $40 Right Now](https://lifehacker.com/you-can-get-a-digi-pen-for-40-right-now-1851000905)<!-- TECH-POSTS:END -->
 
 ---
 
