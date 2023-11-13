@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ljdhar, un package NPM pour récupérer les articles du Journal du Hacker](https://dev.to/benoitpetit/ljdhar-un-package-npm-pour-recuperer-les-derniers-articles-du-journal-du-hacker-pck)
+- [Dev.to/JS] [Understanding Memory Location in JavaScript](https://dev.to/wdp/understanding-memory-location-in-javascript-4adm)
 - [Dev.to/JS] [Hello World, this is Cipherchat! 🐈‍⬛](https://dev.to/secondl1ght/hello-world-this-is-cipherchat-2817)
 - [Dev.to/JS] [Wanna Start HTML CSS to Embark on Your Web Development Journey?](https://dev.to/takitajwar17/wanna-start-html-css-to-embark-on-your-web-development-journey-dev-retro-2022-3d6o)
 - [Dev.to/JS] [🚀 Mastering Website Previews: A Step by Step Guide to Playwright and Chromium! ✨](https://dev.to/joshuaamaju/mastering-website-previews-a-step-by-step-guide-to-playwright-and-chromium-2a8p)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Xem tử vi trọn đời theo giờ sinh, ngày tháng năm sinh](https://dev.to/tuvivn123/xem-tu-vi-tron-doi-theo-gio-sinh-ngay-thang-nam-sinh-5lg)
 - [Dev.to/JS] [Why and How to Check the Server-side Rendered Content on your Website](https://dev.to/ajones_codes/why-and-how-to-check-the-server-side-rendered-content-on-your-website-89a)
 - [Dev.to/JS] [Cash App $750 Free](https://dev.to/aslamkhan/cash-app-750-free-3fda)
-- [Dev.to/JS] [YTMP3](https://dev.to/yttomp3/ytmp3-36g0)
-- [Dev.to/JS] [AdFlex](https://dev.to/wsovn123/adflex-1m0o)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
