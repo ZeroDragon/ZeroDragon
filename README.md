@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Add These Three Worldly Relishes to Your Thanksgiving Dinner Table](https://lifehacker.com/best-thanksgiving-relish-recipes-1851012262)
+- [Dev.to/JS] [Deploy your first Node 20 Lambda function on AWS!](https://dev.to/slsbytheodo/deploy-your-first-node-20-lambda-function-on-aws-2ac1)
+- [Dev.to/JS] [Object Oriented Programming In Javascript: A comprehensive guide](https://dev.to/snevy1/object-oriented-programming-in-javascript-a-comprehensive-guide-402h)
+- [Dev.to/JS] [Zero javascript progressive loading with Astro](https://dev.to/codehater/zero-javascript-progressive-loading-4bep)
 - [Dev.to/JS] [9 React component libraries for efficient development in 2023](https://dev.to/ably/9-react-component-libraries-for-efficient-development-in-2023-4e0o)
 - [Dev.to/JS] [Day 4: React Native Onboarding UI using Lottie Animations](https://dev.to/codewithtee/day-4-react-native-onboarding-ui-using-lottie-animations-2366)
 - [Dev.to/JS] [TF #23 | Frontend digest](https://dev.to/tech_foutraque/tf-23-frontend-digest-1ikk)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Security in modern Web Applications -&gt; Owasp to the rescue!](https://dev.to/jacobandrewsky/security-in-modern-web-applications-owasp-to-the-rescue-52k9)
 - [Dev.to/JS] [Let&#39;s create an NPX command](https://dev.to/giuliano1993/lets-create-an-npx-command-3l2o)
 - [Dev.to/JS] [Revolutionize Your React App with useReducer: Mastering State Management](https://dev.to/brdnicolas/revolutionize-your-react-app-with-usereducer-mastering-state-management-naa)
-- [Dev.to/JS] [How to Build a Custom React Hook to Listen for Keyboard Events](https://dev.to/barrymichaeldoyle/how-to-build-a-custom-react-hook-to-listen-for-keyboard-events-32b4)
-- [Dev.to/JS] [Explaining ‘this’ keyword in javascript to a beginner](https://dev.to/opensign/explaining-this-keyword-in-javascript-to-a-beginner-59e0)
-- [Dev.to/JS] [How To Build a Todo List App Using HTML, CSS, and JavaScript](https://dev.to/sharathchandark/how-to-build-a-todo-list-app-using-html-css-and-javascript-4mg6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use a Ziploc Bag to Separate the Fat From Your Turkey Drippings](https://lifehacker.com/use-a-ziploc-bag-to-separate-the-fat-from-your-turkey-d-1851010515)
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S.](https://lifehacker.com/where-is-weed-legal-1845595270)
 - [Lifehacker] [40 Hygge Movies to Get You Through the Long Dark Winter](https://lifehacker.com/cozy-movies-with-hygge-vibes-1851003088)
-- [Lifehacker] [I Drank Ketchup Packets on My Run, for Science](https://lifehacker.com/i-drank-ketchup-packets-on-my-run-for-science-1851011104)
-- [Lifehacker] [Everything You Can Do With Your Apple Watch Without an iPhone](https://lifehacker.com/all-the-ways-you-can-use-the-apple-watch-without-an-iph-1851010672)<!-- TECH-POSTS:END -->
+- [Lifehacker] [I Drank Ketchup Packets on My Run, for Science](https://lifehacker.com/i-drank-ketchup-packets-on-my-run-for-science-1851011104)<!-- TECH-POSTS:END -->
 
 ---
 
