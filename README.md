@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AdScouter](https://dev.to/wsovn123/adscouter-2gg3)
+- [Dev.to/JS] [Unleashing Tiny-Link: A Swift Node.js Module for URL Shortening with Redis](https://dev.to/sr-26/unleashing-tiny-link-a-swift-nodejs-module-for-url-shortening-with-redis-4cg7)
+- [Dev.to/JS] [The JavaScript Riddle: Cracking the Code of typeof null](https://dev.to/asifzcpe/the-javascript-riddle-cracking-the-code-of-typeof-null-512i)
+- [Dev.to/JS] [AdSpyder](https://dev.to/wsovn123/adspyder-4m35)
 - [Dev.to/JS] [The TIMELESS NOVEL BLOWOUT](https://dev.to/rankmarket123/the-timeless-novel-blowout-35g4)
 - [Dev.to/JS] [The Rise and Fall of Developer Work in 2023](https://dev.to/c0mmand3rj/the-rise-and-fall-of-developer-work-in-2023-o8a)
 - [Dev.to/JS] [Recipe Blowout](https://dev.to/rankmarket123/recipe-blowout-1kpd)
+- [Lifehacker] [How to Screen Record on Your iPhone](https://lifehacker.com/tech/how-to-screen-record-on-iphone)
 - [Lifehacker] [Tinfoil in the Dishwasher Doesn&#39;t Actually Shine Your Flatware](https://lifehacker.com/home/tinfoil-in-dishwasher-doesnt-shine-flatware)
 - [Dev.to/JS] [FULL MUVI LINK : onlineearnda.blogspot.com](https://dev.to/roning439927/full-muvi-link-onlineearndablogspotcom-9df)
 - [Dev.to/JS] [Building Vue.js Custom Notifications from Scratch](https://dev.to/kucherol/building-vuejs-custom-notifications-from-scratch-5gjn)
 - [Dev.to/JS] [Download Free Programing Course As We Offer In Paid](https://dev.to/techpk/download-free-programing-course-as-we-offer-in-paid-2iik)
 - [Dev.to/JS] [How to download snake game](https://dev.to/fizakhan123/how-to-download-snake-game-355b)
 - [Dev.to/JS] [tử vi trọn đời](https://dev.to/tuvivn123/tu-vi-tron-doi-1n7h)
-- [Dev.to/JS] [Dynamic imports with Alpine.js](https://dev.to/aggregata/dynamic-imports-with-alpinejs-3lp6)
-- [Dev.to/JS] [Get $750 on your Cash App Instantly](https://dev.to/makemoney/get-750-on-your-cash-app-instantly-54ng)
-- [Dev.to/JS] [Business Card Generator!](https://dev.to/ubaton/business-card-generator-48g0)
-- [Dev.to/JS] [Introduction to Docker Networking](https://dev.to/refine/introduction-to-docker-networking-35nl)
 - [Lifehacker] [Why All the Gen Z Kids Love ‘Soft Saving’ &lpar;and How to Do It&rpar;](https://lifehacker.com/what-is-gen-z-soft-saving-1851012142)
 - [Lifehacker] [Add These Three Worldly Relishes to Your Thanksgiving Dinner Table](https://lifehacker.com/best-thanksgiving-relish-recipes-1851012262)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The JBL Bar 2.0 &#39;All-in-One&#39; Soundbar Is Now Over $100 Off](https://lifehacker.com/the-jbl-bar-2-0-all-in-one-soundbar-is-now-over-100-of-1851011606)
 - [Lifehacker] [Five Types of Checks You Should Never Cash](https://lifehacker.com/types-of-checks-you-should-never-cash-1851011208)
 - [Lifehacker] [Use a Ziploc Bag to Separate the Fat From Your Turkey Drippings](https://lifehacker.com/use-a-ziploc-bag-to-separate-the-fat-from-your-turkey-d-1851010515)
-- [Lifehacker] [40 Hygge Movies to Get You Through the Long Dark Winter](https://lifehacker.com/cozy-movies-with-hygge-vibes-1851003088)
-- [Lifehacker] [I Drank Ketchup Packets on My Run, for Science](https://lifehacker.com/i-drank-ketchup-packets-on-my-run-for-science-1851011104)<!-- TECH-POSTS:END -->
+- [Lifehacker] [40 Hygge Movies to Get You Through the Long Dark Winter](https://lifehacker.com/cozy-movies-with-hygge-vibes-1851003088)<!-- TECH-POSTS:END -->
 
 ---
 
