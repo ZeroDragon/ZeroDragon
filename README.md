@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [9 React component libraries for efficient development in 2023](https://dev.to/ably/9-react-component-libraries-for-efficient-development-in-2023-4e0o)
+- [Dev.to/JS] [Day 4: React Native Onboarding UI using Lottie Animations](https://dev.to/codewithtee/day-4-react-native-onboarding-ui-using-lottie-animations-2366)
 - [Dev.to/JS] [TF #23 | Frontend digest](https://dev.to/tech_foutraque/tf-23-frontend-digest-1ikk)
 - [Dev.to/JS] [test123](https://dev.to/mix682/test123-1ndm)
 - [Dev.to/JS] [Chatbot Dreams &amp; Markdown Streams: Creating React JS ChatGPT Bots in Minutes](https://dev.to/salmenus/chatbot-dreams-markdown-streams-creating-react-js-chatgpt-bots-in-minutes-1nig)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Custom React Hook to Listen for Keyboard Events](https://dev.to/barrymichaeldoyle/how-to-build-a-custom-react-hook-to-listen-for-keyboard-events-32b4)
 - [Dev.to/JS] [Explaining ‘this’ keyword in javascript to a beginner](https://dev.to/opensign/explaining-this-keyword-in-javascript-to-a-beginner-59e0)
 - [Dev.to/JS] [How To Build a Todo List App Using HTML, CSS, and JavaScript](https://dev.to/sharathchandark/how-to-build-a-todo-list-app-using-html-css-and-javascript-4mg6)
-- [Dev.to/JS] [TOKO777 ⚡Best Online Website For Promote Business ⚡](https://dev.to/toko777official/toko777-best-online-website-for-promote-business-5ckk)
-- [Dev.to/JS] [Asynchronous Programming in JavaScript: Unleashing the Power of Non-Blocking Code Execution](https://dev.to/gurrudev/asynchronous-programming-in-javascript-unleashing-the-power-of-non-blocking-code-execution-4d1g)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
