@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
+- [Dev.to/JS] [Por qué necesitás React Query](https://dev.to/ccaracach/por-que-necesitas-react-query-3a1n)
+- [Dev.to/JS] [ObjectObject](https://dev.to/jackh404/objectobject-2638)
 - [Dev.to/JS] [ljdhar, un package NPM pour récupérer les articles du Journal du Hacker](https://dev.to/benoitpetit/ljdhar-un-package-npm-pour-recuperer-les-derniers-articles-du-journal-du-hacker-pck)
 - [Dev.to/JS] [Understanding Memory Location in JavaScript](https://dev.to/wdp/understanding-memory-location-in-javascript-4adm)
 - [Dev.to/JS] [Hello World, this is Cipherchat! 🐈‍⬛](https://dev.to/secondl1ght/hello-world-this-is-cipherchat-2817)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying &#39;this&#39; keyword in JavaScript for Beginners](https://dev.to/opensign/demystifying-this-keyword-in-javascript-for-beginners-4723)
 - [Dev.to/JS] [Exploring Angular 17: A Glimpse into the Future of Web Development - Part 3](https://dev.to/ahmoustafa35/exploring-angular-17-a-glimpse-into-the-future-of-web-development-part-3-2n4c)
 - [Dev.to/JS] [Xem tử vi trọn đời theo giờ sinh, ngày tháng năm sinh](https://dev.to/tuvivn123/xem-tu-vi-tron-doi-theo-gio-sinh-ngay-thang-nam-sinh-5lg)
-- [Dev.to/JS] [Why and How to Check the Server-side Rendered Content on your Website](https://dev.to/ajones_codes/why-and-how-to-check-the-server-side-rendered-content-on-your-website-89a)
-- [Dev.to/JS] [Cash App $750 Free](https://dev.to/aslamkhan/cash-app-750-free-3fda)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S.](https://lifehacker.com/where-is-weed-legal-1845595270)
 - [Lifehacker] [40 Hygge Movies to Get You Through the Long Dark Winter](https://lifehacker.com/cozy-movies-with-hygge-vibes-1851003088)
 - [Lifehacker] [I Drank Ketchup Packets on My Run, for Science](https://lifehacker.com/i-drank-ketchup-packets-on-my-run-for-science-1851011104)
-- [Lifehacker] [Everything You Can Do With Your Apple Watch Without an iPhone](https://lifehacker.com/all-the-ways-you-can-use-the-apple-watch-without-an-iph-1851010672)
-- [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Can Do With Your Apple Watch Without an iPhone](https://lifehacker.com/all-the-ways-you-can-use-the-apple-watch-without-an-iph-1851010672)<!-- TECH-POSTS:END -->
 
 ---
 
