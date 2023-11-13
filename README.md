@@ -26,9 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Closures in JavaScript with Simple Practical Examples](https://dev.to/opensign/understanding-closures-in-javascript-with-simple-practical-examples-25co)
+- [Dev.to/JS] [Integrating Preact Signals with Lit via Custom Directive](https://dev.to/andyjessop/integrating-preact-signals-with-lit-via-custom-directive-1fl6)
+- [Lifehacker] [This Is the Best Nintendo Switch OLED Black Friday Deal so Far](https://lifehacker.com/entertainment/best-nintendo-switch-oled-black-friday-deal)
+- [Dev.to/JS] [Day 86: Payments API](https://dev.to/dhrn/day-86-payments-api-3hel)
+- [Dev.to/JS] [Quanto vale as suas milhas?](https://dev.to/rtmonteiro/quanto-vale-as-suas-milhas-ehp)
+- [Lifehacker] [There&#39;s a Faster Way to Type Anything on an iPhone](https://lifehacker.com/tech/fastest-way-to-type-on-iphone)
 - [Dev.to/JS] [How to implement use-dark-mode in React or Next Js: A step-by-step guide](https://dev.to/sufian/how-to-implement-use-dark-mode-in-react-or-next-js-a-step-by-step-guide-2ia0)
 - [Lifehacker] [These Are The U.S. Cities With the Highest and Lowest Cost of Living](https://lifehacker.com/money/us-cities-with-highest-and-lowest-cost-of-living)
-- [Dev.to/JS] [Hermes WC: A Feedback Widget Built on Web Components](https://dev.to/andrico1234/hermes-wc-a-feedback-widget-built-on-web-components-198d)
+- [Dev.to/JS] [Gather User Feedback On Any Website with Hermes WC](https://dev.to/andrico1234/hermes-wc-a-feedback-widget-built-on-web-components-198d)
 - [Dev.to/JS] [🧩 Boilerplates in VSCode](https://dev.to/mattkenefick/boilerplates-in-vscode-5220)
 - [Lifehacker] [These Dietary Supplements Might Actually Help With Migraines](https://lifehacker.com/health/best-dietary-supplements-for-migraines)
 - [Lifehacker] [The Easiest Ways to Hide Away Mirrored Closet Doors](https://lifehacker.com/home/easiest-ways-hide-mirrored-closet-doors)
@@ -39,12 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The JavaScript Riddle: Cracking the Code of typeof null](https://dev.to/asifzcpe/the-javascript-riddle-cracking-the-code-of-typeof-null-512i)
 - [Dev.to/JS] [AdSpyder](https://dev.to/wsovn123/adspyder-4m35)
 - [Lifehacker] [The Future Is Here With the Roomba Combo J9+ Robot Vacuum and Mop](https://lifehacker.com/tech/roomba-combo-j9-robot-vacuum-mop-review)
-- [Dev.to/JS] [The TIMELESS NOVEL BLOWOUT](https://dev.to/rankmarket123/the-timeless-novel-blowout-35g4)
-- [Dev.to/JS] [The Rise and Fall of Developer Work in 2023](https://dev.to/c0mmand3rj/the-rise-and-fall-of-developer-work-in-2023-o8a)
-- [Dev.to/JS] [Recipe Blowout](https://dev.to/rankmarket123/recipe-blowout-1kpd)
 - [Lifehacker] [How to Screen Record on Your iPhone](https://lifehacker.com/tech/how-to-screen-record-on-iphone)
 - [Lifehacker] [Tinfoil in the Dishwasher Doesn&#39;t Actually Shine Your Flatware](https://lifehacker.com/home/tinfoil-in-dishwasher-doesnt-shine-flatware)
-- [Dev.to/JS] [FULL MUVI LINK : onlineearnda.blogspot.com](https://dev.to/roning439927/full-muvi-link-onlineearndablogspotcom-9df)
 - [Lifehacker] [Why All the Gen Z Kids Love ‘Soft Saving’ &lpar;and How to Do It&rpar;](https://lifehacker.com/what-is-gen-z-soft-saving-1851012142)
 - [Lifehacker] [Add These Three Worldly Relishes to Your Thanksgiving Dinner Table](https://lifehacker.com/best-thanksgiving-relish-recipes-1851012262)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Blind Bake a Pie Crust &lpar;Because You Probably Should&rpar;](https://lifehacker.com/how-to-blind-bake-a-pie-crust-because-you-probably-sho-1851012606)
 - [Lifehacker] [You Can Get a Digi Pen for $40 Right Now](https://lifehacker.com/you-can-get-a-digi-pen-for-40-right-now-1851000905)
 - [Lifehacker] [Everything Valve Upgraded on the New Steam Deck OLED](https://lifehacker.com/everything-valve-updated-for-the-steam-deck-oled-1851012321)
-- [Lifehacker] [The Price of Olive Oil Is Too Damn High](https://lifehacker.com/the-best-substitutes-for-olive-oil-1851011974)
-- [Lifehacker] [Check to See If Your Tax Bracket Is Changing for 2024](https://lifehacker.com/check-to-see-if-your-tax-bracket-is-changing-for-2024-1851011635)
-- [Lifehacker] [You Can Already Record Apple Vision Pro Videos on Your iPhone](https://lifehacker.com/you-can-already-record-apple-vision-pro-videos-on-your-1851011585)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Price of Olive Oil Is Too Damn High](https://lifehacker.com/the-best-substitutes-for-olive-oil-1851011974)<!-- TECH-POSTS:END -->
 
 ---
 
