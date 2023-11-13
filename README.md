@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asynchronous Programming in JavaScript: Unleashing the Power of Non-Blocking Code Execution](https://dev.to/gurrudev/asynchronous-programming-in-javascript-unleashing-the-power-of-non-blocking-code-execution-4d1g)
 - [Dev.to/JS] [Typescript Generics - What are they doing](https://dev.to/udayanmaurya/typescript-generics-what-are-they-doing-1j6i)
 - [Dev.to/JS] [Cham soc suc khoe cua ban](https://dev.to/dkhongcuong14/cham-soc-suc-khoe-cua-ban-5eo6)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Mastering Website Previews: A Step by Step Guide to Playwright and Chromium! ✨](https://dev.to/joshuaamaju/mastering-website-previews-a-step-by-step-guide-to-playwright-and-chromium-2a8p)
 - [Dev.to/JS] [Mastering ES2019: A Deep Dive into Five Key JavaScript Features](https://dev.to/gervaisamoah/mastering-es2019-a-deep-dive-into-five-key-javascript-features-f4p)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Priority Queue](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-priority-queue-1ogg)
-- [Dev.to/JS] [Demystifying &#39;this&#39; keyword in JavaScript for Beginners](https://dev.to/opensign/demystifying-this-keyword-in-javascript-for-beginners-4723)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
