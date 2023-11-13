@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Docker Networking](https://dev.to/refine/introduction-to-docker-networking-35nl)
+- [Lifehacker] [Why All the Gen Z Kids Love ‘Soft Saving’ &lpar;and How to Do It&rpar;](https://lifehacker.com/what-is-gen-z-soft-saving-1851012142)
 - [Lifehacker] [Add These Three Worldly Relishes to Your Thanksgiving Dinner Table](https://lifehacker.com/best-thanksgiving-relish-recipes-1851012262)
 - [Dev.to/JS] [Deploy your first Node 20 Lambda function on AWS!](https://dev.to/slsbytheodo/deploy-your-first-node-20-lambda-function-on-aws-2ac1)
 - [Dev.to/JS] [Object Oriented Programming In Javascript: A comprehensive guide](https://dev.to/snevy1/object-oriented-programming-in-javascript-a-comprehensive-guide-402h)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Arrow Functions in JavaScript](https://dev.to/gurrudev/understanding-arrow-functions-in-javascript-1n36)
 - [Dev.to/JS] [Security in modern Web Applications -&gt; Owasp to the rescue!](https://dev.to/jacobandrewsky/security-in-modern-web-applications-owasp-to-the-rescue-52k9)
 - [Dev.to/JS] [Let&#39;s create an NPX command](https://dev.to/giuliano1993/lets-create-an-npx-command-3l2o)
-- [Dev.to/JS] [Revolutionize Your React App with useReducer: Mastering State Management](https://dev.to/brdnicolas/revolutionize-your-react-app-with-usereducer-mastering-state-management-naa)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Types of Checks You Should Never Cash](https://lifehacker.com/types-of-checks-you-should-never-cash-1851011208)
 - [Lifehacker] [Use a Ziploc Bag to Separate the Fat From Your Turkey Drippings](https://lifehacker.com/use-a-ziploc-bag-to-separate-the-fat-from-your-turkey-d-1851010515)
 - [Lifehacker] [Where to Find &lpar;Legal&rpar; Weed in the U.S.](https://lifehacker.com/where-is-weed-legal-1845595270)
-- [Lifehacker] [40 Hygge Movies to Get You Through the Long Dark Winter](https://lifehacker.com/cozy-movies-with-hygge-vibes-1851003088)
-- [Lifehacker] [I Drank Ketchup Packets on My Run, for Science](https://lifehacker.com/i-drank-ketchup-packets-on-my-run-for-science-1851011104)<!-- TECH-POSTS:END -->
+- [Lifehacker] [40 Hygge Movies to Get You Through the Long Dark Winter](https://lifehacker.com/cozy-movies-with-hygge-vibes-1851003088)<!-- TECH-POSTS:END -->
 
 ---
 
