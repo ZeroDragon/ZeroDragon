@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to implement use-dark-mode in React or Next Js: A step-by-step guide](https://dev.to/sufian/how-to-implement-use-dark-mode-in-react-or-next-js-a-step-by-step-guide-2ia0)
+- [Lifehacker] [These Are The U.S. Cities With the Highest and Lowest Cost of Living](https://lifehacker.com/money/us-cities-with-highest-and-lowest-cost-of-living)
+- [Dev.to/JS] [Hermes WC: A Feedback Widget Built on Web Components](https://dev.to/andrico1234/hermes-wc-a-feedback-widget-built-on-web-components-198d)
+- [Dev.to/JS] [🧩 Boilerplates in VSCode](https://dev.to/mattkenefick/boilerplates-in-vscode-5220)
+- [Lifehacker] [These Dietary Supplements Might Actually Help With Migraines](https://lifehacker.com/health/best-dietary-supplements-for-migraines)
 - [Lifehacker] [The Easiest Ways to Hide Away Mirrored Closet Doors](https://lifehacker.com/home/easiest-ways-hide-mirrored-closet-doors)
 - [Dev.to/JS] [Journey Through React: Beginner to Advanced Project Guide](https://dev.to/bkmahapatra/journey-through-react-beginner-to-advanced-project-guide-2amm)
 - [Lifehacker] [The 10 Best Audiobook Services](https://lifehacker.com/the-best-audiobook-services-1851014703)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Screen Record on Your iPhone](https://lifehacker.com/tech/how-to-screen-record-on-iphone)
 - [Lifehacker] [Tinfoil in the Dishwasher Doesn&#39;t Actually Shine Your Flatware](https://lifehacker.com/home/tinfoil-in-dishwasher-doesnt-shine-flatware)
 - [Dev.to/JS] [FULL MUVI LINK : onlineearnda.blogspot.com](https://dev.to/roning439927/full-muvi-link-onlineearndablogspotcom-9df)
-- [Dev.to/JS] [Building Vue.js Custom Notifications from Scratch](https://dev.to/kucherol/building-vuejs-custom-notifications-from-scratch-5gjn)
-- [Dev.to/JS] [Download Free Programing Course As We Offer In Paid](https://dev.to/techpk/download-free-programing-course-as-we-offer-in-paid-2iik)
-- [Dev.to/JS] [How to download snake game](https://dev.to/fizakhan123/how-to-download-snake-game-355b)
 - [Lifehacker] [Why All the Gen Z Kids Love ‘Soft Saving’ &lpar;and How to Do It&rpar;](https://lifehacker.com/what-is-gen-z-soft-saving-1851012142)
 - [Lifehacker] [Add These Three Worldly Relishes to Your Thanksgiving Dinner Table](https://lifehacker.com/best-thanksgiving-relish-recipes-1851012262)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything Valve Upgraded on the New Steam Deck OLED](https://lifehacker.com/everything-valve-updated-for-the-steam-deck-oled-1851012321)
 - [Lifehacker] [The Price of Olive Oil Is Too Damn High](https://lifehacker.com/the-best-substitutes-for-olive-oil-1851011974)
 - [Lifehacker] [Check to See If Your Tax Bracket Is Changing for 2024](https://lifehacker.com/check-to-see-if-your-tax-bracket-is-changing-for-2024-1851011635)
-- [Lifehacker] [You Can Already Record Apple Vision Pro Videos on Your iPhone](https://lifehacker.com/you-can-already-record-apple-vision-pro-videos-on-your-1851011585)
-- [Lifehacker] [The Easiest Way to Hide iPhone Notifications While Screen Recording](https://lifehacker.com/the-easiest-way-to-hide-iphone-notifications-while-scre-1851011325)
-- [Lifehacker] [The JBL Bar 2.0 &#39;All-in-One&#39; Soundbar Is Now Over $100 Off](https://lifehacker.com/the-jbl-bar-2-0-all-in-one-soundbar-is-now-over-100-of-1851011606)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Already Record Apple Vision Pro Videos on Your iPhone](https://lifehacker.com/you-can-already-record-apple-vision-pro-videos-on-your-1851011585)<!-- TECH-POSTS:END -->
 
 ---
 
