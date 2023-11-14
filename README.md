@@ -26,23 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Educational Streaming Services for Kids and Adults Alike](https://lifehacker.com/best-educational-streaming-services)
+- [Dev.to/JS] [How to create a blog with Next.js and React Bricks](https://dev.to/dsalinasgardon/how-to-create-a-blog-with-nextjs-and-react-bricks-2p6h)
+- [Dev.to/JS] [10 tips of python](https://dev.to/i_punjabi769/10-tips-of-python-49ff)
+- [Dev.to/JS] [Rate Limiting: A Dynamic Distributed Rate Limiting with Redis](https://dev.to/melbably/rate-limiting-a-dynamic-distributed-rate-limiting-with-redis-4nlp)
+- [Dev.to/JS] [10 tutorial of python](https://dev.to/i_punjabi769/10-tutorial-of-python-1fc0)
+- [Dev.to/JS] [Download Free Programing Coures As We Offer in paid](https://dev.to/techpk45/download-free-programing-coures-as-we-offer-in-paid-2ndc)
+- [Dev.to/JS] [learn python language](https://dev.to/i_punjabi769/learn-python-language-55l0)
+- [Lifehacker] [Give Your Sweet Potato Casserole the Loaded Baked Potato Treatment](https://lifehacker.com/food-drink/loaded-sweet-potato-casserole-recipe)
 - [Dev.to/JS] [JAVASCRIPT SETS](https://dev.to/maame_afia/javascript-sets-28dm)
 - [Dev.to/JS] [Effective Web Development: 10 Useful Startup Deals for Devs](https://dev.to/plazarev/effective-web-development-10-useful-startup-deals-for-devs-3n55)
 - [Lifehacker] [Ten of the Best Offbeat Advent and Holiday Gift Calendars](https://lifehacker.com/money/unique-advent-holiday-calendars)
 - [Dev.to/JS] [Hot reload setup for Obsidian plugin development](https://dev.to/sanjarcode/hot-reload-setup-for-obsidian-plugin-development-29i1)
-- [Dev.to/JS] [Downlaod Free Programing Course As We Offer In Paid](https://dev.to/rkwpictures_/downlaod-free-programing-course-as-we-offer-in-paid-k2d)
 - [Dev.to/JS] [Leveraging ES2023 Array Methods in TypeScript for React](https://dev.to/saulodias/leveraging-es2023-array-methods-in-typescript-for-react-2486)
 - [Lifehacker] [The Biggest Differences Between the Steam Deck OLED and Steam Deck LCD](https://lifehacker.com/tech/steam-deck-oled-vs-steam-deck-lcd)
 - [Dev.to/JS] [Gife crad Offar](https://dev.to/jusica232/gife-crad-offar-44do)
 - [Lifehacker] [How to Protect Your Parents From Elder Fraud and Scams](https://lifehacker.com/family/protect-parents-and-grandparents-from-elder-fraud)
 - [Lifehacker] [The Best Alternatives to a Gas-Powered Leaf Blower](https://lifehacker.com/home/best-alternatives-to-gas-powered-leaf-blowers)
 - [Dev.to/JS] [Playable Piano Using HTML, CSS And JavaScript](https://dev.to/codingcss/playable-piano-using-html-css-and-javascript-5g6c)
-- [Dev.to/JS] [Top Popular Apps Built With React Native](https://dev.to/imparth/top-popular-apps-built-with-react-native-1obc)
-- [Dev.to/JS] [Unveiling the Trie: A Masterstroke for Efficient String Searches](https://dev.to/baliachbryan/unveiling-the-trie-a-masterstroke-for-efficient-string-searches-994)
 - [Lifehacker] [Use the &#39;2357&#39; Method to Remember What You Study](https://lifehacker.com/family/how-to-use-2357-study-method)
-- [Dev.to/JS] [Optimizing Cypress for Faster Execution: Insights from Neocom](https://dev.to/theabdolah/how-to-make-cypress-run-faster-4nbd)
-- [Dev.to/JS] [🔥 Take NextJS to the next level: Create a GitHub stars monitor 🤯](https://dev.to/triggerdotdev/take-nextjs-to-the-next-level-create-a-github-stars-monitor-130a)
-- [Dev.to/JS] [Paracetamol.js💊| #221: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-221-explica-este-codigo-javascript-20lo)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
 - [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
-- [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)
-- [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
-- [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)<!-- TECH-POSTS:END -->
 
 ---
 
