@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing Inner Power: A Blog for Empowered Software Engineers](https://dev.to/jackynote/unleashing-inner-power-a-blog-for-empowered-software-engineers-3ip2)
 - [Dev.to/JS] [Javascript Mock Interview](https://dev.to/zhivkosi/javascript-mock-interview-47m8)
 - [Dev.to/JS] [Qwik &amp; Arduino with Johnny Five](https://dev.to/fabiobiondi/qwik-arduino-with-johnny-five-5h3l)
 - [Dev.to/JS] [Make a web app installable in a breeze](https://dev.to/anwar_nairi/make-a-web-app-installable-in-a-breeze-8ei)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to implement use-dark-mode in React or Next Js: A step-by-step guide](https://dev.to/sufian/how-to-implement-use-dark-mode-in-react-or-next-js-a-step-by-step-guide-2ia0)
 - [Lifehacker] [These Are The U.S. Cities With the Highest and Lowest Cost of Living](https://lifehacker.com/money/us-cities-with-highest-and-lowest-cost-of-living)
 - [Dev.to/JS] [Gather User Feedback On Any Website with Hermes WC](https://dev.to/andrico1234/hermes-wc-a-feedback-widget-built-on-web-components-198d)
-- [Dev.to/JS] [🧩 Boilerplates in VSCode](https://dev.to/mattkenefick/boilerplates-in-vscode-5220)
 - [Lifehacker] [These Dietary Supplements Might Actually Help With Migraines](https://lifehacker.com/health/best-dietary-supplements-for-migraines)
 - [Lifehacker] [The Easiest Ways to Hide Away Mirrored Closet Doors](https://lifehacker.com/home/easiest-ways-hide-mirrored-closet-doors)
 - [Lifehacker] [The 10 Best Audiobook Services](https://lifehacker.com/the-best-audiobook-services-1851014703)
