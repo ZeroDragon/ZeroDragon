@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Consolidate Your Debt](https://lifehacker.com/money/the-pros-and-cons-of-debt-consolidation)
+- [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
 - [Dev.to/JS] [07 Useful JavaScript One-Liner Code ✨](https://dev.to/todayscode14/07-useful-javascript-one-liner-code-jij)
+- [Lifehacker] [You Can Now Save TikTok Songs to Spotify and Apple Music](https://lifehacker.com/tech/how-to-save-songs-from-tiktok-spotify-apple-music)
+- [Lifehacker] [Best Buy Has the Microsoft Surface Pro 9 at Its Lowest Price Ever](https://lifehacker.com/tech/best-buy-surface-pro-9-black-friday-deal)
 - [Dev.to/JS] [How to update your SuperViz integration with Matterport to v5](https://dev.to/superviz/how-to-update-your-superviz-integration-with-matterport-to-v5-5b2h)
 - [Dev.to/JS] [Get a Free Glimpse into the World of AI](https://dev.to/soma9khan/get-a-free-glimpse-into-the-world-of-ai-ogg)
 - [Lifehacker] [Outlet Grocery Stores Can Save You a Ton of Money](https://lifehacker.com/money/why-shop-outlet-grocery-stores)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 10 Best Audiobook Services](https://lifehacker.com/the-best-audiobook-services-1851014703)
 - [Lifehacker] [The Future Is Here With the Roomba Combo J9+ Robot Vacuum and Mop](https://lifehacker.com/tech/roomba-combo-j9-robot-vacuum-mop-review)
 - [Lifehacker] [How to Screen Record on Your iPhone](https://lifehacker.com/tech/how-to-screen-record-on-iphone)
-- [Lifehacker] [Tinfoil in the Dishwasher Doesn&#39;t Actually Shine Your Flatware](https://lifehacker.com/home/tinfoil-in-dishwasher-doesnt-shine-flatware)
-- [Lifehacker] [Why All the Gen Z Kids Love ‘Soft Saving’ &lpar;and How to Do It&rpar;](https://lifehacker.com/what-is-gen-z-soft-saving-1851012142)
-- [Lifehacker] [Add These Three Worldly Relishes to Your Thanksgiving Dinner Table](https://lifehacker.com/best-thanksgiving-relish-recipes-1851012262)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
-- [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Tinfoil in the Dishwasher Doesn&#39;t Actually Shine Your Flatware](https://lifehacker.com/home/tinfoil-in-dishwasher-doesnt-shine-flatware)<!-- TECH-POSTS:END -->
 
 ---
 
