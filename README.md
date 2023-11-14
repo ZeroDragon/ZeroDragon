@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Migration with ECS in JavaScript &lpar;from C++&rpar;](https://dev.to/slobodan4nista/code-migration-with-ecs-in-javascript-from-c-5e4d)
+- [Lifehacker] [Here&#39;s How to Fix a Pixel Phone Stuck in a Bootloop](https://lifehacker.com/tech/pixel-phone-bootloop-fix)
+- [Dev.to/JS] [Is it possible to duplicate some websites code?](https://dev.to/martinoklapez/is-it-possible-to-duplicate-some-websites-code-2k3c)
+- [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
+- [Dev.to/JS] [Testing with TxtToHTML Project](https://dev.to/bhmistry/testing-with-txttohtml-project-lam)
+- [Lifehacker] [Welcome to the New Lifehacker](https://lifehacker.com/work/welcome-to-the-new-lifehacker)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Consolidate Your Debt](https://lifehacker.com/money/the-pros-and-cons-of-debt-consolidation)
 - [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
 - [Dev.to/JS] [07 Useful JavaScript One-Liner Code ✨](https://dev.to/todayscode14/07-useful-javascript-one-liner-code-jij)
@@ -42,11 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning a new tool for your complex project? THIS is the best way to master it! 👍🎓](https://dev.to/savvasstephnds/learning-a-new-tool-for-your-complex-project-this-is-the-best-way-to-master-it-287d)
 - [Dev.to/JS] [Day 87: Credentials](https://dev.to/dhrn/day-87-web-credentials-40ao)
 - [Lifehacker] [My Essentials for the Best Night&#39;s Sleep Ever](https://lifehacker.com/home/best-sleep-essentials)
-- [Dev.to/JS] [Unleashing the Power of `is.edge` and `is.not_edge` with &#39;thiis&#39;: Your Gateway to JavaScript Magic](https://dev.to/karbashevskyi/unleashing-the-power-of-isedge-and-isnotedge-with-thiis-your-gateway-to-javascript-magic-1ajb)
 - [Lifehacker] [Venmo May Have Just Killed Splitwise](https://lifehacker.com/tech/venmo-killed-splitwise)
 - [Lifehacker] [The Best Educational Streaming Services for Kids and Adults Alike](https://lifehacker.com/best-educational-streaming-services)
-- [Dev.to/JS] [How to create a blog with Next.js and React Bricks](https://dev.to/dsalinasgardon/how-to-create-a-blog-with-nextjs-and-react-bricks-2p6h)
-- [Dev.to/JS] [10 tips of python](https://dev.to/i_punjabi769/10-tips-of-python-49ff)
 - [Lifehacker] [Give Your Sweet Potato Casserole the Loaded Baked Potato Treatment](https://lifehacker.com/food-drink/loaded-sweet-potato-casserole-recipe)
 - [Lifehacker] [Ten of the Best Offbeat Advent and Holiday Gift Calendars](https://lifehacker.com/money/unique-advent-holiday-calendars)
 - [Lifehacker] [The Biggest Differences Between the Steam Deck OLED and Steam Deck LCD](https://lifehacker.com/tech/steam-deck-oled-vs-steam-deck-lcd)
@@ -54,7 +57,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Alternatives to a Gas-Powered Leaf Blower](https://lifehacker.com/home/best-alternatives-to-gas-powered-leaf-blowers)
 - [Lifehacker] [Use the &#39;2357&#39; Method to Remember What You Study](https://lifehacker.com/family/how-to-use-2357-study-method)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
-- [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
 - [Lifehacker] [When to Buy the Steam Deck OLED, and When to Buy the Switch OLED](https://lifehacker.com/tech/steam-deck-oled-vs-switch-oled)
 - [Lifehacker] [This Is the Best Nintendo Switch OLED Black Friday Deal so Far](https://lifehacker.com/entertainment/best-nintendo-switch-oled-black-friday-deal)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Dietary Supplements Might Actually Help With Migraines](https://lifehacker.com/health/best-dietary-supplements-for-migraines)
 - [Lifehacker] [The Easiest Ways to Hide Away Mirrored Closet Doors](https://lifehacker.com/home/easiest-ways-hide-mirrored-closet-doors)
 - [Lifehacker] [The 10 Best Audiobook Services](https://lifehacker.com/the-best-audiobook-services-1851014703)
-- [Lifehacker] [The Future Is Here With the Roomba Combo J9+ Robot Vacuum and Mop](https://lifehacker.com/tech/roomba-combo-j9-robot-vacuum-mop-review)
-- [Lifehacker] [How to Screen Record on Your iPhone](https://lifehacker.com/tech/how-to-screen-record-on-iphone)
-- [Lifehacker] [Tinfoil in the Dishwasher Doesn&#39;t Actually Shine Your Flatware](https://lifehacker.com/home/tinfoil-in-dishwasher-doesnt-shine-flatware)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Future Is Here With the Roomba Combo J9+ Robot Vacuum and Mop](https://lifehacker.com/tech/roomba-combo-j9-robot-vacuum-mop-review)<!-- TECH-POSTS:END -->
 
 ---
 
