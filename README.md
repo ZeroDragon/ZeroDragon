@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Java Programming Courses on Coursera You Must Know](https://dev.to/aqsa81/best-java-programming-courses-on-coursera-you-must-know-dd5)
 - [Dev.to/JS] [Advantages and Disadvantages of React](https://dev.to/ayako_yk/advantages-and-disadvantages-of-react-2f2)
 - [Dev.to/JS] [Dynamic rate-limiting middleware in Express](https://dev.to/techjayvee/dynamic-rate-limiting-middleware-in-express-5hlm)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating Preact Signals with Lit via Custom Directive](https://dev.to/andyjessop/integrating-preact-signals-with-lit-via-custom-directive-1fl6)
 - [Lifehacker] [This Is the Best Nintendo Switch OLED Black Friday Deal so Far](https://lifehacker.com/entertainment/best-nintendo-switch-oled-black-friday-deal)
 - [Dev.to/JS] [Day 86: Payments API](https://dev.to/dhrn/day-86-payments-api-3hel)
-- [Dev.to/JS] [Quanto vale as suas milhas?](https://dev.to/rtmonteiro/quanto-vale-as-suas-milhas-ehp)
 - [Lifehacker] [There&#39;s a Faster Way to Type Anything on an iPhone](https://lifehacker.com/tech/fastest-way-to-type-on-iphone)
 - [Lifehacker] [These Are The U.S. Cities With the Highest and Lowest Cost of Living](https://lifehacker.com/money/us-cities-with-highest-and-lowest-cost-of-living)
 - [Lifehacker] [These Dietary Supplements Might Actually Help With Migraines](https://lifehacker.com/health/best-dietary-supplements-for-migraines)
