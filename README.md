@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the Power of WordPress Hosting India: A Comprehensive Guide](https://dev.to/officewebmaster315/unleashing-the-power-of-wordpress-hosting-india-a-comprehensive-guide-3nei)
+- [Dev.to/JS] [Choosing your Database](https://dev.to/treasuredev_/choosing-your-database-60g)
 - [Dev.to/JS] [Navigating the Digital Landscape with Dedicated Server India Solutions](https://dev.to/officewebmaster315/navigating-the-digital-landscape-with-dedicated-server-india-solutions-51lc)
 - [Dev.to/JS] [3D Flip Product Card | CSS Tutorial](https://dev.to/codingcss/3d-flip-product-card-css-tutorial-57n8)
 - [Dev.to/JS] [Quote Blowout PLR](https://dev.to/rankmarket123/quote-blowout-plr-4nhi)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Days 8-10: Standalone components and home view](https://dev.to/ajanecka/days-8-10-standalone-components-and-home-view-50c9)
 - [Dev.to/JS] [Best Java Programming Courses on Coursera You Must Know](https://dev.to/aqsa81/best-java-programming-courses-on-coursera-you-must-know-dd5)
 - [Dev.to/JS] [Advantages and Disadvantages of React](https://dev.to/ayako_yk/advantages-and-disadvantages-of-react-2f2)
-- [Dev.to/JS] [Dynamic rate-limiting middleware in Express](https://dev.to/techjayvee/dynamic-rate-limiting-middleware-in-express-5hlm)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
-- [Dev.to/JS] [Unleashing Inner Power: A Blog for Empowered Software Engineers](https://dev.to/jackynote/unleashing-inner-power-a-blog-for-empowered-software-engineers-3ip2)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
 - [Lifehacker] [When to Buy the Steam Deck OLED, and When to Buy the Switch OLED](https://lifehacker.com/tech/steam-deck-oled-vs-switch-oled)
