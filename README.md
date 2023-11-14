@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gife crad Offar](https://dev.to/jusica232/gife-crad-offar-44do)
+- [Lifehacker] [How to Protect Your Parents From Elder Fraud and Scams](https://lifehacker.com/family/protect-parents-and-grandparents-from-elder-fraud)
+- [Lifehacker] [The Best Alternatives to a Gas-Powered Leaf Blower](https://lifehacker.com/home/best-alternatives-to-gas-powered-leaf-blowers)
 - [Dev.to/JS] [Playable Piano Using HTML, CSS And JavaScript](https://dev.to/codingcss/playable-piano-using-html-css-and-javascript-5g6c)
 - [Dev.to/JS] [Top Popular Apps Built With React Native](https://dev.to/imparth/top-popular-apps-built-with-react-native-1obc)
 - [Dev.to/JS] [Unveiling the Trie: A Masterstroke for Efficient String Searches](https://dev.to/baliachbryan/unveiling-the-trie-a-masterstroke-for-efficient-string-searches-994)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authenticating users via Google OAuth 2.0 on the Edge using Nitro by UnJS and Deno Land](https://dev.to/reeshee/authenticating-users-via-google-oauth-20-using-nitro-by-unjs-and-deno-land-mmb)
 - [Dev.to/JS] [Free Paypal Gift 2023](https://dev.to/linda1906/free-paypal-gift-2023-4apo)
 - [Dev.to/JS] [Why is the ‘this’ Keyword Important in JavaScript?](https://dev.to/jaimaldullat/why-is-the-this-keyword-important-in-javascript-1gl1)
-- [Dev.to/JS] [45 NPM Packages to Solve 16 React Problems](https://dev.to/mohammadfaisal/45-npm-packages-to-solve-16-react-problems-1ogn)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Avoid Single Supplement Fees When Traveling Solo](https://lifehacker.com/how-to-avoid-single-supplement-fees-when-traveling-solo-1851010320)
 - [Lifehacker] [How to Locate and Clean Your Dishwasher&#39;s Filter](https://lifehacker.com/how-to-locate-and-clean-your-dishwashers-filter-1851010315)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
-- [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
-- [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
-- [Lifehacker] [The Microsoft Surface Laptop 4 Is at Its Lowest Price Right Now](https://lifehacker.com/the-microsoft-surface-laptop-4-is-at-its-lowest-price-r-1851012902)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)<!-- TECH-POSTS:END -->
 
 ---
 
