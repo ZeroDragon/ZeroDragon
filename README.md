@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [07 Useful JavaScript One-Liner Code ✨](https://dev.to/todayscode14/07-useful-javascript-one-liner-code-jij)
 - [Dev.to/JS] [How to update your SuperViz integration with Matterport to v5](https://dev.to/superviz/how-to-update-your-superviz-integration-with-matterport-to-v5-5b2h)
 - [Dev.to/JS] [Get a Free Glimpse into the World of AI](https://dev.to/soma9khan/get-a-free-glimpse-into-the-world-of-ai-ogg)
 - [Lifehacker] [Outlet Grocery Stores Can Save You a Ton of Money](https://lifehacker.com/money/why-shop-outlet-grocery-stores)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Educational Streaming Services for Kids and Adults Alike](https://lifehacker.com/best-educational-streaming-services)
 - [Dev.to/JS] [How to create a blog with Next.js and React Bricks](https://dev.to/dsalinasgardon/how-to-create-a-blog-with-nextjs-and-react-bricks-2p6h)
 - [Dev.to/JS] [10 tips of python](https://dev.to/i_punjabi769/10-tips-of-python-49ff)
-- [Dev.to/JS] [Rate Limiting: A Dynamic Distributed Rate Limiting with Redis](https://dev.to/melbably/rate-limiting-a-dynamic-distributed-rate-limiting-with-redis-4nlp)
 - [Lifehacker] [Give Your Sweet Potato Casserole the Loaded Baked Potato Treatment](https://lifehacker.com/food-drink/loaded-sweet-potato-casserole-recipe)
 - [Lifehacker] [Ten of the Best Offbeat Advent and Holiday Gift Calendars](https://lifehacker.com/money/unique-advent-holiday-calendars)
 - [Lifehacker] [The Biggest Differences Between the Steam Deck OLED and Steam Deck LCD](https://lifehacker.com/tech/steam-deck-oled-vs-steam-deck-lcd)
