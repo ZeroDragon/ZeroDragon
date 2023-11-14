@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Git Revert: How to the complete guide](https://dev.to/alakkadshaw/git-revert-how-to-the-complete-guide-nd)
+- [Lifehacker] [The Leonid Meteor Shower Is Coming This Weekend](https://lifehacker.com/science/leonid-showers-viewing)
 - [Dev.to/JS] [Code Migration with ECS in JavaScript &lpar;from C++&rpar;](https://dev.to/slobodan4nista/code-migration-with-ecs-in-javascript-from-c-5e4d)
 - [Lifehacker] [Here&#39;s How to Fix a Pixel Phone Stuck in a Bootloop](https://lifehacker.com/tech/pixel-phone-bootloop-fix)
 - [Dev.to/JS] [Is it possible to duplicate some websites code?](https://dev.to/martinoklapez/is-it-possible-to-duplicate-some-websites-code-2k3c)
@@ -46,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to import node-persist into a Node.js ES6 project](https://dev.to/vallu/how-to-import-node-persist-using-node-es6-5bin)
 - [Dev.to/JS] [I built an Markdown editor using Next.js and TailwindCss 🔥](https://dev.to/acidop/i-built-an-markdown-editor-using-nextjs-and-tailwindcss-46bg)
 - [Dev.to/JS] [Learning a new tool for your complex project? THIS is the best way to master it! 👍🎓](https://dev.to/savvasstephnds/learning-a-new-tool-for-your-complex-project-this-is-the-best-way-to-master-it-287d)
-- [Dev.to/JS] [Day 87: Credentials](https://dev.to/dhrn/day-87-web-credentials-40ao)
 - [Lifehacker] [My Essentials for the Best Night&#39;s Sleep Ever](https://lifehacker.com/home/best-sleep-essentials)
 - [Lifehacker] [Venmo May Have Just Killed Splitwise](https://lifehacker.com/tech/venmo-killed-splitwise)
 - [Lifehacker] [The Best Educational Streaming Services for Kids and Adults Alike](https://lifehacker.com/best-educational-streaming-services)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are The U.S. Cities With the Highest and Lowest Cost of Living](https://lifehacker.com/money/us-cities-with-highest-and-lowest-cost-of-living)
 - [Lifehacker] [These Dietary Supplements Might Actually Help With Migraines](https://lifehacker.com/health/best-dietary-supplements-for-migraines)
 - [Lifehacker] [The Easiest Ways to Hide Away Mirrored Closet Doors](https://lifehacker.com/home/easiest-ways-hide-mirrored-closet-doors)
-- [Lifehacker] [The 10 Best Audiobook Services](https://lifehacker.com/the-best-audiobook-services-1851014703)
-- [Lifehacker] [The Future Is Here With the Roomba Combo J9+ Robot Vacuum and Mop](https://lifehacker.com/tech/roomba-combo-j9-robot-vacuum-mop-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 10 Best Audiobook Services](https://lifehacker.com/the-best-audiobook-services-1851014703)<!-- TECH-POSTS:END -->
 
 ---
 
