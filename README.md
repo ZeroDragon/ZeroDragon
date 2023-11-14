@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Playable Piano Using HTML, CSS And JavaScript](https://dev.to/codingcss/playable-piano-using-html-css-and-javascript-5g6c)
+- [Dev.to/JS] [Top Popular Apps Built With React Native](https://dev.to/imparth/top-popular-apps-built-with-react-native-1obc)
+- [Dev.to/JS] [Unveiling the Trie: A Masterstroke for Efficient String Searches](https://dev.to/baliachbryan/unveiling-the-trie-a-masterstroke-for-efficient-string-searches-994)
 - [Lifehacker] [Use the &#39;2357&#39; Method to Remember What You Study](https://lifehacker.com/family/how-to-use-2357-study-method)
 - [Dev.to/JS] [Optimizing Cypress for Faster Execution: Insights from Neocom](https://dev.to/theabdolah/how-to-make-cypress-run-faster-4nbd)
 - [Dev.to/JS] [🔥 Take NextJS to the next level: Create a GitHub stars monitor 🤯](https://dev.to/triggerdotdev/take-nextjs-to-the-next-level-create-a-github-stars-monitor-130a)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Free Paypal Gift 2023](https://dev.to/linda1906/free-paypal-gift-2023-4apo)
 - [Dev.to/JS] [Why is the ‘this’ Keyword Important in JavaScript?](https://dev.to/jaimaldullat/why-is-the-this-keyword-important-in-javascript-1gl1)
 - [Dev.to/JS] [45 NPM Packages to Solve 16 React Problems](https://dev.to/mohammadfaisal/45-npm-packages-to-solve-16-react-problems-1ogn)
-- [Dev.to/JS] [A Comprehensive Guide to Calculating Goods and Services Tax &lpar;GST&rpar;](https://dev.to/afrasiab1998/a-comprehensive-guide-to-calculating-goods-and-services-tax-gst-5a1a)
-- [Dev.to/JS] [Web Development: Navigating the Maze and Getting Stuff Done!](https://dev.to/lawrencespractice/web-development-navigating-the-maze-and-getting-stuff-done-12hl)
-- [Dev.to/JS] [Unleashing the Power of VPS Hosting: Elevate Your Online Presence with VPS Server Solutions in India](https://dev.to/officewebmaster315/unleashing-the-power-of-vps-hosting-elevate-your-online-presence-with-vps-server-solutions-in-india-bkk)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
