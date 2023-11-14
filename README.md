@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Comprehensive Guide to Calculating Goods and Services Tax &lpar;GST&rpar;](https://dev.to/afrasiab1998/a-comprehensive-guide-to-calculating-goods-and-services-tax-gst-5a1a)
+- [Dev.to/JS] [Web Development: Navigating the Maze and Getting Stuff Done!](https://dev.to/lawrencespractice/web-development-navigating-the-maze-and-getting-stuff-done-12hl)
+- [Dev.to/JS] [Unleashing the Power of VPS Hosting: Elevate Your Online Presence with VPS Server Solutions in India](https://dev.to/officewebmaster315/unleashing-the-power-of-vps-hosting-elevate-your-online-presence-with-vps-server-solutions-in-india-bkk)
 - [Dev.to/JS] [Unleashing the Power of WordPress Hosting India: A Comprehensive Guide](https://dev.to/officewebmaster315/unleashing-the-power-of-wordpress-hosting-india-a-comprehensive-guide-3nei)
 - [Dev.to/JS] [Choosing your Database](https://dev.to/treasuredev_/choosing-your-database-60g)
 - [Dev.to/JS] [Navigating the Digital Landscape with Dedicated Server India Solutions](https://dev.to/officewebmaster315/navigating-the-digital-landscape-with-dedicated-server-india-solutions-51lc)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do you know Code Sharing in REACTJS](https://dev.to/gkhan205/do-you-know-code-sharing-in-reactjs-2f1g)
 - [Dev.to/JS] [Berita Bola Terupdate](https://dev.to/amirasaid/berita-bola-terupdate-4a2h)
 - [Dev.to/JS] [Amazing Loading Animation Using Html Css and Javascript.](https://dev.to/codingcss/amazing-loading-animation-using-html-css-and-javascript-4b44)
-- [Dev.to/JS] [Days 8-10: Standalone components and home view](https://dev.to/ajanecka/days-8-10-standalone-components-and-home-view-50c9)
-- [Dev.to/JS] [Best Java Programming Courses on Coursera You Must Know](https://dev.to/aqsa81/best-java-programming-courses-on-coursera-you-must-know-dd5)
-- [Dev.to/JS] [Advantages and Disadvantages of React](https://dev.to/ayako_yk/advantages-and-disadvantages-of-react-2f2)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
