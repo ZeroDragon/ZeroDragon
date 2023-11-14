@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the &#39;2357&#39; Method to Remember What You Study](https://lifehacker.com/family/how-to-use-2357-study-method)
+- [Dev.to/JS] [Optimizing Cypress for Faster Execution: Insights from Neocom](https://dev.to/theabdolah/how-to-make-cypress-run-faster-4nbd)
+- [Dev.to/JS] [🔥 Take NextJS to the next level: Create a GitHub stars monitor 🤯](https://dev.to/triggerdotdev/take-nextjs-to-the-next-level-create-a-github-stars-monitor-130a)
+- [Dev.to/JS] [Paracetamol.js💊| #221: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-221-explica-este-codigo-javascript-20lo)
+- [Dev.to/JS] [Dominando o HTTP Interceptor do Angular para Gestão de Autorização de APIs](https://dev.to/matheushchaves/dominando-o-http-interceptor-do-angular-para-gestao-de-autorizacao-de-apis-2boc)
+- [Dev.to/JS] [How to resolve errors in my developer section in browser](https://dev.to/agent6/how-to-resolve-errors-in-my-developer-section-in-browser-4nm7)
+- [Dev.to/JS] [Authenticating users via Google OAuth 2.0 on the Edge using Nitro by UnJS and Deno Land](https://dev.to/reeshee/authenticating-users-via-google-oauth-20-using-nitro-by-unjs-and-deno-land-mmb)
 - [Dev.to/JS] [Free Paypal Gift 2023](https://dev.to/linda1906/free-paypal-gift-2023-4apo)
 - [Dev.to/JS] [Why is the ‘this’ Keyword Important in JavaScript?](https://dev.to/jaimaldullat/why-is-the-this-keyword-important-in-javascript-1gl1)
 - [Dev.to/JS] [45 NPM Packages to Solve 16 React Problems](https://dev.to/mohammadfaisal/45-npm-packages-to-solve-16-react-problems-1ogn)
 - [Dev.to/JS] [A Comprehensive Guide to Calculating Goods and Services Tax &lpar;GST&rpar;](https://dev.to/afrasiab1998/a-comprehensive-guide-to-calculating-goods-and-services-tax-gst-5a1a)
 - [Dev.to/JS] [Web Development: Navigating the Maze and Getting Stuff Done!](https://dev.to/lawrencespractice/web-development-navigating-the-maze-and-getting-stuff-done-12hl)
 - [Dev.to/JS] [Unleashing the Power of VPS Hosting: Elevate Your Online Presence with VPS Server Solutions in India](https://dev.to/officewebmaster315/unleashing-the-power-of-vps-hosting-elevate-your-online-presence-with-vps-server-solutions-in-india-bkk)
-- [Dev.to/JS] [Unleashing the Power of WordPress Hosting India: A Comprehensive Guide](https://dev.to/officewebmaster315/unleashing-the-power-of-wordpress-hosting-india-a-comprehensive-guide-3nei)
-- [Dev.to/JS] [Choosing your Database](https://dev.to/treasuredev_/choosing-your-database-60g)
-- [Dev.to/JS] [Navigating the Digital Landscape with Dedicated Server India Solutions](https://dev.to/officewebmaster315/navigating-the-digital-landscape-with-dedicated-server-india-solutions-51lc)
-- [Dev.to/JS] [3D Flip Product Card | CSS Tutorial](https://dev.to/codingcss/3d-flip-product-card-css-tutorial-57n8)
-- [Dev.to/JS] [Quote Blowout PLR](https://dev.to/rankmarket123/quote-blowout-plr-4nhi)
-- [Dev.to/JS] [Your Gateway to Exceptional Research Peptides](https://dev.to/anzikbro/your-gateway-to-exceptional-research-peptides-4pho)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 11, 2023](https://lifehacker.com/nyt-connections-answer-today-november-11-2023-1851007157)
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
-- [Lifehacker] [The Microsoft Surface Laptop 4 Is at Its Lowest Price Right Now](https://lifehacker.com/the-microsoft-surface-laptop-4-is-at-its-lowest-price-r-1851012902)
-- [Lifehacker] [Use &#39;Elaborative Interrogation&#39; to Challenge Yourself While Studying](https://lifehacker.com/use-elaborative-interrogation-to-challenge-yourself-whi-1851011669)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Microsoft Surface Laptop 4 Is at Its Lowest Price Right Now](https://lifehacker.com/the-microsoft-surface-laptop-4-is-at-its-lowest-price-r-1851012902)<!-- TECH-POSTS:END -->
 
 ---
 
