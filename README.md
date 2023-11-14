@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to import node-persist using Node ES6](https://dev.to/vallu/how-to-import-node-persist-using-node-es6-5bin)
+- [Dev.to/JS] [How to update your SuperViz integration with Matterport to v5](https://dev.to/superviz/how-to-update-your-superviz-integration-with-matterport-to-v5-5b2h)
+- [Dev.to/JS] [Get a Free Glimpse into the World of AI](https://dev.to/soma9khan/get-a-free-glimpse-into-the-world-of-ai-ogg)
+- [Lifehacker] [Outlet Grocery Stores Can Save You a Ton of Money](https://lifehacker.com/money/why-shop-outlet-grocery-stores)
+- [Dev.to/JS] [Change the CSS styling of any class using dark mode in React or NextJS](https://dev.to/sufian/change-the-css-styling-of-any-class-using-dark-mode-in-react-or-nextjs-414d)
+- [Dev.to/JS] [Download Free Programming Course AS We Offer In Paid](https://dev.to/naveed707/download-free-programming-course-as-we-offer-in-paid-180l)
+- [Lifehacker] [38 of the Best New Movies You Can Stream Right Now](https://lifehacker.com/best-new-movies-streaming-now)
+- [Dev.to/JS] [How to import node-persist into a Node.js ES6 project](https://dev.to/vallu/how-to-import-node-persist-using-node-es6-5bin)
 - [Dev.to/JS] [I built an Markdown editor using Next.js and TailwindCss 🔥](https://dev.to/acidop/i-built-an-markdown-editor-using-nextjs-and-tailwindcss-46bg)
 - [Dev.to/JS] [Learning a new tool for your complex project? THIS is the best way to master it! 👍🎓](https://dev.to/savvasstephnds/learning-a-new-tool-for-your-complex-project-this-is-the-best-way-to-master-it-287d)
 - [Dev.to/JS] [Day 87: Credentials](https://dev.to/dhrn/day-87-web-credentials-40ao)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a blog with Next.js and React Bricks](https://dev.to/dsalinasgardon/how-to-create-a-blog-with-nextjs-and-react-bricks-2p6h)
 - [Dev.to/JS] [10 tips of python](https://dev.to/i_punjabi769/10-tips-of-python-49ff)
 - [Dev.to/JS] [Rate Limiting: A Dynamic Distributed Rate Limiting with Redis](https://dev.to/melbably/rate-limiting-a-dynamic-distributed-rate-limiting-with-redis-4nlp)
-- [Dev.to/JS] [10 tutorial of python](https://dev.to/i_punjabi769/10-tutorial-of-python-1fc0)
-- [Dev.to/JS] [Download Free Programing Coures As We Offer in paid](https://dev.to/techpk45/download-free-programing-coures-as-we-offer-in-paid-2ndc)
-- [Dev.to/JS] [learn python language](https://dev.to/i_punjabi769/learn-python-language-55l0)
 - [Lifehacker] [Give Your Sweet Potato Casserole the Loaded Baked Potato Treatment](https://lifehacker.com/food-drink/loaded-sweet-potato-casserole-recipe)
-- [Dev.to/JS] [JAVASCRIPT SETS](https://dev.to/maame_afia/javascript-sets-28dm)
 - [Lifehacker] [Ten of the Best Offbeat Advent and Holiday Gift Calendars](https://lifehacker.com/money/unique-advent-holiday-calendars)
 - [Lifehacker] [The Biggest Differences Between the Steam Deck OLED and Steam Deck LCD](https://lifehacker.com/tech/steam-deck-oled-vs-steam-deck-lcd)
 - [Lifehacker] [How to Protect Your Parents From Elder Fraud and Scams](https://lifehacker.com/family/protect-parents-and-grandparents-from-elder-fraud)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why All the Gen Z Kids Love ‘Soft Saving’ &lpar;and How to Do It&rpar;](https://lifehacker.com/what-is-gen-z-soft-saving-1851012142)
 - [Lifehacker] [Add These Three Worldly Relishes to Your Thanksgiving Dinner Table](https://lifehacker.com/best-thanksgiving-relish-recipes-1851012262)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
-- [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
-- [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
-- [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)<!-- TECH-POSTS:END -->
 
 ---
 
