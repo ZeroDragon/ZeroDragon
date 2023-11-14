@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do you know Code Sharing in REACTJS](https://dev.to/gkhan205/do-you-know-code-sharing-in-reactjs-2f1g)
+- [Dev.to/JS] [Berita Bola Terupdate](https://dev.to/amirasaid/berita-bola-terupdate-4a2h)
+- [Dev.to/JS] [Amazing Loading Animation Using Html Css and Javascript.](https://dev.to/codingcss/amazing-loading-animation-using-html-css-and-javascript-4b44)
 - [Dev.to/JS] [Days 8-10: Standalone components and home view](https://dev.to/ajanecka/days-8-10-standalone-components-and-home-view-50c9)
 - [Dev.to/JS] [Best Java Programming Courses on Coursera You Must Know](https://dev.to/aqsa81/best-java-programming-courses-on-coursera-you-must-know-dd5)
 - [Dev.to/JS] [Advantages and Disadvantages of React](https://dev.to/ayako_yk/advantages-and-disadvantages-of-react-2f2)
@@ -36,12 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Qwik &amp; Arduino with Johnny Five](https://dev.to/fabiobiondi/qwik-arduino-with-johnny-five-5h3l)
 - [Dev.to/JS] [Make a web app installable in a breeze](https://dev.to/anwar_nairi/make-a-web-app-installable-in-a-breeze-8ei)
 - [Dev.to/JS] [JS Date: The Timezone Tantrum](https://dev.to/mbjelac/js-date-the-timezone-tantrum-nji)
-- [Dev.to/JS] [How to use CSS variables to create amazing theme transitions 🎨✨](https://dev.to/cataon/how-to-use-css-variables-to-create-amazing-theme-transitions-1po9)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
 - [Lifehacker] [When to Buy the Steam Deck OLED, and When to Buy the Switch OLED](https://lifehacker.com/tech/steam-deck-oled-vs-switch-oled)
-- [Dev.to/JS] [Understanding Closures in JavaScript with Simple Practical Examples](https://dev.to/opensign/understanding-closures-in-javascript-with-simple-practical-examples-25co)
-- [Dev.to/JS] [Integrating Preact Signals with Lit via Custom Directive](https://dev.to/andyjessop/integrating-preact-signals-with-lit-via-custom-directive-1fl6)
 - [Lifehacker] [This Is the Best Nintendo Switch OLED Black Friday Deal so Far](https://lifehacker.com/entertainment/best-nintendo-switch-oled-black-friday-deal)
 - [Lifehacker] [There&#39;s a Faster Way to Type Anything on an iPhone](https://lifehacker.com/tech/fastest-way-to-type-on-iphone)
 - [Lifehacker] [These Are The U.S. Cities With the Highest and Lowest Cost of Living](https://lifehacker.com/money/us-cities-with-highest-and-lowest-cost-of-living)
