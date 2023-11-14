@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating the Digital Landscape with Dedicated Server India Solutions](https://dev.to/officewebmaster315/navigating-the-digital-landscape-with-dedicated-server-india-solutions-51lc)
+- [Dev.to/JS] [3D Flip Product Card | CSS Tutorial](https://dev.to/codingcss/3d-flip-product-card-css-tutorial-57n8)
+- [Dev.to/JS] [Quote Blowout PLR](https://dev.to/rankmarket123/quote-blowout-plr-4nhi)
+- [Dev.to/JS] [Your Gateway to Exceptional Research Peptides](https://dev.to/anzikbro/your-gateway-to-exceptional-research-peptides-4pho)
 - [Dev.to/JS] [Do you know Code Sharing in REACTJS](https://dev.to/gkhan205/do-you-know-code-sharing-in-reactjs-2f1g)
 - [Dev.to/JS] [Berita Bola Terupdate](https://dev.to/amirasaid/berita-bola-terupdate-4a2h)
 - [Dev.to/JS] [Amazing Loading Animation Using Html Css and Javascript.](https://dev.to/codingcss/amazing-loading-animation-using-html-css-and-javascript-4b44)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dynamic rate-limiting middleware in Express](https://dev.to/techjayvee/dynamic-rate-limiting-middleware-in-express-5hlm)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
 - [Dev.to/JS] [Unleashing Inner Power: A Blog for Empowered Software Engineers](https://dev.to/jackynote/unleashing-inner-power-a-blog-for-empowered-software-engineers-3ip2)
-- [Dev.to/JS] [Javascript Mock Interview](https://dev.to/zhivkosi/javascript-mock-interview-47m8)
-- [Dev.to/JS] [Qwik &amp; Arduino with Johnny Five](https://dev.to/fabiobiondi/qwik-arduino-with-johnny-five-5h3l)
-- [Dev.to/JS] [Make a web app installable in a breeze](https://dev.to/anwar_nairi/make-a-web-app-installable-in-a-breeze-8ei)
-- [Dev.to/JS] [JS Date: The Timezone Tantrum](https://dev.to/mbjelac/js-date-the-timezone-tantrum-nji)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
 - [Lifehacker] [When to Buy the Steam Deck OLED, and When to Buy the Switch OLED](https://lifehacker.com/tech/steam-deck-oled-vs-switch-oled)
