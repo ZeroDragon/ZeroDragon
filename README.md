@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamic rate-limiting middleware in Express](https://dev.to/techjayvee/dynamic-rate-limiting-middleware-in-express-5hlm)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
 - [Dev.to/JS] [Unleashing Inner Power: A Blog for Empowered Software Engineers](https://dev.to/jackynote/unleashing-inner-power-a-blog-for-empowered-software-engineers-3ip2)
 - [Dev.to/JS] [Javascript Mock Interview](https://dev.to/zhivkosi/javascript-mock-interview-47m8)
 - [Dev.to/JS] [Qwik &amp; Arduino with Johnny Five](https://dev.to/fabiobiondi/qwik-arduino-with-johnny-five-5h3l)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s a Faster Way to Type Anything on an iPhone](https://lifehacker.com/tech/fastest-way-to-type-on-iphone)
 - [Dev.to/JS] [How to implement use-dark-mode in React or Next Js: A step-by-step guide](https://dev.to/sufian/how-to-implement-use-dark-mode-in-react-or-next-js-a-step-by-step-guide-2ia0)
 - [Lifehacker] [These Are The U.S. Cities With the Highest and Lowest Cost of Living](https://lifehacker.com/money/us-cities-with-highest-and-lowest-cost-of-living)
-- [Dev.to/JS] [Gather User Feedback On Any Website with Hermes WC](https://dev.to/andrico1234/hermes-wc-a-feedback-widget-built-on-web-components-198d)
 - [Lifehacker] [These Dietary Supplements Might Actually Help With Migraines](https://lifehacker.com/health/best-dietary-supplements-for-migraines)
 - [Lifehacker] [The Easiest Ways to Hide Away Mirrored Closet Doors](https://lifehacker.com/home/easiest-ways-hide-mirrored-closet-doors)
 - [Lifehacker] [The 10 Best Audiobook Services](https://lifehacker.com/the-best-audiobook-services-1851014703)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Tool to Get the Best Deal on Rewards Travel](https://lifehacker.com/use-this-tool-to-get-the-best-deal-on-rewards-travel-1851011723)
 - [Lifehacker] [Get the Bose Smart Soundbar 900 for Its Lowest Price Yet](https://lifehacker.com/get-the-bose-smart-soundbar-900-for-its-lowest-price-ye-1851013073)
 - [Lifehacker] [The Microsoft Surface Laptop 4 Is at Its Lowest Price Right Now](https://lifehacker.com/the-microsoft-surface-laptop-4-is-at-its-lowest-price-r-1851012902)
-- [Lifehacker] [Use &#39;Elaborative Interrogation&#39; to Challenge Yourself While Studying](https://lifehacker.com/use-elaborative-interrogation-to-challenge-yourself-whi-1851011669)
-- [Lifehacker] [How to Blind Bake a Pie Crust &lpar;Because You Probably Should&rpar;](https://lifehacker.com/how-to-blind-bake-a-pie-crust-because-you-probably-sho-1851012606)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use &#39;Elaborative Interrogation&#39; to Challenge Yourself While Studying](https://lifehacker.com/use-elaborative-interrogation-to-challenge-yourself-whi-1851011669)<!-- TECH-POSTS:END -->
 
 ---
 
