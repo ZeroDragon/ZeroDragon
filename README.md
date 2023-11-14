@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advantages and Disadvantages of React](https://dev.to/ayako_yk/advantages-and-disadvantages-of-react-2f2)
 - [Dev.to/JS] [Dynamic rate-limiting middleware in Express](https://dev.to/techjayvee/dynamic-rate-limiting-middleware-in-express-5hlm)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
 - [Dev.to/JS] [Unleashing Inner Power: A Blog for Empowered Software Engineers](https://dev.to/jackynote/unleashing-inner-power-a-blog-for-empowered-software-engineers-3ip2)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 86: Payments API](https://dev.to/dhrn/day-86-payments-api-3hel)
 - [Dev.to/JS] [Quanto vale as suas milhas?](https://dev.to/rtmonteiro/quanto-vale-as-suas-milhas-ehp)
 - [Lifehacker] [There&#39;s a Faster Way to Type Anything on an iPhone](https://lifehacker.com/tech/fastest-way-to-type-on-iphone)
-- [Dev.to/JS] [How to implement use-dark-mode in React or Next Js: A step-by-step guide](https://dev.to/sufian/how-to-implement-use-dark-mode-in-react-or-next-js-a-step-by-step-guide-2ia0)
 - [Lifehacker] [These Are The U.S. Cities With the Highest and Lowest Cost of Living](https://lifehacker.com/money/us-cities-with-highest-and-lowest-cost-of-living)
 - [Lifehacker] [These Dietary Supplements Might Actually Help With Migraines](https://lifehacker.com/health/best-dietary-supplements-for-migraines)
 - [Lifehacker] [The Easiest Ways to Hide Away Mirrored Closet Doors](https://lifehacker.com/home/easiest-ways-hide-mirrored-closet-doors)
