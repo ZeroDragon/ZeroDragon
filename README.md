@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Free Paypal Gift 2023](https://dev.to/linda1906/free-paypal-gift-2023-4apo)
+- [Dev.to/JS] [Why is the ‘this’ Keyword Important in JavaScript?](https://dev.to/jaimaldullat/why-is-the-this-keyword-important-in-javascript-1gl1)
+- [Dev.to/JS] [45 NPM Packages to Solve 16 React Problems](https://dev.to/mohammadfaisal/45-npm-packages-to-solve-16-react-problems-1ogn)
 - [Dev.to/JS] [A Comprehensive Guide to Calculating Goods and Services Tax &lpar;GST&rpar;](https://dev.to/afrasiab1998/a-comprehensive-guide-to-calculating-goods-and-services-tax-gst-5a1a)
 - [Dev.to/JS] [Web Development: Navigating the Maze and Getting Stuff Done!](https://dev.to/lawrencespractice/web-development-navigating-the-maze-and-getting-stuff-done-12hl)
 - [Dev.to/JS] [Unleashing the Power of VPS Hosting: Elevate Your Online Presence with VPS Server Solutions in India](https://dev.to/officewebmaster315/unleashing-the-power-of-vps-hosting-elevate-your-online-presence-with-vps-server-solutions-in-india-bkk)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3D Flip Product Card | CSS Tutorial](https://dev.to/codingcss/3d-flip-product-card-css-tutorial-57n8)
 - [Dev.to/JS] [Quote Blowout PLR](https://dev.to/rankmarket123/quote-blowout-plr-4nhi)
 - [Dev.to/JS] [Your Gateway to Exceptional Research Peptides](https://dev.to/anzikbro/your-gateway-to-exceptional-research-peptides-4pho)
-- [Dev.to/JS] [Do you know Code Sharing in REACTJS](https://dev.to/gkhan205/do-you-know-code-sharing-in-reactjs-2f1g)
-- [Dev.to/JS] [Berita Bola Terupdate](https://dev.to/amirasaid/berita-bola-terupdate-4a2h)
-- [Dev.to/JS] [Amazing Loading Animation Using Html Css and Javascript.](https://dev.to/codingcss/amazing-loading-animation-using-html-css-and-javascript-4b44)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
