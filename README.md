@@ -26,10 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Mock Interview](https://dev.to/zhivkosi/javascript-mock-interview-47m8)
+- [Dev.to/JS] [Qwik &amp; Arduino with Johnny Five](https://dev.to/fabiobiondi/qwik-arduino-with-johnny-five-5h3l)
 - [Dev.to/JS] [Make a web app installable in a breeze](https://dev.to/anwar_nairi/make-a-web-app-installable-in-a-breeze-8ei)
 - [Dev.to/JS] [JS Date: The Timezone Tantrum](https://dev.to/mbjelac/js-date-the-timezone-tantrum-nji)
 - [Dev.to/JS] [How to use CSS variables to create amazing theme transitions 🎨✨](https://dev.to/cataon/how-to-use-css-variables-to-create-amazing-theme-transitions-1po9)
-- [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday ?](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
+- [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
 - [Lifehacker] [When to Buy the Steam Deck OLED, and When to Buy the Switch OLED](https://lifehacker.com/tech/steam-deck-oled-vs-switch-oled)
 - [Dev.to/JS] [Understanding Closures in JavaScript with Simple Practical Examples](https://dev.to/opensign/understanding-closures-in-javascript-with-simple-practical-examples-25co)
@@ -44,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🧩 Boilerplates in VSCode](https://dev.to/mattkenefick/boilerplates-in-vscode-5220)
 - [Lifehacker] [These Dietary Supplements Might Actually Help With Migraines](https://lifehacker.com/health/best-dietary-supplements-for-migraines)
 - [Lifehacker] [The Easiest Ways to Hide Away Mirrored Closet Doors](https://lifehacker.com/home/easiest-ways-hide-mirrored-closet-doors)
-- [Dev.to/JS] [Journey Through React: Beginner to Advanced Project Guide](https://dev.to/bkmahapatra/journey-through-react-beginner-to-advanced-project-guide-2amm)
 - [Lifehacker] [The 10 Best Audiobook Services](https://lifehacker.com/the-best-audiobook-services-1851014703)
-- [Dev.to/JS] [AdScouter](https://dev.to/wsovn123/adscouter-2gg3)
 - [Lifehacker] [The Future Is Here With the Roomba Combo J9+ Robot Vacuum and Mop](https://lifehacker.com/tech/roomba-combo-j9-robot-vacuum-mop-review)
 - [Lifehacker] [How to Screen Record on Your iPhone](https://lifehacker.com/tech/how-to-screen-record-on-iphone)
 - [Lifehacker] [Tinfoil in the Dishwasher Doesn&#39;t Actually Shine Your Flatware](https://lifehacker.com/home/tinfoil-in-dishwasher-doesnt-shine-flatware)
