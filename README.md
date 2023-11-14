@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to import node-persist using Node ES6](https://dev.to/vallu/how-to-import-node-persist-using-node-es6-5bin)
+- [Dev.to/JS] [I built an Markdown editor using Next.js and TailwindCss 🔥](https://dev.to/acidop/i-built-an-markdown-editor-using-nextjs-and-tailwindcss-46bg)
+- [Dev.to/JS] [Learning a new tool for your complex project? THIS is the best way to master it! 👍🎓](https://dev.to/savvasstephnds/learning-a-new-tool-for-your-complex-project-this-is-the-best-way-to-master-it-287d)
+- [Dev.to/JS] [Day 87: Credentials](https://dev.to/dhrn/day-87-web-credentials-40ao)
+- [Lifehacker] [My Essentials for the Best Night&#39;s Sleep Ever](https://lifehacker.com/home/best-sleep-essentials)
+- [Dev.to/JS] [Unleashing the Power of `is.edge` and `is.not_edge` with &#39;thiis&#39;: Your Gateway to JavaScript Magic](https://dev.to/karbashevskyi/unleashing-the-power-of-isedge-and-isnotedge-with-thiis-your-gateway-to-javascript-magic-1ajb)
+- [Lifehacker] [Venmo May Have Just Killed Splitwise](https://lifehacker.com/tech/venmo-killed-splitwise)
 - [Lifehacker] [The Best Educational Streaming Services for Kids and Adults Alike](https://lifehacker.com/best-educational-streaming-services)
 - [Dev.to/JS] [How to create a blog with Next.js and React Bricks](https://dev.to/dsalinasgardon/how-to-create-a-blog-with-nextjs-and-react-bricks-2p6h)
 - [Dev.to/JS] [10 tips of python](https://dev.to/i_punjabi769/10-tips-of-python-49ff)
@@ -35,15 +42,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [learn python language](https://dev.to/i_punjabi769/learn-python-language-55l0)
 - [Lifehacker] [Give Your Sweet Potato Casserole the Loaded Baked Potato Treatment](https://lifehacker.com/food-drink/loaded-sweet-potato-casserole-recipe)
 - [Dev.to/JS] [JAVASCRIPT SETS](https://dev.to/maame_afia/javascript-sets-28dm)
-- [Dev.to/JS] [Effective Web Development: 10 Useful Startup Deals for Devs](https://dev.to/plazarev/effective-web-development-10-useful-startup-deals-for-devs-3n55)
 - [Lifehacker] [Ten of the Best Offbeat Advent and Holiday Gift Calendars](https://lifehacker.com/money/unique-advent-holiday-calendars)
-- [Dev.to/JS] [Hot reload setup for Obsidian plugin development](https://dev.to/sanjarcode/hot-reload-setup-for-obsidian-plugin-development-29i1)
-- [Dev.to/JS] [Leveraging ES2023 Array Methods in TypeScript for React](https://dev.to/saulodias/leveraging-es2023-array-methods-in-typescript-for-react-2486)
 - [Lifehacker] [The Biggest Differences Between the Steam Deck OLED and Steam Deck LCD](https://lifehacker.com/tech/steam-deck-oled-vs-steam-deck-lcd)
-- [Dev.to/JS] [Gife crad Offar](https://dev.to/jusica232/gife-crad-offar-44do)
 - [Lifehacker] [How to Protect Your Parents From Elder Fraud and Scams](https://lifehacker.com/family/protect-parents-and-grandparents-from-elder-fraud)
 - [Lifehacker] [The Best Alternatives to a Gas-Powered Leaf Blower](https://lifehacker.com/home/best-alternatives-to-gas-powered-leaf-blowers)
-- [Dev.to/JS] [Playable Piano Using HTML, CSS And JavaScript](https://dev.to/codingcss/playable-piano-using-html-css-and-javascript-5g6c)
 - [Lifehacker] [Use the &#39;2357&#39; Method to Remember What You Study](https://lifehacker.com/family/how-to-use-2357-study-method)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 13, 2023](https://lifehacker.com/nyt-connections-answer-today-november-13-2023-1851011483)
 - [Lifehacker] [What to Do If Your Home Inspector Missed a Major Problem](https://lifehacker.com/what-to-do-if-your-home-inspector-missed-a-major-proble-1851010209)
 - [Lifehacker] [These Are the Best Travel ‘Dupes’ for 2024](https://lifehacker.com/these-are-the-best-travel-dupes-for-2024-1851010212)
-- [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 12, 2023](https://lifehacker.com/nyt-connections-answer-today-november-12-2023-1851007554)
-- [Lifehacker] [How to Save Time and Money When Updating Your Bathroom, According to Contractors](https://lifehacker.com/how-to-save-time-and-money-when-updating-your-bathroom-1851010323)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prevent Condensation on Your Windows &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-prevent-condensation-on-your-windows-and-why-yo-1851010216)<!-- TECH-POSTS:END -->
 
 ---
 
