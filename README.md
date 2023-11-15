@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ESPC 2023: How to Spice Up Your Meetings with Microsoft Teams Meeting Extensions](https://dev.to/kasuken/espc-2023-how-to-spice-up-your-meetings-with-microsoft-teams-meeting-extensions-20kg)
+- [Dev.to/JS] [The Number Guessing Game ⁉️🤔](https://dev.to/francismacaspac/guess-the-number-game-1p9m)
+- [Dev.to/JS] [E: Unable to lock directory /var/lib/apt/lists/](https://dev.to/karakib2k18/e-unable-to-lock-directory-varlibaptlists-2i0h)
 - [Dev.to/JS] [Exploring TypeScript’s Potential: Mastering Value-Based Typing](https://dev.to/sukhejavarun/exploring-typescripts-potential-mastering-value-based-typing-5f2f)
 - [Dev.to/JS] [💻 Web Development Resources #174](https://dev.to/vincenius/web-development-resources-174-fn8)
 - [Dev.to/JS] [How to install MongoDB 6 on Ubuntu 22.04 LTS Linux &lpar;2023&rpar;](https://dev.to/karakib2k18/how-to-install-mongodb-6-on-ubuntu-2204-lts-linux-2023-2b32)
@@ -38,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 15, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-wednesda-1851012959)
 - [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
 - [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
-- [Dev.to/JS] [Integrating CI Workflow in my project](https://dev.to/sdthaker/integrating-ci-workflow-in-my-project-25b3)
 - [Lifehacker] [The Biggest Differences Between the Galaxy S23 FE and Galaxy S23](https://lifehacker.com/tech/galaxy-s23-fe-vs-galaxy-s23-comparison)
-- [Dev.to/JS] [Be kind its fast](https://dev.to/eloi162/be-kind-its-fast-198j)
 - [Lifehacker] [You Can Make Beef Wellington, I Swear](https://lifehacker.com/food-drink/beef-wellington-recipe)
-- [Dev.to/JS] [Javascript Proxy Magic: How I built a 2kB state manager with zero dependencies &lpar;and how it got me two different job offers&rpar;](https://dev.to/lnahrf/javascript-proxy-magic-how-i-built-a-2kb-state-manager-with-zero-dependencies-and-how-it-got-me-2-different-job-offers-55ad)
 - [Lifehacker] [Snag a Roomba for up to 50% Off at Amazon](https://lifehacker.com/home/roomba-sales-black-friday)
 - [Lifehacker] [The Leonid Meteor Shower Is Coming This Weekend](https://lifehacker.com/science/leonid-showers-viewing)
 - [Lifehacker] [Here&#39;s How to Fix a Pixel Phone Stuck in a Bootloop](https://lifehacker.com/tech/pixel-phone-bootloop-fix)
