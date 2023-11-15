@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which should you use? Array.from vs. Spread Operator](https://dev.to/gingerchew/which-should-you-use-arrayfrom-vs-spread-operator-4d6a)
+- [Dev.to/JS] [Popular Apps Created Using React Native](https://dev.to/nandinishinduja/popular-apps-created-using-react-native-1oi0)
+- [Dev.to/JS] [Launching dev containers from code - is impossible?](https://dev.to/michidk/launching-dev-containers-from-code-is-impossible-3efa)
+- [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)
+- [Dev.to/JS] [Dynamic destructuring JavaScript](https://dev.to/walesgator/dynamic-destructuring-javascript-1b14)
+- [Lifehacker] [It’s Official: These Are the Best Thanksgiving Side Dishes](https://lifehacker.com/best-thanksgiving-side-dishes)
 - [Dev.to/JS] [why is it so hard to get a programming job?](https://dev.to/rajeshbyreddy95/why-is-it-so-hard-to-get-a-programming-job-52fh)
 - [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)
 - [Dev.to/JS] [All used cars](https://dev.to/allusedcars/all-used-cars-5in)
@@ -40,11 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 ways to create an Object in JavaScript](https://dev.to/jayanthbabu123/5-ways-to-create-an-object-in-javascript-2g0n)
 - [Lifehacker] [Simple Ways to ‘Vegan-ize’ Your Classic Thanksgiving Recipes](https://lifehacker.com/use-these-three-ingredients-to-easily-vegan-ize-your-fa-1848105033)
 - [Lifehacker] [A Step-by-Step Guide to Carving the Perfect Thanksgiving Turkey](https://lifehacker.com/food-drink/best-way-to-carve-thanksgiving-turkey)
-- [Dev.to/JS] [JSON in JavaScript and PHP: Read, Get, Send, Convert [BASICS]](https://dev.to/webdeasy/json-in-javascript-and-php-read-get-send-convert-basics-1cf6)
-- [Dev.to/JS] [Hygen - Never Repeat your frontend tasks](https://dev.to/__junaidshah/hygen-never-repeat-your-frontend-tasks-1jcb)
 - [Lifehacker] [The Best Turkey Dry Brine Recipe Is a Simple Ratio](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
-- [Dev.to/JS] [⚙️ Binary Search Finding Max/Min Template in Javascript](https://dev.to/raaynaldo/binary-search-finding-maxmin-template-in-javascript-1de7)
-- [Dev.to/JS] [Fullstackopen Summary Part 3](https://dev.to/acesif/fullstackopen-summary-part-3-4j09)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
 - [Lifehacker] [How to Deep Fry a Turkey &lpar;but I Wish You Wouldn’t&rpar;](https://lifehacker.com/deep-fried-turkey-recipe)
 - [Lifehacker] [Anyone Can Make This Simple Roast Turkey](https://lifehacker.com/simple-roast-turkey-recipe)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Consolidate Your Debt](https://lifehacker.com/money/the-pros-and-cons-of-debt-consolidation)
 - [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
 - [Lifehacker] [You Can Now Save TikTok Songs to Spotify and Apple Music](https://lifehacker.com/tech/how-to-save-songs-from-tiktok-spotify-apple-music)
-- [Lifehacker] [Best Buy Has the Microsoft Surface Pro 9 at Its Lowest Price Ever](https://lifehacker.com/tech/best-buy-surface-pro-9-black-friday-deal)
-- [Lifehacker] [Outlet Grocery Stores Can Save You a Ton of Money](https://lifehacker.com/money/why-shop-outlet-grocery-stores)
-- [Lifehacker] [38 of the Best New Movies You Can Stream Right Now](https://lifehacker.com/best-new-movies-streaming-now)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Best Buy Has the Microsoft Surface Pro 9 at Its Lowest Price Ever](https://lifehacker.com/tech/best-buy-surface-pro-9-black-friday-deal)<!-- TECH-POSTS:END -->
 
 ---
 
