@@ -26,7 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Download Free programing Course As we Offer In Paid](https://dev.to/jamil786/download-free-programing-course-as-we-offer-in-paid-339m)
+- [Dev.to/JS] [Are crash courses for tech newbies?](https://dev.to/doyinaluko/are-crash-courses-for-tech-newbies-1196)
+- [Dev.to/JS] [Performance Monitoring for Every Developer: Web Vitals &amp; Function Regression Issues](https://dev.to/sentry/performance-monitoring-for-every-developer-web-vitals-function-regression-issues-26j2)
+- [Lifehacker] [The &#39;123&#39; Method Can Help You Recall What You&#39;ve Studied](https://lifehacker.com/family/123-study-method)
+- [Dev.to/JS] [Navigating the Web: Unleashing is.firefox and is.not_firefox with &#39;thiis&#39;](https://dev.to/karbashevskyi/navigating-the-web-unleashing-isfirefox-and-isnotfirefox-with-thiis-1a88)
+- [Dev.to/JS] [Contador de Distancias espaciais](https://dev.to/kauanfernando/contador-de-distancias-espaciais-3ane)
+- [Dev.to/JS] [Create an SVG Fractal Tree by Writing a Recursive Function - Easy JavaScript Tutorial](https://dev.to/piko/i-am-very-excited-i-wrote-a-simple-function-that-generates-fractal-trees-3986)
 - [Dev.to/JS] [Which should you use? Array.from vs. Spread Operator](https://dev.to/gingerchew/which-should-you-use-arrayfrom-vs-spread-operator-4d6a)
+- [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Right Now](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
 - [Dev.to/JS] [Popular Apps Created Using React Native](https://dev.to/nandinishinduja/popular-apps-created-using-react-native-1oi0)
 - [Dev.to/JS] [Launching dev containers from code - is impossible?](https://dev.to/michidk/launching-dev-containers-from-code-is-impossible-3efa)
 - [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)
@@ -35,15 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [why is it so hard to get a programming job?](https://dev.to/rajeshbyreddy95/why-is-it-so-hard-to-get-a-programming-job-52fh)
 - [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)
 - [Dev.to/JS] [All used cars](https://dev.to/allusedcars/all-used-cars-5in)
-- [Dev.to/JS] [Vue 3 Best Practices, Write a Better Code](https://dev.to/adnanbabakan/vue-3-best-practices-write-a-better-code-2abc)
-- [Dev.to/JS] [How to Make OpenAI API to Return JSON](https://dev.to/bolshchikov/how-to-make-openai-api-to-return-json-1hpi)
-- [Dev.to/JS] [Day 88: Manifest](https://dev.to/dhrn/day-88-manifest-eo8)
 - [Lifehacker] [This Easy Cranberry Sauce Recipe Is Ripe for Riffing](https://lifehacker.com/food-drink/easy-thanksgiving-cranberry-sauce-recipe)
 - [Lifehacker] [These Thanksgiving Dishes Are Sure to Satisfy Your Vegan Guests](https://lifehacker.com/9-thanksgiving-dishes-your-vegan-guests-will-love-1848083265)
-- [Dev.to/JS] [A Guide to Debouncing in JavaScript and React | Create a Custom Hook](https://dev.to/knirmalkumar/a-guide-to-debouncing-in-javascript-and-react-create-a-custom-hook-4lcf)
-- [Dev.to/JS] [Cómo instalar JEST en un proyecto con ECMAScript Modules &lpar;import/export&rpar;](https://dev.to/davichobits/como-instalar-jest-en-un-proyecto-con-ecmascript-modules-importexport-27e0)
 - [Lifehacker] [How to Make a Damn Good Gravy](https://lifehacker.com/easy-gravy-recipe-for-thanksgiving)
-- [Dev.to/JS] [5 ways to create an Object in JavaScript](https://dev.to/jayanthbabu123/5-ways-to-create-an-object-in-javascript-2g0n)
 - [Lifehacker] [Simple Ways to ‘Vegan-ize’ Your Classic Thanksgiving Recipes](https://lifehacker.com/use-these-three-ingredients-to-easily-vegan-ize-your-fa-1848105033)
 - [Lifehacker] [A Step-by-Step Guide to Carving the Perfect Thanksgiving Turkey](https://lifehacker.com/food-drink/best-way-to-carve-thanksgiving-turkey)
 - [Lifehacker] [The Best Turkey Dry Brine Recipe Is a Simple Ratio](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
 - [Lifehacker] [Welcome to the New Lifehacker](https://lifehacker.com/work/welcome-to-the-new-lifehacker)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Consolidate Your Debt](https://lifehacker.com/money/the-pros-and-cons-of-debt-consolidation)
-- [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)
-- [Lifehacker] [You Can Now Save TikTok Songs to Spotify and Apple Music](https://lifehacker.com/tech/how-to-save-songs-from-tiktok-spotify-apple-music)
-- [Lifehacker] [Best Buy Has the Microsoft Surface Pro 9 at Its Lowest Price Ever](https://lifehacker.com/tech/best-buy-surface-pro-9-black-friday-deal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)<!-- TECH-POSTS:END -->
 
 ---
 
