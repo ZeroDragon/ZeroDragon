@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [why is it so hard to get a programming job?](https://dev.to/rajeshbyreddy95/why-is-it-so-hard-to-get-a-programming-job-52fh)
+- [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)
+- [Dev.to/JS] [All used cars](https://dev.to/allusedcars/all-used-cars-5in)
+- [Dev.to/JS] [Vue 3 Best Practices, Write a Better Code](https://dev.to/adnanbabakan/vue-3-best-practices-write-a-better-code-2abc)
+- [Dev.to/JS] [How to Make OpenAI API to Return JSON](https://dev.to/bolshchikov/how-to-make-openai-api-to-return-json-1hpi)
 - [Dev.to/JS] [Day 88: Manifest](https://dev.to/dhrn/day-88-manifest-eo8)
-- [Dev.to/JS] [Download Paid &lpar;MIT&rpar; Programming Courses for free!!](https://dev.to/adeel444/download-paid-mit-programming-courses-for-free-49hk)
+- [Lifehacker] [This Easy Cranberry Sauce Recipe Is Ripe for Riffing](https://lifehacker.com/food-drink/easy-thanksgiving-cranberry-sauce-recipe)
 - [Lifehacker] [These Thanksgiving Dishes Are Sure to Satisfy Your Vegan Guests](https://lifehacker.com/9-thanksgiving-dishes-your-vegan-guests-will-love-1848083265)
 - [Dev.to/JS] [A Guide to Debouncing in JavaScript and React | Create a Custom Hook](https://dev.to/knirmalkumar/a-guide-to-debouncing-in-javascript-and-react-create-a-custom-hook-4lcf)
 - [Dev.to/JS] [Cómo instalar JEST en un proyecto con ECMAScript Modules &lpar;import/export&rpar;](https://dev.to/davichobits/como-instalar-jest-en-un-proyecto-con-ecmascript-modules-importexport-27e0)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Turkey Dry Brine Recipe Is a Simple Ratio](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
 - [Dev.to/JS] [⚙️ Binary Search Finding Max/Min Template in Javascript](https://dev.to/raaynaldo/binary-search-finding-maxmin-template-in-javascript-1de7)
 - [Dev.to/JS] [Fullstackopen Summary Part 3](https://dev.to/acesif/fullstackopen-summary-part-3-4j09)
-- [Dev.to/JS] [RiotJS + ViteJS tutorial](https://dev.to/steeve/riotjs-vitejs-tutorial-fpn)
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
-- [Dev.to/JS] [[Javascript] - Data dictionary](https://dev.to/bruno8moura/javascript-data-dictionary-4p7f)
-- [Dev.to/JS] [YouTube to MP3](https://dev.to/yttomp3/youtube-to-mp3-44o8)
 - [Lifehacker] [How to Deep Fry a Turkey &lpar;but I Wish You Wouldn’t&rpar;](https://lifehacker.com/deep-fried-turkey-recipe)
 - [Lifehacker] [Anyone Can Make This Simple Roast Turkey](https://lifehacker.com/simple-roast-turkey-recipe)
 - [Lifehacker] [A Complete Timeline for Getting Thanksgiving Dinner Prepared, Served, and Cleaned Up](https://lifehacker.com/timeline-for-thanksgiving-dinner-preparation)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Save TikTok Songs to Spotify and Apple Music](https://lifehacker.com/tech/how-to-save-songs-from-tiktok-spotify-apple-music)
 - [Lifehacker] [Best Buy Has the Microsoft Surface Pro 9 at Its Lowest Price Ever](https://lifehacker.com/tech/best-buy-surface-pro-9-black-friday-deal)
 - [Lifehacker] [Outlet Grocery Stores Can Save You a Ton of Money](https://lifehacker.com/money/why-shop-outlet-grocery-stores)
-- [Lifehacker] [38 of the Best New Movies You Can Stream Right Now](https://lifehacker.com/best-new-movies-streaming-now)
-- [Lifehacker] [My Essentials for the Best Night&#39;s Sleep Ever](https://lifehacker.com/home/best-sleep-essentials)
-- [Lifehacker] [Venmo May Have Just Killed Splitwise](https://lifehacker.com/tech/venmo-killed-splitwise)<!-- TECH-POSTS:END -->
+- [Lifehacker] [38 of the Best New Movies You Can Stream Right Now](https://lifehacker.com/best-new-movies-streaming-now)<!-- TECH-POSTS:END -->
 
 ---
 
