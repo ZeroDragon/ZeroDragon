@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;Mastering Modern Web Development: Why TypeScript is Essential for JavaScript Developers 🚀&quot;](https://dev.to/gautammanak1/mastering-modern-web-development-why-typescript-is-essential-for-javascript-developers--18i7)
+- [Dev.to/JS] [[Video] Introduction to Backend for Frontend Developers](https://dev.to/tahazsh/video-introduction-to-backend-for-frontend-developers-5hmi)
+- [Dev.to/JS] [Javascript Proxy Magic: How I built a 2kB state manager with zero dependencies &lpar;and how it got me two different job offers&rpar;](https://dev.to/lnahrf/javascript-proxy-magic-how-i-built-a-2kb-state-manager-with-zero-dependencies-and-how-it-got-me-two-different-job-offers-2539)
+- [Dev.to/JS] [Day 5: Apni Canteen-Food Delivery App Using React Native And Sanity](https://dev.to/codewithtee/day-5-apni-canteen-food-delivery-app-using-react-native-and-sanity-4n0d)
 - [Dev.to/JS] [ESPC 2023: How to Spice Up Your Meetings with Microsoft Teams Meeting Extensions](https://dev.to/kasuken/espc-2023-how-to-spice-up-your-meetings-with-microsoft-teams-meeting-extensions-20kg)
 - [Dev.to/JS] [The Number Guessing Game ⁉️🤔](https://dev.to/francismacaspac/guess-the-number-game-1p9m)
 - [Dev.to/JS] [E: Unable to lock directory /var/lib/apt/lists/](https://dev.to/karakib2k18/e-unable-to-lock-directory-varlibaptlists-2i0h)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to install MongoDB 6 on Ubuntu 22.04 LTS Linux &lpar;2023&rpar;](https://dev.to/karakib2k18/how-to-install-mongodb-6-on-ubuntu-2204-lts-linux-2023-2b32)
 - [Dev.to/JS] [click here to learn 10 tips of python](https://dev.to/alexahenry21/click-here-to-learn-10-tips-of-python-3j0h)
 - [Dev.to/JS] [Coordenadas de elementos con JS.](https://dev.to/cesar_ramez/coordenadas-de-elementos-con-js-5am)
-- [Dev.to/JS] [UI Components in React Native](https://dev.to/nandinishinduja/ui-components-in-react-native-357o)
-- [Dev.to/JS] [UI Components in React Native](https://dev.to/nandinishinduja/ui-components-in-react-native-19dh)
-- [Dev.to/JS] [🚀 7 Courses to Help You Master JavaScript](https://dev.to/curricular/7-courses-to-help-you-master-javascript-5dnl)
-- [Dev.to/JS] [Build a Random Quote Generator in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/build-a-random-quote-generator-in-html-css-javascript-45oj)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 15, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-wednesda-1851012959)
 - [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
 - [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
