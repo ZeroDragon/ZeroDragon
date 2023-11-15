@@ -26,11 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 88: Manifest](https://dev.to/dhrn/day-88-manifest-eo8)
+- [Dev.to/JS] [Download Paid &lpar;MIT&rpar; Programming Courses for free!!](https://dev.to/adeel444/download-paid-mit-programming-courses-for-free-49hk)
+- [Lifehacker] [These Thanksgiving Dishes Are Sure to Satisfy Your Vegan Guests](https://lifehacker.com/9-thanksgiving-dishes-your-vegan-guests-will-love-1848083265)
+- [Dev.to/JS] [A Guide to Debouncing in JavaScript and React | Create a Custom Hook](https://dev.to/knirmalkumar/a-guide-to-debouncing-in-javascript-and-react-create-a-custom-hook-4lcf)
+- [Dev.to/JS] [Cómo instalar JEST en un proyecto con ECMAScript Modules &lpar;import/export&rpar;](https://dev.to/davichobits/como-instalar-jest-en-un-proyecto-con-ecmascript-modules-importexport-27e0)
+- [Lifehacker] [How to Make a Damn Good Gravy](https://lifehacker.com/easy-gravy-recipe-for-thanksgiving)
 - [Dev.to/JS] [5 ways to create an Object in JavaScript](https://dev.to/jayanthbabu123/5-ways-to-create-an-object-in-javascript-2g0n)
 - [Lifehacker] [Simple Ways to ‘Vegan-ize’ Your Classic Thanksgiving Recipes](https://lifehacker.com/use-these-three-ingredients-to-easily-vegan-ize-your-fa-1848105033)
 - [Lifehacker] [A Step-by-Step Guide to Carving the Perfect Thanksgiving Turkey](https://lifehacker.com/food-drink/best-way-to-carve-thanksgiving-turkey)
 - [Dev.to/JS] [JSON in JavaScript and PHP: Read, Get, Send, Convert [BASICS]](https://dev.to/webdeasy/json-in-javascript-and-php-read-get-send-convert-basics-1cf6)
-- [Dev.to/JS] [Download Free Programing Course As we Offer in Paid](https://dev.to/achi4/download-free-programing-course-as-we-offer-in-paid-3bph)
 - [Dev.to/JS] [Hygen - Never Repeat your frontend tasks](https://dev.to/__junaidshah/hygen-never-repeat-your-frontend-tasks-1jcb)
 - [Lifehacker] [The Best Turkey Dry Brine Recipe Is a Simple Ratio](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
 - [Dev.to/JS] [⚙️ Binary Search Finding Max/Min Template in Javascript](https://dev.to/raaynaldo/binary-search-finding-maxmin-template-in-javascript-1de7)
@@ -41,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [YouTube to MP3](https://dev.to/yttomp3/youtube-to-mp3-44o8)
 - [Lifehacker] [How to Deep Fry a Turkey &lpar;but I Wish You Wouldn’t&rpar;](https://lifehacker.com/deep-fried-turkey-recipe)
 - [Lifehacker] [Anyone Can Make This Simple Roast Turkey](https://lifehacker.com/simple-roast-turkey-recipe)
-- [Dev.to/JS] [How to Start Freelancing - Top Tips for beginners](https://dev.to/brendamichellle/how-to-start-freelancing-top-tips-for-beginners-2f59)
 - [Lifehacker] [A Complete Timeline for Getting Thanksgiving Dinner Prepared, Served, and Cleaned Up](https://lifehacker.com/timeline-for-thanksgiving-dinner-preparation)
-- [Dev.to/JS] [Responsive Layout with Typing Text Effect](https://dev.to/divinector/responsive-layout-with-typing-text-effect-31na)
-- [Dev.to/JS] [Kicking the tires with NestJS and Hotwire: Part II](https://dev.to/mrispoli24/kicking-the-tires-with-nestjs-and-hotwire-part-ii-33fh)
 - [Lifehacker] [Welcome to ‘The Right Stuffing,’ Your Complete Guide to Preparing Thanksgiving Dinner](https://lifehacker.com/food-drink/thanksgiving-holiday-meal-preparation-guide)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 15, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-wednesda-1851012959)
 - [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Outlet Grocery Stores Can Save You a Ton of Money](https://lifehacker.com/money/why-shop-outlet-grocery-stores)
 - [Lifehacker] [38 of the Best New Movies You Can Stream Right Now](https://lifehacker.com/best-new-movies-streaming-now)
 - [Lifehacker] [My Essentials for the Best Night&#39;s Sleep Ever](https://lifehacker.com/home/best-sleep-essentials)
-- [Lifehacker] [Venmo May Have Just Killed Splitwise](https://lifehacker.com/tech/venmo-killed-splitwise)
-- [Lifehacker] [The Best Educational Streaming Services for Kids and Adults Alike](https://lifehacker.com/best-educational-streaming-services)
-- [Lifehacker] [Give Your Sweet Potato Casserole the Loaded Baked Potato Treatment](https://lifehacker.com/food-drink/loaded-sweet-potato-casserole-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Venmo May Have Just Killed Splitwise](https://lifehacker.com/tech/venmo-killed-splitwise)<!-- TECH-POSTS:END -->
 
 ---
 
