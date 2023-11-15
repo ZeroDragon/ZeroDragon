@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [doIf &lpar;if/then/else&rpar;: JavaScript Functional Programming](https://dev.to/oculus42/doif-ifthenelse-javascript-functional-programming-4ni)
+- [Lifehacker] [You Can Use Your Wood Stove to Heat Multiple Room](https://lifehacker.com/home/heat-home-wood-stove)
+- [Dev.to/JS] [Building Rate Limiter based on IP Address with Netlify Blobs and Edge Functions](https://dev.to/reeshee/building-rate-limiter-based-on-ip-address-with-netlify-blobs-and-edge-functions-2bd6)
+- [Dev.to/JS] [Graph Library graphjs-react updated to 1.0.3](https://dev.to/gokhanergentech/graph-library-graphjs-react-updated-to-103-159a)
+- [Lifehacker] [You Can Remove That Watermark From Reddit Images](https://lifehacker.com/tech/remove-reddit-watermark-images)
 - [Dev.to/JS] [Download Free programing Course As we Offer In Paid](https://dev.to/jamil786/download-free-programing-course-as-we-offer-in-paid-339m)
 - [Dev.to/JS] [Are crash courses for tech newbies?](https://dev.to/doyinaluko/are-crash-courses-for-tech-newbies-1196)
 - [Dev.to/JS] [Performance Monitoring for Every Developer: Web Vitals &amp; Function Regression Issues](https://dev.to/sentry/performance-monitoring-for-every-developer-web-vitals-function-regression-issues-26j2)
@@ -38,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Popular Apps Created Using React Native](https://dev.to/nandinishinduja/popular-apps-created-using-react-native-1oi0)
 - [Dev.to/JS] [Launching dev containers from code - is impossible?](https://dev.to/michidk/launching-dev-containers-from-code-is-impossible-3efa)
 - [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)
-- [Dev.to/JS] [Dynamic destructuring JavaScript](https://dev.to/walesgator/dynamic-destructuring-javascript-1b14)
 - [Lifehacker] [It’s Official: These Are the Best Thanksgiving Side Dishes](https://lifehacker.com/best-thanksgiving-side-dishes)
-- [Dev.to/JS] [why is it so hard to get a programming job?](https://dev.to/rajeshbyreddy95/why-is-it-so-hard-to-get-a-programming-job-52fh)
 - [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)
-- [Dev.to/JS] [All used cars](https://dev.to/allusedcars/all-used-cars-5in)
 - [Lifehacker] [This Easy Cranberry Sauce Recipe Is Ripe for Riffing](https://lifehacker.com/food-drink/easy-thanksgiving-cranberry-sauce-recipe)
 - [Lifehacker] [These Thanksgiving Dishes Are Sure to Satisfy Your Vegan Guests](https://lifehacker.com/9-thanksgiving-dishes-your-vegan-guests-will-love-1848083265)
 - [Lifehacker] [How to Make a Damn Good Gravy](https://lifehacker.com/easy-gravy-recipe-for-thanksgiving)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Leonid Meteor Shower Is Coming This Weekend](https://lifehacker.com/science/leonid-showers-viewing)
 - [Lifehacker] [Here&#39;s How to Fix a Pixel Phone Stuck in a Bootloop](https://lifehacker.com/tech/pixel-phone-bootloop-fix)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
-- [Lifehacker] [Welcome to the New Lifehacker](https://lifehacker.com/work/welcome-to-the-new-lifehacker)
-- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; Consolidate Your Debt](https://lifehacker.com/money/the-pros-and-cons-of-debt-consolidation)
-- [Lifehacker] [You Can Get This 4K Smart Samsung Gaming Monitor for 50% Off](https://lifehacker.com/you-can-get-this-4k-smart-samsung-gaming-monitor-for-50-1850929682)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Welcome to the New Lifehacker](https://lifehacker.com/work/welcome-to-the-new-lifehacker)<!-- TECH-POSTS:END -->
 
 ---
 
