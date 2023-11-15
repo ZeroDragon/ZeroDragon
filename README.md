@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 ways to create an Object in JavaScript](https://dev.to/jayanthbabu123/5-ways-to-create-an-object-in-javascript-2g0n)
+- [Lifehacker] [Simple Ways to ‘Vegan-ize’ Your Classic Thanksgiving Recipes](https://lifehacker.com/use-these-three-ingredients-to-easily-vegan-ize-your-fa-1848105033)
+- [Lifehacker] [A Step-by-Step Guide to Carving the Perfect Thanksgiving Turkey](https://lifehacker.com/food-drink/best-way-to-carve-thanksgiving-turkey)
+- [Dev.to/JS] [JSON in JavaScript and PHP: Read, Get, Send, Convert [BASICS]](https://dev.to/webdeasy/json-in-javascript-and-php-read-get-send-convert-basics-1cf6)
+- [Dev.to/JS] [Download Free Programing Course As we Offer in Paid](https://dev.to/achi4/download-free-programing-course-as-we-offer-in-paid-3bph)
 - [Dev.to/JS] [Hygen - Never Repeat your frontend tasks](https://dev.to/__junaidshah/hygen-never-repeat-your-frontend-tasks-1jcb)
+- [Lifehacker] [The Best Turkey Dry Brine Recipe Is a Simple Ratio](https://lifehacker.com/this-is-how-much-salt-you-need-to-dry-brine-a-turkey-1849770121)
 - [Dev.to/JS] [⚙️ Binary Search Finding Max/Min Template in Javascript](https://dev.to/raaynaldo/binary-search-finding-maxmin-template-in-javascript-1de7)
 - [Dev.to/JS] [Fullstackopen Summary Part 3](https://dev.to/acesif/fullstackopen-summary-part-3-4j09)
 - [Dev.to/JS] [RiotJS + ViteJS tutorial](https://dev.to/steeve/riotjs-vitejs-tutorial-fpn)
@@ -40,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Responsive Layout with Typing Text Effect](https://dev.to/divinector/responsive-layout-with-typing-text-effect-31na)
 - [Dev.to/JS] [Kicking the tires with NestJS and Hotwire: Part II](https://dev.to/mrispoli24/kicking-the-tires-with-nestjs-and-hotwire-part-ii-33fh)
 - [Lifehacker] [Welcome to ‘The Right Stuffing,’ Your Complete Guide to Preparing Thanksgiving Dinner](https://lifehacker.com/food-drink/thanksgiving-holiday-meal-preparation-guide)
-- [Dev.to/JS] [⭐7 Useful JavaScript One-Liner Code Tricks ✨](https://dev.to/todayscode14/7-useful-javascript-one-liner-code-tricks-o8i)
-- [Dev.to/JS] [Need for English Language Lab in Educational Institutes](https://dev.to/languagelab01/need-for-english-language-lab-in-educational-institutes-15al)
-- [Dev.to/JS] [The Power of Traces: Learn by Contributing to OpenTelemetry](https://dev.to/kubeshop/the-power-of-traces-learn-by-contributing-to-opentelemetry-2ii9)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 15, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-wednesda-1851012959)
 - [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
 - [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Essentials for the Best Night&#39;s Sleep Ever](https://lifehacker.com/home/best-sleep-essentials)
 - [Lifehacker] [Venmo May Have Just Killed Splitwise](https://lifehacker.com/tech/venmo-killed-splitwise)
 - [Lifehacker] [The Best Educational Streaming Services for Kids and Adults Alike](https://lifehacker.com/best-educational-streaming-services)
-- [Lifehacker] [Give Your Sweet Potato Casserole the Loaded Baked Potato Treatment](https://lifehacker.com/food-drink/loaded-sweet-potato-casserole-recipe)
-- [Lifehacker] [Ten of the Best Offbeat Advent and Holiday Gift Calendars](https://lifehacker.com/money/unique-advent-holiday-calendars)
-- [Lifehacker] [The Biggest Differences Between the Steam Deck OLED and Steam Deck LCD](https://lifehacker.com/tech/steam-deck-oled-vs-steam-deck-lcd)
-- [Lifehacker] [How to Protect Your Parents From Elder Fraud and Scams](https://lifehacker.com/family/protect-parents-and-grandparents-from-elder-fraud)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Give Your Sweet Potato Casserole the Loaded Baked Potato Treatment](https://lifehacker.com/food-drink/loaded-sweet-potato-casserole-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
