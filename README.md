@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Node.js and Microservices: Unlocking Scalability and Flexibility in Fintech&quot;](https://dev.to/dashdevs/nodejs-and-microservices-unlocking-scalability-and-flexibility-in-fintech-3ekc)
+- [Dev.to/JS] [Creating Custom Hooks in React: Enhancing Component Reusability with Audio Playback](https://dev.to/ichintansoni/creating-custom-hooks-in-react-enhancing-component-reusability-with-audio-playback-39mh)
+- [Dev.to/JS] [Node.js and Microservices: Unlocking Scalability and Flexibility in Fintech](https://dev.to/dashdevs/nodejs-and-microservices-unlocking-scalability-and-flexibility-in-fintech-3ekc)
 - [Dev.to/JS] [Integrating Bun with Vite Ruby for Lightning-Fast Frontend Builds](https://dev.to/pftg/integrating-bun-with-vite-ruby-for-lightning-fast-frontend-builds-1fh2)
 - [Dev.to/JS] [&quot;Mastering Modern Web Development: Why TypeScript is Essential for JavaScript Developers 🚀&quot;](https://dev.to/gautammanak1/mastering-modern-web-development-why-typescript-is-essential-for-javascript-developers--18i7)
 - [Dev.to/JS] [[Video] Introduction to Backend for Frontend Developers](https://dev.to/tahazsh/video-introduction-to-backend-for-frontend-developers-5hmi)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [E: Unable to lock directory /var/lib/apt/lists/](https://dev.to/karakib2k18/e-unable-to-lock-directory-varlibaptlists-2i0h)
 - [Dev.to/JS] [Exploring TypeScript’s Potential: Mastering Value-Based Typing](https://dev.to/sukhejavarun/exploring-typescripts-potential-mastering-value-based-typing-5f2f)
 - [Dev.to/JS] [💻 Web Development Resources #174](https://dev.to/vincenius/web-development-resources-174-fn8)
-- [Dev.to/JS] [How to install MongoDB 6 on Ubuntu 22.04 LTS Linux &lpar;2023&rpar;](https://dev.to/karakib2k18/how-to-install-mongodb-6-on-ubuntu-2204-lts-linux-2023-2b32)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 15, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-wednesda-1851012959)
 - [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
 - [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
