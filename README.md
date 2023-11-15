@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
 - [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
 - [Dev.to/JS] [Integrating CI Workflow in my project](https://dev.to/sdthaker/integrating-ci-workflow-in-my-project-25b3)
 - [Lifehacker] [The Biggest Differences Between the Galaxy S23 FE and Galaxy S23](https://lifehacker.com/tech/galaxy-s23-fe-vs-galaxy-s23-comparison)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 14, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-tuesday-1851012788)
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
 - [Lifehacker] [When to Buy the Steam Deck OLED, and When to Buy the Switch OLED](https://lifehacker.com/tech/steam-deck-oled-vs-switch-oled)
-- [Lifehacker] [This Is the Best Nintendo Switch OLED Black Friday Deal so Far](https://lifehacker.com/entertainment/best-nintendo-switch-oled-black-friday-deal)
-- [Lifehacker] [There&#39;s a Faster Way to Type Anything on an iPhone](https://lifehacker.com/tech/fastest-way-to-type-on-iphone)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Best Nintendo Switch OLED Black Friday Deal so Far](https://lifehacker.com/entertainment/best-nintendo-switch-oled-black-friday-deal)<!-- TECH-POSTS:END -->
 
 ---
 
