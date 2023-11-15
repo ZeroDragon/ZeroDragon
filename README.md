@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hygen - Never Repeat your frontend tasks](https://dev.to/__junaidshah/hygen-never-repeat-your-frontend-tasks-1jcb)
+- [Dev.to/JS] [⚙️ Binary Search Finding Max/Min Template in Javascript](https://dev.to/raaynaldo/binary-search-finding-maxmin-template-in-javascript-1de7)
+- [Dev.to/JS] [Fullstackopen Summary Part 3](https://dev.to/acesif/fullstackopen-summary-part-3-4j09)
 - [Dev.to/JS] [RiotJS + ViteJS tutorial](https://dev.to/steeve/riotjs-vitejs-tutorial-fpn)
+- [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
 - [Dev.to/JS] [[Javascript] - Data dictionary](https://dev.to/bruno8moura/javascript-data-dictionary-4p7f)
 - [Dev.to/JS] [YouTube to MP3](https://dev.to/yttomp3/youtube-to-mp3-44o8)
 - [Lifehacker] [How to Deep Fry a Turkey &lpar;but I Wish You Wouldn’t&rpar;](https://lifehacker.com/deep-fried-turkey-recipe)
@@ -39,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⭐7 Useful JavaScript One-Liner Code Tricks ✨](https://dev.to/todayscode14/7-useful-javascript-one-liner-code-tricks-o8i)
 - [Dev.to/JS] [Need for English Language Lab in Educational Institutes](https://dev.to/languagelab01/need-for-english-language-lab-in-educational-institutes-15al)
 - [Dev.to/JS] [The Power of Traces: Learn by Contributing to OpenTelemetry](https://dev.to/kubeshop/the-power-of-traces-learn-by-contributing-to-opentelemetry-2ii9)
-- [Dev.to/JS] [Pesky common issues developers have with most dependencies and how MDB fixes them #1](https://dev.to/mdbootstrap/pesky-common-issues-developers-have-with-most-dependencies-and-how-mdb-fixes-them-1-2hm5)
-- [Dev.to/JS] [EVENTS AND EVENT LISTENERS EXPLAINED TO A DUCK quack quack!!](https://dev.to/mkobimbo/events-and-event-listeners-explained-to-a-duck-quack-quack-36en)
-- [Dev.to/JS] [Creating Custom Hooks in React: Enhancing Component Reusability with Audio Playback](https://dev.to/ichintansoni/creating-custom-hooks-in-react-enhancing-component-reusability-with-audio-playback-39mh)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 15, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-wednesda-1851012959)
 - [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
 - [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Give Your Sweet Potato Casserole the Loaded Baked Potato Treatment](https://lifehacker.com/food-drink/loaded-sweet-potato-casserole-recipe)
 - [Lifehacker] [Ten of the Best Offbeat Advent and Holiday Gift Calendars](https://lifehacker.com/money/unique-advent-holiday-calendars)
 - [Lifehacker] [The Biggest Differences Between the Steam Deck OLED and Steam Deck LCD](https://lifehacker.com/tech/steam-deck-oled-vs-steam-deck-lcd)
-- [Lifehacker] [How to Protect Your Parents From Elder Fraud and Scams](https://lifehacker.com/family/protect-parents-and-grandparents-from-elder-fraud)
-- [Lifehacker] [The Best Alternatives to a Gas-Powered Leaf Blower](https://lifehacker.com/home/best-alternatives-to-gas-powered-leaf-blowers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Protect Your Parents From Elder Fraud and Scams](https://lifehacker.com/family/protect-parents-and-grandparents-from-elder-fraud)<!-- TECH-POSTS:END -->
 
 ---
 
