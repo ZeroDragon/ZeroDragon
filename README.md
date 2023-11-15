@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Start Freelancing - Top Tips for beginners](https://dev.to/brendamichellle/how-to-start-freelancing-top-tips-for-beginners-2f59)
+- [Dev.to/JS] [Responsive Layout with Typing Text Effect](https://dev.to/divinector/responsive-layout-with-typing-text-effect-31na)
+- [Dev.to/JS] [Kicking the tires with NestJS and Hotwire: Part II](https://dev.to/mrispoli24/kicking-the-tires-with-nestjs-and-hotwire-part-ii-33fh)
 - [Dev.to/JS] [⭐7 Useful JavaScript One-Liner Code Tricks ✨](https://dev.to/todayscode14/7-useful-javascript-one-liner-code-tricks-o8i)
 - [Dev.to/JS] [Need for English Language Lab in Educational Institutes](https://dev.to/languagelab01/need-for-english-language-lab-in-educational-institutes-15al)
 - [Dev.to/JS] [The Power of Traces: Learn by Contributing to OpenTelemetry](https://dev.to/kubeshop/the-power-of-traces-learn-by-contributing-to-opentelemetry-2ii9)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js and Microservices: Unlocking Scalability and Flexibility in Fintech](https://dev.to/dashdevs/nodejs-and-microservices-unlocking-scalability-and-flexibility-in-fintech-3ekc)
 - [Dev.to/JS] [Integrating Bun with Vite Ruby for Lightning-Fast Frontend Builds](https://dev.to/jetthoughts/integrating-bun-with-vite-ruby-for-lightning-fast-frontend-builds-1fh2)
 - [Dev.to/JS] [&quot;Mastering Modern Web Development: Why TypeScript is Essential for JavaScript Developers 🚀&quot;](https://dev.to/gautammanak1/mastering-modern-web-development-why-typescript-is-essential-for-javascript-developers--18i7)
-- [Dev.to/JS] [[Video] Introduction to Backend for Frontend Developers](https://dev.to/tahazsh/video-introduction-to-backend-for-frontend-developers-5hmi)
-- [Dev.to/JS] [Javascript Proxy Magic: How I built a 2kB state manager with zero dependencies &lpar;and how it got me two different job offers&rpar;](https://dev.to/lnahrf/javascript-proxy-magic-how-i-built-a-2kb-state-manager-with-zero-dependencies-and-how-it-got-me-two-different-job-offers-2539)
-- [Dev.to/JS] [Day 5: Apni Canteen-Food Delivery App Using React Native And Sanity](https://dev.to/codewithtee/day-5-apni-canteen-food-delivery-app-using-react-native-and-sanity-4n0d)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 15, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-wednesda-1851012959)
 - [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
 - [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
