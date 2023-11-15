@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Random Quote Generator in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/build-a-random-quote-generator-in-html-css-javascript-45oj)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 15, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-wednesda-1851012959)
 - [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
 - [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
@@ -51,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Save TikTok Songs to Spotify and Apple Music](https://lifehacker.com/tech/how-to-save-songs-from-tiktok-spotify-apple-music)
 - [Lifehacker] [Best Buy Has the Microsoft Surface Pro 9 at Its Lowest Price Ever](https://lifehacker.com/tech/best-buy-surface-pro-9-black-friday-deal)
 - [Dev.to/JS] [How to update your SuperViz integration with Matterport to v5](https://dev.to/superviz/how-to-update-your-superviz-integration-with-matterport-to-v5-5b2h)
-- [Dev.to/JS] [Get a Free Glimpse into the World of AI](https://dev.to/soma9khan/get-a-free-glimpse-into-the-world-of-ai-ogg)
 - [Lifehacker] [Outlet Grocery Stores Can Save You a Ton of Money](https://lifehacker.com/money/why-shop-outlet-grocery-stores)
 - [Lifehacker] [38 of the Best New Movies You Can Stream Right Now](https://lifehacker.com/best-new-movies-streaming-now)
 - [Lifehacker] [My Essentials for the Best Night&#39;s Sleep Ever](https://lifehacker.com/home/best-sleep-essentials)
