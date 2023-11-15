@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
+- [Dev.to/JS] [Integrating CI Workflow in my project](https://dev.to/sdthaker/integrating-ci-workflow-in-my-project-25b3)
+- [Lifehacker] [The Biggest Differences Between the Galaxy S23 FE and Galaxy S23](https://lifehacker.com/tech/galaxy-s23-fe-vs-galaxy-s23-comparison)
 - [Dev.to/JS] [Be kind its fast](https://dev.to/eloi162/be-kind-its-fast-198j)
 - [Lifehacker] [You Can Make Beef Wellington, I Swear](https://lifehacker.com/food-drink/beef-wellington-recipe)
 - [Dev.to/JS] [Javascript Proxy Magic: How I built a 2kB state manager with zero dependencies &lpar;and how it got me two different job offers&rpar;](https://dev.to/lnahrf/javascript-proxy-magic-how-i-built-a-2kb-state-manager-with-zero-dependencies-and-how-it-got-me-2-different-job-offers-55ad)
@@ -48,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to update your SuperViz integration with Matterport to v5](https://dev.to/superviz/how-to-update-your-superviz-integration-with-matterport-to-v5-5b2h)
 - [Dev.to/JS] [Get a Free Glimpse into the World of AI](https://dev.to/soma9khan/get-a-free-glimpse-into-the-world-of-ai-ogg)
 - [Lifehacker] [Outlet Grocery Stores Can Save You a Ton of Money](https://lifehacker.com/money/why-shop-outlet-grocery-stores)
-- [Dev.to/JS] [Change the CSS styling of any class using dark mode in React or NextJS](https://dev.to/sufian/change-the-css-styling-of-any-class-using-dark-mode-in-react-or-nextjs-414d)
 - [Lifehacker] [38 of the Best New Movies You Can Stream Right Now](https://lifehacker.com/best-new-movies-streaming-now)
 - [Lifehacker] [My Essentials for the Best Night&#39;s Sleep Ever](https://lifehacker.com/home/best-sleep-essentials)
 - [Lifehacker] [Venmo May Have Just Killed Splitwise](https://lifehacker.com/tech/venmo-killed-splitwise)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Determine the Best Age to Buy an Annuity](https://lifehacker.com/money/best-age-to-buy-an-annuity)
 - [Lifehacker] [When to Buy the Steam Deck OLED, and When to Buy the Switch OLED](https://lifehacker.com/tech/steam-deck-oled-vs-switch-oled)
 - [Lifehacker] [This Is the Best Nintendo Switch OLED Black Friday Deal so Far](https://lifehacker.com/entertainment/best-nintendo-switch-oled-black-friday-deal)
-- [Lifehacker] [There&#39;s a Faster Way to Type Anything on an iPhone](https://lifehacker.com/tech/fastest-way-to-type-on-iphone)
-- [Lifehacker] [These Are The U.S. Cities With the Highest and Lowest Cost of Living](https://lifehacker.com/money/us-cities-with-highest-and-lowest-cost-of-living)
-- [Lifehacker] [These Dietary Supplements Might Actually Help With Migraines](https://lifehacker.com/health/best-dietary-supplements-for-migraines)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There&#39;s a Faster Way to Type Anything on an iPhone](https://lifehacker.com/tech/fastest-way-to-type-on-iphone)<!-- TECH-POSTS:END -->
 
 ---
 
