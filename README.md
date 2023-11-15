@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a fade animation css with Qwik](https://dev.to/nyruchi/how-to-create-a-fade-animation-css-with-qwik-1hie)
+- [Lifehacker] [The Best Places to Order Thanksgiving Dinner To-Go](https://lifehacker.com/food-drink/thanksgiving-dinners-to-go)
+- [Lifehacker] [How to Factory Reset Any Apple TV Device](https://lifehacker.com/tech/how-to-factory-reset-apple-tv-4k)
 - [Dev.to/JS] [doIf &lpar;if/then/else&rpar;: JavaScript Functional Programming](https://dev.to/oculus42/doif-ifthenelse-javascript-functional-programming-4ni)
 - [Lifehacker] [You Can Use Your Wood Stove to Heat Multiple Room](https://lifehacker.com/home/heat-home-wood-stove)
 - [Dev.to/JS] [Building Rate Limiter based on IP Address with Netlify Blobs and Edge Functions](https://dev.to/reeshee/building-rate-limiter-based-on-ip-address-with-netlify-blobs-and-edge-functions-2bd6)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which should you use? Array.from vs. Spread Operator](https://dev.to/gingerchew/which-should-you-use-arrayfrom-vs-spread-operator-4d6a)
 - [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Right Now](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
 - [Dev.to/JS] [Popular Apps Created Using React Native](https://dev.to/nandinishinduja/popular-apps-created-using-react-native-1oi0)
-- [Dev.to/JS] [Launching dev containers from code - is impossible?](https://dev.to/michidk/launching-dev-containers-from-code-is-impossible-3efa)
 - [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)
 - [Lifehacker] [It’s Official: These Are the Best Thanksgiving Side Dishes](https://lifehacker.com/best-thanksgiving-side-dishes)
 - [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Beef Wellington, I Swear](https://lifehacker.com/food-drink/beef-wellington-recipe)
 - [Lifehacker] [Snag a Roomba for up to 50% Off at Amazon](https://lifehacker.com/home/roomba-sales-black-friday)
 - [Lifehacker] [The Leonid Meteor Shower Is Coming This Weekend](https://lifehacker.com/science/leonid-showers-viewing)
-- [Lifehacker] [Here&#39;s How to Fix a Pixel Phone Stuck in a Bootloop](https://lifehacker.com/tech/pixel-phone-bootloop-fix)
-- [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
-- [Lifehacker] [Welcome to the New Lifehacker](https://lifehacker.com/work/welcome-to-the-new-lifehacker)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How to Fix a Pixel Phone Stuck in a Bootloop](https://lifehacker.com/tech/pixel-phone-bootloop-fix)<!-- TECH-POSTS:END -->
 
 ---
 
