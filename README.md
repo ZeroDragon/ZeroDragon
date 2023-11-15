@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring TypeScript’s Potential: Mastering Value-Based Typing](https://dev.to/sukhejavarun/exploring-typescripts-potential-mastering-value-based-typing-5f2f)
+- [Dev.to/JS] [💻 Web Development Resources #174](https://dev.to/vincenius/web-development-resources-174-fn8)
+- [Dev.to/JS] [How to install MongoDB 6 on Ubuntu 22.04 LTS Linux &lpar;2023&rpar;](https://dev.to/karakib2k18/how-to-install-mongodb-6-on-ubuntu-2204-lts-linux-2023-2b32)
 - [Dev.to/JS] [click here to learn 10 tips of python](https://dev.to/alexahenry21/click-here-to-learn-10-tips-of-python-3j0h)
 - [Dev.to/JS] [Coordenadas de elementos con JS.](https://dev.to/cesar_ramez/coordenadas-de-elementos-con-js-5am)
 - [Dev.to/JS] [UI Components in React Native](https://dev.to/nandinishinduja/ui-components-in-react-native-357o)
@@ -40,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Be kind its fast](https://dev.to/eloi162/be-kind-its-fast-198j)
 - [Lifehacker] [You Can Make Beef Wellington, I Swear](https://lifehacker.com/food-drink/beef-wellington-recipe)
 - [Dev.to/JS] [Javascript Proxy Magic: How I built a 2kB state manager with zero dependencies &lpar;and how it got me two different job offers&rpar;](https://dev.to/lnahrf/javascript-proxy-magic-how-i-built-a-2kb-state-manager-with-zero-dependencies-and-how-it-got-me-2-different-job-offers-55ad)
-- [Dev.to/JS] [Always Active](https://dev.to/danielmax/always-active-4ph0)
 - [Lifehacker] [Snag a Roomba for up to 50% Off at Amazon](https://lifehacker.com/home/roomba-sales-black-friday)
-- [Dev.to/JS] [Mastering TypeScript: How Mapped Types Can Streamline Your Code and Prevent Bugs](https://dev.to/maciejwiatr/mastering-typescript-how-mapped-types-can-streamline-your-code-and-prevent-bugs-47m6)
-- [Dev.to/JS] [Git Revert: How to the complete guide](https://dev.to/alakkadshaw/git-revert-how-to-the-complete-guide-nd)
 - [Lifehacker] [The Leonid Meteor Shower Is Coming This Weekend](https://lifehacker.com/science/leonid-showers-viewing)
 - [Lifehacker] [Here&#39;s How to Fix a Pixel Phone Stuck in a Bootloop](https://lifehacker.com/tech/pixel-phone-bootloop-fix)
 - [Lifehacker] [These Are the Best Video Game Console Bundle Deals for Black Friday](https://lifehacker.com/entertainment/best-video-game-console-deals-for-black-friday)
