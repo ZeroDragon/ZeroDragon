@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is the Only Way to Bypass Google Maps&#39; Divisive New Color Scheme](https://lifehacker.com/tech/how-to-change-new-google-maps-colors)
+- [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
+- [Lifehacker] [10 of Best Places to Hide Christmas Gifts Where Your Family Will Never Find Them](https://lifehacker.com/the-best-places-to-hide-christmas-gifts-that-you-never-1848194754)
+- [Lifehacker] [The Pixel 8 Pro is $200 Off for Black Friday](https://lifehacker.com/tech/pixel-8-pro-black-friday-deal)
 - [Dev.to/JS] [Tailwind for React Native](https://dev.to/s-fabian/tailwind-for-react-native-2pmf)
 - [Lifehacker] [Apple Is About to Make Texting an Android Phone Suck Less](https://lifehacker.com/tech/apple-finally-adopts-rsc-messaging)
 - [Dev.to/JS] [How to update your SuperViz integration with ThreeJs to v5](https://dev.to/superviz/how-to-update-your-superviz-integration-with-threejs-to-v5-40lk)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
 - [Lifehacker] [These Are the Best Early Black Friday Vacuum Deals](https://lifehacker.com/home/best-early-black-friday-vacuum-deals)
 - [Lifehacker] [The Best Places to Order Thanksgiving Dinner To-Go](https://lifehacker.com/food-drink/thanksgiving-dinners-to-go)
-- [Lifehacker] [How to Factory Reset Any Apple TV Device](https://lifehacker.com/tech/how-to-factory-reset-apple-tv-4k)
-- [Lifehacker] [You Can Use Your Wood Stove to Heat Multiple Rooms](https://lifehacker.com/home/heat-home-wood-stove)
-- [Lifehacker] [You Can Remove That Watermark From Reddit Images](https://lifehacker.com/tech/remove-reddit-watermark-images)
-- [Lifehacker] [The &#39;123&#39; Method Can Help You Recall What You&#39;ve Studied](https://lifehacker.com/family/123-study-method)
-- [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Right Now](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Factory Reset Any Apple TV Device](https://lifehacker.com/tech/how-to-factory-reset-apple-tv-4k)<!-- TECH-POSTS:END -->
 
 ---
 
