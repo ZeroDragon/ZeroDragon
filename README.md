@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Expense Manager App Using React And TypeScript](https://dev.to/myogeshchavan97/build-expense-manager-app-using-react-and-typescript-46lo)
+- [Dev.to/JS] [How to Use @FindBy Annotation in Selenium Java](https://dev.to/lambdatest/how-to-use-findby-annotation-in-selenium-java-jf4)
+- [Dev.to/JS] [Prompt Engineering](https://dev.to/raimoncoding/prompt-engineering-4jf3)
+- [Dev.to/JS] [Learn JavaScript – Free JS Courses for Beginners](https://dev.to/beverly21/learn-javascript-free-js-courses-for-beginners-336o)
 - [Dev.to/JS] [Getting the ABI and Solidity Contracts Functions with JavaScript: A Developer’s Journey](https://dev.to/mister_g/getting-the-abi-and-solidity-contracts-functions-with-javascript-a-developers-journey-56n2)
 - [Dev.to/JS] [Every e some: os métodos de array em Javascript que respondem &quot;sim&quot; ou &quot;não&quot;](https://dev.to/demenezes/every-e-some-os-metodos-de-array-em-javascript-que-respondem-sim-ou-nao-3n4j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
@@ -43,11 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [doIf &lpar;if/then/else&rpar;: JavaScript Functional Programming](https://dev.to/oculus42/doif-ifthenelse-javascript-functional-programming-4ni)
 - [Lifehacker] [You Can Use Your Wood Stove to Heat Multiple Rooms](https://lifehacker.com/home/heat-home-wood-stove)
 - [Dev.to/JS] [Building Rate Limiter based on IP Address with Netlify Blobs and Edge Functions](https://dev.to/reeshee/building-rate-limiter-based-on-ip-address-with-netlify-blobs-and-edge-functions-2bd6)
-- [Dev.to/JS] [Graph Library graphjs-react updated to 1.0.3](https://dev.to/gokhanergentech/graph-library-graphjs-react-updated-to-103-159a)
 - [Lifehacker] [You Can Remove That Watermark From Reddit Images](https://lifehacker.com/tech/remove-reddit-watermark-images)
-- [Dev.to/JS] [Download Free programing Course As we Offer In Paid](https://dev.to/jamil786/download-free-programing-course-as-we-offer-in-paid-339m)
-- [Dev.to/JS] [Are crash courses for tech newbies?](https://dev.to/doyinaluko/are-crash-courses-for-tech-newbies-1196)
-- [Dev.to/JS] [Performance Monitoring for Every Developer: Web Vitals &amp; Function Regression Issues](https://dev.to/sentry/performance-monitoring-for-every-developer-web-vitals-function-regression-issues-26j2)
 - [Lifehacker] [The &#39;123&#39; Method Can Help You Recall What You&#39;ve Studied](https://lifehacker.com/family/123-study-method)
 - [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Right Now](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
 - [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)
