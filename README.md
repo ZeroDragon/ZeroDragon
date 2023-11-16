@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting the ABI and Solidity Contracts Functions with JavaScript: A Developer’s Journey](https://dev.to/mister_g/getting-the-abi-and-solidity-contracts-functions-with-javascript-a-developers-journey-56n2)
 - [Dev.to/JS] [Every e some: os métodos de array em Javascript que respondem &quot;sim&quot; ou &quot;não&quot;](https://dev.to/demenezes/every-e-some-os-metodos-de-array-em-javascript-que-respondem-sim-ou-nao-3n4j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
 - [Dev.to/JS] [Building Accessible Web Applications with React: A Real-Life Approach &lpar;Part 2&rpar;](https://dev.to/lawrencespractice/building-accessible-web-applications-with-react-a-real-life-approach-part-2-3o29)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Are crash courses for tech newbies?](https://dev.to/doyinaluko/are-crash-courses-for-tech-newbies-1196)
 - [Dev.to/JS] [Performance Monitoring for Every Developer: Web Vitals &amp; Function Regression Issues](https://dev.to/sentry/performance-monitoring-for-every-developer-web-vitals-function-regression-issues-26j2)
 - [Lifehacker] [The &#39;123&#39; Method Can Help You Recall What You&#39;ve Studied](https://lifehacker.com/family/123-study-method)
-- [Dev.to/JS] [Navigating the Web: Unleashing is.firefox and is.not_firefox with &#39;thiis&#39;](https://dev.to/karbashevskyi/navigating-the-web-unleashing-isfirefox-and-isnotfirefox-with-thiis-1a88)
 - [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Right Now](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
 - [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)
 - [Lifehacker] [It’s Official: These Are the Best Thanksgiving Side Dishes](https://lifehacker.com/best-thanksgiving-side-dishes)
