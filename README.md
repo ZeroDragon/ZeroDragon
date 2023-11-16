@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Responsive Space Travel Agency Website | HTML , CSS And JavaScript](https://dev.to/codingcss/build-a-responsive-space-travel-agency-website-html-css-and-javascript-41d)
+- [Dev.to/JS] [Visual Testing for Mobile Apps: How to Get Started](https://dev.to/salmankhan2389/visual-testing-for-mobile-apps-how-to-get-started-4134)
+- [Dev.to/JS] [Introduction of Web and HTML.](https://dev.to/abunasar/introduction-of-web-and-html-2aol)
+- [Dev.to/JS] [Hashing and Verifying Passwords in Mongoose Schemas](https://dev.to/ghostaram/hashing-and-verifying-passwords-in-mongoose-schemas-pl3)
+- [Dev.to/JS] [How to get the count of your followers on dev.to](https://dev.to/tqbit/how-to-get-the-count-of-your-followers-on-devto-d5o)
 - [Dev.to/JS] [10 Tips To Learn Python Esily](https://dev.to/web_programmer/10-tips-to-learn-python-esily-50pj)
 - [Dev.to/JS] [What&#39;s new in Angular 17](https://dev.to/this-is-angular/whats-new-in-angular-17-c81)
 - [Dev.to/JS] [Scop in Javascript with example](https://dev.to/said7388/scop-in-javascript-with-example-1o78)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Telegram for Desktop 4.11.7 + Latest Version Full Download 2023](https://dev.to/sajjad435436/telegram-for-desktop-4117-latest-version-full-download-2023-11ip)
 - [Dev.to/JS] [StopWatt Review: A Consumer Report on Energy-Saving Efficiency](https://dev.to/stopwattreviewsconsumerreport/stopwatt-review-a-consumer-report-on-energy-saving-efficiency-30ef)
 - [Dev.to/JS] [Build Expense Manager App Using React And TypeScript](https://dev.to/myogeshchavan97/build-expense-manager-app-using-react-and-typescript-46lo)
-- [Dev.to/JS] [How to Use @FindBy Annotation in Selenium Java](https://dev.to/lambdatest/how-to-use-findby-annotation-in-selenium-java-jf4)
-- [Dev.to/JS] [Prompt Engineering](https://dev.to/raimoncoding/prompt-engineering-4jf3)
-- [Dev.to/JS] [Learn JavaScript – Free JS Courses for Beginners](https://dev.to/beverly21/learn-javascript-free-js-courses-for-beginners-336o)
-- [Dev.to/JS] [Getting the ABI and Solidity Contracts Functions with JavaScript: A Developer’s Journey](https://dev.to/mister_g/getting-the-abi-and-solidity-contracts-functions-with-javascript-a-developers-journey-56n2)
-- [Dev.to/JS] [Every e some: os métodos de array em Javascript que respondem &quot;sim&quot; ou &quot;não&quot;](https://dev.to/demenezes/every-e-some-os-metodos-de-array-em-javascript-que-respondem-sim-ou-nao-3n4j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
 - [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
 - [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)
