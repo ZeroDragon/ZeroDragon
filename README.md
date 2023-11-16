@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Tips To Learn Python Esily](https://dev.to/web_programmer/10-tips-to-learn-python-esily-50pj)
 - [Dev.to/JS] [What&#39;s new in Angular 17](https://dev.to/this-is-angular/whats-new-in-angular-17-c81)
 - [Dev.to/JS] [Scop in Javascript with example](https://dev.to/said7388/scop-in-javascript-with-example-1o78)
 - [Dev.to/JS] [How did I hit 1000 followers in just 15 days?](https://dev.to/mukeshkuiry/how-did-i-hit-1000-followers-in-just-15-days-2ha4)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting the ABI and Solidity Contracts Functions with JavaScript: A Developer’s Journey](https://dev.to/mister_g/getting-the-abi-and-solidity-contracts-functions-with-javascript-a-developers-journey-56n2)
 - [Dev.to/JS] [Every e some: os métodos de array em Javascript que respondem &quot;sim&quot; ou &quot;não&quot;](https://dev.to/demenezes/every-e-some-os-metodos-de-array-em-javascript-que-respondem-sim-ou-nao-3n4j)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
-- [Dev.to/JS] [Building Accessible Web Applications with React: A Real-Life Approach &lpar;Part 2&rpar;](https://dev.to/lawrencespractice/building-accessible-web-applications-with-react-a-real-life-approach-part-2-3o29)
 - [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
 - [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)
 - [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
