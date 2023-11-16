@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tailwind for React Native](https://dev.to/s-fabian/tailwind-for-react-native-2pmf)
+- [Lifehacker] [Apple Is About to Make Texting an Android Phone Suck Less](https://lifehacker.com/tech/apple-finally-adopts-rsc-messaging)
 - [Dev.to/JS] [How to update your SuperViz integration with ThreeJs to v5](https://dev.to/superviz/how-to-update-your-superviz-integration-with-threejs-to-v5-40lk)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
 - [Dev.to/JS] [Employ iBolt Cyber Hacker for Your Crypto/BTC Reliable Recovery](https://dev.to/georgelhem/employ-ibolt-cyber-hacker-for-your-cryptobtc-reliable-recovery-35aa)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#100daysofcode round #2 day #2](https://dev.to/momandalex022/100daysofcode-round-2-day-2-3fhc)
 - [Lifehacker] [10 of the Best Podcasts to Listen to This Thanksgiving](https://lifehacker.com/entertainment/best-thanksgiving-podcasts)
 - [Dev.to/JS] [Day 89: Share it](https://dev.to/dhrn/day-89-share-405o)
-- [Dev.to/JS] [How to Dynamically Generate Unique ID&#39;s for DOM Elements](https://dev.to/crossthebluesky/how-to-dynamically-generate-unique-ids-for-dom-elements-8d4)
 - [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)
 - [Lifehacker] [Control &lpar;Almost&rpar; All of Your Smart-Home Tech With the Brilliant Home Control Hub](https://lifehacker.com/tech/brilliant-home-control-hub-review)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Danger of Deepfakes](https://lifehacker.com/entertainment/are-deepfakes-dangerous)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use Your Wood Stove to Heat Multiple Rooms](https://lifehacker.com/home/heat-home-wood-stove)
 - [Lifehacker] [You Can Remove That Watermark From Reddit Images](https://lifehacker.com/tech/remove-reddit-watermark-images)
 - [Lifehacker] [The &#39;123&#39; Method Can Help You Recall What You&#39;ve Studied](https://lifehacker.com/family/123-study-method)
-- [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Right Now](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
-- [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Right Now](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)<!-- TECH-POSTS:END -->
 
 ---
 
