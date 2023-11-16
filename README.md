@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🙌 7 Tips to Build Your GitHub Profile Like a PRO 🚀](https://dev.to/quine/7-tips-to-build-your-github-profile-like-a-pro-38bg)
+- [Dev.to/JS] [MDB v7 is coming soon, very soon.](https://dev.to/mdbootstrap/mdb-v7-is-coming-soon-very-soon-1j2e)
 - [Dev.to/JS] [Build a Responsive Space Travel Agency Website | HTML , CSS And JavaScript](https://dev.to/codingcss/build-a-responsive-space-travel-agency-website-html-css-and-javascript-41d)
 - [Dev.to/JS] [Visual Testing for Mobile Apps: How to Get Started](https://dev.to/salmankhan2389/visual-testing-for-mobile-apps-how-to-get-started-4134)
 - [Dev.to/JS] [Introduction of Web and HTML.](https://dev.to/abunasar/introduction-of-web-and-html-2aol)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scop in Javascript with example](https://dev.to/said7388/scop-in-javascript-with-example-1o78)
 - [Dev.to/JS] [How did I hit 1000 followers in just 15 days?](https://dev.to/mukeshkuiry/how-did-i-hit-1000-followers-in-just-15-days-2ha4)
 - [Dev.to/JS] [Telegram for Desktop 4.11.7 + Latest Version Full Download 2023](https://dev.to/sajjad435436/telegram-for-desktop-4117-latest-version-full-download-2023-11ip)
-- [Dev.to/JS] [StopWatt Review: A Consumer Report on Energy-Saving Efficiency](https://dev.to/stopwattreviewsconsumerreport/stopwatt-review-a-consumer-report-on-energy-saving-efficiency-30ef)
-- [Dev.to/JS] [Build Expense Manager App Using React And TypeScript](https://dev.to/myogeshchavan97/build-expense-manager-app-using-react-and-typescript-46lo)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
 - [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
 - [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)
