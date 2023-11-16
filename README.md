@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
 - [Dev.to/JS] [Instalando o NVM sem privilégios administrativos no Windows &lpar;10/11&rpar;](https://dev.to/cezarmzz/instalando-o-nvm-sem-privilegios-administrativos-no-windows-1011-23k7)
 - [Lifehacker] [You Can Now Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
 - [Lifehacker] [These Are the Best Early Black Friday Vacuum Deals](https://lifehacker.com/home/best-early-black-friday-vacuum-deals)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
 - [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
 - [Lifehacker] [The Biggest Differences Between the Galaxy S23 FE and Galaxy S23](https://lifehacker.com/tech/galaxy-s23-fe-vs-galaxy-s23-comparison)
-- [Lifehacker] [You Can Make Beef Wellington, I Swear](https://lifehacker.com/food-drink/beef-wellington-recipe)
-- [Lifehacker] [Snag a Roomba for up to 50% Off at Amazon](https://lifehacker.com/home/roomba-sales-black-friday)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Beef Wellington, I Swear](https://lifehacker.com/food-drink/beef-wellington-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
