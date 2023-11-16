@@ -27,6 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Every e some: os métodos de array em Javascript que respondem &quot;sim&quot; ou &quot;não&quot;](https://dev.to/demenezes/every-e-some-os-metodos-de-array-em-javascript-que-respondem-sim-ou-nao-3n4j)
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
 - [Dev.to/JS] [Building Accessible Web Applications with React: A Real-Life Approach &lpar;Part 2&rpar;](https://dev.to/lawrencespractice/building-accessible-web-applications-with-react-a-real-life-approach-part-2-3o29)
 - [Dev.to/JS] [Building Accessible Web Applications with React: A Real-Life Approach &lpar;Part 1&rpar;](https://dev.to/lawrencespractice/building-accessible-web-applications-with-react-a-real-life-approach-part-1-42jf)
 - [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Complete Timeline for Getting Thanksgiving Dinner Prepared, Served, and Cleaned Up](https://lifehacker.com/timeline-for-thanksgiving-dinner-preparation)
 - [Lifehacker] [Welcome to ‘The Right Stuffing,’ Your Complete Guide to Preparing Thanksgiving Dinner](https://lifehacker.com/food-drink/thanksgiving-holiday-meal-preparation-guide)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 15, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-wednesda-1851012959)
-- [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
-- [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)<!-- TECH-POSTS:END -->
 
 ---
 
