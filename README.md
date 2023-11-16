@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hire Certified Magento Developers](https://dev.to/tech9logycreators/hire-certified-magento-developers-29m2)
+- [Dev.to/JS] [Download Free Programing Course As We Offer in Paid](https://dev.to/mudasir1/download-free-programing-course-as-we-offer-in-paid-4p7m)
+- [Dev.to/JS] [Understanding the Basics of React: Virtual DOM and the useState Hook &lpar;Part 2&rpar;](https://dev.to/lawrencespractice/understanding-the-basics-of-react-virtual-dom-and-the-usestate-hook-part-1-168o)
+- [Dev.to/JS] [Express JS For Beginners](https://dev.to/thecaptaan/express-js-for-beginners-5cl8)
+- [Dev.to/JS] [Integrating Google reCAPTCHA](https://dev.to/ahmetakinsel/integrating-google-recaptcha-2nmh)
 - [Dev.to/JS] [🙌 7 Tips to Build Your GitHub Profile Like a PRO 🚀](https://dev.to/quine/7-tips-to-build-your-github-profile-like-a-pro-38bg)
 - [Dev.to/JS] [MDB v7 is coming soon, very soon.](https://dev.to/mdbootstrap/mdb-v7-is-coming-soon-very-soon-1j2e)
 - [Dev.to/JS] [Build a Responsive Space Travel Agency Website | HTML , CSS And JavaScript](https://dev.to/codingcss/build-a-responsive-space-travel-agency-website-html-css-and-javascript-41d)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction of Web and HTML.](https://dev.to/abunasar/introduction-of-web-and-html-2aol)
 - [Dev.to/JS] [Hashing and Verifying Passwords in Mongoose Schemas](https://dev.to/ghostaram/hashing-and-verifying-passwords-in-mongoose-schemas-pl3)
 - [Dev.to/JS] [How to get the count of your followers on dev.to](https://dev.to/tqbit/how-to-get-the-count-of-your-followers-on-devto-d5o)
-- [Dev.to/JS] [10 Tips To Learn Python Esily](https://dev.to/web_programmer/10-tips-to-learn-python-esily-50pj)
-- [Dev.to/JS] [What&#39;s new in Angular 17](https://dev.to/this-is-angular/whats-new-in-angular-17-c81)
-- [Dev.to/JS] [Scop in Javascript with example](https://dev.to/said7388/scop-in-javascript-with-example-1o78)
-- [Dev.to/JS] [How did I hit 1000 followers in just 15 days?](https://dev.to/mukeshkuiry/how-did-i-hit-1000-followers-in-just-15-days-2ha4)
-- [Dev.to/JS] [Telegram for Desktop 4.11.7 + Latest Version Full Download 2023](https://dev.to/sajjad435436/telegram-for-desktop-4117-latest-version-full-download-2023-11ip)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
 - [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
 - [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)
