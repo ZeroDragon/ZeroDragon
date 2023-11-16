@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Winterize and Store Your Garden Tools](https://lifehacker.com/home/winterize-garden-tools)
+- [Lifehacker] [You Should Sous Vide Your Leftovers](https://lifehacker.com/food-drink/reheat-leftovers-in-sous-vide-immersion-circulator)
+- [Dev.to/JS] [React Native e permissão para salvar arquivos com Android 13](https://dev.to/itsmatheusmoura/react-native-e-permissao-para-salvar-arquivos-com-android-13-1ogo)
+- [Lifehacker] [The Best Way to Store Leftover Turkey](https://lifehacker.com/food-drink/how-to-store-leftover-thanksgiving-turkey)
 - [Dev.to/JS] [These 5 Open Source AI Startups are changing the AI Landscape](https://dev.to/fast/these-5-open-source-ai-startups-are-changing-the-ai-landscape-59dg)
 - [Dev.to/JS] [Basics of Python](https://dev.to/abhinav1838/basics-of-python-2bg6)
 - [Dev.to/JS] [These 8 Podcasts will help increase your knowledge and expand your mindset.](https://dev.to/vectorpodcast/these-8-podcasts-will-help-increase-your-knowledge-and-expand-your-mindset-5lb)
@@ -37,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🙌 7 Tips to Build Your GitHub Profile Like a PRO 🚀](https://dev.to/quine/7-tips-to-build-your-github-profile-like-a-pro-38bg)
 - [Dev.to/JS] [MDB v7 is coming soon, very soon.](https://dev.to/mdbootstrap/mdb-v7-is-coming-soon-very-soon-1j2e)
 - [Dev.to/JS] [Build a Responsive Space Travel Agency Website | HTML , CSS And JavaScript](https://dev.to/codingcss/build-a-responsive-space-travel-agency-website-html-css-and-javascript-41d)
-- [Dev.to/JS] [Visual Testing for Mobile Apps: How to Get Started](https://dev.to/salmankhan2389/visual-testing-for-mobile-apps-how-to-get-started-4134)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
 - [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
 - [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Throw Away Your Turkey’s Worthless Pop-up Thermometer](https://lifehacker.com/throw-away-your-turkey-s-worthless-pop-up-thermometer-1849774059)
 - [Lifehacker] [How to Deep Fry a Turkey &lpar;but I Wish You Wouldn’t&rpar;](https://lifehacker.com/deep-fried-turkey-recipe)
 - [Lifehacker] [Anyone Can Make This Simple Roast Turkey](https://lifehacker.com/simple-roast-turkey-recipe)
-- [Lifehacker] [A Complete Timeline for Getting Thanksgiving Dinner Prepared, Served, and Cleaned Up](https://lifehacker.com/timeline-for-thanksgiving-dinner-preparation)
-- [Lifehacker] [Welcome to ‘The Right Stuffing,’ Your Complete Guide to Preparing Thanksgiving Dinner](https://lifehacker.com/food-drink/thanksgiving-holiday-meal-preparation-guide)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 15, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-wednesda-1851012959)
-- [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Complete Timeline for Getting Thanksgiving Dinner Prepared, Served, and Cleaned Up](https://lifehacker.com/timeline-for-thanksgiving-dinner-preparation)<!-- TECH-POSTS:END -->
 
 ---
 
