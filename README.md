@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Every e some: os métodos de array em Javascript que respondem &quot;sim&quot; ou &quot;não&quot;](https://dev.to/demenezes/every-e-some-os-metodos-de-array-em-javascript-que-respondem-sim-ou-nao-3n4j)
+- [Dev.to/JS] [Building Accessible Web Applications with React: A Real-Life Approach &lpar;Part 2&rpar;](https://dev.to/lawrencespractice/building-accessible-web-applications-with-react-a-real-life-approach-part-2-3o29)
+- [Dev.to/JS] [Building Accessible Web Applications with React: A Real-Life Approach &lpar;Part 1&rpar;](https://dev.to/lawrencespractice/building-accessible-web-applications-with-react-a-real-life-approach-part-1-42jf)
+- [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
+- [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)
 - [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
 - [Dev.to/JS] [Instalando o NVM sem privilégios administrativos no Windows &lpar;10/11&rpar;](https://dev.to/cezarmzz/instalando-o-nvm-sem-privilegios-administrativos-no-windows-1011-23k7)
 - [Lifehacker] [You Can Now Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
@@ -43,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Performance Monitoring for Every Developer: Web Vitals &amp; Function Regression Issues](https://dev.to/sentry/performance-monitoring-for-every-developer-web-vitals-function-regression-issues-26j2)
 - [Lifehacker] [The &#39;123&#39; Method Can Help You Recall What You&#39;ve Studied](https://lifehacker.com/family/123-study-method)
 - [Dev.to/JS] [Navigating the Web: Unleashing is.firefox and is.not_firefox with &#39;thiis&#39;](https://dev.to/karbashevskyi/navigating-the-web-unleashing-isfirefox-and-isnotfirefox-with-thiis-1a88)
-- [Dev.to/JS] [Contador de Distancias espaciais](https://dev.to/kauanfernando/contador-de-distancias-espaciais-3ane)
-- [Dev.to/JS] [Create an SVG Fractal Tree by Writing a Recursive Function - Easy JavaScript Tutorial](https://dev.to/piko/i-am-very-excited-i-wrote-a-simple-function-that-generates-fractal-trees-3986)
-- [Dev.to/JS] [Which should you use? Array.from vs. Spread Operator](https://dev.to/gingerchew/which-should-you-use-arrayfrom-vs-spread-operator-4d6a)
 - [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Right Now](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
 - [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)
 - [Lifehacker] [It’s Official: These Are the Best Thanksgiving Side Dishes](https://lifehacker.com/best-thanksgiving-side-dishes)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Welcome to ‘The Right Stuffing,’ Your Complete Guide to Preparing Thanksgiving Dinner](https://lifehacker.com/food-drink/thanksgiving-holiday-meal-preparation-guide)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 15, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-wednesda-1851012959)
 - [Lifehacker] [You Can Control These Smart Holiday Lights With Your Voice](https://lifehacker.com/tech/govees-smart-holiday-lights-review)
-- [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
-- [Lifehacker] [The Biggest Differences Between the Galaxy S23 FE and Galaxy S23](https://lifehacker.com/tech/galaxy-s23-fe-vs-galaxy-s23-comparison)
-- [Lifehacker] [You Can Make Beef Wellington, I Swear](https://lifehacker.com/food-drink/beef-wellington-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)<!-- TECH-POSTS:END -->
 
 ---
 
