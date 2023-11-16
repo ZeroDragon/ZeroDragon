@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [These 5 Open Source AI Startups are changing the AI Landscape](https://dev.to/fast/these-5-open-source-ai-startups-are-changing-the-ai-landscape-59dg)
+- [Dev.to/JS] [Basics of Python](https://dev.to/abhinav1838/basics-of-python-2bg6)
+- [Dev.to/JS] [These 8 Podcasts will help increase your knowledge and expand your mindset.](https://dev.to/vectorpodcast/these-8-podcasts-will-help-increase-your-knowledge-and-expand-your-mindset-5lb)
 - [Dev.to/JS] [Hire Certified Magento Developers](https://dev.to/tech9logycreators/hire-certified-magento-developers-29m2)
 - [Dev.to/JS] [Download Free Programing Course As We Offer in Paid](https://dev.to/mudasir1/download-free-programing-course-as-we-offer-in-paid-4p7m)
 - [Dev.to/JS] [Understanding the Basics of React: Virtual DOM and the useState Hook &lpar;Part 2&rpar;](https://dev.to/lawrencespractice/understanding-the-basics-of-react-virtual-dom-and-the-usestate-hook-part-1-168o)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MDB v7 is coming soon, very soon.](https://dev.to/mdbootstrap/mdb-v7-is-coming-soon-very-soon-1j2e)
 - [Dev.to/JS] [Build a Responsive Space Travel Agency Website | HTML , CSS And JavaScript](https://dev.to/codingcss/build-a-responsive-space-travel-agency-website-html-css-and-javascript-41d)
 - [Dev.to/JS] [Visual Testing for Mobile Apps: How to Get Started](https://dev.to/salmankhan2389/visual-testing-for-mobile-apps-how-to-get-started-4134)
-- [Dev.to/JS] [Introduction of Web and HTML.](https://dev.to/abunasar/introduction-of-web-and-html-2aol)
-- [Dev.to/JS] [Hashing and Verifying Passwords in Mongoose Schemas](https://dev.to/ghostaram/hashing-and-verifying-passwords-in-mongoose-schemas-pl3)
-- [Dev.to/JS] [How to get the count of your followers on dev.to](https://dev.to/tqbit/how-to-get-the-count-of-your-followers-on-devto-d5o)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
 - [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
 - [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)
