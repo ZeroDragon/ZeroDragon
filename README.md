@@ -26,11 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Instalando o NVM sem privilégios administrativos no Windows &lpar;10/11&rpar;](https://dev.to/cezarmzz/instalando-o-nvm-sem-privilegios-administrativos-no-windows-1011-23k7)
+- [Lifehacker] [You Can Now Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
+- [Lifehacker] [These Are the Best Early Black Friday Vacuum Deals](https://lifehacker.com/home/best-early-black-friday-vacuum-deals)
 - [Dev.to/JS] [How to create a fade animation css with Qwik](https://dev.to/nyruchi/how-to-create-a-fade-animation-css-with-qwik-1hie)
 - [Lifehacker] [The Best Places to Order Thanksgiving Dinner To-Go](https://lifehacker.com/food-drink/thanksgiving-dinners-to-go)
 - [Lifehacker] [How to Factory Reset Any Apple TV Device](https://lifehacker.com/tech/how-to-factory-reset-apple-tv-4k)
 - [Dev.to/JS] [doIf &lpar;if/then/else&rpar;: JavaScript Functional Programming](https://dev.to/oculus42/doif-ifthenelse-javascript-functional-programming-4ni)
-- [Lifehacker] [You Can Use Your Wood Stove to Heat Multiple Room](https://lifehacker.com/home/heat-home-wood-stove)
+- [Lifehacker] [You Can Use Your Wood Stove to Heat Multiple Rooms](https://lifehacker.com/home/heat-home-wood-stove)
 - [Dev.to/JS] [Building Rate Limiter based on IP Address with Netlify Blobs and Edge Functions](https://dev.to/reeshee/building-rate-limiter-based-on-ip-address-with-netlify-blobs-and-edge-functions-2bd6)
 - [Dev.to/JS] [Graph Library graphjs-react updated to 1.0.3](https://dev.to/gokhanergentech/graph-library-graphjs-react-updated-to-103-159a)
 - [Lifehacker] [You Can Remove That Watermark From Reddit Images](https://lifehacker.com/tech/remove-reddit-watermark-images)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create an SVG Fractal Tree by Writing a Recursive Function - Easy JavaScript Tutorial](https://dev.to/piko/i-am-very-excited-i-wrote-a-simple-function-that-generates-fractal-trees-3986)
 - [Dev.to/JS] [Which should you use? Array.from vs. Spread Operator](https://dev.to/gingerchew/which-should-you-use-arrayfrom-vs-spread-operator-4d6a)
 - [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Right Now](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
-- [Dev.to/JS] [Popular Apps Created Using React Native](https://dev.to/nandinishinduja/popular-apps-created-using-react-native-1oi0)
 - [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)
 - [Lifehacker] [It’s Official: These Are the Best Thanksgiving Side Dishes](https://lifehacker.com/best-thanksgiving-side-dishes)
 - [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Stop Your Threads From Showing Up on Instagram and Facebook](https://lifehacker.com/tech/stop-threads-from-posting-instagram-facebook)
 - [Lifehacker] [The Biggest Differences Between the Galaxy S23 FE and Galaxy S23](https://lifehacker.com/tech/galaxy-s23-fe-vs-galaxy-s23-comparison)
 - [Lifehacker] [You Can Make Beef Wellington, I Swear](https://lifehacker.com/food-drink/beef-wellington-recipe)
-- [Lifehacker] [Snag a Roomba for up to 50% Off at Amazon](https://lifehacker.com/home/roomba-sales-black-friday)
-- [Lifehacker] [The Leonid Meteor Shower Is Coming This Weekend](https://lifehacker.com/science/leonid-showers-viewing)
-- [Lifehacker] [Here&#39;s How to Fix a Pixel Phone Stuck in a Bootloop](https://lifehacker.com/tech/pixel-phone-bootloop-fix)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Snag a Roomba for up to 50% Off at Amazon](https://lifehacker.com/home/roomba-sales-black-friday)<!-- TECH-POSTS:END -->
 
 ---
 
