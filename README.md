@@ -26,9 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Prepare for a Solar Flare Hitting Earth &lpar;Because It&#39;s Probably Going to Happen&rpar;](https://lifehacker.com/how-to-prepare-for-a-solar-flare-hitting-earth-because-1848076402)
+- [Dev.to/JS] [#100daysofcode round #2 day #2](https://dev.to/momandalex022/100daysofcode-round-2-day-2-3fhc)
+- [Lifehacker] [10 of the Best Podcasts to Listen to This Thanksgiving](https://lifehacker.com/entertainment/best-thanksgiving-podcasts)
+- [Dev.to/JS] [Day 89: Share it](https://dev.to/dhrn/day-89-share-405o)
+- [Dev.to/JS] [How to Dynamically Generate Unique ID&#39;s for DOM Elements](https://dev.to/crossthebluesky/how-to-dynamically-generate-unique-ids-for-dom-elements-8d4)
+- [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)
 - [Dev.to/JS] [Iniciando um backoffice rapidamente com AdminJS](https://dev.to/itsmicaio/iniciando-um-backoffice-rapidamente-com-adminjs-3m44)
 - [Dev.to/JS] [Carbon – Directory theme.](https://dev.to/lexingtonthemes/carbon-directory-theme-4o0h)
 - [Dev.to/JS] [Adding a Decorator Pattern in JavaScript to existing code](https://dev.to/teaganga/adding-a-decorator-pattern-in-javascript-to-existing-code-390o)
+- [Lifehacker] [Control &lpar;Almost&rpar; All of Your Smart-Home Tech With the Brilliant Home Control Hub](https://lifehacker.com/tech/brilliant-home-control-hub-review)
 - [Dev.to/JS] [Unlocking Front-End and Back-End Challenges: A Tech Journey](https://dev.to/flrnd/unlocking-front-end-and-back-end-challenges-a-tech-journey-2pid)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Danger of Deepfakes](https://lifehacker.com/entertainment/are-deepfakes-dangerous)
 - [Dev.to/JS] [JavaScript Operators, Loops, and Flow Control: A Comprehensive Guide](https://dev.to/serenepine/javascript-operators-loops-and-flow-control-a-comprehensive-guide-1a5m)
@@ -39,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Thanksgiving Mac and Cheese With Cashew Sauce](https://lifehacker.com/food-drink/vegan-cashew-mac-and-cheese)
 - [Dev.to/JS] [The 2000 line framework challenge: How to template JSON or APIs in 3 lines of component code + 1 extra file &lpar;no NPM needed&rpar;](https://dev.to/michaelpb/the-2000-line-framework-challenge-how-to-template-json-or-apis-in-3-lines-of-component-code-1-extra-file-no-npm-needed-3771)
 - [Dev.to/JS] [🧙 Lambdalith Mastery: Elevating NestJS Deployment on AWS Lambda with CDK &amp; Webpack](https://dev.to/aws-builders/lambdalith-mastery-elevating-nestjs-deployment-on-aws-lambda-with-cdk-webpack-4de9)
-- [Dev.to/JS] [React Interview Question](https://dev.to/zeeshanali0704/react-interview-question-4i6c)
-- [Dev.to/JS] [Stunning 3D Text Effect Using HTML And CSS](https://dev.to/codingcss/stunning-3d-text-effect-using-html-and-css-43m8)
-- [Dev.to/JS] [Implementing a Simple Factory Pattern in JavaScript](https://dev.to/teaganga/implementing-a-simple-factory-pattern-in-javascript-2ac)
 - [Lifehacker] [AI Money Apps Can’t Replace Good Old Pen and Paper](https://lifehacker.com/money/personal-budget-pen-and-paper)
 - [Lifehacker] [The Best Ways to Winterize and Store Your Garden Tools](https://lifehacker.com/home/winterize-garden-tools)
 - [Lifehacker] [You Should Sous Vide Your Leftovers](https://lifehacker.com/food-drink/reheat-leftovers-in-sous-vide-immersion-circulator)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)
 - [Lifehacker] [It’s Official: These Are the Best Thanksgiving Side Dishes](https://lifehacker.com/best-thanksgiving-side-dishes)
 - [Lifehacker] [For the Best Stuffing, Focus on the Stock](https://lifehacker.com/for-the-best-stuffing-focus-on-the-stock-1850945679)
-- [Lifehacker] [This Easy Cranberry Sauce Recipe Is Ripe for Riffing](https://lifehacker.com/food-drink/easy-thanksgiving-cranberry-sauce-recipe)
-- [Lifehacker] [These Thanksgiving Dishes Are Sure to Satisfy Your Vegan Guests](https://lifehacker.com/9-thanksgiving-dishes-your-vegan-guests-will-love-1848083265)
-- [Lifehacker] [How to Make a Damn Good Gravy](https://lifehacker.com/easy-gravy-recipe-for-thanksgiving)
-- [Lifehacker] [Simple Ways to ‘Vegan-ize’ Your Classic Thanksgiving Recipes](https://lifehacker.com/use-these-three-ingredients-to-easily-vegan-ize-your-fa-1848105033)
-- [Lifehacker] [A Step-by-Step Guide to Carving the Perfect Thanksgiving Turkey](https://lifehacker.com/food-drink/best-way-to-carve-thanksgiving-turkey)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Easy Cranberry Sauce Recipe Is Ripe for Riffing](https://lifehacker.com/food-drink/easy-thanksgiving-cranberry-sauce-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
