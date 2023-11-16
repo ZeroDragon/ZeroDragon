@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The 2000 line framework challenge: How to template JSON or APIs in 3 lines of component code + 1 extra file &lpar;no NPM needed&rpar;](https://dev.to/michaelpb/the-2000-line-framework-challenge-how-to-template-json-or-apis-in-3-lines-of-component-code-1-extra-file-no-npm-needed-3771)
+- [Dev.to/JS] [🧙 Lambdalith Mastery: Elevating NestJS Deployment on AWS Lambda with CDK &amp; Webpack](https://dev.to/aws-builders/lambdalith-mastery-elevating-nestjs-deployment-on-aws-lambda-with-cdk-webpack-4de9)
+- [Dev.to/JS] [React Interview Question](https://dev.to/zeeshanali0704/react-interview-question-4i6c)
+- [Dev.to/JS] [Stunning 3D Text Effect Using HTML And CSS](https://dev.to/codingcss/stunning-3d-text-effect-using-html-and-css-43m8)
+- [Dev.to/JS] [Implementing a Simple Factory Pattern in JavaScript](https://dev.to/teaganga/implementing-a-simple-factory-pattern-in-javascript-2ac)
+- [Dev.to/JS] [Always abstract nested object in TypeScript](https://dev.to/darkmavis1980/always-abstract-nested-object-in-typescript-4pp5)
+- [Dev.to/JS] [Do You Know .?🤔](https://dev.to/studio/do-you-know--4h54)
 - [Lifehacker] [The Best Ways to Winterize and Store Your Garden Tools](https://lifehacker.com/home/winterize-garden-tools)
 - [Lifehacker] [You Should Sous Vide Your Leftovers](https://lifehacker.com/food-drink/reheat-leftovers-in-sous-vide-immersion-circulator)
 - [Dev.to/JS] [React Native e permissão para salvar arquivos com Android 13](https://dev.to/itsmatheusmoura/react-native-e-permissao-para-salvar-arquivos-com-android-13-1ogo)
@@ -34,13 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Basics of Python](https://dev.to/abhinav1838/basics-of-python-2bg6)
 - [Dev.to/JS] [These 8 Podcasts will help increase your knowledge and expand your mindset.](https://dev.to/vectorpodcast/these-8-podcasts-will-help-increase-your-knowledge-and-expand-your-mindset-5lb)
 - [Dev.to/JS] [Hire Certified Magento Developers](https://dev.to/tech9logycreators/hire-certified-magento-developers-29m2)
-- [Dev.to/JS] [Download Free Programing Course As We Offer in Paid](https://dev.to/mudasir1/download-free-programing-course-as-we-offer-in-paid-4p7m)
-- [Dev.to/JS] [Understanding the Basics of React: Virtual DOM and the useState Hook &lpar;Part 2&rpar;](https://dev.to/lawrencespractice/understanding-the-basics-of-react-virtual-dom-and-the-usestate-hook-part-1-168o)
-- [Dev.to/JS] [Express JS For Beginners](https://dev.to/thecaptaan/express-js-for-beginners-5cl8)
-- [Dev.to/JS] [Integrating Google reCAPTCHA](https://dev.to/ahmetakinsel/integrating-google-recaptcha-2nmh)
-- [Dev.to/JS] [🙌 7 Tips to Build Your GitHub Profile Like a PRO 🚀](https://dev.to/quine/7-tips-to-build-your-github-profile-like-a-pro-38bg)
-- [Dev.to/JS] [MDB v7 is coming soon, very soon.](https://dev.to/mdbootstrap/mdb-v7-is-coming-soon-very-soon-1j2e)
-- [Dev.to/JS] [Build a Responsive Space Travel Agency Website | HTML , CSS And JavaScript](https://dev.to/codingcss/build-a-responsive-space-travel-agency-website-html-css-and-javascript-41d)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
 - [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
 - [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)
