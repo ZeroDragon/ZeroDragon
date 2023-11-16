@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to update your SuperViz integration with ThreeJs to v5](https://dev.to/superviz/how-to-update-your-superviz-integration-with-threejs-to-v5-40lk)
+- [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
+- [Dev.to/JS] [Employ iBolt Cyber Hacker for Your Crypto/BTC Reliable Recovery](https://dev.to/georgelhem/employ-ibolt-cyber-hacker-for-your-cryptobtc-reliable-recovery-35aa)
+- [Dev.to/JS] [Decoding Why 0.6 + 0.3 = 0.8999999999999999 in JS and How to Solve?](https://dev.to/jeevaramanathan/decoding-why-06-03-08999999999999999-in-js-and-how-to-solve-640)
 - [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
 - [Dev.to/JS] [Elegant Console Logs With Consola](https://dev.to/murtuzaalisurti/elegant-console-logs-with-consola-4819)
 - [Lifehacker] [Steam Your Spuds for Quicker Mashed Potatoes](https://lifehacker.com/food-drink/steam-mashed-potatoes)
@@ -40,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 89: Share it](https://dev.to/dhrn/day-89-share-405o)
 - [Dev.to/JS] [How to Dynamically Generate Unique ID&#39;s for DOM Elements](https://dev.to/crossthebluesky/how-to-dynamically-generate-unique-ids-for-dom-elements-8d4)
 - [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)
-- [Dev.to/JS] [Iniciando um backoffice rapidamente com AdminJS](https://dev.to/itsmicaio/iniciando-um-backoffice-rapidamente-com-adminjs-3m44)
-- [Dev.to/JS] [Carbon – Directory theme.](https://dev.to/lexingtonthemes/carbon-directory-theme-4o0h)
-- [Dev.to/JS] [Adding a Decorator Pattern in JavaScript to existing code](https://dev.to/teaganga/adding-a-decorator-pattern-in-javascript-to-existing-code-390o)
 - [Lifehacker] [Control &lpar;Almost&rpar; All of Your Smart-Home Tech With the Brilliant Home Control Hub](https://lifehacker.com/tech/brilliant-home-control-hub-review)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Danger of Deepfakes](https://lifehacker.com/entertainment/are-deepfakes-dangerous)
 - [Lifehacker] [These Are the Best and Worst Times to Drive Over Thanksgiving, According to AAA](https://lifehacker.com/travel/best-thanksgiving-travel-times)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Remove That Watermark From Reddit Images](https://lifehacker.com/tech/remove-reddit-watermark-images)
 - [Lifehacker] [The &#39;123&#39; Method Can Help You Recall What You&#39;ve Studied](https://lifehacker.com/family/123-study-method)
 - [Lifehacker] [The M1 MacBook Air Is Back to Its Lowest Price Ever Right Now](https://lifehacker.com/early-prime-day-deal-m1-macbook-air-1850912042)
-- [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)
-- [Lifehacker] [It’s Official: These Are the Best Thanksgiving Side Dishes](https://lifehacker.com/best-thanksgiving-side-dishes)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make the Perfect Thanksgiving Pie](https://lifehacker.com/how-to-make-perfect-thanksgiving-pie)<!-- TECH-POSTS:END -->
 
 ---
 
