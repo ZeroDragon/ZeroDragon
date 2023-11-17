@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array methods and when to use them, forEach, map, reduce](https://dev.to/gingerchew/array-methods-and-when-to-use-them-foreach-map-reduce-5bab)
+- [Dev.to/JS] [Understanding Time Complexity](https://dev.to/khamal22/understanding-time-complexity-3o5f)
+- [Dev.to/JS] [JavaScript From 0 to Mastery: My Personal Playbook for Conquering Web Development](https://dev.to/opensourcee/javascript-from-0-to-mastery-the-way-i-would-do-it-today-5d19)
+- [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Dev.to/JS] [WEREWOLF WEED](https://dev.to/christiecamp/werewolf-weed-52an)
 - [Dev.to/JS] [WEREWOLF WEED](https://dev.to/christiecamp/werewolf-weed-4hgd)
 - [Dev.to/JS] [# A new look at modals in vue 3](https://dev.to/jenesius/-a-new-look-at-modals-in-vue-3-34eb)
+- [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)
 - [Dev.to/JS] [Having fun with svelte stores with store proxies](https://dev.to/nasheomirro/having-fun-with-svelte-stores-with-store-proxies-k6e)
 - [Dev.to/JS] [AffKit](https://dev.to/wsovn123/affkit-41b0)
 - [Dev.to/JS] [Typesafe - An Overused Term That Needs a Reality Check](https://dev.to/psypher1/typesafe-an-overused-term-that-needs-a-reality-check-5ho0)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pitch Deck Pro](https://dev.to/rankmarket123/pitch-deck-pro-4f23)
 - [Dev.to/JS] [🤫 Secret JavaScript Methods They Don&#39;t Want You To See &lpar;part 1&rpar;](https://dev.to/magnificode/secret-javascript-methods-they-dont-want-you-to-see-part-1-b93)
 - [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)
-- [Dev.to/JS] [Node.js workings](https://dev.to/gregwitha-g/nodejs-workings-2jgm)
 - [Lifehacker] [Embrace the Cold and the Mud, Like the Swedish Do](https://lifehacker.com/health/get-outside-more-the-swedish-way)
-- [Dev.to/JS] [Criação de Design Systems - Frontend](https://dev.to/telles/criacao-de-design-systems-frontend-lak)
-- [Dev.to/JS] [some&lpar;&rpar; in javascript](https://dev.to/raisan_jmr_/some-in-javascript-2ik6)
 - [Lifehacker] [These New Features Might Actually Make You Want to Use Safari](https://lifehacker.com/tech/new-safari-17-features-in-macos-sonoma)
 - [Lifehacker] [You Can Disable Apple&#39;s Inline Text Prediction](https://lifehacker.com/tech/turn-off-apple-text-prediction)
 - [Lifehacker] [The Best Ways to Attract Cardinals to Your Yard This Winter](https://lifehacker.com/home/how-to-attract-cardinals-to-backyard)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
 - [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
 - [Lifehacker] [Steam Your Spuds for Quicker Mashed Potatoes](https://lifehacker.com/food-drink/steam-mashed-potatoes)
-- [Lifehacker] [How to Prepare for a Solar Flare Hitting Earth &lpar;Because It&#39;s Probably Going to Happen&rpar;](https://lifehacker.com/how-to-prepare-for-a-solar-flare-hitting-earth-because-1848076402)
-- [Lifehacker] [10 of the Best Podcasts to Listen to This Thanksgiving](https://lifehacker.com/entertainment/best-thanksgiving-podcasts)
-- [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prepare for a Solar Flare Hitting Earth &lpar;Because It&#39;s Probably Going to Happen&rpar;](https://lifehacker.com/how-to-prepare-for-a-solar-flare-hitting-earth-because-1848076402)<!-- TECH-POSTS:END -->
 
 ---
 
