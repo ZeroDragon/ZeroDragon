@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handling Data Updates and Expirations in Redis for Enhanced Cache Management](https://dev.to/techjayvee/handling-data-updates-and-expirations-in-redis-for-enhanced-cache-management-43mi)
+- [Dev.to/JS] [Optimizing Data Retrieval with Redis Caching in Your Express App](https://dev.to/techjayvee/optimizing-data-retrieval-with-redis-caching-in-your-express-app-1l15)
+- [Dev.to/JS] [Adding and Retrieving Data with Redis in Your Express Application](https://dev.to/techjayvee/adding-and-retrieving-data-with-redis-in-your-express-application-1le7)
+- [Dev.to/JS] [Setting Up Redis and Express for Your Application](https://dev.to/techjayvee/setting-up-redis-and-express-for-your-application-2e22)
+- [Dev.to/JS] [Understanding Caching with Redis: A Step-by-Step Tutorial](https://dev.to/techjayvee/understanding-caching-with-redis-a-step-by-step-tutorial-111a)
 - [Dev.to/JS] [Exploring JavaScript DOM Manipulation: A Beginner&#39;s Guide to Interacting with Web Pages 🌐✨](https://dev.to/gurrudev/exploring-javascript-dom-manipulation-a-beginners-guide-to-interacting-with-web-pages-397)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
 - [Dev.to/JS] [2 Ways To Create Table From Array In Javascript](https://dev.to/codeboxx/2-ways-to-create-table-from-array-in-javascript-3deb)
@@ -45,12 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Employ iBolt Cyber Hacker for Your Crypto/BTC Reliable Recovery](https://dev.to/georgelhem/employ-ibolt-cyber-hacker-for-your-cryptobtc-reliable-recovery-35aa)
 - [Dev.to/JS] [Decoding Why 0.6 + 0.3 = 0.8999999999999999 in JS and How to Solve?](https://dev.to/jeevaramanathan/decoding-why-06-03-08999999999999999-in-js-and-how-to-solve-640)
 - [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
-- [Dev.to/JS] [Elegant Console Logs With Consola](https://dev.to/murtuzaalisurti/elegant-console-logs-with-consola-4819)
 - [Lifehacker] [Steam Your Spuds for Quicker Mashed Potatoes](https://lifehacker.com/food-drink/steam-mashed-potatoes)
-- [Dev.to/JS] [How to create a Google Chrome extension](https://dev.to/kwnaidoo/how-to-create-a-google-chrome-extension-5b9f)
-- [Dev.to/JS] [Sharing options without platforms](https://dev.to/ovidem/sharing-options-without-platforms-cha)
-- [Dev.to/JS] [How to Download Pathaan 2023 on Movieswood](https://dev.to/movieswood/how-to-download-pathaan-2023-on-movieswood-1jee)
-- [Dev.to/JS] [How to Change the Default Port Number in React](https://dev.to/jayanthbabu123/how-to-change-the-default-port-number-in-react-28cn)
 - [Lifehacker] [How to Prepare for a Solar Flare Hitting Earth &lpar;Because It&#39;s Probably Going to Happen&rpar;](https://lifehacker.com/how-to-prepare-for-a-solar-flare-hitting-earth-because-1848076402)
 - [Lifehacker] [10 of the Best Podcasts to Listen to This Thanksgiving](https://lifehacker.com/entertainment/best-thanksgiving-podcasts)
 - [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)
