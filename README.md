@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Xem tu vi tron doi](https://dev.to/tuvivn123/xem-tu-vi-tron-doi-go9)
+- [Dev.to/JS] [MiniRx Signal Store for Angular - API Preview](https://dev.to/this-is-angular/minirx-signal-store-for-angular-api-preview-4e16)
+- [Dev.to/JS] [Pesky common issues developers have with most dependencies and how MDB fixes them #2](https://dev.to/mdbootstrap/pesky-common-issues-developers-have-with-most-dependencies-and-how-mdb-fixes-them-2-1g28)
+- [Lifehacker] [Where to Stream Football, Basketball, and Movies Galore This Holiday Season](https://lifehacker.com/entertainment/this-holiday-streaming-can-save-you-stress-and-money)
+- [Lifehacker] [Eufy&#39;s N140 Pet Camera Is a Great Gift for Pet Parents](https://lifehacker.com/tech/eufy-n140-pet-camera-review)
 - [Dev.to/JS] [Cân xương đoán số](https://dev.to/tuvivn123/can-xuong-doan-so-69l)
+- [Lifehacker] [The Easiest Way to Block Newsletter and Cookie Pop-ups on Any Website](https://lifehacker.com/tech/block-newsletter-popups)
 - [Dev.to/JS] [Unlocking the Power of GraphQL for Beginners: A Step-by-Step Guide to Integrating GraphQL into Your Existing Project](https://dev.to/henriqueweiand/unlocking-the-power-of-graphql-for-beginners-a-step-by-step-guide-to-integrating-graphql-into-your-existing-project-51ob)
 - [Dev.to/JS] [How to update you SuperViz integration with Autodesk Viewer to v5](https://dev.to/superviz/how-to-update-you-superviz-integration-with-autodesk-viewer-to-v5-4ck8)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Bin Laden Trending on TikTok?](https://lifehacker.com/entertainment/why-is-osama-bin-laden-trending-on-tiktok)
@@ -38,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [W.I.L.D - Week 2](https://dev.to/393creative/wild-week-2-1pem)
 - [Dev.to/JS] [Mastering Progressive Web Apps &lpar;PWAs&rpar;: Advanced Techniques and Best Practices](https://dev.to/ahmed_onour/mastering-progressive-web-apps-pwas-advanced-techniques-and-best-practices-5e92)
 - [Dev.to/JS] [Building a modern Cloud Native Full stack Microservices Project: End to End — Introduction](https://dev.to/opticsquid/building-a-modern-cloud-native-full-stack-microservices-project-end-to-end-introduction-3djj)
-- [Dev.to/JS] [Codemotion Milan 2023: my first session in public](https://dev.to/th3wall/codemotion-milan-2023-my-first-session-in-public-hc6)
-- [Dev.to/JS] [Transitioning to a Microservices Architecture: Overcoming Obstacles](https://dev.to/documatic/transitioning-to-a-microservices-architecture-overcoming-obstacles-5b09)
-- [Dev.to/JS] [Remainder Operator in JS](https://dev.to/shubhamtiwari909/remainder-operator-in-js-41jk)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best and Worst Times to Drive Over Thanksgiving, According to AAA](https://lifehacker.com/travel/best-thanksgiving-travel-times)
 - [Lifehacker] [This iPhone Feature Can Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [Make This Thanksgiving Mac and Cheese With Cashew Sauce](https://lifehacker.com/food-drink/vegan-cashew-mac-and-cheese)
-- [Lifehacker] [AI Money Apps Can’t Replace Good Old Pen and Paper](https://lifehacker.com/money/personal-budget-pen-and-paper)
-- [Lifehacker] [The Best Ways to Winterize and Store Your Garden Tools](https://lifehacker.com/home/winterize-garden-tools)
-- [Lifehacker] [You Should Sous Vide Your Leftovers](https://lifehacker.com/food-drink/reheat-leftovers-in-sous-vide-immersion-circulator)
-- [Lifehacker] [The Best Way to Store Leftover Turkey](https://lifehacker.com/food-drink/how-to-store-leftover-thanksgiving-turkey)<!-- TECH-POSTS:END -->
+- [Lifehacker] [AI Money Apps Can’t Replace Good Old Pen and Paper](https://lifehacker.com/money/personal-budget-pen-and-paper)<!-- TECH-POSTS:END -->
 
 ---
 
