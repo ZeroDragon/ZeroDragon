@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Speed Up the Headless Browser in Playwright](https://dev.to/mikestopcontinues/speed-up-the-headless-browser-in-playwright-3ho0)
+- [Lifehacker] [Should You Buy The Google Pixel 8 Pro or Samsung Galaxy S23 Ultra?](https://lifehacker.com/tech/google-pixel-8-pro-samsung-galaxy-s23-ultra-comparison)
+- [Lifehacker] [The Analogue Pocket Finally Gives You a Use for Your Old Game Cartridges](https://lifehacker.com/tech/what-is-the-analogue-pocket)
 - [Lifehacker] [This Is the Only Way to Bypass Google Maps&#39; Divisive New Color Scheme](https://lifehacker.com/tech/how-to-change-new-google-maps-colors)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [10 of Best Places to Hide Christmas Gifts Where Your Family Will Never Find Them](https://lifehacker.com/the-best-places-to-hide-christmas-gifts-that-you-never-1848194754)
@@ -47,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prepare for a Solar Flare Hitting Earth &lpar;Because It&#39;s Probably Going to Happen&rpar;](https://lifehacker.com/how-to-prepare-for-a-solar-flare-hitting-earth-because-1848076402)
 - [Dev.to/JS] [#100daysofcode round #2 day #2](https://dev.to/momandalex022/100daysofcode-round-2-day-2-3fhc)
 - [Lifehacker] [10 of the Best Podcasts to Listen to This Thanksgiving](https://lifehacker.com/entertainment/best-thanksgiving-podcasts)
-- [Dev.to/JS] [Day 89: Share it](https://dev.to/dhrn/day-89-share-405o)
 - [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)
 - [Lifehacker] [Control &lpar;Almost&rpar; All of Your Smart-Home Tech With the Brilliant Home Control Hub](https://lifehacker.com/tech/brilliant-home-control-hub-review)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Danger of Deepfakes](https://lifehacker.com/entertainment/are-deepfakes-dangerous)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)
 - [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
 - [Lifehacker] [You Can Now Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
-- [Lifehacker] [These Are the Best Early Black Friday Vacuum Deals](https://lifehacker.com/home/best-early-black-friday-vacuum-deals)
-- [Lifehacker] [The Best Places to Order Thanksgiving Dinner To-Go](https://lifehacker.com/food-drink/thanksgiving-dinners-to-go)
-- [Lifehacker] [How to Factory Reset Any Apple TV Device](https://lifehacker.com/tech/how-to-factory-reset-apple-tv-4k)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Early Black Friday Vacuum Deals](https://lifehacker.com/home/best-early-black-friday-vacuum-deals)<!-- TECH-POSTS:END -->
 
 ---
 
