@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 23/45: Angular 17](https://dev.to/this-is-angular/episode-2345-angular-17-50oe)
+- [Dev.to/JS] [Adding Tools to TIL Project.](https://dev.to/sshah135/adding-tools-to-til-project-3a89)
+- [Lifehacker] [These Are Amazon’s Best Early Black Friday Laptop Deals](https://lifehacker.com/tech/amazon-black-friday-laptop-deals)
 - [Dev.to/JS] [Array methods and when to use them, forEach, map, reduce](https://dev.to/gingerchew/array-methods-and-when-to-use-them-foreach-map-reduce-5bab)
 - [Dev.to/JS] [Understanding Time Complexity](https://dev.to/khamal22/understanding-time-complexity-3o5f)
+- [Lifehacker] [Govee’s Smart Space Heater Lite Will Get You Hot](https://lifehacker.com/tech/govee-smart-space-heaters-review-comparison)
 - [Dev.to/JS] [JavaScript From 0 to Mastery: My Personal Playbook for Conquering Web Development](https://dev.to/opensourcee/javascript-from-0-to-mastery-the-way-i-would-do-it-today-5d19)
 - [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Dev.to/JS] [WEREWOLF WEED](https://dev.to/christiecamp/werewolf-weed-52an)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typesafe - An Overused Term That Needs a Reality Check](https://dev.to/psypher1/typesafe-an-overused-term-that-needs-a-reality-check-5ho0)
 - [Dev.to/JS] [Nha Khoa Tâm Sài Gòn](https://dev.to/nhakhoatamsaigon/nha-khoa-tam-sai-gon-h4a)
 - [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
-- [Dev.to/JS] [Pitch Deck Pro](https://dev.to/rankmarket123/pitch-deck-pro-4f23)
-- [Dev.to/JS] [🤫 Secret JavaScript Methods They Don&#39;t Want You To See &lpar;part 1&rpar;](https://dev.to/magnificode/secret-javascript-methods-they-dont-want-you-to-see-part-1-b93)
 - [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)
 - [Lifehacker] [Embrace the Cold and the Mud, Like the Swedish Do](https://lifehacker.com/health/get-outside-more-the-swedish-way)
 - [Lifehacker] [These New Features Might Actually Make You Want to Use Safari](https://lifehacker.com/tech/new-safari-17-features-in-macos-sonoma)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Pixel 8 Pro is $200 Off for Black Friday](https://lifehacker.com/tech/pixel-8-pro-black-friday-deal)
 - [Lifehacker] [Apple Is About to Make Texting an Android Phone Suck Less](https://lifehacker.com/tech/apple-finally-adopts-rsc-messaging)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
-- [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
-- [Lifehacker] [Steam Your Spuds for Quicker Mashed Potatoes](https://lifehacker.com/food-drink/steam-mashed-potatoes)
-- [Lifehacker] [How to Prepare for a Solar Flare Hitting Earth &lpar;Because It&#39;s Probably Going to Happen&rpar;](https://lifehacker.com/how-to-prepare-for-a-solar-flare-hitting-earth-because-1848076402)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)<!-- TECH-POSTS:END -->
 
 ---
 
