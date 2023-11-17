@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The good, bad and ugly of the &quot;HTML first&quot; manifest](https://dev.to/lebbe/the-good-bad-and-ugly-of-the-html-first-manifest-3j3l)
+- [Dev.to/JS] [Do you Know? 🧐](https://dev.to/studio/do-you-know-9mn)
 - [Dev.to/JS] [Automatically Solving and Bypassing reCAPTCHA in Puppeteer](https://dev.to/markus009/automatically-solving-and-bypassing-recaptcha-in-puppeteer-c7f)
 - [Dev.to/JS] [What is the best way to use pagination? Cursor based or page based &lpar;Offset&rpar;.](https://dev.to/codingcrafts/what-is-the-best-way-to-use-pagination-cursor-based-or-page-based-offset-5dc4)
 - [Dev.to/JS] [Creating and running a Next.js project using Bun](https://dev.to/emesislol/creating-and-running-a-nextjs-project-using-bun-aef)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Download Free Programming Software As We Offer In Paid](https://dev.to/malikarslan1158/download-free-programming-software-as-we-offer-in-paid-oe6)
 - [Dev.to/JS] [Handling Data Updates and Expirations in Redis for Enhanced Cache Management](https://dev.to/techjayvee/handling-data-updates-and-expirations-in-redis-for-enhanced-cache-management-43mi)
 - [Dev.to/JS] [Optimizing Data Retrieval with Redis Caching in Your Express App](https://dev.to/techjayvee/optimizing-data-retrieval-with-redis-caching-in-your-express-app-1l15)
-- [Dev.to/JS] [Adding and Retrieving Data with Redis in Your Express Application](https://dev.to/techjayvee/adding-and-retrieving-data-with-redis-in-your-express-application-1le7)
-- [Dev.to/JS] [Setting Up Redis and Express for Your Application](https://dev.to/techjayvee/setting-up-redis-and-express-for-your-application-2e22)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
