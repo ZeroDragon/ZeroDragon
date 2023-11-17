@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
+- [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
 - [Dev.to/JS] [Speed Up the Headless Browser in Playwright](https://dev.to/mikestopcontinues/speed-up-the-headless-browser-in-playwright-3ho0)
 - [Lifehacker] [Should You Buy The Google Pixel 8 Pro or Samsung Galaxy S23 Ultra?](https://lifehacker.com/tech/google-pixel-8-pro-samsung-galaxy-s23-ultra-comparison)
 - [Lifehacker] [The Analogue Pocket Finally Gives You a Use for Your Old Game Cartridges](https://lifehacker.com/tech/what-is-the-analogue-pocket)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
 - [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
 - [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)
-- [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
-- [Lifehacker] [You Can Now Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
-- [Lifehacker] [These Are the Best Early Black Friday Vacuum Deals](https://lifehacker.com/home/best-early-black-friday-vacuum-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)<!-- TECH-POSTS:END -->
 
 ---
 
