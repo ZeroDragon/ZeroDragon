@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Remainder Operator in JS](https://dev.to/shubhamtiwari909/remainder-operator-in-js-41jk)
+- [Dev.to/JS] [How to Use JavaScript Array Splice](https://dev.to/refine/how-to-use-javascript-array-splice-1873)
 - [Dev.to/JS] [Efficient Retries: Implementing Fibonacci Backoff in JavaScript Fetch Requests](https://dev.to/thanhphuchuynh/efficient-retries-implementing-fibonacci-backoff-in-javascript-fetch-requests-2h4p)
 - [Dev.to/JS] [Easy Leafz CBD Gummies Reviews 2023, Where to Buy in Canada?](https://dev.to/easyleafzcbd23/easy-leafz-cbd-gummies-reviews-2023-where-to-buy-in-canada-56e1)
 - [Dev.to/JS] [Williamsburg - Multipage ecommerce theme.](https://dev.to/lexingtonthemes/williamsburg-multipage-ecommerce-theme-5hbn)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the best way to use pagination? Cursor based or page based &lpar;Offset&rpar;.](https://dev.to/codingcrafts/what-is-the-best-way-to-use-pagination-cursor-based-or-page-based-offset-5dc4)
 - [Dev.to/JS] [Creating and running a Next.js project using Bun](https://dev.to/emesislol/creating-and-running-a-nextjs-project-using-bun-aef)
 - [Dev.to/JS] [React ⚛️ + Firebase 🔥 without useEffect](https://dev.to/bennycarlsson/react-firebase-without-useeffect-3g06)
-- [Dev.to/JS] [Black Falcon Drone Reviews](https://dev.to/ydsakhrba/black-falcon-drone-reviews-3f43)
-- [Dev.to/JS] [React Animation Libraries.](https://dev.to/fazicodes/react-animation-libraries-3p2b)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
