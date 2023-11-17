@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Talk to Your Parents About Their Estate Plans Without It Being Awkward](https://lifehacker.com/money/how-to-talk-to-parents-about-estate-plan)
+- [Lifehacker] [Air Fry a Pumpkin Pie for Thanksgiving](https://lifehacker.com/food-drink/air-fried-pumpkin-pie-recipe)
 - [Dev.to/JS] [Paracetamol.js💊| #222: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-222-explica-este-codigo-javascript-1fe)
 - [Dev.to/JS] [Unleash Your Own Crypto Powerhouse: Master the Secrets of Building a DEX Like Uniswap!](https://dev.to/getblockapi/unleash-your-own-crypto-powerhouse-master-the-secrets-of-building-a-dex-like-uniswap-4ed8)
 - [Dev.to/JS] [W.I.L.D - Week 2](https://dev.to/393creative/wild-week-2-1pem)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Winterize and Store Your Garden Tools](https://lifehacker.com/home/winterize-garden-tools)
 - [Lifehacker] [You Should Sous Vide Your Leftovers](https://lifehacker.com/food-drink/reheat-leftovers-in-sous-vide-immersion-circulator)
 - [Lifehacker] [The Best Way to Store Leftover Turkey](https://lifehacker.com/food-drink/how-to-store-leftover-thanksgiving-turkey)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
-- [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
-- [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)<!-- TECH-POSTS:END -->
 
 ---
 
