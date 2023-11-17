@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating and running a Next.js project using Bun](https://dev.to/emesislol/creating-and-running-a-nextjs-project-using-bun-aef)
+- [Dev.to/JS] [React ⚛️ + Firebase 🔥 without useEffect](https://dev.to/bennycarlsson/react-firebase-without-useeffect-3g06)
+- [Dev.to/JS] [Black Falcon Drone Reviews](https://dev.to/ydsakhrba/black-falcon-drone-reviews-3f43)
 - [Dev.to/JS] [React Animation Libraries.](https://dev.to/fazicodes/react-animation-libraries-3p2b)
 - [Dev.to/JS] [Download Free Programming Software As We Offer In Paid](https://dev.to/malikarslan1158/download-free-programming-software-as-we-offer-in-paid-oe6)
 - [Dev.to/JS] [Handling Data Updates and Expirations in Redis for Enhanced Cache Management](https://dev.to/techjayvee/handling-data-updates-and-expirations-in-redis-for-enhanced-cache-management-43mi)
@@ -38,16 +41,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2 Ways To Create Table From Array In Javascript](https://dev.to/codeboxx/2-ways-to-create-table-from-array-in-javascript-3deb)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
-- [Dev.to/JS] [Speed Up the Headless Browser in Playwright](https://dev.to/mikestopcontinues/speed-up-the-headless-browser-in-playwright-3ho0)
 - [Lifehacker] [Should You Buy The Google Pixel 8 Pro or Samsung Galaxy S23 Ultra?](https://lifehacker.com/tech/google-pixel-8-pro-samsung-galaxy-s23-ultra-comparison)
 - [Lifehacker] [The Analogue Pocket Finally Gives You a Use for Your Old Game Cartridges](https://lifehacker.com/tech/what-is-the-analogue-pocket)
 - [Lifehacker] [This Is the Only Way to Bypass Google Maps&#39; Divisive New Color Scheme](https://lifehacker.com/tech/how-to-change-new-google-maps-colors)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [10 of Best Places to Hide Christmas Gifts Where Your Family Will Never Find Them](https://lifehacker.com/the-best-places-to-hide-christmas-gifts-that-you-never-1848194754)
 - [Lifehacker] [The Pixel 8 Pro is $200 Off for Black Friday](https://lifehacker.com/tech/pixel-8-pro-black-friday-deal)
-- [Dev.to/JS] [Tailwind for React Native](https://dev.to/s-fabian/tailwind-for-react-native-2pmf)
 - [Lifehacker] [Apple Is About to Make Texting an Android Phone Suck Less](https://lifehacker.com/tech/apple-finally-adopts-rsc-messaging)
-- [Dev.to/JS] [How to update your SuperViz integration with ThreeJs to v5](https://dev.to/superviz/how-to-update-your-superviz-integration-with-threejs-to-v5-40lk)
 - [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
 - [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
 - [Lifehacker] [Steam Your Spuds for Quicker Mashed Potatoes](https://lifehacker.com/food-drink/steam-mashed-potatoes)
