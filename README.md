@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cân xương đoán số](https://dev.to/tuvivn123/can-xuong-doan-so-69l)
+- [Dev.to/JS] [Unlocking the Power of GraphQL for Beginners: A Step-by-Step Guide to Integrating GraphQL into Your Existing Project](https://dev.to/henriqueweiand/unlocking-the-power-of-graphql-for-beginners-a-step-by-step-guide-to-integrating-graphql-into-your-existing-project-51ob)
+- [Dev.to/JS] [How to update you SuperViz integration with Autodesk Viewer to v5](https://dev.to/superviz/how-to-update-you-superviz-integration-with-autodesk-viewer-to-v5-4ck8)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Bin Laden Trending on TikTok?](https://lifehacker.com/entertainment/why-is-osama-bin-laden-trending-on-tiktok)
+- [Dev.to/JS] [la so tu vi](https://dev.to/tuvivn123/la-so-tu-vi-3ag9)
 - [Lifehacker] [How to Talk to Your Parents About Their Estate Plans Without It Being Awkward](https://lifehacker.com/money/how-to-talk-to-parents-about-estate-plan)
 - [Lifehacker] [Air Fry a Pumpkin Pie for Thanksgiving](https://lifehacker.com/food-drink/air-fried-pumpkin-pie-recipe)
 - [Dev.to/JS] [Paracetamol.js💊| #222: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-222-explica-este-codigo-javascript-1fe)
@@ -36,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Codemotion Milan 2023: my first session in public](https://dev.to/th3wall/codemotion-milan-2023-my-first-session-in-public-hc6)
 - [Dev.to/JS] [Transitioning to a Microservices Architecture: Overcoming Obstacles](https://dev.to/documatic/transitioning-to-a-microservices-architecture-overcoming-obstacles-5b09)
 - [Dev.to/JS] [Remainder Operator in JS](https://dev.to/shubhamtiwari909/remainder-operator-in-js-41jk)
-- [Dev.to/JS] [How to Use JavaScript Array Splice](https://dev.to/refine/how-to-use-javascript-array-splice-1873)
-- [Dev.to/JS] [Efficient Retries: Implementing Fibonacci Backoff in JavaScript Fetch Requests](https://dev.to/thanhphuchuynh/efficient-retries-implementing-fibonacci-backoff-in-javascript-fetch-requests-2h4p)
-- [Dev.to/JS] [Easy Leafz CBD Gummies Reviews 2023, Where to Buy in Canada?](https://dev.to/easyleafzcbd23/easy-leafz-cbd-gummies-reviews-2023-where-to-buy-in-canada-56e1)
-- [Dev.to/JS] [Williamsburg - Multipage ecommerce theme.](https://dev.to/lexingtonthemes/williamsburg-multipage-ecommerce-theme-5hbn)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [AI Money Apps Can’t Replace Good Old Pen and Paper](https://lifehacker.com/money/personal-budget-pen-and-paper)
 - [Lifehacker] [The Best Ways to Winterize and Store Your Garden Tools](https://lifehacker.com/home/winterize-garden-tools)
 - [Lifehacker] [You Should Sous Vide Your Leftovers](https://lifehacker.com/food-drink/reheat-leftovers-in-sous-vide-immersion-circulator)
-- [Lifehacker] [The Best Way to Store Leftover Turkey](https://lifehacker.com/food-drink/how-to-store-leftover-thanksgiving-turkey)
-- [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Store Leftover Turkey](https://lifehacker.com/food-drink/how-to-store-leftover-thanksgiving-turkey)<!-- TECH-POSTS:END -->
 
 ---
 
