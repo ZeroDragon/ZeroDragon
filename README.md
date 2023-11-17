@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring JavaScript DOM Manipulation: A Beginner&#39;s Guide to Interacting with Web Pages 🌐✨](https://dev.to/gurrudev/exploring-javascript-dom-manipulation-a-beginners-guide-to-interacting-with-web-pages-397)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
 - [Dev.to/JS] [2 Ways To Create Table From Array In Javascript](https://dev.to/codeboxx/2-ways-to-create-table-from-array-in-javascript-3deb)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sharing options without platforms](https://dev.to/ovidem/sharing-options-without-platforms-cha)
 - [Dev.to/JS] [How to Download Pathaan 2023 on Movieswood](https://dev.to/movieswood/how-to-download-pathaan-2023-on-movieswood-1jee)
 - [Dev.to/JS] [How to Change the Default Port Number in React](https://dev.to/jayanthbabu123/how-to-change-the-default-port-number-in-react-28cn)
-- [Dev.to/JS] [How We Reduced Replay SDK Bundle Size by 35%](https://dev.to/sentry/how-we-reduced-replay-sdk-bundle-size-by-35-2g0f)
 - [Lifehacker] [How to Prepare for a Solar Flare Hitting Earth &lpar;Because It&#39;s Probably Going to Happen&rpar;](https://lifehacker.com/how-to-prepare-for-a-solar-flare-hitting-earth-because-1848076402)
 - [Lifehacker] [10 of the Best Podcasts to Listen to This Thanksgiving](https://lifehacker.com/entertainment/best-thanksgiving-podcasts)
 - [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)
