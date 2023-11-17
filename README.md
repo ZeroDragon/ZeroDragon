@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a modern Cloud Native Full stack Microservices Project: End to End — Introduction](https://dev.to/soumalyatheking22012001/building-a-modern-cloud-native-full-stack-microservices-project-end-to-end-introduction-3djj)
+- [Dev.to/JS] [Codemotion Milan 2023: my first session in public](https://dev.to/th3wall/codemotion-milan-2023-my-first-session-in-public-hc6)
+- [Dev.to/JS] [Transitioning to a Microservices Architecture: Overcoming Obstacles](https://dev.to/documatic/transitioning-to-a-microservices-architecture-overcoming-obstacles-5b09)
 - [Dev.to/JS] [Remainder Operator in JS](https://dev.to/shubhamtiwari909/remainder-operator-in-js-41jk)
 - [Dev.to/JS] [How to Use JavaScript Array Splice](https://dev.to/refine/how-to-use-javascript-array-splice-1873)
 - [Dev.to/JS] [Efficient Retries: Implementing Fibonacci Backoff in JavaScript Fetch Requests](https://dev.to/thanhphuchuynh/efficient-retries-implementing-fibonacci-backoff-in-javascript-fetch-requests-2h4p)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The good, bad and ugly of the &quot;HTML first&quot; manifest](https://dev.to/lebbe/the-good-bad-and-ugly-of-the-html-first-manifest-3j3l)
 - [Dev.to/JS] [Do you Know? 🧐](https://dev.to/studio/do-you-know-9mn)
 - [Dev.to/JS] [Automatically Solving and Bypassing reCAPTCHA in Puppeteer](https://dev.to/markus009/automatically-solving-and-bypassing-recaptcha-in-puppeteer-c7f)
-- [Dev.to/JS] [What is the best way to use pagination? Cursor based or page based &lpar;Offset&rpar;.](https://dev.to/codingcrafts/what-is-the-best-way-to-use-pagination-cursor-based-or-page-based-offset-5dc4)
-- [Dev.to/JS] [Creating and running a Next.js project using Bun](https://dev.to/emesislol/creating-and-running-a-nextjs-project-using-bun-aef)
-- [Dev.to/JS] [React ⚛️ + Firebase 🔥 without useEffect](https://dev.to/bennycarlsson/react-firebase-without-useeffect-3g06)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
