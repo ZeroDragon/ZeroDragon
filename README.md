@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pitch Deck Pro](https://dev.to/rankmarket123/pitch-deck-pro-4f23)
+- [Dev.to/JS] [🤫 Secret JavaScript Methods They Don&#39;t Want You To See &lpar;part 1&rpar;](https://dev.to/magnificode/secret-javascript-methods-they-dont-want-you-to-see-part-1-b93)
+- [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)
+- [Dev.to/JS] [Node.js workings](https://dev.to/gregwitha-g/nodejs-workings-2jgm)
+- [Lifehacker] [Embrace the Cold and the Mud, Like the Swedish Do](https://lifehacker.com/health/get-outside-more-the-swedish-way)
 - [Dev.to/JS] [Criação de Design Systems - Frontend](https://dev.to/telles/criacao-de-design-systems-frontend-lak)
 - [Dev.to/JS] [some&lpar;&rpar; in javascript](https://dev.to/raisan_jmr_/some-in-javascript-2ik6)
 - [Dev.to/JS] [How to use Vector Tiles in Leaflet](https://dev.to/bolollo/how-to-use-vector-tiles-in-leaflet-216o)
@@ -41,12 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cân xương đoán số](https://dev.to/tuvivn123/can-xuong-doan-so-69l)
 - [Lifehacker] [The Easiest Way to Block Newsletter and Cookie Pop-ups on Any Website](https://lifehacker.com/tech/block-newsletter-popups)
 - [Dev.to/JS] [Unlocking the Power of GraphQL for Beginners: A Step-by-Step Guide to Integrating GraphQL into Your Existing Project](https://dev.to/henriqueweiand/unlocking-the-power-of-graphql-for-beginners-a-step-by-step-guide-to-integrating-graphql-into-your-existing-project-51ob)
-- [Dev.to/JS] [How to update you SuperViz integration with Autodesk Viewer to v5](https://dev.to/superviz/how-to-update-you-superviz-integration-with-autodesk-viewer-to-v5-4ck8)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Bin Laden Trending on TikTok?](https://lifehacker.com/entertainment/why-is-osama-bin-laden-trending-on-tiktok)
-- [Dev.to/JS] [la so tu vi](https://dev.to/tuvivn123/la-so-tu-vi-3ag9)
 - [Lifehacker] [How to Talk to Your Parents About Their Estate Plans Without It Being Awkward](https://lifehacker.com/money/how-to-talk-to-parents-about-estate-plan)
 - [Lifehacker] [Air Fry a Pumpkin Pie for Thanksgiving](https://lifehacker.com/food-drink/air-fried-pumpkin-pie-recipe)
-- [Dev.to/JS] [Paracetamol.js💊| #222: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-222-explica-este-codigo-javascript-1fe)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prepare for a Solar Flare Hitting Earth &lpar;Because It&#39;s Probably Going to Happen&rpar;](https://lifehacker.com/how-to-prepare-for-a-solar-flare-hitting-earth-because-1848076402)
 - [Lifehacker] [10 of the Best Podcasts to Listen to This Thanksgiving](https://lifehacker.com/entertainment/best-thanksgiving-podcasts)
 - [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)
-- [Lifehacker] [Control &lpar;Almost&rpar; All of Your Smart-Home Tech With the Brilliant Home Control Hub](https://lifehacker.com/tech/brilliant-home-control-hub-review)
-- [Lifehacker] [What People Are Getting Wrong This Week: The Danger of Deepfakes](https://lifehacker.com/entertainment/are-deepfakes-dangerous)
-- [Lifehacker] [These Are the Best and Worst Times to Drive Over Thanksgiving, According to AAA](https://lifehacker.com/travel/best-thanksgiving-travel-times)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Control &lpar;Almost&rpar; All of Your Smart-Home Tech With the Brilliant Home Control Hub](https://lifehacker.com/tech/brilliant-home-control-hub-review)<!-- TECH-POSTS:END -->
 
 ---
 
