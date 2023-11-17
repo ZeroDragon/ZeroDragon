@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Building a modern Cloud Native Full stack Microservices Project: End to End — Introduction](https://dev.to/soumalyatheking22012001/building-a-modern-cloud-native-full-stack-microservices-project-end-to-end-introduction-3djj)
+- [Dev.to/JS] [Paracetamol.js💊| #222: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-222-explica-este-codigo-javascript-1fe)
+- [Dev.to/JS] [Unleash Your Own Crypto Powerhouse: Master the Secrets of Building a DEX Like Uniswap!](https://dev.to/getblockapi/unleash-your-own-crypto-powerhouse-master-the-secrets-of-building-a-dex-like-uniswap-4ed8)
+- [Dev.to/JS] [W.I.L.D - Week 2](https://dev.to/393creative/wild-week-2-1pem)
+- [Dev.to/JS] [Mastering Progressive Web Apps &lpar;PWAs&rpar;: Advanced Techniques and Best Practices](https://dev.to/ahmed_onour/mastering-progressive-web-apps-pwas-advanced-techniques-and-best-practices-5e92)
+- [Dev.to/JS] [Building a modern Cloud Native Full stack Microservices Project: End to End — Introduction](https://dev.to/opticsquid/building-a-modern-cloud-native-full-stack-microservices-project-end-to-end-introduction-3djj)
 - [Dev.to/JS] [Codemotion Milan 2023: my first session in public](https://dev.to/th3wall/codemotion-milan-2023-my-first-session-in-public-hc6)
 - [Dev.to/JS] [Transitioning to a Microservices Architecture: Overcoming Obstacles](https://dev.to/documatic/transitioning-to-a-microservices-architecture-overcoming-obstacles-5b09)
 - [Dev.to/JS] [Remainder Operator in JS](https://dev.to/shubhamtiwari909/remainder-operator-in-js-41jk)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Efficient Retries: Implementing Fibonacci Backoff in JavaScript Fetch Requests](https://dev.to/thanhphuchuynh/efficient-retries-implementing-fibonacci-backoff-in-javascript-fetch-requests-2h4p)
 - [Dev.to/JS] [Easy Leafz CBD Gummies Reviews 2023, Where to Buy in Canada?](https://dev.to/easyleafzcbd23/easy-leafz-cbd-gummies-reviews-2023-where-to-buy-in-canada-56e1)
 - [Dev.to/JS] [Williamsburg - Multipage ecommerce theme.](https://dev.to/lexingtonthemes/williamsburg-multipage-ecommerce-theme-5hbn)
-- [Dev.to/JS] [Anchor scroll at the bottom of the container with dynamic content](https://dev.to/hugaidas/anchor-scroll-at-the-bottom-of-the-container-with-dynamic-content-2knj)
-- [Dev.to/JS] [The good, bad and ugly of the &quot;HTML first&quot; manifest](https://dev.to/lebbe/the-good-bad-and-ugly-of-the-html-first-manifest-3j3l)
-- [Dev.to/JS] [Do you Know? 🧐](https://dev.to/studio/do-you-know-9mn)
-- [Dev.to/JS] [Automatically Solving and Bypassing reCAPTCHA in Puppeteer](https://dev.to/markus009/automatically-solving-and-bypassing-recaptcha-in-puppeteer-c7f)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
