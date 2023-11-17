@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Early Amazon Black Friday Deals on Monitors](https://lifehacker.com/tech/best-early-amazon-black-friday-computer-monitors)
+- [Dev.to/JS] [Joys and woes of monorepos](https://dev.to/binarykoan/joys-and-woes-of-monorepos-o5c)
+- [Dev.to/JS] [Dependency hoisting in Yarn monorepos](https://dev.to/binarykoan/dependency-hoisting-in-yarn-monorepos-279i)
+- [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
 - [Dev.to/JS] [Episode 23/45: Angular 17](https://dev.to/this-is-angular/episode-2345-angular-17-50oe)
+- [Lifehacker] [These Arlo, Blink, and Eufy Security Cameras are on Sale at Amazon for Early Black Friday](https://lifehacker.com/home/the-best-home-security-and-doorbell-camera-black-friday-deals-on-amazon)
+- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Desktops](https://lifehacker.com/tech/amazon-early-black-friday-desktop-computers)
 - [Dev.to/JS] [Adding Tools to TIL Project.](https://dev.to/sshah135/adding-tools-to-til-project-3a89)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Laptop Deals](https://lifehacker.com/tech/amazon-black-friday-laptop-deals)
 - [Dev.to/JS] [Array methods and when to use them, forEach, map, reduce](https://dev.to/gingerchew/array-methods-and-when-to-use-them-foreach-map-reduce-5bab)
@@ -40,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)
 - [Dev.to/JS] [Having fun with svelte stores with store proxies](https://dev.to/nasheomirro/having-fun-with-svelte-stores-with-store-proxies-k6e)
 - [Dev.to/JS] [AffKit](https://dev.to/wsovn123/affkit-41b0)
-- [Dev.to/JS] [Typesafe - An Overused Term That Needs a Reality Check](https://dev.to/psypher1/typesafe-an-overused-term-that-needs-a-reality-check-5ho0)
-- [Dev.to/JS] [Nha Khoa Tâm Sài Gòn](https://dev.to/nhakhoatamsaigon/nha-khoa-tam-sai-gon-h4a)
 - [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
 - [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)
 - [Lifehacker] [Embrace the Cold and the Mud, Like the Swedish Do](https://lifehacker.com/health/get-outside-more-the-swedish-way)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Analogue Pocket Finally Gives You a Use for Your Old Game Cartridges](https://lifehacker.com/tech/what-is-the-analogue-pocket)
 - [Lifehacker] [This Is the Only Way to Bypass Google Maps&#39; Divisive New Color Scheme](https://lifehacker.com/tech/how-to-change-new-google-maps-colors)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
-- [Lifehacker] [10 of Best Places to Hide Christmas Gifts Where Your Family Will Never Find Them](https://lifehacker.com/the-best-places-to-hide-christmas-gifts-that-you-never-1848194754)
-- [Lifehacker] [The Pixel 8 Pro is $200 Off for Black Friday](https://lifehacker.com/tech/pixel-8-pro-black-friday-deal)
-- [Lifehacker] [Apple Is About to Make Texting an Android Phone Suck Less](https://lifehacker.com/tech/apple-finally-adopts-rsc-messaging)
-- [Lifehacker] [Why the FDA Keeps Recalling Eye Drops](https://lifehacker.com/why-the-fda-keeps-recalling-eye-drops-1850977755)
-- [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of Best Places to Hide Christmas Gifts Where Your Family Will Never Find Them](https://lifehacker.com/the-best-places-to-hide-christmas-gifts-that-you-never-1848194754)<!-- TECH-POSTS:END -->
 
 ---
 
