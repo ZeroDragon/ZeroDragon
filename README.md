@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding Continuous Integration &lpar;CI&rpar; to my Open Source Project](https://dev.to/mismathh/adding-continuous-integration-ci-to-my-open-source-project-4nl)
+- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Apple Products](https://lifehacker.com/tech/amazons-early-black-friday-deals-apple)
+- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Smartphones](https://lifehacker.com/tech/amazon-best-early-black-friday-deals-smartphones)
+- [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Smartwatches](https://lifehacker.com/tech/amazon-early-black-friday-deals-smartwatches)
+- [Dev.to/JS] [Mastering JavaScript Control Flow: A Comprehensive Guide for Beginners # Click Here:-](https://dev.to/digonto13/picture-library-hubmastering-javascript-control-flow-a-comprehensive-guide-for-beginnersclick-here-3h8n)
+- [Lifehacker] [The Best Early Black Friday Deals on Fitness Watches](https://lifehacker.com/health/early-black-friday-deals-fitness-smart-watches)
+- [Lifehacker] [Here Are Amazon’s Best Early Black Friday Deals for DIYers](https://lifehacker.com/home/best-black-friday-tool-deals-on-amazon)
 - [Lifehacker] [These Are the Best Early Amazon Black Friday Deals on Monitors](https://lifehacker.com/tech/best-early-amazon-black-friday-computer-monitors)
 - [Dev.to/JS] [Joys and woes of monorepos](https://dev.to/binarykoan/joys-and-woes-of-monorepos-o5c)
 - [Dev.to/JS] [Dependency hoisting in Yarn monorepos](https://dev.to/binarykoan/dependency-hoisting-in-yarn-monorepos-279i)
@@ -44,8 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WEREWOLF WEED](https://dev.to/christiecamp/werewolf-weed-4hgd)
 - [Dev.to/JS] [# A new look at modals in vue 3](https://dev.to/jenesius/-a-new-look-at-modals-in-vue-3-34eb)
 - [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)
-- [Dev.to/JS] [Having fun with svelte stores with store proxies](https://dev.to/nasheomirro/having-fun-with-svelte-stores-with-store-proxies-k6e)
-- [Dev.to/JS] [AffKit](https://dev.to/wsovn123/affkit-41b0)
 - [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
 - [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)
 - [Lifehacker] [Embrace the Cold and the Mud, Like the Swedish Do](https://lifehacker.com/health/get-outside-more-the-swedish-way)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Air Fry a Pumpkin Pie for Thanksgiving](https://lifehacker.com/food-drink/air-fried-pumpkin-pie-recipe)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
-- [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
-- [Lifehacker] [Should You Buy The Google Pixel 8 Pro or Samsung Galaxy S23 Ultra?](https://lifehacker.com/tech/google-pixel-8-pro-samsung-galaxy-s23-ultra-comparison)
-- [Lifehacker] [The Analogue Pocket Finally Gives You a Use for Your Old Game Cartridges](https://lifehacker.com/tech/what-is-the-analogue-pocket)
-- [Lifehacker] [This Is the Only Way to Bypass Google Maps&#39; Divisive New Color Scheme](https://lifehacker.com/tech/how-to-change-new-google-maps-colors)
-- [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
-- [Lifehacker] [10 of Best Places to Hide Christmas Gifts Where Your Family Will Never Find Them](https://lifehacker.com/the-best-places-to-hide-christmas-gifts-that-you-never-1848194754)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)<!-- TECH-POSTS:END -->
 
 ---
 
