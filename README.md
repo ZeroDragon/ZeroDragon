@@ -26,19 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automatically Solving and Bypassing reCAPTCHA in Puppeteer](https://dev.to/markus009/automatically-solving-and-bypassing-recaptcha-in-puppeteer-c7f)
+- [Dev.to/JS] [What is the best way to use pagination? Cursor based or page based &lpar;Offset&rpar;.](https://dev.to/codingcrafts/what-is-the-best-way-to-use-pagination-cursor-based-or-page-based-offset-5dc4)
 - [Dev.to/JS] [Creating and running a Next.js project using Bun](https://dev.to/emesislol/creating-and-running-a-nextjs-project-using-bun-aef)
 - [Dev.to/JS] [React ⚛️ + Firebase 🔥 without useEffect](https://dev.to/bennycarlsson/react-firebase-without-useeffect-3g06)
 - [Dev.to/JS] [Black Falcon Drone Reviews](https://dev.to/ydsakhrba/black-falcon-drone-reviews-3f43)
 - [Dev.to/JS] [React Animation Libraries.](https://dev.to/fazicodes/react-animation-libraries-3p2b)
+- [Dev.to/JS] [⚡️Understanding angular dynamic forms with JSON data](https://dev.to/balajipatnam/understanding-angular-dynamic-forms-with-json-data-26eb)
 - [Dev.to/JS] [Download Free Programming Software As We Offer In Paid](https://dev.to/malikarslan1158/download-free-programming-software-as-we-offer-in-paid-oe6)
 - [Dev.to/JS] [Handling Data Updates and Expirations in Redis for Enhanced Cache Management](https://dev.to/techjayvee/handling-data-updates-and-expirations-in-redis-for-enhanced-cache-management-43mi)
 - [Dev.to/JS] [Optimizing Data Retrieval with Redis Caching in Your Express App](https://dev.to/techjayvee/optimizing-data-retrieval-with-redis-caching-in-your-express-app-1l15)
 - [Dev.to/JS] [Adding and Retrieving Data with Redis in Your Express Application](https://dev.to/techjayvee/adding-and-retrieving-data-with-redis-in-your-express-application-1le7)
 - [Dev.to/JS] [Setting Up Redis and Express for Your Application](https://dev.to/techjayvee/setting-up-redis-and-express-for-your-application-2e22)
-- [Dev.to/JS] [Understanding Caching with Redis: A Step-by-Step Tutorial](https://dev.to/techjayvee/understanding-caching-with-redis-a-step-by-step-tutorial-111a)
-- [Dev.to/JS] [Exploring JavaScript DOM Manipulation: A Beginner&#39;s Guide to Interacting with Web Pages 🌐✨](https://dev.to/gurrudev/exploring-javascript-dom-manipulation-a-beginners-guide-to-interacting-with-web-pages-397)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
-- [Dev.to/JS] [2 Ways To Create Table From Array In Javascript](https://dev.to/codeboxx/2-ways-to-create-table-from-array-in-javascript-3deb)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
 - [Lifehacker] [Should You Buy The Google Pixel 8 Pro or Samsung Galaxy S23 Ultra?](https://lifehacker.com/tech/google-pixel-8-pro-samsung-galaxy-s23-ultra-comparison)
