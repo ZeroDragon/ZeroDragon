@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
+- [Dev.to/JS] [2 Ways To Create Table From Array In Javascript](https://dev.to/codeboxx/2-ways-to-create-table-from-array-in-javascript-3deb)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
 - [Dev.to/JS] [Speed Up the Headless Browser in Playwright](https://dev.to/mikestopcontinues/speed-up-the-headless-browser-in-playwright-3ho0)
@@ -50,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Change the Default Port Number in React](https://dev.to/jayanthbabu123/how-to-change-the-default-port-number-in-react-28cn)
 - [Dev.to/JS] [How We Reduced Replay SDK Bundle Size by 35%](https://dev.to/sentry/how-we-reduced-replay-sdk-bundle-size-by-35-2g0f)
 - [Lifehacker] [How to Prepare for a Solar Flare Hitting Earth &lpar;Because It&#39;s Probably Going to Happen&rpar;](https://lifehacker.com/how-to-prepare-for-a-solar-flare-hitting-earth-because-1848076402)
-- [Dev.to/JS] [#100daysofcode round #2 day #2](https://dev.to/momandalex022/100daysofcode-round-2-day-2-3fhc)
 - [Lifehacker] [10 of the Best Podcasts to Listen to This Thanksgiving](https://lifehacker.com/entertainment/best-thanksgiving-podcasts)
 - [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)
 - [Lifehacker] [Control &lpar;Almost&rpar; All of Your Smart-Home Tech With the Brilliant Home Control Hub](https://lifehacker.com/tech/brilliant-home-control-hub-review)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Store Leftover Turkey](https://lifehacker.com/food-drink/how-to-store-leftover-thanksgiving-turkey)
 - [Lifehacker] [Today’s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 16, 2023](https://lifehacker.com/preview-today-s-nyt-connections-hints-and-answer-for-thursday-1851013077)
 - [Lifehacker] [Best Buy Has the Pixel 6a for $99 When You Activate With Verizon](https://lifehacker.com/tech/best-buy-pixel-6a-deal)
-- [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)
-- [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)<!-- TECH-POSTS:END -->
+- [Lifehacker] [‘Nothing Chats’ Isn&#39;t a Safe Way to Use iMessage on Android](https://lifehacker.com/tech/nothing-phones-imessage)<!-- TECH-POSTS:END -->
 
 ---
 
