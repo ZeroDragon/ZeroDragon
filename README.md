@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WEREWOLF WEED](https://dev.to/christiecamp/werewolf-weed-52an)
+- [Dev.to/JS] [WEREWOLF WEED](https://dev.to/christiecamp/werewolf-weed-4hgd)
+- [Dev.to/JS] [# A new look at modals in vue 3](https://dev.to/jenesius/-a-new-look-at-modals-in-vue-3-34eb)
+- [Dev.to/JS] [Having fun with svelte stores with store proxies](https://dev.to/nasheomirro/having-fun-with-svelte-stores-with-store-proxies-k6e)
+- [Dev.to/JS] [AffKit](https://dev.to/wsovn123/affkit-41b0)
+- [Dev.to/JS] [Typesafe - An Overused Term That Needs a Reality Check](https://dev.to/psypher1/typesafe-an-overused-term-that-needs-a-reality-check-5ho0)
+- [Dev.to/JS] [Nha Khoa Tâm Sài Gòn](https://dev.to/nhakhoatamsaigon/nha-khoa-tam-sai-gon-h4a)
+- [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
 - [Dev.to/JS] [Pitch Deck Pro](https://dev.to/rankmarket123/pitch-deck-pro-4f23)
 - [Dev.to/JS] [🤫 Secret JavaScript Methods They Don&#39;t Want You To See &lpar;part 1&rpar;](https://dev.to/magnificode/secret-javascript-methods-they-dont-want-you-to-see-part-1-b93)
 - [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)
@@ -33,19 +41,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Embrace the Cold and the Mud, Like the Swedish Do](https://lifehacker.com/health/get-outside-more-the-swedish-way)
 - [Dev.to/JS] [Criação de Design Systems - Frontend](https://dev.to/telles/criacao-de-design-systems-frontend-lak)
 - [Dev.to/JS] [some&lpar;&rpar; in javascript](https://dev.to/raisan_jmr_/some-in-javascript-2ik6)
-- [Dev.to/JS] [How to use Vector Tiles in Leaflet](https://dev.to/bolollo/how-to-use-vector-tiles-in-leaflet-216o)
 - [Lifehacker] [These New Features Might Actually Make You Want to Use Safari](https://lifehacker.com/tech/new-safari-17-features-in-macos-sonoma)
-- [Dev.to/JS] [Xem tử vi trọn đời](https://dev.to/tuvivn123/xem-tu-vi-tron-doi-43d0)
 - [Lifehacker] [You Can Disable Apple&#39;s Inline Text Prediction](https://lifehacker.com/tech/turn-off-apple-text-prediction)
 - [Lifehacker] [The Best Ways to Attract Cardinals to Your Yard This Winter](https://lifehacker.com/home/how-to-attract-cardinals-to-backyard)
-- [Dev.to/JS] [Xem tu vi tron doi](https://dev.to/tuvivn123/xem-tu-vi-tron-doi-go9)
-- [Dev.to/JS] [MiniRx Signal Store for Angular - API Preview](https://dev.to/this-is-angular/minirx-signal-store-for-angular-api-preview-4e16)
-- [Dev.to/JS] [Pesky common issues developers have with most dependencies and how MDB fixes them #2](https://dev.to/mdbootstrap/pesky-common-issues-developers-have-with-most-dependencies-and-how-mdb-fixes-them-2-1g28)
 - [Lifehacker] [Where to Stream Football, Basketball, and Movies Galore This Holiday Season](https://lifehacker.com/entertainment/this-holiday-streaming-can-save-you-stress-and-money)
 - [Lifehacker] [Eufy&#39;s N140 Pet Camera Is a Great Gift for Pet Parents](https://lifehacker.com/tech/eufy-n140-pet-camera-review)
-- [Dev.to/JS] [Cân xương đoán số](https://dev.to/tuvivn123/can-xuong-doan-so-69l)
 - [Lifehacker] [The Easiest Way to Block Newsletter and Cookie Pop-ups on Any Website](https://lifehacker.com/tech/block-newsletter-popups)
-- [Dev.to/JS] [Unlocking the Power of GraphQL for Beginners: A Step-by-Step Guide to Integrating GraphQL into Your Existing Project](https://dev.to/henriqueweiand/unlocking-the-power-of-graphql-for-beginners-a-step-by-step-guide-to-integrating-graphql-into-your-existing-project-51ob)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Bin Laden Trending on TikTok?](https://lifehacker.com/entertainment/why-is-osama-bin-laden-trending-on-tiktok)
 - [Lifehacker] [How to Talk to Your Parents About Their Estate Plans Without It Being Awkward](https://lifehacker.com/money/how-to-talk-to-parents-about-estate-plan)
 - [Lifehacker] [Air Fry a Pumpkin Pie for Thanksgiving](https://lifehacker.com/food-drink/air-fried-pumpkin-pie-recipe)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Steam Your Spuds for Quicker Mashed Potatoes](https://lifehacker.com/food-drink/steam-mashed-potatoes)
 - [Lifehacker] [How to Prepare for a Solar Flare Hitting Earth &lpar;Because It&#39;s Probably Going to Happen&rpar;](https://lifehacker.com/how-to-prepare-for-a-solar-flare-hitting-earth-because-1848076402)
 - [Lifehacker] [10 of the Best Podcasts to Listen to This Thanksgiving](https://lifehacker.com/entertainment/best-thanksgiving-podcasts)
-- [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)
-- [Lifehacker] [Control &lpar;Almost&rpar; All of Your Smart-Home Tech With the Brilliant Home Control Hub](https://lifehacker.com/tech/brilliant-home-control-hub-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)<!-- TECH-POSTS:END -->
 
 ---
 
