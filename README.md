@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Criação de Design Systems - Frontend](https://dev.to/telles/criacao-de-design-systems-frontend-lak)
+- [Dev.to/JS] [some&lpar;&rpar; in javascript](https://dev.to/raisan_jmr_/some-in-javascript-2ik6)
+- [Dev.to/JS] [How to use Vector Tiles in Leaflet](https://dev.to/bolollo/how-to-use-vector-tiles-in-leaflet-216o)
+- [Lifehacker] [These New Features Might Actually Make You Want to Use Safari](https://lifehacker.com/tech/new-safari-17-features-in-macos-sonoma)
+- [Dev.to/JS] [Xem tử vi trọn đời](https://dev.to/tuvivn123/xem-tu-vi-tron-doi-43d0)
+- [Lifehacker] [You Can Disable Apple&#39;s Inline Text Prediction](https://lifehacker.com/tech/turn-off-apple-text-prediction)
+- [Lifehacker] [The Best Ways to Attract Cardinals to Your Yard This Winter](https://lifehacker.com/home/how-to-attract-cardinals-to-backyard)
 - [Dev.to/JS] [Xem tu vi tron doi](https://dev.to/tuvivn123/xem-tu-vi-tron-doi-go9)
 - [Dev.to/JS] [MiniRx Signal Store for Angular - API Preview](https://dev.to/this-is-angular/minirx-signal-store-for-angular-api-preview-4e16)
 - [Dev.to/JS] [Pesky common issues developers have with most dependencies and how MDB fixes them #2](https://dev.to/mdbootstrap/pesky-common-issues-developers-have-with-most-dependencies-and-how-mdb-fixes-them-2-1g28)
@@ -40,10 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Talk to Your Parents About Their Estate Plans Without It Being Awkward](https://lifehacker.com/money/how-to-talk-to-parents-about-estate-plan)
 - [Lifehacker] [Air Fry a Pumpkin Pie for Thanksgiving](https://lifehacker.com/food-drink/air-fried-pumpkin-pie-recipe)
 - [Dev.to/JS] [Paracetamol.js💊| #222: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-222-explica-este-codigo-javascript-1fe)
-- [Dev.to/JS] [Unleash Your Own Crypto Powerhouse: Master the Secrets of Building a DEX Like Uniswap!](https://dev.to/getblockapi/unleash-your-own-crypto-powerhouse-master-the-secrets-of-building-a-dex-like-uniswap-4ed8)
-- [Dev.to/JS] [W.I.L.D - Week 2](https://dev.to/393creative/wild-week-2-1pem)
-- [Dev.to/JS] [Mastering Progressive Web Apps &lpar;PWAs&rpar;: Advanced Techniques and Best Practices](https://dev.to/ahmed_onour/mastering-progressive-web-apps-pwas-advanced-techniques-and-best-practices-5e92)
-- [Dev.to/JS] [Building a modern Cloud Native Full stack Microservices Project: End to End — Introduction](https://dev.to/opticsquid/building-a-modern-cloud-native-full-stack-microservices-project-end-to-end-introduction-3djj)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
 - [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
 - [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327)
 - [Lifehacker] [Control &lpar;Almost&rpar; All of Your Smart-Home Tech With the Brilliant Home Control Hub](https://lifehacker.com/tech/brilliant-home-control-hub-review)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Danger of Deepfakes](https://lifehacker.com/entertainment/are-deepfakes-dangerous)
-- [Lifehacker] [These Are the Best and Worst Times to Drive Over Thanksgiving, According to AAA](https://lifehacker.com/travel/best-thanksgiving-travel-times)
-- [Lifehacker] [This iPhone Feature Can Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
-- [Lifehacker] [Make This Thanksgiving Mac and Cheese With Cashew Sauce](https://lifehacker.com/food-drink/vegan-cashew-mac-and-cheese)
-- [Lifehacker] [AI Money Apps Can’t Replace Good Old Pen and Paper](https://lifehacker.com/money/personal-budget-pen-and-paper)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best and Worst Times to Drive Over Thanksgiving, According to AAA](https://lifehacker.com/travel/best-thanksgiving-travel-times)<!-- TECH-POSTS:END -->
 
 ---
 
