@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Crafting a Secure Authentication System with JWT and middleware](https://dev.to/aneeqakhan/how-to-protect-routes-with-jwt-token-in-nodejs-fgk)
+- [Dev.to/JS] [26 Frontend Certifications for Web Developers 🔥🔥](https://dev.to/madza/26-frontend-certifications-for-web-developers-4md7)
+- [Dev.to/JS] [SOLID no Frontend: Design de Software no ReactJS](https://dev.to/robertheory/solid-no-frontend-design-de-software-no-reactjs-9n5)
+- [Dev.to/JS] [&quot;Financiële planning mogelijk maken met Finanz Faible: onthulling van de instrumenten van Finanzrechner en Festgeldrechner&quot;](https://dev.to/seosubhani01/financiele-planning-mogelijk-maken-met-finanz-faible-onthulling-van-de-instrumenten-van-finanzrechner-en-festgeldrechner-5h2o)
+- [Dev.to/JS] [How to Fix the Problems with JavaScript Array Methods -Splice,Sort,Reverse](https://dev.to/kipyegonline/how-to-fix-the-problems-with-javascript-array-methods-splicesortreverse-5la)
 - [Dev.to/JS] [Test-Driven Development](https://dev.to/zeeshanali0704/test-driven-development-2j46)
 - [Dev.to/JS] [CLF-C01 Exam Dumps: The Ultimate Exam Strategy](https://dev.to/osvma0vs/clf-c01-exam-dumps-the-ultimate-exam-strategy-5fl0)
 - [Dev.to/JS] [Latest Newsletter: Surrounded by Bears &lpar;Issue #141&rpar;](https://dev.to/mjgs/latest-newsletter-surrounded-by-bears-issue-141-17eo)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Essential React Hooks You Should Know](https://dev.to/bhavesh_yadav/10-essential-react-hooks-you-should-know-5ha2)
 - [Dev.to/JS] [&quot;Finanz Faible: Expert Finanzberater für umfassenden finanziellen Rat&quot;](https://dev.to/seosubhani01/finanz-faible-expert-finanzberater-fur-umfassenden-finanziellen-rat-1boa)
 - [Dev.to/JS] [Configuring Jest for Typescript Unit Tests](https://dev.to/ghostaram/configuring-jest-for-typescript-unit-tests-4iag)
-- [Dev.to/JS] [712-50 exercise take a look at engine up to date make clearing](https://dev.to/bajwa12345/712-50-exercise-take-a-look-at-engine-up-to-date-make-clearing-1l5b)
-- [Dev.to/JS] [&quot;Pro Digital Era: Leading Advertising &amp; Digital Marketing in Lahore, Pakistan&quot;](https://dev.to/seosubhani01/pro-digital-era-leading-advertising-digital-marketing-in-lahore-pakistan-58im)
-- [Dev.to/JS] [Gpen Demystified: Expert Insights from Dumpsarena](https://dev.to/l62ibdhu/gpen-demystified-expert-insights-from-dumpsarena-1k06)
-- [Dev.to/JS] [1. Explore basic types of typescript](https://dev.to/karakib2k18/1-explore-basic-types-of-typescript-och)
-- [Dev.to/JS] [Phanatik — Multipage blog theme](https://dev.to/lexingtonthemes/phanatik-multipage-blog-theme-17lb)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Digital Cameras](https://lifehacker.com/tech/amazon-black-friday-camera-deals)
