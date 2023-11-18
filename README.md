@@ -26,7 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Beats, Bose, Sony, and More Headphones Are on Sale at Amazon for Early Black Friday](https://lifehacker.com/tech/amazon-early-black-friday-deals-headphones)
+- [Lifehacker] [Here Are Amazon’s Best TV Deals for ‘Early’ Black Friday](https://lifehacker.com/tech/amazon-early-black-friday-tv-deals)
+- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Soundbars](https://lifehacker.com/tech/amazon-best-soundbar-sales)
+- [Lifehacker] [10 Amazon Early Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
+- [Lifehacker] [These Are Amazon’s Best Robot Vacuum Sales for Early Black Friday](https://lifehacker.com/home/best-amazon-early-black-friday-robot-vacuum-deals)
+- [Lifehacker] [These Are the Best Black Friday Amazon Deals on Earbuds](https://lifehacker.com/tech/best-black-friday-amazon-deals-on-earbuds)
+- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Kindle E-readers](https://lifehacker.com/tech/amazons-best-early-black-friday-deals-on-kindle-e-readers)
 - [Dev.to/JS] [JAVASCRIPT OBJECT PROTOTYPES](https://dev.to/maame_afia/javascript-object-prototypes-495m)
+- [Lifehacker] [The Best Early Black Friday Tablet Deals on Amazon](https://lifehacker.com/tech/best-early-black-friday-deals-amazon-tablets)
 - [Dev.to/JS] [Dancing with Browsers: Embracing is.opera and is.not_opera in JavaScript with &#39;thiis](https://dev.to/karbashevskyi/dancing-with-browsers-embracing-isopera-and-isnotopera-in-javascript-with-thiis-48fn)
 - [Dev.to/JS] [Adding Continuous Integration &lpar;CI&rpar; to my Open Source Project](https://dev.to/mismathh/adding-continuous-integration-ci-to-my-open-source-project-4nl)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Apple Products](https://lifehacker.com/tech/amazons-early-black-friday-deals-apple)
@@ -57,15 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These New Features Might Actually Make You Want to Use Safari](https://lifehacker.com/tech/new-safari-17-features-in-macos-sonoma)
 - [Lifehacker] [You Can Disable Apple&#39;s Inline Text Prediction](https://lifehacker.com/tech/turn-off-apple-text-prediction)
 - [Lifehacker] [The Best Ways to Attract Cardinals to Your Yard This Winter](https://lifehacker.com/home/how-to-attract-cardinals-to-backyard)
-- [Lifehacker] [Where to Stream Football, Basketball, and Movies Galore This Holiday Season](https://lifehacker.com/entertainment/this-holiday-streaming-can-save-you-stress-and-money)
-- [Lifehacker] [Eufy&#39;s N140 Pet Camera Is a Great Gift for Pet Parents](https://lifehacker.com/tech/eufy-n140-pet-camera-review)
-- [Lifehacker] [The Easiest Way to Block Newsletter and Cookie Pop-ups on Any Website](https://lifehacker.com/tech/block-newsletter-popups)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Bin Laden Trending on TikTok?](https://lifehacker.com/entertainment/why-is-osama-bin-laden-trending-on-tiktok)
-- [Lifehacker] [How to Talk to Your Parents About Their Estate Plans Without It Being Awkward](https://lifehacker.com/money/how-to-talk-to-parents-about-estate-plan)
-- [Lifehacker] [Air Fry a Pumpkin Pie for Thanksgiving](https://lifehacker.com/food-drink/air-fried-pumpkin-pie-recipe)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2023)
-- [Lifehacker] [Pommes Aligot Are the Cheesiest of All Mashed Potatoes](https://lifehacker.com/pommes-aligot-are-the-cheesiest-of-all-mashed-potatoes-1849782696)
-- [Lifehacker] [Here Are the Best Deals From Walmart’s Black Friday Sale](https://lifehacker.com/what-to-expect-from-walmarts-early-black-friday-deals-1850982935)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Stream Football, Basketball, and Movies Galore This Holiday Season](https://lifehacker.com/entertainment/this-holiday-streaming-can-save-you-stress-and-money)<!-- TECH-POSTS:END -->
 
 ---
 
