@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React useEffect Hook](https://dev.to/collinsmutai/react-useeffect-hook-307l)
+- [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)
 - [Dev.to/JS] [Focus Management. Como mejorar la accesibilidad y usabilidad de nuestros componentes.](https://dev.to/micaavigliano/focus-management-como-mejorar-la-accesibilidad-y-usabilidad-de-nuestros-componentes-50nb)
 - [Dev.to/JS] [Mangu Kumar Sahoo Kun Hai..?](https://dev.to/mangukumarsahoo/mangu-kumar-sahoo-kun-hai-41dj)
 - [Lifehacker] [Use This 100-Year-Old Productivity Method to Get More Done](https://lifehacker.com/work/the-ivy-lee-productivity-method)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Immutable Data Patterns in React](https://dev.to/kurmivivek295/immutable-data-patterns-in-react-3lo7)
 - [Dev.to/JS] [Unleashing Web Performance; Understanding Time to Interactive &lpar;TTI&rpar;](https://dev.to/fritzlolpro/unleashing-web-performance-understanding-time-to-interactive-tti-38pl)
 - [Dev.to/JS] [Component Composition in React](https://dev.to/kurmivivek295/component-composition-in-react-24f8)
-- [Dev.to/JS] [Hooks Pattern in react](https://dev.to/kurmivivek295/hooks-pattern-in-react-1bfn)
 - [Lifehacker] [Use the DRY Principle to Get More Done](https://lifehacker.com/work/dry-principle-productivity)
 - [Lifehacker] [How to Stay Warm When a Space Heater Isn’t Allowed](https://lifehacker.com/money/space-heater-alternatives)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Arlo, Blink, and Eufy Security Cameras are on Sale at Amazon for Early Black Friday](https://lifehacker.com/home/the-best-home-security-and-doorbell-camera-black-friday-deals-on-amazon)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Desktops](https://lifehacker.com/tech/amazon-early-black-friday-desktop-computers)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Laptop Deals](https://lifehacker.com/tech/amazon-black-friday-laptop-deals)
-- [Lifehacker] [Govee’s Smart Space Heater Lite Will Get You Hot](https://lifehacker.com/tech/govee-smart-space-heaters-review-comparison)
-- [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Govee’s Smart Space Heater Lite Will Get You Hot](https://lifehacker.com/tech/govee-smart-space-heaters-review-comparison)<!-- TECH-POSTS:END -->
 
 ---
 
