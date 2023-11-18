@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enhancing UX: Leveraging Nextjs Router Events for Form Manipulation](https://dev.to/glopgeek/enhancing-ux-leveraging-nextjs-router-events-for-form-manipulation-4nfd)
+- [Dev.to/JS] [10 Essential React Hooks You Should Know](https://dev.to/bhavesh_yadav/10-essential-react-hooks-you-should-know-5ha2)
+- [Dev.to/JS] [&quot;Finanz Faible: Expert Finanzberater für umfassenden finanziellen Rat&quot;](https://dev.to/seosubhani01/finanz-faible-expert-finanzberater-fur-umfassenden-finanziellen-rat-1boa)
+- [Dev.to/JS] [Configuring Jest for Typescript Unit Tests](https://dev.to/ghostaram/configuring-jest-for-typescript-unit-tests-4iag)
 - [Dev.to/JS] [712-50 exercise take a look at engine up to date make clearing](https://dev.to/bajwa12345/712-50-exercise-take-a-look-at-engine-up-to-date-make-clearing-1l5b)
 - [Dev.to/JS] [&quot;Pro Digital Era: Leading Advertising &amp; Digital Marketing in Lahore, Pakistan&quot;](https://dev.to/seosubhani01/pro-digital-era-leading-advertising-digital-marketing-in-lahore-pakistan-58im)
 - [Dev.to/JS] [Gpen Demystified: Expert Insights from Dumpsarena](https://dev.to/l62ibdhu/gpen-demystified-expert-insights-from-dumpsarena-1k06)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing JavaScript with Memoization: A Deep Dive into Boosting Performance:](https://dev.to/okrahul/optimizing-javascript-with-memoization-a-deep-dive-into-boosting-performance-4i4o)
 - [Dev.to/JS] [13 Most Common JavaScript String Methods You Should Know About](https://dev.to/devshefali/13-most-common-javascript-string-methods-you-should-know-about-7d2)
 - [Dev.to/JS] [How to handle loading screens in Next JS](https://dev.to/elihood/how-to-handle-loading-screens-in-next-js-4p0h)
-- [Dev.to/JS] [Bape Sta White: A Classic Sneaker Icon](https://dev.to/itiangurus/bape-sta-white-a-classic-sneaker-icon-hgm)
-- [Dev.to/JS] [Unveiling the Elegance: A Comprehensive Guide to the Bape Sta Black by A Bathing Ape](https://dev.to/atifghulam34/unveiling-the-elegance-a-comprehensive-guide-to-the-bape-sta-black-by-a-bathing-ape-44g1)
-- [Dev.to/JS] [4 MAIN JAVASCRIPT Object Methods That Every Developer Should Know](https://dev.to/big_smoke/4-main-javascript-object-methods-that-every-developer-should-know-4pdg)
-- [Dev.to/JS] [Angular is Much Better, But is Angular Universal?](https://dev.to/jdgamble555/angular-is-much-better-but-is-angular-universal-57nb)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Digital Cameras](https://lifehacker.com/tech/amazon-black-friday-camera-deals)
