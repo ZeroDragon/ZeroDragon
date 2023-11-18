@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [712-50 exercise take a look at engine up to date make clearing](https://dev.to/bajwa12345/712-50-exercise-take-a-look-at-engine-up-to-date-make-clearing-1l5b)
+- [Dev.to/JS] [&quot;Pro Digital Era: Leading Advertising &amp; Digital Marketing in Lahore, Pakistan&quot;](https://dev.to/seosubhani01/pro-digital-era-leading-advertising-digital-marketing-in-lahore-pakistan-58im)
+- [Dev.to/JS] [Gpen Demystified: Expert Insights from Dumpsarena](https://dev.to/l62ibdhu/gpen-demystified-expert-insights-from-dumpsarena-1k06)
+- [Dev.to/JS] [1. Explore basic types of typescript](https://dev.to/karakib2k18/1-explore-basic-types-of-typescript-och)
 - [Dev.to/JS] [Phanatik — Multipage blog theme](https://dev.to/lexingtonthemes/phanatik-multipage-blog-theme-17lb)
 - [Dev.to/JS] [Optimizing JavaScript with Memoization: A Deep Dive into Boosting Performance:](https://dev.to/okrahul/optimizing-javascript-with-memoization-a-deep-dive-into-boosting-performance-4i4o)
 - [Dev.to/JS] [13 Most Common JavaScript String Methods You Should Know About](https://dev.to/devshefali/13-most-common-javascript-string-methods-you-should-know-about-7d2)
@@ -44,14 +48,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Amazon’s Best Robot Vacuum Sales for Early Black Friday](https://lifehacker.com/home/best-amazon-early-black-friday-robot-vacuum-deals)
 - [Lifehacker] [These Are the Best Black Friday Amazon Deals on Earbuds](https://lifehacker.com/tech/best-black-friday-amazon-deals-on-earbuds)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Kindle E-readers](https://lifehacker.com/tech/amazons-best-early-black-friday-deals-on-kindle-e-readers)
-- [Dev.to/JS] [JAVASCRIPT OBJECT PROTOTYPES](https://dev.to/maame_afia/javascript-object-prototypes-495m)
 - [Lifehacker] [The Best Early Black Friday Tablet Deals on Amazon](https://lifehacker.com/tech/best-early-black-friday-deals-amazon-tablets)
-- [Dev.to/JS] [Dancing with Browsers: Embracing is.opera and is.not_opera in JavaScript with &#39;thiis](https://dev.to/karbashevskyi/dancing-with-browsers-embracing-isopera-and-isnotopera-in-javascript-with-thiis-48fn)
-- [Dev.to/JS] [Adding Continuous Integration &lpar;CI&rpar; to my Open Source Project](https://dev.to/mismathh/adding-continuous-integration-ci-to-my-open-source-project-4nl)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Apple Products](https://lifehacker.com/tech/amazons-early-black-friday-deals-apple)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Smartphones](https://lifehacker.com/tech/amazon-best-early-black-friday-deals-smartphones)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Smartwatches](https://lifehacker.com/tech/amazon-early-black-friday-deals-smartwatches)
-- [Dev.to/JS] [Mastering JavaScript Control Flow: A Comprehensive Guide for Beginners # Click Here:-](https://dev.to/digonto13/picture-library-hubmastering-javascript-control-flow-a-comprehensive-guide-for-beginnersclick-here-3h8n)
 - [Lifehacker] [The Best Early Black Friday Deals on Fitness Watches](https://lifehacker.com/health/early-black-friday-deals-fitness-smart-watches)
 - [Lifehacker] [Here Are Amazon’s Best Early Black Friday Deals for DIYers](https://lifehacker.com/home/best-black-friday-tool-deals-on-amazon)
 - [Lifehacker] [These Are the Best Early Amazon Black Friday Deals on Monitors](https://lifehacker.com/tech/best-early-amazon-black-friday-computer-monitors)
