@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JAVASCRIPT OBJECT PROTOTYPES](https://dev.to/maame_afia/javascript-object-prototypes-495m)
+- [Dev.to/JS] [Dancing with Browsers: Embracing is.opera and is.not_opera in JavaScript with &#39;thiis](https://dev.to/karbashevskyi/dancing-with-browsers-embracing-isopera-and-isnotopera-in-javascript-with-thiis-48fn)
 - [Dev.to/JS] [Adding Continuous Integration &lpar;CI&rpar; to my Open Source Project](https://dev.to/mismathh/adding-continuous-integration-ci-to-my-open-source-project-4nl)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Apple Products](https://lifehacker.com/tech/amazons-early-black-friday-deals-apple)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Smartphones](https://lifehacker.com/tech/amazon-best-early-black-friday-deals-smartphones)
@@ -48,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript From 0 to Mastery: My Personal Playbook for Conquering Web Development](https://dev.to/opensourcee/javascript-from-0-to-mastery-the-way-i-would-do-it-today-5d19)
 - [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Dev.to/JS] [WEREWOLF WEED](https://dev.to/christiecamp/werewolf-weed-52an)
-- [Dev.to/JS] [WEREWOLF WEED](https://dev.to/christiecamp/werewolf-weed-4hgd)
-- [Dev.to/JS] [# A new look at modals in vue 3](https://dev.to/jenesius/-a-new-look-at-modals-in-vue-3-34eb)
 - [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)
 - [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
 - [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)
