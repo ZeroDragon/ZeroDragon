@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Surfing the Web with Confidence: Discovering is.safari and is.not_safari in &#39;thiis&#39;](https://dev.to/karbashevskyi/surfing-the-web-with-confidence-discovering-issafari-and-isnotsafari-in-thiis-3a69)
+- [Dev.to/JS] [Autoplay sound on browser](https://dev.to/hiweus/autoplay-sound-on-browser-1bda)
+- [Dev.to/JS] [Why HUGO &lpar;SSG&rpar;](https://dev.to/vikfp/why-hugo-ssg-2c11)
+- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)
 - [Dev.to/JS] [Decode The All Programs With My Free Course 👍](https://dev.to/himesh123/decode-the-all-programs-with-my-free-course-1nna)
 - [Dev.to/JS] [Using Bitwise XOR to Solve the &#39;Lonely Integer&#39; Problem](https://dev.to/therealowenrees/using-bitwise-xor-to-solve-the-lonely-integer-problem-2ea8)
 - [Dev.to/JS] [To Do List Javscript | Javascript Project](https://dev.to/codingcss/to-do-list-javscript-javascript-project-4c46)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;Financiële planning mogelijk maken met Finanz Faible: onthulling van de instrumenten van Finanzrechner en Festgeldrechner&quot;](https://dev.to/seosubhani01/financiele-planning-mogelijk-maken-met-finanz-faible-onthulling-van-de-instrumenten-van-finanzrechner-en-festgeldrechner-5h2o)
 - [Dev.to/JS] [How to Fix the Problems with JavaScript Array Methods -Splice,Sort,Reverse](https://dev.to/kipyegonline/how-to-fix-the-problems-with-javascript-array-methods-splicesortreverse-5la)
 - [Dev.to/JS] [Test-Driven Development](https://dev.to/zeeshanali0704/test-driven-development-2j46)
-- [Dev.to/JS] [CLF-C01 Exam Dumps: The Ultimate Exam Strategy](https://dev.to/osvma0vs/clf-c01-exam-dumps-the-ultimate-exam-strategy-5fl0)
-- [Dev.to/JS] [Latest Newsletter: Surrounded by Bears &lpar;Issue #141&rpar;](https://dev.to/mjgs/latest-newsletter-surrounded-by-bears-issue-141-17eo)
-- [Dev.to/JS] [Enhancing UX: Leveraging Nextjs Router Events for Form Manipulation](https://dev.to/glopgeek/enhancing-ux-leveraging-nextjs-router-events-for-form-manipulation-4nfd)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Digital Cameras](https://lifehacker.com/tech/amazon-black-friday-camera-deals)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)
 - [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
 - [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)
-- [Lifehacker] [Embrace the Cold and the Mud, Like the Swedish Do](https://lifehacker.com/health/get-outside-more-the-swedish-way)
-- [Lifehacker] [These New Features Might Actually Make You Want to Use Safari](https://lifehacker.com/tech/new-safari-17-features-in-macos-sonoma)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Embrace the Cold and the Mud, Like the Swedish Do](https://lifehacker.com/health/get-outside-more-the-swedish-way)<!-- TECH-POSTS:END -->
 
 ---
 
