@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Phanatik — Multipage blog theme](https://dev.to/lexingtonthemes/phanatik-multipage-blog-theme-17lb)
+- [Dev.to/JS] [Optimizing JavaScript with Memoization: A Deep Dive into Boosting Performance:](https://dev.to/okrahul/optimizing-javascript-with-memoization-a-deep-dive-into-boosting-performance-4i4o)
+- [Dev.to/JS] [13 Most Common JavaScript String Methods You Should Know About](https://dev.to/devshefali/13-most-common-javascript-string-methods-you-should-know-about-7d2)
+- [Dev.to/JS] [How to handle loading screens in Next JS](https://dev.to/elihood/how-to-handle-loading-screens-in-next-js-4p0h)
 - [Dev.to/JS] [Bape Sta White: A Classic Sneaker Icon](https://dev.to/itiangurus/bape-sta-white-a-classic-sneaker-icon-hgm)
 - [Dev.to/JS] [Unveiling the Elegance: A Comprehensive Guide to the Bape Sta Black by A Bathing Ape](https://dev.to/atifghulam34/unveiling-the-elegance-a-comprehensive-guide-to-the-bape-sta-black-by-a-bathing-ape-44g1)
 - [Dev.to/JS] [4 MAIN JAVASCRIPT Object Methods That Every Developer Should Know](https://dev.to/big_smoke/4-main-javascript-object-methods-that-every-developer-should-know-4pdg)
@@ -51,13 +55,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Early Black Friday Deals on Fitness Watches](https://lifehacker.com/health/early-black-friday-deals-fitness-smart-watches)
 - [Lifehacker] [Here Are Amazon’s Best Early Black Friday Deals for DIYers](https://lifehacker.com/home/best-black-friday-tool-deals-on-amazon)
 - [Lifehacker] [These Are the Best Early Amazon Black Friday Deals on Monitors](https://lifehacker.com/tech/best-early-amazon-black-friday-computer-monitors)
-- [Dev.to/JS] [Joys and woes of monorepos](https://dev.to/binarykoan/joys-and-woes-of-monorepos-o5c)
-- [Dev.to/JS] [Dependency hoisting in Yarn monorepos](https://dev.to/binarykoan/dependency-hoisting-in-yarn-monorepos-279i)
 - [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
-- [Dev.to/JS] [Episode 23/45: Angular 17](https://dev.to/this-is-angular/episode-2345-angular-17-50oe)
 - [Lifehacker] [These Arlo, Blink, and Eufy Security Cameras are on Sale at Amazon for Early Black Friday](https://lifehacker.com/home/the-best-home-security-and-doorbell-camera-black-friday-deals-on-amazon)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Desktops](https://lifehacker.com/tech/amazon-early-black-friday-desktop-computers)
-- [Dev.to/JS] [Adding Tools to TIL Project.](https://dev.to/sshah135/adding-tools-to-til-project-3a89)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Laptop Deals](https://lifehacker.com/tech/amazon-black-friday-laptop-deals)
 - [Lifehacker] [Govee’s Smart Space Heater Lite Will Get You Hot](https://lifehacker.com/tech/govee-smart-space-heaters-review-comparison)
 - [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
