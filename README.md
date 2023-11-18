@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
+- [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
+- [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Digital Cameras](https://lifehacker.com/tech/amazon-black-friday-camera-deals)
 - [Lifehacker] [Beats, Bose, Sony, and More Headphones Are on Sale at Amazon for Early Black Friday](https://lifehacker.com/tech/amazon-early-black-friday-deals-headphones)
 - [Lifehacker] [Here Are Amazon’s Best TV Deals for ‘Early’ Black Friday](https://lifehacker.com/tech/amazon-early-black-friday-tv-deals)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Soundbars](https://lifehacker.com/tech/amazon-best-soundbar-sales)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
 - [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)
 - [Lifehacker] [Embrace the Cold and the Mud, Like the Swedish Do](https://lifehacker.com/health/get-outside-more-the-swedish-way)
-- [Lifehacker] [These New Features Might Actually Make You Want to Use Safari](https://lifehacker.com/tech/new-safari-17-features-in-macos-sonoma)
-- [Lifehacker] [You Can Disable Apple&#39;s Inline Text Prediction](https://lifehacker.com/tech/turn-off-apple-text-prediction)
-- [Lifehacker] [The Best Ways to Attract Cardinals to Your Yard This Winter](https://lifehacker.com/home/how-to-attract-cardinals-to-backyard)
-- [Lifehacker] [Where to Stream Football, Basketball, and Movies Galore This Holiday Season](https://lifehacker.com/entertainment/this-holiday-streaming-can-save-you-stress-and-money)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These New Features Might Actually Make You Want to Use Safari](https://lifehacker.com/tech/new-safari-17-features-in-macos-sonoma)<!-- TECH-POSTS:END -->
 
 ---
 
