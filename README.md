@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lumpers and Splitters](https://dev.to/jesterxl/lumpers-and-splitters-2kp9)
+- [Dev.to/JS] [Challenge yourself to reach the next level: Strategies for Consistently Delivering Your Best in Software Development](https://dev.to/semdevs/challenge-yourself-to-reach-the-next-level-strategies-for-consistently-delivering-your-best-in-software-development-259c)
+- [Dev.to/JS] [javaScript newbies, I have a challenge for you!](https://dev.to/piko/javascript-newbies-i-have-a-challenge-for-you-4eif)
+- [Dev.to/JS] [How do I display the number of servers in use on my site?](https://dev.to/cenimstar/how-do-i-display-the-number-of-servers-in-use-on-my-site-246e)
+- [Dev.to/JS] [All NaturaLeaf CBD Gummies - [Scam Alert] Ingredients are Scam?](https://dev.to/allnaturaleafcbdgummy/all-naturaleaf-cbd-gummies-scam-alert-ingredients-are-scam-257a)
+- [Lifehacker] [How to Stay Warm When a Space Heater Isn’t Allowed](https://lifehacker.com/money/space-heater-alternatives)
 - [Dev.to/JS] [Ecwid - good for everyone, if not for one &quot;BUT&quot;](https://dev.to/sa-hola/ecwid-good-for-everyone-if-not-for-one-but-4m2p)
 - [Dev.to/JS] [Meta tags not working](https://dev.to/hasankhankor/meta-tags-not-working-22kl)
 - [Dev.to/JS] [Influencer Marketing](https://dev.to/liza304/influencer-marketing-3mdh)
@@ -34,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Autoplay sound on browser](https://dev.to/hiweus/autoplay-sound-on-browser-1bda)
 - [Dev.to/JS] [Why HUGO &lpar;SSG&rpar;](https://dev.to/vikfp/why-hugo-ssg-2c11)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)
-- [Dev.to/JS] [Decode The All Programs With My Free Course 👍](https://dev.to/himesh123/decode-the-all-programs-with-my-free-course-1nna)
-- [Dev.to/JS] [Using Bitwise XOR to Solve the &#39;Lonely Integer&#39; Problem](https://dev.to/therealowenrees/using-bitwise-xor-to-solve-the-lonely-integer-problem-2ea8)
-- [Dev.to/JS] [To Do List Javscript | Javascript Project](https://dev.to/codingcss/to-do-list-javscript-javascript-project-4c46)
-- [Dev.to/JS] [Crafting a Secure Authentication System with JWT and middleware](https://dev.to/aneeqakhan/how-to-protect-routes-with-jwt-token-in-nodejs-fgk)
-- [Dev.to/JS] [26 Frontend Certifications for Web Developers 🔥🔥](https://dev.to/madza/26-frontend-certifications-for-web-developers-4md7)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Digital Cameras](https://lifehacker.com/tech/amazon-black-friday-camera-deals)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)
 - [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
-- [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)
-- [Lifehacker] [Embrace the Cold and the Mud, Like the Swedish Do](https://lifehacker.com/health/get-outside-more-the-swedish-way)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)<!-- TECH-POSTS:END -->
 
 ---
 
