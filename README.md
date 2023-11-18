@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Focus Management. Como mejorar la accesibilidad y usabilidad de nuestros componentes.](https://dev.to/micaavigliano/focus-management-como-mejorar-la-accesibilidad-y-usabilidad-de-nuestros-componentes-50nb)
+- [Dev.to/JS] [Mangu Kumar Sahoo Kun Hai..?](https://dev.to/mangukumarsahoo/mangu-kumar-sahoo-kun-hai-41dj)
+- [Lifehacker] [Use This 100-Year-Old Productivity Method to Get More Done](https://lifehacker.com/work/the-ivy-lee-productivity-method)
 - [Dev.to/JS] [Creating a Type-Safe Node.js API with Prisma, TypeGraphQL, and GraphQL-Query-Purifier](https://dev.to/hellowwworld/creating-a-type-safe-nodejs-api-with-prisma-typegraphql-and-graphql-query-purifier-28ii)
 - [Lifehacker] [Why You Shouldn’t Leave Your Thanksgiving Turkey on the Counter to Defrost](https://lifehacker.com/food-drink/why-you-shouldnt-leave-your-thanksgiving-turkey-on-the-counter-to-defrost)
 - [Dev.to/JS] [Pomodoro Timer | JavaScript Project](https://dev.to/codingcss/pomodoro-timer-javascript-project-44fp)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing Web Performance; Understanding Time to Interactive &lpar;TTI&rpar;](https://dev.to/fritzlolpro/unleashing-web-performance-understanding-time-to-interactive-tti-38pl)
 - [Dev.to/JS] [Component Composition in React](https://dev.to/kurmivivek295/component-composition-in-react-24f8)
 - [Dev.to/JS] [Hooks Pattern in react](https://dev.to/kurmivivek295/hooks-pattern-in-react-1bfn)
-- [Dev.to/JS] [Node.js Event Loop: A Comprehensive Guide](https://dev.to/qur786/nodejs-event-loop-a-comprehensive-guide-4719)
-- [Dev.to/JS] [CodeHaven: Discord Server for developers](https://dev.to/puneetkumar2010/codehaven-discord-server-for-developers-3lpm)
 - [Lifehacker] [Use the DRY Principle to Get More Done](https://lifehacker.com/work/dry-principle-productivity)
 - [Lifehacker] [How to Stay Warm When a Space Heater Isn’t Allowed](https://lifehacker.com/money/space-heater-alternatives)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Desktops](https://lifehacker.com/tech/amazon-early-black-friday-desktop-computers)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Laptop Deals](https://lifehacker.com/tech/amazon-black-friday-laptop-deals)
 - [Lifehacker] [Govee’s Smart Space Heater Lite Will Get You Hot](https://lifehacker.com/tech/govee-smart-space-heaters-review-comparison)
-- [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
-- [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)<!-- TECH-POSTS:END -->
 
 ---
 
