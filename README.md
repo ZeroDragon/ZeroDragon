@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular is Much Better, But is Angular Universal?](https://dev.to/jdgamble555/angular-is-much-better-but-is-angular-universal-57nb)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Digital Cameras](https://lifehacker.com/tech/amazon-black-friday-camera-deals)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Govee’s Smart Space Heater Lite Will Get You Hot](https://lifehacker.com/tech/govee-smart-space-heaters-review-comparison)
 - [Dev.to/JS] [JavaScript From 0 to Mastery: My Personal Playbook for Conquering Web Development](https://dev.to/opensourcee/javascript-from-0-to-mastery-the-way-i-would-do-it-today-5d19)
 - [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
-- [Dev.to/JS] [WEREWOLF WEED](https://dev.to/christiecamp/werewolf-weed-52an)
 - [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)
 - [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
 - [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)
