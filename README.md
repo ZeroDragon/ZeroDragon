@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Complete Responsive Food / Restaurant Website Design Using HTML, CSS And JAVASCRIPT](https://dev.to/codingcss/complete-responsive-food-restaurant-website-design-using-html-css-and-javascript-1fa3)
-- [Dev.to/JS] [ES6, ES7, ES8... Espera, que Funcionalidade é essa?🤷‍♂️](https://dev.to/alexandreakira/es6-es7-es8-espera-que-funcionalidade-e-essa-26am)
-- [Dev.to/JS] [Lumpers and Splitters](https://dev.to/jesterxl/lumpers-and-splitters-2kp9)
-- [Dev.to/JS] [Challenge yourself to reach the next level: Strategies for Consistently Delivering Your Best in Software Development](https://dev.to/semdevs/challenge-yourself-to-reach-the-next-level-strategies-for-consistently-delivering-your-best-in-software-development-259c)
-- [Dev.to/JS] [javaScript newbies, I have a challenge for you!](https://dev.to/piko/javascript-newbies-i-have-a-challenge-for-you-4eif)
-- [Dev.to/JS] [How do I display the number of servers in use on my site?](https://dev.to/cenimstar/how-do-i-display-the-number-of-servers-in-use-on-my-site-246e)
-- [Dev.to/JS] [All NaturaLeaf CBD Gummies - [Scam Alert] Ingredients are Scam?](https://dev.to/allnaturaleafcbdgummy/all-naturaleaf-cbd-gummies-scam-alert-ingredients-are-scam-257a)
+- [Dev.to/JS] [Pomodoro Timer | JavaScript Project](https://dev.to/codingcss/pomodoro-timer-javascript-project-44fp)
+- [Dev.to/JS] [A Guide to React Custom Hooks](https://dev.to/rasaf_ibrahim/a-guide-to-react-custom-hooks-2b4h)
+- [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; in React](https://dev.to/kurmivivek295/server-side-rendering-ssr-in-react-1i2c)
+- [Dev.to/JS] [Lazy Loading in React](https://dev.to/kurmivivek295/lazy-loading-in-react-4lf6)
+- [Dev.to/JS] [Error Boundaries in React](https://dev.to/kurmivivek295/error-boundaries-in-react-56l0)
+- [Dev.to/JS] [Immutable Data Patterns in React](https://dev.to/kurmivivek295/immutable-data-patterns-in-react-3lo7)
+- [Dev.to/JS] [Unleashing Web Performance; Understanding Time to Interactive &lpar;TTI&rpar;](https://dev.to/fritzlolpro/unleashing-web-performance-understanding-time-to-interactive-tti-38pl)
+- [Dev.to/JS] [Component Composition in React](https://dev.to/kurmivivek295/component-composition-in-react-24f8)
+- [Dev.to/JS] [Hooks Pattern in react](https://dev.to/kurmivivek295/hooks-pattern-in-react-1bfn)
+- [Dev.to/JS] [Node.js Event Loop: A Comprehensive Guide](https://dev.to/qur786/nodejs-event-loop-a-comprehensive-guide-4719)
+- [Dev.to/JS] [CodeHaven: Discord Server for developers](https://dev.to/puneetkumar2010/codehaven-discord-server-for-developers-3lpm)
+- [Dev.to/JS] [Redux - The Global State Pattern - Step by Step](https://dev.to/kurmivivek295/redux-the-global-state-pattern-step-by-step-49jb)
+- [Lifehacker] [Use the DRY Principle to Get More Done](https://lifehacker.com/work/dry-principle-productivity)
 - [Lifehacker] [How to Stay Warm When a Space Heater Isn’t Allowed](https://lifehacker.com/money/space-heater-alternatives)
-- [Dev.to/JS] [Ecwid - good for everyone, if not for one &quot;BUT&quot;](https://dev.to/sa-hola/ecwid-good-for-everyone-if-not-for-one-but-4m2p)
-- [Dev.to/JS] [Meta tags not working](https://dev.to/hasankhankor/meta-tags-not-working-22kl)
-- [Dev.to/JS] [Influencer Marketing](https://dev.to/liza304/influencer-marketing-3mdh)
-- [Dev.to/JS] [Execution Context and Hoisting](https://dev.to/sumeet45/execution-context-and-hoisting-2mha)
-- [Dev.to/JS] [Surfing the Web with Confidence: Discovering is.safari and is.not_safari in &#39;thiis&#39;](https://dev.to/karbashevskyi/surfing-the-web-with-confidence-discovering-issafari-and-isnotsafari-in-thiis-3a69)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Govee’s Smart Space Heater Lite Will Get You Hot](https://lifehacker.com/tech/govee-smart-space-heaters-review-comparison)
 - [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)
-- [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
-- [Lifehacker] [This WD EasyStore 18TB Hard Drive Is Over 50% Off at Best Buy Right Now](https://lifehacker.com/tech/wd-easystore-18tb-hard-drive-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)<!-- TECH-POSTS:END -->
 
 ---
 
