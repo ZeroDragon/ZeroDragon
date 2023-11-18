@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Bitwise XOR to Solve the &#39;Lonely Integer&#39; Problem](https://dev.to/therealowenrees/using-bitwise-xor-to-solve-the-lonely-integer-problem-2ea8)
+- [Dev.to/JS] [To Do List Javscript | Javascript Project](https://dev.to/codingcss/to-do-list-javscript-javascript-project-4c46)
 - [Dev.to/JS] [Crafting a Secure Authentication System with JWT and middleware](https://dev.to/aneeqakhan/how-to-protect-routes-with-jwt-token-in-nodejs-fgk)
 - [Dev.to/JS] [26 Frontend Certifications for Web Developers 🔥🔥](https://dev.to/madza/26-frontend-certifications-for-web-developers-4md7)
 - [Dev.to/JS] [SOLID no Frontend: Design de Software no ReactJS](https://dev.to/robertheory/solid-no-frontend-design-de-software-no-reactjs-9n5)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Latest Newsletter: Surrounded by Bears &lpar;Issue #141&rpar;](https://dev.to/mjgs/latest-newsletter-surrounded-by-bears-issue-141-17eo)
 - [Dev.to/JS] [Enhancing UX: Leveraging Nextjs Router Events for Form Manipulation](https://dev.to/glopgeek/enhancing-ux-leveraging-nextjs-router-events-for-form-manipulation-4nfd)
 - [Dev.to/JS] [10 Essential React Hooks You Should Know](https://dev.to/bhavesh_yadav/10-essential-react-hooks-you-should-know-5ha2)
-- [Dev.to/JS] [&quot;Finanz Faible: Expert Finanzberater für umfassenden finanziellen Rat&quot;](https://dev.to/seosubhani01/finanz-faible-expert-finanzberater-fur-umfassenden-finanziellen-rat-1boa)
-- [Dev.to/JS] [Configuring Jest for Typescript Unit Tests](https://dev.to/ghostaram/configuring-jest-for-typescript-unit-tests-4iag)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Digital Cameras](https://lifehacker.com/tech/amazon-black-friday-camera-deals)
