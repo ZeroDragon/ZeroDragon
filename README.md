@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Type-Safe Node.js API with Prisma, TypeGraphQL, and GraphQL-Query-Purifier](https://dev.to/hellowwworld/creating-a-type-safe-nodejs-api-with-prisma-typegraphql-and-graphql-query-purifier-28ii)
+- [Lifehacker] [Why You Shouldn’t Leave Your Thanksgiving Turkey on the Counter to Defrost](https://lifehacker.com/food-drink/why-you-shouldnt-leave-your-thanksgiving-turkey-on-the-counter-to-defrost)
 - [Dev.to/JS] [Pomodoro Timer | JavaScript Project](https://dev.to/codingcss/pomodoro-timer-javascript-project-44fp)
 - [Dev.to/JS] [A Guide to React Custom Hooks](https://dev.to/rasaf_ibrahim/a-guide-to-react-custom-hooks-2b4h)
 - [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; in React](https://dev.to/kurmivivek295/server-side-rendering-ssr-in-react-1i2c)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hooks Pattern in react](https://dev.to/kurmivivek295/hooks-pattern-in-react-1bfn)
 - [Dev.to/JS] [Node.js Event Loop: A Comprehensive Guide](https://dev.to/qur786/nodejs-event-loop-a-comprehensive-guide-4719)
 - [Dev.to/JS] [CodeHaven: Discord Server for developers](https://dev.to/puneetkumar2010/codehaven-discord-server-for-developers-3lpm)
-- [Dev.to/JS] [Redux - The Global State Pattern - Step by Step](https://dev.to/kurmivivek295/redux-the-global-state-pattern-step-by-step-49jb)
 - [Lifehacker] [Use the DRY Principle to Get More Done](https://lifehacker.com/work/dry-principle-productivity)
 - [Lifehacker] [How to Stay Warm When a Space Heater Isn’t Allowed](https://lifehacker.com/money/space-heater-alternatives)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Laptop Deals](https://lifehacker.com/tech/amazon-black-friday-laptop-deals)
 - [Lifehacker] [Govee’s Smart Space Heater Lite Will Get You Hot](https://lifehacker.com/tech/govee-smart-space-heaters-review-comparison)
 - [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
-- [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)
-- [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)<!-- TECH-POSTS:END -->
 
 ---
 
