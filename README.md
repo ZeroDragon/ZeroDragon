@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ecwid - good for everyone, if not for one &quot;BUT&quot;](https://dev.to/sa-hola/ecwid-good-for-everyone-if-not-for-one-but-4m2p)
+- [Dev.to/JS] [Meta tags not working](https://dev.to/hasankhankor/meta-tags-not-working-22kl)
+- [Dev.to/JS] [Influencer Marketing](https://dev.to/liza304/influencer-marketing-3mdh)
+- [Dev.to/JS] [Execution Context and Hoisting](https://dev.to/sumeet45/execution-context-and-hoisting-2mha)
 - [Dev.to/JS] [Surfing the Web with Confidence: Discovering is.safari and is.not_safari in &#39;thiis&#39;](https://dev.to/karbashevskyi/surfing-the-web-with-confidence-discovering-issafari-and-isnotsafari-in-thiis-3a69)
 - [Dev.to/JS] [Autoplay sound on browser](https://dev.to/hiweus/autoplay-sound-on-browser-1bda)
 - [Dev.to/JS] [Why HUGO &lpar;SSG&rpar;](https://dev.to/vikfp/why-hugo-ssg-2c11)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [To Do List Javscript | Javascript Project](https://dev.to/codingcss/to-do-list-javscript-javascript-project-4c46)
 - [Dev.to/JS] [Crafting a Secure Authentication System with JWT and middleware](https://dev.to/aneeqakhan/how-to-protect-routes-with-jwt-token-in-nodejs-fgk)
 - [Dev.to/JS] [26 Frontend Certifications for Web Developers 🔥🔥](https://dev.to/madza/26-frontend-certifications-for-web-developers-4md7)
-- [Dev.to/JS] [SOLID no Frontend: Design de Software no ReactJS](https://dev.to/robertheory/solid-no-frontend-design-de-software-no-reactjs-9n5)
-- [Dev.to/JS] [&quot;Financiële planning mogelijk maken met Finanz Faible: onthulling van de instrumenten van Finanzrechner en Festgeldrechner&quot;](https://dev.to/seosubhani01/financiele-planning-mogelijk-maken-met-finanz-faible-onthulling-van-de-instrumenten-van-finanzrechner-en-festgeldrechner-5h2o)
-- [Dev.to/JS] [How to Fix the Problems with JavaScript Array Methods -Splice,Sort,Reverse](https://dev.to/kipyegonline/how-to-fix-the-problems-with-javascript-array-methods-splicesortreverse-5la)
-- [Dev.to/JS] [Test-Driven Development](https://dev.to/zeeshanali0704/test-driven-development-2j46)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Digital Cameras](https://lifehacker.com/tech/amazon-black-friday-camera-deals)
