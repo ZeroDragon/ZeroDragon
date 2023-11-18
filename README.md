@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bape Sta White: A Classic Sneaker Icon](https://dev.to/itiangurus/bape-sta-white-a-classic-sneaker-icon-hgm)
+- [Dev.to/JS] [Unveiling the Elegance: A Comprehensive Guide to the Bape Sta Black by A Bathing Ape](https://dev.to/atifghulam34/unveiling-the-elegance-a-comprehensive-guide-to-the-bape-sta-black-by-a-bathing-ape-44g1)
+- [Dev.to/JS] [4 MAIN JAVASCRIPT Object Methods That Every Developer Should Know](https://dev.to/big_smoke/4-main-javascript-object-methods-that-every-developer-should-know-4pdg)
 - [Dev.to/JS] [Angular is Much Better, But is Angular Universal?](https://dev.to/jdgamble555/angular-is-much-better-but-is-angular-universal-57nb)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
@@ -56,10 +59,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Desktops](https://lifehacker.com/tech/amazon-early-black-friday-desktop-computers)
 - [Dev.to/JS] [Adding Tools to TIL Project.](https://dev.to/sshah135/adding-tools-to-til-project-3a89)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Laptop Deals](https://lifehacker.com/tech/amazon-black-friday-laptop-deals)
-- [Dev.to/JS] [Array methods and when to use them, forEach, map, reduce](https://dev.to/gingerchew/array-methods-and-when-to-use-them-foreach-map-reduce-5bab)
-- [Dev.to/JS] [Understanding Time Complexity](https://dev.to/khamal22/understanding-time-complexity-3o5f)
 - [Lifehacker] [Govee’s Smart Space Heater Lite Will Get You Hot](https://lifehacker.com/tech/govee-smart-space-heaters-review-comparison)
-- [Dev.to/JS] [JavaScript From 0 to Mastery: My Personal Playbook for Conquering Web Development](https://dev.to/opensourcee/javascript-from-0-to-mastery-the-way-i-would-do-it-today-5d19)
 - [Lifehacker] [The 21 Best Oscar-Winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Lifehacker] [These Vitamix, Breville, and Ninja Blenders and Food Processors Are on Sale for Black Friday](https://lifehacker.com/food-drink/amazon-early-black-friday-deals-on-blenders-and-food-processors)
 - [Lifehacker] [Peloton’s Black Friday Sale Is Really, Really Good](https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135)
