@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Complete Responsive Food / Restaurant Website Design Using HTML, CSS And JAVASCRIPT](https://dev.to/codingcss/complete-responsive-food-restaurant-website-design-using-html-css-and-javascript-1fa3)
+- [Dev.to/JS] [ES6, ES7, ES8... Espera, que Funcionalidade é essa?🤷‍♂️](https://dev.to/alexandreakira/es6-es7-es8-espera-que-funcionalidade-e-essa-26am)
 - [Dev.to/JS] [Lumpers and Splitters](https://dev.to/jesterxl/lumpers-and-splitters-2kp9)
 - [Dev.to/JS] [Challenge yourself to reach the next level: Strategies for Consistently Delivering Your Best in Software Development](https://dev.to/semdevs/challenge-yourself-to-reach-the-next-level-strategies-for-consistently-delivering-your-best-in-software-development-259c)
 - [Dev.to/JS] [javaScript newbies, I have a challenge for you!](https://dev.to/piko/javascript-newbies-i-have-a-challenge-for-you-4eif)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Influencer Marketing](https://dev.to/liza304/influencer-marketing-3mdh)
 - [Dev.to/JS] [Execution Context and Hoisting](https://dev.to/sumeet45/execution-context-and-hoisting-2mha)
 - [Dev.to/JS] [Surfing the Web with Confidence: Discovering is.safari and is.not_safari in &#39;thiis&#39;](https://dev.to/karbashevskyi/surfing-the-web-with-confidence-discovering-issafari-and-isnotsafari-in-thiis-3a69)
-- [Dev.to/JS] [Autoplay sound on browser](https://dev.to/hiweus/autoplay-sound-on-browser-1bda)
-- [Dev.to/JS] [Why HUGO &lpar;SSG&rpar;](https://dev.to/vikfp/why-hugo-ssg-2c11)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
