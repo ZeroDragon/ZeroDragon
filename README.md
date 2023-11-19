@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Managing the types folder with a simple script](https://dev.to/artxe2/managing-the-types-folder-with-a-simple-script-180k)
+- [Dev.to/JS] [Artificial Intelligence - Deep Learning in Java](https://dev.to/devme/artificial-intelligence-deep-learning-in-java-4do5)
 - [Dev.to/JS] [Why String is immutable in Java](https://dev.to/javatute673/why-string-is-immutable-in-java-5gij)
 - [Dev.to/JS] [Difference between Anonymous Inner Class and Lambda Expression](https://dev.to/javatute673/difference-between-anonymous-inner-class-and-lambda-expression-4bp4)
 - [Dev.to/JS] [Toystack for deployments](https://dev.to/toystack/toystack-519n)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding a CSS playground to your Astro site with Svelte](https://dev.to/craigaholliday/adding-a-css-playground-to-your-astro-site-with-svelte-11g)
 - [Dev.to/JS] [Play with Javascript Console Method](https://dev.to/koshirok096/play-with-javascript-console-method-52hh)
 - [Dev.to/JS] [Tab Garbage Collector](https://dev.to/moozzyk/tab-garbage-collector-3d1d)
-- [Dev.to/JS] [Adding CI for testing the code](https://dev.to/sshah135/adding-ci-for-testing-the-code-4plo)
-- [Dev.to/JS] [The Best Way to Learn Web Development](https://dev.to/codewithshahan/the-best-way-to-learn-web-development-a10)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
 - [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)
 - [Lifehacker] [Use This 100-Year-Old Productivity Method to Get More Done](https://lifehacker.com/work/the-ivy-lee-productivity-method)
