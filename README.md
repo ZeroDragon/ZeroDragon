@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Analyze your WebApp using Microsoft Clarity](https://dev.to/kevin-uehara/analyze-your-webapp-using-microsoft-clarity-53j8)
+- [Dev.to/JS] [Get started with Resend](https://dev.to/guillaumeduhan/get-started-with-resend-4kei)
+- [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Dev.to/JS] [Elevate your JavaScript game with essential ES6 tricks!](https://dev.to/fyno/best-javascript-es6-tricks-514h)
 - [Dev.to/JS] [&quot;Pro Digital Era: Transforming Businesses with Comprehensive Digital Solutions in Lahore, Pakistan&quot;](https://dev.to/seosubhani01/pro-digital-era-transforming-businesses-with-comprehensive-digital-solutions-in-lahore-pakistan-4bab)
 - [Dev.to/JS] [&quot;Pro Digital Era: Transforming Businesses in Pakistan through Comprehensive Digital Solutions&quot;](https://dev.to/seosubhani01/pro-digital-era-transforming-businesses-in-pakistan-through-comprehensive-digital-solutions-141j)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Integrate Stripe with a React Application](https://dev.to/mohammadfaisal/how-to-integrate-stripe-with-a-react-application-3k5k)
 - [Dev.to/JS] [📦🔓Closures in JavaScript decoded](https://dev.to/audreyk/closures-in-javascript-decoded-34b)
 - [Dev.to/JS] [The Roadmap to Web Development &lpar;unforgettable&rpar;](https://dev.to/horsecoder/the-roadmap-to-web-development-unforgettable-1d2i)
-- [Dev.to/JS] [Destiny Keto ACV Gummies &lpar;Review&rpar; No.1 Weight Loss Formula! Recommended](https://dev.to/destinyketoacvgummies/destiny-keto-acv-gummies-review-no1-weight-loss-formula-recommended-5299)
-- [Dev.to/JS] [Modern Approach to Development for Beginner Programmers](https://dev.to/emp33/modern-approach-to-development-for-beginner-programmers-2lkc)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
 - [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Are Amazon’s Best Early Black Friday Deals for DIYers](https://lifehacker.com/home/best-black-friday-tool-deals-on-amazon)
 - [Lifehacker] [These Are the Best Early Amazon Black Friday Deals on Monitors](https://lifehacker.com/tech/best-early-amazon-black-friday-computer-monitors)
 - [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
-- [Lifehacker] [These Arlo, Blink, and Eufy Security Cameras are on Sale at Amazon for Early Black Friday](https://lifehacker.com/home/the-best-home-security-and-doorbell-camera-black-friday-deals-on-amazon)
-- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Desktops](https://lifehacker.com/tech/amazon-early-black-friday-desktop-computers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Arlo, Blink, and Eufy Security Cameras are on Sale at Amazon for Early Black Friday](https://lifehacker.com/home/the-best-home-security-and-doorbell-camera-black-friday-deals-on-amazon)<!-- TECH-POSTS:END -->
 
 ---
 
