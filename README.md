@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Toystack for deployments](https://dev.to/toystack/toystack-519n)
+- [Dev.to/JS] [Middleware in React](https://dev.to/zeeshanali0704/middleware-in-react-51kj)
 - [Dev.to/JS] [JavaScript Callbacks, Promises, and Async/Await](https://dev.to/ricdub/javascript-callbacks-promises-and-asyncawait-23bp)
 - [Dev.to/JS] [Hoisting Your Javascript Code: How to initialize your code 🧱](https://dev.to/ricdub/hoisting-your-javascript-code-how-to-initialize-your-code-lce)
 - [Dev.to/JS] [An Intro to Recursion with JavaScript](https://dev.to/ricdub/an-intro-to-recursion-with-javascript-1p6c)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
 - [Dev.to/JS] [React useEffect Hook](https://dev.to/collinsmutai/react-useeffect-hook-307l)
 - [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)
-- [Dev.to/JS] [Focus Management. Como mejorar la accesibilidad y usabilidad de nuestros componentes.](https://dev.to/micaavigliano/focus-management-como-mejorar-la-accesibilidad-y-usabilidad-de-nuestros-componentes-50nb)
-- [Dev.to/JS] [Mangu Kumar Sahoo Kun Hai..?](https://dev.to/mangukumarsahoo/mangu-kumar-sahoo-kun-hai-41dj)
 - [Lifehacker] [Use This 100-Year-Old Productivity Method to Get More Done](https://lifehacker.com/work/the-ivy-lee-productivity-method)
 - [Lifehacker] [Why You Shouldn’t Leave Your Thanksgiving Turkey on the Counter to Defrost](https://lifehacker.com/food-drink/why-you-shouldnt-leave-your-thanksgiving-turkey-on-the-counter-to-defrost)
 - [Lifehacker] [Use the DRY Principle to Get More Done](https://lifehacker.com/work/dry-principle-productivity)
