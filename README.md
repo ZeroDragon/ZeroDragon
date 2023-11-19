@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WhatsApp Mods](https://dev.to/nestcozy/whatsapp-mods-2fnj)
+- [Dev.to/JS] [How to Integrate Stripe with a React Application](https://dev.to/mohammadfaisal/how-to-integrate-stripe-with-a-react-application-3k5k)
 - [Dev.to/JS] [📦🔓Closures in JavaScript decoded](https://dev.to/audreyk/closures-in-javascript-decoded-34b)
 - [Dev.to/JS] [The Roadmap to Web Development &lpar;unforgettable&rpar;](https://dev.to/horsecoder/the-roadmap-to-web-development-unforgettable-1d2i)
 - [Dev.to/JS] [Destiny Keto ACV Gummies &lpar;Review&rpar; No.1 Weight Loss Formula! Recommended](https://dev.to/destinyketoacvgummies/destiny-keto-acv-gummies-review-no1-weight-loss-formula-recommended-5299)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Artificial Intelligence - Deep Learning in Java](https://dev.to/devme/artificial-intelligence-deep-learning-in-java-4do5)
 - [Dev.to/JS] [Why String is immutable in Java](https://dev.to/javatute673/why-string-is-immutable-in-java-5gij)
 - [Dev.to/JS] [Difference between Anonymous Inner Class and Lambda Expression](https://dev.to/javatute673/difference-between-anonymous-inner-class-and-lambda-expression-4bp4)
-- [Dev.to/JS] [Toystack for deployments](https://dev.to/toystack/toystack-519n)
-- [Dev.to/JS] [Middleware in React](https://dev.to/zeeshanali0704/middleware-in-react-51kj)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
 - [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)
