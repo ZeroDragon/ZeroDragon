@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding CI for testing the code](https://dev.to/sshah135/adding-ci-for-testing-the-code-4plo)
+- [Dev.to/JS] [The Best Way to Learn Web Development](https://dev.to/codewithshahan/the-best-way-to-learn-web-development-a10)
+- [Dev.to/JS] [JavaScript Tips and Tricks](https://dev.to/adnanlatif/javascript-tips-and-tricks-49mi)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
 - [Dev.to/JS] [React useEffect Hook](https://dev.to/collinsmutai/react-useeffect-hook-307l)
 - [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)
@@ -39,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; in React](https://dev.to/kurmivivek295/server-side-rendering-ssr-in-react-1i2c)
 - [Dev.to/JS] [Lazy Loading in React](https://dev.to/kurmivivek295/lazy-loading-in-react-4lf6)
 - [Dev.to/JS] [Error Boundaries in React](https://dev.to/kurmivivek295/error-boundaries-in-react-56l0)
-- [Dev.to/JS] [Immutable Data Patterns in React](https://dev.to/kurmivivek295/immutable-data-patterns-in-react-3lo7)
-- [Dev.to/JS] [Unleashing Web Performance; Understanding Time to Interactive &lpar;TTI&rpar;](https://dev.to/fritzlolpro/unleashing-web-performance-understanding-time-to-interactive-tti-38pl)
-- [Dev.to/JS] [Component Composition in React](https://dev.to/kurmivivek295/component-composition-in-react-24f8)
 - [Lifehacker] [Use the DRY Principle to Get More Done](https://lifehacker.com/work/dry-principle-productivity)
 - [Lifehacker] [How to Stay Warm When a Space Heater Isn’t Allowed](https://lifehacker.com/money/space-heater-alternatives)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)
