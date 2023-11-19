@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevate your JavaScript game with essential ES6 tricks!](https://dev.to/fyno/best-javascript-es6-tricks-514h)
+- [Dev.to/JS] [&quot;Pro Digital Era: Transforming Businesses with Comprehensive Digital Solutions in Lahore, Pakistan&quot;](https://dev.to/seosubhani01/pro-digital-era-transforming-businesses-with-comprehensive-digital-solutions-in-lahore-pakistan-4bab)
+- [Dev.to/JS] [&quot;Pro Digital Era: Transforming Businesses in Pakistan through Comprehensive Digital Solutions&quot;](https://dev.to/seosubhani01/pro-digital-era-transforming-businesses-in-pakistan-through-comprehensive-digital-solutions-141j)
 - [Dev.to/JS] [Navigating React.js SEO Challenges: A Case Study with CoderKit](https://dev.to/bibekkakati/navigating-reactjs-seo-challenges-a-case-study-with-coderkit-33j6)
 - [Dev.to/JS] [&quot;Financiële Toekomst Versterken: Een Uitgebreide Gids Voor Slim Geldbeheer et Finanz Faible&quot;](https://dev.to/seosubhani01/financiele-toekomst-versterken-een-uitgebreide-gids-voor-slim-geldbeheer-et-finanz-faible-3l24)
 - [Dev.to/JS] [Run Multiple NodeJS microservices with tmux](https://dev.to/sanketh_sh/run-multiple-nodejs-microservices-with-tmux-5f30)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Roadmap to Web Development &lpar;unforgettable&rpar;](https://dev.to/horsecoder/the-roadmap-to-web-development-unforgettable-1d2i)
 - [Dev.to/JS] [Destiny Keto ACV Gummies &lpar;Review&rpar; No.1 Weight Loss Formula! Recommended](https://dev.to/destinyketoacvgummies/destiny-keto-acv-gummies-review-no1-weight-loss-formula-recommended-5299)
 - [Dev.to/JS] [Modern Approach to Development for Beginner Programmers](https://dev.to/emp33/modern-approach-to-development-for-beginner-programmers-2lkc)
-- [Dev.to/JS] [Exploring the New Control Flow Syntax in Angular 17](https://dev.to/mariazayed/exploring-the-new-control-flow-syntax-in-angular-17-339g)
-- [Dev.to/JS] [Behind the Scenes: Exploring Powerful Backend Frameworks](https://dev.to/burakboduroglu/behind-the-scenes-exploring-powerful-backend-frameworks-1an1)
-- [Dev.to/JS] [Managing the types folder with a simple script](https://dev.to/artxe2/managing-the-types-folder-with-a-simple-script-180k)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
 - [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)
