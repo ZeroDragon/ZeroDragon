@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Callbacks, Promises, and Async/Await](https://dev.to/ricdub/javascript-callbacks-promises-and-asyncawait-23bp)
+- [Dev.to/JS] [Hoisting Your Javascript Code: How to initialize your code 🧱](https://dev.to/ricdub/hoisting-your-javascript-code-how-to-initialize-your-code-lce)
+- [Dev.to/JS] [An Intro to Recursion with JavaScript](https://dev.to/ricdub/an-intro-to-recursion-with-javascript-1p6c)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Dev.to/JS] [Adding a CSS playground to your Astro site with Svelte](https://dev.to/craigaholliday/adding-a-css-playground-to-your-astro-site-with-svelte-11g)
 - [Dev.to/JS] [Play with Javascript Console Method](https://dev.to/koshirok096/play-with-javascript-console-method-52hh)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Focus Management. Como mejorar la accesibilidad y usabilidad de nuestros componentes.](https://dev.to/micaavigliano/focus-management-como-mejorar-la-accesibilidad-y-usabilidad-de-nuestros-componentes-50nb)
 - [Dev.to/JS] [Mangu Kumar Sahoo Kun Hai..?](https://dev.to/mangukumarsahoo/mangu-kumar-sahoo-kun-hai-41dj)
 - [Lifehacker] [Use This 100-Year-Old Productivity Method to Get More Done](https://lifehacker.com/work/the-ivy-lee-productivity-method)
-- [Dev.to/JS] [Creating a Type-Safe Node.js API with Prisma, TypeGraphQL, and GraphQL-Query-Purifier](https://dev.to/hellowwworld/creating-a-type-safe-nodejs-api-with-prisma-typegraphql-and-graphql-query-purifier-28ii)
 - [Lifehacker] [Why You Shouldn’t Leave Your Thanksgiving Turkey on the Counter to Defrost](https://lifehacker.com/food-drink/why-you-shouldnt-leave-your-thanksgiving-turkey-on-the-counter-to-defrost)
-- [Dev.to/JS] [Pomodoro Timer | JavaScript Project](https://dev.to/codingcss/pomodoro-timer-javascript-project-44fp)
-- [Dev.to/JS] [A Guide to React Custom Hooks](https://dev.to/rasaf_ibrahim/a-guide-to-react-custom-hooks-2b4h)
 - [Lifehacker] [Use the DRY Principle to Get More Done](https://lifehacker.com/work/dry-principle-productivity)
 - [Lifehacker] [How to Stay Warm When a Space Heater Isn’t Allowed](https://lifehacker.com/money/space-heater-alternatives)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)
