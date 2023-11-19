@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Dev.to/JS] [Adding a CSS playground to your Astro site with Svelte](https://dev.to/craigaholliday/adding-a-css-playground-to-your-astro-site-with-svelte-11g)
 - [Dev.to/JS] [Play with Javascript Console Method](https://dev.to/koshirok096/play-with-javascript-console-method-52hh)
 - [Dev.to/JS] [Tab Garbage Collector](https://dev.to/moozzyk/tab-garbage-collector-3d1d)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Early Amazon Black Friday Deals on Monitors](https://lifehacker.com/tech/best-early-amazon-black-friday-computer-monitors)
 - [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
 - [Lifehacker] [These Arlo, Blink, and Eufy Security Cameras are on Sale at Amazon for Early Black Friday](https://lifehacker.com/home/the-best-home-security-and-doorbell-camera-black-friday-deals-on-amazon)
-- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Desktops](https://lifehacker.com/tech/amazon-early-black-friday-desktop-computers)
-- [Lifehacker] [These Are Amazon’s Best Early Black Friday Laptop Deals](https://lifehacker.com/tech/amazon-black-friday-laptop-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Desktops](https://lifehacker.com/tech/amazon-early-black-friday-desktop-computers)<!-- TECH-POSTS:END -->
 
 ---
 
