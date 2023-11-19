@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Play with Javascript Console Method](https://dev.to/koshirok096/play-with-javascript-console-method-52hh)
+- [Dev.to/JS] [Tab Garbage Collector](https://dev.to/moozzyk/tab-garbage-collector-3d1d)
 - [Dev.to/JS] [Adding CI for testing the code](https://dev.to/sshah135/adding-ci-for-testing-the-code-4plo)
 - [Dev.to/JS] [The Best Way to Learn Web Development](https://dev.to/codewithshahan/the-best-way-to-learn-web-development-a10)
 - [Dev.to/JS] [JavaScript Tips and Tricks](https://dev.to/adnanlatif/javascript-tips-and-tricks-49mi)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pomodoro Timer | JavaScript Project](https://dev.to/codingcss/pomodoro-timer-javascript-project-44fp)
 - [Dev.to/JS] [A Guide to React Custom Hooks](https://dev.to/rasaf_ibrahim/a-guide-to-react-custom-hooks-2b4h)
 - [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; in React](https://dev.to/kurmivivek295/server-side-rendering-ssr-in-react-1i2c)
-- [Dev.to/JS] [Lazy Loading in React](https://dev.to/kurmivivek295/lazy-loading-in-react-4lf6)
-- [Dev.to/JS] [Error Boundaries in React](https://dev.to/kurmivivek295/error-boundaries-in-react-56l0)
 - [Lifehacker] [Use the DRY Principle to Get More Done](https://lifehacker.com/work/dry-principle-productivity)
 - [Lifehacker] [How to Stay Warm When a Space Heater Isn’t Allowed](https://lifehacker.com/money/space-heater-alternatives)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)
