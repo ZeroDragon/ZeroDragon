@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating React.js SEO Challenges: A Case Study with CoderKit](https://dev.to/bibekkakati/navigating-reactjs-seo-challenges-a-case-study-with-coderkit-33j6)
+- [Dev.to/JS] [&quot;Financiële Toekomst Versterken: Een Uitgebreide Gids Voor Slim Geldbeheer et Finanz Faible&quot;](https://dev.to/seosubhani01/financiele-toekomst-versterken-een-uitgebreide-gids-voor-slim-geldbeheer-et-finanz-faible-3l24)
+- [Dev.to/JS] [Run Multiple NodeJS microservices with tmux](https://dev.to/sanketh_sh/run-multiple-nodejs-microservices-with-tmux-5f30)
 - [Dev.to/JS] [WhatsApp Mods](https://dev.to/nestcozy/whatsapp-mods-2fnj)
 - [Dev.to/JS] [How to Integrate Stripe with a React Application](https://dev.to/mohammadfaisal/how-to-integrate-stripe-with-a-react-application-3k5k)
 - [Dev.to/JS] [📦🔓Closures in JavaScript decoded](https://dev.to/audreyk/closures-in-javascript-decoded-34b)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the New Control Flow Syntax in Angular 17](https://dev.to/mariazayed/exploring-the-new-control-flow-syntax-in-angular-17-339g)
 - [Dev.to/JS] [Behind the Scenes: Exploring Powerful Backend Frameworks](https://dev.to/burakboduroglu/behind-the-scenes-exploring-powerful-backend-frameworks-1an1)
 - [Dev.to/JS] [Managing the types folder with a simple script](https://dev.to/artxe2/managing-the-types-folder-with-a-simple-script-180k)
-- [Dev.to/JS] [Artificial Intelligence - Deep Learning in Java](https://dev.to/devme/artificial-intelligence-deep-learning-in-java-4do5)
-- [Dev.to/JS] [Why String is immutable in Java](https://dev.to/javatute673/why-string-is-immutable-in-java-5gij)
-- [Dev.to/JS] [Difference between Anonymous Inner Class and Lambda Expression](https://dev.to/javatute673/difference-between-anonymous-inner-class-and-lambda-expression-4bp4)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
 - [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)
