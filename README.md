@@ -26,15 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrating Agora&#39;s Real-Time Messaging in Web Applications for Improved Team Collaboration](https://dev.to/bernardkibathi/integrating-agoras-real-time-messaging-in-web-applications-for-improved-team-collaboration-4kem)
+- [Dev.to/JS] [AfterLib](https://dev.to/rankmarket123/afterlib-5gmd)
+- [Lifehacker] [The Easiest Ways to Transcribe a YouTube Video](https://lifehacker.com/tech/how-to-transcribe-youtube-videos)
+- [Dev.to/JS] [Interactive Fiction | 1st coding interview with SimpleOS](https://dev.to/brainquest/interactive-fiction-1st-coding-interview-with-simpleos-4525)
 - [Lifehacker] [There&#39;s Still Time to Get Diestel&#39;s Smoked Turkey for Thanksgiving](https://lifehacker.com/food-drink/diestels-smoked-turkey-thanksgiving)
 - [Dev.to/JS] [GPTzign oto](https://dev.to/rankmarket123/gptzign-oto-45lk)
 - [Lifehacker] [Nanoleaf Lights Are LED-Based Dopamine](https://lifehacker.com/tech/nanoleaf-smart-lights)
 - [Dev.to/JS] [⚙️ Leetcode Heap &lpar;Priority Queue&rpar; in JavaScript](https://dev.to/raaynaldo/leetcode-heap-priority-queue-in-javascript-4f25)
-- [Lifehacker] [Try the Zeigarnik Effect When Your Studies Overwhelm You](https://lifehacker.com/family/use-the-zeigarnik-effect-for-better-recall-while-studying)
+- [Lifehacker] [Why You Should Cut Your Next Study Session Short](https://lifehacker.com/family/use-the-zeigarnik-effect-for-better-recall-while-studying)
 - [Dev.to/JS] [Evitando o Caos Assíncrono: Um Guia Descomplicado sobre Callbacks, Promises e Async/Await!](https://dev.to/mattheuzz/evitando-o-caos-assincrono-um-guia-descomplicado-sobre-callbacks-promises-e-asyncawait-44ok)
 - [Dev.to/JS] [Evitando o Caos Assíncrono: Um Guia Descomplicado sobre Callbacks, Promises e Async/Await!](https://dev.to/mattheuzz/evitando-o-caos-assincrono-um-guia-descomplicado-sobre-callbacks-promises-e-asyncawait-3pl)
 - [Dev.to/JS] [How to create a backend API in Express JS](https://dev.to/bilal1718/how-to-create-a-backend-api-in-express-js-e0k)
-- [Dev.to/JS] [Navigating JavaScript Waters: Your Friendly Guidebook](https://dev.to/opensourcee/navigating-javascript-waters-your-friendly-guidebook-538d)
+- [Dev.to/JS] [Your Friendly Guidebook to JavaScript &lpar;in case you missed it&rpar;](https://dev.to/opensourcee/navigating-javascript-waters-your-friendly-guidebook-538d)
 - [Lifehacker] [You Can Get Frontier&#39;s Annual All-You-Can-Fly Pass for $499 Until Nov. 28](https://lifehacker.com/travel/frontiers-annual-all-you-can-fly-pass-deal)
 - [Dev.to/JS] [VideoAdVault](https://dev.to/rankmarket123/videoadvault-1iaj)
 - [Lifehacker] [Five Ways to Find Your Property Lines](https://lifehacker.com/home/find-property-lines)
@@ -42,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Sweet Meyer Lemon Marmalade](https://lifehacker.com/food-drink/sweet-meyer-lemon-marmalade-recipe)
 - [Dev.to/JS] [A deep dive into new control flow syntax for Angular &lpar;17&rpar;](https://dev.to/this-is-angular/a-deep-dive-into-new-control-flow-syntax-for-angular-17-24ld)
 - [Lifehacker] [You Can &lpar;and Should&rpar; Compost, Even If You Don&#39;t Garden](https://lifehacker.com/home/compost-use-beyond-gardens)
-- [Dev.to/JS] [Building Custom Enterprise CRM – Flatlogic Guideline](https://dev.to/alesiasirotka/building-custom-enterprise-crm-flatlogic-guideline-352a)
 - [Lifehacker] [You Should Take Your Next Test Backward](https://lifehacker.com/family/take-tests-backward-to-calm-nerves-and-focus)
-- [Dev.to/JS] [Alarm App JavaScript | With Multiple Alarm Feature | JavaScript Project](https://dev.to/codingcss/alarm-app-javascript-with-multiple-alarm-feature-javascript-project-25fn)
-- [Dev.to/JS] [Creating a TODO app using the HTML dialog element](https://dev.to/fibonacid/creating-a-todo-app-using-the-html-dialog-element-4634)
 - [Lifehacker] [You Can Invest Sustainably and Still Make Money](https://lifehacker.com/money/what-is-sustainable-investing)
 - [Lifehacker] [How to Dance Casually Without Looking Like an Awkward Goofball](https://lifehacker.com/health/how-to-dance-without-looking-awkward)
 - [Lifehacker] [Get in, Folks, We&#39;re Baking Cake for Thanksgiving](https://lifehacker.com/food-drink/thanksgiving-cake-recipes)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Digital Cameras](https://lifehacker.com/tech/amazon-black-friday-camera-deals)
 - [Lifehacker] [Beats, Bose, Sony, and More Headphones Are on Sale at Amazon for Early Black Friday](https://lifehacker.com/tech/amazon-early-black-friday-deals-headphones)
 - [Lifehacker] [Here Are Amazon’s Best TV Deals for ‘Early’ Black Friday](https://lifehacker.com/tech/amazon-early-black-friday-tv-deals)
-- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Soundbars](https://lifehacker.com/tech/amazon-best-soundbar-sales)
-- [Lifehacker] [10 Amazon Early Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Soundbars](https://lifehacker.com/tech/amazon-best-soundbar-sales)<!-- TECH-POSTS:END -->
 
 ---
 
