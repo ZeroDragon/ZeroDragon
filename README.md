@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimized images and videos in Nuxt with Cloudinary 🚀](https://dev.to/jacobandrewsky/optimized-images-and-videos-in-nuxt-with-cloudinary-f25)
+- [Dev.to/JS] [Web Scraping in Node.js Using Axios,Cheerio and Json2csv](https://dev.to/oyedeletemitope/web-scraping-in-nodejs-using-axioscheerio-and-json2csv-5afc)
+- [Dev.to/JS] [Server-Sent Events -Node.js](https://dev.to/tanishag/server-sent-events-nodejs-1mk3)
 - [Dev.to/JS] [Release on NPM using Github Actions](https://dev.to/giuliano1993/release-on-npm-using-github-actions-2la)
 - [Dev.to/JS] [JavaScript gotchas - not all your conditions are booleans](https://dev.to/aloisseckar/javascript-gotchas-not-all-your-conditions-are-booleans-1i8h)
 - [Dev.to/JS] [Serena Leafz Cbd Gummies Reviews Canada 2023:- Read Before Buy?](https://dev.to/serenaleafzcbd23/serena-leafz-cbd-gummies-reviews-canada-2023-read-before-buy-43pl)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [eslint rule parsing error](https://dev.to/chinnu999p/eslint-rule-parsing-error-5blf)
 - [Dev.to/JS] [Captcha Generator in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/captcha-generator-in-html-css-javascript-4e21)
 - [Dev.to/JS] [Image Search App using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/image-search-app-using-html-css-and-javascript-1d16)
-- [Dev.to/JS] [My JavaScript Set of Best Practices](https://dev.to/sergeyshandar/my-javascript-set-of-best-practices-32nb)
-- [Dev.to/JS] [How can I benefit from using Bulk SMS services?](https://dev.to/johnmerry/how-can-i-benefit-from-using-bulk-sms-services-3062)
-- [Dev.to/JS] [Creating an Image Slider with HTML, CSS, and JavaScript](https://dev.to/huericnan/creating-an-image-slider-with-html-css-and-javascript-4jl6)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
