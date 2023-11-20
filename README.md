@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Guide to Formatting Dates in JavaScript](https://dev.to/avwerosuoghene/a-guide-to-formatting-dates-in-javascript-an2)
+- [Dev.to/JS] [How we built an app in less than 5 days with Qwik, Supabase and Vercel](https://dev.to/danielzotti/how-we-built-an-app-in-less-than-5-days-with-qwik-supabase-and-vercel-1b3n)
+- [Lifehacker] [How to Dance Casually Without Looking Like an Awkward Goofball](https://lifehacker.com/health/how-to-dance-without-looking-awkward)
+- [Dev.to/JS] [Singleton — JavaScript Design Patterns— Part 2](https://dev.to/jaimaldullat/singleton-javascript-design-patterns-part-2-4ekg)
+- [Dev.to/JS] [JavaScript Design Patterns: The Ultimate Guide — Part 1](https://dev.to/jaimaldullat/javascript-design-patterns-the-ultimate-guide-part-1-1ehd)
+- [Lifehacker] [Get in, Folks, We&#39;re Baking Cake for Thanksgiving](https://lifehacker.com/food-drink/thanksgiving-cake-recipes)
+- [Dev.to/JS] [📚 Express Best Practices](https://dev.to/bhavesh_yadav/express-best-practices-23mn)
 - [Dev.to/JS] [Choosing The Right Headless CMS](https://dev.to/fanatii/choosing-the-right-headless-cms-18k8)
 - [Dev.to/JS] [TF #24 | Your weekly frontend digest](https://dev.to/tech-foutraque/tech-foutraque-24-your-weekly-frontend-digest-4l1j)
 - [Dev.to/JS] [The Dark Side of Design Systems - Mistakes, Missteps, and Lessons Learned](https://dev.to/eransakal/the-dark-side-of-design-systems-mistakes-missteps-and-lessons-learned-1onf)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Noir Effects](https://dev.to/rankmarket123/noir-effects-1ofi)
 - [Dev.to/JS] [Where to Order Assure Medical CBD Gummies ? Shocking Reviews](https://dev.to/assuremedicalcbdgummies/where-to-order-assure-medical-cbd-gummies-shocking-reviews-53h)
 - [Dev.to/JS] [Event-Driven Architecture in Node.js](https://dev.to/learn-to-earn/event-driven-architecture-in-nodejs-1o98)
-- [Dev.to/JS] [Common errors encountered in React development, along with potential causes and solutions](https://dev.to/muhammadshakkeer/common-errors-encountered-in-react-development-along-with-potential-causes-and-solutions-270n)
-- [Dev.to/JS] [Unleashing the Power of ChatGPT: A Comprehensive JavaScript Example](https://dev.to/agarralexx/unleashing-the-power-of-chatgpt-a-comprehensive-javascript-example-3174)
-- [Dev.to/JS] [Progressive enhancement](https://dev.to/craft-code/progressive-enhancement-31ii)
-- [Dev.to/JS] [Unlocking Efficiency: A Deep Dive into Redis as an In-Memory Datastore](https://dev.to/bilalulhaque/unlocking-efficiency-a-deep-dive-into-redis-as-an-in-memory-datastore-2m6m)
-- [Dev.to/JS] [The best modern frameworks for web application development in 2024](https://dev.to/sparkouttech/the-best-modern-frameworks-for-web-application-development-in-2024-4g9i)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Smartphones](https://lifehacker.com/tech/amazon-best-early-black-friday-deals-smartphones)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Smartwatches](https://lifehacker.com/tech/amazon-early-black-friday-deals-smartwatches)
 - [Lifehacker] [The Best Early Black Friday Deals on Fitness Watches](https://lifehacker.com/health/early-black-friday-deals-fitness-smart-watches)
-- [Lifehacker] [Here Are Amazon’s Best Early Black Friday Deals for DIYers](https://lifehacker.com/home/best-black-friday-tool-deals-on-amazon)
-- [Lifehacker] [These Are the Best Early Amazon Black Friday Deals on Monitors](https://lifehacker.com/tech/best-early-amazon-black-friday-computer-monitors)
-- [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here Are Amazon’s Best Early Black Friday Deals for DIYers](https://lifehacker.com/home/best-black-friday-tool-deals-on-amazon)<!-- TECH-POSTS:END -->
 
 ---
 
