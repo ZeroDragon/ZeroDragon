@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Choosing The Right Headless CMS](https://dev.to/fanatii/choosing-the-right-headless-cms-18k8)
+- [Dev.to/JS] [TF #24 | Your weekly frontend digest](https://dev.to/tech-foutraque/tech-foutraque-24-your-weekly-frontend-digest-4l1j)
 - [Dev.to/JS] [The Dark Side of Design Systems - Mistakes, Missteps, and Lessons Learned](https://dev.to/eransakal/the-dark-side-of-design-systems-mistakes-missteps-and-lessons-learned-1onf)
 - [Dev.to/JS] [How to generate a WP plugin based on React?](https://dev.to/manutheblacker/how-to-generate-a-wp-plugin-based-on-react-3og6)
 - [Dev.to/JS] [Noir Effects](https://dev.to/rankmarket123/noir-effects-1ofi)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Progressive enhancement](https://dev.to/craft-code/progressive-enhancement-31ii)
 - [Dev.to/JS] [Unlocking Efficiency: A Deep Dive into Redis as an In-Memory Datastore](https://dev.to/bilalulhaque/unlocking-efficiency-a-deep-dive-into-redis-as-an-in-memory-datastore-2m6m)
 - [Dev.to/JS] [The best modern frameworks for web application development in 2024](https://dev.to/sparkouttech/the-best-modern-frameworks-for-web-application-development-in-2024-4g9i)
-- [Dev.to/JS] [Optimized images and videos in Nuxt with Cloudinary 🚀](https://dev.to/jacobandrewsky/optimized-images-and-videos-in-nuxt-with-cloudinary-f25)
-- [Dev.to/JS] [Web Scraping in Node.js Using Axios,Cheerio and Json2csv](https://dev.to/oyedeletemitope/web-scraping-in-nodejs-using-axioscheerio-and-json2csv-5afc)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
