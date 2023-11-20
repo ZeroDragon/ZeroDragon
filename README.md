@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [One Weird Kubernetes Trick, Timothée Chalomet, our first Code Jam ever, and more 🍓🤳](https://dev.to/glitch/one-weird-kubernetes-trick-timothee-chalomet-our-first-code-jam-ever-and-more-51om)
+- [Dev.to/JS] [A deep dive into new control flow syntax for Angular &lpar;17&rpar;](https://dev.to/this-is-angular/a-deep-dive-into-new-control-flow-syntax-for-angular-17-24ld)
+- [Lifehacker] [You Can &lpar;and Should&rpar; Compost, Even If You Don&#39;t Garden](https://lifehacker.com/home/compost-use-beyond-gardens)
 - [Dev.to/JS] [Building Custom Enterprise CRM – Flatlogic Guideline](https://dev.to/alesiasirotka/building-custom-enterprise-crm-flatlogic-guideline-352a)
+- [Lifehacker] [You Should Take Your Next Test Backward](https://lifehacker.com/family/take-tests-backward-to-calm-nerves-and-focus)
 - [Dev.to/JS] [Alarm App JavaScript | With Multiple Alarm Feature | JavaScript Project](https://dev.to/codingcss/alarm-app-javascript-with-multiple-alarm-feature-javascript-project-25fn)
 - [Dev.to/JS] [Creating a TODO app using the HTML dialog element](https://dev.to/fibonacid/creating-a-todo-app-using-the-html-dialog-element-4634)
 - [Dev.to/JS] [Mastering redux-persist: An Integration Guide for React Native Developers &lpar;with code examples&rpar;](https://dev.to/nikl/mastering-redux-persist-an-integration-guide-for-react-native-developers-with-code-examples-2lp0)
@@ -38,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How we built an app in less than 5 days with Qwik, Supabase and Vercel](https://dev.to/danielzotti/how-we-built-an-app-in-less-than-5-days-with-qwik-supabase-and-vercel-1b3n)
 - [Lifehacker] [How to Dance Casually Without Looking Like an Awkward Goofball](https://lifehacker.com/health/how-to-dance-without-looking-awkward)
 - [Dev.to/JS] [Singleton — JavaScript Design Patterns— Part 2](https://dev.to/jaimaldullat/singleton-javascript-design-patterns-part-2-4ekg)
-- [Dev.to/JS] [JavaScript Design Patterns: The Ultimate Guide — Part 1](https://dev.to/jaimaldullat/javascript-design-patterns-the-ultimate-guide-part-1-1ehd)
 - [Lifehacker] [Get in, Folks, We&#39;re Baking Cake for Thanksgiving](https://lifehacker.com/food-drink/thanksgiving-cake-recipes)
-- [Dev.to/JS] [📚 Express Best Practices](https://dev.to/bhavesh_yadav/express-best-practices-23mn)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Kindle E-readers](https://lifehacker.com/tech/amazons-best-early-black-friday-deals-on-kindle-e-readers)
 - [Lifehacker] [The Best Early Black Friday Tablet Deals on Amazon](https://lifehacker.com/tech/best-early-black-friday-deals-amazon-tablets)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Apple Products](https://lifehacker.com/tech/amazons-early-black-friday-deals-apple)
-- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Smartphones](https://lifehacker.com/tech/amazon-best-early-black-friday-deals-smartphones)
-- [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Smartwatches](https://lifehacker.com/tech/amazon-early-black-friday-deals-smartwatches)
-- [Lifehacker] [The Best Early Black Friday Deals on Fitness Watches](https://lifehacker.com/health/early-black-friday-deals-fitness-smart-watches)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Smartphones](https://lifehacker.com/tech/amazon-best-early-black-friday-deals-smartphones)<!-- TECH-POSTS:END -->
 
 ---
 
