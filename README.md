@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [eslint rule parsing error](https://dev.to/chinnu999p/eslint-rule-parsing-error-5blf)
+- [Dev.to/JS] [Captcha Generator in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/captcha-generator-in-html-css-javascript-4e21)
 - [Dev.to/JS] [Image Search App using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/image-search-app-using-html-css-and-javascript-1d16)
 - [Dev.to/JS] [My JavaScript Set of Best Practices](https://dev.to/sergeyshandar/my-javascript-set-of-best-practices-32nb)
 - [Dev.to/JS] [How can I benefit from using Bulk SMS services?](https://dev.to/johnmerry/how-can-i-benefit-from-using-bulk-sms-services-3062)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [User authentication using fake back end: db.json](https://dev.to/kande/user-authentication-using-fake-back-end-dbjson-46a2)
 - [Dev.to/JS] [How to use environment variables &lpar;Vite + Vercel&rpar;?](https://dev.to/nandofreitas/how-to-use-environment-variables-vite-vercel-jm2)
 - [Dev.to/JS] [Fix bug where error message is not displaying properly](https://dev.to/avelynhc/fix-bug-where-error-message-is-not-displaying-properly-b0c)
-- [Dev.to/JS] [Set up Eleventy with Bun](https://dev.to/franciscornejog/set-up-eleventy-with-bun-4cff)
-- [Dev.to/JS] [How to compare two objects in JavaScript](https://dev.to/dkev/how-to-compare-two-objects-in-javascript-3ga9)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
