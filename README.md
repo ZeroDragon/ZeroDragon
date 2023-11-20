@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Muay Thaideas: A Roundhouse Kickstart](https://dev.to/jjb9922/muay-thaideas-a-roundhouse-kickstart-1c5a)
+- [Dev.to/JS] [User authentication using fake back end: db.json](https://dev.to/kande/user-authentication-using-fake-back-end-dbjson-46a2)
+- [Dev.to/JS] [How to use environment variables &lpar;Vite + Vercel&rpar;?](https://dev.to/nandofreitas/how-to-use-environment-variables-vite-vercel-jm2)
 - [Dev.to/JS] [Fix bug where error message is not displaying properly](https://dev.to/avelynhc/fix-bug-where-error-message-is-not-displaying-properly-b0c)
 - [Dev.to/JS] [Set up Eleventy with Bun](https://dev.to/franciscornejog/set-up-eleventy-with-bun-4cff)
 - [Dev.to/JS] [Advent of Code en JavaScript Chile](https://dev.to/javascriptchile/advent-of-code-en-javascript-chile-11jc)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Analyze your WebApp using Microsoft Clarity](https://dev.to/kevin-uehara/analyze-your-webapp-using-microsoft-clarity-53j8)
 - [Dev.to/JS] [Get started with Resend](https://dev.to/guillaumeduhan/get-started-with-resend-4kei)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
-- [Dev.to/JS] [Elevate your JavaScript game with essential ES6 tricks!](https://dev.to/fyno/best-javascript-es6-tricks-514h)
-- [Dev.to/JS] [&quot;Pro Digital Era: Transforming Businesses with Comprehensive Digital Solutions in Lahore, Pakistan&quot;](https://dev.to/seosubhani01/pro-digital-era-transforming-businesses-with-comprehensive-digital-solutions-in-lahore-pakistan-4bab)
-- [Dev.to/JS] [&quot;Pro Digital Era: Transforming Businesses in Pakistan through Comprehensive Digital Solutions&quot;](https://dev.to/seosubhani01/pro-digital-era-transforming-businesses-in-pakistan-through-comprehensive-digital-solutions-141j)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
 - [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)
