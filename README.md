@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ring Doorbells Are up to 45% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/amazon-ring-doorbell-black-friday-deals)
+- [Dev.to/JS] [AfterLib](https://dev.to/rankmarket123/afterlib-p02)
+- [Dev.to/JS] [Converting JS Libraries to Clojure: Part 1](https://dev.to/bop/converting-js-libraries-to-clojure-part-1-3c3l)
 - [Dev.to/JS] [Integrating Agora&#39;s Real-Time Messaging in Web Applications for Improved Team Collaboration](https://dev.to/bernardkibathi/integrating-agoras-real-time-messaging-in-web-applications-for-improved-team-collaboration-4kem)
+- [Lifehacker] [How to Find and Clean Your Refrigerator&#39;s Air Filter](https://lifehacker.com/home/clean-refrigerator-air-filter)
 - [Dev.to/JS] [AfterLib](https://dev.to/rankmarket123/afterlib-5gmd)
 - [Lifehacker] [The Easiest Ways to Transcribe a YouTube Video](https://lifehacker.com/tech/how-to-transcribe-youtube-videos)
 - [Dev.to/JS] [Interactive Fiction | 1st coding interview with SimpleOS](https://dev.to/brainquest/interactive-fiction-1st-coding-interview-with-simpleos-4525)
@@ -42,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Frontier&#39;s Annual All-You-Can-Fly Pass for $499 Until Nov. 28](https://lifehacker.com/travel/frontiers-annual-all-you-can-fly-pass-deal)
 - [Dev.to/JS] [VideoAdVault](https://dev.to/rankmarket123/videoadvault-1iaj)
 - [Lifehacker] [Five Ways to Find Your Property Lines](https://lifehacker.com/home/find-property-lines)
-- [Dev.to/JS] [One Weird Kubernetes Trick, Timothée Chalomet, our first Code Jam ever, and more 🍓🤳](https://dev.to/glitch/one-weird-kubernetes-trick-timothee-chalomet-our-first-code-jam-ever-and-more-51om)
 - [Lifehacker] [Make This Sweet Meyer Lemon Marmalade](https://lifehacker.com/food-drink/sweet-meyer-lemon-marmalade-recipe)
-- [Dev.to/JS] [A deep dive into new control flow syntax for Angular &lpar;17&rpar;](https://dev.to/this-is-angular/a-deep-dive-into-new-control-flow-syntax-for-angular-17-24ld)
 - [Lifehacker] [You Can &lpar;and Should&rpar; Compost, Even If You Don&#39;t Garden](https://lifehacker.com/home/compost-use-beyond-gardens)
 - [Lifehacker] [You Should Take Your Next Test Backward](https://lifehacker.com/family/take-tests-backward-to-calm-nerves-and-focus)
 - [Lifehacker] [You Can Invest Sustainably and Still Make Money](https://lifehacker.com/money/what-is-sustainable-investing)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Digital Cameras](https://lifehacker.com/tech/amazon-black-friday-camera-deals)
-- [Lifehacker] [Beats, Bose, Sony, and More Headphones Are on Sale at Amazon for Early Black Friday](https://lifehacker.com/tech/amazon-early-black-friday-deals-headphones)
-- [Lifehacker] [Here Are Amazon’s Best TV Deals for ‘Early’ Black Friday](https://lifehacker.com/tech/amazon-early-black-friday-tv-deals)
-- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Soundbars](https://lifehacker.com/tech/amazon-best-soundbar-sales)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Beats, Bose, Sony, and More Headphones Are on Sale at Amazon for Early Black Friday](https://lifehacker.com/tech/amazon-early-black-friday-deals-headphones)<!-- TECH-POSTS:END -->
 
 ---
 
