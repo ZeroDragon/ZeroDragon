@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Release on NPM using Github Actions](https://dev.to/giuliano1993/release-on-npm-using-github-actions-2la)
+- [Dev.to/JS] [JavaScript gotchas - not all your conditions are booleans](https://dev.to/aloisseckar/javascript-gotchas-not-all-your-conditions-are-booleans-1i8h)
+- [Dev.to/JS] [Serena Leafz Cbd Gummies Reviews Canada 2023:- Read Before Buy?](https://dev.to/serenaleafzcbd23/serena-leafz-cbd-gummies-reviews-canada-2023-read-before-buy-43pl)
 - [Dev.to/JS] [How to Create an OHLC Chart in JavaScript](https://dev.to/anychart/how-to-create-an-ohlc-chart-in-javascript-2bch)
 - [Dev.to/JS] [JavaScript Security Essentials: Protecting Your Code and Users](https://dev.to/sfcityhallphotograph/javascript-security-essentials-protecting-your-code-and-users-5391)
 - [Dev.to/JS] [Set Up NextJS with Storybook using Monorepos](https://dev.to/dainemawer/set-up-nextjs-with-storybook-using-monorepos-16nl)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My JavaScript Set of Best Practices](https://dev.to/sergeyshandar/my-javascript-set-of-best-practices-32nb)
 - [Dev.to/JS] [How can I benefit from using Bulk SMS services?](https://dev.to/johnmerry/how-can-i-benefit-from-using-bulk-sms-services-3062)
 - [Dev.to/JS] [Creating an Image Slider with HTML, CSS, and JavaScript](https://dev.to/huericnan/creating-an-image-slider-with-html-css-and-javascript-4jl6)
-- [Dev.to/JS] [⭐5 Beginner Project with &quot;Nextjs + Shadcn = 🔥&quot;](https://dev.to/taqui/5-beginner-project-with-nextjs-shadcn--ga9)
-- [Dev.to/JS] [Javascript Data structure](https://dev.to/rokibulslam/javascript-data-structure-1d39)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
-- [Dev.to/JS] [Muay Thaideas: A Roundhouse Kickstart](https://dev.to/jjb9922/muay-thaideas-a-roundhouse-kickstart-1c5a)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
