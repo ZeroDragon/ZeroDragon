@@ -26,10 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [There&#39;s Still Time to Get Diestel&#39;s Smoked Turkey for Thanksgiving](https://lifehacker.com/food-drink/diestels-smoked-turkey-thanksgiving)
+- [Dev.to/JS] [GPTzign oto](https://dev.to/rankmarket123/gptzign-oto-45lk)
+- [Lifehacker] [Nanoleaf Lights Are LED-Based Dopamine](https://lifehacker.com/tech/nanoleaf-smart-lights)
+- [Dev.to/JS] [⚙️ Leetcode Heap &lpar;Priority Queue&rpar; in JavaScript](https://dev.to/raaynaldo/leetcode-heap-priority-queue-in-javascript-4f25)
+- [Lifehacker] [Try the Zeigarnik Effect When Your Studies Overwhelm You](https://lifehacker.com/family/use-the-zeigarnik-effect-for-better-recall-while-studying)
 - [Dev.to/JS] [Evitando o Caos Assíncrono: Um Guia Descomplicado sobre Callbacks, Promises e Async/Await!](https://dev.to/mattheuzz/evitando-o-caos-assincrono-um-guia-descomplicado-sobre-callbacks-promises-e-asyncawait-44ok)
 - [Dev.to/JS] [Evitando o Caos Assíncrono: Um Guia Descomplicado sobre Callbacks, Promises e Async/Await!](https://dev.to/mattheuzz/evitando-o-caos-assincrono-um-guia-descomplicado-sobre-callbacks-promises-e-asyncawait-3pl)
 - [Dev.to/JS] [How to create a backend API in Express JS](https://dev.to/bilal1718/how-to-create-a-backend-api-in-express-js-e0k)
 - [Dev.to/JS] [Navigating JavaScript Waters: Your Friendly Guidebook](https://dev.to/opensourcee/navigating-javascript-waters-your-friendly-guidebook-538d)
+- [Lifehacker] [You Can Get Frontier&#39;s Annual All-You-Can-Fly Pass for $499 Until Nov. 28](https://lifehacker.com/travel/frontiers-annual-all-you-can-fly-pass-deal)
 - [Dev.to/JS] [VideoAdVault](https://dev.to/rankmarket123/videoadvault-1iaj)
 - [Lifehacker] [Five Ways to Find Your Property Lines](https://lifehacker.com/home/find-property-lines)
 - [Dev.to/JS] [One Weird Kubernetes Trick, Timothée Chalomet, our first Code Jam ever, and more 🍓🤳](https://dev.to/glitch/one-weird-kubernetes-trick-timothee-chalomet-our-first-code-jam-ever-and-more-51om)
@@ -40,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Take Your Next Test Backward](https://lifehacker.com/family/take-tests-backward-to-calm-nerves-and-focus)
 - [Dev.to/JS] [Alarm App JavaScript | With Multiple Alarm Feature | JavaScript Project](https://dev.to/codingcss/alarm-app-javascript-with-multiple-alarm-feature-javascript-project-25fn)
 - [Dev.to/JS] [Creating a TODO app using the HTML dialog element](https://dev.to/fibonacid/creating-a-todo-app-using-the-html-dialog-element-4634)
-- [Dev.to/JS] [Mastering redux-persist: An Integration Guide for React Native Developers &lpar;with code examples&rpar;](https://dev.to/nikl/mastering-redux-persist-an-integration-guide-for-react-native-developers-with-code-examples-2lp0)
-- [Dev.to/JS] [Webpack On-Demand Compilation: How to Speed up Dev mode of Legacy Webpack Applications](https://dev.to/yakovlev_alexey/webpack-on-demand-compilation-how-to-speed-up-dev-mode-of-legacy-webpack-applications-1ec0)
 - [Lifehacker] [You Can Invest Sustainably and Still Make Money](https://lifehacker.com/money/what-is-sustainable-investing)
 - [Lifehacker] [How to Dance Casually Without Looking Like an Awkward Goofball](https://lifehacker.com/health/how-to-dance-without-looking-awkward)
 - [Lifehacker] [Get in, Folks, We&#39;re Baking Cake for Thanksgiving](https://lifehacker.com/food-drink/thanksgiving-cake-recipes)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beats, Bose, Sony, and More Headphones Are on Sale at Amazon for Early Black Friday](https://lifehacker.com/tech/amazon-early-black-friday-deals-headphones)
 - [Lifehacker] [Here Are Amazon’s Best TV Deals for ‘Early’ Black Friday](https://lifehacker.com/tech/amazon-early-black-friday-tv-deals)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Soundbars](https://lifehacker.com/tech/amazon-best-soundbar-sales)
-- [Lifehacker] [10 Amazon Early Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
-- [Lifehacker] [These Are Amazon’s Best Robot Vacuum Sales for Early Black Friday](https://lifehacker.com/home/best-amazon-early-black-friday-robot-vacuum-deals)
-- [Lifehacker] [These Are the Best Black Friday Amazon Deals on Earbuds](https://lifehacker.com/tech/best-black-friday-amazon-deals-on-earbuds)
-- [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Kindle E-readers](https://lifehacker.com/tech/amazons-best-early-black-friday-deals-on-kindle-e-readers)
-- [Lifehacker] [The Best Early Black Friday Tablet Deals on Amazon](https://lifehacker.com/tech/best-early-black-friday-deals-amazon-tablets)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Amazon Early Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)<!-- TECH-POSTS:END -->
 
 ---
 
