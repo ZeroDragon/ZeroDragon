@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Custom Enterprise CRM – Flatlogic Guideline](https://dev.to/alesiasirotka/building-custom-enterprise-crm-flatlogic-guideline-352a)
+- [Dev.to/JS] [Alarm App JavaScript | With Multiple Alarm Feature | JavaScript Project](https://dev.to/codingcss/alarm-app-javascript-with-multiple-alarm-feature-javascript-project-25fn)
+- [Dev.to/JS] [Creating a TODO app using the HTML dialog element](https://dev.to/fibonacid/creating-a-todo-app-using-the-html-dialog-element-4634)
+- [Dev.to/JS] [Mastering redux-persist: An Integration Guide for React Native Developers &lpar;with code examples&rpar;](https://dev.to/nikl/mastering-redux-persist-an-integration-guide-for-react-native-developers-with-code-examples-2lp0)
+- [Dev.to/JS] [Webpack On-Demand Compilation: How to Speed up Dev mode of Legacy Webpack Applications](https://dev.to/yakovlev_alexey/webpack-on-demand-compilation-how-to-speed-up-dev-mode-of-legacy-webpack-applications-1ec0)
+- [Dev.to/JS] [VS Code - Sticky code sections for improved contextual browsing &lpar;sticky scroll&rpar;](https://dev.to/robole/vs-code-sticky-code-sections-for-improved-contextual-browsing-sticky-scroll-1o6)
+- [Lifehacker] [You Can Invest Sustainably and Still Make Money](https://lifehacker.com/money/what-is-sustainable-investing)
+- [Dev.to/JS] [Redux Toolkit Crash Course](https://dev.to/ministryofjavascript/redux-toolkit-crash-course-25ii)
 - [Dev.to/JS] [A Guide to Formatting Dates in JavaScript](https://dev.to/avwerosuoghene/a-guide-to-formatting-dates-in-javascript-an2)
 - [Dev.to/JS] [How we built an app in less than 5 days with Qwik, Supabase and Vercel](https://dev.to/danielzotti/how-we-built-an-app-in-less-than-5-days-with-qwik-supabase-and-vercel-1b3n)
 - [Lifehacker] [How to Dance Casually Without Looking Like an Awkward Goofball](https://lifehacker.com/health/how-to-dance-without-looking-awkward)
@@ -33,13 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Design Patterns: The Ultimate Guide — Part 1](https://dev.to/jaimaldullat/javascript-design-patterns-the-ultimate-guide-part-1-1ehd)
 - [Lifehacker] [Get in, Folks, We&#39;re Baking Cake for Thanksgiving](https://lifehacker.com/food-drink/thanksgiving-cake-recipes)
 - [Dev.to/JS] [📚 Express Best Practices](https://dev.to/bhavesh_yadav/express-best-practices-23mn)
-- [Dev.to/JS] [Choosing The Right Headless CMS](https://dev.to/fanatii/choosing-the-right-headless-cms-18k8)
-- [Dev.to/JS] [TF #24 | Your weekly frontend digest](https://dev.to/tech-foutraque/tech-foutraque-24-your-weekly-frontend-digest-4l1j)
-- [Dev.to/JS] [The Dark Side of Design Systems - Mistakes, Missteps, and Lessons Learned](https://dev.to/eransakal/the-dark-side-of-design-systems-mistakes-missteps-and-lessons-learned-1onf)
-- [Dev.to/JS] [How to generate a WP plugin based on React?](https://dev.to/manutheblacker/how-to-generate-a-wp-plugin-based-on-react-3og6)
-- [Dev.to/JS] [Noir Effects](https://dev.to/rankmarket123/noir-effects-1ofi)
-- [Dev.to/JS] [Where to Order Assure Medical CBD Gummies ? Shocking Reviews](https://dev.to/assuremedicalcbdgummies/where-to-order-assure-medical-cbd-gummies-shocking-reviews-53h)
-- [Dev.to/JS] [Event-Driven Architecture in Node.js](https://dev.to/learn-to-earn/event-driven-architecture-in-nodejs-1o98)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Apple Products](https://lifehacker.com/tech/amazons-early-black-friday-deals-apple)
 - [Lifehacker] [These Are Amazon&#39;s Best Early Black Friday Deals on Smartphones](https://lifehacker.com/tech/amazon-best-early-black-friday-deals-smartphones)
 - [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Smartwatches](https://lifehacker.com/tech/amazon-early-black-friday-deals-smartwatches)
-- [Lifehacker] [The Best Early Black Friday Deals on Fitness Watches](https://lifehacker.com/health/early-black-friday-deals-fitness-smart-watches)
-- [Lifehacker] [Here Are Amazon’s Best Early Black Friday Deals for DIYers](https://lifehacker.com/home/best-black-friday-tool-deals-on-amazon)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Early Black Friday Deals on Fitness Watches](https://lifehacker.com/health/early-black-friday-deals-fitness-smart-watches)<!-- TECH-POSTS:END -->
 
 ---
 
