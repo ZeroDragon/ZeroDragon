@@ -26,9 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fix bug where error message is not displaying properly](https://dev.to/avelynhc/fix-bug-where-error-message-is-not-displaying-properly-b0c)
+- [Dev.to/JS] [Set up Eleventy with Bun](https://dev.to/franciscornejog/set-up-eleventy-with-bun-4cff)
 - [Dev.to/JS] [Advent of Code en JavaScript Chile](https://dev.to/javascriptchile/advent-of-code-en-javascript-chile-11jc)
-- [Dev.to/JS] [The Do’s and Don’ts of Resume Writing: How to Create a Professional CV](https://dev.to/marian7777/the-dos-and-donts-of-resume-writing-how-to-create-a-professional-cv-24j2)
-- [Dev.to/JS] [The Do’s and Don’ts of Resume Writing: How to Create a Professional CV](https://dev.to/marian7777/the-dos-and-donts-of-resume-writing-how-to-create-a-professional-cv-37cb)
 - [Dev.to/JS] [TypeError: ‘Win’ and ‘NotTyped’ have no overlap](https://dev.to/noriller/typeerror-win-and-nottyped-have-no-overlap-g4i)
 - [Dev.to/JS] [VueJS part 12: Exposing methods and data in components](https://dev.to/hi_iam_chris/vuejs-part-12-exposing-methods-and-data-in-components-33mc)
 - [Dev.to/JS] [6 Basic Tips For Optimizing React Performance](https://dev.to/sufian/6-basic-tips-to-optimizing-react-performance-1oka)
