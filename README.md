@@ -26,17 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
+- [Dev.to/JS] [Free DocuSign Alternatives - Comprehensive list for 2024](https://dev.to/docusignlog-in/free-docusign-alternatives-comprehensive-list-for-2024-4cb3)
+- [Dev.to/JS] [[Client] Auth with Next.js 14 &amp; Supabase](https://dev.to/guillaumeduhan/client-auth-with-nextjs-14-supabase-36g6)
+- [Dev.to/JS] [Excluding Livestreams from the YouTube Data API in JavaScript](https://dev.to/joshvickerson/excluding-livestreams-from-the-youtube-data-api-in-javascript-nna)
+- [Lifehacker] [All the Things You Didn’t Realize You Could Get From Unclaimed Luggage](https://lifehacker.com/money/everything-you-didnt-know-you-can-buy-from-unclained-luggage)
+- [Lifehacker] [Improve Your Conversations By Focusing on Curiosity, Not Performance](https://lifehacker.com/health/make-better-small-talk)
 - [Lifehacker] [One of the Best Curved Gaming Monitors Is $500 Off Right Now](https://lifehacker.com/tech/samsung-g8-curved-gaming-monitor-sale-black-friday)
 - [Lifehacker] [Ring Doorbells Are up to 45% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/amazon-ring-doorbell-black-friday-deals)
-- [Dev.to/JS] [AfterLib](https://dev.to/rankmarket123/afterlib-p02)
 - [Dev.to/JS] [Converting JS Libraries to Clojure: Part 1](https://dev.to/bop/converting-js-libraries-to-clojure-part-1-3c3l)
 - [Dev.to/JS] [Integrating Agora&#39;s Real-Time Messaging in Web Applications for Improved Team Collaboration](https://dev.to/bernardkibathi/integrating-agoras-real-time-messaging-in-web-applications-for-improved-team-collaboration-4kem)
 - [Lifehacker] [How to Find and Clean Your Refrigerator&#39;s Air Filter](https://lifehacker.com/home/clean-refrigerator-air-filter)
-- [Dev.to/JS] [AfterLib](https://dev.to/rankmarket123/afterlib-5gmd)
 - [Lifehacker] [The Easiest Ways to Transcribe a YouTube Video](https://lifehacker.com/tech/how-to-transcribe-youtube-videos)
 - [Dev.to/JS] [Interactive Fiction | 1st coding interview with SimpleOS](https://dev.to/brainquest/interactive-fiction-1st-coding-interview-with-simpleos-4525)
 - [Lifehacker] [There&#39;s Still Time to Get Diestel&#39;s Smoked Turkey for Thanksgiving](https://lifehacker.com/food-drink/diestels-smoked-turkey-thanksgiving)
-- [Dev.to/JS] [GPTzign oto](https://dev.to/rankmarket123/gptzign-oto-45lk)
 - [Lifehacker] [Nanoleaf Lights Are LED-Based Dopamine](https://lifehacker.com/tech/nanoleaf-smart-lights)
 - [Dev.to/JS] [⚙️ Leetcode Heap &lpar;Priority Queue&rpar; in JavaScript](https://dev.to/raaynaldo/leetcode-heap-priority-queue-in-javascript-4f25)
 - [Lifehacker] [Why You Should Cut Your Next Study Session Short](https://lifehacker.com/family/use-the-zeigarnik-effect-for-better-recall-while-studying)
@@ -45,8 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a backend API in Express JS](https://dev.to/bilal1718/how-to-create-a-backend-api-in-express-js-e0k)
 - [Dev.to/JS] [Your Friendly Guidebook to JavaScript &lpar;in case you missed it&rpar;](https://dev.to/opensourcee/navigating-javascript-waters-your-friendly-guidebook-538d)
 - [Lifehacker] [You Can Get Frontier&#39;s Annual All-You-Can-Fly Pass for $499 Until Nov. 28](https://lifehacker.com/travel/frontiers-annual-all-you-can-fly-pass-deal)
-- [Dev.to/JS] [VideoAdVault](https://dev.to/rankmarket123/videoadvault-1iaj)
 - [Lifehacker] [Five Ways to Find Your Property Lines](https://lifehacker.com/home/find-property-lines)
+- [Dev.to/JS] [One Weird Kubernetes Trick, Timothée Chalomet, our first Code Jam ever, and more 🍓🤳](https://dev.to/glitch/one-weird-kubernetes-trick-timothee-chalomet-our-first-code-jam-ever-and-more-51om)
 - [Lifehacker] [Make This Sweet Meyer Lemon Marmalade](https://lifehacker.com/food-drink/sweet-meyer-lemon-marmalade-recipe)
 - [Lifehacker] [You Can &lpar;and Should&rpar; Compost, Even If You Don&#39;t Garden](https://lifehacker.com/home/compost-use-beyond-gardens)
 - [Lifehacker] [You Should Take Your Next Test Backward](https://lifehacker.com/family/take-tests-backward-to-calm-nerves-and-focus)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn’t Leave Your Thanksgiving Turkey on the Counter to Defrost](https://lifehacker.com/food-drink/why-you-shouldnt-leave-your-thanksgiving-turkey-on-the-counter-to-defrost)
 - [Lifehacker] [Use the DRY Principle to Get More Done](https://lifehacker.com/work/dry-principle-productivity)
 - [Lifehacker] [How to Stay Warm When a Space Heater Isn’t Allowed](https://lifehacker.com/money/space-heater-alternatives)
-- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-18-2023)
-- [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/best-amazon-deals-gaming-consoles)
-- [Lifehacker] [These Are Amazon’s Best Early Black Friday Deals on Digital Cameras](https://lifehacker.com/tech/amazon-black-friday-camera-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Soaking the Fruit](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-one)<!-- TECH-POSTS:END -->
 
 ---
 
