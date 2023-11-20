@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Image Search App using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/image-search-app-using-html-css-and-javascript-1d16)
+- [Dev.to/JS] [My JavaScript Set of Best Practices](https://dev.to/sergeyshandar/my-javascript-set-of-best-practices-32nb)
+- [Dev.to/JS] [How can I benefit from using Bulk SMS services?](https://dev.to/johnmerry/how-can-i-benefit-from-using-bulk-sms-services-3062)
+- [Dev.to/JS] [Creating an Image Slider with HTML, CSS, and JavaScript](https://dev.to/huericnan/creating-an-image-slider-with-html-css-and-javascript-4jl6)
 - [Dev.to/JS] [⭐5 Beginner Project with &quot;Nextjs + Shadcn = 🔥&quot;](https://dev.to/taqui/5-beginner-project-with-nextjs-shadcn--ga9)
 - [Dev.to/JS] [Javascript Data structure](https://dev.to/rokibulslam/javascript-data-structure-1d39)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fix bug where error message is not displaying properly](https://dev.to/avelynhc/fix-bug-where-error-message-is-not-displaying-properly-b0c)
 - [Dev.to/JS] [Set up Eleventy with Bun](https://dev.to/franciscornejog/set-up-eleventy-with-bun-4cff)
 - [Dev.to/JS] [How to compare two objects in JavaScript](https://dev.to/dkev/how-to-compare-two-objects-in-javascript-3ga9)
-- [Dev.to/JS] [Advent of Code en JavaScript Chile](https://dev.to/javascriptchile/advent-of-code-en-javascript-chile-11jc)
-- [Dev.to/JS] [TypeError: ‘Win’ and ‘NotTyped’ have no overlap](https://dev.to/noriller/typeerror-win-and-nottyped-have-no-overlap-g4i)
-- [Dev.to/JS] [VueJS part 12: Exposing methods and data in components](https://dev.to/hi_iam_chris/vuejs-part-12-exposing-methods-and-data-in-components-33mc)
-- [Dev.to/JS] [6 Basic Tips For Optimizing React Performance](https://dev.to/sufian/6-basic-tips-to-optimizing-react-performance-1oka)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
