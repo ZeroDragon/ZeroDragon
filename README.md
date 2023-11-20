@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Dark Side of Design Systems - Mistakes, Missteps, and Lessons Learned](https://dev.to/eransakal/the-dark-side-of-design-systems-mistakes-missteps-and-lessons-learned-1onf)
+- [Dev.to/JS] [How to generate a WP plugin based on React?](https://dev.to/manutheblacker/how-to-generate-a-wp-plugin-based-on-react-3og6)
+- [Dev.to/JS] [Noir Effects](https://dev.to/rankmarket123/noir-effects-1ofi)
+- [Dev.to/JS] [Where to Order Assure Medical CBD Gummies ? Shocking Reviews](https://dev.to/assuremedicalcbdgummies/where-to-order-assure-medical-cbd-gummies-shocking-reviews-53h)
 - [Dev.to/JS] [Event-Driven Architecture in Node.js](https://dev.to/learn-to-earn/event-driven-architecture-in-nodejs-1o98)
 - [Dev.to/JS] [Common errors encountered in React development, along with potential causes and solutions](https://dev.to/muhammadshakkeer/common-errors-encountered-in-react-development-along-with-potential-causes-and-solutions-270n)
 - [Dev.to/JS] [Unleashing the Power of ChatGPT: A Comprehensive JavaScript Example](https://dev.to/agarralexx/unleashing-the-power-of-chatgpt-a-comprehensive-javascript-example-3174)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The best modern frameworks for web application development in 2024](https://dev.to/sparkouttech/the-best-modern-frameworks-for-web-application-development-in-2024-4g9i)
 - [Dev.to/JS] [Optimized images and videos in Nuxt with Cloudinary 🚀](https://dev.to/jacobandrewsky/optimized-images-and-videos-in-nuxt-with-cloudinary-f25)
 - [Dev.to/JS] [Web Scraping in Node.js Using Axios,Cheerio and Json2csv](https://dev.to/oyedeletemitope/web-scraping-in-nodejs-using-axioscheerio-and-json2csv-5afc)
-- [Dev.to/JS] [Server-Sent Events -Node.js](https://dev.to/tanishag/server-sent-events-nodejs-1mk3)
-- [Dev.to/JS] [Release on NPM using Github Actions](https://dev.to/giuliano1993/release-on-npm-using-github-actions-2la)
-- [Dev.to/JS] [JavaScript gotchas - not all your conditions are booleans](https://dev.to/aloisseckar/javascript-gotchas-not-all-your-conditions-are-booleans-1i8h)
-- [Dev.to/JS] [Serena Leafz Cbd Gummies Reviews Canada 2023:- Read Before Buy?](https://dev.to/serenaleafzcbd23/serena-leafz-cbd-gummies-reviews-canada-2023-read-before-buy-43pl)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
