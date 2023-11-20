@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Common errors encountered in React development, along with potential causes and solutions](https://dev.to/muhammadshakkeer/common-errors-encountered-in-react-development-along-with-potential-causes-and-solutions-270n)
+- [Dev.to/JS] [Unleashing the Power of ChatGPT: A Comprehensive JavaScript Example](https://dev.to/agarralexx/unleashing-the-power-of-chatgpt-a-comprehensive-javascript-example-3174)
+- [Dev.to/JS] [Progressive enhancement](https://dev.to/craft-code/progressive-enhancement-31ii)
+- [Dev.to/JS] [Unlocking Efficiency: A Deep Dive into Redis as an In-Memory Datastore](https://dev.to/bilalulhaque/unlocking-efficiency-a-deep-dive-into-redis-as-an-in-memory-datastore-2m6m)
+- [Dev.to/JS] [The best modern frameworks for web application development in 2024](https://dev.to/sparkouttech/the-best-modern-frameworks-for-web-application-development-in-2024-4g9i)
 - [Dev.to/JS] [Optimized images and videos in Nuxt with Cloudinary 🚀](https://dev.to/jacobandrewsky/optimized-images-and-videos-in-nuxt-with-cloudinary-f25)
 - [Dev.to/JS] [Web Scraping in Node.js Using Axios,Cheerio and Json2csv](https://dev.to/oyedeletemitope/web-scraping-in-nodejs-using-axioscheerio-and-json2csv-5afc)
 - [Dev.to/JS] [Server-Sent Events -Node.js](https://dev.to/tanishag/server-sent-events-nodejs-1mk3)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript gotchas - not all your conditions are booleans](https://dev.to/aloisseckar/javascript-gotchas-not-all-your-conditions-are-booleans-1i8h)
 - [Dev.to/JS] [Serena Leafz Cbd Gummies Reviews Canada 2023:- Read Before Buy?](https://dev.to/serenaleafzcbd23/serena-leafz-cbd-gummies-reviews-canada-2023-read-before-buy-43pl)
 - [Dev.to/JS] [How to Create an OHLC Chart in JavaScript](https://dev.to/anychart/how-to-create-an-ohlc-chart-in-javascript-2bch)
-- [Dev.to/JS] [JavaScript Security Essentials: Protecting Your Code and Users](https://dev.to/sfcityhallphotograph/javascript-security-essentials-protecting-your-code-and-users-5391)
-- [Dev.to/JS] [Set Up NextJS with Storybook using Monorepos](https://dev.to/dainemawer/set-up-nextjs-with-storybook-using-monorepos-16nl)
-- [Dev.to/JS] [eslint rule parsing error](https://dev.to/chinnu999p/eslint-rule-parsing-error-5blf)
-- [Dev.to/JS] [Captcha Generator in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/captcha-generator-in-html-css-javascript-4e21)
-- [Dev.to/JS] [Image Search App using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/image-search-app-using-html-css-and-javascript-1d16)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
