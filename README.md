@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [⭐5 Beginner Project with &quot;Nextjs + Shadcn = 🔥&quot;](https://dev.to/taqui/5-beginner-project-with-nextjs-shadcn--ga9)
+- [Dev.to/JS] [Javascript Data structure](https://dev.to/rokibulslam/javascript-data-structure-1d39)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
 - [Dev.to/JS] [Muay Thaideas: A Roundhouse Kickstart](https://dev.to/jjb9922/muay-thaideas-a-roundhouse-kickstart-1c5a)
 - [Dev.to/JS] [User authentication using fake back end: db.json](https://dev.to/kande/user-authentication-using-fake-back-end-dbjson-46a2)
 - [Dev.to/JS] [How to use environment variables &lpar;Vite + Vercel&rpar;?](https://dev.to/nandofreitas/how-to-use-environment-variables-vite-vercel-jm2)
 - [Dev.to/JS] [Fix bug where error message is not displaying properly](https://dev.to/avelynhc/fix-bug-where-error-message-is-not-displaying-properly-b0c)
 - [Dev.to/JS] [Set up Eleventy with Bun](https://dev.to/franciscornejog/set-up-eleventy-with-bun-4cff)
+- [Dev.to/JS] [How to compare two objects in JavaScript](https://dev.to/dkev/how-to-compare-two-objects-in-javascript-3ga9)
 - [Dev.to/JS] [Advent of Code en JavaScript Chile](https://dev.to/javascriptchile/advent-of-code-en-javascript-chile-11jc)
 - [Dev.to/JS] [TypeError: ‘Win’ and ‘NotTyped’ have no overlap](https://dev.to/noriller/typeerror-win-and-nottyped-have-no-overlap-g4i)
 - [Dev.to/JS] [VueJS part 12: Exposing methods and data in components](https://dev.to/hi_iam_chris/vuejs-part-12-exposing-methods-and-data-in-components-33mc)
 - [Dev.to/JS] [6 Basic Tips For Optimizing React Performance](https://dev.to/sufian/6-basic-tips-to-optimizing-react-performance-1oka)
-- [Dev.to/JS] [Making lodash tree-shakable](https://dev.to/pffigueiredo/making-lodash-tree-shakable-3h27)
-- [Dev.to/JS] [Analyze your WebApp using Microsoft Clarity](https://dev.to/kevin-uehara/analyze-your-webapp-using-microsoft-clarity-53j8)
-- [Dev.to/JS] [Get started with Resend](https://dev.to/guillaumeduhan/get-started-with-resend-4kei)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Early Black Friday Deals on Fitness Watches](https://lifehacker.com/health/early-black-friday-deals-fitness-smart-watches)
 - [Lifehacker] [Here Are Amazon’s Best Early Black Friday Deals for DIYers](https://lifehacker.com/home/best-black-friday-tool-deals-on-amazon)
 - [Lifehacker] [These Are the Best Early Amazon Black Friday Deals on Monitors](https://lifehacker.com/tech/best-early-amazon-black-friday-computer-monitors)
-- [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)
-- [Lifehacker] [These Arlo, Blink, and Eufy Security Cameras are on Sale at Amazon for Early Black Friday](https://lifehacker.com/home/the-best-home-security-and-doorbell-camera-black-friday-deals-on-amazon)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Amazon Products Are Massively Discounted for Early Black Friday](https://lifehacker.com/the-best-early-black-friday-deals-on-amazon-products-1850991111)<!-- TECH-POSTS:END -->
 
 ---
 
