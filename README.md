@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Event-Driven Architecture in Node.js](https://dev.to/learn-to-earn/event-driven-architecture-in-nodejs-1o98)
 - [Dev.to/JS] [Common errors encountered in React development, along with potential causes and solutions](https://dev.to/muhammadshakkeer/common-errors-encountered-in-react-development-along-with-potential-causes-and-solutions-270n)
 - [Dev.to/JS] [Unleashing the Power of ChatGPT: A Comprehensive JavaScript Example](https://dev.to/agarralexx/unleashing-the-power-of-chatgpt-a-comprehensive-javascript-example-3174)
 - [Dev.to/JS] [Progressive enhancement](https://dev.to/craft-code/progressive-enhancement-31ii)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Release on NPM using Github Actions](https://dev.to/giuliano1993/release-on-npm-using-github-actions-2la)
 - [Dev.to/JS] [JavaScript gotchas - not all your conditions are booleans](https://dev.to/aloisseckar/javascript-gotchas-not-all-your-conditions-are-booleans-1i8h)
 - [Dev.to/JS] [Serena Leafz Cbd Gummies Reviews Canada 2023:- Read Before Buy?](https://dev.to/serenaleafzcbd23/serena-leafz-cbd-gummies-reviews-canada-2023-read-before-buy-43pl)
-- [Dev.to/JS] [How to Create an OHLC Chart in JavaScript](https://dev.to/anychart/how-to-create-an-ohlc-chart-in-javascript-2bch)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
