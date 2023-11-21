@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Beginner&#39;s Guide to Downloading and Installing Node.js: Unlocking the Power of JavaScript](https://dev.to/rohitashsingh89/a-beginners-guide-to-downloading-and-installing-nodejs-unlocking-the-power-of-javascript-266n)
 - [Dev.to/JS] [Apa itu TypeScript?](https://dev.to/driannaird/apa-itu-typescript-50k4)
 - [Dev.to/JS] [Cross Platform App Development for IOS and Android](https://dev.to/rogerwillium/cross-platform-app-development-for-ios-and-android-46fm)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Improve Your Conversations By Focusing on Curiosity, Not Performance](https://lifehacker.com/health/make-better-small-talk)
 - [Lifehacker] [One of the Best Curved Gaming Monitors Is $500 Off Right Now](https://lifehacker.com/tech/samsung-g8-curved-gaming-monitor-sale-black-friday)
 - [Lifehacker] [Ring Doorbells Are up to 45% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/amazon-ring-doorbell-black-friday-deals)
-- [Dev.to/JS] [Converting JS Libraries to Clojure: Part 1](https://dev.to/bop/converting-js-libraries-to-clojure-part-1-3c3l)
 - [Lifehacker] [How to Find and Clean Your Refrigerator&#39;s Air Filter](https://lifehacker.com/home/clean-refrigerator-air-filter)
 - [Lifehacker] [The Easiest Ways to Transcribe a YouTube Video](https://lifehacker.com/tech/how-to-transcribe-youtube-videos)
 - [Lifehacker] [There&#39;s Still Time to Get Diestel&#39;s Smoked Turkey for Thanksgiving](https://lifehacker.com/food-drink/diestels-smoked-turkey-thanksgiving)
