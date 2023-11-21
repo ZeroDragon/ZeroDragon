@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cross Platform App Development for IOS and Android](https://dev.to/rogerwillium/cross-platform-app-development-for-ios-and-android-46fm)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
+- [Dev.to/JS] [Publishing package to npm registry, tagging and doing a release, and beyond...](https://dev.to/sdthaker/publishing-package-to-npm-registry-tagging-and-doing-a-release-and-beyond-1321)
 - [Dev.to/JS] [More About JavaScript](https://dev.to/eboachie/more-about-javascript-4bff)
 - [Dev.to/JS] [THE JAVASCRIPT &#39;SPREAD&#39; OPERATOR](https://dev.to/maame_afia/the-javascript-spread-operator-1adk)
 - [Dev.to/JS] [Develop AI Apps with React and Javascript](https://dev.to/salmenus/develop-ai-apps-with-react-and-javascript-516b)
@@ -48,10 +51,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating Agora&#39;s Real-Time Messaging in Web Applications for Improved Team Collaboration](https://dev.to/bernardkibathi/integrating-agoras-real-time-messaging-in-web-applications-for-improved-team-collaboration-4kem)
 - [Lifehacker] [How to Find and Clean Your Refrigerator&#39;s Air Filter](https://lifehacker.com/home/clean-refrigerator-air-filter)
 - [Lifehacker] [The Easiest Ways to Transcribe a YouTube Video](https://lifehacker.com/tech/how-to-transcribe-youtube-videos)
-- [Dev.to/JS] [Interactive Fiction | 1st coding interview with SimpleOS](https://dev.to/brainquest/interactive-fiction-1st-coding-interview-with-simpleos-4525)
 - [Lifehacker] [There&#39;s Still Time to Get Diestel&#39;s Smoked Turkey for Thanksgiving](https://lifehacker.com/food-drink/diestels-smoked-turkey-thanksgiving)
 - [Lifehacker] [Nanoleaf Lights Are LED-Based Dopamine](https://lifehacker.com/tech/nanoleaf-smart-lights)
-- [Dev.to/JS] [⚙️ Leetcode Heap &lpar;Priority Queue&rpar; in JavaScript](https://dev.to/raaynaldo/leetcode-heap-priority-queue-in-javascript-4f25)
 - [Lifehacker] [Why You Should Cut Your Next Study Session Short](https://lifehacker.com/family/use-the-zeigarnik-effect-for-better-recall-while-studying)
 - [Lifehacker] [You Can Get Frontier&#39;s Annual All-You-Can-Fly Pass for $499 Until Nov. 28](https://lifehacker.com/travel/frontiers-annual-all-you-can-fly-pass-deal)
 - [Lifehacker] [Five Ways to Find Your Property Lines](https://lifehacker.com/home/find-property-lines)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
-- [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
-- [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)<!-- TECH-POSTS:END -->
+- [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)<!-- TECH-POSTS:END -->
 
 ---
 
