@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [More About JavaScript](https://dev.to/eboachie/more-about-javascript-4bff)
+- [Dev.to/JS] [THE JAVASCRIPT &#39;SPREAD&#39; OPERATOR](https://dev.to/maame_afia/the-javascript-spread-operator-1adk)
+- [Dev.to/JS] [Develop AI Apps with React and Javascript](https://dev.to/salmenus/develop-ai-apps-with-react-and-javascript-516b)
+- [Dev.to/JS] [JAVASCRIPT FUNCTION INVOCATION](https://dev.to/maame_afia/javascript-function-invocation-afa)
+- [Dev.to/JS] [Unveiling the Power of JavaScript](https://dev.to/eboachie/unveiling-the-power-of-javascript-3ilj)
+- [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
+- [Lifehacker] [The Google Pixel Watch Is 50% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/google-pixel-watch-amazon-black-friday-sale)
 - [Lifehacker] [These Stick Cordless Vacuums Are up to 72% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/home/stick-cordless-vacuums-black-friday-sale-amazon)
 - [Lifehacker] [Amazon Is Offering AI Classes for Free](https://lifehacker.com/tech/amazon-offering-ai-classes-for-free)
 - [Lifehacker] [Make a Pull-apart Loaf With Canned Biscuit Dough](https://lifehacker.com/food-drink/pillsbury-pull-apart-loaf-with-canned-biscuit-dough)
@@ -46,13 +53,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nanoleaf Lights Are LED-Based Dopamine](https://lifehacker.com/tech/nanoleaf-smart-lights)
 - [Dev.to/JS] [⚙️ Leetcode Heap &lpar;Priority Queue&rpar; in JavaScript](https://dev.to/raaynaldo/leetcode-heap-priority-queue-in-javascript-4f25)
 - [Lifehacker] [Why You Should Cut Your Next Study Session Short](https://lifehacker.com/family/use-the-zeigarnik-effect-for-better-recall-while-studying)
-- [Dev.to/JS] [Evitando o Caos Assíncrono: Um Guia Descomplicado sobre Callbacks, Promises e Async/Await!](https://dev.to/mattheuzz/evitando-o-caos-assincrono-um-guia-descomplicado-sobre-callbacks-promises-e-asyncawait-44ok)
-- [Dev.to/JS] [Evitando o Caos Assíncrono: Um Guia Descomplicado sobre Callbacks, Promises e Async/Await!](https://dev.to/mattheuzz/evitando-o-caos-assincrono-um-guia-descomplicado-sobre-callbacks-promises-e-asyncawait-3pl)
-- [Dev.to/JS] [How to create a backend API in Express JS](https://dev.to/bilal1718/how-to-create-a-backend-api-in-express-js-e0k)
-- [Dev.to/JS] [Your Friendly Guidebook to JavaScript &lpar;in case you missed it&rpar;](https://dev.to/opensourcee/navigating-javascript-waters-your-friendly-guidebook-538d)
 - [Lifehacker] [You Can Get Frontier&#39;s Annual All-You-Can-Fly Pass for $499 Until Nov. 28](https://lifehacker.com/travel/frontiers-annual-all-you-can-fly-pass-deal)
 - [Lifehacker] [Five Ways to Find Your Property Lines](https://lifehacker.com/home/find-property-lines)
-- [Dev.to/JS] [One Weird Kubernetes Trick, Timothée Chalomet, our first Code Jam ever, and more 🍓🤳](https://dev.to/glitch/one-weird-kubernetes-trick-timothee-chalomet-our-first-code-jam-ever-and-more-51om)
 - [Lifehacker] [Make This Sweet Meyer Lemon Marmalade](https://lifehacker.com/food-drink/sweet-meyer-lemon-marmalade-recipe)
 - [Lifehacker] [You Can &lpar;and Should&rpar; Compost, Even If You Don&#39;t Garden](https://lifehacker.com/home/compost-use-beyond-gardens)
 - [Lifehacker] [You Should Take Your Next Test Backward](https://lifehacker.com/family/take-tests-backward-to-calm-nerves-and-focus)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
-- [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)
-- [Lifehacker] [Use This 100-Year-Old Productivity Method to Get More Done](https://lifehacker.com/work/the-ivy-lee-productivity-method)
-- [Lifehacker] [Why You Shouldn’t Leave Your Thanksgiving Turkey on the Counter to Defrost](https://lifehacker.com/food-drink/why-you-shouldnt-leave-your-thanksgiving-turkey-on-the-counter-to-defrost)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)<!-- TECH-POSTS:END -->
 
 ---
 
