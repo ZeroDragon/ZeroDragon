@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making shadow-cljs REPL&#39;s More Interactive](https://dev.to/bop/making-shadow-cljs-repls-more-interactive-4lhe)
+- [Dev.to/JS] [Custom Cursor in 4 Simple Steps – No External Libraries Needed!](https://dev.to/chocoscoding/custom-cursor-in-4-simple-steps-no-external-libraries-needed-1ml2)
 - [Dev.to/JS] [ReactJS advanced folder structure for scalable projects.](https://dev.to/kartikbudhraja/reactjs-advanced-folder-structure-for-scalable-projects-mle)
 - [Dev.to/JS] [Exclusive - Beginners Work From Home](https://dev.to/jon9050/exclusive-beginners-work-from-home-ij9)
+- [Lifehacker] [Why You Should Check Your Tire Pressure Every Month This Winter](https://lifehacker.com/travel/check-tire-pressure-winter)
 - [Lifehacker] [What&#39;s New on Netflix in December 2023](https://lifehacker.com/entertainment/netflix-december-2023)
 - [Dev.to/JS] [Day 92: WebRTC](https://dev.to/dhrn/day-92-webrtc-276)
 - [Dev.to/JS] [Welcome to Sweet Pea 3D/4D ultrasound Nola](https://dev.to/sweetpea3d4d/welcome-to-sweet-pea-3d4d-ultrasound-nola-54c7)
@@ -40,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolving &quot;File cannot be loaded because running scripts is disabled on this system&quot; Error in Nodemon](https://dev.to/arhamrumi/resolving-file-cannot-be-loaded-error-in-nodemon-1j7a)
 - [Dev.to/JS] [I made a free tool to spy on any website&#39;s hosting &amp; domain providers](https://dev.to/souviktests/i-made-a-free-tool-to-spy-on-any-websites-hosting-domain-providers-3bn3)
 - [Lifehacker] [A Green Bean Casserole Recipe for People Who Hate Green Bean Casserole](https://lifehacker.com/food-drink/from-scratch-green-bean-casserole-recipe)
-- [Dev.to/JS] [Js Devs: Position of you ++ or — matters](https://dev.to/chocoscoding/js-devs-position-of-you-or-matters-4a49)
 - [Lifehacker] [How to Prevent the Most Common House Fires This Christmas Season](https://lifehacker.com/home/prevent-christmas-fires)
-- [Dev.to/JS] [Recursividade em JS/TS](https://dev.to/pedr0d1as/recursividade-em-jsts-18mo)
 - [Lifehacker] [Five of the Best Indoor Winter Flowering Plants &lpar;That Aren’t Poinsettias&rpar;](https://lifehacker.com/home/best-indoor-winter-flowering-plants)
 - [Lifehacker] [Add These Garnishes to Upgrade Your Thanksgiving Dishes](https://lifehacker.com/food-drink/thanksgiving-garnishes)
 - [Lifehacker] [These Are the Best Black Friday Deals for Gardeners](https://lifehacker.com/home/black-friday-gardening-deals)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s Still Time to Get Diestel&#39;s Smoked Turkey for Thanksgiving](https://lifehacker.com/food-drink/diestels-smoked-turkey-thanksgiving)
 - [Lifehacker] [Nanoleaf Lights Are LED-Based Dopamine](https://lifehacker.com/tech/nanoleaf-smart-lights)
 - [Lifehacker] [Why You Should Cut Your Next Study Session Short](https://lifehacker.com/family/use-the-zeigarnik-effect-for-better-recall-while-studying)
-- [Lifehacker] [You Can Get Frontier&#39;s Annual All-You-Can-Fly Pass for $499 Until Nov. 28](https://lifehacker.com/travel/frontiers-annual-all-you-can-fly-pass-deal)
-- [Lifehacker] [Five Ways to Find Your Property Lines](https://lifehacker.com/home/find-property-lines)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Frontier&#39;s Annual All-You-Can-Fly Pass for $499 Until Nov. 28](https://lifehacker.com/travel/frontiers-annual-all-you-can-fly-pass-deal)<!-- TECH-POSTS:END -->
 
 ---
 
