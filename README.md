@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Smart Tic-Tac-Toe AI: The Minimax Approach](https://dev.to/ezhillragesh/building-a-smart-tic-tac-toe-ai-the-minimax-approach-1cpo)
+- [Dev.to/JS] [How To Create And Sell Notion Templates as a Developer](https://dev.to/surajondev/how-to-create-and-sell-notion-templates-as-a-developer-2gba)
+- [Dev.to/JS] [Some functional utilities](https://dev.to/artydev/some-functional-utilities-3bah)
 - [Dev.to/JS] [Zustand - A beginners guids](https://dev.to/shubhamtiwari909/zustand-a-beginners-guids-fh7)
 - [Dev.to/JS] [September’23 Updates: Test on Real iPhone 15 Series, AI-Powered Custom Flaky Test Detection, and More](https://dev.to/salmankhan2389/september23-updates-test-on-real-iphone-15-series-ai-powered-custom-flaky-test-detection-and-more-2p76)
 - [Dev.to/JS] [The Role of Practical Knowledge in Excelling at Exams](https://dev.to/zarnabjerry/the-role-of-practical-knowledge-in-excelling-at-exams-2fcp)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Martha MacCallum CBD Gummies &lpar;2023 Reviews&rpar; Side Effects &amp; Price?](https://dev.to/marthamaccallumcbdgumy/martha-maccallum-cbd-gummies-2023-reviews-side-effects-price-k9g)
 - [Dev.to/JS] [Optimize your JS code in 10 seconds](https://dev.to/mainarthur/optimize-your-js-code-in-10-seconds-6jb)
 - [Dev.to/JS] [Changing Background Color on Scroll with JavaScript](https://dev.to/cruip_com/changing-background-color-on-scroll-with-javascript-39g1)
-- [Dev.to/JS] [iPhone Repair in Regina: Your Solution](https://dev.to/canwestcellular/iphone-repair-in-regina-your-solution-1icj)
-- [Dev.to/JS] [Understanding Stack and Queues in JavaScript](https://dev.to/emmaumeh/understanding-stack-and-queues-in-javascript-2bda)
-- [Dev.to/JS] [What&#39;s a Typical WebPack Setup?](https://dev.to/takuhii/whats-a-typical-webpack-setup-2143)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
 - [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
 - [Lifehacker] [The Google Pixel Watch Is 50% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/google-pixel-watch-amazon-black-friday-sale)
