@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Host your own Google Maps: A step-by-step guide to hosting and serving navigation, location, and mapping services](https://dev.to/lnahrf/host-your-own-google-maps-a-step-by-step-guide-to-hosting-and-serving-navigation-location-and-mapping-services-56nd)
 - [Dev.to/JS] [Coding? Languages? Which to Pick?](https://dev.to/thenebuladeveloper/coding-languages-which-to-pick-2ibh)
+- [Lifehacker] [The Seven Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/food-drink/worst-thanksgiving-host-mistakes)
 - [Lifehacker] [Your Safe Deposit Box Isn’t the Impenetrable Vault You Think It Is](https://lifehacker.com/money/safe-deposit-box-drilling)
 - [Lifehacker] [This Is the Cheapest the Meta Quest 2 Has Ever Been](https://lifehacker.com/entertainment/meta-quest-2-black-friday-deal)
 - [Lifehacker] [How to Stop Google From Artificially Slowing Down YouTube](https://lifehacker.com/tech/stop-google-slowing-down-youtube-firefox-edge)
@@ -47,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Organize the mess of your photo folders with Node](https://dev.to/alagrede/organize-the-mess-of-your-photo-folders-with-node-2l19)
 - [Lifehacker] [How to Hide &lpar;or Beautify&rpar; Your Home&#39;s Air Vents](https://lifehacker.com/home/hide-air-vents)
 - [Dev.to/JS] [Securing Your React App: Best Practices and Libraries](https://dev.to/abhaysinghr1/securing-your-react-app-best-practices-and-libraries-41ca)
-- [Dev.to/JS] [Resolving &quot;File cannot be loaded because running scripts is disabled on this system&quot; Error in Nodemon](https://dev.to/arhamrumi/resolving-file-cannot-be-loaded-error-in-nodemon-1j7a)
 - [Lifehacker] [A Green Bean Casserole Recipe for People Who Hate Green Bean Casserole](https://lifehacker.com/food-drink/from-scratch-green-bean-casserole-recipe)
 - [Lifehacker] [How to Prevent the Most Common House Fires This Christmas Season](https://lifehacker.com/home/prevent-christmas-fires)
 - [Lifehacker] [Five of the Best Indoor Winter Flowering Plants &lpar;That Aren’t Poinsettias&rpar;](https://lifehacker.com/home/best-indoor-winter-flowering-plants)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
 - [Lifehacker] [All the Things You Didn’t Realize You Could Get From Unclaimed Luggage](https://lifehacker.com/money/everything-you-didnt-know-you-can-buy-from-unclained-luggage)
 - [Lifehacker] [Improve Your Conversations By Focusing on Curiosity, Not Performance](https://lifehacker.com/health/make-better-small-talk)
-- [Lifehacker] [One of the Best Curved Gaming Monitors Is $500 Off Right Now](https://lifehacker.com/tech/samsung-g8-curved-gaming-monitor-sale-black-friday)
-- [Lifehacker] [Ring Doorbells Are up to 45% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/amazon-ring-doorbell-black-friday-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [One of the Best Curved Gaming Monitors Is $500 Off Right Now](https://lifehacker.com/tech/samsung-g8-curved-gaming-monitor-sale-black-friday)<!-- TECH-POSTS:END -->
 
 ---
 
