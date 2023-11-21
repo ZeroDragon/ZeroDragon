@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s a Typical WebPack Setup?](https://dev.to/takuhii/whats-a-typical-webpack-setup-2143)
+- [Dev.to/JS] [Group objects with Object.groupBy&lpar;&rpar;](https://dev.to/bcncodeschool/group-objects-with-objectgroupby-55ca)
+- [Dev.to/JS] [Console Magic: 10 Unexplored JavaScript Console Techniques](https://dev.to/rohitsondigala/console-magic10-unexplored-javascript-console-techniques-32a4)
 - [Dev.to/JS] [Bun: The Supercharged JavaScript Runtime](https://dev.to/emesislol/bun-the-supercharged-javascript-runtime-54g4)
 - [Dev.to/JS] [Having an survey it will be very helpful if you do it. And also have chance to win $750 Amazon gift card.](https://dev.to/mhatrevansh/having-an-survey-it-will-be-very-helpful-if-you-do-it-and-also-have-chance-to-win-750-amazon-gift-card-3h84)
 - [Dev.to/JS] [Having an survey it will be very helpful if you do it. And also have chance to win $750 Amazon gift card.](https://dev.to/mhatrevansh/having-an-survey-it-will-be-very-helpful-if-you-do-it-and-also-have-chance-to-win-750-amazon-gift-card-4eo1)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Harmonizing Development and Operations: Unveiling the Power of DevOps](https://dev.to/agiconsolution/harmonizing-development-and-operations-unveiling-the-power-of-devops-3pm0)
 - [Dev.to/JS] [Getting Started With Google Earth Engine Functions](https://dev.to/geedevs-nairobi/earth-engine-functions-2c5d)
 - [Dev.to/JS] [Dockerizing a Next.js App: A Step-by-Step Guide](https://dev.to/annysah/dockerizing-a-nextjs-app-a-step-by-step-guide-a40)
-- [Dev.to/JS] [Quick Solutions: Hire a Shopify Developer in Just 24 Hours](https://dev.to/davidwillam46/quick-solutions-hire-a-shopify-developer-in-just-24-hours-31jh)
-- [Dev.to/JS] [FREE JavaScript Course](https://dev.to/aqsa81/free-javascript-course-106)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Downloading and Installing Node.js: Unlocking the Power of JavaScript](https://dev.to/rohitashsingh89/a-beginners-guide-to-downloading-and-installing-nodejs-unlocking-the-power-of-javascript-266n)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
 - [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
 - [Lifehacker] [The Google Pixel Watch Is 50% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/google-pixel-watch-amazon-black-friday-sale)
