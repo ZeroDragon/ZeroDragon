@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 92: WebRTC](https://dev.to/dhrn/day-92-webrtc-276)
+- [Dev.to/JS] [Welcome to Sweet Pea 3D/4D ultrasound Nola](https://dev.to/sweetpea3d4d/welcome-to-sweet-pea-3d4d-ultrasound-nola-54c7)
+- [Lifehacker] [You Can Now Log Into WhatsApp With Your Email Address](https://lifehacker.com/tech/log-into-whatsapp-with-email-address)
 - [Dev.to/JS] [Enhancing User Experience with Bootstrap and Froala WYSIWYG Editor](https://dev.to/ideradevtools/enhancing-user-experience-with-bootstrap-and-froala-wysiwyg-editor-2k2o)
 - [Dev.to/JS] [How scroll to specific element with Vue.js 3](https://dev.to/caio2k/how-scroll-to-specific-element-with-vuejs-3-lb3)
 - [Dev.to/JS] [Organize the mess of your photo folders with Node](https://dev.to/alagrede/organize-the-mess-of-your-photo-folders-with-node-2l19)
+- [Lifehacker] [How to Hide &lpar;or Beautify&rpar; Your Home&#39;s Air Vents](https://lifehacker.com/home/hide-air-vents)
 - [Dev.to/JS] [Securing Your React App: Best Practices and Libraries](https://dev.to/abhaysinghr1/securing-your-react-app-best-practices-and-libraries-41ca)
 - [Dev.to/JS] [Resolving &quot;File cannot be loaded because running scripts is disabled on this system&quot; Error in Nodemon](https://dev.to/arhamrumi/resolving-file-cannot-be-loaded-error-in-nodemon-1j7a)
 - [Dev.to/JS] [I made a free tool to spy on any website&#39;s hosting &amp; domain providers](https://dev.to/souviktests/i-made-a-free-tool-to-spy-on-any-websites-hosting-domain-providers-3bn3)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Business Matching to Indonesia with MRA Grant for Singapore Company](https://dev.to/mragrant/business-matching-to-indonesia-with-mra-grant-for-singapore-company-518)
 - [Dev.to/JS] [Cypress JavaScript Tutorial: A Step-By-Step Handbook for &quot;beginners&quot; and &quot;seasoned&quot; qa/developers](https://dev.to/kailashpathak7/cypress-javascript-tutorial-a-step-by-step-handbook-for-beginners-and-seasoned-qadevelopers-4alg)
 - [Lifehacker] [Add These Garnishes to Upgrade Your Thanksgiving Dishes](https://lifehacker.com/food-drink/thanksgiving-garnishes)
-- [Dev.to/JS] [rental venue](https://dev.to/partyplace/rental-venue-4jcf)
-- [Dev.to/JS] [🦃 Reacts-giving: 11 react components for aspiring pros 👩🏻‍🌾🍁](https://dev.to/copilotkit/reacts-giving-11-react-components-for-aspiring-pros-eck)
 - [Lifehacker] [These Are the Best Black Friday Deals for Gardeners](https://lifehacker.com/home/black-friday-gardening-deals)
 - [Lifehacker] [These Are the Google Docs Hacks Every Student Should Know](https://lifehacker.com/family/google-docs-hacks-for-students)
 - [Lifehacker] [These Are the Best Educational Games for Nintendo Switch](https://lifehacker.com/entertainment/the-best-educational-games-for-nintendo-switch)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Cut Your Next Study Session Short](https://lifehacker.com/family/use-the-zeigarnik-effect-for-better-recall-while-studying)
 - [Lifehacker] [You Can Get Frontier&#39;s Annual All-You-Can-Fly Pass for $499 Until Nov. 28](https://lifehacker.com/travel/frontiers-annual-all-you-can-fly-pass-deal)
 - [Lifehacker] [Five Ways to Find Your Property Lines](https://lifehacker.com/home/find-property-lines)
-- [Lifehacker] [Make This Sweet Meyer Lemon Marmalade](https://lifehacker.com/food-drink/sweet-meyer-lemon-marmalade-recipe)
-- [Lifehacker] [You Can &lpar;and Should&rpar; Compost, Even If You Don&#39;t Garden](https://lifehacker.com/home/compost-use-beyond-gardens)
-- [Lifehacker] [You Should Take Your Next Test Backward](https://lifehacker.com/family/take-tests-backward-to-calm-nerves-and-focus)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Sweet Meyer Lemon Marmalade](https://lifehacker.com/food-drink/sweet-meyer-lemon-marmalade-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
