@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Js Devs: Position of you ++ or — matters](https://dev.to/chocoscoding/js-devs-position-of-you-or-matters-4a49)
+- [Lifehacker] [How to Prevent the Most Common Christmas House Fires](https://lifehacker.com/home/prevent-christmas-fires)
+- [Dev.to/JS] [Recursividade em JS/TS](https://dev.to/pedr0d1as/recursividade-em-jsts-18mo)
+- [Lifehacker] [Five of the Best Indoor Winter Flowering Plants &lpar;That Aren’t Poinsettias&rpar;](https://lifehacker.com/home/best-indoor-winter-flowering-plants)
 - [Dev.to/JS] [Business Matching to Indonesia with MRA Grant for Singapore Company](https://dev.to/mragrant/business-matching-to-indonesia-with-mra-grant-for-singapore-company-518)
 - [Dev.to/JS] [Cypress JavaScript Tutorial: A Step-By-Step Handbook for &quot;beginners&quot; and &quot;seasoned&quot; qa/developers](https://dev.to/kailashpathak7/cypress-javascript-tutorial-a-step-by-step-handbook-for-beginners-and-seasoned-qadevelopers-4alg)
 - [Lifehacker] [Add These Garnishes to Upgrade Your Thanksgiving Dishes](https://lifehacker.com/food-drink/thanksgiving-garnishes)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Google Docs Hacks Every Student Should Know](https://lifehacker.com/family/google-docs-hacks-for-students)
 - [Dev.to/JS] [Master React With These 10 Hooks 🔥](https://dev.to/chaoocharles/master-react-with-these-10-hooks-5mm)
 - [Dev.to/JS] [Benefits of Taking a Full-Stack Development Course](https://dev.to/redapplekolkata/benefits-of-taking-a-full-stack-development-course-4k8a)
-- [Dev.to/JS] [Exploring Next.js So You Can KODE to Perfection](https://dev.to/vinfinity7/exploring-nextjs-so-you-can-kode-to-perfection-493j)
-- [Dev.to/JS] [How to buy Ativan online in USA Overnight delivery](https://dev.to/pharmacy786/how-to-buy-ativan-online-in-usa-overnight-delivery-11g7)
 - [Lifehacker] [These Are the Best Educational Games for Nintendo Switch](https://lifehacker.com/entertainment/the-best-educational-games-for-nintendo-switch)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
 - [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Sweet Meyer Lemon Marmalade](https://lifehacker.com/food-drink/sweet-meyer-lemon-marmalade-recipe)
 - [Lifehacker] [You Can &lpar;and Should&rpar; Compost, Even If You Don&#39;t Garden](https://lifehacker.com/home/compost-use-beyond-gardens)
 - [Lifehacker] [You Should Take Your Next Test Backward](https://lifehacker.com/family/take-tests-backward-to-calm-nerves-and-focus)
-- [Lifehacker] [You Can Invest Sustainably and Still Make Money](https://lifehacker.com/money/what-is-sustainable-investing)
-- [Lifehacker] [How to Dance Casually Without Looking Like an Awkward Goofball](https://lifehacker.com/health/how-to-dance-without-looking-awkward)
-- [Lifehacker] [Get in, Folks, We&#39;re Baking Cake for Thanksgiving](https://lifehacker.com/food-drink/thanksgiving-cake-recipes)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Invest Sustainably and Still Make Money](https://lifehacker.com/money/what-is-sustainable-investing)<!-- TECH-POSTS:END -->
 
 ---
 
