@@ -28,6 +28,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Making shadow-cljs REPL&#39;s More Interactive](https://dev.to/bop/making-shadow-cljs-repls-more-interactive-4lhe)
 - [Dev.to/JS] [Custom Cursor in 4 Simple Steps – No External Libraries Needed!](https://dev.to/chocoscoding/custom-cursor-in-4-simple-steps-no-external-libraries-needed-1ml2)
+- [Lifehacker] [These Are the Best Last-Minute Thanksgiving Potato Side Dishes](https://lifehacker.com/food-drink/best-thanksgiving-potato-side-dishes)
+- [Lifehacker] [All The Food Safety Questions You’ll Have On Thanksgiving Day, Answered](https://lifehacker.com/all-the-food-safety-questions-you-ll-have-on-thanksgivi-1744092050)
+- [Lifehacker] [These Portable SSDs Are up to 60% Off](https://lifehacker.com/tech/portable-ssd-sales)
 - [Dev.to/JS] [ReactJS advanced folder structure for scalable projects.](https://dev.to/kartikbudhraja/reactjs-advanced-folder-structure-for-scalable-projects-mle)
 - [Dev.to/JS] [Exclusive - Beginners Work From Home](https://dev.to/jon9050/exclusive-beginners-work-from-home-ij9)
 - [Lifehacker] [Why You Should Check Your Tire Pressure Every Month This Winter](https://lifehacker.com/travel/check-tire-pressure-winter)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ring Doorbells Are up to 45% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/amazon-ring-doorbell-black-friday-deals)
 - [Lifehacker] [How to Find and Clean Your Refrigerator&#39;s Air Filter](https://lifehacker.com/home/clean-refrigerator-air-filter)
 - [Lifehacker] [The Easiest Ways to Transcribe a YouTube Video](https://lifehacker.com/tech/how-to-transcribe-youtube-videos)
-- [Lifehacker] [There&#39;s Still Time to Get Diestel&#39;s Smoked Turkey for Thanksgiving](https://lifehacker.com/food-drink/diestels-smoked-turkey-thanksgiving)
-- [Lifehacker] [Nanoleaf Lights Are LED-Based Dopamine](https://lifehacker.com/tech/nanoleaf-smart-lights)
-- [Lifehacker] [Why You Should Cut Your Next Study Session Short](https://lifehacker.com/family/use-the-zeigarnik-effect-for-better-recall-while-studying)
-- [Lifehacker] [You Can Get Frontier&#39;s Annual All-You-Can-Fly Pass for $499 Until Nov. 28](https://lifehacker.com/travel/frontiers-annual-all-you-can-fly-pass-deal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There&#39;s Still Time to Get Diestel&#39;s Smoked Turkey for Thanksgiving](https://lifehacker.com/food-drink/diestels-smoked-turkey-thanksgiving)<!-- TECH-POSTS:END -->
 
 ---
 
