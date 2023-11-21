@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactJS advanced folder structure for scalable projects.](https://dev.to/kartikbudhraja/reactjs-advanced-folder-structure-for-scalable-projects-mle)
+- [Dev.to/JS] [Exclusive - Beginners Work From Home](https://dev.to/jon9050/exclusive-beginners-work-from-home-ij9)
+- [Lifehacker] [What&#39;s New on Netflix in December 2023](https://lifehacker.com/entertainment/netflix-december-2023)
 - [Dev.to/JS] [Day 92: WebRTC](https://dev.to/dhrn/day-92-webrtc-276)
 - [Dev.to/JS] [Welcome to Sweet Pea 3D/4D ultrasound Nola](https://dev.to/sweetpea3d4d/welcome-to-sweet-pea-3d4d-ultrasound-nola-54c7)
 - [Lifehacker] [You Can Now Log Into WhatsApp With Your Email Address](https://lifehacker.com/tech/log-into-whatsapp-with-email-address)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prevent the Most Common House Fires This Christmas Season](https://lifehacker.com/home/prevent-christmas-fires)
 - [Dev.to/JS] [Recursividade em JS/TS](https://dev.to/pedr0d1as/recursividade-em-jsts-18mo)
 - [Lifehacker] [Five of the Best Indoor Winter Flowering Plants &lpar;That Aren’t Poinsettias&rpar;](https://lifehacker.com/home/best-indoor-winter-flowering-plants)
-- [Dev.to/JS] [Business Matching to Indonesia with MRA Grant for Singapore Company](https://dev.to/mragrant/business-matching-to-indonesia-with-mra-grant-for-singapore-company-518)
-- [Dev.to/JS] [Cypress JavaScript Tutorial: A Step-By-Step Handbook for &quot;beginners&quot; and &quot;seasoned&quot; qa/developers](https://dev.to/kailashpathak7/cypress-javascript-tutorial-a-step-by-step-handbook-for-beginners-and-seasoned-qadevelopers-4alg)
 - [Lifehacker] [Add These Garnishes to Upgrade Your Thanksgiving Dishes](https://lifehacker.com/food-drink/thanksgiving-garnishes)
 - [Lifehacker] [These Are the Best Black Friday Deals for Gardeners](https://lifehacker.com/home/black-friday-gardening-deals)
 - [Lifehacker] [These Are the Google Docs Hacks Every Student Should Know](https://lifehacker.com/family/google-docs-hacks-for-students)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nanoleaf Lights Are LED-Based Dopamine](https://lifehacker.com/tech/nanoleaf-smart-lights)
 - [Lifehacker] [Why You Should Cut Your Next Study Session Short](https://lifehacker.com/family/use-the-zeigarnik-effect-for-better-recall-while-studying)
 - [Lifehacker] [You Can Get Frontier&#39;s Annual All-You-Can-Fly Pass for $499 Until Nov. 28](https://lifehacker.com/travel/frontiers-annual-all-you-can-fly-pass-deal)
-- [Lifehacker] [Five Ways to Find Your Property Lines](https://lifehacker.com/home/find-property-lines)
-- [Lifehacker] [Make This Sweet Meyer Lemon Marmalade](https://lifehacker.com/food-drink/sweet-meyer-lemon-marmalade-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Ways to Find Your Property Lines](https://lifehacker.com/home/find-property-lines)<!-- TECH-POSTS:END -->
 
 ---
 
