@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding? Languages? Which to Pick?](https://dev.to/thenebuladeveloper/coding-languages-which-to-pick-2ibh)
+- [Lifehacker] [Your Safe Deposit Box Isn’t the Impenetrable Vault You Think It Is](https://lifehacker.com/money/safe-deposit-box-drilling)
+- [Lifehacker] [This Is the Cheapest the Meta Quest 2 Has Ever Been](https://lifehacker.com/entertainment/meta-quest-2-black-friday-deal)
+- [Lifehacker] [How to Stop Google From Artificially Slowing Down YouTube](https://lifehacker.com/tech/stop-google-slowing-down-youtube-firefox-edge)
 - [Dev.to/JS] [Making shadow-cljs REPL&#39;s More Interactive](https://dev.to/bop/making-shadow-cljs-repls-more-interactive-4lhe)
 - [Dev.to/JS] [Custom Cursor in 4 Simple Steps – No External Libraries Needed!](https://dev.to/chocoscoding/custom-cursor-in-4-simple-steps-no-external-libraries-needed-1ml2)
 - [Lifehacker] [These Are the Best Last-Minute Thanksgiving Potato Side Dishes](https://lifehacker.com/food-drink/best-thanksgiving-potato-side-dishes)
@@ -44,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hide &lpar;or Beautify&rpar; Your Home&#39;s Air Vents](https://lifehacker.com/home/hide-air-vents)
 - [Dev.to/JS] [Securing Your React App: Best Practices and Libraries](https://dev.to/abhaysinghr1/securing-your-react-app-best-practices-and-libraries-41ca)
 - [Dev.to/JS] [Resolving &quot;File cannot be loaded because running scripts is disabled on this system&quot; Error in Nodemon](https://dev.to/arhamrumi/resolving-file-cannot-be-loaded-error-in-nodemon-1j7a)
-- [Dev.to/JS] [I made a free tool to spy on any website&#39;s hosting &amp; domain providers](https://dev.to/souviktests/i-made-a-free-tool-to-spy-on-any-websites-hosting-domain-providers-3bn3)
 - [Lifehacker] [A Green Bean Casserole Recipe for People Who Hate Green Bean Casserole](https://lifehacker.com/food-drink/from-scratch-green-bean-casserole-recipe)
 - [Lifehacker] [How to Prevent the Most Common House Fires This Christmas Season](https://lifehacker.com/home/prevent-christmas-fires)
 - [Lifehacker] [Five of the Best Indoor Winter Flowering Plants &lpar;That Aren’t Poinsettias&rpar;](https://lifehacker.com/home/best-indoor-winter-flowering-plants)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Things You Didn’t Realize You Could Get From Unclaimed Luggage](https://lifehacker.com/money/everything-you-didnt-know-you-can-buy-from-unclained-luggage)
 - [Lifehacker] [Improve Your Conversations By Focusing on Curiosity, Not Performance](https://lifehacker.com/health/make-better-small-talk)
 - [Lifehacker] [One of the Best Curved Gaming Monitors Is $500 Off Right Now](https://lifehacker.com/tech/samsung-g8-curved-gaming-monitor-sale-black-friday)
-- [Lifehacker] [Ring Doorbells Are up to 45% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/amazon-ring-doorbell-black-friday-deals)
-- [Lifehacker] [How to Find and Clean Your Refrigerator&#39;s Air Filter](https://lifehacker.com/home/clean-refrigerator-air-filter)
-- [Lifehacker] [The Easiest Ways to Transcribe a YouTube Video](https://lifehacker.com/tech/how-to-transcribe-youtube-videos)
-- [Lifehacker] [There&#39;s Still Time to Get Diestel&#39;s Smoked Turkey for Thanksgiving](https://lifehacker.com/food-drink/diestels-smoked-turkey-thanksgiving)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Ring Doorbells Are up to 45% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/amazon-ring-doorbell-black-friday-deals)<!-- TECH-POSTS:END -->
 
 ---
 
