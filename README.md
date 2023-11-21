@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Stick Cordless Vacuums Are up to 72% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/home/stick-cordless-vacuums-black-friday-sale-amazon)
+- [Lifehacker] [Amazon Is Offering AI Classes for Free](https://lifehacker.com/tech/amazon-offering-ai-classes-for-free)
 - [Lifehacker] [Make a Pull-apart Loaf With Canned Biscuit Dough](https://lifehacker.com/food-drink/pillsbury-pull-apart-loaf-with-canned-biscuit-dough)
 - [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
 - [Dev.to/JS] [Free DocuSign Alternatives - Comprehensive list for 2024](https://dev.to/docusignlog-in/free-docusign-alternatives-comprehensive-list-for-2024-4cb3)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)
 - [Lifehacker] [How to Text With a Real Person at the TSA to Answer Your Travel Questions](https://lifehacker.com/travel/you-can-text-the-tsa-for-real-time-answers-to-your-travel-questions)
 - [Lifehacker] [Use This 100-Year-Old Productivity Method to Get More Done](https://lifehacker.com/work/the-ivy-lee-productivity-method)
-- [Lifehacker] [Why You Shouldn’t Leave Your Thanksgiving Turkey on the Counter to Defrost](https://lifehacker.com/food-drink/why-you-shouldnt-leave-your-thanksgiving-turkey-on-the-counter-to-defrost)
-- [Lifehacker] [Use the DRY Principle to Get More Done](https://lifehacker.com/work/dry-principle-productivity)
-- [Lifehacker] [How to Stay Warm When a Space Heater Isn’t Allowed](https://lifehacker.com/money/space-heater-alternatives)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn’t Leave Your Thanksgiving Turkey on the Counter to Defrost](https://lifehacker.com/food-drink/why-you-shouldnt-leave-your-thanksgiving-turkey-on-the-counter-to-defrost)<!-- TECH-POSTS:END -->
 
 ---
 
