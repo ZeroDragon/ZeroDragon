@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Black Friday Deals for Gardeners](https://lifehacker.com/home/black-friday-gardening-deals)
+- [Dev.to/JS] [NextJs 14 with antd 5.11](https://dev.to/ahmadfarazcrypto/nextjs-14-with-antd-511-11h9)
+- [Dev.to/JS] [Verdaccio: to create npm packages locally](https://dev.to/nyruchi/verdaccio-to-create-npm-packages-locally-2e5k)
+- [Dev.to/JS] [Verdaccio: to create npm packages locally](https://dev.to/nyruchi/verdaccio-to-create-npm-packages-locally-2273)
+- [Lifehacker] [These Are the Google Docs Hacks Every Student Should Know](https://lifehacker.com/family/google-docs-hacks-for-students)
+- [Dev.to/JS] [Master React With These 10 Hooks 🔥](https://dev.to/chaoocharles/master-react-with-these-10-hooks-5mm)
+- [Dev.to/JS] [Benefits of Taking a Full-Stack Development Course](https://dev.to/redapplekolkata/benefits-of-taking-a-full-stack-development-course-4k8a)
+- [Dev.to/JS] [Exploring Next.js So You Can KODE to Perfection](https://dev.to/vinfinity7/exploring-nextjs-so-you-can-kode-to-perfection-493j)
+- [Dev.to/JS] [How to buy Ativan online in USA Overnight delivery](https://dev.to/pharmacy786/how-to-buy-ativan-online-in-usa-overnight-delivery-11g7)
+- [Lifehacker] [These Are the Best Educational Games for Nintendo Switch](https://lifehacker.com/entertainment/the-best-educational-games-for-nintendo-switch)
 - [Dev.to/JS] [How to Add Custom Code to a Single WordPress Page](https://dev.to/lobov/how-to-add-custom-code-to-a-single-wordpress-page-1ph1)
 - [Dev.to/JS] [Why does Flutter go unnoticed?](https://dev.to/lnahrf/why-does-flutter-go-unnoticed-2mb8)
 - [Dev.to/JS] [Supercharge Your Projects with NameForgeJS: The Ultimate Random Name Generator](https://dev.to/nameforgejs/supercharge-your-projects-with-nameforgejs-the-ultimate-random-name-generator-8aa)
 - [Dev.to/JS] [Weirdest error in react native thus far..](https://dev.to/emmyjaff/weirdest-error-in-react-native-thus-far-4ppk)
 - [Dev.to/JS] [Building a Smart Tic-Tac-Toe AI: The Minimax Approach](https://dev.to/ezhillragesh/building-a-smart-tic-tac-toe-ai-the-minimax-approach-1cpo)
-- [Dev.to/JS] [How To Create And Sell Notion Templates as a Developer](https://dev.to/surajondev/how-to-create-and-sell-notion-templates-as-a-developer-2gba)
-- [Dev.to/JS] [Some functional utilities](https://dev.to/artydev/some-functional-utilities-3bah)
-- [Dev.to/JS] [Zustand - A beginners guids](https://dev.to/shubhamtiwari909/zustand-a-beginners-guids-fh7)
-- [Dev.to/JS] [September’23 Updates: Test on Real iPhone 15 Series, AI-Powered Custom Flaky Test Detection, and More](https://dev.to/salmankhan2389/september23-updates-test-on-real-iphone-15-series-ai-powered-custom-flaky-test-detection-and-more-2p76)
-- [Dev.to/JS] [The Role of Practical Knowledge in Excelling at Exams](https://dev.to/zarnabjerry/the-role-of-practical-knowledge-in-excelling-at-exams-2fcp)
-- [Dev.to/JS] [Maximizing Efficiency: The Benefits of Free OCR APIs for Businesses](https://dev.to/ideradevtools/maximizing-efficiency-the-benefits-of-free-ocr-apis-for-businesses-4cki)
-- [Dev.to/JS] [Motorized Blinds: Effortless Elegance](https://dev.to/sierrablinds23/motorized-blinds-effortless-elegance-1b1c)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
 - [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
 - [Lifehacker] [The Google Pixel Watch Is 50% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/google-pixel-watch-amazon-black-friday-sale)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Invest Sustainably and Still Make Money](https://lifehacker.com/money/what-is-sustainable-investing)
 - [Lifehacker] [How to Dance Casually Without Looking Like an Awkward Goofball](https://lifehacker.com/health/how-to-dance-without-looking-awkward)
 - [Lifehacker] [Get in, Folks, We&#39;re Baking Cake for Thanksgiving](https://lifehacker.com/food-drink/thanksgiving-cake-recipes)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)
-- [Lifehacker] [The Skylight Frame and Calendar Are Great Family Tools](https://lifehacker.com/tech/skylight-frame-calendar-review)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-19-2023)
-- [Lifehacker] [If You’re Being Forced Back to the Office, Try ‘Coffee Badging’](https://lifehacker.com/work/coffee-badging-work-strategy)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)<!-- TECH-POSTS:END -->
 
 ---
 
