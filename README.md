@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add Custom Code to a Single WordPress Page](https://dev.to/lobov/how-to-add-custom-code-to-a-single-wordpress-page-1ph1)
+- [Dev.to/JS] [Why does Flutter go unnoticed?](https://dev.to/lnahrf/why-does-flutter-go-unnoticed-2mb8)
+- [Dev.to/JS] [Supercharge Your Projects with NameForgeJS: The Ultimate Random Name Generator](https://dev.to/nameforgejs/supercharge-your-projects-with-nameforgejs-the-ultimate-random-name-generator-8aa)
+- [Dev.to/JS] [Weirdest error in react native thus far..](https://dev.to/emmyjaff/weirdest-error-in-react-native-thus-far-4ppk)
 - [Dev.to/JS] [Building a Smart Tic-Tac-Toe AI: The Minimax Approach](https://dev.to/ezhillragesh/building-a-smart-tic-tac-toe-ai-the-minimax-approach-1cpo)
 - [Dev.to/JS] [How To Create And Sell Notion Templates as a Developer](https://dev.to/surajondev/how-to-create-and-sell-notion-templates-as-a-developer-2gba)
 - [Dev.to/JS] [Some functional utilities](https://dev.to/artydev/some-functional-utilities-3bah)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Role of Practical Knowledge in Excelling at Exams](https://dev.to/zarnabjerry/the-role-of-practical-knowledge-in-excelling-at-exams-2fcp)
 - [Dev.to/JS] [Maximizing Efficiency: The Benefits of Free OCR APIs for Businesses](https://dev.to/ideradevtools/maximizing-efficiency-the-benefits-of-free-ocr-apis-for-businesses-4cki)
 - [Dev.to/JS] [Motorized Blinds: Effortless Elegance](https://dev.to/sierrablinds23/motorized-blinds-effortless-elegance-1b1c)
-- [Dev.to/JS] [What Knowledge Is Required For Node.js?](https://dev.to/infiraise/what-knowledge-is-required-for-nodejs-1c56)
-- [Dev.to/JS] [Martha MacCallum CBD Gummies &lpar;2023 Reviews&rpar; Side Effects &amp; Price?](https://dev.to/marthamaccallumcbdgumy/martha-maccallum-cbd-gummies-2023-reviews-side-effects-price-k9g)
-- [Dev.to/JS] [Optimize your JS code in 10 seconds](https://dev.to/mainarthur/optimize-your-js-code-in-10-seconds-6jb)
-- [Dev.to/JS] [Changing Background Color on Scroll with JavaScript](https://dev.to/cruip_com/changing-background-color-on-scroll-with-javascript-39g1)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
 - [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
 - [Lifehacker] [The Google Pixel Watch Is 50% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/google-pixel-watch-amazon-black-friday-sale)
