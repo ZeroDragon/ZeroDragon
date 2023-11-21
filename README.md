@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FREE JavaScript Course](https://dev.to/aqsa81/free-javascript-course-106)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Downloading and Installing Node.js: Unlocking the Power of JavaScript](https://dev.to/rohitashsingh89/a-beginners-guide-to-downloading-and-installing-nodejs-unlocking-the-power-of-javascript-266n)
 - [Dev.to/JS] [Apa itu TypeScript?](https://dev.to/driannaird/apa-itu-typescript-50k4)
 - [Dev.to/JS] [Cross Platform App Development for IOS and Android](https://dev.to/rogerwillium/cross-platform-app-development-for-ios-and-android-46fm)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
 - [Dev.to/JS] [Free DocuSign Alternatives - Comprehensive list for 2024](https://dev.to/docusignlog-in/free-docusign-alternatives-comprehensive-list-for-2024-4cb3)
 - [Dev.to/JS] [[Client] Auth with Next.js 14 &amp; Supabase](https://dev.to/guillaumeduhan/client-auth-with-nextjs-14-supabase-36g6)
-- [Dev.to/JS] [Excluding Livestreams from the YouTube Data API in JavaScript](https://dev.to/joshvickerson/excluding-livestreams-from-the-youtube-data-api-in-javascript-nna)
 - [Lifehacker] [All the Things You Didn’t Realize You Could Get From Unclaimed Luggage](https://lifehacker.com/money/everything-you-didnt-know-you-can-buy-from-unclained-luggage)
 - [Lifehacker] [Improve Your Conversations By Focusing on Curiosity, Not Performance](https://lifehacker.com/health/make-better-small-talk)
 - [Lifehacker] [One of the Best Curved Gaming Monitors Is $500 Off Right Now](https://lifehacker.com/tech/samsung-g8-curved-gaming-monitor-sale-black-friday)
