@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Harmonizing Development and Operations: Unveiling the Power of DevOps](https://dev.to/agiconsolution/harmonizing-development-and-operations-unveiling-the-power-of-devops-3pm0)
+- [Dev.to/JS] [Getting Started With Google Earth Engine Functions](https://dev.to/geedevs-nairobi/earth-engine-functions-2c5d)
+- [Dev.to/JS] [Dockerizing a Next.js App: A Step-by-Step Guide](https://dev.to/annysah/dockerizing-a-nextjs-app-a-step-by-step-guide-a40)
+- [Dev.to/JS] [Quick Solutions: Hire a Shopify Developer in Just 24 Hours](https://dev.to/davidwillam46/quick-solutions-hire-a-shopify-developer-in-just-24-hours-31jh)
 - [Dev.to/JS] [FREE JavaScript Course](https://dev.to/aqsa81/free-javascript-course-106)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Downloading and Installing Node.js: Unlocking the Power of JavaScript](https://dev.to/rohitashsingh89/a-beginners-guide-to-downloading-and-installing-nodejs-unlocking-the-power-of-javascript-266n)
 - [Dev.to/JS] [Apa itu TypeScript?](https://dev.to/driannaird/apa-itu-typescript-50k4)
@@ -35,16 +39,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [More About JavaScript](https://dev.to/eboachie/more-about-javascript-4bff)
 - [Dev.to/JS] [THE JAVASCRIPT &#39;SPREAD&#39; OPERATOR](https://dev.to/maame_afia/the-javascript-spread-operator-1adk)
 - [Dev.to/JS] [Develop AI Apps with React and Javascript](https://dev.to/salmenus/develop-ai-apps-with-react-and-javascript-516b)
-- [Dev.to/JS] [JAVASCRIPT FUNCTION INVOCATION](https://dev.to/maame_afia/javascript-function-invocation-afa)
-- [Dev.to/JS] [Unveiling the Power of JavaScript](https://dev.to/eboachie/unveiling-the-power-of-javascript-3ilj)
 - [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
 - [Lifehacker] [The Google Pixel Watch Is 50% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/google-pixel-watch-amazon-black-friday-sale)
 - [Lifehacker] [These Stick Cordless Vacuums Are up to 72% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/home/stick-cordless-vacuums-black-friday-sale-amazon)
 - [Lifehacker] [Amazon Is Offering AI Classes for Free](https://lifehacker.com/tech/amazon-offering-ai-classes-for-free)
 - [Lifehacker] [Make a Pull-apart Loaf With Canned Biscuit Dough](https://lifehacker.com/food-drink/pillsbury-pull-apart-loaf-with-canned-biscuit-dough)
 - [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
-- [Dev.to/JS] [Free DocuSign Alternatives - Comprehensive list for 2024](https://dev.to/docusignlog-in/free-docusign-alternatives-comprehensive-list-for-2024-4cb3)
-- [Dev.to/JS] [[Client] Auth with Next.js 14 &amp; Supabase](https://dev.to/guillaumeduhan/client-auth-with-nextjs-14-supabase-36g6)
 - [Lifehacker] [All the Things You Didn’t Realize You Could Get From Unclaimed Luggage](https://lifehacker.com/money/everything-you-didnt-know-you-can-buy-from-unclained-luggage)
 - [Lifehacker] [Improve Your Conversations By Focusing on Curiosity, Not Performance](https://lifehacker.com/health/make-better-small-talk)
 - [Lifehacker] [One of the Best Curved Gaming Monitors Is $500 Off Right Now](https://lifehacker.com/tech/samsung-g8-curved-gaming-monitor-sale-black-friday)
