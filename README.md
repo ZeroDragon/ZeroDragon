@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Business Matching to Indonesia with MRA Grant for Singapore Company](https://dev.to/mragrant/business-matching-to-indonesia-with-mra-grant-for-singapore-company-518)
+- [Dev.to/JS] [Cypress JavaScript Tutorial: A Step-By-Step Handbook for &quot;beginners&quot; and &quot;seasoned&quot; qa/developers](https://dev.to/kailashpathak7/cypress-javascript-tutorial-a-step-by-step-handbook-for-beginners-and-seasoned-qadevelopers-4alg)
+- [Lifehacker] [Add These Garnishes to Upgrade Your Thanksgiving Dishes](https://lifehacker.com/food-drink/thanksgiving-garnishes)
+- [Dev.to/JS] [rental venue](https://dev.to/partyplace/rental-venue-4jcf)
+- [Dev.to/JS] [🦃 Reacts-giving: 11 react components for aspiring pros 👩🏻‍🌾🍁](https://dev.to/copilotkit/reacts-giving-11-react-components-for-aspiring-pros-eck)
+- [Dev.to/JS] [HTMX: Building Interactive Web Apps Without JavaScript](https://dev.to/teach_wizbits/htmx-building-interactive-web-apps-without-javascript-b61)
 - [Lifehacker] [These Are the Best Black Friday Deals for Gardeners](https://lifehacker.com/home/black-friday-gardening-deals)
 - [Dev.to/JS] [NextJs 14 with antd 5.11](https://dev.to/ahmadfarazcrypto/nextjs-14-with-antd-511-11h9)
 - [Dev.to/JS] [Verdaccio: to create npm packages locally](https://dev.to/nyruchi/verdaccio-to-create-npm-packages-locally-2e5k)
@@ -36,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Next.js So You Can KODE to Perfection](https://dev.to/vinfinity7/exploring-nextjs-so-you-can-kode-to-perfection-493j)
 - [Dev.to/JS] [How to buy Ativan online in USA Overnight delivery](https://dev.to/pharmacy786/how-to-buy-ativan-online-in-usa-overnight-delivery-11g7)
 - [Lifehacker] [These Are the Best Educational Games for Nintendo Switch](https://lifehacker.com/entertainment/the-best-educational-games-for-nintendo-switch)
-- [Dev.to/JS] [How to Add Custom Code to a Single WordPress Page](https://dev.to/lobov/how-to-add-custom-code-to-a-single-wordpress-page-1ph1)
-- [Dev.to/JS] [Why does Flutter go unnoticed?](https://dev.to/lnahrf/why-does-flutter-go-unnoticed-2mb8)
-- [Dev.to/JS] [Supercharge Your Projects with NameForgeJS: The Ultimate Random Name Generator](https://dev.to/nameforgejs/supercharge-your-projects-with-nameforgejs-the-ultimate-random-name-generator-8aa)
-- [Dev.to/JS] [Weirdest error in react native thus far..](https://dev.to/emmyjaff/weirdest-error-in-react-native-thus-far-4ppk)
-- [Dev.to/JS] [Building a Smart Tic-Tac-Toe AI: The Minimax Approach](https://dev.to/ezhillragesh/building-a-smart-tic-tac-toe-ai-the-minimax-approach-1cpo)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
 - [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
 - [Lifehacker] [The Google Pixel Watch Is 50% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/google-pixel-watch-amazon-black-friday-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Take Your Next Test Backward](https://lifehacker.com/family/take-tests-backward-to-calm-nerves-and-focus)
 - [Lifehacker] [You Can Invest Sustainably and Still Make Money](https://lifehacker.com/money/what-is-sustainable-investing)
 - [Lifehacker] [How to Dance Casually Without Looking Like an Awkward Goofball](https://lifehacker.com/health/how-to-dance-without-looking-awkward)
-- [Lifehacker] [Get in, Folks, We&#39;re Baking Cake for Thanksgiving](https://lifehacker.com/food-drink/thanksgiving-cake-recipes)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-20-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get in, Folks, We&#39;re Baking Cake for Thanksgiving](https://lifehacker.com/food-drink/thanksgiving-cake-recipes)<!-- TECH-POSTS:END -->
 
 ---
 
