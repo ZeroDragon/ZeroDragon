@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enhancing User Experience with Bootstrap and Froala WYSIWYG Editor](https://dev.to/ideradevtools/enhancing-user-experience-with-bootstrap-and-froala-wysiwyg-editor-2k2o)
+- [Dev.to/JS] [How scroll to specific element with Vue.js 3](https://dev.to/caio2k/how-scroll-to-specific-element-with-vuejs-3-lb3)
+- [Dev.to/JS] [Organize the mess of your photo folders with Node](https://dev.to/alagrede/organize-the-mess-of-your-photo-folders-with-node-2l19)
+- [Dev.to/JS] [Securing Your React App: Best Practices and Libraries](https://dev.to/abhaysinghr1/securing-your-react-app-best-practices-and-libraries-41ca)
+- [Dev.to/JS] [Resolving &quot;File cannot be loaded because running scripts is disabled on this system&quot; Error in Nodemon](https://dev.to/arhamrumi/resolving-file-cannot-be-loaded-error-in-nodemon-1j7a)
+- [Dev.to/JS] [I made a free tool to spy on any website&#39;s hosting &amp; domain providers](https://dev.to/souviktests/i-made-a-free-tool-to-spy-on-any-websites-hosting-domain-providers-3bn3)
+- [Lifehacker] [A Green Bean Casserole Recipe for People Who Hate Green Bean Casserole](https://lifehacker.com/food-drink/from-scratch-green-bean-casserole-recipe)
 - [Dev.to/JS] [Js Devs: Position of you ++ or — matters](https://dev.to/chocoscoding/js-devs-position-of-you-or-matters-4a49)
-- [Lifehacker] [How to Prevent the Most Common Christmas House Fires](https://lifehacker.com/home/prevent-christmas-fires)
+- [Lifehacker] [How to Prevent the Most Common House Fires This Christmas Season](https://lifehacker.com/home/prevent-christmas-fires)
 - [Dev.to/JS] [Recursividade em JS/TS](https://dev.to/pedr0d1as/recursividade-em-jsts-18mo)
 - [Lifehacker] [Five of the Best Indoor Winter Flowering Plants &lpar;That Aren’t Poinsettias&rpar;](https://lifehacker.com/home/best-indoor-winter-flowering-plants)
 - [Dev.to/JS] [Business Matching to Indonesia with MRA Grant for Singapore Company](https://dev.to/mragrant/business-matching-to-indonesia-with-mra-grant-for-singapore-company-518)
@@ -35,14 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add These Garnishes to Upgrade Your Thanksgiving Dishes](https://lifehacker.com/food-drink/thanksgiving-garnishes)
 - [Dev.to/JS] [rental venue](https://dev.to/partyplace/rental-venue-4jcf)
 - [Dev.to/JS] [🦃 Reacts-giving: 11 react components for aspiring pros 👩🏻‍🌾🍁](https://dev.to/copilotkit/reacts-giving-11-react-components-for-aspiring-pros-eck)
-- [Dev.to/JS] [HTMX: Building Interactive Web Apps Without JavaScript](https://dev.to/teach_wizbits/htmx-building-interactive-web-apps-without-javascript-b61)
 - [Lifehacker] [These Are the Best Black Friday Deals for Gardeners](https://lifehacker.com/home/black-friday-gardening-deals)
-- [Dev.to/JS] [NextJs 14 with antd 5.11](https://dev.to/ahmadfarazcrypto/nextjs-14-with-antd-511-11h9)
-- [Dev.to/JS] [Verdaccio: to create npm packages locally](https://dev.to/nyruchi/verdaccio-to-create-npm-packages-locally-2e5k)
-- [Dev.to/JS] [Verdaccio: to create npm packages locally](https://dev.to/nyruchi/verdaccio-to-create-npm-packages-locally-2273)
 - [Lifehacker] [These Are the Google Docs Hacks Every Student Should Know](https://lifehacker.com/family/google-docs-hacks-for-students)
-- [Dev.to/JS] [Master React With These 10 Hooks 🔥](https://dev.to/chaoocharles/master-react-with-these-10-hooks-5mm)
-- [Dev.to/JS] [Benefits of Taking a Full-Stack Development Course](https://dev.to/redapplekolkata/benefits-of-taking-a-full-stack-development-course-4k8a)
 - [Lifehacker] [These Are the Best Educational Games for Nintendo Switch](https://lifehacker.com/entertainment/the-best-educational-games-for-nintendo-switch)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
 - [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Ways to Find Your Property Lines](https://lifehacker.com/home/find-property-lines)
 - [Lifehacker] [Make This Sweet Meyer Lemon Marmalade](https://lifehacker.com/food-drink/sweet-meyer-lemon-marmalade-recipe)
 - [Lifehacker] [You Can &lpar;and Should&rpar; Compost, Even If You Don&#39;t Garden](https://lifehacker.com/home/compost-use-beyond-gardens)
-- [Lifehacker] [You Should Take Your Next Test Backward](https://lifehacker.com/family/take-tests-backward-to-calm-nerves-and-focus)
-- [Lifehacker] [You Can Invest Sustainably and Still Make Money](https://lifehacker.com/money/what-is-sustainable-investing)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Take Your Next Test Backward](https://lifehacker.com/family/take-tests-backward-to-calm-nerves-and-focus)<!-- TECH-POSTS:END -->
 
 ---
 
