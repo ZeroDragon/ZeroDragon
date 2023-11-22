@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lokomotif: Use Case &lpar;5: Implementing Vite-React&rpar;](https://dev.to/amalja0/lokomotif-use-case-5-implementing-vite-react-3ec8)
+- [Dev.to/JS] [nhà mái bằng có sân thượng](https://dev.to/maunhadepvn111/nha-mai-bang-co-san-thuong-1gn3)
 - [Dev.to/JS] [Moment.js Is Now Legacy Project | Alternatives?](https://dev.to/basimghouri/momentjs-is-now-legacy-project-alternatives-12ke)
 - [Dev.to/JS] [nhà cấp 4 mái thái 4 phòng ngủ](https://dev.to/maunhadepvn111/nha-cap-4-mai-thai-4-phong-ngu-3376)
 - [Dev.to/JS] [UseState why?](https://dev.to/lawrencespractice/usestate-why-1ogk)
@@ -50,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exclusive - Beginners Work From Home](https://dev.to/jon9050/exclusive-beginners-work-from-home-ij9)
 - [Lifehacker] [Why You Should Check Your Tire Pressure Every Month This Winter](https://lifehacker.com/travel/check-tire-pressure-winter)
 - [Lifehacker] [What&#39;s New on Netflix in December 2023](https://lifehacker.com/entertainment/netflix-december-2023)
-- [Dev.to/JS] [Day 92: WebRTC](https://dev.to/dhrn/day-92-webrtc-276)
-- [Dev.to/JS] [Welcome to Sweet Pea 3D/4D ultrasound Nola](https://dev.to/sweetpea3d4d/welcome-to-sweet-pea-3d4d-ultrasound-nola-54c7)
 - [Lifehacker] [You Can Now Log Into WhatsApp With Your Email Address](https://lifehacker.com/tech/log-into-whatsapp-with-email-address)
 - [Lifehacker] [How to Hide &lpar;or Beautify&rpar; Your Home&#39;s Air Vents](https://lifehacker.com/home/hide-air-vents)
 - [Lifehacker] [A Green Bean Casserole Recipe for People Who Hate Green Bean Casserole](https://lifehacker.com/food-drink/from-scratch-green-bean-casserole-recipe)
