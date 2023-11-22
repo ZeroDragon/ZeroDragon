@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 9 of MDB UI Kits discounts &lpar;up to 97% OFF❗️&rpar;](https://dev.to/mdbootstrap/day-9-of-mdb-ui-kits-discounts-up-to-97-off-2pfp)
+- [Dev.to/JS] [How I created my own digital cursive writing notebook..](https://dev.to/himanimehra/how-i-created-my-own-digital-cursive-writing-notebook-1fg1)
+- [Dev.to/JS] [Building Beyond the Web: Crafting Chrome Extension &#39;Screenshot Pro&#39;](https://dev.to/himanimehra/building-beyond-the-web-crafting-chrome-extension-screenshot-pro-59dc)
+- [Dev.to/JS] [Learning the Hard Way: Job Rejections, Projects, and Paletto](https://dev.to/himanimehra/learning-the-hard-way-job-rejections-projects-and-paletto-34m6)
+- [Dev.to/JS] [How I did my first opensource contribution and so can you?](https://dev.to/himanimehra/open-source-contribution-gitlab-31hn)
+- [Dev.to/JS] [💻 Web Development Resources #175](https://dev.to/vincenius/web-development-resources-175-2i1a)
 - [Dev.to/JS] [The State of JS 2023 Survey is Now Open](https://dev.to/sachagreif/the-state-of-js-2023-survey-is-now-open-2hah)
 - [Dev.to/JS] [💡Ever wondered about the differences between Library, Framework &amp; Package?](https://dev.to/mithindev/ever-wondered-about-the-differences-between-library-framework-package-49o5)
 - [Dev.to/JS] [Getting Started with GraphQL - Nodejs](https://dev.to/tanishag/getting-started-with-graphql-nodejs-2g5f)
@@ -33,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Giày đẹp Replica](https://dev.to/giaydepinfovn99/giay-dep-replica-76d)
 - [Dev.to/JS] [nhà cấp 4 có sân thượng](https://dev.to/maunhadepvn111/nha-cap-4-co-san-thuong-1kl0)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
-- [Dev.to/JS] [Lokomotif: Use Case &lpar;5: Implementing Vite-React&rpar;](https://dev.to/amalja0/lokomotif-use-case-5-implementing-vite-react-3ec8)
-- [Dev.to/JS] [nhà mái bằng có sân thượng](https://dev.to/maunhadepvn111/nha-mai-bang-co-san-thuong-1gn3)
-- [Dev.to/JS] [Moment.js Is Now Legacy Project | Alternatives?](https://dev.to/basimghouri/momentjs-is-now-legacy-project-alternatives-12ke)
-- [Dev.to/JS] [nhà cấp 4 mái thái 4 phòng ngủ](https://dev.to/maunhadepvn111/nha-cap-4-mai-thai-4-phong-ngu-3376)
-- [Dev.to/JS] [UseState why?](https://dev.to/lawrencespractice/usestate-why-1ogk)
 - [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
-- [Dev.to/JS] [mặt tiền nhà gác lửng](https://dev.to/maunhadepvn111/mat-tien-nha-gac-lung-5cca)
 - [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in December 2023](https://lifehacker.com/entertainment/new-releases-paramount-plus-december-2023)
 - [Lifehacker] [Use This Sauerkraut Recipe for Your Thanksgiving Leftovers Sandwiches](https://lifehacker.com/food-drink/sauerkraut-recipe-for-better-thanksgiving-leftovers)
