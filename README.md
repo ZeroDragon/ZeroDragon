@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
+- [Dev.to/JS] [Higher Order Functions in JavaScript](https://dev.to/rashmijain18/higher-order-functions-in-javascript-453g)
+- [Lifehacker] [These Are Amazon’s Best Black Friday Deals on Board Games](https://lifehacker.com/entertainment/amazon-black-friday-deals-on-board-games)
 - [Dev.to/JS] [Download Best 800+ VST Plugins Collection for Music Production Extraplugins](https://dev.to/extraplugins/download-best-800-vst-plugins-collection-for-music-production-extraplugins-1b9n)
 - [Lifehacker] [Ten Clever Ways to Put Up Christmas Lights With Less Stress](https://lifehacker.com/home/christmas-light-decorating-hacks)
 - [Lifehacker] [How to Disagree About Politics Without Ruining Thanksgiving](https://lifehacker.com/family/how-to-talk-about-politics-without-ruining-thanksgiving)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #223: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-223-explica-este-codigo-javascript-4b3o)
 - [Dev.to/JS] [How to Create Countdowns for Each Logged-In User in WordPress](https://dev.to/lobov/how-to-create-countdowns-for-each-logged-in-user-in-wordpress-417d)
 - [Dev.to/JS] [Next.js Authentication with Clerk: Streamlined SSR Handling](https://dev.to/clerk/nextjs-authentication-with-clerk-streamlined-ssr-handling-170m)
-- [Dev.to/JS] [Portfolio Website Developed in React, Framer Motion and Tailwind CSS](https://dev.to/craftingbugs/portfolio-website-developed-in-react-framer-motion-and-tailwind-css-5f22)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
 - [Lifehacker] [What&#39;s New on Hulu in December 2023](https://lifehacker.com/entertainment/new-releases-hulu-december-2023)
 - [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Safe Deposit Box Isn’t the Impenetrable Vault You Think It Is](https://lifehacker.com/money/safe-deposit-box-drilling)
 - [Lifehacker] [This Is the Cheapest the Meta Quest 2 Has Ever Been](https://lifehacker.com/entertainment/meta-quest-2-black-friday-deal)
 - [Lifehacker] [How to Stop Google From Artificially Slowing Down YouTube](https://lifehacker.com/tech/stop-google-slowing-down-youtube-firefox-edge)
-- [Lifehacker] [These Are the Best Last-Minute Thanksgiving Potato Side Dishes](https://lifehacker.com/food-drink/best-thanksgiving-potato-side-dishes)
-- [Lifehacker] [All the Food Safety Questions You’ll Have on Thanksgiving Day, Answered](https://lifehacker.com/all-the-food-safety-questions-you-ll-have-on-thanksgivi-1744092050)
-- [Lifehacker] [These Portable SSDs Are up to 60% Off](https://lifehacker.com/tech/portable-ssd-sales)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Last-Minute Thanksgiving Potato Side Dishes](https://lifehacker.com/food-drink/best-thanksgiving-potato-side-dishes)<!-- TECH-POSTS:END -->
 
 ---
 
