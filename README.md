@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [wangEditor - Vue 3 Rich Text Editor &lpar;w/ Typescript&rpar;](https://dev.to/caio2k/wangeditor-vue-3-rich-text-editor-w-typescript-1kgc)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step: Lambda Destinations](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-lambda-destinations-f5b)
+- [Dev.to/JS] [Arrow Functions vs. Regular Functions in JavaScript: A Comprehensive Guide](https://dev.to/ichintansoni/arrow-functions-vs-regular-functions-in-javascript-a-comprehensive-guide-4dpi)
+- [Dev.to/JS] [Selenide-Appium – Mutated Java Appium Client [Testμ 2023]](https://dev.to/lambdatest/selenide-appium-mutated-java-appium-client-testm-2023-3e05)
+- [Lifehacker] [How to Protect Your Finances From Identity Theft](https://lifehacker.com/money/how-to-protect-your-finances-from-identity-theft)
+- [Dev.to/JS] [Mastering NullReferenceException in C# .NET Development](https://dev.to/iamcymentho/mastering-nullreferenceexception-in-c-net-development-1k2j)
+- [Lifehacker] [Turn Your Thanksgiving Turkey Carcass Into a Killer Soup Overnight](https://lifehacker.com/food-drink/best-turkey-soup-recipe)
+- [Dev.to/JS] [wangEditor - Vue 3 Rich Text Editor &lpar;w/ Typescript&rpar;](https://dev.to/cn-2k/wangeditor-vue-3-rich-text-editor-w-typescript-1kgc)
 - [Dev.to/JS] [Black Christmas Nails: Unleashing Elegance for the Festive Season](https://dev.to/nailsshapes/black-christmas-nails-unleashing-elegance-for-the-festive-season-4a7d)
-- [Dev.to/JS] [Meu portfólio do GitHub Pages](https://dev.to/memeco/meu-portfolio-do-github-pages-1lf3)
+- [Dev.to/JS] [Meu portfólio no GitHub Pages](https://dev.to/memeco/meu-portfolio-do-github-pages-1lf3)
 - [Dev.to/JS] [JavaScript Operators Reference](https://dev.to/umahichristopher/javascript-operators-reference-4fjn)
 - [Dev.to/JS] [Utility Type: KeyHasProperties](https://dev.to/teamradhq/utility-type-keyhasproperties-12k9)
 - [Dev.to/JS] [How To Create Sticky Note App in HTML CSS &amp; JavaScript | Mini Text Editor](https://dev.to/sharathchandark/how-to-create-sticky-note-app-in-html-css-javascript-mini-text-editor-111i)
 - [Dev.to/JS] [Elevate your Vue App: Vue-Concurrency 101](https://dev.to/fanatii/elevate-your-vue-app-vue-concurrency-101-5dfh)
 - [Dev.to/JS] [Express.js Security Best Practices](https://dev.to/tristankalos/expressjs-security-best-practices-1ja0)
-- [Dev.to/JS] [How to bring the Magic of Animation to Your Frontend](https://dev.to/opensourcee/breathing-life-into-web-designs-the-magic-of-animation-4kbo)
-- [Dev.to/JS] [How to test the built version of your react app?](https://dev.to/lebbe/how-to-test-the-built-version-of-your-react-app-3mjm)
-- [Dev.to/JS] [Exploring JavaScript String Methods: A Comprehensive Guide](https://dev.to/rishabh07r/exploring-javascript-string-methods-a-comprehensive-guide-143p)
-- [Dev.to/JS] [Exploring JavaScript String Methods: A Comprehensive Guide](https://dev.to/rishabh07r/exploring-javascript-string-methods-a-comprehensive-guide-6nh)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
 - [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
 - [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Black Friday Deals for Gardeners](https://lifehacker.com/home/black-friday-gardening-deals)
 - [Lifehacker] [These Are the Google Docs Hacks Every Student Should Know](https://lifehacker.com/family/google-docs-hacks-for-students)
 - [Lifehacker] [These Are the Best Educational Games for Nintendo Switch](https://lifehacker.com/entertainment/the-best-educational-games-for-nintendo-switch)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
-- [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
-- [Lifehacker] [The Google Pixel Watch Is 50% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/google-pixel-watch-amazon-black-friday-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)<!-- TECH-POSTS:END -->
 
 ---
 
