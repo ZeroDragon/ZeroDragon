@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [wangEditor - Vue 3 Rich Text Editor &lpar;w/ Typescript&rpar;](https://dev.to/caio2k/wangeditor-vue-3-rich-text-editor-w-typescript-1kgc)
+- [Dev.to/JS] [Black Christmas Nails: Unleashing Elegance for the Festive Season](https://dev.to/nailsshapes/black-christmas-nails-unleashing-elegance-for-the-festive-season-4a7d)
+- [Dev.to/JS] [Meu portfólio do GitHub Pages](https://dev.to/memeco/meu-portfolio-do-github-pages-1lf3)
 - [Dev.to/JS] [JavaScript Operators Reference](https://dev.to/umahichristopher/javascript-operators-reference-4fjn)
 - [Dev.to/JS] [Utility Type: KeyHasProperties](https://dev.to/teamradhq/utility-type-keyhasproperties-12k9)
 - [Dev.to/JS] [How To Create Sticky Note App in HTML CSS &amp; JavaScript | Mini Text Editor](https://dev.to/sharathchandark/how-to-create-sticky-note-app-in-html-css-javascript-mini-text-editor-111i)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to test the built version of your react app?](https://dev.to/lebbe/how-to-test-the-built-version-of-your-react-app-3mjm)
 - [Dev.to/JS] [Exploring JavaScript String Methods: A Comprehensive Guide](https://dev.to/rishabh07r/exploring-javascript-string-methods-a-comprehensive-guide-143p)
 - [Dev.to/JS] [Exploring JavaScript String Methods: A Comprehensive Guide](https://dev.to/rishabh07r/exploring-javascript-string-methods-a-comprehensive-guide-6nh)
-- [Dev.to/JS] [Demystifying Hoisting in JavaScript😵](https://dev.to/kushagra_aa/demystifying-hoisting-in-javascript-24og)
-- [Dev.to/JS] [Awesome Vue courses &amp; certifications](https://dev.to/jacobandrewsky/awesome-vue-courses-certifications-29gd)
-- [Dev.to/JS] [Mahindra Tractors: The Choice Of Every Modern Farmer](https://dev.to/abhisharma80/mahindra-tractors-the-choice-of-every-modern-farmer-ncj)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
 - [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
 - [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)
