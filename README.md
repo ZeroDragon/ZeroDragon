@@ -26,20 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Isn&#39;t React Re-rendering When State is Updated with the Same Value?](https://dev.to/danielchibuogwu/why-isnt-react-re-rendering-when-state-is-updated-with-the-same-value-1cb8)
+- [Dev.to/JS] [Paracetamol.js💊| #223: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-223-explica-este-codigo-javascript-4b3o)
+- [Dev.to/JS] [How to Create Countdowns for Each Logged-In User in WordPress](https://dev.to/lobov/how-to-create-countdowns-for-each-logged-in-user-in-wordpress-417d)
+- [Dev.to/JS] [Next.js Authentication with Clerk: Streamlined SSR Handling](https://dev.to/clerk/nextjs-authentication-with-clerk-streamlined-ssr-handling-170m)
+- [Dev.to/JS] [Portfolio Website Developed in React, Framer Motion and Tailwind CSS](https://dev.to/craftingbugs/portfolio-website-developed-in-react-framer-motion-and-tailwind-css-5f22)
+- [Dev.to/JS] [JavaScript Execution Context &amp; Hoisting](https://dev.to/badr21/javascript-execution-context-hoisting-2e4h)
+- [Dev.to/JS] [how i can resolve this problem?](https://dev.to/raushan0396/how-i-can-resolve-this-problem-1m4f)
+- [Dev.to/JS] [Building SAAS Products AS A Web Developer](https://dev.to/devgancode/building-saas-products-as-a-web-developer-26g6)
+- [Dev.to/JS] [A Newcomer&#39;s Toolkit to React](https://dev.to/opensourcee/a-newcomers-toolkit-to-react-26bk)
+- [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/entertainment/black-friday-streaming-devices)
+- [Lifehacker] [What&#39;s New on Hulu in December 2023](https://lifehacker.com/entertainment/new-releases-hulu-december-2023)
 - [Dev.to/JS] [Bun adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/bun-adoption-guide-overview-examples-and-alternatives-309f)
 - [Dev.to/JS] [I created an android app with Vue.js](https://dev.to/lucapu88/i-created-an-android-app-with-vuejs-1186)
 - [Dev.to/JS] [For Hire: The Benefits of Hiring iBolt Cyber Hacker for Crypto/BTC Recovery](https://dev.to/carolbrock/for-hire-the-benefits-of-hiring-ibolt-cyber-hacker-for-cryptobtc-recovery-61h)
-- [Dev.to/JS] [Mastering Map data structure in JavaScript](https://dev.to/fabienschlegel/mastering-map-data-structure-in-javascript-5966)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step: Lambda Destinations](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-lambda-destinations-f5b)
-- [Dev.to/JS] [Arrow Functions vs. Regular Functions in JavaScript: A Comprehensive Guide](https://dev.to/ichintansoni/arrow-functions-vs-regular-functions-in-javascript-a-comprehensive-guide-4dpi)
-- [Dev.to/JS] [Selenide-Appium – Mutated Java Appium Client [Testμ 2023]](https://dev.to/lambdatest/selenide-appium-mutated-java-appium-client-testm-2023-3e05)
+- [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
+- [Lifehacker] [The Newest Nest Hub Is 50% Off for Black Friday](https://lifehacker.com/tech/google-nest-hub-black-friday-deal)
 - [Lifehacker] [How to Protect Your Finances From Identity Theft](https://lifehacker.com/money/how-to-protect-your-finances-from-identity-theft)
-- [Dev.to/JS] [Mastering NullReferenceException in C# .NET Development](https://dev.to/iamcymentho/mastering-nullreferenceexception-in-c-net-development-1k2j)
 - [Lifehacker] [Turn Your Thanksgiving Turkey Carcass Into a Killer Soup Overnight](https://lifehacker.com/food-drink/best-turkey-soup-recipe)
-- [Dev.to/JS] [wangEditor - Vue 3 Rich Text Editor &lpar;w/ Typescript&rpar;](https://dev.to/cn-2k/wangeditor-vue-3-rich-text-editor-w-typescript-1kgc)
-- [Dev.to/JS] [Black Christmas Nails: Unleashing Elegance for the Festive Season](https://dev.to/nailsshapes/black-christmas-nails-unleashing-elegance-for-the-festive-season-4a7d)
-- [Dev.to/JS] [Meu portfólio no GitHub Pages &lpar;in Portuguese&rpar;](https://dev.to/memeco/meu-portfolio-do-github-pages-1lf3)
-- [Dev.to/JS] [JavaScript Operators Reference](https://dev.to/umahichristopher/javascript-operators-reference-4fjn)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
 - [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
 - [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)
@@ -52,7 +56,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Cheapest the Meta Quest 2 Has Ever Been](https://lifehacker.com/entertainment/meta-quest-2-black-friday-deal)
 - [Lifehacker] [How to Stop Google From Artificially Slowing Down YouTube](https://lifehacker.com/tech/stop-google-slowing-down-youtube-firefox-edge)
 - [Lifehacker] [These Are the Best Last-Minute Thanksgiving Potato Side Dishes](https://lifehacker.com/food-drink/best-thanksgiving-potato-side-dishes)
-- [Lifehacker] [All The Food Safety Questions You’ll Have On Thanksgiving Day, Answered](https://lifehacker.com/all-the-food-safety-questions-you-ll-have-on-thanksgivi-1744092050)
+- [Lifehacker] [All the Food Safety Questions You’ll Have on Thanksgiving Day, Answered](https://lifehacker.com/all-the-food-safety-questions-you-ll-have-on-thanksgivi-1744092050)
 - [Lifehacker] [These Portable SSDs Are up to 60% Off](https://lifehacker.com/tech/portable-ssd-sales)
 - [Lifehacker] [Why You Should Check Your Tire Pressure Every Month This Winter](https://lifehacker.com/travel/check-tire-pressure-winter)
 - [Lifehacker] [What&#39;s New on Netflix in December 2023](https://lifehacker.com/entertainment/netflix-december-2023)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Green Bean Casserole Recipe for People Who Hate Green Bean Casserole](https://lifehacker.com/food-drink/from-scratch-green-bean-casserole-recipe)
 - [Lifehacker] [How to Prevent the Most Common House Fires This Christmas Season](https://lifehacker.com/home/prevent-christmas-fires)
 - [Lifehacker] [Five of the Best Indoor Winter Flowering Plants &lpar;That Aren’t Poinsettias&rpar;](https://lifehacker.com/home/best-indoor-winter-flowering-plants)
-- [Lifehacker] [Add These Garnishes to Upgrade Your Thanksgiving Dishes](https://lifehacker.com/food-drink/thanksgiving-garnishes)
-- [Lifehacker] [These Are the Best Black Friday Deals for Gardeners](https://lifehacker.com/home/black-friday-gardening-deals)
-- [Lifehacker] [These Are the Google Docs Hacks Every Student Should Know](https://lifehacker.com/family/google-docs-hacks-for-students)
-- [Lifehacker] [These Are the Best Educational Games for Nintendo Switch](https://lifehacker.com/entertainment/the-best-educational-games-for-nintendo-switch)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Add These Garnishes to Upgrade Your Thanksgiving Dishes](https://lifehacker.com/food-drink/thanksgiving-garnishes)<!-- TECH-POSTS:END -->
 
 ---
 
