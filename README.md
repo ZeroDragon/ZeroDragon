@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use This Sauerkraut Recipe for Your Thanksgiving Leftovers Sandwiches](https://lifehacker.com/food-drink/sauerkraut-recipe-for-better-thanksgiving-leftovers)
+- [Lifehacker] [Samsung Has a Great Deal on the Galaxy Tab S8 Ultra Right Now](https://lifehacker.com/tech/samsung-galaxy-tab-s8-ultra-black-friday-sale)
 - [Dev.to/JS] [Host your own Google Maps: A step-by-step guide to hosting and serving navigation, location, and mapping services](https://dev.to/lnahrf/host-your-own-google-maps-a-step-by-step-guide-to-hosting-and-serving-navigation-location-and-mapping-services-56nd)
+- [Lifehacker] [Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/home/how-to-remove-common-thanksgiving-stains)
 - [Dev.to/JS] [Coding? Languages? Which to Pick?](https://dev.to/thenebuladeveloper/coding-languages-which-to-pick-2ibh)
 - [Lifehacker] [The Seven Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/food-drink/worst-thanksgiving-host-mistakes)
 - [Lifehacker] [Your Safe Deposit Box Isn’t the Impenetrable Vault You Think It Is](https://lifehacker.com/money/safe-deposit-box-drilling)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Stick Cordless Vacuums Are up to 72% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/home/stick-cordless-vacuums-black-friday-sale-amazon)
 - [Lifehacker] [Amazon Is Offering AI Classes for Free](https://lifehacker.com/tech/amazon-offering-ai-classes-for-free)
 - [Lifehacker] [Make a Pull-apart Loaf With Canned Biscuit Dough](https://lifehacker.com/food-drink/pillsbury-pull-apart-loaf-with-canned-biscuit-dough)
-- [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
-- [Lifehacker] [All the Things You Didn’t Realize You Could Get From Unclaimed Luggage](https://lifehacker.com/money/everything-you-didnt-know-you-can-buy-from-unclained-luggage)
-- [Lifehacker] [Improve Your Conversations By Focusing on Curiosity, Not Performance](https://lifehacker.com/health/make-better-small-talk)
-- [Lifehacker] [One of the Best Curved Gaming Monitors Is $500 Off Right Now](https://lifehacker.com/tech/samsung-g8-curved-gaming-monitor-sale-black-friday)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)<!-- TECH-POSTS:END -->
 
 ---
 
