@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Moment.js Is Now Legacy Project | Alternatives?](https://dev.to/basimghouri/momentjs-is-now-legacy-project-alternatives-12ke)
+- [Dev.to/JS] [nhà cấp 4 mái thái 4 phòng ngủ](https://dev.to/maunhadepvn111/nha-cap-4-mai-thai-4-phong-ngu-3376)
+- [Dev.to/JS] [UseState why?](https://dev.to/lawrencespractice/usestate-why-1ogk)
+- [Dev.to/JS] [mặt tiền nhà gác lửng](https://dev.to/maunhadepvn111/mat-tien-nha-gac-lung-5cca)
+- [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in December 2023](https://lifehacker.com/entertainment/new-releases-paramount-plus-december-2023)
 - [Lifehacker] [Use This Sauerkraut Recipe for Your Thanksgiving Leftovers Sandwiches](https://lifehacker.com/food-drink/sauerkraut-recipe-for-better-thanksgiving-leftovers)
 - [Lifehacker] [Samsung Has a Great Deal on the Galaxy Tab S8 Ultra Right Now](https://lifehacker.com/tech/samsung-galaxy-tab-s8-ultra-black-friday-sale)
 - [Dev.to/JS] [Host your own Google Maps: A step-by-step guide to hosting and serving navigation, location, and mapping services](https://dev.to/lnahrf/host-your-own-google-maps-a-step-by-step-guide-to-hosting-and-serving-navigation-location-and-mapping-services-56nd)
@@ -47,11 +53,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 92: WebRTC](https://dev.to/dhrn/day-92-webrtc-276)
 - [Dev.to/JS] [Welcome to Sweet Pea 3D/4D ultrasound Nola](https://dev.to/sweetpea3d4d/welcome-to-sweet-pea-3d4d-ultrasound-nola-54c7)
 - [Lifehacker] [You Can Now Log Into WhatsApp With Your Email Address](https://lifehacker.com/tech/log-into-whatsapp-with-email-address)
-- [Dev.to/JS] [Enhancing User Experience with Bootstrap and Froala WYSIWYG Editor](https://dev.to/ideradevtools/enhancing-user-experience-with-bootstrap-and-froala-wysiwyg-editor-2k2o)
-- [Dev.to/JS] [How scroll to specific element with Vue.js 3](https://dev.to/caio2k/how-scroll-to-specific-element-with-vuejs-3-lb3)
-- [Dev.to/JS] [Organize the mess of your photo folders with Node](https://dev.to/alagrede/organize-the-mess-of-your-photo-folders-with-node-2l19)
 - [Lifehacker] [How to Hide &lpar;or Beautify&rpar; Your Home&#39;s Air Vents](https://lifehacker.com/home/hide-air-vents)
-- [Dev.to/JS] [Securing Your React App: Best Practices and Libraries](https://dev.to/abhaysinghr1/securing-your-react-app-best-practices-and-libraries-41ca)
 - [Lifehacker] [A Green Bean Casserole Recipe for People Who Hate Green Bean Casserole](https://lifehacker.com/food-drink/from-scratch-green-bean-casserole-recipe)
 - [Lifehacker] [How to Prevent the Most Common House Fires This Christmas Season](https://lifehacker.com/home/prevent-christmas-fires)
 - [Lifehacker] [Five of the Best Indoor Winter Flowering Plants &lpar;That Aren’t Poinsettias&rpar;](https://lifehacker.com/home/best-indoor-winter-flowering-plants)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
 - [Lifehacker] [The Google Pixel Watch Is 50% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/google-pixel-watch-amazon-black-friday-sale)
 - [Lifehacker] [These Stick Cordless Vacuums Are up to 72% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/home/stick-cordless-vacuums-black-friday-sale-amazon)
-- [Lifehacker] [Amazon Is Offering AI Classes for Free](https://lifehacker.com/tech/amazon-offering-ai-classes-for-free)
-- [Lifehacker] [Make a Pull-apart Loaf With Canned Biscuit Dough](https://lifehacker.com/food-drink/pillsbury-pull-apart-loaf-with-canned-biscuit-dough)
-- [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Amazon Is Offering AI Classes for Free](https://lifehacker.com/tech/amazon-offering-ai-classes-for-free)<!-- TECH-POSTS:END -->
 
 ---
 
