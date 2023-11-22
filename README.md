@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Check if an Item is in an Array in JavaScript – JS Contains with Array.includes&lpar;&rpar;](https://dev.to/saminwankwo/check-if-an-item-is-in-an-array-in-javascript-js-contains-with-arrayincludes-5014)
+- [Dev.to/JS] [How to use method as Props in React???](https://dev.to/deepachaurasia1/how-to-use-method-as-props-in-react-lnm)
+- [Dev.to/JS] [Crafting your own AI chat app using Hilla and Spring AI](https://dev.to/maheshbabu11/crafting-your-own-ai-chat-app-using-hilla-and-spring-ai-4b3)
+- [Dev.to/JS] [How to Test Apps on iPhones: A Beginner’s Guide](https://dev.to/salmankhan2389/how-to-test-apps-on-iphones-a-beginners-guide-30l7)
+- [Dev.to/JS] [Boost Your Visibility: Instagram Video Views That Matter](https://dev.to/advertisingservices/boost-your-visibility-instagram-video-views-that-matter-kh6)
 - [Dev.to/JS] [Day 9 of MDB UI Kits discounts &lpar;up to 97% OFF❗️&rpar;](https://dev.to/mdbootstrap/day-9-of-mdb-ui-kits-discounts-up-to-97-off-2pfp)
 - [Dev.to/JS] [How I created my own digital cursive writing notebook..](https://dev.to/himanimehra/how-i-created-my-own-digital-cursive-writing-notebook-1fg1)
 - [Dev.to/JS] [Building Beyond the Web: Crafting Chrome Extension &#39;Screenshot Pro&#39;](https://dev.to/himanimehra/building-beyond-the-web-crafting-chrome-extension-screenshot-pro-59dc)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I did my first opensource contribution and so can you?](https://dev.to/himanimehra/open-source-contribution-gitlab-31hn)
 - [Dev.to/JS] [💻 Web Development Resources #175](https://dev.to/vincenius/web-development-resources-175-2i1a)
 - [Dev.to/JS] [The State of JS 2023 Survey is Now Open](https://dev.to/sachagreif/the-state-of-js-2023-survey-is-now-open-2hah)
-- [Dev.to/JS] [💡Ever wondered about the differences between Library, Framework &amp; Package?](https://dev.to/mithindev/ever-wondered-about-the-differences-between-library-framework-package-49o5)
-- [Dev.to/JS] [Getting Started with GraphQL - Nodejs](https://dev.to/tanishag/getting-started-with-graphql-nodejs-2g5f)
-- [Dev.to/JS] [Transform response of alovajs, a request strategy library](https://dev.to/coderhu/transform-response-of-alovajs-a-request-strategy-library-2fp6)
-- [Dev.to/JS] [Giày đẹp Replica](https://dev.to/giaydepinfovn99/giay-dep-replica-76d)
-- [Dev.to/JS] [nhà cấp 4 có sân thượng](https://dev.to/maunhadepvn111/nha-cap-4-co-san-thuong-1kl0)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
 - [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
 - [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)
