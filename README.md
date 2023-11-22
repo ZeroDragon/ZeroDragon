@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Download Best 800+ VST Plugins Collection for Music Production Extraplugins](https://dev.to/extraplugins/download-best-800-vst-plugins-collection-for-music-production-extraplugins-1b9n)
+- [Lifehacker] [Ten Clever Ways to Put Up Christmas Lights With Less Stress](https://lifehacker.com/home/christmas-light-decorating-hacks)
+- [Lifehacker] [How to Disagree About Politics Without Ruining Thanksgiving](https://lifehacker.com/family/how-to-talk-about-politics-without-ruining-thanksgiving)
 - [Dev.to/JS] [HTMX - Exploring The Capabilities](https://dev.to/refine/htmx-exploring-the-capabilities-3gma)
 - [Dev.to/JS] [The Logic Behind filter&lpar;&rpar;](https://dev.to/crossthebluesky/the-logic-behind-filter-42ce)
 - [Lifehacker] [The 26 Best Historical Epics Streaming Right Now](https://lifehacker.com/entertainment/best-historical-epics-streaming)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create Countdowns for Each Logged-In User in WordPress](https://dev.to/lobov/how-to-create-countdowns-for-each-logged-in-user-in-wordpress-417d)
 - [Dev.to/JS] [Next.js Authentication with Clerk: Streamlined SSR Handling](https://dev.to/clerk/nextjs-authentication-with-clerk-streamlined-ssr-handling-170m)
 - [Dev.to/JS] [Portfolio Website Developed in React, Framer Motion and Tailwind CSS](https://dev.to/craftingbugs/portfolio-website-developed-in-react-framer-motion-and-tailwind-css-5f22)
-- [Dev.to/JS] [JavaScript Execution Context &amp; Hoisting](https://dev.to/badr21/javascript-execution-context-hoisting-2e4h)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
 - [Lifehacker] [What&#39;s New on Hulu in December 2023](https://lifehacker.com/entertainment/new-releases-hulu-december-2023)
 - [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Google From Artificially Slowing Down YouTube](https://lifehacker.com/tech/stop-google-slowing-down-youtube-firefox-edge)
 - [Lifehacker] [These Are the Best Last-Minute Thanksgiving Potato Side Dishes](https://lifehacker.com/food-drink/best-thanksgiving-potato-side-dishes)
 - [Lifehacker] [All the Food Safety Questions You’ll Have on Thanksgiving Day, Answered](https://lifehacker.com/all-the-food-safety-questions-you-ll-have-on-thanksgivi-1744092050)
-- [Lifehacker] [These Portable SSDs Are up to 60% Off](https://lifehacker.com/tech/portable-ssd-sales)
-- [Lifehacker] [Why You Should Check Your Tire Pressure Every Month This Winter](https://lifehacker.com/travel/check-tire-pressure-winter)
-- [Lifehacker] [What&#39;s New on Netflix in December 2023](https://lifehacker.com/entertainment/netflix-december-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Portable SSDs Are up to 60% Off](https://lifehacker.com/tech/portable-ssd-sales)<!-- TECH-POSTS:END -->
 
 ---
 
