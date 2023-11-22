@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Benefits of Opting for Our Current Packages](https://dev.to/modapk/the-benefits-of-opting-for-our-current-packages-m4d)
+- [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
+- [Lifehacker] [The Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
 - [Dev.to/JS] [Building Discord Apps with Gadget: A Step-by-Step guide to launch in 5 minutes](https://dev.to/gadgetdev/building-discord-apps-with-gadget-a-step-by-step-guide-to-launch-in-5-minutes-1b0l)
+- [Lifehacker] [The Best Black Friday Deals on Treadmills and Walking Pads](https://lifehacker.com/health/black-friday-deals-treadmills-and-walking-pads)
 - [Dev.to/JS] [How to Perform Form Validation in React](https://dev.to/obere4u/how-to-perform-form-validation-in-react-3kgi)
 - [Dev.to/JS] [Exploring Web Rendering: Server Components Architecture](https://dev.to/mangs/exploring-web-rendering-server-components-architecture-5681)
+- [Lifehacker] [The Quickest Way to Soften Butter Without a Microwave](https://lifehacker.com/food-drink/soften-butter-quickly-without-microwave)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Dev.to/JS] [Higher Order Functions in JavaScript](https://dev.to/rashmijain18/higher-order-functions-in-javascript-453g)
 - [Lifehacker] [These Are Amazon’s Best Black Friday Deals on Board Games](https://lifehacker.com/entertainment/amazon-black-friday-deals-on-board-games)
@@ -47,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Correct exception names in Javascript](https://dev.to/misobelica/correct-exception-names-in-javascript-1md7)
 - [Lifehacker] [Use This New Google Maps Feature to Make Plans With Your Friends](https://lifehacker.com/tech/use-google-maps-lists-to-make-plans-with-friends)
 - [Lifehacker] [What&#39;s New on Disney+ in December 2023](https://lifehacker.com/entertainment/disney-plus-december-2023)
-- [Dev.to/JS] [Why Isn&#39;t React Re-rendering When State is Updated with the Same Value?](https://dev.to/danielchibuogwu/why-isnt-react-re-rendering-when-state-is-updated-with-the-same-value-1cb8)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
 - [Lifehacker] [What&#39;s New on Hulu in December 2023](https://lifehacker.com/entertainment/new-releases-hulu-december-2023)
 - [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Sauerkraut Recipe for Your Thanksgiving Leftovers Sandwiches](https://lifehacker.com/food-drink/sauerkraut-recipe-for-better-thanksgiving-leftovers)
 - [Lifehacker] [Samsung Has a Great Deal on the Galaxy Tab S8 Ultra Right Now](https://lifehacker.com/tech/samsung-galaxy-tab-s8-ultra-black-friday-sale)
 - [Lifehacker] [Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/home/how-to-remove-common-thanksgiving-stains)
-- [Lifehacker] [The Seven Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/food-drink/worst-thanksgiving-host-mistakes)
-- [Lifehacker] [Your Safe Deposit Box Isn’t the Impenetrable Vault You Think It Is](https://lifehacker.com/money/safe-deposit-box-drilling)
-- [Lifehacker] [This Is the Cheapest the Meta Quest 2 Has Ever Been](https://lifehacker.com/entertainment/meta-quest-2-black-friday-deal)
-- [Lifehacker] [How to Stop Google From Artificially Slowing Down YouTube](https://lifehacker.com/tech/stop-google-slowing-down-youtube-firefox-edge)
-- [Lifehacker] [These Are the Best Last-Minute Thanksgiving Potato Side Dishes](https://lifehacker.com/food-drink/best-thanksgiving-potato-side-dishes)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Seven Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/food-drink/worst-thanksgiving-host-mistakes)<!-- TECH-POSTS:END -->
 
 ---
 
