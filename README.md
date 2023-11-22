@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Correct exception names in Javascript](https://dev.to/misobelica/correct-exception-names-in-javascript-1md7)
+- [Lifehacker] [Use This New Google Maps Feature to Make Plans With Your Friends](https://lifehacker.com/tech/use-google-maps-lists-to-make-plans-with-friends)
+- [Lifehacker] [What&#39;s New on Disney+ in December 2023](https://lifehacker.com/entertainment/disney-plus-december-2023)
 - [Dev.to/JS] [Why Isn&#39;t React Re-rendering When State is Updated with the Same Value?](https://dev.to/danielchibuogwu/why-isnt-react-re-rendering-when-state-is-updated-with-the-same-value-1cb8)
 - [Dev.to/JS] [Paracetamol.js💊| #223: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-223-explica-este-codigo-javascript-4b3o)
 - [Dev.to/JS] [How to Create Countdowns for Each Logged-In User in WordPress](https://dev.to/lobov/how-to-create-countdowns-for-each-logged-in-user-in-wordpress-417d)
@@ -35,11 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how i can resolve this problem?](https://dev.to/raushan0396/how-i-can-resolve-this-problem-1m4f)
 - [Dev.to/JS] [Building SAAS Products AS A Web Developer](https://dev.to/devgancode/building-saas-products-as-a-web-developer-26g6)
 - [Dev.to/JS] [A Newcomer&#39;s Toolkit to React](https://dev.to/opensourcee/a-newcomers-toolkit-to-react-26bk)
-- [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/entertainment/black-friday-streaming-devices)
+- [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
 - [Lifehacker] [What&#39;s New on Hulu in December 2023](https://lifehacker.com/entertainment/new-releases-hulu-december-2023)
 - [Dev.to/JS] [Bun adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/bun-adoption-guide-overview-examples-and-alternatives-309f)
 - [Dev.to/JS] [I created an android app with Vue.js](https://dev.to/lucapu88/i-created-an-android-app-with-vuejs-1186)
-- [Dev.to/JS] [For Hire: The Benefits of Hiring iBolt Cyber Hacker for Crypto/BTC Recovery](https://dev.to/carolbrock/for-hire-the-benefits-of-hiring-ibolt-cyber-hacker-for-cryptobtc-recovery-61h)
 - [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
 - [Lifehacker] [The Newest Nest Hub Is 50% Off for Black Friday](https://lifehacker.com/tech/google-nest-hub-black-friday-deal)
 - [Lifehacker] [How to Protect Your Finances From Identity Theft](https://lifehacker.com/money/how-to-protect-your-finances-from-identity-theft)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Log Into WhatsApp With Your Email Address](https://lifehacker.com/tech/log-into-whatsapp-with-email-address)
 - [Lifehacker] [How to Hide &lpar;or Beautify&rpar; Your Home&#39;s Air Vents](https://lifehacker.com/home/hide-air-vents)
 - [Lifehacker] [A Green Bean Casserole Recipe for People Who Hate Green Bean Casserole](https://lifehacker.com/food-drink/from-scratch-green-bean-casserole-recipe)
-- [Lifehacker] [How to Prevent the Most Common House Fires This Christmas Season](https://lifehacker.com/home/prevent-christmas-fires)
-- [Lifehacker] [Five of the Best Indoor Winter Flowering Plants &lpar;That Aren’t Poinsettias&rpar;](https://lifehacker.com/home/best-indoor-winter-flowering-plants)
-- [Lifehacker] [Add These Garnishes to Upgrade Your Thanksgiving Dishes](https://lifehacker.com/food-drink/thanksgiving-garnishes)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prevent the Most Common House Fires This Christmas Season](https://lifehacker.com/home/prevent-christmas-fires)<!-- TECH-POSTS:END -->
 
 ---
 
