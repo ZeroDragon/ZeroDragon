@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The State of JS 2023 Survey is Now Open](https://dev.to/sachagreif/the-state-of-js-2023-survey-is-now-open-2hah)
+- [Dev.to/JS] [💡Ever wondered about the differences between Library, Framework &amp; Package?](https://dev.to/mithindev/ever-wondered-about-the-differences-between-library-framework-package-49o5)
+- [Dev.to/JS] [Getting Started with GraphQL - Nodejs](https://dev.to/tanishag/getting-started-with-graphql-nodejs-2g5f)
 - [Dev.to/JS] [Transform response of alovajs, a request strategy library](https://dev.to/coderhu/transform-response-of-alovajs-a-request-strategy-library-2fp6)
 - [Dev.to/JS] [Giày đẹp Replica](https://dev.to/giaydepinfovn99/giay-dep-replica-76d)
 - [Dev.to/JS] [nhà cấp 4 có sân thượng](https://dev.to/maunhadepvn111/nha-cap-4-co-san-thuong-1kl0)
@@ -41,14 +44,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in December 2023](https://lifehacker.com/entertainment/new-releases-paramount-plus-december-2023)
 - [Lifehacker] [Use This Sauerkraut Recipe for Your Thanksgiving Leftovers Sandwiches](https://lifehacker.com/food-drink/sauerkraut-recipe-for-better-thanksgiving-leftovers)
 - [Lifehacker] [Samsung Has a Great Deal on the Galaxy Tab S8 Ultra Right Now](https://lifehacker.com/tech/samsung-galaxy-tab-s8-ultra-black-friday-sale)
-- [Dev.to/JS] [Host your own Google Maps: A step-by-step guide to hosting and serving navigation, location, and mapping services](https://dev.to/lnahrf/host-your-own-google-maps-a-step-by-step-guide-to-hosting-and-serving-navigation-location-and-mapping-services-56nd)
 - [Lifehacker] [Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/home/how-to-remove-common-thanksgiving-stains)
-- [Dev.to/JS] [Coding? Languages? Which to Pick?](https://dev.to/thenebuladeveloper/coding-languages-which-to-pick-2ibh)
 - [Lifehacker] [The Seven Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/food-drink/worst-thanksgiving-host-mistakes)
 - [Lifehacker] [Your Safe Deposit Box Isn’t the Impenetrable Vault You Think It Is](https://lifehacker.com/money/safe-deposit-box-drilling)
 - [Lifehacker] [This Is the Cheapest the Meta Quest 2 Has Ever Been](https://lifehacker.com/entertainment/meta-quest-2-black-friday-deal)
 - [Lifehacker] [How to Stop Google From Artificially Slowing Down YouTube](https://lifehacker.com/tech/stop-google-slowing-down-youtube-firefox-edge)
-- [Dev.to/JS] [Making shadow-cljs REPL&#39;s More Interactive](https://dev.to/bop/making-shadow-cljs-repls-more-interactive-4lhe)
 - [Lifehacker] [These Are the Best Last-Minute Thanksgiving Potato Side Dishes](https://lifehacker.com/food-drink/best-thanksgiving-potato-side-dishes)
 - [Lifehacker] [All The Food Safety Questions You’ll Have On Thanksgiving Day, Answered](https://lifehacker.com/all-the-food-safety-questions-you-ll-have-on-thanksgivi-1744092050)
 - [Lifehacker] [These Portable SSDs Are up to 60% Off](https://lifehacker.com/tech/portable-ssd-sales)
