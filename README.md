@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Breathing Life into Web Designs: The Magic of Animation](https://dev.to/opensourcee/breathing-life-into-web-designs-the-magic-of-animation-4kbo)
+- [Dev.to/JS] [How to test the built version of your react app?](https://dev.to/lebbe/how-to-test-the-built-version-of-your-react-app-3mjm)
 - [Dev.to/JS] [Exploring JavaScript String Methods: A Comprehensive Guide](https://dev.to/rishabh07r/exploring-javascript-string-methods-a-comprehensive-guide-143p)
 - [Dev.to/JS] [Exploring JavaScript String Methods: A Comprehensive Guide](https://dev.to/rishabh07r/exploring-javascript-string-methods-a-comprehensive-guide-6nh)
 - [Dev.to/JS] [Demystifying Hoisting in JavaScript😵](https://dev.to/kushagra_aa/demystifying-hoisting-in-javascript-24og)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How child component communicate with parent in React???](https://dev.to/deepachaurasia1/how-to-use-method-as-props-in-react-lnm)
 - [Dev.to/JS] [Crafting your own AI chat app using Hilla and Spring AI](https://dev.to/maheshbabu11/crafting-your-own-ai-chat-app-using-hilla-and-spring-ai-4b3)
 - [Dev.to/JS] [How to Test Apps on iPhones: A Beginner’s Guide](https://dev.to/salmankhan2389/how-to-test-apps-on-iphones-a-beginners-guide-30l7)
-- [Dev.to/JS] [Boost Your Visibility: Instagram Video Views That Matter](https://dev.to/advertisingservices/boost-your-visibility-instagram-video-views-that-matter-kh6)
-- [Dev.to/JS] [Day 9 of MDB UI Kits discounts &lpar;up to 97% OFF❗️&rpar;](https://dev.to/mdbootstrap/day-9-of-mdb-ui-kits-discounts-up-to-97-off-2pfp)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
 - [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
 - [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)
