@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Discord Apps with Gadget: A Step-by-Step guide to launch in 5 minutes](https://dev.to/gadgetdev/building-discord-apps-with-gadget-a-step-by-step-guide-to-launch-in-5-minutes-1b0l)
+- [Dev.to/JS] [How to Perform Form Validation in React](https://dev.to/obere4u/how-to-perform-form-validation-in-react-3kgi)
+- [Dev.to/JS] [Exploring Web Rendering: Server Components Architecture](https://dev.to/mangs/exploring-web-rendering-server-components-architecture-5681)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Dev.to/JS] [Higher Order Functions in JavaScript](https://dev.to/rashmijain18/higher-order-functions-in-javascript-453g)
 - [Lifehacker] [These Are Amazon’s Best Black Friday Deals on Board Games](https://lifehacker.com/entertainment/amazon-black-friday-deals-on-board-games)
@@ -45,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This New Google Maps Feature to Make Plans With Your Friends](https://lifehacker.com/tech/use-google-maps-lists-to-make-plans-with-friends)
 - [Lifehacker] [What&#39;s New on Disney+ in December 2023](https://lifehacker.com/entertainment/disney-plus-december-2023)
 - [Dev.to/JS] [Why Isn&#39;t React Re-rendering When State is Updated with the Same Value?](https://dev.to/danielchibuogwu/why-isnt-react-re-rendering-when-state-is-updated-with-the-same-value-1cb8)
-- [Dev.to/JS] [Paracetamol.js💊| #223: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-223-explica-este-codigo-javascript-4b3o)
-- [Dev.to/JS] [How to Create Countdowns for Each Logged-In User in WordPress](https://dev.to/lobov/how-to-create-countdowns-for-each-logged-in-user-in-wordpress-417d)
-- [Dev.to/JS] [Next.js Authentication with Clerk: Streamlined SSR Handling](https://dev.to/clerk/nextjs-authentication-with-clerk-streamlined-ssr-handling-170m)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
 - [Lifehacker] [What&#39;s New on Hulu in December 2023](https://lifehacker.com/entertainment/new-releases-hulu-december-2023)
 - [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
