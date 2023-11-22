@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;ve officially started my journey into the fascinating world of frontend development! 🌐✨](https://dev.to/gongcode/ive-officially-started-my-journey-into-the-fascinating-world-of-frontend-development-2gkc)
+- [Dev.to/JS] [Building my first browser extension: should I use a framework?](https://dev.to/justinem/building-my-first-browser-extension-should-i-use-a-framework-43e6)
+- [Lifehacker] [TikTok Myth of the Week: Vegetables Are Bad for You](https://lifehacker.com/health/tiktok-myth-vegetables-are-bad-for-you)
+- [Lifehacker] [‘Batch’ Your Cocktails for Holiday Hosting Success](https://lifehacker.com/food-drink/holiday-cocktail-batching)
 - [Dev.to/JS] [Correct exception names in Javascript](https://dev.to/misobelica/correct-exception-names-in-javascript-1md7)
 - [Lifehacker] [Use This New Google Maps Feature to Make Plans With Your Friends](https://lifehacker.com/tech/use-google-maps-lists-to-make-plans-with-friends)
 - [Lifehacker] [What&#39;s New on Disney+ in December 2023](https://lifehacker.com/entertainment/disney-plus-december-2023)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Newcomer&#39;s Toolkit to React](https://dev.to/opensourcee/a-newcomers-toolkit-to-react-26bk)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
 - [Lifehacker] [What&#39;s New on Hulu in December 2023](https://lifehacker.com/entertainment/new-releases-hulu-december-2023)
-- [Dev.to/JS] [Bun adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/bun-adoption-guide-overview-examples-and-alternatives-309f)
-- [Dev.to/JS] [I created an android app with Vue.js](https://dev.to/lucapu88/i-created-an-android-app-with-vuejs-1186)
 - [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
 - [Lifehacker] [The Newest Nest Hub Is 50% Off for Black Friday](https://lifehacker.com/tech/google-nest-hub-black-friday-deal)
 - [Lifehacker] [How to Protect Your Finances From Identity Theft](https://lifehacker.com/money/how-to-protect-your-finances-from-identity-theft)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Check Your Tire Pressure Every Month This Winter](https://lifehacker.com/travel/check-tire-pressure-winter)
 - [Lifehacker] [What&#39;s New on Netflix in December 2023](https://lifehacker.com/entertainment/netflix-december-2023)
 - [Lifehacker] [You Can Now Log Into WhatsApp With Your Email Address](https://lifehacker.com/tech/log-into-whatsapp-with-email-address)
-- [Lifehacker] [How to Hide &lpar;or Beautify&rpar; Your Home&#39;s Air Vents](https://lifehacker.com/home/hide-air-vents)
-- [Lifehacker] [A Green Bean Casserole Recipe for People Who Hate Green Bean Casserole](https://lifehacker.com/food-drink/from-scratch-green-bean-casserole-recipe)
-- [Lifehacker] [How to Prevent the Most Common House Fires This Christmas Season](https://lifehacker.com/home/prevent-christmas-fires)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Hide &lpar;or Beautify&rpar; Your Home&#39;s Air Vents](https://lifehacker.com/home/hide-air-vents)<!-- TECH-POSTS:END -->
 
 ---
 
