@@ -28,11 +28,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Giày đẹp Replica](https://dev.to/giaydepinfovn99/giay-dep-replica-76d)
 - [Dev.to/JS] [nhà cấp 4 có sân thượng](https://dev.to/maunhadepvn111/nha-cap-4-co-san-thuong-1kl0)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
 - [Dev.to/JS] [Lokomotif: Use Case &lpar;5: Implementing Vite-React&rpar;](https://dev.to/amalja0/lokomotif-use-case-5-implementing-vite-react-3ec8)
 - [Dev.to/JS] [nhà mái bằng có sân thượng](https://dev.to/maunhadepvn111/nha-mai-bang-co-san-thuong-1gn3)
 - [Dev.to/JS] [Moment.js Is Now Legacy Project | Alternatives?](https://dev.to/basimghouri/momentjs-is-now-legacy-project-alternatives-12ke)
 - [Dev.to/JS] [nhà cấp 4 mái thái 4 phòng ngủ](https://dev.to/maunhadepvn111/nha-cap-4-mai-thai-4-phong-ngu-3376)
 - [Dev.to/JS] [UseState why?](https://dev.to/lawrencespractice/usestate-why-1ogk)
+- [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
 - [Dev.to/JS] [mặt tiền nhà gác lửng](https://dev.to/maunhadepvn111/mat-tien-nha-gac-lung-5cca)
 - [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in December 2023](https://lifehacker.com/entertainment/new-releases-paramount-plus-december-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Educational Games for Nintendo Switch](https://lifehacker.com/entertainment/the-best-educational-games-for-nintendo-switch)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-21-2023)
 - [Lifehacker] [Use Google Lens to Determine the Value of a Vintage Item](https://lifehacker.com/home/google-lens-vintage-items)
-- [Lifehacker] [The Google Pixel Watch Is 50% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/google-pixel-watch-amazon-black-friday-sale)
-- [Lifehacker] [These Stick Cordless Vacuums Are up to 72% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/home/stick-cordless-vacuums-black-friday-sale-amazon)
-- [Lifehacker] [Amazon Is Offering AI Classes for Free](https://lifehacker.com/tech/amazon-offering-ai-classes-for-free)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Google Pixel Watch Is 50% Off During Amazon&#39;s Black Friday Sale](https://lifehacker.com/tech/google-pixel-watch-amazon-black-friday-sale)<!-- TECH-POSTS:END -->
 
 ---
 
