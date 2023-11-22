@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTMX - Exploring The Capabilities](https://dev.to/refine/htmx-exploring-the-capabilities-3gma)
+- [Dev.to/JS] [The Logic Behind filter&lpar;&rpar;](https://dev.to/crossthebluesky/the-logic-behind-filter-42ce)
+- [Lifehacker] [The 26 Best Historical Epics Streaming Right Now](https://lifehacker.com/entertainment/best-historical-epics-streaming)
+- [Dev.to/JS] [LetsGo - a starter kit for starting startups](https://dev.to/tjanczuk/letsgo-a-starter-kit-for-starting-startups-1f4p)
+- [Lifehacker] [You Can Now Try ChatGPT’s ‘Chat With Voice’ Feature for Free](https://lifehacker.com/tech/chatgpt-voice-chat-now-free)
 - [Dev.to/JS] [I&#39;ve officially started my journey into the fascinating world of frontend development! 🌐✨](https://dev.to/gongcode/ive-officially-started-my-journey-into-the-fascinating-world-of-frontend-development-2gkc)
 - [Dev.to/JS] [Building my first browser extension: should I use a framework?](https://dev.to/justinem/building-my-first-browser-extension-should-i-use-a-framework-43e6)
 - [Lifehacker] [TikTok Myth of the Week: Vegetables Are Bad for You](https://lifehacker.com/health/tiktok-myth-vegetables-are-bad-for-you)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js Authentication with Clerk: Streamlined SSR Handling](https://dev.to/clerk/nextjs-authentication-with-clerk-streamlined-ssr-handling-170m)
 - [Dev.to/JS] [Portfolio Website Developed in React, Framer Motion and Tailwind CSS](https://dev.to/craftingbugs/portfolio-website-developed-in-react-framer-motion-and-tailwind-css-5f22)
 - [Dev.to/JS] [JavaScript Execution Context &amp; Hoisting](https://dev.to/badr21/javascript-execution-context-hoisting-2e4h)
-- [Dev.to/JS] [how i can resolve this problem?](https://dev.to/raushan0396/how-i-can-resolve-this-problem-1m4f)
-- [Dev.to/JS] [Building SAAS Products AS A Web Developer](https://dev.to/devgancode/building-saas-products-as-a-web-developer-26g6)
-- [Dev.to/JS] [A Newcomer&#39;s Toolkit to React](https://dev.to/opensourcee/a-newcomers-toolkit-to-react-26bk)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
 - [Lifehacker] [What&#39;s New on Hulu in December 2023](https://lifehacker.com/entertainment/new-releases-hulu-december-2023)
 - [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Food Safety Questions You’ll Have on Thanksgiving Day, Answered](https://lifehacker.com/all-the-food-safety-questions-you-ll-have-on-thanksgivi-1744092050)
 - [Lifehacker] [These Portable SSDs Are up to 60% Off](https://lifehacker.com/tech/portable-ssd-sales)
 - [Lifehacker] [Why You Should Check Your Tire Pressure Every Month This Winter](https://lifehacker.com/travel/check-tire-pressure-winter)
-- [Lifehacker] [What&#39;s New on Netflix in December 2023](https://lifehacker.com/entertainment/netflix-december-2023)
-- [Lifehacker] [You Can Now Log Into WhatsApp With Your Email Address](https://lifehacker.com/tech/log-into-whatsapp-with-email-address)
-- [Lifehacker] [How to Hide &lpar;or Beautify&rpar; Your Home&#39;s Air Vents](https://lifehacker.com/home/hide-air-vents)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Netflix in December 2023](https://lifehacker.com/entertainment/netflix-december-2023)<!-- TECH-POSTS:END -->
 
 ---
 
