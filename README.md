@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Giày đẹp Replica](https://dev.to/giaydepinfovn99/giay-dep-replica-76d)
+- [Dev.to/JS] [nhà cấp 4 có sân thượng](https://dev.to/maunhadepvn111/nha-cap-4-co-san-thuong-1kl0)
 - [Dev.to/JS] [Lokomotif: Use Case &lpar;5: Implementing Vite-React&rpar;](https://dev.to/amalja0/lokomotif-use-case-5-implementing-vite-react-3ec8)
 - [Dev.to/JS] [nhà mái bằng có sân thượng](https://dev.to/maunhadepvn111/nha-mai-bang-co-san-thuong-1gn3)
 - [Dev.to/JS] [Moment.js Is Now Legacy Project | Alternatives?](https://dev.to/basimghouri/momentjs-is-now-legacy-project-alternatives-12ke)
@@ -48,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Last-Minute Thanksgiving Potato Side Dishes](https://lifehacker.com/food-drink/best-thanksgiving-potato-side-dishes)
 - [Lifehacker] [All The Food Safety Questions You’ll Have On Thanksgiving Day, Answered](https://lifehacker.com/all-the-food-safety-questions-you-ll-have-on-thanksgivi-1744092050)
 - [Lifehacker] [These Portable SSDs Are up to 60% Off](https://lifehacker.com/tech/portable-ssd-sales)
-- [Dev.to/JS] [ReactJS advanced folder structure for scalable projects.](https://dev.to/kartikbudhraja/reactjs-advanced-folder-structure-for-scalable-projects-mle)
-- [Dev.to/JS] [Exclusive - Beginners Work From Home](https://dev.to/jon9050/exclusive-beginners-work-from-home-ij9)
 - [Lifehacker] [Why You Should Check Your Tire Pressure Every Month This Winter](https://lifehacker.com/travel/check-tire-pressure-winter)
 - [Lifehacker] [What&#39;s New on Netflix in December 2023](https://lifehacker.com/entertainment/netflix-december-2023)
 - [Lifehacker] [You Can Now Log Into WhatsApp With Your Email Address](https://lifehacker.com/tech/log-into-whatsapp-with-email-address)
