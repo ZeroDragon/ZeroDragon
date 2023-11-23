@@ -29,6 +29,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Specified key was too long; max key length is 1000 byte](https://dev.to/javatute673/commysqljdbcexceptionsjdbc4mysqlsyntaxerrorexception-specified-key-was-too-long-max-key-length-is-1000-byte-4akm)
 - [Dev.to/JS] [Bodmas program in Java](https://dev.to/javatute673/bodmas-program-in-java-e0k)
 - [Dev.to/JS] [Java 8 Functional Interface Examples](https://dev.to/javatute673/java-8-functional-interface-examples-7np)
+- [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
 - [Lifehacker] [The Key to Better Studying Is Self-Explanation](https://lifehacker.com/family/self-explanation-study-method)
 - [Lifehacker] [15 Amazon Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
 - [Dev.to/JS] [[Javascript] - [Part 1] - Prototype](https://dev.to/bruno8moura/javascript-part-1-prototype-4776)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Protect Your Finances From Identity Theft](https://lifehacker.com/money/how-to-protect-your-finances-from-identity-theft)
 - [Lifehacker] [Turn Your Thanksgiving Turkey Carcass Into a Killer Soup Overnight](https://lifehacker.com/food-drink/best-turkey-soup-recipe)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
-- [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
-- [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)<!-- TECH-POSTS:END -->
 
 ---
 
