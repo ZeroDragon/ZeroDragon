@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Utilising Bitwise Operators in JavaScript, by Building a RGB to Hex Colour Convertor](https://dev.to/therealowenrees/utilising-bitwise-operators-in-javascript-by-building-a-rgb-to-hex-colour-convertor-24ai)
+- [Dev.to/JS] [Javascript Chaining](https://dev.to/sundarbadagala081/javascript-chaining-3h6g)
+- [Dev.to/JS] [Detect Idle User With JavaScript Project With Source Code](https://dev.to/codingcss/detect-idle-user-with-javascript-project-with-source-code-26lb)
 - [Dev.to/JS] [JavaScript&#39;de Array Kavramı](https://dev.to/eminaltan/javascriptde-arraylar-27p2)
 - [Dev.to/JS] [Making a shitty programming language from scratch. Part 1](https://dev.to/andi23rosca/making-a-shitty-programming-language-part-1-5092)
 - [Dev.to/JS] [Orchestrating Brilliance in Cross-Platform App Development - VT Netzwelt](https://dev.to/vtnetzwelt/orchestrating-brilliance-in-cross-platform-app-development-vt-netzwelt-l6d)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WordPress job offer as a MERN stack developer](https://dev.to/saudalghamdi/wordpress-job-offer-as-a-mern-stack-developer-59ib)
 - [Dev.to/JS] [Unleashing the Power of Multithreading in C# Development](https://dev.to/iamcymentho/unleashing-the-power-of-multithreading-in-c-development-dnj)
 - [Dev.to/JS] [Best apps for coding!](https://dev.to/appslikerthese/best-apps-for-coding-2lpb)
-- [Dev.to/JS] [Demystifying JSON Web Token &lpar;JWT&rpar;: A Practical Overview](https://dev.to/princam/demystifying-json-web-token-jwt-a-practical-overview-1kp0)
-- [Dev.to/JS] [All About JavaScript Scope](https://dev.to/musfiquahaque/all-about-javascript-scope-1api)
-- [Dev.to/JS] [How to Make Captcha Generator in HTML CSS and JS](https://dev.to/onlineittutstutorials/how-to-make-captcha-generator-in-html-css-and-js-4ak9)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
