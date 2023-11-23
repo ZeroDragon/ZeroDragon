@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Soroban Snippets: Basic of Building Dapp](https://dev.to/z5208980/soroban-snippets-basic-of-building-dapp-o0a)
 - [Dev.to/JS] [A Comprehensive Guide To The Event Loop and Asynchronous Programming in JavaScript](https://dev.to/opensign/a-comprehensive-guide-to-the-event-loop-and-asynchronous-programming-in-javascript-46l0)
 - [Dev.to/JS] [NodeVM: The Good and Tricky](https://dev.to/opensourcee/nodevm-the-good-and-tricky-3ooj)
 - [Dev.to/JS] [How to waive security issues in your JavaScript frontend project](https://dev.to/lebbe/how-to-waive-security-issues-in-your-javascript-frontend-project-2m2n)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hope to get help from God.](https://dev.to/xfl1560907gby/hope-to-get-help-from-god-17o0)
 - [Dev.to/JS] [Javascript Hoisting](https://dev.to/codernex/javascript-hoisting-1382)
 - [Dev.to/JS] [JavaScript Memoization](https://dev.to/sundarbadagala081/javascript-memoization-1j2h)
-- [Dev.to/JS] [Unveiling the Exotic Allure of the Jungle Cake Cannabis Strain](https://dev.to/modapk/unveiling-the-exotic-allure-of-the-jungle-cake-cannabis-strain-13b8)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
