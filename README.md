@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Material Design for Bootstrap v7 is out!](https://dev.to/mdbootstrap/material-design-for-bootstrap-v7-is-out-3p9b)
+- [Dev.to/JS] [What makes you a good Programmer?](https://dev.to/craftingbugs/what-makes-you-a-good-programmer-589i)
 - [Dev.to/JS] [.AI image](https://dev.to/vadodaria/ai-image-2jkg)
 - [Dev.to/JS] [WordPress job offer as a MERN stack developer](https://dev.to/saudalghamdi/wordpress-job-offer-as-a-mern-stack-developer-59ib)
 - [Dev.to/JS] [Unleashing the Power of Multithreading in C# Development](https://dev.to/iamcymentho/unleashing-the-power-of-multithreading-in-c-development-dnj)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beyond Study Guides: Linking Your Way to 212-89 Certification Achievement](https://dev.to/21289examdumps/beyond-study-guides-linking-your-way-to-212-89-certification-achievement-183c)
 - [Dev.to/JS] [Skin Care Serum Effective?](https://dev.to/hydrossentialreview/skin-care-serum-effective-9ee)
 - [Dev.to/JS] [Set Up a Free GPT-4 Webhook in 3 Easy Steps with Retool.com ! ✨](https://dev.to/benoitpetit/set-up-a-free-gpt-4-webhook-in-3-easy-steps-with-retoolcom--339)
-- [Dev.to/JS] [postman install in ubuntu/linux](https://dev.to/karakib2k18/postman-install-in-ubuntulinux-5086)
-- [Dev.to/JS] [Next.js 14 Unveiled: A Turbocharged Journey into Revolutionary Performance](https://dev.to/haseebmirza/nextjs-14-unveiled-a-turbocharged-journey-into-revolutionary-performance-3604)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
