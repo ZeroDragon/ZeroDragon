@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
+- [Lifehacker] [Walmart&#39;s Best Black Friday Bargains](https://lifehacker.com/money/walmarts-best-black-friday-bargains)
 - [Dev.to/JS] [The Benefits of Opting for Our Current Packages](https://dev.to/modapk/the-benefits-of-opting-for-our-current-packages-m4d)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [The Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in December 2023](https://lifehacker.com/entertainment/new-releases-paramount-plus-december-2023)
 - [Lifehacker] [Use This Sauerkraut Recipe for Your Thanksgiving Leftovers Sandwiches](https://lifehacker.com/food-drink/sauerkraut-recipe-for-better-thanksgiving-leftovers)
-- [Lifehacker] [Samsung Has a Great Deal on the Galaxy Tab S8 Ultra Right Now](https://lifehacker.com/tech/samsung-galaxy-tab-s8-ultra-black-friday-sale)
-- [Lifehacker] [Common Thanksgiving Stains &lpar;and How to Remove Them&rpar;](https://lifehacker.com/home/how-to-remove-common-thanksgiving-stains)
-- [Lifehacker] [The Seven Deadly Sins of Hosting a Big Thanksgiving Dinner](https://lifehacker.com/food-drink/worst-thanksgiving-host-mistakes)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Samsung Has a Great Deal on the Galaxy Tab S8 Ultra Right Now](https://lifehacker.com/tech/samsung-galaxy-tab-s8-ultra-black-friday-sale)<!-- TECH-POSTS:END -->
 
 ---
 
