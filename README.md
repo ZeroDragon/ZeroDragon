@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Set Up a Free GPT-4 Webhook in 3 Easy Steps with Retool.com ! ✨](https://dev.to/benoitpetit/set-up-a-free-gpt-4-webhook-in-3-easy-steps-with-retoolcom--339)
+- [Dev.to/JS] [postman install in ubuntu/linux](https://dev.to/karakib2k18/postman-install-in-ubuntulinux-5086)
 - [Dev.to/JS] [Next.js 14 Unveiled: A Turbocharged Journey into Revolutionary Performance](https://dev.to/haseebmirza/nextjs-14-unveiled-a-turbocharged-journey-into-revolutionary-performance-3604)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
@@ -49,9 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Web Rendering: Server Components Architecture](https://dev.to/mangs/exploring-web-rendering-server-components-architecture-5681)
 - [Lifehacker] [The Quickest Way to Soften Butter Without a Microwave](https://lifehacker.com/food-drink/soften-butter-quickly-without-microwave)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
-- [Dev.to/JS] [Higher Order Functions in JavaScript](https://dev.to/rashmijain18/higher-order-functions-in-javascript-453g)
 - [Lifehacker] [These Are Amazon’s Best Black Friday Deals on Board Games](https://lifehacker.com/entertainment/amazon-black-friday-deals-on-board-games)
-- [Dev.to/JS] [Download Best 800+ VST Plugins Collection for Music Production Extraplugins](https://dev.to/extraplugins/download-best-800-vst-plugins-collection-for-music-production-extraplugins-1b9n)
 - [Lifehacker] [Ten Clever Ways to Put Up Christmas Lights With Less Stress](https://lifehacker.com/home/christmas-light-decorating-hacks)
 - [Lifehacker] [How to Disagree About Politics Without Ruining Thanksgiving](https://lifehacker.com/family/how-to-talk-about-politics-without-ruining-thanksgiving)
 - [Lifehacker] [The 26 Best Historical Epics Streaming Right Now](https://lifehacker.com/entertainment/best-historical-epics-streaming)
