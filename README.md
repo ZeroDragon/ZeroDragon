@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beyond Study Guides: Linking Your Way to 212-89 Certification Achievement](https://dev.to/21289examdumps/beyond-study-guides-linking-your-way-to-212-89-certification-achievement-183c)
+- [Dev.to/JS] [Skin Care Serum Effective?](https://dev.to/hydrossentialreview/skin-care-serum-effective-9ee)
 - [Dev.to/JS] [Set Up a Free GPT-4 Webhook in 3 Easy Steps with Retool.com ! ✨](https://dev.to/benoitpetit/set-up-a-free-gpt-4-webhook-in-3-easy-steps-with-retoolcom--339)
 - [Dev.to/JS] [postman install in ubuntu/linux](https://dev.to/karakib2k18/postman-install-in-ubuntulinux-5086)
 - [Dev.to/JS] [Next.js 14 Unveiled: A Turbocharged Journey into Revolutionary Performance](https://dev.to/haseebmirza/nextjs-14-unveiled-a-turbocharged-journey-into-revolutionary-performance-3604)
@@ -47,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
 - [Dev.to/JS] [Building Discord Apps with Gadget: A Step-by-Step guide to launch in 5 minutes](https://dev.to/gadgetdev/building-discord-apps-with-gadget-a-step-by-step-guide-to-launch-in-5-minutes-1b0l)
 - [Lifehacker] [The Best Black Friday Deals on Treadmills and Walking Pads](https://lifehacker.com/health/black-friday-deals-treadmills-and-walking-pads)
-- [Dev.to/JS] [How to Perform Form Validation in React](https://dev.to/obere4u/how-to-perform-form-validation-in-react-3kgi)
-- [Dev.to/JS] [Exploring Web Rendering: Server Components Architecture](https://dev.to/mangs/exploring-web-rendering-server-components-architecture-5681)
 - [Lifehacker] [The Quickest Way to Soften Butter Without a Microwave](https://lifehacker.com/food-drink/soften-butter-quickly-without-microwave)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Lifehacker] [These Are Amazon’s Best Black Friday Deals on Board Games](https://lifehacker.com/entertainment/amazon-black-friday-deals-on-board-games)
