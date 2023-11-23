@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the Power of Multithreading in C# Development](https://dev.to/iamcymentho/unleashing-the-power-of-multithreading-in-c-development-dnj)
+- [Dev.to/JS] [Best apps for coding!](https://dev.to/appslikerthese/best-apps-for-coding-2lpb)
+- [Dev.to/JS] [Demystifying JSON Web Token &lpar;JWT&rpar;: A Practical Overview](https://dev.to/princam/demystifying-json-web-token-jwt-a-practical-overview-1kp0)
+- [Dev.to/JS] [All About JavaScript Scope](https://dev.to/musfiquahaque/all-about-javascript-scope-1api)
 - [Dev.to/JS] [How to Make Captcha Generator in HTML CSS and JS](https://dev.to/onlineittutstutorials/how-to-make-captcha-generator-in-html-css-and-js-4ak9)
 - [Dev.to/JS] [Beyond Study Guides: Linking Your Way to 212-89 Certification Achievement](https://dev.to/21289examdumps/beyond-study-guides-linking-your-way-to-212-89-certification-achievement-183c)
 - [Dev.to/JS] [Skin Care Serum Effective?](https://dev.to/hydrossentialreview/skin-care-serum-effective-9ee)
@@ -36,16 +40,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Dev.to/JS] [Com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Specified key was too long; max key length is 1000 byte](https://dev.to/javatute673/commysqljdbcexceptionsjdbc4mysqlsyntaxerrorexception-specified-key-was-too-long-max-key-length-is-1000-byte-4akm)
 - [Dev.to/JS] [Bodmas program in Java](https://dev.to/javatute673/bodmas-program-in-java-e0k)
-- [Dev.to/JS] [Java 8 Functional Interface Examples](https://dev.to/javatute673/java-8-functional-interface-examples-7np)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
 - [Lifehacker] [The Key to Better Studying Is Self-Explanation](https://lifehacker.com/family/self-explanation-study-method)
 - [Lifehacker] [15 Amazon Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
-- [Dev.to/JS] [[Javascript] - [Part 1] - Prototype](https://dev.to/bruno8moura/javascript-part-1-prototype-4776)
-- [Dev.to/JS] [Tests Everywhere - JavaScript](https://dev.to/rogervinas/tests-everywhere-javascript-4oo0)
 - [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
 - [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
 - [Lifehacker] [Walmart&#39;s Best Black Friday Bargains](https://lifehacker.com/money/walmarts-best-black-friday-bargains)
-- [Dev.to/JS] [The Benefits of Opting for Our Current Packages](https://dev.to/modapk/the-benefits-of-opting-for-our-current-packages-m4d)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [The Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
 - [Lifehacker] [The Best Black Friday Deals on Treadmills and Walking Pads](https://lifehacker.com/health/black-friday-deals-treadmills-and-walking-pads)
