@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Life of programmer](https://dev.to/devshreeom/like-if-u-relate-1i3f)
+- [Dev.to/JS] [Top 7 most used JavaScript syntaxes](https://dev.to/lucassacheto/top-7-most-used-javascript-syntaxes-41mc)
+- [Dev.to/JS] [Hope to get help from God.](https://dev.to/xfl1560907gby/hope-to-get-help-from-god-17o0)
+- [Dev.to/JS] [Javascript Hoisting](https://dev.to/codernex/javascript-hoisting-1382)
 - [Dev.to/JS] [JavaScript Memoization](https://dev.to/sundarbadagala081/javascript-memoization-1j2h)
 - [Dev.to/JS] [Unveiling the Exotic Allure of the Jungle Cake Cannabis Strain](https://dev.to/modapk/unveiling-the-exotic-allure-of-the-jungle-cake-cannabis-strain-13b8)
 - [Dev.to/JS] [Do you know AJAX?](https://dev.to/thegraygodfather/do-you-know-ajax-nim)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Decode obfuscating Javascript code with ChatGPT](https://dev.to/vladignatyev/decode-obfuscating-javascript-code-with-chatgpt-30ic)
 - [Dev.to/JS] [Utilising Bitwise Operators in JavaScript, by Building a RGB to Hex Colour Convertor](https://dev.to/therealowenrees/utilising-bitwise-operators-in-javascript-by-building-a-rgb-to-hex-colour-convertor-24ai)
 - [Dev.to/JS] [JavaScript Chaining](https://dev.to/sundarbadagala081/javascript-chaining-3h6g)
-- [Dev.to/JS] [Detect Idle User With JavaScript Project With Source Code](https://dev.to/codingcss/detect-idle-user-with-javascript-project-with-source-code-26lb)
-- [Dev.to/JS] [JavaScript&#39;de Array Kavramı](https://dev.to/eminaltan/javascriptde-arraylar-27p2)
-- [Dev.to/JS] [Making a shitty programming language from scratch. Part 1](https://dev.to/andi23rosca/making-a-shitty-programming-language-part-1-5092)
-- [Dev.to/JS] [Orchestrating Brilliance in Cross-Platform App Development - VT Netzwelt](https://dev.to/vtnetzwelt/orchestrating-brilliance-in-cross-platform-app-development-vt-netzwelt-l6d)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
