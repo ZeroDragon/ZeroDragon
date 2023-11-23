@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript&#39;de Array Kavramı](https://dev.to/eminaltan/javascriptde-arraylar-27p2)
+- [Dev.to/JS] [Making a shitty programming language from scratch. Part 1](https://dev.to/andi23rosca/making-a-shitty-programming-language-part-1-5092)
+- [Dev.to/JS] [Orchestrating Brilliance in Cross-Platform App Development - VT Netzwelt](https://dev.to/vtnetzwelt/orchestrating-brilliance-in-cross-platform-app-development-vt-netzwelt-l6d)
 - [Dev.to/JS] [Material Design for Bootstrap v7 is out!](https://dev.to/mdbootstrap/material-design-for-bootstrap-v7-is-out-3p9b)
 - [Dev.to/JS] [What makes you a good Programmer?](https://dev.to/craftingbugs/what-makes-you-a-good-programmer-589i)
 - [Dev.to/JS] [.AI image](https://dev.to/vadodaria/ai-image-2jkg)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying JSON Web Token &lpar;JWT&rpar;: A Practical Overview](https://dev.to/princam/demystifying-json-web-token-jwt-a-practical-overview-1kp0)
 - [Dev.to/JS] [All About JavaScript Scope](https://dev.to/musfiquahaque/all-about-javascript-scope-1api)
 - [Dev.to/JS] [How to Make Captcha Generator in HTML CSS and JS](https://dev.to/onlineittutstutorials/how-to-make-captcha-generator-in-html-css-and-js-4ak9)
-- [Dev.to/JS] [Beyond Study Guides: Linking Your Way to 212-89 Certification Achievement](https://dev.to/21289examdumps/beyond-study-guides-linking-your-way-to-212-89-certification-achievement-183c)
-- [Dev.to/JS] [Skin Care Serum Effective?](https://dev.to/hydrossentialreview/skin-care-serum-effective-9ee)
-- [Dev.to/JS] [Set Up a Free GPT-4 Webhook in 3 Easy Steps with Retool.com ! ✨](https://dev.to/benoitpetit/set-up-a-free-gpt-4-webhook-in-3-easy-steps-with-retoolcom--339)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
