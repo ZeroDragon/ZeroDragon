@@ -27,7 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Next.js 14 Unveiled: A Turbocharged Journey into Revolutionary Performance](https://dev.to/haseebmirza/nextjs-14-unveiled-a-turbocharged-journey-into-revolutionary-performance-3604)
-- [Lifehacker] [Best Walmart Black Friday Dyson Vacuum Deals 2023](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
+- [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Dev.to/JS] [Com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Specified key was too long; max key length is 1000 byte](https://dev.to/javatute673/commysqljdbcexceptionsjdbc4mysqlsyntaxerrorexception-specified-key-was-too-long-max-key-length-is-1000-byte-4akm)
 - [Dev.to/JS] [Bodmas program in Java](https://dev.to/javatute673/bodmas-program-in-java-e0k)
