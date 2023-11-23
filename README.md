@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom Exceptions in modern js / ts](https://dev.to/manuartero/custom-exceptions-in-modern-js-ts-2in9)
+- [Dev.to/JS] [Optimizing Excalidraw: Simple File Size Reduction Tactics](https://dev.to/omalk98/optimizing-excalidraw-simple-file-size-reduction-tactics-n4e)
+- [Dev.to/JS] [Decode obfuscating Javascript code with ChatGPT](https://dev.to/vladignatyev/decode-obfuscating-javascript-code-with-chatgpt-30ic)
 - [Dev.to/JS] [Utilising Bitwise Operators in JavaScript, by Building a RGB to Hex Colour Convertor](https://dev.to/therealowenrees/utilising-bitwise-operators-in-javascript-by-building-a-rgb-to-hex-colour-convertor-24ai)
 - [Dev.to/JS] [Javascript Chaining](https://dev.to/sundarbadagala081/javascript-chaining-3h6g)
 - [Dev.to/JS] [Detect Idle User With JavaScript Project With Source Code](https://dev.to/codingcss/detect-idle-user-with-javascript-project-with-source-code-26lb)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Material Design for Bootstrap v7 is out!](https://dev.to/mdbootstrap/material-design-for-bootstrap-v7-is-out-3p9b)
 - [Dev.to/JS] [What makes you a good Programmer?](https://dev.to/craftingbugs/what-makes-you-a-good-programmer-589i)
 - [Dev.to/JS] [.AI image](https://dev.to/vadodaria/ai-image-2jkg)
-- [Dev.to/JS] [WordPress job offer as a MERN stack developer](https://dev.to/saudalghamdi/wordpress-job-offer-as-a-mern-stack-developer-59ib)
-- [Dev.to/JS] [Unleashing the Power of Multithreading in C# Development](https://dev.to/iamcymentho/unleashing-the-power-of-multithreading-in-c-development-dnj)
-- [Dev.to/JS] [Best apps for coding!](https://dev.to/appslikerthese/best-apps-for-coding-2lpb)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
