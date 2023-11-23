@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Comprehensive Guide To The Event Loop and Asynchronous Programming in JavaScript](https://dev.to/opensign/a-comprehensive-guide-to-the-event-loop-and-asynchronous-programming-in-javascript-46l0)
+- [Dev.to/JS] [NodeVM: The Good and Tricky](https://dev.to/opensourcee/nodevm-the-good-and-tricky-3ooj)
+- [Dev.to/JS] [How to waive security issues in your JavaScript frontend project](https://dev.to/lebbe/how-to-waive-security-issues-in-your-javascript-frontend-project-2m2n)
+- [Dev.to/JS] [Benchmark TypeScript Parsers: Demystify Rust Tooling Performance](https://dev.to/herrington_darkholme/benchmark-typescript-parsers-demystify-rust-tooling-performance-2go8)
+- [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Dev.to/JS] [Episode 23/46: Implicit Imports &amp; Signal-based inputs, Becoming Angular Contributor, DI deep-dive](https://dev.to/this-is-angular/episode-2346-implicit-imports-signal-based-inputs-becoming-angular-contributor-di-deep-dive-2jl)
+- [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
 - [Dev.to/JS] [Responsive Number Counting Animation With JavaScript Project With Source Code](https://dev.to/codingcss/responsive-number-counting-animation-with-javascript-project-with-source-code-2m5)
 - [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
 - [Dev.to/JS] [Life of programmer](https://dev.to/devshreeom/like-if-u-relate-1i3f)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Hoisting](https://dev.to/codernex/javascript-hoisting-1382)
 - [Dev.to/JS] [JavaScript Memoization](https://dev.to/sundarbadagala081/javascript-memoization-1j2h)
 - [Dev.to/JS] [Unveiling the Exotic Allure of the Jungle Cake Cannabis Strain](https://dev.to/modapk/unveiling-the-exotic-allure-of-the-jungle-cake-cannabis-strain-13b8)
-- [Dev.to/JS] [Do you know AJAX?](https://dev.to/thegraygodfather/do-you-know-ajax-nim)
-- [Dev.to/JS] [Custom Exceptions in modern js / ts](https://dev.to/manuartero/custom-exceptions-in-modern-js-ts-2in9)
-- [Dev.to/JS] [Optimizing Excalidraw: Simple File Size Reduction Tactics](https://dev.to/omalk98/optimizing-excalidraw-simple-file-size-reduction-tactics-n4e)
-- [Dev.to/JS] [Decode obfuscating Javascript code with ChatGPT](https://dev.to/vladignatyev/decode-obfuscating-javascript-code-with-chatgpt-30ic)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
@@ -50,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
 - [Lifehacker] [The Best Black Friday Deals on Treadmills and Walking Pads](https://lifehacker.com/health/black-friday-deals-treadmills-and-walking-pads)
 - [Lifehacker] [The Quickest Way to Soften Butter Without a Microwave](https://lifehacker.com/food-drink/soften-butter-quickly-without-microwave)
-- [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Lifehacker] [These Are Amazon’s Best Black Friday Deals on Board Games](https://lifehacker.com/entertainment/amazon-black-friday-deals-on-board-games)
 - [Lifehacker] [Ten Clever Ways to Put Up Christmas Lights With Less Stress](https://lifehacker.com/home/christmas-light-decorating-hacks)
 - [Lifehacker] [How to Disagree About Politics Without Ruining Thanksgiving](https://lifehacker.com/family/how-to-talk-about-politics-without-ruining-thanksgiving)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
 - [Lifehacker] [The Newest Nest Hub Is 50% Off for Black Friday](https://lifehacker.com/tech/google-nest-hub-black-friday-deal)
 - [Lifehacker] [How to Protect Your Finances From Identity Theft](https://lifehacker.com/money/how-to-protect-your-finances-from-identity-theft)
-- [Lifehacker] [Turn Your Thanksgiving Turkey Carcass Into a Killer Soup Overnight](https://lifehacker.com/food-drink/best-turkey-soup-recipe)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn Your Thanksgiving Turkey Carcass Into a Killer Soup Overnight](https://lifehacker.com/food-drink/best-turkey-soup-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
