@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Specified key was too long; max key length is 1000 byte](https://dev.to/javatute673/commysqljdbcexceptionsjdbc4mysqlsyntaxerrorexception-specified-key-was-too-long-max-key-length-is-1000-byte-4akm)
+- [Dev.to/JS] [Bodmas program in Java](https://dev.to/javatute673/bodmas-program-in-java-e0k)
+- [Dev.to/JS] [Java 8 Functional Interface Examples](https://dev.to/javatute673/java-8-functional-interface-examples-7np)
+- [Lifehacker] [The Key to Better Studying Is Self-Explanation](https://lifehacker.com/family/self-explanation-study-method)
+- [Lifehacker] [15 Amazon Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
+- [Dev.to/JS] [[Javascript] - [Part 1] - Prototype](https://dev.to/bruno8moura/javascript-part-1-prototype-4776)
+- [Dev.to/JS] [Tests Everywhere - JavaScript](https://dev.to/rogervinas/tests-everywhere-javascript-4oo0)
+- [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
 - [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
 - [Lifehacker] [Walmart&#39;s Best Black Friday Bargains](https://lifehacker.com/money/walmarts-best-black-friday-bargains)
 - [Dev.to/JS] [The Benefits of Opting for Our Current Packages](https://dev.to/modapk/the-benefits-of-opting-for-our-current-packages-m4d)
@@ -43,15 +51,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ten Clever Ways to Put Up Christmas Lights With Less Stress](https://lifehacker.com/home/christmas-light-decorating-hacks)
 - [Lifehacker] [How to Disagree About Politics Without Ruining Thanksgiving](https://lifehacker.com/family/how-to-talk-about-politics-without-ruining-thanksgiving)
 - [Dev.to/JS] [HTMX - Exploring The Capabilities](https://dev.to/refine/htmx-exploring-the-capabilities-3gma)
-- [Dev.to/JS] [The Logic Behind filter&lpar;&rpar;](https://dev.to/crossthebluesky/the-logic-behind-filter-42ce)
 - [Lifehacker] [The 26 Best Historical Epics Streaming Right Now](https://lifehacker.com/entertainment/best-historical-epics-streaming)
-- [Dev.to/JS] [LetsGo - a starter kit for starting startups](https://dev.to/tjanczuk/letsgo-a-starter-kit-for-starting-startups-1f4p)
 - [Lifehacker] [You Can Now Try ChatGPT’s ‘Chat With Voice’ Feature for Free](https://lifehacker.com/tech/chatgpt-voice-chat-now-free)
-- [Dev.to/JS] [I&#39;ve officially started my journey into the fascinating world of frontend development! 🌐✨](https://dev.to/gongcode/ive-officially-started-my-journey-into-the-fascinating-world-of-frontend-development-2gkc)
-- [Dev.to/JS] [Building my first browser extension: should I use a framework?](https://dev.to/justinem/building-my-first-browser-extension-should-i-use-a-framework-43e6)
 - [Lifehacker] [TikTok Myth of the Week: Vegetables Are Bad for You](https://lifehacker.com/health/tiktok-myth-vegetables-are-bad-for-you)
 - [Lifehacker] [‘Batch’ Your Cocktails for Holiday Hosting Success](https://lifehacker.com/food-drink/holiday-cocktail-batching)
-- [Dev.to/JS] [Correct exception names in Javascript](https://dev.to/misobelica/correct-exception-names-in-javascript-1md7)
 - [Lifehacker] [Use This New Google Maps Feature to Make Plans With Your Friends](https://lifehacker.com/tech/use-google-maps-lists-to-make-plans-with-friends)
 - [Lifehacker] [What&#39;s New on Disney+ in December 2023](https://lifehacker.com/entertainment/disney-plus-december-2023)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Your Thanksgiving Turkey Carcass Into a Killer Soup Overnight](https://lifehacker.com/food-drink/best-turkey-soup-recipe)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
 - [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)
-- [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)
-- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in December 2023](https://lifehacker.com/entertainment/new-releases-paramount-plus-december-2023)
-- [Lifehacker] [Use This Sauerkraut Recipe for Your Thanksgiving Leftovers Sandwiches](https://lifehacker.com/food-drink/sauerkraut-recipe-for-better-thanksgiving-leftovers)
-- [Lifehacker] [Samsung Has a Great Deal on the Galaxy Tab S8 Ultra Right Now](https://lifehacker.com/tech/samsung-galaxy-tab-s8-ultra-black-friday-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Kindle Scribe Is One of the Best E-Readers You Can Buy](https://lifehacker.com/tech/kindle-scribe-review)<!-- TECH-POSTS:END -->
 
 ---
 
