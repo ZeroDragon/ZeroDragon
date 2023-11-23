@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [.AI image](https://dev.to/vadodaria/ai-image-2jkg)
+- [Dev.to/JS] [WordPress job offer as a MERN stack developer](https://dev.to/saudalghamdi/wordpress-job-offer-as-a-mern-stack-developer-59ib)
 - [Dev.to/JS] [Unleashing the Power of Multithreading in C# Development](https://dev.to/iamcymentho/unleashing-the-power-of-multithreading-in-c-development-dnj)
 - [Dev.to/JS] [Best apps for coding!](https://dev.to/appslikerthese/best-apps-for-coding-2lpb)
 - [Dev.to/JS] [Demystifying JSON Web Token &lpar;JWT&rpar;: A Practical Overview](https://dev.to/princam/demystifying-json-web-token-jwt-a-practical-overview-1kp0)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js 14 Unveiled: A Turbocharged Journey into Revolutionary Performance](https://dev.to/haseebmirza/nextjs-14-unveiled-a-turbocharged-journey-into-revolutionary-performance-3604)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
-- [Dev.to/JS] [Com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Specified key was too long; max key length is 1000 byte](https://dev.to/javatute673/commysqljdbcexceptionsjdbc4mysqlsyntaxerrorexception-specified-key-was-too-long-max-key-length-is-1000-byte-4akm)
-- [Dev.to/JS] [Bodmas program in Java](https://dev.to/javatute673/bodmas-program-in-java-e0k)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
 - [Lifehacker] [The Key to Better Studying Is Self-Explanation](https://lifehacker.com/family/self-explanation-study-method)
 - [Lifehacker] [15 Amazon Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
