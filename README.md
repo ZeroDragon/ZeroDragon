@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Best Walmart Black Friday Dyson Vacuum Deals 2023](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Dev.to/JS] [Com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Specified key was too long; max key length is 1000 byte](https://dev.to/javatute673/commysqljdbcexceptionsjdbc4mysqlsyntaxerrorexception-specified-key-was-too-long-max-key-length-is-1000-byte-4akm)
 - [Dev.to/JS] [Bodmas program in Java](https://dev.to/javatute673/bodmas-program-in-java-e0k)
 - [Dev.to/JS] [Java 8 Functional Interface Examples](https://dev.to/javatute673/java-8-functional-interface-examples-7np)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
 - [Lifehacker] [The Newest Nest Hub Is 50% Off for Black Friday](https://lifehacker.com/tech/google-nest-hub-black-friday-deal)
 - [Lifehacker] [How to Protect Your Finances From Identity Theft](https://lifehacker.com/money/how-to-protect-your-finances-from-identity-theft)
-- [Lifehacker] [Turn Your Thanksgiving Turkey Carcass Into a Killer Soup Overnight](https://lifehacker.com/food-drink/best-turkey-soup-recipe)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)
-- [Lifehacker] [These Are the Best Streaming Service Deals for Black Friday](https://lifehacker.com/entertainment/best-black-friday-streaming-service-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn Your Thanksgiving Turkey Carcass Into a Killer Soup Overnight](https://lifehacker.com/food-drink/best-turkey-soup-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
