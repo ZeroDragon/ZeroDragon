@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make Captcha Generator in HTML CSS and JS](https://dev.to/onlineittutstutorials/how-to-make-captcha-generator-in-html-css-and-js-4ak9)
 - [Dev.to/JS] [Beyond Study Guides: Linking Your Way to 212-89 Certification Achievement](https://dev.to/21289examdumps/beyond-study-guides-linking-your-way-to-212-89-certification-achievement-183c)
 - [Dev.to/JS] [Skin Care Serum Effective?](https://dev.to/hydrossentialreview/skin-care-serum-effective-9ee)
 - [Dev.to/JS] [Set Up a Free GPT-4 Webhook in 3 Easy Steps with Retool.com ! ✨](https://dev.to/benoitpetit/set-up-a-free-gpt-4-webhook-in-3-easy-steps-with-retoolcom--339)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Benefits of Opting for Our Current Packages](https://dev.to/modapk/the-benefits-of-opting-for-our-current-packages-m4d)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
 - [Lifehacker] [The Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
-- [Dev.to/JS] [Building Discord Apps with Gadget: A Step-by-Step guide to launch in 5 minutes](https://dev.to/gadgetdev/building-discord-apps-with-gadget-a-step-by-step-guide-to-launch-in-5-minutes-1b0l)
 - [Lifehacker] [The Best Black Friday Deals on Treadmills and Walking Pads](https://lifehacker.com/health/black-friday-deals-treadmills-and-walking-pads)
 - [Lifehacker] [The Quickest Way to Soften Butter Without a Microwave](https://lifehacker.com/food-drink/soften-butter-quickly-without-microwave)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
