@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Responsive Number Counting Animation With JavaScript Project With Source Code](https://dev.to/codingcss/responsive-number-counting-animation-with-javascript-project-with-source-code-2m5)
 - [Dev.to/JS] [Life of programmer](https://dev.to/devshreeom/like-if-u-relate-1i3f)
 - [Dev.to/JS] [Top 7 most used JavaScript syntaxes](https://dev.to/lucassacheto/top-7-most-used-javascript-syntaxes-41mc)
 - [Dev.to/JS] [Hope to get help from God.](https://dev.to/xfl1560907gby/hope-to-get-help-from-god-17o0)
+- [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
 - [Dev.to/JS] [Javascript Hoisting](https://dev.to/codernex/javascript-hoisting-1382)
 - [Dev.to/JS] [JavaScript Memoization](https://dev.to/sundarbadagala081/javascript-memoization-1j2h)
 - [Dev.to/JS] [Unveiling the Exotic Allure of the Jungle Cake Cannabis Strain](https://dev.to/modapk/unveiling-the-exotic-allure-of-the-jungle-cake-cannabis-strain-13b8)
@@ -37,13 +39,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing Excalidraw: Simple File Size Reduction Tactics](https://dev.to/omalk98/optimizing-excalidraw-simple-file-size-reduction-tactics-n4e)
 - [Dev.to/JS] [Decode obfuscating Javascript code with ChatGPT](https://dev.to/vladignatyev/decode-obfuscating-javascript-code-with-chatgpt-30ic)
 - [Dev.to/JS] [Utilising Bitwise Operators in JavaScript, by Building a RGB to Hex Colour Convertor](https://dev.to/therealowenrees/utilising-bitwise-operators-in-javascript-by-building-a-rgb-to-hex-colour-convertor-24ai)
-- [Dev.to/JS] [JavaScript Chaining](https://dev.to/sundarbadagala081/javascript-chaining-3h6g)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
 - [Lifehacker] [The Key to Better Studying Is Self-Explanation](https://lifehacker.com/family/self-explanation-study-method)
 - [Lifehacker] [15 Amazon Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
-- [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
 - [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
 - [Lifehacker] [Walmart&#39;s Best Black Friday Bargains](https://lifehacker.com/money/walmarts-best-black-friday-bargains)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
@@ -60,12 +60,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Batch’ Your Cocktails for Holiday Hosting Success](https://lifehacker.com/food-drink/holiday-cocktail-batching)
 - [Lifehacker] [Use This New Google Maps Feature to Make Plans With Your Friends](https://lifehacker.com/tech/use-google-maps-lists-to-make-plans-with-friends)
 - [Lifehacker] [What&#39;s New on Disney+ in December 2023](https://lifehacker.com/entertainment/disney-plus-december-2023)
-- [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
 - [Lifehacker] [What&#39;s New on Hulu in December 2023](https://lifehacker.com/entertainment/new-releases-hulu-december-2023)
 - [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
 - [Lifehacker] [The Newest Nest Hub Is 50% Off for Black Friday](https://lifehacker.com/tech/google-nest-hub-black-friday-deal)
 - [Lifehacker] [How to Protect Your Finances From Identity Theft](https://lifehacker.com/money/how-to-protect-your-finances-from-identity-theft)
-- [Lifehacker] [Turn Your Thanksgiving Turkey Carcass Into a Killer Soup Overnight](https://lifehacker.com/food-drink/best-turkey-soup-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn Your Thanksgiving Turkey Carcass Into a Killer Soup Overnight](https://lifehacker.com/food-drink/best-turkey-soup-recipe)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 22, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-wednesday-november-22-2023)<!-- TECH-POSTS:END -->
 
 ---
 
