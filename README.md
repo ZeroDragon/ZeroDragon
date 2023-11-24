@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DEVWorld BLACK FRIDAY : Code, Conquer, and Score Big!](https://dev.to/devworld_conf/devworld-black-friday-code-conquer-and-score-big-2bh8)
+- [Dev.to/JS] [Your values are &#39;Truthy&#39; or &#39;Falsy&#39;, JavaScript](https://dev.to/milanx/your-values-are-truthy-or-falsy-javascript-1i88)
+- [Dev.to/JS] [Javascript Method #1 : Array Map](https://dev.to/ichsanputr/javascript-method-1-array-map-2ij8)
+- [Dev.to/JS] [raw honey online](https://dev.to/naturesbox3/raw-honey-online-4ekf)
+- [Dev.to/JS] [28h. Left: TWE Elements Up To 500$ OFF❗️](https://dev.to/mz2387/28h-left-twe-elements-up-to-500-off-kdf)
 - [Dev.to/JS] [7 reasons to use Angular for your web applications in 2024](https://dev.to/sparkouttech/7-reasons-to-use-angular-for-your-web-applications-in-2024-2blb)
 - [Dev.to/JS] [Advanced Node.js React.js Auth &lpar;httpOnly in cookies&rpar;](https://dev.to/idurar/advanced-nodejs-reactjs-auth-httponly-in-cookies-2911)
 - [Dev.to/JS] [Difference Between onBlur vs onTouched](https://dev.to/yunuselci/difference-between-onblur-vs-ontouched-30fc)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating Prettier](https://dev.to/karakib2k18/integrating-prettier-g0j)
 - [Dev.to/JS] [Mastering Problem Solving in JavaScript](https://dev.to/carxstreet9/mastering-problem-solving-in-javascript-5h1f)
 - [Dev.to/JS] [ESLint rules Variables](https://dev.to/karakib2k18/eslint-rules-variables-fb6)
-- [Dev.to/JS] [ESLint Global Variables](https://dev.to/karakib2k18/eslint-global-variables-obh)
-- [Dev.to/JS] [You like &#39;deep&#39; or &#39;shallow&#39; copy](https://dev.to/milanx/you-like-deep-or-shallow-copy-109f)
-- [Dev.to/JS] [How to Send Bulk Messages on WhatsApp Business API](https://dev.to/johnmerry/how-to-send-bulk-messages-on-whatsapp-business-api-1f)
-- [Dev.to/JS] [Scalable Enterprise Testing with Vue.js: A Deep Dive into Best Practices and Strategies [Testμ 2023]](https://dev.to/lambdatest/scalable-enterprise-testing-with-vuejs-a-deep-dive-into-best-practices-and-strategies-testm-2023-5bp6)
-- [Dev.to/JS] [Understanding Server-Side Rendering &lpar;SSR&rpar; vs. Client-Side Rendering &lpar;CSR&rpar;](https://dev.to/haszankauna/understanding-server-side-rendering-ssr-vs-client-side-rendering-csr-8gi)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
