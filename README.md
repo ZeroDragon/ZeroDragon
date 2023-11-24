@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [20 core Node.js modules](https://dev.to/shreyvijayvargiya/20-core-nodejs-modules-4omh)
 - [Lifehacker] [These Are Some of the Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
+- [Lifehacker] [The Best Black Friday Deals on Gaming Laptops](https://lifehacker.com/tech/best-black-friday-deals-gaming-laptops)
 - [Lifehacker] [The Best Black Friday Sales on Handheld Gaming Consoles](https://lifehacker.com/entertainment/best-handheld-gaming-consoles-black-friday)
 - [Dev.to/JS] [I&#39;m just wondering how to create a WebSocket that listens for matches in the API query parameters](https://dev.to/theholyroller/im-just-wondering-how-to-create-a-websocket-that-listens-for-matches-in-the-api-query-parameters-2c04)
 - [Dev.to/JS] [Speed Run de MicroFrontends com Single-SPA &lpar;any%&rpar;](https://dev.to/mbarbosasan/speed-run-de-microfrontends-com-single-spa-any-2dl4)
@@ -48,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [is it possible to return the same component in same function?](https://dev.to/ari-coding/is-it-possible-to-return-the-same-component-in-same-function-5872)
 - [Lifehacker] [50+ Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
 - [Lifehacker] [The Best Apple Watch Sales on Black Friday](https://lifehacker.com/tech/best-apple-watch-deals-black-friday)
-- [Dev.to/JS] [Why Webpack? Exploring Its Role in Web Development](https://dev.to/joseph42a/why-webpack-exploring-its-role-in-web-development-4bco)
 - [Lifehacker] [These Are the Best Black Friday Deals on Sex Toys](https://lifehacker.com/money/best-black-friday-deals-on-sex-toys)
 - [Lifehacker] [These Are the Best Apple AirTag Sales for Black Friday](https://lifehacker.com/tech/best-apple-airtag-deals-black-friday)
 - [Lifehacker] [The Best Black Friday Sales Under $500 for Windows Laptops](https://lifehacker.com/tech/best-black-friday-laptops-under-500)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Key to Better Studying Is Self-Explanation](https://lifehacker.com/family/self-explanation-study-method)
 - [Lifehacker] [15 Amazon Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
 - [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
-- [Lifehacker] [Walmart&#39;s Best Black Friday Bargains](https://lifehacker.com/money/walmarts-best-black-friday-bargains)
-- [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Walmart&#39;s Best Black Friday Bargains](https://lifehacker.com/money/walmarts-best-black-friday-bargains)<!-- TECH-POSTS:END -->
 
 ---
 
