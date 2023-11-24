@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 reasons to use Angular for your web applications in 2024](https://dev.to/sparkouttech/7-reasons-to-use-angular-for-your-web-applications-in-2024-2blb)
+- [Dev.to/JS] [Advanced Node.js React.js Auth &lpar;httpOnly in cookies&rpar;](https://dev.to/idurar/advanced-nodejs-reactjs-auth-httponly-in-cookies-2911)
+- [Dev.to/JS] [Difference Between onBlur vs onTouched](https://dev.to/yunuselci/difference-between-onblur-vs-ontouched-30fc)
+- [Dev.to/JS] [Monorepo: Uma Armadilha Disfarçada de Praticidade &lpar;Anti-pattern&rpar;](https://dev.to/jhonesgoncalves/monorepo-uma-armadilha-disfarcada-de-praticidade-anti-pattern-5b97)
 - [Dev.to/JS] [Integrating Prettier](https://dev.to/karakib2k18/integrating-prettier-g0j)
 - [Dev.to/JS] [Mastering Problem Solving in JavaScript](https://dev.to/carxstreet9/mastering-problem-solving-in-javascript-5h1f)
 - [Dev.to/JS] [ESLint rules Variables](https://dev.to/karakib2k18/eslint-rules-variables-fb6)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Send Bulk Messages on WhatsApp Business API](https://dev.to/johnmerry/how-to-send-bulk-messages-on-whatsapp-business-api-1f)
 - [Dev.to/JS] [Scalable Enterprise Testing with Vue.js: A Deep Dive into Best Practices and Strategies [Testμ 2023]](https://dev.to/lambdatest/scalable-enterprise-testing-with-vuejs-a-deep-dive-into-best-practices-and-strategies-testm-2023-5bp6)
 - [Dev.to/JS] [Understanding Server-Side Rendering &lpar;SSR&rpar; vs. Client-Side Rendering &lpar;CSR&rpar;](https://dev.to/haszankauna/understanding-server-side-rendering-ssr-vs-client-side-rendering-csr-8gi)
-- [Dev.to/JS] [Socket.io: Real-time Web Communication Made Easy Introduction](https://dev.to/bekbrace/socketio-real-time-web-communication-made-easy-introduction-1748)
-- [Dev.to/JS] [Angular Interview Coding Question](https://dev.to/deepachaurasia1/angular-interview-coding-question-1gok)
-- [Dev.to/JS] [Inside React useState](https://dev.to/qhphan/inside-react-usestate-n41)
-- [Dev.to/JS] [📢#BlackFriday23 LIMITED OFFER Only 117 Discounts left❗️](https://dev.to/mdbootstrap/blackfriday23-limited-offer-only-117-discounts-left-4gmh)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
