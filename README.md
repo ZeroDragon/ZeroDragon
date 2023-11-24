@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mobile Responsive Website With HTML CSS - How To Make Responsive Website](https://dev.to/codingcss/mobile-responsive-website-with-html-css-how-to-make-responsive-website-8i4)
+- [Dev.to/JS] [Blockchain developer Do This &amp; Save Time](https://dev.to/wahidanon/blockchain-developer-do-this-save-time-aeh)
+- [Dev.to/JS] [Enhancing Search Functionality in React with Debouncing](https://dev.to/mritunjaysaha/enhancing-search-functionality-in-react-with-debouncing-op2)
+- [Dev.to/JS] [is it possible to return the same component in same function?](https://dev.to/ari-coding/is-it-possible-to-return-the-same-component-in-same-function-5872)
 - [Dev.to/JS] [Why Webpack? Exploring Its Role in Web Development](https://dev.to/joseph42a/why-webpack-exploring-its-role-in-web-development-4bco)
 - [Dev.to/JS] [Javascript Method #4 : Array Flat &amp; FlatMap](https://dev.to/ichsanputr/javascript-method-4-array-flat-flatmap-4kge)
+- [Lifehacker] [These Are the Best Black Friday Deals on Sex Toys](https://lifehacker.com/money/best-black-friday-deals-on-sex-toys)
+- [Lifehacker] [These Are the Best Apple AirTag Sales for Black Friday](https://lifehacker.com/tech/best-apple-airtag-deals-black-friday)
 - [Dev.to/JS] [Tracking Down Lost Bitcoins and Other Cryptos: Hire iBolt Cyber Hacker Mastermind Behind Recovery](https://dev.to/modrilucario/tracking-down-lost-bitcoins-and-other-cryptos-hire-ibolt-cyber-hacker-mastermind-behind-recovery-3cce)
 - [Dev.to/JS] [Javascipt Method #3 : Array Every, Filter &amp; Reduce](https://dev.to/ichsanputr/javascipt-method-3-array-every-filter-1002)
 - [Dev.to/JS] [Javascript Method #2 : Array Concat &amp; copyWithin](https://dev.to/ichsanputr/javascript-method-2-array-concat-copywithin-274i)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Taking a Glimpse of What TRPC IS?](https://dev.to/bhavesh_yadav/taking-a-glimpse-of-what-trpc-is-4fc7)
 - [Dev.to/JS] [How to convert an Object into an array?](https://dev.to/aishwaryamali24/how-to-convert-an-object-into-an-array-7hl)
 - [Lifehacker] [These Are the Best Black Friday Chromebook Sales](https://lifehacker.com/tech/best-chromebook-black-friday-deals)
-- [Dev.to/JS] [Dog Makeover Game | HTML, CSS &amp; JavaScript Project](https://dev.to/codingcss/dog-makeover-game-html-css-javascript-project-2k5m)
 - [Lifehacker] [These Are the Best Black Friday Sales on MacBooks](https://lifehacker.com/tech/best-black-friday-macbook-deals)
-- [Dev.to/JS] [JavaScript&#39;s Grouping Methods: Object.groupBy and Map.groupBy 🤯](https://dev.to/shameel/javascripts-grouping-methods-objectgroupby-and-mapgroupby-aba)
-- [Dev.to/JS] [You dont need JS for that? 🤯](https://dev.to/shubhambattoo/you-dont-need-js-for-that-370i)
-- [Dev.to/JS] [Exploring the unusual: JavaScript arrays and the &#39;in&#39; operator](https://dev.to/subaash_b/exploring-the-unusual-javascript-arrays-and-the-in-operator-jlh)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 26 Best Historical Epics Streaming Right Now](https://lifehacker.com/entertainment/best-historical-epics-streaming)
 - [Lifehacker] [You Can Now Try ChatGPT’s ‘Chat With Voice’ Feature for Free](https://lifehacker.com/tech/chatgpt-voice-chat-now-free)
 - [Lifehacker] [TikTok Myth of the Week: Vegetables Are Bad for You](https://lifehacker.com/health/tiktok-myth-vegetables-are-bad-for-you)
-- [Lifehacker] [‘Batch’ Your Cocktails for Holiday Hosting Success](https://lifehacker.com/food-drink/holiday-cocktail-batching)
-- [Lifehacker] [Use This New Google Maps Feature to Make Plans With Your Friends](https://lifehacker.com/tech/use-google-maps-lists-to-make-plans-with-friends)
-- [Lifehacker] [What&#39;s New on Disney+ in December 2023](https://lifehacker.com/entertainment/disney-plus-december-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [‘Batch’ Your Cocktails for Holiday Hosting Success](https://lifehacker.com/food-drink/holiday-cocktail-batching)<!-- TECH-POSTS:END -->
 
 ---
 
