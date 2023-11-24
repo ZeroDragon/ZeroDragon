@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Webpack? Exploring Its Role in Web Development](https://dev.to/joseph42a/why-webpack-exploring-its-role-in-web-development-4bco)
+- [Dev.to/JS] [Javascript Method #4 : Array Flat &amp; FlatMap](https://dev.to/ichsanputr/javascript-method-4-array-flat-flatmap-4kge)
 - [Dev.to/JS] [Tracking Down Lost Bitcoins and Other Cryptos: Hire iBolt Cyber Hacker Mastermind Behind Recovery](https://dev.to/modrilucario/tracking-down-lost-bitcoins-and-other-cryptos-hire-ibolt-cyber-hacker-mastermind-behind-recovery-3cce)
-- [Dev.to/JS] [Javascipt Method #3 : Array Every &amp; Filter](https://dev.to/ichsanputr/javascipt-method-3-array-every-filter-1002)
+- [Dev.to/JS] [Javascipt Method #3 : Array Every, Filter &amp; Reduce](https://dev.to/ichsanputr/javascipt-method-3-array-every-filter-1002)
 - [Dev.to/JS] [Javascript Method #2 : Array Concat &amp; copyWithin](https://dev.to/ichsanputr/javascript-method-2-array-concat-copywithin-274i)
+- [Lifehacker] [The Best Black Friday Sales Under $500 for Windows Laptops](https://lifehacker.com/tech/best-black-friday-laptops-under-500)
 - [Dev.to/JS] [Passkeys in Existing Keycloak app](https://dev.to/corbado/passkeys-in-existing-keycloak-app-545g)
+- [Lifehacker] [How to Contact Amazon Customer Service on Black Friday](https://lifehacker.com/money/contact-amazon-customer-service-on-black-friday)
 - [Dev.to/JS] [Taking a Glimpse of What TRPC IS?](https://dev.to/bhavesh_yadav/taking-a-glimpse-of-what-trpc-is-4fc7)
 - [Dev.to/JS] [How to convert an Object into an array?](https://dev.to/aishwaryamali24/how-to-convert-an-object-into-an-array-7hl)
 - [Lifehacker] [These Are the Best Black Friday Chromebook Sales](https://lifehacker.com/tech/best-chromebook-black-friday-deals)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript&#39;s Grouping Methods: Object.groupBy and Map.groupBy 🤯](https://dev.to/shameel/javascripts-grouping-methods-objectgroupby-and-mapgroupby-aba)
 - [Dev.to/JS] [You dont need JS for that? 🤯](https://dev.to/shubhambattoo/you-dont-need-js-for-that-370i)
 - [Dev.to/JS] [Exploring the unusual: JavaScript arrays and the &#39;in&#39; operator](https://dev.to/subaash_b/exploring-the-unusual-javascript-arrays-and-the-in-operator-jlh)
-- [Dev.to/JS] [Convert firestore admin timestamp to date in javascript/nodejs/nextjs](https://dev.to/abdullrauf/convert-firestore-admin-timestamp-to-date-cj6)
-- [Dev.to/JS] [Comparing Currency Formatting in JavaScript and Go: A Case Study](https://dev.to/eworld/comparing-currency-formatting-in-javascript-and-go-a-case-study-2j2a)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok Myth of the Week: Vegetables Are Bad for You](https://lifehacker.com/health/tiktok-myth-vegetables-are-bad-for-you)
 - [Lifehacker] [‘Batch’ Your Cocktails for Holiday Hosting Success](https://lifehacker.com/food-drink/holiday-cocktail-batching)
 - [Lifehacker] [Use This New Google Maps Feature to Make Plans With Your Friends](https://lifehacker.com/tech/use-google-maps-lists-to-make-plans-with-friends)
-- [Lifehacker] [What&#39;s New on Disney+ in December 2023](https://lifehacker.com/entertainment/disney-plus-december-2023)
-- [Lifehacker] [What&#39;s New on Hulu in December 2023](https://lifehacker.com/entertainment/new-releases-hulu-december-2023)
-- [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Disney+ in December 2023](https://lifehacker.com/entertainment/disney-plus-december-2023)<!-- TECH-POSTS:END -->
 
 ---
 
