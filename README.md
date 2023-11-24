@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Edinson Carranza Saldana](https://dev.to/ockang/edinson-carranza-saldana-5cki)
+- [Dev.to/JS] [Pass the CLF-C01 Exam with Confidence Using Dumps](https://dev.to/clfexamdumps/pass-the-clf-c01-exam-with-confidence-using-dumps-4n8a)
+- [Dev.to/JS] [ĐẶT CƯỢC, HƯỚNG DẪN](https://dev.to/linksm66/dat-cuoc-huong-dan-183c)
 - [Dev.to/JS] [My Experience building with OpenAI&#39;s Assistants API](https://dev.to/terrytanys/my-experience-building-with-openais-assistants-api-226b)
 - [Dev.to/JS] [Key Facts of Angular v17 Hydration 💦](https://dev.to/junlow/key-facts-of-angular-v17-hydration-56e)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Comprehensive Guide To The Event Loop and Asynchronous Programming in JavaScript](https://dev.to/opensign/a-comprehensive-guide-to-the-event-loop-and-asynchronous-programming-in-javascript-46l0)
 - [Dev.to/JS] [NodeVM: The Good and Tricky](https://dev.to/opensourcee/nodevm-the-good-and-tricky-3ooj)
 - [Dev.to/JS] [How to waive security issues in your JavaScript frontend project](https://dev.to/lebbe/how-to-waive-security-issues-in-your-javascript-frontend-project-2m2n)
-- [Dev.to/JS] [Benchmark TypeScript Parsers: Demystify Rust Tooling Performance](https://dev.to/herrington_darkholme/benchmark-typescript-parsers-demystify-rust-tooling-performance-2go8)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
-- [Dev.to/JS] [Episode 23/46: Implicit Imports &amp; Signal-based inputs, Becoming Angular Contributor, DI deep-dive](https://dev.to/this-is-angular/episode-2346-implicit-imports-signal-based-inputs-becoming-angular-contributor-di-deep-dive-2jl)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
-- [Dev.to/JS] [Responsive Number Counting Animation With JavaScript Project With Source Code](https://dev.to/codingcss/responsive-number-counting-animation-with-javascript-project-with-source-code-2m5)
 - [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
