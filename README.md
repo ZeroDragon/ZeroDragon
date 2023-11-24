@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Block Inline Styles and Scripts in Playwright Scripts](https://dev.to/mikestopcontinues/block-inline-styles-and-scripts-in-playwright-scripts-nkl)
 - [Dev.to/JS] [Syncing solid-js resources to a global store](https://dev.to/andi23rosca/syncing-solid-js-resources-to-a-global-store-1797)
 - [Dev.to/JS] [Angular Addicts #19: Angular 17, NX 17, Storybook 7.5 &amp; more](https://dev.to/this-is-angular/angular-addicts-19-angular-17-nx-17-storybook-75-more-jkk)
 - [Dev.to/JS] [Soroban Snippets: Basic of Building Dapp](https://dev.to/z5208980/soroban-snippets-basic-of-building-dapp-o0a)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
 - [Dev.to/JS] [Life of programmer](https://dev.to/devshreeom/like-if-u-relate-1i3f)
 - [Dev.to/JS] [Top 7 most used JavaScript syntaxes](https://dev.to/lucassacheto/top-7-most-used-javascript-syntaxes-41mc)
-- [Dev.to/JS] [Hope to get help from God.](https://dev.to/xfl1560907gby/hope-to-get-help-from-god-17o0)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
