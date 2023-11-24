@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;m just wondering how to create a WebSocket that listens for matches in the API query parameters](https://dev.to/theholyroller/im-just-wondering-how-to-create-a-websocket-that-listens-for-matches-in-the-api-query-parameters-2c04)
+- [Dev.to/JS] [Speed Run de MicroFrontends com Single-SPA &lpar;any%&rpar;](https://dev.to/mbarbosasan/speed-run-de-microfrontends-com-single-spa-any-2dl4)
+- [Dev.to/JS] [Mastering React Performance: In-Depth Guide to useCallback and useMemo. 🚀](https://dev.to/maitrish/mastering-react-performance-in-depth-guide-to-usecallback-and-usememo-5114)
+- [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
+- [Lifehacker] [These Are the Best NAS and Hard Drive Sales on Black Friday](https://lifehacker.com/tech/best-nas-hard-drive-deals-black-friday)
 - [Dev.to/JS] [Route parameters in node.js](https://dev.to/pawpartyka/route-parameters-in-nodejs-44k5)
+- [Lifehacker] [The Best Black Friday Deals on Appliances](https://lifehacker.com/home/best-black-friday-deals-on-appliances)
 - [Lifehacker] [The Best Windows Laptops on Sale for Black Friday for Under $300](https://lifehacker.com/tech/best-black-friday-laptops-under-300)
 - [Lifehacker] [These Are the Best Black Friday Deals on Self-Care Tools](https://lifehacker.com/money/black-friday-deals-on-self-care-tools)
 - [Dev.to/JS] [Exploring OpenSign v1.0.6-beta: A Leap Forward in Digital Signature Software](https://dev.to/opensign/exploring-opensign-v106-beta-a-leap-forward-in-digital-signature-software-160f)
@@ -41,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [50+ Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
 - [Lifehacker] [The Best Apple Watch Sales on Black Friday](https://lifehacker.com/tech/best-apple-watch-deals-black-friday)
 - [Dev.to/JS] [Why Webpack? Exploring Its Role in Web Development](https://dev.to/joseph42a/why-webpack-exploring-its-role-in-web-development-4bco)
-- [Dev.to/JS] [Javascript Method #4 : Array Flat &amp; FlatMap](https://dev.to/ichsanputr/javascript-method-4-array-flat-flatmap-4kge)
 - [Lifehacker] [These Are the Best Black Friday Deals on Sex Toys](https://lifehacker.com/money/best-black-friday-deals-on-sex-toys)
 - [Lifehacker] [These Are the Best Apple AirTag Sales for Black Friday](https://lifehacker.com/tech/best-apple-airtag-deals-black-friday)
-- [Dev.to/JS] [Tracking Down Lost Bitcoins and Other Cryptos: Hire iBolt Cyber Hacker Mastermind Behind Recovery](https://dev.to/modrilucario/tracking-down-lost-bitcoins-and-other-cryptos-hire-ibolt-cyber-hacker-mastermind-behind-recovery-3cce)
-- [Dev.to/JS] [Javascipt Method #3 : Array Every, Filter &amp; Reduce](https://dev.to/ichsanputr/javascipt-method-3-array-every-filter-1002)
 - [Lifehacker] [The Best Black Friday Sales Under $500 for Windows Laptops](https://lifehacker.com/tech/best-black-friday-laptops-under-500)
 - [Lifehacker] [How to Contact Amazon Customer Service on Black Friday](https://lifehacker.com/money/contact-amazon-customer-service-on-black-friday)
 - [Lifehacker] [These Are the Best Black Friday Chromebook Sales](https://lifehacker.com/tech/best-chromebook-black-friday-deals)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
 - [Lifehacker] [Walmart&#39;s Best Black Friday Bargains](https://lifehacker.com/money/walmarts-best-black-friday-bargains)
 - [Lifehacker] [The Best Deals From Best Buy&#39;s Black Friday Sale](https://lifehacker.com/best-buys-black-friday-calendar-1850942632)
-- [Lifehacker] [The Best Black Friday Deals on Treadmills and Walking Pads](https://lifehacker.com/health/black-friday-deals-treadmills-and-walking-pads)
-- [Lifehacker] [The Quickest Way to Soften Butter Without a Microwave](https://lifehacker.com/food-drink/soften-butter-quickly-without-microwave)
-- [Lifehacker] [These Are Amazon’s Best Black Friday Deals on Board Games](https://lifehacker.com/entertainment/amazon-black-friday-deals-on-board-games)
-- [Lifehacker] [Ten Clever Ways to Put Up Christmas Lights With Less Stress](https://lifehacker.com/home/christmas-light-decorating-hacks)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Black Friday Deals on Treadmills and Walking Pads](https://lifehacker.com/health/black-friday-deals-treadmills-and-walking-pads)<!-- TECH-POSTS:END -->
 
 ---
 
