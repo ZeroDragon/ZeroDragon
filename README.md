@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tracking Down Lost Bitcoins and Other Cryptos: Hire iBolt Cyber Hacker Mastermind Behind Recovery](https://dev.to/modrilucario/tracking-down-lost-bitcoins-and-other-cryptos-hire-ibolt-cyber-hacker-mastermind-behind-recovery-3cce)
+- [Dev.to/JS] [Javascipt Method #3 : Array Every &amp; Filter](https://dev.to/ichsanputr/javascipt-method-3-array-every-filter-1002)
+- [Dev.to/JS] [Javascript Method #2 : Array Concat &amp; copyWithin](https://dev.to/ichsanputr/javascript-method-2-array-concat-copywithin-274i)
+- [Dev.to/JS] [Passkeys in Existing Keycloak app](https://dev.to/corbado/passkeys-in-existing-keycloak-app-545g)
 - [Dev.to/JS] [Taking a Glimpse of What TRPC IS?](https://dev.to/bhavesh_yadav/taking-a-glimpse-of-what-trpc-is-4fc7)
 - [Dev.to/JS] [How to convert an Object into an array?](https://dev.to/aishwaryamali24/how-to-convert-an-object-into-an-array-7hl)
+- [Lifehacker] [These Are the Best Black Friday Chromebook Sales](https://lifehacker.com/tech/best-chromebook-black-friday-deals)
 - [Dev.to/JS] [Dog Makeover Game | HTML, CSS &amp; JavaScript Project](https://dev.to/codingcss/dog-makeover-game-html-css-javascript-project-2k5m)
+- [Lifehacker] [These Are the Best Black Friday Sales on MacBooks](https://lifehacker.com/tech/best-black-friday-macbook-deals)
 - [Dev.to/JS] [JavaScript&#39;s Grouping Methods: Object.groupBy and Map.groupBy 🤯](https://dev.to/shameel/javascripts-grouping-methods-objectgroupby-and-mapgroupby-aba)
 - [Dev.to/JS] [You dont need JS for that? 🤯](https://dev.to/shubhambattoo/you-dont-need-js-for-that-370i)
 - [Dev.to/JS] [Exploring the unusual: JavaScript arrays and the &#39;in&#39; operator](https://dev.to/subaash_b/exploring-the-unusual-javascript-arrays-and-the-in-operator-jlh)
 - [Dev.to/JS] [Convert firestore admin timestamp to date in javascript/nodejs/nextjs](https://dev.to/abdullrauf/convert-firestore-admin-timestamp-to-date-cj6)
 - [Dev.to/JS] [Comparing Currency Formatting in JavaScript and Go: A Case Study](https://dev.to/eworld/comparing-currency-formatting-in-javascript-and-go-a-case-study-2j2a)
-- [Dev.to/JS] [My New Nextjs Project &quot;Devletter&quot; 🔥](https://dev.to/random_ti/my-new-nextjs-project-devletter-5c2l)
-- [Dev.to/JS] [DEVWorld BLACK FRIDAY : Code, Conquer, and Score Big!](https://dev.to/devworld_conf/devworld-black-friday-code-conquer-and-score-big-2bh8)
-- [Dev.to/JS] [Your values are &#39;Truthy&#39; or &#39;Falsy&#39;, JavaScript](https://dev.to/milanx/your-values-are-truthy-or-falsy-javascript-1i88)
-- [Dev.to/JS] [Javascript Method #1 : Array Map](https://dev.to/ichsanputr/javascript-method-1-array-map-2ij8)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This New Google Maps Feature to Make Plans With Your Friends](https://lifehacker.com/tech/use-google-maps-lists-to-make-plans-with-friends)
 - [Lifehacker] [What&#39;s New on Disney+ in December 2023](https://lifehacker.com/entertainment/disney-plus-december-2023)
 - [Lifehacker] [What&#39;s New on Hulu in December 2023](https://lifehacker.com/entertainment/new-releases-hulu-december-2023)
-- [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)
-- [Lifehacker] [The Newest Nest Hub Is 50% Off for Black Friday](https://lifehacker.com/tech/google-nest-hub-black-friday-deal)
-- [Lifehacker] [How to Protect Your Finances From Identity Theft](https://lifehacker.com/money/how-to-protect-your-finances-from-identity-theft)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If Tree Roots Are Growing in Your Sewer Line](https://lifehacker.com/home/cleaning-tree-roots-in-sewer-line)<!-- TECH-POSTS:END -->
 
 ---
 
