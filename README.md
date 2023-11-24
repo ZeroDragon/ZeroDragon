@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating JavaScript with Ease: Unveiling `is.null` and `is.not_null` from &#39;thiis&#39;](https://dev.to/karbashevskyi/navigating-javascript-with-ease-unveiling-isnull-and-isnotnull-from-thiis-402m)
 - [Dev.to/JS] [Edinson Carranza Saldana](https://dev.to/ockang/edinson-carranza-saldana-5cki)
 - [Dev.to/JS] [Pass the CLF-C01 Exam with Confidence Using Dumps](https://dev.to/clfexamdumps/pass-the-clf-c01-exam-with-confidence-using-dumps-4n8a)
 - [Dev.to/JS] [ĐẶT CƯỢC, HƯỚNG DẪN](https://dev.to/linksm66/dat-cuoc-huong-dan-183c)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Soroban Snippets: Basic of Building Dapp](https://dev.to/z5208980/soroban-snippets-basic-of-building-dapp-o0a)
 - [Dev.to/JS] [A Comprehensive Guide To The Event Loop and Asynchronous Programming in JavaScript](https://dev.to/opensign/a-comprehensive-guide-to-the-event-loop-and-asynchronous-programming-in-javascript-46l0)
 - [Dev.to/JS] [NodeVM: The Good and Tricky](https://dev.to/opensourcee/nodevm-the-good-and-tricky-3ooj)
-- [Dev.to/JS] [How to waive security issues in your JavaScript frontend project](https://dev.to/lebbe/how-to-waive-security-issues-in-your-javascript-frontend-project-2m2n)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
 - [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
