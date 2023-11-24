@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Experience building with OpenAI&#39;s Assistants API](https://dev.to/terrytanys/my-experience-building-with-openais-assistants-api-226b)
 - [Dev.to/JS] [Key Facts of Angular v17 Hydration 💦](https://dev.to/junlow/key-facts-of-angular-v17-hydration-56e)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
 - [Dev.to/JS] [Block Inline Styles and Scripts in Playwright Scripts](https://dev.to/mikestopcontinues/block-inline-styles-and-scripts-in-playwright-scripts-nkl)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
 - [Dev.to/JS] [Responsive Number Counting Animation With JavaScript Project With Source Code](https://dev.to/codingcss/responsive-number-counting-animation-with-javascript-project-with-source-code-2m5)
 - [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
-- [Dev.to/JS] [Life of programmer](https://dev.to/devshreeom/like-if-u-relate-1i3f)
 - [Lifehacker] [These Are Some of Walmart&#39;s Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
