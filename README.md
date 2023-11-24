@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrating Prettier](https://dev.to/karakib2k18/integrating-prettier-g0j)
+- [Dev.to/JS] [Mastering Problem Solving in JavaScript](https://dev.to/carxstreet9/mastering-problem-solving-in-javascript-5h1f)
+- [Dev.to/JS] [ESLint rules Variables](https://dev.to/karakib2k18/eslint-rules-variables-fb6)
+- [Dev.to/JS] [ESLint Global Variables](https://dev.to/karakib2k18/eslint-global-variables-obh)
 - [Dev.to/JS] [You like &#39;deep&#39; or &#39;shallow&#39; copy](https://dev.to/milanx/you-like-deep-or-shallow-copy-109f)
 - [Dev.to/JS] [How to Send Bulk Messages on WhatsApp Business API](https://dev.to/johnmerry/how-to-send-bulk-messages-on-whatsapp-business-api-1f)
 - [Dev.to/JS] [Scalable Enterprise Testing with Vue.js: A Deep Dive into Best Practices and Strategies [Testμ 2023]](https://dev.to/lambdatest/scalable-enterprise-testing-with-vuejs-a-deep-dive-into-best-practices-and-strategies-testm-2023-5bp6)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Interview Coding Question](https://dev.to/deepachaurasia1/angular-interview-coding-question-1gok)
 - [Dev.to/JS] [Inside React useState](https://dev.to/qhphan/inside-react-usestate-n41)
 - [Dev.to/JS] [📢#BlackFriday23 LIMITED OFFER Only 117 Discounts left❗️](https://dev.to/mdbootstrap/blackfriday23-limited-offer-only-117-discounts-left-4gmh)
-- [Dev.to/JS] [Contributing to Open Source: Adding Prettier Feature to Live-ATC](https://dev.to/bhmistry/contributing-to-open-source-adding-prettier-feature-to-live-atc-cl)
-- [Dev.to/JS] [Navigating JavaScript with Ease: Unveiling `is.null` and `is.not_null` from &#39;thiis&#39;](https://dev.to/karbashevskyi/navigating-javascript-with-ease-unveiling-isnull-and-isnotnull-from-thiis-402m)
-- [Dev.to/JS] [Edinson Carranza Saldana](https://dev.to/ockang/edinson-carranza-saldana-5cki)
-- [Dev.to/JS] [Pass the CLF-C01 Exam with Confidence Using Dumps](https://dev.to/clfexamdumps/pass-the-clf-c01-exam-with-confidence-using-dumps-4n8a)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
