@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning React ASAP...](https://dev.to/tani1964/learn-react-asap-4948)
+- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/cashapp41/buy-old-gmail-accounts-38p3)
+- [Dev.to/JS] [Higher order component.](https://dev.to/anandsg/higher-order-component-235g)
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/cashapp41/buy-google-reviews-3j37)
+- [Dev.to/JS] [Buy Verified Cash App Account](https://dev.to/cashapp41/buy-verified-cash-app-account-5104)
+- [Lifehacker] [Why You Should Consider an Upflush Toilet](https://lifehacker.com/home/upflush-toilet-for-basements)
 - [Dev.to/JS] [Code Smell 232 - Reusable Code](https://dev.to/mcsee/code-smell-232-reusable-code-44p5)
 - [Dev.to/JS] [Implementing Drag-and-Drop using Svelte 5](https://dev.to/artxe2/implementing-drag-and-drop-using-svelte-5-767)
 - [Lifehacker] [How to Get a Sale Price on an Item You&#39;ve Already Bought](https://lifehacker.com/money/price-adjustment-after-purchasing)
@@ -37,13 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Try Copilot, Microsoft&#39;s New AI Assistant, In Windows 10](https://lifehacker.com/tech/how-to-try-windows-10-copilot)
 - [Dev.to/JS] [Website Monetization](https://dev.to/jshep23prog/website-monetization-2543)
 - [Lifehacker] [The Best Apps to Track Progress on Your New Year&#39;s Goals](https://lifehacker.com/tech/new-years-resolution-goal-tracking-apps-2024)
-- [Dev.to/JS] [How To Create Responsive Website Using HTML CSS and Some jQuery](https://dev.to/codingcss/how-to-create-responsive-website-using-html-css-and-some-jquery-aa)
-- [Dev.to/JS] [Setup CRUD App: Express, Typescript and MySQL](https://dev.to/sumitbhanushali/setup-crud-app-express-typescript-and-mysql-2knh)
 - [Lifehacker] [How to Fix a Leaking Dryer Vent &lpar;and Why You Absolutely Should&rpar;](https://lifehacker.com/home/signs-of-leaking-dryer-vent-and-how-to-fix)
-- [Dev.to/JS] [20ft Air Inflatable Dancers: The Giant Waving Puppets That Will Take Your Business to the Next Level](https://dev.to/katiethomas411/20ft-air-inflatable-dancers-the-giant-waving-puppets-that-will-take-your-business-to-the-next-level-174a)
-- [Dev.to/JS] [New issues are coming in the next days 👀](https://dev.to/opensourcee/new-issues-are-coming-in-the-few-days-293b)
 - [Lifehacker] [Why You Shouldn&#39;t Fertilize Your Houseplants During the Winter](https://lifehacker.com/home/guide-fertilizing-houseplants-during-the-winter)
-- [Dev.to/JS] [Unveiling the Magic of Promises with `is.promise` and `is.not_promise` from &#39;thiis&#39;](https://dev.to/karbashevskyi/unveiling-the-magic-of-promises-with-ispromise-and-isnotpromise-from-thiis-46ml)
 - [Lifehacker] [You Can Stop Drafts From Coming Through Your Electrical Sockets](https://lifehacker.com/home/fix-drafty-electrical-outlets)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Steaming the Pud](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-two)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Windows Laptops on Sale for Black Friday for Under $300](https://lifehacker.com/tech/best-black-friday-laptops-under-300)
 - [Lifehacker] [These Are the Best Black Friday Deals on Self-Care Tools](https://lifehacker.com/money/black-friday-deals-on-self-care-tools)
 - [Lifehacker] [These Are the Best iPhone Apps on Sale for Black Friday](https://lifehacker.com/tech/best-iphone-apps-black-friday)
-- [Lifehacker] [The Best Black Friday Deals on Pro Windows Laptops for Less Than $1000](https://lifehacker.com/tech/black-friday-deals-on-pro-windows-laptops)
-- [Lifehacker] [The Best Apple Watch Sales on Black Friday](https://lifehacker.com/tech/best-apple-watch-deals-black-friday)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Black Friday Deals on Pro Windows Laptops for Less Than $1000](https://lifehacker.com/tech/black-friday-deals-on-pro-windows-laptops)<!-- TECH-POSTS:END -->
 
 ---
 
