@@ -26,7 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Yes! There’s a Technology that’s Faster than React!](https://dev.to/shariqahmed525/yes-theres-a-technology-thats-faster-than-react-3ah2)
+- [Dev.to/JS] [Uncovering the React Universe: The Starter Guide](https://dev.to/kecbm/uncovering-the-react-universe-the-starter-guide-3jkf)
+- [Dev.to/JS] [Teste A/B em larga escala: Como testar uma aplicação com 1 milhão de usuários?](https://dev.to/paulinhoprado/teste-ab-em-larga-escala-como-testar-uma-aplicacao-com-1-milhao-de-usuarios-4623)
+- [Dev.to/JS] [Mastering useState: A Guide to Avoiding Common Pitfalls in React Development](https://dev.to/serifcolakel/mastering-usestate-a-guide-to-avoiding-common-pitfalls-in-react-development-ibp)
 - [Dev.to/JS] [Wizard James Is A Remarkable Crypto Recovery Agent!!!](https://dev.to/oliverpersson/wizard-james-is-a-remarkable-crypto-recovery-agent-5e38)
+- [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
+- [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
+- [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
+- [Lifehacker] [The Best Black Friday Deals on Smart Heaters and Air Conditioners](https://lifehacker.com/home/best-black-friday-deals-on-smart-heaters-and-air-conditioners)
 - [Dev.to/JS] [20 core Node.js modules](https://dev.to/shreyvijayvargiya/20-core-nodejs-modules-4omh)
 - [Lifehacker] [50+ Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
 - [Lifehacker] [The Best Black Friday Sales on Clothing Essentials](https://lifehacker.com/money/best-black-friday-deals-clothing-essentials)
@@ -45,12 +53,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Black Friday Deals on Self-Care Tools](https://lifehacker.com/money/black-friday-deals-on-self-care-tools)
 - [Dev.to/JS] [Exploring OpenSign v1.0.6-beta: A Leap Forward in Digital Signature Software](https://dev.to/opensign/exploring-opensign-v106-beta-a-leap-forward-in-digital-signature-software-160f)
 - [Dev.to/JS] [Anji, provincia china de Zhejiang](https://dev.to/dylanwaters/anji-provincia-china-de-zhejiang-1h7)
-- [Dev.to/JS] [Parse request body with node.js](https://dev.to/pawpartyka/parse-request-body-with-nodejs-3icl)
 - [Lifehacker] [These Are the Best iPhone Apps on Sale for Black Friday](https://lifehacker.com/tech/best-iphone-apps-black-friday)
-- [Dev.to/JS] [Mobile Responsive Website With HTML CSS - How To Make Responsive Website](https://dev.to/codingcss/mobile-responsive-website-with-html-css-how-to-make-responsive-website-8i4)
-- [Dev.to/JS] [Blockchain developer Do This &amp; Save Time](https://dev.to/wahidanon/blockchain-developer-do-this-save-time-aeh)
 - [Lifehacker] [The Best Black Friday Deals on Pro Windows Laptops for Less Than $1000](https://lifehacker.com/tech/black-friday-deals-on-pro-windows-laptops)
-- [Dev.to/JS] [Enhancing Search Functionality in React with Debouncing](https://dev.to/mritunjaysaha/enhancing-search-functionality-in-react-with-debouncing-op2)
 - [Lifehacker] [The Best Apple Watch Sales on Black Friday](https://lifehacker.com/tech/best-apple-watch-deals-black-friday)
 - [Lifehacker] [These Are the Best Black Friday Deals on Sex Toys](https://lifehacker.com/money/best-black-friday-deals-on-sex-toys)
 - [Lifehacker] [These Are the Best Apple AirTag Sales for Black Friday](https://lifehacker.com/tech/best-apple-airtag-deals-black-friday)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
 - [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
-- [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
-- [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
-- [Lifehacker] [The Key to Better Studying Is Self-Explanation](https://lifehacker.com/family/self-explanation-study-method)
-- [Lifehacker] [15 Amazon Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)<!-- TECH-POSTS:END -->
 
 ---
 
