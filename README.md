@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Query parameters in node.js](https://dev.to/pawpartyka/query-parameters-in-nodejs-2haf)
+- [Dev.to/JS] [🚀 Exciting News for Node.js Developers! 🚀](https://dev.to/maazakn/new-post-3dnd)
+- [Dev.to/JS] [HackTheBox - Writeup Unobtainium [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-unobtainium-1i6d)
+- [Dev.to/JS] [Interview Questions for Web Developer](https://dev.to/cookiemonsterdev/interview-questions-for-web-developer-19b4)
 - [Dev.to/JS] [Exploring All Javascript Array Methods](https://dev.to/ichsanputr/exploring-javascript-array-methods-2017)
 - [Dev.to/JS] [Secure Todos Rest APIs with JWT Authentication](https://dev.to/aneeqakhan/secure-todos-rest-apis-with-jwt-authentication-1bh9)
 - [Dev.to/JS] [Building with React JS: Create your own Youtube Video Player: Starting with Basics](https://dev.to/keyurparalkar/building-with-react-js-create-your-own-youtube-video-player-starting-with-basics-1lpp)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding Code Formatting to Whitebophir Project: A Journey of Contribution](https://dev.to/bhmistry/adding-code-formatting-to-whitebophir-project-a-journey-of-contribution-1o42)
 - [Dev.to/JS] [Crafting Custom flavored Markdown for Svelte with mdsvex](https://dev.to/siddhantkcode/crafting-custom-flavored-markdown-for-svelte-with-mdsvex-12fp)
 - [Dev.to/JS] [#8 React.js Alternatives with Their Use-Case Scenarios](https://dev.to/nikl/8-reactjs-alternatives-with-their-use-case-scenarios-1h10)
-- [Dev.to/JS] [I made a step-by-step form demo like Typeform using Swiper.js!](https://dev.to/higashikota/i-made-a-step-by-step-form-demo-like-typeform-using-swiperjs-3g5a)
-- [Dev.to/JS] [Responsive Product Card Landing Page HTML CSS JAVASCRIPT](https://dev.to/codingcss/responsive-product-card-landing-page-html-css-javascript-mmi)
-- [Dev.to/JS] [Unveiling the Unparalleled Style: Essentials Hoodie Collection by Fear of God](https://dev.to/dksmith/unveiling-the-unparalleled-style-essentials-hoodie-collection-by-fear-of-god-4o1f)
-- [Dev.to/JS] [PCB Potting Compound](https://dev.to/pcbpotcom/pcb-potting-compound-3ffe)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
 - [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
