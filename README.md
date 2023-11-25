@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Revamp Your Skin: Laser Skin Resurfacing Trends in Riyadh](https://dev.to/tayyeba55/revamp-your-skin-laser-skin-resurfacing-trends-in-riyadh-39k2)
+- [Dev.to/JS] [Check phạt nguội](https://dev.to/checkphatnguoi8/check-phat-nguoi-1e3f)
 - [Dev.to/JS] [Implementation of Authorization Middleware with NestJS](https://dev.to/awahids/implementation-of-authorization-middleware-with-nestjs-4292)
 - [Dev.to/JS] [6 TOP JAVASCRIPT TRICKS FOR CLEANER CODE](https://dev.to/big_smoke/6-top-javascript-tricks-for-cleaner-code-1mck)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
@@ -42,14 +44,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
 - [Lifehacker] [The Best Black Friday Deals on Smart Heaters and Air Conditioners](https://lifehacker.com/home/best-black-friday-deals-on-smart-heaters-and-air-conditioners)
-- [Dev.to/JS] [20 core Node.js modules](https://dev.to/shreyvijayvargiya/20-core-nodejs-modules-4omh)
 - [Lifehacker] [50+ Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
 - [Lifehacker] [The Best Black Friday Sales on Clothing Essentials](https://lifehacker.com/money/best-black-friday-deals-clothing-essentials)
 - [Lifehacker] [These Are Some of the Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
 - [Lifehacker] [The Best Black Friday Deals on Vacuums](https://lifehacker.com/home/black-friday-deals-on-vacuums)
 - [Lifehacker] [The Best Black Friday Deals on Gaming Laptops](https://lifehacker.com/tech/best-black-friday-deals-gaming-laptops)
 - [Lifehacker] [The Best Black Friday Sales on Handheld Gaming Consoles](https://lifehacker.com/entertainment/best-handheld-gaming-consoles-black-friday)
-- [Dev.to/JS] [I&#39;m just wondering how to create a WebSocket that listens for matches in the API query parameters](https://dev.to/theholyroller/im-just-wondering-how-to-create-a-websocket-that-listens-for-matches-in-the-api-query-parameters-2c04)
 - [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
 - [Lifehacker] [These Are the Best NAS and Hard Drive Sales on Black Friday](https://lifehacker.com/tech/best-nas-hard-drive-deals-black-friday)
 - [Lifehacker] [The Best Black Friday Deals on Appliances](https://lifehacker.com/home/best-black-friday-deals-on-appliances)
