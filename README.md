@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why lowercase letters save data](https://dev.to/shadowfaxrodeo/why-lowercase-letters-save-data-17p3)
+- [Dev.to/JS] [Level up your NodeJS Dockerfiles with these 3 tips ⚡🐋](https://dev.to/aspnxdd/level-up-your-nodejs-dockerfiles-with-these-3-tips-1gp4)
+- [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
 - [Dev.to/JS] [Build a Custom Context Menu with Tailwind and JavaScript](https://dev.to/itskarelleh/build-a-custom-context-menu-with-tailwind-and-javascript-10hb)
 - [Dev.to/JS] [Understanding Big O Notation Through the Two Sum Problem &lpar;For Beginner&rpar;](https://dev.to/koshirok096/understanding-big-o-notation-through-the-two-sum-problem-for-beginner-1df2)
 - [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing Drag-and-Drop using Svelte 5](https://dev.to/artxe2/implementing-drag-and-drop-using-svelte-5-767)
 - [Lifehacker] [How to Get a Sale Price on an Item You&#39;ve Already Bought](https://lifehacker.com/money/price-adjustment-after-purchasing)
 - [Dev.to/JS] [Buy Verified Coinbase Account](https://dev.to/cashapp74/buy-verified-coinbase-account-11dd)
-- [Dev.to/JS] [[Tutorial] Generate Video Thumbnail for your next video](https://dev.to/iamspathan/tutorial-generate-video-thumbnail-for-your-next-video-f04)
-- [Dev.to/JS] [Google STUN server List.](https://dev.to/alakkadshaw/google-stun-server-list-21n4)
 - [Lifehacker] [Refresh Your Kitchen for Cheap with Vinyl Wrapping](https://lifehacker.com/home/vinyl-wrapping-kitchen-cabinets)
 - [Lifehacker] [How to Try Copilot, Microsoft&#39;s New AI Assistant, In Windows 10](https://lifehacker.com/tech/how-to-try-windows-10-copilot)
 - [Lifehacker] [The Best Apps to Track Progress on Your New Year&#39;s Goals](https://lifehacker.com/tech/new-years-resolution-goal-tracking-apps-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Deals on Appliances](https://lifehacker.com/home/best-black-friday-deals-on-appliances)
 - [Lifehacker] [The Best Windows Laptops on Sale for Black Friday for Under $300](https://lifehacker.com/tech/best-black-friday-laptops-under-300)
 - [Lifehacker] [These Are the Best Black Friday Deals on Self-Care Tools](https://lifehacker.com/money/black-friday-deals-on-self-care-tools)
-- [Lifehacker] [These Are the Best iPhone Apps on Sale for Black Friday](https://lifehacker.com/tech/best-iphone-apps-black-friday)
-- [Lifehacker] [The Best Black Friday Deals on Pro Windows Laptops for Less Than $1000](https://lifehacker.com/tech/black-friday-deals-on-pro-windows-laptops)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best iPhone Apps on Sale for Black Friday](https://lifehacker.com/tech/best-iphone-apps-black-friday)<!-- TECH-POSTS:END -->
 
 ---
 
