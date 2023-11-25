@@ -26,10 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [17 JavaScript Array Methods Everyone Needs to Know](https://dev.to/opensourcee/17-javascript-array-methods-everyone-needs-to-know-1j35)
+- [Dev.to/JS] [Website Monetization](https://dev.to/jshep23prog/website-monetization-2543)
 - [Dev.to/JS] [How To Create Responsive Website Using HTML CSS and Some jQuery](https://dev.to/codingcss/how-to-create-responsive-website-using-html-css-and-some-jquery-aa)
 - [Dev.to/JS] [Setup CRUD App: Express, Typescript and MySQL](https://dev.to/sumitbhanushali/setup-crud-app-express-typescript-and-mysql-2knh)
+- [Lifehacker] [How to Fix a Leaking Dryer Vent &lpar;and Why You Absolutely Should&rpar;](https://lifehacker.com/home/signs-of-leaking-dryer-vent-and-how-to-fix)
 - [Dev.to/JS] [20ft Air Inflatable Dancers: The Giant Waving Puppets That Will Take Your Business to the Next Level](https://dev.to/katiethomas411/20ft-air-inflatable-dancers-the-giant-waving-puppets-that-will-take-your-business-to-the-next-level-174a)
-- [Dev.to/JS] [New issues are coming in the next days](https://dev.to/opensourcee/new-issues-are-coming-in-the-few-days-293b)
+- [Dev.to/JS] [New issues are coming in the next days 👀](https://dev.to/opensourcee/new-issues-are-coming-in-the-few-days-293b)
 - [Lifehacker] [Why You Shouldn&#39;t Fertilize Your Houseplants During the Winter](https://lifehacker.com/home/guide-fertilizing-houseplants-during-the-winter)
 - [Dev.to/JS] [Unveiling the Magic of Promises with `is.promise` and `is.not_promise` from &#39;thiis&#39;](https://dev.to/karbashevskyi/unveiling-the-magic-of-promises-with-ispromise-and-isnotpromise-from-thiis-46ml)
 - [Lifehacker] [You Can Stop Drafts From Coming Through Your Electrical Sockets](https://lifehacker.com/home/fix-drafty-electrical-outlets)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Exciting News for Node.js Developers! 🚀](https://dev.to/maazakn/new-post-3dnd)
 - [Dev.to/JS] [HackTheBox - Writeup Unobtainium [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-unobtainium-1i6d)
 - [Dev.to/JS] [Interview Questions for Web Developer](https://dev.to/cookiemonsterdev/interview-questions-for-web-developer-19b4)
-- [Dev.to/JS] [Exploring All Javascript Array Methods](https://dev.to/ichsanputr/exploring-javascript-array-methods-2017)
-- [Dev.to/JS] [Secure Todos Rest APIs with JWT Authentication](https://dev.to/aneeqakhan/secure-todos-rest-apis-with-jwt-authentication-1bh9)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
 - [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Black Friday Deals on Sex Toys](https://lifehacker.com/money/best-black-friday-deals-on-sex-toys)
 - [Lifehacker] [These Are the Best Apple AirTag Sales for Black Friday](https://lifehacker.com/tech/best-apple-airtag-deals-black-friday)
 - [Lifehacker] [The Best Black Friday Sales Under $500 for Windows Laptops](https://lifehacker.com/tech/best-black-friday-laptops-under-500)
-- [Lifehacker] [How to Contact Amazon Customer Service on Black Friday](https://lifehacker.com/money/contact-amazon-customer-service-on-black-friday)
-- [Lifehacker] [These Are the Best Black Friday Chromebook Sales](https://lifehacker.com/tech/best-chromebook-black-friday-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Contact Amazon Customer Service on Black Friday](https://lifehacker.com/money/contact-amazon-customer-service-on-black-friday)<!-- TECH-POSTS:END -->
 
 ---
 
