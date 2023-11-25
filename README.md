@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Tutorial] Generate Video Thumbnail for your next video](https://dev.to/iamspathan/tutorial-generate-video-thumbnail-for-your-next-video-f04)
+- [Dev.to/JS] [Google STUN server List.](https://dev.to/alakkadshaw/google-stun-server-list-21n4)
 - [Dev.to/JS] [17 JavaScript Array Methods Everyone Needs to Know](https://dev.to/opensourcee/17-javascript-array-methods-everyone-needs-to-know-1j35)
 - [Dev.to/JS] [Website Monetization](https://dev.to/jshep23prog/website-monetization-2543)
+- [Lifehacker] [The Best Apps to Track Progress on Your New Year&#39;s Goals](https://lifehacker.com/tech/new-years-resolution-goal-tracking-apps-2024)
 - [Dev.to/JS] [How To Create Responsive Website Using HTML CSS and Some jQuery](https://dev.to/codingcss/how-to-create-responsive-website-using-html-css-and-some-jquery-aa)
 - [Dev.to/JS] [Setup CRUD App: Express, Typescript and MySQL](https://dev.to/sumitbhanushali/setup-crud-app-express-typescript-and-mysql-2knh)
 - [Lifehacker] [How to Fix a Leaking Dryer Vent &lpar;and Why You Absolutely Should&rpar;](https://lifehacker.com/home/signs-of-leaking-dryer-vent-and-how-to-fix)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Steaming the Pud](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-two)
 - [Dev.to/JS] [Query parameters in node.js](https://dev.to/pawpartyka/query-parameters-in-nodejs-2haf)
 - [Dev.to/JS] [🚀 Exciting News for Node.js Developers! 🚀](https://dev.to/maazakn/new-post-3dnd)
-- [Dev.to/JS] [HackTheBox - Writeup Unobtainium [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-unobtainium-1i6d)
-- [Dev.to/JS] [Interview Questions for Web Developer](https://dev.to/cookiemonsterdev/interview-questions-for-web-developer-19b4)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
 - [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Apple Watch Sales on Black Friday](https://lifehacker.com/tech/best-apple-watch-deals-black-friday)
 - [Lifehacker] [These Are the Best Black Friday Deals on Sex Toys](https://lifehacker.com/money/best-black-friday-deals-on-sex-toys)
 - [Lifehacker] [These Are the Best Apple AirTag Sales for Black Friday](https://lifehacker.com/tech/best-apple-airtag-deals-black-friday)
-- [Lifehacker] [The Best Black Friday Sales Under $500 for Windows Laptops](https://lifehacker.com/tech/best-black-friday-laptops-under-500)
-- [Lifehacker] [How to Contact Amazon Customer Service on Black Friday](https://lifehacker.com/money/contact-amazon-customer-service-on-black-friday)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Black Friday Sales Under $500 for Windows Laptops](https://lifehacker.com/tech/best-black-friday-laptops-under-500)<!-- TECH-POSTS:END -->
 
 ---
 
