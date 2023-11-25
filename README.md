@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wizard James Is A Remarkable Crypto Recovery Agent!!!](https://dev.to/oliverpersson/wizard-james-is-a-remarkable-crypto-recovery-agent-5e38)
 - [Dev.to/JS] [20 core Node.js modules](https://dev.to/shreyvijayvargiya/20-core-nodejs-modules-4omh)
+- [Lifehacker] [50+ Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
+- [Lifehacker] [The Best Black Friday Sales on Clothing Essentials](https://lifehacker.com/money/best-black-friday-deals-clothing-essentials)
 - [Lifehacker] [These Are Some of the Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
+- [Lifehacker] [The Best Black Friday Deals on Vacuums](https://lifehacker.com/home/black-friday-deals-on-vacuums)
 - [Lifehacker] [The Best Black Friday Deals on Gaming Laptops](https://lifehacker.com/tech/best-black-friday-deals-gaming-laptops)
 - [Lifehacker] [The Best Black Friday Sales on Handheld Gaming Consoles](https://lifehacker.com/entertainment/best-handheld-gaming-consoles-black-friday)
 - [Dev.to/JS] [I&#39;m just wondering how to create a WebSocket that listens for matches in the API query parameters](https://dev.to/theholyroller/im-just-wondering-how-to-create-a-websocket-that-listens-for-matches-in-the-api-query-parameters-2c04)
@@ -47,8 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blockchain developer Do This &amp; Save Time](https://dev.to/wahidanon/blockchain-developer-do-this-save-time-aeh)
 - [Lifehacker] [The Best Black Friday Deals on Pro Windows Laptops for Less Than $1000](https://lifehacker.com/tech/black-friday-deals-on-pro-windows-laptops)
 - [Dev.to/JS] [Enhancing Search Functionality in React with Debouncing](https://dev.to/mritunjaysaha/enhancing-search-functionality-in-react-with-debouncing-op2)
-- [Dev.to/JS] [is it possible to return the same component in same function?](https://dev.to/ari-coding/is-it-possible-to-return-the-same-component-in-same-function-5872)
-- [Lifehacker] [50+ Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
 - [Lifehacker] [The Best Apple Watch Sales on Black Friday](https://lifehacker.com/tech/best-apple-watch-deals-black-friday)
 - [Lifehacker] [These Are the Best Black Friday Deals on Sex Toys](https://lifehacker.com/money/best-black-friday-deals-on-sex-toys)
 - [Lifehacker] [These Are the Best Apple AirTag Sales for Black Friday](https://lifehacker.com/tech/best-apple-airtag-deals-black-friday)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Black Friday](https://lifehacker.com/travel/sevylor-k5-inflatable-kayak-sale-black-friday)
 - [Lifehacker] [The Key to Better Studying Is Self-Explanation](https://lifehacker.com/family/self-explanation-study-method)
-- [Lifehacker] [15 Amazon Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)
-- [Lifehacker] [These Are the Best Black Friday Deals on Headphones](https://lifehacker.com/tech/best-black-friday-headphone-deals)
-- [Lifehacker] [Walmart&#39;s Best Black Friday Bargains](https://lifehacker.com/money/walmarts-best-black-friday-bargains)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Amazon Black Friday Tech Deals I’m Actually Excited About](https://lifehacker.com/tech/best-amazon-early-black-friday-tech-deals)<!-- TECH-POSTS:END -->
 
 ---
 
