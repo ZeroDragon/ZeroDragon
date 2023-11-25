@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
 - [Dev.to/JS] [Learning React ASAP...](https://dev.to/tani1964/learn-react-asap-4948)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/cashapp41/buy-old-gmail-accounts-38p3)
 - [Dev.to/JS] [Higher order component.](https://dev.to/anandsg/higher-order-component-235g)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Deals on Vacuums](https://lifehacker.com/home/black-friday-deals-on-vacuums)
 - [Lifehacker] [The Best Black Friday Deals on Gaming Laptops](https://lifehacker.com/tech/best-black-friday-deals-gaming-laptops)
 - [Lifehacker] [The Best Black Friday Sales on Handheld Gaming Consoles](https://lifehacker.com/entertainment/best-handheld-gaming-consoles-black-friday)
-- [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
 - [Lifehacker] [These Are the Best NAS and Hard Drive Sales on Black Friday](https://lifehacker.com/tech/best-nas-hard-drive-deals-black-friday)
 - [Lifehacker] [The Best Black Friday Deals on Appliances](https://lifehacker.com/home/best-black-friday-deals-on-appliances)
 - [Lifehacker] [The Best Windows Laptops on Sale for Black Friday for Under $300](https://lifehacker.com/tech/best-black-friday-laptops-under-300)
