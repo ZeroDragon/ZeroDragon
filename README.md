@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Magic of Promises with `is.promise` and `is.not_promise` from &#39;thiis&#39;](https://dev.to/karbashevskyi/unveiling-the-magic-of-promises-with-ispromise-and-isnotpromise-from-thiis-46ml)
+- [Dev.to/JS] [Dive into the Inside Job Universe with Inside Verse API 👁️](https://dev.to/benoitpetit/dive-into-the-inside-job-universe-with-inside-verse-api-1c1m)
+- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Steaming the Pud](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-two)
 - [Dev.to/JS] [Query parameters in node.js](https://dev.to/pawpartyka/query-parameters-in-nodejs-2haf)
 - [Dev.to/JS] [🚀 Exciting News for Node.js Developers! 🚀](https://dev.to/maazakn/new-post-3dnd)
 - [Dev.to/JS] [HackTheBox - Writeup Unobtainium [Retired]](https://dev.to/mrtnsgs/hackthebox-writeup-unobtainium-1i6d)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Latest Newsletter: Passing the Baton of Chaos &lpar;Issue #142&rpar;](https://dev.to/mjgs/latest-newsletter-passing-the-baton-of-chaos-issue-142-1168)
 - [Dev.to/JS] [CLF-C01 Exam Dumps: The Ultimate AWS Learning Resource](https://dev.to/clfc01exam/clf-c01-exam-dumps-the-ultimate-aws-learning-resource-2bf1)
 - [Dev.to/JS] [Adding Code Formatting to Whitebophir Project: A Journey of Contribution](https://dev.to/bhmistry/adding-code-formatting-to-whitebophir-project-a-journey-of-contribution-1o42)
-- [Dev.to/JS] [Crafting Custom flavored Markdown for Svelte with mdsvex](https://dev.to/siddhantkcode/crafting-custom-flavored-markdown-for-svelte-with-mdsvex-12fp)
-- [Dev.to/JS] [#8 React.js Alternatives with Their Use-Case Scenarios](https://dev.to/nikl/8-reactjs-alternatives-with-their-use-case-scenarios-1h10)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
 - [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Contact Amazon Customer Service on Black Friday](https://lifehacker.com/money/contact-amazon-customer-service-on-black-friday)
 - [Lifehacker] [These Are the Best Black Friday Chromebook Sales](https://lifehacker.com/tech/best-chromebook-black-friday-deals)
 - [Lifehacker] [These Are the Best Black Friday Sales on MacBooks](https://lifehacker.com/tech/best-black-friday-macbook-deals)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
-- [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)<!-- TECH-POSTS:END -->
 
 ---
 
