@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made a step-by-step form demo like Typeform using Swiper.js!](https://dev.to/higashikota/i-made-a-step-by-step-form-demo-like-typeform-using-swiperjs-3g5a)
+- [Dev.to/JS] [Responsive Product Card Landing Page HTML CSS JAVASCRIPT](https://dev.to/codingcss/responsive-product-card-landing-page-html-css-javascript-mmi)
+- [Dev.to/JS] [Unveiling the Unparalleled Style: Essentials Hoodie Collection by Fear of God](https://dev.to/dksmith/unveiling-the-unparalleled-style-essentials-hoodie-collection-by-fear-of-god-4o1f)
+- [Dev.to/JS] [PCB Potting Compound](https://dev.to/pcbpotcom/pcb-potting-compound-3ffe)
+- [Dev.to/JS] [Easily install and manage multiple Node.js versions using nvm-desktop](https://dev.to/the1111mp/easily-install-and-manage-multiple-node-versions-using-nvm-desktop-4nim)
 - [Dev.to/JS] [&quot;Solving the Puzzle: How to Pass Environment Variables in AWS AppSync Resolvers using Serverless&quot;](https://dev.to/am_i_dev/solving-the-puzzle-how-to-pass-environment-variables-in-aws-appsync-resolvers-using-serverless-kl0)
 - [Dev.to/JS] [A Big Thank You to Our Robo.js Hacktoberfest Contributors!](https://dev.to/waveplay/a-big-thank-you-to-our-robojs-hacktoberfest-contributors-29of)
 - [Dev.to/JS] [Revamp Your Skin: Laser Skin Resurfacing Trends in Riyadh](https://dev.to/tayyeba55/revamp-your-skin-laser-skin-resurfacing-trends-in-riyadh-39k2)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 TOP JAVASCRIPT TRICKS FOR CLEANER CODE](https://dev.to/big_smoke/6-top-javascript-tricks-for-cleaner-code-1mck)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
 - [Dev.to/JS] [What is a TURN Server?](https://dev.to/alakkadshaw/what-is-a-turn-server-3ome)
-- [Dev.to/JS] [OpenAPI: API pública para Chile](https://dev.to/ocarmora/openapi-api-publica-para-chile-5ad2)
-- [Dev.to/JS] [Solid.js vs React: Which is Better in 2024?](https://dev.to/shariqahmed525/solidjs-vs-react-which-is-better-in-2024-jh5)
-- [Dev.to/JS] [Yes! There’s a Technology that’s Faster than React!](https://dev.to/shariqahmed525/yes-theres-a-technology-thats-faster-than-react-3ah2)
-- [Dev.to/JS] [Uncovering the React Universe: The Starter Guide](https://dev.to/kecbm/uncovering-the-react-universe-the-starter-guide-3jkf)
-- [Dev.to/JS] [Teste A/B em larga escala: Como testar uma aplicação com 1 milhão de usuários?](https://dev.to/paulinhoprado/teste-ab-em-larga-escala-como-testar-uma-aplicacao-com-1-milhao-de-usuarios-4623)
 - [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
 - [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
