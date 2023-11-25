@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding Code Formatting to Whitebophir Project: A Journey of Contribution](https://dev.to/bhmistry/adding-code-formatting-to-whitebophir-project-a-journey-of-contribution-1o42)
+- [Dev.to/JS] [Crafting Custom flavored Markdown for Svelte with mdsvex](https://dev.to/siddhantkcode/crafting-custom-flavored-markdown-for-svelte-with-mdsvex-12fp)
 - [Dev.to/JS] [#8 React.js Alternatives with Their Use-Case Scenarios](https://dev.to/nikl/8-reactjs-alternatives-with-their-use-case-scenarios-1h10)
 - [Dev.to/JS] [I made a step-by-step form demo like Typeform using Swiper.js!](https://dev.to/higashikota/i-made-a-step-by-step-form-demo-like-typeform-using-swiperjs-3g5a)
 - [Dev.to/JS] [Responsive Product Card Landing Page HTML CSS JAVASCRIPT](https://dev.to/codingcss/responsive-product-card-landing-page-html-css-javascript-mmi)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Big Thank You to Our Robo.js Hacktoberfest Contributors!](https://dev.to/waveplay/a-big-thank-you-to-our-robojs-hacktoberfest-contributors-29of)
 - [Dev.to/JS] [Revamp Your Skin: Laser Skin Resurfacing Trends in Riyadh](https://dev.to/tayyeba55/revamp-your-skin-laser-skin-resurfacing-trends-in-riyadh-39k2)
 - [Dev.to/JS] [Check phạt nguội](https://dev.to/checkphatnguoi8/check-phat-nguoi-1e3f)
-- [Dev.to/JS] [Implementation of Authorization Middleware with NestJS](https://dev.to/awahids/implementation-of-authorization-middleware-with-nestjs-4292)
-- [Dev.to/JS] [6 TOP JAVASCRIPT TRICKS FOR CLEANER CODE](https://dev.to/big_smoke/6-top-javascript-tricks-for-cleaner-code-1mck)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
 - [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
