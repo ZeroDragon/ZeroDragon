@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 232 - Reusable Code](https://dev.to/mcsee/code-smell-232-reusable-code-44p5)
+- [Dev.to/JS] [Implementing Drag-and-Drop using Svelte 5](https://dev.to/artxe2/implementing-drag-and-drop-using-svelte-5-767)
+- [Lifehacker] [How to Get a Sale Price on an Item You&#39;ve Already Bought](https://lifehacker.com/money/price-adjustment-after-purchasing)
 - [Dev.to/JS] [Buy Verified Coinbase Account](https://dev.to/cashapp74/buy-verified-coinbase-account-11dd)
 - [Dev.to/JS] [[Tutorial] Generate Video Thumbnail for your next video](https://dev.to/iamspathan/tutorial-generate-video-thumbnail-for-your-next-video-f04)
 - [Dev.to/JS] [Google STUN server List.](https://dev.to/alakkadshaw/google-stun-server-list-21n4)
@@ -42,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Fertilize Your Houseplants During the Winter](https://lifehacker.com/home/guide-fertilizing-houseplants-during-the-winter)
 - [Dev.to/JS] [Unveiling the Magic of Promises with `is.promise` and `is.not_promise` from &#39;thiis&#39;](https://dev.to/karbashevskyi/unveiling-the-magic-of-promises-with-ispromise-and-isnotpromise-from-thiis-46ml)
 - [Lifehacker] [You Can Stop Drafts From Coming Through Your Electrical Sockets](https://lifehacker.com/home/fix-drafty-electrical-outlets)
-- [Dev.to/JS] [Dive into the Inside Job Universe with Inside Verse API 👁️](https://dev.to/benoitpetit/dive-into-the-inside-job-universe-with-inside-verse-api-1c1m)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Steaming the Pud](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-two)
-- [Dev.to/JS] [Query parameters in node.js](https://dev.to/pawpartyka/query-parameters-in-nodejs-2haf)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
 - [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Black Friday Deals on Self-Care Tools](https://lifehacker.com/money/black-friday-deals-on-self-care-tools)
 - [Lifehacker] [These Are the Best iPhone Apps on Sale for Black Friday](https://lifehacker.com/tech/best-iphone-apps-black-friday)
 - [Lifehacker] [The Best Black Friday Deals on Pro Windows Laptops for Less Than $1000](https://lifehacker.com/tech/black-friday-deals-on-pro-windows-laptops)
-- [Lifehacker] [The Best Apple Watch Sales on Black Friday](https://lifehacker.com/tech/best-apple-watch-deals-black-friday)
-- [Lifehacker] [These Are the Best Black Friday Deals on Sex Toys](https://lifehacker.com/money/best-black-friday-deals-on-sex-toys)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Apple Watch Sales on Black Friday](https://lifehacker.com/tech/best-apple-watch-deals-black-friday)<!-- TECH-POSTS:END -->
 
 ---
 
