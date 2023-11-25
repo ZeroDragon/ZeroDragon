@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create Responsive Website Using HTML CSS and Some jQuery](https://dev.to/codingcss/how-to-create-responsive-website-using-html-css-and-some-jquery-aa)
+- [Dev.to/JS] [Setup CRUD App: Express, Typescript and MySQL](https://dev.to/sumitbhanushali/setup-crud-app-express-typescript-and-mysql-2knh)
+- [Dev.to/JS] [20ft Air Inflatable Dancers: The Giant Waving Puppets That Will Take Your Business to the Next Level](https://dev.to/katiethomas411/20ft-air-inflatable-dancers-the-giant-waving-puppets-that-will-take-your-business-to-the-next-level-174a)
+- [Dev.to/JS] [New issues are coming in the next days](https://dev.to/opensourcee/new-issues-are-coming-in-the-few-days-293b)
+- [Lifehacker] [Why You Shouldn&#39;t Fertilize Your Houseplants During the Winter](https://lifehacker.com/home/guide-fertilizing-houseplants-during-the-winter)
 - [Dev.to/JS] [Unveiling the Magic of Promises with `is.promise` and `is.not_promise` from &#39;thiis&#39;](https://dev.to/karbashevskyi/unveiling-the-magic-of-promises-with-ispromise-and-isnotpromise-from-thiis-46ml)
+- [Lifehacker] [You Can Stop Drafts From Coming Through Your Electrical Sockets](https://lifehacker.com/home/fix-drafty-electrical-outlets)
 - [Dev.to/JS] [Dive into the Inside Job Universe with Inside Verse API 👁️](https://dev.to/benoitpetit/dive-into-the-inside-job-universe-with-inside-verse-api-1c1m)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Steaming the Pud](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-two)
 - [Dev.to/JS] [Query parameters in node.js](https://dev.to/pawpartyka/query-parameters-in-nodejs-2haf)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interview Questions for Web Developer](https://dev.to/cookiemonsterdev/interview-questions-for-web-developer-19b4)
 - [Dev.to/JS] [Exploring All Javascript Array Methods](https://dev.to/ichsanputr/exploring-javascript-array-methods-2017)
 - [Dev.to/JS] [Secure Todos Rest APIs with JWT Authentication](https://dev.to/aneeqakhan/secure-todos-rest-apis-with-jwt-authentication-1bh9)
-- [Dev.to/JS] [Building with React JS: Create your own Youtube Video Player: Starting with Basics](https://dev.to/keyurparalkar/building-with-react-js-create-your-own-youtube-video-player-starting-with-basics-1lpp)
-- [Dev.to/JS] [Latest Newsletter: Passing the Baton of Chaos &lpar;Issue #142&rpar;](https://dev.to/mjgs/latest-newsletter-passing-the-baton-of-chaos-issue-142-1168)
-- [Dev.to/JS] [CLF-C01 Exam Dumps: The Ultimate AWS Learning Resource](https://dev.to/clfc01exam/clf-c01-exam-dumps-the-ultimate-aws-learning-resource-2bf1)
-- [Dev.to/JS] [Adding Code Formatting to Whitebophir Project: A Journey of Contribution](https://dev.to/bhmistry/adding-code-formatting-to-whitebophir-project-a-journey-of-contribution-1o42)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
 - [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Apple AirTag Sales for Black Friday](https://lifehacker.com/tech/best-apple-airtag-deals-black-friday)
 - [Lifehacker] [The Best Black Friday Sales Under $500 for Windows Laptops](https://lifehacker.com/tech/best-black-friday-laptops-under-500)
 - [Lifehacker] [How to Contact Amazon Customer Service on Black Friday](https://lifehacker.com/money/contact-amazon-customer-service-on-black-friday)
-- [Lifehacker] [These Are the Best Black Friday Chromebook Sales](https://lifehacker.com/tech/best-chromebook-black-friday-deals)
-- [Lifehacker] [These Are the Best Black Friday Sales on MacBooks](https://lifehacker.com/tech/best-black-friday-macbook-deals)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Black Friday Chromebook Sales](https://lifehacker.com/tech/best-chromebook-black-friday-deals)<!-- TECH-POSTS:END -->
 
 ---
 
