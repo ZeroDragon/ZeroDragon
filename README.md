@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Custom Context Menu with Tailwind and JavaScript](https://dev.to/itskarelleh/build-a-custom-context-menu-with-tailwind-and-javascript-10hb)
+- [Dev.to/JS] [Understanding Big O Notation Through the Two Sum Problem &lpar;For Beginner&rpar;](https://dev.to/koshirok096/understanding-big-o-notation-through-the-two-sum-problem-for-beginner-1df2)
 - [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
 - [Dev.to/JS] [Learning React ASAP...](https://dev.to/tani1964/learn-react-asap-4948)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/cashapp41/buy-old-gmail-accounts-38p3)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Tutorial] Generate Video Thumbnail for your next video](https://dev.to/iamspathan/tutorial-generate-video-thumbnail-for-your-next-video-f04)
 - [Dev.to/JS] [Google STUN server List.](https://dev.to/alakkadshaw/google-stun-server-list-21n4)
 - [Lifehacker] [Refresh Your Kitchen for Cheap with Vinyl Wrapping](https://lifehacker.com/home/vinyl-wrapping-kitchen-cabinets)
-- [Dev.to/JS] [17 JavaScript Array Methods Everyone Needs to Know](https://dev.to/opensourcee/17-javascript-array-methods-everyone-needs-to-know-1j35)
 - [Lifehacker] [How to Try Copilot, Microsoft&#39;s New AI Assistant, In Windows 10](https://lifehacker.com/tech/how-to-try-windows-10-copilot)
-- [Dev.to/JS] [Website Monetization](https://dev.to/jshep23prog/website-monetization-2543)
 - [Lifehacker] [The Best Apps to Track Progress on Your New Year&#39;s Goals](https://lifehacker.com/tech/new-years-resolution-goal-tracking-apps-2024)
 - [Lifehacker] [How to Fix a Leaking Dryer Vent &lpar;and Why You Absolutely Should&rpar;](https://lifehacker.com/home/signs-of-leaking-dryer-vent-and-how-to-fix)
 - [Lifehacker] [Why You Shouldn&#39;t Fertilize Your Houseplants During the Winter](https://lifehacker.com/home/guide-fertilizing-houseplants-during-the-winter)
