@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;Solving the Puzzle: How to Pass Environment Variables in AWS AppSync Resolvers using Serverless&quot;](https://dev.to/am_i_dev/solving-the-puzzle-how-to-pass-environment-variables-in-aws-appsync-resolvers-using-serverless-kl0)
+- [Dev.to/JS] [A Big Thank You to Our Robo.js Hacktoberfest Contributors!](https://dev.to/waveplay/a-big-thank-you-to-our-robojs-hacktoberfest-contributors-29of)
 - [Dev.to/JS] [Revamp Your Skin: Laser Skin Resurfacing Trends in Riyadh](https://dev.to/tayyeba55/revamp-your-skin-laser-skin-resurfacing-trends-in-riyadh-39k2)
 - [Dev.to/JS] [Check phạt nguội](https://dev.to/checkphatnguoi8/check-phat-nguoi-1e3f)
 - [Dev.to/JS] [Implementation of Authorization Middleware with NestJS](https://dev.to/awahids/implementation-of-authorization-middleware-with-nestjs-4292)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Yes! There’s a Technology that’s Faster than React!](https://dev.to/shariqahmed525/yes-theres-a-technology-thats-faster-than-react-3ah2)
 - [Dev.to/JS] [Uncovering the React Universe: The Starter Guide](https://dev.to/kecbm/uncovering-the-react-universe-the-starter-guide-3jkf)
 - [Dev.to/JS] [Teste A/B em larga escala: Como testar uma aplicação com 1 milhão de usuários?](https://dev.to/paulinhoprado/teste-ab-em-larga-escala-como-testar-uma-aplicacao-com-1-milhao-de-usuarios-4623)
-- [Dev.to/JS] [Mastering useState: A Guide to Avoiding Common Pitfalls in React Development](https://dev.to/serifcolakel/mastering-usestate-a-guide-to-avoiding-common-pitfalls-in-react-development-ibp)
 - [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
-- [Dev.to/JS] [Wizard James Is A Remarkable Crypto Recovery Agent!!!](https://dev.to/oliverpersson/wizard-james-is-a-remarkable-crypto-recovery-agent-5e38)
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
 - [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
