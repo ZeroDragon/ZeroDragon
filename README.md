@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is a TURN Server?](https://dev.to/alakkadshaw/what-is-a-turn-server-3ome)
+- [Dev.to/JS] [OpenAPI: API pública para Chile](https://dev.to/ocarmora/openapi-api-publica-para-chile-5ad2)
+- [Dev.to/JS] [Solid.js vs React: Which is Better in 2024?](https://dev.to/shariqahmed525/solidjs-vs-react-which-is-better-in-2024-jh5)
 - [Dev.to/JS] [Yes! There’s a Technology that’s Faster than React!](https://dev.to/shariqahmed525/yes-theres-a-technology-thats-faster-than-react-3ah2)
 - [Dev.to/JS] [Uncovering the React Universe: The Starter Guide](https://dev.to/kecbm/uncovering-the-react-universe-the-starter-guide-3jkf)
 - [Dev.to/JS] [Teste A/B em larga escala: Como testar uma aplicação com 1 milhão de usuários?](https://dev.to/paulinhoprado/teste-ab-em-larga-escala-como-testar-uma-aplicacao-com-1-milhao-de-usuarios-4623)
 - [Dev.to/JS] [Mastering useState: A Guide to Avoiding Common Pitfalls in React Development](https://dev.to/serifcolakel/mastering-usestate-a-guide-to-avoiding-common-pitfalls-in-react-development-ibp)
+- [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
 - [Dev.to/JS] [Wizard James Is A Remarkable Crypto Recovery Agent!!!](https://dev.to/oliverpersson/wizard-james-is-a-remarkable-crypto-recovery-agent-5e38)
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
 - [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
@@ -47,12 +51,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering React Performance: In-Depth Guide to useCallback and useMemo. 🚀](https://dev.to/maitrish/mastering-react-performance-in-depth-guide-to-usecallback-and-usememo-5114)
 - [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
 - [Lifehacker] [These Are the Best NAS and Hard Drive Sales on Black Friday](https://lifehacker.com/tech/best-nas-hard-drive-deals-black-friday)
-- [Dev.to/JS] [Route parameters in node.js](https://dev.to/pawpartyka/route-parameters-in-nodejs-44k5)
 - [Lifehacker] [The Best Black Friday Deals on Appliances](https://lifehacker.com/home/best-black-friday-deals-on-appliances)
 - [Lifehacker] [The Best Windows Laptops on Sale for Black Friday for Under $300](https://lifehacker.com/tech/best-black-friday-laptops-under-300)
 - [Lifehacker] [These Are the Best Black Friday Deals on Self-Care Tools](https://lifehacker.com/money/black-friday-deals-on-self-care-tools)
-- [Dev.to/JS] [Exploring OpenSign v1.0.6-beta: A Leap Forward in Digital Signature Software](https://dev.to/opensign/exploring-opensign-v106-beta-a-leap-forward-in-digital-signature-software-160f)
-- [Dev.to/JS] [Anji, provincia china de Zhejiang](https://dev.to/dylanwaters/anji-provincia-china-de-zhejiang-1h7)
 - [Lifehacker] [These Are the Best iPhone Apps on Sale for Black Friday](https://lifehacker.com/tech/best-iphone-apps-black-friday)
 - [Lifehacker] [The Best Black Friday Deals on Pro Windows Laptops for Less Than $1000](https://lifehacker.com/tech/black-friday-deals-on-pro-windows-laptops)
 - [Lifehacker] [The Best Apple Watch Sales on Black Friday](https://lifehacker.com/tech/best-apple-watch-deals-black-friday)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Black Friday Sales on MacBooks](https://lifehacker.com/tech/best-black-friday-macbook-deals)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, November 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-24-2023)
 - [Lifehacker] [These Are My Favorite Black Friday Sales of the Year](https://lifehacker.com/money/best-black-friday-deals-2023)
-- [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-23-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Black Friday Deals on Streaming Devices](https://lifehacker.com/tech/black-friday-streaming-devices)<!-- TECH-POSTS:END -->
 
 ---
 
