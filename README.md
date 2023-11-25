@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 TOP JAVASCRIPT TRICKS FOR CLEANER CODE](https://dev.to/big_smoke/6-top-javascript-tricks-for-cleaner-code-1mck)
 - [Dev.to/JS] [What is a TURN Server?](https://dev.to/alakkadshaw/what-is-a-turn-server-3ome)
 - [Dev.to/JS] [OpenAPI: API pública para Chile](https://dev.to/ocarmora/openapi-api-publica-para-chile-5ad2)
 - [Dev.to/JS] [Solid.js vs React: Which is Better in 2024?](https://dev.to/shariqahmed525/solidjs-vs-react-which-is-better-in-2024-jh5)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Sales on Handheld Gaming Consoles](https://lifehacker.com/entertainment/best-handheld-gaming-consoles-black-friday)
 - [Dev.to/JS] [I&#39;m just wondering how to create a WebSocket that listens for matches in the API query parameters](https://dev.to/theholyroller/im-just-wondering-how-to-create-a-websocket-that-listens-for-matches-in-the-api-query-parameters-2c04)
 - [Dev.to/JS] [Speed Run de MicroFrontends com Single-SPA &lpar;any%&rpar;](https://dev.to/mbarbosasan/speed-run-de-microfrontends-com-single-spa-any-2dl4)
-- [Dev.to/JS] [Mastering React Performance: In-Depth Guide to useCallback and useMemo. 🚀](https://dev.to/maitrish/mastering-react-performance-in-depth-guide-to-usecallback-and-usememo-5114)
 - [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
 - [Lifehacker] [These Are the Best NAS and Hard Drive Sales on Black Friday](https://lifehacker.com/tech/best-nas-hard-drive-deals-black-friday)
 - [Lifehacker] [The Best Black Friday Deals on Appliances](https://lifehacker.com/home/best-black-friday-deals-on-appliances)
