@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring All Javascript Array Methods](https://dev.to/ichsanputr/exploring-javascript-array-methods-2017)
+- [Dev.to/JS] [Secure Todos Rest APIs with JWT Authentication](https://dev.to/aneeqakhan/secure-todos-rest-apis-with-jwt-authentication-1bh9)
 - [Dev.to/JS] [Building with React JS: Create your own Youtube Video Player: Starting with Basics](https://dev.to/keyurparalkar/building-with-react-js-create-your-own-youtube-video-player-starting-with-basics-1lpp)
 - [Dev.to/JS] [Latest Newsletter: Passing the Baton of Chaos &lpar;Issue #142&rpar;](https://dev.to/mjgs/latest-newsletter-passing-the-baton-of-chaos-issue-142-1168)
 - [Dev.to/JS] [CLF-C01 Exam Dumps: The Ultimate AWS Learning Resource](https://dev.to/clfc01exam/clf-c01-exam-dumps-the-ultimate-aws-learning-resource-2bf1)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Responsive Product Card Landing Page HTML CSS JAVASCRIPT](https://dev.to/codingcss/responsive-product-card-landing-page-html-css-javascript-mmi)
 - [Dev.to/JS] [Unveiling the Unparalleled Style: Essentials Hoodie Collection by Fear of God](https://dev.to/dksmith/unveiling-the-unparalleled-style-essentials-hoodie-collection-by-fear-of-god-4o1f)
 - [Dev.to/JS] [PCB Potting Compound](https://dev.to/pcbpotcom/pcb-potting-compound-3ffe)
-- [Dev.to/JS] [Easily install and manage multiple Node.js versions using nvm-desktop](https://dev.to/the1111mp/easily-install-and-manage-multiple-node-versions-using-nvm-desktop-4nim)
-- [Dev.to/JS] [&quot;Solving the Puzzle: How to Pass Environment Variables in AWS AppSync Resolvers using Serverless&quot;](https://dev.to/am_i_dev/solving-the-puzzle-how-to-pass-environment-variables-in-aws-appsync-resolvers-using-serverless-kl0)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
 - [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
