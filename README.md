@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Hello everyone Why is undefined output in console.log&lpar;err.message&rpar;](https://dev.to/antonkobelev/hello-everyone-why-is-undefined-output-in-consolelog-nn)
-- [Dev.to/JS] [Building a pdfmake React Render](https://dev.to/danvim/building-a-pdfmake-react-render-g7h)
+- [Dev.to/JS] [Buying Gmail PVA Accounts](https://dev.to/buy_gmail_pva_accounts34545/buying-gmail-pva-accounts-2kae)
+- [Dev.to/JS] [Nuxt Infinite Scroll Marquee](https://dev.to/michaelsynan/nuxt-infinite-scroll-marquee-34b0)
+- [Dev.to/JS] [Buying Google Negative Reviews](https://dev.to/buy_google_reviews_bulk567/buying-google-negative-reviews-32bc)
+- [Dev.to/JS] [Building a pdfmake React Renderer using React Reconciler](https://dev.to/danvim/building-a-pdfmake-react-render-g7h)
 - [Dev.to/JS] [TypeScript vs JavaScript - What&#39;s the difference?](https://dev.to/sreeju/typescript-vs-javascript-whats-the-difference-3jmb)
 - [Dev.to/JS] [OOP Design Patterns in Javascript](https://dev.to/alexmercedcoder/oop-design-patterns-in-javascript-3i98)
 - [Dev.to/JS] [Creating an Accordion with JavaScript Classes: A Real-World Example](https://dev.to/joxx/creating-an-accordion-with-javascript-classes-a-real-world-example-3hi0)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Number Trivia App | JavaScript Project](https://dev.to/codingcss/number-trivia-app-javascript-project-23d)
 - [Dev.to/JS] [Hi everyone !!](https://dev.to/unesco1/hi-everyone--2l8l)
 - [Dev.to/JS] [please help](https://dev.to/p0stt3mp3stas/please-help-3dkm)
-- [Dev.to/JS] [Towards fluency in JavaScript and other programming languages](https://dev.to/mattedwards/towards-fluency-in-javascript-and-other-programming-languages-377)
-- [Dev.to/JS] [Simple HTML CSS Responsive Video Gallery](https://dev.to/codeboxx/simple-responsive-video-gallery-2h30)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
