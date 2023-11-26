@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Profitable Sport Blogs: Maximizing Monetization with Sport Highlights API](https://dev.to/sports_junkie/profitable-sport-blogs-maximizing-monetization-with-sport-highlights-api-1c62)
+- [Dev.to/JS] [Unraveling the Mystery of is.camelCase with &#39;thiis&#39;: Your Guide to JavaScript Naming Conventions](https://dev.to/karbashevskyi/unraveling-the-mystery-of-iscamelcase-with-thiis-your-guide-to-javascript-naming-conventions-5272)
 - [Dev.to/JS] [Buying Gmail PVA Accounts](https://dev.to/buy_gmail_pva_accounts34545/buying-gmail-pva-accounts-2kae)
 - [Dev.to/JS] [Nuxt Infinite Scroll Marquee](https://dev.to/michaelsynan/nuxt-infinite-scroll-marquee-34b0)
 - [Dev.to/JS] [Buying Google Negative Reviews](https://dev.to/buy_google_reviews_bulk567/buying-google-negative-reviews-32bc)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add array results to webpage](https://dev.to/jessclark1234/how-to-add-array-results-to-webpage-4ege)
 - [Dev.to/JS] [Starting Out at 38](https://dev.to/nareshmeetei/starting-out-at-38-3d67)
 - [Dev.to/JS] [Number Trivia App | JavaScript Project](https://dev.to/codingcss/number-trivia-app-javascript-project-23d)
-- [Dev.to/JS] [Hi everyone !!](https://dev.to/unesco1/hi-everyone--2l8l)
-- [Dev.to/JS] [please help](https://dev.to/p0stt3mp3stas/please-help-3dkm)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
