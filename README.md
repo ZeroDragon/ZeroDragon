@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding React useContext](https://dev.to/ayako_yk/understanding-react-usecontext-2bch)
 - [Dev.to/JS] [Why lowercase letters save data](https://dev.to/shadowfaxrodeo/why-lowercase-letters-save-data-17p3)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Dev.to/JS] [Level up your NodeJS Dockerfiles with these 3 tips ⚡🐋](https://dev.to/aspnxdd/level-up-your-nodejs-dockerfiles-with-these-3-tips-1gp4)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 232 - Reusable Code](https://dev.to/mcsee/code-smell-232-reusable-code-44p5)
 - [Dev.to/JS] [Implementing Drag-and-Drop using Svelte 5](https://dev.to/artxe2/implementing-drag-and-drop-using-svelte-5-767)
 - [Lifehacker] [How to Get a Sale Price on an Item You&#39;ve Already Bought](https://lifehacker.com/money/price-adjustment-after-purchasing)
-- [Dev.to/JS] [Buy Verified Coinbase Account](https://dev.to/cashapp74/buy-verified-coinbase-account-11dd)
 - [Lifehacker] [Refresh Your Kitchen for Cheap with Vinyl Wrapping](https://lifehacker.com/home/vinyl-wrapping-kitchen-cabinets)
 - [Lifehacker] [How to Try Copilot, Microsoft&#39;s New AI Assistant, In Windows 10](https://lifehacker.com/tech/how-to-try-windows-10-copilot)
 - [Lifehacker] [The Best Apps to Track Progress on Your New Year&#39;s Goals](https://lifehacker.com/tech/new-years-resolution-goal-tracking-apps-2024)
