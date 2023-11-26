@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Begineer: TypeScript Utility Types](https://dev.to/maxwiggedal/begineer-typescript-utility-types-3l35)
 - [Dev.to/JS] [Introduction to TypeScript with React](https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-508p)
 - [Dev.to/JS] [JSNDB, a simple json object db](https://dev.to/hohogpb/jsndb-a-simple-json-object-db-297k)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/cashapp41/buy-old-gmail-accounts-38p3)
 - [Dev.to/JS] [Higher order component.](https://dev.to/anandsg/higher-order-component-235g)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/cashapp41/buy-google-reviews-3j37)
-- [Dev.to/JS] [Buy Verified Cash App Account](https://dev.to/cashapp41/buy-verified-cash-app-account-5104)
 - [Lifehacker] [Why You Should Consider an Upflush Toilet](https://lifehacker.com/home/upflush-toilet-for-basements)
 - [Lifehacker] [How to Get a Sale Price on an Item You&#39;ve Already Bought](https://lifehacker.com/money/price-adjustment-after-purchasing)
 - [Lifehacker] [Refresh Your Kitchen for Cheap with Vinyl Wrapping](https://lifehacker.com/home/vinyl-wrapping-kitchen-cabinets)
