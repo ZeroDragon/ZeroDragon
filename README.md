@@ -27,12 +27,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Why lowercase letters save data](https://dev.to/shadowfaxrodeo/why-lowercase-letters-save-data-17p3)
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Dev.to/JS] [Level up your NodeJS Dockerfiles with these 3 tips ⚡🐋](https://dev.to/aspnxdd/level-up-your-nodejs-dockerfiles-with-these-3-tips-1gp4)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
 - [Dev.to/JS] [Build a Custom Context Menu with Tailwind and JavaScript](https://dev.to/itskarelleh/build-a-custom-context-menu-with-tailwind-and-javascript-10hb)
 - [Dev.to/JS] [Understanding Big O Notation Through the Two Sum Problem &lpar;For Beginner&rpar;](https://dev.to/koshirok096/understanding-big-o-notation-through-the-two-sum-problem-for-beginner-1df2)
 - [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
-- [Dev.to/JS] [Learning React ASAP...](https://dev.to/tani1964/learn-react-asap-4948)
+- [Dev.to/JS] [Learn React ASAP...](https://dev.to/tani1964/learn-react-asap-4948)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/cashapp41/buy-old-gmail-accounts-38p3)
 - [Dev.to/JS] [Higher order component.](https://dev.to/anandsg/higher-order-component-235g)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/cashapp41/buy-google-reviews-3j37)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best NAS and Hard Drive Sales on Black Friday](https://lifehacker.com/tech/best-nas-hard-drive-deals-black-friday)
 - [Lifehacker] [The Best Black Friday Deals on Appliances](https://lifehacker.com/home/best-black-friday-deals-on-appliances)
 - [Lifehacker] [The Best Windows Laptops on Sale for Black Friday for Under $300](https://lifehacker.com/tech/best-black-friday-laptops-under-300)
-- [Lifehacker] [These Are the Best Black Friday Deals on Self-Care Tools](https://lifehacker.com/money/black-friday-deals-on-self-care-tools)
-- [Lifehacker] [These Are the Best iPhone Apps on Sale for Black Friday](https://lifehacker.com/tech/best-iphone-apps-black-friday)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Black Friday Deals on Self-Care Tools](https://lifehacker.com/money/black-friday-deals-on-self-care-tools)<!-- TECH-POSTS:END -->
 
 ---
 
