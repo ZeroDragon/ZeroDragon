@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to become a better web developer in 2024](https://dev.to/codewithshahan/how-to-become-a-better-web-developer-in-2024-lo6)
+- [Dev.to/JS] [JS13kGames: a game jam under 13kB](https://dev.to/alexmbeasley/js13kgames-a-game-jam-under-13kb-535j)
 - [Dev.to/JS] [Profitable Sport Blogs: Maximizing Monetization with Sport Highlights API](https://dev.to/sports_junkie/profitable-sport-blogs-maximizing-monetization-with-sport-highlights-api-1c62)
 - [Dev.to/JS] [Unraveling the Mystery of is.camelCase with &#39;thiis&#39;: Your Guide to JavaScript Naming Conventions](https://dev.to/karbashevskyi/unraveling-the-mystery-of-iscamelcase-with-thiis-your-guide-to-javascript-naming-conventions-5272)
 - [Dev.to/JS] [Buying Gmail PVA Accounts](https://dev.to/buy_gmail_pva_accounts34545/buying-gmail-pva-accounts-2kae)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [OOP Design Patterns in Javascript](https://dev.to/alexmercedcoder/oop-design-patterns-in-javascript-3i98)
 - [Dev.to/JS] [Creating an Accordion with JavaScript Classes: A Real-World Example](https://dev.to/joxx/creating-an-accordion-with-javascript-classes-a-real-world-example-3hi0)
 - [Dev.to/JS] [How to add array results to webpage](https://dev.to/jessclark1234/how-to-add-array-results-to-webpage-4ege)
-- [Dev.to/JS] [Starting Out at 38](https://dev.to/nareshmeetei/starting-out-at-38-3d67)
-- [Dev.to/JS] [Number Trivia App | JavaScript Project](https://dev.to/codingcss/number-trivia-app-javascript-project-23d)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
