@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Help us reach 300 stargazers!](https://dev.to/opensourcee/be-our-300th-stargazer-5f0k)
+- [Dev.to/JS] [Hi everyone !!](https://dev.to/unesco1/hi-everyone--2l8l)
 - [Dev.to/JS] [please help](https://dev.to/p0stt3mp3stas/please-help-3dkm)
 - [Dev.to/JS] [Towards fluency in JavaScript and other programming languages](https://dev.to/mattedwards/towards-fluency-in-javascript-and-other-programming-languages-377)
 - [Dev.to/JS] [Simple HTML CSS Responsive Video Gallery](https://dev.to/codeboxx/simple-responsive-video-gallery-2h30)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Level up your NodeJS Dockerfiles with these 3 tips ⚡🐋](https://dev.to/aspnxdd/level-up-your-nodejs-dockerfiles-with-these-3-tips-1gp4)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
 - [Dev.to/JS] [Build a Custom Context Menu with Tailwind and JavaScript](https://dev.to/itskarelleh/build-a-custom-context-menu-with-tailwind-and-javascript-10hb)
-- [Dev.to/JS] [Understanding Big O Notation Through the Two Sum Problem &lpar;For Beginner&rpar;](https://dev.to/koshirok096/understanding-big-o-notation-through-the-two-sum-problem-for-beginner-1df2)
 - [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
-- [Dev.to/JS] [Learn React ASAP...](https://dev.to/tani1964/learn-react-asap-4948)
 - [Lifehacker] [Why You Should Consider an Upflush Toilet](https://lifehacker.com/home/upflush-toilet-for-basements)
 - [Lifehacker] [How to Get a Sale Price on an Item You&#39;ve Already Bought](https://lifehacker.com/money/price-adjustment-after-purchasing)
 - [Lifehacker] [Refresh Your Kitchen for Cheap with Vinyl Wrapping](https://lifehacker.com/home/vinyl-wrapping-kitchen-cabinets)
