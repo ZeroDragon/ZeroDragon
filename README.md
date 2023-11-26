@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add array results to webpage](https://dev.to/jessclark1234/how-to-add-array-results-to-webpage-4ege)
 - [Dev.to/JS] [Starting Out at 38](https://dev.to/nareshmeetei/starting-out-at-38-3d67)
 - [Dev.to/JS] [Number Trivia App | JavaScript Project](https://dev.to/codingcss/number-trivia-app-javascript-project-23d)
 - [Dev.to/JS] [Hi everyone !!](https://dev.to/unesco1/hi-everyone--2l8l)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding React useContext](https://dev.to/ayako_yk/understanding-react-usecontext-2bch)
 - [Dev.to/JS] [Why lowercase letters save data](https://dev.to/shadowfaxrodeo/why-lowercase-letters-save-data-17p3)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
-- [Dev.to/JS] [Level up your NodeJS Dockerfiles with these 3 tips ⚡🐋](https://dev.to/aspnxdd/level-up-your-nodejs-dockerfiles-with-these-3-tips-1gp4)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
 - [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
 - [Lifehacker] [Why You Should Consider an Upflush Toilet](https://lifehacker.com/home/upflush-toilet-for-basements)
