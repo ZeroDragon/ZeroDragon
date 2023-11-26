@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Dev.to/JS] [Understanding React useContext](https://dev.to/ayako_yk/understanding-react-usecontext-2bch)
 - [Dev.to/JS] [Why lowercase letters save data](https://dev.to/shadowfaxrodeo/why-lowercase-letters-save-data-17p3)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Sales on Handheld Gaming Consoles](https://lifehacker.com/entertainment/best-handheld-gaming-consoles-black-friday)
 - [Lifehacker] [These Are the Best NAS and Hard Drive Sales on Black Friday](https://lifehacker.com/tech/best-nas-hard-drive-deals-black-friday)
 - [Lifehacker] [The Best Black Friday Deals on Appliances](https://lifehacker.com/home/best-black-friday-deals-on-appliances)
-- [Lifehacker] [The Best Windows Laptops on Sale for Black Friday for Under $300](https://lifehacker.com/tech/best-black-friday-laptops-under-300)
-- [Lifehacker] [These Are the Best Black Friday Deals on Self-Care Tools](https://lifehacker.com/money/black-friday-deals-on-self-care-tools)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Windows Laptops on Sale for Black Friday for Under $300](https://lifehacker.com/tech/best-black-friday-laptops-under-300)<!-- TECH-POSTS:END -->
 
 ---
 
