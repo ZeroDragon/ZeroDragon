@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Chrome extension using Vite &amp; React](https://dev.to/cookiemonsterdev/chrome-extension-using-vite-react-3bhj)
+- [Dev.to/JS] [Newton&#39;s Laws of motion](https://dev.to/fakelaboratory/newtons-laws-of-motion-232p)
+- [Dev.to/JS] [Detecting how many times some text wraps with JavaScript](https://dev.to/rossangus/detecting-how-many-times-some-text-wraps-with-javascript-1p35)
+- [Dev.to/JS] [Intro to Async / Await Syntax](https://dev.to/danielj/intro-to-async-await-syntax-2g1h)
+- [Dev.to/JS] [Chrome extension using Vite &amp; React, Build and Deployment](https://dev.to/cookiemonsterdev/chrome-extension-using-vite-react-3bhj)
 - [Dev.to/JS] [Navigating the Tech Conference Landscape: A Sponsor&#39;s Perspective](https://dev.to/devworld_conf/navigating-the-tech-conference-landscape-a-sponsors-perspective-1pj9)
 - [Dev.to/JS] [What are hooks in ReactJS?](https://dev.to/justmrkhan/what-are-hooks-in-reactjs-5ap6)
 - [Crazy Programmer] [LambdaTest Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/11/lambdatest-review.html)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stop using {} in Typescript](https://dev.to/sukhejavarun/stop-using-in-typescript-12d0)
 - [Dev.to/JS] [TeaTable: Create Dynamic Crud Table Paginated Sorted](https://dev.to/hkkcngz/teatable-create-dynamic-crud-table-paginated-sorted-4bcg)
 - [Dev.to/JS] [Top 5 Different Methods of Industrial Paint Application](https://dev.to/alfakalel1/top-5-different-methods-of-industrial-paint-application-1677)
-- [Dev.to/JS] [Simplifying the Management of Remote SQLite Databases](https://dev.to/gc-victor/simplifying-the-management-of-remote-sqlite-databases-55e0)
-- [Dev.to/JS] [Tinh dầu thảo mộc](https://dev.to/huongnen/tinh-dau-thao-moc-55bj)
-- [Dev.to/JS] [Tinh dầu vali](https://dev.to/huongnen/tinh-dau-vali-16pc)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
