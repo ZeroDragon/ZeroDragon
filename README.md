@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Peloton&#39;s Deep Discounts Are Still On for Cyber Monday](https://lifehacker.com/health/cyber-monday-peloton)
+- [Lifehacker] [These Are the Best Cyber Monday Deals on Treadmills](https://lifehacker.com/health/cyber-monday-deals-treadmills)
+- [Lifehacker] [These Are the Best Cyber Monday Deals on Clothing Essentials](https://lifehacker.com/money/best-cyber-monday-clothing-deals)
+- [Lifehacker] [These Are the Best Cyber Monday Sales on Vitamix and Breville Blenders and Food Processors](https://lifehacker.com/food-drink/cyber-monday-blender-sales)
 - [Dev.to/JS] [Your Code Challenge of the Day](https://dev.to/opensourcee/your-code-challenge-of-the-day-2hdh)
+- [Lifehacker] [These Are the Best Cyber Monday Deals on MacBooks](https://lifehacker.com/tech/cyber-monday-deals-macbooks)
+- [Lifehacker] [This Cyber Monday Deal Makes the Meta Quest 2 the Cheapest It&#39;s Ever Been](https://lifehacker.com/entertainment/meta-quest-2-cyber-monday-deal)
 - [Dev.to/JS] [Stop this, use this instead : Top 5 best practices JS / React](https://dev.to/brdnicolas/stop-this-use-this-instead-reactjs-javascript-14d4)
 - [Dev.to/JS] [alihunter](https://dev.to/wsovn123/alihunter-3994)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Cyber Monday](https://lifehacker.com/health/best-cyber-monday-inflatable-kayak-deal)
@@ -59,13 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix a Leaking Dryer Vent &lpar;and Why You Absolutely Should&rpar;](https://lifehacker.com/home/signs-of-leaking-dryer-vent-and-how-to-fix)
 - [Lifehacker] [Why You Shouldn&#39;t Fertilize Your Houseplants During the Winter](https://lifehacker.com/home/guide-fertilizing-houseplants-during-the-winter)
 - [Lifehacker] [You Can Stop Drafts From Coming Through Your Electrical Sockets](https://lifehacker.com/home/fix-drafty-electrical-outlets)
-- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Steaming the Pud](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-two)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, November 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-25-2023)
-- [Lifehacker] [The Best Black Friday Deals on Kitchen Tools](https://lifehacker.com/home/black-friday-sales-on-kitchen-tools)
-- [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
-- [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
-- [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
-- [Lifehacker] [The Best Black Friday Deals on Smart Heaters and Air Conditioners](https://lifehacker.com/home/best-black-friday-deals-on-smart-heaters-and-air-conditioners)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Steaming the Pud](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-two)<!-- TECH-POSTS:END -->
 
 ---
 
