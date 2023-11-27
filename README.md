@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the Potential of HTMX in Web Development 🌐](https://dev.to/ratnamraju22/unleashing-the-potential-of-htmx-in-web-development-5180)
+- [Dev.to/JS] [Client Side Caching With Interceptors](https://dev.to/this-is-angular/client-side-caching-with-interceptors-ii)
+- [Dev.to/JS] [Understanding Chromes Coverage Panel](https://dev.to/dainemawer/understanding-chromes-coverage-panel-3mie)
+- [Dev.to/JS] [[每次突破0.1] Javascript中的==运算和转换](https://dev.to/andylow/mei-ci-tu-po-01-javascriptzhong-de-yun-suan-he-zhuan-huan-1800)
+- [Dev.to/JS] [Disable inspect element in Chrome](https://dev.to/kaustavkarmakar2/disable-inspect-element-in-chrome-1mod)
 - [Dev.to/JS] [Optimizing React.js Page Performance: Best Practices and Techniques](https://dev.to/moktarul12/optimizing-reactjs-page-performance-best-practices-and-techniques-p52)
 - [Dev.to/JS] [Testing for Accessibility with Playwright](https://dev.to/corinamurg/testing-for-accessibility-with-playwright-9o)
 - [Dev.to/JS] [JavaScript Magic Tricks: Web Application Firewall](https://dev.to/wangliwen/javascript-magic-tricks-web-application-firewall-f7d)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Utility Type: WithPrefix](https://dev.to/teamradhq/utility-type-withprefix-eje)
 - [Dev.to/JS] [Typescript: Discriminated Type Union Pattern](https://dev.to/kevin-uehara/typescript-discriminated-type-union-pattern-4dbi)
 - [Dev.to/JS] [Introducing the Moderation Tools Plugin for Robo.js](https://dev.to/waveplay/introducing-the-moderation-tools-plugin-for-robojs-59mn)
-- [Dev.to/JS] [JavaScript Decoded: Understanding Scopes, Functions, and Asynchronous Operations](https://dev.to/gervaisamoah/javascript-decoded-understanding-scopes-functions-and-asynchronous-operations-1c12)
-- [Dev.to/JS] [VueJS part 13: Introduction to slots](https://dev.to/hi_iam_chris/vuejs-part-13-introduction-to-slots-52o0)
-- [Dev.to/JS] [Building a simple calendar with Vanilla JS](https://dev.to/elihood/building-a-simple-calendar-with-vanilla-js-1g70)
-- [Dev.to/JS] [How to become a better web developer in 2024](https://dev.to/codewithshahan/how-to-become-a-better-web-developer-in-2024-lo6)
-- [Dev.to/JS] [JS13kGames: a game jam under 13kB](https://dev.to/alexmbeasley/js13kgames-a-game-jam-under-13kb-535j)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
