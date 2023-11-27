@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplifying the Management of Remote SQLite Databases](https://dev.to/gc-victor/simplifying-the-management-of-remote-sqlite-databases-55e0)
+- [Dev.to/JS] [Tinh dầu thảo mộc](https://dev.to/huongnen/tinh-dau-thao-moc-55bj)
+- [Dev.to/JS] [Tinh dầu vali](https://dev.to/huongnen/tinh-dau-vali-16pc)
 - [Dev.to/JS] [TF #25 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-25-your-weekly-frontend-digest-2eoj)
 - [Dev.to/JS] [Discover the Charm of is.char and is.not_char in JavaScript with &#39;thiis&#39;](https://dev.to/karbashevskyi/discover-the-charm-of-ischar-and-isnotchar-in-javascript-with-thiis-6e0)
 - [Dev.to/JS] [Building a Vue.js composable for handling Feature Flags](https://dev.to/jacobandrewsky/building-a-vuejs-composable-for-handling-feature-flags-47l0)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AZ-500 Exam Dumps take your test at a test center or online](https://dev.to/abiha12345/az-500-exam-dumps-take-your-test-at-a-test-center-or-online-42li)
 - [Dev.to/JS] [[Video] Understand How to Submit Forms](https://dev.to/tahazsh/video-understand-how-to-submit-forms-417l)
 - [Dev.to/JS] [🤓 Javascript Quick Tips 🌟Part - 1](https://dev.to/taqui/javascript-quick-tips-part-1-3o13)
-- [Dev.to/JS] [Sicher durch die Welt der Erwachseneninhalte](https://dev.to/smashcode/sicher-durch-die-welt-der-erwachseneninhalte-56f3)
-- [Dev.to/JS] [Unleashing the Potential of HTMX in Web Development 🌐](https://dev.to/ratnamraju22/unleashing-the-potential-of-htmx-in-web-development-5180)
-- [Dev.to/JS] [Client Side Caching With Interceptors](https://dev.to/this-is-angular/client-side-caching-with-interceptors-ii)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
