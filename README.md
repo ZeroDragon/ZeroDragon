@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sicher durch die Welt der Erwachseneninhalte](https://dev.to/smashcode/sicher-durch-die-welt-der-erwachseneninhalte-56f3)
 - [Dev.to/JS] [Unleashing the Potential of HTMX in Web Development 🌐](https://dev.to/ratnamraju22/unleashing-the-potential-of-htmx-in-web-development-5180)
 - [Dev.to/JS] [Client Side Caching With Interceptors](https://dev.to/this-is-angular/client-side-caching-with-interceptors-ii)
 - [Dev.to/JS] [Understanding Chromes Coverage Panel](https://dev.to/dainemawer/understanding-chromes-coverage-panel-3mie)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-27-2023)
 - [Dev.to/JS] [Utility Type: WithPrefix](https://dev.to/teamradhq/utility-type-withprefix-eje)
 - [Dev.to/JS] [Typescript: Discriminated Type Union Pattern](https://dev.to/kevin-uehara/typescript-discriminated-type-union-pattern-4dbi)
-- [Dev.to/JS] [Introducing the Moderation Tools Plugin for Robo.js](https://dev.to/waveplay/introducing-the-moderation-tools-plugin-for-robojs-59mn)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
