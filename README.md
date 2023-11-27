@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New personal Website](https://dev.to/anandprabhu530/new-personal-website-22lf)
+- [Crazy Programmer] [LambdaTest Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/11/lambdatest-review.html)
+- [Dev.to/JS] [Be a Part of Shaping WebCrumbs: Our Roadmap is Now Public!](https://dev.to/opensourcee/be-a-part-of-shaping-webcrumbs-our-roadmap-is-now-public-50h4)
+- [Dev.to/JS] [Building a Dynamic QR Code Generator with JavaScript and QRCode.js](https://dev.to/ezhillragesh/building-a-dynamic-qr-code-generator-with-javascript-and-qrcodejs-3h66)
+- [Dev.to/JS] [What is WebTransport and can it replace WebSockets?](https://dev.to/ably/what-is-webtransport-and-can-it-replace-websockets-2io0)
 - [Dev.to/JS] [Stop using {} in Typescript](https://dev.to/sukhejavarun/stop-using-in-typescript-12d0)
 - [Dev.to/JS] [TeaTable: Create Dynamic Crud Table Paginated Sorted](https://dev.to/hkkcngz/teatable-create-dynamic-crud-table-paginated-sorted-4bcg)
 - [Dev.to/JS] [Top 5 Different Methods of Industrial Paint Application](https://dev.to/alfakalel1/top-5-different-methods-of-industrial-paint-application-1677)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tinh dầu vali](https://dev.to/huongnen/tinh-dau-vali-16pc)
 - [Dev.to/JS] [TF #25 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-25-your-weekly-frontend-digest-2eoj)
 - [Dev.to/JS] [Discover the Charm of is.char and is.not_char in JavaScript with &#39;thiis&#39;](https://dev.to/karbashevskyi/discover-the-charm-of-ischar-and-isnotchar-in-javascript-with-thiis-6e0)
-- [Dev.to/JS] [Building a Vue.js composable for handling Feature Flags](https://dev.to/jacobandrewsky/building-a-vuejs-composable-for-handling-feature-flags-47l0)
-- [Dev.to/JS] [You are invited for a 2nd coding interview at SimpleOS](https://dev.to/brainquest/you-are-invited-for-a-2nd-coding-interview-at-simpleos-no9)
-- [Dev.to/JS] [Building a QR Code/Barcode Scanner App with React Native and Vision Camera](https://dev.to/ajmal_hasan/building-a-qr-codebarcode-scanner-app-with-react-native-and-vision-camera-534k)
-- [Dev.to/JS] [&quot;Boost Your Business with a Leading Digital Marketing Company.&quot;](https://dev.to/abhishek832001/boost-your-business-with-a-leading-digital-marketing-company-cle)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Deals on Vacuums](https://lifehacker.com/home/black-friday-deals-on-vacuums)
 - [Lifehacker] [The Best Black Friday Deals on Gaming Laptops](https://lifehacker.com/tech/best-black-friday-deals-gaming-laptops)
 - [Lifehacker] [The Best Black Friday Sales on Handheld Gaming Consoles](https://lifehacker.com/entertainment/best-handheld-gaming-consoles-black-friday)
-- [Lifehacker] [These Are the Best NAS and Hard Drive Sales on Black Friday](https://lifehacker.com/tech/best-nas-hard-drive-deals-black-friday)
-- [Lifehacker] [The Best Black Friday Deals on Appliances](https://lifehacker.com/home/best-black-friday-deals-on-appliances)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best NAS and Hard Drive Sales on Black Friday](https://lifehacker.com/tech/best-nas-hard-drive-deals-black-friday)<!-- TECH-POSTS:END -->
 
 ---
 
