@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stop using {} in Typescript](https://dev.to/sukhejavarun/stop-using-in-typescript-12d0)
+- [Dev.to/JS] [TeaTable: Create Dynamic Crud Table Paginated Sorted](https://dev.to/hkkcngz/teatable-create-dynamic-crud-table-paginated-sorted-4bcg)
+- [Dev.to/JS] [Top 5 Different Methods of Industrial Paint Application](https://dev.to/alfakalel1/top-5-different-methods-of-industrial-paint-application-1677)
 - [Dev.to/JS] [Simplifying the Management of Remote SQLite Databases](https://dev.to/gc-victor/simplifying-the-management-of-remote-sqlite-databases-55e0)
 - [Dev.to/JS] [Tinh dầu thảo mộc](https://dev.to/huongnen/tinh-dau-thao-moc-55bj)
 - [Dev.to/JS] [Tinh dầu vali](https://dev.to/huongnen/tinh-dau-vali-16pc)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [You are invited for a 2nd coding interview at SimpleOS](https://dev.to/brainquest/you-are-invited-for-a-2nd-coding-interview-at-simpleos-no9)
 - [Dev.to/JS] [Building a QR Code/Barcode Scanner App with React Native and Vision Camera](https://dev.to/ajmal_hasan/building-a-qr-codebarcode-scanner-app-with-react-native-and-vision-camera-534k)
 - [Dev.to/JS] [&quot;Boost Your Business with a Leading Digital Marketing Company.&quot;](https://dev.to/abhishek832001/boost-your-business-with-a-leading-digital-marketing-company-cle)
-- [Dev.to/JS] [AZ-500 Exam Dumps take your test at a test center or online](https://dev.to/abiha12345/az-500-exam-dumps-take-your-test-at-a-test-center-or-online-42li)
-- [Dev.to/JS] [[Video] Understand How to Submit Forms](https://dev.to/tahazsh/video-understand-how-to-submit-forms-417l)
-- [Dev.to/JS] [🤓 Javascript Quick Tips 🌟Part - 1](https://dev.to/taqui/javascript-quick-tips-part-1-3o13)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
