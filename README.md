@@ -26,9 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Redirecting Mobile Users to App or Play Store in NextJS](https://dev.to/andreasbergstrom/redirecting-mobile-users-to-app-or-play-store-using-nextjs-3pp1)
+- [Lifehacker] [These Are the Best Cyber Monday Deals on Self-care Tools](https://lifehacker.com/money/best-cyber-monday-deals-on-self-care-tools)
+- [Lifehacker] [These Are Amazon’s Best Cyber Monday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/amazon-cyber-monday-deals-gaming-consoles-and-controllers)
 - [Dev.to/JS] [10 ADVANCED JAVASCRIPT TRICKS YOU SHOULD KNOW !!](https://dev.to/big_smoke/10-advanced-javascript-tricks-you-should-know--1ofj)
 - [Dev.to/JS] [How To Make Responsive App Landing Page Website Design Using Pure HTML And CSS Only | Step By Step](https://dev.to/codingcss/how-to-make-responsive-app-landing-page-website-design-using-pure-html-and-css-only-step-by-step-269m)
+- [Lifehacker] [These Are Amazon&#39;s Best Cyber Monday Deals on Soundbars](https://lifehacker.com/tech/amazon-cyber-monday-soundbars)
 - [Dev.to/JS] [Next.js With Mobx](https://dev.to/mawaisismail/nextjs-with-mobx-51j6)
+- [Lifehacker] [The Best Way to Remove Rust Stains From Your Sink or Tub](https://lifehacker.com/home/how-to-remove-rust-stains-from-your-sink-or-tub)
+- [Lifehacker] [These Are Target&#39;s Best Cyber Monday Tech Deals](https://lifehacker.com/tech/target-cyber-monday-tech)
+- [Lifehacker] [These Are the Best Cyber Monday Sales on Windows Laptops Under $500](https://lifehacker.com/tech/best-cyber-monday-sales-budget-windows-laptops)
 - [Lifehacker] [Peloton&#39;s Deep Discounts Are Still On for Cyber Monday](https://lifehacker.com/health/cyber-monday-peloton)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Treadmills](https://lifehacker.com/health/cyber-monday-deals-treadmills)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Clothing Essentials](https://lifehacker.com/money/best-cyber-monday-clothing-deals)
@@ -45,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Build A CRUD App With NextJS And Prisma + PostgreSQL](https://dev.to/skipperhoa/how-to-build-a-crud-app-with-nextjs-and-prisma-postgresql-4l79)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Dev.to/JS] [How to quickly generate dynamic images with Node.js and Puppeteer.](https://dev.to/vexell/how-to-quickly-generate-dynamic-images-with-nodejs-and-puppeteer-4o4n)
-- [Dev.to/JS] [JavaScript &amp;&amp; Python, Similarities `and` Differences!](https://dev.to/asormeil/javascript-python-similarities-and-differences-2abe)
 - [Lifehacker] [Make This Risotto With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftovers-risotto-recipe)
 - [Lifehacker] [The USDA Plant Hardiness Zone Map Just Changed](https://lifehacker.com/home/usda-plant-hardiness-zone-map-changes)
 - [Lifehacker] [Why You Should Consider Installing Recessed Outlets in Your House](https://lifehacker.com/home/why-recessed-outlets)
@@ -59,13 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Sales on Android Smartwatches](https://lifehacker.com/tech/best-black-friday-deals-android-smartwatches)
 - [Lifehacker] [Why You Should Consider an Upflush Toilet](https://lifehacker.com/home/upflush-toilet-for-basements)
 - [Lifehacker] [How to Get a Sale Price on an Item You&#39;ve Already Bought](https://lifehacker.com/money/price-adjustment-after-purchasing)
-- [Lifehacker] [Refresh Your Kitchen for Cheap with Vinyl Wrapping](https://lifehacker.com/home/vinyl-wrapping-kitchen-cabinets)
-- [Lifehacker] [How to Try Copilot, Microsoft&#39;s New AI Assistant, In Windows 10](https://lifehacker.com/tech/how-to-try-windows-10-copilot)
-- [Lifehacker] [The Best Apps to Track Progress on Your New Year&#39;s Goals](https://lifehacker.com/tech/new-years-resolution-goal-tracking-apps-2024)
-- [Lifehacker] [How to Fix a Leaking Dryer Vent &lpar;and Why You Absolutely Should&rpar;](https://lifehacker.com/home/signs-of-leaking-dryer-vent-and-how-to-fix)
-- [Lifehacker] [Why You Shouldn&#39;t Fertilize Your Houseplants During the Winter](https://lifehacker.com/home/guide-fertilizing-houseplants-during-the-winter)
-- [Lifehacker] [You Can Stop Drafts From Coming Through Your Electrical Sockets](https://lifehacker.com/home/fix-drafty-electrical-outlets)
-- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Steaming the Pud](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-two)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Refresh Your Kitchen for Cheap with Vinyl Wrapping](https://lifehacker.com/home/vinyl-wrapping-kitchen-cabinets)<!-- TECH-POSTS:END -->
 
 ---
 
