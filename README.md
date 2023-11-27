@@ -26,20 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stop this, use this instead : ReactJS / Javascript](https://dev.to/brdnicolas/stop-this-use-this-instead-reactjs-javascript-14d4)
+- [Dev.to/JS] [alihunter](https://dev.to/wsovn123/alihunter-3994)
+- [Dev.to/JS] [Tips and Tricks to Improve SEO Performance of a Next.js Application](https://dev.to/mohammadfaisal/tips-and-tricks-to-improve-seo-performance-of-a-nextjs-application-ncg)
+- [Dev.to/JS] [Paracetamol.js💊| #224: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-224-explica-este-codigo-javascript-2a77)
+- [Dev.to/JS] [alihunter](https://dev.to/wsovn123/alihunter-1nh9)
+- [Dev.to/JS] [How To Build A CRUD App With NextJS And Prisma + PostgreSQL](https://dev.to/skipperhoa/how-to-build-a-crud-app-with-nextjs-and-prisma-postgresql-4l79)
+- [Dev.to/JS] [How to quickly generate dynamic images with Node.js and Puppeteer.](https://dev.to/vexell/how-to-quickly-generate-dynamic-images-with-nodejs-and-puppeteer-4o4n)
+- [Dev.to/JS] [JavaScript &amp;&amp; Python, Similarities `and` Differences!](https://dev.to/asormeil/javascript-python-similarities-and-differences-2abe)
+- [Dev.to/JS] [adspy](https://dev.to/wsovn123/adspy-1bfb)
+- [Dev.to/JS] [Why I keep choosing Javascript over Typescript, and why it is not ideal as a statically typed Javascript &quot;alternative&quot;](https://dev.to/lnahrf/why-i-keep-choosing-javascript-over-typescript-and-why-it-is-not-ideal-as-a-statically-typed-javascript-alternative-53k)
 - [Dev.to/JS] [smodin](https://dev.to/wsovn123/smodin-317f)
+- [Lifehacker] [The USDA Plant Hardiness Zone Map Just Changed](https://lifehacker.com/home/usda-plant-hardiness-zone-map-changes)
 - [Dev.to/JS] [Benefits of implementing Serializable interface while defining entity in JPA](https://dev.to/javatute673/benefits-of-implementing-serializable-interface-while-defining-entity-in-jpa-3cf2)
-- [Dev.to/JS] [Demystifying &#39;const&#39; in For Loops: Traditional vs. for...of](https://dev.to/edriso/demystifying-const-in-for-loops-traditional-vs-forof-3aif)
-- [Dev.to/JS] [How To Get Money Back From Crypto Scammers: Hire iBolt Cyber Hacker Mastermind](https://dev.to/judekadu/how-to-get-money-back-from-crypto-scammers-hire-ibolt-cyber-hacker-mastermind-n5d)
-- [Dev.to/JS] [answerthepublic](https://dev.to/wsovn123/answerthepublic-3lbl)
 - [Lifehacker] [Why You Should Consider Installing Recessed Outlets in Your House](https://lifehacker.com/home/why-recessed-outlets)
-- [Dev.to/JS] [Tone.js and the Web Audio API](https://dev.to/snelson723/tonejs-and-the-web-audio-api-36cj)
-- [Dev.to/JS] [📢SAVE Up To 💰500$. 4 Days Cyber Monday PROMO❗️](https://dev.to/mz2387/save-up-to-500-4-days-cyber-monday-promo-4k2j)
-- [Dev.to/JS] [Cyber Week: 💵Up to 97% OFF - Prices as low as 49$❗️](https://dev.to/mdbootstrap/cyber-week-up-to-97-off-prices-as-low-as-49-1ko9)
-- [Dev.to/JS] [Newton&#39;s Laws of motion](https://dev.to/fakelaboratory/newtons-laws-of-motion-232p)
 - [Lifehacker] [The Best Ways to Help Someone Who Is &#39;Bad With Money&#39;](https://lifehacker.com/money/help-a-friend-who-is-bad-with-money)
-- [Dev.to/JS] [Detecting how many times some text wraps with JavaScript](https://dev.to/rossangus/detecting-how-many-times-some-text-wraps-with-javascript-1p35)
-- [Dev.to/JS] [Intro to Async / Await Syntax](https://dev.to/danielj/intro-to-async-await-syntax-2g1h)
-- [Dev.to/JS] [Chrome extension using Vite &amp; React, Build and Deployment](https://dev.to/cookiemonsterdev/chrome-extension-using-vite-react-3bhj)
 - [Lifehacker] [Use Rechargeable Motion Sensor Lights to Brighten Dark Spaces](https://lifehacker.com/home/motion-sensor-lights-closets)
 - [Crazy Programmer] [LambdaTest Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/11/lambdatest-review.html)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-27-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Deals on Smart Heaters and Air Conditioners](https://lifehacker.com/home/best-black-friday-deals-on-smart-heaters-and-air-conditioners)
 - [Lifehacker] [50+ Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
 - [Lifehacker] [The Best Black Friday Sales on Clothing Essentials](https://lifehacker.com/money/best-black-friday-deals-clothing-essentials)
-- [Lifehacker] [These Are Some of the Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)
-- [Lifehacker] [The Best Black Friday Deals on Vacuums](https://lifehacker.com/home/black-friday-deals-on-vacuums)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are Some of the Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)<!-- TECH-POSTS:END -->
 
 ---
 
