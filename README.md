@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [New personal Website](https://dev.to/anandprabhu530/new-personal-website-22lf)
+- [Dev.to/JS] [Chrome extension using Vite &amp; React](https://dev.to/cookiemonsterdev/chrome-extension-using-vite-react-3bhj)
+- [Dev.to/JS] [Navigating the Tech Conference Landscape: A Sponsor&#39;s Perspective](https://dev.to/devworld_conf/navigating-the-tech-conference-landscape-a-sponsors-perspective-1pj9)
+- [Dev.to/JS] [What are hooks in ReactJS?](https://dev.to/justmrkhan/what-are-hooks-in-reactjs-5ap6)
 - [Crazy Programmer] [LambdaTest Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/11/lambdatest-review.html)
 - [Dev.to/JS] [Be a Part of Shaping WebCrumbs: Our Roadmap is Now Public!](https://dev.to/opensourcee/be-a-part-of-shaping-webcrumbs-our-roadmap-is-now-public-50h4)
 - [Dev.to/JS] [Building a Dynamic QR Code Generator with JavaScript and QRCode.js](https://dev.to/ezhillragesh/building-a-dynamic-qr-code-generator-with-javascript-and-qrcodejs-3h66)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplifying the Management of Remote SQLite Databases](https://dev.to/gc-victor/simplifying-the-management-of-remote-sqlite-databases-55e0)
 - [Dev.to/JS] [Tinh dầu thảo mộc](https://dev.to/huongnen/tinh-dau-thao-moc-55bj)
 - [Dev.to/JS] [Tinh dầu vali](https://dev.to/huongnen/tinh-dau-vali-16pc)
-- [Dev.to/JS] [TF #25 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-25-your-weekly-frontend-digest-2eoj)
-- [Dev.to/JS] [Discover the Charm of is.char and is.not_char in JavaScript with &#39;thiis&#39;](https://dev.to/karbashevskyi/discover-the-charm-of-ischar-and-isnotchar-in-javascript-with-thiis-6e0)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
