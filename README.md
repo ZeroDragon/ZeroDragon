@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Utility Type: WithPrefix](https://dev.to/teamradhq/utility-type-withprefix-eje)
+- [Dev.to/JS] [Typescript: Discriminated Type Union Pattern](https://dev.to/kevin-uehara/typescript-discriminated-type-union-pattern-4dbi)
+- [Dev.to/JS] [Introducing the Moderation Tools Plugin for Robo.js](https://dev.to/waveplay/introducing-the-moderation-tools-plugin-for-robojs-59mn)
 - [Dev.to/JS] [JavaScript Decoded: Understanding Scopes, Functions, and Asynchronous Operations](https://dev.to/gervaisamoah/javascript-decoded-understanding-scopes-functions-and-asynchronous-operations-1c12)
 - [Dev.to/JS] [VueJS part 13: Introduction to slots](https://dev.to/hi_iam_chris/vuejs-part-13-introduction-to-slots-52o0)
 - [Dev.to/JS] [Building a simple calendar with Vanilla JS](https://dev.to/elihood/building-a-simple-calendar-with-vanilla-js-1g70)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unraveling the Mystery of is.camelCase with &#39;thiis&#39;: Your Guide to JavaScript Naming Conventions](https://dev.to/karbashevskyi/unraveling-the-mystery-of-iscamelcase-with-thiis-your-guide-to-javascript-naming-conventions-5272)
 - [Dev.to/JS] [Buying Gmail PVA Accounts](https://dev.to/buy_gmail_pva_accounts34545/buying-gmail-pva-accounts-2kae)
 - [Dev.to/JS] [Nuxt Infinite Scroll Marquee](https://dev.to/michaelsynan/nuxt-infinite-scroll-marquee-34b0)
-- [Dev.to/JS] [Buying Google Negative Reviews](https://dev.to/buy_google_reviews_bulk567/buying-google-negative-reviews-32bc)
-- [Dev.to/JS] [Building a pdfmake React Renderer using React Reconciler](https://dev.to/danvim/building-a-pdfmake-react-render-g7h)
-- [Dev.to/JS] [TypeScript vs JavaScript - What&#39;s the difference?](https://dev.to/sreeju/typescript-vs-javascript-whats-the-difference-3jmb)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
