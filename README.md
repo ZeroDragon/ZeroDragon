@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Magic Tricks: Web Application Firewall](https://dev.to/wangliwen/javascript-magic-tricks-web-application-firewall-f7d)
 - [Dev.to/JS] [Frontend Mentor - Job listings with filtering solution using Vue.js and Fetch API](https://dev.to/awkwardblkcoder/frontend-mentor-job-listings-with-filtering-solution-using-vuejs-and-fetch-api-a7j)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-27-2023)
 - [Dev.to/JS] [Utility Type: WithPrefix](https://dev.to/teamradhq/utility-type-withprefix-eje)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS13kGames: a game jam under 13kB](https://dev.to/alexmbeasley/js13kgames-a-game-jam-under-13kb-535j)
 - [Dev.to/JS] [Profitable Sport Blogs: Maximizing Monetization with Sport Highlights API](https://dev.to/sports_junkie/profitable-sport-blogs-maximizing-monetization-with-sport-highlights-api-1c62)
 - [Dev.to/JS] [Unraveling the Mystery of is.camelCase with &#39;thiis&#39;: Your Guide to JavaScript Naming Conventions](https://dev.to/karbashevskyi/unraveling-the-mystery-of-iscamelcase-with-thiis-your-guide-to-javascript-naming-conventions-5272)
-- [Dev.to/JS] [Buying Gmail PVA Accounts](https://dev.to/buy_gmail_pva_accounts34545/buying-gmail-pva-accounts-2kae)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
