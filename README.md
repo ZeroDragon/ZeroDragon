@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Frontend Mentor - Job listings with filtering solution using Vue.js and Fetch API](https://dev.to/awkwardblkcoder/frontend-mentor-job-listings-with-filtering-solution-using-vuejs-and-fetch-api-a7j)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-27-2023)
 - [Dev.to/JS] [Utility Type: WithPrefix](https://dev.to/teamradhq/utility-type-withprefix-eje)
 - [Dev.to/JS] [Typescript: Discriminated Type Union Pattern](https://dev.to/kevin-uehara/typescript-discriminated-type-union-pattern-4dbi)
 - [Dev.to/JS] [Introducing the Moderation Tools Plugin for Robo.js](https://dev.to/waveplay/introducing-the-moderation-tools-plugin-for-robojs-59mn)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Profitable Sport Blogs: Maximizing Monetization with Sport Highlights API](https://dev.to/sports_junkie/profitable-sport-blogs-maximizing-monetization-with-sport-highlights-api-1c62)
 - [Dev.to/JS] [Unraveling the Mystery of is.camelCase with &#39;thiis&#39;: Your Guide to JavaScript Naming Conventions](https://dev.to/karbashevskyi/unraveling-the-mystery-of-iscamelcase-with-thiis-your-guide-to-javascript-naming-conventions-5272)
 - [Dev.to/JS] [Buying Gmail PVA Accounts](https://dev.to/buy_gmail_pva_accounts34545/buying-gmail-pva-accounts-2kae)
-- [Dev.to/JS] [Nuxt Infinite Scroll Marquee](https://dev.to/michaelsynan/nuxt-infinite-scroll-marquee-34b0)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Deals on Gaming Laptops](https://lifehacker.com/tech/best-black-friday-deals-gaming-laptops)
 - [Lifehacker] [The Best Black Friday Sales on Handheld Gaming Consoles](https://lifehacker.com/entertainment/best-handheld-gaming-consoles-black-friday)
 - [Lifehacker] [These Are the Best NAS and Hard Drive Sales on Black Friday](https://lifehacker.com/tech/best-nas-hard-drive-deals-black-friday)
-- [Lifehacker] [The Best Black Friday Deals on Appliances](https://lifehacker.com/home/best-black-friday-deals-on-appliances)
-- [Lifehacker] [The Best Windows Laptops on Sale for Black Friday for Under $300](https://lifehacker.com/tech/best-black-friday-laptops-under-300)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Black Friday Deals on Appliances](https://lifehacker.com/home/best-black-friday-deals-on-appliances)<!-- TECH-POSTS:END -->
 
 ---
 
