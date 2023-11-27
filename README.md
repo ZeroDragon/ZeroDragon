@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Decoded: Understanding Scopes, Functions, and Asynchronous Operations](https://dev.to/gervaisamoah/javascript-decoded-understanding-scopes-functions-and-asynchronous-operations-1c12)
+- [Dev.to/JS] [VueJS part 13: Introduction to slots](https://dev.to/hi_iam_chris/vuejs-part-13-introduction-to-slots-52o0)
+- [Dev.to/JS] [Building a simple calendar with Vanilla JS](https://dev.to/elihood/building-a-simple-calendar-with-vanilla-js-1g70)
 - [Dev.to/JS] [How to become a better web developer in 2024](https://dev.to/codewithshahan/how-to-become-a-better-web-developer-in-2024-lo6)
 - [Dev.to/JS] [JS13kGames: a game jam under 13kB](https://dev.to/alexmbeasley/js13kgames-a-game-jam-under-13kb-535j)
 - [Dev.to/JS] [Profitable Sport Blogs: Maximizing Monetization with Sport Highlights API](https://dev.to/sports_junkie/profitable-sport-blogs-maximizing-monetization-with-sport-highlights-api-1c62)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buying Google Negative Reviews](https://dev.to/buy_google_reviews_bulk567/buying-google-negative-reviews-32bc)
 - [Dev.to/JS] [Building a pdfmake React Renderer using React Reconciler](https://dev.to/danvim/building-a-pdfmake-react-render-g7h)
 - [Dev.to/JS] [TypeScript vs JavaScript - What&#39;s the difference?](https://dev.to/sreeju/typescript-vs-javascript-whats-the-difference-3jmb)
-- [Dev.to/JS] [OOP Design Patterns in Javascript](https://dev.to/alexmercedcoder/oop-design-patterns-in-javascript-3i98)
-- [Dev.to/JS] [Creating an Accordion with JavaScript Classes: A Real-World Example](https://dev.to/joxx/creating-an-accordion-with-javascript-classes-a-real-world-example-3hi0)
-- [Dev.to/JS] [How to add array results to webpage](https://dev.to/jessclark1234/how-to-add-array-results-to-webpage-4ege)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
