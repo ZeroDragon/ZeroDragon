@@ -26,19 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Stop this, use this instead : ReactJS / Javascript](https://dev.to/brdnicolas/stop-this-use-this-instead-reactjs-javascript-14d4)
+- [Dev.to/JS] [Your Code Challenge of the Day](https://dev.to/opensourcee/your-code-challenge-of-the-day-2hdh)
+- [Dev.to/JS] [Stop this, use this instead : Top 5 best practices JS / React](https://dev.to/brdnicolas/stop-this-use-this-instead-reactjs-javascript-14d4)
 - [Dev.to/JS] [alihunter](https://dev.to/wsovn123/alihunter-3994)
+- [Lifehacker] [This Inflatable Kayak Is Only $85 for Cyber Monday](https://lifehacker.com/health/best-cyber-monday-inflatable-kayak-deal)
 - [Dev.to/JS] [Tips and Tricks to Improve SEO Performance of a Next.js Application](https://dev.to/mohammadfaisal/tips-and-tricks-to-improve-seo-performance-of-a-nextjs-application-ncg)
 - [Dev.to/JS] [Paracetamol.js💊| #224: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-224-explica-este-codigo-javascript-2a77)
 - [Dev.to/JS] [alihunter](https://dev.to/wsovn123/alihunter-1nh9)
 - [Dev.to/JS] [How To Build A CRUD App With NextJS And Prisma + PostgreSQL](https://dev.to/skipperhoa/how-to-build-a-crud-app-with-nextjs-and-prisma-postgresql-4l79)
+- [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Dev.to/JS] [How to quickly generate dynamic images with Node.js and Puppeteer.](https://dev.to/vexell/how-to-quickly-generate-dynamic-images-with-nodejs-and-puppeteer-4o4n)
 - [Dev.to/JS] [JavaScript &amp;&amp; Python, Similarities `and` Differences!](https://dev.to/asormeil/javascript-python-similarities-and-differences-2abe)
 - [Dev.to/JS] [adspy](https://dev.to/wsovn123/adspy-1bfb)
 - [Dev.to/JS] [Why I keep choosing Javascript over Typescript, and why it is not ideal as a statically typed Javascript &quot;alternative&quot;](https://dev.to/lnahrf/why-i-keep-choosing-javascript-over-typescript-and-why-it-is-not-ideal-as-a-statically-typed-javascript-alternative-53k)
+- [Lifehacker] [Make This Risotto With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftovers-risotto-recipe)
 - [Dev.to/JS] [smodin](https://dev.to/wsovn123/smodin-317f)
 - [Lifehacker] [The USDA Plant Hardiness Zone Map Just Changed](https://lifehacker.com/home/usda-plant-hardiness-zone-map-changes)
-- [Dev.to/JS] [Benefits of implementing Serializable interface while defining entity in JPA](https://dev.to/javatute673/benefits-of-implementing-serializable-interface-while-defining-entity-in-jpa-3cf2)
 - [Lifehacker] [Why You Should Consider Installing Recessed Outlets in Your House](https://lifehacker.com/home/why-recessed-outlets)
 - [Lifehacker] [The Best Ways to Help Someone Who Is &#39;Bad With Money&#39;](https://lifehacker.com/money/help-a-friend-who-is-bad-with-money)
 - [Lifehacker] [Use Rechargeable Motion Sensor Lights to Brighten Dark Spaces](https://lifehacker.com/home/motion-sensor-lights-closets)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Black Friday Deals on Home Security Cameras](https://lifehacker.com/tech/black-friday-deals-on-security-cameras)
 - [Lifehacker] [Walmart’s Black Friday Deals on Fitness Equipment Are Really Strong](https://lifehacker.com/health/walmart-best-flack-friday-deals-fitness-equipment)
 - [Lifehacker] [Why Alka-Seltzer Is a Cleaning Secret Weapon](https://lifehacker.com/why-alka-seltzer-is-a-cleaning-secret-weapon-1850992664)
-- [Lifehacker] [The Best Black Friday Deals on Smart Heaters and Air Conditioners](https://lifehacker.com/home/best-black-friday-deals-on-smart-heaters-and-air-conditioners)
-- [Lifehacker] [50+ Best Black Friday Deals on Laptops, Tablets, Headphones, and Everything Tech](https://lifehacker.com/tech/best-black-friday-deals-laptops-tablets-headphones)
-- [Lifehacker] [The Best Black Friday Sales on Clothing Essentials](https://lifehacker.com/money/best-black-friday-deals-clothing-essentials)
-- [Lifehacker] [These Are Some of the Best Black Friday Dyson Vacuum Deals](https://lifehacker.com/home/best-black-friday-dyson-vacuum-deals-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Black Friday Deals on Smart Heaters and Air Conditioners](https://lifehacker.com/home/best-black-friday-deals-on-smart-heaters-and-air-conditioners)<!-- TECH-POSTS:END -->
 
 ---
 
