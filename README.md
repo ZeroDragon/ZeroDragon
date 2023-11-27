@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a QR Code/Barcode Scanner App with React Native and Vision Camera](https://dev.to/ajmal_hasan/building-a-qr-codebarcode-scanner-app-with-react-native-and-vision-camera-534k)
+- [Dev.to/JS] [&quot;Boost Your Business with a Leading Digital Marketing Company.&quot;](https://dev.to/abhishek832001/boost-your-business-with-a-leading-digital-marketing-company-cle)
+- [Dev.to/JS] [AZ-500 Exam Dumps take your test at a test center or online](https://dev.to/abiha12345/az-500-exam-dumps-take-your-test-at-a-test-center-or-online-42li)
+- [Dev.to/JS] [[Video] Understand How to Submit Forms](https://dev.to/tahazsh/video-understand-how-to-submit-forms-417l)
+- [Dev.to/JS] [🤓 Javascript Quick Tips 🌟Part - 1](https://dev.to/taqui/javascript-quick-tips-part-1-3o13)
 - [Dev.to/JS] [Sicher durch die Welt der Erwachseneninhalte](https://dev.to/smashcode/sicher-durch-die-welt-der-erwachseneninhalte-56f3)
 - [Dev.to/JS] [Unleashing the Potential of HTMX in Web Development 🌐](https://dev.to/ratnamraju22/unleashing-the-potential-of-htmx-in-web-development-5180)
 - [Dev.to/JS] [Client Side Caching With Interceptors](https://dev.to/this-is-angular/client-side-caching-with-interceptors-ii)
@@ -33,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[每次突破0.1] Javascript中的==运算和转换](https://dev.to/andylow/mei-ci-tu-po-01-javascriptzhong-de-yun-suan-he-zhuan-huan-1800)
 - [Dev.to/JS] [Disable inspect element in Chrome](https://dev.to/kaustavkarmakar2/disable-inspect-element-in-chrome-1mod)
 - [Dev.to/JS] [Optimizing React.js Page Performance: Best Practices and Techniques](https://dev.to/moktarul12/optimizing-reactjs-page-performance-best-practices-and-techniques-p52)
-- [Dev.to/JS] [Testing for Accessibility with Playwright](https://dev.to/corinamurg/testing-for-accessibility-with-playwright-9o)
-- [Dev.to/JS] [JavaScript Magic Tricks: Web Application Firewall](https://dev.to/wangliwen/javascript-magic-tricks-web-application-firewall-f7d)
-- [Dev.to/JS] [Frontend Mentor - Job listings with filtering solution using Vue.js and Fetch API](https://dev.to/awkwardblkcoder/frontend-mentor-job-listings-with-filtering-solution-using-vuejs-and-fetch-api-a7j)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-27-2023)
-- [Dev.to/JS] [Utility Type: WithPrefix](https://dev.to/teamradhq/utility-type-withprefix-eje)
-- [Dev.to/JS] [Typescript: Discriminated Type Union Pattern](https://dev.to/kevin-uehara/typescript-discriminated-type-union-pattern-4dbi)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [It&#39;s Time to Take Your Winter Allergies More Seriously](https://lifehacker.com/health/winter-indoor-allergy-season)
