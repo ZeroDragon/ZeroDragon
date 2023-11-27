@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Cyber Monday Deals Walmart Has to Offer](https://lifehacker.com/money/best-walmart-cyber-monday-deals)
+- [Lifehacker] [These Are the Best Cyber Monday Cordless Vacuum Deals at Amazon](https://lifehacker.com/home/amazon-cyber-monday-cordless-vacuums)
+- [Dev.to/JS] [Javascript Made Simple!](https://dev.to/justaguyfrombr/javascript-made-simple-1h02)
+- [Dev.to/JS] [El Camino del Desarrollador Web: Fundamentos, Prácticas y Herramientas Esenciales](https://dev.to/nixcko/el-camino-del-desarrollador-web-fundamentos-practicas-y-herramientas-esenciales-2fdm)
+- [Dev.to/JS] [Time Series Data with TDEngine and GraphQL](https://dev.to/zentered/time-series-data-with-tdengine-and-graphql-4dbl)
+- [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
+- [Lifehacker] [These Are Amazon’s Best Cyber Monday Deals on Board Games](https://lifehacker.com/entertainment/amazons-best-cyber-monday-deals-board-games)
+- [Lifehacker] [The Best Cyber Monday Sales on Pro Laptops Under $1,000](https://lifehacker.com/tech/best-cyber-monday-deals-pro-windows-laptops)
+- [Lifehacker] [Make This Buffalo Turkey Pizza With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftover-buffalo-turkey-pizza-recipe)
 - [Dev.to/JS] [Elevate Your Squarespace Photography Portfolio Landing Page with Must-Use CSS Animations 🚀📸](https://dev.to/loftydevs/elevate-your-squarespace-photography-portfolio-landing-page-with-must-use-css-animations-29cg)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Stand Mixers](https://lifehacker.com/food-drink/best-cyber-monday-deals-stand-mixers)
 - [Dev.to/JS] [Code.org](https://dev.to/trulydude/codeorg-37bm)
@@ -53,19 +62,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stop this, use this instead : Top 5 best practices JS / React](https://dev.to/brdnicolas/stop-this-use-this-instead-reactjs-javascript-14d4)
 - [Dev.to/JS] [alihunter](https://dev.to/wsovn123/alihunter-3994)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Cyber Monday](https://lifehacker.com/health/best-cyber-monday-inflatable-kayak-deal)
-- [Dev.to/JS] [Tips and Tricks to Improve SEO Performance of a Next.js Application](https://dev.to/mohammadfaisal/tips-and-tricks-to-improve-seo-performance-of-a-nextjs-application-ncg)
-- [Dev.to/JS] [Paracetamol.js💊| #224: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-224-explica-este-codigo-javascript-2a77)
-- [Dev.to/JS] [alihunter](https://dev.to/wsovn123/alihunter-1nh9)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Lifehacker] [Make This Risotto With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftovers-risotto-recipe)
 - [Lifehacker] [The USDA Plant Hardiness Zone Map Just Changed](https://lifehacker.com/home/usda-plant-hardiness-zone-map-changes)
-- [Lifehacker] [Why You Should Consider Installing Recessed Outlets in Your House](https://lifehacker.com/home/why-recessed-outlets)
-- [Lifehacker] [The Best Ways to Help Someone Who Is &#39;Bad With Money&#39;](https://lifehacker.com/money/help-a-friend-who-is-bad-with-money)
-- [Lifehacker] [Use Rechargeable Motion Sensor Lights to Brighten Dark Spaces](https://lifehacker.com/home/motion-sensor-lights-closets)
-- [Crazy Programmer] [LambdaTest Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/11/lambdatest-review.html)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, November 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-27-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, November 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-26-2023)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Consider Installing Recessed Outlets in Your House](https://lifehacker.com/home/why-recessed-outlets)<!-- TECH-POSTS:END -->
 
 ---
 
