@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 ADVANCED JAVASCRIPT TRICKS YOU SHOULD KNOW !!](https://dev.to/big_smoke/10-advanced-javascript-tricks-you-should-know--1ofj)
+- [Dev.to/JS] [How To Make Responsive App Landing Page Website Design Using Pure HTML And CSS Only | Step By Step](https://dev.to/codingcss/how-to-make-responsive-app-landing-page-website-design-using-pure-html-and-css-only-step-by-step-269m)
+- [Dev.to/JS] [Next.js With Mobx](https://dev.to/mawaisismail/nextjs-with-mobx-51j6)
 - [Lifehacker] [Peloton&#39;s Deep Discounts Are Still On for Cyber Monday](https://lifehacker.com/health/cyber-monday-peloton)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Treadmills](https://lifehacker.com/health/cyber-monday-deals-treadmills)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Clothing Essentials](https://lifehacker.com/money/best-cyber-monday-clothing-deals)
@@ -43,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Dev.to/JS] [How to quickly generate dynamic images with Node.js and Puppeteer.](https://dev.to/vexell/how-to-quickly-generate-dynamic-images-with-nodejs-and-puppeteer-4o4n)
 - [Dev.to/JS] [JavaScript &amp;&amp; Python, Similarities `and` Differences!](https://dev.to/asormeil/javascript-python-similarities-and-differences-2abe)
-- [Dev.to/JS] [adspy](https://dev.to/wsovn123/adspy-1bfb)
-- [Dev.to/JS] [Why I keep choosing Javascript over Typescript, and why it is not ideal as a statically typed Javascript &quot;alternative&quot;](https://dev.to/lnahrf/why-i-keep-choosing-javascript-over-typescript-and-why-it-is-not-ideal-as-a-statically-typed-javascript-alternative-53k)
 - [Lifehacker] [Make This Risotto With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftovers-risotto-recipe)
-- [Dev.to/JS] [smodin](https://dev.to/wsovn123/smodin-317f)
 - [Lifehacker] [The USDA Plant Hardiness Zone Map Just Changed](https://lifehacker.com/home/usda-plant-hardiness-zone-map-changes)
 - [Lifehacker] [Why You Should Consider Installing Recessed Outlets in Your House](https://lifehacker.com/home/why-recessed-outlets)
 - [Lifehacker] [The Best Ways to Help Someone Who Is &#39;Bad With Money&#39;](https://lifehacker.com/money/help-a-friend-who-is-bad-with-money)
