@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SpyMetrics](https://dev.to/wsovn123/spymetrics-4m63)
+- [Dev.to/JS] [Explore Full Stack Magic：Next.js + Prisma + Next-auth + vercel/postgres](https://dev.to/leo_song/explore-full-stack-magicnextjs-prisma-next-auth-vercelpostgres-699)
+- [Dev.to/JS] [SpyBadao](https://dev.to/wsovn123/spybadao-2hif)
+- [Lifehacker] [No, NameDrop on iPhone Won’t Automatically Share Your Contact Information](https://lifehacker.com/tech/how-namedrop-on-iphone-works)
 - [Dev.to/JS] [SpyMetrics](https://dev.to/wsovn123/spymetrics-id5)
 - [Dev.to/JS] [✨ Train ChatGPT on your Documentation 🪄 ✨](https://dev.to/triggerdotdev/train-chatgpt-on-your-documentation-1a9g)
 - [Dev.to/JS] [🛠️6 tools to kickstart your full-stack app with AI 🤖](https://dev.to/matijasos/6-tools-to-kickstart-your-full-stack-app-with-ai-4oh3)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Spring Boot @Value annotation example](https://dev.to/javatute673/spring-boot-value-annotation-example-c1i)
 - [Dev.to/JS] [Spring Boot @Value not working](https://dev.to/javatute673/spring-boot-value-not-working-1hoc)
 - [Dev.to/JS] [Diving Into Server-Side Development: A Comprehensive Guide](https://dev.to/omnathdubeyofficial/diving-into-server-side-development-a-comprehensive-guide-4oj1)
-- [Dev.to/JS] [@Component not working in Spring Boot](https://dev.to/javatute673/component-not-working-in-spring-boot-5e7k)
-- [Dev.to/JS] [CollectionUtils filter&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-filter-example-in-java-7p3)
-- [Dev.to/JS] [StringUtils abbreviate&lpar;&rpar; example in Java](https://dev.to/javatute673/stringutils-abbreviate-example-in-java-4fi0)
 - [Lifehacker] [Make Sure Your Rent Payments Are Being Reported to the Credit Bureaus](https://lifehacker.com/money/report-rent-payments-to-credit-bureaus)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Remove Rust Stains From Your Sink or Tub](https://lifehacker.com/home/how-to-remove-rust-stains-from-your-sink-or-tub)
 - [Lifehacker] [These Are Target&#39;s Best Cyber Monday Tech Deals](https://lifehacker.com/tech/target-cyber-monday-tech)
 - [Lifehacker] [These Are the Best Cyber Monday Sales on Windows Laptops Under $500](https://lifehacker.com/tech/best-cyber-monday-sales-budget-windows-laptops)
-- [Lifehacker] [Peloton&#39;s Deep Discounts Are Still On for Cyber Monday](https://lifehacker.com/health/cyber-monday-peloton)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on Treadmills](https://lifehacker.com/health/cyber-monday-deals-treadmills)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Peloton&#39;s Deep Discounts Are Still On for Cyber Monday](https://lifehacker.com/health/cyber-monday-peloton)<!-- TECH-POSTS:END -->
 
 ---
 
