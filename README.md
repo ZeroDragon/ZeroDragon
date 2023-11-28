@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Random Fact Generator App | JavaScript Project With Source Code](https://dev.to/codingcss/random-fact-generator-app-javascript-project-with-source-code-1mal)
+- [Dev.to/JS] [Web Perf - Large Files](https://dev.to/didof/web-perf-large-files-5a9j)
+- [Dev.to/JS] [DRY Principle in Your AWS SAM Application with Middlewares](https://dev.to/mohammadfaisal/dry-principle-in-your-aws-sam-application-with-middlewares-3a4f)
+- [Dev.to/JS] [Flowchart editor dgrm.net / DGRM cloud](https://dev.to/alexboyko/flowchart-editor-dgrmnet-dgrm-cloud-led)
 - [Dev.to/JS] [SpyMetrics](https://dev.to/wsovn123/spymetrics-4m63)
 - [Dev.to/JS] [Explore Full Stack Magic：Next.js + Prisma + Next-auth + vercel/postgres](https://dev.to/leo_song/explore-full-stack-magicnextjs-prisma-next-auth-vercelpostgres-699)
 - [Dev.to/JS] [SpyBadao](https://dev.to/wsovn123/spybadao-2hif)
@@ -38,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#FIGMA Material Minimal Design System: Updated &amp; Extended](https://dev.to/mdbootstrap/figma-material-minimal-design-system-updated-extended-1a32)
 - [Dev.to/JS] [envato elements premium account hack](https://dev.to/wsovn123/envato-elements-premium-account-hack-ica)
 - [Lifehacker] [Here Are the Differences Between QLED and OLED &lpar;and Why They Matter&rpar;](https://lifehacker.com/tech/qled-vs-oled-whats-the-difference-and-which-is-better)
-- [Dev.to/JS] [Building Robust APIs: Best Practices for Backend Developers](https://dev.to/omnathdubeyofficial/building-robust-apis-best-practices-for-backend-developers-2emb)
-- [Dev.to/JS] [Spring Boot @Value annotation example](https://dev.to/javatute673/spring-boot-value-annotation-example-c1i)
-- [Dev.to/JS] [Spring Boot @Value not working](https://dev.to/javatute673/spring-boot-value-not-working-1hoc)
-- [Dev.to/JS] [Diving Into Server-Side Development: A Comprehensive Guide](https://dev.to/omnathdubeyofficial/diving-into-server-side-development-a-comprehensive-guide-4oj1)
 - [Lifehacker] [Make Sure Your Rent Payments Are Being Reported to the Credit Bureaus](https://lifehacker.com/money/report-rent-payments-to-credit-bureaus)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
