@@ -26,12 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Discover the 9️⃣ Best Self-Hosted, Open-Source Repositories on GitHub 💫](https://dev.to/srbhr/discover-the-9-best-self-hosted-open-source-repositories-on-github-23oc)
+- [Dev.to/JS] [GraphQL is Finally Boring.](https://dev.to/slickstef11/graphql-is-finally-boring-48gf)
+- [Lifehacker] [Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images](https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend)
 - [Dev.to/JS] [You can reach out to them via CRYPTORECOVERYHACKER @ GMAIL COM](https://dev.to/bischof3454/you-can-reach-out-to-them-via-cryptorecoveryhacker-gmail-com-4h0g)
+- [Lifehacker] [This Is Your Last Chance to Stop Google From Deleting Your Old Gmail Account](https://lifehacker.com/tech/stop-google-from-deleting-your-old-gmail-account)
 - [Dev.to/JS] [The Inner Workings of Web Browsers!](https://dev.to/arindam_1729/the-inner-workings-of-web-browsers-4ghh)
 - [Dev.to/JS] [Accessing .env files natively with Node.js](https://dev.to/_staticvoid/accessing-env-files-natively-with-nodejs-44hf)
 - [Dev.to/JS] [How to run TypeScript natively in Node.js with TSX](https://dev.to/_staticvoid/how-to-run-typescript-natively-in-nodejs-with-tsx-3a0c)
+- [Lifehacker] [Here&#39;s Where to Find Your 2023 Apple Music Replay](https://lifehacker.com/tech/2023-apple-music-replay)
 - [Dev.to/JS] [Building my side project using Nuxt3, Supabase, Fastify, &amp; Vercel](https://dev.to/netervati/building-my-side-project-using-nuxt3-supabase-fastify-vercel-3680)
 - [Dev.to/JS] [Building interactive tutorials with WebContainers](https://dev.to/jxd-dev/building-interactive-tutorials-with-webcontainers-372i)
+- [Lifehacker] [The Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)
 - [Dev.to/JS] [Jumblie Build Log](https://dev.to/cassidoo/jumblie-build-log-2m0l)
 - [Lifehacker] [There&#39;s a Faster New Way to Send Photos in iMessage](https://lifehacker.com/tech/send-photos-faster-imessage)
 - [Lifehacker] [Use Nair to Remove Hair From a Necklace](https://lifehacker.com/home/remove-hair-from-necklace)
@@ -41,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Linear &amp; Binary Search in DSA](https://dev.to/syedmuhammadaliraza/linear-binary-search-in-dsa-l74)
 - [Lifehacker] [Here Are All the Ways to &#39;Ping&#39; a Lost iPhone](https://lifehacker.com/here-are-all-the-ways-to-ping-a-lost-iphone-1847981845)
 - [Lifehacker] [My 25 Favorite New Podcasts of 2023](https://lifehacker.com/entertainment/best-podcasts-2023)
-- [Dev.to/JS] [Random Fact Generator App | JavaScript Project With Source Code](https://dev.to/codingcss/random-fact-generator-app-javascript-project-with-source-code-1mal)
-- [Dev.to/JS] [DRY Principle in Your AWS SAM Application with Middlewares](https://dev.to/mohammadfaisal/dry-principle-in-your-aws-sam-application-with-middlewares-3a4f)
 - [Lifehacker] [The Unbreakable Rules of Sharing a Fence With Your Neighbor](https://lifehacker.com/home/rules-of-sharing-a-fence-with-neighbors)
 - [Lifehacker] [Upgrade Your Leftover-Turkey Sandwich With Thai Curry Paste](https://lifehacker.com/food-drink/thai-curry-turkey-sandwich-recipe)
 - [Lifehacker] [No, NameDrop on iPhone Won’t Automatically Share Your Contact Information](https://lifehacker.com/tech/how-namedrop-on-iphone-works)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Amazon’s Best Cyber Monday Deals on Board Games](https://lifehacker.com/entertainment/amazons-best-cyber-monday-deals-board-games)
 - [Lifehacker] [The Best Cyber Monday Sales on Pro Laptops Under $1,000](https://lifehacker.com/tech/best-cyber-monday-deals-pro-windows-laptops)
 - [Lifehacker] [Make This Buffalo Turkey Pizza With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftover-buffalo-turkey-pizza-recipe)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on Stand Mixers](https://lifehacker.com/food-drink/best-cyber-monday-deals-stand-mixers)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on Sex Toys](https://lifehacker.com/money/the-best-cyber-monday-deals-on-sex-toys)
-- [Lifehacker] [These Are the Best Streaming Service Deals for Cyber Monday](https://lifehacker.com/entertainment/best-streaming-service-deals-cyber-monday)
-- [Lifehacker] [How to Take Advantage of Travel Deal Tuesday](https://lifehacker.com/travel/how-to-take-advantage-of-travel-deal-tuesday)
-- [Lifehacker] [The Best Apple Watch Deals on Cyber Monday](https://lifehacker.com/tech/the-best-apple-watch-sales-on-cyber-monday)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Cyber Monday Deals on Stand Mixers](https://lifehacker.com/food-drink/best-cyber-monday-deals-stand-mixers)<!-- TECH-POSTS:END -->
 
 ---
 
