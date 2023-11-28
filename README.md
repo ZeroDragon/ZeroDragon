@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Focus Management II: como mantener el foco dentro de un modal](https://dev.to/micaavigliano/focus-management-ii-como-mantener-el-foco-dentro-de-un-modal-18gd)
+- [Dev.to/JS] [Exploring JavaScript Functions: Normal Functions, Arrow Functions, and Generation Functions](https://dev.to/diegoaatrevisan/exploring-javascript-functions-normal-functions-arrow-functions-and-generation-functions-1752)
+- [Lifehacker] [These Are the Best Cyber Monday Dyson Vacuum Deals](https://lifehacker.com/home/best-cyber-monday-dyson-vacuum-deals)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Headphones](https://lifehacker.com/tech/best-cyber-monday-deals-headphones-earbuds)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Streaming Devices](https://lifehacker.com/entertainment/best-cyber-monday-deals-on-streaming-devices)
 - [Lifehacker] [The Best Cyber Monday Deals Walmart Has to Offer](https://lifehacker.com/money/best-walmart-cyber-monday-deals)
@@ -61,11 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Your Code Challenge of the Day](https://dev.to/opensourcee/your-code-challenge-of-the-day-2hdh)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on MacBooks](https://lifehacker.com/tech/cyber-monday-deals-macbooks)
 - [Lifehacker] [This Cyber Monday Deal Makes the Meta Quest 2 the Cheapest It&#39;s Ever Been](https://lifehacker.com/entertainment/meta-quest-2-cyber-monday-deal)
-- [Dev.to/JS] [Stop this, use this instead : Top 5 best practices JS / React](https://dev.to/brdnicolas/stop-this-use-this-instead-reactjs-javascript-14d4)
-- [Dev.to/JS] [alihunter](https://dev.to/wsovn123/alihunter-3994)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Cyber Monday](https://lifehacker.com/health/best-cyber-monday-inflatable-kayak-deal)
-- [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
-- [Lifehacker] [Make This Risotto With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftovers-risotto-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)<!-- TECH-POSTS:END -->
 
 ---
 
