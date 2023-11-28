@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Estructura de Directorios y Configuración del Entorno Local](https://dev.to/nixcko/estructura-de-directorios-y-configuracion-del-entorno-local-50hh)
+- [Dev.to/JS] [7 JavaScript Quick Coding Tips ✨](https://dev.to/random_ti/7-javascript-quick-coding-tips-55kl)
+- [Dev.to/JS] [SM66 VND - Link Vào Nhà Cái SM66 - Trang Chủ SM66](https://dev.to/sm66vnd/sm66-vnd-link-vao-nha-cai-sm66-trang-chu-sm66-18bi)
+- [Dev.to/JS] [When to Use useEffect and useLayoutEffect in React](https://dev.to/lawrencespractice/when-to-use-useeffect-and-uselayouteffect-in-react-3n79)
+- [Dev.to/JS] [Let’s understand! What is web development?](https://dev.to/go-techsolution/lets-understand-what-is-web-development-332l)
 - [Dev.to/JS] [CREATE A LIBRARY WITH JSX &amp; CUSTOM STATE](https://dev.to/devsmitra/create-a-library-with-jsx-custom-state-348h)
 - [Dev.to/JS] [Exploring the Power of React Custom Hooks](https://dev.to/moktarul12/exploring-the-power-of-react-custom-hooks-d13)
 - [Dev.to/JS] [Choosing the Right Path: Ternary Operator vs. Logical AND for Conditional Rendering in React](https://dev.to/amritapadhy/choosing-the-right-path-ternary-operator-vs-logical-and-for-conditional-rendering-in-react-3dnk)
@@ -35,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
 - [Dev.to/JS] [Utility Type: PrependArgs](https://dev.to/teamradhq/utility-type-prependargs-3p92)
 - [Dev.to/JS] [Extract texts and image from Google Slide embedded iframe with Plasmo extensions](https://dev.to/chanon-mike/extract-texts-and-image-from-google-slide-embeded-iframe-with-plasmo-extensions-3kdi)
-- [Dev.to/JS] [蹩脚“诈骗专家”闫丽梦](https://dev.to/yu6363/bie-jiao-zha-pian-zhuan-jia-yan-li-meng-3nh6)
-- [Dev.to/JS] [Introdução ao Node.js &lpar;Single-Thread, Event-Loop e mercado&rpar;](https://dev.to/fabiojanio/introducao-ao-nodejs-single-thread-event-loop-e-mercado-17pk)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
-- [Dev.to/JS] [Calculating Field Values In Five](https://dev.to/domfive/calculating-field-values-in-five-4mao)
-- [Dev.to/JS] [Focus Management II: como mantener el foco dentro de un modal](https://dev.to/micaavigliano/focus-management-ii-como-mantener-el-foco-dentro-de-un-modal-18gd)
-- [Dev.to/JS] [Exploring JavaScript Functions: Normal Functions, Arrow Functions, and Generation Functions](https://dev.to/diegoaatrevisan/exploring-javascript-functions-normal-functions-arrow-functions-and-generation-functions-1752)
 - [Lifehacker] [These Are the Best Cyber Monday Dyson Vacuum Deals](https://lifehacker.com/home/best-cyber-monday-dyson-vacuum-deals)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Headphones](https://lifehacker.com/tech/best-cyber-monday-deals-headphones-earbuds)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Streaming Devices](https://lifehacker.com/entertainment/best-cyber-monday-deals-on-streaming-devices)
