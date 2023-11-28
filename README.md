@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SpyMetrics](https://dev.to/wsovn123/spymetrics-id5)
+- [Dev.to/JS] [✨ Train ChatGPT on your Documentation 🪄 ✨](https://dev.to/triggerdotdev/train-chatgpt-on-your-documentation-1a9g)
+- [Dev.to/JS] [🛠️6 tools to kickstart your full-stack app with AI 🤖](https://dev.to/matijasos/6-tools-to-kickstart-your-full-stack-app-with-ai-4oh3)
+- [Lifehacker] [The Differences Between a Drill, Impact Driver, and Hammer Drill &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/drill-hammer-drill-impact-driver)
+- [Lifehacker] [What&#39;s New on Max in December 2023](https://lifehacker.com/entertainment/max-december-2023)
 - [Dev.to/JS] [#FIGMA Material Minimal Design System: Updated &amp; Extended](https://dev.to/mdbootstrap/figma-material-minimal-design-system-updated-extended-1a32)
 - [Dev.to/JS] [envato elements premium account hack](https://dev.to/wsovn123/envato-elements-premium-account-hack-ica)
+- [Lifehacker] [Here Are the Differences Between QLED and OLED &lpar;and Why They Matter&rpar;](https://lifehacker.com/tech/qled-vs-oled-whats-the-difference-and-which-is-better)
 - [Dev.to/JS] [Building Robust APIs: Best Practices for Backend Developers](https://dev.to/omnathdubeyofficial/building-robust-apis-best-practices-for-backend-developers-2emb)
 - [Dev.to/JS] [Spring Boot @Value annotation example](https://dev.to/javatute673/spring-boot-value-annotation-example-c1i)
 - [Dev.to/JS] [Spring Boot @Value not working](https://dev.to/javatute673/spring-boot-value-not-working-1hoc)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CollectionUtils filter&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-filter-example-in-java-7p3)
 - [Dev.to/JS] [StringUtils abbreviate&lpar;&rpar; example in Java](https://dev.to/javatute673/stringutils-abbreviate-example-in-java-4fi0)
 - [Lifehacker] [Make Sure Your Rent Payments Are Being Reported to the Credit Bureaus](https://lifehacker.com/money/report-rent-payments-to-credit-bureaus)
-- [Dev.to/JS] [Navigating Your Component Journey with Component Odyssey](https://dev.to/andrico1234/navigating-your-component-journey-with-component-odyssey-ajl)
-- [Dev.to/JS] [Node.js vs. Django: Choosing the Right Backend Framework](https://dev.to/omnathdubeyofficial/nodejs-vs-django-choosing-the-right-backend-framework-18kh)
-- [Dev.to/JS] [StringUtils stripEnd&lpar;&rpar; Example in Java](https://dev.to/javatute673/stringutils-stripend-example-in-java-30na)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Target&#39;s Best Cyber Monday Tech Deals](https://lifehacker.com/tech/target-cyber-monday-tech)
 - [Lifehacker] [These Are the Best Cyber Monday Sales on Windows Laptops Under $500](https://lifehacker.com/tech/best-cyber-monday-sales-budget-windows-laptops)
 - [Lifehacker] [Peloton&#39;s Deep Discounts Are Still On for Cyber Monday](https://lifehacker.com/health/cyber-monday-peloton)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on Treadmills](https://lifehacker.com/health/cyber-monday-deals-treadmills)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on Clothing Essentials](https://lifehacker.com/money/best-cyber-monday-clothing-deals)
-- [Lifehacker] [These Are the Best Cyber Monday Sales on Vitamix and Breville Blenders and Food Processors](https://lifehacker.com/food-drink/cyber-monday-blender-sales)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on MacBooks](https://lifehacker.com/tech/cyber-monday-deals-macbooks)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Cyber Monday Deals on Treadmills](https://lifehacker.com/health/cyber-monday-deals-treadmills)<!-- TECH-POSTS:END -->
 
 ---
 
