@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating the Web Future: A Fun Guide to What&#39;s Next in Development! 🚀](https://dev.to/mitchiemt11/navigating-the-web-future-a-fun-guide-to-whats-next-in-development-cop)
+- [Dev.to/JS] [Mastering React Data Fetching: A Comprehensive Guide for Developers 🚀](https://dev.to/maitrish/mastering-react-data-fetching-a-comprehensive-guide-for-developers-19pc)
 - [Dev.to/JS] [JavaScript Substring Method](https://dev.to/refine/javascript-substring-method-4boh)
 - [Dev.to/JS] [Next js Routing](https://dev.to/ewenikeemmanue4/next-js-routing-1f7a)
 - [Dev.to/JS] [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-5761)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 JavaScript Quick Coding Tips ✨](https://dev.to/random_ti/7-javascript-quick-coding-tips-55kl)
 - [Dev.to/JS] [SM66 VND - Link Vào Nhà Cái SM66 - Trang Chủ SM66](https://dev.to/sm66vnd/sm66-vnd-link-vao-nha-cai-sm66-trang-chu-sm66-18bi)
 - [Dev.to/JS] [When to Use useEffect and useLayoutEffect in React](https://dev.to/lawrencespractice/when-to-use-useeffect-and-uselayouteffect-in-react-3n79)
-- [Dev.to/JS] [Let’s understand! What is web development?](https://dev.to/go-techsolution/lets-understand-what-is-web-development-332l)
-- [Dev.to/JS] [CREATE A LIBRARY WITH JSX &amp; CUSTOM STATE](https://dev.to/devsmitra/create-a-library-with-jsx-custom-state-348h)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
