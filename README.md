@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Extract texts and image from Google Slide embedded iframe with Plasmo extensions](https://dev.to/chanon-mike/extract-texts-and-image-from-google-slide-embeded-iframe-with-plasmo-extensions-3kdi)
+- [Dev.to/JS] [蹩脚“诈骗专家”闫丽梦](https://dev.to/yu6363/bie-jiao-zha-pian-zhuan-jia-yan-li-meng-3nh6)
+- [Dev.to/JS] [Introdução ao Node.js &lpar;Single-Thread, Event-Loop e mercado&rpar;](https://dev.to/fabiojanio/introducao-ao-nodejs-single-thread-event-loop-e-mercado-17pk)
 - [Dev.to/JS] [Calculating Field Values In Five](https://dev.to/domfive/calculating-field-values-in-five-4mao)
 - [Dev.to/JS] [Focus Management II: como mantener el foco dentro de un modal](https://dev.to/micaavigliano/focus-management-ii-como-mantener-el-foco-dentro-de-un-modal-18gd)
 - [Dev.to/JS] [Exploring JavaScript Functions: Normal Functions, Arrow Functions, and Generation Functions](https://dev.to/diegoaatrevisan/exploring-javascript-functions-normal-functions-arrow-functions-and-generation-functions-1752)
@@ -51,10 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Apple Watch Deals on Cyber Monday](https://lifehacker.com/tech/the-best-apple-watch-sales-on-cyber-monday)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Self-care Tools](https://lifehacker.com/money/best-cyber-monday-deals-on-self-care-tools)
 - [Lifehacker] [These Are Amazon’s Best Cyber Monday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/amazon-cyber-monday-deals-gaming-consoles-and-controllers)
-- [Dev.to/JS] [10 ADVANCED JAVASCRIPT TRICKS YOU SHOULD KNOW !!](https://dev.to/big_smoke/10-advanced-javascript-tricks-you-should-know--1ofj)
-- [Dev.to/JS] [How To Make Responsive App Landing Page Website Design Using Pure HTML And CSS Only | Step By Step](https://dev.to/codingcss/how-to-make-responsive-app-landing-page-website-design-using-pure-html-and-css-only-step-by-step-269m)
 - [Lifehacker] [These Are Amazon&#39;s Best Cyber Monday Deals on Soundbars](https://lifehacker.com/tech/amazon-cyber-monday-soundbars)
-- [Dev.to/JS] [Next.js With Mobx](https://dev.to/mawaisismail/nextjs-with-mobx-51j6)
 - [Lifehacker] [The Best Way to Remove Rust Stains From Your Sink or Tub](https://lifehacker.com/home/how-to-remove-rust-stains-from-your-sink-or-tub)
 - [Lifehacker] [These Are Target&#39;s Best Cyber Monday Tech Deals](https://lifehacker.com/tech/target-cyber-monday-tech)
 - [Lifehacker] [These Are the Best Cyber Monday Sales on Windows Laptops Under $500](https://lifehacker.com/tech/best-cyber-monday-sales-budget-windows-laptops)
