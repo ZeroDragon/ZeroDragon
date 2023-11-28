@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You can reach out to them via CRYPTORECOVERYHACKER @ GMAIL COM](https://dev.to/bischof3454/you-can-reach-out-to-them-via-cryptorecoveryhacker-gmail-com-4h0g)
+- [Dev.to/JS] [The Inner Workings of Web Browsers!](https://dev.to/arindam_1729/the-inner-workings-of-web-browsers-4ghh)
+- [Dev.to/JS] [Accessing .env files natively with Node.js](https://dev.to/_staticvoid/accessing-env-files-natively-with-nodejs-44hf)
+- [Dev.to/JS] [How to run TypeScript natively in Node.js with TSX](https://dev.to/_staticvoid/how-to-run-typescript-natively-in-nodejs-with-tsx-3a0c)
+- [Dev.to/JS] [Building my side project using Nuxt3, Supabase, Fastify, &amp; Vercel](https://dev.to/netervati/building-my-side-project-using-nuxt3-supabase-fastify-vercel-3680)
 - [Dev.to/JS] [Building interactive tutorials with WebContainers](https://dev.to/jxd-dev/building-interactive-tutorials-with-webcontainers-372i)
 - [Dev.to/JS] [Jumblie Build Log](https://dev.to/cassidoo/jumblie-build-log-2m0l)
 - [Lifehacker] [There&#39;s a Faster New Way to Send Photos in iMessage](https://lifehacker.com/tech/send-photos-faster-imessage)
@@ -38,13 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My 25 Favorite New Podcasts of 2023](https://lifehacker.com/entertainment/best-podcasts-2023)
 - [Dev.to/JS] [Random Fact Generator App | JavaScript Project With Source Code](https://dev.to/codingcss/random-fact-generator-app-javascript-project-with-source-code-1mal)
 - [Dev.to/JS] [DRY Principle in Your AWS SAM Application with Middlewares](https://dev.to/mohammadfaisal/dry-principle-in-your-aws-sam-application-with-middlewares-3a4f)
-- [Dev.to/JS] [Web Perf - Large Files](https://dev.to/didof/web-perf-large-files-5a9j)
 - [Lifehacker] [The Unbreakable Rules of Sharing a Fence With Your Neighbor](https://lifehacker.com/home/rules-of-sharing-a-fence-with-neighbors)
-- [Dev.to/JS] [Flowchart editor dgrm.net / DGRM cloud](https://dev.to/alexboyko/flowchart-editor-dgrmnet-dgrm-cloud-led)
 - [Lifehacker] [Upgrade Your Leftover-Turkey Sandwich With Thai Curry Paste](https://lifehacker.com/food-drink/thai-curry-turkey-sandwich-recipe)
-- [Dev.to/JS] [SpyMetrics](https://dev.to/wsovn123/spymetrics-4m63)
-- [Dev.to/JS] [Explore Full Stack Magic：Next.js + Prisma + Next-auth + vercel/postgres](https://dev.to/leo_song/explore-full-stack-magicnextjs-prisma-next-auth-vercelpostgres-699)
-- [Dev.to/JS] [SpyBadao](https://dev.to/wsovn123/spybadao-2hif)
 - [Lifehacker] [No, NameDrop on iPhone Won’t Automatically Share Your Contact Information](https://lifehacker.com/tech/how-namedrop-on-iphone-works)
 - [Lifehacker] [The Differences Between a Drill, Impact Driver, and Hammer Drill &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/drill-hammer-drill-impact-driver)
 - [Lifehacker] [What&#39;s New on Max in December 2023](https://lifehacker.com/entertainment/max-december-2023)
