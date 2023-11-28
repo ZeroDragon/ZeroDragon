@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integration of augmented reality &lpar;AR&rpar; in web development](https://dev.to/sparkouttech/integration-of-augmented-reality-ar-in-web-development-346m)
+- [Dev.to/JS] [Rising Phoenix For Men - ENHANCES Sex Drive &amp; Libido Naturally](https://dev.to/risingphoenixformen/rising-phoenix-for-men-enhances-sex-drive-libido-naturally-27pg)
 - [Dev.to/JS] [What are taints and server actions in NextJS 14?](https://dev.to/justmrkhan/what-are-taints-and-server-actions-in-nextjs-14-1379)
 - [Dev.to/JS] [Demystifying IP Addresses with is.ipv4 and is.not_ipv4 from &#39;thiis&#39;: Your Friendly Guide to IP Validation](https://dev.to/karbashevskyi/demystifying-ip-addresses-with-isipv4-and-isnotipv4-from-thiis-your-friendly-guide-to-ip-validation-4hhh)
 - [Dev.to/JS] [Best wedding planner in rajasthan](https://dev.to/shaadiwala/best-wedding-planner-in-rajasthan-b4h)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Substring Method](https://dev.to/refine/javascript-substring-method-4boh)
 - [Dev.to/JS] [Next js Routing](https://dev.to/ewenikeemmanue4/next-js-routing-1f7a)
 - [Dev.to/JS] [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-5761)
-- [Dev.to/JS] [Application of Javascript.](https://dev.to/vincenttommi/application-of-javascript-26fc)
-- [Dev.to/JS] [How do I interpret data from V8&#39;s Profiler.takePreciseCoverage?](https://dev.to/dulguun0225/how-do-i-interpret-data-from-v8s-profilertakeprecisecoverage-1lhn)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
