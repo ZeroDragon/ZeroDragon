@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making a Text Scramble Animation with JavaScript](https://dev.to/cruip_com/making-a-text-scramble-animation-with-javascript-2nb3)
+- [Dev.to/JS] [The pieces of UI: Components 🧩](https://dev.to/dvalin99/the-pieces-of-ui-components-3ija)
 - [Dev.to/JS] [Navigating the Web Future: A Fun Guide to What&#39;s Next in Development! 🚀](https://dev.to/mitchiemt11/navigating-the-web-future-a-fun-guide-to-whats-next-in-development-cop)
 - [Dev.to/JS] [Mastering React Data Fetching: A Comprehensive Guide for Developers 🚀](https://dev.to/maitrish/mastering-react-data-fetching-a-comprehensive-guide-for-developers-19pc)
 - [Dev.to/JS] [JavaScript Substring Method](https://dev.to/refine/javascript-substring-method-4boh)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reasons to learn Javascript as Web-dev.](https://dev.to/vincenttommi/reasons-to-learn-javascript-as-web-dev-1c9i)
 - [Dev.to/JS] [Estructura de Directorios y Configuración del Entorno Local](https://dev.to/nixcko/estructura-de-directorios-y-configuracion-del-entorno-local-50hh)
 - [Dev.to/JS] [7 JavaScript Quick Coding Tips ✨](https://dev.to/random_ti/7-javascript-quick-coding-tips-55kl)
-- [Dev.to/JS] [SM66 VND - Link Vào Nhà Cái SM66 - Trang Chủ SM66](https://dev.to/sm66vnd/sm66-vnd-link-vao-nha-cai-sm66-trang-chu-sm66-18bi)
-- [Dev.to/JS] [When to Use useEffect and useLayoutEffect in React](https://dev.to/lawrencespractice/when-to-use-useeffect-and-uselayouteffect-in-react-3n79)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
