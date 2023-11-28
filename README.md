@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Event Emitter in NodeJS](https://dev.to/tanmaycode/event-emitter-in-nodejs-1h58)
+- [Dev.to/JS] [Boost Your Career to become a Master on Commvault online Training with GoLogica](https://dev.to/gologica/boost-your-career-to-become-a-master-on-commvault-online-training-with-gologica-5d3b)
+- [Dev.to/JS] [Utility Type: PrependArgs](https://dev.to/teamradhq/utility-type-prependargs-3p92)
 - [Dev.to/JS] [Extract texts and image from Google Slide embedded iframe with Plasmo extensions](https://dev.to/chanon-mike/extract-texts-and-image-from-google-slide-embeded-iframe-with-plasmo-extensions-3kdi)
 - [Dev.to/JS] [蹩脚“诈骗专家”闫丽梦](https://dev.to/yu6363/bie-jiao-zha-pian-zhuan-jia-yan-li-meng-3nh6)
 - [Dev.to/JS] [Introdução ao Node.js &lpar;Single-Thread, Event-Loop e mercado&rpar;](https://dev.to/fabiojanio/introducao-ao-nodejs-single-thread-event-loop-e-mercado-17pk)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
 - [Dev.to/JS] [Calculating Field Values In Five](https://dev.to/domfive/calculating-field-values-in-five-4mao)
 - [Dev.to/JS] [Focus Management II: como mantener el foco dentro de un modal](https://dev.to/micaavigliano/focus-management-ii-como-mantener-el-foco-dentro-de-un-modal-18gd)
 - [Dev.to/JS] [Exploring JavaScript Functions: Normal Functions, Arrow Functions, and Generation Functions](https://dev.to/diegoaatrevisan/exploring-javascript-functions-normal-functions-arrow-functions-and-generation-functions-1752)
@@ -44,11 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Amazon’s Best Cyber Monday Deals on Board Games](https://lifehacker.com/entertainment/amazons-best-cyber-monday-deals-board-games)
 - [Lifehacker] [The Best Cyber Monday Sales on Pro Laptops Under $1,000](https://lifehacker.com/tech/best-cyber-monday-deals-pro-windows-laptops)
 - [Lifehacker] [Make This Buffalo Turkey Pizza With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftover-buffalo-turkey-pizza-recipe)
-- [Dev.to/JS] [Elevate Your Squarespace Photography Portfolio Landing Page with Must-Use CSS Animations 🚀📸](https://dev.to/loftydevs/elevate-your-squarespace-photography-portfolio-landing-page-with-must-use-css-animations-29cg)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Stand Mixers](https://lifehacker.com/food-drink/best-cyber-monday-deals-stand-mixers)
-- [Dev.to/JS] [Code.org](https://dev.to/trulydude/codeorg-37bm)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Sex Toys](https://lifehacker.com/money/the-best-cyber-monday-deals-on-sex-toys)
-- [Dev.to/JS] [Redirecting mobile users to App or Play Store in NextJS](https://dev.to/andreasbergstrom/redirecting-mobile-users-to-app-or-play-store-using-nextjs-3pp1)
 - [Lifehacker] [These Are the Best Streaming Service Deals for Cyber Monday](https://lifehacker.com/entertainment/best-streaming-service-deals-cyber-monday)
 - [Lifehacker] [How to Take Advantage of Travel Deal Tuesday](https://lifehacker.com/travel/how-to-take-advantage-of-travel-deal-tuesday)
 - [Lifehacker] [The Best Apple Watch Deals on Cyber Monday](https://lifehacker.com/tech/the-best-apple-watch-sales-on-cyber-monday)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cyber Monday Sales on Vitamix and Breville Blenders and Food Processors](https://lifehacker.com/food-drink/cyber-monday-blender-sales)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on MacBooks](https://lifehacker.com/tech/cyber-monday-deals-macbooks)
 - [Lifehacker] [This Cyber Monday Deal Makes the Meta Quest 2 the Cheapest It&#39;s Ever Been](https://lifehacker.com/entertainment/meta-quest-2-cyber-monday-deal)
-- [Lifehacker] [This Inflatable Kayak Is Only $85 for Cyber Monday](https://lifehacker.com/health/best-cyber-monday-inflatable-kayak-deal)
-- [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Inflatable Kayak Is Only $85 for Cyber Monday](https://lifehacker.com/health/best-cyber-monday-inflatable-kayak-deal)<!-- TECH-POSTS:END -->
 
 ---
 
