@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Calculating Field Values In Five](https://dev.to/domfive/calculating-field-values-in-five-4mao)
 - [Dev.to/JS] [Focus Management II: como mantener el foco dentro de un modal](https://dev.to/micaavigliano/focus-management-ii-como-mantener-el-foco-dentro-de-un-modal-18gd)
 - [Dev.to/JS] [Exploring JavaScript Functions: Normal Functions, Arrow Functions, and Generation Functions](https://dev.to/diegoaatrevisan/exploring-javascript-functions-normal-functions-arrow-functions-and-generation-functions-1752)
 - [Lifehacker] [These Are the Best Cyber Monday Dyson Vacuum Deals](https://lifehacker.com/home/best-cyber-monday-dyson-vacuum-deals)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Treadmills](https://lifehacker.com/health/cyber-monday-deals-treadmills)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Clothing Essentials](https://lifehacker.com/money/best-cyber-monday-clothing-deals)
 - [Lifehacker] [These Are the Best Cyber Monday Sales on Vitamix and Breville Blenders and Food Processors](https://lifehacker.com/food-drink/cyber-monday-blender-sales)
-- [Dev.to/JS] [Your Code Challenge of the Day](https://dev.to/opensourcee/your-code-challenge-of-the-day-2hdh)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on MacBooks](https://lifehacker.com/tech/cyber-monday-deals-macbooks)
 - [Lifehacker] [This Cyber Monday Deal Makes the Meta Quest 2 the Cheapest It&#39;s Ever Been](https://lifehacker.com/entertainment/meta-quest-2-cyber-monday-deal)
 - [Lifehacker] [This Inflatable Kayak Is Only $85 for Cyber Monday](https://lifehacker.com/health/best-cyber-monday-inflatable-kayak-deal)
