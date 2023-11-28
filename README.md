@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CREATE A LIBRARY WITH JSX &amp; CUSTOM STATE](https://dev.to/devsmitra/create-a-library-with-jsx-custom-state-348h)
+- [Dev.to/JS] [Exploring the Power of React Custom Hooks](https://dev.to/moktarul12/exploring-the-power-of-react-custom-hooks-d13)
+- [Dev.to/JS] [Choosing the Right Path: Ternary Operator vs. Logical AND for Conditional Rendering in React](https://dev.to/amritapadhy/choosing-the-right-path-ternary-operator-vs-logical-and-for-conditional-rendering-in-react-3dnk)
+- [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Dev.to/JS] [Event Emitter in NodeJS](https://dev.to/tanmaycode/event-emitter-in-nodejs-1h58)
 - [Dev.to/JS] [Boost Your Career to become a Master on Commvault online Training with GoLogica](https://dev.to/gologica/boost-your-career-to-become-a-master-on-commvault-online-training-with-gologica-5d3b)
+- [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
 - [Dev.to/JS] [Utility Type: PrependArgs](https://dev.to/teamradhq/utility-type-prependargs-3p92)
 - [Dev.to/JS] [Extract texts and image from Google Slide embedded iframe with Plasmo extensions](https://dev.to/chanon-mike/extract-texts-and-image-from-google-slide-embeded-iframe-with-plasmo-extensions-3kdi)
 - [Dev.to/JS] [蹩脚“诈骗专家”闫丽梦](https://dev.to/yu6363/bie-jiao-zha-pian-zhuan-jia-yan-li-meng-3nh6)
@@ -41,10 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Streaming Devices](https://lifehacker.com/entertainment/best-cyber-monday-deals-on-streaming-devices)
 - [Lifehacker] [The Best Cyber Monday Deals Walmart Has to Offer](https://lifehacker.com/money/best-walmart-cyber-monday-deals)
 - [Lifehacker] [These Are the Best Cyber Monday Cordless Vacuum Deals at Amazon](https://lifehacker.com/home/amazon-cyber-monday-cordless-vacuums)
-- [Dev.to/JS] [Javascript Made Simple!](https://dev.to/justaguyfrombr/javascript-made-simple-1h02)
-- [Dev.to/JS] [El Camino del Desarrollador Web: Fundamentos, Prácticas y Herramientas Esenciales](https://dev.to/nixcko/el-camino-del-desarrollador-web-fundamentos-practicas-y-herramientas-esenciales-2fdm)
-- [Dev.to/JS] [Time Series Data with TDEngine and GraphQL](https://dev.to/zentered/time-series-data-with-tdengine-and-graphql-4dbl)
-- [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
 - [Lifehacker] [These Are Amazon’s Best Cyber Monday Deals on Board Games](https://lifehacker.com/entertainment/amazons-best-cyber-monday-deals-board-games)
 - [Lifehacker] [The Best Cyber Monday Sales on Pro Laptops Under $1,000](https://lifehacker.com/tech/best-cyber-monday-deals-pro-windows-laptops)
 - [Lifehacker] [Make This Buffalo Turkey Pizza With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftover-buffalo-turkey-pizza-recipe)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Clothing Essentials](https://lifehacker.com/money/best-cyber-monday-clothing-deals)
 - [Lifehacker] [These Are the Best Cyber Monday Sales on Vitamix and Breville Blenders and Food Processors](https://lifehacker.com/food-drink/cyber-monday-blender-sales)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on MacBooks](https://lifehacker.com/tech/cyber-monday-deals-macbooks)
-- [Lifehacker] [This Cyber Monday Deal Makes the Meta Quest 2 the Cheapest It&#39;s Ever Been](https://lifehacker.com/entertainment/meta-quest-2-cyber-monday-deal)
-- [Lifehacker] [This Inflatable Kayak Is Only $85 for Cyber Monday](https://lifehacker.com/health/best-cyber-monday-inflatable-kayak-deal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Cyber Monday Deal Makes the Meta Quest 2 the Cheapest It&#39;s Ever Been](https://lifehacker.com/entertainment/meta-quest-2-cyber-monday-deal)<!-- TECH-POSTS:END -->
 
 ---
 
