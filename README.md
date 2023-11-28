@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Image Slider in ReactJS](https://dev.to/madhubankhatri/create-image-slider-in-reactjs-4od5)
+- [Dev.to/JS] [Cómo crear un servidor web en tu proyecto vanilla javascript](https://dev.to/davichobits/como-crear-un-servidor-web-en-tu-proyecto-vanilla-javascript-591m)
 - [Dev.to/JS] [Linear &amp; Binary Search in DSA](https://dev.to/syedmuhammadaliraza/linear-binary-search-in-dsa-l74)
+- [Lifehacker] [My 25 Favorite New Podcasts of 2023](https://lifehacker.com/entertainment/best-podcasts-2023)
 - [Dev.to/JS] [Random Fact Generator App | JavaScript Project With Source Code](https://dev.to/codingcss/random-fact-generator-app-javascript-project-with-source-code-1mal)
 - [Dev.to/JS] [Web Perf - Large Files](https://dev.to/didof/web-perf-large-files-5a9j)
 - [Dev.to/JS] [DRY Principle in Your AWS SAM Application with Middlewares](https://dev.to/mohammadfaisal/dry-principle-in-your-aws-sam-application-with-middlewares-3a4f)
@@ -39,10 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, NameDrop on iPhone Won’t Automatically Share Your Contact Information](https://lifehacker.com/tech/how-namedrop-on-iphone-works)
 - [Dev.to/JS] [SpyMetrics](https://dev.to/wsovn123/spymetrics-id5)
 - [Dev.to/JS] [✨ Train ChatGPT on your Documentation 🪄 ✨](https://dev.to/triggerdotdev/train-chatgpt-on-your-documentation-1a9g)
-- [Dev.to/JS] [🛠️6 tools to kickstart your full-stack app with AI 🤖](https://dev.to/matijasos/6-tools-to-kickstart-your-full-stack-app-with-ai-4oh3)
 - [Lifehacker] [The Differences Between a Drill, Impact Driver, and Hammer Drill &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/drill-hammer-drill-impact-driver)
 - [Lifehacker] [What&#39;s New on Max in December 2023](https://lifehacker.com/entertainment/max-december-2023)
-- [Dev.to/JS] [#FIGMA Material Minimal Design System: Updated &amp; Extended](https://dev.to/mdbootstrap/figma-material-minimal-design-system-updated-extended-1a32)
 - [Lifehacker] [Here Are the Differences Between QLED and OLED &lpar;and Why They Matter&rpar;](https://lifehacker.com/tech/qled-vs-oled-whats-the-difference-and-which-is-better)
 - [Lifehacker] [Make Sure Your Rent Payments Are Being Reported to the Credit Bureaus](https://lifehacker.com/money/report-rent-payments-to-credit-bureaus)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Self-care Tools](https://lifehacker.com/money/best-cyber-monday-deals-on-self-care-tools)
 - [Lifehacker] [These Are Amazon’s Best Cyber Monday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/amazon-cyber-monday-deals-gaming-consoles-and-controllers)
 - [Lifehacker] [These Are Amazon&#39;s Best Cyber Monday Deals on Soundbars](https://lifehacker.com/tech/amazon-cyber-monday-soundbars)
-- [Lifehacker] [The Best Way to Remove Rust Stains From Your Sink or Tub](https://lifehacker.com/home/how-to-remove-rust-stains-from-your-sink-or-tub)
-- [Lifehacker] [These Are Target&#39;s Best Cyber Monday Tech Deals](https://lifehacker.com/tech/target-cyber-monday-tech)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Remove Rust Stains From Your Sink or Tub](https://lifehacker.com/home/how-to-remove-rust-stains-from-your-sink-or-tub)<!-- TECH-POSTS:END -->
 
 ---
 
