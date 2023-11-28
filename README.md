@@ -26,13 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building interactive tutorials with WebContainers](https://dev.to/jxd-dev/building-interactive-tutorials-with-webcontainers-372i)
+- [Dev.to/JS] [Jumblie Build Log](https://dev.to/cassidoo/jumblie-build-log-2m0l)
+- [Lifehacker] [There&#39;s a Faster New Way to Send Photos in iMessage](https://lifehacker.com/tech/send-photos-faster-imessage)
+- [Lifehacker] [Use Nair to Remove Hair From a Necklace](https://lifehacker.com/home/remove-hair-from-necklace)
 - [Dev.to/JS] [Create Image Slider in ReactJS](https://dev.to/madhubankhatri/create-image-slider-in-reactjs-4od5)
 - [Dev.to/JS] [Cómo crear un servidor web en tu proyecto vanilla javascript](https://dev.to/davichobits/como-crear-un-servidor-web-en-tu-proyecto-vanilla-javascript-591m)
+- [Lifehacker] [How to Download Instagram Reels &lpar;and Stop Others From Downloading Yours&rpar;](https://lifehacker.com/tech/how-to-download-instagram-reels)
 - [Dev.to/JS] [Linear &amp; Binary Search in DSA](https://dev.to/syedmuhammadaliraza/linear-binary-search-in-dsa-l74)
+- [Lifehacker] [Here Are All the Ways to &#39;Ping&#39; a Lost iPhone](https://lifehacker.com/here-are-all-the-ways-to-ping-a-lost-iphone-1847981845)
 - [Lifehacker] [My 25 Favorite New Podcasts of 2023](https://lifehacker.com/entertainment/best-podcasts-2023)
 - [Dev.to/JS] [Random Fact Generator App | JavaScript Project With Source Code](https://dev.to/codingcss/random-fact-generator-app-javascript-project-with-source-code-1mal)
-- [Dev.to/JS] [Web Perf - Large Files](https://dev.to/didof/web-perf-large-files-5a9j)
 - [Dev.to/JS] [DRY Principle in Your AWS SAM Application with Middlewares](https://dev.to/mohammadfaisal/dry-principle-in-your-aws-sam-application-with-middlewares-3a4f)
+- [Dev.to/JS] [Web Perf - Large Files](https://dev.to/didof/web-perf-large-files-5a9j)
 - [Lifehacker] [The Unbreakable Rules of Sharing a Fence With Your Neighbor](https://lifehacker.com/home/rules-of-sharing-a-fence-with-neighbors)
 - [Dev.to/JS] [Flowchart editor dgrm.net / DGRM cloud](https://dev.to/alexboyko/flowchart-editor-dgrmnet-dgrm-cloud-led)
 - [Lifehacker] [Upgrade Your Leftover-Turkey Sandwich With Thai Curry Paste](https://lifehacker.com/food-drink/thai-curry-turkey-sandwich-recipe)
@@ -40,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Explore Full Stack Magic：Next.js + Prisma + Next-auth + vercel/postgres](https://dev.to/leo_song/explore-full-stack-magicnextjs-prisma-next-auth-vercelpostgres-699)
 - [Dev.to/JS] [SpyBadao](https://dev.to/wsovn123/spybadao-2hif)
 - [Lifehacker] [No, NameDrop on iPhone Won’t Automatically Share Your Contact Information](https://lifehacker.com/tech/how-namedrop-on-iphone-works)
-- [Dev.to/JS] [SpyMetrics](https://dev.to/wsovn123/spymetrics-id5)
-- [Dev.to/JS] [✨ Train ChatGPT on your Documentation 🪄 ✨](https://dev.to/triggerdotdev/train-chatgpt-on-your-documentation-1a9g)
 - [Lifehacker] [The Differences Between a Drill, Impact Driver, and Hammer Drill &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/drill-hammer-drill-impact-driver)
 - [Lifehacker] [What&#39;s New on Max in December 2023](https://lifehacker.com/entertainment/max-december-2023)
 - [Lifehacker] [Here Are the Differences Between QLED and OLED &lpar;and Why They Matter&rpar;](https://lifehacker.com/tech/qled-vs-oled-whats-the-difference-and-which-is-better)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Sex Toys](https://lifehacker.com/money/the-best-cyber-monday-deals-on-sex-toys)
 - [Lifehacker] [These Are the Best Streaming Service Deals for Cyber Monday](https://lifehacker.com/entertainment/best-streaming-service-deals-cyber-monday)
 - [Lifehacker] [How to Take Advantage of Travel Deal Tuesday](https://lifehacker.com/travel/how-to-take-advantage-of-travel-deal-tuesday)
-- [Lifehacker] [The Best Apple Watch Deals on Cyber Monday](https://lifehacker.com/tech/the-best-apple-watch-sales-on-cyber-monday)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on Self-care Tools](https://lifehacker.com/money/best-cyber-monday-deals-on-self-care-tools)
-- [Lifehacker] [These Are Amazon’s Best Cyber Monday Deals on Gaming Consoles and Controllers](https://lifehacker.com/entertainment/amazon-cyber-monday-deals-gaming-consoles-and-controllers)
-- [Lifehacker] [These Are Amazon&#39;s Best Cyber Monday Deals on Soundbars](https://lifehacker.com/tech/amazon-cyber-monday-soundbars)
-- [Lifehacker] [The Best Way to Remove Rust Stains From Your Sink or Tub](https://lifehacker.com/home/how-to-remove-rust-stains-from-your-sink-or-tub)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Apple Watch Deals on Cyber Monday](https://lifehacker.com/tech/the-best-apple-watch-sales-on-cyber-monday)<!-- TECH-POSTS:END -->
 
 ---
 
