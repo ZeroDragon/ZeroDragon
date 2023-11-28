@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the most effective way for implementing responsive design with media query CSS?](https://dev.to/benz_marwan/what-is-the-most-effective-way-for-implementing-responsive-design-with-media-query-css-3m16)
+- [Dev.to/JS] [AJAX Explained: Enhancing User Experience with Asynchronous javascript](https://dev.to/amarachi_kanu_20/ajax-explained-enhancing-user-experience-with-asynchronous-javascript-51ld)
+- [Dev.to/JS] [100+ Questions for Angular Interviews 💫](https://dev.to/ahmeddoosama/100-questions-for-frontend-interviews-j86)
 - [Dev.to/JS] [Discover the 9️⃣ Best Self-Hosted, Open-Source Repositories on GitHub 💫](https://dev.to/srbhr/discover-the-9-best-self-hosted-open-source-repositories-on-github-23oc)
+- [Lifehacker] [I Am Once Again Urging You to Wander Into a National Forest to Chop Down a Christmas Tree &lpar;but Legally&rpar;](https://lifehacker.com/money/cut-your-own-christmas-tree-from-a-national-forest)
 - [Dev.to/JS] [GraphQL is Finally Boring.](https://dev.to/slickstef11/graphql-is-finally-boring-48gf)
 - [Lifehacker] [Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images](https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend)
 - [Dev.to/JS] [You can reach out to them via CRYPTORECOVERYHACKER @ GMAIL COM](https://dev.to/bischof3454/you-can-reach-out-to-them-via-cryptorecoveryhacker-gmail-com-4h0g)
@@ -41,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jumblie Build Log](https://dev.to/cassidoo/jumblie-build-log-2m0l)
 - [Lifehacker] [There&#39;s a Faster New Way to Send Photos in iMessage](https://lifehacker.com/tech/send-photos-faster-imessage)
 - [Lifehacker] [Use Nair to Remove Hair From a Necklace](https://lifehacker.com/home/remove-hair-from-necklace)
-- [Dev.to/JS] [Create Image Slider in ReactJS](https://dev.to/madhubankhatri/create-image-slider-in-reactjs-4od5)
-- [Dev.to/JS] [Cómo crear un servidor web en tu proyecto vanilla javascript](https://dev.to/davichobits/como-crear-un-servidor-web-en-tu-proyecto-vanilla-javascript-591m)
 - [Lifehacker] [How to Download Instagram Reels &lpar;and Stop Others From Downloading Yours&rpar;](https://lifehacker.com/tech/how-to-download-instagram-reels)
-- [Dev.to/JS] [Linear &amp; Binary Search in DSA](https://dev.to/syedmuhammadaliraza/linear-binary-search-in-dsa-l74)
 - [Lifehacker] [Here Are All the Ways to &#39;Ping&#39; a Lost iPhone](https://lifehacker.com/here-are-all-the-ways-to-ping-a-lost-iphone-1847981845)
 - [Lifehacker] [My 25 Favorite New Podcasts of 2023](https://lifehacker.com/entertainment/best-podcasts-2023)
 - [Lifehacker] [The Unbreakable Rules of Sharing a Fence With Your Neighbor](https://lifehacker.com/home/rules-of-sharing-a-fence-with-neighbors)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cyber Monday Cordless Vacuum Deals at Amazon](https://lifehacker.com/home/amazon-cyber-monday-cordless-vacuums)
 - [Lifehacker] [These Are Amazon’s Best Cyber Monday Deals on Board Games](https://lifehacker.com/entertainment/amazons-best-cyber-monday-deals-board-games)
 - [Lifehacker] [The Best Cyber Monday Sales on Pro Laptops Under $1,000](https://lifehacker.com/tech/best-cyber-monday-deals-pro-windows-laptops)
-- [Lifehacker] [Make This Buffalo Turkey Pizza With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftover-buffalo-turkey-pizza-recipe)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on Stand Mixers](https://lifehacker.com/food-drink/best-cyber-monday-deals-stand-mixers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Buffalo Turkey Pizza With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftover-buffalo-turkey-pizza-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
