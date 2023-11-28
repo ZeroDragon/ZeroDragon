@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Substring Method](https://dev.to/refine/javascript-substring-method-4boh)
+- [Dev.to/JS] [Next js Routing](https://dev.to/ewenikeemmanue4/next-js-routing-1f7a)
+- [Dev.to/JS] [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-5761)
+- [Dev.to/JS] [Application of Javascript.](https://dev.to/vincenttommi/application-of-javascript-26fc)
 - [Dev.to/JS] [How do I interpret data from V8&#39;s Profiler.takePreciseCoverage?](https://dev.to/dulguun0225/how-do-i-interpret-data-from-v8s-profilertakeprecisecoverage-1lhn)
 - [Dev.to/JS] [Reasons to learn Javascript as Web-dev.](https://dev.to/vincenttommi/reasons-to-learn-javascript-as-web-dev-1c9i)
 - [Dev.to/JS] [Estructura de Directorios y Configuración del Entorno Local](https://dev.to/nixcko/estructura-de-directorios-y-configuracion-del-entorno-local-50hh)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [When to Use useEffect and useLayoutEffect in React](https://dev.to/lawrencespractice/when-to-use-useeffect-and-uselayouteffect-in-react-3n79)
 - [Dev.to/JS] [Let’s understand! What is web development?](https://dev.to/go-techsolution/lets-understand-what-is-web-development-332l)
 - [Dev.to/JS] [CREATE A LIBRARY WITH JSX &amp; CUSTOM STATE](https://dev.to/devsmitra/create-a-library-with-jsx-custom-state-348h)
-- [Dev.to/JS] [Exploring the Power of React Custom Hooks](https://dev.to/moktarul12/exploring-the-power-of-react-custom-hooks-d13)
-- [Dev.to/JS] [Choosing the Right Path: Ternary Operator vs. Logical AND for Conditional Rendering in React](https://dev.to/amritapadhy/choosing-the-right-path-ternary-operator-vs-logical-and-for-conditional-rendering-in-react-3dnk)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
-- [Dev.to/JS] [Event Emitter in NodeJS](https://dev.to/tanmaycode/event-emitter-in-nodejs-1h58)
-- [Dev.to/JS] [Boost Your Career to become a Master on Commvault online Training with GoLogica](https://dev.to/gologica/boost-your-career-to-become-a-master-on-commvault-online-training-with-gologica-5d3b)
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
 - [Lifehacker] [These Are the Best Cyber Monday Dyson Vacuum Deals](https://lifehacker.com/home/best-cyber-monday-dyson-vacuum-deals)
