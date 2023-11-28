@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#FIGMA Material Minimal Design System: Updated &amp; Extended](https://dev.to/mdbootstrap/figma-material-minimal-design-system-updated-extended-1a32)
+- [Dev.to/JS] [envato elements premium account hack](https://dev.to/wsovn123/envato-elements-premium-account-hack-ica)
+- [Dev.to/JS] [Building Robust APIs: Best Practices for Backend Developers](https://dev.to/omnathdubeyofficial/building-robust-apis-best-practices-for-backend-developers-2emb)
+- [Dev.to/JS] [Spring Boot @Value annotation example](https://dev.to/javatute673/spring-boot-value-annotation-example-c1i)
+- [Dev.to/JS] [Spring Boot @Value not working](https://dev.to/javatute673/spring-boot-value-not-working-1hoc)
+- [Dev.to/JS] [Diving Into Server-Side Development: A Comprehensive Guide](https://dev.to/omnathdubeyofficial/diving-into-server-side-development-a-comprehensive-guide-4oj1)
+- [Dev.to/JS] [@Component not working in Spring Boot](https://dev.to/javatute673/component-not-working-in-spring-boot-5e7k)
+- [Dev.to/JS] [CollectionUtils filter&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-filter-example-in-java-7p3)
 - [Dev.to/JS] [StringUtils abbreviate&lpar;&rpar; example in Java](https://dev.to/javatute673/stringutils-abbreviate-example-in-java-4fi0)
+- [Lifehacker] [Make Sure Your Rent Payments Are Being Reported to the Credit Bureaus](https://lifehacker.com/money/report-rent-payments-to-credit-bureaus)
 - [Dev.to/JS] [Navigating Your Component Journey with Component Odyssey](https://dev.to/andrico1234/navigating-your-component-journey-with-component-odyssey-ajl)
 - [Dev.to/JS] [Node.js vs. Django: Choosing the Right Backend Framework](https://dev.to/omnathdubeyofficial/nodejs-vs-django-choosing-the-right-backend-framework-18kh)
 - [Dev.to/JS] [StringUtils stripEnd&lpar;&rpar; Example in Java](https://dev.to/javatute673/stringutils-stripend-example-in-java-30na)
-- [Dev.to/JS] [mua tool SEO](https://dev.to/wsovn123/mua-tool-seo-3ib0)
-- [Dev.to/JS] [StringUtils wrap&lpar;&rpar; Example in Java](https://dev.to/javatute673/stringutils-wrap-example-in-java-26a)
-- [Dev.to/JS] [CollectionUtils isSubCollection&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-issubcollection-example-in-java-39f0)
-- [Dev.to/JS] [Who will be Mr. or Ms. 300? 👀](https://dev.to/opensourcee/who-will-be-mr-or-ms-300-33fn)
-- [Dev.to/JS] [Al-Meraaj Digital Marketing](https://dev.to/aqib001/al-meraaj-digital-marketing-flj)
-- [Dev.to/JS] [Svelte Text Editor: Tipex a modern powerful editor that everybody wanted](https://dev.to/developerbishwas/svelte-text-editor-tipex-a-modern-powerful-editor-that-everybody-wanted-4hmc)
-- [Dev.to/JS] [Integration of augmented reality &lpar;AR&rpar; in web development](https://dev.to/sparkouttech/integration-of-augmented-reality-ar-in-web-development-346m)
-- [Dev.to/JS] [Rising Phoenix For Men - ENHANCES Sex Drive &amp; Libido Naturally](https://dev.to/risingphoenixformen/rising-phoenix-for-men-enhances-sex-drive-libido-naturally-27pg)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Treadmills](https://lifehacker.com/health/cyber-monday-deals-treadmills)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Clothing Essentials](https://lifehacker.com/money/best-cyber-monday-clothing-deals)
 - [Lifehacker] [These Are the Best Cyber Monday Sales on Vitamix and Breville Blenders and Food Processors](https://lifehacker.com/food-drink/cyber-monday-blender-sales)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on MacBooks](https://lifehacker.com/tech/cyber-monday-deals-macbooks)
-- [Lifehacker] [This Cyber Monday Deal Makes the Meta Quest 2 the Cheapest It&#39;s Ever Been](https://lifehacker.com/entertainment/meta-quest-2-cyber-monday-deal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Cyber Monday Deals on MacBooks](https://lifehacker.com/tech/cyber-monday-deals-macbooks)<!-- TECH-POSTS:END -->
 
 ---
 
