@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How do I interpret data from V8&#39;s Profiler.takePreciseCoverage?](https://dev.to/dulguun0225/how-do-i-interpret-data-from-v8s-profilertakeprecisecoverage-1lhn)
+- [Dev.to/JS] [Reasons to learn Javascript as Web-dev.](https://dev.to/vincenttommi/reasons-to-learn-javascript-as-web-dev-1c9i)
 - [Dev.to/JS] [Estructura de Directorios y Configuración del Entorno Local](https://dev.to/nixcko/estructura-de-directorios-y-configuracion-del-entorno-local-50hh)
 - [Dev.to/JS] [7 JavaScript Quick Coding Tips ✨](https://dev.to/random_ti/7-javascript-quick-coding-tips-55kl)
 - [Dev.to/JS] [SM66 VND - Link Vào Nhà Cái SM66 - Trang Chủ SM66](https://dev.to/sm66vnd/sm66-vnd-link-vao-nha-cai-sm66-trang-chu-sm66-18bi)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Event Emitter in NodeJS](https://dev.to/tanmaycode/event-emitter-in-nodejs-1h58)
 - [Dev.to/JS] [Boost Your Career to become a Master on Commvault online Training with GoLogica](https://dev.to/gologica/boost-your-career-to-become-a-master-on-commvault-online-training-with-gologica-5d3b)
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
-- [Dev.to/JS] [Utility Type: PrependArgs](https://dev.to/teamradhq/utility-type-prependargs-3p92)
-- [Dev.to/JS] [Extract texts and image from Google Slide embedded iframe with Plasmo extensions](https://dev.to/chanon-mike/extract-texts-and-image-from-google-slide-embeded-iframe-with-plasmo-extensions-3kdi)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
 - [Lifehacker] [These Are the Best Cyber Monday Dyson Vacuum Deals](https://lifehacker.com/home/best-cyber-monday-dyson-vacuum-deals)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Headphones](https://lifehacker.com/tech/best-cyber-monday-deals-headphones-earbuds)
