@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the Shaper System to Easily Recall up to 100 Things](https://lifehacker.com/family/shaper-system-memory-technique)
+- [Lifehacker] [What to Do When You’re a Financial Late Bloomer](https://lifehacker.com/money/what-to-do-when-youre-a-financial-late-bloomer)
+- [Lifehacker] [Use the Last Bit of Leftover Cranberry Sauce to Make These Jam Bars](https://lifehacker.com/food-drink/use-your-leftover-cranberry-sauce-in-this-cranberry-jam-bars-recipe)
 - [Dev.to/JS] [mua chung semrush](https://dev.to/wsovn123/mua-chung-semrush-50ao)
+- [Lifehacker] [You Can Finally Scan Documents in Google Drive for iPhone](https://lifehacker.com/tech/how-to-scan-documents-in-google-drive-for-iphone)
 - [Dev.to/JS] [SpyFu](https://dev.to/wsovn123/spyfu-2chb)
 - [Dev.to/JS] [API Integration with React js](https://dev.to/syedmuhammadaliraza/api-integration-with-react-js-3on3)
 - [Dev.to/JS] [Migration Guide: MDB 6.x.x. ------&gt; v7](https://dev.to/mdbootstrap/migration-guide-mdb-6xx-v7-2oap)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s a Faster New Way to Send Photos in iMessage](https://lifehacker.com/tech/send-photos-faster-imessage)
 - [Lifehacker] [Use Nair to Remove Hair From a Necklace](https://lifehacker.com/home/remove-hair-from-necklace)
 - [Lifehacker] [How to Download Instagram Reels &lpar;and Stop Others From Downloading Yours&rpar;](https://lifehacker.com/tech/how-to-download-instagram-reels)
-- [Lifehacker] [Here Are All the Ways to &#39;Ping&#39; a Lost iPhone](https://lifehacker.com/here-are-all-the-ways-to-ping-a-lost-iphone-1847981845)
-- [Lifehacker] [My 25 Favorite New Podcasts of 2023](https://lifehacker.com/entertainment/best-podcasts-2023)
-- [Lifehacker] [The Unbreakable Rules of Sharing a Fence With Your Neighbor](https://lifehacker.com/home/rules-of-sharing-a-fence-with-neighbors)
-- [Lifehacker] [Upgrade Your Leftover-Turkey Sandwich With Thai Curry Paste](https://lifehacker.com/food-drink/thai-curry-turkey-sandwich-recipe)
-- [Lifehacker] [No, NameDrop on iPhone Won’t Automatically Share Your Contact Information](https://lifehacker.com/tech/how-namedrop-on-iphone-works)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here Are All the Ways to &#39;Ping&#39; a Lost iPhone](https://lifehacker.com/here-are-all-the-ways-to-ping-a-lost-iphone-1847981845)<!-- TECH-POSTS:END -->
 
 ---
 
