@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Keseruan Dalam Bermain Permainan Slot Favorit](https://dev.to/adikfransisca/keseruan-dalam-bermain-permainan-slot-favorit-3e54)
+- [Dev.to/JS] [React Native vs Swift: Which is Best for Your Mobile App Development?](https://dev.to/me_janki/react-native-vs-swift-which-is-best-for-your-mobile-app-development-3hdb)
+- [Dev.to/JS] [TeaTable: Create Dynamic Crud Table Paginated Sorted Featured](https://dev.to/hkkcngz/teatable-create-dynamic-crud-table-paginated-sorted-featured-3f0l)
 - [Dev.to/JS] [Exploring JavaScript - BOM](https://dev.to/nhannguyendevjs/exploring-javascript-bom-54hc)
 - [Dev.to/JS] [⤴️How to build a Midjourney API with Nest.js 🚀](https://dev.to/confidentai/how-to-build-unofficial-midjourney-api-with-nestjs-1lnd)
 - [Dev.to/JS] [Crafting Dynamic Experiences in Vue.js Mobile App Development](https://dev.to/vtnetzwelt/crafting-dynamic-experiences-in-vuejs-mobile-app-development-fpi)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An Overview of Software Development for E-Commerce](https://dev.to/dchi9182/an-overview-of-software-development-for-e-commerce-52a2)
 - [Dev.to/JS] [Prenatalin Prenatal Care](https://dev.to/sarker360/prenatalinprenatal-care-56og)
 - [Dev.to/JS] [How Does Chrome&#39;s V8 Engine Actually Work?](https://dev.to/mainak0907/how-does-chromes-v8-engine-actually-work-4c2h)
-- [Dev.to/JS] [Typescript type vs interface](https://dev.to/manthanank/typescript-type-vs-interface-2gf)
-- [Dev.to/JS] [💻 Web Development Resources #176](https://dev.to/vincenius/web-development-resources-176-74n)
-- [Dev.to/JS] [nested OR query is not working in nest js project with mongoDB database](https://dev.to/aayushi2501/nested-or-query-is-not-working-in-nest-js-project-with-mongodb-database-2b8k)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
 - [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
 - [Lifehacker] [This App Makes It Easier to Keep Track of Everything on Your Watchlist](https://lifehacker.com/tech/justwatch-app-keep-track-of-watchlist)
