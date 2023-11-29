@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My husband and I lost $1.1m worth of Bitcoins to a fake cryptocurrency investment platform.](https://dev.to/catherinecatherineo947/my-husband-and-i-lost-11m-worth-of-bitcoins-to-a-fake-cryptocurrency-investment-platform-1648)
+- [Dev.to/JS] [📚 RTK Query: Understanding useQuery hook](https://dev.to/raaynaldo/rtk-query-understanding-usequery-hook-36bo)
+- [Dev.to/JS] [Vite.js - Lightning Fast Builds Powered by ES Modules](https://dev.to/amelie-lamb/vitejs-lightning-fast-builds-powered-by-es-modules-i4n)
+- [Lifehacker] [The Best White Noise Machine for Every Purpose](https://lifehacker.com/health/the-best-white-noise-machines-for-sleep-and-focus)
+- [Lifehacker] [You Can Finally Make Collaborative Apple Music Playlists](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
 - [Lifehacker] [Use the Shaper System to Easily Recall up to 100 Things](https://lifehacker.com/family/shaper-system-memory-technique)
 - [Lifehacker] [What to Do When You’re a Financial Late Bloomer](https://lifehacker.com/money/what-to-do-when-youre-a-financial-late-bloomer)
 - [Lifehacker] [Use the Last Bit of Leftover Cranberry Sauce to Make These Jam Bars](https://lifehacker.com/food-drink/use-your-leftover-cranberry-sauce-in-this-cranberry-jam-bars-recipe)
@@ -42,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nuxt Social Share module has many new features 🎉](https://dev.to/stefanobartoletti/nuxt-social-share-module-has-many-new-features-5b75)
 - [Dev.to/JS] [SpyAMZ](https://dev.to/wsovn123/spyamz-1nng)
 - [Lifehacker] [These Holiday Decorations Aren’t Safe for Local Wildlife &lpar;and What to Use Instead&rpar;](https://lifehacker.com/home/holiday-decorations-that-are-not-safe-for-wildlife)
-- [Dev.to/JS] [New version of Monster 3.55.0 released!](https://dev.to/volker_schukai/new-version-of-monster-3550-released-6on)
-- [Dev.to/JS] [CollectionUtils containsAll&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-containsall-example-in-java-eae)
 - [Lifehacker] [The Smart Envi Heater Is Shockingly Efficient in Small Spaces](https://lifehacker.com/tech/smart-envi-heater-review)
-- [Dev.to/JS] [StringUtils capitalize&lpar;&rpar; example in Java](https://dev.to/javatute673/stringutils-capitalize-example-in-java-1c6o)
 - [Lifehacker] [Help Your Kid Develop Independence With ‘Autonomy-Supportive’ Parenting](https://lifehacker.com/family/autonomy-supportive-parenting)
 - [Lifehacker] [How to Prevent Your Bank from Closing Your Accounts Without Notice](https://lifehacker.com/money/how-to-prevent-your-bank-from-closing-your-accounts)
 - [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s Where to Find Your 2023 Apple Music Replay](https://lifehacker.com/tech/2023-apple-music-replay)
 - [Lifehacker] [The Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)
 - [Lifehacker] [There&#39;s a Faster New Way to Send Photos in iMessage](https://lifehacker.com/tech/send-photos-faster-imessage)
-- [Lifehacker] [Use Nair to Remove Hair From a Necklace](https://lifehacker.com/home/remove-hair-from-necklace)
-- [Lifehacker] [How to Download Instagram Reels &lpar;and Stop Others From Downloading Yours&rpar;](https://lifehacker.com/tech/how-to-download-instagram-reels)
-- [Lifehacker] [Here Are All the Ways to &#39;Ping&#39; a Lost iPhone](https://lifehacker.com/here-are-all-the-ways-to-ping-a-lost-iphone-1847981845)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Nair to Remove Hair From a Necklace](https://lifehacker.com/home/remove-hair-from-necklace)<!-- TECH-POSTS:END -->
 
 ---
 
