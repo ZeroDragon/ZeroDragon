@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prenatalin Prenatal Care](https://dev.to/sarker360/prenatalinprenatal-care-56og)
+- [Dev.to/JS] [How Does Chrome&#39;s V8 Engine Actually Work?](https://dev.to/mainak0907/how-does-chromes-v8-engine-actually-work-4c2h)
+- [Dev.to/JS] [Typescript type vs interface](https://dev.to/manthanank/typescript-type-vs-interface-2gf)
+- [Dev.to/JS] [💻 Web Development Resources #176](https://dev.to/vincenius/web-development-resources-176-74n)
 - [Dev.to/JS] [nested OR query is not working in nest js project with mongoDB database](https://dev.to/aayushi2501/nested-or-query-is-not-working-in-nest-js-project-with-mongodb-database-2b8k)
 - [Dev.to/JS] [Express JS - Learn what Matters. &lt;Notes&gt;](https://dev.to/tanmaycode/express-js-learn-what-matters-4php)
 - [Dev.to/JS] [Center A Div With Flex!](https://dev.to/jgdevelopments/center-a-div-with-flex-2aho)
@@ -41,12 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Discover the 9️⃣ Best Self-Hosted, Open-Source Repositories on GitHub 💫](https://dev.to/srbhr/discover-the-9-best-self-hosted-open-source-repositories-on-github-23oc)
 - [Lifehacker] [I Investigate Yet Another Internet Egg-peeling Hack](https://lifehacker.com/food-drink/best-way-to-peel-an-egg)
 - [Lifehacker] [I Am Once Again Urging You to Wander Into a National Forest to Chop Down a Christmas Tree &lpar;but Legally&rpar;](https://lifehacker.com/money/cut-your-own-christmas-tree-from-a-national-forest)
-- [Dev.to/JS] [GraphQL is Finally Boring.](https://dev.to/slickstef11/graphql-is-finally-boring-48gf)
 - [Lifehacker] [Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images](https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend)
-- [Dev.to/JS] [You can reach out to them via CRYPTORECOVERYHACKER @ GMAIL COM](https://dev.to/bischof3454/you-can-reach-out-to-them-via-cryptorecoveryhacker-gmail-com-4h0g)
 - [Lifehacker] [This Is Your Last Chance to Stop Google From Deleting Your Old Gmail Account](https://lifehacker.com/tech/stop-google-from-deleting-your-old-gmail-account)
-- [Dev.to/JS] [The Inner Workings of Web Browsers!](https://dev.to/arindam_1729/the-inner-workings-of-web-browsers-4ghh)
-- [Dev.to/JS] [Accessing .env files natively with Node.js](https://dev.to/_staticvoid/accessing-env-files-natively-with-nodejs-44hf)
 - [Lifehacker] [Here&#39;s Where to Find Your 2023 Apple Music Replay](https://lifehacker.com/tech/2023-apple-music-replay)
 - [Lifehacker] [The Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)
 - [Lifehacker] [There&#39;s a Faster New Way to Send Photos in iMessage](https://lifehacker.com/tech/send-photos-faster-imessage)
