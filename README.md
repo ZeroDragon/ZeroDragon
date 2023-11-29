@@ -26,22 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Migration Guide: MDB 6.x.x. ------&gt; v7](https://dev.to/mdbootstrap/migration-guide-mdb-6xx-v7-2oap)
+- [Dev.to/JS] [#FIGMA Material Minimal Design System: Updated &amp; Extended](https://dev.to/mz2387/figma-material-minimal-design-system-updated-extended-3e3c)
+- [Dev.to/JS] [mua chung semrush](https://dev.to/wsovn123/mua-chung-semrush-1apl)
+- [Dev.to/JS] [DomCop](https://dev.to/wsovn123/domcop-52l6)
+- [Dev.to/JS] [Nuxt Social Share module has many new features 🎉](https://dev.to/stefanobartoletti/nuxt-social-share-module-has-many-new-features-5b75)
+- [Dev.to/JS] [SpyAMZ](https://dev.to/wsovn123/spyamz-1nng)
+- [Lifehacker] [These Holiday Decorations Aren’t Safe for Local Wildlife &lpar;and What to Use Instead&rpar;](https://lifehacker.com/home/holiday-decorations-that-are-not-safe-for-wildlife)
 - [Dev.to/JS] [New version of Monster 3.55.0 released!](https://dev.to/volker_schukai/new-version-of-monster-3550-released-6on)
 - [Dev.to/JS] [CollectionUtils containsAll&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-containsall-example-in-java-eae)
+- [Lifehacker] [The Smart Envi Heater Is Shockingly Efficient in Small Spaces](https://lifehacker.com/tech/smart-envi-heater-review)
 - [Dev.to/JS] [StringUtils capitalize&lpar;&rpar; example in Java](https://dev.to/javatute673/stringutils-capitalize-example-in-java-1c6o)
 - [Dev.to/JS] [StringUtils substringAfter&lpar;&rpar; Example in Java](https://dev.to/javatute673/stringutils-substringafter-example-in-java-46g3)
 - [Lifehacker] [Help Your Kid Develop Independence With ‘Autonomy-Supportive’ Parenting](https://lifehacker.com/family/autonomy-supportive-parenting)
-- [Dev.to/JS] [What are the JSX and React elements in React?](https://dev.to/anas_mahmud/what-is-the-jsx-element-in-react-1mhm)
+- [Dev.to/JS] [What is JSX elements in React?](https://dev.to/anas_mahmud/what-is-the-jsx-element-in-react-1mhm)
 - [Dev.to/JS] [Just made $5000 in revenue with my MVP](https://dev.to/mariostopfer/just-made-5000-in-revenue-with-my-mvp-16c2)
-- [Dev.to/JS] [StringUtils substringBefore&lpar;&rpar; Example in Java](https://dev.to/javatute673/stringutils-substringbefore-example-in-java-1hp3)
 - [Lifehacker] [How to Prevent Your Bank from Closing Your Accounts Without Notice](https://lifehacker.com/money/how-to-prevent-your-bank-from-closing-your-accounts)
-- [Dev.to/JS] [JavaScript in 2023: A Year of Surprises and Transformations! 😮](https://dev.to/bhavesh_yadav/javascript-in-2023-a-year-of-surprises-and-transformations-3pf2)
-- [Dev.to/JS] [How to use @Where annotation in Hibernate](https://dev.to/javatute673/how-to-use-where-annotation-in-hibernate-2f0o)
 - [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
-- [Dev.to/JS] [How can I check if an image in a local folder exists with plain JavaScript?](https://dev.to/pauladrian/how-can-i-check-if-an-image-in-a-local-folder-exists-with-plain-javascript-2hn3)
 - [Lifehacker] [The Biggest Differences Between Claude AI and ChatGPT](https://lifehacker.com/tech/claude-ai-versus-chatgpt-which-is-better)
-- [Dev.to/JS] [How to add an in-game chat room with React](https://dev.to/ably/how-to-add-an-in-game-chat-room-with-react-3c1g)
-- [Dev.to/JS] [Add In-App Inbox Notification Center in Your Angular App Using ngx-suprsend-inbox SDK](https://dev.to/suprsend/add-in-app-inbox-notification-center-in-your-angular-app-using-ngx-suprsend-inbox-sdk-4e20)
 - [Lifehacker] [Frankly, a Modular Kitchen Remodel Is a Great Idea](https://lifehacker.com/home/modular-kitchen-remodel)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
 - [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Upgrade Your Leftover-Turkey Sandwich With Thai Curry Paste](https://lifehacker.com/food-drink/thai-curry-turkey-sandwich-recipe)
 - [Lifehacker] [No, NameDrop on iPhone Won’t Automatically Share Your Contact Information](https://lifehacker.com/tech/how-namedrop-on-iphone-works)
 - [Lifehacker] [The Differences Between a Drill, Impact Driver, and Hammer Drill &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/drill-hammer-drill-impact-driver)
-- [Lifehacker] [What&#39;s New on Max in December 2023](https://lifehacker.com/entertainment/max-december-2023)
-- [Lifehacker] [Here Are the Differences Between QLED and OLED &lpar;and Why They Matter&rpar;](https://lifehacker.com/tech/qled-vs-oled-whats-the-difference-and-which-is-better)
-- [Lifehacker] [Make Sure Your Rent Payments Are Being Reported to the Credit Bureaus](https://lifehacker.com/money/report-rent-payments-to-credit-bureaus)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Max in December 2023](https://lifehacker.com/entertainment/max-december-2023)<!-- TECH-POSTS:END -->
 
 ---
 
