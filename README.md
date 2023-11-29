@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BioBlend CBD Gummies For ED - The Best Sex Drive Supplement? Effective Ingredients?](https://dev.to/bioblendcbdgummiesfored/bioblend-cbd-gummies-for-ed-the-best-sex-drive-supplement-effective-ingredients-2cgb)
 - [Dev.to/JS] [Keseruan Dalam Bermain Permainan Slot Favorit](https://dev.to/adikfransisca/keseruan-dalam-bermain-permainan-slot-favorit-3e54)
 - [Dev.to/JS] [React Native vs Swift: Which is Best for Your Mobile App Development?](https://dev.to/me_janki/react-native-vs-swift-which-is-best-for-your-mobile-app-development-3hdb)
 - [Dev.to/JS] [TeaTable: Create Dynamic Crud Table Paginated Sorted Featured](https://dev.to/hkkcngz/teatable-create-dynamic-crud-table-paginated-sorted-featured-3f0l)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Detecting Changes on JavaScript Object values using Sets](https://dev.to/kipyegonline/detecting-changes-on-javascript-object-values-using-sets-1k2f)
 - [Dev.to/JS] [An Overview of Software Development for E-Commerce](https://dev.to/dchi9182/an-overview-of-software-development-for-e-commerce-52a2)
 - [Dev.to/JS] [Prenatalin Prenatal Care](https://dev.to/sarker360/prenatalinprenatal-care-56og)
-- [Dev.to/JS] [How Does Chrome&#39;s V8 Engine Actually Work?](https://dev.to/mainak0907/how-does-chromes-v8-engine-actually-work-4c2h)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
 - [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
 - [Lifehacker] [This App Makes It Easier to Keep Track of Everything on Your Watchlist](https://lifehacker.com/tech/justwatch-app-keep-track-of-watchlist)
