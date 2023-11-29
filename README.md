@@ -26,10 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Specialty Cleaning Tools That Are Actually Worth It](https://lifehacker.com/home/kitchen-bathroom-cleaning-tools-worth-splurging-on)
 - [Dev.to/JS] [What is the most effective way for implementing responsive design with media query CSS?](https://dev.to/benz_marwan/what-is-the-most-effective-way-for-implementing-responsive-design-with-media-query-css-3m16)
 - [Dev.to/JS] [AJAX Explained: Enhancing User Experience with Asynchronous javascript](https://dev.to/amarachi_kanu_20/ajax-explained-enhancing-user-experience-with-asynchronous-javascript-51ld)
 - [Dev.to/JS] [100+ Questions for Angular Interviews 💫](https://dev.to/ahmeddoosama/100-questions-for-frontend-interviews-j86)
+- [Lifehacker] [The Good and the Bad of the 800-Gram Fruit and Vegetable Challenge](https://lifehacker.com/health/800-gram-challenge)
 - [Dev.to/JS] [Discover the 9️⃣ Best Self-Hosted, Open-Source Repositories on GitHub 💫](https://dev.to/srbhr/discover-the-9-best-self-hosted-open-source-repositories-on-github-23oc)
+- [Lifehacker] [I Investigate Yet Another Internet Egg-peeling Hack](https://lifehacker.com/food-drink/best-way-to-peel-an-egg)
 - [Lifehacker] [I Am Once Again Urging You to Wander Into a National Forest to Chop Down a Christmas Tree &lpar;but Legally&rpar;](https://lifehacker.com/money/cut-your-own-christmas-tree-from-a-national-forest)
 - [Dev.to/JS] [GraphQL is Finally Boring.](https://dev.to/slickstef11/graphql-is-finally-boring-48gf)
 - [Lifehacker] [Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images](https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Headphones](https://lifehacker.com/tech/best-cyber-monday-deals-headphones-earbuds)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Streaming Devices](https://lifehacker.com/entertainment/best-cyber-monday-deals-on-streaming-devices)
 - [Lifehacker] [The Best Cyber Monday Deals Walmart Has to Offer](https://lifehacker.com/money/best-walmart-cyber-monday-deals)
-- [Lifehacker] [These Are the Best Cyber Monday Cordless Vacuum Deals at Amazon](https://lifehacker.com/home/amazon-cyber-monday-cordless-vacuums)
-- [Lifehacker] [These Are Amazon’s Best Cyber Monday Deals on Board Games](https://lifehacker.com/entertainment/amazons-best-cyber-monday-deals-board-games)
-- [Lifehacker] [The Best Cyber Monday Sales on Pro Laptops Under $1,000](https://lifehacker.com/tech/best-cyber-monday-deals-pro-windows-laptops)
-- [Lifehacker] [Make This Buffalo Turkey Pizza With Your Thanksgiving Leftovers](https://lifehacker.com/food-drink/thanksgiving-leftover-buffalo-turkey-pizza-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Cyber Monday Cordless Vacuum Deals at Amazon](https://lifehacker.com/home/amazon-cyber-monday-cordless-vacuums)<!-- TECH-POSTS:END -->
 
 ---
 
