@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript in 2023: A Year of Surprises and Transformations! 😮](https://dev.to/bhavesh_yadav/javascript-in-2023-a-year-of-surprises-and-transformations-3pf2)
+- [Dev.to/JS] [How to use @Where annotation in Hibernate](https://dev.to/javatute673/how-to-use-where-annotation-in-hibernate-2f0o)
+- [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
+- [Dev.to/JS] [How can I check if an image in a local folder exists with plain JavaScript?](https://dev.to/pauladrian/how-can-i-check-if-an-image-in-a-local-folder-exists-with-plain-javascript-2hn3)
+- [Lifehacker] [The Biggest Differences Between Claude AI and ChatGPT](https://lifehacker.com/tech/claude-ai-versus-chatgpt-which-is-better)
 - [Dev.to/JS] [How to add an in-game chat room with React](https://dev.to/ably/how-to-add-an-in-game-chat-room-with-react-3c1g)
 - [Dev.to/JS] [Add In-App Inbox Notification Center in Your Angular App Using ngx-suprsend-inbox SDK](https://dev.to/suprsend/add-in-app-inbox-notification-center-in-your-angular-app-using-ngx-suprsend-inbox-sdk-4e20)
 - [Dev.to/JS] [Importing posts from an RSS feed with Eleventy](https://dev.to/rtaibah/importing-posts-from-an-rss-feed-with-eleventy-468e)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TeaTable: Create Dynamic Crud Table Paginated Sorted Featured](https://dev.to/hkkcngz/teatable-create-dynamic-crud-table-paginated-sorted-featured-3f0l)
 - [Dev.to/JS] [Exploring JavaScript - BOM](https://dev.to/nhannguyendevjs/exploring-javascript-bom-54hc)
 - [Dev.to/JS] [⤴️How to build a Midjourney API with Nest.js 🚀](https://dev.to/confidentai/how-to-build-unofficial-midjourney-api-with-nestjs-1lnd)
-- [Dev.to/JS] [Crafting Dynamic Experiences in Vue.js Mobile App Development](https://dev.to/vtnetzwelt/crafting-dynamic-experiences-in-vuejs-mobile-app-development-fpi)
-- [Dev.to/JS] [10 Hints for an Effective Hair Transplant in Dubai](https://dev.to/misbahdynamicclinic/10-hints-for-an-effective-hair-transplant-in-dubai-g05)
-- [Dev.to/JS] [A Deep Dive Into React Hooks](https://dev.to/eskay/a-deep-dive-into-react-hooks-19lc)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
 - [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
 - [Lifehacker] [This App Makes It Easier to Keep Track of Everything on Your Watchlist](https://lifehacker.com/tech/justwatch-app-keep-track-of-watchlist)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Are the Differences Between QLED and OLED &lpar;and Why They Matter&rpar;](https://lifehacker.com/tech/qled-vs-oled-whats-the-difference-and-which-is-better)
 - [Lifehacker] [Make Sure Your Rent Payments Are Being Reported to the Credit Bureaus](https://lifehacker.com/money/report-rent-payments-to-credit-bureaus)
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
-- [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
-- [Lifehacker] [These Are the Best Cyber Monday Dyson Vacuum Deals](https://lifehacker.com/home/best-cyber-monday-dyson-vacuum-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)<!-- TECH-POSTS:END -->
 
 ---
 
