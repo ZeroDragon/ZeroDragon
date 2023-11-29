@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [nested OR query is not working in nest js project with mongoDB database](https://dev.to/aayushi2501/nested-or-query-is-not-working-in-nest-js-project-with-mongodb-database-2b8k)
+- [Dev.to/JS] [Express JS - Learn what Matters. &lt;Notes&gt;](https://dev.to/tanmaycode/express-js-learn-what-matters-4php)
+- [Dev.to/JS] [Center A Div With Flex!](https://dev.to/jgdevelopments/center-a-div-with-flex-2aho)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
 - [Dev.to/JS] [Quem tem medo do reduce? Entenda esse método agora ou seu dinheiro de volta](https://dev.to/demenezes/quem-tem-medo-do-reduce-entenda-esse-metodo-agora-ou-seu-dinheiro-de-volta-3e3f)
 - [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
@@ -44,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is Your Last Chance to Stop Google From Deleting Your Old Gmail Account](https://lifehacker.com/tech/stop-google-from-deleting-your-old-gmail-account)
 - [Dev.to/JS] [The Inner Workings of Web Browsers!](https://dev.to/arindam_1729/the-inner-workings-of-web-browsers-4ghh)
 - [Dev.to/JS] [Accessing .env files natively with Node.js](https://dev.to/_staticvoid/accessing-env-files-natively-with-nodejs-44hf)
-- [Dev.to/JS] [How to run TypeScript natively in Node.js with TSX](https://dev.to/_staticvoid/how-to-run-typescript-natively-in-nodejs-with-tsx-3a0c)
 - [Lifehacker] [Here&#39;s Where to Find Your 2023 Apple Music Replay](https://lifehacker.com/tech/2023-apple-music-replay)
-- [Dev.to/JS] [Building my side project using Nuxt3, Supabase, Fastify, &amp; Vercel](https://dev.to/netervati/building-my-side-project-using-nuxt3-supabase-fastify-vercel-3680)
-- [Dev.to/JS] [Building interactive tutorials with WebContainers](https://dev.to/jxd-dev/building-interactive-tutorials-with-webcontainers-372i)
 - [Lifehacker] [The Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)
 - [Lifehacker] [There&#39;s a Faster New Way to Send Photos in iMessage](https://lifehacker.com/tech/send-photos-faster-imessage)
 - [Lifehacker] [Use Nair to Remove Hair From a Necklace](https://lifehacker.com/home/remove-hair-from-necklace)
