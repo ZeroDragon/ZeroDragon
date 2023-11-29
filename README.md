@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [mua chung semrush](https://dev.to/wsovn123/mua-chung-semrush-50ao)
+- [Dev.to/JS] [SpyFu](https://dev.to/wsovn123/spyfu-2chb)
+- [Dev.to/JS] [API Integration with React js](https://dev.to/syedmuhammadaliraza/api-integration-with-react-js-3on3)
 - [Dev.to/JS] [Migration Guide: MDB 6.x.x. ------&gt; v7](https://dev.to/mdbootstrap/migration-guide-mdb-6xx-v7-2oap)
 - [Dev.to/JS] [#FIGMA Material Minimal Design System: Updated &amp; Extended](https://dev.to/mz2387/figma-material-minimal-design-system-updated-extended-3e3c)
+- [Lifehacker] [Everything You Need to Know About Poria, the &#39;House-Eating&#39; Fungus](https://lifehacker.com/home/poria-house-eating-fungus)
 - [Dev.to/JS] [mua chung semrush](https://dev.to/wsovn123/mua-chung-semrush-1apl)
+- [Lifehacker] [Everything You Need to Do When You Pay Off Your Mortgage](https://lifehacker.com/money/pay-off-mortgage-how-to-prepare)
 - [Dev.to/JS] [DomCop](https://dev.to/wsovn123/domcop-52l6)
 - [Dev.to/JS] [Nuxt Social Share module has many new features 🎉](https://dev.to/stefanobartoletti/nuxt-social-share-module-has-many-new-features-5b75)
 - [Dev.to/JS] [SpyAMZ](https://dev.to/wsovn123/spyamz-1nng)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CollectionUtils containsAll&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-containsall-example-in-java-eae)
 - [Lifehacker] [The Smart Envi Heater Is Shockingly Efficient in Small Spaces](https://lifehacker.com/tech/smart-envi-heater-review)
 - [Dev.to/JS] [StringUtils capitalize&lpar;&rpar; example in Java](https://dev.to/javatute673/stringutils-capitalize-example-in-java-1c6o)
-- [Dev.to/JS] [StringUtils substringAfter&lpar;&rpar; Example in Java](https://dev.to/javatute673/stringutils-substringafter-example-in-java-46g3)
 - [Lifehacker] [Help Your Kid Develop Independence With ‘Autonomy-Supportive’ Parenting](https://lifehacker.com/family/autonomy-supportive-parenting)
-- [Dev.to/JS] [What is JSX elements in React?](https://dev.to/anas_mahmud/what-is-the-jsx-element-in-react-1mhm)
-- [Dev.to/JS] [Just made $5000 in revenue with my MVP](https://dev.to/mariostopfer/just-made-5000-in-revenue-with-my-mvp-16c2)
 - [Lifehacker] [How to Prevent Your Bank from Closing Your Accounts Without Notice](https://lifehacker.com/money/how-to-prevent-your-bank-from-closing-your-accounts)
 - [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
 - [Lifehacker] [The Biggest Differences Between Claude AI and ChatGPT](https://lifehacker.com/tech/claude-ai-versus-chatgpt-which-is-better)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My 25 Favorite New Podcasts of 2023](https://lifehacker.com/entertainment/best-podcasts-2023)
 - [Lifehacker] [The Unbreakable Rules of Sharing a Fence With Your Neighbor](https://lifehacker.com/home/rules-of-sharing-a-fence-with-neighbors)
 - [Lifehacker] [Upgrade Your Leftover-Turkey Sandwich With Thai Curry Paste](https://lifehacker.com/food-drink/thai-curry-turkey-sandwich-recipe)
-- [Lifehacker] [No, NameDrop on iPhone Won’t Automatically Share Your Contact Information](https://lifehacker.com/tech/how-namedrop-on-iphone-works)
-- [Lifehacker] [The Differences Between a Drill, Impact Driver, and Hammer Drill &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/drill-hammer-drill-impact-driver)
-- [Lifehacker] [What&#39;s New on Max in December 2023](https://lifehacker.com/entertainment/max-december-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [No, NameDrop on iPhone Won’t Automatically Share Your Contact Information](https://lifehacker.com/tech/how-namedrop-on-iphone-works)<!-- TECH-POSTS:END -->
 
 ---
 
