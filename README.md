@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add an in-game chat room with React](https://dev.to/ably/how-to-add-an-in-game-chat-room-with-react-3c1g)
+- [Dev.to/JS] [Add In-App Inbox Notification Center in Your Angular App Using ngx-suprsend-inbox SDK](https://dev.to/suprsend/add-in-app-inbox-notification-center-in-your-angular-app-using-ngx-suprsend-inbox-sdk-4e20)
+- [Dev.to/JS] [Importing posts from an RSS feed with Eleventy](https://dev.to/rtaibah/importing-posts-from-an-rss-feed-with-eleventy-468e)
+- [Lifehacker] [Frankly, a Modular Kitchen Remodel Is a Great Idea](https://lifehacker.com/home/modular-kitchen-remodel)
 - [Dev.to/JS] [BioBlend CBD Gummies For ED - The Best Sex Drive Supplement? Effective Ingredients?](https://dev.to/bioblendcbdgummiesfored/bioblend-cbd-gummies-for-ed-the-best-sex-drive-supplement-effective-ingredients-2cgb)
 - [Dev.to/JS] [Keseruan Dalam Bermain Permainan Slot Favorit](https://dev.to/adikfransisca/keseruan-dalam-bermain-permainan-slot-favorit-3e54)
 - [Dev.to/JS] [React Native vs Swift: Which is Best for Your Mobile App Development?](https://dev.to/me_janki/react-native-vs-swift-which-is-best-for-your-mobile-app-development-3hdb)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crafting Dynamic Experiences in Vue.js Mobile App Development](https://dev.to/vtnetzwelt/crafting-dynamic-experiences-in-vuejs-mobile-app-development-fpi)
 - [Dev.to/JS] [10 Hints for an Effective Hair Transplant in Dubai](https://dev.to/misbahdynamicclinic/10-hints-for-an-effective-hair-transplant-in-dubai-g05)
 - [Dev.to/JS] [A Deep Dive Into React Hooks](https://dev.to/eskay/a-deep-dive-into-react-hooks-19lc)
-- [Dev.to/JS] [Detecting Changes on JavaScript Object values using Sets](https://dev.to/kipyegonline/detecting-changes-on-javascript-object-values-using-sets-1k2f)
-- [Dev.to/JS] [An Overview of Software Development for E-Commerce](https://dev.to/dchi9182/an-overview-of-software-development-for-e-commerce-52a2)
-- [Dev.to/JS] [Prenatalin Prenatal Care](https://dev.to/sarker360/prenatalinprenatal-care-56og)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
 - [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
 - [Lifehacker] [This App Makes It Easier to Keep Track of Everything on Your Watchlist](https://lifehacker.com/tech/justwatch-app-keep-track-of-watchlist)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are Walmart&#39;s Best Cyber Monday Deals on Fitness Equipment](https://lifehacker.com/health/best-walmart-cyber-monday-fitness-deals)
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
-- [Lifehacker] [These Are the Best Cyber Monday Dyson Vacuum Deals](https://lifehacker.com/home/best-cyber-monday-dyson-vacuum-deals)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on Headphones](https://lifehacker.com/tech/best-cyber-monday-deals-headphones-earbuds)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Cyber Monday Dyson Vacuum Deals](https://lifehacker.com/home/best-cyber-monday-dyson-vacuum-deals)<!-- TECH-POSTS:END -->
 
 ---
 
