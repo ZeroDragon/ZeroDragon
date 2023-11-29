@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Challenges pt. 1](https://dev.to/bencodes/code-challenges-pt-1-3df7)
+- [Dev.to/JS] [Zero-to-beginner front-end roadmap](https://dev.to/qhphan/zero-to-beginner-front-end-roadmap-88f)
+- [Lifehacker] [How to Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
+- [Lifehacker] [How to Print Documents From an Android Phone](https://lifehacker.com/tech/how-to-print-from-android-phone)
 - [Dev.to/JS] [My husband and I lost $1.1m worth of Bitcoins to a fake cryptocurrency investment platform.](https://dev.to/catherinecatherineo947/my-husband-and-i-lost-11m-worth-of-bitcoins-to-a-fake-cryptocurrency-investment-platform-1648)
 - [Dev.to/JS] [📚 RTK Query: Understanding useQuery hook](https://dev.to/raaynaldo/rtk-query-understanding-usequery-hook-36bo)
 - [Dev.to/JS] [Vite.js - Lightning Fast Builds Powered by ES Modules](https://dev.to/amelie-lamb/vitejs-lightning-fast-builds-powered-by-es-modules-i4n)
@@ -44,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [mua chung semrush](https://dev.to/wsovn123/mua-chung-semrush-1apl)
 - [Lifehacker] [Everything You Need to Do When You Pay Off Your Mortgage](https://lifehacker.com/money/pay-off-mortgage-how-to-prepare)
 - [Dev.to/JS] [DomCop](https://dev.to/wsovn123/domcop-52l6)
-- [Dev.to/JS] [Nuxt Social Share module has many new features 🎉](https://dev.to/stefanobartoletti/nuxt-social-share-module-has-many-new-features-5b75)
-- [Dev.to/JS] [SpyAMZ](https://dev.to/wsovn123/spyamz-1nng)
 - [Lifehacker] [These Holiday Decorations Aren’t Safe for Local Wildlife &lpar;and What to Use Instead&rpar;](https://lifehacker.com/home/holiday-decorations-that-are-not-safe-for-wildlife)
 - [Lifehacker] [The Smart Envi Heater Is Shockingly Efficient in Small Spaces](https://lifehacker.com/tech/smart-envi-heater-review)
 - [Lifehacker] [Help Your Kid Develop Independence With ‘Autonomy-Supportive’ Parenting](https://lifehacker.com/family/autonomy-supportive-parenting)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images](https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend)
 - [Lifehacker] [This Is Your Last Chance to Stop Google From Deleting Your Old Gmail Account](https://lifehacker.com/tech/stop-google-from-deleting-your-old-gmail-account)
 - [Lifehacker] [Here&#39;s Where to Find Your 2023 Apple Music Replay](https://lifehacker.com/tech/2023-apple-music-replay)
-- [Lifehacker] [The Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)
-- [Lifehacker] [There&#39;s a Faster New Way to Send Photos in iMessage](https://lifehacker.com/tech/send-photos-faster-imessage)
-- [Lifehacker] [Use Nair to Remove Hair From a Necklace](https://lifehacker.com/home/remove-hair-from-necklace)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)<!-- TECH-POSTS:END -->
 
 ---
 
