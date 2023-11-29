@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
 - [Dev.to/JS] [Quem tem medo do reduce? Entenda esse método agora ou seu dinheiro de volta](https://dev.to/demenezes/quem-tem-medo-do-reduce-entenda-esse-metodo-agora-ou-seu-dinheiro-de-volta-3e3f)
 - [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
 - [Lifehacker] [This App Makes It Easier to Keep Track of Everything on Your Watchlist](https://lifehacker.com/tech/justwatch-app-keep-track-of-watchlist)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Tech Deals From Best Buy&#39;s Cyber Monday Sale](https://lifehacker.com/tech/tech-deals-best-buy-cyber-monday-sale)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
 - [Lifehacker] [These Are the Best Cyber Monday Dyson Vacuum Deals](https://lifehacker.com/home/best-cyber-monday-dyson-vacuum-deals)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on Headphones](https://lifehacker.com/tech/best-cyber-monday-deals-headphones-earbuds)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on Streaming Devices](https://lifehacker.com/entertainment/best-cyber-monday-deals-on-streaming-devices)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Cyber Monday Deals on Headphones](https://lifehacker.com/tech/best-cyber-monday-deals-headphones-earbuds)<!-- TECH-POSTS:END -->
 
 ---
 
