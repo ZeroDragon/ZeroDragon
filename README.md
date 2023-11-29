@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Overview of Software Development for E-Commerce](https://dev.to/dchi9182/an-overview-of-software-development-for-e-commerce-52a2)
 - [Dev.to/JS] [Prenatalin Prenatal Care](https://dev.to/sarker360/prenatalinprenatal-care-56og)
 - [Dev.to/JS] [How Does Chrome&#39;s V8 Engine Actually Work?](https://dev.to/mainak0907/how-does-chromes-v8-engine-actually-work-4c2h)
 - [Dev.to/JS] [Typescript type vs interface](https://dev.to/manthanank/typescript-type-vs-interface-2gf)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AJAX Explained: Enhancing User Experience with Asynchronous javascript](https://dev.to/amarachi_kanu_20/ajax-explained-enhancing-user-experience-with-asynchronous-javascript-51ld)
 - [Dev.to/JS] [100+ Questions for Angular Interviews 💫](https://dev.to/ahmeddoosama/100-questions-for-frontend-interviews-j86)
 - [Lifehacker] [The Good and the Bad of the 800-Gram Fruit and Vegetable Challenge](https://lifehacker.com/health/800-gram-challenge)
-- [Dev.to/JS] [Discover the 9️⃣ Best Self-Hosted, Open-Source Repositories on GitHub 💫](https://dev.to/srbhr/discover-the-9-best-self-hosted-open-source-repositories-on-github-23oc)
 - [Lifehacker] [I Investigate Yet Another Internet Egg-peeling Hack](https://lifehacker.com/food-drink/best-way-to-peel-an-egg)
 - [Lifehacker] [I Am Once Again Urging You to Wander Into a National Forest to Chop Down a Christmas Tree &lpar;but Legally&rpar;](https://lifehacker.com/money/cut-your-own-christmas-tree-from-a-national-forest)
 - [Lifehacker] [Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images](https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend)
