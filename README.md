@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quem tem medo do reduce? Entenda esse método agora ou seu dinheiro de volta](https://dev.to/demenezes/quem-tem-medo-do-reduce-entenda-esse-metodo-agora-ou-seu-dinheiro-de-volta-3e3f)
+- [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
+- [Lifehacker] [This App Makes It Easier to Keep Track of Everything on Your Watchlist](https://lifehacker.com/tech/justwatch-app-keep-track-of-watchlist)
 - [Lifehacker] [The Specialty Cleaning Tools That Are Actually Worth It](https://lifehacker.com/home/kitchen-bathroom-cleaning-tools-worth-splurging-on)
 - [Dev.to/JS] [What is the most effective way for implementing responsive design with media query CSS?](https://dev.to/benz_marwan/what-is-the-most-effective-way-for-implementing-responsive-design-with-media-query-css-3m16)
 - [Dev.to/JS] [AJAX Explained: Enhancing User Experience with Asynchronous javascript](https://dev.to/amarachi_kanu_20/ajax-explained-enhancing-user-experience-with-asynchronous-javascript-51ld)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building my side project using Nuxt3, Supabase, Fastify, &amp; Vercel](https://dev.to/netervati/building-my-side-project-using-nuxt3-supabase-fastify-vercel-3680)
 - [Dev.to/JS] [Building interactive tutorials with WebContainers](https://dev.to/jxd-dev/building-interactive-tutorials-with-webcontainers-372i)
 - [Lifehacker] [The Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)
-- [Dev.to/JS] [Jumblie Build Log](https://dev.to/cassidoo/jumblie-build-log-2m0l)
 - [Lifehacker] [There&#39;s a Faster New Way to Send Photos in iMessage](https://lifehacker.com/tech/send-photos-faster-imessage)
 - [Lifehacker] [Use Nair to Remove Hair From a Necklace](https://lifehacker.com/home/remove-hair-from-necklace)
 - [Lifehacker] [How to Download Instagram Reels &lpar;and Stop Others From Downloading Yours&rpar;](https://lifehacker.com/tech/how-to-download-instagram-reels)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, November 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-28-2023)
 - [Lifehacker] [These Are the Best Cyber Monday Dyson Vacuum Deals](https://lifehacker.com/home/best-cyber-monday-dyson-vacuum-deals)
 - [Lifehacker] [These Are the Best Cyber Monday Deals on Headphones](https://lifehacker.com/tech/best-cyber-monday-deals-headphones-earbuds)
-- [Lifehacker] [These Are the Best Cyber Monday Deals on Streaming Devices](https://lifehacker.com/entertainment/best-cyber-monday-deals-on-streaming-devices)
-- [Lifehacker] [The Best Cyber Monday Deals Walmart Has to Offer](https://lifehacker.com/money/best-walmart-cyber-monday-deals)
-- [Lifehacker] [These Are the Best Cyber Monday Cordless Vacuum Deals at Amazon](https://lifehacker.com/home/amazon-cyber-monday-cordless-vacuums)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Cyber Monday Deals on Streaming Devices](https://lifehacker.com/entertainment/best-cyber-monday-deals-on-streaming-devices)<!-- TECH-POSTS:END -->
 
 ---
 
