@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making a shitty programming language from scratch. Part 1.5](https://dev.to/andi23rosca/making-a-shitty-programming-language-from-scratch-part-15-5f1l)
+- [Dev.to/JS] [How to use React &lt;Suspense&gt;](https://dev.to/hakki/how-to-use-react-155o)
 - [Dev.to/JS] [A Guide to Building Custom Hooks in React](https://dev.to/hakki/a-guide-to-building-custom-hooks-in-react-g7p)
 - [Dev.to/JS] [Embracing Clean Code with `is.kebabCase` and `is.not_kebabCase` from &#39;thiis&#39;: A Fun Journey into String Formatting](https://dev.to/karbashevskyi/embracing-clean-code-with-iskebabcase-and-isnotkebabcase-from-thiis-a-fun-journey-into-string-formatting-ehj)
 - [Dev.to/JS] [sort&lpar;&rpar; vs toSorted&lpar;&rpar;](https://dev.to/sundarbadagala081/sort-vs-tosorted-3gmi)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SELECT Component.🤖Cyber Week up to 97% OFF](https://dev.to/mdbootstrap/select-componentcyber-week-up-to-97-off-2c3m)
 - [Dev.to/JS] [Why avoid using &#39;any&#39; in TypeScript](https://dev.to/danywalls/why-avoid-using-any-in-typescript-1jfp)
 - [Dev.to/JS] [Understanding the Document Object Model &lpar;DOM&rpar; in Frontend Development](https://dev.to/anshu21/understanding-the-document-object-model-dom-in-frontend-development-2h17)
-- [Dev.to/JS] [Some Necessary Node.js Tools for Developers](https://dev.to/yagnapandya9/some-necessary-nodejs-tools-for-developers-kin)
-- [Dev.to/JS] [The Future of SaaS Monetization: Trends and Billing Tactics](https://dev.to/billymikee/the-future-of-saas-monetization-trends-and-billing-tactics-2oef)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
 - [Lifehacker] [How to Make a Vegan Roast You&#39;ll Actually Want to Eat](https://lifehacker.com/how-to-make-a-vegan-roast-youll-actually-want-to-eat-1830335306)
 - [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)
