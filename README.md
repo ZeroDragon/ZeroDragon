@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;m looking for contributors for my open source project](https://dev.to/jacklehamster/im-looking-for-contributors-for-my-open-source-project-33ac)
+- [Dev.to/JS] [Diving into SuperViz SDK: Samples for every component](https://dev.to/superviz/diving-into-superviz-sdk-samples-for-every-component-2pma)
+- [Dev.to/JS] [Color Guessing Game | HTML, CSS &amp; JavaScript Project](https://dev.to/codingcss/color-guessing-game-html-css-javascript-project-33hk)
+- [Dev.to/JS] [Software Engineer | Frontend Developer | Next.Js Developer | MERN Developer | Node.js Developer | Typescript Developer](https://dev.to/mdasikur/software-engineer-frontend-developer-nextjs-developer-mern-developer-nodejs-developer-typescript-developer-3hgf)
+- [Dev.to/JS] [Canvas Artistry: Mastering Selection, Dragging, and Scaling](https://dev.to/leo_song/canvas-artistry-mastering-selection-dragging-and-scaling-5chb)
+- [Lifehacker] [Use This Infrared Thermometer to Find Where Heat Is Escaping Your House](https://lifehacker.com/home/infrared-thermometer-drafts)
 - [Dev.to/JS] [Simplify State Management in React with Jotai](https://dev.to/bhavesh_yadav/simplify-state-management-in-react-with-jotai-2ejh)
 - [Dev.to/JS] [Day 1 - 30 Days learn Web Dev](https://dev.to/johnc/day-1-30-days-learn-web-dev-2660)
 - [Dev.to/JS] [5 KILLER WEBSITES FOR CODERS 💎](https://dev.to/random_ti/5-killer-websites-for-coders-a7)
+- [Lifehacker] [Everything You Need to Know About Grok, Elon Musk&#39;s Answer to ChatGPT](https://lifehacker.com/tech/what-is-grok-elon-musks-answer-to-chatgpt)
 - [Dev.to/JS] [Improving Code Quality in React with JavaScript Best Practices](https://dev.to/surajondev/improving-code-quality-in-react-with-javascript-best-practices-3me)
 - [Dev.to/JS] [JavaScript developers must know this Array method!](https://dev.to/imparth/javascript-developers-must-know-this-array-method-2mhb)
 - [Dev.to/JS] [Generate and Use SSL Cert in Windows](https://dev.to/raj_kishor/generate-and-use-ssl-cert-in-windows-251c)
 - [Lifehacker] [How to Use Audio Message Transcriptions in iOS 17](https://lifehacker.com/tech/how-to-use-audio-message-transcripts-in-ios-17)
 - [Dev.to/JS] [Bubblewrap is not accepting lengthy short names](https://dev.to/bhanukiranmaddela/bubblewrap-is-not-accepting-lengthy-short-names-4n1o)
-- [Dev.to/JS] [Buy Pearl Necklace - A Stylish Accessory for Any Occasion](https://dev.to/riyasinghhhh88/buy-pearl-necklace-a-stylish-accessory-for-any-occasion-3dhn)
-- [Dev.to/JS] [React Native Shared Elements Using Reanimated 3](https://dev.to/ajmal_hasan/react-native-shared-elements-using-reanimated-3-7f0)
-- [Dev.to/JS] [Making a shitty programming language from scratch. Part 1.5](https://dev.to/andi23rosca/making-a-shitty-programming-language-from-scratch-part-15-5f1l)
-- [Dev.to/JS] [How to use React &lt;Suspense&gt;](https://dev.to/hakki/how-to-use-react-155o)
-- [Dev.to/JS] [A Guide to Building Custom Hooks in React](https://dev.to/hakki/a-guide-to-building-custom-hooks-in-react-g7p)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
 - [Lifehacker] [How to Make a Vegan Roast You&#39;ll Actually Want to Eat](https://lifehacker.com/how-to-make-a-vegan-roast-youll-actually-want-to-eat-1830335306)
 - [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
 - [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
 - [Lifehacker] [This App Makes It Easier to Keep Track of Everything on Your Watchlist](https://lifehacker.com/tech/justwatch-app-keep-track-of-watchlist)
-- [Lifehacker] [The Specialty Cleaning Tools That Are Actually Worth It](https://lifehacker.com/home/kitchen-bathroom-cleaning-tools-worth-splurging-on)
-- [Lifehacker] [The Good and the Bad of the 800-Gram Fruit and Vegetable Challenge](https://lifehacker.com/health/800-gram-challenge)
-- [Lifehacker] [I Investigate Yet Another Internet Egg-peeling Hack](https://lifehacker.com/food-drink/best-way-to-peel-an-egg)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Specialty Cleaning Tools That Are Actually Worth It](https://lifehacker.com/home/kitchen-bathroom-cleaning-tools-worth-splurging-on)<!-- TECH-POSTS:END -->
 
 ---
 
