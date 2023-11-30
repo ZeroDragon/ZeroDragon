@@ -28,6 +28,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Customer: Use Case &lpar;4: Implementing Front-end Service&rpar;](https://dev.to/amalja0/customer-use-case-4-implementing-front-end-service-5hha)
 - [Dev.to/JS] [How to connect Supabase to Payload CMS](https://dev.to/petipois/how-to-connect-supabase-to-payload-cms-3emp)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
 - [Dev.to/JS] [New to Dev.to!](https://dev.to/vincentf/new-to-devto-1lb1)
 - [Dev.to/JS] [How “Merge Sort” works in JavaScript?](https://dev.to/jaimaldullat/how-merge-sort-works-in-javascript-5c1e)
 - [Dev.to/JS] [Image Compression in JavaScript/TypeScript](https://dev.to/konstantinstanmeyer/image-compression-in-javascripttypescript-dc9)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Specialty Cleaning Tools That Are Actually Worth It](https://lifehacker.com/home/kitchen-bathroom-cleaning-tools-worth-splurging-on)
 - [Lifehacker] [The Good and the Bad of the 800-Gram Fruit and Vegetable Challenge](https://lifehacker.com/health/800-gram-challenge)
 - [Lifehacker] [I Investigate Yet Another Internet Egg-peeling Hack](https://lifehacker.com/food-drink/best-way-to-peel-an-egg)
-- [Lifehacker] [I Am Once Again Urging You to Wander Into a National Forest to Chop Down a Christmas Tree &lpar;but Legally&rpar;](https://lifehacker.com/money/cut-your-own-christmas-tree-from-a-national-forest)
-- [Lifehacker] [Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images](https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend)<!-- TECH-POSTS:END -->
+- [Lifehacker] [I Am Once Again Urging You to Wander Into a National Forest to Chop Down a Christmas Tree &lpar;but Legally&rpar;](https://lifehacker.com/money/cut-your-own-christmas-tree-from-a-national-forest)<!-- TECH-POSTS:END -->
 
 ---
 
