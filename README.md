@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Customer: Use Case &lpar;4: Implementing Front-end Service&rpar;](https://dev.to/amalja0/customer-use-case-4-implementing-front-end-service-5hha)
+- [Dev.to/JS] [How to connect Supabase to Payload CMS](https://dev.to/petipois/how-to-connect-supabase-to-payload-cms-3emp)
 - [Dev.to/JS] [New to Dev.to!](https://dev.to/vincentf/new-to-devto-1lb1)
 - [Dev.to/JS] [How “Merge Sort” works in JavaScript?](https://dev.to/jaimaldullat/how-merge-sort-works-in-javascript-5c1e)
 - [Dev.to/JS] [Image Compression in JavaScript/TypeScript](https://dev.to/konstantinstanmeyer/image-compression-in-javascripttypescript-dc9)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
 - [Lifehacker] [How to Print Documents From an Android Phone](https://lifehacker.com/tech/how-to-print-from-android-phone)
 - [Dev.to/JS] [My husband and I lost $1.1m worth of Bitcoins to a fake cryptocurrency investment platform.](https://dev.to/catherinecatherineo947/my-husband-and-i-lost-11m-worth-of-bitcoins-to-a-fake-cryptocurrency-investment-platform-1648)
-- [Dev.to/JS] [📚 RTK Query: Understanding useQuery hook](https://dev.to/raaynaldo/rtk-query-understanding-usequery-hook-36bo)
-- [Dev.to/JS] [Vite.js - Lightning Fast Builds Powered by ES Modules](https://dev.to/amelie-lamb/vitejs-lightning-fast-builds-powered-by-es-modules-i4n)
 - [Lifehacker] [The Best White Noise Machine for Every Purpose](https://lifehacker.com/health/the-best-white-noise-machines-for-sleep-and-focus)
 - [Lifehacker] [You Can Finally Make Collaborative Apple Music Playlists](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
 - [Lifehacker] [Use the Shaper System to Easily Recall up to 100 Things](https://lifehacker.com/family/shaper-system-memory-technique)
