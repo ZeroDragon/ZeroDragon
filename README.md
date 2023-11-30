@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [One week into front end boot camp.](https://dev.to/thebigdavec/one-week-into-front-end-boot-camp-32i7)
+- [Lifehacker] [Your Electric Kettle Is Dirtier Than You Think](https://lifehacker.com/home/how-to-deep-clean-an-electric-kettle)
+- [Dev.to/JS] [Updated Pricing: 10,000 MAUs Free, and a new “Pro Plan”](https://dev.to/clerk/updated-pricing-10000-maus-free-and-a-new-pro-plan-5gaa)
+- [Lifehacker] [You Need to Update Your Apple Devices Now](https://lifehacker.com/tech/update-apple-devices-now)
 - [Dev.to/JS] [Intro to Async / Await Syntax](https://dev.to/danielj/intro-to-async-await-syntax-3bic)
 - [Lifehacker] [You Can Watch Augmented Reality Porn on a Meta Quest 3](https://lifehacker.com/tech/how-to-watch-augmented-reality-porn-on-meta-quest-3)
 - [Lifehacker] [Why You Should Reset Your PC for the New Year](https://lifehacker.com/tech/reset-your-pc-for-a-fresh-start-this-year)
@@ -45,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Bill Negotiation Services Are a Waste of Money](https://lifehacker.com/money/how-to-negotiate-lower-bills)
 - [Dev.to/JS] [This week&#39;s best picks for devs](https://dev.to/adam/this-weeks-best-picks-for-devs-kde)
 - [Lifehacker] [How to Find Your Sound Town and Listening Character in Spotify Wrapped 2023](https://lifehacker.com/tech/spotify-wrapped-2023-find-your-sound-town-and-listening-character)
-- [Dev.to/JS] [Multiple – Load test any API with JavaScript and NPM packages](https://dev.to/yev_yev_yev/multiple-load-test-any-api-with-javascript-and-npm-packages-5cib)
 - [Lifehacker] [These Fancy Appetizers Are Dead Simple to Make](https://lifehacker.com/food-drink/easy-fancy-appetizers)
-- [Dev.to/JS] [Classes vs Factory functions in Javascript](https://dev.to/snevy1/classes-vs-factory-functions-in-javascript-4fjn)
 - [Lifehacker] [These Are The Best Ways to Save Money When Renting a Car](https://lifehacker.com/travel/how-to-save-money-when-renting-a-car)
 - [Lifehacker] [You Can Finally Change the iPhone&#39;s Default Notification Sounds and Haptics](https://lifehacker.com/tech/how-to-change-iphone-default-notification-sound)
 - [Lifehacker] [These Unusual Cordless Tools Are Surprisingly Useful for Your DIY Projects](https://lifehacker.com/home/unusual-diy-cordless-tools)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Print Documents From an Android Phone](https://lifehacker.com/tech/how-to-print-from-android-phone)
 - [Lifehacker] [The Best White Noise Machine for Every Purpose](https://lifehacker.com/health/the-best-white-noise-machines-for-sleep-and-focus)
 - [Lifehacker] [You Can Finally Make Collaborative Apple Music Playlists](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
-- [Lifehacker] [Use the Shaper System to Easily Recall up to 100 Things](https://lifehacker.com/family/shaper-system-memory-technique)
-- [Lifehacker] [What to Do When You’re a Financial Late Bloomer](https://lifehacker.com/money/what-to-do-when-youre-a-financial-late-bloomer)
-- [Lifehacker] [Use the Last Bit of Leftover Cranberry Sauce to Make These Jam Bars](https://lifehacker.com/food-drink/use-your-leftover-cranberry-sauce-in-this-cranberry-jam-bars-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the Shaper System to Easily Recall up to 100 Things](https://lifehacker.com/family/shaper-system-memory-technique)<!-- TECH-POSTS:END -->
 
 ---
 
