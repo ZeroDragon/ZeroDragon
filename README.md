@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multiple – Load test any API with JavaScript and NPM packages](https://dev.to/yev_yev_yev/multiple-load-test-any-api-with-javascript-and-npm-packages-5cib)
+- [Dev.to/JS] [Classes vs Factory functions in Javascript](https://dev.to/snevy1/classes-vs-factory-functions-in-javascript-4fjn)
+- [Dev.to/JS] [Logical OR &lpar;||&rpar; vs. Nullish Coalescing &lpar;??&rpar; For Default Values](https://dev.to/shameel/logical-or-vs-nullish-coalescing-for-default-values-53b0)
 - [Dev.to/JS] [need help](https://dev.to/uch223/need-help-3dp9)
 - [Dev.to/JS] [Socket.io Simple Chat App](https://dev.to/rishikesh00760/socketio-simple-chat-app-3g8)
 - [Dev.to/JS] [How to create custom content bricks in React Bricks](https://dev.to/dsalinasgardon/how-to-create-custom-content-bricks-in-react-bricks-cd5)
 - [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 3&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-3-5j4)
+- [Lifehacker] [These Unusual Cordless Tools Are Surprisingly Useful for Your DIY Projects](https://lifehacker.com/home/unusual-diy-cordless-tools)
 - [Dev.to/JS] [I&#39;m looking for contributors for my open source project](https://dev.to/jacklehamster/im-looking-for-contributors-for-my-open-source-project-33ac)
 - [Dev.to/JS] [Diving into SuperViz SDK: Samples for every component](https://dev.to/superviz/diving-into-superviz-sdk-samples-for-every-component-2pma)
 - [Dev.to/JS] [Color Guessing Game | HTML, CSS &amp; JavaScript Project](https://dev.to/codingcss/color-guessing-game-html-css-javascript-project-33hk)
+- [Lifehacker] [These Are the Best Holiday Gifts for Creative Kids](https://lifehacker.com/money/holiday-gifts-creative-kids)
 - [Dev.to/JS] [Software Engineer | Frontend Developer | Next.Js Developer | MERN Developer | Node.js Developer | Typescript Developer](https://dev.to/mdasikur/software-engineer-frontend-developer-nextjs-developer-mern-developer-nodejs-developer-typescript-developer-3hgf)
 - [Dev.to/JS] [Canvas Artistry: Mastering Selection, Dragging, and Scaling](https://dev.to/leo_song/canvas-artistry-mastering-selection-dragging-and-scaling-5chb)
 - [Lifehacker] [Use This Infrared Thermometer to Find Where Heat Is Escaping Your House](https://lifehacker.com/home/infrared-thermometer-drafts)
-- [Dev.to/JS] [Simplify State Management in React with Jotai](https://dev.to/bhavesh_yadav/simplify-state-management-in-react-with-jotai-2ejh)
-- [Dev.to/JS] [Day 1 - 30 Days learn Web Dev](https://dev.to/johnc/day-1-30-days-learn-web-dev-2660)
-- [Dev.to/JS] [5 KILLER WEBSITES FOR CODERS 💎](https://dev.to/random_ti/5-killer-websites-for-coders-a7)
 - [Lifehacker] [Everything You Need to Know About Grok, Elon Musk&#39;s Answer to ChatGPT](https://lifehacker.com/tech/what-is-grok-elon-musks-answer-to-chatgpt)
 - [Lifehacker] [How to Use Audio Message Transcriptions in iOS 17](https://lifehacker.com/tech/how-to-use-audio-message-transcripts-in-ios-17)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Biggest Differences Between Claude AI and ChatGPT](https://lifehacker.com/tech/claude-ai-versus-chatgpt-which-is-better)
 - [Lifehacker] [Frankly, a Modular Kitchen Remodel Is a Great Idea](https://lifehacker.com/home/modular-kitchen-remodel)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
-- [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)
-- [Lifehacker] [This App Makes It Easier to Keep Track of Everything on Your Watchlist](https://lifehacker.com/tech/justwatch-app-keep-track-of-watchlist)
-- [Lifehacker] [The Specialty Cleaning Tools That Are Actually Worth It](https://lifehacker.com/home/kitchen-bathroom-cleaning-tools-worth-splurging-on)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)<!-- TECH-POSTS:END -->
 
 ---
 
