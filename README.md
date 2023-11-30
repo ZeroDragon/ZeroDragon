@@ -26,7 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Image Compression in JavaScript/TypeScript](https://dev.to/konstantinstanmeyer/image-compression-in-javascripttypescript-dc9)
+- [Dev.to/JS] [Code Challenges pt. 2](https://dev.to/bencodes/code-challenges-pt-2-4kjm)
+- [Dev.to/JS] [Fetch API, do you really know how to handle errors?](https://dev.to/dionarodrigues/fetch-api-do-you-really-know-how-to-handle-errors-2gj0)
+- [Dev.to/JS] [Giving your GPT a long-term memory](https://dev.to/xkonti/giving-your-gpt-a-long-term-memory-35h7)
+- [Dev.to/JS] [Active Storage and React](https://dev.to/nicolaigorden/active-storage-and-react-52km)
+- [Lifehacker] [How to Make a Vegan Roast You&#39;ll Actually Want to Eat](https://lifehacker.com/how-to-make-a-vegan-roast-youll-actually-want-to-eat-1830335306)
+- [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)
 - [Dev.to/JS] [Code Challenges pt. 1](https://dev.to/bencodes/code-challenges-pt-1-3df7)
+- [Lifehacker] [A Reminder That Trusting Everything to Cloud Storage Can Screw You Over](https://lifehacker.com/tech/dont-rely-only-on-cloud-storage)
 - [Dev.to/JS] [Zero-to-beginner front-end roadmap](https://dev.to/qhphan/zero-to-beginner-front-end-roadmap-88f)
 - [Lifehacker] [How to Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
 - [Lifehacker] [How to Print Documents From an Android Phone](https://lifehacker.com/tech/how-to-print-from-android-phone)
@@ -41,13 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [mua chung semrush](https://dev.to/wsovn123/mua-chung-semrush-50ao)
 - [Lifehacker] [You Can Finally Scan Documents in Google Drive for iPhone](https://lifehacker.com/tech/how-to-scan-documents-in-google-drive-for-iphone)
 - [Dev.to/JS] [SpyFu](https://dev.to/wsovn123/spyfu-2chb)
-- [Dev.to/JS] [API Integration with React js](https://dev.to/syedmuhammadaliraza/api-integration-with-react-js-3on3)
-- [Dev.to/JS] [#FIGMA Material Minimal Design System: Updated &amp; Extended](https://dev.to/mz2387/figma-material-minimal-design-system-updated-extended-3e3c)
-- [Dev.to/JS] [Migration Guide: MDB 6.x.x. ------&gt; v7](https://dev.to/mdbootstrap/migration-guide-mdb-6xx-v7-2oap)
 - [Lifehacker] [Everything You Need to Know About Poria, the &#39;House-Eating&#39; Fungus](https://lifehacker.com/home/poria-house-eating-fungus)
-- [Dev.to/JS] [mua chung semrush](https://dev.to/wsovn123/mua-chung-semrush-1apl)
 - [Lifehacker] [Everything You Need to Do When You Pay Off Your Mortgage](https://lifehacker.com/money/pay-off-mortgage-how-to-prepare)
-- [Dev.to/JS] [DomCop](https://dev.to/wsovn123/domcop-52l6)
 - [Lifehacker] [These Holiday Decorations Aren’t Safe for Local Wildlife &lpar;and What to Use Instead&rpar;](https://lifehacker.com/home/holiday-decorations-that-are-not-safe-for-wildlife)
 - [Lifehacker] [The Smart Envi Heater Is Shockingly Efficient in Small Spaces](https://lifehacker.com/tech/smart-envi-heater-review)
 - [Lifehacker] [Help Your Kid Develop Independence With ‘Autonomy-Supportive’ Parenting](https://lifehacker.com/family/autonomy-supportive-parenting)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Good and the Bad of the 800-Gram Fruit and Vegetable Challenge](https://lifehacker.com/health/800-gram-challenge)
 - [Lifehacker] [I Investigate Yet Another Internet Egg-peeling Hack](https://lifehacker.com/food-drink/best-way-to-peel-an-egg)
 - [Lifehacker] [I Am Once Again Urging You to Wander Into a National Forest to Chop Down a Christmas Tree &lpar;but Legally&rpar;](https://lifehacker.com/money/cut-your-own-christmas-tree-from-a-national-forest)
-- [Lifehacker] [Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images](https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend)
-- [Lifehacker] [This Is Your Last Chance to Stop Google From Deleting Your Old Gmail Account](https://lifehacker.com/tech/stop-google-from-deleting-your-old-gmail-account)
-- [Lifehacker] [Here&#39;s Where to Find Your 2023 Apple Music Replay](https://lifehacker.com/tech/2023-apple-music-replay)
-- [Lifehacker] [The Best Smartwatches for Every Kind of Person](https://lifehacker.com/best-smartwatches-1850963556)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try the ChatGPT ‘Make It More’ Trend and Generate Absurd AI Images](https://lifehacker.com/tech/chat-gpt-make-it-more-ai-images-trend)<!-- TECH-POSTS:END -->
 
 ---
 
