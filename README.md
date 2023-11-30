@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New to Dev.to!](https://dev.to/vincentf/new-to-devto-1lb1)
+- [Dev.to/JS] [How “Merge Sort” works in JavaScript?](https://dev.to/jaimaldullat/how-merge-sort-works-in-javascript-5c1e)
 - [Dev.to/JS] [Image Compression in JavaScript/TypeScript](https://dev.to/konstantinstanmeyer/image-compression-in-javascripttypescript-dc9)
 - [Dev.to/JS] [Code Challenges pt. 2](https://dev.to/bencodes/code-challenges-pt-2-4kjm)
 - [Dev.to/JS] [Fetch API, do you really know how to handle errors?](https://dev.to/dionarodrigues/fetch-api-do-you-really-know-how-to-handle-errors-2gj0)
@@ -46,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the Shaper System to Easily Recall up to 100 Things](https://lifehacker.com/family/shaper-system-memory-technique)
 - [Lifehacker] [What to Do When You’re a Financial Late Bloomer](https://lifehacker.com/money/what-to-do-when-youre-a-financial-late-bloomer)
 - [Lifehacker] [Use the Last Bit of Leftover Cranberry Sauce to Make These Jam Bars](https://lifehacker.com/food-drink/use-your-leftover-cranberry-sauce-in-this-cranberry-jam-bars-recipe)
-- [Dev.to/JS] [mua chung semrush](https://dev.to/wsovn123/mua-chung-semrush-50ao)
 - [Lifehacker] [You Can Finally Scan Documents in Google Drive for iPhone](https://lifehacker.com/tech/how-to-scan-documents-in-google-drive-for-iphone)
-- [Dev.to/JS] [SpyFu](https://dev.to/wsovn123/spyfu-2chb)
 - [Lifehacker] [Everything You Need to Know About Poria, the &#39;House-Eating&#39; Fungus](https://lifehacker.com/home/poria-house-eating-fungus)
 - [Lifehacker] [Everything You Need to Do When You Pay Off Your Mortgage](https://lifehacker.com/money/pay-off-mortgage-how-to-prepare)
 - [Lifehacker] [These Holiday Decorations Aren’t Safe for Local Wildlife &lpar;and What to Use Instead&rpar;](https://lifehacker.com/home/holiday-decorations-that-are-not-safe-for-wildlife)
