@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Future of SaaS Monetization: Trends and Billing Tactics](https://dev.to/billymikee/the-future-of-saas-monetization-trends-and-billing-tactics-2oef)
+- [Dev.to/JS] [Continuous Integration and Deployment in Backend Development](https://dev.to/omnathdubeyofficial/continuous-integration-and-deployment-in-backend-development-2mg6)
+- [Dev.to/JS] [Last hours for last deal of the year on Lexington Themes.](https://dev.to/lexingtonthemes/last-hours-for-last-deal-of-the-year-on-lexington-themes-5910)
+- [Dev.to/JS] [Optimizing Database Queries for Efficient Backend Operations](https://dev.to/omnathdubeyofficial/optimizing-database-queries-for-efficient-backend-operations-4m1h)
 - [Dev.to/JS] [Serverless Computing: Simplifying Backend Development](https://dev.to/omnathdubeyofficial/serverless-computing-simplifying-backend-development-46kn)
 - [Dev.to/JS] [Microservices Architecture: Decoding the Backend Evolution](https://dev.to/omnathdubeyofficial/microservices-architecture-decoding-the-backend-evolution-35i4)
 - [Dev.to/JS] [Securing Your Backend: A Developer&#39;s Handbook on Authentication](https://dev.to/omnathdubeyofficial/securing-your-backend-a-developers-handbook-on-authentication-1a3d)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
 - [Dev.to/JS] [New to Dev.to!](https://dev.to/vincentf/new-to-devto-1lb1)
 - [Dev.to/JS] [How “Merge Sort” works in JavaScript?](https://dev.to/jaimaldullat/how-merge-sort-works-in-javascript-5c1e)
-- [Dev.to/JS] [Image Compression in JavaScript/TypeScript](https://dev.to/konstantinstanmeyer/image-compression-in-javascripttypescript-dc9)
-- [Dev.to/JS] [Code Challenges pt. 2](https://dev.to/bencodes/code-challenges-pt-2-4kjm)
-- [Dev.to/JS] [Fetch API, do you really know how to handle errors?](https://dev.to/dionarodrigues/fetch-api-do-you-really-know-how-to-handle-errors-2gj0)
-- [Dev.to/JS] [Giving your GPT a long-term memory](https://dev.to/xkonti/giving-your-gpt-a-long-term-memory-35h7)
 - [Lifehacker] [How to Make a Vegan Roast You&#39;ll Actually Want to Eat](https://lifehacker.com/how-to-make-a-vegan-roast-youll-actually-want-to-eat-1830335306)
 - [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)
 - [Lifehacker] [A Reminder That Trusting Everything to Cloud Storage Can Screw You Over](https://lifehacker.com/tech/dont-rely-only-on-cloud-storage)
