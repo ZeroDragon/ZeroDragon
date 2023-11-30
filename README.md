@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I saw this mind-blowing experiment, so I made a simple version of it](https://dev.to/momciloo/i-saw-this-mind-blowing-experiment-so-i-made-a-simple-version-of-it-1pk7)
 - [Dev.to/JS] [SELECT Component.🤖Cyber Week up to 97% OFF](https://dev.to/mdbootstrap/select-componentcyber-week-up-to-97-off-2c3m)
+- [Dev.to/JS] [Caddy: A JavaScript Tool Manager for Projects](https://dev.to/codingchuck/caddy-a-javascript-tool-manager-for-projects-50i4)
 - [Dev.to/JS] [Why avoid using &#39;any&#39; in TypeScript](https://dev.to/danywalls/why-avoid-using-any-in-typescript-1jfp)
 - [Dev.to/JS] [Understanding the Document Object Model &lpar;DOM&rpar; in Frontend Development](https://dev.to/anshu21/understanding-the-document-object-model-dom-in-frontend-development-2h17)
 - [Dev.to/JS] [Some Necessary Node.js Tools for Developers](https://dev.to/yagnapandya9/some-necessary-nodejs-tools-for-developers-kin)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing Database Queries for Efficient Backend Operations](https://dev.to/omnathdubeyofficial/optimizing-database-queries-for-efficient-backend-operations-4m1h)
 - [Dev.to/JS] [Serverless Computing: Simplifying Backend Development](https://dev.to/omnathdubeyofficial/serverless-computing-simplifying-backend-development-46kn)
 - [Dev.to/JS] [Microservices Architecture: Decoding the Backend Evolution](https://dev.to/omnathdubeyofficial/microservices-architecture-decoding-the-backend-evolution-35i4)
-- [Dev.to/JS] [Securing Your Backend: A Developer&#39;s Handbook on Authentication](https://dev.to/omnathdubeyofficial/securing-your-backend-a-developers-handbook-on-authentication-1a3d)
-- [Dev.to/JS] [HTML Data Attributes: One of the Original State Management Libraries](https://dev.to/nickytonline/html-data-attributes-one-of-the-original-state-management-libraries-8bf)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
 - [Lifehacker] [How to Make a Vegan Roast You&#39;ll Actually Want to Eat](https://lifehacker.com/how-to-make-a-vegan-roast-youll-actually-want-to-eat-1830335306)
 - [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)
