@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to deploy a custom template](https://dev.to/ulomaekpe/how-to-deploy-a-custom-template-2b5n)
+- [Dev.to/JS] [For ... else in JavaScript](https://dev.to/rocambille/for-else-in-javascript-47fd)
+- [Dev.to/JS] [Stop Taking Programming Notes &lpar;Try THIS!&rpar;](https://dev.to/codewithshahan/stop-taking-programming-notes-try-this-26dp)
+- [Dev.to/JS] [How single responsibility of a function helps to write better code](https://dev.to/learnwithparam/how-single-responsibility-of-a-function-helps-to-write-better-code-33nn)
+- [Lifehacker] [You Should Update Chrome Right Now &lpar;Again&rpar;](https://lifehacker.com/tech/update-chrome-asap)
 - [Dev.to/JS] [💰SAVE Up To 500$ on TW Elements❗️](https://dev.to/mz2387/save-up-to-500-on-tw-elements-7i4)
+- [Lifehacker] [These Are the Best New Accessibility Features in macOS Sonoma](https://lifehacker.com/tech/the-best-new-accessibility-features-in-macos-sonoma)
 - [Dev.to/JS] [Top React Component UI Libraries to Enhance Your Web Development Projects](https://dev.to/vishnusatheesh/top-react-component-ui-libraries-to-enhance-your-web-development-projects-3392)
+- [Lifehacker] [How to Tell When Rust Has Won](https://lifehacker.com/home/how-to-tell-when-something-is-rusted-beyond-repair)
 - [Dev.to/JS] [The Not-so-commonly Covered JS Topics](https://dev.to/mainak0907/the-not-so-commonly-covered-js-topics-3opl)
 - [Dev.to/JS] [👨‍💻 A Developer&#39;s Roadmap to Open-Sourcing Your Project 🚀](https://dev.to/opensign/a-developers-roadmap-to-open-sourcing-your-project-24m3)
 - [Lifehacker] [Bill Negotiation Services Are a Waste of Money](https://lifehacker.com/money/how-to-negotiate-lower-bills)
@@ -38,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Classes vs Factory functions in Javascript](https://dev.to/snevy1/classes-vs-factory-functions-in-javascript-4fjn)
 - [Dev.to/JS] [Logical OR &lpar;||&rpar; vs. Nullish Coalescing &lpar;??&rpar; For Default Values](https://dev.to/shameel/logical-or-vs-nullish-coalescing-for-default-values-53b0)
 - [Lifehacker] [These Are The Best Ways to Save Money When Renting a Car](https://lifehacker.com/travel/how-to-save-money-when-renting-a-car)
-- [Dev.to/JS] [need help](https://dev.to/uch223/need-help-3dp9)
 - [Lifehacker] [You Can Finally Change the iPhone&#39;s Default Notification Sounds and Haptics](https://lifehacker.com/tech/how-to-change-iphone-default-notification-sound)
-- [Dev.to/JS] [Socket.io Simple Chat App](https://dev.to/rishikesh00760/socketio-simple-chat-app-3g8)
-- [Dev.to/JS] [How to create custom content bricks in React Bricks](https://dev.to/dsalinasgardon/how-to-create-custom-content-bricks-in-react-bricks-cd5)
-- [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 3&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-3-5j4)
 - [Lifehacker] [These Unusual Cordless Tools Are Surprisingly Useful for Your DIY Projects](https://lifehacker.com/home/unusual-diy-cordless-tools)
 - [Lifehacker] [These Are the Best Holiday Gifts for Creative Kids](https://lifehacker.com/money/holiday-gifts-creative-kids)
 - [Lifehacker] [Use This Infrared Thermometer to Find Where Heat Is Escaping Your House](https://lifehacker.com/home/infrared-thermometer-drafts)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Scan Documents in Google Drive for iPhone](https://lifehacker.com/tech/how-to-scan-documents-in-google-drive-for-iphone)
 - [Lifehacker] [Everything You Need to Know About Poria, the &#39;House-Eating&#39; Fungus](https://lifehacker.com/home/poria-house-eating-fungus)
 - [Lifehacker] [Everything You Need to Do When You Pay Off Your Mortgage](https://lifehacker.com/money/pay-off-mortgage-how-to-prepare)
-- [Lifehacker] [These Holiday Decorations Aren’t Safe for Local Wildlife &lpar;and What to Use Instead&rpar;](https://lifehacker.com/home/holiday-decorations-that-are-not-safe-for-wildlife)
-- [Lifehacker] [The Smart Envi Heater Is Shockingly Efficient in Small Spaces](https://lifehacker.com/tech/smart-envi-heater-review)
-- [Lifehacker] [Help Your Kid Develop Independence With ‘Autonomy-Supportive’ Parenting](https://lifehacker.com/family/autonomy-supportive-parenting)
-- [Lifehacker] [How to Prevent Your Bank from Closing Your Accounts Without Notice](https://lifehacker.com/money/how-to-prevent-your-bank-from-closing-your-accounts)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Holiday Decorations Aren’t Safe for Local Wildlife &lpar;and What to Use Instead&rpar;](https://lifehacker.com/home/holiday-decorations-that-are-not-safe-for-wildlife)<!-- TECH-POSTS:END -->
 
 ---
 
