@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML Data Attributes: One of the Original State Management Libraries](https://dev.to/nickytonline/html-data-attributes-one-of-the-original-state-management-libraries-8bf)
 - [Dev.to/JS] [Customer: Use Case &lpar;4: Implementing Front-end Service&rpar;](https://dev.to/amalja0/customer-use-case-4-implementing-front-end-service-5hha)
 - [Dev.to/JS] [How to connect Supabase to Payload CMS](https://dev.to/petipois/how-to-connect-supabase-to-payload-cms-3emp)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zero-to-beginner front-end roadmap](https://dev.to/qhphan/zero-to-beginner-front-end-roadmap-88f)
 - [Lifehacker] [How to Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
 - [Lifehacker] [How to Print Documents From an Android Phone](https://lifehacker.com/tech/how-to-print-from-android-phone)
-- [Dev.to/JS] [My husband and I lost $1.1m worth of Bitcoins to a fake cryptocurrency investment platform.](https://dev.to/catherinecatherineo947/my-husband-and-i-lost-11m-worth-of-bitcoins-to-a-fake-cryptocurrency-investment-platform-1648)
 - [Lifehacker] [The Best White Noise Machine for Every Purpose](https://lifehacker.com/health/the-best-white-noise-machines-for-sleep-and-focus)
 - [Lifehacker] [You Can Finally Make Collaborative Apple Music Playlists](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
 - [Lifehacker] [Use the Shaper System to Easily Recall up to 100 Things](https://lifehacker.com/family/shaper-system-memory-technique)
