@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Serverless Computing: Simplifying Backend Development](https://dev.to/omnathdubeyofficial/serverless-computing-simplifying-backend-development-46kn)
+- [Dev.to/JS] [Microservices Architecture: Decoding the Backend Evolution](https://dev.to/omnathdubeyofficial/microservices-architecture-decoding-the-backend-evolution-35i4)
+- [Dev.to/JS] [Securing Your Backend: A Developer&#39;s Handbook on Authentication](https://dev.to/omnathdubeyofficial/securing-your-backend-a-developers-handbook-on-authentication-1a3d)
 - [Dev.to/JS] [HTML Data Attributes: One of the Original State Management Libraries](https://dev.to/nickytonline/html-data-attributes-one-of-the-original-state-management-libraries-8bf)
 - [Dev.to/JS] [Customer: Use Case &lpar;4: Implementing Front-end Service&rpar;](https://dev.to/amalja0/customer-use-case-4-implementing-front-end-service-5hha)
 - [Dev.to/JS] [How to connect Supabase to Payload CMS](https://dev.to/petipois/how-to-connect-supabase-to-payload-cms-3emp)
@@ -36,12 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Challenges pt. 2](https://dev.to/bencodes/code-challenges-pt-2-4kjm)
 - [Dev.to/JS] [Fetch API, do you really know how to handle errors?](https://dev.to/dionarodrigues/fetch-api-do-you-really-know-how-to-handle-errors-2gj0)
 - [Dev.to/JS] [Giving your GPT a long-term memory](https://dev.to/xkonti/giving-your-gpt-a-long-term-memory-35h7)
-- [Dev.to/JS] [Active Storage and React](https://dev.to/nicolaigorden/active-storage-and-react-52km)
 - [Lifehacker] [How to Make a Vegan Roast You&#39;ll Actually Want to Eat](https://lifehacker.com/how-to-make-a-vegan-roast-youll-actually-want-to-eat-1830335306)
 - [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)
-- [Dev.to/JS] [Code Challenges pt. 1](https://dev.to/bencodes/code-challenges-pt-1-3df7)
 - [Lifehacker] [A Reminder That Trusting Everything to Cloud Storage Can Screw You Over](https://lifehacker.com/tech/dont-rely-only-on-cloud-storage)
-- [Dev.to/JS] [Zero-to-beginner front-end roadmap](https://dev.to/qhphan/zero-to-beginner-front-end-roadmap-88f)
 - [Lifehacker] [How to Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
 - [Lifehacker] [How to Print Documents From an Android Phone](https://lifehacker.com/tech/how-to-print-from-android-phone)
 - [Lifehacker] [The Best White Noise Machine for Every Purpose](https://lifehacker.com/health/the-best-white-noise-machines-for-sleep-and-focus)
