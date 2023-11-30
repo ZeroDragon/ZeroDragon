@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bubblewrap is not accepting lengthy short names](https://dev.to/bhanukiranmaddela/bubblewrap-is-not-accepting-lengthy-short-names-4n1o)
+- [Dev.to/JS] [Buy Pearl Necklace - A Stylish Accessory for Any Occasion](https://dev.to/riyasinghhhh88/buy-pearl-necklace-a-stylish-accessory-for-any-occasion-3dhn)
+- [Dev.to/JS] [React Native Shared Elements Using Reanimated 3](https://dev.to/ajmal_hasan/react-native-shared-elements-using-reanimated-3-7f0)
 - [Dev.to/JS] [Making a shitty programming language from scratch. Part 1.5](https://dev.to/andi23rosca/making-a-shitty-programming-language-from-scratch-part-15-5f1l)
 - [Dev.to/JS] [How to use React &lt;Suspense&gt;](https://dev.to/hakki/how-to-use-react-155o)
 - [Dev.to/JS] [A Guide to Building Custom Hooks in React](https://dev.to/hakki/a-guide-to-building-custom-hooks-in-react-g7p)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Don&#39;t do this in your tech interviews!!&lpar;My learnings so far...&rpar;](https://dev.to/mank42/dont-do-this-in-your-tech-interviewsmy-learnings-so-far-3eod)
 - [Dev.to/JS] [12 Factor App in NodeJS Part 0: Intro](https://dev.to/sumitbhanushali/12-factor-app-in-nodejs-part-0-intro-m0a)
 - [Dev.to/JS] [I saw this mind-blowing experiment, so I made a simple version of it](https://dev.to/momciloo/i-saw-this-mind-blowing-experiment-so-i-made-a-simple-version-of-it-1pk7)
-- [Dev.to/JS] [SELECT Component.🤖Cyber Week up to 97% OFF](https://dev.to/mdbootstrap/select-componentcyber-week-up-to-97-off-2c3m)
-- [Dev.to/JS] [Why avoid using &#39;any&#39; in TypeScript](https://dev.to/danywalls/why-avoid-using-any-in-typescript-1jfp)
-- [Dev.to/JS] [Understanding the Document Object Model &lpar;DOM&rpar; in Frontend Development](https://dev.to/anshu21/understanding-the-document-object-model-dom-in-frontend-development-2h17)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
 - [Lifehacker] [How to Make a Vegan Roast You&#39;ll Actually Want to Eat](https://lifehacker.com/how-to-make-a-vegan-roast-youll-actually-want-to-eat-1830335306)
 - [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)
