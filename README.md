@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [need help](https://dev.to/uch223/need-help-3dp9)
+- [Dev.to/JS] [Socket.io Simple Chat App](https://dev.to/rishikesh00760/socketio-simple-chat-app-3g8)
+- [Dev.to/JS] [How to create custom content bricks in React Bricks](https://dev.to/dsalinasgardon/how-to-create-custom-content-bricks-in-react-bricks-cd5)
+- [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 3&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-3-5j4)
 - [Dev.to/JS] [I&#39;m looking for contributors for my open source project](https://dev.to/jacklehamster/im-looking-for-contributors-for-my-open-source-project-33ac)
 - [Dev.to/JS] [Diving into SuperViz SDK: Samples for every component](https://dev.to/superviz/diving-into-superviz-sdk-samples-for-every-component-2pma)
 - [Dev.to/JS] [Color Guessing Game | HTML, CSS &amp; JavaScript Project](https://dev.to/codingcss/color-guessing-game-html-css-javascript-project-33hk)
@@ -36,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 1 - 30 Days learn Web Dev](https://dev.to/johnc/day-1-30-days-learn-web-dev-2660)
 - [Dev.to/JS] [5 KILLER WEBSITES FOR CODERS 💎](https://dev.to/random_ti/5-killer-websites-for-coders-a7)
 - [Lifehacker] [Everything You Need to Know About Grok, Elon Musk&#39;s Answer to ChatGPT](https://lifehacker.com/tech/what-is-grok-elon-musks-answer-to-chatgpt)
-- [Dev.to/JS] [Improving Code Quality in React with JavaScript Best Practices](https://dev.to/surajondev/improving-code-quality-in-react-with-javascript-best-practices-3me)
-- [Dev.to/JS] [JavaScript developers must know this Array method!](https://dev.to/imparth/javascript-developers-must-know-this-array-method-2mhb)
-- [Dev.to/JS] [Generate and Use SSL Cert in Windows](https://dev.to/raj_kishor/generate-and-use-ssl-cert-in-windows-251c)
 - [Lifehacker] [How to Use Audio Message Transcriptions in iOS 17](https://lifehacker.com/tech/how-to-use-audio-message-transcripts-in-ios-17)
-- [Dev.to/JS] [Bubblewrap is not accepting lengthy short names](https://dev.to/bhanukiranmaddela/bubblewrap-is-not-accepting-lengthy-short-names-4n1o)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
 - [Lifehacker] [How to Make a Vegan Roast You&#39;ll Actually Want to Eat](https://lifehacker.com/how-to-make-a-vegan-roast-youll-actually-want-to-eat-1830335306)
 - [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)
