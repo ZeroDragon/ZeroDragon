@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro to Async / Await Syntax](https://dev.to/danielj/intro-to-async-await-syntax-3bic)
+- [Lifehacker] [You Can Watch Augmented Reality Porn on a Meta Quest 3](https://lifehacker.com/tech/how-to-watch-augmented-reality-porn-on-meta-quest-3)
+- [Lifehacker] [Why You Should Reset Your PC for the New Year](https://lifehacker.com/tech/reset-your-pc-for-a-fresh-start-this-year)
+- [Lifehacker] [The Differences Between Pressure Washers and Power Washers &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/differences-between-power-washers-and-pressure-washers)
 - [Dev.to/JS] [How to deploy a custom template](https://dev.to/ulomaekpe/how-to-deploy-a-custom-template-2b5n)
 - [Dev.to/JS] [For ... else in JavaScript](https://dev.to/rocambille/for-else-in-javascript-47fd)
 - [Dev.to/JS] [Stop Taking Programming Notes &lpar;Try THIS!&rpar;](https://dev.to/codewithshahan/stop-taking-programming-notes-try-this-26dp)
+- [Lifehacker] [Pressurized Walls Can Embiggen Your Crowded Apartment](https://lifehacker.com/money/pressurized-walls-for-rentals-apartments)
 - [Dev.to/JS] [How single responsibility of a function helps to write better code](https://dev.to/learnwithparam/how-single-responsibility-of-a-function-helps-to-write-better-code-33nn)
 - [Lifehacker] [You Should Update Chrome Right Now &lpar;Again&rpar;](https://lifehacker.com/tech/update-chrome-asap)
 - [Dev.to/JS] [💰SAVE Up To 500$ on TW Elements❗️](https://dev.to/mz2387/save-up-to-500-on-tw-elements-7i4)
@@ -43,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Multiple – Load test any API with JavaScript and NPM packages](https://dev.to/yev_yev_yev/multiple-load-test-any-api-with-javascript-and-npm-packages-5cib)
 - [Lifehacker] [These Fancy Appetizers Are Dead Simple to Make](https://lifehacker.com/food-drink/easy-fancy-appetizers)
 - [Dev.to/JS] [Classes vs Factory functions in Javascript](https://dev.to/snevy1/classes-vs-factory-functions-in-javascript-4fjn)
-- [Dev.to/JS] [Logical OR &lpar;||&rpar; vs. Nullish Coalescing &lpar;??&rpar; For Default Values](https://dev.to/shameel/logical-or-vs-nullish-coalescing-for-default-values-53b0)
 - [Lifehacker] [These Are The Best Ways to Save Money When Renting a Car](https://lifehacker.com/travel/how-to-save-money-when-renting-a-car)
 - [Lifehacker] [You Can Finally Change the iPhone&#39;s Default Notification Sounds and Haptics](https://lifehacker.com/tech/how-to-change-iphone-default-notification-sound)
 - [Lifehacker] [These Unusual Cordless Tools Are Surprisingly Useful for Your DIY Projects](https://lifehacker.com/home/unusual-diy-cordless-tools)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Make Collaborative Apple Music Playlists](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
 - [Lifehacker] [Use the Shaper System to Easily Recall up to 100 Things](https://lifehacker.com/family/shaper-system-memory-technique)
 - [Lifehacker] [What to Do When You’re a Financial Late Bloomer](https://lifehacker.com/money/what-to-do-when-youre-a-financial-late-bloomer)
-- [Lifehacker] [Use the Last Bit of Leftover Cranberry Sauce to Make These Jam Bars](https://lifehacker.com/food-drink/use-your-leftover-cranberry-sauce-in-this-cranberry-jam-bars-recipe)
-- [Lifehacker] [You Can Finally Scan Documents in Google Drive for iPhone](https://lifehacker.com/tech/how-to-scan-documents-in-google-drive-for-iphone)
-- [Lifehacker] [Everything You Need to Know About Poria, the &#39;House-Eating&#39; Fungus](https://lifehacker.com/home/poria-house-eating-fungus)
-- [Lifehacker] [Everything You Need to Do When You Pay Off Your Mortgage](https://lifehacker.com/money/pay-off-mortgage-how-to-prepare)
-- [Lifehacker] [These Holiday Decorations Aren’t Safe for Local Wildlife &lpar;and What to Use Instead&rpar;](https://lifehacker.com/home/holiday-decorations-that-are-not-safe-for-wildlife)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the Last Bit of Leftover Cranberry Sauce to Make These Jam Bars](https://lifehacker.com/food-drink/use-your-leftover-cranberry-sauce-in-this-cranberry-jam-bars-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
