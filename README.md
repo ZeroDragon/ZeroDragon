@@ -26,19 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [💰SAVE Up To 500$ on TW Elements❗️](https://dev.to/mz2387/save-up-to-500-on-tw-elements-7i4)
+- [Dev.to/JS] [Top React Component UI Libraries to Enhance Your Web Development Projects](https://dev.to/vishnusatheesh/top-react-component-ui-libraries-to-enhance-your-web-development-projects-3392)
 - [Dev.to/JS] [The Not-so-commonly Covered JS Topics](https://dev.to/mainak0907/the-not-so-commonly-covered-js-topics-3opl)
 - [Dev.to/JS] [👨‍💻 A Developer&#39;s Roadmap to Open-Sourcing Your Project 🚀](https://dev.to/opensign/a-developers-roadmap-to-open-sourcing-your-project-24m3)
+- [Lifehacker] [Bill Negotiation Services Are a Waste of Money](https://lifehacker.com/money/how-to-negotiate-lower-bills)
 - [Dev.to/JS] [This week&#39;s best picks for devs](https://dev.to/adam/this-weeks-best-picks-for-devs-kde)
+- [Lifehacker] [How to Find Your Sound Town and Listening Character in Spotify Wrapped 2023](https://lifehacker.com/tech/spotify-wrapped-2023-find-your-sound-town-and-listening-character)
 - [Dev.to/JS] [Multiple – Load test any API with JavaScript and NPM packages](https://dev.to/yev_yev_yev/multiple-load-test-any-api-with-javascript-and-npm-packages-5cib)
+- [Lifehacker] [These Fancy Appetizers Are Dead Simple to Make](https://lifehacker.com/food-drink/easy-fancy-appetizers)
 - [Dev.to/JS] [Classes vs Factory functions in Javascript](https://dev.to/snevy1/classes-vs-factory-functions-in-javascript-4fjn)
 - [Dev.to/JS] [Logical OR &lpar;||&rpar; vs. Nullish Coalescing &lpar;??&rpar; For Default Values](https://dev.to/shameel/logical-or-vs-nullish-coalescing-for-default-values-53b0)
+- [Lifehacker] [These Are The Best Ways to Save Money When Renting a Car](https://lifehacker.com/travel/how-to-save-money-when-renting-a-car)
 - [Dev.to/JS] [need help](https://dev.to/uch223/need-help-3dp9)
+- [Lifehacker] [You Can Finally Change the iPhone&#39;s Default Notification Sounds and Haptics](https://lifehacker.com/tech/how-to-change-iphone-default-notification-sound)
 - [Dev.to/JS] [Socket.io Simple Chat App](https://dev.to/rishikesh00760/socketio-simple-chat-app-3g8)
 - [Dev.to/JS] [How to create custom content bricks in React Bricks](https://dev.to/dsalinasgardon/how-to-create-custom-content-bricks-in-react-bricks-cd5)
 - [Dev.to/JS] [Building a Lazy Loader from Scratch in React &lpar;Part 3&rpar;](https://dev.to/codeguage/building-a-lazy-loader-from-scratch-in-react-part-3-5j4)
 - [Lifehacker] [These Unusual Cordless Tools Are Surprisingly Useful for Your DIY Projects](https://lifehacker.com/home/unusual-diy-cordless-tools)
-- [Dev.to/JS] [I&#39;m looking for contributors for my open source project](https://dev.to/jacklehamster/im-looking-for-contributors-for-my-open-source-project-33ac)
-- [Dev.to/JS] [Diving into SuperViz SDK: Samples for every component](https://dev.to/superviz/diving-into-superviz-sdk-samples-for-every-component-2pma)
 - [Lifehacker] [These Are the Best Holiday Gifts for Creative Kids](https://lifehacker.com/money/holiday-gifts-creative-kids)
 - [Lifehacker] [Use This Infrared Thermometer to Find Where Heat Is Escaping Your House](https://lifehacker.com/home/infrared-thermometer-drafts)
 - [Lifehacker] [Everything You Need to Know About Grok, Elon Musk&#39;s Answer to ChatGPT](https://lifehacker.com/tech/what-is-grok-elon-musks-answer-to-chatgpt)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Holiday Decorations Aren’t Safe for Local Wildlife &lpar;and What to Use Instead&rpar;](https://lifehacker.com/home/holiday-decorations-that-are-not-safe-for-wildlife)
 - [Lifehacker] [The Smart Envi Heater Is Shockingly Efficient in Small Spaces](https://lifehacker.com/tech/smart-envi-heater-review)
 - [Lifehacker] [Help Your Kid Develop Independence With ‘Autonomy-Supportive’ Parenting](https://lifehacker.com/family/autonomy-supportive-parenting)
-- [Lifehacker] [How to Prevent Your Bank from Closing Your Accounts Without Notice](https://lifehacker.com/money/how-to-prevent-your-bank-from-closing-your-accounts)
-- [Lifehacker] [How to Start Meal Prepping Without It Taking Over Your Life](https://lifehacker.com/how-to-start-meal-prepping-without-it-taking-over-your-1849555451)
-- [Lifehacker] [The Biggest Differences Between Claude AI and ChatGPT](https://lifehacker.com/tech/claude-ai-versus-chatgpt-which-is-better)
-- [Lifehacker] [Frankly, a Modular Kitchen Remodel Is a Great Idea](https://lifehacker.com/home/modular-kitchen-remodel)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, November 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-29-2023)
-- [Lifehacker] [How to See the Geminid Meteor Shower](https://lifehacker.com/science/how-to-see-the-geminid-meteor-shower)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prevent Your Bank from Closing Your Accounts Without Notice](https://lifehacker.com/money/how-to-prevent-your-bank-from-closing-your-accounts)<!-- TECH-POSTS:END -->
 
 ---
 
