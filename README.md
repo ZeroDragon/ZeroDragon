@@ -26,10 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Trebuchet?!](https://dev.to/rmion/trebuchet-2l8c)
 - [Dev.to/JS] [Creating a Responsive Website Using HTML CSS and JavaScript](https://dev.to/codingcss/creating-a-responsive-website-using-html-css-and-javascript-2keg)
 - [Dev.to/JS] [Full Spectrum Mastery: Navigating Full Stack Software Engineering](https://dev.to/daisyauma/full-spectrum-mastery-navigating-full-stack-software-engineering-2fom)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Gail Lewis, Internet Hero?](https://lifehacker.com/entertainment/who-is-gail-lewis-internet-hero)
 - [Dev.to/JS] [Recriando o method lodash pull&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/-recriando-o-method-lodash-pull-em-vanilla-js-94g)
 - [Dev.to/JS] [Scope In JavaScript](https://dev.to/duncan1022/scope-in-javascript-4o5g)
+- [Lifehacker] [You Should Swaddle Your Electric Hot Water Heater in an Insulating Blanket](https://lifehacker.com/home/insulate-your-water-heater-for-energy-efficiency)
 - [Lifehacker] [Use ‘Secret Codes’ to Hide Your Private WhatsApp Chats](https://lifehacker.com/tech/whats-app-secret-code-locked-chats)
 - [Dev.to/JS] [Are You in the NPM Package Business? Some Facts I Learned on the Road](https://dev.to/webjose/are-you-in-the-npm-package-business-some-facts-i-learned-on-the-road-38dg)
 - [Dev.to/JS] [Como converter segundos para minutos e horas em vanila JS](https://dev.to/dougsource/como-converter-segundos-para-minutos-e-horas-em-vanila-js-2d7)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring JavaScript Algorithms: A Beginner’s Guide](https://dev.to/ryver_dev/exploring-javascript-algorithms-a-beginners-guide-2ekj)
 - [Lifehacker] [Cheese-Stuffed Biscuit Balls Are the Finest Comfort Food](https://lifehacker.com/food-drink/cheese-stuffed-biscuit-ball-recipe)
 - [Dev.to/JS] [Use the latest OpenAI models in your next web app with Gadget](https://dev.to/gadgetdev/use-the-latest-openai-models-in-your-next-web-app-with-gadget-51aj)
-- [Dev.to/JS] [quạt trần](https://dev.to/quattran/quat-tran-2p26)
 - [Lifehacker] [Here’s How Much the Different Disney+ Plans Will Cost You](https://lifehacker.com/entertainment/disney-plus-plans)
 - [Lifehacker] [20 of the Most Unintentionally Funny Movies Ever](https://lifehacker.com/entertainment/best-unintentionally-funny-movies-streaming)
 - [Lifehacker] [How to Wipe Your Mac Without Reinstalling the OS](https://lifehacker.com/how-to-wipe-your-mac-without-reinstalling-the-os-1847943585)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Differences Between Pressure Washers and Power Washers &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/differences-between-power-washers-and-pressure-washers)
 - [Lifehacker] [Pressurized Walls Can Embiggen Your Crowded Apartment](https://lifehacker.com/money/pressurized-walls-for-rentals-apartments)
 - [Lifehacker] [You Should Update Chrome Right Now &lpar;Again&rpar;](https://lifehacker.com/tech/update-chrome-asap)
-- [Lifehacker] [These Are the Best New Accessibility Features in macOS Sonoma](https://lifehacker.com/tech/the-best-new-accessibility-features-in-macos-sonoma)
-- [Lifehacker] [How to Tell When Rust Has Won](https://lifehacker.com/home/how-to-tell-when-something-is-rusted-beyond-repair)
-- [Lifehacker] [Bill Negotiation Services Are a Waste of Money](https://lifehacker.com/money/how-to-negotiate-lower-bills)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best New Accessibility Features in macOS Sonoma](https://lifehacker.com/tech/the-best-new-accessibility-features-in-macos-sonoma)<!-- TECH-POSTS:END -->
 
 ---
 
