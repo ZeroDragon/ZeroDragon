@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Azure Fundamentals can be used to prepare for other role-based](https://dev.to/robin123456/azure-fundamentals-can-be-used-to-prepare-for-other-role-based-1kfh)
 - [Dev.to/JS] [Day 3 - 30 Days learn Web Dev](https://dev.to/johnc/day-3-30-days-learn-web-dev-5f3k)
 - [Dev.to/JS] [Minimal setup for Vite, React and Jest Integration](https://dev.to/riolio/minimal-setup-for-vite-react-and-jest-integration-2ib6)
 - [Dev.to/JS] [Vue.js Roadmap: A 12-Month Guide for Beginners](https://dev.to/susan56789/vuejs-roadmap-a-12-month-guide-for-beginners-5007)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Reset Your PC for the New Year](https://lifehacker.com/tech/reset-your-pc-for-a-fresh-start-this-year)
 - [Lifehacker] [The Differences Between Pressure Washers and Power Washers &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/differences-between-power-washers-and-pressure-washers)
 - [Dev.to/JS] [How to deploy a custom template](https://dev.to/ulomaekpe/how-to-deploy-a-custom-template-2b5n)
-- [Dev.to/JS] [For ... else in JavaScript](https://dev.to/rocambille/for-else-in-javascript-47fd)
 - [Lifehacker] [Pressurized Walls Can Embiggen Your Crowded Apartment](https://lifehacker.com/money/pressurized-walls-for-rentals-apartments)
 - [Lifehacker] [You Should Update Chrome Right Now &lpar;Again&rpar;](https://lifehacker.com/tech/update-chrome-asap)
 - [Lifehacker] [These Are the Best New Accessibility Features in macOS Sonoma](https://lifehacker.com/tech/the-best-new-accessibility-features-in-macos-sonoma)
