@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Are You in the NPM Package Business? Some Facts I Learned on the Road](https://dev.to/webjose/are-you-in-the-npm-package-business-some-facts-i-learned-on-the-road-38dg)
+- [Dev.to/JS] [Como converter segundos para minutos e horas em vanila JS](https://dev.to/dougsource/como-converter-segundos-para-minutos-e-horas-em-vanila-js-2d7)
 - [Dev.to/JS] [Monorepo, Poly-repo, or No Repo at all?](https://dev.to/giteden/monorepo-poly-repo-or-no-repo-at-all-4nel)
 - [Dev.to/JS] [Forms Got You Frazzled? How to Take Control of Input Validation in React](https://dev.to/ibrahimhz/forms-got-you-frazzled-how-to-take-control-of-input-validation-in-react-3fla)
+- [Lifehacker] [Why Using Your Wet Vac to Clear Snow Is a Bad Idea](https://lifehacker.com/home/using-wet-vac-to-clear-snow)
 - [Dev.to/JS] [Making Websites Interactive: Five Solo Projects](https://dev.to/lydiaofficial/making-websites-interactive-five-solo-projects-1oad)
+- [Lifehacker] [The Best Chrome Extensions to Check Your Grammar](https://lifehacker.com/work/the-best-grammar-checking-chrome-extensions)
 - [Dev.to/JS] [Exploring JavaScript Algorithms: A Beginner’s Guide](https://dev.to/ryver_dev/exploring-javascript-algorithms-a-beginners-guide-2ekj)
 - [Lifehacker] [Cheese-Stuffed Biscuit Balls Are the Finest Comfort Food](https://lifehacker.com/food-drink/cheese-stuffed-biscuit-ball-recipe)
 - [Dev.to/JS] [Use the latest OpenAI models in your next web app with Gadget](https://dev.to/gadgetdev/use-the-latest-openai-models-in-your-next-web-app-with-gadget-51aj)
@@ -40,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 of the Most Unintentionally Funny Movies Ever](https://lifehacker.com/entertainment/best-unintentionally-funny-movies-streaming)
 - [Dev.to/JS] [Multiple window 3d scenes using three.js and localStorage.](https://dev.to/jon_snow789/multiple-window-3d-scenes-using-threejs-and-localstorage-hh1)
 - [Lifehacker] [How to Wipe Your Mac Without Reinstalling the OS](https://lifehacker.com/how-to-wipe-your-mac-without-reinstalling-the-os-1847943585)
-- [Dev.to/JS] [Canvas Artistry：Drawing magic with multiple effects](https://dev.to/leo_song/canvas-artistrydrawing-magic-with-multiple-effects-4i1o)
 - [Lifehacker] [Move Some Serious Snow With These Tools That Don&#39;t Need a Power Source](https://lifehacker.com/home/snow-removal-tools)
-- [Dev.to/JS] [How to use Appwrite Cloud Functions to censor sensitive information](https://dev.to/hackmamba/how-to-use-appwrite-cloud-functions-to-censor-sensitive-information-2g81)
 - [Lifehacker] [You Can Still Harvest These Vegetables After a Frost](https://lifehacker.com/home/vegetables-that-withstand-frost)
 - [Lifehacker] [How to Make Extra Crispy Red Flannel Latkes](https://lifehacker.com/food-drink/crispy-red-flannel-latkes-recipe)
 - [Lifehacker] [How to Handle an Unexpected Financial Windfall](https://lifehacker.com/how-to-handle-an-unexpected-financial-windfall-1846001701)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell When Rust Has Won](https://lifehacker.com/home/how-to-tell-when-something-is-rusted-beyond-repair)
 - [Lifehacker] [Bill Negotiation Services Are a Waste of Money](https://lifehacker.com/money/how-to-negotiate-lower-bills)
 - [Lifehacker] [How to Find Your Sound Town and Listening Character in Spotify Wrapped 2023](https://lifehacker.com/tech/spotify-wrapped-2023-find-your-sound-town-and-listening-character)
-- [Lifehacker] [These Fancy Appetizers Are Dead Simple to Make](https://lifehacker.com/food-drink/easy-fancy-appetizers)
-- [Lifehacker] [These Are The Best Ways to Save Money When Renting a Car](https://lifehacker.com/travel/how-to-save-money-when-renting-a-car)
-- [Lifehacker] [You Can Finally Change the iPhone&#39;s Default Notification Sounds and Haptics](https://lifehacker.com/tech/how-to-change-iphone-default-notification-sound)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Fancy Appetizers Are Dead Simple to Make](https://lifehacker.com/food-drink/easy-fancy-appetizers)<!-- TECH-POSTS:END -->
 
 ---
 
