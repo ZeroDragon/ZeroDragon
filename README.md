@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mechanically Detecting Accessibility Violations](https://dev.to/hiro0218/mechanically-detecting-accessibility-violations-ja1)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 1, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-1-2023)
 - [Lifehacker] [You Can Now Play PC VR Games on Your Meta Quest Headset With Steam Link](https://lifehacker.com/tech/how-to-use-steam-link-on-your-meta-quest-headset)
 - [Dev.to/JS] [Block Ads in Playwright with an Adblocker](https://dev.to/mikestopcontinues/block-ads-in-playwright-with-an-adblocker-p2b)
 - [Lifehacker] [How to Make a Collaborative Playlist on Spotify](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
@@ -51,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top React Component UI Libraries to Enhance Your Web Development Projects](https://dev.to/vishnusatheesh/top-react-component-ui-libraries-to-enhance-your-web-development-projects-3392)
 - [Lifehacker] [How to Tell When Rust Has Won](https://lifehacker.com/home/how-to-tell-when-something-is-rusted-beyond-repair)
 - [Dev.to/JS] [The Not-so-commonly Covered JS Topics](https://dev.to/mainak0907/the-not-so-commonly-covered-js-topics-3opl)
-- [Dev.to/JS] [👨‍💻 A Developer&#39;s Roadmap to Open-Sourcing Your Project 🚀](https://dev.to/opensign/a-developers-roadmap-to-open-sourcing-your-project-24m3)
 - [Lifehacker] [Bill Negotiation Services Are a Waste of Money](https://lifehacker.com/money/how-to-negotiate-lower-bills)
 - [Lifehacker] [How to Find Your Sound Town and Listening Character in Spotify Wrapped 2023](https://lifehacker.com/tech/spotify-wrapped-2023-find-your-sound-town-and-listening-character)
 - [Lifehacker] [These Fancy Appetizers Are Dead Simple to Make](https://lifehacker.com/food-drink/easy-fancy-appetizers)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Audio Message Transcriptions in iOS 17](https://lifehacker.com/tech/how-to-use-audio-message-transcripts-in-ios-17)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
 - [Lifehacker] [How to Make a Vegan Roast You&#39;ll Actually Want to Eat](https://lifehacker.com/how-to-make-a-vegan-roast-youll-actually-want-to-eat-1830335306)
-- [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)
-- [Lifehacker] [A Reminder That Trusting Everything to Cloud Storage Can Screw You Over](https://lifehacker.com/tech/dont-rely-only-on-cloud-storage)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)<!-- TECH-POSTS:END -->
 
 ---
 
