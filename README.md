@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 233 - Collections Count](https://dev.to/mcsee/code-smell-233-collections-count-o45)
+- [Dev.to/JS] [Buy Verified Cash App Accounts](https://dev.to/brentbrentshelton/buy-verified-cash-app-accounts-11a)
+- [Dev.to/JS] [Challenge 1 Solution AdventJs 2023 by Midudev.](https://dev.to/juneikerc/challenge-1-solution-adventjs-2023-by-midudev-104c)
 - [Dev.to/JS] [Comparing Apples and Oranges: Rust and JavaScript in AOC 2023 Day 1](https://dev.to/jwrunge/comparing-apples-and-oranges-rust-and-javascript-in-aoc-2023-day-1-3i29)
 - [Lifehacker] [Five of the Best Programs for Tracking Your Time](https://lifehacker.com/work/best-programs-for-tracking-your-time)
 - [Dev.to/JS] [Judi Online Mpokick Slot Gacor Terbaru](https://dev.to/jakegabrielle/judi-online-mpokick-slot-gacor-terbaru-1bno)
@@ -42,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Swaddle Your Electric Hot Water Heater in an Insulating Blanket](https://lifehacker.com/home/insulate-your-water-heater-for-energy-efficiency)
 - [Lifehacker] [Use ‘Secret Codes’ to Hide Your Private WhatsApp Chats](https://lifehacker.com/tech/whats-app-secret-code-locked-chats)
 - [Dev.to/JS] [Are You in the NPM Package Business? Some Facts I Learned on the Road](https://dev.to/webjose/are-you-in-the-npm-package-business-some-facts-i-learned-on-the-road-38dg)
-- [Dev.to/JS] [Como converter segundos para minutos e horas em vanila JS](https://dev.to/dougsource/como-converter-segundos-para-minutos-e-horas-em-vanila-js-2d7)
 - [Lifehacker] [How Fast You Need to Walk to Get Real Health Benefits](https://lifehacker.com/health/how-fast-you-should-be-walking)
-- [Dev.to/JS] [Monorepo, Poly-repo, or No Repo at all?](https://dev.to/giteden/monorepo-poly-repo-or-no-repo-at-all-4nel)
-- [Dev.to/JS] [Forms Got You Frazzled? How to Take Control of Input Validation in React](https://dev.to/ibrahimhz/forms-got-you-frazzled-how-to-take-control-of-input-validation-in-react-3fla)
 - [Lifehacker] [Why Using Your Wet Vac to Clear Snow Is a Bad Idea](https://lifehacker.com/home/using-wet-vac-to-clear-snow)
 - [Lifehacker] [The Best Chrome Extensions to Check Your Grammar](https://lifehacker.com/work/the-best-grammar-checking-chrome-extensions)
 - [Lifehacker] [Cheese-Stuffed Biscuit Balls Are the Finest Comfort Food](https://lifehacker.com/food-drink/cheese-stuffed-biscuit-ball-recipe)
