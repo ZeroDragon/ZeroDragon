@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Different Ways To Convert String Into Number Using Pure JavaScript](https://dev.to/nhannguyendevjs/different-ways-to-convert-string-into-number-using-pure-javascript-1k60)
+- [Dev.to/JS] [An amazing request tool which perfectly compatible with React, quick tutorial is HERE](https://dev.to/coderhu/an-amazing-request-tool-which-perfectly-compatible-with-react-quick-tutorial-is-here-827)
+- [Dev.to/JS] [Why you should pick D3 js when building charts next time.](https://dev.to/simbamkenya/why-you-should-pick-d3-js-when-building-charts-next-time-jbn)
+- [Dev.to/JS] [Why you should ditch NPM UUID. Node has you covered!](https://dev.to/pierre/you-should-ditch-uuid-node-has-you-covered-10i3)
 - [Dev.to/JS] [API integration with Stripe.js](https://dev.to/syedmuhammadaliraza/api-integration-with-stripejs-4954)
 - [Dev.to/JS] [Download Free Programing Course As we Offer in Paid](https://dev.to/mehboobmalik/download-free-programing-course-as-we-offer-in-paid-15k5)
 - [Dev.to/JS] [How To Create a Before and After Image Slider With Vanilla JavaScript](https://dev.to/daviduzondu/how-to-create-a-before-and-after-image-slider-with-vanilla-javascript-4n78)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing data flow with the keep-unchanged-values library](https://dev.to/qostya/optimizing-data-flow-with-the-keep-unchanged-values-library-19c)
 - [Dev.to/JS] [Azure Fundamentals can be used to prepare for other role-based](https://dev.to/robin123456/azure-fundamentals-can-be-used-to-prepare-for-other-role-based-1kfh)
 - [Dev.to/JS] [Day 3 - 30 Days learn Web Dev](https://dev.to/johnc/day-3-30-days-learn-web-dev-5f3k)
-- [Dev.to/JS] [Minimal setup for Vite, React and Jest Integration](https://dev.to/riolio/minimal-setup-for-vite-react-and-jest-integration-2ib6)
-- [Dev.to/JS] [Vue.js Roadmap: A 12-Month Guide for Beginners](https://dev.to/susan56789/vuejs-roadmap-a-12-month-guide-for-beginners-5007)
-- [Dev.to/JS] [Soroban Snippets: Guide to Soroban Smart Contracts for Web3 DApps](https://dev.to/z5208980/soroban-snippets-guide-to-soroban-smart-contracts-for-web3-dapps-1hpi)
-- [Dev.to/JS] [When will we stop rewriting frontend?](https://dev.to/opensourcee/when-will-we-stop-rewriting-frontend-28od)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 1, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-1-2023)
 - [Lifehacker] [You Can Now Play PC VR Games on Your Meta Quest Headset With Steam Link](https://lifehacker.com/tech/how-to-use-steam-link-on-your-meta-quest-headset)
 - [Lifehacker] [How to Make a Collaborative Playlist on Spotify](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
