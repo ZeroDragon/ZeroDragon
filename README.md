@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [API integration with Stripe.js](https://dev.to/syedmuhammadaliraza/api-integration-with-stripejs-4954)
+- [Dev.to/JS] [Download Free Programing Course As we Offer in Paid](https://dev.to/mehboobmalik/download-free-programing-course-as-we-offer-in-paid-15k5)
+- [Dev.to/JS] [How To Create a Before and After Image Slider With Vanilla JavaScript](https://dev.to/daviduzondu/how-to-create-a-before-and-after-image-slider-with-vanilla-javascript-4n78)
 - [Dev.to/JS] [How to make FREE Website in 2023 - 2024](https://dev.to/protecgames/how-to-make-free-website-in-2023-2024-4ae1)
 - [Dev.to/JS] [Supercharge Your React App with Redux Toolkit Integration](https://dev.to/ibrahimhz/supercharge-your-react-app-with-redux-toolkit-integration-poi)
 - [Dev.to/JS] [Optimizing data flow with the keep-unchanged-values library](https://dev.to/qostya/optimizing-data-flow-with-the-keep-unchanged-values-library-19c)
@@ -35,14 +38,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue.js Roadmap: A 12-Month Guide for Beginners](https://dev.to/susan56789/vuejs-roadmap-a-12-month-guide-for-beginners-5007)
 - [Dev.to/JS] [Soroban Snippets: Guide to Soroban Smart Contracts for Web3 DApps](https://dev.to/z5208980/soroban-snippets-guide-to-soroban-smart-contracts-for-web3-dapps-1hpi)
 - [Dev.to/JS] [When will we stop rewriting frontend?](https://dev.to/opensourcee/when-will-we-stop-rewriting-frontend-28od)
-- [Dev.to/JS] [Mechanically Detecting Accessibility Violations](https://dev.to/hiro0218/mechanically-detecting-accessibility-violations-ja1)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 1, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-1-2023)
 - [Lifehacker] [You Can Now Play PC VR Games on Your Meta Quest Headset With Steam Link](https://lifehacker.com/tech/how-to-use-steam-link-on-your-meta-quest-headset)
-- [Dev.to/JS] [Block Ads in Playwright with an Adblocker](https://dev.to/mikestopcontinues/block-ads-in-playwright-with-an-adblocker-p2b)
 - [Lifehacker] [How to Make a Collaborative Playlist on Spotify](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
 - [Lifehacker] [How to Watch Virtual Reality Porn](https://lifehacker.com/how-to-watch-virtual-reality-porn-1848363266)
 - [Lifehacker] [Holiday Cookie Shots Are Fun for Drinkers and Stoners Alike](https://lifehacker.com/food-drink/cookie-shot-recipe)
-- [Dev.to/JS] [One week into front end boot camp.](https://dev.to/thebigdavec/one-week-into-front-end-boot-camp-32i7)
 - [Lifehacker] [What People are Getting Wrong This Week: The Chiefs Fan Wearing ‘Blackface’](https://lifehacker.com/entertainment/chiefs-fan-wearing-black-and-red-face-paint)
 - [Lifehacker] [Your Electric Kettle Is Dirtier Than You Think](https://lifehacker.com/home/how-to-deep-clean-an-electric-kettle)
 - [Lifehacker] [You Need to Update Your Apple Devices Now](https://lifehacker.com/tech/update-apple-devices-now)
