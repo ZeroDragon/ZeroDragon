@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Block Ads in Playwright with an Adblocker](https://dev.to/mikestopcontinues/block-ads-in-playwright-with-an-adblocker-p2b)
 - [Dev.to/JS] [One week into front end boot camp.](https://dev.to/thebigdavec/one-week-into-front-end-boot-camp-32i7)
 - [Lifehacker] [Your Electric Kettle Is Dirtier Than You Think](https://lifehacker.com/home/how-to-deep-clean-an-electric-kettle)
 - [Dev.to/JS] [Updated Pricing: 10,000 MAUs Free, and a new “Pro Plan”](https://dev.to/clerk/updated-pricing-10000-maus-free-and-a-new-pro-plan-5gaa)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Not-so-commonly Covered JS Topics](https://dev.to/mainak0907/the-not-so-commonly-covered-js-topics-3opl)
 - [Dev.to/JS] [👨‍💻 A Developer&#39;s Roadmap to Open-Sourcing Your Project 🚀](https://dev.to/opensign/a-developers-roadmap-to-open-sourcing-your-project-24m3)
 - [Lifehacker] [Bill Negotiation Services Are a Waste of Money](https://lifehacker.com/money/how-to-negotiate-lower-bills)
-- [Dev.to/JS] [This week&#39;s best picks for devs](https://dev.to/adam/this-weeks-best-picks-for-devs-kde)
 - [Lifehacker] [How to Find Your Sound Town and Listening Character in Spotify Wrapped 2023](https://lifehacker.com/tech/spotify-wrapped-2023-find-your-sound-town-and-listening-character)
 - [Lifehacker] [These Fancy Appetizers Are Dead Simple to Make](https://lifehacker.com/food-drink/easy-fancy-appetizers)
 - [Lifehacker] [These Are The Best Ways to Save Money When Renting a Car](https://lifehacker.com/travel/how-to-save-money-when-renting-a-car)
