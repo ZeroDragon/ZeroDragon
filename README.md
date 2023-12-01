@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comparing Apples and Oranges: Rust and JavaScript in AOC 2023 Day 1](https://dev.to/jwrunge/comparing-apples-and-oranges-rust-and-javascript-in-aoc-2023-day-1-3i29)
+- [Lifehacker] [Five of the Best Programs for Tracking Your Time](https://lifehacker.com/work/best-programs-for-tracking-your-time)
+- [Dev.to/JS] [Judi Online Mpokick Slot Gacor Terbaru](https://dev.to/jakegabrielle/judi-online-mpokick-slot-gacor-terbaru-1bno)
+- [Dev.to/JS] [Rust is SLOW actually? - AOC 2023 day 1 performance comparison](https://dev.to/jwrunge/rust-is-slow-actually-aoc-2023-day-1-performance-comparison-28d)
+- [Lifehacker] [There’s a Hidden Filter in Your Shower Head and It’s Probably Filthy](https://lifehacker.com/home/clean-shower-head-filter)
+- [Lifehacker] [How to Keep Your Tool Batteries From Dying in Cold Weather](https://lifehacker.com/home/tool-batteries-cold-weather)
 - [Dev.to/JS] [Trebuchet?!](https://dev.to/rmion/trebuchet-2l8c)
+- [Lifehacker] [Paramount+ With Showtime Is Going to Cost You More](https://lifehacker.com/entertainment/how-much-is-paramount-plus-with-showtime)
 - [Dev.to/JS] [Creating a Responsive Website Using HTML CSS and JavaScript](https://dev.to/codingcss/creating-a-responsive-website-using-html-css-and-javascript-2keg)
 - [Dev.to/JS] [Full Spectrum Mastery: Navigating Full Stack Software Engineering](https://dev.to/daisyauma/full-spectrum-mastery-navigating-full-stack-software-engineering-2fom)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Gail Lewis, Internet Hero?](https://lifehacker.com/entertainment/who-is-gail-lewis-internet-hero)
@@ -40,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Monorepo, Poly-repo, or No Repo at all?](https://dev.to/giteden/monorepo-poly-repo-or-no-repo-at-all-4nel)
 - [Dev.to/JS] [Forms Got You Frazzled? How to Take Control of Input Validation in React](https://dev.to/ibrahimhz/forms-got-you-frazzled-how-to-take-control-of-input-validation-in-react-3fla)
 - [Lifehacker] [Why Using Your Wet Vac to Clear Snow Is a Bad Idea](https://lifehacker.com/home/using-wet-vac-to-clear-snow)
-- [Dev.to/JS] [Making Websites Interactive: Five Solo Projects](https://dev.to/lydiaofficial/making-websites-interactive-five-solo-projects-1oad)
 - [Lifehacker] [The Best Chrome Extensions to Check Your Grammar](https://lifehacker.com/work/the-best-grammar-checking-chrome-extensions)
-- [Dev.to/JS] [Exploring JavaScript Algorithms: A Beginner’s Guide](https://dev.to/ryver_dev/exploring-javascript-algorithms-a-beginners-guide-2ekj)
 - [Lifehacker] [Cheese-Stuffed Biscuit Balls Are the Finest Comfort Food](https://lifehacker.com/food-drink/cheese-stuffed-biscuit-ball-recipe)
-- [Dev.to/JS] [Use the latest OpenAI models in your next web app with Gadget](https://dev.to/gadgetdev/use-the-latest-openai-models-in-your-next-web-app-with-gadget-51aj)
 - [Lifehacker] [Here’s How Much the Different Disney+ Plans Will Cost You](https://lifehacker.com/entertainment/disney-plus-plans)
 - [Lifehacker] [20 of the Most Unintentionally Funny Movies Ever](https://lifehacker.com/entertainment/best-unintentionally-funny-movies-streaming)
 - [Lifehacker] [How to Wipe Your Mac Without Reinstalling the OS](https://lifehacker.com/how-to-wipe-your-mac-without-reinstalling-the-os-1847943585)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Electric Kettle Is Dirtier Than You Think](https://lifehacker.com/home/how-to-deep-clean-an-electric-kettle)
 - [Lifehacker] [You Need to Update Your Apple Devices Now](https://lifehacker.com/tech/update-apple-devices-now)
 - [Lifehacker] [You Can Watch Augmented Reality Porn on a Meta Quest 3](https://lifehacker.com/tech/how-to-watch-augmented-reality-porn-on-meta-quest-3)
-- [Lifehacker] [Why You Should Reset Your PC for the New Year](https://lifehacker.com/tech/reset-your-pc-for-a-fresh-start-this-year)
-- [Lifehacker] [The Differences Between Pressure Washers and Power Washers &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/differences-between-power-washers-and-pressure-washers)
-- [Lifehacker] [Pressurized Walls Can Embiggen Your Crowded Apartment](https://lifehacker.com/money/pressurized-walls-for-rentals-apartments)
-- [Lifehacker] [You Should Update Chrome Right Now &lpar;Again&rpar;](https://lifehacker.com/tech/update-chrome-asap)
-- [Lifehacker] [These Are the Best New Accessibility Features in macOS Sonoma](https://lifehacker.com/tech/the-best-new-accessibility-features-in-macos-sonoma)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Reset Your PC for the New Year](https://lifehacker.com/tech/reset-your-pc-for-a-fresh-start-this-year)<!-- TECH-POSTS:END -->
 
 ---
 
