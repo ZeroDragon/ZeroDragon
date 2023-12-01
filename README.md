@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make FREE Website in 2023 - 2024](https://dev.to/protecgames/how-to-make-free-website-in-2023-2024-4ae1)
+- [Dev.to/JS] [Supercharge Your React App with Redux Toolkit Integration](https://dev.to/ibrahimhz/supercharge-your-react-app-with-redux-toolkit-integration-poi)
+- [Dev.to/JS] [Optimizing data flow with the keep-unchanged-values library](https://dev.to/qostya/optimizing-data-flow-with-the-keep-unchanged-values-library-19c)
 - [Dev.to/JS] [Azure Fundamentals can be used to prepare for other role-based](https://dev.to/robin123456/azure-fundamentals-can-be-used-to-prepare-for-other-role-based-1kfh)
 - [Dev.to/JS] [Day 3 - 30 Days learn Web Dev](https://dev.to/johnc/day-3-30-days-learn-web-dev-5f3k)
 - [Dev.to/JS] [Minimal setup for Vite, React and Jest Integration](https://dev.to/riolio/minimal-setup-for-vite-react-and-jest-integration-2ib6)
@@ -42,13 +45,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [One week into front end boot camp.](https://dev.to/thebigdavec/one-week-into-front-end-boot-camp-32i7)
 - [Lifehacker] [What People are Getting Wrong This Week: The Chiefs Fan Wearing ‘Blackface’](https://lifehacker.com/entertainment/chiefs-fan-wearing-black-and-red-face-paint)
 - [Lifehacker] [Your Electric Kettle Is Dirtier Than You Think](https://lifehacker.com/home/how-to-deep-clean-an-electric-kettle)
-- [Dev.to/JS] [Updated Pricing: 10,000 MAUs Free, and a new “Pro Plan”](https://dev.to/clerk/updated-pricing-10000-maus-free-and-a-new-pro-plan-5gaa)
 - [Lifehacker] [You Need to Update Your Apple Devices Now](https://lifehacker.com/tech/update-apple-devices-now)
-- [Dev.to/JS] [Intro to Async / Await Syntax](https://dev.to/danielj/intro-to-async-await-syntax-3bic)
 - [Lifehacker] [You Can Watch Augmented Reality Porn on a Meta Quest 3](https://lifehacker.com/tech/how-to-watch-augmented-reality-porn-on-meta-quest-3)
 - [Lifehacker] [Why You Should Reset Your PC for the New Year](https://lifehacker.com/tech/reset-your-pc-for-a-fresh-start-this-year)
 - [Lifehacker] [The Differences Between Pressure Washers and Power Washers &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/differences-between-power-washers-and-pressure-washers)
-- [Dev.to/JS] [How to deploy a custom template](https://dev.to/ulomaekpe/how-to-deploy-a-custom-template-2b5n)
 - [Lifehacker] [Pressurized Walls Can Embiggen Your Crowded Apartment](https://lifehacker.com/money/pressurized-walls-for-rentals-apartments)
 - [Lifehacker] [You Should Update Chrome Right Now &lpar;Again&rpar;](https://lifehacker.com/tech/update-chrome-asap)
 - [Lifehacker] [These Are the Best New Accessibility Features in macOS Sonoma](https://lifehacker.com/tech/the-best-new-accessibility-features-in-macos-sonoma)
