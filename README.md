@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 3 - 30 Days learn Web Dev](https://dev.to/johnc/day-3-30-days-learn-web-dev-5f3k)
+- [Dev.to/JS] [Minimal setup for Vite, React and Jest Integration](https://dev.to/riolio/minimal-setup-for-vite-react-and-jest-integration-2ib6)
+- [Dev.to/JS] [Vue.js Roadmap: A 12-Month Guide for Beginners](https://dev.to/susan56789/vuejs-roadmap-a-12-month-guide-for-beginners-5007)
 - [Dev.to/JS] [Soroban Snippets: Guide to Soroban Smart Contracts for Web3 DApps](https://dev.to/z5208980/soroban-snippets-guide-to-soroban-smart-contracts-for-web3-dapps-1hpi)
 - [Dev.to/JS] [When will we stop rewriting frontend?](https://dev.to/opensourcee/when-will-we-stop-rewriting-frontend-28od)
 - [Dev.to/JS] [Mechanically Detecting Accessibility Violations](https://dev.to/hiro0218/mechanically-detecting-accessibility-violations-ja1)
@@ -46,11 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Differences Between Pressure Washers and Power Washers &lpar;and When to Use Each&rpar;](https://lifehacker.com/home/differences-between-power-washers-and-pressure-washers)
 - [Dev.to/JS] [How to deploy a custom template](https://dev.to/ulomaekpe/how-to-deploy-a-custom-template-2b5n)
 - [Dev.to/JS] [For ... else in JavaScript](https://dev.to/rocambille/for-else-in-javascript-47fd)
-- [Dev.to/JS] [Stop Taking Programming Notes &lpar;Try THIS!&rpar;](https://dev.to/codewithshahan/stop-taking-programming-notes-try-this-26dp)
 - [Lifehacker] [Pressurized Walls Can Embiggen Your Crowded Apartment](https://lifehacker.com/money/pressurized-walls-for-rentals-apartments)
-- [Dev.to/JS] [How single responsibility of a function helps to write better code](https://dev.to/learnwithparam/how-single-responsibility-of-a-function-helps-to-write-better-code-33nn)
 - [Lifehacker] [You Should Update Chrome Right Now &lpar;Again&rpar;](https://lifehacker.com/tech/update-chrome-asap)
-- [Dev.to/JS] [💰SAVE Up To 500$ on TW Elements❗️](https://dev.to/mz2387/save-up-to-500-on-tw-elements-7i4)
 - [Lifehacker] [These Are the Best New Accessibility Features in macOS Sonoma](https://lifehacker.com/tech/the-best-new-accessibility-features-in-macos-sonoma)
 - [Lifehacker] [How to Tell When Rust Has Won](https://lifehacker.com/home/how-to-tell-when-something-is-rusted-beyond-repair)
 - [Lifehacker] [Bill Negotiation Services Are a Waste of Money](https://lifehacker.com/money/how-to-negotiate-lower-bills)
