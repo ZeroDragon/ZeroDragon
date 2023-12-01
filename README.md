@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Now Play PC VR Games on Your Meta Quest Headset With Steam Link](https://lifehacker.com/tech/how-to-use-steam-link-on-your-meta-quest-headset)
 - [Dev.to/JS] [Block Ads in Playwright with an Adblocker](https://dev.to/mikestopcontinues/block-ads-in-playwright-with-an-adblocker-p2b)
 - [Lifehacker] [How to Make a Collaborative Playlist on Spotify](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
 - [Lifehacker] [How to Watch Virtual Reality Porn](https://lifehacker.com/how-to-watch-virtual-reality-porn-1848363266)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, November 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-november-30-2023)
 - [Lifehacker] [How to Make a Vegan Roast You&#39;ll Actually Want to Eat](https://lifehacker.com/how-to-make-a-vegan-roast-youll-actually-want-to-eat-1830335306)
 - [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)
-- [Lifehacker] [A Reminder That Trusting Everything to Cloud Storage Can Screw You Over](https://lifehacker.com/tech/dont-rely-only-on-cloud-storage)
-- [Lifehacker] [How to Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Reminder That Trusting Everything to Cloud Storage Can Screw You Over](https://lifehacker.com/tech/dont-rely-only-on-cloud-storage)<!-- TECH-POSTS:END -->
 
 ---
 
