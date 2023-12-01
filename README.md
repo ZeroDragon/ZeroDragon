@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Responsive Website Using HTML CSS and JavaScript](https://dev.to/codingcss/creating-a-responsive-website-using-html-css-and-javascript-2keg)
+- [Dev.to/JS] [Full Spectrum Mastery: Navigating Full Stack Software Engineering](https://dev.to/daisyauma/full-spectrum-mastery-navigating-full-stack-software-engineering-2fom)
+- [Dev.to/JS] [Recriando o method lodash pull&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/-recriando-o-method-lodash-pull-em-vanilla-js-94g)
+- [Dev.to/JS] [Scope In JavaScript](https://dev.to/duncan1022/scope-in-javascript-4o5g)
+- [Lifehacker] [Use ‘Secret Codes’ to Hide Your Private WhatsApp Chats](https://lifehacker.com/tech/whats-app-secret-code-locked-chats)
 - [Dev.to/JS] [Are You in the NPM Package Business? Some Facts I Learned on the Road](https://dev.to/webjose/are-you-in-the-npm-package-business-some-facts-i-learned-on-the-road-38dg)
 - [Dev.to/JS] [Como converter segundos para minutos e horas em vanila JS](https://dev.to/dougsource/como-converter-segundos-para-minutos-e-horas-em-vanila-js-2d7)
+- [Lifehacker] [How Fast You Need to Walk to Get Real Health Benefits](https://lifehacker.com/health/how-fast-you-should-be-walking)
 - [Dev.to/JS] [Monorepo, Poly-repo, or No Repo at all?](https://dev.to/giteden/monorepo-poly-repo-or-no-repo-at-all-4nel)
 - [Dev.to/JS] [Forms Got You Frazzled? How to Take Control of Input Validation in React](https://dev.to/ibrahimhz/forms-got-you-frazzled-how-to-take-control-of-input-validation-in-react-3fla)
 - [Lifehacker] [Why Using Your Wet Vac to Clear Snow Is a Bad Idea](https://lifehacker.com/home/using-wet-vac-to-clear-snow)
@@ -37,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cheese-Stuffed Biscuit Balls Are the Finest Comfort Food](https://lifehacker.com/food-drink/cheese-stuffed-biscuit-ball-recipe)
 - [Dev.to/JS] [Use the latest OpenAI models in your next web app with Gadget](https://dev.to/gadgetdev/use-the-latest-openai-models-in-your-next-web-app-with-gadget-51aj)
 - [Dev.to/JS] [quạt trần](https://dev.to/quattran/quat-tran-2p26)
-- [Dev.to/JS] [HLP Galleria Mohali: A Hub for Commercial Excellence](https://dev.to/hlpgalleriamohali/hlp-galleria-mohali-a-hub-for-commercial-excellence-4dc1)
 - [Lifehacker] [Here’s How Much the Different Disney+ Plans Will Cost You](https://lifehacker.com/entertainment/disney-plus-plans)
-- [Dev.to/JS] [CollectionUtils containsAny&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-containsany-example-in-java-4o69)
-- [Dev.to/JS] [Gerando números randômicos com vanila JS](https://dev.to/dougsource/gerando-numeros-randomicos-com-vanila-js-2gbl)
 - [Lifehacker] [20 of the Most Unintentionally Funny Movies Ever](https://lifehacker.com/entertainment/best-unintentionally-funny-movies-streaming)
-- [Dev.to/JS] [Multiple window 3d scenes using three.js and localStorage.](https://dev.to/jon_snow789/multiple-window-3d-scenes-using-threejs-and-localstorage-hh1)
 - [Lifehacker] [How to Wipe Your Mac Without Reinstalling the OS](https://lifehacker.com/how-to-wipe-your-mac-without-reinstalling-the-os-1847943585)
 - [Lifehacker] [Move Some Serious Snow With These Tools That Don&#39;t Need a Power Source](https://lifehacker.com/home/snow-removal-tools)
 - [Lifehacker] [You Can Still Harvest These Vegetables After a Frost](https://lifehacker.com/home/vegetables-that-withstand-frost)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Update Chrome Right Now &lpar;Again&rpar;](https://lifehacker.com/tech/update-chrome-asap)
 - [Lifehacker] [These Are the Best New Accessibility Features in macOS Sonoma](https://lifehacker.com/tech/the-best-new-accessibility-features-in-macos-sonoma)
 - [Lifehacker] [How to Tell When Rust Has Won](https://lifehacker.com/home/how-to-tell-when-something-is-rusted-beyond-repair)
-- [Lifehacker] [Bill Negotiation Services Are a Waste of Money](https://lifehacker.com/money/how-to-negotiate-lower-bills)
-- [Lifehacker] [How to Find Your Sound Town and Listening Character in Spotify Wrapped 2023](https://lifehacker.com/tech/spotify-wrapped-2023-find-your-sound-town-and-listening-character)
-- [Lifehacker] [These Fancy Appetizers Are Dead Simple to Make](https://lifehacker.com/food-drink/easy-fancy-appetizers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Bill Negotiation Services Are a Waste of Money](https://lifehacker.com/money/how-to-negotiate-lower-bills)<!-- TECH-POSTS:END -->
 
 ---
 
