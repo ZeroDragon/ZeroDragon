@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating the Intricacies of &quot;This&quot; and &quot;Self&quot; in Javascript and Python](https://dev.to/asormeil/navigating-the-intricacies-of-this-and-self-in-javascript-and-python-ji4)
+- [Dev.to/JS] [Building spider chart with D3 JS and React js](https://dev.to/simbamkenya/building-spider-chart-with-d3-js-and-react-js-50pj)
 - [Dev.to/JS] [Different Ways To Convert String Into Number Using Pure JavaScript](https://dev.to/nhannguyendevjs/different-ways-to-convert-string-into-number-using-pure-javascript-1k60)
 - [Dev.to/JS] [An amazing request tool which perfectly compatible with React, quick tutorial is HERE](https://dev.to/coderhu/an-amazing-request-tool-which-perfectly-compatible-with-react-quick-tutorial-is-here-827)
 - [Dev.to/JS] [Why you should pick D3 js when building charts next time.](https://dev.to/simbamkenya/why-you-should-pick-d3-js-when-building-charts-next-time-jbn)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make FREE Website in 2023 - 2024](https://dev.to/protecgames/how-to-make-free-website-in-2023-2024-4ae1)
 - [Dev.to/JS] [Supercharge Your React App with Redux Toolkit Integration](https://dev.to/ibrahimhz/supercharge-your-react-app-with-redux-toolkit-integration-poi)
 - [Dev.to/JS] [Optimizing data flow with the keep-unchanged-values library](https://dev.to/qostya/optimizing-data-flow-with-the-keep-unchanged-values-library-19c)
-- [Dev.to/JS] [Azure Fundamentals can be used to prepare for other role-based](https://dev.to/robin123456/azure-fundamentals-can-be-used-to-prepare-for-other-role-based-1kfh)
-- [Dev.to/JS] [Day 3 - 30 Days learn Web Dev](https://dev.to/johnc/day-3-30-days-learn-web-dev-5f3k)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 1, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-1-2023)
 - [Lifehacker] [You Can Now Play PC VR Games on Your Meta Quest Headset With Steam Link](https://lifehacker.com/tech/how-to-use-steam-link-on-your-meta-quest-headset)
 - [Lifehacker] [How to Make a Collaborative Playlist on Spotify](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
