@@ -26,9 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring JavaScript Algorithms: A Beginner’s Guide](https://dev.to/ryver_dev/exploring-javascript-algorithms-a-beginners-guide-2ekj)
+- [Dev.to/JS] [Use the latest OpenAI models in your next web app with Gadget](https://dev.to/gadgetdev/use-the-latest-openai-models-in-your-next-web-app-with-gadget-51aj)
+- [Dev.to/JS] [quạt trần](https://dev.to/quattran/quat-tran-2p26)
+- [Dev.to/JS] [HLP Galleria Mohali: A Hub for Commercial Excellence](https://dev.to/hlpgalleriamohali/hlp-galleria-mohali-a-hub-for-commercial-excellence-4dc1)
 - [Dev.to/JS] [CollectionUtils containsAny&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-containsany-example-in-java-4o69)
 - [Dev.to/JS] [Gerando números randômicos com vanila JS](https://dev.to/dougsource/gerando-numeros-randomicos-com-vanila-js-2gbl)
+- [Lifehacker] [20 of the Most Unintentionally Funny Movies Ever](https://lifehacker.com/entertainment/best-unintentionally-funny-movies-streaming)
 - [Dev.to/JS] [Multiple window 3d scenes using three.js and localStorage.](https://dev.to/jon_snow789/multiple-window-3d-scenes-using-threejs-and-localstorage-hh1)
+- [Lifehacker] [How to Wipe Your Mac Without Reinstalling the OS](https://lifehacker.com/how-to-wipe-your-mac-without-reinstalling-the-os-1847943585)
 - [Dev.to/JS] [Canvas Artistry：Drawing magic with multiple effects](https://dev.to/leo_song/canvas-artistrydrawing-magic-with-multiple-effects-4i1o)
 - [Lifehacker] [Move Some Serious Snow With These Tools That Don&#39;t Need a Power Source](https://lifehacker.com/home/snow-removal-tools)
 - [Dev.to/JS] [How to use Appwrite Cloud Functions to censor sensitive information](https://dev.to/hackmamba/how-to-use-appwrite-cloud-functions-to-censor-sensitive-information-2g81)
@@ -38,10 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [https://groups.google.com/g/mozilla.dev.platform/c/QbOt9sKVsaA](https://dev.to/kdsanbhth/httpsgroupsgooglecomgmozilladevplatformcqbot9skvsaa-10d6)
 - [Dev.to/JS] [Obtendo os meses formatados com vanila JS](https://dev.to/dougsource/obtendo-os-meses-formatados-com-vanila-js-1g6e)
 - [Dev.to/JS] [Web development and its main areas of application: a complete vision](https://dev.to/sparkouttech/web-development-and-its-main-areas-of-application-a-complete-vision-59oi)
-- [Dev.to/JS] [Unleash Your JavaScript Skills for Free with These Awesome Resources 🚀](https://dev.to/rishabh07r/unleash-your-javascript-skills-for-free-with-these-awesome-resources-4c3p)
-- [Dev.to/JS] [Fractions Calculator With HTML, CSS and JavaScript](https://dev.to/codingcss/fractions-calculator-with-html-css-and-javascript-138m)
-- [Dev.to/JS] [Stack and Queue in JavaScript](https://dev.to/bekbrace/stack-and-queue-34de)
-- [Dev.to/JS] [Understanding Event Delegation](https://dev.to/anjankarmakar/understanding-event-delegation-13kf)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 1, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-1-2023)
 - [Lifehacker] [You Can Now Play PC VR Games on Your Meta Quest Headset With Steam Link](https://lifehacker.com/tech/how-to-use-steam-link-on-your-meta-quest-headset)
 - [Lifehacker] [How to Make a Collaborative Playlist on Spotify](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are The Best Ways to Save Money When Renting a Car](https://lifehacker.com/travel/how-to-save-money-when-renting-a-car)
 - [Lifehacker] [You Can Finally Change the iPhone&#39;s Default Notification Sounds and Haptics](https://lifehacker.com/tech/how-to-change-iphone-default-notification-sound)
 - [Lifehacker] [These Unusual Cordless Tools Are Surprisingly Useful for Your DIY Projects](https://lifehacker.com/home/unusual-diy-cordless-tools)
-- [Lifehacker] [These Are the Best Holiday Gifts for Creative Kids](https://lifehacker.com/money/holiday-gifts-creative-kids)
-- [Lifehacker] [Use This Infrared Thermometer to Find Where Heat Is Escaping Your House](https://lifehacker.com/home/infrared-thermometer-drafts)
-- [Lifehacker] [Everything You Need to Know About Grok, Elon Musk&#39;s Answer to ChatGPT](https://lifehacker.com/tech/what-is-grok-elon-musks-answer-to-chatgpt)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Holiday Gifts for Creative Kids](https://lifehacker.com/money/holiday-gifts-creative-kids)<!-- TECH-POSTS:END -->
 
 ---
 
