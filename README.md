@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CollectionUtils containsAny&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-containsany-example-in-java-4o69)
+- [Dev.to/JS] [Gerando números randômicos com vanila JS](https://dev.to/dougsource/gerando-numeros-randomicos-com-vanila-js-2gbl)
+- [Dev.to/JS] [Multiple window 3d scenes using three.js and localStorage.](https://dev.to/jon_snow789/multiple-window-3d-scenes-using-threejs-and-localstorage-hh1)
 - [Dev.to/JS] [Canvas Artistry：Drawing magic with multiple effects](https://dev.to/leo_song/canvas-artistrydrawing-magic-with-multiple-effects-4i1o)
+- [Lifehacker] [Move Some Serious Snow With These Tools That Don&#39;t Need a Power Source](https://lifehacker.com/home/snow-removal-tools)
 - [Dev.to/JS] [How to use Appwrite Cloud Functions to censor sensitive information](https://dev.to/hackmamba/how-to-use-appwrite-cloud-functions-to-censor-sensitive-information-2g81)
 - [Lifehacker] [You Can Still Harvest These Vegetables After a Frost](https://lifehacker.com/home/vegetables-that-withstand-frost)
 - [Lifehacker] [How to Make Extra Crispy Red Flannel Latkes](https://lifehacker.com/food-drink/crispy-red-flannel-latkes-recipe)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fractions Calculator With HTML, CSS and JavaScript](https://dev.to/codingcss/fractions-calculator-with-html-css-and-javascript-138m)
 - [Dev.to/JS] [Stack and Queue in JavaScript](https://dev.to/bekbrace/stack-and-queue-34de)
 - [Dev.to/JS] [Understanding Event Delegation](https://dev.to/anjankarmakar/understanding-event-delegation-13kf)
-- [Dev.to/JS] [Navigating the Intricacies of &quot;This&quot; and &quot;Self&quot; in Javascript and Python](https://dev.to/asormeil/navigating-the-intricacies-of-this-and-self-in-javascript-and-python-ji4)
-- [Dev.to/JS] [Building spider chart with D3 JS and React js](https://dev.to/simbamkenya/building-spider-chart-with-d3-js-and-react-js-50pj)
-- [Dev.to/JS] [Different Ways To Convert String Into Number Using Pure JavaScript](https://dev.to/nhannguyendevjs/different-ways-to-convert-string-into-number-using-pure-javascript-1k60)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 1, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-1-2023)
 - [Lifehacker] [You Can Now Play PC VR Games on Your Meta Quest Headset With Steam Link](https://lifehacker.com/tech/how-to-use-steam-link-on-your-meta-quest-headset)
 - [Lifehacker] [How to Make a Collaborative Playlist on Spotify](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Unusual Cordless Tools Are Surprisingly Useful for Your DIY Projects](https://lifehacker.com/home/unusual-diy-cordless-tools)
 - [Lifehacker] [These Are the Best Holiday Gifts for Creative Kids](https://lifehacker.com/money/holiday-gifts-creative-kids)
 - [Lifehacker] [Use This Infrared Thermometer to Find Where Heat Is Escaping Your House](https://lifehacker.com/home/infrared-thermometer-drafts)
-- [Lifehacker] [Everything You Need to Know About Grok, Elon Musk&#39;s Answer to ChatGPT](https://lifehacker.com/tech/what-is-grok-elon-musks-answer-to-chatgpt)
-- [Lifehacker] [How to Use Audio Message Transcriptions in iOS 17](https://lifehacker.com/tech/how-to-use-audio-message-transcripts-in-ios-17)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Need to Know About Grok, Elon Musk&#39;s Answer to ChatGPT](https://lifehacker.com/tech/what-is-grok-elon-musks-answer-to-chatgpt)<!-- TECH-POSTS:END -->
 
 ---
 
