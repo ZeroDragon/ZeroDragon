@@ -27,7 +27,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Block Ads in Playwright with an Adblocker](https://dev.to/mikestopcontinues/block-ads-in-playwright-with-an-adblocker-p2b)
+- [Lifehacker] [How to Make a Collaborative Playlist on Spotify](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
+- [Lifehacker] [How to Watch Virtual Reality Porn](https://lifehacker.com/how-to-watch-virtual-reality-porn-1848363266)
+- [Lifehacker] [Holiday Cookie Shots Are Fun for Drinkers and Stoners Alike](https://lifehacker.com/food-drink/cookie-shot-recipe)
 - [Dev.to/JS] [One week into front end boot camp.](https://dev.to/thebigdavec/one-week-into-front-end-boot-camp-32i7)
+- [Lifehacker] [What People are Getting Wrong This Week: The Chiefs Fan Wearing ‘Blackface’](https://lifehacker.com/entertainment/chiefs-fan-wearing-black-and-red-face-paint)
 - [Lifehacker] [Your Electric Kettle Is Dirtier Than You Think](https://lifehacker.com/home/how-to-deep-clean-an-electric-kettle)
 - [Dev.to/JS] [Updated Pricing: 10,000 MAUs Free, and a new “Pro Plan”](https://dev.to/clerk/updated-pricing-10000-maus-free-and-a-new-pro-plan-5gaa)
 - [Lifehacker] [You Need to Update Your Apple Devices Now](https://lifehacker.com/tech/update-apple-devices-now)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make a Vegan Roast You&#39;ll Actually Want to Eat](https://lifehacker.com/how-to-make-a-vegan-roast-youll-actually-want-to-eat-1830335306)
 - [Lifehacker] [Your Meat and Cheese Board Needs a Glow-up](https://lifehacker.com/food-drink/best-charcuterie-board-ingredients)
 - [Lifehacker] [A Reminder That Trusting Everything to Cloud Storage Can Screw You Over](https://lifehacker.com/tech/dont-rely-only-on-cloud-storage)
-- [Lifehacker] [How to Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
-- [Lifehacker] [How to Print Documents From an Android Phone](https://lifehacker.com/tech/how-to-print-from-android-phone)
-- [Lifehacker] [The Best White Noise Machine for Every Purpose](https://lifehacker.com/health/the-best-white-noise-machines-for-sleep-and-focus)
-- [Lifehacker] [You Can Finally Make Collaborative Apple Music Playlists](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
-- [Lifehacker] [Use the Shaper System to Easily Recall up to 100 Things](https://lifehacker.com/family/shaper-system-memory-technique)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)<!-- TECH-POSTS:END -->
 
 ---
 
