@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Dialog Box With HTML CSS](https://dev.to/codeboxx/simple-dialog-box-with-html-css-3135)
+- [Dev.to/JS] [Buy TextNow Accounts](https://dev.to/cotha2930/buy-textnow-accounts-gdj)
+- [Dev.to/JS] [BUY AMAZON REVIEWS](https://dev.to/cotha2930/buy-amazon-reviews-5d90)
+- [Dev.to/JS] [Splash Screen using react-native-bootsplash](https://dev.to/ajmal_hasan/splash-screen-using-react-native-bootsplash-1pd7)
 - [Dev.to/JS] [CSS-in-JS: Streamlining Styling in Modern Frontend Development](https://dev.to/omnathdubeyofficial/css-in-js-streamlining-styling-in-modern-frontend-development-5h2i)
 - [Dev.to/JS] [Creating Dynamic User Interfaces with React Hooks](https://dev.to/omnathdubeyofficial/creating-dynamic-user-interfaces-with-react-hooks-5080)
 - [Dev.to/JS] [JavaScript Frameworks Comparison: React vs. Vue vs. Angular](https://dev.to/omnathdubeyofficial/javascript-frameworks-comparison-react-vs-vue-vs-angular-1jpf)
@@ -36,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JUWAR MOHAMMED](https://dev.to/juwaare/juwar-mohammed-155d)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
-- [Dev.to/JS] [Code Smell 233 - Collections Count](https://dev.to/mcsee/code-smell-233-collections-count-o45)
 - [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
-- [Dev.to/JS] [Buy Verified Cash App Accounts](https://dev.to/brentbrentshelton/buy-verified-cash-app-accounts-11a)
-- [Dev.to/JS] [Challenge 1 Solution AdventJs 2023 by Midudev.](https://dev.to/juneikerc/challenge-1-solution-adventjs-2023-by-midudev-104c)
 - [Lifehacker] [The Secret to Becoming a Runner Is a Good Routine](https://lifehacker.com/health/how-to-start-running-routine)
-- [Dev.to/JS] [Comparing Apples and Oranges: Rust and JavaScript in AOC 2023 Day 1](https://dev.to/jwrunge/comparing-apples-and-oranges-rust-and-javascript-in-aoc-2023-day-1-3i29)
 - [Lifehacker] [Five of the Best Programs for Tracking Your Time](https://lifehacker.com/work/best-programs-for-tracking-your-time)
 - [Lifehacker] [There’s a Hidden Filter in Your Shower Head and It’s Probably Filthy](https://lifehacker.com/home/clean-shower-head-filter)
 - [Lifehacker] [How to Keep Your Tool Batteries From Dying in Cold Weather](https://lifehacker.com/home/tool-batteries-cold-weather)
