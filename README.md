@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #221: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-221-explica-este-codigo-javascript-4g2i)
+- [Dev.to/JS] [Service Workers](https://dev.to/markoarsenal/service-workers-279j)
+- [Dev.to/JS] [How to Perform CRUD Operation in JavaScript 2024](https://dev.to/bhylucom/how-to-perform-crud-operation-in-javascript-2024-f55)
 - [Dev.to/JS] [Create Your Own Local Chatbot with Next.js, Ollama, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-ollama-and-modelfusion-3hl9)
 - [Dev.to/JS] [Cube Conundrum](https://dev.to/rmion/cube-conundrum-2oi2)
 - [Dev.to/JS] [How to get a job in front end development](https://dev.to/codewithshahan/how-to-get-a-job-in-front-end-development-19ea)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CollectionUtils permutations&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-permutations-example-in-java-1doi)
 - [Dev.to/JS] [CollectionUtils emptyCollection&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-emptycollection-example-in-java-2j3f)
 - [Dev.to/JS] [CollectionUtils collect&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-collect-example-in-java-6e8)
-- [Dev.to/JS] [Advanced Styling with Prismane](https://dev.to/prismaneui/advanced-styling-with-prismane-55lj)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
-- [Dev.to/JS] [PocketBase : The Ultimate All-in-One Open Source Solution for Your Backend Revolution!](https://dev.to/benoitpetit/pocketbase-the-ultimate-all-in-one-open-source-solution-for-your-backend-revolution-35ne)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
-- [Dev.to/JS] [JavaScript Coercion : Beyond Basics](https://dev.to/thefaisal/javascript-coercion-beyond-basics-al7)
 - [Lifehacker] [You Can Become a ‘Camp Host’ and Live at National Parks for Free](https://lifehacker.com/money/rv-camp-host-jobs-national-parks)
 - [Lifehacker] [Where to Find the Darkest Skies for Stargazing](https://lifehacker.com/science/darkest-skies-stargazing)
 - [Lifehacker] [Here&#39;s When Rekeying Your Lock Makes More Sense Than Replacing It](https://lifehacker.com/home/when-to-rekey-a-lock)
