@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Case of Retro Bowl: A Study](https://dev.to/retrobowlunblocked/the-case-of-retro-bowl-a-study-56e5)
 - [Dev.to/JS] [JUWAR MOHAMMED](https://dev.to/juwaare/juwar-mohammed-155d)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Full Spectrum Mastery: Navigating Full Stack Software Engineering](https://dev.to/daisyauma/full-spectrum-mastery-navigating-full-stack-software-engineering-2fom)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Gail Lewis, Internet Hero?](https://lifehacker.com/entertainment/who-is-gail-lewis-internet-hero)
 - [Dev.to/JS] [Recriando o method lodash pull&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/-recriando-o-method-lodash-pull-em-vanilla-js-94g)
-- [Dev.to/JS] [Scope In JavaScript](https://dev.to/duncan1022/scope-in-javascript-4o5g)
 - [Lifehacker] [You Should Swaddle Your Electric Hot Water Heater in an Insulating Blanket](https://lifehacker.com/home/insulate-your-water-heater-for-energy-efficiency)
 - [Lifehacker] [Use ‘Secret Codes’ to Hide Your Private WhatsApp Chats](https://lifehacker.com/tech/whats-app-secret-code-locked-chats)
 - [Lifehacker] [How Fast You Need to Walk to Get Real Health Benefits](https://lifehacker.com/health/how-fast-you-should-be-walking)
