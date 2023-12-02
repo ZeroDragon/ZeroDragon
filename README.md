@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CollectionUtils retainAll&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-retainall-example-in-java-kp)
+- [Dev.to/JS] [CollectionUtils permutations&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-permutations-example-in-java-1doi)
+- [Dev.to/JS] [CollectionUtils emptyCollection&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-emptycollection-example-in-java-2j3f)
+- [Dev.to/JS] [CollectionUtils collect&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-collect-example-in-java-6e8)
+- [Dev.to/JS] [Advanced Styling with Prismane](https://dev.to/prismaneui/advanced-styling-with-prismane-55lj)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Dev.to/JS] [PocketBase : The Ultimate All-in-One Open Source Solution for Your Backend Revolution!](https://dev.to/benoitpetit/pocketbase-the-ultimate-all-in-one-open-source-solution-for-your-backend-revolution-35ne)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
@@ -39,12 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering JavaScript Screen Capture: Essential Tips for Taking Screenshots | JavaScript Projects](https://dev.to/codingcss/mastering-javascript-screen-capture-essential-tips-for-taking-screenshots-javascript-projects-3gp6)
 - [Lifehacker] [You Should Install One of These Remote Controls for Your Older Ceiling Fan](https://lifehacker.com/home/ceiling-fan-remote-control)
 - [Dev.to/JS] [Recriando o método lodash partition&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/recriando-o-method-lodash-partition-em-vanilla-js-jo3)
-- [Dev.to/JS] [Recriando o método lodash inRange&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/recriando-o-method-lodash-inrange-em-vanilla-js-knf)
 - [Lifehacker] [Why You Need to Clean Algae From Your Wood Deck &lpar;and How to Do It&rpar;](https://lifehacker.com/home/clean-algae-wood-deck)
-- [Dev.to/JS] [Navigating the Code: A Comparative Analysis of CodiumAI PR-Agent and GitHub Copilot in Code Assistance and Review](https://dev.to/chrisachinga/navigating-the-code-a-comparative-analysis-of-codiumai-pr-agent-and-github-copilot-in-code-assistance-and-review-22m1)
-- [Dev.to/JS] [Nextjs 14 app router authentication &amp; role-based authorization using nextauth &amp; mongodb adapter](https://dev.to/techfortified/nextjs-14-app-router-authentication-role-based-authorization-using-nextauth-mongodb-adapter-c53)
-- [Dev.to/JS] [Unlock the Magic of is.lowerCase and is.not_lowerCase in JavaScript with &#39;thiis&#39;: Your Friendly Guide to String Checks](https://dev.to/karbashevskyi/unlock-the-magic-of-islowercase-and-isnotlowercase-in-javascript-with-thiis-your-friendly-guide-to-string-checks-8ho)
-- [Dev.to/JS] [Easy Way to Build a Sign-Up Form with Validation Using React](https://dev.to/zee_codes/easy-way-to-build-a-sign-up-form-with-validation-using-react-386g)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
 - [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
