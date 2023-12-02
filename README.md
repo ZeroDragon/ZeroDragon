@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating the Code: A Comparative Analysis of CodiumAI PR-Agent and GitHub Copilot in Code Assistance and Review](https://dev.to/chrisachinga/navigating-the-code-a-comparative-analysis-of-codiumai-pr-agent-and-github-copilot-in-code-assistance-and-review-22m1)
+- [Dev.to/JS] [Nextjs 14 app router authentication &amp; role-based authorization using nextauth &amp; mongodb adapter](https://dev.to/techfortified/nextjs-14-app-router-authentication-role-based-authorization-using-nextauth-mongodb-adapter-c53)
 - [Dev.to/JS] [Unlock the Magic of is.lowerCase and is.not_lowerCase in JavaScript with &#39;thiis&#39;: Your Friendly Guide to String Checks](https://dev.to/karbashevskyi/unlock-the-magic-of-islowercase-and-isnotlowercase-in-javascript-with-thiis-your-friendly-guide-to-string-checks-8ho)
 - [Dev.to/JS] [Easy Way to Build a Sign-Up Form with Validation Using React](https://dev.to/zee_codes/easy-way-to-build-a-sign-up-form-with-validation-using-react-386g)
 - [Dev.to/JS] [Adding WebAuthn to the web application](https://dev.to/u4aew/adding-webauthnto-the-web-application-59gp)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a custom hook returning a callback ref](https://dev.to/phuocng/create-a-custom-hook-returning-a-callback-ref-ac6)
 - [Dev.to/JS] [Getting started with dotenv in Node.js](https://dev.to/teddapollo/getting-started-with-dotenv-in-nodejs-341h)
 - [Dev.to/JS] [Save the element passed to a callback ref as a state](https://dev.to/phuocng/save-the-element-passed-to-a-callback-ref-as-a-state-4d2n)
-- [Dev.to/JS] [Implement a basic container query with callback refs](https://dev.to/phuocng/implement-a-basic-container-query-with-callback-refs-4paa)
-- [Dev.to/JS] [Use callback refs to access individual elements in a list](https://dev.to/phuocng/use-callback-refs-to-access-individual-elements-in-a-list-2n5)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
 - [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
