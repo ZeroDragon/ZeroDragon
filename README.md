@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Store a reference with callback refs](https://dev.to/phuocng/store-a-reference-with-callback-refs-57p7)
+- [Dev.to/JS] [String refs](https://dev.to/phuocng/string-refs-45d5)
+- [Dev.to/JS] [Access a component&#39;s underlying DOM node with findDOMNode&lpar;&rpar;](https://dev.to/phuocng/access-a-components-underlying-dom-node-with-finddomnode-5n3)
+- [Dev.to/JS] [Your complete guide to mastering the use of &quot;ref&quot; in React](https://dev.to/phuocng/your-complete-guide-to-mastering-the-use-of-ref-in-react-10fe)
 - [Dev.to/JS] [&quot;return&quot; in useEffect](https://dev.to/kaziusan/return-in-useeffect-2ikm)
 - [Dev.to/JS] [Latest Newsletter: Oddball Week &lpar;Issue #143&rpar;](https://dev.to/mjgs/latest-newsletter-oddball-week-issue-143-1bho)
 - [Dev.to/JS] [Simple Dialog Box With HTML CSS](https://dev.to/codeboxx/simple-dialog-box-with-html-css-3135)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Splash Screen using react-native-bootsplash](https://dev.to/ajmal_hasan/splash-screen-using-react-native-bootsplash-1pd7)
 - [Dev.to/JS] [CSS-in-JS: Streamlining Styling in Modern Frontend Development](https://dev.to/omnathdubeyofficial/css-in-js-streamlining-styling-in-modern-frontend-development-5h2i)
 - [Dev.to/JS] [Creating Dynamic User Interfaces with React Hooks](https://dev.to/omnathdubeyofficial/creating-dynamic-user-interfaces-with-react-hooks-5080)
-- [Dev.to/JS] [JavaScript Frameworks Comparison: React vs. Vue vs. Angular](https://dev.to/omnathdubeyofficial/javascript-frameworks-comparison-react-vs-vue-vs-angular-1jpf)
-- [Dev.to/JS] [Exploring the Power of CSS Grid Layout for Web Design](https://dev.to/omnathdubeyofficial/exploring-the-power-of-css-grid-layout-for-web-design-2ob9)
-- [Dev.to/JS] [Mastering Responsive Design: A Frontend Developer&#39;s Guide](https://dev.to/omnathdubeyofficial/mastering-responsive-design-a-frontend-developers-guide-ome)
-- [Dev.to/JS] [JavaScript Objects: Advanced Data Handling](https://dev.to/shahbaz643/javascript-objects-advanced-data-handling-nmk)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
 - [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
