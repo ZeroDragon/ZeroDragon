@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AdventJS 2023: Día 1](https://dev.to/fenriuz/adventjs-2023-dia-1-2ncc)
+- [Dev.to/JS] [Uma alternativa vanilla JS para o método moment.js timeFromNow&lpar;&rpar;](https://dev.to/dougsource/uma-alternativa-vanilla-js-para-o-metodo-momentjs-timefromnow-56b3)
 - [Dev.to/JS] [Strengthening Mental Fortitude Amidst External Pressures](https://dev.to/sagaofsilence/strengthening-mental-fortitude-amidst-external-pressures-cim)
 - [Dev.to/JS] [Mastering JavaScript Screen Capture: Essential Tips for Taking Screenshots | JavaScript Projects](https://dev.to/codingcss/mastering-javascript-screen-capture-essential-tips-for-taking-screenshots-javascript-projects-3gp6)
 - [Dev.to/JS] [Recriando o method lodash partition&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/recriando-o-method-lodash-partition-em-vanilla-js-jo3)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy Way to Build a Sign-Up Form with Validation Using React](https://dev.to/zee_codes/easy-way-to-build-a-sign-up-form-with-validation-using-react-386g)
 - [Dev.to/JS] [Adding WebAuthn to the web application](https://dev.to/u4aew/adding-webauthnto-the-web-application-59gp)
 - [Dev.to/JS] [Memory Leaks in Angular Applications](https://dev.to/nhannguyendevjs/memory-leaks-in-angular-applications-4499)
-- [Dev.to/JS] [GenixLab Keto + ACV Gummies &lpar;#1 Fast Acting Weight Loss Formula&rpar;](https://dev.to/genixlabketoacvgummies/genixlab-keto-acv-gummies-1-fast-acting-weight-loss-formula-3noh)
-- [Dev.to/JS] [Useful Javascript nuggets](https://dev.to/harshit_kedia/useful-javascript-nuggets-2fgk)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
 - [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
