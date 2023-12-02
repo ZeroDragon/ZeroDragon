@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Your Own Local Chatbot with Next.js, Ollama, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-ollama-and-modelfusion-3hl9)
+- [Dev.to/JS] [Cube Conundrum](https://dev.to/rmion/cube-conundrum-2oi2)
+- [Dev.to/JS] [How to get a job in front end development](https://dev.to/codewithshahan/how-to-get-a-job-in-front-end-development-19ea)
+- [Dev.to/JS] [Error with DLX algorithm](https://dev.to/mary71/error-with-dlx-algorithm-g9l)
+- [Dev.to/JS] [CollectionUtils reverseArray&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-reversearray-example-in-java-1lfi)
 - [Dev.to/JS] [CollectionUtils retainAll&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-retainall-example-in-java-kp)
 - [Dev.to/JS] [CollectionUtils permutations&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-permutations-example-in-java-1doi)
 - [Dev.to/JS] [CollectionUtils emptyCollection&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-emptycollection-example-in-java-2j3f)
@@ -37,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Coercion : Beyond Basics](https://dev.to/thefaisal/javascript-coercion-beyond-basics-al7)
 - [Lifehacker] [You Can Become a ‘Camp Host’ and Live at National Parks for Free](https://lifehacker.com/money/rv-camp-host-jobs-national-parks)
 - [Lifehacker] [Where to Find the Darkest Skies for Stargazing](https://lifehacker.com/science/darkest-skies-stargazing)
-- [Dev.to/JS] [AdventJS 2023: Día 1](https://dev.to/fenriuz/adventjs-2023-dia-1-2ncc)
-- [Dev.to/JS] [Uma alternativa vanilla JS para o método moment.js timeFromNow&lpar;&rpar;](https://dev.to/dougsource/uma-alternativa-vanilla-js-para-o-metodo-momentjs-timefromnow-56b3)
 - [Lifehacker] [Here&#39;s When Rekeying Your Lock Makes More Sense Than Replacing It](https://lifehacker.com/home/when-to-rekey-a-lock)
-- [Dev.to/JS] [Strengthening Mental Fortitude Amidst External Pressures](https://dev.to/sagaofsilence/strengthening-mental-fortitude-amidst-external-pressures-cim)
-- [Dev.to/JS] [Mastering JavaScript Screen Capture: Essential Tips for Taking Screenshots | JavaScript Projects](https://dev.to/codingcss/mastering-javascript-screen-capture-essential-tips-for-taking-screenshots-javascript-projects-3gp6)
 - [Lifehacker] [You Should Install One of These Remote Controls for Your Older Ceiling Fan](https://lifehacker.com/home/ceiling-fan-remote-control)
-- [Dev.to/JS] [Recriando o método lodash partition&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/recriando-o-method-lodash-partition-em-vanilla-js-jo3)
 - [Lifehacker] [Why You Need to Clean Algae From Your Wood Deck &lpar;and How to Do It&rpar;](https://lifehacker.com/home/clean-algae-wood-deck)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
