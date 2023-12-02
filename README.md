@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Strengthening Mental Fortitude Amidst External Pressures](https://dev.to/sagaofsilence/strengthening-mental-fortitude-amidst-external-pressures-cim)
+- [Dev.to/JS] [Mastering JavaScript Screen Capture: Essential Tips for Taking Screenshots | JavaScript Projects](https://dev.to/codingcss/mastering-javascript-screen-capture-essential-tips-for-taking-screenshots-javascript-projects-3gp6)
+- [Dev.to/JS] [Recriando o method lodash partition&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/recriando-o-method-lodash-partition-em-vanilla-js-jo3)
+- [Dev.to/JS] [Recriando o method lodash inRange&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/recriando-o-method-lodash-inrange-em-vanilla-js-knf)
+- [Lifehacker] [Why You Need to Clean Algae From Your Wood Deck &lpar;and How to Do It&rpar;](https://lifehacker.com/home/clean-algae-wood-deck)
 - [Dev.to/JS] [Navigating the Code: A Comparative Analysis of CodiumAI PR-Agent and GitHub Copilot in Code Assistance and Review](https://dev.to/chrisachinga/navigating-the-code-a-comparative-analysis-of-codiumai-pr-agent-and-github-copilot-in-code-assistance-and-review-22m1)
 - [Dev.to/JS] [Nextjs 14 app router authentication &amp; role-based authorization using nextauth &amp; mongodb adapter](https://dev.to/techfortified/nextjs-14-app-router-authentication-role-based-authorization-using-nextauth-mongodb-adapter-c53)
 - [Dev.to/JS] [Unlock the Magic of is.lowerCase and is.not_lowerCase in JavaScript with &#39;thiis&#39;: Your Friendly Guide to String Checks](https://dev.to/karbashevskyi/unlock-the-magic-of-islowercase-and-isnotlowercase-in-javascript-with-thiis-your-friendly-guide-to-string-checks-8ho)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Memory Leaks in Angular Applications](https://dev.to/nhannguyendevjs/memory-leaks-in-angular-applications-4499)
 - [Dev.to/JS] [GenixLab Keto + ACV Gummies &lpar;#1 Fast Acting Weight Loss Formula&rpar;](https://dev.to/genixlabketoacvgummies/genixlab-keto-acv-gummies-1-fast-acting-weight-loss-formula-3noh)
 - [Dev.to/JS] [Useful Javascript nuggets](https://dev.to/harshit_kedia/useful-javascript-nuggets-2fgk)
-- [Dev.to/JS] [Make an element draggable](https://dev.to/phuocng/make-an-element-draggable-1jfb)
-- [Dev.to/JS] [Create a custom hook returning a callback ref](https://dev.to/phuocng/create-a-custom-hook-returning-a-callback-ref-ac6)
-- [Dev.to/JS] [Getting started with dotenv in Node.js](https://dev.to/teddapollo/getting-started-with-dotenv-in-nodejs-341h)
-- [Dev.to/JS] [Save the element passed to a callback ref as a state](https://dev.to/phuocng/save-the-element-passed-to-a-callback-ref-as-a-state-4d2n)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
 - [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Play PC VR Games on Your Meta Quest Headset With Steam Link](https://lifehacker.com/tech/how-to-use-steam-link-on-your-meta-quest-headset)
 - [Lifehacker] [How to Make a Collaborative Playlist on Spotify](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
 - [Lifehacker] [How to Watch Virtual Reality Porn](https://lifehacker.com/how-to-watch-virtual-reality-porn-1848363266)
-- [Lifehacker] [Holiday Cookie Shots Are Fun for Drinkers and Stoners Alike](https://lifehacker.com/food-drink/cookie-shot-recipe)
-- [Lifehacker] [What People are Getting Wrong This Week: The Chiefs Fan Wearing ‘Blackface’](https://lifehacker.com/entertainment/chiefs-fan-wearing-black-and-red-face-paint)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Holiday Cookie Shots Are Fun for Drinkers and Stoners Alike](https://lifehacker.com/food-drink/cookie-shot-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
