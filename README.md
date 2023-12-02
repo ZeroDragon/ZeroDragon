@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Dev.to/JS] [PocketBase : The Ultimate All-in-One Open Source Solution for Your Backend Revolution!](https://dev.to/benoitpetit/pocketbase-the-ultimate-all-in-one-open-source-solution-for-your-backend-revolution-35ne)
+- [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
 - [Dev.to/JS] [JavaScript Coercion : Beyond Basics](https://dev.to/thefaisal/javascript-coercion-beyond-basics-al7)
 - [Lifehacker] [You Can Become a ‘Camp Host’ and Live at National Parks for Free](https://lifehacker.com/money/rv-camp-host-jobs-national-parks)
 - [Lifehacker] [Where to Find the Darkest Skies for Stargazing](https://lifehacker.com/science/darkest-skies-stargazing)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Wipe Your Mac Without Reinstalling the OS](https://lifehacker.com/how-to-wipe-your-mac-without-reinstalling-the-os-1847943585)
 - [Lifehacker] [Move Some Serious Snow With These Tools That Don&#39;t Need a Power Source](https://lifehacker.com/home/snow-removal-tools)
 - [Lifehacker] [You Can Still Harvest These Vegetables After a Frost](https://lifehacker.com/home/vegetables-that-withstand-frost)
-- [Lifehacker] [How to Make Extra Crispy Red Flannel Latkes](https://lifehacker.com/food-drink/crispy-red-flannel-latkes-recipe)
-- [Lifehacker] [How to Handle an Unexpected Financial Windfall](https://lifehacker.com/how-to-handle-an-unexpected-financial-windfall-1846001701)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 1, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-1-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Extra Crispy Red Flannel Latkes](https://lifehacker.com/food-drink/crispy-red-flannel-latkes-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
