@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JUWAR MOHAMMED](https://dev.to/juwaare/juwar-mohammed-155d)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
 - [Dev.to/JS] [Code Smell 233 - Collections Count](https://dev.to/mcsee/code-smell-233-collections-count-o45)
 - [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
@@ -47,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scope In JavaScript](https://dev.to/duncan1022/scope-in-javascript-4o5g)
 - [Lifehacker] [You Should Swaddle Your Electric Hot Water Heater in an Insulating Blanket](https://lifehacker.com/home/insulate-your-water-heater-for-energy-efficiency)
 - [Lifehacker] [Use ‘Secret Codes’ to Hide Your Private WhatsApp Chats](https://lifehacker.com/tech/whats-app-secret-code-locked-chats)
-- [Dev.to/JS] [Are You in the NPM Package Business? Some Facts I Learned on the Road](https://dev.to/webjose/are-you-in-the-npm-package-business-some-facts-i-learned-on-the-road-38dg)
 - [Lifehacker] [How Fast You Need to Walk to Get Real Health Benefits](https://lifehacker.com/health/how-fast-you-should-be-walking)
 - [Lifehacker] [Why Using Your Wet Vac to Clear Snow Is a Bad Idea](https://lifehacker.com/home/using-wet-vac-to-clear-snow)
 - [Lifehacker] [The Best Chrome Extensions to Check Your Grammar](https://lifehacker.com/work/the-best-grammar-checking-chrome-extensions)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make a Collaborative Playlist on Spotify](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
 - [Lifehacker] [How to Watch Virtual Reality Porn](https://lifehacker.com/how-to-watch-virtual-reality-porn-1848363266)
 - [Lifehacker] [Holiday Cookie Shots Are Fun for Drinkers and Stoners Alike](https://lifehacker.com/food-drink/cookie-shot-recipe)
-- [Lifehacker] [What People are Getting Wrong This Week: The Chiefs Fan Wearing ‘Blackface’](https://lifehacker.com/entertainment/chiefs-fan-wearing-black-and-red-face-paint)
-- [Lifehacker] [Your Electric Kettle Is Dirtier Than You Think](https://lifehacker.com/home/how-to-deep-clean-an-electric-kettle)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People are Getting Wrong This Week: The Chiefs Fan Wearing ‘Blackface’](https://lifehacker.com/entertainment/chiefs-fan-wearing-black-and-red-face-paint)<!-- TECH-POSTS:END -->
 
 ---
 
