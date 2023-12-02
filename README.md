@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;return&quot; in useEffect](https://dev.to/kaziusan/return-in-useeffect-2ikm)
 - [Dev.to/JS] [Latest Newsletter: Oddball Week &lpar;Issue #143&rpar;](https://dev.to/mjgs/latest-newsletter-oddball-week-issue-143-1bho)
 - [Dev.to/JS] [Simple Dialog Box With HTML CSS](https://dev.to/codeboxx/simple-dialog-box-with-html-css-3135)
 - [Dev.to/JS] [Buy TextNow Accounts](https://dev.to/cotha2930/buy-textnow-accounts-gdj)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Power of CSS Grid Layout for Web Design](https://dev.to/omnathdubeyofficial/exploring-the-power-of-css-grid-layout-for-web-design-2ob9)
 - [Dev.to/JS] [Mastering Responsive Design: A Frontend Developer&#39;s Guide](https://dev.to/omnathdubeyofficial/mastering-responsive-design-a-frontend-developers-guide-ome)
 - [Dev.to/JS] [JavaScript Objects: Advanced Data Handling](https://dev.to/shahbaz643/javascript-objects-advanced-data-handling-nmk)
-- [Dev.to/JS] [The Case of Retro Bowl: A Study](https://dev.to/retrobowlunblocked/the-case-of-retro-bowl-a-study-56e5)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
 - [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
