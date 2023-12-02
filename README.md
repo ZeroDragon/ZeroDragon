@@ -27,8 +27,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Code Smell 233 - Collections Count](https://dev.to/mcsee/code-smell-233-collections-count-o45)
+- [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
 - [Dev.to/JS] [Buy Verified Cash App Accounts](https://dev.to/brentbrentshelton/buy-verified-cash-app-accounts-11a)
 - [Dev.to/JS] [Challenge 1 Solution AdventJs 2023 by Midudev.](https://dev.to/juneikerc/challenge-1-solution-adventjs-2023-by-midudev-104c)
+- [Lifehacker] [The Secret to Becoming a Runner Is a Good Routine](https://lifehacker.com/health/how-to-start-running-routine)
 - [Dev.to/JS] [Comparing Apples and Oranges: Rust and JavaScript in AOC 2023 Day 1](https://dev.to/jwrunge/comparing-apples-and-oranges-rust-and-javascript-in-aoc-2023-day-1-3i29)
 - [Lifehacker] [Five of the Best Programs for Tracking Your Time](https://lifehacker.com/work/best-programs-for-tracking-your-time)
 - [Dev.to/JS] [Judi Online Mpokick Slot Gacor Terbaru](https://dev.to/jakegabrielle/judi-online-mpokick-slot-gacor-terbaru-1bno)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Holiday Cookie Shots Are Fun for Drinkers and Stoners Alike](https://lifehacker.com/food-drink/cookie-shot-recipe)
 - [Lifehacker] [What People are Getting Wrong This Week: The Chiefs Fan Wearing ‘Blackface’](https://lifehacker.com/entertainment/chiefs-fan-wearing-black-and-red-face-paint)
 - [Lifehacker] [Your Electric Kettle Is Dirtier Than You Think](https://lifehacker.com/home/how-to-deep-clean-an-electric-kettle)
-- [Lifehacker] [You Need to Update Your Apple Devices Now](https://lifehacker.com/tech/update-apple-devices-now)
-- [Lifehacker] [You Can Watch Augmented Reality Porn on a Meta Quest 3](https://lifehacker.com/tech/how-to-watch-augmented-reality-porn-on-meta-quest-3)
-- [Lifehacker] [Why You Should Reset Your PC for the New Year](https://lifehacker.com/tech/reset-your-pc-for-a-fresh-start-this-year)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need to Update Your Apple Devices Now](https://lifehacker.com/tech/update-apple-devices-now)<!-- TECH-POSTS:END -->
 
 ---
 
