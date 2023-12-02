@@ -26,19 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PocketBase : The Ultimate All-in-One Open Source Solution for Your Backend Revolution!](https://dev.to/benoitpetit/pocketbase-the-ultimate-all-in-one-open-source-solution-for-your-backend-revolution-35ne)
+- [Dev.to/JS] [JavaScript Coercion : Beyond Basics](https://dev.to/thefaisal/javascript-coercion-beyond-basics-al7)
+- [Lifehacker] [You Can Become a ‘Camp Host’ and Live at National Parks for Free](https://lifehacker.com/money/rv-camp-host-jobs-national-parks)
+- [Lifehacker] [Where to Find the Darkest Skies for Stargazing](https://lifehacker.com/science/darkest-skies-stargazing)
 - [Dev.to/JS] [AdventJS 2023: Día 1](https://dev.to/fenriuz/adventjs-2023-dia-1-2ncc)
 - [Dev.to/JS] [Uma alternativa vanilla JS para o método moment.js timeFromNow&lpar;&rpar;](https://dev.to/dougsource/uma-alternativa-vanilla-js-para-o-metodo-momentjs-timefromnow-56b3)
+- [Lifehacker] [Here&#39;s When Rekeying Your Lock Makes More Sense Than Replacing It](https://lifehacker.com/home/when-to-rekey-a-lock)
 - [Dev.to/JS] [Strengthening Mental Fortitude Amidst External Pressures](https://dev.to/sagaofsilence/strengthening-mental-fortitude-amidst-external-pressures-cim)
 - [Dev.to/JS] [Mastering JavaScript Screen Capture: Essential Tips for Taking Screenshots | JavaScript Projects](https://dev.to/codingcss/mastering-javascript-screen-capture-essential-tips-for-taking-screenshots-javascript-projects-3gp6)
-- [Dev.to/JS] [Recriando o method lodash partition&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/recriando-o-method-lodash-partition-em-vanilla-js-jo3)
-- [Dev.to/JS] [Recriando o method lodash inRange&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/recriando-o-method-lodash-inrange-em-vanilla-js-knf)
+- [Lifehacker] [You Should Install One of These Remote Controls for Your Older Ceiling Fan](https://lifehacker.com/home/ceiling-fan-remote-control)
+- [Dev.to/JS] [Recriando o método lodash partition&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/recriando-o-method-lodash-partition-em-vanilla-js-jo3)
+- [Dev.to/JS] [Recriando o método lodash inRange&lpar;&rpar; em vanilla JS](https://dev.to/dougsource/recriando-o-method-lodash-inrange-em-vanilla-js-knf)
 - [Lifehacker] [Why You Need to Clean Algae From Your Wood Deck &lpar;and How to Do It&rpar;](https://lifehacker.com/home/clean-algae-wood-deck)
 - [Dev.to/JS] [Navigating the Code: A Comparative Analysis of CodiumAI PR-Agent and GitHub Copilot in Code Assistance and Review](https://dev.to/chrisachinga/navigating-the-code-a-comparative-analysis-of-codiumai-pr-agent-and-github-copilot-in-code-assistance-and-review-22m1)
 - [Dev.to/JS] [Nextjs 14 app router authentication &amp; role-based authorization using nextauth &amp; mongodb adapter](https://dev.to/techfortified/nextjs-14-app-router-authentication-role-based-authorization-using-nextauth-mongodb-adapter-c53)
 - [Dev.to/JS] [Unlock the Magic of is.lowerCase and is.not_lowerCase in JavaScript with &#39;thiis&#39;: Your Friendly Guide to String Checks](https://dev.to/karbashevskyi/unlock-the-magic-of-islowercase-and-isnotlowercase-in-javascript-with-thiis-your-friendly-guide-to-string-checks-8ho)
 - [Dev.to/JS] [Easy Way to Build a Sign-Up Form with Validation Using React](https://dev.to/zee_codes/easy-way-to-build-a-sign-up-form-with-validation-using-react-386g)
-- [Dev.to/JS] [Adding WebAuthn to the web application](https://dev.to/u4aew/adding-webauthnto-the-web-application-59gp)
-- [Dev.to/JS] [Memory Leaks in Angular Applications](https://dev.to/nhannguyendevjs/memory-leaks-in-angular-applications-4499)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
 - [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Still Harvest These Vegetables After a Frost](https://lifehacker.com/home/vegetables-that-withstand-frost)
 - [Lifehacker] [How to Make Extra Crispy Red Flannel Latkes](https://lifehacker.com/food-drink/crispy-red-flannel-latkes-recipe)
 - [Lifehacker] [How to Handle an Unexpected Financial Windfall](https://lifehacker.com/how-to-handle-an-unexpected-financial-windfall-1846001701)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 1, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-1-2023)
-- [Lifehacker] [You Can Now Play PC VR Games on Your Meta Quest Headset With Steam Link](https://lifehacker.com/tech/how-to-use-steam-link-on-your-meta-quest-headset)
-- [Lifehacker] [How to Make a Collaborative Playlist on Spotify](https://lifehacker.com/tech/how-to-make-a-collaborative-playlist-on-spotify)
-- [Lifehacker] [How to Watch Virtual Reality Porn](https://lifehacker.com/how-to-watch-virtual-reality-porn-1848363266)
-- [Lifehacker] [Holiday Cookie Shots Are Fun for Drinkers and Stoners Alike](https://lifehacker.com/food-drink/cookie-shot-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 1, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-1-2023)<!-- TECH-POSTS:END -->
 
 ---
 
