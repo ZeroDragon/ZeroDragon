@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlock the Magic of is.lowerCase and is.not_lowerCase in JavaScript with &#39;thiis&#39;: Your Friendly Guide to String Checks](https://dev.to/karbashevskyi/unlock-the-magic-of-islowercase-and-isnotlowercase-in-javascript-with-thiis-your-friendly-guide-to-string-checks-8ho)
+- [Dev.to/JS] [Easy Way to Build a Sign-Up Form with Validation Using React](https://dev.to/zee_codes/easy-way-to-build-a-sign-up-form-with-validation-using-react-386g)
+- [Dev.to/JS] [Adding WebAuthn to the web application](https://dev.to/u4aew/adding-webauthnto-the-web-application-59gp)
+- [Dev.to/JS] [Memory Leaks in Angular Applications](https://dev.to/nhannguyendevjs/memory-leaks-in-angular-applications-4499)
 - [Dev.to/JS] [GenixLab Keto + ACV Gummies &lpar;#1 Fast Acting Weight Loss Formula&rpar;](https://dev.to/genixlabketoacvgummies/genixlab-keto-acv-gummies-1-fast-acting-weight-loss-formula-3noh)
 - [Dev.to/JS] [Useful Javascript nuggets](https://dev.to/harshit_kedia/useful-javascript-nuggets-2fgk)
 - [Dev.to/JS] [Make an element draggable](https://dev.to/phuocng/make-an-element-draggable-1jfb)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Save the element passed to a callback ref as a state](https://dev.to/phuocng/save-the-element-passed-to-a-callback-ref-as-a-state-4d2n)
 - [Dev.to/JS] [Implement a basic container query with callback refs](https://dev.to/phuocng/implement-a-basic-container-query-with-callback-refs-4paa)
 - [Dev.to/JS] [Use callback refs to access individual elements in a list](https://dev.to/phuocng/use-callback-refs-to-access-individual-elements-in-a-list-2n5)
-- [Dev.to/JS] [Access the methods of class components](https://dev.to/phuocng/access-the-methods-of-class-components-3d7b)
-- [Dev.to/JS] [Store a reference with callback refs](https://dev.to/phuocng/store-a-reference-with-callback-refs-57p7)
-- [Dev.to/JS] [String refs](https://dev.to/phuocng/string-refs-45d5)
-- [Dev.to/JS] [Access a component&#39;s underlying DOM node with findDOMNode&lpar;&rpar;](https://dev.to/phuocng/access-a-components-underlying-dom-node-with-finddomnode-5n3)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
 - [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
