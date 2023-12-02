@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS-in-JS: Streamlining Styling in Modern Frontend Development](https://dev.to/omnathdubeyofficial/css-in-js-streamlining-styling-in-modern-frontend-development-5h2i)
+- [Dev.to/JS] [Creating Dynamic User Interfaces with React Hooks](https://dev.to/omnathdubeyofficial/creating-dynamic-user-interfaces-with-react-hooks-5080)
+- [Dev.to/JS] [JavaScript Frameworks Comparison: React vs. Vue vs. Angular](https://dev.to/omnathdubeyofficial/javascript-frameworks-comparison-react-vs-vue-vs-angular-1jpf)
+- [Dev.to/JS] [Exploring the Power of CSS Grid Layout for Web Design](https://dev.to/omnathdubeyofficial/exploring-the-power-of-css-grid-layout-for-web-design-2ob9)
+- [Dev.to/JS] [Mastering Responsive Design: A Frontend Developer&#39;s Guide](https://dev.to/omnathdubeyofficial/mastering-responsive-design-a-frontend-developers-guide-ome)
 - [Dev.to/JS] [JavaScript Objects: Advanced Data Handling](https://dev.to/shahbaz643/javascript-objects-advanced-data-handling-nmk)
 - [Dev.to/JS] [The Case of Retro Bowl: A Study](https://dev.to/retrobowlunblocked/the-case-of-retro-bowl-a-study-56e5)
 - [Dev.to/JS] [JUWAR MOHAMMED](https://dev.to/juwaare/juwar-mohammed-155d)
@@ -38,14 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Secret to Becoming a Runner Is a Good Routine](https://lifehacker.com/health/how-to-start-running-routine)
 - [Dev.to/JS] [Comparing Apples and Oranges: Rust and JavaScript in AOC 2023 Day 1](https://dev.to/jwrunge/comparing-apples-and-oranges-rust-and-javascript-in-aoc-2023-day-1-3i29)
 - [Lifehacker] [Five of the Best Programs for Tracking Your Time](https://lifehacker.com/work/best-programs-for-tracking-your-time)
-- [Dev.to/JS] [Judi Online Mpokick Slot Gacor Terbaru](https://dev.to/jakegabrielle/judi-online-mpokick-slot-gacor-terbaru-1bno)
-- [Dev.to/JS] [Rust is SLOW actually? - AOC 2023 day 1 performance comparison](https://dev.to/jwrunge/rust-is-slow-actually-aoc-2023-day-1-performance-comparison-28d)
 - [Lifehacker] [There’s a Hidden Filter in Your Shower Head and It’s Probably Filthy](https://lifehacker.com/home/clean-shower-head-filter)
 - [Lifehacker] [How to Keep Your Tool Batteries From Dying in Cold Weather](https://lifehacker.com/home/tool-batteries-cold-weather)
-- [Dev.to/JS] [Trebuchet?!](https://dev.to/rmion/trebuchet-2l8c)
 - [Lifehacker] [Paramount+ With Showtime Is Going to Cost You More](https://lifehacker.com/entertainment/how-much-is-paramount-plus-with-showtime)
-- [Dev.to/JS] [Creating a Responsive Website Using HTML CSS and JavaScript](https://dev.to/codingcss/creating-a-responsive-website-using-html-css-and-javascript-2keg)
-- [Dev.to/JS] [Full Spectrum Mastery: Navigating Full Stack Software Engineering](https://dev.to/daisyauma/full-spectrum-mastery-navigating-full-stack-software-engineering-2fom)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Gail Lewis, Internet Hero?](https://lifehacker.com/entertainment/who-is-gail-lewis-internet-hero)
 - [Lifehacker] [You Should Swaddle Your Electric Hot Water Heater in an Insulating Blanket](https://lifehacker.com/home/insulate-your-water-heater-for-energy-efficiency)
 - [Lifehacker] [Use ‘Secret Codes’ to Hide Your Private WhatsApp Chats](https://lifehacker.com/tech/whats-app-secret-code-locked-chats)
