@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Side hustles for programmers](https://dev.to/codewithshahan/side-hustles-for-programmers-1pga)
+- [Dev.to/JS] [Warping realities: JavaScript closures in the Developer&#39;s Toolkit.](https://dev.to/kalmin/warping-realities-javascript-closures-in-the-developers-toolkit-4i65)
 - [Dev.to/JS] [Where does the code live?](https://dev.to/gruitt/where-does-the-code-live-3dj8)
 - [Dev.to/JS] [Making DynamoDB Access Easy in NodeJS with ORM](https://dev.to/mohammadfaisal/making-dynamodb-access-easy-in-nodejs-with-orm-26k6)
 - [Dev.to/JS] [Useful Javascript ES6 nuggets](https://dev.to/harshit_kedia/useful-javascript-es6-nuggets-2g6h)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why I hate JavaScript 🤷](https://dev.to/kaamkiya/why-i-hate-javascript-1clc)
 - [Dev.to/JS] [Build a Functional Search Bar in Next.js](https://dev.to/stephengade/build-a-functional-search-bar-in-nextjs-4i8m)
 - [Dev.to/JS] [JavaScript fundamentals before learning React](https://dev.to/codingcss/javascript-fundamentals-before-learning-react-1li1)
-- [Dev.to/JS] [Unleashing the Power of Web Development](https://dev.to/shadbalti/unleashing-the-power-of-web-development-17jd)
-- [Dev.to/JS] [CollectionUtils removeAll&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-removeall-example-in-java-3k5c)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
