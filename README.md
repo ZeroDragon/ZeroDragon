@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Observer Pattern for Beginners](https://dev.to/vivekalhat/observer-pattern-for-beginners-5h64)
+- [Dev.to/JS] [Don&#39;t worry, I&#39;ve not given up!](https://dev.to/nicole__/dont-worry-ive-not-given-up-5gc1)
+- [Dev.to/JS] [Opinionated code formatters suck](https://dev.to/alexleduc76/opinionated-code-formatters-suck-3b1)
 - [Dev.to/JS] [Side hustles for programmers](https://dev.to/codewithshahan/side-hustles-for-programmers-1pga)
 - [Dev.to/JS] [Warping realities: JavaScript closures in the Developer&#39;s Toolkit.](https://dev.to/kalmin/warping-realities-javascript-closures-in-the-developers-toolkit-4i65)
 - [Dev.to/JS] [Where does the code live?](https://dev.to/gruitt/where-does-the-code-live-3dj8)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WTF é gzipping &lpar;e como é diferente da minificação&rpar;?](https://dev.to/dougsource/wtf-e-gzipping-e-como-e-diferente-da-minificacao-3j76)
 - [Dev.to/JS] [Como eu estruturo meus projetos vanilla JS](https://dev.to/dougsource/como-eu-estruturo-meus-projetos-vanilla-js-3dl6)
 - [Dev.to/JS] [Fix Error 404 when Refreshing a route with React Router](https://dev.to/jretamal/fix-error-404-when-refreshing-a-route-with-react-router-4nag)
-- [Dev.to/JS] [Why I hate JavaScript 🤷](https://dev.to/kaamkiya/why-i-hate-javascript-1clc)
-- [Dev.to/JS] [Build a Functional Search Bar in Next.js](https://dev.to/stephengade/build-a-functional-search-bar-in-nextjs-4i8m)
-- [Dev.to/JS] [JavaScript fundamentals before learning React](https://dev.to/codingcss/javascript-fundamentals-before-learning-react-1li1)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
