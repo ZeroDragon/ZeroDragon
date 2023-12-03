@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do You Want To Earn $1000 Dollars](https://dev.to/nomanbashir0/do-you-want-to-earn-1000-dollars-5g5k)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Dev.to/JS] [Challenge 2 Advent JS 2023 by Midudev](https://dev.to/juneikerc/challenge-2-advent-js-2023-by-midudev-4p6f)
 - [Dev.to/JS] [Under Pressure: Benchmarking Node.js on a Single-Core EC2](https://dev.to/ocodista/under-pressure-benchmarking-nodejs-on-a-single-core-ec2-5ghe)
 - [Dev.to/JS] [Paracetamol.js💊| #221: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-221-explica-este-codigo-javascript-4g2i)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Error with DLX algorithm](https://dev.to/mary71/error-with-dlx-algorithm-g9l)
 - [Dev.to/JS] [CollectionUtils reverseArray&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-reversearray-example-in-java-1lfi)
 - [Dev.to/JS] [CollectionUtils retainAll&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-retainall-example-in-java-kp)
-- [Dev.to/JS] [CollectionUtils permutations&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-permutations-example-in-java-1doi)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
 - [Lifehacker] [You Can Become a ‘Camp Host’ and Live at National Parks for Free](https://lifehacker.com/money/rv-camp-host-jobs-national-parks)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 of the Most Unintentionally Funny Movies Ever](https://lifehacker.com/entertainment/best-unintentionally-funny-movies-streaming)
 - [Lifehacker] [How to Wipe Your Mac Without Reinstalling the OS](https://lifehacker.com/how-to-wipe-your-mac-without-reinstalling-the-os-1847943585)
 - [Lifehacker] [Move Some Serious Snow With These Tools That Don&#39;t Need a Power Source](https://lifehacker.com/home/snow-removal-tools)
-- [Lifehacker] [You Can Still Harvest These Vegetables After a Frost](https://lifehacker.com/home/vegetables-that-withstand-frost)
-- [Lifehacker] [How to Make Extra Crispy Red Flannel Latkes](https://lifehacker.com/food-drink/crispy-red-flannel-latkes-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Still Harvest These Vegetables After a Frost](https://lifehacker.com/home/vegetables-that-withstand-frost)<!-- TECH-POSTS:END -->
 
 ---
 
