@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the Power of Web Development](https://dev.to/shadbalti/unleashing-the-power-of-web-development-17jd)
+- [Dev.to/JS] [CollectionUtils removeAll&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-removeall-example-in-java-3k5c)
+- [Dev.to/JS] [Metabolic Solutions Keto ACV Gummies Reviews - Does It Work? Ingredients &amp; Side Effects! &lpar;Crucial Report&rpar;](https://dev.to/metabolicsolutionsketoacv/metabolic-solutions-keto-acv-gummies-reviews-does-it-work-ingredients-side-effects-crucial-report-3dk7)
+- [Dev.to/JS] [CollectionUtils select&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-select-example-in-java-5dm5)
 - [Dev.to/JS] [How to use OpenAI API with JavaScript](https://dev.to/hikaelis/how-to-use-openai-api-with-javascript-1o56)
 - [Dev.to/JS] [Automate Your Way to Faster Deployments: CI/CD for MERN Apps](https://dev.to/ibrahimhz/automate-your-way-to-faster-deployments-cicd-for-mern-apps-j2i)
 - [Dev.to/JS] [AdventJS 2023: Día 2](https://dev.to/fenriuz/adventjs-2023-dia-2-3e89)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Under Pressure: Benchmarking Node.js on a Single-Core EC2](https://dev.to/ocodista/under-pressure-benchmarking-nodejs-on-a-single-core-ec2-5ghe)
 - [Dev.to/JS] [Paracetamol.js💊| #221: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-221-explica-este-codigo-javascript-4g2i)
 - [Dev.to/JS] [Service Workers](https://dev.to/markoarsenal/service-workers-279j)
-- [Dev.to/JS] [How to Perform CRUD Operation in JavaScript 2024](https://dev.to/bhylucom/how-to-perform-crud-operation-in-javascript-2024-f55)
-- [Dev.to/JS] [Create Your Own Local Chatbot with Next.js, Ollama, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-ollama-and-modelfusion-3hl9)
-- [Dev.to/JS] [Cube Conundrum](https://dev.to/rmion/cube-conundrum-2oi2)
-- [Dev.to/JS] [How to get a job in front end development](https://dev.to/codewithshahan/how-to-get-a-job-in-front-end-development-19ea)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
 - [Lifehacker] [You Can Become a ‘Camp Host’ and Live at National Parks for Free](https://lifehacker.com/money/rv-camp-host-jobs-national-parks)
