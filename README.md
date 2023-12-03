@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Where does the code live?](https://dev.to/gruitt/where-does-the-code-live-3dj8)
+- [Dev.to/JS] [Making DynamoDB Access Easy in NodeJS with ORM](https://dev.to/mohammadfaisal/making-dynamodb-access-easy-in-nodejs-with-orm-26k6)
+- [Dev.to/JS] [Useful Javascript ES6 nuggets](https://dev.to/harshit_kedia/useful-javascript-es6-nuggets-2g6h)
+- [Dev.to/JS] [React Hook: useElementDimensions](https://dev.to/perssondennis/react-hook-useelementdimensions-42cl)
 - [Dev.to/JS] [WTF é gzipping &lpar;e como é diferente da minificação&rpar;?](https://dev.to/dougsource/wtf-e-gzipping-e-como-e-diferente-da-minificacao-3j76)
 - [Dev.to/JS] [Como eu estruturo meus projetos vanilla JS](https://dev.to/dougsource/como-eu-estruturo-meus-projetos-vanilla-js-3dl6)
 - [Dev.to/JS] [Fix Error 404 when Refreshing a route with React Router](https://dev.to/jretamal/fix-error-404-when-refreshing-a-route-with-react-router-4nag)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript fundamentals before learning React](https://dev.to/codingcss/javascript-fundamentals-before-learning-react-1li1)
 - [Dev.to/JS] [Unleashing the Power of Web Development](https://dev.to/shadbalti/unleashing-the-power-of-web-development-17jd)
 - [Dev.to/JS] [CollectionUtils removeAll&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-removeall-example-in-java-3k5c)
-- [Dev.to/JS] [Metabolic Solutions Keto ACV Gummies Reviews - Does It Work? Ingredients &amp; Side Effects! &lpar;Crucial Report&rpar;](https://dev.to/metabolicsolutionsketoacv/metabolic-solutions-keto-acv-gummies-reviews-does-it-work-ingredients-side-effects-crucial-report-3dk7)
-- [Dev.to/JS] [CollectionUtils select&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-select-example-in-java-5dm5)
-- [Dev.to/JS] [How to use OpenAI API with JavaScript](https://dev.to/hikaelis/how-to-use-openai-api-with-javascript-1o56)
-- [Dev.to/JS] [Automate Your Way to Faster Deployments: CI/CD for MERN Apps](https://dev.to/ibrahimhz/automate-your-way-to-faster-deployments-cicd-for-mern-apps-j2i)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
