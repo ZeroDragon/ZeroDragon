@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WTF é gzipping &lpar;e como é diferente da minificação&rpar;?](https://dev.to/dougsource/wtf-e-gzipping-e-como-e-diferente-da-minificacao-3j76)
+- [Dev.to/JS] [Como eu estruturo meus projetos vanilla JS](https://dev.to/dougsource/como-eu-estruturo-meus-projetos-vanilla-js-3dl6)
 - [Dev.to/JS] [Fix Error 404 when Refreshing a route with React Router](https://dev.to/jretamal/fix-error-404-when-refreshing-a-route-with-react-router-4nag)
 - [Dev.to/JS] [Why I hate JavaScript 🤷](https://dev.to/kaamkiya/why-i-hate-javascript-1clc)
 - [Dev.to/JS] [Build a Functional Search Bar in Next.js](https://dev.to/stephengade/build-a-functional-search-bar-in-nextjs-4i8m)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CollectionUtils select&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-select-example-in-java-5dm5)
 - [Dev.to/JS] [How to use OpenAI API with JavaScript](https://dev.to/hikaelis/how-to-use-openai-api-with-javascript-1o56)
 - [Dev.to/JS] [Automate Your Way to Faster Deployments: CI/CD for MERN Apps](https://dev.to/ibrahimhz/automate-your-way-to-faster-deployments-cicd-for-mern-apps-j2i)
-- [Dev.to/JS] [AdventJS 2023: Día 2](https://dev.to/fenriuz/adventjs-2023-dia-2-3e89)
-- [Dev.to/JS] [Do You Want To Earn $1000 Dollars](https://dev.to/nomanbashir0/do-you-want-to-earn-1000-dollars-5g5k)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
