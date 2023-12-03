@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://dev.to/azyzz/performance-optimization-when-adding-12000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leafletjs-54pf)
+- [Dev.to/JS] [Construí um jogo de Jokenpô com WebSockets](https://dev.to/racoelho/construi-um-jogo-de-jokenpo-com-websockets-2fml)
+- [Dev.to/JS] [React useEffect Hook](https://dev.to/collinsmutai/react-useeffect-hook-37n6)
+- [Dev.to/JS] [React useEffect Hook](https://dev.to/collinsmutai/react-useeffect-hook-4e05)
+- [Dev.to/JS] [Migration of a Multiplayer Game from Hosted to Serverless](https://dev.to/florianrappl/migration-of-a-multiplayer-game-from-hosted-to-serverless-2c6o)
 - [Dev.to/JS] [Enhancing User Experience with Performance Optimization in Frontend Web Development](https://dev.to/j0shcodes/enhancing-user-experience-with-performance-optimization-in-frontend-web-development-2moo)
 - [Dev.to/JS] [Introducing DevTools Plugin for Enhanced Robo.js Development](https://dev.to/waveplay/introducing-devtools-plugin-for-enhanced-robojs-development-4lik)
 - [Dev.to/JS] [0 to 1, working in a startup as Software Engineer](https://dev.to/ponikar/0-to-1-working-in-a-startup-as-software-engineer-4jlp)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀Clean Code y Buenas Prácticas con JavaScript🚀 - Reglas del diseño simple](https://dev.to/vancorcodes/clean-code-y-buenas-practicas-con-javascript-1i0k)
 - [Dev.to/JS] [Usando o local storage a seu favor](https://dev.to/jhonhenkel/usando-o-local-storage-a-seu-favor-4e4k)
 - [Dev.to/JS] [Observer Pattern for Beginners](https://dev.to/vivekalhat/observer-pattern-for-beginners-5h64)
-- [Dev.to/JS] [Don&#39;t worry, I&#39;ve not given up!](https://dev.to/nicole__/dont-worry-ive-not-given-up-5gc1)
-- [Dev.to/JS] [Opinionated code formatters suck](https://dev.to/alexleduc76/opinionated-code-formatters-suck-3b1)
-- [Dev.to/JS] [Side hustles for programmers](https://dev.to/codewithshahan/side-hustles-for-programmers-1pga)
-- [Dev.to/JS] [Warping realities: JavaScript closures in the Developer&#39;s Toolkit.](https://dev.to/kalmin/warping-realities-javascript-closures-in-the-developers-toolkit-4i65)
-- [Dev.to/JS] [Where does the code live?](https://dev.to/gruitt/where-does-the-code-live-3dj8)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
