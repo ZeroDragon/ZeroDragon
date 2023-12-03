@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use OpenAI API with JavaScript](https://dev.to/hikaelis/how-to-use-openai-api-with-javascript-1o56)
 - [Dev.to/JS] [Automate Your Way to Faster Deployments: CI/CD for MERN Apps](https://dev.to/ibrahimhz/automate-your-way-to-faster-deployments-cicd-for-mern-apps-j2i)
 - [Dev.to/JS] [AdventJS 2023: Día 2](https://dev.to/fenriuz/adventjs-2023-dia-2-3e89)
 - [Dev.to/JS] [Do You Want To Earn $1000 Dollars](https://dev.to/nomanbashir0/do-you-want-to-earn-1000-dollars-5g5k)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Your Own Local Chatbot with Next.js, Ollama, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-ollama-and-modelfusion-3hl9)
 - [Dev.to/JS] [Cube Conundrum](https://dev.to/rmion/cube-conundrum-2oi2)
 - [Dev.to/JS] [How to get a job in front end development](https://dev.to/codewithshahan/how-to-get-a-job-in-front-end-development-19ea)
-- [Dev.to/JS] [Error with DLX algorithm](https://dev.to/mary71/error-with-dlx-algorithm-g9l)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
 - [Lifehacker] [You Can Become a ‘Camp Host’ and Live at National Parks for Free](https://lifehacker.com/money/rv-camp-host-jobs-national-parks)
