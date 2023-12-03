@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Under Pressure: Benchmarking Node.js on a Single-Core EC2](https://dev.to/ocodista/under-pressure-benchmarking-nodejs-on-a-single-core-ec2-5ghe)
 - [Dev.to/JS] [Paracetamol.js💊| #221: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-221-explica-este-codigo-javascript-4g2i)
 - [Dev.to/JS] [Service Workers](https://dev.to/markoarsenal/service-workers-279j)
 - [Dev.to/JS] [How to Perform CRUD Operation in JavaScript 2024](https://dev.to/bhylucom/how-to-perform-crud-operation-in-javascript-2024-f55)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CollectionUtils retainAll&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-retainall-example-in-java-kp)
 - [Dev.to/JS] [CollectionUtils permutations&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-permutations-example-in-java-1doi)
 - [Dev.to/JS] [CollectionUtils emptyCollection&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-emptycollection-example-in-java-2j3f)
-- [Dev.to/JS] [CollectionUtils collect&lpar;&rpar; Example in Java](https://dev.to/javatute673/collectionutils-collect-example-in-java-6e8)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
 - [Lifehacker] [You Can Become a ‘Camp Host’ and Live at National Parks for Free](https://lifehacker.com/money/rv-camp-host-jobs-national-parks)
