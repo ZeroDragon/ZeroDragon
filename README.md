@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enhancing User Experience with Performance Optimization in Frontend Web Development](https://dev.to/j0shcodes/enhancing-user-experience-with-performance-optimization-in-frontend-web-development-2moo)
+- [Dev.to/JS] [Introducing DevTools Plugin for Enhanced Robo.js Development](https://dev.to/waveplay/introducing-devtools-plugin-for-enhanced-robojs-development-4lik)
+- [Dev.to/JS] [0 to 1, working in a startup as Software Engineer](https://dev.to/ponikar/0-to-1-working-in-a-startup-as-software-engineer-4jlp)
+- [Dev.to/JS] [Build a Functional Search Bar in Next.js](https://dev.to/stephengade/build-a-functional-search-bar-in-nextjs-mig)
+- [Dev.to/JS] [🚀Clean Code y Buenas Prácticas con JavaScript🚀 - Reglas del diseño simple](https://dev.to/vancorcodes/clean-code-y-buenas-practicas-con-javascript-1i0k)
 - [Dev.to/JS] [Usando o local storage a seu favor](https://dev.to/jhonhenkel/usando-o-local-storage-a-seu-favor-4e4k)
 - [Dev.to/JS] [Observer Pattern for Beginners](https://dev.to/vivekalhat/observer-pattern-for-beginners-5h64)
 - [Dev.to/JS] [Don&#39;t worry, I&#39;ve not given up!](https://dev.to/nicole__/dont-worry-ive-not-given-up-5gc1)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Side hustles for programmers](https://dev.to/codewithshahan/side-hustles-for-programmers-1pga)
 - [Dev.to/JS] [Warping realities: JavaScript closures in the Developer&#39;s Toolkit.](https://dev.to/kalmin/warping-realities-javascript-closures-in-the-developers-toolkit-4i65)
 - [Dev.to/JS] [Where does the code live?](https://dev.to/gruitt/where-does-the-code-live-3dj8)
-- [Dev.to/JS] [Making DynamoDB Access Easy in NodeJS with ORM](https://dev.to/mohammadfaisal/making-dynamodb-access-easy-in-nodejs-with-orm-26k6)
-- [Dev.to/JS] [Useful Javascript ES6 nuggets](https://dev.to/harshit_kedia/useful-javascript-es6-nuggets-2g6h)
-- [Dev.to/JS] [React Hook: useElementDimensions](https://dev.to/perssondennis/react-hook-useelementdimensions-42cl)
-- [Dev.to/JS] [WTF é gzipping &lpar;e como é diferente da minificação&rpar;?](https://dev.to/dougsource/wtf-e-gzipping-e-como-e-diferente-da-minificacao-3j76)
-- [Dev.to/JS] [Como eu estruturo meus projetos vanilla JS](https://dev.to/dougsource/como-eu-estruturo-meus-projetos-vanilla-js-3dl6)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
