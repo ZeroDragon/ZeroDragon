@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Usando o local storage a seu favor](https://dev.to/jhonhenkel/usando-o-local-storage-a-seu-favor-4e4k)
 - [Dev.to/JS] [Observer Pattern for Beginners](https://dev.to/vivekalhat/observer-pattern-for-beginners-5h64)
 - [Dev.to/JS] [Don&#39;t worry, I&#39;ve not given up!](https://dev.to/nicole__/dont-worry-ive-not-given-up-5gc1)
 - [Dev.to/JS] [Opinionated code formatters suck](https://dev.to/alexleduc76/opinionated-code-formatters-suck-3b1)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hook: useElementDimensions](https://dev.to/perssondennis/react-hook-useelementdimensions-42cl)
 - [Dev.to/JS] [WTF é gzipping &lpar;e como é diferente da minificação&rpar;?](https://dev.to/dougsource/wtf-e-gzipping-e-como-e-diferente-da-minificacao-3j76)
 - [Dev.to/JS] [Como eu estruturo meus projetos vanilla JS](https://dev.to/dougsource/como-eu-estruturo-meus-projetos-vanilla-js-3dl6)
-- [Dev.to/JS] [Fix Error 404 when Refreshing a route with React Router](https://dev.to/jretamal/fix-error-404-when-refreshing-a-route-with-react-router-4nag)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
