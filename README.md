@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Make Car Game Using Vanilla JavaScript &lpar;Beginners&rpar;](https://dev.to/emmykolic/how-to-make-car-game-using-vanilla-javascript-beginners-2m0a)
+- [Dev.to/JS] [Formas de escrever Immediately Invoked Function Expression &lpar;IIFE&rpar; no JavaScript](https://dev.to/dougsource/formas-de-escrever-immediately-invoked-function-expression-iife-no-javascript-1004)
+- [Dev.to/JS] [Email Overload? AI to the Rescue! A Practical Guide with OpenAI&#39;s Assistant API](https://dev.to/esponges/email-overload-ai-to-the-rescue-a-practical-guide-with-openais-assistant-api-1b5l)
+- [Dev.to/JS] [Goodday](https://dev.to/ellaalexander121/goodday-4om3)
 - [Dev.to/JS] [Event delegation e múltiplos seletores com vanilla JS](https://dev.to/dougsource/event-delegation-e-multiplos-seletores-com-vanilla-js-97a)
 - [Dev.to/JS] [Advent of Code Automation for Javascript/Typescript](https://dev.to/this-is-learning/advent-of-code-automation-for-javascripttypescript-4111)
 - [Dev.to/JS] [Learn Resend in 2 hours — Full course 4k 2023](https://dev.to/guillaumeduhan/learn-resend-in-2-hours-full-course-4k-2023-4gc7)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React useEffect Hook](https://dev.to/collinsmutai/react-useeffect-hook-37n6)
 - [Dev.to/JS] [React useEffect Hook](https://dev.to/collinsmutai/react-useeffect-hook-4e05)
 - [Dev.to/JS] [Migration of a Multiplayer Game from Hosted to Serverless](https://dev.to/florianrappl/migration-of-a-multiplayer-game-from-hosted-to-serverless-2c6o)
-- [Dev.to/JS] [How to Get Better at a New Skill](https://dev.to/seunamos/how-to-get-better-at-a-new-skill-1foj)
-- [Dev.to/JS] [Enhancing User Experience with Performance Optimization in Frontend Web Development](https://dev.to/j0shcodes/enhancing-user-experience-with-performance-optimization-in-frontend-web-development-2moo)
-- [Dev.to/JS] [Introducing DevTools Plugin for Enhanced Robo.js Development](https://dev.to/waveplay/introducing-devtools-plugin-for-enhanced-robojs-development-4lik)
-- [Dev.to/JS] [0 to 1, working in a startup as Software Engineer](https://dev.to/ponikar/0-to-1-working-in-a-startup-as-software-engineer-4jlp)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
