@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Crash Course on props-types](https://dev.to/rajan03/crash-course-on-props-types-9m6)
+- [Dev.to/JS] [Bun vs Node.js: TW Elements now with Vite with Bun](https://dev.to/mz2387/bun-vs-nodejs-tw-elements-now-with-vite-with-bun-100n)
+- [Dev.to/JS] [Day 5 - 30 Days learn Web Dev](https://dev.to/johnc/day-5-30-days-learn-web-dev-l36)
 - [Dev.to/JS] [Letʼs enhance our forms](https://dev.to/craft-code/lets-enhance-our-forms-2i7p)
 - [Dev.to/JS] [Getting Big Mad at ChatGPT](https://dev.to/michaelsynan/getting-big-mad-at-chatgpt-46me)
 - [Dev.to/JS] [Magic of Template Literals in JavaScript](https://dev.to/muhammedshameel/magic-of-template-literals-in-javascript-omo)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to DOM Manipulation](https://dev.to/muhammedshameel/a-beginners-guide-to-dom-manipulation-3cbm)
 - [Dev.to/JS] [Understanding Async vs. Defer Script Loading in JavaScript](https://dev.to/muhammedshameel/understanding-async-vs-defer-script-loading-in-javascript-3bo5)
 - [Dev.to/JS] [TF #26 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-26-your-weekly-frontend-digest-5g1n)
-- [Dev.to/JS] [Using Golang + Gomobile To Build Android Application &lpar;with code&rpar;](https://dev.to/nikl/using-golang-gomobile-to-build-android-application-with-code-18jo)
-- [Dev.to/JS] [You are invited for a 3rd coding interview at SimpleOS](https://dev.to/brainquest/you-are-invited-for-a-3rd-coding-interview-at-simpleos-2j2d)
-- [Dev.to/JS] [JavaScript Hoisting Guide For a Beginner](https://dev.to/devshefali/javascript-hoisting-guide-for-a-beginner-3d1p)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
