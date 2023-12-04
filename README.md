@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Letʼs enhance our forms](https://dev.to/craft-code/lets-enhance-our-forms-2i7p)
+- [Dev.to/JS] [Getting Big Mad at ChatGPT](https://dev.to/michaelsynan/getting-big-mad-at-chatgpt-46me)
 - [Dev.to/JS] [Magic of Template Literals in JavaScript](https://dev.to/muhammedshameel/magic-of-template-literals-in-javascript-omo)
 - [Dev.to/JS] [Create your first Node.js API REST quickly](https://dev.to/jornatf/create-your-first-nodejs-api-rest-quickly-12o6)
 - [Dev.to/JS] [Short-Circuiting in JavaScript](https://dev.to/muhammedshameel/short-circuiting-in-javascript-jbp)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Golang + Gomobile To Build Android Application &lpar;with code&rpar;](https://dev.to/nikl/using-golang-gomobile-to-build-android-application-with-code-18jo)
 - [Dev.to/JS] [You are invited for a 3rd coding interview at SimpleOS](https://dev.to/brainquest/you-are-invited-for-a-3rd-coding-interview-at-simpleos-2j2d)
 - [Dev.to/JS] [JavaScript Hoisting Guide For a Beginner](https://dev.to/devshefali/javascript-hoisting-guide-for-a-beginner-3d1p)
-- [Dev.to/JS] [Working in a startup as a Software Developer](https://dev.to/garimasharma/working-in-a-startup-as-a-software-developer-f85)
-- [Dev.to/JS] [Make your Js Components in seconds](https://dev.to/giuliano1993/make-your-js-components-in-seconds-f3m)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
