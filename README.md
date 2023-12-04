@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Higher-Order Funtions](https://dev.to/tonylecode/understanding-higher-order-funtions-2ip1)
 - [Dev.to/JS] [Construindo um show/hide disclosure component acessível com vanilla JS](https://dev.to/dougsource/construindo-um-showhide-disclosure-component-acessivel-com-vanilla-js-4pch)
 - [Dev.to/JS] [Page SEO Improvement Guide](https://dev.to/godinhojoao/page-seo-improvement-guide-5g2l)
 - [Dev.to/JS] [Loading Spinner On HTML Dropdown](https://dev.to/codeboxx/loading-spinner-on-html-dropdown-5hk7)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VueJS part 14: Scoped slots and conditional slot rendering](https://dev.to/hi_iam_chris/vuejs-part-14-scoped-slots-and-conditional-slot-rendering-2088)
 - [Dev.to/JS] [How To Make Car Game Using Vanilla JavaScript &lpar;Beginners&rpar;](https://dev.to/emmykolic/how-to-make-car-game-using-vanilla-javascript-beginners-2m0a)
 - [Dev.to/JS] [Formas de escrever Immediately Invoked Function Expression &lpar;IIFE&rpar; no JavaScript](https://dev.to/dougsource/formas-de-escrever-immediately-invoked-function-expression-iife-no-javascript-1004)
-- [Dev.to/JS] [Email Overload? AI to the Rescue! A Practical Guide with OpenAI&#39;s Assistant API](https://dev.to/esponges/email-overload-ai-to-the-rescue-a-practical-guide-with-openais-assistant-api-1b5l)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
