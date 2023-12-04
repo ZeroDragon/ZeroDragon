@@ -26,19 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AWS SAM CLI - Hello World Nuances &lpar;JS&rpar;](https://dev.to/tfortune129/aws-sam-cli-hello-world-nuances-js-cmi)
+- [Dev.to/JS] [✨ 7 AI Libraries EVERY Dev Needs to Know &lpar;to be a wiz&rpar;🧙‍♂️ 🪄](https://dev.to/copilotkit/7-ai-libraries-every-dev-needs-to-know-to-be-a-wiz-4lim)
+- [Lifehacker] [12 of the Best Christmas Podcasts to Binge This Holiday Season](https://lifehacker.com/entertainment/best-christmas-podcasts-to-binge-over-the-holidays)
 - [Dev.to/JS] [The Evolution of the Web Today](https://dev.to/sparkouttech/the-evolution-of-the-web-today-34n7)
 - [Dev.to/JS] [Eslint &amp; Prettier Configuration React Native&lpar;Airbnb Style&rpar;](https://dev.to/ajmal_hasan/eslint-prettier-configuration-react-nativeairbnb-style-3mao)
+- [Lifehacker] [What the New Lead Pipe Replacement Laws Mean for Homeowners](https://lifehacker.com/home/what-the-new-lead-pipe-replacement-laws-mean-for-homeowners)
 - [Dev.to/JS] [React Best Practices for Front-End Developers](https://dev.to/krentrox/react-best-practices-for-front-end-developers-4nhl)
 - [Dev.to/JS] [Optimizing Performance with Modern JavaScript Techniques](https://dev.to/omnathdubeyofficial/optimizing-performance-with-modern-javascript-techniques-2cno)
+- [Lifehacker] [The Combustion Predictive Thermometer Has Eight Sensors to Formulate a Cooking Time](https://lifehacker.com/tech/combustion-predictive-thermometer-review)
 - [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript A Comprehensive Guide](https://dev.to/omnathdubeyofficial/mastering-asynchronous-programming-in-javascript-a-comprehensive-guide-562f)
+- [Lifehacker] [The Easiest Ways to Use Split-Screen Multitasking on Mac](https://lifehacker.com/tech/how-to-use-split-screen-multitasking-on-mac)
 - [Dev.to/JS] [Reference an element with React&#39;s useRef&lpar;&rpar; hook](https://dev.to/phuocng/reference-an-element-with-reacts-useref-hook-4pfi)
 - [Dev.to/JS] [Create a reference using React.createRef&lpar;&rpar;](https://dev.to/phuocng/create-a-reference-using-reactcreateref-2n9o)
 - [Dev.to/JS] [Top 12 interview question for a React Developer](https://dev.to/brdnicolas/top-12-interview-question-for-a-react-developer-34f1)
 - [Dev.to/JS] [Pass refs to child components using the function as a child pattern](https://dev.to/phuocng/pass-refs-to-child-components-using-the-function-as-a-child-pattern-5gfj)
 - [Dev.to/JS] [Exploring the Pros and Cons of ChatGPT: Unleashing the Power of Conversational AI](https://dev.to/captainmeg/exploring-the-pros-and-cons-of-chatgpt-unleashing-the-power-of-conversational-ai-50fi)
 - [Lifehacker] [The Gardening Tasks You Should Do Now to Get Ready for Spring](https://lifehacker.com/home/december-gardening-tasks)
-- [Dev.to/JS] [What Architecture Does Vue.js Use?](https://dev.to/ravi_makhija/what-architecture-does-vuejs-use-1n6l)
-- [Dev.to/JS] [Use jest.fakeTimers correctly](https://dev.to/rbeier/use-jestfaketimers-correctly-2nd)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Swaddle Your Electric Hot Water Heater in an Insulating Blanket](https://lifehacker.com/home/insulate-your-water-heater-for-energy-efficiency)
 - [Lifehacker] [Use ‘Secret Codes’ to Hide Your Private WhatsApp Chats](https://lifehacker.com/tech/whats-app-secret-code-locked-chats)
 - [Lifehacker] [How Fast You Need to Walk to Get Real Health Benefits](https://lifehacker.com/health/how-fast-you-should-be-walking)
-- [Lifehacker] [Why Using Your Wet Vac to Clear Snow Is a Bad Idea](https://lifehacker.com/home/using-wet-vac-to-clear-snow)
-- [Lifehacker] [The Best Chrome Extensions to Check Your Grammar](https://lifehacker.com/work/the-best-grammar-checking-chrome-extensions)
-- [Lifehacker] [Cheese-Stuffed Biscuit Balls Are the Finest Comfort Food](https://lifehacker.com/food-drink/cheese-stuffed-biscuit-ball-recipe)
-- [Lifehacker] [Here’s How Much the Different Disney+ Plans Will Cost You](https://lifehacker.com/entertainment/disney-plus-plans)
-- [Lifehacker] [20 of the Most Unintentionally Funny Movies Ever](https://lifehacker.com/entertainment/best-unintentionally-funny-movies-streaming)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Using Your Wet Vac to Clear Snow Is a Bad Idea](https://lifehacker.com/home/using-wet-vac-to-clear-snow)<!-- TECH-POSTS:END -->
 
 ---
 
