@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Evolution of the Web Today](https://dev.to/sparkouttech/the-evolution-of-the-web-today-34n7)
+- [Dev.to/JS] [Eslint &amp; Prettier Configuration React Native&lpar;Airbnb Style&rpar;](https://dev.to/ajmal_hasan/eslint-prettier-configuration-react-nativeairbnb-style-3mao)
+- [Dev.to/JS] [React Best Practices for Front-End Developers](https://dev.to/krentrox/react-best-practices-for-front-end-developers-4nhl)
+- [Dev.to/JS] [Optimizing Performance with Modern JavaScript Techniques](https://dev.to/omnathdubeyofficial/optimizing-performance-with-modern-javascript-techniques-2cno)
 - [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript A Comprehensive Guide](https://dev.to/omnathdubeyofficial/mastering-asynchronous-programming-in-javascript-a-comprehensive-guide-562f)
 - [Dev.to/JS] [Reference an element with React&#39;s useRef&lpar;&rpar; hook](https://dev.to/phuocng/reference-an-element-with-reacts-useref-hook-4pfi)
 - [Dev.to/JS] [Create a reference using React.createRef&lpar;&rpar;](https://dev.to/phuocng/create-a-reference-using-reactcreateref-2n9o)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Gardening Tasks You Should Do Now to Get Ready for Spring](https://lifehacker.com/home/december-gardening-tasks)
 - [Dev.to/JS] [What Architecture Does Vue.js Use?](https://dev.to/ravi_makhija/what-architecture-does-vuejs-use-1n6l)
 - [Dev.to/JS] [Use jest.fakeTimers correctly](https://dev.to/rbeier/use-jestfaketimers-correctly-2nd)
-- [Dev.to/JS] [How to migrate your single-repo to a monorepo](https://dev.to/victorg1002/how-to-migrate-your-single-repo-to-a-monorepo-446a)
-- [Dev.to/JS] [Crash Course on props-types](https://dev.to/rajan03/crash-course-on-props-types-9m6)
-- [Dev.to/JS] [Bun vs Node.js: TW Elements now with Vite with Bun](https://dev.to/mz2387/bun-vs-nodejs-tw-elements-now-with-vite-with-bun-100n)
-- [Dev.to/JS] [Day 5 - 30 Days learn Web Dev](https://dev.to/johnc/day-5-30-days-learn-web-dev-l36)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
