@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Are your client components being delayed when using Next JS ? consider this...](https://dev.to/elihood/are-your-client-components-being-delayed-when-using-next-js-consider-this-4968)
 - [Dev.to/JS] [How To Create a Calculator Using HTML CSS &amp; JavaScript | Simple Calculator in JavaScript](https://dev.to/sharathchandark/how-to-create-a-calculator-using-html-css-javascript-simple-calculator-in-javascript-4ppb)
 - [Dev.to/JS] [ĐỐI TƯỢNG:tất cả họi thanh viên của Sm66](https://dev.to/rongbachkim26/doi-tuongtat-ca-hoi-thanh-vien-cua-sm66-1gb1)
 - [Dev.to/JS] [Demystifying Asynchronous JavaScript with the &quot;asynq&quot; Utility](https://dev.to/eugenioenko/demystifying-asynchronous-javascript-with-the-asynq-utility-3c3k)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Loading Spinner On HTML Dropdown](https://dev.to/codeboxx/loading-spinner-on-html-dropdown-5hk7)
 - [Dev.to/JS] [Connecting HTML to database through javascript](https://dev.to/gullatimama/connecting-html-to-database-through-javascript-4m5b)
 - [Dev.to/JS] [JavaScript Timers &amp; Intervals](https://dev.to/oculus42/javascript-timers-intervals-5fnl)
-- [Dev.to/JS] [Challenge 3 adventjs midudev - The Naughty Elf](https://dev.to/juneikerc/challenge-3-adventjs-midudev-the-naughty-elf-11pb)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
