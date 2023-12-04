@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Construindo um show/hide disclosure component acessível com vanilla JS](https://dev.to/dougsource/construindo-um-showhide-disclosure-component-acessivel-com-vanilla-js-4pch)
+- [Dev.to/JS] [Page SEO Improvement Guide](https://dev.to/godinhojoao/page-seo-improvement-guide-5g2l)
+- [Dev.to/JS] [Loading Spinner On HTML Dropdown](https://dev.to/codeboxx/loading-spinner-on-html-dropdown-5hk7)
+- [Dev.to/JS] [Connecting HTML to database through javascript](https://dev.to/gullatimama/connecting-html-to-database-through-javascript-4m5b)
+- [Dev.to/JS] [JavaScript Timers &amp; Intervals](https://dev.to/oculus42/javascript-timers-intervals-5fnl)
 - [Dev.to/JS] [Challenge 3 adventjs midudev - The Naughty Elf](https://dev.to/juneikerc/challenge-3-adventjs-midudev-the-naughty-elf-11pb)
 - [Dev.to/JS] [Major Update to React Starter Kit: Welcome Joy UI and Jotai!](https://dev.to/kriasoft/major-update-to-react-starter-kit-welcome-joy-ui-and-jotai-4072)
 - [Dev.to/JS] [Você provavelmente não precisa de um DOMContentLoaded event em seu Javacript](https://dev.to/dougsource/voce-provavelmente-nao-precisa-de-um-domcontentloaded-event-em-seu-javacript-3jo3)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Make Car Game Using Vanilla JavaScript &lpar;Beginners&rpar;](https://dev.to/emmykolic/how-to-make-car-game-using-vanilla-javascript-beginners-2m0a)
 - [Dev.to/JS] [Formas de escrever Immediately Invoked Function Expression &lpar;IIFE&rpar; no JavaScript](https://dev.to/dougsource/formas-de-escrever-immediately-invoked-function-expression-iife-no-javascript-1004)
 - [Dev.to/JS] [Email Overload? AI to the Rescue! A Practical Guide with OpenAI&#39;s Assistant API](https://dev.to/esponges/email-overload-ai-to-the-rescue-a-practical-guide-with-openais-assistant-api-1b5l)
-- [Dev.to/JS] [Goodday](https://dev.to/ellaalexander121/goodday-4om3)
-- [Dev.to/JS] [Event delegation e múltiplos seletores com vanilla JS](https://dev.to/dougsource/event-delegation-e-multiplos-seletores-com-vanilla-js-97a)
-- [Dev.to/JS] [Advent of Code Automation for Javascript/Typescript](https://dev.to/this-is-learning/advent-of-code-automation-for-javascripttypescript-4111)
-- [Dev.to/JS] [Learn Resend in 2 hours — Full course 4k 2023](https://dev.to/guillaumeduhan/learn-resend-in-2-hours-full-course-4k-2023-4gc7)
-- [Dev.to/JS] [Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://dev.to/azyzz/performance-optimization-when-adding-12000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leafletjs-54pf)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
