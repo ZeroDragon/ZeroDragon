@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Architecture Does Vue.js Use?](https://dev.to/ravi_makhija/what-architecture-does-vuejs-use-1n6l)
+- [Dev.to/JS] [Use jest.fakeTimers correctly](https://dev.to/rbeier/use-jestfaketimers-correctly-2nd)
+- [Dev.to/JS] [How to migrate your single-repo to a monorepo](https://dev.to/victorg1002/how-to-migrate-your-single-repo-to-a-monorepo-446a)
 - [Dev.to/JS] [Crash Course on props-types](https://dev.to/rajan03/crash-course-on-props-types-9m6)
 - [Dev.to/JS] [Bun vs Node.js: TW Elements now with Vite with Bun](https://dev.to/mz2387/bun-vs-nodejs-tw-elements-now-with-vite-with-bun-100n)
 - [Dev.to/JS] [Day 5 - 30 Days learn Web Dev](https://dev.to/johnc/day-5-30-days-learn-web-dev-l36)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create your first Node.js API REST quickly](https://dev.to/jornatf/create-your-first-nodejs-api-rest-quickly-12o6)
 - [Dev.to/JS] [Short-Circuiting in JavaScript](https://dev.to/muhammedshameel/short-circuiting-in-javascript-jbp)
 - [Dev.to/JS] [Assigning default properties efficiently with Defu](https://dev.to/jacobandrewsky/assigning-default-properties-efficiently-with-defu-2in2)
-- [Dev.to/JS] [A Beginner&#39;s Guide to DOM Manipulation](https://dev.to/muhammedshameel/a-beginners-guide-to-dom-manipulation-3cbm)
-- [Dev.to/JS] [Understanding Async vs. Defer Script Loading in JavaScript](https://dev.to/muhammedshameel/understanding-async-vs-defer-script-loading-in-javascript-3bo5)
-- [Dev.to/JS] [TF #26 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-26-your-weekly-frontend-digest-5g1n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
