@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding a high-contrast theme toggle to a pastel website](https://dev.to/ingosteinke/add-a-high-contrast-theme-toggle-to-a-pastel-website-4kjn)
 - [Dev.to/JS] [Recreating Mastodons Audio Player as a Web Component](https://dev.to/reggi/recreating-mastodons-audio-player-as-a-web-component-4l7h)
 - [Dev.to/JS] [How To Build a Node.js Express App in Under 5 Minutes?](https://dev.to/lakinduhewawasam/how-to-build-a-nodejs-express-app-in-under-5-minutes-104d)
 - [Lifehacker] [You Need Leak Detectors in Your Home, and More Than You Think](https://lifehacker.com/home/home-water-leak-detectors)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Synchronous access to global async data in Angular](https://dev.to/askoropad/synchronous-access-to-global-async-data-in-angular-2amm)
 - [Dev.to/JS] [Gear Ratios](https://dev.to/rmion/gear-ratios-12lo)
 - [Lifehacker] [How to Right-Click on Your Mac](https://lifehacker.com/tech/how-to-right-click-on-mac)
-- [Dev.to/JS] [AWS SAM CLI - Hello World Nuances &lpar;JS&rpar;](https://dev.to/tfortune129/aws-sam-cli-hello-world-nuances-js-cmi)
 - [Lifehacker] [The Best R-Rated Movies You Can Actually Watch With Your Kid](https://lifehacker.com/entertainment/r-rated-movies-to-watch-with-kids)
 - [Lifehacker] [12 of the Best Christmas Podcasts to Binge This Holiday Season](https://lifehacker.com/entertainment/best-christmas-podcasts-to-binge-over-the-holidays)
 - [Lifehacker] [What the New Lead Pipe Replacement Laws Mean for Homeowners](https://lifehacker.com/home/what-the-new-lead-pipe-replacement-laws-mean-for-homeowners)
