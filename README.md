@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript A Comprehensive Guide](https://dev.to/omnathdubeyofficial/mastering-asynchronous-programming-in-javascript-a-comprehensive-guide-562f)
+- [Dev.to/JS] [Reference an element with React&#39;s useRef&lpar;&rpar; hook](https://dev.to/phuocng/reference-an-element-with-reacts-useref-hook-4pfi)
+- [Dev.to/JS] [Create a reference using React.createRef&lpar;&rpar;](https://dev.to/phuocng/create-a-reference-using-reactcreateref-2n9o)
+- [Dev.to/JS] [Top 12 interview question for a React Developer](https://dev.to/brdnicolas/top-12-interview-question-for-a-react-developer-34f1)
+- [Dev.to/JS] [Pass refs to child components using the function as a child pattern](https://dev.to/phuocng/pass-refs-to-child-components-using-the-function-as-a-child-pattern-5gfj)
+- [Dev.to/JS] [Exploring the Pros and Cons of ChatGPT: Unleashing the Power of Conversational AI](https://dev.to/captainmeg/exploring-the-pros-and-cons-of-chatgpt-unleashing-the-power-of-conversational-ai-50fi)
+- [Lifehacker] [The Gardening Tasks You Should Do Now to Get Ready for Spring](https://lifehacker.com/home/december-gardening-tasks)
 - [Dev.to/JS] [What Architecture Does Vue.js Use?](https://dev.to/ravi_makhija/what-architecture-does-vuejs-use-1n6l)
 - [Dev.to/JS] [Use jest.fakeTimers correctly](https://dev.to/rbeier/use-jestfaketimers-correctly-2nd)
 - [Dev.to/JS] [How to migrate your single-repo to a monorepo](https://dev.to/victorg1002/how-to-migrate-your-single-repo-to-a-monorepo-446a)
 - [Dev.to/JS] [Crash Course on props-types](https://dev.to/rajan03/crash-course-on-props-types-9m6)
 - [Dev.to/JS] [Bun vs Node.js: TW Elements now with Vite with Bun](https://dev.to/mz2387/bun-vs-nodejs-tw-elements-now-with-vite-with-bun-100n)
 - [Dev.to/JS] [Day 5 - 30 Days learn Web Dev](https://dev.to/johnc/day-5-30-days-learn-web-dev-l36)
-- [Dev.to/JS] [Letʼs enhance our forms](https://dev.to/craft-code/lets-enhance-our-forms-2i7p)
-- [Dev.to/JS] [Getting Big Mad at ChatGPT](https://dev.to/michaelsynan/getting-big-mad-at-chatgpt-46me)
-- [Dev.to/JS] [Magic of Template Literals in JavaScript](https://dev.to/muhammedshameel/magic-of-template-literals-in-javascript-omo)
-- [Dev.to/JS] [Create your first Node.js API REST quickly](https://dev.to/jornatf/create-your-first-nodejs-api-rest-quickly-12o6)
-- [Dev.to/JS] [Short-Circuiting in JavaScript](https://dev.to/muhammedshameel/short-circuiting-in-javascript-jbp)
-- [Dev.to/JS] [Assigning default properties efficiently with Defu](https://dev.to/jacobandrewsky/assigning-default-properties-efficiently-with-defu-2in2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Chrome Extensions to Check Your Grammar](https://lifehacker.com/work/the-best-grammar-checking-chrome-extensions)
 - [Lifehacker] [Cheese-Stuffed Biscuit Balls Are the Finest Comfort Food](https://lifehacker.com/food-drink/cheese-stuffed-biscuit-ball-recipe)
 - [Lifehacker] [Here’s How Much the Different Disney+ Plans Will Cost You](https://lifehacker.com/entertainment/disney-plus-plans)
-- [Lifehacker] [20 of the Most Unintentionally Funny Movies Ever](https://lifehacker.com/entertainment/best-unintentionally-funny-movies-streaming)
-- [Lifehacker] [How to Wipe Your Mac Without Reinstalling the OS](https://lifehacker.com/how-to-wipe-your-mac-without-reinstalling-the-os-1847943585)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 of the Most Unintentionally Funny Movies Ever](https://lifehacker.com/entertainment/best-unintentionally-funny-movies-streaming)<!-- TECH-POSTS:END -->
 
 ---
 
