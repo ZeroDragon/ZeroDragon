@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Recreating Mastodons Audio Player as a Web Component](https://dev.to/reggi/recreating-mastodons-audio-player-as-a-web-component-4l7h)
+- [Dev.to/JS] [How To Build a Node.js Express App in Under 5 Minutes?](https://dev.to/lakinduhewawasam/how-to-build-a-nodejs-express-app-in-under-5-minutes-104d)
+- [Lifehacker] [You Need Leak Detectors in Your Home, and More Than You Think](https://lifehacker.com/home/home-water-leak-detectors)
 - [Dev.to/JS] [The Top 10 npm Packages You Can&#39;t Afford to Miss as a Developer 😘](https://dev.to/sufian/the-top-10-npm-packages-you-cant-afford-to-miss-as-a-developer-39c5)
+- [Lifehacker] [You Don&#39;t Own the Digital Shows and Movies That You &#39;Bought&#39;](https://lifehacker.com/entertainment/you-dont-own-digital-media)
 - [Dev.to/JS] [JavaScriptmas 2023 - Week 1](https://dev.to/michaellarocca/javascriptmas-2023-week-1-16f3)
 - [Lifehacker] [These Are the Best Ways to Study for Your Finals](https://lifehacker.com/family/finals-study-methods)
 - [Dev.to/JS] [Understanding JavaScript&#39;s Object-String Comparison](https://dev.to/vivek96_/understanding-javascripts-object-string-comparison-23gi)
@@ -40,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Right-Click on Your Mac](https://lifehacker.com/tech/how-to-right-click-on-mac)
 - [Dev.to/JS] [AWS SAM CLI - Hello World Nuances &lpar;JS&rpar;](https://dev.to/tfortune129/aws-sam-cli-hello-world-nuances-js-cmi)
 - [Lifehacker] [The Best R-Rated Movies You Can Actually Watch With Your Kid](https://lifehacker.com/entertainment/r-rated-movies-to-watch-with-kids)
-- [Dev.to/JS] [✨ 7 AI Libraries EVERY Dev Needs to Know &lpar;to be a wiz&rpar;🧙‍♂️ 🪄](https://dev.to/copilotkit/7-ai-libraries-every-dev-needs-to-know-to-be-a-wiz-4lim)
 - [Lifehacker] [12 of the Best Christmas Podcasts to Binge This Holiday Season](https://lifehacker.com/entertainment/best-christmas-podcasts-to-binge-over-the-holidays)
-- [Dev.to/JS] [The Evolution of the Web Today](https://dev.to/sparkouttech/the-evolution-of-the-web-today-34n7)
 - [Lifehacker] [What the New Lead Pipe Replacement Laws Mean for Homeowners](https://lifehacker.com/home/what-the-new-lead-pipe-replacement-laws-mean-for-homeowners)
 - [Lifehacker] [The Combustion Predictive Thermometer Has Eight Sensors to Formulate a Cooking Time](https://lifehacker.com/tech/combustion-predictive-thermometer-review)
 - [Lifehacker] [The Easiest Ways to Use Split-Screen Multitasking on Mac](https://lifehacker.com/tech/how-to-use-split-screen-multitasking-on-mac)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Secret to Becoming a Runner Is a Good Routine](https://lifehacker.com/health/how-to-start-running-routine)
 - [Lifehacker] [Five of the Best Programs for Tracking Your Time](https://lifehacker.com/work/best-programs-for-tracking-your-time)
 - [Lifehacker] [There’s a Hidden Filter in Your Shower Head and It’s Probably Filthy](https://lifehacker.com/home/clean-shower-head-filter)
-- [Lifehacker] [How to Keep Your Tool Batteries From Dying in Cold Weather](https://lifehacker.com/home/tool-batteries-cold-weather)
-- [Lifehacker] [Paramount+ With Showtime Is Going to Cost You More](https://lifehacker.com/entertainment/how-much-is-paramount-plus-with-showtime)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Gail Lewis, Internet Hero?](https://lifehacker.com/entertainment/who-is-gail-lewis-internet-hero)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Keep Your Tool Batteries From Dying in Cold Weather](https://lifehacker.com/home/tool-batteries-cold-weather)<!-- TECH-POSTS:END -->
 
 ---
 
