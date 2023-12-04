@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Major Update to React Starter Kit: Welcome Joy UI and Jotai!](https://dev.to/kriasoft/major-update-to-react-starter-kit-welcome-joy-ui-and-jotai-4072)
+- [Dev.to/JS] [Você provavelmente não precisa de um DOMContentLoaded event em seu Javacript](https://dev.to/dougsource/voce-provavelmente-nao-precisa-de-um-domcontentloaded-event-em-seu-javacript-3jo3)
+- [Dev.to/JS] [VueJS part 14: Scoped slots and conditional slot rendering](https://dev.to/hi_iam_chris/vuejs-part-14-scoped-slots-and-conditional-slot-rendering-2088)
 - [Dev.to/JS] [How To Make Car Game Using Vanilla JavaScript &lpar;Beginners&rpar;](https://dev.to/emmykolic/how-to-make-car-game-using-vanilla-javascript-beginners-2m0a)
 - [Dev.to/JS] [Formas de escrever Immediately Invoked Function Expression &lpar;IIFE&rpar; no JavaScript](https://dev.to/dougsource/formas-de-escrever-immediately-invoked-function-expression-iife-no-javascript-1004)
 - [Dev.to/JS] [Email Overload? AI to the Rescue! A Practical Guide with OpenAI&#39;s Assistant API](https://dev.to/esponges/email-overload-ai-to-the-rescue-a-practical-guide-with-openais-assistant-api-1b5l)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn Resend in 2 hours — Full course 4k 2023](https://dev.to/guillaumeduhan/learn-resend-in-2-hours-full-course-4k-2023-4gc7)
 - [Dev.to/JS] [Performance optimization when adding 12,000+ markers to the map that renders fast with Elixir, LiveView, and Leaflet.js](https://dev.to/azyzz/performance-optimization-when-adding-12000-markers-to-the-map-that-renders-fast-with-elixir-liveview-and-leafletjs-54pf)
 - [Dev.to/JS] [Construí um jogo de Jokenpô com WebSockets](https://dev.to/racoelho/construi-um-jogo-de-jokenpo-com-websockets-2fml)
-- [Dev.to/JS] [React useEffect Hook](https://dev.to/collinsmutai/react-useeffect-hook-37n6)
-- [Dev.to/JS] [React useEffect Hook](https://dev.to/collinsmutai/react-useeffect-hook-4e05)
-- [Dev.to/JS] [Migration of a Multiplayer Game from Hosted to Serverless](https://dev.to/florianrappl/migration-of-a-multiplayer-game-from-hosted-to-serverless-2c6o)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
