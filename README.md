@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create a Calculator Using HTML CSS &amp; JavaScript | Simple Calculator in JavaScript](https://dev.to/sharathchandark/how-to-create-a-calculator-using-html-css-javascript-simple-calculator-in-javascript-4ppb)
+- [Dev.to/JS] [ĐỐI TƯỢNG:tất cả họi thanh viên của Sm66](https://dev.to/rongbachkim26/doi-tuongtat-ca-hoi-thanh-vien-cua-sm66-1gb1)
+- [Dev.to/JS] [Demystifying Asynchronous JavaScript with the &quot;asynq&quot; Utility](https://dev.to/eugenioenko/demystifying-asynchronous-javascript-with-the-asynq-utility-3c3k)
+- [Dev.to/JS] [Implementing a Custom Context Menu in Vue.js](https://dev.to/omalk98/implementing-a-custom-context-menu-in-vuejs-43ib)
 - [Dev.to/JS] [Understanding React useReducer](https://dev.to/ayako_yk/understanding-react-usereducer-1cb2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
 - [Dev.to/JS] [Understanding Higher-Order Funtions](https://dev.to/tonylecode/understanding-higher-order-funtions-2ip1)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Connecting HTML to database through javascript](https://dev.to/gullatimama/connecting-html-to-database-through-javascript-4m5b)
 - [Dev.to/JS] [JavaScript Timers &amp; Intervals](https://dev.to/oculus42/javascript-timers-intervals-5fnl)
 - [Dev.to/JS] [Challenge 3 adventjs midudev - The Naughty Elf](https://dev.to/juneikerc/challenge-3-adventjs-midudev-the-naughty-elf-11pb)
-- [Dev.to/JS] [Major Update to React Starter Kit: Welcome Joy UI and Jotai!](https://dev.to/kriasoft/major-update-to-react-starter-kit-welcome-joy-ui-and-jotai-4072)
-- [Dev.to/JS] [Você provavelmente não precisa de um DOMContentLoaded event em seu Javacript](https://dev.to/dougsource/voce-provavelmente-nao-precisa-de-um-domcontentloaded-event-em-seu-javacript-3jo3)
-- [Dev.to/JS] [VueJS part 14: Scoped slots and conditional slot rendering](https://dev.to/hi_iam_chris/vuejs-part-14-scoped-slots-and-conditional-slot-rendering-2088)
-- [Dev.to/JS] [How To Make Car Game Using Vanilla JavaScript &lpar;Beginners&rpar;](https://dev.to/emmykolic/how-to-make-car-game-using-vanilla-javascript-beginners-2m0a)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
