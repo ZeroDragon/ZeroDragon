@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make your Js Components in seconds](https://dev.to/giuliano1993/make-your-js-components-in-seconds-f3m)
+- [Dev.to/JS] [React&#39;s Dynamic Trio: Code-Splitting Unleashed!](https://dev.to/mursalfk/reacts-dynamic-trio-code-splitting-unleashed-ig9)
 - [Dev.to/JS] [Wrong Methods vs Good Methods in javascript](https://dev.to/manthanank/wrong-methods-vs-good-methods-in-javascript-4cgl)
 - [Dev.to/JS] [What is Data Science and how it works?](https://dev.to/yagnapandya9/what-is-data-science-and-how-it-works-45c9)
 - [Dev.to/JS] [Are your client components being delayed when using Next JS ? consider this...](https://dev.to/elihood/are-your-client-components-being-delayed-when-using-next-js-consider-this-4968)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Higher-Order Funtions](https://dev.to/tonylecode/understanding-higher-order-funtions-2ip1)
 - [Dev.to/JS] [Construindo um show/hide disclosure component acessível com vanilla JS](https://dev.to/dougsource/construindo-um-showhide-disclosure-component-acessivel-com-vanilla-js-4pch)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
-- [Dev.to/JS] [Page SEO Improvement Guide](https://dev.to/godinhojoao/page-seo-improvement-guide-5g2l)
-- [Dev.to/JS] [Loading Spinner On HTML Dropdown](https://dev.to/codeboxx/loading-spinner-on-html-dropdown-5hk7)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
