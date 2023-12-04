@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Auto scaling Node.js applications with PM2 and pm2-autoscale module](https://dev.to/vexell/auto-scaling-nodejs-applications-with-pm2-and-pm2-autoscale-module-60h)
+- [Lifehacker] [How That Viral Wedding Dress Photo Showed a Bride In 3 Different Poses Simultaneously](https://lifehacker.com/tech/viral-panoramic-bridal-gown-photo)
+- [Dev.to/JS] [Which language should you learn first?](https://dev.to/codewithshahan/which-language-should-i-learn-first-in-2024-4koa)
+- [Lifehacker] [The Best Apps for Improving Memory](https://lifehacker.com/tech/best-apps-for-improving-memory)
 - [Dev.to/JS] [Adding a high-contrast theme toggle to a pastel website](https://dev.to/ingosteinke/add-a-high-contrast-theme-toggle-to-a-pastel-website-4kjn)
+- [Lifehacker] [How to Reset Your Windows PC for a Fresh Start](https://lifehacker.com/tech/reset-windows-pc-without-reinstalling-windows)
+- [Lifehacker] [A Raclette Party Is Exactly What You Need This Winter](https://lifehacker.com/food-drink/what-is-a-raclette-party)
 - [Dev.to/JS] [Recreating Mastodons Audio Player as a Web Component](https://dev.to/reggi/recreating-mastodons-audio-player-as-a-web-component-4l7h)
 - [Dev.to/JS] [How To Build a Node.js Express App in Under 5 Minutes?](https://dev.to/lakinduhewawasam/how-to-build-a-nodejs-express-app-in-under-5-minutes-104d)
 - [Lifehacker] [You Need Leak Detectors in Your Home, and More Than You Think](https://lifehacker.com/home/home-water-leak-detectors)
@@ -40,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #222: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-222-explica-este-codigo-javascript-4n88)
 - [Dev.to/JS] [AdventJS 2023: Reto del día 3](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-3-1l64)
 - [Dev.to/JS] [Marvel API App | JavaScript Tutorial With Source Code](https://dev.to/codingcss/marvel-api-app-javascript-tutorial-with-source-code-2mko)
-- [Dev.to/JS] [Synchronous access to global async data in Angular](https://dev.to/askoropad/synchronous-access-to-global-async-data-in-angular-2amm)
-- [Dev.to/JS] [Gear Ratios](https://dev.to/rmion/gear-ratios-12lo)
 - [Lifehacker] [How to Right-Click on Your Mac](https://lifehacker.com/tech/how-to-right-click-on-mac)
 - [Lifehacker] [The Best R-Rated Movies You Can Actually Watch With Your Kid](https://lifehacker.com/entertainment/r-rated-movies-to-watch-with-kids)
 - [Lifehacker] [12 of the Best Christmas Podcasts to Binge This Holiday Season](https://lifehacker.com/entertainment/best-christmas-podcasts-to-binge-over-the-holidays)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need to Clean Algae From Your Wood Deck &lpar;and How to Do It&rpar;](https://lifehacker.com/home/clean-algae-wood-deck)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)
 - [Lifehacker] [28 of the Best Non-Christmas Christmas Movies &lpar;That Aren&#39;t ‘Die Hard’&rpar; You Can Stream Now](https://lifehacker.com/entertainment/best-nontraditional-christmas-movies)
-- [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)
-- [Lifehacker] [The Secret to Becoming a Runner Is a Good Routine](https://lifehacker.com/health/how-to-start-running-routine)
-- [Lifehacker] [Five of the Best Programs for Tracking Your Time](https://lifehacker.com/work/best-programs-for-tracking-your-time)
-- [Lifehacker] [There’s a Hidden Filter in Your Shower Head and It’s Probably Filthy](https://lifehacker.com/home/clean-shower-head-filter)
-- [Lifehacker] [How to Keep Your Tool Batteries From Dying in Cold Weather](https://lifehacker.com/home/tool-batteries-cold-weather)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Download All Your Media From Google Photos](https://lifehacker.com/tech/transfer-photos-videos-google-cloud)<!-- TECH-POSTS:END -->
 
 ---
 
