@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Top 10 npm Packages You Can&#39;t Afford to Miss as a Developer 😘](https://dev.to/sufian/the-top-10-npm-packages-you-cant-afford-to-miss-as-a-developer-39c5)
+- [Dev.to/JS] [JavaScriptmas 2023 - Week 1](https://dev.to/michaellarocca/javascriptmas-2023-week-1-16f3)
+- [Lifehacker] [These Are the Best Ways to Study for Your Finals](https://lifehacker.com/family/finals-study-methods)
 - [Dev.to/JS] [Understanding JavaScript&#39;s Object-String Comparison](https://dev.to/vivek96_/understanding-javascripts-object-string-comparison-23gi)
 - [Dev.to/JS] [Docusaurus Site Search Plugin](https://dev.to/alakkadshaw/docusaurus-site-search-plugin-2cp)
+- [Lifehacker] [The Meta Quest 2 Is $75 Off at GameStop Right Now](https://lifehacker.com/entertainment/best-meta-quest-2-deal)
 - [Dev.to/JS] [Paracetamol.js💊| #222: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-222-explica-este-codigo-javascript-4n88)
 - [Dev.to/JS] [AdventJS 2023: Reto del día 3](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-3-1l64)
 - [Dev.to/JS] [Marvel API App | JavaScript Tutorial With Source Code](https://dev.to/codingcss/marvel-api-app-javascript-tutorial-with-source-code-2mko)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [✨ 7 AI Libraries EVERY Dev Needs to Know &lpar;to be a wiz&rpar;🧙‍♂️ 🪄](https://dev.to/copilotkit/7-ai-libraries-every-dev-needs-to-know-to-be-a-wiz-4lim)
 - [Lifehacker] [12 of the Best Christmas Podcasts to Binge This Holiday Season](https://lifehacker.com/entertainment/best-christmas-podcasts-to-binge-over-the-holidays)
 - [Dev.to/JS] [The Evolution of the Web Today](https://dev.to/sparkouttech/the-evolution-of-the-web-today-34n7)
-- [Dev.to/JS] [Eslint &amp; Prettier Configuration React Native&lpar;Airbnb Style&rpar;](https://dev.to/ajmal_hasan/eslint-prettier-configuration-react-nativeairbnb-style-3mao)
 - [Lifehacker] [What the New Lead Pipe Replacement Laws Mean for Homeowners](https://lifehacker.com/home/what-the-new-lead-pipe-replacement-laws-mean-for-homeowners)
-- [Dev.to/JS] [React Best Practices for Front-End Developers](https://dev.to/krentrox/react-best-practices-for-front-end-developers-4nhl)
 - [Lifehacker] [The Combustion Predictive Thermometer Has Eight Sensors to Formulate a Cooking Time](https://lifehacker.com/tech/combustion-predictive-thermometer-review)
 - [Lifehacker] [The Easiest Ways to Use Split-Screen Multitasking on Mac](https://lifehacker.com/tech/how-to-use-split-screen-multitasking-on-mac)
 - [Lifehacker] [The Gardening Tasks You Should Do Now to Get Ready for Spring](https://lifehacker.com/home/december-gardening-tasks)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There’s a Hidden Filter in Your Shower Head and It’s Probably Filthy](https://lifehacker.com/home/clean-shower-head-filter)
 - [Lifehacker] [How to Keep Your Tool Batteries From Dying in Cold Weather](https://lifehacker.com/home/tool-batteries-cold-weather)
 - [Lifehacker] [Paramount+ With Showtime Is Going to Cost You More](https://lifehacker.com/entertainment/how-much-is-paramount-plus-with-showtime)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Gail Lewis, Internet Hero?](https://lifehacker.com/entertainment/who-is-gail-lewis-internet-hero)
-- [Lifehacker] [You Should Swaddle Your Electric Hot Water Heater in an Insulating Blanket](https://lifehacker.com/home/insulate-your-water-heater-for-energy-efficiency)
-- [Lifehacker] [Use ‘Secret Codes’ to Hide Your Private WhatsApp Chats](https://lifehacker.com/tech/whats-app-secret-code-locked-chats)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Gail Lewis, Internet Hero?](https://lifehacker.com/entertainment/who-is-gail-lewis-internet-hero)<!-- TECH-POSTS:END -->
 
 ---
 
