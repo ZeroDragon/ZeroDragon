@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the Power of CSS: A Must-Use Guide for Squarespace Landing Pages 🚀🎨](https://dev.to/loftydevs/unleashing-the-power-of-css-a-must-use-guide-for-squarespace-landing-pages-7en)
+- [Dev.to/JS] [AdventJS 2023: Day 4 Challenge](https://dev.to/fenriuz/adventjs-2023-day-4-challenge-3knh)
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 4](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-4-2h4g)
 - [Lifehacker] [Use This Workaround to Send High Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
 - [Dev.to/JS] [Auto scaling Node.js applications with PM2 and pm2-autoscale module](https://dev.to/vexell/auto-scaling-nodejs-applications-with-pm2-and-pm2-autoscale-module-60h)
@@ -46,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding JavaScript&#39;s Object-String Comparison](https://dev.to/vivek96_/understanding-javascripts-object-string-comparison-23gi)
 - [Dev.to/JS] [Docusaurus Site Search Plugin](https://dev.to/alakkadshaw/docusaurus-site-search-plugin-2cp)
 - [Lifehacker] [The Meta Quest 2 Is $75 Off at GameStop Right Now](https://lifehacker.com/entertainment/best-meta-quest-2-deal)
-- [Dev.to/JS] [Paracetamol.js💊| #222: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-222-explica-este-codigo-javascript-4n88)
-- [Dev.to/JS] [AdventJS 2023: Reto del día 3](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-3-1l64)
 - [Lifehacker] [How to Right-Click on Your Mac](https://lifehacker.com/tech/how-to-right-click-on-mac)
 - [Lifehacker] [The Best R-Rated Movies You Can Actually Watch With Your Kid](https://lifehacker.com/entertainment/r-rated-movies-to-watch-with-kids)
 - [Lifehacker] [12 of the Best Christmas Podcasts to Binge This Holiday Season](https://lifehacker.com/entertainment/best-christmas-podcasts-to-binge-over-the-holidays)
