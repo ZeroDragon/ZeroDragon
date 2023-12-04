@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Magic of Template Literals in JavaScript](https://dev.to/muhammedshameel/magic-of-template-literals-in-javascript-omo)
+- [Dev.to/JS] [Create your first Node.js API REST quickly](https://dev.to/jornatf/create-your-first-nodejs-api-rest-quickly-12o6)
+- [Dev.to/JS] [Short-Circuiting in JavaScript](https://dev.to/muhammedshameel/short-circuiting-in-javascript-jbp)
+- [Dev.to/JS] [Assigning default properties efficiently with Defu](https://dev.to/jacobandrewsky/assigning-default-properties-efficiently-with-defu-2in2)
+- [Dev.to/JS] [A Beginner&#39;s Guide to DOM Manipulation](https://dev.to/muhammedshameel/a-beginners-guide-to-dom-manipulation-3cbm)
 - [Dev.to/JS] [Understanding Async vs. Defer Script Loading in JavaScript](https://dev.to/muhammedshameel/understanding-async-vs-defer-script-loading-in-javascript-3bo5)
 - [Dev.to/JS] [TF #26 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-26-your-weekly-frontend-digest-5g1n)
 - [Dev.to/JS] [Using Golang + Gomobile To Build Android Application &lpar;with code&rpar;](https://dev.to/nikl/using-golang-gomobile-to-build-android-application-with-code-18jo)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Hoisting Guide For a Beginner](https://dev.to/devshefali/javascript-hoisting-guide-for-a-beginner-3d1p)
 - [Dev.to/JS] [Working in a startup as a Software Developer](https://dev.to/garimasharma/working-in-a-startup-as-a-software-developer-f85)
 - [Dev.to/JS] [Make your Js Components in seconds](https://dev.to/giuliano1993/make-your-js-components-in-seconds-f3m)
-- [Dev.to/JS] [React&#39;s Dynamic Trio: Code-Splitting Unleashed!](https://dev.to/mursalfk/reacts-dynamic-trio-code-splitting-unleashed-ig9)
-- [Dev.to/JS] [Wrong Methods vs Good Methods in javascript](https://dev.to/manthanank/wrong-methods-vs-good-methods-in-javascript-4cgl)
-- [Dev.to/JS] [What is Data Science and how it works?](https://dev.to/yagnapandya9/what-is-data-science-and-how-it-works-45c9)
-- [Dev.to/JS] [Are your client components being delayed when using Next JS ? consider this...](https://dev.to/elihood/are-your-client-components-being-delayed-when-using-next-js-consider-this-4968)
-- [Dev.to/JS] [How To Create a Calculator Using HTML CSS &amp; JavaScript | Simple Calculator in JavaScript](https://dev.to/sharathchandark/how-to-create-a-calculator-using-html-css-javascript-simple-calculator-in-javascript-4ppb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
