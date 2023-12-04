@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding React useReducer](https://dev.to/ayako_yk/understanding-react-usereducer-1cb2)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
 - [Dev.to/JS] [Understanding Higher-Order Funtions](https://dev.to/tonylecode/understanding-higher-order-funtions-2ip1)
 - [Dev.to/JS] [Construindo um show/hide disclosure component acessível com vanilla JS](https://dev.to/dougsource/construindo-um-showhide-disclosure-component-acessivel-com-vanilla-js-4pch)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
 - [Dev.to/JS] [Page SEO Improvement Guide](https://dev.to/godinhojoao/page-seo-improvement-guide-5g2l)
 - [Dev.to/JS] [Loading Spinner On HTML Dropdown](https://dev.to/codeboxx/loading-spinner-on-html-dropdown-5hk7)
 - [Dev.to/JS] [Connecting HTML to database through javascript](https://dev.to/gullatimama/connecting-html-to-database-through-javascript-4m5b)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Você provavelmente não precisa de um DOMContentLoaded event em seu Javacript](https://dev.to/dougsource/voce-provavelmente-nao-precisa-de-um-domcontentloaded-event-em-seu-javacript-3jo3)
 - [Dev.to/JS] [VueJS part 14: Scoped slots and conditional slot rendering](https://dev.to/hi_iam_chris/vuejs-part-14-scoped-slots-and-conditional-slot-rendering-2088)
 - [Dev.to/JS] [How To Make Car Game Using Vanilla JavaScript &lpar;Beginners&rpar;](https://dev.to/emmykolic/how-to-make-car-game-using-vanilla-javascript-beginners-2m0a)
-- [Dev.to/JS] [Formas de escrever Immediately Invoked Function Expression &lpar;IIFE&rpar; no JavaScript](https://dev.to/dougsource/formas-de-escrever-immediately-invoked-function-expression-iife-no-javascript-1004)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
 - [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cheese-Stuffed Biscuit Balls Are the Finest Comfort Food](https://lifehacker.com/food-drink/cheese-stuffed-biscuit-ball-recipe)
 - [Lifehacker] [Here’s How Much the Different Disney+ Plans Will Cost You](https://lifehacker.com/entertainment/disney-plus-plans)
 - [Lifehacker] [20 of the Most Unintentionally Funny Movies Ever](https://lifehacker.com/entertainment/best-unintentionally-funny-movies-streaming)
-- [Lifehacker] [How to Wipe Your Mac Without Reinstalling the OS](https://lifehacker.com/how-to-wipe-your-mac-without-reinstalling-the-os-1847943585)
-- [Lifehacker] [Move Some Serious Snow With These Tools That Don&#39;t Need a Power Source](https://lifehacker.com/home/snow-removal-tools)
-- [Lifehacker] [You Can Still Harvest These Vegetables After a Frost](https://lifehacker.com/home/vegetables-that-withstand-frost)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Wipe Your Mac Without Reinstalling the OS](https://lifehacker.com/how-to-wipe-your-mac-without-reinstalling-the-os-1847943585)<!-- TECH-POSTS:END -->
 
 ---
 
