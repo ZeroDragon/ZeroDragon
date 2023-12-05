@@ -26,10 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I built a multiplayer game with no backend](https://dev.to/chijiooke/how-i-built-a-multiplayer-game-with-no-backend-2g62)
+- [Lifehacker] [How Teachers Can Catch You Using ChatGPT](https://lifehacker.com/family/how-teachers-detect-ai-chatgpt)
+- [Dev.to/JS] [✨Validación de contraseñas accessible✨](https://dev.to/micaavigliano/validacion-de-contrasenas-accessible-5gh6)
+- [Dev.to/JS] [Tech is not for me, I am a fraud: A Journey of Growth and Overcoming Imposter Syndrome](https://dev.to/eworld/tech-is-not-for-me-i-am-a-fraud-a-journey-of-growth-and-overcoming-imposter-syndrome-jk9)
+- [Lifehacker] [Why Your Next Monitor Needs a KVM Switch](https://lifehacker.com/tech/your-next-monitor-needs-a-kvm-switch)
 - [Dev.to/JS] [8 tips to reduce unused JavaScript](https://dev.to/logrocket/8-tips-to-reduce-unused-javascript-1nkk)
 - [Dev.to/JS] [What’s new in AWS Amplify: Features to Build and Scale Fullstack Apps](https://dev.to/aws/whats-new-in-aws-amplify-features-to-build-and-scale-fullstack-apps-4gek)
 - [Dev.to/JS] [GET FREE HIGH DA ARTICLES BACKLINKS AND SUBMIT FREE YOUR ARTICLE ON THIS WEBSITE](https://dev.to/freearticleposts/get-free-high-da-articles-backlinks-and-submit-free-your-article-on-this-website-192f)
+- [Lifehacker] [Ace Your Finals With These Helpful Study Tools](https://lifehacker.com/family/best-study-tools-finals-week)
 - [Dev.to/JS] [Cloud migration consulting in the UK: Simplifying the Transition for UK Companies with Exato Software](https://dev.to/waqas00517/cloud-migration-consulting-in-the-uk-simplifying-the-transition-for-uk-companies-with-exato-software-350f)
+- [Lifehacker] [You Can Get an Extra Wireless Xbox Controller for $35 Right Now](https://lifehacker.com/entertainment/xbox-controller-sale)
 - [Lifehacker] [You Can Now Scan Documents in Google Files Too](https://lifehacker.com/tech/you-can-now-scan-documents-in-google-files)
 - [Dev.to/JS] [Angular Interceptors Unleashed: Solving Complex Scenarios with Ease. Practical Use Cases and Examples &lpar;2023&rpar;](https://dev.to/astritshuli/angular-interceptors-unleashed-solving-complex-scenarios-with-ease-practical-use-cases-and-examples-2023-j3k)
 - [Lifehacker] [This Braised Red Wine Brisket Is the Perfect December Meal](https://lifehacker.com/food-drink/best-braised-red-wine-brisket-recipe)
@@ -40,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 50 Best Christmas Movies You Can Stream Right Now](https://lifehacker.com/entertainment/50-best-christmas-movies)
 - [Dev.to/JS] [Basic Javascript Knowledge: When to use var, let or const?](https://dev.to/apicrud/basic-javascript-knowledge-when-to-use-var-let-or-const-4ff9)
 - [Lifehacker] [It&#39;s Time to Ditch Evernote for One of These Alternatives](https://lifehacker.com/tech/best-evernote-alternatives)
-- [Dev.to/JS] [JavaScriptmas 2023 Solutions](https://dev.to/sinaghadimi/javascriptmas-2023-solutions-59oc)
-- [Dev.to/JS] [AdventJS Challenge 4, midudev 2023 - Turn the parentheses around](https://dev.to/juneikerc/adventjs-challenge-4-midudev-2023-turn-the-parentheses-around-5ehi)
-- [Dev.to/JS] [5 best JavaScript multidimensional array libraries](https://dev.to/logrocket/5-best-javascript-multidimensional-array-libraries-16mj)
 - [Lifehacker] [You Should Make This Elevated Applesauce Immediately](https://lifehacker.com/food-drink/best-homemade-applesauce-recipe)
 - [Lifehacker] [All The Tools You Need to Clean Your Gutters Without Getting on a Ladder](https://lifehacker.com/home/how-to-clean-your-gutters-without-a-ladder)
 - [Lifehacker] [What Is Copilot and Is It Better Than ChatGPT?](https://lifehacker.com/tech/what-is-microsoft-copilot)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don&#39;t Own the Digital Shows and Movies That You &#39;Bought&#39;](https://lifehacker.com/entertainment/you-dont-own-digital-media)
 - [Lifehacker] [These Are the Best Ways to Study for Your Finals](https://lifehacker.com/family/finals-study-methods)
 - [Lifehacker] [The Meta Quest 2 Is $75 Off at GameStop Right Now](https://lifehacker.com/entertainment/best-meta-quest-2-deal)
-- [Lifehacker] [How to Right-Click on Your Mac](https://lifehacker.com/tech/how-to-right-click-on-mac)
-- [Lifehacker] [The Best R-Rated Movies You Can Actually Watch With Your Kid](https://lifehacker.com/entertainment/r-rated-movies-to-watch-with-kids)
-- [Lifehacker] [12 of the Best Christmas Podcasts to Binge This Holiday Season](https://lifehacker.com/entertainment/best-christmas-podcasts-to-binge-over-the-holidays)
-- [Lifehacker] [What the New Lead Pipe Replacement Laws Mean for Homeowners](https://lifehacker.com/home/what-the-new-lead-pipe-replacement-laws-mean-for-homeowners)
-- [Lifehacker] [The Combustion Predictive Thermometer Has Eight Sensors to Formulate a Cooking Time](https://lifehacker.com/tech/combustion-predictive-thermometer-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Right-Click on Your Mac](https://lifehacker.com/tech/how-to-right-click-on-mac)<!-- TECH-POSTS:END -->
 
 ---
 
