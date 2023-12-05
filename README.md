@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Basic Javascript Knowledge: When to use var, let or const?](https://dev.to/apicrud/basic-javascript-knowledge-when-to-use-var-let-or-const-4ff9)
+- [Dev.to/JS] [JavaScriptmas 2023 Solutions](https://dev.to/sinaghadimi/javascriptmas-2023-solutions-59oc)
+- [Dev.to/JS] [AdventJS Challenge 4, midudev 2023 - Turn the parentheses around](https://dev.to/juneikerc/adventjs-challenge-4-midudev-2023-turn-the-parentheses-around-5ehi)
+- [Dev.to/JS] [5 best JavaScript multidimensional array libraries](https://dev.to/logrocket/5-best-javascript-multidimensional-array-libraries-16mj)
+- [Lifehacker] [You Should Make This Elevated Applesauce Immediately](https://lifehacker.com/food-drink/best-homemade-applesauce-recipe)
+- [Lifehacker] [All The Tools You Need to Clean Your Gutters Without Getting on a Ladder](https://lifehacker.com/home/how-to-clean-your-gutters-without-a-ladder)
 - [Lifehacker] [What Is Copilot and Is It Better Than ChatGPT?](https://lifehacker.com/tech/what-is-microsoft-copilot)
 - [Dev.to/JS] [JavaScript Essentials: A Beginner&#39;s Guide to Data Structures and Algorithms](https://dev.to/mattryanmtl/javascript-essentials-a-beginners-guide-to-data-structures-and-algorithms-ap)
 - [Dev.to/JS] [The Way I Wished JavaScript Went - A New Year&#39;s Wish 🌲](https://dev.to/slobodan4nista/the-way-i-wished-javascript-went-a-new-years-wish-49ce)
@@ -37,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Business Card Printing Dubai near me](https://dev.to/villiamvillie/business-card-printing-dubai-near-me-1p06)
 - [Dev.to/JS] [Key features of a modern web page](https://dev.to/sparkouttech/key-features-of-a-modern-web-page-c1n)
 - [Dev.to/JS] [Elevating Web Application Development With AngularJs Development Company](https://dev.to/mrarnold135/elevating-web-application-development-with-angularjs-development-company-4ndl)
-- [Dev.to/JS] [Best of Frontend | November issue](https://dev.to/tech-foutraque/best-of-frontend-november-issue-1j4e)
-- [Dev.to/JS] [Most asked JavaScript Interview Questions🚀](https://dev.to/bugudiramu/most-asked-javascript-interview-questions-19i7)
-- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #1](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-1-2dl4)
-- [Dev.to/JS] [Secure Coding Practices in Python: Mitigating Common Vulnerabilities](https://dev.to/officialintelvue/secure-coding-practices-in-python-mitigating-common-vulnerabilities-4l96)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-5-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-tuesday-december-5-2023)
 - [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Gardening Tasks You Should Do Now to Get Ready for Spring](https://lifehacker.com/home/december-gardening-tasks)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
-- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
-- [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)<!-- TECH-POSTS:END -->
 
 ---
 
