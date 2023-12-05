@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/food-drink/best-gifts-for-coffee-lovers)
+- [Dev.to/JS] [🚀5-Minute Guide to Blazing Fast React Apps🚀](https://dev.to/opensign/5-minute-guide-to-blazing-fast-react-apps-4h5b)
+- [Dev.to/JS] [Day 6 - 30 Days learn Web Dev](https://dev.to/johnc/day-6-30-days-learn-web-dev-14c5)
+- [Dev.to/JS] [Frontend newsletter list &lpar;2024&rpar; 📬](https://dev.to/tech-foutraque/frontend-newsletter-list-2024-43lb)
+- [Lifehacker] [One of Sony’s Best Headphones Just Hit Their Lowest Price Yet](https://lifehacker.com/tech/sony-wh1000xm4-noise-cancelling-headphones-sale)
 - [Dev.to/JS] [How I built a multiplayer game with no backend](https://dev.to/chijiooke/how-i-built-a-multiplayer-game-with-no-backend-2g62)
 - [Lifehacker] [How Teachers Can Catch You Using ChatGPT](https://lifehacker.com/family/how-teachers-detect-ai-chatgpt)
 - [Dev.to/JS] [✨Validación de contraseñas accessible✨](https://dev.to/micaavigliano/validacion-de-contrasenas-accessible-5gh6)
@@ -41,11 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Interceptors Unleashed: Solving Complex Scenarios with Ease. Practical Use Cases and Examples &lpar;2023&rpar;](https://dev.to/astritshuli/angular-interceptors-unleashed-solving-complex-scenarios-with-ease-practical-use-cases-and-examples-2023-j3k)
 - [Lifehacker] [This Braised Red Wine Brisket Is the Perfect December Meal](https://lifehacker.com/food-drink/best-braised-red-wine-brisket-recipe)
 - [Dev.to/JS] [Next.JS in a Nutshell: Rendering](https://dev.to/oktadev/nextjs-in-a-nutshell-5dj1)
-- [Dev.to/JS] [Material Design for Bootstrap Standard 7.1.0 Released!](https://dev.to/mdbootstrap/material-design-for-bootstrap-standard-710-released-48c5)
-- [Dev.to/JS] [TW Elements v1.1.0 Released!](https://dev.to/mz2387/tw-elements-v110-released-3h0m)
 - [Lifehacker] [You Can Turn Your Shop Vac Into a Leaf Blower](https://lifehacker.com/home/use-shop-vac-as-leaf-blower)
 - [Lifehacker] [The 50 Best Christmas Movies You Can Stream Right Now](https://lifehacker.com/entertainment/50-best-christmas-movies)
-- [Dev.to/JS] [Basic Javascript Knowledge: When to use var, let or const?](https://dev.to/apicrud/basic-javascript-knowledge-when-to-use-var-let-or-const-4ff9)
 - [Lifehacker] [It&#39;s Time to Ditch Evernote for One of These Alternatives](https://lifehacker.com/tech/best-evernote-alternatives)
 - [Lifehacker] [You Should Make This Elevated Applesauce Immediately](https://lifehacker.com/food-drink/best-homemade-applesauce-recipe)
 - [Lifehacker] [All The Tools You Need to Clean Your Gutters Without Getting on a Ladder](https://lifehacker.com/home/how-to-clean-your-gutters-without-a-ladder)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Raclette Party Is Exactly What You Need This Winter](https://lifehacker.com/food-drink/what-is-a-raclette-party)
 - [Lifehacker] [You Need Leak Detectors in Your Home, and More Than You Think](https://lifehacker.com/home/home-water-leak-detectors)
 - [Lifehacker] [You Don&#39;t Own the Digital Shows and Movies That You &#39;Bought&#39;](https://lifehacker.com/entertainment/you-dont-own-digital-media)
-- [Lifehacker] [These Are the Best Ways to Study for Your Finals](https://lifehacker.com/family/finals-study-methods)
-- [Lifehacker] [The Meta Quest 2 Is $75 Off at GameStop Right Now](https://lifehacker.com/entertainment/best-meta-quest-2-deal)
-- [Lifehacker] [How to Right-Click on Your Mac](https://lifehacker.com/tech/how-to-right-click-on-mac)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Ways to Study for Your Finals](https://lifehacker.com/family/finals-study-methods)<!-- TECH-POSTS:END -->
 
 ---
 
