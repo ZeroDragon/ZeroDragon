@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Timeless Odyssey in Gaming Excellence](https://dev.to/yaarterasperstar/a-timeless-odyssey-in-gaming-excellence-3276)
 - [Dev.to/JS] [Unlocking the Potential of Blockchain: Exploring the Top Programming Languages for DApp Development](https://dev.to/parth51199/unlocking-the-potential-of-blockchain-exploring-the-top-programming-languages-for-dapp-development-mm9)
 - [Dev.to/JS] [👨🏼‍💻 Building a news app with React Native, Expo Router, and Tanstack Query 📰](https://dev.to/arshadayvid/building-a-news-app-with-react-native-expo-router-and-tanstack-query-48ck)
 - [Dev.to/JS] [ECMAScript v/s JavaScript](https://dev.to/saji37/ecmascript-vs-javascript-48mc)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build REST Endpoints with Node.js and Dynamsoft Vision SDKs](https://dev.to/yushulx/how-to-build-rest-endpoints-with-nodejs-and-dynamsoft-vision-sdks-57lp)
 - [Dev.to/JS] [Using requestAnimationFrame in ReactJS](https://dev.to/savitapatel/using-requestanimationframe-in-reactjs-25f)
 - [Dev.to/JS] [tsParticles 3.0.0 is out. Breaking changes ahead.](https://dev.to/tsparticles/tsparticles-300-is-out-breaking-changes-ahead-3hl1)
-- [Dev.to/JS] [Soroban Snippets: Understanding Assets with Smart Contracts](https://dev.to/z5208980/soroban-snippets-understanding-assets-with-smart-contracts-56n3)
 - [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
 - [Lifehacker] [Use This Workaround to Send High Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
 - [Lifehacker] [The Google Pixel 7 Pro Is on Sale for Its Lowest Price Ever](https://lifehacker.com/tech/google-pixel-7-pro-lowest-price-ever-at-woot)
