@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NEW PC!!!!](https://dev.to/zylog/new-pc-4e9g)
 - [Dev.to/JS] [What is browser based load testing](https://dev.to/gpiechnik/what-is-browser-based-load-testing-27oj)
 - [Dev.to/JS] [Host your website locally to show everyone](https://dev.to/prometheus_78/host-your-website-locally-to-show-everyone-41od)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-5-2023)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How That Viral Wedding Dress Photo Showed a Bride In 3 Different Poses Simultaneously](https://lifehacker.com/tech/viral-panoramic-bridal-gown-photo)
 - [Dev.to/JS] [Which language should you learn first?](https://dev.to/codewithshahan/which-language-should-i-learn-first-in-2024-4koa)
 - [Lifehacker] [The Best Apps for Improving Memory](https://lifehacker.com/tech/best-apps-for-improving-memory)
-- [Dev.to/JS] [Adding a high-contrast theme toggle to a pastel website](https://dev.to/ingosteinke/add-a-high-contrast-theme-toggle-to-a-pastel-website-4kjn)
 - [Lifehacker] [How to Reset Your Windows PC for a Fresh Start](https://lifehacker.com/tech/reset-windows-pc-without-reinstalling-windows)
 - [Lifehacker] [A Raclette Party Is Exactly What You Need This Winter](https://lifehacker.com/food-drink/what-is-a-raclette-party)
 - [Lifehacker] [You Need Leak Detectors in Your Home, and More Than You Think](https://lifehacker.com/home/home-water-leak-detectors)
