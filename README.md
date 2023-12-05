@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [TW Elements v1.1.0 Released!](https://dev.to/mz2387/tw-elements-v110-released-3h0m)
+- [Dev.to/JS] [Angular Interceptors Unleashed: Solving Complex Scenarios with Ease. Practical Use Cases and Examples &lpar;2023&rpar;](https://dev.to/astritshuli/angular-interceptors-unleashed-solving-complex-scenarios-with-ease-practical-use-cases-and-examples-2023-j3k)
+- [Dev.to/JS] [Next.JS in a Nutshell: Rendering](https://dev.to/oktadev/nextjs-in-a-nutshell-5dj1)
 - [Dev.to/JS] [Material Design for Bootstrap Standard 7.1.0 Released!](https://dev.to/mdbootstrap/material-design-for-bootstrap-standard-710-released-48c5)
+- [Dev.to/JS] [TW Elements v1.1.0 Released!](https://dev.to/mz2387/tw-elements-v110-released-3h0m)
 - [Lifehacker] [You Can Turn Your Shop Vac Into a Leaf Blower](https://lifehacker.com/home/use-shop-vac-as-leaf-blower)
 - [Lifehacker] [The 50 Best Christmas Movies You Can Stream Right Now](https://lifehacker.com/entertainment/50-best-christmas-movies)
 - [Dev.to/JS] [Basic Javascript Knowledge: When to use var, let or const?](https://dev.to/apicrud/basic-javascript-knowledge-when-to-use-var-let-or-const-4ff9)
@@ -44,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Folding Kayak is Surprisingly Seaworthy](https://lifehacker.com/health/oru-lake-folding-kayak-review-surprisingly-seaworthy)
 - [Dev.to/JS] [Develop the right thing every time and become a 10x engineer 🏆: The art of writing RFCs 🥋](https://dev.to/wasp/develop-the-right-thing-every-time-and-become-a-10x-engineer-the-art-of-writing-rfcs-2mc6)
 - [Dev.to/JS] [Exploring the Challenges and Innovations in Implementing AI in Best Website Development company in Bangalore](https://dev.to/techjetai/exploring-the-challenges-and-innovations-in-implementing-ai-in-best-website-development-company-in-bangalore-1498)
-- [Dev.to/JS] [Hoje iremos falar sobre a velocidade em percorrer um elemento em JavaScript](https://dev.to/williamkoller/hoje-iremos-falar-sobre-a-velocidade-em-percorrer-um-elemento-em-javascript-4me3)
-- [Dev.to/JS] [Business Card Printing Dubai near me](https://dev.to/villiamvillie/business-card-printing-dubai-near-me-1p06)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-5-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-tuesday-december-5-2023)
 - [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
