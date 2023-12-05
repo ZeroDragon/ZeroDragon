@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Is Copilot and Is It Better Than ChatGPT?](https://lifehacker.com/tech/what-is-microsoft-copilot)
 - [Dev.to/JS] [JavaScript Essentials: A Beginner&#39;s Guide to Data Structures and Algorithms](https://dev.to/mattryanmtl/javascript-essentials-a-beginners-guide-to-data-structures-and-algorithms-ap)
 - [Dev.to/JS] [The Way I Wished JavaScript Went - A New Year&#39;s Wish 🌲](https://dev.to/slobodan4nista/the-way-i-wished-javascript-went-a-new-years-wish-49ce)
+- [Lifehacker] [Spice-infused Oil Is the Key to This Festive Popcorn](https://lifehacker.com/food-drink/holiday-spiced-popcorn-recipe)
+- [Lifehacker] [This Folding Kayak is Surprisingly Seaworthy](https://lifehacker.com/health/oru-lake-folding-kayak-review-surprisingly-seaworthy)
 - [Dev.to/JS] [Develop the right thing every time and become a 10x engineer 🏆: The art of writing RFCs 🥋](https://dev.to/wasp/develop-the-right-thing-every-time-and-become-a-10x-engineer-the-art-of-writing-rfcs-2mc6)
 - [Dev.to/JS] [Exploring the Challenges and Innovations in Implementing AI in Best Website Development company in Bangalore](https://dev.to/techjetai/exploring-the-challenges-and-innovations-in-implementing-ai-in-best-website-development-company-in-bangalore-1498)
 - [Dev.to/JS] [Hoje iremos falar sobre a velocidade em percorrer um elemento em JavaScript](https://dev.to/williamkoller/hoje-iremos-falar-sobre-a-velocidade-em-percorrer-um-elemento-em-javascript-4me3)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Brandy Soaking](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-three)
-- [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)
-- [Lifehacker] [You Can Become a ‘Camp Host’ and Live at National Parks for Free](https://lifehacker.com/money/rv-camp-host-jobs-national-parks)
-- [Lifehacker] [Where to Find the Darkest Skies for Stargazing](https://lifehacker.com/science/darkest-skies-stargazing)
-- [Lifehacker] [Here&#39;s When Rekeying Your Lock Makes More Sense Than Replacing It](https://lifehacker.com/home/when-to-rekey-a-lock)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Two Easy Ways to Fix a Leaky Refrigerator Door](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator-seal)<!-- TECH-POSTS:END -->
 
 ---
 
