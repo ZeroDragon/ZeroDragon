@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [👨🏼‍💻 Building a news app with React Native, Expo Router, and Tanstack Query 📰](https://dev.to/arshadayvid/building-a-news-app-with-react-native-expo-router-and-tanstack-query-48ck)
 - [Dev.to/JS] [ECMAScript v/s JavaScript](https://dev.to/saji37/ecmascript-vs-javascript-48mc)
 - [Dev.to/JS] [Mastering React&#39;s Reconciliation: Elevating Performance and User Experience](https://dev.to/gkhan205/mastering-reacts-reconciliation-elevating-performance-and-user-experience-cfl)
 - [Dev.to/JS] [7 Amazing use cases of Array.from&lpar;&rpar; method in JavaScript](https://dev.to/subaash_b/7-amazing-use-cases-of-arrayfrom-method-in-javascript-50l)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 3.0.0 is out. Breaking changes ahead.](https://dev.to/tsparticles/tsparticles-300-is-out-breaking-changes-ahead-3hl1)
 - [Dev.to/JS] [Soroban Snippets: Understanding Assets with Smart Contracts](https://dev.to/z5208980/soroban-snippets-understanding-assets-with-smart-contracts-56n3)
 - [Dev.to/JS] [Unleashing the Power of CSS: A Must-Use Guide for Squarespace Landing Pages 🚀🎨](https://dev.to/loftydevs/unleashing-the-power-of-css-a-must-use-guide-for-squarespace-landing-pages-7en)
-- [Dev.to/JS] [AdventJS 2023: Day 4 Challenge](https://dev.to/fenriuz/adventjs-2023-day-4-challenge-3knh)
 - [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
 - [Lifehacker] [Use This Workaround to Send High Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
 - [Lifehacker] [The Google Pixel 7 Pro Is on Sale for Its Lowest Price Ever](https://lifehacker.com/tech/google-pixel-7-pro-lowest-price-ever-at-woot)
