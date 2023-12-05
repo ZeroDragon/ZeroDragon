@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lighting Engagement for a Solar-Powered World](https://dev.to/foa123/lighting-engagement-for-a-solar-powered-world-ho5)
 - [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/food-drink/best-gifts-for-coffee-lovers)
 - [Dev.to/JS] [🚀5-Minute Guide to Blazing Fast React Apps🚀](https://dev.to/opensign/5-minute-guide-to-blazing-fast-react-apps-4h5b)
 - [Dev.to/JS] [Day 6 - 30 Days learn Web Dev](https://dev.to/johnc/day-6-30-days-learn-web-dev-14c5)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Scan Documents in Google Files Too](https://lifehacker.com/tech/you-can-now-scan-documents-in-google-files)
 - [Dev.to/JS] [Angular Interceptors Unleashed: Solving Complex Scenarios with Ease. Practical Use Cases and Examples &lpar;2023&rpar;](https://dev.to/astritshuli/angular-interceptors-unleashed-solving-complex-scenarios-with-ease-practical-use-cases-and-examples-2023-j3k)
 - [Lifehacker] [This Braised Red Wine Brisket Is the Perfect December Meal](https://lifehacker.com/food-drink/best-braised-red-wine-brisket-recipe)
-- [Dev.to/JS] [Next.JS in a Nutshell: Rendering](https://dev.to/oktadev/nextjs-in-a-nutshell-5dj1)
 - [Lifehacker] [You Can Turn Your Shop Vac Into a Leaf Blower](https://lifehacker.com/home/use-shop-vac-as-leaf-blower)
 - [Lifehacker] [The 50 Best Christmas Movies You Can Stream Right Now](https://lifehacker.com/entertainment/50-best-christmas-movies)
 - [Lifehacker] [It&#39;s Time to Ditch Evernote for One of These Alternatives](https://lifehacker.com/tech/best-evernote-alternatives)
