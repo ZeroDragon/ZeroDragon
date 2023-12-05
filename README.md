@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Most asked JavaScript Interview Questions🚀](https://dev.to/bugudiramu/most-asked-javascript-interview-questions-19i7)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #1](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-1-2dl4)
 - [Dev.to/JS] [Secure Coding Practices in Python: Mitigating Common Vulnerabilities](https://dev.to/officialintelvue/secure-coding-practices-in-python-mitigating-common-vulnerabilities-4l96)
 - [Dev.to/JS] [Loops the functional way](https://dev.to/efpage/loops-the-functional-way-2jio)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Potential of Blockchain: Exploring the Top Programming Languages for DApp Development](https://dev.to/parth51199/unlocking-the-potential-of-blockchain-exploring-the-top-programming-languages-for-dapp-development-mm9)
 - [Dev.to/JS] [👨🏼‍💻 Building a news app with React Native, Expo Router, and Tanstack Query 📰](https://dev.to/arshadayvid/building-a-news-app-with-react-native-expo-router-and-tanstack-query-48ck)
 - [Dev.to/JS] [ECMAScript v/s JavaScript](https://dev.to/saji37/ecmascript-vs-javascript-48mc)
-- [Dev.to/JS] [Mastering React&#39;s Reconciliation: Elevating Performance and User Experience](https://dev.to/gkhan205/mastering-reacts-reconciliation-elevating-performance-and-user-experience-cfl)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-5-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-tuesday-december-5-2023)
 - [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
