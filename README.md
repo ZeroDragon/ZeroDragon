@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [8 tips to reduce unused JavaScript](https://dev.to/logrocket/8-tips-to-reduce-unused-javascript-1nkk)
+- [Dev.to/JS] [What’s new in AWS Amplify: Features to Build and Scale Fullstack Apps](https://dev.to/aws/whats-new-in-aws-amplify-features-to-build-and-scale-fullstack-apps-4gek)
+- [Dev.to/JS] [GET FREE HIGH DA ARTICLES BACKLINKS AND SUBMIT FREE YOUR ARTICLE ON THIS WEBSITE](https://dev.to/freearticleposts/get-free-high-da-articles-backlinks-and-submit-free-your-article-on-this-website-192f)
+- [Dev.to/JS] [Cloud migration consulting in the UK: Simplifying the Transition for UK Companies with Exato Software](https://dev.to/waqas00517/cloud-migration-consulting-in-the-uk-simplifying-the-transition-for-uk-companies-with-exato-software-350f)
+- [Lifehacker] [You Can Now Scan Documents in Google Files Too](https://lifehacker.com/tech/you-can-now-scan-documents-in-google-files)
 - [Dev.to/JS] [Angular Interceptors Unleashed: Solving Complex Scenarios with Ease. Practical Use Cases and Examples &lpar;2023&rpar;](https://dev.to/astritshuli/angular-interceptors-unleashed-solving-complex-scenarios-with-ease-practical-use-cases-and-examples-2023-j3k)
+- [Lifehacker] [This Braised Red Wine Brisket Is the Perfect December Meal](https://lifehacker.com/food-drink/best-braised-red-wine-brisket-recipe)
 - [Dev.to/JS] [Next.JS in a Nutshell: Rendering](https://dev.to/oktadev/nextjs-in-a-nutshell-5dj1)
 - [Dev.to/JS] [Material Design for Bootstrap Standard 7.1.0 Released!](https://dev.to/mdbootstrap/material-design-for-bootstrap-standard-710-released-48c5)
 - [Dev.to/JS] [TW Elements v1.1.0 Released!](https://dev.to/mz2387/tw-elements-v110-released-3h0m)
@@ -40,12 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make This Elevated Applesauce Immediately](https://lifehacker.com/food-drink/best-homemade-applesauce-recipe)
 - [Lifehacker] [All The Tools You Need to Clean Your Gutters Without Getting on a Ladder](https://lifehacker.com/home/how-to-clean-your-gutters-without-a-ladder)
 - [Lifehacker] [What Is Copilot and Is It Better Than ChatGPT?](https://lifehacker.com/tech/what-is-microsoft-copilot)
-- [Dev.to/JS] [JavaScript Essentials: A Beginner&#39;s Guide to Data Structures and Algorithms](https://dev.to/mattryanmtl/javascript-essentials-a-beginners-guide-to-data-structures-and-algorithms-ap)
-- [Dev.to/JS] [The Way I Wished JavaScript Went - A New Year&#39;s Wish 🌲](https://dev.to/slobodan4nista/the-way-i-wished-javascript-went-a-new-years-wish-49ce)
 - [Lifehacker] [Spice-infused Oil Is the Key to This Festive Popcorn](https://lifehacker.com/food-drink/holiday-spiced-popcorn-recipe)
 - [Lifehacker] [This Folding Kayak is Surprisingly Seaworthy](https://lifehacker.com/health/oru-lake-folding-kayak-review-surprisingly-seaworthy)
-- [Dev.to/JS] [Develop the right thing every time and become a 10x engineer 🏆: The art of writing RFCs 🥋](https://dev.to/wasp/develop-the-right-thing-every-time-and-become-a-10x-engineer-the-art-of-writing-rfcs-2mc6)
-- [Dev.to/JS] [Exploring the Challenges and Innovations in Implementing AI in Best Website Development company in Bangalore](https://dev.to/techjetai/exploring-the-challenges-and-innovations-in-implementing-ai-in-best-website-development-company-in-bangalore-1498)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-5-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-tuesday-december-5-2023)
 - [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best R-Rated Movies You Can Actually Watch With Your Kid](https://lifehacker.com/entertainment/r-rated-movies-to-watch-with-kids)
 - [Lifehacker] [12 of the Best Christmas Podcasts to Binge This Holiday Season](https://lifehacker.com/entertainment/best-christmas-podcasts-to-binge-over-the-holidays)
 - [Lifehacker] [What the New Lead Pipe Replacement Laws Mean for Homeowners](https://lifehacker.com/home/what-the-new-lead-pipe-replacement-laws-mean-for-homeowners)
-- [Lifehacker] [The Combustion Predictive Thermometer Has Eight Sensors to Formulate a Cooking Time](https://lifehacker.com/tech/combustion-predictive-thermometer-review)
-- [Lifehacker] [The Easiest Ways to Use Split-Screen Multitasking on Mac](https://lifehacker.com/tech/how-to-use-split-screen-multitasking-on-mac)
-- [Lifehacker] [The Gardening Tasks You Should Do Now to Get Ready for Spring](https://lifehacker.com/home/december-gardening-tasks)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Combustion Predictive Thermometer Has Eight Sensors to Formulate a Cooking Time](https://lifehacker.com/tech/combustion-predictive-thermometer-review)<!-- TECH-POSTS:END -->
 
 ---
 
