@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TW Elements v1.1.0 Released!](https://dev.to/mz2387/tw-elements-v110-released-3h0m)
+- [Dev.to/JS] [Material Design for Bootstrap Standard 7.1.0 Released!](https://dev.to/mdbootstrap/material-design-for-bootstrap-standard-710-released-48c5)
+- [Lifehacker] [You Can Turn Your Shop Vac Into a Leaf Blower](https://lifehacker.com/home/use-shop-vac-as-leaf-blower)
+- [Lifehacker] [The 50 Best Christmas Movies You Can Stream Right Now](https://lifehacker.com/entertainment/50-best-christmas-movies)
 - [Dev.to/JS] [Basic Javascript Knowledge: When to use var, let or const?](https://dev.to/apicrud/basic-javascript-knowledge-when-to-use-var-let-or-const-4ff9)
+- [Lifehacker] [It&#39;s Time to Ditch Evernote for One of These Alternatives](https://lifehacker.com/tech/best-evernote-alternatives)
 - [Dev.to/JS] [JavaScriptmas 2023 Solutions](https://dev.to/sinaghadimi/javascriptmas-2023-solutions-59oc)
 - [Dev.to/JS] [AdventJS Challenge 4, midudev 2023 - Turn the parentheses around](https://dev.to/juneikerc/adventjs-challenge-4-midudev-2023-turn-the-parentheses-around-5ehi)
 - [Dev.to/JS] [5 best JavaScript multidimensional array libraries](https://dev.to/logrocket/5-best-javascript-multidimensional-array-libraries-16mj)
@@ -41,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Challenges and Innovations in Implementing AI in Best Website Development company in Bangalore](https://dev.to/techjetai/exploring-the-challenges-and-innovations-in-implementing-ai-in-best-website-development-company-in-bangalore-1498)
 - [Dev.to/JS] [Hoje iremos falar sobre a velocidade em percorrer um elemento em JavaScript](https://dev.to/williamkoller/hoje-iremos-falar-sobre-a-velocidade-em-percorrer-um-elemento-em-javascript-4me3)
 - [Dev.to/JS] [Business Card Printing Dubai near me](https://dev.to/villiamvillie/business-card-printing-dubai-near-me-1p06)
-- [Dev.to/JS] [Key features of a modern web page](https://dev.to/sparkouttech/key-features-of-a-modern-web-page-c1n)
-- [Dev.to/JS] [Elevating Web Application Development With AngularJs Development Company](https://dev.to/mrarnold135/elevating-web-application-development-with-angularjs-development-company-4ndl)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-5-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-tuesday-december-5-2023)
 - [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What the New Lead Pipe Replacement Laws Mean for Homeowners](https://lifehacker.com/home/what-the-new-lead-pipe-replacement-laws-mean-for-homeowners)
 - [Lifehacker] [The Combustion Predictive Thermometer Has Eight Sensors to Formulate a Cooking Time](https://lifehacker.com/tech/combustion-predictive-thermometer-review)
 - [Lifehacker] [The Easiest Ways to Use Split-Screen Multitasking on Mac](https://lifehacker.com/tech/how-to-use-split-screen-multitasking-on-mac)
-- [Lifehacker] [The Gardening Tasks You Should Do Now to Get Ready for Spring](https://lifehacker.com/home/december-gardening-tasks)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-4-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 4, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-4-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 3, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-3-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Gardening Tasks You Should Do Now to Get Ready for Spring](https://lifehacker.com/home/december-gardening-tasks)<!-- TECH-POSTS:END -->
 
 ---
 
