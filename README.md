@@ -26,11 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build REST Endpoints with Node.js and Dynamsoft Vision SDKs](https://dev.to/yushulx/how-to-build-rest-endpoints-with-nodejs-and-dynamsoft-vision-sdks-57lp)
 - [Dev.to/JS] [Using requestAnimationFrame in ReactJS](https://dev.to/savitapatel/using-requestanimationframe-in-reactjs-25f)
 - [Dev.to/JS] [tsParticles 3.0.0 is out. Breaking changes ahead.](https://dev.to/tsparticles/tsparticles-300-is-out-breaking-changes-ahead-3hl1)
 - [Dev.to/JS] [Soroban Snippets: Understanding Assets with Smart Contracts](https://dev.to/z5208980/soroban-snippets-understanding-assets-with-smart-contracts-56n3)
 - [Dev.to/JS] [Unleashing the Power of CSS: A Must-Use Guide for Squarespace Landing Pages 🚀🎨](https://dev.to/loftydevs/unleashing-the-power-of-css-a-must-use-guide-for-squarespace-landing-pages-7en)
 - [Dev.to/JS] [AdventJS 2023: Day 4 Challenge](https://dev.to/fenriuz/adventjs-2023-day-4-challenge-3knh)
+- [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 4](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-4-2h4g)
 - [Lifehacker] [Use This Workaround to Send High Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
 - [Dev.to/JS] [Auto scaling Node.js applications with PM2 and pm2-autoscale module](https://dev.to/vexell/auto-scaling-nodejs-applications-with-pm2-and-pm2-autoscale-module-60h)
@@ -44,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recreating Mastodons Audio Player as a Web Component](https://dev.to/reggi/recreating-mastodons-audio-player-as-a-web-component-4l7h)
 - [Dev.to/JS] [How To Build a Node.js Express App in Under 5 Minutes?](https://dev.to/lakinduhewawasam/how-to-build-a-nodejs-express-app-in-under-5-minutes-104d)
 - [Lifehacker] [You Need Leak Detectors in Your Home, and More Than You Think](https://lifehacker.com/home/home-water-leak-detectors)
-- [Dev.to/JS] [The Top 10 npm Packages You Can&#39;t Afford to Miss as a Developer 😘](https://dev.to/sufian/the-top-10-npm-packages-you-cant-afford-to-miss-as-a-developer-39c5)
 - [Lifehacker] [You Don&#39;t Own the Digital Shows and Movies That You &#39;Bought&#39;](https://lifehacker.com/entertainment/you-dont-own-digital-media)
 - [Lifehacker] [These Are the Best Ways to Study for Your Finals](https://lifehacker.com/family/finals-study-methods)
 - [Lifehacker] [The Meta Quest 2 Is $75 Off at GameStop Right Now](https://lifehacker.com/entertainment/best-meta-quest-2-deal)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Find the Darkest Skies for Stargazing](https://lifehacker.com/science/darkest-skies-stargazing)
 - [Lifehacker] [Here&#39;s When Rekeying Your Lock Makes More Sense Than Replacing It](https://lifehacker.com/home/when-to-rekey-a-lock)
 - [Lifehacker] [You Should Install One of These Remote Controls for Your Older Ceiling Fan](https://lifehacker.com/home/ceiling-fan-remote-control)
-- [Lifehacker] [Why You Need to Clean Algae From Your Wood Deck &lpar;and How to Do It&rpar;](https://lifehacker.com/home/clean-algae-wood-deck)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 2, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-2-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Need to Clean Algae From Your Wood Deck &lpar;and How to Do It&rpar;](https://lifehacker.com/home/clean-algae-wood-deck)<!-- TECH-POSTS:END -->
 
 ---
 
