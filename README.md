@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using requestAnimationFrame in ReactJS](https://dev.to/savitapatel/using-requestanimationframe-in-reactjs-25f)
+- [Dev.to/JS] [tsParticles 3.0.0 is out. Breaking changes ahead.](https://dev.to/tsparticles/tsparticles-300-is-out-breaking-changes-ahead-3hl1)
+- [Dev.to/JS] [Soroban Snippets: Understanding Assets with Smart Contracts](https://dev.to/z5208980/soroban-snippets-understanding-assets-with-smart-contracts-56n3)
 - [Dev.to/JS] [Unleashing the Power of CSS: A Must-Use Guide for Squarespace Landing Pages 🚀🎨](https://dev.to/loftydevs/unleashing-the-power-of-css-a-must-use-guide-for-squarespace-landing-pages-7en)
 - [Dev.to/JS] [AdventJS 2023: Day 4 Challenge](https://dev.to/fenriuz/adventjs-2023-day-4-challenge-3knh)
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 4](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-4-2h4g)
@@ -43,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need Leak Detectors in Your Home, and More Than You Think](https://lifehacker.com/home/home-water-leak-detectors)
 - [Dev.to/JS] [The Top 10 npm Packages You Can&#39;t Afford to Miss as a Developer 😘](https://dev.to/sufian/the-top-10-npm-packages-you-cant-afford-to-miss-as-a-developer-39c5)
 - [Lifehacker] [You Don&#39;t Own the Digital Shows and Movies That You &#39;Bought&#39;](https://lifehacker.com/entertainment/you-dont-own-digital-media)
-- [Dev.to/JS] [JavaScriptmas 2023 - Week 1](https://dev.to/michaellarocca/javascriptmas-2023-week-1-16f3)
 - [Lifehacker] [These Are the Best Ways to Study for Your Finals](https://lifehacker.com/family/finals-study-methods)
-- [Dev.to/JS] [Understanding JavaScript&#39;s Object-String Comparison](https://dev.to/vivek96_/understanding-javascripts-object-string-comparison-23gi)
-- [Dev.to/JS] [Docusaurus Site Search Plugin](https://dev.to/alakkadshaw/docusaurus-site-search-plugin-2cp)
 - [Lifehacker] [The Meta Quest 2 Is $75 Off at GameStop Right Now](https://lifehacker.com/entertainment/best-meta-quest-2-deal)
 - [Lifehacker] [How to Right-Click on Your Mac](https://lifehacker.com/tech/how-to-right-click-on-mac)
 - [Lifehacker] [The Best R-Rated Movies You Can Actually Watch With Your Kid](https://lifehacker.com/entertainment/r-rated-movies-to-watch-with-kids)
