@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Essentials: A Beginner&#39;s Guide to Data Structures and Algorithms](https://dev.to/mattryanmtl/javascript-essentials-a-beginners-guide-to-data-structures-and-algorithms-ap)
+- [Dev.to/JS] [The Way I Wished JavaScript Went - A New Year&#39;s Wish 🌲](https://dev.to/slobodan4nista/the-way-i-wished-javascript-went-a-new-years-wish-49ce)
+- [Dev.to/JS] [Develop the right thing every time and become a 10x engineer 🏆: The art of writing RFCs 🥋](https://dev.to/wasp/develop-the-right-thing-every-time-and-become-a-10x-engineer-the-art-of-writing-rfcs-2mc6)
 - [Dev.to/JS] [Exploring the Challenges and Innovations in Implementing AI in Best Website Development company in Bangalore](https://dev.to/techjetai/exploring-the-challenges-and-innovations-in-implementing-ai-in-best-website-development-company-in-bangalore-1498)
 - [Dev.to/JS] [Hoje iremos falar sobre a velocidade em percorrer um elemento em JavaScript](https://dev.to/williamkoller/hoje-iremos-falar-sobre-a-velocidade-em-percorrer-um-elemento-em-javascript-4me3)
 - [Dev.to/JS] [Business Card Printing Dubai near me](https://dev.to/villiamvillie/business-card-printing-dubai-near-me-1p06)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Most asked JavaScript Interview Questions🚀](https://dev.to/bugudiramu/most-asked-javascript-interview-questions-19i7)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #1](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-1-2dl4)
 - [Dev.to/JS] [Secure Coding Practices in Python: Mitigating Common Vulnerabilities](https://dev.to/officialintelvue/secure-coding-practices-in-python-mitigating-common-vulnerabilities-4l96)
-- [Dev.to/JS] [Loops the functional way](https://dev.to/efpage/loops-the-functional-way-2jio)
-- [Dev.to/JS] [AI-Driven Business Applications – Personalized Approach To Revolutionizing Your Business](https://dev.to/alesiasirotka/ai-driven-business-applications-personalized-approach-to-revolutionizing-your-business-43k8)
-- [Dev.to/JS] [Generate Business Applications From Description With Flatlogic Generator!](https://dev.to/flatlogic/generate-business-applications-from-description-with-flatlogic-generator-59d7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-5-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-tuesday-december-5-2023)
 - [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
