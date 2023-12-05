@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ECMAScript v/s JavaScript](https://dev.to/saji37/ecmascript-vs-javascript-48mc)
+- [Dev.to/JS] [Mastering React&#39;s Reconciliation: Elevating Performance and User Experience](https://dev.to/gkhan205/mastering-reacts-reconciliation-elevating-performance-and-user-experience-cfl)
+- [Dev.to/JS] [7 Amazing use cases of Array.from&lpar;&rpar; method in JavaScript](https://dev.to/subaash_b/7-amazing-use-cases-of-arrayfrom-method-in-javascript-50l)
 - [Dev.to/JS] [NEW PC!!!!](https://dev.to/zylog/new-pc-4e9g)
 - [Dev.to/JS] [What is browser based load testing](https://dev.to/gpiechnik/what-is-browser-based-load-testing-27oj)
 - [Dev.to/JS] [Host your website locally to show everyone](https://dev.to/prometheus_78/host-your-website-locally-to-show-everyone-41od)
@@ -38,12 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the Power of CSS: A Must-Use Guide for Squarespace Landing Pages 🚀🎨](https://dev.to/loftydevs/unleashing-the-power-of-css-a-must-use-guide-for-squarespace-landing-pages-7en)
 - [Dev.to/JS] [AdventJS 2023: Day 4 Challenge](https://dev.to/fenriuz/adventjs-2023-day-4-challenge-3knh)
 - [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
-- [Dev.to/JS] [AdventJS 2023: Reto del Día 4](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-4-2h4g)
 - [Lifehacker] [Use This Workaround to Send High Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
-- [Dev.to/JS] [Auto scaling Node.js applications with PM2 and pm2-autoscale module](https://dev.to/vexell/auto-scaling-nodejs-applications-with-pm2-and-pm2-autoscale-module-60h)
 - [Lifehacker] [The Google Pixel 7 Pro Is on Sale for Its Lowest Price Ever](https://lifehacker.com/tech/google-pixel-7-pro-lowest-price-ever-at-woot)
 - [Lifehacker] [How That Viral Wedding Dress Photo Showed a Bride In 3 Different Poses Simultaneously](https://lifehacker.com/tech/viral-panoramic-bridal-gown-photo)
-- [Dev.to/JS] [Which language should you learn first?](https://dev.to/codewithshahan/which-language-should-i-learn-first-in-2024-4koa)
 - [Lifehacker] [The Best Apps for Improving Memory](https://lifehacker.com/tech/best-apps-for-improving-memory)
 - [Lifehacker] [How to Reset Your Windows PC for a Fresh Start](https://lifehacker.com/tech/reset-windows-pc-without-reinstalling-windows)
 - [Lifehacker] [A Raclette Party Is Exactly What You Need This Winter](https://lifehacker.com/food-drink/what-is-a-raclette-party)
