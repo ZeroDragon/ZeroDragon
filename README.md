@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Increasing the Touchable Area for a View](https://dev.to/surhidamatya/increasing-the-touchable-area-for-a-view-3n99)
+- [Dev.to/JS] [Introducing IoT Application Powered by Flatlogic AI Generator](https://dev.to/flatlogic/introducing-iot-application-powered-by-flatlogic-ai-generator-328n)
+- [Dev.to/JS] [Something went wrong installing the &quot;sharp&quot; module and Cannot find module &#39;../build/Release/sharp.node&#39; in react native](https://dev.to/surhidamatya/something-went-wrong-installing-the-sharp-module-and-cannot-find-module-buildreleasesharpnode-in-react-native-415h)
+- [Dev.to/JS] [Something went wrong installing the &quot;sharp&quot; module and Cannot find module &#39;../build/Release/sharp.node&#39; in react native](https://dev.to/surhidamatya/something-went-wrong-installing-the-sharp-module-and-cannot-find-module-buildreleasesharpnode-in-react-native-2bbp)
+- [Dev.to/JS] [Phòng Khám Đa Khoa Tháng Tám: Khám chữa bệnh an toàn uy tín](https://dev.to/dkdthut/phong-kham-da-khoa-thang-tam-kham-chua-benh-an-toan-uy-tin-45bg)
 - [Dev.to/JS] [💻 Web Development Resources #177](https://dev.to/vincenius/web-development-resources-177-4gal)
 - [Dev.to/JS] [Unveiling the Role of Energy Web Chain Nodes in Sustainable Blockchain Networks](https://dev.to/mepak2/unveiling-the-role-of-energy-web-chain-nodes-in-sustainable-blockchain-networks-4b55)
 - [Dev.to/JS] [How Earn Millions Through The Internet!! Don&#39;t Miss](https://dev.to/infomonkk/how-earn-millions-through-the-internet-dont-miss-2222)
 - [Dev.to/JS] [Functional Programming in JavaScript](https://dev.to/jgdevelopments/functional-programming-in-javascript-1paj)
 - [Dev.to/JS] [React JS Superpower - Virtual DOM](https://dev.to/mainak0907/react-js-superpower-virtual-dom-178d)
-- [Dev.to/JS] [React&#39;s Next Frontier: Embracing Cutting-Edge Features](https://dev.to/mourya_modugula/reacts-next-frontier-embracing-cutting-edge-features-2ka3)
 - [Dev.to/JS] [Building a Resizable and Sortable HTML Table with Ease](https://dev.to/sohrabzia/building-a-resizable-and-sortable-html-table-with-ease-2a0e)
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 5](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-5-1dpk)
-- [Dev.to/JS] [What Is TypeScript In Nodejs: Benefits Of TypeScript](https://dev.to/learn-to-earn/what-is-typescript-in-nodejs-benefits-of-typescript-4b2m)
-- [Dev.to/JS] [Distribute data from layout.tsx to Server/Client components with Next.js AppRouter](https://dev.to/sorakumo001/distribute-data-from-layouttsx-to-serverclient-components-with-nextjs-approuter-2ieb)
-- [Dev.to/JS] [Grab, food delivering](https://dev.to/morgild/grab-food-delivering-g98)
-- [Dev.to/JS] [Ocean swimming, diving](https://dev.to/morgild/ocean-swimming-diving-17om)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
 - [Lifehacker] [Beeper Mini Might Be the iMessage-on-Android App We’ve Been Waiting For](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
