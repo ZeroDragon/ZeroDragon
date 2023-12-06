@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React JS Superpower - Virtual DOM](https://dev.to/mainak0907/react-js-superpower-virtual-dom-178d)
+- [Dev.to/JS] [React&#39;s Next Frontier: Embracing Cutting-Edge Features](https://dev.to/mourya_modugula/reacts-next-frontier-embracing-cutting-edge-features-2ka3)
+- [Dev.to/JS] [Building a Resizable and Sortable HTML Table with Ease](https://dev.to/sohrabzia/building-a-resizable-and-sortable-html-table-with-ease-2a0e)
+- [Dev.to/JS] [AdventJS 2023: Reto del Día 5](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-5-1dpk)
+- [Dev.to/JS] [What Is TypeScript In Nodejs: Benefits Of TypeScript](https://dev.to/learn-to-earn/what-is-typescript-in-nodejs-benefits-of-typescript-4b2m)
 - [Dev.to/JS] [Distribute data from layout.tsx to Server/Client components with Next.js AppRouter](https://dev.to/sorakumo001/distribute-data-from-layouttsx-to-serverclient-components-with-nextjs-approuter-2ieb)
 - [Dev.to/JS] [Grab, food delivering](https://dev.to/morgild/grab-food-delivering-g98)
 - [Dev.to/JS] [Ocean swimming, diving](https://dev.to/morgild/ocean-swimming-diving-17om)
@@ -35,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
 - [Dev.to/JS] [Sunset flower](https://dev.to/morgild/sunset-flower-49df)
 - [Dev.to/JS] [Red house winter](https://dev.to/morgild/red-house-winter-4b65)
-- [Dev.to/JS] [A man riding a wave](https://dev.to/morgild/a-man-riding-a-wave-36nf)
-- [Dev.to/JS] [A bird flying over a big building](https://dev.to/morgild/a-bird-flying-over-a-big-building-2lp0)
-- [Dev.to/JS] [marco cierpe](https://dev.to/mcierpe1/marco-cierpe-2ol8)
-- [Dev.to/JS] [Scratchcards](https://dev.to/rmion/scratchcards-5dad)
-- [Dev.to/JS] [How to monetize your custom GPT application today](https://dev.to/gergomiklos/how-to-monetize-your-custom-gpt-application-today-3253)
 - [Lifehacker] [Beeper Mini Might Be the iMessage-on-Android App We’ve Been Waiting For](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
 - [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
 - [Lifehacker] [Here&#39;s the Easiest Way to Make Chips Saltier](https://lifehacker.com/food-drink/easiest-way-to-make-chips-saltier)
