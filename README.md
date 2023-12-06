@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Full-Stack Web App with Next.js 14, Resend &amp; Supabase](https://dev.to/guillaumeduhan/building-a-full-stack-web-app-with-nextjs-14-resend-supabase-1kkh)
+- [Dev.to/JS] [tsParticles 3.0.2 Released](https://dev.to/tsparticles/tsparticles-302-released-29e9)
 - [Dev.to/JS] [Part 5: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-5-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-k1b)
 - [Dev.to/JS] [Java vs JavaScript: A Quirky Exploration of Programming Languages](https://dev.to/paulnoth/java-vs-javascript-a-quirky-exploration-of-programming-languages-163i)
 - [Dev.to/JS] [10 FREE Frontend Certificates for Web Warriors](https://dev.to/codewithshahan/10-free-frontend-certificates-for-web-warriors-56a0)
+- [Lifehacker] [Why Water Beads Are Actually Dangerous for Kids](https://lifehacker.com/family/why-water-beads-are-dangerous-for-kids)
+- [Lifehacker] [How to Get Hulu Content on Disney+ Right Now](https://lifehacker.com/entertainment/hulu-on-disney-plus)
 - [Lifehacker] [How Amazon Prime Student Members Can Get a $25 Flight Home for the Holidays](https://lifehacker.com/travel/amazon-prime-student-25-dollar-holiday-flights-giveaway)
 - [Dev.to/JS] [Translating using Transformers.js, Poolifer &amp; Xenova/nllb-200-distilled-600M](https://dev.to/calumk/translating-using-transformersjs-poolifer-xenovanllb-200-distilled-600m-2p7c)
 - [Dev.to/JS] [Day 7 - 30 Days learn Web Dev](https://dev.to/johnc/day-7-30-days-learn-web-dev-2mkh)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [✨♻️ Визуализируя JavaScript. Часть 2/7: цикл событий [перевод]](https://dev.to/mari_banana/vizualiziruia-javascript-2-tsikl-sobytii-pierievod-3a09)
 - [Lifehacker] [The Best Tool Gifts for Landscaping and Garden Enthusiasts](https://lifehacker.com/home/best-tool-gifts-for-landscaping-and-garden-enthusiasts)
 - [Dev.to/JS] [How to Add a Vue Pivot Table to Your Web Application](https://dev.to/mescius/how-to-add-a-vue-pivot-table-to-your-web-application-2k1j)
-- [Dev.to/JS] [My Experience with NextJs and TailwindCSS](https://dev.to/atharvasune/my-experience-with-nextjs-and-tailwindcss-2pha)
-- [Dev.to/JS] [JavaScript Objects: Your Quick Guide](https://dev.to/ptheodosiou/javascript-objects-your-quick-guide-4j8p)
 - [Lifehacker] [The Most Common DIY Injuries and How to Prevent Them](https://lifehacker.com/home/avoid-these-common-diy-injuries)
 - [Lifehacker] [The 33 Buzziest Awards Movies &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/best-awards-movies)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Next Monitor Needs a KVM Switch](https://lifehacker.com/tech/your-next-monitor-needs-a-kvm-switch)
 - [Lifehacker] [Ace Your Finals With These Helpful Study Tools](https://lifehacker.com/family/best-study-tools-finals-week)
 - [Lifehacker] [You Can Get an Extra Wireless Xbox Controller for $35 Right Now](https://lifehacker.com/entertainment/xbox-controller-sale)
-- [Lifehacker] [You Can Now Scan Documents in Google Files Too](https://lifehacker.com/tech/you-can-now-scan-documents-in-google-files)
-- [Lifehacker] [This Braised Red Wine Brisket Is the Perfect December Meal](https://lifehacker.com/food-drink/best-braised-red-wine-brisket-recipe)
-- [Lifehacker] [You Can Turn Your Shop Vac Into a Leaf Blower](https://lifehacker.com/home/use-shop-vac-as-leaf-blower)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Scan Documents in Google Files Too](https://lifehacker.com/tech/you-can-now-scan-documents-in-google-files)<!-- TECH-POSTS:END -->
 
 ---
 
