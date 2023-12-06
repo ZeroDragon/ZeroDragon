@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Explain what is higher order function by Pikachu](https://dev.to/kaziusan/explain-what-is-higher-order-function-by-pikachu-5h99)
+- [Dev.to/JS] [Exploring the Latest JavaScript Frontiers at DevWorld Conference 2024 🚀](https://dev.to/devworld_conf/exploring-the-latest-javascript-frontiers-at-devworld-conference-2024-5d3g)
+- [Dev.to/JS] [tsParticles 3.0.1 Released](https://dev.to/tsparticles/tsparticles-301-released-3nbh)
+- [Dev.to/JS] [This or that?](https://dev.to/pulimoodan/this-or-that-162j)
 - [Dev.to/JS] [Increasing the Touchable Area for a View](https://dev.to/surhidamatya/increasing-the-touchable-area-for-a-view-3n99)
 - [Dev.to/JS] [Introducing IoT Application Powered by Flatlogic AI Generator](https://dev.to/flatlogic/introducing-iot-application-powered-by-flatlogic-ai-generator-328n)
 - [Dev.to/JS] [Something went wrong installing the &quot;sharp&quot; module and Cannot find module &#39;../build/Release/sharp.node&#39; in react native](https://dev.to/surhidamatya/something-went-wrong-installing-the-sharp-module-and-cannot-find-module-buildreleasesharpnode-in-react-native-415h)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [💻 Web Development Resources #177](https://dev.to/vincenius/web-development-resources-177-4gal)
 - [Dev.to/JS] [Unveiling the Role of Energy Web Chain Nodes in Sustainable Blockchain Networks](https://dev.to/mepak2/unveiling-the-role-of-energy-web-chain-nodes-in-sustainable-blockchain-networks-4b55)
 - [Dev.to/JS] [How Earn Millions Through The Internet!! Don&#39;t Miss](https://dev.to/infomonkk/how-earn-millions-through-the-internet-dont-miss-2222)
-- [Dev.to/JS] [Functional Programming in JavaScript](https://dev.to/jgdevelopments/functional-programming-in-javascript-1paj)
-- [Dev.to/JS] [React JS Superpower - Virtual DOM](https://dev.to/mainak0907/react-js-superpower-virtual-dom-178d)
-- [Dev.to/JS] [Building a Resizable and Sortable HTML Table with Ease](https://dev.to/sohrabzia/building-a-resizable-and-sortable-html-table-with-ease-2a0e)
-- [Dev.to/JS] [AdventJS 2023: Reto del Día 5](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-5-1dpk)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
 - [Lifehacker] [Beeper Mini Might Be the iMessage-on-Android App We’ve Been Waiting For](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
