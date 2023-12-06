@@ -26,18 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add Runtime Data Binding to Your Angular Reporting App](https://dev.to/mescius/how-to-add-runtime-data-binding-to-your-angular-reporting-app-33hf)
+- [Dev.to/JS] [✨♻️ Визуализируя JavaScript. Часть 2/7: цикл событий [перевод]](https://dev.to/mari_banana/vizualiziruia-javascript-2-tsikl-sobytii-pierievod-3a09)
+- [Lifehacker] [The Best Tool Gifts for Landscaping and Garden Enthusiasts](https://lifehacker.com/home/best-tool-gifts-for-landscaping-and-garden-enthusiasts)
+- [Dev.to/JS] [How to Add a Vue Pivot Table to Your Web Application](https://dev.to/mescius/how-to-add-a-vue-pivot-table-to-your-web-application-2k1j)
+- [Dev.to/JS] [My Experience with NextJs and TailwindCSS](https://dev.to/atharvasune/my-experience-with-nextjs-and-tailwindcss-2pha)
+- [Dev.to/JS] [JavaScript Objects: Your Quick Guide](https://dev.to/ptheodosiou/javascript-objects-your-quick-guide-4j8p)
+- [Dev.to/JS] [Organize your library with subpath exports 🗄️](https://dev.to/receter/organize-your-library-with-subpath-exports-4jb9)
+- [Dev.to/JS] [Building a CRUD application with React, TypeScript, TypeORM, MySQL, GraphQL, and NodeJs | Part A](https://dev.to/grayxcode/building-a-crud-application-with-react-typescript-typeorm-mysql-graphql-and-nodejs-part-a-22hd)
+- [Dev.to/JS] [You are JS noob without knowing these methods](https://dev.to/milanx/you-are-js-noob-without-knowing-these-methods-2of1)
+- [Dev.to/JS] [How does history.js work?](https://dev.to/luicoding/how-does-historyjs-work-4oin)
+- [Dev.to/JS] [MDB5 Angular 5.2.0 is online!](https://dev.to/mdbootstrap/mdb5-angular-520-is-online-1bhk)
+- [Lifehacker] [The Most Common DIY Injuries and How to Prevent Them](https://lifehacker.com/home/avoid-these-common-diy-injuries)
 - [Dev.to/JS] [Color Guessing Game JavaScript Project With Source Code](https://dev.to/codingcss/color-guessing-game-javascript-project-with-source-code-b9)
 - [Dev.to/JS] [Open-graph image generation with Astro](https://dev.to/jxd-dev/open-graph-image-generation-with-astro-gnp)
-- [Dev.to/JS] [Different between ls and pwd command](https://dev.to/javatute673/different-between-ls-and-pwd-command-15al)
-- [Dev.to/JS] [How to check pod logs in Kubernetes](https://dev.to/javatute673/how-to-check-pod-logs-in-kubernetes-52pm)
-- [Dev.to/JS] [How to check remaining space in Linux](https://dev.to/javatute673/how-to-check-remaining-space-in-linux-3a87)
-- [Dev.to/JS] [How to get pod details in Kubernetes](https://dev.to/javatute673/how-to-get-pod-details-in-kubernetes-42d7)
-- [Dev.to/JS] [Spring Batch Example to read Data from the Database and write to Excel](https://dev.to/javatute673/spring-batch-example-to-read-data-from-the-database-and-write-to-excel-2bgo)
-- [Dev.to/JS] [Spring Batch Scheduler Example using Spring Boot](https://dev.to/javatute673/spring-batch-scheduler-example-using-spring-boot-ooi)
-- [Dev.to/JS] [A decade of dotenv](https://dev.to/a0viedo/a-decade-of-dotenv-k82)
-- [Dev.to/JS] [How to send post body using restTemplate as x-www-form-urlencoded](https://dev.to/javatute673/how-to-send-post-body-using-resttemplate-as-x-www-form-urlencoded-12nm)
-- [Dev.to/JS] [Como melhorar o desempenho da sua aplicação em React de forma simples e rápida](https://dev.to/isabelrubim/como-melhorar-o-desempenho-da-sua-aplicacao-em-react-de-forma-simples-e-rapida-389c)
-- [Dev.to/JS] [React is Slower Than Vanilla JS ?](https://dev.to/nikl/react-is-slower-than-vanilla-js--pfo)
+- [Lifehacker] [The 33 Buzziest Awards Movies &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/best-awards-movies)
+- [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
+- [Lifehacker] [Here&#39;s How to Get Your Apple Watch Fitness Year in Review](https://lifehacker.com/tech/apple-watch-fitness-year-in-review)
+- [Lifehacker] [Four Tricks to Get Around ChatGPT’s Character Limit](https://lifehacker.com/tech/four-ways-to-get-around-chatgpts-character-limit)
 - [Lifehacker] [Three Ways to DIY a Last-minute Menorah](https://lifehacker.com/home/diy-a-last-minute-menorah-for-hannukah)
 - [Lifehacker] [The Best Gifts for DIYers and Woodworkers](https://lifehacker.com/home/tool-gifts-for-diy-woodworkers)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
@@ -59,13 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 50 Best Christmas Movies You Can Stream Right Now](https://lifehacker.com/entertainment/50-best-christmas-movies)
 - [Lifehacker] [It&#39;s Time to Ditch Evernote for One of These Alternatives](https://lifehacker.com/tech/best-evernote-alternatives)
 - [Lifehacker] [You Should Make This Elevated Applesauce Immediately](https://lifehacker.com/food-drink/best-homemade-applesauce-recipe)
-- [Lifehacker] [All The Tools You Need to Clean Your Gutters Without Getting on a Ladder](https://lifehacker.com/home/how-to-clean-your-gutters-without-a-ladder)
-- [Lifehacker] [What Is Copilot and Is It Better Than ChatGPT?](https://lifehacker.com/tech/what-is-microsoft-copilot)
-- [Lifehacker] [Spice-infused Oil Is the Key to This Festive Popcorn](https://lifehacker.com/food-drink/holiday-spiced-popcorn-recipe)
-- [Lifehacker] [This Folding Kayak is Surprisingly Seaworthy](https://lifehacker.com/health/oru-lake-folding-kayak-review-surprisingly-seaworthy)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-5-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-tuesday-december-5-2023)
-- [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All The Tools You Need to Clean Your Gutters Without Getting on a Ladder](https://lifehacker.com/home/how-to-clean-your-gutters-without-a-ladder)<!-- TECH-POSTS:END -->
 
 ---
 
