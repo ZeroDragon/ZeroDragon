@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript, the GOAT of programming languages that will take over the world in 2024](https://dev.to/kalashin1/javascript-the-goat-of-programming-languages-that-will-take-over-the-world-in-2024-5b4b)
+- [Dev.to/JS] [Design a parking lot system?](https://dev.to/zeeshanali0704/design-a-parking-lot-system-5e13)
 - [Dev.to/JS] [How to Add Runtime Data Binding to Your Angular Reporting App](https://dev.to/mescius/how-to-add-runtime-data-binding-to-your-angular-reporting-app-33hf)
 - [Dev.to/JS] [✨♻️ Визуализируя JavaScript. Часть 2/7: цикл событий [перевод]](https://dev.to/mari_banana/vizualiziruia-javascript-2-tsikl-sobytii-pierievod-3a09)
 - [Lifehacker] [The Best Tool Gifts for Landscaping and Garden Enthusiasts](https://lifehacker.com/home/best-tool-gifts-for-landscaping-and-garden-enthusiasts)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How does history.js work?](https://dev.to/luicoding/how-does-historyjs-work-4oin)
 - [Dev.to/JS] [MDB5 Angular 5.2.0 is online!](https://dev.to/mdbootstrap/mdb5-angular-520-is-online-1bhk)
 - [Lifehacker] [The Most Common DIY Injuries and How to Prevent Them](https://lifehacker.com/home/avoid-these-common-diy-injuries)
-- [Dev.to/JS] [Color Guessing Game JavaScript Project With Source Code](https://dev.to/codingcss/color-guessing-game-javascript-project-with-source-code-b9)
-- [Dev.to/JS] [Open-graph image generation with Astro](https://dev.to/jxd-dev/open-graph-image-generation-with-astro-gnp)
 - [Lifehacker] [The 33 Buzziest Awards Movies &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/best-awards-movies)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Lifehacker] [Here&#39;s How to Get Your Apple Watch Fitness Year in Review](https://lifehacker.com/tech/apple-watch-fitness-year-in-review)
