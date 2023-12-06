@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to monetize your custom GPT application today](https://dev.to/gergomiklos/how-to-monetize-your-custom-gpt-application-today-3253)
+- [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
+- [Lifehacker] [Here&#39;s the Easiest Way to Make Chips Saltier](https://lifehacker.com/food-drink/easiest-way-to-make-chips-saltier)
 - [Lifehacker] [The Newest Google Pixel Phones Just Hit Their Lowest Prices Yet](https://lifehacker.com/tech/google-pixel-8-pro-deal)
 - [Lifehacker] [De-Bug Your Christmas Tree &lpar;and Other Things to Do Before Bringing It Inside&rpar;](https://lifehacker.com/home/christmas-tree-tips)
 - [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/food-drink/best-gifts-for-coffee-lovers)
@@ -47,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Scan Documents in Google Files Too](https://lifehacker.com/tech/you-can-now-scan-documents-in-google-files)
 - [Dev.to/JS] [Angular Interceptors Unleashed: Solving Complex Scenarios with Ease. Practical Use Cases and Examples &lpar;2023&rpar;](https://dev.to/astritshuli/angular-interceptors-unleashed-solving-complex-scenarios-with-ease-practical-use-cases-and-examples-2023-j3k)
 - [Lifehacker] [This Braised Red Wine Brisket Is the Perfect December Meal](https://lifehacker.com/food-drink/best-braised-red-wine-brisket-recipe)
-- [Dev.to/JS] [Next.JS in a Nutshell: Rendering](https://dev.to/oktadev/nextjs-in-a-nutshell-5dj1)
 - [Lifehacker] [You Can Turn Your Shop Vac Into a Leaf Blower](https://lifehacker.com/home/use-shop-vac-as-leaf-blower)
 - [Lifehacker] [The 50 Best Christmas Movies You Can Stream Right Now](https://lifehacker.com/entertainment/50-best-christmas-movies)
 - [Lifehacker] [It&#39;s Time to Ditch Evernote for One of These Alternatives](https://lifehacker.com/tech/best-evernote-alternatives)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Google Pixel 7 Pro Is on Sale for Its Lowest Price Ever](https://lifehacker.com/tech/google-pixel-7-pro-lowest-price-ever-at-woot)
 - [Lifehacker] [How That Viral Wedding Dress Photo Showed a Bride In 3 Different Poses Simultaneously](https://lifehacker.com/tech/viral-panoramic-bridal-gown-photo)
 - [Lifehacker] [The Best Apps for Improving Memory](https://lifehacker.com/tech/best-apps-for-improving-memory)
-- [Lifehacker] [How to Reset Your Windows PC for a Fresh Start](https://lifehacker.com/tech/reset-windows-pc-without-reinstalling-windows)
-- [Lifehacker] [A Raclette Party Is Exactly What You Need This Winter](https://lifehacker.com/food-drink/what-is-a-raclette-party)
-- [Lifehacker] [You Need Leak Detectors in Your Home, and More Than You Think](https://lifehacker.com/home/home-water-leak-detectors)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Reset Your Windows PC for a Fresh Start](https://lifehacker.com/tech/reset-windows-pc-without-reinstalling-windows)<!-- TECH-POSTS:END -->
 
 ---
 
