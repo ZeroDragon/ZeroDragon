@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [19 React Boilerplates to QuickStart Your Project](https://dev.to/opensourcee/19-react-boilerplates-to-quickstart-your-project-56ge)
+- [Dev.to/JS] [Northcoders Week 1: Mountains to climb, paths to choose 🧙🏻](https://dev.to/gruitt/northcoders-week-1-mountains-to-climb-paths-to-choose-3k62)
+- [Dev.to/JS] [Northcoders Week 1: Mountains to climb, paths to choose 🧙🏻](https://dev.to/gruitt/northcoders-week-1-mountains-to-climb-paths-to-choose-1bdf)
+- [Dev.to/JS] [What’s New in Angular 17](https://dev.to/mescius/whats-new-in-angular-17-26fe)
+- [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
 - [Dev.to/JS] [Building a Full-Stack Web App with Next.js 14, Resend &amp; Supabase](https://dev.to/guillaumeduhan/building-a-full-stack-web-app-with-nextjs-14-resend-supabase-1kkh)
 - [Dev.to/JS] [tsParticles 3.0.2 Released](https://dev.to/tsparticles/tsparticles-302-released-29e9)
+- [Lifehacker] [These Are the Best Affordable Smartphones of 2023](https://lifehacker.com/tech/the-best-affordable-smartphones-2023)
 - [Dev.to/JS] [Part 5: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-5-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-k1b)
 - [Dev.to/JS] [Java vs JavaScript: A Quirky Exploration of Programming Languages](https://dev.to/paulnoth/java-vs-javascript-a-quirky-exploration-of-programming-languages-163i)
 - [Dev.to/JS] [10 FREE Frontend Certificates for Web Warriors](https://dev.to/codewithshahan/10-free-frontend-certificates-for-web-warriors-56a0)
@@ -39,12 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Best Advice for Shipping Christmas Cookies Without Ruining Them](https://lifehacker.com/food-drink/best-ways-to-ship-cookies)
 - [Lifehacker] [15 Podcast Episodes to Help You Through Major Parenting Challenges](https://lifehacker.com/family/the-best-parenting-podcast-episodes-for-every-milestone)
 - [Dev.to/JS] [Javascript, the GOAT of programming languages that will take over the world in 2024](https://dev.to/kalashin1/javascript-the-goat-of-programming-languages-that-will-take-over-the-world-in-2024-5b4b)
-- [Dev.to/JS] [Design a parking lot system?](https://dev.to/zeeshanali0704/design-a-parking-lot-system-5e13)
 - [Lifehacker] [Your iPhone Is Getting a Surprise Wireless Charging Upgrade](https://lifehacker.com/tech/your-iphone-is-getting-qi2-compatible-charging)
-- [Dev.to/JS] [How to Add Runtime Data Binding to Your Angular Reporting App](https://dev.to/mescius/how-to-add-runtime-data-binding-to-your-angular-reporting-app-33hf)
-- [Dev.to/JS] [✨♻️ Визуализируя JavaScript. Часть 2/7: цикл событий [перевод]](https://dev.to/mari_banana/vizualiziruia-javascript-2-tsikl-sobytii-pierievod-3a09)
 - [Lifehacker] [The Best Tool Gifts for Landscaping and Garden Enthusiasts](https://lifehacker.com/home/best-tool-gifts-for-landscaping-and-garden-enthusiasts)
-- [Dev.to/JS] [How to Add a Vue Pivot Table to Your Web Application](https://dev.to/mescius/how-to-add-a-vue-pivot-table-to-your-web-application-2k1j)
 - [Lifehacker] [The Most Common DIY Injuries and How to Prevent Them](https://lifehacker.com/home/avoid-these-common-diy-injuries)
 - [Lifehacker] [The 33 Buzziest Awards Movies &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/best-awards-movies)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [One of Sony’s Best Headphones Just Hit Their Lowest Price Yet](https://lifehacker.com/tech/sony-wh1000xm4-noise-cancelling-headphones-sale)
 - [Lifehacker] [How Teachers Can Catch You Using ChatGPT](https://lifehacker.com/family/how-teachers-detect-ai-chatgpt)
 - [Lifehacker] [Why Your Next Monitor Needs a KVM Switch](https://lifehacker.com/tech/your-next-monitor-needs-a-kvm-switch)
-- [Lifehacker] [Ace Your Finals With These Helpful Study Tools](https://lifehacker.com/family/best-study-tools-finals-week)
-- [Lifehacker] [You Can Get an Extra Wireless Xbox Controller for $35 Right Now](https://lifehacker.com/entertainment/xbox-controller-sale)
-- [Lifehacker] [You Can Now Scan Documents in Google Files Too](https://lifehacker.com/tech/you-can-now-scan-documents-in-google-files)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Ace Your Finals With These Helpful Study Tools](https://lifehacker.com/family/best-study-tools-finals-week)<!-- TECH-POSTS:END -->
 
 ---
 
