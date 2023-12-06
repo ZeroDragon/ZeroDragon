@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Grab, food delivering](https://dev.to/morgild/grab-food-delivering-g98)
+- [Dev.to/JS] [Ocean swimming, diving](https://dev.to/morgild/ocean-swimming-diving-17om)
 - [Dev.to/JS] [I build a tool with Next.js to quickly organize ideas into structured notes!](https://dev.to/jiajunyan/i-build-a-tool-with-nextjs-to-quickly-organize-ideas-into-structured-notes-3bci)
 - [Dev.to/JS] [Modern Async Primitives on iOS, Android, and the Web](https://dev.to/jameson/modern-async-primitives-on-ios-android-and-the-web-5c8j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
@@ -44,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [De-Bug Your Christmas Tree &lpar;and Other Things to Do Before Bringing It Inside&rpar;](https://lifehacker.com/home/christmas-tree-tips)
 - [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/food-drink/best-gifts-for-coffee-lovers)
 - [Dev.to/JS] [🚀5-Minute Guide to Blazing Fast React Apps🚀](https://dev.to/opensign/5-minute-guide-to-blazing-fast-react-apps-4h5b)
-- [Dev.to/JS] [Day 6 - 30 Days learn Web Dev](https://dev.to/johnc/day-6-30-days-learn-web-dev-14c5)
-- [Dev.to/JS] [Frontend newsletter list &lpar;2024&rpar; 📬](https://dev.to/tech-foutraque/frontend-newsletter-list-2024-43lb)
 - [Lifehacker] [One of Sony’s Best Headphones Just Hit Their Lowest Price Yet](https://lifehacker.com/tech/sony-wh1000xm4-noise-cancelling-headphones-sale)
 - [Lifehacker] [How Teachers Can Catch You Using ChatGPT](https://lifehacker.com/family/how-teachers-detect-ai-chatgpt)
 - [Lifehacker] [Why Your Next Monitor Needs a KVM Switch](https://lifehacker.com/tech/your-next-monitor-needs-a-kvm-switch)
