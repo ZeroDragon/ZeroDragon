@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I build a tool with Next.js to quickly organize ideas into structured notes!](https://dev.to/jiajunyan/i-build-a-tool-with-nextjs-to-quickly-organize-ideas-into-structured-notes-3bci)
+- [Dev.to/JS] [Modern Async Primitives on iOS, Android, and the Web](https://dev.to/jameson/modern-async-primitives-on-ios-android-and-the-web-5c8j)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
 - [Dev.to/JS] [Sunset flower](https://dev.to/morgild/sunset-flower-49df)
 - [Dev.to/JS] [Red house winter](https://dev.to/morgild/red-house-winter-4b65)
 - [Dev.to/JS] [A man riding a wave](https://dev.to/morgild/a-man-riding-a-wave-36nf)
@@ -43,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 6 - 30 Days learn Web Dev](https://dev.to/johnc/day-6-30-days-learn-web-dev-14c5)
 - [Dev.to/JS] [Frontend newsletter list &lpar;2024&rpar; 📬](https://dev.to/tech-foutraque/frontend-newsletter-list-2024-43lb)
 - [Lifehacker] [One of Sony’s Best Headphones Just Hit Their Lowest Price Yet](https://lifehacker.com/tech/sony-wh1000xm4-noise-cancelling-headphones-sale)
-- [Dev.to/JS] [How I built a multiplayer game with no backend](https://dev.to/chijiooke/how-i-built-a-multiplayer-game-with-no-backend-2g62)
 - [Lifehacker] [How Teachers Can Catch You Using ChatGPT](https://lifehacker.com/family/how-teachers-detect-ai-chatgpt)
-- [Dev.to/JS] [✨Validación de contraseñas accessible✨](https://dev.to/micaavigliano/validacion-de-contrasenas-accessible-5gh6)
 - [Lifehacker] [Why Your Next Monitor Needs a KVM Switch](https://lifehacker.com/tech/your-next-monitor-needs-a-kvm-switch)
 - [Lifehacker] [Ace Your Finals With These Helpful Study Tools](https://lifehacker.com/family/best-study-tools-finals-week)
 - [Lifehacker] [You Can Get an Extra Wireless Xbox Controller for $35 Right Now](https://lifehacker.com/entertainment/xbox-controller-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-tuesday-december-5-2023)
 - [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
 - [Lifehacker] [Use This Workaround to Send High Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
-- [Lifehacker] [The Google Pixel 7 Pro Is on Sale for Its Lowest Price Ever](https://lifehacker.com/tech/google-pixel-7-pro-lowest-price-ever-at-woot)
-- [Lifehacker] [How That Viral Wedding Dress Photo Showed a Bride In 3 Different Poses Simultaneously](https://lifehacker.com/tech/viral-panoramic-bridal-gown-photo)
-- [Lifehacker] [The Best Apps for Improving Memory](https://lifehacker.com/tech/best-apps-for-improving-memory)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Google Pixel 7 Pro Is on Sale for Its Lowest Price Ever](https://lifehacker.com/tech/google-pixel-7-pro-lowest-price-ever-at-woot)<!-- TECH-POSTS:END -->
 
 ---
 
