@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 5: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-5-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-k1b)
+- [Dev.to/JS] [Java vs JavaScript: A Quirky Exploration of Programming Languages](https://dev.to/paulnoth/java-vs-javascript-a-quirky-exploration-of-programming-languages-163i)
+- [Dev.to/JS] [10 FREE Frontend Certificates for Web Warriors](https://dev.to/codewithshahan/10-free-frontend-certificates-for-web-warriors-56a0)
 - [Lifehacker] [How Amazon Prime Student Members Can Get a $25 Flight Home for the Holidays](https://lifehacker.com/travel/amazon-prime-student-25-dollar-holiday-flights-giveaway)
 - [Dev.to/JS] [Translating using Transformers.js, Poolifer &amp; Xenova/nllb-200-distilled-600M](https://dev.to/calumk/translating-using-transformersjs-poolifer-xenovanllb-200-distilled-600m-2p7c)
 - [Dev.to/JS] [Day 7 - 30 Days learn Web Dev](https://dev.to/johnc/day-7-30-days-learn-web-dev-2mkh)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add a Vue Pivot Table to Your Web Application](https://dev.to/mescius/how-to-add-a-vue-pivot-table-to-your-web-application-2k1j)
 - [Dev.to/JS] [My Experience with NextJs and TailwindCSS](https://dev.to/atharvasune/my-experience-with-nextjs-and-tailwindcss-2pha)
 - [Dev.to/JS] [JavaScript Objects: Your Quick Guide](https://dev.to/ptheodosiou/javascript-objects-your-quick-guide-4j8p)
-- [Dev.to/JS] [Organize your library with subpath exports 🗄️](https://dev.to/receter/organize-your-library-with-subpath-exports-4jb9)
-- [Dev.to/JS] [Building a CRUD application with React, TypeScript, TypeORM, MySQL, GraphQL, and NodeJs | Part A](https://dev.to/grayxcode/building-a-crud-application-with-react-typescript-typeorm-mysql-graphql-and-nodejs-part-a-22hd)
-- [Dev.to/JS] [You are JS noob without knowing these methods](https://dev.to/milanx/you-are-js-noob-without-knowing-these-methods-2of1)
 - [Lifehacker] [The Most Common DIY Injuries and How to Prevent Them](https://lifehacker.com/home/avoid-these-common-diy-injuries)
 - [Lifehacker] [The 33 Buzziest Awards Movies &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/best-awards-movies)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
