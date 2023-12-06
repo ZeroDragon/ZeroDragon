@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Be a part of something bigger](https://dev.to/opensourcee/be-a-part-of-something-bigger-13lb)
+- [Dev.to/JS] [Learn React Router v6: Building a Feature-Rich Blog Application with Advanced Routing Techniques](https://dev.to/fredzugs/learn-react-router-v6-building-a-feature-rich-blog-application-with-advanced-routing-techniques-ill)
+- [Dev.to/JS] [Retrieving Facebook leads](https://dev.to/neeraj1005/retrieving-facebook-leads-3hgo)
+- [Dev.to/JS] [Revive CBD Gummies &lpar;Fake Hype Exposed&rpar; Does it Really Work?](https://dev.to/hebirddecke/revive-cbd-gummies-fake-hype-exposed-does-it-really-work-37am)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #2](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-2-36gp)
 - [Dev.to/JS] [Glueless Lace Front Wigs: Unveiling the Ultimate Beauty Secret](https://dev.to/kimnija/glueless-lace-front-wigs-unveiling-the-ultimate-beauty-secret-39na)
 - [Dev.to/JS] [Vue.js Magic: Elevate Your Web Development to Next-Gen Awesomeness!](https://dev.to/abdulbasetbappy/vuejs-magic-elevate-your-web-development-to-next-gen-awesomeness-3c2b)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 3.0.1 Released](https://dev.to/tsparticles/tsparticles-301-released-3nbh)
 - [Dev.to/JS] [This or that?](https://dev.to/pulimoodan/this-or-that-162j)
 - [Dev.to/JS] [Increasing the Touchable Area for a View](https://dev.to/surhidamatya/increasing-the-touchable-area-for-a-view-3n99)
-- [Dev.to/JS] [Introducing IoT Application Powered by Flatlogic AI Generator](https://dev.to/flatlogic/introducing-iot-application-powered-by-flatlogic-ai-generator-328n)
-- [Dev.to/JS] [Something went wrong installing the &quot;sharp&quot; module and Cannot find module &#39;../build/Release/sharp.node&#39; in react native](https://dev.to/surhidamatya/something-went-wrong-installing-the-sharp-module-and-cannot-find-module-buildreleasesharpnode-in-react-native-415h)
-- [Dev.to/JS] [Phòng Khám Đa Khoa Tháng Tám: Khám chữa bệnh an toàn uy tín](https://dev.to/dkdthut/phong-kham-da-khoa-thang-tam-kham-chua-benh-an-toan-uy-tin-45bg)
-- [Dev.to/JS] [💻 Web Development Resources #177](https://dev.to/vincenius/web-development-resources-177-4gal)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
 - [Lifehacker] [Beeper Mini Might Be the iMessage-on-Android App We’ve Been Waiting For](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
