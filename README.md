@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #2](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-2-36gp)
+- [Dev.to/JS] [Glueless Lace Front Wigs: Unveiling the Ultimate Beauty Secret](https://dev.to/kimnija/glueless-lace-front-wigs-unveiling-the-ultimate-beauty-secret-39na)
+- [Dev.to/JS] [Vue.js Magic: Elevate Your Web Development to Next-Gen Awesomeness!](https://dev.to/abdulbasetbappy/vuejs-magic-elevate-your-web-development-to-next-gen-awesomeness-3c2b)
 - [Dev.to/JS] [Explain what is higher order function by Pikachu](https://dev.to/kaziusan/explain-what-is-higher-order-function-by-pikachu-5h99)
 - [Dev.to/JS] [Exploring the Latest JavaScript Frontiers at DevWorld Conference 2024 🚀](https://dev.to/devworld_conf/exploring-the-latest-javascript-frontiers-at-devworld-conference-2024-5d3g)
 - [Dev.to/JS] [tsParticles 3.0.1 Released](https://dev.to/tsparticles/tsparticles-301-released-3nbh)
@@ -33,11 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Increasing the Touchable Area for a View](https://dev.to/surhidamatya/increasing-the-touchable-area-for-a-view-3n99)
 - [Dev.to/JS] [Introducing IoT Application Powered by Flatlogic AI Generator](https://dev.to/flatlogic/introducing-iot-application-powered-by-flatlogic-ai-generator-328n)
 - [Dev.to/JS] [Something went wrong installing the &quot;sharp&quot; module and Cannot find module &#39;../build/Release/sharp.node&#39; in react native](https://dev.to/surhidamatya/something-went-wrong-installing-the-sharp-module-and-cannot-find-module-buildreleasesharpnode-in-react-native-415h)
-- [Dev.to/JS] [Something went wrong installing the &quot;sharp&quot; module and Cannot find module &#39;../build/Release/sharp.node&#39; in react native](https://dev.to/surhidamatya/something-went-wrong-installing-the-sharp-module-and-cannot-find-module-buildreleasesharpnode-in-react-native-2bbp)
 - [Dev.to/JS] [Phòng Khám Đa Khoa Tháng Tám: Khám chữa bệnh an toàn uy tín](https://dev.to/dkdthut/phong-kham-da-khoa-thang-tam-kham-chua-benh-an-toan-uy-tin-45bg)
 - [Dev.to/JS] [💻 Web Development Resources #177](https://dev.to/vincenius/web-development-resources-177-4gal)
-- [Dev.to/JS] [Unveiling the Role of Energy Web Chain Nodes in Sustainable Blockchain Networks](https://dev.to/mepak2/unveiling-the-role-of-energy-web-chain-nodes-in-sustainable-blockchain-networks-4b55)
-- [Dev.to/JS] [How Earn Millions Through The Internet!! Don&#39;t Miss](https://dev.to/infomonkk/how-earn-millions-through-the-internet-dont-miss-2222)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
 - [Lifehacker] [Beeper Mini Might Be the iMessage-on-Android App We’ve Been Waiting For](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
