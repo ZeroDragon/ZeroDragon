@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scrimba Course](https://dev.to/dave_khadka_50ffa7b50696c/scrimba-course-10ah)
+- [Dev.to/JS] [Build a Customizable JavaScript Data Grid in Minutes](https://dev.to/mescius/build-a-customizable-javascript-data-grid-in-minutes-248o)
 - [Dev.to/JS] [19 React Boilerplates to QuickStart Your Project](https://dev.to/opensourcee/19-react-boilerplates-to-quickstart-your-project-56ge)
 - [Dev.to/JS] [Northcoders Week 1: Mountains to climb, paths to choose 🧙🏻](https://dev.to/gruitt/northcoders-week-1-mountains-to-climb-paths-to-choose-3k62)
 - [Dev.to/JS] [Northcoders Week 1: Mountains to climb, paths to choose 🧙🏻](https://dev.to/gruitt/northcoders-week-1-mountains-to-climb-paths-to-choose-1bdf)
+- [Lifehacker] [GameStop Has a Great Deal on Gaming Consoles Right Now](https://lifehacker.com/entertainment/gamestop-deal-ps5-xbox-nintendo-switch)
 - [Dev.to/JS] [What’s New in Angular 17](https://dev.to/mescius/whats-new-in-angular-17-26fe)
+- [Lifehacker] [Waffle This Frico-encrusted Sausage, Egg, and Cheese](https://lifehacker.com/food-drink/frico-encrusted-sausage-egg-and-cheese-waffle-sandwich)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
 - [Dev.to/JS] [Building a Full-Stack Web App with Next.js 14, Resend &amp; Supabase](https://dev.to/guillaumeduhan/building-a-full-stack-web-app-with-nextjs-14-resend-supabase-1kkh)
 - [Dev.to/JS] [tsParticles 3.0.2 Released](https://dev.to/tsparticles/tsparticles-302-released-29e9)
@@ -41,10 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Hulu Content on Disney+ Right Now](https://lifehacker.com/entertainment/hulu-on-disney-plus)
 - [Lifehacker] [How Amazon Prime Student Members Can Get a $25 Flight Home for the Holidays](https://lifehacker.com/travel/amazon-prime-student-25-dollar-holiday-flights-giveaway)
 - [Dev.to/JS] [Translating using Transformers.js, Poolifer &amp; Xenova/nllb-200-distilled-600M](https://dev.to/calumk/translating-using-transformersjs-poolifer-xenovanllb-200-distilled-600m-2p7c)
-- [Dev.to/JS] [Day 7 - 30 Days learn Web Dev](https://dev.to/johnc/day-7-30-days-learn-web-dev-2mkh)
 - [Lifehacker] [My Best Advice for Shipping Christmas Cookies Without Ruining Them](https://lifehacker.com/food-drink/best-ways-to-ship-cookies)
 - [Lifehacker] [15 Podcast Episodes to Help You Through Major Parenting Challenges](https://lifehacker.com/family/the-best-parenting-podcast-episodes-for-every-milestone)
-- [Dev.to/JS] [Javascript, the GOAT of programming languages that will take over the world in 2024](https://dev.to/kalashin1/javascript-the-goat-of-programming-languages-that-will-take-over-the-world-in-2024-5b4b)
 - [Lifehacker] [Your iPhone Is Getting a Surprise Wireless Charging Upgrade](https://lifehacker.com/tech/your-iphone-is-getting-qi2-compatible-charging)
 - [Lifehacker] [The Best Tool Gifts for Landscaping and Garden Enthusiasts](https://lifehacker.com/home/best-tool-gifts-for-landscaping-and-garden-enthusiasts)
 - [Lifehacker] [The Most Common DIY Injuries and How to Prevent Them](https://lifehacker.com/home/avoid-these-common-diy-injuries)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [De-Bug Your Christmas Tree &lpar;and Other Things to Do Before Bringing It Inside&rpar;](https://lifehacker.com/home/christmas-tree-tips)
 - [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/food-drink/best-gifts-for-coffee-lovers)
 - [Lifehacker] [One of Sony’s Best Headphones Just Hit Their Lowest Price Yet](https://lifehacker.com/tech/sony-wh1000xm4-noise-cancelling-headphones-sale)
-- [Lifehacker] [How Teachers Can Catch You Using ChatGPT](https://lifehacker.com/family/how-teachers-detect-ai-chatgpt)
-- [Lifehacker] [Why Your Next Monitor Needs a KVM Switch](https://lifehacker.com/tech/your-next-monitor-needs-a-kvm-switch)
-- [Lifehacker] [Ace Your Finals With These Helpful Study Tools](https://lifehacker.com/family/best-study-tools-finals-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Teachers Can Catch You Using ChatGPT](https://lifehacker.com/family/how-teachers-detect-ai-chatgpt)<!-- TECH-POSTS:END -->
 
 ---
 
