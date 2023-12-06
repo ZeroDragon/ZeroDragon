@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [💻 Web Development Resources #177](https://dev.to/vincenius/web-development-resources-177-4gal)
 - [Dev.to/JS] [Unveiling the Role of Energy Web Chain Nodes in Sustainable Blockchain Networks](https://dev.to/mepak2/unveiling-the-role-of-energy-web-chain-nodes-in-sustainable-blockchain-networks-4b55)
 - [Dev.to/JS] [How Earn Millions Through The Internet!! Don&#39;t Miss](https://dev.to/infomonkk/how-earn-millions-through-the-internet-dont-miss-2222)
 - [Dev.to/JS] [Functional Programming in JavaScript](https://dev.to/jgdevelopments/functional-programming-in-javascript-1paj)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Distribute data from layout.tsx to Server/Client components with Next.js AppRouter](https://dev.to/sorakumo001/distribute-data-from-layouttsx-to-serverclient-components-with-nextjs-approuter-2ieb)
 - [Dev.to/JS] [Grab, food delivering](https://dev.to/morgild/grab-food-delivering-g98)
 - [Dev.to/JS] [Ocean swimming, diving](https://dev.to/morgild/ocean-swimming-diving-17om)
-- [Dev.to/JS] [I build a tool with Next.js to quickly organize ideas into structured notes!](https://dev.to/jiajunyan/i-build-a-tool-with-nextjs-to-quickly-organize-ideas-into-structured-notes-3bci)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
 - [Lifehacker] [Beeper Mini Might Be the iMessage-on-Android App We’ve Been Waiting For](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
