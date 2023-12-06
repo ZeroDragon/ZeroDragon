@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing a Better Way to Replace Array Values in JavaScript! 🚀](https://dev.to/shameel/introducing-a-better-way-to-replace-array-values-in-javascript-5hl0)
+- [Dev.to/JS] [A/B Testing and Experimentation: Unleashing the Power of Data-Driven Decision Making](https://dev.to/sshamza/ab-testing-and-experimentation-unleashing-the-power-of-data-driven-decision-making-45e8)
+- [Lifehacker] [Three Ways to DIY a Last-minute Menorah](https://lifehacker.com/home/diy-a-last-minute-menorah-for-hannukah)
+- [Dev.to/JS] [Dino game](https://dev.to/puneetkumar2010/dino-game-36aa)
+- [Dev.to/JS] [Drag and drop items within a list](https://dev.to/phuocng/drag-and-drop-items-within-a-list-2edk)
+- [Dev.to/JS] [Build your own drawing board](https://dev.to/phuocng/build-your-own-drawing-board-e26)
+- [Lifehacker] [The Best Gifts for DIYers and Woodworkers](https://lifehacker.com/home/tool-gifts-for-diy-woodworkers)
 - [Dev.to/JS] [Be a part of something bigger](https://dev.to/opensourcee/be-a-part-of-something-bigger-13lb)
 - [Dev.to/JS] [Retrieving Facebook leads](https://dev.to/neeraj1005/retrieving-facebook-leads-3hgo)
 - [Dev.to/JS] [Revive CBD Gummies &lpar;Fake Hype Exposed&rpar; Does it Really Work?](https://dev.to/hebirddecke/revive-cbd-gummies-fake-hype-exposed-does-it-really-work-37am)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Glueless Lace Front Wigs: Unveiling the Ultimate Beauty Secret](https://dev.to/kimnija/glueless-lace-front-wigs-unveiling-the-ultimate-beauty-secret-39na)
 - [Dev.to/JS] [Vue.js Magic: Elevate Your Web Development to Next-Gen Awesomeness!](https://dev.to/abdulbasetbappy/vuejs-magic-elevate-your-web-development-to-next-gen-awesomeness-3c2b)
 - [Dev.to/JS] [Explain what is higher order function by Pikachu](https://dev.to/kaziusan/explain-what-is-higher-order-function-by-pikachu-5h99)
-- [Dev.to/JS] [Exploring the Latest JavaScript Frontiers at DevWorld Conference 2024 🚀](https://dev.to/devworld_conf/exploring-the-latest-javascript-frontiers-at-devworld-conference-2024-5d3g)
-- [Dev.to/JS] [tsParticles 3.0.1 Released](https://dev.to/tsparticles/tsparticles-301-released-3nbh)
-- [Dev.to/JS] [This or that?](https://dev.to/pulimoodan/this-or-that-162j)
-- [Dev.to/JS] [Increasing the Touchable Area for a View](https://dev.to/surhidamatya/increasing-the-touchable-area-for-a-view-3n99)
-- [Dev.to/JS] [Introducing IoT Application Powered by Flatlogic AI Generator](https://dev.to/flatlogic/introducing-iot-application-powered-by-flatlogic-ai-generator-328n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
 - [Lifehacker] [Beeper Mini Might Be the iMessage-on-Android App We’ve Been Waiting For](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Folding Kayak is Surprisingly Seaworthy](https://lifehacker.com/health/oru-lake-folding-kayak-review-surprisingly-seaworthy)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-5-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 5, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-tuesday-december-5-2023)
-- [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)
-- [Lifehacker] [Use This Workaround to Send High Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
-- [Lifehacker] [The Google Pixel 7 Pro Is on Sale for Its Lowest Price Ever](https://lifehacker.com/tech/google-pixel-7-pro-lowest-price-ever-at-woot)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Beats Headphones Are up to 50% Off Right Now](https://lifehacker.com/tech/beats-headphones-sale-amazon)<!-- TECH-POSTS:END -->
 
 ---
 
