@@ -33,6 +33,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [marco cierpe](https://dev.to/mcierpe1/marco-cierpe-2ol8)
 - [Dev.to/JS] [Scratchcards](https://dev.to/rmion/scratchcards-5dad)
 - [Dev.to/JS] [How to monetize your custom GPT application today](https://dev.to/gergomiklos/how-to-monetize-your-custom-gpt-application-today-3253)
+- [Lifehacker] [Beeper Mini Might Be the iMessage-on-Android App We’ve Been Waiting For](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
 - [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
 - [Lifehacker] [Here&#39;s the Easiest Way to Make Chips Saltier](https://lifehacker.com/food-drink/easiest-way-to-make-chips-saltier)
 - [Lifehacker] [The Newest Google Pixel Phones Just Hit Their Lowest Prices Yet](https://lifehacker.com/tech/google-pixel-8-pro-deal)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Workaround to Send High Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
 - [Lifehacker] [The Google Pixel 7 Pro Is on Sale for Its Lowest Price Ever](https://lifehacker.com/tech/google-pixel-7-pro-lowest-price-ever-at-woot)
 - [Lifehacker] [How That Viral Wedding Dress Photo Showed a Bride In 3 Different Poses Simultaneously](https://lifehacker.com/tech/viral-panoramic-bridal-gown-photo)
-- [Lifehacker] [The Best Apps for Improving Memory](https://lifehacker.com/tech/best-apps-for-improving-memory)
-- [Lifehacker] [How to Reset Your Windows PC for a Fresh Start](https://lifehacker.com/tech/reset-windows-pc-without-reinstalling-windows)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Apps for Improving Memory](https://lifehacker.com/tech/best-apps-for-improving-memory)<!-- TECH-POSTS:END -->
 
 ---
 
