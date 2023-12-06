@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Distribute data from layout.tsx to Server/Client components with Next.js AppRouter](https://dev.to/sorakumo001/distribute-data-from-layouttsx-to-serverclient-components-with-nextjs-approuter-2ieb)
 - [Dev.to/JS] [Grab, food delivering](https://dev.to/morgild/grab-food-delivering-g98)
 - [Dev.to/JS] [Ocean swimming, diving](https://dev.to/morgild/ocean-swimming-diving-17om)
 - [Dev.to/JS] [I build a tool with Next.js to quickly organize ideas into structured notes!](https://dev.to/jiajunyan/i-build-a-tool-with-nextjs-to-quickly-organize-ideas-into-structured-notes-3bci)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Newest Google Pixel Phones Just Hit Their Lowest Prices Yet](https://lifehacker.com/tech/google-pixel-8-pro-deal)
 - [Lifehacker] [De-Bug Your Christmas Tree &lpar;and Other Things to Do Before Bringing It Inside&rpar;](https://lifehacker.com/home/christmas-tree-tips)
 - [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/food-drink/best-gifts-for-coffee-lovers)
-- [Dev.to/JS] [🚀5-Minute Guide to Blazing Fast React Apps🚀](https://dev.to/opensign/5-minute-guide-to-blazing-fast-react-apps-4h5b)
 - [Lifehacker] [One of Sony’s Best Headphones Just Hit Their Lowest Price Yet](https://lifehacker.com/tech/sony-wh1000xm4-noise-cancelling-headphones-sale)
 - [Lifehacker] [How Teachers Can Catch You Using ChatGPT](https://lifehacker.com/family/how-teachers-detect-ai-chatgpt)
 - [Lifehacker] [Why Your Next Monitor Needs a KVM Switch](https://lifehacker.com/tech/your-next-monitor-needs-a-kvm-switch)
