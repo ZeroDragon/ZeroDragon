@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mapping JSON Datasets With Wijmo Bubble Maps](https://dev.to/mescius/mapping-json-datasets-with-wijmo-bubble-maps-3m3a)
+- [Dev.to/JS] [oggy](https://dev.to/aomine4220/oggy-1nel)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-7-2023)
 - [Dev.to/JS] [New Post title here](https://dev.to/aomine4220/new-post-title-here-p3a)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-7-2023)
@@ -42,10 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Northcoders Week 1: Mountains to climb, paths to choose 🧙🏻](https://dev.to/gruitt/northcoders-week-1-mountains-to-climb-paths-to-choose-3k62)
 - [Dev.to/JS] [Northcoders Week 1: Mountains to climb, paths to choose 🧙🏻](https://dev.to/gruitt/northcoders-week-1-mountains-to-climb-paths-to-choose-1bdf)
 - [Lifehacker] [GameStop Has a Great Deal on Gaming Consoles Right Now](https://lifehacker.com/entertainment/gamestop-deal-ps5-xbox-nintendo-switch)
-- [Dev.to/JS] [What’s New in Angular 17](https://dev.to/mescius/whats-new-in-angular-17-26fe)
 - [Lifehacker] [Waffle This Frico-encrusted Sausage, Egg, and Cheese](https://lifehacker.com/food-drink/frico-encrusted-sausage-egg-and-cheese-waffle-sandwich)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
-- [Dev.to/JS] [Building a Full-Stack Web App with Next.js 14, Resend &amp; Supabase](https://dev.to/guillaumeduhan/building-a-full-stack-web-app-with-nextjs-14-resend-supabase-1kkh)
 - [Lifehacker] [These Are the Best Affordable Smartphones of 2023](https://lifehacker.com/tech/the-best-affordable-smartphones-2023)
 - [Lifehacker] [Why Water Beads Are Actually Dangerous for Kids](https://lifehacker.com/family/why-water-beads-are-dangerous-for-kids)
 - [Lifehacker] [How to Get Hulu Content on Disney+ Right Now](https://lifehacker.com/entertainment/hulu-on-disney-plus)
