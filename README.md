@@ -26,20 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Inheritance and the Prototype Object in JavaScript?](https://dev.to/justmrkhan/what-is-inheritance-and-the-prototype-object-in-javascript-1jb9)
+- [Dev.to/JS] [How to Build a Vue Data Grid in Minutes](https://dev.to/mescius/how-to-build-a-vue-data-grid-in-minutes-4dej)
+- [Dev.to/JS] [#JavaScriptmas 2023 Day 1-6](https://dev.to/aishwaryamali24/javascriptmas-2023-day-1-6-3m15)
+- [Dev.to/JS] [Comparing Java and JavaScript](https://dev.to/saandre0217/comparing-java-and-javascript-4mi6)
 - [Dev.to/JS] [How to quickly debug requests from k6 test scenarios](https://dev.to/gpiechnik/how-to-quickly-debug-requests-from-k6-test-scenarios-4id3)
 - [Dev.to/JS] [React Beyond the Boilerplate: Unleashing Creativity with Manual Mastery - Part 1: React as a CDN](https://dev.to/ajayprakash/react-beyond-the-boilerplate-unleashing-creativity-with-manual-mastery-part-1-using-react-as-a-cdn-without-npm-or-jsx-8oe)
-- [Dev.to/JS] [How to Import and Export Excel XLSX Using JavaScript](https://dev.to/mescius/how-to-import-and-export-excel-xlsx-using-javascript-21mj)
 - [Dev.to/JS] [Unleashing Productivity and Efficiency: 10 Essential Tools for Every Web Developer](https://dev.to/bhavesh_yadav/unleashing-productivity-and-efficiency-10-essential-tools-for-every-web-developer-256n)
 - [Dev.to/JS] [How I created a npm library, published it in a day?](https://dev.to/mank42/how-i-created-a-npm-library-published-it-in-a-day-9b2)
+- [Lifehacker] [How to Share Your Location in iPhone&#39;s &#39;Find My&#39; App](https://lifehacker.com/tech/how-to-share-location-iphone)
+- [Lifehacker] [These Smart Holiday Lights Are Designed to Stay up All Year Long](https://lifehacker.com/tech/govee-permanent-outdoor-lights-pro-review)
 - [Dev.to/JS] [Asynchronous Batching: The &lpar;not so&rpar; secret weapon of JavaScript](https://dev.to/cadienvan/asynchronous-batching-the-not-so-secret-weapon-of-javascript-2gno)
 - [Dev.to/JS] [Exploring E2E Testing: Ensuring Software Quality from Start to Finish](https://dev.to/keploy/exploring-e2e-testing-ensuring-software-quality-from-start-to-finish-283e)
 - [Lifehacker] [Every New Feature in the Google Pixel December Drop](https://lifehacker.com/tech/december-feature-drop-for-pixel-phones)
 - [Lifehacker] [How to Wrap Absolutely Any Gift &lpar;Even If You’ve Run Out of Tape or Paper&rpar;](https://lifehacker.com/home/gift-wrapping-for-holidays)
 - [Dev.to/JS] [Is PHP still a viable choice in 2023?](https://dev.to/cnastasi/is-php-still-a-viable-choice-in-2023-3gfn)
 - [Dev.to/JS] [How transparent is the model in terms of providing insights into its decision-making process?](https://dev.to/yagnapandya9/how-transparent-is-the-model-in-terms-of-providing-insights-into-its-decision-making-process-gdj)
-- [Dev.to/JS] [Why Your Website Should Work Offline &lpar;And What You Should Do About It&rpar;](https://dev.to/opensourcee/why-your-website-should-work-offline-and-what-you-should-do-about-it-fck)
-- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #3](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-2-4k38)
-- [Dev.to/JS] [12 Factor App in NodeJS Part 1 &lpar;1-4&rpar;](https://dev.to/sumitbhanushali/12-factor-app-in-nodejs-part-1-1-4-5gp2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-7-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-7-2023)
 - [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Tricks to Get Around ChatGPT’s Character Limit](https://lifehacker.com/tech/four-ways-to-get-around-chatgpts-character-limit)
 - [Lifehacker] [Three Ways to DIY a Last-minute Menorah](https://lifehacker.com/home/diy-a-last-minute-menorah-for-hannukah)
 - [Lifehacker] [The Best Gifts for DIYers and Woodworkers](https://lifehacker.com/home/tool-gifts-for-diy-woodworkers)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
-- [Lifehacker] [Beeper Mini Might Be the iMessage-on-Android App We’ve Been Waiting For](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)<!-- TECH-POSTS:END -->
 
 ---
 
