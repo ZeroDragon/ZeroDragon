@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #3](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-2-4k38)
+- [Dev.to/JS] [12 Factor App in NodeJS Part 1 &lpar;1-4&rpar;](https://dev.to/sumitbhanushali/12-factor-app-in-nodejs-part-1-1-4-5gp2)
 - [Dev.to/JS] [Aizen Power reviews 2023 | natural Organic Is It Worth Buying? From Official Site](https://dev.to/azirbaznodel/aizen-power-reviews-2023-natural-organic-is-it-worth-buying-from-official-site-2aai)
 - [Dev.to/JS] [NPM package development with Vite 5.x](https://dev.to/brifiction/npm-package-development-with-vite-5x-35i5)
 - [Dev.to/JS] [Elevate Your Web Development Game: 12 JavaScript Features Every Developer Should Master](https://dev.to/shadbalti/elevate-your-web-development-game-12-javascript-features-every-developer-should-master-21f)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mapping JSON Datasets With Wijmo Bubble Maps](https://dev.to/mescius/mapping-json-datasets-with-wijmo-bubble-maps-3m3a)
 - [Dev.to/JS] [oggy](https://dev.to/aomine4220/oggy-1nel)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-7-2023)
-- [Dev.to/JS] [New Post title here](https://dev.to/aomine4220/new-post-title-here-p3a)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-7-2023)
-- [Dev.to/JS] [Your First Backend Project](https://dev.to/adjeijrdev/your-first-backend-project-20gl)
 - [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)
 - [Lifehacker] [Use Your Instacart+ Membership to Get Peacock Premium for Free](https://lifehacker.com/entertainment/free-peacock-premium-instacart-membership)
 - [Lifehacker] [Avoid These Four Common Mistakes When Driving on Black Ice](https://lifehacker.com/travel/black-ice-driving-tips-and-mistakes)
