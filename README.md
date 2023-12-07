@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevate Your Web Development Game: 12 JavaScript Features Every Developer Should Master](https://dev.to/shadbalti/elevate-your-web-development-game-12-javascript-features-every-developer-should-master-21f)
+- [Dev.to/JS] [Let&#39;s Talk about Event Loop in JavaScript](https://dev.to/vivek_gupta/lets-talk-about-event-loop-in-javascript-c4k)
 - [Dev.to/JS] [New Array Method in JavaScript: groupBy](https://dev.to/manthanank/new-array-method-in-javascript-groupby-3f5n)
 - [Dev.to/JS] [Menggambar pakai JavaScript! Emang bisa?](https://dev.to/faizbyp/menggambar-pakai-javascript-emang-bisa-1fed)
 - [Dev.to/JS] [The Regex Cheat Sheet for JavaScript Developers](https://dev.to/sohanemon/the-regex-cheat-sheet-for-javascript-developers-2pgf)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Your First Backend Project](https://dev.to/adjeijrdev/your-first-backend-project-20gl)
 - [Dev.to/JS] [JavaScript Excel Spreadsheet Use Cases: Government Agencies](https://dev.to/mescius/javascript-excel-spreadsheet-use-cases-government-agencies-3hf7)
 - [Dev.to/JS] [Custom client directives with Astro](https://dev.to/nguyen/custom-client-directives-with-astro-4p5k)
-- [Dev.to/JS] [All about Astro](https://dev.to/nguyen/all-about-astro-1j7)
 - [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)
-- [Dev.to/JS] [Scrimba Course](https://dev.to/dave_khadka_50ffa7b50696c/scrimba-course-10ah)
 - [Lifehacker] [Use Your Instacart+ Membership to Get Peacock Premium for Free](https://lifehacker.com/entertainment/free-peacock-premium-instacart-membership)
 - [Lifehacker] [Avoid These Four Common Mistakes When Driving on Black Ice](https://lifehacker.com/travel/black-ice-driving-tips-and-mistakes)
 - [Lifehacker] [GameStop Has a Great Deal on Gaming Consoles Right Now](https://lifehacker.com/entertainment/gamestop-deal-ps5-xbox-nintendo-switch)
