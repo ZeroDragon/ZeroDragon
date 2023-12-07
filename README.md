@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Search the way How transfer token captcha on site](https://dev.to/pbadicean/search-the-way-how-transfer-token-captcha-on-site-4406)
+- [Dev.to/JS] [WebAuthN in Remix - FaceID, YubiKey, and more!](https://dev.to/rametta/webauthn-in-remix-faceid-yubikey-and-more-5en)
 - [Dev.to/JS] [What is Inheritance and the Prototype Object in JavaScript?](https://dev.to/justmrkhan/what-is-inheritance-and-the-prototype-object-in-javascript-1jb9)
 - [Dev.to/JS] [How to Build a Vue Data Grid in Minutes](https://dev.to/mescius/how-to-build-a-vue-data-grid-in-minutes-4dej)
 - [Dev.to/JS] [#JavaScriptmas 2023 Day 1-6](https://dev.to/aishwaryamali24/javascriptmas-2023-day-1-6-3m15)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring E2E Testing: Ensuring Software Quality from Start to Finish](https://dev.to/keploy/exploring-e2e-testing-ensuring-software-quality-from-start-to-finish-283e)
 - [Lifehacker] [Every New Feature in the Google Pixel December Drop](https://lifehacker.com/tech/december-feature-drop-for-pixel-phones)
 - [Lifehacker] [How to Wrap Absolutely Any Gift &lpar;Even If You’ve Run Out of Tape or Paper&rpar;](https://lifehacker.com/home/gift-wrapping-for-holidays)
-- [Dev.to/JS] [Is PHP still a viable choice in 2023?](https://dev.to/cnastasi/is-php-still-a-viable-choice-in-2023-3gfn)
-- [Dev.to/JS] [How transparent is the model in terms of providing insights into its decision-making process?](https://dev.to/yagnapandya9/how-transparent-is-the-model-in-terms-of-providing-insights-into-its-decision-making-process-gdj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-7-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-7-2023)
 - [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)
