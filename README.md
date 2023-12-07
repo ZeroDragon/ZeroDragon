@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mission 3: Be a NoSQL Backend Brainiac -1](https://dev.to/karakib2k18/mission-3-be-a-nosql-backend-brainiac-1-38jm)
 - [Dev.to/JS] [How to deploy an Express API to Vercel](https://dev.to/karakib2k18/how-to-deploy-an-express-api-to-vercel-2lj0)
 - [Dev.to/JS] [RGB vs. Hex colors](https://dev.to/hessler5/rgb-vs-hex-colors-3f1i)
 - [Dev.to/JS] [🚀 Elevate your text game with HTML! Need to raise text?](https://dev.to/mritunjaysaha/elevate-your-text-game-with-html-need-to-raise-text-3jhj)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WebAuthN in Remix - FaceID, YubiKey, and more!](https://dev.to/rametta/webauthn-in-remix-faceid-yubikey-and-more-5en)
 - [Lifehacker] [Reheat Fried Chicken Without Losing the Crunch](https://lifehacker.com/food-drink/reheat-fried-chicken)
 - [Dev.to/JS] [What is Inheritance and the Prototype Object in JavaScript?](https://dev.to/justmrkhan/what-is-inheritance-and-the-prototype-object-in-javascript-1jb9)
-- [Dev.to/JS] [How to Build a Vue Data Grid in Minutes](https://dev.to/mescius/how-to-build-a-vue-data-grid-in-minutes-4dej)
 - [Lifehacker] [You Can Create Your Own Custom iPhone Browser With Quiche](https://lifehacker.com/tech/custom-iphone-browser-quiche)
 - [Lifehacker] [Gemini Is Google&#39;s Answer to GPT-4](https://lifehacker.com/tech/google-gemini-and-openai-gpt-4)
 - [Lifehacker] [How to Share Your Location in iPhone&#39;s &#39;Find My&#39; App](https://lifehacker.com/tech/how-to-share-location-iphone)
