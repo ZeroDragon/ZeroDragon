@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to deploy an Express API to Vercel](https://dev.to/karakib2k18/how-to-deploy-an-express-api-to-vercel-2lj0)
+- [Dev.to/JS] [RGB vs. Hex colors](https://dev.to/hessler5/rgb-vs-hex-colors-3f1i)
+- [Dev.to/JS] [🚀 Elevate your text game with HTML! Need to raise text?](https://dev.to/mritunjaysaha/elevate-your-text-game-with-html-need-to-raise-text-3jhj)
 - [Dev.to/JS] [NodeJS Backend tools - Node Version Manager &lpar;NVM&rpar;](https://dev.to/thebridge2/nodejs-backend-tools-node-version-manager-nvm-116g)
+- [Lifehacker] [Nanoleaf&#39;s String Lights Are Worth It for Your Christmas Tree](https://lifehacker.com/tech/nanoleaf-holiday-string-lights-review)
+- [Lifehacker] [How to Watch the 2023 Game Awards Tonight](https://lifehacker.com/entertainment/how-to-watch-game-awards)
 - [Dev.to/JS] [Web Components Debut: My First Dive In](https://dev.to/nyruchi/web-components-debut-my-first-dive-in-18ga)
 - [Dev.to/JS] [Programación 3D con JavaScript - parte 1](https://dev.to/javascriptchile/programacion-3d-con-javascript-parte-1-2k95)
 - [Lifehacker] [You Should Join the Audubon Society’s Christmas Bird Count This Year](https://lifehacker.com/science/join-audubon-society-christmas-bird-count)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Inheritance and the Prototype Object in JavaScript?](https://dev.to/justmrkhan/what-is-inheritance-and-the-prototype-object-in-javascript-1jb9)
 - [Dev.to/JS] [How to Build a Vue Data Grid in Minutes](https://dev.to/mescius/how-to-build-a-vue-data-grid-in-minutes-4dej)
 - [Lifehacker] [You Can Create Your Own Custom iPhone Browser With Quiche](https://lifehacker.com/tech/custom-iphone-browser-quiche)
-- [Dev.to/JS] [#JavaScriptmas 2023 Day 1-6](https://dev.to/aishwaryamali24/javascriptmas-2023-day-1-6-3m15)
-- [Dev.to/JS] [Comparing Java and JavaScript](https://dev.to/saandre0217/comparing-java-and-javascript-4mi6)
 - [Lifehacker] [Gemini Is Google&#39;s Answer to GPT-4](https://lifehacker.com/tech/google-gemini-and-openai-gpt-4)
-- [Dev.to/JS] [How to quickly debug requests from k6 test scenarios](https://dev.to/gpiechnik/how-to-quickly-debug-requests-from-k6-test-scenarios-4id3)
 - [Lifehacker] [How to Share Your Location in iPhone&#39;s &#39;Find My&#39; App](https://lifehacker.com/tech/how-to-share-location-iphone)
 - [Lifehacker] [These Smart Holiday Lights Are Designed to Stay up All Year Long](https://lifehacker.com/tech/govee-permanent-outdoor-lights-pro-review)
 - [Lifehacker] [Every New Feature in the Google Pixel December Drop](https://lifehacker.com/tech/december-feature-drop-for-pixel-phones)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Best Advice for Shipping Christmas Cookies Without Ruining Them](https://lifehacker.com/food-drink/best-ways-to-ship-cookies)
 - [Lifehacker] [15 Podcast Episodes to Help You Through Major Parenting Challenges](https://lifehacker.com/family/the-best-parenting-podcast-episodes-for-every-milestone)
 - [Lifehacker] [Your iPhone Is Getting a Surprise Wireless Charging Upgrade](https://lifehacker.com/tech/your-iphone-is-getting-qi2-compatible-charging)
-- [Lifehacker] [The Best Tool Gifts for Landscaping and Garden Enthusiasts](https://lifehacker.com/home/best-tool-gifts-for-landscaping-and-garden-enthusiasts)
-- [Lifehacker] [The Most Common DIY Injuries and How to Prevent Them](https://lifehacker.com/home/avoid-these-common-diy-injuries)
-- [Lifehacker] [The 33 Buzziest Awards Movies &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/best-awards-movies)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Tool Gifts for Landscaping and Garden Enthusiasts](https://lifehacker.com/home/best-tool-gifts-for-landscaping-and-garden-enthusiasts)<!-- TECH-POSTS:END -->
 
 ---
 
