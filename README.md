@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asynchronous Batching: The &lpar;not so&rpar; secret weapon of JavaScript](https://dev.to/cadienvan/asynchronous-batching-the-not-so-secret-weapon-of-javascript-2gno)
+- [Dev.to/JS] [Exploring E2E Testing: Ensuring Software Quality from Start to Finish](https://dev.to/keploy/exploring-e2e-testing-ensuring-software-quality-from-start-to-finish-283e)
 - [Dev.to/JS] [Is PHP still a viable choice in 2023?](https://dev.to/cnastasi/is-php-still-a-viable-choice-in-2023-3gfn)
 - [Dev.to/JS] [How transparent is the model in terms of providing insights into its decision-making process?](https://dev.to/yagnapandya9/how-transparent-is-the-model-in-terms-of-providing-insights-into-its-decision-making-process-gdj)
 - [Dev.to/JS] [Why Your Website Should Work Offline &lpar;And What You Should Do About It&rpar;](https://dev.to/opensourcee/why-your-website-should-work-offline-and-what-you-should-do-about-it-fck)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Elevate Your Web Development Game: 12 JavaScript Features Every Developer Should Master](https://dev.to/shadbalti/elevate-your-web-development-game-12-javascript-features-every-developer-should-master-21f)
 - [Dev.to/JS] [Let&#39;s Talk about Event Loop in JavaScript](https://dev.to/vivek_gupta/lets-talk-about-event-loop-in-javascript-c4k)
 - [Dev.to/JS] [New Array Method in JavaScript: groupBy](https://dev.to/manthanank/new-array-method-in-javascript-groupby-3f5n)
-- [Dev.to/JS] [Menggambar pakai JavaScript! Emang bisa?](https://dev.to/faizbyp/menggambar-pakai-javascript-emang-bisa-1fed)
-- [Dev.to/JS] [The Regex Cheat Sheet for JavaScript Developers](https://dev.to/sohanemon/the-regex-cheat-sheet-for-javascript-developers-2pgf)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-7-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-7-2023)
 - [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)
