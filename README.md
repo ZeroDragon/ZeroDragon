@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-7-2023)
+- [Dev.to/JS] [New Post title here](https://dev.to/aomine4220/new-post-title-here-p3a)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-7-2023)
 - [Dev.to/JS] [Your First Backend Project](https://dev.to/adjeijrdev/your-first-backend-project-20gl)
 - [Dev.to/JS] [JavaScript Excel Spreadsheet Use Cases: Government Agencies](https://dev.to/mescius/javascript-excel-spreadsheet-use-cases-government-agencies-3hf7)
 - [Dev.to/JS] [Custom client directives with Astro](https://dev.to/nguyen/custom-client-directives-with-astro-4p5k)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Waffle This Frico-encrusted Sausage, Egg, and Cheese](https://lifehacker.com/food-drink/frico-encrusted-sausage-egg-and-cheese-waffle-sandwich)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
 - [Dev.to/JS] [Building a Full-Stack Web App with Next.js 14, Resend &amp; Supabase](https://dev.to/guillaumeduhan/building-a-full-stack-web-app-with-nextjs-14-resend-supabase-1kkh)
-- [Dev.to/JS] [tsParticles 3.0.2 Released](https://dev.to/tsparticles/tsparticles-302-released-29e9)
 - [Lifehacker] [These Are the Best Affordable Smartphones of 2023](https://lifehacker.com/tech/the-best-affordable-smartphones-2023)
 - [Lifehacker] [Why Water Beads Are Actually Dangerous for Kids](https://lifehacker.com/family/why-water-beads-are-dangerous-for-kids)
 - [Lifehacker] [How to Get Hulu Content on Disney+ Right Now](https://lifehacker.com/entertainment/hulu-on-disney-plus)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-6-2023)
 - [Lifehacker] [Beeper Mini Might Be the iMessage-on-Android App We’ve Been Waiting For](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
 - [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
-- [Lifehacker] [Here&#39;s the Easiest Way to Make Chips Saltier](https://lifehacker.com/food-drink/easiest-way-to-make-chips-saltier)
-- [Lifehacker] [The Newest Google Pixel Phones Just Hit Their Lowest Prices Yet](https://lifehacker.com/tech/google-pixel-8-pro-deal)
-- [Lifehacker] [De-Bug Your Christmas Tree &lpar;and Other Things to Do Before Bringing It Inside&rpar;](https://lifehacker.com/home/christmas-tree-tips)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s the Easiest Way to Make Chips Saltier](https://lifehacker.com/food-drink/easiest-way-to-make-chips-saltier)<!-- TECH-POSTS:END -->
 
 ---
 
