@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom client directives with Astro](https://dev.to/nguyen/custom-client-directives-with-astro-4p5k)
+- [Dev.to/JS] [All about Astro](https://dev.to/nguyen/all-about-astro-1j7)
+- [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)
 - [Dev.to/JS] [Scrimba Course](https://dev.to/dave_khadka_50ffa7b50696c/scrimba-course-10ah)
+- [Lifehacker] [Use Your Instacart+ Membership to Get Peacock Premium for Free](https://lifehacker.com/entertainment/free-peacock-premium-instacart-membership)
 - [Dev.to/JS] [Build a Customizable JavaScript Data Grid in Minutes](https://dev.to/mescius/build-a-customizable-javascript-data-grid-in-minutes-248o)
+- [Lifehacker] [Avoid These Four Common Mistakes When Driving on Black Ice](https://lifehacker.com/travel/black-ice-driving-tips-and-mistakes)
 - [Dev.to/JS] [19 React Boilerplates to QuickStart Your Project](https://dev.to/opensourcee/19-react-boilerplates-to-quickstart-your-project-56ge)
 - [Dev.to/JS] [Northcoders Week 1: Mountains to climb, paths to choose 🧙🏻](https://dev.to/gruitt/northcoders-week-1-mountains-to-climb-paths-to-choose-3k62)
 - [Dev.to/JS] [Northcoders Week 1: Mountains to climb, paths to choose 🧙🏻](https://dev.to/gruitt/northcoders-week-1-mountains-to-climb-paths-to-choose-1bdf)
@@ -40,11 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Affordable Smartphones of 2023](https://lifehacker.com/tech/the-best-affordable-smartphones-2023)
 - [Dev.to/JS] [Part 5: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-5-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-k1b)
 - [Dev.to/JS] [Java vs JavaScript: A Quirky Exploration of Programming Languages](https://dev.to/paulnoth/java-vs-javascript-a-quirky-exploration-of-programming-languages-163i)
-- [Dev.to/JS] [10 FREE Frontend Certificates for Web Warriors](https://dev.to/codewithshahan/10-free-frontend-certificates-for-web-warriors-56a0)
 - [Lifehacker] [Why Water Beads Are Actually Dangerous for Kids](https://lifehacker.com/family/why-water-beads-are-dangerous-for-kids)
 - [Lifehacker] [How to Get Hulu Content on Disney+ Right Now](https://lifehacker.com/entertainment/hulu-on-disney-plus)
 - [Lifehacker] [How Amazon Prime Student Members Can Get a $25 Flight Home for the Holidays](https://lifehacker.com/travel/amazon-prime-student-25-dollar-holiday-flights-giveaway)
-- [Dev.to/JS] [Translating using Transformers.js, Poolifer &amp; Xenova/nllb-200-distilled-600M](https://dev.to/calumk/translating-using-transformersjs-poolifer-xenovanllb-200-distilled-600m-2p7c)
 - [Lifehacker] [My Best Advice for Shipping Christmas Cookies Without Ruining Them](https://lifehacker.com/food-drink/best-ways-to-ship-cookies)
 - [Lifehacker] [15 Podcast Episodes to Help You Through Major Parenting Challenges](https://lifehacker.com/family/the-best-parenting-podcast-episodes-for-every-milestone)
 - [Lifehacker] [Your iPhone Is Getting a Surprise Wireless Charging Upgrade](https://lifehacker.com/tech/your-iphone-is-getting-qi2-compatible-charging)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Holiday Party Deserves a Dessert Cheeseball](https://lifehacker.com/every-holiday-party-deserves-a-dessert-cheeseball-1849916116)
 - [Lifehacker] [Here&#39;s the Easiest Way to Make Chips Saltier](https://lifehacker.com/food-drink/easiest-way-to-make-chips-saltier)
 - [Lifehacker] [The Newest Google Pixel Phones Just Hit Their Lowest Prices Yet](https://lifehacker.com/tech/google-pixel-8-pro-deal)
-- [Lifehacker] [De-Bug Your Christmas Tree &lpar;and Other Things to Do Before Bringing It Inside&rpar;](https://lifehacker.com/home/christmas-tree-tips)
-- [Lifehacker] [10 Fancy Gifts for Experienced Coffee Drinkers](https://lifehacker.com/food-drink/best-gifts-for-coffee-lovers)
-- [Lifehacker] [One of Sony’s Best Headphones Just Hit Their Lowest Price Yet](https://lifehacker.com/tech/sony-wh1000xm4-noise-cancelling-headphones-sale)
-- [Lifehacker] [How Teachers Can Catch You Using ChatGPT](https://lifehacker.com/family/how-teachers-detect-ai-chatgpt)<!-- TECH-POSTS:END -->
+- [Lifehacker] [De-Bug Your Christmas Tree &lpar;and Other Things to Do Before Bringing It Inside&rpar;](https://lifehacker.com/home/christmas-tree-tips)<!-- TECH-POSTS:END -->
 
 ---
 
