@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New Array Method in JavaScript: groupBy](https://dev.to/manthanank/new-array-method-in-javascript-groupby-3f5n)
+- [Dev.to/JS] [Menggambar pakai JavaScript! Emang bisa?](https://dev.to/faizbyp/menggambar-pakai-javascript-emang-bisa-1fed)
 - [Dev.to/JS] [The Regex Cheat Sheet for JavaScript Developers](https://dev.to/sohanemon/the-regex-cheat-sheet-for-javascript-developers-2pgf)
 - [Dev.to/JS] [Live updates for Mobile apps](https://dev.to/riderx/live-updates-for-capacitor-2hpi)
 - [Dev.to/JS] [Mapping JSON Datasets With Wijmo Bubble Maps](https://dev.to/mescius/mapping-json-datasets-with-wijmo-bubble-maps-3m3a)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)
 - [Dev.to/JS] [Scrimba Course](https://dev.to/dave_khadka_50ffa7b50696c/scrimba-course-10ah)
 - [Lifehacker] [Use Your Instacart+ Membership to Get Peacock Premium for Free](https://lifehacker.com/entertainment/free-peacock-premium-instacart-membership)
-- [Dev.to/JS] [Build a Customizable JavaScript Data Grid in Minutes](https://dev.to/mescius/build-a-customizable-javascript-data-grid-in-minutes-248o)
 - [Lifehacker] [Avoid These Four Common Mistakes When Driving on Black Ice](https://lifehacker.com/travel/black-ice-driving-tips-and-mistakes)
-- [Dev.to/JS] [18 React Boilerplates to QuickStart Your Project](https://dev.to/opensourcee/19-react-boilerplates-to-quickstart-your-project-56ge)
 - [Lifehacker] [GameStop Has a Great Deal on Gaming Consoles Right Now](https://lifehacker.com/entertainment/gamestop-deal-ps5-xbox-nintendo-switch)
 - [Lifehacker] [Waffle This Frico-encrusted Sausage, Egg, and Cheese](https://lifehacker.com/food-drink/frico-encrusted-sausage-egg-and-cheese-waffle-sandwich)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
