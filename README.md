@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Your First Backend Project](https://dev.to/adjeijrdev/your-first-backend-project-20gl)
+- [Dev.to/JS] [JavaScript Excel Spreadsheet Use Cases: Government Agencies](https://dev.to/mescius/javascript-excel-spreadsheet-use-cases-government-agencies-3hf7)
 - [Dev.to/JS] [Custom client directives with Astro](https://dev.to/nguyen/custom-client-directives-with-astro-4p5k)
 - [Dev.to/JS] [All about Astro](https://dev.to/nguyen/all-about-astro-1j7)
 - [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)
@@ -33,7 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Your Instacart+ Membership to Get Peacock Premium for Free](https://lifehacker.com/entertainment/free-peacock-premium-instacart-membership)
 - [Dev.to/JS] [Build a Customizable JavaScript Data Grid in Minutes](https://dev.to/mescius/build-a-customizable-javascript-data-grid-in-minutes-248o)
 - [Lifehacker] [Avoid These Four Common Mistakes When Driving on Black Ice](https://lifehacker.com/travel/black-ice-driving-tips-and-mistakes)
-- [Dev.to/JS] [19 React Boilerplates to QuickStart Your Project](https://dev.to/opensourcee/19-react-boilerplates-to-quickstart-your-project-56ge)
+- [Dev.to/JS] [18 React Boilerplates to QuickStart Your Project](https://dev.to/opensourcee/19-react-boilerplates-to-quickstart-your-project-56ge)
 - [Dev.to/JS] [Northcoders Week 1: Mountains to climb, paths to choose 🧙🏻](https://dev.to/gruitt/northcoders-week-1-mountains-to-climb-paths-to-choose-3k62)
 - [Dev.to/JS] [Northcoders Week 1: Mountains to climb, paths to choose 🧙🏻](https://dev.to/gruitt/northcoders-week-1-mountains-to-climb-paths-to-choose-1bdf)
 - [Lifehacker] [GameStop Has a Great Deal on Gaming Consoles Right Now](https://lifehacker.com/entertainment/gamestop-deal-ps5-xbox-nintendo-switch)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Full-Stack Web App with Next.js 14, Resend &amp; Supabase](https://dev.to/guillaumeduhan/building-a-full-stack-web-app-with-nextjs-14-resend-supabase-1kkh)
 - [Dev.to/JS] [tsParticles 3.0.2 Released](https://dev.to/tsparticles/tsparticles-302-released-29e9)
 - [Lifehacker] [These Are the Best Affordable Smartphones of 2023](https://lifehacker.com/tech/the-best-affordable-smartphones-2023)
-- [Dev.to/JS] [Part 5: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-5-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-k1b)
-- [Dev.to/JS] [Java vs JavaScript: A Quirky Exploration of Programming Languages](https://dev.to/paulnoth/java-vs-javascript-a-quirky-exploration-of-programming-languages-163i)
 - [Lifehacker] [Why Water Beads Are Actually Dangerous for Kids](https://lifehacker.com/family/why-water-beads-are-dangerous-for-kids)
 - [Lifehacker] [How to Get Hulu Content on Disney+ Right Now](https://lifehacker.com/entertainment/hulu-on-disney-plus)
 - [Lifehacker] [How Amazon Prime Student Members Can Get a $25 Flight Home for the Holidays](https://lifehacker.com/travel/amazon-prime-student-25-dollar-holiday-flights-giveaway)
