@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeJS Backend tools - Node Version Manager &lpar;NVM&rpar;](https://dev.to/thebridge2/nodejs-backend-tools-node-version-manager-nvm-116g)
 - [Dev.to/JS] [Web Components Debut: My First Dive In](https://dev.to/nyruchi/web-components-debut-my-first-dive-in-18ga)
 - [Dev.to/JS] [Programación 3D con JavaScript - parte 1](https://dev.to/javascriptchile/programacion-3d-con-javascript-parte-1-2k95)
 - [Lifehacker] [You Should Join the Audubon Society’s Christmas Bird Count This Year](https://lifehacker.com/science/join-audubon-society-christmas-bird-count)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Comparing Java and JavaScript](https://dev.to/saandre0217/comparing-java-and-javascript-4mi6)
 - [Lifehacker] [Gemini Is Google&#39;s Answer to GPT-4](https://lifehacker.com/tech/google-gemini-and-openai-gpt-4)
 - [Dev.to/JS] [How to quickly debug requests from k6 test scenarios](https://dev.to/gpiechnik/how-to-quickly-debug-requests-from-k6-test-scenarios-4id3)
-- [Dev.to/JS] [React Beyond the Boilerplate: Unleashing Creativity with Manual Mastery - Part 1: React as a CDN](https://dev.to/ajayprakash/react-beyond-the-boilerplate-unleashing-creativity-with-manual-mastery-part-1-using-react-as-a-cdn-without-npm-or-jsx-8oe)
 - [Lifehacker] [How to Share Your Location in iPhone&#39;s &#39;Find My&#39; App](https://lifehacker.com/tech/how-to-share-location-iphone)
 - [Lifehacker] [These Smart Holiday Lights Are Designed to Stay up All Year Long](https://lifehacker.com/tech/govee-permanent-outdoor-lights-pro-review)
 - [Lifehacker] [Every New Feature in the Google Pixel December Drop](https://lifehacker.com/tech/december-feature-drop-for-pixel-phones)
