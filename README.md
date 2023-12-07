@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NPM package development with Vite 5.x](https://dev.to/brifiction/npm-package-development-with-vite-5x-35i5)
 - [Dev.to/JS] [Elevate Your Web Development Game: 12 JavaScript Features Every Developer Should Master](https://dev.to/shadbalti/elevate-your-web-development-game-12-javascript-features-every-developer-should-master-21f)
 - [Dev.to/JS] [Let&#39;s Talk about Event Loop in JavaScript](https://dev.to/vivek_gupta/lets-talk-about-event-loop-in-javascript-c4k)
 - [Dev.to/JS] [New Array Method in JavaScript: groupBy](https://dev.to/manthanank/new-array-method-in-javascript-groupby-3f5n)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-7-2023)
 - [Dev.to/JS] [Your First Backend Project](https://dev.to/adjeijrdev/your-first-backend-project-20gl)
 - [Dev.to/JS] [JavaScript Excel Spreadsheet Use Cases: Government Agencies](https://dev.to/mescius/javascript-excel-spreadsheet-use-cases-government-agencies-3hf7)
-- [Dev.to/JS] [Custom client directives with Astro](https://dev.to/nguyen/custom-client-directives-with-astro-4p5k)
 - [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)
 - [Lifehacker] [Use Your Instacart+ Membership to Get Peacock Premium for Free](https://lifehacker.com/entertainment/free-peacock-premium-instacart-membership)
 - [Lifehacker] [Avoid These Four Common Mistakes When Driving on Black Ice](https://lifehacker.com/travel/black-ice-driving-tips-and-mistakes)
