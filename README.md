@@ -26,10 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [asd](https://dev.to/cdnom/asd-427c)
+- [Dev.to/JS] [✨ Unveil the Magic – CSS Auto-Height Transitions!](https://dev.to/adam/unveil-the-magic-css-auto-height-transitions-3fe7)
+- [Lifehacker] [These Are the Biggest Differences Between Google Bard and ChatGPT](https://lifehacker.com/tech/what-is-google-bard-ai-chatbot)
+- [Lifehacker] [Where to Find Cheap Home Cleaning Services for the Holidays](https://lifehacker.com/home/best-home-cleaning-deals-for-holidays)
 - [Dev.to/JS] [Mission 3: Be a NoSQL Backend Brainiac -1](https://dev.to/karakib2k18/mission-3-be-a-nosql-backend-brainiac-1-38jm)
+- [Lifehacker] [The Best Deals on Smartwatches That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-deals-on-smartwatches-for-christmas-2023)
+- [Lifehacker] [What I Learned From Tracking My Sleep With an Apple Watch](https://lifehacker.com/tech/sleep-tracking-with-apple-watch)
 - [Dev.to/JS] [How to deploy an Express API to Vercel](https://dev.to/karakib2k18/how-to-deploy-an-express-api-to-vercel-2lj0)
+- [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)
 - [Dev.to/JS] [RGB vs. Hex colors](https://dev.to/hessler5/rgb-vs-hex-colors-3f1i)
 - [Dev.to/JS] [🚀 Elevate your text game with HTML! Need to raise text?](https://dev.to/mritunjaysaha/elevate-your-text-game-with-html-need-to-raise-text-3jhj)
+- [Lifehacker] [Use These Five Strategies for Finding an Affordable Rental in an Unaffordable City](https://lifehacker.com/money/finding-affordable-rental-expensive-city)
 - [Dev.to/JS] [NodeJS Backend tools - Node Version Manager &lpar;NVM&rpar;](https://dev.to/thebridge2/nodejs-backend-tools-node-version-manager-nvm-116g)
 - [Lifehacker] [Nanoleaf&#39;s String Lights Are Worth It for Your Christmas Tree](https://lifehacker.com/tech/nanoleaf-holiday-string-lights-review)
 - [Lifehacker] [How to Watch the 2023 Game Awards Tonight](https://lifehacker.com/entertainment/how-to-watch-game-awards)
@@ -41,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Form Building with Prismane](https://dev.to/prismaneui/form-building-with-prismane-32d3)
 - [Lifehacker] [This Medium-rare Brisket Is a Sous Vide Miracle](https://lifehacker.com/food-drink/medium-rare-brisket-sous-vide-recipe)
 - [Dev.to/JS] [Search the way How transfer token captcha on site](https://dev.to/pbadicean/search-the-way-how-transfer-token-captcha-on-site-4406)
-- [Dev.to/JS] [WebAuthN in Remix - FaceID, YubiKey, and more!](https://dev.to/rametta/webauthn-in-remix-faceid-yubikey-and-more-5en)
 - [Lifehacker] [Reheat Fried Chicken Without Losing the Crunch](https://lifehacker.com/food-drink/reheat-fried-chicken)
-- [Dev.to/JS] [What is Inheritance and the Prototype Object in JavaScript?](https://dev.to/justmrkhan/what-is-inheritance-and-the-prototype-object-in-javascript-1jb9)
 - [Lifehacker] [You Can Create Your Own Custom iPhone Browser With Quiche](https://lifehacker.com/tech/custom-iphone-browser-quiche)
 - [Lifehacker] [Gemini Is Google&#39;s Answer to GPT-4](https://lifehacker.com/tech/google-gemini-and-openai-gpt-4)
 - [Lifehacker] [How to Share Your Location in iPhone&#39;s &#39;Find My&#39; App](https://lifehacker.com/tech/how-to-share-location-iphone)
@@ -59,13 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Waffle This Frico-encrusted Sausage, Egg, and Cheese](https://lifehacker.com/food-drink/frico-encrusted-sausage-egg-and-cheese-waffle-sandwich)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
 - [Lifehacker] [These Are the Best Affordable Smartphones of 2023](https://lifehacker.com/tech/the-best-affordable-smartphones-2023)
-- [Lifehacker] [Why Water Beads Are Actually Dangerous for Kids](https://lifehacker.com/family/why-water-beads-are-dangerous-for-kids)
-- [Lifehacker] [How to Get Hulu Content on Disney+ Right Now](https://lifehacker.com/entertainment/hulu-on-disney-plus)
-- [Lifehacker] [How Amazon Prime Student Members Can Get a $25 Flight Home for the Holidays](https://lifehacker.com/travel/amazon-prime-student-25-dollar-holiday-flights-giveaway)
-- [Lifehacker] [My Best Advice for Shipping Christmas Cookies Without Ruining Them](https://lifehacker.com/food-drink/best-ways-to-ship-cookies)
-- [Lifehacker] [15 Podcast Episodes to Help You Through Major Parenting Challenges](https://lifehacker.com/family/the-best-parenting-podcast-episodes-for-every-milestone)
-- [Lifehacker] [Your iPhone Is Getting a Surprise Wireless Charging Upgrade](https://lifehacker.com/tech/your-iphone-is-getting-qi2-compatible-charging)
-- [Lifehacker] [The Best Tool Gifts for Landscaping and Garden Enthusiasts](https://lifehacker.com/home/best-tool-gifts-for-landscaping-and-garden-enthusiasts)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Water Beads Are Actually Dangerous for Kids](https://lifehacker.com/family/why-water-beads-are-dangerous-for-kids)<!-- TECH-POSTS:END -->
 
 ---
 
