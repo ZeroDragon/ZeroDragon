@@ -26,20 +26,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Components Debut: My First Dive In](https://dev.to/nyruchi/web-components-debut-my-first-dive-in-18ga)
+- [Dev.to/JS] [Programación 3D con JavaScript - parte 1](https://dev.to/javascriptchile/programacion-3d-con-javascript-parte-1-2k95)
+- [Lifehacker] [You Should Join the Audubon Society’s Christmas Bird Count This Year](https://lifehacker.com/science/join-audubon-society-christmas-bird-count)
+- [Dev.to/JS] [Best platform or framework for building communities](https://dev.to/ymc814z_thdgit/best-platform-or-framework-for-building-communities-4ehe)
+- [Lifehacker] [The Best Gifts for DIYers &lpar;That Aren’t Tools&rpar;](https://lifehacker.com/home/best-gifts-for-diyers-that-are-not-tools)
+- [Dev.to/JS] [Form Building with Prismane](https://dev.to/prismaneui/form-building-with-prismane-32d3)
+- [Lifehacker] [This Medium-rare Brisket Is a Sous Vide Miracle](https://lifehacker.com/food-drink/medium-rare-brisket-sous-vide-recipe)
 - [Dev.to/JS] [Search the way How transfer token captcha on site](https://dev.to/pbadicean/search-the-way-how-transfer-token-captcha-on-site-4406)
 - [Dev.to/JS] [WebAuthN in Remix - FaceID, YubiKey, and more!](https://dev.to/rametta/webauthn-in-remix-faceid-yubikey-and-more-5en)
+- [Lifehacker] [Reheat Fried Chicken Without Losing the Crunch](https://lifehacker.com/food-drink/reheat-fried-chicken)
 - [Dev.to/JS] [What is Inheritance and the Prototype Object in JavaScript?](https://dev.to/justmrkhan/what-is-inheritance-and-the-prototype-object-in-javascript-1jb9)
 - [Dev.to/JS] [How to Build a Vue Data Grid in Minutes](https://dev.to/mescius/how-to-build-a-vue-data-grid-in-minutes-4dej)
+- [Lifehacker] [You Can Create Your Own Custom iPhone Browser With Quiche](https://lifehacker.com/tech/custom-iphone-browser-quiche)
 - [Dev.to/JS] [#JavaScriptmas 2023 Day 1-6](https://dev.to/aishwaryamali24/javascriptmas-2023-day-1-6-3m15)
 - [Dev.to/JS] [Comparing Java and JavaScript](https://dev.to/saandre0217/comparing-java-and-javascript-4mi6)
+- [Lifehacker] [Gemini Is Google&#39;s Answer to GPT-4](https://lifehacker.com/tech/google-gemini-and-openai-gpt-4)
 - [Dev.to/JS] [How to quickly debug requests from k6 test scenarios](https://dev.to/gpiechnik/how-to-quickly-debug-requests-from-k6-test-scenarios-4id3)
 - [Dev.to/JS] [React Beyond the Boilerplate: Unleashing Creativity with Manual Mastery - Part 1: React as a CDN](https://dev.to/ajayprakash/react-beyond-the-boilerplate-unleashing-creativity-with-manual-mastery-part-1-using-react-as-a-cdn-without-npm-or-jsx-8oe)
-- [Dev.to/JS] [Unleashing Productivity and Efficiency: 10 Essential Tools for Every Web Developer](https://dev.to/bhavesh_yadav/unleashing-productivity-and-efficiency-10-essential-tools-for-every-web-developer-256n)
-- [Dev.to/JS] [How I created a npm library, published it in a day?](https://dev.to/mank42/how-i-created-a-npm-library-published-it-in-a-day-9b2)
 - [Lifehacker] [How to Share Your Location in iPhone&#39;s &#39;Find My&#39; App](https://lifehacker.com/tech/how-to-share-location-iphone)
 - [Lifehacker] [These Smart Holiday Lights Are Designed to Stay up All Year Long](https://lifehacker.com/tech/govee-permanent-outdoor-lights-pro-review)
-- [Dev.to/JS] [Asynchronous Batching: The &lpar;not so&rpar; secret weapon of JavaScript](https://dev.to/cadienvan/asynchronous-batching-the-not-so-secret-weapon-of-javascript-2gno)
-- [Dev.to/JS] [Exploring E2E Testing: Ensuring Software Quality from Start to Finish](https://dev.to/keploy/exploring-e2e-testing-ensuring-software-quality-from-start-to-finish-283e)
 - [Lifehacker] [Every New Feature in the Google Pixel December Drop](https://lifehacker.com/tech/december-feature-drop-for-pixel-phones)
 - [Lifehacker] [How to Wrap Absolutely Any Gift &lpar;Even If You’ve Run Out of Tape or Paper&rpar;](https://lifehacker.com/home/gift-wrapping-for-holidays)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-7-2023)
@@ -59,13 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone Is Getting a Surprise Wireless Charging Upgrade](https://lifehacker.com/tech/your-iphone-is-getting-qi2-compatible-charging)
 - [Lifehacker] [The Best Tool Gifts for Landscaping and Garden Enthusiasts](https://lifehacker.com/home/best-tool-gifts-for-landscaping-and-garden-enthusiasts)
 - [Lifehacker] [The Most Common DIY Injuries and How to Prevent Them](https://lifehacker.com/home/avoid-these-common-diy-injuries)
-- [Lifehacker] [The 33 Buzziest Awards Movies &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/best-awards-movies)
-- [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
-- [Lifehacker] [Here&#39;s How to Get Your Apple Watch Fitness Year in Review](https://lifehacker.com/tech/apple-watch-fitness-year-in-review)
-- [Lifehacker] [Four Tricks to Get Around ChatGPT’s Character Limit](https://lifehacker.com/tech/four-ways-to-get-around-chatgpts-character-limit)
-- [Lifehacker] [Three Ways to DIY a Last-minute Menorah](https://lifehacker.com/home/diy-a-last-minute-menorah-for-hannukah)
-- [Lifehacker] [The Best Gifts for DIYers and Woodworkers](https://lifehacker.com/home/tool-gifts-for-diy-woodworkers)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 6, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-6-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 33 Buzziest Awards Movies &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/best-awards-movies)<!-- TECH-POSTS:END -->
 
 ---
 
