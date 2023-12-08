@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Programar sin Título Universitario](https://dev.to/edgar_barcenas/programar-sin-titulo-universitario-4gml)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-8-2023)
+- [Dev.to/JS] [Data Structures and Algorithms: Linked List Methods in JavaScript](https://dev.to/faraib/data-structures-and-algorithms-linked-list-methods-in-javascript-2mm9)
 - [Dev.to/JS] [Developing an Airbnb Clone using Laravel Framework](https://dev.to/zipprr_off/developing-an-airbnb-clone-using-laravel-framework-2af2)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-8-2023)
 - [Dev.to/JS] [Integrating Django and React in a Django Project](https://dev.to/petrjoe/integrating-django-and-react-in-a-django-project-2bfj)
 - [Lifehacker] [These Are the Best Christmas Sales on Headphones](https://lifehacker.com/tech/best-headphone-gifts-christmas)
 - [Dev.to/JS] [Exploring DevOps as Frontend Developer](https://dev.to/akbarnafisa/exploring-devops-as-frontend-developer-pia)
@@ -47,10 +51,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [RGB vs. Hex colors](https://dev.to/hessler5/rgb-vs-hex-colors-3f1i)
 - [Dev.to/JS] [🚀 Elevate your text game with HTML! Need to raise text?](https://dev.to/mritunjaysaha/elevate-your-text-game-with-html-need-to-raise-text-3jhj)
 - [Lifehacker] [Use These Five Strategies for Finding an Affordable Rental in an Unaffordable City](https://lifehacker.com/money/finding-affordable-rental-expensive-city)
-- [Dev.to/JS] [NodeJS Backend tools - Node Version Manager &lpar;NVM&rpar;](https://dev.to/thebridge2/nodejs-backend-tools-node-version-manager-nvm-116g)
 - [Lifehacker] [Nanoleaf&#39;s String Lights Are Worth It for Your Christmas Tree](https://lifehacker.com/tech/nanoleaf-holiday-string-lights-review)
 - [Lifehacker] [How to Watch the 2023 Game Awards Tonight](https://lifehacker.com/entertainment/how-to-watch-game-awards)
-- [Dev.to/JS] [Web Components Debut: My First Dive In](https://dev.to/nyruchi/web-components-debut-my-first-dive-in-18ga)
 - [Lifehacker] [You Should Join the Audubon Society’s Christmas Bird Count This Year](https://lifehacker.com/science/join-audubon-society-christmas-bird-count)
 - [Lifehacker] [The Best Gifts for DIYers &lpar;That Aren’t Tools&rpar;](https://lifehacker.com/home/best-gifts-for-diyers-that-are-not-tools)
 - [Lifehacker] [This Medium-rare Brisket Is a Sous Vide Miracle](https://lifehacker.com/food-drink/medium-rare-brisket-sous-vide-recipe)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Wrap Absolutely Any Gift &lpar;Even If You’ve Run Out of Tape or Paper&rpar;](https://lifehacker.com/home/gift-wrapping-for-holidays)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-7-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-7-2023)
-- [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)
-- [Lifehacker] [Use Your Instacart+ Membership to Get Peacock Premium for Free](https://lifehacker.com/entertainment/free-peacock-premium-instacart-membership)
-- [Lifehacker] [Avoid These Four Common Mistakes When Driving on Black Ice](https://lifehacker.com/travel/black-ice-driving-tips-and-mistakes)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)<!-- TECH-POSTS:END -->
 
 ---
 
