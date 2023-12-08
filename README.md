@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10+ Best AI Tools For Business – Flatlogic Review](https://dev.to/alesiasirotka/10-best-ai-tools-for-business-flatlogic-review-11p7)
+- [Dev.to/JS] [Useful javascript ES6 nuggets](https://dev.to/harshit_kedia/useful-javascript-es6-nuggets-29ac)
 - [Dev.to/JS] [Hymenoplasty Surgery in Delhi: A Comprehensive Overview of the Procedure](https://dev.to/cosmeticsurgeondelhi/hymenoplasty-surgery-in-delhi-a-comprehensive-overview-of-the-procedure-2bee)
 - [Dev.to/JS] [How To install feed from your live stream in node-media-server.](https://dev.to/rutvikjani/how-to-install-feed-from-your-live-stream-in-node-media-server-pop)
 - [Dev.to/JS] [Password hashing](https://dev.to/athuljain/password-hashing-44g0)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Switch Case in different ways](https://dev.to/jrtilak/switch-case-in-different-ways-4926)
 - [Dev.to/JS] [Programar sin Título Universitario](https://dev.to/edgar_barcenas/programar-sin-titulo-universitario-4gml)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-8-2023)
-- [Dev.to/JS] [Data Structures and Algorithms: Linked List Methods in JavaScript](https://dev.to/faraib/data-structures-and-algorithms-linked-list-methods-in-javascript-2mm9)
-- [Dev.to/JS] [Developing an Airbnb Clone using Laravel Framework](https://dev.to/zipprr_off/developing-an-airbnb-clone-using-laravel-framework-2af2)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-8-2023)
 - [Lifehacker] [These Are the Best Christmas Sales on Headphones](https://lifehacker.com/tech/best-headphone-gifts-christmas)
 - [Lifehacker] [You Need to Balance Your HVAC System](https://lifehacker.com/home/how-to-balance-hvac-system)
