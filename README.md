@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Safeguard Yourself from Phishing: Understanding the Sneaky Cyber Threat](https://dev.to/aeejazkhan/how-to-safeguard-yourself-from-phishing-understanding-the-sneaky-cyber-threat-59eh)
 - [Dev.to/JS] [Converting Figma Designs to Flutter Code: Best Figma to Flutter Plugins](https://dev.to/function12_io/converting-figma-designs-to-flutter-code-best-figma-to-flutter-plugins-28fn)
 - [Dev.to/JS] [Switch Case in different ways](https://dev.to/jrtilak/switch-case-in-different-ways-4926)
 - [Dev.to/JS] [Programar sin Título Universitario](https://dev.to/edgar_barcenas/programar-sin-titulo-universitario-4gml)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mission 3: Be a NoSQL Backend Brainiac -1](https://dev.to/karakib2k18/mission-3-be-a-nosql-backend-brainiac-1-38jm)
 - [Lifehacker] [The Best Deals on Smartwatches That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-deals-on-smartwatches-for-christmas-2023)
 - [Lifehacker] [What I Learned From Tracking My Sleep With an Apple Watch](https://lifehacker.com/tech/sleep-tracking-with-apple-watch)
-- [Dev.to/JS] [How to deploy an Express API to Vercel](https://dev.to/karakib2k18/how-to-deploy-an-express-api-to-vercel-2lj0)
 - [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)
 - [Lifehacker] [Use These Five Strategies for Finding an Affordable Rental in an Unaffordable City](https://lifehacker.com/money/finding-affordable-rental-expensive-city)
 - [Lifehacker] [Nanoleaf&#39;s String Lights Are Worth It for Your Christmas Tree](https://lifehacker.com/tech/nanoleaf-holiday-string-lights-review)
