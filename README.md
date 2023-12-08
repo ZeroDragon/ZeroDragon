@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring DevOps as Frontend Developer](https://dev.to/akbarnafisa/exploring-devops-as-frontend-developer-pia)
+- [Dev.to/JS] [“Do Not Push To Production” And Other Insecure Coding, Demonstrated By An Ethical Hacker](https://dev.to/gitguardiangregb/do-not-push-to-production-and-other-insecure-coding-demonstrated-by-an-ethical-hacker-5hg7)
 - [Dev.to/JS] [asd](https://dev.to/cdnom/asd-427c)
 - [Dev.to/JS] [✨ Unveil the Magic – CSS Auto-Height Transitions!](https://dev.to/adam/unveil-the-magic-css-auto-height-transitions-3fe7)
+- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
+- [Lifehacker] [Make These Lazy Air-fried Mac &amp; Cheese Bites](https://lifehacker.com/food-drink/air-fried-mac-n-cheese-bites-recipe)
 - [Lifehacker] [These Are the Biggest Differences Between Google Bard and ChatGPT](https://lifehacker.com/tech/what-is-google-bard-ai-chatbot)
 - [Lifehacker] [Where to Find Cheap Home Cleaning Services for the Holidays](https://lifehacker.com/home/best-home-cleaning-deals-for-holidays)
 - [Dev.to/JS] [Mission 3: Be a NoSQL Backend Brainiac -1](https://dev.to/karakib2k18/mission-3-be-a-nosql-backend-brainiac-1-38jm)
@@ -46,9 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Join the Audubon Society’s Christmas Bird Count This Year](https://lifehacker.com/science/join-audubon-society-christmas-bird-count)
 - [Dev.to/JS] [Best platform or framework for building communities](https://dev.to/ymc814z_thdgit/best-platform-or-framework-for-building-communities-4ehe)
 - [Lifehacker] [The Best Gifts for DIYers &lpar;That Aren’t Tools&rpar;](https://lifehacker.com/home/best-gifts-for-diyers-that-are-not-tools)
-- [Dev.to/JS] [Form Building with Prismane](https://dev.to/prismaneui/form-building-with-prismane-32d3)
 - [Lifehacker] [This Medium-rare Brisket Is a Sous Vide Miracle](https://lifehacker.com/food-drink/medium-rare-brisket-sous-vide-recipe)
-- [Dev.to/JS] [Search the way How transfer token captcha on site](https://dev.to/pbadicean/search-the-way-how-transfer-token-captcha-on-site-4406)
 - [Lifehacker] [Reheat Fried Chicken Without Losing the Crunch](https://lifehacker.com/food-drink/reheat-fried-chicken)
 - [Lifehacker] [You Can Create Your Own Custom iPhone Browser With Quiche](https://lifehacker.com/tech/custom-iphone-browser-quiche)
 - [Lifehacker] [Gemini Is Google&#39;s Answer to GPT-4](https://lifehacker.com/tech/google-gemini-and-openai-gpt-4)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Four Common Mistakes When Driving on Black Ice](https://lifehacker.com/travel/black-ice-driving-tips-and-mistakes)
 - [Lifehacker] [GameStop Has a Great Deal on Gaming Consoles Right Now](https://lifehacker.com/entertainment/gamestop-deal-ps5-xbox-nintendo-switch)
 - [Lifehacker] [Waffle This Frico-encrusted Sausage, Egg, and Cheese](https://lifehacker.com/food-drink/frico-encrusted-sausage-egg-and-cheese-waffle-sandwich)
-- [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
-- [Lifehacker] [These Are the Best Affordable Smartphones of 2023](https://lifehacker.com/tech/the-best-affordable-smartphones-2023)
-- [Lifehacker] [Why Water Beads Are Actually Dangerous for Kids](https://lifehacker.com/family/why-water-beads-are-dangerous-for-kids)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)<!-- TECH-POSTS:END -->
 
 ---
 
