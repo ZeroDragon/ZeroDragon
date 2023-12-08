@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Debate on Libraries vs. Native JavaScript: What’s Best for Your Project?](https://dev.to/c0mmand3rj/the-debate-on-libraries-vs-native-javascript-whats-best-for-your-project-2h12)
+- [Dev.to/JS] [If You Give A Seed A Fertilizer](https://dev.to/rmion/if-you-give-a-seed-a-fertilizer-bhn)
+- [Lifehacker] [You May Now Add One, Yes One, Tag to Threads Posts](https://lifehacker.com/tech/how-to-add-tags-to-a-threads-posts)
 - [Dev.to/JS] [Holiday Hackathon](https://dev.to/xata/holiday-hackathon-2122)
 - [Dev.to/JS] [Top 7 Frontend Trends 📈 and Predictions For 2024 You Should Watch Out &lpar;According to Experts&rpar;💎](https://dev.to/blarzhernandez/top-7-frontend-trends-and-predictions-for-2024-you-should-watch-out-according-to-experts-239n)
 - [Dev.to/JS] [Snow &lpar;Pure CSS&rpar;](https://dev.to/geronimo96/snow-pure-css-47j0)
@@ -39,11 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Amp Credit Loan Customer Care Helpline Number ;&rpar;&rpar;.9330079553. Contactjfj](https://dev.to/rajkumar541335/amp-credit-loan-customer-care-helpline-number-9330079553-contactjfj-3378)
 - [Lifehacker] [15 of the Best Movie Podcasts to Help You Find Your Next Favorite Film](https://lifehacker.com/entertainment/best-movie-podcasts)
 - [Dev.to/JS] [Visual Primitives and Headless UIs - a Modern UI Library Trend](https://dev.to/danielkov/visual-primitives-and-headless-uis-a-modern-ui-library-trend-19jk)
-- [Dev.to/JS] [OTP Input Field | JavaScript Project](https://dev.to/codingcss/otp-input-field-javascript-project-3h3l)
 - [Lifehacker] [The Best Sex Toys to Stuff a Stocking](https://lifehacker.com/relationships/sex-toy-stocking-stuffers)
 - [Lifehacker] [You Can Use Meta&#39;s New AI Image Generator for Free](https://lifehacker.com/tech/metas-new-ai-image-generator-is-free)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
-- [Dev.to/JS] [useEffect is not working in production](https://dev.to/sushilmagare10/useeffect-is-not-working-in-producti-452p)
 - [Lifehacker] [Apple Journal Might Help You Finally Start Journaling](https://lifehacker.com/tech/apple-journal-app-review)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Vibecession&#39;](https://lifehacker.com/entertainment/what-people-get-wrong-vibecession)
 - [Lifehacker] [What to Do When You Fail a College Class](https://lifehacker.com/family/what-to-do-if-you-fail-college-class)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Five Strategies for Finding an Affordable Rental in an Unaffordable City](https://lifehacker.com/money/finding-affordable-rental-expensive-city)
 - [Lifehacker] [Nanoleaf&#39;s String Lights Are Worth It for Your Christmas Tree](https://lifehacker.com/tech/nanoleaf-holiday-string-lights-review)
 - [Lifehacker] [How to Watch the 2023 Game Awards Tonight](https://lifehacker.com/entertainment/how-to-watch-game-awards)
-- [Lifehacker] [You Should Join the Audubon Society’s Christmas Bird Count This Year](https://lifehacker.com/science/join-audubon-society-christmas-bird-count)
-- [Lifehacker] [The Best Gifts for DIYers &lpar;That Aren’t Tools&rpar;](https://lifehacker.com/home/best-gifts-for-diyers-that-are-not-tools)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Join the Audubon Society’s Christmas Bird Count This Year](https://lifehacker.com/science/join-audubon-society-christmas-bird-count)<!-- TECH-POSTS:END -->
 
 ---
 
