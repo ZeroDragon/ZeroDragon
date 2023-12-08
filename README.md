@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 7 Frontend Trends 📈 and Predictions For 2024 You Should Watch Out &lpar;According to Experts&rpar;💎](https://dev.to/blarzhernandez/top-7-frontend-trends-and-predictions-for-2024-you-should-watch-out-according-to-experts-239n)
+- [Dev.to/JS] [Snow &lpar;Pure CSS&rpar;](https://dev.to/geronimo96/snow-pure-css-47j0)
+- [Dev.to/JS] [what is API](https://dev.to/khamal22/what-is-api-53b0)
 - [Dev.to/JS] [Understanding Web Components in JavaScript: Creating Custom Elements](https://dev.to/m__mdy__m/understanding-web-components-in-javascript-creating-custom-elements-1iik)
 - [Dev.to/JS] [Learn open-source contribution.](https://dev.to/sujithvsuresh/learn-open-source-contribution-4me3)
 - [Dev.to/JS] [Understanding HTTP and Express.js: A Comparative Analysi](https://dev.to/m__mdy__m/understanding-http-and-expressjs-a-comparative-analysi-1cfo)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useEffect is not working in production](https://dev.to/sushilmagare10/useeffect-is-not-working-in-producti-452p)
 - [Lifehacker] [Apple Journal Might Help You Finally Start Journaling](https://lifehacker.com/tech/apple-journal-app-review)
 - [Dev.to/JS] [Buy TextNow Accounts](https://dev.to/hermanstickel1/buy-textnow-accounts-19g6)
-- [Dev.to/JS] [Creating a Slackbot With JavaScript Bolt](https://dev.to/isaksolheim/creating-a-slackbot-with-javascript-bolt-1kp7)
-- [Dev.to/JS] [JavaScript Templating Engines: Pug, Handlebars &lpar;HBS&rpar;, and EJS](https://dev.to/m__mdy__m/javascript-templating-engines-pug-handlebars-hbs-and-ejs-jcd)
-- [Dev.to/JS] [Almost Everything I Need To Know About Arrays In Javascript Using Crypto As Examples](https://dev.to/apicrud/almost-everything-i-need-to-know-about-arrays-in-javascript-using-crypto-as-examples-2kie)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Vibecession&#39;](https://lifehacker.com/entertainment/what-people-get-wrong-vibecession)
 - [Lifehacker] [What to Do When You Fail a College Class](https://lifehacker.com/family/what-to-do-if-you-fail-college-class)
 - [Lifehacker] [The NordicTrack Commercial S22i Studio Cycle Is on Sale for Its Lowest Price Ever Right Now](https://lifehacker.com/health/nordictrack-s22i-deal-40-percent-off)
