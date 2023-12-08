@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy TextNow Accounts](https://dev.to/hermanstickel1/buy-textnow-accounts-19g6)
+- [Dev.to/JS] [Creating a Slackbot With JavaScript Bolt](https://dev.to/isaksolheim/creating-a-slackbot-with-javascript-bolt-1kp7)
+- [Dev.to/JS] [JavaScript Templating Engines: Pug, Handlebars &lpar;HBS&rpar;, and EJS](https://dev.to/m__mdy__m/javascript-templating-engines-pug-handlebars-hbs-and-ejs-jcd)
+- [Dev.to/JS] [Almost Everything I Need To Know About Arrays In Javascript Using Crypto As Examples](https://dev.to/apicrud/almost-everything-i-need-to-know-about-arrays-in-javascript-using-crypto-as-examples-2kie)
+- [Dev.to/JS] [HOISTING in javascript](https://dev.to/ghazanfarofficial01/hoisting-in-javascript-26ib)
+- [Dev.to/JS] [JAVASCRIPT ARRAY METHODS: KNOW WHICH ONES YOU NEED TO KNOW](https://dev.to/hgbeleza/javascript-array-methods-know-which-ones-you-need-to-know-5hj1)
 - [Dev.to/JS] [$0 to $800+ in 3 weeks from a SaaS Boilerplate](https://dev.to/salmandotweb/0-to-847-in-3-weeks-from-a-saas-boilerplate-363d)
 - [Lifehacker] [The NordicTrack Commercial S22i Studio Cycle Is on Sale for Its Lowest Price Ever Right Now](https://lifehacker.com/health/nordictrack-s22i-deal-40-percent-off)
 - [Dev.to/JS] [SPL: Transforming Data Processing with Grid-Style Coding](https://dev.to/mukeshkuiry/spl-transforming-data-processing-with-grid-style-coding-3if)
@@ -34,12 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build better forms with React hook form | Everything you need to know](https://dev.to/thatanjan/build-better-forms-with-react-hook-form-everything-you-need-to-know-3fh2)
 - [Dev.to/JS] [devops training in chennai](https://dev.to/balaji15/devops-training-in-chennai-24el)
 - [Dev.to/JS] [How to make React fields interdependent of each other](https://dev.to/shashwat20create/how-to-make-react-fields-interdependent-of-each-other-5aan)
-- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #4](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-4-4d7f)
-- [Dev.to/JS] [JAVASCRIPT ARRAY METHODS: KNOW WHICH ONES YOU NEED TO KNOW](https://dev.to/lolzcec_/javascript-array-methods-know-which-ones-you-need-to-know-4lep)
-- [Dev.to/JS] [The Reasons Behind Having Your Website Function Offline &lpar;And What To Do About It&rpar;](https://dev.to/rajeshnatarajan/the-reasons-behind-having-your-website-function-offline-and-what-to-do-about-it-1nnp)
-- [Dev.to/JS] [10+ Best AI Tools For Business – Flatlogic Review](https://dev.to/alesiasirotka/10-best-ai-tools-for-business-flatlogic-review-11p7)
-- [Dev.to/JS] [Useful javascript ES6 nuggets](https://dev.to/harshit_kedia/useful-javascript-es6-nuggets-29ac)
-- [Dev.to/JS] [Hymenoplasty Surgery in Delhi: A Comprehensive Overview of the Procedure](https://dev.to/cosmeticsurgeondelhi/hymenoplasty-surgery-in-delhi-a-comprehensive-overview-of-the-procedure-2bee)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-8-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-8-2023)
 - [Lifehacker] [These Are the Best Christmas Sales on Headphones](https://lifehacker.com/tech/best-headphone-gifts-christmas)
