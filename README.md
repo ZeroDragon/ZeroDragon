@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Converting Figma Designs to Flutter Code: Best Figma to Flutter Plugins](https://dev.to/function12_io/converting-figma-designs-to-flutter-code-best-figma-to-flutter-plugins-28fn)
 - [Dev.to/JS] [Switch Case in different ways](https://dev.to/jrtilak/switch-case-in-different-ways-4926)
 - [Dev.to/JS] [Programar sin Título Universitario](https://dev.to/edgar_barcenas/programar-sin-titulo-universitario-4gml)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-8-2023)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What I Learned From Tracking My Sleep With an Apple Watch](https://lifehacker.com/tech/sleep-tracking-with-apple-watch)
 - [Dev.to/JS] [How to deploy an Express API to Vercel](https://dev.to/karakib2k18/how-to-deploy-an-express-api-to-vercel-2lj0)
 - [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)
-- [Dev.to/JS] [RGB vs. Hex colors](https://dev.to/hessler5/rgb-vs-hex-colors-3f1i)
 - [Lifehacker] [Use These Five Strategies for Finding an Affordable Rental in an Unaffordable City](https://lifehacker.com/money/finding-affordable-rental-expensive-city)
 - [Lifehacker] [Nanoleaf&#39;s String Lights Are Worth It for Your Christmas Tree](https://lifehacker.com/tech/nanoleaf-holiday-string-lights-review)
 - [Lifehacker] [How to Watch the 2023 Game Awards Tonight](https://lifehacker.com/entertainment/how-to-watch-game-awards)
