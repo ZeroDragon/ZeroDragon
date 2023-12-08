@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developing an Airbnb Clone using Laravel Framework](https://dev.to/zipprr_off/developing-an-airbnb-clone-using-laravel-framework-2af2)
+- [Dev.to/JS] [Integrating Django and React in a Django Project](https://dev.to/petrjoe/integrating-django-and-react-in-a-django-project-2bfj)
+- [Lifehacker] [These Are the Best Christmas Sales on Headphones](https://lifehacker.com/tech/best-headphone-gifts-christmas)
 - [Dev.to/JS] [Exploring DevOps as Frontend Developer](https://dev.to/akbarnafisa/exploring-devops-as-frontend-developer-pia)
 - [Dev.to/JS] [“Do Not Push To Production” And Other Insecure Coding, Demonstrated By An Ethical Hacker](https://dev.to/gitguardiangregb/do-not-push-to-production-and-other-insecure-coding-demonstrated-by-an-ethical-hacker-5hg7)
+- [Lifehacker] [You Need to Balance Your HVAC System](https://lifehacker.com/home/how-to-balance-hvac-system)
+- [Lifehacker] [You Can Use End-to-End Encryption in Facebook Messenger Right Now](https://lifehacker.com/how-to-use-end-to-end-encryption-in-facebook-messenger-1849405695)
 - [Dev.to/JS] [asd](https://dev.to/cdnom/asd-427c)
 - [Dev.to/JS] [✨ Unveil the Magic – CSS Auto-Height Transitions!](https://dev.to/adam/unveil-the-magic-css-auto-height-transitions-3fe7)
 - [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
@@ -46,9 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nanoleaf&#39;s String Lights Are Worth It for Your Christmas Tree](https://lifehacker.com/tech/nanoleaf-holiday-string-lights-review)
 - [Lifehacker] [How to Watch the 2023 Game Awards Tonight](https://lifehacker.com/entertainment/how-to-watch-game-awards)
 - [Dev.to/JS] [Web Components Debut: My First Dive In](https://dev.to/nyruchi/web-components-debut-my-first-dive-in-18ga)
-- [Dev.to/JS] [Programación 3D con JavaScript - parte 1](https://dev.to/javascriptchile/programacion-3d-con-javascript-parte-1-2k95)
 - [Lifehacker] [You Should Join the Audubon Society’s Christmas Bird Count This Year](https://lifehacker.com/science/join-audubon-society-christmas-bird-count)
-- [Dev.to/JS] [Best platform or framework for building communities](https://dev.to/ymc814z_thdgit/best-platform-or-framework-for-building-communities-4ehe)
 - [Lifehacker] [The Best Gifts for DIYers &lpar;That Aren’t Tools&rpar;](https://lifehacker.com/home/best-gifts-for-diyers-that-are-not-tools)
 - [Lifehacker] [This Medium-rare Brisket Is a Sous Vide Miracle](https://lifehacker.com/food-drink/medium-rare-brisket-sous-vide-recipe)
 - [Lifehacker] [Reheat Fried Chicken Without Losing the Crunch](https://lifehacker.com/food-drink/reheat-fried-chicken)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-7-2023)
 - [Lifehacker] [The Meta Quest 3 Is Still Searching for a Reason to Exist](https://lifehacker.com/tech/meta-quest-3-review-still-searching-for-a-reason-to-exist)
 - [Lifehacker] [Use Your Instacart+ Membership to Get Peacock Premium for Free](https://lifehacker.com/entertainment/free-peacock-premium-instacart-membership)
-- [Lifehacker] [Avoid These Four Common Mistakes When Driving on Black Ice](https://lifehacker.com/travel/black-ice-driving-tips-and-mistakes)
-- [Lifehacker] [GameStop Has a Great Deal on Gaming Consoles Right Now](https://lifehacker.com/entertainment/gamestop-deal-ps5-xbox-nintendo-switch)
-- [Lifehacker] [Waffle This Frico-encrusted Sausage, Egg, and Cheese](https://lifehacker.com/food-drink/frico-encrusted-sausage-egg-and-cheese-waffle-sandwich)
-- [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid These Four Common Mistakes When Driving on Black Ice](https://lifehacker.com/travel/black-ice-driving-tips-and-mistakes)<!-- TECH-POSTS:END -->
 
 ---
 
