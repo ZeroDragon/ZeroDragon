@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding HTTP and Express.js: A Comparative Analysi](https://dev.to/m__mdy__m/understanding-http-and-expressjs-a-comparative-analysi-1cfo)
+- [Dev.to/JS] [Ng-News Double Feature: NgRx Signal Store, &quot;Plan 2&quot; for Signals](https://dev.to/this-is-angular/ng-news-double-feature-ngrx-signal-store-plan-2-for-signals-3i87)
+- [Dev.to/JS] [Amp Credit Loan Customer Care Helpline Number ;&rpar;&rpar;.9330079553. Contactjfj](https://dev.to/rajkumar541335/amp-credit-loan-customer-care-helpline-number-9330079553-contactjfj-3378)
+- [Dev.to/JS] [Visual Primitives and Headless UIs - a Modern UI Library Trend](https://dev.to/danielkov/visual-primitives-and-headless-uis-a-modern-ui-library-trend-19jk)
 - [Dev.to/JS] [OTP Input Field | JavaScript Project](https://dev.to/codingcss/otp-input-field-javascript-project-3h3l)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Dev.to/JS] [useEffect is not working in production](https://dev.to/sushilmagare10/useeffect-is-not-working-in-producti-452p)
@@ -38,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Vibecession&#39;](https://lifehacker.com/entertainment/what-people-get-wrong-vibecession)
 - [Dev.to/JS] [JAVASCRIPT ARRAY METHODS: KNOW WHICH ONES YOU NEED TO KNOW](https://dev.to/hgbeleza/javascript-array-methods-know-which-ones-you-need-to-know-5hj1)
 - [Lifehacker] [What to Do When You Fail a College Class](https://lifehacker.com/family/what-to-do-if-you-fail-college-class)
-- [Dev.to/JS] [$0 to $800+ in 3 weeks from a SaaS Boilerplate](https://dev.to/salmandotweb/0-to-847-in-3-weeks-from-a-saas-boilerplate-363d)
 - [Lifehacker] [The NordicTrack Commercial S22i Studio Cycle Is on Sale for Its Lowest Price Ever Right Now](https://lifehacker.com/health/nordictrack-s22i-deal-40-percent-off)
-- [Dev.to/JS] [SPL: Transforming Data Processing with Grid-Style Coding](https://dev.to/mukeshkuiry/spl-transforming-data-processing-with-grid-style-coding-3if)
 - [Lifehacker] [You Can Easily Wax Your Own Flower Bulbs This Winter](https://lifehacker.com/home/how-to-wax-your-own-flower-bulbs)
-- [Dev.to/JS] [Effective Error Handling in JavaScript Applications](https://dev.to/joanayebola/effective-error-handling-in-javascript-applications-3ph1)
-- [Dev.to/JS] [Build better forms with React hook form | Everything you need to know](https://dev.to/thatanjan/build-better-forms-with-react-hook-form-everything-you-need-to-know-3fh2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-8-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-8-2023)
 - [Lifehacker] [These Are the Best Christmas Sales on Headphones](https://lifehacker.com/tech/best-headphone-gifts-christmas)
