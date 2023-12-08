@@ -31,7 +31,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Templating Engines: Pug, Handlebars &lpar;HBS&rpar;, and EJS](https://dev.to/m__mdy__m/javascript-templating-engines-pug-handlebars-hbs-and-ejs-jcd)
 - [Dev.to/JS] [Almost Everything I Need To Know About Arrays In Javascript Using Crypto As Examples](https://dev.to/apicrud/almost-everything-i-need-to-know-about-arrays-in-javascript-using-crypto-as-examples-2kie)
 - [Dev.to/JS] [HOISTING in javascript](https://dev.to/ghazanfarofficial01/hoisting-in-javascript-26ib)
+- [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Vibecession&#39;](https://lifehacker.com/money/what-people-get-wrong-vibecession)
 - [Dev.to/JS] [JAVASCRIPT ARRAY METHODS: KNOW WHICH ONES YOU NEED TO KNOW](https://dev.to/hgbeleza/javascript-array-methods-know-which-ones-you-need-to-know-5hj1)
+- [Lifehacker] [What to Do When You Fail a College Class](https://lifehacker.com/family/what-to-do-if-you-fail-college-class)
 - [Dev.to/JS] [$0 to $800+ in 3 weeks from a SaaS Boilerplate](https://dev.to/salmandotweb/0-to-847-in-3-weeks-from-a-saas-boilerplate-363d)
 - [Lifehacker] [The NordicTrack Commercial S22i Studio Cycle Is on Sale for Its Lowest Price Ever Right Now](https://lifehacker.com/health/nordictrack-s22i-deal-40-percent-off)
 - [Dev.to/JS] [SPL: Transforming Data Processing with Grid-Style Coding](https://dev.to/mukeshkuiry/spl-transforming-data-processing-with-grid-style-coding-3if)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Gemini Is Google&#39;s Answer to GPT-4](https://lifehacker.com/tech/google-gemini-and-openai-gpt-4)
 - [Lifehacker] [How to Share Your Location in iPhone&#39;s &#39;Find My&#39; App](https://lifehacker.com/tech/how-to-share-location-iphone)
 - [Lifehacker] [These Smart Holiday Lights Are Designed to Stay up All Year Long](https://lifehacker.com/tech/govee-permanent-outdoor-lights-pro-review)
-- [Lifehacker] [Every New Feature in the Google Pixel December Drop](https://lifehacker.com/tech/december-feature-drop-for-pixel-phones)
-- [Lifehacker] [How to Wrap Absolutely Any Gift &lpar;Even If You’ve Run Out of Tape or Paper&rpar;](https://lifehacker.com/home/gift-wrapping-for-holidays)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 7, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-7-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Every New Feature in the Google Pixel December Drop](https://lifehacker.com/tech/december-feature-drop-for-pixel-phones)<!-- TECH-POSTS:END -->
 
 ---
 
