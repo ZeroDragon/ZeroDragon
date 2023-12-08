@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JAVASCRIPT ARRAY METHODS: KNOW WHICH ONES YOU NEED TO KNOW](https://dev.to/lolzcec_/javascript-array-methods-know-which-ones-you-need-to-know-4lep)
+- [Dev.to/JS] [The Reasons Behind Having Your Website Function Offline &lpar;And What To Do About It&rpar;](https://dev.to/rajeshnatarajan/the-reasons-behind-having-your-website-function-offline-and-what-to-do-about-it-1nnp)
 - [Dev.to/JS] [10+ Best AI Tools For Business – Flatlogic Review](https://dev.to/alesiasirotka/10-best-ai-tools-for-business-flatlogic-review-11p7)
 - [Dev.to/JS] [Useful javascript ES6 nuggets](https://dev.to/harshit_kedia/useful-javascript-es6-nuggets-29ac)
 - [Dev.to/JS] [Hymenoplasty Surgery in Delhi: A Comprehensive Overview of the Procedure](https://dev.to/cosmeticsurgeondelhi/hymenoplasty-surgery-in-delhi-a-comprehensive-overview-of-the-procedure-2bee)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Async/Await in place of Promises](https://dev.to/adarsh04/how-to-use-asyncawait-in-place-of-promises-2jd6)
 - [Dev.to/JS] [How to Safeguard Yourself from Phishing: Understanding the Sneaky Cyber Threat](https://dev.to/aeejazkhan/how-to-safeguard-yourself-from-phishing-understanding-the-sneaky-cyber-threat-59eh)
 - [Dev.to/JS] [Converting Figma Designs to Flutter Code: Best Figma to Flutter Plugins](https://dev.to/function12_io/converting-figma-designs-to-flutter-code-best-figma-to-flutter-plugins-28fn)
-- [Dev.to/JS] [Switch Case in different ways](https://dev.to/jrtilak/switch-case-in-different-ways-4926)
-- [Dev.to/JS] [Programar sin Título Universitario](https://dev.to/edgar_barcenas/programar-sin-titulo-universitario-4gml)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-8-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-8-2023)
 - [Lifehacker] [These Are the Best Christmas Sales on Headphones](https://lifehacker.com/tech/best-headphone-gifts-christmas)
