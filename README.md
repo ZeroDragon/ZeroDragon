@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make React fields interdependent of each other](https://dev.to/shashwat20create/how-to-make-react-fields-interdependent-of-each-other-5aan)
+- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #4](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-4-4d7f)
 - [Dev.to/JS] [JAVASCRIPT ARRAY METHODS: KNOW WHICH ONES YOU NEED TO KNOW](https://dev.to/lolzcec_/javascript-array-methods-know-which-ones-you-need-to-know-4lep)
 - [Dev.to/JS] [The Reasons Behind Having Your Website Function Offline &lpar;And What To Do About It&rpar;](https://dev.to/rajeshnatarajan/the-reasons-behind-having-your-website-function-offline-and-what-to-do-about-it-1nnp)
 - [Dev.to/JS] [10+ Best AI Tools For Business – Flatlogic Review](https://dev.to/alesiasirotka/10-best-ai-tools-for-business-flatlogic-review-11p7)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Practical Guide to Mastering Cypress Email Testing](https://dev.to/denyskontorskyy/a-practical-guide-to-mastering-cypress-email-testing-2c5o)
 - [Dev.to/JS] [To what extent does the AI model depend on external data sources or APIs?](https://dev.to/yagnapandya9/to-what-extent-does-the-ai-model-depend-on-external-data-sources-or-apis-3d8d)
 - [Dev.to/JS] [How to use Async/Await in place of Promises](https://dev.to/adarsh04/how-to-use-asyncawait-in-place-of-promises-2jd6)
-- [Dev.to/JS] [How to Safeguard Yourself from Phishing: Understanding the Sneaky Cyber Threat](https://dev.to/aeejazkhan/how-to-safeguard-yourself-from-phishing-understanding-the-sneaky-cyber-threat-59eh)
-- [Dev.to/JS] [Converting Figma Designs to Flutter Code: Best Figma to Flutter Plugins](https://dev.to/function12_io/converting-figma-designs-to-flutter-code-best-figma-to-flutter-plugins-28fn)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-8-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-8-2023)
 - [Lifehacker] [These Are the Best Christmas Sales on Headphones](https://lifehacker.com/tech/best-headphone-gifts-christmas)
