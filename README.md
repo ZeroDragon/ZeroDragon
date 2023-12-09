@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a tailwind plugin shouldn&#39;t be that hard, right?](https://dev.to/blankparticle/creating-a-tailwind-plugin-shouldnt-be-that-hard-right-3le3)
+- [Dev.to/JS] [Export vs Export Default in JS](https://dev.to/samyak112/export-vs-export-default-in-js-2fbi)
 - [Dev.to/JS] [Vuetify Tutorial Bangla: Exploring Vuetify 3 with Vue 3 | Part 1](https://dev.to/minit61/vuetify-tutorial-bangla-exploring-vuetify-3-with-vue-3-part-1-4f4l)
 - [Dev.to/JS] [10 Digit Mobile Number Validation in Angular 17](https://dev.to/vidvatek/10-digit-mobile-number-validation-in-angular-17-1kkh)
 - [Dev.to/JS] [How to Create Autocomplete Select Options Angular 17](https://dev.to/vidvatek/how-to-create-autocomplete-select-options-angular-17-4og0)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Grand Theft Auto 6&#39; Trailer Breaks Internet](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-grand-theft-auto-6-trailer)
 - [Lifehacker] [20 Places to Legally Download or Stream Movies for Free](https://lifehacker.com/these-are-the-best-free-streaming-services)
 - [Lifehacker] [This Smart Soundbar and Subwoofer Combo Is a Great Deal Right Now](https://lifehacker.com/tech/roku-streambar-subwoofer-sale)
-- [Dev.to/JS] [The Debate on Libraries vs. Native JavaScript: What’s Best for Your Project?](https://dev.to/c0mmand3rj/the-debate-on-libraries-vs-native-javascript-whats-best-for-your-project-2h12)
-- [Dev.to/JS] [If You Give A Seed A Fertilizer](https://dev.to/rmion/if-you-give-a-seed-a-fertilizer-bhn)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [You May Now Add One, Yes One, Tag to Threads Posts](https://lifehacker.com/tech/how-to-add-tags-to-a-threads-posts)
 - [Lifehacker] [Your Air Fried Chickpeas Can Get Even Crispier](https://lifehacker.com/food-drink/best-air-fried-chickpeas-recipe)
