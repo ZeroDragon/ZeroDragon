@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AI tools for web developers you need to follow](https://dev.to/syki/ai-tools-for-web-developers-you-need-to-follow-1fil)
+- [Dev.to/JS] [Community Management And Content Creation](https://dev.to/devgancode/community-management-and-content-creation-46h)
+- [Dev.to/JS] [Welcome!](https://dev.to/lwdrury09/welcome-3kca)
+- [Dev.to/JS] [React&#39;s Unexpected Offspring: How the Web Gave Birth to React Native](https://dev.to/eworld/reacts-unexpected-offspring-how-the-web-gave-birth-to-react-native-4dgn)
+- [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
+- [Dev.to/JS] [&#39;return await&#39; in a try/catch](https://dev.to/danielbellmas/return-await-in-a-trycatch-4oh)
+- [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
 - [Dev.to/JS] [Why developers should learn and use scraping](https://dev.to/shreyvijayvargiya/why-developers-should-learn-and-use-scraping-6ob)
 - [Dev.to/JS] [Why developers should learn and use scraping](https://dev.to/shreyvijayvargiya/why-developers-should-learn-and-use-scraping-13jg)
 - [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
@@ -35,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing an iterable linked list in JavaScript &lpar;can be used with spread operator &lpar;...&rpar; or a for...of&rpar;](https://dev.to/i3b/implementing-an-iterable-linked-list-in-javascript-42m5)
 - [Dev.to/JS] [Unveiling the Path to Becoming a Proficient JavaScript Developer](https://dev.to/shadbalti/unveiling-the-path-to-becoming-a-proficient-javascript-developer-m0b)
 - [Dev.to/JS] [Useful Javascript ES6 nuggets](https://dev.to/harshit_kedia/useful-javascript-es6-nuggets-497g)
-- [Dev.to/JS] [YouTube Vanced APK Download for Android 2023](https://dev.to/alikhan265577/youtube-vanced-apk-download-for-android-2023-22ci)
-- [Dev.to/JS] [Save the previous value of a variable](https://dev.to/phuocng/save-the-previous-value-of-a-variable-1eg6)
-- [Dev.to/JS] [Persist values between renders](https://dev.to/phuocng/persist-values-between-renders-70m)
-- [Dev.to/JS] [Elevating React: Unleashing the Power of Nginx for Effortless Deployment](https://dev.to/bladearya/elevating-react-unleashing-the-power-of-nginx-for-effortless-deployment-3adh)
-- [Dev.to/JS] [Latest Newsletter: Swimming in Nested For Loops &lpar;Issue #144&rpar;](https://dev.to/mjgs/latest-newsletter-swimming-in-nested-for-loops-issue-144-31d5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-9-2023)
 - [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-8-2023)
 - [Lifehacker] [These Are the Best Christmas Sales on Headphones](https://lifehacker.com/tech/best-headphone-gifts-christmas)
 - [Lifehacker] [You Need to Balance Your HVAC System](https://lifehacker.com/home/how-to-balance-hvac-system)
-- [Lifehacker] [You Can Use End-to-End Encryption in Facebook Messenger Right Now](https://lifehacker.com/how-to-use-end-to-end-encryption-in-facebook-messenger-1849405695)
-- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
-- [Lifehacker] [Make These Lazy Air-fried Mac &amp; Cheese Bites](https://lifehacker.com/food-drink/air-fried-mac-n-cheese-bites-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Use End-to-End Encryption in Facebook Messenger Right Now](https://lifehacker.com/how-to-use-end-to-end-encryption-in-facebook-messenger-1849405695)<!-- TECH-POSTS:END -->
 
 ---
 
