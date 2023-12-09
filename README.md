@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Entendendo as Diferenças: Promises vs. Observables em JavaScript 🚀](https://dev.to/diguyadeveloper/entendendo-as-diferencas-promises-vs-observables-em-javascript-25hd)
 - [Dev.to/JS] [Component Trees and the Benefit of Mind Maps](https://dev.to/lakotacamp/component-trees-and-the-benefit-of-mind-maps-15jg)
 - [Dev.to/JS] [Impairment Care, Inpatient &amp; Outpatient Care, Care provider near me Ahmedabad](https://dev.to/providecare01/impairment-care-inpatient-outpatient-care-care-provider-near-me-ahmedabad-opj)
 - [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Web Components in JavaScript: Creating Custom Elements](https://dev.to/m__mdy__m/understanding-web-components-in-javascript-creating-custom-elements-1iik)
 - [Dev.to/JS] [Learn open-source contribution.](https://dev.to/sujithvsuresh/learn-open-source-contribution-4me3)
 - [Dev.to/JS] [Understanding HTTP and Express.js: A Comparative Analysi](https://dev.to/m__mdy__m/understanding-http-and-expressjs-a-comparative-analysi-1cfo)
-- [Dev.to/JS] [Ng-News Double Feature: NgRx Signal Store, &quot;Plan 2&quot; for Signals](https://dev.to/this-is-angular/ng-news-double-feature-ngrx-signal-store-plan-2-for-signals-3i87)
 - [Lifehacker] [15 of the Best Movie Podcasts to Help You Find Your Next Favorite Film](https://lifehacker.com/entertainment/best-movie-podcasts)
 - [Lifehacker] [The Best Sex Toys to Stuff a Stocking](https://lifehacker.com/relationships/sex-toy-stocking-stuffers)
 - [Lifehacker] [You Can Use Meta&#39;s New AI Image Generator for Free](https://lifehacker.com/tech/metas-new-ai-image-generator-is-free)
