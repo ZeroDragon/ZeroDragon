@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Music Player using React hook useState&lpar;&rpar; with my own implementation](https://dev.to/anthonyzhang220/building-a-music-player-using-react-hook-usestate-with-my-own-implementation-2ba5)
+- [Dev.to/JS] [🚀 JavaScript Array, Object, and Map Methods Cheat sheet 🚀](https://dev.to/bugudiramu/javascript-array-object-and-map-methods-cheat-sheet-2pp1)
+- [Dev.to/JS] [Implementing Alternative Authenticate Feature](https://dev.to/mismathh/implementing-alternative-authenticate-feature-3eh8)
 - [Dev.to/JS] [Entendendo as Diferenças: Promises vs. Observables em JavaScript 🚀](https://dev.to/diguyadeveloper/entendendo-as-diferencas-promises-vs-observables-em-javascript-25hd)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-9-2023)
 - [Dev.to/JS] [Component Trees and the Benefit of Mind Maps](https://dev.to/lakotacamp/component-trees-and-the-benefit-of-mind-maps-15jg)
 - [Dev.to/JS] [Impairment Care, Inpatient &amp; Outpatient Care, Care provider near me Ahmedabad](https://dev.to/providecare01/impairment-care-inpatient-outpatient-care-care-provider-near-me-ahmedabad-opj)
 - [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)
@@ -43,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [what is API](https://dev.to/khamal22/what-is-api-53b0)
 - [Lifehacker] [Your Air Fried Chickpeas Can Get Even Crispier](https://lifehacker.com/food-drink/best-air-fried-chickpeas-recipe)
 - [Lifehacker] [What Finally Got the Scuffs Out of My &lpar;Borrowed&rpar; Patent Leather Shoes](https://lifehacker.com/home/how-to-clean-scuffs-from-patent-leather)
-- [Dev.to/JS] [Understanding Web Components in JavaScript: Creating Custom Elements](https://dev.to/m__mdy__m/understanding-web-components-in-javascript-creating-custom-elements-1iik)
-- [Dev.to/JS] [Learn open-source contribution.](https://dev.to/sujithvsuresh/learn-open-source-contribution-4me3)
-- [Dev.to/JS] [Understanding HTTP and Express.js: A Comparative Analysi](https://dev.to/m__mdy__m/understanding-http-and-expressjs-a-comparative-analysi-1cfo)
 - [Lifehacker] [15 of the Best Movie Podcasts to Help You Find Your Next Favorite Film](https://lifehacker.com/entertainment/best-movie-podcasts)
 - [Lifehacker] [The Best Sex Toys to Stuff a Stocking](https://lifehacker.com/relationships/sex-toy-stocking-stuffers)
 - [Lifehacker] [You Can Use Meta&#39;s New AI Image Generator for Free](https://lifehacker.com/tech/metas-new-ai-image-generator-is-free)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
 - [Lifehacker] [Make These Lazy Air-fried Mac &amp; Cheese Bites](https://lifehacker.com/food-drink/air-fried-mac-n-cheese-bites-recipe)
 - [Lifehacker] [These Are the Biggest Differences Between Google Bard and ChatGPT](https://lifehacker.com/tech/what-is-google-bard-ai-chatbot)
-- [Lifehacker] [Where to Find Cheap Home Cleaning Services for the Holidays](https://lifehacker.com/home/best-home-cleaning-deals-for-holidays)
-- [Lifehacker] [The Best Deals on Smartwatches That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-deals-on-smartwatches-for-christmas-2023)
-- [Lifehacker] [What I Learned From Tracking My Sleep With an Apple Watch](https://lifehacker.com/tech/sleep-tracking-with-apple-watch)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Find Cheap Home Cleaning Services for the Holidays](https://lifehacker.com/home/best-home-cleaning-deals-for-holidays)<!-- TECH-POSTS:END -->
 
 ---
 
