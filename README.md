@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #5](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-5-1hc0)
+- [Dev.to/JS] [Implementing an iterable linked list in JavaScript &lpar;can be used with spread operator &lpar;...&rpar; or a for...of&rpar;](https://dev.to/i3b/implementing-an-iterable-linked-list-in-javascript-42m5)
+- [Dev.to/JS] [Know Your Kuwait Civil ID Status Easily in 2023](https://dev.to/sam233/know-your-kuwait-civil-id-status-easily-in-2023-18hl)
 - [Dev.to/JS] [Unveiling the Path to Becoming a Proficient JavaScript Developer](https://dev.to/shadbalti/unveiling-the-path-to-becoming-a-proficient-javascript-developer-m0b)
 - [Dev.to/JS] [Useful Javascript ES6 nuggets](https://dev.to/harshit_kedia/useful-javascript-es6-nuggets-497g)
 - [Dev.to/JS] [YouTube Vanced APK Download for Android 2023](https://dev.to/alikhan265577/youtube-vanced-apk-download-for-android-2023-22ci)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Latest Newsletter: Swimming in Nested For Loops &lpar;Issue #144&rpar;](https://dev.to/mjgs/latest-newsletter-swimming-in-nested-for-loops-issue-144-31d5)
 - [Dev.to/JS] [Creating a tailwind plugin shouldn&#39;t be that hard, right?](https://dev.to/blankparticle/creating-a-tailwind-plugin-shouldnt-be-that-hard-right-3le3)
 - [Dev.to/JS] [Export vs Export Default in JS](https://dev.to/samyak112/export-vs-export-default-in-js-2fbi)
-- [Dev.to/JS] [Vuetify Tutorial Bangla: Exploring Vuetify 3 with Vue 3 | Part 1](https://dev.to/minit61/vuetify-tutorial-bangla-exploring-vuetify-3-with-vue-3-part-1-4f4l)
-- [Dev.to/JS] [10 Digit Mobile Number Validation in Angular 17](https://dev.to/vidvatek/10-digit-mobile-number-validation-in-angular-17-1kkh)
-- [Dev.to/JS] [How to Create Autocomplete Select Options Angular 17](https://dev.to/vidvatek/how-to-create-autocomplete-select-options-angular-17-4og0)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-9-2023)
 - [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)
