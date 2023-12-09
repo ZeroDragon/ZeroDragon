@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/tesari6678/buy-amazon-reviews-46d0)
+- [Dev.to/JS] [How to Build Your Own CLI with Nodejs &lpar;and Push it to npm&rpar;](https://dev.to/opensourcee/how-to-build-your-own-cli-with-nodejs-and-push-it-to-npm-43hk)
+- [Dev.to/JS] [HTMLCollection ve NodeList Kavramları](https://dev.to/eminaltan/htmlcollection-ve-nodelistkavramlari-3208)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/tesari6678/buy-google-5-star-reviews-516m)
 - [Dev.to/JS] [Mastering Asynchronous JavaScript: A Comprehensive Guide](https://dev.to/codingcss/mastering-asynchronous-javascript-a-comprehensive-guide-4bh5)
 - [Dev.to/JS] [A simple Vue form validation composable with Zod](https://dev.to/kouts/a-simple-vue-form-validation-composable-with-zod-38m8)
 - [Dev.to/JS] [RegEx in Js](https://dev.to/m__mdy__m/demystifying-regular-expressionsregex-understanding-and-implementing-with-examples-4app)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Como usar async e await com vanilla JavaScript](https://dev.to/dougsource/como-usar-async-e-await-com-vanilla-javascript-2c5d)
 - [Dev.to/JS] [Mining Adventure V.0.1](https://dev.to/lwdrury09/mining-adventure-v01-33a5)
 - [Dev.to/JS] [AI tools for web developers you need to follow](https://dev.to/syki/ai-tools-for-web-developers-you-need-to-follow-1fil)
-- [Dev.to/JS] [Community Management And Content Creation](https://dev.to/devgancode/community-management-and-content-creation-46h)
-- [Dev.to/JS] [Welcome!](https://dev.to/lwdrury09/welcome-3kca)
-- [Dev.to/JS] [React&#39;s Unexpected Offspring: How the Web Gave Birth to React Native](https://dev.to/eworld/reacts-unexpected-offspring-how-the-web-gave-birth-to-react-native-4dgn)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
-- [Dev.to/JS] [&#39;return await&#39; in a try/catch](https://dev.to/danielbellmas/return-await-in-a-trycatch-4oh)
 - [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
 - [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Developing Flavor](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-four)
