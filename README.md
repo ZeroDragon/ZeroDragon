@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AdventJS 2023: Reto del Día 7](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-7-57nm)
 - [Dev.to/JS] [Building a Music Player using React hook useState&lpar;&rpar; with my own implementation](https://dev.to/anthonyzhang220/building-a-music-player-using-react-hook-usestate-with-my-own-implementation-2ba5)
 - [Dev.to/JS] [🚀 JavaScript Array, Object, and Map Methods Cheat sheet 🚀](https://dev.to/bugudiramu/javascript-array-object-and-map-methods-cheat-sheet-2pp1)
 - [Dev.to/JS] [Implementing Alternative Authenticate Feature](https://dev.to/mismathh/implementing-alternative-authenticate-feature-3eh8)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Holiday Hackathon](https://dev.to/xata/holiday-hackathon-2122)
 - [Dev.to/JS] [Top 7 Frontend Trends 📈 and Predictions For 2024 You Should Watch Out &lpar;According to Experts&rpar;💎](https://dev.to/blarzhernandez/top-7-frontend-trends-and-predictions-for-2024-you-should-watch-out-according-to-experts-239n)
 - [Dev.to/JS] [Snow &lpar;Pure CSS&rpar;](https://dev.to/geronimo96/snow-pure-css-47j0)
-- [Dev.to/JS] [what is API](https://dev.to/khamal22/what-is-api-53b0)
 - [Lifehacker] [Your Air Fried Chickpeas Can Get Even Crispier](https://lifehacker.com/food-drink/best-air-fried-chickpeas-recipe)
 - [Lifehacker] [What Finally Got the Scuffs Out of My &lpar;Borrowed&rpar; Patent Leather Shoes](https://lifehacker.com/home/how-to-clean-scuffs-from-patent-leather)
 - [Lifehacker] [15 of the Best Movie Podcasts to Help You Find Your Next Favorite Film](https://lifehacker.com/entertainment/best-movie-podcasts)
