@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why developers should learn and use scraping](https://dev.to/shreyvijayvargiya/why-developers-should-learn-and-use-scraping-6ob)
+- [Dev.to/JS] [Why developers should learn and use scraping](https://dev.to/shreyvijayvargiya/why-developers-should-learn-and-use-scraping-13jg)
+- [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
+- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Developing Flavor](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-four)
 - [Dev.to/JS] [Why Next.JS is the Future of Custom Business Websites and Web Apps: Migrating from WordPress and Beyond](https://dev.to/a4arpon/why-nextjs-is-the-future-of-custom-business-websites-and-web-apps-migrating-from-wordpress-and-beyond-3el0)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #5](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-5-1hc0)
 - [Dev.to/JS] [Implementing an iterable linked list in JavaScript &lpar;can be used with spread operator &lpar;...&rpar; or a for...of&rpar;](https://dev.to/i3b/implementing-an-iterable-linked-list-in-javascript-42m5)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Persist values between renders](https://dev.to/phuocng/persist-values-between-renders-70m)
 - [Dev.to/JS] [Elevating React: Unleashing the Power of Nginx for Effortless Deployment](https://dev.to/bladearya/elevating-react-unleashing-the-power-of-nginx-for-effortless-deployment-3adh)
 - [Dev.to/JS] [Latest Newsletter: Swimming in Nested For Loops &lpar;Issue #144&rpar;](https://dev.to/mjgs/latest-newsletter-swimming-in-nested-for-loops-issue-144-31d5)
-- [Dev.to/JS] [Creating a tailwind plugin shouldn&#39;t be that hard, right?](https://dev.to/blankparticle/creating-a-tailwind-plugin-shouldnt-be-that-hard-right-3le3)
-- [Dev.to/JS] [Export vs Export Default in JS](https://dev.to/samyak112/export-vs-export-default-in-js-2fbi)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-9-2023)
 - [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Balance Your HVAC System](https://lifehacker.com/home/how-to-balance-hvac-system)
 - [Lifehacker] [You Can Use End-to-End Encryption in Facebook Messenger Right Now](https://lifehacker.com/how-to-use-end-to-end-encryption-in-facebook-messenger-1849405695)
 - [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
-- [Lifehacker] [Make These Lazy Air-fried Mac &amp; Cheese Bites](https://lifehacker.com/food-drink/air-fried-mac-n-cheese-bites-recipe)
-- [Lifehacker] [These Are the Biggest Differences Between Google Bard and ChatGPT](https://lifehacker.com/tech/what-is-google-bard-ai-chatbot)
-- [Lifehacker] [Where to Find Cheap Home Cleaning Services for the Holidays](https://lifehacker.com/home/best-home-cleaning-deals-for-holidays)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make These Lazy Air-fried Mac &amp; Cheese Bites](https://lifehacker.com/food-drink/air-fried-mac-n-cheese-bites-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
