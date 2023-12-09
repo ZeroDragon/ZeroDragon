@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Path to Becoming a Proficient JavaScript Developer](https://dev.to/shadbalti/unveiling-the-path-to-becoming-a-proficient-javascript-developer-m0b)
+- [Dev.to/JS] [Useful Javascript ES6 nuggets](https://dev.to/harshit_kedia/useful-javascript-es6-nuggets-497g)
+- [Dev.to/JS] [YouTube Vanced APK Download for Android 2023](https://dev.to/alikhan265577/youtube-vanced-apk-download-for-android-2023-22ci)
 - [Dev.to/JS] [Save the previous value of a variable](https://dev.to/phuocng/save-the-previous-value-of-a-variable-1eg6)
 - [Dev.to/JS] [Persist values between renders](https://dev.to/phuocng/persist-values-between-renders-70m)
 - [Dev.to/JS] [Elevating React: Unleashing the Power of Nginx for Effortless Deployment](https://dev.to/bladearya/elevating-react-unleashing-the-power-of-nginx-for-effortless-deployment-3adh)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vuetify Tutorial Bangla: Exploring Vuetify 3 with Vue 3 | Part 1](https://dev.to/minit61/vuetify-tutorial-bangla-exploring-vuetify-3-with-vue-3-part-1-4f4l)
 - [Dev.to/JS] [10 Digit Mobile Number Validation in Angular 17](https://dev.to/vidvatek/10-digit-mobile-number-validation-in-angular-17-1kkh)
 - [Dev.to/JS] [How to Create Autocomplete Select Options Angular 17](https://dev.to/vidvatek/how-to-create-autocomplete-select-options-angular-17-4og0)
-- [Dev.to/JS] [AdventJS 2023: Reto del Día 7](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-7-57nm)
-- [Dev.to/JS] [Building a Music Player using React hook useState&lpar;&rpar; with my own implementation](https://dev.to/anthonyzhang220/building-a-music-player-using-react-hook-usestate-with-my-own-implementation-2ba5)
-- [Dev.to/JS] [🚀 JavaScript Array, Object, and Map Methods Cheat sheet 🚀](https://dev.to/bugudiramu/javascript-array-object-and-map-methods-cheat-sheet-2pp1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-9-2023)
 - [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)
