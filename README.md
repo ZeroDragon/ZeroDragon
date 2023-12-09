@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Save the previous value of a variable](https://dev.to/phuocng/save-the-previous-value-of-a-variable-1eg6)
+- [Dev.to/JS] [Persist values between renders](https://dev.to/phuocng/persist-values-between-renders-70m)
 - [Dev.to/JS] [Elevating React: Unleashing the Power of Nginx for Effortless Deployment](https://dev.to/bladearya/elevating-react-unleashing-the-power-of-nginx-for-effortless-deployment-3adh)
 - [Dev.to/JS] [Latest Newsletter: Swimming in Nested For Loops &lpar;Issue #144&rpar;](https://dev.to/mjgs/latest-newsletter-swimming-in-nested-for-loops-issue-144-31d5)
 - [Dev.to/JS] [Creating a tailwind plugin shouldn&#39;t be that hard, right?](https://dev.to/blankparticle/creating-a-tailwind-plugin-shouldnt-be-that-hard-right-3le3)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 7](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-7-57nm)
 - [Dev.to/JS] [Building a Music Player using React hook useState&lpar;&rpar; with my own implementation](https://dev.to/anthonyzhang220/building-a-music-player-using-react-hook-usestate-with-my-own-implementation-2ba5)
 - [Dev.to/JS] [🚀 JavaScript Array, Object, and Map Methods Cheat sheet 🚀](https://dev.to/bugudiramu/javascript-array-object-and-map-methods-cheat-sheet-2pp1)
-- [Dev.to/JS] [Implementing Alternative Authenticate Feature](https://dev.to/mismathh/implementing-alternative-authenticate-feature-3eh8)
-- [Dev.to/JS] [Entendendo as Diferenças: Promises vs. Observables em JavaScript 🚀](https://dev.to/diguyadeveloper/entendendo-as-diferencas-promises-vs-observables-em-javascript-25hd)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-9-2023)
 - [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)
