@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Asynchronous JavaScript: A Comprehensive Guide](https://dev.to/codingcss/mastering-asynchronous-javascript-a-comprehensive-guide-4bh5)
 - [Dev.to/JS] [A simple Vue form validation composable with Zod](https://dev.to/kouts/a-simple-vue-form-validation-composable-with-zod-38m8)
 - [Dev.to/JS] [RegEx in Js](https://dev.to/m__mdy__m/demystifying-regular-expressionsregex-understanding-and-implementing-with-examples-4app)
 - [Dev.to/JS] [Quitting During Layoffs was a Terrible Idea](https://dev.to/mohammadfaisal/quitting-during-layoffs-was-a-terrible-idea-g62)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
 - [Dev.to/JS] [&#39;return await&#39; in a try/catch](https://dev.to/danielbellmas/return-await-in-a-trycatch-4oh)
 - [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
-- [Dev.to/JS] [Why developers should learn and use scraping](https://dev.to/shreyvijayvargiya/why-developers-should-learn-and-use-scraping-6ob)
 - [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Developing Flavor](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-four)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)
