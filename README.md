@@ -26,9 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Next.JS is the Future of Custom Business Websites and Web Apps: Migrating from WordPress and Beyond](https://dev.to/a4arpon/why-nextjs-is-the-future-of-custom-business-websites-and-web-apps-migrating-from-wordpress-and-beyond-3el0)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #5](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-5-1hc0)
 - [Dev.to/JS] [Implementing an iterable linked list in JavaScript &lpar;can be used with spread operator &lpar;...&rpar; or a for...of&rpar;](https://dev.to/i3b/implementing-an-iterable-linked-list-in-javascript-42m5)
-- [Dev.to/JS] [Know Your Kuwait Civil ID Status Easily in 2023](https://dev.to/sam233/know-your-kuwait-civil-id-status-easily-in-2023-18hl)
 - [Dev.to/JS] [Unveiling the Path to Becoming a Proficient JavaScript Developer](https://dev.to/shadbalti/unveiling-the-path-to-becoming-a-proficient-javascript-developer-m0b)
 - [Dev.to/JS] [Useful Javascript ES6 nuggets](https://dev.to/harshit_kedia/useful-javascript-es6-nuggets-497g)
 - [Dev.to/JS] [YouTube Vanced APK Download for Android 2023](https://dev.to/alikhan265577/youtube-vanced-apk-download-for-android-2023-22ci)
