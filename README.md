@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Pagination in React &lpar;Nextjs&rpar; with Custom Hooks](https://dev.to/stephengade/data-pagination-in-react-nextjs-with-custom-hooks-1ik0)
+- [Dev.to/JS] [The humor of JavaScript](https://dev.to/sroehrl/the-humor-of-javascript-1oae)
+- [Dev.to/JS] [Quando um framework é melhor que a manipulação nativa do DOM](https://dev.to/dougsource/quando-um-framework-e-melhor-que-a-manipulacao-nativa-do-dom-4682)
 - [Dev.to/JS] [PowerJS - Empower Your JavaScript with PowerShell Magic](https://dev.to/obaydmerz/powerjs-empower-your-javascript-with-powershell-magic-96)
 - [Dev.to/JS] [Progress on the website that I am working on](https://dev.to/sshah135/progress-on-the-website-that-i-am-working-on-h6p)
 - [Dev.to/JS] [Recursão com vanilla JavaScript](https://dev.to/dougsource/recursao-com-vanilla-javascript-3fl8)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/tesari6678/buy-amazon-reviews-46d0)
 - [Dev.to/JS] [How to Build Your Own CLI with Nodejs &lpar;and Push it to npm&rpar;](https://dev.to/opensourcee/how-to-build-your-own-cli-with-nodejs-and-push-it-to-npm-43hk)
 - [Dev.to/JS] [HTMLCollection ve NodeList Kavramları](https://dev.to/eminaltan/htmlcollection-ve-nodelistkavramlari-3208)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/tesari6678/buy-google-5-star-reviews-516m)
-- [Dev.to/JS] [Mastering Asynchronous JavaScript: A Comprehensive Guide](https://dev.to/codingcss/mastering-asynchronous-javascript-a-comprehensive-guide-4bh5)
-- [Dev.to/JS] [A simple Vue form validation composable with Zod](https://dev.to/kouts/a-simple-vue-form-validation-composable-with-zod-38m8)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
 - [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
 - [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
