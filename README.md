@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vuetify Tutorial Bangla: Exploring Vuetify 3 with Vue 3 | Part 1](https://dev.to/minit61/vuetify-tutorial-bangla-exploring-vuetify-3-with-vue-3-part-1-4f4l)
+- [Dev.to/JS] [10 Digit Mobile Number Validation in Angular 17](https://dev.to/vidvatek/10-digit-mobile-number-validation-in-angular-17-1kkh)
+- [Dev.to/JS] [How to Create Autocomplete Select Options Angular 17](https://dev.to/vidvatek/how-to-create-autocomplete-select-options-angular-17-4og0)
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 7](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-7-57nm)
 - [Dev.to/JS] [Building a Music Player using React hook useState&lpar;&rpar; with my own implementation](https://dev.to/anthonyzhang220/building-a-music-player-using-react-hook-usestate-with-my-own-implementation-2ba5)
 - [Dev.to/JS] [🚀 JavaScript Array, Object, and Map Methods Cheat sheet 🚀](https://dev.to/bugudiramu/javascript-array-object-and-map-methods-cheat-sheet-2pp1)
@@ -43,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [If You Give A Seed A Fertilizer](https://dev.to/rmion/if-you-give-a-seed-a-fertilizer-bhn)
 - [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
 - [Lifehacker] [You May Now Add One, Yes One, Tag to Threads Posts](https://lifehacker.com/tech/how-to-add-tags-to-a-threads-posts)
-- [Dev.to/JS] [Holiday Hackathon](https://dev.to/xata/holiday-hackathon-2122)
-- [Dev.to/JS] [Top 7 Frontend Trends 📈 and Predictions For 2024 You Should Watch Out &lpar;According to Experts&rpar;💎](https://dev.to/blarzhernandez/top-7-frontend-trends-and-predictions-for-2024-you-should-watch-out-according-to-experts-239n)
-- [Dev.to/JS] [Snow &lpar;Pure CSS&rpar;](https://dev.to/geronimo96/snow-pure-css-47j0)
 - [Lifehacker] [Your Air Fried Chickpeas Can Get Even Crispier](https://lifehacker.com/food-drink/best-air-fried-chickpeas-recipe)
 - [Lifehacker] [What Finally Got the Scuffs Out of My &lpar;Borrowed&rpar; Patent Leather Shoes](https://lifehacker.com/home/how-to-clean-scuffs-from-patent-leather)
 - [Lifehacker] [15 of the Best Movie Podcasts to Help You Find Your Next Favorite Film](https://lifehacker.com/entertainment/best-movie-podcasts)
