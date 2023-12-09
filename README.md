@@ -26,8 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Grand Theft Auto 6&#39; Trailer Breaks Internet](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-grand-theft-auto-6-trailer)
-- [Lifehacker] [20 Places to Legally Download or Stream Movies for Free](https://lifehacker.com/top-10-places-to-download-or-stream-movies-for-free-le-1782772455)
+- [Dev.to/JS] [Impairment Care, Inpatient &amp; Outpatient Care, Care provider near me Ahmedabad](https://dev.to/providecare01/impairment-care-inpatient-outpatient-care-care-provider-near-me-ahmedabad-opj)
 - [Lifehacker] [This Smart Soundbar and Subwoofer Combo Is a Great Deal Right Now](https://lifehacker.com/tech/roku-streambar-subwoofer-sale)
 - [Dev.to/JS] [The Debate on Libraries vs. Native JavaScript: What’s Best for Your Project?](https://dev.to/c0mmand3rj/the-debate-on-libraries-vs-native-javascript-whats-best-for-your-project-2h12)
 - [Dev.to/JS] [If You Give A Seed A Fertilizer](https://dev.to/rmion/if-you-give-a-seed-a-fertilizer-bhn)
@@ -45,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ng-News Double Feature: NgRx Signal Store, &quot;Plan 2&quot; for Signals](https://dev.to/this-is-angular/ng-news-double-feature-ngrx-signal-store-plan-2-for-signals-3i87)
 - [Dev.to/JS] [Amp Credit Loan Customer Care Helpline Number ;&rpar;&rpar;.9330079553. Contactjfj](https://dev.to/rajkumar541335/amp-credit-loan-customer-care-helpline-number-9330079553-contactjfj-3378)
 - [Lifehacker] [15 of the Best Movie Podcasts to Help You Find Your Next Favorite Film](https://lifehacker.com/entertainment/best-movie-podcasts)
-- [Dev.to/JS] [Visual Primitives and Headless UIs - a Modern UI Library Trend](https://dev.to/danielkov/visual-primitives-and-headless-uis-a-modern-ui-library-trend-19jk)
 - [Lifehacker] [The Best Sex Toys to Stuff a Stocking](https://lifehacker.com/relationships/sex-toy-stocking-stuffers)
 - [Lifehacker] [You Can Use Meta&#39;s New AI Image Generator for Free](https://lifehacker.com/tech/metas-new-ai-image-generator-is-free)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
@@ -65,7 +63,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Find Cheap Home Cleaning Services for the Holidays](https://lifehacker.com/home/best-home-cleaning-deals-for-holidays)
 - [Lifehacker] [The Best Deals on Smartwatches That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-deals-on-smartwatches-for-christmas-2023)
 - [Lifehacker] [What I Learned From Tracking My Sleep With an Apple Watch](https://lifehacker.com/tech/sleep-tracking-with-apple-watch)
-- [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)
+- [Lifehacker] [Use These Five Strategies for Finding an Affordable Rental in an Unaffordable City](https://lifehacker.com/money/finding-affordable-rental-expensive-city)
+- [Lifehacker] [Nanoleaf&#39;s String Lights Are Worth It for Your Christmas Tree](https://lifehacker.com/tech/nanoleaf-holiday-string-lights-review)<!-- TECH-POSTS:END -->
 
 ---
 
