@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Component Trees and the Benefit of Mind Maps](https://dev.to/lakotacamp/component-trees-and-the-benefit-of-mind-maps-15jg)
 - [Dev.to/JS] [Impairment Care, Inpatient &amp; Outpatient Care, Care provider near me Ahmedabad](https://dev.to/providecare01/impairment-care-inpatient-outpatient-care-care-provider-near-me-ahmedabad-opj)
+- [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Grand Theft Auto 6&#39; Trailer Breaks Internet](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-grand-theft-auto-6-trailer)
+- [Lifehacker] [20 Places to Legally Download or Stream Movies for Free](https://lifehacker.com/these-are-the-best-free-streaming-services)
 - [Lifehacker] [This Smart Soundbar and Subwoofer Combo Is a Great Deal Right Now](https://lifehacker.com/tech/roku-streambar-subwoofer-sale)
 - [Dev.to/JS] [The Debate on Libraries vs. Native JavaScript: What’s Best for Your Project?](https://dev.to/c0mmand3rj/the-debate-on-libraries-vs-native-javascript-whats-best-for-your-project-2h12)
 - [Dev.to/JS] [If You Give A Seed A Fertilizer](https://dev.to/rmion/if-you-give-a-seed-a-fertilizer-bhn)
@@ -42,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn open-source contribution.](https://dev.to/sujithvsuresh/learn-open-source-contribution-4me3)
 - [Dev.to/JS] [Understanding HTTP and Express.js: A Comparative Analysi](https://dev.to/m__mdy__m/understanding-http-and-expressjs-a-comparative-analysi-1cfo)
 - [Dev.to/JS] [Ng-News Double Feature: NgRx Signal Store, &quot;Plan 2&quot; for Signals](https://dev.to/this-is-angular/ng-news-double-feature-ngrx-signal-store-plan-2-for-signals-3i87)
-- [Dev.to/JS] [Amp Credit Loan Customer Care Helpline Number ;&rpar;&rpar;.9330079553. Contactjfj](https://dev.to/rajkumar541335/amp-credit-loan-customer-care-helpline-number-9330079553-contactjfj-3378)
 - [Lifehacker] [15 of the Best Movie Podcasts to Help You Find Your Next Favorite Film](https://lifehacker.com/entertainment/best-movie-podcasts)
 - [Lifehacker] [The Best Sex Toys to Stuff a Stocking](https://lifehacker.com/relationships/sex-toy-stocking-stuffers)
 - [Lifehacker] [You Can Use Meta&#39;s New AI Image Generator for Free](https://lifehacker.com/tech/metas-new-ai-image-generator-is-free)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Biggest Differences Between Google Bard and ChatGPT](https://lifehacker.com/tech/what-is-google-bard-ai-chatbot)
 - [Lifehacker] [Where to Find Cheap Home Cleaning Services for the Holidays](https://lifehacker.com/home/best-home-cleaning-deals-for-holidays)
 - [Lifehacker] [The Best Deals on Smartwatches That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-deals-on-smartwatches-for-christmas-2023)
-- [Lifehacker] [What I Learned From Tracking My Sleep With an Apple Watch](https://lifehacker.com/tech/sleep-tracking-with-apple-watch)
-- [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)
-- [Lifehacker] [Use These Five Strategies for Finding an Affordable Rental in an Unaffordable City](https://lifehacker.com/money/finding-affordable-rental-expensive-city)
-- [Lifehacker] [Nanoleaf&#39;s String Lights Are Worth It for Your Christmas Tree](https://lifehacker.com/tech/nanoleaf-holiday-string-lights-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What I Learned From Tracking My Sleep With an Apple Watch](https://lifehacker.com/tech/sleep-tracking-with-apple-watch)<!-- TECH-POSTS:END -->
 
 ---
 
