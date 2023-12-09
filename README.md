@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevating React: Unleashing the Power of Nginx for Effortless Deployment](https://dev.to/bladearya/elevating-react-unleashing-the-power-of-nginx-for-effortless-deployment-3adh)
+- [Dev.to/JS] [Latest Newsletter: Swimming in Nested For Loops &lpar;Issue #144&rpar;](https://dev.to/mjgs/latest-newsletter-swimming-in-nested-for-loops-issue-144-31d5)
 - [Dev.to/JS] [Creating a tailwind plugin shouldn&#39;t be that hard, right?](https://dev.to/blankparticle/creating-a-tailwind-plugin-shouldnt-be-that-hard-right-3le3)
 - [Dev.to/JS] [Export vs Export Default in JS](https://dev.to/samyak112/export-vs-export-default-in-js-2fbi)
 - [Dev.to/JS] [Vuetify Tutorial Bangla: Exploring Vuetify 3 with Vue 3 | Part 1](https://dev.to/minit61/vuetify-tutorial-bangla-exploring-vuetify-3-with-vue-3-part-1-4f4l)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Entendendo as Diferenças: Promises vs. Observables em JavaScript 🚀](https://dev.to/diguyadeveloper/entendendo-as-diferencas-promises-vs-observables-em-javascript-25hd)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-9-2023)
-- [Dev.to/JS] [Component Trees and the Benefit of Mind Maps](https://dev.to/lakotacamp/component-trees-and-the-benefit-of-mind-maps-15jg)
-- [Dev.to/JS] [Impairment Care, Inpatient &amp; Outpatient Care, Care provider near me Ahmedabad](https://dev.to/providecare01/impairment-care-inpatient-outpatient-care-care-provider-near-me-ahmedabad-opj)
 - [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Grand Theft Auto 6&#39; Trailer Breaks Internet](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-grand-theft-auto-6-trailer)
 - [Lifehacker] [20 Places to Legally Download or Stream Movies for Free](https://lifehacker.com/these-are-the-best-free-streaming-services)
