@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Difference you didn&#39;t know existed between Solid.js and Svelte](https://dev.to/shariqahmed525/the-difference-you-didnt-know-existed-between-solidjs-and-svelte-4pd7)
 - [Dev.to/JS] [OpenGL, WebGL and Three.js](https://dev.to/gfish94/opengl-webgl-and-threejs-2f17)
 - [Dev.to/JS] [Copy selected input to the clipboard in javascript.](https://dev.to/pinky057/copy-selected-input-to-the-clipboard-in-javascript-1oa1)
 - [Dev.to/JS] [Init Backend Todo Application](https://dev.to/akbarnafisa/init-backend-todo-application-f3b)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quando um framework é melhor que a manipulação nativa do DOM](https://dev.to/dougsource/quando-um-framework-e-melhor-que-a-manipulacao-nativa-do-dom-4682)
 - [Dev.to/JS] [PowerJS - Empower Your JavaScript with PowerShell Magic](https://dev.to/obaydmerz/powerjs-empower-your-javascript-with-powershell-magic-96)
 - [Dev.to/JS] [Progress on the website that I am working on](https://dev.to/sshah135/progress-on-the-website-that-i-am-working-on-h6p)
-- [Dev.to/JS] [Recursão com vanilla JavaScript](https://dev.to/dougsource/recursao-com-vanilla-javascript-3fl8)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
 - [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
 - [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
