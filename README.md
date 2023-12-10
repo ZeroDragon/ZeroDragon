@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Init Todo Application](https://dev.to/akbarnafisa/init-todo-application-i40)
+- [Dev.to/JS] [AdventJS 2023: Reto del Día 8](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-8-i44)
 - [Dev.to/JS] [SiteOne Crawler — useful tool you will ♥](https://dev.to/janreges/siteone-crawler-useful-tool-you-will-oe1)
 - [Dev.to/JS] [Data Pagination in React &lpar;Nextjs&rpar; with Custom Hooks](https://dev.to/stephengade/data-pagination-in-react-nextjs-with-custom-hooks-1ik0)
 - [Dev.to/JS] [The humor of JavaScript](https://dev.to/sroehrl/the-humor-of-javascript-1oae)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Planning to Enhance and Add new Feature to Game Portal Website](https://dev.to/sshah135/planning-to-enhance-and-add-new-feature-to-game-portal-website-5f2d)
 - [Dev.to/JS] [A laravel-like database management library for nodejs](https://dev.to/obaydmerz/a-laravel-like-database-management-library-for-nodejs-40ik)
 - [Dev.to/JS] [Utiliza el patrón de diseño Strategy 👾](https://dev.to/jeanvittory/utiliza-el-patron-de-diseno-strategy-2e27)
-- [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/tesari6678/buy-amazon-reviews-46d0)
-- [Dev.to/JS] [How to Build Your Own CLI with Nodejs &lpar;and Push it to npm&rpar;](https://dev.to/opensourcee/how-to-build-your-own-cli-with-nodejs-and-push-it-to-npm-43hk)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
 - [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
 - [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
