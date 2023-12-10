@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript&#39;de Tarih Nesnesi Kavramı](https://dev.to/eminaltan/javascriptde-tarih-nesnesikavrami-2df6)
 - [Dev.to/JS] [All about Postman Collection](https://dev.to/mohammadfaisal/all-about-postman-collection-27b6)
 - [Dev.to/JS] [Building Real-Time Next.js Apps with WebSockets and Soketi](https://dev.to/franciscomendes10866/building-real-time-applications-with-nextjs-and-websockets-588j)
 - [Dev.to/JS] [Epoxy Potting Compounds For Electronics](https://dev.to/epoxypottingcfele/epoxy-potting-compounds-for-electronics-p09)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Yet Another Newsletter LOL: Broccoli](https://dev.to/nickytonline/yet-another-newsletter-lol-broccoli-cif)
 - [Dev.to/JS] [A Deep Dive into Green Threads and Node.js](https://dev.to/ocodista/a-deep-dive-into-green-threads-and-nodejs-15c3)
 - [Dev.to/JS] [Setting up JSC](https://dev.to/leducduynhan/setting-up-jsc-3ken)
-- [Dev.to/JS] [Vigor Vita CBD Gummies Review: Is It Worth The Hype?](https://dev.to/vigorvitacbdgummiesfored/vigor-vita-cbd-gummies-review-is-it-worth-the-hype-4m4b)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
