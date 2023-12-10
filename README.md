@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🏋Map &amp; Set, Secret Weapons for Effortless Data Management in JavaScript](https://dev.to/ahmedgmurtaza/map-and-set-secret-weapons-for-effortless-data-management-in-javascript-ojd)
+- [Dev.to/JS] [Destiny Keto ACV Gummies : Is This the Gummies To Take?](https://dev.to/saffernotoe/destiny-keto-acv-gummies-is-this-the-gummies-to-take-4m88)
+- [Dev.to/JS] [Javascript UI Frameworks: A Battle for the Browser - I](https://dev.to/kalashin1/javascript-ui-frameworks-a-battle-for-the-browser-i-3kck)
 - [Dev.to/JS] [How to improve test isolation in integration testing using Jest and testcontainers](https://dev.to/akinwalehabib/how-to-improve-test-isolation-in-integration-testing-using-jest-and-testcontainers-1ca)
 - [Dev.to/JS] [Time to Upgrade: Why Yarn 4 is the Future of JS Package Management | Dev. Arpon](https://dev.to/a4arpon/time-to-upgrade-why-yarn-4-and-nodelinker-are-the-future-of-package-management-dev-arpon-18ca)
 - [Dev.to/JS] [What is Hibernate](https://dev.to/javatute673/what-is-hibernate-5g11)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [OpenGL, WebGL and Three.js](https://dev.to/gfish94/opengl-webgl-and-threejs-2f17)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
 - [Dev.to/JS] [Copy selected input to the clipboard in javascript.](https://dev.to/pinky057/copy-selected-input-to-the-clipboard-in-javascript-1oa1)
-- [Dev.to/JS] [Init Backend Todo Application](https://dev.to/akbarnafisa/init-backend-todo-application-f3b)
-- [Dev.to/JS] [Init Todo Application](https://dev.to/akbarnafisa/init-todo-application-i40)
-- [Dev.to/JS] [AdventJS 2023: Reto del Día 8](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-8-i44)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
 - [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
 - [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
