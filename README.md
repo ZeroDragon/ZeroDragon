@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Hibernate](https://dev.to/javatute673/what-is-hibernate-5g11)
+- [Dev.to/JS] [AdventJS 2023: Day 8 Challenge](https://dev.to/fenriuz/adventjs-2023-day-8-challenge-g39)
 - [Dev.to/JS] [Pass a ref to a custom hook](https://dev.to/phuocng/pass-a-ref-to-a-custom-hook-599m)
 - [Dev.to/JS] [Detect whether an element is in view](https://dev.to/phuocng/detect-whether-an-element-is-in-view-42oo)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 8](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-8-i44)
 - [Dev.to/JS] [SiteOne Crawler — useful tool you will ♥](https://dev.to/janreges/siteone-crawler-useful-tool-you-will-oe1)
 - [Dev.to/JS] [Data Pagination in React &lpar;Nextjs&rpar; with Custom Hooks](https://dev.to/stephengade/data-pagination-in-react-nextjs-with-custom-hooks-1ik0)
-- [Dev.to/JS] [The humor of JavaScript](https://dev.to/sroehrl/the-humor-of-javascript-1oae)
-- [Dev.to/JS] [Quando um framework é melhor que a manipulação nativa do DOM](https://dev.to/dougsource/quando-um-framework-e-melhor-que-a-manipulacao-nativa-do-dom-4682)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
 - [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
 - [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
