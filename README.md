@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Yet Another Newsletter LOL: Broccoli](https://dev.to/nickytonline/yet-another-newsletter-lol-broccoli-cif)
 - [Dev.to/JS] [A Deep Dive into Green Threads and Node.js](https://dev.to/ocodista/a-deep-dive-into-green-threads-and-nodejs-15c3)
 - [Dev.to/JS] [Setting up JSC](https://dev.to/leducduynhan/setting-up-jsc-3ken)
 - [Dev.to/JS] [Vigor Vita CBD Gummies Review: Is It Worth The Hype?](https://dev.to/vigorvitacbdgummiesfored/vigor-vita-cbd-gummies-review-is-it-worth-the-hype-4m4b)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to improve test isolation in integration testing using Jest and testcontainers](https://dev.to/akinwalehabib/how-to-improve-test-isolation-in-integration-testing-using-jest-and-testcontainers-1ca)
 - [Dev.to/JS] [Time to Upgrade: Why Yarn 4 is the Future of JS Package Management | Dev. Arpon](https://dev.to/a4arpon/time-to-upgrade-why-yarn-4-and-nodelinker-are-the-future-of-package-management-dev-arpon-18ca)
 - [Dev.to/JS] [What is Hibernate](https://dev.to/javatute673/what-is-hibernate-5g11)
-- [Dev.to/JS] [AdventJS 2023: Day 8 Challenge](https://dev.to/fenriuz/adventjs-2023-day-8-challenge-g39)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
