@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s Understand Promises in JavaScript](https://dev.to/vivek_gupta/lets-understand-promises-in-javascript-h9n)
 - [Dev.to/JS] [🏋Map &amp; Set, Secret Weapons for Effortless Data Management in JavaScript](https://dev.to/ahmedgmurtaza/map-and-set-secret-weapons-for-effortless-data-management-in-javascript-ojd)
 - [Dev.to/JS] [Destiny Keto ACV Gummies : Is This the Gummies To Take?](https://dev.to/saffernotoe/destiny-keto-acv-gummies-is-this-the-gummies-to-take-4m88)
 - [Dev.to/JS] [Javascript UI Frameworks: A Battle for the Browser - I](https://dev.to/kalashin1/javascript-ui-frameworks-a-battle-for-the-browser-i-3kck)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Difference you didn&#39;t know existed between Solid.js and Svelte](https://dev.to/shariqahmed525/the-difference-you-didnt-know-existed-between-solidjs-and-svelte-4pd7)
 - [Dev.to/JS] [OpenGL, WebGL and Three.js](https://dev.to/gfish94/opengl-webgl-and-threejs-2f17)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
-- [Dev.to/JS] [Copy selected input to the clipboard in javascript.](https://dev.to/pinky057/copy-selected-input-to-the-clipboard-in-javascript-1oa1)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
 - [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
 - [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
