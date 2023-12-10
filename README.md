@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pass a ref to a custom hook](https://dev.to/phuocng/pass-a-ref-to-a-custom-hook-599m)
+- [Dev.to/JS] [Detect whether an element is in view](https://dev.to/phuocng/detect-whether-an-element-is-in-view-42oo)
 - [Dev.to/JS] [The Difference you didn&#39;t know existed between Solid.js and Svelte](https://dev.to/shariqahmed525/the-difference-you-didnt-know-existed-between-solidjs-and-svelte-4pd7)
 - [Dev.to/JS] [OpenGL, WebGL and Three.js](https://dev.to/gfish94/opengl-webgl-and-threejs-2f17)
 - [Dev.to/JS] [Copy selected input to the clipboard in javascript.](https://dev.to/pinky057/copy-selected-input-to-the-clipboard-in-javascript-1oa1)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Pagination in React &lpar;Nextjs&rpar; with Custom Hooks](https://dev.to/stephengade/data-pagination-in-react-nextjs-with-custom-hooks-1ik0)
 - [Dev.to/JS] [The humor of JavaScript](https://dev.to/sroehrl/the-humor-of-javascript-1oae)
 - [Dev.to/JS] [Quando um framework é melhor que a manipulação nativa do DOM](https://dev.to/dougsource/quando-um-framework-e-melhor-que-a-manipulacao-nativa-do-dom-4682)
-- [Dev.to/JS] [PowerJS - Empower Your JavaScript with PowerShell Magic](https://dev.to/obaydmerz/powerjs-empower-your-javascript-with-powershell-magic-96)
-- [Dev.to/JS] [Progress on the website that I am working on](https://dev.to/sshah135/progress-on-the-website-that-i-am-working-on-h6p)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
 - [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
 - [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
