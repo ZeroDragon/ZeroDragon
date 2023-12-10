@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Deep Dive into Green Threads and Node.js](https://dev.to/ocodista/a-deep-dive-into-green-threads-and-nodejs-15c3)
+- [Dev.to/JS] [Setting up JSC](https://dev.to/leducduynhan/setting-up-jsc-3ken)
 - [Dev.to/JS] [Vigor Vita CBD Gummies Review: Is It Worth The Hype?](https://dev.to/vigorvitacbdgummiesfored/vigor-vita-cbd-gummies-review-is-it-worth-the-hype-4m4b)
 - [Dev.to/JS] [Mastering the Realm of React: Essential Knowledge for Every Developer](https://dev.to/chaladam/mastering-the-realm-of-react-essential-knowledge-for-every-developer-13fk)
 - [Dev.to/JS] [Let&#39;s Understand Promises in JavaScript](https://dev.to/vivek_gupta/lets-understand-promises-in-javascript-h9n)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Time to Upgrade: Why Yarn 4 is the Future of JS Package Management | Dev. Arpon](https://dev.to/a4arpon/time-to-upgrade-why-yarn-4-and-nodelinker-are-the-future-of-package-management-dev-arpon-18ca)
 - [Dev.to/JS] [What is Hibernate](https://dev.to/javatute673/what-is-hibernate-5g11)
 - [Dev.to/JS] [AdventJS 2023: Day 8 Challenge](https://dev.to/fenriuz/adventjs-2023-day-8-challenge-g39)
-- [Dev.to/JS] [Pass a ref to a custom hook](https://dev.to/phuocng/pass-a-ref-to-a-custom-hook-599m)
-- [Dev.to/JS] [Detect whether an element is in view](https://dev.to/phuocng/detect-whether-an-element-is-in-view-42oo)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
