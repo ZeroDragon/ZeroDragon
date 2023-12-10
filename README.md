@@ -28,8 +28,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Pass a ref to a custom hook](https://dev.to/phuocng/pass-a-ref-to-a-custom-hook-599m)
 - [Dev.to/JS] [Detect whether an element is in view](https://dev.to/phuocng/detect-whether-an-element-is-in-view-42oo)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
 - [Dev.to/JS] [The Difference you didn&#39;t know existed between Solid.js and Svelte](https://dev.to/shariqahmed525/the-difference-you-didnt-know-existed-between-solidjs-and-svelte-4pd7)
 - [Dev.to/JS] [OpenGL, WebGL and Three.js](https://dev.to/gfish94/opengl-webgl-and-threejs-2f17)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
 - [Dev.to/JS] [Copy selected input to the clipboard in javascript.](https://dev.to/pinky057/copy-selected-input-to-the-clipboard-in-javascript-1oa1)
 - [Dev.to/JS] [Init Backend Todo Application](https://dev.to/akbarnafisa/init-backend-todo-application-f3b)
 - [Dev.to/JS] [Init Todo Application](https://dev.to/akbarnafisa/init-todo-application-i40)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Easily Wax Your Own Flower Bulbs This Winter](https://lifehacker.com/home/how-to-wax-your-own-flower-bulbs)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-8-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-8-2023)
-- [Lifehacker] [These Are the Best Christmas Sales on Headphones](https://lifehacker.com/tech/best-headphone-gifts-christmas)
-- [Lifehacker] [You Need to Balance Your HVAC System](https://lifehacker.com/home/how-to-balance-hvac-system)
-- [Lifehacker] [You Can Use End-to-End Encryption in Facebook Messenger Right Now](https://lifehacker.com/how-to-use-end-to-end-encryption-in-facebook-messenger-1849405695)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Christmas Sales on Headphones](https://lifehacker.com/tech/best-headphone-gifts-christmas)<!-- TECH-POSTS:END -->
 
 ---
 
