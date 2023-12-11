@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Memory Management: The Magical Realm&#39;s Storage Vault](https://dev.to/init_chandan/memory-management-the-magical-realms-storage-vault-3486)
+- [Dev.to/JS] [Design and Code a Playable Piano with Figma, HTML, SCSS, and JavaScript](https://dev.to/miltiadis/design-and-code-a-playable-piano-with-figma-html-scss-and-javascript-228g)
+- [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
 - [Dev.to/JS] [Wait For It](https://dev.to/rmion/wait-for-it-34dg)
 - [Dev.to/JS] [How I optimize express.js API&#39;s](https://dev.to/castercodes/how-i-optimize-expressjs-apis-3f4k)
 - [Dev.to/JS] [Detect what calls your Node.js code](https://dev.to/afl_ext/detect-what-calls-your-nodejs-code-49l6)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Difference between Module and Package in Node.js](https://dev.to/shameel/difference-between-module-and-package-in-nodejs-2k4e)
 - [Dev.to/JS] [Testing in JavaScript: Best Practices and Tools](https://dev.to/mattryanmtl/testing-in-javascript-best-practices-and-tools-4bkb)
 - [Dev.to/JS] [React Server-Side Components without Next.js](https://dev.to/opensourcee/react-server-side-rendering-without-nextjs-1kcj)
-- [Dev.to/JS] [Introduction to Data Structures in JavaScript](https://dev.to/pachicodes/introduction-to-data-structures-in-javascript-3l87)
-- [Dev.to/JS] [How to do smooth move of a React element?](https://dev.to/devrobert127/how-to-do-smooth-move-of-a-react-element-20li)
 - [Lifehacker] [The Most Devastating Podcast Cancellations in 2023](https://lifehacker.com/entertainment/podcast-cancellations-this-year)
 - [Lifehacker] [How Parents Can Learn Mental Health First Aid &lpar;and Why You Should&rpar;](https://lifehacker.com/family/mental-health-first-aid-for-kids)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Sex Toys to Stuff a Stocking](https://lifehacker.com/relationships/sex-toy-stocking-stuffers)
 - [Lifehacker] [You Can Use Meta&#39;s New AI Image Generator for Free](https://lifehacker.com/tech/metas-new-ai-image-generator-is-free)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
-- [Lifehacker] [Apple Journal Might Help You Finally Start Journaling](https://lifehacker.com/tech/apple-journal-app-review)
-- [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Vibecession&#39;](https://lifehacker.com/entertainment/what-people-get-wrong-vibecession)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Journal Might Help You Finally Start Journaling](https://lifehacker.com/tech/apple-journal-app-review)<!-- TECH-POSTS:END -->
 
 ---
 
