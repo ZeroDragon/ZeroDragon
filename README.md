@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Make Your Artificial Christmas Tree Look More Real](https://lifehacker.com/home/make-fake-christmas-tree-look-real)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/xaciri6702/buy-google-5-star-reviews-4o2)
 - [Dev.to/JS] [Data Structures Implementation in JavaScript or TypeScript](https://dev.to/bugudiramu/data-structures-implementation-in-javascript-or-typescript-4h3c)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/xaciri6702/buy-verified-cash-app-account-4975)
+- [Lifehacker] [All the Jobs AI Is Coming for, According to a UK Study](https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study)
 - [Dev.to/JS] [Inside Node.js: Exploring Asynchronous I/O](https://dev.to/ocodista/inside-nodejs-exploring-asynchronous-io-4bg1)
 - [Dev.to/JS] [How to Style Tables and Images in Gutenberg: A Frmenu Case Study](https://dev.to/codegirl12/how-to-style-tables-and-images-in-gutenberg-a-frmenu-case-study-53ic)
 - [Lifehacker] [How to Record Phone Calls on Your iPhone](https://lifehacker.com/tech/how-to-record-phone-calls-on-an-iphone)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You May Now Add One, Yes One, Tag to Threads Posts](https://lifehacker.com/tech/how-to-add-tags-to-a-threads-posts)
 - [Lifehacker] [Your Air Fried Chickpeas Can Get Even Crispier](https://lifehacker.com/food-drink/best-air-fried-chickpeas-recipe)
 - [Lifehacker] [What Finally Got the Scuffs Out of My &lpar;Borrowed&rpar; Patent Leather Shoes](https://lifehacker.com/home/how-to-clean-scuffs-from-patent-leather)
-- [Lifehacker] [15 of the Best Movie Podcasts to Help You Find Your Next Favorite Film](https://lifehacker.com/entertainment/best-movie-podcasts)
-- [Lifehacker] [The Best Sex Toys to Stuff a Stocking](https://lifehacker.com/relationships/sex-toy-stocking-stuffers)
-- [Lifehacker] [You Can Use Meta&#39;s New AI Image Generator for Free](https://lifehacker.com/tech/metas-new-ai-image-generator-is-free)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 of the Best Movie Podcasts to Help You Find Your Next Favorite Film](https://lifehacker.com/entertainment/best-movie-podcasts)<!-- TECH-POSTS:END -->
 
 ---
 
