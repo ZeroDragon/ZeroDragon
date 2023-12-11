@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adventofcode 🎄: Day 11 - Arrays](https://dev.to/codejem/adventofcode-day-11-arrays-28o0)
+- [Dev.to/JS] [Don&#39;t use rAF with WebGPU &lpar;and canvas in general&rpar;](https://dev.to/snosme/dont-use-raf-with-webgpu-and-canvas-in-general-3cj4)
 - [Lifehacker] [You Can Make Your Artificial Christmas Tree Look More Real](https://lifehacker.com/home/make-fake-christmas-tree-look-real)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/xaciri6702/buy-google-5-star-reviews-4o2)
 - [Dev.to/JS] [Data Structures Implementation in JavaScript or TypeScript](https://dev.to/bugudiramu/data-structures-implementation-in-javascript-or-typescript-4h3c)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Wait For It](https://dev.to/rmion/wait-for-it-34dg)
 - [Dev.to/JS] [How I optimize express.js API&#39;s](https://dev.to/castercodes/how-i-optimize-expressjs-apis-3f4k)
 - [Dev.to/JS] [Detect what calls your Node.js code](https://dev.to/afl_ext/detect-what-calls-your-nodejs-code-49l6)
-- [Dev.to/JS] [Tailoring a Chat Bot: A React ChatBotify Guide &lpar;Part 2&rpar;](https://dev.to/tjtanjin/tailoring-a-chat-bot-a-react-chatbotify-guide-part-2-2f3j)
-- [Dev.to/JS] [Crie e hospede de graça seu site no Github Pages](https://dev.to/chandrasantos/crie-e-hospede-de-graca-seu-site-no-github-pages-276)
 - [Lifehacker] [How to Close Your Cash App Account](https://lifehacker.com/tech/how-to-delete-cash-app)
 - [Lifehacker] [How to Clear the Cache on an Android Smartphone](https://lifehacker.com/tech/how-to-clear-cache-on-android-smartphone)
 - [Lifehacker] [The Most Devastating Podcast Cancellations in 2023](https://lifehacker.com/entertainment/podcast-cancellations-this-year)
