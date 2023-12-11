@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom Themes &amp; Dark Mode Progress](https://dev.to/namatuzio/custom-themes-dark-mode-progress-34jm)
+- [Dev.to/JS] [useContext + useReducer with Sample Code](https://dev.to/ayako_yk/usecontext-usereducer-with-sample-code-45e3)
+- [Dev.to/JS] [Building Your Own Virtual DOM Reconciler in JavaScript: A Minimal Approach](https://dev.to/ezhillragesh/building-your-own-virtual-dom-reconciler-in-javascript-a-minimal-approach-31fd)
+- [Dev.to/JS] [✨FACEIO for Password-less Web Authentication](https://dev.to/dev_kiran/faceio-for-password-less-web-authentication-4k2i)
 - [Dev.to/JS] [🚨 🚀 25 Reasons &lpar;You MUST Know!!&rpar; Why “Listicles” Are BAD for dev.to 🤯 👿 🚨](https://dev.to/best_codes/25-reasons-you-must-know-why-listicles-are-bad-for-devto-1hok)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-11-2023)
 - [Dev.to/JS] [Init Frontend Todo Application](https://dev.to/akbarnafisa/init-frontend-todo-application-1abl)
 - [Dev.to/JS] [Building UltimateTracker - A Modern Web App for Tournament Management](https://dev.to/jconn4177/building-ultimatetracker-a-modern-web-app-for-tournament-management-2d7n)
@@ -35,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 9](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-9-ljm)
 - [Dev.to/JS] [C# vs. Javascript](https://dev.to/jshep23prog/c-vs-javascript-2co9)
 - [Dev.to/JS] [The Bias Nature of JavaScript Event Loop](https://dev.to/abdadeel/the-bias-nature-of-javascript-event-loop-4i9e)
-- [Dev.to/JS] [Navigating the Maze of Type-Guarding in JavaScript](https://dev.to/resetand/navigating-the-maze-of-type-guarding-in-javascript-nan)
-- [Dev.to/JS] [How to Get Audio Transcriptions from Whisper without a File System](https://dev.to/ajones_codes/how-to-get-audio-transcriptions-from-whisper-without-a-file-system-21ek)
-- [Dev.to/JS] [Get Started with Next.js 14 &amp; Supabase](https://dev.to/guillaumeduhan/get-started-with-nextjs-14-supabase-4f9)
-- [Dev.to/JS] [JavaScript&#39;de Tarih Nesnesi Kavramı](https://dev.to/eminaltan/javascriptde-tarih-nesnesikavrami-2df6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When You Fail a College Class](https://lifehacker.com/family/what-to-do-if-you-fail-college-class)
 - [Lifehacker] [The NordicTrack Commercial S22i Studio Cycle Is on Sale for Its Lowest Price Ever Right Now](https://lifehacker.com/health/nordictrack-s22i-deal-40-percent-off)
 - [Lifehacker] [You Can Easily Wax Your Own Flower Bulbs This Winter](https://lifehacker.com/home/how-to-wax-your-own-flower-bulbs)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-8-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-8-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-8-2023)<!-- TECH-POSTS:END -->
 
 ---
 
