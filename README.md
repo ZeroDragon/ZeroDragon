@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AdventJS 2023: Reto del Día 9](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-9-ljm)
 - [Dev.to/JS] [C# vs. Javascript](https://dev.to/jshep23prog/c-vs-javascript-2co9)
 - [Dev.to/JS] [The Bias Nature of JavaScript Event Loop](https://dev.to/abdadeel/the-bias-nature-of-javascript-event-loop-4i9e)
 - [Dev.to/JS] [Navigating the Maze of Type-Guarding in JavaScript](https://dev.to/resetand/navigating-the-maze-of-type-guarding-in-javascript-nan)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Epoxy Potting Compounds For Electronics](https://dev.to/epoxypottingcfele/epoxy-potting-compounds-for-electronics-p09)
 - [Dev.to/JS] [¿Append o AppendChild en Javascript?](https://dev.to/pabmchn/append-o-appendchild-en-javascript-5afl)
 - [Dev.to/JS] [Upgrade Node.js with Confidence in 7 Steps to Enhance Performance and Security!](https://dev.to/godinhojoao/upgrade-nodejs-with-confidence-in-7-steps-to-enhance-performance-and-security-2a4b)
-- [Dev.to/JS] [Solucionando conflictos de CORS al acceder a la API del Banco Central de Argentina](https://dev.to/pabmchn/solucionando-conflictos-de-cors-al-acceder-a-la-api-del-banco-central-de-argentina-34f)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
