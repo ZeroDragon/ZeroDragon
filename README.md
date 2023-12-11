@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/xaciri6702/buy-google-5-star-reviews-4o2)
+- [Dev.to/JS] [Data Structures Implementation in JavaScript or TypeScript](https://dev.to/bugudiramu/data-structures-implementation-in-javascript-or-typescript-4h3c)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/xaciri6702/buy-verified-cash-app-account-4975)
+- [Dev.to/JS] [Inside Node.js: Exploring Asynchronous I/O](https://dev.to/ocodista/inside-nodejs-exploring-asynchronous-io-4bg1)
+- [Dev.to/JS] [How to Style Tables and Images in Gutenberg: A Frmenu Case Study](https://dev.to/codegirl12/how-to-style-tables-and-images-in-gutenberg-a-frmenu-case-study-53ic)
+- [Lifehacker] [How to Record Phone Calls on Your iPhone](https://lifehacker.com/tech/how-to-record-phone-calls-on-an-iphone)
 - [Dev.to/JS] [Memory Management: The Magical Realm&#39;s Storage Vault](https://dev.to/init_chandan/memory-management-the-magical-realms-storage-vault-3486)
+- [Lifehacker] [This Is the Fastest Way to Rearrange Tabs in Your Browser](https://lifehacker.com/tech/rearrange-browser-tabs-hack)
 - [Dev.to/JS] [Design and Code a Playable Piano with Figma, HTML, SCSS, and JavaScript](https://dev.to/miltiadis/design-and-code-a-playable-piano-with-figma-html-scss-and-javascript-228g)
 - [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
 - [Dev.to/JS] [Wait For It](https://dev.to/rmion/wait-for-it-34dg)
@@ -35,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tailoring a Chat Bot: A React ChatBotify Guide &lpar;Part 2&rpar;](https://dev.to/tjtanjin/tailoring-a-chat-bot-a-react-chatbotify-guide-part-2-2f3j)
 - [Dev.to/JS] [Crie e hospede de graça seu site no Github Pages](https://dev.to/chandrasantos/crie-e-hospede-de-graca-seu-site-no-github-pages-276)
 - [Lifehacker] [How to Close Your Cash App Account](https://lifehacker.com/tech/how-to-delete-cash-app)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/popixop973/buy-verified-cash-app-account-3mnl)
-- [Dev.to/JS] [Implement validateRequest Middleware](https://dev.to/karakib2k18/implement-validaterequest-middleware-2k93)
 - [Lifehacker] [How to Clear the Cache on an Android Smartphone](https://lifehacker.com/tech/how-to-clear-cache-on-android-smartphone)
-- [Dev.to/JS] [Difference between Module and Package in Node.js](https://dev.to/shameel/difference-between-module-and-package-in-nodejs-2k4e)
-- [Dev.to/JS] [Testing in JavaScript: Best Practices and Tools](https://dev.to/mattryanmtl/testing-in-javascript-best-practices-and-tools-4bkb)
-- [Dev.to/JS] [React Server-Side Components without Next.js](https://dev.to/opensourcee/react-server-side-rendering-without-nextjs-1kcj)
 - [Lifehacker] [The Most Devastating Podcast Cancellations in 2023](https://lifehacker.com/entertainment/podcast-cancellations-this-year)
 - [Lifehacker] [How Parents Can Learn Mental Health First Aid &lpar;and Why You Should&rpar;](https://lifehacker.com/family/mental-health-first-aid-for-kids)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Finally Got the Scuffs Out of My &lpar;Borrowed&rpar; Patent Leather Shoes](https://lifehacker.com/home/how-to-clean-scuffs-from-patent-leather)
 - [Lifehacker] [15 of the Best Movie Podcasts to Help You Find Your Next Favorite Film](https://lifehacker.com/entertainment/best-movie-podcasts)
 - [Lifehacker] [The Best Sex Toys to Stuff a Stocking](https://lifehacker.com/relationships/sex-toy-stocking-stuffers)
-- [Lifehacker] [You Can Use Meta&#39;s New AI Image Generator for Free](https://lifehacker.com/tech/metas-new-ai-image-generator-is-free)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
-- [Lifehacker] [Apple Journal Might Help You Finally Start Journaling](https://lifehacker.com/tech/apple-journal-app-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Use Meta&#39;s New AI Image Generator for Free](https://lifehacker.com/tech/metas-new-ai-image-generator-is-free)<!-- TECH-POSTS:END -->
 
 ---
 
