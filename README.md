@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn To Debug JavaScript Using Chrome Debugger](https://dev.to/tanmaykumardeo/learn-to-debug-javascript-using-chrome-debugger-988)
+- [Dev.to/JS] [Useful Vue Utils with VueUse](https://dev.to/jacobandrewsky/useful-vue-utils-with-vueuse-17ap)
+- [Dev.to/JS] [Integrating Google Authentication to Chat Application - Progress](https://dev.to/mismathh/integrating-google-authentication-to-chat-application-progress-54o8)
+- [Dev.to/JS] [Avoid try-catch repetition , use catchAsync](https://dev.to/karakib2k18/avoid-try-catch-repetition-use-catchasync-2cha)
 - [Dev.to/JS] [Biome: between code formatters and good competition](https://dev.to/giuliano1993/biome-between-code-formatters-and-good-competition-4ahg)
 - [Dev.to/JS] [Unveiling the Power of the Visitor Pattern in JavaScript Development](https://dev.to/brdnicolas/unveiling-the-power-of-the-visitor-pattern-in-javascript-development-4pb5)
 - [Dev.to/JS] [Common mistakes to avoid while working with Express.js](https://dev.to/manthanank/common-mistakes-to-avoid-while-working-with-expressjs-5g3d)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jindal Stainless steel pipe supplier in Rajasthan](https://dev.to/navbharttubes/jindal-stainless-steel-pipe-supplier-in-rajasthan-4mg4)
 - [Dev.to/JS] [What is fueling the recent surge in AI and data science advancements?](https://dev.to/yagnapandya9/what-is-fueling-the-recent-surge-in-ai-and-data-science-advancements-25g9)
 - [Dev.to/JS] [Useful tips on effective learning at AMFERY to get paid instantly](https://dev.to/sandra_seymour/useful-tips-on-effective-learning-at-amfery-to-get-paid-instantly-3i3d)
-- [Dev.to/JS] [A Guide To Using Nivo with ReactJS](https://dev.to/jgdevelopments/a-guide-to-using-nivo-with-reactjs-2hh8)
-- [Dev.to/JS] [Custom Themes &amp; Dark Mode Progress](https://dev.to/namatuzio/custom-themes-dark-mode-progress-34jm)
-- [Dev.to/JS] [useContext + useReducer with Sample Code](https://dev.to/ayako_yk/usecontext-usereducer-with-sample-code-45e3)
-- [Dev.to/JS] [Building Your Own Virtual DOM Reconciler in JavaScript: A Minimal Approach](https://dev.to/ezhillragesh/building-your-own-virtual-dom-reconciler-in-javascript-a-minimal-approach-31fd)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-11-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
