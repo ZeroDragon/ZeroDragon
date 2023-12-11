@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Init Frontend Todo Application](https://dev.to/akbarnafisa/init-frontend-todo-application-1abl)
 - [Dev.to/JS] [Building UltimateTracker - A Modern Web App for Tournament Management](https://dev.to/jconn4177/building-ultimatetracker-a-modern-web-app-for-tournament-management-2d7n)
 - [Dev.to/JS] [PHP: Personal Home Page](https://dev.to/alexmbeasley/php-personal-home-page-49l)
 - [Dev.to/JS] [AdventJS 2023: Day 9 Challenge](https://dev.to/fenriuz/adventjs-2023-day-9-challenge-274j)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get Started with Next.js 14 &amp; Supabase](https://dev.to/guillaumeduhan/get-started-with-nextjs-14-supabase-4f9)
 - [Dev.to/JS] [JavaScript&#39;de Tarih Nesnesi Kavramı](https://dev.to/eminaltan/javascriptde-tarih-nesnesikavrami-2df6)
 - [Dev.to/JS] [All about Postman Collection](https://dev.to/mohammadfaisal/all-about-postman-collection-27b6)
-- [Dev.to/JS] [Building Real-Time Next.js Apps with WebSockets and Soketi](https://dev.to/franciscomendes10866/building-real-time-applications-with-nextjs-and-websockets-588j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
