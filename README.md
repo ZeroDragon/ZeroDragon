@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Speedy Keto + ACV Gummies &quot;Where To Buy&quot; Pros And Cons Of Speedy Keto + ACV Gummies!](https://dev.to/speedyketoacvgummies/speedy-keto-acv-gummies-where-to-buy-pros-and-cons-of-speedy-keto-acv-gummies-2pjd)
+- [Dev.to/JS] [Hello everyone, I&#39;m Owen. We have spent two years developing a very cool open-source low-code tool.](https://dev.to/silerncerxyz/hello-everyone-im-owen-we-have-spent-two-years-developing-a-very-cool-open-source-low-code-tool-3g0c)
+- [Dev.to/JS] [Balancing Codes and Mental Wellbeing: A Guide for Software Engineers](https://dev.to/eworld/balancing-codes-and-mental-wellbeing-a-guide-for-software-engineers-d4d)
+- [Dev.to/JS] [Choosing the best JavaScript framework for your next project](https://dev.to/ably/choosing-the-best-javascript-framework-for-your-next-project-4on3)
 - [Dev.to/JS] [News Content Aggregation Platform](https://dev.to/shreyvijayvargiya/news-content-aggregation-platform-2820)
 - [Dev.to/JS] [Day 8 - 30 Days learn Web Dev](https://dev.to/johnc/day-8-30-days-learn-web-dev-48j0)
 - [Dev.to/JS] [Moving to Berlin using ChatGPT and JavaScript](https://dev.to/isaksolheim/moving-to-berlin-using-chatgpt-and-javascript-3b0k)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Useful Vue Utils with VueUse](https://dev.to/jacobandrewsky/useful-vue-utils-with-vueuse-17ap)
 - [Dev.to/JS] [Integrating Google Authentication to Chat Application - Progress](https://dev.to/mismathh/integrating-google-authentication-to-chat-application-progress-54o8)
 - [Dev.to/JS] [Avoid try-catch repetition , use catchAsync](https://dev.to/karakib2k18/avoid-try-catch-repetition-use-catchasync-2cha)
-- [Dev.to/JS] [Biome: between code formatters and good competition](https://dev.to/giuliano1993/biome-between-code-formatters-and-good-competition-4ahg)
-- [Dev.to/JS] [Unveiling the Power of the Visitor Pattern in JavaScript Development](https://dev.to/brdnicolas/unveiling-the-power-of-the-visitor-pattern-in-javascript-development-4pb5)
-- [Dev.to/JS] [Common mistakes to avoid while working with Express.js](https://dev.to/manthanank/common-mistakes-to-avoid-while-working-with-expressjs-5g3d)
-- [Dev.to/JS] [JavaScript. What&#39;s New in 2023](https://dev.to/betelgeuseas/javascript-whats-new-in-2023-20cb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-11-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
