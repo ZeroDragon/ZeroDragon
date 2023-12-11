@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implement validateRequest Middleware](https://dev.to/karakib2k18/implement-validaterequest-middleware-2k93)
+- [Dev.to/JS] [Difference between Module and Package in Node.js](https://dev.to/shameel/difference-between-module-and-package-in-nodejs-2k4e)
+- [Dev.to/JS] [Testing in JavaScript: Best Practices and Tools](https://dev.to/mattryanmtl/testing-in-javascript-best-practices-and-tools-4bkb)
+- [Dev.to/JS] [React Server-Side Components without Next.js](https://dev.to/opensourcee/react-server-side-rendering-without-nextjs-1kcj)
 - [Dev.to/JS] [Introduction to Data Structures in JavaScript](https://dev.to/pachicodes/introduction-to-data-structures-in-javascript-3l87)
 - [Dev.to/JS] [How to do smooth move of a React element?](https://dev.to/devrobert127/how-to-do-smooth-move-of-a-react-element-20li)
 - [Dev.to/JS] [BUY TRUSTPILOT REVIEWS](https://dev.to/soyon40/buy-trustpilot-reviews-2g3h)
-- [Dev.to/JS] [Recursion for Technical Interviews Guide For self-taught developers new to Algorithms and Recursion](https://dev.to/piko/recursion-for-technical-interviews-guide-for-self-taught-developers-new-to-algorithms-and-recursion-32d9)
+- [Dev.to/JS] [Recursion for Technical Interviews - A Guide For Self-taught JavaScript Developers](https://dev.to/piko/recursion-for-technical-interviews-guide-for-self-taught-developers-new-to-algorithms-and-recursion-32d9)
 - [Dev.to/JS] [Chunked Server side Streaming NodeJs](https://dev.to/debo2696/chunked-server-side-streaming-nodejs-1oo)
 - [Dev.to/JS] [#TesteSemNeura Desmistificando Testes Unitários com Jest](https://dev.to/iurynogueira/testesemneura-desmistificando-testes-unitarios-com-jest-49ah)
 - [Dev.to/JS] [Node.js and NestJS – Understanding their Technical Difference](https://dev.to/me_janki/nodejs-and-nestjs-understanding-their-technical-difference-4224)
 - [Dev.to/JS] [Wavesurfer.js](https://dev.to/snelson723/wavesurferjs-4k22)
-- [Dev.to/JS] [Reflect-metadata in JavaScript](https://dev.to/bhargavmantha/reflect-metadata-in-javascript-1jgp)
-- [Dev.to/JS] [Python Guide for JavaScript Engineers: A 100k characters e-book based on ChatGPT](https://dev.to/luckrnx09/python-guide-for-javascript-engineers-a-100k-characters-e-book-based-on-chatgpt-2m)
-- [Dev.to/JS] [Revojs: How a Local Conference in 🇷🇴 Romania turned into a Networking Gold Mine](https://dev.to/mihneasim/revojs-how-a-local-conference-in-romania-turned-into-a-networking-gold-mine-3eio)
-- [Dev.to/JS] [History and evolution of JavaScript.](https://dev.to/swandi/history-and-evolution-of-javascript-5c06)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-11-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
