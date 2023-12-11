@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Crie e hospede de graça seu site no Github Pages](https://dev.to/chandrasantos/crie-e-hospede-de-graca-seu-site-no-github-pages-276)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/popixop973/buy-verified-cash-app-account-3mnl)
 - [Dev.to/JS] [Implement validateRequest Middleware](https://dev.to/karakib2k18/implement-validaterequest-middleware-2k93)
+- [Lifehacker] [How to Clear the Cache on an Android Smartphone](https://lifehacker.com/tech/how-to-clear-cache-on-android-smartphone)
 - [Dev.to/JS] [Difference between Module and Package in Node.js](https://dev.to/shameel/difference-between-module-and-package-in-nodejs-2k4e)
 - [Dev.to/JS] [Testing in JavaScript: Best Practices and Tools](https://dev.to/mattryanmtl/testing-in-javascript-best-practices-and-tools-4bkb)
 - [Dev.to/JS] [React Server-Side Components without Next.js](https://dev.to/opensourcee/react-server-side-rendering-without-nextjs-1kcj)
@@ -36,8 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recursion for Technical Interviews - A Guide For Self-taught JavaScript Developers](https://dev.to/piko/recursion-for-technical-interviews-guide-for-self-taught-developers-new-to-algorithms-and-recursion-32d9)
 - [Dev.to/JS] [Chunked Server side Streaming NodeJs](https://dev.to/debo2696/chunked-server-side-streaming-nodejs-1oo)
 - [Dev.to/JS] [#TesteSemNeura Desmistificando Testes Unitários com Jest](https://dev.to/iurynogueira/testesemneura-desmistificando-testes-unitarios-com-jest-49ah)
-- [Dev.to/JS] [Node.js and NestJS – Understanding their Technical Difference](https://dev.to/me_janki/nodejs-and-nestjs-understanding-their-technical-difference-4224)
-- [Dev.to/JS] [Wavesurfer.js](https://dev.to/snelson723/wavesurferjs-4k22)
+- [Lifehacker] [The Most Devastating Podcast Cancellations in 2023](https://lifehacker.com/entertainment/podcast-cancellations-this-year)
+- [Lifehacker] [How Parents Can Learn Mental Health First Aid &lpar;and Why You Should&rpar;](https://lifehacker.com/family/mental-health-first-aid-for-kids)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-11-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [Apple Journal Might Help You Finally Start Journaling](https://lifehacker.com/tech/apple-journal-app-review)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Vibecession&#39;](https://lifehacker.com/entertainment/what-people-get-wrong-vibecession)
-- [Lifehacker] [What to Do When You Fail a College Class](https://lifehacker.com/family/what-to-do-if-you-fail-college-class)
-- [Lifehacker] [The NordicTrack Commercial S22i Studio Cycle Is on Sale for Its Lowest Price Ever Right Now](https://lifehacker.com/health/nordictrack-s22i-deal-40-percent-off)
-- [Lifehacker] [You Can Easily Wax Your Own Flower Bulbs This Winter](https://lifehacker.com/home/how-to-wax-your-own-flower-bulbs)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 8, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-8-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When You Fail a College Class](https://lifehacker.com/family/what-to-do-if-you-fail-college-class)<!-- TECH-POSTS:END -->
 
 ---
 
