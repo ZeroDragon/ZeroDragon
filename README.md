@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Finalizing my Vue.js Context Menu](https://dev.to/omalk98/finalizing-my-vuejs-context-menu-pmp)
+- [Dev.to/JS] [Jindal Stainless steel pipe supplier in Rajasthan](https://dev.to/navbharttubes/jindal-stainless-steel-pipe-supplier-in-rajasthan-4mg4)
 - [Dev.to/JS] [What is fueling the recent surge in AI and data science advancements?](https://dev.to/yagnapandya9/what-is-fueling-the-recent-surge-in-ai-and-data-science-advancements-25g9)
 - [Dev.to/JS] [Useful tips on effective learning at AMFERY to get paid instantly](https://dev.to/sandra_seymour/useful-tips-on-effective-learning-at-amfery-to-get-paid-instantly-3i3d)
-- [Dev.to/JS] [React Form Optimization: Dynamic data fetching for Select Fields](https://dev.to/kpnigalye/react-form-optimization-dynamic-data-fetching-for-select-fields-lp9)
+- [Dev.to/JS] [React Form Optimization: Dynamic data fetching for Select Fields 🚀](https://dev.to/kpnigalye/react-form-optimization-dynamic-data-fetching-for-select-fields-lp9)
 - [Dev.to/JS] [A Guide To Using Nivo with ReactJS](https://dev.to/jgdevelopments/a-guide-to-using-nivo-with-reactjs-2hh8)
 - [Dev.to/JS] [Custom Themes &amp; Dark Mode Progress](https://dev.to/namatuzio/custom-themes-dark-mode-progress-34jm)
 - [Dev.to/JS] [useContext + useReducer with Sample Code](https://dev.to/ayako_yk/usecontext-usereducer-with-sample-code-45e3)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-11-2023)
 - [Dev.to/JS] [Init Frontend Todo Application](https://dev.to/akbarnafisa/init-frontend-todo-application-1abl)
-- [Dev.to/JS] [Building UltimateTracker - A Modern Web App for Tournament Management](https://dev.to/jconn4177/building-ultimatetracker-a-modern-web-app-for-tournament-management-2d7n)
-- [Dev.to/JS] [PHP: Personal Home Page](https://dev.to/alexmbeasley/php-personal-home-page-49l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
