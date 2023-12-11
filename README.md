@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [News Content Aggregation Platform](https://dev.to/shreyvijayvargiya/news-content-aggregation-platform-2820)
+- [Dev.to/JS] [Day 8 - 30 Days learn Web Dev](https://dev.to/johnc/day-8-30-days-learn-web-dev-48j0)
+- [Dev.to/JS] [Moving to Berlin using ChatGPT and JavaScript](https://dev.to/isaksolheim/moving-to-berlin-using-chatgpt-and-javascript-3b0k)
+- [Dev.to/JS] [Require vs. Import in JavaScript: Enhancing Your Code for the Future](https://dev.to/marmariadev/require-vs-import-in-javascript-enhancing-your-code-for-the-future-4iob)
 - [Dev.to/JS] [Learn To Debug JavaScript Using Chrome Debugger](https://dev.to/tanmaykumardeo/learn-to-debug-javascript-using-chrome-debugger-988)
 - [Dev.to/JS] [Useful Vue Utils with VueUse](https://dev.to/jacobandrewsky/useful-vue-utils-with-vueuse-17ap)
 - [Dev.to/JS] [Integrating Google Authentication to Chat Application - Progress](https://dev.to/mismathh/integrating-google-authentication-to-chat-application-progress-54o8)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unveiling the Power of the Visitor Pattern in JavaScript Development](https://dev.to/brdnicolas/unveiling-the-power-of-the-visitor-pattern-in-javascript-development-4pb5)
 - [Dev.to/JS] [Common mistakes to avoid while working with Express.js](https://dev.to/manthanank/common-mistakes-to-avoid-while-working-with-expressjs-5g3d)
 - [Dev.to/JS] [JavaScript. What&#39;s New in 2023](https://dev.to/betelgeuseas/javascript-whats-new-in-2023-20cb)
-- [Dev.to/JS] [Finalizing my Vue.js Context Menu](https://dev.to/omalk98/finalizing-my-vuejs-context-menu-pmp)
-- [Dev.to/JS] [Jindal Stainless steel pipe supplier in Rajasthan](https://dev.to/navbharttubes/jindal-stainless-steel-pipe-supplier-in-rajasthan-4mg4)
-- [Dev.to/JS] [What is fueling the recent surge in AI and data science advancements?](https://dev.to/yagnapandya9/what-is-fueling-the-recent-surge-in-ai-and-data-science-advancements-25g9)
-- [Dev.to/JS] [Useful tips on effective learning at AMFERY to get paid instantly](https://dev.to/sandra_seymour/useful-tips-on-effective-learning-at-amfery-to-get-paid-instantly-3i3d)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-11-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
