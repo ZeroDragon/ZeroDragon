@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NativeScript-Vue unit testing with Vitest](https://dev.to/vallemar/nativescript-vue-unit-testing-with-vitest-5e7b)
+- [Dev.to/JS] [JavaScriptmas 2023 - Week 2](https://dev.to/michaellarocca/javascriptmas-2023-week-2-3m6l)
+- [Dev.to/JS] [Northcoders Week 2: Shut up and take my money! 💷](https://dev.to/gruitt/northcoders-week-2-shut-up-and-take-my-money-1jom)
 - [Dev.to/JS] [Adventofcode 🎄: Day 11 - Arrays](https://dev.to/codejem/adventofcode-day-11-arrays-28o0)
 - [Dev.to/JS] [Don&#39;t use rAF with WebGPU &lpar;and canvas in general&rpar;](https://dev.to/snosme/dont-use-raf-with-webgpu-and-canvas-in-general-3cj4)
+- [Lifehacker] [12 of the Best Gifts for Foodies &lpar;Whether or Not They Like to Cook&rpar;](https://lifehacker.com/food-drink/best-gifts-for-foodies)
+- [Lifehacker] [Apple Really Doesn&#39;t Like Beeper Mini](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
+- [Lifehacker] [All the Best Features Now Live in iOS 17.2](https://lifehacker.com/new-features-in-ios-17-2-1850964155)
+- [Lifehacker] [17 Bloody Good Christmas Horror Movies You Can Stream Right Now](https://lifehacker.com/entertainment/best-christmas-horror-movies-streaming)
 - [Lifehacker] [You Can Make Your Artificial Christmas Tree Look More Real](https://lifehacker.com/home/make-fake-christmas-tree-look-real)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/xaciri6702/buy-google-5-star-reviews-4o2)
 - [Dev.to/JS] [Data Structures Implementation in JavaScript or TypeScript](https://dev.to/bugudiramu/data-structures-implementation-in-javascript-or-typescript-4h3c)
@@ -40,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Fastest Way to Rearrange Tabs in Your Browser](https://lifehacker.com/tech/rearrange-browser-tabs-hack)
 - [Dev.to/JS] [Design and Code a Playable Piano with Figma, HTML, SCSS, and JavaScript](https://dev.to/miltiadis/design-and-code-a-playable-piano-with-figma-html-scss-and-javascript-228g)
 - [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
-- [Dev.to/JS] [Wait For It](https://dev.to/rmion/wait-for-it-34dg)
-- [Dev.to/JS] [How I optimize express.js API&#39;s](https://dev.to/castercodes/how-i-optimize-expressjs-apis-3f4k)
-- [Dev.to/JS] [Detect what calls your Node.js code](https://dev.to/afl_ext/detect-what-calls-your-nodejs-code-49l6)
 - [Lifehacker] [How to Close Your Cash App Account](https://lifehacker.com/tech/how-to-delete-cash-app)
 - [Lifehacker] [How to Clear the Cache on an Android Smartphone](https://lifehacker.com/tech/how-to-clear-cache-on-android-smartphone)
 - [Lifehacker] [The Most Devastating Podcast Cancellations in 2023](https://lifehacker.com/entertainment/podcast-cancellations-this-year)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Grand Theft Auto 6&#39; Trailer Breaks Internet](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-grand-theft-auto-6-trailer)
 - [Lifehacker] [20 Places to Legally Download or Stream Movies for Free](https://lifehacker.com/these-are-the-best-free-streaming-services)
 - [Lifehacker] [This Smart Soundbar and Subwoofer Combo Is a Great Deal Right Now](https://lifehacker.com/tech/roku-streambar-subwoofer-sale)
-- [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)
-- [Lifehacker] [You May Now Add One, Yes One, Tag to Threads Posts](https://lifehacker.com/tech/how-to-add-tags-to-a-threads-posts)
-- [Lifehacker] [Your Air Fried Chickpeas Can Get Even Crispier](https://lifehacker.com/food-drink/best-air-fried-chickpeas-recipe)
-- [Lifehacker] [What Finally Got the Scuffs Out of My &lpar;Borrowed&rpar; Patent Leather Shoes](https://lifehacker.com/home/how-to-clean-scuffs-from-patent-leather)
-- [Lifehacker] [15 of the Best Movie Podcasts to Help You Find Your Next Favorite Film](https://lifehacker.com/entertainment/best-movie-podcasts)<!-- TECH-POSTS:END -->
+- [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)<!-- TECH-POSTS:END -->
 
 ---
 
