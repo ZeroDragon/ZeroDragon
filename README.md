@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wait For It](https://dev.to/rmion/wait-for-it-34dg)
+- [Dev.to/JS] [How I optimize express.js API&#39;s](https://dev.to/castercodes/how-i-optimize-expressjs-apis-3f4k)
+- [Dev.to/JS] [Detect what calls your Node.js code](https://dev.to/afl_ext/detect-what-calls-your-nodejs-code-49l6)
+- [Dev.to/JS] [Tailoring a Chat Bot: A React ChatBotify Guide &lpar;Part 2&rpar;](https://dev.to/tjtanjin/tailoring-a-chat-bot-a-react-chatbotify-guide-part-2-2f3j)
 - [Dev.to/JS] [Crie e hospede de graça seu site no Github Pages](https://dev.to/chandrasantos/crie-e-hospede-de-graca-seu-site-no-github-pages-276)
+- [Lifehacker] [How to Close Your Cash App Account](https://lifehacker.com/tech/how-to-delete-cash-app)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/popixop973/buy-verified-cash-app-account-3mnl)
 - [Dev.to/JS] [Implement validateRequest Middleware](https://dev.to/karakib2k18/implement-validaterequest-middleware-2k93)
 - [Lifehacker] [How to Clear the Cache on an Android Smartphone](https://lifehacker.com/tech/how-to-clear-cache-on-android-smartphone)
@@ -35,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Server-Side Components without Next.js](https://dev.to/opensourcee/react-server-side-rendering-without-nextjs-1kcj)
 - [Dev.to/JS] [Introduction to Data Structures in JavaScript](https://dev.to/pachicodes/introduction-to-data-structures-in-javascript-3l87)
 - [Dev.to/JS] [How to do smooth move of a React element?](https://dev.to/devrobert127/how-to-do-smooth-move-of-a-react-element-20li)
-- [Dev.to/JS] [BUY TRUSTPILOT REVIEWS](https://dev.to/soyon40/buy-trustpilot-reviews-2g3h)
-- [Dev.to/JS] [Recursion for Technical Interviews - A Guide For Self-taught JavaScript Developers](https://dev.to/piko/recursion-for-technical-interviews-guide-for-self-taught-developers-new-to-algorithms-and-recursion-32d9)
-- [Dev.to/JS] [Chunked Server side Streaming NodeJs](https://dev.to/debo2696/chunked-server-side-streaming-nodejs-1oo)
-- [Dev.to/JS] [#TesteSemNeura Desmistificando Testes Unitários com Jest](https://dev.to/iurynogueira/testesemneura-desmistificando-testes-unitarios-com-jest-49ah)
 - [Lifehacker] [The Most Devastating Podcast Cancellations in 2023](https://lifehacker.com/entertainment/podcast-cancellations-this-year)
 - [Lifehacker] [How Parents Can Learn Mental Health First Aid &lpar;and Why You Should&rpar;](https://lifehacker.com/family/mental-health-first-aid-for-kids)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use Meta&#39;s New AI Image Generator for Free](https://lifehacker.com/tech/metas-new-ai-image-generator-is-free)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in December 2023](https://lifehacker.com/entertainment/new-on-prime-video-and-freevee-december-2023)
 - [Lifehacker] [Apple Journal Might Help You Finally Start Journaling](https://lifehacker.com/tech/apple-journal-app-review)
-- [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Vibecession&#39;](https://lifehacker.com/entertainment/what-people-get-wrong-vibecession)
-- [Lifehacker] [What to Do When You Fail a College Class](https://lifehacker.com/family/what-to-do-if-you-fail-college-class)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: The &#39;Vibecession&#39;](https://lifehacker.com/entertainment/what-people-get-wrong-vibecession)<!-- TECH-POSTS:END -->
 
 ---
 
