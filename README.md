@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which best programming language for mobile app development?](https://dev.to/lenina59400/which-best-programming-language-for-mobile-app-development-49op)
+- [Dev.to/JS] [Advanced Hooks in React: Beyond useState and useEffect](https://dev.to/krentrox/advanced-hooks-in-react-beyond-usestate-and-useeffect-1mhk)
 - [Dev.to/JS] [Release 0.4 Progress on Issue 2](https://dev.to/bhmistry/release-04-progress-on-issue-2-42ff)
 - [Dev.to/JS] [Toasty Heater Reviews - &lpar;Legit Or Scam&rpar; Read Reviews, Price, Benefits &amp; Consumer Report &lpar;2023&rpar;](https://dev.to/wsakhswa/toasty-heater-reviews-legit-or-scam-read-reviews-price-benefits-consumer-report-2023-4al9)
 - [Dev.to/JS] [Java Tutorial For Beginners - For Loops in Java | Nested For Loop | Java Tutorial #coding #java](https://dev.to/codingmadeeasy/java-tutorial-for-beginners-for-loops-in-java-nested-for-loop-java-tutorial-coding-java-2l7d)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ChatGPT: Exploring the Landscape of Artificial Intelligence](https://dev.to/omnathdubeyofficial/chatgpt-exploring-the-landscape-of-artificial-intelligence-7ek)
 - [Dev.to/JS] [Release 0.4 Progress on Issue 1](https://dev.to/bhmistry/release-04-progress-on-issue-1-k8c)
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 10](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-10-h5d)
-- [Dev.to/JS] [How To Create a Age Calculator in HTML CSS &amp; JavaScript [Calculate Age from Date of Birth]](https://dev.to/sharathchandark/how-to-create-a-age-calculator-in-html-css-javascript-calculate-age-from-date-of-birth-872)
-- [Dev.to/JS] [Como atualizar a URL do navegador sem refresh a página usando a vanilla JS History API](https://dev.to/dougsource/como-atualizar-a-url-do-navegador-sem-refresh-a-pagina-usando-a-vanilla-js-history-api-3c19)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-12-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-12-2023)
 - [Lifehacker] [Why You Shouldn’t Force Kids Into Sports &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/family/why-you-shouldnt-force-kids-into-sports)
