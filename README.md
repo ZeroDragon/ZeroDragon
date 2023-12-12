@@ -26,22 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Revalidate the generateStaticParams in Nextjs](https://dev.to/sushilmagare10/how-to-revalidate-the-generatestaticparams-2h88)
+- [Dev.to/JS] [Top 9 Tech Trends of 2024 &lpar;Key Insights &amp; Forecasts&rpar;](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
+- [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-coc)
+- [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-25h7)
+- [Dev.to/JS] [✨Tabs accesibles✨](https://dev.to/micaavigliano/tabs-accesibles-29f8)
 - [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-1knd)
 - [Dev.to/JS] [Understanding the Event Loop in JavaScript](https://dev.to/ryver_dev/understanding-the-event-loop-in-javascript-4051)
 - [Dev.to/JS] [Release 0.4 final release](https://dev.to/bhmistry/release-04-final-release-18fb)
+- [Lifehacker] [These Are the Most Popular iPhone Apps of 2023](https://lifehacker.com/tech/the-most-popular-iphone-apps)
 - [Dev.to/JS] [New Approach of CSS Animation.](https://dev.to/devrobert127/new-approach-of-css-animation-4ckd)
 - [Dev.to/JS] [Software design patterns and principles are not the goal](https://dev.to/tahazsh/software-design-patterns-and-principles-are-not-the-goal-58j)
 - [Lifehacker] [How to Enable Immersive Spatial Audio on Windows 11](https://lifehacker.com/tech/enable-spatial-audio-windows-11)
 - [Dev.to/JS] [Release 0.4 Progress](https://dev.to/bhmistry/release-04-progress-4b96)
 - [Lifehacker] [All the Days You Can Visit National Parks for Free in 2024](https://lifehacker.com/travel/national-park-trips-free-days)
 - [Dev.to/JS] [next-export-i18n v2.3.5: localStorage and an internal link component](https://dev.to/martinkr/next-export-i18n-v235-localstorage-and-an-internal-link-component-2lm5)
-- [Dev.to/JS] [The 2000 line framework challenge: Making a gradient picker tool in 13 lines of pure HTML code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/the-2000-line-framework-challenge-making-a-gradient-picker-tool-in-13-lines-of-pure-html-code-1-extra-file-no-node-or-js-2jb1)
 - [Lifehacker] [You Can Now Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/bolax59459/buy-google-5-star-reviews-4p3b)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/bolax59459/buy-verified-cash-app-account-56f3)
 - [Lifehacker] [Split-Screen Multitasking Just Got Easier to Use on Windows](https://lifehacker.com/tech/how-to-use-split-screen-multitasking-on-windows)
-- [Dev.to/JS] [AI Painting Quickstart - StableDiffusionWebui](https://dev.to/dlimeng/ai-painting-quickstart-stablediffusionwebui-4l68)
-- [Dev.to/JS] [Introducing Sage CLI: A Magic Tool for Robo.js](https://dev.to/waveplay/introducing-sage-cli-a-magic-tool-for-robojs-34ph)
 - [Lifehacker] [This Is How Solar Panels Actually Work](https://lifehacker.com/tech/how-solar-panels-work)
 - [Lifehacker] [Ride1Up&#39;s Cafe Cruiser E-bike Is Actually Too Powerful](https://lifehacker.com/tech/ride1ups-cafe-cruiser-review)
 - [Lifehacker] [You Can Get ‘Deathloop’ for Free for the Next Month With Amazon Prime](https://lifehacker.com/entertainment/deathloop-pc-free-with-amazon-prime)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Record Phone Calls on Your iPhone](https://lifehacker.com/tech/how-to-record-phone-calls-on-an-iphone)
 - [Lifehacker] [This Is the Fastest Way to Rearrange Tabs in Your Browser](https://lifehacker.com/tech/rearrange-browser-tabs-hack)
 - [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
-- [Lifehacker] [How to Close Your Cash App Account](https://lifehacker.com/tech/how-to-delete-cash-app)
-- [Lifehacker] [How to Clear the Cache on an Android Smartphone](https://lifehacker.com/tech/how-to-clear-cache-on-android-smartphone)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Close Your Cash App Account](https://lifehacker.com/tech/how-to-delete-cash-app)<!-- TECH-POSTS:END -->
 
 ---
 
