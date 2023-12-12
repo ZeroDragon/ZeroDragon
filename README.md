@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Release 0.4 Progress on Issue 2](https://dev.to/bhmistry/release-04-progress-on-issue-2-42ff)
+- [Dev.to/JS] [Toasty Heater Reviews - &lpar;Legit Or Scam&rpar; Read Reviews, Price, Benefits &amp; Consumer Report &lpar;2023&rpar;](https://dev.to/wsakhswa/toasty-heater-reviews-legit-or-scam-read-reviews-price-benefits-consumer-report-2023-4al9)
+- [Dev.to/JS] [Java Tutorial For Beginners - For Loops in Java | Nested For Loop | Java Tutorial #coding #java](https://dev.to/codingmadeeasy/java-tutorial-for-beginners-for-loops-in-java-nested-for-loop-java-tutorial-coding-java-2l7d)
 - [Dev.to/JS] [Destiny Keto ACV Gummies Reviews– {Ingredients, Side Effects, and Benefits} Read Before Buy](https://dev.to/destinyketoacvg/destiny-keto-acv-gummies-reviews-ingredients-side-effects-and-benefits-read-before-buy-42np)
 - [Dev.to/JS] [ChatGPT and Journalism: The Influence of AI on the World of Media](https://dev.to/omnathdubeyofficial/chatgpt-and-journalism-the-influence-of-ai-on-the-world-of-media-13ho)
 - [Dev.to/JS] [ChatGPT and Education: Unleashing AI Potential in the Realm of Learning](https://dev.to/omnathdubeyofficial/chatgpt-and-education-unleashing-ai-potential-in-the-realm-of-learning-1eom)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 10](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-10-h5d)
 - [Dev.to/JS] [How To Create a Age Calculator in HTML CSS &amp; JavaScript [Calculate Age from Date of Birth]](https://dev.to/sharathchandark/how-to-create-a-age-calculator-in-html-css-javascript-calculate-age-from-date-of-birth-872)
 - [Dev.to/JS] [Como atualizar a URL do navegador sem refresh a página usando a vanilla JS History API](https://dev.to/dougsource/como-atualizar-a-url-do-navegador-sem-refresh-a-pagina-usando-a-vanilla-js-history-api-3c19)
-- [Dev.to/JS] [9 Hidden JavaScript Features YOU Should know!](https://dev.to/agramofpro/9-hidden-javascript-features-you-should-know-5a4c)
-- [Dev.to/JS] [Custom Themes and Dark Mode Release](https://dev.to/namatuzio/custom-themes-and-dark-mode-release-3h5l)
-- [Dev.to/JS] [Por que utilizar um elemento form quando submit campos com JavaScript?](https://dev.to/dougsource/por-que-utilizar-um-elemento-form-quando-submit-campos-com-javascript-50pj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-12-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-12-2023)
 - [Lifehacker] [Why You Shouldn’t Force Kids Into Sports &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/family/why-you-shouldnt-force-kids-into-sports)
