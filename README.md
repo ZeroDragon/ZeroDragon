@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Progressive Web Apps in Angular &lpar;using pwafire&rpar;](https://dev.to/chrisachinga/building-progressive-web-apps-in-angular-using-pwafire-5ejk)
+- [Dev.to/JS] [backend generateStudent&lpar;&rpar; id automatically](https://dev.to/karakib2k18/backend-generatestudent-id-automatically-1ldo)
 - [Dev.to/JS] [Open Source Document Signing: Revolutionizing Digital Authentication](https://dev.to/opensign/open-source-document-signing-revolutionizing-digital-authentication-33m0)
 - [Dev.to/JS] [What does the &quot;yield&quot; keyword do in Python and Javascript?](https://dev.to/danyson/what-does-the-yield-keyword-do-in-python-and-javascript-p7f)
+- [Lifehacker] [You Can Get SimpliSafe&#39;s Home Security System for 50% Off Right Now](https://lifehacker.com/tech/simplisafe-home-security-system-50-percent-off-deal50-off)
+- [Lifehacker] [Get the Right Fire Extinguisher by Knowing Its Class](https://lifehacker.com/home/types-of-fire-extinguishers)
 - [Lifehacker] [Nine Things You Need to Tell Your Home Insurer About](https://lifehacker.com/money/home-renovations-that-lower-or-raise-insurance-rates)
 - [Dev.to/JS] [How to Revalidate the generateStaticParams in Nextjs](https://dev.to/sushilmagare10/how-to-revalidate-the-generatestaticparams-2h88)
 - [Dev.to/JS] [🔥 Top 9 Tech Trends 2024](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the Event Loop in JavaScript](https://dev.to/ryver_dev/understanding-the-event-loop-in-javascript-4051)
 - [Dev.to/JS] [Release 0.4 final release](https://dev.to/bhmistry/release-04-final-release-18fb)
 - [Lifehacker] [These Are the Most Popular iPhone Apps of 2023](https://lifehacker.com/tech/the-most-popular-iphone-apps)
-- [Dev.to/JS] [New Approach of CSS Animation.](https://dev.to/devrobert127/new-approach-of-css-animation-4ckd)
-- [Dev.to/JS] [Software design patterns and principles are not the goal](https://dev.to/tahazsh/software-design-patterns-and-principles-are-not-the-goal-58j)
 - [Lifehacker] [How to Enable Immersive Spatial Audio on Windows 11](https://lifehacker.com/tech/enable-spatial-audio-windows-11)
 - [Lifehacker] [All the Days You Can Visit National Parks for Free in 2024](https://lifehacker.com/travel/national-park-trips-free-days)
 - [Lifehacker] [You Can Now Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Best Features Now Live in iOS 17.2](https://lifehacker.com/new-features-in-ios-17-2-1850964155)
 - [Lifehacker] [17 Bloody Good Christmas Horror Movies You Can Stream Right Now](https://lifehacker.com/entertainment/best-christmas-horror-movies-streaming)
 - [Lifehacker] [You Can Make Your Artificial Christmas Tree Look More Real](https://lifehacker.com/home/make-fake-christmas-tree-look-real)
-- [Lifehacker] [All the Jobs AI Is Coming for, According to a UK Study](https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study)
-- [Lifehacker] [How to Record Phone Calls on Your iPhone](https://lifehacker.com/tech/how-to-record-phone-calls-on-an-iphone)
-- [Lifehacker] [This Is the Fastest Way to Rearrange Tabs in Your Browser](https://lifehacker.com/tech/rearrange-browser-tabs-hack)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Jobs AI Is Coming for, According to a UK Study](https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study)<!-- TECH-POSTS:END -->
 
 ---
 
