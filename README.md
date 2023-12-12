@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Golang and Gin Framework to Build RESTful API - 7 Steps](https://dev.to/nikl/using-goland-and-gin-framework-to-build-restful-api-7-steps-2834)
+- [Dev.to/JS] [Top 7 React Native Components for Software Development](https://dev.to/thedvmehta/top-7-react-native-components-for-software-development-2ojn)
+- [Dev.to/JS] [Como usar requestAnimationFrame&lpar;&rpar; com vanilla JS](https://dev.to/dougsource/como-usar-requestanimationframe-com-vanilla-js-433)
+- [Dev.to/JS] [Você talvez não saiba tratar erros usando Fetch API corretamente](https://dev.to/nosylasairaf/voce-talvez-nao-saiba-tratar-erros-usando-fetch-api-corretamente-21in)
+- [Dev.to/JS] [Setup Docker Development for Backend](https://dev.to/akbarnafisa/setup-docker-development-for-backend-a4c)
 - [Dev.to/JS] [🔥 Top 12 libraries for your NextJS project 🏆](https://dev.to/nevodavid/top-12-libraries-for-your-nextjs-project-1oob)
 - [Dev.to/JS] [Designing a Cloud Architecture from Scratch](https://dev.to/brainboard/designing-a-cloud-architecture-from-scratch-3kd1)
 - [Dev.to/JS] [Top React graph visualization libraries](https://dev.to/ably/top-react-graph-visualization-libraries-3gmn)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Of recursion and backtracking](https://dev.to/codejet/of-recursion-and-backtracking-3jhg)
 - [Dev.to/JS] [The Last Word: UI/UX Development - What You Need to Know.](https://dev.to/davidwillam46/the-last-word-uiux-development-what-you-need-to-know-1h9h)
 - [Dev.to/JS] [Angular Addicts #20: unit testing the new defer blocks, NGRX Signal store extensions, app architectures &amp; more](https://dev.to/this-is-angular/angular-addicts-20-unit-testing-the-new-defer-blocks-ngrx-signal-store-extensions-app-architectures-more-2dm8)
-- [Dev.to/JS] [Picomap - the smallest JS web map](https://dev.to/leoalho/picomap-the-smallest-js-web-map-18o0)
-- [Dev.to/JS] [React CRUD Operations Made Easy with Array Methods](https://dev.to/amritapadhy/react-crud-operations-made-easy-with-array-methods-3pn5)
-- [Dev.to/JS] [Unlocking the Impossible: Search Keywords Within WebView in React Native](https://dev.to/rushitjivani/unlocking-the-impossible-search-keywords-within-webview-in-react-native-2led)
-- [Dev.to/JS] [Development of a web application: 5 most relevant examples](https://dev.to/sparkouttech/development-of-a-web-application-5-most-relevant-examples-431c)
-- [Dev.to/JS] [What&#39;s your opinion on TDD in backend vs frontend development?](https://dev.to/gruescudanziel/whats-your-opinion-on-tdd-in-backend-vs-frontend-development-mc7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-12-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-12-2023)
 - [Lifehacker] [Why You Shouldn’t Force Kids Into Sports &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/family/why-you-shouldnt-force-kids-into-sports)
