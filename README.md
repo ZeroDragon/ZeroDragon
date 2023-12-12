@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Document Signing: Revolutionizing Digital Authentication](https://dev.to/opensign/open-source-document-signing-revolutionizing-digital-authentication-33m0)
+- [Dev.to/JS] [What does the &quot;yield&quot; keyword do in Python and Javascript?](https://dev.to/danyson/what-does-the-yield-keyword-do-in-python-and-javascript-p7f)
 - [Lifehacker] [Nine Things You Need to Tell Your Home Insurer About](https://lifehacker.com/money/home-renovations-that-lower-or-raise-insurance-rates)
 - [Dev.to/JS] [How to Revalidate the generateStaticParams in Nextjs](https://dev.to/sushilmagare10/how-to-revalidate-the-generatestaticparams-2h88)
-- [Dev.to/JS] [🔥 Top 9 Tech Trends Insights &amp; Industry Impacts 2024](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
+- [Dev.to/JS] [🔥 Top 9 Tech Trends 2024](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
 - [Lifehacker] [These Simple Parmesan Tomato Puffs Are the Perfect Party Snack](https://lifehacker.com/food-drink/parmesan-tomato-puffs-party-appetizer-recipe)
 - [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-coc)
 - [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-25h7)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Approach of CSS Animation.](https://dev.to/devrobert127/new-approach-of-css-animation-4ckd)
 - [Dev.to/JS] [Software design patterns and principles are not the goal](https://dev.to/tahazsh/software-design-patterns-and-principles-are-not-the-goal-58j)
 - [Lifehacker] [How to Enable Immersive Spatial Audio on Windows 11](https://lifehacker.com/tech/enable-spatial-audio-windows-11)
-- [Dev.to/JS] [Release 0.4 Progress](https://dev.to/bhmistry/release-04-progress-4b96)
 - [Lifehacker] [All the Days You Can Visit National Parks for Free in 2024](https://lifehacker.com/travel/national-park-trips-free-days)
-- [Dev.to/JS] [next-export-i18n v2.3.5: localStorage and an internal link component](https://dev.to/martinkr/next-export-i18n-v235-localstorage-and-an-internal-link-component-2lm5)
 - [Lifehacker] [You Can Now Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
 - [Lifehacker] [Split-Screen Multitasking Just Got Easier to Use on Windows](https://lifehacker.com/tech/how-to-use-split-screen-multitasking-on-windows)
 - [Lifehacker] [This Is How Solar Panels Actually Work](https://lifehacker.com/tech/how-solar-panels-work)
