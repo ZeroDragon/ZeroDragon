@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Accessibility Audit Prioritization Levels](https://dev.to/thawkin3/accessibility-audit-prioritization-levels-39fd)
+- [Dev.to/JS] [Working with resource group and a storage account in Azure](https://dev.to/ulomaekpe/working-with-resource-group-and-a-storage-account-in-azure-3f15)
+- [Dev.to/JS] [Programar sin Título Universitario](https://dev.to/javascriptchile/programar-sin-titulo-universitario-2c42)
 - [Dev.to/JS] [Building Progressive Web Apps in Angular &lpar;using pwafire&rpar;](https://dev.to/chrisachinga/building-progressive-web-apps-in-angular-using-pwafire-5ejk)
 - [Dev.to/JS] [backend generateStudent&lpar;&rpar; id automatically](https://dev.to/karakib2k18/backend-generatestudent-id-automatically-1ldo)
+- [Lifehacker] [These Robot Vacuums Are Over 50% Off for Christmas](https://lifehacker.com/home/robot-vacuums-gift-guide)
 - [Dev.to/JS] [Open Source Document Signing: Revolutionizing Digital Authentication](https://dev.to/opensign/open-source-document-signing-revolutionizing-digital-authentication-33m0)
+- [Lifehacker] [The Biggest Scams to Avoid This Holiday Season](https://lifehacker.com/tech/biggest-online-scams-holiday-season)
 - [Dev.to/JS] [What does the &quot;yield&quot; keyword do in Python and Javascript?](https://dev.to/danyson/what-does-the-yield-keyword-do-in-python-and-javascript-p7f)
 - [Lifehacker] [You Can Get SimpliSafe&#39;s Home Security System for 50% Off Right Now](https://lifehacker.com/tech/simplisafe-home-security-system-50-percent-off-deal50-off)
 - [Lifehacker] [Get the Right Fire Extinguisher by Knowing Its Class](https://lifehacker.com/home/types-of-fire-extinguishers)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-coc)
 - [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-25h7)
 - [Dev.to/JS] [✨Tabs accesibles✨](https://dev.to/micaavigliano/tabs-accesibles-29f8)
-- [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-1knd)
-- [Dev.to/JS] [Understanding the Event Loop in JavaScript](https://dev.to/ryver_dev/understanding-the-event-loop-in-javascript-4051)
-- [Dev.to/JS] [Release 0.4 final release](https://dev.to/bhmistry/release-04-final-release-18fb)
 - [Lifehacker] [These Are the Most Popular iPhone Apps of 2023](https://lifehacker.com/tech/the-most-popular-iphone-apps)
 - [Lifehacker] [How to Enable Immersive Spatial Audio on Windows 11](https://lifehacker.com/tech/enable-spatial-audio-windows-11)
 - [Lifehacker] [All the Days You Can Visit National Parks for Free in 2024](https://lifehacker.com/travel/national-park-trips-free-days)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Best Gifts for Foodies &lpar;Whether or Not They Like to Cook&rpar;](https://lifehacker.com/food-drink/best-gifts-for-foodies)
 - [Lifehacker] [Apple Really Doesn&#39;t Like Beeper Mini](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
 - [Lifehacker] [All the Best Features Now Live in iOS 17.2](https://lifehacker.com/new-features-in-ios-17-2-1850964155)
-- [Lifehacker] [17 Bloody Good Christmas Horror Movies You Can Stream Right Now](https://lifehacker.com/entertainment/best-christmas-horror-movies-streaming)
-- [Lifehacker] [You Can Make Your Artificial Christmas Tree Look More Real](https://lifehacker.com/home/make-fake-christmas-tree-look-real)
-- [Lifehacker] [All the Jobs AI Is Coming for, According to a UK Study](https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study)<!-- TECH-POSTS:END -->
+- [Lifehacker] [17 Bloody Good Christmas Horror Movies You Can Stream Right Now](https://lifehacker.com/entertainment/best-christmas-horror-movies-streaming)<!-- TECH-POSTS:END -->
 
 ---
 
