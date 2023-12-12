@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Indent the output of 𝐉𝐒𝐎𝐍.𝐬𝐭𝐫𝐢𝐧𝐠𝐢𝐟𝐲](https://dev.to/mailtodanish/indent-the-output-of--3364)
+- [Lifehacker] [Why You Shouldn’t Force Kids Into Sports &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/family/why-you-shouldnt-force-kids-into-sports)
 - [Dev.to/JS] [The Art of File Routing](https://dev.to/louis_bertson_1124e9cdc59/the-art-of-file-routing-767)
+- [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Dev.to/JS] [Flutter, not yet ready for web](https://dev.to/mattia/flutter-not-yet-ready-for-web-1jm6)
 - [Dev.to/JS] [Release 4.0](https://dev.to/sshah135/release-40-1kk9)
 - [Lifehacker] [How to Recycle, Repurpose, or Dispose of Broken Christmas Lights](https://lifehacker.com/home/how-to-recycle-christmas-lights)
@@ -47,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Structures Implementation in JavaScript or TypeScript](https://dev.to/bugudiramu/data-structures-implementation-in-javascript-or-typescript-4h3c)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/xaciri6702/buy-verified-cash-app-account-4975)
 - [Lifehacker] [All the Jobs AI Is Coming for, According to a UK Study](https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study)
-- [Dev.to/JS] [Inside Node.js: Exploring Asynchronous I/O](https://dev.to/ocodista/inside-nodejs-exploring-asynchronous-io-4bg1)
 - [Lifehacker] [How to Record Phone Calls on Your iPhone](https://lifehacker.com/tech/how-to-record-phone-calls-on-an-iphone)
 - [Lifehacker] [This Is the Fastest Way to Rearrange Tabs in Your Browser](https://lifehacker.com/tech/rearrange-browser-tabs-hack)
 - [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
 - [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Developing Flavor](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-four)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-9-2023)
-- [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)<!-- TECH-POSTS:END -->
 
 ---
 
