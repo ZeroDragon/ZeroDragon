@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom Themes and Dark Mode Release](https://dev.to/namatuzio/custom-themes-and-dark-mode-release-3h5l)
+- [Dev.to/JS] [Por que utilizar um elemento form quando submit campos com JavaScript?](https://dev.to/dougsource/por-que-utilizar-um-elemento-form-quando-submit-campos-com-javascript-50pj)
 - [Dev.to/JS] [Function Scope in JS](https://dev.to/mailtodanish/function-scope-in-js-34c5)
 - [Dev.to/JS] [14 tips to write better Javascript](https://dev.to/melvinvmegen/14-tips-to-write-better-javascript-gj0)
 - [Dev.to/JS] [Code, Commit, Deploy: My First Django Deployment](https://dev.to/nueldotdev/code-commit-deploy-my-first-django-deployment-359b)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScriptmas 2023 - Week 2](https://dev.to/michaellarocca/javascriptmas-2023-week-2-3m6l)
 - [Dev.to/JS] [Northcoders Week 2: Shut up and take my money! 💷](https://dev.to/gruitt/northcoders-week-2-shut-up-and-take-my-money-1jom)
 - [Lifehacker] [How to Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
-- [Dev.to/JS] [Adventofcode 🎄: Day 11 - Arrays](https://dev.to/codejem/adventofcode-day-11-arrays-28o0)
 - [Lifehacker] [The Best Tech Stocking Stuffers for Under $150](https://lifehacker.com/tech/best-tech-stocking-stuffer-deals)
-- [Dev.to/JS] [Don&#39;t use rAF with WebGPU &lpar;and canvas in general&rpar;](https://dev.to/snosme/dont-use-raf-with-webgpu-and-canvas-in-general-3cj4)
 - [Lifehacker] [12 of the Best Gifts for Foodies &lpar;Whether or Not They Like to Cook&rpar;](https://lifehacker.com/food-drink/best-gifts-for-foodies)
 - [Lifehacker] [Apple Really Doesn&#39;t Like Beeper Mini](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
 - [Lifehacker] [All the Best Features Now Live in iOS 17.2](https://lifehacker.com/new-features-in-ios-17-2-1850964155)
