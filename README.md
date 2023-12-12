@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create a Age Calculator in HTML CSS &amp; JavaScript [Calculate Age from Date of Birth]](https://dev.to/sharathchandark/how-to-create-a-age-calculator-in-html-css-javascript-calculate-age-from-date-of-birth-872)
 - [Dev.to/JS] [Como atualizar a URL do navegador sem refresh a página usando a vanilla JS History API](https://dev.to/dougsource/como-atualizar-a-url-do-navegador-sem-refresh-a-pagina-usando-a-vanilla-js-history-api-3c19)
 - [Dev.to/JS] [9 Hidden JavaScript Features YOU Should know!](https://dev.to/agramofpro/9-hidden-javascript-features-you-should-know-5a4c)
 - [Dev.to/JS] [Custom Themes and Dark Mode Release](https://dev.to/namatuzio/custom-themes-and-dark-mode-release-3h5l)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flutter, not yet ready for web](https://dev.to/mattia/flutter-not-yet-ready-for-web-1jm6)
 - [Dev.to/JS] [Release 4.0](https://dev.to/sshah135/release-40-1kk9)
 - [Lifehacker] [How to Recycle, Repurpose, or Dispose of Broken Christmas Lights](https://lifehacker.com/home/how-to-recycle-christmas-lights)
-- [Dev.to/JS] [NativeScript-Vue unit testing with Vitest](https://dev.to/vallemar/nativescript-vue-unit-testing-with-vitest-5e7b)
 - [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/home/the-best-species-of-live-christmas-trees-and-which-to-choose)
 - [Lifehacker] [How to Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
 - [Lifehacker] [The Best Tech Stocking Stuffers for Under $150](https://lifehacker.com/tech/best-tech-stocking-stuffer-deals)
