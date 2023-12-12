@@ -26,10 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Art of File Routing](https://dev.to/louis_bertson_1124e9cdc59/the-art-of-file-routing-767)
+- [Dev.to/JS] [Flutter, not yet ready for web](https://dev.to/mattia/flutter-not-yet-ready-for-web-1jm6)
+- [Dev.to/JS] [Release 4.0](https://dev.to/sshah135/release-40-1kk9)
+- [Lifehacker] [How to Recycle, Repurpose, or Dispose of Broken Christmas Lights](https://lifehacker.com/home/how-to-recycle-christmas-lights)
 - [Dev.to/JS] [NativeScript-Vue unit testing with Vitest](https://dev.to/vallemar/nativescript-vue-unit-testing-with-vitest-5e7b)
+- [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/home/the-best-species-of-live-christmas-trees-and-which-to-choose)
 - [Dev.to/JS] [JavaScriptmas 2023 - Week 2](https://dev.to/michaellarocca/javascriptmas-2023-week-2-3m6l)
 - [Dev.to/JS] [Northcoders Week 2: Shut up and take my money! 💷](https://dev.to/gruitt/northcoders-week-2-shut-up-and-take-my-money-1jom)
+- [Lifehacker] [How to Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
 - [Dev.to/JS] [Adventofcode 🎄: Day 11 - Arrays](https://dev.to/codejem/adventofcode-day-11-arrays-28o0)
+- [Lifehacker] [The Best Tech Stocking Stuffers for Under $150](https://lifehacker.com/tech/best-tech-stocking-stuffer-deals)
 - [Dev.to/JS] [Don&#39;t use rAF with WebGPU &lpar;and canvas in general&rpar;](https://dev.to/snosme/dont-use-raf-with-webgpu-and-canvas-in-general-3cj4)
 - [Lifehacker] [12 of the Best Gifts for Foodies &lpar;Whether or Not They Like to Cook&rpar;](https://lifehacker.com/food-drink/best-gifts-for-foodies)
 - [Lifehacker] [Apple Really Doesn&#39;t Like Beeper Mini](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
@@ -41,11 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/xaciri6702/buy-verified-cash-app-account-4975)
 - [Lifehacker] [All the Jobs AI Is Coming for, According to a UK Study](https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study)
 - [Dev.to/JS] [Inside Node.js: Exploring Asynchronous I/O](https://dev.to/ocodista/inside-nodejs-exploring-asynchronous-io-4bg1)
-- [Dev.to/JS] [How to Style Tables and Images in Gutenberg: A Frmenu Case Study](https://dev.to/codegirl12/how-to-style-tables-and-images-in-gutenberg-a-frmenu-case-study-53ic)
 - [Lifehacker] [How to Record Phone Calls on Your iPhone](https://lifehacker.com/tech/how-to-record-phone-calls-on-an-iphone)
-- [Dev.to/JS] [Memory Management: The Magical Realm&#39;s Storage Vault](https://dev.to/init_chandan/memory-management-the-magical-realms-storage-vault-3486)
 - [Lifehacker] [This Is the Fastest Way to Rearrange Tabs in Your Browser](https://lifehacker.com/tech/rearrange-browser-tabs-hack)
-- [Dev.to/JS] [Design and Code a Playable Piano with Figma, HTML, SCSS, and JavaScript](https://dev.to/miltiadis/design-and-code-a-playable-piano-with-figma-html-scss-and-javascript-228g)
 - [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
 - [Lifehacker] [How to Close Your Cash App Account](https://lifehacker.com/tech/how-to-delete-cash-app)
 - [Lifehacker] [How to Clear the Cache on an Android Smartphone](https://lifehacker.com/tech/how-to-clear-cache-on-android-smartphone)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Developing Flavor](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-four)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-9-2023)
-- [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Grand Theft Auto 6&#39; Trailer Breaks Internet](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-grand-theft-auto-6-trailer)
-- [Lifehacker] [20 Places to Legally Download or Stream Movies for Free](https://lifehacker.com/these-are-the-best-free-streaming-services)
-- [Lifehacker] [This Smart Soundbar and Subwoofer Combo Is a Great Deal Right Now](https://lifehacker.com/tech/roku-streambar-subwoofer-sale)
-- [Lifehacker] [If You Hate Holiday Baking, Make a Chocolate Salami](https://lifehacker.com/if-you-hate-holiday-baking-make-a-chocolate-salami-1849889505)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Beats Powerbeats Pro Are at Their Lowest Price Right Now](https://lifehacker.com/tech/beats-powerbeats-pro-sale)<!-- TECH-POSTS:END -->
 
 ---
 
