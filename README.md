@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔥 Top 12 libraries for your NextJS project 🏆](https://dev.to/nevodavid/top-12-libraries-for-your-nextjs-project-1oob)
+- [Dev.to/JS] [Designing a Cloud Architecture from Scratch](https://dev.to/brainboard/designing-a-cloud-architecture-from-scratch-3kd1)
 - [Dev.to/JS] [Top React graph visualization libraries](https://dev.to/ably/top-react-graph-visualization-libraries-3gmn)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #7](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-7-1f5p)
 - [Dev.to/JS] [Of recursion and backtracking](https://dev.to/codejet/of-recursion-and-backtracking-3jhg)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Impossible: Search Keywords Within WebView in React Native](https://dev.to/rushitjivani/unlocking-the-impossible-search-keywords-within-webview-in-react-native-2led)
 - [Dev.to/JS] [Development of a web application: 5 most relevant examples](https://dev.to/sparkouttech/development-of-a-web-application-5-most-relevant-examples-431c)
 - [Dev.to/JS] [What&#39;s your opinion on TDD in backend vs frontend development?](https://dev.to/gruescudanziel/whats-your-opinion-on-tdd-in-backend-vs-frontend-development-mc7)
-- [Dev.to/JS] [19 Handy Websites for Web Developers](https://dev.to/devland/19-handy-websites-for-web-developers-1m3i)
-- [Dev.to/JS] [Web Development - Best Practices to Minimize Side Effects](https://dev.to/franciscomoretti/web-development-best-practices-to-minimize-side-effects-21hn)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-12-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-12-2023)
 - [Lifehacker] [Why You Shouldn’t Force Kids Into Sports &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/family/why-you-shouldnt-force-kids-into-sports)
