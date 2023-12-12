@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Function Scope in JS](https://dev.to/mailtodanish/function-scope-in-js-34c5)
+- [Dev.to/JS] [14 tips to write better Javascript](https://dev.to/melvinvmegen/14-tips-to-write-better-javascript-gj0)
+- [Dev.to/JS] [Code, Commit, Deploy: My First Django Deployment](https://dev.to/nueldotdev/code-commit-deploy-my-first-django-deployment-359b)
 - [Dev.to/JS] [Indent the output of 𝐉𝐒𝐎𝐍.𝐬𝐭𝐫𝐢𝐧𝐠𝐢𝐟𝐲](https://dev.to/mailtodanish/indent-the-output-of--3364)
 - [Lifehacker] [Why You Shouldn’t Force Kids Into Sports &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/family/why-you-shouldnt-force-kids-into-sports)
 - [Dev.to/JS] [The Art of File Routing](https://dev.to/louis_bertson_1124e9cdc59/the-art-of-file-routing-767)
@@ -46,9 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Best Features Now Live in iOS 17.2](https://lifehacker.com/new-features-in-ios-17-2-1850964155)
 - [Lifehacker] [17 Bloody Good Christmas Horror Movies You Can Stream Right Now](https://lifehacker.com/entertainment/best-christmas-horror-movies-streaming)
 - [Lifehacker] [You Can Make Your Artificial Christmas Tree Look More Real](https://lifehacker.com/home/make-fake-christmas-tree-look-real)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/xaciri6702/buy-google-5-star-reviews-4o2)
-- [Dev.to/JS] [Data Structures Implementation in JavaScript or TypeScript](https://dev.to/bugudiramu/data-structures-implementation-in-javascript-or-typescript-4h3c)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/xaciri6702/buy-verified-cash-app-account-4975)
 - [Lifehacker] [All the Jobs AI Is Coming for, According to a UK Study](https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study)
 - [Lifehacker] [How to Record Phone Calls on Your iPhone](https://lifehacker.com/tech/how-to-record-phone-calls-on-an-iphone)
 - [Lifehacker] [This Is the Fastest Way to Rearrange Tabs in Your Browser](https://lifehacker.com/tech/rearrange-browser-tabs-hack)
