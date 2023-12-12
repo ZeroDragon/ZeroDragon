@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Nine Things You Need to Tell Your Home Insurer About](https://lifehacker.com/money/home-renovations-that-lower-or-raise-insurance-rates)
 - [Dev.to/JS] [How to Revalidate the generateStaticParams in Nextjs](https://dev.to/sushilmagare10/how-to-revalidate-the-generatestaticparams-2h88)
-- [Dev.to/JS] [Top 9 Tech Trends of 2024 &lpar;Key Insights &amp; Forecasts&rpar;](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
+- [Dev.to/JS] [🔥 Top 9 Tech Trends Insights &amp; Industry Impacts 2024](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
+- [Lifehacker] [These Simple Parmesan Tomato Puffs Are the Perfect Party Snack](https://lifehacker.com/food-drink/parmesan-tomato-puffs-party-appetizer-recipe)
 - [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-coc)
 - [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-25h7)
 - [Dev.to/JS] [✨Tabs accesibles✨](https://dev.to/micaavigliano/tabs-accesibles-29f8)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Your Artificial Christmas Tree Look More Real](https://lifehacker.com/home/make-fake-christmas-tree-look-real)
 - [Lifehacker] [All the Jobs AI Is Coming for, According to a UK Study](https://lifehacker.com/tech/the-jobs-most-at-risk-from-ai-according-to-a-uk-study)
 - [Lifehacker] [How to Record Phone Calls on Your iPhone](https://lifehacker.com/tech/how-to-record-phone-calls-on-an-iphone)
-- [Lifehacker] [This Is the Fastest Way to Rearrange Tabs in Your Browser](https://lifehacker.com/tech/rearrange-browser-tabs-hack)
-- [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
-- [Lifehacker] [How to Close Your Cash App Account](https://lifehacker.com/tech/how-to-delete-cash-app)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Fastest Way to Rearrange Tabs in Your Browser](https://lifehacker.com/tech/rearrange-browser-tabs-hack)<!-- TECH-POSTS:END -->
 
 ---
 
