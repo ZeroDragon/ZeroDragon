@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Fullstack WEB App: Nextjs &amp; Docker](https://dev.to/francescoxx/javascript-fullstack-web-app-nextjs-docker-4d44)
+- [Dev.to/JS] [How we implemented a straightforward post history system at Glynk](https://dev.to/jaleelnazir/how-we-implemented-a-straightforward-post-history-system-at-glynk-1h3m)
+- [Dev.to/JS] [A library or your own code](https://dev.to/vlad_sha/a-library-or-your-own-code-3760)
+- [Dev.to/JS] [Lazy Loading in React](https://dev.to/teddapollo/lazy-loading-in-react-4a6f)
+- [Dev.to/JS] [To-Do-List-App](https://dev.to/gauravjanjvadiya/to-do-list-app-3e52)
+- [Dev.to/JS] [Top 7 React Native Components for Software Development](https://dev.to/thedvmehta/top-7-react-native-components-for-software-development-27np)
 - [Dev.to/JS] [Using Golang and Gin Framework to Build RESTful API - 7 Steps](https://dev.to/nikl/using-goland-and-gin-framework-to-build-restful-api-7-steps-2834)
-- [Dev.to/JS] [Top 7 React Native Components for Software Development](https://dev.to/thedvmehta/top-7-react-native-components-for-software-development-2ojn)
+- [Lifehacker] [25 Delicious Gift Ideas for New Cooks](https://lifehacker.com/food-drink/25-gift-ideas-for-new-cooks)
 - [Dev.to/JS] [Como usar requestAnimationFrame&lpar;&rpar; com vanilla JS](https://dev.to/dougsource/como-usar-requestanimationframe-com-vanilla-js-433)
 - [Dev.to/JS] [Você talvez não saiba tratar erros usando Fetch API corretamente](https://dev.to/nosylasairaf/voce-talvez-nao-saiba-tratar-erros-usando-fetch-api-corretamente-21in)
 - [Dev.to/JS] [Setup Docker Development for Backend](https://dev.to/akbarnafisa/setup-docker-development-for-backend-a4c)
 - [Dev.to/JS] [🔥 Top 12 libraries for your NextJS project 🏆](https://dev.to/nevodavid/top-12-libraries-for-your-nextjs-project-1oob)
 - [Dev.to/JS] [Designing a Cloud Architecture from Scratch](https://dev.to/brainboard/designing-a-cloud-architecture-from-scratch-3kd1)
-- [Dev.to/JS] [Top React graph visualization libraries](https://dev.to/ably/top-react-graph-visualization-libraries-3gmn)
-- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #7](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-7-1f5p)
-- [Dev.to/JS] [Of recursion and backtracking](https://dev.to/codejet/of-recursion-and-backtracking-3jhg)
-- [Dev.to/JS] [The Last Word: UI/UX Development - What You Need to Know.](https://dev.to/davidwillam46/the-last-word-uiux-development-what-you-need-to-know-1h9h)
-- [Dev.to/JS] [Angular Addicts #20: unit testing the new defer blocks, NGRX Signal store extensions, app architectures &amp; more](https://dev.to/this-is-angular/angular-addicts-20-unit-testing-the-new-defer-blocks-ngrx-signal-store-extensions-app-architectures-more-2dm8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-12-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-12-2023)
 - [Lifehacker] [Why You Shouldn’t Force Kids Into Sports &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/family/why-you-shouldnt-force-kids-into-sports)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
-- [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
-- [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)<!-- TECH-POSTS:END -->
 
 ---
 
