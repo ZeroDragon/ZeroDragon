@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/bolax59459/buy-google-5-star-reviews-4p3b)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/bolax59459/buy-verified-cash-app-account-56f3)
+- [Dev.to/JS] [AI Painting Quickstart - StableDiffusionWebui](https://dev.to/dlimeng/ai-painting-quickstart-stablediffusionwebui-4l68)
+- [Dev.to/JS] [Pixel-EM Converter With JavaScript Project in 2024](https://dev.to/codingcss/pixel-em-converter-with-javascript-project-in-2024-3h19)
+- [Dev.to/JS] [Introducing Sage CLI: A Magic Tool for Robo.js](https://dev.to/waveplay/introducing-sage-cli-a-magic-tool-for-robojs-34ph)
 - [Dev.to/JS] [Vue js 3 form validation using Simple Vue Validator || izitoast || Vue js 3 tutorial Part - 2](https://dev.to/minit61/vue-js-3-form-validation-using-simple-vue-validator-izitoast-vue-js-3-tutorial-part-2-3fp4)
 - [Dev.to/JS] [Use forwardRef with a higher-order component](https://dev.to/phuocng/use-forwardref-with-a-higher-order-component-159o)
 - [Dev.to/JS] [Pass a ref to a child component using forwardRef&lpar;&rpar;](https://dev.to/phuocng/pass-a-ref-to-a-child-component-using-forwardref-404b)
@@ -34,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get ‘Deathloop’ for Free for the Next Month With Amazon Prime](https://lifehacker.com/entertainment/deathloop-pc-free-with-amazon-prime)
 - [Dev.to/JS] [JavaScript Fullstack WEB App: Nextjs &amp; Docker](https://dev.to/francescoxx/javascript-fullstack-web-app-nextjs-docker-4d44)
 - [Dev.to/JS] [How we implemented a straightforward post history system at Glynk](https://dev.to/jaleelnazir/how-we-implemented-a-straightforward-post-history-system-at-glynk-1h3m)
-- [Dev.to/JS] [A library or your own code](https://dev.to/vlad_sha/a-library-or-your-own-code-3760)
-- [Dev.to/JS] [Lazy Loading in React](https://dev.to/teddapollo/lazy-loading-in-react-4a6f)
 - [Lifehacker] [Your Next Great Potato Dish Is Fennel](https://lifehacker.com/food-drink/best-fennel-gratin-recipe)
-- [Dev.to/JS] [To-Do-List-App](https://dev.to/gauravjanjvadiya/to-do-list-app-3e52)
-- [Dev.to/JS] [Top 7 React Native Components for Software Development](https://dev.to/thedvmehta/top-7-react-native-components-for-software-development-27np)
-- [Dev.to/JS] [Using Golang and Gin Framework to Build RESTful API - 7 Steps](https://dev.to/nikl/using-goland-and-gin-framework-to-build-restful-api-7-steps-2834)
 - [Lifehacker] [25 Delicious Gift Ideas for New Cooks](https://lifehacker.com/food-drink/25-gift-ideas-for-new-cooks)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-12-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-12-2023)
