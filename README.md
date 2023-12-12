@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como atualizar a URL do navegador sem refresh a página usando a vanilla JS History API](https://dev.to/dougsource/como-atualizar-a-url-do-navegador-sem-refresh-a-pagina-usando-a-vanilla-js-history-api-3c19)
+- [Dev.to/JS] [9 Hidden JavaScript Features YOU Should know!](https://dev.to/agramofpro/9-hidden-javascript-features-you-should-know-5a4c)
 - [Dev.to/JS] [Custom Themes and Dark Mode Release](https://dev.to/namatuzio/custom-themes-and-dark-mode-release-3h5l)
 - [Dev.to/JS] [Por que utilizar um elemento form quando submit campos com JavaScript?](https://dev.to/dougsource/por-que-utilizar-um-elemento-form-quando-submit-campos-com-javascript-50pj)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-12-2023)
 - [Dev.to/JS] [Function Scope in JS](https://dev.to/mailtodanish/function-scope-in-js-34c5)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-12-2023)
 - [Dev.to/JS] [14 tips to write better Javascript](https://dev.to/melvinvmegen/14-tips-to-write-better-javascript-gj0)
 - [Dev.to/JS] [Code, Commit, Deploy: My First Django Deployment](https://dev.to/nueldotdev/code-commit-deploy-my-first-django-deployment-359b)
 - [Dev.to/JS] [Indent the output of 𝐉𝐒𝐎𝐍.𝐬𝐭𝐫𝐢𝐧𝐠𝐢𝐟𝐲](https://dev.to/mailtodanish/indent-the-output-of--3364)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recycle, Repurpose, or Dispose of Broken Christmas Lights](https://lifehacker.com/home/how-to-recycle-christmas-lights)
 - [Dev.to/JS] [NativeScript-Vue unit testing with Vitest](https://dev.to/vallemar/nativescript-vue-unit-testing-with-vitest-5e7b)
 - [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/home/the-best-species-of-live-christmas-trees-and-which-to-choose)
-- [Dev.to/JS] [JavaScriptmas 2023 - Week 2](https://dev.to/michaellarocca/javascriptmas-2023-week-2-3m6l)
-- [Dev.to/JS] [Northcoders Week 2: Shut up and take my money! 💷](https://dev.to/gruitt/northcoders-week-2-shut-up-and-take-my-money-1jom)
 - [Lifehacker] [How to Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
 - [Lifehacker] [The Best Tech Stocking Stuffers for Under $150](https://lifehacker.com/tech/best-tech-stocking-stuffer-deals)
 - [Lifehacker] [12 of the Best Gifts for Foodies &lpar;Whether or Not They Like to Cook&rpar;](https://lifehacker.com/food-drink/best-gifts-for-foodies)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)
 - [Lifehacker] [A Rocking Toilet Could Be a Sign of a Much Bigger Problem](https://lifehacker.com/home/how-to-fix-unstable-rocking-toilet)
 - [Lifehacker] [Why Your Refrigerator Is Leaking Water &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-fix-a-leaky-refrigerator)
-- [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)
-- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Developing Flavor](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-four)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 9, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-9-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Over-inflating Your Tires in the Winter Isn’t a Hack](https://lifehacker.com/travel/dont-over-inflate-tires)<!-- TECH-POSTS:END -->
 
 ---
 
