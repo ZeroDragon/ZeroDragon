@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Release 0.4 Progress](https://dev.to/bhmistry/release-04-progress-4b96)
+- [Dev.to/JS] [next-export-i18n v2.3.5: localStorage and an internal link component](https://dev.to/martinkr/next-export-i18n-v235-localstorage-and-an-internal-link-component-2lm5)
+- [Dev.to/JS] [The 2000 line framework challenge: Making a gradient picker tool in 13 lines of pure HTML code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/the-2000-line-framework-challenge-making-a-gradient-picker-tool-in-13-lines-of-pure-html-code-1-extra-file-no-node-or-js-2jb1)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/bolax59459/buy-google-5-star-reviews-4p3b)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/bolax59459/buy-verified-cash-app-account-56f3)
 - [Dev.to/JS] [AI Painting Quickstart - StableDiffusionWebui](https://dev.to/dlimeng/ai-painting-quickstart-stablediffusionwebui-4l68)
-- [Dev.to/JS] [Pixel-EM Converter With JavaScript Project in 2024](https://dev.to/codingcss/pixel-em-converter-with-javascript-project-in-2024-3h19)
 - [Dev.to/JS] [Introducing Sage CLI: A Magic Tool for Robo.js](https://dev.to/waveplay/introducing-sage-cli-a-magic-tool-for-robojs-34ph)
+- [Dev.to/JS] [Pixel-EM Converter With JavaScript Project in 2024](https://dev.to/codingcss/pixel-em-converter-with-javascript-project-in-2024-3h19)
 - [Dev.to/JS] [Vue js 3 form validation using Simple Vue Validator || izitoast || Vue js 3 tutorial Part - 2](https://dev.to/minit61/vue-js-3-form-validation-using-simple-vue-validator-izitoast-vue-js-3-tutorial-part-2-3fp4)
 - [Dev.to/JS] [Use forwardRef with a higher-order component](https://dev.to/phuocng/use-forwardref-with-a-higher-order-component-159o)
 - [Dev.to/JS] [Pass a ref to a child component using forwardRef&lpar;&rpar;](https://dev.to/phuocng/pass-a-ref-to-a-child-component-using-forwardref-404b)
+- [Lifehacker] [Ride1Up&#39;s Cafe Cruiser E-bike Is Actually Too Powerful](https://lifehacker.com/tech/ride1ups-cafe-cruiser-review)
 - [Dev.to/JS] [Overview of ReactJs](https://dev.to/nishchaldev/overview-of-reactjs-3cik)
-- [Dev.to/JS] [TinyMCE 6.8: Advanced Templates {{clipboard}} tag, improved bundling support and more](https://dev.to/tinymce/tinymce-68-advanced-templates-clipboard-tag-improved-bundling-support-and-more-d1j)
 - [Lifehacker] [You Can Get ‘Deathloop’ for Free for the Next Month With Amazon Prime](https://lifehacker.com/entertainment/deathloop-pc-free-with-amazon-prime)
-- [Dev.to/JS] [JavaScript Fullstack WEB App: Nextjs &amp; Docker](https://dev.to/francescoxx/javascript-fullstack-web-app-nextjs-docker-4d44)
-- [Dev.to/JS] [How we implemented a straightforward post history system at Glynk](https://dev.to/jaleelnazir/how-we-implemented-a-straightforward-post-history-system-at-glynk-1h3m)
 - [Lifehacker] [Your Next Great Potato Dish Is Fennel](https://lifehacker.com/food-drink/best-fennel-gratin-recipe)
 - [Lifehacker] [25 Delicious Gift Ideas for New Cooks](https://lifehacker.com/food-drink/25-gift-ideas-for-new-cooks)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-12-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Parents Can Learn Mental Health First Aid &lpar;and Why You Should&rpar;](https://lifehacker.com/family/mental-health-first-aid-for-kids)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-11-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 11, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-11-2023)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/todays-nyt-connections-hints-and-answer-for-sunday-december-10-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 10, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-10-2023)<!-- TECH-POSTS:END -->
 
 ---
 
