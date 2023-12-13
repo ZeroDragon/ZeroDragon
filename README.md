@@ -26,10 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use cURL in Javascript &lpar;and its alternative&rpar;](https://dev.to/serpapi/how-to-use-curl-in-javascript-and-its-alternative-9j)
 - [Dev.to/JS] [Will JS takeover the community ?](https://dev.to/harshtankio/will-js-takeover-the-community--1gcl)
 - [Dev.to/JS] [81 nextjs starters, don&#39;t reinvent the wheel](https://dev.to/johnrushx/81-nextjs-starters-so-that-u-dont-reinvent-the-wheel-35cl)
 - [Dev.to/JS] [Tabs Component Pure JavaScript - HTML CSS JS](https://dev.to/voidsplit/tabs-component-pure-javascript-html-css-js-3d0e)
-- [Dev.to/JS] [🤩 11 AMAZING Bookmarklets for Web Devs 🔖 🚀 &lpar;What Are They, Anyway? 🤔&rpar;](https://dev.to/best_codes/11-amazing-bookmarklets-for-web-devs-what-are-they-anyways--3pk6)
+- [Lifehacker] [The Best and Worst Times to Travel Over the Holidays, According to AAA](https://lifehacker.com/travel/holidays-travel-times-aaa)
+- [Dev.to/JS] [🤩 11 AMAZING Bookmarklets for Web Devs &lpar;What Are They, Anyway? 🤔&rpar;](https://dev.to/best_codes/11-amazing-bookmarklets-for-web-devs-what-are-they-anyways--3pk6)
 - [Dev.to/JS] [My Experience With OneEntryCMS - A Headless CMS](https://dev.to/ezinne_anne/my-experience-with-oneentrycms-a-headless-cms-23hd)
 - [Dev.to/JS] [Conclusion: Navigating Development Challenges](https://dev.to/vishnudas2003/conclusion-navigating-development-challenges-4nk)
 - [Lifehacker] [How to Reset Your Google Home Mini Before You Sell It](https://lifehacker.com/tech/how-to-factory-reset-google-home-mini)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are All the New Features in watchOS 10.2](https://lifehacker.com/tech/new-features-apple-watch-watchos-102)
 - [Dev.to/JS] [Refactor a React Component from 165 Lines to 30 Lines](https://dev.to/mohammadfaisal/refactor-a-react-component-from-165-lines-to-30-lines-1392)
 - [Dev.to/JS] [How to get good at competitive programming](https://dev.to/codewithshahan/how-to-get-good-at-competitive-programming-1dm7)
-- [Dev.to/JS] [Pains and solutions in localization for the web](https://dev.to/this-is-learning/pains-and-solutions-in-localization-for-the-web-3mdf)
 - [Lifehacker] [The Best Gifts for Kids Who Love to Read &lpar;That Aren’t Books&rpar;](https://lifehacker.com/family/best-gifts-for-young-readers)
 - [Lifehacker] [Here&#39;s When Fixing Your Dryer Makes More Sense](https://lifehacker.com/home/when-to-fix-a-dryer-and-when-to-replace)
 - [Lifehacker] [You Can Finally Disable Read Receipts on Facebook Messenger](https://lifehacker.com/tech/you-can-finally-disable-read-receipts-facebook-messenger)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get SimpliSafe&#39;s Home Security System for 50% Off Right Now](https://lifehacker.com/tech/simplisafe-home-security-system-50-percent-off-deal50-off)
 - [Lifehacker] [Get the Right Fire Extinguisher by Knowing Its Class](https://lifehacker.com/home/types-of-fire-extinguishers)
 - [Lifehacker] [Nine Things You Need to Tell Your Home Insurer About](https://lifehacker.com/money/home-renovations-that-lower-or-raise-insurance-rates)
-- [Lifehacker] [These Simple Parmesan Tomato Puffs Are the Perfect Party Snack](https://lifehacker.com/food-drink/parmesan-tomato-puffs-party-appetizer-recipe)
-- [Lifehacker] [These Are the Most Popular iPhone Apps of 2023](https://lifehacker.com/tech/the-most-popular-iphone-apps)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Simple Parmesan Tomato Puffs Are the Perfect Party Snack](https://lifehacker.com/food-drink/parmesan-tomato-puffs-party-appetizer-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
