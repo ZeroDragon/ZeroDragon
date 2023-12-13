@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#JavaScriptmas 2023 Day 7 to 12](https://dev.to/aishwaryamali24/javascriptmas-2023-day-7-to-12-33kg)
+- [Dev.to/JS] [[Distributed SNS] A story about the making Shinjiro Koizumi bot on Nostr.](https://dev.to/hikaelis/distributed-sns-a-story-about-the-making-shinjiro-koizumi-bot-on-nostr-3ih8)
+- [Dev.to/JS] [New Meteor.js 2.14, updates to CLI and Tracker changes](https://dev.to/meteor/new-meteorjs-214-updates-to-cli-and-tracker-changes-3k49)
+- [Dev.to/JS] [Random Bhagavad Gita Quotes API](https://dev.to/piyushkdas0611/random-bhagavad-gita-quotes-api-490e)
+- [Dev.to/JS] [How do businesses secure fairness, transparency, and privacy in NLP for customer interactions?](https://dev.to/yagnapandya9/how-do-businesses-secure-fairness-transparency-and-privacy-in-nlp-for-customer-interactions-4kcd)
 - [Dev.to/JS] [Oke](https://dev.to/sippdonks/oke-14md)
 - [Dev.to/JS] [Map&lpar;&rpar; in Java Script](https://dev.to/mbabu/how-to-use-map-in-java-script-52b)
 - [Dev.to/JS] [Enhancing Productivity in Visual Studio Code: A Practical Guide](https://dev.to/hafeez1042/enhancing-productivity-in-visual-studio-code-a-practical-guide-b2h)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Welcome to modern web](https://dev.to/artegoser/welcome-to-modern-web-113n)
 - [Dev.to/JS] [Pure Harmony CBD Gummies: Commonly Used For Joint Pain And Arthritis.](https://dev.to/pureharmonycbdgummies/pure-harmony-cbd-gummies-commonly-used-for-joint-pain-and-arthritis-n5f)
 - [Dev.to/JS] [Soroban Snippets: Basic of Building Dapp Part 2](https://dev.to/z5208980/soroban-snippets-basic-of-building-dapp-part-2-2jpl)
-- [Dev.to/JS] [The Strictest TypeScript Config](https://dev.to/what1s1ove/the-strictest-typescript-config-mad)
-- [Dev.to/JS] [Data Flow in React](https://dev.to/mursalfk/data-flow-in-react-2cd9)
-- [Dev.to/JS] [Unraveling the Prowess of Polyester Filter Cloth in Industrial Filtration](https://dev.to/rabbiweb/unraveling-the-prowess-of-polyester-filter-cloth-in-industrial-filtration-3d72)
-- [Dev.to/JS] [Why Typescript Vs JavaScript discussion is still hot?](https://dev.to/desphilboy/why-typescript-vs-javascript-discussion-is-still-hot-201l)
-- [Dev.to/JS] [Day 9 - 30 Days learn Web Dev](https://dev.to/johnc/day-9-30-days-learn-web-dev-kfm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
 - [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)
