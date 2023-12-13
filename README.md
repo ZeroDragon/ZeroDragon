@@ -26,9 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Planning for a Contribution](https://dev.to/amnish04/planning-for-a-contribution-55i9)
+- [Dev.to/JS] [How Transitioning from JavaScript to TypeScript Revolutionized My Frontend Development](https://dev.to/tuliooov/how-transitioning-from-javascript-to-typescript-revolutionized-my-frontend-development-5c80)
+- [Lifehacker] [These Cute Christmas Candies Are Easy Enough to Make at Home](https://lifehacker.com/food-drink/best-nonpareil-recipe)
+- [Lifehacker] [You Can Make Collaborative Apple Music Playlists &lpar;Again&rpar;](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
 - [Dev.to/JS] [Accessibility Audit Prioritization Levels](https://dev.to/thawkin3/accessibility-audit-prioritization-levels-39fd)
 - [Dev.to/JS] [Working with resource group and a storage account in Azure](https://dev.to/ulomaekpe/working-with-resource-group-and-a-storage-account-in-azure-3f15)
 - [Dev.to/JS] [Programar sin Título Universitario](https://dev.to/javascriptchile/programar-sin-titulo-universitario-2c42)
+- [Lifehacker] [Even Snapchat Has an AI Image Generator Now](https://lifehacker.com/tech/snapchat-ai-image-generator)
+- [Lifehacker] [The Best Gifts for Neat Freaks, According to TikTok](https://lifehacker.com/home/tiktok-approved-gifts-for-neat-freaks)
 - [Dev.to/JS] [Building Progressive Web Apps in Angular &lpar;using pwafire&rpar;](https://dev.to/chrisachinga/building-progressive-web-apps-in-angular-using-pwafire-5ejk)
 - [Dev.to/JS] [backend generateStudent&lpar;&rpar; id automatically](https://dev.to/karakib2k18/backend-generatestudent-id-automatically-1ldo)
 - [Lifehacker] [These Robot Vacuums Are Over 50% Off for Christmas](https://lifehacker.com/home/robot-vacuums-gift-guide)
@@ -42,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🔥 Top 9 Tech Trends 2024](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
 - [Lifehacker] [These Simple Parmesan Tomato Puffs Are the Perfect Party Snack](https://lifehacker.com/food-drink/parmesan-tomato-puffs-party-appetizer-recipe)
 - [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-coc)
-- [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-25h7)
-- [Dev.to/JS] [✨Tabs accesibles✨](https://dev.to/micaavigliano/tabs-accesibles-29f8)
 - [Lifehacker] [These Are the Most Popular iPhone Apps of 2023](https://lifehacker.com/tech/the-most-popular-iphone-apps)
 - [Lifehacker] [How to Enable Immersive Spatial Audio on Windows 11](https://lifehacker.com/tech/enable-spatial-audio-windows-11)
 - [Lifehacker] [All the Days You Can Visit National Parks for Free in 2024](https://lifehacker.com/travel/national-park-trips-free-days)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recycle, Repurpose, or Dispose of Broken Christmas Lights](https://lifehacker.com/home/how-to-recycle-christmas-lights)
 - [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/home/the-best-species-of-live-christmas-trees-and-which-to-choose)
 - [Lifehacker] [How to Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
-- [Lifehacker] [The Best Tech Stocking Stuffers for Under $150](https://lifehacker.com/tech/best-tech-stocking-stuffer-deals)
-- [Lifehacker] [12 of the Best Gifts for Foodies &lpar;Whether or Not They Like to Cook&rpar;](https://lifehacker.com/food-drink/best-gifts-for-foodies)
-- [Lifehacker] [Apple Really Doesn&#39;t Like Beeper Mini](https://lifehacker.com/tech/beeper-mini-imessage-on-android-app)
-- [Lifehacker] [All the Best Features Now Live in iOS 17.2](https://lifehacker.com/new-features-in-ios-17-2-1850964155)
-- [Lifehacker] [17 Bloody Good Christmas Horror Movies You Can Stream Right Now](https://lifehacker.com/entertainment/best-christmas-horror-movies-streaming)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Tech Stocking Stuffers for Under $150](https://lifehacker.com/tech/best-tech-stocking-stuffer-deals)<!-- TECH-POSTS:END -->
 
 ---
 
