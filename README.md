@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Soroban Snippets: Basic of Building Dapp Part 2](https://dev.to/z5208980/soroban-snippets-basic-of-building-dapp-part-2-2jpl)
+- [Dev.to/JS] [The Strictest TypeScript Config](https://dev.to/what1s1ove/the-strictest-typescript-config-mad)
+- [Dev.to/JS] [Data Flow in React](https://dev.to/mursalfk/data-flow-in-react-2cd9)
+- [Dev.to/JS] [Unraveling the Prowess of Polyester Filter Cloth in Industrial Filtration](https://dev.to/rabbiweb/unraveling-the-prowess-of-polyester-filter-cloth-in-industrial-filtration-3d72)
+- [Dev.to/JS] [Why Typescript Vs JavaScript discussion is still hot?](https://dev.to/desphilboy/why-typescript-vs-javascript-discussion-is-still-hot-201l)
 - [Dev.to/JS] [Day 9 - 30 Days learn Web Dev](https://dev.to/johnc/day-9-30-days-learn-web-dev-kfm)
 - [Dev.to/JS] [Green Vibe CBD Gummies – *Shocking* &lpar; Scam Or Legit &rpar; Is It Worth For You?](https://dev.to/rimjooddroob/green-vibe-cbd-gummies-shocking-scam-or-legit-is-it-worth-for-you-f5n)
 - [Dev.to/JS] [Copy HTML content with navigator clipboard](https://dev.to/carmemias/copy-html-content-with-navigator-clipboard-25)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Event-Driven Programming in Node.js: Starter Pack](https://dev.to/ymir/event-driven-programming-in-nodejs-starter-pack-5hio)
 - [Dev.to/JS] [What Are Layouts In Android?](https://dev.to/tanmaykumardeo/what-are-layouts-in-android-3egl)
 - [Dev.to/JS] [Unlocking the Power of ChatGPT: A Guide to Maximizing Conversational Potential](https://dev.to/omnathdubeyofficial/unlocking-the-power-of-chatgpt-a-guide-to-maximizing-conversational-potential-4a82)
-- [Dev.to/JS] [Issues in mocking dispatching event in Jest](https://dev.to/palanisamyemis/issues-in-mocking-dispatching-event-in-jest-8pj)
-- [Dev.to/JS] [ChatGPT: Bridging the Gap Between Human Communication and Artificial Intelligence](https://dev.to/omnathdubeyofficial/chatgpt-bridging-the-gap-between-human-communication-and-artificial-intelligence-1d3b)
-- [Dev.to/JS] [The Evolution of Chatbots: A Deep Dive into ChatGPT&#39;s Impact on Conversational AI](https://dev.to/omnathdubeyofficial/the-evolution-of-chatbots-a-deep-dive-into-chatgpts-impact-on-conversational-ai-38c5)
-- [Dev.to/JS] [Beyond Words: How ChatGPT Redefines Human-Machine Interaction](https://dev.to/omnathdubeyofficial/beyond-words-how-chatgpt-redefines-human-machine-interaction-58j8)
-- [Dev.to/JS] [ChatGPT Unveiled: Exploring the Marvels of OpenAI&#39;s Language Model Revolution](https://dev.to/omnathdubeyofficial/chatgpt-unveiled-exploring-the-marvels-of-openais-language-model-revolution-3m6p)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
 - [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)
