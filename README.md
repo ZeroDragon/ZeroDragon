@@ -29,6 +29,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [null !== undefined](https://dev.to/mailtodanish/null-undefined-196l)
 - [Dev.to/JS] [Elegância Funcional: Redescobrindo JavaScript Através da Programação Funcional](https://dev.to/mattheuzz/elegancia-funcional-redescobrindo-javascript-atraves-da-programacao-funcional-5bm5)
 - [Dev.to/JS] [Strategic Planning for an Open Source Contribution](https://dev.to/amnish04/planning-for-a-contribution-55i9)
+- [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)
 - [Dev.to/JS] [How Transitioning from JavaScript to TypeScript Revolutionized My Frontend Development](https://dev.to/tuliooov/how-transitioning-from-javascript-to-typescript-revolutionized-my-frontend-development-5c80)
 - [Lifehacker] [These Cute Christmas Candies Are Easy Enough to Make at Home](https://lifehacker.com/food-drink/best-nonpareil-recipe)
 - [Lifehacker] [You Can Make Collaborative Apple Music Playlists &lpar;Again&rpar;](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Lifehacker] [How to Recycle, Repurpose, or Dispose of Broken Christmas Lights](https://lifehacker.com/home/how-to-recycle-christmas-lights)
 - [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/home/the-best-species-of-live-christmas-trees-and-which-to-choose)
-- [Lifehacker] [How to Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)
-- [Lifehacker] [The Best Tech Stocking Stuffers for Under $150](https://lifehacker.com/tech/best-tech-stocking-stuffer-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Host the Best Freakin&#39; Holiday Cookie Exchange Ever](https://lifehacker.com/host-the-best-freakin-holiday-cookie-exchange-ever-1849883109)<!-- TECH-POSTS:END -->
 
 ---
 
