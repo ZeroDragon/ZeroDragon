@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Native Config Setup/Usage for multiple environment setup](https://dev.to/ajmal_hasan/react-native-config-usage-for-multiple-environment-setup-549h)
+- [Dev.to/JS] [StyleX - The new Game changer?](https://dev.to/tani1964/stylex-the-new-game-changer-54mn)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/yovoraj835/buy-google-5-star-reviews-2eml)
+- [Dev.to/JS] [Debug a website &lpar;local or remote hosted&rpar;on an android mobile device](https://dev.to/mkrishnancodes/debug-a-website-local-or-remote-hostedon-an-android-mobile-device-3n4l)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/yovoraj835/buy-verified-cash-app-account-pjg)
+- [Dev.to/JS] [Client-side nav guard antipattern in Next.js app router](https://dev.to/whoisarpit/client-side-nav-guard-antipattern-in-nextjs-app-router-12c5)
 - [Dev.to/JS] [Progress with Cloudinary](https://dev.to/amnish04/progress-with-cloudinary-5pp)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
 - [Dev.to/JS] [null !== undefined](https://dev.to/mailtodanish/null-undefined-196l)
 - [Dev.to/JS] [Elegância Funcional: Redescobrindo JavaScript Através da Programação Funcional](https://dev.to/mattheuzz/elegancia-funcional-redescobrindo-javascript-atraves-da-programacao-funcional-5bm5)
@@ -36,16 +43,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Cute Christmas Candies Are Easy Enough to Make at Home](https://lifehacker.com/food-drink/best-nonpareil-recipe)
 - [Lifehacker] [You Can Make Collaborative Apple Music Playlists &lpar;Again&rpar;](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
 - [Dev.to/JS] [Accessibility Audit Prioritization Levels](https://dev.to/thawkin3/accessibility-audit-prioritization-levels-39fd)
-- [Dev.to/JS] [Working with resource group and a storage account in Azure](https://dev.to/ulomaekpe/working-with-resource-group-and-a-storage-account-in-azure-3f15)
-- [Dev.to/JS] [Programar sin Título Universitario](https://dev.to/javascriptchile/programar-sin-titulo-universitario-2c42)
 - [Lifehacker] [Even Snapchat Has an AI Image Generator Now](https://lifehacker.com/tech/snapchat-ai-image-generator)
 - [Lifehacker] [The Best Gifts for Neat Freaks, According to TikTok](https://lifehacker.com/home/tiktok-approved-gifts-for-neat-freaks)
-- [Dev.to/JS] [Building Progressive Web Apps in Angular &lpar;using pwafire&rpar;](https://dev.to/chrisachinga/building-progressive-web-apps-in-angular-using-pwafire-5ejk)
-- [Dev.to/JS] [backend generateStudent&lpar;&rpar; id automatically](https://dev.to/karakib2k18/backend-generatestudent-id-automatically-1ldo)
 - [Lifehacker] [These Robot Vacuums Are Over 50% Off for Christmas](https://lifehacker.com/home/robot-vacuums-gift-guide)
-- [Dev.to/JS] [Open Source Document Signing: Revolutionizing Digital Authentication](https://dev.to/opensign/open-source-document-signing-revolutionizing-digital-authentication-33m0)
 - [Lifehacker] [The Biggest Scams to Avoid This Holiday Season](https://lifehacker.com/tech/biggest-online-scams-holiday-season)
-- [Dev.to/JS] [What does the &quot;yield&quot; keyword do in Python and Javascript?](https://dev.to/danyson/what-does-the-yield-keyword-do-in-python-and-javascript-p7f)
 - [Lifehacker] [You Can Get SimpliSafe&#39;s Home Security System for 50% Off Right Now](https://lifehacker.com/tech/simplisafe-home-security-system-50-percent-off-deal50-off)
 - [Lifehacker] [Get the Right Fire Extinguisher by Knowing Its Class](https://lifehacker.com/home/types-of-fire-extinguishers)
 - [Lifehacker] [Nine Things You Need to Tell Your Home Insurer About](https://lifehacker.com/money/home-renovations-that-lower-or-raise-insurance-rates)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-12-2023)
 - [Lifehacker] [Why You Shouldn’t Force Kids Into Sports &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/family/why-you-shouldnt-force-kids-into-sports)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
-- [Lifehacker] [How to Recycle, Repurpose, or Dispose of Broken Christmas Lights](https://lifehacker.com/home/how-to-recycle-christmas-lights)
-- [Lifehacker] [15 of the Best Species of Live Christmas Trees &lpar;and Which to Choose&rpar;](https://lifehacker.com/home/the-best-species-of-live-christmas-trees-and-which-to-choose)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Recycle, Repurpose, or Dispose of Broken Christmas Lights](https://lifehacker.com/home/how-to-recycle-christmas-lights)<!-- TECH-POSTS:END -->
 
 ---
 
