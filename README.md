@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 9 - 30 Days learn Web Dev](https://dev.to/johnc/day-9-30-days-learn-web-dev-kfm)
+- [Dev.to/JS] [Green Vibe CBD Gummies – *Shocking* &lpar; Scam Or Legit &rpar; Is It Worth For You?](https://dev.to/rimjooddroob/green-vibe-cbd-gummies-shocking-scam-or-legit-is-it-worth-for-you-f5n)
+- [Dev.to/JS] [Copy HTML content with navigator clipboard](https://dev.to/carmemias/copy-html-content-with-navigator-clipboard-25)
+- [Dev.to/JS] [Nodejs with NGINX](https://dev.to/manthanank/nodejs-with-nginx-35d1)
 - [Dev.to/JS] [Event-Driven Programming in Node.js: Starter Pack](https://dev.to/ymir/event-driven-programming-in-nodejs-starter-pack-5hio)
 - [Dev.to/JS] [What Are Layouts In Android?](https://dev.to/tanmaykumardeo/what-are-layouts-in-android-3egl)
 - [Dev.to/JS] [Unlocking the Power of ChatGPT: A Guide to Maximizing Conversational Potential](https://dev.to/omnathdubeyofficial/unlocking-the-power-of-chatgpt-a-guide-to-maximizing-conversational-potential-4a82)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Evolution of Chatbots: A Deep Dive into ChatGPT&#39;s Impact on Conversational AI](https://dev.to/omnathdubeyofficial/the-evolution-of-chatbots-a-deep-dive-into-chatgpts-impact-on-conversational-ai-38c5)
 - [Dev.to/JS] [Beyond Words: How ChatGPT Redefines Human-Machine Interaction](https://dev.to/omnathdubeyofficial/beyond-words-how-chatgpt-redefines-human-machine-interaction-58j8)
 - [Dev.to/JS] [ChatGPT Unveiled: Exploring the Marvels of OpenAI&#39;s Language Model Revolution](https://dev.to/omnathdubeyofficial/chatgpt-unveiled-exploring-the-marvels-of-openais-language-model-revolution-3m6p)
-- [Dev.to/JS] [Crafting Easy-to-Use Components with Vue.js v-slot Magic](https://dev.to/kucherol/crafting-easy-to-use-components-with-vuejs-v-slot-magic-5676)
-- [Dev.to/JS] [React Native&lpar;v0.73&rpar; Firebase Cloud Messaging / Analytics / Crashlytics Latest](https://dev.to/ajmal_hasan/react-nativev073-firebase-cloud-messaginganalyticscrashlytics-latest-4f9j)
-- [Dev.to/JS] [Top 5 Featured DEV Tag&lpar;#javascript&rpar; Posts from the Past Week](https://dev.to/c4r4x35/top-5-featured-dev-tagjavascript-posts-from-the-past-week-5a51)
-- [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/alomt0853/buy-verified-binance-accounts-49pk)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
 - [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)
