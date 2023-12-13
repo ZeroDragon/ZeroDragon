@@ -26,20 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Will JS takeover the community ?](https://dev.to/harshtankio/will-js-takeover-the-community--1gcl)
+- [Dev.to/JS] [81 nextjs starters, don&#39;t reinvent the wheel](https://dev.to/johnrushx/81-nextjs-starters-so-that-u-dont-reinvent-the-wheel-35cl)
+- [Dev.to/JS] [Tabs Component Pure JavaScript - HTML CSS JS](https://dev.to/voidsplit/tabs-component-pure-javascript-html-css-js-3d0e)
 - [Dev.to/JS] [🤩 11 AMAZING Bookmarklets for Web Devs 🔖 🚀 &lpar;What Are They, Anyway? 🤔&rpar;](https://dev.to/best_codes/11-amazing-bookmarklets-for-web-devs-what-are-they-anyways--3pk6)
 - [Dev.to/JS] [My Experience With OneEntryCMS - A Headless CMS](https://dev.to/ezinne_anne/my-experience-with-oneentrycms-a-headless-cms-23hd)
 - [Dev.to/JS] [Conclusion: Navigating Development Challenges](https://dev.to/vishnudas2003/conclusion-navigating-development-challenges-4nk)
+- [Lifehacker] [How to Reset Your Google Home Mini Before You Sell It](https://lifehacker.com/tech/how-to-factory-reset-google-home-mini)
+- [Dev.to/JS] [Own API with NodeJS and Express](https://dev.to/disane/own-api-with-nodejs-and-express-5d44)
 - [Dev.to/JS] [Progress: Implementation and Challenges](https://dev.to/vishnudas2003/progress-implementation-and-challenges-1o26)
+- [Lifehacker] [When You Have to Use an Insurance Check for Repairs &lpar;and When You Can Keep It&rpar;](https://lifehacker.com/money/when-you-can-cash-an-insurance-check)
 - [Dev.to/JS] [Planning: Creating NavBar #2](https://dev.to/vishnudas2003/planning-creating-navbar-2-330e)
+- [Lifehacker] [These Are All the New Features in watchOS 10.2](https://lifehacker.com/tech/new-features-apple-watch-watchos-102)
 - [Dev.to/JS] [Refactor a React Component from 165 Lines to 30 Lines](https://dev.to/mohammadfaisal/refactor-a-react-component-from-165-lines-to-30-lines-1392)
 - [Dev.to/JS] [How to get good at competitive programming](https://dev.to/codewithshahan/how-to-get-good-at-competitive-programming-1dm7)
 - [Dev.to/JS] [Pains and solutions in localization for the web](https://dev.to/this-is-learning/pains-and-solutions-in-localization-for-the-web-3mdf)
-- [Dev.to/JS] [Clean Code Is Not Quick Code!💻](https://dev.to/parsafarahani84/clean-code-is-not-quick-code-5alm)
 - [Lifehacker] [The Best Gifts for Kids Who Love to Read &lpar;That Aren’t Books&rpar;](https://lifehacker.com/family/best-gifts-for-young-readers)
-- [Dev.to/JS] [🤫 Secret JavaScript Methods They Don&#39;t Want You To See &lpar;part 2&rpar;](https://dev.to/magnificode/secret-javascript-methods-they-dont-want-you-to-see-part-2-4kh9)
-- [Dev.to/JS] [Enhancing Web Design: Seamless Integration of File Uploads for Interactive Websites](https://dev.to/ideradevtools/enhancing-web-design-seamless-integration-of-file-uploads-for-interactive-websites-5dgg)
 - [Lifehacker] [Here&#39;s When Fixing Your Dryer Makes More Sense](https://lifehacker.com/home/when-to-fix-a-dryer-and-when-to-replace)
-- [Dev.to/JS] [When you should embrace MFEs.](https://dev.to/this-is-angular/when-you-should-embrace-mfes-2bng)
 - [Lifehacker] [You Can Finally Disable Read Receipts on Facebook Messenger](https://lifehacker.com/tech/you-can-finally-disable-read-receipts-facebook-messenger)
 - [Lifehacker] [The Best E-bikes for Every Type of Rider](https://lifehacker.com/tech/the-best-e-bikes)
 - [Lifehacker] [How to Make Your Solar Panels Last Longer Than 25 Years](https://lifehacker.com/tech/make-your-solar-panels-last-longer)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get the Right Fire Extinguisher by Knowing Its Class](https://lifehacker.com/home/types-of-fire-extinguishers)
 - [Lifehacker] [Nine Things You Need to Tell Your Home Insurer About](https://lifehacker.com/money/home-renovations-that-lower-or-raise-insurance-rates)
 - [Lifehacker] [These Simple Parmesan Tomato Puffs Are the Perfect Party Snack](https://lifehacker.com/food-drink/parmesan-tomato-puffs-party-appetizer-recipe)
-- [Lifehacker] [These Are the Most Popular iPhone Apps of 2023](https://lifehacker.com/tech/the-most-popular-iphone-apps)
-- [Lifehacker] [How to Enable Immersive Spatial Audio on Windows 11](https://lifehacker.com/tech/enable-spatial-audio-windows-11)
-- [Lifehacker] [All the Days You Can Visit National Parks for Free in 2024](https://lifehacker.com/travel/national-park-trips-free-days)
-- [Lifehacker] [You Can Now Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Most Popular iPhone Apps of 2023](https://lifehacker.com/tech/the-most-popular-iphone-apps)<!-- TECH-POSTS:END -->
 
 ---
 
