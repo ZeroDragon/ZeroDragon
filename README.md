@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SignalDB and Maverick Signals: The Perfect Duo for Reactivity in React](https://dev.to/maxnowack/signaldb-and-maverick-signals-the-perfect-duo-for-reactivity-in-react-1p5a)
+- [Dev.to/JS] [Welcome to modern web](https://dev.to/artegoser/welcome-to-modern-web-113n)
+- [Dev.to/JS] [Pure Harmony CBD Gummies: Commonly Used For Joint Pain And Arthritis.](https://dev.to/pureharmonycbdgummies/pure-harmony-cbd-gummies-commonly-used-for-joint-pain-and-arthritis-n5f)
 - [Dev.to/JS] [Soroban Snippets: Basic of Building Dapp Part 2](https://dev.to/z5208980/soroban-snippets-basic-of-building-dapp-part-2-2jpl)
 - [Dev.to/JS] [The Strictest TypeScript Config](https://dev.to/what1s1ove/the-strictest-typescript-config-mad)
 - [Dev.to/JS] [Data Flow in React](https://dev.to/mursalfk/data-flow-in-react-2cd9)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Green Vibe CBD Gummies – *Shocking* &lpar; Scam Or Legit &rpar; Is It Worth For You?](https://dev.to/rimjooddroob/green-vibe-cbd-gummies-shocking-scam-or-legit-is-it-worth-for-you-f5n)
 - [Dev.to/JS] [Copy HTML content with navigator clipboard](https://dev.to/carmemias/copy-html-content-with-navigator-clipboard-25)
 - [Dev.to/JS] [Nodejs with NGINX](https://dev.to/manthanank/nodejs-with-nginx-35d1)
-- [Dev.to/JS] [Event-Driven Programming in Node.js: Starter Pack](https://dev.to/ymir/event-driven-programming-in-nodejs-starter-pack-5hio)
-- [Dev.to/JS] [What Are Layouts In Android?](https://dev.to/tanmaykumardeo/what-are-layouts-in-android-3egl)
-- [Dev.to/JS] [Unlocking the Power of ChatGPT: A Guide to Maximizing Conversational Potential](https://dev.to/omnathdubeyofficial/unlocking-the-power-of-chatgpt-a-guide-to-maximizing-conversational-potential-4a82)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
 - [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)
