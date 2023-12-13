@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Featured DEV Tag&lpar;#javascript&rpar; Posts from the Past Week](https://dev.to/c4r4x35/top-5-featured-dev-tagjavascript-posts-from-the-past-week-5a51)
+- [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/alomt0853/buy-verified-binance-accounts-49pk)
 - [Dev.to/JS] [React Native Config Setup/Usage for multiple environment setup](https://dev.to/ajmal_hasan/react-native-config-usage-for-multiple-environment-setup-549h)
 - [Dev.to/JS] [StyleX - The new Game changer?](https://dev.to/tani1964/stylex-the-new-game-changer-54mn)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/yovoraj835/buy-google-5-star-reviews-2eml)
@@ -39,10 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Elegância Funcional: Redescobrindo JavaScript Através da Programação Funcional](https://dev.to/mattheuzz/elegancia-funcional-redescobrindo-javascript-atraves-da-programacao-funcional-5bm5)
 - [Dev.to/JS] [Planning for an Open Source Contribution](https://dev.to/amnish04/planning-for-a-contribution-55i9)
 - [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)
-- [Dev.to/JS] [How Transitioning from JavaScript to TypeScript Revolutionized My Frontend Development](https://dev.to/tuliooov/how-transitioning-from-javascript-to-typescript-revolutionized-my-frontend-development-5c80)
 - [Lifehacker] [These Cute Christmas Candies Are Easy Enough to Make at Home](https://lifehacker.com/food-drink/best-nonpareil-recipe)
 - [Lifehacker] [You Can Make Collaborative Apple Music Playlists &lpar;Again&rpar;](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
-- [Dev.to/JS] [Accessibility Audit Prioritization Levels](https://dev.to/thawkin3/accessibility-audit-prioritization-levels-39fd)
 - [Lifehacker] [Even Snapchat Has an AI Image Generator Now](https://lifehacker.com/tech/snapchat-ai-image-generator)
 - [Lifehacker] [The Best Gifts for Neat Freaks, According to TikTok](https://lifehacker.com/home/tiktok-approved-gifts-for-neat-freaks)
 - [Lifehacker] [These Robot Vacuums Are Over 50% Off for Christmas](https://lifehacker.com/home/robot-vacuums-gift-guide)
