@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Oke](https://dev.to/sippdonks/oke-14md)
+- [Dev.to/JS] [Map&lpar;&rpar; in Java Script](https://dev.to/mbabu/how-to-use-map-in-java-script-52b)
+- [Dev.to/JS] [Enhancing Productivity in Visual Studio Code: A Practical Guide](https://dev.to/hafeez1042/enhancing-productivity-in-visual-studio-code-a-practical-guide-b2h)
 - [Dev.to/JS] [SignalDB and Maverick Signals: The Perfect Duo for Reactivity in React](https://dev.to/maxnowack/signaldb-and-maverick-signals-the-perfect-duo-for-reactivity-in-react-1p5a)
 - [Dev.to/JS] [Welcome to modern web](https://dev.to/artegoser/welcome-to-modern-web-113n)
 - [Dev.to/JS] [Pure Harmony CBD Gummies: Commonly Used For Joint Pain And Arthritis.](https://dev.to/pureharmonycbdgummies/pure-harmony-cbd-gummies-commonly-used-for-joint-pain-and-arthritis-n5f)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unraveling the Prowess of Polyester Filter Cloth in Industrial Filtration](https://dev.to/rabbiweb/unraveling-the-prowess-of-polyester-filter-cloth-in-industrial-filtration-3d72)
 - [Dev.to/JS] [Why Typescript Vs JavaScript discussion is still hot?](https://dev.to/desphilboy/why-typescript-vs-javascript-discussion-is-still-hot-201l)
 - [Dev.to/JS] [Day 9 - 30 Days learn Web Dev](https://dev.to/johnc/day-9-30-days-learn-web-dev-kfm)
-- [Dev.to/JS] [Green Vibe CBD Gummies – *Shocking* &lpar; Scam Or Legit &rpar; Is It Worth For You?](https://dev.to/rimjooddroob/green-vibe-cbd-gummies-shocking-scam-or-legit-is-it-worth-for-you-f5n)
-- [Dev.to/JS] [Copy HTML content with navigator clipboard](https://dev.to/carmemias/copy-html-content-with-navigator-clipboard-25)
-- [Dev.to/JS] [Nodejs with NGINX](https://dev.to/manthanank/nodejs-with-nginx-35d1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
 - [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)
