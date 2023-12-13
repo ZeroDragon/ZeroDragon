@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Planning for a Contribution](https://dev.to/amnish04/planning-for-a-contribution-55i9)
+- [Dev.to/JS] [null !== undefined](https://dev.to/mailtodanish/null-undefined-196l)
+- [Dev.to/JS] [Elegância Funcional: Redescobrindo JavaScript Através da Programação Funcional](https://dev.to/mattheuzz/elegancia-funcional-redescobrindo-javascript-atraves-da-programacao-funcional-5bm5)
+- [Dev.to/JS] [Strategic Planning for an Open Source Contribution](https://dev.to/amnish04/planning-for-a-contribution-55i9)
 - [Dev.to/JS] [How Transitioning from JavaScript to TypeScript Revolutionized My Frontend Development](https://dev.to/tuliooov/how-transitioning-from-javascript-to-typescript-revolutionized-my-frontend-development-5c80)
 - [Lifehacker] [These Cute Christmas Candies Are Easy Enough to Make at Home](https://lifehacker.com/food-drink/best-nonpareil-recipe)
 - [Lifehacker] [You Can Make Collaborative Apple Music Playlists &lpar;Again&rpar;](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
@@ -45,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get the Right Fire Extinguisher by Knowing Its Class](https://lifehacker.com/home/types-of-fire-extinguishers)
 - [Lifehacker] [Nine Things You Need to Tell Your Home Insurer About](https://lifehacker.com/money/home-renovations-that-lower-or-raise-insurance-rates)
 - [Dev.to/JS] [How to Revalidate the generateStaticParams in Nextjs](https://dev.to/sushilmagare10/how-to-revalidate-the-generatestaticparams-2h88)
-- [Dev.to/JS] [🔥 Top 9 Tech Trends 2024](https://dev.to/codewithshahan/top-9-tech-trends-of-2024-key-insights-forecasts-3mk0)
 - [Lifehacker] [These Simple Parmesan Tomato Puffs Are the Perfect Party Snack](https://lifehacker.com/food-drink/parmesan-tomato-puffs-party-appetizer-recipe)
-- [Dev.to/JS] [The Spectacle of Style: Unveiling the Intricacies of Fashion Shows](https://dev.to/rakibul965/the-spectacle-of-style-unveiling-the-intricacies-of-fashion-shows-coc)
 - [Lifehacker] [These Are the Most Popular iPhone Apps of 2023](https://lifehacker.com/tech/the-most-popular-iphone-apps)
 - [Lifehacker] [How to Enable Immersive Spatial Audio on Windows 11](https://lifehacker.com/tech/enable-spatial-audio-windows-11)
 - [Lifehacker] [All the Days You Can Visit National Parks for Free in 2024](https://lifehacker.com/travel/national-park-trips-free-days)
