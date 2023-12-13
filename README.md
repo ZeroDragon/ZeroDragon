@@ -27,8 +27,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [How to use cURL in Javascript &lpar;and its alternative&rpar;](https://dev.to/serpapi/how-to-use-curl-in-javascript-and-its-alternative-9j)
+- [Lifehacker] [Never Use Homeopathic Eye Drops, FDA Warns](https://lifehacker.com/health/never-use-homeopathic-eyedrops-fda-warns)
+- [Lifehacker] [Why You Should Always Attend Your Home Inspection](https://lifehacker.com/money/why-you-should-attend-your-home-inspection)
 - [Dev.to/JS] [Will JS takeover the community ?](https://dev.to/harshtankio/will-js-takeover-the-community--1gcl)
 - [Dev.to/JS] [81 nextjs starters, don&#39;t reinvent the wheel](https://dev.to/johnrushx/81-nextjs-starters-so-that-u-dont-reinvent-the-wheel-35cl)
+- [Lifehacker] [This TikTok Garland Hack Really Works, Folks](https://lifehacker.com/home/diy-christmas-garland-idea)
 - [Dev.to/JS] [Tabs Component Pure JavaScript - HTML CSS JS](https://dev.to/voidsplit/tabs-component-pure-javascript-html-css-js-3d0e)
 - [Lifehacker] [The Best and Worst Times to Travel Over the Holidays, According to AAA](https://lifehacker.com/travel/holidays-travel-times-aaa)
 - [Dev.to/JS] [🤩 11 AMAZING Bookmarklets for Web Devs &lpar;What Are They, Anyway? 🤔&rpar;](https://dev.to/best_codes/11-amazing-bookmarklets-for-web-devs-what-are-they-anyways--3pk6)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Gifts for Neat Freaks, According to TikTok](https://lifehacker.com/home/tiktok-approved-gifts-for-neat-freaks)
 - [Lifehacker] [These Robot Vacuums Are Over 50% Off for Christmas](https://lifehacker.com/home/robot-vacuums-gift-guide)
 - [Lifehacker] [The Biggest Scams to Avoid This Holiday Season](https://lifehacker.com/tech/biggest-online-scams-holiday-season)
-- [Lifehacker] [You Can Get SimpliSafe&#39;s Home Security System for 50% Off Right Now](https://lifehacker.com/tech/simplisafe-home-security-system-50-percent-off-deal50-off)
-- [Lifehacker] [Get the Right Fire Extinguisher by Knowing Its Class](https://lifehacker.com/home/types-of-fire-extinguishers)
-- [Lifehacker] [Nine Things You Need to Tell Your Home Insurer About](https://lifehacker.com/money/home-renovations-that-lower-or-raise-insurance-rates)
-- [Lifehacker] [These Simple Parmesan Tomato Puffs Are the Perfect Party Snack](https://lifehacker.com/food-drink/parmesan-tomato-puffs-party-appetizer-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get SimpliSafe&#39;s Home Security System for 50% Off Right Now](https://lifehacker.com/tech/simplisafe-home-security-system-50-percent-off-deal50-off)<!-- TECH-POSTS:END -->
 
 ---
 
