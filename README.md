@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Planning: Creating NavBar #2](https://dev.to/vishnudas2003/planning-creating-navbar-2-330e)
+- [Dev.to/JS] [Refactor a React Component from 165 Lines to 30 Lines](https://dev.to/mohammadfaisal/refactor-a-react-component-from-165-lines-to-30-lines-1392)
+- [Dev.to/JS] [Pains and solutions in localization for the web](https://dev.to/this-is-learning/pains-and-solutions-in-localization-for-the-web-3mdf)
+- [Dev.to/JS] [Clean Code Is Not Quick Code!💻](https://dev.to/parsafarahani84/clean-code-is-not-quick-code-5alm)
+- [Lifehacker] [The Best Gifts for Kids Who Love to Read &lpar;That Aren’t Books&rpar;](https://lifehacker.com/family/best-gifts-for-young-readers)
 - [Dev.to/JS] [🤫 Secret JavaScript Methods They Don&#39;t Want You To See &lpar;part 2&rpar;](https://dev.to/magnificode/secret-javascript-methods-they-dont-want-you-to-see-part-2-4kh9)
 - [Dev.to/JS] [Enhancing Web Design: Seamless Integration of File Uploads for Interactive Websites](https://dev.to/ideradevtools/enhancing-web-design-seamless-integration-of-file-uploads-for-interactive-websites-5dgg)
 - [Lifehacker] [Here&#39;s When Fixing Your Dryer Makes More Sense](https://lifehacker.com/home/when-to-fix-a-dryer-and-when-to-replace)
@@ -39,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12 Senior Developer Traits Juniors Need To Master 🔥](https://dev.to/dragosnedelcu/12-senior-developer-traits-junior-developers-need-to-master-285m)
 - [Dev.to/JS] [When you want to use js/ts to obtain a large amount of network data, you may want to try x-crawl](https://dev.to/coderhxl/when-you-want-to-use-jsts-to-obtain-a-large-amount-of-network-data-you-may-want-to-try-x-crawl-4g8c)
 - [Lifehacker] [Change These Seven Settings on Your New Samsung Galaxy Z Fold 5](https://lifehacker.com/tech/samsung-galaxy-z-fold-5-settings)
-- [Dev.to/JS] [Advertising agency in pune](https://dev.to/brandnbusiness/advertising-agency-in-pune-b20)
-- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #8](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-8-26jk)
 - [Lifehacker] [This QLED Samsung Gaming Monitor Just Dropped to Its Lowest Price Yet](https://lifehacker.com/tech/samsung-qled-g9-gaming-monitor-sale)
-- [Dev.to/JS] [Frontend Developer Roadmap 2024](https://dev.to/bhylucom/frontend-developer-roadmap-2024-5hl0)
-- [Dev.to/JS] [Popular Style Guides for Web Development](https://dev.to/vlad_sha/popular-style-guides-for-web-development-1nip)
 - [Lifehacker] [Don&#39;t Put Essential Oils in Your Vacuum, No Matter What Instagram Tells You](https://lifehacker.com/home/dont-put-essential-oils-in-your-vacuum)
 - [Lifehacker] [19 Gifts Gardeners Will Really Dig](https://lifehacker.com/home/best-gifts-for-gardeners)
 - [Lifehacker] [The Meater 2 Wireless Thermometer Could Use a Signal Boost](https://lifehacker.com/tech/meater-2-wireless-thermometer-review)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Most Popular iPhone Apps of 2023](https://lifehacker.com/tech/the-most-popular-iphone-apps)
 - [Lifehacker] [How to Enable Immersive Spatial Audio on Windows 11](https://lifehacker.com/tech/enable-spatial-audio-windows-11)
 - [Lifehacker] [All the Days You Can Visit National Parks for Free in 2024](https://lifehacker.com/travel/national-park-trips-free-days)
-- [Lifehacker] [You Can Now Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
-- [Lifehacker] [Split-Screen Multitasking Just Got Easier to Use on Windows](https://lifehacker.com/tech/how-to-use-split-screen-multitasking-on-windows)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)<!-- TECH-POSTS:END -->
 
 ---
 
