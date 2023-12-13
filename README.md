@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nesting web components in vanilla JavaScript](https://dev.to/logrocket/nesting-web-components-in-vanilla-javascript-hhb)
+- [Lifehacker] [The Best E-bikes for Every Type of Rider](https://lifehacker.com/tech/the-best-e-bikes)
+- [Dev.to/JS] [Javascript features that makes coding sweet](https://dev.to/masekere/javascript-features-that-makes-coding-sweet-c4a)
+- [Dev.to/JS] [Creating Real-Time Applications with SignalR](https://dev.to/shegzee/creating-real-time-applications-with-signalr-1k14)
+- [Lifehacker] [How to Make Your Solar Panels Last Longer Than 25 Years](https://lifehacker.com/tech/make-your-solar-panels-last-longer)
 - [Dev.to/JS] [12 Senior Developer Traits Junior Developers Need To Master 🔥](https://dev.to/dragosnedelcu/12-senior-developer-traits-junior-developers-need-to-master-285m)
 - [Dev.to/JS] [When you want to use js/ts to obtain a large amount of network data, you may want to try x-crawl](https://dev.to/coderhxl/when-you-want-to-use-jsts-to-obtain-a-large-amount-of-network-data-you-may-want-to-try-x-crawl-4g8c)
+- [Lifehacker] [Change These Seven Settings on Your New Samsung Galaxy Z Fold 5](https://lifehacker.com/tech/samsung-galaxy-z-fold-5-settings)
 - [Dev.to/JS] [Advertising agency in pune](https://dev.to/brandnbusiness/advertising-agency-in-pune-b20)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #8](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-8-26jk)
 - [Lifehacker] [This QLED Samsung Gaming Monitor Just Dropped to Its Lowest Price Yet](https://lifehacker.com/tech/samsung-qled-g9-gaming-monitor-sale)
@@ -38,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Portfolio in React with Animations](https://dev.to/pedrorfpacheco/new-portfolio-in-react-with-animations-1bb)
 - [Lifehacker] [19 Gifts Gardeners Will Really Dig](https://lifehacker.com/home/best-gifts-for-gardeners)
 - [Dev.to/JS] [What are the Reasons for Full-stack Development to be Popular?](https://dev.to/redapplekolkata/what-are-the-reasons-for-full-stack-development-to-be-popular-25mb)
-- [Dev.to/JS] [Expose methods of a component using useImperativeHandle&lpar;&rpar;](https://dev.to/phuocng/expose-methods-of-a-component-using-useimperativehandle-3fan)
-- [Dev.to/JS] [Display a deprecation message in a React component](https://dev.to/phuocng/display-a-deprecation-message-in-a-react-component-n89)
 - [Lifehacker] [The Meater 2 Wireless Thermometer Could Use a Signal Boost](https://lifehacker.com/tech/meater-2-wireless-thermometer-review)
-- [Dev.to/JS] [Code Challenge: Calling Web Developers](https://dev.to/opensourcee/code-challenge-calling-web-developers-2eo1)
 - [Lifehacker] [Your Hairbrush Is Grosser Than You Realize](https://lifehacker.com/health/how-to-clean-hairbrush)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
 - [Lifehacker] [Split-Screen Multitasking Just Got Easier to Use on Windows](https://lifehacker.com/tech/how-to-use-split-screen-multitasking-on-windows)
 - [Lifehacker] [This Is How Solar Panels Actually Work](https://lifehacker.com/tech/how-solar-panels-work)
-- [Lifehacker] [Ride1Up&#39;s Cafe Cruiser E-bike Is Actually Too Powerful](https://lifehacker.com/tech/ride1ups-cafe-cruiser-review)
-- [Lifehacker] [You Can Get ‘Deathloop’ for Free for the Next Month With Amazon Prime](https://lifehacker.com/entertainment/deathloop-pc-free-with-amazon-prime)
-- [Lifehacker] [Your Next Great Potato Dish Is Fennel](https://lifehacker.com/food-drink/best-fennel-gratin-recipe)
-- [Lifehacker] [25 Delicious Gift Ideas for New Cooks](https://lifehacker.com/food-drink/25-gift-ideas-for-new-cooks)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Ride1Up&#39;s Cafe Cruiser E-bike Is Actually Too Powerful](https://lifehacker.com/tech/ride1ups-cafe-cruiser-review)<!-- TECH-POSTS:END -->
 
 ---
 
