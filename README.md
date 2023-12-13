@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤩 11 AMAZING Bookmarklets for Web Devs 🔖 🚀 &lpar;What Are They, Anyway? 🤔&rpar;](https://dev.to/best_codes/11-amazing-bookmarklets-for-web-devs-what-are-they-anyways--3pk6)
+- [Dev.to/JS] [My Experience With OneEntryCMS - A Headless CMS](https://dev.to/ezinne_anne/my-experience-with-oneentrycms-a-headless-cms-23hd)
+- [Dev.to/JS] [Conclusion: Navigating Development Challenges](https://dev.to/vishnudas2003/conclusion-navigating-development-challenges-4nk)
+- [Dev.to/JS] [Progress: Implementation and Challenges](https://dev.to/vishnudas2003/progress-implementation-and-challenges-1o26)
 - [Dev.to/JS] [Planning: Creating NavBar #2](https://dev.to/vishnudas2003/planning-creating-navbar-2-330e)
 - [Dev.to/JS] [Refactor a React Component from 165 Lines to 30 Lines](https://dev.to/mohammadfaisal/refactor-a-react-component-from-165-lines-to-30-lines-1392)
+- [Dev.to/JS] [How to get good at competitive programming](https://dev.to/codewithshahan/how-to-get-good-at-competitive-programming-1dm7)
 - [Dev.to/JS] [Pains and solutions in localization for the web](https://dev.to/this-is-learning/pains-and-solutions-in-localization-for-the-web-3mdf)
 - [Dev.to/JS] [Clean Code Is Not Quick Code!💻](https://dev.to/parsafarahani84/clean-code-is-not-quick-code-5alm)
 - [Lifehacker] [The Best Gifts for Kids Who Love to Read &lpar;That Aren’t Books&rpar;](https://lifehacker.com/family/best-gifts-for-young-readers)
@@ -36,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s When Fixing Your Dryer Makes More Sense](https://lifehacker.com/home/when-to-fix-a-dryer-and-when-to-replace)
 - [Dev.to/JS] [When you should embrace MFEs.](https://dev.to/this-is-angular/when-you-should-embrace-mfes-2bng)
 - [Lifehacker] [You Can Finally Disable Read Receipts on Facebook Messenger](https://lifehacker.com/tech/you-can-finally-disable-read-receipts-facebook-messenger)
-- [Dev.to/JS] [Nesting web components in vanilla JavaScript](https://dev.to/logrocket/nesting-web-components-in-vanilla-javascript-hhb)
 - [Lifehacker] [The Best E-bikes for Every Type of Rider](https://lifehacker.com/tech/the-best-e-bikes)
-- [Dev.to/JS] [Javascript features that makes coding sweet](https://dev.to/masekere/javascript-features-that-makes-coding-sweet-c4a)
-- [Dev.to/JS] [Creating Real-Time Applications with SignalR](https://dev.to/shegzee/creating-real-time-applications-with-signalr-1k14)
 - [Lifehacker] [How to Make Your Solar Panels Last Longer Than 25 Years](https://lifehacker.com/tech/make-your-solar-panels-last-longer)
-- [Dev.to/JS] [12 Senior Developer Traits Juniors Need To Master 🔥](https://dev.to/dragosnedelcu/12-senior-developer-traits-junior-developers-need-to-master-285m)
-- [Dev.to/JS] [When you want to use js/ts to obtain a large amount of network data, you may want to try x-crawl](https://dev.to/coderhxl/when-you-want-to-use-jsts-to-obtain-a-large-amount-of-network-data-you-may-want-to-try-x-crawl-4g8c)
 - [Lifehacker] [Change These Seven Settings on Your New Samsung Galaxy Z Fold 5](https://lifehacker.com/tech/samsung-galaxy-z-fold-5-settings)
 - [Lifehacker] [This QLED Samsung Gaming Monitor Just Dropped to Its Lowest Price Yet](https://lifehacker.com/tech/samsung-qled-g9-gaming-monitor-sale)
 - [Lifehacker] [Don&#39;t Put Essential Oils in Your Vacuum, No Matter What Instagram Tells You](https://lifehacker.com/home/dont-put-essential-oils-in-your-vacuum)
