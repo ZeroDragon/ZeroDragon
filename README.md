@@ -26,12 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤫 Secret JavaScript Methods They Don&#39;t Want You To See &lpar;part 2&rpar;](https://dev.to/magnificode/secret-javascript-methods-they-dont-want-you-to-see-part-2-4kh9)
+- [Dev.to/JS] [Enhancing Web Design: Seamless Integration of File Uploads for Interactive Websites](https://dev.to/ideradevtools/enhancing-web-design-seamless-integration-of-file-uploads-for-interactive-websites-5dgg)
+- [Lifehacker] [Here&#39;s When Fixing Your Dryer Makes More Sense](https://lifehacker.com/home/when-to-fix-a-dryer-and-when-to-replace)
+- [Dev.to/JS] [When you should embrace MFEs.](https://dev.to/this-is-angular/when-you-should-embrace-mfes-2bng)
+- [Lifehacker] [You Can Finally Disable Read Receipts on Facebook Messenger](https://lifehacker.com/tech/you-can-finally-disable-read-receipts-facebook-messenger)
 - [Dev.to/JS] [Nesting web components in vanilla JavaScript](https://dev.to/logrocket/nesting-web-components-in-vanilla-javascript-hhb)
 - [Lifehacker] [The Best E-bikes for Every Type of Rider](https://lifehacker.com/tech/the-best-e-bikes)
 - [Dev.to/JS] [Javascript features that makes coding sweet](https://dev.to/masekere/javascript-features-that-makes-coding-sweet-c4a)
 - [Dev.to/JS] [Creating Real-Time Applications with SignalR](https://dev.to/shegzee/creating-real-time-applications-with-signalr-1k14)
 - [Lifehacker] [How to Make Your Solar Panels Last Longer Than 25 Years](https://lifehacker.com/tech/make-your-solar-panels-last-longer)
-- [Dev.to/JS] [12 Senior Developer Traits Junior Developers Need To Master 🔥](https://dev.to/dragosnedelcu/12-senior-developer-traits-junior-developers-need-to-master-285m)
+- [Dev.to/JS] [12 Senior Developer Traits Juniors Need To Master 🔥](https://dev.to/dragosnedelcu/12-senior-developer-traits-junior-developers-need-to-master-285m)
 - [Dev.to/JS] [When you want to use js/ts to obtain a large amount of network data, you may want to try x-crawl](https://dev.to/coderhxl/when-you-want-to-use-jsts-to-obtain-a-large-amount-of-network-data-you-may-want-to-try-x-crawl-4g8c)
 - [Lifehacker] [Change These Seven Settings on Your New Samsung Galaxy Z Fold 5](https://lifehacker.com/tech/samsung-galaxy-z-fold-5-settings)
 - [Dev.to/JS] [Advertising agency in pune](https://dev.to/brandnbusiness/advertising-agency-in-pune-b20)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend Developer Roadmap 2024](https://dev.to/bhylucom/frontend-developer-roadmap-2024-5hl0)
 - [Dev.to/JS] [Popular Style Guides for Web Development](https://dev.to/vlad_sha/popular-style-guides-for-web-development-1nip)
 - [Lifehacker] [Don&#39;t Put Essential Oils in Your Vacuum, No Matter What Instagram Tells You](https://lifehacker.com/home/dont-put-essential-oils-in-your-vacuum)
-- [Dev.to/JS] [❌ React Error Boundaries - Handling Errors Gracefully](https://dev.to/refine/react-error-boundaries-handling-errors-gracefully-5c77)
-- [Dev.to/JS] [New Portfolio in React with Animations](https://dev.to/pedrorfpacheco/new-portfolio-in-react-with-animations-1bb)
 - [Lifehacker] [19 Gifts Gardeners Will Really Dig](https://lifehacker.com/home/best-gifts-for-gardeners)
-- [Dev.to/JS] [What are the Reasons for Full-stack Development to be Popular?](https://dev.to/redapplekolkata/what-are-the-reasons-for-full-stack-development-to-be-popular-25mb)
 - [Lifehacker] [The Meater 2 Wireless Thermometer Could Use a Signal Boost](https://lifehacker.com/tech/meater-2-wireless-thermometer-review)
 - [Lifehacker] [Your Hairbrush Is Grosser Than You Realize](https://lifehacker.com/health/how-to-clean-hairbrush)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Enable Immersive Spatial Audio on Windows 11](https://lifehacker.com/tech/enable-spatial-audio-windows-11)
 - [Lifehacker] [All the Days You Can Visit National Parks for Free in 2024](https://lifehacker.com/travel/national-park-trips-free-days)
 - [Lifehacker] [You Can Now Send Disappearing Voice Messages in WhatsApp](https://lifehacker.com/how-to-send-disappearing-voice-messages-in-whatsapp-1850941975)
-- [Lifehacker] [Split-Screen Multitasking Just Got Easier to Use on Windows](https://lifehacker.com/tech/how-to-use-split-screen-multitasking-on-windows)
-- [Lifehacker] [This Is How Solar Panels Actually Work](https://lifehacker.com/tech/how-solar-panels-work)
-- [Lifehacker] [Ride1Up&#39;s Cafe Cruiser E-bike Is Actually Too Powerful](https://lifehacker.com/tech/ride1ups-cafe-cruiser-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Split-Screen Multitasking Just Got Easier to Use on Windows](https://lifehacker.com/tech/how-to-use-split-screen-multitasking-on-windows)<!-- TECH-POSTS:END -->
 
 ---
 
