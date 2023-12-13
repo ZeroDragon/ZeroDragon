@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the Reasons for Full-stack Development to be Popular?](https://dev.to/redapplekolkata/what-are-the-reasons-for-full-stack-development-to-be-popular-25mb)
+- [Dev.to/JS] [Expose methods of a component using useImperativeHandle&lpar;&rpar;](https://dev.to/phuocng/expose-methods-of-a-component-using-useimperativehandle-3fan)
+- [Dev.to/JS] [Display a deprecation message in a React component](https://dev.to/phuocng/display-a-deprecation-message-in-a-react-component-n89)
+- [Dev.to/JS] [Code Challenge: Calling Web Developers](https://dev.to/opensourcee/code-challenge-calling-web-developers-2eo1)
+- [Lifehacker] [Your Hairbrush Is Grosser Than You Realize](https://lifehacker.com/health/how-to-clean-hairbrush)
 - [Dev.to/JS] [#JavaScriptmas 2023 Day 7 to 12](https://dev.to/aishwaryamali24/javascriptmas-2023-day-7-to-12-33kg)
 - [Dev.to/JS] [[Distributed SNS] A story about the making Shinjiro Koizumi bot on Nostr.](https://dev.to/hikaelis/distributed-sns-a-story-about-the-making-shinjiro-koizumi-bot-on-nostr-3ih8)
 - [Dev.to/JS] [New Meteor.js 2.14, updates to CLI and Tracker changes](https://dev.to/meteor/new-meteorjs-214-updates-to-cli-and-tracker-changes-3k49)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Oke](https://dev.to/sippdonks/oke-14md)
 - [Dev.to/JS] [Map&lpar;&rpar; in Java Script](https://dev.to/mbabu/how-to-use-map-in-java-script-52b)
 - [Dev.to/JS] [Enhancing Productivity in Visual Studio Code: A Practical Guide](https://dev.to/hafeez1042/enhancing-productivity-in-visual-studio-code-a-practical-guide-b2h)
-- [Dev.to/JS] [SignalDB and Maverick Signals: The Perfect Duo for Reactivity in React](https://dev.to/maxnowack/signaldb-and-maverick-signals-the-perfect-duo-for-reactivity-in-react-1p5a)
-- [Dev.to/JS] [Welcome to modern web](https://dev.to/artegoser/welcome-to-modern-web-113n)
-- [Dev.to/JS] [Pure Harmony CBD Gummies: Commonly Used For Joint Pain And Arthritis.](https://dev.to/pureharmonycbdgummies/pure-harmony-cbd-gummies-commonly-used-for-joint-pain-and-arthritis-n5f)
-- [Dev.to/JS] [Soroban Snippets: Basic of Building Dapp Part 2](https://dev.to/z5208980/soroban-snippets-basic-of-building-dapp-part-2-2jpl)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
 - [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-12-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 12, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-12-2023)
 - [Lifehacker] [Why You Shouldn’t Force Kids Into Sports &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/family/why-you-shouldnt-force-kids-into-sports)
-- [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
-- [Lifehacker] [How to Recycle, Repurpose, or Dispose of Broken Christmas Lights](https://lifehacker.com/home/how-to-recycle-christmas-lights)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)<!-- TECH-POSTS:END -->
 
 ---
 
