@@ -26,10 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript callbacks](https://dev.to/adarsh04/javascript-callbacks-1a93)
+- [Dev.to/JS] [Using ChatGPT To Translate React App into Over 40 Languages in Just 100 Seconds](https://dev.to/idurar/using-chatgpt-to-translate-react-app-into-over-40-languages-in-just-100-seconds-1c8n)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/nyt-connctions-answer-today-december-14-2023)
 - [Dev.to/JS] [Writing Scalable Code for Self-Taught Developers](https://dev.to/erickson24/writing-scalable-code-in-javascript-inn)
 - [Dev.to/JS] [A line of strange code that solves the issue of invalid transition animations!](https://dev.to/wangliwen/a-line-of-strange-code-that-solves-the-issue-of-invalid-transition-animations-4j0)
 - [Dev.to/JS] [TESNET AREON NETWORK](https://dev.to/prosen_qq/tesnet-areon-network-552n)
 - [Dev.to/JS] [Venciendo al Impostor: Cómo este Síndrome Puede Limitar tu Crecimiento en el Desarrollo de Software](https://dev.to/javascriptchile/venciendo-al-impostor-como-este-sindrome-puede-limitar-tu-crecimiento-en-el-desarrollo-de-software-55in)
+- [Lifehacker] [Why You Shouldn’t Buy a USB-C Charging Case for Your AirPods Pro](https://lifehacker.com/tech/you-can-now-buy-the-airpods-pro-2-usb-c-charging-case-but-it-isnt-really)
 - [Lifehacker] [The Best Nintendo Switch Game Deals You Can Still Get in Time for Christmas](https://lifehacker.com/entertainment/the-best-nintendo-switch-game-deals-shipping-for-christmas)
 - [Dev.to/JS] [Creating a blob storage container with anonymous read access.](https://dev.to/ulomaekpe/creating-a-blob-storage-container-with-anonymous-read-access-m5a)
 - [Lifehacker] [The Best Tech Stocking Stuffers for Under $150](https://lifehacker.com/tech/best-tech-stocking-stuffer-deals)
@@ -43,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Use Homeopathic Eye Drops, FDA Warns](https://lifehacker.com/health/never-use-homeopathic-eyedrops-fda-warns)
 - [Lifehacker] [Why You Should Always Attend Your Home Inspection](https://lifehacker.com/money/why-you-should-attend-your-home-inspection)
 - [Dev.to/JS] [Will JS takeover the community ?](https://dev.to/harshtankio/will-js-takeover-the-community--1gcl)
-- [Dev.to/JS] [81 nextjs starters, don&#39;t reinvent the wheel](https://dev.to/johnrushx/81-nextjs-starters-so-that-u-dont-reinvent-the-wheel-35cl)
 - [Lifehacker] [This TikTok Garland Hack Really Works, Folks](https://lifehacker.com/home/diy-christmas-garland-idea)
-- [Dev.to/JS] [Tabs Component Pure JavaScript - HTML CSS JS](https://dev.to/voidsplit/tabs-component-pure-javascript-html-css-js-3d0e)
 - [Lifehacker] [The Best and Worst Times to Travel Over the Holidays, According to AAA](https://lifehacker.com/travel/holidays-travel-times-aaa)
 - [Lifehacker] [How to Reset Your Google Home Mini Before You Sell It](https://lifehacker.com/tech/how-to-factory-reset-google-home-mini)
 - [Lifehacker] [When You Have to Use an Insurance Check for Repairs &lpar;and When You Can Keep It&rpar;](https://lifehacker.com/money/when-you-can-cash-an-insurance-check)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Meater 2 Wireless Thermometer Could Use a Signal Boost](https://lifehacker.com/tech/meater-2-wireless-thermometer-review)
 - [Lifehacker] [Your Hairbrush Is Grosser Than You Realize](https://lifehacker.com/health/how-to-clean-hairbrush)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
-- [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)
-- [Lifehacker] [These Cute Christmas Candies Are Easy Enough to Make at Home](https://lifehacker.com/food-drink/best-nonpareil-recipe)
-- [Lifehacker] [You Can Make Collaborative Apple Music Playlists &lpar;Again&rpar;](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)<!-- TECH-POSTS:END -->
 
 ---
 
