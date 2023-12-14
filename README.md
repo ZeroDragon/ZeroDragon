@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Express.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/expressjs-adoption-guide-overview-examples-and-alternatives-3605)
+- [Dev.to/JS] [Buffers in Node.js](https://dev.to/m__mdy__m/buffers-in-nodejs-1fh2)
+- [Dev.to/JS] [Streamline CMS Development with Angular By Integrating Froala WYSIWYG HTML Editor](https://dev.to/ideradevtools/streamline-cms-development-with-angular-by-integrating-froala-wysiwyg-html-editor-1p4m)
 - [Dev.to/JS] [A New Tool In Town to Upgrade React Native Apps Called Flame AI](https://dev.to/asad8746/a-new-tool-in-town-to-upgrade-react-native-apps-called-flame-ai-18e)
 - [Dev.to/JS] [Volta and NW.js are amazing together](https://dev.to/thejaredwilcurt/volta-and-nwjs-are-amazing-together-3i3i)
 - [Dev.to/JS] [✨2023#49: TSDiagram: Create diagrams with TypeScript.](https://dev.to/jstoolsweekly/202349-tsdiagram-create-diagrams-with-typescript-3pa2)
 - [Dev.to/JS] [🔥2023#49: StyleX: new CSS styling system by Meta](https://dev.to/jstoolsweekly/202349-stylex-new-css-styling-system-by-meta-3i)
+- [Lifehacker] [These Are the Best Gifts for Teens, According to TikTok](https://lifehacker.com/money/best-gifts-for-teenagers)
 - [Dev.to/JS] [Episode 23/49: RouterTestingHarness, Chrome DevTools 119 &amp; 120](https://dev.to/this-is-angular/episode-2349-routertestingharness-chrome-devtools-119-120-54km)
 - [Dev.to/JS] [Why Javascript is used in web applications](https://dev.to/mujahidulislam11/why-javascript-is-used-in-web-applications-1me0)
 - [Lifehacker] [Make This Quick Eggnog With Ice Cream](https://lifehacker.com/food-drink/quick-eggnog-recipe)
@@ -38,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What I learned about the WebAssembly Memory model &amp; how to debug memory leaks](https://dev.to/andyb1979/what-i-learned-about-the-webassembly-memory-model-how-to-debug-memory-leaks-2d2m)
 - [Lifehacker] [The Best Gifts Any Dog Owner Will Love](https://lifehacker.com/family/gifts-for-dog-owners)
 - [Dev.to/JS] [🔥 Top 12 Github Repositories To Master NextJS 🏆](https://dev.to/random_ti/top-12-github-repositories-to-master-nextjs-34oe)
-- [Dev.to/JS] [Efficient Workflow in Frontend development with React.js](https://dev.to/begenchg/efficient-workflow-in-frontend-development-with-reactjs-4bdg)
 - [Lifehacker] [How to Recycle Every Type of Material Left Over From Your DIY Projects](https://lifehacker.com/home/how-to-recycle-diy-project-scraps)
-- [Dev.to/JS] [JavaScript qanday dasturlash tili ?](https://dev.to/junior_aliy/javascript-qanday-dasturlash-tili--3ca)
 - [Lifehacker] [What&#39;s New on Netflix in January 2024](https://lifehacker.com/entertainment/netflix-january-2024)
-- [Dev.to/JS] [Building a signature capture widget with an Appsmith Iframe and SignaturePad.js](https://dev.to/appsmith/building-a-signature-capture-widget-with-an-appsmith-iframe-and-signaturepadjs-fkn)
 - [Lifehacker] [The Apple Watch Ultra 2 Just Hit Its Lowest Price Yet](https://lifehacker.com/tech/apple-watch-ultra-2-sale)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;War on Christmas&#39;](https://lifehacker.com/entertainment/war-on-christmas)
 - [Lifehacker] [Christmas Morning Is Better With Cookie Dough Pancakes](https://lifehacker.com/food-drink/cookie-dough-pancake-recipe)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Have to Use an Insurance Check for Repairs &lpar;and When You Can Keep It&rpar;](https://lifehacker.com/money/when-you-can-cash-an-insurance-check)
 - [Lifehacker] [These Are All the New Features in watchOS 10.2](https://lifehacker.com/tech/new-features-apple-watch-watchos-102)
 - [Lifehacker] [The Best Gifts for Kids Who Love to Read &lpar;That Aren’t Books&rpar;](https://lifehacker.com/family/best-gifts-for-young-readers)
-- [Lifehacker] [Here&#39;s When Fixing Your Dryer Makes More Sense](https://lifehacker.com/home/when-to-fix-a-dryer-and-when-to-replace)
-- [Lifehacker] [You Can Finally Disable Read Receipts on Facebook Messenger](https://lifehacker.com/tech/you-can-finally-disable-read-receipts-facebook-messenger)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s When Fixing Your Dryer Makes More Sense](https://lifehacker.com/home/when-to-fix-a-dryer-and-when-to-replace)<!-- TECH-POSTS:END -->
 
 ---
 
