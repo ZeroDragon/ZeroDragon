@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue.js Slots](https://dev.to/mkp_bijit/vuejs-slots-3lcn)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/hexahid981/buy-google-voice-accounts-51fb)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/hexahid981/buy-google-5-star-reviews-1d9l)
 - [Dev.to/JS] [Validating API keys in ChatCraft!](https://dev.to/katiel/contributing-to-chatcraft-2l7e)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/goveb13655/buy-glassdoor-reviews-kg2)
 - [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/goveb13655/buy-amazon-reviews-ge5)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/goveb13655/buy-google-reviews-11km)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/goveb13655/buy-google-voice-accounts-12f3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/nyt-connctions-answer-today-december-14-2023)
 - [Lifehacker] [Why You Shouldn’t Buy a USB-C Charging Case for Your AirPods Pro](https://lifehacker.com/tech/you-can-now-buy-the-airpods-pro-2-usb-c-charging-case-but-it-isnt-really)
