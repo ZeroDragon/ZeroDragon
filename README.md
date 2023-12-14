@@ -26,10 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a storage account and backup the public website.](https://dev.to/ulomaekpe/create-a-storage-account-and-backup-the-public-website-38m7)
+- [Lifehacker] [All the Times You Should be Using a Cashier’s Check &lpar;but Aren’t&rpar;](https://lifehacker.com/money/when-you-should-use-cashiers-checks)
+- [Dev.to/JS] [Preloading images with Astro](https://dev.to/nguyen/preloading-images-with-astro-535n)
 - [Dev.to/JS] [Express.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/expressjs-adoption-guide-overview-examples-and-alternatives-3605)
 - [Dev.to/JS] [Buffers in Node.js](https://dev.to/m__mdy__m/buffers-in-nodejs-1fh2)
 - [Dev.to/JS] [Streamline CMS Development with Angular By Integrating Froala WYSIWYG HTML Editor](https://dev.to/ideradevtools/streamline-cms-development-with-angular-by-integrating-froala-wysiwyg-html-editor-1p4m)
+- [Lifehacker] [‘Marinating’ a Diet Coke in the Fridge Is Not a Thing](https://lifehacker.com/food-drink/marinate-diet-coke-tiktok-trend)
+- [Lifehacker] [Apple Now Requires a Court Order to Hand Over Your Push Notification Info](https://lifehacker.com/tech/apple-now-requires-a-court-order-to-release-your-push-notification-info)
 - [Dev.to/JS] [A New Tool In Town to Upgrade React Native Apps Called Flame AI](https://dev.to/asad8746/a-new-tool-in-town-to-upgrade-react-native-apps-called-flame-ai-18e)
+- [Lifehacker] [Three Ways to Back Up Your iPhone](https://lifehacker.com/tech/how-to-back-up-iphone)
 - [Dev.to/JS] [Volta and NW.js are amazing together](https://dev.to/thejaredwilcurt/volta-and-nwjs-are-amazing-together-3i3i)
 - [Dev.to/JS] [✨2023#49: TSDiagram: Create diagrams with TypeScript.](https://dev.to/jstoolsweekly/202349-tsdiagram-create-diagrams-with-typescript-3pa2)
 - [Dev.to/JS] [🔥2023#49: StyleX: new CSS styling system by Meta](https://dev.to/jstoolsweekly/202349-stylex-new-css-styling-system-by-meta-3i)
@@ -39,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Quick Eggnog With Ice Cream](https://lifehacker.com/food-drink/quick-eggnog-recipe)
 - [Lifehacker] [You Can Now Pin Messages in WhatsApp Group Chats](https://lifehacker.com/tech/how-to-pin-messages-in-whatsapp-group-chats)
 - [Dev.to/JS] [CSSOM — Modelo de Objeto CSS](https://dev.to/telles/cssom-modelo-de-objeto-css-3ehd)
-- [Dev.to/JS] [What I learned about the WebAssembly Memory model &amp; how to debug memory leaks](https://dev.to/andyb1979/what-i-learned-about-the-webassembly-memory-model-how-to-debug-memory-leaks-2d2m)
 - [Lifehacker] [The Best Gifts Any Dog Owner Will Love](https://lifehacker.com/family/gifts-for-dog-owners)
-- [Dev.to/JS] [🔥 Top 12 Github Repositories To Master NextJS 🏆](https://dev.to/random_ti/top-12-github-repositories-to-master-nextjs-34oe)
 - [Lifehacker] [How to Recycle Every Type of Material Left Over From Your DIY Projects](https://lifehacker.com/home/how-to-recycle-diy-project-scraps)
 - [Lifehacker] [What&#39;s New on Netflix in January 2024](https://lifehacker.com/entertainment/netflix-january-2024)
 - [Lifehacker] [The Apple Watch Ultra 2 Just Hit Its Lowest Price Yet](https://lifehacker.com/tech/apple-watch-ultra-2-sale)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Always Attend Your Home Inspection](https://lifehacker.com/money/why-you-should-attend-your-home-inspection)
 - [Lifehacker] [This TikTok Garland Hack Really Works, Folks](https://lifehacker.com/home/diy-christmas-garland-idea)
 - [Lifehacker] [The Best and Worst Times to Travel Over the Holidays, According to AAA](https://lifehacker.com/travel/holidays-travel-times-aaa)
-- [Lifehacker] [How to Reset Your Google Home Mini Before You Sell It](https://lifehacker.com/tech/how-to-factory-reset-google-home-mini)
-- [Lifehacker] [When You Have to Use an Insurance Check for Repairs &lpar;and When You Can Keep It&rpar;](https://lifehacker.com/money/when-you-can-cash-an-insurance-check)
-- [Lifehacker] [These Are All the New Features in watchOS 10.2](https://lifehacker.com/tech/new-features-apple-watch-watchos-102)
-- [Lifehacker] [The Best Gifts for Kids Who Love to Read &lpar;That Aren’t Books&rpar;](https://lifehacker.com/family/best-gifts-for-young-readers)
-- [Lifehacker] [Here&#39;s When Fixing Your Dryer Makes More Sense](https://lifehacker.com/home/when-to-fix-a-dryer-and-when-to-replace)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Reset Your Google Home Mini Before You Sell It](https://lifehacker.com/tech/how-to-factory-reset-google-home-mini)<!-- TECH-POSTS:END -->
 
 ---
 
