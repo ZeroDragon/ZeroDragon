@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Moonly weekly progress update #69 - Karamendos WL Flow is in production](https://dev.to/moonly/moonly-weekly-progress-update-69-karamendos-wl-flow-is-in-production-4on4)
+- [Dev.to/JS] [There&#39;s no magic under the hood](https://dev.to/andi23rosca/theres-no-magic-under-the-hood-3o9f)
+- [Dev.to/JS] [Healthy Visions CBD Male Booster Gummies - Surge In Sex Drive &amp; Energy](https://dev.to/healthyvisionscbdgummies/healthy-visions-cbd-male-booster-gummies-surge-in-sex-drive-energy-226i)
 - [Dev.to/JS] [Introduction to LangChain](https://dev.to/ruturajmaggirwar/introduction-to-langchain-4mme)
 - [Dev.to/JS] [Empowering Users with VerifindPro&#39;s Location Precision](https://dev.to/janetjane/empowering-users-with-verifindpros-location-precision-2m06)
 - [Dev.to/JS] [My First Video on YouTube](https://dev.to/codify/my-first-video-on-youtube-3i9m)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Essential Skills to Look for When Hiring a JavaScript Developer](https://dev.to/insidetechno/10-essential-skills-to-look-for-when-hiring-a-javascript-developer-3f0i)
 - [Dev.to/JS] [Why Naming in Development is Important](https://dev.to/vlad_sha/why-naming-in-development-is-important-6ne)
 - [Dev.to/JS] [Day 10 - 30 Days learn Web Dev](https://dev.to/johnc/day-10-30-days-learn-web-dev-4c9)
-- [Dev.to/JS] [window object and the DOM](https://dev.to/itsmohamedyahia/window-object-and-the-dom-451e)
-- [Dev.to/JS] [Selected Firms recognizes Infiraise as top web design company](https://dev.to/infiraise/selected-firms-recognizes-infiraise-as-top-web-design-company-4ik9)
-- [Dev.to/JS] [Navigating the Future: A Guide to Remote Software Testing Jobs](https://dev.to/agiconsolution/navigating-the-future-a-guide-to-remote-software-testing-jobs-3834)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/nyt-connctions-answer-today-december-14-2023)
 - [Lifehacker] [Why You Shouldn’t Buy a USB-C Charging Case for Your AirPods Pro](https://lifehacker.com/tech/you-can-now-buy-the-airpods-pro-2-usb-c-charging-case-but-it-isnt-really)
