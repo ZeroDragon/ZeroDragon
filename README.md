@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 23/49: RouterTestingHarness, Chrome DevTools 119 &amp; 120](https://dev.to/this-is-angular/episode-2349-routertestingharness-chrome-devtools-119-120-54km)
+- [Dev.to/JS] [Why Javascript is used in web applications](https://dev.to/mujahidulislam11/why-javascript-is-used-in-web-applications-1me0)
+- [Lifehacker] [You Can Now Pin Messages in WhatsApp Group Chats](https://lifehacker.com/tech/how-to-pin-messages-in-whatsapp-group-chats)
 - [Dev.to/JS] [CSSOM — Modelo de Objeto CSS](https://dev.to/telles/cssom-modelo-de-objeto-css-3ehd)
 - [Dev.to/JS] [What I learned about the WebAssembly Memory model &amp; how to debug memory leaks](https://dev.to/andyb1979/what-i-learned-about-the-webassembly-memory-model-how-to-debug-memory-leaks-2d2m)
+- [Lifehacker] [The Best Gifts Any Dog Owner Will Love](https://lifehacker.com/family/gifts-for-dog-owners)
 - [Dev.to/JS] [🔥 Top 12 Github Repositories To Master NextJS 🏆](https://dev.to/random_ti/top-12-github-repositories-to-master-nextjs-34oe)
 - [Dev.to/JS] [Efficient Workflow in Frontend development with React.js](https://dev.to/begenchg/efficient-workflow-in-frontend-development-with-reactjs-4bdg)
 - [Lifehacker] [How to Recycle Every Type of Material Left Over From Your DIY Projects](https://lifehacker.com/home/how-to-recycle-diy-project-scraps)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automating the creation of Shopify stores with Xata](https://dev.to/xata/automating-the-creation-of-shopify-stores-with-xata-ojl)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #9](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-9-5gd6)
 - [Lifehacker] [The Apple Watch Ultra 2 Just Hit Its Lowest Price Yet](https://lifehacker.com/tech/apple-watch-ultra-2-sale)
-- [Dev.to/JS] [Momentum](https://dev.to/fakelaboratory/momentum-2a1j)
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;War on Christmas&#39;](https://lifehacker.com/entertainment/war-on-christmas)
-- [Dev.to/JS] [Mastering Conditional Statements, Loops, and FizzBuzz in JavaScript](https://dev.to/chinwendufausty/mastering-conditional-statements-loops-and-fizzbuzz-in-javascript-15je)
 - [Lifehacker] [Christmas Morning Is Better With Cookie Dough Pancakes](https://lifehacker.com/food-drink/cookie-dough-pancake-recipe)
 - [Lifehacker] [You Can Now Play Xbox Game Pass on Your Meta Quest Headset](https://lifehacker.com/tech/xbox-game-pass-ultimate-on-meta-quest-headset)
 - [Lifehacker] [The Right Way to Use Tinder for a Hometown Holiday Hookup](https://lifehacker.com/relationships/the-best-dating-app-for-a-holiday-hookup)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Gifts for Kids Who Love to Read &lpar;That Aren’t Books&rpar;](https://lifehacker.com/family/best-gifts-for-young-readers)
 - [Lifehacker] [Here&#39;s When Fixing Your Dryer Makes More Sense](https://lifehacker.com/home/when-to-fix-a-dryer-and-when-to-replace)
 - [Lifehacker] [You Can Finally Disable Read Receipts on Facebook Messenger](https://lifehacker.com/tech/you-can-finally-disable-read-receipts-facebook-messenger)
-- [Lifehacker] [The Best E-bikes for Every Type of Rider](https://lifehacker.com/tech/the-best-e-bikes)
-- [Lifehacker] [How to Make Your Solar Panels Last Longer Than 25 Years](https://lifehacker.com/tech/make-your-solar-panels-last-longer)
-- [Lifehacker] [Change These Seven Settings on Your New Samsung Galaxy Z Fold 5](https://lifehacker.com/tech/samsung-galaxy-z-fold-5-settings)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best E-bikes for Every Type of Rider](https://lifehacker.com/tech/the-best-e-bikes)<!-- TECH-POSTS:END -->
 
 ---
 
