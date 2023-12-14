@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Celebrating Small Achievements: The Key to Sustained Motivation in Your Development Projects](https://dev.to/marmariadev/celebrating-small-achievements-the-key-to-sustained-motivation-in-your-development-projects-2h45)
+- [Dev.to/JS] [When to use an Astro component over a Web Component.](https://dev.to/reggi/when-to-use-an-astro-component-over-a-web-component-2bn6)
 - [Dev.to/JS] [Create a storage account and backup the public website.](https://dev.to/ulomaekpe/create-a-storage-account-and-backup-the-public-website-38m7)
 - [Lifehacker] [All the Times You Should be Using a Cashier’s Check &lpar;but Aren’t&rpar;](https://lifehacker.com/money/when-you-should-use-cashiers-checks)
 - [Dev.to/JS] [Preloading images with Astro](https://dev.to/nguyen/preloading-images-with-astro-535n)
@@ -41,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🔥2023#49: StyleX: new CSS styling system by Meta](https://dev.to/jstoolsweekly/202349-stylex-new-css-styling-system-by-meta-3i)
 - [Lifehacker] [These Are the Best Gifts for Teens, According to TikTok](https://lifehacker.com/money/best-gifts-for-teenagers)
 - [Dev.to/JS] [Episode 23/49: RouterTestingHarness, Chrome DevTools 119 &amp; 120](https://dev.to/this-is-angular/episode-2349-routertestingharness-chrome-devtools-119-120-54km)
-- [Dev.to/JS] [Why Javascript is used in web applications](https://dev.to/mujahidulislam11/why-javascript-is-used-in-web-applications-1me0)
 - [Lifehacker] [Make This Quick Eggnog With Ice Cream](https://lifehacker.com/food-drink/quick-eggnog-recipe)
 - [Lifehacker] [You Can Now Pin Messages in WhatsApp Group Chats](https://lifehacker.com/tech/how-to-pin-messages-in-whatsapp-group-chats)
-- [Dev.to/JS] [CSSOM — Modelo de Objeto CSS](https://dev.to/telles/cssom-modelo-de-objeto-css-3ehd)
 - [Lifehacker] [The Best Gifts Any Dog Owner Will Love](https://lifehacker.com/family/gifts-for-dog-owners)
 - [Lifehacker] [How to Recycle Every Type of Material Left Over From Your DIY Projects](https://lifehacker.com/home/how-to-recycle-diy-project-scraps)
 - [Lifehacker] [What&#39;s New on Netflix in January 2024](https://lifehacker.com/entertainment/netflix-january-2024)
