@@ -26,9 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building A Serverless React App With AWS Lambda And API Gateway](https://dev.to/tracy4code/building-a-serverless-react-app-with-aws-lambda-and-api-gateway-28b6)
+- [Dev.to/JS] [Contributing to a JavaScript project!](https://dev.to/katiel/contributing-to-a-javascript-project-6n)
 - [Dev.to/JS] [Javascript callbacks](https://dev.to/adarsh04/javascript-callbacks-1a93)
 - [Dev.to/JS] [Using ChatGPT To Translate React App into Over 40 Languages in Just 100 Seconds](https://dev.to/idurar/using-chatgpt-to-translate-react-app-into-over-40-languages-in-just-100-seconds-1c8n)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/nyt-connctions-answer-today-december-14-2023)
 - [Dev.to/JS] [Writing Scalable Code for Self-Taught Developers](https://dev.to/erickson24/writing-scalable-code-in-javascript-inn)
 - [Dev.to/JS] [A line of strange code that solves the issue of invalid transition animations!](https://dev.to/wangliwen/a-line-of-strange-code-that-solves-the-issue-of-invalid-transition-animations-4j0)
@@ -44,10 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Take These Three Steps After a Bad Performance Review at Work](https://lifehacker.com/work/what-to-do-after-bad-work-review)
 - [Lifehacker] [You&#39;re Going to Want to Use Apple&#39;s New Stolen Device Protection Feature](https://lifehacker.com/tech/apples-new-stolen-device-protection-feature-ios-17-3)
 - [Lifehacker] [How Long an AirTag’s Battery Lasts &lpar;and How to Change It&rpar;](https://lifehacker.com/tech/how-long-an-airtag-battery-lasts)
-- [Dev.to/JS] [How to use cURL in Javascript &lpar;and its alternative&rpar;](https://dev.to/serpapi/how-to-use-curl-in-javascript-and-its-alternative-9j)
 - [Lifehacker] [Never Use Homeopathic Eye Drops, FDA Warns](https://lifehacker.com/health/never-use-homeopathic-eyedrops-fda-warns)
 - [Lifehacker] [Why You Should Always Attend Your Home Inspection](https://lifehacker.com/money/why-you-should-attend-your-home-inspection)
-- [Dev.to/JS] [Will JS takeover the community ?](https://dev.to/harshtankio/will-js-takeover-the-community--1gcl)
 - [Lifehacker] [This TikTok Garland Hack Really Works, Folks](https://lifehacker.com/home/diy-christmas-garland-idea)
 - [Lifehacker] [The Best and Worst Times to Travel Over the Holidays, According to AAA](https://lifehacker.com/travel/holidays-travel-times-aaa)
 - [Lifehacker] [How to Reset Your Google Home Mini Before You Sell It](https://lifehacker.com/tech/how-to-factory-reset-google-home-mini)
@@ -65,7 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Meater 2 Wireless Thermometer Could Use a Signal Boost](https://lifehacker.com/tech/meater-2-wireless-thermometer-review)
 - [Lifehacker] [Your Hairbrush Is Grosser Than You Realize](https://lifehacker.com/health/how-to-clean-hairbrush)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
+- [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)<!-- TECH-POSTS:END -->
 
 ---
 
