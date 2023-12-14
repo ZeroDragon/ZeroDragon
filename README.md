@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Writing Scalable Code in JavaScript](https://dev.to/erickson24/writing-scalable-code-in-javascript-inn)
+- [Dev.to/JS] [Writing Scalable Code for Self-Taught Developers](https://dev.to/erickson24/writing-scalable-code-in-javascript-inn)
 - [Dev.to/JS] [A line of strange code that solves the issue of invalid transition animations!](https://dev.to/wangliwen/a-line-of-strange-code-that-solves-the-issue-of-invalid-transition-animations-4j0)
 - [Dev.to/JS] [TESNET AREON NETWORK](https://dev.to/prosen_qq/tesnet-areon-network-552n)
 - [Dev.to/JS] [Venciendo al Impostor: Cómo este Síndrome Puede Limitar tu Crecimiento en el Desarrollo de Software](https://dev.to/javascriptchile/venciendo-al-impostor-como-este-sindrome-puede-limitar-tu-crecimiento-en-el-desarrollo-de-software-55in)
