@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to LangChain](https://dev.to/ruturajmaggirwar/introduction-to-langchain-4mme)
+- [Dev.to/JS] [Empowering Users with VerifindPro&#39;s Location Precision](https://dev.to/janetjane/empowering-users-with-verifindpros-location-precision-2m06)
+- [Dev.to/JS] [My First Video on YouTube](https://dev.to/codify/my-first-video-on-youtube-3i9m)
+- [Dev.to/JS] [vigorblog](https://dev.to/jhonclay786/vigorblog-27f6)
 - [Dev.to/JS] [React Rookie to Rockstar: My 10x Proficiency Hack &lpar;You Won&#39;t Believe #5!&rpar;](https://dev.to/dr_anks/react-rookie-to-rockstar-my-10x-proficiency-hack-you-wont-believe-5-2p6)
 - [Dev.to/JS] [Flutter Development: Best Flutter Application Tools 2024](https://dev.to/sparkouttech/flutter-development-best-flutter-application-tools-2024-11hb)
 - [Dev.to/JS] [10 Essential Skills to Look for When Hiring a JavaScript Developer](https://dev.to/insidetechno/10-essential-skills-to-look-for-when-hiring-a-javascript-developer-3f0i)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [window object and the DOM](https://dev.to/itsmohamedyahia/window-object-and-the-dom-451e)
 - [Dev.to/JS] [Selected Firms recognizes Infiraise as top web design company](https://dev.to/infiraise/selected-firms-recognizes-infiraise-as-top-web-design-company-4ik9)
 - [Dev.to/JS] [Navigating the Future: A Guide to Remote Software Testing Jobs](https://dev.to/agiconsolution/navigating-the-future-a-guide-to-remote-software-testing-jobs-3834)
-- [Dev.to/JS] [Vue.js Slots](https://dev.to/mkp_bijit/vuejs-slots-3lcn)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/hexahid981/buy-google-voice-accounts-51fb)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/hexahid981/buy-google-5-star-reviews-1d9l)
-- [Dev.to/JS] [Validating API keys in ChatCraft!](https://dev.to/katiel/contributing-to-chatcraft-2l7e)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/nyt-connctions-answer-today-december-14-2023)
 - [Lifehacker] [Why You Shouldn’t Buy a USB-C Charging Case for Your AirPods Pro](https://lifehacker.com/tech/you-can-now-buy-the-airpods-pro-2-usb-c-charging-case-but-it-isnt-really)
