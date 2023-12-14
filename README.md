@@ -26,20 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSSOM — Modelo de Objeto CSS](https://dev.to/telles/cssom-modelo-de-objeto-css-3ehd)
+- [Dev.to/JS] [What I learned about the WebAssembly Memory model &amp; how to debug memory leaks](https://dev.to/andyb1979/what-i-learned-about-the-webassembly-memory-model-how-to-debug-memory-leaks-2d2m)
+- [Dev.to/JS] [🔥 Top 12 Github Repositories To Master NextJS 🏆](https://dev.to/random_ti/top-12-github-repositories-to-master-nextjs-34oe)
+- [Dev.to/JS] [Efficient Workflow in Frontend development with React.js](https://dev.to/begenchg/efficient-workflow-in-frontend-development-with-reactjs-4bdg)
+- [Lifehacker] [How to Recycle Every Type of Material Left Over From Your DIY Projects](https://lifehacker.com/home/how-to-recycle-diy-project-scraps)
 - [Dev.to/JS] [JavaScript qanday dasturlash tili ?](https://dev.to/junior_aliy/javascript-qanday-dasturlash-tili--3ca)
+- [Lifehacker] [What&#39;s New on Netflix in January 2024](https://lifehacker.com/entertainment/netflix-january-2024)
 - [Dev.to/JS] [Building a signature capture widget with an Appsmith Iframe and SignaturePad.js](https://dev.to/appsmith/building-a-signature-capture-widget-with-an-appsmith-iframe-and-signaturepadjs-fkn)
 - [Dev.to/JS] [Kintone Customization Debugging Tool - Field Code Table](https://dev.to/ahandsel/kintone-customization-debugging-tool-field-code-table-69p)
 - [Dev.to/JS] [Convert Image Format In Javascript](https://dev.to/codeboxx/convert-image-format-in-javascript-5b49)
 - [Dev.to/JS] [Automating the creation of Shopify stores with Xata](https://dev.to/xata/automating-the-creation-of-shopify-stores-with-xata-ojl)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #9](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-9-5gd6)
+- [Lifehacker] [The Apple Watch Ultra 2 Just Hit Its Lowest Price Yet](https://lifehacker.com/tech/apple-watch-ultra-2-sale)
 - [Dev.to/JS] [Momentum](https://dev.to/fakelaboratory/momentum-2a1j)
+- [Lifehacker] [What People Are Getting Wrong This Week: The &#39;War on Christmas&#39;](https://lifehacker.com/entertainment/war-on-christmas)
 - [Dev.to/JS] [Mastering Conditional Statements, Loops, and FizzBuzz in JavaScript](https://dev.to/chinwendufausty/mastering-conditional-statements-loops-and-fizzbuzz-in-javascript-15je)
-- [Dev.to/JS] [AdventJS, JavaScript/TypeScript challenges for Xmas 🎅](https://dev.to/midudev/adventjs-javascripttypescript-challenges-for-xmas-2cbd)
 - [Lifehacker] [Christmas Morning Is Better With Cookie Dough Pancakes](https://lifehacker.com/food-drink/cookie-dough-pancake-recipe)
-- [Dev.to/JS] [Moonly weekly progress update #69 - Karamendos WL Flow is in production](https://dev.to/moonly/moonly-weekly-progress-update-69-karamendos-wl-flow-is-in-production-4on4)
 - [Lifehacker] [You Can Now Play Xbox Game Pass on Your Meta Quest Headset](https://lifehacker.com/tech/xbox-game-pass-ultimate-on-meta-quest-headset)
-- [Dev.to/JS] [There&#39;s no magic under the hood](https://dev.to/andi23rosca/theres-no-magic-under-the-hood-3o9f)
-- [Dev.to/JS] [Healthy Visions CBD Male Booster Gummies - Surge In Sex Drive &amp; Energy](https://dev.to/healthyvisionscbdgummies/healthy-visions-cbd-male-booster-gummies-surge-in-sex-drive-energy-226i)
 - [Lifehacker] [The Right Way to Use Tinder for a Hometown Holiday Hookup](https://lifehacker.com/relationships/the-best-dating-app-for-a-holiday-hookup)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/nyt-connctions-answer-today-december-14-2023)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Disable Read Receipts on Facebook Messenger](https://lifehacker.com/tech/you-can-finally-disable-read-receipts-facebook-messenger)
 - [Lifehacker] [The Best E-bikes for Every Type of Rider](https://lifehacker.com/tech/the-best-e-bikes)
 - [Lifehacker] [How to Make Your Solar Panels Last Longer Than 25 Years](https://lifehacker.com/tech/make-your-solar-panels-last-longer)
-- [Lifehacker] [Change These Seven Settings on Your New Samsung Galaxy Z Fold 5](https://lifehacker.com/tech/samsung-galaxy-z-fold-5-settings)
-- [Lifehacker] [This QLED Samsung Gaming Monitor Just Dropped to Its Lowest Price Yet](https://lifehacker.com/tech/samsung-qled-g9-gaming-monitor-sale)
-- [Lifehacker] [Don&#39;t Put Essential Oils in Your Vacuum, No Matter What Instagram Tells You](https://lifehacker.com/home/dont-put-essential-oils-in-your-vacuum)
-- [Lifehacker] [19 Gifts Gardeners Will Really Dig](https://lifehacker.com/home/best-gifts-for-gardeners)
-- [Lifehacker] [The Meater 2 Wireless Thermometer Could Use a Signal Boost](https://lifehacker.com/tech/meater-2-wireless-thermometer-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Change These Seven Settings on Your New Samsung Galaxy Z Fold 5](https://lifehacker.com/tech/samsung-galaxy-z-fold-5-settings)<!-- TECH-POSTS:END -->
 
 ---
 
