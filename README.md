@@ -26,10 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Venciendo al Impostor: Cómo este Síndrome Puede Limitar tu Crecimiento en el Desarrollo de Software](https://dev.to/javascriptchile/venciendo-al-impostor-como-este-sindrome-puede-limitar-tu-crecimiento-en-el-desarrollo-de-software-55in)
 - [Dev.to/JS] [Creating a blob storage container with anonymous read access.](https://dev.to/ulomaekpe/creating-a-blob-storage-container-with-anonymous-read-access-m5a)
 - [Dev.to/JS] [Web scraping with jsdom](https://dev.to/zsevic/web-scraping-with-jsdom-1c3g)
 - [Dev.to/JS] [Form Validation with Zod and Prismane](https://dev.to/prismaneui/form-validation-with-zod-and-prismane-9og)
 - [Dev.to/JS] [Normalizing or interpolating values in JavaScript/TypeScript](https://dev.to/pgarciacamou/normalizing-values-in-typescript-3dcf)
+- [Lifehacker] [Take These Three Steps After a Bad Performance Review at Work](https://lifehacker.com/work/what-to-do-after-bad-work-review)
+- [Lifehacker] [You&#39;re Going to Want to Use Apple&#39;s New Stolen Device Protection Feature](https://lifehacker.com/tech/apples-new-stolen-device-protection-feature-ios-17-3)
 - [Lifehacker] [How Long an AirTag’s Battery Lasts &lpar;and How to Change It&rpar;](https://lifehacker.com/tech/how-long-an-airtag-battery-lasts)
 - [Dev.to/JS] [How to use cURL in Javascript &lpar;and its alternative&rpar;](https://dev.to/serpapi/how-to-use-curl-in-javascript-and-its-alternative-9j)
 - [Lifehacker] [Never Use Homeopathic Eye Drops, FDA Warns](https://lifehacker.com/health/never-use-homeopathic-eyedrops-fda-warns)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Experience With OneEntryCMS - A Headless CMS](https://dev.to/ezinne_anne/my-experience-with-oneentrycms-a-headless-cms-23hd)
 - [Dev.to/JS] [Conclusion: Navigating Development Challenges](https://dev.to/vishnudas2003/conclusion-navigating-development-challenges-4nk)
 - [Lifehacker] [How to Reset Your Google Home Mini Before You Sell It](https://lifehacker.com/tech/how-to-factory-reset-google-home-mini)
-- [Dev.to/JS] [Own API with NodeJS and Express](https://dev.to/disane/own-api-with-nodejs-and-express-5d44)
 - [Lifehacker] [When You Have to Use an Insurance Check for Repairs &lpar;and When You Can Keep It&rpar;](https://lifehacker.com/money/when-you-can-cash-an-insurance-check)
 - [Lifehacker] [These Are All the New Features in watchOS 10.2](https://lifehacker.com/tech/new-features-apple-watch-watchos-102)
 - [Lifehacker] [The Best Gifts for Kids Who Love to Read &lpar;That Aren’t Books&rpar;](https://lifehacker.com/family/best-gifts-for-young-readers)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Cute Christmas Candies Are Easy Enough to Make at Home](https://lifehacker.com/food-drink/best-nonpareil-recipe)
 - [Lifehacker] [You Can Make Collaborative Apple Music Playlists &lpar;Again&rpar;](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
 - [Lifehacker] [Even Snapchat Has an AI Image Generator Now](https://lifehacker.com/tech/snapchat-ai-image-generator)
-- [Lifehacker] [The Best Gifts for Neat Freaks, According to TikTok](https://lifehacker.com/home/tiktok-approved-gifts-for-neat-freaks)
-- [Lifehacker] [These Robot Vacuums Are Over 50% Off for Christmas](https://lifehacker.com/home/robot-vacuums-gift-guide)
-- [Lifehacker] [The Biggest Scams to Avoid This Holiday Season](https://lifehacker.com/tech/biggest-online-scams-holiday-season)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Gifts for Neat Freaks, According to TikTok](https://lifehacker.com/home/tiktok-approved-gifts-for-neat-freaks)<!-- TECH-POSTS:END -->
 
 ---
 
