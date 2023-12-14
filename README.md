@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enforce API Stability with Zod and Argos](https://dev.to/jsfez/enforce-api-stability-with-zod-and-argos-5de6)
+- [Dev.to/JS] [OpenPose ControlNet: A Beginner&#39;s Guide](https://dev.to/novita_ai/openpose-controlnet-a-beginners-guide-3dm9)
 - [Dev.to/JS] [Keto Crave ACV Gummies – {Reviews, Ingredients, Benefits, Side Effects} Read Before Buy?](https://dev.to/ketocraveacv/keto-crave-acv-gummies-reviews-ingredients-benefits-side-effects-read-before-buy-2m39)
 - [Dev.to/JS] [Understanding Short Polling, Long Polling, Server Sent Events and Web Sockets](https://dev.to/shameel/understanding-short-polling-long-polling-server-sent-events-and-web-sockets-20kh)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/goveb13655/buy-verified-paxful-account-3jbn)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/goveb13655/buy-google-5-star-reviews-2840)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/goveb13655/buy-verified-cash-app-account-4f1e)
 - [Dev.to/JS] [Empowering Futures: The Numerous Benefits of Comprehensive Sexuality Education](https://dev.to/omnathdubeyofficial/empowering-futures-the-numerous-benefits-of-comprehensive-sexuality-education-285c)
-- [Dev.to/JS] [Combatting Sexual Violence: Strategies for Preventing Rape](https://dev.to/omnathdubeyofficial/combatting-sexual-violence-strategies-for-preventing-rape-1n6n)
-- [Dev.to/JS] [Unleashing the Power of JavaScript Speech Synthesis! 🚀🔊](https://dev.to/punitsonime/unleashing-the-power-of-javascript-speech-synthesis-516m)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/nyt-connctions-answer-today-december-14-2023)
 - [Lifehacker] [Why You Shouldn’t Buy a USB-C Charging Case for Your AirPods Pro](https://lifehacker.com/tech/you-can-now-buy-the-airpods-pro-2-usb-c-charging-case-but-it-isnt-really)
