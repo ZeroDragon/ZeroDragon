@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing Scalable Code in JavaScript](https://dev.to/erickson24/writing-scalable-code-in-javascript-inn)
+- [Dev.to/JS] [A line of strange code that solves the issue of invalid transition animations!](https://dev.to/wangliwen/a-line-of-strange-code-that-solves-the-issue-of-invalid-transition-animations-4j0)
+- [Dev.to/JS] [TESNET AREON NETWORK](https://dev.to/prosen_qq/tesnet-areon-network-552n)
 - [Dev.to/JS] [Venciendo al Impostor: Cómo este Síndrome Puede Limitar tu Crecimiento en el Desarrollo de Software](https://dev.to/javascriptchile/venciendo-al-impostor-como-este-sindrome-puede-limitar-tu-crecimiento-en-el-desarrollo-de-software-55in)
+- [Lifehacker] [The Best Nintendo Switch Game Deals You Can Still Get in Time for Christmas](https://lifehacker.com/entertainment/the-best-nintendo-switch-game-deals-shipping-for-christmas)
 - [Dev.to/JS] [Creating a blob storage container with anonymous read access.](https://dev.to/ulomaekpe/creating-a-blob-storage-container-with-anonymous-read-access-m5a)
+- [Lifehacker] [The Best Tech Stocking Stuffers for Under $150](https://lifehacker.com/tech/best-tech-stocking-stuffer-deals)
 - [Dev.to/JS] [Web scraping with jsdom](https://dev.to/zsevic/web-scraping-with-jsdom-1c3g)
 - [Dev.to/JS] [Form Validation with Zod and Prismane](https://dev.to/prismaneui/form-validation-with-zod-and-prismane-9og)
 - [Dev.to/JS] [Normalizing or interpolating values in JavaScript/TypeScript](https://dev.to/pgarciacamou/normalizing-values-in-typescript-3dcf)
@@ -42,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This TikTok Garland Hack Really Works, Folks](https://lifehacker.com/home/diy-christmas-garland-idea)
 - [Dev.to/JS] [Tabs Component Pure JavaScript - HTML CSS JS](https://dev.to/voidsplit/tabs-component-pure-javascript-html-css-js-3d0e)
 - [Lifehacker] [The Best and Worst Times to Travel Over the Holidays, According to AAA](https://lifehacker.com/travel/holidays-travel-times-aaa)
-- [Dev.to/JS] [🤩 11 AMAZING Bookmarklets for Web Devs &lpar;What Are They, Anyway? 🤔&rpar;](https://dev.to/best_codes/11-amazing-bookmarklets-for-web-devs-what-are-they-anyways--3pk6)
-- [Dev.to/JS] [My Experience With OneEntryCMS - A Headless CMS](https://dev.to/ezinne_anne/my-experience-with-oneentrycms-a-headless-cms-23hd)
-- [Dev.to/JS] [Conclusion: Navigating Development Challenges](https://dev.to/vishnudas2003/conclusion-navigating-development-challenges-4nk)
 - [Lifehacker] [How to Reset Your Google Home Mini Before You Sell It](https://lifehacker.com/tech/how-to-factory-reset-google-home-mini)
 - [Lifehacker] [When You Have to Use an Insurance Check for Repairs &lpar;and When You Can Keep It&rpar;](https://lifehacker.com/money/when-you-can-cash-an-insurance-check)
 - [Lifehacker] [These Are All the New Features in watchOS 10.2](https://lifehacker.com/tech/new-features-apple-watch-watchos-102)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
 - [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)
 - [Lifehacker] [These Cute Christmas Candies Are Easy Enough to Make at Home](https://lifehacker.com/food-drink/best-nonpareil-recipe)
-- [Lifehacker] [You Can Make Collaborative Apple Music Playlists &lpar;Again&rpar;](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)
-- [Lifehacker] [Even Snapchat Has an AI Image Generator Now](https://lifehacker.com/tech/snapchat-ai-image-generator)
-- [Lifehacker] [The Best Gifts for Neat Freaks, According to TikTok](https://lifehacker.com/home/tiktok-approved-gifts-for-neat-freaks)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Collaborative Apple Music Playlists &lpar;Again&rpar;](https://lifehacker.com/tech/how-to-create-shared-apple-music-playlists)<!-- TECH-POSTS:END -->
 
 ---
 
