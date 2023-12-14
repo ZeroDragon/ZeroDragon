@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a blob storage container with anonymous read access.](https://dev.to/ulomaekpe/creating-a-blob-storage-container-with-anonymous-read-access-m5a)
+- [Dev.to/JS] [Web scraping with jsdom](https://dev.to/zsevic/web-scraping-with-jsdom-1c3g)
+- [Dev.to/JS] [Form Validation with Zod and Prismane](https://dev.to/prismaneui/form-validation-with-zod-and-prismane-9og)
+- [Dev.to/JS] [Normalizing or interpolating values in JavaScript/TypeScript](https://dev.to/pgarciacamou/normalizing-values-in-typescript-3dcf)
+- [Lifehacker] [How Long an AirTag’s Battery Lasts &lpar;and How to Change It&rpar;](https://lifehacker.com/tech/how-long-an-airtag-battery-lasts)
 - [Dev.to/JS] [How to use cURL in Javascript &lpar;and its alternative&rpar;](https://dev.to/serpapi/how-to-use-curl-in-javascript-and-its-alternative-9j)
 - [Lifehacker] [Never Use Homeopathic Eye Drops, FDA Warns](https://lifehacker.com/health/never-use-homeopathic-eyedrops-fda-warns)
 - [Lifehacker] [Why You Should Always Attend Your Home Inspection](https://lifehacker.com/money/why-you-should-attend-your-home-inspection)
@@ -39,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Conclusion: Navigating Development Challenges](https://dev.to/vishnudas2003/conclusion-navigating-development-challenges-4nk)
 - [Lifehacker] [How to Reset Your Google Home Mini Before You Sell It](https://lifehacker.com/tech/how-to-factory-reset-google-home-mini)
 - [Dev.to/JS] [Own API with NodeJS and Express](https://dev.to/disane/own-api-with-nodejs-and-express-5d44)
-- [Dev.to/JS] [Progress: Implementation and Challenges](https://dev.to/vishnudas2003/progress-implementation-and-challenges-1o26)
 - [Lifehacker] [When You Have to Use an Insurance Check for Repairs &lpar;and When You Can Keep It&rpar;](https://lifehacker.com/money/when-you-can-cash-an-insurance-check)
-- [Dev.to/JS] [Planning: Creating NavBar #2](https://dev.to/vishnudas2003/planning-creating-navbar-2-330e)
 - [Lifehacker] [These Are All the New Features in watchOS 10.2](https://lifehacker.com/tech/new-features-apple-watch-watchos-102)
-- [Dev.to/JS] [Refactor a React Component from 165 Lines to 30 Lines](https://dev.to/mohammadfaisal/refactor-a-react-component-from-165-lines-to-30-lines-1392)
-- [Dev.to/JS] [How to get good at competitive programming](https://dev.to/codewithshahan/how-to-get-good-at-competitive-programming-1dm7)
 - [Lifehacker] [The Best Gifts for Kids Who Love to Read &lpar;That Aren’t Books&rpar;](https://lifehacker.com/family/best-gifts-for-young-readers)
 - [Lifehacker] [Here&#39;s When Fixing Your Dryer Makes More Sense](https://lifehacker.com/home/when-to-fix-a-dryer-and-when-to-replace)
 - [Lifehacker] [You Can Finally Disable Read Receipts on Facebook Messenger](https://lifehacker.com/tech/you-can-finally-disable-read-receipts-facebook-messenger)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Even Snapchat Has an AI Image Generator Now](https://lifehacker.com/tech/snapchat-ai-image-generator)
 - [Lifehacker] [The Best Gifts for Neat Freaks, According to TikTok](https://lifehacker.com/home/tiktok-approved-gifts-for-neat-freaks)
 - [Lifehacker] [These Robot Vacuums Are Over 50% Off for Christmas](https://lifehacker.com/home/robot-vacuums-gift-guide)
-- [Lifehacker] [The Biggest Scams to Avoid This Holiday Season](https://lifehacker.com/tech/biggest-online-scams-holiday-season)
-- [Lifehacker] [You Can Get SimpliSafe&#39;s Home Security System for 50% Off Right Now](https://lifehacker.com/tech/simplisafe-home-security-system-50-percent-off-deal50-off)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Biggest Scams to Avoid This Holiday Season](https://lifehacker.com/tech/biggest-online-scams-holiday-season)<!-- TECH-POSTS:END -->
 
 ---
 
