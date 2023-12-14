@@ -26,10 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the Power of JavaScript Speech Synthesis! 🚀🔊](https://dev.to/punitsonime/unleashing-the-power-of-javascript-speech-synthesis-516m)
+- [Dev.to/JS] [💻 Web Development Resources #178](https://dev.to/vincenius/web-development-resources-178-2ghn)
+- [Dev.to/JS] [Middleware&#39;s in NodeJS](https://dev.to/tanmaycode/middlewares-in-nodejs-4h2c)
+- [Dev.to/JS] [Integrating multiple adapters in QwikJS](https://dev.to/papercrane/integrating-multiple-adapters-in-qwikjs-5hc4)
 - [Dev.to/JS] [Building A Serverless React App With AWS Lambda And API Gateway](https://dev.to/tracy4code/building-a-serverless-react-app-with-aws-lambda-and-api-gateway-28b6)
 - [Dev.to/JS] [Contributing to a JavaScript project!](https://dev.to/katiel/contributing-to-a-javascript-project-6n)
 - [Dev.to/JS] [Javascript callbacks](https://dev.to/adarsh04/javascript-callbacks-1a93)
 - [Dev.to/JS] [Using ChatGPT To Translate React App into Over 40 Languages in Just 100 Seconds](https://dev.to/idurar/using-chatgpt-to-translate-react-app-into-over-40-languages-in-just-100-seconds-1c8n)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/nyt-connctions-answer-today-december-14-2023)
 - [Dev.to/JS] [Writing Scalable Code for Self-Taught Developers](https://dev.to/erickson24/writing-scalable-code-in-javascript-inn)
 - [Dev.to/JS] [A line of strange code that solves the issue of invalid transition animations!](https://dev.to/wangliwen/a-line-of-strange-code-that-solves-the-issue-of-invalid-transition-animations-4j0)
@@ -37,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Venciendo al Impostor: Cómo este Síndrome Puede Limitar tu Crecimiento en el Desarrollo de Software](https://dev.to/javascriptchile/venciendo-al-impostor-como-este-sindrome-puede-limitar-tu-crecimiento-en-el-desarrollo-de-software-55in)
 - [Lifehacker] [Why You Shouldn’t Buy a USB-C Charging Case for Your AirPods Pro](https://lifehacker.com/tech/you-can-now-buy-the-airpods-pro-2-usb-c-charging-case-but-it-isnt-really)
 - [Lifehacker] [The Best Nintendo Switch Game Deals You Can Still Get in Time for Christmas](https://lifehacker.com/entertainment/the-best-nintendo-switch-game-deals-shipping-for-christmas)
-- [Dev.to/JS] [Creating a blob storage container with anonymous read access.](https://dev.to/ulomaekpe/creating-a-blob-storage-container-with-anonymous-read-access-m5a)
 - [Lifehacker] [The Best Tech Stocking Stuffers for Under $150](https://lifehacker.com/tech/best-tech-stocking-stuffer-deals)
-- [Dev.to/JS] [Web scraping with jsdom](https://dev.to/zsevic/web-scraping-with-jsdom-1c3g)
-- [Dev.to/JS] [Form Validation with Zod and Prismane](https://dev.to/prismaneui/form-validation-with-zod-and-prismane-9og)
-- [Dev.to/JS] [Normalizing or interpolating values in JavaScript/TypeScript](https://dev.to/pgarciacamou/normalizing-values-in-typescript-3dcf)
 - [Lifehacker] [Take These Three Steps After a Bad Performance Review at Work](https://lifehacker.com/work/what-to-do-after-bad-work-review)
 - [Lifehacker] [You&#39;re Going to Want to Use Apple&#39;s New Stolen Device Protection Feature](https://lifehacker.com/tech/apples-new-stolen-device-protection-feature-ios-17-3)
 - [Lifehacker] [How Long an AirTag’s Battery Lasts &lpar;and How to Change It&rpar;](https://lifehacker.com/tech/how-long-an-airtag-battery-lasts)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Meater 2 Wireless Thermometer Could Use a Signal Boost](https://lifehacker.com/tech/meater-2-wireless-thermometer-review)
 - [Lifehacker] [Your Hairbrush Is Grosser Than You Realize](https://lifehacker.com/health/how-to-clean-hairbrush)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-13-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)
-- [Lifehacker] [How Much You Need to Read for Kindle Unlimited to be Worth the Cost](https://lifehacker.com/tech/how-much-does-kindle-unlimited-cost-and-is-it-worth-it)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 13, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-13-2023)<!-- TECH-POSTS:END -->
 
 ---
 
