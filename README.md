@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automating the creation of Shopify stores with Xata](https://dev.to/xata/automating-the-creation-of-shopify-stores-with-xata-ojl)
+- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #9](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-9-5gd6)
+- [Dev.to/JS] [Momentum](https://dev.to/fakelaboratory/momentum-2a1j)
+- [Dev.to/JS] [Mastering Conditional Statements, Loops, and FizzBuzz in JavaScript](https://dev.to/chinwendufausty/mastering-conditional-statements-loops-and-fizzbuzz-in-javascript-15je)
+- [Dev.to/JS] [AdventJS, JavaScript/TypeScript challenges for Xmas 🎅](https://dev.to/midudev/adventjs-javascripttypescript-challenges-for-xmas-2cbd)
 - [Dev.to/JS] [Moonly weekly progress update #69 - Karamendos WL Flow is in production](https://dev.to/moonly/moonly-weekly-progress-update-69-karamendos-wl-flow-is-in-production-4on4)
 - [Dev.to/JS] [There&#39;s no magic under the hood](https://dev.to/andi23rosca/theres-no-magic-under-the-hood-3o9f)
 - [Dev.to/JS] [Healthy Visions CBD Male Booster Gummies - Surge In Sex Drive &amp; Energy](https://dev.to/healthyvisionscbdgummies/healthy-visions-cbd-male-booster-gummies-surge-in-sex-drive-energy-226i)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Empowering Users with VerifindPro&#39;s Location Precision](https://dev.to/janetjane/empowering-users-with-verifindpros-location-precision-2m06)
 - [Dev.to/JS] [My First Video on YouTube](https://dev.to/codify/my-first-video-on-youtube-3i9m)
 - [Dev.to/JS] [vigorblog](https://dev.to/jhonclay786/vigorblog-27f6)
-- [Dev.to/JS] [React Rookie to Rockstar: My 10x Proficiency Hack &lpar;You Won&#39;t Believe #5!&rpar;](https://dev.to/dr_anks/react-rookie-to-rockstar-my-10x-proficiency-hack-you-wont-believe-5-2p6)
-- [Dev.to/JS] [Flutter Development: Best Flutter Application Tools 2024](https://dev.to/sparkouttech/flutter-development-best-flutter-application-tools-2024-11hb)
-- [Dev.to/JS] [10 Essential Skills to Look for When Hiring a JavaScript Developer](https://dev.to/insidetechno/10-essential-skills-to-look-for-when-hiring-a-javascript-developer-3f0i)
-- [Dev.to/JS] [Why Naming in Development is Important](https://dev.to/vlad_sha/why-naming-in-development-is-important-6ne)
-- [Dev.to/JS] [Day 10 - 30 Days learn Web Dev](https://dev.to/johnc/day-10-30-days-learn-web-dev-4c9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/nyt-connctions-answer-today-december-14-2023)
 - [Lifehacker] [Why You Shouldn’t Buy a USB-C Charging Case for Your AirPods Pro](https://lifehacker.com/tech/you-can-now-buy-the-airpods-pro-2-usb-c-charging-case-but-it-isnt-really)
