@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Essential Concepts Every Developer Should Know 🚀](https://dev.to/baransel/10-essential-concepts-every-developer-should-know-5d3k)
+- [Dev.to/JS] [Why React Native? Your Gateway to Cross-Platform Mobile App Dev Success](https://dev.to/a4arpon/why-react-native-your-gateway-to-cross-platform-mobile-app-dev-success-21nn)
 - [Dev.to/JS] [RETRIEVE LOST CRYPTO CURRENCY FROM FRAUDSTER](https://dev.to/debrarichard7688/retrieve-lost-crypto-currency-from-fraudster-47li)
 - [Dev.to/JS] [Gradually upgrading a Meteor.js project to 3.0](https://dev.to/meteor/gradually-upgrading-a-meteorjs-project-to-30-5aj0)
 - [Dev.to/JS] [&quot;Enhance Your CapCut Videos: A Guide to Adding Personal Music&quot;](https://dev.to/zephyrzealot/enhance-your-capcut-videos-a-guide-to-adding-personal-music-pl1)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pure Harmony CBD Gummies – &lpar;Scam or Legit&rpar; Does This Gummies Really Work?](https://dev.to/kelanieyoung/pure-harmony-cbd-gummies-scam-or-legit-does-this-gummies-really-work-2p75)
 - [Dev.to/JS] [Setup Docker Development for Frontend](https://dev.to/akbarnafisa/setup-docker-development-for-frontend-bj6)
 - [Dev.to/JS] [Create responsive navbar with React and Tailwind using the same markdown](https://dev.to/isaacdyor/create-responsive-navbar-with-react-and-tailwind-using-the-same-markdown-5b1i)
-- [Dev.to/JS] [Navigating JSON &lpar;JavaScript Object Notation&rpar;: Serialization and Parsing](https://dev.to/outstandingvick/navigating-json-javascript-object-notation-serialization-and-parsing-2pmf)
-- [Dev.to/JS] [The &quot;well-known&quot; Symbols in JavaScript](https://dev.to/siddharthshyniben/the-well-known-symbols-in-javascript-1a7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
 - [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
