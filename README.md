@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create responsive navbar with React and Tailwind using the same markdown](https://dev.to/isaacdyor/create-responsive-navbar-with-react-and-tailwind-using-the-same-markdown-5b1i)
+- [Dev.to/JS] [Navigating JSON &lpar;JavaScript Object Notation&rpar;: Serialization and Parsing](https://dev.to/outstandingvick/navigating-json-javascript-object-notation-serialization-and-parsing-2pmf)
+- [Dev.to/JS] [The &quot;well-known&quot; Symbols in JavaScript](https://dev.to/siddharthshyniben/the-well-known-symbols-in-javascript-1a7)
 - [Dev.to/JS] [Realistic Day In The Life Freelance Web Developer](https://dev.to/brendamichellle/realistic-day-in-the-life-freelance-web-developer-30m4)
 - [Dev.to/JS] [Building Timeless JavaScript Projects: Ensuring Consistency in Dependencies and Versions](https://dev.to/artberri/building-timeless-javascript-projects-ensuring-consistency-in-dependencies-and-versions-4o8l)
 - [Dev.to/JS] [Mirror a text area for improving user experience](https://dev.to/phuocng/mirror-a-text-area-for-improving-user-experience-5e40)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 11](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-11-1f3d)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
-- [Dev.to/JS] [Data Structures and Algorithms: Queues](https://dev.to/faraib/data-structures-and-algorithms-queues-1p3f)
 - [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
-- [Dev.to/JS] [toSorted&lpar;&rpar; vs sort&lpar;&rpar;](https://dev.to/mailtodanish/tosorted-vs-sort-898)
 - [Lifehacker] [This AI Tax Assistant Actually Seems Pretty Useful](https://lifehacker.com/money/hr-blocks-new-ai-chatbot-tax-assistant)
-- [Dev.to/JS] [JavaScript Tricks: Device Fingerprint](https://dev.to/wangliwen/javascript-tricks-device-fingerprint-34l3)
 - [Lifehacker] [Epic’s Got a Great Sale on &#39;Alan Wake 2,&#39; One of the Best Games of the Year](https://lifehacker.com/entertainment/alan-wake-2-alan-wake-remastered-sale)
 - [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)
 - [Lifehacker] [What to Do If Your Car Is Overheating, According to Mechanics](https://lifehacker.com/travel/what-to-do-if-your-car-is-overheating-according-to-a-mechanic)
