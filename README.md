@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Build a SPA Framework - Part 1](https://dev.to/f1lt3r/build-a-spa-framework-1-4jld)
+- [Dev.to/JS] [Building Timeless JavaScript Projects: Ensuring Consistency in Dependencies and Versions](https://dev.to/artberri/building-timeless-javascript-projects-ensuring-consistency-in-dependencies-and-versions-4o8l)
+- [Dev.to/JS] [Mirror a text area for improving user experience](https://dev.to/phuocng/mirror-a-text-area-for-improving-user-experience-5e40)
+- [Dev.to/JS] [Web Developer Roadmap 2024 | Step-By-Step Guide](https://dev.to/jeffchavez_dev/web-developer-roadmap-2024-step-by-step-guide-2koh)
+- [Dev.to/JS] [Mirror a text area](https://dev.to/phuocng/enhancing-user-experience-through-text-area-mirroring-5f87)
+- [Dev.to/JS] [Applications of JavaScript](https://dev.to/techno-101/applications-of-javascript-30ol)
+- [Dev.to/JS] [Understanding Synchronous vs Asynchronous Execution and Blocking vs Non-Blocking Operations](https://dev.to/function12_io/understanding-synchronous-vs-asynchronous-execution-and-blocking-vs-non-blocking-operations-3k39)
+- [Dev.to/JS] [Make SPA Framework: Part 1](https://dev.to/f1lt3r/build-a-spa-framework-1-4jld)
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 11](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-11-1f3d)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
 - [Dev.to/JS] [Data Structures and Algorithms: Queues](https://dev.to/faraib/data-structures-and-algorithms-queues-1p3f)
 - [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
@@ -38,19 +45,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Epic’s Got a Great Sale on &#39;Alan Wake 2,&#39; One of the Best Games of the Year](https://lifehacker.com/entertainment/alan-wake-2-alan-wake-remastered-sale)
 - [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)
 - [Lifehacker] [What to Do If Your Car Is Overheating, According to Mechanics](https://lifehacker.com/travel/what-to-do-if-your-car-is-overheating-according-to-a-mechanic)
-- [Dev.to/JS] [Create and configure a file with a directory.](https://dev.to/ulomaekpe/create-and-configure-a-file-with-a-directory-3cn9)
 - [Lifehacker] [Banishing Instagram Bots Is About to Get Much Easier](https://lifehacker.com/tech/new-instagram-bot-spam-moderation-tools)
 - [Lifehacker] [Five Ways to Conserve Fuel When You’re Running on Empty](https://lifehacker.com/travel/how-to-conserve-fuel-while-driving-on-empty)
-- [Dev.to/JS] [🤫 Secret JavaScript Methods They Don&#39;t Want You To See &lpar;part 3&rpar;: Promise.allSettled&lpar;&rpar;](https://dev.to/magnificode/secret-javascript-methods-they-dont-want-you-to-see-part-3-promiseallsettled-2286)
 - [Lifehacker] [Every Browser Should Have Opera GX’s New ‘Panic Button’](https://lifehacker.com/tech/opera-gxs-panic-button)
 - [Lifehacker] [No, Light-Emitting Headphones Won’t Cure Your Seasonal Depression](https://lifehacker.com/health/will-light-emitting-headphones-cure-your-seasonal-depression)
-- [Dev.to/JS] [Celebrating Small Achievements: The Key to Sustained Motivation in Your Development Projects](https://dev.to/marmariadev/celebrating-small-achievements-the-key-to-sustained-motivation-in-your-development-projects-2h45)
-- [Dev.to/JS] [When to use an Astro component over a Web Component.](https://dev.to/reggi/when-to-use-an-astro-component-over-a-web-component-2bn6)
 - [Lifehacker] [What to Do on Christmas When You Don&#39;t Celebrate](https://lifehacker.com/what-to-do-on-christmas-when-you-dont-celebrate)
-- [Dev.to/JS] [Create a storage account and backup the public website.](https://dev.to/ulomaekpe/create-a-storage-account-and-backup-the-public-website-38m7)
 - [Lifehacker] [How to Search Pinterest Without Being Badgered to Log In](https://lifehacker.com/tech/how-to-search-pinterest-without-an-account)
 - [Lifehacker] [All the Times You Should be Using a Cashier’s Check &lpar;but Aren’t&rpar;](https://lifehacker.com/money/when-you-should-use-cashiers-checks)
-- [Dev.to/JS] [Preloading images with Astro](https://dev.to/nguyen/preloading-images-with-astro-535n)
 - [Lifehacker] [‘Marinating’ a Diet Coke in the Fridge Is Not a Thing](https://lifehacker.com/food-drink/marinate-diet-coke-tiktok-trend)
 - [Lifehacker] [Apple Now Requires a Court Order to Hand Over Your Push Notification Info](https://lifehacker.com/tech/apple-now-requires-a-court-order-to-release-your-push-notification-info)
 - [Lifehacker] [Three Ways to Back Up Your iPhone](https://lifehacker.com/tech/how-to-back-up-iphone)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;War on Christmas&#39;](https://lifehacker.com/entertainment/war-on-christmas)
 - [Lifehacker] [Christmas Morning Is Better With Cookie Dough Pancakes](https://lifehacker.com/food-drink/cookie-dough-pancake-recipe)
 - [Lifehacker] [You Can Now Play Xbox Game Pass on Your Meta Quest Headset](https://lifehacker.com/tech/xbox-game-pass-ultimate-on-meta-quest-headset)
-- [Lifehacker] [The Right Way to Use Tinder for a Hometown Holiday Hookup](https://lifehacker.com/relationships/the-best-dating-app-for-a-holiday-hookup)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Way to Use Tinder for a Hometown Holiday Hookup](https://lifehacker.com/relationships/the-best-dating-app-for-a-holiday-hookup)<!-- TECH-POSTS:END -->
 
 ---
 
