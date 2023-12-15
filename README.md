@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fusor vs React](https://dev.to/isumix/fusor-vs-react-3f58)
+- [Dev.to/JS] [Unlocking the Power of JavaScript: A Versatile Language for Modern Development](https://dev.to/lahcenassmira/unlocking-the-power-of-javascript-a-versatile-language-for-modern-development-1b13)
+- [Dev.to/JS] [AREON](https://dev.to/prosen_qq/areon-1f8h)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/wjuies481/buy-google-5-star-reviews-3e3o)
+- [Dev.to/JS] [5 React / JS ⚛️ Libraries To Integrate ChatGPT Into Your Web App](https://dev.to/salmenus/5-react-js-libraries-to-integrate-chatgpt-into-your-web-app-24e7)
 - [Dev.to/JS] [Collecting data for Gamedev.js Survey 2023](https://dev.to/end3r/collecting-data-for-gamedevjs-survey-2023-ppd)
+- [Lifehacker] [How to Choose &lpar;and Install&rpar; the Right Ring Doorbell for You](https://lifehacker.com/tech/how-to-install-ring-doorbell)
+- [Lifehacker] [Forget Roasting: Air Fry Your Chestnuts](https://lifehacker.com/food-drink/how-to-air-fry-chestnuts)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #10](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-10-5gl5)
 - [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-your-macbook)
 - [Dev.to/JS] [Programación 3D con JavaScript - parte 2](https://dev.to/javascriptchile/programacion-3d-con-javascript-parte-2-1jj8)
@@ -36,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Imperfect Code, Perfect Mission: A Non-Coder&#39;s Accidental Journey for a Safer Web](https://dev.to/webverts/imperfect-code-perfect-mission-a-non-coders-accidental-journey-for-a-safer-web-4lap)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s &#39;Name a Woman&#39; Challenge](https://lifehacker.com/entertainment/the-out-of-touch-guide-to-kid-culture-tiktok-name-a-woman)
 - [Dev.to/JS] [10 Essential Concepts Every Developer Should Know 🚀](https://dev.to/baransel/10-essential-concepts-every-developer-should-know-5d3k)
-- [Dev.to/JS] [Why React Native? Your Gateway to Cross-Platform Mobile App Dev Success](https://dev.to/a4arpon/why-react-native-your-gateway-to-cross-platform-mobile-app-dev-success-21nn)
 - [Lifehacker] [Strategically Schedule Your PTO to Get 10 Long Weekends in 2024](https://lifehacker.com/work/best-strategy-for-scheduling-pto)
-- [Dev.to/JS] [RETRIEVE LOST CRYPTO CURRENCY FROM FRAUDSTER](https://dev.to/debrarichard7688/retrieve-lost-crypto-currency-from-fraudster-47li)
-- [Dev.to/JS] [Gradually upgrading a Meteor.js project to 3.0](https://dev.to/meteor/gradually-upgrading-a-meteorjs-project-to-30-5aj0)
-- [Dev.to/JS] [&quot;Enhance Your CapCut Videos: A Guide to Adding Personal Music&quot;](https://dev.to/zephyrzealot/enhance-your-capcut-videos-a-guide-to-adding-personal-music-pl1)
-- [Dev.to/JS] [Building the Play Button](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-the-play-button-4of2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
 - [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Quick Eggnog With Ice Cream](https://lifehacker.com/food-drink/quick-eggnog-recipe)
 - [Lifehacker] [You Can Now Pin Messages in WhatsApp Group Chats](https://lifehacker.com/tech/how-to-pin-messages-in-whatsapp-group-chats)
 - [Lifehacker] [The Best Gifts Any Dog Owner Will Love](https://lifehacker.com/family/gifts-for-dog-owners)
-- [Lifehacker] [How to Recycle Every Type of Material Left Over From Your DIY Projects](https://lifehacker.com/home/how-to-recycle-diy-project-scraps)
-- [Lifehacker] [What&#39;s New on Netflix in January 2024](https://lifehacker.com/entertainment/netflix-january-2024)
-- [Lifehacker] [The Apple Watch Ultra 2 Just Hit Its Lowest Price Yet](https://lifehacker.com/tech/apple-watch-ultra-2-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Recycle Every Type of Material Left Over From Your DIY Projects](https://lifehacker.com/home/how-to-recycle-diy-project-scraps)<!-- TECH-POSTS:END -->
 
 ---
 
