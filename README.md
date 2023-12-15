@@ -26,9 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Build a SPA Framework #1](https://dev.to/f1lt3r/build-a-spa-framework-1-4jld)
+- [Dev.to/JS] [Build a SPA Framework - Part 1](https://dev.to/f1lt3r/build-a-spa-framework-1-4jld)
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 11](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-11-1f3d)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
 - [Dev.to/JS] [Data Structures and Algorithms: Queues](https://dev.to/faraib/data-structures-and-algorithms-queues-1p3f)
 - [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
@@ -65,7 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: The &#39;War on Christmas&#39;](https://lifehacker.com/entertainment/war-on-christmas)
 - [Lifehacker] [Christmas Morning Is Better With Cookie Dough Pancakes](https://lifehacker.com/food-drink/cookie-dough-pancake-recipe)
 - [Lifehacker] [You Can Now Play Xbox Game Pass on Your Meta Quest Headset](https://lifehacker.com/tech/xbox-game-pass-ultimate-on-meta-quest-headset)
-- [Lifehacker] [The Right Way to Use Tinder for a Hometown Holiday Hookup](https://lifehacker.com/relationships/the-best-dating-app-for-a-holiday-hookup)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Way to Use Tinder for a Hometown Holiday Hookup](https://lifehacker.com/relationships/the-best-dating-app-for-a-holiday-hookup)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)<!-- TECH-POSTS:END -->
 
 ---
 
