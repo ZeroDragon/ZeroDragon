@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Structures and Algorithms: Queues](https://dev.to/faraib/data-structures-and-algorithms-queues-1p3f)
 - [Dev.to/JS] [toSorted&lpar;&rpar; vs sort&lpar;&rpar;](https://dev.to/mailtodanish/tosorted-vs-sort-898)
 - [Dev.to/JS] [JavaScript Tricks: Device Fingerprint](https://dev.to/wangliwen/javascript-tricks-device-fingerprint-34l3)
 - [Dev.to/JS] [Protecting your files against accidental deletion](https://dev.to/ulomaekpe/protecting-your-files-against-accidental-deletion-5hp)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Preloading images with Astro](https://dev.to/nguyen/preloading-images-with-astro-535n)
 - [Dev.to/JS] [Express.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/expressjs-adoption-guide-overview-examples-and-alternatives-3605)
 - [Dev.to/JS] [Buffers in Node.js](https://dev.to/m__mdy__m/buffers-in-nodejs-1fh2)
-- [Dev.to/JS] [Streamline CMS Development with Angular By Integrating Froala WYSIWYG HTML Editor](https://dev.to/ideradevtools/streamline-cms-development-with-angular-by-integrating-froala-wysiwyg-html-editor-1p4m)
 - [Lifehacker] [‘Marinating’ a Diet Coke in the Fridge Is Not a Thing](https://lifehacker.com/food-drink/marinate-diet-coke-tiktok-trend)
 - [Lifehacker] [Apple Now Requires a Court Order to Hand Over Your Push Notification Info](https://lifehacker.com/tech/apple-now-requires-a-court-order-to-release-your-push-notification-info)
 - [Lifehacker] [Three Ways to Back Up Your iPhone](https://lifehacker.com/tech/how-to-back-up-iphone)
