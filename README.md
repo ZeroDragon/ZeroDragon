@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multithreading: Event Loops vs Thread Pools and more...](https://dev.to/lovepreetsingh/multithreading-event-loops-vs-thread-pools-and-more-48di)
+- [Dev.to/JS] [Pure Harmony CBD Gummies – &lpar;Scam or Legit&rpar; Does This Gummies Really Work?](https://dev.to/kelanieyoung/pure-harmony-cbd-gummies-scam-or-legit-does-this-gummies-really-work-2p75)
+- [Dev.to/JS] [Setup Docker Development for Frontend](https://dev.to/akbarnafisa/setup-docker-development-for-frontend-bj6)
 - [Dev.to/JS] [Create responsive navbar with React and Tailwind using the same markdown](https://dev.to/isaacdyor/create-responsive-navbar-with-react-and-tailwind-using-the-same-markdown-5b1i)
 - [Dev.to/JS] [Navigating JSON &lpar;JavaScript Object Notation&rpar;: Serialization and Parsing](https://dev.to/outstandingvick/navigating-json-javascript-object-notation-serialization-and-parsing-2pmf)
 - [Dev.to/JS] [The &quot;well-known&quot; Symbols in JavaScript](https://dev.to/siddharthshyniben/the-well-known-symbols-in-javascript-1a7)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Developer Roadmap 2024 | Step-By-Step Guide](https://dev.to/jeffchavez_dev/web-developer-roadmap-2024-step-by-step-guide-2koh)
 - [Dev.to/JS] [Mirror a text area](https://dev.to/phuocng/enhancing-user-experience-through-text-area-mirroring-5f87)
 - [Dev.to/JS] [Applications of JavaScript](https://dev.to/techno-101/applications-of-javascript-30ol)
-- [Dev.to/JS] [Understanding Synchronous vs Asynchronous Execution and Blocking vs Non-Blocking Operations](https://dev.to/function12_io/understanding-synchronous-vs-asynchronous-execution-and-blocking-vs-non-blocking-operations-3k39)
-- [Dev.to/JS] [Make SPA Framework: Part 1](https://dev.to/f1lt3r/build-a-spa-framework-1-4jld)
-- [Dev.to/JS] [AdventJS 2023: Reto del Día 11](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-11-1f3d)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
 - [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
