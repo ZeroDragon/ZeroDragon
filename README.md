@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Hidden Gems in JavaScript Every Developer Should Know! 🌟](https://dev.to/swamithedev/10-hidden-gems-in-javascript-every-developer-should-know-npc)
+- [Dev.to/JS] [Tutoriais animados com Driverjs&lpar;com vídeo 🎥 &rpar;](https://dev.to/patrickmonteiro/tutoriais-animados-com-driverjscom-video--2dm6)
+- [Dev.to/JS] [JavaScript&#39;de Math Nesnesi Kavramı](https://dev.to/eminaltan/javascriptde-math-nesnesi-kavrami-5b21)
+- [Dev.to/JS] [&quot;Mastering JavaScript: 8 Easy Shortcuts for Awesome Code!&quot;](https://dev.to/big_smoke/mastering-javascript-8-easy-shortcuts-for-awesome-code-3m8j)
 - [Dev.to/JS] [Fusor vs React](https://dev.to/isumix/fusor-vs-react-3f58)
 - [Dev.to/JS] [Unlocking the Power of JavaScript: A Versatile Language for Modern Development](https://dev.to/lahcenassmira/unlocking-the-power-of-javascript-a-versatile-language-for-modern-development-1b13)
 - [Dev.to/JS] [AREON](https://dev.to/prosen_qq/areon-1f8h)
@@ -37,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #10](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-10-5gl5)
 - [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-your-macbook)
 - [Dev.to/JS] [Programación 3D con JavaScript - parte 2](https://dev.to/javascriptchile/programacion-3d-con-javascript-parte-2-1jj8)
-- [Dev.to/JS] [Coding task: implement mechanism that increments counter once 2 seconds](https://dev.to/webit/coding-task-implement-mechanism-that-increments-counter-once-2-seconds-2il4)
-- [Dev.to/JS] [Coding task: implement mechanism that increments counter once 2 seconds](https://dev.to/webit/coding-task-implement-mechanism-that-increments-counter-once-2-seconds-1ece)
 - [Lifehacker] [To Become Adventurous Learners, Kids Need Routine](https://lifehacker.com/family/help-kids-become-adventurous-learners)
-- [Dev.to/JS] [Imperfect Code, Perfect Mission: A Non-Coder&#39;s Accidental Journey for a Safer Web](https://dev.to/webverts/imperfect-code-perfect-mission-a-non-coders-accidental-journey-for-a-safer-web-4lap)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s &#39;Name a Woman&#39; Challenge](https://lifehacker.com/entertainment/the-out-of-touch-guide-to-kid-culture-tiktok-name-a-woman)
-- [Dev.to/JS] [10 Essential Concepts Every Developer Should Know 🚀](https://dev.to/baransel/10-essential-concepts-every-developer-should-know-5d3k)
 - [Lifehacker] [Strategically Schedule Your PTO to Get 10 Long Weekends in 2024](https://lifehacker.com/work/best-strategy-for-scheduling-pto)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
