@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [RETRIEVE LOST CRYPTO CURRENCY FROM FRAUDSTER](https://dev.to/debrarichard7688/retrieve-lost-crypto-currency-from-fraudster-47li)
+- [Dev.to/JS] [Gradually upgrading a Meteor.js project to 3.0](https://dev.to/meteor/gradually-upgrading-a-meteorjs-project-to-30-5aj0)
 - [Dev.to/JS] [&quot;Enhance Your CapCut Videos: A Guide to Adding Personal Music&quot;](https://dev.to/zephyrzealot/enhance-your-capcut-videos-a-guide-to-adding-personal-music-pl1)
 - [Dev.to/JS] [Building the Play Button](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-the-play-button-4of2)
 - [Dev.to/JS] [Elevate Your Site&#39;s UX: Pro Tips on Minimizing Cumulative Layout Shift](https://dev.to/focusreactive/elevate-your-sites-ux-pro-tips-on-minimizing-cumulative-layout-shift-2mnp)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create responsive navbar with React and Tailwind using the same markdown](https://dev.to/isaacdyor/create-responsive-navbar-with-react-and-tailwind-using-the-same-markdown-5b1i)
 - [Dev.to/JS] [Navigating JSON &lpar;JavaScript Object Notation&rpar;: Serialization and Parsing](https://dev.to/outstandingvick/navigating-json-javascript-object-notation-serialization-and-parsing-2pmf)
 - [Dev.to/JS] [The &quot;well-known&quot; Symbols in JavaScript](https://dev.to/siddharthshyniben/the-well-known-symbols-in-javascript-1a7)
-- [Dev.to/JS] [Realistic Day In The Life Freelance Web Developer](https://dev.to/brendamichellle/realistic-day-in-the-life-freelance-web-developer-30m4)
-- [Dev.to/JS] [Building Timeless JavaScript Projects: Ensuring Consistency in Dependencies and Versions](https://dev.to/artberri/building-timeless-javascript-projects-ensuring-consistency-in-dependencies-and-versions-4o8l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
 - [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
