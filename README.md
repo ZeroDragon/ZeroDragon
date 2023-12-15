@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Realistic Day In The Life Freelance Web Developer](https://dev.to/brendamichellle/realistic-day-in-the-life-freelance-web-developer-30m4)
 - [Dev.to/JS] [Building Timeless JavaScript Projects: Ensuring Consistency in Dependencies and Versions](https://dev.to/artberri/building-timeless-javascript-projects-ensuring-consistency-in-dependencies-and-versions-4o8l)
 - [Dev.to/JS] [Mirror a text area for improving user experience](https://dev.to/phuocng/mirror-a-text-area-for-improving-user-experience-5e40)
 - [Dev.to/JS] [Web Developer Roadmap 2024 | Step-By-Step Guide](https://dev.to/jeffchavez_dev/web-developer-roadmap-2024-step-by-step-guide-2koh)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [toSorted&lpar;&rpar; vs sort&lpar;&rpar;](https://dev.to/mailtodanish/tosorted-vs-sort-898)
 - [Lifehacker] [This AI Tax Assistant Actually Seems Pretty Useful](https://lifehacker.com/money/hr-blocks-new-ai-chatbot-tax-assistant)
 - [Dev.to/JS] [JavaScript Tricks: Device Fingerprint](https://dev.to/wangliwen/javascript-tricks-device-fingerprint-34l3)
-- [Dev.to/JS] [Protecting your files against accidental deletion](https://dev.to/ulomaekpe/protecting-your-files-against-accidental-deletion-5hp)
 - [Lifehacker] [Epic’s Got a Great Sale on &#39;Alan Wake 2,&#39; One of the Best Games of the Year](https://lifehacker.com/entertainment/alan-wake-2-alan-wake-remastered-sale)
 - [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)
 - [Lifehacker] [What to Do If Your Car Is Overheating, According to Mechanics](https://lifehacker.com/travel/what-to-do-if-your-car-is-overheating-according-to-a-mechanic)
