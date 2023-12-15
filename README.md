@@ -26,14 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Collecting data for Gamedev.js Survey 2023](https://dev.to/end3r/collecting-data-for-gamedevjs-survey-2023-ppd)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #10](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-10-5gl5)
+- [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-your-macbook)
 - [Dev.to/JS] [Programación 3D con JavaScript - parte 2](https://dev.to/javascriptchile/programacion-3d-con-javascript-parte-2-1jj8)
 - [Dev.to/JS] [Coding task: implement mechanism that increments counter once 2 seconds](https://dev.to/webit/coding-task-implement-mechanism-that-increments-counter-once-2-seconds-2il4)
 - [Dev.to/JS] [Coding task: implement mechanism that increments counter once 2 seconds](https://dev.to/webit/coding-task-implement-mechanism-that-increments-counter-once-2-seconds-1ece)
-- [Dev.to/JS] [Lightweight, portable and secure Wasm runtimes and their use cases.](https://dev.to/anfibiacreativa/lightweight-portable-and-secure-wasm-runtimes-and-their-use-cases-ama)
+- [Lifehacker] [To Become Adventurous Learners, Kids Need Routine](https://lifehacker.com/family/help-kids-become-adventurous-learners)
 - [Dev.to/JS] [Imperfect Code, Perfect Mission: A Non-Coder&#39;s Accidental Journey for a Safer Web](https://dev.to/webverts/imperfect-code-perfect-mission-a-non-coders-accidental-journey-for-a-safer-web-4lap)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s &#39;Name a Woman&#39; Challenge](https://lifehacker.com/entertainment/the-out-of-touch-guide-to-kid-culture-tiktok-name-a-woman)
 - [Dev.to/JS] [10 Essential Concepts Every Developer Should Know 🚀](https://dev.to/baransel/10-essential-concepts-every-developer-should-know-5d3k)
 - [Dev.to/JS] [Why React Native? Your Gateway to Cross-Platform Mobile App Dev Success](https://dev.to/a4arpon/why-react-native-your-gateway-to-cross-platform-mobile-app-dev-success-21nn)
+- [Lifehacker] [Strategically Schedule Your PTO to Get 10 Long Weekends in 2024](https://lifehacker.com/work/best-strategy-for-scheduling-pto)
 - [Dev.to/JS] [RETRIEVE LOST CRYPTO CURRENCY FROM FRAUDSTER](https://dev.to/debrarichard7688/retrieve-lost-crypto-currency-from-fraudster-47li)
 - [Dev.to/JS] [Gradually upgrading a Meteor.js project to 3.0](https://dev.to/meteor/gradually-upgrading-a-meteorjs-project-to-30-5aj0)
 - [Dev.to/JS] [&quot;Enhance Your CapCut Videos: A Guide to Adding Personal Music&quot;](https://dev.to/zephyrzealot/enhance-your-capcut-videos-a-guide-to-adding-personal-music-pl1)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Gifts Any Dog Owner Will Love](https://lifehacker.com/family/gifts-for-dog-owners)
 - [Lifehacker] [How to Recycle Every Type of Material Left Over From Your DIY Projects](https://lifehacker.com/home/how-to-recycle-diy-project-scraps)
 - [Lifehacker] [What&#39;s New on Netflix in January 2024](https://lifehacker.com/entertainment/netflix-january-2024)
-- [Lifehacker] [The Apple Watch Ultra 2 Just Hit Its Lowest Price Yet](https://lifehacker.com/tech/apple-watch-ultra-2-sale)
-- [Lifehacker] [What People Are Getting Wrong This Week: The &#39;War on Christmas&#39;](https://lifehacker.com/entertainment/war-on-christmas)
-- [Lifehacker] [Christmas Morning Is Better With Cookie Dough Pancakes](https://lifehacker.com/food-drink/cookie-dough-pancake-recipe)
-- [Lifehacker] [You Can Now Play Xbox Game Pass on Your Meta Quest Headset](https://lifehacker.com/tech/xbox-game-pass-ultimate-on-meta-quest-headset)
-- [Lifehacker] [The Right Way to Use Tinder for a Hometown Holiday Hookup](https://lifehacker.com/relationships/the-best-dating-app-for-a-holiday-hookup)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Apple Watch Ultra 2 Just Hit Its Lowest Price Yet](https://lifehacker.com/tech/apple-watch-ultra-2-sale)<!-- TECH-POSTS:END -->
 
 ---
 
