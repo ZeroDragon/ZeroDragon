@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevate Your Site&#39;s UX: Pro Tips on Minimizing Cumulative Layout Shift](https://dev.to/focusreactive/elevate-your-sites-ux-pro-tips-on-minimizing-cumulative-layout-shift-2mnp)
+- [Dev.to/JS] [🫵 5 achievable side hustles for developers💰](https://dev.to/quine/5-achievable-side-hustles-for-developers-4bcg)
+- [Dev.to/JS] [HTML, CSS, JavaScript: Building Your Own Music Player - A Mini Coding Project](https://dev.to/codingmadeeasy/html-css-javascript-building-your-own-music-player-a-mini-coding-project-onb)
 - [Dev.to/JS] [Multithreading: Event Loops vs Thread Pools and more...](https://dev.to/lovepreetsingh/multithreading-event-loops-vs-thread-pools-and-more-48di)
 - [Dev.to/JS] [Pure Harmony CBD Gummies – &lpar;Scam or Legit&rpar; Does This Gummies Really Work?](https://dev.to/kelanieyoung/pure-harmony-cbd-gummies-scam-or-legit-does-this-gummies-really-work-2p75)
 - [Dev.to/JS] [Setup Docker Development for Frontend](https://dev.to/akbarnafisa/setup-docker-development-for-frontend-bj6)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Realistic Day In The Life Freelance Web Developer](https://dev.to/brendamichellle/realistic-day-in-the-life-freelance-web-developer-30m4)
 - [Dev.to/JS] [Building Timeless JavaScript Projects: Ensuring Consistency in Dependencies and Versions](https://dev.to/artberri/building-timeless-javascript-projects-ensuring-consistency-in-dependencies-and-versions-4o8l)
 - [Dev.to/JS] [Mirror a text area for improving user experience](https://dev.to/phuocng/mirror-a-text-area-for-improving-user-experience-5e40)
-- [Dev.to/JS] [Web Developer Roadmap 2024 | Step-By-Step Guide](https://dev.to/jeffchavez_dev/web-developer-roadmap-2024-step-by-step-guide-2koh)
-- [Dev.to/JS] [Mirror a text area](https://dev.to/phuocng/enhancing-user-experience-through-text-area-mirroring-5f87)
-- [Dev.to/JS] [Applications of JavaScript](https://dev.to/techno-101/applications-of-javascript-30ol)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
 - [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
