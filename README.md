@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a SPA Framework #1](https://dev.to/f1lt3r/build-a-spa-framework-1-4jld)
 - [Dev.to/JS] [AdventJS 2023: Reto del Día 11](https://dev.to/fenriuz/adventjs-2023-reto-del-dia-11-1f3d)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
 - [Dev.to/JS] [Data Structures and Algorithms: Queues](https://dev.to/faraib/data-structures-and-algorithms-queues-1p3f)
+- [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
 - [Dev.to/JS] [toSorted&lpar;&rpar; vs sort&lpar;&rpar;](https://dev.to/mailtodanish/tosorted-vs-sort-898)
 - [Lifehacker] [This AI Tax Assistant Actually Seems Pretty Useful](https://lifehacker.com/money/hr-blocks-new-ai-chatbot-tax-assistant)
 - [Dev.to/JS] [JavaScript Tricks: Device Fingerprint](https://dev.to/wangliwen/javascript-tricks-device-fingerprint-34l3)
@@ -48,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Search Pinterest Without Being Badgered to Log In](https://lifehacker.com/tech/how-to-search-pinterest-without-an-account)
 - [Lifehacker] [All the Times You Should be Using a Cashier’s Check &lpar;but Aren’t&rpar;](https://lifehacker.com/money/when-you-should-use-cashiers-checks)
 - [Dev.to/JS] [Preloading images with Astro](https://dev.to/nguyen/preloading-images-with-astro-535n)
-- [Dev.to/JS] [Express.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/expressjs-adoption-guide-overview-examples-and-alternatives-3605)
 - [Lifehacker] [‘Marinating’ a Diet Coke in the Fridge Is Not a Thing](https://lifehacker.com/food-drink/marinate-diet-coke-tiktok-trend)
 - [Lifehacker] [Apple Now Requires a Court Order to Hand Over Your Push Notification Info](https://lifehacker.com/tech/apple-now-requires-a-court-order-to-release-your-push-notification-info)
 - [Lifehacker] [Three Ways to Back Up Your iPhone](https://lifehacker.com/tech/how-to-back-up-iphone)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Christmas Morning Is Better With Cookie Dough Pancakes](https://lifehacker.com/food-drink/cookie-dough-pancake-recipe)
 - [Lifehacker] [You Can Now Play Xbox Game Pass on Your Meta Quest Headset](https://lifehacker.com/tech/xbox-game-pass-ultimate-on-meta-quest-headset)
 - [Lifehacker] [The Right Way to Use Tinder for a Hometown Holiday Hookup](https://lifehacker.com/relationships/the-best-dating-app-for-a-holiday-hookup)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/nyt-connctions-answer-today-december-14-2023)
-- [Lifehacker] [Why You Shouldn’t Buy a USB-C Charging Case for Your AirPods Pro](https://lifehacker.com/tech/you-can-now-buy-the-airpods-pro-2-usb-c-charging-case-but-it-isnt-really)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)<!-- TECH-POSTS:END -->
 
 ---
 
