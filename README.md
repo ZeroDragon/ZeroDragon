@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don&#39;t Touch React JS Until You Know These JavaScript Things!](https://dev.to/itsahsanmangal/dont-touch-react-js-until-you-know-these-javascript-things-8kd)
+- [Dev.to/JS] [Custom Components with Prismane](https://dev.to/prismaneui/custom-components-with-prismane-5b67)
+- [Dev.to/JS] [Using the Native Contact Picker API](https://dev.to/marcusvirg/using-the-native-contact-picker-api-1al6)
 - [Dev.to/JS] [JSON.stringify replacer function](https://dev.to/aminnairi/jsonstringify-replacer-function-13g6)
 - [Dev.to/JS] [Announcing Mutative 1.0 - A New Era in Efficient Immutable Updates](https://dev.to/unadlib/announcing-mutative-10-a-new-era-in-efficient-immutable-updates-nml)
 - [Lifehacker] [These Are the Best Podcast Apps to Use in 2024](https://lifehacker.com/the-best-iphone-podcast-managers-for-2018-1830569398)
@@ -42,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fusor vs React](https://dev.to/isumix/fusor-vs-react-3f58)
 - [Dev.to/JS] [Unlocking the Power of JavaScript: A Versatile Language for Modern Development](https://dev.to/lahcenassmira/unlocking-the-power-of-javascript-a-versatile-language-for-modern-development-1b13)
 - [Lifehacker] [You Can Use Alexa to Call for Help in an Emergency](https://lifehacker.com/tech/how-to-use-alexa-in-an-emergency)
-- [Dev.to/JS] [AREON](https://dev.to/prosen_qq/areon-1f8h)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/wjuies481/buy-google-5-star-reviews-3e3o)
-- [Dev.to/JS] [5 React / JS ⚛️ Libraries To Integrate ChatGPT Into Your Web App](https://dev.to/salmenus/5-react-js-libraries-to-integrate-chatgpt-into-your-web-app-24e7)
 - [Lifehacker] [These Are the Best Gifts for College Students](https://lifehacker.com/family/best-gifts-for-college-students)
 - [Lifehacker] [How to Choose &lpar;and Install&rpar; the Right Ring Doorbell for You](https://lifehacker.com/tech/how-to-install-ring-doorbell)
 - [Lifehacker] [Forget Roasting: Air Fry Your Chestnuts](https://lifehacker.com/food-drink/how-to-air-fry-chestnuts)
