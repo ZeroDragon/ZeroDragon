@@ -26,12 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Networking and referrals](https://dev.to/danielroh17/networking-and-referrals-1oj)
 - [Dev.to/JS] [Don&#39;t Touch React JS Until You Know These JavaScript Things!](https://dev.to/itsahsanmangal/dont-touch-react-js-until-you-know-these-javascript-things-8kd)
 - [Dev.to/JS] [Custom Components with Prismane](https://dev.to/prismaneui/custom-components-with-prismane-5b67)
+- [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
 - [Dev.to/JS] [Using the Native Contact Picker API](https://dev.to/marcusvirg/using-the-native-contact-picker-api-1al6)
+- [Lifehacker] [Where to Get Free Vet Care for Your Cat or Dog](https://lifehacker.com/money/where-to-get-free-vet-care-for-your-cat-or-dog)
 - [Dev.to/JS] [JSON.stringify replacer function](https://dev.to/aminnairi/jsonstringify-replacer-function-13g6)
+- [Lifehacker] [How to Download Songs From Apple Music to Listen to Offline](https://lifehacker.com/tech/how-to-listen-to-apple-music-offline)
+- [Lifehacker] [These Are the Best Gifts for True Self-Care](https://lifehacker.com/health/the-best-gifts-for-self-care)
 - [Dev.to/JS] [Announcing Mutative 1.0 - A New Era in Efficient Immutable Updates](https://dev.to/unadlib/announcing-mutative-10-a-new-era-in-efficient-immutable-updates-nml)
-- [Lifehacker] [These Are the Best Podcast Apps to Use in 2024](https://lifehacker.com/the-best-iphone-podcast-managers-for-2018-1830569398)
+- [Lifehacker] [These Are the Best Podcast Apps to Use in 2024](https://lifehacker.com/the-best-podcast-apps-for-ios-android)
+- [Dev.to/JS] [The Best Front End Development Courses You Can Take in 2024 👨‍💻🏅](https://dev.to/brian_curricular/the-best-front-end-courses-you-can-take-in-2024-nd3)
 - [Lifehacker] [Where to Spend Your FSA/HSA Funds Before the End of the Year](https://lifehacker.com/money/where-to-spend-fsa-hsa-funds)
 - [Lifehacker] [How to Fit and Install Snow Chains](https://lifehacker.com/travel/how-to-fit-and-install-snow-chains)
 - [Dev.to/JS] [Mastering Chaos: de MVC a una Arquitectura Basada en el Dominio y con Enfoque en el Testing](https://dev.to/javascriptchile/mastering-chaos-de-mvc-a-una-arquitectura-basada-en-el-dominio-y-con-enfoque-en-el-testing-2ehj)
@@ -42,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript&#39;de Math Nesnesi Kavramı](https://dev.to/eminaltan/javascriptde-math-nesnesi-kavrami-5b21)
 - [Dev.to/JS] [&quot;Mastering JavaScript: 8 Easy Shortcuts for Awesome Code!&quot;](https://dev.to/big_smoke/mastering-javascript-8-easy-shortcuts-for-awesome-code-3m8j)
 - [Lifehacker] [How to Change Siri’s Accent or Language](https://lifehacker.com/tech/how-to-change-siris-accent-or-language)
-- [Dev.to/JS] [Fusor vs React](https://dev.to/isumix/fusor-vs-react-3f58)
-- [Dev.to/JS] [Unlocking the Power of JavaScript: A Versatile Language for Modern Development](https://dev.to/lahcenassmira/unlocking-the-power-of-javascript-a-versatile-language-for-modern-development-1b13)
 - [Lifehacker] [You Can Use Alexa to Call for Help in an Emergency](https://lifehacker.com/tech/how-to-use-alexa-in-an-emergency)
 - [Lifehacker] [These Are the Best Gifts for College Students](https://lifehacker.com/family/best-gifts-for-college-students)
 - [Lifehacker] [How to Choose &lpar;and Install&rpar; the Right Ring Doorbell for You](https://lifehacker.com/tech/how-to-install-ring-doorbell)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If Your Car Is Overheating, According to Mechanics](https://lifehacker.com/travel/what-to-do-if-your-car-is-overheating-according-to-a-mechanic)
 - [Lifehacker] [Banishing Instagram Bots Is About to Get Much Easier](https://lifehacker.com/tech/new-instagram-bot-spam-moderation-tools)
 - [Lifehacker] [Five Ways to Conserve Fuel When You’re Running on Empty](https://lifehacker.com/travel/how-to-conserve-fuel-while-driving-on-empty)
-- [Lifehacker] [Every Browser Should Have Opera GX’s New ‘Panic Button’](https://lifehacker.com/tech/opera-gxs-panic-button)
-- [Lifehacker] [No, Light-Emitting Headphones Won’t Cure Your Seasonal Depression](https://lifehacker.com/health/will-light-emitting-headphones-cure-your-seasonal-depression)
-- [Lifehacker] [What to Do on Christmas When You Don&#39;t Celebrate](https://lifehacker.com/what-to-do-on-christmas-when-you-dont-celebrate)
-- [Lifehacker] [How to Search Pinterest Without Being Badgered to Log In](https://lifehacker.com/tech/how-to-search-pinterest-without-an-account)
-- [Lifehacker] [All the Times You Should be Using a Cashier’s Check &lpar;but Aren’t&rpar;](https://lifehacker.com/money/when-you-should-use-cashiers-checks)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Every Browser Should Have Opera GX’s New ‘Panic Button’](https://lifehacker.com/tech/opera-gxs-panic-button)<!-- TECH-POSTS:END -->
 
 ---
 
