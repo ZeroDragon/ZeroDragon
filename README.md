@@ -26,12 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSON.stringify replacer function](https://dev.to/aminnairi/jsonstringify-replacer-function-13g6)
 - [Dev.to/JS] [Announcing Mutative 1.0 - A New Era in Efficient Immutable Updates](https://dev.to/unadlib/announcing-mutative-10-a-new-era-in-efficient-immutable-updates-nml)
+- [Lifehacker] [These Are the Best Podcast Apps to Use in 2024](https://lifehacker.com/the-best-iphone-podcast-managers-for-2018-1830569398)
+- [Lifehacker] [Where to Spend Your FSA/HSA Funds Before the End of the Year](https://lifehacker.com/money/where-to-spend-fsa-hsa-funds)
 - [Lifehacker] [How to Fit and Install Snow Chains](https://lifehacker.com/travel/how-to-fit-and-install-snow-chains)
 - [Dev.to/JS] [Mastering Chaos: de MVC a una Arquitectura Basada en el Dominio y con Enfoque en el Testing](https://dev.to/javascriptchile/mastering-chaos-de-mvc-a-una-arquitectura-basada-en-el-dominio-y-con-enfoque-en-el-testing-2ehj)
 - [Lifehacker] [How to Send Messages on Strava Without Giving Away Your Privacy](https://lifehacker.com/tech/how-to-send-messages-on-strava)
 - [Dev.to/JS] [10 Hidden Gems in JavaScript Every Developer Should Know! 🌟](https://dev.to/swamithedev/10-hidden-gems-in-javascript-every-developer-should-know-npc)
-- [Lifehacker] [28 Must-See 2024 Movies to Add to Your Watchlist](https://lifehacker.com/entertainment/the-biggest-movies-coming-in-2024)
+- [Lifehacker] [33 Must-See 2024 Movies to Add to Your Watchlist](https://lifehacker.com/entertainment/the-biggest-movies-coming-in-2024)
 - [Dev.to/JS] [Tutoriais animados com Driverjs&lpar;com vídeo 🎥 &rpar;](https://dev.to/patrickmonteiro/tutoriais-animados-com-driverjscom-video--2dm6)
 - [Dev.to/JS] [JavaScript&#39;de Math Nesnesi Kavramı](https://dev.to/eminaltan/javascriptde-math-nesnesi-kavrami-5b21)
 - [Dev.to/JS] [&quot;Mastering JavaScript: 8 Easy Shortcuts for Awesome Code!&quot;](https://dev.to/big_smoke/mastering-javascript-8-easy-shortcuts-for-awesome-code-3m8j)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/wjuies481/buy-google-5-star-reviews-3e3o)
 - [Dev.to/JS] [5 React / JS ⚛️ Libraries To Integrate ChatGPT Into Your Web App](https://dev.to/salmenus/5-react-js-libraries-to-integrate-chatgpt-into-your-web-app-24e7)
 - [Lifehacker] [These Are the Best Gifts for College Students](https://lifehacker.com/family/best-gifts-for-college-students)
-- [Dev.to/JS] [Collecting data for Gamedev.js Survey 2023](https://dev.to/end3r/collecting-data-for-gamedevjs-survey-2023-ppd)
 - [Lifehacker] [How to Choose &lpar;and Install&rpar; the Right Ring Doorbell for You](https://lifehacker.com/tech/how-to-install-ring-doorbell)
 - [Lifehacker] [Forget Roasting: Air Fry Your Chestnuts](https://lifehacker.com/food-drink/how-to-air-fry-chestnuts)
 - [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-your-macbook)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, Light-Emitting Headphones Won’t Cure Your Seasonal Depression](https://lifehacker.com/health/will-light-emitting-headphones-cure-your-seasonal-depression)
 - [Lifehacker] [What to Do on Christmas When You Don&#39;t Celebrate](https://lifehacker.com/what-to-do-on-christmas-when-you-dont-celebrate)
 - [Lifehacker] [How to Search Pinterest Without Being Badgered to Log In](https://lifehacker.com/tech/how-to-search-pinterest-without-an-account)
-- [Lifehacker] [All the Times You Should be Using a Cashier’s Check &lpar;but Aren’t&rpar;](https://lifehacker.com/money/when-you-should-use-cashiers-checks)
-- [Lifehacker] [‘Marinating’ a Diet Coke in the Fridge Is Not a Thing](https://lifehacker.com/food-drink/marinate-diet-coke-tiktok-trend)
-- [Lifehacker] [Apple Now Requires a Court Order to Hand Over Your Push Notification Info](https://lifehacker.com/tech/apple-now-requires-a-court-order-to-release-your-push-notification-info)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Times You Should be Using a Cashier’s Check &lpar;but Aren’t&rpar;](https://lifehacker.com/money/when-you-should-use-cashiers-checks)<!-- TECH-POSTS:END -->
 
 ---
 
