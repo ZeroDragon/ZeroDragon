@@ -26,11 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [toSorted&lpar;&rpar; vs sort&lpar;&rpar;](https://dev.to/mailtodanish/tosorted-vs-sort-898)
+- [Dev.to/JS] [JavaScript Tricks: Device Fingerprint](https://dev.to/wangliwen/javascript-tricks-device-fingerprint-34l3)
+- [Dev.to/JS] [Protecting your files against accidental deletion](https://dev.to/ulomaekpe/protecting-your-files-against-accidental-deletion-5hp)
+- [Lifehacker] [Epic’s Got a Great Sale on &#39;Alan Wake 2,&#39; One of the Best Games of the Year](https://lifehacker.com/entertainment/alan-wake-2-alan-wake-remastered-sale)
+- [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)
+- [Lifehacker] [What to Do If Your Car Is Overheating, According to Mechanics](https://lifehacker.com/travel/what-to-do-if-your-car-is-overheating-according-to-a-mechanic)
 - [Dev.to/JS] [Create and configure a file with a directory.](https://dev.to/ulomaekpe/create-and-configure-a-file-with-a-directory-3cn9)
+- [Lifehacker] [Banishing Instagram Bots Is About to Get Much Easier](https://lifehacker.com/tech/new-instagram-bot-spam-moderation-tools)
+- [Lifehacker] [Five Ways to Conserve Fuel When You’re Running on Empty](https://lifehacker.com/travel/how-to-conserve-fuel-while-driving-on-empty)
 - [Dev.to/JS] [🤫 Secret JavaScript Methods They Don&#39;t Want You To See &lpar;part 3&rpar;: Promise.allSettled&lpar;&rpar;](https://dev.to/magnificode/secret-javascript-methods-they-dont-want-you-to-see-part-3-promiseallsettled-2286)
+- [Lifehacker] [Every Browser Should Have Opera GX’s New ‘Panic Button’](https://lifehacker.com/tech/opera-gxs-panic-button)
+- [Lifehacker] [No, Light-Emitting Headphones Won’t Cure Your Seasonal Depression](https://lifehacker.com/health/will-light-emitting-headphones-cure-your-seasonal-depression)
 - [Dev.to/JS] [Celebrating Small Achievements: The Key to Sustained Motivation in Your Development Projects](https://dev.to/marmariadev/celebrating-small-achievements-the-key-to-sustained-motivation-in-your-development-projects-2h45)
 - [Dev.to/JS] [When to use an Astro component over a Web Component.](https://dev.to/reggi/when-to-use-an-astro-component-over-a-web-component-2bn6)
+- [Lifehacker] [What to Do on Christmas When You Don&#39;t Celebrate](https://lifehacker.com/what-to-do-on-christmas-when-you-dont-celebrate)
 - [Dev.to/JS] [Create a storage account and backup the public website.](https://dev.to/ulomaekpe/create-a-storage-account-and-backup-the-public-website-38m7)
+- [Lifehacker] [How to Search Pinterest Without Being Badgered to Log In](https://lifehacker.com/tech/how-to-search-pinterest-without-an-account)
 - [Lifehacker] [All the Times You Should be Using a Cashier’s Check &lpar;but Aren’t&rpar;](https://lifehacker.com/money/when-you-should-use-cashiers-checks)
 - [Dev.to/JS] [Preloading images with Astro](https://dev.to/nguyen/preloading-images-with-astro-535n)
 - [Dev.to/JS] [Express.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/expressjs-adoption-guide-overview-examples-and-alternatives-3605)
@@ -38,10 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Streamline CMS Development with Angular By Integrating Froala WYSIWYG HTML Editor](https://dev.to/ideradevtools/streamline-cms-development-with-angular-by-integrating-froala-wysiwyg-html-editor-1p4m)
 - [Lifehacker] [‘Marinating’ a Diet Coke in the Fridge Is Not a Thing](https://lifehacker.com/food-drink/marinate-diet-coke-tiktok-trend)
 - [Lifehacker] [Apple Now Requires a Court Order to Hand Over Your Push Notification Info](https://lifehacker.com/tech/apple-now-requires-a-court-order-to-release-your-push-notification-info)
-- [Dev.to/JS] [A New Tool In Town to Upgrade React Native Apps Called Flame AI](https://dev.to/asad8746/a-new-tool-in-town-to-upgrade-react-native-apps-called-flame-ai-18e)
 - [Lifehacker] [Three Ways to Back Up Your iPhone](https://lifehacker.com/tech/how-to-back-up-iphone)
-- [Dev.to/JS] [Volta and NW.js are amazing together](https://dev.to/thejaredwilcurt/volta-and-nwjs-are-amazing-together-3i3i)
-- [Dev.to/JS] [✨2023#49: TSDiagram: Create diagrams with TypeScript.](https://dev.to/jstoolsweekly/202349-tsdiagram-create-diagrams-with-typescript-3pa2)
 - [Lifehacker] [These Are the Best Gifts for Teens, According to TikTok](https://lifehacker.com/money/best-gifts-for-teenagers)
 - [Lifehacker] [Make This Quick Eggnog With Ice Cream](https://lifehacker.com/food-drink/quick-eggnog-recipe)
 - [Lifehacker] [You Can Now Pin Messages in WhatsApp Group Chats](https://lifehacker.com/tech/how-to-pin-messages-in-whatsapp-group-chats)
@@ -56,16 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-14-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 14, 2023](https://lifehacker.com/entertainment/nyt-connctions-answer-today-december-14-2023)
 - [Lifehacker] [Why You Shouldn’t Buy a USB-C Charging Case for Your AirPods Pro](https://lifehacker.com/tech/you-can-now-buy-the-airpods-pro-2-usb-c-charging-case-but-it-isnt-really)
-- [Lifehacker] [The Best Nintendo Switch Game Deals You Can Still Get in Time for Christmas](https://lifehacker.com/entertainment/the-best-nintendo-switch-game-deals-shipping-for-christmas)
-- [Lifehacker] [The Best Tech Stocking Stuffers for Under $150](https://lifehacker.com/tech/best-tech-stocking-stuffer-deals)
-- [Lifehacker] [Take These Three Steps After a Bad Performance Review at Work](https://lifehacker.com/work/what-to-do-after-bad-work-review)
-- [Lifehacker] [You&#39;re Going to Want to Use Apple&#39;s New Stolen Device Protection Feature](https://lifehacker.com/tech/apples-new-stolen-device-protection-feature-ios-17-3)
-- [Lifehacker] [How Long an AirTag’s Battery Lasts &lpar;and How to Change It&rpar;](https://lifehacker.com/tech/how-long-an-airtag-battery-lasts)
-- [Lifehacker] [Never Use Homeopathic Eye Drops, FDA Warns](https://lifehacker.com/health/never-use-homeopathic-eyedrops-fda-warns)
-- [Lifehacker] [Why You Should Always Attend Your Home Inspection](https://lifehacker.com/money/why-you-should-attend-your-home-inspection)
-- [Lifehacker] [This TikTok Garland Hack Really Works, Folks](https://lifehacker.com/home/diy-christmas-garland-idea)
-- [Lifehacker] [The Best and Worst Times to Travel Over the Holidays, According to AAA](https://lifehacker.com/travel/holidays-travel-times-aaa)
-- [Lifehacker] [How to Reset Your Google Home Mini Before You Sell It](https://lifehacker.com/tech/how-to-factory-reset-google-home-mini)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Nintendo Switch Game Deals You Can Still Get in Time for Christmas](https://lifehacker.com/entertainment/the-best-nintendo-switch-game-deals-shipping-for-christmas)<!-- TECH-POSTS:END -->
 
 ---
 
