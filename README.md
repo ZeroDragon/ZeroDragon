@@ -26,8 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;Enhance Your CapCut Videos: A Guide to Adding Personal Music&quot;](https://dev.to/zephyrzealot/enhance-your-capcut-videos-a-guide-to-adding-personal-music-pl1)
+- [Dev.to/JS] [Building the Play Button](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-the-play-button-4of2)
 - [Dev.to/JS] [Elevate Your Site&#39;s UX: Pro Tips on Minimizing Cumulative Layout Shift](https://dev.to/focusreactive/elevate-your-sites-ux-pro-tips-on-minimizing-cumulative-layout-shift-2mnp)
-- [Dev.to/JS] [🫵 5 achievable side hustles for developers💰](https://dev.to/quine/5-achievable-side-hustles-for-developers-4bcg)
 - [Dev.to/JS] [HTML, CSS, JavaScript: Building Your Own Music Player - A Mini Coding Project](https://dev.to/codingmadeeasy/html-css-javascript-building-your-own-music-player-a-mini-coding-project-onb)
 - [Dev.to/JS] [Multithreading: Event Loops vs Thread Pools and more...](https://dev.to/lovepreetsingh/multithreading-event-loops-vs-thread-pools-and-more-48di)
 - [Dev.to/JS] [Pure Harmony CBD Gummies – &lpar;Scam or Legit&rpar; Does This Gummies Really Work?](https://dev.to/kelanieyoung/pure-harmony-cbd-gummies-scam-or-legit-does-this-gummies-really-work-2p75)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The &quot;well-known&quot; Symbols in JavaScript](https://dev.to/siddharthshyniben/the-well-known-symbols-in-javascript-1a7)
 - [Dev.to/JS] [Realistic Day In The Life Freelance Web Developer](https://dev.to/brendamichellle/realistic-day-in-the-life-freelance-web-developer-30m4)
 - [Dev.to/JS] [Building Timeless JavaScript Projects: Ensuring Consistency in Dependencies and Versions](https://dev.to/artberri/building-timeless-javascript-projects-ensuring-consistency-in-dependencies-and-versions-4o8l)
-- [Dev.to/JS] [Mirror a text area for improving user experience](https://dev.to/phuocng/mirror-a-text-area-for-improving-user-experience-5e40)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
 - [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
