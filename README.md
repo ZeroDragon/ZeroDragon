@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Announcing Mutative 1.0 - A New Era in Efficient Immutable Updates](https://dev.to/unadlib/announcing-mutative-10-a-new-era-in-efficient-immutable-updates-nml)
+- [Lifehacker] [How to Fit and Install Snow Chains](https://lifehacker.com/travel/how-to-fit-and-install-snow-chains)
 - [Dev.to/JS] [Mastering Chaos: de MVC a una Arquitectura Basada en el Dominio y con Enfoque en el Testing](https://dev.to/javascriptchile/mastering-chaos-de-mvc-a-una-arquitectura-basada-en-el-dominio-y-con-enfoque-en-el-testing-2ehj)
+- [Lifehacker] [How to Send Messages on Strava Without Giving Away Your Privacy](https://lifehacker.com/tech/how-to-send-messages-on-strava)
 - [Dev.to/JS] [10 Hidden Gems in JavaScript Every Developer Should Know! 🌟](https://dev.to/swamithedev/10-hidden-gems-in-javascript-every-developer-should-know-npc)
 - [Lifehacker] [28 Must-See 2024 Movies to Add to Your Watchlist](https://lifehacker.com/entertainment/the-biggest-movies-coming-in-2024)
 - [Dev.to/JS] [Tutoriais animados com Driverjs&lpar;com vídeo 🎥 &rpar;](https://dev.to/patrickmonteiro/tutoriais-animados-com-driverjscom-video--2dm6)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Collecting data for Gamedev.js Survey 2023](https://dev.to/end3r/collecting-data-for-gamedevjs-survey-2023-ppd)
 - [Lifehacker] [How to Choose &lpar;and Install&rpar; the Right Ring Doorbell for You](https://lifehacker.com/tech/how-to-install-ring-doorbell)
 - [Lifehacker] [Forget Roasting: Air Fry Your Chestnuts](https://lifehacker.com/food-drink/how-to-air-fry-chestnuts)
-- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #10](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-10-5gl5)
 - [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-your-macbook)
 - [Lifehacker] [To Become Adventurous Learners, Kids Need Routine](https://lifehacker.com/family/help-kids-become-adventurous-learners)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s &#39;Name a Woman&#39; Challenge](https://lifehacker.com/entertainment/the-out-of-touch-guide-to-kid-culture-tiktok-name-a-woman)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Search Pinterest Without Being Badgered to Log In](https://lifehacker.com/tech/how-to-search-pinterest-without-an-account)
 - [Lifehacker] [All the Times You Should be Using a Cashier’s Check &lpar;but Aren’t&rpar;](https://lifehacker.com/money/when-you-should-use-cashiers-checks)
 - [Lifehacker] [‘Marinating’ a Diet Coke in the Fridge Is Not a Thing](https://lifehacker.com/food-drink/marinate-diet-coke-tiktok-trend)
-- [Lifehacker] [Apple Now Requires a Court Order to Hand Over Your Push Notification Info](https://lifehacker.com/tech/apple-now-requires-a-court-order-to-release-your-push-notification-info)
-- [Lifehacker] [Three Ways to Back Up Your iPhone](https://lifehacker.com/tech/how-to-back-up-iphone)
-- [Lifehacker] [These Are the Best Gifts for Teens, According to TikTok](https://lifehacker.com/money/best-gifts-for-teenagers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Now Requires a Court Order to Hand Over Your Push Notification Info](https://lifehacker.com/tech/apple-now-requires-a-court-order-to-release-your-push-notification-info)<!-- TECH-POSTS:END -->
 
 ---
 
