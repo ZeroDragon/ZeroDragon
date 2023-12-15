@@ -26,21 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Chaos: de MVC a una Arquitectura Basada en el Dominio y con Enfoque en el Testing](https://dev.to/javascriptchile/mastering-chaos-de-mvc-a-una-arquitectura-basada-en-el-dominio-y-con-enfoque-en-el-testing-2ehj)
 - [Dev.to/JS] [10 Hidden Gems in JavaScript Every Developer Should Know! 🌟](https://dev.to/swamithedev/10-hidden-gems-in-javascript-every-developer-should-know-npc)
+- [Lifehacker] [28 Must-See 2024 Movies to Add to Your Watchlist](https://lifehacker.com/entertainment/the-biggest-movies-coming-in-2024)
 - [Dev.to/JS] [Tutoriais animados com Driverjs&lpar;com vídeo 🎥 &rpar;](https://dev.to/patrickmonteiro/tutoriais-animados-com-driverjscom-video--2dm6)
 - [Dev.to/JS] [JavaScript&#39;de Math Nesnesi Kavramı](https://dev.to/eminaltan/javascriptde-math-nesnesi-kavrami-5b21)
 - [Dev.to/JS] [&quot;Mastering JavaScript: 8 Easy Shortcuts for Awesome Code!&quot;](https://dev.to/big_smoke/mastering-javascript-8-easy-shortcuts-for-awesome-code-3m8j)
+- [Lifehacker] [How to Change Siri’s Accent or Language](https://lifehacker.com/tech/how-to-change-siris-accent-or-language)
 - [Dev.to/JS] [Fusor vs React](https://dev.to/isumix/fusor-vs-react-3f58)
 - [Dev.to/JS] [Unlocking the Power of JavaScript: A Versatile Language for Modern Development](https://dev.to/lahcenassmira/unlocking-the-power-of-javascript-a-versatile-language-for-modern-development-1b13)
+- [Lifehacker] [You Can Use Alexa to Call for Help in an Emergency](https://lifehacker.com/tech/how-to-use-alexa-in-an-emergency)
 - [Dev.to/JS] [AREON](https://dev.to/prosen_qq/areon-1f8h)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/wjuies481/buy-google-5-star-reviews-3e3o)
 - [Dev.to/JS] [5 React / JS ⚛️ Libraries To Integrate ChatGPT Into Your Web App](https://dev.to/salmenus/5-react-js-libraries-to-integrate-chatgpt-into-your-web-app-24e7)
+- [Lifehacker] [These Are the Best Gifts for College Students](https://lifehacker.com/family/best-gifts-for-college-students)
 - [Dev.to/JS] [Collecting data for Gamedev.js Survey 2023](https://dev.to/end3r/collecting-data-for-gamedevjs-survey-2023-ppd)
 - [Lifehacker] [How to Choose &lpar;and Install&rpar; the Right Ring Doorbell for You](https://lifehacker.com/tech/how-to-install-ring-doorbell)
 - [Lifehacker] [Forget Roasting: Air Fry Your Chestnuts](https://lifehacker.com/food-drink/how-to-air-fry-chestnuts)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #10](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-10-5gl5)
 - [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-your-macbook)
-- [Dev.to/JS] [Programación 3D con JavaScript - parte 2](https://dev.to/javascriptchile/programacion-3d-con-javascript-parte-2-1jj8)
 - [Lifehacker] [To Become Adventurous Learners, Kids Need Routine](https://lifehacker.com/family/help-kids-become-adventurous-learners)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s &#39;Name a Woman&#39; Challenge](https://lifehacker.com/entertainment/the-out-of-touch-guide-to-kid-culture-tiktok-name-a-woman)
 - [Lifehacker] [Strategically Schedule Your PTO to Get 10 Long Weekends in 2024](https://lifehacker.com/work/best-strategy-for-scheduling-pto)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Marinating’ a Diet Coke in the Fridge Is Not a Thing](https://lifehacker.com/food-drink/marinate-diet-coke-tiktok-trend)
 - [Lifehacker] [Apple Now Requires a Court Order to Hand Over Your Push Notification Info](https://lifehacker.com/tech/apple-now-requires-a-court-order-to-release-your-push-notification-info)
 - [Lifehacker] [Three Ways to Back Up Your iPhone](https://lifehacker.com/tech/how-to-back-up-iphone)
-- [Lifehacker] [These Are the Best Gifts for Teens, According to TikTok](https://lifehacker.com/money/best-gifts-for-teenagers)
-- [Lifehacker] [Make This Quick Eggnog With Ice Cream](https://lifehacker.com/food-drink/quick-eggnog-recipe)
-- [Lifehacker] [You Can Now Pin Messages in WhatsApp Group Chats](https://lifehacker.com/tech/how-to-pin-messages-in-whatsapp-group-chats)
-- [Lifehacker] [The Best Gifts Any Dog Owner Will Love](https://lifehacker.com/family/gifts-for-dog-owners)
-- [Lifehacker] [How to Recycle Every Type of Material Left Over From Your DIY Projects](https://lifehacker.com/home/how-to-recycle-diy-project-scraps)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Gifts for Teens, According to TikTok](https://lifehacker.com/money/best-gifts-for-teenagers)<!-- TECH-POSTS:END -->
 
 ---
 
