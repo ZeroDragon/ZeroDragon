@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #11](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-11-1l42)
 - [Dev.to/JS] [Camel Cards](https://dev.to/rmion/camel-cards-42g9)
 - [Dev.to/JS] [Test-driven Development or TDD](https://dev.to/vlad_sha/test-driven-development-or-tdd-4ke8)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Streamlining State Management with Redux Toolkit](https://dev.to/muhammadawaisshaikh/streamlining-state-management-with-redux-toolkit-3nac)
 - [Dev.to/JS] [Green Vibe CBD Gummies Reviews – {Ingredients, Benefits, and Side Effects} Read Before Buy.](https://dev.to/greenvibecbdbuy/green-vibe-cbd-gummies-reviews-ingredients-benefits-and-side-effects-read-before-buy-13m)
 - [Dev.to/JS] [Outreachy Internship Program Guide 2024](https://dev.to/devgancode/outreachy-internship-program-guide-2024-50hc)
-- [Dev.to/JS] [Easy File sharing for Google meet](https://dev.to/piyueshdev/easy-file-sharing-for-google-meet-kg5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
 - [Lifehacker] [Why Water Is Coming Up Through Your Sink &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/why-water-is-coming-up-through-sink)
