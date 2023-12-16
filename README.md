@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Like htmx, but with only one attribute per element - a prototype](https://dev.to/mrhdias/like-htmx-but-with-only-one-attribute-per-element-a-prototype-4n24)
 - [Dev.to/JS] [Green Vibe CBD Gummies 100 % Clinically Certified Ingredients For USA ?](https://dev.to/pavlicadrnec/green-vibe-cbd-gummies-100-clinically-certified-ingredients-for-usa--5ff6)
 - [Dev.to/JS] [Latest Newsletter: The Bitcoin Self Custody Lie &lpar;Issue #145&rpar;](https://dev.to/mjgs/latest-newsletter-the-bitcoin-self-custody-lie-issue-145-6ib)
 - [Dev.to/JS] [Streamlining State Management with Redux Toolkit](https://dev.to/muhammadawaisshaikh/streamlining-state-management-with-redux-toolkit-3nac)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hooks are Dead? How Signals Are Taking Over](https://dev.to/kalashin1/react-hooks-are-dead-how-signals-are-taking-over-5561)
 - [Lifehacker] [These Discounted Amazon Devices Will Still Arrive in Time for Christmas](https://lifehacker.com/tech/these-discounted-amazon-devices-will-arrive-before-christmas)
 - [Lifehacker] [The Best Deals on Dyson Vacuums That Will Arrive By Christmas](https://lifehacker.com/home/dyson-stick-vacuum-deals-for-christmas)
-- [Dev.to/JS] [Networking and referrals](https://dev.to/danielroh17/networking-and-referrals-1oj)
 - [Lifehacker] [How to Connect Any Alexa-Enabled Amazon Device to Wifi &lpar;and Troubleshoot These Common Issues&rpar;](https://lifehacker.com/tech/how-to-connect-alexa-to-wifi)
 - [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
 - [Lifehacker] [Where to Get Free Vet Care for Your Cat or Dog](https://lifehacker.com/money/where-to-get-free-vet-care-for-your-cat-or-dog)
