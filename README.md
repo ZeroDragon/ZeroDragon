@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Green Vibe CBD Gummies Reviews – {Ingredients, Benefits, and Side Effects} Read Before Buy.](https://dev.to/greenvibecbdbuy/green-vibe-cbd-gummies-reviews-ingredients-benefits-and-side-effects-read-before-buy-13m)
 - [Dev.to/JS] [Outreachy Internship Program Guide 2024](https://dev.to/devgancode/outreachy-internship-program-guide-2024-50hc)
 - [Dev.to/JS] [Easy File sharing for Google meet](https://dev.to/piyueshdev/easy-file-sharing-for-google-meet-kg5)
 - [Dev.to/JS] [AppError=&gt; Develop an AppError class in TypeScript for a MERN application utilizing Mongoose for MongoDB integration.](https://dev.to/karakib2k18/apperror-develop-an-apperror-class-in-typescript-for-a-mern-application-utilizing-mongoose-for-mongodb-integration-13o9)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
 - [Dev.to/JS] [Using the Native Contact Picker API](https://dev.to/marcusvirg/using-the-native-contact-picker-api-1al6)
 - [Lifehacker] [Where to Get Free Vet Care for Your Cat or Dog](https://lifehacker.com/money/where-to-get-free-vet-care-for-your-cat-or-dog)
-- [Dev.to/JS] [JSON.stringify replacer function](https://dev.to/aminnairi/jsonstringify-replacer-function-13g6)
 - [Lifehacker] [How to Download Songs From Apple Music to Listen to Offline](https://lifehacker.com/tech/how-to-listen-to-apple-music-offline)
 - [Lifehacker] [These Are the Best Gifts for True Self-Care](https://lifehacker.com/health/the-best-gifts-for-self-care)
 - [Lifehacker] [These Are the Best Podcast Apps to Use in 2024](https://lifehacker.com/the-best-podcast-apps-for-ios-android)
