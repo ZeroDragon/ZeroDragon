@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Water Is Coming Up Through Your Sink &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/why-water-is-coming-up-through-sink)
+- [Dev.to/JS] [React Hooks are Dead? How Signals Are Taking Over](https://dev.to/kalashin1/react-hooks-are-dead-how-signals-are-taking-over-5561)
+- [Lifehacker] [These Discounted Amazon Devices Will Still Arrive in Time for Christmas](https://lifehacker.com/tech/these-discounted-amazon-devices-will-arrive-before-christmas)
+- [Lifehacker] [The Best Deals on Dyson Vacuums That Will Arrive By Christmas](https://lifehacker.com/home/dyson-stick-vacuum-deals-for-christmas)
 - [Dev.to/JS] [Networking and referrals](https://dev.to/danielroh17/networking-and-referrals-1oj)
+- [Lifehacker] [How to Connect Any Alexa-Enabled Amazon Device to Wifi &lpar;and Troubleshoot These Common Issues&rpar;](https://lifehacker.com/tech/how-to-connect-alexa-to-wifi)
 - [Dev.to/JS] [Don&#39;t Touch React JS Until You Know These JavaScript Things!](https://dev.to/itsahsanmangal/dont-touch-react-js-until-you-know-these-javascript-things-8kd)
 - [Dev.to/JS] [Custom Components with Prismane](https://dev.to/prismaneui/custom-components-with-prismane-5b67)
 - [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
@@ -46,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [33 Must-See 2024 Movies to Add to Your Watchlist](https://lifehacker.com/entertainment/the-biggest-movies-coming-in-2024)
 - [Dev.to/JS] [Tutoriais animados com Driverjs&lpar;com vídeo 🎥 &rpar;](https://dev.to/patrickmonteiro/tutoriais-animados-com-driverjscom-video--2dm6)
 - [Dev.to/JS] [JavaScript&#39;de Math Nesnesi Kavramı](https://dev.to/eminaltan/javascriptde-math-nesnesi-kavrami-5b21)
-- [Dev.to/JS] [&quot;Mastering JavaScript: 8 Easy Shortcuts for Awesome Code!&quot;](https://dev.to/big_smoke/mastering-javascript-8-easy-shortcuts-for-awesome-code-3m8j)
 - [Lifehacker] [How to Change Siri’s Accent or Language](https://lifehacker.com/tech/how-to-change-siris-accent-or-language)
 - [Lifehacker] [You Can Use Alexa to Call for Help in an Emergency](https://lifehacker.com/tech/how-to-use-alexa-in-an-emergency)
 - [Lifehacker] [These Are the Best Gifts for College Students](https://lifehacker.com/family/best-gifts-for-college-students)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
 - [Lifehacker] [This AI Tax Assistant Actually Seems Pretty Useful](https://lifehacker.com/money/hr-blocks-new-ai-chatbot-tax-assistant)
 - [Lifehacker] [Epic’s Got a Great Sale on &#39;Alan Wake 2,&#39; One of the Best Games of the Year](https://lifehacker.com/entertainment/alan-wake-2-alan-wake-remastered-sale)
-- [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)
-- [Lifehacker] [What to Do If Your Car Is Overheating, According to Mechanics](https://lifehacker.com/travel/what-to-do-if-your-car-is-overheating-according-to-a-mechanic)
-- [Lifehacker] [Banishing Instagram Bots Is About to Get Much Easier](https://lifehacker.com/tech/new-instagram-bot-spam-moderation-tools)
-- [Lifehacker] [Five Ways to Conserve Fuel When You’re Running on Empty](https://lifehacker.com/travel/how-to-conserve-fuel-while-driving-on-empty)
-- [Lifehacker] [Every Browser Should Have Opera GX’s New ‘Panic Button’](https://lifehacker.com/tech/opera-gxs-panic-button)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)<!-- TECH-POSTS:END -->
 
 ---
 
