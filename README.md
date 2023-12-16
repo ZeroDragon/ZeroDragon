@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AppError=&gt; Develop an AppError class in TypeScript for a MERN application utilizing Mongoose for MongoDB integration.](https://dev.to/karakib2k18/apperror-develop-an-apperror-class-in-typescript-for-a-mern-application-utilizing-mongoose-for-mongodb-integration-13o9)
+- [Dev.to/JS] [Strategies for Success: IT Consulting Tips for New York Startups](https://dev.to/techverceus/strategies-for-success-it-consulting-tips-for-new-york-startups-3adh)
+- [Dev.to/JS] [Functions is JavaScript](https://dev.to/yashkapure06/functions-is-javascript-1jfp)
 - [Dev.to/JS] [Design Twitter](https://dev.to/zeeshanali0704/design-twitter-5d6n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
@@ -48,11 +51,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Best Front End Development Courses You Can Take in 2024 👨‍💻🏅](https://dev.to/brian_curricular/the-best-front-end-courses-you-can-take-in-2024-nd3)
 - [Lifehacker] [Where to Spend Your FSA/HSA Funds Before the End of the Year](https://lifehacker.com/money/where-to-spend-fsa-hsa-funds)
 - [Lifehacker] [How to Fit and Install Snow Chains](https://lifehacker.com/travel/how-to-fit-and-install-snow-chains)
-- [Dev.to/JS] [Mastering Chaos: de MVC a una Arquitectura Basada en el Dominio y con Enfoque en el Testing](https://dev.to/javascriptchile/mastering-chaos-de-mvc-a-una-arquitectura-basada-en-el-dominio-y-con-enfoque-en-el-testing-2ehj)
 - [Lifehacker] [How to Send Messages on Strava Without Giving Away Your Privacy](https://lifehacker.com/tech/how-to-send-messages-on-strava)
-- [Dev.to/JS] [10 Hidden Gems in JavaScript Every Developer Should Know! 🌟](https://dev.to/swamithedev/10-hidden-gems-in-javascript-every-developer-should-know-npc)
 - [Lifehacker] [33 Must-See 2024 Movies to Add to Your Watchlist](https://lifehacker.com/entertainment/the-biggest-movies-coming-in-2024)
-- [Dev.to/JS] [Tutoriais animados com Driverjs&lpar;com vídeo 🎥 &rpar;](https://dev.to/patrickmonteiro/tutoriais-animados-com-driverjscom-video--2dm6)
 - [Lifehacker] [How to Change Siri’s Accent or Language](https://lifehacker.com/tech/how-to-change-siris-accent-or-language)
 - [Lifehacker] [You Can Use Alexa to Call for Help in an Emergency](https://lifehacker.com/tech/how-to-use-alexa-in-an-emergency)
 - [Lifehacker] [These Are the Best Gifts for College Students](https://lifehacker.com/family/best-gifts-for-college-students)
