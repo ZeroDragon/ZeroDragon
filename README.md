@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Outreachy Internship Program Guide 2024](https://dev.to/devgancode/outreachy-internship-program-guide-2024-50hc)
+- [Dev.to/JS] [Easy File sharing for Google meet](https://dev.to/piyueshdev/easy-file-sharing-for-google-meet-kg5)
 - [Dev.to/JS] [AppError=&gt; Develop an AppError class in TypeScript for a MERN application utilizing Mongoose for MongoDB integration.](https://dev.to/karakib2k18/apperror-develop-an-apperror-class-in-typescript-for-a-mern-application-utilizing-mongoose-for-mongodb-integration-13o9)
 - [Dev.to/JS] [Strategies for Success: IT Consulting Tips for New York Startups](https://dev.to/techverceus/strategies-for-success-it-consulting-tips-for-new-york-startups-3adh)
 - [Dev.to/JS] [Functions is JavaScript](https://dev.to/yashkapure06/functions-is-javascript-1jfp)
@@ -46,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSON.stringify replacer function](https://dev.to/aminnairi/jsonstringify-replacer-function-13g6)
 - [Lifehacker] [How to Download Songs From Apple Music to Listen to Offline](https://lifehacker.com/tech/how-to-listen-to-apple-music-offline)
 - [Lifehacker] [These Are the Best Gifts for True Self-Care](https://lifehacker.com/health/the-best-gifts-for-self-care)
-- [Dev.to/JS] [Announcing Mutative 1.0 - A New Era in Efficient Immutable Updates](https://dev.to/unadlib/announcing-mutative-10-a-new-era-in-efficient-immutable-updates-nml)
 - [Lifehacker] [These Are the Best Podcast Apps to Use in 2024](https://lifehacker.com/the-best-podcast-apps-for-ios-android)
-- [Dev.to/JS] [The Best Front End Development Courses You Can Take in 2024 👨‍💻🏅](https://dev.to/brian_curricular/the-best-front-end-courses-you-can-take-in-2024-nd3)
 - [Lifehacker] [Where to Spend Your FSA/HSA Funds Before the End of the Year](https://lifehacker.com/money/where-to-spend-fsa-hsa-funds)
 - [Lifehacker] [How to Fit and Install Snow Chains](https://lifehacker.com/travel/how-to-fit-and-install-snow-chains)
 - [Lifehacker] [How to Send Messages on Strava Without Giving Away Your Privacy](https://lifehacker.com/tech/how-to-send-messages-on-strava)
