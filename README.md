@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [pull the changes up to a specific commit and delete all commits made after it](https://dev.to/karakib2k18/pull-the-changes-up-to-a-specific-commit-and-delete-all-commits-made-after-it-2li2)
+- [Dev.to/JS] [You can help write down the history of frontend! Contributions are welcomed 🎉](https://dev.to/michalkuncio/you-can-help-write-down-the-history-of-frontend-contributions-are-welcomed-2fp4)
+- [Dev.to/JS] [Além dos números: expandindo a linguagem](https://dev.to/lucas_ac_am/alem-dos-numeros-expandindo-a-linguagem-2b0j)
 - [Dev.to/JS] [Like htmx, but with only one attribute per element - a prototype](https://dev.to/mrhdias/like-htmx-but-with-only-one-attribute-per-element-a-prototype-4n24)
 - [Dev.to/JS] [Green Vibe CBD Gummies 100 % Clinically Certified Ingredients For USA ?](https://dev.to/pavlicadrnec/green-vibe-cbd-gummies-100-clinically-certified-ingredients-for-usa--5ff6)
 - [Dev.to/JS] [Latest Newsletter: The Bitcoin Self Custody Lie &lpar;Issue #145&rpar;](https://dev.to/mjgs/latest-newsletter-the-bitcoin-self-custody-lie-issue-145-6ib)
@@ -35,12 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy File sharing for Google meet](https://dev.to/piyueshdev/easy-file-sharing-for-google-meet-kg5)
 - [Dev.to/JS] [AppError=&gt; Develop an AppError class in TypeScript for a MERN application utilizing Mongoose for MongoDB integration.](https://dev.to/karakib2k18/apperror-develop-an-apperror-class-in-typescript-for-a-mern-application-utilizing-mongoose-for-mongodb-integration-13o9)
 - [Dev.to/JS] [Strategies for Success: IT Consulting Tips for New York Startups](https://dev.to/techverceus/strategies-for-success-it-consulting-tips-for-new-york-startups-3adh)
-- [Dev.to/JS] [Functions is JavaScript](https://dev.to/yashkapure06/functions-is-javascript-1jfp)
-- [Dev.to/JS] [Design Twitter](https://dev.to/zeeshanali0704/design-twitter-5d6n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
 - [Lifehacker] [Why Water Is Coming Up Through Your Sink &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/why-water-is-coming-up-through-sink)
-- [Dev.to/JS] [React Hooks are Dead? How Signals Are Taking Over](https://dev.to/kalashin1/react-hooks-are-dead-how-signals-are-taking-over-5561)
 - [Lifehacker] [These Discounted Amazon Devices Will Still Arrive in Time for Christmas](https://lifehacker.com/tech/these-discounted-amazon-devices-will-arrive-before-christmas)
 - [Lifehacker] [The Best Deals on Dyson Vacuums That Will Arrive By Christmas](https://lifehacker.com/home/dyson-stick-vacuum-deals-for-christmas)
 - [Lifehacker] [How to Connect Any Alexa-Enabled Amazon Device to Wifi &lpar;and Troubleshoot These Common Issues&rpar;](https://lifehacker.com/tech/how-to-connect-alexa-to-wifi)
