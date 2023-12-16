@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Object manipulation technique.js](https://dev.to/techthatconnect/object-manipulation-technique-1gm7)
 - [Dev.to/JS] [AppError middleware function create](https://dev.to/karakib2k18/apperror-middleware-function-create-3mg8)
 - [Dev.to/JS] [Is Javascript Object.groupBy&lpar;&rpar; worth the hype? let&#39;s find out](https://dev.to/svidlak/is-javascript-objectgroupby-worth-the-hype-lets-find-out-48lc)
 - [Dev.to/JS] [Building AI-powered Applications w/ Javascript using Langchain JS for Beginners](https://dev.to/oyemade/building-ai-powered-applications-w-javascript-using-langchain-js-for-beginners-388b)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Além dos números: expandindo a linguagem](https://dev.to/lucas_ac_am/alem-dos-numeros-expandindo-a-linguagem-2b0j)
 - [Dev.to/JS] [Like htmx, but with only one attribute per element - a prototype](https://dev.to/mrhdias/like-htmx-but-with-only-one-attribute-per-element-a-prototype-4n24)
 - [Dev.to/JS] [Latest Newsletter: The Bitcoin Self Custody Lie &lpar;Issue #145&rpar;](https://dev.to/mjgs/latest-newsletter-the-bitcoin-self-custody-lie-issue-145-6ib)
-- [Dev.to/JS] [Streamlining State Management with Redux Toolkit](https://dev.to/muhammadawaisshaikh/streamlining-state-management-with-redux-toolkit-3nac)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
 - [Lifehacker] [Why Water Is Coming Up Through Your Sink &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/why-water-is-coming-up-through-sink)
