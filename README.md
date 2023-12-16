@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Design Twitter](https://dev.to/zeeshanali0704/design-twitter-5d6n)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
 - [Lifehacker] [Why Water Is Coming Up Through Your Sink &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/why-water-is-coming-up-through-sink)
 - [Dev.to/JS] [React Hooks are Dead? How Signals Are Taking Over](https://dev.to/kalashin1/react-hooks-are-dead-how-signals-are-taking-over-5561)
 - [Lifehacker] [These Discounted Amazon Devices Will Still Arrive in Time for Christmas](https://lifehacker.com/tech/these-discounted-amazon-devices-will-arrive-before-christmas)
@@ -50,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Hidden Gems in JavaScript Every Developer Should Know! 🌟](https://dev.to/swamithedev/10-hidden-gems-in-javascript-every-developer-should-know-npc)
 - [Lifehacker] [33 Must-See 2024 Movies to Add to Your Watchlist](https://lifehacker.com/entertainment/the-biggest-movies-coming-in-2024)
 - [Dev.to/JS] [Tutoriais animados com Driverjs&lpar;com vídeo 🎥 &rpar;](https://dev.to/patrickmonteiro/tutoriais-animados-com-driverjscom-video--2dm6)
-- [Dev.to/JS] [JavaScript&#39;de Math Nesnesi Kavramı](https://dev.to/eminaltan/javascriptde-math-nesnesi-kavrami-5b21)
 - [Lifehacker] [How to Change Siri’s Accent or Language](https://lifehacker.com/tech/how-to-change-siris-accent-or-language)
 - [Lifehacker] [You Can Use Alexa to Call for Help in an Emergency](https://lifehacker.com/tech/how-to-use-alexa-in-an-emergency)
 - [Lifehacker] [These Are the Best Gifts for College Students](https://lifehacker.com/family/best-gifts-for-college-students)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
 - [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
-- [Lifehacker] [This AI Tax Assistant Actually Seems Pretty Useful](https://lifehacker.com/money/hr-blocks-new-ai-chatbot-tax-assistant)
-- [Lifehacker] [Epic’s Got a Great Sale on &#39;Alan Wake 2,&#39; One of the Best Games of the Year](https://lifehacker.com/entertainment/alan-wake-2-alan-wake-remastered-sale)
-- [Lifehacker] [Governments Can Spy on Your Push Notifications](https://lifehacker.com/tech/governments-spying-on-push-notifications)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This AI Tax Assistant Actually Seems Pretty Useful](https://lifehacker.com/money/hr-blocks-new-ai-chatbot-tax-assistant)<!-- TECH-POSTS:END -->
 
 ---
 
