@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Camel Cards](https://dev.to/rmion/camel-cards-42g9)
+- [Dev.to/JS] [Test-driven Development or TDD](https://dev.to/vlad_sha/test-driven-development-or-tdd-4ke8)
+- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
 - [Dev.to/JS] [pull the changes up to a specific commit and delete all commits made after it](https://dev.to/karakib2k18/pull-the-changes-up-to-a-specific-commit-and-delete-all-commits-made-after-it-2li2)
 - [Dev.to/JS] [You can help write down the history of frontend! Contributions are welcomed 🎉](https://dev.to/michalkuncio/you-can-help-write-down-the-history-of-frontend-contributions-are-welcomed-2fp4)
 - [Dev.to/JS] [Além dos números: expandindo a linguagem](https://dev.to/lucas_ac_am/alem-dos-numeros-expandindo-a-linguagem-2b0j)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Green Vibe CBD Gummies Reviews – {Ingredients, Benefits, and Side Effects} Read Before Buy.](https://dev.to/greenvibecbdbuy/green-vibe-cbd-gummies-reviews-ingredients-benefits-and-side-effects-read-before-buy-13m)
 - [Dev.to/JS] [Outreachy Internship Program Guide 2024](https://dev.to/devgancode/outreachy-internship-program-guide-2024-50hc)
 - [Dev.to/JS] [Easy File sharing for Google meet](https://dev.to/piyueshdev/easy-file-sharing-for-google-meet-kg5)
-- [Dev.to/JS] [AppError=&gt; Develop an AppError class in TypeScript for a MERN application utilizing Mongoose for MongoDB integration.](https://dev.to/karakib2k18/apperror-develop-an-apperror-class-in-typescript-for-a-mern-application-utilizing-mongoose-for-mongodb-integration-13o9)
-- [Dev.to/JS] [Strategies for Success: IT Consulting Tips for New York Startups](https://dev.to/techverceus/strategies-for-success-it-consulting-tips-for-new-york-startups-3adh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
 - [Lifehacker] [Why Water Is Coming Up Through Your Sink &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/why-water-is-coming-up-through-sink)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Strategically Schedule Your PTO to Get 10 Long Weekends in 2024](https://lifehacker.com/work/best-strategy-for-scheduling-pto)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
-- [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)
-- [Lifehacker] [This AI Tax Assistant Actually Seems Pretty Useful](https://lifehacker.com/money/hr-blocks-new-ai-chatbot-tax-assistant)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)<!-- TECH-POSTS:END -->
 
 ---
 
