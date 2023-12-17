@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rebirth CBD Gummies Canada – Shocking Scam Complaints or Safe Health Gummies?](https://dev.to/lemuskevine/rebirth-cbd-gummies-canada-shocking-scam-complaints-or-safe-health-gummies-5389)
 - [Dev.to/JS] [Astro and Svelte vs. SvelteKit: An In-Depth Comparison](https://dev.to/davida/astro-and-svelte-vs-sveltekit-an-in-depth-comparison-1pki)
 - [Dev.to/JS] [Problem with for in](https://dev.to/mailtodanish/problem-with-for-in-cb8)
 - [Dev.to/JS] [👮🛡️ Let&#39;s Navigate the Angular Playground with Route Guards](https://dev.to/ahmedgmurtaza/lets-navigate-the-angular-playground-with-route-guards-3dka)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Beginners If Else Statements](https://dev.to/aryakris/javascript-beginners-if-else-statements-4798)
 - [Dev.to/JS] [Drizzle ORM in a Supabase edge function](https://dev.to/aaronblondeau/drizzle-orm-in-a-supabase-edge-function-1nap)
 - [Dev.to/JS] [Object manipulation technique.js](https://dev.to/techthatconnect/object-manipulation-technique-1gm7)
-- [Dev.to/JS] [AppError middleware function create](https://dev.to/karakib2k18/apperror-middleware-function-create-3mg8)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
