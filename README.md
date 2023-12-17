@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [👮🛡️ Let&#39;s Navigate the Angular Playground with Route Guards](https://dev.to/ahmedgmurtaza/lets-navigate-the-angular-playground-with-route-guards-3dka)
 - [Dev.to/JS] [Simple Digital Clock Widget](https://dev.to/falselight/simple-digital-clock-widget-4ng2)
 - [Dev.to/JS] [How To Make Parallel API calls in VueJS Applications — Typescript Version](https://dev.to/himanimehra/how-to-make-parallel-api-calls-in-vuejs-applications-typescript-version-178e)
 - [Dev.to/JS] [groupBy in JS](https://dev.to/mailtodanish/groupby-in-js-40eb)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AppError middleware function create](https://dev.to/karakib2k18/apperror-middleware-function-create-3mg8)
 - [Dev.to/JS] [Is Javascript Object.groupBy&lpar;&rpar; worth the hype? let&#39;s find out](https://dev.to/svidlak/is-javascript-objectgroupby-worth-the-hype-lets-find-out-48lc)
 - [Dev.to/JS] [Building AI-powered Applications w/ Javascript using Langchain JS for Beginners](https://dev.to/oyemade/building-ai-powered-applications-w-javascript-using-langchain-js-for-beginners-388b)
-- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #11](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-11-1l42)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
