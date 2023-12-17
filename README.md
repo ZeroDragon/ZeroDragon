@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [✔5 Best Practices for Writing Cleaner and More Readable React Code](https://dev.to/prathamisonline/5-best-practices-for-writing-cleaner-and-more-readable-react-code-4ll7)
+- [Dev.to/JS] [Building a collaborative whiteboard app using ReactJS, Socket.io and NodeJS](https://dev.to/fidalmathew/building-a-collaborative-whiteboard-app-using-reactjs-socketio-and-nodejs-2o71)
 - [Dev.to/JS] [ECMAScript 2023: Fresh Goodies for JavaScript Developers](https://dev.to/navdeepm20/dive-into-ecmascript-2023-fresh-goodies-for-javascript-developers-1dda)
 - [Dev.to/JS] [Mastering 6 Key Advanced JavaScript Concepts!!](https://dev.to/big_smoke/mastering-6-key-advanced-javascript-concepts-593o)
 - [Dev.to/JS] [When to use Object.groupBy](https://dev.to/aminnairi/when-to-use-objectgroupby-189n)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Digital Clock Widget](https://dev.to/falselight/simple-digital-clock-widget-4ng2)
 - [Dev.to/JS] [How To Make Parallel API calls in VueJS Applications — Typescript Version](https://dev.to/himanimehra/how-to-make-parallel-api-calls-in-vuejs-applications-typescript-version-178e)
 - [Dev.to/JS] [groupBy in JS](https://dev.to/mailtodanish/groupby-in-js-40eb)
-- [Dev.to/JS] [Mastering JavaScript with GitHub Repositories](https://dev.to/pinky057/mastering-javascript-with-github-repositories-3248)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
-- [Dev.to/JS] [Getting started w/ Google&#39;s Gemini Pro LLM using Langchain JS](https://dev.to/oyemade/getting-started-w-googles-gemini-pro-llm-using-langchain-js-4o1)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
