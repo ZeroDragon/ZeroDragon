@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ECMAScript 2023: Fresh Goodies for JavaScript Developers](https://dev.to/navdeepm20/dive-into-ecmascript-2023-fresh-goodies-for-javascript-developers-1dda)
+- [Dev.to/JS] [Mastering 6 Key Advanced JavaScript Concepts!!](https://dev.to/big_smoke/mastering-6-key-advanced-javascript-concepts-593o)
 - [Dev.to/JS] [When to use Object.groupBy](https://dev.to/aminnairi/when-to-use-objectgroupby-189n)
 - [Dev.to/JS] [Rebirth CBD Gummies Canada – Shocking Scam Complaints or Safe Health Gummies?](https://dev.to/lemuskevine/rebirth-cbd-gummies-canada-shocking-scam-complaints-or-safe-health-gummies-5389)
 - [Dev.to/JS] [Astro and Svelte vs. SvelteKit: An In-Depth Comparison](https://dev.to/davida/astro-and-svelte-vs-sveltekit-an-in-depth-comparison-1pki)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
 - [Dev.to/JS] [Getting started w/ Google&#39;s Gemini Pro LLM using Langchain JS](https://dev.to/oyemade/getting-started-w-googles-gemini-pro-llm-using-langchain-js-4o1)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
-- [Dev.to/JS] [Javascript Beginners If Else Statements](https://dev.to/aryakris/javascript-beginners-if-else-statements-4798)
-- [Dev.to/JS] [Drizzle ORM in a Supabase edge function](https://dev.to/aaronblondeau/drizzle-orm-in-a-supabase-edge-function-1nap)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
