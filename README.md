@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Node Locksmith is the Game Changer for Node.js Applications](https://dev.to/saivaraprasad/why-node-locksmith-is-the-game-changer-for-nodejs-applications-fnh)
 - [Dev.to/JS] [Simplify, Groupify, Conquer: The convenience of Object.GroupBy&lpar;&rpar; in JavaScript](https://dev.to/subaash_b/simplify-groupify-conquer-the-convenience-of-objectgroupby-in-javascript-2h5)
 - [Dev.to/JS] [Focus trap](https://dev.to/nicm42/focus-trap-1np)
 - [Dev.to/JS] [Carousel / Slider - Approaches for building custom carousel component](https://dev.to/cookiemonsterdev/carousel-slider-approaches-for-building-custom-carousel-components-24pm)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a collaborative whiteboard app using ReactJS, Socket.io and NodeJS](https://dev.to/fidalmathew/building-a-collaborative-whiteboard-app-using-reactjs-socketio-and-nodejs-2o71)
 - [Dev.to/JS] [ECMAScript 2023: Fresh Goodies for JavaScript Developers](https://dev.to/navdeepm20/dive-into-ecmascript-2023-fresh-goodies-for-javascript-developers-1dda)
 - [Dev.to/JS] [Mastering 6 Key Advanced JavaScript Concepts!!](https://dev.to/big_smoke/mastering-6-key-advanced-javascript-concepts-593o)
-- [Dev.to/JS] [When to use Object.groupBy](https://dev.to/aminnairi/when-to-use-objectgroupby-189n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
