@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started w/ Google&#39;s Gemini Pro LLM using Langchain JS](https://dev.to/oyemade/getting-started-w-googles-gemini-pro-llm-using-langchain-js-4o1)
 - [Dev.to/JS] [Javascript Beginners If Else Statements](https://dev.to/aryakris/javascript-beginners-if-else-statements-4798)
 - [Dev.to/JS] [Drizzle ORM in a Supabase edge function](https://dev.to/aaronblondeau/drizzle-orm-in-a-supabase-edge-function-1nap)
 - [Dev.to/JS] [Object manipulation technique.js](https://dev.to/techthatconnect/object-manipulation-technique-1gm7)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
 - [Dev.to/JS] [pull the changes up to a specific commit and delete all commits made after it](https://dev.to/karakib2k18/pull-the-changes-up-to-a-specific-commit-and-delete-all-commits-made-after-it-2li2)
 - [Dev.to/JS] [You can help write down the history of frontend! Contributions are welcomed 🎉](https://dev.to/michalkuncio/you-can-help-write-down-the-history-of-frontend-contributions-are-welcomed-2fp4)
-- [Dev.to/JS] [Além dos números: expandindo a linguagem](https://dev.to/lucas_ac_am/alem-dos-numeros-expandindo-a-linguagem-2b0j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
 - [Lifehacker] [Why Water Is Coming Up Through Your Sink &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/why-water-is-coming-up-through-sink)
