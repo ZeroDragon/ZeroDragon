@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Make Parallel API calls in VueJS Applications — Typescript Version](https://dev.to/himanimehra/how-to-make-parallel-api-calls-in-vuejs-applications-typescript-version-178e)
+- [Dev.to/JS] [groupBy in JS](https://dev.to/mailtodanish/groupby-in-js-40eb)
+- [Dev.to/JS] [Mastering JavaScript with GitHub Repositories](https://dev.to/pinky057/mastering-javascript-with-github-repositories-3248)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
 - [Dev.to/JS] [Getting started w/ Google&#39;s Gemini Pro LLM using Langchain JS](https://dev.to/oyemade/getting-started-w-googles-gemini-pro-llm-using-langchain-js-4o1)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
 - [Dev.to/JS] [Javascript Beginners If Else Statements](https://dev.to/aryakris/javascript-beginners-if-else-statements-4798)
 - [Dev.to/JS] [Drizzle ORM in a Supabase edge function](https://dev.to/aaronblondeau/drizzle-orm-in-a-supabase-edge-function-1nap)
 - [Dev.to/JS] [Object manipulation technique.js](https://dev.to/techthatconnect/object-manipulation-technique-1gm7)
@@ -35,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building AI-powered Applications w/ Javascript using Langchain JS for Beginners](https://dev.to/oyemade/building-ai-powered-applications-w-javascript-using-langchain-js-for-beginners-388b)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #11](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-11-1l42)
 - [Dev.to/JS] [Camel Cards](https://dev.to/rmion/camel-cards-42g9)
-- [Dev.to/JS] [Test-driven Development or TDD](https://dev.to/vlad_sha/test-driven-development-or-tdd-4ke8)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
-- [Dev.to/JS] [pull the changes up to a specific commit and delete all commits made after it](https://dev.to/karakib2k18/pull-the-changes-up-to-a-specific-commit-and-delete-all-commits-made-after-it-2li2)
-- [Dev.to/JS] [You can help write down the history of frontend! Contributions are welcomed 🎉](https://dev.to/michalkuncio/you-can-help-write-down-the-history-of-frontend-contributions-are-welcomed-2fp4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
 - [Lifehacker] [Why Water Is Coming Up Through Your Sink &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/why-water-is-coming-up-through-sink)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [To Become Adventurous Learners, Kids Need Routine](https://lifehacker.com/family/help-kids-become-adventurous-learners)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s &#39;Name a Woman&#39; Challenge](https://lifehacker.com/entertainment/the-out-of-touch-guide-to-kid-culture-tiktok-name-a-woman)
 - [Lifehacker] [Strategically Schedule Your PTO to Get 10 Long Weekends in 2024](https://lifehacker.com/work/best-strategy-for-scheduling-pto)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-15-2023)
-- [Lifehacker] [The Best Places to Rent Tools and Equipment &lpar;and What It Will Cost&rpar;](https://lifehacker.com/home/best-places-to-rent-tools-and-equipment)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)<!-- TECH-POSTS:END -->
 
 ---
 
