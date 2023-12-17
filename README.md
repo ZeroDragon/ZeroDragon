@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 99: Match Pair](https://dev.to/dhrn/day-98-match-pair-1j1)
 - [Dev.to/JS] [Build your first custom AI-powered application with LangChain](https://dev.to/lovestaco/build-your-first-custom-ai-powered-application-with-langchain-3f2h)
 - [Dev.to/JS] [Build an app with chatGPT: is it real?](https://dev.to/mazault/build-an-app-with-chatgpt-is-it-real-4oip)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #tips](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-tips-gaa)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Astro and Svelte vs. SvelteKit: An In-Depth Comparison](https://dev.to/davida/astro-and-svelte-vs-sveltekit-an-in-depth-comparison-1pki)
 - [Dev.to/JS] [Problem with for in](https://dev.to/mailtodanish/problem-with-for-in-cb8)
 - [Dev.to/JS] [👮🛡️ Let&#39;s Navigate the Angular Playground with Route Guards](https://dev.to/ahmedgmurtaza/lets-navigate-the-angular-playground-with-route-guards-3dka)
-- [Dev.to/JS] [Simple Digital Clock Widget](https://dev.to/falselight/simple-digital-clock-widget-4ng2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
