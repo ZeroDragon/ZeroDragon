@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplify, Groupify, Conquer: The convenience of Object.GroupBy&lpar;&rpar; in JavaScript](https://dev.to/subaash_b/simplify-groupify-conquer-the-convenience-of-objectgroupby-in-javascript-2h5)
+- [Dev.to/JS] [Focus trap](https://dev.to/nicm42/focus-trap-1np)
+- [Dev.to/JS] [Carousel / Slider - Approaches for building custom carousel component](https://dev.to/cookiemonsterdev/carousel-slider-approaches-for-building-custom-carousel-components-24pm)
 - [Dev.to/JS] [Day 99: Match Pair](https://dev.to/dhrn/day-98-match-pair-1j1)
 - [Dev.to/JS] [Build your first custom AI-powered application with LangChain](https://dev.to/lovestaco/build-your-first-custom-ai-powered-application-with-langchain-3f2h)
 - [Dev.to/JS] [Build an app with chatGPT: is it real?](https://dev.to/mazault/build-an-app-with-chatgpt-is-it-real-4oip)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ECMAScript 2023: Fresh Goodies for JavaScript Developers](https://dev.to/navdeepm20/dive-into-ecmascript-2023-fresh-goodies-for-javascript-developers-1dda)
 - [Dev.to/JS] [Mastering 6 Key Advanced JavaScript Concepts!!](https://dev.to/big_smoke/mastering-6-key-advanced-javascript-concepts-593o)
 - [Dev.to/JS] [When to use Object.groupBy](https://dev.to/aminnairi/when-to-use-objectgroupby-189n)
-- [Dev.to/JS] [Astro and Svelte vs. SvelteKit: An In-Depth Comparison](https://dev.to/davida/astro-and-svelte-vs-sveltekit-an-in-depth-comparison-1pki)
-- [Dev.to/JS] [Problem with for in](https://dev.to/mailtodanish/problem-with-for-in-cb8)
-- [Dev.to/JS] [👮🛡️ Let&#39;s Navigate the Angular Playground with Route Guards](https://dev.to/ahmedgmurtaza/lets-navigate-the-angular-playground-with-route-guards-3dka)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
