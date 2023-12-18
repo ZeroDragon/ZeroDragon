@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [23 Crazy Resources To Master NextJS in 2024](https://dev.to/rahxuls/23-crazy-resources-to-master-nextjs-in-2024-56fh)
+- [Dev.to/JS] [More secure Vue &amp; Nuxt apps -&gt; by default! 🛡️](https://dev.to/jacobandrewsky/more-secure-vue-nuxt-apps-by-default-3nhi)
+- [Dev.to/JS] [Fallbacks for HTTP 404 images in HTML and JavaScript](https://dev.to/whitep4nth3r/fallbacks-for-http-404-images-in-html-and-javascript-5da1)
 - [Dev.to/JS] [JavaScript vs TypeScript: A Tale of Two Languages](https://dev.to/hriztam/javascript-vs-typescript-a-tale-of-two-languages-16e5)
 - [Dev.to/JS] [TF #28 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-28-your-weekly-frontend-digest-2ebe)
 - [Dev.to/JS] [How to test Angular 17 using Cypress.io](https://dev.to/codingcatdev/how-to-test-angular-17-using-cypressio-27cg)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Choosing the Right Frontend Framework: React vs. Vue vs. Svelte](https://dev.to/kiraaziz/choosing-the-right-frontend-framework-react-vs-vue-vs-svelte-2n48)
 - [Dev.to/JS] [Simplifying State Management in React with Zustand](https://dev.to/kiraaziz/simplifying-state-management-in-react-with-zustand-19k9)
 - [Dev.to/JS] [How to Become a Full Time Content Creator](https://dev.to/codingcatdev/how-to-become-a-full-time-content-creator-3hlo)
-- [Dev.to/JS] [MDSvex with pngwn](https://dev.to/codingcatdev/mdsvex-with-pngwn-37d3)
-- [Dev.to/JS] [🚫⚠️ 5 Critical React useState Pitfalls That Could Jeopardize Your Job: Avoid These Mistakes! 🔥💥](https://dev.to/prathamisonline/5-critical-react-usestate-pitfalls-that-could-jeopardize-your-job-avoid-these-mistakes-48hl)
-- [Dev.to/JS] [Angular 16 Hydration, Signals, Vite](https://dev.to/codingcatdev/angular-16-hydration-signals-vite-4one)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
