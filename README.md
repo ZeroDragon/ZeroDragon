@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #224: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-224-explica-este-codigo-javascript-29bd)
+- [Lifehacker] [How to Download Your Spotify Library for Offline Listening](https://lifehacker.com/tech/how-to-download-music-on-spotify)
+- [Dev.to/JS] [StyleX vs Tailwind?!](https://dev.to/samaghapour/stylex-vs-tailwind-9cf)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/xrryoousnkustin/buy-google-voice-accounts-1gii)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/xrryoousnkustin/buy-google-5-star-reviews-3hnp)
+- [Dev.to/JS] [Online guitar tuner](https://dev.to/audioflux/online-guitar-tuner-12j9)
+- [Lifehacker] [These Are My Favorite Products to Help Anxious Kids](https://lifehacker.com/family/best-products-to-reduce-a-childs-anxiety)
 - [Dev.to/JS] [Best Power Banks in Pakistan.](https://dev.to/sigmamobiles/best-power-banks-in-pakistan-2lco)
 - [Dev.to/JS] [Creating DNS Zone in Azure the easiest way](https://dev.to/olalekan_oladiran_d74b7a6/creating-dns-zone-in-azure-the-easiest-way-42di)
 - [Dev.to/JS] [What are Playwright Locators and Selectors?](https://dev.to/mikestopcontinues/what-are-playwright-locators-and-selectors-1of0)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meet Express.js on Steroids: Fastify&#39;s Rise](https://dev.to/opensourcee/meet-expressjs-on-steroids-fastifys-rise-253g)
 - [Dev.to/JS] [How fast is JS tiktoken?](https://dev.to/maximsaplin/how-fast-is-js-tiktoken-3fmk)
 - [Dev.to/JS] [How to Integrate preact/ react in astro](https://dev.to/karannakra/how-to-integrate-preact-react-in-astro-3gco)
-- [Dev.to/JS] [Destiny Keto ACV Gummies &lpar;Official&rpar; Real organic ,Easy to use 100% Work](https://dev.to/reayarcher/destiny-keto-acv-gummies-official-real-organic-easy-to-use-100-work-2p3)
-- [Dev.to/JS] [Best JavaScript Framework for Machine Website](https://dev.to/nayansingh385/best-javascript-framework-for-machine-website-3c3i)
-- [Dev.to/JS] [23 Crazy Resources To Master NextJS in 2024](https://dev.to/rahxuls/23-crazy-resources-to-master-nextjs-in-2024-56fh)
-- [Dev.to/JS] [More secure Vue &amp; Nuxt apps -&gt; by default! 🛡️](https://dev.to/jacobandrewsky/more-secure-vue-nuxt-apps-by-default-3nhi)
-- [Dev.to/JS] [Fallbacks for HTTP 404 images in HTML and JavaScript](https://dev.to/whitep4nth3r/fallbacks-for-http-404-images-in-html-and-javascript-5da1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Gifts for College Students](https://lifehacker.com/family/best-gifts-for-college-students)
 - [Lifehacker] [How to Choose &lpar;and Install&rpar; the Right Ring Doorbell for You](https://lifehacker.com/tech/how-to-install-ring-doorbell)
 - [Lifehacker] [Forget Roasting: Air Fry Your Chestnuts](https://lifehacker.com/food-drink/how-to-air-fry-chestnuts)
-- [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-your-macbook)
-- [Lifehacker] [To Become Adventurous Learners, Kids Need Routine](https://lifehacker.com/family/help-kids-become-adventurous-learners)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s &#39;Name a Woman&#39; Challenge](https://lifehacker.com/entertainment/the-out-of-touch-guide-to-kid-culture-tiktok-name-a-woman)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-your-macbook)<!-- TECH-POSTS:END -->
 
 ---
 
