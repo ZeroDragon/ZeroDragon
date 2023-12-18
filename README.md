@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-porch-pirates-and-package-thieves)
+- [Dev.to/JS] [Print a single element from a webpage](https://dev.to/pgarciacamou/print-a-single-element-from-a-webpage-5h5h)
+- [Dev.to/JS] [The One Thing Every Developer Should Know](https://dev.to/brock_chestwall/the-one-thing-every-developer-should-know-3774)
+- [Lifehacker] [How to Clean up Christmas Tree Pine Needles Without Wrecking Your Vacuum](https://lifehacker.com/home/how-to-clean-up-christmas-tree-pine-needles)
 - [Lifehacker] [Cuccidati Are the Colorful Italian Christmas Cookie You&#39;ve Been Missing](https://lifehacker.com/food-drink/cuccidati-italian-cookie-recipe)
 - [Lifehacker] [The Best Tech Gifts under $100 That Will Arrive in Time for Christmas](https://lifehacker.com/tech/last-minute-tech-gifts-for-christmas)
 - [Dev.to/JS] [JavaScript&#39;de Conditional Statement Kavramı](https://dev.to/eminaltan/javascriptde-conditional-statement-kavrami-1dbm)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array Methods in JS](https://dev.to/chaseteague/array-methods-in-js-40g5)
 - [Dev.to/JS] [Haunted Wasteland](https://dev.to/rmion/haunted-wasteland-2ik8)
 - [Dev.to/JS] [Equality Comparisons](https://dev.to/catherineisonline/equality-comparisons-7hj)
-- [Dev.to/JS] [What is the population of that region?](https://dev.to/robmwilc/what-is-the-population-of-that-region-3am4)
-- [Dev.to/JS] [GIGO and VS-code: the Battle With Microsoft](https://dev.to/gigo_dev/gigo-and-vs-code-the-battle-with-microsoft-3f2b)
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
 - [Lifehacker] [Claim Your Part of This $25 Million Apple Settlement](https://lifehacker.com/tech/apple-25-million-family-sharing-lawsuit-settlement)
 - [Lifehacker] [Four Ways an ATM Can Ruin Your Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/money/atm-errors-and-scams)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
 - [Lifehacker] [Why Water Is Coming Up Through Your Sink &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/why-water-is-coming-up-through-sink)
-- [Lifehacker] [These Discounted Amazon Devices Will Still Arrive in Time for Christmas](https://lifehacker.com/tech/these-discounted-amazon-devices-will-arrive-before-christmas)
-- [Lifehacker] [The Best Deals on Dyson Vacuums That Will Arrive By Christmas](https://lifehacker.com/home/dyson-stick-vacuum-deals-for-christmas)
-- [Lifehacker] [How to Connect Any Alexa-Enabled Amazon Device to Wifi &lpar;and Troubleshoot These Common Issues&rpar;](https://lifehacker.com/tech/how-to-connect-alexa-to-wifi)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Discounted Amazon Devices Will Still Arrive in Time for Christmas](https://lifehacker.com/tech/these-discounted-amazon-devices-will-arrive-before-christmas)<!-- TECH-POSTS:END -->
 
 ---
 
