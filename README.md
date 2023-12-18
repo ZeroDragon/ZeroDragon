@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript vs TypeScript: A Tale of Two Languages](https://dev.to/hriztam/javascript-vs-typescript-a-tale-of-two-languages-16e5)
+- [Dev.to/JS] [TF #28 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-28-your-weekly-frontend-digest-2ebe)
+- [Dev.to/JS] [How to test Angular 17 using Cypress.io](https://dev.to/codingcatdev/how-to-test-angular-17-using-cypressio-27cg)
+- [Dev.to/JS] [Guide to Dynamic Component Usage in Vue.js and Nuxt](https://dev.to/kucherol/guide-to-dynamic-component-usage-in-vuejs-and-nuxt-c5m)
 - [Dev.to/JS] [Bash scripts with node?](https://dev.to/giuliano1993/bash-scripts-with-node-4d1b)
 - [Dev.to/JS] [Cluster formation](https://dev.to/haojiec75230846/cluster-formation-5573)
 - [Dev.to/JS] [Choosing the Right Frontend Framework: React vs. Vue vs. Svelte](https://dev.to/kiraaziz/choosing-the-right-frontend-framework-react-vs-vue-vs-svelte-2n48)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MDSvex with pngwn](https://dev.to/codingcatdev/mdsvex-with-pngwn-37d3)
 - [Dev.to/JS] [🚫⚠️ 5 Critical React useState Pitfalls That Could Jeopardize Your Job: Avoid These Mistakes! 🔥💥](https://dev.to/prathamisonline/5-critical-react-usestate-pitfalls-that-could-jeopardize-your-job-avoid-these-mistakes-48hl)
 - [Dev.to/JS] [Angular 16 Hydration, Signals, Vite](https://dev.to/codingcatdev/angular-16-hydration-signals-vite-4one)
-- [Dev.to/JS] [Prisma with Alex Ruheni](https://dev.to/codingcatdev/prisma-with-alex-ruheni-406k)
-- [Dev.to/JS] [SvelteLab a supercharged REPL for Svelte](https://dev.to/codingcatdev/sveltelab-a-supercharged-repl-for-svelte-2im9)
-- [Dev.to/JS] [Prompt Engineering with ChatGPT](https://dev.to/codingcatdev/prompt-engineering-with-chatgpt-1a77)
-- [Dev.to/JS] [Flightcontrol is AWS, but Awesome! with Brandon Bayer](https://dev.to/codingcatdev/flightcontrol-is-aws-but-awesome-with-brandon-bayer-2m0o)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
