@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript DOM Tutorial](https://dev.to/codingmadeeasy/javascript-dom-tutorial-40ol)
+- [Dev.to/JS] [Meet Express.js on Steroids: Fastify&#39;s Rise](https://dev.to/opensourcee/meet-expressjs-on-steroids-fastifys-rise-253g)
+- [Dev.to/JS] [How fast is JS tiktoken?](https://dev.to/maximsaplin/how-fast-is-js-tiktoken-3fmk)
 - [Dev.to/JS] [How to Integrate preact/ react in astro](https://dev.to/karannakra/how-to-integrate-preact-react-in-astro-3gco)
 - [Dev.to/JS] [Destiny Keto ACV Gummies &lpar;Official&rpar; Real organic ,Easy to use 100% Work](https://dev.to/reayarcher/destiny-keto-acv-gummies-official-real-organic-easy-to-use-100-work-2p3)
 - [Dev.to/JS] [Best JavaScript Framework for Machine Website](https://dev.to/nayansingh385/best-javascript-framework-for-machine-website-3c3i)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript vs TypeScript: A Tale of Two Languages](https://dev.to/hriztam/javascript-vs-typescript-a-tale-of-two-languages-16e5)
 - [Dev.to/JS] [TF #28 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-28-your-weekly-frontend-digest-2ebe)
 - [Dev.to/JS] [How to test Angular 17 using Cypress.io](https://dev.to/codingcatdev/how-to-test-angular-17-using-cypressio-27cg)
-- [Dev.to/JS] [Guide to Dynamic Component Usage in Vue.js and Nuxt](https://dev.to/kucherol/guide-to-dynamic-component-usage-in-vuejs-and-nuxt-c5m)
-- [Dev.to/JS] [Bash scripts with node?](https://dev.to/giuliano1993/bash-scripts-with-node-4d1b)
-- [Dev.to/JS] [Cluster formation](https://dev.to/haojiec75230846/cluster-formation-5573)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
