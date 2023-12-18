@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dubai Call Girls 📞 00971522916705 📞 Indian Call Girl in Dubai Downtown](https://dev.to/davidlean09/dubai-call-girls-00971522916705-indian-call-girl-in-dubai-downtown-mcg)
+- [Dev.to/JS] [Difference Between Vanilla JavaScript &amp; jQuery, And When Best To Use Them.](https://dev.to/mcbarna/difference-between-vanilla-javascript-jquery-and-when-best-to-use-them-46bn)
+- [Dev.to/JS] [sourcemap.tools — Apply source maps to the JavaScript error stack trace and get the original error position](https://dev.to/rmuratov/sourcemaptools-apply-source-maps-to-the-javascript-error-stack-trace-and-get-the-original-error-position-a1p)
+- [Dev.to/JS] [Build Faster: Your Guide to a Quick-Start Project Template](https://dev.to/one-beyond/build-faster-your-guide-to-a-quick-start-project-template-2o0p)
+- [Dev.to/JS] [Async and Await](https://dev.to/graciesharma/async-and-await-137)
 - [Dev.to/JS] [Paracetamol.js💊| #224: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-224-explica-este-codigo-javascript-29bd)
 - [Lifehacker] [How to Download Your Spotify Library for Offline Listening](https://lifehacker.com/tech/how-to-download-music-on-spotify)
 - [Dev.to/JS] [StyleX vs Tailwind?!](https://dev.to/samaghapour/stylex-vs-tailwind-9cf)
@@ -35,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are My Favorite Products to Help Anxious Kids](https://lifehacker.com/family/best-products-to-reduce-a-childs-anxiety)
 - [Dev.to/JS] [Best Power Banks in Pakistan.](https://dev.to/sigmamobiles/best-power-banks-in-pakistan-2lco)
 - [Dev.to/JS] [Creating DNS Zone in Azure the easiest way](https://dev.to/olalekan_oladiran_d74b7a6/creating-dns-zone-in-azure-the-easiest-way-42di)
-- [Dev.to/JS] [What are Playwright Locators and Selectors?](https://dev.to/mikestopcontinues/what-are-playwright-locators-and-selectors-1of0)
-- [Dev.to/JS] [JavaScript DOM Tutorial](https://dev.to/codingmadeeasy/javascript-dom-tutorial-40ol)
-- [Dev.to/JS] [Meet Express.js on Steroids: Fastify&#39;s Rise](https://dev.to/opensourcee/meet-expressjs-on-steroids-fastifys-rise-253g)
-- [Dev.to/JS] [How fast is JS tiktoken?](https://dev.to/maximsaplin/how-fast-is-js-tiktoken-3fmk)
-- [Dev.to/JS] [How to Integrate preact/ react in astro](https://dev.to/karannakra/how-to-integrate-preact-react-in-astro-3gco)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
