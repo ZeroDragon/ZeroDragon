@@ -26,20 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤫 Secret JavaScript Methods They Don&#39;t Want You To See &lpar;part 4&rpar;: Intl.RelativeTimeFormat&lpar;&rpar;](https://dev.to/magnificode/secret-javascript-methods-they-dont-want-you-to-see-part-4-intlrelativetimeformat-1e8k)
+- [Dev.to/JS] [Visualize and update products with Alpine.js](https://dev.to/aggregata/visualize-and-update-products-with-alpinejs-5ah1)
+- [Dev.to/JS] [call back in a nutshell](https://dev.to/chethancm/call-back-in-a-nutshell-3mb0)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/efyijoyscreyhood/buy-verified-paxful-account-43li)
+- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/efyijoyscreyhood/buy-glassdoor-reviews-2jk)
+- [Dev.to/JS] [A Quick-start guide on hosting Next.js ✨](https://dev.to/platformsh/a-quick-start-guide-on-hosting-nextjs-3d96)
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/efyijoyscreyhood/buy-google-reviews-479i)
+- [Lifehacker] [The Four Types of AirPods &lpar;and How Much They Cost&rpar;](https://lifehacker.com/tech/the-four-types-of-airpods-and-what-they-cost)
 - [Dev.to/JS] [Buy verified Paxful Account](https://dev.to/realnewyorktours23/buy-verified-paxful-account-4cno)
 - [Dev.to/JS] [What they DO NOT Tell you about Freelancing as a Web Developer](https://dev.to/brendamichellle/what-they-do-not-tell-you-about-freelancing-as-a-web-developer-mmi)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/efyijoyscreyhood/buy-google-voice-accounts-1n21)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/efyijoyscreyhood/buy-google-5-star-reviews-2f34)
+- [Lifehacker] [You Can Now Use Microsoft Office on Your Meta Quest Headset for Some Reason](https://lifehacker.com/tech/how-to-use-microsoft-office-on-your-meta-quest-headset)
+- [Lifehacker] [How to Fix a Buzzing Light Fixture](https://lifehacker.com/home/how-to-fix-a-buzzing-light-fixture)
 - [Dev.to/JS] [Dubai Call Girls 📞 00971522916705 📞 Indian Call Girl in Dubai Downtown](https://dev.to/davidlean09/dubai-call-girls-00971522916705-indian-call-girl-in-dubai-downtown-mcg)
-- [Dev.to/JS] [Difference Between Vanilla JavaScript &amp; jQuery, And When Best To Use Them.](https://dev.to/mcbarna/difference-between-vanilla-javascript-jquery-and-when-best-to-use-them-46bn)
-- [Dev.to/JS] [sourcemap.tools — Apply source maps to the JavaScript error stack trace and get the original error position](https://dev.to/rmuratov/sourcemaptools-apply-source-maps-to-the-javascript-error-stack-trace-and-get-the-original-error-position-a1p)
-- [Dev.to/JS] [Build Faster: Your Guide to a Quick-Start Project Template](https://dev.to/one-beyond/build-faster-your-guide-to-a-quick-start-project-template-2o0p)
-- [Dev.to/JS] [Async and Await](https://dev.to/graciesharma/async-and-await-137)
+- [Lifehacker] [How to Clean Your Smart Watch Without Ruining It](https://lifehacker.com/tech/how-to-clean-smart-watch)
 - [Lifehacker] [Every Version of &#39;A Christmas Carol,&#39; Ranked &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/entertainment/a-christmas-carol-versions-ranked)
-- [Dev.to/JS] [Paracetamol.js💊| #224: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-224-explica-este-codigo-javascript-29bd)
 - [Lifehacker] [How to Download Your Spotify Library for Offline Listening](https://lifehacker.com/tech/how-to-download-music-on-spotify)
-- [Dev.to/JS] [StyleX vs Tailwind?!](https://dev.to/samaghapour/stylex-vs-tailwind-9cf)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/xrryoousnkustin/buy-google-voice-accounts-1gii)
 - [Lifehacker] [These Are My Favorite Products to Help Anxious Kids](https://lifehacker.com/family/best-products-to-reduce-a-childs-anxiety)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
@@ -57,15 +61,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Download Songs From Apple Music to Listen to Offline](https://lifehacker.com/tech/how-to-listen-to-apple-music-offline)
 - [Lifehacker] [These Are the Best Gifts for True Self-Care](https://lifehacker.com/health/the-best-gifts-for-self-care)
 - [Lifehacker] [These Are the Best Podcast Apps to Use in 2024](https://lifehacker.com/the-best-podcast-apps-for-ios-android)
-- [Lifehacker] [Where to Spend Your FSA/HSA Funds Before the End of the Year](https://lifehacker.com/money/where-to-spend-fsa-hsa-funds)
+- [Lifehacker] [Where to Spend Your FSA Funds Before the End of the Year](https://lifehacker.com/money/where-to-spend-fsa-hsa-funds)
 - [Lifehacker] [How to Fit and Install Snow Chains](https://lifehacker.com/travel/how-to-fit-and-install-snow-chains)
 - [Lifehacker] [How to Send Messages on Strava Without Giving Away Your Privacy](https://lifehacker.com/tech/how-to-send-messages-on-strava)
 - [Lifehacker] [33 Must-See 2024 Movies to Add to Your Watchlist](https://lifehacker.com/entertainment/the-biggest-movies-coming-in-2024)
-- [Lifehacker] [How to Change Siri’s Accent or Language](https://lifehacker.com/tech/how-to-change-siris-accent-or-language)
-- [Lifehacker] [You Can Use Alexa to Call for Help in an Emergency](https://lifehacker.com/tech/how-to-use-alexa-in-an-emergency)
-- [Lifehacker] [These Are the Best Gifts for College Students](https://lifehacker.com/family/best-gifts-for-college-students)
-- [Lifehacker] [How to Choose &lpar;and Install&rpar; the Right Ring Doorbell for You](https://lifehacker.com/tech/how-to-install-ring-doorbell)
-- [Lifehacker] [Forget Roasting: Air Fry Your Chestnuts](https://lifehacker.com/food-drink/how-to-air-fry-chestnuts)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Change Siri’s Accent or Language](https://lifehacker.com/tech/how-to-change-siris-accent-or-language)<!-- TECH-POSTS:END -->
 
 ---
 
