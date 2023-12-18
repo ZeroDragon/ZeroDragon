@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s our #giftgiving Code Jam, plus a couple dozen more cool links you can and should click on this December](https://dev.to/glitch/its-our-giftgiving-code-jam-plus-a-couple-dozen-more-cool-links-you-can-and-should-click-on-this-december-1nfa)
+- [Dev.to/JS] [Front-End Development: Setting Up Your Environment and Essential Learning Topics](https://dev.to/michaellarocca/front-end-development-setting-up-your-environment-and-essential-learning-topics-41am)
 - [Dev.to/JS] [CLOSURES!!](https://dev.to/itsmohamedyahia/closures-1bi4)
 - [Dev.to/JS] [Flowchart editor dgrm.net / Rights for schemes](https://dev.to/alexboyko/flowchart-editor-dgrmnet-rights-to-schemes-100l)
 - [Dev.to/JS] [lá số tử vi](https://dev.to/tuvi_2_vn/la-so-tu-vi-2c31)
+- [Lifehacker] [You Can Get the Xbox Series X for Its Lowest Price Ever in Time for Christmas](https://lifehacker.com/entertainment/xbox-series-x-sale)
 - [Dev.to/JS] [🤫 Secret JavaScript Methods They Don&#39;t Want You To See &lpar;part 4&rpar;: Intl.RelativeTimeFormat&lpar;&rpar;](https://dev.to/magnificode/secret-javascript-methods-they-dont-want-you-to-see-part-4-intlrelativetimeformat-1e8k)
+- [Lifehacker] [New Apple Watches Are Being Pulled Off the Market Soon](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
 - [Dev.to/JS] [Visualize and update products with Alpine.js](https://dev.to/aggregata/visualize-and-update-products-with-alpinejs-5ah1)
 - [Lifehacker] [These Are the Financial Milestones You Should Actually Hit by Age 30](https://lifehacker.com/money/financial-goals-for-30-year-olds)
 - [Dev.to/JS] [call back in a nutshell](https://dev.to/chethancm/call-back-in-a-nutshell-3mb0)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Quick-start guide on hosting Next.js ✨](https://dev.to/platformsh/a-quick-start-guide-on-hosting-nextjs-3d96)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/efyijoyscreyhood/buy-google-reviews-479i)
 - [Lifehacker] [The Four Types of AirPods &lpar;and How Much They Cost&rpar;](https://lifehacker.com/tech/the-four-types-of-airpods-and-what-they-cost)
-- [Dev.to/JS] [Buy verified Paxful Account](https://dev.to/realnewyorktours23/buy-verified-paxful-account-4cno)
-- [Dev.to/JS] [What they DO NOT Tell you about Freelancing as a Web Developer](https://dev.to/brendamichellle/what-they-do-not-tell-you-about-freelancing-as-a-web-developer-mmi)
 - [Lifehacker] [You Can Now Use Microsoft Office on Your Meta Quest Headset for Some Reason](https://lifehacker.com/tech/how-to-use-microsoft-office-on-your-meta-quest-headset)
 - [Lifehacker] [How to Fix a Buzzing Light Fixture](https://lifehacker.com/home/how-to-fix-a-buzzing-light-fixture)
 - [Lifehacker] [How to Clean Your Smart Watch Without Ruining It](https://lifehacker.com/tech/how-to-clean-smart-watch)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Gifts for True Self-Care](https://lifehacker.com/health/the-best-gifts-for-self-care)
 - [Lifehacker] [These Are the Best Podcast Apps to Use in 2024](https://lifehacker.com/the-best-podcast-apps-for-ios-android)
 - [Lifehacker] [Where to Spend Your FSA Funds Before the End of the Year](https://lifehacker.com/money/where-to-spend-fsa-hsa-funds)
-- [Lifehacker] [How to Fit and Install Snow Chains](https://lifehacker.com/travel/how-to-fit-and-install-snow-chains)
-- [Lifehacker] [How to Send Messages on Strava Without Giving Away Your Privacy](https://lifehacker.com/tech/how-to-send-messages-on-strava)
-- [Lifehacker] [33 Must-See 2024 Movies to Add to Your Watchlist](https://lifehacker.com/entertainment/the-biggest-movies-coming-in-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fit and Install Snow Chains](https://lifehacker.com/travel/how-to-fit-and-install-snow-chains)<!-- TECH-POSTS:END -->
 
 ---
 
