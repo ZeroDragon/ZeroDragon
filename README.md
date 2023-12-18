@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup Docker Production Mode](https://dev.to/akbarnafisa/setup-docker-production-mode-21ba)
+- [Dev.to/JS] [🤨 Who owns the internet?](https://dev.to/best_codes/who-owns-the-internet-3jp5)
+- [Dev.to/JS] [Customizing Cache Keys on Cloudflare&#39;s Free Plan](https://dev.to/dongnaebi/customizing-cache-keys-on-cloudflares-free-plan-9fb)
+- [Dev.to/JS] [Things I wish I knew when learning to use Cucumber &amp; Selenium with Node.JS](https://dev.to/adamdsherman/things-i-wish-i-knew-when-learning-to-use-cucumber-selenium-with-nodejs-3oae)
 - [Dev.to/JS] [Node CLI Time Tracker](https://dev.to/f3rno64/node-cli-time-tracker-5dka)
 - [Dev.to/JS] [How to migrate from Jest to Vitest without headaches!](https://dev.to/julbrs/how-to-migrate-from-jest-to-vitest-without-headaches-4f20)
 - [Dev.to/JS] [AI Prompt setup on Nextjs.](https://dev.to/kamruzzaman/ai-prompt-setup-on-nextjs-2109)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scaffolding redux-toolkit in NextJs](https://dev.to/kamruzzaman/scaffolding-redux-toolkit-in-nextjs-1n2p)
 - [Dev.to/JS] [Making API Using Node and Express](https://dev.to/kamruzzaman/making-api-using-node-and-express-4a9l)
 - [Dev.to/JS] [MERN Project: Movie Portal with AI- using Node &amp; Next.js](https://dev.to/kamruzzaman/mern-project-movie-portal-with-ai-using-node-nextjs-2k7k)
-- [Dev.to/JS] [It&#39;s time to talk about DRY](https://dev.to/vlad_sha/its-time-to-talk-about-dry-2h69)
-- [Dev.to/JS] [Why Node Locksmith is the Game Changer for Node.js Applications](https://dev.to/saivaraprasad/why-node-locksmith-is-the-game-changer-for-nodejs-applications-fnh)
-- [Dev.to/JS] [Simplify, Groupify, Conquer: The convenience of Object.GroupBy&lpar;&rpar; in JavaScript](https://dev.to/subaash_b/simplify-groupify-conquer-the-convenience-of-objectgroupby-in-javascript-2h5)
-- [Dev.to/JS] [Focus trap](https://dev.to/nicm42/focus-trap-1np)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
