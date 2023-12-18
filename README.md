@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating the Depts of Learning: A journey through Phase 1](https://dev.to/merimaxdedic/navigating-the-depts-of-learning-a-journey-through-phase-1-4laa)
+- [Dev.to/JS] [A Look Into Recusion](https://dev.to/peytono/a-look-into-recusion-39ml)
+- [Dev.to/JS] [Eager loading vs lazy loading](https://dev.to/juanpinheirx/eager-loading-vs-lazy-loading-90o)
+- [Dev.to/JS] [Display the line numbers in a text area](https://dev.to/phuocng/display-the-line-numbers-in-a-text-area-46mk)
 - [Dev.to/JS] [Highlight keywords in a text area](https://dev.to/phuocng/highlight-keywords-in-a-text-area-45k1)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Dev.to/JS] [Setup Docker Production Mode](https://dev.to/akbarnafisa/setup-docker-production-mode-21ba)
 - [Dev.to/JS] [🤨 Who owns the internet?](https://dev.to/best_codes/who-owns-the-internet-3jp5)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
 - [Dev.to/JS] [Customizing Cache Keys on Cloudflare&#39;s Free Plan](https://dev.to/dongnaebi/customizing-cache-keys-on-cloudflares-free-plan-9fb)
 - [Dev.to/JS] [Things I wish I knew when learning to use Cucumber &amp; Selenium with Node.JS](https://dev.to/adamdsherman/things-i-wish-i-knew-when-learning-to-use-cucumber-selenium-with-nodejs-3oae)
 - [Dev.to/JS] [Node CLI Time Tracker](https://dev.to/f3rno64/node-cli-time-tracker-5dka)
 - [Dev.to/JS] [How to migrate from Jest to Vitest without headaches!](https://dev.to/julbrs/how-to-migrate-from-jest-to-vitest-without-headaches-4f20)
 - [Dev.to/JS] [AI Prompt setup on Nextjs.](https://dev.to/kamruzzaman/ai-prompt-setup-on-nextjs-2109)
-- [Dev.to/JS] [Stun Server: What is Session Traversal Utilities for NAT?](https://dev.to/alakkadshaw/stun-server-what-is-session-traversal-utilities-for-nat-2d8k)
-- [Dev.to/JS] [API Setup in NextJs](https://dev.to/kamruzzaman/api-setup-in-nextjs-3gen)
-- [Dev.to/JS] [Scaffolding redux-toolkit in NextJs](https://dev.to/kamruzzaman/scaffolding-redux-toolkit-in-nextjs-1n2p)
-- [Dev.to/JS] [Making API Using Node and Express](https://dev.to/kamruzzaman/making-api-using-node-and-express-4a9l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Forget Roasting: Air Fry Your Chestnuts](https://lifehacker.com/food-drink/how-to-air-fry-chestnuts)
 - [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-your-macbook)
 - [Lifehacker] [To Become Adventurous Learners, Kids Need Routine](https://lifehacker.com/family/help-kids-become-adventurous-learners)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s &#39;Name a Woman&#39; Challenge](https://lifehacker.com/entertainment/the-out-of-touch-guide-to-kid-culture-tiktok-name-a-woman)
-- [Lifehacker] [Strategically Schedule Your PTO to Get 10 Long Weekends in 2024](https://lifehacker.com/work/best-strategy-for-scheduling-pto)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 15, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-15-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s &#39;Name a Woman&#39; Challenge](https://lifehacker.com/entertainment/the-out-of-touch-guide-to-kid-culture-tiktok-name-a-woman)<!-- TECH-POSTS:END -->
 
 ---
 
