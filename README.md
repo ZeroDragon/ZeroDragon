@@ -26,10 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Cuccidati Are the Colorful Italian Christmas Cookie You&#39;ve Been Missing](https://lifehacker.com/food-drink/cuccidati-italian-cookie-recipe)
+- [Lifehacker] [The Best Tech Gifts under $100 That Will Arrive in Time for Christmas](https://lifehacker.com/tech/last-minute-tech-gifts-for-christmas)
 - [Dev.to/JS] [JavaScript&#39;de Conditional Statement Kavramı](https://dev.to/eminaltan/javascriptde-conditional-statement-kavrami-1dbm)
 - [Dev.to/JS] [Creating a Vue Application with CDN setup](https://dev.to/lenildoluan/creating-a-vue-application-with-cdn-setup-32d2)
 - [Dev.to/JS] [Understanding import and require in JavaScript: A Guide for Beginners](https://dev.to/ersocon/understanding-import-and-require-in-javascript-a-guide-for-beginners-j7h)
 - [Dev.to/JS] [20 ReactJS Best Practices Learned From Code Reviews 🚀](https://dev.to/prathamisonline/20-reactjs-best-practices-learned-from-code-reviews-c7a)
+- [Lifehacker] [7 Last-minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/money/best-last-minute-holiday-gift-card-ideas)
 - [Dev.to/JS] [Vue 3 - inifinite scroll using intersection observer with composables, pinia and Typescript 🍍](https://dev.to/hichembenchaabene/vue-3-inifinite-scroll-using-intersection-observer-with-composables-pinia-and-typescript-410e)
 - [Dev.to/JS] [View your local React App on your phone.](https://dev.to/vivek09thakur/view-your-local-react-app-on-your-phone-4c2i)
 - [Dev.to/JS] [DRepo: A Decentralized Version Control System- Day 3](https://dev.to/dipayandas24/drepo-a-decentralized-version-control-system-day-3-4cep)
@@ -38,6 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Equality Comparisons](https://dev.to/catherineisonline/equality-comparisons-7hj)
 - [Dev.to/JS] [What is the population of that region?](https://dev.to/robmwilc/what-is-the-population-of-that-region-3am4)
 - [Dev.to/JS] [GIGO and VS-code: the Battle With Microsoft](https://dev.to/gigo_dev/gigo-and-vs-code-the-battle-with-microsoft-3f2b)
+- [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
+- [Lifehacker] [Claim Your Part of This $25 Million Apple Settlement](https://lifehacker.com/tech/apple-25-million-family-sharing-lawsuit-settlement)
 - [Lifehacker] [Four Ways an ATM Can Ruin Your Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/money/atm-errors-and-scams)
 - [Lifehacker] [Eggs, Gas, and Other Prices That Are Actually Deflating](https://lifehacker.com/money/prices-that-are-actually-deflating-right-now)
 - [Lifehacker] [You Can Get the Xbox Series X for Its Lowest Price Ever in Time for Christmas](https://lifehacker.com/entertainment/xbox-series-x-sale)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Water Is Coming Up Through Your Sink &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/why-water-is-coming-up-through-sink)
 - [Lifehacker] [These Discounted Amazon Devices Will Still Arrive in Time for Christmas](https://lifehacker.com/tech/these-discounted-amazon-devices-will-arrive-before-christmas)
 - [Lifehacker] [The Best Deals on Dyson Vacuums That Will Arrive By Christmas](https://lifehacker.com/home/dyson-stick-vacuum-deals-for-christmas)
-- [Lifehacker] [How to Connect Any Alexa-Enabled Amazon Device to Wifi &lpar;and Troubleshoot These Common Issues&rpar;](https://lifehacker.com/tech/how-to-connect-alexa-to-wifi)
-- [Lifehacker] [Evil Week: All the Shady Things You Can Do With a Flipper Zero](https://lifehacker.com/evil-week-all-the-shady-things-you-can-do-with-a-flipp-1850968904)
-- [Lifehacker] [Where to Get Free Vet Care for Your Cat or Dog](https://lifehacker.com/money/where-to-get-free-vet-care-for-your-cat-or-dog)
-- [Lifehacker] [How to Download Songs From Apple Music to Listen to Offline](https://lifehacker.com/tech/how-to-listen-to-apple-music-offline)
-- [Lifehacker] [These Are the Best Gifts for True Self-Care](https://lifehacker.com/health/the-best-gifts-for-self-care)
-- [Lifehacker] [These Are the Best Podcast Apps to Use in 2024](https://lifehacker.com/the-best-podcast-apps-for-ios-android)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Connect Any Alexa-Enabled Amazon Device to Wifi &lpar;and Troubleshoot These Common Issues&rpar;](https://lifehacker.com/tech/how-to-connect-alexa-to-wifi)<!-- TECH-POSTS:END -->
 
 ---
 
