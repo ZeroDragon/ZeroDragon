@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Integrate preact/ react in astro](https://dev.to/karannakra/how-to-integrate-preact-react-in-astro-3gco)
+- [Dev.to/JS] [Destiny Keto ACV Gummies &lpar;Official&rpar; Real organic ,Easy to use 100% Work](https://dev.to/reayarcher/destiny-keto-acv-gummies-official-real-organic-easy-to-use-100-work-2p3)
+- [Dev.to/JS] [Best JavaScript Framework for Machine Website](https://dev.to/nayansingh385/best-javascript-framework-for-machine-website-3c3i)
 - [Dev.to/JS] [23 Crazy Resources To Master NextJS in 2024](https://dev.to/rahxuls/23-crazy-resources-to-master-nextjs-in-2024-56fh)
 - [Dev.to/JS] [More secure Vue &amp; Nuxt apps -&gt; by default! 🛡️](https://dev.to/jacobandrewsky/more-secure-vue-nuxt-apps-by-default-3nhi)
 - [Dev.to/JS] [Fallbacks for HTTP 404 images in HTML and JavaScript](https://dev.to/whitep4nth3r/fallbacks-for-http-404-images-in-html-and-javascript-5da1)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guide to Dynamic Component Usage in Vue.js and Nuxt](https://dev.to/kucherol/guide-to-dynamic-component-usage-in-vuejs-and-nuxt-c5m)
 - [Dev.to/JS] [Bash scripts with node?](https://dev.to/giuliano1993/bash-scripts-with-node-4d1b)
 - [Dev.to/JS] [Cluster formation](https://dev.to/haojiec75230846/cluster-formation-5573)
-- [Dev.to/JS] [Choosing the Right Frontend Framework: React vs. Vue vs. Svelte](https://dev.to/kiraaziz/choosing-the-right-frontend-framework-react-vs-vue-vs-svelte-2n48)
-- [Dev.to/JS] [Simplifying State Management in React with Zustand](https://dev.to/kiraaziz/simplifying-state-management-in-react-with-zustand-19k9)
-- [Dev.to/JS] [How to Become a Full Time Content Creator](https://dev.to/codingcatdev/how-to-become-a-full-time-content-creator-3hlo)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
