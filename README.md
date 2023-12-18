@@ -26,20 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy verified Paxful Account](https://dev.to/realnewyorktours23/buy-verified-paxful-account-4cno)
+- [Dev.to/JS] [What they DO NOT Tell you about Freelancing as a Web Developer](https://dev.to/brendamichellle/what-they-do-not-tell-you-about-freelancing-as-a-web-developer-mmi)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/efyijoyscreyhood/buy-google-voice-accounts-1n21)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/efyijoyscreyhood/buy-google-5-star-reviews-2f34)
 - [Dev.to/JS] [Dubai Call Girls 📞 00971522916705 📞 Indian Call Girl in Dubai Downtown](https://dev.to/davidlean09/dubai-call-girls-00971522916705-indian-call-girl-in-dubai-downtown-mcg)
 - [Dev.to/JS] [Difference Between Vanilla JavaScript &amp; jQuery, And When Best To Use Them.](https://dev.to/mcbarna/difference-between-vanilla-javascript-jquery-and-when-best-to-use-them-46bn)
 - [Dev.to/JS] [sourcemap.tools — Apply source maps to the JavaScript error stack trace and get the original error position](https://dev.to/rmuratov/sourcemaptools-apply-source-maps-to-the-javascript-error-stack-trace-and-get-the-original-error-position-a1p)
 - [Dev.to/JS] [Build Faster: Your Guide to a Quick-Start Project Template](https://dev.to/one-beyond/build-faster-your-guide-to-a-quick-start-project-template-2o0p)
 - [Dev.to/JS] [Async and Await](https://dev.to/graciesharma/async-and-await-137)
+- [Lifehacker] [Every Version of &#39;A Christmas Carol,&#39; Ranked &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/entertainment/a-christmas-carol-versions-ranked)
 - [Dev.to/JS] [Paracetamol.js💊| #224: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-224-explica-este-codigo-javascript-29bd)
 - [Lifehacker] [How to Download Your Spotify Library for Offline Listening](https://lifehacker.com/tech/how-to-download-music-on-spotify)
 - [Dev.to/JS] [StyleX vs Tailwind?!](https://dev.to/samaghapour/stylex-vs-tailwind-9cf)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/xrryoousnkustin/buy-google-voice-accounts-1gii)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/xrryoousnkustin/buy-google-5-star-reviews-3hnp)
-- [Dev.to/JS] [Online guitar tuner](https://dev.to/audioflux/online-guitar-tuner-12j9)
 - [Lifehacker] [These Are My Favorite Products to Help Anxious Kids](https://lifehacker.com/family/best-products-to-reduce-a-childs-anxiety)
-- [Dev.to/JS] [Best Power Banks in Pakistan.](https://dev.to/sigmamobiles/best-power-banks-in-pakistan-2lco)
-- [Dev.to/JS] [Creating DNS Zone in Azure the easiest way](https://dev.to/olalekan_oladiran_d74b7a6/creating-dns-zone-in-azure-the-easiest-way-42di)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use Alexa to Call for Help in an Emergency](https://lifehacker.com/tech/how-to-use-alexa-in-an-emergency)
 - [Lifehacker] [These Are the Best Gifts for College Students](https://lifehacker.com/family/best-gifts-for-college-students)
 - [Lifehacker] [How to Choose &lpar;and Install&rpar; the Right Ring Doorbell for You](https://lifehacker.com/tech/how-to-install-ring-doorbell)
-- [Lifehacker] [Forget Roasting: Air Fry Your Chestnuts](https://lifehacker.com/food-drink/how-to-air-fry-chestnuts)
-- [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-your-macbook)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Forget Roasting: Air Fry Your Chestnuts](https://lifehacker.com/food-drink/how-to-air-fry-chestnuts)<!-- TECH-POSTS:END -->
 
 ---
 
