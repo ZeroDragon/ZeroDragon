@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🌐🔍 Unveiling the Power of `aria-label` in HTML!](https://dev.to/punitsonime/unveiling-the-power-of-aria-label-in-html-29c)
+- [Dev.to/JS] [Driving Growth through Technology: IT Consulting Insights](https://dev.to/techverceus/driving-growth-through-technology-it-consulting-insights-213f)
+- [Dev.to/JS] [Design Uber](https://dev.to/zeeshanali0704/design-uber-396e)
+- [Dev.to/JS] [Out with the new](https://dev.to/spoder/out-with-the-new-223d)
+- [Dev.to/JS] [The Myth of &#39;Just Press Record&#39; in Podcasting](https://dev.to/codingcatdev/the-myth-of-just-press-record-in-podcasting-3gek)
+- [Dev.to/JS] [Download Free programing Course As We Offer in Paid](https://dev.to/khurram121/download-free-programing-course-as-we-offer-in-paid-4cni)
 - [Dev.to/JS] [A Look Into Recursion](https://dev.to/peytono/a-look-into-recursion-32dg)
 - [Dev.to/JS] [Navigating the Depts of Learning: A journey through Phase 1](https://dev.to/merimaxdedic/navigating-the-depts-of-learning-a-journey-through-phase-1-4laa)
 - [Dev.to/JS] [Eager loading vs lazy loading](https://dev.to/juanpinheirx/eager-loading-vs-lazy-loading-90o)
@@ -33,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Highlight keywords in a text area](https://dev.to/phuocng/highlight-keywords-in-a-text-area-45k1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Dev.to/JS] [Setup Docker Production Mode](https://dev.to/akbarnafisa/setup-docker-production-mode-21ba)
-- [Dev.to/JS] [🤨 Who owns the internet?](https://dev.to/best_codes/who-owns-the-internet-3jp5)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
-- [Dev.to/JS] [Customizing Cache Keys on Cloudflare&#39;s Free Plan](https://dev.to/dongnaebi/customizing-cache-keys-on-cloudflares-free-plan-9fb)
-- [Dev.to/JS] [Things I wish I knew when learning to use Cucumber &amp; Selenium with Node.JS](https://dev.to/adamdsherman/things-i-wish-i-knew-when-learning-to-use-cucumber-selenium-with-nodejs-3oae)
-- [Dev.to/JS] [Node CLI Time Tracker](https://dev.to/f3rno64/node-cli-time-tracker-5dka)
-- [Dev.to/JS] [How to migrate from Jest to Vitest without headaches!](https://dev.to/julbrs/how-to-migrate-from-jest-to-vitest-without-headaches-4f20)
-- [Dev.to/JS] [AI Prompt setup on Nextjs.](https://dev.to/kamruzzaman/ai-prompt-setup-on-nextjs-2109)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
