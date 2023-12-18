@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Power Banks in Pakistan.](https://dev.to/sigmamobiles/best-power-banks-in-pakistan-2lco)
+- [Dev.to/JS] [Creating DNS Zone in Azure the easiest way](https://dev.to/olalekan_oladiran_d74b7a6/creating-dns-zone-in-azure-the-easiest-way-42di)
+- [Dev.to/JS] [What are Playwright Locators and Selectors?](https://dev.to/mikestopcontinues/what-are-playwright-locators-and-selectors-1of0)
 - [Dev.to/JS] [JavaScript DOM Tutorial](https://dev.to/codingmadeeasy/javascript-dom-tutorial-40ol)
 - [Dev.to/JS] [Meet Express.js on Steroids: Fastify&#39;s Rise](https://dev.to/opensourcee/meet-expressjs-on-steroids-fastifys-rise-253g)
 - [Dev.to/JS] [How fast is JS tiktoken?](https://dev.to/maximsaplin/how-fast-is-js-tiktoken-3fmk)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [23 Crazy Resources To Master NextJS in 2024](https://dev.to/rahxuls/23-crazy-resources-to-master-nextjs-in-2024-56fh)
 - [Dev.to/JS] [More secure Vue &amp; Nuxt apps -&gt; by default! 🛡️](https://dev.to/jacobandrewsky/more-secure-vue-nuxt-apps-by-default-3nhi)
 - [Dev.to/JS] [Fallbacks for HTTP 404 images in HTML and JavaScript](https://dev.to/whitep4nth3r/fallbacks-for-http-404-images-in-html-and-javascript-5da1)
-- [Dev.to/JS] [JavaScript vs TypeScript: A Tale of Two Languages](https://dev.to/hriztam/javascript-vs-typescript-a-tale-of-two-languages-16e5)
-- [Dev.to/JS] [TF #28 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-28-your-weekly-frontend-digest-2ebe)
-- [Dev.to/JS] [How to test Angular 17 using Cypress.io](https://dev.to/codingcatdev/how-to-test-angular-17-using-cypressio-27cg)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
