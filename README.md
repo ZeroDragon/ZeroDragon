@@ -26,8 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Look Into Recursion](https://dev.to/peytono/a-look-into-recursion-32dg)
 - [Dev.to/JS] [Navigating the Depts of Learning: A journey through Phase 1](https://dev.to/merimaxdedic/navigating-the-depts-of-learning-a-journey-through-phase-1-4laa)
-- [Dev.to/JS] [A Look Into Recusion](https://dev.to/peytono/a-look-into-recusion-39ml)
 - [Dev.to/JS] [Eager loading vs lazy loading](https://dev.to/juanpinheirx/eager-loading-vs-lazy-loading-90o)
 - [Dev.to/JS] [Display the line numbers in a text area](https://dev.to/phuocng/display-the-line-numbers-in-a-text-area-46mk)
 - [Dev.to/JS] [Highlight keywords in a text area](https://dev.to/phuocng/highlight-keywords-in-a-text-area-45k1)
