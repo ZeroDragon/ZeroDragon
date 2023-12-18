@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Highlight keywords in a text area](https://dev.to/phuocng/highlight-keywords-in-a-text-area-45k1)
 - [Dev.to/JS] [Setup Docker Production Mode](https://dev.to/akbarnafisa/setup-docker-production-mode-21ba)
 - [Dev.to/JS] [🤨 Who owns the internet?](https://dev.to/best_codes/who-owns-the-internet-3jp5)
 - [Dev.to/JS] [Customizing Cache Keys on Cloudflare&#39;s Free Plan](https://dev.to/dongnaebi/customizing-cache-keys-on-cloudflares-free-plan-9fb)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [API Setup in NextJs](https://dev.to/kamruzzaman/api-setup-in-nextjs-3gen)
 - [Dev.to/JS] [Scaffolding redux-toolkit in NextJs](https://dev.to/kamruzzaman/scaffolding-redux-toolkit-in-nextjs-1n2p)
 - [Dev.to/JS] [Making API Using Node and Express](https://dev.to/kamruzzaman/making-api-using-node-and-express-4a9l)
-- [Dev.to/JS] [MERN Project: Movie Portal with AI- using Node &amp; Next.js](https://dev.to/kamruzzaman/mern-project-movie-portal-with-ai-using-node-nextjs-2k7k)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
