@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node CLI Time Tracker](https://dev.to/f3rno64/node-cli-time-tracker-5dka)
 - [Dev.to/JS] [How to migrate from Jest to Vitest without headaches!](https://dev.to/julbrs/how-to-migrate-from-jest-to-vitest-without-headaches-4f20)
 - [Dev.to/JS] [AI Prompt setup on Nextjs.](https://dev.to/kamruzzaman/ai-prompt-setup-on-nextjs-2109)
 - [Dev.to/JS] [Stun Server: What is Session Traversal Utilities for NAT?](https://dev.to/alakkadshaw/stun-server-what-is-session-traversal-utilities-for-nat-2d8k)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Node Locksmith is the Game Changer for Node.js Applications](https://dev.to/saivaraprasad/why-node-locksmith-is-the-game-changer-for-nodejs-applications-fnh)
 - [Dev.to/JS] [Simplify, Groupify, Conquer: The convenience of Object.GroupBy&lpar;&rpar; in JavaScript](https://dev.to/subaash_b/simplify-groupify-conquer-the-convenience-of-objectgroupby-in-javascript-2h5)
 - [Dev.to/JS] [Focus trap](https://dev.to/nicm42/focus-trap-1np)
-- [Dev.to/JS] [Carousel / Slider - Approaches for building custom carousel component](https://dev.to/cookiemonsterdev/carousel-slider-approaches-for-building-custom-carousel-components-24pm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
