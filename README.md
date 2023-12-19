@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Whipped Ricotta Is the Easiest Way to Upgrade Your Holiday Appetizer Spread](https://lifehacker.com/food-drink/easy-whipped-ricotta-cheese-recipe)
 - [Dev.to/JS] [Creando un Custom Element para transformar Imágenes en JavaScript](https://dev.to/ratapan/creando-un-custom-element-para-transformar-imagenes-en-javascript-1a1h)
+- [Lifehacker] [Use a &#39;Single Source of Truth&#39; to Be More Productive](https://lifehacker.com/work/use-a-single-source-of-truth-to-be-more-productive)
+- [Lifehacker] [You Can Learn Spanish on Rosetta Stone for Less Than $100 Right Now](https://lifehacker.com/tech/spanish-rosetta-stone)
 - [Dev.to/JS] [Exploring Modern Mobile App Development: A Comprehensive Guide](https://dev.to/kiraaziz/exploring-modern-mobile-app-development-a-comprehensive-guide-1724)
 - [Dev.to/JS] [The Evolution of Web Development: From Birth to the Modern Era](https://dev.to/kiraaziz/the-evolution-of-web-development-from-birth-to-the-modern-era-39p2)
+- [Lifehacker] [Why ‘ADIEU’ Is a Terrible Wordle Starter, According to the New York Times](https://lifehacker.com/entertainment/best-nyt-wordle-starter-words)
+- [Lifehacker] [How to Get the Best Price on a Car During the Holidays](https://lifehacker.com/travel/how-to-get-the-best-price-on-a-car-during-the-holidays)
 - [Lifehacker] [Firefox for Android Finally Has Support for Extensions Again](https://lifehacker.com/tech/firefox-for-android-extension-support)
 - [Lifehacker] [The Best Sales on Headphones That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-headphone-airbud-deals-that-arrive-by-christmas)
 - [Dev.to/JS] [Writing useEffect from scratch](https://dev.to/joaquinniembro/writing-useeffect-from-scratch-2gbm)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cuccidati Are the Colorful Italian Christmas Cookie You&#39;ve Been Missing](https://lifehacker.com/food-drink/cuccidati-italian-cookie-recipe)
 - [Lifehacker] [The Best Tech Gifts under $100 That Will Arrive in Time for Christmas](https://lifehacker.com/tech/last-minute-tech-gifts-for-christmas)
 - [Lifehacker] [7 Last-minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/money/best-last-minute-holiday-gift-card-ideas)
-- [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
-- [Lifehacker] [Claim Your Part of This $25 Million Apple Settlement](https://lifehacker.com/tech/apple-25-million-family-sharing-lawsuit-settlement)
-- [Lifehacker] [Four Ways an ATM Can Ruin Your Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/money/atm-errors-and-scams)
-- [Lifehacker] [Eggs, Gas, and Other Prices That Are Actually Deflating](https://lifehacker.com/money/prices-that-are-actually-deflating-right-now)
-- [Lifehacker] [You Can Get the Xbox Series X for Its Lowest Price Ever in Time for Christmas](https://lifehacker.com/entertainment/xbox-series-x-sale)
-- [Lifehacker] [These Are the Financial Milestones You Should Actually Hit by Age 30](https://lifehacker.com/money/financial-goals-for-30-year-olds)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)<!-- TECH-POSTS:END -->
 
 ---
 
