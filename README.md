@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Redux Toolkit Simplified](https://dev.to/tanmaycode/redux-toolkit-simplified-1iig)
 - [Dev.to/JS] [If it reaches an extent where some of WoTLK 21](https://dev.to/yangxuebao/if-it-reaches-an-extent-where-some-of-wotlk-21-4kco)
 - [Dev.to/JS] [Trends for 2024 in backend and web development](https://dev.to/sparkouttech/trends-for-2024-in-backend-and-web-development-4h40)
 - [Dev.to/JS] [Free Way to Add Notification Center in Your Mobile/ Web Application](https://dev.to/suprsend/free-way-to-add-notification-center-in-your-mobile-web-application-bm3)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Proxy Server Providers List of 2023 &lpar;Part 3&rpar;](https://dev.to/browserscan/best-proxy-server-providers-list-of-2023-part-3-21b1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-19-2023)
 - [Dev.to/JS] [AGRICULTURAL ROBOTS](https://dev.to/haojiec75230846/agricultural-robots-1af)
-- [Dev.to/JS] [Calculate the coordinates of the current cursor in a text area](https://dev.to/phuocng/calculate-the-coordinates-of-the-current-cursor-in-a-text-area-cle)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
 - [Lifehacker] [This Roku TV Soundbar Is 75% Off Right Now](https://lifehacker.com/tech/tcl-soundbar-for-roku-tvs-75-percent-off)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-porch-pirates-and-package-thieves)
