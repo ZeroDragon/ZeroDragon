@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering `aria-activedescendant` in HTML!](https://dev.to/punitsonime/mastering-aria-activedescendant-in-html-mb6)
+- [Dev.to/JS] [What is a Javascript Constructor? Learn it with the help of a story](https://dev.to/codingmadeeasy/what-is-a-javascript-constructor-learn-it-with-the-help-of-a-story-2nc5)
 - [Dev.to/JS] [Créer un Site Web de Rencontres Statique avec GitHub Pages](https://dev.to/levifrance/creer-un-site-web-de-rencontres-statique-avec-github-pages-48kl)
 - [Dev.to/JS] [Highlight the current line in a text area](https://dev.to/phuocng/highlight-the-current-line-in-a-text-area-36aj)
 - [Dev.to/JS] [Tutorial jest](https://dev.to/badruti94/tutorial-jest-1h1l)
@@ -40,11 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Roku TV Soundbar Is 75% Off Right Now](https://lifehacker.com/tech/tcl-soundbar-for-roku-tvs-75-percent-off)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-porch-pirates-and-package-thieves)
 - [Dev.to/JS] [Print a single element from a webpage](https://dev.to/pgarciacamou/print-a-single-element-from-a-webpage-5h5h)
-- [Dev.to/JS] [The One Thing Every Developer Should Know](https://dev.to/brock_chestwall/the-one-thing-every-developer-should-know-3774)
 - [Lifehacker] [How to Clean up Christmas Tree Pine Needles Without Wrecking Your Vacuum](https://lifehacker.com/home/how-to-clean-up-christmas-tree-pine-needles)
 - [Lifehacker] [Cuccidati Are the Colorful Italian Christmas Cookie You&#39;ve Been Missing](https://lifehacker.com/food-drink/cuccidati-italian-cookie-recipe)
 - [Lifehacker] [The Best Tech Gifts under $100 That Will Arrive in Time for Christmas](https://lifehacker.com/tech/last-minute-tech-gifts-for-christmas)
-- [Dev.to/JS] [JavaScript&#39;de Conditional Statement Kavramı](https://dev.to/eminaltan/javascriptde-conditional-statement-kavrami-1dbm)
 - [Lifehacker] [7 Last-minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/money/best-last-minute-holiday-gift-card-ideas)
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
 - [Lifehacker] [Claim Your Part of This $25 Million Apple Settlement](https://lifehacker.com/tech/apple-25-million-family-sharing-lawsuit-settlement)
