@@ -26,12 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Firefox for Android Finally Has Support for Extensions Again](https://lifehacker.com/tech/firefox-for-android-extension-support)
+- [Lifehacker] [The Best Sales on Headphones That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-headphone-airbud-deals-that-arrive-by-christmas)
+- [Dev.to/JS] [The only real free external media storage you&#39;ll need!](https://dev.to/viacheslavzyrianov/the-only-real-free-external-media-storage-youll-need-3g57)
 - [Dev.to/JS] [How to implement emojis in Vercel/satori](https://dev.to/opensauced/how-to-implement-emojis-in-vercelsatori-2no5)
+- [Lifehacker] [New Apple Watches Are Being Pulled Off the Market Soon](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
 - [Dev.to/JS] [Getting Started With GraphQL &amp; Why it is Required &lpar;Part 1&rpar;](https://dev.to/ganeshyadav3142/getting-started-with-graphql-why-it-is-required-part-1-kg5)
 - [Dev.to/JS] [Add Localization Translate to React App with redux &lpar;without i18next&rpar;](https://dev.to/idurar/add-localization-translate-to-react-app-with-redux-without-i18next-2hoi)
+- [Lifehacker] [There Might Be a Cheaper Fix to Your Expensive Appliance Repair](https://lifehacker.com/home/how-to-repair-appliance-cheaply)
+- [Lifehacker] [Here&#39;s How Apple AirTags Actually Work](https://lifehacker.com/tech/how-apple-airtags-actually-work)
 - [Dev.to/JS] [How to Solve Vercel Server Less function Crushed Error for Express Server.](https://dev.to/nilok/how-to-solve-vercel-server-less-function-crushed-error-for-express-server-445a)
 - [Dev.to/JS] [Unlocking Performance with Concurrent Rendering in React 18](https://dev.to/krentrox/unlocking-performance-with-concurrent-rendering-in-react-18-1l64)
 - [Dev.to/JS] [Migration Guide from Twilio Video to SuperViz Video Conference](https://dev.to/superviz/migration-guide-from-twilio-video-to-superviz-video-conference-2anj)
+- [Lifehacker] [Every App and Game You Need for the Meta Quest 3](https://lifehacker.com/tech/meta-quest-3-best-games-and-apps)
 - [Dev.to/JS] [Yoshi Pixel Art - Generated w/ JS](https://dev.to/jakekbuckner/yoshi-pixel-art-generated-w-js-22ge)
 - [Lifehacker] [Four Tricks for Getting Actually Decent Airplane Meals](https://lifehacker.com/travel/how-to-get-better-airplane-food)
 - [Dev.to/JS] [Monads naturally arise from continuations](https://dev.to/iquardt/monads-naturally-arise-from-continuations-lmo)
@@ -42,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Comprehensive Guide to Writing Custom Hooks ✨&quot;](https://dev.to/prathamisonline/a-comprehensive-guide-to-writing-custom-hooks--33d4)
 - [Dev.to/JS] [I Created a Dev.to Users Blog Post Fetcher Using its API](https://dev.to/shubhadip_bhowmik/i-created-a-devto-users-blog-post-fetcher-using-its-api-19o2)
 - [Lifehacker] [This Is the Easiest Way to Make Your Home Smell Incredible](https://lifehacker.com/home/how-to-make-your-home-smell-good)
-- [Dev.to/JS] [💎 5 Cool JavaScript Physics Libraries 🤓](https://dev.to/random_ti/5-cool-javascript-physics-libraries-f9)
 - [Lifehacker] [How to Use Your Credit Card Rewards to Spend Less on Holiday Gifts](https://lifehacker.com/money/use-credit-card-rewards-on-holiday-gifts)
 - [Lifehacker] [What&#39;s New on Disney+ in January 2024](https://lifehacker.com/entertainment/whats-new-on-disney-plus-in-january-2024)
 - [Lifehacker] [Faux Stroopwafels Are the Laziest Christmas Treat](https://lifehacker.com/food-drink/faux-stroopwafels-recipe)
@@ -59,13 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways an ATM Can Ruin Your Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/money/atm-errors-and-scams)
 - [Lifehacker] [Eggs, Gas, and Other Prices That Are Actually Deflating](https://lifehacker.com/money/prices-that-are-actually-deflating-right-now)
 - [Lifehacker] [You Can Get the Xbox Series X for Its Lowest Price Ever in Time for Christmas](https://lifehacker.com/entertainment/xbox-series-x-sale)
-- [Lifehacker] [New Apple Watches Are Being Pulled Off the Market Soon](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
-- [Lifehacker] [These Are the Financial Milestones You Should Actually Hit by Age 30](https://lifehacker.com/money/financial-goals-for-30-year-olds)
-- [Lifehacker] [The Four Types of AirPods &lpar;and How Much They Cost&rpar;](https://lifehacker.com/tech/the-four-types-of-airpods-and-what-they-cost)
-- [Lifehacker] [You Can Now Use Microsoft Office on Your Meta Quest Headset for Some Reason](https://lifehacker.com/tech/how-to-use-microsoft-office-on-your-meta-quest-headset)
-- [Lifehacker] [How to Fix a Buzzing Light Fixture](https://lifehacker.com/home/how-to-fix-a-buzzing-light-fixture)
-- [Lifehacker] [How to Clean Your Smart Watch Without Ruining It](https://lifehacker.com/tech/how-to-clean-smart-watch)
-- [Lifehacker] [Every Version of &#39;A Christmas Carol,&#39; Ranked &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/entertainment/a-christmas-carol-versions-ranked)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Financial Milestones You Should Actually Hit by Age 30](https://lifehacker.com/money/financial-goals-for-30-year-olds)<!-- TECH-POSTS:END -->
 
 ---
 
