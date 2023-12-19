@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Functional and OOP Paradigms in JavaScript: Key Concepts and Practical Examples](https://dev.to/marmariadev/mastering-functional-and-oop-paradigms-in-javascript-key-concepts-and-practical-examples-5een)
+- [Dev.to/JS] [Crafting an Open-Source Alternative to Twilio: Unveiling the Significance](https://dev.to/bowmandown/crafting-an-open-source-alternative-to-twilio-unveiling-the-significance-3cgd)
+- [Dev.to/JS] [Day 11 - 30 Days learn Web Dev](https://dev.to/johnc/day-11-30-days-learn-web-dev-1kg4)
+- [Dev.to/JS] [What&#39;s new in Novu 0.22?](https://dev.to/novu/whats-new-in-novu-022-3afm)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/stusdokidding/buy-google-voice-accounts-1l36)
 - [Dev.to/JS] [Simplify and Stabilize Your Playwright Locators](https://dev.to/mikestopcontinues/simplify-and-stabilize-your-playwright-locators-1ag7)
 - [Dev.to/JS] [Web Developer Required Skills in 2024](https://dev.to/knayan/web-developer-required-skills-in-2024-1nnm)
 - [Dev.to/JS] [MOD-CSS 3.x &lpar;new version&rpar;](https://dev.to/dev_geos/mod-css-3x-new-version-2de)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [In class members which are functions, this is not defined unless you ask for it](https://dev.to/costinmanda/in-class-members-which-are-functions-this-is-not-defined-unless-you-ask-for-it-1ben)
 - [Dev.to/JS] [Pay-Per-Click &lpar;PPC&rpar; Advertising: Boosting Your Digital Presence](https://dev.to/bytesfarms/pay-per-click-ppc-advertising-boosting-your-digital-presence-emo)
 - [Dev.to/JS] [Building a React-Redux Counter: Understanding State Management with Redux in React](https://dev.to/remonhasan/building-a-react-redux-counter-understanding-state-management-with-redux-in-react-56c7)
-- [Dev.to/JS] [From Ants to Titans: The Javascript UI Framework Battle Royale](https://dev.to/kalashin1/from-ants-to-titans-the-javascript-ui-framework-battle-royale-2kmc)
-- [Dev.to/JS] [Mastering Date Sorting in React: A Guide to Handling Time Differences and Displaying Chronological Data](https://dev.to/rajeevrk/mastering-date-sorting-in-react-a-guide-to-handling-time-differences-and-displaying-chronological-data-31nb)
-- [Dev.to/JS] [Asynchronous Programming in JavaScript: An Essential Guide](https://dev.to/marmariadev/asynchronous-programming-in-javascript-an-essential-guide-28h1)
-- [Dev.to/JS] [How To Disable Radio Button Using JavaScript](https://dev.to/codingmadeeasy/how-to-disable-radio-button-using-javascript-5ece)
-- [Dev.to/JS] [Understanding Material-UI Table and Skeleton Loading in React 🚀](https://dev.to/tejendrasrajawat/understanding-material-ui-table-and-skeleton-loading-in-react-18ec)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-19-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
 - [Lifehacker] [This Roku TV Soundbar Is 75% Off Right Now](https://lifehacker.com/tech/tcl-soundbar-for-roku-tvs-75-percent-off)
