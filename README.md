@@ -26,13 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Yoshi Pixel Art - Generated w/ JS](https://dev.to/jakekbuckner/yoshi-pixel-art-generated-w-js-22ge)
+- [Lifehacker] [Four Tricks for Getting Actually Decent Airplane Meals](https://lifehacker.com/travel/how-to-get-better-airplane-food)
+- [Dev.to/JS] [Monads naturally arise from continuations](https://dev.to/iquardt/monads-naturally-arise-from-continuations-lmo)
+- [Dev.to/JS] [How to create a Volume Profile in a JavaScript Financial Chart](https://dev.to/andyb1979/how-to-create-a-volume-profile-in-a-javascript-financial-chart-2kb9)
+- [Lifehacker] [When &lpar;and How&rpar; to Set Up &#39;Repair Mode&#39; on Your Android](https://lifehacker.com/tech/repair-mode-on-android)
+- [Lifehacker] [What&#39;s New on Hulu in January 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-january-2024)
 - [Dev.to/JS] [8 Awesome JavaScript String Manipulation Techniques](https://dev.to/serenepine/8-awesome-javascript-string-manipulation-techniques-fdh)
+- [Lifehacker] [How Restricting Your Kid&#39;s Holiday Foods Can Backfire](https://lifehacker.com/family/let-kids-eat-holiday-treats)
 - [Dev.to/JS] [A Comprehensive Guide to Writing Custom Hooks ✨&quot;](https://dev.to/prathamisonline/a-comprehensive-guide-to-writing-custom-hooks--33d4)
 - [Dev.to/JS] [I Created a Dev.to Users Blog Post Fetcher Using its API](https://dev.to/shubhadip_bhowmik/i-created-a-devto-users-blog-post-fetcher-using-its-api-19o2)
 - [Lifehacker] [This Is the Easiest Way to Make Your Home Smell Incredible](https://lifehacker.com/home/how-to-make-your-home-smell-good)
 - [Dev.to/JS] [💎 5 Cool JavaScript Physics Libraries 🤓](https://dev.to/random_ti/5-cool-javascript-physics-libraries-f9)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/sryioydrchhiitd/buy-google-voice-accounts-32n3)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/sryioydrchhiitd/buy-google-5-star-reviews-3i52)
 - [Dev.to/JS] [#JavaScriptmas 2023 Day 13 to 18](https://dev.to/aishwaryamali24/javascriptmas-2023-day-13-to-18-5f88)
 - [Dev.to/JS] [📦 React Props - The Animated Guide](https://dev.to/codeanimated/react-props-the-animated-guide-2o3b)
 - [Lifehacker] [How to Use Your Credit Card Rewards to Spend Less on Holiday Gifts](https://lifehacker.com/money/use-credit-card-rewards-on-holiday-gifts)
@@ -41,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Faux Stroopwafels Are the Laziest Christmas Treat](https://lifehacker.com/food-drink/faux-stroopwafels-recipe)
 - [Dev.to/JS] [Crafting an Open-Source Alternative to Twilio: Unveiling the Significance](https://dev.to/bowmandown/crafting-an-open-source-alternative-to-twilio-unveiling-the-significance-3cgd)
 - [Dev.to/JS] [Day 11 - 30 Days learn Web Dev](https://dev.to/johnc/day-11-30-days-learn-web-dev-1kg4)
-- [Dev.to/JS] [What&#39;s new in Novu 0.22?](https://dev.to/novu/whats-new-in-novu-022-3afm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-19-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
 - [Lifehacker] [This Roku TV Soundbar Is 75% Off Right Now](https://lifehacker.com/tech/tcl-soundbar-for-roku-tvs-75-percent-off)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Use Microsoft Office on Your Meta Quest Headset for Some Reason](https://lifehacker.com/tech/how-to-use-microsoft-office-on-your-meta-quest-headset)
 - [Lifehacker] [How to Fix a Buzzing Light Fixture](https://lifehacker.com/home/how-to-fix-a-buzzing-light-fixture)
 - [Lifehacker] [How to Clean Your Smart Watch Without Ruining It](https://lifehacker.com/tech/how-to-clean-smart-watch)
-- [Lifehacker] [Every Version of &#39;A Christmas Carol,&#39; Ranked &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/entertainment/a-christmas-carol-versions-ranked)
-- [Lifehacker] [How to Download Your Spotify Library for Offline Listening](https://lifehacker.com/tech/how-to-download-music-on-spotify)
-- [Lifehacker] [These Are My Favorite Products to Help Anxious Kids](https://lifehacker.com/family/best-products-to-reduce-a-childs-anxiety)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Every Version of &#39;A Christmas Carol,&#39; Ranked &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/entertainment/a-christmas-carol-versions-ranked)<!-- TECH-POSTS:END -->
 
 ---
 
