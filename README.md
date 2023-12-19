@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [If it reaches an extent where some of WoTLK 21](https://dev.to/yangxuebao/if-it-reaches-an-extent-where-some-of-wotlk-21-4kco)
+- [Dev.to/JS] [Trends for 2024 in backend and web development](https://dev.to/sparkouttech/trends-for-2024-in-backend-and-web-development-4h40)
+- [Dev.to/JS] [Free Way to Add Notification Center in Your Mobile/ Web Application](https://dev.to/suprsend/free-way-to-add-notification-center-in-your-mobile-web-application-bm3)
 - [Dev.to/JS] [Mastering `aria-activedescendant` in HTML!](https://dev.to/punitsonime/mastering-aria-activedescendant-in-html-mb6)
 - [Dev.to/JS] [What is a Javascript Constructor? Learn it with the help of a story](https://dev.to/codingmadeeasy/what-is-a-javascript-constructor-learn-it-with-the-help-of-a-story-2nc5)
 - [Dev.to/JS] [Créer un Site Web de Rencontres Statique avec GitHub Pages](https://dev.to/levifrance/creer-un-site-web-de-rencontres-statique-avec-github-pages-48kl)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AGRICULTURAL ROBOTS](https://dev.to/haojiec75230846/agricultural-robots-1af)
 - [Dev.to/JS] [Calculate the coordinates of the current cursor in a text area](https://dev.to/phuocng/calculate-the-coordinates-of-the-current-cursor-in-a-text-area-cle)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
-- [Dev.to/JS] [Frontend Development in 2024: Crafting a Dynamic Skillset for Success](https://dev.to/eduardomrigo/frontend-development-in-2024-crafting-a-dynamic-skillset-for-success-i3d)
-- [Dev.to/JS] [Setup EC2 Instance](https://dev.to/akbarnafisa/setup-ec2-instance-7gd)
 - [Lifehacker] [This Roku TV Soundbar Is 75% Off Right Now](https://lifehacker.com/tech/tcl-soundbar-for-roku-tvs-75-percent-off)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-porch-pirates-and-package-thieves)
-- [Dev.to/JS] [Print a single element from a webpage](https://dev.to/pgarciacamou/print-a-single-element-from-a-webpage-5h5h)
 - [Lifehacker] [How to Clean up Christmas Tree Pine Needles Without Wrecking Your Vacuum](https://lifehacker.com/home/how-to-clean-up-christmas-tree-pine-needles)
 - [Lifehacker] [Cuccidati Are the Colorful Italian Christmas Cookie You&#39;ve Been Missing](https://lifehacker.com/food-drink/cuccidati-italian-cookie-recipe)
 - [Lifehacker] [The Best Tech Gifts under $100 That Will Arrive in Time for Christmas](https://lifehacker.com/tech/last-minute-tech-gifts-for-christmas)
