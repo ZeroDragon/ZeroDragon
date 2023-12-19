@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AGRICULTURAL ROBOTS](https://dev.to/haojiec75230846/agricultural-robots-1af)
 - [Dev.to/JS] [Calculate the coordinates of the current cursor in a text area](https://dev.to/phuocng/calculate-the-coordinates-of-the-current-cursor-in-a-text-area-cle)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
 - [Dev.to/JS] [Frontend Development in 2024: Crafting a Dynamic Skillset for Success](https://dev.to/eduardomrigo/frontend-development-in-2024-crafting-a-dynamic-skillset-for-success-i3d)
 - [Dev.to/JS] [Setup EC2 Instance](https://dev.to/akbarnafisa/setup-ec2-instance-7gd)
 - [Lifehacker] [This Roku TV Soundbar Is 75% Off Right Now](https://lifehacker.com/tech/tcl-soundbar-for-roku-tvs-75-percent-off)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Last-minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/money/best-last-minute-holiday-gift-card-ideas)
 - [Dev.to/JS] [Vue 3 - inifinite scroll using intersection observer with composables, pinia and Typescript 🍍](https://dev.to/hichembenchaabene/vue-3-inifinite-scroll-using-intersection-observer-with-composables-pinia-and-typescript-410e)
 - [Dev.to/JS] [View your local React App on your phone.](https://dev.to/vivek09thakur/view-your-local-react-app-on-your-phone-4c2i)
-- [Dev.to/JS] [DRepo: A Decentralized Version Control System- Day 3](https://dev.to/dipayandas24/drepo-a-decentralized-version-control-system-day-3-4cep)
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
 - [Lifehacker] [Claim Your Part of This $25 Million Apple Settlement](https://lifehacker.com/tech/apple-25-million-family-sharing-lawsuit-settlement)
 - [Lifehacker] [Four Ways an ATM Can Ruin Your Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/money/atm-errors-and-scams)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-16-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)
-- [Lifehacker] [Why Water Is Coming Up Through Your Sink &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/why-water-is-coming-up-through-sink)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 16, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-16-2023)<!-- TECH-POSTS:END -->
 
 ---
 
