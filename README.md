@@ -26,12 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creando un Custom Element para transformar Imágenes en JavaScript](https://dev.to/ratapan/creando-un-custom-element-para-transformar-imagenes-en-javascript-1a1h)
 - [Dev.to/JS] [Exploring Modern Mobile App Development: A Comprehensive Guide](https://dev.to/kiraaziz/exploring-modern-mobile-app-development-a-comprehensive-guide-1724)
 - [Dev.to/JS] [The Evolution of Web Development: From Birth to the Modern Era](https://dev.to/kiraaziz/the-evolution-of-web-development-from-birth-to-the-modern-era-39p2)
 - [Lifehacker] [Firefox for Android Finally Has Support for Extensions Again](https://lifehacker.com/tech/firefox-for-android-extension-support)
 - [Lifehacker] [The Best Sales on Headphones That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-headphone-airbud-deals-that-arrive-by-christmas)
 - [Dev.to/JS] [Writing useEffect from scratch](https://dev.to/joaquinniembro/writing-useeffect-from-scratch-2gbm)
 - [Dev.to/JS] [The only real free external media storage you&#39;ll need!](https://dev.to/viacheslavzyrianov/the-only-real-free-external-media-storage-youll-need-3g57)
+- [Dev.to/JS] [How to create a Volume Profile in a JavaScript Financial Chart](https://dev.to/andyb1979/how-to-create-a-volume-profile-in-a-javascript-financial-chart-2o53)
 - [Dev.to/JS] [How to implement emojis in Vercel/satori](https://dev.to/opensauced/how-to-implement-emojis-in-vercelsatori-2no5)
 - [Lifehacker] [New Apple Watches Are Being Pulled Off the Market Soon](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
 - [Dev.to/JS] [Getting Started With GraphQL &amp; Why it is Required &lpar;Part 1&rpar;](https://dev.to/ganeshyadav3142/getting-started-with-graphql-why-it-is-required-part-1-kg5)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking Performance with Concurrent Rendering in React 18](https://dev.to/krentrox/unlocking-performance-with-concurrent-rendering-in-react-18-1l64)
 - [Dev.to/JS] [Migration Guide from Twilio Video to SuperViz Video Conference](https://dev.to/superviz/migration-guide-from-twilio-video-to-superviz-video-conference-2anj)
 - [Lifehacker] [Every App and Game You Need for the Meta Quest 3](https://lifehacker.com/tech/meta-quest-3-best-games-and-apps)
-- [Dev.to/JS] [Yoshi Pixel Art - Generated w/ JS](https://dev.to/jakekbuckner/yoshi-pixel-art-generated-w-js-22ge)
 - [Lifehacker] [Four Tricks for Getting Actually Decent Airplane Meals](https://lifehacker.com/travel/how-to-get-better-airplane-food)
-- [Dev.to/JS] [Monads naturally arise from continuations](https://dev.to/iquardt/monads-naturally-arise-from-continuations-lmo)
 - [Lifehacker] [When &lpar;and How&rpar; to Set Up &#39;Repair Mode&#39; on Your Android](https://lifehacker.com/tech/repair-mode-on-android)
 - [Lifehacker] [What&#39;s New on Hulu in January 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-january-2024)
 - [Lifehacker] [How Restricting Your Kid&#39;s Holiday Foods Can Backfire](https://lifehacker.com/family/let-kids-eat-holiday-treats)
