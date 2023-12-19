@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Ants to Titans: The Javascript UI Framework Battle Royale](https://dev.to/kalashin1/from-ants-to-titans-the-javascript-ui-framework-battle-royale-2kmc)
+- [Dev.to/JS] [Mastering Date Sorting in React: A Guide to Handling Time Differences and Displaying Chronological Data](https://dev.to/rajeevrk/mastering-date-sorting-in-react-a-guide-to-handling-time-differences-and-displaying-chronological-data-31nb)
+- [Dev.to/JS] [Asynchronous Programming in JavaScript: An Essential Guide](https://dev.to/marmariadev/asynchronous-programming-in-javascript-an-essential-guide-28h1)
+- [Dev.to/JS] [How To Disable Radio Button Using JavaScript](https://dev.to/codingmadeeasy/how-to-disable-radio-button-using-javascript-5ece)
 - [Dev.to/JS] [Understanding Material-UI Table and Skeleton Loading in React 🚀](https://dev.to/tejendrasrajawat/understanding-material-ui-table-and-skeleton-loading-in-react-18ec)
 - [Dev.to/JS] [2024 has arrived, should I choose MUI?](https://dev.to/illa/2024-has-arrived-should-i-choose-mui-3p62)
 - [Dev.to/JS] [It&#39;s 2024, should I choose Shadcn UI?](https://dev.to/illa/its-2024-should-i-choose-shadcn-ui-4jma)
 - [Dev.to/JS] [Pfizer Weight Loss Gummies Reviews &lpar; Updtae 2023 &rpar; Beware Shocking Is It Scam Or Real?](https://dev.to/tuckova/pfizer-weight-loss-gummies-reviews-updtae-2023-beware-shocking-is-it-scam-or-real-12c7)
 - [Dev.to/JS] [Shadcn vs MUI: A Comparative Analysis of Strengths and Weaknesses](https://dev.to/illa/shadcn-vs-mui-a-comparative-analysis-of-strengths-and-weaknesses-5e24)
-- [Dev.to/JS] [Building a modern landing page with Next.js and One Entry Headless CMS](https://dev.to/arshadayvid/building-a-modern-landing-page-with-nextjs-and-one-entry-headless-cms-34ne)
+- [Dev.to/JS] [Building a modern landing page with Next.js and One Entry Headless CMS 👑🌟](https://dev.to/arshadayvid/building-a-modern-landing-page-with-nextjs-and-one-entry-headless-cms-34ne)
 - [Dev.to/JS] [Redux Toolkit Simplified](https://dev.to/tanmaycode/redux-toolkit-simplified-1iig)
 - [Dev.to/JS] [If it reaches an extent where some of WoTLK 21](https://dev.to/yangxuebao/if-it-reaches-an-extent-where-some-of-wotlk-21-4kco)
-- [Dev.to/JS] [Trends for 2024 in backend and web development](https://dev.to/sparkouttech/trends-for-2024-in-backend-and-web-development-4h40)
-- [Dev.to/JS] [Free Way to Add Notification Center in Your Mobile/ Web Application](https://dev.to/suprsend/free-way-to-add-notification-center-in-your-mobile-web-application-bm3)
-- [Dev.to/JS] [Mastering `aria-activedescendant` in HTML!](https://dev.to/punitsonime/mastering-aria-activedescendant-in-html-mb6)
-- [Dev.to/JS] [What is a Javascript Constructor? Learn it with the help of a story](https://dev.to/codingmadeeasy/what-is-a-javascript-constructor-learn-it-with-the-help-of-a-story-2nc5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-19-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
 - [Lifehacker] [This Roku TV Soundbar Is 75% Off Right Now](https://lifehacker.com/tech/tcl-soundbar-for-roku-tvs-75-percent-off)
