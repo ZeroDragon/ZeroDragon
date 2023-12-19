@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Modern Mobile App Development: A Comprehensive Guide](https://dev.to/kiraaziz/exploring-modern-mobile-app-development-a-comprehensive-guide-1724)
+- [Dev.to/JS] [The Evolution of Web Development: From Birth to the Modern Era](https://dev.to/kiraaziz/the-evolution-of-web-development-from-birth-to-the-modern-era-39p2)
 - [Lifehacker] [Firefox for Android Finally Has Support for Extensions Again](https://lifehacker.com/tech/firefox-for-android-extension-support)
 - [Lifehacker] [The Best Sales on Headphones That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-headphone-airbud-deals-that-arrive-by-christmas)
+- [Dev.to/JS] [Writing useEffect from scratch](https://dev.to/joaquinniembro/writing-useeffect-from-scratch-2gbm)
 - [Dev.to/JS] [The only real free external media storage you&#39;ll need!](https://dev.to/viacheslavzyrianov/the-only-real-free-external-media-storage-youll-need-3g57)
 - [Dev.to/JS] [How to implement emojis in Vercel/satori](https://dev.to/opensauced/how-to-implement-emojis-in-vercelsatori-2no5)
 - [Lifehacker] [New Apple Watches Are Being Pulled Off the Market Soon](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
@@ -44,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Monads naturally arise from continuations](https://dev.to/iquardt/monads-naturally-arise-from-continuations-lmo)
 - [Lifehacker] [When &lpar;and How&rpar; to Set Up &#39;Repair Mode&#39; on Your Android](https://lifehacker.com/tech/repair-mode-on-android)
 - [Lifehacker] [What&#39;s New on Hulu in January 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-january-2024)
-- [Dev.to/JS] [8 Awesome JavaScript String Manipulation Techniques](https://dev.to/serenepine/8-awesome-javascript-string-manipulation-techniques-fdh)
 - [Lifehacker] [How Restricting Your Kid&#39;s Holiday Foods Can Backfire](https://lifehacker.com/family/let-kids-eat-holiday-treats)
-- [Dev.to/JS] [A Comprehensive Guide to Writing Custom Hooks ✨&quot;](https://dev.to/prathamisonline/a-comprehensive-guide-to-writing-custom-hooks--33d4)
-- [Dev.to/JS] [I Created a Dev.to Users Blog Post Fetcher Using its API](https://dev.to/shubhadip_bhowmik/i-created-a-devto-users-blog-post-fetcher-using-its-api-19o2)
 - [Lifehacker] [This Is the Easiest Way to Make Your Home Smell Incredible](https://lifehacker.com/home/how-to-make-your-home-smell-good)
 - [Lifehacker] [How to Use Your Credit Card Rewards to Spend Less on Holiday Gifts](https://lifehacker.com/money/use-credit-card-rewards-on-holiday-gifts)
 - [Lifehacker] [What&#39;s New on Disney+ in January 2024](https://lifehacker.com/entertainment/whats-new-on-disney-plus-in-january-2024)
