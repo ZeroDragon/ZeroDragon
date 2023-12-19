@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Proxy Server Providers List of 2023 &lpar;Part 3&rpar;](https://dev.to/browserscan/best-proxy-server-providers-list-of-2023-part-3-21b1)
 - [Dev.to/JS] [AGRICULTURAL ROBOTS](https://dev.to/haojiec75230846/agricultural-robots-1af)
 - [Dev.to/JS] [Calculate the coordinates of the current cursor in a text area](https://dev.to/phuocng/calculate-the-coordinates-of-the-current-cursor-in-a-text-area-cle)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [20 ReactJS Best Practices Learned From Code Reviews 🚀](https://dev.to/prathamisonline/20-reactjs-best-practices-learned-from-code-reviews-c7a)
 - [Lifehacker] [7 Last-minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/money/best-last-minute-holiday-gift-card-ideas)
 - [Dev.to/JS] [Vue 3 - inifinite scroll using intersection observer with composables, pinia and Typescript 🍍](https://dev.to/hichembenchaabene/vue-3-inifinite-scroll-using-intersection-observer-with-composables-pinia-and-typescript-410e)
-- [Dev.to/JS] [View your local React App on your phone.](https://dev.to/vivek09thakur/view-your-local-react-app-on-your-phone-4c2i)
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
 - [Lifehacker] [Claim Your Part of This $25 Million Apple Settlement](https://lifehacker.com/tech/apple-25-million-family-sharing-lawsuit-settlement)
 - [Lifehacker] [Four Ways an ATM Can Ruin Your Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/money/atm-errors-and-scams)
