@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Created a Dev.to Users Blog Post Fetcher Using its API](https://dev.to/shubhadip_bhowmik/i-created-a-devto-users-blog-post-fetcher-using-its-api-19o2)
+- [Dev.to/JS] [💎 5 Cool JavaScript Physics Libraries 🤓](https://dev.to/random_ti/5-cool-javascript-physics-libraries-f9)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/sryioydrchhiitd/buy-google-voice-accounts-32n3)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/sryioydrchhiitd/buy-google-5-star-reviews-3i52)
+- [Dev.to/JS] [#JavaScriptmas 2023 Day 13 to 18](https://dev.to/aishwaryamali24/javascriptmas-2023-day-13-to-18-5f88)
 - [Dev.to/JS] [📦 React Props - The Animated Guide](https://dev.to/codeanimated/react-props-the-animated-guide-2o3b)
 - [Dev.to/JS] [New website for those space enthusiastics with some twists..](https://dev.to/guesiro/new-website-for-those-space-enthusiastics-with-some-twists-4gc7)
+- [Lifehacker] [What&#39;s New on Disney+ in January 2024](https://lifehacker.com/entertainment/whats-new-on-disney-plus-in-january-2024)
 - [Lifehacker] [Faux Stroopwafels Are the Laziest Christmas Treat](https://lifehacker.com/food-drink/faux-stroopwafels-recipe)
 - [Dev.to/JS] [Crafting an Open-Source Alternative to Twilio: Unveiling the Significance](https://dev.to/bowmandown/crafting-an-open-source-alternative-to-twilio-unveiling-the-significance-3cgd)
 - [Dev.to/JS] [Day 11 - 30 Days learn Web Dev](https://dev.to/johnc/day-11-30-days-learn-web-dev-1kg4)
 - [Dev.to/JS] [What&#39;s new in Novu 0.22?](https://dev.to/novu/whats-new-in-novu-022-3afm)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/stusdokidding/buy-google-voice-accounts-1l36)
 - [Dev.to/JS] [Simplify and Stabilize Your Playwright Locators](https://dev.to/mikestopcontinues/simplify-and-stabilize-your-playwright-locators-1ag7)
-- [Dev.to/JS] [Web Developer Required Skills in 2024](https://dev.to/knayan/web-developer-required-skills-in-2024-1nnm)
-- [Dev.to/JS] [MOD-CSS 3.x &lpar;new version&rpar;](https://dev.to/dev_geos/mod-css-3x-new-version-2de)
-- [Dev.to/JS] [Nufarm CBD Gummies Reviews – {Ingredients, Benefits, and Side Effects} Where to Buy?](https://dev.to/nufarmcbdbuy/nufarm-cbd-gummies-reviews-ingredients-benefits-and-side-effects-where-to-buy-5fcb)
-- [Dev.to/JS] [In class members which are functions, this is not defined unless you ask for it](https://dev.to/costinmanda/in-class-members-which-are-functions-this-is-not-defined-unless-you-ask-for-it-1ben)
-- [Dev.to/JS] [Pay-Per-Click &lpar;PPC&rpar; Advertising: Boosting Your Digital Presence](https://dev.to/bytesfarms/pay-per-click-ppc-advertising-boosting-your-digital-presence-emo)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-19-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
 - [Lifehacker] [This Roku TV Soundbar Is 75% Off Right Now](https://lifehacker.com/tech/tcl-soundbar-for-roku-tvs-75-percent-off)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-18-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 18, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-18-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-17-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)
-- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Making a Hard Sauce](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-five)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 17, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-17-2023)<!-- TECH-POSTS:END -->
 
 ---
 
