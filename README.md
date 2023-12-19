@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tutorial jest](https://dev.to/badruti94/tutorial-jest-1h1l)
+- [Dev.to/JS] [Typescript vs Javascript](https://dev.to/abhirup2003/typescript-vs-javascript-19fn)
 - [Dev.to/JS] [Best Proxy Server Providers List of 2023 &lpar;Part 3&rpar;](https://dev.to/browserscan/best-proxy-server-providers-list-of-2023-part-3-21b1)
 - [Dev.to/JS] [AGRICULTURAL ROBOTS](https://dev.to/haojiec75230846/agricultural-robots-1af)
 - [Dev.to/JS] [Calculate the coordinates of the current cursor in a text area](https://dev.to/phuocng/calculate-the-coordinates-of-the-current-cursor-in-a-text-area-cle)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript&#39;de Conditional Statement Kavramı](https://dev.to/eminaltan/javascriptde-conditional-statement-kavrami-1dbm)
 - [Dev.to/JS] [Creating a Vue Application with CDN setup](https://dev.to/lenildoluan/creating-a-vue-application-with-cdn-setup-32d2)
 - [Dev.to/JS] [Understanding import and require in JavaScript: A Guide for Beginners](https://dev.to/ersocon/understanding-import-and-require-in-javascript-a-guide-for-beginners-j7h)
-- [Dev.to/JS] [20 ReactJS Best Practices Learned From Code Reviews 🚀](https://dev.to/prathamisonline/20-reactjs-best-practices-learned-from-code-reviews-c7a)
 - [Lifehacker] [7 Last-minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/money/best-last-minute-holiday-gift-card-ideas)
-- [Dev.to/JS] [Vue 3 - inifinite scroll using intersection observer with composables, pinia and Typescript 🍍](https://dev.to/hichembenchaabene/vue-3-inifinite-scroll-using-intersection-observer-with-composables-pinia-and-typescript-410e)
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
 - [Lifehacker] [Claim Your Part of This $25 Million Apple Settlement](https://lifehacker.com/tech/apple-25-million-family-sharing-lawsuit-settlement)
 - [Lifehacker] [Four Ways an ATM Can Ruin Your Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/money/atm-errors-and-scams)
