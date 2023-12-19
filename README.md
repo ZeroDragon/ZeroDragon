@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Solve Vercel Server Less function Crushed Error for Express Server.](https://dev.to/nilok/how-to-solve-vercel-server-less-function-crushed-error-for-express-server-445a)
+- [Dev.to/JS] [Unlocking Performance with Concurrent Rendering in React 18](https://dev.to/krentrox/unlocking-performance-with-concurrent-rendering-in-react-18-1l64)
+- [Dev.to/JS] [Migration Guide from Twilio Video to SuperViz Video Conference](https://dev.to/superviz/migration-guide-from-twilio-video-to-superviz-video-conference-2anj)
 - [Dev.to/JS] [Yoshi Pixel Art - Generated w/ JS](https://dev.to/jakekbuckner/yoshi-pixel-art-generated-w-js-22ge)
 - [Lifehacker] [Four Tricks for Getting Actually Decent Airplane Meals](https://lifehacker.com/travel/how-to-get-better-airplane-food)
 - [Dev.to/JS] [Monads naturally arise from continuations](https://dev.to/iquardt/monads-naturally-arise-from-continuations-lmo)
@@ -41,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#JavaScriptmas 2023 Day 13 to 18](https://dev.to/aishwaryamali24/javascriptmas-2023-day-13-to-18-5f88)
 - [Dev.to/JS] [📦 React Props - The Animated Guide](https://dev.to/codeanimated/react-props-the-animated-guide-2o3b)
 - [Lifehacker] [How to Use Your Credit Card Rewards to Spend Less on Holiday Gifts](https://lifehacker.com/money/use-credit-card-rewards-on-holiday-gifts)
-- [Dev.to/JS] [New website for those space enthusiastics with some twists..](https://dev.to/guesiro/new-website-for-those-space-enthusiastics-with-some-twists-4gc7)
 - [Lifehacker] [What&#39;s New on Disney+ in January 2024](https://lifehacker.com/entertainment/whats-new-on-disney-plus-in-january-2024)
 - [Lifehacker] [Faux Stroopwafels Are the Laziest Christmas Treat](https://lifehacker.com/food-drink/faux-stroopwafels-recipe)
-- [Dev.to/JS] [Crafting an Open-Source Alternative to Twilio: Unveiling the Significance](https://dev.to/bowmandown/crafting-an-open-source-alternative-to-twilio-unveiling-the-significance-3cgd)
-- [Dev.to/JS] [Day 11 - 30 Days learn Web Dev](https://dev.to/johnc/day-11-30-days-learn-web-dev-1kg4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-19-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
 - [Lifehacker] [This Roku TV Soundbar Is 75% Off Right Now](https://lifehacker.com/tech/tcl-soundbar-for-roku-tvs-75-percent-off)
