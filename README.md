@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Calculate the coordinates of the current cursor in a text area](https://dev.to/phuocng/calculate-the-coordinates-of-the-current-cursor-in-a-text-area-cle)
+- [Dev.to/JS] [Frontend Development in 2024: Crafting a Dynamic Skillset for Success](https://dev.to/eduardomrigo/frontend-development-in-2024-crafting-a-dynamic-skillset-for-success-i3d)
 - [Dev.to/JS] [Setup EC2 Instance](https://dev.to/akbarnafisa/setup-ec2-instance-7gd)
 - [Lifehacker] [This Roku TV Soundbar Is 75% Off Right Now](https://lifehacker.com/tech/tcl-soundbar-for-roku-tvs-75-percent-off)
 - [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-porch-pirates-and-package-thieves)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue 3 - inifinite scroll using intersection observer with composables, pinia and Typescript 🍍](https://dev.to/hichembenchaabene/vue-3-inifinite-scroll-using-intersection-observer-with-composables-pinia-and-typescript-410e)
 - [Dev.to/JS] [View your local React App on your phone.](https://dev.to/vivek09thakur/view-your-local-react-app-on-your-phone-4c2i)
 - [Dev.to/JS] [DRepo: A Decentralized Version Control System- Day 3](https://dev.to/dipayandas24/drepo-a-decentralized-version-control-system-day-3-4cep)
-- [Dev.to/JS] [Array Methods in JS](https://dev.to/chaseteague/array-methods-in-js-40g5)
-- [Dev.to/JS] [Haunted Wasteland](https://dev.to/rmion/haunted-wasteland-2ik8)
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
 - [Lifehacker] [Claim Your Part of This $25 Million Apple Settlement](https://lifehacker.com/tech/apple-25-million-family-sharing-lawsuit-settlement)
 - [Lifehacker] [Four Ways an ATM Can Ruin Your Day &lpar;and How to Protect Yourself&rpar;](https://lifehacker.com/money/atm-errors-and-scams)
