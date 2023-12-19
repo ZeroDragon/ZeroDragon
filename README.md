@@ -26,13 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to implement emojis in Vercel/satori](https://dev.to/opensauced/how-to-implement-emojis-in-vercelsatori-2no5)
+- [Dev.to/JS] [Getting Started With GraphQL &amp; Why it is Required &lpar;Part 1&rpar;](https://dev.to/ganeshyadav3142/getting-started-with-graphql-why-it-is-required-part-1-kg5)
+- [Dev.to/JS] [Add Localization Translate to React App with redux &lpar;without i18next&rpar;](https://dev.to/idurar/add-localization-translate-to-react-app-with-redux-without-i18next-2hoi)
 - [Dev.to/JS] [How to Solve Vercel Server Less function Crushed Error for Express Server.](https://dev.to/nilok/how-to-solve-vercel-server-less-function-crushed-error-for-express-server-445a)
 - [Dev.to/JS] [Unlocking Performance with Concurrent Rendering in React 18](https://dev.to/krentrox/unlocking-performance-with-concurrent-rendering-in-react-18-1l64)
 - [Dev.to/JS] [Migration Guide from Twilio Video to SuperViz Video Conference](https://dev.to/superviz/migration-guide-from-twilio-video-to-superviz-video-conference-2anj)
 - [Dev.to/JS] [Yoshi Pixel Art - Generated w/ JS](https://dev.to/jakekbuckner/yoshi-pixel-art-generated-w-js-22ge)
 - [Lifehacker] [Four Tricks for Getting Actually Decent Airplane Meals](https://lifehacker.com/travel/how-to-get-better-airplane-food)
 - [Dev.to/JS] [Monads naturally arise from continuations](https://dev.to/iquardt/monads-naturally-arise-from-continuations-lmo)
-- [Dev.to/JS] [How to create a Volume Profile in a JavaScript Financial Chart](https://dev.to/andyb1979/how-to-create-a-volume-profile-in-a-javascript-financial-chart-2kb9)
 - [Lifehacker] [When &lpar;and How&rpar; to Set Up &#39;Repair Mode&#39; on Your Android](https://lifehacker.com/tech/repair-mode-on-android)
 - [Lifehacker] [What&#39;s New on Hulu in January 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-january-2024)
 - [Dev.to/JS] [8 Awesome JavaScript String Manipulation Techniques](https://dev.to/serenepine/8-awesome-javascript-string-manipulation-techniques-fdh)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Created a Dev.to Users Blog Post Fetcher Using its API](https://dev.to/shubhadip_bhowmik/i-created-a-devto-users-blog-post-fetcher-using-its-api-19o2)
 - [Lifehacker] [This Is the Easiest Way to Make Your Home Smell Incredible](https://lifehacker.com/home/how-to-make-your-home-smell-good)
 - [Dev.to/JS] [💎 5 Cool JavaScript Physics Libraries 🤓](https://dev.to/random_ti/5-cool-javascript-physics-libraries-f9)
-- [Dev.to/JS] [#JavaScriptmas 2023 Day 13 to 18](https://dev.to/aishwaryamali24/javascriptmas-2023-day-13-to-18-5f88)
-- [Dev.to/JS] [📦 React Props - The Animated Guide](https://dev.to/codeanimated/react-props-the-animated-guide-2o3b)
 - [Lifehacker] [How to Use Your Credit Card Rewards to Spend Less on Holiday Gifts](https://lifehacker.com/money/use-credit-card-rewards-on-holiday-gifts)
 - [Lifehacker] [What&#39;s New on Disney+ in January 2024](https://lifehacker.com/entertainment/whats-new-on-disney-plus-in-january-2024)
 - [Lifehacker] [Faux Stroopwafels Are the Laziest Christmas Treat](https://lifehacker.com/food-drink/faux-stroopwafels-recipe)
