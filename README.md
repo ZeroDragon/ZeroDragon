@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making a box designer and shadow picker in 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS needed!&rpar;](https://dev.to/michaelpb/making-a-box-designer-and-shadow-picker-in-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-needed-2m3g)
+- [Dev.to/JS] [Making a shadow picker and box designer in ~30 lines of HTML Web Component template code + 1 extra file &lpar;no JS or node needed!&rpar;](https://dev.to/michaelpb/making-a-shadow-picker-and-box-designer-in-30-lines-of-html-web-component-template-code-1-extra-file-no-js-or-node-needed-55ch)
+- [Dev.to/JS] [AsyncStorage Data Storage](https://dev.to/ofidohub/asyncstorage-data-storage-4n9a)
 - [Dev.to/JS] [✨2023#50: Hydration Overlay: Visualize Render Differences to Debug Hydration Errors](https://dev.to/jstoolsweekly/202350-hydration-overlay-visualize-render-differences-to-debug-hydration-errors-5cao)
 - [Dev.to/JS] [🔥2023#50: PageSpy: All-in-one remote debugging tool](https://dev.to/jstoolsweekly/202350-pagespy-all-in-one-remote-debugging-tool-ldj)
 - [Dev.to/JS] [Nx 17.2 Update!!](https://dev.to/nx/nx-172-update-5ag8)
+- [Lifehacker] [How to Use Best Buy’s ‘Drops’ Feature to Snag Top Tech Deals &lpar;and What’s On Sale Today&rpar;](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)
 - [Dev.to/JS] [This is How Your Parents Used CSS and JavaScript](https://dev.to/nikola/this-is-how-your-parents-used-css-and-javascript-b8p)
 - [Lifehacker] [You Can Run a Generative AI Locally on Your Computer](https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer)
 - [Lifehacker] [How to Choose Between the Ring and Blink Video Doorbell](https://lifehacker.com/tech/ring-and-blink-doorbell-comparison)
@@ -40,12 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solution for Failed to execute &#39;postMessage&#39; on &#39;DOMWindow&#39; on Next.js](https://dev.to/aliatwa1/solution-for-failed-to-execute-postmessage-on-domwindow-on-nextjs-2p96)
 - [Dev.to/JS] [The three kinds of effects in programming](https://dev.to/iquardt/the-three-kinds-of-effects-in-programming-3meo)
 - [Lifehacker] [These Apps Can Help You Track Any New Year’s Resolution](https://lifehacker.com/health/the-best-new-years-resolution-apps)
-- [Dev.to/JS] [Principios de la WCAG](https://dev.to/vancorcodes/clean-code-y-buenas-practicas-con-javascript-589j)
 - [Lifehacker] [The Most Important Things to Consider Before Buying a Used Car](https://lifehacker.com/travel/tips-for-used-car-buying)
-- [Dev.to/JS] [AdonisJS : un framework Node.js moderne et complet](https://dev.to/benoitpetit/adonisjs-un-framework-nodejs-moderne-et-complet-20el)
 - [Lifehacker] [Avoid These End-of-year Financial Mistakes](https://lifehacker.com/money/avoid-these-end-of-year-financial-mistakes)
 - [Lifehacker] [My Three Favorite Smartphones of 2023](https://lifehacker.com/tech/the-best-smartphones-of-2023)
-- [Dev.to/JS] [Add autocomplete to your text area](https://dev.to/phuocng/add-autocomplete-to-your-text-area-15gi)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Sales on Headphones That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-headphone-airbud-deals-that-arrive-by-christmas)
 - [Lifehacker] [New Apple Watches Are Being Pulled Off the Market Soon](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
 - [Lifehacker] [There Might Be a Cheaper Fix to Your Expensive Appliance Repair](https://lifehacker.com/home/how-to-repair-appliance-cheaply)
-- [Lifehacker] [Here&#39;s How Apple AirTags Actually Work](https://lifehacker.com/tech/how-apple-airtags-actually-work)
-- [Lifehacker] [Every App and Game You Need for the Meta Quest 3](https://lifehacker.com/tech/meta-quest-3-best-games-and-apps)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How Apple AirTags Actually Work](https://lifehacker.com/tech/how-apple-airtags-actually-work)<!-- TECH-POSTS:END -->
 
 ---
 
