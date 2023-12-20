@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/tech/microsoft-office-windows-11-pro-sale)
 - [Dev.to/JS] [title](https://dev.to/abdelrahmanalsayed/title-38dl)
+- [Lifehacker] [Here’s How Much You Can Actually Make by Taking Online Surveys](https://lifehacker.com/money/how-much-do-online-surveys-actually-pay)
 - [Lifehacker] [Do These Things to Maximize Your Employee Benefits Before the New Year](https://lifehacker.com/work/how-to-maximize-employee-benefits-before-the-new-year)
 - [Dev.to/JS] [My criticism about the new Observables API](https://dev.to/artalar/my-criticism-about-the-new-observables-api-37d5)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in January 2024](https://lifehacker.com/entertainment/coming-to-paramount-with-showtime-january-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a One-Year Sam&#39;s Club Membership for $20 Right Now](https://lifehacker.com/money/one-year-sams-club-membership)
 - [Lifehacker] [This Budget HP Laptop Just Dropped to Its Lowest Price Yet](https://lifehacker.com/tech/hp-envy-x360-laptop-sale-best-buy)
 - [Lifehacker] [How to Test Your Car Battery &lpar;and Why You Should&rpar;](https://lifehacker.com/travel/how-to-test-car-battery)
-- [Lifehacker] [Update Your Mac to Avoid a Humiliating Screen Sharing Disaster](https://lifehacker.com/tech/mac-os-sonoma-update-fixes-screen-share-bug)
-- [Lifehacker] [Whipped Ricotta Is the Easiest Way to Upgrade Your Holiday Appetizer Spread](https://lifehacker.com/food-drink/easy-whipped-ricotta-cheese-recipe)
-- [Lifehacker] [Use a &#39;Single Source of Truth&#39; to Be More Productive](https://lifehacker.com/work/use-a-single-source-of-truth-to-be-more-productive)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Update Your Mac to Avoid a Humiliating Screen Sharing Disaster](https://lifehacker.com/tech/mac-os-sonoma-update-fixes-screen-share-bug)<!-- TECH-POSTS:END -->
 
 ---
 
