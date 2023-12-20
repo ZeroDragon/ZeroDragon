@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [✨2023#50: Hydration Overlay: Visualize Render Differences to Debug Hydration Errors](https://dev.to/jstoolsweekly/202350-hydration-overlay-visualize-render-differences-to-debug-hydration-errors-5cao)
+- [Dev.to/JS] [🔥2023#50: PageSpy: All-in-one remote debugging tool](https://dev.to/jstoolsweekly/202350-pagespy-all-in-one-remote-debugging-tool-ldj)
+- [Dev.to/JS] [Nx 17.2 Update!!](https://dev.to/nx/nx-172-update-5ag8)
 - [Dev.to/JS] [This is How Your Parents Used CSS and JavaScript](https://dev.to/nikola/this-is-how-your-parents-used-css-and-javascript-b8p)
 - [Lifehacker] [You Can Run a Generative AI Locally on Your Computer](https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer)
 - [Lifehacker] [How to Choose Between the Ring and Blink Video Doorbell](https://lifehacker.com/tech/ring-and-blink-doorbell-comparison)
@@ -43,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These End-of-year Financial Mistakes](https://lifehacker.com/money/avoid-these-end-of-year-financial-mistakes)
 - [Lifehacker] [My Three Favorite Smartphones of 2023](https://lifehacker.com/tech/the-best-smartphones-of-2023)
 - [Dev.to/JS] [Add autocomplete to your text area](https://dev.to/phuocng/add-autocomplete-to-your-text-area-15gi)
-- [Dev.to/JS] [Tech Talk: React in the Terminal? Hold my Beer 🍺](https://dev.to/manuartero/tech-talk-react-in-the-terminal-hold-my-beer-2pnf)
-- [Dev.to/JS] [Sending Emails with Node.js using Nodemailer](https://dev.to/sanketbodake/sending-emails-with-nodejs-using-nodemailer-5a64)
-- [Dev.to/JS] [❄️24 Must-Try Open Source Projects &lpar;for your Christmas Coding&rpar;🎅🏽☃️](https://dev.to/copilotkit/24-must-try-open-source-projects-for-your-christmas-coding-3603)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
