@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This is How Your Parents Used CSS and JavaScript](https://dev.to/nikola/this-is-how-your-parents-used-css-and-javascript-b8p)
+- [Lifehacker] [You Can Run a Generative AI Locally on Your Computer](https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer)
+- [Lifehacker] [How to Choose Between the Ring and Blink Video Doorbell](https://lifehacker.com/tech/ring-and-blink-doorbell-comparison)
 - [Lifehacker] [My Favorite Smart Tech Devices of 2023](https://lifehacker.com/tech/best-smart-tech-this-year)
 - [Dev.to/JS] [State Management in React – Hooks, Context API and Redux](https://dev.to/tyaga001/state-management-in-react-hooks-context-api-and-redux-92)
 - [Dev.to/JS] [Astro + Qwik: Houston, we have Resumability!](https://dev.to/builderio/astro-qwik-houston-we-have-resumability-om0)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tech Talk: React in the Terminal? Hold my Beer 🍺](https://dev.to/manuartero/tech-talk-react-in-the-terminal-hold-my-beer-2pnf)
 - [Dev.to/JS] [Sending Emails with Node.js using Nodemailer](https://dev.to/sanketbodake/sending-emails-with-nodejs-using-nodemailer-5a64)
 - [Dev.to/JS] [❄️24 Must-Try Open Source Projects &lpar;for your Christmas Coding&rpar;🎅🏽☃️](https://dev.to/copilotkit/24-must-try-open-source-projects-for-your-christmas-coding-3603)
-- [Dev.to/JS] [Javascript Tricky](https://dev.to/shyam1806/javascript-tricky-1737)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [New Apple Watches Are Being Pulled Off the Market Soon](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
 - [Lifehacker] [There Might Be a Cheaper Fix to Your Expensive Appliance Repair](https://lifehacker.com/home/how-to-repair-appliance-cheaply)
 - [Lifehacker] [Here&#39;s How Apple AirTags Actually Work](https://lifehacker.com/tech/how-apple-airtags-actually-work)
-- [Lifehacker] [Every App and Game You Need for the Meta Quest 3](https://lifehacker.com/tech/meta-quest-3-best-games-and-apps)
-- [Lifehacker] [Four Tricks for Getting Actually Decent Airplane Meals](https://lifehacker.com/travel/how-to-get-better-airplane-food)
-- [Lifehacker] [When &lpar;and How&rpar; to Set Up &#39;Repair Mode&#39; on Your Android](https://lifehacker.com/tech/repair-mode-on-android)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Every App and Game You Need for the Meta Quest 3](https://lifehacker.com/tech/meta-quest-3-best-games-and-apps)<!-- TECH-POSTS:END -->
 
 ---
 
