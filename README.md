@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [title](https://dev.to/abdelrahmanalsayed/title-38dl)
+- [Lifehacker] [Do These Things to Maximize Your Employee Benefits Before the New Year](https://lifehacker.com/work/how-to-maximize-employee-benefits-before-the-new-year)
 - [Dev.to/JS] [My criticism about the new Observables API](https://dev.to/artalar/my-criticism-about-the-new-observables-api-37d5)
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in January 2024](https://lifehacker.com/entertainment/coming-to-paramount-with-showtime-january-2024)
+- [Lifehacker] [You Can Get Ivacy VPN for $40 Right Now](https://lifehacker.com/tech/ivacy-vpn-sale)
 - [Dev.to/JS] [How to Keep a History of MQTT Data With Node.js](https://dev.to/reductstore/how-to-keep-a-history-of-mqtt-data-with-nodejs-5044)
 - [Dev.to/JS] [Not So Consistent!](https://dev.to/pranavmadhavan1/not-so-consistent-71g)
 - [Dev.to/JS] [Choosing the Right Backend Language: Python vs. Node.js 🚀](https://dev.to/abneribeiro/choosing-the-right-backend-language-python-vs-nodejs-2pkf)
@@ -42,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 New and Returning TV Shows You Should Add to Your 2024 Watchlist](https://lifehacker.com/entertainment/best-new-and-returning-tv-shows-2024)
 - [Dev.to/JS] [✨2023#50: Hydration Overlay: Visualize Render Differences to Debug Hydration Errors](https://dev.to/jstoolsweekly/202350-hydration-overlay-visualize-render-differences-to-debug-hydration-errors-5cao)
 - [Dev.to/JS] [🔥2023#50: PageSpy: All-in-one remote debugging tool](https://dev.to/jstoolsweekly/202350-pagespy-all-in-one-remote-debugging-tool-ldj)
-- [Dev.to/JS] [Nx 17.2 Update!!](https://dev.to/nx/nx-172-update-5ag8)
 - [Lifehacker] [How to Use Best Buy’s ‘Drops’ Feature to Snag Top Tech Deals &lpar;and What’s On Sale Today&rpar;](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)
 - [Lifehacker] [You Can Run a Generative AI Locally on Your Computer](https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer)
 - [Lifehacker] [How to Choose Between the Ring and Blink Video Doorbell](https://lifehacker.com/tech/ring-and-blink-doorbell-comparison)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Test Your Car Battery &lpar;and Why You Should&rpar;](https://lifehacker.com/travel/how-to-test-car-battery)
 - [Lifehacker] [Update Your Mac to Avoid a Humiliating Screen Sharing Disaster](https://lifehacker.com/tech/mac-os-sonoma-update-fixes-screen-share-bug)
 - [Lifehacker] [Whipped Ricotta Is the Easiest Way to Upgrade Your Holiday Appetizer Spread](https://lifehacker.com/food-drink/easy-whipped-ricotta-cheese-recipe)
-- [Lifehacker] [Use a &#39;Single Source of Truth&#39; to Be More Productive](https://lifehacker.com/work/use-a-single-source-of-truth-to-be-more-productive)
-- [Lifehacker] [You Can Learn Spanish on Rosetta Stone for Less Than $100 Right Now](https://lifehacker.com/tech/spanish-rosetta-stone)
-- [Lifehacker] [Why ‘ADIEU’ Is a Terrible Wordle Starter, According to the New York Times](https://lifehacker.com/entertainment/best-nyt-wordle-starter-words)
-- [Lifehacker] [How to Get the Best Price on a Car During the Holidays](https://lifehacker.com/travel/how-to-get-the-best-price-on-a-car-during-the-holidays)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use a &#39;Single Source of Truth&#39; to Be More Productive](https://lifehacker.com/work/use-a-single-source-of-truth-to-be-more-productive)<!-- TECH-POSTS:END -->
 
 ---
 
