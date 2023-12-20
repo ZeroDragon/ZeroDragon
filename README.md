@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create your own custom cursor in a text area](https://dev.to/phuocng/create-your-own-custom-cursor-in-a-text-area-kjk)
 - [Lifehacker] [These Are the Best Last-minute Gift Card Deals for Christmas](https://lifehacker.com/money/best-gift-card-deals-for-christmas)
 - [Dev.to/JS] [Deploy Server App to EC2](https://dev.to/akbarnafisa/deploy-server-app-to-ec2-1dlo)
 - [Lifehacker] [You Can Get a One-Year Sam&#39;s Club Membership for $20 Right Now](https://lifehacker.com/money/one-year-sams-club-membership)
@@ -52,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Localization Translate to React App with redux &lpar;without i18next&rpar;](https://dev.to/idurar/add-localization-translate-to-react-app-with-redux-without-i18next-2hoi)
 - [Lifehacker] [There Might Be a Cheaper Fix to Your Expensive Appliance Repair](https://lifehacker.com/home/how-to-repair-appliance-cheaply)
 - [Lifehacker] [Here&#39;s How Apple AirTags Actually Work](https://lifehacker.com/tech/how-apple-airtags-actually-work)
-- [Dev.to/JS] [How to Solve Vercel Server Less function Crushed Error for Express Server.](https://dev.to/nilok/how-to-solve-vercel-server-less-function-crushed-error-for-express-server-445a)
 - [Lifehacker] [Every App and Game You Need for the Meta Quest 3](https://lifehacker.com/tech/meta-quest-3-best-games-and-apps)
 - [Lifehacker] [Four Tricks for Getting Actually Decent Airplane Meals](https://lifehacker.com/travel/how-to-get-better-airplane-food)
 - [Lifehacker] [When &lpar;and How&rpar; to Set Up &#39;Repair Mode&#39; on Your Android](https://lifehacker.com/tech/repair-mode-on-android)
