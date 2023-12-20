@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with web development in 2024](https://dev.to/aigan/getting-started-with-web-development-in-2024-2b9n)
+- [Dev.to/JS] [Enhance Your React Apps with Image Editing Capabilities](https://dev.to/ideradevtools/enhance-your-react-apps-with-image-editing-capabilities-1kog)
 - [Dev.to/JS] [Why E-Invoicing Matters for Every Business?](https://dev.to/minutebee/why-e-invoicing-matters-for-every-business-4462)
 - [Dev.to/JS] [From thrilling crime dramas to heartwarming](https://dev.to/movieswatchhd/from-thrilling-crime-dramas-to-heartwarming-550e)
 - [Dev.to/JS] [💻 Web Development Resources #179](https://dev.to/vincenius/web-development-resources-179-3b26)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add and Configure Quill Editor &lpar;Nuxt js guide&rpar;](https://dev.to/kucherol/how-to-add-and-configure-quill-editor-nuxt-js-guide-16ji)
 - [Dev.to/JS] [npm is slow when used install commands](https://dev.to/rhrits/npm-is-slow-when-used-install-commands-965)
 - [Dev.to/JS] [Canceling requests in Javascript](https://dev.to/miguelcrespo/canceling-requests-in-javascript-ann)
-- [Dev.to/JS] [Java Programming Course](https://dev.to/samyakcomputer/java-programming-course-2efi)
-- [Dev.to/JS] [Entwicklungsanleitung für eine Dating-Website](https://dev.to/nordily/entwicklungsanleitung-fur-eine-dating-website-208c)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
