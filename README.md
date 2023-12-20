@@ -26,9 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Keep a History of MQTT Data With Node.js](https://dev.to/reductstore/how-to-keep-a-history-of-mqtt-data-with-nodejs-5044)
+- [Dev.to/JS] [Not So Consistent!](https://dev.to/pranavmadhavan1/not-so-consistent-71g)
+- [Dev.to/JS] [Choosing the Right Backend Language: Python vs. Node.js 🚀](https://dev.to/abneribeiro/choosing-the-right-backend-language-python-vs-nodejs-2pkf)
+- [Dev.to/JS] [Custom JavaScript/Typescript Errors: Why and how to use them](https://dev.to/adamcoster/custom-javascripttypescript-errors-why-and-how-to-use-them-1a5f)
+- [Dev.to/JS] [Bar Programming #00 - ThreeJS, como criar cenas 3D na web](https://dev.to/samoht/bar-programming-00-threejs-como-criar-cenas-3d-na-web-2cnh)
+- [Lifehacker] [The Best Tech to Help You Travel Comfortably](https://lifehacker.com/travel/the-best-tech-to-travel-comfortably)
 - [Dev.to/JS] [Making a box designer and shadow picker in 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS needed!&rpar;](https://dev.to/michaelpb/making-a-box-designer-and-shadow-picker-in-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-needed-2m3g)
 - [Dev.to/JS] [Making a shadow picker and box designer in ~30 lines of HTML Web Component template code + 1 extra file &lpar;no JS or node needed!&rpar;](https://dev.to/michaelpb/making-a-shadow-picker-and-box-designer-in-30-lines-of-html-web-component-template-code-1-extra-file-no-js-or-node-needed-55ch)
 - [Dev.to/JS] [AsyncStorage Data Storage](https://dev.to/ofidohub/asyncstorage-data-storage-4n9a)
+- [Lifehacker] [How to Figure Out How Many Calories You Should Burn Each Day](https://lifehacker.com/health/how-many-calories-should-you-burn-each-day)
+- [Lifehacker] [Make This Easy Ham and Cheese Monkey Bread on Christmas Breakfast](https://lifehacker.com/food-drink/easy-ham-and-cheese-monkey-bread-recipe)
+- [Lifehacker] [20 New and Returning TV Shows You Should Add to Your 2024 Watchlist](https://lifehacker.com/entertainment/best-new-and-returning-tv-shows-2024)
 - [Dev.to/JS] [✨2023#50: Hydration Overlay: Visualize Render Differences to Debug Hydration Errors](https://dev.to/jstoolsweekly/202350-hydration-overlay-visualize-render-differences-to-debug-hydration-errors-5cao)
 - [Dev.to/JS] [🔥2023#50: PageSpy: All-in-one remote debugging tool](https://dev.to/jstoolsweekly/202350-pagespy-all-in-one-remote-debugging-tool-ldj)
 - [Dev.to/JS] [Nx 17.2 Update!!](https://dev.to/nx/nx-172-update-5ag8)
@@ -37,12 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Run a Generative AI Locally on Your Computer](https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer)
 - [Lifehacker] [How to Choose Between the Ring and Blink Video Doorbell](https://lifehacker.com/tech/ring-and-blink-doorbell-comparison)
 - [Lifehacker] [My Favorite Smart Tech Devices of 2023](https://lifehacker.com/tech/best-smart-tech-this-year)
-- [Dev.to/JS] [State Management in React – Hooks, Context API and Redux](https://dev.to/tyaga001/state-management-in-react-hooks-context-api-and-redux-92)
-- [Dev.to/JS] [Astro + Qwik: Houston, we have Resumability!](https://dev.to/builderio/astro-qwik-houston-we-have-resumability-om0)
 - [Lifehacker] [Use Plex to Create Your Own Personal Streaming Service](https://lifehacker.com/tech/how-to-use-plex-to-create-your-own-personal-streaming-service)
-- [Dev.to/JS] [7 Portfolio Website Design inspiration for 2024](https://dev.to/mukeshkuiry/7-portfolio-websites-that-will-make-you-jealous-332b)
-- [Dev.to/JS] [Solution for Failed to execute &#39;postMessage&#39; on &#39;DOMWindow&#39; on Next.js](https://dev.to/aliatwa1/solution-for-failed-to-execute-postmessage-on-domwindow-on-nextjs-2p96)
-- [Dev.to/JS] [The three kinds of effects in programming](https://dev.to/iquardt/the-three-kinds-of-effects-in-programming-3meo)
 - [Lifehacker] [These Apps Can Help You Track Any New Year’s Resolution](https://lifehacker.com/health/the-best-new-years-resolution-apps)
 - [Lifehacker] [The Most Important Things to Consider Before Buying a Used Car](https://lifehacker.com/travel/tips-for-used-car-buying)
 - [Lifehacker] [Avoid These End-of-year Financial Mistakes](https://lifehacker.com/money/avoid-these-end-of-year-financial-mistakes)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Learn Spanish on Rosetta Stone for Less Than $100 Right Now](https://lifehacker.com/tech/spanish-rosetta-stone)
 - [Lifehacker] [Why ‘ADIEU’ Is a Terrible Wordle Starter, According to the New York Times](https://lifehacker.com/entertainment/best-nyt-wordle-starter-words)
 - [Lifehacker] [How to Get the Best Price on a Car During the Holidays](https://lifehacker.com/travel/how-to-get-the-best-price-on-a-car-during-the-holidays)
-- [Lifehacker] [Firefox for Android Finally Has Support for Extensions Again](https://lifehacker.com/tech/firefox-for-android-extension-support)
-- [Lifehacker] [The Best Sales on Headphones That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-headphone-airbud-deals-that-arrive-by-christmas)
-- [Lifehacker] [New Apple Watches Are Being Pulled Off the Market Soon](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
-- [Lifehacker] [There Might Be a Cheaper Fix to Your Expensive Appliance Repair](https://lifehacker.com/home/how-to-repair-appliance-cheaply)
-- [Lifehacker] [Here&#39;s How Apple AirTags Actually Work](https://lifehacker.com/tech/how-apple-airtags-actually-work)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Firefox for Android Finally Has Support for Extensions Again](https://lifehacker.com/tech/firefox-for-android-extension-support)<!-- TECH-POSTS:END -->
 
 ---
 
