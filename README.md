@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Entwicklungsanleitung für eine Dating-Website](https://dev.to/nordily/entwicklungsanleitung-fur-eine-dating-website-208c)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/hanifewmasuder/buy-verified-cash-app-account-165k)
+- [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Dev.to/JS] [JS Remove Optional Input](https://dev.to/joesoeph/js-remove-optional-input-3ohm)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
 - [Dev.to/JS] [Create your own custom cursor in a text area](https://dev.to/phuocng/create-your-own-custom-cursor-in-a-text-area-kjk)
 - [Lifehacker] [You Can Get Windows 11 Pro for $25 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
@@ -50,9 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing useEffect from scratch](https://dev.to/joaquinniembro/writing-useeffect-from-scratch-2gbm)
 - [Dev.to/JS] [The only real free external media storage you&#39;ll need!](https://dev.to/viacheslavzyrianov/the-only-real-free-external-media-storage-youll-need-3g57)
 - [Dev.to/JS] [How to create a Volume Profile in a JavaScript Financial Chart](https://dev.to/andyb1979/how-to-create-a-volume-profile-in-a-javascript-financial-chart-2o53)
-- [Dev.to/JS] [How to implement emojis in Vercel/satori](https://dev.to/opensauced/how-to-implement-emojis-in-vercelsatori-2no5)
 - [Lifehacker] [New Apple Watches Are Being Pulled Off the Market Soon](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
-- [Dev.to/JS] [Getting Started With GraphQL &amp; Why it is Required &lpar;Part 1&rpar;](https://dev.to/ganeshyadav3142/getting-started-with-graphql-why-it-is-required-part-1-kg5)
 - [Lifehacker] [There Might Be a Cheaper Fix to Your Expensive Appliance Repair](https://lifehacker.com/home/how-to-repair-appliance-cheaply)
 - [Lifehacker] [Here&#39;s How Apple AirTags Actually Work](https://lifehacker.com/tech/how-apple-airtags-actually-work)
 - [Lifehacker] [Every App and Game You Need for the Meta Quest 3](https://lifehacker.com/tech/meta-quest-3-best-games-and-apps)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Easiest Way to Make Your Home Smell Incredible](https://lifehacker.com/home/how-to-make-your-home-smell-good)
 - [Lifehacker] [How to Use Your Credit Card Rewards to Spend Less on Holiday Gifts](https://lifehacker.com/money/use-credit-card-rewards-on-holiday-gifts)
 - [Lifehacker] [What&#39;s New on Disney+ in January 2024](https://lifehacker.com/entertainment/whats-new-on-disney-plus-in-january-2024)
-- [Lifehacker] [Faux Stroopwafels Are the Laziest Christmas Treat](https://lifehacker.com/food-drink/faux-stroopwafels-recipe)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-19-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Faux Stroopwafels Are the Laziest Christmas Treat](https://lifehacker.com/food-drink/faux-stroopwafels-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
