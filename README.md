@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring the Benefits of Green Vibe CBD Gummies: A Natural Approach to Wellness](https://dev.to/greenvibecbdgummi/exploring-the-benefits-of-green-vibe-cbd-gummies-a-natural-approach-to-wellness-5gni)
+- [Dev.to/JS] [Elegant Use of nvm for Node.js Management on Mac in 2024](https://dev.to/illa/elegant-use-of-nvm-for-nodejs-management-on-mac-in-2024-13fk)
+- [Dev.to/JS] [🚀 🚀 Elevate Your GitHub Project with Essential Bots 🤖](https://dev.to/remotikal/elevate-your-github-project-with-essential-bots-2703)
+- [Dev.to/JS] [Download Free Programming Courses AS we Offer in Paid](https://dev.to/mudsaad/download-free-programming-courses-as-we-offer-in-paid-24d9)
 - [Dev.to/JS] [How to Add and Configure Quill Editor &lpar;Nuxt js guide&rpar;](https://dev.to/kucherol/how-to-add-and-configure-quill-editor-nuxt-js-guide-16ji)
 - [Dev.to/JS] [npm is slow when used install commands](https://dev.to/rhrits/npm-is-slow-when-used-install-commands-965)
 - [Dev.to/JS] [Canceling requests in Javascript](https://dev.to/miguelcrespo/canceling-requests-in-javascript-ann)
@@ -40,16 +44,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Last-minute Gift Card Deals for Christmas](https://lifehacker.com/money/best-gift-card-deals-for-christmas)
 - [Dev.to/JS] [Deploy Server App to EC2](https://dev.to/akbarnafisa/deploy-server-app-to-ec2-1dlo)
 - [Lifehacker] [You Can Get a One-Year Sam&#39;s Club Membership for $20 Right Now](https://lifehacker.com/money/one-year-sams-club-membership)
-- [Dev.to/JS] [Creating A New Data Provider In Graphweaver](https://dev.to/tnodell/creating-a-new-data-provider-in-graphweaver-4bf8)
 - [Lifehacker] [This Budget HP Laptop Just Dropped to Its Lowest Price Yet](https://lifehacker.com/tech/hp-envy-x360-laptop-sale-best-buy)
 - [Lifehacker] [How to Test Your Car Battery &lpar;and Why You Should&rpar;](https://lifehacker.com/travel/how-to-test-car-battery)
 - [Lifehacker] [Update Your Mac to Avoid a Humiliating Screen Sharing Disaster](https://lifehacker.com/tech/mac-os-sonoma-update-fixes-screen-share-bug)
 - [Lifehacker] [Whipped Ricotta Is the Easiest Way to Upgrade Your Holiday Appetizer Spread](https://lifehacker.com/food-drink/easy-whipped-ricotta-cheese-recipe)
-- [Dev.to/JS] [Creando un Custom Element para transformar Imágenes en JavaScript](https://dev.to/ratapan/creando-un-custom-element-para-transformar-imagenes-en-javascript-1a1h)
 - [Lifehacker] [Use a &#39;Single Source of Truth&#39; to Be More Productive](https://lifehacker.com/work/use-a-single-source-of-truth-to-be-more-productive)
 - [Lifehacker] [You Can Learn Spanish on Rosetta Stone for Less Than $100 Right Now](https://lifehacker.com/tech/spanish-rosetta-stone)
-- [Dev.to/JS] [Exploring Modern Mobile App Development: A Comprehensive Guide](https://dev.to/kiraaziz/exploring-modern-mobile-app-development-a-comprehensive-guide-1724)
-- [Dev.to/JS] [The Evolution of Web Development: From Birth to the Modern Era](https://dev.to/kiraaziz/the-evolution-of-web-development-from-birth-to-the-modern-era-39p2)
 - [Lifehacker] [Why ‘ADIEU’ Is a Terrible Wordle Starter, According to the New York Times](https://lifehacker.com/entertainment/best-nyt-wordle-starter-words)
 - [Lifehacker] [How to Get the Best Price on a Car During the Holidays](https://lifehacker.com/travel/how-to-get-the-best-price-on-a-car-during-the-holidays)
 - [Lifehacker] [Firefox for Android Finally Has Support for Extensions Again](https://lifehacker.com/tech/firefox-for-android-extension-support)
