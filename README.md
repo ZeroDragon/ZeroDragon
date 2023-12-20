@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From thrilling crime dramas to heartwarming](https://dev.to/movieswatchhd/from-thrilling-crime-dramas-to-heartwarming-550e)
+- [Dev.to/JS] [💻 Web Development Resources #179](https://dev.to/vincenius/web-development-resources-179-3b26)
 - [Dev.to/JS] [Exploring the Benefits of Green Vibe CBD Gummies: A Natural Approach to Wellness](https://dev.to/greenvibecbdgummi/exploring-the-benefits-of-green-vibe-cbd-gummies-a-natural-approach-to-wellness-5gni)
 - [Dev.to/JS] [Elegant Use of nvm for Node.js Management on Mac in 2024](https://dev.to/illa/elegant-use-of-nvm-for-nodejs-management-on-mac-in-2024-13fk)
 - [Dev.to/JS] [🚀 🚀 Elevate Your GitHub Project with Essential Bots 🤖](https://dev.to/remotikal/elevate-your-github-project-with-essential-bots-2703)
@@ -39,10 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Remove Optional Input](https://dev.to/joesoeph/js-remove-optional-input-3ohm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
-- [Dev.to/JS] [Create your own custom cursor in a text area](https://dev.to/phuocng/create-your-own-custom-cursor-in-a-text-area-kjk)
 - [Lifehacker] [You Can Get Windows 11 Pro for $25 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
 - [Lifehacker] [These Are the Best Last-minute Gift Card Deals for Christmas](https://lifehacker.com/money/best-gift-card-deals-for-christmas)
-- [Dev.to/JS] [Deploy Server App to EC2](https://dev.to/akbarnafisa/deploy-server-app-to-ec2-1dlo)
 - [Lifehacker] [You Can Get a One-Year Sam&#39;s Club Membership for $20 Right Now](https://lifehacker.com/money/one-year-sams-club-membership)
 - [Lifehacker] [This Budget HP Laptop Just Dropped to Its Lowest Price Yet](https://lifehacker.com/tech/hp-envy-x360-laptop-sale-best-buy)
 - [Lifehacker] [How to Test Your Car Battery &lpar;and Why You Should&rpar;](https://lifehacker.com/travel/how-to-test-car-battery)
