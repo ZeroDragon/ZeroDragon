@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add and Configure Quill Editor &lpar;Nuxt js guide&rpar;](https://dev.to/kucherol/how-to-add-and-configure-quill-editor-nuxt-js-guide-16ji)
+- [Dev.to/JS] [npm is slow when used install commands](https://dev.to/rhrits/npm-is-slow-when-used-install-commands-965)
 - [Dev.to/JS] [Canceling requests in Javascript](https://dev.to/miguelcrespo/canceling-requests-in-javascript-ann)
 - [Dev.to/JS] [Java Programming Course](https://dev.to/samyakcomputer/java-programming-course-2efi)
 - [Dev.to/JS] [Entwicklungsanleitung für eine Dating-Website](https://dev.to/nordily/entwicklungsanleitung-fur-eine-dating-website-208c)
@@ -52,8 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get the Best Price on a Car During the Holidays](https://lifehacker.com/travel/how-to-get-the-best-price-on-a-car-during-the-holidays)
 - [Lifehacker] [Firefox for Android Finally Has Support for Extensions Again](https://lifehacker.com/tech/firefox-for-android-extension-support)
 - [Lifehacker] [The Best Sales on Headphones That Will Arrive in Time for Christmas](https://lifehacker.com/tech/best-headphone-airbud-deals-that-arrive-by-christmas)
-- [Dev.to/JS] [Writing useEffect from scratch](https://dev.to/joaquinniembro/writing-useeffect-from-scratch-2gbm)
-- [Dev.to/JS] [The only real free external media storage you&#39;ll need!](https://dev.to/viacheslavzyrianov/the-only-real-free-external-media-storage-youll-need-3g57)
 - [Lifehacker] [New Apple Watches Are Being Pulled Off the Market Soon](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
 - [Lifehacker] [There Might Be a Cheaper Fix to Your Expensive Appliance Repair](https://lifehacker.com/home/how-to-repair-appliance-cheaply)
 - [Lifehacker] [Here&#39;s How Apple AirTags Actually Work](https://lifehacker.com/tech/how-apple-airtags-actually-work)
