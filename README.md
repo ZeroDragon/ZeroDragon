@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Last-minute Gift Card Deals for Christmas](https://lifehacker.com/money/best-gift-card-deals-for-christmas)
 - [Dev.to/JS] [Deploy Server App to EC2](https://dev.to/akbarnafisa/deploy-server-app-to-ec2-1dlo)
+- [Lifehacker] [You Can Get a One-Year Sam&#39;s Club Membership for $20 Right Now](https://lifehacker.com/money/one-year-sams-club-membership)
 - [Dev.to/JS] [Creating A New Data Provider In Graphweaver](https://dev.to/tnodell/creating-a-new-data-provider-in-graphweaver-4bf8)
+- [Lifehacker] [This Budget HP Laptop Just Dropped to Its Lowest Price Yet](https://lifehacker.com/tech/hp-envy-x360-laptop-sale-best-buy)
+- [Lifehacker] [How to Test Your Car Battery &lpar;and Why You Should&rpar;](https://lifehacker.com/travel/how-to-test-car-battery)
 - [Lifehacker] [Update Your Mac to Avoid a Humiliating Screen Sharing Disaster](https://lifehacker.com/tech/mac-os-sonoma-update-fixes-screen-share-bug)
 - [Lifehacker] [Whipped Ricotta Is the Easiest Way to Upgrade Your Holiday Appetizer Spread](https://lifehacker.com/food-drink/easy-whipped-ricotta-cheese-recipe)
 - [Dev.to/JS] [Creando un Custom Element para transformar Imágenes en JavaScript](https://dev.to/ratapan/creando-un-custom-element-para-transformar-imagenes-en-javascript-1a1h)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-19-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 19, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-19-2023)
 - [Lifehacker] [This Roku TV Soundbar Is 75% Off Right Now](https://lifehacker.com/tech/tcl-soundbar-for-roku-tvs-75-percent-off)
-- [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-porch-pirates-and-package-thieves)
-- [Lifehacker] [How to Clean up Christmas Tree Pine Needles Without Wrecking Your Vacuum](https://lifehacker.com/home/how-to-clean-up-christmas-tree-pine-needles)
-- [Lifehacker] [Cuccidati Are the Colorful Italian Christmas Cookie You&#39;ve Been Missing](https://lifehacker.com/food-drink/cuccidati-italian-cookie-recipe)
-- [Lifehacker] [The Best Tech Gifts under $100 That Will Arrive in Time for Christmas](https://lifehacker.com/tech/last-minute-tech-gifts-for-christmas)
-- [Lifehacker] [7 Last-minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/money/best-last-minute-holiday-gift-card-ideas)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop &lpar;or at Least Slow Down&rpar; Porch Pirates](https://lifehacker.com/how-to-stop-porch-pirates-and-package-thieves)<!-- TECH-POSTS:END -->
 
 ---
 
