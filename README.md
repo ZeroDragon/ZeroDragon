@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why E-Invoicing Matters for Every Business?](https://dev.to/minutebee/why-e-invoicing-matters-for-every-business-4462)
 - [Dev.to/JS] [From thrilling crime dramas to heartwarming](https://dev.to/movieswatchhd/from-thrilling-crime-dramas-to-heartwarming-550e)
 - [Dev.to/JS] [💻 Web Development Resources #179](https://dev.to/vincenius/web-development-resources-179-3b26)
 - [Dev.to/JS] [Exploring the Benefits of Green Vibe CBD Gummies: A Natural Approach to Wellness](https://dev.to/greenvibecbdgummi/exploring-the-benefits-of-green-vibe-cbd-gummies-a-natural-approach-to-wellness-5gni)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Java Programming Course](https://dev.to/samyakcomputer/java-programming-course-2efi)
 - [Dev.to/JS] [Entwicklungsanleitung für eine Dating-Website](https://dev.to/nordily/entwicklungsanleitung-fur-eine-dating-website-208c)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
-- [Dev.to/JS] [JS Remove Optional Input](https://dev.to/joesoeph/js-remove-optional-input-3ohm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
 - [Lifehacker] [You Can Get Windows 11 Pro for $25 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
