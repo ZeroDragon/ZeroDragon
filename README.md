@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solution for Failed to execute &#39;postMessage&#39; on &#39;DOMWindow&#39; on Next.js](https://dev.to/aliatwa1/solution-for-failed-to-execute-postmessage-on-domwindow-on-nextjs-2p96)
+- [Dev.to/JS] [The three kinds of effects in programming](https://dev.to/iquardt/the-three-kinds-of-effects-in-programming-3meo)
+- [Lifehacker] [These Apps Can Help You Track Any New Year’s Resolution](https://lifehacker.com/health/the-best-new-years-resolution-apps)
+- [Dev.to/JS] [Principios de la WCAG](https://dev.to/vancorcodes/clean-code-y-buenas-practicas-con-javascript-589j)
+- [Lifehacker] [The Most Important Things to Consider Before Buying a Used Car](https://lifehacker.com/travel/tips-for-used-car-buying)
 - [Dev.to/JS] [AdonisJS : un framework Node.js moderne et complet](https://dev.to/benoitpetit/adonisjs-un-framework-nodejs-moderne-et-complet-20el)
+- [Lifehacker] [Avoid These End-of-year Financial Mistakes](https://lifehacker.com/money/avoid-these-end-of-year-financial-mistakes)
+- [Lifehacker] [My Three Favorite Smartphones of 2023](https://lifehacker.com/tech/the-best-smartphones-of-2023)
 - [Dev.to/JS] [Add autocomplete to your text area](https://dev.to/phuocng/add-autocomplete-to-your-text-area-15gi)
 - [Dev.to/JS] [Tech Talk: React in the Terminal? Hold my Beer 🍺](https://dev.to/manuartero/tech-talk-react-in-the-terminal-hold-my-beer-2pnf)
 - [Dev.to/JS] [Sending Emails with Node.js using Nodemailer](https://dev.to/sanketbodake/sending-emails-with-nodejs-using-nodemailer-5a64)
@@ -35,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create APIs for a Blog with NodeJS and Express with JSON file](https://dev.to/sarfarazunarr/create-apis-for-a-blog-with-nodejs-and-express-with-json-file-4o6i)
 - [Dev.to/JS] [Day 13 - 30 Days learn Web Dev](https://dev.to/johnc/day-13-30-days-learn-web-dev-e79)
 - [Dev.to/JS] [Day 12 - 30 Days learn Web Dev](https://dev.to/johnc/day-12-30-days-learn-web-dev-4m14)
-- [Dev.to/JS] [Building a desktop app with JavaScript](https://dev.to/opensourcee/building-a-desktop-app-with-javascript-4lge)
-- [Dev.to/JS] [SAP-CDumps Exposed: The Key to Acing Your Exam](https://dev.to/pearalmack/sap-cdumps-exposed-the-key-to-acing-your-exam-5a13)
-- [Dev.to/JS] [Puck 0.13: Custom UIs, object fields &amp; DropZone restrictions](https://dev.to/measuredco/puck-013-custom-uis-object-fields-dropzone-restrictions-321p)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Tricks for Getting Actually Decent Airplane Meals](https://lifehacker.com/travel/how-to-get-better-airplane-food)
 - [Lifehacker] [When &lpar;and How&rpar; to Set Up &#39;Repair Mode&#39; on Your Android](https://lifehacker.com/tech/repair-mode-on-android)
 - [Lifehacker] [What&#39;s New on Hulu in January 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-january-2024)
-- [Lifehacker] [How Restricting Your Kid&#39;s Holiday Foods Can Backfire](https://lifehacker.com/family/let-kids-eat-holiday-treats)
-- [Lifehacker] [This Is the Easiest Way to Make Your Home Smell Incredible](https://lifehacker.com/home/how-to-make-your-home-smell-good)
-- [Lifehacker] [How to Use Your Credit Card Rewards to Spend Less on Holiday Gifts](https://lifehacker.com/money/use-credit-card-rewards-on-holiday-gifts)
-- [Lifehacker] [What&#39;s New on Disney+ in January 2024](https://lifehacker.com/entertainment/whats-new-on-disney-plus-in-january-2024)
-- [Lifehacker] [Faux Stroopwafels Are the Laziest Christmas Treat](https://lifehacker.com/food-drink/faux-stroopwafels-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Restricting Your Kid&#39;s Holiday Foods Can Backfire](https://lifehacker.com/family/let-kids-eat-holiday-treats)<!-- TECH-POSTS:END -->
 
 ---
 
