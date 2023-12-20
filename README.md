@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AdonisJS : un framework Node.js moderne et complet](https://dev.to/benoitpetit/adonisjs-un-framework-nodejs-moderne-et-complet-20el)
+- [Dev.to/JS] [Add autocomplete to your text area](https://dev.to/phuocng/add-autocomplete-to-your-text-area-15gi)
+- [Dev.to/JS] [Tech Talk: React in the Terminal? Hold my Beer 🍺](https://dev.to/manuartero/tech-talk-react-in-the-terminal-hold-my-beer-2pnf)
+- [Dev.to/JS] [Sending Emails with Node.js using Nodemailer](https://dev.to/sanketbodake/sending-emails-with-nodejs-using-nodemailer-5a64)
+- [Dev.to/JS] [❄️24 Must-Try Open Source Projects &lpar;for your Christmas Coding&rpar;🎅🏽☃️](https://dev.to/copilotkit/24-must-try-open-source-projects-for-your-christmas-coding-3603)
 - [Dev.to/JS] [Javascript Tricky](https://dev.to/shyam1806/javascript-tricky-1737)
 - [Dev.to/JS] [Create APIs for a Blog with NodeJS and Express with JSON file](https://dev.to/sarfarazunarr/create-apis-for-a-blog-with-nodejs-and-express-with-json-file-4o6i)
 - [Dev.to/JS] [Day 13 - 30 Days learn Web Dev](https://dev.to/johnc/day-13-30-days-learn-web-dev-e79)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a desktop app with JavaScript](https://dev.to/opensourcee/building-a-desktop-app-with-javascript-4lge)
 - [Dev.to/JS] [SAP-CDumps Exposed: The Key to Acing Your Exam](https://dev.to/pearalmack/sap-cdumps-exposed-the-key-to-acing-your-exam-5a13)
 - [Dev.to/JS] [Puck 0.13: Custom UIs, object fields &amp; DropZone restrictions](https://dev.to/measuredco/puck-013-custom-uis-object-fields-dropzone-restrictions-321p)
-- [Dev.to/JS] [Exploring Electron: A JavaScript Developer&#39;s Guide](https://dev.to/opensourcee/exploring-electron-a-javascript-developers-guide-1fjm)
-- [Dev.to/JS] [Manage Delays and Async in Playwright](https://dev.to/mikestopcontinues/manage-delays-and-async-in-playwright-2n8d)
-- [Dev.to/JS] [Getting started with web development in 2024](https://dev.to/aigan/getting-started-with-web-development-in-2024-2b9n)
-- [Dev.to/JS] [Enhance Your React Apps with Image Editing Capabilities](https://dev.to/ideradevtools/enhance-your-react-apps-with-image-editing-capabilities-1kog)
-- [Dev.to/JS] [Why E-Invoicing Matters for Every Business?](https://dev.to/minutebee/why-e-invoicing-matters-for-every-business-4462)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
