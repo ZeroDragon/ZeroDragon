@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploy Server App to EC2](https://dev.to/akbarnafisa/deploy-server-app-to-ec2-1dlo)
+- [Dev.to/JS] [Creating A New Data Provider In Graphweaver](https://dev.to/tnodell/creating-a-new-data-provider-in-graphweaver-4bf8)
+- [Lifehacker] [Update Your Mac to Avoid a Humiliating Screen Sharing Disaster](https://lifehacker.com/tech/mac-os-sonoma-update-fixes-screen-share-bug)
 - [Lifehacker] [Whipped Ricotta Is the Easiest Way to Upgrade Your Holiday Appetizer Spread](https://lifehacker.com/food-drink/easy-whipped-ricotta-cheese-recipe)
 - [Dev.to/JS] [Creando un Custom Element para transformar Imágenes en JavaScript](https://dev.to/ratapan/creando-un-custom-element-para-transformar-imagenes-en-javascript-1a1h)
 - [Lifehacker] [Use a &#39;Single Source of Truth&#39; to Be More Productive](https://lifehacker.com/work/use-a-single-source-of-truth-to-be-more-productive)
@@ -46,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There Might Be a Cheaper Fix to Your Expensive Appliance Repair](https://lifehacker.com/home/how-to-repair-appliance-cheaply)
 - [Lifehacker] [Here&#39;s How Apple AirTags Actually Work](https://lifehacker.com/tech/how-apple-airtags-actually-work)
 - [Dev.to/JS] [How to Solve Vercel Server Less function Crushed Error for Express Server.](https://dev.to/nilok/how-to-solve-vercel-server-less-function-crushed-error-for-express-server-445a)
-- [Dev.to/JS] [Unlocking Performance with Concurrent Rendering in React 18](https://dev.to/krentrox/unlocking-performance-with-concurrent-rendering-in-react-18-1l64)
-- [Dev.to/JS] [Migration Guide from Twilio Video to SuperViz Video Conference](https://dev.to/superviz/migration-guide-from-twilio-video-to-superviz-video-conference-2anj)
 - [Lifehacker] [Every App and Game You Need for the Meta Quest 3](https://lifehacker.com/tech/meta-quest-3-best-games-and-apps)
 - [Lifehacker] [Four Tricks for Getting Actually Decent Airplane Meals](https://lifehacker.com/travel/how-to-get-better-airplane-food)
 - [Lifehacker] [When &lpar;and How&rpar; to Set Up &#39;Repair Mode&#39; on Your Android](https://lifehacker.com/tech/repair-mode-on-android)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean up Christmas Tree Pine Needles Without Wrecking Your Vacuum](https://lifehacker.com/home/how-to-clean-up-christmas-tree-pine-needles)
 - [Lifehacker] [Cuccidati Are the Colorful Italian Christmas Cookie You&#39;ve Been Missing](https://lifehacker.com/food-drink/cuccidati-italian-cookie-recipe)
 - [Lifehacker] [The Best Tech Gifts under $100 That Will Arrive in Time for Christmas](https://lifehacker.com/tech/last-minute-tech-gifts-for-christmas)
-- [Lifehacker] [7 Last-minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/money/best-last-minute-holiday-gift-card-ideas)
-- [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 Last-minute Gift Card Ideas &lpar;That Aren’t Amazon or Starbucks&rpar;](https://lifehacker.com/money/best-last-minute-holiday-gift-card-ideas)<!-- TECH-POSTS:END -->
 
 ---
 
