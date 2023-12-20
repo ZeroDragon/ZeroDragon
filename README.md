@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [My Favorite Smart Tech Devices of 2023](https://lifehacker.com/tech/best-smart-tech-this-year)
+- [Dev.to/JS] [State Management in React – Hooks, Context API and Redux](https://dev.to/tyaga001/state-management-in-react-hooks-context-api-and-redux-92)
+- [Dev.to/JS] [Astro + Qwik: Houston, we have Resumability!](https://dev.to/builderio/astro-qwik-houston-we-have-resumability-om0)
+- [Lifehacker] [Use Plex to Create Your Own Personal Streaming Service](https://lifehacker.com/tech/how-to-use-plex-to-create-your-own-personal-streaming-service)
+- [Dev.to/JS] [7 Portfolio Website Design inspiration for 2024](https://dev.to/mukeshkuiry/7-portfolio-websites-that-will-make-you-jealous-332b)
 - [Dev.to/JS] [Solution for Failed to execute &#39;postMessage&#39; on &#39;DOMWindow&#39; on Next.js](https://dev.to/aliatwa1/solution-for-failed-to-execute-postmessage-on-domwindow-on-nextjs-2p96)
 - [Dev.to/JS] [The three kinds of effects in programming](https://dev.to/iquardt/the-three-kinds-of-effects-in-programming-3meo)
 - [Lifehacker] [These Apps Can Help You Track Any New Year’s Resolution](https://lifehacker.com/health/the-best-new-years-resolution-apps)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sending Emails with Node.js using Nodemailer](https://dev.to/sanketbodake/sending-emails-with-nodejs-using-nodemailer-5a64)
 - [Dev.to/JS] [❄️24 Must-Try Open Source Projects &lpar;for your Christmas Coding&rpar;🎅🏽☃️](https://dev.to/copilotkit/24-must-try-open-source-projects-for-your-christmas-coding-3603)
 - [Dev.to/JS] [Javascript Tricky](https://dev.to/shyam1806/javascript-tricky-1737)
-- [Dev.to/JS] [Create APIs for a Blog with NodeJS and Express with JSON file](https://dev.to/sarfarazunarr/create-apis-for-a-blog-with-nodejs-and-express-with-json-file-4o6i)
-- [Dev.to/JS] [Day 13 - 30 Days learn Web Dev](https://dev.to/johnc/day-13-30-days-learn-web-dev-e79)
-- [Dev.to/JS] [Day 12 - 30 Days learn Web Dev](https://dev.to/johnc/day-12-30-days-learn-web-dev-4m14)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Apple AirTags Actually Work](https://lifehacker.com/tech/how-apple-airtags-actually-work)
 - [Lifehacker] [Every App and Game You Need for the Meta Quest 3](https://lifehacker.com/tech/meta-quest-3-best-games-and-apps)
 - [Lifehacker] [Four Tricks for Getting Actually Decent Airplane Meals](https://lifehacker.com/travel/how-to-get-better-airplane-food)
-- [Lifehacker] [When &lpar;and How&rpar; to Set Up &#39;Repair Mode&#39; on Your Android](https://lifehacker.com/tech/repair-mode-on-android)
-- [Lifehacker] [What&#39;s New on Hulu in January 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-january-2024)
-- [Lifehacker] [How Restricting Your Kid&#39;s Holiday Foods Can Backfire](https://lifehacker.com/family/let-kids-eat-holiday-treats)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When &lpar;and How&rpar; to Set Up &#39;Repair Mode&#39; on Your Android](https://lifehacker.com/tech/repair-mode-on-android)<!-- TECH-POSTS:END -->
 
 ---
 
