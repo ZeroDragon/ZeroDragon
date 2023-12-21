@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mention](https://dev.to/phuocng/mention-27h4)
 - [Dev.to/JS] [Building a Simple Web Application from Scratch: A Step-by-Step Tutorial for Beginners](https://dev.to/freefullstack/building-a-simple-web-application-from-scratch-a-step-by-step-tutorial-for-beginners-5gll)
 - [Dev.to/JS] [Building a FAQ Bot: A React ChatBotify Guide &lpar;Part 3&rpar;](https://dev.to/tjtanjin/building-a-faq-bot-a-react-chatbotify-guide-part-3-2548)
 - [Dev.to/JS] [When to use Mock API?](https://dev.to/sanjaykhanssk/when-to-use-mock-api-37n1)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Much JavaScript is Enough to Learn ReactJS?](https://dev.to/canhamzacode/how-much-javascript-is-enough-to-learn-reactjs-24ef)
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
 - [Dev.to/JS] [12 Free and Fun API for your next Project](https://dev.to/mukeshkuiry/12-free-and-fun-api-for-your-next-project-5eem)
-- [Dev.to/JS] [No Listicles! The chrome add-on that removes list-type articles from your DEV.TO feed](https://dev.to/lnahrf/no-listicles-the-chrome-add-on-that-removes-list-type-articles-from-your-devto-feed-3i8)
 - [Lifehacker] [Between Midjourney and DALL-E 3, Which AI Image Generator Is Best](https://lifehacker.com/tech/dalle-versus-midjourney-which-is-better)
 - [Lifehacker] [The Best Deals on Laptops That Will Arrive by Christmas](https://lifehacker.com/tech/best-deals-laptops-that-will-arrive-by-christmas)
 - [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/tech/microsoft-office-windows-11-pro-sale)
