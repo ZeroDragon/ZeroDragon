@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Functions Quick References](https://dev.to/hoanganhlam/javascript-functions-quick-references-2a1a)
+- [Dev.to/JS] [JavaScript Requests quick reference](https://dev.to/hoanganhlam/javascript-requests-quick-reference-2496)
+- [Dev.to/JS] [FitSpresso - &lpar;Works Or Hoax&rpar; Check Here All Improtant Details!Healthy life](https://dev.to/nworahiwetelu/fitspresso-works-or-hoax-check-here-all-improtant-detailshealthy-life-1l2c)
+- [Dev.to/JS] [Essentials of TypeScript Classes](https://dev.to/refine/essentials-of-typescript-classes-4mi8)
 - [Dev.to/JS] [React JS Jobs, Roles, Salary and More](https://dev.to/ishitajuneja/react-js-jobs-roles-salary-and-more-4ged)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/stibiystijurassic/buy-google-5-star-reviews-4oci)
 - [Dev.to/JS] [Mention](https://dev.to/phuocng/mention-27h4)
@@ -34,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [When to use Mock API?](https://dev.to/sanjaykhanssk/when-to-use-mock-api-37n1)
 - [Dev.to/JS] [tesnet areon network](https://dev.to/exchange987/tesnet-areon-network-57na)
 - [Dev.to/JS] [Statische Website erstellen](https://dev.to/elisedev/statische-website-erstellen-3mkl)
-- [Dev.to/JS] [What are the characteristics of Discrete Semiconductor Products?](https://dev.to/fatimaanna/what-are-the-characteristics-of-discrete-semiconductor-products-d41)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-21-2023)
-- [Dev.to/JS] [Insert emojis](https://dev.to/phuocng/insert-emojis-b78)
-- [Dev.to/JS] [Como lidar com performance em aplicações ReactJS](https://dev.to/brunoocrv/como-lidar-com-performance-em-aplicacoes-reactjs-419h)
-- [Dev.to/JS] [Setup API Gateway](https://dev.to/akbarnafisa/setup-api-gateway-oci)
 - [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
 - [Lifehacker] [Between Midjourney and DALL-E 3, Which AI Image Generator Is Best](https://lifehacker.com/tech/dalle-versus-midjourney-which-is-better)
