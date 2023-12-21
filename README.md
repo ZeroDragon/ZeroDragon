@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-21-2023)
+- [Dev.to/JS] [Insert emojis](https://dev.to/phuocng/insert-emojis-b78)
 - [Dev.to/JS] [Como lidar com performance em aplicações ReactJS](https://dev.to/brunoocrv/como-lidar-com-performance-em-aplicacoes-reactjs-419h)
 - [Dev.to/JS] [Setup API Gateway](https://dev.to/akbarnafisa/setup-api-gateway-oci)
+- [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
 - [Dev.to/JS] [How Much JavaScript is Enough to Learn ReactJS?](https://dev.to/canhamzacode/how-much-javascript-is-enough-to-learn-reactjs-24ef)
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
 - [Dev.to/JS] [12 Free and Fun API for your next Project](https://dev.to/mukeshkuiry/12-free-and-fun-api-for-your-next-project-5eem)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Choosing the Right Backend Language: Python vs. Node.js 🚀](https://dev.to/abneribeiro/choosing-the-right-backend-language-python-vs-nodejs-2pkf)
 - [Lifehacker] [Use This Framework to Give Your Kid Enough Downtime](https://lifehacker.com/family/more-downtime-for-your-kid)
 - [Dev.to/JS] [Custom JavaScript/Typescript Errors: Why and how to use them](https://dev.to/adamcoster/custom-javascripttypescript-errors-why-and-how-to-use-them-1a5f)
-- [Dev.to/JS] [Bar Programming #00 - ThreeJS, como criar cenas 3D na web](https://dev.to/samoht/bar-programming-00-threejs-como-criar-cenas-3d-na-web-2cnh)
 - [Lifehacker] [The Best Tech to Help You Travel Comfortably](https://lifehacker.com/travel/the-best-tech-to-travel-comfortably)
 - [Lifehacker] [How to Figure Out How Many Calories You Should Burn Each Day](https://lifehacker.com/health/how-many-calories-should-you-burn-each-day)
 - [Lifehacker] [Make This Easy Ham and Cheese Monkey Bread on Christmas Breakfast](https://lifehacker.com/food-drink/easy-ham-and-cheese-monkey-bread-recipe)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
-- [Lifehacker] [You Can Get Windows 11 Pro for $25 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
-- [Lifehacker] [These Are the Best Last-minute Gift Card Deals for Christmas](https://lifehacker.com/money/best-gift-card-deals-for-christmas)
-- [Lifehacker] [You Can Get a One-Year Sam&#39;s Club Membership for $20 Right Now](https://lifehacker.com/money/one-year-sams-club-membership)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Windows 11 Pro for $25 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)<!-- TECH-POSTS:END -->
 
 ---
 
