@@ -28,7 +28,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Applicative-order vs. normal-order evaluation](https://dev.to/rivea0/applicative-order-vs-normal-order-evaluation-3c3d)
 - [Dev.to/JS] [Open The Modal on click of browser&#39;s back button in react &lpar;with native javascript&rpar;](https://dev.to/roshan_ican/open-the-modal-on-click-of-browsers-back-button-in-react-with-native-javascript-4i55)
-- [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
 - [Lifehacker] [The Easiest Way to Figure Out Which Part of Your Car Is Leaking](https://lifehacker.com/travel/which-part-of-car-is-leaking)
 - [Lifehacker] [Update Chrome ASAP &lpar;Even If You Don’t Use It&rpar;](https://lifehacker.com/tech/why-you-need-to-update-chrome-asap)
 - [Lifehacker] [What You Should Keep in Your Glove Compartment, According to a Mechanic](https://lifehacker.com/travel/what-to-keep-in-your-glove-compartment-according-to-a-mechanic)
@@ -65,7 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Figure Out How Many Calories You Should Burn Each Day](https://lifehacker.com/health/how-many-calories-should-you-burn-each-day)
 - [Lifehacker] [Make This Easy Ham and Cheese Monkey Bread on Christmas Breakfast](https://lifehacker.com/food-drink/easy-ham-and-cheese-monkey-bread-recipe)
 - [Lifehacker] [20 New and Returning TV Shows You Should Add to Your 2024 Watchlist](https://lifehacker.com/entertainment/best-new-and-returning-tv-shows-2024)
-- [Lifehacker] [How to Use Best Buy’s ‘Drops’ Feature to Snag Top Tech Deals &lpar;and What’s On Sale Today&rpar;](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Use Best Buy’s ‘Drops’ Feature to Snag Top Tech Deals &lpar;and What’s On Sale Today&rpar;](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)
+- [Lifehacker] [You Can Run a Generative AI Locally on Your Computer](https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer)<!-- TECH-POSTS:END -->
 
 ---
 
