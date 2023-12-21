@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como lidar com performance em aplicações ReactJS](https://dev.to/brunoocrv/como-lidar-com-performance-em-aplicacoes-reactjs-419h)
 - [Dev.to/JS] [Setup API Gateway](https://dev.to/akbarnafisa/setup-api-gateway-oci)
 - [Dev.to/JS] [How Much JavaScript is Enough to Learn ReactJS?](https://dev.to/canhamzacode/how-much-javascript-is-enough-to-learn-reactjs-24ef)
+- [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
 - [Dev.to/JS] [12 Free and Fun API for your next Project](https://dev.to/mukeshkuiry/12-free-and-fun-api-for-your-next-project-5eem)
 - [Dev.to/JS] [No Listicles! The chrome add-on that removes list-type articles from your DEV.TO feed](https://dev.to/lnahrf/no-listicles-the-chrome-add-on-that-removes-list-type-articles-from-your-devto-feed-3i8)
 - [Lifehacker] [Between Midjourney and DALL-E 3, Which AI Image Generator Is Best](https://lifehacker.com/tech/dalle-versus-midjourney-which-is-better)
@@ -46,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Custom JavaScript/Typescript Errors: Why and how to use them](https://dev.to/adamcoster/custom-javascripttypescript-errors-why-and-how-to-use-them-1a5f)
 - [Dev.to/JS] [Bar Programming #00 - ThreeJS, como criar cenas 3D na web](https://dev.to/samoht/bar-programming-00-threejs-como-criar-cenas-3d-na-web-2cnh)
 - [Lifehacker] [The Best Tech to Help You Travel Comfortably](https://lifehacker.com/travel/the-best-tech-to-travel-comfortably)
-- [Dev.to/JS] [Making a box designer and shadow picker in 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS needed!&rpar;](https://dev.to/michaelpb/making-a-box-designer-and-shadow-picker-in-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-needed-2m3g)
 - [Lifehacker] [How to Figure Out How Many Calories You Should Burn Each Day](https://lifehacker.com/health/how-many-calories-should-you-burn-each-day)
 - [Lifehacker] [Make This Easy Ham and Cheese Monkey Bread on Christmas Breakfast](https://lifehacker.com/food-drink/easy-ham-and-cheese-monkey-bread-recipe)
 - [Lifehacker] [20 New and Returning TV Shows You Should Add to Your 2024 Watchlist](https://lifehacker.com/entertainment/best-new-and-returning-tv-shows-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
 - [Lifehacker] [You Can Get Windows 11 Pro for $25 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
 - [Lifehacker] [These Are the Best Last-minute Gift Card Deals for Christmas](https://lifehacker.com/money/best-gift-card-deals-for-christmas)
-- [Lifehacker] [You Can Get a One-Year Sam&#39;s Club Membership for $20 Right Now](https://lifehacker.com/money/one-year-sams-club-membership)
-- [Lifehacker] [This Budget HP Laptop Just Dropped to Its Lowest Price Yet](https://lifehacker.com/tech/hp-envy-x360-laptop-sale-best-buy)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a One-Year Sam&#39;s Club Membership for $20 Right Now](https://lifehacker.com/money/one-year-sams-club-membership)<!-- TECH-POSTS:END -->
 
 ---
 
