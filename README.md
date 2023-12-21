@@ -26,10 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Update Chrome ASAP &lpar;Even If You Don’t Use It&rpar;](https://lifehacker.com/tech/why-you-need-to-update-chrome-asap)
+- [Lifehacker] [What You Should Keep in Your Glove Compartment, According to a Mechanic](https://lifehacker.com/travel/what-to-keep-in-your-glove-compartment-according-to-a-mechanic)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/dtuhiusbfiomoys/buy-google-voice-accounts-3mj0)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/dtuhiusbfiomoys/buy-google-5-star-reviews-g63)
 - [Dev.to/JS] [Publisher Rocket](https://dev.to/rankmarkett/publisher-rocket-409f)
 - [Dev.to/JS] [🚀 Learn JavaScript with Me! 💻✨](https://dev.to/ukana/learn-javascript-with-me-5275)
+- [Lifehacker] [You Can Get the Apple Watch Series 9 for the Lowest Price Yet &lpar;and in Time for Christmas&rpar;](https://lifehacker.com/tech/apple-watch-series-9-sale)
 - [Dev.to/JS] [OPENSOURCE &amp; DEVREL](https://dev.to/devgancode/opensource-devrel-2glh)
+- [Lifehacker] [You Can Now Hide Your ChatGPT Chats &lpar;Without Deleting Them&rpar;](https://lifehacker.com/tech/how-to-hide-chatgpt-chats-without-deleting-them)
 - [Dev.to/JS] [Kuronime - Nonton Streaming Anime Subtitle Indonesia](https://dev.to/kuronime/kuronime-nonton-streaming-anime-subtitle-indonesia-7mj)
 - [Dev.to/JS] [Good profiles for study](https://dev.to/x4m1t0/good-profiles-for-study-2aa)
 - [Dev.to/JS] [Need help in nodejs!](https://dev.to/x4m1t0/need-help-in-nodejs-1ckp)
@@ -40,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [123B Li - Trang Chính Thức , Khuyến Mãi VIP](https://dev.to/123b_chinhthuc/123b-li-trang-chinh-thuc-khuyen-mai-vip-53en)
 - [Lifehacker] [You Can Get Your Phone to Read Webpages to You](https://lifehacker.com/tech/how-to-get-phone-to-read-out-loud)
 - [Dev.to/JS] [🚀 Fresh Storyblok SDK releases, plus new Canada and Australia regions 🌍](https://dev.to/storyblok/fresh-storyblok-sdk-releases-plus-new-canada-and-australia-regions-f3g)
-- [Dev.to/JS] [asFunction: JavaScript Functional Programming](https://dev.to/oculus42/asfunction-javascript-functional-programming-i9m)
 - [Lifehacker] [What People Are Getting Wrong This Week: Disney Conspiracy Theories](https://lifehacker.com/entertainment/disney-conspiracy-theories-real-and-fake)
 - [Lifehacker] [How to Set up Your First Google Home Automation](https://lifehacker.com/tech/how-to-set-up-google-home-automations)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 New and Returning TV Shows You Should Add to Your 2024 Watchlist](https://lifehacker.com/entertainment/best-new-and-returning-tv-shows-2024)
 - [Lifehacker] [How to Use Best Buy’s ‘Drops’ Feature to Snag Top Tech Deals &lpar;and What’s On Sale Today&rpar;](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)
 - [Lifehacker] [You Can Run a Generative AI Locally on Your Computer](https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer)
-- [Lifehacker] [How to Choose Between the Ring and Blink Video Doorbell](https://lifehacker.com/tech/ring-and-blink-doorbell-comparison)
-- [Lifehacker] [My Favorite Smart Tech Devices of 2023](https://lifehacker.com/tech/best-smart-tech-this-year)
-- [Lifehacker] [Use Plex to Create Your Own Personal Streaming Service](https://lifehacker.com/tech/how-to-use-plex-to-create-your-own-personal-streaming-service)
-- [Lifehacker] [These Apps Can Help You Track Any New Year’s Resolution](https://lifehacker.com/health/the-best-new-years-resolution-apps)
-- [Lifehacker] [The Most Important Things to Consider Before Buying a Used Car](https://lifehacker.com/travel/tips-for-used-car-buying)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose Between the Ring and Blink Video Doorbell](https://lifehacker.com/tech/ring-and-blink-doorbell-comparison)<!-- TECH-POSTS:END -->
 
 ---
 
