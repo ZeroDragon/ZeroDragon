@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the characteristics of Discrete Semiconductor Products?](https://dev.to/fatimaanna/what-are-the-characteristics-of-discrete-semiconductor-products-d41)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-21-2023)
 - [Dev.to/JS] [Insert emojis](https://dev.to/phuocng/insert-emojis-b78)
 - [Dev.to/JS] [Como lidar com performance em aplicações ReactJS](https://dev.to/brunoocrv/como-lidar-com-performance-em-aplicacoes-reactjs-419h)
@@ -48,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Not So Consistent!](https://dev.to/pranavmadhavan1/not-so-consistent-71g)
 - [Dev.to/JS] [Choosing the Right Backend Language: Python vs. Node.js 🚀](https://dev.to/abneribeiro/choosing-the-right-backend-language-python-vs-nodejs-2pkf)
 - [Lifehacker] [Use This Framework to Give Your Kid Enough Downtime](https://lifehacker.com/family/more-downtime-for-your-kid)
-- [Dev.to/JS] [Custom JavaScript/Typescript Errors: Why and how to use them](https://dev.to/adamcoster/custom-javascripttypescript-errors-why-and-how-to-use-them-1a5f)
 - [Lifehacker] [The Best Tech to Help You Travel Comfortably](https://lifehacker.com/travel/the-best-tech-to-travel-comfortably)
 - [Lifehacker] [How to Figure Out How Many Calories You Should Burn Each Day](https://lifehacker.com/health/how-many-calories-should-you-burn-each-day)
 - [Lifehacker] [Make This Easy Ham and Cheese Monkey Bread on Christmas Breakfast](https://lifehacker.com/food-drink/easy-ham-and-cheese-monkey-bread-recipe)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Three Favorite Smartphones of 2023](https://lifehacker.com/tech/the-best-smartphones-of-2023)
 - [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)
-- [Lifehacker] [You Can Get Windows 11 Pro for $25 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)<!-- TECH-POSTS:END -->
 
 ---
 
