@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React JS Jobs, Roles, Salary and More](https://dev.to/ishitajuneja/react-js-jobs-roles-salary-and-more-4ged)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/stibiystijurassic/buy-google-5-star-reviews-4oci)
 - [Dev.to/JS] [Mention](https://dev.to/phuocng/mention-27h4)
 - [Dev.to/JS] [Building a Simple Web Application from Scratch: A Step-by-Step Tutorial for Beginners](https://dev.to/freefullstack/building-a-simple-web-application-from-scratch-a-step-by-step-tutorial-for-beginners-5gll)
 - [Dev.to/JS] [Building a FAQ Bot: A React ChatBotify Guide &lpar;Part 3&rpar;](https://dev.to/tjtanjin/building-a-faq-bot-a-react-chatbotify-guide-part-3-2548)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Como lidar com performance em aplicações ReactJS](https://dev.to/brunoocrv/como-lidar-com-performance-em-aplicacoes-reactjs-419h)
 - [Dev.to/JS] [Setup API Gateway](https://dev.to/akbarnafisa/setup-api-gateway-oci)
 - [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
-- [Dev.to/JS] [How Much JavaScript is Enough to Learn ReactJS?](https://dev.to/canhamzacode/how-much-javascript-is-enough-to-learn-reactjs-24ef)
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
-- [Dev.to/JS] [12 Free and Fun API for your next Project](https://dev.to/mukeshkuiry/12-free-and-fun-api-for-your-next-project-5eem)
 - [Lifehacker] [Between Midjourney and DALL-E 3, Which AI Image Generator Is Best](https://lifehacker.com/tech/dalle-versus-midjourney-which-is-better)
 - [Lifehacker] [The Best Deals on Laptops That Will Arrive by Christmas](https://lifehacker.com/tech/best-deals-laptops-that-will-arrive-by-christmas)
 - [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/tech/microsoft-office-windows-11-pro-sale)
