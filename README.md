@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Frameworks - Heading into 2024](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2024-i3l)
+- [Dev.to/JS] [⚡ Levenshtein Distance: A Powerful Algorithm for String Comparison ⚡](https://dev.to/best_codes/understanding-levenshtein-distance-a-powerful-algorithm-for-string-comparison-4p4a)
 - [Dev.to/JS] [Manage Your Cypress Logs Like a Pro](https://dev.to/elaichenkov/manage-your-cypress-logs-like-a-pro-23dc)
+- [Lifehacker] [How to Replace the Interior Light Bulbs in Your Car](https://lifehacker.com/travel/how-to-replace-interior-light-bulbs-in-your-car)
 - [Dev.to/JS] [Light and Dark CodePen Challenge - Star Wars](https://dev.to/jakekbuckner/light-and-dark-star-wars-1a7p)
 - [Dev.to/JS] [Uncovering the Benefits: How Regular Gutter Cleaning Saves Money in Pinole](https://dev.to/umar223/uncovering-the-benefits-how-regular-gutter-cleaning-saves-money-in-pinole-2cbg)
 - [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons for $150 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
@@ -47,9 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Publisher Rocket](https://dev.to/rankmarkett/publisher-rocket-409f)
 - [Dev.to/JS] [🚀 Learn JavaScript with Me! 💻✨](https://dev.to/ukana/learn-javascript-with-me-5275)
 - [Lifehacker] [You Can Get the Apple Watch Series 9 for the Lowest Price Yet &lpar;and in Time for Christmas&rpar;](https://lifehacker.com/tech/apple-watch-series-9-sale)
-- [Dev.to/JS] [OPENSOURCE &amp; DEVREL](https://dev.to/devgancode/opensource-devrel-2glh)
 - [Lifehacker] [You Can Now Hide Your ChatGPT Chats &lpar;Without Deleting Them&rpar;](https://lifehacker.com/tech/how-to-hide-chatgpt-chats-without-deleting-them)
-- [Dev.to/JS] [Kuronime - Nonton Streaming Anime Subtitle Indonesia](https://dev.to/kuronime/kuronime-nonton-streaming-anime-subtitle-indonesia-7mj)
 - [Lifehacker] [Follow This End-of-Year Financial Checklist Before 2024](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
 - [Lifehacker] [The Dos and Don&#39;ts of Public Foreplay](https://lifehacker.com/dos-and-donts-of-public-foreplay)
 - [Lifehacker] [You Can Get Your Phone to Read Webpages to You](https://lifehacker.com/tech/how-to-get-phone-to-read-out-loud)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/tech/microsoft-office-windows-11-pro-sale)
 - [Lifehacker] [Here’s How Much You Can Actually Make by Taking Online Surveys](https://lifehacker.com/money/how-much-do-online-surveys-actually-pay)
 - [Lifehacker] [Do These Things to Maximize Your Employee Benefits Before the New Year](https://lifehacker.com/work/how-to-maximize-employee-benefits-before-the-new-year)
-- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in January 2024](https://lifehacker.com/entertainment/coming-to-paramount-with-showtime-january-2024)
-- [Lifehacker] [You Can Get Ivacy VPN for $40 Right Now](https://lifehacker.com/tech/ivacy-vpn-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in January 2024](https://lifehacker.com/entertainment/coming-to-paramount-with-showtime-january-2024)<!-- TECH-POSTS:END -->
 
 ---
 
