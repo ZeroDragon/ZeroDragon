@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quirks with &#39;value&#39; attrib/prop on &#39;input&#39; element/object](https://dev.to/itsmohamedyahia/quirks-with-value-attributeproperty-on-input-elementobject-3egm)
+- [Dev.to/JS] [Metal Works Romford: Experts in MS Metal Fabrication](https://dev.to/pemiji9731/metal-works-romford-experts-in-ms-metal-fabrication-4ioa)
+- [Dev.to/JS] [What will happen to the full-stack framework in the future?](https://dev.to/zenstack/what-will-happen-to-the-full-stack-framework-in-the-future-4c00)
+- [Dev.to/JS] [Ambanibook: Unlocking the Future of Cricket Betting.](https://dev.to/ravanseo1/ambanibook-unlocking-the-future-of-cricket-betting-1h90)
 - [Dev.to/JS] [Handle Errors and Fallbacks in Playwright](https://dev.to/mikestopcontinues/handle-errors-and-fallbacks-in-playwright-4gbf)
 - [Dev.to/JS] [Choosing Excellence: Unveiling Escondido&#39;s Best Roofing Companies](https://dev.to/acheron05/choosing-excellence-unveiling-escondidos-best-roofing-companies-2a0j)
 - [Dev.to/JS] [Taxi From Bristol Airport: A Convenient and Reliable Transportation Option](https://dev.to/bevala1665/taxi-from-bristol-airport-a-convenient-and-reliable-transportation-option-645)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Effortless Function as a Service: A Simple Guide to Implementing it with Query](https://dev.to/gc-victor/effortless-function-as-a-service-a-simple-guide-to-implementing-it-with-query-3ha0)
 - [Dev.to/JS] [Super Mario](https://dev.to/dancoral/super-mario-olp)
 - [Dev.to/JS] [Javascript Functions Quick References](https://dev.to/hoanganhlam/javascript-functions-quick-references-2a1a)
-- [Dev.to/JS] [JavaScript Requests quick reference](https://dev.to/hoanganhlam/javascript-requests-quick-reference-2496)
-- [Dev.to/JS] [FitSpresso - &lpar;Works Or Hoax&rpar; Check Here All Improtant Details!Healthy life](https://dev.to/nworahiwetelu/fitspresso-works-or-hoax-check-here-all-improtant-detailshealthy-life-1l2c)
-- [Dev.to/JS] [Essentials of TypeScript Classes](https://dev.to/refine/essentials-of-typescript-classes-4mi8)
-- [Dev.to/JS] [React JS Jobs, Roles, Salary and More](https://dev.to/ishitajuneja/react-js-jobs-roles-salary-and-more-4ged)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-21-2023)
 - [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
