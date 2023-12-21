@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Fresh Storyblok SDK releases, plus new Canada and Australia regions 🌍](https://dev.to/storyblok/fresh-storyblok-sdk-releases-plus-new-canada-and-australia-regions-f3g)
+- [Dev.to/JS] [asFunction: JavaScript Functional Programming](https://dev.to/oculus42/asfunction-javascript-functional-programming-i9m)
+- [Dev.to/JS] [Get Strap-Ons Right Away to Achieve Your Goals.](https://dev.to/secretsinners/get-strap-ons-right-away-to-achieve-your-goals-58d4)
 - [Dev.to/JS] [Quirks with &#39;value&#39; attrib/prop on &#39;input&#39; element/object](https://dev.to/itsmohamedyahia/quirks-with-value-attributeproperty-on-input-elementobject-3egm)
 - [Dev.to/JS] [Metal Works Romford: Experts in MS Metal Fabrication](https://dev.to/pemiji9731/metal-works-romford-experts-in-ms-metal-fabrication-4ioa)
 - [Dev.to/JS] [What will happen to the full-stack framework in the future?](https://dev.to/zenstack/what-will-happen-to-the-full-stack-framework-in-the-future-4c00)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Taxi From Bristol Airport: A Convenient and Reliable Transportation Option](https://dev.to/bevala1665/taxi-from-bristol-airport-a-convenient-and-reliable-transportation-option-645)
 - [Dev.to/JS] [Unlocking the Magic of JavaScript: A Beginner&#39;s Guide to Hello World Alerts](https://dev.to/aniketsaini65/unlocking-the-magic-of-javascript-a-beginners-guide-to-hello-world-alerts-4afm)
 - [Dev.to/JS] [📚 8 repos used by the top 1% of React devs 🏆](https://dev.to/quine/8-repos-used-by-the-top-1-of-react-devs-2758)
-- [Dev.to/JS] [Effortless Function as a Service: A Simple Guide to Implementing it with Query](https://dev.to/gc-victor/effortless-function-as-a-service-a-simple-guide-to-implementing-it-with-query-3ha0)
-- [Dev.to/JS] [Super Mario](https://dev.to/dancoral/super-mario-olp)
-- [Dev.to/JS] [Javascript Functions Quick References](https://dev.to/hoanganhlam/javascript-functions-quick-references-2a1a)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-21-2023)
 - [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
