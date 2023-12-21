@@ -26,9 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Manage Your Cypress Logs Like a Pro](https://dev.to/elaichenkov/manage-your-cypress-logs-like-a-pro-23dc)
+- [Dev.to/JS] [Light and Dark CodePen Challenge - Star Wars](https://dev.to/jakekbuckner/light-and-dark-star-wars-1a7p)
+- [Dev.to/JS] [Uncovering the Benefits: How Regular Gutter Cleaning Saves Money in Pinole](https://dev.to/umar223/uncovering-the-benefits-how-regular-gutter-cleaning-saves-money-in-pinole-2cbg)
+- [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons for $150 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
 - [Dev.to/JS] [JavaScriptmas 2023 - Week 3](https://dev.to/michaellarocca/javascriptmas-2023-week-3-1fgn)
+- [Lifehacker] [Don&#39;t Fall for This Instagram Copyright Infringement Scam](https://lifehacker.com/tech/dont-fall-for-this-instagram-copyright-infringement-scam)
+- [Lifehacker] [How the ‘Wealth-Happiness Nexus’ Could Change the Way You Think About Money](https://lifehacker.com/money/what-is-the-wealth-happiness-nexus)
+- [Lifehacker] [Eight Popular ‘Christmas Songs’ That Aren’t Actually Christmas Songs](https://lifehacker.com/entertainment/popular-christmas-songs-that-arent-actually-christmas-songs)
+- [Lifehacker] [Why Working Too Much Might Actually Make You Less Productive](https://lifehacker.com/work/working-too-much-might-make-you-less-productive)
 - [Dev.to/JS] [Applicative-order vs. normal-order evaluation](https://dev.to/rivea0/applicative-order-vs-normal-order-evaluation-3c3d)
+- [Lifehacker] [The Best Gifts for the Person Who Has Everything](https://lifehacker.com/entertainment/gifts-for-the-person-who-has-everything)
 - [Dev.to/JS] [Open The Modal on click of browser&#39;s back button in react &lpar;with native javascript&rpar;](https://dev.to/roshan_ican/open-the-modal-on-click-of-browsers-back-button-in-react-with-native-javascript-4i55)
+- [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
 - [Lifehacker] [The Easiest Way to Figure Out Which Part of Your Car Is Leaking](https://lifehacker.com/travel/which-part-of-car-is-leaking)
 - [Lifehacker] [Update Chrome ASAP &lpar;Even If You Don’t Use It&rpar;](https://lifehacker.com/tech/why-you-need-to-update-chrome-asap)
 - [Lifehacker] [What You Should Keep in Your Glove Compartment, According to a Mechanic](https://lifehacker.com/travel/what-to-keep-in-your-glove-compartment-according-to-a-mechanic)
@@ -40,11 +50,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [OPENSOURCE &amp; DEVREL](https://dev.to/devgancode/opensource-devrel-2glh)
 - [Lifehacker] [You Can Now Hide Your ChatGPT Chats &lpar;Without Deleting Them&rpar;](https://lifehacker.com/tech/how-to-hide-chatgpt-chats-without-deleting-them)
 - [Dev.to/JS] [Kuronime - Nonton Streaming Anime Subtitle Indonesia](https://dev.to/kuronime/kuronime-nonton-streaming-anime-subtitle-indonesia-7mj)
-- [Dev.to/JS] [Good profiles for study](https://dev.to/x4m1t0/good-profiles-for-study-2aa)
-- [Dev.to/JS] [Need help in nodejs!](https://dev.to/x4m1t0/need-help-in-nodejs-1ckp)
 - [Lifehacker] [Follow This End-of-Year Financial Checklist Before 2024](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
 - [Lifehacker] [The Dos and Don&#39;ts of Public Foreplay](https://lifehacker.com/dos-and-donts-of-public-foreplay)
-- [Dev.to/JS] [Who’s That Pokémon? | JavaScript Project](https://dev.to/codingcss/whos-that-pokemon-javascript-project-45m5)
 - [Lifehacker] [You Can Get Your Phone to Read Webpages to You](https://lifehacker.com/tech/how-to-get-phone-to-read-out-loud)
 - [Lifehacker] [What People Are Getting Wrong This Week: Disney Conspiracy Theories](https://lifehacker.com/entertainment/disney-conspiracy-theories-real-and-fake)
 - [Lifehacker] [How to Set up Your First Google Home Automation](https://lifehacker.com/tech/how-to-set-up-google-home-automations)
@@ -58,14 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How Much You Can Actually Make by Taking Online Surveys](https://lifehacker.com/money/how-much-do-online-surveys-actually-pay)
 - [Lifehacker] [Do These Things to Maximize Your Employee Benefits Before the New Year](https://lifehacker.com/work/how-to-maximize-employee-benefits-before-the-new-year)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in January 2024](https://lifehacker.com/entertainment/coming-to-paramount-with-showtime-january-2024)
-- [Lifehacker] [You Can Get Ivacy VPN for $40 Right Now](https://lifehacker.com/tech/ivacy-vpn-sale)
-- [Lifehacker] [Use This Framework to Give Your Kid Enough Downtime](https://lifehacker.com/family/more-downtime-for-your-kid)
-- [Lifehacker] [The Best Tech to Help You Travel Comfortably](https://lifehacker.com/travel/the-best-tech-to-travel-comfortably)
-- [Lifehacker] [How to Figure Out How Many Calories You Should Burn Each Day](https://lifehacker.com/health/how-many-calories-should-you-burn-each-day)
-- [Lifehacker] [Make This Easy Ham and Cheese Monkey Bread on Christmas Breakfast](https://lifehacker.com/food-drink/easy-ham-and-cheese-monkey-bread-recipe)
-- [Lifehacker] [20 New and Returning TV Shows You Should Add to Your 2024 Watchlist](https://lifehacker.com/entertainment/best-new-and-returning-tv-shows-2024)
-- [Lifehacker] [How to Use Best Buy’s ‘Drops’ Feature to Snag Top Tech Deals &lpar;and What’s On Sale Today&rpar;](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)
-- [Lifehacker] [You Can Run a Generative AI Locally on Your Computer](https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Ivacy VPN for $40 Right Now](https://lifehacker.com/tech/ivacy-vpn-sale)<!-- TECH-POSTS:END -->
 
 ---
 
