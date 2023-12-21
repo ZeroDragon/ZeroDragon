@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make Storybook 2-x faster](https://dev.to/storybookjs/how-to-make-storybook-2-x-faster-1dem)
+- [Dev.to/JS] [123B Li - Trang Chính Thức , Khuyến Mãi VIP](https://dev.to/123b_chinhthuc/123b-li-trang-chinh-thuc-khuyen-mai-vip-53en)
 - [Dev.to/JS] [🚀 Fresh Storyblok SDK releases, plus new Canada and Australia regions 🌍](https://dev.to/storyblok/fresh-storyblok-sdk-releases-plus-new-canada-and-australia-regions-f3g)
 - [Dev.to/JS] [asFunction: JavaScript Functional Programming](https://dev.to/oculus42/asfunction-javascript-functional-programming-i9m)
+- [Lifehacker] [What People are Getting Wrong this Week: Disney Conspiracy Theories](https://lifehacker.com/entertainment/disney-conspiracy-theories-real-and-fake)
 - [Dev.to/JS] [Get Strap-Ons Right Away to Achieve Your Goals.](https://dev.to/secretsinners/get-strap-ons-right-away-to-achieve-your-goals-58d4)
+- [Lifehacker] [How to Set up Your First Google Home Automation](https://lifehacker.com/tech/how-to-set-up-google-home-automations)
 - [Dev.to/JS] [Quirks with &#39;value&#39; attrib/prop on &#39;input&#39; element/object](https://dev.to/itsmohamedyahia/quirks-with-value-attributeproperty-on-input-elementobject-3egm)
 - [Dev.to/JS] [Metal Works Romford: Experts in MS Metal Fabrication](https://dev.to/pemiji9731/metal-works-romford-experts-in-ms-metal-fabrication-4ioa)
 - [Dev.to/JS] [What will happen to the full-stack framework in the future?](https://dev.to/zenstack/what-will-happen-to-the-full-stack-framework-in-the-future-4c00)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handle Errors and Fallbacks in Playwright](https://dev.to/mikestopcontinues/handle-errors-and-fallbacks-in-playwright-4gbf)
 - [Dev.to/JS] [Choosing Excellence: Unveiling Escondido&#39;s Best Roofing Companies](https://dev.to/acheron05/choosing-excellence-unveiling-escondidos-best-roofing-companies-2a0j)
 - [Dev.to/JS] [Taxi From Bristol Airport: A Convenient and Reliable Transportation Option](https://dev.to/bevala1665/taxi-from-bristol-airport-a-convenient-and-reliable-transportation-option-645)
-- [Dev.to/JS] [Unlocking the Magic of JavaScript: A Beginner&#39;s Guide to Hello World Alerts](https://dev.to/aniketsaini65/unlocking-the-magic-of-javascript-a-beginners-guide-to-hello-world-alerts-4afm)
-- [Dev.to/JS] [📚 8 repos used by the top 1% of React devs 🏆](https://dev.to/quine/8-repos-used-by-the-top-1-of-react-devs-2758)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-21-2023)
 - [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Important Things to Consider Before Buying a Used Car](https://lifehacker.com/travel/tips-for-used-car-buying)
 - [Lifehacker] [Avoid These End-of-year Financial Mistakes](https://lifehacker.com/money/avoid-these-end-of-year-financial-mistakes)
 - [Lifehacker] [My Three Favorite Smartphones of 2023](https://lifehacker.com/tech/the-best-smartphones-of-2023)
-- [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-20-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 20, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-20-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get 1TB of Koofr Cloud Storage for $120 Right Now](https://lifehacker.com/tech/koofr-cloud-storage)<!-- TECH-POSTS:END -->
 
 ---
 
