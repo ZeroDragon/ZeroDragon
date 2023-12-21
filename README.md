@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When to use Mock API?](https://dev.to/sanjaykhanssk/when-to-use-mock-api-37n1)
+- [Dev.to/JS] [tesnet areon network](https://dev.to/exchange987/tesnet-areon-network-57na)
+- [Dev.to/JS] [Statische Website erstellen](https://dev.to/elisedev/statische-website-erstellen-3mkl)
 - [Dev.to/JS] [What are the characteristics of Discrete Semiconductor Products?](https://dev.to/fatimaanna/what-are-the-characteristics-of-discrete-semiconductor-products-d41)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-21-2023)
@@ -46,9 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My criticism about the new Observables API](https://dev.to/artalar/my-criticism-about-the-new-observables-api-37d5)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in January 2024](https://lifehacker.com/entertainment/coming-to-paramount-with-showtime-january-2024)
 - [Lifehacker] [You Can Get Ivacy VPN for $40 Right Now](https://lifehacker.com/tech/ivacy-vpn-sale)
-- [Dev.to/JS] [How to Keep a History of MQTT Data With Node.js](https://dev.to/reductstore/how-to-keep-a-history-of-mqtt-data-with-nodejs-5044)
-- [Dev.to/JS] [Not So Consistent!](https://dev.to/pranavmadhavan1/not-so-consistent-71g)
-- [Dev.to/JS] [Choosing the Right Backend Language: Python vs. Node.js 🚀](https://dev.to/abneribeiro/choosing-the-right-backend-language-python-vs-nodejs-2pkf)
 - [Lifehacker] [Use This Framework to Give Your Kid Enough Downtime](https://lifehacker.com/family/more-downtime-for-your-kid)
 - [Lifehacker] [The Best Tech to Help You Travel Comfortably](https://lifehacker.com/travel/the-best-tech-to-travel-comfortably)
 - [Lifehacker] [How to Figure Out How Many Calories You Should Burn Each Day](https://lifehacker.com/health/how-many-calories-should-you-burn-each-day)
