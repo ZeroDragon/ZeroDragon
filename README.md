@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Applicative-order vs. normal-order evaluation](https://dev.to/rivea0/applicative-order-vs-normal-order-evaluation-3c3d)
+- [Dev.to/JS] [Open The Modal on click of browser&#39;s back button in react &lpar;with native javascript&rpar;](https://dev.to/roshan_ican/open-the-modal-on-click-of-browsers-back-button-in-react-with-native-javascript-4i55)
+- [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
+- [Lifehacker] [The Easiest Way to Figure Out Which Part of Your Car Is Leaking](https://lifehacker.com/travel/which-part-of-car-is-leaking)
 - [Lifehacker] [Update Chrome ASAP &lpar;Even If You Don’t Use It&rpar;](https://lifehacker.com/tech/why-you-need-to-update-chrome-asap)
 - [Lifehacker] [What You Should Keep in Your Glove Compartment, According to a Mechanic](https://lifehacker.com/travel/what-to-keep-in-your-glove-compartment-according-to-a-mechanic)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/dtuhiusbfiomoys/buy-google-voice-accounts-3mj0)
@@ -42,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Dos and Don&#39;ts of Public Foreplay](https://lifehacker.com/dos-and-donts-of-public-foreplay)
 - [Dev.to/JS] [Who’s That Pokémon? | JavaScript Project](https://dev.to/codingcss/whos-that-pokemon-javascript-project-45m5)
 - [Dev.to/JS] [How to make Storybook 2-4x faster](https://dev.to/storybookjs/how-to-make-storybook-2-x-faster-1dem)
-- [Dev.to/JS] [123B Li - Trang Chính Thức , Khuyến Mãi VIP](https://dev.to/123b_chinhthuc/123b-li-trang-chinh-thuc-khuyen-mai-vip-53en)
 - [Lifehacker] [You Can Get Your Phone to Read Webpages to You](https://lifehacker.com/tech/how-to-get-phone-to-read-out-loud)
-- [Dev.to/JS] [🚀 Fresh Storyblok SDK releases, plus new Canada and Australia regions 🌍](https://dev.to/storyblok/fresh-storyblok-sdk-releases-plus-new-canada-and-australia-regions-f3g)
 - [Lifehacker] [What People Are Getting Wrong This Week: Disney Conspiracy Theories](https://lifehacker.com/entertainment/disney-conspiracy-theories-real-and-fake)
 - [Lifehacker] [How to Set up Your First Google Home Automation](https://lifehacker.com/tech/how-to-set-up-google-home-automations)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Figure Out How Many Calories You Should Burn Each Day](https://lifehacker.com/health/how-many-calories-should-you-burn-each-day)
 - [Lifehacker] [Make This Easy Ham and Cheese Monkey Bread on Christmas Breakfast](https://lifehacker.com/food-drink/easy-ham-and-cheese-monkey-bread-recipe)
 - [Lifehacker] [20 New and Returning TV Shows You Should Add to Your 2024 Watchlist](https://lifehacker.com/entertainment/best-new-and-returning-tv-shows-2024)
-- [Lifehacker] [How to Use Best Buy’s ‘Drops’ Feature to Snag Top Tech Deals &lpar;and What’s On Sale Today&rpar;](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)
-- [Lifehacker] [You Can Run a Generative AI Locally on Your Computer](https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer)
-- [Lifehacker] [How to Choose Between the Ring and Blink Video Doorbell](https://lifehacker.com/tech/ring-and-blink-doorbell-comparison)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Use Best Buy’s ‘Drops’ Feature to Snag Top Tech Deals &lpar;and What’s On Sale Today&rpar;](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)<!-- TECH-POSTS:END -->
 
 ---
 
