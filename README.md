@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [nhà mái thái 4 phòng ngủ](https://dev.to/maunhadepp1/nha-mai-thai-4-phong-ngu-35lh)
+- [Lifehacker] [The Four Types of Bad Bosses &lpar;and How to Deal With Each One&rpar;](https://lifehacker.com/four-types-of-bad-bosses)
+- [Dev.to/JS] [Hello](https://dev.to/tuuna/hello-gpb)
+- [Lifehacker] [How to Actually Pronounce &#39;Worcestershire,&#39; &#39;Açaí,&#39; and Other Commonly Mispronounced Words](https://lifehacker.com/how-to-pronounce-worcestershire)
+- [Lifehacker] [Declare &#39;Email Amnesty&#39; to Achieve Inbox Zero](https://lifehacker.com/achieve-inbox-zero)
+- [Lifehacker] [How Overwhelmed Parents Can &lpar;and Should&rpar; Ask for Help](https://lifehacker.com/how-overwhelmed-parents-can-ask-for-help)
 - [Dev.to/JS] [Refactor Playwright Locators Like a Boss](https://dev.to/mikestopcontinues/refactor-playwright-locators-like-a-boss-1d1f)
 - [Dev.to/JS] [Quickbooks Payroll Helpline ☎️&lpar; 1-844♪397♪7462 &rpar;Support Number](https://dev.to/amit92/quickbooks-payroll-helpline-1-8443977462-support-number-5672)
 - [Dev.to/JS] [Quickbooks®Desktop||☎️+1&lpar;844 397-.7462&rpar;Help Support](https://dev.to/amit92/quickbooksrdesktop1844397-7462help-support-201b)
@@ -36,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Esaver Watt Reviews - &lpar;Legit or Scam&rpar; The Dark Side of EsaverWatt Energy Saver Device And Consumer Warnings?](https://dev.to/dsanbvpra/esaver-watt-reviews-legit-or-scam-the-dark-side-of-esaverwatt-energy-saver-device-and-consumer-warnings-cn)
 - [Dev.to/JS] [Using JavaScript Packages without TypeScript Declarations in TypeScript](https://dev.to/avishka98/using-javascript-packages-without-typescript-declarations-in-typescript-3mhg)
 - [Dev.to/JS] [Learn to Integrate Froala into Your NodeJS Application with Express Framework](https://dev.to/ideradevtools/learn-to-integrate-froala-into-your-nodejs-application-with-express-framework-3lb6)
-- [Dev.to/JS] [I18n in Web Apps Series Part-1](https://dev.to/rohtashsethi/i18n-in-web-apps-series-part-1-4e4b)
-- [Dev.to/JS] [Svelte journey | Part 1](https://dev.to/chillyhill/svelte-journey-part-1-38pa)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
 - [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Your Phone to Read Webpages to You](https://lifehacker.com/tech/how-to-get-phone-to-read-out-loud)
 - [Lifehacker] [What People Are Getting Wrong This Week: Disney Conspiracy Theories](https://lifehacker.com/entertainment/disney-conspiracy-theories-real-and-fake)
 - [Lifehacker] [How to Set up Your First Google Home Automation](https://lifehacker.com/tech/how-to-set-up-google-home-automations)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-21-2023)
-- [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
-- [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
-- [Lifehacker] [Between Midjourney and DALL-E 3, Which AI Image Generator Is Best](https://lifehacker.com/tech/dalle-versus-midjourney-which-is-better)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)<!-- TECH-POSTS:END -->
 
 ---
 
