@@ -27,9 +27,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [All the new javascript array methods you missed in 2023](https://dev.to/kalashin1/all-the-new-javascript-array-methods-you-missed-in-2023-484g)
+- [Lifehacker] [Everything You Need to Know Before Buying a Ninja CREAMi](https://lifehacker.com/everything-to-know-before-buying-a-ninja-creami)
+- [Lifehacker] [How to Recognize the Signs of Childhood OCD &lpar;and Get Help&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-childhood-ocd)
 - [Dev.to/JS] [Fixing Fetch Waterfalls in React](https://dev.to/nikolovlazar/fixing-fetch-waterfalls-in-react-58g5)
 - [Dev.to/JS] [Svelte journey | Part 2](https://dev.to/chillyhill/svelte-journey-part-2-4kb8)
+- [Lifehacker] [You Should Add a Raw Egg to Your Grits](https://lifehacker.com/add-a-raw-egg-to-grits)
 - [Dev.to/JS] [PokeData App](https://dev.to/turnmas35/pokedata-app-3flg)
+- [Lifehacker] [The Best Ways to Teach Your Kid to Tell Time](https://lifehacker.com/how-to-teach-your-kid-to-tell-time)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/showenejerolde/buy-google-5-star-reviews-4917)
 - [Dev.to/JS] [Svelte : Toji Fushiguro of Javascript Frameworks.](https://dev.to/kiritocode1/svelte-toji-fushiguro-of-javascript-frameworks-99k)
 - [Dev.to/JS] [Building A Crousal Maker Tool with NextJS ⭐](https://dev.to/random_ti/building-a-crousal-maker-tool-with-nextjs-4pd0)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How the ‘Wealth-Happiness Nexus’ Could Change the Way You Think About Money](https://lifehacker.com/money/what-is-the-wealth-happiness-nexus)
 - [Lifehacker] [Eight Popular ‘Christmas Songs’ That Aren’t Actually Christmas Songs](https://lifehacker.com/entertainment/popular-christmas-songs-that-arent-actually-christmas-songs)
 - [Lifehacker] [Why Working Too Much Might Actually Make You Less Productive](https://lifehacker.com/work/working-too-much-might-make-you-less-productive)
-- [Lifehacker] [The Best Gifts for the Person Who Has Everything](https://lifehacker.com/entertainment/gifts-for-the-person-who-has-everything)
-- [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
-- [Lifehacker] [The Easiest Way to Figure Out Which Part of Your Car Is Leaking](https://lifehacker.com/travel/which-part-of-car-is-leaking)
-- [Lifehacker] [Update Chrome ASAP &lpar;Even If You Don’t Use It&rpar;](https://lifehacker.com/tech/why-you-need-to-update-chrome-asap)
-- [Lifehacker] [What You Should Keep in Your Glove Compartment, According to a Mechanic](https://lifehacker.com/travel/what-to-keep-in-your-glove-compartment-according-to-a-mechanic)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Gifts for the Person Who Has Everything](https://lifehacker.com/entertainment/gifts-for-the-person-who-has-everything)<!-- TECH-POSTS:END -->
 
 ---
 
