@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React js: Avoid Needless Rebuilds](https://dev.to/kwesikwaa/react-js-avoid-needless-rebuilds-5b0n)
 - [Dev.to/JS] [Provide a preview of the suggestion as users type in a text area](https://dev.to/phuocng/provide-a-preview-of-the-suggestion-as-users-type-in-a-text-area-18bk)
 - [Dev.to/JS] [Understanding Recursion in React](https://dev.to/bodhi132/understanding-recursion-in-react-2fll)
 - [Dev.to/JS] [A journey into web development](https://dev.to/decavalcantes/a-journey-into-web-development-1do8)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How the ‘Wealth-Happiness Nexus’ Could Change the Way You Think About Money](https://lifehacker.com/money/what-is-the-wealth-happiness-nexus)
 - [Lifehacker] [Eight Popular ‘Christmas Songs’ That Aren’t Actually Christmas Songs](https://lifehacker.com/entertainment/popular-christmas-songs-that-arent-actually-christmas-songs)
 - [Lifehacker] [Why Working Too Much Might Actually Make You Less Productive](https://lifehacker.com/work/working-too-much-might-make-you-less-productive)
-- [Dev.to/JS] [Applicative-order vs. normal-order evaluation](https://dev.to/rivea0/applicative-order-vs-normal-order-evaluation-3c3d)
 - [Lifehacker] [The Best Gifts for the Person Who Has Everything](https://lifehacker.com/entertainment/gifts-for-the-person-who-has-everything)
 - [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
 - [Lifehacker] [The Easiest Way to Figure Out Which Part of Your Car Is Leaking](https://lifehacker.com/travel/which-part-of-car-is-leaking)
