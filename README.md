@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quickbooks Payroll Helpline ☎️&lpar; 1-844♪397♪7462 &rpar;Support Number](https://dev.to/amit92/quickbooks-payroll-helpline-1-8443977462-support-number-5672)
+- [Dev.to/JS] [Quickbooks®Desktop||☎️+1&lpar;844 397-.7462&rpar;Help Support](https://dev.to/amit92/quickbooksrdesktop1844397-7462help-support-201b)
+- [Dev.to/JS] [Using ChatGPT with Your Own Data using LangChain and Supabase](https://dev.to/surajondev/using-chatgpt-with-your-own-data-using-langchain-and-supabase-4k6c)
 - [Dev.to/JS] [Javascript Functions Explained to a Five-Year-Old](https://dev.to/mojodev/javascript-functions-explained-to-a-five-year-old-h3f)
 - [Dev.to/JS] [Rebirth CBD Gummies [Latest Update 2023] &lpar;Honest Review&rpar;](https://dev.to/rebirthcbdgummi/rebirth-cbd-gummies-latest-update-2023-honest-review-5b7k)
 - [Dev.to/JS] [TypeScript vs JavaScript - A Detailed Comparison](https://dev.to/refine/typescript-vs-javascript-a-detailed-comparison-479f)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I18n in Web Apps Series Part-1](https://dev.to/rohtashsethi/i18n-in-web-apps-series-part-1-4e4b)
 - [Dev.to/JS] [Svelte journey | Part 1](https://dev.to/chillyhill/svelte-journey-part-1-38pa)
 - [Dev.to/JS] [Sorting in Java - A Real Story](https://dev.to/codingmadeeasy/sorting-in-java-a-real-story-184d)
-- [Dev.to/JS] [Realize mobile interface simulation function on PC](https://dev.to/ouyangzetao/realize-mobile-interface-simulation-function-on-pc-oj3)
-- [Dev.to/JS] [Playwright &amp; Prometheus. Send your metrics in real-time](https://dev.to/vitalicset/playwright-prometheus-send-your-metrics-in-real-time-1aej)
-- [Dev.to/JS] [The Art of Interactive Web Design: Changing Background Color with JavaScript Magic](https://dev.to/aniketsaini65/the-art-of-interactive-web-design-changing-background-color-with-javascript-magic-5c8h)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
 - [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
