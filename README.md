@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All the new javascript array methods you missed in 2023](https://dev.to/kalashin1/all-the-new-javascript-array-methods-you-missed-in-2023-484g)
 - [Dev.to/JS] [Fixing Fetch Waterfalls in React](https://dev.to/nikolovlazar/fixing-fetch-waterfalls-in-react-58g5)
 - [Dev.to/JS] [Svelte journey | Part 2](https://dev.to/chillyhill/svelte-journey-part-2-4kb8)
 - [Dev.to/JS] [PokeData App](https://dev.to/turnmas35/pokedata-app-3flg)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Parsing AWS AppSync Responses, Elm GraphQL Libraries, and Only Doing Front-End](https://dev.to/jesterxl/parsing-aws-appsync-responses-elm-graphql-libraries-and-only-doing-front-end-4di4)
 - [Dev.to/JS] [Get Paid To Complete Online Jobs and Easy Tasks No Experience!](https://dev.to/ajayraj/get-paid-to-complete-online-jobs-and-easy-tasks-no-experience-10b0)
 - [Dev.to/JS] [133 Next.js Boilerplates in 2023](https://dev.to/johnrushx/133-nextjs-boilerplates-in-2023-3p2e)
-- [Dev.to/JS] [Solution for &#39;await is only valid in async functions&#39;](https://dev.to/mailtodanish/solution-for-await-is-only-valid-in-async-functions-1coj)
 - [Lifehacker] [Is Choking During Sex Ever Really Safe?](https://lifehacker.com/is-choking-during-sex-safe)
 - [Lifehacker] [7 Home Improvement Projects You Can Source From the Dollar Store](https://lifehacker.com/home-improvement-projects-you-can-source-from-the-dollar-store)
 - [Lifehacker] [Why Selling Your Home to an iBuyer Is Almost Always a Bad Idea](https://lifehacker.com/selling-your-home-to-an-ibuyer-is-almost-always-a-bad-idea)
