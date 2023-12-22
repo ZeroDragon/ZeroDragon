@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A journey into web development](https://dev.to/decavalcantes/a-journey-into-web-development-1do8)
 - [Dev.to/JS] [I have taken advantage of Excel&#39;s functionality to develop a CLI tool to better manage data](https://dev.to/limingcan562/i-have-taken-advantage-of-excels-functionality-to-develop-a-cli-tool-to-better-manage-data-44o6)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
 - [Dev.to/JS] [Alex Camman &lpar;Tom Ford&rpar;](https://dev.to/tomfordcode/alex-camman-tom-ford-4418)
 - [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
 - [Dev.to/JS] [JavaScript Frameworks - Heading into 2024](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2024-i3l)
@@ -51,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Update Chrome ASAP &lpar;Even If You Don’t Use It&rpar;](https://lifehacker.com/tech/why-you-need-to-update-chrome-asap)
 - [Lifehacker] [What You Should Keep in Your Glove Compartment, According to a Mechanic](https://lifehacker.com/travel/what-to-keep-in-your-glove-compartment-according-to-a-mechanic)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/dtuhiusbfiomoys/buy-google-voice-accounts-3mj0)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/dtuhiusbfiomoys/buy-google-5-star-reviews-g63)
 - [Lifehacker] [You Can Get the Apple Watch Series 9 for the Lowest Price Yet &lpar;and in Time for Christmas&rpar;](https://lifehacker.com/tech/apple-watch-series-9-sale)
 - [Lifehacker] [You Can Now Hide Your ChatGPT Chats &lpar;Without Deleting Them&rpar;](https://lifehacker.com/tech/how-to-hide-chatgpt-chats-without-deleting-them)
 - [Lifehacker] [Follow This End-of-Year Financial Checklist Before 2024](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-21-2023)
 - [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
-- [Lifehacker] [Between Midjourney and DALL-E 3, Which AI Image Generator Is Best](https://lifehacker.com/tech/dalle-versus-midjourney-which-is-better)
-- [Lifehacker] [The Best Deals on Laptops That Will Arrive by Christmas](https://lifehacker.com/tech/best-deals-laptops-that-will-arrive-by-christmas)
-- [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/tech/microsoft-office-windows-11-pro-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Between Midjourney and DALL-E 3, Which AI Image Generator Is Best](https://lifehacker.com/tech/dalle-versus-midjourney-which-is-better)<!-- TECH-POSTS:END -->
 
 ---
 
