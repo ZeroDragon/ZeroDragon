@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/copak83682/buy-verified-cash-app-account-1pfa)
 - [Dev.to/JS] [React js: Avoid Needless Rebuilds](https://dev.to/kwesikwaa/react-js-avoid-needless-rebuilds-5b0n)
 - [Dev.to/JS] [Provide a preview of the suggestion as users type in a text area](https://dev.to/phuocng/provide-a-preview-of-the-suggestion-as-users-type-in-a-text-area-18bk)
 - [Dev.to/JS] [Understanding Recursion in React](https://dev.to/bodhi132/understanding-recursion-in-react-2fll)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Light and Dark CodePen Challenge - Star Wars](https://dev.to/jakekbuckner/light-and-dark-star-wars-1a7p)
 - [Dev.to/JS] [Uncovering the Benefits: How Regular Gutter Cleaning Saves Money in Pinole](https://dev.to/umar223/uncovering-the-benefits-how-regular-gutter-cleaning-saves-money-in-pinole-2cbg)
 - [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons for $150 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
-- [Dev.to/JS] [JavaScriptmas 2023 - Week 3](https://dev.to/michaellarocca/javascriptmas-2023-week-3-1fgn)
 - [Lifehacker] [Don&#39;t Fall for This Instagram Copyright Infringement Scam](https://lifehacker.com/tech/dont-fall-for-this-instagram-copyright-infringement-scam)
 - [Lifehacker] [How the ‘Wealth-Happiness Nexus’ Could Change the Way You Think About Money](https://lifehacker.com/money/what-is-the-wealth-happiness-nexus)
 - [Lifehacker] [Eight Popular ‘Christmas Songs’ That Aren’t Actually Christmas Songs](https://lifehacker.com/entertainment/popular-christmas-songs-that-arent-actually-christmas-songs)
