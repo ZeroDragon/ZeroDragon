@@ -26,14 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fixing Fetch Waterfalls in React](https://dev.to/nikolovlazar/fixing-fetch-waterfalls-in-react-58g5)
+- [Dev.to/JS] [Svelte journey | Part 2](https://dev.to/chillyhill/svelte-journey-part-2-4kb8)
+- [Dev.to/JS] [PokeData App](https://dev.to/turnmas35/pokedata-app-3flg)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/showenejerolde/buy-google-5-star-reviews-4917)
 - [Dev.to/JS] [Svelte : Toji Fushiguro of Javascript Frameworks.](https://dev.to/kiritocode1/svelte-toji-fushiguro-of-javascript-frameworks-99k)
 - [Dev.to/JS] [Building A Crousal Maker Tool with NextJS ⭐](https://dev.to/random_ti/building-a-crousal-maker-tool-with-nextjs-4pd0)
+- [Lifehacker] [How to Fix a Room When the Paint Color is All Wrong](https://lifehacker.com/how-to-fix-a-room-when-the-paint-color-is-all-wrong)
 - [Dev.to/JS] [Efficient React Development: A Deep Dive into Components, Hooks, and Performance Optimization](https://dev.to/shahbaz17/efficient-react-development-a-deep-dive-into-components-hooks-and-performance-optimization-29j2)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/jeroldeshowen/buy-google-reviews-344d)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/jeroldeshowen/buy-google-voice-accounts-3676)
+- [Lifehacker] [An Age-by-Age Guide to Helping Your Kid Get Over Stage Fright](https://lifehacker.com/age-by-age-guide-to-helping-kids-overcome-stage-fright)
 - [Dev.to/JS] [ABOUT AUTHOR &quot;Sardar Mudassar Ali Khan&quot;](https://dev.to/sardarmudassaralikhan/about-author-sardar-mudassar-ali-khan-26kl)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/jeroldeshowen/buy-google-5-star-reviews-2n9e)
 - [Lifehacker] [The Best Way to Remove Old Wallpaper](https://lifehacker.com/how-to-remove-old-wallpaper)
 - [Dev.to/JS] [Parsing AWS AppSync Responses, Elm GraphQL Libraries, and Only Doing Front-End](https://dev.to/jesterxl/parsing-aws-appsync-responses-elm-graphql-libraries-and-only-doing-front-end-4di4)
 - [Dev.to/JS] [Get Paid To Complete Online Jobs and Easy Tasks No Experience!](https://dev.to/ajayraj/get-paid-to-complete-online-jobs-and-easy-tasks-no-experience-10b0)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
 - [Lifehacker] [The Easiest Way to Figure Out Which Part of Your Car Is Leaking](https://lifehacker.com/travel/which-part-of-car-is-leaking)
 - [Lifehacker] [Update Chrome ASAP &lpar;Even If You Don’t Use It&rpar;](https://lifehacker.com/tech/why-you-need-to-update-chrome-asap)
-- [Lifehacker] [What You Should Keep in Your Glove Compartment, According to a Mechanic](https://lifehacker.com/travel/what-to-keep-in-your-glove-compartment-according-to-a-mechanic)
-- [Lifehacker] [You Can Get the Apple Watch Series 9 for the Lowest Price Yet &lpar;and in Time for Christmas&rpar;](https://lifehacker.com/tech/apple-watch-series-9-sale)
-- [Lifehacker] [You Can Now Hide Your ChatGPT Chats &lpar;Without Deleting Them&rpar;](https://lifehacker.com/tech/how-to-hide-chatgpt-chats-without-deleting-them)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What You Should Keep in Your Glove Compartment, According to a Mechanic](https://lifehacker.com/travel/what-to-keep-in-your-glove-compartment-according-to-a-mechanic)<!-- TECH-POSTS:END -->
 
 ---
 
