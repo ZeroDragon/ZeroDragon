@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Benefits of JavaScript Code Snippets for Web Developers](https://dev.to/plazarev/benefits-of-javascript-code-snippets-for-web-developers-e26)
+- [Dev.to/JS] [Implement inline input suggestions](https://dev.to/phuocng/implement-inline-input-suggestions-1lj8)
+- [Dev.to/JS] [areon network tesnet](https://dev.to/exchange12/areon-network-tesnet-18dg)
+- [Dev.to/JS] [Tauri - How to easily bump version](https://dev.to/brifiction/tauri-how-to-easily-bump-version-with-cargo-bump-398a)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/copak83682/buy-verified-cash-app-account-1pfa)
 - [Dev.to/JS] [React js: Avoid Needless Rebuilds](https://dev.to/kwesikwaa/react-js-avoid-needless-rebuilds-5b0n)
 - [Dev.to/JS] [Provide a preview of the suggestion as users type in a text area](https://dev.to/phuocng/provide-a-preview-of-the-suggestion-as-users-type-in-a-text-area-18bk)
@@ -38,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
 - [Dev.to/JS] [JavaScript Frameworks - Heading into 2024](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2024-i3l)
 - [Lifehacker] [How to Pick the Right Flooring for Each Room in Your Home](https://lifehacker.com/home/how-to-pick-the-right-flooring-for-each-room-in-your-home)
-- [Dev.to/JS] [⚡ Levenshtein Distance: A Powerful Algorithm for String Comparison ⚡](https://dev.to/best_codes/understanding-levenshtein-distance-a-powerful-algorithm-for-string-comparison-4p4a)
 - [Lifehacker] [Take These Steps to Spend Less Money Over the Holidays](https://lifehacker.com/money/how-to-avoid-overspending-during-the-holidays)
-- [Dev.to/JS] [Manage Your Cypress Logs Like a Pro](https://dev.to/elaichenkov/manage-your-cypress-logs-like-a-pro-23dc)
 - [Lifehacker] [How to Replace the Interior Light Bulbs in Your Car](https://lifehacker.com/travel/how-to-replace-interior-light-bulbs-in-your-car)
-- [Dev.to/JS] [Light and Dark CodePen Challenge - Star Wars](https://dev.to/jakekbuckner/light-and-dark-star-wars-1a7p)
-- [Dev.to/JS] [Uncovering the Benefits: How Regular Gutter Cleaning Saves Money in Pinole](https://dev.to/umar223/uncovering-the-benefits-how-regular-gutter-cleaning-saves-money-in-pinole-2cbg)
 - [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons for $150 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
 - [Lifehacker] [Don&#39;t Fall for This Instagram Copyright Infringement Scam](https://lifehacker.com/tech/dont-fall-for-this-instagram-copyright-infringement-scam)
 - [Lifehacker] [How the ‘Wealth-Happiness Nexus’ Could Change the Way You Think About Money](https://lifehacker.com/money/what-is-the-wealth-happiness-nexus)
