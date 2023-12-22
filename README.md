@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn to Integrate Froala into Your NodeJS Application with Express Framework](https://dev.to/ideradevtools/learn-to-integrate-froala-into-your-nodejs-application-with-express-framework-3lb6)
+- [Dev.to/JS] [I18n in Web Apps Series Part-1](https://dev.to/rohtashsethi/i18n-in-web-apps-series-part-1-4e4b)
+- [Dev.to/JS] [Svelte journey | Part 1](https://dev.to/chillyhill/svelte-journey-part-1-38pa)
 - [Dev.to/JS] [Sorting in Java - A Real Story](https://dev.to/codingmadeeasy/sorting-in-java-a-real-story-184d)
 - [Dev.to/JS] [Realize mobile interface simulation function on PC](https://dev.to/ouyangzetao/realize-mobile-interface-simulation-function-on-pc-oj3)
 - [Dev.to/JS] [Playwright &amp; Prometheus. Send your metrics in real-time](https://dev.to/vitalicset/playwright-prometheus-send-your-metrics-in-real-time-1aej)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implement inline input suggestions](https://dev.to/phuocng/implement-inline-input-suggestions-1lj8)
 - [Dev.to/JS] [areon network tesnet](https://dev.to/exchange12/areon-network-tesnet-18dg)
 - [Dev.to/JS] [Tauri - How to easily bump version](https://dev.to/brifiction/tauri-how-to-easily-bump-version-with-cargo-bump-398a)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/copak83682/buy-verified-cash-app-account-1pfa)
-- [Dev.to/JS] [React js: Avoid Needless Rebuilds](https://dev.to/kwesikwaa/react-js-avoid-needless-rebuilds-5b0n)
-- [Dev.to/JS] [Provide a preview of the suggestion as users type in a text area](https://dev.to/phuocng/provide-a-preview-of-the-suggestion-as-users-type-in-a-text-area-18bk)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
 - [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
