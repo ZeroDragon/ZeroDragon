@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alex Camman &lpar;Tom Ford&rpar;](https://dev.to/tomfordcode/alex-camman-tom-ford-4418)
+- [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
 - [Dev.to/JS] [JavaScript Frameworks - Heading into 2024](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2024-i3l)
+- [Lifehacker] [How to Pick the Right Flooring for Each Room in Your Home](https://lifehacker.com/home/how-to-pick-the-right-flooring-for-each-room-in-your-home)
 - [Dev.to/JS] [⚡ Levenshtein Distance: A Powerful Algorithm for String Comparison ⚡](https://dev.to/best_codes/understanding-levenshtein-distance-a-powerful-algorithm-for-string-comparison-4p4a)
+- [Lifehacker] [Take These Steps to Spend Less Money Over the Holidays](https://lifehacker.com/money/how-to-avoid-overspending-during-the-holidays)
 - [Dev.to/JS] [Manage Your Cypress Logs Like a Pro](https://dev.to/elaichenkov/manage-your-cypress-logs-like-a-pro-23dc)
 - [Lifehacker] [How to Replace the Interior Light Bulbs in Your Car](https://lifehacker.com/travel/how-to-replace-interior-light-bulbs-in-your-car)
 - [Dev.to/JS] [Light and Dark CodePen Challenge - Star Wars](https://dev.to/jakekbuckner/light-and-dark-star-wars-1a7p)
@@ -48,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/dtuhiusbfiomoys/buy-google-voice-accounts-3mj0)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/dtuhiusbfiomoys/buy-google-5-star-reviews-g63)
 - [Dev.to/JS] [Publisher Rocket](https://dev.to/rankmarkett/publisher-rocket-409f)
-- [Dev.to/JS] [🚀 Learn JavaScript with Me! 💻✨](https://dev.to/ukana/learn-javascript-with-me-5275)
 - [Lifehacker] [You Can Get the Apple Watch Series 9 for the Lowest Price Yet &lpar;and in Time for Christmas&rpar;](https://lifehacker.com/tech/apple-watch-series-9-sale)
 - [Lifehacker] [You Can Now Hide Your ChatGPT Chats &lpar;Without Deleting Them&rpar;](https://lifehacker.com/tech/how-to-hide-chatgpt-chats-without-deleting-them)
 - [Lifehacker] [Follow This End-of-Year Financial Checklist Before 2024](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix Your Messed-up Wifi After the Latest Windows Update](https://lifehacker.com/tech/windows-11-update-breaks-wi-fi-heres-how-to-fix-it)
 - [Lifehacker] [Between Midjourney and DALL-E 3, Which AI Image Generator Is Best](https://lifehacker.com/tech/dalle-versus-midjourney-which-is-better)
 - [Lifehacker] [The Best Deals on Laptops That Will Arrive by Christmas](https://lifehacker.com/tech/best-deals-laptops-that-will-arrive-by-christmas)
-- [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/tech/microsoft-office-windows-11-pro-sale)
-- [Lifehacker] [Here’s How Much You Can Actually Make by Taking Online Surveys](https://lifehacker.com/money/how-much-do-online-surveys-actually-pay)
-- [Lifehacker] [Do These Things to Maximize Your Employee Benefits Before the New Year](https://lifehacker.com/work/how-to-maximize-employee-benefits-before-the-new-year)
-- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in January 2024](https://lifehacker.com/entertainment/coming-to-paramount-with-showtime-january-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/tech/microsoft-office-windows-11-pro-sale)<!-- TECH-POSTS:END -->
 
 ---
 
