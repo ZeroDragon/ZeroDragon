@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use ‘Household’ Automations to Make Your Google Home Even Smarter](https://lifehacker.com/tech/google-home-automations-household-and-personal-routines)
+- [Dev.to/JS] [The 2038 Problem: Is Your Code 2038-Proof &amp; Will Time End?](https://dev.to/best_codes/the-2038-problem-is-your-code-2038-proof-aek)
+- [Lifehacker] [Why You Should Consider a Death Doula](https://lifehacker.com/what-does-a-death-doula-do)
+- [Lifehacker] [How to Design the Best Home Environment for Someone With Dementia](https://lifehacker.com/home-design-for-someone-with-dementia)
+- [Lifehacker] [How to Raise Kids Who Aren’t Self-Conscious About Their Appearance](https://lifehacker.com/how-to-raise-kids-who-are-not-self-conscious-about-appearance)
 - [Dev.to/JS] [All the new javascript array methods you missed in 2023](https://dev.to/kalashin1/all-the-new-javascript-array-methods-you-missed-in-2023-484g)
 - [Lifehacker] [Everything You Need to Know Before Buying a Ninja CREAMi](https://lifehacker.com/everything-to-know-before-buying-a-ninja-creami)
 - [Lifehacker] [How to Recognize the Signs of Childhood OCD &lpar;and Get Help&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-childhood-ocd)
@@ -44,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Remove Old Wallpaper](https://lifehacker.com/how-to-remove-old-wallpaper)
 - [Dev.to/JS] [Parsing AWS AppSync Responses, Elm GraphQL Libraries, and Only Doing Front-End](https://dev.to/jesterxl/parsing-aws-appsync-responses-elm-graphql-libraries-and-only-doing-front-end-4di4)
 - [Dev.to/JS] [Get Paid To Complete Online Jobs and Easy Tasks No Experience!](https://dev.to/ajayraj/get-paid-to-complete-online-jobs-and-easy-tasks-no-experience-10b0)
-- [Dev.to/JS] [133 Next.js Boilerplates in 2023](https://dev.to/johnrushx/133-nextjs-boilerplates-in-2023-3p2e)
 - [Lifehacker] [Is Choking During Sex Ever Really Safe?](https://lifehacker.com/is-choking-during-sex-safe)
 - [Lifehacker] [7 Home Improvement Projects You Can Source From the Dollar Store](https://lifehacker.com/home-improvement-projects-you-can-source-from-the-dollar-store)
 - [Lifehacker] [Why Selling Your Home to an iBuyer Is Almost Always a Bad Idea](https://lifehacker.com/selling-your-home-to-an-ibuyer-is-almost-always-a-bad-idea)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Take These Steps to Spend Less Money Over the Holidays](https://lifehacker.com/money/how-to-avoid-overspending-during-the-holidays)
 - [Lifehacker] [How to Replace the Interior Light Bulbs in Your Car](https://lifehacker.com/travel/how-to-replace-interior-light-bulbs-in-your-car)
 - [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons for $150 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
-- [Lifehacker] [Don&#39;t Fall for This Instagram Copyright Infringement Scam](https://lifehacker.com/tech/dont-fall-for-this-instagram-copyright-infringement-scam)
-- [Lifehacker] [How the ‘Wealth-Happiness Nexus’ Could Change the Way You Think About Money](https://lifehacker.com/money/what-is-the-wealth-happiness-nexus)
-- [Lifehacker] [Eight Popular ‘Christmas Songs’ That Aren’t Actually Christmas Songs](https://lifehacker.com/entertainment/popular-christmas-songs-that-arent-actually-christmas-songs)
-- [Lifehacker] [Why Working Too Much Might Actually Make You Less Productive](https://lifehacker.com/work/working-too-much-might-make-you-less-productive)
-- [Lifehacker] [The Best Gifts for the Person Who Has Everything](https://lifehacker.com/entertainment/gifts-for-the-person-who-has-everything)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Fall for This Instagram Copyright Infringement Scam](https://lifehacker.com/tech/dont-fall-for-this-instagram-copyright-infringement-scam)<!-- TECH-POSTS:END -->
 
 ---
 
