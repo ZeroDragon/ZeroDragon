@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Refactor Playwright Locators Like a Boss](https://dev.to/mikestopcontinues/refactor-playwright-locators-like-a-boss-1d1f)
 - [Dev.to/JS] [Quickbooks Payroll Helpline ☎️&lpar; 1-844♪397♪7462 &rpar;Support Number](https://dev.to/amit92/quickbooks-payroll-helpline-1-8443977462-support-number-5672)
 - [Dev.to/JS] [Quickbooks®Desktop||☎️+1&lpar;844 397-.7462&rpar;Help Support](https://dev.to/amit92/quickbooksrdesktop1844397-7462help-support-201b)
 - [Dev.to/JS] [Using ChatGPT with Your Own Data using LangChain and Supabase](https://dev.to/surajondev/using-chatgpt-with-your-own-data-using-langchain-and-supabase-4k6c)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn to Integrate Froala into Your NodeJS Application with Express Framework](https://dev.to/ideradevtools/learn-to-integrate-froala-into-your-nodejs-application-with-express-framework-3lb6)
 - [Dev.to/JS] [I18n in Web Apps Series Part-1](https://dev.to/rohtashsethi/i18n-in-web-apps-series-part-1-4e4b)
 - [Dev.to/JS] [Svelte journey | Part 1](https://dev.to/chillyhill/svelte-journey-part-1-38pa)
-- [Dev.to/JS] [Sorting in Java - A Real Story](https://dev.to/codingmadeeasy/sorting-in-java-a-real-story-184d)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
 - [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
