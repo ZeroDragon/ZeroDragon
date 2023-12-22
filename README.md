@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Async file download in JavaScript and Python](https://dev.to/begoon/async-file-download-in-javascript-and-python-cl2)
+- [Dev.to/JS] [Help build an app in exchange for ownership](https://dev.to/ferg/help-build-an-app-in-exchange-for-ownership-10m9)
+- [Dev.to/JS] [Tips for styling React apps in JavaScript](https://dev.to/codingcss/tips-for-styling-react-apps-in-javascript-57ag)
 - [Dev.to/JS] [nhà mái thái 4 phòng ngủ](https://dev.to/maunhadepp1/nha-mai-thai-4-phong-ngu-35lh)
 - [Lifehacker] [The Four Types of Bad Bosses &lpar;and How to Deal With Each One&rpar;](https://lifehacker.com/four-types-of-bad-bosses)
 - [Dev.to/JS] [Hello](https://dev.to/tuuna/hello-gpb)
@@ -39,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Functions Explained to a Five-Year-Old](https://dev.to/mojodev/javascript-functions-explained-to-a-five-year-old-h3f)
 - [Dev.to/JS] [Rebirth CBD Gummies [Latest Update 2023] &lpar;Honest Review&rpar;](https://dev.to/rebirthcbdgummi/rebirth-cbd-gummies-latest-update-2023-honest-review-5b7k)
 - [Dev.to/JS] [TypeScript vs JavaScript - A Detailed Comparison](https://dev.to/refine/typescript-vs-javascript-a-detailed-comparison-479f)
-- [Dev.to/JS] [Esaver Watt Reviews - &lpar;Legit or Scam&rpar; The Dark Side of EsaverWatt Energy Saver Device And Consumer Warnings?](https://dev.to/dsanbvpra/esaver-watt-reviews-legit-or-scam-the-dark-side-of-esaverwatt-energy-saver-device-and-consumer-warnings-cn)
-- [Dev.to/JS] [Using JavaScript Packages without TypeScript Declarations in TypeScript](https://dev.to/avishka98/using-javascript-packages-without-typescript-declarations-in-typescript-3mhg)
-- [Dev.to/JS] [Learn to Integrate Froala into Your NodeJS Application with Express Framework](https://dev.to/ideradevtools/learn-to-integrate-froala-into-your-nodejs-application-with-express-framework-3lb6)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
 - [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
