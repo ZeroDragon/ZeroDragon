@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sorting in Java - A Real Story](https://dev.to/codingmadeeasy/sorting-in-java-a-real-story-184d)
+- [Dev.to/JS] [Realize mobile interface simulation function on PC](https://dev.to/ouyangzetao/realize-mobile-interface-simulation-function-on-pc-oj3)
+- [Dev.to/JS] [Playwright &amp; Prometheus. Send your metrics in real-time](https://dev.to/vitalicset/playwright-prometheus-send-your-metrics-in-real-time-1aej)
+- [Dev.to/JS] [The Art of Interactive Web Design: Changing Background Color with JavaScript Magic](https://dev.to/aniketsaini65/the-art-of-interactive-web-design-changing-background-color-with-javascript-magic-5c8h)
+- [Dev.to/JS] [The best way to handle errors in asynchronous javascript](https://dev.to/m__mdy__m/the-best-way-to-handle-errors-in-asynchronous-javascript-16bb)
 - [Dev.to/JS] [Benefits of JavaScript Code Snippets for Web Developers](https://dev.to/plazarev/benefits-of-javascript-code-snippets-for-web-developers-e26)
 - [Dev.to/JS] [Implement inline input suggestions](https://dev.to/phuocng/implement-inline-input-suggestions-1lj8)
 - [Dev.to/JS] [areon network tesnet](https://dev.to/exchange12/areon-network-tesnet-18dg)
@@ -33,14 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/copak83682/buy-verified-cash-app-account-1pfa)
 - [Dev.to/JS] [React js: Avoid Needless Rebuilds](https://dev.to/kwesikwaa/react-js-avoid-needless-rebuilds-5b0n)
 - [Dev.to/JS] [Provide a preview of the suggestion as users type in a text area](https://dev.to/phuocng/provide-a-preview-of-the-suggestion-as-users-type-in-a-text-area-18bk)
-- [Dev.to/JS] [Understanding Recursion in React](https://dev.to/bodhi132/understanding-recursion-in-react-2fll)
-- [Dev.to/JS] [A journey into web development](https://dev.to/decavalcantes/a-journey-into-web-development-1do8)
-- [Dev.to/JS] [I have taken advantage of Excel&#39;s functionality to develop a CLI tool to better manage data](https://dev.to/limingcan562/i-have-taken-advantage-of-excels-functionality-to-develop-a-cli-tool-to-better-manage-data-44o6)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
-- [Dev.to/JS] [Alex Camman &lpar;Tom Ford&rpar;](https://dev.to/tomfordcode/alex-camman-tom-ford-4418)
 - [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
-- [Dev.to/JS] [JavaScript Frameworks - Heading into 2024](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2024-i3l)
 - [Lifehacker] [How to Pick the Right Flooring for Each Room in Your Home](https://lifehacker.com/home/how-to-pick-the-right-flooring-for-each-room-in-your-home)
 - [Lifehacker] [Take These Steps to Spend Less Money Over the Holidays](https://lifehacker.com/money/how-to-avoid-overspending-during-the-holidays)
 - [Lifehacker] [How to Replace the Interior Light Bulbs in Your Car](https://lifehacker.com/travel/how-to-replace-interior-light-bulbs-in-your-car)
