@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Nail Your Next Technical Interview In 2024: Step By Step 🚀](https://dev.to/dragosnedelcu/how-to-nail-your-next-technical-interview-in-2024-step-by-step-4jh0)
+- [Dev.to/JS] [Undoubtedly the best CSS Feature, Understanding CSS Text Balancing with &quot;text-wrap-style&quot; properties.](https://dev.to/aqilmarwan/undoubtedly-the-best-css-feature-understanding-css-text-balancing-with-text-wrap-style-properties-8hc)
 - [Dev.to/JS] [Async file download in JavaScript and Python](https://dev.to/begoon/async-file-download-in-javascript-and-python-cl2)
+- [Lifehacker] [How to Spot a Serial Dater &lpar;and What to Do If It&#39;s You&rpar;](https://lifehacker.com/how-to-spot-a-serial-dater)
 - [Dev.to/JS] [Help build an app in exchange for ownership](https://dev.to/ferg/help-build-an-app-in-exchange-for-ownership-10m9)
 - [Dev.to/JS] [Tips for styling React apps in JavaScript](https://dev.to/codingcss/tips-for-styling-react-apps-in-javascript-57ag)
+- [Lifehacker] [Fry Day-old Croissants in Ghee and Cinnamon Sugar](https://lifehacker.com/croissant-cinnamon-toast-recipe)
 - [Dev.to/JS] [nhà mái thái 4 phòng ngủ](https://dev.to/maunhadepp1/nha-mai-thai-4-phong-ngu-35lh)
 - [Lifehacker] [The Four Types of Bad Bosses &lpar;and How to Deal With Each One&rpar;](https://lifehacker.com/four-types-of-bad-bosses)
 - [Dev.to/JS] [Hello](https://dev.to/tuuna/hello-gpb)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quickbooks®Desktop||☎️+1&lpar;844 397-.7462&rpar;Help Support](https://dev.to/amit92/quickbooksrdesktop1844397-7462help-support-201b)
 - [Dev.to/JS] [Using ChatGPT with Your Own Data using LangChain and Supabase](https://dev.to/surajondev/using-chatgpt-with-your-own-data-using-langchain-and-supabase-4k6c)
 - [Dev.to/JS] [Javascript Functions Explained to a Five-Year-Old](https://dev.to/mojodev/javascript-functions-explained-to-a-five-year-old-h3f)
-- [Dev.to/JS] [Rebirth CBD Gummies [Latest Update 2023] &lpar;Honest Review&rpar;](https://dev.to/rebirthcbdgummi/rebirth-cbd-gummies-latest-update-2023-honest-review-5b7k)
-- [Dev.to/JS] [TypeScript vs JavaScript - A Detailed Comparison](https://dev.to/refine/typescript-vs-javascript-a-detailed-comparison-479f)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
 - [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Follow This End-of-Year Financial Checklist Before 2024](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
 - [Lifehacker] [The Dos and Don&#39;ts of Public Foreplay](https://lifehacker.com/dos-and-donts-of-public-foreplay)
 - [Lifehacker] [You Can Get Your Phone to Read Webpages to You](https://lifehacker.com/tech/how-to-get-phone-to-read-out-loud)
-- [Lifehacker] [What People Are Getting Wrong This Week: Disney Conspiracy Theories](https://lifehacker.com/entertainment/disney-conspiracy-theories-real-and-fake)
-- [Lifehacker] [How to Set up Your First Google Home Automation](https://lifehacker.com/tech/how-to-set-up-google-home-automations)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 21, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-21-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: Disney Conspiracy Theories](https://lifehacker.com/entertainment/disney-conspiracy-theories-real-and-fake)<!-- TECH-POSTS:END -->
 
 ---
 
