@@ -26,24 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/jeroldeshowen/buy-google-reviews-344d)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/jeroldeshowen/buy-google-voice-accounts-3676)
+- [Dev.to/JS] [ABOUT AUTHOR &quot;Sardar Mudassar Ali Khan&quot;](https://dev.to/sardarmudassaralikhan/about-author-sardar-mudassar-ali-khan-26kl)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/jeroldeshowen/buy-google-5-star-reviews-2n9e)
+- [Dev.to/JS] [Parsing AWS AppSync Responses, Elm GraphQL Libraries, and Only Doing Front-End](https://dev.to/jesterxl/parsing-aws-appsync-responses-elm-graphql-libraries-and-only-doing-front-end-4di4)
+- [Dev.to/JS] [Get Paid To Complete Online Jobs and Easy Tasks No Experience!](https://dev.to/ajayraj/get-paid-to-complete-online-jobs-and-easy-tasks-no-experience-10b0)
+- [Dev.to/JS] [133 Next.js Boilerplates in 2023](https://dev.to/johnrushx/133-nextjs-boilerplates-in-2023-3p2e)
+- [Dev.to/JS] [Solution for &#39;await is only valid in async functions&#39;](https://dev.to/mailtodanish/solution-for-await-is-only-valid-in-async-functions-1coj)
 - [Dev.to/JS] [How To Nail Your Next Technical Interview In 2024: Step By Step 🚀](https://dev.to/dragosnedelcu/how-to-nail-your-next-technical-interview-in-2024-step-by-step-4jh0)
 - [Dev.to/JS] [Undoubtedly the best CSS Feature, Understanding CSS Text Balancing with &quot;text-wrap-style&quot; properties.](https://dev.to/aqilmarwan/undoubtedly-the-best-css-feature-understanding-css-text-balancing-with-text-wrap-style-properties-8hc)
+- [Lifehacker] [Why Selling Your Home to an iBuyer Is Almost Always a Bad Idea](https://lifehacker.com/selling-your-home-to-an-ibuyer-is-almost-always-a-bad-idea)
 - [Dev.to/JS] [Async file download in JavaScript and Python](https://dev.to/begoon/async-file-download-in-javascript-and-python-cl2)
 - [Lifehacker] [How to Spot a Serial Dater &lpar;and What to Do If It&#39;s You&rpar;](https://lifehacker.com/how-to-spot-a-serial-dater)
 - [Dev.to/JS] [Help build an app in exchange for ownership](https://dev.to/ferg/help-build-an-app-in-exchange-for-ownership-10m9)
-- [Dev.to/JS] [Tips for styling React apps in JavaScript](https://dev.to/codingcss/tips-for-styling-react-apps-in-javascript-57ag)
 - [Lifehacker] [Fry Day-old Croissants in Ghee and Cinnamon Sugar](https://lifehacker.com/croissant-cinnamon-toast-recipe)
-- [Dev.to/JS] [nhà mái thái 4 phòng ngủ](https://dev.to/maunhadepp1/nha-mai-thai-4-phong-ngu-35lh)
 - [Lifehacker] [The Four Types of Bad Bosses &lpar;and How to Deal With Each One&rpar;](https://lifehacker.com/four-types-of-bad-bosses)
-- [Dev.to/JS] [Hello](https://dev.to/tuuna/hello-gpb)
 - [Lifehacker] [How to Actually Pronounce &#39;Worcestershire,&#39; &#39;Açaí,&#39; and Other Commonly Mispronounced Words](https://lifehacker.com/how-to-pronounce-worcestershire)
 - [Lifehacker] [Declare &#39;Email Amnesty&#39; to Achieve Inbox Zero](https://lifehacker.com/achieve-inbox-zero)
 - [Lifehacker] [How Overwhelmed Parents Can &lpar;and Should&rpar; Ask for Help](https://lifehacker.com/how-overwhelmed-parents-can-ask-for-help)
-- [Dev.to/JS] [Refactor Playwright Locators Like a Boss](https://dev.to/mikestopcontinues/refactor-playwright-locators-like-a-boss-1d1f)
-- [Dev.to/JS] [Quickbooks Payroll Helpline ☎️&lpar; 1-844♪397♪7462 &rpar;Support Number](https://dev.to/amit92/quickbooks-payroll-helpline-1-8443977462-support-number-5672)
-- [Dev.to/JS] [Quickbooks®Desktop||☎️+1&lpar;844 397-.7462&rpar;Help Support](https://dev.to/amit92/quickbooksrdesktop1844397-7462help-support-201b)
-- [Dev.to/JS] [Using ChatGPT with Your Own Data using LangChain and Supabase](https://dev.to/surajondev/using-chatgpt-with-your-own-data-using-langchain-and-supabase-4k6c)
-- [Dev.to/JS] [Javascript Functions Explained to a Five-Year-Old](https://dev.to/mojodev/javascript-functions-explained-to-a-five-year-old-h3f)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
 - [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Hide Your ChatGPT Chats &lpar;Without Deleting Them&rpar;](https://lifehacker.com/tech/how-to-hide-chatgpt-chats-without-deleting-them)
 - [Lifehacker] [Follow This End-of-Year Financial Checklist Before 2024](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
 - [Lifehacker] [The Dos and Don&#39;ts of Public Foreplay](https://lifehacker.com/dos-and-donts-of-public-foreplay)
-- [Lifehacker] [You Can Get Your Phone to Read Webpages to You](https://lifehacker.com/tech/how-to-get-phone-to-read-out-loud)
-- [Lifehacker] [What People Are Getting Wrong This Week: Disney Conspiracy Theories](https://lifehacker.com/entertainment/disney-conspiracy-theories-real-and-fake)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Your Phone to Read Webpages to You](https://lifehacker.com/tech/how-to-get-phone-to-read-out-loud)<!-- TECH-POSTS:END -->
 
 ---
 
