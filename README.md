@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Provide a preview of the suggestion as users type in a text area](https://dev.to/phuocng/provide-a-preview-of-the-suggestion-as-users-type-in-a-text-area-18bk)
+- [Dev.to/JS] [Understanding Recursion in React](https://dev.to/bodhi132/understanding-recursion-in-react-2fll)
 - [Dev.to/JS] [A journey into web development](https://dev.to/decavalcantes/a-journey-into-web-development-1do8)
 - [Dev.to/JS] [I have taken advantage of Excel&#39;s functionality to develop a CLI tool to better manage data](https://dev.to/limingcan562/i-have-taken-advantage-of-excels-functionality-to-develop-a-cli-tool-to-better-manage-data-44o6)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
@@ -48,12 +50,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Working Too Much Might Actually Make You Less Productive](https://lifehacker.com/work/working-too-much-might-make-you-less-productive)
 - [Dev.to/JS] [Applicative-order vs. normal-order evaluation](https://dev.to/rivea0/applicative-order-vs-normal-order-evaluation-3c3d)
 - [Lifehacker] [The Best Gifts for the Person Who Has Everything](https://lifehacker.com/entertainment/gifts-for-the-person-who-has-everything)
-- [Dev.to/JS] [Open The Modal on click of browser&#39;s back button in react &lpar;with native javascript&rpar;](https://dev.to/roshan_ican/open-the-modal-on-click-of-browsers-back-button-in-react-with-native-javascript-4i55)
 - [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
 - [Lifehacker] [The Easiest Way to Figure Out Which Part of Your Car Is Leaking](https://lifehacker.com/travel/which-part-of-car-is-leaking)
 - [Lifehacker] [Update Chrome ASAP &lpar;Even If You Don’t Use It&rpar;](https://lifehacker.com/tech/why-you-need-to-update-chrome-asap)
 - [Lifehacker] [What You Should Keep in Your Glove Compartment, According to a Mechanic](https://lifehacker.com/travel/what-to-keep-in-your-glove-compartment-according-to-a-mechanic)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/dtuhiusbfiomoys/buy-google-voice-accounts-3mj0)
 - [Lifehacker] [You Can Get the Apple Watch Series 9 for the Lowest Price Yet &lpar;and in Time for Christmas&rpar;](https://lifehacker.com/tech/apple-watch-series-9-sale)
 - [Lifehacker] [You Can Now Hide Your ChatGPT Chats &lpar;Without Deleting Them&rpar;](https://lifehacker.com/tech/how-to-hide-chatgpt-chats-without-deleting-them)
 - [Lifehacker] [Follow This End-of-Year Financial Checklist Before 2024](https://lifehacker.com/here-s-your-year-end-financial-checklist-1849910676)
