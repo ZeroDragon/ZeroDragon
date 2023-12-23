@@ -36,7 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Consider a Death Doula](https://lifehacker.com/what-does-a-death-doula-do)
 - [Lifehacker] [How to Design the Best Home Environment for Someone With Dementia](https://lifehacker.com/home-design-for-someone-with-dementia)
 - [Lifehacker] [How to Raise Kids Who Aren’t Self-Conscious About Their Appearance](https://lifehacker.com/how-to-raise-kids-who-are-not-self-conscious-about-appearance)
-- [Dev.to/JS] [All the new javascript array methods you missed in 2023](https://dev.to/kalashin1/all-the-new-javascript-array-methods-you-missed-in-2023-484g)
+- [Dev.to/JS] [6 Javascript array methods You missed in 2023](https://dev.to/kalashin1/all-the-new-javascript-array-methods-you-missed-in-2023-484g)
 - [Lifehacker] [Everything You Need to Know Before Buying a Ninja CREAMi](https://lifehacker.com/everything-to-know-before-buying-a-ninja-creami)
 - [Lifehacker] [How to Recognize the Signs of Childhood OCD &lpar;and Get Help&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-childhood-ocd)
 - [Dev.to/JS] [Fixing Fetch Waterfalls in React](https://dev.to/nikolovlazar/fixing-fetch-waterfalls-in-react-58g5)
