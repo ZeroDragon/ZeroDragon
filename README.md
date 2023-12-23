@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering useEffect in React: Navigating Initial Render Challenges with useRef 🚀](https://dev.to/prathamisonline/mastering-useeffect-in-react-navigating-initial-render-challenges-with-useref-1ia6)
+- [Dev.to/JS] [Signals In React | Catching up with the latest trends](https://dev.to/davidkohen/signals-in-react-294b)
+- [Dev.to/JS] [Mastering the While Loop in JavaScript](https://dev.to/shawn2208/mastering-the-while-loop-in-javascript-4ddj)
 - [Dev.to/JS] [Mastering JavaScript: A Comprehensive Guide to Essential Methods and Latest Features](https://dev.to/pinky057/mastering-javascript-a-comprehensive-guide-to-essential-methods-and-latest-features-2mj7)
 - [Dev.to/JS] [Buy verified Paxful Account](https://dev.to/floorsetcoftexas23/buy-verified-paxful-account-2hi)
 - [Dev.to/JS] [Making a font picker and text designer tool in only 40 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-font-picker-and-text-designer-tool-in-only-40-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-3l1d)
@@ -33,14 +36,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner&#39;s TypeScript #6](https://dev.to/nhannguyendevjs/beginners-typescript-6-jn5)
 - [Dev.to/JS] [Sharing a state between windows without a serve](https://dev.to/notachraf/sharing-a-state-between-windows-without-a-serve-23an)
 - [Dev.to/JS] [Seamless User Authentication: Integration of AWS Cognito with HTML/CSS and JavaScript](https://dev.to/aws-builders/seamless-user-authentication-integration-of-aws-cognito-with-htmlcss-and-javascript-5255)
-- [Dev.to/JS] [Awai - Yet unmet JavaScript state management approach. Let&#39;s implement it together 😎](https://dev.to/yuriyyakym/awai-yet-unmet-javascript-state-management-approach-lets-implement-it-together-26if)
+- [Dev.to/JS] [JavaScript state management using Thennables from scratch](https://dev.to/yuriyyakym/awai-yet-unmet-javascript-state-management-approach-lets-implement-it-together-26if)
 - [Dev.to/JS] [HTML Demystified: Unraveling the Foundations of Web Development](https://dev.to/iamdoncarey/unveiling-html-the-bedrock-of-web-development-4nog)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
 - [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
-- [Dev.to/JS] [Run Kafka Locally using Docker](https://dev.to/satyajitnayak/run-kafka-locally-using-docker-2p8d)
-- [Dev.to/JS] [Mais níveis de precedência e mais operadores](https://dev.to/lucas_ac_am/mais-niveis-de-precedencia-e-mais-operadores-j2d)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
-- [Dev.to/JS] [What&#39;s something that you can only do in java](https://dev.to/mrmonk/what-can-you-do-only-in-java-2m6h)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-23-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-23-2023)
 - [Lifehacker] [Read These Safety Tips Before Riding Your New E-bike](https://lifehacker.com/health/safety-tips-for-e-bikes)
