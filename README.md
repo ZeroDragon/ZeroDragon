@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Twilio TURN Server Alternative](https://dev.to/alakkadshaw/twilio-turn-server-alternative-290m)
+- [Dev.to/JS] [Building the Bubble Estimator Game: A JavaScript Project with SVG and Sound Effects](https://dev.to/piko/building-the-bubble-estimator-game-a-javascript-project-with-svg-and-sound-effects-akb)
+- [Dev.to/JS] [mua ahref](https://dev.to/wsovn112/mua-ahref-23el)
+- [Dev.to/JS] [Mastering Express.js: Essential Concepts for Professional Web and REST API Development](https://dev.to/marmariadev/mastering-expressjs-essential-concepts-for-professional-web-and-rest-api-development-4664)
 - [Dev.to/JS] [Zik Analytics](https://dev.to/wsovn112/zik-analytics-30pp)
 - [Dev.to/JS] [Authenticate your React App with Appwrite](https://dev.to/arindam_1729/authenticate-your-react-app-with-appwrite-10bh)
 - [Dev.to/JS] [Mastering useEffect in React: Navigating Initial Render Challenges with useRef 🚀](https://dev.to/prathamisonline/mastering-useeffect-in-react-navigating-initial-render-challenges-with-useref-1ia6)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering JavaScript: A Comprehensive Guide to Essential Methods and Latest Features](https://dev.to/pinky057/mastering-javascript-a-comprehensive-guide-to-essential-methods-and-latest-features-2mj7)
 - [Dev.to/JS] [Buy verified Paxful Account](https://dev.to/floorsetcoftexas23/buy-verified-paxful-account-2hi)
 - [Dev.to/JS] [Making a font picker and text designer tool in only 40 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-font-picker-and-text-designer-tool-in-only-40-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-3l1d)
-- [Dev.to/JS] [Mastering Next.js 14: A Comprehensive Tutorial for Web Developers](https://dev.to/azizbergach/mastering-nextjs-14-a-comprehensive-tutorial-for-web-developers-3nd3)
-- [Dev.to/JS] [Beginner&#39;s TypeScript #6](https://dev.to/nhannguyendevjs/beginners-typescript-6-jn5)
-- [Dev.to/JS] [Sharing a state between windows without a serve](https://dev.to/notachraf/sharing-a-state-between-windows-without-a-serve-23an)
-- [Dev.to/JS] [Seamless User Authentication: Integration of AWS Cognito with HTML/CSS and JavaScript](https://dev.to/aws-builders/seamless-user-authentication-integration-of-aws-cognito-with-htmlcss-and-javascript-5255)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
 - [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
