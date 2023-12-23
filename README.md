@@ -26,10 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Tiny JS Library For Parsing Numbers From Words](https://dev.to/f3rno64/a-tiny-js-library-for-parsing-numbers-from-words-31fg)
+- [Dev.to/JS] [JavaScript Closures: Demystified](https://dev.to/muhd/javascript-closures-demystified-12dn)
+- [Lifehacker] [Read These Safety Tips Before Riding Your New E-bike](https://lifehacker.com/health/safety-tips-for-e-bikes)
 - [Dev.to/JS] [Episode 23/50: Zoneless without Signals, Roadmap, Signal Inputs](https://dev.to/this-is-angular/episode-2350-zoneless-without-signals-roadmap-signal-inputs-54o3)
 - [Dev.to/JS] [When for..of loop is preferred over forEach](https://dev.to/sharminalvandi_8/when-forof-loop-is-preferred-over-foreach-3e53)
 - [Lifehacker] [Use ‘Household’ Automations to Make Your Google Home Even Smarter](https://lifehacker.com/tech/google-home-automations-household-and-personal-routines)
-- [Dev.to/JS] [The 2038 Problem: Is Your Code 2038-Proof &amp; Will Time End?](https://dev.to/best_codes/the-2038-problem-is-your-code-2038-proof-aek)
+- [Dev.to/JS] [2038 Problems: Will Your Code Break in 2038?](https://dev.to/best_codes/the-2038-problem-is-your-code-2038-proof-aek)
 - [Lifehacker] [Why You Should Consider a Death Doula](https://lifehacker.com/what-does-a-death-doula-do)
 - [Lifehacker] [How to Design the Best Home Environment for Someone With Dementia](https://lifehacker.com/home-design-for-someone-with-dementia)
 - [Lifehacker] [How to Raise Kids Who Aren’t Self-Conscious About Their Appearance](https://lifehacker.com/how-to-raise-kids-who-are-not-self-conscious-about-appearance)
@@ -45,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte : Toji Fushiguro of Javascript Frameworks.](https://dev.to/kiritocode1/svelte-toji-fushiguro-of-javascript-frameworks-99k)
 - [Dev.to/JS] [Building A Crousal Maker Tool with NextJS ⭐](https://dev.to/random_ti/building-a-crousal-maker-tool-with-nextjs-4pd0)
 - [Lifehacker] [How to Fix a Room When the Paint Color is All Wrong](https://lifehacker.com/how-to-fix-a-room-when-the-paint-color-is-all-wrong)
-- [Dev.to/JS] [Efficient React Development: A Deep Dive into Components, Hooks, and Performance Optimization](https://dev.to/shahbaz17/efficient-react-development-a-deep-dive-into-components-hooks-and-performance-optimization-29j2)
 - [Lifehacker] [An Age-by-Age Guide to Helping Your Kid Get Over Stage Fright](https://lifehacker.com/age-by-age-guide-to-helping-kids-overcome-stage-fright)
-- [Dev.to/JS] [ABOUT AUTHOR &quot;Sardar Mudassar Ali Khan&quot;](https://dev.to/sardarmudassaralikhan/about-author-sardar-mudassar-ali-khan-26kl)
 - [Lifehacker] [The Best Way to Remove Old Wallpaper](https://lifehacker.com/how-to-remove-old-wallpaper)
 - [Lifehacker] [Is Choking During Sex Ever Really Safe?](https://lifehacker.com/is-choking-during-sex-safe)
 - [Lifehacker] [7 Home Improvement Projects You Can Source From the Dollar Store](https://lifehacker.com/home-improvement-projects-you-can-source-from-the-dollar-store)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Pick the Right Flooring for Each Room in Your Home](https://lifehacker.com/home/how-to-pick-the-right-flooring-for-each-room-in-your-home)
 - [Lifehacker] [Take These Steps to Spend Less Money Over the Holidays](https://lifehacker.com/money/how-to-avoid-overspending-during-the-holidays)
 - [Lifehacker] [How to Replace the Interior Light Bulbs in Your Car](https://lifehacker.com/travel/how-to-replace-interior-light-bulbs-in-your-car)
-- [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons for $150 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
-- [Lifehacker] [Don&#39;t Fall for This Instagram Copyright Infringement Scam](https://lifehacker.com/tech/dont-fall-for-this-instagram-copyright-infringement-scam)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons for $150 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)<!-- TECH-POSTS:END -->
 
 ---
 
