@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 23/50: Zoneless without Signals, Roadmap, Signal Inputs](https://dev.to/this-is-angular/episode-2350-zoneless-without-signals-roadmap-signal-inputs-54o3)
+- [Dev.to/JS] [When for..of loop is preferred over forEach](https://dev.to/sharminalvandi_8/when-forof-loop-is-preferred-over-foreach-3e53)
 - [Lifehacker] [Use ‘Household’ Automations to Make Your Google Home Even Smarter](https://lifehacker.com/tech/google-home-automations-household-and-personal-routines)
 - [Dev.to/JS] [The 2038 Problem: Is Your Code 2038-Proof &amp; Will Time End?](https://dev.to/best_codes/the-2038-problem-is-your-code-2038-proof-aek)
 - [Lifehacker] [Why You Should Consider a Death Doula](https://lifehacker.com/what-does-a-death-doula-do)
@@ -47,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-by-Age Guide to Helping Your Kid Get Over Stage Fright](https://lifehacker.com/age-by-age-guide-to-helping-kids-overcome-stage-fright)
 - [Dev.to/JS] [ABOUT AUTHOR &quot;Sardar Mudassar Ali Khan&quot;](https://dev.to/sardarmudassaralikhan/about-author-sardar-mudassar-ali-khan-26kl)
 - [Lifehacker] [The Best Way to Remove Old Wallpaper](https://lifehacker.com/how-to-remove-old-wallpaper)
-- [Dev.to/JS] [Parsing AWS AppSync Responses, Elm GraphQL Libraries, and Only Doing Front-End](https://dev.to/jesterxl/parsing-aws-appsync-responses-elm-graphql-libraries-and-only-doing-front-end-4di4)
-- [Dev.to/JS] [Get Paid To Complete Online Jobs and Easy Tasks No Experience!](https://dev.to/ajayraj/get-paid-to-complete-online-jobs-and-easy-tasks-no-experience-10b0)
 - [Lifehacker] [Is Choking During Sex Ever Really Safe?](https://lifehacker.com/is-choking-during-sex-safe)
 - [Lifehacker] [7 Home Improvement Projects You Can Source From the Dollar Store](https://lifehacker.com/home-improvement-projects-you-can-source-from-the-dollar-store)
 - [Lifehacker] [Why Selling Your Home to an iBuyer Is Almost Always a Bad Idea](https://lifehacker.com/selling-your-home-to-an-ibuyer-is-almost-always-a-bad-idea)
