@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sharing a state between windows without a serve](https://dev.to/notachraf/sharing-a-state-between-windows-without-a-serve-23an)
+- [Dev.to/JS] [Seamless User Authentication: Integration of AWS Cognito with HTML/CSS and JavaScript](https://dev.to/aws-builders/seamless-user-authentication-integration-of-aws-cognito-with-htmlcss-and-javascript-5255)
+- [Dev.to/JS] [Awai - Yet unmet JavaScript state management approach. Let&#39;s implement it together 😎](https://dev.to/yuriyyakym/awai-yet-unmet-javascript-state-management-approach-lets-implement-it-together-26if)
+- [Dev.to/JS] [HTML Demystified: Unraveling the Foundations of Web Development](https://dev.to/iamdoncarey/unveiling-html-the-bedrock-of-web-development-4nog)
+- [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
 - [Dev.to/JS] [Run Kafka Locally using Docker](https://dev.to/satyajitnayak/run-kafka-locally-using-docker-2p8d)
 - [Dev.to/JS] [Mais níveis de precedência e mais operadores](https://dev.to/lucas_ac_am/mais-niveis-de-precedencia-e-mais-operadores-j2d)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
@@ -35,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rebirth CBD Gummies Canada Reviews Fake or Real?](https://dev.to/rebirthcbdgummy/rebirth-cbd-gummies-canada-reviews-fake-or-real-2o7m)
 - [Dev.to/JS] [🌟 Unleashing React Code Splitting: The Epic Guide! 🚀](https://dev.to/prathamisonline/unleashing-react-code-splitting-the-epic-guide-14pm)
 - [Dev.to/JS] [🔐 Session-Based vs. Token-Based Authentication: Which is better?🤔](https://dev.to/fidalmathew/session-based-vs-token-based-authentication-which-is-better-227o)
-- [Dev.to/JS] [Issue in Ckeditor](https://dev.to/karthic2914/issue-in-ckeditor-2nio)
-- [Dev.to/JS] [The Art of Crafting Libraries 😓](https://dev.to/bikash9609/the-art-of-crafting-libraries-525j)
-- [Dev.to/JS] [Latest Newsletter: Nutritious Tech &lpar;Issue #146&rpar;](https://dev.to/mjgs/latest-newsletter-nutritious-tech-issue-146-19pj)
-- [Dev.to/JS] [Roast my Next npm package....](https://dev.to/elihood/roast-my-next-npm-package-12p3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-23-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-23-2023)
 - [Lifehacker] [Read These Safety Tips Before Riding Your New E-bike](https://lifehacker.com/health/safety-tips-for-e-bikes)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Overwhelmed Parents Can &lpar;and Should&rpar; Ask for Help](https://lifehacker.com/how-overwhelmed-parents-can-ask-for-help)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
-- [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
-- [Lifehacker] [How to Pick the Right Flooring for Each Room in Your Home](https://lifehacker.com/home/how-to-pick-the-right-flooring-for-each-room-in-your-home)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)<!-- TECH-POSTS:END -->
 
 ---
 
