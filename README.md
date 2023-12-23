@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Change process priority, Nodejs os.setPriority&lpar;&rpar; method](https://dev.to/wangliwen/change-process-priority-nodejs-ossetpriority-method-3o83)
+- [Dev.to/JS] [Về Chúng Tôi – Giới Thiệu Thông Tin Về Nhà Cái Zbet.com](https://dev.to/zbetscomco/ve-chung-toi-gioi-thieu-thong-tin-ve-nha-cai-zbetcom-319o)
 - [Dev.to/JS] [Created a new Repository for OneLink Social page maker.](https://dev.to/faisaldadkhan13/created-a-new-repository-for-onelink-social-page-maker-30bd)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-23-2023)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-23-2023)
 - [Dev.to/JS] [A Tiny JS Library For Parsing Numbers From Words](https://dev.to/f3rno64/a-tiny-js-library-for-parsing-numbers-from-words-31fg)
 - [Dev.to/JS] [JavaScript Closures: Demystified](https://dev.to/muhd/javascript-closures-demystified-12dn)
 - [Lifehacker] [Read These Safety Tips Before Riding Your New E-bike](https://lifehacker.com/health/safety-tips-for-e-bikes)
@@ -45,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Add a Raw Egg to Your Grits](https://lifehacker.com/add-a-raw-egg-to-grits)
 - [Dev.to/JS] [PokeData App](https://dev.to/turnmas35/pokedata-app-3flg)
 - [Lifehacker] [The Best Ways to Teach Your Kid to Tell Time](https://lifehacker.com/how-to-teach-your-kid-to-tell-time)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/showenejerolde/buy-google-5-star-reviews-4917)
-- [Dev.to/JS] [Svelte : Toji Fushiguro of Javascript Frameworks.](https://dev.to/kiritocode1/svelte-toji-fushiguro-of-javascript-frameworks-99k)
 - [Lifehacker] [How to Fix a Room When the Paint Color is All Wrong](https://lifehacker.com/how-to-fix-a-room-when-the-paint-color-is-all-wrong)
 - [Lifehacker] [An Age-by-Age Guide to Helping Your Kid Get Over Stage Fright](https://lifehacker.com/age-by-age-guide-to-helping-kids-overcome-stage-fright)
 - [Lifehacker] [The Best Way to Remove Old Wallpaper](https://lifehacker.com/how-to-remove-old-wallpaper)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)
 - [Lifehacker] [How to Set Up Your First Google Nest Mini](https://lifehacker.com/tech/how-to-set-up-a-google-nest-mini)
 - [Lifehacker] [How to Pick the Right Flooring for Each Room in Your Home](https://lifehacker.com/home/how-to-pick-the-right-flooring-for-each-room-in-your-home)
-- [Lifehacker] [Take These Steps to Spend Less Money Over the Holidays](https://lifehacker.com/money/how-to-avoid-overspending-during-the-holidays)
-- [Lifehacker] [How to Replace the Interior Light Bulbs in Your Car](https://lifehacker.com/travel/how-to-replace-interior-light-bulbs-in-your-car)
-- [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons for $150 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Take These Steps to Spend Less Money Over the Holidays](https://lifehacker.com/money/how-to-avoid-overspending-during-the-holidays)<!-- TECH-POSTS:END -->
 
 ---
 
