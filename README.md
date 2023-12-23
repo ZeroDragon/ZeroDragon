@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Latest Newsletter: Nutritious Tech &lpar;Issue #146&rpar;](https://dev.to/mjgs/latest-newsletter-nutritious-tech-issue-146-19pj)
 - [Dev.to/JS] [Roast my Next npm package....](https://dev.to/elihood/roast-my-next-npm-package-12p3)
 - [Dev.to/JS] [Demystifying Common JavaScript Pitfalls for Beginners in 2024](https://dev.to/mktheitguy/demystifying-common-javascript-pitfalls-for-beginners-in-2024-2egb)
 - [Dev.to/JS] [RabbitMQ Helper Package: Simplifying RabbitMQ Integration in Node.js](https://dev.to/aoyan107/rabbitmq-helper-package-simplifying-rabbitmq-integration-in-nodejs-1mh1)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Episode 23/50: Zoneless without Signals, Roadmap, Signal Inputs](https://dev.to/this-is-angular/episode-2350-zoneless-without-signals-roadmap-signal-inputs-54o3)
 - [Dev.to/JS] [When for..of loop is preferred over forEach](https://dev.to/sharminalvandi_8/when-forof-loop-is-preferred-over-foreach-3e53)
 - [Lifehacker] [Use ‘Household’ Automations to Make Your Google Home Even Smarter](https://lifehacker.com/tech/google-home-automations-household-and-personal-routines)
-- [Dev.to/JS] [2038 Problems: Will Your Code Break in 2038?](https://dev.to/best_codes/the-2038-problem-is-your-code-2038-proof-aek)
 - [Lifehacker] [Why You Should Consider a Death Doula](https://lifehacker.com/what-does-a-death-doula-do)
 - [Lifehacker] [How to Design the Best Home Environment for Someone With Dementia](https://lifehacker.com/home-design-for-someone-with-dementia)
 - [Lifehacker] [How to Raise Kids Who Aren’t Self-Conscious About Their Appearance](https://lifehacker.com/how-to-raise-kids-who-are-not-self-conscious-about-appearance)
