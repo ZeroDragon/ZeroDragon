@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Roast my Next npm package....](https://dev.to/elihood/roast-my-next-npm-package-12p3)
+- [Dev.to/JS] [Demystifying Common JavaScript Pitfalls for Beginners in 2024](https://dev.to/mktheitguy/demystifying-common-javascript-pitfalls-for-beginners-in-2024-2egb)
 - [Dev.to/JS] [RabbitMQ Helper Package: Simplifying RabbitMQ Integration in Node.js](https://dev.to/aoyan107/rabbitmq-helper-package-simplifying-rabbitmq-integration-in-nodejs-1mh1)
 - [Dev.to/JS] [The Fundamental Elements of a Powerful SEO Strategy in 2024](https://dev.to/go-techsolution/the-fundamental-elements-of-a-powerful-seo-strategy-in-2024-35o9)
 - [Dev.to/JS] [Change process priority, Nodejs os.setPriority&lpar;&rpar; method](https://dev.to/wangliwen/change-process-priority-nodejs-ossetpriority-method-3o83)
@@ -43,10 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Consider a Death Doula](https://lifehacker.com/what-does-a-death-doula-do)
 - [Lifehacker] [How to Design the Best Home Environment for Someone With Dementia](https://lifehacker.com/home-design-for-someone-with-dementia)
 - [Lifehacker] [How to Raise Kids Who Aren’t Self-Conscious About Their Appearance](https://lifehacker.com/how-to-raise-kids-who-are-not-self-conscious-about-appearance)
-- [Dev.to/JS] [6 Javascript array methods You missed in 2023](https://dev.to/kalashin1/all-the-new-javascript-array-methods-you-missed-in-2023-484g)
 - [Lifehacker] [Everything You Need to Know Before Buying a Ninja CREAMi](https://lifehacker.com/everything-to-know-before-buying-a-ninja-creami)
 - [Lifehacker] [How to Recognize the Signs of Childhood OCD &lpar;and Get Help&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-childhood-ocd)
-- [Dev.to/JS] [Fixing Fetch Waterfalls in React](https://dev.to/nikolovlazar/fixing-fetch-waterfalls-in-react-58g5)
 - [Lifehacker] [You Should Add a Raw Egg to Your Grits](https://lifehacker.com/add-a-raw-egg-to-grits)
 - [Lifehacker] [The Best Ways to Teach Your Kid to Tell Time](https://lifehacker.com/how-to-teach-your-kid-to-tell-time)
 - [Lifehacker] [How to Fix a Room When the Paint Color is All Wrong](https://lifehacker.com/how-to-fix-a-room-when-the-paint-color-is-all-wrong)
