@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Created a new Repository for OneLink Social page maker.](https://dev.to/faisaldadkhan13/created-a-new-repository-for-onelink-social-page-maker-30bd)
 - [Dev.to/JS] [A Tiny JS Library For Parsing Numbers From Words](https://dev.to/f3rno64/a-tiny-js-library-for-parsing-numbers-from-words-31fg)
 - [Dev.to/JS] [JavaScript Closures: Demystified](https://dev.to/muhd/javascript-closures-demystified-12dn)
 - [Lifehacker] [Read These Safety Tips Before Riding Your New E-bike](https://lifehacker.com/health/safety-tips-for-e-bikes)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Teach Your Kid to Tell Time](https://lifehacker.com/how-to-teach-your-kid-to-tell-time)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/showenejerolde/buy-google-5-star-reviews-4917)
 - [Dev.to/JS] [Svelte : Toji Fushiguro of Javascript Frameworks.](https://dev.to/kiritocode1/svelte-toji-fushiguro-of-javascript-frameworks-99k)
-- [Dev.to/JS] [Building A Crousal Maker Tool with NextJS ⭐](https://dev.to/random_ti/building-a-crousal-maker-tool-with-nextjs-4pd0)
 - [Lifehacker] [How to Fix a Room When the Paint Color is All Wrong](https://lifehacker.com/how-to-fix-a-room-when-the-paint-color-is-all-wrong)
 - [Lifehacker] [An Age-by-Age Guide to Helping Your Kid Get Over Stage Fright](https://lifehacker.com/age-by-age-guide-to-helping-kids-overcome-stage-fright)
 - [Lifehacker] [The Best Way to Remove Old Wallpaper](https://lifehacker.com/how-to-remove-old-wallpaper)
