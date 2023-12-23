@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s something that you can only do in java](https://dev.to/mrmonk/what-can-you-do-only-in-java-2m6h)
+- [Dev.to/JS] [Exploring the Power and Versatility of Visual Studio Code &lpar;VSCode&rpar;](https://dev.to/ofidohub/exploring-the-power-and-versatility-of-visual-studio-code-vscode-4b6i)
 - [Dev.to/JS] [Svelte journey | Bindings, Lifecycles, Stores](https://dev.to/chillyhill/svelte-journey-bindings-lifecycles-stores-4fe3)
 - [Dev.to/JS] [Rebirth CBD Gummies Canada Reviews Fake or Real?](https://dev.to/rebirthcbdgummy/rebirth-cbd-gummies-canada-reviews-fake-or-real-2o7m)
 - [Dev.to/JS] [🌟 Unleashing React Code Splitting: The Epic Guide! 🚀](https://dev.to/prathamisonline/unleashing-react-code-splitting-the-epic-guide-14pm)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Roast my Next npm package....](https://dev.to/elihood/roast-my-next-npm-package-12p3)
 - [Dev.to/JS] [Demystifying Common JavaScript Pitfalls for Beginners in 2024](https://dev.to/mktheitguy/demystifying-common-javascript-pitfalls-for-beginners-in-2024-2egb)
 - [Dev.to/JS] [RabbitMQ Helper Package: Simplifying RabbitMQ Integration in Node.js](https://dev.to/aoyan107/rabbitmq-helper-package-simplifying-rabbitmq-integration-in-nodejs-1mh1)
-- [Dev.to/JS] [The Fundamental Elements of a Powerful SEO Strategy in 2024](https://dev.to/go-techsolution/the-fundamental-elements-of-a-powerful-seo-strategy-in-2024-35o9)
-- [Dev.to/JS] [Change process priority, Nodejs os.setPriority&lpar;&rpar; method](https://dev.to/wangliwen/change-process-priority-nodejs-ossetpriority-method-3o83)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-23-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-23-2023)
 - [Lifehacker] [Read These Safety Tips Before Riding Your New E-bike](https://lifehacker.com/health/safety-tips-for-e-bikes)
