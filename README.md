@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The curious case of recursive and iterative processes](https://dev.to/rivea0/the-curious-case-of-recursive-and-iterative-processes-2db1)
+- [Dev.to/JS] [Healing &amp; Wellness Technology with AO Scan TechnologY](https://dev.to/solexlife/healing-wellness-technology-with-ao-scan-technology-a2i)
 - [Dev.to/JS] [Twilio TURN Server Alternative](https://dev.to/alakkadshaw/twilio-turn-server-alternative-290m)
 - [Dev.to/JS] [Building the Bubble Estimator Game: A JavaScript Project with SVG and Sound Effects](https://dev.to/piko/building-the-bubble-estimator-game-a-javascript-project-with-svg-and-sound-effects-akb)
 - [Dev.to/JS] [mua ahref](https://dev.to/wsovn112/mua-ahref-23el)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Signals In React | Catching up with the latest trends](https://dev.to/davidkohen/signals-in-react-294b)
 - [Dev.to/JS] [Mastering the While Loop in JavaScript](https://dev.to/shawn2208/mastering-the-while-loop-in-javascript-4ddj)
 - [Dev.to/JS] [Mastering JavaScript: A Comprehensive Guide to Essential Methods and Latest Features](https://dev.to/pinky057/mastering-javascript-a-comprehensive-guide-to-essential-methods-and-latest-features-2mj7)
-- [Dev.to/JS] [Buy verified Paxful Account](https://dev.to/floorsetcoftexas23/buy-verified-paxful-account-2hi)
-- [Dev.to/JS] [Making a font picker and text designer tool in only 40 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-font-picker-and-text-designer-tool-in-only-40-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-3l1d)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
 - [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
