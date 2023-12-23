@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔐 Session-Based vs. Token-Based Authentication: Which is better?🤔](https://dev.to/fidalmathew/session-based-vs-token-based-authentication-which-is-better-227o)
 - [Dev.to/JS] [Issue in Ckeditor](https://dev.to/karthic2914/issue-in-ckeditor-2nio)
 - [Dev.to/JS] [The Art of Crafting Libraries](https://dev.to/bikash9609/the-art-of-crafting-libraries-525j)
 - [Dev.to/JS] [Latest Newsletter: Nutritious Tech &lpar;Issue #146&rpar;](https://dev.to/mjgs/latest-newsletter-nutritious-tech-issue-146-19pj)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-23-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-23-2023)
 - [Dev.to/JS] [A Tiny JS Library For Parsing Numbers From Words](https://dev.to/f3rno64/a-tiny-js-library-for-parsing-numbers-from-words-31fg)
-- [Dev.to/JS] [JavaScript Closures: Demystified](https://dev.to/muhd/javascript-closures-demystified-12dn)
 - [Lifehacker] [Read These Safety Tips Before Riding Your New E-bike](https://lifehacker.com/health/safety-tips-for-e-bikes)
 - [Lifehacker] [Use ‘Household’ Automations to Make Your Google Home Even Smarter](https://lifehacker.com/tech/google-home-automations-household-and-personal-routines)
 - [Lifehacker] [Why You Should Consider a Death Doula](https://lifehacker.com/what-does-a-death-doula-do)
