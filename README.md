@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript: A Comprehensive Guide to Essential Methods and Latest Features](https://dev.to/pinky057/mastering-javascript-a-comprehensive-guide-to-essential-methods-and-latest-features-2mj7)
+- [Dev.to/JS] [Buy verified Paxful Account](https://dev.to/floorsetcoftexas23/buy-verified-paxful-account-2hi)
 - [Dev.to/JS] [Making a font picker and text designer tool in only 40 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-font-picker-and-text-designer-tool-in-only-40-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-3l1d)
 - [Dev.to/JS] [Mastering Next.js 14: A Comprehensive Tutorial for Web Developers](https://dev.to/azizbergach/mastering-nextjs-14-a-comprehensive-tutorial-for-web-developers-3nd3)
 - [Dev.to/JS] [Beginner&#39;s TypeScript #6](https://dev.to/nhannguyendevjs/beginners-typescript-6-jn5)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mais níveis de precedência e mais operadores](https://dev.to/lucas_ac_am/mais-niveis-de-precedencia-e-mais-operadores-j2d)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
 - [Dev.to/JS] [What&#39;s something that you can only do in java](https://dev.to/mrmonk/what-can-you-do-only-in-java-2m6h)
-- [Dev.to/JS] [Exploring the Power and Versatility of Visual Studio Code &lpar;VSCode&rpar;](https://dev.to/ofidohub/exploring-the-power-and-versatility-of-visual-studio-code-vscode-4b6i)
-- [Dev.to/JS] [Svelte journey | Bindings, Lifecycles, Stores](https://dev.to/chillyhill/svelte-journey-bindings-lifecycles-stores-4fe3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-23-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-23-2023)
 - [Lifehacker] [Read These Safety Tips Before Riding Your New E-bike](https://lifehacker.com/health/safety-tips-for-e-bikes)
