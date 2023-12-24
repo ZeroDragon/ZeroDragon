@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Powerful Node.JS CLI Time Tracker ⏱️🚀](https://dev.to/f3rno64/a-powerful-nodejs-cli-time-tracker-1fb0)
+- [Dev.to/JS] [Making a 90s aesthetic word art text picker in only 20 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-90s-aesthetic-word-art-text-picker-in-only-20-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-2oi8)
+- [Dev.to/JS] [APICache: free API performance and caching service](https://dev.to/ronnieaban/apicache-free-api-performance-and-caching-service-2611)
 - [Dev.to/JS] [La Evolución de JavaScript: La Importancia de let y const](https://dev.to/soyclaradev/la-evolucion-de-javascript-la-importancia-de-let-y-const-1k3p)
 - [Dev.to/JS] [Dominando Variables y Tipos de Datos en JavaScript: Una Guía Práctica](https://dev.to/soyclaradev/dominando-variables-y-tipos-de-datos-en-javascript-una-guia-practica-166)
 - [Dev.to/JS] [Buffered vs Streaming Data Transfer](https://dev.to/umakantv/buffered-vs-streaming-data-transfer-5a4b)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dominando JavaScript: Guía para Profundizar en el Lenguaje de la Web](https://dev.to/soyclaradev/dominando-javascript-guia-para-profundizar-en-el-lenguaje-de-la-web-373e)
 - [Dev.to/JS] [Claves para Dominar JavaScript como Full-Stack Developer en la Industria Tecnológica](https://dev.to/soyclaradev/claves-para-dominar-javascript-como-full-stack-developer-en-la-industria-tecnologica-4dl)
 - [Dev.to/JS] [Rust 🦀: Why JS devs are switching to it?](https://dev.to/bhavesh_yadav/rust-a-comprehensive-guide-for-javascript-developers-55jm)
-- [Dev.to/JS] [Code Smell 235 - Console Side Effects](https://dev.to/mcsee/code-smell-235-console-side-effects-3obg)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/jerolderfrinker/buy-verified-cash-app-account-1p1i)
-- [Dev.to/JS] [Introduction To Javascript](https://dev.to/ukana/introduction-to-javascript-5dcp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
