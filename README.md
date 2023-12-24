@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizing Your JavaScript: Best Practices Every Developer Should Know!!](https://dev.to/big_smoke/optimizing-your-javascript-best-practices-every-developer-should-know-4o4n)
 - [Dev.to/JS] [JavaScript est un Langage de Programmation](https://dev.to/tonux_samb/javascript-est-un-langage-de-programmation-5fk5)
 - [Dev.to/JS] [does coconut oil whiten teeth](https://dev.to/freakabouthealth/does-coconut-oil-whiten-teeth-27fe)
 - [Dev.to/JS] [How we create an open-source alternative to v0.dev. But highly customizable and live in your Github.](https://dev.to/yuyz0112/how-we-create-an-open-source-alternative-to-v0dev-but-highly-customizable-and-live-in-your-github-hei)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Dev.to/JS] [How to profile your multi-threaded python production code programmatically](https://dev.to/oryaacov/how-to-profile-your-multi-threaded-running-python-code-programmatically-collect-periodically-and-analyze-the-results-5fh3)
 - [Dev.to/JS] [Buscador y filtrado de productos en Javascript](https://dev.to/pabmchn/buscador-y-filtrado-de-productos-en-javascript-45h1)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Twilio TURN Server Alternative](https://dev.to/alakkadshaw/twilio-turn-server-alternative-290m)
 - [Dev.to/JS] [Building the Bubble Estimator Game: A JavaScript Project with SVG and Sound Effects](https://dev.to/piko/building-the-bubble-estimator-game-a-javascript-project-with-svg-and-sound-effects-akb)
 - [Dev.to/JS] [mua ahref](https://dev.to/wsovn112/mua-ahref-23el)
-- [Dev.to/JS] [Mastering Express.js: Essential Concepts for Professional Web and REST API Development](https://dev.to/marmariadev/mastering-expressjs-essential-concepts-for-professional-web-and-rest-api-development-4664)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
 - [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Four Types of Bad Bosses &lpar;and How to Deal With Each One&rpar;](https://lifehacker.com/four-types-of-bad-bosses)
 - [Lifehacker] [How to Actually Pronounce &#39;Worcestershire,&#39; &#39;Açaí,&#39; and Other Commonly Mispronounced Words](https://lifehacker.com/how-to-pronounce-worcestershire)
 - [Lifehacker] [Declare &#39;Email Amnesty&#39; to Achieve Inbox Zero](https://lifehacker.com/achieve-inbox-zero)
-- [Lifehacker] [How Overwhelmed Parents Can &lpar;and Should&rpar; Ask for Help](https://lifehacker.com/how-overwhelmed-parents-can-ask-for-help)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Overwhelmed Parents Can &lpar;and Should&rpar; Ask for Help](https://lifehacker.com/how-overwhelmed-parents-can-ask-for-help)<!-- TECH-POSTS:END -->
 
 ---
 
