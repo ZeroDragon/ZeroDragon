@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ONLINE TASKIZO - EASY EARNING](https://dev.to/onlinetaskizo/online-taskizo-easy-earning-dj0)
+- [Dev.to/JS] [CodePen Home Three Dots - CSS loading animations made with single element](https://dev.to/sureshnarayanan/codepen-home-three-dots-css-loading-animations-made-with-single-element-53li)
+- [Dev.to/JS] [Angular HTTP Interceptors](https://dev.to/godinhojoao/angular-http-interceptors-3nfe)
 - [Dev.to/JS] [Show a toolbar after selecting text in a text area](https://dev.to/phuocng/show-a-toolbar-after-selecting-text-in-a-text-area-11c7)
 - [Dev.to/JS] [Make a text area fit its content automatically](https://dev.to/phuocng/make-a-text-area-fit-its-content-automatically-5ke)
 - [Dev.to/JS] [Rive: Better collaboration between designers and developers on interactive animations?](https://dev.to/mandrasch/rive-better-collaboration-between-designers-and-developers-on-interactive-animations-8em)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Features - overview MOD-CSS 3x](https://dev.to/dev_geos/new-features-overview-mod-css-3x-1dlm)
 - [Dev.to/JS] [#JavaScriptmas 2023 Day 19 to 24](https://dev.to/aishwaryamali24/javascriptmas-2023-day-19-to-24-183)
 - [Dev.to/JS] [Navigating the Front-End Landscape: Why Vue.js Stands Out?](https://dev.to/ymir/navigating-the-front-end-landscape-why-vuejs-stands-out-11mc)
-- [Dev.to/JS] [Understanding Array Mapping in JavaScript](https://dev.to/pinky057/understanding-array-mapping-in-javascript-pah)
-- [Dev.to/JS] [A better Back-end Architecture Design fast approach. Part - 1 | Shahin Islam Arpon](https://dev.to/a4arpon/a-better-back-end-architecture-design-fast-approach-part-1-shahin-islam-arpon-4eii)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/lonnytrentone74/buy-verified-cash-app-account-2j0b)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
