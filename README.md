@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Show a toolbar after selecting text in a text area](https://dev.to/phuocng/show-a-toolbar-after-selecting-text-in-a-text-area-11c7)
+- [Dev.to/JS] [Make a text area fit its content automatically](https://dev.to/phuocng/make-a-text-area-fit-its-content-automatically-5ke)
+- [Dev.to/JS] [Rive: Better collaboration between designers and developers on interactive animations?](https://dev.to/mandrasch/rive-better-collaboration-between-designers-and-developers-on-interactive-animations-8em)
 - [Dev.to/JS] [COUNT DOWN | USING HTML &amp; CSS](https://dev.to/sureshnarayanan/count-down-using-html-css-55l)
 - [Dev.to/JS] [Christmas Whishes !!!](https://dev.to/sureshnarayanan/christmas-whishes--4gpl)
 - [Dev.to/JS] [Christmas Animated Card](https://dev.to/sureshnarayanan/christmas-animated-card-2mp9)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Array Mapping in JavaScript](https://dev.to/pinky057/understanding-array-mapping-in-javascript-pah)
 - [Dev.to/JS] [A better Back-end Architecture Design fast approach. Part - 1 | Shahin Islam Arpon](https://dev.to/a4arpon/a-better-back-end-architecture-design-fast-approach-part-1-shahin-islam-arpon-4eii)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/lonnytrentone74/buy-verified-cash-app-account-2j0b)
-- [Dev.to/JS] [Optimizing Your JavaScript: Best Practices Every Developer Should Know!!](https://dev.to/big_smoke/optimizing-your-javascript-best-practices-every-developer-should-know-4o4n)
-- [Dev.to/JS] [JavaScript est un Langage de Programmation](https://dev.to/tonux_samb/javascript-est-un-langage-de-programmation-5fk5)
-- [Dev.to/JS] [does coconut oil whiten teeth](https://dev.to/freakabouthealth/does-coconut-oil-whiten-teeth-27fe)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
