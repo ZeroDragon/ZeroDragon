@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to profile your multi-threaded running python code programmatically, collect periodically and analyze the results](https://dev.to/oryaacov/how-to-profile-your-multi-threaded-running-python-code-programmatically-collect-periodically-and-analyze-the-results-5fh3)
+- [Dev.to/JS] [How to profile your multi-threaded python production code programmatically](https://dev.to/oryaacov/how-to-profile-your-multi-threaded-running-python-code-programmatically-collect-periodically-and-analyze-the-results-5fh3)
 - [Dev.to/JS] [Buscador y filtrado de productos en Javascript](https://dev.to/pabmchn/buscador-y-filtrado-de-productos-en-javascript-45h1)
 - [Dev.to/JS] [How to write a custom ESLint rule in 19 lines of code](https://dev.to/bharatkalluri/how-to-write-a-custom-eslint-rule-in-19-lines-of-code-8ih)
 - [Dev.to/JS] [The curious case of recursive and iterative processes](https://dev.to/rivea0/the-curious-case-of-recursive-and-iterative-processes-2db1)
