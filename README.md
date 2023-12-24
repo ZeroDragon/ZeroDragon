@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How we create an open-source alternative to v0.dev. But highly customizable and live in your Github.](https://dev.to/yuyz0112/how-we-create-an-open-source-alternative-to-v0dev-but-highly-customizable-and-live-in-your-github-hei)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Dev.to/JS] [How to profile your multi-threaded python production code programmatically](https://dev.to/oryaacov/how-to-profile-your-multi-threaded-running-python-code-programmatically-collect-periodically-and-analyze-the-results-5fh3)
 - [Dev.to/JS] [Buscador y filtrado de productos en Javascript](https://dev.to/pabmchn/buscador-y-filtrado-de-productos-en-javascript-45h1)
 - [Dev.to/JS] [How to write a custom ESLint rule in 19 lines of code](https://dev.to/bharatkalluri/how-to-write-a-custom-eslint-rule-in-19-lines-of-code-8ih)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Express.js: Essential Concepts for Professional Web and REST API Development](https://dev.to/marmariadev/mastering-expressjs-essential-concepts-for-professional-web-and-rest-api-development-4664)
 - [Dev.to/JS] [Zik Analytics](https://dev.to/wsovn112/zik-analytics-30pp)
 - [Dev.to/JS] [Authenticate your React App with Appwrite](https://dev.to/arindam_1729/authenticate-your-react-app-with-appwrite-10bh)
-- [Dev.to/JS] [Mastering useEffect in React: Navigating Initial Render Challenges with useRef 🚀](https://dev.to/prathamisonline/mastering-useeffect-in-react-navigating-initial-render-challenges-with-useref-1ia6)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
 - [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Actually Pronounce &#39;Worcestershire,&#39; &#39;Açaí,&#39; and Other Commonly Mispronounced Words](https://lifehacker.com/how-to-pronounce-worcestershire)
 - [Lifehacker] [Declare &#39;Email Amnesty&#39; to Achieve Inbox Zero](https://lifehacker.com/achieve-inbox-zero)
 - [Lifehacker] [How Overwhelmed Parents Can &lpar;and Should&rpar; Ask for Help](https://lifehacker.com/how-overwhelmed-parents-can-ask-for-help)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-22-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 22, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-22-2023)<!-- TECH-POSTS:END -->
 
 ---
 
