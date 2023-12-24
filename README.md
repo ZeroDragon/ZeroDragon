@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [La Evolución de JavaScript: La Importancia de let y const](https://dev.to/soyclaradev/la-evolucion-de-javascript-la-importancia-de-let-y-const-1k3p)
+- [Dev.to/JS] [Dominando Variables y Tipos de Datos en JavaScript: Una Guía Práctica](https://dev.to/soyclaradev/dominando-variables-y-tipos-de-datos-en-javascript-una-guia-practica-166)
 - [Dev.to/JS] [Buffered vs Streaming Data Transfer](https://dev.to/umakantv/buffered-vs-streaming-data-transfer-5a4b)
 - [Dev.to/JS] [Spin Rewriter](https://dev.to/wsovn112/spin-rewriter-15k3)
 - [Dev.to/JS] [Christmas offer free gift card play and win](https://dev.to/hidearfriends6/christmas-offer-free-gift-card-play-and-win-18k8)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 235 - Console Side Effects](https://dev.to/mcsee/code-smell-235-console-side-effects-3obg)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/jerolderfrinker/buy-verified-cash-app-account-1p1i)
 - [Dev.to/JS] [Introduction To Javascript](https://dev.to/ukana/introduction-to-javascript-5dcp)
-- [Dev.to/JS] [Earn Money Easy Task Complete Just Visit](https://dev.to/paisakameo/earn-money-easy-task-complete-just-visit-d52)
-- [Dev.to/JS] [How to Update NPM Packages:](https://dev.to/ashwan_lal/how-to-update-npm-packages-41aa)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
