@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Array Mapping in JavaScript](https://dev.to/pinky057/understanding-array-mapping-in-javascript-pah)
+- [Dev.to/JS] [A better Back-end Architecture Design fast approach. Part - 1 | Shahin Islam Arpon](https://dev.to/a4arpon/a-better-back-end-architecture-design-fast-approach-part-1-shahin-islam-arpon-4eii)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/lonnytrentone74/buy-verified-cash-app-account-2j0b)
 - [Dev.to/JS] [Optimizing Your JavaScript: Best Practices Every Developer Should Know!!](https://dev.to/big_smoke/optimizing-your-javascript-best-practices-every-developer-should-know-4o4n)
 - [Dev.to/JS] [JavaScript est un Langage de Programmation](https://dev.to/tonux_samb/javascript-est-un-langage-de-programmation-5fk5)
 - [Dev.to/JS] [does coconut oil whiten teeth](https://dev.to/freakabouthealth/does-coconut-oil-whiten-teeth-27fe)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to write a custom ESLint rule in 19 lines of code](https://dev.to/bharatkalluri/how-to-write-a-custom-eslint-rule-in-19-lines-of-code-8ih)
 - [Dev.to/JS] [The curious case of recursive and iterative processes](https://dev.to/rivea0/the-curious-case-of-recursive-and-iterative-processes-2db1)
 - [Dev.to/JS] [Healing &amp; Wellness Technology with AO Scan TechnologY](https://dev.to/solexlife/healing-wellness-technology-with-ao-scan-technology-a2i)
-- [Dev.to/JS] [Twilio TURN Server Alternative](https://dev.to/alakkadshaw/twilio-turn-server-alternative-290m)
-- [Dev.to/JS] [Building the Bubble Estimator Game: A JavaScript Project with SVG and Sound Effects](https://dev.to/piko/building-the-bubble-estimator-game-a-javascript-project-with-svg-and-sound-effects-akb)
-- [Dev.to/JS] [mua ahref](https://dev.to/wsovn112/mua-ahref-23el)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
 - [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
