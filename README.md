@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript est un Langage de Programmation](https://dev.to/tonux_samb/javascript-est-un-langage-de-programmation-5fk5)
 - [Dev.to/JS] [does coconut oil whiten teeth](https://dev.to/freakabouthealth/does-coconut-oil-whiten-teeth-27fe)
 - [Dev.to/JS] [How we create an open-source alternative to v0.dev. But highly customizable and live in your Github.](https://dev.to/yuyz0112/how-we-create-an-open-source-alternative-to-v0dev-but-highly-customizable-and-live-in-your-github-hei)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building the Bubble Estimator Game: A JavaScript Project with SVG and Sound Effects](https://dev.to/piko/building-the-bubble-estimator-game-a-javascript-project-with-svg-and-sound-effects-akb)
 - [Dev.to/JS] [mua ahref](https://dev.to/wsovn112/mua-ahref-23el)
 - [Dev.to/JS] [Mastering Express.js: Essential Concepts for Professional Web and REST API Development](https://dev.to/marmariadev/mastering-expressjs-essential-concepts-for-professional-web-and-rest-api-development-4664)
-- [Dev.to/JS] [Zik Analytics](https://dev.to/wsovn112/zik-analytics-30pp)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
 - [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
