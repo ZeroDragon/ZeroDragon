@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [COUNT DOWN | USING HTML &amp; CSS](https://dev.to/sureshnarayanan/count-down-using-html-css-55l)
+- [Dev.to/JS] [Christmas Whishes !!!](https://dev.to/sureshnarayanan/christmas-whishes--4gpl)
+- [Dev.to/JS] [Christmas Animated Card](https://dev.to/sureshnarayanan/christmas-animated-card-2mp9)
+- [Dev.to/JS] [New Features - overview MOD-CSS 3x](https://dev.to/dev_geos/new-features-overview-mod-css-3x-1dlm)
+- [Dev.to/JS] [#JavaScriptmas 2023 Day 19 to 24](https://dev.to/aishwaryamali24/javascriptmas-2023-day-19-to-24-183)
 - [Dev.to/JS] [Navigating the Front-End Landscape: Why Vue.js Stands Out?](https://dev.to/ymir/navigating-the-front-end-landscape-why-vuejs-stands-out-11mc)
 - [Dev.to/JS] [Understanding Array Mapping in JavaScript](https://dev.to/pinky057/understanding-array-mapping-in-javascript-pah)
 - [Dev.to/JS] [A better Back-end Architecture Design fast approach. Part - 1 | Shahin Islam Arpon](https://dev.to/a4arpon/a-better-back-end-architecture-design-fast-approach-part-1-shahin-islam-arpon-4eii)
@@ -33,13 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing Your JavaScript: Best Practices Every Developer Should Know!!](https://dev.to/big_smoke/optimizing-your-javascript-best-practices-every-developer-should-know-4o4n)
 - [Dev.to/JS] [JavaScript est un Langage de Programmation](https://dev.to/tonux_samb/javascript-est-un-langage-de-programmation-5fk5)
 - [Dev.to/JS] [does coconut oil whiten teeth](https://dev.to/freakabouthealth/does-coconut-oil-whiten-teeth-27fe)
-- [Dev.to/JS] [How we create an open-source alternative to v0.dev. But highly customizable and live in your Github.](https://dev.to/yuyz0112/how-we-create-an-open-source-alternative-to-v0dev-but-highly-customizable-and-live-in-your-github-hei)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
-- [Dev.to/JS] [How to profile your multi-threaded python production code programmatically](https://dev.to/oryaacov/how-to-profile-your-multi-threaded-running-python-code-programmatically-collect-periodically-and-analyze-the-results-5fh3)
-- [Dev.to/JS] [Buscador y filtrado de productos en Javascript](https://dev.to/pabmchn/buscador-y-filtrado-de-productos-en-javascript-45h1)
-- [Dev.to/JS] [How to write a custom ESLint rule in 19 lines of code](https://dev.to/bharatkalluri/how-to-write-a-custom-eslint-rule-in-19-lines-of-code-8ih)
-- [Dev.to/JS] [The curious case of recursive and iterative processes](https://dev.to/rivea0/the-curious-case-of-recursive-and-iterative-processes-2db1)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
 - [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
