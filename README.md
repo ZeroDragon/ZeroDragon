@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Caveat of using javascript Date object constructor](https://dev.to/idrisakintobi/caveat-of-using-javascript-date-object-constructor-4k09)
+- [Dev.to/JS] [JavaScript/Typescript is here to conquer](https://dev.to/themuneebh/javascripttypescript-is-here-to-conquer-4kfc)
 - [Dev.to/JS] [ONLINE TASKIZO - EASY EARNING](https://dev.to/onlinetaskizo/online-taskizo-easy-earning-dj0)
 - [Dev.to/JS] [CodePen Home Three Dots - CSS loading animations made with single element](https://dev.to/sureshnarayanan/codepen-home-three-dots-css-loading-animations-made-with-single-element-53li)
 - [Dev.to/JS] [Angular HTTP Interceptors](https://dev.to/godinhojoao/angular-http-interceptors-3nfe)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Christmas Whishes !!!](https://dev.to/sureshnarayanan/christmas-whishes--4gpl)
 - [Dev.to/JS] [Christmas Animated Card](https://dev.to/sureshnarayanan/christmas-animated-card-2mp9)
 - [Dev.to/JS] [New Features - overview MOD-CSS 3x](https://dev.to/dev_geos/new-features-overview-mod-css-3x-1dlm)
-- [Dev.to/JS] [#JavaScriptmas 2023 Day 19 to 24](https://dev.to/aishwaryamali24/javascriptmas-2023-day-19-to-24-183)
-- [Dev.to/JS] [Navigating the Front-End Landscape: Why Vue.js Stands Out?](https://dev.to/ymir/navigating-the-front-end-landscape-why-vuejs-stands-out-11mc)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
