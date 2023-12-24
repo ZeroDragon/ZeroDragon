@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Retrospective 2023](https://dev.to/dionarodrigues/retrospective-2023-387h)
+- [Dev.to/JS] [Mirage Maintenance](https://dev.to/rmion/mirage-maintenance-3b5f)
 - [Dev.to/JS] [Javascript Beginner&#39;s Guide](https://dev.to/devrudra9/javascript-beginners-guide-2laa)
 - [Dev.to/JS] [JavaScript Just Changed Forever](https://dev.to/aarvinr/javascript-just-changed-forever-with-bun-bpj)
 - [Dev.to/JS] [A Powerful Node.JS CLI Time Tracker ⏱️🚀](https://dev.to/f3rno64/a-powerful-nodejs-cli-time-tracker-1fb0)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buffered vs Streaming Data Transfer](https://dev.to/umakantv/buffered-vs-streaming-data-transfer-5a4b)
 - [Dev.to/JS] [Spin Rewriter](https://dev.to/wsovn112/spin-rewriter-15k3)
 - [Dev.to/JS] [Christmas offer free gift card play and win](https://dev.to/hidearfriends6/christmas-offer-free-gift-card-play-and-win-18k8)
-- [Dev.to/JS] [Fundamentos Esenciales de JavaScript: Construyendo una Base Sólida](https://dev.to/soyclaradev/fundamentos-esenciales-de-javascript-construyendo-una-base-solida-18ak)
-- [Dev.to/JS] [Dominando JavaScript: Guía para Profundizar en el Lenguaje de la Web](https://dev.to/soyclaradev/dominando-javascript-guia-para-profundizar-en-el-lenguaje-de-la-web-373e)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
