@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buffered vs Streaming Data Transfer](https://dev.to/umakantv/buffered-vs-streaming-data-transfer-5a4b)
+- [Dev.to/JS] [Spin Rewriter](https://dev.to/wsovn112/spin-rewriter-15k3)
+- [Dev.to/JS] [Christmas offer free gift card play and win](https://dev.to/hidearfriends6/christmas-offer-free-gift-card-play-and-win-18k8)
+- [Dev.to/JS] [Fundamentos Esenciales de JavaScript: Construyendo una Base Sólida](https://dev.to/soyclaradev/fundamentos-esenciales-de-javascript-construyendo-una-base-solida-18ak)
+- [Dev.to/JS] [Dominando JavaScript: Guía para Profundizar en el Lenguaje de la Web](https://dev.to/soyclaradev/dominando-javascript-guia-para-profundizar-en-el-lenguaje-de-la-web-373e)
 - [Dev.to/JS] [Claves para Dominar JavaScript como Full-Stack Developer en la Industria Tecnológica](https://dev.to/soyclaradev/claves-para-dominar-javascript-como-full-stack-developer-en-la-industria-tecnologica-4dl)
 - [Dev.to/JS] [Rust 🦀: Why JS devs are switching to it?](https://dev.to/bhavesh_yadav/rust-a-comprehensive-guide-for-javascript-developers-55jm)
 - [Dev.to/JS] [Code Smell 235 - Console Side Effects](https://dev.to/mcsee/code-smell-235-console-side-effects-3obg)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction To Javascript](https://dev.to/ukana/introduction-to-javascript-5dcp)
 - [Dev.to/JS] [Earn Money Easy Task Complete Just Visit](https://dev.to/paisakameo/earn-money-easy-task-complete-just-visit-d52)
 - [Dev.to/JS] [How to Update NPM Packages:](https://dev.to/ashwan_lal/how-to-update-npm-packages-41aa)
-- [Dev.to/JS] [5 Ways to Instantly Optimize Your React Application](https://dev.to/ryver_dev/5-ways-to-instantly-optimize-your-react-application-5fii)
-- [Dev.to/JS] [GraphQl with Apollo Server and usage of Query, Aliases,Arguments, Fragments &lpar;Part 2&rpar;](https://dev.to/ganeshyadav3142/graphql-with-apollo-server-and-usage-of-query-aliasesarguments-fragments-part-2-9f9)
-- [Dev.to/JS] [How to create COPY TO CLIPBOARD BUTTON for url of webpage](https://dev.to/immodded/how-to-create-copy-to-clipboard-button-for-url-of-webpage-446p)
-- [Dev.to/JS] [Understanding JavaScript Iterables](https://dev.to/elaoqby/understanding-javascript-iterables-jen)
-- [Dev.to/JS] [JavaScript Break and Continue Statements](https://dev.to/elaoqby/javascript-break-and-continue-statements-2od6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
