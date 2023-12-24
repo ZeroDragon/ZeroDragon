@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to profile your multi-threaded running python code programmatically, collect periodically and analyze the results](https://dev.to/oryaacov/how-to-profile-your-multi-threaded-running-python-code-programmatically-collect-periodically-and-analyze-the-results-5fh3)
 - [Dev.to/JS] [Buscador y filtrado de productos en Javascript](https://dev.to/pabmchn/buscador-y-filtrado-de-productos-en-javascript-45h1)
 - [Dev.to/JS] [How to write a custom ESLint rule in 19 lines of code](https://dev.to/bharatkalluri/how-to-write-a-custom-eslint-rule-in-19-lines-of-code-8ih)
 - [Dev.to/JS] [The curious case of recursive and iterative processes](https://dev.to/rivea0/the-curious-case-of-recursive-and-iterative-processes-2db1)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zik Analytics](https://dev.to/wsovn112/zik-analytics-30pp)
 - [Dev.to/JS] [Authenticate your React App with Appwrite](https://dev.to/arindam_1729/authenticate-your-react-app-with-appwrite-10bh)
 - [Dev.to/JS] [Mastering useEffect in React: Navigating Initial Render Challenges with useRef 🚀](https://dev.to/prathamisonline/mastering-useeffect-in-react-navigating-initial-render-challenges-with-useref-1ia6)
-- [Dev.to/JS] [Signals In React | Catching up with the latest trends](https://dev.to/davidkohen/signals-in-react-294b)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
 - [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
