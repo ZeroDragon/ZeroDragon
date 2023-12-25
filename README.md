@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Array Hacks: Deleting Elements Like a Pro](https://dev.to/amritapadhy/javascript-array-hacks-deleting-elements-like-a-pro-458h)
+- [Dev.to/JS] [Teeth cleaning dubai price : American Medical Dental Center](https://dev.to/americanmdcenter/teeth-cleaning-dubai-price-american-medical-dental-center-1j0h)
 - [Dev.to/JS] [Real-time updates in Vue apps with Polling](https://dev.to/jacobandrewsky/real-time-updates-in-vue-apps-with-polling-35eg)
 - [Dev.to/JS] [Meijer Hours on Christmas Eve 2023: Your Ultimate Guide to Festive Shopping](https://dev.to/sh3106177777/meijer-hours-on-christmas-eve-2023-your-ultimate-guide-to-festive-shopping-59b4)
 - [Dev.to/JS] [Build a simple code editor](https://dev.to/phuocng/build-a-simple-code-editor-5gk7)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building tiny-localstorage-db: A Lightweight Local Database for Browser Storage](https://dev.to/agarwalnitesh42/building-tiny-localstorage-db-a-lightweight-local-database-for-browser-storage-1jhm)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/jemespeter974/buy-verified-cash-app-account-4e1f)
 - [Dev.to/JS] [Focus on your mеntal and еmotional sidе to gain sеlf improvеmеnt](https://dev.to/seena09877/focus-on-your-miental-and-iemotional-sidie-to-gain-sielf-improviemient-1j55)
-- [Dev.to/JS] [Basics of Typescript](https://dev.to/ayyanaruto/basics-of-typescript-29nf)
-- [Dev.to/JS] [Wedding Anniversary Wishes to Husband from Wife:](https://dev.to/bestwishes2024/wedding-anniversary-wishes-to-husband-from-wife-5hae)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
