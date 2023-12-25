@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JOYSON, CBOR, BSON, JSON - Advanced Data Serialization](https://dev.to/vipert/joyson-cbor-bson-json-advanced-data-serialization-1m0l)
+- [Dev.to/JS] [JOYSON - Advanced Data Serialization In JavaScript](https://dev.to/vipert/joyson-advanced-data-serialization-in-javascript-4fc)
 - [Dev.to/JS] [Retrospective 2023](https://dev.to/dionarodrigues/retrospective-2023-387h)
 - [Dev.to/JS] [Mirage Maintenance](https://dev.to/rmion/mirage-maintenance-3b5f)
 - [Dev.to/JS] [Javascript Beginner&#39;s Guide](https://dev.to/devrudra9/javascript-beginners-guide-2laa)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [La Evolución de JavaScript: La Importancia de let y const](https://dev.to/soyclaradev/la-evolucion-de-javascript-la-importancia-de-let-y-const-1k3p)
 - [Dev.to/JS] [Dominando Variables y Tipos de Datos en JavaScript: Una Guía Práctica](https://dev.to/soyclaradev/dominando-variables-y-tipos-de-datos-en-javascript-una-guia-practica-166)
 - [Dev.to/JS] [Buffered vs Streaming Data Transfer](https://dev.to/umakantv/buffered-vs-streaming-data-transfer-5a4b)
-- [Dev.to/JS] [Spin Rewriter](https://dev.to/wsovn112/spin-rewriter-15k3)
-- [Dev.to/JS] [Christmas offer free gift card play and win](https://dev.to/hidearfriends6/christmas-offer-free-gift-card-play-and-win-18k8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
