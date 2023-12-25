@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Embracing the MERN Stack Journey](https://dev.to/kcsg/embracing-the-mern-stack-journey-4bf4)
+- [Dev.to/JS] [Building tiny-localstorage-db: A Lightweight Local Database for Browser Storage](https://dev.to/agarwalnitesh42/building-tiny-localstorage-db-a-lightweight-local-database-for-browser-storage-1jhm)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/jemespeter974/buy-verified-cash-app-account-4e1f)
+- [Dev.to/JS] [Focus on your mеntal and еmotional sidе to gain sеlf improvеmеnt](https://dev.to/seena09877/focus-on-your-miental-and-iemotional-sidie-to-gain-sielf-improviemient-1j55)
 - [Dev.to/JS] [Basics of Typescript](https://dev.to/ayyanaruto/basics-of-typescript-29nf)
 - [Dev.to/JS] [Wedding Anniversary Wishes to Husband from Wife:](https://dev.to/bestwishes2024/wedding-anniversary-wishes-to-husband-from-wife-5hae)
 - [Dev.to/JS] [Copy the content of an element to your clipboard](https://dev.to/phuocng/copy-the-content-of-an-element-to-your-clipboard-4ge9)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Retrospective 2023](https://dev.to/dionarodrigues/retrospective-2023-387h)
 - [Dev.to/JS] [Mirage Maintenance](https://dev.to/rmion/mirage-maintenance-3b5f)
 - [Dev.to/JS] [Javascript Beginner&#39;s Guide](https://dev.to/devrudra9/javascript-beginners-guide-2laa)
-- [Dev.to/JS] [JavaScript Just Changed Forever](https://dev.to/aarvinr/javascript-just-changed-forever-with-bun-bpj)
-- [Dev.to/JS] [A Powerful Node.JS CLI Time Tracker ⏱️🚀](https://dev.to/f3rno64/a-powerful-nodejs-cli-time-tracker-1fb0)
-- [Dev.to/JS] [Making a 90s aesthetic word art text picker in only 20 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-90s-aesthetic-word-art-text-picker-in-only-20-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-2oi8)
-- [Dev.to/JS] [APICache: free API performance and caching service](https://dev.to/ronnieaban/apicache-free-api-performance-and-caching-service-2611)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
