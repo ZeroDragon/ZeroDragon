@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wedding Anniversary Wishes to Husband from Wife:](https://dev.to/bestwishes2024/wedding-anniversary-wishes-to-husband-from-wife-5hae)
+- [Dev.to/JS] [Copy the content of an element to your clipboard](https://dev.to/phuocng/copy-the-content-of-an-element-to-your-clipboard-4ge9)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
 - [Dev.to/JS] [JOYSON, CBOR, BSON, JSON - Advanced Data Serialization](https://dev.to/vipert/joyson-cbor-bson-json-advanced-data-serialization-1m0l)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
 - [Dev.to/JS] [JOYSON - Advanced Data Serialization In JavaScript](https://dev.to/vipert/joyson-advanced-data-serialization-in-javascript-4fc)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making a 90s aesthetic word art text picker in only 20 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-90s-aesthetic-word-art-text-picker-in-only-20-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-2oi8)
 - [Dev.to/JS] [APICache: free API performance and caching service](https://dev.to/ronnieaban/apicache-free-api-performance-and-caching-service-2611)
 - [Dev.to/JS] [La Evolución de JavaScript: La Importancia de let y const](https://dev.to/soyclaradev/la-evolucion-de-javascript-la-importancia-de-let-y-const-1k3p)
-- [Dev.to/JS] [Dominando Variables y Tipos de Datos en JavaScript: Una Guía Práctica](https://dev.to/soyclaradev/dominando-variables-y-tipos-de-datos-en-javascript-una-guia-practica-166)
-- [Dev.to/JS] [Buffered vs Streaming Data Transfer](https://dev.to/umakantv/buffered-vs-streaming-data-transfer-5a4b)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Spot a Serial Dater &lpar;and What to Do If It&#39;s You&rpar;](https://lifehacker.com/how-to-spot-a-serial-dater)
 - [Lifehacker] [Fry Day-old Croissants in Ghee and Cinnamon Sugar](https://lifehacker.com/croissant-cinnamon-toast-recipe)
 - [Lifehacker] [The Four Types of Bad Bosses &lpar;and How to Deal With Each One&rpar;](https://lifehacker.com/four-types-of-bad-bosses)
-- [Lifehacker] [How to Actually Pronounce &#39;Worcestershire,&#39; &#39;Açaí,&#39; and Other Commonly Mispronounced Words](https://lifehacker.com/how-to-pronounce-worcestershire)
-- [Lifehacker] [Declare &#39;Email Amnesty&#39; to Achieve Inbox Zero](https://lifehacker.com/achieve-inbox-zero)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Actually Pronounce &#39;Worcestershire,&#39; &#39;Açaí,&#39; and Other Commonly Mispronounced Words](https://lifehacker.com/how-to-pronounce-worcestershire)<!-- TECH-POSTS:END -->
 
 ---
 
