@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Real-time updates in Vue apps with Polling](https://dev.to/jacobandrewsky/real-time-updates-in-vue-apps-with-polling-35eg)
+- [Dev.to/JS] [Meijer Hours on Christmas Eve 2023: Your Ultimate Guide to Festive Shopping](https://dev.to/sh3106177777/meijer-hours-on-christmas-eve-2023-your-ultimate-guide-to-festive-shopping-59b4)
+- [Dev.to/JS] [Build a simple code editor](https://dev.to/phuocng/build-a-simple-code-editor-5gk7)
 - [Dev.to/JS] [Merry Christmas 2023: Spreading Joy with Warm Wishes and Messages Top 50 best wishes, messages, and quotes to share](https://dev.to/aak3249/merry-christmas-2023-spreading-joy-with-warm-wishes-and-messages-top-50-best-wishes-messages-and-quotes-to-share-586o)
 - [Dev.to/JS] [💡Istilah-Istilah yang Perlu diKetahui dalam Pemrograman JavaScript](https://dev.to/ferryops/istilah-istilah-yang-perlu-diketahui-dalam-pemrograman-javascript-23f6)
 - [Dev.to/JS] [smart watch fan](https://dev.to/jayjo87/smart-watch-fan-488h)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Focus on your mеntal and еmotional sidе to gain sеlf improvеmеnt](https://dev.to/seena09877/focus-on-your-miental-and-iemotional-sidie-to-gain-sielf-improviemient-1j55)
 - [Dev.to/JS] [Basics of Typescript](https://dev.to/ayyanaruto/basics-of-typescript-29nf)
 - [Dev.to/JS] [Wedding Anniversary Wishes to Husband from Wife:](https://dev.to/bestwishes2024/wedding-anniversary-wishes-to-husband-from-wife-5hae)
-- [Dev.to/JS] [Copy the content of an element to your clipboard](https://dev.to/phuocng/copy-the-content-of-an-element-to-your-clipboard-4ge9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
-- [Dev.to/JS] [JOYSON, CBOR, BSON, JSON - Advanced Data Serialization](https://dev.to/vipert/joyson-cbor-bson-json-advanced-data-serialization-1m0l)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
-- [Dev.to/JS] [JOYSON - Advanced Data Serialization In JavaScript](https://dev.to/vipert/joyson-advanced-data-serialization-in-javascript-4fc)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
