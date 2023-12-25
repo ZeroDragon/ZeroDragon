@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Design Patterns: A Comprehensive Guide](https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m)
+- [Dev.to/JS] [Buy verified Paxful Account](https://dev.to/texassunshines23/buy-verified-paxful-account-3no5)
 - [Dev.to/JS] [🔴React Fragment VS DIV, Apa bedanya ?](https://dev.to/ferryops/react-fragment-vs-div-apa-bedanya--4g66)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/frinkronnieer/buy-google-5-star-reviews-39a3)
 - [Dev.to/JS] [vape heater](https://dev.to/jayjo87/vape-heater-4mpg)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beauty of nature](https://dev.to/khan094/beauty-of-nature-4cii)
 - [Dev.to/JS] [smart watch with 3d printer function](https://dev.to/jayjo87/smart-watch-with-3d-printer-function-4087)
 - [Dev.to/JS] [notebook heater](https://dev.to/jayjo87/notebook-heater-2ehn)
-- [Dev.to/JS] [portable television with hologram function](https://dev.to/jayjo87/portable-television-with-hologram-function-17lb)
-- [Dev.to/JS] [mini computer with hologram function](https://dev.to/jayjo87/mini-computer-with-hologram-function-2bpg)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
