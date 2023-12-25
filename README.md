@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Basics of Typescript](https://dev.to/ayyanaruto/basics-of-typescript-29nf)
 - [Dev.to/JS] [Wedding Anniversary Wishes to Husband from Wife:](https://dev.to/bestwishes2024/wedding-anniversary-wishes-to-husband-from-wife-5hae)
 - [Dev.to/JS] [Copy the content of an element to your clipboard](https://dev.to/phuocng/copy-the-content-of-an-element-to-your-clipboard-4ge9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Powerful Node.JS CLI Time Tracker ⏱️🚀](https://dev.to/f3rno64/a-powerful-nodejs-cli-time-tracker-1fb0)
 - [Dev.to/JS] [Making a 90s aesthetic word art text picker in only 20 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-90s-aesthetic-word-art-text-picker-in-only-20-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-2oi8)
 - [Dev.to/JS] [APICache: free API performance and caching service](https://dev.to/ronnieaban/apicache-free-api-performance-and-caching-service-2611)
-- [Dev.to/JS] [La Evolución de JavaScript: La Importancia de let y const](https://dev.to/soyclaradev/la-evolucion-de-javascript-la-importancia-de-let-y-const-1k3p)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
