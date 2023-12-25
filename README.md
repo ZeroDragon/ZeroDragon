@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Awai Selector - Combining multiple synchronous states](https://dev.to/yuriyyakym/awai-selector-combining-multiple-synchronous-states-3g7b)
 - [Dev.to/JS] [adspy tool](https://dev.to/wsovn112/adspy-tool-j11)
 - [Dev.to/JS] [Received a badge some days ago.](https://dev.to/mtabish/received-a-badge-some-days-ago-5b70)
 - [Dev.to/JS] [Drag and Drop Kanban board from scratch with React 🔥](https://dev.to/nasif2ahmed/drag-and-drop-kanban-board-from-scratch-with-react-1j9a)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/frinkronnieer/buy-google-5-star-reviews-39a3)
 - [Dev.to/JS] [vape heater](https://dev.to/jayjo87/vape-heater-4mpg)
 - [Dev.to/JS] [Revolutionize Your Code Quality with Refactory: An AI-Powered Development Companion](https://dev.to/rishabh062/revolutionize-your-code-quality-with-refactory-an-ai-powered-development-companion-6ii)
-- [Dev.to/JS] [gaming portable console heater](https://dev.to/jayjo87/gaming-portable-console-heater-jeh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
