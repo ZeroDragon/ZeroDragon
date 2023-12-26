@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Implement a ZK rollup](https://dev.to/thebojda/how-to-implement-a-zk-rollup-1ha9)
+- [Dev.to/JS] [16 Intermediate/Advanced JavaScript Projects to Dominate Your Next Technical Interview](https://dev.to/xplodivity/16-intermediateadvanced-javascript-projects-to-dominate-your-next-technical-interview-593n)
 - [Dev.to/JS] [Building your Own SaSS](https://dev.to/codingcatdev/building-your-own-sass-3c1n)
 - [Dev.to/JS] [Node version enforcement and convenience](https://dev.to/sanjarcode/node-version-enforcement-and-convenience-dfk)
 - [Dev.to/JS] [Generics in TypeScript](https://dev.to/usaidpeerzada/generics-in-typescript-5c5e)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Object Methods](https://dev.to/elaoqby/javascript-object-methods-3dgf)
 - [Dev.to/JS] [JavaScript Display Objects](https://dev.to/elaoqby/javascript-display-objects-58gl)
 - [Dev.to/JS] [Angular 17, does SSR/SSG really work?](https://dev.to/codingcatdev/angular-17-does-ssrssg-really-work-54k0)
-- [Dev.to/JS] [Remix with Kent C. Dodds](https://dev.to/codingcatdev/remix-with-kent-c-dodds-3gl)
-- [Dev.to/JS] [Open Source Svelte Magic: Melting Minds through Melt UI!](https://dev.to/codingcatdev/open-source-svelte-magic-melting-minds-through-melt-ui-5bdo)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
