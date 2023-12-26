@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Array Methods](https://dev.to/antoniomarques/javascript-array-methods-39a2)
 - [Dev.to/JS] [Doodle Jump](https://dev.to/herringbur/doodle-jump-8b)
 - [Dev.to/JS] [Shiv Kumar Sehgal-Investment concept](https://dev.to/shivkumarsehg/shiv-kumar-sehgal-investment-concept-g4g)
 - [Dev.to/JS] [ReactJs UseEffect Dependency &lpar;Use case&rpar;](https://dev.to/santhanam87/reactjs-useeffect-dependency-use-case-2310)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [adspy tool](https://dev.to/wsovn112/adspy-tool-j11)
 - [Dev.to/JS] [Received a badge some days ago.](https://dev.to/mtabish/received-a-badge-some-days-ago-5b70)
 - [Dev.to/JS] [Drag and Drop Kanban board from scratch with React 🔥](https://dev.to/nasif2ahmed/drag-and-drop-kanban-board-from-scratch-with-react-1j9a)
-- [Dev.to/JS] [Jamstack Development: Revolutionizing Web Development](https://dev.to/goswamianshuman/jamstack-development-revolutionizing-web-development-3npc)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
