@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Go88](https://dev.to/ggo88club/go88-5439)
+- [Dev.to/JS] [Understanding Cookies and Sessions in Node.js](https://dev.to/m__mdy__m/understanding-cookies-and-sessions-in-nodejs-3449)
 - [Dev.to/JS] [Reactive Programming with RxJS](https://dev.to/danyson/reactive-programming-with-rxjs-4ok7)
 - [Dev.to/JS] [Reactive Programming with RxJS](https://dev.to/danyson/reactive-programming-with-rxjs-3fp9)
 - [Dev.to/JS] [Elite Extreme Male Enhacement[TRUE OR HOAX] Don&#39;t buy until you read this!](https://dev.to/onealbrandt/elite-extreme-male-enhacementtrue-or-hoax-dont-buy-until-you-read-this-4bgl)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interview: Can You Stop “forEach” in JavaScript?](https://dev.to/polakshahar/interview-can-you-stop-foreach-in-javascript-57h0)
 - [Dev.to/JS] [Boost Your LinkedIn Engagement with Our Free Analytics Tool](https://dev.to/linkedin-analytics/boost-your-linkedin-engagement-with-our-free-analytics-tool-5dbl)
 - [Dev.to/JS] [Khuyến Mãi Khủng Cho Hội Viên SM66](https://dev.to/linksm66/khuyen-mai-khung-cho-hoi-vien-sm66-3l6l)
-- [Dev.to/JS] [Kataib Hizbollah Mujahideen Attack: Three American Soldiers Wounded, 2 Killed Biden Attacked](https://dev.to/sh3106177777/kataib-hizbollah-mujahideen-attack-three-american-soldiers-wounded-2-killed-biden-attacked-234j)
-- [Dev.to/JS] [Svelte journey | Motion, Transitions, Animations](https://dev.to/chillyhill/svelte-journey-advanced-motion-transitions-animations-32d5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
