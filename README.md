@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ثقة جلب الحبيـب&amp; زواج العانس☎️ 0097333766836 الـكـويـت &amp; الـسعـوديـة](https://dev.to/amalya2024/thq-jlb-lhbyb-zwj-lns-0097333766836-lkwyt-lswdy-6kg)
 - [Dev.to/JS] [How to Deploy Your React or Vite Project on GitHub Pages using gh-pages](https://dev.to/tharakamts/how-to-deploy-your-react-or-vite-project-on-github-pages-using-gh-pages-d7f)
 - [Dev.to/JS] [Implementing State management library - Selector](https://dev.to/yuriyyakym/awai-selector-combining-multiple-synchronous-states-3g7b)
 - [Dev.to/JS] [adspy tool](https://dev.to/wsovn112/adspy-tool-j11)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified Paxful Account](https://dev.to/texassunshines23/buy-verified-paxful-account-3no5)
 - [Dev.to/JS] [🔴React Fragment VS DIV, Apa bedanya ?](https://dev.to/ferryops/react-fragment-vs-div-apa-bedanya--4g66)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/frinkronnieer/buy-google-5-star-reviews-39a3)
-- [Dev.to/JS] [vape heater](https://dev.to/jayjo87/vape-heater-4mpg)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
