@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 50 Questions For Gate Exam 2024](https://dev.to/manojsharmajtp2/top-50-questions-for-gate-exam-2024-4dil)
+- [Dev.to/JS] [🛑 Create your OWN intrusive javascript blocker script 🛑](https://dev.to/notachraf/create-your-own-intrusive-javascript-blocker-script-1cbc)
+- [Dev.to/JS] [The Paradigm Shift: Exploring the Impact of Generative AI on Software Development](https://dev.to/agiconsolution/the-paradigm-shift-exploring-the-impact-of-generative-ai-on-software-development-1h91)
+- [Dev.to/JS] [The Prestige City Hyderabad](https://dev.to/theprestigecityhyderabad/the-prestige-city-hyderabad-2oei)
+- [Dev.to/JS] [Interview: Can You Stop “forEach” in JavaScript?](https://dev.to/polakshahar/interview-can-you-stop-foreach-in-javascript-57h0)
 - [Dev.to/JS] [Boost Your LinkedIn Engagement with Our Free Analytics Tool](https://dev.to/linkedin-analytics/boost-your-linkedin-engagement-with-our-free-analytics-tool-5dbl)
 - [Dev.to/JS] [Khuyến Mãi Khủng Cho Hội Viên SM66](https://dev.to/linksm66/khuyen-mai-khung-cho-hoi-vien-sm66-3l6l)
 - [Dev.to/JS] [Kataib Hizbollah Mujahideen Attack: Three American Soldiers Wounded, 2 Killed Biden Attacked](https://dev.to/sh3106177777/kataib-hizbollah-mujahideen-attack-three-american-soldiers-wounded-2-killed-biden-attacked-234j)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Mobile Search Engine using Next.js in 10 minutes.](https://dev.to/abhirup2003/build-a-mobile-search-engine-using-nextjs-in-10-minutes-2kpg)
 - [Dev.to/JS] [Emperor&#39;s Vigor Tonic Deliverable](https://dev.to/paisakameoonline/emperors-vigor-tonic-deliverable-bb1)
 - [Dev.to/JS] [Khuyến Mãi Khủng Cho Hội Viên SM66](https://dev.to/gsm66com/khuyen-mai-khung-cho-hoi-vien-sm66-19on)
-- [Dev.to/JS] [Vue.js: Mastering V-Directives, Creating Custom Directives with Examples](https://dev.to/kucherol/vuejs-mastering-v-directives-creating-custom-directives-with-examples-29e8)
-- [Dev.to/JS] [Sorting Arrays in JavaScript: toSorted&lpar;&rpar; and sort&lpar;&rpar;](https://dev.to/manthanank/sorting-arrays-in-javascript-tosorted-and-sort-4pf6)
-- [Dev.to/JS] [Typesafe API with TS-Rest, React Query](https://dev.to/quangnmwork/typesafe-api-with-ts-rest-react-query-4ao6)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/matthewfarley799/buy-google-5-star-reviews-2oll)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/matthewfarley799/buy-verified-cash-app-account-m69)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
