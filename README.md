@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/matthewfarley799/buy-google-5-star-reviews-2oll)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/matthewfarley799/buy-verified-cash-app-account-m69)
 - [Dev.to/JS] [JavaScript Array Methods](https://dev.to/antoniomarques/javascript-array-methods-39a2)
 - [Dev.to/JS] [Doodle Jump](https://dev.to/herringbur/doodle-jump-8b)
 - [Dev.to/JS] [Shiv Kumar Sehgal-Investment concept](https://dev.to/shivkumarsehg/shiv-kumar-sehgal-investment-concept-g4g)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Deploy Your React or Vite Project on GitHub Pages using gh-pages](https://dev.to/tharakamts/how-to-deploy-your-react-or-vite-project-on-github-pages-using-gh-pages-d7f)
 - [Dev.to/JS] [Implementing State management library - Selector](https://dev.to/yuriyyakym/awai-selector-combining-multiple-synchronous-states-3g7b)
 - [Dev.to/JS] [adspy tool](https://dev.to/wsovn112/adspy-tool-j11)
-- [Dev.to/JS] [Received a badge some days ago.](https://dev.to/mtabish/received-a-badge-some-days-ago-5b70)
-- [Dev.to/JS] [Drag and Drop Kanban board from scratch with React 🔥](https://dev.to/nasif2ahmed/drag-and-drop-kanban-board-from-scratch-with-react-1j9a)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
