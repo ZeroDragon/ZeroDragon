@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Convert text links in a text area to clickable links](https://dev.to/phuocng/convert-text-links-in-a-text-area-to-clickable-links-58e5)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Dev.to/JS] [How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
 - [Dev.to/JS] [ثقة جلب الحبيـب&amp; زواج العانس☎️ 0097333766836 الـكـويـت &amp; الـسعـوديـة](https://dev.to/amalya2024/thq-jlb-lhbyb-zwj-lns-0097333766836-lkwyt-lswdy-6kg)
 - [Dev.to/JS] [How to Deploy Your React or Vite Project on GitHub Pages using gh-pages](https://dev.to/tharakamts/how-to-deploy-your-react-or-vite-project-on-github-pages-using-gh-pages-d7f)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀Extensões usadas em 2023 🚀 *Especial Fim de Ano*](https://dev.to/iamthiago/extensoes-usadas-em-2023-especial-fim-de-ano-3i0i)
 - [Dev.to/JS] [JS Design Patterns: A Comprehensive Guide](https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m)
 - [Dev.to/JS] [Buy verified Paxful Account](https://dev.to/texassunshines23/buy-verified-paxful-account-3no5)
-- [Dev.to/JS] [🔴React Fragment VS DIV, Apa bedanya ?](https://dev.to/ferryops/react-fragment-vs-div-apa-bedanya--4g66)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Selling Your Home to an iBuyer Is Almost Always a Bad Idea](https://lifehacker.com/selling-your-home-to-an-ibuyer-is-almost-always-a-bad-idea)
 - [Lifehacker] [How to Spot a Serial Dater &lpar;and What to Do If It&#39;s You&rpar;](https://lifehacker.com/how-to-spot-a-serial-dater)
 - [Lifehacker] [Fry Day-old Croissants in Ghee and Cinnamon Sugar](https://lifehacker.com/croissant-cinnamon-toast-recipe)
-- [Lifehacker] [The Four Types of Bad Bosses &lpar;and How to Deal With Each One&rpar;](https://lifehacker.com/four-types-of-bad-bosses)
-- [Lifehacker] [How to Actually Pronounce &#39;Worcestershire,&#39; &#39;Açaí,&#39; and Other Commonly Mispronounced Words](https://lifehacker.com/how-to-pronounce-worcestershire)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Four Types of Bad Bosses &lpar;and How to Deal With Each One&rpar;](https://lifehacker.com/four-types-of-bad-bosses)<!-- TECH-POSTS:END -->
 
 ---
 
