@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel `loadCount` Relationship Count 😎](https://dev.to/devmahfuz/laravel-loadcount-relationship-count-boj)
+- [Dev.to/JS] [ReactJs UseEffect Dependency &lpar;Use case&rpar;](https://dev.to/santhanam87/reactjs-useeffect-dependency-use-case-2310)
 - [Dev.to/JS] [Convert text links in a text area to clickable links](https://dev.to/phuocng/convert-text-links-in-a-text-area-to-clickable-links-58e5)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Dev.to/JS] [How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Drag and Drop Kanban board from scratch with React 🔥](https://dev.to/nasif2ahmed/drag-and-drop-kanban-board-from-scratch-with-react-1j9a)
 - [Dev.to/JS] [Jamstack Development: Revolutionizing Web Development](https://dev.to/goswamianshuman/jamstack-development-revolutionizing-web-development-3npc)
 - [Dev.to/JS] [🚀Extensões usadas em 2023 🚀 *Especial Fim de Ano*](https://dev.to/iamthiago/extensoes-usadas-em-2023-especial-fim-de-ano-3i0i)
-- [Dev.to/JS] [JS Design Patterns: A Comprehensive Guide](https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m)
-- [Dev.to/JS] [Buy verified Paxful Account](https://dev.to/texassunshines23/buy-verified-paxful-account-3no5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
