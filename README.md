@@ -27,7 +27,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Unify Viz - 300+ Premium charts for Figma and React](https://dev.to/amcdnl/unify-viz-300-premium-charts-for-figma-and-react-5a6k)
-- [Dev.to/JS] [Online Work](https://dev.to/033/online-work-bg2)
 - [Dev.to/JS] [Go88](https://dev.to/ggo88club/go88-5439)
 - [Dev.to/JS] [Understanding Cookies and Sessions in Node.js](https://dev.to/m__mdy__m/understanding-cookies-and-sessions-in-nodejs-3449)
 - [Dev.to/JS] [Reactive Programming with RxJS](https://dev.to/danyson/reactive-programming-with-rxjs-4ok7)
@@ -38,6 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Paradigm Shift: Exploring the Impact of Generative AI on Software Development](https://dev.to/agiconsolution/the-paradigm-shift-exploring-the-impact-of-generative-ai-on-software-development-1h91)
 - [Dev.to/JS] [The Prestige City Hyderabad](https://dev.to/theprestigecityhyderabad/the-prestige-city-hyderabad-2oei)
 - [Dev.to/JS] [Interview: Can You Stop “forEach” in JavaScript?](https://dev.to/polakshahar/interview-can-you-stop-foreach-in-javascript-57h0)
+- [Dev.to/JS] [Boost Your LinkedIn Engagement with Our Free Analytics Tool](https://dev.to/linkedin-analytics/boost-your-linkedin-engagement-with-our-free-analytics-tool-5dbl)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
