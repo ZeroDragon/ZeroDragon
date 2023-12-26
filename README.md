@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Diving into Streams: Understanding the Basics in Node.js](https://dev.to/ruben_alapont/diving-into-streams-understanding-the-basics-in-nodejs-156j)
+- [Dev.to/JS] [tài khoản netflix premium giá rẻ](https://dev.to/wsovn112/tai-khoan-netflix-premium-gia-re-3o03)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/frederickcortez59/buy-google-voice-accounts-134b)
 - [Dev.to/JS] [Unify Viz - 300+ Premium charts for Figma and React](https://dev.to/amcdnl/unify-viz-300-premium-charts-for-figma-and-react-5a6k)
 - [Dev.to/JS] [Go88](https://dev.to/ggo88club/go88-5439)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 50 Questions For Gate Exam 2024](https://dev.to/manojsharmajtp2/top-50-questions-for-gate-exam-2024-4dil)
 - [Dev.to/JS] [Create your OWN intrusive javascript blocker script 🛑](https://dev.to/notachraf/create-your-own-intrusive-javascript-blocker-script-1cbc)
 - [Dev.to/JS] [The Paradigm Shift: Exploring the Impact of Generative AI on Software Development](https://dev.to/agiconsolution/the-paradigm-shift-exploring-the-impact-of-generative-ai-on-software-development-1h91)
-- [Dev.to/JS] [The Prestige City Hyderabad](https://dev.to/theprestigecityhyderabad/the-prestige-city-hyderabad-2oei)
-- [Dev.to/JS] [Interview: Can You Stop “forEach” in JavaScript?](https://dev.to/polakshahar/interview-can-you-stop-foreach-in-javascript-57h0)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
