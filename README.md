@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Boost Your LinkedIn Engagement with Our Free Analytics Tool](https://dev.to/linkedin-analytics/boost-your-linkedin-engagement-with-our-free-analytics-tool-5dbl)
 - [Dev.to/JS] [Khuyến Mãi Khủng Cho Hội Viên SM66](https://dev.to/linksm66/khuyen-mai-khung-cho-hoi-vien-sm66-3l6l)
 - [Dev.to/JS] [Kataib Hizbollah Mujahideen Attack: Three American Soldiers Wounded, 2 Killed Biden Attacked](https://dev.to/sh3106177777/kataib-hizbollah-mujahideen-attack-three-american-soldiers-wounded-2-killed-biden-attacked-234j)
 - [Dev.to/JS] [Svelte journey | Motion, Transitions, Animations](https://dev.to/chillyhill/svelte-journey-advanced-motion-transitions-animations-32d5)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typesafe API with TS-Rest, React Query](https://dev.to/quangnmwork/typesafe-api-with-ts-rest-react-query-4ao6)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/matthewfarley799/buy-google-5-star-reviews-2oll)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/matthewfarley799/buy-verified-cash-app-account-m69)
-- [Dev.to/JS] [JavaScript Array Methods](https://dev.to/antoniomarques/javascript-array-methods-39a2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
