@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reactive Programming with RxJS](https://dev.to/danyson/reactive-programming-with-rxjs-4ok7)
+- [Dev.to/JS] [Reactive Programming with RxJS](https://dev.to/danyson/reactive-programming-with-rxjs-3fp9)
+- [Dev.to/JS] [Elite Extreme Male Enhacement[TRUE OR HOAX] Don&#39;t buy until you read this!](https://dev.to/onealbrandt/elite-extreme-male-enhacementtrue-or-hoax-dont-buy-until-you-read-this-4bgl)
 - [Dev.to/JS] [Top 50 Questions For Gate Exam 2024](https://dev.to/manojsharmajtp2/top-50-questions-for-gate-exam-2024-4dil)
 - [Dev.to/JS] [🛑 Create your OWN intrusive javascript blocker script 🛑](https://dev.to/notachraf/create-your-own-intrusive-javascript-blocker-script-1cbc)
 - [Dev.to/JS] [The Paradigm Shift: Exploring the Impact of Generative AI on Software Development](https://dev.to/agiconsolution/the-paradigm-shift-exploring-the-impact-of-generative-ai-on-software-development-1h91)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Khuyến Mãi Khủng Cho Hội Viên SM66](https://dev.to/linksm66/khuyen-mai-khung-cho-hoi-vien-sm66-3l6l)
 - [Dev.to/JS] [Kataib Hizbollah Mujahideen Attack: Three American Soldiers Wounded, 2 Killed Biden Attacked](https://dev.to/sh3106177777/kataib-hizbollah-mujahideen-attack-three-american-soldiers-wounded-2-killed-biden-attacked-234j)
 - [Dev.to/JS] [Svelte journey | Motion, Transitions, Animations](https://dev.to/chillyhill/svelte-journey-advanced-motion-transitions-animations-32d5)
-- [Dev.to/JS] [Build a Mobile Search Engine using Next.js in 10 minutes.](https://dev.to/abhirup2003/build-a-mobile-search-engine-using-nextjs-in-10-minutes-2kpg)
-- [Dev.to/JS] [Emperor&#39;s Vigor Tonic Deliverable](https://dev.to/paisakameoonline/emperors-vigor-tonic-deliverable-bb1)
-- [Dev.to/JS] [Khuyến Mãi Khủng Cho Hội Viên SM66](https://dev.to/gsm66com/khuyen-mai-khung-cho-hoi-vien-sm66-19on)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
