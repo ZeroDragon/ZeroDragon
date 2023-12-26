@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Laravel `loadCount` Relationship Count 😎](https://dev.to/devmahfuz/laravel-loadcount-relationship-count-boj)
+- [Dev.to/JS] [Doodle Jump](https://dev.to/herringbur/doodle-jump-8b)
+- [Dev.to/JS] [Shiv Kumar Sehgal-Investment concept](https://dev.to/shivkumarsehg/shiv-kumar-sehgal-investment-concept-g4g)
 - [Dev.to/JS] [ReactJs UseEffect Dependency &lpar;Use case&rpar;](https://dev.to/santhanam87/reactjs-useeffect-dependency-use-case-2310)
 - [Dev.to/JS] [Convert text links in a text area to clickable links](https://dev.to/phuocng/convert-text-links-in-a-text-area-to-clickable-links-58e5)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Dev.to/JS] [How to manage user authentication With React JS](https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5)
 - [Dev.to/JS] [ثقة جلب الحبيـب&amp; زواج العانس☎️ 0097333766836 الـكـويـت &amp; الـسعـوديـة](https://dev.to/amalya2024/thq-jlb-lhbyb-zwj-lns-0097333766836-lkwyt-lswdy-6kg)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Received a badge some days ago.](https://dev.to/mtabish/received-a-badge-some-days-ago-5b70)
 - [Dev.to/JS] [Drag and Drop Kanban board from scratch with React 🔥](https://dev.to/nasif2ahmed/drag-and-drop-kanban-board-from-scratch-with-react-1j9a)
 - [Dev.to/JS] [Jamstack Development: Revolutionizing Web Development](https://dev.to/goswamianshuman/jamstack-development-revolutionizing-web-development-3npc)
-- [Dev.to/JS] [🚀Extensões usadas em 2023 🚀 *Especial Fim de Ano*](https://dev.to/iamthiago/extensoes-usadas-em-2023-especial-fim-de-ano-3i0i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Home Improvement Projects You Can Source From the Dollar Store](https://lifehacker.com/home-improvement-projects-you-can-source-from-the-dollar-store)
 - [Lifehacker] [Why Selling Your Home to an iBuyer Is Almost Always a Bad Idea](https://lifehacker.com/selling-your-home-to-an-ibuyer-is-almost-always-a-bad-idea)
 - [Lifehacker] [How to Spot a Serial Dater &lpar;and What to Do If It&#39;s You&rpar;](https://lifehacker.com/how-to-spot-a-serial-dater)
-- [Lifehacker] [Fry Day-old Croissants in Ghee and Cinnamon Sugar](https://lifehacker.com/croissant-cinnamon-toast-recipe)
-- [Lifehacker] [The Four Types of Bad Bosses &lpar;and How to Deal With Each One&rpar;](https://lifehacker.com/four-types-of-bad-bosses)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Fry Day-old Croissants in Ghee and Cinnamon Sugar](https://lifehacker.com/croissant-cinnamon-toast-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
