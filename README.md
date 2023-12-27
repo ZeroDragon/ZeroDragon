@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Orama search with Astro](https://dev.to/nguyen/orama-search-with-astro-kml)
 - [Dev.to/JS] [🚀 Master the Art of Frontend: Essential Free Image Tools to Use in 2024! 🚀](https://dev.to/ritesh2204/essential-free-image-tools-for-frontend-developers-in-2023-2ecp)
 - [Dev.to/JS] [Understanding Middlewares](https://dev.to/harshchandwani/understanding-middlewares-508j)
 - [Dev.to/JS] [Akash Dilwale Aces Manlitics B2B ITES Drive, Crediting Stellar Prep at Radiant IT Services Pvt Ltd](https://dev.to/samarth_patil/akash-dilwale-aces-manlitics-b2b-ites-drive-crediting-stellar-prep-at-radiant-it-services-pvt-ltd-163o)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ways to communicate between micro-frontends](https://dev.to/akdevcraft/ways-to-communicate-between-micro-frontends-51ol)
 - [Dev.to/JS] [Apa yang dimaksud dengan semantic html?](https://dev.to/muhammadiqbalid83/apa-yang-dimaksud-dengan-semantic-html-3h78)
 - [Dev.to/JS] [A Zero-Cost Monitoring Solution](https://dev.to/realvorl/a-zero-cost-monitoring-solution-12na)
-- [Dev.to/JS] [How to Implement a ZK rollup](https://dev.to/thebojda/how-to-implement-a-zk-rollup-1ha9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
