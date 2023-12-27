@@ -26,11 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elixir para React.js Devs](https://dev.to/javascriptchile/elixir-para-reactjs-devs-37db)
+- [Dev.to/JS] [Exploring the shift from CSS-in-JS to headless UI libraries](https://dev.to/logrocket/exploring-the-shift-from-css-in-js-to-headless-ui-libraries-43o2)
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in January 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-january-2024)
 - [Dev.to/JS] [TWC is not a revolution but…](https://dev.to/jsfez/twc-is-not-a-revolution-but-mb9)
 - [Dev.to/JS] [Svelte journey | Actions, Advanced Bindings, Classes &amp; Styles, Slots](https://dev.to/chillyhill/svelte-journey-actions-advanced-bindings-classes-styles-slots-2en3)
+- [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/this-nix-mini-2-color-sensor-is-60-right-now-1850643055)
 - [Dev.to/JS] [Sample Article Title](https://dev.to/priyancydey/sample-article-title-3mom)
 - [Lifehacker] [All the Features in Fitbit Premium &lpar;and Whether It’s Worth the Price&rpar;](https://lifehacker.com/tech/fitbit-premium-features)
-- [Dev.to/JS] [5 Things Most Developers Learn Too Late](https://dev.to/dragosnedelcu/5-things-most-developers-learn-too-late-5gj3)
+- [Dev.to/JS] [5 Things Most Developers Learn Too Late ⌛](https://dev.to/dragosnedelcu/5-things-most-developers-learn-too-late-5gj3)
 - [Dev.to/JS] [Mastering the Art of Web Development Debugging: Strategies and Tools for Efficient Troubleshooting](https://dev.to/iamdoncarey/mastering-the-art-of-web-development-debugging-strategies-and-tools-for-efficient-troubleshooting-47gn)
 - [Lifehacker] [You Should Find a &#39;Bin Store&#39; Near You](https://lifehacker.com/money/how-to-find-a-bin-store-near-you)
 - [Dev.to/JS] [Understanding the Virtual DOM in React: A Comprehensive Guide](https://dev.to/sidramaqbool/understanding-the-virtual-dom-in-react-a-comprehensive-guide-1kgb)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript .splice&lpar;&rpar; vs .toSpliced&lpar;&rpar;](https://dev.to/vvkkumar06/javascript-splice-vs-tospliced-3b78)
 - [Dev.to/JS] [Understanding the “data-no-turbolink” Attribute in HTML](https://dev.to/mktheitguy/understanding-the-data-no-turbolink-attribute-in-html-48bf)
 - [Lifehacker] [How to Factory Reset Your Google Nest &lpar;and When You Should&rpar;](https://lifehacker.com/tech/how-to-factory-reset-a-google-nest)
-- [Dev.to/JS] [Meet React 18 and the new updates on 2023](https://dev.to/aryclenio/meet-react-18-and-the-new-updates-on-2023-15gc)
-- [Dev.to/JS] [Conheça o React 18 e suas atualizações em 2023](https://dev.to/aryclenio/conheca-o-react-18-e-suas-atualizacoes-em-2023-5b5o)
 - [Lifehacker] [The Best Movies to Watch on New Year’s Eve](https://lifehacker.com/entertainment/best-new-years-eve-movies)
 - [Lifehacker] [How to Soft Reboot Your Google Home](https://lifehacker.com/tech/soft-reboot-google-home)
 - [Lifehacker] [‘Sensate Focus’ Can Help You Reclaim Your Sex Life](https://lifehacker.com/sensate-focus-can-help-sex-life)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Read These Safety Tips Before Riding Your New E-bike](https://lifehacker.com/health/safety-tips-for-e-bikes)
 - [Lifehacker] [Use ‘Household’ Automations to Make Your Google Home Even Smarter](https://lifehacker.com/tech/google-home-automations-household-and-personal-routines)
 - [Lifehacker] [Why You Should Consider a Death Doula](https://lifehacker.com/what-does-a-death-doula-do)
-- [Lifehacker] [How to Design the Best Home Environment for Someone With Dementia](https://lifehacker.com/home-design-for-someone-with-dementia)
-- [Lifehacker] [How to Raise Kids Who Aren’t Self-Conscious About Their Appearance](https://lifehacker.com/how-to-raise-kids-who-are-not-self-conscious-about-appearance)
-- [Lifehacker] [Everything You Need to Know Before Buying a Ninja CREAMi](https://lifehacker.com/everything-to-know-before-buying-a-ninja-creami)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Design the Best Home Environment for Someone With Dementia](https://lifehacker.com/home-design-for-someone-with-dementia)<!-- TECH-POSTS:END -->
 
 ---
 
