@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue Templates: Should They Start from the Top or the Bottom?](https://dev.to/mikinovation/vue-templates-should-they-start-from-the-top-or-the-bottom-30lc)
 - [Dev.to/JS] [Add a special message when users copy text](https://dev.to/phuocng/add-a-special-message-when-users-copy-text-1i0j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-27-2023)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building your Own SaSS](https://dev.to/codingcatdev/building-your-own-sass-3c1n)
 - [Dev.to/JS] [Node version enforcement and convenience](https://dev.to/sanjarcode/node-version-enforcement-and-convenience-dfk)
 - [Dev.to/JS] [Generics in TypeScript](https://dev.to/usaidpeerzada/generics-in-typescript-5c5e)
-- [Dev.to/JS] [Cracking the Code: One Night of Intense Preparation for Your Technical Interview in JavaScript &lpar;Part 1 Arrays&rpar;](https://dev.to/snayyar00/cracking-the-code-one-night-of-intense-preparation-for-your-technical-interview-in-javascript-part-1-arrays-4p3m)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
