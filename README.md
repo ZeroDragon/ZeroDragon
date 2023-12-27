@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day - 3 : Learning JavaScript: Unveiling the Magic of Code: Crafting a Simple Calculator](https://dev.to/aniketsaini65/day-3-learning-javascript-unveiling-the-magic-of-code-crafting-a-simple-calculator-4mmp)
+- [Dev.to/JS] [5 Golang Features I Wished Were Different!](https://dev.to/nikl/5-golang-features-i-wished-were-different-2mgp)
+- [Dev.to/JS] [Display a modal when users leave website](https://dev.to/phuocng/display-a-modal-when-users-leave-website-2hg9)
+- [Dev.to/JS] [Dominando Estructuras de Datos en JavaScript: Una Guía para Profesionales](https://dev.to/soyclaradev/dominando-estructuras-de-datos-en-javascript-una-guia-para-profesionales-27ij)
+- [Lifehacker] [‘Sensate Focus’ Can Help You Reclaim Your Sex Life](https://lifehacker.com/sensate-focus-can-help-sex-life)
 - [Dev.to/JS] [Navy shoots down ballistic missiles launched by Iran-backed Houthis in Red Sea](https://dev.to/sh3106177777/navy-shoots-down-ballistic-missiles-launched-by-iran-backed-houthis-in-red-sea-2hnp)
 - [Dev.to/JS] [My 2023 Coding Recap](https://dev.to/vulcanwm/my-2023-coding-recap-3b3m)
 - [Dev.to/JS] [Mastering React with SOLID Principles: A Practical Guide](https://dev.to/krentrox/mastering-react-with-solid-principles-a-practical-guide-1cb5)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Default NestJS Project Structure](https://dev.to/shameel/understanding-default-nestjs-project-structure-4ff2)
 - [Dev.to/JS] [Unleashing the Power of Modern Web Development: Exploring My New Tech Stack 🔥🔥](https://dev.to/kiraaziz/unleashing-the-power-of-modern-web-development-exploring-my-new-tech-stack-19p8)
 - [Dev.to/JS] [Unlock the Power of Data with Our Instagram Analytics Tool](https://dev.to/instagram-business/unlock-the-power-of-data-with-our-instagram-analytics-tool-3c2p)
-- [Dev.to/JS] [Seeking Advice on Resolving Compatibility Challenges in Web Development](https://dev.to/jessy55/seeking-advice-on-resolving-compatibility-challenges-in-web-development-2864)
-- [Dev.to/JS] [Dominando Objetos en JavaScript: Una Guía completa](https://dev.to/soyclaradev/dominando-objetos-en-javascript-una-guia-completa-1n9a)
-- [Dev.to/JS] [Why Angular Will not Survive 2024](https://dev.to/kalashin1/why-angular-will-not-survive-2024-2lj3)
-- [Dev.to/JS] [How To Switch Between Node Versions On Windows](https://dev.to/daslaw/how-to-switch-between-node-versions-on-windows-5755)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-27-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-by-Age Guide to Helping Your Kid Get Over Stage Fright](https://lifehacker.com/age-by-age-guide-to-helping-kids-overcome-stage-fright)
 - [Lifehacker] [The Best Way to Remove Old Wallpaper](https://lifehacker.com/how-to-remove-old-wallpaper)
 - [Lifehacker] [Is Choking During Sex Ever Really Safe?](https://lifehacker.com/is-choking-during-sex-safe)
-- [Lifehacker] [7 Home Improvement Projects You Can Source From the Dollar Store](https://lifehacker.com/home-improvement-projects-you-can-source-from-the-dollar-store)
-- [Lifehacker] [Why Selling Your Home to an iBuyer Is Almost Always a Bad Idea](https://lifehacker.com/selling-your-home-to-an-ibuyer-is-almost-always-a-bad-idea)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 Home Improvement Projects You Can Source From the Dollar Store](https://lifehacker.com/home-improvement-projects-you-can-source-from-the-dollar-store)<!-- TECH-POSTS:END -->
 
 ---
 
