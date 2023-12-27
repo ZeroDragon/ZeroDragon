@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TWC is not a revolution but…](https://dev.to/jsfez/twc-is-not-a-revolution-but-mb9)
+- [Dev.to/JS] [Svelte journey | Actions, Advanced Bindings, Classes &amp; Styles, Slots](https://dev.to/chillyhill/svelte-journey-actions-advanced-bindings-classes-styles-slots-2en3)
+- [Dev.to/JS] [Sample Article Title](https://dev.to/priyancydey/sample-article-title-3mom)
+- [Lifehacker] [All the Features in Fitbit Premium &lpar;and Whether It’s Worth the Price&rpar;](https://lifehacker.com/tech/fitbit-premium-features)
 - [Dev.to/JS] [5 Things Most Developers Learn Too Late](https://dev.to/dragosnedelcu/5-things-most-developers-learn-too-late-5gj3)
 - [Dev.to/JS] [Mastering the Art of Web Development Debugging: Strategies and Tools for Efficient Troubleshooting](https://dev.to/iamdoncarey/mastering-the-art-of-web-development-debugging-strategies-and-tools-for-efficient-troubleshooting-47gn)
+- [Lifehacker] [You Should Find a &#39;Bin Store&#39; Near You](https://lifehacker.com/money/how-to-find-a-bin-store-near-you)
 - [Dev.to/JS] [Understanding the Virtual DOM in React: A Comprehensive Guide](https://dev.to/sidramaqbool/understanding-the-virtual-dom-in-react-a-comprehensive-guide-1kgb)
 - [Lifehacker] [What Is the OnePlus R Series Phone, and Is It Really a ‘Flagship Killer’?](https://lifehacker.com/tech/what-is-oneplus-r-series-phone)
 - [Dev.to/JS] [A real solution for client-side Prisma types](https://dev.to/stuarthaas/client-side-prisma-types-mj)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meet React 18 and the new updates on 2023](https://dev.to/aryclenio/meet-react-18-and-the-new-updates-on-2023-15gc)
 - [Dev.to/JS] [Conheça o React 18 e suas atualizações em 2023](https://dev.to/aryclenio/conheca-o-react-18-e-suas-atualizacoes-em-2023-5b5o)
 - [Lifehacker] [The Best Movies to Watch on New Year’s Eve](https://lifehacker.com/entertainment/best-new-years-eve-movies)
-- [Dev.to/JS] [Day - 3 : Learning JavaScript: Unveiling the Magic of Code: Crafting a Simple Calculator](https://dev.to/aniketsaini65/day-3-learning-javascript-unveiling-the-magic-of-code-crafting-a-simple-calculator-4mmp)
 - [Lifehacker] [How to Soft Reboot Your Google Home](https://lifehacker.com/tech/soft-reboot-google-home)
-- [Dev.to/JS] [5 Golang Features I Wished Were Different!](https://dev.to/nikl/5-golang-features-i-wished-were-different-2mgp)
-- [Dev.to/JS] [Display a modal when users leave website](https://dev.to/phuocng/display-a-modal-when-users-leave-website-2hg9)
 - [Lifehacker] [‘Sensate Focus’ Can Help You Reclaim Your Sex Life](https://lifehacker.com/sensate-focus-can-help-sex-life)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-27-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Consider a Death Doula](https://lifehacker.com/what-does-a-death-doula-do)
 - [Lifehacker] [How to Design the Best Home Environment for Someone With Dementia](https://lifehacker.com/home-design-for-someone-with-dementia)
 - [Lifehacker] [How to Raise Kids Who Aren’t Self-Conscious About Their Appearance](https://lifehacker.com/how-to-raise-kids-who-are-not-self-conscious-about-appearance)
-- [Lifehacker] [Everything You Need to Know Before Buying a Ninja CREAMi](https://lifehacker.com/everything-to-know-before-buying-a-ninja-creami)
-- [Lifehacker] [How to Recognize the Signs of Childhood OCD &lpar;and Get Help&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-childhood-ocd)
-- [Lifehacker] [You Should Add a Raw Egg to Your Grits](https://lifehacker.com/add-a-raw-egg-to-grits)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Need to Know Before Buying a Ninja CREAMi](https://lifehacker.com/everything-to-know-before-buying-a-ninja-creami)<!-- TECH-POSTS:END -->
 
 ---
 
