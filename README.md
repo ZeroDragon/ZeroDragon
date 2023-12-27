@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing State management library - Awai Scenario](https://dev.to/yuriyyakym/implementing-state-management-library-awai-scenario-4h14)
+- [Dev.to/JS] [Ways to communicate between micro-frontends](https://dev.to/akdevcraft/ways-to-communicate-between-micro-frontends-51ol)
 - [Dev.to/JS] [Apa yang dimaksud dengan semantic html?](https://dev.to/muhammadiqbalid83/apa-yang-dimaksud-dengan-semantic-html-3h78)
 - [Dev.to/JS] [A Zero-Cost Monitoring Solution](https://dev.to/realvorl/a-zero-cost-monitoring-solution-12na)
 - [Dev.to/JS] [How to Implement a ZK rollup](https://dev.to/thebojda/how-to-implement-a-zk-rollup-1ha9)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Generics in TypeScript](https://dev.to/usaidpeerzada/generics-in-typescript-5c5e)
 - [Dev.to/JS] [Cracking the Code: One Night of Intense Preparation for Your Technical Interview in JavaScript &lpar;Part 1 Arrays&rpar;](https://dev.to/snayyar00/cracking-the-code-one-night-of-intense-preparation-for-your-technical-interview-in-javascript-part-1-arrays-4p3m)
 - [Dev.to/JS] [&quot;Mastering JavaScript Design Patterns: A Comprehensive Handbook&quot;](https://dev.to/pinky057/mastering-javascript-design-patterns-a-comprehensive-handbook-3mof)
-- [Dev.to/JS] [Making a 90s aesthetic text shadow design tool in only 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-90s-aesthetic-text-shadow-design-tool-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-29p6)
-- [Dev.to/JS] [JavaScript Object Accessors](https://dev.to/elaoqby/javascript-object-accessors-2gf4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
