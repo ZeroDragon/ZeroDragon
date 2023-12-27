@@ -27,6 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Add a special message when users copy text](https://dev.to/phuocng/add-a-special-message-when-users-copy-text-1i0j)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-27-2023)
 - [Dev.to/JS] [Implementing State management library - Awai Scenario](https://dev.to/yuriyyakym/implementing-state-management-library-awai-scenario-4h14)
 - [Dev.to/JS] [Ways to communicate between micro-frontends](https://dev.to/akdevcraft/ways-to-communicate-between-micro-frontends-51ol)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Remove Old Wallpaper](https://lifehacker.com/how-to-remove-old-wallpaper)
 - [Lifehacker] [Is Choking During Sex Ever Really Safe?](https://lifehacker.com/is-choking-during-sex-safe)
 - [Lifehacker] [7 Home Improvement Projects You Can Source From the Dollar Store](https://lifehacker.com/home-improvement-projects-you-can-source-from-the-dollar-store)
-- [Lifehacker] [Why Selling Your Home to an iBuyer Is Almost Always a Bad Idea](https://lifehacker.com/selling-your-home-to-an-ibuyer-is-almost-always-a-bad-idea)
-- [Lifehacker] [How to Spot a Serial Dater &lpar;and What to Do If It&#39;s You&rpar;](https://lifehacker.com/how-to-spot-a-serial-dater)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Selling Your Home to an iBuyer Is Almost Always a Bad Idea](https://lifehacker.com/selling-your-home-to-an-ibuyer-is-almost-always-a-bad-idea)<!-- TECH-POSTS:END -->
 
 ---
 
