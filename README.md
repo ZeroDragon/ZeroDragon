@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Concept of the day - early return pattern in JavaScript](https://dev.to/arikaturika/concept-of-the-day-early-return-pattern-in-javascript-42pc)
+- [Lifehacker] [What I Learned Tracking My Health Data for a Month](https://lifehacker.com/tech/what-i-learned-health-data-tracking)
 - [Dev.to/JS] [I built Hippotable for in-browser data analysis](https://dev.to/thoughtspile/i-built-hippotable-for-in-browser-data-analysis-4o4h)
 - [Dev.to/JS] [Nature](https://dev.to/khan094/nature-3g0d)
+- [Lifehacker] [More Than 2,000 E-books Are Free Today for ‘Stuff Your Kindle Day’](https://lifehacker.com/entertainment/get-free-ebooks-for-stuff-your-kindle-day)
 - [Dev.to/JS] [JavaScript: A Mini Playground Adventure](https://dev.to/geektopuslabs/javascript-a-mini-playground-adventure-2ka2)
 - [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
 - [Dev.to/JS] [Elixir para React.js Devs](https://dev.to/javascriptchile/elixir-para-reactjs-devs-37db)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Find a &#39;Bin Store&#39; Near You](https://lifehacker.com/money/how-to-find-a-bin-store-near-you)
 - [Dev.to/JS] [Understanding the Virtual DOM in React: A Comprehensive Guide](https://dev.to/sidramaqbool/understanding-the-virtual-dom-in-react-a-comprehensive-guide-1kgb)
 - [Lifehacker] [What Is the OnePlus R Series Phone, and Is It Really a ‘Flagship Killer’?](https://lifehacker.com/tech/what-is-oneplus-r-series-phone)
-- [Dev.to/JS] [A real solution for client-side Prisma types](https://dev.to/stuarthaas/client-side-prisma-types-mj)
 - [Lifehacker] [The Best Parenting Influencers Who Will Actually Make You Feel Like a Good Parent](https://lifehacker.com/family/best-parenting-influencers)
 - [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Book Your Travel Through Costco](https://lifehacker.com/travel/when-you-should-and-should-not-book-travel-through-costco)
 - [Lifehacker] [How to Factory Reset Your Google Nest &lpar;and When You Should&rpar;](https://lifehacker.com/tech/how-to-factory-reset-a-google-nest)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-23-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-23-2023)
-- [Lifehacker] [Read These Safety Tips Before Riding Your New E-bike](https://lifehacker.com/health/safety-tips-for-e-bikes)
-- [Lifehacker] [Use ‘Household’ Automations to Make Your Google Home Even Smarter](https://lifehacker.com/tech/google-home-automations-household-and-personal-routines)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-23-2023)<!-- TECH-POSTS:END -->
 
 ---
 
