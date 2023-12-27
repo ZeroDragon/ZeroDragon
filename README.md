@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Master the Art of Frontend: Essential Free Image Tools to Use in 2024! 🚀](https://dev.to/ritesh2204/essential-free-image-tools-for-frontend-developers-in-2023-2ecp)
+- [Dev.to/JS] [Understanding Middlewares](https://dev.to/harshchandwani/understanding-middlewares-508j)
+- [Dev.to/JS] [Akash Dilwale Aces Manlitics B2B ITES Drive, Crediting Stellar Prep at Radiant IT Services Pvt Ltd](https://dev.to/samarth_patil/akash-dilwale-aces-manlitics-b2b-ites-drive-crediting-stellar-prep-at-radiant-it-services-pvt-ltd-163o)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/ryanwilliams47765/buy-google-5-star-reviews-7pb)
+- [Dev.to/JS] [Display a confirm modal when closing the browser](https://dev.to/phuocng/display-a-confirm-modal-when-closing-the-browser-52co)
 - [Dev.to/JS] [Vue Templates: Should They Start from the Top or the Bottom?](https://dev.to/mikinovation/vue-templates-should-they-start-from-the-top-or-the-bottom-30lc)
 - [Dev.to/JS] [Add a special message when users copy text](https://dev.to/phuocng/add-a-special-message-when-users-copy-text-1i0j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-27-2023)
@@ -35,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Apa yang dimaksud dengan semantic html?](https://dev.to/muhammadiqbalid83/apa-yang-dimaksud-dengan-semantic-html-3h78)
 - [Dev.to/JS] [A Zero-Cost Monitoring Solution](https://dev.to/realvorl/a-zero-cost-monitoring-solution-12na)
 - [Dev.to/JS] [How to Implement a ZK rollup](https://dev.to/thebojda/how-to-implement-a-zk-rollup-1ha9)
-- [Dev.to/JS] [Handling asynchronous operations in JavaScript](https://dev.to/sewas87/handling-asynchronous-operations-in-javascript-4lig)
-- [Dev.to/JS] [16 Intermediate/Advanced JavaScript Projects to Dominate Your Next Technical Interview](https://dev.to/xplodivity/16-intermediateadvanced-javascript-projects-to-dominate-your-next-technical-interview-593n)
-- [Dev.to/JS] [Building your Own SaSS](https://dev.to/codingcatdev/building-your-own-sass-3c1n)
-- [Dev.to/JS] [Node version enforcement and convenience](https://dev.to/sanjarcode/node-version-enforcement-and-convenience-dfk)
-- [Dev.to/JS] [Generics in TypeScript](https://dev.to/usaidpeerzada/generics-in-typescript-5c5e)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
