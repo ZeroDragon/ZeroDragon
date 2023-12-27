@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Concept of the day - early return pattern in JavaScript](https://dev.to/arikaturika/concept-of-the-day-early-return-pattern-in-javascript-42pc)
+- [Dev.to/JS] [My 2023 Web Development Highlights](https://dev.to/junsupark94/my-2023-web-development-highlights-4n0e)
+- [Dev.to/JS] [All about RSS &lpar;Real Simple Syndication&rpar;](https://dev.to/parsafarahani84/all-about-rss-real-simple-syndication-i6n)
+- [Dev.to/JS] [One concept a day - early return pattern in JavaScript](https://dev.to/arikaturika/one-concept-a-day-early-return-pattern-in-javascript-3pol)
+- [Lifehacker] [Use This Test to See If Your Granite Countertop Needs to Be Resealed](https://lifehacker.com/home/how-to-tell-when-your-granite-counter-top-needs-to-be-resealed)
 - [Lifehacker] [What I Learned Tracking My Health Data for a Month](https://lifehacker.com/tech/what-i-learned-health-data-tracking)
 - [Dev.to/JS] [I built Hippotable for in-browser data analysis](https://dev.to/thoughtspile/i-built-hippotable-for-in-browser-data-analysis-4o4h)
 - [Dev.to/JS] [Nature](https://dev.to/khan094/nature-3g0d)
@@ -43,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sample Article Title](https://dev.to/priyancydey/sample-article-title-3mom)
 - [Lifehacker] [All the Features in Fitbit Premium &lpar;and Whether It’s Worth the Price&rpar;](https://lifehacker.com/tech/fitbit-premium-features)
 - [Dev.to/JS] [5 Things Most Developers Learn Too Late ⌛](https://dev.to/dragosnedelcu/5-things-most-developers-learn-too-late-5gj3)
-- [Dev.to/JS] [Mastering the Art of Web Development Debugging: Strategies and Tools for Efficient Troubleshooting](https://dev.to/iamdoncarey/mastering-the-art-of-web-development-debugging-strategies-and-tools-for-efficient-troubleshooting-47gn)
 - [Lifehacker] [You Should Find a &#39;Bin Store&#39; Near You](https://lifehacker.com/money/how-to-find-a-bin-store-near-you)
-- [Dev.to/JS] [Understanding the Virtual DOM in React: A Comprehensive Guide](https://dev.to/sidramaqbool/understanding-the-virtual-dom-in-react-a-comprehensive-guide-1kgb)
 - [Lifehacker] [What Is the OnePlus R Series Phone, and Is It Really a ‘Flagship Killer’?](https://lifehacker.com/tech/what-is-oneplus-r-series-phone)
 - [Lifehacker] [The Best Parenting Influencers Who Will Actually Make You Feel Like a Good Parent](https://lifehacker.com/family/best-parenting-influencers)
 - [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Book Your Travel Through Costco](https://lifehacker.com/travel/when-you-should-and-should-not-book-travel-through-costco)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
 - [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
 - [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-23-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-23-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-23-2023)<!-- TECH-POSTS:END -->
 
 ---
 
