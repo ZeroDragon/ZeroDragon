@@ -26,10 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Guide to Mastery in Type Conversion on JavaScript](https://dev.to/seracoder/a-guide-to-mastery-in-type-conversion-on-javascript-5879)
 - [Dev.to/JS] [Javascript .splice&lpar;&rpar; vs .toSpliced&lpar;&rpar;](https://dev.to/vvkkumar06/javascript-splice-vs-tospliced-3b78)
 - [Dev.to/JS] [Understanding the “data-no-turbolink” Attribute in HTML](https://dev.to/mktheitguy/understanding-the-data-no-turbolink-attribute-in-html-48bf)
 - [Dev.to/JS] [Meet React 18 and the new updates on 2023](https://dev.to/aryclenio/meet-react-18-and-the-new-updates-on-2023-15gc)
 - [Dev.to/JS] [Conheça o React 18 e suas atualizações em 2023](https://dev.to/aryclenio/conheca-o-react-18-e-suas-atualizacoes-em-2023-5b5o)
+- [Lifehacker] [The Best Movies to Watch on New Year’s Eve](https://lifehacker.com/entertainment/best-new-years-eve-movies)
 - [Dev.to/JS] [Day - 3 : Learning JavaScript: Unveiling the Magic of Code: Crafting a Simple Calculator](https://dev.to/aniketsaini65/day-3-learning-javascript-unveiling-the-magic-of-code-crafting-a-simple-calculator-4mmp)
 - [Lifehacker] [How to Soft Reboot Your Google Home](https://lifehacker.com/tech/soft-reboot-google-home)
 - [Dev.to/JS] [5 Golang Features I Wished Were Different!](https://dev.to/nikl/5-golang-features-i-wished-were-different-2mgp)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navy shoots down ballistic missiles launched by Iran-backed Houthis in Red Sea](https://dev.to/sh3106177777/navy-shoots-down-ballistic-missiles-launched-by-iran-backed-houthis-in-red-sea-2hnp)
 - [Dev.to/JS] [My 2023 Coding Recap](https://dev.to/vulcanwm/my-2023-coding-recap-3b3m)
 - [Dev.to/JS] [Mastering React with SOLID Principles: A Practical Guide](https://dev.to/krentrox/mastering-react-with-solid-principles-a-practical-guide-1cb5)
-- [Dev.to/JS] [Arrays vs Objetos en JavaScript: Cuándo y Por Qué Utilizarlos](https://dev.to/soyclaradev/arrays-vs-objetos-en-javascript-cuando-y-por-que-utilizarlos-iil)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-27-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Teach Your Kid to Tell Time](https://lifehacker.com/how-to-teach-your-kid-to-tell-time)
 - [Lifehacker] [How to Fix a Room When the Paint Color is All Wrong](https://lifehacker.com/how-to-fix-a-room-when-the-paint-color-is-all-wrong)
 - [Lifehacker] [An Age-by-Age Guide to Helping Your Kid Get Over Stage Fright](https://lifehacker.com/age-by-age-guide-to-helping-kids-overcome-stage-fright)
-- [Lifehacker] [The Best Way to Remove Old Wallpaper](https://lifehacker.com/how-to-remove-old-wallpaper)
-- [Lifehacker] [Is Choking During Sex Ever Really Safe?](https://lifehacker.com/is-choking-during-sex-safe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Remove Old Wallpaper](https://lifehacker.com/how-to-remove-old-wallpaper)<!-- TECH-POSTS:END -->
 
 ---
 
