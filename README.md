@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Switch Between Node Versions On Windows](https://dev.to/daslaw/how-to-switch-between-node-versions-on-windows-5755)
+- [Dev.to/JS] [How to use `.env` file v:20.6.0 `dotenv` npm package do not use.](https://dev.to/zobaidulkazi/how-to-use-env-file-v2060-dotenv-npm-package-do-not-use-930)
 - [Dev.to/JS] [The Israeli military says Gaza ground offensive has expanded into urban refugee camps](https://dev.to/sh3106177777/the-israeli-military-says-gaza-ground-offensive-has-expanded-into-urban-refugee-camps-klc)
 - [Dev.to/JS] [Dominando Arrays en JavaScript: Guía Completa](https://dev.to/soyclaradev/dominando-arrays-en-javascript-guia-completa-4b15)
 - [Dev.to/JS] [Beginners to Pro Quiz app idea?](https://dev.to/learnwithparam/beginners-to-pro-quiz-app-idea-4imp)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Turning Your Figma Designs into Customized Code](https://dev.to/function12_io/turning-your-figma-designs-into-customized-code-5aej)
 - [Dev.to/JS] [Orama search with Astro](https://dev.to/nguyen/orama-search-with-astro-kml)
 - [Dev.to/JS] [🚀 Master the Art of Frontend: Essential Free Image Tools to Use in 2024! 🚀](https://dev.to/ritesh2204/essential-free-image-tools-for-frontend-developers-in-2023-2ecp)
-- [Dev.to/JS] [Understanding Middlewares](https://dev.to/harshchandwani/understanding-middlewares-508j)
-- [Dev.to/JS] [Akash Dilwale Aces Manlitics B2B ITES Drive, Crediting Stellar Prep at Radiant IT Services Pvt Ltd](https://dev.to/samarth_patil/akash-dilwale-aces-manlitics-b2b-ites-drive-crediting-stellar-prep-at-radiant-it-services-pvt-ltd-163o)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-27-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
