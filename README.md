@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Apa yang dimaksud dengan semantic html?](https://dev.to/muhammadiqbalid83/apa-yang-dimaksud-dengan-semantic-html-3h78)
+- [Dev.to/JS] [A Zero-Cost Monitoring Solution](https://dev.to/realvorl/a-zero-cost-monitoring-solution-12na)
 - [Dev.to/JS] [How to Implement a ZK rollup](https://dev.to/thebojda/how-to-implement-a-zk-rollup-1ha9)
+- [Dev.to/JS] [Handling asynchronous operations in JavaScript](https://dev.to/sewas87/handling-asynchronous-operations-in-javascript-4lig)
 - [Dev.to/JS] [16 Intermediate/Advanced JavaScript Projects to Dominate Your Next Technical Interview](https://dev.to/xplodivity/16-intermediateadvanced-javascript-projects-to-dominate-your-next-technical-interview-593n)
 - [Dev.to/JS] [Building your Own SaSS](https://dev.to/codingcatdev/building-your-own-sass-3c1n)
 - [Dev.to/JS] [Node version enforcement and convenience](https://dev.to/sanjarcode/node-version-enforcement-and-convenience-dfk)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;Mastering JavaScript Design Patterns: A Comprehensive Handbook&quot;](https://dev.to/pinky057/mastering-javascript-design-patterns-a-comprehensive-handbook-3mof)
 - [Dev.to/JS] [Making a 90s aesthetic text shadow design tool in only 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-90s-aesthetic-text-shadow-design-tool-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-29p6)
 - [Dev.to/JS] [JavaScript Object Accessors](https://dev.to/elaoqby/javascript-object-accessors-2gf4)
-- [Dev.to/JS] [JavaScript Object Methods](https://dev.to/elaoqby/javascript-object-methods-3dgf)
-- [Dev.to/JS] [JavaScript Display Objects](https://dev.to/elaoqby/javascript-display-objects-58gl)
-- [Dev.to/JS] [Angular 17, does SSR/SSG really work?](https://dev.to/codingcatdev/angular-17-does-ssrssg-really-work-54k0)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
