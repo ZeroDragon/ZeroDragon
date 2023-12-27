@@ -26,9 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Things Most Developers Learn Too Late](https://dev.to/dragosnedelcu/5-things-most-developers-learn-too-late-5gj3)
+- [Dev.to/JS] [Mastering the Art of Web Development Debugging: Strategies and Tools for Efficient Troubleshooting](https://dev.to/iamdoncarey/mastering-the-art-of-web-development-debugging-strategies-and-tools-for-efficient-troubleshooting-47gn)
+- [Dev.to/JS] [Understanding the Virtual DOM in React: A Comprehensive Guide](https://dev.to/sidramaqbool/understanding-the-virtual-dom-in-react-a-comprehensive-guide-1kgb)
+- [Lifehacker] [What Is the OnePlus R Series Phone, and Is It Really a ‘Flagship Killer’?](https://lifehacker.com/tech/what-is-oneplus-r-series-phone)
+- [Dev.to/JS] [A real solution for client-side Prisma types](https://dev.to/stuarthaas/client-side-prisma-types-mj)
+- [Lifehacker] [The Best Parenting Influencers Who Will Actually Make You Feel Like a Good Parent](https://lifehacker.com/family/best-parenting-influencers)
 - [Dev.to/JS] [A Guide to Mastery in Type Conversion on JavaScript](https://dev.to/seracoder/a-guide-to-mastery-in-type-conversion-on-javascript-5879)
+- [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Book Your Travel Through Costco](https://lifehacker.com/travel/when-you-should-and-should-not-book-travel-through-costco)
 - [Dev.to/JS] [Javascript .splice&lpar;&rpar; vs .toSpliced&lpar;&rpar;](https://dev.to/vvkkumar06/javascript-splice-vs-tospliced-3b78)
 - [Dev.to/JS] [Understanding the “data-no-turbolink” Attribute in HTML](https://dev.to/mktheitguy/understanding-the-data-no-turbolink-attribute-in-html-48bf)
+- [Lifehacker] [How to Factory Reset Your Google Nest &lpar;and When You Should&rpar;](https://lifehacker.com/tech/how-to-factory-reset-a-google-nest)
 - [Dev.to/JS] [Meet React 18 and the new updates on 2023](https://dev.to/aryclenio/meet-react-18-and-the-new-updates-on-2023-15gc)
 - [Dev.to/JS] [Conheça o React 18 e suas atualizações em 2023](https://dev.to/aryclenio/conheca-o-react-18-e-suas-atualizacoes-em-2023-5b5o)
 - [Lifehacker] [The Best Movies to Watch on New Year’s Eve](https://lifehacker.com/entertainment/best-new-years-eve-movies)
@@ -36,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Soft Reboot Your Google Home](https://lifehacker.com/tech/soft-reboot-google-home)
 - [Dev.to/JS] [5 Golang Features I Wished Were Different!](https://dev.to/nikl/5-golang-features-i-wished-were-different-2mgp)
 - [Dev.to/JS] [Display a modal when users leave website](https://dev.to/phuocng/display-a-modal-when-users-leave-website-2hg9)
-- [Dev.to/JS] [Dominando Estructuras de Datos en JavaScript: Una Guía para Profesionales](https://dev.to/soyclaradev/dominando-estructuras-de-datos-en-javascript-una-guia-para-profesionales-27ij)
 - [Lifehacker] [‘Sensate Focus’ Can Help You Reclaim Your Sex Life](https://lifehacker.com/sensate-focus-can-help-sex-life)
-- [Dev.to/JS] [Navy shoots down ballistic missiles launched by Iran-backed Houthis in Red Sea](https://dev.to/sh3106177777/navy-shoots-down-ballistic-missiles-launched-by-iran-backed-houthis-in-red-sea-2hnp)
-- [Dev.to/JS] [My 2023 Coding Recap](https://dev.to/vulcanwm/my-2023-coding-recap-3b3m)
-- [Dev.to/JS] [Mastering React with SOLID Principles: A Practical Guide](https://dev.to/krentrox/mastering-react-with-solid-principles-a-practical-guide-1cb5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-27-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-27-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Raise Kids Who Aren’t Self-Conscious About Their Appearance](https://lifehacker.com/how-to-raise-kids-who-are-not-self-conscious-about-appearance)
 - [Lifehacker] [Everything You Need to Know Before Buying a Ninja CREAMi](https://lifehacker.com/everything-to-know-before-buying-a-ninja-creami)
 - [Lifehacker] [How to Recognize the Signs of Childhood OCD &lpar;and Get Help&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-childhood-ocd)
-- [Lifehacker] [You Should Add a Raw Egg to Your Grits](https://lifehacker.com/add-a-raw-egg-to-grits)
-- [Lifehacker] [The Best Ways to Teach Your Kid to Tell Time](https://lifehacker.com/how-to-teach-your-kid-to-tell-time)
-- [Lifehacker] [How to Fix a Room When the Paint Color is All Wrong](https://lifehacker.com/how-to-fix-a-room-when-the-paint-color-is-all-wrong)
-- [Lifehacker] [An Age-by-Age Guide to Helping Your Kid Get Over Stage Fright](https://lifehacker.com/age-by-age-guide-to-helping-kids-overcome-stage-fright)
-- [Lifehacker] [The Best Way to Remove Old Wallpaper](https://lifehacker.com/how-to-remove-old-wallpaper)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Add a Raw Egg to Your Grits](https://lifehacker.com/add-a-raw-egg-to-grits)<!-- TECH-POSTS:END -->
 
 ---
 
