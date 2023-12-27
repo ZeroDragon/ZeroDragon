@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I built Hippotable for in-browser data analysis](https://dev.to/thoughtspile/i-built-hippotable-for-in-browser-data-analysis-4o4h)
+- [Dev.to/JS] [Nature](https://dev.to/khan094/nature-3g0d)
+- [Dev.to/JS] [JavaScript: A Mini Playground Adventure](https://dev.to/geektopuslabs/javascript-a-mini-playground-adventure-2ka2)
+- [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
 - [Dev.to/JS] [Elixir para React.js Devs](https://dev.to/javascriptchile/elixir-para-reactjs-devs-37db)
+- [Lifehacker] [Why You Should Regularly Calculate Your Net Worth](https://lifehacker.com/money/how-to-calculate-your-net-worth)
 - [Dev.to/JS] [Exploring the shift from CSS-in-JS to headless UI libraries](https://dev.to/logrocket/exploring-the-shift-from-css-in-js-to-headless-ui-libraries-43o2)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in January 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-january-2024)
 - [Dev.to/JS] [TWC is not a revolution but…](https://dev.to/jsfez/twc-is-not-a-revolution-but-mb9)
@@ -41,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is the OnePlus R Series Phone, and Is It Really a ‘Flagship Killer’?](https://lifehacker.com/tech/what-is-oneplus-r-series-phone)
 - [Dev.to/JS] [A real solution for client-side Prisma types](https://dev.to/stuarthaas/client-side-prisma-types-mj)
 - [Lifehacker] [The Best Parenting Influencers Who Will Actually Make You Feel Like a Good Parent](https://lifehacker.com/family/best-parenting-influencers)
-- [Dev.to/JS] [A Guide to Mastery in Type Conversion on JavaScript](https://dev.to/seracoder/a-guide-to-mastery-in-type-conversion-on-javascript-5879)
 - [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Book Your Travel Through Costco](https://lifehacker.com/travel/when-you-should-and-should-not-book-travel-through-costco)
-- [Dev.to/JS] [Javascript .splice&lpar;&rpar; vs .toSpliced&lpar;&rpar;](https://dev.to/vvkkumar06/javascript-splice-vs-tospliced-3b78)
-- [Dev.to/JS] [Understanding the “data-no-turbolink” Attribute in HTML](https://dev.to/mktheitguy/understanding-the-data-no-turbolink-attribute-in-html-48bf)
 - [Lifehacker] [How to Factory Reset Your Google Nest &lpar;and When You Should&rpar;](https://lifehacker.com/tech/how-to-factory-reset-a-google-nest)
 - [Lifehacker] [The Best Movies to Watch on New Year’s Eve](https://lifehacker.com/entertainment/best-new-years-eve-movies)
 - [Lifehacker] [How to Soft Reboot Your Google Home](https://lifehacker.com/tech/soft-reboot-google-home)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-23-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-23-2023)
 - [Lifehacker] [Read These Safety Tips Before Riding Your New E-bike](https://lifehacker.com/health/safety-tips-for-e-bikes)
-- [Lifehacker] [Use ‘Household’ Automations to Make Your Google Home Even Smarter](https://lifehacker.com/tech/google-home-automations-household-and-personal-routines)
-- [Lifehacker] [Why You Should Consider a Death Doula](https://lifehacker.com/what-does-a-death-doula-do)
-- [Lifehacker] [How to Design the Best Home Environment for Someone With Dementia](https://lifehacker.com/home-design-for-someone-with-dementia)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use ‘Household’ Automations to Make Your Google Home Even Smarter](https://lifehacker.com/tech/google-home-automations-household-and-personal-routines)<!-- TECH-POSTS:END -->
 
 ---
 
