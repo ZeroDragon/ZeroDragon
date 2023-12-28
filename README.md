@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Watch The Rose Bowl Parade 2024 Live Streaming Free Tv Channel](https://dev.to/shshdh/how-to-watch-the-rose-bowl-parade-2024-live-streaming-free-tv-channel-15i0)
+- [Dev.to/JS] [Vue.js State Management Guide: Pinia in Practice](https://dev.to/kucherol/vuejs-state-management-guide-pinia-in-practice-2000)
+- [Dev.to/JS] [Realtors in Kolkata](https://dev.to/shriharshrealtorsinkolkata/realtors-in-kolkata-1abd)
+- [Dev.to/JS] [Building a Simple Email Sending API with Express and Node.js](https://dev.to/manthanank/building-a-simple-email-sending-api-with-express-and-nodejs-eln)
 - [Dev.to/JS] [Geometry Dash](https://dev.to/herringbur/geometry-dash-ea1)
 - [Dev.to/JS] [Connect Your Github To VS Code](https://dev.to/jacobdev/connect-your-github-to-vs-code-3l69)
 - [Dev.to/JS] [How to Become a Technical Writer at Google](https://dev.to/devgancode/how-to-become-a-technical-writer-at-google-nd6)
@@ -34,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&lpar;833&rpar; 317-4150 How Can I Talk to Facebook Customer Service? 5 Simple Ways](https://dev.to/stockadam38/833-317-4150-how-can-i-talk-to-facebook-customer-service-5-simple-ways-3jm2)
 - [Dev.to/JS] [Micro-Frontend Decision Framework](https://dev.to/akdevcraft/micro-frontend-decision-framework-26hf)
 - [Dev.to/JS] [Array Rotation in JavaScript](https://dev.to/imkrunalkanojiya/array-rotation-in-javascript-2i79)
-- [Dev.to/JS] [Puravive Reviews &lpar;Update 2023&rpar; New Report Details Shocking Consumer Results &amp; Benefits Risk!](https://dev.to/qsakhtbva/puravive-reviews-update-2023-new-report-details-shocking-consumer-results-benefits-risk-4l74)
-- [Dev.to/JS] [Giới thiệu #Jun88Website – Nhà cái uy tín và an toàn bậc nhất.](https://dev.to/jun88delivery/gioi-thieu-jun88website-nha-cai-uy-tin-va-an-toan-bac-nhat-2a7j)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
-- [Dev.to/JS] [Catalogue of CLI commands and IDE keyboard shortcuts for a growing Developer](https://dev.to/colin-williams-dev/catalogue-of-cli-commands-and-ide-keyboard-shortcuts-for-a-growing-developer-1c9d)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-28-2023)
-- [Dev.to/JS] [Anouncing Interaqt: Bring Reactivity to Backend](https://dev.to/sskyy/anouncing-interaqt-bring-reactivity-to-backend-4n1i)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
 - [Lifehacker] [You Should Make Nutella Hot Chocolate Right Away](https://lifehacker.com/food-drink/easy-nutella-hot-chocolate-recipe)
 - [Lifehacker] [How to Strengthen Your Sex Life in the New Year](https://lifehacker.com/relationships/new-years-resolutions-to-strengthen-your-sex-life)
