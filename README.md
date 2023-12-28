@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 9: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-9-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-3k74)
+- [Dev.to/JS] [Thanksgiving Movie 2023](https://dev.to/mdshuvo/thanksgiving-movie-2023-23k8)
+- [Dev.to/JS] [Developer Onboarding for Pi network Blockchain](https://dev.to/ajaaykumaar/developer-onboarding-for-pi-network-blockchain-1ge4)
+- [Dev.to/JS] [Part 8: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-7-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-2gg0)
 - [Dev.to/JS] [Low Code vs Traditional Development: Optimal Efficiency in Choice](https://dev.to/illa/low-code-vs-traditional-development-optimal-efficiency-in-choice-4fmo)
 - [Dev.to/JS] [Today I build &#39;Oldagram&#39; page from Scrimba](https://dev.to/anderutan/today-i-build-oldagram-page-from-scrimba-c6i)
 - [Dev.to/JS] [Counter-intuitive web devs mistakes](https://dev.to/vaclavnovotny/counter-intuitive-web-devs-mistakes-j5m)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Comprehensive Guide to Boosting Google Ranking: Optimizing Core Web Vitals for Your WordPress Site](https://dev.to/jamesmartindev/a-comprehensive-guide-to-boosting-google-ranking-optimizing-core-web-vitals-for-your-wordpress-site-1kjk)
 - [Dev.to/JS] [Unlocking the Power of Laravel: A Comprehensive Guide to Modern Web Development](https://dev.to/agiconsolution/unlocking-the-power-of-laravel-a-comprehensive-guide-to-modern-web-development-5580)
 - [Dev.to/JS] [How To Watch The Rose Bowl Parade 2024 Live Streaming Free Tv Channel](https://dev.to/shshdh/how-to-watch-the-rose-bowl-parade-2024-live-streaming-free-tv-channel-15i0)
-- [Dev.to/JS] [Vue.js State Management Guide: Pinia in Practice](https://dev.to/kucherol/vuejs-state-management-guide-pinia-in-practice-2000)
-- [Dev.to/JS] [Realtors in Kolkata](https://dev.to/shriharshrealtorsinkolkata/realtors-in-kolkata-1abd)
-- [Dev.to/JS] [Building a Simple Email Sending API with Express and Node.js](https://dev.to/manthanank/building-a-simple-email-sending-api-with-express-and-nodejs-eln)
-- [Dev.to/JS] [Geometry Dash](https://dev.to/herringbur/geometry-dash-ea1)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-28-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
