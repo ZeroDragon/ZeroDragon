@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Become a Technical Writer at Google](https://dev.to/devgancode/how-to-become-a-technical-writer-at-google-nd6)
+- [Dev.to/JS] [JavaScript Function Definitions](https://dev.to/elaoqby/javascript-function-definitions-50db)
 - [Dev.to/JS] [Behind the Screens: How Your App&#39;s Back-end Works](https://dev.to/a4arpon/behind-the-screens-how-your-apps-back-end-works-bgg)
 - [Dev.to/JS] [&lpar;833&rpar; 317-4150 How Can I Talk to Facebook Customer Service? 5 Simple Ways](https://dev.to/stockadam38/833-317-4150-how-can-i-talk-to-facebook-customer-service-5-simple-ways-3jm2)
 - [Dev.to/JS] [Micro-Frontend Decision Framework](https://dev.to/akdevcraft/micro-frontend-decision-framework-26hf)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Strengthen Your Sex Life in the New Year](https://lifehacker.com/relationships/new-years-resolutions-to-strengthen-your-sex-life)
 - [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $180 Right Now](https://lifehacker.com/entertainment/curiosity-stream-sale)
 - [Lifehacker] [How to Calculate the Total Cost of Any Recipe](https://lifehacker.com/money/how-to-calculate-the-total-cost-of-any-recipe)
-- [Dev.to/JS] [Make Like a Binary Search Tree and...Node?](https://dev.to/greenteaisgreat/make-like-a-binary-search-tree-andnode-1fng)
 - [Lifehacker] [How to Repair a Small Tear, Scratch, or Gouge in Your Vinyl Floor](https://lifehacker.com/home/how-to-repair-vinyl-flooring)
-- [Dev.to/JS] [Thala for a reason!!!!!!!](https://dev.to/smitesh25/thala-for-a-reason-1f60)
 - [Lifehacker] [How a Wedge Pillow Can Improve Your Sleep &lpar;and Your Life&rpar;](https://lifehacker.com/health/wedge-pillow-benefits)
 - [Lifehacker] [How to Choose Between Alexa and Google Assistant](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-assistant)
 - [Lifehacker] [Try This Method to Organize Your 2024 Goals and Accomplishments](https://lifehacker.com/work/track-organize-goals-accomplishments)
