@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Behind the Screens: How Your App&#39;s Back-end Works](https://dev.to/a4arpon/behind-the-screens-how-your-apps-back-end-works-bgg)
+- [Dev.to/JS] [&lpar;833&rpar; 317-4150 How Can I Talk to Facebook Customer Service? 5 Simple Ways](https://dev.to/stockadam38/833-317-4150-how-can-i-talk-to-facebook-customer-service-5-simple-ways-3jm2)
+- [Dev.to/JS] [Micro-Frontend Decision Framework](https://dev.to/akdevcraft/micro-frontend-decision-framework-26hf)
+- [Dev.to/JS] [Array Rotation in JavaScript](https://dev.to/imkrunalkanojiya/array-rotation-in-javascript-2i79)
 - [Dev.to/JS] [Puravive Reviews &lpar;Update 2023&rpar; New Report Details Shocking Consumer Results &amp; Benefits Risk!](https://dev.to/qsakhtbva/puravive-reviews-update-2023-new-report-details-shocking-consumer-results-benefits-risk-4l74)
 - [Dev.to/JS] [Giới thiệu #Jun88Website – Nhà cái uy tín và an toàn bậc nhất.](https://dev.to/jun88delivery/gioi-thieu-jun88website-nha-cai-uy-tin-va-an-toan-bac-nhat-2a7j)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
@@ -45,14 +49,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How a Wedge Pillow Can Improve Your Sleep &lpar;and Your Life&rpar;](https://lifehacker.com/health/wedge-pillow-benefits)
 - [Lifehacker] [How to Choose Between Alexa and Google Assistant](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-assistant)
 - [Lifehacker] [Try This Method to Organize Your 2024 Goals and Accomplishments](https://lifehacker.com/work/track-organize-goals-accomplishments)
-- [Dev.to/JS] [My 2023 Web Development Highlights](https://dev.to/junsupark94/my-2023-web-development-highlights-4n0e)
 - [Lifehacker] [You Can Get a Google Display Hub for 40% Off Right Now](https://lifehacker.com/tech/walmart-google-display-hub-sale)
-- [Dev.to/JS] [All about RSS &lpar;Real Simple Syndication&rpar;](https://dev.to/parsafarahani84/all-about-rss-real-simple-syndication-i6n)
-- [Dev.to/JS] [One concept a day - early return pattern in JavaScript](https://dev.to/arikaturika/one-concept-a-day-early-return-pattern-in-javascript-3pol)
 - [Lifehacker] [The Best True Crime Podcasts of 2023](https://lifehacker.com/entertainment/the-best-true-crime-podcasts-of-2023)
 - [Lifehacker] [Use This Test to See If Your Granite Countertop Needs to Be Resealed](https://lifehacker.com/home/how-to-tell-when-your-granite-counter-top-needs-to-be-resealed)
 - [Lifehacker] [What I Learned Tracking My Health Data for a Month](https://lifehacker.com/tech/what-i-learned-health-data-tracking)
-- [Dev.to/JS] [I built Hippotable for in-browser data analysis](https://dev.to/thoughtspile/i-built-hippotable-for-in-browser-data-analysis-4o4h)
 - [Lifehacker] [More Than 2,000 E-books Are Free Today for ‘Stuff Your Kindle Day’](https://lifehacker.com/entertainment/get-free-ebooks-for-stuff-your-kindle-day)
 - [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
 - [Lifehacker] [Why You Should Regularly Calculate Your Net Worth](https://lifehacker.com/money/how-to-calculate-your-net-worth)
