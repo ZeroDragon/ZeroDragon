@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s code together in 2024](https://dev.to/toviszsolt/lets-code-together-in-2024-347b)
+- [Dev.to/JS] [Navigating the npm vs. npx Showdown](https://dev.to/bkmahapatra/navigating-the-npm-vs-npx-showdown-59ij)
+- [Dev.to/JS] [shoptimized](https://dev.to/wsovn112/shoptimized-8ai)
+- [Dev.to/JS] [Optimizing Online File Delivery: Secure Methods and Streamlined Upload Processes](https://dev.to/ideradevtools/optimizing-online-file-delivery-secure-methods-and-streamlined-upload-processes-klo)
+- [Dev.to/JS] [Nx - Highlights of 2023](https://dev.to/nx/nx-highlights-of-2023-4a77)
+- [Lifehacker] [The Difference Between a Stove and Range](https://lifehacker.com/home/difference-between-stove-range)
+- [Lifehacker] [You Can Change Your Spotify Display Name](https://lifehacker.com/tech/how-to-change-your-spotify-username)
 - [Dev.to/JS] [The Anatomy of Streams: Readable and Writable Streams in Node.js](https://dev.to/ruben_alapont/the-anatomy-of-streams-readable-and-writable-streams-in-nodejs-cna)
 - [Dev.to/JS] [Build Blazing Fast Websites with Next.js ISR and Headless CMS](https://dev.to/adityar15/build-blazing-fast-websites-with-nextjs-isr-and-headless-cms-moc)
 - [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App for Android](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
@@ -38,13 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Factory — JavaScript Design Patterns — Part 3](https://dev.to/jaimaldullat/factory-javascript-design-patterns-part-3-3odl)
 - [Dev.to/JS] [2024’s Tech Trend: Frontend for Backend](https://dev.to/opensourcee/2024-is-the-year-of-frontend-for-backend-ffb-6fg)
 - [Lifehacker] [The Best Podcast Episodes of 2023](https://lifehacker.com/entertainment/the-best-podcast-episodes-of-2023)
-- [Dev.to/JS] [Creating an autogrowing textarea with React and Typescript](https://dev.to/snikidev/creating-an-autogrowing-textarea-with-react-and-typescript-45oc)
-- [Dev.to/JS] [WHAT IS HELMETjs?](https://dev.to/mkobimbo/what-is-helmetjs-1nbd)
 - [Lifehacker] [When You Should Buy Tools Individually &lpar;and When You Should Buy a Set&rpar;](https://lifehacker.com/home/buy-tools-individually-or-in-set)
-- [Dev.to/JS] [Revolutionize Your Coding Workflow with Our Open-Source VSCode Extension – CodeMuse!](https://dev.to/auguste/revolutionize-your-coding-workflow-with-our-open-source-vscode-extension-codemuse-530m)
-- [Dev.to/JS] [Part 9: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-9-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-3k74)
 - [Lifehacker] [How to Use Any Laptop With the Lid Shut](https://lifehacker.com/tech/how-to-use-laptop-with-lid-shut)
-- [Dev.to/JS] [Thanksgiving Movie 2023](https://dev.to/mdshuvo/thanksgiving-movie-2023-23k8)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-28-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [More Than 2,000 E-books Are Free Today for ‘Stuff Your Kindle Day’](https://lifehacker.com/entertainment/get-free-ebooks-for-stuff-your-kindle-day)
 - [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
 - [Lifehacker] [Why You Should Regularly Calculate Your Net Worth](https://lifehacker.com/money/how-to-calculate-your-net-worth)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in January 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-january-2024)
-- [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/this-nix-mini-2-color-sensor-is-60-right-now-1850643055)
-- [Lifehacker] [All the Features in Fitbit Premium &lpar;and Whether It’s Worth the Price&rpar;](https://lifehacker.com/tech/fitbit-premium-features)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in January 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-january-2024)<!-- TECH-POSTS:END -->
 
 ---
 
