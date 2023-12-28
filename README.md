@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Geometry Dash](https://dev.to/herringbur/geometry-dash-ea1)
+- [Dev.to/JS] [Connect Your Github To VS Code](https://dev.to/jacobdev/connect-your-github-to-vs-code-3l69)
 - [Dev.to/JS] [How to Become a Technical Writer at Google](https://dev.to/devgancode/how-to-become-a-technical-writer-at-google-nd6)
 - [Dev.to/JS] [JavaScript Function Definitions](https://dev.to/elaoqby/javascript-function-definitions-50db)
 - [Dev.to/JS] [Behind the Screens: How Your App&#39;s Back-end Works](https://dev.to/a4arpon/behind-the-screens-how-your-apps-back-end-works-bgg)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-28-2023)
 - [Dev.to/JS] [Anouncing Interaqt: Bring Reactivity to Backend](https://dev.to/sskyy/anouncing-interaqt-bring-reactivity-to-backend-4n1i)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
-- [Dev.to/JS] [Animate the removal or addition of an item in a list](https://dev.to/phuocng/animate-the-removal-or-addition-of-an-item-in-a-list-3l2i)
-- [Dev.to/JS] [Tutorial hell](https://dev.to/thesleepydev/tutorial-hell-15ik)
 - [Lifehacker] [You Should Make Nutella Hot Chocolate Right Away](https://lifehacker.com/food-drink/easy-nutella-hot-chocolate-recipe)
 - [Lifehacker] [How to Strengthen Your Sex Life in the New Year](https://lifehacker.com/relationships/new-years-resolutions-to-strengthen-your-sex-life)
 - [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $180 Right Now](https://lifehacker.com/entertainment/curiosity-stream-sale)
