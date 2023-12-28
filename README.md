@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimize Your Twitter Strategy with Our Free Analytics Tool](https://dev.to/twitter-analytics/optimize-your-twitter-strategy-with-our-free-analytics-tool-4lj5)
+- [Dev.to/JS] [Best JavaScript Chart Libraries 2024: Finding the Right Fit for Your JS Applications](https://dev.to/andyb1979/best-javascript-chart-libraries-2024-finding-the-right-fit-for-your-js-applications-34hl)
+- [Dev.to/JS] [A Comprehensive Guide to Boosting Google Ranking: Optimizing Core Web Vitals for Your WordPress Site](https://dev.to/jamesmartindev/a-comprehensive-guide-to-boosting-google-ranking-optimizing-core-web-vitals-for-your-wordpress-site-1kjk)
+- [Dev.to/JS] [Unlocking the Power of Laravel: A Comprehensive Guide to Modern Web Development](https://dev.to/agiconsolution/unlocking-the-power-of-laravel-a-comprehensive-guide-to-modern-web-development-5580)
 - [Dev.to/JS] [How To Watch The Rose Bowl Parade 2024 Live Streaming Free Tv Channel](https://dev.to/shshdh/how-to-watch-the-rose-bowl-parade-2024-live-streaming-free-tv-channel-15i0)
 - [Dev.to/JS] [Vue.js State Management Guide: Pinia in Practice](https://dev.to/kucherol/vuejs-state-management-guide-pinia-in-practice-2000)
 - [Dev.to/JS] [Realtors in Kolkata](https://dev.to/shriharshrealtorsinkolkata/realtors-in-kolkata-1abd)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Connect Your Github To VS Code](https://dev.to/jacobdev/connect-your-github-to-vs-code-3l69)
 - [Dev.to/JS] [How to Become a Technical Writer at Google](https://dev.to/devgancode/how-to-become-a-technical-writer-at-google-nd6)
 - [Dev.to/JS] [JavaScript Function Definitions](https://dev.to/elaoqby/javascript-function-definitions-50db)
-- [Dev.to/JS] [Behind the Screens: How Your App&#39;s Back-end Works](https://dev.to/a4arpon/behind-the-screens-how-your-apps-back-end-works-bgg)
-- [Dev.to/JS] [&lpar;833&rpar; 317-4150 How Can I Talk to Facebook Customer Service? 5 Simple Ways](https://dev.to/stockadam38/833-317-4150-how-can-i-talk-to-facebook-customer-service-5-simple-ways-3jm2)
-- [Dev.to/JS] [Micro-Frontend Decision Framework](https://dev.to/akdevcraft/micro-frontend-decision-framework-26hf)
-- [Dev.to/JS] [Array Rotation in JavaScript](https://dev.to/imkrunalkanojiya/array-rotation-in-javascript-2i79)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-28-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
