@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #tips](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-tips-23m7)
+- [Dev.to/JS] [Factory — JavaScript Design Patterns — Part 3](https://dev.to/jaimaldullat/factory-javascript-design-patterns-part-3-3odl)
+- [Dev.to/JS] [2024’s Tech Trend: Frontend for Backend](https://dev.to/opensourcee/2024-is-the-year-of-frontend-for-backend-ffb-6fg)
+- [Lifehacker] [The Best Podcast Episodes of 2023](https://lifehacker.com/entertainment/the-best-podcast-episodes-of-2023)
 - [Dev.to/JS] [Creating an autogrowing textarea with React and Typescript](https://dev.to/snikidev/creating-an-autogrowing-textarea-with-react-and-typescript-45oc)
 - [Dev.to/JS] [WHAT IS HELMETjs?](https://dev.to/mkobimbo/what-is-helmetjs-1nbd)
+- [Lifehacker] [When You Should Buy Tools Individually &lpar;and When You Should Buy a Set&rpar;](https://lifehacker.com/home/buy-tools-individually-or-in-set)
 - [Dev.to/JS] [Revolutionize Your Coding Workflow with Our Open-Source VSCode Extension – CodeMuse!](https://dev.to/auguste/revolutionize-your-coding-workflow-with-our-open-source-vscode-extension-codemuse-530m)
 - [Dev.to/JS] [Part 9: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-9-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-3k74)
 - [Lifehacker] [How to Use Any Laptop With the Lid Shut](https://lifehacker.com/tech/how-to-use-laptop-with-lid-shut)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part 8: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-7-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-2gg0)
 - [Dev.to/JS] [Low Code vs Traditional Development: Optimal Efficiency in Choice](https://dev.to/illa/low-code-vs-traditional-development-optimal-efficiency-in-choice-4fmo)
 - [Dev.to/JS] [Today I build &#39;Oldagram&#39; page from Scrimba](https://dev.to/anderutan/today-i-build-oldagram-page-from-scrimba-c6i)
-- [Dev.to/JS] [Counter-intuitive web devs mistakes](https://dev.to/vaclavnovotny/counter-intuitive-web-devs-mistakes-j5m)
-- [Dev.to/JS] [Optimize Your Twitter Strategy with Our Free Analytics Tool](https://dev.to/twitter-analytics/optimize-your-twitter-strategy-with-our-free-analytics-tool-4lj5)
-- [Dev.to/JS] [Best JavaScript Chart Libraries 2024: Finding the Right Fit for Your JS Applications](https://dev.to/andyb1979/best-javascript-chart-libraries-2024-finding-the-right-fit-for-your-js-applications-34hl)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-28-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Find a &#39;Bin Store&#39; Near You](https://lifehacker.com/money/how-to-find-a-bin-store-near-you)
 - [Lifehacker] [What Is the OnePlus R Series Phone, and Is It Really a ‘Flagship Killer’?](https://lifehacker.com/tech/what-is-oneplus-r-series-phone)
 - [Lifehacker] [The Best Parenting Influencers Who Will Actually Make You Feel Like a Good Parent](https://lifehacker.com/family/best-parenting-influencers)
-- [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Book Your Travel Through Costco](https://lifehacker.com/travel/when-you-should-and-should-not-book-travel-through-costco)
-- [Lifehacker] [How to Factory Reset Your Google Nest &lpar;and When You Should&rpar;](https://lifehacker.com/tech/how-to-factory-reset-a-google-nest)
-- [Lifehacker] [The Best Movies to Watch on New Year’s Eve](https://lifehacker.com/entertainment/best-new-years-eve-movies)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Book Your Travel Through Costco](https://lifehacker.com/travel/when-you-should-and-should-not-book-travel-through-costco)<!-- TECH-POSTS:END -->
 
 ---
 
