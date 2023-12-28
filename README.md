@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Catalogue of CLI commands and IDE keyboard shortcuts for a growing Developer](https://dev.to/colin-williams-dev/catalogue-of-cli-commands-and-ide-keyboard-shortcuts-for-a-growing-developer-1c9d)
 - [Dev.to/JS] [Anouncing Interaqt: Bring Reactivity to Backend](https://dev.to/sskyy/anouncing-interaqt-bring-reactivity-to-backend-4n1i)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
 - [Dev.to/JS] [Animate the removal or addition of an item in a list](https://dev.to/phuocng/animate-the-removal-or-addition-of-an-item-in-a-list-3l2i)
@@ -52,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [More Than 2,000 E-books Are Free Today for ‘Stuff Your Kindle Day’](https://lifehacker.com/entertainment/get-free-ebooks-for-stuff-your-kindle-day)
 - [Dev.to/JS] [JavaScript: A Mini Playground Adventure](https://dev.to/geektopuslabs/javascript-a-mini-playground-adventure-2ka2)
 - [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
-- [Dev.to/JS] [Elixir para React.js Devs](https://dev.to/javascriptchile/elixir-para-reactjs-devs-37db)
 - [Lifehacker] [Why You Should Regularly Calculate Your Net Worth](https://lifehacker.com/money/how-to-calculate-your-net-worth)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in January 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-january-2024)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/this-nix-mini-2-color-sensor-is-60-right-now-1850643055)
