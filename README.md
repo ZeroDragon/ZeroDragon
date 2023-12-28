@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Anatomy of Streams: Readable and Writable Streams in Node.js](https://dev.to/ruben_alapont/the-anatomy-of-streams-readable-and-writable-streams-in-nodejs-cna)
+- [Dev.to/JS] [Build Blazing Fast Websites with Next.js ISR and Headless CMS](https://dev.to/adityar15/build-blazing-fast-websites-with-nextjs-isr-and-headless-cms-moc)
+- [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App for Android](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
 - [Dev.to/JS] [Threads using Next.js 14, Prisma, Tailwind.CSS &amp; Next-Auth 🤩](https://dev.to/devtips3/threads-using-nextjs-14-prisma-tailwindcss-next-auth-13c0)
 - [Dev.to/JS] [Paracetamol.js💊| #225: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-225-explica-este-codigo-javascript-3mh9)
+- [Lifehacker] [The Samsung Bespoke Jet AI Stick Vacuum Will Pick Up Just About Anything](https://lifehacker.com/tech/samsung-bespoke-jet-ai-vacuum-review)
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #tips](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-tips-23m7)
 - [Lifehacker] [How to Make Thicker, Crunchier, Better Granola at Home](https://lifehacker.com/food-drink/how-to-make-better-granola-at-home)
 - [Lifehacker] [How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-a-macbook)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part 9: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-9-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-3k74)
 - [Lifehacker] [How to Use Any Laptop With the Lid Shut](https://lifehacker.com/tech/how-to-use-laptop-with-lid-shut)
 - [Dev.to/JS] [Thanksgiving Movie 2023](https://dev.to/mdshuvo/thanksgiving-movie-2023-23k8)
-- [Dev.to/JS] [Developer Onboarding for Pi network Blockchain](https://dev.to/ajaaykumaar/developer-onboarding-for-pi-network-blockchain-1ge4)
-- [Dev.to/JS] [Part 8: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-7-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-2gg0)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-28-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Regularly Calculate Your Net Worth](https://lifehacker.com/money/how-to-calculate-your-net-worth)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in January 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-january-2024)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/this-nix-mini-2-color-sensor-is-60-right-now-1850643055)
-- [Lifehacker] [All the Features in Fitbit Premium &lpar;and Whether It’s Worth the Price&rpar;](https://lifehacker.com/tech/fitbit-premium-features)
-- [Lifehacker] [You Should Find a &#39;Bin Store&#39; Near You](https://lifehacker.com/money/how-to-find-a-bin-store-near-you)
-- [Lifehacker] [What Is the OnePlus R Series Phone, and Is It Really a ‘Flagship Killer’?](https://lifehacker.com/tech/what-is-oneplus-r-series-phone)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Features in Fitbit Premium &lpar;and Whether It’s Worth the Price&rpar;](https://lifehacker.com/tech/fitbit-premium-features)<!-- TECH-POSTS:END -->
 
 ---
 
