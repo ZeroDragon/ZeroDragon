@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tackling Deployment Failures with Git Hooks](https://dev.to/ravishanker/tackling-deployment-failures-with-git-hooks-4gfb)
+- [Dev.to/JS] [How to earn money with Survimo online surveys?](https://dev.to/mood/how-to-earn-money-with-survimo-online-surveys-5g08)
+- [Lifehacker] [When to Fix and When to Replace Your Broken Range](https://lifehacker.com/home/when-to-fix-or-replace-range)
 - [Dev.to/JS] [Let&#39;s code together in 2024](https://dev.to/toviszsolt/lets-code-together-in-2024-347b)
 - [Dev.to/JS] [Navigating the npm vs. npx Showdown](https://dev.to/bkmahapatra/navigating-the-npm-vs-npx-showdown-59ij)
+- [Lifehacker] [You Can Get a Lifetime Subscription to Babbel Language Learning for $160 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
 - [Dev.to/JS] [shoptimized](https://dev.to/wsovn112/shoptimized-8ai)
 - [Dev.to/JS] [Optimizing Online File Delivery: Secure Methods and Streamlined Upload Processes](https://dev.to/ideradevtools/optimizing-online-file-delivery-secure-methods-and-streamlined-upload-processes-klo)
 - [Dev.to/JS] [Nx - Highlights of 2023](https://dev.to/nx/nx-highlights-of-2023-4a77)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #tips](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-tips-23m7)
 - [Lifehacker] [How to Make Thicker, Crunchier, Better Granola at Home](https://lifehacker.com/food-drink/how-to-make-better-granola-at-home)
 - [Lifehacker] [How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-a-macbook)
-- [Dev.to/JS] [Factory — JavaScript Design Patterns — Part 3](https://dev.to/jaimaldullat/factory-javascript-design-patterns-part-3-3odl)
-- [Dev.to/JS] [2024’s Tech Trend: Frontend for Backend](https://dev.to/opensourcee/2024-is-the-year-of-frontend-for-backend-ffb-6fg)
 - [Lifehacker] [The Best Podcast Episodes of 2023](https://lifehacker.com/entertainment/the-best-podcast-episodes-of-2023)
 - [Lifehacker] [When You Should Buy Tools Individually &lpar;and When You Should Buy a Set&rpar;](https://lifehacker.com/home/buy-tools-individually-or-in-set)
 - [Lifehacker] [How to Use Any Laptop With the Lid Shut](https://lifehacker.com/tech/how-to-use-laptop-with-lid-shut)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Test to See If Your Granite Countertop Needs to Be Resealed](https://lifehacker.com/home/how-to-tell-when-your-granite-counter-top-needs-to-be-resealed)
 - [Lifehacker] [What I Learned Tracking My Health Data for a Month](https://lifehacker.com/tech/what-i-learned-health-data-tracking)
 - [Lifehacker] [More Than 2,000 E-books Are Free Today for ‘Stuff Your Kindle Day’](https://lifehacker.com/entertainment/get-free-ebooks-for-stuff-your-kindle-day)
-- [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
-- [Lifehacker] [Why You Should Regularly Calculate Your Net Worth](https://lifehacker.com/money/how-to-calculate-your-net-worth)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in January 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-january-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)<!-- TECH-POSTS:END -->
 
 ---
 
