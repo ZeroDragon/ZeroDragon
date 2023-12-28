@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Low Code vs Traditional Development: Optimal Efficiency in Choice](https://dev.to/illa/low-code-vs-traditional-development-optimal-efficiency-in-choice-4fmo)
+- [Dev.to/JS] [Today I build &#39;Oldagram&#39; page from Scrimba](https://dev.to/anderutan/today-i-build-oldagram-page-from-scrimba-c6i)
+- [Dev.to/JS] [Counter-intuitive web devs mistakes](https://dev.to/vaclavnovotny/counter-intuitive-web-devs-mistakes-j5m)
 - [Dev.to/JS] [Optimize Your Twitter Strategy with Our Free Analytics Tool](https://dev.to/twitter-analytics/optimize-your-twitter-strategy-with-our-free-analytics-tool-4lj5)
 - [Dev.to/JS] [Best JavaScript Chart Libraries 2024: Finding the Right Fit for Your JS Applications](https://dev.to/andyb1979/best-javascript-chart-libraries-2024-finding-the-right-fit-for-your-js-applications-34hl)
 - [Dev.to/JS] [A Comprehensive Guide to Boosting Google Ranking: Optimizing Core Web Vitals for Your WordPress Site](https://dev.to/jamesmartindev/a-comprehensive-guide-to-boosting-google-ranking-optimizing-core-web-vitals-for-your-wordpress-site-1kjk)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Realtors in Kolkata](https://dev.to/shriharshrealtorsinkolkata/realtors-in-kolkata-1abd)
 - [Dev.to/JS] [Building a Simple Email Sending API with Express and Node.js](https://dev.to/manthanank/building-a-simple-email-sending-api-with-express-and-nodejs-eln)
 - [Dev.to/JS] [Geometry Dash](https://dev.to/herringbur/geometry-dash-ea1)
-- [Dev.to/JS] [Connect Your Github To VS Code](https://dev.to/jacobdev/connect-your-github-to-vs-code-3l69)
-- [Dev.to/JS] [How to Become a Technical Writer at Google](https://dev.to/devgancode/how-to-become-a-technical-writer-at-google-nd6)
-- [Dev.to/JS] [JavaScript Function Definitions](https://dev.to/elaoqby/javascript-function-definitions-50db)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-28-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
