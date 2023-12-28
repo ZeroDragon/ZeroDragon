@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pipe Maze](https://dev.to/rmion/pipe-maze-2ol1)
+- [Lifehacker] [The ASUS Rog Ally Is at Its Lowest Price Ever](https://lifehacker.com/entertainment/asus-rog-ally-sale-at-best-buy)
+- [Lifehacker] [Give Pigs a Break With Pickles in a Blanket](https://lifehacker.com/food-drink/easy-pickles-in-a-blanket-recipe)
 - [Dev.to/JS] [Episode 23/51: TanStack Query in Angular, Alex Rickabaugh on Signals](https://dev.to/this-is-angular/episode-2351-tanstack-query-in-angular-alex-rickabaugh-on-signals-3g5d)
+- [Lifehacker] [You Can Get a Refurbished iPad 7 for $240 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
+- [Lifehacker] [You Can Make Money by Sexting](https://lifehacker.com/relationships/how-to-make-money-by-sexting)
 - [Dev.to/JS] [Nuxt 3 monorepo example -- Basic example](https://dev.to/leamsigc/nuxt-3-monorepo-example-basic-example-1d61)
 - [Dev.to/JS] [Bookmark resources for dev show what is on your bookmarks:](https://dev.to/leamsigc/bookmark-resources-for-dev-show-what-is-on-your-bookmarks-5fo9)
 - [Lifehacker] [What the 30-30-30 Trend Gets Right About Weight Loss &lpar;and What It Gets Wrong&rpar;](https://lifehacker.com/health/30-30-30-trend-weight-loss)
@@ -43,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigating the npm vs. npx Showdown](https://dev.to/bkmahapatra/navigating-the-npm-vs-npx-showdown-59ij)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel Language Learning for $160 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
 - [Dev.to/JS] [shoptimized](https://dev.to/wsovn112/shoptimized-8ai)
-- [Dev.to/JS] [Optimizing Online File Delivery: Secure Methods and Streamlined Upload Processes](https://dev.to/ideradevtools/optimizing-online-file-delivery-secure-methods-and-streamlined-upload-processes-klo)
 - [Lifehacker] [The Difference Between a Stove and Range](https://lifehacker.com/home/difference-between-stove-range)
 - [Lifehacker] [You Can Change Your Spotify Display Name](https://lifehacker.com/tech/how-to-change-your-spotify-username)
 - [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App for Android](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $180 Right Now](https://lifehacker.com/entertainment/curiosity-stream-sale)
 - [Lifehacker] [How to Calculate the Total Cost of Any Recipe](https://lifehacker.com/money/how-to-calculate-the-total-cost-of-any-recipe)
 - [Lifehacker] [How to Repair a Small Tear, Scratch, or Gouge in Your Vinyl Floor](https://lifehacker.com/home/how-to-repair-vinyl-flooring)
-- [Lifehacker] [How a Wedge Pillow Can Improve Your Sleep &lpar;and Your Life&rpar;](https://lifehacker.com/health/wedge-pillow-benefits)
-- [Lifehacker] [How to Choose Between Alexa and Google Assistant](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-assistant)
-- [Lifehacker] [Try This Method to Organize Your 2024 Goals and Accomplishments](https://lifehacker.com/work/track-organize-goals-accomplishments)
-- [Lifehacker] [You Can Get a Google Display Hub for 40% Off Right Now](https://lifehacker.com/tech/walmart-google-display-hub-sale)
-- [Lifehacker] [The Best True Crime Podcasts of 2023](https://lifehacker.com/entertainment/the-best-true-crime-podcasts-of-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How a Wedge Pillow Can Improve Your Sleep &lpar;and Your Life&rpar;](https://lifehacker.com/health/wedge-pillow-benefits)<!-- TECH-POSTS:END -->
 
 ---
 
