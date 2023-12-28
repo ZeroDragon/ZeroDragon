@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Puravive Reviews &lpar;Update 2023&rpar; New Report Details Shocking Consumer Results &amp; Benefits Risk!](https://dev.to/qsakhtbva/puravive-reviews-update-2023-new-report-details-shocking-consumer-results-benefits-risk-4l74)
 - [Dev.to/JS] [Giới thiệu #Jun88Website – Nhà cái uy tín và an toàn bậc nhất.](https://dev.to/jun88delivery/gioi-thieu-jun88website-nha-cai-uy-tin-va-an-toan-bac-nhat-2a7j)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Dev.to/JS] [Catalogue of CLI commands and IDE keyboard shortcuts for a growing Developer](https://dev.to/colin-williams-dev/catalogue-of-cli-commands-and-ide-keyboard-shortcuts-for-a-growing-developer-1c9d)
@@ -52,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Test to See If Your Granite Countertop Needs to Be Resealed](https://lifehacker.com/home/how-to-tell-when-your-granite-counter-top-needs-to-be-resealed)
 - [Lifehacker] [What I Learned Tracking My Health Data for a Month](https://lifehacker.com/tech/what-i-learned-health-data-tracking)
 - [Dev.to/JS] [I built Hippotable for in-browser data analysis](https://dev.to/thoughtspile/i-built-hippotable-for-in-browser-data-analysis-4o4h)
-- [Dev.to/JS] [Nature](https://dev.to/khan094/nature-3g0d)
 - [Lifehacker] [More Than 2,000 E-books Are Free Today for ‘Stuff Your Kindle Day’](https://lifehacker.com/entertainment/get-free-ebooks-for-stuff-your-kindle-day)
 - [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
 - [Lifehacker] [Why You Should Regularly Calculate Your Net Worth](https://lifehacker.com/money/how-to-calculate-your-net-worth)
