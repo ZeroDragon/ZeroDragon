@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an autogrowing textarea with React and Typescript](https://dev.to/snikidev/creating-an-autogrowing-textarea-with-react-and-typescript-45oc)
+- [Dev.to/JS] [WHAT IS HELMETjs?](https://dev.to/mkobimbo/what-is-helmetjs-1nbd)
+- [Dev.to/JS] [Revolutionize Your Coding Workflow with Our Open-Source VSCode Extension – CodeMuse!](https://dev.to/auguste/revolutionize-your-coding-workflow-with-our-open-source-vscode-extension-codemuse-530m)
 - [Dev.to/JS] [Part 9: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-9-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-3k74)
+- [Lifehacker] [How to Use Any Laptop With the Lid Shut](https://lifehacker.com/tech/how-to-use-laptop-with-lid-shut)
 - [Dev.to/JS] [Thanksgiving Movie 2023](https://dev.to/mdshuvo/thanksgiving-movie-2023-23k8)
 - [Dev.to/JS] [Developer Onboarding for Pi network Blockchain](https://dev.to/ajaaykumaar/developer-onboarding-for-pi-network-blockchain-1ge4)
 - [Dev.to/JS] [Part 8: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-7-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-2gg0)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Counter-intuitive web devs mistakes](https://dev.to/vaclavnovotny/counter-intuitive-web-devs-mistakes-j5m)
 - [Dev.to/JS] [Optimize Your Twitter Strategy with Our Free Analytics Tool](https://dev.to/twitter-analytics/optimize-your-twitter-strategy-with-our-free-analytics-tool-4lj5)
 - [Dev.to/JS] [Best JavaScript Chart Libraries 2024: Finding the Right Fit for Your JS Applications](https://dev.to/andyb1979/best-javascript-chart-libraries-2024-finding-the-right-fit-for-your-js-applications-34hl)
-- [Dev.to/JS] [A Comprehensive Guide to Boosting Google Ranking: Optimizing Core Web Vitals for Your WordPress Site](https://dev.to/jamesmartindev/a-comprehensive-guide-to-boosting-google-ranking-optimizing-core-web-vitals-for-your-wordpress-site-1kjk)
-- [Dev.to/JS] [Unlocking the Power of Laravel: A Comprehensive Guide to Modern Web Development](https://dev.to/agiconsolution/unlocking-the-power-of-laravel-a-comprehensive-guide-to-modern-web-development-5580)
-- [Dev.to/JS] [How To Watch The Rose Bowl Parade 2024 Live Streaming Free Tv Channel](https://dev.to/shshdh/how-to-watch-the-rose-bowl-parade-2024-live-streaming-free-tv-channel-15i0)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-28-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Parenting Influencers Who Will Actually Make You Feel Like a Good Parent](https://lifehacker.com/family/best-parenting-influencers)
 - [Lifehacker] [When You Should &lpar;and Shouldn’t&rpar; Book Your Travel Through Costco](https://lifehacker.com/travel/when-you-should-and-should-not-book-travel-through-costco)
 - [Lifehacker] [How to Factory Reset Your Google Nest &lpar;and When You Should&rpar;](https://lifehacker.com/tech/how-to-factory-reset-a-google-nest)
-- [Lifehacker] [The Best Movies to Watch on New Year’s Eve](https://lifehacker.com/entertainment/best-new-years-eve-movies)
-- [Lifehacker] [How to Soft Reboot Your Google Home](https://lifehacker.com/tech/soft-reboot-google-home)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Watch on New Year’s Eve](https://lifehacker.com/entertainment/best-new-years-eve-movies)<!-- TECH-POSTS:END -->
 
 ---
 
