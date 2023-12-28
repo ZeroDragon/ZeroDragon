@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Calculate the Total Cost of Any Recipe](https://lifehacker.com/money/how-to-calculate-the-total-cost-of-any-recipe)
 - [Dev.to/JS] [Make Like a Binary Search Tree and...Node?](https://dev.to/greenteaisgreat/make-like-a-binary-search-tree-andnode-1fng)
+- [Lifehacker] [How to Repair a Small Tear, Scratch, or Gouge in Your Vinyl Floor](https://lifehacker.com/home/how-to-repair-vinyl-flooring)
 - [Dev.to/JS] [Thala for a reason!!!!!!!](https://dev.to/smitesh25/thala-for-a-reason-1f60)
 - [Lifehacker] [How a Wedge Pillow Can Improve Your Sleep &lpar;and Your Life&rpar;](https://lifehacker.com/health/wedge-pillow-benefits)
 - [Lifehacker] [How to Choose Between Alexa and Google Assistant](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-assistant)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-27-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)<!-- TECH-POSTS:END -->
 
 ---
 
