@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What I Love in TypeScript](https://dev.to/joaotextor/what-i-love-in-typescript-5dci)
+- [Dev.to/JS] [I Build a GitHub Worth Estimate Generator](https://dev.to/random_ti/i-build-a-github-worth-estimate-generator-4jjd)
+- [Dev.to/JS] [Nest.js Controller in Easier Terms](https://dev.to/shameel/nestjs-controller-in-easier-terms-37og)
+- [Lifehacker] [There Are Actual Health Benefits to Wearing Scrotal Support Underwear](https://lifehacker.com/health/health-benefits-of-scrotal-support-underwear)
 - [Dev.to/JS] [Tackling Deployment Failures with Git Hooks](https://dev.to/ravishanker/tackling-deployment-failures-with-git-hooks-4gfb)
+- [Lifehacker] [My Favorite Journals to Help You Meet Your Goals](https://lifehacker.com/health/best-journals-for-new-years-resolutions)
 - [Dev.to/JS] [How to earn money with Survimo online surveys?](https://dev.to/mood/how-to-earn-money-with-survimo-online-surveys-5g08)
 - [Lifehacker] [When to Fix and When to Replace Your Broken Range](https://lifehacker.com/home/when-to-fix-or-replace-range)
 - [Dev.to/JS] [Let&#39;s code together in 2024](https://dev.to/toviszsolt/lets-code-together-in-2024-347b)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Anatomy of Streams: Readable and Writable Streams in Node.js](https://dev.to/ruben_alapont/the-anatomy-of-streams-readable-and-writable-streams-in-nodejs-cna)
 - [Dev.to/JS] [Build Blazing Fast Websites with Next.js ISR and Headless CMS](https://dev.to/adityar15/build-blazing-fast-websites-with-nextjs-isr-and-headless-cms-moc)
 - [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App for Android](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
-- [Dev.to/JS] [Threads using Next.js 14, Prisma, Tailwind.CSS &amp; Next-Auth 🤩](https://dev.to/devtips3/threads-using-nextjs-14-prisma-tailwindcss-next-auth-13c0)
-- [Dev.to/JS] [Paracetamol.js💊| #225: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-225-explica-este-codigo-javascript-3mh9)
 - [Lifehacker] [The Samsung Bespoke Jet AI Stick Vacuum Will Pick Up Just About Anything](https://lifehacker.com/tech/samsung-bespoke-jet-ai-vacuum-review)
-- [Dev.to/JS] [Zod - TypeScript-first schema declaration and validation library #tips](https://dev.to/nhannguyendevjs/zod-typescript-first-schema-declaration-and-validation-library-tips-23m7)
 - [Lifehacker] [How to Make Thicker, Crunchier, Better Granola at Home](https://lifehacker.com/food-drink/how-to-make-better-granola-at-home)
 - [Lifehacker] [How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-a-macbook)
 - [Lifehacker] [The Best Podcast Episodes of 2023](https://lifehacker.com/entertainment/the-best-podcast-episodes-of-2023)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Google Display Hub for 40% Off Right Now](https://lifehacker.com/tech/walmart-google-display-hub-sale)
 - [Lifehacker] [The Best True Crime Podcasts of 2023](https://lifehacker.com/entertainment/the-best-true-crime-podcasts-of-2023)
 - [Lifehacker] [Use This Test to See If Your Granite Countertop Needs to Be Resealed](https://lifehacker.com/home/how-to-tell-when-your-granite-counter-top-needs-to-be-resealed)
-- [Lifehacker] [What I Learned Tracking My Health Data for a Month](https://lifehacker.com/tech/what-i-learned-health-data-tracking)
-- [Lifehacker] [More Than 2,000 E-books Are Free Today for ‘Stuff Your Kindle Day’](https://lifehacker.com/entertainment/get-free-ebooks-for-stuff-your-kindle-day)
-- [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What I Learned Tracking My Health Data for a Month](https://lifehacker.com/tech/what-i-learned-health-data-tracking)<!-- TECH-POSTS:END -->
 
 ---
 
