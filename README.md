@@ -26,9 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make Like a Binary Search Tree and...Node?](https://dev.to/greenteaisgreat/make-like-a-binary-search-tree-andnode-1fng)
+- [Dev.to/JS] [Thala for a reason!!!!!!!](https://dev.to/smitesh25/thala-for-a-reason-1f60)
+- [Lifehacker] [How a Wedge Pillow Can Improve Your Sleep &lpar;and Your Life&rpar;](https://lifehacker.com/health/wedge-pillow-benefits)
+- [Lifehacker] [How to Choose Between Alexa and Google Assistant](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-assistant)
+- [Lifehacker] [Try This Method to Organize Your 2024 Goals and Accomplishments](https://lifehacker.com/work/track-organize-goals-accomplishments)
 - [Dev.to/JS] [My 2023 Web Development Highlights](https://dev.to/junsupark94/my-2023-web-development-highlights-4n0e)
+- [Lifehacker] [You Can Get a Google Display Hub for 40% Off Right Now](https://lifehacker.com/tech/walmart-google-display-hub-sale)
 - [Dev.to/JS] [All about RSS &lpar;Real Simple Syndication&rpar;](https://dev.to/parsafarahani84/all-about-rss-real-simple-syndication-i6n)
 - [Dev.to/JS] [One concept a day - early return pattern in JavaScript](https://dev.to/arikaturika/one-concept-a-day-early-return-pattern-in-javascript-3pol)
+- [Lifehacker] [The Best True Crime Podcasts of 2023](https://lifehacker.com/entertainment/the-best-true-crime-podcasts-of-2023)
 - [Lifehacker] [Use This Test to See If Your Granite Countertop Needs to Be Resealed](https://lifehacker.com/home/how-to-tell-when-your-granite-counter-top-needs-to-be-resealed)
 - [Lifehacker] [What I Learned Tracking My Health Data for a Month](https://lifehacker.com/tech/what-i-learned-health-data-tracking)
 - [Dev.to/JS] [I built Hippotable for in-browser data analysis](https://dev.to/thoughtspile/i-built-hippotable-for-in-browser-data-analysis-4o4h)
@@ -43,9 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TWC is not a revolution but…](https://dev.to/jsfez/twc-is-not-a-revolution-but-mb9)
 - [Dev.to/JS] [Svelte journey | Actions, Advanced Bindings, Classes &amp; Styles, Slots](https://dev.to/chillyhill/svelte-journey-actions-advanced-bindings-classes-styles-slots-2en3)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/this-nix-mini-2-color-sensor-is-60-right-now-1850643055)
-- [Dev.to/JS] [Sample Article Title](https://dev.to/priyancydey/sample-article-title-3mom)
 - [Lifehacker] [All the Features in Fitbit Premium &lpar;and Whether It’s Worth the Price&rpar;](https://lifehacker.com/tech/fitbit-premium-features)
-- [Dev.to/JS] [5 Things Most Developers Learn Too Late ⌛](https://dev.to/dragosnedelcu/5-things-most-developers-learn-too-late-5gj3)
 - [Lifehacker] [You Should Find a &#39;Bin Store&#39; Near You](https://lifehacker.com/money/how-to-find-a-bin-store-near-you)
 - [Lifehacker] [What Is the OnePlus R Series Phone, and Is It Really a ‘Flagship Killer’?](https://lifehacker.com/tech/what-is-oneplus-r-series-phone)
 - [Lifehacker] [The Best Parenting Influencers Who Will Actually Make You Feel Like a Good Parent](https://lifehacker.com/family/best-parenting-influencers)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-25-2023)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-24-2023)
-- [Lifehacker] [What&#39;s New on Max in January 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-january-2024)
-- [Lifehacker] [Why LG’s New UltraGear OLED Is My Next Favorite Gaming Monitor](https://lifehacker.com/tech/lg-new-ultragear-oled-monitor)
-- [Lifehacker] [Allie&#39;s Christmas Pudding Chronicles: Flambéing and Serving](https://lifehacker.com/food-drink/christmas-pudding-recipe-step-six)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 23, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-23-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 24, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-24-2023)<!-- TECH-POSTS:END -->
 
 ---
 
