@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nuxt 3 monorepo example -- Basic example](https://dev.to/leamsigc/nuxt-3-monorepo-example-basic-example-1d61)
+- [Dev.to/JS] [Bookmark resources for dev show what is on your bookmarks:](https://dev.to/leamsigc/bookmark-resources-for-dev-show-what-is-on-your-bookmarks-5fo9)
+- [Lifehacker] [What the 30-30-30 Trend Gets Right About Weight Loss &lpar;and What It Gets Wrong&rpar;](https://lifehacker.com/health/30-30-30-trend-weight-loss)
+- [Lifehacker] [You Can Get Dreamscreens for Your TV on Sale for $40 Right Now](https://lifehacker.com/tech/dreamscreens-sale)
 - [Dev.to/JS] [What I Love in TypeScript](https://dev.to/joaotextor/what-i-love-in-typescript-5dci)
 - [Dev.to/JS] [I Build a GitHub Worth Estimate Generator](https://dev.to/random_ti/i-build-a-github-worth-estimate-generator-4jjd)
 - [Dev.to/JS] [Nest.js Controller in Easier Terms](https://dev.to/shameel/nestjs-controller-in-easier-terms-37og)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nx - Highlights of 2023](https://dev.to/nx/nx-highlights-of-2023-4a77)
 - [Lifehacker] [The Difference Between a Stove and Range](https://lifehacker.com/home/difference-between-stove-range)
 - [Lifehacker] [You Can Change Your Spotify Display Name](https://lifehacker.com/tech/how-to-change-your-spotify-username)
-- [Dev.to/JS] [The Anatomy of Streams: Readable and Writable Streams in Node.js](https://dev.to/ruben_alapont/the-anatomy-of-streams-readable-and-writable-streams-in-nodejs-cna)
-- [Dev.to/JS] [Build Blazing Fast Websites with Next.js ISR and Headless CMS](https://dev.to/adityar15/build-blazing-fast-websites-with-nextjs-isr-and-headless-cms-moc)
 - [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App for Android](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
 - [Lifehacker] [The Samsung Bespoke Jet AI Stick Vacuum Will Pick Up Just About Anything](https://lifehacker.com/tech/samsung-bespoke-jet-ai-vacuum-review)
 - [Lifehacker] [How to Make Thicker, Crunchier, Better Granola at Home](https://lifehacker.com/food-drink/how-to-make-better-granola-at-home)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose Between Alexa and Google Assistant](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-assistant)
 - [Lifehacker] [Try This Method to Organize Your 2024 Goals and Accomplishments](https://lifehacker.com/work/track-organize-goals-accomplishments)
 - [Lifehacker] [You Can Get a Google Display Hub for 40% Off Right Now](https://lifehacker.com/tech/walmart-google-display-hub-sale)
-- [Lifehacker] [The Best True Crime Podcasts of 2023](https://lifehacker.com/entertainment/the-best-true-crime-podcasts-of-2023)
-- [Lifehacker] [Use This Test to See If Your Granite Countertop Needs to Be Resealed](https://lifehacker.com/home/how-to-tell-when-your-granite-counter-top-needs-to-be-resealed)
-- [Lifehacker] [What I Learned Tracking My Health Data for a Month](https://lifehacker.com/tech/what-i-learned-health-data-tracking)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best True Crime Podcasts of 2023](https://lifehacker.com/entertainment/the-best-true-crime-podcasts-of-2023)<!-- TECH-POSTS:END -->
 
 ---
 
