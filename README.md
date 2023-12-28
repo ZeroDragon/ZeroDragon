@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Anouncing Interaqt: Bring Reactivity to Backend](https://dev.to/sskyy/anouncing-interaqt-bring-reactivity-to-backend-4n1i)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
+- [Dev.to/JS] [Animate the removal or addition of an item in a list](https://dev.to/phuocng/animate-the-removal-or-addition-of-an-item-in-a-list-3l2i)
+- [Dev.to/JS] [Tutorial hell](https://dev.to/thesleepydev/tutorial-hell-15ik)
+- [Lifehacker] [You Should Make Nutella Hot Chocolate Right Away](https://lifehacker.com/food-drink/easy-nutella-hot-chocolate-recipe)
+- [Lifehacker] [How to Strengthen Your Sex Life in the New Year](https://lifehacker.com/relationships/new-years-resolutions-to-strengthen-your-sex-life)
+- [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $180 Right Now](https://lifehacker.com/entertainment/curiosity-stream-sale)
 - [Lifehacker] [How to Calculate the Total Cost of Any Recipe](https://lifehacker.com/money/how-to-calculate-the-total-cost-of-any-recipe)
 - [Dev.to/JS] [Make Like a Binary Search Tree and...Node?](https://dev.to/greenteaisgreat/make-like-a-binary-search-tree-andnode-1fng)
 - [Lifehacker] [How to Repair a Small Tear, Scratch, or Gouge in Your Vinyl Floor](https://lifehacker.com/home/how-to-repair-vinyl-flooring)
@@ -47,10 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Rosetta Stone for $160 Right Now](https://lifehacker.com/you-can-get-rosetta-stone-for-160-right-now-1850991143)
 - [Dev.to/JS] [Elixir para React.js Devs](https://dev.to/javascriptchile/elixir-para-reactjs-devs-37db)
 - [Lifehacker] [Why You Should Regularly Calculate Your Net Worth](https://lifehacker.com/money/how-to-calculate-your-net-worth)
-- [Dev.to/JS] [Exploring the shift from CSS-in-JS to headless UI libraries](https://dev.to/logrocket/exploring-the-shift-from-css-in-js-to-headless-ui-libraries-43o2)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in January 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-january-2024)
-- [Dev.to/JS] [TWC is not a revolution but…](https://dev.to/jsfez/twc-is-not-a-revolution-but-mb9)
-- [Dev.to/JS] [Svelte journey | Actions, Advanced Bindings, Classes &amp; Styles, Slots](https://dev.to/chillyhill/svelte-journey-actions-advanced-bindings-classes-styles-slots-2en3)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/this-nix-mini-2-color-sensor-is-60-right-now-1850643055)
 - [Lifehacker] [All the Features in Fitbit Premium &lpar;and Whether It’s Worth the Price&rpar;](https://lifehacker.com/tech/fitbit-premium-features)
 - [Lifehacker] [You Should Find a &#39;Bin Store&#39; Near You](https://lifehacker.com/money/how-to-find-a-bin-store-near-you)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies to Watch on New Year’s Eve](https://lifehacker.com/entertainment/best-new-years-eve-movies)
 - [Lifehacker] [How to Soft Reboot Your Google Home](https://lifehacker.com/tech/soft-reboot-google-home)
 - [Lifehacker] [‘Sensate Focus’ Can Help You Reclaim Your Sex Life](https://lifehacker.com/sensate-focus-can-help-sex-life)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-27-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-27-2023)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-26-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, December 26, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-26-2023)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, December 25, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-25-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, December 27, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-27-2023)<!-- TECH-POSTS:END -->
 
 ---
 
