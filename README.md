@@ -26,13 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 12: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-12-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-ofl)
 - [Dev.to/JS] [Create Access Key for AWS S3](https://dev.to/akbarnafisa/create-access-key-for-aws-s3-2cl3)
+- [Lifehacker] [You Can Get This $50 eSIM Card for $20 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
 - [Dev.to/JS] [Part 11: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-11-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-28pb)
 - [Dev.to/JS] [Dominando Object en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-object-en-javascript-una-guia-completa-3k6p)
 - [Dev.to/JS] [Dominando Array en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-array-en-javascript-una-guia-completa-3o6c)
 - [Dev.to/JS] [Dominando Map en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-map-en-javascript-una-guia-completa-para-profesionales-5d11)
+- [Lifehacker] [The Newest Echo Show 8 Is Down to Its Lowest Price Yet](https://lifehacker.com/tech/best-echo-show-8-deal)
 - [Dev.to/JS] [When 0.2 + 0.1 Isn&#39;t Quite 0.3: A Comedic Guide to Floating-Point Shenanigans](https://dev.to/ishanbagchi/when-02-01-isnt-quite-03-a-comedic-guide-to-floating-point-shenanigans-7lg)
-- [Dev.to/JS] [Dominando Set en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-set-en-javascript-una-guia-completa-2mo6)
+- [Dev.to/JS] [Dominando Set en JavaScript: Una Guía completa](https://dev.to/soyclaradev/dominando-set-en-javascript-una-guia-completa-2mo6)
 - [Dev.to/JS] [Part 10: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-10-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-c5k)
 - [Lifehacker] [How to Figure Out Whether Your Floors are Vinyl or Linoleum &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-figure-out-whether-your-floors-are-vinyl-or-linoleum)
 - [Lifehacker] [The Slow Living Movement Can Reduce Your Stress &lpar;and Save You Money&rpar;](https://lifehacker.com/money/slow-living-movement)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Refurbished iPad 7 for $240 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
 - [Lifehacker] [You Can Make Money by Sexting](https://lifehacker.com/relationships/how-to-make-money-by-sexting)
 - [Dev.to/JS] [Nuxt 3 monorepo example -- Basic example](https://dev.to/leamsigc/nuxt-3-monorepo-example-basic-example-1d61)
-- [Dev.to/JS] [Bookmark resources for dev show what is on your bookmarks:](https://dev.to/leamsigc/bookmark-resources-for-dev-show-what-is-on-your-bookmarks-5fo9)
 - [Lifehacker] [What the 30-30-30 Trend Gets Right About Weight Loss &lpar;and What It Gets Wrong&rpar;](https://lifehacker.com/health/30-30-30-trend-weight-loss)
 - [Lifehacker] [You Can Get Dreamscreens for Your TV on Sale for $40 Right Now](https://lifehacker.com/tech/dreamscreens-sale)
 - [Lifehacker] [There Are Actual Health Benefits to Wearing Scrotal Support Underwear](https://lifehacker.com/health/health-benefits-of-scrotal-support-underwear)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-28-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
 - [Lifehacker] [You Should Make Nutella Hot Chocolate Right Away](https://lifehacker.com/food-drink/easy-nutella-hot-chocolate-recipe)
-- [Lifehacker] [How to Strengthen Your Sex Life in the New Year](https://lifehacker.com/relationships/new-years-resolutions-to-strengthen-your-sex-life)
-- [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $180 Right Now](https://lifehacker.com/entertainment/curiosity-stream-sale)
-- [Lifehacker] [How to Calculate the Total Cost of Any Recipe](https://lifehacker.com/money/how-to-calculate-the-total-cost-of-any-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Strengthen Your Sex Life in the New Year](https://lifehacker.com/relationships/new-years-resolutions-to-strengthen-your-sex-life)<!-- TECH-POSTS:END -->
 
 ---
 
