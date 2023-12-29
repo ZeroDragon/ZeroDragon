@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arithmetic Operators in JavaScript](https://dev.to/codingcss/arithmetic-operators-in-javascript-1bnb)
+- [Dev.to/JS] [Personal Roadmap for becoming a better software developer in 2024](https://dev.to/mrinmoy09/personal-roadmap-for-becoming-a-better-software-developer-in-2024-2nkm)
+- [Dev.to/JS] [Weather Forecast](https://dev.to/safikumar00/weather-forecast-2jec)
 - [Dev.to/JS] [5 things that propelled me past the beginner level developer](https://dev.to/nerminkarapandzic/5-things-that-propelled-me-past-the-beginner-level-developer-36ak)
 - [Dev.to/JS] [IVF Hacks: Time-Tested Advice from Fertility Veterans in Noida](https://dev.to/guestnowpost/ivf-hacks-time-tested-advice-from-fertility-veterans-in-noida-3200)
 - [Dev.to/JS] [Top 10 GitHub Repos for Open Source Food Delivery Apps](https://dev.to/abbas_ninjascode/top-10-github-repos-for-open-source-food-delivery-apps-43b8)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transform Your Photos with AI: Free AI Photo Eraser Online](https://dev.to/photoeraser1/transform-your-photos-with-ai-free-ai-photo-eraser-online-h6h)
 - [Dev.to/JS] [JavaScript Truncate String: What You Need To Know](https://dev.to/onlinemsr/javascript-truncate-string-what-you-need-to-know-dpk)
 - [Dev.to/JS] [Why not to deploy Express JS REST API using Serverless...](https://dev.to/hiteshchawla/why-not-to-deploy-expressjs-rest-api-using-serverless-1kld)
-- [Dev.to/JS] [Punjab’s New Online Driving License System](https://dev.to/rizwan55/punjabs-new-online-driving-license-system-5982)
-- [Dev.to/JS] [How To Get ChatGPT API Key? A Step-by-Step Guide](https://dev.to/onlinemsr/how-to-get-chatgpt-api-key-a-step-by-step-guide-507k)
-- [Dev.to/JS] [Story of a Failed React Project](https://dev.to/mohammadfaisal/story-of-a-failed-react-project-4bhp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
 - [Lifehacker] [You Can Get This $50 eSIM Card for $20 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
