@@ -26,6 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Access Key for AWS S3](https://dev.to/akbarnafisa/create-access-key-for-aws-s3-2cl3)
+- [Dev.to/JS] [Part 11: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-11-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-28pb)
+- [Dev.to/JS] [Dominando Object en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-object-en-javascript-una-guia-completa-3k6p)
+- [Dev.to/JS] [Dominando Array en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-array-en-javascript-una-guia-completa-3o6c)
+- [Dev.to/JS] [Dominando Map en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-map-en-javascript-una-guia-completa-para-profesionales-5d11)
+- [Dev.to/JS] [When 0.2 + 0.1 Isn&#39;t Quite 0.3: A Comedic Guide to Floating-Point Shenanigans](https://dev.to/ishanbagchi/when-02-01-isnt-quite-03-a-comedic-guide-to-floating-point-shenanigans-7lg)
+- [Dev.to/JS] [Dominando Set en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-set-en-javascript-una-guia-completa-2mo6)
+- [Dev.to/JS] [Part 10: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-10-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-c5k)
+- [Lifehacker] [How to Figure Out Whether Your Floors are Vinyl or Linoleum &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-figure-out-whether-your-floors-are-vinyl-or-linoleum)
+- [Lifehacker] [The Slow Living Movement Can Reduce Your Stress &lpar;and Save You Money&rpar;](https://lifehacker.com/money/slow-living-movement)
 - [Dev.to/JS] [Pipe Maze](https://dev.to/rmion/pipe-maze-2ol1)
 - [Lifehacker] [The ASUS Rog Ally Is at Its Lowest Price Ever](https://lifehacker.com/entertainment/asus-rog-ally-sale-at-best-buy)
 - [Lifehacker] [Give Pigs a Break With Pickles in a Blanket](https://lifehacker.com/food-drink/easy-pickles-in-a-blanket-recipe)
@@ -36,18 +46,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bookmark resources for dev show what is on your bookmarks:](https://dev.to/leamsigc/bookmark-resources-for-dev-show-what-is-on-your-bookmarks-5fo9)
 - [Lifehacker] [What the 30-30-30 Trend Gets Right About Weight Loss &lpar;and What It Gets Wrong&rpar;](https://lifehacker.com/health/30-30-30-trend-weight-loss)
 - [Lifehacker] [You Can Get Dreamscreens for Your TV on Sale for $40 Right Now](https://lifehacker.com/tech/dreamscreens-sale)
-- [Dev.to/JS] [What I Love in TypeScript](https://dev.to/joaotextor/what-i-love-in-typescript-5dci)
-- [Dev.to/JS] [I Build a GitHub Worth Estimate Generator](https://dev.to/random_ti/i-build-a-github-worth-estimate-generator-4jjd)
-- [Dev.to/JS] [Nest.js Controller in Easier Terms](https://dev.to/shameel/nestjs-controller-in-easier-terms-37og)
 - [Lifehacker] [There Are Actual Health Benefits to Wearing Scrotal Support Underwear](https://lifehacker.com/health/health-benefits-of-scrotal-support-underwear)
-- [Dev.to/JS] [Tackling Deployment Failures with Git Hooks](https://dev.to/ravishanker/tackling-deployment-failures-with-git-hooks-4gfb)
 - [Lifehacker] [My Favorite Journals to Help You Meet Your Goals](https://lifehacker.com/health/best-journals-for-new-years-resolutions)
-- [Dev.to/JS] [How to earn money with Survimo online surveys?](https://dev.to/mood/how-to-earn-money-with-survimo-online-surveys-5g08)
 - [Lifehacker] [When to Fix and When to Replace Your Broken Range](https://lifehacker.com/home/when-to-fix-or-replace-range)
-- [Dev.to/JS] [Let&#39;s code together in 2024](https://dev.to/toviszsolt/lets-code-together-in-2024-347b)
-- [Dev.to/JS] [Navigating the npm vs. npx Showdown](https://dev.to/bkmahapatra/navigating-the-npm-vs-npx-showdown-59ij)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel Language Learning for $160 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
-- [Dev.to/JS] [shoptimized](https://dev.to/wsovn112/shoptimized-8ai)
 - [Lifehacker] [The Difference Between a Stove and Range](https://lifehacker.com/home/difference-between-stove-range)
 - [Lifehacker] [You Can Change Your Spotify Display Name](https://lifehacker.com/tech/how-to-change-your-spotify-username)
 - [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App for Android](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Nutella Hot Chocolate Right Away](https://lifehacker.com/food-drink/easy-nutella-hot-chocolate-recipe)
 - [Lifehacker] [How to Strengthen Your Sex Life in the New Year](https://lifehacker.com/relationships/new-years-resolutions-to-strengthen-your-sex-life)
 - [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $180 Right Now](https://lifehacker.com/entertainment/curiosity-stream-sale)
-- [Lifehacker] [How to Calculate the Total Cost of Any Recipe](https://lifehacker.com/money/how-to-calculate-the-total-cost-of-any-recipe)
-- [Lifehacker] [How to Repair a Small Tear, Scratch, or Gouge in Your Vinyl Floor](https://lifehacker.com/home/how-to-repair-vinyl-flooring)
-- [Lifehacker] [How a Wedge Pillow Can Improve Your Sleep &lpar;and Your Life&rpar;](https://lifehacker.com/health/wedge-pillow-benefits)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Calculate the Total Cost of Any Recipe](https://lifehacker.com/money/how-to-calculate-the-total-cost-of-any-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
