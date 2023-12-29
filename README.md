@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cosmic Expansion](https://dev.to/rmion/cosmic-expansion-kjh)
+- [Dev.to/JS] [¿React, Vue o Angular?](https://dev.to/soyclaradev/react-vue-o-angular-1en0)
 - [Dev.to/JS] [How we reduced our code review time by 30%](https://dev.to/imri/how-we-reduced-our-code-review-time-by-30-44ed)
 - [Dev.to/JS] [Navigating the Tech Landscape: My journey with Django, JavaScript, and Unfinished Projects](https://dev.to/kimani/navigating-the-tech-landscape-my-journey-with-django-javascript-and-unfinished-projects-4p9f)
+- [Lifehacker] [Cameras, Leak Detectors, and Other Smart Home Devices Are on Sale Right Now](https://lifehacker.com/tech/best-deals-on-basic-smart-home-devices)
 - [Dev.to/JS] [Making a text-shadow wave animation design tool in only 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-text-shadow-wave-animation-design-tool-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-532p)
+- [Lifehacker] [You Can Save Money on Your Electric Bill With a Portable Heat Pump](https://lifehacker.com/home/is-a-portable-heat-pump-worth-it)
 - [Dev.to/JS] [Job Match Pro: Your One-Stop Shop for Landing Your Dream Job](https://dev.to/vishwagauravin/job-match-pro-your-one-stop-shop-for-landing-your-dream-job-4760)
 - [Lifehacker] [Why Your Electrical Outlets Are Loose, and How to Fix Them](https://lifehacker.com/home/loose-electrical-outlets-and-how-to-fix)
 - [Dev.to/JS] [Tech-nically Speaking: 30 Days In](https://dev.to/nerajno/tech-nically-speaking-30-days-in-4i70)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A guide to Data Binding in Angular](https://dev.to/zeeshanhshaheen/a-guide-to-data-binding-in-angular-4gib)
 - [Dev.to/JS] [Avoid These 6 Common React useState Hook Mistakes &lpar;Code Example&rpar;](https://dev.to/iamakshaykaushik/avoid-these-6-common-react-usestate-hook-mistakes-code-example-4kgi)
 - [Lifehacker] [The One Ingredient That Separates Good Sandwiches From Great Ones](https://lifehacker.com/food-drink/add-herbs-to-sandwiches)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/davidarcer447/buy-verified-cash-app-account-3397)
-- [Dev.to/JS] [Getting started with Google&#39;s Multi-modal &quot;Gemini Pro Vision&quot; LLM with Javascript for Beginners](https://dev.to/oyemade/getting-started-with-googles-multi-modal-gemini-pro-vision-llm-with-javascript-for-beginners-4144)
 - [Lifehacker] [Update Your Prescription Now If You Use Flovent](https://lifehacker.com/health/update-your-prescription-now-if-you-use-flovent)
 - [Lifehacker] [How to Choose Between Spotify and Apple Music](https://lifehacker.com/tech/apple-music-vs-spotify)
 - [Lifehacker] [The Best Way to Stagger Your Automated Payments](https://lifehacker.com/money/stagger-automated-payments)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Money by Sexting](https://lifehacker.com/relationships/how-to-make-money-by-sexting)
 - [Lifehacker] [What the 30-30-30 Trend Gets Right About Weight Loss &lpar;and What It Gets Wrong&rpar;](https://lifehacker.com/health/30-30-30-trend-weight-loss)
 - [Lifehacker] [You Can Get Dreamscreens for Your TV on Sale for $40 Right Now](https://lifehacker.com/tech/dreamscreens-sale)
-- [Lifehacker] [There Are Actual Health Benefits to Wearing Scrotal Support Underwear](https://lifehacker.com/health/health-benefits-of-scrotal-support-underwear)
-- [Lifehacker] [My Favorite Journals to Help You Meet Your Goals](https://lifehacker.com/health/best-journals-for-new-years-resolutions)
-- [Lifehacker] [When to Fix and When to Replace Your Broken Range](https://lifehacker.com/home/when-to-fix-or-replace-range)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There Are Actual Health Benefits to Wearing Scrotal Support Underwear](https://lifehacker.com/health/health-benefits-of-scrotal-support-underwear)<!-- TECH-POSTS:END -->
 
 ---
 
