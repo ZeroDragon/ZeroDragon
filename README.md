@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How we reduced our code review time by 30%](https://dev.to/imri/how-we-reduced-our-code-review-time-by-30-44ed)
+- [Dev.to/JS] [Navigating the Tech Landscape: My journey with Django, JavaScript, and Unfinished Projects](https://dev.to/kimani/navigating-the-tech-landscape-my-journey-with-django-javascript-and-unfinished-projects-4p9f)
 - [Dev.to/JS] [Making a text-shadow wave animation design tool in only 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-text-shadow-wave-animation-design-tool-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-532p)
 - [Dev.to/JS] [Job Match Pro: Your One-Stop Shop for Landing Your Dream Job](https://dev.to/vishwagauravin/job-match-pro-your-one-stop-shop-for-landing-your-dream-job-4760)
 - [Lifehacker] [Why Your Electrical Outlets Are Loose, and How to Fix Them](https://lifehacker.com/home/loose-electrical-outlets-and-how-to-fix)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/davidarcer447/buy-verified-cash-app-account-3397)
 - [Dev.to/JS] [Getting started with Google&#39;s Multi-modal &quot;Gemini Pro Vision&quot; LLM with Javascript for Beginners](https://dev.to/oyemade/getting-started-with-googles-multi-modal-gemini-pro-vision-llm-with-javascript-for-beginners-4144)
 - [Lifehacker] [Update Your Prescription Now If You Use Flovent](https://lifehacker.com/health/update-your-prescription-now-if-you-use-flovent)
-- [Dev.to/JS] [Coming to grips with JS: a Rubyist&#39;s deep dive](https://dev.to/fpsvogel/coming-to-grips-with-js-a-rubyists-deep-dive-2oaj)
 - [Lifehacker] [How to Choose Between Spotify and Apple Music](https://lifehacker.com/tech/apple-music-vs-spotify)
-- [Dev.to/JS] [Hello, World!](https://dev.to/priyancydey/hello-worldfrom-nodejs-api-eyttytyytgff-43mc)
 - [Lifehacker] [The Best Way to Stagger Your Automated Payments](https://lifehacker.com/money/stagger-automated-payments)
 - [Lifehacker] [How to Save &lpar;and Play&rpar; Xbox Series X/S Games on an External Hard Drive](https://lifehacker.com/tech/save-play-xbox-games-external-hard-drive)
 - [Lifehacker] [How to Figure Out What Kind of Walls You Have Behind Your Wall Paneling](https://lifehacker.com/home/how-to-figure-out-whats-behind-wall-panels)
