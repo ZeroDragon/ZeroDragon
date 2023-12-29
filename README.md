@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vecteezy](https://dev.to/wsovn112/vecteezy-39ej)
+- [Dev.to/JS] [A guide to Data Binding in Angular](https://dev.to/zeeshanhshaheen/a-guide-to-data-binding-in-angular-4gib)
+- [Dev.to/JS] [Avoid These 6 Common React useState Hook Mistakes &lpar;Code Example&rpar;](https://dev.to/iamakshaykaushik/avoid-these-6-common-react-usestate-hook-mistakes-code-example-4kgi)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/davidarcer447/buy-verified-cash-app-account-3397)
+- [Dev.to/JS] [Getting started with Google&#39;s Multi-modal &quot;Gemini Pro Vision&quot; LLM with Javascript for Beginners](https://dev.to/oyemade/getting-started-with-googles-multi-modal-gemini-pro-vision-llm-with-javascript-for-beginners-4144)
 - [Dev.to/JS] [Coming to grips with JS: a Rubyist&#39;s deep dive](https://dev.to/fpsvogel/coming-to-grips-with-js-a-rubyists-deep-dive-2oaj)
-- [Dev.to/JS] [Hello, World!from nodejs api eyttytyytgff](https://dev.to/priyancydey/hello-worldfrom-nodejs-api-eyttytyytgff-43mc)
+- [Dev.to/JS] [Hello, World!](https://dev.to/priyancydey/hello-worldfrom-nodejs-api-eyttytyytgff-43mc)
 - [Dev.to/JS] [Hello, World!](https://dev.to/priyancydey/hello-world-g73)
 - [Lifehacker] [The Best Way to Stagger Your Automated Payments](https://lifehacker.com/money/stagger-automated-payments)
 - [Dev.to/JS] [Arrow Function vs Normal Function in JS](https://dev.to/atbalaji/arrow-function-vs-normal-function-in-js-5efd)
@@ -36,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Figure Out What Kind of Walls You Have Behind Your Wall Paneling](https://lifehacker.com/home/how-to-figure-out-whats-behind-wall-panels)
 - [Dev.to/JS] [Design Unique Stickers Online with Our Sticker Maker](https://dev.to/stickermaker/design-unique-stickers-online-with-our-sticker-maker-3pea)
 - [Dev.to/JS] [Refactorización de código JavaScript para Startups: Eficiencia con Set y Map](https://dev.to/soyclaradev/refactorizacion-de-codigo-javascript-para-startups-eficiencia-con-set-y-map-7l4)
-- [Dev.to/JS] [Bifrost, self-hosted tool to run notifications directly from your data warehouse](https://dev.to/suprsend/bifrost-self-hosted-tool-to-run-notifications-directly-from-your-data-warehouse-1ahe)
 - [Lifehacker] [How to Beat ‘Productivity Paranoia’ When You Work Remotely](https://lifehacker.com/work/how-remote-workers-can-beat-productivity-paranoia)
-- [Dev.to/JS] [Casos de Uso de Arrays, Objects, Sets y Maps en Aplicaciones Modernas](https://dev.to/soyclaradev/casos-de-uso-de-arrays-objects-sets-y-maps-en-aplicaciones-modernas-54a1)
 - [Lifehacker] [That Viral Home Depot TikTok ‘Hack’ Isn’t Everything It Seems](https://lifehacker.com/home/the-viral-home-depot-tiktok-hack-isnt-everything-it-seems)
-- [Dev.to/JS] [Arithmetic Operators in JavaScript](https://dev.to/codingcss/arithmetic-operators-in-javascript-1bnb)
-- [Dev.to/JS] [Personal Roadmap for becoming a better software developer in 2024](https://dev.to/mrinmoy09/personal-roadmap-for-becoming-a-better-software-developer-in-2024-2nkm)
-- [Dev.to/JS] [Weather Forecast](https://dev.to/safikumar00/weather-forecast-2jec)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
 - [Lifehacker] [You Can Get This $50 eSIM Card for $20 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
