@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tech-nically Speaking: 30 Days In](https://dev.to/nerajno/tech-nically-speaking-30-days-in-4i70)
 - [Dev.to/JS] [Skills of writing unit test for react](https://dev.to/zhangzewei/skills-of-writing-unit-test-for-react-4e5j)
 - [Dev.to/JS] [16 Intermediate/Advanced JavaScript projects for live coding Interview rounds &lpar;Course Preview&rpar;](https://dev.to/xplodivity/16-intermediateadvanced-javascript-projects-for-live-coding-interview-rounds-course-preview-10l)
+- [Lifehacker] [The Best Way to Track All Your Accomplishments in 2024](https://lifehacker.com/best-way-to-track-new-years-resolutions)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
 - [Dev.to/JS] [Vecteezy](https://dev.to/wsovn112/vecteezy-39ej)
 - [Dev.to/JS] [A guide to Data Binding in Angular](https://dev.to/zeeshanhshaheen/a-guide-to-data-binding-in-angular-4gib)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello, World!](https://dev.to/priyancydey/hello-world-g73)
 - [Lifehacker] [The Best Way to Stagger Your Automated Payments](https://lifehacker.com/money/stagger-automated-payments)
 - [Dev.to/JS] [Arrow Function vs Normal Function in JS](https://dev.to/atbalaji/arrow-function-vs-normal-function-in-js-5efd)
-- [Dev.to/JS] [Chrome DevTools](https://dev.to/lminuti/chrome-devtools-olo)
 - [Lifehacker] [How to Save &lpar;and Play&rpar; Xbox Series X/S Games on an External Hard Drive](https://lifehacker.com/tech/save-play-xbox-games-external-hard-drive)
 - [Lifehacker] [How to Figure Out What Kind of Walls You Have Behind Your Wall Paneling](https://lifehacker.com/home/how-to-figure-out-whats-behind-wall-panels)
 - [Lifehacker] [How to Beat ‘Productivity Paranoia’ When You Work Remotely](https://lifehacker.com/work/how-remote-workers-can-beat-productivity-paranoia)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Fix and When to Replace Your Broken Range](https://lifehacker.com/home/when-to-fix-or-replace-range)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel Language Learning for $160 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
 - [Lifehacker] [The Difference Between a Stove and Range](https://lifehacker.com/home/difference-between-stove-range)
-- [Lifehacker] [You Can Change Your Spotify Display Name](https://lifehacker.com/tech/how-to-change-your-spotify-username)
-- [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App for Android](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Change Your Spotify Display Name](https://lifehacker.com/tech/how-to-change-your-spotify-username)<!-- TECH-POSTS:END -->
 
 ---
 
