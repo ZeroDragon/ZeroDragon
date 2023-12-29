@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making a text-shadow wave animation design tool in only 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-text-shadow-wave-animation-design-tool-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-532p)
+- [Dev.to/JS] [Job Match Pro: Your One-Stop Shop for Landing Your Dream Job](https://dev.to/vishwagauravin/job-match-pro-your-one-stop-shop-for-landing-your-dream-job-4760)
+- [Lifehacker] [Why Your Electrical Outlets Are Loose, and How to Fix Them](https://lifehacker.com/home/loose-electrical-outlets-and-how-to-fix)
 - [Dev.to/JS] [Tech-nically Speaking: 30 Days In](https://dev.to/nerajno/tech-nically-speaking-30-days-in-4i70)
+- [Lifehacker] [Don&#39;t Wash Your Pillows in Lemon Juice, No Matter What TikTok Says](https://lifehacker.com/home/dont-wash-your-pillows-with-lemons)
+- [Lifehacker] [You Can Get a MasterClass Subscription for 40% Off Right Now](https://lifehacker.com/work/masterclass-sale)
 - [Dev.to/JS] [Skills of writing unit test for react](https://dev.to/zhangzewei/skills-of-writing-unit-test-for-react-4e5j)
 - [Dev.to/JS] [16 Intermediate/Advanced JavaScript projects for live coding Interview rounds &lpar;Course Preview&rpar;](https://dev.to/xplodivity/16-intermediateadvanced-javascript-projects-for-live-coding-interview-rounds-course-preview-10l)
 - [Lifehacker] [The Best Way to Track All Your Accomplishments in 2024](https://lifehacker.com/best-way-to-track-new-years-resolutions)
@@ -41,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Coming to grips with JS: a Rubyist&#39;s deep dive](https://dev.to/fpsvogel/coming-to-grips-with-js-a-rubyists-deep-dive-2oaj)
 - [Lifehacker] [How to Choose Between Spotify and Apple Music](https://lifehacker.com/tech/apple-music-vs-spotify)
 - [Dev.to/JS] [Hello, World!](https://dev.to/priyancydey/hello-worldfrom-nodejs-api-eyttytyytgff-43mc)
-- [Dev.to/JS] [Hello, World!](https://dev.to/priyancydey/hello-world-g73)
 - [Lifehacker] [The Best Way to Stagger Your Automated Payments](https://lifehacker.com/money/stagger-automated-payments)
-- [Dev.to/JS] [Arrow Function vs Normal Function in JS](https://dev.to/atbalaji/arrow-function-vs-normal-function-in-js-5efd)
 - [Lifehacker] [How to Save &lpar;and Play&rpar; Xbox Series X/S Games on an External Hard Drive](https://lifehacker.com/tech/save-play-xbox-games-external-hard-drive)
 - [Lifehacker] [How to Figure Out What Kind of Walls You Have Behind Your Wall Paneling](https://lifehacker.com/home/how-to-figure-out-whats-behind-wall-panels)
 - [Lifehacker] [How to Beat ‘Productivity Paranoia’ When You Work Remotely](https://lifehacker.com/work/how-remote-workers-can-beat-productivity-paranoia)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Dreamscreens for Your TV on Sale for $40 Right Now](https://lifehacker.com/tech/dreamscreens-sale)
 - [Lifehacker] [There Are Actual Health Benefits to Wearing Scrotal Support Underwear](https://lifehacker.com/health/health-benefits-of-scrotal-support-underwear)
 - [Lifehacker] [My Favorite Journals to Help You Meet Your Goals](https://lifehacker.com/health/best-journals-for-new-years-resolutions)
-- [Lifehacker] [When to Fix and When to Replace Your Broken Range](https://lifehacker.com/home/when-to-fix-or-replace-range)
-- [Lifehacker] [You Can Get a Lifetime Subscription to Babbel Language Learning for $160 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
-- [Lifehacker] [The Difference Between a Stove and Range](https://lifehacker.com/home/difference-between-stove-range)
-- [Lifehacker] [You Can Change Your Spotify Display Name](https://lifehacker.com/tech/how-to-change-your-spotify-username)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Fix and When to Replace Your Broken Range](https://lifehacker.com/home/when-to-fix-or-replace-range)<!-- TECH-POSTS:END -->
 
 ---
 
