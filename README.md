@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
 - [Dev.to/JS] [Show an addition toolbar after users selects text](https://dev.to/phuocng/show-an-addition-toolbar-after-users-selects-text-5h9f)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
 - [Dev.to/JS] [What is Three.js and Why Should You Use it?](https://dev.to/shariqahmed525/what-is-threejs-and-why-should-you-use-it-4pl7)
 - [Dev.to/JS] [Part 12: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-12-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-ofl)
 - [Dev.to/JS] [Create Access Key for AWS S3](https://dev.to/akbarnafisa/create-access-key-for-aws-s3-2cl3)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Any Laptop With the Lid Shut](https://lifehacker.com/tech/how-to-use-laptop-with-lid-shut)
 - [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-28-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)
-- [Lifehacker] [You Should Make Nutella Hot Chocolate Right Away](https://lifehacker.com/food-drink/easy-nutella-hot-chocolate-recipe)
-- [Lifehacker] [How to Strengthen Your Sex Life in the New Year](https://lifehacker.com/relationships/new-years-resolutions-to-strengthen-your-sex-life)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, December 28, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-28-2023)<!-- TECH-POSTS:END -->
 
 ---
 
