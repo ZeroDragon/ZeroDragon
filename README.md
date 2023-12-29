@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 things that propelled me past the beginner level developer](https://dev.to/nerminkarapandzic/5-things-that-propelled-me-past-the-beginner-level-developer-36ak)
+- [Dev.to/JS] [IVF Hacks: Time-Tested Advice from Fertility Veterans in Noida](https://dev.to/guestnowpost/ivf-hacks-time-tested-advice-from-fertility-veterans-in-noida-3200)
+- [Dev.to/JS] [Top 10 GitHub Repos for Open Source Food Delivery Apps](https://dev.to/abbas_ninjascode/top-10-github-repos-for-open-source-food-delivery-apps-43b8)
 - [Dev.to/JS] [Data locations in solidity](https://dev.to/hriztam/data-locations-in-solidity-3de5)
 - [Dev.to/JS] [A Brief History of JavaScript Frameworks](https://dev.to/feketegy/a-brief-history-of-javascript-frameworks-2g44)
 - [Dev.to/JS] [Today i build annoying popup form from Scrimba](https://dev.to/anderutan/today-i-build-annoying-popup-form-15k5)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Punjab’s New Online Driving License System](https://dev.to/rizwan55/punjabs-new-online-driving-license-system-5982)
 - [Dev.to/JS] [How To Get ChatGPT API Key? A Step-by-Step Guide](https://dev.to/onlinemsr/how-to-get-chatgpt-api-key-a-step-by-step-guide-507k)
 - [Dev.to/JS] [Story of a Failed React Project](https://dev.to/mohammadfaisal/story-of-a-failed-react-project-4bhp)
-- [Dev.to/JS] [Javascript Object.groupBy&lpar;&rpar;, an important method](https://dev.to/vvkkumar06/javascript-objectgroupby-an-important-method-482)
-- [Dev.to/JS] [The 20 most used React libraries](https://dev.to/jamesmurdza/the-20-most-used-react-libraries-2m2l)
-- [Dev.to/JS] [Green Vibe CBD Gummies Reviews – {Ingredients, Benefits} Where to Buy?](https://dev.to/greenvibecbdget/green-vibe-cbd-gummies-reviews-ingredients-benefits-where-to-buy-2f0l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
 - [Lifehacker] [You Can Get This $50 eSIM Card for $20 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
