@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Show an addition toolbar after users selects text](https://dev.to/phuocng/show-an-addition-toolbar-after-users-selects-text-5h9f)
 - [Dev.to/JS] [What is Three.js and Why Should You Use it?](https://dev.to/shariqahmed525/what-is-threejs-and-why-should-you-use-it-4pl7)
 - [Dev.to/JS] [Part 12: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-12-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-ofl)
 - [Dev.to/JS] [Create Access Key for AWS S3](https://dev.to/akbarnafisa/create-access-key-for-aws-s3-2cl3)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pipe Maze](https://dev.to/rmion/pipe-maze-2ol1)
 - [Lifehacker] [The ASUS Rog Ally Is at Its Lowest Price Ever](https://lifehacker.com/entertainment/asus-rog-ally-sale-at-best-buy)
 - [Lifehacker] [Give Pigs a Break With Pickles in a Blanket](https://lifehacker.com/food-drink/easy-pickles-in-a-blanket-recipe)
-- [Dev.to/JS] [Episode 23/51: TanStack Query in Angular, Alex Rickabaugh on Signals](https://dev.to/this-is-angular/episode-2351-tanstack-query-in-angular-alex-rickabaugh-on-signals-3g5d)
 - [Lifehacker] [You Can Get a Refurbished iPad 7 for $240 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
 - [Lifehacker] [You Can Make Money by Sexting](https://lifehacker.com/relationships/how-to-make-money-by-sexting)
 - [Lifehacker] [What the 30-30-30 Trend Gets Right About Weight Loss &lpar;and What It Gets Wrong&rpar;](https://lifehacker.com/health/30-30-30-trend-weight-loss)
