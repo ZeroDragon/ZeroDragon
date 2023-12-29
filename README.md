@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing a Responsive Navigation Menu for an E-commerce Website with CSS Flexbox](https://dev.to/brendan_frasser/implementing-a-responsive-navigation-menu-for-an-e-commerce-website-with-css-flexbox-3ak9)
+- [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)
 - [Dev.to/JS] [Cosmic Expansion](https://dev.to/rmion/cosmic-expansion-kjh)
+- [Lifehacker] [How to Set Up Your Google Home App](https://lifehacker.com/tech/how-to-set-up-google-home-app)
 - [Dev.to/JS] [¿React, Vue o Angular?](https://dev.to/soyclaradev/react-vue-o-angular-1en0)
+- [Lifehacker] [How to Survive the &#39;Minimester,&#39; an Intensive Study College Class](https://lifehacker.com/family/how-to-survive-minimester-intensive-college-class)
+- [Lifehacker] [How to Check the Battery Life on Your AirPods](https://lifehacker.com/tech/how-to-check-your-airpods-battery-life)
 - [Dev.to/JS] [How we reduced our code review time by 30%](https://dev.to/imri/how-we-reduced-our-code-review-time-by-30-44ed)
 - [Dev.to/JS] [Navigating the Tech Landscape: My journey with Django, JavaScript, and Unfinished Projects](https://dev.to/kimani/navigating-the-tech-landscape-my-journey-with-django-javascript-and-unfinished-projects-4p9f)
 - [Lifehacker] [Cameras, Leak Detectors, and Other Smart Home Devices Are on Sale Right Now](https://lifehacker.com/tech/best-deals-on-basic-smart-home-devices)
@@ -44,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
 - [Dev.to/JS] [Vecteezy](https://dev.to/wsovn112/vecteezy-39ej)
 - [Dev.to/JS] [A guide to Data Binding in Angular](https://dev.to/zeeshanhshaheen/a-guide-to-data-binding-in-angular-4gib)
-- [Dev.to/JS] [Avoid These 6 Common React useState Hook Mistakes &lpar;Code Example&rpar;](https://dev.to/iamakshaykaushik/avoid-these-6-common-react-usestate-hook-mistakes-code-example-4kgi)
 - [Lifehacker] [The One Ingredient That Separates Good Sandwiches From Great Ones](https://lifehacker.com/food-drink/add-herbs-to-sandwiches)
 - [Lifehacker] [Update Your Prescription Now If You Use Flovent](https://lifehacker.com/health/update-your-prescription-now-if-you-use-flovent)
 - [Lifehacker] [How to Choose Between Spotify and Apple Music](https://lifehacker.com/tech/apple-music-vs-spotify)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Slow Living Movement Can Reduce Your Stress &lpar;and Save You Money&rpar;](https://lifehacker.com/money/slow-living-movement)
 - [Lifehacker] [The ASUS Rog Ally Is at Its Lowest Price Ever](https://lifehacker.com/entertainment/asus-rog-ally-sale-at-best-buy)
 - [Lifehacker] [Give Pigs a Break With Pickles in a Blanket](https://lifehacker.com/food-drink/easy-pickles-in-a-blanket-recipe)
-- [Lifehacker] [You Can Get a Refurbished iPad 7 for $240 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
-- [Lifehacker] [You Can Make Money by Sexting](https://lifehacker.com/relationships/how-to-make-money-by-sexting)
-- [Lifehacker] [What the 30-30-30 Trend Gets Right About Weight Loss &lpar;and What It Gets Wrong&rpar;](https://lifehacker.com/health/30-30-30-trend-weight-loss)
-- [Lifehacker] [You Can Get Dreamscreens for Your TV on Sale for $40 Right Now](https://lifehacker.com/tech/dreamscreens-sale)
-- [Lifehacker] [There Are Actual Health Benefits to Wearing Scrotal Support Underwear](https://lifehacker.com/health/health-benefits-of-scrotal-support-underwear)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Refurbished iPad 7 for $240 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)<!-- TECH-POSTS:END -->
 
 ---
 
