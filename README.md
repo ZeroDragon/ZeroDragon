@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bifrost, self-hosted tool to run notifications directly from your data warehouse](https://dev.to/suprsend/bifrost-self-hosted-tool-to-run-notifications-directly-from-your-data-warehouse-1ahe)
+- [Dev.to/JS] [Casos de Uso de Arrays, Objects, Sets y Maps en Aplicaciones Modernas](https://dev.to/soyclaradev/casos-de-uso-de-arrays-objects-sets-y-maps-en-aplicaciones-modernas-54a1)
 - [Dev.to/JS] [Arithmetic Operators in JavaScript](https://dev.to/codingcss/arithmetic-operators-in-javascript-1bnb)
 - [Dev.to/JS] [Personal Roadmap for becoming a better software developer in 2024](https://dev.to/mrinmoy09/personal-roadmap-for-becoming-a-better-software-developer-in-2024-2nkm)
 - [Dev.to/JS] [Weather Forecast](https://dev.to/safikumar00/weather-forecast-2jec)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Brief History of JavaScript Frameworks](https://dev.to/feketegy/a-brief-history-of-javascript-frameworks-2g44)
 - [Dev.to/JS] [Today i build annoying popup form from Scrimba](https://dev.to/anderutan/today-i-build-annoying-popup-form-15k5)
 - [Dev.to/JS] [Transform Your Photos with AI: Free AI Photo Eraser Online](https://dev.to/photoeraser1/transform-your-photos-with-ai-free-ai-photo-eraser-online-h6h)
-- [Dev.to/JS] [JavaScript Truncate String: What You Need To Know](https://dev.to/onlinemsr/javascript-truncate-string-what-you-need-to-know-dpk)
-- [Dev.to/JS] [Why not to deploy Express JS REST API using Serverless...](https://dev.to/hiteshchawla/why-not-to-deploy-expressjs-rest-api-using-serverless-1kld)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
 - [Lifehacker] [You Can Get This $50 eSIM Card for $20 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
