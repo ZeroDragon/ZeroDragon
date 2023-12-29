@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why not to deploy ExpressJS REST API using Serverless](https://dev.to/hiteshchawla/why-not-to-deploy-expressjs-rest-api-using-serverless-1kld)
+- [Dev.to/JS] [Punjab’s New Online Driving License System](https://dev.to/rizwan55/punjabs-new-online-driving-license-system-5982)
+- [Dev.to/JS] [How To Get ChatGPT API Key? A Step-by-Step Guide](https://dev.to/onlinemsr/how-to-get-chatgpt-api-key-a-step-by-step-guide-507k)
 - [Dev.to/JS] [Story of a Failed React Project](https://dev.to/mohammadfaisal/story-of-a-failed-react-project-4bhp)
 - [Dev.to/JS] [Javascript Object.groupBy&lpar;&rpar;, an important method](https://dev.to/vvkkumar06/javascript-objectgroupby-an-important-method-482)
 - [Dev.to/JS] [The 20 most used React libraries](https://dev.to/jamesmurdza/the-20-most-used-react-libraries-2m2l)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
 - [Dev.to/JS] [What is Three.js and Why Should You Use it?](https://dev.to/shariqahmed525/what-is-threejs-and-why-should-you-use-it-4pl7)
 - [Dev.to/JS] [Part 12: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-12-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-ofl)
-- [Dev.to/JS] [Create Access Key for AWS S3](https://dev.to/akbarnafisa/create-access-key-for-aws-s3-2cl3)
 - [Lifehacker] [You Can Get This $50 eSIM Card for $20 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
-- [Dev.to/JS] [Part 11: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-11-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-28pb)
-- [Dev.to/JS] [Dominando Object en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-object-en-javascript-una-guia-completa-3k6p)
 - [Lifehacker] [The Newest Echo Show 8 Is Down to Its Lowest Price Yet](https://lifehacker.com/tech/best-echo-show-8-deal)
 - [Lifehacker] [How to Figure Out Whether Your Floors are Vinyl or Linoleum &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-figure-out-whether-your-floors-are-vinyl-or-linoleum)
 - [Lifehacker] [The Slow Living Movement Can Reduce Your Stress &lpar;and Save You Money&rpar;](https://lifehacker.com/money/slow-living-movement)
