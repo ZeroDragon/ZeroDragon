@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coming to grips with JS: a Rubyist&#39;s deep dive](https://dev.to/fpsvogel/coming-to-grips-with-js-a-rubyists-deep-dive-2oaj)
+- [Dev.to/JS] [Hello, World!from nodejs api eyttytyytgff](https://dev.to/priyancydey/hello-worldfrom-nodejs-api-eyttytyytgff-43mc)
+- [Dev.to/JS] [Hello, World!](https://dev.to/priyancydey/hello-world-g73)
+- [Lifehacker] [The Best Way to Stagger Your Automated Payments](https://lifehacker.com/money/stagger-automated-payments)
 - [Dev.to/JS] [Arrow Function vs Normal Function in JS](https://dev.to/atbalaji/arrow-function-vs-normal-function-in-js-5efd)
 - [Dev.to/JS] [Chrome DevTools](https://dev.to/lminuti/chrome-devtools-olo)
+- [Lifehacker] [How to Save &lpar;and Play&rpar; Xbox Series X/S Games on an External Hard Drive](https://lifehacker.com/tech/save-play-xbox-games-external-hard-drive)
+- [Lifehacker] [How to Figure Out What Kind of Walls You Have Behind Your Wall Paneling](https://lifehacker.com/home/how-to-figure-out-whats-behind-wall-panels)
 - [Dev.to/JS] [Design Unique Stickers Online with Our Sticker Maker](https://dev.to/stickermaker/design-unique-stickers-online-with-our-sticker-maker-3pea)
 - [Dev.to/JS] [Refactorización de código JavaScript para Startups: Eficiencia con Set y Map](https://dev.to/soyclaradev/refactorizacion-de-codigo-javascript-para-startups-eficiencia-con-set-y-map-7l4)
 - [Dev.to/JS] [Bifrost, self-hosted tool to run notifications directly from your data warehouse](https://dev.to/suprsend/bifrost-self-hosted-tool-to-run-notifications-directly-from-your-data-warehouse-1ahe)
@@ -37,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arithmetic Operators in JavaScript](https://dev.to/codingcss/arithmetic-operators-in-javascript-1bnb)
 - [Dev.to/JS] [Personal Roadmap for becoming a better software developer in 2024](https://dev.to/mrinmoy09/personal-roadmap-for-becoming-a-better-software-developer-in-2024-2nkm)
 - [Dev.to/JS] [Weather Forecast](https://dev.to/safikumar00/weather-forecast-2jec)
-- [Dev.to/JS] [5 things that propelled me past the beginner level developer](https://dev.to/nerminkarapandzic/5-things-that-propelled-me-past-the-beginner-level-developer-36ak)
-- [Dev.to/JS] [IVF Hacks: Time-Tested Advice from Fertility Veterans in Noida](https://dev.to/guestnowpost/ivf-hacks-time-tested-advice-from-fertility-veterans-in-noida-3200)
-- [Dev.to/JS] [Top 10 GitHub Repos for Open Source Food Delivery Apps](https://dev.to/abbas_ninjascode/top-10-github-repos-for-open-source-food-delivery-apps-43b8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
 - [Lifehacker] [You Can Get This $50 eSIM Card for $20 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Samsung Bespoke Jet AI Stick Vacuum Will Pick Up Just About Anything](https://lifehacker.com/tech/samsung-bespoke-jet-ai-vacuum-review)
 - [Lifehacker] [How to Make Thicker, Crunchier, Better Granola at Home](https://lifehacker.com/food-drink/how-to-make-better-granola-at-home)
 - [Lifehacker] [How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-a-macbook)
-- [Lifehacker] [The Best Podcast Episodes of 2023](https://lifehacker.com/entertainment/the-best-podcast-episodes-of-2023)
-- [Lifehacker] [When You Should Buy Tools Individually &lpar;and When You Should Buy a Set&rpar;](https://lifehacker.com/home/buy-tools-individually-or-in-set)
-- [Lifehacker] [How to Use Any Laptop With the Lid Shut](https://lifehacker.com/tech/how-to-use-laptop-with-lid-shut)
-- [Lifehacker] [This Gamma Heated Jacket With a Power Bank Is on Sale for $200 Right Now](https://lifehacker.com/this-gamma-heated-jacket-with-a-power-bank-is-on-sale-f-1851000997)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Podcast Episodes of 2023](https://lifehacker.com/entertainment/the-best-podcast-episodes-of-2023)<!-- TECH-POSTS:END -->
 
 ---
 
