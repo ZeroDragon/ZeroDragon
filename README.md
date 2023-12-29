@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Green Vibe CBD Gummies Reviews – {Ingredients, Benefits} Where to Buy?](https://dev.to/greenvibecbdget/green-vibe-cbd-gummies-reviews-ingredients-benefits-where-to-buy-2f0l)
+- [Dev.to/JS] [Điểm nổi bật của phòng khám đa khoa Bắc Giang](https://dev.to/dakhoabacgiang1/diem-noi-bat-cua-phong-kham-da-khoa-bac-giang-2ce1)
+- [Dev.to/JS] [Unraveling the Complexity of Capitation in Managed Care Payment Models](https://dev.to/johndavid6324/unraveling-the-complexity-of-capitation-in-managed-care-payment-models-2b2n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
 - [Dev.to/JS] [Show an addition toolbar after users selects text](https://dev.to/phuocng/show-an-addition-toolbar-after-users-selects-text-5h9f)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
@@ -39,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dominando Map en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-map-en-javascript-una-guia-completa-para-profesionales-5d11)
 - [Lifehacker] [The Newest Echo Show 8 Is Down to Its Lowest Price Yet](https://lifehacker.com/tech/best-echo-show-8-deal)
 - [Dev.to/JS] [When 0.2 + 0.1 Isn&#39;t Quite 0.3: A Comedic Guide to Floating-Point Shenanigans](https://dev.to/ishanbagchi/when-02-01-isnt-quite-03-a-comedic-guide-to-floating-point-shenanigans-7lg)
-- [Dev.to/JS] [Dominando Set en JavaScript: Una Guía completa](https://dev.to/soyclaradev/dominando-set-en-javascript-una-guia-completa-2mo6)
-- [Dev.to/JS] [Part 10: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-10-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-c5k)
 - [Lifehacker] [How to Figure Out Whether Your Floors are Vinyl or Linoleum &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-figure-out-whether-your-floors-are-vinyl-or-linoleum)
 - [Lifehacker] [The Slow Living Movement Can Reduce Your Stress &lpar;and Save You Money&rpar;](https://lifehacker.com/money/slow-living-movement)
-- [Dev.to/JS] [Pipe Maze](https://dev.to/rmion/pipe-maze-2ol1)
 - [Lifehacker] [The ASUS Rog Ally Is at Its Lowest Price Ever](https://lifehacker.com/entertainment/asus-rog-ally-sale-at-best-buy)
 - [Lifehacker] [Give Pigs a Break With Pickles in a Blanket](https://lifehacker.com/food-drink/easy-pickles-in-a-blanket-recipe)
 - [Lifehacker] [You Can Get a Refurbished iPad 7 for $240 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
