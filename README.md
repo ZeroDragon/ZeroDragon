@@ -26,12 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Skills of writing unit test for react](https://dev.to/zhangzewei/skills-of-writing-unit-test-for-react-4e5j)
+- [Dev.to/JS] [16 Intermediate/Advanced JavaScript projects for live coding Interview rounds &lpar;Course Preview&rpar;](https://dev.to/xplodivity/16-intermediateadvanced-javascript-projects-for-live-coding-interview-rounds-course-preview-10l)
+- [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
 - [Dev.to/JS] [Vecteezy](https://dev.to/wsovn112/vecteezy-39ej)
 - [Dev.to/JS] [A guide to Data Binding in Angular](https://dev.to/zeeshanhshaheen/a-guide-to-data-binding-in-angular-4gib)
 - [Dev.to/JS] [Avoid These 6 Common React useState Hook Mistakes &lpar;Code Example&rpar;](https://dev.to/iamakshaykaushik/avoid-these-6-common-react-usestate-hook-mistakes-code-example-4kgi)
+- [Lifehacker] [The One Ingredient That Separates Good Sandwiches From Great Ones](https://lifehacker.com/food-drink/add-herbs-to-sandwiches)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/davidarcer447/buy-verified-cash-app-account-3397)
 - [Dev.to/JS] [Getting started with Google&#39;s Multi-modal &quot;Gemini Pro Vision&quot; LLM with Javascript for Beginners](https://dev.to/oyemade/getting-started-with-googles-multi-modal-gemini-pro-vision-llm-with-javascript-for-beginners-4144)
+- [Lifehacker] [Update Your Prescription Now If You Use Flovent](https://lifehacker.com/health/update-your-prescription-now-if-you-use-flovent)
 - [Dev.to/JS] [Coming to grips with JS: a Rubyist&#39;s deep dive](https://dev.to/fpsvogel/coming-to-grips-with-js-a-rubyists-deep-dive-2oaj)
+- [Lifehacker] [How to Choose Between Spotify and Apple Music](https://lifehacker.com/tech/apple-music-vs-spotify)
 - [Dev.to/JS] [Hello, World!](https://dev.to/priyancydey/hello-worldfrom-nodejs-api-eyttytyytgff-43mc)
 - [Dev.to/JS] [Hello, World!](https://dev.to/priyancydey/hello-world-g73)
 - [Lifehacker] [The Best Way to Stagger Your Automated Payments](https://lifehacker.com/money/stagger-automated-payments)
@@ -39,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chrome DevTools](https://dev.to/lminuti/chrome-devtools-olo)
 - [Lifehacker] [How to Save &lpar;and Play&rpar; Xbox Series X/S Games on an External Hard Drive](https://lifehacker.com/tech/save-play-xbox-games-external-hard-drive)
 - [Lifehacker] [How to Figure Out What Kind of Walls You Have Behind Your Wall Paneling](https://lifehacker.com/home/how-to-figure-out-whats-behind-wall-panels)
-- [Dev.to/JS] [Design Unique Stickers Online with Our Sticker Maker](https://dev.to/stickermaker/design-unique-stickers-online-with-our-sticker-maker-3pea)
-- [Dev.to/JS] [Refactorización de código JavaScript para Startups: Eficiencia con Set y Map](https://dev.to/soyclaradev/refactorizacion-de-codigo-javascript-para-startups-eficiencia-con-set-y-map-7l4)
 - [Lifehacker] [How to Beat ‘Productivity Paranoia’ When You Work Remotely](https://lifehacker.com/work/how-remote-workers-can-beat-productivity-paranoia)
 - [Lifehacker] [That Viral Home Depot TikTok ‘Hack’ Isn’t Everything It Seems](https://lifehacker.com/home/the-viral-home-depot-tiktok-hack-isnt-everything-it-seems)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel Language Learning for $160 Right Now](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
 - [Lifehacker] [The Difference Between a Stove and Range](https://lifehacker.com/home/difference-between-stove-range)
 - [Lifehacker] [You Can Change Your Spotify Display Name](https://lifehacker.com/tech/how-to-change-your-spotify-username)
-- [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App for Android](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
-- [Lifehacker] [The Samsung Bespoke Jet AI Stick Vacuum Will Pick Up Just About Anything](https://lifehacker.com/tech/samsung-bespoke-jet-ai-vacuum-review)
-- [Lifehacker] [How to Make Thicker, Crunchier, Better Granola at Home](https://lifehacker.com/food-drink/how-to-make-better-granola-at-home)
-- [Lifehacker] [How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-a-macbook)
-- [Lifehacker] [The Best Podcast Episodes of 2023](https://lifehacker.com/entertainment/the-best-podcast-episodes-of-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App for Android](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)<!-- TECH-POSTS:END -->
 
 ---
 
