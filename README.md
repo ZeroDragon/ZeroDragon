@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Story of a Failed React Project](https://dev.to/mohammadfaisal/story-of-a-failed-react-project-4bhp)
+- [Dev.to/JS] [Javascript Object.groupBy&lpar;&rpar;, an important method](https://dev.to/vvkkumar06/javascript-objectgroupby-an-important-method-482)
 - [Dev.to/JS] [The 20 most used React libraries](https://dev.to/jamesmurdza/the-20-most-used-react-libraries-2m2l)
 - [Dev.to/JS] [Green Vibe CBD Gummies Reviews – {Ingredients, Benefits} Where to Buy?](https://dev.to/greenvibecbdget/green-vibe-cbd-gummies-reviews-ingredients-benefits-where-to-buy-2f0l)
 - [Dev.to/JS] [Điểm nổi bật của phòng khám đa khoa Bắc Giang](https://dev.to/dakhoabacgiang1/diem-noi-bat-cua-phong-kham-da-khoa-bac-giang-2ce1)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This $50 eSIM Card for $20 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
 - [Dev.to/JS] [Part 11: All You Need to Know to Master Web Development With HTML CSS and JavaScript](https://dev.to/teach_wizbits/part-11-all-you-need-to-know-to-master-web-development-with-html-css-and-javascript-28pb)
 - [Dev.to/JS] [Dominando Object en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-object-en-javascript-una-guia-completa-3k6p)
-- [Dev.to/JS] [Dominando Array en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-array-en-javascript-una-guia-completa-3o6c)
-- [Dev.to/JS] [Dominando Map en JavaScript: Una Guía Completa](https://dev.to/soyclaradev/dominando-map-en-javascript-una-guia-completa-para-profesionales-5d11)
 - [Lifehacker] [The Newest Echo Show 8 Is Down to Its Lowest Price Yet](https://lifehacker.com/tech/best-echo-show-8-deal)
 - [Lifehacker] [How to Figure Out Whether Your Floors are Vinyl or Linoleum &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-figure-out-whether-your-floors-are-vinyl-or-linoleum)
 - [Lifehacker] [The Slow Living Movement Can Reduce Your Stress &lpar;and Save You Money&rpar;](https://lifehacker.com/money/slow-living-movement)
