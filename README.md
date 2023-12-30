@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Expressões encadeadas e agrupamento](https://dev.to/lucas_ac_am/expressoes-encadeadas-e-agrupamento-14g6)
+- [Dev.to/JS] [BUY MRI SCANNER](https://dev.to/optimaequipments08/buy-mri-scanner-297h)
+- [Dev.to/JS] [Nest.js Nested Routing, Wildcard, Request](https://dev.to/shameel/nestjs-nested-routing-wildcard-request-5888)
 - [Dev.to/JS] [How to send emails using Next.js 14, Resend and React-Email](https://dev.to/shahmir049/how-to-send-emails-using-nextjs-14-resend-and-react-email-2b7g)
 - [Dev.to/JS] [How To Create Random Strong Password Generator using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/how-to-create-random-strong-password-generator-using-html-css-javascript-40n5)
 - [Dev.to/JS] [Apa manfaat SEO?](https://dev.to/idnppofficial/apa-manfaat-seo-1i5)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [You Don’t Need Microservices: A Real-World Perspective](https://dev.to/anthony_hagi/you-dont-need-microservices-a-real-world-perspective-1kck)
 - [Dev.to/JS] [CREATE A LIBRARY WITH JSX &amp; CUSTOM STATE](https://dev.to/devsmitra/create-a-library-with-jsx-custom-state-ll)
 - [Dev.to/JS] [Website Freezes When Click on the Back Button of the &#39;Static Backdrop Modal&#39; in Bootstrap [Fixed using JS/TS&lpar;Angular 13&rpar;]](https://dev.to/dloc47/website-freezes-when-click-on-the-back-button-of-the-static-backdrop-modal-in-bootstrap-fixed-using-jstsangular-13-n9i)
-- [Dev.to/JS] [Latest Newsletter: Happy New Year &lpar;Issue #147&rpar;](https://dev.to/mjgs/latest-newsletter-happy-new-year-issue-147-1lb9)
-- [Dev.to/JS] [Vue.js Retrieving the Selected Option on @change Event](https://dev.to/sureshramani/vuejs-retrieving-the-selected-option-on-change-event-e27)
-- [Dev.to/JS] [Understanding JavaScript Promise Methods: A Simple Guide](https://dev.to/seracoder/understanding-javascript-promise-methods-a-simple-guide-55dp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
