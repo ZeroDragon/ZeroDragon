@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced DOM Manipulation Techniques: A Comprehensive Guide to Selecting and Manipulating Elements](https://dev.to/outstandingvick/advanced-dom-manipulation-techniques-a-comprehensive-guide-to-selecting-and-manipulating-elements-593p)
+- [Dev.to/JS] [Advanced DOM Manipulation Techniques: A Comprehensive Guide to Selecting and Manipulating Elements](https://dev.to/outstandingvick/advanced-dom-manipulation-techniques-a-comprehensive-guide-to-selecting-and-manipulating-elements-1897)
 - [Dev.to/JS] [Expressões encadeadas e agrupamento](https://dev.to/lucas_ac_am/expressoes-encadeadas-e-agrupamento-14g6)
 - [Dev.to/JS] [BUY MRI SCANNER](https://dev.to/optimaequipments08/buy-mri-scanner-297h)
 - [Dev.to/JS] [Nest.js Nested Routing, Wildcard, Request](https://dev.to/shameel/nestjs-nested-routing-wildcard-request-5888)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/kalamtyyyy/buy-verified-cash-app-account-h3c)
 - [Dev.to/JS] [React is Slow, What to do now?](https://dev.to/nikl/react-is-slow-what-to-do-now-369g)
 - [Dev.to/JS] [You Don’t Need Microservices: A Real-World Perspective](https://dev.to/anthony_hagi/you-dont-need-microservices-a-real-world-perspective-1kck)
-- [Dev.to/JS] [CREATE A LIBRARY WITH JSX &amp; CUSTOM STATE](https://dev.to/devsmitra/create-a-library-with-jsx-custom-state-ll)
-- [Dev.to/JS] [Website Freezes When Click on the Back Button of the &#39;Static Backdrop Modal&#39; in Bootstrap [Fixed using JS/TS&lpar;Angular 13&rpar;]](https://dev.to/dloc47/website-freezes-when-click-on-the-back-button-of-the-static-backdrop-modal-in-bootstrap-fixed-using-jstsangular-13-n9i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
