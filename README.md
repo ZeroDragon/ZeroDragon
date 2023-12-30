@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Website Freezes When Click on the Back Button of the &#39;Static Backdrop Modal&#39; in Bootstrap [Fixed using JS/TS&lpar;Angular 13&rpar;]](https://dev.to/dloc47/website-freezes-when-click-on-the-back-button-of-the-static-backdrop-modal-in-bootstrap-fixed-using-jstsangular-13-n9i)
+- [Dev.to/JS] [Latest Newsletter: Happy New Year &lpar;Issue #147&rpar;](https://dev.to/mjgs/latest-newsletter-happy-new-year-issue-147-1lb9)
 - [Dev.to/JS] [Vue.js Retrieving the Selected Option on @change Event](https://dev.to/sureshramani/vuejs-retrieving-the-selected-option-on-change-event-e27)
 - [Dev.to/JS] [Understanding JavaScript Promise Methods: A Simple Guide](https://dev.to/seracoder/understanding-javascript-promise-methods-a-simple-guide-55dp)
 - [Dev.to/JS] [Boost Your Website&#39;s Social Engagement with Select Share JS](https://dev.to/devgauravjatt/boost-your-websites-social-engagement-with-select-share-js-3cd)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interactive Node JS command line](https://dev.to/sandeepmenon/interactive-node-js-command-line-54c1)
 - [Dev.to/JS] [Deploy Client App to S3 by Using Github Action](https://dev.to/akbarnafisa/deploy-client-app-to-s3-by-using-github-action-5d9)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
-- [Dev.to/JS] [Implementing a Responsive Navigation Menu for an E-commerce Website with CSS Flexbox](https://dev.to/brendan_frasser/implementing-a-responsive-navigation-menu-for-an-e-commerce-website-with-css-flexbox-3ak9)
 - [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)
-- [Dev.to/JS] [Cosmic Expansion](https://dev.to/rmion/cosmic-expansion-kjh)
 - [Lifehacker] [How to Set Up Your Google Home App](https://lifehacker.com/tech/how-to-set-up-google-home-app)
 - [Lifehacker] [How to Survive the &#39;Minimester,&#39; an Intensive Study College Class](https://lifehacker.com/family/how-to-survive-minimester-intensive-college-class)
 - [Lifehacker] [How to Check the Battery Life on Your AirPods](https://lifehacker.com/tech/how-to-check-your-airpods-battery-life)
