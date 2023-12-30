@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You Don’t Need Microservices: A Real-World Perspective](https://dev.to/anthony_hagi/you-dont-need-microservices-a-real-world-perspective-1kck)
+- [Dev.to/JS] [CREATE A LIBRARY WITH JSX &amp; CUSTOM STATE](https://dev.to/devsmitra/create-a-library-with-jsx-custom-state-ll)
 - [Dev.to/JS] [Website Freezes When Click on the Back Button of the &#39;Static Backdrop Modal&#39; in Bootstrap [Fixed using JS/TS&lpar;Angular 13&rpar;]](https://dev.to/dloc47/website-freezes-when-click-on-the-back-button-of-the-static-backdrop-modal-in-bootstrap-fixed-using-jstsangular-13-n9i)
 - [Dev.to/JS] [Latest Newsletter: Happy New Year &lpar;Issue #147&rpar;](https://dev.to/mjgs/latest-newsletter-happy-new-year-issue-147-1lb9)
 - [Dev.to/JS] [Vue.js Retrieving the Selected Option on @change Event](https://dev.to/sureshramani/vuejs-retrieving-the-selected-option-on-change-event-e27)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Actually is Babylon.js?](https://dev.to/shariqahmed525/what-actually-is-babylonjs-4k7b)
 - [Dev.to/JS] [Upgrading to Yarn 4](https://dev.to/mxro/upgrading-to-yarn-4-1dm2)
 - [Dev.to/JS] [The easy way to get unique values in array of array Javascript](https://dev.to/anderutan/the-easy-way-to-get-unique-values-in-array-of-array-javascript-4ggo)
-- [Dev.to/JS] [Interactive Node JS command line](https://dev.to/sandeepmenon/interactive-node-js-command-line-54c1)
-- [Dev.to/JS] [Deploy Client App to S3 by Using Github Action](https://dev.to/akbarnafisa/deploy-client-app-to-s3-by-using-github-action-5d9)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
 - [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)
 - [Lifehacker] [How to Set Up Your Google Home App](https://lifehacker.com/tech/how-to-set-up-google-home-app)
