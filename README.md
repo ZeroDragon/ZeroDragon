@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue.js Retrieving the Selected Option on @change Event](https://dev.to/sureshramani/vuejs-retrieving-the-selected-option-on-change-event-e27)
+- [Dev.to/JS] [Understanding JavaScript Promise Methods: A Simple Guide](https://dev.to/seracoder/understanding-javascript-promise-methods-a-simple-guide-55dp)
 - [Dev.to/JS] [Boost Your Website&#39;s Social Engagement with Select Share JS](https://dev.to/devgauravjatt/boost-your-websites-social-engagement-with-select-share-js-3cd)
 - [Dev.to/JS] [Change the favicon dynamically based on user&#39;s color scheme preference](https://dev.to/phuocng/change-the-favicon-dynamically-based-on-users-color-scheme-preference-5di1)
 - [Dev.to/JS] [Power of Tokens:Refresh Tokens and Access Tokens in Backend Development](https://dev.to/speaklouder/power-of-tokensrefresh-tokens-and-access-tokens-in-backend-development-4bc1)
@@ -41,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)
 - [Dev.to/JS] [Cosmic Expansion](https://dev.to/rmion/cosmic-expansion-kjh)
 - [Lifehacker] [How to Set Up Your Google Home App](https://lifehacker.com/tech/how-to-set-up-google-home-app)
-- [Dev.to/JS] [¿React, Vue o Angular?](https://dev.to/soyclaradev/react-vue-o-angular-1en0)
 - [Lifehacker] [How to Survive the &#39;Minimester,&#39; an Intensive Study College Class](https://lifehacker.com/family/how-to-survive-minimester-intensive-college-class)
 - [Lifehacker] [How to Check the Battery Life on Your AirPods](https://lifehacker.com/tech/how-to-check-your-airpods-battery-life)
-- [Dev.to/JS] [How we reduced our code review time by 30%](https://dev.to/imri/how-we-reduced-our-code-review-time-by-30-44ed)
 - [Lifehacker] [Cameras, Leak Detectors, and Other Smart Home Devices Are on Sale Right Now](https://lifehacker.com/tech/best-deals-on-basic-smart-home-devices)
 - [Lifehacker] [You Can Save Money on Your Electric Bill With a Portable Heat Pump](https://lifehacker.com/home/is-a-portable-heat-pump-worth-it)
 - [Lifehacker] [Why Your Electrical Outlets Are Loose, and How to Fix Them](https://lifehacker.com/home/loose-electrical-outlets-and-how-to-fix)
