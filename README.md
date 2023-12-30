@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Apa manfaat SEO?](https://dev.to/idnppofficial/apa-manfaat-seo-1i5)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/kalamtyyyy/buy-google-voice-accounts-3beo)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/kalamtyyyy/buy-verified-cash-app-account-h3c)
+- [Dev.to/JS] [React is Slow, What to do now?](https://dev.to/nikl/react-is-slow-what-to-do-now-369g)
 - [Dev.to/JS] [You Don’t Need Microservices: A Real-World Perspective](https://dev.to/anthony_hagi/you-dont-need-microservices-a-real-world-perspective-1kck)
 - [Dev.to/JS] [CREATE A LIBRARY WITH JSX &amp; CUSTOM STATE](https://dev.to/devsmitra/create-a-library-with-jsx-custom-state-ll)
 - [Dev.to/JS] [Website Freezes When Click on the Back Button of the &#39;Static Backdrop Modal&#39; in Bootstrap [Fixed using JS/TS&lpar;Angular 13&rpar;]](https://dev.to/dloc47/website-freezes-when-click-on-the-back-button-of-the-static-backdrop-modal-in-bootstrap-fixed-using-jstsangular-13-n9i)
@@ -34,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding JavaScript Promise Methods: A Simple Guide](https://dev.to/seracoder/understanding-javascript-promise-methods-a-simple-guide-55dp)
 - [Dev.to/JS] [Boost Your Website&#39;s Social Engagement with Select Share JS](https://dev.to/devgauravjatt/boost-your-websites-social-engagement-with-select-share-js-3cd)
 - [Dev.to/JS] [Change the favicon dynamically based on user&#39;s color scheme preference](https://dev.to/phuocng/change-the-favicon-dynamically-based-on-users-color-scheme-preference-5di1)
-- [Dev.to/JS] [Power of Tokens:Refresh Tokens and Access Tokens in Backend Development](https://dev.to/speaklouder/power-of-tokensrefresh-tokens-and-access-tokens-in-backend-development-4bc1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
-- [Dev.to/JS] [What Actually is Babylon.js?](https://dev.to/shariqahmed525/what-actually-is-babylonjs-4k7b)
-- [Dev.to/JS] [Upgrading to Yarn 4](https://dev.to/mxro/upgrading-to-yarn-4-1dm2)
-- [Dev.to/JS] [The easy way to get unique values in array of array Javascript](https://dev.to/anderutan/the-easy-way-to-get-unique-values-in-array-of-array-javascript-4ggo)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
 - [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)
 - [Lifehacker] [How to Set Up Your Google Home App](https://lifehacker.com/tech/how-to-set-up-google-home-app)
