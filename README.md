@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
 - [Dev.to/JS] [Implementing a Responsive Navigation Menu for an E-commerce Website with CSS Flexbox](https://dev.to/brendan_frasser/implementing-a-responsive-navigation-menu-for-an-e-commerce-website-with-css-flexbox-3ak9)
 - [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)
 - [Dev.to/JS] [Cosmic Expansion](https://dev.to/rmion/cosmic-expansion-kjh)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Figure Out Whether Your Floors are Vinyl or Linoleum &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-figure-out-whether-your-floors-are-vinyl-or-linoleum)
 - [Lifehacker] [The Slow Living Movement Can Reduce Your Stress &lpar;and Save You Money&rpar;](https://lifehacker.com/money/slow-living-movement)
 - [Lifehacker] [The ASUS Rog Ally Is at Its Lowest Price Ever](https://lifehacker.com/entertainment/asus-rog-ally-sale-at-best-buy)
-- [Lifehacker] [Give Pigs a Break With Pickles in a Blanket](https://lifehacker.com/food-drink/easy-pickles-in-a-blanket-recipe)
-- [Lifehacker] [You Can Get a Refurbished iPad 7 for $240 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Give Pigs a Break With Pickles in a Blanket](https://lifehacker.com/food-drink/easy-pickles-in-a-blanket-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
