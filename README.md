@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Upgrading to Yarn 4](https://dev.to/mxro/upgrading-to-yarn-4-1dm2)
+- [Dev.to/JS] [The easy way to get unique values in array of array Javascript](https://dev.to/anderutan/the-easy-way-to-get-unique-values-in-array-of-array-javascript-4ggo)
+- [Dev.to/JS] [Interactive Node JS command line](https://dev.to/sandeepmenon/interactive-node-js-command-line-54c1)
+- [Dev.to/JS] [Deploy Client App to S3 by Using Github Action](https://dev.to/akbarnafisa/deploy-client-app-to-s3-by-using-github-action-5d9)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
 - [Dev.to/JS] [Implementing a Responsive Navigation Menu for an E-commerce Website with CSS Flexbox](https://dev.to/brendan_frasser/implementing-a-responsive-navigation-menu-for-an-e-commerce-website-with-css-flexbox-3ak9)
 - [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)
@@ -44,12 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tech-nically Speaking: 30 Days In](https://dev.to/nerajno/tech-nically-speaking-30-days-in-4i70)
 - [Lifehacker] [Don&#39;t Wash Your Pillows in Lemon Juice, No Matter What TikTok Says](https://lifehacker.com/home/dont-wash-your-pillows-with-lemons)
 - [Lifehacker] [You Can Get a MasterClass Subscription for 40% Off Right Now](https://lifehacker.com/work/masterclass-sale)
-- [Dev.to/JS] [Skills of writing unit test for react](https://dev.to/zhangzewei/skills-of-writing-unit-test-for-react-4e5j)
-- [Dev.to/JS] [16 Intermediate/Advanced JavaScript projects for live coding Interview rounds &lpar;Course Preview&rpar;](https://dev.to/xplodivity/16-intermediateadvanced-javascript-projects-for-live-coding-interview-rounds-course-preview-10l)
 - [Lifehacker] [The Best Way to Track All Your Accomplishments in 2024](https://lifehacker.com/best-way-to-track-new-years-resolutions)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
-- [Dev.to/JS] [Vecteezy](https://dev.to/wsovn112/vecteezy-39ej)
-- [Dev.to/JS] [A guide to Data Binding in Angular](https://dev.to/zeeshanhshaheen/a-guide-to-data-binding-in-angular-4gib)
 - [Lifehacker] [The One Ingredient That Separates Good Sandwiches From Great Ones](https://lifehacker.com/food-drink/add-herbs-to-sandwiches)
 - [Lifehacker] [Update Your Prescription Now If You Use Flovent](https://lifehacker.com/health/update-your-prescription-now-if-you-use-flovent)
 - [Lifehacker] [How to Choose Between Spotify and Apple Music](https://lifehacker.com/tech/apple-music-vs-spotify)
