@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Context API, Special Elements, Modularity, Debug](https://dev.to/chillyhill/context-api-special-elements-modularity-debug-f97)
 - [Dev.to/JS] [Streamify](https://dev.to/ayushnigam/streamify-3j5f)
 - [Dev.to/JS] [Day-4 of Learning JavaScript: Crafting Order out of Chaos: Building an Interactive To-Do List](https://dev.to/aniketsaini65/day-4-of-learning-javascript-crafting-order-out-of-chaos-building-an-interactive-to-do-list-208)
 - [Dev.to/JS] [Advanced DOM Manipulation Techniques: A Comprehensive Guide to Selecting and Manipulating Elements](https://dev.to/outstandingvick/advanced-dom-manipulation-techniques-a-comprehensive-guide-to-selecting-and-manipulating-elements-593p)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Create Random Strong Password Generator using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/how-to-create-random-strong-password-generator-using-html-css-javascript-40n5)
 - [Dev.to/JS] [Apa manfaat SEO?](https://dev.to/idnppofficial/apa-manfaat-seo-1i5)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/kalamtyyyy/buy-google-voice-accounts-3beo)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/kalamtyyyy/buy-verified-cash-app-account-h3c)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
