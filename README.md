@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Splitting and Caching React Chunks](https://dev.to/pffigueiredo/splitting-and-caching-react-chunks-4c0c)
+- [Dev.to/JS] [Buy Verified Binance Account](https://dev.to/binanceaccountl/buy-verified-binance-account-2c1l)
+- [Dev.to/JS] [Buy Verified Cash App Account](https://dev.to/binanceaccountl/buy-verified-cash-app-account-2hgc)
 - [Dev.to/JS] [Context API, Special Elements, Modularity, Debug](https://dev.to/chillyhill/context-api-special-elements-modularity-debug-f97)
 - [Dev.to/JS] [Streamify](https://dev.to/ayushnigam/streamify-3j5f)
 - [Dev.to/JS] [Day-4 of Learning JavaScript: Crafting Order out of Chaos: Building an Interactive To-Do List](https://dev.to/aniketsaini65/day-4-of-learning-javascript-crafting-order-out-of-chaos-building-an-interactive-to-do-list-208)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [BUY MRI SCANNER](https://dev.to/optimaequipments08/buy-mri-scanner-297h)
 - [Dev.to/JS] [Nest.js Nested Routing, Wildcard, Request](https://dev.to/shameel/nestjs-nested-routing-wildcard-request-5888)
 - [Dev.to/JS] [How to send emails using Next.js 14, Resend and React-Email](https://dev.to/shahmir049/how-to-send-emails-using-nextjs-14-resend-and-react-email-2b7g)
-- [Dev.to/JS] [How To Create Random Strong Password Generator using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/how-to-create-random-strong-password-generator-using-html-css-javascript-40n5)
-- [Dev.to/JS] [Apa manfaat SEO?](https://dev.to/idnppofficial/apa-manfaat-seo-1i5)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/kalamtyyyy/buy-google-voice-accounts-3beo)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
