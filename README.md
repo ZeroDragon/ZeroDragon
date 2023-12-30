@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create Random Strong Password Generator using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/how-to-create-random-strong-password-generator-using-html-css-javascript-40n5)
 - [Dev.to/JS] [Apa manfaat SEO?](https://dev.to/idnppofficial/apa-manfaat-seo-1i5)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/kalamtyyyy/buy-google-voice-accounts-3beo)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/kalamtyyyy/buy-verified-cash-app-account-h3c)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue.js Retrieving the Selected Option on @change Event](https://dev.to/sureshramani/vuejs-retrieving-the-selected-option-on-change-event-e27)
 - [Dev.to/JS] [Understanding JavaScript Promise Methods: A Simple Guide](https://dev.to/seracoder/understanding-javascript-promise-methods-a-simple-guide-55dp)
 - [Dev.to/JS] [Boost Your Website&#39;s Social Engagement with Select Share JS](https://dev.to/devgauravjatt/boost-your-websites-social-engagement-with-select-share-js-3cd)
-- [Dev.to/JS] [Change the favicon dynamically based on user&#39;s color scheme preference](https://dev.to/phuocng/change-the-favicon-dynamically-based-on-users-color-scheme-preference-5di1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
