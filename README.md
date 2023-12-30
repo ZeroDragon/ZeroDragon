@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Actually is Babylon.js?](https://dev.to/shariqahmed525/what-actually-is-babylonjs-4k7b)
 - [Dev.to/JS] [Upgrading to Yarn 4](https://dev.to/mxro/upgrading-to-yarn-4-1dm2)
 - [Dev.to/JS] [The easy way to get unique values in array of array Javascript](https://dev.to/anderutan/the-easy-way-to-get-unique-values-in-array-of-array-javascript-4ggo)
 - [Dev.to/JS] [Interactive Node JS command line](https://dev.to/sandeepmenon/interactive-node-js-command-line-54c1)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Save Money on Your Electric Bill With a Portable Heat Pump](https://lifehacker.com/home/is-a-portable-heat-pump-worth-it)
 - [Dev.to/JS] [Job Match Pro: Your One-Stop Shop for Landing Your Dream Job](https://dev.to/vishwagauravin/job-match-pro-your-one-stop-shop-for-landing-your-dream-job-4760)
 - [Lifehacker] [Why Your Electrical Outlets Are Loose, and How to Fix Them](https://lifehacker.com/home/loose-electrical-outlets-and-how-to-fix)
-- [Dev.to/JS] [Tech-nically Speaking: 30 Days In](https://dev.to/nerajno/tech-nically-speaking-30-days-in-4i70)
 - [Lifehacker] [Don&#39;t Wash Your Pillows in Lemon Juice, No Matter What TikTok Says](https://lifehacker.com/home/dont-wash-your-pillows-with-lemons)
 - [Lifehacker] [You Can Get a MasterClass Subscription for 40% Off Right Now](https://lifehacker.com/work/masterclass-sale)
 - [Lifehacker] [The Best Way to Track All Your Accomplishments in 2024](https://lifehacker.com/best-way-to-track-new-years-resolutions)
