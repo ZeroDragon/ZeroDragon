@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/genecain29/buy-google-5-star-reviews-7k8)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/genecain29/buy-verified-cash-app-account-547e)
 - [Dev.to/JS] [Principios de Desarrollo Frontend Avanzado: Una Guía Profesional](https://dev.to/soyclaradev/principios-de-desarrollo-frontend-avanzado-una-guia-del-profesional-30lf)
 - [Dev.to/JS] [7 Web Components I maybe should have blogged about in 2023](https://dev.to/dannyengelman/7-web-components-i-maybe-should-have-blogged-about-in-2023-28ph)
 - [Dev.to/JS] [Calculate the reading time of a webpage](https://dev.to/phuocng/calculate-the-reading-time-of-a-webpage-1i7j)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlock Your Creativity with AI: Calendar Maker](https://dev.to/aicalendermaker/unlock-your-creativity-with-ai-calendar-maker-1359)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/rogelioyang984/buy-verified-cash-app-account-2del)
 - [Dev.to/JS] [Configuring ESLint to use with Prettier and HTML-ESlint parser](https://dev.to/24adithya/configuring-eslint-to-use-with-prettier-and-html-eslint-parser-423)
-- [Dev.to/JS] [What to Expect from Angular in 2024](https://dev.to/swebdev/what-to-expect-from-angular-in-2024-43hd)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
-- [Dev.to/JS] [A Comprehensive Guide to Structuring Your React App Project](https://dev.to/dhanasai_tholeti/a-comprehensive-guide-to-structuring-your-react-app-project-2a9d)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
