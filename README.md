@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Graph Problems](https://dev.to/lokeswaran-aj/graph-problems-23ed)
 - [Dev.to/JS] [Unlock Your Creativity with AI: Calendar Maker](https://dev.to/aicalendermaker/unlock-your-creativity-with-ai-calendar-maker-1359)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/rogelioyang984/buy-verified-cash-app-account-2del)
 - [Dev.to/JS] [Configuring ESLint to use with Prettier and HTML-ESlint parser](https://dev.to/24adithya/configuring-eslint-to-use-with-prettier-and-html-eslint-parser-423)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are Types in TypeScript](https://dev.to/harshit_senpai/what-are-types-in-typescript-pm4)
 - [Dev.to/JS] [Difference between Scripting and Programming Language.](https://dev.to/nitintwt27/difference-between-scripting-and-programming-language-1d4k)
 - [Dev.to/JS] [Basic of useState hook in react.](https://dev.to/nitintwt27/basic-of-usestate-hook-in-react-1j5g)
-- [Dev.to/JS] [Why we use useCallback hook in react ?](https://dev.to/nitintwt27/why-we-use-usecallback-hook-in-react--5d76)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
