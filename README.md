@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Configuring ESLint to use with Prettier and HTML-ESlint parser](https://dev.to/24adithya/configuring-eslint-to-use-with-prettier-and-html-eslint-parser-423)
 - [Dev.to/JS] [What to Expect from Angular in 2024](https://dev.to/swebdev/what-to-expect-from-angular-in-2024-43hd)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why we use useCallback hook in react ?](https://dev.to/nitintwt27/why-we-use-usecallback-hook-in-react--5d76)
 - [Dev.to/JS] [Context API: What and Why?](https://dev.to/nitintwt27/context-api-what-and-why-544l)
 - [Dev.to/JS] [10 Best Javascript Newsletters in 2024](https://dev.to/bigtechdigest/10-best-javascript-newsletters-in-2024-1lii)
-- [Dev.to/JS] [Advanced Fibonacci Technique with Dynamic Programming](https://dev.to/sewas87/advanced-fibonacci-technique-with-dynamic-programming-342c)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
