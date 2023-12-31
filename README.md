@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Comprehensive Guide to Structuring Your React App Project](https://dev.to/dhanasai_tholeti/a-comprehensive-guide-to-structuring-your-react-app-project-2a9d)
+- [Dev.to/JS] [A project that needs more help](https://dev.to/jacobhoskins/a-project-that-needs-more-help-3kj8)
 - [Dev.to/JS] [Optimizing User Experience: Using Ajax for Dynamic Web Page Loading](https://dev.to/braide/optimizing-user-experience-using-ajax-for-dynamic-web-page-loading-3g43)
 - [Dev.to/JS] [Why Angular will shine more in 2024](https://dev.to/swebdev/why-angular-will-shine-more-in-2024-1gmn)
 - [Dev.to/JS] [What are Types in TypeScript](https://dev.to/harshit_senpai/what-are-types-in-typescript-pm4)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Best Javascript Newsletters in 2024](https://dev.to/bigtechdigest/10-best-javascript-newsletters-in-2024-1lii)
 - [Dev.to/JS] [Advanced Fibonacci Technique with Dynamic Programming](https://dev.to/sewas87/advanced-fibonacci-technique-with-dynamic-programming-342c)
 - [Dev.to/JS] [Why you should only use TypeScript ☝️](https://dev.to/disane/why-you-should-only-use-typescript-5c8b)
-- [Dev.to/JS] [Warum du nur noch TypeScript nutzen solltest ☝️](https://dev.to/disane/warum-du-nur-noch-typescript-nutzen-solltest-4onm)
-- [Dev.to/JS] [Splitting and Caching React Chunks](https://dev.to/pffigueiredo/splitting-and-caching-react-chunks-4c0c)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
