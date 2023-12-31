@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Programming YouTubers I recommend](https://dev.to/bhumit070/programming-youtubers-i-recommend-38e3)
+- [Dev.to/JS] [My OpenSource Blog that You Can Use Right Now](https://dev.to/mohammadfaisal/my-opensource-blog-that-you-can-use-right-now-4gbo)
 - [Dev.to/JS] [THE ART OF DEBUGGING: Unveiling the Craftsmanship in Software Development](https://dev.to/ochosteve08/the-art-of-debugging-unveiling-the-craftsmanship-in-software-development-58kb)
 - [Dev.to/JS] [Graph Problems](https://dev.to/lokeswaran-aj/graph-problems-23ed)
 - [Dev.to/JS] [Unlock Your Creativity with AI: Calendar Maker](https://dev.to/aicalendermaker/unlock-your-creativity-with-ai-calendar-maker-1359)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A project that needs more help](https://dev.to/jacobhoskins/a-project-that-needs-more-help-3kj8)
 - [Dev.to/JS] [Optimizing User Experience: Using Ajax for Dynamic Web Page Loading](https://dev.to/braide/optimizing-user-experience-using-ajax-for-dynamic-web-page-loading-3g43)
 - [Dev.to/JS] [Why Angular will shine more in 2024](https://dev.to/swebdev/why-angular-will-shine-more-in-2024-1gmn)
-- [Dev.to/JS] [What are Types in TypeScript](https://dev.to/harshit_senpai/what-are-types-in-typescript-pm4)
-- [Dev.to/JS] [Difference between Scripting and Programming Language.](https://dev.to/nitintwt27/difference-between-scripting-and-programming-language-1d4k)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
