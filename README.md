@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding how let declaration work in for loop](https://dev.to/i3b/understanding-how-let-declaration-work-in-for-loop-4j44)
+- [Dev.to/JS] [JavaScript Tips for Cleaner Code](https://dev.to/ashwan_lal/javascript-tips-for-cleaner-code-2385)
 - [Dev.to/JS] [No more State Management with Signals](https://dev.to/decker67/no-more-state-management-with-signals-5ald)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/genecain29/buy-google-5-star-reviews-7k8)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/genecain29/buy-verified-cash-app-account-547e)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My OpenSource Blog that You Can Use Right Now](https://dev.to/mohammadfaisal/my-opensource-blog-that-you-can-use-right-now-4gbo)
 - [Dev.to/JS] [THE ART OF DEBUGGING: Unveiling the Craftsmanship in Software Development](https://dev.to/ochosteve08/the-art-of-debugging-unveiling-the-craftsmanship-in-software-development-58kb)
 - [Dev.to/JS] [Graph Problems](https://dev.to/lokeswaran-aj/graph-problems-23ed)
-- [Dev.to/JS] [Unlock Your Creativity with AI: Calendar Maker](https://dev.to/aicalendermaker/unlock-your-creativity-with-ai-calendar-maker-1359)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/rogelioyang984/buy-verified-cash-app-account-2del)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
