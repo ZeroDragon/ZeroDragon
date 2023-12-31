@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [IMPLEMENTING APP SESSION TIMEOUT IN React.JS](https://dev.to/danmusembi/implementing-app-session-timeout-in-reactjs-5c5e)
+- [Dev.to/JS] [From Beginner to Pro: Deploying TypeScript Applications with Node.js &amp; PostgreSQL on DigitalOcean](https://dev.to/vijeth-simha/from-beginner-to-pro-deploying-typescript-applications-with-nodejs-postgresql-on-digitalocean-91k)
+- [Dev.to/JS] [Setup HTML Templates and Static Assets in Golang](https://dev.to/kells/setup-html-templates-and-static-assets-in-golang-g95)
+- [Dev.to/JS] [Buy Verified Cash App Account](https://dev.to/binanceaccountjp/buy-verified-cash-app-account-7b6)
+- [Dev.to/JS] [A Simple Guide to Organizing Api Services in Your Web App](https://dev.to/tazdecoder/a-simple-guide-to-organizing-api-services-in-your-web-app-1o2o)
 - [Dev.to/JS] [Understanding how let declaration work in for loop](https://dev.to/i3b/understanding-how-let-declaration-work-in-for-loop-4j44)
 - [Dev.to/JS] [JavaScript Tips for Cleaner Code](https://dev.to/ashwan_lal/javascript-tips-for-cleaner-code-2385)
 - [Dev.to/JS] [No more State Management with Signals](https://dev.to/decker67/no-more-state-management-with-signals-5ald)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/genecain29/buy-verified-cash-app-account-547e)
 - [Dev.to/JS] [Principios de Desarrollo Frontend Avanzado: Una Guía Profesional](https://dev.to/soyclaradev/principios-de-desarrollo-frontend-avanzado-una-guia-del-profesional-30lf)
 - [Dev.to/JS] [A Beginner Developer Yearly Recap](https://dev.to/joaotextor/a-beginner-developer-yearly-recap-iml)
-- [Dev.to/JS] [7 Web Components I maybe should have blogged about in 2023](https://dev.to/dannyengelman/7-web-components-i-maybe-should-have-blogged-about-in-2023-28ph)
-- [Dev.to/JS] [Calculate the reading time of a webpage](https://dev.to/phuocng/calculate-the-reading-time-of-a-webpage-1i7j)
-- [Dev.to/JS] [Programming YouTubers I recommend](https://dev.to/bhumit070/programming-youtubers-i-recommend-38e3)
-- [Dev.to/JS] [My OpenSource Blog that You Can Use Right Now](https://dev.to/mohammadfaisal/my-opensource-blog-that-you-can-use-right-now-4gbo)
-- [Dev.to/JS] [THE ART OF DEBUGGING: Unveiling the Craftsmanship in Software Development](https://dev.to/ochosteve08/the-art-of-debugging-unveiling-the-craftsmanship-in-software-development-58kb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
