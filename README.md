@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Web Components I maybe should have blogged about in 2023](https://dev.to/dannyengelman/7-web-components-i-maybe-should-have-blogged-about-in-2023-28ph)
 - [Dev.to/JS] [Calculate the reading time of a webpage](https://dev.to/phuocng/calculate-the-reading-time-of-a-webpage-1i7j)
 - [Dev.to/JS] [Programming YouTubers I recommend](https://dev.to/bhumit070/programming-youtubers-i-recommend-38e3)
 - [Dev.to/JS] [My OpenSource Blog that You Can Use Right Now](https://dev.to/mohammadfaisal/my-opensource-blog-that-you-can-use-right-now-4gbo)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
 - [Dev.to/JS] [A Comprehensive Guide to Structuring Your React App Project](https://dev.to/dhanasai_tholeti/a-comprehensive-guide-to-structuring-your-react-app-project-2a9d)
 - [Dev.to/JS] [A project that needs more help](https://dev.to/jacobhoskins/a-project-that-needs-more-help-3kj8)
-- [Dev.to/JS] [Optimizing User Experience: Using Ajax for Dynamic Web Page Loading](https://dev.to/braide/optimizing-user-experience-using-ajax-for-dynamic-web-page-loading-3g43)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
