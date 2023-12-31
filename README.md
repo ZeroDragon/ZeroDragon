@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What to Expect from Angular in 2024](https://dev.to/swebdev/what-to-expect-from-angular-in-2024-43hd)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
 - [Dev.to/JS] [A Comprehensive Guide to Structuring Your React App Project](https://dev.to/dhanasai_tholeti/a-comprehensive-guide-to-structuring-your-react-app-project-2a9d)
 - [Dev.to/JS] [A project that needs more help](https://dev.to/jacobhoskins/a-project-that-needs-more-help-3kj8)
 - [Dev.to/JS] [Optimizing User Experience: Using Ajax for Dynamic Web Page Loading](https://dev.to/braide/optimizing-user-experience-using-ajax-for-dynamic-web-page-loading-3g43)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Context API: What and Why?](https://dev.to/nitintwt27/context-api-what-and-why-544l)
 - [Dev.to/JS] [10 Best Javascript Newsletters in 2024](https://dev.to/bigtechdigest/10-best-javascript-newsletters-in-2024-1lii)
 - [Dev.to/JS] [Advanced Fibonacci Technique with Dynamic Programming](https://dev.to/sewas87/advanced-fibonacci-technique-with-dynamic-programming-342c)
-- [Dev.to/JS] [Why you should only use TypeScript ☝️](https://dev.to/disane/why-you-should-only-use-typescript-5c8b)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
 - [Lifehacker] [You Can Get This $50 eSIM Card for $20 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
 - [Lifehacker] [The Newest Echo Show 8 Is Down to Its Lowest Price Yet](https://lifehacker.com/tech/best-echo-show-8-deal)
-- [Lifehacker] [How to Figure Out Whether Your Floors are Vinyl or Linoleum &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-figure-out-whether-your-floors-are-vinyl-or-linoleum)
-- [Lifehacker] [The Slow Living Movement Can Reduce Your Stress &lpar;and Save You Money&rpar;](https://lifehacker.com/money/slow-living-movement)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Figure Out Whether Your Floors are Vinyl or Linoleum &lpar;and Why You Should&rpar;](https://lifehacker.com/home/how-to-figure-out-whether-your-floors-are-vinyl-or-linoleum)<!-- TECH-POSTS:END -->
 
 ---
 
