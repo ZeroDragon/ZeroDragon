@@ -37,7 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [No more State Management with Signals](https://dev.to/decker67/no-more-state-management-with-signals-5ald)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/genecain29/buy-google-5-star-reviews-7k8)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/genecain29/buy-verified-cash-app-account-547e)
-- [Dev.to/JS] [A Beginner Developer Yearly Recap](https://dev.to/joaotextor/a-beginner-developer-yearly-recap-iml)
+- [Dev.to/JS] [A Beginner Developer 2023 Recap](https://dev.to/joaotextor/a-beginner-developer-yearly-recap-iml)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
