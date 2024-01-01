@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;Clean code always looks like it was written by someone who cares. — &quot; &quot;Robert C. Martin&quot;](https://dev.to/nasu87/clean-code-always-looks-like-it-was-written-by-someone-who-cares-robert-c-martin-og8)
+- [Dev.to/JS] [React Multi-language feature using i18n or internationalization](https://dev.to/ajnasim/react-multi-language-feature-using-i18n-or-internationalization-3nm)
+- [Dev.to/JS] [Node vs Go: API Showdown](https://dev.to/ocodista/node-vs-go-api-showdown-4njl)
+- [Dev.to/JS] [Have a chance to win a brand new iPhone 14!](https://dev.to/margie123/have-a-chance-to-win-a-brand-new-iphone-14-52hi)
+- [Dev.to/JS] [Happy New Year! 🎉 As we welcome 2024](https://dev.to/marmariadev/happy-new-year-as-we-welcome-2024-15k1)
 - [Dev.to/JS] [Your Chance to get $750 to your Cash Account!](https://dev.to/cashappoffer/your-chance-to-get-750-to-your-cash-account-3g4l)
 - [Dev.to/JS] [World Population Online Counter](https://dev.to/dmtlo/world-population-online-counter-1e00)
 - [Dev.to/JS] [Sign up and find Part Time jobs! Conversion will be happen after email submit](https://dev.to/startcareer0048/sign-up-and-find-part-time-jobs-conversion-will-be-happen-after-email-submit-5ko)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Beirut escorts contribute to the local tourism industry](https://dev.to/zarakhalifa2024/how-beirut-escorts-contribute-to-the-local-tourism-industry-5djm)
 - [Dev.to/JS] [The Role of Beirut Escorts in Redefining Personal Relationships](https://dev.to/zarakhalifa2024/the-role-of-beirut-escorts-in-redefining-personal-relationships-l8l)
 - [Dev.to/JS] [Solve LeetCode problem #217 Contains Duplicate with Javascript](https://dev.to/thatanjan/solve-leetcode-problem-217-contains-duplicate-with-javascript-27f6)
-- [Dev.to/JS] [Popularity is not Efficiency: Solid.js vs React.js](https://dev.to/miracool/popularity-is-not-efficiency-solidjs-vs-reactjs-de7)
-- [Dev.to/JS] [Interview Questions for Web Developer - JavaScript](https://dev.to/cookiemonsterdev/interview-questions-for-web-developer-javascript-31b7)
-- [Dev.to/JS] [Today i learn to build a lite version of Twitter - Twimba](https://dev.to/anderutan/today-i-learn-to-build-a-lite-version-of-twitter-twimba-1h92)
-- [Dev.to/JS] [Best CMS for Vue &amp; Nuxt = Storyblok 🚀](https://dev.to/jacobandrewsky/best-cms-for-vue-nuxt-storyblok-44fg)
-- [Dev.to/JS] [what is the meaning of static in typescript classes?](https://dev.to/tanveer_cs/what-is-the-meaning-of-static-in-typescript-classes-14fb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
