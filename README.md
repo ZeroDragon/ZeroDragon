@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Happy new year only free live chat join the link https://magic.ly/WhatsApp78](https://dev.to/linda78/happy-new-year-only-free-live-chat-join-the-linkhttpsmagiclywhatsapp78-3koc)
 - [Dev.to/JS] [&quot;Clean code always looks like it was written by someone who cares. — &quot; &quot;Robert C. Martin&quot;](https://dev.to/nasu87/clean-code-always-looks-like-it-was-written-by-someone-who-cares-robert-c-martin-og8)
 - [Dev.to/JS] [React Multi-language feature using i18n or internationalization](https://dev.to/ajnasim/react-multi-language-feature-using-i18n-or-internationalization-3nm)
 - [Dev.to/JS] [Node vs Go: API Showdown](https://dev.to/ocodista/node-vs-go-api-showdown-4njl)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [EXPLORING THE DIFFERENT TYPES OF ISTANBUL ESCORTS](https://dev.to/zarakhalifa2024/exploring-the-different-types-of-istanbul-escorts-dnd)
 - [Dev.to/JS] [How Beirut escorts contribute to the local tourism industry](https://dev.to/zarakhalifa2024/how-beirut-escorts-contribute-to-the-local-tourism-industry-5djm)
 - [Dev.to/JS] [The Role of Beirut Escorts in Redefining Personal Relationships](https://dev.to/zarakhalifa2024/the-role-of-beirut-escorts-in-redefining-personal-relationships-l8l)
-- [Dev.to/JS] [Solve LeetCode problem #217 Contains Duplicate with Javascript](https://dev.to/thatanjan/solve-leetcode-problem-217-contains-duplicate-with-javascript-27f6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
