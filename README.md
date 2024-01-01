@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CREATE REACT APP WITH VITE 2024](https://dev.to/astrodev5945/create-react-app-with-vite-2024-mi1)
+- [Dev.to/JS] [suggest me a react portfolio project](https://dev.to/mdfahim18/suggest-me-a-react-portfolio-project-54c7)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/nickgardner984/buy-verified-cash-app-account-2g97)
 - [Dev.to/JS] [Happy new year only free live chat join the link https://magic.ly/WhatsApp78](https://dev.to/linda78/happy-new-year-only-free-live-chat-join-the-linkhttpsmagiclywhatsapp78-3koc)
 - [Dev.to/JS] [&quot;Clean code always looks like it was written by someone who cares. — &quot; &quot;Robert C. Martin&quot;](https://dev.to/nasu87/clean-code-always-looks-like-it-was-written-by-someone-who-cares-robert-c-martin-og8)
 - [Dev.to/JS] [React Multi-language feature using i18n or internationalization](https://dev.to/ajnasim/react-multi-language-feature-using-i18n-or-internationalization-3nm)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Your Chance to get $750 to your Cash Account!](https://dev.to/cashappoffer/your-chance-to-get-750-to-your-cash-account-3g4l)
 - [Dev.to/JS] [World Population Online Counter](https://dev.to/dmtlo/world-population-online-counter-1e00)
 - [Dev.to/JS] [Sign up and find Part Time jobs! Conversion will be happen after email submit](https://dev.to/startcareer0048/sign-up-and-find-part-time-jobs-conversion-will-be-happen-after-email-submit-5ko)
-- [Dev.to/JS] [EXPLORING THE DIFFERENT TYPES OF ISTANBUL ESCORTS](https://dev.to/zarakhalifa2024/exploring-the-different-types-of-istanbul-escorts-dnd)
-- [Dev.to/JS] [How Beirut escorts contribute to the local tourism industry](https://dev.to/zarakhalifa2024/how-beirut-escorts-contribute-to-the-local-tourism-industry-5djm)
-- [Dev.to/JS] [The Role of Beirut Escorts in Redefining Personal Relationships](https://dev.to/zarakhalifa2024/the-role-of-beirut-escorts-in-redefining-personal-relationships-l8l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
