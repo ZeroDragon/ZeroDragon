@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Today i learn to build a lite version of Twitter - Twimba](https://dev.to/anderutan/today-i-learn-to-build-a-lite-version-of-twitter-twimba-1h92)
+- [Dev.to/JS] [Best CMS for Vue &amp; Nuxt = Storyblok 🚀](https://dev.to/jacobandrewsky/best-cms-for-vue-nuxt-storyblok-44fg)
+- [Dev.to/JS] [what is the meaning of static in typescript classes?](https://dev.to/tanveer_cs/what-is-the-meaning-of-static-in-typescript-classes-14fb)
+- [Dev.to/JS] [Puravive: Risky Side Effects, Ingredients, Negative Customer Complaints &amp; Reviews](https://dev.to/elinabrowner/puravive-risky-side-effects-ingredients-negative-customer-complaints-reviews-38l2)
 - [Dev.to/JS] [Mutation in GraphQl and how to perform Create,Update and Delete&lpar;Part 3&rpar;](https://dev.to/ganeshyadav3142/mutation-in-graphql-and-how-to-perform-createupdate-and-deletepart-3-17ae)
 - [Dev.to/JS] [Structuring our Node.JS application](https://dev.to/aniketchanana/structuring-our-nodejs-application-2hho)
 - [Dev.to/JS] [Reading progress indicator](https://dev.to/phuocng/reading-progress-indicator-4d4d)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MongoDB on Your Local Machine Using Docker: A Step-by-Step Guide](https://dev.to/speaklouder/mongodb-on-your-local-machine-using-docker-a-step-by-step-guide-4b2h)
 - [Dev.to/JS] [&quot;ReactJS vs. Next.js: Unveiling the Web Development Showdown&quot;](https://dev.to/hriztam/reactjs-vs-nextjs-unveiling-the-web-development-showdown-3heh)
 - [Dev.to/JS] [Detect file run as main or module](https://dev.to/sanjarcode/detect-file-run-as-main-or-module-2fj2)
-- [Dev.to/JS] [Simplifying Data Fetching in React with SWR: A Quick Guide](https://dev.to/krentrox/simplifying-data-fetching-in-react-with-swr-a-quick-guide-lfc)
-- [Dev.to/JS] [Bringing a 20-Year-Running Online Game to Browsers: Nothing is Impossible Anymore!](https://dev.to/aespa/bringing-a-20-year-running-online-game-to-browsers-nothing-is-impossible-anymore-2knj)
-- [Dev.to/JS] [Web Components &amp; Custom Elements](https://dev.to/murtuzaalisurti/web-components-custom-elements-47mb)
-- [Dev.to/JS] [The Ultimate React Reading List: Top 15 Must-Read Articles in 2024](https://dev.to/kothariji/the-ultimate-react-reading-list-top-15-must-read-articles-in-2024-2c3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
