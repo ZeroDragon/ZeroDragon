@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add Filtering to Jquery Datatables](https://dev.to/kingzamzon/how-to-add-filtering-to-jquery-datatables-4jm0)
+- [Dev.to/JS] [JS to style radio button list](https://dev.to/anderutan/js-to-style-radio-button-list-51ol)
 - [Dev.to/JS] [IMPLEMENTING APP SESSION TIMEOUT IN React.JS](https://dev.to/danmusembi/implementing-app-session-timeout-in-reactjs-5c5e)
 - [Dev.to/JS] [From Beginner to Pro: Deploying TypeScript Applications with Node.js &amp; PostgreSQL on DigitalOcean](https://dev.to/vijeth-simha/from-beginner-to-pro-deploying-typescript-applications-with-nodejs-postgresql-on-digitalocean-91k)
 - [Dev.to/JS] [7 Different Ways to Style Websites in 2024](https://dev.to/diagonalsharding/7-different-ways-to-style-websites-in-2024-2hme)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Tips for Cleaner Code](https://dev.to/ashwan_lal/javascript-tips-for-cleaner-code-2385)
 - [Dev.to/JS] [No more State Management with Signals](https://dev.to/decker67/no-more-state-management-with-signals-5ald)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/genecain29/buy-google-5-star-reviews-7k8)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/genecain29/buy-verified-cash-app-account-547e)
-- [Dev.to/JS] [A Beginner Developer 2023 Recap](https://dev.to/joaotextor/a-beginner-developer-yearly-recap-iml)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
