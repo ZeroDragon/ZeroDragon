@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Ultimate React Reading List: Top 15 Must-Read Articles in 2024](https://dev.to/kothariji/the-ultimate-react-reading-list-top-15-must-read-articles-in-2024-2c3)
 - [Dev.to/JS] [Navigating the Complexities of Docker: A Comprehensive Guide to Docker for Beginners](https://dev.to/sarathadhithya/navigating-the-complexities-of-docker-a-comprehensive-guide-to-docker-for-beginners-55j3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Simple Guide to Organizing Api Services in Your Web App](https://dev.to/tazdecoder/a-simple-guide-to-organizing-api-services-in-your-web-app-1o2o)
 - [Dev.to/JS] [Understanding how let declaration work in for loop](https://dev.to/i3b/understanding-how-let-declaration-work-in-for-loop-4j44)
 - [Dev.to/JS] [JavaScript Tips for Cleaner Code](https://dev.to/ashwan_lal/javascript-tips-for-cleaner-code-2385)
-- [Dev.to/JS] [No more State Management with Signals](https://dev.to/decker67/no-more-state-management-with-signals-5ald)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
