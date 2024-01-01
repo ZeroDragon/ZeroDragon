@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Web App using React &amp; Django](https://dev.to/arindam-sahoo/building-a-web-app-using-react-django-44a0)
+- [Dev.to/JS] [Programmers Lose Weight: Does losing weight mean you have to eat as little as possible?](https://dev.to/better678/programmers-lose-weight-does-losing-weight-mean-you-have-to-eat-as-little-as-possible-7bh)
+- [Dev.to/JS] [Let’s implement a Debounce function in Javascript](https://dev.to/alexefimenko/lets-implement-a-debounce-function-in-javascript-1ij1)
+- [Dev.to/JS] [LINQ in Javascript](https://dev.to/michaelenin/linq-in-javascript-4jib)
 - [Dev.to/JS] [Building Jira apps with Atlassian Forge for beginners](https://dev.to/ivadyhabimana/building-jira-apps-with-atlassian-forge-for-beginners-1bjl)
 - [Dev.to/JS] [Having issues with my php script](https://dev.to/zickjnr/having-issues-with-my-php-script-74n)
 - [Dev.to/JS] [How to Implement Feature Flags in Node.js using Unleash](https://dev.to/reeshee/how-to-implement-feature-flags-in-nodejs-using-unleash-3907)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⏰ setTimeout: Why You Can&#39;t Always Trust It? 🤔🚫](https://dev.to/fidalmathew/settimeout-why-you-cant-always-trust-it-4g4c)
 - [Dev.to/JS] [Navigating Asynchronous JavaScript: A Journey Through the Coffee Shop ☕🚀](https://dev.to/devangtomar/navigating-asynchronous-javascript-a-journey-through-the-coffee-shop-9f7)
 - [Dev.to/JS] [JSONCrack Codebase Analysis - Part 1. File Structure](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-1-file-structure-11c2)
-- [Dev.to/JS] [react-music: An Audio Programming Sandbox](https://dev.to/snelson723/react-music-an-audio-programming-sandbox-40o1)
-- [Dev.to/JS] [Buy 5 Star Google Reviews](https://dev.to/binanceaccountrw/buy-5-star-google-reviews-3p45)
-- [Dev.to/JS] [Navigating the Digital Frontier: A Software Engineer&#39;s Journey](https://dev.to/shavjw/navigating-the-digital-frontier-a-software-engineers-journey-2hcc)
-- [Dev.to/JS] [CREATE REACT APP WITH VITE 2024](https://dev.to/astrodev5945/create-react-app-with-vite-2024-mi1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
