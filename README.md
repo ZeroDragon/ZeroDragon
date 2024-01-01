@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy 5 Star Google Reviews](https://dev.to/binanceaccountrw/buy-5-star-google-reviews-3p45)
+- [Dev.to/JS] [When is the right time to use useMemo and useCallback along with example use cases](https://dev.to/whoissaf/when-is-the-right-time-to-use-usememo-and-usecallback-along-with-example-use-cases-5h32)
+- [Dev.to/JS] [Navigating the Digital Frontier: A Software Engineer&#39;s Journey](https://dev.to/shavjw/navigating-the-digital-frontier-a-software-engineers-journey-2hcc)
+- [Dev.to/JS] [My New Picture](https://dev.to/shakurova76/my-new-picture-1bj5)
+- [Dev.to/JS] [Most of these are through websites or applications, with the former being the preferred source of quick income.](https://dev.to/onlineearningrelated/most-of-these-are-through-websites-or-applications-with-the-former-being-the-preferred-source-of-quick-income-28gf)
 - [Dev.to/JS] [CREATE REACT APP WITH VITE 2024](https://dev.to/astrodev5945/create-react-app-with-vite-2024-mi1)
 - [Dev.to/JS] [suggest me a react portfolio project](https://dev.to/mdfahim18/suggest-me-a-react-portfolio-project-54c7)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/nickgardner984/buy-verified-cash-app-account-2g97)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;Clean code always looks like it was written by someone who cares. — &quot; &quot;Robert C. Martin&quot;](https://dev.to/nasu87/clean-code-always-looks-like-it-was-written-by-someone-who-cares-robert-c-martin-og8)
 - [Dev.to/JS] [React Multi-language feature using i18n or internationalization](https://dev.to/ajnasim/react-multi-language-feature-using-i18n-or-internationalization-3nm)
 - [Dev.to/JS] [Node vs Go: API Showdown](https://dev.to/ocodista/node-vs-go-api-showdown-4njl)
-- [Dev.to/JS] [Have a chance to win a brand new iPhone 14!](https://dev.to/margie123/have-a-chance-to-win-a-brand-new-iphone-14-52hi)
-- [Dev.to/JS] [Happy New Year! 🎉 As we welcome 2024](https://dev.to/marmariadev/happy-new-year-as-we-welcome-2024-15k1)
-- [Dev.to/JS] [Your Chance to get $750 to your Cash Account!](https://dev.to/cashappoffer/your-chance-to-get-750-to-your-cash-account-3g4l)
-- [Dev.to/JS] [World Population Online Counter](https://dev.to/dmtlo/world-population-online-counter-1e00)
-- [Dev.to/JS] [Sign up and find Part Time jobs! Conversion will be happen after email submit](https://dev.to/startcareer0048/sign-up-and-find-part-time-jobs-conversion-will-be-happen-after-email-submit-5ko)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
