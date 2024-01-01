@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interview Questions for Web Developer - JavaScript](https://dev.to/cookiemonsterdev/interview-questions-for-web-developer-javascript-31b7)
 - [Dev.to/JS] [Today i learn to build a lite version of Twitter - Twimba](https://dev.to/anderutan/today-i-learn-to-build-a-lite-version-of-twitter-twimba-1h92)
 - [Dev.to/JS] [Best CMS for Vue &amp; Nuxt = Storyblok 🚀](https://dev.to/jacobandrewsky/best-cms-for-vue-nuxt-storyblok-44fg)
 - [Dev.to/JS] [what is the meaning of static in typescript classes?](https://dev.to/tanveer_cs/what-is-the-meaning-of-static-in-typescript-classes-14fb)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Modular White Label Frontend with React and TypeScript](https://dev.to/aniketchanana/building-a-modular-white-label-frontend-with-react-and-typescript-419m)
 - [Dev.to/JS] [MongoDB on Your Local Machine Using Docker: A Step-by-Step Guide](https://dev.to/speaklouder/mongodb-on-your-local-machine-using-docker-a-step-by-step-guide-4b2h)
 - [Dev.to/JS] [&quot;ReactJS vs. Next.js: Unveiling the Web Development Showdown&quot;](https://dev.to/hriztam/reactjs-vs-nextjs-unveiling-the-web-development-showdown-3heh)
-- [Dev.to/JS] [Detect file run as main or module](https://dev.to/sanjarcode/detect-file-run-as-main-or-module-2fj2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
