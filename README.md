@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;ReactJS vs. Next.js: Unveiling the Web Development Showdown&quot;](https://dev.to/hriztam/reactjs-vs-nextjs-unveiling-the-web-development-showdown-3heh)
+- [Dev.to/JS] [Detect file run as main or module](https://dev.to/sanjarcode/detect-file-run-as-main-or-module-2fj2)
+- [Dev.to/JS] [Simplifying Data Fetching in React with SWR: A Quick Guide](https://dev.to/krentrox/simplifying-data-fetching-in-react-with-swr-a-quick-guide-lfc)
+- [Dev.to/JS] [Web Components &amp; Custom Elements](https://dev.to/murtuzaalisurti/web-components-custom-elements-47mb)
 - [Dev.to/JS] [The Ultimate React Reading List: Top 15 Must-Read Articles in 2024](https://dev.to/kothariji/the-ultimate-react-reading-list-top-15-must-read-articles-in-2024-2c3)
 - [Dev.to/JS] [Navigating the Complexities of Docker: A Comprehensive Guide to Docker for Beginners](https://dev.to/sarathadhithya/navigating-the-complexities-of-docker-a-comprehensive-guide-to-docker-for-beginners-55j3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Beginner to Pro: Deploying TypeScript Applications with Node.js &amp; PostgreSQL on DigitalOcean](https://dev.to/vijeth-simha/from-beginner-to-pro-deploying-typescript-applications-with-nodejs-postgresql-on-digitalocean-91k)
 - [Dev.to/JS] [7 Different Ways to Style Websites in 2024](https://dev.to/diagonalsharding/7-different-ways-to-style-websites-in-2024-2hme)
 - [Dev.to/JS] [Setup HTML Templates and Static Assets in Golang](https://dev.to/kells/setup-html-templates-and-static-assets-in-golang-g95)
-- [Dev.to/JS] [Buy Verified Cash App Account](https://dev.to/binanceaccountjp/buy-verified-cash-app-account-7b6)
-- [Dev.to/JS] [A Simple Guide to Organizing Api Services in Your Web App](https://dev.to/tazdecoder/a-simple-guide-to-organizing-api-services-in-your-web-app-1o2o)
-- [Dev.to/JS] [Understanding how let declaration work in for loop](https://dev.to/i3b/understanding-how-let-declaration-work-in-for-loop-4j44)
-- [Dev.to/JS] [JavaScript Tips for Cleaner Code](https://dev.to/ashwan_lal/javascript-tips-for-cleaner-code-2385)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
