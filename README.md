@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating the Complexities of Docker: A Comprehensive Guide to Docker for Beginners](https://dev.to/sarathadhithya/navigating-the-complexities-of-docker-a-comprehensive-guide-to-docker-for-beginners-55j3)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Dev.to/JS] [How to add Filtering to Jquery Datatables](https://dev.to/kingzamzon/how-to-add-filtering-to-jquery-datatables-4jm0)
 - [Dev.to/JS] [JS to style radio button list](https://dev.to/anderutan/js-to-style-radio-button-list-51ol)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding how let declaration work in for loop](https://dev.to/i3b/understanding-how-let-declaration-work-in-for-loop-4j44)
 - [Dev.to/JS] [JavaScript Tips for Cleaner Code](https://dev.to/ashwan_lal/javascript-tips-for-cleaner-code-2385)
 - [Dev.to/JS] [No more State Management with Signals](https://dev.to/decker67/no-more-state-management-with-signals-5ald)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/genecain29/buy-google-5-star-reviews-7k8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Beat ‘Productivity Paranoia’ When You Work Remotely](https://lifehacker.com/work/how-remote-workers-can-beat-productivity-paranoia)
 - [Lifehacker] [That Viral Home Depot TikTok ‘Hack’ Isn’t Everything It Seems](https://lifehacker.com/home/the-viral-home-depot-tiktok-hack-isnt-everything-it-seems)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
-- [Lifehacker] [You Can Get This $50 eSIM Card for $20 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)<!-- TECH-POSTS:END -->
 
 ---
 
