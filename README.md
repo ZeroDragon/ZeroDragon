@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solve LeetCode problem #217 Contains Duplicate with Javascript](https://dev.to/thatanjan/solve-leetcode-problem-217-contains-duplicate-with-javascript-27f6)
+- [Dev.to/JS] [Popularity is not Efficiency: Solid.js vs React.js](https://dev.to/miracool/popularity-is-not-efficiency-solidjs-vs-reactjs-de7)
 - [Dev.to/JS] [Interview Questions for Web Developer - JavaScript](https://dev.to/cookiemonsterdev/interview-questions-for-web-developer-javascript-31b7)
 - [Dev.to/JS] [Today i learn to build a lite version of Twitter - Twimba](https://dev.to/anderutan/today-i-learn-to-build-a-lite-version-of-twitter-twimba-1h92)
 - [Dev.to/JS] [Best CMS for Vue &amp; Nuxt = Storyblok 🚀](https://dev.to/jacobandrewsky/best-cms-for-vue-nuxt-storyblok-44fg)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reading progress indicator](https://dev.to/phuocng/reading-progress-indicator-4d4d)
 - [Dev.to/JS] [Soft Skills for Programmers: In the matter of personal finance, soft skills are more crucial than technical abilities](https://dev.to/better567/soft-skills-for-programmers-in-the-matter-of-personal-finance-soft-skills-are-more-crucial-than-technical-abilities-2lba)
 - [Dev.to/JS] [Building a Modular White Label Frontend with React and TypeScript](https://dev.to/aniketchanana/building-a-modular-white-label-frontend-with-react-and-typescript-419m)
-- [Dev.to/JS] [MongoDB on Your Local Machine Using Docker: A Step-by-Step Guide](https://dev.to/speaklouder/mongodb-on-your-local-machine-using-docker-a-step-by-step-guide-4b2h)
-- [Dev.to/JS] [&quot;ReactJS vs. Next.js: Unveiling the Web Development Showdown&quot;](https://dev.to/hriztam/reactjs-vs-nextjs-unveiling-the-web-development-showdown-3heh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
