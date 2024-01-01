@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Having issues with my php script](https://dev.to/zickjnr/having-issues-with-my-php-script-74n)
+- [Dev.to/JS] [How to Implement Feature Flags in Node.js using Unleash](https://dev.to/reeshee/how-to-implement-feature-flags-in-nodejs-using-unleash-3907)
 - [Dev.to/JS] [How I Built an Anonymous Voting System on the Ethereum Blockchain Using Zero-Knowledge Proof](https://dev.to/thebojda/how-i-built-an-anonymous-voting-system-on-the-ethereum-blockchain-using-zero-knowledge-proof-4bp1)
 - [Dev.to/JS] [A Comprehensive overview on let,const,var](https://dev.to/alfaz08/a-comprehensive-overview-on-letconstvar-4075)
-- [Dev.to/JS] [⏰ setTimeout: Why You Can&#39;t Always Trust It 🤔🚫](https://dev.to/fidalmathew/settimeout-why-you-cant-always-trust-it-4g4c)
+- [Dev.to/JS] [⏰ setTimeout: Why You Can&#39;t Always Trust It? 🤔🚫](https://dev.to/fidalmathew/settimeout-why-you-cant-always-trust-it-4g4c)
 - [Dev.to/JS] [Navigating Asynchronous JavaScript: A Journey Through the Coffee Shop ☕🚀](https://dev.to/devangtomar/navigating-asynchronous-javascript-a-journey-through-the-coffee-shop-9f7)
 - [Dev.to/JS] [JSONCrack Codebase Analysis - Part 1. File Structure](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-1-file-structure-11c2)
 - [Dev.to/JS] [react-music: An Audio Programming Sandbox](https://dev.to/snelson723/react-music-an-audio-programming-sandbox-40o1)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigating the Digital Frontier: A Software Engineer&#39;s Journey](https://dev.to/shavjw/navigating-the-digital-frontier-a-software-engineers-journey-2hcc)
 - [Dev.to/JS] [My New Picture](https://dev.to/shakurova76/my-new-picture-1bj5)
 - [Dev.to/JS] [Most of these are through websites or applications, with the former being the preferred source of quick income.](https://dev.to/onlineearningrelated/most-of-these-are-through-websites-or-applications-with-the-former-being-the-preferred-source-of-quick-income-28gf)
-- [Dev.to/JS] [CREATE REACT APP WITH VITE 2024](https://dev.to/astrodev5945/create-react-app-with-vite-2024-mi1)
-- [Dev.to/JS] [suggest me a react portfolio project](https://dev.to/mdfahim18/suggest-me-a-react-portfolio-project-54c7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
