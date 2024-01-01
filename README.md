@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Jira apps with Atlassian Forge for beginners](https://dev.to/ivadyhabimana/building-jira-apps-with-atlassian-forge-for-beginners-1bjl)
 - [Dev.to/JS] [Having issues with my php script](https://dev.to/zickjnr/having-issues-with-my-php-script-74n)
 - [Dev.to/JS] [How to Implement Feature Flags in Node.js using Unleash](https://dev.to/reeshee/how-to-implement-feature-flags-in-nodejs-using-unleash-3907)
 - [Dev.to/JS] [How I Built an Anonymous Voting System on the Ethereum Blockchain Using Zero-Knowledge Proof](https://dev.to/thebojda/how-i-built-an-anonymous-voting-system-on-the-ethereum-blockchain-using-zero-knowledge-proof-4bp1)
@@ -36,8 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [react-music: An Audio Programming Sandbox](https://dev.to/snelson723/react-music-an-audio-programming-sandbox-40o1)
 - [Dev.to/JS] [Buy 5 Star Google Reviews](https://dev.to/binanceaccountrw/buy-5-star-google-reviews-3p45)
 - [Dev.to/JS] [Navigating the Digital Frontier: A Software Engineer&#39;s Journey](https://dev.to/shavjw/navigating-the-digital-frontier-a-software-engineers-journey-2hcc)
-- [Dev.to/JS] [My New Picture](https://dev.to/shakurova76/my-new-picture-1bj5)
-- [Dev.to/JS] [Most of these are through websites or applications, with the former being the preferred source of quick income.](https://dev.to/onlineearningrelated/most-of-these-are-through-websites-or-applications-with-the-former-being-the-preferred-source-of-quick-income-28gf)
+- [Dev.to/JS] [CREATE REACT APP WITH VITE 2024](https://dev.to/astrodev5945/create-react-app-with-vite-2024-mi1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
