@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Dev.to/JS] [How to add Filtering to Jquery Datatables](https://dev.to/kingzamzon/how-to-add-filtering-to-jquery-datatables-4jm0)
 - [Dev.to/JS] [JS to style radio button list](https://dev.to/anderutan/js-to-style-radio-button-list-51ol)
 - [Dev.to/JS] [IMPLEMENTING APP SESSION TIMEOUT IN React.JS](https://dev.to/danmusembi/implementing-app-session-timeout-in-reactjs-5c5e)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Beat ‘Productivity Paranoia’ When You Work Remotely](https://lifehacker.com/work/how-remote-workers-can-beat-productivity-paranoia)
 - [Lifehacker] [That Viral Home Depot TikTok ‘Hack’ Isn’t Everything It Seems](https://lifehacker.com/home/the-viral-home-depot-tiktok-hack-isnt-everything-it-seems)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)
-- [Lifehacker] [You Can Get This $50 eSIM Card for $20 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
-- [Lifehacker] [The Newest Echo Show 8 Is Down to Its Lowest Price Yet](https://lifehacker.com/tech/best-echo-show-8-deal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)<!-- TECH-POSTS:END -->
 
 ---
 
