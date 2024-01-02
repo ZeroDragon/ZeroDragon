@@ -26,11 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Trending Full Stack Developer Tools 2024](https://dev.to/farhadi/trending-full-stack-developer-tools-2024-55lk)
+- [Dev.to/JS] [After using RawJS, I&#39;m never touching React again &lpar;or any framework&rpar;. Vanilla JavaScript is the future.](https://dev.to/paulgordon/after-using-rawjs-im-never-touching-react-again-or-any-framework-vanilla-javascript-is-the-future-3ac1)
 - [Dev.to/JS] [Buy Verified Transferwise Account](https://dev.to/binanceaccountpo/buy-verified-transferwise-account-8kk)
+- [Lifehacker] [The Best Workouts for Your First Day Back After a Break](https://lifehacker.com/the-best-workouts-for-your-first-day-back-after-a-break-1790629478)
 - [Dev.to/JS] [Buy Verified Binance Account](https://dev.to/binanceaccountpo/buy-verified-binance-account-17oo)
 - [Dev.to/JS] [Buy Verified Cash App Account](https://dev.to/binanceaccountpo/buy-verified-cash-app-account-jk8)
 - [Dev.to/JS] [Enforcing ESLint rules: A guide to taming codebase chaos](https://dev.to/theodo/enforcing-eslint-rules-a-guide-to-taming-codebase-chaos-1o7m)
 - [Dev.to/JS] [Buy 5 Star Google Reviews](https://dev.to/binanceaccountpo/buy-5-star-google-reviews-54lj)
+- [Lifehacker] [Why You Should Mount Your Wifi Router on the Ceiling &lpar;and How to Do It&rpar;](https://lifehacker.com/tech/how-to-mount-your-wifi-router-on-the-ceiling)
 - [Dev.to/JS] [Work on Open Source projects to stand out in 2024](https://dev.to/codr/work-on-open-source-projects-to-stand-out-in-2024-3men)
 - [Dev.to/JS] [Interview Questions for a Front-end Developer - 2024 [JS, React, MobX]](https://dev.to/bartzalewski/interview-questions-for-a-front-end-developer-2024-js-react-mobx-4ibm)
 - [Lifehacker] [The Petcube Cam 360 Isn&#39;t Worth the Monthly Subscription Cost](https://lifehacker.com/tech/petcube-cam-360-review)
@@ -38,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use a USB Drive to Save and Transfer Games on Your PlayStation 5](https://lifehacker.com/tech/transfer-sony-playstation-games-to-usb-drive)
 - [Dev.to/JS] [Python 🐍 fullstack REST API app with Docker 🐳](https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101)
 - [Dev.to/JS] [Blinking cursor](https://dev.to/phuocng/blinking-cursor-35f4)
-- [Dev.to/JS] [BUY GOOGLE REVIEWS](https://dev.to/ronald665/buy-google-reviews-55ic)
 - [Lifehacker] [Use These AI Tools Before Your Next Home Renovation Project](https://lifehacker.com/home/ai-home-renovation-project)
-- [Dev.to/JS] [Getting started with Microfontends: Key Concepts and Strategies](https://dev.to/this-is-angular/getting-started-with-microfontends-key-concepts-and-strategies-510k)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
 - [Lifehacker] [The One Ingredient That Separates Good Sandwiches From Great Ones](https://lifehacker.com/food-drink/add-herbs-to-sandwiches)
 - [Lifehacker] [Update Your Prescription Now If You Use Flovent](https://lifehacker.com/health/update-your-prescription-now-if-you-use-flovent)
-- [Lifehacker] [How to Choose Between Spotify and Apple Music](https://lifehacker.com/tech/apple-music-vs-spotify)
-- [Lifehacker] [The Best Way to Stagger Your Automated Payments](https://lifehacker.com/money/stagger-automated-payments)
-- [Lifehacker] [How to Save &lpar;and Play&rpar; Xbox Series X/S Games on an External Hard Drive](https://lifehacker.com/tech/save-play-xbox-games-external-hard-drive)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose Between Spotify and Apple Music](https://lifehacker.com/tech/apple-music-vs-spotify)<!-- TECH-POSTS:END -->
 
 ---
 
