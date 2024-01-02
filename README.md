@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSONCrack Codebase Analysis - Part 2 - Landing Page](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-2-landing-page-j2d)
+- [Lifehacker] [Avoid Impulse Buying by Disabling Amazon&#39;s 1-Click Ordering](https://lifehacker.com/avoid-impulse-buying-by-disabling-amazons-1-click-order-1845257810)
 - [Lifehacker] [All the Ways Smart Tech Can Keep Your Pets From Escaping](https://lifehacker.com/tech/how-smart-tech-can-help-keep-pets-from-escaping)
 - [Lifehacker] [The Best Tech Gadgets for Working on the Go](https://lifehacker.com/the-best-tech-gadgets-for-working-on-the-go-1850674553)
 - [Dev.to/JS] [RES-like script that allows you to navigate Lemmy with your keyboard](https://dev.to/vmavromatis/res-like-script-that-allows-you-to-navigate-lemmy-with-your-keyboard-18da)
@@ -49,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Workouts for Your First Day Back After a Break](https://lifehacker.com/the-best-workouts-for-your-first-day-back-after-a-break-1790629478)
 - [Dev.to/JS] [Enforcing ESLint rules: A guide to taming codebase chaos](https://dev.to/theodo/enforcing-eslint-rules-a-guide-to-taming-codebase-chaos-1o7m)
 - [Lifehacker] [Why You Should Mount Your Wifi Router on the Ceiling &lpar;and How to Do It&rpar;](https://lifehacker.com/tech/how-to-mount-your-wifi-router-on-the-ceiling)
-- [Dev.to/JS] [Work on Open Source projects to stand out in 2024](https://dev.to/codr/work-on-open-source-projects-to-stand-out-in-2024-3men)
 - [Lifehacker] [The Petcube Cam 360 Isn&#39;t Worth the Monthly Subscription Cost](https://lifehacker.com/tech/petcube-cam-360-review)
 - [Lifehacker] [You Can Use a USB Drive to Save and Transfer Games on Your PlayStation 5](https://lifehacker.com/tech/transfer-sony-playstation-games-to-usb-drive)
 - [Lifehacker] [Use These AI Tools Before Your Next Home Renovation Project](https://lifehacker.com/home/ai-home-renovation-project)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
 - [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)
 - [Lifehacker] [How to Set Up Your Google Home App](https://lifehacker.com/tech/how-to-set-up-google-home-app)
-- [Lifehacker] [How to Survive the &#39;Minimester,&#39; an Intensive Study College Class](https://lifehacker.com/family/how-to-survive-minimester-intensive-college-class)
-- [Lifehacker] [How to Check the Battery Life on Your AirPods](https://lifehacker.com/tech/how-to-check-your-airpods-battery-life)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Survive the &#39;Minimester,&#39; an Intensive Study College Class](https://lifehacker.com/family/how-to-survive-minimester-intensive-college-class)<!-- TECH-POSTS:END -->
 
 ---
 
