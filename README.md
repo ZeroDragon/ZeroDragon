@@ -26,7 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [RES-like script that allows you to navigate Lemmy with your keyboard](https://dev.to/vmavromatis/res-like-script-that-allows-you-to-navigate-lemmy-with-your-keyboard-18da)
+- [Dev.to/JS] [JavaScript Callbacks: A Fundamental Concept in Asynchronous Programming](https://dev.to/elaoqby/javascript-callbacks-a-fundamental-concept-in-asynchronous-programming-2pg)
+- [Lifehacker] [How to Figure Out Why Your Utility Bill Spiked](https://lifehacker.com/money/why-is-my-utility-bill-higher)
+- [Dev.to/JS] [Learn Nextjs 14 &amp; Supabase — Full course for beginners [2 hours] 2024](https://dev.to/guillaumeduhan/learn-nextjs-14-supabase-full-course-for-beginners-2-hours-2024-po1)
+- [Dev.to/JS] [Introduction to the Frontend Interview series - Machine coding round - for Product based companies 🚀](https://dev.to/maitrish/introduction-to-the-frontend-interview-series-machine-coding-round-for-product-based-companies-3ii3)
+- [Lifehacker] [How to Successfully Start College in the Middle of the Year](https://lifehacker.com/family/how-to-successfully-start-college-in-the-spring-semester)
+- [Lifehacker] [Make This Financial Resolution Before &#39;Spend Less&#39; or &#39;Save More&#39;](https://lifehacker.com/money/make-this-financial-resolution)
 - [Dev.to/JS] [SOLID: Princípios para um Design de Software Eficaz](https://dev.to/vitorrios1001/solid-principios-para-um-design-de-software-eficaz-19c9)
+- [Lifehacker] [These Are the Most Exciting Seeds in Gardening Catalogs This Year](https://lifehacker.com/home/best-catalog-seeds-this-year)
 - [Dev.to/JS] [Showing Phase.](https://dev.to/wormondeck/showing-phase-1i01)
 - [Lifehacker] [Ask Yourself These Questions Before Hiring a Financial Advisor](https://lifehacker.com/money/ask-these-questions-before-hiring-a-financial-advisor)
 - [Dev.to/JS] [Token Devtools Inspector 👀🔑](https://dev.to/guuri11/token-devtools-inspector-4al7)
@@ -36,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How &lpar;and When&rpar; to Paint an Appliance](https://lifehacker.com/home/how-to-paint-appliances)
 - [Dev.to/JS] [After using RawJS, I&#39;m never touching React again &lpar;or any framework&rpar;. Vanilla JavaScript is the future.](https://dev.to/paulgordon/after-using-rawjs-im-never-touching-react-again-or-any-framework-vanilla-javascript-is-the-future-3ac1)
 - [Lifehacker] [The Eight Gardening Tasks You Should Complete in January](https://lifehacker.com/home/january-gardening-tasks)
-- [Dev.to/JS] [Buy Verified Transferwise Account](https://dev.to/binanceaccountpo/buy-verified-transferwise-account-8kk)
 - [Lifehacker] [The Best Workouts for Your First Day Back After a Break](https://lifehacker.com/the-best-workouts-for-your-first-day-back-after-a-break-1790629478)
-- [Dev.to/JS] [Buy Verified Binance Account](https://dev.to/binanceaccountpo/buy-verified-binance-account-17oo)
-- [Dev.to/JS] [Buy Verified Cash App Account](https://dev.to/binanceaccountpo/buy-verified-cash-app-account-jk8)
 - [Dev.to/JS] [Enforcing ESLint rules: A guide to taming codebase chaos](https://dev.to/theodo/enforcing-eslint-rules-a-guide-to-taming-codebase-chaos-1o7m)
-- [Dev.to/JS] [Buy 5 Star Google Reviews](https://dev.to/binanceaccountpo/buy-5-star-google-reviews-54lj)
 - [Lifehacker] [Why You Should Mount Your Wifi Router on the Ceiling &lpar;and How to Do It&rpar;](https://lifehacker.com/tech/how-to-mount-your-wifi-router-on-the-ceiling)
 - [Dev.to/JS] [Work on Open Source projects to stand out in 2024](https://dev.to/codr/work-on-open-source-projects-to-stand-out-in-2024-3men)
 - [Lifehacker] [The Petcube Cam 360 Isn&#39;t Worth the Monthly Subscription Cost](https://lifehacker.com/tech/petcube-cam-360-review)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Survive the &#39;Minimester,&#39; an Intensive Study College Class](https://lifehacker.com/family/how-to-survive-minimester-intensive-college-class)
 - [Lifehacker] [How to Check the Battery Life on Your AirPods](https://lifehacker.com/tech/how-to-check-your-airpods-battery-life)
 - [Lifehacker] [Cameras, Leak Detectors, and Other Smart Home Devices Are on Sale Right Now](https://lifehacker.com/tech/best-deals-on-basic-smart-home-devices)
-- [Lifehacker] [You Can Save Money on Your Electric Bill With a Portable Heat Pump](https://lifehacker.com/home/is-a-portable-heat-pump-worth-it)
-- [Lifehacker] [Why Your Electrical Outlets Are Loose, and How to Fix Them](https://lifehacker.com/home/loose-electrical-outlets-and-how-to-fix)
-- [Lifehacker] [Don&#39;t Wash Your Pillows in Lemon Juice, No Matter What TikTok Says](https://lifehacker.com/home/dont-wash-your-pillows-with-lemons)
-- [Lifehacker] [You Can Get a MasterClass Subscription for 40% Off Right Now](https://lifehacker.com/work/masterclass-sale)
-- [Lifehacker] [The Best Way to Track All Your Accomplishments in 2024](https://lifehacker.com/best-way-to-track-new-years-resolutions)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Save Money on Your Electric Bill With a Portable Heat Pump](https://lifehacker.com/home/is-a-portable-heat-pump-worth-it)<!-- TECH-POSTS:END -->
 
 ---
 
