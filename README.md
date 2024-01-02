@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Work on Open Source projects to stand out in 2024](https://dev.to/codr/work-on-open-source-projects-to-stand-out-in-2024-3men)
+- [Dev.to/JS] [Interview Questions for a Front-end Developer - 2024 [JS, React, MobX]](https://dev.to/bartzalewski/interview-questions-for-a-front-end-developer-2024-js-react-mobx-4ibm)
+- [Dev.to/JS] [Mastering Key JavaScript Concepts: Constructors, Prototypes, Closures, Scoping, and Hoisting with Simple Examples](https://dev.to/asormeil/mastering-key-javascript-concepts-constructors-prototypes-closures-scoping-and-hoisting-with-simple-examples-3dpl)
+- [Lifehacker] [You Can Use a USB Drive to Save and Transfer Games on Your PlayStation 5](https://lifehacker.com/tech/transfer-sony-playstation-games-to-usb-drive)
 - [Dev.to/JS] [Python 🐍 fullstack REST API app with Docker 🐳](https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101)
 - [Dev.to/JS] [Blinking cursor](https://dev.to/phuocng/blinking-cursor-35f4)
 - [Dev.to/JS] [BUY GOOGLE REVIEWS](https://dev.to/ronald665/buy-google-reviews-55ic)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Full Stack Course In Hyderabad](https://dev.to/fullstack123/full-stack-course-in-hyderabad-3hki)
 - [Dev.to/JS] [✅✅Here is all details. if you interested click here❤️👇👇 https://sites.google.com/view/amazon-job-of/home](https://dev.to/robart167/here-is-all-details-if-you-interested-click-herehttpssitesgooglecomviewamazon-job-ofhome-4b92)
 - [Dev.to/JS] [Infinix Note 12 G96 Price in Pakistan](https://dev.to/gadgetsandaccessories/infinix-note-12-g96-price-in-pakistan-2je7)
-- [Dev.to/JS] [Patrón Proxy: Una introducción teórica](https://dev.to/wiar8/patron-proxy-una-introduccion-teorica-1na9)
-- [Dev.to/JS] [‘this’ in JavaScript: 10 Scenarios Simplified for Beginners](https://dev.to/devshefali/this-in-javascript-10-scenarios-simplified-for-beginners-5f2o)
-- [Dev.to/JS] [Comment section UI in React Naitve](https://dev.to/raguram1991/comment-section-ui-in-react-naitve-4oek)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose Between Spotify and Apple Music](https://lifehacker.com/tech/apple-music-vs-spotify)
 - [Lifehacker] [The Best Way to Stagger Your Automated Payments](https://lifehacker.com/money/stagger-automated-payments)
 - [Lifehacker] [How to Save &lpar;and Play&rpar; Xbox Series X/S Games on an External Hard Drive](https://lifehacker.com/tech/save-play-xbox-games-external-hard-drive)
-- [Lifehacker] [How to Figure Out What Kind of Walls You Have Behind Your Wall Paneling](https://lifehacker.com/home/how-to-figure-out-whats-behind-wall-panels)
-- [Lifehacker] [How to Beat ‘Productivity Paranoia’ When You Work Remotely](https://lifehacker.com/work/how-remote-workers-can-beat-productivity-paranoia)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Figure Out What Kind of Walls You Have Behind Your Wall Paneling](https://lifehacker.com/home/how-to-figure-out-whats-behind-wall-panels)<!-- TECH-POSTS:END -->
 
 ---
 
