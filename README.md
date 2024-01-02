@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Don&#39;t Miss Out: DevWorld Early Bird Prices Ending Soon!](https://dev.to/devworld_conf/dont-miss-out-devworld-early-bird-prices-ending-soon-4ml8)
+- [Dev.to/JS] [Mastering State Management in React: Overcoming Common Challenges](https://dev.to/remonhasan/mastering-state-management-in-react-overcoming-common-challenges-64d)
+- [Dev.to/JS] [Full Stack Course In Hyderabad](https://dev.to/fullstack123/full-stack-course-in-hyderabad-3hki)
 - [Dev.to/JS] [✅✅Here is all details. if you interested click here❤️👇👇 https://sites.google.com/view/amazon-job-of/home](https://dev.to/robart167/here-is-all-details-if-you-interested-click-herehttpssitesgooglecomviewamazon-job-ofhome-4b92)
 - [Dev.to/JS] [Infinix Note 12 G96 Price in Pakistan](https://dev.to/gadgetsandaccessories/infinix-note-12-g96-price-in-pakistan-2je7)
 - [Dev.to/JS] [Patrón Proxy: Una introducción teórica](https://dev.to/wiar8/patron-proxy-una-introduccion-teorica-1na9)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Perform Storybook Visual Testing](https://dev.to/vipulgupta9090/how-to-perform-storybook-visual-testing-4ej8)
 - [Dev.to/JS] [27. Remove Element Problem Solved using JavaScript.](https://dev.to/kawsar007/27-remove-element-problem-solved-using-javascript-f18)
 - [Dev.to/JS] [Top Hacker News Story Aggregator Using Next.js, Resend and Cron Atlas](https://dev.to/pmbanugo/top-hacker-news-story-aggregator-using-nextjs-resend-and-cron-atlas-18k2)
-- [Dev.to/JS] [mua tool ahref](https://dev.to/wsovn112/mua-tool-ahref-4l2c)
-- [Dev.to/JS] [I created a Next.js SAAS Toolkit](https://dev.to/salmandotweb/i-created-a-nextjs-saas-toolkit-21h6)
-- [Dev.to/JS] [Building a Real-time Speech-to-text Web App with Web Speech API](https://dev.to/nixx/building-a-real-time-speech-to-text-web-app-with-web-speech-api-4mc6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
