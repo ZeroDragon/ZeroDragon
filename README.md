@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Python 🐍 fullstack REST API app with Docker 🐳](https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101)
+- [Dev.to/JS] [Blinking cursor](https://dev.to/phuocng/blinking-cursor-35f4)
+- [Dev.to/JS] [BUY GOOGLE REVIEWS](https://dev.to/ronald665/buy-google-reviews-55ic)
+- [Lifehacker] [Use These AI Tools Before Your Next Home Renovation Project](https://lifehacker.com/home/ai-home-renovation-project)
+- [Dev.to/JS] [Getting started with Microfontends: Key Concepts and Strategies](https://dev.to/this-is-angular/getting-started-with-microfontends-key-concepts-and-strategies-510k)
 - [Dev.to/JS] [🚀 Don&#39;t Miss Out: DevWorld Early Bird Prices Ending Soon!](https://dev.to/devworld_conf/dont-miss-out-devworld-early-bird-prices-ending-soon-4ml8)
 - [Dev.to/JS] [Mastering State Management in React: Overcoming Common Challenges](https://dev.to/remonhasan/mastering-state-management-in-react-overcoming-common-challenges-64d)
 - [Dev.to/JS] [Full Stack Course In Hyderabad](https://dev.to/fullstack123/full-stack-course-in-hyderabad-3hki)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Patrón Proxy: Una introducción teórica](https://dev.to/wiar8/patron-proxy-una-introduccion-teorica-1na9)
 - [Dev.to/JS] [‘this’ in JavaScript: 10 Scenarios Simplified for Beginners](https://dev.to/devshefali/this-in-javascript-10-scenarios-simplified-for-beginners-5f2o)
 - [Dev.to/JS] [Comment section UI in React Naitve](https://dev.to/raguram1991/comment-section-ui-in-react-naitve-4oek)
-- [Dev.to/JS] [Today my learning on Scrimba JS Mini Project](https://dev.to/anderutan/today-my-learning-on-scrimba-js-mini-project-4j2)
-- [Dev.to/JS] [How To Perform Storybook Visual Testing](https://dev.to/vipulgupta9090/how-to-perform-storybook-visual-testing-4ej8)
-- [Dev.to/JS] [27. Remove Element Problem Solved using JavaScript.](https://dev.to/kawsar007/27-remove-element-problem-solved-using-javascript-f18)
-- [Dev.to/JS] [Top Hacker News Story Aggregator Using Next.js, Resend and Cron Atlas](https://dev.to/pmbanugo/top-hacker-news-story-aggregator-using-nextjs-resend-and-cron-atlas-18k2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Stagger Your Automated Payments](https://lifehacker.com/money/stagger-automated-payments)
 - [Lifehacker] [How to Save &lpar;and Play&rpar; Xbox Series X/S Games on an External Hard Drive](https://lifehacker.com/tech/save-play-xbox-games-external-hard-drive)
 - [Lifehacker] [How to Figure Out What Kind of Walls You Have Behind Your Wall Paneling](https://lifehacker.com/home/how-to-figure-out-whats-behind-wall-panels)
-- [Lifehacker] [How to Beat ‘Productivity Paranoia’ When You Work Remotely](https://lifehacker.com/work/how-remote-workers-can-beat-productivity-paranoia)
-- [Lifehacker] [That Viral Home Depot TikTok ‘Hack’ Isn’t Everything It Seems](https://lifehacker.com/home/the-viral-home-depot-tiktok-hack-isnt-everything-it-seems)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Beat ‘Productivity Paranoia’ When You Work Remotely](https://lifehacker.com/work/how-remote-workers-can-beat-productivity-paranoia)<!-- TECH-POSTS:END -->
 
 ---
 
