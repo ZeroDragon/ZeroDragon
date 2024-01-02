@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Today my learning on Scrimba JS Mini Project](https://dev.to/anderutan/today-my-learning-on-scrimba-js-mini-project-4j2)
+- [Dev.to/JS] [How To Perform Storybook Visual Testing](https://dev.to/vipulgupta9090/how-to-perform-storybook-visual-testing-4ej8)
+- [Dev.to/JS] [27. Remove Element Problem Solved using JavaScript.](https://dev.to/kawsar007/27-remove-element-problem-solved-using-javascript-f18)
+- [Dev.to/JS] [Top Hacker News Story Aggregator Using Next.js, Resend and Cron Atlas](https://dev.to/pmbanugo/top-hacker-news-story-aggregator-using-nextjs-resend-and-cron-atlas-18k2)
+- [Dev.to/JS] [mua tool ahref](https://dev.to/wsovn112/mua-tool-ahref-4l2c)
 - [Dev.to/JS] [I created a Next.js SAAS Toolkit](https://dev.to/salmandotweb/i-created-a-nextjs-saas-toolkit-21h6)
 - [Dev.to/JS] [Building a Real-time Speech-to-text Web App with Web Speech API](https://dev.to/nixx/building-a-real-time-speech-to-text-web-app-with-web-speech-api-4mc6)
 - [Dev.to/JS] [next 13 with shadcn ui disabled button example](https://dev.to/frontendshape/next-13-with-shadcn-ui-disabled-button-example-16g)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplifying Image Uploads and Deletion with Node.js and Cloudinary](https://dev.to/manthanank/simplifying-image-uploads-and-deletion-with-nodejs-and-cloudinary-e6p)
 - [Dev.to/JS] [🟢 Build a Demo of Face Recognition Authentication ✨](https://dev.to/random_ti/a-demo-of-face-recognition-authentication-in-nextjs-54g4)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/hectormyer1/buy-verified-cash-app-account-3001)
-- [Dev.to/JS] [Vuetify 3 Vue 3 Search bar Example](https://dev.to/webvees/vuetify-3-vue-3-search-bar-example-2ap8)
-- [Dev.to/JS] [Create Stunning Anniversary Collages for Free with Our Online Collage Maker - Simplified](https://dev.to/anniversary-collage/create-stunning-anniversary-collages-for-free-with-our-online-collage-maker-simplified-3716)
-- [Dev.to/JS] [Simplified: Surat Rujukan Watak untuk Penjana Rakan Sekerja |](https://dev.to/character-reference-letter-for/simplified-surat-rujukan-watak-untuk-penjana-rakan-sekerja--ojm)
-- [Dev.to/JS] [SEO Optimization for Client Side Rendered Next.js Apps](https://dev.to/reeshee/seo-optimization-for-client-side-rendered-nextjs-apps-25l5)
-- [Dev.to/JS] [Soft Skills for Programmers: Money is everywhere](https://dev.to/better567/soft-skills-for-programmers-money-is-everywhere-5938)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
