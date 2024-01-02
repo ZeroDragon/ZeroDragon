@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nada é de graça! &lpar;Promises x Callbacks&rpar;](https://dev.to/teteo/nada-e-de-graca-promises-x-callbacks-5c6c)
+- [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
+- [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
 - [Dev.to/JS] [JSONCrack Codebase Analysis - Part 2 - Landing Page](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-2-landing-page-j2d)
 - [Lifehacker] [Avoid Impulse Buying by Disabling Amazon&#39;s 1-Click Ordering](https://lifehacker.com/avoid-impulse-buying-by-disabling-amazons-1-click-order-1845257810)
 - [Lifehacker] [All the Ways Smart Tech Can Keep Your Pets From Escaping](https://lifehacker.com/tech/how-smart-tech-can-help-keep-pets-from-escaping)
@@ -49,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [After using RawJS, I&#39;m never touching React again &lpar;or any framework&rpar;. Vanilla JavaScript is the future.](https://dev.to/paulgordon/after-using-rawjs-im-never-touching-react-again-or-any-framework-vanilla-javascript-is-the-future-3ac1)
 - [Lifehacker] [The Eight Gardening Tasks You Should Complete in January](https://lifehacker.com/home/january-gardening-tasks)
 - [Lifehacker] [The Best Workouts for Your First Day Back After a Break](https://lifehacker.com/the-best-workouts-for-your-first-day-back-after-a-break-1790629478)
-- [Dev.to/JS] [Enforcing ESLint rules: A guide to taming codebase chaos](https://dev.to/theodo/enforcing-eslint-rules-a-guide-to-taming-codebase-chaos-1o7m)
 - [Lifehacker] [Why You Should Mount Your Wifi Router on the Ceiling &lpar;and How to Do It&rpar;](https://lifehacker.com/tech/how-to-mount-your-wifi-router-on-the-ceiling)
 - [Lifehacker] [The Petcube Cam 360 Isn&#39;t Worth the Monthly Subscription Cost](https://lifehacker.com/tech/petcube-cam-360-review)
 - [Lifehacker] [You Can Use a USB Drive to Save and Transfer Games on Your PlayStation 5](https://lifehacker.com/tech/transfer-sony-playstation-games-to-usb-drive)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
 - [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
-- [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)
-- [Lifehacker] [How to Set Up Your Google Home App](https://lifehacker.com/tech/how-to-set-up-google-home-app)
-- [Lifehacker] [How to Survive the &#39;Minimester,&#39; an Intensive Study College Class](https://lifehacker.com/family/how-to-survive-minimester-intensive-college-class)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
