@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Calculator with HTML, CSS, and JavaScript](https://dev.to/huericnan/building-a-calculator-with-html-css-and-javascript-56mj)
 - [Dev.to/JS] [Hello World](https://dev.to/filebay/hello-world-hpn)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
 - [Dev.to/JS] [Waiting for an element to become available](https://dev.to/phuocng/waiting-for-an-element-to-become-available-3542)
 - [Dev.to/JS] [Create Tags Input Field in React.js — No package Required!](https://dev.to/stephengade/create-tags-input-field-in-reactjs-s-no-package-required-5ae4)
 - [Dev.to/JS] [Understanding CSS Box Sizing: A Guide to &#39;content-box&#39; and &#39;border-box&#39;](https://dev.to/rawas_aditya/understanding-css-box-sizing-a-guide-to-content-box-and-border-box-3ini)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LINQ in Javascript](https://dev.to/michaelenin/linq-in-javascript-4jib)
 - [Dev.to/JS] [Building Jira apps with Atlassian Forge for beginners](https://dev.to/ivadyhabimana/building-jira-apps-with-atlassian-forge-for-beginners-1bjl)
 - [Dev.to/JS] [Having issues with my php script](https://dev.to/zickjnr/having-issues-with-my-php-script-74n)
-- [Dev.to/JS] [How to Implement Feature Flags in Node.js using Unleash](https://dev.to/reeshee/how-to-implement-feature-flags-in-nodejs-using-unleash-3907)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Figure Out What Kind of Walls You Have Behind Your Wall Paneling](https://lifehacker.com/home/how-to-figure-out-whats-behind-wall-panels)
 - [Lifehacker] [How to Beat ‘Productivity Paranoia’ When You Work Remotely](https://lifehacker.com/work/how-remote-workers-can-beat-productivity-paranoia)
 - [Lifehacker] [That Viral Home Depot TikTok ‘Hack’ Isn’t Everything It Seems](https://lifehacker.com/home/the-viral-home-depot-tiktok-hack-isnt-everything-it-seems)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-29-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)<!-- TECH-POSTS:END -->
 
 ---
 
