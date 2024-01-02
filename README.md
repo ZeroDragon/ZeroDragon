@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Soft Skills for Programmers: Money is everywhere](https://dev.to/better567/soft-skills-for-programmers-money-is-everywhere-5938)
+- [Dev.to/JS] [Get Column Value from DataTable using JQuery](https://dev.to/mani3721/get-column-value-from-datatable-using-jquery-13kb)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
 - [Dev.to/JS] [Building a Calculator with HTML, CSS, and JavaScript](https://dev.to/huericnan/building-a-calculator-with-html-css-and-javascript-56mj)
 - [Dev.to/JS] [Hello World](https://dev.to/filebay/hello-world-hpn)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Programmers Lose Weight: Does losing weight mean you have to eat as little as possible?](https://dev.to/better678/programmers-lose-weight-does-losing-weight-mean-you-have-to-eat-as-little-as-possible-7bh)
 - [Dev.to/JS] [Let’s implement a Debounce function in Javascript](https://dev.to/alexefimenko/lets-implement-a-debounce-function-in-javascript-1ij1)
 - [Dev.to/JS] [LINQ in Javascript](https://dev.to/michaelenin/linq-in-javascript-4jib)
-- [Dev.to/JS] [Building Jira apps with Atlassian Forge for beginners](https://dev.to/ivadyhabimana/building-jira-apps-with-atlassian-forge-for-beginners-1bjl)
-- [Dev.to/JS] [Having issues with my php script](https://dev.to/zickjnr/having-issues-with-my-php-script-74n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Save &lpar;and Play&rpar; Xbox Series X/S Games on an External Hard Drive](https://lifehacker.com/tech/save-play-xbox-games-external-hard-drive)
 - [Lifehacker] [How to Figure Out What Kind of Walls You Have Behind Your Wall Paneling](https://lifehacker.com/home/how-to-figure-out-whats-behind-wall-panels)
 - [Lifehacker] [How to Beat ‘Productivity Paranoia’ When You Work Remotely](https://lifehacker.com/work/how-remote-workers-can-beat-productivity-paranoia)
-- [Lifehacker] [That Viral Home Depot TikTok ‘Hack’ Isn’t Everything It Seems](https://lifehacker.com/home/the-viral-home-depot-tiktok-hack-isnt-everything-it-seems)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, December 29, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-29-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [That Viral Home Depot TikTok ‘Hack’ Isn’t Everything It Seems](https://lifehacker.com/home/the-viral-home-depot-tiktok-hack-isnt-everything-it-seems)<!-- TECH-POSTS:END -->
 
 ---
 
