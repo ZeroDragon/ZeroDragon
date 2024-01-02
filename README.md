@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [✅✅Here is all details. if you interested click here❤️👇👇 https://sites.google.com/view/amazon-job-of/home](https://dev.to/robart167/here-is-all-details-if-you-interested-click-herehttpssitesgooglecomviewamazon-job-ofhome-4b92)
+- [Dev.to/JS] [Infinix Note 12 G96 Price in Pakistan](https://dev.to/gadgetsandaccessories/infinix-note-12-g96-price-in-pakistan-2je7)
+- [Dev.to/JS] [Patrón Proxy: Una introducción teórica](https://dev.to/wiar8/patron-proxy-una-introduccion-teorica-1na9)
+- [Dev.to/JS] [‘this’ in JavaScript: 10 Scenarios Simplified for Beginners](https://dev.to/devshefali/this-in-javascript-10-scenarios-simplified-for-beginners-5f2o)
+- [Dev.to/JS] [Comment section UI in React Naitve](https://dev.to/raguram1991/comment-section-ui-in-react-naitve-4oek)
 - [Dev.to/JS] [Today my learning on Scrimba JS Mini Project](https://dev.to/anderutan/today-my-learning-on-scrimba-js-mini-project-4j2)
 - [Dev.to/JS] [How To Perform Storybook Visual Testing](https://dev.to/vipulgupta9090/how-to-perform-storybook-visual-testing-4ej8)
 - [Dev.to/JS] [27. Remove Element Problem Solved using JavaScript.](https://dev.to/kawsar007/27-remove-element-problem-solved-using-javascript-f18)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [mua tool ahref](https://dev.to/wsovn112/mua-tool-ahref-4l2c)
 - [Dev.to/JS] [I created a Next.js SAAS Toolkit](https://dev.to/salmandotweb/i-created-a-nextjs-saas-toolkit-21h6)
 - [Dev.to/JS] [Building a Real-time Speech-to-text Web App with Web Speech API](https://dev.to/nixx/building-a-real-time-speech-to-text-web-app-with-web-speech-api-4mc6)
-- [Dev.to/JS] [next 13 with shadcn ui disabled button example](https://dev.to/frontendshape/next-13-with-shadcn-ui-disabled-button-example-16g)
-- [Dev.to/JS] [Programmers Lose Weight: Do you have to exercise vigorously to lose weight?](https://dev.to/better678/programmers-lose-weight-do-you-have-to-exercise-vigorously-to-lose-weight-52b2)
-- [Dev.to/JS] [Simplifying Image Uploads and Deletion with Node.js and Cloudinary](https://dev.to/manthanank/simplifying-image-uploads-and-deletion-with-nodejs-and-cloudinary-e6p)
-- [Dev.to/JS] [🟢 Build a Demo of Face Recognition Authentication ✨](https://dev.to/random_ti/a-demo-of-face-recognition-authentication-in-nextjs-54g4)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/hectormyer1/buy-verified-cash-app-account-3001)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
