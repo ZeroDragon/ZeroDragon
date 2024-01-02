@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🟢 Demo of Face Recognition Authentication in NextJS ✨](https://dev.to/random_ti/a-demo-of-face-recognition-authentication-in-nextjs-54g4)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/hectormyer1/buy-verified-cash-app-account-3001)
+- [Dev.to/JS] [Vuetify 3 Vue 3 Search bar Example](https://dev.to/webvees/vuetify-3-vue-3-search-bar-example-2ap8)
+- [Dev.to/JS] [Create Stunning Anniversary Collages for Free with Our Online Collage Maker - Simplified](https://dev.to/anniversary-collage/create-stunning-anniversary-collages-for-free-with-our-online-collage-maker-simplified-3716)
 - [Dev.to/JS] [Simplified: Surat Rujukan Watak untuk Penjana Rakan Sekerja |](https://dev.to/character-reference-letter-for/simplified-surat-rujukan-watak-untuk-penjana-rakan-sekerja--ojm)
 - [Dev.to/JS] [SEO Optimization for Client Side Rendered Next.js Apps](https://dev.to/reeshee/seo-optimization-for-client-side-rendered-nextjs-apps-25l5)
 - [Dev.to/JS] [Soft Skills for Programmers: Money is everywhere](https://dev.to/better567/soft-skills-for-programmers-money-is-everywhere-5938)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
 - [Dev.to/JS] [Waiting for an element to become available](https://dev.to/phuocng/waiting-for-an-element-to-become-available-3542)
 - [Dev.to/JS] [Create Tags Input Field in React.js — No package Required!](https://dev.to/stephengade/create-tags-input-field-in-reactjs-s-no-package-required-5ae4)
-- [Dev.to/JS] [Understanding CSS Box Sizing: A Guide to &#39;content-box&#39; and &#39;border-box&#39;](https://dev.to/rawas_aditya/understanding-css-box-sizing-a-guide-to-content-box-and-border-box-3ini)
-- [Dev.to/JS] [Loop Concept and Types in JavaScript](https://dev.to/eminaltan/loop-concept-and-types-in-javascript-4e7b)
-- [Dev.to/JS] [Building a Web App using React &amp; Django](https://dev.to/arindam-sahoo/building-a-web-app-using-react-django-44a0)
-- [Dev.to/JS] [Programmers Lose Weight: Does losing weight mean you have to eat as little as possible?](https://dev.to/better678/programmers-lose-weight-does-losing-weight-mean-you-have-to-eat-as-little-as-possible-7bh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
