@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Tags Input Field in React.js — No package Required!](https://dev.to/stephengade/create-tags-input-field-in-reactjs-s-no-package-required-5ae4)
+- [Dev.to/JS] [Understanding CSS Box Sizing: A Guide to &#39;content-box&#39; and &#39;border-box&#39;](https://dev.to/rawas_aditya/understanding-css-box-sizing-a-guide-to-content-box-and-border-box-3ini)
 - [Dev.to/JS] [Loop Concept and Types in JavaScript](https://dev.to/eminaltan/loop-concept-and-types-in-javascript-4e7b)
 - [Dev.to/JS] [Building a Web App using React &amp; Django](https://dev.to/arindam-sahoo/building-a-web-app-using-react-django-44a0)
 - [Dev.to/JS] [Programmers Lose Weight: Does losing weight mean you have to eat as little as possible?](https://dev.to/better678/programmers-lose-weight-does-losing-weight-mean-you-have-to-eat-as-little-as-possible-7bh)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Implement Feature Flags in Node.js using Unleash](https://dev.to/reeshee/how-to-implement-feature-flags-in-nodejs-using-unleash-3907)
 - [Dev.to/JS] [How I Built an Anonymous Voting System on the Ethereum Blockchain Using Zero-Knowledge Proof](https://dev.to/thebojda/how-i-built-an-anonymous-voting-system-on-the-ethereum-blockchain-using-zero-knowledge-proof-4bp1)
 - [Dev.to/JS] [A Comprehensive overview on let,const,var](https://dev.to/alfaz08/a-comprehensive-overview-on-letconstvar-4075)
-- [Dev.to/JS] [⏰ setTimeout: Why You Can&#39;t Always Trust It? 🤔🚫](https://dev.to/fidalmathew/settimeout-why-you-cant-always-trust-it-4g4c)
-- [Dev.to/JS] [Navigating Asynchronous JavaScript: A Journey Through the Coffee Shop ☕🚀](https://dev.to/devangtomar/navigating-asynchronous-javascript-a-journey-through-the-coffee-shop-9f7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
