@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways Smart Tech Can Keep Your Pets From Escaping](https://lifehacker.com/tech/how-smart-tech-can-help-keep-pets-from-escaping)
+- [Lifehacker] [The Best Tech Gadgets for Working on the Go](https://lifehacker.com/the-best-tech-gadgets-for-working-on-the-go-1850674553)
 - [Dev.to/JS] [RES-like script that allows you to navigate Lemmy with your keyboard](https://dev.to/vmavromatis/res-like-script-that-allows-you-to-navigate-lemmy-with-your-keyboard-18da)
 - [Dev.to/JS] [JavaScript Callbacks: A Fundamental Concept in Asynchronous Programming](https://dev.to/elaoqby/javascript-callbacks-a-fundamental-concept-in-asynchronous-programming-2pg)
 - [Lifehacker] [How to Figure Out Why Your Utility Bill Spiked](https://lifehacker.com/money/why-is-my-utility-bill-higher)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)
 - [Lifehacker] [How to Set Up Your Google Home App](https://lifehacker.com/tech/how-to-set-up-google-home-app)
 - [Lifehacker] [How to Survive the &#39;Minimester,&#39; an Intensive Study College Class](https://lifehacker.com/family/how-to-survive-minimester-intensive-college-class)
-- [Lifehacker] [How to Check the Battery Life on Your AirPods](https://lifehacker.com/tech/how-to-check-your-airpods-battery-life)
-- [Lifehacker] [Cameras, Leak Detectors, and Other Smart Home Devices Are on Sale Right Now](https://lifehacker.com/tech/best-deals-on-basic-smart-home-devices)
-- [Lifehacker] [You Can Save Money on Your Electric Bill With a Portable Heat Pump](https://lifehacker.com/home/is-a-portable-heat-pump-worth-it)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Check the Battery Life on Your AirPods](https://lifehacker.com/tech/how-to-check-your-airpods-battery-life)<!-- TECH-POSTS:END -->
 
 ---
 
