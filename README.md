@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [next 13 with shadcn ui disabled button example](https://dev.to/frontendshape/next-13-with-shadcn-ui-disabled-button-example-16g)
+- [Dev.to/JS] [Programmers Lose Weight: Do you have to exercise vigorously to lose weight?](https://dev.to/better678/programmers-lose-weight-do-you-have-to-exercise-vigorously-to-lose-weight-52b2)
+- [Dev.to/JS] [Simplifying Image Uploads and Deletion with Node.js and Cloudinary](https://dev.to/manthanank/simplifying-image-uploads-and-deletion-with-nodejs-and-cloudinary-e6p)
 - [Dev.to/JS] [🟢 Demo of Face Recognition Authentication in NextJS ✨](https://dev.to/random_ti/a-demo-of-face-recognition-authentication-in-nextjs-54g4)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/hectormyer1/buy-verified-cash-app-account-3001)
 - [Dev.to/JS] [Vuetify 3 Vue 3 Search bar Example](https://dev.to/webvees/vuetify-3-vue-3-search-bar-example-2ap8)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get Column Value from DataTable using JQuery](https://dev.to/mani3721/get-column-value-from-datatable-using-jquery-13kb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
 - [Dev.to/JS] [Building a Calculator with HTML, CSS, and JavaScript](https://dev.to/huericnan/building-a-calculator-with-html-css-and-javascript-56mj)
-- [Dev.to/JS] [Hello World](https://dev.to/filebay/hello-world-hpn)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
-- [Dev.to/JS] [Waiting for an element to become available](https://dev.to/phuocng/waiting-for-an-element-to-become-available-3542)
-- [Dev.to/JS] [Create Tags Input Field in React.js — No package Required!](https://dev.to/stephengade/create-tags-input-field-in-reactjs-s-no-package-required-5ae4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
