@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplified: Surat Rujukan Watak untuk Penjana Rakan Sekerja |](https://dev.to/character-reference-letter-for/simplified-surat-rujukan-watak-untuk-penjana-rakan-sekerja--ojm)
+- [Dev.to/JS] [SEO Optimization for Client Side Rendered Next.js Apps](https://dev.to/reeshee/seo-optimization-for-client-side-rendered-nextjs-apps-25l5)
 - [Dev.to/JS] [Soft Skills for Programmers: Money is everywhere](https://dev.to/better567/soft-skills-for-programmers-money-is-everywhere-5938)
 - [Dev.to/JS] [Get Column Value from DataTable using JQuery](https://dev.to/mani3721/get-column-value-from-datatable-using-jquery-13kb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Loop Concept and Types in JavaScript](https://dev.to/eminaltan/loop-concept-and-types-in-javascript-4e7b)
 - [Dev.to/JS] [Building a Web App using React &amp; Django](https://dev.to/arindam-sahoo/building-a-web-app-using-react-django-44a0)
 - [Dev.to/JS] [Programmers Lose Weight: Does losing weight mean you have to eat as little as possible?](https://dev.to/better678/programmers-lose-weight-does-losing-weight-mean-you-have-to-eat-as-little-as-possible-7bh)
-- [Dev.to/JS] [Let’s implement a Debounce function in Javascript](https://dev.to/alexefimenko/lets-implement-a-debounce-function-in-javascript-1ij1)
-- [Dev.to/JS] [LINQ in Javascript](https://dev.to/michaelenin/linq-in-javascript-4jib)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
