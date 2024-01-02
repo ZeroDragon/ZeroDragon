@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Showing Phase.](https://dev.to/wormondeck/showing-phase-1i01)
+- [Lifehacker] [Ask Yourself These Questions Before Hiring a Financial Advisor](https://lifehacker.com/money/ask-these-questions-before-hiring-a-financial-advisor)
+- [Dev.to/JS] [Token Devtools Inspector 👀🔑](https://dev.to/guuri11/token-devtools-inspector-4al7)
+- [Dev.to/JS] [Token dev tools inspector 🔑👀](https://dev.to/guuri11/token-dev-tools-inspector-218)
+- [Lifehacker] [The Secret Ingredient That Will Make Your Hot Chocolate Ultra-Decadent](https://lifehacker.com/food-drink/thicken-hot-chocolate-with-cornstarch)
 - [Dev.to/JS] [Trending Full Stack Developer Tools 2024](https://dev.to/farhadi/trending-full-stack-developer-tools-2024-55lk)
+- [Lifehacker] [How &lpar;and When&rpar; to Paint an Appliance](https://lifehacker.com/home/how-to-paint-appliances)
 - [Dev.to/JS] [After using RawJS, I&#39;m never touching React again &lpar;or any framework&rpar;. Vanilla JavaScript is the future.](https://dev.to/paulgordon/after-using-rawjs-im-never-touching-react-again-or-any-framework-vanilla-javascript-is-the-future-3ac1)
+- [Lifehacker] [The Eight Gardening Tasks You Should Complete in January](https://lifehacker.com/home/january-gardening-tasks)
 - [Dev.to/JS] [Buy Verified Transferwise Account](https://dev.to/binanceaccountpo/buy-verified-transferwise-account-8kk)
 - [Lifehacker] [The Best Workouts for Your First Day Back After a Break](https://lifehacker.com/the-best-workouts-for-your-first-day-back-after-a-break-1790629478)
 - [Dev.to/JS] [Buy Verified Binance Account](https://dev.to/binanceaccountpo/buy-verified-binance-account-17oo)
@@ -38,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Work on Open Source projects to stand out in 2024](https://dev.to/codr/work-on-open-source-projects-to-stand-out-in-2024-3men)
 - [Dev.to/JS] [Interview Questions for a Front-end Developer - 2024 [JS, React, MobX]](https://dev.to/bartzalewski/interview-questions-for-a-front-end-developer-2024-js-react-mobx-4ibm)
 - [Lifehacker] [The Petcube Cam 360 Isn&#39;t Worth the Monthly Subscription Cost](https://lifehacker.com/tech/petcube-cam-360-review)
-- [Dev.to/JS] [Mastering Key JavaScript Concepts: Constructors, Prototypes, Closures, Scoping, and Hoisting with Simple Examples](https://dev.to/asormeil/mastering-key-javascript-concepts-constructors-prototypes-closures-scoping-and-hoisting-with-simple-examples-3dpl)
 - [Lifehacker] [You Can Use a USB Drive to Save and Transfer Games on Your PlayStation 5](https://lifehacker.com/tech/transfer-sony-playstation-games-to-usb-drive)
-- [Dev.to/JS] [Python 🐍 fullstack REST API app with Docker 🐳](https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101)
-- [Dev.to/JS] [Blinking cursor](https://dev.to/phuocng/blinking-cursor-35f4)
 - [Lifehacker] [Use These AI Tools Before Your Next Home Renovation Project](https://lifehacker.com/home/ai-home-renovation-project)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Electrical Outlets Are Loose, and How to Fix Them](https://lifehacker.com/home/loose-electrical-outlets-and-how-to-fix)
 - [Lifehacker] [Don&#39;t Wash Your Pillows in Lemon Juice, No Matter What TikTok Says](https://lifehacker.com/home/dont-wash-your-pillows-with-lemons)
 - [Lifehacker] [You Can Get a MasterClass Subscription for 40% Off Right Now](https://lifehacker.com/work/masterclass-sale)
-- [Lifehacker] [The Best Way to Track All Your Accomplishments in 2024](https://lifehacker.com/best-way-to-track-new-years-resolutions)
-- [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-is-on-sale-for-80-right-now-1850855039)
-- [Lifehacker] [The One Ingredient That Separates Good Sandwiches From Great Ones](https://lifehacker.com/food-drink/add-herbs-to-sandwiches)
-- [Lifehacker] [Update Your Prescription Now If You Use Flovent](https://lifehacker.com/health/update-your-prescription-now-if-you-use-flovent)
-- [Lifehacker] [How to Choose Between Spotify and Apple Music](https://lifehacker.com/tech/apple-music-vs-spotify)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Track All Your Accomplishments in 2024](https://lifehacker.com/best-way-to-track-new-years-resolutions)<!-- TECH-POSTS:END -->
 
 ---
 
