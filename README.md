@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Your own Simple JSON Database](https://dev.to/ezhillragesh/building-your-own-simple-json-database-1n0a)
+- [Dev.to/JS] [PuraVive Reviews &lpar;LEGIT Or Hidden Truth 2023&rpar; Does PuraVive Fat Loss Work &amp; Results Supplement Reports?](https://dev.to/vdsanbtna/puravive-reviews-legit-or-hidden-truth-2023-does-puravive-fat-loss-work-results-supplement-reports-i3a)
+- [Dev.to/JS] [React Integration with Django Using Babel &amp; Webpack](https://dev.to/arindam-sahoo/react-integration-with-django-using-babel-webpack-4078)
 - [Dev.to/JS] [Programmers Lose Weight: Losing weight is like learning to swim](https://dev.to/better678/weight-loss-losing-weight-is-like-learning-to-swim-3hh8)
 - [Dev.to/JS] [JavaScript var, let &amp; const](https://dev.to/damith08/javascript-var-let-const-ibn)
 - [Dev.to/JS] [Data Visualization D3.js](https://dev.to/mathivanan8/data-visualization-d3js-hp4)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unveiling the Future of React: A Dive into Concurrent Mode and Suspense](https://dev.to/ryver_dev/unveiling-the-future-of-react-a-dive-into-concurrent-mode-and-suspense-2m98)
 - [Dev.to/JS] [Wei, Gwei, ETH — Where and for what are they used?](https://dev.to/mister_g/wei-gwei-eth-where-and-for-what-are-they-used-3oa8)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
-- [Dev.to/JS] [Animate the caret in an input field](https://dev.to/phuocng/animate-the-caret-in-an-input-field-dg8)
-- [Dev.to/JS] [Introduction to Reactive Programming](https://dev.to/rajrathod/introduction-to-reactive-programming-3bcf)
-- [Dev.to/JS] [Understanding the Landscape of Mental Health Disorders in the United States](https://dev.to/rose24/understanding-the-landscape-of-mental-health-disorders-in-the-united-states-36ap)
 - [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
 - [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
 - [Lifehacker] [Avoid Impulse Buying by Disabling Amazon&#39;s 1-Click Ordering](https://lifehacker.com/avoid-impulse-buying-by-disabling-amazons-1-click-order-1845257810)
