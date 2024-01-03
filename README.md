@@ -26,9 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to React and How to Start a Project](https://dev.to/marmariadev/introduction-to-react-and-how-to-start-a-project-1088)
+- [Dev.to/JS] [Introducción a React y Cómo Iniciar un Proyecto](https://dev.to/marmariadev/introduccion-a-react-y-como-iniciar-un-proyecto-i01)
+- [Dev.to/JS] [Unleash the Power of JSON Schemas with docusaurus-json-schema-plugin](https://dev.to/jy95/unleash-the-power-of-json-schemas-with-docusaurus-json-schema-plugin-2e8g)
+- [Dev.to/JS] [🚀 7 AI Tools to Improve your productivity: A Deep Dive 🪄✨](https://dev.to/ukanwat/7-ai-tools-to-improve-your-productivity-a-deep-dive-307)
 - [Dev.to/JS] [Brevity or Brilliance: Is Shorter Code Always Better?](https://dev.to/codesensei/brevity-or-brilliance-is-shorter-code-always-better-3en9)
 - [Dev.to/JS] [Justifying Another JS FrameWork](https://dev.to/oarabiledev/justifying-another-js-framework-3en8)
+- [Lifehacker] [Don&#39;t Believe These Popular Fitness Myths in 2024](https://lifehacker.com/health/dont-believe-these-popular-fitness-myths)
+- [Lifehacker] [These Pelotons, Walking Pads, and Adjustable Dumbbells Are on Sale Right Now](https://lifehacker.com/health/best-new-years-deals-on-home-gym-equipment)
 - [Dev.to/JS] [Exponential Elegance: Rounding Numbers in JS](https://dev.to/jpinho/exponential-elegance-rounding-numbers-in-js-1gdo)
+- [Lifehacker] [How to Get Rid of a Bad Smell in Your Dryer](https://lifehacker.com/home/how-to-get-rid-of-a-bad-smell-in-your-dryer)
 - [Lifehacker] [How to Handle Your &#39;Money Dysmorphia&#39;](https://lifehacker.com/money/what-is-money-dysmorphia)
 - [Dev.to/JS] [Getting Started With Express JS: A Beginner&#39;s Guide](https://dev.to/martins_ngene/getting-started-with-express-js-a-beginners-guide-39oi)
 - [Lifehacker] [Six Ways You Should Be Using Cat Litter &lpar;Even If You Don’t Have a Cat&rpar;](https://lifehacker.com/home/surprising-alternative-uses-for-cat-litter)
@@ -40,12 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Caching in Nuxt 3: A Comprehensive Guide](https://dev.to/ymir/mastering-caching-in-nuxt-3-a-comprehensive-guide-22ea)
 - [Dev.to/JS] [Compressing and Decompressing User Permissions with JavaScript](https://dev.to/kamesh_dev/compressing-and-decompressing-user-permissions-with-javascript-4e4j)
 - [Lifehacker] [The Fastest Way to Thaw Frozen Pizza Dough Without Ruining It](https://lifehacker.com/the-best-way-to-thaw-frozen-pizza-dough)
-- [Dev.to/JS] [A Step-by-Step Guide to Front-End Development 2024](https://dev.to/amenyenudaniel/a-step-by-step-guide-to-front-end-development-2024-2061)
 - [Lifehacker] [Tackle Your Biggest Projects With a Daily &#39;Power Hour&#39;](https://lifehacker.com/work/increase-productivity-with-power-hour)
-- [Dev.to/JS] [Using the ScrollTimeline API for scroll-linked animations](https://dev.to/logrocket/using-the-scrolltimeline-api-for-scroll-linked-animations-5dn6)
 - [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
-- [Dev.to/JS] [Visitor Pattern in TypeScript](https://dev.to/nickramkissoon/visitor-pattern-in-typescript-4pa3)
-- [Dev.to/JS] [How to allow users to add Contextual Comments to anywhere on your page](https://dev.to/superviz/how-to-allow-users-to-add-contextual-comments-to-anywhere-on-your-page-428n)
 - [Lifehacker] [You Can Get a CMax Lite Budget Smartwatch for $40 Right Now](https://lifehacker.com/tech/cmax-lite-smartwatch-sale)
 - [Lifehacker] [Use This App to Gamify Saving Money on Your Electricity Bill](https://lifehacker.com/home/use-gridrewards-app-to-gamify-your-electricity-use)
 - [Lifehacker] [How to Install a Wireless Light Switch](https://lifehacker.com/home/install-wireless-light-switch)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways Smart Tech Can Keep Your Pets From Escaping](https://lifehacker.com/tech/how-smart-tech-can-help-keep-pets-from-escaping)
 - [Lifehacker] [The Best Tech Gadgets for Working on the Go](https://lifehacker.com/the-best-tech-gadgets-for-working-on-the-go-1850674553)
 - [Lifehacker] [How to Figure Out Why Your Utility Bill Spiked](https://lifehacker.com/money/why-is-my-utility-bill-higher)
-- [Lifehacker] [How to Successfully Start College in the Middle of the Year](https://lifehacker.com/family/how-to-successfully-start-college-in-the-spring-semester)
-- [Lifehacker] [Make This Financial Resolution Before &#39;Spend Less&#39; or &#39;Save More&#39;](https://lifehacker.com/money/make-this-financial-resolution)
-- [Lifehacker] [These Are the Most Exciting Seeds in Gardening Catalogs This Year](https://lifehacker.com/home/best-catalog-seeds-this-year)
-- [Lifehacker] [Ask Yourself These Questions Before Hiring a Financial Advisor](https://lifehacker.com/money/ask-these-questions-before-hiring-a-financial-advisor)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Successfully Start College in the Middle of the Year](https://lifehacker.com/family/how-to-successfully-start-college-in-the-spring-semester)<!-- TECH-POSTS:END -->
 
 ---
 
