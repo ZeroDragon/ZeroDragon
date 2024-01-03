@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A coding challenge platform for FRONTED](https://dev.to/mahamatmans/a-coding-challenge-platform-for-fronted-17gd)
+- [Dev.to/JS] [React Context: The Ultimate Handbook](https://dev.to/rushitjivani/react-context-the-ultimate-handbook-418f)
+- [Dev.to/JS] [Today I done a small JS challenge](https://dev.to/anderutan/today-i-done-a-small-js-challenge-2job)
 - [Dev.to/JS] [How to become a Software Engineer in 2024](https://dev.to/whyafan/how-to-become-a-software-engineer-in-2024-10ee)
 - [Dev.to/JS] [Unlocking the Fast 5 Diet: Revolutionize Health and Weight](https://dev.to/infomonkk/unlocking-the-fast-5-diet-revolutionize-health-and-weight-4gce)
 - [Dev.to/JS] [Typewriter](https://dev.to/phuocng/typewriter-308c)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Legendary Limousines Your Trusted Limousines Rental Company in Brooklyn and Staten Island, NY](https://dev.to/legendarylimousines/legendary-limousines-your-trusted-limousines-rental-company-in-brooklyn-and-staten-island-ny-3efp)
 - [Dev.to/JS] [Angular in 2023](https://dev.to/this-is-angular/angular-in-2023-2igk)
 - [Dev.to/JS] [Angular Addicts #21: signal stores, router unit testing &amp; more](https://dev.to/this-is-angular/angular-addicts-21-signal-stores-router-unit-testing-more-1jji)
-- [Dev.to/JS] [Make a responsive carousel with just CSS](https://dev.to/ngnijland/make-a-responsive-carousel-with-just-css-36ip)
-- [Dev.to/JS] [ինչ է Hoisting ը JavaScript-ում](https://dev.to/dav2bit/inch-e-hoisting-e-javascript-owm-3gea)
-- [Dev.to/JS] [Embracing the Power of RawJS: A Declaration for the Future of Vanilla JavaScript&quot;](https://dev.to/rose24/embracing-the-power-of-rawjs-a-declaration-for-the-future-of-vanilla-javascript-1k9c)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
 - [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
