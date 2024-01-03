@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animate the caret in an input field](https://dev.to/phuocng/animate-the-caret-in-an-input-field-dg8)
 - [Dev.to/JS] [Introduction to Reactive Programming](https://dev.to/rajrathod/introduction-to-reactive-programming-3bcf)
 - [Dev.to/JS] [Understanding the Landscape of Mental Health Disorders in the United States](https://dev.to/rose24/understanding-the-landscape-of-mental-health-disorders-in-the-united-states-36ap)
 - [Dev.to/JS] [Nada é de graça! &lpar;Promises x Callbacks&rpar;](https://dev.to/teteo/nada-e-de-graca-promises-x-callbacks-5c6c)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Showing Phase.](https://dev.to/wormondeck/showing-phase-1i01)
 - [Lifehacker] [Ask Yourself These Questions Before Hiring a Financial Advisor](https://lifehacker.com/money/ask-these-questions-before-hiring-a-financial-advisor)
 - [Dev.to/JS] [Token Devtools Inspector 👀🔑](https://dev.to/guuri11/token-devtools-inspector-4al7)
-- [Dev.to/JS] [Token dev tools inspector 🔑👀](https://dev.to/guuri11/token-dev-tools-inspector-218)
 - [Lifehacker] [The Secret Ingredient That Will Make Your Hot Chocolate Ultra-Decadent](https://lifehacker.com/food-drink/thicken-hot-chocolate-with-cornstarch)
 - [Lifehacker] [How &lpar;and When&rpar; to Paint an Appliance](https://lifehacker.com/home/how-to-paint-appliances)
 - [Lifehacker] [The Eight Gardening Tasks You Should Complete in January](https://lifehacker.com/home/january-gardening-tasks)
