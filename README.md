@@ -26,20 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Inversão de Controle e Injeção de Dependência em APIs Express com TypeScript](https://dev.to/vitorrios1001/inversao-de-controle-e-injecao-de-dependencia-em-apis-express-com-typescript-11np)
+- [Dev.to/JS] [Teamlinker:A new generation of team collaboration open source platform based on Node.js](https://dev.to/sx1989827/teamlinkera-new-generation-of-team-collaboration-open-source-platform-based-on-nodejs-36fn)
+- [Dev.to/JS] [CakeAdmin - Free Bootstrap 5 Admin Template](https://dev.to/ugurozgen/cakeadmin-free-bootstrap-5-admin-template-g24)
+- [Dev.to/JS] [A Guide to Converting ASCII to Characters in JavaScript](https://dev.to/jimmy1995/a-guide-to-converting-ascii-to-characters-in-javascript-ih)
 - [Dev.to/JS] [Redux 101](https://dev.to/robertheory/redux-101-480j)
 - [Dev.to/JS] [A Better Alternative To Any CMS](https://dev.to/sskyy/a-better-alternative-to-any-cms-490f)
 - [Dev.to/JS] [Understanding the CSS Child Combinator: A Guide to Targeting Direct Descendants](https://dev.to/rawas_aditya/understanding-the-css-child-combinator-a-guide-to-targeting-direct-descendants-232a)
 - [Dev.to/JS] [Why I burn out when programming, or this is a story about where I get my inspiration](https://dev.to/sergo/why-i-burn-out-when-programming-or-this-is-a-story-about-where-i-get-my-inspiration-5h5i)
 - [Dev.to/JS] [Job Board with Remote offers for Tech Talent](https://dev.to/julfcur/job-board-with-remote-offers-for-tech-talent-5ck)
+- [Lifehacker] [Ten Podcasts That Dismantle Diet Culture](https://lifehacker.com/entertainment/best-podcasts-about-diet-culture)
 - [Dev.to/JS] [Getränkekühlschränke: Die ideale Lösung zur Aufbewahrung von Getränken](https://dev.to/davidthomas/getrankekuhlschranke-die-ideale-losung-zur-aufbewahrung-von-getranken-1bhd)
 - [Dev.to/JS] [Xmas Delight Review: 10 Apps, $13 Only — Elevate Your Digital Game!](https://dev.to/william542902/xmas-delight-review-10-apps-13-only-elevate-your-digital-game-3cfc)
 - [Crazy Programmer] [Steve Wozniak Biography](https://www.thecrazyprogrammer.com/2024/01/steve-wozniak-biography.html)
 - [Dev.to/JS] [Optimizing API Requests with Axios: Interceptors and Advanced Error Handling](https://dev.to/sarathadhithya/optimizing-api-requests-with-axios-interceptors-and-advanced-error-handling-43cb)
 - [Lifehacker] [Six Questions Everyone Needs to Ask During a Home Inspection](https://lifehacker.com/home/questions-to-ask-during-your-home-inspection)
-- [Dev.to/JS] [A coding challenge platform for FRONTED](https://dev.to/mahamatmans/a-coding-challenge-platform-for-fronted-17gd)
-- [Dev.to/JS] [React Context: The Ultimate Handbook](https://dev.to/rushitjivani/react-context-the-ultimate-handbook-418f)
-- [Dev.to/JS] [Today I done a small JS challenge](https://dev.to/anderutan/today-i-done-a-small-js-challenge-2job)
-- [Dev.to/JS] [How to become a Software Engineer in 2024](https://dev.to/whyafan/how-to-become-a-software-engineer-in-2024-10ee)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
 - [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)<!-- TECH-POSTS:END -->
 
 ---
 
