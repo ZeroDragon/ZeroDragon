@@ -26,20 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using the ScrollTimeline API for scroll-linked animations](https://dev.to/logrocket/using-the-scrolltimeline-api-for-scroll-linked-animations-5dn6)
+- [Dev.to/JS] [Visitor Pattern in TypeScript](https://dev.to/nickramkissoon/visitor-pattern-in-typescript-4pa3)
+- [Dev.to/JS] [How to allow users to add Contextual Comments to anywhere on your page](https://dev.to/superviz/how-to-allow-users-to-add-contextual-comments-to-anywhere-on-your-page-428n)
+- [Dev.to/JS] [Microservicios y API REST ¿Cómo se Relacionan?](https://dev.to/marmariadev/microservicios-y-api-rest-como-se-relacionan-5in)
+- [Dev.to/JS] [Microservices and API REST: How Do They Relate?](https://dev.to/marmariadev/microservices-and-api-rest-how-do-they-relate-2h1g)
+- [Dev.to/JS] [Hello, I am New Here.](https://dev.to/shopia98/hello-i-am-new-here-400)
 - [Dev.to/JS] [Inversão de Controle e Injeção de Dependência em APIs Express com TypeScript](https://dev.to/vitorrios1001/inversao-de-controle-e-injecao-de-dependencia-em-apis-express-com-typescript-11np)
+- [Dev.to/JS] [Woovi Bets on JavaScript, Should You?](https://dev.to/gabriel-palhares/woovi-bets-on-javascript-should-you-2178)
 - [Dev.to/JS] [Teamlinker:A new generation of team collaboration open source platform based on Node.js](https://dev.to/sx1989827/teamlinkera-new-generation-of-team-collaboration-open-source-platform-based-on-nodejs-36fn)
 - [Dev.to/JS] [CakeAdmin - Free Bootstrap 5 Admin Template](https://dev.to/ugurozgen/cakeadmin-free-bootstrap-5-admin-template-g24)
 - [Dev.to/JS] [A Guide to Converting ASCII to Characters in JavaScript](https://dev.to/jimmy1995/a-guide-to-converting-ascii-to-characters-in-javascript-ih)
+- [Lifehacker] [How to Install a Wireless Light Switch](https://lifehacker.com/home/install-wireless-light-switch)
 - [Dev.to/JS] [Redux 101](https://dev.to/robertheory/redux-101-480j)
-- [Dev.to/JS] [A Better Alternative To Any CMS](https://dev.to/sskyy/a-better-alternative-to-any-cms-490f)
-- [Dev.to/JS] [Understanding the CSS Child Combinator: A Guide to Targeting Direct Descendants](https://dev.to/rawas_aditya/understanding-the-css-child-combinator-a-guide-to-targeting-direct-descendants-232a)
-- [Dev.to/JS] [Why I burn out when programming, or this is a story about where I get my inspiration](https://dev.to/sergo/why-i-burn-out-when-programming-or-this-is-a-story-about-where-i-get-my-inspiration-5h5i)
-- [Dev.to/JS] [Job Board with Remote offers for Tech Talent](https://dev.to/julfcur/job-board-with-remote-offers-for-tech-talent-5ck)
+- [Lifehacker] [Freeform Is the Best iOS App You&#39;re Not Using](https://lifehacker.com/tech/how-to-use-freeform-app)
+- [Lifehacker] [Check If Your BlendJet Is Being Recalled for Overheating and Fire Risk](https://lifehacker.com/money/blendjet-2-recall)
 - [Lifehacker] [Ten Podcasts That Dismantle Diet Culture](https://lifehacker.com/entertainment/best-podcasts-about-diet-culture)
-- [Dev.to/JS] [Getränkekühlschränke: Die ideale Lösung zur Aufbewahrung von Getränken](https://dev.to/davidthomas/getrankekuhlschranke-die-ideale-losung-zur-aufbewahrung-von-getranken-1bhd)
-- [Dev.to/JS] [Xmas Delight Review: 10 Apps, $13 Only — Elevate Your Digital Game!](https://dev.to/william542902/xmas-delight-review-10-apps-13-only-elevate-your-digital-game-3cfc)
 - [Crazy Programmer] [Steve Wozniak Biography](https://www.thecrazyprogrammer.com/2024/01/steve-wozniak-biography.html)
-- [Dev.to/JS] [Optimizing API Requests with Axios: Interceptors and Advanced Error Handling](https://dev.to/sarathadhithya/optimizing-api-requests-with-axios-interceptors-and-advanced-error-handling-43cb)
 - [Lifehacker] [Six Questions Everyone Needs to Ask During a Home Inspection](https://lifehacker.com/home/questions-to-ask-during-your-home-inspection)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use a USB Drive to Save and Transfer Games on Your PlayStation 5](https://lifehacker.com/tech/transfer-sony-playstation-games-to-usb-drive)
 - [Lifehacker] [Use These AI Tools Before Your Next Home Renovation Project](https://lifehacker.com/home/ai-home-renovation-project)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-2-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-1-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 2, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-2-2024)<!-- TECH-POSTS:END -->
 
 ---
 
