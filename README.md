@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exponential Elegance: Rounding Numbers in JS](https://dev.to/jpinho/exponential-elegance-rounding-numbers-in-js-1gdo)
 - [Dev.to/JS] [Getting Started With Express JS: A Beginner&#39;s Guide](https://dev.to/martins_ngene/getting-started-with-express-js-a-beginners-guide-39oi)
 - [Lifehacker] [Six Ways You Should Be Using Cat Litter &lpar;Even If You Don’t Have a Cat&rpar;](https://lifehacker.com/home/surprising-alternative-uses-for-cat-litter)
 - [Dev.to/JS] [Mastering React&#39;s Context API](https://dev.to/omotayo21/mastering-reacts-context-api-37mp)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Visitor Pattern in TypeScript](https://dev.to/nickramkissoon/visitor-pattern-in-typescript-4pa3)
 - [Dev.to/JS] [How to allow users to add Contextual Comments to anywhere on your page](https://dev.to/superviz/how-to-allow-users-to-add-contextual-comments-to-anywhere-on-your-page-428n)
 - [Dev.to/JS] [Microservices and API REST, How Do They Relate?](https://dev.to/marmariadev/microservices-and-api-rest-how-do-they-relate-2h1g)
-- [Dev.to/JS] [Hello, I am New Here.](https://dev.to/shopia98/hello-i-am-new-here-400)
 - [Lifehacker] [You Can Get a CMax Lite Budget Smartwatch for $40 Right Now](https://lifehacker.com/tech/cmax-lite-smartwatch-sale)
 - [Lifehacker] [Use This App to Gamify Saving Money on Your Electricity Bill](https://lifehacker.com/home/use-gridrewards-app-to-gamify-your-electricity-use)
 - [Lifehacker] [How to Install a Wireless Light Switch](https://lifehacker.com/home/install-wireless-light-switch)
