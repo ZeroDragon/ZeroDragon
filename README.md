@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Reactive Programming](https://dev.to/rajrathod/introduction-to-reactive-programming-3bcf)
+- [Dev.to/JS] [Understanding the Landscape of Mental Health Disorders in the United States](https://dev.to/rose24/understanding-the-landscape-of-mental-health-disorders-in-the-united-states-36ap)
 - [Dev.to/JS] [Nada é de graça! &lpar;Promises x Callbacks&rpar;](https://dev.to/teteo/nada-e-de-graca-promises-x-callbacks-5c6c)
 - [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
 - [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
@@ -47,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Token Devtools Inspector 👀🔑](https://dev.to/guuri11/token-devtools-inspector-4al7)
 - [Dev.to/JS] [Token dev tools inspector 🔑👀](https://dev.to/guuri11/token-dev-tools-inspector-218)
 - [Lifehacker] [The Secret Ingredient That Will Make Your Hot Chocolate Ultra-Decadent](https://lifehacker.com/food-drink/thicken-hot-chocolate-with-cornstarch)
-- [Dev.to/JS] [Trending Full Stack Developer Tools 2024](https://dev.to/farhadi/trending-full-stack-developer-tools-2024-55lk)
 - [Lifehacker] [How &lpar;and When&rpar; to Paint an Appliance](https://lifehacker.com/home/how-to-paint-appliances)
-- [Dev.to/JS] [After using RawJS, I&#39;m never touching React again &lpar;or any framework&rpar;. Vanilla JavaScript is the future.](https://dev.to/paulgordon/after-using-rawjs-im-never-touching-react-again-or-any-framework-vanilla-javascript-is-the-future-3ac1)
 - [Lifehacker] [The Eight Gardening Tasks You Should Complete in January](https://lifehacker.com/home/january-gardening-tasks)
 - [Lifehacker] [The Best Workouts for Your First Day Back After a Break](https://lifehacker.com/the-best-workouts-for-your-first-day-back-after-a-break-1790629478)
 - [Lifehacker] [Why You Should Mount Your Wifi Router on the Ceiling &lpar;and How to Do It&rpar;](https://lifehacker.com/tech/how-to-mount-your-wifi-router-on-the-ceiling)
