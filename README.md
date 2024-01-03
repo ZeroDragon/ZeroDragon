@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing useEffect from scratch | Exploring React in Depth](https://dev.to/davidkohen/implementing-useeffect-from-scratch-exploring-react-in-depth-44p8)
+- [Dev.to/JS] [Digital Marketing Presentation: Strategies for Success](https://dev.to/digital-marketing/digital-marketing-presentation-strategies-for-success-b9h)
 - [Dev.to/JS] [the Power of Asynchronous JavaScript: A Guide with Examples](https://dev.to/elaoqby/the-power-of-asynchronous-javascript-a-guide-with-examples-3oa2)
 - [Dev.to/JS] [Infinite Y-Axis Calendar View Scroll](https://dev.to/mirmayne/infinite-y-axis-calendar-view-scroll-20jh)
 - [Dev.to/JS] [What Breakthroughs are Paving the Way for Secure Quantum Communication?](https://dev.to/yagnapandya9/what-breakthroughs-are-paving-the-way-for-secure-quantum-communication-4007)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Integration with Django Using Babel &amp; Webpack](https://dev.to/arindam-sahoo/react-integration-with-django-using-babel-webpack-4078)
 - [Dev.to/JS] [Programmers Lose Weight: Losing weight is like learning to swim](https://dev.to/better678/weight-loss-losing-weight-is-like-learning-to-swim-3hh8)
 - [Dev.to/JS] [JavaScript var, let &amp; const](https://dev.to/damith08/javascript-var-let-const-ibn)
-- [Dev.to/JS] [Data Visualization D3.js](https://dev.to/mathivanan8/data-visualization-d3js-hp4)
-- [Dev.to/JS] [Type Mastery: Understanding and Leveraging JavaScript&#39;s Data Types](https://dev.to/alfaz08/type-mastery-understanding-and-leveraging-javascripts-data-types-4bgj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
 - [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
