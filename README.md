@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Programmers Lose Weight: Losing weight is like learning to swim](https://dev.to/better678/weight-loss-losing-weight-is-like-learning-to-swim-3hh8)
+- [Dev.to/JS] [JavaScript var, let &amp; const](https://dev.to/damith08/javascript-var-let-const-ibn)
+- [Dev.to/JS] [Data Visualization D3.js](https://dev.to/mathivanan8/data-visualization-d3js-hp4)
+- [Dev.to/JS] [Type Mastery: Understanding and Leveraging JavaScript&#39;s Data Types](https://dev.to/alfaz08/type-mastery-understanding-and-leveraging-javascripts-data-types-4bgj)
 - [Dev.to/JS] [mua theme](https://dev.to/wsovn112/mua-theme-2o31)
 - [Dev.to/JS] [Demystifying Hoisting in JavaScript](https://dev.to/yutakusuno/demystifying-hoisting-in-javascript-3ke3)
 - [Dev.to/JS] [Soft Skills for Programmers: Learn to understand financial behavior from psychological and historical perspectives](https://dev.to/better567/soft-skills-for-programmers-learn-to-understand-financial-behavior-from-psychological-and-historical-perspectives-moj)
@@ -36,15 +40,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animate the caret in an input field](https://dev.to/phuocng/animate-the-caret-in-an-input-field-dg8)
 - [Dev.to/JS] [Introduction to Reactive Programming](https://dev.to/rajrathod/introduction-to-reactive-programming-3bcf)
 - [Dev.to/JS] [Understanding the Landscape of Mental Health Disorders in the United States](https://dev.to/rose24/understanding-the-landscape-of-mental-health-disorders-in-the-united-states-36ap)
-- [Dev.to/JS] [Nada é de graça! &lpar;Promises x Callbacks&rpar;](https://dev.to/teteo/nada-e-de-graca-promises-x-callbacks-5c6c)
 - [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
 - [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
-- [Dev.to/JS] [JSONCrack Codebase Analysis - Part 2 - Landing Page](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-2-landing-page-j2d)
 - [Lifehacker] [Avoid Impulse Buying by Disabling Amazon&#39;s 1-Click Ordering](https://lifehacker.com/avoid-impulse-buying-by-disabling-amazons-1-click-order-1845257810)
 - [Lifehacker] [All the Ways Smart Tech Can Keep Your Pets From Escaping](https://lifehacker.com/tech/how-smart-tech-can-help-keep-pets-from-escaping)
 - [Lifehacker] [The Best Tech Gadgets for Working on the Go](https://lifehacker.com/the-best-tech-gadgets-for-working-on-the-go-1850674553)
-- [Dev.to/JS] [RES-like script that allows you to navigate Lemmy with your keyboard](https://dev.to/vmavromatis/res-like-script-that-allows-you-to-navigate-lemmy-with-your-keyboard-18da)
-- [Dev.to/JS] [JavaScript Callbacks: A Fundamental Concept in Asynchronous Programming](https://dev.to/elaoqby/javascript-callbacks-a-fundamental-concept-in-asynchronous-programming-2pg)
 - [Lifehacker] [How to Figure Out Why Your Utility Bill Spiked](https://lifehacker.com/money/why-is-my-utility-bill-higher)
 - [Lifehacker] [How to Successfully Start College in the Middle of the Year](https://lifehacker.com/family/how-to-successfully-start-college-in-the-spring-semester)
 - [Lifehacker] [Make This Financial Resolution Before &#39;Spend Less&#39; or &#39;Save More&#39;](https://lifehacker.com/money/make-this-financial-resolution)
