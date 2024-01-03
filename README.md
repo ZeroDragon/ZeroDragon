@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why I burn out when programming, or this is a story about where I get my inspiration](https://dev.to/sergo/why-i-burn-out-when-programming-or-this-is-a-story-about-where-i-get-my-inspiration-5h5i)
+- [Dev.to/JS] [Job Board with Remote offers for Tech Talent](https://dev.to/julfcur/job-board-with-remote-offers-for-tech-talent-5ck)
+- [Dev.to/JS] [Getränkekühlschränke: Die ideale Lösung zur Aufbewahrung von Getränken](https://dev.to/davidthomas/getrankekuhlschranke-die-ideale-losung-zur-aufbewahrung-von-getranken-1bhd)
+- [Dev.to/JS] [Xmas Delight Review: 10 Apps, $13 Only — Elevate Your Digital Game!](https://dev.to/william542902/xmas-delight-review-10-apps-13-only-elevate-your-digital-game-3cfc)
+- [Crazy Programmer] [Steve Wozniak Biography](https://www.thecrazyprogrammer.com/2024/01/steve-wozniak-biography.html)
+- [Dev.to/JS] [Optimizing API Requests with Axios: Interceptors and Advanced Error Handling](https://dev.to/sarathadhithya/optimizing-api-requests-with-axios-interceptors-and-advanced-error-handling-43cb)
 - [Dev.to/JS] [A coding challenge platform for FRONTED](https://dev.to/mahamatmans/a-coding-challenge-platform-for-fronted-17gd)
 - [Dev.to/JS] [React Context: The Ultimate Handbook](https://dev.to/rushitjivani/react-context-the-ultimate-handbook-418f)
 - [Dev.to/JS] [Today I done a small JS challenge](https://dev.to/anderutan/today-i-done-a-small-js-challenge-2job)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Fast 5 Diet: Revolutionize Health and Weight](https://dev.to/infomonkk/unlocking-the-fast-5-diet-revolutionize-health-and-weight-4gce)
 - [Dev.to/JS] [Typewriter](https://dev.to/phuocng/typewriter-308c)
 - [Dev.to/JS] [Why Woovi bet on JavaScript?](https://dev.to/woovi/why-woovi-bets-in-javascript-5fn4)
-- [Dev.to/JS] [AZ-600 Certification Excellence: Dumps for Triumph](https://dev.to/hatic1956/az-600-certification-excellence-dumps-for-triumph-jbo)
-- [Dev.to/JS] [The Best Limousine Rental Services in Brooklyn and Staten Island, NY](https://dev.to/legendarylimousines/the-best-limousine-rental-services-in-brooklyn-and-staten-island-ny-2nim)
-- [Dev.to/JS] [Legendary Limousines Your Trusted Limousines Rental Company in Brooklyn and Staten Island, NY](https://dev.to/legendarylimousines/legendary-limousines-your-trusted-limousines-rental-company-in-brooklyn-and-staten-island-ny-3efp)
-- [Dev.to/JS] [Angular in 2023](https://dev.to/this-is-angular/angular-in-2023-2igk)
-- [Dev.to/JS] [Angular Addicts #21: signal stores, router unit testing &amp; more](https://dev.to/this-is-angular/angular-addicts-21-signal-stores-router-unit-testing-more-1jji)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
 - [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 1, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-1-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)<!-- TECH-POSTS:END -->
 
 ---
 
