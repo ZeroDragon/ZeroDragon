@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started With Express JS: A Beginner&#39;s Guide](https://dev.to/martins_ngene/getting-started-with-express-js-a-beginners-guide-39oi)
+- [Lifehacker] [Six Ways You Should Be Using Cat Litter &lpar;Even If You Don’t Have a Cat&rpar;](https://lifehacker.com/home/surprising-alternative-uses-for-cat-litter)
+- [Dev.to/JS] [Mastering React&#39;s Context API](https://dev.to/omotayo21/mastering-reacts-context-api-37mp)
+- [Dev.to/JS] [Only a Front end dev will see the problems :&rpar;](https://dev.to/hyperupscale/only-a-front-end-dev-will-see-the-problems--3def)
+- [Lifehacker] [How to Move Out After a Breakup, According to Movers](https://lifehacker.com/relationships/how-to-move-out-after-a-breakup)
 - [Lifehacker] [Everything We Expect to See at CES 2024](https://lifehacker.com/tech/what-to-expect-from-ces-2024)
 - [Lifehacker] [Why You Shouldn&#39;t Claim PS Plus Versions of Your PS5 Upgraded Games](https://lifehacker.com/entertainment/dont-claim-ps-plus-versions-of-ps5-games)
 - [Dev.to/JS] [Mastering Caching in Nuxt 3: A Comprehensive Guide](https://dev.to/ymir/mastering-caching-in-nuxt-3-a-comprehensive-guide-22ea)
@@ -42,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello, I am New Here.](https://dev.to/shopia98/hello-i-am-new-here-400)
 - [Lifehacker] [You Can Get a CMax Lite Budget Smartwatch for $40 Right Now](https://lifehacker.com/tech/cmax-lite-smartwatch-sale)
 - [Lifehacker] [Use This App to Gamify Saving Money on Your Electricity Bill](https://lifehacker.com/home/use-gridrewards-app-to-gamify-your-electricity-use)
-- [Dev.to/JS] [Inversão de Controle &lpar;IoC&rpar; e Injeção de Dependência em APIs Express com TypeScript](https://dev.to/vitorrios1001/inversao-de-controle-e-injecao-de-dependencia-em-apis-express-com-typescript-11np)
-- [Dev.to/JS] [Woovi Bets on JavaScript, Should You?](https://dev.to/gabriel-palhares/woovi-bets-on-javascript-should-you-2178)
-- [Dev.to/JS] [Teamlinker:A new generation of team collaboration open source platform based on Node.js](https://dev.to/sx1989827/teamlinkera-new-generation-of-team-collaboration-open-source-platform-based-on-nodejs-36fn)
 - [Lifehacker] [How to Install a Wireless Light Switch](https://lifehacker.com/home/install-wireless-light-switch)
 - [Lifehacker] [Freeform Is the Best iOS App You&#39;re Not Using](https://lifehacker.com/tech/how-to-use-freeform-app)
 - [Lifehacker] [Check If Your BlendJet Is Being Recalled for Overheating and Fire Risk](https://lifehacker.com/money/blendjet-2-recall)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Financial Resolution Before &#39;Spend Less&#39; or &#39;Save More&#39;](https://lifehacker.com/money/make-this-financial-resolution)
 - [Lifehacker] [These Are the Most Exciting Seeds in Gardening Catalogs This Year](https://lifehacker.com/home/best-catalog-seeds-this-year)
 - [Lifehacker] [Ask Yourself These Questions Before Hiring a Financial Advisor](https://lifehacker.com/money/ask-these-questions-before-hiring-a-financial-advisor)
-- [Lifehacker] [The Secret Ingredient That Will Make Your Hot Chocolate Ultra-Decadent](https://lifehacker.com/food-drink/thicken-hot-chocolate-with-cornstarch)
-- [Lifehacker] [How &lpar;and When&rpar; to Paint an Appliance](https://lifehacker.com/home/how-to-paint-appliances)
-- [Lifehacker] [The Eight Gardening Tasks You Should Complete in January](https://lifehacker.com/home/january-gardening-tasks)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Secret Ingredient That Will Make Your Hot Chocolate Ultra-Decadent](https://lifehacker.com/food-drink/thicken-hot-chocolate-with-cornstarch)<!-- TECH-POSTS:END -->
 
 ---
 
