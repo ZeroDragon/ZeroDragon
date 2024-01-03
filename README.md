@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [the Power of Asynchronous JavaScript: A Guide with Examples](https://dev.to/elaoqby/the-power-of-asynchronous-javascript-a-guide-with-examples-3oa2)
+- [Dev.to/JS] [Infinite Y-Axis Calendar View Scroll](https://dev.to/mirmayne/infinite-y-axis-calendar-view-scroll-20jh)
+- [Dev.to/JS] [What Breakthroughs are Paving the Way for Secure Quantum Communication?](https://dev.to/yagnapandya9/what-breakthroughs-are-paving-the-way-for-secure-quantum-communication-4007)
+- [Dev.to/JS] [A Guide to Cloud Certifications and Skill Development](https://dev.to/bytesfarms/a-guide-to-cloud-certifications-and-skill-development-5fof)
+- [Dev.to/JS] [JavaScript Strings and String Methods as a Beginners you should know](https://dev.to/coderpink/javascript-strings-and-string-methods-as-a-beginners-you-should-know-2ckc)
 - [Dev.to/JS] [Building Your own Simple JSON Database](https://dev.to/ezhillragesh/building-your-own-simple-json-database-1n0a)
 - [Dev.to/JS] [PuraVive Reviews &lpar;LEGIT Or Hidden Truth 2023&rpar; Does PuraVive Fat Loss Work &amp; Results Supplement Reports?](https://dev.to/vdsanbtna/puravive-reviews-legit-or-hidden-truth-2023-does-puravive-fat-loss-work-results-supplement-reports-i3a)
 - [Dev.to/JS] [React Integration with Django Using Babel &amp; Webpack](https://dev.to/arindam-sahoo/react-integration-with-django-using-babel-webpack-4078)
@@ -33,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript var, let &amp; const](https://dev.to/damith08/javascript-var-let-const-ibn)
 - [Dev.to/JS] [Data Visualization D3.js](https://dev.to/mathivanan8/data-visualization-d3js-hp4)
 - [Dev.to/JS] [Type Mastery: Understanding and Leveraging JavaScript&#39;s Data Types](https://dev.to/alfaz08/type-mastery-understanding-and-leveraging-javascripts-data-types-4bgj)
-- [Dev.to/JS] [mua theme](https://dev.to/wsovn112/mua-theme-2o31)
-- [Dev.to/JS] [Demystifying Hoisting in JavaScript](https://dev.to/yutakusuno/demystifying-hoisting-in-javascript-3ke3)
-- [Dev.to/JS] [Soft Skills for Programmers: Learn to understand financial behavior from psychological and historical perspectives](https://dev.to/better567/soft-skills-for-programmers-learn-to-understand-financial-behavior-from-psychological-and-historical-perspectives-moj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
-- [Dev.to/JS] [Unveiling the Future of React: A Dive into Concurrent Mode and Suspense](https://dev.to/ryver_dev/unveiling-the-future-of-react-a-dive-into-concurrent-mode-and-suspense-2m98)
-- [Dev.to/JS] [Wei, Gwei, ETH — Where and for what are they used?](https://dev.to/mister_g/wei-gwei-eth-where-and-for-what-are-they-used-3oa8)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
 - [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
 - [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
