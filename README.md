@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Demystifying Hoisting in JavaScript](https://dev.to/yutakusuno/demystifying-hoisting-in-javascript-1pg9)
+- [Dev.to/JS] [mua theme](https://dev.to/wsovn112/mua-theme-2o31)
+- [Dev.to/JS] [Demystifying Hoisting in JavaScript](https://dev.to/yutakusuno/demystifying-hoisting-in-javascript-3ke3)
+- [Dev.to/JS] [Soft Skills for Programmers: Learn to understand financial behavior from psychological and historical perspectives](https://dev.to/better567/soft-skills-for-programmers-learn-to-understand-financial-behavior-from-psychological-and-historical-perspectives-moj)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
 - [Dev.to/JS] [Unveiling the Future of React: A Dive into Concurrent Mode and Suspense](https://dev.to/ryver_dev/unveiling-the-future-of-react-a-dive-into-concurrent-mode-and-suspense-2m98)
 - [Dev.to/JS] [Wei, Gwei, ETH — Where and for what are they used?](https://dev.to/mister_g/wei-gwei-eth-where-and-for-what-are-they-used-3oa8)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
 - [Dev.to/JS] [Animate the caret in an input field](https://dev.to/phuocng/animate-the-caret-in-an-input-field-dg8)
 - [Dev.to/JS] [Introduction to Reactive Programming](https://dev.to/rajrathod/introduction-to-reactive-programming-3bcf)
 - [Dev.to/JS] [Understanding the Landscape of Mental Health Disorders in the United States](https://dev.to/rose24/understanding-the-landscape-of-mental-health-disorders-in-the-united-states-36ap)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [RES-like script that allows you to navigate Lemmy with your keyboard](https://dev.to/vmavromatis/res-like-script-that-allows-you-to-navigate-lemmy-with-your-keyboard-18da)
 - [Dev.to/JS] [JavaScript Callbacks: A Fundamental Concept in Asynchronous Programming](https://dev.to/elaoqby/javascript-callbacks-a-fundamental-concept-in-asynchronous-programming-2pg)
 - [Lifehacker] [How to Figure Out Why Your Utility Bill Spiked](https://lifehacker.com/money/why-is-my-utility-bill-higher)
-- [Dev.to/JS] [Learn Nextjs 14 &amp; Supabase — Full course for beginners [2 hours] 2024](https://dev.to/guillaumeduhan/learn-nextjs-14-supabase-full-course-for-beginners-2-hours-2024-po1)
-- [Dev.to/JS] [Introduction to the Frontend Interview series - Machine coding round - for Product based companies 🚀](https://dev.to/maitrish/introduction-to-the-frontend-interview-series-machine-coding-round-for-product-based-companies-3ii3)
 - [Lifehacker] [How to Successfully Start College in the Middle of the Year](https://lifehacker.com/family/how-to-successfully-start-college-in-the-spring-semester)
 - [Lifehacker] [Make This Financial Resolution Before &#39;Spend Less&#39; or &#39;Save More&#39;](https://lifehacker.com/money/make-this-financial-resolution)
 - [Lifehacker] [These Are the Most Exciting Seeds in Gardening Catalogs This Year](https://lifehacker.com/home/best-catalog-seeds-this-year)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-31-2023)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, December 31, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-31-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/wordle-answer-today-december-30-2023)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)
-- [Lifehacker] [How to Make Dull, Dingy Linoleum Floors Look New Again](https://lifehacker.com/home/how-to-restore-linoleum-floors)
-- [Lifehacker] [Celebrate New Year&#39;s Eve With a Crunchwrap Supreme Baked Brie En Croûte](https://lifehacker.com/food-drink/crunchwrap-supreme-baked-brie-en-croute-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, December 30, 2023](https://lifehacker.com/entertainment/nyt-connections-answer-today-december-30-2023)<!-- TECH-POSTS:END -->
 
 ---
 
