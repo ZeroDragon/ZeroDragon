@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everything We Expect to See at CES 2024](https://lifehacker.com/tech/what-to-expect-from-ces-2024)
+- [Lifehacker] [Why You Shouldn&#39;t Claim PS Plus Versions of Your PS5 Upgraded Games](https://lifehacker.com/entertainment/dont-claim-ps-plus-versions-of-ps5-games)
 - [Dev.to/JS] [Mastering Caching in Nuxt 3: A Comprehensive Guide](https://dev.to/ymir/mastering-caching-in-nuxt-3-a-comprehensive-guide-22ea)
 - [Dev.to/JS] [Compressing and Decompressing User Permissions with JavaScript](https://dev.to/kamesh_dev/compressing-and-decompressing-user-permissions-with-javascript-4e4j)
+- [Lifehacker] [The Fastest Way to Thaw Frozen Pizza Dough Without Ruining It](https://lifehacker.com/the-best-way-to-thaw-frozen-pizza-dough)
 - [Dev.to/JS] [What is Weight Loss Hack](https://dev.to/rose24/what-is-weight-loss-hack-8kj)
 - [Dev.to/JS] [A Step-by-Step Guide to Front-End Development 2024](https://dev.to/amenyenudaniel/a-step-by-step-guide-to-front-end-development-2024-2061)
+- [Lifehacker] [Tackle Your Biggest Projects With a Daily &#39;Power Hour&#39;](https://lifehacker.com/work/increase-productivity-with-power-hour)
 - [Dev.to/JS] [Using the ScrollTimeline API for scroll-linked animations](https://dev.to/logrocket/using-the-scrolltimeline-api-for-scroll-linked-animations-5dn6)
 - [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
 - [Dev.to/JS] [Visitor Pattern in TypeScript](https://dev.to/nickramkissoon/visitor-pattern-in-typescript-4pa3)
@@ -38,7 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello, I am New Here.](https://dev.to/shopia98/hello-i-am-new-here-400)
 - [Lifehacker] [You Can Get a CMax Lite Budget Smartwatch for $40 Right Now](https://lifehacker.com/tech/cmax-lite-smartwatch-sale)
 - [Lifehacker] [Use This App to Gamify Saving Money on Your Electricity Bill](https://lifehacker.com/home/use-gridrewards-app-to-gamify-your-electricity-use)
-- [Dev.to/JS] [Inversão de Controle e Injeção de Dependência em APIs Express com TypeScript](https://dev.to/vitorrios1001/inversao-de-controle-e-injecao-de-dependencia-em-apis-express-com-typescript-11np)
+- [Dev.to/JS] [Inversão de Controle &lpar;IoC&rpar; e Injeção de Dependência em APIs Express com TypeScript](https://dev.to/vitorrios1001/inversao-de-controle-e-injecao-de-dependencia-em-apis-express-com-typescript-11np)
 - [Dev.to/JS] [Woovi Bets on JavaScript, Should You?](https://dev.to/gabriel-palhares/woovi-bets-on-javascript-should-you-2178)
 - [Dev.to/JS] [Teamlinker:A new generation of team collaboration open source platform based on Node.js](https://dev.to/sx1989827/teamlinkera-new-generation-of-team-collaboration-open-source-platform-based-on-nodejs-36fn)
 - [Lifehacker] [How to Install a Wireless Light Switch](https://lifehacker.com/home/install-wireless-light-switch)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ask Yourself These Questions Before Hiring a Financial Advisor](https://lifehacker.com/money/ask-these-questions-before-hiring-a-financial-advisor)
 - [Lifehacker] [The Secret Ingredient That Will Make Your Hot Chocolate Ultra-Decadent](https://lifehacker.com/food-drink/thicken-hot-chocolate-with-cornstarch)
 - [Lifehacker] [How &lpar;and When&rpar; to Paint an Appliance](https://lifehacker.com/home/how-to-paint-appliances)
-- [Lifehacker] [The Eight Gardening Tasks You Should Complete in January](https://lifehacker.com/home/january-gardening-tasks)
-- [Lifehacker] [The Best Workouts for Your First Day Back After a Break](https://lifehacker.com/the-best-workouts-for-your-first-day-back-after-a-break-1790629478)
-- [Lifehacker] [Why You Should Mount Your Wifi Router on the Ceiling &lpar;and How to Do It&rpar;](https://lifehacker.com/tech/how-to-mount-your-wifi-router-on-the-ceiling)
-- [Lifehacker] [The Petcube Cam 360 Isn&#39;t Worth the Monthly Subscription Cost](https://lifehacker.com/tech/petcube-cam-360-review)
-- [Lifehacker] [You Can Use a USB Drive to Save and Transfer Games on Your PlayStation 5](https://lifehacker.com/tech/transfer-sony-playstation-games-to-usb-drive)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Eight Gardening Tasks You Should Complete in January](https://lifehacker.com/home/january-gardening-tasks)<!-- TECH-POSTS:END -->
 
 ---
 
