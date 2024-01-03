@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular in 2023](https://dev.to/this-is-angular/angular-in-2023-2igk)
 - [Dev.to/JS] [Angular Addicts #21: signal stores, router unit testing &amp; more](https://dev.to/this-is-angular/angular-addicts-21-signal-stores-router-unit-testing-more-1jji)
 - [Dev.to/JS] [Make a responsive carousel with just CSS](https://dev.to/ngnijland/make-a-responsive-carousel-with-just-css-36ip)
 - [Dev.to/JS] [ինչ է Hoisting ը JavaScript-ում](https://dev.to/dav2bit/inch-e-hoisting-e-javascript-owm-3gea)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🌟 Unleash financial freedom with $1K Paydays! 💰 Break free from the usual grind and effortlessly earn $1,000+ commissions.](https://dev.to/william542902/unleash-financial-freedom-with-1k-paydays-break-free-from-the-usual-grind-and-effortlessly-earn-1000-commissions-5fjo)
 - [Dev.to/JS] [Effective Code Documentation: Strategies for Future-Proof Projects](https://dev.to/miss_developer/effective-code-documentation-strategies-for-future-proof-projects-16h9)
 - [Dev.to/JS] [Implementing useEffect from scratch | Exploring React in Depth](https://dev.to/davidkohen/implementing-useeffect-from-scratch-exploring-react-in-depth-44p8)
-- [Dev.to/JS] [Digital Marketing Presentation: Strategies for Success](https://dev.to/digital-marketing/digital-marketing-presentation-strategies-for-success-b9h)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
 - [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
