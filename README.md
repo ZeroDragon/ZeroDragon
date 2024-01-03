@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying Hoisting in JavaScript](https://dev.to/yutakusuno/demystifying-hoisting-in-javascript-1pg9)
+- [Dev.to/JS] [Unveiling the Future of React: A Dive into Concurrent Mode and Suspense](https://dev.to/ryver_dev/unveiling-the-future-of-react-a-dive-into-concurrent-mode-and-suspense-2m98)
+- [Dev.to/JS] [Wei, Gwei, ETH — Where and for what are they used?](https://dev.to/mister_g/wei-gwei-eth-where-and-for-what-are-they-used-3oa8)
 - [Dev.to/JS] [Animate the caret in an input field](https://dev.to/phuocng/animate-the-caret-in-an-input-field-dg8)
 - [Dev.to/JS] [Introduction to Reactive Programming](https://dev.to/rajrathod/introduction-to-reactive-programming-3bcf)
 - [Dev.to/JS] [Understanding the Landscape of Mental Health Disorders in the United States](https://dev.to/rose24/understanding-the-landscape-of-mental-health-disorders-in-the-united-states-36ap)
@@ -43,11 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to the Frontend Interview series - Machine coding round - for Product based companies 🚀](https://dev.to/maitrish/introduction-to-the-frontend-interview-series-machine-coding-round-for-product-based-companies-3ii3)
 - [Lifehacker] [How to Successfully Start College in the Middle of the Year](https://lifehacker.com/family/how-to-successfully-start-college-in-the-spring-semester)
 - [Lifehacker] [Make This Financial Resolution Before &#39;Spend Less&#39; or &#39;Save More&#39;](https://lifehacker.com/money/make-this-financial-resolution)
-- [Dev.to/JS] [SOLID: Princípios para um Design de Software Eficaz](https://dev.to/vitorrios1001/solid-principios-para-um-design-de-software-eficaz-19c9)
 - [Lifehacker] [These Are the Most Exciting Seeds in Gardening Catalogs This Year](https://lifehacker.com/home/best-catalog-seeds-this-year)
-- [Dev.to/JS] [Showing Phase.](https://dev.to/wormondeck/showing-phase-1i01)
 - [Lifehacker] [Ask Yourself These Questions Before Hiring a Financial Advisor](https://lifehacker.com/money/ask-these-questions-before-hiring-a-financial-advisor)
-- [Dev.to/JS] [Token Devtools Inspector 👀🔑](https://dev.to/guuri11/token-devtools-inspector-4al7)
 - [Lifehacker] [The Secret Ingredient That Will Make Your Hot Chocolate Ultra-Decadent](https://lifehacker.com/food-drink/thicken-hot-chocolate-with-cornstarch)
 - [Lifehacker] [How &lpar;and When&rpar; to Paint an Appliance](https://lifehacker.com/home/how-to-paint-appliances)
 - [Lifehacker] [The Eight Gardening Tasks You Should Complete in January](https://lifehacker.com/home/january-gardening-tasks)
