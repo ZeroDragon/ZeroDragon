@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Software Engineer, Google Cloud Platform**](https://dev.to/firoj/software-engineer-google-cloud-platform-mbe)
+- [Dev.to/JS] [Affiliate Networks: LosPollos](https://dev.to/browserscan/affiliate-networks-lospollos-538)
 - [Dev.to/JS] [[JS] The top-level scope is NOT always the global scope](https://dev.to/yutakusuno/js-the-top-level-scope-is-not-always-the-global-scope-4p84)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-4-2024)
 - [Dev.to/JS] [dropbox plus](https://dev.to/rankkmarket/dropbox-plus-140p)
 - [Dev.to/JS] [Hot Springs](https://dev.to/rmion/hot-springs-2bpb)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-4-2024)
 - [Dev.to/JS] [Inline script defer](https://dev.to/k4ml/inline-script-defer-4dkf)
 - [Dev.to/JS] [Web Animation: Twitch ears twice in a row](https://dev.to/mich0w0h/web-animation-twitch-ears-twice-in-a-row-50bb)
 - [Dev.to/JS] [Fetching and Parsing Meta Tags from URLs in Node.js](https://dev.to/mktheitguy/fetching-and-parsing-meta-tags-from-urls-in-nodejs-o9)
@@ -37,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to host Nodejs API on Netlify for free](https://dev.to/hrishiksh/how-to-host-nodejs-api-on-netlify-for-free-hcl)
 - [Dev.to/JS] [Setup CloudFront for Client App](https://dev.to/akbarnafisa/setup-cloudfront-for-client-app-28d4)
 - [Lifehacker] [Five Things You Should Never Store in Your Garage](https://lifehacker.com/home/never-store-these-things-in-your-garage)
-- [Dev.to/JS] [Hello All!!!](https://dev.to/spaceman22/hello-all-136g)
 - [Lifehacker] [Tuck Into a Bowl of This French Onion Soup Pasta](https://lifehacker.com/food-drink/french-onion-soup-pasta-recipe)
-- [Dev.to/JS] [JSONCrack Codebase Analysis — Part 3 — Signin](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-3-signin-52a4)
 - [Lifehacker] [You Can Get Microsoft Office and These Basic Training Courses for $40 Right Now](https://lifehacker.com/tech/microsoft-office-2019-with-training-courses)
 - [Lifehacker] [How to Close the Social Media Accounts of a Dead Relative](https://lifehacker.com/family/how-to-close-someones-social-media-accounts-after-they-die)
 - [Lifehacker] [How to Bring Back the Old Chrome](https://lifehacker.com/tech/how-to-bring-back-the-old-chrome)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Steve Wozniak Biography](https://www.thecrazyprogrammer.com/2024/01/steve-wozniak-biography.html)
 - [Lifehacker] [Six Questions Everyone Needs to Ask During a Home Inspection](https://lifehacker.com/home/questions-to-ask-during-your-home-inspection)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
-- [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
-- [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)<!-- TECH-POSTS:END -->
 
 ---
 
