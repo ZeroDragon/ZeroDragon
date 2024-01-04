@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Latest React Project](https://dev.to/codingcss/my-latest-react-project-2c35)
+- [Dev.to/JS] [Next.js, Vercel, Vite – Finding Harmony in Diversity for Collective Progress! 🚀](https://dev.to/sanneh22/nextjs-vercel-vite-finding-harmony-in-diversity-for-collective-progress-ob2)
+- [Dev.to/JS] [JSONCrack Codebase Analysis — Part 4 — Editor](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-4-editor-56eh)
+- [Dev.to/JS] [Patch-Package to the Rescue! 🛠️✨](https://dev.to/antoomartini/patch-package-to-the-rescue-5flf)
+- [Dev.to/JS] [mua grammarly](https://dev.to/wsovn112/mua-grammarly-32j9)
 - [Dev.to/JS] [motoai](https://dev.to/rankkmarket/motoai-5g66)
 - [Dev.to/JS] [Python &amp; OpenAI beginner journey 7 | Bot working &amp; JavaScript for front-end](https://dev.to/gregor_schafroth/python-openai-beginner-journey-7-bot-working-javascript-for-front-end-57f6)
 - [Dev.to/JS] [Enter for $1000 Cash for Summer! &lpar;USA&rpar;](https://dev.to/emily73/enter-for-1000-cash-for-summer-usa-3g3m)
@@ -34,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🐓Spend $100 Towards Wingstop!&lpar;USA&rpar;🥤](https://dev.to/emily73/spend-100-towards-wingstop-45hn)
 - [Dev.to/JS] [Using WebGPU to accelerate ML workloads in the browser](https://dev.to/logrocket/using-webgpu-to-accelerate-ml-workloads-in-the-browser-4mfd)
 - [Lifehacker] [I Figured Out How to Make the TikTok Hot Fondue Pocket Actually Good](https://lifehacker.com/food-drink/tiktok-hot-fondue-pocket-recipe)
-- [Dev.to/JS] [JavaScript Interview: Run loop without pre-determined method](https://dev.to/shameel/javascript-interview-run-loop-without-pre-determined-method-36g7)
-- [Dev.to/JS] [Script to cleanse &quot;/&quot; Character in JS](https://dev.to/rcrill/script-to-cleanse-character-in-js-3ek3)
 - [Lifehacker] [The Worst House Emergencies That Come Without Warning &lpar;and How to Prepare for Them&rpar;](https://lifehacker.com/home/hidden-house-problems)
-- [Dev.to/JS] [I need man/women to Part time work from home jobs.We offer 1st- $15-$35 /hr.no experience.](https://dev.to/nellary/i-need-manwomen-to-part-time-work-from-home-jobswe-offer-1st-15-35-hrno-experience-80i)
-- [Dev.to/JS] [🥀Get £1000 Toward iPhone 15 Pro Max!💥](https://dev.to/emily73/get-ps1000-toward-iphone-15-pro-max-1bd8)
-- [Dev.to/JS] [453 Ways to Configure Your New Next.js Project](https://dev.to/hixdev/453-ways-to-configure-your-new-nextjs-project-514p)
 - [Lifehacker] [The Best Time of Year to Contribute to Your IRA](https://lifehacker.com/money/the-best-time-of-year-to-contribute-to-your-ira)
 - [Lifehacker] [Retirement Planning Is Changing in 2024](https://lifehacker.com/money/new-retirement-plan-changes)
 - [Lifehacker] [The Switchbot K10+ Is a Small but Powerful Robot Vacuum](https://lifehacker.com/tech/switchbot-k10-plus-robot-vacuum-review)
