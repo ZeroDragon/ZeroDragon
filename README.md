@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Set Concept in JavaScript](https://dev.to/eminaltan/set-concept-in-javascript-3ln7)
+- [Dev.to/JS] [React Native File/Image Picker](https://dev.to/ajmal_hasan/react-native-fileimage-picker-1o2j)
+- [Dev.to/JS] [Why is it Hard to Find a Job? Tips to Find a Job](https://dev.to/m_midas/why-is-it-hard-to-find-a-job-tips-to-find-a-job-ojb)
+- [Dev.to/JS] [Automation Testing Selenium - A Step by Step Guide for Beginners](https://dev.to/software1233/automation-testing-selenium-a-step-by-step-guide-for-beginners-1pc9)
+- [Dev.to/JS] [Deploying on Netlify via GitHub Actions: A Seamless Guide](https://dev.to/raulfdm/deploying-on-netlify-via-github-actions-a-seamless-guide-4a43)
 - [Dev.to/JS] [AZ-600 Certification Unveiled: Dumps Decoded](https://dev.to/kopejo7336/az-600-certification-unveiled-dumps-decoded-1gb1)
 - [Dev.to/JS] [AI-Powered Creativity, How is Artificial Intelligence Transforming the Arts and Content Creation?](https://dev.to/yagnapandya9/ai-powered-creativity-how-is-artificial-intelligence-transforming-the-arts-and-content-creation-ii8)
 - [Dev.to/JS] [Scrimba Solo Project - Restaurant Ordering App &lpar;Part 1&rpar;](https://dev.to/anderutan/scrimba-solo-project-restaurant-ordering-app-part-1-5e9m)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blissrise CBD Gummies Reviews- &lpar;New Year Offer 2024&rpar; They Won’t Tell You Before Getting It!!](https://dev.to/perkinsstanla/blissrise-cbd-gummies-reviews-new-year-offer-2024-they-wont-tell-you-before-getting-it-2dlm)
 - [Dev.to/JS] [TW Elements - Key Concepts. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-key-concepts-free-uiux-design-course-1ojk)
 - [Dev.to/JS] [REACT JS: A free and open-source JavaScript library](https://dev.to/yashrai01/react-js-a-free-and-open-source-javascript-library-3kpg)
-- [Dev.to/JS] [Puravive Reviews &lpar;Update 2023&rpar; New Report Details Shocking Consumer Results, Cost &amp; Ingredients Risk!](https://dev.to/ksakhywa/puravive-reviews-update-2023-new-report-details-shocking-consumer-results-cost-ingredients-risk-5h1d)
-- [Dev.to/JS] [What is a UML Use Case Diagram?](https://dev.to/manojsharmajtp2/what-is-a-uml-use-case-diagram-e0b)
-- [Dev.to/JS] [Implementing Captcha for a Login Page in CodeIgniter](https://dev.to/dgihost/implementing-captcha-for-a-login-page-in-codeigniter-1pk)
-- [Dev.to/JS] [breakout clips](https://dev.to/rankkmarket/breakout-clips-39mn)
-- [Dev.to/JS] [Guide to develop eCommerce website 2024](https://dev.to/lenina59400/guide-to-develop-ecommerce-website-2024-1noc)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-4-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-4-2024)
 - [Lifehacker] [Five Things You Should Never Store in Your Garage](https://lifehacker.com/home/never-store-these-things-in-your-garage)
