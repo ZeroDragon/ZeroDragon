@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build chat input with Slate and Emoji-Mart](https://dev.to/burak94/how-to-build-chat-input-with-slate-and-emoji-mart-468d)
+- [Lifehacker] [Everything Included in the Latest Pixel Security Update](https://lifehacker.com/tech/january-pixel-security-update)
+- [Lifehacker] [Your Next Windows PC Will Have This Brand-New Key](https://lifehacker.com/tech/new-windows-copilot-key)
 - [Dev.to/JS] [Metempsychosis of Project Dawah](https://dev.to/malikhandev/metempsychosis-of-project-dawah-3hi3)
 - [Dev.to/JS] [Potential Angular 18 Features and Trends](https://dev.to/mescius/potential-angular-18-features-and-trends-4fbj)
+- [Lifehacker] [You Should Be Cleaning Your Toilet Tank &lpar;and How to Do It Right&rpar;](https://lifehacker.com/home/you-should-be-cleaning-your-toilet-tank)
+- [Lifehacker] [The Best Way to Clean a Microwave](https://lifehacker.com/home/how-to-clean-a-microwave)
 - [Dev.to/JS] [My Latest React Project](https://dev.to/codingcss/my-latest-react-project-2c35)
 - [Lifehacker] [Why &#39;75 Hard&#39; Is the Worst New Fitness Trend](https://lifehacker.com/health/why-75-hard-is-the-worst-new-fitness-trend)
 - [Dev.to/JS] [🚀 Finding Harmony in Web Development: Next.js, Vercel, Angular, Svelte, and Beyond! 🌐](https://dev.to/sanneh22/nextjs-vercel-vite-finding-harmony-in-diversity-for-collective-progress-ob2)
@@ -41,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Books to Read to Get Your Home Spotless](https://lifehacker.com/home/best-cleaning-books)
 - [Dev.to/JS] [Enter for $1000 Cash for Summer! &lpar;USA&rpar;](https://dev.to/emily73/enter-for-1000-cash-for-summer-usa-3g3m)
 - [Dev.to/JS] [Your Chance to Win an iPhone 15 Pro Max](https://dev.to/luna5656/your-chance-to-win-an-iphone-15-pro-max-i6a)
-- [Dev.to/JS] [💃Enter for $1000 Cash for Summer!&lpar;USA&rpar;💃](https://dev.to/emily73/enter-for-1000-cash-for-summerusa-1f3g)
 - [Lifehacker] [I Figured Out How to Make the TikTok Hot Fondue Pocket Actually Good](https://lifehacker.com/food-drink/tiktok-hot-fondue-pocket-recipe)
 - [Lifehacker] [The Worst House Emergencies That Come Without Warning &lpar;and How to Prepare for Them&rpar;](https://lifehacker.com/home/hidden-house-problems)
 - [Lifehacker] [The Best Time of Year to Contribute to Your IRA](https://lifehacker.com/money/the-best-time-of-year-to-contribute-to-your-ira)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tuck Into a Bowl of This French Onion Soup Pasta](https://lifehacker.com/food-drink/french-onion-soup-pasta-recipe)
 - [Lifehacker] [You Can Get Microsoft Office and These Basic Training Courses for $40 Right Now](https://lifehacker.com/tech/microsoft-office-2019-with-training-courses)
 - [Lifehacker] [How to Close the Social Media Accounts of a Dead Relative](https://lifehacker.com/family/how-to-close-someones-social-media-accounts-after-they-die)
-- [Lifehacker] [How to Bring Back the Old Chrome](https://lifehacker.com/tech/how-to-bring-back-the-old-chrome)
-- [Lifehacker] [Don&#39;t Believe These Popular Fitness Myths in 2024](https://lifehacker.com/health/dont-believe-these-popular-fitness-myths)
-- [Lifehacker] [These Pelotons, Walking Pads, and Adjustable Dumbbells Are on Sale Right Now](https://lifehacker.com/health/best-new-years-deals-on-home-gym-equipment)
-- [Lifehacker] [How to Get Rid of a Bad Smell in Your Dryer](https://lifehacker.com/home/how-to-get-rid-of-a-bad-smell-in-your-dryer)
-- [Lifehacker] [How to Handle Your &#39;Money Dysmorphia&#39;](https://lifehacker.com/money/what-is-money-dysmorphia)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Bring Back the Old Chrome](https://lifehacker.com/tech/how-to-bring-back-the-old-chrome)<!-- TECH-POSTS:END -->
 
 ---
 
