@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AZ-600 Certification Unveiled: Dumps Decoded](https://dev.to/kopejo7336/az-600-certification-unveiled-dumps-decoded-1gb1)
+- [Dev.to/JS] [AI-Powered Creativity, How is Artificial Intelligence Transforming the Arts and Content Creation?](https://dev.to/yagnapandya9/ai-powered-creativity-how-is-artificial-intelligence-transforming-the-arts-and-content-creation-ii8)
+- [Dev.to/JS] [Scrimba Solo Project - Restaurant Ordering App &lpar;Part 1&rpar;](https://dev.to/anderutan/scrimba-solo-project-restaurant-ordering-app-part-1-5e9m)
+- [Dev.to/JS] [Tailwind CSS Admin Dashboard HTML Template](https://dev.to/easetemplates/tailwind-css-admin-dashboard-html-template-e75)
 - [Dev.to/JS] [Blissrise CBD Gummies Reviews- &lpar;New Year Offer 2024&rpar; They Won’t Tell You Before Getting It!!](https://dev.to/perkinsstanla/blissrise-cbd-gummies-reviews-new-year-offer-2024-they-wont-tell-you-before-getting-it-2dlm)
 - [Dev.to/JS] [TW Elements - Key Concepts. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-key-concepts-free-uiux-design-course-1ojk)
 - [Dev.to/JS] [REACT JS: A free and open-source JavaScript library](https://dev.to/yashrai01/react-js-a-free-and-open-source-javascript-library-3kpg)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing Captcha for a Login Page in CodeIgniter](https://dev.to/dgihost/implementing-captcha-for-a-login-page-in-codeigniter-1pk)
 - [Dev.to/JS] [breakout clips](https://dev.to/rankkmarket/breakout-clips-39mn)
 - [Dev.to/JS] [Guide to develop eCommerce website 2024](https://dev.to/lenina59400/guide-to-develop-ecommerce-website-2024-1noc)
-- [Dev.to/JS] [Common Mistakes JS developer make while using map&lpar;&rpar;](https://dev.to/fazlay/common-mistakes-js-developer-make-while-using-map-ioe)
-- [Dev.to/JS] [Nạp tiền 123win – Nạp tiền dễ dàng trải nghiệm nhanh chóng.](https://dev.to/123winagency/nap-tien-123win-nap-tien-de-dang-trai-nghiem-nhanh-chong-1aec)
-- [Dev.to/JS] [Singly Linked List &#39;Push&#39; Method for Dummies &lpar;me&rpar;](https://dev.to/greenteaisgreat/singly-linked-list-push-method-for-dummies-me-4fa)
-- [Dev.to/JS] [Software Engineer, Google Cloud Platform**](https://dev.to/firoj/software-engineer-google-cloud-platform-mbe)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-4-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-4-2024)
 - [Lifehacker] [Five Things You Should Never Store in Your Garage](https://lifehacker.com/home/never-store-these-things-in-your-garage)
