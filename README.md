@@ -26,14 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [8 Best Practices for Writing Clean and Maintainable Code](https://www.thecrazyprogrammer.com/2024/01/best-practices-for-writing-clean-and-maintainable-code.html)
+- [Dev.to/JS] [Understanding JavaScript: The Quirky Yet Ubiquitous Language](https://dev.to/aniket_botre/understanding-javascript-the-quirky-yet-ubiquitous-language-2gm8)
+- [Dev.to/JS] [Server Components Vs. Server-side Rendering](https://dev.to/khriztianmoreno/server-components-vs-server-side-rendering-4ghe)
+- [Lifehacker] [How to Leave Your Web Browser &lpar;and Take Your Data With You&rpar;](https://lifehacker.com/tech/move-data-to-new-web-browser)
 - [Dev.to/JS] [Top Technology, Web Development, and JavaScript Trends to Follow in 2024](https://dev.to/plazarev/top-technology-web-development-and-javascript-trends-to-follow-in-2024-1h6f)
 - [Dev.to/JS] [How to use Next.Js 14 with Supabase](https://dev.to/shahmir049/how-to-use-nextjs-14-with-supabase-1ecc)
 - [Dev.to/JS] [The Secret to Clean Code and Modular Design](https://dev.to/kalashin1/the-secret-to-clean-code-and-modular-design-4hm7)
-- [Dev.to/JS] [Why is it essential to get positive Trustpilot reviews for an online business?](https://dev.to/travetirisa/why-is-it-essential-to-get-positive-trustpilot-reviews-for-an-online-business-2kpd)
 - [Dev.to/JS] [WHO CAN HELP ME RECOVER MY LOST BTC - OMEGA CRYPTO RECOVERY SPECIALIST](https://dev.to/edpitt200/who-can-help-me-recover-my-lost-btc-omega-crypto-recovery-specialist-52km)
 - [Dev.to/JS] [What is full stack development? Back end + front end?](https://dev.to/sparkouttech/what-is-full-stack-development-back-end-front-end-4kil)
-- [Dev.to/JS] [RASA123 : Login RASA 123| Daftar RASA123| Situs Slot Online Resmi 2024](https://dev.to/rasa123_/rasa123-login-rasa-123-daftar-rasa123-situs-slot-online-resmi-2024-29c0)
+- [Lifehacker] [What People Are Getting Wrong This Week: Jeffrey Epstein](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-jeffrey-epstein)
 - [Dev.to/JS] [Mastering WordPress Theme Integration: A Comprehensive Guide to Boost Your Website&#39;s Visibility](https://dev.to/jamesmartindev/mastering-wordpress-theme-integration-a-comprehensive-guide-to-boost-your-websites-visibility-3519)
+- [Lifehacker] [How to Stop Your &#39;Emotional Spending&#39;](https://lifehacker.com/money/how-to-stop-impulse-buying)
 - [Dev.to/JS] [Flatten and sort an array 7 Kyu](https://dev.to/bobokhon7/flatten-and-sort-an-array-7-kyu-5cm)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/morrisfowler175/buy-google-5-star-reviews-537g)
 - [Dev.to/JS] [Set Concept in JavaScript](https://dev.to/eminaltan/set-concept-in-javascript-3ln7)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Install a Wireless Light Switch](https://lifehacker.com/home/install-wireless-light-switch)
 - [Lifehacker] [Freeform Is the Best iOS App You&#39;re Not Using](https://lifehacker.com/tech/how-to-use-freeform-app)
 - [Lifehacker] [Check If Your BlendJet Is Being Recalled for Overheating and Fire Risk](https://lifehacker.com/money/blendjet-2-recall)
-- [Lifehacker] [Ten Podcasts That Dismantle Diet Culture](https://lifehacker.com/entertainment/best-podcasts-about-diet-culture)
-- [Crazy Programmer] [Steve Wozniak Biography](https://www.thecrazyprogrammer.com/2024/01/steve-wozniak-biography.html)
-- [Lifehacker] [Six Questions Everyone Needs to Ask During a Home Inspection](https://lifehacker.com/home/questions-to-ask-during-your-home-inspection)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Ten Podcasts That Dismantle Diet Culture](https://lifehacker.com/entertainment/best-podcasts-about-diet-culture)<!-- TECH-POSTS:END -->
 
 ---
 
