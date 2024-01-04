@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blissrise CBD Gummies Reviews- &lpar;New Year Offer 2024&rpar; They Won’t Tell You Before Getting It!!](https://dev.to/perkinsstanla/blissrise-cbd-gummies-reviews-new-year-offer-2024-they-wont-tell-you-before-getting-it-2dlm)
 - [Dev.to/JS] [TW Elements - Key Concepts. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-key-concepts-free-uiux-design-course-1ojk)
 - [Dev.to/JS] [REACT JS: A free and open-source JavaScript library](https://dev.to/yashrai01/react-js-a-free-and-open-source-javascript-library-3kpg)
 - [Dev.to/JS] [Puravive Reviews &lpar;Update 2023&rpar; New Report Details Shocking Consumer Results, Cost &amp; Ingredients Risk!](https://dev.to/ksakhywa/puravive-reviews-update-2023-new-report-details-shocking-consumer-results-cost-ingredients-risk-5h1d)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nạp tiền 123win – Nạp tiền dễ dàng trải nghiệm nhanh chóng.](https://dev.to/123winagency/nap-tien-123win-nap-tien-de-dang-trai-nghiem-nhanh-chong-1aec)
 - [Dev.to/JS] [Singly Linked List &#39;Push&#39; Method for Dummies &lpar;me&rpar;](https://dev.to/greenteaisgreat/singly-linked-list-push-method-for-dummies-me-4fa)
 - [Dev.to/JS] [Software Engineer, Google Cloud Platform**](https://dev.to/firoj/software-engineer-google-cloud-platform-mbe)
-- [Dev.to/JS] [Affiliate Networks: LosPollos](https://dev.to/browserscan/affiliate-networks-lospollos-538)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-4-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-4-2024)
 - [Lifehacker] [Five Things You Should Never Store in Your Garage](https://lifehacker.com/home/never-store-these-things-in-your-garage)
