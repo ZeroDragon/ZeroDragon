@@ -26,18 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Metempsychosis of Project Dawah](https://dev.to/malikhandev/metempsychosis-of-project-dawah-3hi3)
+- [Dev.to/JS] [Potential Angular 18 Features and Trends](https://dev.to/mescius/potential-angular-18-features-and-trends-4fbj)
 - [Dev.to/JS] [My Latest React Project](https://dev.to/codingcss/my-latest-react-project-2c35)
-- [Dev.to/JS] [Next.js, Vercel, Vite – Finding Harmony in Diversity for Collective Progress! 🚀](https://dev.to/sanneh22/nextjs-vercel-vite-finding-harmony-in-diversity-for-collective-progress-ob2)
+- [Lifehacker] [Why &#39;75 Hard&#39; Is the Worst New Fitness Trend](https://lifehacker.com/health/why-75-hard-is-the-worst-new-fitness-trend)
+- [Dev.to/JS] [🚀 Finding Harmony in Web Development: Next.js, Vercel, Angular, Svelte, and Beyond! 🌐](https://dev.to/sanneh22/nextjs-vercel-vite-finding-harmony-in-diversity-for-collective-progress-ob2)
 - [Dev.to/JS] [JSONCrack Codebase Analysis — Part 4 — Editor](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-4-editor-56eh)
 - [Dev.to/JS] [Patch-Package to the Rescue! 🛠️✨](https://dev.to/antoomartini/patch-package-to-the-rescue-5flf)
 - [Dev.to/JS] [mua grammarly](https://dev.to/wsovn112/mua-grammarly-32j9)
+- [Lifehacker] [The Best Way to Clean a Keyboard &lpar;If You Don’t Have Compressed Air&rpar;](https://lifehacker.com/home/best-way-to-clean-a-dirty-keyboard)
+- [Lifehacker] [Google Is Finally Saying Goodbye to Cookies](https://lifehacker.com/tech/google-is-getting-rid-of-cookies)
 - [Dev.to/JS] [motoai](https://dev.to/rankkmarket/motoai-5g66)
 - [Dev.to/JS] [Python &amp; OpenAI beginner journey 7 | Bot working &amp; JavaScript for front-end](https://dev.to/gregor_schafroth/python-openai-beginner-journey-7-bot-working-javascript-for-front-end-57f6)
+- [Lifehacker] [The Best Books to Read to Get Your Home Spotless](https://lifehacker.com/home/best-cleaning-books)
 - [Dev.to/JS] [Enter for $1000 Cash for Summer! &lpar;USA&rpar;](https://dev.to/emily73/enter-for-1000-cash-for-summer-usa-3g3m)
 - [Dev.to/JS] [Your Chance to Win an iPhone 15 Pro Max](https://dev.to/luna5656/your-chance-to-win-an-iphone-15-pro-max-i6a)
 - [Dev.to/JS] [💃Enter for $1000 Cash for Summer!&lpar;USA&rpar;💃](https://dev.to/emily73/enter-for-1000-cash-for-summerusa-1f3g)
-- [Dev.to/JS] [🐓Spend $100 Towards Wingstop!&lpar;USA&rpar;🥤](https://dev.to/emily73/spend-100-towards-wingstop-45hn)
-- [Dev.to/JS] [Using WebGPU to accelerate ML workloads in the browser](https://dev.to/logrocket/using-webgpu-to-accelerate-ml-workloads-in-the-browser-4mfd)
 - [Lifehacker] [I Figured Out How to Make the TikTok Hot Fondue Pocket Actually Good](https://lifehacker.com/food-drink/tiktok-hot-fondue-pocket-recipe)
 - [Lifehacker] [The Worst House Emergencies That Come Without Warning &lpar;and How to Prepare for Them&rpar;](https://lifehacker.com/home/hidden-house-problems)
 - [Lifehacker] [The Best Time of Year to Contribute to Your IRA](https://lifehacker.com/money/the-best-time-of-year-to-contribute-to-your-ira)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Believe These Popular Fitness Myths in 2024](https://lifehacker.com/health/dont-believe-these-popular-fitness-myths)
 - [Lifehacker] [These Pelotons, Walking Pads, and Adjustable Dumbbells Are on Sale Right Now](https://lifehacker.com/health/best-new-years-deals-on-home-gym-equipment)
 - [Lifehacker] [How to Get Rid of a Bad Smell in Your Dryer](https://lifehacker.com/home/how-to-get-rid-of-a-bad-smell-in-your-dryer)
-- [Lifehacker] [How to Handle Your &#39;Money Dysmorphia&#39;](https://lifehacker.com/money/what-is-money-dysmorphia)
-- [Lifehacker] [Six Ways You Should Be Using Cat Litter &lpar;Even If You Don’t Have a Cat&rpar;](https://lifehacker.com/home/surprising-alternative-uses-for-cat-litter)
-- [Lifehacker] [How to Move Out After a Breakup, According to Movers](https://lifehacker.com/relationships/how-to-move-out-after-a-breakup)
-- [Lifehacker] [Everything We Expect to See at CES 2024](https://lifehacker.com/tech/what-to-expect-from-ces-2024)
-- [Lifehacker] [Why You Shouldn&#39;t Claim PS Plus Versions of Your PS5 Upgraded Games](https://lifehacker.com/entertainment/dont-claim-ps-plus-versions-of-ps5-games)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Handle Your &#39;Money Dysmorphia&#39;](https://lifehacker.com/money/what-is-money-dysmorphia)<!-- TECH-POSTS:END -->
 
 ---
 
