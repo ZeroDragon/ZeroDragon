@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is a UML Use Case Diagram?](https://dev.to/manojsharmajtp2/what-is-a-uml-use-case-diagram-e0b)
+- [Dev.to/JS] [Implementing Captcha for a Login Page in CodeIgniter](https://dev.to/dgihost/implementing-captcha-for-a-login-page-in-codeigniter-1pk)
+- [Dev.to/JS] [breakout clips](https://dev.to/rankkmarket/breakout-clips-39mn)
+- [Dev.to/JS] [Guide to develop eCommerce website 2024](https://dev.to/lenina59400/guide-to-develop-ecommerce-website-2024-1noc)
+- [Dev.to/JS] [Common Mistakes JS developer make while using map&lpar;&rpar;](https://dev.to/fazlay/common-mistakes-js-developer-make-while-using-map-ioe)
 - [Dev.to/JS] [Nạp tiền 123win – Nạp tiền dễ dàng trải nghiệm nhanh chóng.](https://dev.to/123winagency/nap-tien-123win-nap-tien-de-dang-trai-nghiem-nhanh-chong-1aec)
 - [Dev.to/JS] [Singly Linked List &#39;Push&#39; Method for Dummies &lpar;me&rpar;](https://dev.to/greenteaisgreat/singly-linked-list-push-method-for-dummies-me-4fa)
 - [Dev.to/JS] [Software Engineer, Google Cloud Platform**](https://dev.to/firoj/software-engineer-google-cloud-platform-mbe)
@@ -35,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [dropbox plus](https://dev.to/rankkmarket/dropbox-plus-140p)
 - [Dev.to/JS] [Hot Springs](https://dev.to/rmion/hot-springs-2bpb)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-4-2024)
-- [Dev.to/JS] [Inline script defer](https://dev.to/k4ml/inline-script-defer-4dkf)
-- [Dev.to/JS] [Web Animation: Twitch ears twice in a row](https://dev.to/mich0w0h/web-animation-twitch-ears-twice-in-a-row-50bb)
-- [Dev.to/JS] [Fetching and Parsing Meta Tags from URLs in Node.js](https://dev.to/mktheitguy/fetching-and-parsing-meta-tags-from-urls-in-nodejs-o9)
-- [Dev.to/JS] [4 ways to compare objects in Javascript](https://dev.to/alexefimenko/object-and-array-comparison-in-javascript-4pef)
-- [Dev.to/JS] [Code Smell 237 - Attribute Definitions](https://dev.to/mcsee/code-smell-237-attribute-definitions-5910)
 - [Lifehacker] [Five Things You Should Never Store in Your Garage](https://lifehacker.com/home/never-store-these-things-in-your-garage)
 - [Lifehacker] [Tuck Into a Bowl of This French Onion Soup Pasta](https://lifehacker.com/food-drink/french-onion-soup-pasta-recipe)
 - [Lifehacker] [You Can Get Microsoft Office and These Basic Training Courses for $40 Right Now](https://lifehacker.com/tech/microsoft-office-2019-with-training-courses)
