@@ -26,21 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to host Nodejs API on Netlify for free](https://dev.to/hrishiksh/how-to-host-nodejs-api-on-netlify-for-free-hcl)
+- [Dev.to/JS] [Inline script defer](https://dev.to/k4ml/inline-script-defer-4dkf)
+- [Dev.to/JS] [Web Animation: Twitch ears twice in a row](https://dev.to/mich0w0h/web-animation-twitch-ears-twice-in-a-row-50bb)
+- [Dev.to/JS] [Fetching and Parsing Meta Tags from URLs in Node.js](https://dev.to/mktheitguy/fetching-and-parsing-meta-tags-from-urls-in-nodejs-o9)
+- [Dev.to/JS] [Object and Array Comparison in JavaScript](https://dev.to/alexefimenko/object-and-array-comparison-in-javascript-4pef)
+- [Dev.to/JS] [Code Smell 237 - Attribute Definitions](https://dev.to/mcsee/code-smell-237-attribute-definitions-5910)
 - [Dev.to/JS] [Setup CloudFront for Client App](https://dev.to/akbarnafisa/setup-cloudfront-for-client-app-28d4)
+- [Dev.to/JS] [How to host Nodejs API on Netlify for free](https://dev.to/hrishiksh/how-to-host-nodejs-api-on-netlify-for-free-hcl)
+- [Lifehacker] [Five Things You Should Never Store in Your Garage](https://lifehacker.com/home/never-store-these-things-in-your-garage)
 - [Dev.to/JS] [Hello All!!!](https://dev.to/spaceman22/hello-all-136g)
+- [Lifehacker] [Tuck Into a Bowl of This French Onion Soup Pasta](https://lifehacker.com/food-drink/french-onion-soup-pasta-recipe)
 - [Dev.to/JS] [JSONCrack Codebase Analysis — Part 3 — Signin](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-3-signin-52a4)
 - [Dev.to/JS] [Object-Oriented Programming in JavaScript with Examples [Updated 2024]](https://dev.to/bartzalewski/object-oriented-programming-in-javascript-with-examples-updated-2024-5ac4)
+- [Lifehacker] [You Can Get Microsoft Office and These Basic Training Courses for $40 Right Now](https://lifehacker.com/tech/microsoft-office-2019-with-training-courses)
 - [Dev.to/JS] [Introduction to React and How to Start a Project](https://dev.to/marmariadev/introduction-to-react-and-how-to-start-a-project-1088)
 - [Dev.to/JS] [Introducción a React y Cómo Iniciar un Proyecto](https://dev.to/marmariadev/introduccion-a-react-y-como-iniciar-un-proyecto-i01)
-- [Dev.to/JS] [Unleash the Power of JSON Schemas with docusaurus-json-schema-plugin](https://dev.to/jy95/unleash-the-power-of-json-schemas-with-docusaurus-json-schema-plugin-2e8g)
-- [Dev.to/JS] [🚀 7 AI Tools to Improve your productivity: A Deep Dive 🪄✨](https://dev.to/ukanwat/7-ai-tools-to-improve-your-productivity-a-deep-dive-307)
+- [Lifehacker] [How to Close the Social Media Accounts of a Dead Relative](https://lifehacker.com/family/how-to-close-someones-social-media-accounts-after-they-die)
 - [Lifehacker] [How to Bring Back the Old Chrome](https://lifehacker.com/tech/how-to-bring-back-the-old-chrome)
-- [Dev.to/JS] [Brevity or Brilliance: Is Shorter Code Always Better?](https://dev.to/codesensei/brevity-or-brilliance-is-shorter-code-always-better-3en9)
-- [Dev.to/JS] [Justifying Another JS FrameWork](https://dev.to/oarabiledev/justifying-another-js-framework-3en8)
 - [Lifehacker] [Don&#39;t Believe These Popular Fitness Myths in 2024](https://lifehacker.com/health/dont-believe-these-popular-fitness-myths)
 - [Lifehacker] [These Pelotons, Walking Pads, and Adjustable Dumbbells Are on Sale Right Now](https://lifehacker.com/health/best-new-years-deals-on-home-gym-equipment)
-- [Dev.to/JS] [Exponential Elegance: Rounding Numbers in JS](https://dev.to/jpinho/exponential-elegance-rounding-numbers-in-js-1gdo)
 - [Lifehacker] [How to Get Rid of a Bad Smell in Your Dryer](https://lifehacker.com/home/how-to-get-rid-of-a-bad-smell-in-your-dryer)
 - [Lifehacker] [How to Handle Your &#39;Money Dysmorphia&#39;](https://lifehacker.com/money/what-is-money-dysmorphia)
 - [Lifehacker] [Six Ways You Should Be Using Cat Litter &lpar;Even If You Don’t Have a Cat&rpar;](https://lifehacker.com/home/surprising-alternative-uses-for-cat-litter)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-3-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 3, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-3-2024)
 - [Lifehacker] [Tangzhong Is the Key to Making the Softest Bread You’ve Ever Had](https://lifehacker.com/food-drink/how-to-make-bread-with-tangzhong)
-- [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)
-- [Lifehacker] [Avoid Impulse Buying by Disabling Amazon&#39;s 1-Click Ordering](https://lifehacker.com/avoid-impulse-buying-by-disabling-amazons-1-click-order-1845257810)
-- [Lifehacker] [All the Ways Smart Tech Can Keep Your Pets From Escaping](https://lifehacker.com/tech/how-smart-tech-can-help-keep-pets-from-escaping)
-- [Lifehacker] [The Best Tech Gadgets for Working on the Go](https://lifehacker.com/the-best-tech-gadgets-for-working-on-the-go-1850674553)
-- [Lifehacker] [How to Figure Out Why Your Utility Bill Spiked](https://lifehacker.com/money/why-is-my-utility-bill-higher)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Use the New Microsoft Copilot AI App](https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses)<!-- TECH-POSTS:END -->
 
 ---
 
