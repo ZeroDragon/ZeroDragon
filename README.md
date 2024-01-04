@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Singly Linked List &#39;Push&#39; Method for Dummies &lpar;me&rpar;](https://dev.to/greenteaisgreat/singly-linked-list-push-method-for-dummies-me-4fa)
 - [Dev.to/JS] [Software Engineer, Google Cloud Platform**](https://dev.to/firoj/software-engineer-google-cloud-platform-mbe)
 - [Dev.to/JS] [Affiliate Networks: LosPollos](https://dev.to/browserscan/affiliate-networks-lospollos-538)
 - [Dev.to/JS] [[JS] The top-level scope is NOT always the global scope](https://dev.to/yutakusuno/js-the-top-level-scope-is-not-always-the-global-scope-4p84)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [4 ways to compare objects in Javascript](https://dev.to/alexefimenko/object-and-array-comparison-in-javascript-4pef)
 - [Dev.to/JS] [Code Smell 237 - Attribute Definitions](https://dev.to/mcsee/code-smell-237-attribute-definitions-5910)
 - [Dev.to/JS] [How to host Nodejs API on Netlify for free](https://dev.to/hrishiksh/how-to-host-nodejs-api-on-netlify-for-free-hcl)
-- [Dev.to/JS] [Setup CloudFront for Client App](https://dev.to/akbarnafisa/setup-cloudfront-for-client-app-28d4)
 - [Lifehacker] [Five Things You Should Never Store in Your Garage](https://lifehacker.com/home/never-store-these-things-in-your-garage)
 - [Lifehacker] [Tuck Into a Bowl of This French Onion Soup Pasta](https://lifehacker.com/food-drink/french-onion-soup-pasta-recipe)
 - [Lifehacker] [You Can Get Microsoft Office and These Basic Training Courses for $40 Right Now](https://lifehacker.com/tech/microsoft-office-2019-with-training-courses)
