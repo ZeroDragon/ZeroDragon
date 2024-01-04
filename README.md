@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Common Front End security attacks](https://dev.to/tinymce/7-common-front-end-security-attacks-372p)
+- [Dev.to/JS] [Building an Autocomplete Address Form in React 🗺️📍](https://dev.to/exoapi/building-an-autocomplete-address-form-in-react-490l)
 - [Crazy Programmer] [8 Best Practices for Writing Clean and Maintainable Code](https://www.thecrazyprogrammer.com/2024/01/best-practices-for-writing-clean-and-maintainable-code.html)
 - [Dev.to/JS] [Understanding JavaScript: The Quirky Yet Ubiquitous Language](https://dev.to/aniket_botre/understanding-javascript-the-quirky-yet-ubiquitous-language-2gm8)
+- [Lifehacker] [Proton VPN&#39;s Free Tier Is the Best You&#39;ll Find](https://lifehacker.com/tech/review-of-proton-vpn-free-tier)
 - [Dev.to/JS] [Server Components Vs. Server-side Rendering](https://dev.to/khriztianmoreno/server-components-vs-server-side-rendering-4ghe)
 - [Lifehacker] [How to Leave Your Web Browser &lpar;and Take Your Data With You&rpar;](https://lifehacker.com/tech/move-data-to-new-web-browser)
 - [Dev.to/JS] [Top Technology, Web Development, and JavaScript Trends to Follow in 2024](https://dev.to/plazarev/top-technology-web-development-and-javascript-trends-to-follow-in-2024-1h6f)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Your &#39;Emotional Spending&#39;](https://lifehacker.com/money/how-to-stop-impulse-buying)
 - [Dev.to/JS] [Flatten and sort an array 7 Kyu](https://dev.to/bobokhon7/flatten-and-sort-an-array-7-kyu-5cm)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/morrisfowler175/buy-google-5-star-reviews-537g)
-- [Dev.to/JS] [Set Concept in JavaScript](https://dev.to/eminaltan/set-concept-in-javascript-3ln7)
-- [Dev.to/JS] [React Native File/Image Picker](https://dev.to/ajmal_hasan/react-native-fileimage-picker-1o2j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-4-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-4-2024)
 - [Lifehacker] [Five Things You Should Never Store in Your Garage](https://lifehacker.com/home/never-store-these-things-in-your-garage)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This App to Gamify Saving Money on Your Electricity Bill](https://lifehacker.com/home/use-gridrewards-app-to-gamify-your-electricity-use)
 - [Lifehacker] [How to Install a Wireless Light Switch](https://lifehacker.com/home/install-wireless-light-switch)
 - [Lifehacker] [Freeform Is the Best iOS App You&#39;re Not Using](https://lifehacker.com/tech/how-to-use-freeform-app)
-- [Lifehacker] [Check If Your BlendJet Is Being Recalled for Overheating and Fire Risk](https://lifehacker.com/money/blendjet-2-recall)
-- [Lifehacker] [Ten Podcasts That Dismantle Diet Culture](https://lifehacker.com/entertainment/best-podcasts-about-diet-culture)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Check If Your BlendJet Is Being Recalled for Overheating and Fire Risk](https://lifehacker.com/money/blendjet-2-recall)<!-- TECH-POSTS:END -->
 
 ---
 
