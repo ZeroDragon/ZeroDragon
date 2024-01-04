@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[JS] The top-level scope is NOT always the global scope](https://dev.to/yutakusuno/js-the-top-level-scope-is-not-always-the-global-scope-4p84)
+- [Dev.to/JS] [dropbox plus](https://dev.to/rankkmarket/dropbox-plus-140p)
 - [Dev.to/JS] [Hot Springs](https://dev.to/rmion/hot-springs-2bpb)
 - [Dev.to/JS] [Inline script defer](https://dev.to/k4ml/inline-script-defer-4dkf)
 - [Dev.to/JS] [Web Animation: Twitch ears twice in a row](https://dev.to/mich0w0h/web-animation-twitch-ears-twice-in-a-row-50bb)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello All!!!](https://dev.to/spaceman22/hello-all-136g)
 - [Lifehacker] [Tuck Into a Bowl of This French Onion Soup Pasta](https://lifehacker.com/food-drink/french-onion-soup-pasta-recipe)
 - [Dev.to/JS] [JSONCrack Codebase Analysis — Part 3 — Signin](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-3-signin-52a4)
-- [Dev.to/JS] [Object-Oriented Programming in JavaScript with Examples [Updated 2024]](https://dev.to/bartzalewski/object-oriented-programming-in-javascript-with-examples-updated-2024-5ac4)
 - [Lifehacker] [You Can Get Microsoft Office and These Basic Training Courses for $40 Right Now](https://lifehacker.com/tech/microsoft-office-2019-with-training-courses)
-- [Dev.to/JS] [Introduction to React and How to Start a Project](https://dev.to/marmariadev/introduction-to-react-and-how-to-start-a-project-1088)
 - [Lifehacker] [How to Close the Social Media Accounts of a Dead Relative](https://lifehacker.com/family/how-to-close-someones-social-media-accounts-after-they-die)
 - [Lifehacker] [How to Bring Back the Old Chrome](https://lifehacker.com/tech/how-to-bring-back-the-old-chrome)
 - [Lifehacker] [Don&#39;t Believe These Popular Fitness Myths in 2024](https://lifehacker.com/health/dont-believe-these-popular-fitness-myths)
