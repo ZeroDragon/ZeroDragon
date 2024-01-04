@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [motoai](https://dev.to/rankkmarket/motoai-5g66)
+- [Dev.to/JS] [Python &amp; OpenAI beginner journey 7 | Bot working &amp; JavaScript for front-end](https://dev.to/gregor_schafroth/python-openai-beginner-journey-7-bot-working-javascript-for-front-end-57f6)
+- [Dev.to/JS] [Enter for $1000 Cash for Summer! &lpar;USA&rpar;](https://dev.to/emily73/enter-for-1000-cash-for-summer-usa-3g3m)
 - [Dev.to/JS] [Your Chance to Win an iPhone 15 Pro Max](https://dev.to/luna5656/your-chance-to-win-an-iphone-15-pro-max-i6a)
 - [Dev.to/JS] [💃Enter for $1000 Cash for Summer!&lpar;USA&rpar;💃](https://dev.to/emily73/enter-for-1000-cash-for-summerusa-1f3g)
 - [Dev.to/JS] [🐓Spend $100 Towards Wingstop!&lpar;USA&rpar;🥤](https://dev.to/emily73/spend-100-towards-wingstop-45hn)
 - [Dev.to/JS] [Using WebGPU to accelerate ML workloads in the browser](https://dev.to/logrocket/using-webgpu-to-accelerate-ml-workloads-in-the-browser-4mfd)
+- [Lifehacker] [I Figured Out How to Make the TikTok Hot Fondue Pocket Actually Good](https://lifehacker.com/food-drink/tiktok-hot-fondue-pocket-recipe)
 - [Dev.to/JS] [JavaScript Interview: Run loop without pre-determined method](https://dev.to/shameel/javascript-interview-run-loop-without-pre-determined-method-36g7)
 - [Dev.to/JS] [Script to cleanse &quot;/&quot; Character in JS](https://dev.to/rcrill/script-to-cleanse-character-in-js-3ek3)
+- [Lifehacker] [The Worst House Emergencies That Come Without Warning &lpar;and How to Prepare for Them&rpar;](https://lifehacker.com/home/hidden-house-problems)
 - [Dev.to/JS] [I need man/women to Part time work from home jobs.We offer 1st- $15-$35 /hr.no experience.](https://dev.to/nellary/i-need-manwomen-to-part-time-work-from-home-jobswe-offer-1st-15-35-hrno-experience-80i)
 - [Dev.to/JS] [🥀Get £1000 Toward iPhone 15 Pro Max!💥](https://dev.to/emily73/get-ps1000-toward-iphone-15-pro-max-1bd8)
 - [Dev.to/JS] [453 Ways to Configure Your New Next.js Project](https://dev.to/hixdev/453-ways-to-configure-your-new-nextjs-project-514p)
-- [Dev.to/JS] [Build The Perfect Developer CV: 6 Dumb Mistakes To Avoid In 2024](https://dev.to/dragosnedelcu/build-the-perfect-developer-cv-7-dumb-mistakes-to-avoid-in-2024-3p15)
-- [Dev.to/JS] [Mastering the Art of Dynamic Content: A Guide to Harnessing DraftJS in React for Seamless Post Creation and Server Integration](https://dev.to/astrodev5945/mastering-the-art-of-dynamic-content-a-guide-to-harnessing-draftjs-in-react-for-seamless-post-creation-and-server-integration-5fgh)
-- [Dev.to/JS] [Build a NextJS Video Call App](https://dev.to/tadaspetra/build-a-nextjs-video-call-app-1mp3)
+- [Lifehacker] [The Best Time of Year to Contribute to Your IRA](https://lifehacker.com/money/the-best-time-of-year-to-contribute-to-your-ira)
 - [Lifehacker] [Retirement Planning Is Changing in 2024](https://lifehacker.com/money/new-retirement-plan-changes)
 - [Lifehacker] [The Switchbot K10+ Is a Small but Powerful Robot Vacuum](https://lifehacker.com/tech/switchbot-k10-plus-robot-vacuum-review)
 - [Lifehacker] [These Are the Best Clipboard Managers for Your Mac](https://lifehacker.com/tech/best-mac-clipboard-managers)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six Ways You Should Be Using Cat Litter &lpar;Even If You Don’t Have a Cat&rpar;](https://lifehacker.com/home/surprising-alternative-uses-for-cat-litter)
 - [Lifehacker] [How to Move Out After a Breakup, According to Movers](https://lifehacker.com/relationships/how-to-move-out-after-a-breakup)
 - [Lifehacker] [Everything We Expect to See at CES 2024](https://lifehacker.com/tech/what-to-expect-from-ces-2024)
-- [Lifehacker] [Why You Shouldn&#39;t Claim PS Plus Versions of Your PS5 Upgraded Games](https://lifehacker.com/entertainment/dont-claim-ps-plus-versions-of-ps5-games)
-- [Lifehacker] [The Fastest Way to Thaw Frozen Pizza Dough Without Ruining It](https://lifehacker.com/the-best-way-to-thaw-frozen-pizza-dough)
-- [Lifehacker] [Tackle Your Biggest Projects With a Daily &#39;Power Hour&#39;](https://lifehacker.com/work/increase-productivity-with-power-hour)
-- [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn&#39;t Claim PS Plus Versions of Your PS5 Upgraded Games](https://lifehacker.com/entertainment/dont-claim-ps-plus-versions-of-ps5-games)<!-- TECH-POSTS:END -->
 
 ---
 
