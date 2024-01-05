@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Polyfills in JS - Interview Questions](https://dev.to/niteshxp/polyfills-in-js-interview-questions-357)
+- [Dev.to/JS] [Level Up Your JS: Constructor Function for Beginners, Explained](https://dev.to/mohammad1105/level-up-your-js-constructor-function-for-beginners-explained-hp2)
+- [Dev.to/JS] [🚀 Elevate your React code modularity with Custom Hooks! 🎣](https://dev.to/gkhan205/elevate-your-react-code-modularity-with-custom-hooks-hjc)
 - [Dev.to/JS] [&quot;Why does it rerender?&quot; - a little utility to help](https://dev.to/latobibor/why-does-it-rerender-a-little-utility-to-help-13h4)
 - [Dev.to/JS] [Do you know Closure in JavaScript ?](https://dev.to/mohammad1105/do-you-know-closure-in-javascript--4j95)
 - [Dev.to/JS] [[JS] What happens when “use strict” is defined](https://dev.to/yutakusuno/js-what-happens-when-use-strict-is-defined-566f)
@@ -45,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Latest React Project](https://dev.to/codingcss/my-latest-react-project-2c35)
 - [Lifehacker] [Why &#39;75 Hard&#39; Is the Worst New Fitness Trend](https://lifehacker.com/health/why-75-hard-is-the-worst-new-fitness-trend)
 - [Dev.to/JS] [🚀 Finding Harmony in Web Development: Next.js, Vercel, Angular, Svelte, and Beyond! 🌐](https://dev.to/sanneh22/nextjs-vercel-vite-finding-harmony-in-diversity-for-collective-progress-ob2)
-- [Dev.to/JS] [JSONCrack Codebase Analysis — Part 4 — Editor](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-4-editor-56eh)
-- [Dev.to/JS] [Patch-Package to the Rescue! 🛠️✨](https://dev.to/antoomartini/patch-package-to-the-rescue-5flf)
-- [Dev.to/JS] [mua grammarly](https://dev.to/wsovn112/mua-grammarly-32j9)
 - [Lifehacker] [The Best Way to Clean a Keyboard &lpar;If You Don’t Have Compressed Air&rpar;](https://lifehacker.com/home/best-way-to-clean-a-dirty-keyboard)
 - [Lifehacker] [Google Is Finally Saying Goodbye to Cookies](https://lifehacker.com/tech/google-is-getting-rid-of-cookies)
 - [Lifehacker] [The Best Books to Read to Get Your Home Spotless](https://lifehacker.com/home/best-cleaning-books)
