@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do you know Closure in JavaScript ?](https://dev.to/mohammad1105/do-you-know-closure-in-javascript--4j95)
+- [Dev.to/JS] [[JS] What happens when “use strict” is defined](https://dev.to/yutakusuno/js-what-happens-when-use-strict-is-defined-566f)
 - [Dev.to/JS] [Implementing debounce in React for efficient delayed search queries](https://dev.to/alexefimenko/implementing-debounce-in-react-for-efficient-delayed-search-queries-4m49)
 - [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
 - [Lifehacker] [The Kindle Scribe Is $70 Off Right Now](https://lifehacker.com/tech/kindle-scribe-e-reader-on-sale)
@@ -46,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Clean a Keyboard &lpar;If You Don’t Have Compressed Air&rpar;](https://lifehacker.com/home/best-way-to-clean-a-dirty-keyboard)
 - [Lifehacker] [Google Is Finally Saying Goodbye to Cookies](https://lifehacker.com/tech/google-is-getting-rid-of-cookies)
 - [Dev.to/JS] [motoai](https://dev.to/rankkmarket/motoai-5g66)
-- [Dev.to/JS] [Python &amp; OpenAI beginner journey 7 | Bot working &amp; JavaScript for front-end](https://dev.to/gregor_schafroth/python-openai-beginner-journey-7-bot-working-javascript-for-front-end-57f6)
 - [Lifehacker] [The Best Books to Read to Get Your Home Spotless](https://lifehacker.com/home/best-cleaning-books)
-- [Dev.to/JS] [Enter for $1000 Cash for Summer! &lpar;USA&rpar;](https://dev.to/emily73/enter-for-1000-cash-for-summer-usa-3g3m)
 - [Lifehacker] [I Figured Out How to Make the TikTok Hot Fondue Pocket Actually Good](https://lifehacker.com/food-drink/tiktok-hot-fondue-pocket-recipe)
 - [Lifehacker] [The Worst House Emergencies That Come Without Warning &lpar;and How to Prepare for Them&rpar;](https://lifehacker.com/home/hidden-house-problems)
 - [Lifehacker] [The Best Time of Year to Contribute to Your IRA](https://lifehacker.com/money/the-best-time-of-year-to-contribute-to-your-ira)
