@@ -27,6 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Implementing debounce in React for efficient delayed search queries](https://dev.to/alexefimenko/implementing-debounce-in-react-for-efficient-delayed-search-queries-4m49)
+- [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
 - [Lifehacker] [The Kindle Scribe Is $70 Off Right Now](https://lifehacker.com/tech/kindle-scribe-e-reader-on-sale)
 - [Lifehacker] [The Best Fitness Goals That Aren&#39;t Weight Loss](https://lifehacker.com/best-fitness-goals-that-are-not-weight-loss)
 - [Dev.to/JS] [How to build chat input with Slate and Emoji-Mart](https://dev.to/burak94/how-to-build-chat-input-with-slate-and-emoji-mart-468d)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-4-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-4-2024)
 - [Lifehacker] [Five Things You Should Never Store in Your Garage](https://lifehacker.com/home/never-store-these-things-in-your-garage)
-- [Lifehacker] [Tuck Into a Bowl of This French Onion Soup Pasta](https://lifehacker.com/food-drink/french-onion-soup-pasta-recipe)
-- [Lifehacker] [You Can Get Microsoft Office and These Basic Training Courses for $40 Right Now](https://lifehacker.com/tech/microsoft-office-2019-with-training-courses)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Tuck Into a Bowl of This French Onion Soup Pasta](https://lifehacker.com/food-drink/french-onion-soup-pasta-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
