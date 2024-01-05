@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding React Routing Using React Router](https://dev.to/iankcode/understanding-react-routing-using-react-router-19dk)
+- [Dev.to/JS] [15 Most Watched Frontend Conference Talks In 2023](https://dev.to/techtalksweekly/15-most-watched-frontend-conference-talks-in-2023-194p)
+- [Dev.to/JS] [JSONCrack Codebase Analysis - Part 4.1 - Editor - Panes Component](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-41-editor-panes-component-26lg)
 - [Lifehacker] [How to Become a Person Who Cleans](https://lifehacker.com/home/how-to-find-the-motivation-to-clean)
 - [Lifehacker] [Make a Big Batch of Glögg to Last the Winter](https://lifehacker.com/food-drink/easy-glogg-recipe)
 - [Lifehacker] [You Can Get Two Blink Outdoor Cameras for $72 Right Now](https://lifehacker.com/tech/you-can-get-two-blink-outdoor-cameras-for-more-than-half-off)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Slippery Stairs Safer](https://lifehacker.com/home/how-to-fix-slippery-stairs)
 - [Lifehacker] [Here&#39;s How Much You Could Save If You Set Aside $5 Every Day](https://lifehacker.com/money/how-much-you-could-save-5-dollars-a-day)
 - [Lifehacker] [You Have One Week to Download Marvel’s ‘Guardians of the Galaxy’ Game for Free](https://lifehacker.com/entertainment/marvels-guardians-of-the-galaxy-is-free-to-download-right-now)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/jansnider70/buy-google-5-star-reviews-28bi)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/jansnider70/buy-verified-cash-app-account-2e05)
 - [Lifehacker] [How to Use Smart Tech to Save on Your Light Bill](https://lifehacker.com/tech/lower-lighting-bills-with-smart-tech)
 - [Dev.to/JS] [UrNotes - Simple Task management](https://dev.to/alsiam/urnotes-simple-task-management-13lf)
 - [Lifehacker] [These Are the Best Clipboard Managers for Windows](https://lifehacker.com/tech/best-clipboard-managers-for-windows)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Figured Out How to Make the TikTok Hot Fondue Pocket Actually Good](https://lifehacker.com/food-drink/tiktok-hot-fondue-pocket-recipe)
 - [Lifehacker] [The Worst House Emergencies That Come Without Warning &lpar;and How to Prepare for Them&rpar;](https://lifehacker.com/home/hidden-house-problems)
 - [Lifehacker] [The Best Time of Year to Contribute to Your IRA](https://lifehacker.com/money/the-best-time-of-year-to-contribute-to-your-ira)
-- [Lifehacker] [Retirement Planning Is Changing in 2024](https://lifehacker.com/money/new-retirement-plan-changes)
-- [Lifehacker] [The Switchbot K10+ Is a Small but Powerful Robot Vacuum](https://lifehacker.com/tech/switchbot-k10-plus-robot-vacuum-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Retirement Planning Is Changing in 2024](https://lifehacker.com/money/new-retirement-plan-changes)<!-- TECH-POSTS:END -->
 
 ---
 
