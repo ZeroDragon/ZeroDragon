@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [JSON in PHP](https://dev.to/elaoqby/json-in-php-59hn)
+- [Lifehacker] [You Can Get Two Blink Outdoor Cameras for $72 Right Now](https://lifehacker.com/tech/you-can-get-two-blink-outdoor-cameras-for-more-than-half-off)
+- [Lifehacker] [This Is the Easiest Way to Clean Door Tracks](https://lifehacker.com/home/the-easiest-way-to-clean-door-tracks)
 - [Lifehacker] [Make Your Spotify ‘Playlist in a Bottle’ While You Still Can](https://lifehacker.com/tech/how-to-make-your-spotify-playlist-in-a-bottle)
 - [Dev.to/JS] [Top 5 High Demand Programming Languages in 2024](https://dev.to/jaydeepb21/top-5-highly-sought-after-programming-languages-in-2024-548l)
 - [Dev.to/JS] [videoxq ai](https://dev.to/rankkmarket/videoxq-ai-c1o)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Switchbot K10+ Is a Small but Powerful Robot Vacuum](https://lifehacker.com/tech/switchbot-k10-plus-robot-vacuum-review)
 - [Lifehacker] [These Are the Best Clipboard Managers for Your Mac](https://lifehacker.com/tech/best-mac-clipboard-managers)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island &lpar;Sort Of&rpar;](https://lifehacker.com/tech/how-to-hide-dynamic-island-iphone)
-- [Lifehacker] [These Are the Best Gadgets to Turn Your Regular Kitchen Into a Smart One](https://lifehacker.com/home/turn-your-regular-kitchen-into-smart-kitchen)
-- [Crazy Programmer] [8 Best Practices for Writing Clean and Maintainable Code](https://www.thecrazyprogrammer.com/2024/01/best-practices-for-writing-clean-and-maintainable-code.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Gadgets to Turn Your Regular Kitchen Into a Smart One](https://lifehacker.com/home/turn-your-regular-kitchen-into-smart-kitchen)<!-- TECH-POSTS:END -->
 
 ---
 
