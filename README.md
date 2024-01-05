@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Become a Person Who Cleans](https://lifehacker.com/home/how-to-find-the-motivation-to-clean)
+- [Lifehacker] [Make a Big Batch of Glögg to Last the Winter](https://lifehacker.com/food-drink/easy-glogg-recipe)
 - [Lifehacker] [You Can Get Two Blink Outdoor Cameras for $72 Right Now](https://lifehacker.com/tech/you-can-get-two-blink-outdoor-cameras-for-more-than-half-off)
 - [Lifehacker] [This Is the Easiest Way to Clean Door Tracks](https://lifehacker.com/home/the-easiest-way-to-clean-door-tracks)
 - [Lifehacker] [Make Your Spotify ‘Playlist in a Bottle’ While You Still Can](https://lifehacker.com/tech/how-to-make-your-spotify-playlist-in-a-bottle)
@@ -47,6 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Small Batches of Granola in Your Air Fryer](https://lifehacker.com/food-drink/small-batch-air-fryer-granola-recipe)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-5-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-5-2024)
+- [Dev.to/JS] [Implementing debounce in React for efficient delayed search queries](https://dev.to/alexefimenko/implementing-debounce-in-react-for-efficient-delayed-search-queries-4m49)
 - [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
 - [Lifehacker] [The Kindle Scribe Is $70 Off Right Now](https://lifehacker.com/tech/kindle-scribe-e-reader-on-sale)
 - [Lifehacker] [The Best Fitness Goals That Aren&#39;t Weight Loss](https://lifehacker.com/best-fitness-goals-that-are-not-weight-loss)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Worst House Emergencies That Come Without Warning &lpar;and How to Prepare for Them&rpar;](https://lifehacker.com/home/hidden-house-problems)
 - [Lifehacker] [The Best Time of Year to Contribute to Your IRA](https://lifehacker.com/money/the-best-time-of-year-to-contribute-to-your-ira)
 - [Lifehacker] [Retirement Planning Is Changing in 2024](https://lifehacker.com/money/new-retirement-plan-changes)
-- [Lifehacker] [The Switchbot K10+ Is a Small but Powerful Robot Vacuum](https://lifehacker.com/tech/switchbot-k10-plus-robot-vacuum-review)
-- [Lifehacker] [These Are the Best Clipboard Managers for Your Mac](https://lifehacker.com/tech/best-mac-clipboard-managers)
-- [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island &lpar;Sort Of&rpar;](https://lifehacker.com/tech/how-to-hide-dynamic-island-iphone)
-- [Lifehacker] [These Are the Best Gadgets to Turn Your Regular Kitchen Into a Smart One](https://lifehacker.com/home/turn-your-regular-kitchen-into-smart-kitchen)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Switchbot K10+ Is a Small but Powerful Robot Vacuum](https://lifehacker.com/tech/switchbot-k10-plus-robot-vacuum-review)<!-- TECH-POSTS:END -->
 
 ---
 
