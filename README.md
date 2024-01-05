@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What the hell is &#39;this&#39; in javascript?](https://dev.to/hariszulfiqar054/what-the-hell-is-this-in-javascript-2mjg)
+- [Dev.to/JS] [videoxq ai](https://dev.to/rankkmarket/videoxq-ai-c1o)
+- [Lifehacker] [How to Make Your Slippery Stairs Safer](https://lifehacker.com/home/how-to-fix-slippery-stairs)
+- [Lifehacker] [Here&#39;s How Much You Could Save If You Set Aside $5 Every Day](https://lifehacker.com/money/how-much-you-could-save-5-dollars-a-day)
 - [Lifehacker] [You Have One Week to Download Marvel’s ‘Guardians of the Galaxy’ Game for Free](https://lifehacker.com/entertainment/marvels-guardians-of-the-galaxy-is-free-to-download-right-now)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/jansnider70/buy-google-5-star-reviews-28bi)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/jansnider70/buy-verified-cash-app-account-2e05)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [8 Best Practices for Writing Clean and Maintainable Code](https://www.thecrazyprogrammer.com/2024/01/best-practices-for-writing-clean-and-maintainable-code.html)
 - [Dev.to/JS] [Understanding JavaScript: The Quirky Yet Ubiquitous Language](https://dev.to/aniket_botre/understanding-javascript-the-quirky-yet-ubiquitous-language-2gm8)
 - [Lifehacker] [Proton VPN&#39;s Free Tier Is the Best You&#39;ll Find](https://lifehacker.com/tech/review-of-proton-vpn-free-tier)
-- [Dev.to/JS] [Server Components Vs. Server-side Rendering](https://dev.to/khriztianmoreno/server-components-vs-server-side-rendering-4ghe)
-- [Lifehacker] [How to Leave Your Web Browser &lpar;and Take Your Data With You&rpar;](https://lifehacker.com/tech/move-data-to-new-web-browser)
-- [Dev.to/JS] [Top Technology, Web Development, and JavaScript Trends to Follow in 2024](https://dev.to/plazarev/top-technology-web-development-and-javascript-trends-to-follow-in-2024-1h6f)
-- [Dev.to/JS] [How to use Next.Js 14 with Supabase](https://dev.to/shahmir049/how-to-use-nextjs-14-with-supabase-1ecc)
-- [Dev.to/JS] [The Secret to Clean Code and Modular Design](https://dev.to/kalashin1/the-secret-to-clean-code-and-modular-design-4hm7)<!-- TECH-POSTS:END -->
+- [Dev.to/JS] [Server Components Vs. Server-side Rendering](https://dev.to/khriztianmoreno/server-components-vs-server-side-rendering-4ghe)<!-- TECH-POSTS:END -->
 
 ---
 
