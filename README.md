@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Have One Week to Download Marvel’s ‘Guardians of the Galaxy’ Game for Free](https://lifehacker.com/entertainment/marvels-guardians-of-the-galaxy-is-free-to-download-right-now)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/jansnider70/buy-google-5-star-reviews-28bi)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/jansnider70/buy-verified-cash-app-account-2e05)
+- [Lifehacker] [How to Use Smart Tech to Save on Your Light Bill](https://lifehacker.com/tech/lower-lighting-bills-with-smart-tech)
 - [Dev.to/JS] [UrNotes - Simple Task management](https://dev.to/alsiam/urnotes-simple-task-management-13lf)
 - [Lifehacker] [These Are the Best Clipboard Managers for Windows](https://lifehacker.com/tech/best-clipboard-managers-for-windows)
 - [Lifehacker] [Don&#39;t Miss This Deadline for Estimated Quarterly Tax Payments](https://lifehacker.com/money/this-is-the-deadline-for-estimated-quarterly-tax-payments)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Leave Your Web Browser &lpar;and Take Your Data With You&rpar;](https://lifehacker.com/tech/move-data-to-new-web-browser)
 - [Dev.to/JS] [Top Technology, Web Development, and JavaScript Trends to Follow in 2024](https://dev.to/plazarev/top-technology-web-development-and-javascript-trends-to-follow-in-2024-1h6f)
 - [Dev.to/JS] [How to use Next.Js 14 with Supabase](https://dev.to/shahmir049/how-to-use-nextjs-14-with-supabase-1ecc)
-- [Dev.to/JS] [The Secret to Clean Code and Modular Design](https://dev.to/kalashin1/the-secret-to-clean-code-and-modular-design-4hm7)
-- [Dev.to/JS] [WHO CAN HELP ME RECOVER MY LOST BTC - OMEGA CRYPTO RECOVERY SPECIALIST](https://dev.to/edpitt200/who-can-help-me-recover-my-lost-btc-omega-crypto-recovery-specialist-52km)
-- [Dev.to/JS] [What is full stack development? Back end + front end?](https://dev.to/sparkouttech/what-is-full-stack-development-back-end-front-end-4kil)<!-- TECH-POSTS:END -->
+- [Dev.to/JS] [The Secret to Clean Code and Modular Design](https://dev.to/kalashin1/the-secret-to-clean-code-and-modular-design-4hm7)<!-- TECH-POSTS:END -->
 
 ---
 
