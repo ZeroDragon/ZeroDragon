@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/abrahamunderwood0/buy-google-5-star-reviews-lmf)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/abrahamunderwood0/buy-verified-cash-app-account-2jdd)
+- [Dev.to/JS] [How to Reduce Docker Image Size ? &lpar;Part 2&rpar;](https://dev.to/muhammedarifp/how-to-reduce-docker-image-size-part-2-1b1n)
+- [Lifehacker] [Why Air Might Get Trapped in Your Pipes &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-release-air-trapped-in-your-pipes)
+- [Dev.to/JS] [How to add Header and Footer in Nuxt 3](https://dev.to/moek/how-to-add-header-and-footer-in-nuxt-3-20p2)
+- [Lifehacker] [You Can Make Small Batches of Granola in Your Air Fryer](https://lifehacker.com/food-drink/small-batch-air-fryer-granola-recipe)
 - [Dev.to/JS] [🥀Get £1000 Toward iPhone 15 Pro Max!💥](https://dev.to/emily73/get-ps1000-toward-iphone-15-pro-max-1o4e)
 - [Dev.to/JS] [ngx-gooey - The gooey effect for Angular 🧽](https://dev.to/wadie/ngx-gooey-the-gooey-effect-for-angular-5bni)
 - [Dev.to/JS] [Validação de Formulários com React-Hook-Form e Zod](https://dev.to/vitorrios1001/validacao-de-formularios-com-react-hook-form-e-zod-a6k)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ditch REST, go intent based](https://dev.to/alertpix/ditch-rest-go-intent-based-34hp)
 - [Dev.to/JS] [Navigating the Digital Ecosystem: A Comprehensive Guide to API Lifecycle Management](https://dev.to/agiconsolution/navigating-the-digital-ecosystem-a-comprehensive-guide-to-api-lifecycle-management-3o8n)
 - [Dev.to/JS] [Pathway to Triumph: AZ-120 Exam Dumps Explored](https://dev.to/hevobokevin/pathway-to-triumph-az-120-exam-dumps-explored-o15)
-- [Dev.to/JS] [ILLA Flow: A javascript-driven, developer-friendly product for creating automate workflow](https://dev.to/illa/illa-flow-a-javascript-driven-developer-friendly-product-for-creating-automate-workflow-12o4)
-- [Dev.to/JS] [Empowering Tomorrow: The Impactful Role of AI Tools in Modern Solutions](https://dev.to/seomourad/empowering-tomorrow-the-impactful-role-of-ai-tools-in-modern-solutions-d9f)
-- [Dev.to/JS] [HTML CSS tutorial - New Video Out Now](https://dev.to/codingmadeeasy/html-css-tutorial-new-video-out-now-56mf)
-- [Dev.to/JS] [Don&#39;t use Java for Coding Interviews](https://dev.to/mohammadfaisal/dont-use-java-for-coding-interviews-1g5k)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-5-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-5-2024)
 - [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Proton VPN&#39;s Free Tier Is the Best You&#39;ll Find](https://lifehacker.com/tech/review-of-proton-vpn-free-tier)
 - [Lifehacker] [How to Leave Your Web Browser &lpar;and Take Your Data With You&rpar;](https://lifehacker.com/tech/move-data-to-new-web-browser)
 - [Lifehacker] [What People Are Getting Wrong This Week: Jeffrey Epstein](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-jeffrey-epstein)
-- [Lifehacker] [How to Stop Your &#39;Emotional Spending&#39;](https://lifehacker.com/money/how-to-stop-impulse-buying)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-4-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-4-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop Your &#39;Emotional Spending&#39;](https://lifehacker.com/money/how-to-stop-impulse-buying)<!-- TECH-POSTS:END -->
 
 ---
 
