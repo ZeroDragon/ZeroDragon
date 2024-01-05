@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [What the hell is &#39;this&#39; in javascript?](https://dev.to/hariszulfiqar054/what-the-hell-is-this-in-javascript-2mjg)
+- [Dev.to/JS] [JSON in PHP](https://dev.to/elaoqby/json-in-php-59hn)
+- [Lifehacker] [Make Your Spotify ‘Playlist in a Bottle’ While You Still Can](https://lifehacker.com/tech/how-to-make-your-spotify-playlist-in-a-bottle)
+- [Dev.to/JS] [Top 5 High Demand Programming Languages in 2024](https://dev.to/jaydeepb21/top-5-highly-sought-after-programming-languages-in-2024-548l)
 - [Dev.to/JS] [videoxq ai](https://dev.to/rankkmarket/videoxq-ai-c1o)
+- [Lifehacker] [Is the Meta Quest 2 Still Worth Buying?](https://lifehacker.com/tech/is-the-meta-quest-2-still-worth-buying)
 - [Lifehacker] [How to Make Your Slippery Stairs Safer](https://lifehacker.com/home/how-to-fix-slippery-stairs)
 - [Lifehacker] [Here&#39;s How Much You Could Save If You Set Aside $5 Every Day](https://lifehacker.com/money/how-much-you-could-save-5-dollars-a-day)
 - [Lifehacker] [You Have One Week to Download Marvel’s ‘Guardians of the Galaxy’ Game for Free](https://lifehacker.com/entertainment/marvels-guardians-of-the-galaxy-is-free-to-download-right-now)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Clipboard Managers for Your Mac](https://lifehacker.com/tech/best-mac-clipboard-managers)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island &lpar;Sort Of&rpar;](https://lifehacker.com/tech/how-to-hide-dynamic-island-iphone)
 - [Lifehacker] [These Are the Best Gadgets to Turn Your Regular Kitchen Into a Smart One](https://lifehacker.com/home/turn-your-regular-kitchen-into-smart-kitchen)
-- [Crazy Programmer] [8 Best Practices for Writing Clean and Maintainable Code](https://www.thecrazyprogrammer.com/2024/01/best-practices-for-writing-clean-and-maintainable-code.html)
-- [Dev.to/JS] [Understanding JavaScript: The Quirky Yet Ubiquitous Language](https://dev.to/aniket_botre/understanding-javascript-the-quirky-yet-ubiquitous-language-2gm8)
-- [Lifehacker] [Proton VPN&#39;s Free Tier Is the Best You&#39;ll Find](https://lifehacker.com/tech/review-of-proton-vpn-free-tier)
-- [Dev.to/JS] [Server Components Vs. Server-side Rendering](https://dev.to/khriztianmoreno/server-components-vs-server-side-rendering-4ghe)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [8 Best Practices for Writing Clean and Maintainable Code](https://www.thecrazyprogrammer.com/2024/01/best-practices-for-writing-clean-and-maintainable-code.html)<!-- TECH-POSTS:END -->
 
 ---
 
