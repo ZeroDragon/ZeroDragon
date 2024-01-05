@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Empowering Tomorrow: The Impactful Role of AI Tools in Modern Solutions](https://dev.to/seomourad/empowering-tomorrow-the-impactful-role-of-ai-tools-in-modern-solutions-d9f)
+- [Dev.to/JS] [HTML CSS tutorial - New Video Out Now](https://dev.to/codingmadeeasy/html-css-tutorial-new-video-out-now-56mf)
+- [Dev.to/JS] [Don&#39;t use Java for Coding Interviews](https://dev.to/mohammadfaisal/dont-use-java-for-coding-interviews-1g5k)
+- [Dev.to/JS] [Beginners Guide to Managing User Roles and Pemissions in Node.js](https://dev.to/oyedeletemitope/beginners-guide-to-managing-user-roles-and-pemissions-4glc)
 - [Dev.to/JS] [REACT: What exactly is a single-page application?](https://dev.to/yashrai01/reactwhat-is-single-page-application-i1)
 - [Dev.to/JS] [Streamlined Checkout: Easebuzz Simplifies Payment Gateway Integration](https://dev.to/rahulsharma777/streamlined-checkout-easebuzz-simplifies-payment-gateway-integration-152a)
 - [Dev.to/JS] [Sample 1](https://dev.to/princekumardevto/sample-1-52pj)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Java Script 1: Color Mixer](https://dev.to/gregor_schafroth/java-script-1-color-mixer-3jpi)
 - [Dev.to/JS] [Kotlin in the browser](https://dev.to/dchaley/kotlin-in-the-browser-g3f)
 - [Dev.to/JS] [Building a Modular Ecosystem for Code Reusability](https://dev.to/zelcion/meta-system-addons-building-a-modular-ecosystem-for-code-reusability-28ai)
-- [Dev.to/JS] [Smart Cities and IoT Security - How Can Urban Centers Safeguard Against Cyber Threats?](https://dev.to/yagnapandya9/smart-cities-and-iot-security-how-can-urban-centers-safeguard-against-cyber-threats-2nbc)
-- [Dev.to/JS] [Afzal Hosen Mandal on](https://dev.to/afzalqwe/afzal-hosen-mandal-on-2jlk)
-- [Dev.to/JS] [How to Develop Web Document Image Viewer, Editor and Converter in JavaScript](https://dev.to/yushulx/how-to-develop-web-document-image-viewer-editor-and-converter-in-javascript-3ooa)
-- [Dev.to/JS] [Polyfills in JS - Interview Questions](https://dev.to/niteshxp/polyfills-in-js-interview-questions-357)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-5-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-5-2024)
 - [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
