@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Coding in the Cloud: Mastering Online Compilers for Efficient Development](https://dev.to/lightcity/coding-in-the-cloud-mastering-online-compilers-for-efficient-development-3il7)
+- [Dev.to/JS] [UrNotes - Simple Task management](https://dev.to/alsiam/urnotes-simple-task-management-13lf)
+- [Lifehacker] [These Are the Best Clipboard Managers for Windows](https://lifehacker.com/tech/best-clipboard-managers-for-windows)
+- [Lifehacker] [Don&#39;t Miss This Deadline for Estimated Quarterly Tax Payments](https://lifehacker.com/money/this-is-the-deadline-for-estimated-quarterly-tax-payments)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &#39;Tunnel Girl&#39;?](https://lifehacker.com/entertainment/who-is-tunnel-girl)
 - [Dev.to/JS] [Why I Personally Decided to Bet on JavaScript](https://dev.to/gabriel-palhares/why-i-personally-decided-to-bet-on-javascript-fm2)
 - [Dev.to/JS] [+200 ejercicios JavaScript resueltos 👌](https://dev.to/duxtech/200-ejercicios-javascript-resueltos-2npo)
 - [Dev.to/JS] [Node.js Explained: A Beginner&#39;s Guide to Server-Side JavaScript Runtime](https://dev.to/ihssmaheel/nodejs-explained-a-beginners-guide-to-server-side-javascript-runtime-319n)
+- [Lifehacker] [Why Your Tap Water Is Cloudy &lpar;and Why It Matters&rpar;](https://lifehacker.com/home/why-your-tap-water-is-cloudy)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/abrahamunderwood0/buy-google-voice-accounts-2iid)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/abrahamunderwood0/buy-google-5-star-reviews-lmf)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/abrahamunderwood0/buy-verified-cash-app-account-2jdd)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Clipboard Managers for Your Mac](https://lifehacker.com/tech/best-mac-clipboard-managers)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island &lpar;Sort Of&rpar;](https://lifehacker.com/tech/how-to-hide-dynamic-island-iphone)
 - [Lifehacker] [These Are the Best Gadgets to Turn Your Regular Kitchen Into a Smart One](https://lifehacker.com/home/turn-your-regular-kitchen-into-smart-kitchen)
-- [Crazy Programmer] [8 Best Practices for Writing Clean and Maintainable Code](https://www.thecrazyprogrammer.com/2024/01/best-practices-for-writing-clean-and-maintainable-code.html)
-- [Lifehacker] [Proton VPN&#39;s Free Tier Is the Best You&#39;ll Find](https://lifehacker.com/tech/review-of-proton-vpn-free-tier)
-- [Lifehacker] [How to Leave Your Web Browser &lpar;and Take Your Data With You&rpar;](https://lifehacker.com/tech/move-data-to-new-web-browser)
-- [Lifehacker] [What People Are Getting Wrong This Week: Jeffrey Epstein](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-jeffrey-epstein)
-- [Lifehacker] [How to Stop Your &#39;Emotional Spending&#39;](https://lifehacker.com/money/how-to-stop-impulse-buying)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [8 Best Practices for Writing Clean and Maintainable Code](https://www.thecrazyprogrammer.com/2024/01/best-practices-for-writing-clean-and-maintainable-code.html)<!-- TECH-POSTS:END -->
 
 ---
 
