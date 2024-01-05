@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Kotlin in the browser](https://dev.to/dchaley/kotlin-in-the-browser-g3f)
+- [Dev.to/JS] [Building a Modular Ecosystem for Code Reusability](https://dev.to/zelcion/meta-system-addons-building-a-modular-ecosystem-for-code-reusability-28ai)
+- [Dev.to/JS] [Smart Cities and IoT Security - How Can Urban Centers Safeguard Against Cyber Threats?](https://dev.to/yagnapandya9/smart-cities-and-iot-security-how-can-urban-centers-safeguard-against-cyber-threats-2nbc)
+- [Dev.to/JS] [Afzal Hosen Mandal on](https://dev.to/afzalqwe/afzal-hosen-mandal-on-2jlk)
+- [Dev.to/JS] [How to Develop Web Document Image Viewer, Editor and Converter in JavaScript](https://dev.to/yushulx/how-to-develop-web-document-image-viewer-editor-and-converter-in-javascript-3ooa)
 - [Dev.to/JS] [Polyfills in JS - Interview Questions](https://dev.to/niteshxp/polyfills-in-js-interview-questions-357)
 - [Dev.to/JS] [Level Up Your JS: Constructor Function for Beginners, Explained](https://dev.to/mohammad1105/level-up-your-js-constructor-function-for-beginners-explained-hp2)
 - [Dev.to/JS] [🚀 Elevate your React code modularity with Custom Hooks! 🎣](https://dev.to/gkhan205/elevate-your-react-code-modularity-with-custom-hooks-hjc)
@@ -38,16 +43,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
 - [Lifehacker] [The Kindle Scribe Is $70 Off Right Now](https://lifehacker.com/tech/kindle-scribe-e-reader-on-sale)
 - [Lifehacker] [The Best Fitness Goals That Aren&#39;t Weight Loss](https://lifehacker.com/best-fitness-goals-that-are-not-weight-loss)
-- [Dev.to/JS] [How to build chat input with Slate and Emoji-Mart](https://dev.to/burak94/how-to-build-chat-input-with-slate-and-emoji-mart-468d)
 - [Lifehacker] [Everything Included in the Latest Pixel Security Update](https://lifehacker.com/tech/january-pixel-security-update)
 - [Lifehacker] [Your Next Windows PC Will Have This Brand-New Key](https://lifehacker.com/tech/new-windows-copilot-key)
-- [Dev.to/JS] [Metempsychosis of Project Dawah](https://dev.to/malikhandev/metempsychosis-of-project-dawah-3hi3)
-- [Dev.to/JS] [Potential Angular 18 Features and Trends](https://dev.to/mescius/potential-angular-18-features-and-trends-4fbj)
 - [Lifehacker] [You Should Be Cleaning Your Toilet Tank &lpar;and How to Do It Right&rpar;](https://lifehacker.com/home/you-should-be-cleaning-your-toilet-tank)
 - [Lifehacker] [The Best Way to Clean a Microwave](https://lifehacker.com/home/how-to-clean-a-microwave)
-- [Dev.to/JS] [My Latest React Project](https://dev.to/codingcss/my-latest-react-project-2c35)
 - [Lifehacker] [Why &#39;75 Hard&#39; Is the Worst New Fitness Trend](https://lifehacker.com/health/why-75-hard-is-the-worst-new-fitness-trend)
-- [Dev.to/JS] [🚀 Finding Harmony in Web Development: Next.js, Vercel, Angular, Svelte, and Beyond! 🌐](https://dev.to/sanneh22/nextjs-vercel-vite-finding-harmony-in-diversity-for-collective-progress-ob2)
 - [Lifehacker] [The Best Way to Clean a Keyboard &lpar;If You Don’t Have Compressed Air&rpar;](https://lifehacker.com/home/best-way-to-clean-a-dirty-keyboard)
 - [Lifehacker] [Google Is Finally Saying Goodbye to Cookies](https://lifehacker.com/tech/google-is-getting-rid-of-cookies)
 - [Lifehacker] [The Best Books to Read to Get Your Home Spotless](https://lifehacker.com/home/best-cleaning-books)
