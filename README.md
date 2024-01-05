@@ -26,24 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/jansnider70/buy-google-5-star-reviews-28bi)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/jansnider70/buy-verified-cash-app-account-2e05)
 - [Dev.to/JS] [UrNotes - Simple Task management](https://dev.to/alsiam/urnotes-simple-task-management-13lf)
 - [Lifehacker] [These Are the Best Clipboard Managers for Windows](https://lifehacker.com/tech/best-clipboard-managers-for-windows)
 - [Lifehacker] [Don&#39;t Miss This Deadline for Estimated Quarterly Tax Payments](https://lifehacker.com/money/this-is-the-deadline-for-estimated-quarterly-tax-payments)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &#39;Tunnel Girl&#39;?](https://lifehacker.com/entertainment/who-is-tunnel-girl)
-- [Dev.to/JS] [Why I Personally Decided to Bet on JavaScript](https://dev.to/gabriel-palhares/why-i-personally-decided-to-bet-on-javascript-fm2)
-- [Dev.to/JS] [+200 ejercicios JavaScript resueltos 👌](https://dev.to/duxtech/200-ejercicios-javascript-resueltos-2npo)
-- [Dev.to/JS] [Node.js Explained: A Beginner&#39;s Guide to Server-Side JavaScript Runtime](https://dev.to/ihssmaheel/nodejs-explained-a-beginners-guide-to-server-side-javascript-runtime-319n)
 - [Lifehacker] [Why Your Tap Water Is Cloudy &lpar;and Why It Matters&rpar;](https://lifehacker.com/home/why-your-tap-water-is-cloudy)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/abrahamunderwood0/buy-google-voice-accounts-2iid)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/abrahamunderwood0/buy-google-5-star-reviews-lmf)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/abrahamunderwood0/buy-verified-cash-app-account-2jdd)
-- [Dev.to/JS] [How to Reduce Docker Image Size ? &lpar;Part 2&rpar;](https://dev.to/muhammedarifp/how-to-reduce-docker-image-size-part-2-1b1n)
 - [Lifehacker] [Why Air Might Get Trapped in Your Pipes &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-release-air-trapped-in-your-pipes)
-- [Dev.to/JS] [How to add Header and Footer in Nuxt 3](https://dev.to/moek/how-to-add-header-and-footer-in-nuxt-3-20p2)
 - [Lifehacker] [You Can Make Small Batches of Granola in Your Air Fryer](https://lifehacker.com/food-drink/small-batch-air-fryer-granola-recipe)
-- [Dev.to/JS] [🥀Get £1000 Toward iPhone 15 Pro Max!💥](https://dev.to/emily73/get-ps1000-toward-iphone-15-pro-max-1o4e)
-- [Dev.to/JS] [ngx-gooey - The gooey effect for Angular 🧽](https://dev.to/wadie/ngx-gooey-the-gooey-effect-for-angular-5bni)
-- [Dev.to/JS] [Validação de Formulários com React-Hook-Form e Zod](https://dev.to/vitorrios1001/validacao-de-formularios-com-react-hook-form-e-zod-a6k)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-5-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-5-2024)
 - [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
@@ -65,7 +56,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Clipboard Managers for Your Mac](https://lifehacker.com/tech/best-mac-clipboard-managers)
 - [Lifehacker] [You Can Hide Your iPhone’s Dynamic Island &lpar;Sort Of&rpar;](https://lifehacker.com/tech/how-to-hide-dynamic-island-iphone)
 - [Lifehacker] [These Are the Best Gadgets to Turn Your Regular Kitchen Into a Smart One](https://lifehacker.com/home/turn-your-regular-kitchen-into-smart-kitchen)
-- [Crazy Programmer] [8 Best Practices for Writing Clean and Maintainable Code](https://www.thecrazyprogrammer.com/2024/01/best-practices-for-writing-clean-and-maintainable-code.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [8 Best Practices for Writing Clean and Maintainable Code](https://www.thecrazyprogrammer.com/2024/01/best-practices-for-writing-clean-and-maintainable-code.html)
+- [Dev.to/JS] [Understanding JavaScript: The Quirky Yet Ubiquitous Language](https://dev.to/aniket_botre/understanding-javascript-the-quirky-yet-ubiquitous-language-2gm8)
+- [Lifehacker] [Proton VPN&#39;s Free Tier Is the Best You&#39;ll Find](https://lifehacker.com/tech/review-of-proton-vpn-free-tier)
+- [Dev.to/JS] [Server Components Vs. Server-side Rendering](https://dev.to/khriztianmoreno/server-components-vs-server-side-rendering-4ghe)
+- [Lifehacker] [How to Leave Your Web Browser &lpar;and Take Your Data With You&rpar;](https://lifehacker.com/tech/move-data-to-new-web-browser)
+- [Dev.to/JS] [Top Technology, Web Development, and JavaScript Trends to Follow in 2024](https://dev.to/plazarev/top-technology-web-development-and-javascript-trends-to-follow-in-2024-1h6f)
+- [Dev.to/JS] [How to use Next.Js 14 with Supabase](https://dev.to/shahmir049/how-to-use-nextjs-14-with-supabase-1ecc)
+- [Dev.to/JS] [The Secret to Clean Code and Modular Design](https://dev.to/kalashin1/the-secret-to-clean-code-and-modular-design-4hm7)
+- [Dev.to/JS] [WHO CAN HELP ME RECOVER MY LOST BTC - OMEGA CRYPTO RECOVERY SPECIALIST](https://dev.to/edpitt200/who-can-help-me-recover-my-lost-btc-omega-crypto-recovery-specialist-52km)
+- [Dev.to/JS] [What is full stack development? Back end + front end?](https://dev.to/sparkouttech/what-is-full-stack-development-back-end-front-end-4kil)<!-- TECH-POSTS:END -->
 
 ---
 
