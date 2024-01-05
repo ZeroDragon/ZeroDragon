@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Streamlined Checkout: Easebuzz Simplifies Payment Gateway Integration](https://dev.to/rahulsharma777/streamlined-checkout-easebuzz-simplifies-payment-gateway-integration-152a)
+- [Dev.to/JS] [Sample 1](https://dev.to/princekumardevto/sample-1-52pj)
+- [Dev.to/JS] [SvelteKit journey | Introduction, Routing, Data Loading, Shared Modules](https://dev.to/chillyhill/sveltekit-introduction-routing-data-loading-shared-modules-13en)
+- [Dev.to/JS] [Which Array Function When?](https://dev.to/chandan7dec/which-array-function-when-52m9)
+- [Dev.to/JS] [Java Script 1: Color Mixer](https://dev.to/gregor_schafroth/java-script-1-color-mixer-3jpi)
 - [Dev.to/JS] [Kotlin in the browser](https://dev.to/dchaley/kotlin-in-the-browser-g3f)
 - [Dev.to/JS] [Building a Modular Ecosystem for Code Reusability](https://dev.to/zelcion/meta-system-addons-building-a-modular-ecosystem-for-code-reusability-28ai)
 - [Dev.to/JS] [Smart Cities and IoT Security - How Can Urban Centers Safeguard Against Cyber Threats?](https://dev.to/yagnapandya9/smart-cities-and-iot-security-how-can-urban-centers-safeguard-against-cyber-threats-2nbc)
@@ -33,13 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Develop Web Document Image Viewer, Editor and Converter in JavaScript](https://dev.to/yushulx/how-to-develop-web-document-image-viewer-editor-and-converter-in-javascript-3ooa)
 - [Dev.to/JS] [Polyfills in JS - Interview Questions](https://dev.to/niteshxp/polyfills-in-js-interview-questions-357)
 - [Dev.to/JS] [Level Up Your JS: Constructor Function for Beginners, Explained](https://dev.to/mohammad1105/level-up-your-js-constructor-function-for-beginners-explained-hp2)
-- [Dev.to/JS] [🚀 Elevate your React code modularity with Custom Hooks! 🎣](https://dev.to/gkhan205/elevate-your-react-code-modularity-with-custom-hooks-hjc)
-- [Dev.to/JS] [&quot;Why does it rerender?&quot; - a little utility to help](https://dev.to/latobibor/why-does-it-rerender-a-little-utility-to-help-13h4)
-- [Dev.to/JS] [Do you know Closure in JavaScript ?](https://dev.to/mohammad1105/do-you-know-closure-in-javascript--4j95)
-- [Dev.to/JS] [[JS] What happens when “use strict” is defined](https://dev.to/yutakusuno/js-what-happens-when-use-strict-is-defined-566f)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-5-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-5-2024)
-- [Dev.to/JS] [Implementing debounce in React for efficient delayed search queries](https://dev.to/alexefimenko/implementing-debounce-in-react-for-efficient-delayed-search-queries-4m49)
 - [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
 - [Lifehacker] [The Kindle Scribe Is $70 Off Right Now](https://lifehacker.com/tech/kindle-scribe-e-reader-on-sale)
 - [Lifehacker] [The Best Fitness Goals That Aren&#39;t Weight Loss](https://lifehacker.com/best-fitness-goals-that-are-not-weight-loss)
