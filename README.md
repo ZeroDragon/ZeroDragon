@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing debounce in React for efficient delayed search queries](https://dev.to/alexefimenko/implementing-debounce-in-react-for-efficient-delayed-search-queries-4m49)
+- [Lifehacker] [The Kindle Scribe Is $70 Off Right Now](https://lifehacker.com/tech/kindle-scribe-e-reader-on-sale)
+- [Lifehacker] [The Best Fitness Goals That Aren&#39;t Weight Loss](https://lifehacker.com/best-fitness-goals-that-are-not-weight-loss)
 - [Dev.to/JS] [How to build chat input with Slate and Emoji-Mart](https://dev.to/burak94/how-to-build-chat-input-with-slate-and-emoji-mart-468d)
 - [Lifehacker] [Everything Included in the Latest Pixel Security Update](https://lifehacker.com/tech/january-pixel-security-update)
 - [Lifehacker] [Your Next Windows PC Will Have This Brand-New Key](https://lifehacker.com/tech/new-windows-copilot-key)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Python &amp; OpenAI beginner journey 7 | Bot working &amp; JavaScript for front-end](https://dev.to/gregor_schafroth/python-openai-beginner-journey-7-bot-working-javascript-for-front-end-57f6)
 - [Lifehacker] [The Best Books to Read to Get Your Home Spotless](https://lifehacker.com/home/best-cleaning-books)
 - [Dev.to/JS] [Enter for $1000 Cash for Summer! &lpar;USA&rpar;](https://dev.to/emily73/enter-for-1000-cash-for-summer-usa-3g3m)
-- [Dev.to/JS] [Your Chance to Win an iPhone 15 Pro Max](https://dev.to/luna5656/your-chance-to-win-an-iphone-15-pro-max-i6a)
 - [Lifehacker] [I Figured Out How to Make the TikTok Hot Fondue Pocket Actually Good](https://lifehacker.com/food-drink/tiktok-hot-fondue-pocket-recipe)
 - [Lifehacker] [The Worst House Emergencies That Come Without Warning &lpar;and How to Prepare for Them&rpar;](https://lifehacker.com/home/hidden-house-problems)
 - [Lifehacker] [The Best Time of Year to Contribute to Your IRA](https://lifehacker.com/money/the-best-time-of-year-to-contribute-to-your-ira)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 4, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-4-2024)
 - [Lifehacker] [Five Things You Should Never Store in Your Garage](https://lifehacker.com/home/never-store-these-things-in-your-garage)
 - [Lifehacker] [Tuck Into a Bowl of This French Onion Soup Pasta](https://lifehacker.com/food-drink/french-onion-soup-pasta-recipe)
-- [Lifehacker] [You Can Get Microsoft Office and These Basic Training Courses for $40 Right Now](https://lifehacker.com/tech/microsoft-office-2019-with-training-courses)
-- [Lifehacker] [How to Close the Social Media Accounts of a Dead Relative](https://lifehacker.com/family/how-to-close-someones-social-media-accounts-after-they-die)
-- [Lifehacker] [How to Bring Back the Old Chrome](https://lifehacker.com/tech/how-to-bring-back-the-old-chrome)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Microsoft Office and These Basic Training Courses for $40 Right Now](https://lifehacker.com/tech/microsoft-office-2019-with-training-courses)<!-- TECH-POSTS:END -->
 
 ---
 
