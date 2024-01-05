@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating the Digital Ecosystem: A Comprehensive Guide to API Lifecycle Management](https://dev.to/agiconsolution/navigating-the-digital-ecosystem-a-comprehensive-guide-to-api-lifecycle-management-3o8n)
 - [Dev.to/JS] [Pathway to Triumph: AZ-120 Exam Dumps Explored](https://dev.to/hevobokevin/pathway-to-triumph-az-120-exam-dumps-explored-o15)
 - [Dev.to/JS] [ILLA Flow: A javascript-driven, developer-friendly product for creating automate workflow](https://dev.to/illa/illa-flow-a-javascript-driven-developer-friendly-product-for-creating-automate-workflow-12o4)
 - [Dev.to/JS] [Empowering Tomorrow: The Impactful Role of AI Tools in Modern Solutions](https://dev.to/seomourad/empowering-tomorrow-the-impactful-role-of-ai-tools-in-modern-solutions-d9f)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sample 1](https://dev.to/princekumardevto/sample-1-52pj)
 - [Dev.to/JS] [SvelteKit journey | Introduction, Routing, Data Loading, Shared Modules](https://dev.to/chillyhill/sveltekit-introduction-routing-data-loading-shared-modules-13en)
 - [Dev.to/JS] [Which Array Function When?](https://dev.to/chandan7dec/which-array-function-when-52m9)
-- [Dev.to/JS] [Java Script 1: Color Mixer](https://dev.to/gregor_schafroth/java-script-1-color-mixer-3jpi)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-5-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-5-2024)
 - [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
