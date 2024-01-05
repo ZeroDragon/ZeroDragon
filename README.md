@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [REACT: What exactly is a single-page application?](https://dev.to/yashrai01/reactwhat-is-single-page-application-i1)
 - [Dev.to/JS] [Streamlined Checkout: Easebuzz Simplifies Payment Gateway Integration](https://dev.to/rahulsharma777/streamlined-checkout-easebuzz-simplifies-payment-gateway-integration-152a)
 - [Dev.to/JS] [Sample 1](https://dev.to/princekumardevto/sample-1-52pj)
 - [Dev.to/JS] [SvelteKit journey | Introduction, Routing, Data Loading, Shared Modules](https://dev.to/chillyhill/sveltekit-introduction-routing-data-loading-shared-modules-13en)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Afzal Hosen Mandal on](https://dev.to/afzalqwe/afzal-hosen-mandal-on-2jlk)
 - [Dev.to/JS] [How to Develop Web Document Image Viewer, Editor and Converter in JavaScript](https://dev.to/yushulx/how-to-develop-web-document-image-viewer-editor-and-converter-in-javascript-3ooa)
 - [Dev.to/JS] [Polyfills in JS - Interview Questions](https://dev.to/niteshxp/polyfills-in-js-interview-questions-357)
-- [Dev.to/JS] [Level Up Your JS: Constructor Function for Beginners, Explained](https://dev.to/mohammad1105/level-up-your-js-constructor-function-for-beginners-explained-hp2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-5-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-5-2024)
 - [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
