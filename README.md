@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How I made pagination easy](https://dev.to/anthony_hagi/how-i-made-pagination-easy-22g)
+- [Dev.to/JS] [Fitspresso Reviews &lpar;Stress Reliever SCAM EXPOSED!!&rpar; Warning To All Customers!!!](https://dev.to/vandergrifrank/fitspresso-reviews-stress-reliever-scam-exposed-warning-to-all-customers-4712)
+- [Dev.to/JS] [https://groups.google.com/a/chromium.org/g/telemetry/c/Nr8WFcrwrXM](https://dev.to/ysakhgxa/httpsgroupsgooglecomachromiumorggtelemetrycnr8wfcrwrxm-pop)
+- [Dev.to/JS] [Create a custom cursor](https://dev.to/phuocng/create-a-custom-cursor-2imf)
+- [Dev.to/JS] [Mobile Marketing: Optimizing Strategies for a Mobile-First World](https://dev.to/bytesfarms/mobile-marketing-optimizing-strategies-for-a-mobile-first-world-h94)
+- [Dev.to/JS] [Adheart.me](https://dev.to/wsovn112/adheartme-17ki)
 - [Dev.to/JS] [scriptreel](https://dev.to/rankkmarket/scriptreel-3ge6)
 - [Dev.to/JS] [Latest Newsletter: Another year! &lpar;Issue #148&rpar;](https://dev.to/mjgs/latest-newsletter-another-year-issue-148-31pg)
 - [Dev.to/JS] [Keyboard input in Node.js](https://dev.to/sanjarcode/keyboard-input-in-nodejs-2j93)
@@ -36,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Dev.to/JS] [Open-source planner for Instagram profile grids](https://dev.to/dxlliv/an-open-source-planner-for-instagram-profile-grids-315d)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
-- [Dev.to/JS] [15 Most Watched Frontend Conference Talks In 2023](https://dev.to/techtalksweekly/15-most-watched-frontend-conference-talks-in-2023-194p)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
-- [Dev.to/JS] [JSONCrack Codebase Analysis - Part 4.1 - Editor - Panes Component](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-41-editor-panes-component-26lg)
 - [Lifehacker] [Mark Your Calendar for These Astronomical Events in 2024](https://lifehacker.com/science/astronomy-events-in-2024)
 - [Lifehacker] [These Exercise Bikes Are on Sale for the New Year](https://lifehacker.com/health/exercise-bike-sales-for-the-new-year)
 - [Lifehacker] [What to Do When Your Child Says, &#39;I Wish I Was Dead&#39;](https://lifehacker.com/health/what-to-do-when-your-child-says-i-wish-i-was-dead)
@@ -47,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Two Blink Outdoor Cameras for $72 Right Now](https://lifehacker.com/tech/you-can-get-two-blink-outdoor-cameras-for-more-than-half-off)
 - [Lifehacker] [This Is the Easiest Way to Clean Door Tracks](https://lifehacker.com/home/the-easiest-way-to-clean-door-tracks)
 - [Lifehacker] [Make Your Spotify ‘Playlist in a Bottle’ While You Still Can](https://lifehacker.com/tech/how-to-make-your-spotify-playlist-in-a-bottle)
-- [Dev.to/JS] [Top 5 High Demand Programming Languages in 2024](https://dev.to/jaydeepb21/top-5-highly-sought-after-programming-languages-in-2024-548l)
-- [Dev.to/JS] [videoxq ai](https://dev.to/rankkmarket/videoxq-ai-c1o)
 - [Lifehacker] [Is the Meta Quest 2 Still Worth Buying?](https://lifehacker.com/tech/is-the-meta-quest-2-still-worth-buying)
 - [Lifehacker] [How to Make Your Slippery Stairs Safer](https://lifehacker.com/home/how-to-fix-slippery-stairs)
 - [Lifehacker] [Here&#39;s How Much You Could Save If You Set Aside $5 Every Day](https://lifehacker.com/money/how-much-you-could-save-5-dollars-a-day)
