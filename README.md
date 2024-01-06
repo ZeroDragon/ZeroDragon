@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I made pagination easy](https://dev.to/anthony_hagi/how-i-made-pagination-easy-22g)
+- [Dev.to/JS] [scriptreel](https://dev.to/rankkmarket/scriptreel-3ge6)
+- [Dev.to/JS] [Latest Newsletter: Another year! &lpar;Issue #148&rpar;](https://dev.to/mjgs/latest-newsletter-another-year-issue-148-31pg)
+- [Dev.to/JS] [Keyboard input in Node.js](https://dev.to/sanjarcode/keyboard-input-in-nodejs-2j93)
 - [Dev.to/JS] [Create your own GenAI Image Generator App like MidJourney or DALLE-2](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej)
 - [Dev.to/JS] [TOP 23 Bãi Biển Đà Nẵng Nơi tận hưởng khoảng trời bình yên giữa sóng biển](https://dev.to/dulichfree/top-23-bai-bien-da-nang-noi-tan-huong-khoang-troi-binh-yen-giua-song-bien-2kfi)
 - [Dev.to/JS] [Mungkinkah Judi Online Dilegalkan? Ini Dampak Negatifnya dari Slot Judi Online](https://dev.to/briannalawson/mungkinkah-judi-online-dilegalkan-ini-dampak-negatifnya-dari-slot-judi-online-1e33)
@@ -50,22 +54,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Much You Could Save If You Set Aside $5 Every Day](https://lifehacker.com/money/how-much-you-could-save-5-dollars-a-day)
 - [Lifehacker] [You Have One Week to Download Marvel’s ‘Guardians of the Galaxy’ Game for Free](https://lifehacker.com/entertainment/marvels-guardians-of-the-galaxy-is-free-to-download-right-now)
 - [Lifehacker] [How to Use Smart Tech to Save on Your Light Bill](https://lifehacker.com/tech/lower-lighting-bills-with-smart-tech)
-- [Dev.to/JS] [UrNotes - Simple Task management](https://dev.to/alsiam/urnotes-simple-task-management-13lf)
 - [Lifehacker] [These Are the Best Clipboard Managers for Windows](https://lifehacker.com/tech/best-clipboard-managers-for-windows)
 - [Lifehacker] [Don&#39;t Miss This Deadline for Estimated Quarterly Tax Payments](https://lifehacker.com/money/this-is-the-deadline-for-estimated-quarterly-tax-payments)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &#39;Tunnel Girl&#39;?](https://lifehacker.com/entertainment/who-is-tunnel-girl)
-- [Dev.to/JS] [Why I Personally Decided to Bet on JavaScript](https://dev.to/gabriel-palhares/why-i-personally-decided-to-bet-on-javascript-fm2)
 - [Lifehacker] [Why Your Tap Water Is Cloudy &lpar;and Why It Matters&rpar;](https://lifehacker.com/home/why-your-tap-water-is-cloudy)
 - [Lifehacker] [Why Air Might Get Trapped in Your Pipes &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-release-air-trapped-in-your-pipes)
 - [Lifehacker] [You Can Make Small Batches of Granola in Your Air Fryer](https://lifehacker.com/food-drink/small-batch-air-fryer-granola-recipe)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-5-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-5-2024)
-- [Dev.to/JS] [Implementing debounce in React for efficient delayed search queries](https://dev.to/alexefimenko/implementing-debounce-in-react-for-efficient-delayed-search-queries-4m49)
 - [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
 - [Lifehacker] [The Kindle Scribe Is $70 Off Right Now](https://lifehacker.com/tech/kindle-scribe-e-reader-on-sale)
 - [Lifehacker] [The Best Fitness Goals That Aren&#39;t Weight Loss](https://lifehacker.com/best-fitness-goals-that-are-not-weight-loss)
-- [Lifehacker] [Everything Included in the Latest Pixel Security Update](https://lifehacker.com/tech/january-pixel-security-update)
-- [Lifehacker] [Your Next Windows PC Will Have This Brand-New Key](https://lifehacker.com/tech/new-windows-copilot-key)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything Included in the Latest Pixel Security Update](https://lifehacker.com/tech/january-pixel-security-update)<!-- TECH-POSTS:END -->
 
 ---
 
