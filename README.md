@@ -26,11 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Magic: JavaScript Hidden Classes and Inline Caching in V8](https://dev.to/srinivas_004/unveiling-the-magic-javascript-hidden-classes-and-inline-caching-in-v8-1j48)
 - [Dev.to/JS] [Syncing Across Tabs: The JavaScript Magic You Didn&#39;t Know Existed!](https://dev.to/bhumit070/syncing-across-tabs-the-javascript-magic-you-didnt-know-existed-a84)
 - [Dev.to/JS] [Synergex 7 Reviews - Ingredients Its Really Work! Must Read Before Buying!](https://dev.to/synergex7reviews/synergex-7-reviews-ingredients-its-really-work-must-read-before-buying-4aji)
 - [Dev.to/JS] [Java Command Line Arguments](https://dev.to/manojsharmajtp2/java-command-line-arguments-2mca)
-- [Dev.to/JS] [Fitspresso Reviews &lpar;Stress Reliever SCAM EXPOSED!!&rpar; Warning To All Customers!!!](https://dev.to/vandergrifrank/fitspresso-reviews-stress-reliever-scam-exposed-warning-to-all-customers-4712)
-- [Dev.to/JS] [https://groups.google.com/a/chromium.org/g/telemetry/c/Nr8WFcrwrXM](https://dev.to/ysakhgxa/httpsgroupsgooglecomachromiumorggtelemetrycnr8wfcrwrxm-pop)
 - [Dev.to/JS] [Mobile Marketing: Optimizing Strategies for a Mobile-First World](https://dev.to/bytesfarms/mobile-marketing-optimizing-strategies-for-a-mobile-first-world-h94)
 - [Dev.to/JS] [Adheart.me](https://dev.to/wsovn112/adheartme-17ki)
 - [Dev.to/JS] [scriptreel](https://dev.to/rankkmarket/scriptreel-3ge6)
@@ -38,6 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Keyboard input in Node.js](https://dev.to/sanjarcode/keyboard-input-in-nodejs-2j93)
 - [Dev.to/JS] [Create your own GenAI Image Generator App like MidJourney or DALLE-2](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej)
 - [Dev.to/JS] [How to Create a Typewriter Effect with HTML, CSS, and JS: A Step-by-Step Guide](https://dev.to/topefasasi/how-to-create-a-typewriter-effect-with-html-css-and-js-a-step-by-step-guide-1f99)
+- [Dev.to/JS] [TOP 23 Bãi Biển Đà Nẵng Nơi tận hưởng khoảng trời bình yên giữa sóng biển](https://dev.to/dulichfree/top-23-bai-bien-da-nang-noi-tan-huong-khoang-troi-binh-yen-giua-song-bien-2kfi)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
