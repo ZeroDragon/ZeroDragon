@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mungkinkah Judi Online Dilegalkan? Ini Dampak Negatifnya dari Slot Judi Online](https://dev.to/briannalawson/mungkinkah-judi-online-dilegalkan-ini-dampak-negatifnya-dari-slot-judi-online-1e33)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Dev.to/JS] [Open-source planner for Instagram profile grids](https://dev.to/dxlliv/an-open-source-planner-for-instagram-profile-grids-315d)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
 - [Dev.to/JS] [15 Most Watched Frontend Conference Talks In 2023](https://dev.to/techtalksweekly/15-most-watched-frontend-conference-talks-in-2023-194p)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
 - [Dev.to/JS] [JSONCrack Codebase Analysis - Part 4.1 - Editor - Panes Component](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-41-editor-panes-component-26lg)
@@ -49,6 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Clipboard Managers for Windows](https://lifehacker.com/tech/best-clipboard-managers-for-windows)
 - [Lifehacker] [Don&#39;t Miss This Deadline for Estimated Quarterly Tax Payments](https://lifehacker.com/money/this-is-the-deadline-for-estimated-quarterly-tax-payments)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &#39;Tunnel Girl&#39;?](https://lifehacker.com/entertainment/who-is-tunnel-girl)
+- [Dev.to/JS] [Why I Personally Decided to Bet on JavaScript](https://dev.to/gabriel-palhares/why-i-personally-decided-to-bet-on-javascript-fm2)
 - [Lifehacker] [Why Your Tap Water Is Cloudy &lpar;and Why It Matters&rpar;](https://lifehacker.com/home/why-your-tap-water-is-cloudy)
 - [Lifehacker] [Why Air Might Get Trapped in Your Pipes &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-release-air-trapped-in-your-pipes)
 - [Lifehacker] [You Can Make Small Batches of Granola in Your Air Fryer](https://lifehacker.com/food-drink/small-batch-air-fryer-granola-recipe)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything Included in the Latest Pixel Security Update](https://lifehacker.com/tech/january-pixel-security-update)
 - [Lifehacker] [Your Next Windows PC Will Have This Brand-New Key](https://lifehacker.com/tech/new-windows-copilot-key)
 - [Lifehacker] [You Should Be Cleaning Your Toilet Tank &lpar;and How to Do It Right&rpar;](https://lifehacker.com/home/you-should-be-cleaning-your-toilet-tank)
-- [Lifehacker] [The Best Way to Clean a Microwave](https://lifehacker.com/home/how-to-clean-a-microwave)
-- [Lifehacker] [Why &#39;75 Hard&#39; Is the Worst New Fitness Trend](https://lifehacker.com/health/why-75-hard-is-the-worst-new-fitness-trend)
-- [Lifehacker] [The Best Way to Clean a Keyboard &lpar;If You Don’t Have Compressed Air&rpar;](https://lifehacker.com/home/best-way-to-clean-a-dirty-keyboard)
-- [Lifehacker] [Google Is Finally Saying Goodbye to Cookies](https://lifehacker.com/tech/google-is-getting-rid-of-cookies)
-- [Lifehacker] [The Best Books to Read to Get Your Home Spotless](https://lifehacker.com/home/best-cleaning-books)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Clean a Microwave](https://lifehacker.com/home/how-to-clean-a-microwave)<!-- TECH-POSTS:END -->
 
 ---
 
