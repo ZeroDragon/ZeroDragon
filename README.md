@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open-source planner for Instagram profile grids](https://dev.to/dxlliv/an-open-source-planner-for-instagram-profile-grids-315d)
 - [Dev.to/JS] [15 Most Watched Frontend Conference Talks In 2023](https://dev.to/techtalksweekly/15-most-watched-frontend-conference-talks-in-2023-194p)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
 - [Dev.to/JS] [JSONCrack Codebase Analysis - Part 4.1 - Editor - Panes Component](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-41-editor-panes-component-26lg)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why &#39;75 Hard&#39; Is the Worst New Fitness Trend](https://lifehacker.com/health/why-75-hard-is-the-worst-new-fitness-trend)
 - [Lifehacker] [The Best Way to Clean a Keyboard &lpar;If You Don’t Have Compressed Air&rpar;](https://lifehacker.com/home/best-way-to-clean-a-dirty-keyboard)
 - [Lifehacker] [Google Is Finally Saying Goodbye to Cookies](https://lifehacker.com/tech/google-is-getting-rid-of-cookies)
-- [Lifehacker] [The Best Books to Read to Get Your Home Spotless](https://lifehacker.com/home/best-cleaning-books)
-- [Lifehacker] [I Figured Out How to Make the TikTok Hot Fondue Pocket Actually Good](https://lifehacker.com/food-drink/tiktok-hot-fondue-pocket-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Books to Read to Get Your Home Spotless](https://lifehacker.com/home/best-cleaning-books)<!-- TECH-POSTS:END -->
 
 ---
 
