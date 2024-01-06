@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TOP 23 Bãi Biển Đà Nẵng Nơi tận hưởng khoảng trời bình yên giữa sóng biển](https://dev.to/dulichfree/top-23-bai-bien-da-nang-noi-tan-huong-khoang-troi-binh-yen-giua-song-bien-2kfi)
 - [Dev.to/JS] [Mungkinkah Judi Online Dilegalkan? Ini Dampak Negatifnya dari Slot Judi Online](https://dev.to/briannalawson/mungkinkah-judi-online-dilegalkan-ini-dampak-negatifnya-dari-slot-judi-online-1e33)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Dev.to/JS] [Open-source planner for Instagram profile grids](https://dev.to/dxlliv/an-open-source-planner-for-instagram-profile-grids-315d)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Fitness Goals That Aren&#39;t Weight Loss](https://lifehacker.com/best-fitness-goals-that-are-not-weight-loss)
 - [Lifehacker] [Everything Included in the Latest Pixel Security Update](https://lifehacker.com/tech/january-pixel-security-update)
 - [Lifehacker] [Your Next Windows PC Will Have This Brand-New Key](https://lifehacker.com/tech/new-windows-copilot-key)
-- [Lifehacker] [You Should Be Cleaning Your Toilet Tank &lpar;and How to Do It Right&rpar;](https://lifehacker.com/home/you-should-be-cleaning-your-toilet-tank)
-- [Lifehacker] [The Best Way to Clean a Microwave](https://lifehacker.com/home/how-to-clean-a-microwave)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Be Cleaning Your Toilet Tank &lpar;and How to Do It Right&rpar;](https://lifehacker.com/home/you-should-be-cleaning-your-toilet-tank)<!-- TECH-POSTS:END -->
 
 ---
 
