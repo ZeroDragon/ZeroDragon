@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Understanding React Routing Using React Router](https://dev.to/iankcode/understanding-react-routing-using-react-router-19dk)
 - [Dev.to/JS] [15 Most Watched Frontend Conference Talks In 2023](https://dev.to/techtalksweekly/15-most-watched-frontend-conference-talks-in-2023-194p)
+- [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
 - [Dev.to/JS] [JSONCrack Codebase Analysis - Part 4.1 - Editor - Panes Component](https://dev.to/tthroo/jsoncrack-codebase-analysis-part-41-editor-panes-component-26lg)
+- [Lifehacker] [Mark Your Calendar for These Astronomical Events in 2024](https://lifehacker.com/science/astronomy-events-in-2024)
+- [Lifehacker] [These Exercise Bikes Are on Sale for the New Year](https://lifehacker.com/health/exercise-bike-sales-for-the-new-year)
+- [Lifehacker] [What to Do When Your Child Says, &#39;I Wish I Was Dead&#39;](https://lifehacker.com/health/what-to-do-when-your-child-says-i-wish-i-was-dead)
 - [Lifehacker] [How to Become a Person Who Cleans](https://lifehacker.com/home/how-to-find-the-motivation-to-clean)
 - [Lifehacker] [Make a Big Batch of Glögg to Last the Winter](https://lifehacker.com/food-drink/easy-glogg-recipe)
 - [Lifehacker] [You Can Get Two Blink Outdoor Cameras for $72 Right Now](https://lifehacker.com/tech/you-can-get-two-blink-outdoor-cameras-for-more-than-half-off)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Clean a Keyboard &lpar;If You Don’t Have Compressed Air&rpar;](https://lifehacker.com/home/best-way-to-clean-a-dirty-keyboard)
 - [Lifehacker] [Google Is Finally Saying Goodbye to Cookies](https://lifehacker.com/tech/google-is-getting-rid-of-cookies)
 - [Lifehacker] [The Best Books to Read to Get Your Home Spotless](https://lifehacker.com/home/best-cleaning-books)
-- [Lifehacker] [I Figured Out How to Make the TikTok Hot Fondue Pocket Actually Good](https://lifehacker.com/food-drink/tiktok-hot-fondue-pocket-recipe)
-- [Lifehacker] [The Worst House Emergencies That Come Without Warning &lpar;and How to Prepare for Them&rpar;](https://lifehacker.com/home/hidden-house-problems)
-- [Lifehacker] [The Best Time of Year to Contribute to Your IRA](https://lifehacker.com/money/the-best-time-of-year-to-contribute-to-your-ira)
-- [Lifehacker] [Retirement Planning Is Changing in 2024](https://lifehacker.com/money/new-retirement-plan-changes)<!-- TECH-POSTS:END -->
+- [Lifehacker] [I Figured Out How to Make the TikTok Hot Fondue Pocket Actually Good](https://lifehacker.com/food-drink/tiktok-hot-fondue-pocket-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
