@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/elmermccarthy15/buy-verified-cash-app-account-57of)
+- [Dev.to/JS] [There&#39;s a little secret I would like to tell you](https://dev.to/ooosys/theres-a-little-secreti-would-like-to-tell-you-44kc)
+- [Dev.to/JS] [droptrends](https://dev.to/rankkmarket/droptrends-3nln)
 - [Dev.to/JS] [Solitaire Clash Unleashed: Elevating Online Card Play with Multiplayer Mastery](https://dev.to/hanava/solitaire-clash-unleashed-elevating-online-card-play-with-multiplayer-mastery-44ji)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mobile Marketing: Optimizing Strategies for a Mobile-First World](https://dev.to/bytesfarms/mobile-marketing-optimizing-strategies-for-a-mobile-first-world-h94)
 - [Dev.to/JS] [Adheart.me](https://dev.to/wsovn112/adheartme-17ki)
 - [Dev.to/JS] [scriptreel](https://dev.to/rankkmarket/scriptreel-3ge6)
-- [Dev.to/JS] [Latest Newsletter: Another year! &lpar;Issue #148&rpar;](https://dev.to/mjgs/latest-newsletter-another-year-issue-148-31pg)
-- [Dev.to/JS] [Keyboard input in Node.js](https://dev.to/sanjarcode/keyboard-input-in-nodejs-2j93)
-- [Dev.to/JS] [Create your own GenAI Image Generator App like MidJourney or DALLE-2](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
