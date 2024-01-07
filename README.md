@@ -26,7 +26,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Scraping Data from Websites using JavaScript: A Beginner&#39;s Guide](https://dev.to/redheadphone/scraping-data-from-websites-using-javascript-a-beginners-guide-1f1)
 - [Dev.to/JS] [Currently I am using React 18, Vite](https://dev.to/zad07an/currently-i-am-using-vite-react-18-vite-4jcg)
 - [Dev.to/JS] [wp script](https://dev.to/rankkmarket/wp-script-5el3)
 - [Dev.to/JS] [Chính sách bảo mật – Thông tin về chính sách bảo mật tại Jun88](https://dev.to/jun88delivery/chinh-sach-bao-mat-thong-tin-ve-chinh-sach-bao-mat-tai-jun88-n2f)
@@ -34,6 +33,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Basic Array Methods In JavaScript.](https://dev.to/codewithsharma/basic-array-methods-in-javascript-23mg)
 - [Dev.to/JS] [rebuilding a big project](https://dev.to/jessehoekema/rebuilding-a-big-project-1l0p)
 - [Dev.to/JS] [The NeRF Phenomenon: XR’s Ultimate Game-Changer](https://dev.to/ecaterinateodo3/the-nerf-phenomenon-xrs-ultimate-game-changer-17in)
+- [Dev.to/JS] [Converting a string to Base64 manually](https://dev.to/vvkkumar06/converting-a-string-to-base64-manually-4ln2)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/elmermccarthy15/buy-google-voice-accounts-15e6)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/elmermccarthy15/buy-google-5-star-reviews-cg8)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/elmermccarthy15/buy-verified-cash-app-account-57of)
