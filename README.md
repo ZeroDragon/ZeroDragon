@@ -27,8 +27,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Solitaire Clash Unleashed: Elevating Online Card Play with Multiplayer Mastery](https://dev.to/hanava/solitaire-clash-unleashed-elevating-online-card-play-with-multiplayer-mastery-44ji)
-- [Dev.to/JS] [Scrimba Solo Project - Restaurant Ordering App &lpar;Part 2&rpar;](https://dev.to/anderutan/scrimba-solo-project-restaurant-ordering-app-part-2-1hej)
-- [Dev.to/JS] [Soft Skills for Programmers: Regard your employer as a client for your entrepreneurial venture](https://dev.to/better567/soft-skills-for-programmers-regard-your-employer-as-a-client-for-your-entrepreneurial-venture-130e)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
 - [Dev.to/JS] [🛠️ Technical Insight into Bookings Manager app](https://dev.to/ricardogesteves/technical-insight-into-bookings-manager-app-32h4)
 - [Dev.to/JS] [Unveiling the Magic: JavaScript Hidden Classes and Inline Caching in V8](https://dev.to/srinivas_004/unveiling-the-magic-javascript-hidden-classes-and-inline-caching-in-v8-1j48)
 - [Dev.to/JS] [Syncing Across Tabs: The JavaScript Magic You Didn&#39;t Know Existed!](https://dev.to/bhumit070/syncing-across-tabs-the-javascript-magic-you-didnt-know-existed-a84)
@@ -38,6 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adheart.me](https://dev.to/wsovn112/adheartme-17ki)
 - [Dev.to/JS] [scriptreel](https://dev.to/rankkmarket/scriptreel-3ge6)
 - [Dev.to/JS] [Latest Newsletter: Another year! &lpar;Issue #148&rpar;](https://dev.to/mjgs/latest-newsletter-another-year-issue-148-31pg)
+- [Dev.to/JS] [Keyboard input in Node.js](https://dev.to/sanjarcode/keyboard-input-in-nodejs-2j93)
+- [Dev.to/JS] [Create your own GenAI Image Generator App like MidJourney or DALLE-2](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-5-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-5-2024)
 - [Lifehacker] [The Best Songs, Movies, and Books Entering the Public Domain in 2024 &lpar;That Aren’t ‘Steamboat Willie’&rpar;](https://lifehacker.com/entertainment/steamboat-willie-and-other-works-entering-the-public-domain-in-2024)
-- [Lifehacker] [The Kindle Scribe Is $70 Off Right Now](https://lifehacker.com/tech/kindle-scribe-e-reader-on-sale)
-- [Lifehacker] [The Best Fitness Goals That Aren&#39;t Weight Loss](https://lifehacker.com/best-fitness-goals-that-are-not-weight-loss)
-- [Lifehacker] [Everything Included in the Latest Pixel Security Update](https://lifehacker.com/tech/january-pixel-security-update)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Kindle Scribe Is $70 Off Right Now](https://lifehacker.com/tech/kindle-scribe-e-reader-on-sale)<!-- TECH-POSTS:END -->
 
 ---
 
