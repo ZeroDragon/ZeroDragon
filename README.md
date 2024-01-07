@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solitaire Clash Unleashed: Elevating Online Card Play with Multiplayer Mastery](https://dev.to/hanava/solitaire-clash-unleashed-elevating-online-card-play-with-multiplayer-mastery-44ji)
+- [Dev.to/JS] [Scrimba Solo Project - Restaurant Ordering App &lpar;Part 2&rpar;](https://dev.to/anderutan/scrimba-solo-project-restaurant-ordering-app-part-2-1hej)
+- [Dev.to/JS] [Soft Skills for Programmers: Regard your employer as a client for your entrepreneurial venture](https://dev.to/better567/soft-skills-for-programmers-regard-your-employer-as-a-client-for-your-entrepreneurial-venture-130e)
 - [Dev.to/JS] [🛠️ Technical Insight into Bookings Manager app](https://dev.to/ricardogesteves/technical-insight-into-bookings-manager-app-32h4)
 - [Dev.to/JS] [Unveiling the Magic: JavaScript Hidden Classes and Inline Caching in V8](https://dev.to/srinivas_004/unveiling-the-magic-javascript-hidden-classes-and-inline-caching-in-v8-1j48)
 - [Dev.to/JS] [Syncing Across Tabs: The JavaScript Magic You Didn&#39;t Know Existed!](https://dev.to/bhumit070/syncing-across-tabs-the-javascript-magic-you-didnt-know-existed-a84)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adheart.me](https://dev.to/wsovn112/adheartme-17ki)
 - [Dev.to/JS] [scriptreel](https://dev.to/rankkmarket/scriptreel-3ge6)
 - [Dev.to/JS] [Latest Newsletter: Another year! &lpar;Issue #148&rpar;](https://dev.to/mjgs/latest-newsletter-another-year-issue-148-31pg)
-- [Dev.to/JS] [Keyboard input in Node.js](https://dev.to/sanjarcode/keyboard-input-in-nodejs-2j93)
-- [Dev.to/JS] [Create your own GenAI Image Generator App like MidJourney or DALLE-2](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej)
-- [Dev.to/JS] [How to Create a Typewriter Effect with HTML, CSS, and JS: A Step-by-Step Guide](https://dev.to/topefasasi/how-to-create-a-typewriter-effect-with-html-css-and-js-a-step-by-step-guide-1f99)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
