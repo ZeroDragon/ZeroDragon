@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [🟨 JavaScript 3 | **Simple Counter**](https://dev.to/gregor_schafroth/javascript-3-simple-counter-4lkd)
+- [Dev.to/JS] [AfterLib](https://dev.to/wsovn112/afterlib-g8o)
+- [Dev.to/JS] [Basic Array Methods In JavaScript.](https://dev.to/codewithsharma/basic-array-methods-in-javascript-23mg)
 - [Dev.to/JS] [rebuilding a big project](https://dev.to/jessehoekema/rebuilding-a-big-project-1l0p)
 - [Dev.to/JS] [The NeRF Phenomenon: XR’s Ultimate Game-Changer](https://dev.to/ecaterinateodo3/the-nerf-phenomenon-xrs-ultimate-game-changer-17in)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/elmermccarthy15/buy-google-voice-accounts-15e6)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
 - [Dev.to/JS] [🛠️ Technical Insight into Bookings Manager app](https://dev.to/ricardogesteves/technical-insight-into-bookings-manager-app-32h4)
 - [Dev.to/JS] [Unveiling the Magic: JavaScript Hidden Classes and Inline Caching in V8](https://dev.to/srinivas_004/unveiling-the-magic-javascript-hidden-classes-and-inline-caching-in-v8-1j48)
-- [Dev.to/JS] [Syncing Across Tabs: The JavaScript Magic You Didn&#39;t Know Existed!](https://dev.to/bhumit070/syncing-across-tabs-the-javascript-magic-you-didnt-know-existed-a84)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
