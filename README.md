@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chimp Rewriter](https://dev.to/rankkmarket/chimp-rewriter-j2m)
+- [Dev.to/JS] [10 rules to help you write cleaner js code](https://dev.to/melvinvmegen/10-rules-to-help-you-write-cleaner-js-code-411c)
 - [Dev.to/JS] [Funções em JavaScript: Array.filter&lpar;&rpar;](https://dev.to/lucasgabriel/funcoes-em-javascript-arrayfilter-24p8)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/gerardtanner281/buy-verified-cash-app-account-n4f)
 - [Dev.to/JS] [Currently I am using React 18, Vite](https://dev.to/zad07an/currently-i-am-using-vite-react-18-vite-4jcg)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [rebuilding a big project](https://dev.to/jessehoekema/rebuilding-a-big-project-1l0p)
 - [Dev.to/JS] [The NeRF Phenomenon: XR’s Ultimate Game-Changer](https://dev.to/ecaterinateodo3/the-nerf-phenomenon-xrs-ultimate-game-changer-17in)
 - [Dev.to/JS] [Converting a string to Base64 manually](https://dev.to/vvkkumar06/converting-a-string-to-base64-manually-4ln2)
-- [Dev.to/JS] [There&#39;s a little secret I would like to tell you](https://dev.to/ooosys/theres-a-little-secreti-would-like-to-tell-you-44kc)
-- [Dev.to/JS] [droptrends](https://dev.to/rankkmarket/droptrends-3nln)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
