@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup rollup for React Library project - 2024](https://dev.to/vvkkumar06/setup-rollup-for-react-library-project-2024-3jea)
 - [Dev.to/JS] [Currently I am using React 18, Vite](https://dev.to/zad07an/currently-i-am-using-vite-react-18-vite-4jcg)
 - [Dev.to/JS] [wp script](https://dev.to/rankkmarket/wp-script-5el3)
 - [Dev.to/JS] [Chính sách bảo mật – Thông tin về chính sách bảo mật tại Jun88](https://dev.to/jun88delivery/chinh-sach-bao-mat-thong-tin-ve-chinh-sach-bao-mat-tai-jun88-n2f)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solitaire Clash Unleashed: Elevating Online Card Play with Multiplayer Mastery](https://dev.to/hanava/solitaire-clash-unleashed-elevating-online-card-play-with-multiplayer-mastery-44ji)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
-- [Dev.to/JS] [🛠️ Technical Insight into Bookings Manager app](https://dev.to/ricardogesteves/technical-insight-into-bookings-manager-app-32h4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
