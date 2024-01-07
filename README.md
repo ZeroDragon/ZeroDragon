@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Currently I am using React 18, Vite](https://dev.to/zad07an/currently-i-am-using-vite-react-18-vite-4jcg)
+- [Dev.to/JS] [Devops learning complete Guide &lpar;1&rpar;](https://dev.to/surajvast/devops-learning-complete-guide-1-4l6m)
+- [Dev.to/JS] [wp script](https://dev.to/rankkmarket/wp-script-5el3)
+- [Dev.to/JS] [Chính sách bảo mật – Thông tin về chính sách bảo mật tại Jun88](https://dev.to/jun88delivery/chinh-sach-bao-mat-thong-tin-ve-chinh-sach-bao-mat-tai-jun88-n2f)
 - [Dev.to/JS] [AfterLib](https://dev.to/wsovn112/afterlib-g8o)
 - [Dev.to/JS] [Basic Array Methods In JavaScript.](https://dev.to/codewithsharma/basic-array-methods-in-javascript-23mg)
 - [Dev.to/JS] [rebuilding a big project](https://dev.to/jessehoekema/rebuilding-a-big-project-1l0p)
@@ -34,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/elmermccarthy15/buy-google-5-star-reviews-cg8)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/elmermccarthy15/buy-verified-cash-app-account-57of)
 - [Dev.to/JS] [There&#39;s a little secret I would like to tell you](https://dev.to/ooosys/theres-a-little-secreti-would-like-to-tell-you-44kc)
-- [Dev.to/JS] [droptrends](https://dev.to/rankkmarket/droptrends-3nln)
-- [Dev.to/JS] [Solitaire Clash Unleashed: Elevating Online Card Play with Multiplayer Mastery](https://dev.to/hanava/solitaire-clash-unleashed-elevating-online-card-play-with-multiplayer-mastery-44ji)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
-- [Dev.to/JS] [🛠️ Technical Insight into Bookings Manager app](https://dev.to/ricardogesteves/technical-insight-into-bookings-manager-app-32h4)
-- [Dev.to/JS] [Unveiling the Magic: JavaScript Hidden Classes and Inline Caching in V8](https://dev.to/srinivas_004/unveiling-the-magic-javascript-hidden-classes-and-inline-caching-in-v8-1j48)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
