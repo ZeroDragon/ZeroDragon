@@ -26,8 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scraping Data from Websites using JavaScript: A Beginner&#39;s Guide](https://dev.to/redheadphone/scraping-data-from-websites-using-javascript-a-beginners-guide-1f1)
 - [Dev.to/JS] [Currently I am using React 18, Vite](https://dev.to/zad07an/currently-i-am-using-vite-react-18-vite-4jcg)
-- [Dev.to/JS] [Devops learning complete Guide &lpar;1&rpar;](https://dev.to/surajvast/devops-learning-complete-guide-1-4l6m)
 - [Dev.to/JS] [wp script](https://dev.to/rankkmarket/wp-script-5el3)
 - [Dev.to/JS] [Chính sách bảo mật – Thông tin về chính sách bảo mật tại Jun88](https://dev.to/jun88delivery/chinh-sach-bao-mat-thong-tin-ve-chinh-sach-bao-mat-tai-jun88-n2f)
 - [Dev.to/JS] [AfterLib](https://dev.to/wsovn112/afterlib-g8o)
