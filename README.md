@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [TypeScript: A teaser for curious JS devs](https://dev.to/idadelveloper/typescript-a-teaser-for-curious-js-devs-1ndk)
+- [Dev.to/JS] [HOW CAN I CONTACT A LEGIT CRYPTOCURRENCY RECOVERY COMPANY - OMEGA CRYPTO RECOVERY SPECIALIST](https://dev.to/bradben2/how-can-i-contact-a-legit-cryptocurrency-recovery-company-omega-crypto-recovery-specialist-369f)
 - [Dev.to/JS] [&lt;script&gt; | HTML Element](https://dev.to/vishwa_9/-html-element-579a)
 - [Dev.to/JS] [Chimp Rewriter](https://dev.to/rankkmarket/chimp-rewriter-j2m)
 - [Dev.to/JS] [10 rules to help you write cleaner js code](https://dev.to/melvinvmegen/10-rules-to-help-you-write-cleaner-js-code-411c)
