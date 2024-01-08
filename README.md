@@ -26,9 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Mastering React&#39;s `useEffect` Hook](https://dev.to/hriztam/mastering-reacts-useeffect-hook-179a)
+- [Dev.to/JS] [Latest Release: React Image Grid Gallery v2](https://dev.to/oluwatobiss/latest-release-react-image-grid-gallery-v2-1nej)
+- [Dev.to/JS] [How to safely use dangerouslySetInnerHTML in React](https://dev.to/alakkadshaw/how-to-safely-use-dangerouslysetinnerhtml-in-react-57l1)
+- [Lifehacker] [CES 2024: LG Announces Its ‘Disappearing’ Transparent OLED TV](https://lifehacker.com/tech/lg-unveils-its-transparent-oled-tv-at-ces2024)
+- [Dev.to/JS] [woolentor pro](https://dev.to/rankkmarket/woolentor-pro-14f8)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/victorgalvan3676/buy-google-5-star-reviews-icn)
+- [Lifehacker] [The Google Pixel Watch LTE Is Half Off Right Now](https://lifehacker.com/tech/google-pixel-watch-lte-on-sale)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/victorgalvan3676/buy-verified-cash-app-account-4nn2)
 - [Dev.to/JS] [Styled-components: Friend or foe?](https://dev.to/miasalazar/styled-components-friend-or-foe-1k53)
+- [Lifehacker] [Do You Spend Money Like a DINK or a HENRY?](https://lifehacker.com/money/what-is-a-dink-or-a-henry)
 - [Dev.to/JS] [Ali Insider](https://dev.to/wsovn112/ali-insider-3o0j)
 - [Dev.to/JS] [Program in Javascript like a Pro](https://dev.to/miasalazar/program-in-javascript-like-a-pro-m83)
 - [Lifehacker] [How to Delete an Entire Page in Microsoft Word](https://lifehacker.com/tech/how-to-delete-a-page-in-word)
@@ -42,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to become a pro-level developer by working on simple projects.](https://dev.to/arize99/how-to-become-a-pro-level-developer-by-working-on-simple-projects-4k16)
 - [Lifehacker] [Wayfair, Macy&#39;s, and Other Retailers Are Charging Return Fees in 2024](https://lifehacker.com/money/stores-charging-return-fees)
 - [Dev.to/JS] [puzzle book mastery](https://dev.to/rankkmarket/puzzle-book-mastery-12ef)
-- [Dev.to/JS] [Creating an Engaging GitHub Profile: A Step-by-Step Guide](https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl)
-- [Dev.to/JS] [Top Selenium Frameworks](https://dev.to/software1233/top-selenium-frameworks-2oak)
-- [Dev.to/JS] [Top 10 Repos for Open Source Food Delivery Apps](https://dev.to/abbas_ninjascode/top-10-repos-for-open-source-food-delivery-apps-51ok)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Your Spotify ‘Playlist in a Bottle’ While You Still Can](https://lifehacker.com/tech/how-to-make-your-spotify-playlist-in-a-bottle)
 - [Lifehacker] [Is the Meta Quest 2 Still Worth Buying?](https://lifehacker.com/tech/is-the-meta-quest-2-still-worth-buying)
 - [Lifehacker] [How to Make Your Slippery Stairs Safer](https://lifehacker.com/home/how-to-fix-slippery-stairs)
-- [Lifehacker] [Here&#39;s How Much You Could Save If You Set Aside $5 Every Day](https://lifehacker.com/money/how-much-you-could-save-5-dollars-a-day)
-- [Lifehacker] [You Have One Week to Download Marvel’s ‘Guardians of the Galaxy’ Game for Free](https://lifehacker.com/entertainment/marvels-guardians-of-the-galaxy-is-free-to-download-right-now)
-- [Lifehacker] [How to Use Smart Tech to Save on Your Light Bill](https://lifehacker.com/tech/lower-lighting-bills-with-smart-tech)
-- [Lifehacker] [These Are the Best Clipboard Managers for Windows](https://lifehacker.com/tech/best-clipboard-managers-for-windows)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How Much You Could Save If You Set Aside $5 Every Day](https://lifehacker.com/money/how-much-you-could-save-5-dollars-a-day)<!-- TECH-POSTS:END -->
 
 ---
 
