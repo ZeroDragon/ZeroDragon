@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Vite Vs Create React App &quot;CRA&quot;](https://dev.to/nada2react/vite-vs-create-react-app-cra-5ghh)
+- [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)
+- [Lifehacker] [You Might Be Getting Money From Apple&#39;s &#39;Batterygate&#39; Lawsuit Soon](https://lifehacker.com/tech/apple-batterygate-class-action-lawsuit-settlement-payments)
+- [Lifehacker] [How to Rid Your Home of Toxic Radon](https://lifehacker.com/how-to-rid-your-home-of-toxic-radon)
+- [Lifehacker] [You Can Get &#39;VPN Unlimited&#39; on Sale for $70 Right Now](https://lifehacker.com/tech/vpn-unlimited-subscription-sale)
 - [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free)
 - [Lifehacker] [CES 2024: This Is the Best Audio Gear We Spotted](https://lifehacker.com/tech/the-best-audio-gear-spotted-at-ces-2024)
 - [Dev.to/JS] [TF #29 | Your frontend digest](https://dev.to/tech-foutraque/tf-29-your-frontend-digest-67p)
@@ -52,6 +55,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can You Make a New House Key From a Photograph?](https://lifehacker.com/home/make-house-key-from-photograph)
 - [Dev.to/JS] [How to become a pro-level developer by working on simple projects.](https://dev.to/arize99/how-to-become-a-pro-level-developer-by-working-on-simple-projects-4k16)
 - [Lifehacker] [Wayfair, Macy&#39;s, and Other Retailers Are Charging Return Fees in 2024](https://lifehacker.com/money/stores-charging-return-fees)
+- [Dev.to/JS] [puzzle book mastery](https://dev.to/rankkmarket/puzzle-book-mastery-12ef)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
 - [Lifehacker] [Mark Your Calendar for These Astronomical Events in 2024](https://lifehacker.com/science/astronomy-events-in-2024)
 - [Lifehacker] [These Exercise Bikes Are on Sale for the New Year](https://lifehacker.com/health/exercise-bike-sales-for-the-new-year)
-- [Lifehacker] [What to Do When Your Child Says, &#39;I Wish I Was Dead&#39;](https://lifehacker.com/health/what-to-do-when-your-child-says-i-wish-i-was-dead)
-- [Lifehacker] [How to Become a Person Who Cleans](https://lifehacker.com/home/how-to-find-the-motivation-to-clean)
-- [Lifehacker] [Make a Big Batch of Glögg to Last the Winter](https://lifehacker.com/food-drink/easy-glogg-recipe)
-- [Lifehacker] [You Can Get Two Blink Outdoor Cameras for $72 Right Now](https://lifehacker.com/tech/you-can-get-two-blink-outdoor-cameras-for-more-than-half-off)
-- [Lifehacker] [This Is the Easiest Way to Clean Door Tracks](https://lifehacker.com/home/the-easiest-way-to-clean-door-tracks)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When Your Child Says, &#39;I Wish I Was Dead&#39;](https://lifehacker.com/health/what-to-do-when-your-child-says-i-wish-i-was-dead)<!-- TECH-POSTS:END -->
 
 ---
 
