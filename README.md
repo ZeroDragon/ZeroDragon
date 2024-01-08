@@ -26,8 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Latest Release: React Image Grid Gallery v2](https://dev.to/oluwatobiss/latest-release-react-image-grid-gallery-v2-1nej)
-- [Dev.to/JS] [How to safely use dangerouslySetInnerHTML in React](https://dev.to/alakkadshaw/how-to-safely-use-dangerouslysetinnerhtml-in-react-57l1)
+- [Dev.to/JS] [TF #29 | Your frontend digest](https://dev.to/tech-foutraque/tf-29-your-frontend-digest-67p)
+- [Dev.to/JS] [High Order Function !== Closure](https://dev.to/heres/high-order-function-closures-29d8)
+- [Lifehacker] [&#39;Clicks&#39; Is an iPhone Keyboard Case With Physical Buttons](https://lifehacker.com/tech/clicks-iphone-keyboard-case)
 - [Lifehacker] [CES 2024: LG Announces Its ‘Disappearing’ Transparent OLED TV](https://lifehacker.com/tech/lg-unveils-its-transparent-oled-tv-at-ces2024)
 - [Dev.to/JS] [woolentor pro](https://dev.to/rankkmarket/woolentor-pro-14f8)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/victorgalvan3676/buy-google-5-star-reviews-icn)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Easiest Way to Clean Door Tracks](https://lifehacker.com/home/the-easiest-way-to-clean-door-tracks)
 - [Lifehacker] [Make Your Spotify ‘Playlist in a Bottle’ While You Still Can](https://lifehacker.com/tech/how-to-make-your-spotify-playlist-in-a-bottle)
 - [Lifehacker] [Is the Meta Quest 2 Still Worth Buying?](https://lifehacker.com/tech/is-the-meta-quest-2-still-worth-buying)
-- [Lifehacker] [How to Make Your Slippery Stairs Safer](https://lifehacker.com/home/how-to-fix-slippery-stairs)
-- [Lifehacker] [Here&#39;s How Much You Could Save If You Set Aside $5 Every Day](https://lifehacker.com/money/how-much-you-could-save-5-dollars-a-day)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Your Slippery Stairs Safer](https://lifehacker.com/home/how-to-fix-slippery-stairs)<!-- TECH-POSTS:END -->
 
 ---
 
