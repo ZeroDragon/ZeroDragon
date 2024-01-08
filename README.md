@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Certification Journey Unveiled: SC-900 Exam Dumps Essentials](https://dev.to/sc900dumps/certification-journey-unveiled-sc-900-exam-dumps-essentials-3eg0)
+- [Dev.to/JS] [forEach&lpar;&rpar; vs map&lpar;&rpar; in JavaScript](https://dev.to/codewithsharma/foreach-vs-map-in-javascript-41p6)
 - [Dev.to/JS] [Load Balancing with Nginx](https://dev.to/canoir/load-balancing-with-nginx-49aa)
 - [Dev.to/JS] [Strategic Cloud Certification: AZ-120 Dumps Importance Decoded](https://dev.to/rapunzeljhon/strategic-cloud-certification-az-120-dumps-importance-decoded-1a1e)
 - [Dev.to/JS] [Implementing Single Sign-On In React &lpar;Remix&rpar; In Under 10 Minutes](https://dev.to/pmbanugo/implementing-single-sign-on-in-react-remix-in-under-10-minutes-57d0)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
 - [Dev.to/JS] [Freelancer Job Hear👇](https://dev.to/tusharus/freelancer-job-hear-2kij)
 - [Dev.to/JS] [HOW CAN I CONTACT A LEGIT CRYPTOCURRENCY RECOVERY COMPANY - OMEGA CRYPTO RECOVERY SPECIALIST](https://dev.to/bradben2/how-can-i-contact-a-legit-cryptocurrency-recovery-company-omega-crypto-recovery-specialist-369f)
-- [Dev.to/JS] [&lt;script&gt; | HTML Element](https://dev.to/vishwa_9/-html-element-579a)
-- [Dev.to/JS] [Chimp Rewriter](https://dev.to/rankkmarket/chimp-rewriter-j2m)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
