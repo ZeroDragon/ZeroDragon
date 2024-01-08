@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How does Blockchain work?](https://dev.to/naweli_verma/how-does-blockchain-work-12gb)
+- [Dev.to/JS] [How I build a YouTube Video Player with ReactJS: Building the Volume Control](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-the-volume-control-4jli)
+- [Dev.to/JS] [How to become a pro-level developer by working on simple projects.](https://dev.to/arize99/how-to-become-a-pro-level-developer-by-working-on-simple-projects-4k16)
 - [Dev.to/JS] [puzzle book mastery](https://dev.to/rankkmarket/puzzle-book-mastery-12ef)
 - [Dev.to/JS] [Creating an Engaging GitHub Profile: A Step-by-Step Guide](https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl)
 - [Dev.to/JS] [Top Selenium Frameworks](https://dev.to/software1233/top-selenium-frameworks-2oak)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Load Balancing with Nginx](https://dev.to/canoir/load-balancing-with-nginx-49aa)
 - [Dev.to/JS] [Strategic Cloud Certification: AZ-120 Dumps Importance Decoded](https://dev.to/rapunzeljhon/strategic-cloud-certification-az-120-dumps-importance-decoded-1a1e)
 - [Dev.to/JS] [Implementing Single Sign-On In React &lpar;Remix&rpar; In Under 10 Minutes](https://dev.to/pmbanugo/implementing-single-sign-on-in-react-remix-in-under-10-minutes-57d0)
-- [Dev.to/JS] [CALCULATOR](https://dev.to/dkshri/calculator-4d9k)
-- [Dev.to/JS] [Add Flavor to Your Messages with Food Emojis from Simplified AI Emoji Maker Online |](https://dev.to/ai-emoji-maker-food/add-flavor-to-your-messages-with-food-emojis-from-simplified-ai-emoji-maker-online--3bl5)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/everettgeorge797/buy-google-voice-accounts-3ne8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
