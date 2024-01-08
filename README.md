@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello World em TypeScript](https://dev.to/franciscochaves/hello-world-em-typescript-453o)
 - [Dev.to/JS] [Freelancer Job Hear👇](https://dev.to/tusharus/freelancer-job-hear-2kij)
 - [Dev.to/JS] [HOW CAN I CONTACT A LEGIT CRYPTOCURRENCY RECOVERY COMPANY - OMEGA CRYPTO RECOVERY SPECIALIST](https://dev.to/bradben2/how-can-i-contact-a-legit-cryptocurrency-recovery-company-omega-crypto-recovery-specialist-369f)
 - [Dev.to/JS] [&lt;script&gt; | HTML Element](https://dev.to/vishwa_9/-html-element-579a)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [wp script](https://dev.to/rankkmarket/wp-script-5el3)
 - [Dev.to/JS] [Chính sách bảo mật – Thông tin về chính sách bảo mật tại Jun88](https://dev.to/jun88delivery/chinh-sach-bao-mat-thong-tin-ve-chinh-sach-bao-mat-tai-jun88-n2f)
 - [Dev.to/JS] [AfterLib](https://dev.to/wsovn112/afterlib-g8o)
-- [Dev.to/JS] [Basic Array Methods In JavaScript.](https://dev.to/codewithsharma/basic-array-methods-in-javascript-23mg)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
