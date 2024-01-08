@@ -26,9 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CALCULATOR](https://dev.to/dkshri/calculator-4d9k)
+- [Dev.to/JS] [Add Flavor to Your Messages with Food Emojis from Simplified AI Emoji Maker Online |](https://dev.to/ai-emoji-maker-food/add-flavor-to-your-messages-with-food-emojis-from-simplified-ai-emoji-maker-online--3bl5)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/everettgeorge797/buy-google-voice-accounts-3ne8)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/everettgeorge797/buy-verified-cash-app-account-1pfb)
-- [Dev.to/JS] [I built an open source web calendar inspired by the Google calendar](https://dev.to/tomosterlund/i-built-an-open-source-web-calendar-inspired-by-the-google-calendar-1328)
 - [Dev.to/JS] [ProfitScribe](https://dev.to/rankkmarket/profitscribe-2ji1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 rules to help you write cleaner js code](https://dev.to/melvinvmegen/10-rules-to-help-you-write-cleaner-js-code-411c)
 - [Dev.to/JS] [Funções em JavaScript: Array.filter&lpar;&rpar;](https://dev.to/lucasgabriel/funcoes-em-javascript-arrayfilter-24p8)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/gerardtanner281/buy-verified-cash-app-account-n4f)
-- [Dev.to/JS] [Currently I am using React 18, Vite](https://dev.to/zad07an/currently-i-am-using-vite-react-18-vite-4jcg)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
