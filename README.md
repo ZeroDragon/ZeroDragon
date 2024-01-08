@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [puzzle book mastery](https://dev.to/rankkmarket/puzzle-book-mastery-12ef)
 - [Dev.to/JS] [Creating an Engaging GitHub Profile: A Step-by-Step Guide](https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl)
 - [Dev.to/JS] [Top Selenium Frameworks](https://dev.to/software1233/top-selenium-frameworks-2oak)
 - [Dev.to/JS] [Top 10 Repos for Open Source Food Delivery Apps](https://dev.to/abbas_ninjascode/top-10-repos-for-open-source-food-delivery-apps-51ok)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CALCULATOR](https://dev.to/dkshri/calculator-4d9k)
 - [Dev.to/JS] [Add Flavor to Your Messages with Food Emojis from Simplified AI Emoji Maker Online |](https://dev.to/ai-emoji-maker-food/add-flavor-to-your-messages-with-food-emojis-from-simplified-ai-emoji-maker-online--3bl5)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/everettgeorge797/buy-google-voice-accounts-3ne8)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/everettgeorge797/buy-verified-cash-app-account-1pfb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
