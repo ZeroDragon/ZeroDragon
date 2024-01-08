@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free)
+- [Lifehacker] [CES 2024: This Is the Best Audio Gear We Spotted](https://lifehacker.com/tech/the-best-audio-gear-spotted-at-ces-2024)
 - [Dev.to/JS] [TF #29 | Your frontend digest](https://dev.to/tech-foutraque/tf-29-your-frontend-digest-67p)
+- [Lifehacker] [CES 2024: LG&#39;s New Smart Home Hub Is a Cute Little Robot](https://lifehacker.com/tech/ces-lg-new-ai-smart-home-robot)
 - [Dev.to/JS] [High Order Function !== Closure](https://dev.to/heres/high-order-function-closures-29d8)
 - [Lifehacker] [&#39;Clicks&#39; Is an iPhone Keyboard Case With Physical Buttons](https://lifehacker.com/tech/clicks-iphone-keyboard-case)
 - [Lifehacker] [CES 2024: LG Announces Its ‘Disappearing’ Transparent OLED TV](https://lifehacker.com/tech/lg-unveils-its-transparent-oled-tv-at-ces2024)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Become a Person Who Cleans](https://lifehacker.com/home/how-to-find-the-motivation-to-clean)
 - [Lifehacker] [Make a Big Batch of Glögg to Last the Winter](https://lifehacker.com/food-drink/easy-glogg-recipe)
 - [Lifehacker] [You Can Get Two Blink Outdoor Cameras for $72 Right Now](https://lifehacker.com/tech/you-can-get-two-blink-outdoor-cameras-for-more-than-half-off)
-- [Lifehacker] [This Is the Easiest Way to Clean Door Tracks](https://lifehacker.com/home/the-easiest-way-to-clean-door-tracks)
-- [Lifehacker] [Make Your Spotify ‘Playlist in a Bottle’ While You Still Can](https://lifehacker.com/tech/how-to-make-your-spotify-playlist-in-a-bottle)
-- [Lifehacker] [Is the Meta Quest 2 Still Worth Buying?](https://lifehacker.com/tech/is-the-meta-quest-2-still-worth-buying)
-- [Lifehacker] [How to Make Your Slippery Stairs Safer](https://lifehacker.com/home/how-to-fix-slippery-stairs)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Easiest Way to Clean Door Tracks](https://lifehacker.com/home/the-easiest-way-to-clean-door-tracks)<!-- TECH-POSTS:END -->
 
 ---
 
