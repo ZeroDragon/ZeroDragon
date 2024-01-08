@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Coding the Shield: A Deep Dive into the Development of the Discord Bot that Blocked 1000+ Phishing Attacks](https://dev.to/ctnkaan/coding-the-shield-a-deep-dive-into-the-development-of-the-discord-bot-that-blocked-1000-phishing-attacks-agl)
+- [Dev.to/JS] [How to Learn React in 2024](https://dev.to/codebootcamp/how-to-learn-react-in-2024-cp4)
+- [Dev.to/JS] [Learning JavaScript 2024](https://dev.to/ashif8984/learning-javascript-2024-1h5j)
+- [Dev.to/JS] [A React.js template with Parcel.js and Bootstrap 5](https://dev.to/lucassul/a-reactjs-template-with-parceljs-and-bootstrap-5-1pm5)
+- [Lifehacker] [Cat Bites Can Actually Be Quite Dangerous](https://lifehacker.com/health/cat-bites-can-be-dangerous)
 - [Lifehacker] [Can You Make a New House Key From a Photograph?](https://lifehacker.com/home/make-house-key-from-photograph)
 - [Dev.to/JS] [How to become a pro-level developer by working on simple projects.](https://dev.to/arize99/how-to-become-a-pro-level-developer-by-working-on-simple-projects-4k16)
 - [Lifehacker] [Wayfair, Macy&#39;s, and Other Retailers Are Charging Return Fees in 2024](https://lifehacker.com/money/stores-charging-return-fees)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [forEach&lpar;&rpar; vs map&lpar;&rpar; in JavaScript](https://dev.to/codewithsharma/foreach-vs-map-in-javascript-41p6)
 - [Dev.to/JS] [Load Balancing with Nginx](https://dev.to/canoir/load-balancing-with-nginx-49aa)
 - [Dev.to/JS] [Strategic Cloud Certification: AZ-120 Dumps Importance Decoded](https://dev.to/rapunzeljhon/strategic-cloud-certification-az-120-dumps-importance-decoded-1a1e)
-- [Dev.to/JS] [Implementing Single Sign-On In React &lpar;Remix&rpar; In Under 10 Minutes](https://dev.to/pmbanugo/implementing-single-sign-on-in-react-remix-in-under-10-minutes-57d0)
-- [Dev.to/JS] [CALCULATOR](https://dev.to/dkshri/calculator-4d9k)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Miss This Deadline for Estimated Quarterly Tax Payments](https://lifehacker.com/money/this-is-the-deadline-for-estimated-quarterly-tax-payments)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &#39;Tunnel Girl&#39;?](https://lifehacker.com/entertainment/who-is-tunnel-girl)
 - [Lifehacker] [Why Your Tap Water Is Cloudy &lpar;and Why It Matters&rpar;](https://lifehacker.com/home/why-your-tap-water-is-cloudy)
-- [Lifehacker] [Why Air Might Get Trapped in Your Pipes &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-release-air-trapped-in-your-pipes)
-- [Lifehacker] [You Can Make Small Batches of Granola in Your Air Fryer](https://lifehacker.com/food-drink/small-batch-air-fryer-granola-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Air Might Get Trapped in Your Pipes &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-release-air-trapped-in-your-pipes)<!-- TECH-POSTS:END -->
 
 ---
 
