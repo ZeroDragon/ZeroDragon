@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [TW Elements - Quick Start. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-quick-start-free-uiux-design-course-3a15)
+- [Dev.to/JS] [Mastering React&#39;s `useEffect` Hook](https://dev.to/hriztam/mastering-reacts-useeffect-hook-179a)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/victorgalvan3676/buy-verified-cash-app-account-4nn2)
+- [Dev.to/JS] [Styled-components: Friend or foe?](https://dev.to/miasalazar/styled-components-friend-or-foe-1k53)
+- [Dev.to/JS] [Ali Insider](https://dev.to/wsovn112/ali-insider-3o0j)
+- [Dev.to/JS] [Program in Javascript like a Pro](https://dev.to/miasalazar/program-in-javascript-like-a-pro-m83)
+- [Lifehacker] [How to Delete an Entire Page in Microsoft Word](https://lifehacker.com/tech/how-to-delete-a-page-in-word)
 - [Lifehacker] [Here’s When You’ll Be Able to Preorder the Apple Vision Pro](https://lifehacker.com/tech/how-to-preorder-apple-vision-pro)
 - [Dev.to/JS] [Looking for alternatives to Airplane.dev?](https://dev.to/gayatrisachdev1/looking-for-alternatives-to-airplanedev-pnc)
 - [Lifehacker] [How to Recall an Email in Outlook &lpar;and When You Can&#39;t&rpar;](https://lifehacker.com/work/how-to-recall-an-outlook-email)
@@ -40,10 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating an Engaging GitHub Profile: A Step-by-Step Guide](https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl)
 - [Dev.to/JS] [Top Selenium Frameworks](https://dev.to/software1233/top-selenium-frameworks-2oak)
 - [Dev.to/JS] [Top 10 Repos for Open Source Food Delivery Apps](https://dev.to/abbas_ninjascode/top-10-repos-for-open-source-food-delivery-apps-51ok)
-- [Dev.to/JS] [Certification Journey Unveiled: SC-900 Exam Dumps Essentials](https://dev.to/sc900dumps/certification-journey-unveiled-sc-900-exam-dumps-essentials-3eg0)
-- [Dev.to/JS] [forEach&lpar;&rpar; vs map&lpar;&rpar; in JavaScript](https://dev.to/codewithsharma/foreach-vs-map-in-javascript-41p6)
-- [Dev.to/JS] [Load Balancing with Nginx](https://dev.to/canoir/load-balancing-with-nginx-49aa)
-- [Dev.to/JS] [Strategic Cloud Certification: AZ-120 Dumps Importance Decoded](https://dev.to/rapunzeljhon/strategic-cloud-certification-az-120-dumps-importance-decoded-1a1e)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Much You Could Save If You Set Aside $5 Every Day](https://lifehacker.com/money/how-much-you-could-save-5-dollars-a-day)
 - [Lifehacker] [You Have One Week to Download Marvel’s ‘Guardians of the Galaxy’ Game for Free](https://lifehacker.com/entertainment/marvels-guardians-of-the-galaxy-is-free-to-download-right-now)
 - [Lifehacker] [How to Use Smart Tech to Save on Your Light Bill](https://lifehacker.com/tech/lower-lighting-bills-with-smart-tech)
-- [Lifehacker] [These Are the Best Clipboard Managers for Windows](https://lifehacker.com/tech/best-clipboard-managers-for-windows)
-- [Lifehacker] [Don&#39;t Miss This Deadline for Estimated Quarterly Tax Payments](https://lifehacker.com/money/this-is-the-deadline-for-estimated-quarterly-tax-payments)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Clipboard Managers for Windows](https://lifehacker.com/tech/best-clipboard-managers-for-windows)<!-- TECH-POSTS:END -->
 
 ---
 
