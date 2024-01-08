@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to add Astro social share to your Astro application](https://dev.to/femi_dev/how-to-add-astro-social-share-to-your-astro-application-4bl1)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/everettgeorge797/buy-google-voice-accounts-3ne8)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/everettgeorge797/buy-verified-cash-app-account-1pfb)
+- [Dev.to/JS] [I built an open source web calendar inspired by the Google calendar](https://dev.to/tomosterlund/i-built-an-open-source-web-calendar-inspired-by-the-google-calendar-1328)
 - [Dev.to/JS] [ProfitScribe](https://dev.to/rankkmarket/profitscribe-2ji1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Funções em JavaScript: Array.filter&lpar;&rpar;](https://dev.to/lucasgabriel/funcoes-em-javascript-arrayfilter-24p8)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/gerardtanner281/buy-verified-cash-app-account-n4f)
 - [Dev.to/JS] [Currently I am using React 18, Vite](https://dev.to/zad07an/currently-i-am-using-vite-react-18-vite-4jcg)
-- [Dev.to/JS] [wp script](https://dev.to/rankkmarket/wp-script-5el3)
-- [Dev.to/JS] [Chính sách bảo mật – Thông tin về chính sách bảo mật tại Jun88](https://dev.to/jun88delivery/chinh-sach-bao-mat-thong-tin-ve-chinh-sach-bao-mat-tai-jun88-n2f)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
