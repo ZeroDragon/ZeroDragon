@@ -26,9 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How does Blockchain work?](https://dev.to/naweli_verma/how-does-blockchain-work-12gb)
-- [Dev.to/JS] [How I build a YouTube Video Player with ReactJS: Building the Volume Control](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-the-volume-control-4jli)
+- [Dev.to/JS] [Coding the Shield: A Deep Dive into the Development of the Discord Bot that Blocked 1000+ Phishing Attacks](https://dev.to/ctnkaan/coding-the-shield-a-deep-dive-into-the-development-of-the-discord-bot-that-blocked-1000-phishing-attacks-agl)
+- [Lifehacker] [Can You Make a New House Key From a Photograph?](https://lifehacker.com/home/make-house-key-from-photograph)
 - [Dev.to/JS] [How to become a pro-level developer by working on simple projects.](https://dev.to/arize99/how-to-become-a-pro-level-developer-by-working-on-simple-projects-4k16)
+- [Lifehacker] [Wayfair, Macy&#39;s, and Other Retailers Are Charging Return Fees in 2024](https://lifehacker.com/money/stores-charging-return-fees)
 - [Dev.to/JS] [puzzle book mastery](https://dev.to/rankkmarket/puzzle-book-mastery-12ef)
 - [Dev.to/JS] [Creating an Engaging GitHub Profile: A Step-by-Step Guide](https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl)
 - [Dev.to/JS] [Top Selenium Frameworks](https://dev.to/software1233/top-selenium-frameworks-2oak)
@@ -38,6 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Load Balancing with Nginx](https://dev.to/canoir/load-balancing-with-nginx-49aa)
 - [Dev.to/JS] [Strategic Cloud Certification: AZ-120 Dumps Importance Decoded](https://dev.to/rapunzeljhon/strategic-cloud-certification-az-120-dumps-importance-decoded-1a1e)
 - [Dev.to/JS] [Implementing Single Sign-On In React &lpar;Remix&rpar; In Under 10 Minutes](https://dev.to/pmbanugo/implementing-single-sign-on-in-react-remix-in-under-10-minutes-57d0)
+- [Dev.to/JS] [CALCULATOR](https://dev.to/dkshri/calculator-4d9k)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &#39;Tunnel Girl&#39;?](https://lifehacker.com/entertainment/who-is-tunnel-girl)
 - [Lifehacker] [Why Your Tap Water Is Cloudy &lpar;and Why It Matters&rpar;](https://lifehacker.com/home/why-your-tap-water-is-cloudy)
 - [Lifehacker] [Why Air Might Get Trapped in Your Pipes &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-release-air-trapped-in-your-pipes)
-- [Lifehacker] [You Can Make Small Batches of Granola in Your Air Fryer](https://lifehacker.com/food-drink/small-batch-air-fryer-granola-recipe)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-5-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 5, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-5-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Small Batches of Granola in Your Air Fryer](https://lifehacker.com/food-drink/small-batch-air-fryer-granola-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
