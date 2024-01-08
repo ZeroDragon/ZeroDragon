@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vite Vs Create React App &quot;CRA&quot;](https://dev.to/nada2react/vite-vs-create-react-app-cra-5ghh)
 - [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free)
 - [Lifehacker] [CES 2024: This Is the Best Audio Gear We Spotted](https://lifehacker.com/tech/the-best-audio-gear-spotted-at-ces-2024)
 - [Dev.to/JS] [TF #29 | Your frontend digest](https://dev.to/tech-foutraque/tf-29-your-frontend-digest-67p)
@@ -51,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can You Make a New House Key From a Photograph?](https://lifehacker.com/home/make-house-key-from-photograph)
 - [Dev.to/JS] [How to become a pro-level developer by working on simple projects.](https://dev.to/arize99/how-to-become-a-pro-level-developer-by-working-on-simple-projects-4k16)
 - [Lifehacker] [Wayfair, Macy&#39;s, and Other Retailers Are Charging Return Fees in 2024](https://lifehacker.com/money/stores-charging-return-fees)
-- [Dev.to/JS] [puzzle book mastery](https://dev.to/rankkmarket/puzzle-book-mastery-12ef)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
