@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to Learn React in 2024](https://dev.to/codebootcamp/how-to-learn-react-in-2024-cp4)
-- [Dev.to/JS] [Learning JavaScript 2024](https://dev.to/ashif8984/learning-javascript-2024-1h5j)
+- [Dev.to/JS] [TW Elements - Quick Start. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-quick-start-free-uiux-design-course-3a15)
+- [Lifehacker] [Here’s When You’ll Be Able to Preorder the Apple Vision Pro](https://lifehacker.com/tech/how-to-preorder-apple-vision-pro)
+- [Dev.to/JS] [Looking for alternatives to Airplane.dev?](https://dev.to/gayatrisachdev1/looking-for-alternatives-to-airplanedev-pnc)
+- [Lifehacker] [How to Recall an Email in Outlook &lpar;and When You Can&#39;t&rpar;](https://lifehacker.com/work/how-to-recall-an-outlook-email)
+- [Lifehacker] [You Can Create a Smart Home ‘Cinema Mode’ Automation](https://lifehacker.com/tech/set-up-a-cinema-mode-in-your-home-using-your-smart-hub)
 - [Dev.to/JS] [A React.js template with Parcel.js and Bootstrap 5](https://dev.to/lucassul/a-reactjs-template-with-parceljs-and-bootstrap-5-1pm5)
 - [Lifehacker] [Cat Bites Can Actually Be Quite Dangerous](https://lifehacker.com/health/cat-bites-can-be-dangerous)
 - [Lifehacker] [Can You Make a New House Key From a Photograph?](https://lifehacker.com/home/make-house-key-from-photograph)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Have One Week to Download Marvel’s ‘Guardians of the Galaxy’ Game for Free](https://lifehacker.com/entertainment/marvels-guardians-of-the-galaxy-is-free-to-download-right-now)
 - [Lifehacker] [How to Use Smart Tech to Save on Your Light Bill](https://lifehacker.com/tech/lower-lighting-bills-with-smart-tech)
 - [Lifehacker] [These Are the Best Clipboard Managers for Windows](https://lifehacker.com/tech/best-clipboard-managers-for-windows)
-- [Lifehacker] [Don&#39;t Miss This Deadline for Estimated Quarterly Tax Payments](https://lifehacker.com/money/this-is-the-deadline-for-estimated-quarterly-tax-payments)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is &#39;Tunnel Girl&#39;?](https://lifehacker.com/entertainment/who-is-tunnel-girl)
-- [Lifehacker] [Why Your Tap Water Is Cloudy &lpar;and Why It Matters&rpar;](https://lifehacker.com/home/why-your-tap-water-is-cloudy)
-- [Lifehacker] [Why Air Might Get Trapped in Your Pipes &lpar;and How to Fix It&rpar;](https://lifehacker.com/home/how-to-release-air-trapped-in-your-pipes)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Miss This Deadline for Estimated Quarterly Tax Payments](https://lifehacker.com/money/this-is-the-deadline-for-estimated-quarterly-tax-payments)<!-- TECH-POSTS:END -->
 
 ---
 
