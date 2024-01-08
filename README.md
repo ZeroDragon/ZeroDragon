@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an Engaging GitHub Profile: A Step-by-Step Guide](https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl)
+- [Dev.to/JS] [Top Selenium Frameworks](https://dev.to/software1233/top-selenium-frameworks-2oak)
+- [Dev.to/JS] [Top 10 Repos for Open Source Food Delivery Apps](https://dev.to/abbas_ninjascode/top-10-repos-for-open-source-food-delivery-apps-51ok)
 - [Dev.to/JS] [Certification Journey Unveiled: SC-900 Exam Dumps Essentials](https://dev.to/sc900dumps/certification-journey-unveiled-sc-900-exam-dumps-essentials-3eg0)
 - [Dev.to/JS] [forEach&lpar;&rpar; vs map&lpar;&rpar; in JavaScript](https://dev.to/codewithsharma/foreach-vs-map-in-javascript-41p6)
 - [Dev.to/JS] [Load Balancing with Nginx](https://dev.to/canoir/load-balancing-with-nginx-49aa)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Flavor to Your Messages with Food Emojis from Simplified AI Emoji Maker Online |](https://dev.to/ai-emoji-maker-food/add-flavor-to-your-messages-with-food-emojis-from-simplified-ai-emoji-maker-online--3bl5)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/everettgeorge797/buy-google-voice-accounts-3ne8)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/everettgeorge797/buy-verified-cash-app-account-1pfb)
-- [Dev.to/JS] [ProfitScribe](https://dev.to/rankkmarket/profitscribe-2ji1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
-- [Dev.to/JS] [Freelancer Job Hear👇](https://dev.to/tusharus/freelancer-job-hear-2kij)
-- [Dev.to/JS] [HOW CAN I CONTACT A LEGIT CRYPTOCURRENCY RECOVERY COMPANY - OMEGA CRYPTO RECOVERY SPECIALIST](https://dev.to/bradben2/how-can-i-contact-a-legit-cryptocurrency-recovery-company-omega-crypto-recovery-specialist-369f)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
