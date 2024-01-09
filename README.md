@@ -26,8 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [🟨 JavaScript 5 | 🪨 Rock 📄 Paper  ✂️ Scissors with functions&lpar;&rpar;](https://dev.to/gregor_schafroth/javascript-5-rock-paper-scissors-with-functions-300)
-- [Dev.to/JS] [Observables and Observers in RxJS](https://dev.to/rajrathod/observables-and-observers-in-rxjs-1jk5)
+- [Dev.to/JS] [Slidev Tip - `npm run export` not working?](https://dev.to/ahandsel/slidev-tip-npm-run-export-not-working-147m)
+- [Dev.to/JS] [Lexical Scope and Closures in JavaScript](https://dev.to/devshefali/lexical-scope-and-closures-in-javascript-phf)
+- [Dev.to/JS] [Take Your Images to New Heights: AI Image Extender](https://dev.to/aiimageexpander12/take-your-images-to-new-heights-ai-image-extender-ofo)
 - [Dev.to/JS] [Converting Excel File to JSON in JS /React.js /Next.js from an URL.](https://dev.to/shafiulazim/converting-excel-file-to-json-in-js-reactjs-nextjs-from-an-url-3gdl)
 - [Dev.to/JS] [Exploding Topics](https://dev.to/rankkmarket/exploding-topics-3cgl)
 - [Dev.to/JS] [Treament for a Loved One](https://dev.to/metrowestsoberliving/treament-for-a-loved-one-2jb2)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transform Your Look: DHI Direct Hair Implant in Dubai Explained?](https://dev.to/dynamicaestheticclinicdubai/transform-your-look-dhi-direct-hair-implant-in-dubai-explained-5g3p)
 - [Dev.to/JS] [The difference between recruitment software and applicant tracking system](https://dev.to/lenina59400/the-difference-between-recruitment-software-and-applicant-tracking-system-7il)
 - [Dev.to/JS] [How to Build a Web App in 10 steps in 2024](https://dev.to/refine/how-to-build-a-web-app-in-10-steps-in-2024-56c2)
-- [Dev.to/JS] [Buy Ambien Online Without Prescription - Glow Dental Medicuretoall](https://dev.to/buyambienonl/buy-ambien-online-without-prescription-glow-dental-medicuretoall-462h)
 - [Lifehacker] [The Best Highlights From CES&#39; Media Days](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $39.99 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
