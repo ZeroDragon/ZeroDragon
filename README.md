@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Using Background Workers with React: Boosting Performance and Responsiveness](https://dev.to/ernestohs/using-background-workers-with-react-boosting-performance-and-responsiveness-3g29)
+- [Dev.to/JS] [The Best Programming Language to Learn in 2024: Your Ultimate Guide](https://dev.to/aqsa81/the-best-programming-language-to-learn-in-2024-your-ultimate-guide-18h1)
+- [Dev.to/JS] [JavaScript : Web APIs &lpar;English/Hindi&rpar;](https://dev.to/dharmikdholu96/javascript-web-apis-englishhindi-ng1)
+- [Dev.to/JS] [Build a 3D Earth Globe Model in Three.js &lpar;PS: It&#39;s easier than you think&rpar; 🌏😱](https://dev.to/arjuncodess/build-a-3d-earth-globe-model-in-threejs-ps-its-easier-than-you-think-11f2)
+- [Lifehacker] [The Best Highlights From CES&#39; Media Days](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)
 - [Dev.to/JS] [HƯỚNG DẪN Tải App Zbet-Hướng Dẫn Tải App Tham Gia Cá Cược](https://dev.to/zbetscomco/huong-dan-tai-app-zbet-huong-dan-tai-app-tham-gia-ca-cuoc-1ahl)
+- [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $39.99 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-9-2024)
 - [Lifehacker] [How to Pull Off a &#39;No-spend&#39; Weekend That Doesn&#39;t Suck](https://lifehacker.com/money/how-to-have-a-successful-no-spend-weekend)
@@ -57,15 +61,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Program in Javascript like a Pro](https://dev.to/miasalazar/program-in-javascript-like-a-pro-m83)
 - [Lifehacker] [How to Delete an Entire Page in Microsoft Word](https://lifehacker.com/tech/how-to-delete-a-page-in-word)
 - [Lifehacker] [Here’s When You’ll Be Able to Preorder the Apple Vision Pro](https://lifehacker.com/tech/how-to-preorder-apple-vision-pro)
-- [Dev.to/JS] [Looking for alternatives to Airplane.dev?](https://dev.to/gayatrisachdev1/looking-for-alternatives-to-airplanedev-pnc)
 - [Lifehacker] [How to Recall an Email in Outlook &lpar;and When You Can&#39;t&rpar;](https://lifehacker.com/work/how-to-recall-an-outlook-email)
 - [Lifehacker] [You Can Create a Smart Home ‘Cinema Mode’ Automation](https://lifehacker.com/tech/set-up-a-cinema-mode-in-your-home-using-your-smart-hub)
-- [Dev.to/JS] [A React.js template with Parcel.js and Bootstrap 5](https://dev.to/lucassul/a-reactjs-template-with-parceljs-and-bootstrap-5-1pm5)
 - [Lifehacker] [Cat Bites Can Actually Be Quite Dangerous](https://lifehacker.com/health/cat-bites-can-be-dangerous)
 - [Lifehacker] [Can You Make a New House Key From a Photograph?](https://lifehacker.com/home/make-house-key-from-photograph)
-- [Lifehacker] [Wayfair, Macy&#39;s, and Other Retailers Are Charging Return Fees in 2024](https://lifehacker.com/money/stores-charging-return-fees)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Wayfair, Macy&#39;s, and Other Retailers Are Charging Return Fees in 2024](https://lifehacker.com/money/stores-charging-return-fees)<!-- TECH-POSTS:END -->
 
 ---
 
