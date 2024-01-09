@@ -26,8 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Build a spin input](https://dev.to/phuocng/build-a-spin-input-d2n)
-- [Dev.to/JS] [MDB React 7.1.0 Released!](https://dev.to/keepcoding/mdb-react-710-released-go0)
+- [Dev.to/JS] [Por qué es tan difícil pasar el estado entre los componentes del cliente y del servidor](https://dev.to/khriztianmoreno/por-que-es-tan-dificil-pasar-el-estado-entre-los-componentes-del-cliente-y-del-servidor-4d8b)
+- [Dev.to/JS] [Why web applications are the future of the IT industry: advantages and development prospects](https://dev.to/sparkouttech/why-web-applications-are-the-future-of-the-it-industry-advantages-and-development-prospects-47il)
+- [Dev.to/JS] [Is Traditional Web Development Dead? The Rise of No-Code Platforms🧐](https://dev.to/zanepearton/is-traditional-web-development-dead-the-rise-of-no-code-platforms-3o8c)
 - [Dev.to/JS] [How you can manage your health when you need to do a lot of coding?](https://dev.to/healthwiibes/how-you-can-manage-your-health-when-you-need-to-do-a-lot-of-coding-20ek)
 - [Dev.to/JS] [Bioheal CBD Gummies: Nourishing Wellness Through Nature&#39;s Remedy](https://dev.to/gummieshealthcare/bioheal-cbd-gummies-nourishing-wellness-through-natures-remedy-1jo8)
 - [Dev.to/JS] [Vue.js development services](https://dev.to/webstep/vuejs-development-services-4080)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Take Your Images to New Heights: AI Image Extender](https://dev.to/aiimageexpander12/take-your-images-to-new-heights-ai-image-extender-ofo)
 - [Dev.to/JS] [Converting Excel File to JSON in JS /React.js /Next.js from an URL.](https://dev.to/shafiulazim/converting-excel-file-to-json-in-js-reactjs-nextjs-from-an-url-3gdl)
 - [Dev.to/JS] [Exploding Topics](https://dev.to/rankkmarket/exploding-topics-3cgl)
-- [Dev.to/JS] [Treament for a Loved One](https://dev.to/metrowestsoberliving/treament-for-a-loved-one-2jb2)
 - [Lifehacker] [The Best Highlights From CES&#39; Media Days](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $39.99 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
