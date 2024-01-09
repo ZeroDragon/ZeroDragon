@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use import attributes in TypeScript and JavaScript](https://dev.to/logrocket/how-to-use-import-attributes-in-typescript-and-javascript-1cf3)
+- [Lifehacker] [Why January Is the Best Month to Book a Cruise](https://lifehacker.com/travel/best-time-to-book-cruise)
 - [Dev.to/JS] [win $100 amazon gift card](https://dev.to/rasel1212/win-100-amazon-gift-card-4m9j)
+- [Lifehacker] [CES 2024: How to Livestream the Qualcomm Keynote](https://lifehacker.com/tech/qualcomm-keynote-ces-2024)
 - [Lifehacker] [CES 2024: Qi2 Brings MagSafe to Non-Apple Chargers](https://lifehacker.com/tech/ces-2024-qi2-magsafe-chargers)
 - [Lifehacker] [CES 2024: Lawnbots Are the New Robot Vacuums](https://lifehacker.com/tech/robot-lawnmowers-at-ces-2024)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/hizjjssbs/buy-verified-cash-app-account-299h)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bioheal CBD Gummies: Nourishing Wellness Through Nature&#39;s Remedy](https://dev.to/gummieshealthcare/bioheal-cbd-gummies-nourishing-wellness-through-natures-remedy-1jo8)
 - [Dev.to/JS] [Vue.js development services](https://dev.to/webstep/vuejs-development-services-4080)
 - [Dev.to/JS] [7 Projects With Resources to Learn Web Development](https://dev.to/bigsondev/7-projects-with-resources-to-learn-web-development-2ile)
-- [Dev.to/JS] [9th january Trending report Result Exposed Bioheal CBD Gummies 2024 100 % NAtural !](https://dev.to/luonaosorio/9th-january-trending-report-result-exposed-bioheal-cbd-gummies-2024-100-natural--4d40)
 - [Lifehacker] [The Biggest Highlights From CES&#39; Media Days](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $39.99 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get &#39;VPN Unlimited&#39; on Sale for $70 Right Now](https://lifehacker.com/tech/vpn-unlimited-subscription-sale)
 - [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free)
 - [Lifehacker] [CES 2024: This Is the Best Audio Gear We Spotted](https://lifehacker.com/tech/the-best-audio-gear-spotted-at-ces-2024)
-- [Lifehacker] [CES 2024: LG&#39;s New Smart Home Hub Is a Cute Little Robot](https://lifehacker.com/tech/ces-lg-new-ai-smart-home-robot)
-- [Lifehacker] [&#39;Clicks&#39; Is an iPhone Keyboard Case With Physical Buttons](https://lifehacker.com/tech/clicks-iphone-keyboard-case)
-- [Lifehacker] [CES 2024: LG Announces Its ‘Disappearing’ Transparent OLED TV](https://lifehacker.com/tech/lg-unveils-its-transparent-oled-tv-at-ces2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [CES 2024: LG&#39;s New Smart Home Hub Is a Cute Little Robot](https://lifehacker.com/tech/ces-lg-new-ai-smart-home-robot)<!-- TECH-POSTS:END -->
 
 ---
 
