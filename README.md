@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How you can manage your health when you need to do a lot of coding?](https://dev.to/healthwiibes/how-you-can-manage-your-health-when-you-need-to-do-a-lot-of-coding-20ek)
 - [Dev.to/JS] [Bioheal CBD Gummies: Nourishing Wellness Through Nature&#39;s Remedy](https://dev.to/gummieshealthcare/bioheal-cbd-gummies-nourishing-wellness-through-natures-remedy-1jo8)
 - [Dev.to/JS] [Vue.js development services](https://dev.to/webstep/vuejs-development-services-4080)
 - [Dev.to/JS] [7 Projects With Resources to Learn Web Development](https://dev.to/bigsondev/7-projects-with-resources-to-learn-web-development-2ile)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Treament for a Loved One](https://dev.to/metrowestsoberliving/treament-for-a-loved-one-2jb2)
 - [Dev.to/JS] [Understand what is garbage collection in java](https://dev.to/manojsharmajtp2/understand-what-is-garbage-collection-in-java-4pd9)
 - [Dev.to/JS] [Optimization Strategies for Success: AZ-120 Dumps Mastery](https://dev.to/calistaolly/optimization-strategies-for-success-az-120-dumps-mastery-12hn)
-- [Dev.to/JS] [Integrating Nuxt 3 with Recaptcha v3 for Token Handling 🤖🔐](https://dev.to/fitrakun/integrating-nuxt-3-with-recaptcha-v3-for-token-handling-2dp0)
 - [Lifehacker] [The Best Highlights From CES&#39; Media Days](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $39.99 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
