@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Developing a Salesforce integration, quickly &amp; easily](https://dev.to/anuragallena/developing-a-salesforce-integration-quickly-easily-1m4a)
+- [Dev.to/JS] [Erros comuns no Javascript e como evitá-los](https://dev.to/webdavi/erros-comuns-no-javascript-e-como-evita-los-nc6)
+- [Lifehacker] [How to Deactivate &lpar;or Delete&rpar; Your Instagram](https://lifehacker.com/tech/how-to-deactivate-or-delete-your-instagram)
+- [Dev.to/JS] [Developing a Salesforce integration, quickly &amp; easily](https://dev.to/alloyautomation/developing-a-salesforce-integration-quickly-easily-1m4a)
+- [Lifehacker] [Here&#39;s How Much You Should Save in Your 401&lpar;K&rpar; in 2024](https://lifehacker.com/money/how-much-you-should-save-in-your-401k-in-2024)
 - [Lifehacker] [CES 2024: Lenovo’s Android-Windows Frankentablet Is the Show’s Wackiest Gadget Yet](https://lifehacker.com/tech/lenovo-android-windows-frankentablet-ces-2024)
 - [Dev.to/JS] [Let&#39;s make a curry!](https://dev.to/saksham-malhotra/lets-make-a-curry-426k)
 - [Lifehacker] [CES 2024: How to Livestream Intel&#39;s Keynote](https://lifehacker.com/tech/ces-2024-intel-keynote)
@@ -52,7 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Amazon Web Services Basics: What is EC2](https://dev.to/cristuker/amazon-web-services-basics-what-is-ec2-3aa2)
 - [Dev.to/JS] [How you can manage your health when you need to do a lot of coding?](https://dev.to/healthwiibes/how-you-can-manage-your-health-when-you-need-to-do-a-lot-of-coding-20ek)
 - [Dev.to/JS] [Bioheal CBD Gummies: Nourishing Wellness Through Nature&#39;s Remedy](https://dev.to/gummieshealthcare/bioheal-cbd-gummies-nourishing-wellness-through-natures-remedy-1jo8)
-- [Dev.to/JS] [Vue.js development services](https://dev.to/webstep/vuejs-development-services-4080)
 - [Lifehacker] [The Biggest Highlights From CES&#39; Media Days](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $39.99 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [CES 2024: AMD Unveils New Processors Designed For &#39;Extreme&#39; Gaming](https://lifehacker.com/tech/amd-debuts-new-radeon-rx-gpu-and-next-gen-desktop-processors)
 - [Lifehacker] [How Much Is Dry January Actually Helping You?](https://lifehacker.com/health/does-dry-january-actually-work)
 - [Lifehacker] [CES 2024: Nvidia Just Announced $600+ ‘Super’ Versions of Its Graphics Cards](https://lifehacker.com/tech/nvidia-announces-rtx-40-super-gpus)
-- [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)
-- [Lifehacker] [You Might Be Getting Money From Apple&#39;s &#39;Batterygate&#39; Lawsuit Soon](https://lifehacker.com/tech/apple-batterygate-class-action-lawsuit-settlement-payments)
-- [Lifehacker] [How to Rid Your Home of Toxic Radon](https://lifehacker.com/how-to-rid-your-home-of-toxic-radon)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)<!-- TECH-POSTS:END -->
 
 ---
 
