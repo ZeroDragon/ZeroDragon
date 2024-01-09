@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to use import attributes in TypeScript and JavaScript](https://dev.to/logrocket/how-to-use-import-attributes-in-typescript-and-javascript-1cf3)
+- [Dev.to/JS] [Strings en JavaScript: Concatenación y Literales de Plantilla](https://dev.to/marmariadev/strings-en-javascript-concatenacion-y-literales-de-plantilla-204b)
+- [Dev.to/JS] [Let&#39;s make a curry!](https://dev.to/saksham-malhotra/lets-make-a-curry-426k)
+- [Lifehacker] [How to Create the Best Alexa Set-up for Your Home](https://lifehacker.com/tech/best-ways-to-set-up-alexa-for-your-home)
+- [Lifehacker] [How to Recover From Holiday Overspending](https://lifehacker.com/money/how-to-recover-from-holiday-overspending)
 - [Lifehacker] [Why January Is the Best Month to Book a Cruise](https://lifehacker.com/travel/best-time-to-book-cruise)
 - [Dev.to/JS] [win $100 amazon gift card](https://dev.to/rasel1212/win-100-amazon-gift-card-4m9j)
 - [Lifehacker] [CES 2024: How to Livestream the Qualcomm Keynote](https://lifehacker.com/tech/qualcomm-keynote-ces-2024)
@@ -48,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How you can manage your health when you need to do a lot of coding?](https://dev.to/healthwiibes/how-you-can-manage-your-health-when-you-need-to-do-a-lot-of-coding-20ek)
 - [Dev.to/JS] [Bioheal CBD Gummies: Nourishing Wellness Through Nature&#39;s Remedy](https://dev.to/gummieshealthcare/bioheal-cbd-gummies-nourishing-wellness-through-natures-remedy-1jo8)
 - [Dev.to/JS] [Vue.js development services](https://dev.to/webstep/vuejs-development-services-4080)
-- [Dev.to/JS] [7 Projects With Resources to Learn Web Development](https://dev.to/bigsondev/7-projects-with-resources-to-learn-web-development-2ile)
 - [Lifehacker] [The Biggest Highlights From CES&#39; Media Days](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $39.99 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Might Be Getting Money From Apple&#39;s &#39;Batterygate&#39; Lawsuit Soon](https://lifehacker.com/tech/apple-batterygate-class-action-lawsuit-settlement-payments)
 - [Lifehacker] [How to Rid Your Home of Toxic Radon](https://lifehacker.com/how-to-rid-your-home-of-toxic-radon)
 - [Lifehacker] [You Can Get &#39;VPN Unlimited&#39; on Sale for $70 Right Now](https://lifehacker.com/tech/vpn-unlimited-subscription-sale)
-- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free)
-- [Lifehacker] [CES 2024: This Is the Best Audio Gear We Spotted](https://lifehacker.com/tech/the-best-audio-gear-spotted-at-ces-2024)
-- [Lifehacker] [CES 2024: LG&#39;s New Smart Home Hub Is a Cute Little Robot](https://lifehacker.com/tech/ces-lg-new-ai-smart-home-robot)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free)<!-- TECH-POSTS:END -->
 
 ---
 
