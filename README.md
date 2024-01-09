@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Strings en JavaScript: Concatenación y Literales de Plantilla](https://dev.to/marmariadev/strings-en-javascript-concatenacion-y-literales-de-plantilla-204b)
+- [Dev.to/JS] [Developing a Salesforce integration, quickly &amp; easily](https://dev.to/anuragallena/developing-a-salesforce-integration-quickly-easily-1m4a)
+- [Lifehacker] [CES 2024: Lenovo’s Android-Windows Frankentablet Is the Show’s Wackiest Gadget Yet](https://lifehacker.com/tech/lenovo-android-windows-frankentablet-ces-2024)
 - [Dev.to/JS] [Let&#39;s make a curry!](https://dev.to/saksham-malhotra/lets-make-a-curry-426k)
+- [Lifehacker] [CES 2024: How to Livestream Intel&#39;s Keynote](https://lifehacker.com/tech/ces-2024-intel-keynote)
 - [Lifehacker] [How to Create the Best Alexa Set-up for Your Home](https://lifehacker.com/tech/best-ways-to-set-up-alexa-for-your-home)
 - [Lifehacker] [How to Recover From Holiday Overspending](https://lifehacker.com/money/how-to-recover-from-holiday-overspending)
 - [Lifehacker] [Why January Is the Best Month to Book a Cruise](https://lifehacker.com/travel/best-time-to-book-cruise)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [CES 2024: Nvidia Just Announced $600+ ‘Super’ Versions of Its Graphics Cards](https://lifehacker.com/tech/nvidia-announces-rtx-40-super-gpus)
 - [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)
 - [Lifehacker] [You Might Be Getting Money From Apple&#39;s &#39;Batterygate&#39; Lawsuit Soon](https://lifehacker.com/tech/apple-batterygate-class-action-lawsuit-settlement-payments)
-- [Lifehacker] [How to Rid Your Home of Toxic Radon](https://lifehacker.com/how-to-rid-your-home-of-toxic-radon)
-- [Lifehacker] [You Can Get &#39;VPN Unlimited&#39; on Sale for $70 Right Now](https://lifehacker.com/tech/vpn-unlimited-subscription-sale)
-- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Rid Your Home of Toxic Radon](https://lifehacker.com/how-to-rid-your-home-of-toxic-radon)<!-- TECH-POSTS:END -->
 
 ---
 
