@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Much Is Dry January Actually Helping You?](https://lifehacker.com/health/does-dry-january-actually-work)
+- [Lifehacker] [CES 2024: Nvidia Just Announced $600+ ‘Super’ Versions of Its Graphics Cards](https://lifehacker.com/tech/nvidia-announces-rtx-40-super-gpus)
 - [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)
 - [Lifehacker] [You Might Be Getting Money From Apple&#39;s &#39;Batterygate&#39; Lawsuit Soon](https://lifehacker.com/tech/apple-batterygate-class-action-lawsuit-settlement-payments)
 - [Lifehacker] [How to Rid Your Home of Toxic Radon](https://lifehacker.com/how-to-rid-your-home-of-toxic-radon)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
-- [Lifehacker] [Mark Your Calendar for These Astronomical Events in 2024](https://lifehacker.com/science/astronomy-events-in-2024)
-- [Lifehacker] [These Exercise Bikes Are on Sale for the New Year](https://lifehacker.com/health/exercise-bike-sales-for-the-new-year)
-- [Lifehacker] [What to Do When Your Child Says, &#39;I Wish I Was Dead&#39;](https://lifehacker.com/health/what-to-do-when-your-child-says-i-wish-i-was-dead)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Mark Your Calendar for These Astronomical Events in 2024](https://lifehacker.com/science/astronomy-events-in-2024)<!-- TECH-POSTS:END -->
 
 ---
 
