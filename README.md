@@ -26,10 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [New way of work with V-Model in Vue.js 3!](https://dev.to/cn-2k/new-way-of-work-with-v-model-in-vuejs-3-3l96)
+- [Dev.to/JS] [Help with Font Sizes](https://dev.to/asteeves/help-with-font-sizes-l9p)
+- [Dev.to/JS] [Javascript Error Handling](https://dev.to/eminaltan/javascript-error-handling-3ng9)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/hizjjssbs/buy-verified-cash-app-account-299h)
+- [Dev.to/JS] [Unnoticed Memory Leaks in Your JS App: A Guide for Future](https://dev.to/bartick/unnoticed-memory-leaks-in-your-js-app-a-guide-for-future-k1i)
+- [Dev.to/JS] [🔍Exploring New JavaScript Array APIs💻🧩 toSpliced, toReversed, toSorted and with. ✨](https://dev.to/ghiobi/exploring-new-javascript-array-apis-tospliced-toreversed-tosorted-4ef9)
+- [Dev.to/JS] [How to force the debugger to skip over a method and anything it calls after Stepping In](https://dev.to/sardarmudassaralikhan/how-to-force-the-debugger-to-skip-over-a-method-and-anything-it-calls-after-stepping-in-2j0k)
 - [Lifehacker] [CES 2024: Belkin’s New &#39;Stand Pro&#39; Might Be the Best Motion-Tracking Dock for iPhones](https://lifehacker.com/tech/belkin-iphone-stand-pro-announcement)
-- [Dev.to/JS] [Hosting a Static Website on Amazon S3: A Step-by-Step Guide](https://dev.to/rawas_aditya/hosting-a-static-website-on-amazon-s3-a-step-by-step-guide-49c8)
-- [Dev.to/JS] [Modern Web Development Trends with React: Froala Rich Text Editor](https://dev.to/ideradevtools/modern-web-development-trends-with-react-froala-rich-text-editor-a86)
 - [Lifehacker] [You Can Use Samsung Modes to Customize Your Galaxy Phone](https://lifehacker.com/tech/samsung-galaxy-modes)
 - [Dev.to/JS] [Double Stacked Column Chart / Combination of Stacked and Column Chart](https://dev.to/sarah_ba4/double-stacked-column-chart-combination-of-stacked-and-column-chart-4f1)
 - [Lifehacker] [The Seven Best Uses for Your Old iPhone or iPad](https://lifehacker.com/tech/uses-for-old-iphone-ipad)
@@ -41,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Amazon Web Services Basics: What is EC2](https://dev.to/cristuker/amazon-web-services-basics-what-is-ec2-3aa2)
 - [Dev.to/JS] [How you can manage your health when you need to do a lot of coding?](https://dev.to/healthwiibes/how-you-can-manage-your-health-when-you-need-to-do-a-lot-of-coding-20ek)
 - [Dev.to/JS] [Bioheal CBD Gummies: Nourishing Wellness Through Nature&#39;s Remedy](https://dev.to/gummieshealthcare/bioheal-cbd-gummies-nourishing-wellness-through-natures-remedy-1jo8)
-- [Dev.to/JS] [Vue.js development services](https://dev.to/webstep/vuejs-development-services-4080)
-- [Dev.to/JS] [7 Projects With Resources to Learn Web Development](https://dev.to/bigsondev/7-projects-with-resources-to-learn-web-development-2ile)
-- [Dev.to/JS] [9th january Trending report Result Exposed Bioheal CBD Gummies 2024 100 % NAtural !](https://dev.to/luonaosorio/9th-january-trending-report-result-exposed-bioheal-cbd-gummies-2024-100-natural--4d40)
 - [Lifehacker] [The Biggest Highlights From CES&#39; Media Days](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $39.99 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
