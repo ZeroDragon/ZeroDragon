@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Slidev Tip - `npm run export` not working?](https://dev.to/ahandsel/slidev-tip-npm-run-export-not-working-147m)
-- [Dev.to/JS] [Lexical Scope and Closures in JavaScript](https://dev.to/devshefali/lexical-scope-and-closures-in-javascript-phf)
+- [Dev.to/JS] [Bioheal CBD Gummies: Nourishing Wellness Through Nature&#39;s Remedy](https://dev.to/gummieshealthcare/bioheal-cbd-gummies-nourishing-wellness-through-natures-remedy-1jo8)
+- [Dev.to/JS] [Vue.js development services](https://dev.to/webstep/vuejs-development-services-4080)
+- [Dev.to/JS] [7 Projects With Resources to Learn Web Development](https://dev.to/bigsondev/7-projects-with-resources-to-learn-web-development-2ile)
+- [Dev.to/JS] [9th january Trending report Result Exposed Bioheal CBD Gummies 2024 100 % NAtural !](https://dev.to/luonaosorio/9th-january-trending-report-result-exposed-bioheal-cbd-gummies-2024-100-natural--4d40)
+- [Dev.to/JS] [Software Development Best Practices Checklist](https://dev.to/jasonmalan/software-development-best-practices-checklist-41ae)
 - [Dev.to/JS] [Take Your Images to New Heights: AI Image Extender](https://dev.to/aiimageexpander12/take-your-images-to-new-heights-ai-image-extender-ofo)
 - [Dev.to/JS] [Converting Excel File to JSON in JS /React.js /Next.js from an URL.](https://dev.to/shafiulazim/converting-excel-file-to-json-in-js-reactjs-nextjs-from-an-url-3gdl)
 - [Dev.to/JS] [Exploding Topics](https://dev.to/rankkmarket/exploding-topics-3cgl)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understand what is garbage collection in java](https://dev.to/manojsharmajtp2/understand-what-is-garbage-collection-in-java-4pd9)
 - [Dev.to/JS] [Optimization Strategies for Success: AZ-120 Dumps Mastery](https://dev.to/calistaolly/optimization-strategies-for-success-az-120-dumps-mastery-12hn)
 - [Dev.to/JS] [Integrating Nuxt 3 with Recaptcha v3 for Token Handling 🤖🔐](https://dev.to/fitrakun/integrating-nuxt-3-with-recaptcha-v3-for-token-handling-2dp0)
-- [Dev.to/JS] [Transform Your Look: DHI Direct Hair Implant in Dubai Explained?](https://dev.to/dynamicaestheticclinicdubai/transform-your-look-dhi-direct-hair-implant-in-dubai-explained-5g3p)
-- [Dev.to/JS] [The difference between recruitment software and applicant tracking system](https://dev.to/lenina59400/the-difference-between-recruitment-software-and-applicant-tracking-system-7il)
-- [Dev.to/JS] [How to Build a Web App in 10 steps in 2024](https://dev.to/refine/how-to-build-a-web-app-in-10-steps-in-2024-56c2)
 - [Lifehacker] [The Best Highlights From CES&#39; Media Days](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $39.99 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
