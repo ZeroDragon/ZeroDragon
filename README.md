@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Background Workers with React: Boosting Performance and Responsiveness](https://dev.to/ernestohs/using-background-workers-with-react-boosting-performance-and-responsiveness-3g29)
+- [Dev.to/JS] [HƯỚNG DẪN Tải App Zbet-Hướng Dẫn Tải App Tham Gia Cá Cược](https://dev.to/zbetscomco/huong-dan-tai-app-zbet-huong-dan-tai-app-tham-gia-ca-cuoc-1ahl)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-9-2024)
 - [Lifehacker] [How to Pull Off a &#39;No-spend&#39; Weekend That Doesn&#39;t Suck](https://lifehacker.com/money/how-to-have-a-successful-no-spend-weekend)
@@ -61,9 +63,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A React.js template with Parcel.js and Bootstrap 5](https://dev.to/lucassul/a-reactjs-template-with-parceljs-and-bootstrap-5-1pm5)
 - [Lifehacker] [Cat Bites Can Actually Be Quite Dangerous](https://lifehacker.com/health/cat-bites-can-be-dangerous)
 - [Lifehacker] [Can You Make a New House Key From a Photograph?](https://lifehacker.com/home/make-house-key-from-photograph)
-- [Dev.to/JS] [How to become a pro-level developer by working on simple projects.](https://dev.to/arize99/how-to-become-a-pro-level-developer-by-working-on-simple-projects-4k16)
 - [Lifehacker] [Wayfair, Macy&#39;s, and Other Retailers Are Charging Return Fees in 2024](https://lifehacker.com/money/stores-charging-return-fees)
-- [Dev.to/JS] [puzzle book mastery](https://dev.to/rankkmarket/puzzle-book-mastery-12ef)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)<!-- TECH-POSTS:END -->
 
