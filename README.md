@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-9-2024)
+- [Lifehacker] [How to Pull Off a &#39;No-spend&#39; Weekend That Doesn&#39;t Suck](https://lifehacker.com/money/how-to-have-a-successful-no-spend-weekend)
+- [Lifehacker] [Babbel Language Learning Is $150 During This Two-Day Flash Sale](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
+- [Lifehacker] [You Can Get the Latest Blink Outdoor 4, Plus a Blink Doorbell Camera, for Nearly 40% Off](https://lifehacker.com/tech/best-blink-outdoor-4-and-blink-doorbell-camera-bundle-deal)
 - [Lifehacker] [CES 2024: AMD Unveils New Processors Designed For &#39;Extreme&#39; Gaming](https://lifehacker.com/tech/amd-debuts-new-radeon-rx-gpu-and-next-gen-desktop-processors)
 - [Lifehacker] [How Much Is Dry January Actually Helping You?](https://lifehacker.com/health/does-dry-january-actually-work)
 - [Lifehacker] [CES 2024: Nvidia Just Announced $600+ ‘Super’ Versions of Its Graphics Cards](https://lifehacker.com/tech/nvidia-announces-rtx-40-super-gpus)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Wayfair, Macy&#39;s, and Other Retailers Are Charging Return Fees in 2024](https://lifehacker.com/money/stores-charging-return-fees)
 - [Dev.to/JS] [puzzle book mastery](https://dev.to/rankkmarket/puzzle-book-mastery-12ef)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-8-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-7-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
-- [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 8, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-8-2024)<!-- TECH-POSTS:END -->
 
 ---
 
