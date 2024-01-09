@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understand what is garbage collection in java](https://dev.to/manojsharmajtp2/understand-what-is-garbage-collection-in-java-4pd9)
+- [Dev.to/JS] [Optimization Strategies for Success: AZ-120 Dumps Mastery](https://dev.to/calistaolly/optimization-strategies-for-success-az-120-dumps-mastery-12hn)
+- [Dev.to/JS] [Integrating Nuxt 3 with Recaptcha v3 for Token Handling 🤖🔐](https://dev.to/fitrakun/integrating-nuxt-3-with-recaptcha-v3-for-token-handling-2dp0)
+- [Dev.to/JS] [Transform Your Look: DHI Direct Hair Implant in Dubai Explained?](https://dev.to/dynamicaestheticclinicdubai/transform-your-look-dhi-direct-hair-implant-in-dubai-explained-5g3p)
+- [Dev.to/JS] [The difference between recruitment software and applicant tracking system](https://dev.to/lenina59400/the-difference-between-recruitment-software-and-applicant-tracking-system-7il)
 - [Dev.to/JS] [Buy Ambien Online Without Prescription - Glow Dental Medicuretoall](https://dev.to/buyambienonl/buy-ambien-online-without-prescription-glow-dental-medicuretoall-462h)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/arturobenson403/buy-verified-cash-app-account-amg)
 - [Dev.to/JS] [I Know What Your Pet Is Thinking](https://dev.to/liuziting/i-know-what-your-pet-is-thinking-4n7)
@@ -52,13 +57,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Clicks&#39; Is an iPhone Keyboard Case With Physical Buttons](https://lifehacker.com/tech/clicks-iphone-keyboard-case)
 - [Lifehacker] [CES 2024: LG Announces Its ‘Disappearing’ Transparent OLED TV](https://lifehacker.com/tech/lg-unveils-its-transparent-oled-tv-at-ces2024)
 - [Dev.to/JS] [woolentor pro](https://dev.to/rankkmarket/woolentor-pro-14f8)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/victorgalvan3676/buy-google-5-star-reviews-icn)
-- [Dev.to/JS] [Mastering React&#39;s `useEffect` Hook](https://dev.to/hriztam/mastering-reacts-useeffect-hook-179a)
 - [Lifehacker] [The Google Pixel Watch LTE Is Half Off Right Now](https://lifehacker.com/tech/google-pixel-watch-lte-on-sale)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/victorgalvan3676/buy-verified-cash-app-account-4nn2)
-- [Dev.to/JS] [Styled-components: Friend or foe?](https://dev.to/miasalazar/styled-components-friend-or-foe-1k53)
 - [Lifehacker] [Do You Spend Money Like a DINK or a HENRY?](https://lifehacker.com/money/what-is-a-dink-or-a-henry)
-- [Dev.to/JS] [Ali Insider](https://dev.to/wsovn112/ali-insider-3o0j)
 - [Lifehacker] [How to Delete an Entire Page in Microsoft Word](https://lifehacker.com/tech/how-to-delete-a-page-in-word)
 - [Lifehacker] [Here’s When You’ll Be Able to Preorder the Apple Vision Pro](https://lifehacker.com/tech/how-to-preorder-apple-vision-pro)
 - [Lifehacker] [How to Recall an Email in Outlook &lpar;and When You Can&#39;t&rpar;](https://lifehacker.com/work/how-to-recall-an-outlook-email)
