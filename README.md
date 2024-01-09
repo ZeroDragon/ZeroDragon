@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [CES 2024: AMD Unveils New Processors Designed For &#39;Extreme&#39; Gaming](https://lifehacker.com/tech/amd-debuts-new-radeon-rx-gpu-and-next-gen-desktop-processors)
 - [Lifehacker] [How Much Is Dry January Actually Helping You?](https://lifehacker.com/health/does-dry-january-actually-work)
 - [Lifehacker] [CES 2024: Nvidia Just Announced $600+ ‘Super’ Versions of Its Graphics Cards](https://lifehacker.com/tech/nvidia-announces-rtx-40-super-gpus)
 - [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 7, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-7-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-6-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 6, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-6-2024)
-- [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)
-- [Lifehacker] [Mark Your Calendar for These Astronomical Events in 2024](https://lifehacker.com/science/astronomy-events-in-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/best-sites-apps-to-track-books-movies-music-games)<!-- TECH-POSTS:END -->
 
 ---
 
