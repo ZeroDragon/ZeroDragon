@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Converting Excel File to JSON in JS /React.js /Next.js from an URL.](https://dev.to/shafiulazim/converting-excel-file-to-json-in-js-reactjs-nextjs-from-an-url-3gdl)
+- [Dev.to/JS] [Exploding Topics](https://dev.to/rankkmarket/exploding-topics-3cgl)
+- [Dev.to/JS] [Treament for a Loved One](https://dev.to/metrowestsoberliving/treament-for-a-loved-one-2jb2)
 - [Dev.to/JS] [Understand what is garbage collection in java](https://dev.to/manojsharmajtp2/understand-what-is-garbage-collection-in-java-4pd9)
 - [Dev.to/JS] [Optimization Strategies for Success: AZ-120 Dumps Mastery](https://dev.to/calistaolly/optimization-strategies-for-success-az-120-dumps-mastery-12hn)
 - [Dev.to/JS] [Integrating Nuxt 3 with Recaptcha v3 for Token Handling 🤖🔐](https://dev.to/fitrakun/integrating-nuxt-3-with-recaptcha-v3-for-token-handling-2dp0)
@@ -51,12 +54,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get &#39;VPN Unlimited&#39; on Sale for $70 Right Now](https://lifehacker.com/tech/vpn-unlimited-subscription-sale)
 - [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-bypass-a-paywall-to-read-an-article-for-free)
 - [Lifehacker] [CES 2024: This Is the Best Audio Gear We Spotted](https://lifehacker.com/tech/the-best-audio-gear-spotted-at-ces-2024)
-- [Dev.to/JS] [TF #29 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-29-your-frontend-digest-67p)
 - [Lifehacker] [CES 2024: LG&#39;s New Smart Home Hub Is a Cute Little Robot](https://lifehacker.com/tech/ces-lg-new-ai-smart-home-robot)
-- [Dev.to/JS] [High Order Function !== Closure](https://dev.to/heres/high-order-function-closures-29d8)
 - [Lifehacker] [&#39;Clicks&#39; Is an iPhone Keyboard Case With Physical Buttons](https://lifehacker.com/tech/clicks-iphone-keyboard-case)
 - [Lifehacker] [CES 2024: LG Announces Its ‘Disappearing’ Transparent OLED TV](https://lifehacker.com/tech/lg-unveils-its-transparent-oled-tv-at-ces2024)
-- [Dev.to/JS] [woolentor pro](https://dev.to/rankkmarket/woolentor-pro-14f8)
 - [Lifehacker] [The Google Pixel Watch LTE Is Half Off Right Now](https://lifehacker.com/tech/google-pixel-watch-lte-on-sale)
 - [Lifehacker] [Do You Spend Money Like a DINK or a HENRY?](https://lifehacker.com/money/what-is-a-dink-or-a-henry)
 - [Lifehacker] [How to Delete an Entire Page in Microsoft Word](https://lifehacker.com/tech/how-to-delete-a-page-in-word)
