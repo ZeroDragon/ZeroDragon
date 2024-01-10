@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Guarding JS Objects with Proxy](https://dev.to/zplata/guarding-js-objects-with-proxy-52bn)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/hskb76140/buy-google-voice-accounts-3jao)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/hskb76140/buy-verified-cash-app-account-l0l)
+- [Dev.to/JS] [Play.ht](https://dev.to/rankkmarket/playht-phb)
+- [Lifehacker] [How to Delete Your Gmail Account &lpar;Without Losing Your Data&rpar;](https://lifehacker.com/tech/delete-gmail-account)
+- [Lifehacker] [CES 2024: Samsung Is Going All-In on SmartThings](https://lifehacker.com/tech/ces-2024-samsung-going-all-in-on-smartthings)
 - [Lifehacker] [How Starting Your Day With a &#39;Brain Dump&#39; Can Make You More Productive](https://lifehacker.com/work/start-your-day-with-a-brain-dump)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/hiskdn696/buy-google-5-star-reviews-2jfb)
 - [Lifehacker] [15 Movies No One Should Ever Watch With Their Parents](https://lifehacker.com/entertainment/15-movies-not-to-watch-with-parents)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/binanceaccount8kt/buy-old-gmail-accounts-3lc8)
 - [Dev.to/JS] [BioHeal CBD Gummies New Guidlines Take Gummies Most Effectivs For Wellness THis Brand High Dimand !](https://dev.to/portertillery/bioheal-cbd-gummies-new-guidlines-take-gummies-most-effectivs-for-wellness-this-brand-high-dimand--4pdc)
 - [Dev.to/JS] [Mobile App Vs Web App: Which Is Best in 2024?](https://dev.to/sparkouttech/mobile-app-vs-web-app-which-is-best-in-2024-3ab8)
-- [Dev.to/JS] [Mean stack development services](https://dev.to/webstep/mean-stack-development-services-1l64)
-- [Dev.to/JS] [Demystifying JavaScript Hoisting: What You Need to Know](https://dev.to/mattbug3/demystifying-javascript-hoisting-what-you-need-to-know-56gi)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 - [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Create the Best Alexa Set-up for Your Home](https://lifehacker.com/tech/best-ways-to-set-up-alexa-for-your-home)
 - [Lifehacker] [How to Recover From Holiday Overspending](https://lifehacker.com/money/how-to-recover-from-holiday-overspending)
 - [Lifehacker] [Why January Is the Best Month to Book a Cruise](https://lifehacker.com/travel/best-time-to-book-cruise)
-- [Lifehacker] [CES 2024: How to Livestream the Qualcomm Keynote](https://lifehacker.com/tech/qualcomm-keynote-ces-2024)
-- [Lifehacker] [CES 2024: Qi2 Brings MagSafe to Non-Apple Chargers](https://lifehacker.com/tech/ces-2024-qi2-magsafe-chargers)
-- [Lifehacker] [CES 2024: Lawnbots Are the New Robot Vacuums](https://lifehacker.com/tech/robot-lawnmowers-at-ces-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [CES 2024: How to Livestream the Qualcomm Keynote](https://lifehacker.com/tech/qualcomm-keynote-ces-2024)<!-- TECH-POSTS:END -->
 
 ---
 
