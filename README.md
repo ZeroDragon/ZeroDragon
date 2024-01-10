@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 - [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
 - [Dev.to/JS] [Understanding the Differences: Server Side Rendering &lpar;SSR&rpar; vs Static Site Generation &lpar;SSG&rpar; in Next.js](https://dev.to/lexyerresta/understanding-the-differences-server-side-rendering-ssr-vs-static-site-generation-ssg-in-nextjs-27cg)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are My Favorite Office Chairs for Comfort and Function](https://lifehacker.com/work/the-best-office-chairs-for-every-persons-needs)
 - [Dev.to/JS] [Amazon Web Services Basics: What is EC2](https://dev.to/cristuker/amazon-web-services-basics-what-is-ec2-3aa2)
 - [Dev.to/JS] [How you can manage your health when you need to do a lot of coding?](https://dev.to/healthwiibes/how-you-can-manage-your-health-when-you-need-to-do-a-lot-of-coding-20ek)
-- [Dev.to/JS] [Bioheal CBD Gummies: Nourishing Wellness Through Nature&#39;s Remedy](https://dev.to/gummieshealthcare/bioheal-cbd-gummies-nourishing-wellness-through-natures-remedy-1jo8)
-- [Lifehacker] [The Biggest Highlights From CES&#39; Media Days](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)<!-- TECH-POSTS:END -->
+- [Dev.to/JS] [Bioheal CBD Gummies: Nourishing Wellness Through Nature&#39;s Remedy](https://dev.to/gummieshealthcare/bioheal-cbd-gummies-nourishing-wellness-through-natures-remedy-1jo8)<!-- TECH-POSTS:END -->
 
 ---
 
