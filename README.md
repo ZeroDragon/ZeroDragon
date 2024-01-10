@@ -26,8 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [OmniPod 5 G6 Intro Kit Buy Online at $749 - CGM Monitors](https://dev.to/robert123/omnipod-5-g6-intro-kit-buy-online-at-749-cgm-monitors-57jh)
 - [Dev.to/JS] [Freestyle Libre 3 Reader Buy Online | CGM Monitors](https://dev.to/robert123/freestyle-libre-3-reader-buy-online-cgm-monitors-13gd)
-- [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-a-macbook)
 - [Lifehacker] [CES 2024: Smart Tech Aims to Be Number One in Your Bathroom](https://lifehacker.com/tech/smart-bathroom-tech-ces-2024)
 - [Lifehacker] [How to Change Your Spotify Display Name in 2024](https://lifehacker.com/tech/how-to-change-your-spotify-username)
 - [Lifehacker] [Four Dates All Student Loan Borrowers Should Know in 2024](https://lifehacker.com/money/dates-student-loan-borrowers-should-know)
@@ -50,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mobile App Vs Web App: Which Is Best in 2024?](https://dev.to/sparkouttech/mobile-app-vs-web-app-which-is-best-in-2024-3ab8)
 - [Dev.to/JS] [Mean stack development services](https://dev.to/webstep/mean-stack-development-services-1l64)
 - [Dev.to/JS] [Demystifying JavaScript Hoisting: What You Need to Know](https://dev.to/mattbug3/demystifying-javascript-hoisting-what-you-need-to-know-56gi)
-- [Dev.to/JS] [Ceiling Clouds](https://dev.to/dekta093/ceiling-clouds-4fkh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 - [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
@@ -65,7 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Deactivate &lpar;or Delete&rpar; Your Instagram](https://lifehacker.com/tech/how-to-deactivate-or-delete-your-instagram)
 - [Lifehacker] [Here&#39;s How Much You Should Save in Your 401&lpar;K&rpar; in 2024](https://lifehacker.com/money/how-much-you-should-save-in-your-401k-in-2024)
 - [Lifehacker] [CES 2024: Lenovo’s Android-Windows Frankentablet Is the Show’s Wackiest Gadget Yet](https://lifehacker.com/tech/lenovo-android-windows-frankentablet-ces-2024)
-- [Lifehacker] [CES 2024: How to Livestream Intel&#39;s Keynote](https://lifehacker.com/tech/ces-2024-intel-keynote)<!-- TECH-POSTS:END -->
+- [Lifehacker] [CES 2024: How to Livestream Intel&#39;s Keynote](https://lifehacker.com/tech/ces-2024-intel-keynote)
+- [Lifehacker] [How to Create the Best Alexa Set-up for Your Home](https://lifehacker.com/tech/best-ways-to-set-up-alexa-for-your-home)<!-- TECH-POSTS:END -->
 
 ---
 
