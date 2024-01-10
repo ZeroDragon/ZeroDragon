@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jungle Scout](https://dev.to/rankkmarket/jungle-scout-1l2m)
 - [Dev.to/JS] [How to actually perform better in frontend interviews](https://dev.to/xplodivity/how-to-actually-perform-better-in-frontend-interviews-159k)
 - [Dev.to/JS] [Starting my WEB DEV Journey](https://dev.to/codebuddylarin/starting-my-web-dev-journey-5a1h)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/binanceaccount8kt/buy-old-gmail-accounts-3lc8)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Astro: the new frontier of Frontend Frameworks 🪐](https://dev.to/dvalin99/astro-the-new-frontier-of-frontend-frameworks-27f2)
 - [Dev.to/JS] [My new GameBoy style portfolio](https://dev.to/matteosant_dev/my-new-portfolio-1acn)
 - [Dev.to/JS] [Bio Wellness CBD Gummies for Complete Wellness: [Bioheal CBD Gummies] where to buy in United States?](https://dev.to/biowellnesscbdbuy/bio-wellness-cbd-gummies-for-complete-wellness-bioheal-cbd-gummies-where-to-buy-in-united-states-4fe3)
-- [Dev.to/JS] [💻 Web Development Resources #180](https://dev.to/vincenius/web-development-resources-180-5g5k)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 - [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
