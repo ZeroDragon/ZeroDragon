@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Six Ways to Extend the Life of Any Vacuum](https://lifehacker.com/home/how-to-extend-the-life-of-a-vacuum-cleaner)
+- [Dev.to/JS] [Creating Startup Dopamine: Harnessing the Power of Real-Time User Events in Slack](https://dev.to/zzimbler/creating-startup-dopamine-harnessing-the-power-of-real-time-user-events-in-slack-56io)
+- [Lifehacker] [CES 2024: The Coolest Smart Kitchen Tech We Saw](https://lifehacker.com/tech/smart-kitchen-tech-ces-2024)
 - [Dev.to/JS] [OmniPod 5 G6 Intro Kit Buy Online at $749 - CGM Monitors](https://dev.to/robert123/omnipod-5-g6-intro-kit-buy-online-at-749-cgm-monitors-57jh)
+- [Lifehacker] [CES 2024: ASUS’s Latest Gaming Phone Is Thinner and Lighter Than Ever Before](https://lifehacker.com/tech/asus-rog-8-series-review)
 - [Dev.to/JS] [Freestyle Libre 3 Reader Buy Online | CGM Monitors](https://dev.to/robert123/freestyle-libre-3-reader-buy-online-cgm-monitors-13gd)
+- [Lifehacker] [CES 2024: All the Coolest &lpar;and Weirdest&rpar; Gaming Gear We Saw](https://lifehacker.com/entertainment/gaming-gear-spotted-at-ces-2024)
+- [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-a-macbook)
+- [Dev.to/JS] [Excited to Launch: danieljsaldana.dev Portfolio! 🎉](https://dev.to/danieljsaldana/excited-to-launch-danieljsaldanadev-portfolio-186d)
 - [Lifehacker] [CES 2024: Smart Tech Aims to Be Number One in Your Bathroom](https://lifehacker.com/tech/smart-bathroom-tech-ces-2024)
 - [Lifehacker] [How to Change Your Spotify Display Name in 2024](https://lifehacker.com/tech/how-to-change-your-spotify-username)
 - [Lifehacker] [Four Dates All Student Loan Borrowers Should Know in 2024](https://lifehacker.com/money/dates-student-loan-borrowers-should-know)
@@ -48,8 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn Off Siri on All Your Apple Devices](https://lifehacker.com/tech/how-to-turn-off-siri)
 - [Dev.to/JS] [Starting my WEB DEV Journey](https://dev.to/codebuddylarin/starting-my-web-dev-journey-5a1h)
 - [Dev.to/JS] [Mobile App Vs Web App: Which Is Best in 2024?](https://dev.to/sparkouttech/mobile-app-vs-web-app-which-is-best-in-2024-3ab8)
-- [Dev.to/JS] [Mean stack development services](https://dev.to/webstep/mean-stack-development-services-1l64)
-- [Dev.to/JS] [Demystifying JavaScript Hoisting: What You Need to Know](https://dev.to/mattbug3/demystifying-javascript-hoisting-what-you-need-to-know-56gi)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 - [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [CES 2024: This HP Gaming Monitor Is a Standout](https://lifehacker.com/tech/this-hp-monitor-is-one-of-my-favorite-from-ces-2024)
 - [Lifehacker] [These Are the Best VR Headsets to Buy in 2024](https://lifehacker.com/tech/best-vr-headsets-for-2024)
 - [Lifehacker] [The Senior Discounts That Will Save You the Most Money](https://lifehacker.com/money/best-senior-discounts)
-- [Lifehacker] [CES 2024: Intel Announced Its Newest Generation of Desktop Processors](https://lifehacker.com/tech/ces-2024-intel-unveils-14th-gen-desktop-processors)
-- [Lifehacker] [How to Deactivate &lpar;or Delete&rpar; Your Instagram](https://lifehacker.com/tech/how-to-deactivate-or-delete-your-instagram)
-- [Lifehacker] [Here&#39;s How Much You Should Save in Your 401&lpar;K&rpar; in 2024](https://lifehacker.com/money/how-much-you-should-save-in-your-401k-in-2024)
-- [Lifehacker] [CES 2024: Lenovo’s Android-Windows Frankentablet Is the Show’s Wackiest Gadget Yet](https://lifehacker.com/tech/lenovo-android-windows-frankentablet-ces-2024)
-- [Lifehacker] [CES 2024: How to Livestream Intel&#39;s Keynote](https://lifehacker.com/tech/ces-2024-intel-keynote)
-- [Lifehacker] [How to Create the Best Alexa Set-up for Your Home](https://lifehacker.com/tech/best-ways-to-set-up-alexa-for-your-home)<!-- TECH-POSTS:END -->
+- [Lifehacker] [CES 2024: Intel Announced Its Newest Generation of Desktop Processors](https://lifehacker.com/tech/ces-2024-intel-unveils-14th-gen-desktop-processors)<!-- TECH-POSTS:END -->
 
 ---
 
