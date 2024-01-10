@@ -27,6 +27,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Understanding the Differences: Server Side Rendering &lpar;SSR&rpar; vs Static Site Generation &lpar;SSG&rpar; in Next.js](https://dev.to/lexyerresta/understanding-the-differences-server-side-rendering-ssr-vs-static-site-generation-ssg-in-nextjs-27cg)
+- [Lifehacker] [How to Copy and Paste on a Chromebook](https://lifehacker.com/tech/how-to-copy-and-paste-on-a-chromebook)
+- [Lifehacker] [These Are the Best Wireless Earbuds to Buy in 2024](https://lifehacker.com/tech/best-wireless-earbuds)
 - [Lifehacker] [You Can Get This MacBook Stand on Sale for $45 Right Now](https://lifehacker.com/tech/elevate-macbook-stand-sale)
 - [Lifehacker] [CES 2024: ASUS&#39;s New PC Components Might Finally Fix Your Messy Cables](https://lifehacker.com/tech/asus-reveals-new-btf-pc-components)
 - [Lifehacker] [CES 2024: This HP Gaming Monitor Is a Standout](https://lifehacker.com/tech/this-hp-monitor-is-one-of-my-favorite-from-ces-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bioheal CBD Gummies: Nourishing Wellness Through Nature&#39;s Remedy](https://dev.to/gummieshealthcare/bioheal-cbd-gummies-nourishing-wellness-through-natures-remedy-1jo8)
 - [Lifehacker] [The Biggest Highlights From CES&#39; Media Days](https://lifehacker.com/tech/the-best-highlights-from-ces-media-days)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $39.99 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-9-2024)
-- [Lifehacker] [How to Pull Off a &#39;No-spend&#39; Weekend That Doesn&#39;t Suck](https://lifehacker.com/money/how-to-have-a-successful-no-spend-weekend)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-9-2024)<!-- TECH-POSTS:END -->
 
 ---
 
