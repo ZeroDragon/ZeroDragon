@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [CES 2024: This HP Gaming Monitor Is a Standout](https://lifehacker.com/tech/this-hp-monitor-is-one-of-my-favorite-from-ces-2024)
+- [Lifehacker] [These Are the Best VR Headsets to Buy in 2024](https://lifehacker.com/tech/best-vr-headsets-for-2024)
 - [Lifehacker] [The Senior Discounts That Will Save You the Most Money](https://lifehacker.com/money/best-senior-discounts)
 - [Lifehacker] [CES 2024: Intel Announced Its Newest Generation of Desktop Processors](https://lifehacker.com/tech/ces-2024-intel-unveils-14th-gen-desktop-processors)
 - [Lifehacker] [How to Deactivate &lpar;or Delete&rpar; Your Instagram](https://lifehacker.com/tech/how-to-deactivate-or-delete-your-instagram)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 9, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-9-2024)
 - [Lifehacker] [How to Pull Off a &#39;No-spend&#39; Weekend That Doesn&#39;t Suck](https://lifehacker.com/money/how-to-have-a-successful-no-spend-weekend)
 - [Lifehacker] [Babbel Language Learning Is $150 During This Two-Day Flash Sale](https://lifehacker.com/a-lifetime-subscription-to-babbel-is-140-right-now-1850974860)
-- [Lifehacker] [You Can Get the Latest Blink Outdoor 4, Plus a Blink Doorbell Camera, for Nearly 40% Off](https://lifehacker.com/tech/best-blink-outdoor-4-and-blink-doorbell-camera-bundle-deal)
-- [Lifehacker] [CES 2024: AMD Unveils New Processors Designed For &#39;Extreme&#39; Gaming](https://lifehacker.com/tech/amd-debuts-new-radeon-rx-gpu-and-next-gen-desktop-processors)
-- [Lifehacker] [How Much Is Dry January Actually Helping You?](https://lifehacker.com/health/does-dry-january-actually-work)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get the Latest Blink Outdoor 4, Plus a Blink Doorbell Camera, for Nearly 40% Off](https://lifehacker.com/tech/best-blink-outdoor-4-and-blink-doorbell-camera-bundle-deal)<!-- TECH-POSTS:END -->
 
 ---
 
