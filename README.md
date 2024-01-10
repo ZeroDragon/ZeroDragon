@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🕵️‍♀️ Detect And Blur Human Faces with Ai in NextJS ✨](https://dev.to/random_ti/detect-and-blur-human-faces-with-ai-in-nextjs-hg6)
+- [Dev.to/JS] [Amalinks](https://dev.to/wsovn112/amalinks-5bl7)
+- [Lifehacker] [What Does Amazon Prime Cost &lpar;and What Does It Get You&rpar;?](https://lifehacker.com/money/what-does-amazon-prime-cost)
+- [Lifehacker] [These Are the Best Noise-Canceling Headphones to Buy in 2024](https://lifehacker.com/tech/best-noise-canceling-headphones)
 - [Dev.to/JS] [Jungle Scout](https://dev.to/rankkmarket/jungle-scout-1l2m)
 - [Dev.to/JS] [How to actually perform better in frontend interviews](https://dev.to/xplodivity/how-to-actually-perform-better-in-frontend-interviews-159k)
+- [Lifehacker] [How to Turn Off Siri on All Your Apple Devices](https://lifehacker.com/tech/how-to-turn-off-siri)
 - [Dev.to/JS] [Starting my WEB DEV Journey](https://dev.to/codebuddylarin/starting-my-web-dev-journey-5a1h)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/binanceaccount8kt/buy-old-gmail-accounts-3lc8)
 - [Dev.to/JS] [BioHeal CBD Gummies New Guidlines Take Gummies Most Effectivs For Wellness THis Brand High Dimand !](https://dev.to/portertillery/bioheal-cbd-gummies-new-guidlines-take-gummies-most-effectivs-for-wellness-this-brand-high-dimand--4pdc)
@@ -36,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying JavaScript Hoisting: What You Need to Know](https://dev.to/mattbug3/demystifying-javascript-hoisting-what-you-need-to-know-56gi)
 - [Dev.to/JS] [Ceiling Clouds](https://dev.to/dekta093/ceiling-clouds-4fkh)
 - [Dev.to/JS] [Astro: the new frontier of Frontend Frameworks 🪐](https://dev.to/dvalin99/astro-the-new-frontier-of-frontend-frameworks-27f2)
-- [Dev.to/JS] [My new GameBoy style portfolio](https://dev.to/matteosant_dev/my-new-portfolio-1acn)
-- [Dev.to/JS] [Bio Wellness CBD Gummies for Complete Wellness: [Bioheal CBD Gummies] where to buy in United States?](https://dev.to/biowellnesscbdbuy/bio-wellness-cbd-gummies-for-complete-wellness-bioheal-cbd-gummies-where-to-buy-in-united-states-4fe3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 - [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Set Up Amazon Alexa for the First Time](https://lifehacker.com/tech/how-to-set-up-amazon-alexa-for-the-first-time)
 - [Lifehacker] [CES 2024: Belkin’s New &#39;Stand Pro&#39; Might Be the Best Motion-Tracking Dock for iPhones](https://lifehacker.com/tech/belkin-iphone-stand-pro-announcement)
 - [Lifehacker] [You Can Use Samsung Modes to Customize Your Galaxy Phone](https://lifehacker.com/tech/samsung-galaxy-modes)
-- [Lifehacker] [The Seven Best Uses for Your Old iPhone or iPad](https://lifehacker.com/tech/uses-for-old-iphone-ipad)
-- [Lifehacker] [&#39;Hyposensitivity&#39; Can Look a Lot Like Misbehavior](https://lifehacker.com/family/what-is-hyposensitivity)
-- [Lifehacker] [You Should Check Your Car’s Vehicle History Report Regularly &lpar;Even If You’re Not Selling It&rpar;](https://lifehacker.com/money/why-you-should-check-your-cars-vehicle-history-report)
-- [Lifehacker] [These Are My Favorite Office Chairs for Comfort and Function](https://lifehacker.com/work/the-best-office-chairs-for-every-persons-needs)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Seven Best Uses for Your Old iPhone or iPad](https://lifehacker.com/tech/uses-for-old-iphone-ipad)<!-- TECH-POSTS:END -->
 
 ---
 
