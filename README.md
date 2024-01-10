@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guarding JS Objects with Proxy](https://dev.to/zplata/guarding-js-objects-with-proxy-52bn)
+- [Lifehacker] [How Starting Your Day With a &#39;Brain Dump&#39; Can Make You More Productive](https://lifehacker.com/work/start-your-day-with-a-brain-dump)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/hiskdn696/buy-google-5-star-reviews-2jfb)
+- [Lifehacker] [15 Movies No One Should Ever Watch With Their Parents](https://lifehacker.com/entertainment/15-movies-not-to-watch-with-parents)
+- [Lifehacker] [How to Customize Google Chrome With Themes and Colors](https://lifehacker.com/tech/how-to-customize-google-chrome)
+- [Lifehacker] [How to Reset an AirTag to Pair With a New Apple ID](https://lifehacker.com/how-to-reset-an-airtag-to-pair-with-a-new-apple-id-1846813390)
 - [Dev.to/JS] [🕵️‍♀️ Detect And Blur Human Faces with Ai in NextJS ✨](https://dev.to/random_ti/detect-and-blur-human-faces-with-ai-in-nextjs-hg6)
 - [Dev.to/JS] [Amalinks](https://dev.to/wsovn112/amalinks-5bl7)
 - [Lifehacker] [What Does Amazon Prime Cost &lpar;and What Does It Get You&rpar;?](https://lifehacker.com/money/what-does-amazon-prime-cost)
@@ -40,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mobile App Vs Web App: Which Is Best in 2024?](https://dev.to/sparkouttech/mobile-app-vs-web-app-which-is-best-in-2024-3ab8)
 - [Dev.to/JS] [Mean stack development services](https://dev.to/webstep/mean-stack-development-services-1l64)
 - [Dev.to/JS] [Demystifying JavaScript Hoisting: What You Need to Know](https://dev.to/mattbug3/demystifying-javascript-hoisting-what-you-need-to-know-56gi)
-- [Dev.to/JS] [Ceiling Clouds](https://dev.to/dekta093/ceiling-clouds-4fkh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 - [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why January Is the Best Month to Book a Cruise](https://lifehacker.com/travel/best-time-to-book-cruise)
 - [Lifehacker] [CES 2024: How to Livestream the Qualcomm Keynote](https://lifehacker.com/tech/qualcomm-keynote-ces-2024)
 - [Lifehacker] [CES 2024: Qi2 Brings MagSafe to Non-Apple Chargers](https://lifehacker.com/tech/ces-2024-qi2-magsafe-chargers)
-- [Lifehacker] [CES 2024: Lawnbots Are the New Robot Vacuums](https://lifehacker.com/tech/robot-lawnmowers-at-ces-2024)
-- [Lifehacker] [How to Set Up Amazon Alexa for the First Time](https://lifehacker.com/tech/how-to-set-up-amazon-alexa-for-the-first-time)
-- [Lifehacker] [CES 2024: Belkin’s New &#39;Stand Pro&#39; Might Be the Best Motion-Tracking Dock for iPhones](https://lifehacker.com/tech/belkin-iphone-stand-pro-announcement)
-- [Lifehacker] [You Can Use Samsung Modes to Customize Your Galaxy Phone](https://lifehacker.com/tech/samsung-galaxy-modes)
-- [Lifehacker] [The Seven Best Uses for Your Old iPhone or iPad](https://lifehacker.com/tech/uses-for-old-iphone-ipad)<!-- TECH-POSTS:END -->
+- [Lifehacker] [CES 2024: Lawnbots Are the New Robot Vacuums](https://lifehacker.com/tech/robot-lawnmowers-at-ces-2024)<!-- TECH-POSTS:END -->
 
 ---
 
