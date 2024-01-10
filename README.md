@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🟨 JavaScript 6 | 🪨 Rock 📄 Paper  ✂️ Scissors with score object &lpar;3&rpar;](https://dev.to/gregor_schafroth/javascript-6-rock-paper-scissors-with-score-object-3-3j4n)
+- [Dev.to/JS] [Bio Wellness CBD Gummies for Complete Wellness: [Bioheal CBD Gummies] where to buy in United States?](https://dev.to/biowellnesscbdbuy/bio-wellness-cbd-gummies-for-complete-wellness-bioheal-cbd-gummies-where-to-buy-in-united-states-4fe3)
+- [Dev.to/JS] [💻 Web Development Resources #180](https://dev.to/vincenius/web-development-resources-180-5g5k)
 - [Dev.to/JS] [Btc miner code](https://dev.to/215vietcong/btc-miner-code-33n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Hyposensitivity&#39; Can Look a Lot Like Misbehavior](https://lifehacker.com/family/what-is-hyposensitivity)
 - [Dev.to/JS] [Why web applications are the future of the IT industry: advantages and development prospects](https://dev.to/sparkouttech/why-web-applications-are-the-future-of-the-it-industry-advantages-and-development-prospects-47il)
 - [Lifehacker] [You Should Check Your Car’s Vehicle History Report Regularly &lpar;Even If You’re Not Selling It&rpar;](https://lifehacker.com/money/why-you-should-check-your-cars-vehicle-history-report)
-- [Dev.to/JS] [Is Traditional Web Development Dead? The Rise of No-Code Platforms🧐](https://dev.to/zanepearton/is-traditional-web-development-dead-the-rise-of-no-code-platforms-3o8c)
-- [Lifehacker] [These Are My Favorite Office Chairs for Comfort and Function](https://lifehacker.com/work/the-best-office-chairs-for-every-persons-needs)
-- [Dev.to/JS] [Amazon Web Services Basics: What is EC2](https://dev.to/cristuker/amazon-web-services-basics-what-is-ec2-3aa2)
-- [Dev.to/JS] [How you can manage your health when you need to do a lot of coding?](https://dev.to/healthwiibes/how-you-can-manage-your-health-when-you-need-to-do-a-lot-of-coding-20ek)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are My Favorite Office Chairs for Comfort and Function](https://lifehacker.com/work/the-best-office-chairs-for-every-persons-needs)<!-- TECH-POSTS:END -->
 
 ---
 
