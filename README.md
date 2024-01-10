@@ -26,8 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Server-side Rendering with Next.js, React, and TypeScript](https://dev.to/appsignal/server-side-rendering-with-nextjs-react-and-typescript-1la4)
-- [Dev.to/JS] [The case for using decorators in your codebase](https://dev.to/yashgogia/the-case-for-using-decorators-in-your-codebase-h1l)
+- [Dev.to/JS] [How to actually perform better in frontend interviews](https://dev.to/xplodivity/how-to-actually-perform-better-in-frontend-interviews-159k)
+- [Dev.to/JS] [Starting my WEB DEV Journey](https://dev.to/codebuddylarin/starting-my-web-dev-journey-5a1h)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/binanceaccount8kt/buy-old-gmail-accounts-3lc8)
 - [Dev.to/JS] [BioHeal CBD Gummies New Guidlines Take Gummies Most Effectivs For Wellness THis Brand High Dimand !](https://dev.to/portertillery/bioheal-cbd-gummies-new-guidlines-take-gummies-most-effectivs-for-wellness-this-brand-high-dimand--4pdc)
 - [Dev.to/JS] [Mobile App Vs Web App: Which Is Best in 2024?](https://dev.to/sparkouttech/mobile-app-vs-web-app-which-is-best-in-2024-3ab8)
