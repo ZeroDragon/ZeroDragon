@@ -27,10 +27,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Mean stack development services](https://dev.to/webstep/mean-stack-development-services-1l64)
-- [Dev.to/JS] [Demystifying JavaScript Hoisting: What You Need to Know](https://dev.to/mattbug3/demystifying-javascript-hoisting-what-you-need-to-know-56gi)
 - [Dev.to/JS] [Ceiling Clouds](https://dev.to/dekta093/ceiling-clouds-4fkh)
 - [Dev.to/JS] [Astro: the new frontier of Frontend Frameworks 🪐](https://dev.to/dvalin99/astro-the-new-frontier-of-frontend-frameworks-27f2)
-- [Dev.to/JS] [My new portfolio](https://dev.to/matteosant_dev/my-new-portfolio-1acn)
+- [Dev.to/JS] [My new GameBoy style portfolio](https://dev.to/matteosant_dev/my-new-portfolio-1acn)
 - [Dev.to/JS] [Bio Wellness CBD Gummies for Complete Wellness: [Bioheal CBD Gummies] where to buy in United States?](https://dev.to/biowellnesscbdbuy/bio-wellness-cbd-gummies-for-complete-wellness-bioheal-cbd-gummies-where-to-buy-in-united-states-4fe3)
 - [Dev.to/JS] [💻 Web Development Resources #180](https://dev.to/vincenius/web-development-resources-180-5g5k)
 - [Dev.to/JS] [Btc miner code](https://dev.to/215vietcong/btc-miner-code-33n)
@@ -59,6 +58,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [CES 2024: How to Livestream the Qualcomm Keynote](https://lifehacker.com/tech/qualcomm-keynote-ces-2024)
 - [Lifehacker] [CES 2024: Qi2 Brings MagSafe to Non-Apple Chargers](https://lifehacker.com/tech/ces-2024-qi2-magsafe-chargers)
 - [Lifehacker] [CES 2024: Lawnbots Are the New Robot Vacuums](https://lifehacker.com/tech/robot-lawnmowers-at-ces-2024)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/hizjjssbs/buy-verified-cash-app-account-299h)
 - [Lifehacker] [How to Set Up Amazon Alexa for the First Time](https://lifehacker.com/tech/how-to-set-up-amazon-alexa-for-the-first-time)
 - [Lifehacker] [CES 2024: Belkin’s New &#39;Stand Pro&#39; Might Be the Best Motion-Tracking Dock for iPhones](https://lifehacker.com/tech/belkin-iphone-stand-pro-announcement)
 - [Lifehacker] [You Can Use Samsung Modes to Customize Your Galaxy Phone](https://lifehacker.com/tech/samsung-galaxy-modes)
