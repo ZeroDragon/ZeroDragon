@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/hiskdn696/buy-google-5-star-reviews-2jfb)
 - [Dev.to/JS] [🕵️‍♀️ Detect And Blur Human Faces with Ai in NextJS ✨](https://dev.to/random_ti/detect-and-blur-human-faces-with-ai-in-nextjs-hg6)
 - [Dev.to/JS] [Amalinks](https://dev.to/wsovn112/amalinks-5bl7)
 - [Lifehacker] [What Does Amazon Prime Cost &lpar;and What Does It Get You&rpar;?](https://lifehacker.com/money/what-does-amazon-prime-cost)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mean stack development services](https://dev.to/webstep/mean-stack-development-services-1l64)
 - [Dev.to/JS] [Demystifying JavaScript Hoisting: What You Need to Know](https://dev.to/mattbug3/demystifying-javascript-hoisting-what-you-need-to-know-56gi)
 - [Dev.to/JS] [Ceiling Clouds](https://dev.to/dekta093/ceiling-clouds-4fkh)
-- [Dev.to/JS] [Astro: the new frontier of Frontend Frameworks 🪐](https://dev.to/dvalin99/astro-the-new-frontier-of-frontend-frameworks-27f2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 - [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
