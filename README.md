@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Can Neuro-Inclusive Design Technology Be More Accessible for Individuals with Disabilities?](https://dev.to/yagnapandya9/how-can-neuro-inclusive-design-technology-be-more-accessible-for-individuals-with-disabilities-34eh)
 - [Dev.to/JS] [Equal heights](https://dev.to/thedevcristian/equal-heights-4o4c)
 - [Dev.to/JS] [Understanding and Implementing JSON and fetch&lpar;&rpar;](https://dev.to/kaitlynshae28/understanding-and-implementing-json-and-fetch-4f19)
 - [Dev.to/JS] [🚀 World’s First AI-Powered No-Code PWA App Builder! 📱✨](https://dev.to/mim542902/worlds-first-ai-powered-no-code-pwa-app-builder-49kg)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zendle Scented Candles - Christmas Gifting Made Easy](https://dev.to/zendlescentedcandle/zendle-scented-candles-christmas-gifting-made-easy-1h52)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-11-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-11-2024)
-- [Dev.to/JS] [Session Management in SvelteKit Using Stores with svelte-kit-sessions](https://dev.to/yutak23/session-management-in-sveltekit-using-stores-with-svelte-kit-sessions-24df)
 - [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)
 - [Lifehacker] [The Best Movies to Stream on Tubi This Month](https://lifehacker.com/entertainment/best-movies-streaming-on-tubi)
 - [Lifehacker] [Seven Common Household Items You&#39;re Better Off Not Washing With Soap](https://lifehacker.com/home/common-household-items-you-shouldnt-wash-wish-soap)
