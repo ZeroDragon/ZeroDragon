@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2024 Web Development Wish List](https://dev.to/jdgamble555/2024-web-development-wish-list-dak)
+- [Dev.to/JS] [Remote Work: The Top 30 Remote-Friendly Companies Actively Hiring in 2024](https://dev.to/aajinkya/remote-work-the-top-30-remote-friendly-companies-actively-hiring-in-2024-5281)
+- [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)
+- [Lifehacker] [The Best Movies to Stream on Tubi This Month](https://lifehacker.com/entertainment/best-movies-streaming-on-tubi)
+- [Lifehacker] [Seven Common Household Items You&#39;re Better Off Not Washing With Soap](https://lifehacker.com/home/common-household-items-you-shouldnt-wash-wish-soap)
 - [Lifehacker] [These Are the Best Bluetooth Speakers to Buy in 2024](https://lifehacker.com/tech/best-bluetooth-speakers)
 - [Lifehacker] [Six Ways to Extend the Life of Any Vacuum](https://lifehacker.com/home/how-to-extend-the-life-of-a-vacuum-cleaner)
 - [Dev.to/JS] [Creating Startup Dopamine: Harnessing the Power of Real-Time User Events in Slack](https://dev.to/zzimbler/creating-startup-dopamine-harnessing-the-power-of-real-time-user-events-in-slack-56io)
@@ -54,18 +59,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jungle Scout](https://dev.to/rankkmarket/jungle-scout-1l2m)
 - [Dev.to/JS] [How to actually perform better in frontend interviews](https://dev.to/xplodivity/how-to-actually-perform-better-in-frontend-interviews-159k)
 - [Lifehacker] [How to Turn Off Siri on All Your Apple Devices](https://lifehacker.com/tech/how-to-turn-off-siri)
-- [Dev.to/JS] [Starting my WEB DEV Journey](https://dev.to/codebuddylarin/starting-my-web-dev-journey-5a1h)
-- [Dev.to/JS] [Mobile App Vs Web App: Which Is Best in 2024?](https://dev.to/sparkouttech/mobile-app-vs-web-app-which-is-best-in-2024-3ab8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 - [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
 - [Lifehacker] [How to Copy and Paste on a Chromebook](https://lifehacker.com/tech/how-to-copy-and-paste-on-a-chromebook)
 - [Lifehacker] [These Are the Best Wireless Earbuds to Buy in 2024](https://lifehacker.com/tech/best-wireless-earbuds)
 - [Lifehacker] [You Can Get This MacBook Stand on Sale for $45 Right Now](https://lifehacker.com/tech/elevate-macbook-stand-sale)
-- [Lifehacker] [CES 2024: ASUS&#39;s New PC Components Might Finally Fix Your Messy Cables](https://lifehacker.com/tech/asus-reveals-new-btf-pc-components)
-- [Lifehacker] [CES 2024: This HP Gaming Monitor Is a Standout](https://lifehacker.com/tech/this-hp-monitor-is-one-of-my-favorite-from-ces-2024)
-- [Lifehacker] [These Are the Best VR Headsets to Buy in 2024](https://lifehacker.com/tech/best-vr-headsets-for-2024)
-- [Lifehacker] [The Senior Discounts That Will Save You the Most Money](https://lifehacker.com/money/best-senior-discounts)<!-- TECH-POSTS:END -->
+- [Lifehacker] [CES 2024: ASUS&#39;s New PC Components Might Finally Fix Your Messy Cables](https://lifehacker.com/tech/asus-reveals-new-btf-pc-components)<!-- TECH-POSTS:END -->
 
 ---
 
