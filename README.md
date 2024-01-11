@@ -26,8 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [3 Programming Myths That Keep You Stuck, Frustrated And Underpaid](https://dev.to/dragosnedelcu/3-programming-myths-that-keep-you-stuck-frustrated-and-underpaid-27bg)
-- [Dev.to/JS] [McDeepNet: Cooking Up AI-Generated Reviews with a Side fries 🍟](https://dev.to/zanepearton/mcdeepnet-cooking-up-ai-generated-reviews-with-a-side-fries-2dd1)
+- [Dev.to/JS] [Cultivo Conectado: Do Conceito à Realidade de um Sistema IoT para Monitoramento Agrícola](https://dev.to/hugosrc/cultivo-conectado-do-conceito-a-realidade-de-um-sistema-iot-para-monitoramento-agricola-48fk)
+- [Dev.to/JS] [Fixing a table header on a horizontally scrolling table](https://dev.to/maurocen/fixing-a-table-header-on-a-horizontally-scrolling-table-2p7m)
+- [Lifehacker] [Why Gen Z Loves ‘Loud Budgeting’](https://lifehacker.com/money/what-is-loud-budgeting-and-how-to-do-it)
 - [Dev.to/JS] [CONVERT Picture TO HTML WITH TAILWINDCSS Utilizing THIS AI](https://dev.to/pranavkdileep/convert-picture-to-html-with-tailwindcss-utilizing-this-ai-4gco)
 - [Dev.to/JS] [How Can Neuro-Inclusive Design Technology Be More Accessible for Individuals with Disabilities?](https://dev.to/yagnapandya9/how-can-neuro-inclusive-design-technology-be-more-accessible-for-individuals-with-disabilities-34eh)
 - [Dev.to/JS] [Equal heights](https://dev.to/thedevcristian/equal-heights-4o4c)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 - [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
-- [Lifehacker] [How to Copy and Paste on a Chromebook](https://lifehacker.com/tech/how-to-copy-and-paste-on-a-chromebook)
-- [Lifehacker] [These Are the Best Wireless Earbuds to Buy in 2024](https://lifehacker.com/tech/best-wireless-earbuds)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Copy and Paste on a Chromebook](https://lifehacker.com/tech/how-to-copy-and-paste-on-a-chromebook)<!-- TECH-POSTS:END -->
 
 ---
 
