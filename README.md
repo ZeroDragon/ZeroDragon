@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular is not for everyone, and probably not for you](https://dev.to/misterion96/angular-is-not-for-everyone-and-probably-not-for-you-404n)
+- [Dev.to/JS] [Electricians In The Coquitlam &amp; Nearby](https://dev.to/haniee91/electricians-in-the-coquitlam-nearby-3njk)
 - [Dev.to/JS] [How To Design a MySQL Database for your Basic Notification System?](https://dev.to/nikl/how-to-design-a-mysql-database-for-your-basic-notification-system-2fln)
 - [Dev.to/JS] [Developer](https://dev.to/moeed/developer-5ddg)
 - [Dev.to/JS] [SC-900 Exam Dumps Guide: Navigating Certification Success](https://dev.to/j0b6ylfy/sc-900-exam-dumps-guide-navigating-certification-success-36d7)
@@ -47,11 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Freestyle Libre 3 Reader Buy Online | CGM Monitors](https://dev.to/robert123/freestyle-libre-3-reader-buy-online-cgm-monitors-13gd)
 - [Lifehacker] [CES 2024: All the Coolest &lpar;and Weirdest&rpar; Gaming Gear We Saw](https://lifehacker.com/entertainment/gaming-gear-spotted-at-ces-2024)
 - [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-a-macbook)
-- [Dev.to/JS] [Excited to Launch: danieljsaldana.dev Portfolio! 🎉](https://dev.to/danieljsaldana/excited-to-launch-danieljsaldanadev-portfolio-186d)
 - [Lifehacker] [CES 2024: Smart Tech Aims to Be Number One in Your Bathroom](https://lifehacker.com/tech/smart-bathroom-tech-ces-2024)
 - [Lifehacker] [How to Change Your Spotify Display Name in 2024](https://lifehacker.com/tech/how-to-change-your-spotify-username)
 - [Lifehacker] [Four Dates All Student Loan Borrowers Should Know in 2024](https://lifehacker.com/money/dates-student-loan-borrowers-should-know)
-- [Dev.to/JS] [Play.ht](https://dev.to/rankkmarket/playht-phb)
 - [Lifehacker] [How to Delete Your Gmail Account &lpar;Without Losing Your Data&rpar;](https://lifehacker.com/tech/delete-gmail-account)
 - [Lifehacker] [CES 2024: Samsung Is Going All-In on SmartThings](https://lifehacker.com/tech/ces-2024-samsung-going-all-in-on-smartthings)
 - [Lifehacker] [How Starting Your Day With a &#39;Brain Dump&#39; Can Make You More Productive](https://lifehacker.com/work/start-your-day-with-a-brain-dump)
