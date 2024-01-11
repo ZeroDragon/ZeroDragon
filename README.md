@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Engage, Persuade, and Succeed: Secrets to a Compelling Marketing Plan Presentation](https://dev.to/marketingpresentation/engage-persuade-and-succeed-secrets-to-a-compelling-marketing-plan-presentation-1ddb)
+- [Dev.to/JS] [Los pescadores vieron algo brillante cerca de un arroyo. Fue el primer paso hacia un &#39;milagro&#39;](https://dev.to/rafelm400/los-pescadores-vieron-algo-brillante-cerca-de-un-arroyo-fue-el-primer-paso-hacia-un-milagro-4n0n)
+- [Dev.to/JS] [Block Scope and Shadowing In JavaScript](https://dev.to/shahidbugti/block-scope-and-shadowing-in-javascript-438c)
+- [Dev.to/JS] [Middleware in Express.js](https://dev.to/m__mdy__m/middleware-in-expressjs-4b4)
+- [Dev.to/JS] [Getting Started with Node.js: Building a Basic Web Server](https://dev.to/kucherol/getting-started-with-nodejs-building-a-basic-web-server-67h)
 - [Dev.to/JS] [Cultivo Conectado: Do Conceito à Realidade de um Sistema IoT para Monitoramento Agrícola](https://dev.to/hugosrc/cultivo-conectado-do-conceito-a-realidade-de-um-sistema-iot-para-monitoramento-agricola-48fk)
 - [Dev.to/JS] [Fixing a table header on a horizontally scrolling table](https://dev.to/maurocen/fixing-a-table-header-on-a-horizontally-scrolling-table-2p7m)
 - [Lifehacker] [Why Gen Z Loves ‘Loud Budgeting’](https://lifehacker.com/money/what-is-loud-budgeting-and-how-to-do-it)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Equal heights](https://dev.to/thedevcristian/equal-heights-4o4c)
 - [Dev.to/JS] [Understanding and Implementing JSON and fetch&lpar;&rpar;](https://dev.to/kaitlynshae28/understanding-and-implementing-json-and-fetch-4f19)
 - [Dev.to/JS] [🚀 World’s First AI-Powered No-Code PWA App Builder! 📱✨](https://dev.to/mim542902/worlds-first-ai-powered-no-code-pwa-app-builder-49kg)
-- [Dev.to/JS] [Appz Review: The World&#39;s First No-Code PWA App Builder!](https://dev.to/mim542902/appz-review-the-worlds-first-no-code-pwa-app-builder-2dd0)
-- [Dev.to/JS] [Angular is not for everyone, and probably not for you](https://dev.to/misterion96/angular-is-not-for-everyone-and-probably-not-for-you-404n)
-- [Dev.to/JS] [Electricians In The Coquitlam &amp; Nearby](https://dev.to/haniee91/electricians-in-the-coquitlam-nearby-3njk)
-- [Dev.to/JS] [How To Design a MySQL Database for your Basic Notification System?](https://dev.to/nikl/how-to-design-a-mysql-database-for-your-basic-notification-system-2fln)
-- [Dev.to/JS] [Developer](https://dev.to/moeed/developer-5ddg)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-11-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-11-2024)
 - [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)
