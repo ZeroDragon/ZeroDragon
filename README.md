@@ -26,10 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to find all the colors used in a Webpage](https://dev.to/plsankar/how-to-find-all-the-colors-used-in-a-webpage-1bm1)
+- [Lifehacker] [Google Assistant Is Losing a Bunch of Features](https://lifehacker.com/tech/google-assistant-is-losing-a-bunch-of-features)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/hivcj6520/buy-google-voice-accounts-4npn)
+- [Lifehacker] [How to Ethically Use ChatGPT to Write an Essay](https://lifehacker.com/family/how-to-ethically-use-chatgpt-to-write-an-essay)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/hivcj6520/buy-verified-cash-app-account-3cec)
 - [Lifehacker] [The Best Ways to Eliminate Pet Odors](https://lifehacker.com/home/best-ways-to-eliminate-pet-odors)
+- [Dev.to/JS] [Learn SVG by drawing an arrow](https://dev.to/shalvah/learn-svg-by-drawing-an-arrow-54n5)
 - [Dev.to/JS] [AnswerThePublic](https://dev.to/wsovn112/answerthepublic-1i0m)
 - [Lifehacker] [How to Save Money on Running Gear, According to Reddit](https://lifehacker.com/health/save-money-on-running-gear)
 - [Dev.to/JS] [Powtoon](https://dev.to/rankkmarket/powtoon-5m2)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [CES 2024: Smart Tech Aims to Be Number One in Your Bathroom](https://lifehacker.com/tech/smart-bathroom-tech-ces-2024)
 - [Lifehacker] [How to Change Your Spotify Display Name in 2024](https://lifehacker.com/tech/how-to-change-your-spotify-username)
 - [Lifehacker] [Four Dates All Student Loan Borrowers Should Know in 2024](https://lifehacker.com/money/dates-student-loan-borrowers-should-know)
-- [Lifehacker] [How to Delete Your Gmail Account &lpar;Without Losing Your Data&rpar;](https://lifehacker.com/tech/delete-gmail-account)
-- [Lifehacker] [CES 2024: Samsung Is Going All-In on SmartThings](https://lifehacker.com/tech/ces-2024-samsung-going-all-in-on-smartthings)
-- [Lifehacker] [How Starting Your Day With a &#39;Brain Dump&#39; Can Make You More Productive](https://lifehacker.com/work/start-your-day-with-a-brain-dump)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Delete Your Gmail Account &lpar;Without Losing Your Data&rpar;](https://lifehacker.com/tech/delete-gmail-account)<!-- TECH-POSTS:END -->
 
 ---
 
