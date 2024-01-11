@@ -26,9 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Design a MySQL Database for your Basic Notification System?](https://dev.to/nikl/how-to-design-a-mysql-database-for-your-basic-notification-system-2fln)
 - [Dev.to/JS] [Developer](https://dev.to/moeed/developer-5ddg)
 - [Dev.to/JS] [SC-900 Exam Dumps Guide: Navigating Certification Success](https://dev.to/j0b6ylfy/sc-900-exam-dumps-guide-navigating-certification-success-36d7)
-- [Dev.to/JS] [Mastering the Art of User Interfaces: Unveiling the ReactJS Approach](https://dev.to/iredox10/mastering-the-art-of-user-interfaces-unveiling-the-reactjs-approach-55p6)
 - [Dev.to/JS] [What is Elastic Search ?](https://dev.to/thepracticaldev_1511/what-is-elastic-search--217)
 - [Dev.to/JS] [Zendle Scented Candles - Christmas Gifting Made Easy](https://dev.to/zendlescentedcandle/zendle-scented-candles-christmas-gifting-made-easy-1h52)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-11-2024)
