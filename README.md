@@ -26,11 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to animate state change in Svelte](https://dev.to/abdulmuminyqn/how-to-animate-state-change-in-svelte-3of2)
+- [Dev.to/JS] [Beautyrest Heated Electric Blanket for Cold Weather,](https://dev.to/amazon43/beautyrest-heated-electric-blanket-for-cold-weather-5h9c)
+- [Dev.to/JS] [McDeepNet: A Step-by-Step Guide to Building and Training a TensorFlow RNN on McDonald’s Reviews 🍟](https://dev.to/zanepearton/mcdeepnet-a-step-by-step-guide-to-building-and-training-a-tensorflow-rnn-for-mcdonalds-reviews-analysis-3898)
+- [Lifehacker] [These Are the Best Over-Ear Headphones to Buy in 2024](https://lifehacker.com/tech/the-best-over-ear-headphones)
+- [Lifehacker] [How to Unblock Someone on Facebook](https://lifehacker.com/tech/how-to-unblock-someone-on-facebook)
 - [Dev.to/JS] [My Journey with ReactJs](https://dev.to/sa11erto5n/my-journey-with-reactjs-2j7e)
+- [Lifehacker] [These Small Home Improvements Can Also Improve Your Quality of Life](https://lifehacker.com/home/these-small-home-improvements-can-increase-your-quality-of-life)
+- [Dev.to/JS] [POO com JavaScript e TypeScript](https://dev.to/vitorrios1001/poo-com-javascript-e-typescript-2hj0)
+- [Lifehacker] [How to Watch TikTok on Your TV](https://lifehacker.com/tech/how-to-watch-tiktok-on-tv)
+- [Dev.to/JS] [this in javascript ?](https://dev.to/vishwa_9/this-in-javascript--3ij1)
 - [Lifehacker] [Google Assistant Is Losing a Bunch of Features](https://lifehacker.com/tech/google-assistant-is-losing-a-bunch-of-features)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/hivcj6520/buy-google-voice-accounts-4npn)
 - [Lifehacker] [How to Ethically Use ChatGPT to Write an Essay](https://lifehacker.com/family/how-to-ethically-use-chatgpt-to-write-an-essay)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/hivcj6520/buy-verified-cash-app-account-3cec)
 - [Lifehacker] [The Best Ways to Eliminate Pet Odors](https://lifehacker.com/home/best-ways-to-eliminate-pet-odors)
 - [Dev.to/JS] [Learn SVG by drawing an arrow](https://dev.to/shalvah/learn-svg-by-drawing-an-arrow-54n5)
 - [Dev.to/JS] [AnswerThePublic](https://dev.to/wsovn112/answerthepublic-1i0m)
@@ -42,11 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Formula to Make Your Own Deodorizing Spray](https://lifehacker.com/home/diy-deodorizing-spray)
 - [Dev.to/JS] [We Buy Your Houses Norfolk](https://dev.to/anayarajpuut/we-buy-your-houses-norfolk-2646)
 - [Lifehacker] [Supercharge Your Browsing Experience With Mouse Gestures](https://lifehacker.com/tech/how-use-mouse-gestures-on-browsers)
-- [Dev.to/JS] [Beyond Code: How CMS Transforms the Web Design Experience](https://dev.to/sdssoftwares/beyond-code-how-cms-transforms-the-web-design-experience-3ppc)
 - [Lifehacker] [How to Try Out the Apple Vision Pro Without Paying $3,499](https://lifehacker.com/tech/how-to-sign-up-to-try-out-apple-vision-pro)
-- [Dev.to/JS] [Build a CRUD Todo App with Vanilla JavaScript and Fetch API](https://dev.to/kells/build-a-crud-todo-app-with-vanilla-javascript-and-fetch-api-2pfg)
 - [Lifehacker] [What People Are Getting Wrong This Week: Where Coffee Comes From, for Starters](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-misinformation-threatens-world)
-- [Dev.to/JS] [Engage, Persuade, and Succeed: Secrets to a Compelling Marketing Plan Presentation](https://dev.to/marketingpresentation/engage-persuade-and-succeed-secrets-to-a-compelling-marketing-plan-presentation-1ddb)
 - [Lifehacker] [These Are the Best Wireless Headphones to Buy in 2024](https://lifehacker.com/tech/best-wireless-headphones)
 - [Lifehacker] [All the Ways to Remove Your Kid’s Image From the Internet](https://lifehacker.com/family/how-to-remove-your-kids-image-from-the-internet)
 - [Lifehacker] [All the Ways to Take Screenshots in Windows 11](https://lifehacker.com/all-the-ways-to-take-screenshots-in-windows-11-1847697682)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [CES 2024: The Coolest Smart Kitchen Tech We Saw](https://lifehacker.com/tech/smart-kitchen-tech-ces-2024)
 - [Lifehacker] [CES 2024: ASUS’s Latest Gaming Phone Is Thinner and Lighter Than Ever Before](https://lifehacker.com/tech/asus-rog-8-series-review)
 - [Lifehacker] [CES 2024: All the Coolest &lpar;and Weirdest&rpar; Gaming Gear We Saw](https://lifehacker.com/entertainment/gaming-gear-spotted-at-ces-2024)
-- [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-a-macbook)
-- [Lifehacker] [CES 2024: Smart Tech Aims to Be Number One in Your Bathroom](https://lifehacker.com/tech/smart-bathroom-tech-ces-2024)
-- [Lifehacker] [How to Change Your Spotify Display Name in 2024](https://lifehacker.com/tech/how-to-change-your-spotify-username)
-- [Lifehacker] [Four Dates All Student Loan Borrowers Should Know in 2024](https://lifehacker.com/money/dates-student-loan-borrowers-should-know)
-- [Lifehacker] [How to Delete Your Gmail Account &lpar;Without Losing Your Data&rpar;](https://lifehacker.com/tech/delete-gmail-account)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-a-macbook)<!-- TECH-POSTS:END -->
 
 ---
 
