@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-11-2024)
 - [Dev.to/JS] [Session Management in SvelteKit Using Stores with svelte-kit-sessions](https://dev.to/yutak23/session-management-in-sveltekit-using-stores-with-svelte-kit-sessions-24df)
 - [Dev.to/JS] [Remote Work: The Top 30 Remote-Friendly Companies Actively Hiring in 2024](https://dev.to/aajinkya/remote-work-the-top-30-remote-friendly-companies-actively-hiring-in-2024-5281)
 - [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)
@@ -53,19 +54,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Customize Google Chrome With Themes and Colors](https://lifehacker.com/tech/how-to-customize-google-chrome)
 - [Lifehacker] [How to Reset an AirTag to Pair With a New Apple ID](https://lifehacker.com/how-to-reset-an-airtag-to-pair-with-a-new-apple-id-1846813390)
 - [Dev.to/JS] [🕵️‍♀️ Detect And Blur Human Faces with Ai in NextJS ✨](https://dev.to/random_ti/detect-and-blur-human-faces-with-ai-in-nextjs-hg6)
+- [Dev.to/JS] [Avoid using default exports](https://dev.to/phuocng/avoid-using-default-exports-a1c)
 - [Dev.to/JS] [Amalinks](https://dev.to/wsovn112/amalinks-5bl7)
 - [Lifehacker] [What Does Amazon Prime Cost &lpar;and What Does It Get You&rpar;?](https://lifehacker.com/money/what-does-amazon-prime-cost)
 - [Lifehacker] [These Are the Best Noise-Canceling Headphones to Buy in 2024](https://lifehacker.com/tech/best-noise-canceling-headphones)
 - [Dev.to/JS] [Jungle Scout](https://dev.to/rankkmarket/jungle-scout-1l2m)
-- [Dev.to/JS] [How to actually perform better in frontend interviews](https://dev.to/xplodivity/how-to-actually-perform-better-in-frontend-interviews-159k)
 - [Lifehacker] [How to Turn Off Siri on All Your Apple Devices](https://lifehacker.com/tech/how-to-turn-off-siri)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
 - [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
 - [Lifehacker] [How to Copy and Paste on a Chromebook](https://lifehacker.com/tech/how-to-copy-and-paste-on-a-chromebook)
 - [Lifehacker] [These Are the Best Wireless Earbuds to Buy in 2024](https://lifehacker.com/tech/best-wireless-earbuds)
-- [Lifehacker] [You Can Get This MacBook Stand on Sale for $45 Right Now](https://lifehacker.com/tech/elevate-macbook-stand-sale)
-- [Lifehacker] [CES 2024: ASUS&#39;s New PC Components Might Finally Fix Your Messy Cables](https://lifehacker.com/tech/asus-reveals-new-btf-pc-components)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This MacBook Stand on Sale for $45 Right Now](https://lifehacker.com/tech/elevate-macbook-stand-sale)<!-- TECH-POSTS:END -->
 
 ---
 
