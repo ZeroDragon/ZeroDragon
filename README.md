@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Everything what I love about NodeJS ecosystem.](https://dev.to/zidanpahrudin/everything-what-i-love-about-nodejs-ecosystem-50c8)
+- [Dev.to/JS] [Session Management in SvelteKit Using Stores with svelte-kit-sessions](https://dev.to/yutak23/session-management-in-sveltekit-using-stores-with-svelte-kit-sessions-24df)
 - [Dev.to/JS] [Remote Work: The Top 30 Remote-Friendly Companies Actively Hiring in 2024](https://dev.to/aajinkya/remote-work-the-top-30-remote-friendly-companies-actively-hiring-in-2024-5281)
 - [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)
 - [Lifehacker] [The Best Movies to Stream on Tubi This Month](https://lifehacker.com/entertainment/best-movies-streaming-on-tubi)
