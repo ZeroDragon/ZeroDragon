@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developer](https://dev.to/moeed/developer-5ddg)
+- [Dev.to/JS] [SC-900 Exam Dumps Guide: Navigating Certification Success](https://dev.to/j0b6ylfy/sc-900-exam-dumps-guide-navigating-certification-success-36d7)
+- [Dev.to/JS] [Mastering the Art of User Interfaces: Unveiling the ReactJS Approach](https://dev.to/iredox10/mastering-the-art-of-user-interfaces-unveiling-the-reactjs-approach-55p6)
+- [Dev.to/JS] [What is Elastic Search ?](https://dev.to/thepracticaldev_1511/what-is-elastic-search--217)
 - [Dev.to/JS] [Zendle Scented Candles - Christmas Gifting Made Easy](https://dev.to/zendlescentedcandle/zendle-scented-candles-christmas-gifting-made-easy-1h52)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-11-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-11-2024)
@@ -50,14 +54,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Play.ht](https://dev.to/rankkmarket/playht-phb)
 - [Lifehacker] [How to Delete Your Gmail Account &lpar;Without Losing Your Data&rpar;](https://lifehacker.com/tech/delete-gmail-account)
 - [Lifehacker] [CES 2024: Samsung Is Going All-In on SmartThings](https://lifehacker.com/tech/ces-2024-samsung-going-all-in-on-smartthings)
-- [Dev.to/JS] [¿Cómo Agregar Parámetros Condicionalmente en Componentes React?](https://dev.to/kexposito/como-agregar-parametros-condicionalmente-en-componentes-react-nmg)
 - [Lifehacker] [How Starting Your Day With a &#39;Brain Dump&#39; Can Make You More Productive](https://lifehacker.com/work/start-your-day-with-a-brain-dump)
 - [Lifehacker] [15 Movies No One Should Ever Watch With Their Parents](https://lifehacker.com/entertainment/15-movies-not-to-watch-with-parents)
 - [Lifehacker] [How to Customize Google Chrome With Themes and Colors](https://lifehacker.com/tech/how-to-customize-google-chrome)
 - [Lifehacker] [How to Reset an AirTag to Pair With a New Apple ID](https://lifehacker.com/how-to-reset-an-airtag-to-pair-with-a-new-apple-id-1846813390)
-- [Dev.to/JS] [🕵️‍♀️ Detect And Blur Human Faces with Ai in NextJS ✨](https://dev.to/random_ti/detect-and-blur-human-faces-with-ai-in-nextjs-hg6)
-- [Dev.to/JS] [Avoid using default exports](https://dev.to/phuocng/avoid-using-default-exports-a1c)
-- [Dev.to/JS] [Amalinks](https://dev.to/wsovn112/amalinks-5bl7)
 - [Lifehacker] [What Does Amazon Prime Cost &lpar;and What Does It Get You&rpar;?](https://lifehacker.com/money/what-does-amazon-prime-cost)
 - [Lifehacker] [These Are the Best Noise-Canceling Headphones to Buy in 2024](https://lifehacker.com/tech/best-noise-canceling-headphones)
 - [Lifehacker] [How to Turn Off Siri on All Your Apple Devices](https://lifehacker.com/tech/how-to-turn-off-siri)
