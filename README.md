@@ -26,12 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beyond Code: How CMS Transforms the Web Design Experience](https://dev.to/sdssoftwares/beyond-code-how-cms-transforms-the-web-design-experience-3ppc)
 - [Dev.to/JS] [Engage, Persuade, and Succeed: Secrets to a Compelling Marketing Plan Presentation](https://dev.to/marketingpresentation/engage-persuade-and-succeed-secrets-to-a-compelling-marketing-plan-presentation-1ddb)
 - [Dev.to/JS] [Los pescadores vieron algo brillante cerca de un arroyo. Fue el primer paso hacia un &#39;milagro&#39;](https://dev.to/rafelm400/los-pescadores-vieron-algo-brillante-cerca-de-un-arroyo-fue-el-primer-paso-hacia-un-milagro-4n0n)
 - [Dev.to/JS] [Block Scope and Shadowing In JavaScript](https://dev.to/shahidbugti/block-scope-and-shadowing-in-javascript-438c)
-- [Dev.to/JS] [Middleware in Express.js](https://dev.to/m__mdy__m/middleware-in-expressjs-4b4)
 - [Dev.to/JS] [Getting Started with Node.js: Building a Basic Web Server](https://dev.to/kucherol/getting-started-with-nodejs-building-a-basic-web-server-67h)
+- [Lifehacker] [All the Ways to Remove Your Kid’s Image From the Internet](https://lifehacker.com/family/how-to-remove-your-kids-image-from-the-internet)
 - [Dev.to/JS] [Cultivo Conectado: Do Conceito à Realidade de um Sistema IoT para Monitoramento Agrícola](https://dev.to/hugosrc/cultivo-conectado-do-conceito-a-realidade-de-um-sistema-iot-para-monitoramento-agricola-48fk)
+- [Lifehacker] [All the Ways to Take Screenshots in Windows 11](https://lifehacker.com/all-the-ways-to-take-screenshots-in-windows-11-1847697682)
 - [Dev.to/JS] [Fixing a table header on a horizontally scrolling table](https://dev.to/maurocen/fixing-a-table-header-on-a-horizontally-scrolling-table-2p7m)
 - [Lifehacker] [Why Gen Z Loves ‘Loud Budgeting’](https://lifehacker.com/money/what-is-loud-budgeting-and-how-to-do-it)
 - [Dev.to/JS] [CONVERT Picture TO HTML WITH TAILWINDCSS Utilizing THIS AI](https://dev.to/pranavkdileep/convert-picture-to-html-with-tailwindcss-utilizing-this-ai-4gco)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Noise-Canceling Headphones to Buy in 2024](https://lifehacker.com/tech/best-noise-canceling-headphones)
 - [Lifehacker] [How to Turn Off Siri on All Your Apple Devices](https://lifehacker.com/tech/how-to-turn-off-siri)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-10-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)
-- [Lifehacker] [You Can Get This Budget Chromebook on Sale for Under $63 Right Now](https://lifehacker.com/tech/hp-chromebook-sale)
-- [Lifehacker] [How to Copy and Paste on a Chromebook](https://lifehacker.com/tech/how-to-copy-and-paste-on-a-chromebook)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 10, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-10-2024)<!-- TECH-POSTS:END -->
 
 ---
 
