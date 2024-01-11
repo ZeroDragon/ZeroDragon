@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey with ReactJs](https://dev.to/sa11erto5n/my-journey-with-reactjs-2j7e)
 - [Lifehacker] [Google Assistant Is Losing a Bunch of Features](https://lifehacker.com/tech/google-assistant-is-losing-a-bunch-of-features)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/hivcj6520/buy-google-voice-accounts-4npn)
 - [Lifehacker] [How to Ethically Use ChatGPT to Write an Essay](https://lifehacker.com/family/how-to-ethically-use-chatgpt-to-write-an-essay)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a CRUD Todo App with Vanilla JavaScript and Fetch API](https://dev.to/kells/build-a-crud-todo-app-with-vanilla-javascript-and-fetch-api-2pfg)
 - [Lifehacker] [What People Are Getting Wrong This Week: Where Coffee Comes From, for Starters](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-misinformation-threatens-world)
 - [Dev.to/JS] [Engage, Persuade, and Succeed: Secrets to a Compelling Marketing Plan Presentation](https://dev.to/marketingpresentation/engage-persuade-and-succeed-secrets-to-a-compelling-marketing-plan-presentation-1ddb)
-- [Dev.to/JS] [Los pescadores vieron algo brillante cerca de un arroyo. Fue el primer paso hacia un &#39;milagro&#39;](https://dev.to/rafelm400/los-pescadores-vieron-algo-brillante-cerca-de-un-arroyo-fue-el-primer-paso-hacia-un-milagro-4n0n)
 - [Lifehacker] [These Are the Best Wireless Headphones to Buy in 2024](https://lifehacker.com/tech/best-wireless-headphones)
 - [Lifehacker] [All the Ways to Remove Your Kid’s Image From the Internet](https://lifehacker.com/family/how-to-remove-your-kids-image-from-the-internet)
 - [Lifehacker] [All the Ways to Take Screenshots in Windows 11](https://lifehacker.com/all-the-ways-to-take-screenshots-in-windows-11-1847697682)
