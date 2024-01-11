@@ -26,9 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made an Image Resizing App and I blame DEV.TO 😂](https://dev.to/piko/i-made-an-image-resizing-app-and-i-blame-devto-28mo)
 - [Dev.to/JS] [How to animate state change in Svelte](https://dev.to/abdulmuminyqn/how-to-animate-state-change-in-svelte-3of2)
 - [Dev.to/JS] [Beautyrest Heated Electric Blanket for Cold Weather,](https://dev.to/amazon43/beautyrest-heated-electric-blanket-for-cold-weather-5h9c)
-- [Dev.to/JS] [McDeepNet: A Step-by-Step Guide to Building and Training a TensorFlow RNN on McDonald’s Reviews 🍟](https://dev.to/zanepearton/mcdeepnet-a-step-by-step-guide-to-building-and-training-a-tensorflow-rnn-for-mcdonalds-reviews-analysis-3898)
+- [Dev.to/JS] [McDeepNet: A Step-by-Step Guide to Training a TensorFlow Model on McDonald’s Reviews 🍟](https://dev.to/zanepearton/mcdeepnet-a-step-by-step-guide-to-building-and-training-a-tensorflow-rnn-for-mcdonalds-reviews-analysis-3898)
 - [Lifehacker] [These Are the Best Over-Ear Headphones to Buy in 2024](https://lifehacker.com/tech/the-best-over-ear-headphones)
 - [Lifehacker] [How to Unblock Someone on Facebook](https://lifehacker.com/tech/how-to-unblock-someone-on-facebook)
 - [Dev.to/JS] [My Journey with ReactJs](https://dev.to/sa11erto5n/my-journey-with-reactjs-2j7e)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WEB DEV SECRETS E-BOOK](https://dev.to/elattioui/web-dev-secrets-e-book-12b)
 - [Dev.to/JS] [React&#39;s useState &amp; useEffect Hooks](https://dev.to/aghoribrahman/reacts-usestate-useeffect-hooks-57o0)
 - [Lifehacker] [Use This Formula to Make Your Own Deodorizing Spray](https://lifehacker.com/home/diy-deodorizing-spray)
-- [Dev.to/JS] [We Buy Your Houses Norfolk](https://dev.to/anayarajpuut/we-buy-your-houses-norfolk-2646)
 - [Lifehacker] [Supercharge Your Browsing Experience With Mouse Gestures](https://lifehacker.com/tech/how-use-mouse-gestures-on-browsers)
 - [Lifehacker] [How to Try Out the Apple Vision Pro Without Paying $3,499](https://lifehacker.com/tech/how-to-sign-up-to-try-out-apple-vision-pro)
 - [Lifehacker] [What People Are Getting Wrong This Week: Where Coffee Comes From, for Starters](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-misinformation-threatens-world)
