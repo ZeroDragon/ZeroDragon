@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 Programming Myths That Keep You Stuck, Frustrated And Underpaid](https://dev.to/dragosnedelcu/3-programming-myths-that-keep-you-stuck-frustrated-and-underpaid-27bg)
+- [Dev.to/JS] [McDeepNet: Cooking Up AI-Generated Reviews with a Side fries 🍟](https://dev.to/zanepearton/mcdeepnet-cooking-up-ai-generated-reviews-with-a-side-fries-2dd1)
+- [Dev.to/JS] [CONVERT Picture TO HTML WITH TAILWINDCSS Utilizing THIS AI](https://dev.to/pranavkdileep/convert-picture-to-html-with-tailwindcss-utilizing-this-ai-4gco)
 - [Dev.to/JS] [How Can Neuro-Inclusive Design Technology Be More Accessible for Individuals with Disabilities?](https://dev.to/yagnapandya9/how-can-neuro-inclusive-design-technology-be-more-accessible-for-individuals-with-disabilities-34eh)
 - [Dev.to/JS] [Equal heights](https://dev.to/thedevcristian/equal-heights-4o4c)
 - [Dev.to/JS] [Understanding and Implementing JSON and fetch&lpar;&rpar;](https://dev.to/kaitlynshae28/understanding-and-implementing-json-and-fetch-4f19)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Electricians In The Coquitlam &amp; Nearby](https://dev.to/haniee91/electricians-in-the-coquitlam-nearby-3njk)
 - [Dev.to/JS] [How To Design a MySQL Database for your Basic Notification System?](https://dev.to/nikl/how-to-design-a-mysql-database-for-your-basic-notification-system-2fln)
 - [Dev.to/JS] [Developer](https://dev.to/moeed/developer-5ddg)
-- [Dev.to/JS] [SC-900 Exam Dumps Guide: Navigating Certification Success](https://dev.to/j0b6ylfy/sc-900-exam-dumps-guide-navigating-certification-success-36d7)
-- [Dev.to/JS] [What is Elastic Search ?](https://dev.to/thepracticaldev_1511/what-is-elastic-search--217)
-- [Dev.to/JS] [Zendle Scented Candles - Christmas Gifting Made Easy](https://dev.to/zendlescentedcandle/zendle-scented-candles-christmas-gifting-made-easy-1h52)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-11-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-11-2024)
 - [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)
