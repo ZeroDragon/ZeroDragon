@@ -26,12 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Learn SVG by drawing an arrow](https://dev.to/shalvah/learn-svg-by-drawing-an-arrow-54n5)
+- [Dev.to/JS] [How to find all the colors used in a Webpage](https://dev.to/plsankar/how-to-find-all-the-colors-used-in-a-webpage-1bm1)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/hivcj6520/buy-google-voice-accounts-4npn)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/hivcj6520/buy-verified-cash-app-account-3cec)
+- [Lifehacker] [The Best Ways to Eliminate Pet Odors](https://lifehacker.com/home/best-ways-to-eliminate-pet-odors)
 - [Dev.to/JS] [AnswerThePublic](https://dev.to/wsovn112/answerthepublic-1i0m)
-- [Dev.to/JS] [Made a Code Snippet Website](https://dev.to/psylilulu/made-a-code-snippet-website-2mcp)
+- [Lifehacker] [How to Save Money on Running Gear, According to Reddit](https://lifehacker.com/health/save-money-on-running-gear)
 - [Dev.to/JS] [Powtoon](https://dev.to/rankkmarket/powtoon-5m2)
+- [Lifehacker] [This New Smart Home Standard Is Designed to Lower Your Energy Use](https://lifehacker.com/home/what-is-the-home-connectivity-alliance)
 - [Dev.to/JS] [WEB DEV SECRETS E-BOOK](https://dev.to/elattioui/web-dev-secrets-e-book-12b)
 - [Dev.to/JS] [React&#39;s useState &amp; useEffect Hooks](https://dev.to/aghoribrahman/reacts-usestate-useeffect-hooks-57o0)
+- [Lifehacker] [Use This Formula to Make Your Own Deodorizing Spray](https://lifehacker.com/home/diy-deodorizing-spray)
 - [Dev.to/JS] [We Buy Your Houses Norfolk](https://dev.to/anayarajpuut/we-buy-your-houses-norfolk-2646)
 - [Lifehacker] [Supercharge Your Browsing Experience With Mouse Gestures](https://lifehacker.com/tech/how-use-mouse-gestures-on-browsers)
 - [Dev.to/JS] [Beyond Code: How CMS Transforms the Web Design Experience](https://dev.to/sdssoftwares/beyond-code-how-cms-transforms-the-web-design-experience-3ppc)
@@ -40,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: Where Coffee Comes From, for Starters](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-misinformation-threatens-world)
 - [Dev.to/JS] [Engage, Persuade, and Succeed: Secrets to a Compelling Marketing Plan Presentation](https://dev.to/marketingpresentation/engage-persuade-and-succeed-secrets-to-a-compelling-marketing-plan-presentation-1ddb)
 - [Dev.to/JS] [Los pescadores vieron algo brillante cerca de un arroyo. Fue el primer paso hacia un &#39;milagro&#39;](https://dev.to/rafelm400/los-pescadores-vieron-algo-brillante-cerca-de-un-arroyo-fue-el-primer-paso-hacia-un-milagro-4n0n)
-- [Dev.to/JS] [Block Scope and Shadowing In JavaScript](https://dev.to/shahidbugti/block-scope-and-shadowing-in-javascript-438c)
 - [Lifehacker] [These Are the Best Wireless Headphones to Buy in 2024](https://lifehacker.com/tech/best-wireless-headphones)
 - [Lifehacker] [All the Ways to Remove Your Kid’s Image From the Internet](https://lifehacker.com/family/how-to-remove-your-kids-image-from-the-internet)
 - [Lifehacker] [All the Ways to Take Screenshots in Windows 11](https://lifehacker.com/all-the-ways-to-take-screenshots-in-windows-11-1847697682)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Dates All Student Loan Borrowers Should Know in 2024](https://lifehacker.com/money/dates-student-loan-borrowers-should-know)
 - [Lifehacker] [How to Delete Your Gmail Account &lpar;Without Losing Your Data&rpar;](https://lifehacker.com/tech/delete-gmail-account)
 - [Lifehacker] [CES 2024: Samsung Is Going All-In on SmartThings](https://lifehacker.com/tech/ces-2024-samsung-going-all-in-on-smartthings)
-- [Lifehacker] [How Starting Your Day With a &#39;Brain Dump&#39; Can Make You More Productive](https://lifehacker.com/work/start-your-day-with-a-brain-dump)
-- [Lifehacker] [15 Movies No One Should Ever Watch With Their Parents](https://lifehacker.com/entertainment/15-movies-not-to-watch-with-parents)
-- [Lifehacker] [How to Customize Google Chrome With Themes and Colors](https://lifehacker.com/tech/how-to-customize-google-chrome)
-- [Lifehacker] [How to Reset an AirTag to Pair With a New Apple ID](https://lifehacker.com/how-to-reset-an-airtag-to-pair-with-a-new-apple-id-1846813390)
-- [Lifehacker] [What Does Amazon Prime Cost &lpar;and What Does It Get You&rpar;?](https://lifehacker.com/money/what-does-amazon-prime-cost)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Starting Your Day With a &#39;Brain Dump&#39; Can Make You More Productive](https://lifehacker.com/work/start-your-day-with-a-brain-dump)<!-- TECH-POSTS:END -->
 
 ---
 
