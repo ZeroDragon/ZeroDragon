@@ -28,7 +28,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Advanced Routing and Dynamic Pages in Next.js 14](https://dev.to/lexyerresta/advanced-routing-and-dynamic-pages-in-nextjs-14-3ede)
 - [Dev.to/JS] [Module Federation in Next.js 14](https://dev.to/lexyerresta/module-federation-in-nextjs-14-13il)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 - [Dev.to/JS] [Next.js 14 and Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/lexyerresta/nextjs-14-and-incremental-static-regeneration-isr-46d1)
 - [Dev.to/JS] [Enhanced TypeScript Support in Next.js 14](https://dev.to/lexyerresta/enhanced-typescript-support-in-nextjs-14-499e)
 - [Dev.to/JS] [Edge Functions and Middleware Capabilities in Next.js 14](https://dev.to/lexyerresta/edge-functions-and-middleware-capabilities-in-nextjs-14-2f1d)
@@ -65,7 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-11-2024)
 - [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)
 - [Lifehacker] [The Best Movies to Stream on Tubi This Month](https://lifehacker.com/entertainment/best-movies-streaming-on-tubi)
-- [Lifehacker] [Seven Common Household Items You&#39;re Better Off Not Washing With Soap](https://lifehacker.com/home/common-household-items-you-shouldnt-wash-wish-soap)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Common Household Items You&#39;re Better Off Not Washing With Soap](https://lifehacker.com/home/common-household-items-you-shouldnt-wash-wish-soap)
+- [Lifehacker] [These Are the Best Bluetooth Speakers to Buy in 2024](https://lifehacker.com/tech/best-bluetooth-speakers)<!-- TECH-POSTS:END -->
 
 ---
 
