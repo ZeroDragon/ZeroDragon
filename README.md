@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Achieve AZ-120 Exam Brilliance with Dumps](https://dev.to/arabellajack/how-to-achieve-az-120-exam-brilliance-with-dumps-4p9g)
 - [Dev.to/JS] [🤖 Automatically publish your Node package to NPM &lpar;with PNPM and GitHub actions&rpar;](https://dev.to/receter/automatically-publish-your-node-package-to-npm-with-pnpm-and-github-actions-22eg)
 - [Dev.to/JS] [🌟 5 secret TypeScript repos the top 1% of devs LOVE 🔥](https://dev.to/quine/5-secret-typescript-repos-the-top-1-of-devs-love-38eh)
 - [Dev.to/JS] [my blog webite](https://dev.to/rabbkhan/my-blog-webite-4d8p)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Native Download File/Image](https://dev.to/ajmal_hasan/react-native-download-file-1dbg)
 - [Dev.to/JS] [Understanding how centering of HTML div element works with some help from AI](https://dev.to/kipyegonline/understanding-how-centering-of-html-div-element-works-with-some-help-from-ai-1mcp)
 - [Dev.to/JS] [isNaN is like gambling](https://dev.to/raysca_93/isnan-is-like-gambling-25m4)
-- [Dev.to/JS] [Tap into Global Markets: 5 Open-Source Tools for Localization in 2024](https://dev.to/devgancode/capture-global-audience-product-localization-4h45)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
