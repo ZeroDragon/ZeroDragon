@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [my blog webite](https://dev.to/rabbkhan/my-blog-webite-4d8p)
 - [Dev.to/JS] [J.son is not worth](https://dev.to/aditya_raj_1010/json-is-not-worth-50op)
 - [Dev.to/JS] [Call Function in Another Function Javascript](https://dev.to/possibility_mayfair/call-function-in-another-function-javascript-23kd)
 - [Dev.to/JS] [Creating a New Angular App Without Global CLI Installation](https://dev.to/chellappanrajan/creating-a-new-angular-app-without-global-cli-installation-1g71)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tap into Global Markets: 5 Open-Source Tools for Localization in 2024](https://dev.to/devgancode/capture-global-audience-product-localization-4h45)
 - [Dev.to/JS] [HELLO](https://dev.to/njiosseu/hello-1021)
 - [Dev.to/JS] [Why I Built A Coding Libraries Store?](https://dev.to/bikash9609/why-i-built-a-libs-store-1559)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/himoktik/buy-google-5-star-reviews-1oba)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
