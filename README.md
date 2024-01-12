@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build your SaaS landing page in 15 minutes using Mantine](https://dev.to/tthroo/build-your-saas-landing-page-in-15-minutes-using-mantine-111a)
 - [Dev.to/JS] [I made an Image Resizing App and I blame DEV.TO 😂](https://dev.to/piko/i-made-an-image-resizing-app-and-i-blame-devto-28mo)
+- [Lifehacker] [These Are the Best Noise-Canceling Earbuds to Buy in 2024](https://lifehacker.com/tech/the-best-noise-canceling-earbuds)
 - [Dev.to/JS] [How to animate state change in Svelte](https://dev.to/abdulmuminyqn/how-to-animate-state-change-in-svelte-3of2)
 - [Dev.to/JS] [Beautyrest Heated Electric Blanket for Cold Weather,](https://dev.to/amazon43/beautyrest-heated-electric-blanket-for-cold-weather-5h9c)
+- [Lifehacker] [The Most Common Causes of Death in the Home &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/home/the-easiest-ways-to-accidentally-kill-yourself-in-your-own-home)
 - [Dev.to/JS] [McDeepNet: A Step-by-Step Guide to Training a TensorFlow Model on McDonald’s Reviews 🍟](https://dev.to/zanepearton/mcdeepnet-a-step-by-step-guide-to-building-and-training-a-tensorflow-rnn-for-mcdonalds-reviews-analysis-3898)
 - [Lifehacker] [These Are the Best Over-Ear Headphones to Buy in 2024](https://lifehacker.com/tech/the-best-over-ear-headphones)
 - [Lifehacker] [How to Unblock Someone on Facebook](https://lifehacker.com/tech/how-to-unblock-someone-on-facebook)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Powtoon](https://dev.to/rankkmarket/powtoon-5m2)
 - [Lifehacker] [This New Smart Home Standard Is Designed to Lower Your Energy Use](https://lifehacker.com/home/what-is-the-home-connectivity-alliance)
 - [Dev.to/JS] [WEB DEV SECRETS E-BOOK](https://dev.to/elattioui/web-dev-secrets-e-book-12b)
-- [Dev.to/JS] [React&#39;s useState &amp; useEffect Hooks](https://dev.to/aghoribrahman/reacts-usestate-useeffect-hooks-57o0)
 - [Lifehacker] [Use This Formula to Make Your Own Deodorizing Spray](https://lifehacker.com/home/diy-deodorizing-spray)
 - [Lifehacker] [Supercharge Your Browsing Experience With Mouse Gestures](https://lifehacker.com/tech/how-use-mouse-gestures-on-browsers)
 - [Lifehacker] [How to Try Out the Apple Vision Pro Without Paying $3,499](https://lifehacker.com/tech/how-to-sign-up-to-try-out-apple-vision-pro)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Bluetooth Speakers to Buy in 2024](https://lifehacker.com/tech/best-bluetooth-speakers)
 - [Lifehacker] [Six Ways to Extend the Life of Any Vacuum](https://lifehacker.com/home/how-to-extend-the-life-of-a-vacuum-cleaner)
 - [Lifehacker] [CES 2024: The Coolest Smart Kitchen Tech We Saw](https://lifehacker.com/tech/smart-kitchen-tech-ces-2024)
-- [Lifehacker] [CES 2024: ASUS’s Latest Gaming Phone Is Thinner and Lighter Than Ever Before](https://lifehacker.com/tech/asus-rog-8-series-review)
-- [Lifehacker] [CES 2024: All the Coolest &lpar;and Weirdest&rpar; Gaming Gear We Saw](https://lifehacker.com/entertainment/gaming-gear-spotted-at-ces-2024)
-- [Lifehacker] [Here&#39;s How to Connect Your AirPods to a MacBook](https://lifehacker.com/tech/how-to-connect-airpods-to-a-macbook)<!-- TECH-POSTS:END -->
+- [Lifehacker] [CES 2024: ASUS’s Latest Gaming Phone Is Thinner and Lighter Than Ever Before](https://lifehacker.com/tech/asus-rog-8-series-review)<!-- TECH-POSTS:END -->
 
 ---
 
