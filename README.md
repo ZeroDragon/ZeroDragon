@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Powerful and Efficient State Management with Vue.js: A Comprehensive Pinia Usage Guide](https://dev.to/emperorbrains/mastering-powerful-and-efficient-state-management-with-vuejs-a-comprehensive-pinia-usage-guide-397h)
+- [Dev.to/JS] [Willy Wonka contract effect using CSS?](https://dev.to/fromjay/willy-wonka-contract-effect-using-css-4a5c)
+- [Dev.to/JS] [Next JS 14 + Katex web app](https://dev.to/kirankulkarni/next-js-14-katex-web-app-30ld)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 - [Dev.to/JS] [Advanced Routing and Dynamic Pages in Next.js 14](https://dev.to/lexyerresta/advanced-routing-and-dynamic-pages-in-nextjs-14-3ede)
 - [Dev.to/JS] [Module Federation in Next.js 14](https://dev.to/lexyerresta/module-federation-in-nextjs-14-13il)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 - [Dev.to/JS] [Next.js 14 and Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/lexyerresta/nextjs-14-and-incremental-static-regeneration-isr-46d1)
 - [Dev.to/JS] [Enhanced TypeScript Support in Next.js 14](https://dev.to/lexyerresta/enhanced-typescript-support-in-nextjs-14-499e)
 - [Dev.to/JS] [Edge Functions and Middleware Capabilities in Next.js 14](https://dev.to/lexyerresta/edge-functions-and-middleware-capabilities-in-nextjs-14-2f1d)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Features in the Image Optimization API in Next.js 14](https://dev.to/lexyerresta/new-features-in-the-image-optimization-api-in-nextjs-14-a19)
 - [Dev.to/JS] [Elevando a Qualidade: Guia Prático de Testes em Cypress para Componentes e E2E em Aplicações React](https://dev.to/williammdsilva/elevando-a-qualidade-guia-pratico-de-testes-em-cypress-para-componentes-e-e2e-em-aplicacoes-react-2k35)
 - [Dev.to/JS] [Performance Enhancements in Next.js 14](https://dev.to/lexyerresta/performance-enhancements-in-nextjs-14-49gg)
-- [Dev.to/JS] [Add Vuepress docs to existing project](https://dev.to/arielmejiadev/add-vuepress-docs-to-existing-project-3aca)
-- [Dev.to/JS] [Data Structures and Algorithms: Stacks](https://dev.to/faraib/data-structures-and-algorithms-stacks-2p0b)
-- [Dev.to/JS] [State: The Ever Shifting Heart of React Component](https://dev.to/bosofisan/state-the-ever-shifting-heart-of-react-component-5bfa)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
 - [Lifehacker] [Use SMART Goals to Work Toward Your Fitness Dreams](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Lifehacker] [How to Unblock Someone on Instagram](https://lifehacker.com/tech/how-to-unblock-someone-on-instagram)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-11-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-11-2024)
 - [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)
-- [Lifehacker] [The Best Movies to Stream on Tubi This Month](https://lifehacker.com/entertainment/best-movies-streaming-on-tubi)
-- [Lifehacker] [Seven Common Household Items You&#39;re Better Off Not Washing With Soap](https://lifehacker.com/home/common-household-items-you-shouldnt-wash-wish-soap)
-- [Lifehacker] [These Are the Best Bluetooth Speakers to Buy in 2024](https://lifehacker.com/tech/best-bluetooth-speakers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream on Tubi This Month](https://lifehacker.com/entertainment/best-movies-streaming-on-tubi)<!-- TECH-POSTS:END -->
 
 ---
 
