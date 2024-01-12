@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding The React Component Lifecycle: A Deep Dive](https://dev.to/vicveksr9485/understanding-the-react-component-lifecycle-a-deep-dive-436j)
+- [Dev.to/JS] [basvb](https://dev.to/muhammadmumarmm/basvb-5di3)
+- [Dev.to/JS] [Untangling Next.js middlewares](https://dev.to/z4nr34l/untangling-nextjs-middlewares-2m5e)
+- [Lifehacker] [Where to Find U.S. Communities That Are Testing Universal Basic Income](https://lifehacker.com/money/where-to-find-us-communities-offering-universal-basic-income)
 - [Dev.to/JS] [What happens when you pass the same session key to website to perform operations?](https://dev.to/vitalipom/what-happens-when-you-pass-the-same-session-key-to-website-to-perform-operations-2hkl)
 - [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)
 - [Dev.to/JS] [Creating HTML Templates for Binding JSON Data with JavaScript Template Literals](https://dev.to/mrhdias/creating-html-templates-for-binding-json-data-with-javascript-template-literals-3p9f)
@@ -40,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tempdata vs View Bag vs ViewData](https://dev.to/sardarmudassaralikhan/tempdata-vs-view-bag-vs-viewdata-4np8)
 - [Dev.to/JS] [xem ngày giờ sinh](https://dev.to/tuvi123vn/xem-ngay-gio-sinh-4khi)
 - [Lifehacker] [It&#39;s Time to Cold Stratify Your Seeds](https://lifehacker.com/home/how-to-cold-stratify-seeds-indoors)
-- [Dev.to/JS] [Speechelo](https://dev.to/rankkmarket/speechelo-4gn4)
-- [Dev.to/JS] [𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗔𝗻𝗱 Graphic design](https://dev.to/ystudio/graphic-design-1beo)
 - [Lifehacker] [You Don’t Need a Smart Home Middleman](https://lifehacker.com/tech/why-you-dont-need-a-smart-tech-middleman)
-- [Dev.to/JS] [article-video-robot](https://dev.to/wsovn112/article-video-robot-52ce)
 - [Lifehacker] [Your Finances Need a Monthly Reset](https://lifehacker.com/money/monthly-money-reset)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
 - [Lifehacker] [Why You Shouldn&#39;t Thin Salad Dressing with Water &lpar;and What to Use Instead&rpar;](https://lifehacker.com/food-drink/how-to-thin-salad-dressing)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Common Causes of Death in the Home &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/home/the-easiest-ways-to-accidentally-kill-yourself-in-your-own-home)
 - [Lifehacker] [These Are the Best Over-Ear Headphones to Buy in 2024](https://lifehacker.com/tech/the-best-over-ear-headphones)
 - [Lifehacker] [How to Unblock Someone on Facebook](https://lifehacker.com/tech/how-to-unblock-someone-on-facebook)
-- [Lifehacker] [These Small Home Improvements Can Also Improve Your Quality of Life](https://lifehacker.com/home/these-small-home-improvements-can-increase-your-quality-of-life)
-- [Lifehacker] [How to Watch TikTok on Your TV](https://lifehacker.com/tech/how-to-watch-tiktok-on-tv)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Small Home Improvements Can Also Improve Your Quality of Life](https://lifehacker.com/home/these-small-home-improvements-can-increase-your-quality-of-life)<!-- TECH-POSTS:END -->
 
 ---
 
