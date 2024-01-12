@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CONTROLLED VS UNCONTROLLED INPUTS IN REACT JS](https://dev.to/frankezenwanne/controlled-vs-uncontrolled-inputs-in-react-js-4d91)
+- [Dev.to/JS] [AI for Web Devs: Project Introduction &amp; Setup](https://dev.to/austingil/ai-for-web-devs-project-introduction-setup-4jhk)
+- [Dev.to/JS] [The few VS Code snippets that I use regularly](https://dev.to/receter/the-few-vs-code-snippets-that-i-use-regularly-1cab)
+- [Lifehacker] [You Can Get This Apple TV Remote on Sale for $27 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)
 - [Dev.to/JS] [Mastering data with 7 new JavaScript Set methods](https://dev.to/veranikabarel/mastering-data-with-7-new-javascript-set-methods-583o)
 - [Dev.to/JS] [A Guide to Integrating with Adyen Web for 3D Secure 2 Payments](https://dev.to/adyen/a-guide-to-integrating-with-adyen-web-for-3d-secure-2-payments-p3j)
+- [Lifehacker] [Avoid These Phrases When Supporting a Friend &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/health/supportive-cliches-you-should-avoid-when-supporting-a-friend)
 - [Dev.to/JS] [React Webpack 5 Setup - Understand everything you need to know](https://dev.to/vvkkumar06/react-webpack-5-setup-understand-everything-you-need-to-know-3idp)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Dev.to/JS] [DOM is easy: Just make it work like an Array 👍](https://dev.to/darkwiiplayer/turning-the-dom-into-an-array-555g)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [18 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
 - [Dev.to/JS] [How to Achieve AZ-120 Exam Brilliance with Dumps](https://dev.to/arabellajack/how-to-achieve-az-120-exam-brilliance-with-dumps-4p9g)
 - [Dev.to/JS] [🤖 Automatically publish your Node package to NPM &lpar;with PNPM and GitHub actions&rpar;](https://dev.to/receter/automatically-publish-your-node-package-to-npm-with-pnpm-and-github-actions-22eg)
-- [Dev.to/JS] [🌟 5 secret TypeScript repos the top 1% of devs LOVE 🔥](https://dev.to/quine/5-secret-typescript-repos-the-top-1-of-devs-love-38eh)
-- [Dev.to/JS] [my blog webite](https://dev.to/rabbkhan/my-blog-webite-4d8p)
-- [Dev.to/JS] [J.son is not worth](https://dev.to/aditya_raj_1010/json-is-not-worth-50op)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: Where Coffee Comes From, for Starters](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-misinformation-threatens-world)
 - [Lifehacker] [These Are the Best Wireless Headphones to Buy in 2024](https://lifehacker.com/tech/best-wireless-headphones)
 - [Lifehacker] [All the Ways to Remove Your Kid’s Image From the Internet](https://lifehacker.com/family/how-to-remove-your-kids-image-from-the-internet)
-- [Lifehacker] [All the Ways to Take Screenshots in Windows 11](https://lifehacker.com/all-the-ways-to-take-screenshots-in-windows-11-1847697682)
-- [Lifehacker] [Why Gen Z Loves ‘Loud Budgeting’](https://lifehacker.com/money/what-is-loud-budgeting-and-how-to-do-it)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-11-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways to Take Screenshots in Windows 11](https://lifehacker.com/all-the-ways-to-take-screenshots-in-windows-11-1847697682)<!-- TECH-POSTS:END -->
 
 ---
 
