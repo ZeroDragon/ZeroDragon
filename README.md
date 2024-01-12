@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Structures and Algorithms: Stacks](https://dev.to/faraib/data-structures-and-algorithms-stacks-2p0b)
+- [Dev.to/JS] [State: The Ever Shifting Heart of React Component](https://dev.to/bosofisan/state-the-ever-shifting-heart-of-react-component-5bfa)
+- [Dev.to/JS] [I made a Hands-On Tutorial for Learning forLoops](https://dev.to/piko/i-made-a-hands-on-tutorial-for-learning-forloops-2bng)
+- [Dev.to/JS] [Machine Learning](https://dev.to/tiffanyman19/machine-learning-gci)
 - [Dev.to/JS] [Build your SaaS landing page in 15 minutes using Mantine](https://dev.to/tthroo/build-your-saas-landing-page-in-15-minutes-using-mantine-111a)
-- [Dev.to/JS] [I made an Image Resizing App and I blame DEV.TO 😂](https://dev.to/piko/i-made-an-image-resizing-app-and-i-blame-devto-28mo)
+- [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
+- [Lifehacker] [Use SMART Goals to Work Toward Your Fitness Dreams](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
+- [Lifehacker] [How to Unblock Someone on Instagram](https://lifehacker.com/tech/how-to-unblock-someone-on-instagram)
 - [Lifehacker] [These Are the Best Noise-Canceling Earbuds to Buy in 2024](https://lifehacker.com/tech/the-best-noise-canceling-earbuds)
 - [Dev.to/JS] [How to animate state change in Svelte](https://dev.to/abdulmuminyqn/how-to-animate-state-change-in-svelte-3of2)
 - [Dev.to/JS] [Beautyrest Heated Electric Blanket for Cold Weather,](https://dev.to/amazon43/beautyrest-heated-electric-blanket-for-cold-weather-5h9c)
@@ -44,11 +50,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Ethically Use ChatGPT to Write an Essay](https://lifehacker.com/family/how-to-ethically-use-chatgpt-to-write-an-essay)
 - [Lifehacker] [The Best Ways to Eliminate Pet Odors](https://lifehacker.com/home/best-ways-to-eliminate-pet-odors)
 - [Dev.to/JS] [Learn SVG by drawing an arrow](https://dev.to/shalvah/learn-svg-by-drawing-an-arrow-54n5)
-- [Dev.to/JS] [AnswerThePublic](https://dev.to/wsovn112/answerthepublic-1i0m)
 - [Lifehacker] [How to Save Money on Running Gear, According to Reddit](https://lifehacker.com/health/save-money-on-running-gear)
-- [Dev.to/JS] [Powtoon](https://dev.to/rankkmarket/powtoon-5m2)
 - [Lifehacker] [This New Smart Home Standard Is Designed to Lower Your Energy Use](https://lifehacker.com/home/what-is-the-home-connectivity-alliance)
-- [Dev.to/JS] [WEB DEV SECRETS E-BOOK](https://dev.to/elattioui/web-dev-secrets-e-book-12b)
 - [Lifehacker] [Use This Formula to Make Your Own Deodorizing Spray](https://lifehacker.com/home/diy-deodorizing-spray)
 - [Lifehacker] [Supercharge Your Browsing Experience With Mouse Gestures](https://lifehacker.com/tech/how-use-mouse-gestures-on-browsers)
 - [Lifehacker] [How to Try Out the Apple Vision Pro Without Paying $3,499](https://lifehacker.com/tech/how-to-sign-up-to-try-out-apple-vision-pro)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)
 - [Lifehacker] [The Best Movies to Stream on Tubi This Month](https://lifehacker.com/entertainment/best-movies-streaming-on-tubi)
 - [Lifehacker] [Seven Common Household Items You&#39;re Better Off Not Washing With Soap](https://lifehacker.com/home/common-household-items-you-shouldnt-wash-wish-soap)
-- [Lifehacker] [These Are the Best Bluetooth Speakers to Buy in 2024](https://lifehacker.com/tech/best-bluetooth-speakers)
-- [Lifehacker] [Six Ways to Extend the Life of Any Vacuum](https://lifehacker.com/home/how-to-extend-the-life-of-a-vacuum-cleaner)
-- [Lifehacker] [CES 2024: The Coolest Smart Kitchen Tech We Saw](https://lifehacker.com/tech/smart-kitchen-tech-ces-2024)
-- [Lifehacker] [CES 2024: ASUS’s Latest Gaming Phone Is Thinner and Lighter Than Ever Before](https://lifehacker.com/tech/asus-rog-8-series-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Bluetooth Speakers to Buy in 2024](https://lifehacker.com/tech/best-bluetooth-speakers)<!-- TECH-POSTS:END -->
 
 ---
 
