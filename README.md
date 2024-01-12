@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Capture Global Audience: Product Localization](https://dev.to/devgancode/capture-global-audience-product-localization-4h45)
+- [Dev.to/JS] [HELLO](https://dev.to/njiosseu/hello-1021)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/himoktik/buy-google-5-star-reviews-1oba)
 - [Dev.to/JS] [Exploring Next.js Plugins and Middleware](https://dev.to/lexyerresta/exploring-nextjs-plugins-and-middleware-4am3)
 - [Dev.to/JS] [Optimizing Next.js for SEO](https://dev.to/lexyerresta/optimizing-nextjs-for-seo-1pn2)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Map- One Of The Most Important Array Methods In Javascript](https://dev.to/emorinken/map-one-of-the-most-important-array-methods-in-javascript-3d18)
 - [Dev.to/JS] [State Management in Next.js Applications](https://dev.to/lexyerresta/state-management-in-nextjs-applications-309o)
 - [Dev.to/JS] [Next.js Commerce: Building E-commerce Sites](https://dev.to/lexyerresta/nextjs-commerce-building-e-commerce-sites-43m)
-- [Dev.to/JS] [Next.js 14 and Vercel Edge Network](https://dev.to/lexyerresta/nextjs-14-and-vercel-edge-network-4p1m)
-- [Dev.to/JS] [Next.js API Routes and Serverless Functions](https://dev.to/lexyerresta/nextjs-api-routes-and-serverless-functions-30k1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
