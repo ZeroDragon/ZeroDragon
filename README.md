@@ -26,30 +26,31 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced Routing and Dynamic Pages in Next.js 14](https://dev.to/lexyerresta/advanced-routing-and-dynamic-pages-in-nextjs-14-3ede)
+- [Dev.to/JS] [Module Federation in Next.js 14](https://dev.to/lexyerresta/module-federation-in-nextjs-14-13il)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
+- [Dev.to/JS] [Next.js 14 and Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/lexyerresta/nextjs-14-and-incremental-static-regeneration-isr-46d1)
+- [Dev.to/JS] [Enhanced TypeScript Support in Next.js 14](https://dev.to/lexyerresta/enhanced-typescript-support-in-nextjs-14-499e)
+- [Dev.to/JS] [Edge Functions and Middleware Capabilities in Next.js 14](https://dev.to/lexyerresta/edge-functions-and-middleware-capabilities-in-nextjs-14-2f1d)
+- [Dev.to/JS] [Server Components in Next.js 14](https://dev.to/lexyerresta/server-components-in-nextjs-14-405o)
+- [Dev.to/JS] [New Features in the Image Optimization API in Next.js 14](https://dev.to/lexyerresta/new-features-in-the-image-optimization-api-in-nextjs-14-a19)
+- [Dev.to/JS] [Elevando a Qualidade: Guia Prático de Testes em Cypress para Componentes e E2E em Aplicações React](https://dev.to/williammdsilva/elevando-a-qualidade-guia-pratico-de-testes-em-cypress-para-componentes-e-e2e-em-aplicacoes-react-2k35)
+- [Dev.to/JS] [Performance Enhancements in Next.js 14](https://dev.to/lexyerresta/performance-enhancements-in-nextjs-14-49gg)
+- [Dev.to/JS] [Add Vuepress docs to existing project](https://dev.to/arielmejiadev/add-vuepress-docs-to-existing-project-3aca)
 - [Dev.to/JS] [Data Structures and Algorithms: Stacks](https://dev.to/faraib/data-structures-and-algorithms-stacks-2p0b)
 - [Dev.to/JS] [State: The Ever Shifting Heart of React Component](https://dev.to/bosofisan/state-the-ever-shifting-heart-of-react-component-5bfa)
-- [Dev.to/JS] [I made a Hands-On Tutorial for Learning forLoops](https://dev.to/piko/i-made-a-hands-on-tutorial-for-learning-forloops-2bng)
-- [Dev.to/JS] [Machine Learning](https://dev.to/tiffanyman19/machine-learning-gci)
-- [Dev.to/JS] [Build your SaaS landing page in 15 minutes using Mantine](https://dev.to/tthroo/build-your-saas-landing-page-in-15-minutes-using-mantine-111a)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
 - [Lifehacker] [Use SMART Goals to Work Toward Your Fitness Dreams](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Lifehacker] [How to Unblock Someone on Instagram](https://lifehacker.com/tech/how-to-unblock-someone-on-instagram)
 - [Lifehacker] [These Are the Best Noise-Canceling Earbuds to Buy in 2024](https://lifehacker.com/tech/the-best-noise-canceling-earbuds)
-- [Dev.to/JS] [How to animate state change in Svelte](https://dev.to/abdulmuminyqn/how-to-animate-state-change-in-svelte-3of2)
-- [Dev.to/JS] [Beautyrest Heated Electric Blanket for Cold Weather,](https://dev.to/amazon43/beautyrest-heated-electric-blanket-for-cold-weather-5h9c)
 - [Lifehacker] [The Most Common Causes of Death in the Home &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/home/the-easiest-ways-to-accidentally-kill-yourself-in-your-own-home)
-- [Dev.to/JS] [McDeepNet: A Step-by-Step Guide to Training a TensorFlow Model on McDonald’s Reviews 🍟](https://dev.to/zanepearton/mcdeepnet-a-step-by-step-guide-to-building-and-training-a-tensorflow-rnn-for-mcdonalds-reviews-analysis-3898)
 - [Lifehacker] [These Are the Best Over-Ear Headphones to Buy in 2024](https://lifehacker.com/tech/the-best-over-ear-headphones)
 - [Lifehacker] [How to Unblock Someone on Facebook](https://lifehacker.com/tech/how-to-unblock-someone-on-facebook)
-- [Dev.to/JS] [My Journey with ReactJs](https://dev.to/sa11erto5n/my-journey-with-reactjs-2j7e)
 - [Lifehacker] [These Small Home Improvements Can Also Improve Your Quality of Life](https://lifehacker.com/home/these-small-home-improvements-can-increase-your-quality-of-life)
-- [Dev.to/JS] [POO com JavaScript e TypeScript](https://dev.to/vitorrios1001/poo-com-javascript-e-typescript-2hj0)
 - [Lifehacker] [How to Watch TikTok on Your TV](https://lifehacker.com/tech/how-to-watch-tiktok-on-tv)
-- [Dev.to/JS] [this in javascript ?](https://dev.to/vishwa_9/this-in-javascript--3ij1)
 - [Lifehacker] [Google Assistant Is Losing a Bunch of Features](https://lifehacker.com/tech/google-assistant-is-losing-a-bunch-of-features)
 - [Lifehacker] [How to Ethically Use ChatGPT to Write an Essay](https://lifehacker.com/family/how-to-ethically-use-chatgpt-to-write-an-essay)
 - [Lifehacker] [The Best Ways to Eliminate Pet Odors](https://lifehacker.com/home/best-ways-to-eliminate-pet-odors)
-- [Dev.to/JS] [Learn SVG by drawing an arrow](https://dev.to/shalvah/learn-svg-by-drawing-an-arrow-54n5)
 - [Lifehacker] [How to Save Money on Running Gear, According to Reddit](https://lifehacker.com/health/save-money-on-running-gear)
 - [Lifehacker] [This New Smart Home Standard Is Designed to Lower Your Energy Use](https://lifehacker.com/home/what-is-the-home-connectivity-alliance)
 - [Lifehacker] [Use This Formula to Make Your Own Deodorizing Spray](https://lifehacker.com/home/diy-deodorizing-spray)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-11-2024)
 - [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)
 - [Lifehacker] [The Best Movies to Stream on Tubi This Month](https://lifehacker.com/entertainment/best-movies-streaming-on-tubi)
-- [Lifehacker] [Seven Common Household Items You&#39;re Better Off Not Washing With Soap](https://lifehacker.com/home/common-household-items-you-shouldnt-wash-wish-soap)
-- [Lifehacker] [These Are the Best Bluetooth Speakers to Buy in 2024](https://lifehacker.com/tech/best-bluetooth-speakers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Common Household Items You&#39;re Better Off Not Washing With Soap](https://lifehacker.com/home/common-household-items-you-shouldnt-wash-wish-soap)<!-- TECH-POSTS:END -->
 
 ---
 
