@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [J.son is not worth](https://dev.to/aditya_raj_1010/json-is-not-worth-50op)
+- [Dev.to/JS] [Call Function in Another Function Javascript](https://dev.to/possibility_mayfair/call-function-in-another-function-javascript-23kd)
+- [Dev.to/JS] [Creating a New Angular App Without Global CLI Installation](https://dev.to/chellappanrajan/creating-a-new-angular-app-without-global-cli-installation-1g71)
+- [Dev.to/JS] [👨‍💻 Daily Code 36 | The Document Object Model &lpar;DOM&rpar;](https://dev.to/gregor_schafroth/daily-code-36-the-document-object-model-dom-4dgb)
 - [Dev.to/JS] [Integrating Appwrite as a Backend for React Native Applications](https://dev.to/manojnarasimha/integrating-appwrite-as-a-backend-for-react-native-applications-24kf)
 - [Dev.to/JS] [React Native Download File/Image](https://dev.to/ajmal_hasan/react-native-download-file-1dbg)
 - [Dev.to/JS] [Understanding how centering of HTML div element works with some help from AI](https://dev.to/kipyegonline/understanding-how-centering-of-html-div-element-works-with-some-help-from-ai-1mcp)
 - [Dev.to/JS] [isNaN is like gambling](https://dev.to/raysca_93/isnan-is-like-gambling-25m4)
 - [Dev.to/JS] [Tap into Global Markets: 5 Open-Source Tools for Localization in 2024](https://dev.to/devgancode/capture-global-audience-product-localization-4h45)
 - [Dev.to/JS] [HELLO](https://dev.to/njiosseu/hello-1021)
+- [Dev.to/JS] [Why I Built A Coding Libraries Store?](https://dev.to/bikash9609/why-i-built-a-libs-store-1559)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/himoktik/buy-google-5-star-reviews-1oba)
-- [Dev.to/JS] [Exploring Next.js Plugins and Middleware](https://dev.to/lexyerresta/exploring-nextjs-plugins-and-middleware-4am3)
-- [Dev.to/JS] [Optimizing Next.js for SEO](https://dev.to/lexyerresta/optimizing-nextjs-for-seo-1pn2)
-- [Dev.to/JS] [Next.js for Enterprise Applications](https://dev.to/lexyerresta/nextjs-for-enterprise-applications-2k87)
-- [Dev.to/JS] [Internationalization and Localization in Next.js](https://dev.to/lexyerresta/internationalization-and-localization-in-nextjs-4g01)
-- [Dev.to/JS] [Migration to Next.js 14: A Step-by-Step Guide](https://dev.to/lexyerresta/migration-to-nextjs-14-a-step-by-step-guide-2djp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
