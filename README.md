@@ -26,11 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Workout Headphones to Buy in 2024](https://lifehacker.com/tech/best-headphones-for-working-out)
 - [Dev.to/JS] [How to get started with Progressive Web Apps.](https://dev.to/michellebuchiokonicha/how-to-get-started-with-progressive-web-apps-3f44)
 - [Dev.to/JS] [Introducción a Big O Notation](https://dev.to/owivans/introduccion-a-big-o-notation-3lp)
 - [Dev.to/JS] [DPI : Intro to Software Development Foundation](https://dev.to/nims972/dpi-intro-to-software-development-foundation-4g05)
 - [Dev.to/JS] [Tempdata vs View Bag vs ViewData](https://dev.to/sardarmudassaralikhan/tempdata-vs-view-bag-vs-viewdata-4np8)
 - [Dev.to/JS] [xem ngày giờ sinh](https://dev.to/tuvi123vn/xem-ngay-gio-sinh-4khi)
+- [Lifehacker] [It&#39;s Time to Cold Stratify Your Seeds](https://lifehacker.com/home/how-to-cold-stratify-seeds-indoors)
 - [Dev.to/JS] [Speechelo](https://dev.to/rankkmarket/speechelo-4gn4)
 - [Dev.to/JS] [𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗔𝗻𝗱 Graphic design](https://dev.to/ystudio/graphic-design-1beo)
 - [Lifehacker] [You Don’t Need a Smart Home Middleman](https://lifehacker.com/tech/why-you-dont-need-a-smart-tech-middleman)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch TikTok on Your TV](https://lifehacker.com/tech/how-to-watch-tiktok-on-tv)
 - [Lifehacker] [Google Assistant Is Losing a Bunch of Features](https://lifehacker.com/tech/google-assistant-is-losing-a-bunch-of-features)
 - [Lifehacker] [How to Ethically Use ChatGPT to Write an Essay](https://lifehacker.com/family/how-to-ethically-use-chatgpt-to-write-an-essay)
-- [Lifehacker] [The Best Ways to Eliminate Pet Odors](https://lifehacker.com/home/best-ways-to-eliminate-pet-odors)
-- [Lifehacker] [How to Save Money on Running Gear, According to Reddit](https://lifehacker.com/health/save-money-on-running-gear)
-- [Lifehacker] [This New Smart Home Standard Is Designed to Lower Your Energy Use](https://lifehacker.com/home/what-is-the-home-connectivity-alliance)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Eliminate Pet Odors](https://lifehacker.com/home/best-ways-to-eliminate-pet-odors)<!-- TECH-POSTS:END -->
 
 ---
 
