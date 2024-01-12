@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What happens when you pass the same session key to website to perform operations?](https://dev.to/vitalipom/what-happens-when-you-pass-the-same-session-key-to-website-to-perform-operations-2hkl)
+- [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)
+- [Dev.to/JS] [Creating HTML Templates for Binding JSON Data with JavaScript Template Literals](https://dev.to/mrhdias/creating-html-templates-for-binding-json-data-with-javascript-template-literals-3p9f)
+- [Dev.to/JS] [What is signmeonly.io?](https://dev.to/signmeonly/what-is-signmeonlyio-4mj6)
+- [Dev.to/JS] [A Quick Overview of Skillcrush 102: Intro to JavaScript](https://dev.to/theoriginalbpc/a-quick-overview-of-skillcrush-102-intro-to-javascript-bj1)
+- [Lifehacker] [How to Defeat &#39;Parkinson’s Law&#39; to Be More Productive](https://lifehacker.com/work/what-is-parkinsons-law)
+- [Lifehacker] [The Best Free VPNs of 2024](https://lifehacker.com/tech/the-best-free-vpns)
 - [Lifehacker] [These Are the Best Workout Headphones to Buy in 2024](https://lifehacker.com/tech/best-headphones-for-working-out)
 - [Dev.to/JS] [How to get started with Progressive Web Apps.](https://dev.to/michellebuchiokonicha/how-to-get-started-with-progressive-web-apps-3f44)
 - [Dev.to/JS] [Introducción a Big O Notation](https://dev.to/owivans/introduccion-a-big-o-notation-3lp)
@@ -37,15 +44,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗔𝗻𝗱 Graphic design](https://dev.to/ystudio/graphic-design-1beo)
 - [Lifehacker] [You Don’t Need a Smart Home Middleman](https://lifehacker.com/tech/why-you-dont-need-a-smart-tech-middleman)
 - [Dev.to/JS] [article-video-robot](https://dev.to/wsovn112/article-video-robot-52ce)
-- [Dev.to/JS] [Authentication Using Context in Graphql &lpar;Part 4&rpar;](https://dev.to/ganeshyadav3142/authentication-using-context-in-graphql-part-4-4emn)
-- [Dev.to/JS] [How to use a get/fetch command to GET data](https://dev.to/nickraym/how-to-use-a-getfetch-command-to-get-data-2ad4)
 - [Lifehacker] [Your Finances Need a Monthly Reset](https://lifehacker.com/money/monthly-money-reset)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
 - [Lifehacker] [Why You Shouldn&#39;t Thin Salad Dressing with Water &lpar;and What to Use Instead&rpar;](https://lifehacker.com/food-drink/how-to-thin-salad-dressing)
-- [Dev.to/JS] [My Journey as a Front-End Developer: Navigating Interviews and Challenges](https://dev.to/udit065/my-journey-as-a-front-end-developer-navigating-interviews-and-challenges-2jnp)
 - [Lifehacker] [The ASUS Rog Ally Is $200 Off Right Now](https://lifehacker.com/entertainment/asus-rog-ally-sale-at-best-buy)
 - [Lifehacker] [How to Delete Your X &lpar;Formerly Twitter&rpar; Account](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)
-- [Dev.to/JS] [CONTROLLED VS UNCONTROLLED INPUTS IN REACT JS](https://dev.to/frankezenwanne/controlled-vs-uncontrolled-inputs-in-react-js-4d91)
 - [Lifehacker] [The Best Shows to Watch With Kids to Boost Their Creativity](https://lifehacker.com/entertainment/best-shows-boost-kids-creativity)
 - [Lifehacker] [You Can Get This Apple TV Remote on Sale for $27 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)
 - [Lifehacker] [Avoid These Phrases When Supporting a Friend &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/health/supportive-cliches-you-should-avoid-when-supporting-a-friend)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Over-Ear Headphones to Buy in 2024](https://lifehacker.com/tech/the-best-over-ear-headphones)
 - [Lifehacker] [How to Unblock Someone on Facebook](https://lifehacker.com/tech/how-to-unblock-someone-on-facebook)
 - [Lifehacker] [These Small Home Improvements Can Also Improve Your Quality of Life](https://lifehacker.com/home/these-small-home-improvements-can-increase-your-quality-of-life)
-- [Lifehacker] [How to Watch TikTok on Your TV](https://lifehacker.com/tech/how-to-watch-tiktok-on-tv)
-- [Lifehacker] [Google Assistant Is Losing a Bunch of Features](https://lifehacker.com/tech/google-assistant-is-losing-a-bunch-of-features)
-- [Lifehacker] [How to Ethically Use ChatGPT to Write an Essay](https://lifehacker.com/family/how-to-ethically-use-chatgpt-to-write-an-essay)
-- [Lifehacker] [The Best Ways to Eliminate Pet Odors](https://lifehacker.com/home/best-ways-to-eliminate-pet-odors)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Watch TikTok on Your TV](https://lifehacker.com/tech/how-to-watch-tiktok-on-tv)<!-- TECH-POSTS:END -->
 
 ---
 
