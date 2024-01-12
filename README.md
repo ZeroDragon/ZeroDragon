@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Turning the DOM into an array](https://dev.to/darkwiiplayer/turning-the-dom-into-an-array-555g)
+- [Dev.to/JS] [Top 10 Software Development Trends in 2024](https://dev.to/durgesh4993/top-10-software-development-trends-in-2024-4h7o)
+- [Dev.to/JS] [Unlock Limitless Creativity: 7000+ Fonts Bundle – Instant Installation Awesomeness!](https://dev.to/ystudio/unlock-limitless-creativity-7000-fonts-bundle-instant-installation-awesomeness-26jo)
+- [Dev.to/JS] [What is hoisting in javaScript?](https://dev.to/iamrazzakk/what-is-hoisting-in-javascript-4nj3)
+- [Lifehacker] [18 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
 - [Dev.to/JS] [How to Achieve AZ-120 Exam Brilliance with Dumps](https://dev.to/arabellajack/how-to-achieve-az-120-exam-brilliance-with-dumps-4p9g)
 - [Dev.to/JS] [🤖 Automatically publish your Node package to NPM &lpar;with PNPM and GitHub actions&rpar;](https://dev.to/receter/automatically-publish-your-node-package-to-npm-with-pnpm-and-github-actions-22eg)
 - [Dev.to/JS] [🌟 5 secret TypeScript repos the top 1% of devs LOVE 🔥](https://dev.to/quine/5-secret-typescript-repos-the-top-1-of-devs-love-38eh)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Call Function in Another Function Javascript](https://dev.to/possibility_mayfair/call-function-in-another-function-javascript-23kd)
 - [Dev.to/JS] [Creating a New Angular App Without Global CLI Installation](https://dev.to/chellappanrajan/creating-a-new-angular-app-without-global-cli-installation-1g71)
 - [Dev.to/JS] [👨‍💻 Daily Code 36 | The Document Object Model &lpar;DOM&rpar;](https://dev.to/gregor_schafroth/daily-code-36-the-document-object-model-dom-4dgb)
-- [Dev.to/JS] [Integrating Appwrite as a Backend for React Native Applications](https://dev.to/manojnarasimha/integrating-appwrite-as-a-backend-for-react-native-applications-24kf)
-- [Dev.to/JS] [React Native Download File/Image](https://dev.to/ajmal_hasan/react-native-download-file-1dbg)
-- [Dev.to/JS] [Understanding how centering of HTML div element works with some help from AI](https://dev.to/kipyegonline/understanding-how-centering-of-html-div-element-works-with-some-help-from-ai-1mcp)
-- [Dev.to/JS] [isNaN is like gambling](https://dev.to/raysca_93/isnan-is-like-gambling-25m4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Gen Z Loves ‘Loud Budgeting’](https://lifehacker.com/money/what-is-loud-budgeting-and-how-to-do-it)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-11-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 11, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-11-2024)
-- [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)
-- [Lifehacker] [The Best Movies to Stream on Tubi This Month](https://lifehacker.com/entertainment/best-movies-streaming-on-tubi)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Daily Podcasts to Add to Your Routine](https://lifehacker.com/entertainment/12-daily-podcasts-to-add-to-your-routine)<!-- TECH-POSTS:END -->
 
 ---
 
