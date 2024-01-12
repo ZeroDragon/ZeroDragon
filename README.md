@@ -26,11 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Cypress Alternatives for Web Testing and Automation](https://dev.to/keploy/top-5-cypress-alternatives-for-web-testing-and-automation-1eb7)
+- [Dev.to/JS] [Top 5 Cypress Alternatives for Web Testing and Automation](https://dev.to/keploy/top-5-cypress-alternatives-for-web-testing-and-automation-6en)
+- [Dev.to/JS] [Navigate the Unexpected: Using Copilot in Edge and DevTools](https://dev.to/hootanht/navigate-the-unexpected-using-copilot-in-edge-and-devtools-5bfk)
+- [Dev.to/JS] [Create an iterative rendering utility for React](https://dev.to/lourdesyang/create-an-iterative-rendering-utility-for-react-ban)
+- [Lifehacker] [Eight Steps to Protect Your Digital Privacy After a Bad Breakup](https://lifehacker.com/tech/how-to-protect-your-online-privacy-after-a-breakup)
 - [Dev.to/JS] [Understanding The React Component Lifecycle: A Deep Dive](https://dev.to/vicveksr9485/understanding-the-react-component-lifecycle-a-deep-dive-436j)
 - [Dev.to/JS] [basvb](https://dev.to/muhammadmumarmm/basvb-5di3)
 - [Dev.to/JS] [Untangling Next.js middlewares](https://dev.to/z4nr34l/untangling-nextjs-middlewares-2m5e)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why is Everyone Talking About &#39;Saltburn&#39;?](https://lifehacker.com/entertainment/whats-the-deal-with-saltburn-out-of-touch-adults-guide-kid-culture)
 - [Lifehacker] [Where to Find U.S. Communities That Are Testing Universal Basic Income](https://lifehacker.com/money/where-to-find-us-communities-offering-universal-basic-income)
-- [Dev.to/JS] [What happens when you pass the same session key to website to perform operations?](https://dev.to/vitalipom/what-happens-when-you-pass-the-same-session-key-to-website-to-perform-operations-2hkl)
+- [Dev.to/JS] [signmeonly.io fights secrets sending over HTTPS/S GET/POST](https://dev.to/vitalipom/what-happens-when-you-pass-the-same-session-key-to-website-to-perform-operations-2hkl)
 - [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)
 - [Dev.to/JS] [Creating HTML Templates for Binding JSON Data with JavaScript Template Literals](https://dev.to/mrhdias/creating-html-templates-for-binding-json-data-with-javascript-template-literals-3p9f)
 - [Dev.to/JS] [What is signmeonly.io?](https://dev.to/signmeonly/what-is-signmeonlyio-4mj6)
@@ -39,10 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Free VPNs of 2024](https://lifehacker.com/tech/the-best-free-vpns)
 - [Lifehacker] [These Are the Best Workout Headphones to Buy in 2024](https://lifehacker.com/tech/best-headphones-for-working-out)
 - [Dev.to/JS] [How to get started with Progressive Web Apps.](https://dev.to/michellebuchiokonicha/how-to-get-started-with-progressive-web-apps-3f44)
-- [Dev.to/JS] [Introducción a Big O Notation](https://dev.to/owivans/introduccion-a-big-o-notation-3lp)
-- [Dev.to/JS] [DPI : Intro to Software Development Foundation](https://dev.to/nims972/dpi-intro-to-software-development-foundation-4g05)
-- [Dev.to/JS] [Tempdata vs View Bag vs ViewData](https://dev.to/sardarmudassaralikhan/tempdata-vs-view-bag-vs-viewdata-4np8)
-- [Dev.to/JS] [xem ngày giờ sinh](https://dev.to/tuvi123vn/xem-ngay-gio-sinh-4khi)
 - [Lifehacker] [It&#39;s Time to Cold Stratify Your Seeds](https://lifehacker.com/home/how-to-cold-stratify-seeds-indoors)
 - [Lifehacker] [You Don’t Need a Smart Home Middleman](https://lifehacker.com/tech/why-you-dont-need-a-smart-tech-middleman)
 - [Lifehacker] [Your Finances Need a Monthly Reset](https://lifehacker.com/money/monthly-money-reset)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Unblock Someone on Instagram](https://lifehacker.com/tech/how-to-unblock-someone-on-instagram)
 - [Lifehacker] [These Are the Best Noise-Canceling Earbuds to Buy in 2024](https://lifehacker.com/tech/the-best-noise-canceling-earbuds)
 - [Lifehacker] [The Most Common Causes of Death in the Home &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/home/the-easiest-ways-to-accidentally-kill-yourself-in-your-own-home)
-- [Lifehacker] [These Are the Best Over-Ear Headphones to Buy in 2024](https://lifehacker.com/tech/the-best-over-ear-headphones)
-- [Lifehacker] [How to Unblock Someone on Facebook](https://lifehacker.com/tech/how-to-unblock-someone-on-facebook)
-- [Lifehacker] [These Small Home Improvements Can Also Improve Your Quality of Life](https://lifehacker.com/home/these-small-home-improvements-can-increase-your-quality-of-life)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Over-Ear Headphones to Buy in 2024](https://lifehacker.com/tech/the-best-over-ear-headphones)<!-- TECH-POSTS:END -->
 
 ---
 
