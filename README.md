@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Capture Global Audience: Product Localization](https://dev.to/devgancode/capture-global-audience-product-localization-4h45)
+- [Dev.to/JS] [Integrating Appwrite as a Backend for React Native Applications](https://dev.to/manojnarasimha/integrating-appwrite-as-a-backend-for-react-native-applications-24kf)
+- [Dev.to/JS] [React Native Download File/Image](https://dev.to/ajmal_hasan/react-native-download-file-1dbg)
+- [Dev.to/JS] [Understanding how centering of HTML div element works with some help from AI](https://dev.to/kipyegonline/understanding-how-centering-of-html-div-element-works-with-some-help-from-ai-1mcp)
+- [Dev.to/JS] [isNaN is like gambling](https://dev.to/raysca_93/isnan-is-like-gambling-25m4)
+- [Dev.to/JS] [Tap into Global Markets: 5 Open-Source Tools for Localization in 2024](https://dev.to/devgancode/capture-global-audience-product-localization-4h45)
 - [Dev.to/JS] [HELLO](https://dev.to/njiosseu/hello-1021)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/himoktik/buy-google-5-star-reviews-1oba)
 - [Dev.to/JS] [Exploring Next.js Plugins and Middleware](https://dev.to/lexyerresta/exploring-nextjs-plugins-and-middleware-4am3)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js for Enterprise Applications](https://dev.to/lexyerresta/nextjs-for-enterprise-applications-2k87)
 - [Dev.to/JS] [Internationalization and Localization in Next.js](https://dev.to/lexyerresta/internationalization-and-localization-in-nextjs-4g01)
 - [Dev.to/JS] [Migration to Next.js 14: A Step-by-Step Guide](https://dev.to/lexyerresta/migration-to-nextjs-14-a-step-by-step-guide-2djp)
-- [Dev.to/JS] [Next.js and Headless CMS Integration](https://dev.to/lexyerresta/nextjs-and-headless-cms-integration-2e7h)
-- [Dev.to/JS] [Map- One Of The Most Important Array Methods In Javascript](https://dev.to/emorinken/map-one-of-the-most-important-array-methods-in-javascript-3d18)
-- [Dev.to/JS] [State Management in Next.js Applications](https://dev.to/lexyerresta/state-management-in-nextjs-applications-309o)
-- [Dev.to/JS] [Next.js Commerce: Building E-commerce Sites](https://dev.to/lexyerresta/nextjs-commerce-building-e-commerce-sites-43m)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
