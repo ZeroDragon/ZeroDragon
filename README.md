@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Temporal Dead Zone](https://dev.to/capscode/temporal-dead-zone-2h91)
+- [Dev.to/JS] [A Structured Approach For Error Handling In Express.js](https://dev.to/chethancm2001/a-structured-approach-for-error-handling-in-expressjs-1gg3)
 - [Dev.to/JS] [Mastering Powerful and Efficient State Management with Vue.js: A Comprehensive Pinia Usage Guide](https://dev.to/emperorbrains/mastering-powerful-and-efficient-state-management-with-vuejs-a-comprehensive-pinia-usage-guide-397h)
 - [Dev.to/JS] [Willy Wonka contract effect using CSS?](https://dev.to/fromjay/willy-wonka-contract-effect-using-css-4a5c)
 - [Dev.to/JS] [Next JS 14 + Katex web app](https://dev.to/kirankulkarni/next-js-14-katex-web-app-30ld)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Edge Functions and Middleware Capabilities in Next.js 14](https://dev.to/lexyerresta/edge-functions-and-middleware-capabilities-in-nextjs-14-2f1d)
 - [Dev.to/JS] [Server Components in Next.js 14](https://dev.to/lexyerresta/server-components-in-nextjs-14-405o)
 - [Dev.to/JS] [New Features in the Image Optimization API in Next.js 14](https://dev.to/lexyerresta/new-features-in-the-image-optimization-api-in-nextjs-14-a19)
-- [Dev.to/JS] [Elevando a Qualidade: Guia Prático de Testes em Cypress para Componentes e E2E em Aplicações React](https://dev.to/williammdsilva/elevando-a-qualidade-guia-pratico-de-testes-em-cypress-para-componentes-e-e2e-em-aplicacoes-react-2k35)
-- [Dev.to/JS] [Performance Enhancements in Next.js 14](https://dev.to/lexyerresta/performance-enhancements-in-nextjs-14-49gg)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
 - [Lifehacker] [Use SMART Goals to Work Toward Your Fitness Dreams](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Lifehacker] [How to Unblock Someone on Instagram](https://lifehacker.com/tech/how-to-unblock-someone-on-instagram)
