@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey as a Front-End Developer: Navigating Interviews and Challenges](https://dev.to/udit065/my-journey-as-a-front-end-developer-navigating-interviews-and-challenges-2jnp)
 - [Dev.to/JS] [CONTROLLED VS UNCONTROLLED INPUTS IN REACT JS](https://dev.to/frankezenwanne/controlled-vs-uncontrolled-inputs-in-react-js-4d91)
 - [Dev.to/JS] [AI for Web Devs: Project Introduction &amp; Setup](https://dev.to/austingil/ai-for-web-devs-project-introduction-setup-4jhk)
 - [Dev.to/JS] [The few VS Code snippets that I use regularly](https://dev.to/receter/the-few-vs-code-snippets-that-i-use-regularly-1cab)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is hoisting in javaScript?](https://dev.to/iamrazzakk/what-is-hoisting-in-javascript-4nj3)
 - [Lifehacker] [18 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
 - [Dev.to/JS] [How to Achieve AZ-120 Exam Brilliance with Dumps](https://dev.to/arabellajack/how-to-achieve-az-120-exam-brilliance-with-dumps-4p9g)
-- [Dev.to/JS] [🤖 Automatically publish your Node package to NPM &lpar;with PNPM and GitHub actions&rpar;](https://dev.to/receter/automatically-publish-your-node-package-to-npm-with-pnpm-and-github-actions-22eg)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
