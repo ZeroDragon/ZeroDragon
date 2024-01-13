@@ -26,8 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GBWhatsApp APK Download &lpar;Updated&rpar; Anti-Ban | OFFICIAL](https://dev.to/gbwhatsupp/gbwhatsapp-apk-download-updated-anti-ban-official-27kp)
 - [Dev.to/JS] [Blissrise CBD Gummies Reviews - Result, Benefits, Price &amp; Where to Order?](https://dev.to/blissrisecbdbuy/blissrise-cbd-gummies-reviews-result-benefits-price-where-to-order-21fa)
-- [Dev.to/JS] [👨‍💻 Daily Code 37 | The Document Object Model &lpar;DOM&rpar; 2](https://dev.to/gregor_schafroth/daily-code-37-the-document-object-model-dom-2-c0l)
+- [Dev.to/JS] [🟨 Daily Code 37 | The Document Object Model &lpar;DOM&rpar; 2](https://dev.to/gregor_schafroth/daily-code-37-the-document-object-model-dom-2-c0l)
 - [Dev.to/JS] [How to create an API in Next.js](https://dev.to/venom4171/how-to-create-an-api-in-nextjs-5726)
 - [Dev.to/JS] [Steps to Configure Postgres in Vercel with your Next.js project](https://dev.to/venom4171/steps-to-configure-postgres-in-vercel-with-your-nextjs-project-bi4)
 - [Dev.to/JS] [I Launched The Most Awaited Complete React Course](https://dev.to/myogeshchavan97/i-launched-the-most-awaited-complete-react-course-1efe)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying Microservices: A Beginner&#39;s Guide](https://dev.to/aswanth6000/demystifying-microservices-a-beginners-guide-2fn4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
-- [Dev.to/JS] [How I Slashed Loading Time from 5 Seconds to 500 Milliseconds: A Front-end Journey with Angular and NgRx](https://dev.to/aixart/how-i-slashed-loading-time-from-5-seconds-to-500-milliseconds-a-front-end-journey-with-angular-and-ngrx-pb2)
 - [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
 - [Lifehacker] [The Best Bone Conduction Headphones to Buy in 2024](https://lifehacker.com/tech/best-bone-conduction-headphones-for-running-swimming)
 - [Lifehacker] [Treat Your Cold With a Big Batch of My Mom’s Thai Soup](https://lifehacker.com/food-drink/make-my-moms-thai-jok-rice-porridge-recipe)
