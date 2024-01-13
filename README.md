@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/buttonstrain/buy-verified-binance-accounts-4h72)
+- [Dev.to/JS] [Topics You Must Know Before Learning Nodejs](https://dev.to/anushka200310/topics-you-must-know-before-learning-nodejs-1kjb)
+- [Dev.to/JS] [Veed.io](https://dev.to/rankkmarket/veedio-dia)
 - [Dev.to/JS] [Unveiling the Wellness Revolution with Blissrise CBD Gummies](https://dev.to/blissrisecbdg/unveiling-the-wellness-revolution-with-blissrise-cbd-gummies-1dfc)
 - [Dev.to/JS] [Audiencer.io](https://dev.to/wsovn112/audiencerio-5ced)
 - [Dev.to/JS] [xem tuổi hợp nhau để kết hôn](https://dev.to/tuvi123vn/xem-tuoi-hop-nhau-de-ket-hon-55n5)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GBWhatsApp APK Download &lpar;Updated&rpar; Anti-Ban | OFFICIAL](https://dev.to/gbwhatsupp/gbwhatsapp-apk-download-updated-anti-ban-official-27kp)
 - [Dev.to/JS] [Blissrise CBD Gummies Reviews - Result, Benefits, Price &amp; Where to Order?](https://dev.to/blissrisecbdbuy/blissrise-cbd-gummies-reviews-result-benefits-price-where-to-order-21fa)
 - [Dev.to/JS] [🟨 Daily Code 37 | The Document Object Model &lpar;DOM&rpar; 2](https://dev.to/gregor_schafroth/daily-code-37-the-document-object-model-dom-2-c0l)
-- [Dev.to/JS] [How to create an API in Next.js](https://dev.to/venom4171/how-to-create-an-api-in-nextjs-5726)
-- [Dev.to/JS] [Steps to Configure Postgres in Vercel with your Next.js project](https://dev.to/venom4171/steps-to-configure-postgres-in-vercel-with-your-nextjs-project-bi4)
-- [Dev.to/JS] [I Launched The Most Awaited Complete React Course](https://dev.to/myogeshchavan97/i-launched-the-most-awaited-complete-react-course-1efe)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
 - [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
