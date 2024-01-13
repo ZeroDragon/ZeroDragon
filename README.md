@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Slashed Loading Time from 5 Seconds to 500 Milliseconds: A Front-end Journey with Angular and NgRx](https://dev.to/aixart/how-i-slashed-loading-time-from-5-seconds-to-500-milliseconds-a-front-end-journey-with-angular-and-ngrx-pb2)
 - [Dev.to/JS] [Delegation](https://dev.to/kalashin1/delegation-4h29)
 - [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
 - [Lifehacker] [The Best Bone Conduction Headphones to Buy in 2024](https://lifehacker.com/tech/best-bone-conduction-headphones-for-running-swimming)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Find U.S. Communities That Are Testing Universal Basic Income](https://lifehacker.com/money/where-to-find-us-communities-offering-universal-basic-income)
 - [Dev.to/JS] [signmeonly.io fights secrets sending over HTTPS/S GET/POST](https://dev.to/vitalipom/what-happens-when-you-pass-the-same-session-key-to-website-to-perform-operations-2hkl)
 - [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)
-- [Dev.to/JS] [Creating HTML Templates for Binding JSON Data with JavaScript Template Literals](https://dev.to/mrhdias/creating-html-templates-for-binding-json-data-with-javascript-template-literals-3p9f)
 - [Lifehacker] [How to Defeat &#39;Parkinson’s Law&#39; to Be More Productive](https://lifehacker.com/work/what-is-parkinsons-law)
 - [Lifehacker] [The Best Free VPNs of 2024](https://lifehacker.com/tech/the-best-free-vpns)
 - [Lifehacker] [These Are the Best Workout Headphones to Buy in 2024](https://lifehacker.com/tech/best-headphones-for-working-out)
