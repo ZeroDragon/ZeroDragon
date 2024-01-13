@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Sass or Scss in Svelte/Sveltekit](https://dev.to/abdulmuminyqn/how-to-use-sass-or-scss-in-sveltesveltekit-25f6)
+- [Dev.to/JS] [For Coffee lover](https://dev.to/pstore/for-coffee-lover-4788)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/ojhgcb777/buy-verified-cash-app-account-2dpb)
 - [Dev.to/JS] [Bridging the Gap: Exploring the Power of Hydration in Web Development](https://dev.to/yahyanaim/bridging-the-gap-exploring-the-power-of-hydration-in-web-development-2j4e)
 - [Dev.to/JS] [Enhancing User Experience: The Importance of &quot;Pick Up Where You Left Off&quot;](https://dev.to/vivekmengu016/enhancing-user-experience-the-importance-of-pick-up-where-you-left-off-ldp)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $35 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
@@ -39,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Multiple themes with one object](https://dev.to/shreyvijayvargiya/multiple-themes-with-one-object-3ha6)
 - [Dev.to/JS] [Latest Newsletter: Everything Bitcoin &lpar;Issue #149&rpar;](https://dev.to/mjgs/latest-newsletter-everything-bitcoin-issue-149-47kl)
 - [Dev.to/JS] [Episode 24/01: Q&amp;A ng-Poland, Content by Netanel Basal/Evgenyi Tuboltsev](https://dev.to/this-is-angular/episode-2401-qa-ng-poland-content-by-netanel-basalevgenyi-tuboltsev-37nd)
-- [Dev.to/JS] [Link Orchard - A Linktree Killer](https://dev.to/senathenu/link-orchard-a-linktree-killer-15p6)
-- [Dev.to/JS] [Zustand - The State Management Library for React &amp; Next JS](https://dev.to/aniket_raikwar/zustand-the-state-management-tool-for-react-next-js-p6o)
-- [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/buttonstrain/buy-verified-binance-accounts-4h72)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
 - [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
