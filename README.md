@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Send Email Notifications using JAVA? &lpar;3 Methods With Code Examples&rpar;](https://dev.to/suprsend/how-to-send-email-notifications-using-java-3-methods-with-code-examples-2ckd)
+- [Dev.to/JS] [Optimizing Next.js with OpenTelemetry](https://dev.to/z4nr34l/optimizing-nextjs-with-opentelemetry-2c8c)
+- [Dev.to/JS] [Create Your Own Local Chatbot with Next.js, Llama.cpp, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-llamacpp-and-modelfusion-461j)
 - [Dev.to/JS] [Multiple themes with one object](https://dev.to/shreyvijayvargiya/multiple-themes-with-one-object-3ha6)
 - [Dev.to/JS] [What is signmeonly.io?](https://dev.to/vitalipom/what-is-sign-me-only-50kb)
 - [Dev.to/JS] [Latest Newsletter: Everything Bitcoin &lpar;Issue #149&rpar;](https://dev.to/mjgs/latest-newsletter-everything-bitcoin-issue-149-47kl)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/buttonstrain/buy-verified-binance-accounts-4h72)
 - [Dev.to/JS] [Topics You Must Know Before Learning Nodejs](https://dev.to/anushka200310/topics-you-must-know-before-learning-nodejs-1kjb)
 - [Dev.to/JS] [Veed.io](https://dev.to/rankkmarket/veedio-dia)
-- [Dev.to/JS] [Unveiling the Wellness Revolution with Blissrise CBD Gummies](https://dev.to/blissrisecbdg/unveiling-the-wellness-revolution-with-blissrise-cbd-gummies-1dfc)
-- [Dev.to/JS] [Audiencer.io](https://dev.to/wsovn112/audiencerio-5ced)
-- [Dev.to/JS] [xem tuổi hợp nhau để kết hôn](https://dev.to/tuvi123vn/xem-tuoi-hop-nhau-de-ket-hon-55n5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
 - [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
