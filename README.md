@@ -26,13 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Launched The Most Awaited Complete React Course](https://dev.to/myogeshchavan97/i-launched-the-most-awaited-complete-react-course-1efe)
+- [Dev.to/JS] [𝐖𝐡𝐚𝐭 𝐢𝐬 𝐰𝐰𝐰? 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐰𝐰𝐰𝟐 &amp; 𝐰𝐰𝐰𝟑? 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭, 𝐖𝐖𝐖, 𝐁𝐫𝐨𝐰𝐬𝐞𝐫](https://dev.to/rounit08/--443j)
+- [Dev.to/JS] [Mastering Daily Tasks with JavaScript: A Practical Guide](https://dev.to/mktheitguy/mastering-daily-tasks-with-javascript-a-practical-guide-4jn2)
+- [Dev.to/JS] [Creating an Engaging Curriculum vitae using Github Pages: A Step-by-Step Guide](https://dev.to/zanepearton/creating-an-engaging-github-page-cv-a-step-by-step-guide-1e4h)
 - [Dev.to/JS] [Hướng dẫn đăng ký Jun88 nhanh chóng, đơn giản.](https://dev.to/jun88delivery/huong-dan-dang-ky-jun88-nhanh-chong-don-gian-4de4)
 - [Dev.to/JS] [Prevent scrolling behind a fixed header](https://dev.to/phuocng/prevent-scrolling-behind-a-fixed-header-4eo)
 - [Dev.to/JS] [Demystifying Microservices: A Beginner&#39;s Guide](https://dev.to/aswanth6000/demystifying-microservices-a-beginners-guide-2fn4)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
 - [Dev.to/JS] [How I Slashed Loading Time from 5 Seconds to 500 Milliseconds: A Front-end Journey with Angular and NgRx](https://dev.to/aixart/how-i-slashed-loading-time-from-5-seconds-to-500-milliseconds-a-front-end-journey-with-angular-and-ngrx-pb2)
-- [Dev.to/JS] [Delegation](https://dev.to/kalashin1/delegation-4h29)
 - [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
 - [Lifehacker] [The Best Bone Conduction Headphones to Buy in 2024](https://lifehacker.com/tech/best-bone-conduction-headphones-for-running-swimming)
 - [Dev.to/JS] [Criando Validações de Endpoints com Zod](https://dev.to/vitorrios1001/criando-validacoes-de-endpoints-com-zod-k28)
@@ -41,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 Cypress Alternatives for Web Testing and Automation](https://dev.to/keploy/top-5-cypress-alternatives-for-web-testing-and-automation-1eb7)
 - [Dev.to/JS] [Top 5 Cypress Alternatives for Web Testing and Automation](https://dev.to/keploy/top-5-cypress-alternatives-for-web-testing-and-automation-6en)
 - [Lifehacker] [TikTok Myth of the Week: The Sit-to-Stand Test Tells You When You’re Going to Die](https://lifehacker.com/health/tiktok-myth-sit-stand-test-tells-when-youre-going-to-die)
-- [Dev.to/JS] [Navigate the Unexpected: Using Copilot in Edge and DevTools](https://dev.to/hootanht/navigate-the-unexpected-using-copilot-in-edge-and-devtools-5bfk)
-- [Dev.to/JS] [Create an iterative rendering utility for React](https://dev.to/lourdesyang/create-an-iterative-rendering-utility-for-react-ban)
 - [Lifehacker] [Eight Steps to Protect Your Digital Privacy After a Bad Breakup](https://lifehacker.com/tech/how-to-protect-your-online-privacy-after-a-breakup)
-- [Dev.to/JS] [Understanding The React Component Lifecycle: A Deep Dive](https://dev.to/vicveksr9485/understanding-the-react-component-lifecycle-a-deep-dive-436j)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why is Everyone Talking About &#39;Saltburn&#39;?](https://lifehacker.com/entertainment/whats-the-deal-with-saltburn-out-of-touch-adults-guide-kid-culture)
 - [Lifehacker] [Where to Find U.S. Communities That Are Testing Universal Basic Income](https://lifehacker.com/money/where-to-find-us-communities-offering-universal-basic-income)
 - [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)
