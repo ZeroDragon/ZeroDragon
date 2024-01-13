@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hướng dẫn đăng ký Jun88 nhanh chóng, đơn giản.](https://dev.to/jun88delivery/huong-dan-dang-ky-jun88-nhanh-chong-don-gian-4de4)
 - [Dev.to/JS] [Prevent scrolling behind a fixed header](https://dev.to/phuocng/prevent-scrolling-behind-a-fixed-header-4eo)
 - [Dev.to/JS] [Demystifying Microservices: A Beginner&#39;s Guide](https://dev.to/aswanth6000/demystifying-microservices-a-beginners-guide-2fn4)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
 - [Dev.to/JS] [How I Slashed Loading Time from 5 Seconds to 500 Milliseconds: A Front-end Journey with Angular and NgRx](https://dev.to/aixart/how-i-slashed-loading-time-from-5-seconds-to-500-milliseconds-a-front-end-journey-with-angular-and-ngrx-pb2)
 - [Dev.to/JS] [Delegation](https://dev.to/kalashin1/delegation-4h29)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create an iterative rendering utility for React](https://dev.to/lourdesyang/create-an-iterative-rendering-utility-for-react-ban)
 - [Lifehacker] [Eight Steps to Protect Your Digital Privacy After a Bad Breakup](https://lifehacker.com/tech/how-to-protect-your-online-privacy-after-a-breakup)
 - [Dev.to/JS] [Understanding The React Component Lifecycle: A Deep Dive](https://dev.to/vicveksr9485/understanding-the-react-component-lifecycle-a-deep-dive-436j)
-- [Dev.to/JS] [basvb](https://dev.to/muhammadmumarmm/basvb-5di3)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why is Everyone Talking About &#39;Saltburn&#39;?](https://lifehacker.com/entertainment/whats-the-deal-with-saltburn-out-of-touch-adults-guide-kid-culture)
 - [Lifehacker] [Where to Find U.S. Communities That Are Testing Universal Basic Income](https://lifehacker.com/money/where-to-find-us-communities-offering-universal-basic-income)
 - [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Shower Changes Temperature When the Toilet Flushes &lpar;and How to Stop It&rpar;](https://lifehacker.com/home/why-shower-changes-temperature-when-toilet-flushes-how-to-stop-it)
 - [Lifehacker] [18 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
-- [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)<!-- TECH-POSTS:END -->
 
 ---
 
