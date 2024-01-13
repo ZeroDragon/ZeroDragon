@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Passing a Choices List from Power Apps to an Adaptive Card](https://dev.to/mcombp/passing-a-choices-list-from-power-apps-to-an-adaptive-card-2nga)
+- [Dev.to/JS] [Next.js &amp; React.js: Useful Blogs &amp; Articles](https://dev.to/med_code/nextjs-reactjs-useful-blogs-articles-4489)
 - [Dev.to/JS] [How to use Sass or Scss in Svelte/Sveltekit](https://dev.to/abdulmuminyqn/how-to-use-sass-or-scss-in-sveltesveltekit-25f6)
 - [Dev.to/JS] [For Coffee lover](https://dev.to/pstore/for-coffee-lover-4788)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/ojhgcb777/buy-verified-cash-app-account-2dpb)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/nix-color-sensor-sale)
 - [Dev.to/JS] [Create Your Own Local Chatbot with Next.js, Llama.cpp, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-llamacpp-and-modelfusion-461j)
 - [Dev.to/JS] [Multiple themes with one object](https://dev.to/shreyvijayvargiya/multiple-themes-with-one-object-3ha6)
-- [Dev.to/JS] [Latest Newsletter: Everything Bitcoin &lpar;Issue #149&rpar;](https://dev.to/mjgs/latest-newsletter-everything-bitcoin-issue-149-47kl)
-- [Dev.to/JS] [Episode 24/01: Q&amp;A ng-Poland, Content by Netanel Basal/Evgenyi Tuboltsev](https://dev.to/this-is-angular/episode-2401-qa-ng-poland-content-by-netanel-basalevgenyi-tuboltsev-37nd)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
 - [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
