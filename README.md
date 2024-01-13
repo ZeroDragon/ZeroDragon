@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prevent scrolling behind a fixed header](https://dev.to/phuocng/prevent-scrolling-behind-a-fixed-header-4eo)
+- [Dev.to/JS] [Demystifying Microservices: A Beginner&#39;s Guide](https://dev.to/aswanth6000/demystifying-microservices-a-beginners-guide-2fn4)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
 - [Dev.to/JS] [How I Slashed Loading Time from 5 Seconds to 500 Milliseconds: A Front-end Journey with Angular and NgRx](https://dev.to/aixart/how-i-slashed-loading-time-from-5-seconds-to-500-milliseconds-a-front-end-journey-with-angular-and-ngrx-pb2)
 - [Dev.to/JS] [Delegation](https://dev.to/kalashin1/delegation-4h29)
 - [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
@@ -41,10 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eight Steps to Protect Your Digital Privacy After a Bad Breakup](https://lifehacker.com/tech/how-to-protect-your-online-privacy-after-a-breakup)
 - [Dev.to/JS] [Understanding The React Component Lifecycle: A Deep Dive](https://dev.to/vicveksr9485/understanding-the-react-component-lifecycle-a-deep-dive-436j)
 - [Dev.to/JS] [basvb](https://dev.to/muhammadmumarmm/basvb-5di3)
-- [Dev.to/JS] [Untangling Next.js middlewares](https://dev.to/z4nr34l/untangling-nextjs-middlewares-2m5e)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why is Everyone Talking About &#39;Saltburn&#39;?](https://lifehacker.com/entertainment/whats-the-deal-with-saltburn-out-of-touch-adults-guide-kid-culture)
 - [Lifehacker] [Where to Find U.S. Communities That Are Testing Universal Basic Income](https://lifehacker.com/money/where-to-find-us-communities-offering-universal-basic-income)
-- [Dev.to/JS] [signmeonly.io fights secrets sending over HTTPS/S GET/POST](https://dev.to/vitalipom/what-happens-when-you-pass-the-same-session-key-to-website-to-perform-operations-2hkl)
 - [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)
 - [Lifehacker] [How to Defeat &#39;Parkinson’s Law&#39; to Be More Productive](https://lifehacker.com/work/what-is-parkinsons-law)
 - [Lifehacker] [The Best Free VPNs of 2024](https://lifehacker.com/tech/the-best-free-vpns)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [18 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
-- [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
-- [Lifehacker] [Use SMART Goals to Work Toward Your Fitness Dreams](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)<!-- TECH-POSTS:END -->
 
 ---
 
