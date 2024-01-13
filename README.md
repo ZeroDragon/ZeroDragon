@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enhancing User Experience: The Importance of &quot;Pick Up Where You Left Off&quot;](https://dev.to/vivekmengu016/enhancing-user-experience-the-importance-of-pick-up-where-you-left-off-ldp)
+- [Lifehacker] [Everyone Who Needs the RSV Vaccine &lpar;and Where to Get It&rpar;](https://lifehacker.com/health/where-to-get-rsv-vaccine)
 - [Dev.to/JS] [Simplify your Next.js Middleware](https://dev.to/z4nr34l/simplify-your-nextjs-middleware-3hmn)
 - [Lifehacker] [Nine Countries You&#39;ll Need a Tourist Visa to Visit in 2024](https://lifehacker.com/travel/these-countries-require-a-tourist-visa-for-travel-from-the-united-states)
 - [Dev.to/JS] [How to Send Email Notifications using JAVA? &lpar;3 Methods With Code Examples&rpar;](https://dev.to/suprsend/how-to-send-email-notifications-using-java-3-methods-with-code-examples-2ckd)
@@ -33,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/nix-color-sensor-sale)
 - [Dev.to/JS] [Create Your Own Local Chatbot with Next.js, Llama.cpp, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-llamacpp-and-modelfusion-461j)
 - [Dev.to/JS] [Multiple themes with one object](https://dev.to/shreyvijayvargiya/multiple-themes-with-one-object-3ha6)
-- [Dev.to/JS] [What is signmeonly.io?](https://dev.to/vitalipom/what-is-sign-me-only-50kb)
 - [Dev.to/JS] [Latest Newsletter: Everything Bitcoin &lpar;Issue #149&rpar;](https://dev.to/mjgs/latest-newsletter-everything-bitcoin-issue-149-47kl)
 - [Dev.to/JS] [Episode 24/01: Q&amp;A ng-Poland, Content by Netanel Basal/Evgenyi Tuboltsev](https://dev.to/this-is-angular/episode-2401-qa-ng-poland-content-by-netanel-basalevgenyi-tuboltsev-37nd)
 - [Dev.to/JS] [Link Orchard - A Linktree Killer](https://dev.to/senathenu/link-orchard-a-linktree-killer-15p6)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Apple TV Remote on Sale for $27 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)
 - [Lifehacker] [Avoid These Phrases When Supporting a Friend &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/health/supportive-cliches-you-should-avoid-when-supporting-a-friend)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
-- [Lifehacker] [Why Your Shower Changes Temperature When the Toilet Flushes &lpar;and How to Stop It&rpar;](https://lifehacker.com/home/why-shower-changes-temperature-when-toilet-flushes-how-to-stop-it)
-- [Lifehacker] [18 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Your Shower Changes Temperature When the Toilet Flushes &lpar;and How to Stop It&rpar;](https://lifehacker.com/home/why-shower-changes-temperature-when-toilet-flushes-how-to-stop-it)<!-- TECH-POSTS:END -->
 
 ---
 
