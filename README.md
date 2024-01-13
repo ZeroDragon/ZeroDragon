@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Link Orchard - A Linktree Killer](https://dev.to/senathenu/link-orchard-a-linktree-killer-15p6)
 - [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/buttonstrain/buy-verified-binance-accounts-4h72)
 - [Dev.to/JS] [Topics You Must Know Before Learning Nodejs](https://dev.to/anushka200310/topics-you-must-know-before-learning-nodejs-1kjb)
 - [Dev.to/JS] [Veed.io](https://dev.to/rankkmarket/veedio-dia)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The best Angular 17 Starter Project](https://dev.to/wlucha/the-best-angular-17-starter-project-26a3)
 - [Dev.to/JS] [GBWhatsApp APK Download &lpar;Updated&rpar; Anti-Ban | OFFICIAL](https://dev.to/gbwhatsupp/gbwhatsapp-apk-download-updated-anti-ban-official-27kp)
 - [Dev.to/JS] [Blissrise CBD Gummies Reviews - Result, Benefits, Price &amp; Where to Order?](https://dev.to/blissrisecbdbuy/blissrise-cbd-gummies-reviews-result-benefits-price-where-to-order-21fa)
-- [Dev.to/JS] [🟨 Daily Code 37 | The Document Object Model &lpar;DOM&rpar; 2](https://dev.to/gregor_schafroth/daily-code-37-the-document-object-model-dom-2-c0l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
 - [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
