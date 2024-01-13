@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Delegation](https://dev.to/kalashin1/delegation-4h29)
+- [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
+- [Lifehacker] [The Best Bone Conduction Headphones to Buy in 2024](https://lifehacker.com/tech/best-bone-conduction-headphones-for-running-swimming)
 - [Dev.to/JS] [Criando Validações de Endpoints com Zod](https://dev.to/vitorrios1001/criando-validacoes-de-endpoints-com-zod-k28)
 - [Dev.to/JS] [Hands-on Tutorial for javaScript Newbies : Learn for loops by a creating a Dynamic Grid](https://dev.to/piko/hands-on-tutorial-for-javascript-beginners-learn-for-loops-by-a-creating-a-dynamic-grid-if5)
+- [Lifehacker] [Treat Your Cold With a Big Batch of My Mom’s Thai Soup](https://lifehacker.com/food-drink/make-my-moms-thai-jok-rice-porridge-recipe)
 - [Dev.to/JS] [Top 5 Cypress Alternatives for Web Testing and Automation](https://dev.to/keploy/top-5-cypress-alternatives-for-web-testing-and-automation-1eb7)
 - [Dev.to/JS] [Top 5 Cypress Alternatives for Web Testing and Automation](https://dev.to/keploy/top-5-cypress-alternatives-for-web-testing-and-automation-6en)
 - [Lifehacker] [TikTok Myth of the Week: The Sit-to-Stand Test Tells You When You’re Going to Die](https://lifehacker.com/health/tiktok-myth-sit-stand-test-tells-when-youre-going-to-die)
@@ -42,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [signmeonly.io fights secrets sending over HTTPS/S GET/POST](https://dev.to/vitalipom/what-happens-when-you-pass-the-same-session-key-to-website-to-perform-operations-2hkl)
 - [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)
 - [Dev.to/JS] [Creating HTML Templates for Binding JSON Data with JavaScript Template Literals](https://dev.to/mrhdias/creating-html-templates-for-binding-json-data-with-javascript-template-literals-3p9f)
-- [Dev.to/JS] [What is signmeonly.io?](https://dev.to/signmeonly/what-is-signmeonlyio-4mj6)
 - [Lifehacker] [How to Defeat &#39;Parkinson’s Law&#39; to Be More Productive](https://lifehacker.com/work/what-is-parkinsons-law)
 - [Lifehacker] [The Best Free VPNs of 2024](https://lifehacker.com/tech/the-best-free-vpns)
 - [Lifehacker] [These Are the Best Workout Headphones to Buy in 2024](https://lifehacker.com/tech/best-headphones-for-working-out)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-12-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 12, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-12-2024)
 - [Lifehacker] [You Can Download Microsoft Office 2019 for PC and Mac for $30 Right Now](https://lifehacker.com/tech/microsoft-office-2019-pc-mac-sale)
-- [Lifehacker] [Use SMART Goals to Work Toward Your Fitness Dreams](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
-- [Lifehacker] [How to Unblock Someone on Instagram](https://lifehacker.com/tech/how-to-unblock-someone-on-instagram)
-- [Lifehacker] [These Are the Best Noise-Canceling Earbuds to Buy in 2024](https://lifehacker.com/tech/the-best-noise-canceling-earbuds)
-- [Lifehacker] [The Most Common Causes of Death in the Home &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/home/the-easiest-ways-to-accidentally-kill-yourself-in-your-own-home)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use SMART Goals to Work Toward Your Fitness Dreams](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)<!-- TECH-POSTS:END -->
 
 ---
 
