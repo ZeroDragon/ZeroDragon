@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Criando Validações de Endpoints com Zod](https://dev.to/vitorrios1001/criando-validacoes-de-endpoints-com-zod-k28)
+- [Dev.to/JS] [Hands-on Tutorial for javaScript Newbies : Learn for loops by a creating a Dynamic Grid](https://dev.to/piko/hands-on-tutorial-for-javascript-beginners-learn-for-loops-by-a-creating-a-dynamic-grid-if5)
 - [Dev.to/JS] [Top 5 Cypress Alternatives for Web Testing and Automation](https://dev.to/keploy/top-5-cypress-alternatives-for-web-testing-and-automation-1eb7)
 - [Dev.to/JS] [Top 5 Cypress Alternatives for Web Testing and Automation](https://dev.to/keploy/top-5-cypress-alternatives-for-web-testing-and-automation-6en)
+- [Lifehacker] [TikTok Myth of the Week: The Sit-to-Stand Test Tells You When You’re Going to Die](https://lifehacker.com/health/tiktok-myth-sit-stand-test-tells-when-youre-going-to-die)
 - [Dev.to/JS] [Navigate the Unexpected: Using Copilot in Edge and DevTools](https://dev.to/hootanht/navigate-the-unexpected-using-copilot-in-edge-and-devtools-5bfk)
 - [Dev.to/JS] [Create an iterative rendering utility for React](https://dev.to/lourdesyang/create-an-iterative-rendering-utility-for-react-ban)
 - [Lifehacker] [Eight Steps to Protect Your Digital Privacy After a Bad Breakup](https://lifehacker.com/tech/how-to-protect-your-online-privacy-after-a-breakup)
@@ -40,11 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)
 - [Dev.to/JS] [Creating HTML Templates for Binding JSON Data with JavaScript Template Literals](https://dev.to/mrhdias/creating-html-templates-for-binding-json-data-with-javascript-template-literals-3p9f)
 - [Dev.to/JS] [What is signmeonly.io?](https://dev.to/signmeonly/what-is-signmeonlyio-4mj6)
-- [Dev.to/JS] [A Quick Overview of Skillcrush 102: Intro to JavaScript](https://dev.to/theoriginalbpc/a-quick-overview-of-skillcrush-102-intro-to-javascript-bj1)
 - [Lifehacker] [How to Defeat &#39;Parkinson’s Law&#39; to Be More Productive](https://lifehacker.com/work/what-is-parkinsons-law)
 - [Lifehacker] [The Best Free VPNs of 2024](https://lifehacker.com/tech/the-best-free-vpns)
 - [Lifehacker] [These Are the Best Workout Headphones to Buy in 2024](https://lifehacker.com/tech/best-headphones-for-working-out)
-- [Dev.to/JS] [How to get started with Progressive Web Apps.](https://dev.to/michellebuchiokonicha/how-to-get-started-with-progressive-web-apps-3f44)
 - [Lifehacker] [It&#39;s Time to Cold Stratify Your Seeds](https://lifehacker.com/home/how-to-cold-stratify-seeds-indoors)
 - [Lifehacker] [You Don’t Need a Smart Home Middleman](https://lifehacker.com/tech/why-you-dont-need-a-smart-tech-middleman)
 - [Lifehacker] [Your Finances Need a Monthly Reset](https://lifehacker.com/money/monthly-money-reset)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use SMART Goals to Work Toward Your Fitness Dreams](https://lifehacker.com/dont-let-smart-fitness-goals-stop-you-from-dreaming-big-1849966615)
 - [Lifehacker] [How to Unblock Someone on Instagram](https://lifehacker.com/tech/how-to-unblock-someone-on-instagram)
 - [Lifehacker] [These Are the Best Noise-Canceling Earbuds to Buy in 2024](https://lifehacker.com/tech/the-best-noise-canceling-earbuds)
-- [Lifehacker] [The Most Common Causes of Death in the Home &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/home/the-easiest-ways-to-accidentally-kill-yourself-in-your-own-home)
-- [Lifehacker] [These Are the Best Over-Ear Headphones to Buy in 2024](https://lifehacker.com/tech/the-best-over-ear-headphones)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Common Causes of Death in the Home &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/home/the-easiest-ways-to-accidentally-kill-yourself-in-your-own-home)<!-- TECH-POSTS:END -->
 
 ---
 
