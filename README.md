@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multiple themes with one object](https://dev.to/shreyvijayvargiya/multiple-themes-with-one-object-3ha6)
+- [Dev.to/JS] [What is signmeonly.io?](https://dev.to/vitalipom/what-is-sign-me-only-50kb)
+- [Dev.to/JS] [Latest Newsletter: Everything Bitcoin &lpar;Issue #149&rpar;](https://dev.to/mjgs/latest-newsletter-everything-bitcoin-issue-149-47kl)
+- [Dev.to/JS] [Episode 24/01: Q&amp;A ng-Poland, Content by Netanel Basal/Evgenyi Tuboltsev](https://dev.to/this-is-angular/episode-2401-qa-ng-poland-content-by-netanel-basalevgenyi-tuboltsev-37nd)
 - [Dev.to/JS] [Link Orchard - A Linktree Killer](https://dev.to/senathenu/link-orchard-a-linktree-killer-15p6)
+- [Dev.to/JS] [Zustand - The State Management Library for React &amp; Next JS](https://dev.to/aniket_raikwar/zustand-the-state-management-tool-for-react-next-js-p6o)
 - [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/buttonstrain/buy-verified-binance-accounts-4h72)
 - [Dev.to/JS] [Topics You Must Know Before Learning Nodejs](https://dev.to/anushka200310/topics-you-must-know-before-learning-nodejs-1kjb)
 - [Dev.to/JS] [Veed.io](https://dev.to/rankkmarket/veedio-dia)
 - [Dev.to/JS] [Unveiling the Wellness Revolution with Blissrise CBD Gummies](https://dev.to/blissrisecbdg/unveiling-the-wellness-revolution-with-blissrise-cbd-gummies-1dfc)
 - [Dev.to/JS] [Audiencer.io](https://dev.to/wsovn112/audiencerio-5ced)
 - [Dev.to/JS] [xem tuổi hợp nhau để kết hôn](https://dev.to/tuvi123vn/xem-tuoi-hop-nhau-de-ket-hon-55n5)
-- [Dev.to/JS] [Svelte journey | SvelteKit: Page options, Link Options, Environment variables](https://dev.to/chillyhill/svelte-journey-sveltekit-page-options-link-options-environment-variables-2pb3)
-- [Dev.to/JS] [How I migrated from CRA to RSBuild](https://dev.to/verthon/how-i-migrated-from-cra-to-rsbuild-4ia8)
-- [Dev.to/JS] [The best Angular 17 Starter Project](https://dev.to/wlucha/the-best-angular-17-starter-project-26a3)
-- [Dev.to/JS] [GBWhatsApp APK Download &lpar;Updated&rpar; Anti-Ban | OFFICIAL](https://dev.to/gbwhatsupp/gbwhatsapp-apk-download-updated-anti-ban-official-27kp)
-- [Dev.to/JS] [Blissrise CBD Gummies Reviews - Result, Benefits, Price &amp; Where to Order?](https://dev.to/blissrisecbdbuy/blissrise-cbd-gummies-reviews-result-benefits-price-where-to-order-21fa)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
 - [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
