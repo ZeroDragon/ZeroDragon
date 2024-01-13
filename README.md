@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build OTP Input Field in React — No Package Needed](https://dev.to/stephengade/build-otp-input-field-in-react-no-package-needed-4n65)
 - [Dev.to/JS] [I trained a Web Component GPT, but it is not perfect](https://dev.to/dannyengelman/i-trained-a-web-component-gpt-but-it-is-not-perfect-2i5f)
 - [Dev.to/JS] [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
 - [Dev.to/JS] [Understanding JavaScript Maps](https://dev.to/_staticvoid/understanding-javascript-maps-1cin)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 Best Frontend Projects in 2024](https://dev.to/hriztam/top-5-best-frontend-projects-in-2024-3a70)
 - [Dev.to/JS] [🚀 Kickstart: the fastest way to setup your JS projects!](https://dev.to/danilovilhena/kickstart-the-fastest-way-to-setup-your-js-projects-1bli)
 - [Dev.to/JS] [Air Duct Cleaning Service](https://dev.to/colage4372/air-duct-cleaning-service-470a)
-- [Dev.to/JS] [Point of Incidence](https://dev.to/rmion/point-of-incidence-a1p)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $35 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Everyone Who Needs the RSV Vaccine &lpar;and Where to Get It&rpar;](https://lifehacker.com/health/where-to-get-rsv-vaccine)
