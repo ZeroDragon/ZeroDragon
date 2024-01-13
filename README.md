@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Best Frontend Projects in 2024](https://dev.to/hriztam/top-5-best-frontend-projects-in-2024-3a70)
+- [Dev.to/JS] [🚀 Kickstart: the fastest way to setup your JS projects!](https://dev.to/danilovilhena/kickstart-the-fastest-way-to-setup-your-js-projects-1bli)
+- [Dev.to/JS] [Air Duct Cleaning Service](https://dev.to/colage4372/air-duct-cleaning-service-470a)
+- [Dev.to/JS] [Point of Incidence](https://dev.to/rmion/point-of-incidence-a1p)
+- [Dev.to/JS] [Enhancing Typography: Exploring CSS Text Effects](https://dev.to/elaoqby/enhancing-typography-exploring-css-text-effects-243)
+- [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
 - [Dev.to/JS] [Passing a Choices List from Power Apps to an Adaptive Card](https://dev.to/mcombp/passing-a-choices-list-from-power-apps-to-an-adaptive-card-2nga)
 - [Dev.to/JS] [Next.js &amp; React.js: Useful Blogs &amp; Articles](https://dev.to/med_code/nextjs-reactjs-useful-blogs-articles-4489)
 - [Dev.to/JS] [How to use Sass or Scss in Svelte/Sveltekit](https://dev.to/abdulmuminyqn/how-to-use-sass-or-scss-in-sveltesveltekit-25f6)
@@ -35,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enhancing User Experience: The Importance of &quot;Pick Up Where You Left Off&quot;](https://dev.to/vivekmengu016/enhancing-user-experience-the-importance-of-pick-up-where-you-left-off-ldp)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $35 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Everyone Who Needs the RSV Vaccine &lpar;and Where to Get It&rpar;](https://lifehacker.com/health/where-to-get-rsv-vaccine)
-- [Dev.to/JS] [Simplify your Next.js Middleware](https://dev.to/z4nr34l/simplify-your-nextjs-middleware-3hmn)
 - [Lifehacker] [Nine Countries You&#39;ll Need a Tourist Visa to Visit in 2024](https://lifehacker.com/travel/these-countries-require-a-tourist-visa-for-travel-from-the-united-states)
-- [Dev.to/JS] [How to Send Email Notifications using JAVA? &lpar;3 Methods With Code Examples&rpar;](https://dev.to/suprsend/how-to-send-email-notifications-using-java-3-methods-with-code-examples-2ckd)
-- [Dev.to/JS] [Optimizing Next.js with OpenTelemetry](https://dev.to/z4nr34l/optimizing-nextjs-with-opentelemetry-2c8c)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/nix-color-sensor-sale)
-- [Dev.to/JS] [Create Your Own Local Chatbot with Next.js, Llama.cpp, and ModelFusion](https://dev.to/lgrammel/create-your-own-local-chatbot-with-nextjs-llamacpp-and-modelfusion-461j)
-- [Dev.to/JS] [Multiple themes with one object](https://dev.to/shreyvijayvargiya/multiple-themes-with-one-object-3ha6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
 - [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Delete Your X &lpar;Formerly Twitter&rpar; Account](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)
 - [Lifehacker] [The Best Shows to Watch With Kids to Boost Their Creativity](https://lifehacker.com/entertainment/best-shows-boost-kids-creativity)
 - [Lifehacker] [You Can Get This Apple TV Remote on Sale for $27 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)
-- [Lifehacker] [Avoid These Phrases When Supporting a Friend &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/health/supportive-cliches-you-should-avoid-when-supporting-a-friend)
-- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid These Phrases When Supporting a Friend &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/health/supportive-cliches-you-should-avoid-when-supporting-a-friend)<!-- TECH-POSTS:END -->
 
 ---
 
