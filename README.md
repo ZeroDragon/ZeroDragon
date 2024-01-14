@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Aggregation Pipeline in MongoDB &lpar;Part 1&rpar;](https://dev.to/ganeshyadav3142/introduction-to-aggregation-pipeline-in-mongodb-part-1-2cfo)
+- [Dev.to/JS] [Streams and React Server Components](https://dev.to/aslemammad/streams-and-react-server-components-3fak)
 - [Dev.to/JS] [Draw Together: Building a Multiplayer Sketch Game with Daphne, NextJS &amp; OpenAI!](https://dev.to/circumeo/draw-together-building-a-multiplayer-sketch-game-with-daphne-nextjs-openai-1eg8)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Hello 2024!](https://dev.to/nickytonline/yet-another-newsletter-lol-hello-2024-3pj6)
 - [Dev.to/JS] [Understanding the &quot;Element&quot; React Component: A Flexible Approach to Conditional Rendering](https://dev.to/serifcolakel/understanding-the-element-react-component-a-flexible-approach-to-conditional-rendering-5gdm)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WebSockets Unlocked: Mastering the Art of Real-Time Communication](https://dev.to/raunakgurud09/websockets-unlocked-mastering-the-art-of-real-time-communication-2lnj)
 - [Dev.to/JS] [How to Solve Problems in Programming like a PRO🦾](https://dev.to/codewithshahan/how-to-solve-problems-in-programming-beginners-guide-420d)
 - [Dev.to/JS] [Crafting A Image-Centric Web App: A Guide to Clay Theme on Gatsby 5+](https://dev.to/travisl/crafting-a-image-centric-web-app-a-guide-to-clay-theme-on-gatsby-5-ep5)
-- [Dev.to/JS] [&quot;Embarking on a New Coding Chapter: Journeying with HTML, CSS, JavaScript, Python, and PHP 🚀&quot;](https://dev.to/fomal7070/embarking-on-a-new-coding-chapter-journeying-with-html-css-javascript-python-and-php--5bh3)
-- [Dev.to/JS] [Based on Vue, I have developed an AI Body Fat Percentage Calculation tool.](https://dev.to/lesliele/based-on-vue-i-have-developed-an-ai-body-fat-percentage-calculation-tool-51fa)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
