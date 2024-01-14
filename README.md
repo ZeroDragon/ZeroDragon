@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying Microservices: A Beginner&#39;s Guide](https://dev.to/aswanth6000/demystifying-microservices-a-beginners-guide-11kp)
+- [Dev.to/JS] [Select the direct children of an element](https://dev.to/phuocng/select-the-direct-children-of-an-element-3bcc)
+- [Dev.to/JS] [The 7 Days 7 Projects Challenge 👨‍💻](https://dev.to/arjuncodess/the-7-days-7-projects-challenge-bn4)
+- [Dev.to/JS] [🟨 Daily Code 38 | The Document Object Model &lpar;DOM&rpar; 3 &lpar;🪨📃✂️&rpar;](https://dev.to/gregor_schafroth/daily-code-38-the-document-object-model-dom-3--fjp)
+- [Dev.to/JS] [Java Excellence: Harness the Power of Collections Framework](https://dev.to/rohitya84256690/java-excellence-harness-the-power-of-collections-framework-1030)
+- [Dev.to/JS] [Master the Art of Web Development with this Comprehensive Course! 💻🚀](https://dev.to/rohitya84256690/master-the-art-of-web-development-with-this-comprehensive-course-2d4f)
 - [Dev.to/JS] [리액트에서 props가 수정되면 컴포넌트가 리랜더링 될까? 과연?](https://dev.to/wes5510/riaegteueseo-propsga-sujeongdoemyeon-keomponeonteuga-riraendeoring-doelgga-gwayeon-3ce0)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
@@ -34,12 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to configure modules in a NestJS project](https://dev.to/adarsh04/how-to-configure-modules-in-a-nestjs-project-3m32)
 - [Dev.to/JS] [SupabaseJS and select join with count](https://dev.to/ozaytsev86/supabasejs-and-select-join-with-count-3i9k)
 - [Dev.to/JS] [10 YouTube Channels for Software Developer](https://dev.to/durgesh4993/10-youtube-channels-software-developer-should-follow-18p2)
-- [Dev.to/JS] [My 2024 Web App Tech Stack](https://dev.to/brettfishy/my-2024-web-app-tech-stack-17h0)
-- [Dev.to/JS] [Create signals in React with 5 lines of code !](https://dev.to/mayankhttps/create-signals-in-react-with-5-lines-of-code--5b68)
-- [Dev.to/JS] [Build OTP Input Field in React — No Package Needed](https://dev.to/stephengade/build-otp-input-field-in-react-no-package-needed-4n65)
-- [Dev.to/JS] [I trained a Web Component GPT, but it is not perfect](https://dev.to/dannyengelman/i-trained-a-web-component-gpt-but-it-is-not-perfect-2i5f)
-- [Dev.to/JS] [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
-- [Dev.to/JS] [Understanding JavaScript Maps](https://dev.to/_staticvoid/understanding-javascript-maps-1cin)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $35 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Everyone Who Needs the RSV Vaccine &lpar;and Where to Get It&rpar;](https://lifehacker.com/health/where-to-get-rsv-vaccine)
