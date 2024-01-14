@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enjoy the movant](https://dev.to/mdemon40/enjoy-the-movant-4mga)
 - [Dev.to/JS] [Fixing TypeScript Dates](https://dev.to/pffigueiredo/fixing-typescript-dates-3fjf)
 - [Dev.to/JS] [Dependencies in the JavaScript ecosystem](https://dev.to/zied_ghalleb/dependencies-in-the-javascript-ecosystem-52kp)
 - [Dev.to/JS] [View this solution on Exercism - String manipulation](https://dev.to/joaoalisonti/view-this-solution-on-exercism-string-manipulation-44k5)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Aggregation Pipeline in MongoDB &lpar;Part 1&rpar;](https://dev.to/ganeshyadav3142/introduction-to-aggregation-pipeline-in-mongodb-part-1-2cfo)
 - [Dev.to/JS] [Streams and React Server Components](https://dev.to/aslemammad/streams-and-react-server-components-3fak)
 - [Dev.to/JS] [Draw Together: Building a Multiplayer Sketch Game with Daphne, NextJS &amp; OpenAI!](https://dev.to/circumeo/draw-together-building-a-multiplayer-sketch-game-with-daphne-nextjs-openai-1eg8)
-- [Dev.to/JS] [Yet Another Newsletter LOL: Hello 2024!](https://dev.to/nickytonline/yet-another-newsletter-lol-hello-2024-3pj6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
