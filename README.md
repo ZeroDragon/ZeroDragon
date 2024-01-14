@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dignify Your Test Automation with Concise Code Documentation](https://dev.to/keploy/dignify-your-test-automation-with-concise-code-documentation-25m3)
+- [Dev.to/JS] [SOLID design principal](https://dev.to/adarshmaharjan/solid-2b33)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Trie](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-trie-1i3l)
 - [Dev.to/JS] [Telegraf JS: Library for creating telegram bot using Javascript](https://dev.to/hoomehrsanatkar/telegrafjs-library-for-creating-telegram-bot-with-javascript-ek6)
 - [Dev.to/JS] [WebSockets Unlocked: Mastering the Art of Real-Time Communication](https://dev.to/raunakgurud09/websockets-unlocked-mastering-the-art-of-real-time-communication-2lnj)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Single Page Applications with jQuery](https://dev.to/jstag/single-page-applications-with-jquery-1bfh)
 - [Dev.to/JS] [Use push method without push ! in react](https://dev.to/manojconcept/use-push-method-without-push-in-react-5feo)
 - [Dev.to/JS] [Next.js Server Actions and Mutations &lpar;Without APIs!&rpar;](https://dev.to/mohammedpoolwala/nextjs-server-actions-and-mutations-without-apis-4e7n)
-- [Dev.to/JS] [Demystifying Microservices: A Beginner&#39;s Guide](https://dev.to/aswanth6000/demystifying-microservices-a-beginners-guide-11kp)
-- [Dev.to/JS] [Select the direct children of an element](https://dev.to/phuocng/select-the-direct-children-of-an-element-3bcc)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
