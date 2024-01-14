@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Dev.to/JS] [VAR ... the Almighty Yet Obsolete](https://dev.to/caf_rf_1986/var-the-almighty-yet-obsolete-40me)
 - [Dev.to/JS] [useContext + useReducer vs Redux](https://dev.to/ayako_yk/usecontext-usereducer-vs-redux-5ee6)
 - [Dev.to/JS] [How to configure modules in a NestJS project](https://dev.to/adarsh04/how-to-configure-modules-in-a-nestjs-project-3m32)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Thin Salad Dressing with Water &lpar;and What to Use Instead&rpar;](https://lifehacker.com/food-drink/how-to-thin-salad-dressing)
 - [Lifehacker] [The ASUS Rog Ally Is $200 Off Right Now](https://lifehacker.com/entertainment/asus-rog-ally-sale-at-best-buy)
 - [Lifehacker] [How to Delete Your X &lpar;Formerly Twitter&rpar; Account](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)
-- [Lifehacker] [The Best Shows to Watch With Kids to Boost Their Creativity](https://lifehacker.com/entertainment/best-shows-boost-kids-creativity)
-- [Lifehacker] [You Can Get This Apple TV Remote on Sale for $27 Right Now](https://lifehacker.com/tech/apple-tv-remote-sale)
-- [Lifehacker] [Avoid These Phrases When Supporting a Friend &lpar;and What You Should Do Instead&rpar;](https://lifehacker.com/health/supportive-cliches-you-should-avoid-when-supporting-a-friend)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Shows to Watch With Kids to Boost Their Creativity](https://lifehacker.com/entertainment/best-shows-boost-kids-creativity)<!-- TECH-POSTS:END -->
 
 ---
 
