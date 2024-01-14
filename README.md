@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VAR ... the Almighty Yet Obsolete](https://dev.to/caf_rf_1986/var-the-almighty-yet-obsolete-40me)
 - [Dev.to/JS] [useContext + useReducer vs Redux](https://dev.to/ayako_yk/usecontext-usereducer-vs-redux-5ee6)
 - [Dev.to/JS] [How to configure modules in a NestJS project](https://dev.to/adarsh04/how-to-configure-modules-in-a-nestjs-project-3m32)
 - [Dev.to/JS] [SupabaseJS and select join with count](https://dev.to/ozaytsev86/supabasejs-and-select-join-with-count-3i9k)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
 - [Dev.to/JS] [Understanding JavaScript Maps](https://dev.to/_staticvoid/understanding-javascript-maps-1cin)
 - [Dev.to/JS] [Why we cant use await inside forEach? and its workaround.](https://dev.to/husnain/why-we-cant-use-await-inside-foreach-and-its-workaround-417i)
-- [Dev.to/JS] [A Tiny Peep into CSS Houdini](https://dev.to/braide/a-tiny-peep-into-css-houdini-3o7b)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $35 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Everyone Who Needs the RSV Vaccine &lpar;and Where to Get It&rpar;](https://lifehacker.com/health/where-to-get-rsv-vaccine)
