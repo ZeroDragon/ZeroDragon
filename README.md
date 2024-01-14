@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Draw Together: Building a Multiplayer Sketch Game with Daphne, NextJS &amp; OpenAI!](https://dev.to/circumeo/draw-together-building-a-multiplayer-sketch-game-with-daphne-nextjs-openai-1eg8)
+- [Dev.to/JS] [Yet Another Newsletter LOL: Hello 2024!](https://dev.to/nickytonline/yet-another-newsletter-lol-hello-2024-3pj6)
+- [Dev.to/JS] [Understanding the &quot;Element&quot; React Component: A Flexible Approach to Conditional Rendering](https://dev.to/serifcolakel/understanding-the-element-react-component-a-flexible-approach-to-conditional-rendering-5gdm)
 - [Dev.to/JS] [Dignify Your Test Automation with Concise Code Documentation](https://dev.to/keploy/dignify-your-test-automation-with-concise-code-documentation-25m3)
 - [Dev.to/JS] [SOLID design principal](https://dev.to/adarshmaharjan/solid-2b33)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Trie](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-trie-1i3l)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crafting A Image-Centric Web App: A Guide to Clay Theme on Gatsby 5+](https://dev.to/travisl/crafting-a-image-centric-web-app-a-guide-to-clay-theme-on-gatsby-5-ep5)
 - [Dev.to/JS] [&quot;Embarking on a New Coding Chapter: Journeying with HTML, CSS, JavaScript, Python, and PHP 🚀&quot;](https://dev.to/fomal7070/embarking-on-a-new-coding-chapter-journeying-with-html-css-javascript-python-and-php--5bh3)
 - [Dev.to/JS] [Based on Vue, I have developed an AI Body Fat Percentage Calculation tool.](https://dev.to/lesliele/based-on-vue-i-have-developed-an-ai-body-fat-percentage-calculation-tool-51fa)
-- [Dev.to/JS] [Single Page Applications with jQuery](https://dev.to/jstag/single-page-applications-with-jquery-1bfh)
-- [Dev.to/JS] [Use push method without push ! in react](https://dev.to/manojconcept/use-push-method-without-push-in-react-5feo)
-- [Dev.to/JS] [Next.js Server Actions and Mutations &lpar;Without APIs!&rpar;](https://dev.to/mohammedpoolwala/nextjs-server-actions-and-mutations-without-apis-4e7n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
