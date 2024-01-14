@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fixing TypeScript Dates](https://dev.to/pffigueiredo/fixing-typescript-dates-3fjf)
+- [Dev.to/JS] [Dependencies in the JavaScript ecosystem](https://dev.to/zied_ghalleb/dependencies-in-the-javascript-ecosystem-52kp)
 - [Dev.to/JS] [View this solution on Exercism - String manipulation](https://dev.to/joaoalisonti/view-this-solution-on-exercism-string-manipulation-44k5)
 - [Dev.to/JS] [Hello world 🌎](https://dev.to/dezanewoods9572/hello-world-4d4l)
 - [Dev.to/JS] [Exploring Matka 420: Strategies and Insights](https://dev.to/baa/exploring-matka-420-strategies-and-insights-3bm8)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Streams and React Server Components](https://dev.to/aslemammad/streams-and-react-server-components-3fak)
 - [Dev.to/JS] [Draw Together: Building a Multiplayer Sketch Game with Daphne, NextJS &amp; OpenAI!](https://dev.to/circumeo/draw-together-building-a-multiplayer-sketch-game-with-daphne-nextjs-openai-1eg8)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Hello 2024!](https://dev.to/nickytonline/yet-another-newsletter-lol-hello-2024-3pj6)
-- [Dev.to/JS] [Understanding the &quot;Element&quot; React Component: A Flexible Approach to Conditional Rendering](https://dev.to/serifcolakel/understanding-the-element-react-component-a-flexible-approach-to-conditional-rendering-5gdm)
-- [Dev.to/JS] [Dignify Your Test Automation with Concise Code Documentation](https://dev.to/keploy/dignify-your-test-automation-with-concise-code-documentation-25m3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
