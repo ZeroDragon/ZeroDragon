@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [리액트에서 props가 수정되면 컴포넌트가 리랜더링 될까? 과연?](https://dev.to/wes5510/riaegteueseo-propsga-sujeongdoemyeon-keomponeonteuga-riraendeoring-doelgga-gwayeon-3ce0)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Dev.to/JS] [VAR ... the Almighty Yet Obsolete](https://dev.to/caf_rf_1986/var-the-almighty-yet-obsolete-40me)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I trained a Web Component GPT, but it is not perfect](https://dev.to/dannyengelman/i-trained-a-web-component-gpt-but-it-is-not-perfect-2i5f)
 - [Dev.to/JS] [Understanding Async Iterators in JavaScript](https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog)
 - [Dev.to/JS] [Understanding JavaScript Maps](https://dev.to/_staticvoid/understanding-javascript-maps-1cin)
-- [Dev.to/JS] [Why we cant use await inside forEach? and its workaround.](https://dev.to/husnain/why-we-cant-use-await-inside-foreach-and-its-workaround-417i)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $35 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Everyone Who Needs the RSV Vaccine &lpar;and Where to Get It&rpar;](https://lifehacker.com/health/where-to-get-rsv-vaccine)
