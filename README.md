@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Single Page Applications with jQuery](https://dev.to/jstag/single-page-applications-with-jquery-1bfh)
+- [Dev.to/JS] [Use push method without push ! in react](https://dev.to/manojconcept/use-push-method-without-push-in-react-5feo)
+- [Dev.to/JS] [Next.js Server Actions and Mutations &lpar;Without APIs!&rpar;](https://dev.to/mohammedpoolwala/nextjs-server-actions-and-mutations-without-apis-4e7n)
 - [Dev.to/JS] [Demystifying Microservices: A Beginner&#39;s Guide](https://dev.to/aswanth6000/demystifying-microservices-a-beginners-guide-11kp)
 - [Dev.to/JS] [Select the direct children of an element](https://dev.to/phuocng/select-the-direct-children-of-an-element-3bcc)
 - [Dev.to/JS] [The 7 Days 7 Projects Challenge 👨‍💻](https://dev.to/arjuncodess/the-7-days-7-projects-challenge-bn4)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Dev.to/JS] [VAR ... the Almighty Yet Obsolete](https://dev.to/caf_rf_1986/var-the-almighty-yet-obsolete-40me)
 - [Dev.to/JS] [useContext + useReducer vs Redux](https://dev.to/ayako_yk/usecontext-usereducer-vs-redux-5ee6)
-- [Dev.to/JS] [How to configure modules in a NestJS project](https://dev.to/adarsh04/how-to-configure-modules-in-a-nestjs-project-3m32)
-- [Dev.to/JS] [SupabaseJS and select join with count](https://dev.to/ozaytsev86/supabasejs-and-select-join-with-count-3i9k)
-- [Dev.to/JS] [10 YouTube Channels for Software Developer](https://dev.to/durgesh4993/10-youtube-channels-software-developer-should-follow-18p2)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $35 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Everyone Who Needs the RSV Vaccine &lpar;and Where to Get It&rpar;](https://lifehacker.com/health/where-to-get-rsv-vaccine)
