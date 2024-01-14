@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useContext + useReducer vs Redux](https://dev.to/ayako_yk/usecontext-usereducer-vs-redux-5ee6)
+- [Dev.to/JS] [How to configure modules in a NestJS project](https://dev.to/adarsh04/how-to-configure-modules-in-a-nestjs-project-3m32)
+- [Dev.to/JS] [SupabaseJS and select join with count](https://dev.to/ozaytsev86/supabasejs-and-select-join-with-count-3i9k)
+- [Dev.to/JS] [10 YouTube Channels for Software Developer](https://dev.to/durgesh4993/10-youtube-channels-software-developer-should-follow-18p2)
 - [Dev.to/JS] [My 2024 Web App Tech Stack](https://dev.to/brettfishy/my-2024-web-app-tech-stack-17h0)
 - [Dev.to/JS] [Create signals in React with 5 lines of code !](https://dev.to/mayankhttps/create-signals-in-react-with-5-lines-of-code--5b68)
 - [Dev.to/JS] [Build OTP Input Field in React — No Package Needed](https://dev.to/stephengade/build-otp-input-field-in-react-no-package-needed-4n65)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding JavaScript Maps](https://dev.to/_staticvoid/understanding-javascript-maps-1cin)
 - [Dev.to/JS] [Why we cant use await inside forEach? and its workaround.](https://dev.to/husnain/why-we-cant-use-await-inside-foreach-and-its-workaround-417i)
 - [Dev.to/JS] [A Tiny Peep into CSS Houdini](https://dev.to/braide/a-tiny-peep-into-css-houdini-3o7b)
-- [Dev.to/JS] [Using Material&#39;s colors in javascript](https://dev.to/jansellopez/using-materials-colors-in-javascript-hgk)
-- [Dev.to/JS] [Get random color by a name or any string](https://dev.to/jansellopez/get-random-color-by-a-name-or-any-string-1io8)
-- [Dev.to/JS] [Performance Testing Guide to Ensure Your Software Performs at Its Best](https://dev.to/keploy/performance-testing-guide-to-ensure-your-software-performs-at-its-best-80j)
-- [Dev.to/JS] [Top 5 Best Frontend Projects in 2024](https://dev.to/hriztam/top-5-best-frontend-projects-in-2024-3a70)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $35 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Everyone Who Needs the RSV Vaccine &lpar;and Where to Get It&rpar;](https://lifehacker.com/health/where-to-get-rsv-vaccine)
