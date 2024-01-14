@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Throw away your code](https://dev.to/mattg0/throw-away-your-code-26k5)
+- [Dev.to/JS] [Enhancing Web Design with CSS Web Fonts](https://dev.to/elaoqby/enhancing-web-design-with-css-web-fonts-2la1)
 - [Dev.to/JS] [Introduction to Aggregation Pipeline in MongoDB &lpar;Part 1&rpar;](https://dev.to/ganeshyadav3142/introduction-to-aggregation-pipeline-in-mongodb-part-1-2cfo)
 - [Dev.to/JS] [Streams and React Server Components](https://dev.to/aslemammad/streams-and-react-server-components-3fak)
 - [Dev.to/JS] [Draw Together: Building a Multiplayer Sketch Game with Daphne, NextJS &amp; OpenAI!](https://dev.to/circumeo/draw-together-building-a-multiplayer-sketch-game-with-daphne-nextjs-openai-1eg8)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Trie](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-trie-1i3l)
 - [Dev.to/JS] [Telegraf JS: Library for creating telegram bot using Javascript](https://dev.to/hoomehrsanatkar/telegrafjs-library-for-creating-telegram-bot-with-javascript-ek6)
 - [Dev.to/JS] [WebSockets Unlocked: Mastering the Art of Real-Time Communication](https://dev.to/raunakgurud09/websockets-unlocked-mastering-the-art-of-real-time-communication-2lnj)
-- [Dev.to/JS] [How to Solve Problems in Programming like a PRO🦾](https://dev.to/codewithshahan/how-to-solve-problems-in-programming-beginners-guide-420d)
-- [Dev.to/JS] [Crafting A Image-Centric Web App: A Guide to Clay Theme on Gatsby 5+](https://dev.to/travisl/crafting-a-image-centric-web-app-a-guide-to-clay-theme-on-gatsby-5-ep5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
