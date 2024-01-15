@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A frontend for your node.js installs](https://dev.to/opensourcee/a-frontend-for-your-nodejs-installs-1nml)
+- [Dev.to/JS] [New Year, New Dev, New Me: My #DEVResolutions2024](https://dev.to/kreamtea/new-year-new-dev-new-me-my-devresolutions2024-4757)
+- [Dev.to/JS] [revoicer oto](https://dev.to/rankkmarket/revoicer-oto-4e1j)
+- [Dev.to/JS] [How to Tell the Computer to Make PB&amp;J Sandwiches](https://dev.to/theoriginalbpc/how-to-tell-the-computer-to-make-pbj-sandwiches-3ce8)
 - [Dev.to/JS] [BetterDocs](https://dev.to/wsovn112/betterdocs-4h13)
 - [Dev.to/JS] [time-speak: A Node.JS Library For Parsing Dates and Durations 🚀🕒](https://dev.to/f3rno64/time-speak-a-nodejs-library-for-parsing-dates-and-durations-16dm)
 - [Dev.to/JS] [Don’t mutate state in React.js — References vs Values](https://dev.to/ltvengineering/dont-mutate-state-in-reactjs-references-vs-values-35cp)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Kod Editörleri](https://dev.to/haktan/javascript-kod-editorleri-1h8j)
 - [Dev.to/JS] [Rethinking State Management - Why XState is a Game-Changer for Developers](https://dev.to/eransakal/rethinking-state-management-why-xstate-is-a-game-changer-for-developers-3pkj)
 - [Dev.to/JS] [Javascript Nedir?](https://dev.to/haktan/javascript-nedir-4oim)
-- [Dev.to/JS] [Adding workflows to an Astro app with Inngest](https://dev.to/sylwiavargas/adding-workflows-to-an-astro-app-with-inngest-4577)
-- [Dev.to/JS] [A Deep Dive Into Functional Programming &lpar;Part 1&rpar;](https://dev.to/success_obasi/a-deep-dive-into-functional-programming-part-1-235k)
-- [Dev.to/JS] [Photino.Net.API](https://dev.to/artydev/photinonetapi-34a0)
-- [Dev.to/JS] [Journey into Javascript: My First-time Speaking Experience at a Tech Meetup](https://dev.to/rachaele/journey-into-javascript-my-first-time-speaking-experience-at-a-tech-meetup-4mhe)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
