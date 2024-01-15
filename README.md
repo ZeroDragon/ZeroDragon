@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 24/02: ng Files in Analog, Q&amp;A with Mark &amp; Jeremy](https://dev.to/this-is-angular/episode-2402-ng-files-in-analog-qa-with-mark-jeremy-468g)
+- [Dev.to/JS] [Master JavaScript:](https://dev.to/dev_abdulhaseeb/master-javascript-1p7a)
+- [Dev.to/JS] [$1000 Cash App Gift Card Giveaway.](https://dev.to/julyolivia45623/1000-cash-app-gift-card-giveaway-285f)
 - [Dev.to/JS] [Automating Power BI Report Management With PowerShell](https://dev.to/technologycue/automating-power-bi-report-management-with-powershell-3km2)
 - [Dev.to/JS] [Are You Free ......](https://dev.to/betsyhaney25/are-you-free--3k75)
 - [Dev.to/JS] [Adding a github readme to website](https://dev.to/tigawanna/adding-a-github-readme-to-website-5gef)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Dev.to/JS] [How to create an accessible tooltip using React](https://dev.to/micaavigliano/how-to-create-an-accessible-tooltip-using-react-2cck)
-- [Dev.to/JS] [A Quick Tool to Check the Responsiveness of a Webpage Design](https://dev.to/linuxguist/a-quick-tool-to-check-the-responsiveness-of-a-webpage-design-2mai)
-- [Dev.to/JS] [DOM to JSON and back](https://dev.to/craft-code/dom-to-json-and-back-3mgc)
-- [Dev.to/JS] [Leveraging Next.js Dynamic Imports to Solve Hydration Problems](https://dev.to/kawanedres/leveraging-nextjs-dynamic-imports-to-solve-hydration-problems-5086)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
