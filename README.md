@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Browser&#39;daki Console İle Çalışmak](https://dev.to/haktan/browserdaki-console-ile-calismak-3lpn)
+- [Dev.to/JS] [Javascript Kod Editörleri](https://dev.to/haktan/javascript-kod-editorleri-1h8j)
 - [Dev.to/JS] [Rethinking State Management - Why XState is a Game-Changer for Developers](https://dev.to/eransakal/rethinking-state-management-why-xstate-is-a-game-changer-for-developers-3pkj)
 - [Dev.to/JS] [Javascript Nedir?](https://dev.to/haktan/javascript-nedir-4oim)
 - [Dev.to/JS] [Adding workflows to an Astro app with Inngest](https://dev.to/sylwiavargas/adding-workflows-to-an-astro-app-with-inngest-4577)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AI Intelligence: Transforming the Landscape of Technology—When It Is Dangerous](https://dev.to/ukazer21/ai-intelligence-transforming-the-landscape-of-technology-when-it-is-dangerous-4jb7)
 - [Dev.to/JS] [500+ Vue.js Tailwind CSS UI Components - TailGrids Vue](https://dev.to/tailwindcss/vuejs-tailwind-css-ui-components-103i)
 - [Dev.to/JS] [TDD na prática - JavaScript/TypeScript](https://dev.to/vitorrios1001/tdd-na-pratica-javascripttypescript-4fpf)
-- [Dev.to/JS] [TW Elements - MDB GO and deploy. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-mdb-go-and-deploy-free-uiux-design-course-n2n)
-- [Dev.to/JS] [Unlocking Insights with Visual- Heatmap: A High-Performance JavaScript Module for Heatmap Visualisation](https://dev.to/nswamy14/unlocking-insights-with-visual-heatmap-a-high-performance-javascript-module-for-heatmap-visualisation-3f23)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
