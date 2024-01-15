@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automating Power BI Report Management With PowerShell](https://dev.to/technologycue/automating-power-bi-report-management-with-powershell-3km2)
+- [Dev.to/JS] [Are You Free ......](https://dev.to/betsyhaney25/are-you-free--3k75)
+- [Dev.to/JS] [Adding a github readme to website](https://dev.to/tigawanna/adding-a-github-readme-to-website-5gef)
+- [Dev.to/JS] [Creating a Restaurant Finder Application Using ReactJS and Amplication](https://dev.to/amplication/creating-a-restaurant-finder-application-using-reactjs-and-amplication-56o5)
+- [Dev.to/JS] [Elevating Your Dubai Experience through Audi A6 Rent in Dubai](https://dev.to/gamila/elevating-your-dubai-experience-through-audi-a6-rent-in-dubai-34o3)
 - [Dev.to/JS] [https://sites.google.com/view/puravive-fatloss/](https://dev.to/dsakhbgxa/httpssitesgooglecomviewpuravive-fatloss-4koi)
 - [Dev.to/JS] [Stuck in Fun Land and unable to program my game](https://dev.to/jacklehamster/stuck-in-fun-land-and-unable-to-program-my-game-5273)
 - [Dev.to/JS] [[JS] CommonJS vs. ES Modules: Synchronous and Asynchronous Module Loading](https://dev.to/yutakusuno/js-commonjs-vs-es-modules-synchronous-and-asynchronous-module-loading-58jf)
@@ -35,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Quick Tool to Check the Responsiveness of a Webpage Design](https://dev.to/linuxguist/a-quick-tool-to-check-the-responsiveness-of-a-webpage-design-2mai)
 - [Dev.to/JS] [DOM to JSON and back](https://dev.to/craft-code/dom-to-json-and-back-3mgc)
 - [Dev.to/JS] [Leveraging Next.js Dynamic Imports to Solve Hydration Problems](https://dev.to/kawanedres/leveraging-nextjs-dynamic-imports-to-solve-hydration-problems-5086)
-- [Dev.to/JS] [Building a REACT Library](https://dev.to/hussain101/building-a-react-library-3j4h)
-- [Dev.to/JS] [#1 React Query: Introducing, Pagination, Caching and Pre-Fetching](https://dev.to/kevin-uehara/1-react-query-introducing-pagination-caching-and-pre-fetching-21p8)
-- [Dev.to/JS] [Fixing TypeScript Dates](https://dev.to/pffigueiredo/fixing-typescript-dates-3fjf)
-- [Dev.to/JS] [Dependencies in the JavaScript ecosystem](https://dev.to/zied_ghalleb/dependencies-in-the-javascript-ecosystem-52kp)
-- [Dev.to/JS] [View this solution on Exercism - String manipulation](https://dev.to/joaoalisonti/view-this-solution-on-exercism-string-manipulation-44k5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
