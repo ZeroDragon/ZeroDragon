@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AI Intelligence: Transforming the Landscape of Technology—When It Is Dangerous](https://dev.to/ukazer21/ai-intelligence-transforming-the-landscape-of-technology-when-it-is-dangerous-4jb7)
+- [Dev.to/JS] [500+ Vue.js Tailwind CSS UI Components - TailGrids Vue](https://dev.to/tailwindcss/vuejs-tailwind-css-ui-components-103i)
+- [Dev.to/JS] [TDD na prática - JavaScript/TypeScript](https://dev.to/vitorrios1001/tdd-na-pratica-javascripttypescript-4fpf)
 - [Dev.to/JS] [TW Elements - MDB GO and deploy. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-mdb-go-and-deploy-free-uiux-design-course-n2n)
 - [Dev.to/JS] [Unlocking Insights with Visual- Heatmap: A High-Performance JavaScript Module for Heatmap Visualisation](https://dev.to/nswamy14/unlocking-insights-with-visual-heatmap-a-high-performance-javascript-module-for-heatmap-visualisation-3f23)
 - [Dev.to/JS] [Transform your images easily in Vue &amp; Nuxt with Cloudinary](https://dev.to/jacobandrewsky/transform-your-images-easily-in-vue-nuxt-with-cloudinary-3bee)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;React State Secrets: Unveiling the Power of Context and Redux&quot;](https://dev.to/codeparrot/react-state-secrets-unveiling-the-power-of-context-and-redux-1ebd)
 - [Dev.to/JS] [MicroFrontend- Scalable Frontend Architecture](https://dev.to/codeparrot/microfrontend-scalable-frontend-architecture-3l2h)
 - [Dev.to/JS] [Use Ref in React - the right way](https://dev.to/codeparrot/use-ref-in-react-the-right-way-58c9)
-- [Dev.to/JS] [Guideline for Front End Web Developer](https://dev.to/imrul099/guideline-for-front-end-web-developer-3787)
-- [Dev.to/JS] [Server-Side Rendering with Next.js](https://dev.to/codeparrot/server-side-rendering-with-nextjs-1nna)
-- [Dev.to/JS] [Dynamic Imports in JavaScript and React - Enhancing Performance and Efficiency](https://dev.to/codeparrot/dynamic-imports-in-javascript-and-react-enhancing-performance-and-efficiency-52e)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
