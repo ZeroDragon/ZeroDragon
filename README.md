@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding XSS: It&#39;s More Than Just a Script](https://dev.to/tinymce/understanding-xss-its-more-than-just-a-script-4clo)
+- [Dev.to/JS] [Things to know about Global Dependencies with Dev Containers](https://dev.to/adam_cyclones/things-to-know-about-global-dependencies-with-dev-containers-53hf)
 - [Dev.to/JS] [Kickstart Your Coding Journey: A Guide to Free Web Development Resources](https://dev.to/michaellarocca/kickstart-your-coding-journey-a-guide-to-free-web-development-resources-428b)
 - [Dev.to/JS] [Printing Perfection, A Developer’s Journey with React-to-Print](https://dev.to/buaiscia/printing-perfection-a-developers-journey-with-react-to-print-3eld)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; Part 1&lt;&gt; create-next-app](https://dev.to/ramunarasinga/nextjs-codebase-analysis-part-1-create-next-app-2i17)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [revoicer oto](https://dev.to/rankkmarket/revoicer-oto-4e1j)
 - [Dev.to/JS] [How to Tell the Computer to Make PB&amp;J Sandwiches](https://dev.to/theoriginalbpc/how-to-tell-the-computer-to-make-pbj-sandwiches-3ce8)
 - [Dev.to/JS] [BetterDocs](https://dev.to/wsovn112/betterdocs-4h13)
-- [Dev.to/JS] [time-speak: A Node.JS Library For Parsing Dates and Durations 🚀🕒](https://dev.to/f3rno64/time-speak-a-nodejs-library-for-parsing-dates-and-durations-16dm)
-- [Dev.to/JS] [Don’t mutate state in React.js — References vs Values](https://dev.to/ltvengineering/dont-mutate-state-in-reactjs-references-vs-values-35cp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
