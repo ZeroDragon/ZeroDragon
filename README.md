@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rethinking State Management - Why XState is a Game-Changer for Developers](https://dev.to/eransakal/rethinking-state-management-why-xstate-is-a-game-changer-for-developers-3pkj)
+- [Dev.to/JS] [Javascript Nedir?](https://dev.to/haktan/javascript-nedir-4oim)
+- [Dev.to/JS] [Adding workflows to an Astro app with Inngest](https://dev.to/sylwiavargas/adding-workflows-to-an-astro-app-with-inngest-4577)
+- [Dev.to/JS] [A Deep Dive Into Functional Programming &lpar;Part 1&rpar;](https://dev.to/success_obasi/a-deep-dive-into-functional-programming-part-1-235k)
 - [Dev.to/JS] [Photino.Net.API](https://dev.to/artydev/photinonetapi-34a0)
 - [Dev.to/JS] [Journey into Javascript: My First-time Speaking Experience at a Tech Meetup](https://dev.to/rachaele/journey-into-javascript-my-first-time-speaking-experience-at-a-tech-meetup-4mhe)
 - [Dev.to/JS] [5 React trends to get ahead of in 2024](https://dev.to/ably/5-react-trends-to-get-ahead-of-in-2024-4ceo)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TDD na prática - JavaScript/TypeScript](https://dev.to/vitorrios1001/tdd-na-pratica-javascripttypescript-4fpf)
 - [Dev.to/JS] [TW Elements - MDB GO and deploy. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-mdb-go-and-deploy-free-uiux-design-course-n2n)
 - [Dev.to/JS] [Unlocking Insights with Visual- Heatmap: A High-Performance JavaScript Module for Heatmap Visualisation](https://dev.to/nswamy14/unlocking-insights-with-visual-heatmap-a-high-performance-javascript-module-for-heatmap-visualisation-3f23)
-- [Dev.to/JS] [Transform your images easily in Vue &amp; Nuxt with Cloudinary](https://dev.to/jacobandrewsky/transform-your-images-easily-in-vue-nuxt-with-cloudinary-3bee)
-- [Dev.to/JS] [Top 5 React Interview Questions](https://dev.to/codeparrot/top-5-react-interview-questions-3kdi)
-- [Dev.to/JS] [Let&#39;s Cook &lpar;Recipe Web App&rpar;](https://dev.to/sanketbodake/lets-cook-recipe-web-app-1h0e)
-- [Dev.to/JS] [Introduction to html tags](https://dev.to/codeparrot/introduction-to-html-tags-2adj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
