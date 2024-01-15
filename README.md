@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Journey into Javascript: My First-time Speaking Experience at a Tech Meetup](https://dev.to/rachaele/journey-into-javascript-my-first-time-speaking-experience-at-a-tech-meetup-4mhe)
+- [Dev.to/JS] [5 React trends to get ahead of in 2024](https://dev.to/ably/5-react-trends-to-get-ahead-of-in-2024-4ceo)
 - [Dev.to/JS] [AI Intelligence: Transforming the Landscape of Technology—When It Is Dangerous](https://dev.to/ukazer21/ai-intelligence-transforming-the-landscape-of-technology-when-it-is-dangerous-4jb7)
 - [Dev.to/JS] [500+ Vue.js Tailwind CSS UI Components - TailGrids Vue](https://dev.to/tailwindcss/vuejs-tailwind-css-ui-components-103i)
 - [Dev.to/JS] [TDD na prática - JavaScript/TypeScript](https://dev.to/vitorrios1001/tdd-na-pratica-javascripttypescript-4fpf)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s Cook &lpar;Recipe Web App&rpar;](https://dev.to/sanketbodake/lets-cook-recipe-web-app-1h0e)
 - [Dev.to/JS] [Introduction to html tags](https://dev.to/codeparrot/introduction-to-html-tags-2adj)
 - [Dev.to/JS] [&quot;React State Secrets: Unveiling the Power of Context and Redux&quot;](https://dev.to/codeparrot/react-state-secrets-unveiling-the-power-of-context-and-redux-1ebd)
-- [Dev.to/JS] [MicroFrontend- Scalable Frontend Architecture](https://dev.to/codeparrot/microfrontend-scalable-frontend-architecture-3l2h)
-- [Dev.to/JS] [Use Ref in React - the right way](https://dev.to/codeparrot/use-ref-in-react-the-right-way-58c9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
