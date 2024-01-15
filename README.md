@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Jamstack in 2024?](https://dev.to/remotesynth/what-is-jamstack-in-2024-3kc6)
+- [Dev.to/JS] [Exploring Bun: A High-Performance JavaScript Toolkit](https://dev.to/ricardogesteves/exploring-bun-a-high-performance-javascript-toolkit-4k13)
 - [Dev.to/JS] [A frontend for your node.js installs](https://dev.to/opensourcee/a-frontend-for-your-nodejs-installs-1nml)
 - [Dev.to/JS] [New Year, New Dev, New Me: My #DEVResolutions2024](https://dev.to/kreamtea/new-year-new-dev-new-me-my-devresolutions2024-4757)
 - [Dev.to/JS] [revoicer oto](https://dev.to/rankkmarket/revoicer-oto-4e1j)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unveiling the Power of React.js: A Comprehensive Guide](https://dev.to/iankcode/unveiling-the-power-of-reactjs-a-comprehensive-guide-8ih)
 - [Dev.to/JS] [Browser&#39;daki Console İle Çalışmak](https://dev.to/haktan/browserdaki-console-ile-calismak-3lpn)
 - [Dev.to/JS] [Javascript Kod Editörleri](https://dev.to/haktan/javascript-kod-editorleri-1h8j)
-- [Dev.to/JS] [Rethinking State Management - Why XState is a Game-Changer for Developers](https://dev.to/eransakal/rethinking-state-management-why-xstate-is-a-game-changer-for-developers-3pkj)
-- [Dev.to/JS] [Javascript Nedir?](https://dev.to/haktan/javascript-nedir-4oim)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
