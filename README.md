@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Power of React.js: A Comprehensive Guide](https://dev.to/iankcode/unveiling-the-power-of-reactjs-a-comprehensive-guide-8ih)
 - [Dev.to/JS] [Browser&#39;daki Console İle Çalışmak](https://dev.to/haktan/browserdaki-console-ile-calismak-3lpn)
 - [Dev.to/JS] [Javascript Kod Editörleri](https://dev.to/haktan/javascript-kod-editorleri-1h8j)
 - [Dev.to/JS] [Rethinking State Management - Why XState is a Game-Changer for Developers](https://dev.to/eransakal/rethinking-state-management-why-xstate-is-a-game-changer-for-developers-3pkj)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 React trends to get ahead of in 2024](https://dev.to/ably/5-react-trends-to-get-ahead-of-in-2024-4ceo)
 - [Dev.to/JS] [AI Intelligence: Transforming the Landscape of Technology—When It Is Dangerous](https://dev.to/ukazer21/ai-intelligence-transforming-the-landscape-of-technology-when-it-is-dangerous-4jb7)
 - [Dev.to/JS] [500+ Vue.js Tailwind CSS UI Components - TailGrids Vue](https://dev.to/tailwindcss/vuejs-tailwind-css-ui-components-103i)
-- [Dev.to/JS] [TDD na prática - JavaScript/TypeScript](https://dev.to/vitorrios1001/tdd-na-pratica-javascripttypescript-4fpf)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
