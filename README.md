@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stuck in Fun Land and unable to program my game](https://dev.to/jacklehamster/stuck-in-fun-land-and-unable-to-program-my-game-5273)
 - [Dev.to/JS] [[JS] CommonJS vs. ES Modules: Synchronous and Asynchronous Module Loading](https://dev.to/yutakusuno/js-commonjs-vs-es-modules-synchronous-and-asynchronous-module-loading-58jf)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dependencies in the JavaScript ecosystem](https://dev.to/zied_ghalleb/dependencies-in-the-javascript-ecosystem-52kp)
 - [Dev.to/JS] [View this solution on Exercism - String manipulation](https://dev.to/joaoalisonti/view-this-solution-on-exercism-string-manipulation-44k5)
 - [Dev.to/JS] [Hello world 🌎](https://dev.to/dezanewoods9572/hello-world-4d4l)
-- [Dev.to/JS] [Exploring Matka 420: Strategies and Insights](https://dev.to/baa/exploring-matka-420-strategies-and-insights-3bm8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
