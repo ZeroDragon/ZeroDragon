@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create an accessible tooltip using React](https://dev.to/micaavigliano/how-to-create-an-accessible-tooltip-using-react-2cck)
 - [Dev.to/JS] [A Quick Tool to Check the Responsiveness of a Webpage Design](https://dev.to/linuxguist/a-quick-tool-to-check-the-responsiveness-of-a-webpage-design-2mai)
 - [Dev.to/JS] [DOM to JSON and back](https://dev.to/craft-code/dom-to-json-and-back-3mgc)
 - [Dev.to/JS] [Leveraging Next.js Dynamic Imports to Solve Hydration Problems](https://dev.to/kawanedres/leveraging-nextjs-dynamic-imports-to-solve-hydration-problems-5086)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello world 🌎](https://dev.to/dezanewoods9572/hello-world-4d4l)
 - [Dev.to/JS] [Exploring Matka 420: Strategies and Insights](https://dev.to/baa/exploring-matka-420-strategies-and-insights-3bm8)
 - [Dev.to/JS] [IPTV Fundamentals &amp; In-Depth Exploration of the Revolutionary Television](https://dev.to/baa/iptv-fundamentals-in-depth-exploration-of-the-revolutionary-television-d9d)
-- [Dev.to/JS] [Throw away your code](https://dev.to/mattg0/throw-away-your-code-26k5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
 - [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
