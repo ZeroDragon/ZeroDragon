@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BetterDocs](https://dev.to/wsovn112/betterdocs-4h13)
 - [Dev.to/JS] [time-speak: A Node.JS Library For Parsing Dates and Durations 🚀🕒](https://dev.to/f3rno64/time-speak-a-nodejs-library-for-parsing-dates-and-durations-16dm)
 - [Dev.to/JS] [Don’t mutate state in React.js — References vs Values](https://dev.to/ltvengineering/dont-mutate-state-in-reactjs-references-vs-values-35cp)
 - [Dev.to/JS] [Unveiling the Power of React.js: A Comprehensive Guide](https://dev.to/iankcode/unveiling-the-power-of-reactjs-a-comprehensive-guide-8ih)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Deep Dive Into Functional Programming &lpar;Part 1&rpar;](https://dev.to/success_obasi/a-deep-dive-into-functional-programming-part-1-235k)
 - [Dev.to/JS] [Photino.Net.API](https://dev.to/artydev/photinonetapi-34a0)
 - [Dev.to/JS] [Journey into Javascript: My First-time Speaking Experience at a Tech Meetup](https://dev.to/rachaele/journey-into-javascript-my-first-time-speaking-experience-at-a-tech-meetup-4mhe)
-- [Dev.to/JS] [5 React trends to get ahead of in 2024](https://dev.to/ably/5-react-trends-to-get-ahead-of-in-2024-4ceo)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
