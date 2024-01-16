@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Benefits of Wellness Peak CBD Gummies: A Comprehensive Review](https://dev.to/wellnesspeakcbdget/unveiling-the-benefits-of-wellness-peak-cbd-gummies-a-comprehensive-review-40o6)
+- [Dev.to/JS] [10 Benefits of Playing Ludo Board Game](https://dev.to/michaljordan/10-benefits-of-playing-ludo-board-game-1e4j)
+- [Dev.to/JS] [What is Vercel&#39;s AI tool, V0.dev and how do you use it?](https://dev.to/opensauced/what-is-vercels-ai-tool-v0dev-and-how-do-you-use-it-3nge)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-16-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
 - [Dev.to/JS] [Free JavaScript Resources available for your interview preparation on GitHub](https://dev.to/aajinkya/free-javascript-resources-available-for-your-interview-preparation-51h9)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; Part 1&lt;&gt; create-next-app](https://dev.to/ramunarasinga/nextjs-codebase-analysis-part-1-create-next-app-2i17)
 - [Dev.to/JS] [What is Jamstack in 2024?](https://dev.to/remotesynth/what-is-jamstack-in-2024-3kc6)
 - [Dev.to/JS] [Exploring Bun: A High-Performance JavaScript Toolkit](https://dev.to/ricardogesteves/exploring-bun-a-high-performance-javascript-toolkit-4k13)
-- [Dev.to/JS] [A frontend for your node.js installs](https://dev.to/opensourcee/a-frontend-for-your-nodejs-installs-1nml)
-- [Dev.to/JS] [New Year, New Dev, New Me: My #DEVResolutions2024](https://dev.to/kreamtea/new-year-new-dev-new-me-my-devresolutions2024-4757)
-- [Dev.to/JS] [revoicer oto](https://dev.to/rankkmarket/revoicer-oto-4e1j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
