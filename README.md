@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alfred - SaaS multipage theme. Built with Astro,Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/alfred-saas-multipage-theme-built-with-astrotailwind-css-mdx-4haf)
 - [Dev.to/JS] [Cash App Giveaway $750](https://dev.to/cashappgiveaway/cash-app-giveaway-750-a8h)
 - [Dev.to/JS] [4 Methods to Send Emails Using Node.js &lpar;w/ Codes - Nodemailer Module, Gmail API, Postmark API &amp; SuprSend&rpar;](https://dev.to/suprsend/4-methods-to-send-emails-using-nodejs-w-codes-nodemailer-module-gmail-api-postmark-api-suprsend-4d5j)
 - [Dev.to/JS] [assertTrue&lpar;&rpar; in Java: A Complete Tutorial](https://dev.to/lambdatest/asserttrue-in-java-a-complete-tutorial-4m1m)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Autonomous Mobile Robots for Logistics and Warehousing Market: Global Industry Share, Growth, Trends And Forecast 2022 to 2032](https://dev.to/prishak/autonomous-mobile-robots-for-logistics-and-warehousing-market-global-industry-share-growth-trends-and-forecast-2022-to-2032-1d4j)
 - [Dev.to/JS] [How to create a Stopwatch in React ⏱️?](https://dev.to/nonish/create-a-stopwatch-in-react--651)
 - [Dev.to/JS] [Unveiling the Benefits of Wellness Peak CBD Gummies: A Comprehensive Review](https://dev.to/wellnesspeakcbdget/unveiling-the-benefits-of-wellness-peak-cbd-gummies-a-comprehensive-review-40o6)
-- [Dev.to/JS] [10 Benefits of Playing Ludo Board Game](https://dev.to/michaljordan/10-benefits-of-playing-ludo-board-game-1e4j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-16-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
