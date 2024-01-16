@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Client Side Rendering and Its Dynamics](https://dev.to/iamsymbiote/client-side-rendering-and-its-dynamics-240b)
+- [Dev.to/JS] [Kivy execute error](https://dev.to/dineshm/kivy-execute-error-467)
+- [Dev.to/JS] [Blissrise CBD Gummies Reviews – Benefits/Ingredient &amp; Where to Order?](https://dev.to/blissrisecbdget/blissrise-cbd-gummies-reviews-benefitsingredient-where-to-order-2lj9)
 - [Dev.to/JS] [START MAKING MONEY 💰 AS A SOFTWARE DEVELOPER IN 2024! 🌐✨](https://dev.to/aayushsharma/start-making-money-as-a-software-developer-in-2024-154i)
 - [Dev.to/JS] [React Forms: Controlled and Uncontrolled Components.](https://dev.to/delaquash/react-forms-controlled-and-uncontrolled-components-3kcm)
 - [Dev.to/JS] [ALL TIME TOP RATED BRAND - BioFuel Keto Gummies - Best Weight Loss Programs Of 2024, According To Experts !](https://dev.to/matthermaund/all-time-top-rated-brand-biofuel-keto-gummies-best-weight-loss-programs-of-2024-according-to-experts--3e6o)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Decoding Developer Relations: A Comprehensive Guide to DevRel](https://dev.to/george_udonte/decoding-developer-relations-a-comprehensive-guide-to-devrel-4dfp)
 - [Dev.to/JS] [Guide to Creating an App Like YouTube with JavaScript and HTML](https://dev.to/rakeebmkhan/guide-to-creating-an-app-like-youtube-with-javascript-and-html-91e)
 - [Dev.to/JS] [Quokka Playground - Run JavaScript and TypeScript in VS Code](https://dev.to/franciscomoretti/quokka-playground-run-javascript-and-typescript-in-vs-code-2bbk)
-- [Dev.to/JS] [Cross-Site Request Forgery &lpar;CSRF&rpar; Attack!](https://dev.to/anilsingh/cross-site-request-forgery-csrf-attack-eon)
-- [Dev.to/JS] [Alfred - SaaS multipage theme. Built with Astro,Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/alfred-saas-multipage-theme-built-with-astrotailwind-css-mdx-4haf)
-- [Dev.to/JS] [Cash App Giveaway $750](https://dev.to/cashappgiveaway/cash-app-giveaway-750-a8h)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-16-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
