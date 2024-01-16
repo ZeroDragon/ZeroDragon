@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lidando com exceções: como fazer erros práticos e elegantes no Express js](https://dev.to/clintonrocha98/lidando-com-excecoes-como-fazer-erros-praticos-e-elegantes-no-express-js-4k5b)
 - [Dev.to/JS] [Understanding XSS: It&#39;s More Than Just a Script](https://dev.to/tinymce/understanding-xss-its-more-than-just-a-script-4clo)
 - [Dev.to/JS] [Things to know about Global Dependencies with Dev Containers](https://dev.to/adam_cyclones/things-to-know-about-global-dependencies-with-dev-containers-53hf)
 - [Dev.to/JS] [Kickstart Your Coding Journey: A Guide to Free Web Development Resources](https://dev.to/michaellarocca/kickstart-your-coding-journey-a-guide-to-free-web-development-resources-428b)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Year, New Dev, New Me: My #DEVResolutions2024](https://dev.to/kreamtea/new-year-new-dev-new-me-my-devresolutions2024-4757)
 - [Dev.to/JS] [revoicer oto](https://dev.to/rankkmarket/revoicer-oto-4e1j)
 - [Dev.to/JS] [How to Tell the Computer to Make PB&amp;J Sandwiches](https://dev.to/theoriginalbpc/how-to-tell-the-computer-to-make-pbj-sandwiches-3ce8)
-- [Dev.to/JS] [BetterDocs](https://dev.to/wsovn112/betterdocs-4h13)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
