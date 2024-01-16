@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
 - [Dev.to/JS] [Free JavaScript Resources available for your interview preparation on GitHub](https://dev.to/aajinkya/free-javascript-resources-available-for-your-interview-preparation-51h9)
 - [Dev.to/JS] [Lidando com exceções: como fazer erros práticos e elegantes no Express js](https://dev.to/clintonrocha98/lidando-com-excecoes-como-fazer-erros-praticos-e-elegantes-no-express-js-4k5b)
 - [Dev.to/JS] [Understanding XSS: It&#39;s More Than Just a Script](https://dev.to/tinymce/understanding-xss-its-more-than-just-a-script-4clo)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don’t Need a Smart Home Middleman](https://lifehacker.com/tech/why-you-dont-need-a-smart-tech-middleman)
 - [Lifehacker] [Your Finances Need a Monthly Reset](https://lifehacker.com/money/monthly-money-reset)
 - [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)
-- [Lifehacker] [Why You Shouldn&#39;t Thin Salad Dressing with Water &lpar;and What to Use Instead&rpar;](https://lifehacker.com/food-drink/how-to-thin-salad-dressing)
-- [Lifehacker] [The ASUS Rog Ally Is $200 Off Right Now](https://lifehacker.com/entertainment/asus-rog-ally-sale-at-best-buy)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn&#39;t Thin Salad Dressing with Water &lpar;and What to Use Instead&rpar;](https://lifehacker.com/food-drink/how-to-thin-salad-dressing)<!-- TECH-POSTS:END -->
 
 ---
 
