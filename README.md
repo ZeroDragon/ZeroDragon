@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s coming to ngx-deploy-npm V8](https://dev.to/dianjuar/whats-coming-to-ngx-deploy-npm-v8-23gn)
+- [Lifehacker] [You Can Get Free Airline Miles for a Long Wait at Baggage Claim](https://lifehacker.com/travel/earn-free-airline-miles-for-baggage-claim-wait)
+- [Lifehacker] [You Can Get Headway Premium on Sale for $60 Right Now](https://lifehacker.com/headway-premium-sale)
+- [Lifehacker] [The Best TV Podcasts to Add to Your Queue](https://lifehacker.com/entertainment/10-tv-podcasts-you-should-subscribe-to)
 - [Dev.to/JS] [From Greenfield to Minefield and back](https://dev.to/dadcod/from-greenfield-to-minefield-and-back-56ef)
 - [Lifehacker] [This Is the Secret to Making the Best Cinnamon Roll Filling](https://lifehacker.com/food-drink/best-cinnamon-roll-filling-recipe)
 - [Dev.to/JS] [Master Full-Stack](https://dev.to/dev_abdulhaseeb/master-full-stack-4115)
@@ -43,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript Might Not Be Your God: Case Study of Migration from TS to JSDoc](https://dev.to/what1s1ove/typescript-might-not-be-your-god-case-study-of-migration-from-ts-to-jsdoc-o99)
 - [Dev.to/JS] [BetterLinks](https://dev.to/wsovn112/betterlinks-haa)
 - [Lifehacker] [Use &#39;Flowtime&#39; as a Flexible Alternative to the Pomodoro Technique](https://lifehacker.com/work/flowtime-time-management-technique)
-- [Dev.to/JS] [Unlocking Test Data Efficiency in React](https://dev.to/kmhigashioka/unlocking-test-data-efficiency-in-react-422f)
 - [Lifehacker] [You Don&#39;t Need the Apple Watch Blood-Oxygen Feature, Anyway](https://lifehacker.com/tech/apple-watches-losing-blood-oxygen-feature)
 - [Lifehacker] [Why Smiley-Faced Potatoes Could Get Your Kids to Eat More Vegetables, According to Science](https://lifehacker.com/family/get-kids-to-eat-veggies-smiley-face-potatoes)
 - [Lifehacker] [The Roborock S8 Pro Ultra Robot Vacuum Is Expensive but Worth It](https://lifehacker.com/tech/roborock-s8-pro-ultra-review)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $35 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Everyone Who Needs the RSV Vaccine &lpar;and Where to Get It&rpar;](https://lifehacker.com/health/where-to-get-rsv-vaccine)
 - [Lifehacker] [Nine Countries You&#39;ll Need a Tourist Visa to Visit in 2024](https://lifehacker.com/travel/these-countries-require-a-tourist-visa-for-travel-from-the-united-states)
-- [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/nix-color-sensor-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
-- [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/nix-color-sensor-sale)<!-- TECH-POSTS:END -->
 
 ---
 
