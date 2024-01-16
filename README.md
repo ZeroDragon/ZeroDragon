@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implement Dynamic Programming in a cake shop &lpar;with code&rpar;](https://dev.to/rounit08/implement-dynamic-programming-in-a-cake-shop-with-code-50la)
+- [Dev.to/JS] [Why clean code makes JavaScript programming easier](https://dev.to/chazzie/why-clean-code-makes-javascript-programming-easier-25cp)
+- [Dev.to/JS] [5 Crazy Things To Get Your Developer Career Unstuck 🚀](https://dev.to/dragosnedelcu/5-crazy-things-to-get-your-developer-career-unstuck-8bp)
 - [Dev.to/JS] [Delving into the Black Magic of GraphQL DataLoader! 🌌✨](https://dev.to/bhleb/delving-into-the-black-magic-of-graphql-dataloader-pai)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step - Schedule tasks with EventBridge Scheduler](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-schedule-tasks-with-eventbridge-scheduler-4cbh)
 - [Dev.to/JS] [Vue.js3 Usage Survey](https://dev.to/josunlp/vuejs3-usage-survey-32e1)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A brief overview of the relay store and its updater functions](https://dev.to/flick/a-brief-overview-of-the-relay-store-and-its-updater-functions-2je5)
 - [Dev.to/JS] [An introduction to JavaScript Proxy](https://dev.to/phuocng/an-introduction-to-javascript-proxy-eon)
 - [Dev.to/JS] [Practical examples of using JavaScript Proxy](https://dev.to/phuocng/practical-examples-of-using-javascript-proxy-j56)
-- [Dev.to/JS] [Statistics Assignment Help](https://dev.to/pythonhelp/statistics-assignment-help-3k8d)
 - [Lifehacker] [All the Changes Parents Need to Know Before Filing Their Taxes This Year](https://lifehacker.com/money/changes-parents-need-to-know-tax-year-2023)
-- [Dev.to/JS] [Back-End JavaScript vs. Traditional Back-End Languages:](https://dev.to/aditya_raj_1010/back-end-javascript-vs-traditional-back-end-languages-an6)
-- [Dev.to/JS] [Next.js: The Ultimate React Framework?](https://dev.to/aditya_raj_1010/nextjs-the-ultimate-react-framework-58hg)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-16-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
