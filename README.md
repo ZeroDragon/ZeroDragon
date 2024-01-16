@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Delving into the Black Magic of GraphQL DataLoader! 🌌✨](https://dev.to/bhleb/delving-into-the-black-magic-of-graphql-dataloader-pai)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step - Schedule tasks with EventBridge Scheduler](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-schedule-tasks-with-eventbridge-scheduler-4cbh)
+- [Dev.to/JS] [Vue.js3 Usage Survey](https://dev.to/josunlp/vuejs3-usage-survey-32e1)
+- [Dev.to/JS] [Ultimate Guite to JSON Web Token&lpar;JWT&rpar; Authorization](https://dev.to/codezera/ultimate-guite-to-json-web-tokenjwt-authorization-1p3h)
+- [Lifehacker] [Eufy Dual Cams Are Worth Your Money](https://lifehacker.com/tech/eufy-dual-cam-review)
 - [Dev.to/JS] [How to Build a Low-Latency Video Streaming App with ScyllaDB &amp; NextJS](https://dev.to/attilatothdev/how-to-build-a-low-latency-video-streaming-app-with-scylladb-nextjs-5bgi)
-- [Dev.to/JS] [Win $10,000 Oferr](https://dev.to/rokonuzzaman2024/win-10000-oferr-3k8c)
+- [Dev.to/JS] [13 GitHub Repos to make your first contribution &lpar;JavaScript&rpar;:](https://dev.to/dev_abdulhaseeb/13-github-repos-to-make-your-first-contribution-javascript-37od)
 - [Lifehacker] [Here&#39;s How Much Solar Panels Will Cost You](https://lifehacker.com/money/how-much-solar-panels-cost)
 - [Dev.to/JS] [A brief overview of the relay store and its updater functions](https://dev.to/flick/a-brief-overview-of-the-relay-store-and-its-updater-functions-2je5)
 - [Dev.to/JS] [An introduction to JavaScript Proxy](https://dev.to/phuocng/an-introduction-to-javascript-proxy-eon)
@@ -36,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Changes Parents Need to Know Before Filing Their Taxes This Year](https://lifehacker.com/money/changes-parents-need-to-know-tax-year-2023)
 - [Dev.to/JS] [Back-End JavaScript vs. Traditional Back-End Languages:](https://dev.to/aditya_raj_1010/back-end-javascript-vs-traditional-back-end-languages-an6)
 - [Dev.to/JS] [Next.js: The Ultimate React Framework?](https://dev.to/aditya_raj_1010/nextjs-the-ultimate-react-framework-58hg)
-- [Dev.to/JS] [JavaScript Fatigue vs. Innovation](https://dev.to/aditya_raj_1010/javascript-fatigue-vs-innovation-52e4)
-- [Dev.to/JS] [The MERN stack is overrated](https://dev.to/aditya_raj_1010/the-mern-stack-is-overrated-3mc7)
-- [Dev.to/JS] [Dead or not dead 💀 - Exploring the term and why Meteor.js is super-alive! ☄️](https://dev.to/meteor/dead-or-not-dead-exploring-the-term-and-why-meteorjs-is-super-alive-4j2c)
-- [Dev.to/JS] [Node.js vs. Java-What to Choose in 2024?](https://dev.to/canadianagency/nodejs-vs-java-what-to-choose-in-2024-enm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-16-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Defeat &#39;Parkinson’s Law&#39; to Be More Productive](https://lifehacker.com/work/what-is-parkinsons-law)
 - [Lifehacker] [The Best Free VPNs of 2024](https://lifehacker.com/tech/the-best-free-vpns)
 - [Lifehacker] [These Are the Best Workout Headphones to Buy in 2024](https://lifehacker.com/tech/best-headphones-for-working-out)
-- [Lifehacker] [It&#39;s Time to Cold Stratify Your Seeds](https://lifehacker.com/home/how-to-cold-stratify-seeds-indoors)
-- [Lifehacker] [You Don’t Need a Smart Home Middleman](https://lifehacker.com/tech/why-you-dont-need-a-smart-tech-middleman)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It&#39;s Time to Cold Stratify Your Seeds](https://lifehacker.com/home/how-to-cold-stratify-seeds-indoors)<!-- TECH-POSTS:END -->
 
 ---
 
