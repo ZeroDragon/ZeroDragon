@@ -27,10 +27,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [From Greenfield to Minefield and back](https://dev.to/dadcod/from-greenfield-to-minefield-and-back-56ef)
+- [Lifehacker] [This Is the Secret to Making the Best Cinnamon Roll Filling](https://lifehacker.com/food-drink/best-cinnamon-roll-filling-recipe)
 - [Dev.to/JS] [Master Full-Stack](https://dev.to/dev_abdulhaseeb/master-full-stack-4115)
 - [Dev.to/JS] [Slot Hoki](https://dev.to/slothoki88v/slot-hoki-51k3)
 - [Dev.to/JS] [React, where are you going?](https://dev.to/matfrana/react-where-are-you-going-5284)
+- [Lifehacker] [Copilot With Microsoft 365 Is Finally Available to Everyone](https://lifehacker.com/tech/copilot-pro)
 - [Dev.to/JS] [State mutation-এর ভয় করতে হবে জয়... পার্ট - ১](https://dev.to/rasel9t6/state-mutation-er-bhyy-krte-hbe-jyy-paartt-1-4d9b)
+- [Lifehacker] [The Apple Watch Series 9 Is &lpar;Back&rpar; Down to Its Lowest Price Ever](https://lifehacker.com/tech/apple-watch-series-9-sale-1)
 - [Lifehacker] [Six Signs a Home Seller Is Hiding Something](https://lifehacker.com/money/signs-a-home-seller-is-hiding-something)
 - [Dev.to/JS] [Unleashing Advanced Array Concepts: A Comprehensive Exploration](https://dev.to/wahidmaster00/unleashing-advanced-array-concepts-a-comprehensive-exploration-1goi)
 - [Dev.to/JS] [AI for Web Devs: Your First API Request to OpenAI](https://dev.to/austingil/ai-for-web-devs-your-first-api-request-to-openai-5boe)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/nix-color-sensor-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-13-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Saturday, January 13, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-13-2024)
-- [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)
-- [Lifehacker] [The Best Bone Conduction Headphones to Buy in 2024](https://lifehacker.com/tech/best-bone-conduction-headphones-for-running-swimming)
-- [Lifehacker] [Treat Your Cold With a Big Batch of My Mom’s Thai Soup](https://lifehacker.com/food-drink/make-my-moms-thai-jok-rice-porridge-recipe)
-- [Lifehacker] [TikTok Myth of the Week: The Sit-to-Stand Test Tells You When You’re Going to Die](https://lifehacker.com/health/tiktok-myth-sit-stand-test-tells-when-youre-going-to-die)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get ESET NOD32 Antivirus on Sale for $25 Right Now](https://lifehacker.com/tech/eset-antivirus-sale)<!-- TECH-POSTS:END -->
 
 ---
 
