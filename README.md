@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [assertTrue&lpar;&rpar; in Java: A Complete Tutorial](https://dev.to/lambdatest/asserttrue-in-java-a-complete-tutorial-4m1m)
+- [Dev.to/JS] [Start IPVanish VPN App Install and register Octa app](https://dev.to/shopnill98/start-ipvanish-vpn-app-install-and-register-octa-app-24dp)
+- [Dev.to/JS] [Javascript Roadmap?](https://dev.to/codebuddylarin/javascript-roadmap-pcg)
 - [Dev.to/JS] [👨‍💻 Daily Code 40 | Rendering 🟥 HTML with 🟨 JS](https://dev.to/gregor_schafroth/daily-code-40-rendering-html-with-js-14b)
 - [Dev.to/JS] [👨‍💻 Daily Code 39 | Combining 🟦 CSS and 🟨 Javascript](https://dev.to/gregor_schafroth/daily-code-39-combining-css-and-javascript-246l)
 - [Dev.to/JS] [How does AI impact marketing decisions for products and services?](https://dev.to/yagnapandya9/how-does-ai-impact-marketing-decisions-for-products-and-services-4inl)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-16-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
 - [Dev.to/JS] [Free JavaScript Resources available for your interview preparation on GitHub](https://dev.to/aajinkya/free-javascript-resources-available-for-your-interview-preparation-51h9)
-- [Dev.to/JS] [Lidando com exceções: como fazer erros práticos e elegantes no Express js](https://dev.to/clintonrocha98/lidando-com-excecoes-como-fazer-erros-praticos-e-elegantes-no-express-js-4k5b)
-- [Dev.to/JS] [Understanding XSS: It&#39;s More Than Just a Script](https://dev.to/tinymce/understanding-xss-its-more-than-just-a-script-4clo)
-- [Dev.to/JS] [Things to know about Global Dependencies with Dev Containers](https://dev.to/adam_cyclones/things-to-know-about-global-dependencies-with-dev-containers-53hf)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
