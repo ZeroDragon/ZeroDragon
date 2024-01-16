@@ -26,14 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [HIRE A HACKER TO RECOVER LOST OR STOLEN CRYPTO/BITCOIN](https://dev.to/alejandra/hire-a-hacker-to-recover-lost-or-stolen-cryptobitcoin-272p)
+- [Dev.to/JS] [State mutation-এর ভয় করতে হবে জয়... পার্ট - ১](https://dev.to/rasel9t6/state-mutation-er-bhyy-krte-hbe-jyy-paartt-1-4d9b)
 - [Dev.to/JS] [Unleashing Advanced Array Concepts: A Comprehensive Exploration](https://dev.to/wahidmaster00/unleashing-advanced-array-concepts-a-comprehensive-exploration-1goi)
 - [Dev.to/JS] [AI for Web Devs: Your First API Request to OpenAI](https://dev.to/austingil/ai-for-web-devs-your-first-api-request-to-openai-5boe)
 - [Dev.to/JS] [chimp rewriter](https://dev.to/rankkmarket/chimp-rewriter-41dg)
 - [Dev.to/JS] [Mastering Next.js: Unleashing the Power of Modern Web Development](https://dev.to/hriztam/mastering-nextjs-unleashing-the-power-of-modern-web-development-p09)
 - [Dev.to/JS] [TypeScript Might Not Be Your God: Case Study of Migration from TS to JSDoc](https://dev.to/what1s1ove/typescript-might-not-be-your-god-case-study-of-migration-from-ts-to-jsdoc-o99)
 - [Dev.to/JS] [BetterLinks](https://dev.to/wsovn112/betterlinks-haa)
+- [Lifehacker] [Use &#39;Flowtime&#39; as a Flexible Alternative to the Pomodoro Technique](https://lifehacker.com/work/flowtime-time-management-technique)
 - [Dev.to/JS] [Unlocking Test Data Efficiency in React](https://dev.to/kmhigashioka/unlocking-test-data-efficiency-in-react-422f)
+- [Lifehacker] [You Don&#39;t Need the Apple Watch Blood-Oxygen Feature, Anyway](https://lifehacker.com/tech/apple-watches-losing-blood-oxygen-feature)
 - [Dev.to/JS] [React Server Side Rendering Setup -2024](https://dev.to/vvkkumar06/react-server-side-rendering-setup-2024-1o30)
 - [Lifehacker] [Why Smiley-Faced Potatoes Could Get Your Kids to Eat More Vegetables, According to Science](https://lifehacker.com/family/get-kids-to-eat-veggies-smiley-face-potatoes)
 - [Lifehacker] [The Roborock S8 Pro Ultra Robot Vacuum Is Expensive but Worth It](https://lifehacker.com/tech/roborock-s8-pro-ultra-review)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Treat Your Cold With a Big Batch of My Mom’s Thai Soup](https://lifehacker.com/food-drink/make-my-moms-thai-jok-rice-porridge-recipe)
 - [Lifehacker] [TikTok Myth of the Week: The Sit-to-Stand Test Tells You When You’re Going to Die](https://lifehacker.com/health/tiktok-myth-sit-stand-test-tells-when-youre-going-to-die)
 - [Lifehacker] [Eight Steps to Protect Your Digital Privacy After a Bad Breakup](https://lifehacker.com/tech/how-to-protect-your-online-privacy-after-a-breakup)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why is Everyone Talking About &#39;Saltburn&#39;?](https://lifehacker.com/entertainment/whats-the-deal-with-saltburn-out-of-touch-adults-guide-kid-culture)
-- [Lifehacker] [Where to Find U.S. Communities That Are Testing Universal Basic Income](https://lifehacker.com/money/where-to-find-us-communities-offering-universal-basic-income)
-- [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why is Everyone Talking About &#39;Saltburn&#39;?](https://lifehacker.com/entertainment/whats-the-deal-with-saltburn-out-of-touch-adults-guide-kid-culture)<!-- TECH-POSTS:END -->
 
 ---
 
