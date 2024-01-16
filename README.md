@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an Image Expand Gallery](https://dev.to/devlawrence/creating-an-image-expand-gallery-67i)
+- [Dev.to/JS] [Your Best Guide to Becoming a Developer Advocate](https://dev.to/arshadayvid/your-best-guide-to-becoming-a-developer-advocate-1ij3)
 - [Dev.to/JS] [What&#39;s coming to ngx-deploy-npm V8](https://dev.to/dianjuar/whats-coming-to-ngx-deploy-npm-v8-23gn)
 - [Lifehacker] [You Can Get Free Airline Miles for a Long Wait at Baggage Claim](https://lifehacker.com/travel/earn-free-airline-miles-for-baggage-claim-wait)
 - [Lifehacker] [You Can Get Headway Premium on Sale for $60 Right Now](https://lifehacker.com/headway-premium-sale)
@@ -44,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [chimp rewriter](https://dev.to/rankkmarket/chimp-rewriter-41dg)
 - [Lifehacker] [You Can Now Invest in Bitcoin ETFs, but Should You?](https://lifehacker.com/money/should-you-invest-in-bitcoin-etfs)
 - [Dev.to/JS] [Mastering Next.js: Unleashing the Power of Modern Web Development](https://dev.to/hriztam/mastering-nextjs-unleashing-the-power-of-modern-web-development-p09)
-- [Dev.to/JS] [TypeScript Might Not Be Your God: Case Study of Migration from TS to JSDoc](https://dev.to/what1s1ove/typescript-might-not-be-your-god-case-study-of-migration-from-ts-to-jsdoc-o99)
-- [Dev.to/JS] [BetterLinks](https://dev.to/wsovn112/betterlinks-haa)
 - [Lifehacker] [Use &#39;Flowtime&#39; as a Flexible Alternative to the Pomodoro Technique](https://lifehacker.com/work/flowtime-time-management-technique)
 - [Lifehacker] [You Don&#39;t Need the Apple Watch Blood-Oxygen Feature, Anyway](https://lifehacker.com/tech/apple-watches-losing-blood-oxygen-feature)
 - [Lifehacker] [Why Smiley-Faced Potatoes Could Get Your Kids to Eat More Vegetables, According to Science](https://lifehacker.com/family/get-kids-to-eat-veggies-smiley-face-potatoes)
