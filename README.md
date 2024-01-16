@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cash App Giveaway $750](https://dev.to/cashappgiveaway/cash-app-giveaway-750-a8h)
+- [Dev.to/JS] [4 Methods to Send Emails Using Node.js &lpar;w/ Codes - Nodemailer Module, Gmail API, Postmark API &amp; SuprSend&rpar;](https://dev.to/suprsend/4-methods-to-send-emails-using-nodejs-w-codes-nodemailer-module-gmail-api-postmark-api-suprsend-4d5j)
 - [Dev.to/JS] [assertTrue&lpar;&rpar; in Java: A Complete Tutorial](https://dev.to/lambdatest/asserttrue-in-java-a-complete-tutorial-4m1m)
 - [Dev.to/JS] [Start IPVanish VPN App Install and register Octa app](https://dev.to/shopnill98/start-ipvanish-vpn-app-install-and-register-octa-app-24dp)
 - [Dev.to/JS] [Javascript Roadmap?](https://dev.to/codebuddylarin/javascript-roadmap-pcg)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a Stopwatch in React ⏱️?](https://dev.to/nonish/create-a-stopwatch-in-react--651)
 - [Dev.to/JS] [Unveiling the Benefits of Wellness Peak CBD Gummies: A Comprehensive Review](https://dev.to/wellnesspeakcbdget/unveiling-the-benefits-of-wellness-peak-cbd-gummies-a-comprehensive-review-40o6)
 - [Dev.to/JS] [10 Benefits of Playing Ludo Board Game](https://dev.to/michaljordan/10-benefits-of-playing-ludo-board-game-1e4j)
-- [Dev.to/JS] [What is Vercel&#39;s AI tool, V0.dev and how do you use it?](https://dev.to/opensauced/what-is-vercels-ai-tool-v0dev-and-how-do-you-use-it-3nge)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-16-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
-- [Dev.to/JS] [Free JavaScript Resources available for your interview preparation on GitHub](https://dev.to/aajinkya/free-javascript-resources-available-for-your-interview-preparation-51h9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
