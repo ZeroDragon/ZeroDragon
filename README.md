@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a Low-Latency Video Streaming App with ScyllaDB &amp; NextJS](https://dev.to/attilatothdev/how-to-build-a-low-latency-video-streaming-app-with-scylladb-nextjs-5bgi)
+- [Dev.to/JS] [Win $10,000 Oferr](https://dev.to/rokonuzzaman2024/win-10000-oferr-3k8c)
+- [Lifehacker] [Here&#39;s How Much Solar Panels Will Cost You](https://lifehacker.com/money/how-much-solar-panels-cost)
+- [Dev.to/JS] [A brief overview of the relay store and its updater functions](https://dev.to/flick/a-brief-overview-of-the-relay-store-and-its-updater-functions-2je5)
+- [Dev.to/JS] [An introduction to JavaScript Proxy](https://dev.to/phuocng/an-introduction-to-javascript-proxy-eon)
 - [Dev.to/JS] [Practical examples of using JavaScript Proxy](https://dev.to/phuocng/practical-examples-of-using-javascript-proxy-j56)
 - [Dev.to/JS] [Statistics Assignment Help](https://dev.to/pythonhelp/statistics-assignment-help-3k8d)
+- [Lifehacker] [All the Changes Parents Need to Know Before Filing Their Taxes This Year](https://lifehacker.com/money/changes-parents-need-to-know-tax-year-2023)
 - [Dev.to/JS] [Back-End JavaScript vs. Traditional Back-End Languages:](https://dev.to/aditya_raj_1010/back-end-javascript-vs-traditional-back-end-languages-an6)
 - [Dev.to/JS] [Next.js: The Ultimate React Framework?](https://dev.to/aditya_raj_1010/nextjs-the-ultimate-react-framework-58hg)
 - [Dev.to/JS] [JavaScript Fatigue vs. Innovation](https://dev.to/aditya_raj_1010/javascript-fatigue-vs-innovation-52e4)
 - [Dev.to/JS] [The MERN stack is overrated](https://dev.to/aditya_raj_1010/the-mern-stack-is-overrated-3mc7)
 - [Dev.to/JS] [Dead or not dead 💀 - Exploring the term and why Meteor.js is super-alive! ☄️](https://dev.to/meteor/dead-or-not-dead-exploring-the-term-and-why-meteorjs-is-super-alive-4j2c)
 - [Dev.to/JS] [Node.js vs. Java-What to Choose in 2024?](https://dev.to/canadianagency/nodejs-vs-java-what-to-choose-in-2024-enm)
-- [Dev.to/JS] [Client Side Rendering and Its Dynamics](https://dev.to/iamsymbiote/client-side-rendering-and-its-dynamics-240b)
-- [Dev.to/JS] [Kivy execute error](https://dev.to/dineshm/kivy-execute-error-467)
-- [Dev.to/JS] [Blissrise CBD Gummies Reviews – Benefits/Ingredient &amp; Where to Order?](https://dev.to/blissrisecbdget/blissrise-cbd-gummies-reviews-benefitsingredient-where-to-order-2lj9)
-- [Dev.to/JS] [START MAKING MONEY 💰 AS A SOFTWARE DEVELOPER IN 2024! 🌐✨](https://dev.to/aayushsharma/start-making-money-as-a-software-developer-in-2024-154i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-16-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Free VPNs of 2024](https://lifehacker.com/tech/the-best-free-vpns)
 - [Lifehacker] [These Are the Best Workout Headphones to Buy in 2024](https://lifehacker.com/tech/best-headphones-for-working-out)
 - [Lifehacker] [It&#39;s Time to Cold Stratify Your Seeds](https://lifehacker.com/home/how-to-cold-stratify-seeds-indoors)
-- [Lifehacker] [You Don’t Need a Smart Home Middleman](https://lifehacker.com/tech/why-you-dont-need-a-smart-tech-middleman)
-- [Lifehacker] [Your Finances Need a Monthly Reset](https://lifehacker.com/money/monthly-money-reset)
-- [Crazy Programmer] [5 Tips for Software Developers to Excel in Their Careers](https://www.thecrazyprogrammer.com/2024/01/tips-for-software-developers-to-excel-in-their-careers.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Don’t Need a Smart Home Middleman](https://lifehacker.com/tech/why-you-dont-need-a-smart-tech-middleman)<!-- TECH-POSTS:END -->
 
 ---
 
