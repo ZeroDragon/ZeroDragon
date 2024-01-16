@@ -26,10 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking Test Data Efficiency in React](https://dev.to/kmhigashioka/unlocking-test-data-efficiency-in-react-422f)
+- [Dev.to/JS] [React Server Side Rendering Setup -2024](https://dev.to/vvkkumar06/react-server-side-rendering-setup-2024-1o30)
+- [Lifehacker] [Why Smiley-Faced Potatoes Could Get Your Kids to Eat More Vegetables, According to Science](https://lifehacker.com/family/get-kids-to-eat-veggies-smiley-face-potatoes)
+- [Lifehacker] [The Roborock S8 Pro Ultra Robot Vacuum Is Expensive but Worth It](https://lifehacker.com/tech/roborock-s8-pro-ultra-review)
 - [Dev.to/JS] [Implement Dynamic Programming in a cake shop &lpar;with code&rpar;](https://dev.to/rounit08/implement-dynamic-programming-in-a-cake-shop-with-code-50la)
 - [Dev.to/JS] [Why clean code makes JavaScript programming easier](https://dev.to/chazzie/why-clean-code-makes-javascript-programming-easier-25cp)
 - [Dev.to/JS] [5 Crazy Things To Get Your Developer Career Unstuck 🚀](https://dev.to/dragosnedelcu/5-crazy-things-to-get-your-developer-career-unstuck-8bp)
+- [Lifehacker] [Your Complete Guide to Customizing Android Auto](https://lifehacker.com/tech/how-to-customize-android-auto)
 - [Dev.to/JS] [Delving into the Black Magic of GraphQL DataLoader! 🌌✨](https://dev.to/bhleb/delving-into-the-black-magic-of-graphql-dataloader-pai)
+- [Lifehacker] [You Should Add This Water-Powered Light to Your Emergency Kit](https://lifehacker.com/home/add-salt-water-light-to-emergency-kit)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step - Schedule tasks with EventBridge Scheduler](https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-schedule-tasks-with-eventbridge-scheduler-4cbh)
 - [Dev.to/JS] [Vue.js3 Usage Survey](https://dev.to/josunlp/vuejs3-usage-survey-32e1)
 - [Dev.to/JS] [Ultimate Guite to JSON Web Token&lpar;JWT&rpar; Authorization](https://dev.to/codezera/ultimate-guite-to-json-web-tokenjwt-authorization-1p3h)
@@ -38,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [13 GitHub Repos to make your first contribution &lpar;JavaScript&rpar;:](https://dev.to/dev_abdulhaseeb/13-github-repos-to-make-your-first-contribution-javascript-37od)
 - [Lifehacker] [Here&#39;s How Much Solar Panels Will Cost You](https://lifehacker.com/money/how-much-solar-panels-cost)
 - [Dev.to/JS] [A brief overview of the relay store and its updater functions](https://dev.to/flick/a-brief-overview-of-the-relay-store-and-its-updater-functions-2je5)
-- [Dev.to/JS] [An introduction to JavaScript Proxy](https://dev.to/phuocng/an-introduction-to-javascript-proxy-eon)
-- [Dev.to/JS] [Practical examples of using JavaScript Proxy](https://dev.to/phuocng/practical-examples-of-using-javascript-proxy-j56)
 - [Lifehacker] [All the Changes Parents Need to Know Before Filing Their Taxes This Year](https://lifehacker.com/money/changes-parents-need-to-know-tax-year-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-16-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eight Steps to Protect Your Digital Privacy After a Bad Breakup](https://lifehacker.com/tech/how-to-protect-your-online-privacy-after-a-breakup)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why is Everyone Talking About &#39;Saltburn&#39;?](https://lifehacker.com/entertainment/whats-the-deal-with-saltburn-out-of-touch-adults-guide-kid-culture)
 - [Lifehacker] [Where to Find U.S. Communities That Are Testing Universal Basic Income](https://lifehacker.com/money/where-to-find-us-communities-offering-universal-basic-income)
-- [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)
-- [Lifehacker] [How to Defeat &#39;Parkinson’s Law&#39; to Be More Productive](https://lifehacker.com/work/what-is-parkinsons-law)
-- [Lifehacker] [The Best Free VPNs of 2024](https://lifehacker.com/tech/the-best-free-vpns)
-- [Lifehacker] [These Are the Best Workout Headphones to Buy in 2024](https://lifehacker.com/tech/best-headphones-for-working-out)
-- [Lifehacker] [It&#39;s Time to Cold Stratify Your Seeds](https://lifehacker.com/home/how-to-cold-stratify-seeds-indoors)<!-- TECH-POSTS:END -->
+- [Lifehacker] [My Five Favorite Products From CES 2024](https://lifehacker.com/tech/my-five-favorite-products-from-ces-2024)<!-- TECH-POSTS:END -->
 
 ---
 
