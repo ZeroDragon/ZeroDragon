@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Closures Work and Why It Matters](https://dev.to/a_n_0ea95a809912c3db27c4b/how-closures-work-and-why-it-matters-18a1)
+- [Dev.to/JS] [How to Generate SEO-Friendly Technical Blogs from YouTube Videos](https://dev.to/rowy/how-to-generate-seo-friendly-technical-blogs-from-youtube-videos-n74)
+- [Lifehacker] [You Can Get Both of These Drones on Sale for $175 Right Now](https://lifehacker.com/ninja-drone-bundle-sale)
+- [Lifehacker] [The Apple Watch Series 9 and Ultra 2 Sales Ban Is Back On](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
 - [Dev.to/JS] [Infinite Scroll Component with Intersection Observer API](https://dev.to/mayankhttps/infinite-scroll-component-with-intersection-observer-api-f83)
 - [Dev.to/JS] [Embracing Evolution: The Rapid Changes in Web Development](https://dev.to/angelamiton/embracing-evolution-the-rapid-changes-in-web-development-4if1)
 - [Dev.to/JS] [Unlocking the Virtual World: A Guide to Becoming a VR Engineer](https://dev.to/balrajola/unlocking-the-virtual-world-a-guide-to-becoming-a-vr-engineer-8ee)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)
 - [Dev.to/JS] [Using FormData to process form input values](https://dev.to/ngnijland/using-formdata-to-process-form-input-values-5d2e)
 - [Lifehacker] [Why Your Amazon Echo’s Light is Yellow](https://lifehacker.com/tech/why-is-my-amazon-echo-yellow)
-- [Dev.to/JS] [callback in JavaScript](https://dev.to/samanmahmood/callback-in-javascript-67p)
-- [Dev.to/JS] [First Game - Hey Fellow Devs!](https://dev.to/godleon/hey-fellow-devs-4nj1)
 - [Lifehacker] [Use These New Tools to Find Better Job Prospects on LinkedIn](https://lifehacker.com/work/linkedin-new-job-search-features)
 - [Lifehacker] [The Coolest PC Tech From CES 2024](https://lifehacker.com/tech/coolest-pc-tech-from-ces-2024)
 - [Lifehacker] [How to Help Clothing-Sensitive Kids Manage Their Discomfort](https://lifehacker.com/family/how-to-help-clothing-sensitive-kids)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best TV Podcasts to Add to Your Queue](https://lifehacker.com/entertainment/10-tv-podcasts-you-should-subscribe-to)
 - [Lifehacker] [This Is the Secret to Making the Best Cinnamon Roll Filling](https://lifehacker.com/food-drink/best-cinnamon-roll-filling-recipe)
 - [Lifehacker] [Copilot With Microsoft 365 Is Finally Available to Everyone](https://lifehacker.com/tech/copilot-pro)
-- [Lifehacker] [The Apple Watch Series 9 Is &lpar;Back&rpar; Down to Its Lowest Price Ever](https://lifehacker.com/tech/apple-watch-series-9-sale-1)
-- [Lifehacker] [Six Signs a Home Seller Is Hiding Something](https://lifehacker.com/money/signs-a-home-seller-is-hiding-something)
-- [Lifehacker] [You Can Now Invest in Bitcoin ETFs, but Should You?](https://lifehacker.com/money/should-you-invest-in-bitcoin-etfs)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Apple Watch Series 9 Is &lpar;Back&rpar; Down to Its Lowest Price Ever](https://lifehacker.com/tech/apple-watch-series-9-sale-1)<!-- TECH-POSTS:END -->
 
 ---
 
