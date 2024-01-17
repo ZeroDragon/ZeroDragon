@@ -27,7 +27,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Creating an Image Expand Gallery](https://dev.to/devlawrence/creating-an-image-expand-gallery-67i)
+- [Lifehacker] [The Best Running Headphones to Buy in 2024](https://lifehacker.com/tech/best-running-headphones)
+- [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)
 - [Dev.to/JS] [Your Best Guide to Becoming a Developer Advocate](https://dev.to/arshadayvid/your-best-guide-to-becoming-a-developer-advocate-1ij3)
+- [Lifehacker] [How to Save Your iMessage Chat History When Someone Dies](https://lifehacker.com/tech/how-to-save-imessage-chat-history)
+- [Lifehacker] [X Might Be Leaking Data From Your iPhone](https://lifehacker.com/tech/x-leaking-data-on-your-iphone)
 - [Dev.to/JS] [What&#39;s coming to ngx-deploy-npm V8](https://dev.to/dianjuar/whats-coming-to-ngx-deploy-npm-v8-23gn)
 - [Lifehacker] [You Can Get Free Airline Miles for a Long Wait at Baggage Claim](https://lifehacker.com/travel/earn-free-airline-miles-for-baggage-claim-wait)
 - [Lifehacker] [You Can Get Headway Premium on Sale for $60 Right Now](https://lifehacker.com/headway-premium-sale)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-14-2024)
-- [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
-- [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $35 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
-- [Lifehacker] [Everyone Who Needs the RSV Vaccine &lpar;and Where to Get It&rpar;](https://lifehacker.com/health/where-to-get-rsv-vaccine)
-- [Lifehacker] [Nine Countries You&#39;ll Need a Tourist Visa to Visit in 2024](https://lifehacker.com/travel/these-countries-require-a-tourist-visa-for-travel-from-the-united-states)
-- [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $60 Right Now](https://lifehacker.com/nix-color-sensor-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 10 Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)<!-- TECH-POSTS:END -->
 
 ---
 
