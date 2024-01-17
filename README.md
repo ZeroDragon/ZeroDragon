@@ -26,15 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AppSignal’s Top 5 JavaScript Posts in 2023](https://dev.to/appsignal/appsignals-top-5-javascript-posts-in-2023-5b13)
+- [Dev.to/JS] [React Native: A Fast and Flexible Framework for Building Mobile Apps](https://dev.to/balrajola/react-native-a-fast-and-flexible-framework-for-building-mobile-apps-dpf)
 - [Dev.to/JS] [TW Elements - Create a website. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-create-a-website-free-uiux-design-course-1he)
 - [Dev.to/JS] [Understanding Webhooks: A Practical Guide with PayPal Checkout Integration](https://dev.to/devprashantt/understanding-webhooks-a-practical-guide-with-paypal-checkout-integration-1o1p)
 - [Dev.to/JS] [iOS app development services](https://dev.to/webstep/ios-app-development-services-53f5)
 - [Dev.to/JS] [Password Validation Check in HTML CSS &amp; JavaScript | Show Hide Password Toggle](https://dev.to/sharathchandark/password-validation-check-in-html-css-javascript-show-hide-password-toggle-4d7c)
 - [Dev.to/JS] [How are smart materials transforming construction in 2024?](https://dev.to/yagnapandya9/how-are-smart-materials-transforming-construction-in-2024-23lo)
 - [Dev.to/JS] [Mastering the Craft: How AZ-120 Exam Dumps Elevate Your Skills](https://dev.to/someabaropi/mastering-the-craft-how-az-120-exam-dumps-elevate-your-skills-1gh3)
-- [Dev.to/JS] [free 500 $](https://dev.to/arman58/free-500--3mna)
 - [Dev.to/JS] [The AZ-600 Dumps Handbook: A Comprehensive Guide](https://dev.to/hitiong/the-az-600-dumps-handbook-a-comprehensive-guide-hc3)
-- [Dev.to/JS] [Apple iPhone 15 Pro Max](https://dev.to/laurasilva909/apple-iphone-15-pro-max-3c4a)
 - [Dev.to/JS] [How To Write Material UI Components Like Radix UI And Why Component Composition Matters?](https://dev.to/woovi/how-to-write-material-ui-components-like-radix-ui-and-why-component-composition-matters-4epn)
 - [Dev.to/JS] [How I build a YouTube Video Player with ReactJS: Build the Seekbar control](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-build-the-seekbar-control-3kg)
 - [Dev.to/JS] [Decoding Weird JavaScript Behaviour](https://dev.to/bhavycodes/decoding-weird-javascript-behaviour-3e43)
