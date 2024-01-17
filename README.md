@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Focus Management: how to improve the accessibility and usability of our components](https://dev.to/micaavigliano/focus-management-how-to-improve-the-accessibility-and-usability-of-our-components-1865)
+- [Dev.to/JS] [How to Dockerize a Next.js app](https://dev.to/vorillaz/how-to-dockerize-a-nextjs-app-4e4h)
+- [Dev.to/JS] [Drag and Drop Components with basic CSS &amp; Javascript](https://dev.to/mayankhttps/drag-and-drop-components-with-basic-css-javascript-3jbd)
+- [Dev.to/JS] [AdPeriscope](https://dev.to/rankkmarket/adperiscope-2me3)
 - [Dev.to/JS] [Blinkist](https://dev.to/wsovn112/blinkist-1pa0)
 - [Dev.to/JS] [Harnessing the Power of Verifik&#39;s Brazilian CPF Validation API: A Game-Changer for Data Verification](https://dev.to/verifik/harnessing-the-power-of-verifiks-brazilian-cpf-validation-api-a-game-changer-for-data-verification-1p7f)
 - [Dev.to/JS] [Using FormData to process form input values](https://dev.to/ngnijland/using-formdata-to-process-form-input-values-5d2e)
@@ -36,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I built a cross-framework frontend library](https://dev.to/tomosterlund/how-i-built-a-cross-framework-frontend-library-2m6b)
 - [Dev.to/JS] [Symbiote.js 2.0](https://dev.to/symbiotejs/symbiotejs-20-2mj8)
 - [Lifehacker] [Use These New Tools to Find Better Job Prospects on LinkedIn](https://lifehacker.com/work/linkedin-new-job-search-features)
-- [Dev.to/JS] [418 I&#39;m a Teapot](https://dev.to/arjuncodess/418-im-a-teapot-2jf5)
 - [Lifehacker] [The Coolest PC Tech From CES 2024](https://lifehacker.com/tech/coolest-pc-tech-from-ces-2024)
-- [Dev.to/JS] [Obfuscating your create react app and routes](https://dev.to/petragrunheidt/obfuscating-your-react-app-and-routes-1hp4)
 - [Lifehacker] [How to Help Clothing-Sensitive Kids Manage Their Discomfort](https://lifehacker.com/family/how-to-help-clothing-sensitive-kids)
-- [Dev.to/JS] [How to make glucose conversion calculator](https://dev.to/sunny12568/how-to-make-glucose-conversion-calculator-i23)
-- [Dev.to/JS] [History of the Web Part 2](https://dev.to/sumisastri/history-of-the-web-part-2-nc2)
 - [Lifehacker] [You Can Get Much Better Amazon Search Results](https://lifehacker.com/tech/how-to-get-better-amazon-search-results)
 - [Lifehacker] [This iPad 10 Magic Keyboard Folio Is on Sale for $100 Right Now](https://lifehacker.com/apple-magic-keyboard-folio-sale)
 - [Lifehacker] [Tip Requests Don&#39;t Have to Be a Big Deal](https://lifehacker.com/money/who-to-tip-and-how-much)
