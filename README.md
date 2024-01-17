@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functions in JavaScript](https://dev.to/annoh_karlgusta/functions-in-javascript-glg)
+- [Dev.to/JS] [Blakify](https://dev.to/wsovn112/blakify-1p76)
+- [Dev.to/JS] [A NodeJS Package that verifies if a string contains a potential SSRF attack: ssrfcheck](https://dev.to/felipperegazio/a-nodjs-package-that-verifies-if-a-string-contains-a-potential-ssrf-attack-ssrfcheck-1lpp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-17-2024)
 - [Dev.to/JS] [JavaScript: Iterators and Generators &lpar;Part-1&rpar;💡📌](https://dev.to/rahmanmajeed/javascript-iterators-and-generators-part-1-4gj9)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)
@@ -47,12 +50,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Secret to Making the Best Cinnamon Roll Filling](https://lifehacker.com/food-drink/best-cinnamon-roll-filling-recipe)
 - [Dev.to/JS] [Master Full-Stack](https://dev.to/dev_abdulhaseeb/master-full-stack-4115)
 - [Dev.to/JS] [Slot Hoki](https://dev.to/slothoki88v/slot-hoki-51k3)
-- [Dev.to/JS] [React, where are you going?](https://dev.to/matfrana/react-where-are-you-going-5284)
 - [Lifehacker] [Copilot With Microsoft 365 Is Finally Available to Everyone](https://lifehacker.com/tech/copilot-pro)
-- [Dev.to/JS] [State mutation-এর ভয় করতে হবে জয়... পার্ট - ১](https://dev.to/rasel9t6/state-mutation-er-bhyy-krte-hbe-jyy-paartt-1-4d9b)
 - [Lifehacker] [The Apple Watch Series 9 Is &lpar;Back&rpar; Down to Its Lowest Price Ever](https://lifehacker.com/tech/apple-watch-series-9-sale-1)
 - [Lifehacker] [Six Signs a Home Seller Is Hiding Something](https://lifehacker.com/money/signs-a-home-seller-is-hiding-something)
-- [Dev.to/JS] [Unleashing Advanced Array Concepts: A Comprehensive Exploration](https://dev.to/wahidmaster00/unleashing-advanced-array-concepts-a-comprehensive-exploration-1goi)
 - [Lifehacker] [You Can Now Invest in Bitcoin ETFs, but Should You?](https://lifehacker.com/money/should-you-invest-in-bitcoin-etfs)
 - [Lifehacker] [Use &#39;Flowtime&#39; as a Flexible Alternative to the Pomodoro Technique](https://lifehacker.com/work/flowtime-time-management-technique)
 - [Lifehacker] [You Don&#39;t Need the Apple Watch Blood-Oxygen Feature, Anyway](https://lifehacker.com/tech/apple-watches-losing-blood-oxygen-feature)
