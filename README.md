@@ -26,19 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Infinite Scroll Component with Intersection Observer API](https://dev.to/mayankhttps/infinite-scroll-component-with-intersection-observer-api-f83)
+- [Dev.to/JS] [Embracing Evolution: The Rapid Changes in Web Development](https://dev.to/angelamiton/embracing-evolution-the-rapid-changes-in-web-development-4if1)
+- [Dev.to/JS] [Unlocking the Virtual World: A Guide to Becoming a VR Engineer](https://dev.to/balrajola/unlocking-the-virtual-world-a-guide-to-becoming-a-vr-engineer-8ee)
+- [Lifehacker] [The Fastest Growing Tech Jobs in 2024, According to LinkedIn](https://lifehacker.com/tech/the-fastest-growing-tech-jobs-in-2024)
 - [Dev.to/JS] [Focus Management: how to improve the accessibility and usability of our components](https://dev.to/micaavigliano/focus-management-how-to-improve-the-accessibility-and-usability-of-our-components-1865)
 - [Dev.to/JS] [How to Dockerize a Next.js app](https://dev.to/vorillaz/how-to-dockerize-a-nextjs-app-4e4h)
+- [Lifehacker] [The Newest Lenovo Yoga 7i 16 Is $300 Off Right Now](https://lifehacker.com/tech/lenovo-yoga-7i-16-sale-best-buy)
 - [Dev.to/JS] [Drag and Drop Components with basic CSS &amp; Javascript](https://dev.to/mayankhttps/drag-and-drop-components-with-basic-css-javascript-3jbd)
 - [Dev.to/JS] [AdPeriscope](https://dev.to/rankkmarket/adperiscope-2me3)
+- [Lifehacker] [With the New Galaxy S24, Samsung Is Going All-in on AI](https://lifehacker.com/tech/new-samsung-galaxy-s24-smartphones)
 - [Dev.to/JS] [Blinkist](https://dev.to/wsovn112/blinkist-1pa0)
 - [Dev.to/JS] [Harnessing the Power of Verifik&#39;s Brazilian CPF Validation API: A Game-Changer for Data Verification](https://dev.to/verifik/harnessing-the-power-of-verifiks-brazilian-cpf-validation-api-a-game-changer-for-data-verification-1p7f)
+- [Lifehacker] [Seven Signs You Should Hire an Accountant for Your Taxes](https://lifehacker.com/money/should-you-hire-accountant)
+- [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)
 - [Dev.to/JS] [Using FormData to process form input values](https://dev.to/ngnijland/using-formdata-to-process-form-input-values-5d2e)
 - [Lifehacker] [Why Your Amazon Echo’s Light is Yellow](https://lifehacker.com/tech/why-is-my-amazon-echo-yellow)
 - [Dev.to/JS] [callback in JavaScript](https://dev.to/samanmahmood/callback-in-javascript-67p)
 - [Dev.to/JS] [First Game - Hey Fellow Devs!](https://dev.to/godleon/hey-fellow-devs-4nj1)
-- [Dev.to/JS] [Elevate Your Node.js Experience: Migrating from Express to Hono](https://dev.to/ricardogesteves/elevate-your-nodejs-experience-migrating-from-express-to-hono-39ei)
-- [Dev.to/JS] [How I built a cross-framework frontend library](https://dev.to/tomosterlund/how-i-built-a-cross-framework-frontend-library-2m6b)
-- [Dev.to/JS] [Symbiote.js 2.0](https://dev.to/symbiotejs/symbiotejs-20-2mj8)
 - [Lifehacker] [Use These New Tools to Find Better Job Prospects on LinkedIn](https://lifehacker.com/work/linkedin-new-job-search-features)
 - [Lifehacker] [The Coolest PC Tech From CES 2024](https://lifehacker.com/tech/coolest-pc-tech-from-ces-2024)
 - [Lifehacker] [How to Help Clothing-Sensitive Kids Manage Their Discomfort](https://lifehacker.com/family/how-to-help-clothing-sensitive-kids)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Copilot With Microsoft 365 Is Finally Available to Everyone](https://lifehacker.com/tech/copilot-pro)
 - [Lifehacker] [The Apple Watch Series 9 Is &lpar;Back&rpar; Down to Its Lowest Price Ever](https://lifehacker.com/tech/apple-watch-series-9-sale-1)
 - [Lifehacker] [Six Signs a Home Seller Is Hiding Something](https://lifehacker.com/money/signs-a-home-seller-is-hiding-something)
-- [Lifehacker] [You Can Now Invest in Bitcoin ETFs, but Should You?](https://lifehacker.com/money/should-you-invest-in-bitcoin-etfs)
-- [Lifehacker] [Use &#39;Flowtime&#39; as a Flexible Alternative to the Pomodoro Technique](https://lifehacker.com/work/flowtime-time-management-technique)
-- [Lifehacker] [You Don&#39;t Need the Apple Watch Blood-Oxygen Feature, Anyway](https://lifehacker.com/tech/apple-watches-losing-blood-oxygen-feature)
-- [Lifehacker] [Why Smiley-Faced Potatoes Could Get Your Kids to Eat More Vegetables, According to Science](https://lifehacker.com/family/get-kids-to-eat-veggies-smiley-face-potatoes)
-- [Lifehacker] [The Roborock S8 Pro Ultra Robot Vacuum Is Expensive but Worth It](https://lifehacker.com/tech/roborock-s8-pro-ultra-review)
-- [Lifehacker] [Your Complete Guide to Customizing Android Auto](https://lifehacker.com/tech/how-to-customize-android-auto)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Invest in Bitcoin ETFs, but Should You?](https://lifehacker.com/money/should-you-invest-in-bitcoin-etfs)<!-- TECH-POSTS:END -->
 
 ---
 
