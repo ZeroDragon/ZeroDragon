@@ -26,10 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using FormData to process form input values](https://dev.to/ngnijland/using-formdata-to-process-form-input-values-5d2e)
+- [Lifehacker] [Why Your Amazon Echo’s Light is Yellow](https://lifehacker.com/tech/why-is-my-amazon-echo-yellow)
+- [Dev.to/JS] [callback in JavaScript](https://dev.to/samanmahmood/callback-in-javascript-67p)
+- [Dev.to/JS] [First Game - Hey Fellow Devs!](https://dev.to/godleon/hey-fellow-devs-4nj1)
+- [Dev.to/JS] [Elevate Your Node.js Experience: Migrating from Express to Hono](https://dev.to/ricardogesteves/elevate-your-nodejs-experience-migrating-from-express-to-hono-39ei)
 - [Dev.to/JS] [How I built a cross-framework frontend library](https://dev.to/tomosterlund/how-i-built-a-cross-framework-frontend-library-2m6b)
 - [Dev.to/JS] [Symbiote.js 2.0](https://dev.to/symbiotejs/symbiotejs-20-2mj8)
-- [Dev.to/JS] [Contact me now..](https://dev.to/mariamaris23/contact-me-now-bhf)
+- [Lifehacker] [Use These New Tools to Find Better Job Prospects on LinkedIn](https://lifehacker.com/work/linkedin-new-job-search-features)
 - [Dev.to/JS] [418 I&#39;m a Teapot](https://dev.to/arjuncodess/418-im-a-teapot-2jf5)
+- [Lifehacker] [The Coolest PC Tech From CES 2024](https://lifehacker.com/tech/coolest-pc-tech-from-ces-2024)
 - [Dev.to/JS] [Obfuscating your create react app and routes](https://dev.to/petragrunheidt/obfuscating-your-react-app-and-routes-1hp4)
 - [Lifehacker] [How to Help Clothing-Sensitive Kids Manage Their Discomfort](https://lifehacker.com/family/how-to-help-clothing-sensitive-kids)
 - [Dev.to/JS] [How to make glucose conversion calculator](https://dev.to/sunny12568/how-to-make-glucose-conversion-calculator-i23)
@@ -38,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [History of the Web - Part 1](https://dev.to/sumisastri/history-of-the-web-part-1-85a)
 - [Lifehacker] [This iPad 10 Magic Keyboard Folio Is on Sale for $100 Right Now](https://lifehacker.com/apple-magic-keyboard-folio-sale)
 - [Dev.to/JS] [OR VS Array Includes](https://dev.to/alwarg/or-vs-array-includes-4mad)
-- [Dev.to/JS] [🏞️5 beautiful open-source web apps to learn from and get inspired 🙇‍♀️💡](https://dev.to/matijasos/5-beautiful-open-source-web-apps-to-learn-from-and-get-inspired-280f)
-- [Dev.to/JS] [How much does it cost to develop an App in 2024?](https://dev.to/sparkouttech/how-much-does-it-cost-to-develop-an-app-in-2024-ikc)
-- [Dev.to/JS] [AppSignal’s Top 5 JavaScript Posts in 2023](https://dev.to/appsignal/appsignals-top-5-javascript-posts-in-2023-5b13)
 - [Lifehacker] [Tip Requests Don&#39;t Have to Be a Big Deal](https://lifehacker.com/money/who-to-tip-and-how-much)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-17-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don&#39;t Need the Apple Watch Blood-Oxygen Feature, Anyway](https://lifehacker.com/tech/apple-watches-losing-blood-oxygen-feature)
 - [Lifehacker] [Why Smiley-Faced Potatoes Could Get Your Kids to Eat More Vegetables, According to Science](https://lifehacker.com/family/get-kids-to-eat-veggies-smiley-face-potatoes)
 - [Lifehacker] [The Roborock S8 Pro Ultra Robot Vacuum Is Expensive but Worth It](https://lifehacker.com/tech/roborock-s8-pro-ultra-review)
-- [Lifehacker] [Your Complete Guide to Customizing Android Auto](https://lifehacker.com/tech/how-to-customize-android-auto)
-- [Lifehacker] [You Should Add This Water-Powered Light to Your Emergency Kit](https://lifehacker.com/home/add-salt-water-light-to-emergency-kit)
-- [Lifehacker] [Eufy Dual Cams Are Worth Your Money](https://lifehacker.com/tech/eufy-dual-cam-review)
-- [Lifehacker] [Here&#39;s How Much Solar Panels Will Cost You](https://lifehacker.com/money/how-much-solar-panels-cost)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Complete Guide to Customizing Android Auto](https://lifehacker.com/tech/how-to-customize-android-auto)<!-- TECH-POSTS:END -->
 
 ---
 
