@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Obfuscating your react app and routes](https://dev.to/petragrunheidt/obfuscating-your-react-app-and-routes-1hp4)
+- [Dev.to/JS] [How I built a cross-framework frontend library](https://dev.to/tomosterlund/how-i-built-a-cross-framework-frontend-library-2m6b)
+- [Dev.to/JS] [Symbiote.js 2.0](https://dev.to/symbiotejs/symbiotejs-20-2mj8)
+- [Dev.to/JS] [Contact me now..](https://dev.to/mariamaris23/contact-me-now-bhf)
+- [Dev.to/JS] [418 I&#39;m a Teapot](https://dev.to/arjuncodess/418-im-a-teapot-2jf5)
+- [Dev.to/JS] [Obfuscating your create react app and routes](https://dev.to/petragrunheidt/obfuscating-your-react-app-and-routes-1hp4)
+- [Lifehacker] [How to Help Clothing-Sensitive Kids Manage Their Discomfort](https://lifehacker.com/family/how-to-help-clothing-sensitive-kids)
 - [Dev.to/JS] [How to make glucose conversion calculator](https://dev.to/sunny12568/how-to-make-glucose-conversion-calculator-i23)
 - [Dev.to/JS] [History of the Web Part 2](https://dev.to/sumisastri/history-of-the-web-part-2-nc2)
 - [Lifehacker] [You Can Get Much Better Amazon Search Results](https://lifehacker.com/tech/how-to-get-better-amazon-search-results)
@@ -37,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How much does it cost to develop an App in 2024?](https://dev.to/sparkouttech/how-much-does-it-cost-to-develop-an-app-in-2024-ikc)
 - [Dev.to/JS] [AppSignal’s Top 5 JavaScript Posts in 2023](https://dev.to/appsignal/appsignals-top-5-javascript-posts-in-2023-5b13)
 - [Lifehacker] [Tip Requests Don&#39;t Have to Be a Big Deal](https://lifehacker.com/money/who-to-tip-and-how-much)
-- [Dev.to/JS] [React Native: A Fast and Flexible Framework for Building Mobile Apps](https://dev.to/balrajola/react-native-a-fast-and-flexible-framework-for-building-mobile-apps-dpf)
-- [Dev.to/JS] [TW Elements - Create a website. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-create-a-website-free-uiux-design-course-1he)
-- [Dev.to/JS] [Understanding Webhooks: A Practical Guide with PayPal Checkout Integration](https://dev.to/devprashantt/understanding-webhooks-a-practical-guide-with-paypal-checkout-integration-1o1p)
-- [Dev.to/JS] [iOS app development services](https://dev.to/webstep/ios-app-development-services-53f5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-17-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)
 - [Lifehacker] [You Can Get Offcloud on Sale for $39.99 Right Now](https://lifehacker.com/tech/offcloud-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Complete Guide to Customizing Android Auto](https://lifehacker.com/tech/how-to-customize-android-auto)
 - [Lifehacker] [You Should Add This Water-Powered Light to Your Emergency Kit](https://lifehacker.com/home/add-salt-water-light-to-emergency-kit)
 - [Lifehacker] [Eufy Dual Cams Are Worth Your Money](https://lifehacker.com/tech/eufy-dual-cam-review)
-- [Lifehacker] [Here&#39;s How Much Solar Panels Will Cost You](https://lifehacker.com/money/how-much-solar-panels-cost)
-- [Lifehacker] [All the Changes Parents Need to Know Before Filing Their Taxes This Year](https://lifehacker.com/money/changes-parents-need-to-know-tax-year-2023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How Much Solar Panels Will Cost You](https://lifehacker.com/money/how-much-solar-panels-cost)<!-- TECH-POSTS:END -->
 
 ---
 
