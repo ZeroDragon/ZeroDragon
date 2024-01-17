@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Hidden Gems: Non-Tech Skills Valued in Software Engineers](https://dev.to/rezwan/unveiling-the-hidden-gems-non-tech-skills-valued-in-software-engineers-5e0f)
+- [Dev.to/JS] [3 Programming Myths That Keep You Stuck, Frustrated, And Underpaid](https://dev.to/rezwan/3-programming-myths-that-keep-you-stuck-frustrated-and-underpaid-4lln)
+- [Dev.to/JS] [Comparing Most Effective Languages for AI Programming](https://dev.to/hirendhaduk_/comparing-most-effective-languages-for-ai-programming-4dd)
 - [Dev.to/JS] [What is a Javascript Engine?](https://dev.to/samyak112/what-is-a-javascript-engine-4gjo)
 - [Dev.to/JS] [Benefits of Hiring Dedicated Node.js Developers Over PHP](https://dev.to/harnilpatel/benefits-of-hiring-dedicated-nodejs-developers-over-php-43f3)
 - [Dev.to/JS] [Java Course | Java Course Online Training | Java Certification](https://dev.to/veronicajoseph/java-course-java-course-online-training-java-certification-4iil)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSON is overrated](https://dev.to/aditya_raj_1010/json-is-overrated-500g)
 - [Dev.to/JS] [$70 Gift Card Free](https://dev.to/delwar88/70-gift-card-free-h09)
 - [Dev.to/JS] [Unleashing TypeScript&#39;s Power: Exploring Key Concepts with Real-World Examples](https://dev.to/hossain45/unleashing-typescripts-power-exploring-key-concepts-with-real-world-examples-55p9)
-- [Dev.to/JS] [💻 Web Development Resources #181](https://dev.to/vincenius/web-development-resources-181-5bgl)
-- [Dev.to/JS] [👨‍💻 Daily Code 41 | 🟥 HTML, 🟦 CSS, and 🟨 JS now all together](https://dev.to/gregor_schafroth/daily-code-41-html-css-and-js-now-all-together-g2d)
-- [Dev.to/JS] [What cybersecurity threats should businesses gear up for in 2024?](https://dev.to/yagnapandya9/what-cybersecurity-threats-should-businesses-gear-up-for-in-2024-1hgk)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-17-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)
 - [Lifehacker] [You Can Get Offcloud on Sale for $39.99 Right Now](https://lifehacker.com/tech/offcloud-sale)
