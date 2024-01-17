@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[EN] How to separate my files in Kaboom.js](https://dev.to/lajbel/en-how-to-separate-my-files-in-kaboomjs-272n)
+- [Dev.to/JS] [[ES] Como separar mis archivos en Kaboom.js](https://dev.to/lajbel/es-como-separar-mis-archivos-en-kaboomjs-el1)
 - [Lifehacker] [You Can Get Offcloud on Sale for $39.99 Right Now](https://lifehacker.com/tech/offcloud-sale)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Dev.to/JS] [Creating an Image Expand Gallery](https://dev.to/devlawrence/creating-an-image-expand-gallery-67i)
@@ -49,9 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six Signs a Home Seller Is Hiding Something](https://lifehacker.com/money/signs-a-home-seller-is-hiding-something)
 - [Dev.to/JS] [Unleashing Advanced Array Concepts: A Comprehensive Exploration](https://dev.to/wahidmaster00/unleashing-advanced-array-concepts-a-comprehensive-exploration-1goi)
 - [Dev.to/JS] [AI for Web Devs: Your First API Request to OpenAI](https://dev.to/austingil/ai-for-web-devs-your-first-api-request-to-openai-5boe)
-- [Dev.to/JS] [chimp rewriter](https://dev.to/rankkmarket/chimp-rewriter-41dg)
 - [Lifehacker] [You Can Now Invest in Bitcoin ETFs, but Should You?](https://lifehacker.com/money/should-you-invest-in-bitcoin-etfs)
-- [Dev.to/JS] [Mastering Next.js: Unleashing the Power of Modern Web Development](https://dev.to/hriztam/mastering-nextjs-unleashing-the-power-of-modern-web-development-p09)
 - [Lifehacker] [Use &#39;Flowtime&#39; as a Flexible Alternative to the Pomodoro Technique](https://lifehacker.com/work/flowtime-time-management-technique)
 - [Lifehacker] [You Don&#39;t Need the Apple Watch Blood-Oxygen Feature, Anyway](https://lifehacker.com/tech/apple-watches-losing-blood-oxygen-feature)
 - [Lifehacker] [Why Smiley-Faced Potatoes Could Get Your Kids to Eat More Vegetables, According to Science](https://lifehacker.com/family/get-kids-to-eat-veggies-smiley-face-potatoes)
