@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blinkist](https://dev.to/wsovn112/blinkist-1pa0)
+- [Dev.to/JS] [Harnessing the Power of Verifik&#39;s Brazilian CPF Validation API: A Game-Changer for Data Verification](https://dev.to/verifik/harnessing-the-power-of-verifiks-brazilian-cpf-validation-api-a-game-changer-for-data-verification-1p7f)
 - [Dev.to/JS] [Using FormData to process form input values](https://dev.to/ngnijland/using-formdata-to-process-form-input-values-5d2e)
 - [Lifehacker] [Why Your Amazon Echo’s Light is Yellow](https://lifehacker.com/tech/why-is-my-amazon-echo-yellow)
 - [Dev.to/JS] [callback in JavaScript](https://dev.to/samanmahmood/callback-in-javascript-67p)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make glucose conversion calculator](https://dev.to/sunny12568/how-to-make-glucose-conversion-calculator-i23)
 - [Dev.to/JS] [History of the Web Part 2](https://dev.to/sumisastri/history-of-the-web-part-2-nc2)
 - [Lifehacker] [You Can Get Much Better Amazon Search Results](https://lifehacker.com/tech/how-to-get-better-amazon-search-results)
-- [Dev.to/JS] [History of the Web - Part 1](https://dev.to/sumisastri/history-of-the-web-part-1-85a)
 - [Lifehacker] [This iPad 10 Magic Keyboard Folio Is on Sale for $100 Right Now](https://lifehacker.com/apple-magic-keyboard-folio-sale)
-- [Dev.to/JS] [OR VS Array Includes](https://dev.to/alwarg/or-vs-array-includes-4mad)
 - [Lifehacker] [Tip Requests Don&#39;t Have to Be a Big Deal](https://lifehacker.com/money/who-to-tip-and-how-much)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-17-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)
