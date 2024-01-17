@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Create a local copy](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-create-a-local-copy-1n59)
+- [Dev.to/JS] [How To Collect Temporal.io Logs Using Axiom And Pino](https://dev.to/pmbanugo/how-to-collect-temporalio-logs-using-axiom-and-pino-8bc)
+- [Lifehacker] [The Google Pixel 8 Is $150 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
+- [Lifehacker] [The Best Kindle for Every Type of Reader](https://lifehacker.com/tech/the-best-kindles-of-2024)
 - [Dev.to/JS] [How Closures Work and Why It Matters](https://dev.to/a_n_0ea95a809912c3db27c4b/how-closures-work-and-why-it-matters-18a1)
 - [Dev.to/JS] [How to Generate SEO-Friendly Technical Blogs from YouTube Videos](https://dev.to/rowy/how-to-generate-seo-friendly-technical-blogs-from-youtube-videos-n74)
+- [Lifehacker] [Use the &#39;FORD&#39; Method to Master Small Talk](https://lifehacker.com/health/master-small-talk-ford-method)
 - [Lifehacker] [You Can Get Both of These Drones on Sale for $175 Right Now](https://lifehacker.com/ninja-drone-bundle-sale)
 - [Lifehacker] [The Apple Watch Series 9 and Ultra 2 Sales Ban Is Back On](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
 - [Dev.to/JS] [Infinite Scroll Component with Intersection Observer API](https://dev.to/mayankhttps/infinite-scroll-component-with-intersection-observer-api-f83)
@@ -41,10 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AdPeriscope](https://dev.to/rankkmarket/adperiscope-2me3)
 - [Lifehacker] [With the New Galaxy S24, Samsung Is Going All-in on AI](https://lifehacker.com/tech/new-samsung-galaxy-s24-smartphones)
 - [Dev.to/JS] [Blinkist](https://dev.to/wsovn112/blinkist-1pa0)
-- [Dev.to/JS] [Harnessing the Power of Verifik&#39;s Brazilian CPF Validation API: A Game-Changer for Data Verification](https://dev.to/verifik/harnessing-the-power-of-verifiks-brazilian-cpf-validation-api-a-game-changer-for-data-verification-1p7f)
 - [Lifehacker] [Seven Signs You Should Hire an Accountant for Your Taxes](https://lifehacker.com/money/should-you-hire-accountant)
 - [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)
-- [Dev.to/JS] [Using FormData to process form input values](https://dev.to/ngnijland/using-formdata-to-process-form-input-values-5d2e)
 - [Lifehacker] [Why Your Amazon Echo’s Light is Yellow](https://lifehacker.com/tech/why-is-my-amazon-echo-yellow)
 - [Lifehacker] [Use These New Tools to Find Better Job Prospects on LinkedIn](https://lifehacker.com/work/linkedin-new-job-search-features)
 - [Lifehacker] [The Coolest PC Tech From CES 2024](https://lifehacker.com/tech/coolest-pc-tech-from-ces-2024)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [X Might Be Leaking Data From Your iPhone](https://lifehacker.com/tech/x-leaking-data-on-your-iphone)
 - [Lifehacker] [You Can Get Free Airline Miles for a Long Wait at Baggage Claim](https://lifehacker.com/travel/earn-free-airline-miles-for-baggage-claim-wait)
 - [Lifehacker] [You Can Get Headway Premium on Sale for $60 Right Now](https://lifehacker.com/headway-premium-sale)
-- [Lifehacker] [The Best TV Podcasts to Add to Your Queue](https://lifehacker.com/entertainment/10-tv-podcasts-you-should-subscribe-to)
-- [Lifehacker] [This Is the Secret to Making the Best Cinnamon Roll Filling](https://lifehacker.com/food-drink/best-cinnamon-roll-filling-recipe)
-- [Lifehacker] [Copilot With Microsoft 365 Is Finally Available to Everyone](https://lifehacker.com/tech/copilot-pro)
-- [Lifehacker] [The Apple Watch Series 9 Is &lpar;Back&rpar; Down to Its Lowest Price Ever](https://lifehacker.com/tech/apple-watch-series-9-sale-1)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best TV Podcasts to Add to Your Queue](https://lifehacker.com/entertainment/10-tv-podcasts-you-should-subscribe-to)<!-- TECH-POSTS:END -->
 
 ---
 
