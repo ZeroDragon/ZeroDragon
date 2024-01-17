@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [History of the Web Part 2](https://dev.to/sumisastri/history-of-the-web-part-2-nc2)
+- [Dev.to/JS] [History of the Web - Part 1](https://dev.to/sumisastri/history-of-the-web-part-1-85a)
+- [Dev.to/JS] [OR VS Array Includes](https://dev.to/alwarg/or-vs-array-includes-4mad)
+- [Dev.to/JS] [🏞️5 beautiful open-source web apps to learn from and get inspired 🙇‍♀️💡](https://dev.to/matijasos/5-beautiful-open-source-web-apps-to-learn-from-and-get-inspired-280f)
+- [Dev.to/JS] [How much does it cost to develop an App in 2024?](https://dev.to/sparkouttech/how-much-does-it-cost-to-develop-an-app-in-2024-ikc)
 - [Dev.to/JS] [AppSignal’s Top 5 JavaScript Posts in 2023](https://dev.to/appsignal/appsignals-top-5-javascript-posts-in-2023-5b13)
 - [Dev.to/JS] [React Native: A Fast and Flexible Framework for Building Mobile Apps](https://dev.to/balrajola/react-native-a-fast-and-flexible-framework-for-building-mobile-apps-dpf)
 - [Dev.to/JS] [TW Elements - Create a website. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-create-a-website-free-uiux-design-course-1he)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [iOS app development services](https://dev.to/webstep/ios-app-development-services-53f5)
 - [Dev.to/JS] [Password Validation Check in HTML CSS &amp; JavaScript | Show Hide Password Toggle](https://dev.to/sharathchandark/password-validation-check-in-html-css-javascript-show-hide-password-toggle-4d7c)
 - [Dev.to/JS] [How are smart materials transforming construction in 2024?](https://dev.to/yagnapandya9/how-are-smart-materials-transforming-construction-in-2024-23lo)
-- [Dev.to/JS] [Mastering the Craft: How AZ-120 Exam Dumps Elevate Your Skills](https://dev.to/someabaropi/mastering-the-craft-how-az-120-exam-dumps-elevate-your-skills-1gh3)
-- [Dev.to/JS] [The AZ-600 Dumps Handbook: A Comprehensive Guide](https://dev.to/hitiong/the-az-600-dumps-handbook-a-comprehensive-guide-hc3)
-- [Dev.to/JS] [How To Write Material UI Components Like Radix UI And Why Component Composition Matters?](https://dev.to/woovi/how-to-write-material-ui-components-like-radix-ui-and-why-component-composition-matters-4epn)
-- [Dev.to/JS] [How I build a YouTube Video Player with ReactJS: Build the Seekbar control](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-build-the-seekbar-control-3kg)
-- [Dev.to/JS] [Decoding Weird JavaScript Behaviour](https://dev.to/bhavycodes/decoding-weird-javascript-behaviour-3e43)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-17-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)
 - [Lifehacker] [You Can Get Offcloud on Sale for $39.99 Right Now](https://lifehacker.com/tech/offcloud-sale)
