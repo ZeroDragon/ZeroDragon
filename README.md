@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create A Simple Crypto Currency Tracker With NodeJS](https://dev.to/ethand91/create-a-simple-crypto-currency-tracker-with-nodejs-34k0)
 - [Dev.to/JS] [Job Market in 2024](https://dev.to/devgancode/job-market-in-2024-2pe2)
 - [Dev.to/JS] [A Comparative Analysis of Four Best Figma Designs to Flutter Plugins](https://dev.to/function12_io/a-comparative-analysis-of-four-best-figma-designs-to-flutter-plugins-384i)
 - [Dev.to/JS] [QuickFunnel](https://dev.to/rankkmarket/quickfunnel-108o)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating an Image Expand Gallery](https://dev.to/devlawrence/creating-an-image-expand-gallery-67i)
 - [Lifehacker] [The Best Running Headphones to Buy in 2024](https://lifehacker.com/tech/best-running-headphones)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)
-- [Dev.to/JS] [Your Best Guide to Becoming a Developer Advocate](https://dev.to/arshadayvid/your-best-guide-to-becoming-a-developer-advocate-1ij3)
 - [Lifehacker] [How to Save Your iMessage Chat History When Someone Dies](https://lifehacker.com/tech/how-to-save-imessage-chat-history)
 - [Lifehacker] [X Might Be Leaking Data From Your iPhone](https://lifehacker.com/tech/x-leaking-data-on-your-iphone)
 - [Dev.to/JS] [What&#39;s coming to ngx-deploy-npm V8](https://dev.to/dianjuar/whats-coming-to-ngx-deploy-npm-v8-23gn)
