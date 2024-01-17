@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Job Market in 2024](https://dev.to/devgancode/job-market-in-2024-2pe2)
+- [Dev.to/JS] [A Comparative Analysis of Four Best Figma Designs to Flutter Plugins](https://dev.to/function12_io/a-comparative-analysis-of-four-best-figma-designs-to-flutter-plugins-384i)
+- [Dev.to/JS] [QuickFunnel](https://dev.to/rankkmarket/quickfunnel-108o)
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/annoh_karlgusta/functions-in-javascript-glg)
 - [Dev.to/JS] [Blakify](https://dev.to/wsovn112/blakify-1p76)
 - [Dev.to/JS] [A NodeJS Package that verifies if a string contains a potential SSRF attack: ssrfcheck](https://dev.to/felipperegazio/a-nodjs-package-that-verifies-if-a-string-contains-a-potential-ssrf-attack-ssrfcheck-1lpp)
@@ -46,10 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Free Airline Miles for a Long Wait at Baggage Claim](https://lifehacker.com/travel/earn-free-airline-miles-for-baggage-claim-wait)
 - [Lifehacker] [You Can Get Headway Premium on Sale for $60 Right Now](https://lifehacker.com/headway-premium-sale)
 - [Lifehacker] [The Best TV Podcasts to Add to Your Queue](https://lifehacker.com/entertainment/10-tv-podcasts-you-should-subscribe-to)
-- [Dev.to/JS] [From Greenfield to Minefield and back](https://dev.to/dadcod/from-greenfield-to-minefield-and-back-56ef)
 - [Lifehacker] [This Is the Secret to Making the Best Cinnamon Roll Filling](https://lifehacker.com/food-drink/best-cinnamon-roll-filling-recipe)
-- [Dev.to/JS] [Master Full-Stack](https://dev.to/dev_abdulhaseeb/master-full-stack-4115)
-- [Dev.to/JS] [Slot Hoki](https://dev.to/slothoki88v/slot-hoki-51k3)
 - [Lifehacker] [Copilot With Microsoft 365 Is Finally Available to Everyone](https://lifehacker.com/tech/copilot-pro)
 - [Lifehacker] [The Apple Watch Series 9 Is &lpar;Back&rpar; Down to Its Lowest Price Ever](https://lifehacker.com/tech/apple-watch-series-9-sale-1)
 - [Lifehacker] [Six Signs a Home Seller Is Hiding Something](https://lifehacker.com/money/signs-a-home-seller-is-hiding-something)
