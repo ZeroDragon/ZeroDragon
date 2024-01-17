@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-17-2024)
+- [Dev.to/JS] [JavaScript: Iterators and Generators &lpar;Part-1&rpar;💡📌](https://dev.to/rahmanmajeed/javascript-iterators-and-generators-part-1-4gj9)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)
 - [Dev.to/JS] [[EN] How to separate my files in Kaboom.js](https://dev.to/lajbel/en-how-to-separate-my-files-in-kaboomjs-272n)
 - [Dev.to/JS] [[ES] Como separar mis archivos en Kaboom.js](https://dev.to/lajbel/es-como-separar-mis-archivos-en-kaboomjs-el1)
 - [Lifehacker] [You Can Get Offcloud on Sale for $39.99 Right Now](https://lifehacker.com/tech/offcloud-sale)
@@ -50,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Apple Watch Series 9 Is &lpar;Back&rpar; Down to Its Lowest Price Ever](https://lifehacker.com/tech/apple-watch-series-9-sale-1)
 - [Lifehacker] [Six Signs a Home Seller Is Hiding Something](https://lifehacker.com/money/signs-a-home-seller-is-hiding-something)
 - [Dev.to/JS] [Unleashing Advanced Array Concepts: A Comprehensive Exploration](https://dev.to/wahidmaster00/unleashing-advanced-array-concepts-a-comprehensive-exploration-1goi)
-- [Dev.to/JS] [AI for Web Devs: Your First API Request to OpenAI](https://dev.to/austingil/ai-for-web-devs-your-first-api-request-to-openai-5boe)
 - [Lifehacker] [You Can Now Invest in Bitcoin ETFs, but Should You?](https://lifehacker.com/money/should-you-invest-in-bitcoin-etfs)
 - [Lifehacker] [Use &#39;Flowtime&#39; as a Flexible Alternative to the Pomodoro Technique](https://lifehacker.com/work/flowtime-time-management-technique)
 - [Lifehacker] [You Don&#39;t Need the Apple Watch Blood-Oxygen Feature, Anyway](https://lifehacker.com/tech/apple-watches-losing-blood-oxygen-feature)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Changes Parents Need to Know Before Filing Their Taxes This Year](https://lifehacker.com/money/changes-parents-need-to-know-tax-year-2023)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-16-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Tuesday, January 16, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-16-2024)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-15-2024)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, January 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-14-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, January 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-15-2024)<!-- TECH-POSTS:END -->
 
 ---
 
