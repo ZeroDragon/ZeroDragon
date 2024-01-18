@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Balancing Aesthetics and Functionality: The Core of Web Design](https://dev.to/angelamiton/balancing-aesthetics-and-functionality-the-core-of-web-design-16mn)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/shaunkim685/buy-verified-cash-app-account-o9i)
+- [Dev.to/JS] [How to use presence indicators like live cursors to enhance user experience](https://dev.to/vtnorton/how-to-use-presence-indicators-like-live-cursors-to-enhance-user-experience-38jn)
+- [Dev.to/JS] [What’s New in Next.js 14?](https://dev.to/yashkapure06/whats-new-in-nextjs-14-492l)
+- [Dev.to/JS] [Recriando o styled-components](https://dev.to/julianosirtori/recriando-o-styled-components-3j44)
+- [Lifehacker] [This One Ingredient Will Make Your Homemade Bread Even Softer](https://lifehacker.com/food-drink/add-instant-potato-flakes-to-bread-recipe)
 - [Lifehacker] [These Five Analog Tools Are Superior to Their Digital Versions](https://lifehacker.com/home/analog-tools-that-are-superior-to-digital)
 - [Dev.to/JS] [How To Get Experience &lpar;Even When You Don’t Have Any&rpar; 💡](https://dev.to/dragosnedelcu/how-to-get-experience-even-when-you-dont-have-any-2e00)
 - [Lifehacker] [These Are the Best Paid VPNs in 2024](https://lifehacker.com/tech/the-best-paid-vpn-services)
@@ -37,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/joelschneidertus/buy-google-voice-accounts-3f5h)
 - [Dev.to/JS] [🎉👨‍💻 Two years in the world of programming! 👨‍💻🎉](https://dev.to/richouf/two-years-in-the-world-of-programming-40mn)
 - [Lifehacker] [Use This Feature to Easily Sort Any File in Dropbox](https://lifehacker.com/tech/how-to-sort-files-automatically-in-dropbox)
-- [Dev.to/JS] [React: Understanding Props and Components](https://dev.to/kcastillo3/react-understanding-props-and-components-154d)
-- [Dev.to/JS] [Genuary 2024](https://dev.to/philipwalsh/genuary-2024-4afe)
-- [Dev.to/JS] [JavaScript: Declaring Variables, Data Types, and Dancing with Type Conversion🚀💡](https://dev.to/aniket_botre/javascript-declaring-variables-data-types-and-dancing-with-type-conversion-flg)
-- [Dev.to/JS] [My first blog here, Simply talking about javascript memory relative things.](https://dev.to/o_v_o/my-first-blog-here-simply-talking-about-javascript-memory-leak-4gln)
 - [Lifehacker] [What People Are Getting Wrong This Week: Trump&#39;s Iowa Victory](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-trump-iowa-victory)
-- [Dev.to/JS] [Local Storage in 5 mins: A Beginner’s Guide to Cookies, localStorage, and sessionStorage](https://dev.to/benajaero/local-storage-in-5-mins-a-beginners-guide-to-cookies-localstorage-and-sessionstorage-1b8i)
 - [Lifehacker] [Check Your Pantry for These Recalled Quaker Oats Products](https://lifehacker.com/health/quaker-oats-recall)
 - [Lifehacker] [The Best Wifi Extenders to Buy in 2024](https://lifehacker.com/tech/best-wi-fi-extenders-of-2024)
 - [Lifehacker] [The Signs Your Kid Feels Ignored &lpar;and the Best Ways to Handle It&rpar;](https://lifehacker.com/family/signs-your-child-is-feeling-ignored)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Signs You Should Hire an Accountant for Your Taxes](https://lifehacker.com/money/should-you-hire-accountant)
 - [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)
 - [Lifehacker] [Why Your Amazon Echo’s Light is Yellow](https://lifehacker.com/tech/why-is-my-amazon-echo-yellow)
-- [Lifehacker] [Use These New Tools to Find Better Job Prospects on LinkedIn](https://lifehacker.com/work/linkedin-new-job-search-features)
-- [Lifehacker] [The Coolest PC Tech From CES 2024](https://lifehacker.com/tech/coolest-pc-tech-from-ces-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use These New Tools to Find Better Job Prospects on LinkedIn](https://lifehacker.com/work/linkedin-new-job-search-features)<!-- TECH-POSTS:END -->
 
 ---
 
