@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React: Understanding Props and Components](https://dev.to/kcastillo3/react-understanding-props-and-components-154d)
+- [Dev.to/JS] [Genuary 2024](https://dev.to/philipwalsh/genuary-2024-4afe)
+- [Dev.to/JS] [JavaScript: Declaring Variables, Data Types, and Dancing with Type Conversion🚀💡](https://dev.to/aniket_botre/javascript-declaring-variables-data-types-and-dancing-with-type-conversion-flg)
+- [Dev.to/JS] [My first blog here, Simply talking about javascript memory relative things.](https://dev.to/o_v_o/my-first-blog-here-simply-talking-about-javascript-memory-leak-4gln)
+- [Dev.to/JS] [Local Storage in 5 mins: A Beginner’s Guide to Cookies, localStorage, and sessionStorage](https://dev.to/benajaero/local-storage-in-5-mins-a-beginners-guide-to-cookies-localstorage-and-sessionstorage-1b8i)
 - [Dev.to/JS] [Sumo Logic and Tracetest: AI-Driven Observability Meets Testing](https://dev.to/kubeshop/sumo-logic-and-tracetest-ai-driven-observability-meets-testing-3poo)
 - [Dev.to/JS] [Effortlessly Generate Structured Information with Ollama, Zod, and ModelFusion](https://dev.to/lgrammel/effortlessly-generate-structured-information-with-ollama-zod-and-modelfusion-293c)
 - [Dev.to/JS] [In-App Inbox Guide - What is it and how to implement in code?](https://dev.to/suprsend/in-app-inbox-guide-what-is-it-and-how-to-implement-in-code-44ff)
 - [Dev.to/JS] [TypeScript to Check JavaScript](https://dev.to/viniciusnyp/typescript-to-check-javascript-4le6)
+- [Lifehacker] [The Best Wifi Extenders to Buy in 2024](https://lifehacker.com/tech/best-wi-fi-extenders-of-2024)
 - [Dev.to/JS] [TypeScript para checar JavaScript](https://dev.to/viniciusnyp/typescript-para-checar-javascript-1lb3)
 - [Dev.to/JS] [Don&#39;t feed async functions to express handlers](https://dev.to/lebbe/dont-feed-async-functions-to-express-handlers-4ia7)
 - [Dev.to/JS] [Node.js Basis: Routing and Parameterized URLs Guide](https://dev.to/webcraft-notes/nodejs-basis-routing-and-parameterized-urls-guide-aia)
-- [Dev.to/JS] [TheJam.dev 2024 - A Free, 2-day Virtual WebDev Conference](https://dev.to/remotesynth/thejamdev-2024-a-free-2-day-virtual-webdev-conference-n7)
-- [Dev.to/JS] [Bi-directional Contract Testing in practice](https://dev.to/bart_krakowski/bi-directional-contract-testing-in-practice-12pm)
-- [Dev.to/JS] [Adsanswer Pro](https://dev.to/rankkmarket/adsanswer-pro-373m)
-- [Dev.to/JS] [Brain.FM](https://dev.to/wsovn112/brainfm-3o6o)
-- [Dev.to/JS] [Como usar um tsconfig.json local para personalizar a checagem do TypeScript sem influenciar seus colegas](https://dev.to/viniciusnyp/como-usar-um-tsconfigjson-local-para-personalizar-a-checagem-do-typescript-sem-atrapalhar-seus-colegas-97c)
+- [Lifehacker] [The Signs Your Kid Feels Ignored &lpar;and the Best Ways to Handle It&rpar;](https://lifehacker.com/family/signs-your-child-is-feeling-ignored)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-18-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This iPad 10 Magic Keyboard Folio Is on Sale for $100 Right Now](https://lifehacker.com/apple-magic-keyboard-folio-sale)
 - [Lifehacker] [Tip Requests Don&#39;t Have to Be a Big Deal](https://lifehacker.com/money/who-to-tip-and-how-much)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-17-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)
-- [Lifehacker] [You Can Get Offcloud on Sale for $39.99 Right Now](https://lifehacker.com/tech/offcloud-sale)
-- [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)<!-- TECH-POSTS:END -->
 
 ---
 
