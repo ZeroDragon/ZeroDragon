@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Loodgieter Utrecht tovenaars: tips, trucs en services onthuld](https://dev.to/wwloodgietersbedrijf5/loodgieter-utrecht-tovenaars-tips-trucs-en-services-onthuld-b63)
+- [Dev.to/JS] [Adding login to your Next.js app using the app directory with SuperTokens](https://dev.to/supertokens/adding-login-to-your-nextjs-app-using-the-app-directory-with-supertokens-2d3e)
+- [Dev.to/JS] [Sign up and receive $750 in your CashApp now!](https://dev.to/elizabethjthomas/sign-up-and-receive-750-in-your-cashapp-now-2j4o)
+- [Dev.to/JS] [Amazon Cognito - Function over form](https://dev.to/alanblockley/amazon-cognito-function-over-form-26ae)
 - [Dev.to/JS] [A Pragmatic Approach to Becoming an AI Engineer](https://dev.to/balrajola/a-pragmatic-approach-to-becoming-an-ai-engineer-4b22)
 - [Dev.to/JS] [Customize Enterprise Low Code App Development: Revolutionizing Business Solutions](https://dev.to/laradissouza99/customize-enterprise-low-code-app-development-revolutionizing-business-solutions-1mdk)
 - [Dev.to/JS] [Surprise and Delight: Your $10 Gift Card Awaits – Act Now!](https://dev.to/lacky88/surprise-and-delight-your-10-gift-card-awaits-act-now-56l9)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Site To Buy Gmail Accounts &amp; Cheap Price](https://dev.to/alanaplant/best-site-to-buy-gmail-accounts-cheap-price-33kl)
 - [Dev.to/JS] [How to Create a Telegram Bot with No Code - using BuildShip Workflow Builder &lpar;2024&rpar;](https://dev.to/rowy/how-to-create-a-telegram-bot-with-no-code-using-buildship-workflow-builder-2024-339n)
 - [Dev.to/JS] [Buio SaaS Multipage theme Built with Astro &amp; Tailwind CSS](https://dev.to/mike_andreuzza/buio-saas-multipage-themebuilt-with-astro-tailwind-css-43i6)
-- [Dev.to/JS] [Mastering React Native: A Roadmap for Creating Scalable Apps](https://dev.to/viettranbhsoft/mastering-react-native-a-roadmap-for-creating-scalable-apps-173g)
-- [Dev.to/JS] [👨‍💻 Daily Code 42 | FizzBuzz Exercise in 🐍 Python and 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-42-fizzbuzz-exercise-in-python-and-javascript-4bhd)
-- [Dev.to/JS] [28+ websites that use astro-font optimization library](https://dev.to/reeshee/28-websites-that-use-astro-font-optimization-library-213h)
-- [Dev.to/JS] [How to use functions in react class components?](https://dev.to/aoda-zhang/how-to-use-functions-in-react-class-components-5gi1)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-18-2024)
