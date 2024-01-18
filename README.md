@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Savastan0 CC Shop](https://dev.to/sevastan0/savastan0-cc-shop-497d)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-18-2024)
 - [Dev.to/JS] [Create a Proxy wrapper](https://dev.to/phuocng/create-a-proxy-wrapper-5d6k)
 - [Dev.to/JS] [Best Practices for useState and useEffect in React](https://dev.to/wdp/best-practices-for-usestate-and-useeffect-in-react-4aea)
 - [Lifehacker] [The Best Outdoor Speakers to Buy in 2024](https://lifehacker.com/tech/the-best-outdoor-speakers)
@@ -47,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Virtual World: A Guide to Becoming a VR Engineer](https://dev.to/balrajola/unlocking-the-virtual-world-a-guide-to-becoming-a-vr-engineer-8ee)
 - [Lifehacker] [The Fastest Growing Tech Jobs in 2024, According to LinkedIn](https://lifehacker.com/tech/the-fastest-growing-tech-jobs-in-2024)
 - [Dev.to/JS] [Focus Management: how to improve the accessibility and usability of our components](https://dev.to/micaavigliano/focus-management-how-to-improve-the-accessibility-and-usability-of-our-components-1865)
-- [Dev.to/JS] [How to Dockerize a Next.js app](https://dev.to/vorillaz/how-to-dockerize-a-nextjs-app-4e4h)
 - [Lifehacker] [The Newest Lenovo Yoga 7i 16 Is $300 Off Right Now](https://lifehacker.com/tech/lenovo-yoga-7i-16-sale-best-buy)
 - [Lifehacker] [With the New Galaxy S24, Samsung Is Going All-in on AI](https://lifehacker.com/tech/new-samsung-galaxy-s24-smartphones)
 - [Lifehacker] [Seven Signs You Should Hire an Accountant for Your Taxes](https://lifehacker.com/money/should-you-hire-accountant)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)
 - [Lifehacker] [You Can Get Offcloud on Sale for $39.99 Right Now](https://lifehacker.com/tech/offcloud-sale)
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
-- [Lifehacker] [The Best Running Headphones to Buy in 2024](https://lifehacker.com/tech/best-running-headphones)
-- [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)
-- [Lifehacker] [How to Save Your iMessage Chat History When Someone Dies](https://lifehacker.com/tech/how-to-save-imessage-chat-history)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Running Headphones to Buy in 2024](https://lifehacker.com/tech/best-running-headphones)<!-- TECH-POSTS:END -->
 
 ---
 
