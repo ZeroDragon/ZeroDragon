@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Pragmatic Approach to Becoming an AI Engineer](https://dev.to/balrajola/a-pragmatic-approach-to-becoming-an-ai-engineer-4b22)
+- [Dev.to/JS] [Customize Enterprise Low Code App Development: Revolutionizing Business Solutions](https://dev.to/laradissouza99/customize-enterprise-low-code-app-development-revolutionizing-business-solutions-1mdk)
+- [Dev.to/JS] [Surprise and Delight: Your $10 Gift Card Awaits – Act Now!](https://dev.to/lacky88/surprise-and-delight-your-10-gift-card-awaits-act-now-56l9)
 - [Dev.to/JS] [E-Book Share Using Next.js 14, Prisma, TailwindCSS &amp; Next Auth 🤩](https://dev.to/devtips3/e-book-share-using-nextjs-14-prisma-tailwindcss-next-auth-1451)
 - [Dev.to/JS] [5 SIMPLE WAY EARN MONEY](https://dev.to/razia122/5-simple-way-earn-money-284n)
 - [Dev.to/JS] [Best Site To Buy Gmail Accounts &amp; Cheap Price](https://dev.to/alanaplant/best-site-to-buy-gmail-accounts-cheap-price-33kl)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [👨‍💻 Daily Code 42 | FizzBuzz Exercise in 🐍 Python and 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-42-fizzbuzz-exercise-in-python-and-javascript-4bhd)
 - [Dev.to/JS] [28+ websites that use astro-font optimization library](https://dev.to/reeshee/28-websites-that-use-astro-font-optimization-library-213h)
 - [Dev.to/JS] [How to use functions in react class components?](https://dev.to/aoda-zhang/how-to-use-functions-in-react-class-components-5gi1)
-- [Dev.to/JS] [From Idea to Material | Printing Flawlessness in Las Vegas](https://dev.to/aqeel/from-idea-to-material-printing-flawlessness-in-las-vegas-20e2)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
-- [Dev.to/JS] [At Inspire Command We Make Magic Happen! Our digital agency is optimized for producing exceptional end results.](https://dev.to/inspirecommand/at-inspire-command-we-make-magic-happenour-digital-agency-is-optimized-for-producing-exceptional-end-results-5djh)
-- [Dev.to/JS] [Top 20 Must-Know Tips for Web Development](https://dev.to/rohitkhokhar/top-20-must-know-tips-for-web-development-42aj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-18-2024)
 - [Lifehacker] [The Best Outdoor Speakers to Buy in 2024](https://lifehacker.com/tech/the-best-outdoor-speakers)
