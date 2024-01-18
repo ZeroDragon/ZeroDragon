@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Proxy wrapper](https://dev.to/phuocng/create-a-proxy-wrapper-5d6k)
+- [Dev.to/JS] [Best Practices for useState and useEffect in React](https://dev.to/wdp/best-practices-for-usestate-and-useeffect-in-react-4aea)
 - [Lifehacker] [The Best Outdoor Speakers to Buy in 2024](https://lifehacker.com/tech/the-best-outdoor-speakers)
 - [Lifehacker] [You Can Get a Year of NeuroNation for $40 Right Now](https://lifehacker.com/neuronation-subscription-sale)
 - [Lifehacker] [The Secret to a Thicker, Restaurant-Style Lasagna](https://lifehacker.com/food-drink/how-to-make-restaurant-style-lasagna)
@@ -47,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Focus Management: how to improve the accessibility and usability of our components](https://dev.to/micaavigliano/focus-management-how-to-improve-the-accessibility-and-usability-of-our-components-1865)
 - [Dev.to/JS] [How to Dockerize a Next.js app](https://dev.to/vorillaz/how-to-dockerize-a-nextjs-app-4e4h)
 - [Lifehacker] [The Newest Lenovo Yoga 7i 16 Is $300 Off Right Now](https://lifehacker.com/tech/lenovo-yoga-7i-16-sale-best-buy)
-- [Dev.to/JS] [Drag and Drop Components with basic CSS &amp; Javascript](https://dev.to/mayankhttps/drag-and-drop-components-with-basic-css-javascript-3jbd)
-- [Dev.to/JS] [AdPeriscope](https://dev.to/rankkmarket/adperiscope-2me3)
 - [Lifehacker] [With the New Galaxy S24, Samsung Is Going All-in on AI](https://lifehacker.com/tech/new-samsung-galaxy-s24-smartphones)
 - [Lifehacker] [Seven Signs You Should Hire an Accountant for Your Taxes](https://lifehacker.com/money/should-you-hire-accountant)
 - [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)
