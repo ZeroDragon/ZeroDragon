@@ -26,10 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript is freaking hard!](https://dev.to/codingcatdev/typescript-is-freaking-hard-20k6)
+- [Lifehacker] [Why You Should Still Walk Your Dog in Cold Weather &lpar;and What to Do When You Can’t&rpar;](https://lifehacker.com/family/how-to-walk-a-dog-in-cold-weather-and-why-you-should)
 - [Dev.to/JS] [ReScript: Rust like features for JavaScript](https://dev.to/jderochervlk/rescript-rust-like-features-for-javascript-27ig)
+- [Lifehacker] [You Can Try Google Lens’ Powerful AI Search Tool Right Now](https://lifehacker.com/tech/how-to-use-google-lens-ai-search)
 - [Lifehacker] [It Might Finally Be an Okay Time to Buy a Car This Year](https://lifehacker.com/money/should-you-buy-a-car-this-year)
 - [Dev.to/JS] [Balancing Aesthetics and Functionality: The Core of Web Design](https://dev.to/angelamiton/balancing-aesthetics-and-functionality-the-core-of-web-design-16mn)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/shaunkim685/buy-verified-cash-app-account-o9i)
 - [Lifehacker] [The Dyson Zone Noise-Canceling and Air-Purifying Headphones Are 46% Off Today](https://lifehacker.com/tech/dyson-zone-sale)
 - [Dev.to/JS] [How to use presence indicators like live cursors to enhance user experience](https://dev.to/vtnorton/how-to-use-presence-indicators-like-live-cursors-to-enhance-user-experience-38jn)
 - [Dev.to/JS] [What’s New in Next.js 14?](https://dev.to/yashkapure06/whats-new-in-nextjs-14-492l)
@@ -41,9 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clean Code - Part 3](https://dev.to/sumisastri/clean-code-part-3-522b)
 - [Dev.to/JS] [Clean Code - Part 2](https://dev.to/sumisastri/clean-code-part-2-30jm)
 - [Dev.to/JS] [Clean Code - Part 1](https://dev.to/sumisastri/clean-code-part-1-7h3)
+- [Dev.to/JS] [Mastering Shadow DOM Manipulation with JavaScript and TypeScript](https://dev.to/r4nd3l/mastering-shadow-dom-manipulation-with-javascript-and-typescript-4843)
 - [Lifehacker] [How to Extract Embedded Images From a Google Doc](https://lifehacker.com/tech/how-to-extract-google-doc-image)
 - [Dev.to/JS] [Caesar Cipher in JavaScript: Simple Magic of Encryption with 3 Shifts](https://dev.to/maksszymczak/caesar-cipher-in-javascript-simple-magic-of-encryption-with-3-shifts-2mc5)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/joelschneidertus/buy-google-voice-accounts-3f5h)
 - [Lifehacker] [Use This Feature to Easily Sort Any File in Dropbox](https://lifehacker.com/tech/how-to-sort-files-automatically-in-dropbox)
 - [Lifehacker] [What People Are Getting Wrong This Week: Trump&#39;s Iowa Victory](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-trump-iowa-victory)
 - [Lifehacker] [Check Your Pantry for These Recalled Quaker Oats Products](https://lifehacker.com/health/quaker-oats-recall)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Apple Watch Series 9 and Ultra 2 Sales Ban Is Back On](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
 - [Lifehacker] [The Fastest Growing Tech Jobs in 2024, According to LinkedIn](https://lifehacker.com/tech/the-fastest-growing-tech-jobs-in-2024)
 - [Lifehacker] [The Newest Lenovo Yoga 7i 16 Is $300 Off Right Now](https://lifehacker.com/tech/lenovo-yoga-7i-16-sale-best-buy)
-- [Lifehacker] [With the New Galaxy S24, Samsung Is Going All-in on AI](https://lifehacker.com/tech/new-samsung-galaxy-s24-smartphones)
-- [Lifehacker] [Seven Signs You Should Hire an Accountant for Your Taxes](https://lifehacker.com/money/should-you-hire-accountant)
-- [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [With the New Galaxy S24, Samsung Is Going All-in on AI](https://lifehacker.com/tech/new-samsung-galaxy-s24-smartphones)<!-- TECH-POSTS:END -->
 
 ---
 
