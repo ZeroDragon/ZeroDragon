@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Widget counting](https://dev.to/jihedbrahim/widget-counting-2i3o)
+- [Lifehacker] [These Are the Best Features Coming in iOS 17.3 Next Week](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)
 - [Dev.to/JS] [BuildShip is Awesome!](https://dev.to/beebombshell/buildship-is-awesome-4ck8)
+- [Lifehacker] [Where to Get an Apple Watch With a Blood Oxygen Sensor &lpar;Before They’re Gone for Good&rpar;](https://lifehacker.com/tech/apple-watch-series-9-ultra-2-with-a-blood-oxygen-sensor)
+- [Lifehacker] [The Best Gaming Headsets to Buy in 2024](https://lifehacker.com/tech/the-best-headsets-for-gaming)
 - [Dev.to/JS] [Efficient Event Debugging in JavaScript: A Guide to monitorEvents](https://dev.to/r4nd3l/efficient-event-debugging-in-javascript-a-guide-to-monitorevents-4kk6)
 - [Lifehacker] [&#39;Disease X&#39; Is a Thought Experiment, Not a Real Disease](https://lifehacker.com/health/what-is-disease-x)
 - [Lifehacker] [How Fractional Ownership Can Help You Actually Afford a House or Car](https://lifehacker.com/money/what-is-fractional-ownership)
@@ -35,7 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Still Walk Your Dog in Cold Weather &lpar;and What to Do When You Can’t&rpar;](https://lifehacker.com/family/how-to-walk-a-dog-in-cold-weather-and-why-you-should)
 - [Dev.to/JS] [ReScript: Rust like features for JavaScript](https://dev.to/jderochervlk/rescript-rust-like-features-for-javascript-27ig)
 - [Lifehacker] [You Can Try Google Lens’ Powerful AI Search Tool Right Now](https://lifehacker.com/tech/how-to-use-google-lens-ai-search)
-- [Lifehacker] [It Might Finally Be an Okay Time to Buy a Car This Year](https://lifehacker.com/money/should-you-buy-a-car-this-year)
+- [Lifehacker] [It Might Finally Be an OK Time to Buy a Car This Year](https://lifehacker.com/money/should-you-buy-a-car-this-year)
 - [Dev.to/JS] [Balancing Aesthetics and Functionality: The Core of Web Design](https://dev.to/angelamiton/balancing-aesthetics-and-functionality-the-core-of-web-design-16mn)
 - [Lifehacker] [The Dyson Zone Noise-Canceling and Air-Purifying Headphones Are 46% Off Today](https://lifehacker.com/tech/dyson-zone-sale)
 - [Dev.to/JS] [How to use presence indicators like live cursors to enhance user experience](https://dev.to/vtnorton/how-to-use-presence-indicators-like-live-cursors-to-enhance-user-experience-38jn)
@@ -47,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Paid VPNs in 2024](https://lifehacker.com/tech/the-best-paid-vpn-services)
 - [Dev.to/JS] [Clean Code - Part 3](https://dev.to/sumisastri/clean-code-part-3-522b)
 - [Dev.to/JS] [Clean Code - Part 2](https://dev.to/sumisastri/clean-code-part-2-30jm)
-- [Dev.to/JS] [Clean Code - Part 1](https://dev.to/sumisastri/clean-code-part-1-7h3)
 - [Lifehacker] [How to Extract Embedded Images From a Google Doc](https://lifehacker.com/tech/how-to-extract-google-doc-image)
 - [Lifehacker] [Use This Feature to Easily Sort Any File in Dropbox](https://lifehacker.com/tech/how-to-sort-files-automatically-in-dropbox)
 - [Lifehacker] [What People Are Getting Wrong This Week: Trump&#39;s Iowa Victory](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-trump-iowa-victory)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Secret to a Thicker, Restaurant-Style Lasagna](https://lifehacker.com/food-drink/how-to-make-restaurant-style-lasagna)
 - [Lifehacker] [You’ll Soon Be Able to Google Search by Drawing a Circle](https://lifehacker.com/tech/what-is-google-circle-to-search)
 - [Lifehacker] [The Google Pixel 8 Is $150 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
-- [Lifehacker] [The Best Kindle for Every Type of Reader](https://lifehacker.com/tech/the-best-kindles-of-2024)
-- [Lifehacker] [Use the &#39;FORD&#39; Method to Master Small Talk](https://lifehacker.com/health/master-small-talk-ford-method)
-- [Lifehacker] [You Can Get Both of These Drones on Sale for $175 Right Now](https://lifehacker.com/ninja-drone-bundle-sale)
-- [Lifehacker] [The Apple Watch Series 9 and Ultra 2 Sales Ban Is Back On](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Kindle for Every Type of Reader](https://lifehacker.com/tech/the-best-kindles-of-2024)<!-- TECH-POSTS:END -->
 
 ---
 
