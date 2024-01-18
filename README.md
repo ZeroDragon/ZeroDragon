@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Human Element in Testing: Nurturing Soft Skills for Testers](https://dev.to/miracool/the-human-element-in-testing-nurturing-soft-skills-for-testers-173m)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Create a local copy](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-create-a-local-copy-1n59)
 - [Dev.to/JS] [How To Collect Temporal.io Logs Using Axiom And Pino](https://dev.to/pmbanugo/how-to-collect-temporalio-logs-using-axiom-and-pino-8bc)
 - [Lifehacker] [The Google Pixel 8 Is $150 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Drag and Drop Components with basic CSS &amp; Javascript](https://dev.to/mayankhttps/drag-and-drop-components-with-basic-css-javascript-3jbd)
 - [Dev.to/JS] [AdPeriscope](https://dev.to/rankkmarket/adperiscope-2me3)
 - [Lifehacker] [With the New Galaxy S24, Samsung Is Going All-in on AI](https://lifehacker.com/tech/new-samsung-galaxy-s24-smartphones)
-- [Dev.to/JS] [Blinkist](https://dev.to/wsovn112/blinkist-1pa0)
 - [Lifehacker] [Seven Signs You Should Hire an Accountant for Your Taxes](https://lifehacker.com/money/should-you-hire-accountant)
 - [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)
 - [Lifehacker] [Why Your Amazon Echo’s Light is Yellow](https://lifehacker.com/tech/why-is-my-amazon-echo-yellow)
