@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Dev.to/JS] [At Inspire Command We Make Magic Happen! Our digital agency is optimized for producing exceptional end results.](https://dev.to/inspirecommand/at-inspire-command-we-make-magic-happenour-digital-agency-is-optimized-for-producing-exceptional-end-results-5djh)
 - [Dev.to/JS] [Top 20 Must-Know Tips for Web Development](https://dev.to/rohitkhokhar/top-20-must-know-tips-for-web-development-42aj)
 - [Dev.to/JS] [Magic of TypeScript Generics](https://dev.to/bhavycodes/magic-of-typescript-generics-4j15)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-17-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)
 - [Lifehacker] [You Can Get Offcloud on Sale for $39.99 Right Now](https://lifehacker.com/tech/offcloud-sale)
-- [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
-- [Lifehacker] [The Best Running Headphones to Buy in 2024](https://lifehacker.com/tech/best-running-headphones)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)<!-- TECH-POSTS:END -->
 
 ---
 
