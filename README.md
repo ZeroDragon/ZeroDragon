@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use functions in react class components?](https://dev.to/aoda-zhang/how-to-use-functions-in-react-class-components-5gi1)
+- [Dev.to/JS] [From Idea to Material | Printing Flawlessness in Las Vegas](https://dev.to/aqeel/from-idea-to-material-printing-flawlessness-in-las-vegas-20e2)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Dev.to/JS] [At Inspire Command We Make Magic Happen! Our digital agency is optimized for producing exceptional end results.](https://dev.to/inspirecommand/at-inspire-command-we-make-magic-happenour-digital-agency-is-optimized-for-producing-exceptional-end-results-5djh)
 - [Dev.to/JS] [Top 20 Must-Know Tips for Web Development](https://dev.to/rohitkhokhar/top-20-must-know-tips-for-web-development-42aj)
@@ -39,11 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-18-2024)
 - [Dev.to/JS] [Create a Proxy wrapper](https://dev.to/phuocng/create-a-proxy-wrapper-5d6k)
-- [Dev.to/JS] [Best Practices for useState and useEffect in React](https://dev.to/wdp/best-practices-for-usestate-and-useeffect-in-react-4aea)
 - [Lifehacker] [The Best Outdoor Speakers to Buy in 2024](https://lifehacker.com/tech/the-best-outdoor-speakers)
 - [Lifehacker] [You Can Get a Year of NeuroNation for $40 Right Now](https://lifehacker.com/neuronation-subscription-sale)
 - [Lifehacker] [The Secret to a Thicker, Restaurant-Style Lasagna](https://lifehacker.com/food-drink/how-to-make-restaurant-style-lasagna)
-- [Dev.to/JS] [The Human Element in Testing: Nurturing Soft Skills for Testers](https://dev.to/miracool/the-human-element-in-testing-nurturing-soft-skills-for-testers-173m)
 - [Lifehacker] [You’ll Soon Be Able to Google Search by Drawing a Circle](https://lifehacker.com/tech/what-is-google-circle-to-search)
 - [Lifehacker] [The Google Pixel 8 Is $150 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
 - [Lifehacker] [The Best Kindle for Every Type of Reader](https://lifehacker.com/tech/the-best-kindles-of-2024)
