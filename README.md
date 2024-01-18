@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buio SaaS Multipage theme Built with Astro &amp; Tailwind CSS](https://dev.to/mike_andreuzza/buio-saas-multipage-themebuilt-with-astro-tailwind-css-43i6)
+- [Dev.to/JS] [Mastering React Native: A Roadmap for Creating Scalable Apps](https://dev.to/viettranbhsoft/mastering-react-native-a-roadmap-for-creating-scalable-apps-173g)
+- [Dev.to/JS] [👨‍💻 Daily Code 42 | FizzBuzz Exercise in 🐍 Python and 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-42-fizzbuzz-exercise-in-python-and-javascript-4bhd)
+- [Dev.to/JS] [28+ websites that use astro-font optimization library](https://dev.to/reeshee/28-websites-that-use-astro-font-optimization-library-213h)
 - [Dev.to/JS] [How to use functions in react class components?](https://dev.to/aoda-zhang/how-to-use-functions-in-react-class-components-5gi1)
 - [Dev.to/JS] [From Idea to Material | Printing Flawlessness in Las Vegas](https://dev.to/aqeel/from-idea-to-material-printing-flawlessness-in-las-vegas-20e2)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Node.js and why should you use it in 2024](https://dev.to/backendbro/what-is-nodejs-and-why-should-you-use-it-in-2024-4383)
 - [Dev.to/JS] [Checkout Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/checkout-last-week-top-5-posts-taggedjavascript-1c8l)
 - [Dev.to/JS] [[React] Passing environment variables to service workers](https://dev.to/yutakusuno/react-passing-environment-variables-to-service-workers-5egj)
-- [Dev.to/JS] [ODD SIDE OF JAVASCRIPT😲!! 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭&#39;𝐬 𝐐𝐮𝐢𝐫𝐤𝐲 𝐒𝐞𝐜𝐫𝐞𝐭𝐬!](https://dev.to/big_smoke/odd-side-of-javascript--3i9)
-- [Dev.to/JS] [Upgrading to &#39;create-rp-app&#39;: A Better way to create fast react app](https://dev.to/bladearya/upgrading-to-create-rp-app-a-better-way-to-create-fast-react-app-3g9k)
-- [Dev.to/JS] [Savastan0 CC Shop](https://dev.to/sevastan0/savastan0-cc-shop-497d)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-18-2024)
-- [Dev.to/JS] [Create a Proxy wrapper](https://dev.to/phuocng/create-a-proxy-wrapper-5d6k)
 - [Lifehacker] [The Best Outdoor Speakers to Buy in 2024](https://lifehacker.com/tech/the-best-outdoor-speakers)
 - [Lifehacker] [You Can Get a Year of NeuroNation for $40 Right Now](https://lifehacker.com/neuronation-subscription-sale)
 - [Lifehacker] [The Secret to a Thicker, Restaurant-Style Lasagna](https://lifehacker.com/food-drink/how-to-make-restaurant-style-lasagna)
