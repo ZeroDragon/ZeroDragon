@@ -26,19 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Clean Code - Part 3](https://dev.to/sumisastri/clean-code-part-3-522b)
+- [Dev.to/JS] [Clean Code - Part 2](https://dev.to/sumisastri/clean-code-part-2-30jm)
+- [Dev.to/JS] [Clean Code - Part 1](https://dev.to/sumisastri/clean-code-part-1-7h3)
+- [Lifehacker] [How to Extract Embedded Images From a Google Doc](https://lifehacker.com/tech/how-to-extract-google-doc-image)
+- [Dev.to/JS] [Caesar Cipher in JavaScript: Simple Magic of Encryption with 3 Shifts](https://dev.to/maksszymczak/caesar-cipher-in-javascript-simple-magic-of-encryption-with-3-shifts-2mc5)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/joelschneidertus/buy-google-voice-accounts-3f5h)
+- [Dev.to/JS] [🎉👨‍💻 Two years in the world of programming! 👨‍💻🎉](https://dev.to/richouf/two-years-in-the-world-of-programming-40mn)
+- [Lifehacker] [Use This Feature to Easily Sort Any File in Dropbox](https://lifehacker.com/tech/how-to-sort-files-automatically-in-dropbox)
 - [Dev.to/JS] [React: Understanding Props and Components](https://dev.to/kcastillo3/react-understanding-props-and-components-154d)
 - [Dev.to/JS] [Genuary 2024](https://dev.to/philipwalsh/genuary-2024-4afe)
 - [Dev.to/JS] [JavaScript: Declaring Variables, Data Types, and Dancing with Type Conversion🚀💡](https://dev.to/aniket_botre/javascript-declaring-variables-data-types-and-dancing-with-type-conversion-flg)
 - [Dev.to/JS] [My first blog here, Simply talking about javascript memory relative things.](https://dev.to/o_v_o/my-first-blog-here-simply-talking-about-javascript-memory-leak-4gln)
+- [Lifehacker] [What People Are Getting Wrong This Week: Trump&#39;s Iowa Victory](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-trump-iowa-victory)
 - [Dev.to/JS] [Local Storage in 5 mins: A Beginner’s Guide to Cookies, localStorage, and sessionStorage](https://dev.to/benajaero/local-storage-in-5-mins-a-beginners-guide-to-cookies-localstorage-and-sessionstorage-1b8i)
+- [Lifehacker] [Check Your Pantry for These Recalled Quaker Oats Products](https://lifehacker.com/health/quaker-oats-recall)
 - [Dev.to/JS] [Sumo Logic and Tracetest: AI-Driven Observability Meets Testing](https://dev.to/kubeshop/sumo-logic-and-tracetest-ai-driven-observability-meets-testing-3poo)
-- [Dev.to/JS] [Effortlessly Generate Structured Information with Ollama, Zod, and ModelFusion](https://dev.to/lgrammel/effortlessly-generate-structured-information-with-ollama-zod-and-modelfusion-293c)
-- [Dev.to/JS] [In-App Inbox Guide - What is it and how to implement in code?](https://dev.to/suprsend/in-app-inbox-guide-what-is-it-and-how-to-implement-in-code-44ff)
-- [Dev.to/JS] [TypeScript to Check JavaScript](https://dev.to/viniciusnyp/typescript-to-check-javascript-4le6)
 - [Lifehacker] [The Best Wifi Extenders to Buy in 2024](https://lifehacker.com/tech/best-wi-fi-extenders-of-2024)
-- [Dev.to/JS] [TypeScript para checar JavaScript](https://dev.to/viniciusnyp/typescript-para-checar-javascript-1lb3)
-- [Dev.to/JS] [Don&#39;t feed async functions to express handlers](https://dev.to/lebbe/dont-feed-async-functions-to-express-handlers-4ia7)
-- [Dev.to/JS] [Node.js Basis: Routing and Parameterized URLs Guide](https://dev.to/webcraft-notes/nodejs-basis-routing-and-parameterized-urls-guide-aia)
 - [Lifehacker] [The Signs Your Kid Feels Ignored &lpar;and the Best Ways to Handle It&rpar;](https://lifehacker.com/family/signs-your-child-is-feeling-ignored)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These New Tools to Find Better Job Prospects on LinkedIn](https://lifehacker.com/work/linkedin-new-job-search-features)
 - [Lifehacker] [The Coolest PC Tech From CES 2024](https://lifehacker.com/tech/coolest-pc-tech-from-ces-2024)
 - [Lifehacker] [How to Help Clothing-Sensitive Kids Manage Their Discomfort](https://lifehacker.com/family/how-to-help-clothing-sensitive-kids)
-- [Lifehacker] [You Can Get Much Better Amazon Search Results](https://lifehacker.com/tech/how-to-get-better-amazon-search-results)
-- [Lifehacker] [This iPad 10 Magic Keyboard Folio Is on Sale for $100 Right Now](https://lifehacker.com/apple-magic-keyboard-folio-sale)
-- [Lifehacker] [Tip Requests Don&#39;t Have to Be a Big Deal](https://lifehacker.com/money/who-to-tip-and-how-much)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-17-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Wednesday, January 17, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-17-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Much Better Amazon Search Results](https://lifehacker.com/tech/how-to-get-better-amazon-search-results)<!-- TECH-POSTS:END -->
 
 ---
 
