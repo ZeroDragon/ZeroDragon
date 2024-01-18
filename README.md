@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[React] Passing environment variables to service workers](https://dev.to/yutakusuno/react-passing-environment-variables-to-service-workers-5egj)
+- [Dev.to/JS] [ODD SIDE OF JAVASCRIPT😲!! 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭&#39;𝐬 𝐐𝐮𝐢𝐫𝐤𝐲 𝐒𝐞𝐜𝐫𝐞𝐭𝐬!](https://dev.to/big_smoke/odd-side-of-javascript--3i9)
+- [Dev.to/JS] [Upgrading to &#39;create-rp-app&#39;: A Better way to create fast react app](https://dev.to/bladearya/upgrading-to-create-rp-app-a-better-way-to-create-fast-react-app-3g9k)
 - [Dev.to/JS] [Savastan0 CC Shop](https://dev.to/sevastan0/savastan0-cc-shop-497d)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-18-2024)
@@ -46,10 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Both of These Drones on Sale for $175 Right Now](https://lifehacker.com/ninja-drone-bundle-sale)
 - [Lifehacker] [The Apple Watch Series 9 and Ultra 2 Sales Ban Is Back On](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
 - [Dev.to/JS] [Infinite Scroll Component with Intersection Observer API](https://dev.to/mayankhttps/infinite-scroll-component-with-intersection-observer-api-f83)
-- [Dev.to/JS] [Embracing Evolution: The Rapid Changes in Web Development](https://dev.to/angelamiton/embracing-evolution-the-rapid-changes-in-web-development-4if1)
-- [Dev.to/JS] [Unlocking the Virtual World: A Guide to Becoming a VR Engineer](https://dev.to/balrajola/unlocking-the-virtual-world-a-guide-to-becoming-a-vr-engineer-8ee)
 - [Lifehacker] [The Fastest Growing Tech Jobs in 2024, According to LinkedIn](https://lifehacker.com/tech/the-fastest-growing-tech-jobs-in-2024)
-- [Dev.to/JS] [Focus Management: how to improve the accessibility and usability of our components](https://dev.to/micaavigliano/focus-management-how-to-improve-the-accessibility-and-usability-of-our-components-1865)
 - [Lifehacker] [The Newest Lenovo Yoga 7i 16 Is $300 Off Right Now](https://lifehacker.com/tech/lenovo-yoga-7i-16-sale-best-buy)
 - [Lifehacker] [With the New Galaxy S24, Samsung Is Going All-in on AI](https://lifehacker.com/tech/new-samsung-galaxy-s24-smartphones)
 - [Lifehacker] [Seven Signs You Should Hire an Accountant for Your Taxes](https://lifehacker.com/money/should-you-hire-accountant)
