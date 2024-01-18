@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BuildShip is Awesome!](https://dev.to/beebombshell/buildship-is-awesome-4ck8)
 - [Dev.to/JS] [Efficient Event Debugging in JavaScript: A Guide to monitorEvents](https://dev.to/r4nd3l/efficient-event-debugging-in-javascript-a-guide-to-monitorevents-4kk6)
+- [Lifehacker] [&#39;Disease X&#39; Is a Thought Experiment, Not a Real Disease](https://lifehacker.com/health/what-is-disease-x)
+- [Lifehacker] [How Fractional Ownership Can Help You Actually Afford a House or Car](https://lifehacker.com/money/what-is-fractional-ownership)
 - [Lifehacker] [What Happens When You Upload NSFW Gameplay Clips to the Xbox Network](https://lifehacker.com/entertainment/avoid-getting-banned-for-capturing-nsfw-xbox-footage)
 - [Dev.to/JS] [TypeScript is freaking hard!](https://dev.to/codingcatdev/typescript-is-freaking-hard-20k6)
 - [Lifehacker] [Why You Should Still Walk Your Dog in Cold Weather &lpar;and What to Do When You Can’t&rpar;](https://lifehacker.com/family/how-to-walk-a-dog-in-cold-weather-and-why-you-should)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clean Code - Part 3](https://dev.to/sumisastri/clean-code-part-3-522b)
 - [Dev.to/JS] [Clean Code - Part 2](https://dev.to/sumisastri/clean-code-part-2-30jm)
 - [Dev.to/JS] [Clean Code - Part 1](https://dev.to/sumisastri/clean-code-part-1-7h3)
-- [Dev.to/JS] [Mastering Shadow DOM Manipulation with JavaScript and TypeScript](https://dev.to/r4nd3l/mastering-shadow-dom-manipulation-with-javascript-and-typescript-4843)
 - [Lifehacker] [How to Extract Embedded Images From a Google Doc](https://lifehacker.com/tech/how-to-extract-google-doc-image)
 - [Lifehacker] [Use This Feature to Easily Sort Any File in Dropbox](https://lifehacker.com/tech/how-to-sort-files-automatically-in-dropbox)
 - [Lifehacker] [What People Are Getting Wrong This Week: Trump&#39;s Iowa Victory](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-trump-iowa-victory)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Kindle for Every Type of Reader](https://lifehacker.com/tech/the-best-kindles-of-2024)
 - [Lifehacker] [Use the &#39;FORD&#39; Method to Master Small Talk](https://lifehacker.com/health/master-small-talk-ford-method)
 - [Lifehacker] [You Can Get Both of These Drones on Sale for $175 Right Now](https://lifehacker.com/ninja-drone-bundle-sale)
-- [Lifehacker] [The Apple Watch Series 9 and Ultra 2 Sales Ban Is Back On](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)
-- [Lifehacker] [The Fastest Growing Tech Jobs in 2024, According to LinkedIn](https://lifehacker.com/tech/the-fastest-growing-tech-jobs-in-2024)
-- [Lifehacker] [The Newest Lenovo Yoga 7i 16 Is $300 Off Right Now](https://lifehacker.com/tech/lenovo-yoga-7i-16-sale-best-buy)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Apple Watch Series 9 and Ultra 2 Sales Ban Is Back On](https://lifehacker.com/tech/why-apple-watches-are-being-pulled-off-the-market)<!-- TECH-POSTS:END -->
 
 ---
 
