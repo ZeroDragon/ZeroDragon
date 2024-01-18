@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [E-Book Share Using Next.js 14, Prisma, TailwindCSS &amp; Next Auth 🤩](https://dev.to/devtips3/e-book-share-using-nextjs-14-prisma-tailwindcss-next-auth-1451)
+- [Dev.to/JS] [5 SIMPLE WAY EARN MONEY](https://dev.to/razia122/5-simple-way-earn-money-284n)
+- [Dev.to/JS] [Best Site To Buy Gmail Accounts &amp; Cheap Price](https://dev.to/alanaplant/best-site-to-buy-gmail-accounts-cheap-price-33kl)
+- [Dev.to/JS] [How to Create a Telegram Bot with No Code - using BuildShip Workflow Builder &lpar;2024&rpar;](https://dev.to/rowy/how-to-create-a-telegram-bot-with-no-code-using-buildship-workflow-builder-2024-339n)
 - [Dev.to/JS] [Buio SaaS Multipage theme Built with Astro &amp; Tailwind CSS](https://dev.to/mike_andreuzza/buio-saas-multipage-themebuilt-with-astro-tailwind-css-43i6)
 - [Dev.to/JS] [Mastering React Native: A Roadmap for Creating Scalable Apps](https://dev.to/viettranbhsoft/mastering-react-native-a-roadmap-for-creating-scalable-apps-173g)
 - [Dev.to/JS] [👨‍💻 Daily Code 42 | FizzBuzz Exercise in 🐍 Python and 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-42-fizzbuzz-exercise-in-python-and-javascript-4bhd)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Dev.to/JS] [At Inspire Command We Make Magic Happen! Our digital agency is optimized for producing exceptional end results.](https://dev.to/inspirecommand/at-inspire-command-we-make-magic-happenour-digital-agency-is-optimized-for-producing-exceptional-end-results-5djh)
 - [Dev.to/JS] [Top 20 Must-Know Tips for Web Development](https://dev.to/rohitkhokhar/top-20-must-know-tips-for-web-development-42aj)
-- [Dev.to/JS] [Magic of TypeScript Generics](https://dev.to/bhavycodes/magic-of-typescript-generics-4j15)
-- [Dev.to/JS] [What is Node.js and why should you use it in 2024](https://dev.to/backendbro/what-is-nodejs-and-why-should-you-use-it-in-2024-4383)
-- [Dev.to/JS] [Checkout Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/checkout-last-week-top-5-posts-taggedjavascript-1c8l)
-- [Dev.to/JS] [[React] Passing environment variables to service workers](https://dev.to/yutakusuno/react-passing-environment-variables-to-service-workers-5egj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-18-2024)
 - [Lifehacker] [The Best Outdoor Speakers to Buy in 2024](https://lifehacker.com/tech/the-best-outdoor-speakers)
