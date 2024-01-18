@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Outdoor Speakers to Buy in 2024](https://lifehacker.com/tech/the-best-outdoor-speakers)
+- [Lifehacker] [You Can Get a Year of NeuroNation for $40 Right Now](https://lifehacker.com/neuronation-subscription-sale)
+- [Lifehacker] [The Secret to a Thicker, Restaurant-Style Lasagna](https://lifehacker.com/food-drink/how-to-make-restaurant-style-lasagna)
 - [Dev.to/JS] [The Human Element in Testing: Nurturing Soft Skills for Testers](https://dev.to/miracool/the-human-element-in-testing-nurturing-soft-skills-for-testers-173m)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Create a local copy](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-create-a-local-copy-1n59)
+- [Lifehacker] [You’ll Soon Be Able to Google Search by Drawing a Circle](https://lifehacker.com/tech/what-is-google-circle-to-search)
 - [Dev.to/JS] [How To Collect Temporal.io Logs Using Axiom And Pino](https://dev.to/pmbanugo/how-to-collect-temporalio-logs-using-axiom-and-pino-8bc)
 - [Lifehacker] [The Google Pixel 8 Is $150 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
 - [Lifehacker] [The Best Kindle for Every Type of Reader](https://lifehacker.com/tech/the-best-kindles-of-2024)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Ultra-Tender Biscuits With Oat Flour](https://lifehacker.com/make-ultra-tender-biscuits-with-oat-flour-1849592254)
 - [Lifehacker] [The Best Running Headphones to Buy in 2024](https://lifehacker.com/tech/best-running-headphones)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-tech-deals-from-best-buy-drops)
-- [Lifehacker] [How to Save Your iMessage Chat History When Someone Dies](https://lifehacker.com/tech/how-to-save-imessage-chat-history)
-- [Lifehacker] [X Might Be Leaking Data From Your iPhone](https://lifehacker.com/tech/x-leaking-data-on-your-iphone)
-- [Lifehacker] [You Can Get Free Airline Miles for a Long Wait at Baggage Claim](https://lifehacker.com/travel/earn-free-airline-miles-for-baggage-claim-wait)
-- [Lifehacker] [You Can Get Headway Premium on Sale for $60 Right Now](https://lifehacker.com/headway-premium-sale)
-- [Lifehacker] [The Best TV Podcasts to Add to Your Queue](https://lifehacker.com/entertainment/10-tv-podcasts-you-should-subscribe-to)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Save Your iMessage Chat History When Someone Dies](https://lifehacker.com/tech/how-to-save-imessage-chat-history)<!-- TECH-POSTS:END -->
 
 ---
 
