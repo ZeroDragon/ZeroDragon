@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FREE CONFERENCE WITH JAM.DEV](https://dev.to/jeffchavez_dev/free-conference-with-jamdev-2j60)
+- [Dev.to/JS] [Javascript array and array methods for beginners - Part 1](https://dev.to/sir_radar/javascript-array-and-array-methods-for-beginners-part-1-34cj)
 - [Dev.to/JS] [𝐅𝐫𝐚𝐦𝐢𝐧𝐠 𝐒𝐭𝐚𝐭𝐞 𝐃𝐞𝐬𝐢𝐠𝐧](https://dev.to/rajib18197/-1c01)
 - [Dev.to/JS] [Criando um Repositório Genérico de Leitura com Generics, TypeORM e SQLite no NestJS 🚀](https://dev.to/jhonesgoncalves/criando-um-repositorio-generico-de-leitura-com-generics-typeorm-e-sqlite-para-implementacao-de-cqs-no-nestjs-17gl)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-19-2024)
@@ -48,10 +50,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Happens When You Upload NSFW Gameplay Clips to the Xbox Network](https://lifehacker.com/entertainment/avoid-getting-banned-for-capturing-nsfw-xbox-footage)
 - [Dev.to/JS] [TypeScript is freaking hard!](https://dev.to/codingcatdev/typescript-is-freaking-hard-20k6)
 - [Lifehacker] [Why You Should Still Walk Your Dog in Cold Weather &lpar;and What to Do When You Can’t&rpar;](https://lifehacker.com/family/how-to-walk-a-dog-in-cold-weather-and-why-you-should)
-- [Dev.to/JS] [ReScript: Rust like features for JavaScript](https://dev.to/jderochervlk/rescript-rust-like-features-for-javascript-27ig)
 - [Lifehacker] [You Can Try Google Lens’ Powerful AI Search Tool Right Now](https://lifehacker.com/tech/how-to-use-google-lens-ai-search)
 - [Lifehacker] [It Might Finally Be an OK Time to Buy a Car This Year](https://lifehacker.com/money/should-you-buy-a-car-this-year)
-- [Dev.to/JS] [Balancing Aesthetics and Functionality: The Core of Web Design](https://dev.to/angelamiton/balancing-aesthetics-and-functionality-the-core-of-web-design-16mn)
 - [Lifehacker] [The Dyson Zone Noise-Canceling and Air-Purifying Headphones Are 46% Off Today](https://lifehacker.com/tech/dyson-zone-sale)
 - [Lifehacker] [This One Ingredient Will Make Your Homemade Bread Even Softer](https://lifehacker.com/food-drink/add-instant-potato-flakes-to-bread-recipe)
 - [Lifehacker] [These Five Analog Tools Are Superior to Their Digital Versions](https://lifehacker.com/home/analog-tools-that-are-superior-to-digital)
