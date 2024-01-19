@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Email Obfuscation: Best Methods](https://dev.to/kairatorozobekov/email-obfuscation-best-methods-52eh)
+- [Dev.to/JS] [Why the Heck Do We Need Bundlers, Compilers, or Build Tools in Frontend Development? Unveiling 10 Reasons Why They Exist ✨](https://dev.to/_ndeyefatoudiop/why-the-heck-do-we-need-bundlers-compilers-or-build-tools-in-frontend-development-unveiling-10-reasons-why-they-exist-6nm)
 - [Dev.to/JS] [Want to Turn the JavaScript Console Into a Mean Console? Now, You Can!](https://dev.to/writech/want-to-turn-the-javascript-console-into-a-mean-console-now-you-can-1k78)
 - [Dev.to/JS] [How to Append JavaScript Data to a FormData](https://dev.to/writech/how-to-append-javascript-data-to-a-formdata-39c3)
 - [Dev.to/JS] [A Complete Guide to Regular, Dev, and Peer Dependencies in npm](https://dev.to/writech/a-complete-guide-to-regular-dev-and-peer-dependencies-in-npm-57j9)
@@ -36,8 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use the tsconfig.json &quot;paths&quot; Option in Node.js](https://dev.to/writech/how-to-use-the-tsconfigjson-paths-option-in-nodejs-13m0)
 - [Dev.to/JS] [How to Disable the Error Overlay in React in Development Mode](https://dev.to/writech/how-to-disable-the-error-overlay-in-react-in-development-mode-1j2g)
 - [Dev.to/JS] [How to Set Up Playwright in Python](https://dev.to/writech/how-to-set-up-playwright-in-python-3dh2)
-- [Dev.to/JS] [Are Programming Languages Real Languages?](https://dev.to/writech/are-programming-languages-real-languages-22oo)
-- [Dev.to/JS] [How To Deal With The ConnectionAcquireTimeoutError in Sequelize](https://dev.to/writech/how-to-deal-with-the-connectionacquiretimeouterror-in-sequelize-4f6g)
+- [Lifehacker] [What &lpar;and When&rpar; to Eat on a Long Run](https://lifehacker.com/health/what-and-when-to-eat-on-a-long-run)
+- [Lifehacker] [You Can Get AdGuard on Sale for $25 Right Now](https://lifehacker.com/adguard-sale)
+- [Lifehacker] [The Cheapest Ways to Upgrade to &#39;The Last of Us Part II Remastered&#39;](https://lifehacker.com/entertainment/the-cheapest-ways-to-upgrade-to-the-last-of-us-ii-remastered)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Paying Off Debt](https://lifehacker.com/money/mistakes-to-avoid-when-paying-off-debt)
 - [Lifehacker] [Use These Three Phrases to Fight Weight Stigma at the Doctor’s Office](https://lifehacker.com/health/how-to-fight-weight-stigma-at-doctors-office)
 - [Lifehacker] [The First Six Things to Do When You&#39;re Facing Foreclosure](https://lifehacker.com/money/do-these-things-when-facing-foreclosure)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Fractional Ownership Can Help You Actually Afford a House or Car](https://lifehacker.com/money/what-is-fractional-ownership)
 - [Lifehacker] [What Happens When You Upload NSFW Gameplay Clips to the Xbox Network](https://lifehacker.com/entertainment/avoid-getting-banned-for-capturing-nsfw-xbox-footage)
 - [Lifehacker] [Why You Should Still Walk Your Dog in Cold Weather &lpar;and What to Do When You Can’t&rpar;](https://lifehacker.com/family/how-to-walk-a-dog-in-cold-weather-and-why-you-should)
-- [Lifehacker] [You Can Try Google Lens’ Powerful AI Search Tool Right Now](https://lifehacker.com/tech/how-to-use-google-lens-ai-search)
-- [Lifehacker] [It Might Finally Be an OK Time to Buy a Car This Year](https://lifehacker.com/money/should-you-buy-a-car-this-year)
-- [Lifehacker] [The Dyson Zone Noise-Canceling and Air-Purifying Headphones Are 46% Off Today](https://lifehacker.com/tech/dyson-zone-sale)
-- [Lifehacker] [This One Ingredient Will Make Your Homemade Bread Even Softer](https://lifehacker.com/food-drink/add-instant-potato-flakes-to-bread-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Try Google Lens’ Powerful AI Search Tool Right Now](https://lifehacker.com/tech/how-to-use-google-lens-ai-search)<!-- TECH-POSTS:END -->
 
 ---
 
