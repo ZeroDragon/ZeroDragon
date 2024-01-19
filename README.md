@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Essential Guide to Domain Setup and SSL Security](https://dev.to/vijeth-simha/the-essential-guide-to-domain-setup-and-ssl-security-1m27)
+- [Dev.to/JS] [🎈The [Block] Party: A Beginner&#39;s Guide to Data Structures](https://dev.to/zanepearton/the-block-party-a-beginners-guide-to-data-structures-f3b)
+- [Dev.to/JS] [Thе Ultimatе Guidе to Making Dеlicious Friеd Chickе](https://dev.to/foodfusionfrenzy/thie-ultimatie-guidie-to-making-dielicious-friied-chickie-55ab)
+- [Dev.to/JS] [👨‍💻 Daily Code 43 | FizzBuzz Exercise in 🐍 Python and 🟨 JavaScript &lpar;round 2!&rpar;](https://dev.to/gregor_schafroth/daily-code-43-fizzbuzz-exercise-in-python-and-javascript-round-2-418e)
 - [Dev.to/JS] [Create AI Tools like building with blocks](https://dev.to/illa/create-ai-tools-like-building-with-blocks-157a)
 - [Dev.to/JS] [Derivations in Reactivity](https://dev.to/this-is-learning/derivations-in-reactivity-4fo1)
 - [Dev.to/JS] [A Guide to ESLint, Prettier, and VSCode Setup for Code Linting &amp; Formatting](https://dev.to/hkp22/a-guide-to-eslint-prettier-and-vscode-setup-for-code-linting-formatting-4845)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Avoid shuffling with .sort&lpar;&lpar;&rpar; =&gt; Math.random&lpar;&rpar; — 0.5&rpar;&rpar;](https://dev.to/wagenrace/avoid-shuffling-with-sort-mathrandom-05-94o)
 - [Dev.to/JS] [Web programming languages: the most used on the Internet](https://dev.to/sparkouttech/web-programming-languages-the-most-used-on-the-internet-2a5)
 - [Dev.to/JS] [Final year vs Placements](https://dev.to/vedansh0412/navigating-the-final-year-striking-a-balance-between-studies-and-skill-building-4p1b)
-- [Dev.to/JS] [The [Block] Party: A Beginner&#39;s Guide to Data Structures](https://dev.to/zanepearton/the-block-party-a-beginners-guide-to-data-structures-40oo)
 - [Dev.to/JS] [JavaScript, Dexie, and the Pursuit of Resilience.](https://dev.to/kwnaidoo/javascript-dexie-and-the-pursuit-of-resilience-1f5g)
-- [Dev.to/JS] [Automating access to a GitHub Repo using Stripe Webhooks and Astro Endpoints](https://dev.to/reeshee/automating-access-to-a-github-repo-using-stripe-webhooks-and-astro-endpoints-18lm)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/kennethuscott/buy-glassdoor-reviews-4mno)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/kennethuscott/buy-google-reviews-20dc)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-19-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-19-2024)
 - [Lifehacker] [Are 8K TVs Worth It in 2024?](https://lifehacker.com/tech/are-8k-tvs-worth-it-in-2024)
