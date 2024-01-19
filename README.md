@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [earn some free reward and cash by doing easy work here](https://dev.to/akramulkarim/earn-some-free-reward-and-cash-by-doing-easy-work-here-423i)
+- [Dev.to/JS] [How to get Battery Status of user Machine by using Vanilla JS](https://dev.to/shyam1806/how-to-get-battery-status-of-user-machine-by-using-vanilla-js-3cmf)
+- [Dev.to/JS] [Spazio Bianco - SaaS multipage theme Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/mike_andreuzza/spazio-bianco-saas-multipage-themebuilt-with-astro-tailwind-css-mdx-5881)
 - [Dev.to/JS] [The Essential Guide to Domain Setup and SSL Security](https://dev.to/vijeth-simha/the-essential-guide-to-domain-setup-and-ssl-security-1m27)
 - [Dev.to/JS] [🎈The [Block] Party: A Beginner&#39;s Guide to Data Structures](https://dev.to/zanepearton/the-block-party-a-beginners-guide-to-data-structures-f3b)
 - [Dev.to/JS] [Thе Ultimatе Guidе to Making Dеlicious Friеd Chickе](https://dev.to/foodfusionfrenzy/thie-ultimatie-guidie-to-making-dielicious-friied-chickie-55ab)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Guide to ESLint, Prettier, and VSCode Setup for Code Linting &amp; Formatting](https://dev.to/hkp22/a-guide-to-eslint-prettier-and-vscode-setup-for-code-linting-formatting-4845)
 - [Dev.to/JS] [A Guide to ESLint, Prettier, and VSCode Setup for Code Linting &amp; Formatting](https://dev.to/hkp22/optimizing-javascript-development-a-guide-to-eslint-prettier-and-vscode-setup-for-code-linting-formatting-37b3)
 - [Dev.to/JS] [Avoid shuffling with .sort&lpar;&lpar;&rpar; =&gt; Math.random&lpar;&rpar; — 0.5&rpar;&rpar;](https://dev.to/wagenrace/avoid-shuffling-with-sort-mathrandom-05-94o)
-- [Dev.to/JS] [Web programming languages: the most used on the Internet](https://dev.to/sparkouttech/web-programming-languages-the-most-used-on-the-internet-2a5)
-- [Dev.to/JS] [Final year vs Placements](https://dev.to/vedansh0412/navigating-the-final-year-striking-a-balance-between-studies-and-skill-building-4p1b)
-- [Dev.to/JS] [JavaScript, Dexie, and the Pursuit of Resilience.](https://dev.to/kwnaidoo/javascript-dexie-and-the-pursuit-of-resilience-1f5g)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-19-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-19-2024)
 - [Lifehacker] [Are 8K TVs Worth It in 2024?](https://lifehacker.com/tech/are-8k-tvs-worth-it-in-2024)
