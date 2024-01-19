@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LangChain: Framework for LLMs](https://dev.to/ajaykrupalk/langchain-framework-for-llms-5hjf)
+- [Dev.to/JS] [Where JavaScript came from  - The Mythos](https://dev.to/this-is-learning/where-javascript-came-from-the-mythos-4ce9)
+- [Dev.to/JS] [My front end journey](https://dev.to/infamous003/my-front-end-journey-i7e)
+- [Dev.to/JS] [How JavaScript code is Executed under the hood !!](https://dev.to/adwait12345/how-javascript-code-is-executed-under-the-hood--39o)
 - [Dev.to/JS] [Tic Tac Toe Using HTML, CSS and JS With Confetti animation](https://dev.to/harshkumar007/tic-tac-toe-using-html-css-and-js-with-confetti-animation-45ai)
-- [Lifehacker] [How ‘Bunching’ Your Donations Can Help You at Tax Time](https://lifehacker.com/money/what-is-donation-bunching-in-taxes)
-- [Lifehacker] [The Best New Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Dev.to/JS] [Recoil: Cheatsheet](https://dev.to/harshchandwani/recoil-cheatsheet-216k)
 - [Dev.to/JS] [Combining multiple tables in Supabase](https://dev.to/wagenrace/combining-multiple-tables-in-supabase-212o)
 - [Dev.to/JS] [Day-10 of Learning JavaScript: Whip Up Weather Wonders: Craft Your Own City-Ready Weather App with JavaScript Magic!](https://dev.to/aniketsaini65/day-10-of-learning-javascript-whip-up-weather-wonders-craft-your-own-city-ready-weather-app-with-javascript-magic-5a2b)
@@ -36,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Suspense with React - without a 3rd party library](https://dev.to/tusharshahi/using-suspense-with-react-without-a-3rd-party-library-3i2b)
 - [Dev.to/JS] [10 Mistakes to Avoid When Using Cypress](https://dev.to/elaichenkov/10-mistakes-to-avoid-when-using-cypress-411o)
 - [Dev.to/JS] [Mountain Bikes and Code: Making the Best Decisions to Become Senior](https://dev.to/gabriel-palhares/mountain-bikes-and-code-making-the-best-decisions-to-become-senior-436j)
-- [Dev.to/JS] [Kotlin API development services](https://dev.to/webstep/kotlin-api-development-services-oa4)
-- [Dev.to/JS] [From Static Pages to Interactive Worlds: The Odyssey of Web Development](https://dev.to/anirudh23/from-static-pages-to-interactive-worlds-the-odyssey-of-web-development-27j3)
-- [Dev.to/JS] [earn some free reward and cash by doing easy work here](https://dev.to/akramulkarim/earn-some-free-reward-and-cash-by-doing-easy-work-here-423i)
-- [Dev.to/JS] [How to get Battery Status of user Machine by using Vanilla JS](https://dev.to/shyam1806/how-to-get-battery-status-of-user-machine-by-using-vanilla-js-3cmf)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-19-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-19-2024)
 - [Lifehacker] [Are 8K TVs Worth It in 2024?](https://lifehacker.com/tech/are-8k-tvs-worth-it-in-2024)
@@ -65,7 +63,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Wifi Extenders to Buy in 2024](https://lifehacker.com/tech/best-wi-fi-extenders-of-2024)
 - [Lifehacker] [The Signs Your Kid Feels Ignored &lpar;and the Best Ways to Handle It&rpar;](https://lifehacker.com/family/signs-your-child-is-feeling-ignored)
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-18-2024)
+- [Lifehacker] [The Best Outdoor Speakers to Buy in 2024](https://lifehacker.com/tech/the-best-outdoor-speakers)<!-- TECH-POSTS:END -->
 
 ---
 
