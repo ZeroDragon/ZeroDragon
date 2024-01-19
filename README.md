@@ -26,20 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Start Using Optional Chaining and Nullish Coalescing in React](https://dev.to/writech/start-using-optional-chaining-and-nullish-coalescing-in-react-269g)
+- [Dev.to/JS] [Efficient Data Visualization with React](https://dev.to/writech/efficient-data-visualization-with-react-4ag3)
+- [Dev.to/JS] [Deploying and Hosting a React App on an Apache Server](https://dev.to/writech/deploying-and-hosting-a-react-app-on-an-apache-server-1d46)
+- [Dev.to/JS] [Auto-Versioning JavaScript and CSS Files in PHP](https://dev.to/writech/auto-versioning-javascript-and-css-files-in-php-4i3a)
+- [Dev.to/JS] [The Top 3 React UI Libraries for Beginners](https://dev.to/writech/the-top-3-react-ui-libraries-for-beginners-5fh6)
+- [Dev.to/JS] [My Hobby Project - Resume Builder - Next.js](https://dev.to/junsantilla/my-hobby-project-resume-builder-nextjs-45e4)
+- [Dev.to/JS] [Enjoy high quality products](https://dev.to/appserver/enjoy-high-quality-products-2e33)
+- [Dev.to/JS] [How to Add Leading Zero to Number in JavaScript &lpar;Bite-size article&rpar;](https://dev.to/koshirok096/how-to-add-leading-zero-to-number-in-javascript-bite-size-article-l7h)
+- [Dev.to/JS] [A Complete Guide To props.children In React](https://dev.to/writech/a-complete-guide-to-propschildren-in-react-33h8)
+- [Dev.to/JS] [Mock S3 for AWS SDK for JavaScript &lpar;v3&rpar;](https://dev.to/mxro/mock-s3-for-aws-sdk-for-javascript-v3-160e)
 - [Dev.to/JS] [Web scraping with cheerio](https://dev.to/zsevic/web-scraping-with-cheerio-37el)
 - [Dev.to/JS] [Hello World by Testing](https://dev.to/priyancydey/hello-world-by-testing-1f46)
-- [Dev.to/JS] [Sample Article Title](https://dev.to/priyancydey/sample-article-title-4i0i)
-- [Dev.to/JS] [Infield dependency management system launches support for javascript and python](https://dev.to/allieoopz/infield-dependency-management-system-launches-support-for-javascript-and-python-1dpk)
-- [Dev.to/JS] [Integrating Angular with Storybook: Conquering React Version Complexities](https://dev.to/realoff/integrating-angular-with-storybook-conquering-react-version-complexities-26pl)
-- [Dev.to/JS] [Compassionate Coding: Emotional Intelligence for Engineers](https://dev.to/codingcatdev/compassionate-coding-emotional-intelligence-for-engineers-2d35)
+- [Lifehacker] [Don&#39;t Make These Mistakes When Paying Off Debt](https://lifehacker.com/money/mistakes-to-avoid-when-paying-off-debt)
 - [Lifehacker] [Use These Three Phrases to Fight Weight Stigma at the Doctor’s Office](https://lifehacker.com/health/how-to-fight-weight-stigma-at-doctors-office)
-- [Dev.to/JS] [Trigger.dev v3: Durable Serverless functions. No timeouts.](https://dev.to/triggerdotdev/triggerdev-v3-durable-serverless-functions-no-timeouts-bp3)
-- [Dev.to/JS] [WordPress Website Design Services in Karachi](https://dev.to/boundless/wordpress-website-design-services-in-karachi-4bl9)
 - [Lifehacker] [The First Six Things to Do When You&#39;re Facing Foreclosure](https://lifehacker.com/money/do-these-things-when-facing-foreclosure)
-- [Dev.to/JS] [USA online free play](https://dev.to/lucky121/usa-online-free-play-1lp0)
-- [Dev.to/JS] [Freeplay All Game. $10 Lucky man.](https://dev.to/lucky121/freeplay-all-game-10-lucky-man-3g2p)
-- [Dev.to/JS] [Freplay $25 Online USA Only.](https://dev.to/lucky121/freplay-25-online-usa-only-40dh)
-- [Dev.to/JS] [The Increasing Emphasis on Single Page Applications &lpar;SPAs&rpar;](https://dev.to/aditya_raj_1010/the-increasing-emphasis-on-single-page-applications-spas-5ab7)
 - [Lifehacker] [The $3,000 Samsung 8K QN900C Is Worth the Splurge](https://lifehacker.com/tech/samsung-8k-qn900c-review)
 - [Lifehacker] [The Pros and Cons of Washing Your Clothes Inside-Out](https://lifehacker.com/home/the-pros-and-cons-of-washing-your-clothes-inside-out)
 - [Lifehacker] [Your Leftovers Deserve the Egg Roll Treatment](https://lifehacker.com/food-drink/egg-roll-leftovers)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Try Google Lens’ Powerful AI Search Tool Right Now](https://lifehacker.com/tech/how-to-use-google-lens-ai-search)
 - [Lifehacker] [It Might Finally Be an OK Time to Buy a Car This Year](https://lifehacker.com/money/should-you-buy-a-car-this-year)
 - [Lifehacker] [The Dyson Zone Noise-Canceling and Air-Purifying Headphones Are 46% Off Today](https://lifehacker.com/tech/dyson-zone-sale)
-- [Lifehacker] [This One Ingredient Will Make Your Homemade Bread Even Softer](https://lifehacker.com/food-drink/add-instant-potato-flakes-to-bread-recipe)
-- [Lifehacker] [These Five Analog Tools Are Superior to Their Digital Versions](https://lifehacker.com/home/analog-tools-that-are-superior-to-digital)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This One Ingredient Will Make Your Homemade Bread Even Softer](https://lifehacker.com/food-drink/add-instant-potato-flakes-to-bread-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
