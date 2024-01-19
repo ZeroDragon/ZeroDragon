@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Infield dependency management system launches support for javascript and python](https://dev.to/allieoopz/infield-dependency-management-system-launches-support-for-javascript-and-python-1dpk)
+- [Dev.to/JS] [Integrating Angular with Storybook: Conquering React Version Complexities](https://dev.to/realoff/integrating-angular-with-storybook-conquering-react-version-complexities-26pl)
+- [Dev.to/JS] [Compassionate Coding: Emotional Intelligence for Engineers](https://dev.to/codingcatdev/compassionate-coding-emotional-intelligence-for-engineers-2d35)
+- [Dev.to/JS] [Trigger.dev v3: Durable Serverless functions. No timeouts.](https://dev.to/triggerdotdev/triggerdev-v3-durable-serverless-functions-no-timeouts-bp3)
+- [Dev.to/JS] [WordPress Website Design Services in Karachi](https://dev.to/boundless/wordpress-website-design-services-in-karachi-4bl9)
 - [Dev.to/JS] [USA online free play](https://dev.to/lucky121/usa-online-free-play-1lp0)
 - [Dev.to/JS] [Freeplay All Game. $10 Lucky man.](https://dev.to/lucky121/freeplay-all-game-10-lucky-man-3g2p)
 - [Dev.to/JS] [Freplay $25 Online USA Only.](https://dev.to/lucky121/freplay-25-online-usa-only-40dh)
@@ -34,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started in Creative Coding](https://dev.to/danizeres/getting-started-in-creative-coding-5cdl)
 - [Dev.to/JS] [Referential equality: Where variables check-in and rarely check-out.](https://dev.to/subaash_b/referential-equality-where-variables-check-in-and-rarely-check-out-14gp)
 - [Lifehacker] [The $3,000 Samsung 8K QN900C Is Worth the Splurge](https://lifehacker.com/tech/samsung-8k-qn900c-review)
-- [Dev.to/JS] [Airbrush.ai](https://dev.to/rankkmarket/airbrushai-57eg)
-- [Dev.to/JS] [Effortless Link Collection: Extracting and Displaying Links with JavaScript](https://dev.to/r4nd3l/effortless-link-collection-extracting-and-displaying-links-with-javascript-3pik)
 - [Lifehacker] [The Pros and Cons of Washing Your Clothes Inside-Out](https://lifehacker.com/home/the-pros-and-cons-of-washing-your-clothes-inside-out)
-- [Dev.to/JS] [Load More button in a React.js](https://dev.to/utsavmavani/load-more-button-in-a-reactjs-5dgo)
-- [Dev.to/JS] [Tab logic using ReactJS](https://dev.to/utsavmavani/tab-logic-using-reactjs-2j6o)
 - [Lifehacker] [Your Leftovers Deserve the Egg Roll Treatment](https://lifehacker.com/food-drink/egg-roll-leftovers)
-- [Dev.to/JS] [BricksUltimate WordPress Plugin](https://dev.to/wsovn112/bricksultimate-wordpress-plugin-2kop)
 - [Lifehacker] [You Can Now Preorder the Apple Vision Pro](https://lifehacker.com/tech/you-can-now-preorder-the-apple-vision-pro)
 - [Lifehacker] [Turn Off This Discord Setting If You Don&#39;t Want Others Recording Your Voice](https://lifehacker.com/tech/how-to-turn-off-discord-clips)
 - [Lifehacker] [The Best Security Cameras You Can Buy Right Now](https://lifehacker.com/tech/the-best-security-cameras)
