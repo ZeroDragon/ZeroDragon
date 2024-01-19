@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Static Pages to Interactive Worlds: The Odyssey of Web Development](https://dev.to/anirudh23/from-static-pages-to-interactive-worlds-the-odyssey-of-web-development-27j3)
 - [Dev.to/JS] [earn some free reward and cash by doing easy work here](https://dev.to/akramulkarim/earn-some-free-reward-and-cash-by-doing-easy-work-here-423i)
 - [Dev.to/JS] [How to get Battery Status of user Machine by using Vanilla JS](https://dev.to/shyam1806/how-to-get-battery-status-of-user-machine-by-using-vanilla-js-3cmf)
 - [Dev.to/JS] [Spazio Bianco - SaaS multipage theme Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/mike_andreuzza/spazio-bianco-saas-multipage-themebuilt-with-astro-tailwind-css-mdx-5881)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Derivations in Reactivity](https://dev.to/this-is-learning/derivations-in-reactivity-4fo1)
 - [Dev.to/JS] [A Guide to ESLint, Prettier, and VSCode Setup for Code Linting &amp; Formatting](https://dev.to/hkp22/a-guide-to-eslint-prettier-and-vscode-setup-for-code-linting-formatting-4845)
 - [Dev.to/JS] [A Guide to ESLint, Prettier, and VSCode Setup for Code Linting &amp; Formatting](https://dev.to/hkp22/optimizing-javascript-development-a-guide-to-eslint-prettier-and-vscode-setup-for-code-linting-formatting-37b3)
-- [Dev.to/JS] [Avoid shuffling with .sort&lpar;&lpar;&rpar; =&gt; Math.random&lpar;&rpar; — 0.5&rpar;&rpar;](https://dev.to/wagenrace/avoid-shuffling-with-sort-mathrandom-05-94o)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-19-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-19-2024)
 - [Lifehacker] [Are 8K TVs Worth It in 2024?](https://lifehacker.com/tech/are-8k-tvs-worth-it-in-2024)
