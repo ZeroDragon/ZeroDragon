@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Object Oriented Express API](https://dev.to/pankajgupta221b/object-oriented-express-api-14hf)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Execute the local setup](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-execute-the-local-setup-516d)
 - [Dev.to/JS] [Get access to over 100 free E-books in PDF format on GitHub to enhance your web development skills!](https://dev.to/aajinkya/get-access-to-over-100-free-e-books-in-pdf-format-on-github-to-enhance-your-web-development-skills-230)
 - [Lifehacker] [Are 8K TVs Worth It in 2024?](https://lifehacker.com/tech/are-8k-tvs-worth-it-in-2024)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Dyson Zone Noise-Canceling and Air-Purifying Headphones Are 46% Off Today](https://lifehacker.com/tech/dyson-zone-sale)
 - [Dev.to/JS] [How to use presence indicators like live cursors to enhance user experience](https://dev.to/vtnorton/how-to-use-presence-indicators-like-live-cursors-to-enhance-user-experience-38jn)
 - [Dev.to/JS] [What’s New in Next.js 14?](https://dev.to/yashkapure06/whats-new-in-nextjs-14-492l)
-- [Dev.to/JS] [Recriando o styled-components](https://dev.to/julianosirtori/recriando-o-styled-components-3j44)
 - [Lifehacker] [This One Ingredient Will Make Your Homemade Bread Even Softer](https://lifehacker.com/food-drink/add-instant-potato-flakes-to-bread-recipe)
 - [Lifehacker] [These Five Analog Tools Are Superior to Their Digital Versions](https://lifehacker.com/home/analog-tools-that-are-superior-to-digital)
 - [Lifehacker] [These Are the Best Paid VPNs in 2024](https://lifehacker.com/tech/the-best-paid-vpn-services)
