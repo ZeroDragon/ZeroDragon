@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automating access to a GitHub Repo using Stripe Webhooks and Astro Endpoints](https://dev.to/reeshee/automating-access-to-a-github-repo-using-stripe-webhooks-and-astro-endpoints-18lm)
+- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/kennethuscott/buy-glassdoor-reviews-4mno)
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/kennethuscott/buy-google-reviews-20dc)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/kennethuscott/buy-google-voice-accounts-2533)
+- [Dev.to/JS] [Nutrizen Keto ACV Gummies Reviews: {How to Work?} A Tasty Approach to Health and Weight Management](https://dev.to/nutrizenketoacvg/nutrizen-keto-acv-gummies-reviews-how-to-work-a-tasty-approach-to-health-and-weight-management-k15)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/kennethuscott/buy-google-5-star-reviews-3h9a)
 - [Dev.to/JS] [Quickly implement senseless refresh token](https://dev.to/coderhu/quickly-implement-senseless-refresh-token-269c)
 - [Dev.to/JS] [JavaScript vs. Java: Unraveling the Differences and Complementary Roles](https://dev.to/msd365/javascript-vs-java-unraveling-the-differences-and-complementary-roles-158k)
@@ -33,14 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FREE CONFERENCE WITH JAM.DEV](https://dev.to/jeffchavez_dev/free-conference-with-jamdev-2j60)
 - [Dev.to/JS] [Javascript array and array methods for beginners - Part 1](https://dev.to/sir_radar/javascript-array-and-array-methods-for-beginners-part-1-34cj)
 - [Dev.to/JS] [𝐅𝐫𝐚𝐦𝐢𝐧𝐠 𝐒𝐭𝐚𝐭𝐞 𝐃𝐞𝐬𝐢𝐠𝐧](https://dev.to/rajib18197/-1c01)
-- [Dev.to/JS] [Criando um Repositório Genérico de Leitura com Generics, TypeORM e SQLite no NestJS 🚀](https://dev.to/jhonesgoncalves/criando-um-repositorio-generico-de-leitura-com-generics-typeorm-e-sqlite-para-implementacao-de-cqs-no-nestjs-17gl)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-19-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-19-2024)
-- [Dev.to/JS] [Object Oriented Express API](https://dev.to/pankajgupta221b/object-oriented-express-api-14hf)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Execute the local setup](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-execute-the-local-setup-516d)
-- [Dev.to/JS] [Get access to over 100 free E-books in PDF format on GitHub to enhance your web development skills!](https://dev.to/aajinkya/get-access-to-over-100-free-e-books-in-pdf-format-on-github-to-enhance-your-web-development-skills-230)
 - [Lifehacker] [Are 8K TVs Worth It in 2024?](https://lifehacker.com/tech/are-8k-tvs-worth-it-in-2024)
-- [Dev.to/JS] [Embracing JavaScript: A Tale of Love, Challenges, and Endless Creativity](https://dev.to/platycode/embracing-javascript-a-tale-of-love-challenges-and-endless-creativity-6ef)
 - [Lifehacker] [Use These Phrases Instead of Pretending to Agree With Someone](https://lifehacker.com/health/how-to-politely-disagree-with-someone)
 - [Lifehacker] [Amazon’s Newest Fire HD 10 Tablet Is 42% Off Right Now](https://lifehacker.com/tech/amazon-fire-hd-10-tablet-lowest-price-ever)
 - [Lifehacker] [These Are the Best Features Coming in iOS 17.3 Next Week](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)
