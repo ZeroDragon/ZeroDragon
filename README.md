@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Embracing JavaScript: A Tale of Love, Challenges, and Endless Creativity](https://dev.to/platycode/embracing-javascript-a-tale-of-love-challenges-and-endless-creativity-6ef)
 - [Dev.to/JS] [Widget counting](https://dev.to/jihedbrahim/widget-counting-2i3o)
+- [Lifehacker] [Amazon’s Newest Fire HD 10 Tablet Is 42% Off Right Now](https://lifehacker.com/tech/amazon-fire-hd-10-tablet-lowest-price-ever)
 - [Lifehacker] [These Are the Best Features Coming in iOS 17.3 Next Week](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)
 - [Dev.to/JS] [BuildShip is Awesome!](https://dev.to/beebombshell/buildship-is-awesome-4ck8)
 - [Lifehacker] [Where to Get an Apple Watch With a Blood Oxygen Sensor &lpar;Before They’re Gone for Good&rpar;](https://lifehacker.com/tech/apple-watch-series-9-ultra-2-with-a-blood-oxygen-sensor)
@@ -50,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Get Experience &lpar;Even When You Don’t Have Any&rpar; 💡](https://dev.to/dragosnedelcu/how-to-get-experience-even-when-you-dont-have-any-2e00)
 - [Lifehacker] [These Are the Best Paid VPNs in 2024](https://lifehacker.com/tech/the-best-paid-vpn-services)
 - [Dev.to/JS] [Clean Code - Part 3](https://dev.to/sumisastri/clean-code-part-3-522b)
-- [Dev.to/JS] [Clean Code - Part 2](https://dev.to/sumisastri/clean-code-part-2-30jm)
 - [Lifehacker] [How to Extract Embedded Images From a Google Doc](https://lifehacker.com/tech/how-to-extract-google-doc-image)
 - [Lifehacker] [Use This Feature to Easily Sort Any File in Dropbox](https://lifehacker.com/tech/how-to-sort-files-automatically-in-dropbox)
 - [Lifehacker] [What People Are Getting Wrong This Week: Trump&#39;s Iowa Victory](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-trump-iowa-victory)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Year of NeuroNation for $40 Right Now](https://lifehacker.com/neuronation-subscription-sale)
 - [Lifehacker] [The Secret to a Thicker, Restaurant-Style Lasagna](https://lifehacker.com/food-drink/how-to-make-restaurant-style-lasagna)
 - [Lifehacker] [You’ll Soon Be Able to Google Search by Drawing a Circle](https://lifehacker.com/tech/what-is-google-circle-to-search)
-- [Lifehacker] [The Google Pixel 8 Is $150 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)
-- [Lifehacker] [The Best Kindle for Every Type of Reader](https://lifehacker.com/tech/the-best-kindles-of-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Google Pixel 8 Is $150 Off Right Now](https://lifehacker.com/tech/google-pixel-8-sale-best-buy)<!-- TECH-POSTS:END -->
 
 ---
 
