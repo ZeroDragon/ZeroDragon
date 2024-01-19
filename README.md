@@ -26,20 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Airbrush.ai](https://dev.to/rankkmarket/airbrushai-57eg)
+- [Dev.to/JS] [Effortless Link Collection: Extracting and Displaying Links with JavaScript](https://dev.to/r4nd3l/effortless-link-collection-extracting-and-displaying-links-with-javascript-3pik)
+- [Dev.to/JS] [Load More button in a React.js](https://dev.to/utsavmavani/load-more-button-in-a-reactjs-5dgo)
 - [Dev.to/JS] [Tab logic using ReactJS](https://dev.to/utsavmavani/tab-logic-using-reactjs-2j6o)
 - [Dev.to/JS] [BricksUltimate WordPress Plugin](https://dev.to/wsovn112/bricksultimate-wordpress-plugin-2kop)
 - [Dev.to/JS] [How to build high-performance front-end applications based on multi-processing](https://dev.to/unadlib/how-to-build-high-performance-front-end-applications-based-on-multi-processing-3dda)
+- [Lifehacker] [You Can Now Preorder the Apple Vision Pro](https://lifehacker.com/tech/you-can-now-preorder-the-apple-vision-pro)
 - [Dev.to/JS] [Pseudo-multithreading in Web Development | DataTableDev](https://dev.to/datatabledev/pseudo-multithreading-in-web-development-datatabledev-3b02)
 - [Dev.to/JS] [My created Visual studio Code Themes .](https://dev.to/aabbdev9/my-created-visual-studio-code-themes--4iko)
+- [Lifehacker] [Turn Off This Discord Setting If You Don&#39;t Want Others Recording Your Voice](https://lifehacker.com/tech/how-to-turn-off-discord-clips)
 - [Dev.to/JS] [LangChain: Framework for LLMs](https://dev.to/ajaykrupalk/langchain-framework-for-llms-5hjf)
 - [Dev.to/JS] [Where JavaScript came from  - The Mythos](https://dev.to/this-is-learning/where-javascript-came-from-the-mythos-4ce9)
+- [Lifehacker] [The Best Security Cameras You Can Buy Right Now](https://lifehacker.com/tech/the-best-security-cameras)
 - [Dev.to/JS] [My front end journey](https://dev.to/infamous003/my-front-end-journey-i7e)
+- [Lifehacker] [The Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
 - [Dev.to/JS] [How JavaScript code is Executed under the hood !!](https://dev.to/adwait12345/how-javascript-code-is-executed-under-the-hood--39o)
-- [Dev.to/JS] [Tic Tac Toe Using HTML, CSS and JS With Confetti animation](https://dev.to/harshkumar007/tic-tac-toe-using-html-css-and-js-with-confetti-animation-45ai)
 - [Lifehacker] [How ‘Bunching’ Your Donations Can Help You at Tax Time](https://lifehacker.com/money/what-is-donation-bunching-in-taxes)
 - [Lifehacker] [The Best New Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Dev.to/JS] [Recoil: Cheatsheet](https://dev.to/harshchandwani/recoil-cheatsheet-216k)
-- [Dev.to/JS] [Combining multiple tables in Supabase](https://dev.to/wagenrace/combining-multiple-tables-in-supabase-212o)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-19-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-19-2024)
 - [Lifehacker] [Are 8K TVs Worth It in 2024?](https://lifehacker.com/tech/are-8k-tvs-worth-it-in-2024)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Extract Embedded Images From a Google Doc](https://lifehacker.com/tech/how-to-extract-google-doc-image)
 - [Lifehacker] [Use This Feature to Easily Sort Any File in Dropbox](https://lifehacker.com/tech/how-to-sort-files-automatically-in-dropbox)
 - [Lifehacker] [What People Are Getting Wrong This Week: Trump&#39;s Iowa Victory](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-trump-iowa-victory)
-- [Lifehacker] [Check Your Pantry for These Recalled Quaker Oats Products](https://lifehacker.com/health/quaker-oats-recall)
-- [Lifehacker] [The Best Wifi Extenders to Buy in 2024](https://lifehacker.com/tech/best-wi-fi-extenders-of-2024)
-- [Lifehacker] [The Signs Your Kid Feels Ignored &lpar;and the Best Ways to Handle It&rpar;](https://lifehacker.com/family/signs-your-child-is-feeling-ignored)
-- [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Check Your Pantry for These Recalled Quaker Oats Products](https://lifehacker.com/health/quaker-oats-recall)<!-- TECH-POSTS:END -->
 
 ---
 
