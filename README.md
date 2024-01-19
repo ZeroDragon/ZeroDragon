@@ -26,22 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [USA online free play](https://dev.to/lucky121/usa-online-free-play-1lp0)
+- [Dev.to/JS] [Freeplay All Game. $10 Lucky man.](https://dev.to/lucky121/freeplay-all-game-10-lucky-man-3g2p)
+- [Dev.to/JS] [Freplay $25 Online USA Only.](https://dev.to/lucky121/freplay-25-online-usa-only-40dh)
+- [Dev.to/JS] [The Increasing Emphasis on Single Page Applications &lpar;SPAs&rpar;](https://dev.to/aditya_raj_1010/the-increasing-emphasis-on-single-page-applications-spas-5ab7)
+- [Dev.to/JS] [Front-End Security: Popular Types of Attacks](https://dev.to/aliaboalshamlat/front-end-security-popular-types-of-attacks-c5)
+- [Dev.to/JS] [Getting Started in Creative Coding](https://dev.to/danizeres/getting-started-in-creative-coding-5cdl)
+- [Dev.to/JS] [Referential equality: Where variables check-in and rarely check-out.](https://dev.to/subaash_b/referential-equality-where-variables-check-in-and-rarely-check-out-14gp)
+- [Lifehacker] [The $3,000 Samsung 8K QN900C Is Worth the Splurge](https://lifehacker.com/tech/samsung-8k-qn900c-review)
 - [Dev.to/JS] [Airbrush.ai](https://dev.to/rankkmarket/airbrushai-57eg)
 - [Dev.to/JS] [Effortless Link Collection: Extracting and Displaying Links with JavaScript](https://dev.to/r4nd3l/effortless-link-collection-extracting-and-displaying-links-with-javascript-3pik)
+- [Lifehacker] [The Pros and Cons of Washing Your Clothes Inside-Out](https://lifehacker.com/home/the-pros-and-cons-of-washing-your-clothes-inside-out)
 - [Dev.to/JS] [Load More button in a React.js](https://dev.to/utsavmavani/load-more-button-in-a-reactjs-5dgo)
 - [Dev.to/JS] [Tab logic using ReactJS](https://dev.to/utsavmavani/tab-logic-using-reactjs-2j6o)
+- [Lifehacker] [Your Leftovers Deserve the Egg Roll Treatment](https://lifehacker.com/food-drink/egg-roll-leftovers)
 - [Dev.to/JS] [BricksUltimate WordPress Plugin](https://dev.to/wsovn112/bricksultimate-wordpress-plugin-2kop)
-- [Dev.to/JS] [How to build high-performance front-end applications based on multi-processing](https://dev.to/unadlib/how-to-build-high-performance-front-end-applications-based-on-multi-processing-3dda)
 - [Lifehacker] [You Can Now Preorder the Apple Vision Pro](https://lifehacker.com/tech/you-can-now-preorder-the-apple-vision-pro)
-- [Dev.to/JS] [Pseudo-multithreading in Web Development | DataTableDev](https://dev.to/datatabledev/pseudo-multithreading-in-web-development-datatabledev-3b02)
-- [Dev.to/JS] [My created Visual studio Code Themes .](https://dev.to/aabbdev9/my-created-visual-studio-code-themes--4iko)
 - [Lifehacker] [Turn Off This Discord Setting If You Don&#39;t Want Others Recording Your Voice](https://lifehacker.com/tech/how-to-turn-off-discord-clips)
-- [Dev.to/JS] [LangChain: Framework for LLMs](https://dev.to/ajaykrupalk/langchain-framework-for-llms-5hjf)
-- [Dev.to/JS] [Where JavaScript came from  - The Mythos](https://dev.to/this-is-learning/where-javascript-came-from-the-mythos-4ce9)
 - [Lifehacker] [The Best Security Cameras You Can Buy Right Now](https://lifehacker.com/tech/the-best-security-cameras)
-- [Dev.to/JS] [My front end journey](https://dev.to/infamous003/my-front-end-journey-i7e)
 - [Lifehacker] [The Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
-- [Dev.to/JS] [How JavaScript code is Executed under the hood !!](https://dev.to/adwait12345/how-javascript-code-is-executed-under-the-hood--39o)
 - [Lifehacker] [How ‘Bunching’ Your Donations Can Help You at Tax Time](https://lifehacker.com/money/what-is-donation-bunching-in-taxes)
 - [Lifehacker] [The Best New Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-19-2024)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This One Ingredient Will Make Your Homemade Bread Even Softer](https://lifehacker.com/food-drink/add-instant-potato-flakes-to-bread-recipe)
 - [Lifehacker] [These Five Analog Tools Are Superior to Their Digital Versions](https://lifehacker.com/home/analog-tools-that-are-superior-to-digital)
 - [Lifehacker] [These Are the Best Paid VPNs in 2024](https://lifehacker.com/tech/the-best-paid-vpn-services)
-- [Lifehacker] [How to Extract Embedded Images From a Google Doc](https://lifehacker.com/tech/how-to-extract-google-doc-image)
-- [Lifehacker] [Use This Feature to Easily Sort Any File in Dropbox](https://lifehacker.com/tech/how-to-sort-files-automatically-in-dropbox)
-- [Lifehacker] [What People Are Getting Wrong This Week: Trump&#39;s Iowa Victory](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-trump-iowa-victory)
-- [Lifehacker] [Check Your Pantry for These Recalled Quaker Oats Products](https://lifehacker.com/health/quaker-oats-recall)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Extract Embedded Images From a Google Doc](https://lifehacker.com/tech/how-to-extract-google-doc-image)<!-- TECH-POSTS:END -->
 
 ---
 
