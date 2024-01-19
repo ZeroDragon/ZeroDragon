@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/kennethuscott/buy-google-5-star-reviews-3h9a)
+- [Dev.to/JS] [Quickly implement senseless refresh token](https://dev.to/coderhu/quickly-implement-senseless-refresh-token-269c)
+- [Dev.to/JS] [JavaScript vs. Java: Unraveling the Differences and Complementary Roles](https://dev.to/msd365/javascript-vs-java-unraveling-the-differences-and-complementary-roles-158k)
+- [Dev.to/JS] [Which CMS is your go-to when building your startup?](https://dev.to/snayyar00/which-cms-is-your-go-to-when-building-your-startup-jfe)
 - [Dev.to/JS] [FREE CONFERENCE WITH JAM.DEV](https://dev.to/jeffchavez_dev/free-conference-with-jamdev-2j60)
 - [Dev.to/JS] [Javascript array and array methods for beginners - Part 1](https://dev.to/sir_radar/javascript-array-and-array-methods-for-beginners-part-1-34cj)
 - [Dev.to/JS] [𝐅𝐫𝐚𝐦𝐢𝐧𝐠 𝐒𝐭𝐚𝐭𝐞 𝐃𝐞𝐬𝐢𝐠𝐧](https://dev.to/rajib18197/-1c01)
@@ -38,17 +42,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Are 8K TVs Worth It in 2024?](https://lifehacker.com/tech/are-8k-tvs-worth-it-in-2024)
 - [Dev.to/JS] [Embracing JavaScript: A Tale of Love, Challenges, and Endless Creativity](https://dev.to/platycode/embracing-javascript-a-tale-of-love-challenges-and-endless-creativity-6ef)
 - [Lifehacker] [Use These Phrases Instead of Pretending to Agree With Someone](https://lifehacker.com/health/how-to-politely-disagree-with-someone)
-- [Dev.to/JS] [Widget counting](https://dev.to/jihedbrahim/widget-counting-2i3o)
 - [Lifehacker] [Amazon’s Newest Fire HD 10 Tablet Is 42% Off Right Now](https://lifehacker.com/tech/amazon-fire-hd-10-tablet-lowest-price-ever)
 - [Lifehacker] [These Are the Best Features Coming in iOS 17.3 Next Week](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)
-- [Dev.to/JS] [BuildShip is Awesome!](https://dev.to/beebombshell/buildship-is-awesome-4ck8)
 - [Lifehacker] [Where to Get an Apple Watch With a Blood Oxygen Sensor &lpar;Before They’re Gone for Good&rpar;](https://lifehacker.com/tech/apple-watch-series-9-ultra-2-with-a-blood-oxygen-sensor)
 - [Lifehacker] [The Best Gaming Headsets to Buy in 2024](https://lifehacker.com/tech/the-best-headsets-for-gaming)
-- [Dev.to/JS] [Efficient Event Debugging in JavaScript: A Guide to monitorEvents](https://dev.to/r4nd3l/efficient-event-debugging-in-javascript-a-guide-to-monitorevents-4kk6)
 - [Lifehacker] [&#39;Disease X&#39; Is a Thought Experiment, Not a Real Disease](https://lifehacker.com/health/what-is-disease-x)
 - [Lifehacker] [How Fractional Ownership Can Help You Actually Afford a House or Car](https://lifehacker.com/money/what-is-fractional-ownership)
 - [Lifehacker] [What Happens When You Upload NSFW Gameplay Clips to the Xbox Network](https://lifehacker.com/entertainment/avoid-getting-banned-for-capturing-nsfw-xbox-footage)
-- [Dev.to/JS] [TypeScript is freaking hard!](https://dev.to/codingcatdev/typescript-is-freaking-hard-20k6)
 - [Lifehacker] [Why You Should Still Walk Your Dog in Cold Weather &lpar;and What to Do When You Can’t&rpar;](https://lifehacker.com/family/how-to-walk-a-dog-in-cold-weather-and-why-you-should)
 - [Lifehacker] [You Can Try Google Lens’ Powerful AI Search Tool Right Now](https://lifehacker.com/tech/how-to-use-google-lens-ai-search)
 - [Lifehacker] [It Might Finally Be an OK Time to Buy a Car This Year](https://lifehacker.com/money/should-you-buy-a-car-this-year)
