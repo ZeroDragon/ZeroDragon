@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web scraping with cheerio](https://dev.to/zsevic/web-scraping-with-cheerio-37el)
+- [Dev.to/JS] [Hello World by Testing](https://dev.to/priyancydey/hello-world-by-testing-1f46)
+- [Dev.to/JS] [Sample Article Title](https://dev.to/priyancydey/sample-article-title-4i0i)
 - [Dev.to/JS] [Infield dependency management system launches support for javascript and python](https://dev.to/allieoopz/infield-dependency-management-system-launches-support-for-javascript-and-python-1dpk)
 - [Dev.to/JS] [Integrating Angular with Storybook: Conquering React Version Complexities](https://dev.to/realoff/integrating-angular-with-storybook-conquering-react-version-complexities-26pl)
 - [Dev.to/JS] [Compassionate Coding: Emotional Intelligence for Engineers](https://dev.to/codingcatdev/compassionate-coding-emotional-intelligence-for-engineers-2d35)
+- [Lifehacker] [Use These Three Phrases to Fight Weight Stigma at the Doctor’s Office](https://lifehacker.com/health/how-to-fight-weight-stigma-at-doctors-office)
 - [Dev.to/JS] [Trigger.dev v3: Durable Serverless functions. No timeouts.](https://dev.to/triggerdotdev/triggerdev-v3-durable-serverless-functions-no-timeouts-bp3)
 - [Dev.to/JS] [WordPress Website Design Services in Karachi](https://dev.to/boundless/wordpress-website-design-services-in-karachi-4bl9)
+- [Lifehacker] [The First Six Things to Do When You&#39;re Facing Foreclosure](https://lifehacker.com/money/do-these-things-when-facing-foreclosure)
 - [Dev.to/JS] [USA online free play](https://dev.to/lucky121/usa-online-free-play-1lp0)
 - [Dev.to/JS] [Freeplay All Game. $10 Lucky man.](https://dev.to/lucky121/freeplay-all-game-10-lucky-man-3g2p)
 - [Dev.to/JS] [Freplay $25 Online USA Only.](https://dev.to/lucky121/freplay-25-online-usa-only-40dh)
 - [Dev.to/JS] [The Increasing Emphasis on Single Page Applications &lpar;SPAs&rpar;](https://dev.to/aditya_raj_1010/the-increasing-emphasis-on-single-page-applications-spas-5ab7)
-- [Dev.to/JS] [Front-End Security: Popular Types of Attacks](https://dev.to/aliaboalshamlat/front-end-security-popular-types-of-attacks-c5)
-- [Dev.to/JS] [Getting Started in Creative Coding](https://dev.to/danizeres/getting-started-in-creative-coding-5cdl)
-- [Dev.to/JS] [Referential equality: Where variables check-in and rarely check-out.](https://dev.to/subaash_b/referential-equality-where-variables-check-in-and-rarely-check-out-14gp)
 - [Lifehacker] [The $3,000 Samsung 8K QN900C Is Worth the Splurge](https://lifehacker.com/tech/samsung-8k-qn900c-review)
 - [Lifehacker] [The Pros and Cons of Washing Your Clothes Inside-Out](https://lifehacker.com/home/the-pros-and-cons-of-washing-your-clothes-inside-out)
 - [Lifehacker] [Your Leftovers Deserve the Egg Roll Treatment](https://lifehacker.com/food-drink/egg-roll-leftovers)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It Might Finally Be an OK Time to Buy a Car This Year](https://lifehacker.com/money/should-you-buy-a-car-this-year)
 - [Lifehacker] [The Dyson Zone Noise-Canceling and Air-Purifying Headphones Are 46% Off Today](https://lifehacker.com/tech/dyson-zone-sale)
 - [Lifehacker] [This One Ingredient Will Make Your Homemade Bread Even Softer](https://lifehacker.com/food-drink/add-instant-potato-flakes-to-bread-recipe)
-- [Lifehacker] [These Five Analog Tools Are Superior to Their Digital Versions](https://lifehacker.com/home/analog-tools-that-are-superior-to-digital)
-- [Lifehacker] [These Are the Best Paid VPNs in 2024](https://lifehacker.com/tech/the-best-paid-vpn-services)
-- [Lifehacker] [How to Extract Embedded Images From a Google Doc](https://lifehacker.com/tech/how-to-extract-google-doc-image)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Five Analog Tools Are Superior to Their Digital Versions](https://lifehacker.com/home/analog-tools-that-are-superior-to-digital)<!-- TECH-POSTS:END -->
 
 ---
 
