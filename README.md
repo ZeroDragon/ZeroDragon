@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [𝐅𝐫𝐚𝐦𝐢𝐧𝐠 𝐒𝐭𝐚𝐭𝐞 𝐃𝐞𝐬𝐢𝐠𝐧](https://dev.to/rajib18197/-1c01)
+- [Dev.to/JS] [Criando um Repositório Genérico de Leitura com Generics, TypeORM e SQLite no NestJS 🚀](https://dev.to/jhonesgoncalves/criando-um-repositorio-generico-de-leitura-com-generics-typeorm-e-sqlite-para-implementacao-de-cqs-no-nestjs-17gl)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-19-2024)
+- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-19-2024)
 - [Dev.to/JS] [Object Oriented Express API](https://dev.to/pankajgupta221b/object-oriented-express-api-14hf)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; Execute the local setup](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-execute-the-local-setup-516d)
 - [Dev.to/JS] [Get access to over 100 free E-books in PDF format on GitHub to enhance your web development skills!](https://dev.to/aajinkya/get-access-to-over-100-free-e-books-in-pdf-format-on-github-to-enhance-your-web-development-skills-230)
@@ -49,8 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It Might Finally Be an OK Time to Buy a Car This Year](https://lifehacker.com/money/should-you-buy-a-car-this-year)
 - [Dev.to/JS] [Balancing Aesthetics and Functionality: The Core of Web Design](https://dev.to/angelamiton/balancing-aesthetics-and-functionality-the-core-of-web-design-16mn)
 - [Lifehacker] [The Dyson Zone Noise-Canceling and Air-Purifying Headphones Are 46% Off Today](https://lifehacker.com/tech/dyson-zone-sale)
-- [Dev.to/JS] [How to use presence indicators like live cursors to enhance user experience](https://dev.to/vtnorton/how-to-use-presence-indicators-like-live-cursors-to-enhance-user-experience-38jn)
-- [Dev.to/JS] [What’s New in Next.js 14?](https://dev.to/yashkapure06/whats-new-in-nextjs-14-492l)
 - [Lifehacker] [This One Ingredient Will Make Your Homemade Bread Even Softer](https://lifehacker.com/food-drink/add-instant-potato-flakes-to-bread-recipe)
 - [Lifehacker] [These Five Analog Tools Are Superior to Their Digital Versions](https://lifehacker.com/home/analog-tools-that-are-superior-to-digital)
 - [Lifehacker] [These Are the Best Paid VPNs in 2024](https://lifehacker.com/tech/the-best-paid-vpn-services)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Why Security Should Be a Top Priority in Mobile App Development?](https://www.thecrazyprogrammer.com/2024/01/why-security-should-be-a-top-priority-in-mobile-app-development.html)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-18-2024)
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Thursday, January 18, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-18-2024)
-- [Lifehacker] [The Best Outdoor Speakers to Buy in 2024](https://lifehacker.com/tech/the-best-outdoor-speakers)
-- [Lifehacker] [You Can Get a Year of NeuroNation for $40 Right Now](https://lifehacker.com/neuronation-subscription-sale)
-- [Lifehacker] [The Secret to a Thicker, Restaurant-Style Lasagna](https://lifehacker.com/food-drink/how-to-make-restaurant-style-lasagna)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Outdoor Speakers to Buy in 2024](https://lifehacker.com/tech/the-best-outdoor-speakers)<!-- TECH-POSTS:END -->
 
 ---
 
