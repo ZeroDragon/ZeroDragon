@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Transforming TypeScript Enums into Object Arrays](https://dev.to/afrazkhan/transforming-typescript-enums-into-object-arrays-h0j)
 - [Dev.to/JS] [Manga Hook, your own manga API.](https://dev.to/kiraaziz/manga-hook-your-own-manga-api-2knf)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-4j16)
 - [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/pravinpgr9/hoisting-in-javascript-2p6b)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vanta - E-learning multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/mike_andreuzza/vanta-e-learning-multipage-theme-built-with-astro-tailwind-css-mdx-2349)
 - [Dev.to/JS] [Customizing JavaScript Import Sorting in VSCode Using Prettier &lpar;and Regex&rpar;](https://dev.to/josephciullo/how-to-customize-import-sorting-in-javascript-with-prettier-and-regex-1h8j)
 - [Dev.to/JS] [Building a Restaurant Category Component with Tailwind CSS in React](https://dev.to/ryaddev/building-a-restaurant-category-component-with-tailwind-css-in-react-479)
-- [Dev.to/JS] [CodeCrafting Chennai: Unveiling Web Development Wonders](https://dev.to/anandtechverce/codecrafting-chennai-unveiling-web-development-wonders-4m5)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
