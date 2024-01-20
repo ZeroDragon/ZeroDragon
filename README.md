@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;m creating an online developer toolkit app, need help deciding which tools to implement](https://dev.to/felipebockmagagnin/im-creating-an-online-developer-toolkit-app-need-help-deciding-which-tools-to-implement-29p8)
+- [Dev.to/JS] [Full vs Complete BiNARY TREEs](https://dev.to/rounit08/full-vs-complete-binary-trees-ka5)
 - [Dev.to/JS] [Deep Dive into Next.js Boilerplates: Pioneering Web Development in 2024](https://dev.to/lexyerresta/deep-dive-into-nextjs-boilerplates-pioneering-web-development-in-2024-29nf)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Deal With Cheerio&#39;s load&lpar;&rpar; Function Deprecation](https://dev.to/writech/how-to-deal-with-cheerios-load-function-deprecation-2lig)
 - [Dev.to/JS] [How To Fix the &quot;Source Parse Failed For Route&quot; Error in Next.js](https://dev.to/writech/how-to-fix-the-source-parse-failed-for-route-error-in-nextjs-23o9)
 - [Dev.to/JS] [How to Allow Only Specific User Agents in Next.js](https://dev.to/writech/how-to-allow-only-specific-user-agents-in-nextjs-39a3)
-- [Dev.to/JS] [How to Use the tsconfig.json &quot;paths&quot; Option in Node.js](https://dev.to/writech/how-to-use-the-tsconfigjson-paths-option-in-nodejs-13m0)
-- [Dev.to/JS] [How to Disable the Error Overlay in React in Development Mode](https://dev.to/writech/how-to-disable-the-error-overlay-in-react-in-development-mode-1j2g)
 - [Lifehacker] [What &lpar;and When&rpar; to Eat on a Long Run](https://lifehacker.com/health/what-and-when-to-eat-on-a-long-run)
 - [Lifehacker] [You Can Get AdGuard on Sale for $25 Right Now](https://lifehacker.com/adguard-sale)
 - [Lifehacker] [The Cheapest Ways to Upgrade to &#39;The Last of Us Part II Remastered&#39;](https://lifehacker.com/entertainment/the-cheapest-ways-to-upgrade-to-the-last-of-us-ii-remastered)
