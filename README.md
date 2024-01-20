@@ -27,7 +27,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Email Obfuscation: Best Methods](https://dev.to/kairatorozobekov/email-obfuscation-best-methods-52eh)
+- [Lifehacker] [The Best Apple Fritters Are Made With Instant Pancake Mix](https://lifehacker.com/food-drink/the-easiest-apple-fritter-recipe)
 - [Dev.to/JS] [Why the Heck Do We Need Bundlers, Compilers, or Build Tools in Frontend Development? Unveiling 10 Reasons Why They Exist ✨](https://dev.to/_ndeyefatoudiop/why-the-heck-do-we-need-bundlers-compilers-or-build-tools-in-frontend-development-unveiling-10-reasons-why-they-exist-6nm)
+- [Lifehacker] [35 of the Best Movies That Clock in at 90 Minutes or Less](https://lifehacker.com/entertainment/the-best-movies-under-90-minutes)
 - [Dev.to/JS] [Want to Turn the JavaScript Console Into a Mean Console? Now, You Can!](https://dev.to/writech/want-to-turn-the-javascript-console-into-a-mean-console-now-you-can-1k78)
 - [Dev.to/JS] [How to Append JavaScript Data to a FormData](https://dev.to/writech/how-to-append-javascript-data-to-a-formdata-39c3)
 - [Dev.to/JS] [A Complete Guide to Regular, Dev, and Peer Dependencies in npm](https://dev.to/writech/a-complete-guide-to-regular-dev-and-peer-dependencies-in-npm-57j9)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Gaming Headsets to Buy in 2024](https://lifehacker.com/tech/the-best-headsets-for-gaming)
 - [Lifehacker] [&#39;Disease X&#39; Is a Thought Experiment, Not a Real Disease](https://lifehacker.com/health/what-is-disease-x)
 - [Lifehacker] [How Fractional Ownership Can Help You Actually Afford a House or Car](https://lifehacker.com/money/what-is-fractional-ownership)
-- [Lifehacker] [What Happens When You Upload NSFW Gameplay Clips to the Xbox Network](https://lifehacker.com/entertainment/avoid-getting-banned-for-capturing-nsfw-xbox-footage)
-- [Lifehacker] [Why You Should Still Walk Your Dog in Cold Weather &lpar;and What to Do When You Can’t&rpar;](https://lifehacker.com/family/how-to-walk-a-dog-in-cold-weather-and-why-you-should)
-- [Lifehacker] [You Can Try Google Lens’ Powerful AI Search Tool Right Now](https://lifehacker.com/tech/how-to-use-google-lens-ai-search)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Happens When You Upload NSFW Gameplay Clips to the Xbox Network](https://lifehacker.com/entertainment/avoid-getting-banned-for-capturing-nsfw-xbox-footage)<!-- TECH-POSTS:END -->
 
 ---
 
