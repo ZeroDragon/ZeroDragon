@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deep Dive into Next.js Boilerplates: Pioneering Web Development in 2024](https://dev.to/lexyerresta/deep-dive-into-nextjs-boilerplates-pioneering-web-development-in-2024-29nf)
+- [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
+- [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
+- [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
 - [Lifehacker] [This Free AI Music Generator Is a Little Too Good](https://lifehacker.com/tech/generate-free-ai-music-with-suno)
 - [Dev.to/JS] [Email Obfuscation: Best Methods](https://dev.to/kairatorozobekov/email-obfuscation-best-methods-52eh)
 - [Lifehacker] [The Best Apple Fritters Are Made With Instant Pancake Mix](https://lifehacker.com/food-drink/the-easiest-apple-fritter-recipe)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Allow Only Specific User Agents in Next.js](https://dev.to/writech/how-to-allow-only-specific-user-agents-in-nextjs-39a3)
 - [Dev.to/JS] [How to Use the tsconfig.json &quot;paths&quot; Option in Node.js](https://dev.to/writech/how-to-use-the-tsconfigjson-paths-option-in-nodejs-13m0)
 - [Dev.to/JS] [How to Disable the Error Overlay in React in Development Mode](https://dev.to/writech/how-to-disable-the-error-overlay-in-react-in-development-mode-1j2g)
-- [Dev.to/JS] [How to Set Up Playwright in Python](https://dev.to/writech/how-to-set-up-playwright-in-python-3dh2)
 - [Lifehacker] [What &lpar;and When&rpar; to Eat on a Long Run](https://lifehacker.com/health/what-and-when-to-eat-on-a-long-run)
 - [Lifehacker] [You Can Get AdGuard on Sale for $25 Right Now](https://lifehacker.com/adguard-sale)
 - [Lifehacker] [The Cheapest Ways to Upgrade to &#39;The Last of Us Part II Remastered&#39;](https://lifehacker.com/entertainment/the-cheapest-ways-to-upgrade-to-the-last-of-us-ii-remastered)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Phrases Instead of Pretending to Agree With Someone](https://lifehacker.com/health/how-to-politely-disagree-with-someone)
 - [Lifehacker] [Amazon’s Newest Fire HD 10 Tablet Is 42% Off Right Now](https://lifehacker.com/tech/amazon-fire-hd-10-tablet-lowest-price-ever)
 - [Lifehacker] [These Are the Best Features Coming in iOS 17.3 Next Week](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)
-- [Lifehacker] [Where to Get an Apple Watch With a Blood Oxygen Sensor &lpar;Before They’re Gone for Good&rpar;](https://lifehacker.com/tech/apple-watch-series-9-ultra-2-with-a-blood-oxygen-sensor)
-- [Lifehacker] [The Best Gaming Headsets to Buy in 2024](https://lifehacker.com/tech/the-best-headsets-for-gaming)
-- [Lifehacker] [&#39;Disease X&#39; Is a Thought Experiment, Not a Real Disease](https://lifehacker.com/health/what-is-disease-x)
-- [Lifehacker] [How Fractional Ownership Can Help You Actually Afford a House or Car](https://lifehacker.com/money/what-is-fractional-ownership)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Get an Apple Watch With a Blood Oxygen Sensor &lpar;Before They’re Gone for Good&rpar;](https://lifehacker.com/tech/apple-watch-series-9-ultra-2-with-a-blood-oxygen-sensor)<!-- TECH-POSTS:END -->
 
 ---
 
