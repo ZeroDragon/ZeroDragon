@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&lpar;1&rpar; TypeScript: Create Optional Types From Old Types?](https://dev.to/taricov/1-typescript-create-optional-types-from-old-types-420m)
+- [Dev.to/JS] [React refersher](https://dev.to/vigneshm243/react-refersher-3fma)
+- [Dev.to/JS] [BuddyAd Native](https://dev.to/wsovn112/buddyad-native-4jk5)
 - [Dev.to/JS] [Transforming TypeScript Enums into Object Arrays](https://dev.to/afrazkhan/transforming-typescript-enums-into-object-arrays-h0j)
 - [Dev.to/JS] [Manga Hook, your own manga API.](https://dev.to/kiraaziz/manga-hook-your-own-manga-api-2knf)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-4j16)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [n,mnknlk](https://dev.to/rohanthamkewebdev/nmnknlk-5c1b)
 - [Dev.to/JS] [Resolving &quot;Error: Cannot Find Module &#39;@babel/types&#39;&quot; During Shadcn-UI Installation](https://dev.to/buchman/resolving-error-cannot-find-module-babeltypes-during-shadcn-ui-installation-no)
 - [Dev.to/JS] [Top JavaScript Projects of 2023 on GitHub](https://dev.to/kiraaziz/top-javascript-projects-of-2023-on-github-189h)
-- [Dev.to/JS] [Vanta - E-learning multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/mike_andreuzza/vanta-e-learning-multipage-theme-built-with-astro-tailwind-css-mdx-2349)
-- [Dev.to/JS] [Customizing JavaScript Import Sorting in VSCode Using Prettier &lpar;and Regex&rpar;](https://dev.to/josephciullo/how-to-customize-import-sorting-in-javascript-with-prettier-and-regex-1h8j)
-- [Dev.to/JS] [Building a Restaurant Category Component with Tailwind CSS in React](https://dev.to/ryaddev/building-a-restaurant-category-component-with-tailwind-css-in-react-479)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
