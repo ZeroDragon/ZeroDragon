@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🌟 The Open-Closed Principle: Making Coding Fun &amp; Flexible! 🎉](https://dev.to/mohitkadwe19/the-open-closed-principle-making-coding-fun-flexible-14mb)
+- [Dev.to/JS] [🌟 The Open-Closed Principle: Making Coding Fun &amp; Flexible! 🎉](https://dev.to/mohitkadwe19/the-open-closed-principle-making-coding-fun-flexible-3bfe)
+- [Dev.to/JS] [Regex in JS Explained](https://dev.to/cebuka/regex-in-js-explained-ch7)
+- [Dev.to/JS] [Latest Newsletter: Quite Quiet &lpar;Issue #150&rpar;](https://dev.to/mjgs/latest-newsletter-quite-quiet-issue-150-6hl)
 - [Dev.to/JS] [DIVING INTO THE NODE.JS EVENT LOOP AND CONCURRENCY MODEL](https://dev.to/sudodeo/diving-into-the-nodejs-event-loop-and-concurrency-model-3d9h)
 - [Dev.to/JS] [I&#39;m creating an online developer toolkit app, need help deciding which tools to implement](https://dev.to/felipebockmagagnin/im-creating-an-online-developer-toolkit-app-need-help-deciding-which-tools-to-implement-29p8)
 - [Dev.to/JS] [Full vs Complete BiNARY TREEs](https://dev.to/rounit08/full-vs-complete-binary-trees-ka5)
@@ -40,10 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [35 of the Best Movies That Clock in at 90 Minutes or Less](https://lifehacker.com/entertainment/the-best-movies-under-90-minutes)
 - [Dev.to/JS] [Want to Turn the JavaScript Console Into a Mean Console? Now, You Can!](https://dev.to/writech/want-to-turn-the-javascript-console-into-a-mean-console-now-you-can-1k78)
 - [Dev.to/JS] [How to Append JavaScript Data to a FormData](https://dev.to/writech/how-to-append-javascript-data-to-a-formdata-39c3)
-- [Dev.to/JS] [A Complete Guide to Regular, Dev, and Peer Dependencies in npm](https://dev.to/writech/a-complete-guide-to-regular-dev-and-peer-dependencies-in-npm-57j9)
-- [Dev.to/JS] [How To Fix the npm &quot;Conflicting Peer Dependency&quot; Error](https://dev.to/writech/how-to-fix-the-npm-conflicting-peer-dependency-error-3fag)
-- [Dev.to/JS] [How to Deal With Cheerio&#39;s load&lpar;&rpar; Function Deprecation](https://dev.to/writech/how-to-deal-with-cheerios-load-function-deprecation-2lig)
-- [Dev.to/JS] [How To Fix the &quot;Source Parse Failed For Route&quot; Error in Next.js](https://dev.to/writech/how-to-fix-the-source-parse-failed-for-route-error-in-nextjs-23o9)
 - [Lifehacker] [What &lpar;and When&rpar; to Eat on a Long Run](https://lifehacker.com/health/what-and-when-to-eat-on-a-long-run)
 - [Lifehacker] [You Can Get AdGuard on Sale for $25 Right Now](https://lifehacker.com/adguard-sale)
 - [Lifehacker] [The Cheapest Ways to Upgrade to &#39;The Last of Us Part II Remastered&#39;](https://lifehacker.com/entertainment/the-cheapest-ways-to-upgrade-to-the-last-of-us-ii-remastered)
