@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to receive emails into your backend applications via webhooks &lpar;PHP/JS/API&rpar;](https://dev.to/yatsenkolesh/how-to-receive-emails-into-your-backend-applications-via-webhooks-phpjsapi-594)
+- [Dev.to/JS] [Emoji Glitch Boosts Streamer&#39;s Earnings: AlertPix Bug Post-Mortem Analysis](https://dev.to/alertpix/emoji-glitch-boosts-streamers-earnings-alertpix-bug-post-mortem-analysis-4eoi)
+- [Dev.to/JS] [Become a Pro Level React Dev: 39 Essential Concepts Every Frontend Dev Should Master](https://dev.to/aajinkya/become-a-pro-level-react-dev-39-essential-concepts-every-frontend-dev-should-master-317c)
 - [Dev.to/JS] [Using Puppeteer and JavaScript to Automate Form Filling on Any Website](https://dev.to/mkobimbo/using-puppeteer-and-javascript-to-automate-form-filling-on-any-website-5fol)
 - [Dev.to/JS] [React Throws a Curveball](https://dev.to/mateusriff/react-throws-a-curveball-5g7n)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/caryherrera25/buy-google-5-star-reviews-4ia1)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making a text art and SVG circle picker design tool in 34 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-text-art-and-svg-circle-picker-design-tool-in-34-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-hm7)
 - [Dev.to/JS] [Myth: &quot;There is a Best Frontend Framework Out There, and Once I Find It, I Will Live Happily Ever After&quot; 🧐](https://dev.to/_ndeyefatoudiop/myth-there-is-a-best-frontend-framework-out-there-and-once-i-find-it-i-will-live-happily-ever-after-lg1)
 - [Dev.to/JS] [AmzChart Pro](https://dev.to/rankkmarket/amzchart-pro-51dn)
-- [Dev.to/JS] [&lpar;1&rpar; TypeScript: Create Optional Types From Old Types?](https://dev.to/taricov/1-typescript-create-optional-types-from-old-types-420m)
-- [Dev.to/JS] [React refersher](https://dev.to/vigneshm243/react-refersher-3fma)
-- [Dev.to/JS] [BuddyAd Native](https://dev.to/wsovn112/buddyad-native-4jk5)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
