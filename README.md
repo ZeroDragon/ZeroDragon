@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Puppeteer and JavaScript to Automate Form Filling on Any Website](https://dev.to/mkobimbo/using-puppeteer-and-javascript-to-automate-form-filling-on-any-website-5fol)
+- [Dev.to/JS] [React Throws a Curveball](https://dev.to/mateusriff/react-throws-a-curveball-5g7n)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/caryherrera25/buy-google-5-star-reviews-4ia1)
 - [Dev.to/JS] [Stack and Heap In Js](https://dev.to/arshamroshannejad/stack-and-heap-in-js-2m0f)
 - [Dev.to/JS] [ez-bundle – Javascript tool to research JSON keys in a target directory](https://dev.to/rstanziale/ez-bundle-javascript-tool-to-research-json-keys-in-a-target-directory-2o8d)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/joematthews930/buy-glassdoor-reviews-1cd2)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/joematthews930/buy-google-voice-accounts-2ga5)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/joematthews930/buy-google-5-star-reviews-4ol4)
-- [Dev.to/JS] [River](https://dev.to/sallu1998/river-g14)
-- [Dev.to/JS] [AmzChart Pro](https://dev.to/rankkmarket/amzchart-pro-51dn)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
