@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Customizing JavaScript Import Sorting in VSCode Using Prettier &lpar;and Regex&rpar;](https://dev.to/josephciullo/how-to-customize-import-sorting-in-javascript-with-prettier-and-regex-1h8j)
+- [Dev.to/JS] [Building a Restaurant Category Component with Tailwind CSS in React](https://dev.to/ryaddev/building-a-restaurant-category-component-with-tailwind-css-in-react-479)
 - [Dev.to/JS] [CodeCrafting Chennai: Unveiling Web Development Wonders](https://dev.to/anandtechverce/codecrafting-chennai-unveiling-web-development-wonders-4m5)
 - [Dev.to/JS] [Brizy](https://dev.to/wsovn112/brizy-m32)
 - [Dev.to/JS] [👨‍💻 Daily Code 44 | Count Vowels in 🐍 Python and 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-44-count-vowels-in-python-and-javascript-1p0e)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Regex in JS Explained](https://dev.to/cebuka/regex-in-js-explained-ch7)
 - [Dev.to/JS] [Latest Newsletter: Quite Quiet &lpar;Issue #150&rpar;](https://dev.to/mjgs/latest-newsletter-quite-quiet-issue-150-6hl)
 - [Dev.to/JS] [DIVING INTO THE NODE.JS EVENT LOOP AND CONCURRENCY MODEL](https://dev.to/sudodeo/diving-into-the-nodejs-event-loop-and-concurrency-model-3d9h)
-- [Dev.to/JS] [I&#39;m creating an online developer toolkit app, need help deciding which tools to implement](https://dev.to/felipebockmagagnin/im-creating-an-online-developer-toolkit-app-need-help-deciding-which-tools-to-implement-29p8)
-- [Dev.to/JS] [Full vs Complete BiNARY TREEs](https://dev.to/rounit08/full-vs-complete-binary-trees-ka5)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
