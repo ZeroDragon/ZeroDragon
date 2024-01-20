@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DIVING INTO THE NODE.JS EVENT LOOP AND CONCURRENCY MODEL](https://dev.to/sudodeo/diving-into-the-nodejs-event-loop-and-concurrency-model-3d9h)
 - [Dev.to/JS] [I&#39;m creating an online developer toolkit app, need help deciding which tools to implement](https://dev.to/felipebockmagagnin/im-creating-an-online-developer-toolkit-app-need-help-deciding-which-tools-to-implement-29p8)
 - [Dev.to/JS] [Full vs Complete BiNARY TREEs](https://dev.to/rounit08/full-vs-complete-binary-trees-ka5)
 - [Dev.to/JS] [Deep Dive into Next.js Boilerplates: Pioneering Web Development in 2024](https://dev.to/lexyerresta/deep-dive-into-nextjs-boilerplates-pioneering-web-development-in-2024-29nf)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Fix the npm &quot;Conflicting Peer Dependency&quot; Error](https://dev.to/writech/how-to-fix-the-npm-conflicting-peer-dependency-error-3fag)
 - [Dev.to/JS] [How to Deal With Cheerio&#39;s load&lpar;&rpar; Function Deprecation](https://dev.to/writech/how-to-deal-with-cheerios-load-function-deprecation-2lig)
 - [Dev.to/JS] [How To Fix the &quot;Source Parse Failed For Route&quot; Error in Next.js](https://dev.to/writech/how-to-fix-the-source-parse-failed-for-route-error-in-nextjs-23o9)
-- [Dev.to/JS] [How to Allow Only Specific User Agents in Next.js](https://dev.to/writech/how-to-allow-only-specific-user-agents-in-nextjs-39a3)
 - [Lifehacker] [What &lpar;and When&rpar; to Eat on a Long Run](https://lifehacker.com/health/what-and-when-to-eat-on-a-long-run)
 - [Lifehacker] [You Can Get AdGuard on Sale for $25 Right Now](https://lifehacker.com/adguard-sale)
 - [Lifehacker] [The Cheapest Ways to Upgrade to &#39;The Last of Us Part II Remastered&#39;](https://lifehacker.com/entertainment/the-cheapest-ways-to-upgrade-to-the-last-of-us-ii-remastered)
