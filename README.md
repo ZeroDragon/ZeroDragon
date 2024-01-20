@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Manga Hook, your own manga API.](https://dev.to/kiraaziz/manga-hook-your-own-manga-api-2knf)
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-4j16)
+- [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/pravinpgr9/hoisting-in-javascript-2p6b)
+- [Dev.to/JS] [Morning Daily Routine Bot for Your Discord Server](https://dev.to/titusefferian/morning-daily-routine-bot-for-your-discord-server-12hi)
+- [Dev.to/JS] [Intro to MERN Stacks](https://dev.to/abdullahdev5/intro-to-mern-stacks-1dnk)
 - [Dev.to/JS] [n,mnknlk](https://dev.to/rohanthamkewebdev/nmnknlk-5c1b)
 - [Dev.to/JS] [Resolving &quot;Error: Cannot Find Module &#39;@babel/types&#39;&quot; During Shadcn-UI Installation](https://dev.to/buchman/resolving-error-cannot-find-module-babeltypes-during-shadcn-ui-installation-no)
 - [Dev.to/JS] [Top JavaScript Projects of 2023 on GitHub](https://dev.to/kiraaziz/top-javascript-projects-of-2023-on-github-189h)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Customizing JavaScript Import Sorting in VSCode Using Prettier &lpar;and Regex&rpar;](https://dev.to/josephciullo/how-to-customize-import-sorting-in-javascript-with-prettier-and-regex-1h8j)
 - [Dev.to/JS] [Building a Restaurant Category Component with Tailwind CSS in React](https://dev.to/ryaddev/building-a-restaurant-category-component-with-tailwind-css-in-react-479)
 - [Dev.to/JS] [CodeCrafting Chennai: Unveiling Web Development Wonders](https://dev.to/anandtechverce/codecrafting-chennai-unveiling-web-development-wonders-4m5)
-- [Dev.to/JS] [Brizy](https://dev.to/wsovn112/brizy-m32)
-- [Dev.to/JS] [👨‍💻 Daily Code 44 | Count Vowels in 🐍 Python and 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-44-count-vowels-in-python-and-javascript-1p0e)
-- [Dev.to/JS] [Take control of your online privacy with the IPVanish app! https://shorturl.at/wyCH8](https://dev.to/abdullah433/take-control-of-your-online-privacy-with-the-ipvanish-app-httpsshorturlatwych8-jdi)
-- [Dev.to/JS] [Start Your Trial With the IPVanish VPN App👇](https://dev.to/abdullah433/start-your-trial-with-the-ipvanish-vpn-app-2kpk)
-- [Dev.to/JS] [Fitspresso: &lpar;Truth Exposed 2024&rpar; Universal Trending Result Exposed Keto Snax 2024 -100 % Safe !](https://dev.to/dawsonsmither/fitspresso-truth-exposed-2024-universal-trending-result-exposed-keto-snax-2024-100-safe--43ej)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
