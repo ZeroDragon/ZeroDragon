@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/caryherrera25/buy-google-5-star-reviews-4ia1)
+- [Dev.to/JS] [Stack and Heap In Js](https://dev.to/arshamroshannejad/stack-and-heap-in-js-2m0f)
+- [Dev.to/JS] [ez-bundle – Javascript tool to research JSON keys in a target directory](https://dev.to/rstanziale/ez-bundle-javascript-tool-to-research-json-keys-in-a-target-directory-2o8d)
+- [Dev.to/JS] [Frontend developer role](https://dev.to/mukherjee_ar/frontend-developer-role-4dk7)
 - [Dev.to/JS] [Making a text art and SVG circle picker design tool in 34 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-text-art-and-svg-circle-picker-design-tool-in-34-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-hm7)
 - [Dev.to/JS] [Myth: &quot;There is a Best Frontend Framework Out There, and Once I Find It, I Will Live Happily Ever After&quot; 🧐](https://dev.to/_ndeyefatoudiop/myth-there-is-a-best-frontend-framework-out-there-and-once-i-find-it-i-will-live-happily-ever-after-lg1)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/joematthews930/buy-verified-paxful-account-1blc)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/joematthews930/buy-google-5-star-reviews-4ol4)
 - [Dev.to/JS] [River](https://dev.to/sallu1998/river-g14)
 - [Dev.to/JS] [AmzChart Pro](https://dev.to/rankkmarket/amzchart-pro-51dn)
-- [Dev.to/JS] [&lpar;1&rpar; TypeScript: Create Optional Types From Old Types?](https://dev.to/taricov/1-typescript-create-optional-types-from-old-types-420m)
-- [Dev.to/JS] [React refersher](https://dev.to/vigneshm243/react-refersher-3fma)
-- [Dev.to/JS] [BuddyAd Native](https://dev.to/wsovn112/buddyad-native-4jk5)
-- [Dev.to/JS] [Transforming TypeScript Enums into Object Arrays](https://dev.to/afrazkhan/transforming-typescript-enums-into-object-arrays-h0j)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
