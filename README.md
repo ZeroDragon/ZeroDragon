@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/joematthews930/buy-google-voice-accounts-2ga5)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/joematthews930/buy-google-5-star-reviews-4ol4)
+- [Dev.to/JS] [River](https://dev.to/sallu1998/river-g14)
+- [Dev.to/JS] [AmzChart Pro](https://dev.to/rankkmarket/amzchart-pro-51dn)
 - [Dev.to/JS] [&lpar;1&rpar; TypeScript: Create Optional Types From Old Types?](https://dev.to/taricov/1-typescript-create-optional-types-from-old-types-420m)
 - [Dev.to/JS] [React refersher](https://dev.to/vigneshm243/react-refersher-3fma)
 - [Dev.to/JS] [BuddyAd Native](https://dev.to/wsovn112/buddyad-native-4jk5)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-4j16)
 - [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/pravinpgr9/hoisting-in-javascript-2p6b)
 - [Dev.to/JS] [Morning Daily Routine Bot for Your Discord Server](https://dev.to/titusefferian/morning-daily-routine-bot-for-your-discord-server-12hi)
-- [Dev.to/JS] [Intro to MERN Stacks](https://dev.to/abdullahdev5/intro-to-mern-stacks-1dnk)
-- [Dev.to/JS] [n,mnknlk](https://dev.to/rohanthamkewebdev/nmnknlk-5c1b)
-- [Dev.to/JS] [Resolving &quot;Error: Cannot Find Module &#39;@babel/types&#39;&quot; During Shadcn-UI Installation](https://dev.to/buchman/resolving-error-cannot-find-module-babeltypes-during-shadcn-ui-installation-no)
-- [Dev.to/JS] [Top JavaScript Projects of 2023 on GitHub](https://dev.to/kiraaziz/top-javascript-projects-of-2023-on-github-189h)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
