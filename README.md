@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Brizy](https://dev.to/wsovn112/brizy-m32)
+- [Dev.to/JS] [👨‍💻 Daily Code 44 | Count Vowels in 🐍 Python and 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-44-count-vowels-in-python-and-javascript-1p0e)
+- [Dev.to/JS] [Take control of your online privacy with the IPVanish app! https://shorturl.at/wyCH8](https://dev.to/abdullah433/take-control-of-your-online-privacy-with-the-ipvanish-app-httpsshorturlatwych8-jdi)
+- [Dev.to/JS] [Start Your Trial With the IPVanish VPN App👇](https://dev.to/abdullah433/start-your-trial-with-the-ipvanish-vpn-app-2kpk)
+- [Dev.to/JS] [Fitspresso: &lpar;Truth Exposed 2024&rpar; Universal Trending Result Exposed Keto Snax 2024 -100 % Safe !](https://dev.to/dawsonsmither/fitspresso-truth-exposed-2024-universal-trending-result-exposed-keto-snax-2024-100-safe--43ej)
 - [Dev.to/JS] [🌟 The Open-Closed Principle: Making Coding Fun &amp; Flexible! 🎉](https://dev.to/mohitkadwe19/the-open-closed-principle-making-coding-fun-flexible-14mb)
-- [Dev.to/JS] [🌟 The Open-Closed Principle: Making Coding Fun &amp; Flexible! 🎉](https://dev.to/mohitkadwe19/the-open-closed-principle-making-coding-fun-flexible-3bfe)
 - [Dev.to/JS] [Regex in JS Explained](https://dev.to/cebuka/regex-in-js-explained-ch7)
 - [Dev.to/JS] [Latest Newsletter: Quite Quiet &lpar;Issue #150&rpar;](https://dev.to/mjgs/latest-newsletter-quite-quiet-issue-150-6hl)
 - [Dev.to/JS] [DIVING INTO THE NODE.JS EVENT LOOP AND CONCURRENCY MODEL](https://dev.to/sudodeo/diving-into-the-nodejs-event-loop-and-concurrency-model-3d9h)
@@ -38,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
 - [Lifehacker] [This Free AI Music Generator Is a Little Too Good](https://lifehacker.com/tech/generate-free-ai-music-with-suno)
-- [Dev.to/JS] [Email Obfuscation: Best Methods](https://dev.to/kairatorozobekov/email-obfuscation-best-methods-52eh)
 - [Lifehacker] [The Best Apple Fritters Are Made With Instant Pancake Mix](https://lifehacker.com/food-drink/the-easiest-apple-fritter-recipe)
-- [Dev.to/JS] [Why the Heck Do We Need Bundlers, Compilers, or Build Tools in Frontend Development? Unveiling 10 Reasons Why They Exist ✨](https://dev.to/_ndeyefatoudiop/why-the-heck-do-we-need-bundlers-compilers-or-build-tools-in-frontend-development-unveiling-10-reasons-why-they-exist-6nm)
 - [Lifehacker] [35 of the Best Movies That Clock in at 90 Minutes or Less](https://lifehacker.com/entertainment/the-best-movies-under-90-minutes)
-- [Dev.to/JS] [Want to Turn the JavaScript Console Into a Mean Console? Now, You Can!](https://dev.to/writech/want-to-turn-the-javascript-console-into-a-mean-console-now-you-can-1k78)
-- [Dev.to/JS] [How to Append JavaScript Data to a FormData](https://dev.to/writech/how-to-append-javascript-data-to-a-formdata-39c3)
 - [Lifehacker] [What &lpar;and When&rpar; to Eat on a Long Run](https://lifehacker.com/health/what-and-when-to-eat-on-a-long-run)
 - [Lifehacker] [You Can Get AdGuard on Sale for $25 Right Now](https://lifehacker.com/adguard-sale)
 - [Lifehacker] [The Cheapest Ways to Upgrade to &#39;The Last of Us Part II Remastered&#39;](https://lifehacker.com/entertainment/the-cheapest-ways-to-upgrade-to-the-last-of-us-ii-remastered)
