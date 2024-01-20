@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making a text art and SVG circle picker design tool in 34 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-text-art-and-svg-circle-picker-design-tool-in-34-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-hm7)
+- [Dev.to/JS] [Myth: &quot;There is a Best Frontend Framework Out There, and Once I Find It, I Will Live Happily Ever After&quot; 🧐](https://dev.to/_ndeyefatoudiop/myth-there-is-a-best-frontend-framework-out-there-and-once-i-find-it-i-will-live-happily-ever-after-lg1)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/joematthews930/buy-verified-paxful-account-1blc)
+- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/joematthews930/buy-glassdoor-reviews-1cd2)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/joematthews930/buy-google-voice-accounts-2ga5)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/joematthews930/buy-google-5-star-reviews-4ol4)
 - [Dev.to/JS] [River](https://dev.to/sallu1998/river-g14)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React refersher](https://dev.to/vigneshm243/react-refersher-3fma)
 - [Dev.to/JS] [BuddyAd Native](https://dev.to/wsovn112/buddyad-native-4jk5)
 - [Dev.to/JS] [Transforming TypeScript Enums into Object Arrays](https://dev.to/afrazkhan/transforming-typescript-enums-into-object-arrays-h0j)
-- [Dev.to/JS] [Manga Hook, your own manga API.](https://dev.to/kiraaziz/manga-hook-your-own-manga-api-2knf)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-4j16)
-- [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/pravinpgr9/hoisting-in-javascript-2p6b)
-- [Dev.to/JS] [Morning Daily Routine Bot for Your Discord Server](https://dev.to/titusefferian/morning-daily-routine-bot-for-your-discord-server-12hi)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
