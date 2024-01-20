@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CodeCrafting Chennai: Unveiling Web Development Wonders](https://dev.to/anandtechverce/codecrafting-chennai-unveiling-web-development-wonders-4m5)
 - [Dev.to/JS] [Brizy](https://dev.to/wsovn112/brizy-m32)
 - [Dev.to/JS] [👨‍💻 Daily Code 44 | Count Vowels in 🐍 Python and 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-44-count-vowels-in-python-and-javascript-1p0e)
 - [Dev.to/JS] [Take control of your online privacy with the IPVanish app! https://shorturl.at/wyCH8](https://dev.to/abdullah433/take-control-of-your-online-privacy-with-the-ipvanish-app-httpsshorturlatwych8-jdi)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DIVING INTO THE NODE.JS EVENT LOOP AND CONCURRENCY MODEL](https://dev.to/sudodeo/diving-into-the-nodejs-event-loop-and-concurrency-model-3d9h)
 - [Dev.to/JS] [I&#39;m creating an online developer toolkit app, need help deciding which tools to implement](https://dev.to/felipebockmagagnin/im-creating-an-online-developer-toolkit-app-need-help-deciding-which-tools-to-implement-29p8)
 - [Dev.to/JS] [Full vs Complete BiNARY TREEs](https://dev.to/rounit08/full-vs-complete-binary-trees-ka5)
-- [Dev.to/JS] [Deep Dive into Next.js Boilerplates: Pioneering Web Development in 2024](https://dev.to/lexyerresta/deep-dive-into-nextjs-boilerplates-pioneering-web-development-in-2024-29nf)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
