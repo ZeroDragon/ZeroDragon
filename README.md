@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Reactive Restaurant Grid with Filtering Using React and Tailwind CSS](https://dev.to/ryaddev/creating-a-reactive-restaurant-grid-with-filtering-using-react-and-tailwind-css-1gn3)
+- [Dev.to/JS] [Win Free $750 in your cashapp Account Instant](https://dev.to/forrukh/win-free-750-in-your-cashapp-account-instant-2m1)
+- [Dev.to/JS] [Angular 17 Tutorial for Beginners](https://dev.to/anilsingh/angular-17-tutorial-for-beginners-3a76)
 - [Dev.to/JS] [FitspressoReal Reviews Shocking News 😮 #!BioHealCBDGummies #Stress # Diabetes [InstantLOSS$49!]](https://dev.to/rodriguecuriel/fitspressoreal-reviews-shocking-news-biohealcbdgummies-stress-diabetes-instantloss49-3oii)
 - [Dev.to/JS] [Creating visually rich PDFs with PDF-Frame-Vue](https://dev.to/nswamy14/creating-visually-rich-pdfs-with-pdf-frame-vue-4577)
 - [Dev.to/JS] [how Javascript help developers](https://dev.to/prahllad/how-javascript-help-developers-3m9c)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/arthurbryantofficial84/buy-glassdoor-reviews-3b26)
 - [Dev.to/JS] [AWS Cognito Authentication With NodeJS](https://dev.to/mohammadfaisal/aws-cognito-authentication-with-nodejs-4gbb)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/arthurbryantofficial84/buy-google-voice-accounts-f66)
-- [Dev.to/JS] [StudioMax - Agency multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/mike_andreuzza/studiomax-agency-multipage-theme-built-with-astro-tailwind-css-mdx-1hea)
-- [Dev.to/JS] [Learning programming and web development in 2024, navigating the code waves](https://dev.to/ahmed_onour/learning-programming-and-web-development-in-2024-navigating-the-code-waves-25md)
-- [Dev.to/JS] [Avoid these 5 mistakes as a Web Developer](https://dev.to/whyafan/avoid-these-5-mistakes-as-a-web-developer-2lgn)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
