@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.1](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-11-7do)
+- [Dev.to/JS] [10 Websites To Learn Anything For Free On The Internet](https://dev.to/durgesh4993/10-websites-to-learn-anything-for-free-on-the-internet-4ahe)
+- [Dev.to/JS] [HI! I am Salah what is your favourite language in this world???](https://dev.to/salah-haji/hi-i-am-salah-what-is-your-favourite-language-in-this-world-3pk3)
+- [Dev.to/JS] [hey Magiciannnnn!](https://dev.to/priyancydey/hey-magiciannnnn-j7b)
 - [Dev.to/JS] [Jay shree Ram!](https://dev.to/priyancydey/jay-shree-ram-2phk)
 - [Dev.to/JS] [Using the View Transition API on Angular Framework](https://dev.to/diogom/using-the-view-transition-api-on-angular-framework-2ip3)
 - [Dev.to/JS] [Smooth Horizontal Scrolling with JavaScript: Enhance User Experience](https://dev.to/r4nd3l/smooth-horizontal-scrolling-with-javascript-enhance-user-experience-lf4)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Upload Images with Astro and Xata](https://dev.to/reeshee/how-to-upload-images-with-astro-and-xata-59i)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/claudecastro45/buy-google-voice-accounts-1jc5)
 - [Dev.to/JS] [Top 5 Google Chrome Features You Probably Missed](https://dev.to/proflead/top-5-google-chrome-features-you-probably-missed-226f)
-- [Dev.to/JS] [Quality 50 MP Camera Good for Smartphones?](https://dev.to/saleh2233/quality-50-mp-camera-good-for-smartphones-475c)
-- [Dev.to/JS] [Classes vs. Objetos em JavaScript: Entendendo as Diferenças Fundamentais](https://dev.to/vitorrios1001/classes-vs-objetos-em-javascript-entendendo-as-diferencas-fundamentais-5f59)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/claudecastro45/buy-verified-cash-app-account-5f1g)
-- [Dev.to/JS] [flatMap vs map in Array](https://dev.to/mailtodanish/flatmap-vs-map-in-array-4jhp)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
