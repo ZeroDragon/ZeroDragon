@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/claudecastro45/buy-verified-cash-app-account-5f1g)
 - [Dev.to/JS] [flatMap vs map in Array](https://dev.to/mailtodanish/flatmap-vs-map-in-array-4jhp)
 - [Dev.to/JS] [Why React Re-Renders?](https://dev.to/anjankarmakar/why-react-re-renders-4bao)
 - [Dev.to/JS] [The Power of a Standout Portfolio for Software Developers](https://dev.to/shahmir049/the-power-of-a-standout-portfolio-for-software-developers-19id)
@@ -35,9 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Win Free $750 in your cashapp Account Instant](https://dev.to/forrukh/win-free-750-in-your-cashapp-account-instant-2m1)
 - [Dev.to/JS] [Angular 17 Tutorial for Beginners](https://dev.to/anilsingh/angular-17-tutorial-for-beginners-3a76)
 - [Dev.to/JS] [FitspressoReal Reviews Shocking News 😮 #!BioHealCBDGummies #Stress # Diabetes [InstantLOSS$49!]](https://dev.to/rodriguecuriel/fitspressoreal-reviews-shocking-news-biohealcbdgummies-stress-diabetes-instantloss49-3oii)
+- [Dev.to/JS] [Javascript &amp; AI](https://dev.to/prahllad/javascript-ai-1n4)
 - [Dev.to/JS] [Creating visually rich PDFs with PDF-Frame-Vue](https://dev.to/nswamy14/creating-visually-rich-pdfs-with-pdf-frame-vue-4577)
-- [Dev.to/JS] [how Javascript help developers](https://dev.to/prahllad/how-javascript-help-developers-3m9c)
-- [Dev.to/JS] [Step By Step Guide For Full Stack Developer in 2024](https://dev.to/fahimulkabir/step-by-step-guide-for-full-stack-developer-in-2024-aa8)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
