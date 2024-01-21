@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Parabolic Reflector Dish](https://dev.to/rmion/parabolic-reflector-dish-589f)
+- [Dev.to/JS] [Top 10 React JS Interview Theory Questions and Answers 🌟🔥](https://dev.to/arjuncodess/top-10-react-js-interview-theory-questions-and-answers-3e5d)
+- [Dev.to/JS] [Exploring useMemo in React: Optimization and Real-World Applications](https://dev.to/ayako_yk/exploring-usememo-in-react-optimization-and-real-world-applications-5djp)
 - [Dev.to/JS] [REDUX-PERSIST createMigrate Auto Syncing](https://dev.to/ministryofjavascript/redux-persist-createmigrate-auto-update-1p07)
 - [Dev.to/JS] [How to receive emails into your backend applications via webhooks &lpar;PHP/JS/API&rpar;](https://dev.to/yatsenkolesh/how-to-receive-emails-into-your-backend-applications-via-webhooks-phpjsapi-594)
 - [Dev.to/JS] [Emoji Glitch Boosts Streamer&#39;s Earnings: AlertPix Bug Post-Mortem Analysis](https://dev.to/alertpix/emoji-glitch-boosts-streamers-earnings-alertpix-bug-post-mortem-analysis-4eoi)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/caryherrera25/buy-google-5-star-reviews-4ia1)
 - [Dev.to/JS] [Stack and Heap In Js](https://dev.to/arshamroshannejad/stack-and-heap-in-js-2m0f)
 - [Dev.to/JS] [ez-bundle – Javascript tool to research JSON keys in a target directory](https://dev.to/rstanziale/ez-bundle-javascript-tool-to-research-json-keys-in-a-target-directory-2o8d)
-- [Dev.to/JS] [Frontend developer role](https://dev.to/mukherjee_ar/frontend-developer-role-4dk7)
-- [Dev.to/JS] [Making a text art and SVG circle picker design tool in 34 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/making-a-text-art-and-svg-circle-picker-design-tool-in-34-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-hm7)
-- [Dev.to/JS] [Myth: &quot;There is a Best Frontend Framework Out There, and Once I Find It, I Will Live Happily Ever After&quot; 🧐](https://dev.to/_ndeyefatoudiop/myth-there-is-a-best-frontend-framework-out-there-and-once-i-find-it-i-will-live-happily-ever-after-lg1)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
