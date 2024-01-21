@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PM2 Cheatsheet](https://dev.to/hashcode01/pm2-cheatsheet-3fb0)
+- [Dev.to/JS] [Building Micro-Frontends: Concepts, Benefits, and Challenges](https://dev.to/bartzalewski/building-micro-frontends-concepts-benefits-and-challenges-5ge2)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.1](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-11-7do)
 - [Dev.to/JS] [10 Websites To Learn Anything For Free On The Internet](https://dev.to/durgesh4993/10-websites-to-learn-anything-for-free-on-the-internet-4ahe)
 - [Dev.to/JS] [HI! I am Salah what is your favourite language in this world???](https://dev.to/salah-haji/hi-i-am-salah-what-is-your-favourite-language-in-this-world-3pk3)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Inactivity Logout in React Native](https://dev.to/royged/mastering-inactivity-logout-in-react-native-2hk3)
 - [Dev.to/JS] [BDD Testing with Cucumber-js](https://dev.to/keploy/bdd-testing-with-cucumber-js-2n5o)
 - [Dev.to/JS] [How To Upload Images with Astro and Xata](https://dev.to/reeshee/how-to-upload-images-with-astro-and-xata-59i)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/claudecastro45/buy-google-voice-accounts-1jc5)
-- [Dev.to/JS] [Top 5 Google Chrome Features You Probably Missed](https://dev.to/proflead/top-5-google-chrome-features-you-probably-missed-226f)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
