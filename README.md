@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Buffer data in Node js](https://dev.to/vvkkumar06/understanding-buffer-data-in-node-js-4e0p)
 - [Dev.to/JS] [10 Useful VS Code Extensions for Web Developers](https://dev.to/this-is-learning/10-useful-vs-code-extensions-for-web-developers-4ff4)
 - [Dev.to/JS] [The future of frontend development](https://dev.to/codewithshahan/the-future-of-frontend-development-1amd)
 - [Dev.to/JS] [Parabolic Reflector Dish](https://dev.to/rmion/parabolic-reflector-dish-589f)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Become a Pro Level React Dev: 39 Essential Concepts Every Frontend Dev Should Master](https://dev.to/aajinkya/become-a-pro-level-react-dev-39-essential-concepts-every-frontend-dev-should-master-317c)
 - [Dev.to/JS] [Using Puppeteer and JavaScript to Automate Form Filling on Any Website](https://dev.to/mkobimbo/using-puppeteer-and-javascript-to-automate-form-filling-on-any-website-5fol)
 - [Dev.to/JS] [React Throws a Curveball](https://dev.to/mateusriff/react-throws-a-curveball-5g7n)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/caryherrera25/buy-google-5-star-reviews-4ia1)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
