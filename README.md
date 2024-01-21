@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Power of a Standout Portfolio for Software Developers](https://dev.to/shahmir049/the-power-of-a-standout-portfolio-for-software-developers-19id)
+- [Dev.to/JS] [Promises in JavaScript for Beginners](https://dev.to/shubhsharma19/promises-in-javascript-for-beginners-2h46)
+- [Dev.to/JS] [SOLID Principles: It&#39;s That Easy! 😱 STANDOUT 🌟 with SOLID Principles! 🧙‍♂️✨](https://dev.to/ihssmaheel/solid-principles-its-that-easy-standout-with-solid-principles-ak0)
 - [Dev.to/JS] [Creating a Reactive Restaurant Grid with Filtering Using React and Tailwind CSS](https://dev.to/ryaddev/creating-a-reactive-restaurant-grid-with-filtering-using-react-and-tailwind-css-1gn3)
 - [Dev.to/JS] [Win Free $750 in your cashapp Account Instant](https://dev.to/forrukh/win-free-750-in-your-cashapp-account-instant-2m1)
 - [Dev.to/JS] [Angular 17 Tutorial for Beginners](https://dev.to/anilsingh/angular-17-tutorial-for-beginners-3a76)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Step By Step Guide For Full Stack Developer in 2024](https://dev.to/fahimulkabir/step-by-step-guide-for-full-stack-developer-in-2024-aa8)
 - [Dev.to/JS] [How to get position of mouse pointer in JavaScript](https://dev.to/thezaidhassan/how-to-get-position-of-mouse-pointer-in-javascript-9k2)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/arthurbryantofficial84/buy-old-gmail-accounts-4kn0)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/arthurbryantofficial84/buy-glassdoor-reviews-3b26)
-- [Dev.to/JS] [AWS Cognito Authentication With NodeJS](https://dev.to/mohammadfaisal/aws-cognito-authentication-with-nodejs-4gbb)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/arthurbryantofficial84/buy-google-voice-accounts-f66)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
