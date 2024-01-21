@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FitspressoReal Reviews Shocking News 😮 #!BioHealCBDGummies #Stress # Diabetes [InstantLOSS$49!]](https://dev.to/rodriguecuriel/fitspressoreal-reviews-shocking-news-biohealcbdgummies-stress-diabetes-instantloss49-3oii)
+- [Dev.to/JS] [Creating visually rich PDFs with PDF-Frame-Vue](https://dev.to/nswamy14/creating-visually-rich-pdfs-with-pdf-frame-vue-4577)
+- [Dev.to/JS] [how Javascript help developers](https://dev.to/prahllad/how-javascript-help-developers-3m9c)
+- [Dev.to/JS] [Step By Step Guide For Full Stack Developer in 2024](https://dev.to/fahimulkabir/step-by-step-guide-for-full-stack-developer-in-2024-aa8)
+- [Dev.to/JS] [How to get position of mouse pointer in JavaScript](https://dev.to/thezaidhassan/how-to-get-position-of-mouse-pointer-in-javascript-9k2)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/arthurbryantofficial84/buy-old-gmail-accounts-4kn0)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/arthurbryantofficial84/buy-glassdoor-reviews-3b26)
 - [Dev.to/JS] [AWS Cognito Authentication With NodeJS](https://dev.to/mohammadfaisal/aws-cognito-authentication-with-nodejs-4gbb)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [StudioMax - Agency multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/mike_andreuzza/studiomax-agency-multipage-theme-built-with-astro-tailwind-css-mdx-1hea)
 - [Dev.to/JS] [Learning programming and web development in 2024, navigating the code waves](https://dev.to/ahmed_onour/learning-programming-and-web-development-in-2024-navigating-the-code-waves-25md)
 - [Dev.to/JS] [Avoid these 5 mistakes as a Web Developer](https://dev.to/whyafan/avoid-these-5-mistakes-as-a-web-developer-2lgn)
-- [Dev.to/JS] [SSR React in Go](https://dev.to/k_penguin_sato/ssr-react-in-go-3ej)
-- [Dev.to/JS] [# 👨‍💻 Daily Code 45 | Sum of Even Numbers &lpar;🐍🟨&rpar;](https://dev.to/gregor_schafroth/-daily-code-45-sum-of-even-numbers--4lol)
-- [Dev.to/JS] [JavaScript: The Klassic Way!](https://dev.to/alimobasheri/javascript-the-klassic-way-pfg)
-- [Dev.to/JS] [Next.js vs. Gatsby in 2024](https://dev.to/lilxyzz/nextjs-vs-gatsby-in-2024-50am)
-- [Dev.to/JS] [Understanding Buffer data in Node js](https://dev.to/vvkkumar06/understanding-buffer-data-in-node-js-4e0p)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
