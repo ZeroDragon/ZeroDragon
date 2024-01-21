@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning programming and web development in 2024, navigating the code waves](https://dev.to/ahmed_onour/learning-programming-and-web-development-in-2024-navigating-the-code-waves-25md)
+- [Dev.to/JS] [Avoid these 5 mistakes as a Web Developer](https://dev.to/whyafan/avoid-these-5-mistakes-as-a-web-developer-2lgn)
+- [Dev.to/JS] [SSR React in Go](https://dev.to/k_penguin_sato/ssr-react-in-go-3ej)
+- [Dev.to/JS] [# 👨‍💻 Daily Code 45 | Sum of Even Numbers &lpar;🐍🟨&rpar;](https://dev.to/gregor_schafroth/-daily-code-45-sum-of-even-numbers--4lol)
 - [Dev.to/JS] [JavaScript: The Klassic Way!](https://dev.to/alimobasheri/javascript-the-klassic-way-pfg)
 - [Dev.to/JS] [Next.js vs. Gatsby in 2024](https://dev.to/lilxyzz/nextjs-vs-gatsby-in-2024-50am)
 - [Dev.to/JS] [Understanding Buffer data in Node js](https://dev.to/vvkkumar06/understanding-buffer-data-in-node-js-4e0p)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Parabolic Reflector Dish](https://dev.to/rmion/parabolic-reflector-dish-589f)
 - [Dev.to/JS] [Top 10 React JS Interview Theory Questions and Answers 🌟🔥](https://dev.to/arjuncodess/top-10-react-js-interview-theory-questions-and-answers-3e5d)
 - [Dev.to/JS] [Exploring useMemo in React: Optimization and Real-World Applications](https://dev.to/ayako_yk/exploring-usememo-in-react-optimization-and-real-world-applications-5djp)
-- [Dev.to/JS] [REDUX-PERSIST createMigrate Auto Syncing](https://dev.to/ministryofjavascript/redux-persist-createmigrate-auto-update-1p07)
-- [Dev.to/JS] [How to receive emails into your backend applications via webhooks &lpar;PHP/JS/API&rpar;](https://dev.to/yatsenkolesh/how-to-receive-emails-into-your-backend-applications-via-webhooks-phpjsapi-594)
-- [Dev.to/JS] [Emoji Glitch Boosts Streamer&#39;s Earnings: AlertPix Bug Post-Mortem Analysis](https://dev.to/alertpix/emoji-glitch-boosts-streamers-earnings-alertpix-bug-post-mortem-analysis-4eoi)
-- [Dev.to/JS] [Become a Pro Level React Dev: 39 Essential Concepts Every Frontend Dev Should Master](https://dev.to/aajinkya/become-a-pro-level-react-dev-39-essential-concepts-every-frontend-dev-should-master-317c)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
