@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [flatMap vs map in Array](https://dev.to/mailtodanish/flatmap-vs-map-in-array-4jhp)
+- [Dev.to/JS] [Why React Re-Renders?](https://dev.to/anjankarmakar/why-react-re-renders-4bao)
 - [Dev.to/JS] [The Power of a Standout Portfolio for Software Developers](https://dev.to/shahmir049/the-power-of-a-standout-portfolio-for-software-developers-19id)
 - [Dev.to/JS] [Promises in JavaScript for Beginners](https://dev.to/shubhsharma19/promises-in-javascript-for-beginners-2h46)
 - [Dev.to/JS] [SOLID Principles: It&#39;s That Easy! 😱 STANDOUT 🌟 with SOLID Principles! 🧙‍♂️✨](https://dev.to/ihssmaheel/solid-principles-its-that-easy-standout-with-solid-principles-ak0)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating visually rich PDFs with PDF-Frame-Vue](https://dev.to/nswamy14/creating-visually-rich-pdfs-with-pdf-frame-vue-4577)
 - [Dev.to/JS] [how Javascript help developers](https://dev.to/prahllad/how-javascript-help-developers-3m9c)
 - [Dev.to/JS] [Step By Step Guide For Full Stack Developer in 2024](https://dev.to/fahimulkabir/step-by-step-guide-for-full-stack-developer-in-2024-aa8)
-- [Dev.to/JS] [How to get position of mouse pointer in JavaScript](https://dev.to/thezaidhassan/how-to-get-position-of-mouse-pointer-in-javascript-9k2)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/arthurbryantofficial84/buy-old-gmail-accounts-4kn0)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
