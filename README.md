@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [StudioMax - Agency multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/mike_andreuzza/studiomax-agency-multipage-theme-built-with-astro-tailwind-css-mdx-1hea)
 - [Dev.to/JS] [Learning programming and web development in 2024, navigating the code waves](https://dev.to/ahmed_onour/learning-programming-and-web-development-in-2024-navigating-the-code-waves-25md)
 - [Dev.to/JS] [Avoid these 5 mistakes as a Web Developer](https://dev.to/whyafan/avoid-these-5-mistakes-as-a-web-developer-2lgn)
 - [Dev.to/JS] [SSR React in Go](https://dev.to/k_penguin_sato/ssr-react-in-go-3ej)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The future of frontend development](https://dev.to/codewithshahan/the-future-of-frontend-development-1amd)
 - [Dev.to/JS] [Parabolic Reflector Dish](https://dev.to/rmion/parabolic-reflector-dish-589f)
 - [Dev.to/JS] [Top 10 React JS Interview Theory Questions and Answers 🌟🔥](https://dev.to/arjuncodess/top-10-react-js-interview-theory-questions-and-answers-3e5d)
-- [Dev.to/JS] [Exploring useMemo in React: Optimization and Real-World Applications](https://dev.to/ayako_yk/exploring-usememo-in-react-optimization-and-real-world-applications-5djp)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
