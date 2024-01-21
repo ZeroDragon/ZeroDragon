@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jay shree Ram!](https://dev.to/priyancydey/jay-shree-ram-2phk)
 - [Dev.to/JS] [Using the View Transition API on Angular Framework](https://dev.to/diogom/using-the-view-transition-api-on-angular-framework-2ip3)
 - [Dev.to/JS] [Smooth Horizontal Scrolling with JavaScript: Enhance User Experience](https://dev.to/r4nd3l/smooth-horizontal-scrolling-with-javascript-enhance-user-experience-lf4)
 - [Dev.to/JS] [Mastering Inactivity Logout in React Native](https://dev.to/royged/mastering-inactivity-logout-in-react-native-2hk3)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Classes vs. Objetos em JavaScript: Entendendo as Diferenças Fundamentais](https://dev.to/vitorrios1001/classes-vs-objetos-em-javascript-entendendo-as-diferencas-fundamentais-5f59)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/claudecastro45/buy-verified-cash-app-account-5f1g)
 - [Dev.to/JS] [flatMap vs map in Array](https://dev.to/mailtodanish/flatmap-vs-map-in-array-4jhp)
-- [Dev.to/JS] [Why React Re-Renders?](https://dev.to/anjankarmakar/why-react-re-renders-4bao)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
