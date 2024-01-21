@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Useful VS Code Extensions for Web Developers](https://dev.to/this-is-learning/10-useful-vs-code-extensions-for-web-developers-4ff4)
+- [Dev.to/JS] [The future of frontend development](https://dev.to/codewithshahan/the-future-of-frontend-development-1amd)
 - [Dev.to/JS] [Parabolic Reflector Dish](https://dev.to/rmion/parabolic-reflector-dish-589f)
 - [Dev.to/JS] [Top 10 React JS Interview Theory Questions and Answers 🌟🔥](https://dev.to/arjuncodess/top-10-react-js-interview-theory-questions-and-answers-3e5d)
 - [Dev.to/JS] [Exploring useMemo in React: Optimization and Real-World Applications](https://dev.to/ayako_yk/exploring-usememo-in-react-optimization-and-real-world-applications-5djp)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Puppeteer and JavaScript to Automate Form Filling on Any Website](https://dev.to/mkobimbo/using-puppeteer-and-javascript-to-automate-form-filling-on-any-website-5fol)
 - [Dev.to/JS] [React Throws a Curveball](https://dev.to/mateusriff/react-throws-a-curveball-5g7n)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/caryherrera25/buy-google-5-star-reviews-4ia1)
-- [Dev.to/JS] [Stack and Heap In Js](https://dev.to/arshamroshannejad/stack-and-heap-in-js-2m0f)
-- [Dev.to/JS] [ez-bundle – Javascript tool to research JSON keys in a target directory](https://dev.to/rstanziale/ez-bundle-javascript-tool-to-research-json-keys-in-a-target-directory-2o8d)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
