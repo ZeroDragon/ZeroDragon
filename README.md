@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using the View Transition API on Angular Framework](https://dev.to/diogom/using-the-view-transition-api-on-angular-framework-2ip3)
+- [Dev.to/JS] [Smooth Horizontal Scrolling with JavaScript: Enhance User Experience](https://dev.to/r4nd3l/smooth-horizontal-scrolling-with-javascript-enhance-user-experience-lf4)
+- [Dev.to/JS] [Mastering Inactivity Logout in React Native](https://dev.to/royged/mastering-inactivity-logout-in-react-native-2hk3)
+- [Dev.to/JS] [BDD Testing with Cucumber-js](https://dev.to/keploy/bdd-testing-with-cucumber-js-2n5o)
 - [Dev.to/JS] [How To Upload Images with Astro and Xata](https://dev.to/reeshee/how-to-upload-images-with-astro-and-xata-59i)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/claudecastro45/buy-google-voice-accounts-1jc5)
 - [Dev.to/JS] [Top 5 Google Chrome Features You Probably Missed](https://dev.to/proflead/top-5-google-chrome-features-you-probably-missed-226f)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/claudecastro45/buy-verified-cash-app-account-5f1g)
 - [Dev.to/JS] [flatMap vs map in Array](https://dev.to/mailtodanish/flatmap-vs-map-in-array-4jhp)
 - [Dev.to/JS] [Why React Re-Renders?](https://dev.to/anjankarmakar/why-react-re-renders-4bao)
-- [Dev.to/JS] [The Power of a Standout Portfolio for Software Developers](https://dev.to/shahmir049/the-power-of-a-standout-portfolio-for-software-developers-19id)
-- [Dev.to/JS] [Promises in JavaScript for Beginners](https://dev.to/shubhsharma19/promises-in-javascript-for-beginners-2h46)
-- [Dev.to/JS] [SOLID Principles: It&#39;s That Easy! 😱 STANDOUT 🌟 with SOLID Principles! 🧙‍♂️✨](https://dev.to/ihssmaheel/solid-principles-its-that-easy-standout-with-solid-principles-ak0)
-- [Dev.to/JS] [Creating a Reactive Restaurant Grid with Filtering Using React and Tailwind CSS](https://dev.to/ryaddev/creating-a-reactive-restaurant-grid-with-filtering-using-react-and-tailwind-css-1gn3)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
