@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [asus service center borivali](https://dev.to/techninjaa/asus-service-center-borivali-3o22)
+- [Dev.to/JS] [What is SRD SASSA Status?](https://dev.to/joisie/what-is-srd-sassa-status-2nk7)
+- [Dev.to/JS] [Embrace Success with MB-910 Dumps: Your Journey Starts Now!](https://dev.to/mb910topics/embrace-success-with-mb-910-dumps-your-journey-starts-now-30ek)
 - [Dev.to/JS] [Upload the image with a preview using HTML, CSS &amp; JavaScript](https://dev.to/mirzaleka/upload-the-image-with-a-preview-using-html-css-javascript-53cb)
 - [Dev.to/JS] [Status page + Batteries](https://dev.to/rajnandan1/status-page-batteries-2e58)
 - [Dev.to/JS] [18 JavaScript Tips : You Should Know for Clean and Efficient Code](https://dev.to/devshefali/18-javascript-tips-you-should-know-for-clean-and-efficient-code-1bk3)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We Have To Respect Others.](https://dev.to/darkhorse/we-have-to-respect-others-590m)
 - [Dev.to/JS] [Design a Responsive Silding Sign in &amp; Up Form using JavaScript](https://dev.to/codevicky/design-a-responsive-silding-sign-in-up-form-using-javascript-8on)
 - [Dev.to/JS] [An alternative to the Javascript switch statement](https://dev.to/mhmdjaw/an-alternative-to-the-javascript-switch-statement-1kah)
-- [Dev.to/JS] [Clean your packages of unused exports with ease](https://dev.to/binjospookie/clean-your-packages-of-unused-exports-with-ease-4h3b)
 - [Dev.to/JS] [Htmx and NestJS a quick overview](https://dev.to/diegochavez/htmx-and-nestjs-a-quick-overview-15g5)
-- [Dev.to/JS] [PM2 Cheatsheet](https://dev.to/hashcode01/pm2-cheatsheet-3fb0)
-- [Dev.to/JS] [Building Micro-Frontends: Concepts, Benefits, and Challenges](https://dev.to/bartzalewski/building-micro-frontends-concepts-benefits-and-challenges-5ge2)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
