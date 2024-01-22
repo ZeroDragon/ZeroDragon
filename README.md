@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Programming paradigms in JavaScript](https://dev.to/wadizaatour/programming-paradigms-in-javascript-56bm)
+- [Dev.to/JS] [Clean up your code with ease](https://dev.to/binjospookie/clean-up-your-code-with-ease-1gn7)
+- [Dev.to/JS] [Tips to avoid legacy growth in your large scale web system &lpar;for frontend&rpar;](https://dev.to/leonardorafael/tips-to-avoid-legacy-growth-in-your-large-scale-web-system-for-frontend-1d5h)
+- [Lifehacker] [What to Know Before You Start Your Own Plants From Seed](https://lifehacker.com/home/should-you-grow-garden-seeds)
 - [Dev.to/JS] [Use JavaScript Proxy to protect internal properties](https://dev.to/phuocng/use-javascript-proxy-to-protect-internal-properties-5eib)
 - [Dev.to/JS] [Next.js 14 Server Actions: Boosting Performance](https://dev.to/azizbergach/nextjs-14-server-actions-boosting-performance-11l7)
 - [Dev.to/JS] [&lpar;Cont.&rpar; LangChain.js: Chatting with a PDF](https://dev.to/ajaykrupalk/cont-langchainjs-chatting-with-a-pdf-42gk)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Experimenting with every Next.js 14 rendering option: From SSG to Partial Pre-rendering](https://dev.to/peibolsang/experimenting-with-every-nextjs-14-rendering-option-from-ssg-to-partial-pre-rendering-2il1)
 - [Dev.to/JS] [Union Types in TypeScript](https://dev.to/dindustack/union-type-in-typescript-484e)
 - [Dev.to/JS] [Best 10+ Retool Alternatives – Comprehensive Guide](https://dev.to/flatlogic/best-10-retool-alternatives-comprehensive-guide-131b)
-- [Dev.to/JS] [La Maravilla del Modelo de Caja &quot;Border-box&quot;!](https://dev.to/eloyparga/la-maravilla-del-modelo-de-caja-border-box-26ma)
-- [Dev.to/JS] [SuperProps: Trending Landing Page Collections with Next.js](https://dev.to/reactawesome/superprops-trending-landing-page-collections-with-nextjs-47b2)
-- [Dev.to/JS] [Building Server-Side Rendering &lpar;SSR&rpar; Applications with Deno and JSX](https://dev.to/franciscomendes10866/building-server-side-rendering-ssr-applications-with-deno-and-jsx-bk4)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Are 8K TVs Worth It in 2024?](https://lifehacker.com/tech/are-8k-tvs-worth-it-in-2024)
 - [Lifehacker] [Use These Phrases Instead of Pretending to Agree With Someone](https://lifehacker.com/health/how-to-politely-disagree-with-someone)
 - [Lifehacker] [Amazon’s Newest Fire HD 10 Tablet Is 42% Off Right Now](https://lifehacker.com/tech/amazon-fire-hd-10-tablet-lowest-price-ever)
-- [Lifehacker] [These Are the Best Features Coming in iOS 17.3 Next Week](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)
-- [Lifehacker] [Where to Get an Apple Watch With a Blood Oxygen Sensor &lpar;Before They’re Gone for Good&rpar;](https://lifehacker.com/tech/apple-watch-series-9-ultra-2-with-a-blood-oxygen-sensor)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Features Coming in iOS 17.3 Next Week](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)<!-- TECH-POSTS:END -->
 
 ---
 
