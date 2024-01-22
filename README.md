@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [match all conditions in the first array and at least one condition for the second array typeorm](https://dev.to/arjun707/match-all-conditions-in-the-first-array-and-at-least-one-condition-for-the-second-array-typeorm-hm4)
 - [Dev.to/JS] [Experimenting with every Next.js 14 rendering option: From SSG to Partial Pre-rendering](https://dev.to/peibolsang/experimenting-with-every-nextjs-14-rendering-option-from-ssg-to-partial-pre-rendering-2il1)
 - [Dev.to/JS] [Union Types in TypeScript](https://dev.to/dindustack/union-type-in-typescript-484e)
 - [Dev.to/JS] [Best 10+ Retool Alternatives – Comprehensive Guide](https://dev.to/flatlogic/best-10-retool-alternatives-comprehensive-guide-131b)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 3.1.0 Released](https://dev.to/tsparticles/tsparticles-310-released-38m2)
 - [Dev.to/JS] [Who Trust Trustpilot? Can you trust Trustpilot?](https://dev.to/asmalhatun2n/who-trust-trustpilot-can-you-trust-trustpilot-lff)
 - [Dev.to/JS] [Exploring JavaScript String Methods: A Comprehensive Guide](https://dev.to/manthanank/exploring-javascript-string-methods-a-comprehensive-guide-49m0)
-- [Dev.to/JS] [TF #31 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-31-your-weekly-frontend-digest-1eck)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
