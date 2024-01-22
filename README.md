@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Snansj](https://dev.to/turanulupinar/snansj-596l)
+- [Lifehacker] [The Best Apps to Make Sure You Actually Do the Thing You Said You’d Do](https://lifehacker.com/work/the-best-apps-for-staying-accountable-to-your-goals)
+- [Dev.to/JS] [Creating a Word Art text-curving design picker in only 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/creating-a-word-art-text-curving-design-picke-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-4ei7)
+- [Dev.to/JS] [👨‍💻 Daily Code 46 | Random Number 1-100, 🐍 Python and 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-46-random-number-1-100-python-and-javascript-4n25)
+- [Lifehacker] [Three Good Reasons to Update to iOS 17.3](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)
 - [Dev.to/JS] [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 5](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-5-2hdm)
 - [Lifehacker] [These Are the Best Solar Panels You Can Put on Your House Right Now](https://lifehacker.com/home/the-best-solar-panels-you-can-put-on-your-house-right-now)
 - [Dev.to/JS] [Hell!hjhjh](https://dev.to/priyancydey/hellhjhjh-3dmk)
@@ -37,12 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [test article](https://dev.to/priyancydey/test-article-1ja8)
 - [Dev.to/JS] [Hello World by Testing 401](https://dev.to/priyancydey/hello-world-by-testing-401-3a2n)
 - [Dev.to/JS] [Building my own PostgresGUI with TypeORM+TypeGraphQl class generaion](https://dev.to/tigawanna/building-my-own-postgresgui-with-typeormtypegraphql-class-generaion-2fm1)
-- [Dev.to/JS] [Mastering JavaScript: Essential Topics to Crack Your Frontend Interview](https://dev.to/aajinkya/mastering-javascript-essential-topics-to-crack-your-frontend-interview-13c5)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/williamchapmanofficials/buy-verified-cash-app-account-g4m)
 - [Lifehacker] [Make Your Android Phone &lpar;Slightly&rpar; Faster by Deleting Your Browser&#39;s Cookies and Cache](https://lifehacker.com/tech/how-to-delete-your-browsers-cookies-and-cache-on-android)
 - [Lifehacker] [The iRobot Roomba Combo j5 Is 50% Off Right Now](https://lifehacker.com/home/the-irobot-roomba-combo-j5-is-half-off-right-now)
 - [Lifehacker] [The ‘Animedoro’ Method Can Make You More Productive While Giving You More Downtime](https://lifehacker.com/work/how-to-use-animedoro-productivity-method)
-- [Dev.to/JS] [🗜️Using Cantor-Pairing as a String Compression](https://dev.to/creuserr/cantor-pairing-for-string-compression-1534)
 - [Lifehacker] [How ‘Values-Based Budgeting’ Can Help You Spend More Mindfully](https://lifehacker.com/money/how-to-make-a-values-based-budget)
 - [Lifehacker] [The Best Ways to Make Your Own GIFs](https://lifehacker.com/tech/the-best-ways-to-make-your-own-gifs)
 - [Lifehacker] [This Coffee Maker Makes Great Coffee, but It&#39;s Way Too Expensive and Complicated](https://lifehacker.com/tech/miele-milkperfection-6360-review)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The First Six Things to Do When You&#39;re Facing Foreclosure](https://lifehacker.com/money/do-these-things-when-facing-foreclosure)
 - [Lifehacker] [The $3,000 Samsung 8K QN900C Is Worth the Splurge](https://lifehacker.com/tech/samsung-8k-qn900c-review)
 - [Lifehacker] [The Pros and Cons of Washing Your Clothes Inside-Out](https://lifehacker.com/home/the-pros-and-cons-of-washing-your-clothes-inside-out)
-- [Lifehacker] [Your Leftovers Deserve the Egg Roll Treatment](https://lifehacker.com/food-drink/egg-roll-leftovers)
-- [Lifehacker] [You Can Now Preorder the Apple Vision Pro](https://lifehacker.com/tech/you-can-now-preorder-the-apple-vision-pro)
-- [Lifehacker] [Turn Off This Discord Setting If You Don&#39;t Want Others Recording Your Voice](https://lifehacker.com/tech/how-to-turn-off-discord-clips)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Leftovers Deserve the Egg Roll Treatment](https://lifehacker.com/food-drink/egg-roll-leftovers)<!-- TECH-POSTS:END -->
 
 ---
 
