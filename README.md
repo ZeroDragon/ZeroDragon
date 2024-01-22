@@ -26,9 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cantor-Pairing for String Compression](https://dev.to/creuserr/cantor-pairing-for-string-compression-1534)
+- [Lifehacker] [How ‘Values-Based Budgeting’ Can Help You Spend More Mindfully](https://lifehacker.com/money/how-to-make-a-values-based-budget)
+- [Dev.to/JS] [How to combine all the advantages of a website and a mobile application in one product?](https://dev.to/angelamiton/how-to-combine-all-the-advantages-of-a-website-and-a-mobile-application-in-one-product-2954)
+- [Dev.to/JS] [Formik in production: 2 years in review](https://dev.to/npchampion/formik-in-production-2-years-in-review-1beo)
+- [Lifehacker] [The Best Ways to Make Your Own GIFs](https://lifehacker.com/tech/the-best-ways-to-make-your-own-gifs)
 - [Dev.to/JS] [Interactive Mario/Luigi Pixel Art](https://dev.to/jakekbuckner/interactive-marioluigi-pixel-art-fco)
+- [Lifehacker] [This Coffee Maker Makes Great Coffee, but It&#39;s Way Too Expensive and Complicated](https://lifehacker.com/tech/miele-milkperfection-6360-review)
 - [Dev.to/JS] [Episode 24/03: Angular 17.1](https://dev.to/this-is-angular/episode-2403-angular-171-5hfk)
 - [Dev.to/JS] [Embark on Your JavaScript Journey: A Guide to Free Courses and Certifications for Beginner Frontend Web Developers](https://dev.to/webkat/embark-on-your-javascript-journey-a-guide-to-free-courses-and-certifications-for-beginner-frontend-web-developers-4hn)
+- [Lifehacker] [The Best Ways to Set Up a Seed-Starting Station in Your Home](https://lifehacker.com/home/how-to-set-up-your-own-seed-starting-station)
 - [Dev.to/JS] [Programming paradigms in JavaScript](https://dev.to/wadizaatour/programming-paradigms-in-javascript-56bm)
 - [Dev.to/JS] [Clean up your code with ease](https://dev.to/binjospookie/clean-up-your-code-with-ease-1gn7)
 - [Lifehacker] [How to Use AirDrop on &lpar;Almost&rpar; Any Apple Device](https://lifehacker.com/tech/how-to-use-airdrop-on-iphone-mac)
@@ -37,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use JavaScript Proxy to protect internal properties](https://dev.to/phuocng/use-javascript-proxy-to-protect-internal-properties-5eib)
 - [Dev.to/JS] [Next.js 14 Server Actions: Boosting Performance](https://dev.to/azizbergach/nextjs-14-server-actions-boosting-performance-11l7)
 - [Dev.to/JS] [&lpar;Cont.&rpar; LangChain.js: Chatting with a PDF](https://dev.to/ajaykrupalk/cont-langchainjs-chatting-with-a-pdf-42gk)
-- [Dev.to/JS] [Top 6 VSCode extensions for every Frontend Engineer](https://dev.to/adedaniel/top-6-vscode-extensions-for-every-frontend-engineer-55kp)
-- [Dev.to/JS] [Kekdsn](https://dev.to/turanulupinar/kekdsn-2iek)
-- [Dev.to/JS] [match all conditions in the first array and at least one condition for the second array typeorm](https://dev.to/arjun707/match-all-conditions-in-the-first-array-and-at-least-one-condition-for-the-second-array-typeorm-hm4)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
 - [Lifehacker] [How ‘Bunching’ Your Donations Can Help You at Tax Time](https://lifehacker.com/money/what-is-donation-bunching-in-taxes)
 - [Lifehacker] [The Best New Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-19-2024)
-- [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-19-2024)
-- [Lifehacker] [Are 8K TVs Worth It in 2024?](https://lifehacker.com/tech/are-8k-tvs-worth-it-in-2024)
-- [Lifehacker] [Use These Phrases Instead of Pretending to Agree With Someone](https://lifehacker.com/health/how-to-politely-disagree-with-someone)
-- [Lifehacker] [Amazon’s Newest Fire HD 10 Tablet Is 42% Off Right Now](https://lifehacker.com/tech/amazon-fire-hd-10-tablet-lowest-price-ever)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-19-2024)<!-- TECH-POSTS:END -->
 
 ---
 
