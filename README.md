@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interactive Mario/Luigi Pixel Art](https://dev.to/jakekbuckner/interactive-marioluigi-pixel-art-fco)
+- [Dev.to/JS] [Episode 24/03: Angular 17.1](https://dev.to/this-is-angular/episode-2403-angular-171-5hfk)
+- [Dev.to/JS] [Embark on Your JavaScript Journey: A Guide to Free Courses and Certifications for Beginner Frontend Web Developers](https://dev.to/webkat/embark-on-your-javascript-journey-a-guide-to-free-courses-and-certifications-for-beginner-frontend-web-developers-4hn)
 - [Dev.to/JS] [Programming paradigms in JavaScript](https://dev.to/wadizaatour/programming-paradigms-in-javascript-56bm)
 - [Dev.to/JS] [Clean up your code with ease](https://dev.to/binjospookie/clean-up-your-code-with-ease-1gn7)
+- [Lifehacker] [How to Use AirDrop on &lpar;Almost&rpar; Any Apple Device](https://lifehacker.com/tech/how-to-use-airdrop-on-iphone-mac)
 - [Dev.to/JS] [Tips to avoid legacy growth in your large scale web system &lpar;for frontend&rpar;](https://dev.to/leonardorafael/tips-to-avoid-legacy-growth-in-your-large-scale-web-system-for-frontend-1d5h)
 - [Lifehacker] [What to Know Before You Start Your Own Plants From Seed](https://lifehacker.com/home/should-you-grow-garden-seeds)
 - [Dev.to/JS] [Use JavaScript Proxy to protect internal properties](https://dev.to/phuocng/use-javascript-proxy-to-protect-internal-properties-5eib)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 6 VSCode extensions for every Frontend Engineer](https://dev.to/adedaniel/top-6-vscode-extensions-for-every-frontend-engineer-55kp)
 - [Dev.to/JS] [Kekdsn](https://dev.to/turanulupinar/kekdsn-2iek)
 - [Dev.to/JS] [match all conditions in the first array and at least one condition for the second array typeorm](https://dev.to/arjun707/match-all-conditions-in-the-first-array-and-at-least-one-condition-for-the-second-array-typeorm-hm4)
-- [Dev.to/JS] [Experimenting with every Next.js 14 rendering option: From SSG to Partial Pre-rendering](https://dev.to/peibolsang/experimenting-with-every-nextjs-14-rendering-option-from-ssg-to-partial-pre-rendering-2il1)
-- [Dev.to/JS] [Union Types in TypeScript](https://dev.to/dindustack/union-type-in-typescript-484e)
-- [Dev.to/JS] [Best 10+ Retool Alternatives – Comprehensive Guide](https://dev.to/flatlogic/best-10-retool-alternatives-comprehensive-guide-131b)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s NYT Connections Hints &lpar;and Answer&rpar; for Friday, January 19, 2024](https://lifehacker.com/entertainment/nyt-connections-answer-today-january-19-2024)
 - [Lifehacker] [Are 8K TVs Worth It in 2024?](https://lifehacker.com/tech/are-8k-tvs-worth-it-in-2024)
 - [Lifehacker] [Use These Phrases Instead of Pretending to Agree With Someone](https://lifehacker.com/health/how-to-politely-disagree-with-someone)
-- [Lifehacker] [Amazon’s Newest Fire HD 10 Tablet Is 42% Off Right Now](https://lifehacker.com/tech/amazon-fire-hd-10-tablet-lowest-price-ever)
-- [Lifehacker] [These Are the Best Features Coming in iOS 17.3 Next Week](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Amazon’s Newest Fire HD 10 Tablet Is 42% Off Right Now](https://lifehacker.com/tech/amazon-fire-hd-10-tablet-lowest-price-ever)<!-- TECH-POSTS:END -->
 
 ---
 
