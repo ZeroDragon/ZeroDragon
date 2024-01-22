@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Cantor-Pairing for String Compression](https://dev.to/creuserr/cantor-pairing-for-string-compression-1534)
+- [Dev.to/JS] [🗜️Using Cantor-Pairing as a String Compression](https://dev.to/creuserr/cantor-pairing-for-string-compression-1534)
 - [Lifehacker] [How ‘Values-Based Budgeting’ Can Help You Spend More Mindfully](https://lifehacker.com/money/how-to-make-a-values-based-budget)
 - [Dev.to/JS] [How to combine all the advantages of a website and a mobile application in one product?](https://dev.to/angelamiton/how-to-combine-all-the-advantages-of-a-website-and-a-mobile-application-in-one-product-2954)
 - [Dev.to/JS] [Formik in production: 2 years in review](https://dev.to/npchampion/formik-in-production-2-years-in-review-1beo)
