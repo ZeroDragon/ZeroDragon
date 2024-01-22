@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Semplice - SaaS multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/semplice-saas-multipage-theme-built-with-astro-tailwind-css-mdx-3hb4)
 - [Dev.to/JS] [tsParticles 3.1.0 Released](https://dev.to/tsparticles/tsparticles-310-released-38m2)
 - [Dev.to/JS] [Who Trust Trustpilot? Can you trust Trustpilot?](https://dev.to/asmalhatun2n/who-trust-trustpilot-can-you-trust-trustpilot-lff)
 - [Dev.to/JS] [Exploring JavaScript String Methods: A Comprehensive Guide](https://dev.to/manthanank/exploring-javascript-string-methods-a-comprehensive-guide-49m0)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is SRD SASSA Status?](https://dev.to/joisie/what-is-srd-sassa-status-2nk7)
 - [Dev.to/JS] [Embrace Success with MB-910 Dumps: Your Journey Starts Now!](https://dev.to/mb910topics/embrace-success-with-mb-910-dumps-your-journey-starts-now-30ek)
 - [Dev.to/JS] [Upload the image with a preview using HTML, CSS &amp; JavaScript](https://dev.to/mirzaleka/upload-the-image-with-a-preview-using-html-css-javascript-53cb)
-- [Dev.to/JS] [Status page + Batteries](https://dev.to/rajnandan1/status-page-batteries-2e58)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
