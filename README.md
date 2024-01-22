@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Clean your packages of unused exports with ease](https://dev.to/binjospookie/clean-your-packages-of-unused-exports-with-ease-4h3b)
 - [Dev.to/JS] [Htmx and NestJS a quick overview](https://dev.to/diegochavez/htmx-and-nestjs-a-quick-overview-15g5)
 - [Dev.to/JS] [PM2 Cheatsheet](https://dev.to/hashcode01/pm2-cheatsheet-3fb0)
 - [Dev.to/JS] [Building Micro-Frontends: Concepts, Benefits, and Challenges](https://dev.to/bartzalewski/building-micro-frontends-concepts-benefits-and-challenges-5ge2)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using the View Transition API on Angular Framework](https://dev.to/diogom/using-the-view-transition-api-on-angular-framework-2ip3)
 - [Dev.to/JS] [Smooth Horizontal Scrolling with JavaScript: Enhance User Experience](https://dev.to/r4nd3l/smooth-horizontal-scrolling-with-javascript-enhance-user-experience-lf4)
 - [Dev.to/JS] [Mastering Inactivity Logout in React Native](https://dev.to/royged/mastering-inactivity-logout-in-react-native-2hk3)
-- [Dev.to/JS] [BDD Testing with Cucumber-js](https://dev.to/keploy/bdd-testing-with-cucumber-js-2n5o)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
