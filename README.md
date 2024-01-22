@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Upload the image with a preview using HTML, CSS &amp; JavaScript](https://dev.to/mirzaleka/upload-the-image-with-a-preview-using-html-css-javascript-53cb)
+- [Dev.to/JS] [Status page + Batteries](https://dev.to/rajnandan1/status-page-batteries-2e58)
 - [Dev.to/JS] [18 JavaScript Tips : You Should Know for Clean and Efficient Code](https://dev.to/devshefali/18-javascript-tips-you-should-know-for-clean-and-efficient-code-1bk3)
 - [Dev.to/JS] [Introducción al DOM](https://dev.to/ulisesafcdev/introduccion-al-dom-35pi)
 - [Dev.to/JS] [A Guide to Better Code Organization in React through File Separation](https://dev.to/michaellarocca/a-guide-to-better-code-organization-in-react-through-file-separation-4gog)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Htmx and NestJS a quick overview](https://dev.to/diegochavez/htmx-and-nestjs-a-quick-overview-15g5)
 - [Dev.to/JS] [PM2 Cheatsheet](https://dev.to/hashcode01/pm2-cheatsheet-3fb0)
 - [Dev.to/JS] [Building Micro-Frontends: Concepts, Benefits, and Challenges](https://dev.to/bartzalewski/building-micro-frontends-concepts-benefits-and-challenges-5ge2)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.1](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-11-7do)
-- [Dev.to/JS] [10 Websites To Learn Anything For Free On The Internet](https://dev.to/durgesh4993/10-websites-to-learn-anything-for-free-on-the-internet-4ahe)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
