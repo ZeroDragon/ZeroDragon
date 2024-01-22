@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Convert Shopify website into WordPress](https://dev.to/dgihost/convert-shopify-website-into-wordpress-2k06)
+- [Dev.to/JS] [Understanding JavaScript Scope: Global and Local](https://dev.to/mgbejxi/understanding-javascript-scope-global-and-local-2jp0)
+- [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
+- [Lifehacker] [The Best Ways to Teach Your Kids to Manage Their Free Time](https://lifehacker.com/family/teach-kids-to-manage-free-time)
 - [Dev.to/JS] [Snansj](https://dev.to/turanulupinar/snansj-596l)
 - [Lifehacker] [The Best Apps to Make Sure You Actually Do the Thing You Said You’d Do](https://lifehacker.com/work/the-best-apps-for-staying-accountable-to-your-goals)
 - [Dev.to/JS] [Creating a Word Art text-curving design picker in only 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/creating-a-word-art-text-curving-design-picke-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-4ei7)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Build a Full Computer Inside a Game Boy](https://lifehacker.com/tech/reboi-kickstarter-build-a-computer-inside-a-game-boy)
 - [Dev.to/JS] [🗺️ The React Roadmap for 2024](https://dev.to/codebootcamp/the-react-roadmap-for-2024-1g24)
 - [Dev.to/JS] [test article](https://dev.to/priyancydey/test-article-1ja8)
-- [Dev.to/JS] [Hello World by Testing 401](https://dev.to/priyancydey/hello-world-by-testing-401-3a2n)
-- [Dev.to/JS] [Building my own PostgresGUI with TypeORM+TypeGraphQl class generaion](https://dev.to/tigawanna/building-my-own-postgresgui-with-typeormtypegraphql-class-generaion-2fm1)
 - [Lifehacker] [Make Your Android Phone &lpar;Slightly&rpar; Faster by Deleting Your Browser&#39;s Cookies and Cache](https://lifehacker.com/tech/how-to-delete-your-browsers-cookies-and-cache-on-android)
 - [Lifehacker] [The iRobot Roomba Combo j5 Is 50% Off Right Now](https://lifehacker.com/home/the-irobot-roomba-combo-j5-is-half-off-right-now)
 - [Lifehacker] [The ‘Animedoro’ Method Can Make You More Productive While Giving You More Downtime](https://lifehacker.com/work/how-to-use-animedoro-productivity-method)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Make These Mistakes When Paying Off Debt](https://lifehacker.com/money/mistakes-to-avoid-when-paying-off-debt)
 - [Lifehacker] [Use These Three Phrases to Fight Weight Stigma at the Doctor’s Office](https://lifehacker.com/health/how-to-fight-weight-stigma-at-doctors-office)
 - [Lifehacker] [The First Six Things to Do When You&#39;re Facing Foreclosure](https://lifehacker.com/money/do-these-things-when-facing-foreclosure)
-- [Lifehacker] [The $3,000 Samsung 8K QN900C Is Worth the Splurge](https://lifehacker.com/tech/samsung-8k-qn900c-review)
-- [Lifehacker] [The Pros and Cons of Washing Your Clothes Inside-Out](https://lifehacker.com/home/the-pros-and-cons-of-washing-your-clothes-inside-out)
-- [Lifehacker] [Your Leftovers Deserve the Egg Roll Treatment](https://lifehacker.com/food-drink/egg-roll-leftovers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The $3,000 Samsung 8K QN900C Is Worth the Splurge](https://lifehacker.com/tech/samsung-8k-qn900c-review)<!-- TECH-POSTS:END -->
 
 ---
 
