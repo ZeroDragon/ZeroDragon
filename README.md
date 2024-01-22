@@ -26,10 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 5](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-5-2hdm)
+- [Lifehacker] [These Are the Best Solar Panels You Can Put on Your House Right Now](https://lifehacker.com/home/the-best-solar-panels-you-can-put-on-your-house-right-now)
 - [Dev.to/JS] [Hell!hjhjh](https://dev.to/priyancydey/hellhjhjh-3dmk)
 - [Dev.to/JS] [Hell!hjjhjhjhjhjh](https://dev.to/priyancydey/hellhjjhjhjhjhjh-6l1)
 - [Dev.to/JS] [Hell!hjh](https://dev.to/priyancydey/hellhjh-4ffb)
 - [Dev.to/JS] [Hello, World!hjhjhjhjhjh](https://dev.to/priyancydey/hello-worldhjhjhjhjhjh-gac)
+- [Lifehacker] [You Can Build a Full Computer Inside a Game Boy](https://lifehacker.com/tech/reboi-kickstarter-build-a-computer-inside-a-game-boy)
 - [Dev.to/JS] [🗺️ The React Roadmap for 2024](https://dev.to/codebootcamp/the-react-roadmap-for-2024-1g24)
 - [Dev.to/JS] [test article](https://dev.to/priyancydey/test-article-1ja8)
 - [Dev.to/JS] [Hello World by Testing 401](https://dev.to/priyancydey/hello-world-by-testing-401-3a2n)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The ‘Animedoro’ Method Can Make You More Productive While Giving You More Downtime](https://lifehacker.com/work/how-to-use-animedoro-productivity-method)
 - [Dev.to/JS] [🗜️Using Cantor-Pairing as a String Compression](https://dev.to/creuserr/cantor-pairing-for-string-compression-1534)
 - [Lifehacker] [How ‘Values-Based Budgeting’ Can Help You Spend More Mindfully](https://lifehacker.com/money/how-to-make-a-values-based-budget)
-- [Dev.to/JS] [How to combine all the advantages of a website and a mobile application in one product?](https://dev.to/angelamiton/how-to-combine-all-the-advantages-of-a-website-and-a-mobile-application-in-one-product-2954)
 - [Lifehacker] [The Best Ways to Make Your Own GIFs](https://lifehacker.com/tech/the-best-ways-to-make-your-own-gifs)
 - [Lifehacker] [This Coffee Maker Makes Great Coffee, but It&#39;s Way Too Expensive and Complicated](https://lifehacker.com/tech/miele-milkperfection-6360-review)
 - [Lifehacker] [The Best Ways to Set Up a Seed-Starting Station in Your Home](https://lifehacker.com/home/how-to-set-up-your-own-seed-starting-station)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Pros and Cons of Washing Your Clothes Inside-Out](https://lifehacker.com/home/the-pros-and-cons-of-washing-your-clothes-inside-out)
 - [Lifehacker] [Your Leftovers Deserve the Egg Roll Treatment](https://lifehacker.com/food-drink/egg-roll-leftovers)
 - [Lifehacker] [You Can Now Preorder the Apple Vision Pro](https://lifehacker.com/tech/you-can-now-preorder-the-apple-vision-pro)
-- [Lifehacker] [Turn Off This Discord Setting If You Don&#39;t Want Others Recording Your Voice](https://lifehacker.com/tech/how-to-turn-off-discord-clips)
-- [Lifehacker] [The Best Security Cameras You Can Buy Right Now](https://lifehacker.com/tech/the-best-security-cameras)
-- [Lifehacker] [The Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn Off This Discord Setting If You Don&#39;t Want Others Recording Your Voice](https://lifehacker.com/tech/how-to-turn-off-discord-clips)<!-- TECH-POSTS:END -->
 
 ---
 
