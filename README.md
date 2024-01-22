@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use JavaScript Proxy to protect internal properties](https://dev.to/phuocng/use-javascript-proxy-to-protect-internal-properties-5eib)
+- [Dev.to/JS] [Next.js 14 Server Actions: Boosting Performance](https://dev.to/azizbergach/nextjs-14-server-actions-boosting-performance-11l7)
+- [Dev.to/JS] [&lpar;Cont.&rpar; LangChain.js: Chatting with a PDF](https://dev.to/ajaykrupalk/cont-langchainjs-chatting-with-a-pdf-42gk)
 - [Dev.to/JS] [Top 6 VSCode extensions for every Frontend Engineer](https://dev.to/adedaniel/top-6-vscode-extensions-for-every-frontend-engineer-55kp)
 - [Dev.to/JS] [Kekdsn](https://dev.to/turanulupinar/kekdsn-2iek)
 - [Dev.to/JS] [match all conditions in the first array and at least one condition for the second array typeorm](https://dev.to/arjun707/match-all-conditions-in-the-first-array-and-at-least-one-condition-for-the-second-array-typeorm-hm4)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [La Maravilla del Modelo de Caja &quot;Border-box&quot;!](https://dev.to/eloyparga/la-maravilla-del-modelo-de-caja-border-box-26ma)
 - [Dev.to/JS] [SuperProps: Trending Landing Page Collections with Next.js](https://dev.to/reactawesome/superprops-trending-landing-page-collections-with-nextjs-47b2)
 - [Dev.to/JS] [Building Server-Side Rendering &lpar;SSR&rpar; Applications with Deno and JSX](https://dev.to/franciscomendes10866/building-server-side-rendering-ssr-applications-with-deno-and-jsx-bk4)
-- [Dev.to/JS] [Vue 3 Explained: Rendering 101](https://dev.to/nasserahmed009/vue-3-explained-rendering-101-270g)
-- [Dev.to/JS] [Semplice - SaaS multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/semplice-saas-multipage-theme-built-with-astro-tailwind-css-mdx-3hb4)
-- [Dev.to/JS] [tsParticles 3.1.0 Released](https://dev.to/tsparticles/tsparticles-310-released-38m2)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
