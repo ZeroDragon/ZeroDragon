@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [We Have To Respect Others.](https://dev.to/darkhorse/we-have-to-respect-others-590m)
 - [Dev.to/JS] [Design a Responsive Silding Sign in &amp; Up Form using JavaScript](https://dev.to/codevicky/design-a-responsive-silding-sign-in-up-form-using-javascript-8on)
 - [Dev.to/JS] [An alternative to the Javascript switch statement](https://dev.to/mhmdjaw/an-alternative-to-the-javascript-switch-statement-1kah)
 - [Dev.to/JS] [Clean your packages of unused exports with ease](https://dev.to/binjospookie/clean-your-packages-of-unused-exports-with-ease-4h3b)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HI! I am Salah what is your favourite language in this world???](https://dev.to/salah-haji/hi-i-am-salah-what-is-your-favourite-language-in-this-world-3pk3)
 - [Dev.to/JS] [hey Magiciannnnn!](https://dev.to/priyancydey/hey-magiciannnnn-j7b)
 - [Dev.to/JS] [Jay shree Ram!](https://dev.to/priyancydey/jay-shree-ram-2phk)
-- [Dev.to/JS] [Using the View Transition API on Angular Framework](https://dev.to/diogom/using-the-view-transition-api-on-angular-framework-2ip3)
 - [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
