@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React-Router-Dom as told by a noob :&rpar;](https://dev.to/hroney/react-router-dom-as-told-by-a-noob--4bng)
+- [Dev.to/JS] [5 Dead-Simple Tips to Make Your Code More Readable as a Junior Frontend Developer &lpar;And Get Your Pull Requests Approved Faster&rpar; 🎉](https://dev.to/_ndeyefatoudiop/5-dead-simple-tips-to-make-your-code-more-readable-as-a-junior-frontend-developer-and-get-your-pull-requests-approved-faster-41em)
+- [Dev.to/JS] [Learn Next.js 14](https://dev.to/bealecs/learn-nextjs-14-446e)
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.2](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-12-gcf)
 - [Dev.to/JS] [Convert Shopify website into WordPress](https://dev.to/dgihost/convert-shopify-website-into-wordpress-2k06)
 - [Dev.to/JS] [Understanding JavaScript Scope: Global and Local](https://dev.to/mgbejxi/understanding-javascript-scope-global-and-local-2jp0)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
@@ -39,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Solar Panels You Can Put on Your House Right Now](https://lifehacker.com/home/the-best-solar-panels-you-can-put-on-your-house-right-now)
 - [Dev.to/JS] [Hell!hjhjh](https://dev.to/priyancydey/hellhjhjh-3dmk)
 - [Dev.to/JS] [Hell!hjjhjhjhjhjh](https://dev.to/priyancydey/hellhjjhjhjhjhjh-6l1)
-- [Dev.to/JS] [Hell!hjh](https://dev.to/priyancydey/hellhjh-4ffb)
-- [Dev.to/JS] [Hello, World!hjhjhjhjhjh](https://dev.to/priyancydey/hello-worldhjhjhjhjhjh-gac)
 - [Lifehacker] [You Can Build a Full Computer Inside a Game Boy](https://lifehacker.com/tech/reboi-kickstarter-build-a-computer-inside-a-game-boy)
-- [Dev.to/JS] [🗺️ The React Roadmap for 2024](https://dev.to/codebootcamp/the-react-roadmap-for-2024-1g24)
-- [Dev.to/JS] [test article](https://dev.to/priyancydey/test-article-1ja8)
 - [Lifehacker] [Make Your Android Phone &lpar;Slightly&rpar; Faster by Deleting Your Browser&#39;s Cookies and Cache](https://lifehacker.com/tech/how-to-delete-your-browsers-cookies-and-cache-on-android)
 - [Lifehacker] [The iRobot Roomba Combo j5 Is 50% Off Right Now](https://lifehacker.com/home/the-irobot-roomba-combo-j5-is-half-off-right-now)
 - [Lifehacker] [The ‘Animedoro’ Method Can Make You More Productive While Giving You More Downtime](https://lifehacker.com/work/how-to-use-animedoro-productivity-method)
