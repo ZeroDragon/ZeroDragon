@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Planning For Interview Preparation &lpar;2 months&rpar;](https://dev.to/mechamahmud71/planning-for-interview-preparation-2-months-3f7g)
+- [Dev.to/JS] [Vue Router: Exploring Dynamic Routes with Example](https://dev.to/webcraft-notes/vue-router-exploring-dynamic-routes-with-example-38ma)
+- [Dev.to/JS] [Unlocking the Power of HTML&#39;s Native Browser Dialog Element](https://dev.to/opensauced/the-native-browser-dialog-element-1nhn)
 - [Dev.to/JS] [How To - ReactJS - Create Snake Game](https://dev.to/kylestech95/how-to-reactjs-create-snake-game-3ke2)
 - [Dev.to/JS] [🤟 Building A New Place For Coding Libraries](https://dev.to/frulow/building-a-place-for-libraries-5h3l)
+- [Lifehacker] [What&#39;s New on Hulu in February 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-february-2024)
 - [Dev.to/JS] [3 Resources To Become Better 99% WebDev💥💫](https://dev.to/corners2wall/3-resources-to-become-better-99-webdev-4bhm)
 - [Dev.to/JS] [How to Download Toontrack – EZkeys 2 Complete](https://dev.to/kalaplugin111/how-to-download-toontrack-ezkeys-2-complete-4l8p)
+- [Lifehacker] [The Most Common Windshield Wiper Problems &lpar;and How to Fix Them&rpar;](https://lifehacker.com/travel/most-common-windshield-wiper-problems-and-how-to-fix)
 - [Dev.to/JS] [Generating MD5 hashes on Node.js](https://dev.to/douglasdemoura/generating-md5-strings-on-nodejs-4g1k)
 - [Dev.to/JS] [Chennai Chronicles: Unveiling the Top 10 International Schools Shaping Futures](https://dev.to/chennaitop10/chennai-chronicles-unveiling-the-top-10-international-schools-shaping-futures-3e47)
 - [Dev.to/JS] [All the metatags you might need for SEO in one React component.](https://dev.to/seven/all-the-metatags-you-might-need-for-seo-in-one-react-component-146c)
 - [Dev.to/JS] [Enhancing the Security of Your Node.js Applications: A Comprehensive Guide](https://dev.to/gkhan205/enhancing-the-security-of-your-nodejs-applications-a-comprehensive-guide-1emf)
 - [Dev.to/JS] [3 Principles for Component-Driven Development](https://dev.to/bitdev_/3-principles-for-component-driven-development-13hc)
-- [Dev.to/JS] [A Comprehensive Exploration of VR App Development with Unity and C#](https://dev.to/officialintelvue/a-comprehensive-exploration-of-vr-app-development-with-unity-and-c-53p0)
-- [Dev.to/JS] [Simplify Your Workflow: Code Linting Automation with Git Hooks, Husky, and Lint-Staged](https://dev.to/hkp22/simplify-your-workflow-code-linting-automation-with-git-hooks-husky-and-lint-staged-4c9l)
-- [Dev.to/JS] [Movie App Using Astro, TailwindCSS, TypeScript &amp; TheMovieDB API](https://dev.to/devtips3/movie-app-using-astro-tailwindcss-typescript-themoviedb-api-2gh1)
 - [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [35 of the Best Movies That Clock in at 90 Minutes or Less](https://lifehacker.com/entertainment/the-best-movies-under-90-minutes)
 - [Lifehacker] [What &lpar;and When&rpar; to Eat on a Long Run](https://lifehacker.com/health/what-and-when-to-eat-on-a-long-run)
 - [Lifehacker] [You Can Get AdGuard on Sale for $25 Right Now](https://lifehacker.com/adguard-sale)
-- [Lifehacker] [The Cheapest Ways to Upgrade to &#39;The Last of Us Part II Remastered&#39;](https://lifehacker.com/entertainment/the-cheapest-ways-to-upgrade-to-the-last-of-us-ii-remastered)
-- [Lifehacker] [Don&#39;t Make These Mistakes When Paying Off Debt](https://lifehacker.com/money/mistakes-to-avoid-when-paying-off-debt)
-- [Lifehacker] [Use These Three Phrases to Fight Weight Stigma at the Doctor’s Office](https://lifehacker.com/health/how-to-fight-weight-stigma-at-doctors-office)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Cheapest Ways to Upgrade to &#39;The Last of Us Part II Remastered&#39;](https://lifehacker.com/entertainment/the-cheapest-ways-to-upgrade-to-the-last-of-us-ii-remastered)<!-- TECH-POSTS:END -->
 
 ---
 
