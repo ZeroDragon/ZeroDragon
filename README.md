@@ -26,18 +26,29 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating custom input formatter for React Hook Form](https://dev.to/eliasjnior/creating-custom-input-formatter-for-react-hook-form-47al)
+- [Dev.to/JS] [The fck. Framework - What Is This?](https://dev.to/streetcommunityprogrammer/the-fck-framework-what-is-this-5bbi)
+- [Dev.to/JS] [How to handle CORS issues when deploying a nodeJS express app on vercel??](https://dev.to/kartikeykjjaiswal/how-to-handle-cors-issues-when-deploying-a-nodejs-express-app-on-vercel-10kh)
+- [Dev.to/JS] [Interfaces vs. Types em TypeScript: Entendendo as Diferenças](https://dev.to/vitorrios1001/interfaces-vs-types-em-typescript-entendendo-as-diferencas-2h73)
+- [Lifehacker] [The Apple Watch SE Is Just $206 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
 - [Dev.to/JS] [Mastering TypeScript: A Comprehensive Guide for JavaScript Developers](https://dev.to/bartzalewski/mastering-typescript-a-comprehensive-guide-for-javascript-developers-3opm)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.3](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-13-5a37)
 - [Dev.to/JS] [Fork, customize, deploy: Get extensible Shopify app templates to jumpstart your next build](https://dev.to/gadgetdev/fork-customize-deploy-get-extensible-shopify-app-templates-to-jumpstart-your-next-build-36kh)
+- [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $30 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
+- [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
+- [Lifehacker] [How to Have Less Awkward Shower Sex](https://lifehacker.com/relationships/how-to-have-less-awkward-shower-sex)
 - [Dev.to/JS] [5 Small &lpar;Yet Easily Fixable&rpar; Mistakes Junior Frontend Developers Often Make in Their React Code](https://dev.to/_ndeyefatoudiop/5-small-yet-easily-fixable-mistakes-junior-frontend-developers-often-make-in-their-react-code-2bjn)
+- [Lifehacker] [Six Unconventional Tools Everyone Should Own](https://lifehacker.com/home/unconventional-tools-worth-owning)
+- [Lifehacker] [This Portable Carbon Monoxide Alarm Is $45 Right Now](https://lifehacker.com/home/portable-carbon-monoxide-alarm-sale)
+- [Lifehacker] [Twice-fry Your Buffalo Cauliflower ‘Wings’ for the Crunchiest Crunch](https://lifehacker.com/food-drink/best-twice-fried-buffalo-cauliflower-wings-recipe)
 - [Dev.to/JS] [How can we use METHODs in primitive types in JavaScript?](https://dev.to/kantakshay/how-can-we-use-methods-in-primitive-types-in-javascript-5c05)
 - [Dev.to/JS] [JavaScript Math Operators](https://dev.to/joanayebola/javascript-math-operators-99m)
+- [Lifehacker] [Use the Black-Red-Green Method to Prepare for Your Next Test](https://lifehacker.com/family/black-red-green-method-to-study)
 - [Dev.to/JS] [Unveiling Util-Easy: Your Code&#39;s New Best Friend for Epic Speed and Magic Functions 🚀✨](https://dev.to/sanjaiyan_dev/unveiling-util-easy-your-codes-new-best-friend-for-epic-speed-and-magic-functions-340e)
+- [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/bellesjulieer115/buy-google-5-star-reviews-5de3)
-- [Dev.to/JS] [Aubergine - Agency multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/aubergine-agency-multipage-theme-built-with-astro-tailwind-css-mdx-1m19)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/bellesjulieer115/buy-verified-cash-app-account-pli)
-- [Dev.to/JS] [Desenvolvendo um login com NodeJS, MongoDB, Express e Passport.](https://dev.to/starch1/desenvolvendo-um-login-com-nodejs-mongodb-express-e-passport-2jga)
-- [Dev.to/JS] [Add analytics and AB tests to your LLM app in JavaScript using phospho](https://dev.to/plbiojout/add-analytics-and-ab-tests-to-your-llm-app-in-javascript-using-phospho-51k3)
+- [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $80 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
+- [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
 - [Lifehacker] [The Best Questions to Ask During a Speed Date](https://lifehacker.com/relationships/best-speed-dating-questions)
 - [Lifehacker] [How to Run a Reverse Image Search](https://lifehacker.com/tech/how-to-run-a-reverse-image-search)
 - [Lifehacker] [The OnePlus 12 Is a Slick Flagship Phone That’s Off the Beaten Path](https://lifehacker.com/tech/oneplus-12-review-a-slick-flagship-phone-thats-off-the-beaten-path)
@@ -54,18 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Build a Full Computer Inside a Game Boy](https://lifehacker.com/tech/reboi-kickstarter-build-a-computer-inside-a-game-boy)
 - [Lifehacker] [Make Your Android Phone &lpar;Slightly&rpar; Faster by Deleting Your Browser&#39;s Cookies and Cache](https://lifehacker.com/tech/how-to-delete-your-browsers-cookies-and-cache-on-android)
 - [Lifehacker] [The iRobot Roomba Combo j5 Is 50% Off Right Now](https://lifehacker.com/home/the-irobot-roomba-combo-j5-is-half-off-right-now)
-- [Lifehacker] [The ‘Animedoro’ Method Can Make You More Productive While Giving You More Downtime](https://lifehacker.com/work/how-to-use-animedoro-productivity-method)
-- [Lifehacker] [How ‘Values-Based Budgeting’ Can Help You Spend More Mindfully](https://lifehacker.com/money/how-to-make-a-values-based-budget)
-- [Lifehacker] [The Best Ways to Make Your Own GIFs](https://lifehacker.com/tech/the-best-ways-to-make-your-own-gifs)
-- [Lifehacker] [This Coffee Maker Makes Great Coffee, but It&#39;s Way Too Expensive and Complicated](https://lifehacker.com/tech/miele-milkperfection-6360-review)
-- [Lifehacker] [The Best Ways to Set Up a Seed-Starting Station in Your Home](https://lifehacker.com/home/how-to-set-up-your-own-seed-starting-station)
-- [Lifehacker] [How to Use AirDrop on &lpar;Almost&rpar; Any Apple Device](https://lifehacker.com/tech/how-to-use-airdrop-on-iphone-mac)
-- [Lifehacker] [What to Know Before You Start Your Own Plants From Seed](https://lifehacker.com/home/should-you-grow-garden-seeds)
-- [Lifehacker] [You Can Get OneAir Elite on Sale for $80 Right Now](https://lifehacker.com/oneair-elite-sale)
-- [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
-- [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
-- [Lifehacker] [This Free AI Music Generator Is a Little Too Good](https://lifehacker.com/tech/generate-free-ai-music-with-suno)
-- [Lifehacker] [The Best Apple Fritters Are Made With Instant Pancake Mix](https://lifehacker.com/food-drink/the-easiest-apple-fritter-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The ‘Animedoro’ Method Can Make You More Productive While Giving You More Downtime](https://lifehacker.com/work/how-to-use-animedoro-productivity-method)<!-- TECH-POSTS:END -->
 
 ---
 
