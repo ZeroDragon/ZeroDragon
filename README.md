@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Small &lpar;Yet Easily Fixable&rpar; Mistakes Junior Frontend Developers Often Make in Their React Code](https://dev.to/_ndeyefatoudiop/5-small-yet-easily-fixable-mistakes-junior-frontend-developers-often-make-in-their-react-code-2bjn)
 - [Dev.to/JS] [How can we use METHODs in primitive types in JavaScript?](https://dev.to/kantakshay/how-can-we-use-methods-in-primitive-types-in-javascript-5c05)
 - [Dev.to/JS] [JavaScript Math Operators](https://dev.to/joanayebola/javascript-math-operators-99m)
 - [Dev.to/JS] [Unveiling Util-Easy: Your Code&#39;s New Best Friend for Epic Speed and Magic Functions 🚀✨](https://dev.to/sanjaiyan_dev/unveiling-util-easy-your-codes-new-best-friend-for-epic-speed-and-magic-functions-340e)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/repere/buy-verified-binance-accounts-2714)
 - [Dev.to/JS] [Streamline Your Code: The Ultimate Guide to Minify JSON for a Faster and More Efficient Website](https://dev.to/felipebockmagagnin/streamline-your-code-the-ultimate-guide-to-minify-json-for-a-faster-and-more-efficient-website-dne)
 - [Dev.to/JS] [Uploading file in chunks from React to Node-Express](https://dev.to/vvkkumar06/uploading-file-in-chunks-from-react-to-node-express-3plf)
-- [Dev.to/JS] [Why Will You Buy Verified Cashapp Accounts From Smmvcc?](https://dev.to/smmvcc210/why-will-you-buy-verified-cashapp-accounts-from-smmvcc-1b94)
 - [Lifehacker] [The Best Questions to Ask During a Speed Date](https://lifehacker.com/relationships/best-speed-dating-questions)
 - [Lifehacker] [How to Run a Reverse Image Search](https://lifehacker.com/tech/how-to-run-a-reverse-image-search)
 - [Lifehacker] [The OnePlus 12 Is a Slick Flagship Phone That’s Off the Beaten Path](https://lifehacker.com/tech/oneplus-12-review-a-slick-flagship-phone-thats-off-the-beaten-path)
