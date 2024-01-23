@@ -26,20 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add analytics and AB tests to your LLM app in JavaScript using phospho](https://dev.to/plbiojout/add-analytics-and-ab-tests-to-your-llm-app-in-javascript-using-phospho-51k3)
+- [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/repere/buy-verified-binance-accounts-2714)
+- [Dev.to/JS] [Streamline Your Code: The Ultimate Guide to Minify JSON for a Faster and More Efficient Website](https://dev.to/felipebockmagagnin/streamline-your-code-the-ultimate-guide-to-minify-json-for-a-faster-and-more-efficient-website-dne)
+- [Dev.to/JS] [Uploading file in chunks from React to Node-Express](https://dev.to/vvkkumar06/uploading-file-in-chunks-from-react-to-node-express-3plf)
+- [Dev.to/JS] [Why Will You Buy Verified Cashapp Accounts From Smmvcc?](https://dev.to/smmvcc210/why-will-you-buy-verified-cashapp-accounts-from-smmvcc-1b94)
+- [Lifehacker] [The Best Questions to Ask During a Speed Date](https://lifehacker.com/relationships/best-speed-dating-questions)
 - [Dev.to/JS] [Planning For Interview Preparation &lpar;2 months&rpar;](https://dev.to/mechamahmud71/planning-for-interview-preparation-2-months-3f7g)
 - [Dev.to/JS] [Vue Router: Exploring Dynamic Routes with Example](https://dev.to/webcraft-notes/vue-router-exploring-dynamic-routes-with-example-38ma)
 - [Dev.to/JS] [Unlocking the Power of HTML&#39;s Native Browser Dialog Element](https://dev.to/opensauced/the-native-browser-dialog-element-1nhn)
+- [Lifehacker] [How to Run a Reverse Image Search](https://lifehacker.com/tech/how-to-run-a-reverse-image-search)
+- [Lifehacker] [The OnePlus 12 Is a Slick Flagship Phone That’s Off the Beaten Path](https://lifehacker.com/tech/oneplus-12-review-a-slick-flagship-phone-thats-off-the-beaten-path)
+- [Lifehacker] [What&#39;s New on Disney+ in February 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-february-2024)
 - [Dev.to/JS] [How To - ReactJS - Create Snake Game](https://dev.to/kylestech95/how-to-reactjs-create-snake-game-3ke2)
 - [Dev.to/JS] [🤟 Building A New Place For Coding Libraries](https://dev.to/frulow/building-a-place-for-libraries-5h3l)
 - [Lifehacker] [What&#39;s New on Hulu in February 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-february-2024)
 - [Dev.to/JS] [3 Resources To Become Better 99% WebDev💥💫](https://dev.to/corners2wall/3-resources-to-become-better-99-webdev-4bhm)
 - [Dev.to/JS] [How to Download Toontrack – EZkeys 2 Complete](https://dev.to/kalaplugin111/how-to-download-toontrack-ezkeys-2-complete-4l8p)
 - [Lifehacker] [The Most Common Windshield Wiper Problems &lpar;and How to Fix Them&rpar;](https://lifehacker.com/travel/most-common-windshield-wiper-problems-and-how-to-fix)
-- [Dev.to/JS] [Generating MD5 hashes on Node.js](https://dev.to/douglasdemoura/generating-md5-strings-on-nodejs-4g1k)
-- [Dev.to/JS] [Chennai Chronicles: Unveiling the Top 10 International Schools Shaping Futures](https://dev.to/chennaitop10/chennai-chronicles-unveiling-the-top-10-international-schools-shaping-futures-3e47)
-- [Dev.to/JS] [All the metatags you might need for SEO in one React component.](https://dev.to/seven/all-the-metatags-you-might-need-for-seo-in-one-react-component-146c)
-- [Dev.to/JS] [Enhancing the Security of Your Node.js Applications: A Comprehensive Guide](https://dev.to/gkhan205/enhancing-the-security-of-your-nodejs-applications-a-comprehensive-guide-1emf)
-- [Dev.to/JS] [3 Principles for Component-Driven Development](https://dev.to/bitdev_/3-principles-for-component-driven-development-13hc)
 - [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Telehealth Services to Fill Your Prescriptions Faster](https://lifehacker.com/health/best-telehealth-services-to-get-prescriptions-remotely)
 - [Lifehacker] [This Is the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
 - [Lifehacker] [This Free AI Music Generator Is a Little Too Good](https://lifehacker.com/tech/generate-free-ai-music-with-suno)
-- [Lifehacker] [The Best Apple Fritters Are Made With Instant Pancake Mix](https://lifehacker.com/food-drink/the-easiest-apple-fritter-recipe)
-- [Lifehacker] [35 of the Best Movies That Clock in at 90 Minutes or Less](https://lifehacker.com/entertainment/the-best-movies-under-90-minutes)
-- [Lifehacker] [What &lpar;and When&rpar; to Eat on a Long Run](https://lifehacker.com/health/what-and-when-to-eat-on-a-long-run)
-- [Lifehacker] [You Can Get AdGuard on Sale for $25 Right Now](https://lifehacker.com/adguard-sale)
-- [Lifehacker] [The Cheapest Ways to Upgrade to &#39;The Last of Us Part II Remastered&#39;](https://lifehacker.com/entertainment/the-cheapest-ways-to-upgrade-to-the-last-of-us-ii-remastered)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Apple Fritters Are Made With Instant Pancake Mix](https://lifehacker.com/food-drink/the-easiest-apple-fritter-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
