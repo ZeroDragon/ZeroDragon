@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can you explain the concept of state in React and how it&#39;s different from props?](https://dev.to/iamclover4/can-you-explain-the-concept-of-state-in-react-and-how-its-different-from-props-1fff)
 - [Dev.to/JS] [Running Commands with JavaScript Just Got Easier](https://dev.to/aarvinr/running-commands-with-javascript-just-got-easier-543m)
 - [Dev.to/JS] [How using Server-Timing API helped bring &gt; 70% perf improvement](https://dev.to/epilot/how-using-server-timing-api-helped-bring-70-perf-improvement-44ln)
 - [Dev.to/JS] [What is JSDoc and why you may not need typescript for your next project?](https://dev.to/cherryramatis/what-is-jsdoc-and-why-you-may-not-need-typescript-for-your-next-project-54n1)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Snansj](https://dev.to/turanulupinar/snansj-596l)
 - [Lifehacker] [The Best Apps to Make Sure You Actually Do the Thing You Said You’d Do](https://lifehacker.com/work/the-best-apps-for-staying-accountable-to-your-goals)
 - [Dev.to/JS] [Creating a Word Art text-curving design picker in only 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/creating-a-word-art-text-curving-design-picke-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-4ei7)
-- [Dev.to/JS] [👨‍💻 Daily Code 46 | Random Number 1-100, 🐍 Python and 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-46-random-number-1-100-python-and-javascript-4n25)
 - [Lifehacker] [Three Good Reasons to Update to iOS 17.3](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)
 - [Lifehacker] [These Are the Best Solar Panels You Can Put on Your House Right Now](https://lifehacker.com/home/the-best-solar-panels-you-can-put-on-your-house-right-now)
 - [Lifehacker] [You Can Build a Full Computer Inside a Game Boy](https://lifehacker.com/tech/reboi-kickstarter-build-a-computer-inside-a-game-boy)
