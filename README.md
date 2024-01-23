@@ -30,7 +30,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Dead-Simple Tips to Make Your Code More Readable as a Junior Frontend Developer &lpar;And Get Your Pull Requests Approved Faster&rpar; 🎉](https://dev.to/_ndeyefatoudiop/5-dead-simple-tips-to-make-your-code-more-readable-as-a-junior-frontend-developer-and-get-your-pull-requests-approved-faster-41em)
 - [Dev.to/JS] [Learn Next.js 14](https://dev.to/bealecs/learn-nextjs-14-446e)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.2](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-12-gcf)
+- [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Dev.to/JS] [Convert Shopify website into WordPress](https://dev.to/dgihost/convert-shopify-website-into-wordpress-2k06)
+- [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
 - [Dev.to/JS] [Understanding JavaScript Scope: Global and Local](https://dev.to/mgbejxi/understanding-javascript-scope-global-and-local-2jp0)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
 - [Lifehacker] [The Best Ways to Teach Your Kids to Manage Their Free Time](https://lifehacker.com/family/teach-kids-to-manage-free-time)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get AdGuard on Sale for $25 Right Now](https://lifehacker.com/adguard-sale)
 - [Lifehacker] [The Cheapest Ways to Upgrade to &#39;The Last of Us Part II Remastered&#39;](https://lifehacker.com/entertainment/the-cheapest-ways-to-upgrade-to-the-last-of-us-ii-remastered)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Paying Off Debt](https://lifehacker.com/money/mistakes-to-avoid-when-paying-off-debt)
-- [Lifehacker] [Use These Three Phrases to Fight Weight Stigma at the Doctor’s Office](https://lifehacker.com/health/how-to-fight-weight-stigma-at-doctors-office)
-- [Lifehacker] [The First Six Things to Do When You&#39;re Facing Foreclosure](https://lifehacker.com/money/do-these-things-when-facing-foreclosure)
-- [Lifehacker] [The $3,000 Samsung 8K QN900C Is Worth the Splurge](https://lifehacker.com/tech/samsung-8k-qn900c-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use These Three Phrases to Fight Weight Stigma at the Doctor’s Office](https://lifehacker.com/health/how-to-fight-weight-stigma-at-doctors-office)<!-- TECH-POSTS:END -->
 
 ---
 
