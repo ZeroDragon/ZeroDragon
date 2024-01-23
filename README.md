@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering TypeScript: A Comprehensive Guide for JavaScript Developers](https://dev.to/bartzalewski/mastering-typescript-a-comprehensive-guide-for-javascript-developers-3opm)
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.3](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-13-5a37)
+- [Dev.to/JS] [Fork, customize, deploy: Get extensible Shopify app templates to jumpstart your next build](https://dev.to/gadgetdev/fork-customize-deploy-get-extensible-shopify-app-templates-to-jumpstart-your-next-build-36kh)
 - [Dev.to/JS] [5 Small &lpar;Yet Easily Fixable&rpar; Mistakes Junior Frontend Developers Often Make in Their React Code](https://dev.to/_ndeyefatoudiop/5-small-yet-easily-fixable-mistakes-junior-frontend-developers-often-make-in-their-react-code-2bjn)
 - [Dev.to/JS] [How can we use METHODs in primitive types in JavaScript?](https://dev.to/kantakshay/how-can-we-use-methods-in-primitive-types-in-javascript-5c05)
 - [Dev.to/JS] [JavaScript Math Operators](https://dev.to/joanayebola/javascript-math-operators-99m)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/bellesjulieer115/buy-verified-cash-app-account-pli)
 - [Dev.to/JS] [Desenvolvendo um login com NodeJS, MongoDB, Express e Passport.](https://dev.to/starch1/desenvolvendo-um-login-com-nodejs-mongodb-express-e-passport-2jga)
 - [Dev.to/JS] [Add analytics and AB tests to your LLM app in JavaScript using phospho](https://dev.to/plbiojout/add-analytics-and-ab-tests-to-your-llm-app-in-javascript-using-phospho-51k3)
-- [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/repere/buy-verified-binance-accounts-2714)
-- [Dev.to/JS] [Streamline Your Code: The Ultimate Guide to Minify JSON for a Faster and More Efficient Website](https://dev.to/felipebockmagagnin/streamline-your-code-the-ultimate-guide-to-minify-json-for-a-faster-and-more-efficient-website-dne)
-- [Dev.to/JS] [Uploading file in chunks from React to Node-Express](https://dev.to/vvkkumar06/uploading-file-in-chunks-from-react-to-node-express-3plf)
 - [Lifehacker] [The Best Questions to Ask During a Speed Date](https://lifehacker.com/relationships/best-speed-dating-questions)
 - [Lifehacker] [How to Run a Reverse Image Search](https://lifehacker.com/tech/how-to-run-a-reverse-image-search)
 - [Lifehacker] [The OnePlus 12 Is a Slick Flagship Phone That’s Off the Beaten Path](https://lifehacker.com/tech/oneplus-12-review-a-slick-flagship-phone-thats-off-the-beaten-path)
