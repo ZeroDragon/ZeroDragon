@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Running Commands with JavaScript Just Got Easier](https://dev.to/aarvinr/running-commands-with-javascript-just-got-easier-543m)
+- [Dev.to/JS] [How using Server-Timing API helped bring &gt; 70% perf improvement](https://dev.to/epilot/how-using-server-timing-api-helped-bring-70-perf-improvement-44ln)
+- [Dev.to/JS] [What is JSDoc and why you may not need typescript for your next project?](https://dev.to/cherryramatis/what-is-jsdoc-and-why-you-may-not-need-typescript-for-your-next-project-54n1)
 - [Dev.to/JS] [React-Router-Dom as told by a noob :&rpar;](https://dev.to/hroney/react-router-dom-as-told-by-a-noob--4bng)
 - [Dev.to/JS] [5 Dead-Simple Tips to Make Your Code More Readable as a Junior Frontend Developer &lpar;And Get Your Pull Requests Approved Faster&rpar; 🎉](https://dev.to/_ndeyefatoudiop/5-dead-simple-tips-to-make-your-code-more-readable-as-a-junior-frontend-developer-and-get-your-pull-requests-approved-faster-41em)
 - [Dev.to/JS] [Learn Next.js 14](https://dev.to/bealecs/learn-nextjs-14-446e)
@@ -41,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Word Art text-curving design picker in only 30 lines of pure HTML web component code + 1 extra file &lpar;no node or JS!&rpar;](https://dev.to/michaelpb/creating-a-word-art-text-curving-design-picke-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-no-node-or-js-4ei7)
 - [Dev.to/JS] [👨‍💻 Daily Code 46 | Random Number 1-100, 🐍 Python and 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-46-random-number-1-100-python-and-javascript-4n25)
 - [Lifehacker] [Three Good Reasons to Update to iOS 17.3](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)
-- [Dev.to/JS] [CryptoFlow: Building a secure and scalable system with Axum and SvelteKit - Part 5](https://dev.to/sirneij/cryptoflow-building-a-secure-and-scalable-system-with-axum-and-sveltekit-part-5-2hdm)
 - [Lifehacker] [These Are the Best Solar Panels You Can Put on Your House Right Now](https://lifehacker.com/home/the-best-solar-panels-you-can-put-on-your-house-right-now)
-- [Dev.to/JS] [Hell!hjhjh](https://dev.to/priyancydey/hellhjhjh-3dmk)
-- [Dev.to/JS] [Hell!hjjhjhjhjhjh](https://dev.to/priyancydey/hellhjjhjhjhjhjh-6l1)
 - [Lifehacker] [You Can Build a Full Computer Inside a Game Boy](https://lifehacker.com/tech/reboi-kickstarter-build-a-computer-inside-a-game-boy)
 - [Lifehacker] [Make Your Android Phone &lpar;Slightly&rpar; Faster by Deleting Your Browser&#39;s Cookies and Cache](https://lifehacker.com/tech/how-to-delete-your-browsers-cookies-and-cache-on-android)
 - [Lifehacker] [The iRobot Roomba Combo j5 Is 50% Off Right Now](https://lifehacker.com/home/the-irobot-roomba-combo-j5-is-half-off-right-now)
