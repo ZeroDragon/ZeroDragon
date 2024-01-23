@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 Principles for Component-Driven Development](https://dev.to/bitdev_/3-principles-for-component-driven-development-13hc)
+- [Dev.to/JS] [A Comprehensive Exploration of VR App Development with Unity and C#](https://dev.to/officialintelvue/a-comprehensive-exploration-of-vr-app-development-with-unity-and-c-53p0)
 - [Dev.to/JS] [Simplify Your Workflow: Code Linting Automation with Git Hooks, Husky, and Lint-Staged](https://dev.to/hkp22/simplify-your-workflow-code-linting-automation-with-git-hooks-husky-and-lint-staged-4c9l)
 - [Dev.to/JS] [Movie App Using Astro, TailwindCSS, TypeScript &amp; TheMovieDB API](https://dev.to/devtips3/movie-app-using-astro-tailwindcss-typescript-themoviedb-api-2gh1)
 - [Dev.to/JS] [Revive Some Nostalgia: Recreating the Snake Game Using HTML5&#39;s Canvas API and JavaScript](https://dev.to/ssaurel/revive-some-nostalgia-recreating-the-snake-game-using-html5s-canvas-api-and-javascript-cee)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advance JavaScript - Promise](https://dev.to/zhangzewei/senior-javascript-promise-7lb)
 - [Dev.to/JS] [Advance JavaScript - Function](https://dev.to/zhangzewei/senior-javascript-function-1jj1)
 - [Dev.to/JS] [What to Look for in a Code Review: 24 Points Checklist](https://dev.to/ananddas/what-to-look-for-in-a-code-review-24-points-checklist-npf)
-- [Dev.to/JS] [Enhancing React Performance with Pure Components and Batching](https://dev.to/sutejpal/enhancing-react-performance-with-pure-components-and-batching-4cpb)
-- [Dev.to/JS] [👨‍💻 Daily Code 47 | Random Number 1-100, 🐍 Python and 🟨 JavaScript &lpar;2&rpar;](https://dev.to/gregor_schafroth/daily-code-47-random-number-1-100-python-and-javascript-2-4bh3)
 - [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
