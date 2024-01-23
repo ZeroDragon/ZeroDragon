@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevate Your Brand: The Ultimate List of Digital Marketing Services in Chennai](https://dev.to/anandtechverce/elevate-your-brand-the-ultimate-list-of-digital-marketing-services-in-chennai-14bp)
+- [Dev.to/JS] [What are the key factors to consider when choosing an SEO company in Delhi for improving website rankings?](https://dev.to/webbusinesstech/what-are-the-key-factors-to-consider-when-choosing-an-seo-company-in-delhi-for-improving-website-rankings-3ho3)
+- [Dev.to/JS] [5 best freelancer website 2024](https://dev.to/islammia1234/5-best-freelancer-website-2024-4kc1)
 - [Dev.to/JS] [Nạp Tiền Zbet – Hướng Dẫn Chi Tiết Dành Cho Tân Binh.](https://dev.to/zbetscomco/nap-tien-zbet-huong-dan-chi-tiet-danh-cho-tan-binh-26ee)
 - [Dev.to/JS] [All You Need is ... Higher Order Functions](https://dev.to/ignoreintuition/all-you-need-is-higher-order-functions-2dlb)
 - [Dev.to/JS] [How to disable a button in JavaScript](https://dev.to/tomeq34/how-to-disable-a-button-in-javascript-2h0b)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Can you explain the concept of state in React and how it&#39;s different from props?](https://dev.to/iamclover4/can-you-explain-the-concept-of-state-in-react-and-how-its-different-from-props-1fff)
 - [Dev.to/JS] [Running Commands with JavaScript Just Got Easier](https://dev.to/aarvinr/running-commands-with-javascript-just-got-easier-543m)
 - [Dev.to/JS] [How using Server-Timing API helped bring &gt; 70% perf improvement](https://dev.to/epilot/how-using-server-timing-api-helped-bring-70-perf-improvement-44ln)
-- [Dev.to/JS] [What is JSDoc and why you may not need typescript for your next project?](https://dev.to/cherryramatis/what-is-jsdoc-and-why-you-may-not-need-typescript-for-your-next-project-54n1)
-- [Dev.to/JS] [React-Router-Dom as told by a noob :&rpar;](https://dev.to/hroney/react-router-dom-as-told-by-a-noob--4bng)
-- [Dev.to/JS] [5 Dead-Simple Tips to Make Your Code More Readable as a Junior Frontend Developer &lpar;And Get Your Pull Requests Approved Faster&rpar; 🎉](https://dev.to/_ndeyefatoudiop/5-dead-simple-tips-to-make-your-code-more-readable-as-a-junior-frontend-developer-and-get-your-pull-requests-approved-faster-41em)
 - [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
