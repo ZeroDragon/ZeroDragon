@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How can we use METHODs in primitive types in JavaScript?](https://dev.to/kantakshay/how-can-we-use-methods-in-primitive-types-in-javascript-5c05)
+- [Dev.to/JS] [JavaScript Math Operators](https://dev.to/joanayebola/javascript-math-operators-99m)
+- [Dev.to/JS] [Unveiling Util-Easy: Your Code&#39;s New Best Friend for Epic Speed and Magic Functions 🚀✨](https://dev.to/sanjaiyan_dev/unveiling-util-easy-your-codes-new-best-friend-for-epic-speed-and-magic-functions-340e)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/bellesjulieer115/buy-google-5-star-reviews-5de3)
 - [Dev.to/JS] [Aubergine - Agency multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/aubergine-agency-multipage-theme-built-with-astro-tailwind-css-mdx-1m19)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/bellesjulieer115/buy-verified-cash-app-account-pli)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Uploading file in chunks from React to Node-Express](https://dev.to/vvkkumar06/uploading-file-in-chunks-from-react-to-node-express-3plf)
 - [Dev.to/JS] [Why Will You Buy Verified Cashapp Accounts From Smmvcc?](https://dev.to/smmvcc210/why-will-you-buy-verified-cashapp-accounts-from-smmvcc-1b94)
 - [Lifehacker] [The Best Questions to Ask During a Speed Date](https://lifehacker.com/relationships/best-speed-dating-questions)
-- [Dev.to/JS] [Planning For Interview Preparation &lpar;2 months&rpar;](https://dev.to/mechamahmud71/planning-for-interview-preparation-2-months-3f7g)
-- [Dev.to/JS] [Vue Router: Exploring Dynamic Routes with Example](https://dev.to/webcraft-notes/vue-router-exploring-dynamic-routes-with-example-38ma)
-- [Dev.to/JS] [Unlocking the Power of HTML&#39;s Native Browser Dialog Element](https://dev.to/opensauced/the-native-browser-dialog-element-1nhn)
 - [Lifehacker] [How to Run a Reverse Image Search](https://lifehacker.com/tech/how-to-run-a-reverse-image-search)
 - [Lifehacker] [The OnePlus 12 Is a Slick Flagship Phone That’s Off the Beaten Path](https://lifehacker.com/tech/oneplus-12-review-a-slick-flagship-phone-thats-off-the-beaten-path)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-february-2024)
