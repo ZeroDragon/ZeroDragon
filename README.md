@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [👨‍💻 Daily Code 47 | Random Number 1-100, 🐍 Python and 🟨 JavaScript &lpar;2&rpar;](https://dev.to/gregor_schafroth/daily-code-47-random-number-1-100-python-and-javascript-2-4bh3)
+- [Dev.to/JS] [All about System Integration Testing in software testing](https://dev.to/keploy/all-about-system-integration-testing-in-software-testing-5apk)
+- [Dev.to/JS] [7 Best Reasons to Learn JavaScript](https://dev.to/iamrupnath/7-best-reasons-to-learn-javascript-4j1g)
+- [Dev.to/JS] [Essential Skills Every Web Developer Should Master in 2023](https://dev.to/sawyercole/essential-skills-every-web-developer-should-master-in-2023-3jdg)
 - [Dev.to/JS] [Elevate Your Brand: The Ultimate List of Digital Marketing Services in Chennai](https://dev.to/anandtechverce/elevate-your-brand-the-ultimate-list-of-digital-marketing-services-in-chennai-14bp)
 - [Dev.to/JS] [What are the key factors to consider when choosing an SEO company in Delhi for improving website rankings?](https://dev.to/webbusinesstech/what-are-the-key-factors-to-consider-when-choosing-an-seo-company-in-delhi-for-improving-website-rankings-3ho3)
 - [Dev.to/JS] [5 best freelancer website 2024](https://dev.to/islammia1234/5-best-freelancer-website-2024-4kc1)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to disable a button in JavaScript](https://dev.to/tomeq34/how-to-disable-a-button-in-javascript-2h0b)
 - [Dev.to/JS] [#Buy PVA Verified Gmail Accounts-100% Active New/Old Gmail Accounts](https://dev.to/talanstarkajdgsjd/buy-pva-verified-gmail-accounts-100-active-newold-gmail-accounts-1olc)
 - [Dev.to/JS] [#Buy Verified TransferWise Accounts-100% Genuine &lpar;Wise&rpar; Accounts](https://dev.to/talanstarkajdgsjd/buy-verified-transferwise-accounts-100-genuine-wise-accounts-1fo7)
-- [Dev.to/JS] [Um Convite para Redescobrir a Paixão pela Programação](https://dev.to/rafinhadev/um-convite-para-redescobrir-a-paixao-pela-programacao-3ogf)
-- [Dev.to/JS] [Can you explain the concept of state in React and how it&#39;s different from props?](https://dev.to/iamclover4/can-you-explain-the-concept-of-state-in-react-and-how-its-different-from-props-1fff)
-- [Dev.to/JS] [Running Commands with JavaScript Just Got Easier](https://dev.to/aarvinr/running-commands-with-javascript-just-got-easier-543m)
-- [Dev.to/JS] [How using Server-Timing API helped bring &gt; 70% perf improvement](https://dev.to/epilot/how-using-server-timing-api-helped-bring-70-perf-improvement-44ln)
 - [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
