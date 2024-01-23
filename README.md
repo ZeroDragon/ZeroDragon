@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [The Web Is BREAKING APART, It&#39;s Time We Chose Wisely](https://dev.to/pranshuj73/the-web-is-breaking-apart-its-time-we-chose-wisely-4jnd)
+- [Dev.to/JS] [3 Resources To Become Better 99% WebDev💥💫](https://dev.to/corners2wall/3-resources-to-become-better-99-webdev-4bhm)
+- [Dev.to/JS] [How to Download Toontrack – EZkeys 2 Complete](https://dev.to/kalaplugin111/how-to-download-toontrack-ezkeys-2-complete-4l8p)
+- [Dev.to/JS] [Generating MD5 hashes on Node.js](https://dev.to/douglasdemoura/generating-md5-strings-on-nodejs-4g1k)
 - [Dev.to/JS] [Chennai Chronicles: Unveiling the Top 10 International Schools Shaping Futures](https://dev.to/chennaitop10/chennai-chronicles-unveiling-the-top-10-international-schools-shaping-futures-3e47)
 - [Dev.to/JS] [All the metatags you might need for SEO in one React component.](https://dev.to/seven/all-the-metatags-you-might-need-for-seo-in-one-react-component-146c)
 - [Dev.to/JS] [Enhancing the Security of Your Node.js Applications: A Comprehensive Guide](https://dev.to/gkhan205/enhancing-the-security-of-your-nodejs-applications-a-comprehensive-guide-1emf)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Movie App Using Astro, TailwindCSS, TypeScript &amp; TheMovieDB API](https://dev.to/devtips3/movie-app-using-astro-tailwindcss-typescript-themoviedb-api-2gh1)
 - [Dev.to/JS] [Revive Some Nostalgia: Recreating the Snake Game Using HTML5&#39;s Canvas API and JavaScript](https://dev.to/ssaurel/revive-some-nostalgia-recreating-the-snake-game-using-html5s-canvas-api-and-javascript-cee)
 - [Dev.to/JS] [Crafting the Perfect Aesthetic: A Deep Dive into React Native Theming](https://dev.to/agiconsolution/crafting-the-perfect-aesthetic-a-deep-dive-into-react-native-theming-lm1)
-- [Dev.to/JS] [Revolutionizing Software Testing with Feature Flags](https://dev.to/keploy/revolutionizing-software-testing-with-feature-flags-2b2j)
-- [Dev.to/JS] [Activgenix CBD Gummies-&lpar;Updates 2024&rpar; Scam or Natural Ingredients, Fight Pain &amp; Stress!](https://dev.to/activgenixcbdbuy/activgenix-cbd-gummies-updates-2024-scam-or-natural-ingredients-fight-pain-stress-1552)
 - [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
