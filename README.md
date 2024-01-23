@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To - ReactJS - Create Snake Game](https://dev.to/kylestech95/how-to-reactjs-create-snake-game-3ke2)
+- [Dev.to/JS] [🤟 Building A New Place For Coding Libraries](https://dev.to/frulow/building-a-place-for-libraries-5h3l)
 - [Dev.to/JS] [3 Resources To Become Better 99% WebDev💥💫](https://dev.to/corners2wall/3-resources-to-become-better-99-webdev-4bhm)
 - [Dev.to/JS] [How to Download Toontrack – EZkeys 2 Complete](https://dev.to/kalaplugin111/how-to-download-toontrack-ezkeys-2-complete-4l8p)
 - [Dev.to/JS] [Generating MD5 hashes on Node.js](https://dev.to/douglasdemoura/generating-md5-strings-on-nodejs-4g1k)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Comprehensive Exploration of VR App Development with Unity and C#](https://dev.to/officialintelvue/a-comprehensive-exploration-of-vr-app-development-with-unity-and-c-53p0)
 - [Dev.to/JS] [Simplify Your Workflow: Code Linting Automation with Git Hooks, Husky, and Lint-Staged](https://dev.to/hkp22/simplify-your-workflow-code-linting-automation-with-git-hooks-husky-and-lint-staged-4c9l)
 - [Dev.to/JS] [Movie App Using Astro, TailwindCSS, TypeScript &amp; TheMovieDB API](https://dev.to/devtips3/movie-app-using-astro-tailwindcss-typescript-themoviedb-api-2gh1)
-- [Dev.to/JS] [Revive Some Nostalgia: Recreating the Snake Game Using HTML5&#39;s Canvas API and JavaScript](https://dev.to/ssaurel/revive-some-nostalgia-recreating-the-snake-game-using-html5s-canvas-api-and-javascript-cee)
-- [Dev.to/JS] [Crafting the Perfect Aesthetic: A Deep Dive into React Native Theming](https://dev.to/agiconsolution/crafting-the-perfect-aesthetic-a-deep-dive-into-react-native-theming-lm1)
 - [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
