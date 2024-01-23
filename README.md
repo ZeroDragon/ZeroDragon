@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nạp Tiền Zbet – Hướng Dẫn Chi Tiết Dành Cho Tân Binh.](https://dev.to/zbetscomco/nap-tien-zbet-huong-dan-chi-tiet-danh-cho-tan-binh-26ee)
+- [Dev.to/JS] [All You Need is ... Higher Order Functions](https://dev.to/ignoreintuition/all-you-need-is-higher-order-functions-2dlb)
 - [Dev.to/JS] [How to disable a button in JavaScript](https://dev.to/tomeq34/how-to-disable-a-button-in-javascript-2h0b)
 - [Dev.to/JS] [#Buy PVA Verified Gmail Accounts-100% Active New/Old Gmail Accounts](https://dev.to/talanstarkajdgsjd/buy-pva-verified-gmail-accounts-100-active-newold-gmail-accounts-1olc)
 - [Dev.to/JS] [#Buy Verified TransferWise Accounts-100% Genuine &lpar;Wise&rpar; Accounts](https://dev.to/talanstarkajdgsjd/buy-verified-transferwise-accounts-100-genuine-wise-accounts-1fo7)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is JSDoc and why you may not need typescript for your next project?](https://dev.to/cherryramatis/what-is-jsdoc-and-why-you-may-not-need-typescript-for-your-next-project-54n1)
 - [Dev.to/JS] [React-Router-Dom as told by a noob :&rpar;](https://dev.to/hroney/react-router-dom-as-told-by-a-noob--4bng)
 - [Dev.to/JS] [5 Dead-Simple Tips to Make Your Code More Readable as a Junior Frontend Developer &lpar;And Get Your Pull Requests Approved Faster&rpar; 🎉](https://dev.to/_ndeyefatoudiop/5-dead-simple-tips-to-make-your-code-more-readable-as-a-junior-frontend-developer-and-get-your-pull-requests-approved-faster-41em)
-- [Dev.to/JS] [Learn Next.js 14](https://dev.to/bealecs/learn-nextjs-14-446e)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.2](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-12-gcf)
 - [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
