@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/bellesjulieer115/buy-google-5-star-reviews-5de3)
+- [Dev.to/JS] [Aubergine - Agency multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/aubergine-agency-multipage-theme-built-with-astro-tailwind-css-mdx-1m19)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/bellesjulieer115/buy-verified-cash-app-account-pli)
+- [Dev.to/JS] [Desenvolvendo um login com NodeJS, MongoDB, Express e Passport.](https://dev.to/starch1/desenvolvendo-um-login-com-nodejs-mongodb-express-e-passport-2jga)
 - [Dev.to/JS] [Add analytics and AB tests to your LLM app in JavaScript using phospho](https://dev.to/plbiojout/add-analytics-and-ab-tests-to-your-llm-app-in-javascript-using-phospho-51k3)
 - [Dev.to/JS] [Buy Verified Binance Accounts](https://dev.to/repere/buy-verified-binance-accounts-2714)
 - [Dev.to/JS] [Streamline Your Code: The Ultimate Guide to Minify JSON for a Faster and More Efficient Website](https://dev.to/felipebockmagagnin/streamline-your-code-the-ultimate-guide-to-minify-json-for-a-faster-and-more-efficient-website-dne)
@@ -38,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Run a Reverse Image Search](https://lifehacker.com/tech/how-to-run-a-reverse-image-search)
 - [Lifehacker] [The OnePlus 12 Is a Slick Flagship Phone That’s Off the Beaten Path](https://lifehacker.com/tech/oneplus-12-review-a-slick-flagship-phone-thats-off-the-beaten-path)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-february-2024)
-- [Dev.to/JS] [How To - ReactJS - Create Snake Game](https://dev.to/kylestech95/how-to-reactjs-create-snake-game-3ke2)
-- [Dev.to/JS] [🤟 Building A New Place For Coding Libraries](https://dev.to/frulow/building-a-place-for-libraries-5h3l)
 - [Lifehacker] [What&#39;s New on Hulu in February 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-february-2024)
-- [Dev.to/JS] [3 Resources To Become Better 99% WebDev💥💫](https://dev.to/corners2wall/3-resources-to-become-better-99-webdev-4bhm)
-- [Dev.to/JS] [How to Download Toontrack – EZkeys 2 Complete](https://dev.to/kalaplugin111/how-to-download-toontrack-ezkeys-2-complete-4l8p)
 - [Lifehacker] [The Most Common Windshield Wiper Problems &lpar;and How to Fix Them&rpar;](https://lifehacker.com/travel/most-common-windshield-wiper-problems-and-how-to-fix)
 - [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
