@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bright Light — SaaS multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/bright-light-saas-multipage-theme-built-with-astro-tailwind-css-mdx-de7)
+- [Dev.to/JS] [Writing Proper Error Messages: The Art of Effective Communication in Software Development](https://dev.to/favourmark05/writing-proper-error-messages-the-art-of-effective-communication-in-software-development-emj)
 - [Dev.to/JS] [nhacaibj88](https://dev.to/nhacaibj88/nhacaibj88-2bef)
 - [Dev.to/JS] [🗃️ Building a Pocket Database with Telegra.ph — create your database in just a single function! 😱](https://dev.to/creuserr/building-a-pocket-database-with-telegraph-1pop)
 - [Dev.to/JS] [Pieces of interactives: Astro Islands ☄️](https://dev.to/dvalin99/pieces-of-interactives-astro-islands-4nnb)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [31 React Best Practices For Writing Clean And Efficient Code](https://dev.to/invezza/31-react-best-practices-for-writing-clean-and-efficient-code-2224)
 - [Dev.to/JS] [Hướng dẫn tải app Jun88 nhanh chóng, đơn giản nhất](https://dev.to/jun88delivery/huong-dan-tai-app-jun88-nhanh-chong-don-gian-nhat-2lj6)
 - [Dev.to/JS] [Understanding Data Types - A Personal Journey](https://dev.to/rashidcodes/understanding-data-types-a-personal-journey-57a6)
-- [Dev.to/JS] [Understanding JavaScript Variables: A Beginner&#39;s Guide](https://dev.to/rashidcodes/understanding-javascript-variables-a-beginners-guide-1m0i)
-- [Dev.to/JS] [Introducción al DOM: Attributes &amp; Data Attributes](https://dev.to/ulisesafcdev/introduccion-al-dom-attributes-data-attributes-1dj1)
 - [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $220 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books This Week](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
 - [Lifehacker] [You Can Get This Foldable Touchscreen Car Display for $96 Right Now](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
