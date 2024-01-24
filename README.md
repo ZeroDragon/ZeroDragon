@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Odin Project &quot;Day One&quot;](https://dev.to/kwaziimedia/the-odin-project-day-one-2i72)
 - [Dev.to/JS] [31 React Best Practices For Writing Clean And Efficient Code](https://dev.to/invezza/31-react-best-practices-for-writing-clean-and-efficient-code-2224)
 - [Dev.to/JS] [Hướng dẫn tải app Jun88 nhanh chóng, đơn giản nhất](https://dev.to/jun88delivery/huong-dan-tai-app-jun88-nhanh-chong-don-gian-nhat-2lj6)
 - [Dev.to/JS] [Understanding Data Types - A Personal Journey](https://dev.to/rashidcodes/understanding-data-types-a-personal-journey-57a6)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Always Photograph Your Devices Before You Trade Them In](https://lifehacker.com/tech/photograph-devices-before-you-trade-them-in)
 - [Dev.to/JS] [Creating custom input formatter for React Hook Form](https://dev.to/eliasjnior/creating-custom-input-formatter-for-react-hook-form-47al)
 - [Dev.to/JS] [The fck. Framework - What Is This?](https://dev.to/streetcommunityprogrammer/the-fck-framework-what-is-this-5bbi)
-- [Dev.to/JS] [How to handle CORS issues when deploying a nodeJS express app on vercel??](https://dev.to/kartikeykjjaiswal/how-to-handle-cors-issues-when-deploying-a-nodejs-express-app-on-vercel-10kh)
 - [Lifehacker] [The Apple Watch SE Is Just $206 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $30 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
