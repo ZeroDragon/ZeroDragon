@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup Portainer for Server App](https://dev.to/akbarnafisa/setup-portainer-for-server-app-4bh9)
+- [Lifehacker] [You Should Always Photograph Your Devices Before You Trade Them In](https://lifehacker.com/tech/photograph-devices-before-you-trade-them-in)
 - [Dev.to/JS] [Creating custom input formatter for React Hook Form](https://dev.to/eliasjnior/creating-custom-input-formatter-for-react-hook-form-47al)
 - [Dev.to/JS] [The fck. Framework - What Is This?](https://dev.to/streetcommunityprogrammer/the-fck-framework-what-is-this-5bbi)
 - [Dev.to/JS] [How to handle CORS issues when deploying a nodeJS express app on vercel??](https://dev.to/kartikeykjjaiswal/how-to-handle-cors-issues-when-deploying-a-nodejs-express-app-on-vercel-10kh)
@@ -46,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the Black-Red-Green Method to Prepare for Your Next Test](https://lifehacker.com/family/black-red-green-method-to-study)
 - [Dev.to/JS] [Unveiling Util-Easy: Your Code&#39;s New Best Friend for Epic Speed and Magic Functions 🚀✨](https://dev.to/sanjaiyan_dev/unveiling-util-easy-your-codes-new-best-friend-for-epic-speed-and-magic-functions-340e)
 - [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/bellesjulieer115/buy-google-5-star-reviews-5de3)
 - [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $80 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
 - [Lifehacker] [The Best Questions to Ask During a Speed Date](https://lifehacker.com/relationships/best-speed-dating-questions)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Solar Panels You Can Put on Your House Right Now](https://lifehacker.com/home/the-best-solar-panels-you-can-put-on-your-house-right-now)
 - [Lifehacker] [You Can Build a Full Computer Inside a Game Boy](https://lifehacker.com/tech/reboi-kickstarter-build-a-computer-inside-a-game-boy)
 - [Lifehacker] [Make Your Android Phone &lpar;Slightly&rpar; Faster by Deleting Your Browser&#39;s Cookies and Cache](https://lifehacker.com/tech/how-to-delete-your-browsers-cookies-and-cache-on-android)
-- [Lifehacker] [The iRobot Roomba Combo j5 Is 50% Off Right Now](https://lifehacker.com/home/the-irobot-roomba-combo-j5-is-half-off-right-now)
-- [Lifehacker] [The ‘Animedoro’ Method Can Make You More Productive While Giving You More Downtime](https://lifehacker.com/work/how-to-use-animedoro-productivity-method)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The iRobot Roomba Combo j5 Is 50% Off Right Now](https://lifehacker.com/home/the-irobot-roomba-combo-j5-is-half-off-right-now)<!-- TECH-POSTS:END -->
 
 ---
 
