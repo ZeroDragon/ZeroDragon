@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [31 React Best Practices For Writing Clean And Efficient Code](https://dev.to/invezza/31-react-best-practices-for-writing-clean-and-efficient-code-2224)
+- [Dev.to/JS] [Hướng dẫn tải app Jun88 nhanh chóng, đơn giản nhất](https://dev.to/jun88delivery/huong-dan-tai-app-jun88-nhanh-chong-don-gian-nhat-2lj6)
+- [Dev.to/JS] [Understanding Data Types - A Personal Journey](https://dev.to/rashidcodes/understanding-data-types-a-personal-journey-57a6)
 - [Dev.to/JS] [Understanding JavaScript Variables: A Beginner&#39;s Guide](https://dev.to/rashidcodes/understanding-javascript-variables-a-beginners-guide-1m0i)
 - [Dev.to/JS] [Introducción al DOM: Attributes &amp; Data Attributes](https://dev.to/ulisesafcdev/introduccion-al-dom-attributes-data-attributes-1dj1)
 - [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $220 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
@@ -41,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating custom input formatter for React Hook Form](https://dev.to/eliasjnior/creating-custom-input-formatter-for-react-hook-form-47al)
 - [Dev.to/JS] [The fck. Framework - What Is This?](https://dev.to/streetcommunityprogrammer/the-fck-framework-what-is-this-5bbi)
 - [Dev.to/JS] [How to handle CORS issues when deploying a nodeJS express app on vercel??](https://dev.to/kartikeykjjaiswal/how-to-handle-cors-issues-when-deploying-a-nodejs-express-app-on-vercel-10kh)
-- [Dev.to/JS] [Interfaces vs. Types em TypeScript: Entendendo as Diferenças](https://dev.to/vitorrios1001/interfaces-vs-types-em-typescript-entendendo-as-diferencas-2h73)
 - [Lifehacker] [The Apple Watch SE Is Just $206 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
-- [Dev.to/JS] [Mastering TypeScript: A Comprehensive Guide for JavaScript Developers](https://dev.to/bartzalewski/mastering-typescript-a-comprehensive-guide-for-javascript-developers-3opm)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.3](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-13-5a37)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $30 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
 - [Lifehacker] [How to Have Less Awkward Shower Sex](https://lifehacker.com/relationships/how-to-have-less-awkward-shower-sex)
