@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [nhacaibj88](https://dev.to/nhacaibj88/nhacaibj88-2bef)
+- [Dev.to/JS] [🗃️ Building a Pocket Database with Telegra.ph — create your database in just a single function! 😱](https://dev.to/creuserr/building-a-pocket-database-with-telegraph-1pop)
 - [Dev.to/JS] [Pieces of interactives: Astro Islands ☄️](https://dev.to/dvalin99/pieces-of-interactives-astro-islands-4nnb)
 - [Dev.to/JS] [Make Your Custom WordPress Website Design with AK Dezigns!](https://dev.to/akdezigns/make-your-custom-wordpress-website-design-with-ak-dezigns-4c5f)
 - [Dev.to/JS] [Job Hunting](https://dev.to/alexxanderr20/job-hunting-1jic)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding JavaScript Variables: A Beginner&#39;s Guide](https://dev.to/rashidcodes/understanding-javascript-variables-a-beginners-guide-1m0i)
 - [Dev.to/JS] [Introducción al DOM: Attributes &amp; Data Attributes](https://dev.to/ulisesafcdev/introduccion-al-dom-attributes-data-attributes-1dj1)
 - [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $220 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
-- [Dev.to/JS] [The Virtual DOM is More Powerful Than You Think](https://dev.to/aarvinr/the-virtual-dom-is-more-powerful-than-you-think-39ah)
-- [Dev.to/JS] [Use regular expressions to get url parameters in JS](https://dev.to/wangliwen/use-regular-expressions-to-get-url-parameters-in-js-41ch)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books This Week](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
 - [Lifehacker] [You Can Get This Foldable Touchscreen Car Display for $96 Right Now](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
 - [Lifehacker] [The Best Wifi Routers to Buy in 2024](https://lifehacker.com/tech/best-wifi-routers)
