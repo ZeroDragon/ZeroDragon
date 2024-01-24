@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Recursion in Javascript](https://dev.to/thehomelessdev/recursion-in-javascript-50nm)
+- [Dev.to/JS] [Zoom an Image on page scroll using JavaScript](https://dev.to/divinector/zoom-an-image-on-page-scroll-using-javascript-39mg)
+- [Dev.to/JS] [A new customizable vue video player](https://dev.to/lucaargentieri/a-new-customizable-vue-video-player-4mle)
+- [Dev.to/JS] [Fort.js: Revolutionizing Node.js Development - Simplicity, Speed, and Component-Based Modularity](https://dev.to/ujjwal_kr_gupta/fortjs-revolutionizing-nodejs-development-simplicity-speed-and-component-based-modularity-1k0c)
 - [Dev.to/JS] [Revisiting the HTML Problem Space and Introducing OOHTML](https://dev.to/oxharris/revisiting-the-html-problem-space-and-introducing-oohtml-3oh5)
+- [Lifehacker] [Use &#39;Direct Admissions&#39; to Make Applying for College Easier](https://lifehacker.com/family/direct-admissions-college)
 - [Dev.to/JS] [CreativeAI 2.0 Review-Latest Bing Edge &amp; Copilot Powered App!](https://dev.to/arifhossain204/creativeai-20-review-latest-bing-edge-copilot-powered-app-255p)
 - [Dev.to/JS] [A Beginner’s Guide to JavaScript Fundamentals](https://dev.to/sikirumomodu/a-beginners-guide-to-javascript-fundamentals-2gmh)
 - [Dev.to/JS] [The zen of state in Solid.js](https://dev.to/lexlohr/the-zen-of-state-in-solidjs-22lj)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [List of events in Montgomery in honor of Dr. Martin Luther King, Jr. holiday](https://dev.to/dabraz01816/list-of-events-in-montgomery-in-honor-of-dr-martin-luther-king-jr-holiday-14jc)
 - [Dev.to/JS] [Alternatives to Chart.js - A Series Exploring JavaScript Chart Comparisons](https://dev.to/andyb1979/alternatives-to-chartjs-a-series-exploring-javascript-chart-comparisons-4cb0)
 - [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts/buy-google-ads-accounts-2k7d)
-- [Dev.to/JS] [👨‍💻 Daily Code 48 | Random Number 1-100, 🐍 Python and 🟨 JavaScript &lpar;3&rpar;](https://dev.to/gregor_schafroth/daily-code-48-random-number-1-100-python-and-javascript-3-2oik)
-- [Dev.to/JS] [Blood test lab in Chandigarh](https://dev.to/diagnostic81789/blood-test-lab-in-chandigarh-534e)
-- [Dev.to/JS] [Vite Nedir](https://dev.to/basitkod/vite-nedir-5dbb)
-- [Dev.to/JS] [Bright Light — SaaS multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/bright-light-saas-multipage-theme-built-with-astro-tailwind-css-mdx-de7)
 - [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $220 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books This Week](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
 - [Lifehacker] [You Can Get This Foldable Touchscreen Car Display for $96 Right Now](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
-- [Lifehacker] [The Best Ways to Teach Your Kids to Manage Their Free Time](https://lifehacker.com/family/teach-kids-to-manage-free-time)
-- [Lifehacker] [The Best Apps to Make Sure You Actually Do the Thing You Said You’d Do](https://lifehacker.com/work/the-best-apps-for-staying-accountable-to-your-goals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Teach Your Kids to Manage Their Free Time](https://lifehacker.com/family/teach-kids-to-manage-free-time)<!-- TECH-POSTS:END -->
 
 ---
 
