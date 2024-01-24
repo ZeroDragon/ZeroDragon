@@ -26,25 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Personal Roadmap as a Software Developer in 2024](https://dev.to/fomonyuytar/a-personal-roadmap-as-a-software-developer-in-2024-h49)
+- [Dev.to/JS] [AdonisJS V6 is Out, and it&#39;s a Developer&#39;s Dream](https://dev.to/aarvinr/adonisjs-v6-is-out-and-its-a-developers-dream-1n7h)
+- [Dev.to/JS] [StyleX — The CSS Library Behind Meta’s Platforms](https://dev.to/yahia_berashish/stylex-the-css-library-behind-metas-platforms-1232)
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.4](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-14-1mae)
 - [Dev.to/JS] [Comparison between JavaScript and TypeScript](https://dev.to/geampiere/comparison-between-javascript-and-typescript-37ob)
 - [Dev.to/JS] [Wordpress Plugin to manage big data with ajax filter dynamically](https://dev.to/faizantestfaizan/wordpress-plugin-to-manage-big-data-with-ajax-filter-dynamically-29h1)
-- [Lifehacker] [This Alienware Laptop is $400 Off for 48 Hours Only](https://lifehacker.com/tech/alienware-x14-r2-gaming-laptop-dell-flash-sale)
-- [Lifehacker] [You Can Get This Deeper Connect Pico Decentralized VPN for $149 Right Now](https://lifehacker.com/tech/deeper-connect-pico-vpn-sale)
 - [Dev.to/JS] [Meteor is getting new docs!](https://dev.to/meteor/meteor-is-getting-new-docs-h6g)
 - [Dev.to/JS] [Lectures of JS Unit Testing - The Practical Guide](https://dev.to/vivanlaura/lectures-of-js-unit-testing-the-practical-guide-54el)
 - [Dev.to/JS] [Getting Started with Next.js](https://dev.to/soloman_err/getting-started-with-nextjs-ef7)
-- [Lifehacker] [The Hottest 2024 Valentine’s Day Gifts &lpar;According to TikTok&rpar;](https://lifehacker.com/money/the-best-2024-valentines-day-gifts-according-to-tiktok)
 - [Dev.to/JS] [Looking for your first easy open-source contribution? 🤔 Contribute to Frontend History! 📕](https://dev.to/michalkuncio/looking-for-your-first-easy-open-source-contribution-contribute-to-frontend-history-44me)
-- [Lifehacker] [Dell Is Selling the Xbox Series S for $229](https://lifehacker.com/entertainment/xbox-series-s-sale)
 - [Dev.to/JS] [Day 2 of documenting my journey learning to code! 🚀](https://dev.to/kwaziimedia/day-2-of-documenting-my-journey-learning-to-code-47ej)
 - [Dev.to/JS] [Getting Started With Unit Testing Software in 2024](https://dev.to/bobbyg603/getting-started-with-unit-testing-software-in-2024-1g72)
 - [Lifehacker] [How to Indulge a Giantess Fetish](https://lifehacker.com/relationships/how-to-act-out-a-giantess-fetish)
-- [Dev.to/JS] [Unlock Web : The Client-Server](https://dev.to/parthib_deb23/web-101-the-client-server-3cia)
-- [Dev.to/JS] [The Complete AI No-Code Guide 2024](https://dev.to/flatlogic/the-complete-ai-no-code-guide-2024-1hde)
 - [Lifehacker] [You Can Finally Log Into Twitter for iPhone With a Passkey](https://lifehacker.com/tech/how-to-log-into-twitter-on-iphone-with-a-passkey)
-- [Dev.to/JS] [How to see Who-Is-Online at your page with JavaScript](https://dev.to/superviz/how-to-see-who-is-online-at-your-page-with-javascript-9mj)
 - [Lifehacker] [The Best Ways to Fake Natural Light in a Dark Space](https://lifehacker.com/home/fake-natural-light-in-a-dark-space)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/wilsonquinn751/buy-google-voice-accounts-hd1)
 - [Lifehacker] [You Can Get This 6th-Gen iPad for $150 Right Now](https://lifehacker.com/6th-gen-ipad-sale)
 - [Lifehacker] [The Best Ways to See April&#39;s Solar Eclipse If You Didn&#39;t Plan Ahead](https://lifehacker.com/travel/how-to-see-aprils-solar-eclipse-if-you-didnt-plan)
 - [Lifehacker] [The Best Parenting Advice, According to Reddit](https://lifehacker.com/family/best-parenting-advice-according-to-reddit)
@@ -65,7 +61,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six Unconventional Tools Everyone Should Own](https://lifehacker.com/home/unconventional-tools-worth-owning)
 - [Lifehacker] [This Portable Carbon Monoxide Alarm Is $45 Right Now](https://lifehacker.com/home/portable-carbon-monoxide-alarm-sale)
 - [Lifehacker] [Twice-fry Your Buffalo Cauliflower ‘Wings’ for the Crunchiest Crunch](https://lifehacker.com/food-drink/best-twice-fried-buffalo-cauliflower-wings-recipe)
-- [Lifehacker] [Use the Black-Red-Green Method to Prepare for Your Next Test](https://lifehacker.com/family/black-red-green-method-to-study)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the Black-Red-Green Method to Prepare for Your Next Test](https://lifehacker.com/family/black-red-green-method-to-study)
+- [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
+- [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $80 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
+- [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
+- [Lifehacker] [The Best Questions to Ask During a Speed Date](https://lifehacker.com/relationships/best-speed-dating-questions)<!-- TECH-POSTS:END -->
 
 ---
 
