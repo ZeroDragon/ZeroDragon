@@ -26,24 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Looking for your first easy open-source contribution? 🤔 Contribute to Frontend History! 📕](https://dev.to/michalkuncio/looking-for-your-first-easy-open-source-contribution-contribute-to-frontend-history-44me)
+- [Dev.to/JS] [Day 2 of documenting my journey learning to code! 🚀](https://dev.to/kwaziimedia/day-2-of-documenting-my-journey-learning-to-code-47ej)
+- [Dev.to/JS] [Getting Started With Unit Testing Software in 2024](https://dev.to/bobbyg603/getting-started-with-unit-testing-software-in-2024-1g72)
+- [Lifehacker] [How to Indulge a Giantess Fetish](https://lifehacker.com/relationships/how-to-act-out-a-giantess-fetish)
 - [Dev.to/JS] [Web 101 : The client-Server](https://dev.to/parthib_deb23/web-101-the-client-server-3cia)
-- [Dev.to/JS] [Web 101 : The client-Server](https://dev.to/parthib_deb23/web-101-the-client-server-4cb8)
 - [Dev.to/JS] [The Complete AI No-Code Guide 2024](https://dev.to/flatlogic/the-complete-ai-no-code-guide-2024-1hde)
+- [Lifehacker] [You Can Finally Log Into Twitter for iPhone With a Passkey](https://lifehacker.com/tech/how-to-log-into-twitter-on-iphone-with-a-passkey)
 - [Dev.to/JS] [How to see Who-Is-Online at your page with JavaScript](https://dev.to/superviz/how-to-see-who-is-online-at-your-page-with-javascript-9mj)
 - [Lifehacker] [The Best Ways to Fake Natural Light in a Dark Space](https://lifehacker.com/home/fake-natural-light-in-a-dark-space)
-- [Lifehacker] [How to Indulge a Giantess Fetish](https://lifehacker.com/relationships/how-to-act-out-a-giantess-fetish)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/wilsonquinn751/buy-google-voice-accounts-hd1)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/wilsonquinn751/buy-verified-cash-app-account-2mm4)
 - [Lifehacker] [You Can Get This 6th-Gen iPad for $150 Right Now](https://lifehacker.com/6th-gen-ipad-sale)
 - [Dev.to/JS] [Re-learning security: detecting package vulnerabilities 🎁 NPM and Nuget.](https://dev.to/iamabdul/re-learning-security-detecting-package-vulnerabilities-npm-and-nuget-5clp)
 - [Lifehacker] [The Best Ways to See April&#39;s Solar Eclipse If You Didn&#39;t Plan Ahead](https://lifehacker.com/travel/how-to-see-aprils-solar-eclipse-if-you-didnt-plan)
 - [Lifehacker] [The Best Parenting Advice, According to Reddit](https://lifehacker.com/family/best-parenting-advice-according-to-reddit)
-- [Dev.to/JS] [🤯 How to Build the &quot;𝘃𝟬.𝗱𝗲𝘃 𝗼𝗳 𝗿𝗲𝘀𝘂𝗺𝗲 builders&quot; with Next.js &amp; OpenAI 🪄✨](https://dev.to/copilotkit/how-to-build-the-with-nextjs-openai-1mhb)
+- [Dev.to/JS] [🪄 How to Build Your Best Resume with Next.js, CopilotKit &amp; OpenAI 📑✨](https://dev.to/copilotkit/how-to-build-the-with-nextjs-openai-1mhb)
 - [Dev.to/JS] [Iterators in JavaScript explained](https://dev.to/ngnijland/iterators-in-javascript-explained-onf)
 - [Lifehacker] [How to Set Up Routines in Alexa](https://lifehacker.com/tech/how-to-set-up-alexa-routines)
 - [Dev.to/JS] [Harnessing the Cloud: Azure Blob Storage and Seamless .NET Integration](https://dev.to/sardarmudassaralikhan/harnessing-the-cloud-azure-blob-storage-and-seamless-net-integration-5384)
-- [Dev.to/JS] [Implement private properties in a JavaScript class](https://dev.to/phuocng/implement-private-properties-in-a-javascript-class-3pp4)
-- [Dev.to/JS] [Node.JS vs PHP: A Closer Look at Efficiency](https://dev.to/hadiraza04/nodejs-vs-php-a-closer-look-at-efficiency-3391)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
 - [Lifehacker] [What&#39;s New on Max in February 2024](https://lifehacker.com/entertainment/whats-new-on-max-february-2024)
 - [Lifehacker] [Use &#39;Direct Admissions&#39; to Make Applying for College Easier](https://lifehacker.com/family/direct-admissions-college)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $80 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
-- [Lifehacker] [The Best Questions to Ask During a Speed Date](https://lifehacker.com/relationships/best-speed-dating-questions)
-- [Lifehacker] [How to Run a Reverse Image Search](https://lifehacker.com/tech/how-to-run-a-reverse-image-search)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Questions to Ask During a Speed Date](https://lifehacker.com/relationships/best-speed-dating-questions)<!-- TECH-POSTS:END -->
 
 ---
 
