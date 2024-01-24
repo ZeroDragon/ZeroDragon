@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books This Week](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
+- [Lifehacker] [You Can Get This Foldable Touchscreen Car Display for $96 Right Now](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
+- [Dev.to/JS] [Deployment Automation Of A Static Website ⚙️](https://dev.to/ck9801/deployment-automation-of-a-static-website-41am)
 - [Dev.to/JS] [Setup Portainer for Server App](https://dev.to/akbarnafisa/setup-portainer-for-server-app-4bh9)
+- [Lifehacker] [The Best Wifi Routers to Buy in 2024](https://lifehacker.com/tech/best-wifi-routers)
+- [Lifehacker] [The Newest Amazon Echo Show 8 is 40% Off Right Now](https://lifehacker.com/tech/best-echo-show-8-deal)
 - [Lifehacker] [You Should Always Photograph Your Devices Before You Trade Them In](https://lifehacker.com/tech/photograph-devices-before-you-trade-them-in)
 - [Dev.to/JS] [Creating custom input formatter for React Hook Form](https://dev.to/eliasjnior/creating-custom-input-formatter-for-react-hook-form-47al)
 - [Dev.to/JS] [The fck. Framework - What Is This?](https://dev.to/streetcommunityprogrammer/the-fck-framework-what-is-this-5bbi)
@@ -46,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How can we use METHODs in primitive types in JavaScript?](https://dev.to/kantakshay/how-can-we-use-methods-in-primitive-types-in-javascript-5c05)
 - [Dev.to/JS] [JavaScript Math Operators](https://dev.to/joanayebola/javascript-math-operators-99m)
 - [Lifehacker] [Use the Black-Red-Green Method to Prepare for Your Next Test](https://lifehacker.com/family/black-red-green-method-to-study)
-- [Dev.to/JS] [Unveiling Util-Easy: Your Code&#39;s New Best Friend for Epic Speed and Magic Functions 🚀✨](https://dev.to/sanjaiyan_dev/unveiling-util-easy-your-codes-new-best-friend-for-epic-speed-and-magic-functions-340e)
 - [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $80 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
 - [Lifehacker] [The Best Ways to Teach Your Kids to Manage Their Free Time](https://lifehacker.com/family/teach-kids-to-manage-free-time)
 - [Lifehacker] [The Best Apps to Make Sure You Actually Do the Thing You Said You’d Do](https://lifehacker.com/work/the-best-apps-for-staying-accountable-to-your-goals)
-- [Lifehacker] [Three Good Reasons to Update to iOS 17.3](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)
-- [Lifehacker] [These Are the Best Solar Panels You Can Put on Your House Right Now](https://lifehacker.com/home/the-best-solar-panels-you-can-put-on-your-house-right-now)
-- [Lifehacker] [You Can Build a Full Computer Inside a Game Boy](https://lifehacker.com/tech/reboi-kickstarter-build-a-computer-inside-a-game-boy)
-- [Lifehacker] [Make Your Android Phone &lpar;Slightly&rpar; Faster by Deleting Your Browser&#39;s Cookies and Cache](https://lifehacker.com/tech/how-to-delete-your-browsers-cookies-and-cache-on-android)
-- [Lifehacker] [The iRobot Roomba Combo j5 Is 50% Off Right Now](https://lifehacker.com/home/the-irobot-roomba-combo-j5-is-half-off-right-now)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Good Reasons to Update to iOS 17.3](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)<!-- TECH-POSTS:END -->
 
 ---
 
