@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Harnessing the Cloud: Azure Blob Storage and Seamless .NET Integration](https://dev.to/sardarmudassaralikhan/harnessing-the-cloud-azure-blob-storage-and-seamless-net-integration-5384)
+- [Dev.to/JS] [Implement private properties in a JavaScript class](https://dev.to/phuocng/implement-private-properties-in-a-javascript-class-3pp4)
+- [Dev.to/JS] [Node.JS vs PHP: A Closer Look at Efficiency](https://dev.to/hadiraza04/nodejs-vs-php-a-closer-look-at-efficiency-3391)
+- [Dev.to/JS] [How to create a POST api With Mongo DB and Node JS](https://dev.to/rshrmcse/how-to-create-a-post-api-with-mongo-db-and-node-js-2473)
+- [Dev.to/JS] [How to Scale Fonts Responsively with CSS for Different Screen Sizes](https://dev.to/sikirumomodu/how-to-scale-fonts-responsively-with-css-for-different-screen-sizes-4p4c)
 - [Dev.to/JS] [Recursion in Javascript](https://dev.to/thehomelessdev/recursion-in-javascript-50nm)
 - [Dev.to/JS] [Zoom an Image on page scroll using JavaScript](https://dev.to/divinector/zoom-an-image-on-page-scroll-using-javascript-39mg)
 - [Dev.to/JS] [A new customizable vue video player](https://dev.to/lucaargentieri/a-new-customizable-vue-video-player-4mle)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use &#39;Direct Admissions&#39; to Make Applying for College Easier](https://lifehacker.com/family/direct-admissions-college)
 - [Dev.to/JS] [CreativeAI 2.0 Review-Latest Bing Edge &amp; Copilot Powered App!](https://dev.to/arifhossain204/creativeai-20-review-latest-bing-edge-copilot-powered-app-255p)
 - [Dev.to/JS] [A Beginner’s Guide to JavaScript Fundamentals](https://dev.to/sikirumomodu/a-beginners-guide-to-javascript-fundamentals-2gmh)
-- [Dev.to/JS] [The zen of state in Solid.js](https://dev.to/lexlohr/the-zen-of-state-in-solidjs-22lj)
-- [Dev.to/JS] [Unlocking Seamless Configuration: Exploring the Built-in Support for .env Files in Node.js](https://dev.to/tariqali/unlocking-seamless-configuration-exploring-the-built-in-support-for-env-files-in-nodejs-552i)
-- [Dev.to/JS] [List of events in Montgomery in honor of Dr. Martin Luther King, Jr. holiday](https://dev.to/dabraz01816/list-of-events-in-montgomery-in-honor-of-dr-martin-luther-king-jr-holiday-14jc)
-- [Dev.to/JS] [Alternatives to Chart.js - A Series Exploring JavaScript Chart Comparisons](https://dev.to/andyb1979/alternatives-to-chartjs-a-series-exploring-javascript-chart-comparisons-4cb0)
-- [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts/buy-google-ads-accounts-2k7d)
 - [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $220 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books This Week](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
 - [Lifehacker] [You Can Get This Foldable Touchscreen Car Display for $96 Right Now](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
