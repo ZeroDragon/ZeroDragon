@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding JavaScript Variables: A Beginner&#39;s Guide](https://dev.to/rashidcodes/understanding-javascript-variables-a-beginners-guide-1m0i)
+- [Dev.to/JS] [Introducción al DOM: Attributes &amp; Data Attributes](https://dev.to/ulisesafcdev/introduccion-al-dom-attributes-data-attributes-1dj1)
+- [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $220 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
 - [Dev.to/JS] [The Virtual DOM is More Powerful Than You Think](https://dev.to/aarvinr/the-virtual-dom-is-more-powerful-than-you-think-39ah)
 - [Dev.to/JS] [Use regular expressions to get url parameters in JS](https://dev.to/wangliwen/use-regular-expressions-to-get-url-parameters-in-js-41ch)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books This Week](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
@@ -42,11 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Apple Watch SE Is Just $206 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
 - [Dev.to/JS] [Mastering TypeScript: A Comprehensive Guide for JavaScript Developers](https://dev.to/bartzalewski/mastering-typescript-a-comprehensive-guide-for-javascript-developers-3opm)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.3](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-13-5a37)
-- [Dev.to/JS] [Fork, customize, deploy: Get extensible Shopify app templates to jumpstart your next build](https://dev.to/gadgetdev/fork-customize-deploy-get-extensible-shopify-app-templates-to-jumpstart-your-next-build-36kh)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $30 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
 - [Lifehacker] [How to Have Less Awkward Shower Sex](https://lifehacker.com/relationships/how-to-have-less-awkward-shower-sex)
-- [Dev.to/JS] [5 Small &lpar;Yet Easily Fixable&rpar; Mistakes Junior Frontend Developers Often Make in Their React Code](https://dev.to/_ndeyefatoudiop/5-small-yet-easily-fixable-mistakes-junior-frontend-developers-often-make-in-their-react-code-2bjn)
 - [Lifehacker] [Six Unconventional Tools Everyone Should Own](https://lifehacker.com/home/unconventional-tools-worth-owning)
 - [Lifehacker] [This Portable Carbon Monoxide Alarm Is $45 Right Now](https://lifehacker.com/home/portable-carbon-monoxide-alarm-sale)
 - [Lifehacker] [Twice-fry Your Buffalo Cauliflower ‘Wings’ for the Crunchiest Crunch](https://lifehacker.com/food-drink/best-twice-fried-buffalo-cauliflower-wings-recipe)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
 - [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
 - [Lifehacker] [The Best Ways to Teach Your Kids to Manage Their Free Time](https://lifehacker.com/family/teach-kids-to-manage-free-time)
-- [Lifehacker] [The Best Apps to Make Sure You Actually Do the Thing You Said You’d Do](https://lifehacker.com/work/the-best-apps-for-staying-accountable-to-your-goals)
-- [Lifehacker] [Three Good Reasons to Update to iOS 17.3](https://lifehacker.com/tech/best-features-coming-in-the-new-ios)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Apps to Make Sure You Actually Do the Thing You Said You’d Do](https://lifehacker.com/work/the-best-apps-for-staying-accountable-to-your-goals)<!-- TECH-POSTS:END -->
 
 ---
 
