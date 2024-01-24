@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pieces of interactives: Astro Islands ☄️](https://dev.to/dvalin99/pieces-of-interactives-astro-islands-4nnb)
+- [Dev.to/JS] [Make Your Custom WordPress Website Design with AK Dezigns!](https://dev.to/akdezigns/make-your-custom-wordpress-website-design-with-ak-dezigns-4c5f)
+- [Dev.to/JS] [Job Hunting](https://dev.to/alexxanderr20/job-hunting-1jic)
+- [Dev.to/JS] [Exploring the Benefits of Activgenix CBD Gummies A Comprehensive Review](https://dev.to/activgenixcbdg/exploring-the-benefits-of-activgenix-cbd-gummies-a-comprehensive-review-195j)
 - [Dev.to/JS] [The Odin Project &quot;Day One&quot;](https://dev.to/kwaziimedia/the-odin-project-day-one-2i72)
 - [Dev.to/JS] [31 React Best Practices For Writing Clean And Efficient Code](https://dev.to/invezza/31-react-best-practices-for-writing-clean-and-efficient-code-2224)
 - [Dev.to/JS] [Hướng dẫn tải app Jun88 nhanh chóng, đơn giản nhất](https://dev.to/jun88delivery/huong-dan-tai-app-jun88-nhanh-chong-don-gian-nhat-2lj6)
@@ -37,13 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use regular expressions to get url parameters in JS](https://dev.to/wangliwen/use-regular-expressions-to-get-url-parameters-in-js-41ch)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books This Week](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
 - [Lifehacker] [You Can Get This Foldable Touchscreen Car Display for $96 Right Now](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
-- [Dev.to/JS] [Deployment Automation Of A Static Website ⚙️](https://dev.to/ck9801/deployment-automation-of-a-static-website-41am)
-- [Dev.to/JS] [Setup Portainer for Server App](https://dev.to/akbarnafisa/setup-portainer-for-server-app-4bh9)
 - [Lifehacker] [The Best Wifi Routers to Buy in 2024](https://lifehacker.com/tech/best-wifi-routers)
 - [Lifehacker] [The Newest Amazon Echo Show 8 is 40% Off Right Now](https://lifehacker.com/tech/best-echo-show-8-deal)
 - [Lifehacker] [You Should Always Photograph Your Devices Before You Trade Them In](https://lifehacker.com/tech/photograph-devices-before-you-trade-them-in)
-- [Dev.to/JS] [Creating custom input formatter for React Hook Form](https://dev.to/eliasjnior/creating-custom-input-formatter-for-react-hook-form-47al)
-- [Dev.to/JS] [The fck. Framework - What Is This?](https://dev.to/streetcommunityprogrammer/the-fck-framework-what-is-this-5bbi)
 - [Lifehacker] [The Apple Watch SE Is Just $206 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $30 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
