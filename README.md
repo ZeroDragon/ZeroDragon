@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤯 How to Build the 𝘃𝟬.𝗱𝗲𝘃 𝗼𝗳 𝗿𝗲𝘀𝘂𝗺𝗲𝘀 with Next.js &amp; OpenAI 🪄✨](https://dev.to/copilotkit/how-to-build-the-with-nextjs-openai-1mhb)
+- [Dev.to/JS] [Iterators in JavaScript explained](https://dev.to/ngnijland/iterators-in-javascript-explained-onf)
 - [Dev.to/JS] [Harnessing the Cloud: Azure Blob Storage and Seamless .NET Integration](https://dev.to/sardarmudassaralikhan/harnessing-the-cloud-azure-blob-storage-and-seamless-net-integration-5384)
 - [Dev.to/JS] [Implement private properties in a JavaScript class](https://dev.to/phuocng/implement-private-properties-in-a-javascript-class-3pp4)
 - [Dev.to/JS] [Node.JS vs PHP: A Closer Look at Efficiency](https://dev.to/hadiraza04/nodejs-vs-php-a-closer-look-at-efficiency-3391)
 - [Dev.to/JS] [How to create a POST api With Mongo DB and Node JS](https://dev.to/rshrmcse/how-to-create-a-post-api-with-mongo-db-and-node-js-2473)
 - [Dev.to/JS] [How to Scale Fonts Responsively with CSS for Different Screen Sizes](https://dev.to/sikirumomodu/how-to-scale-fonts-responsively-with-css-for-different-screen-sizes-4p4c)
 - [Dev.to/JS] [Recursion in Javascript](https://dev.to/thehomelessdev/recursion-in-javascript-50nm)
+- [Lifehacker] [What&#39;s New on Max in February 2024](https://lifehacker.com/entertainment/whats-new-on-max-february-2024)
 - [Dev.to/JS] [Zoom an Image on page scroll using JavaScript](https://dev.to/divinector/zoom-an-image-on-page-scroll-using-javascript-39mg)
 - [Dev.to/JS] [A new customizable vue video player](https://dev.to/lucaargentieri/a-new-customizable-vue-video-player-4mle)
 - [Dev.to/JS] [Fort.js: Revolutionizing Node.js Development - Simplicity, Speed, and Component-Based Modularity](https://dev.to/ujjwal_kr_gupta/fortjs-revolutionizing-nodejs-development-simplicity-speed-and-component-based-modularity-1k0c)
 - [Dev.to/JS] [Revisiting the HTML Problem Space and Introducing OOHTML](https://dev.to/oxharris/revisiting-the-html-problem-space-and-introducing-oohtml-3oh5)
 - [Lifehacker] [Use &#39;Direct Admissions&#39; to Make Applying for College Easier](https://lifehacker.com/family/direct-admissions-college)
-- [Dev.to/JS] [CreativeAI 2.0 Review-Latest Bing Edge &amp; Copilot Powered App!](https://dev.to/arifhossain204/creativeai-20-review-latest-bing-edge-copilot-powered-app-255p)
-- [Dev.to/JS] [A Beginner’s Guide to JavaScript Fundamentals](https://dev.to/sikirumomodu/a-beginners-guide-to-javascript-fundamentals-2gmh)
 - [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $220 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books This Week](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
 - [Lifehacker] [You Can Get This Foldable Touchscreen Car Display for $96 Right Now](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Common Windshield Wiper Problems &lpar;and How to Fix Them&rpar;](https://lifehacker.com/travel/most-common-windshield-wiper-problems-and-how-to-fix)
 - [Lifehacker] [These Savory Meringue Chips Are Fat- and Gluten-Free](https://lifehacker.com/food-drink/savory-meringue-chips-recipe)
 - [Lifehacker] [The Best Outdoor Security Cameras to Buy in 2024](https://lifehacker.com/tech/best-outdoor-security-cameras-you-can-buy-in-2024)
-- [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)
-- [Lifehacker] [The Best Ways to Teach Your Kids to Manage Their Free Time](https://lifehacker.com/family/teach-kids-to-manage-free-time)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Folding Motorola Razr+ Is $450 Off Right Now](https://lifehacker.com/tech/unlocked-motorola-razr-is-450-dollars-off-right-now)<!-- TECH-POSTS:END -->
 
 ---
 
