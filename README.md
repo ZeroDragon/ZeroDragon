@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [mua chung Filmstro](https://dev.to/wsovn112/mua-chung-filmstro-59p0)
+- [Dev.to/JS] [React State Variable: From Class Pains to Functional Elegance](https://dev.to/jorjishasan/react-state-variable-from-class-pains-to-functional-elegance-1moh)
+- [Dev.to/JS] [The AZ-600 Dumps Blueprint: Your Path to Success](https://dev.to/areme1987/the-az-600-dumps-blueprint-your-path-to-success-1de5)
 - [Dev.to/JS] [👨‍💻 Daily Code 49 | Change the Background Color with 🟨JavaScript](https://dev.to/gregor_schafroth/daily-code-49-change-the-background-color-with-javascript-fmo)
 - [Dev.to/JS] [PM2 Cheatsheet: A Quick Reference Guide](https://dev.to/manthanank/pm2-cheatsheet-a-quick-reference-guide-f6e)
 - [Dev.to/JS] [Recursion in JavaScriprt](https://dev.to/hriztam/recursion-in-javascriprt-2499)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fluid-Visualizer in Js](https://dev.to/discmisc/fluid-visualizer-in-js-45b9)
 - [Dev.to/JS] [Fibonacci for newbies!](https://dev.to/moniii333/fibonacci-for-newbies-3gca)
 - [Dev.to/JS] [Magic of Browser Background Services](https://dev.to/mino/magic-of-browser-background-services-1m57)
-- [Dev.to/JS] [VfyJs Package](https://dev.to/m__mdy__m/vfyjs-package-2li0)
-- [Dev.to/JS] [The fastest way to use code splitting](https://dev.to/bytedanceoss/the-fastest-way-to-use-code-splitting-1b42)
-- [Dev.to/JS] [GET ALL OF YOUR LOST Cryptocurrency BACK RIGHT AWAY!](https://dev.to/chahataylor22/get-all-of-your-lost-cryptocurrency-back-right-away-4l02)
 - [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
 - [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
 - [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
