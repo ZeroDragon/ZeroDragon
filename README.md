@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The fastest way to use code splitting](https://dev.to/bytedanceoss/the-fastest-way-to-use-code-splitting-1b42)
+- [Dev.to/JS] [GET ALL OF YOUR LOST Cryptocurrency BACK RIGHT AWAY!](https://dev.to/chahataylor22/get-all-of-your-lost-cryptocurrency-back-right-away-4l02)
+- [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
+- [Lifehacker] [You Can Get a Free Google Nest and $100 Gift Card When You Sign Up With ADT](https://lifehacker.com/tech/get-a-free-google-nest-and-100-gift-card-with-this-adt-deal)
+- [Lifehacker] [Fool Your Friends With This Three-ingredient Cheater’s Crème Brûlée](https://lifehacker.com/food-drink/3-ingredient-easy-creme-brulee-recipe)
+- [Lifehacker] [How ‘PEE’ Can Help You Write Better](https://lifehacker.com/work/write-better-with-pee-mnemonic-device)
 - [Dev.to/JS] [Announcing AdonisJS v6](https://dev.to/adonisframework/announcing-adonisjs-v6-ac0)
 - [Lifehacker] [What&#39;s New on Netflix in February 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-february-2024)
 - [Dev.to/JS] [A Personal Roadmap as a Software Developer in 2024](https://dev.to/fomonyuytar/a-personal-roadmap-as-a-software-developer-in-2024-h49)
@@ -43,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lectures of JS Unit Testing - The Practical Guide](https://dev.to/vivanlaura/lectures-of-js-unit-testing-the-practical-guide-54el)
 - [Dev.to/JS] [Getting Started with Next.js](https://dev.to/soloman_err/getting-started-with-nextjs-ef7)
 - [Lifehacker] [The Hottest 2024 Valentine’s Day Gifts &lpar;According to TikTok&rpar;](https://lifehacker.com/money/the-best-2024-valentines-day-gifts-according-to-tiktok)
-- [Dev.to/JS] [Looking for your first easy open-source contribution? 🤔 Contribute to Frontend History! 📕](https://dev.to/michalkuncio/looking-for-your-first-easy-open-source-contribution-contribute-to-frontend-history-44me)
 - [Lifehacker] [Dell Is Selling the Xbox Series S for $229](https://lifehacker.com/entertainment/xbox-series-s-sale)
-- [Dev.to/JS] [Day 2 of documenting my journey learning to code! 🚀](https://dev.to/kwaziimedia/day-2-of-documenting-my-journey-learning-to-code-47ej)
 - [Lifehacker] [How to Indulge a Giantess Fetish](https://lifehacker.com/relationships/how-to-act-out-a-giantess-fetish)
 - [Lifehacker] [You Can Finally Log Into Twitter for iPhone With a Passkey](https://lifehacker.com/tech/how-to-log-into-twitter-on-iphone-with-a-passkey)
 - [Lifehacker] [The Best Ways to Fake Natural Light in a Dark Space](https://lifehacker.com/home/fake-natural-light-in-a-dark-space)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Foldable Touchscreen Car Display for $96 Right Now](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
 - [Lifehacker] [The Best Wifi Routers to Buy in 2024](https://lifehacker.com/tech/best-wifi-routers)
 - [Lifehacker] [The Newest Amazon Echo Show 8 is 40% Off Right Now](https://lifehacker.com/tech/best-echo-show-8-deal)
-- [Lifehacker] [You Should Always Photograph Your Devices Before You Trade Them In](https://lifehacker.com/tech/photograph-devices-before-you-trade-them-in)
-- [Lifehacker] [The Apple Watch SE Is Just $206 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
-- [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $30 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
-- [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
-- [Lifehacker] [How to Have Less Awkward Shower Sex](https://lifehacker.com/relationships/how-to-have-less-awkward-shower-sex)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Always Photograph Your Devices Before You Trade Them In](https://lifehacker.com/tech/photograph-devices-before-you-trade-them-in)<!-- TECH-POSTS:END -->
 
 ---
 
