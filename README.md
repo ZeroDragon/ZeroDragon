@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [👨‍💻 Daily Code 49 | Change the Background Color with 🟨JavaScript](https://dev.to/gregor_schafroth/daily-code-49-change-the-background-color-with-javascript-fmo)
+- [Dev.to/JS] [PM2 Cheatsheet: A Quick Reference Guide](https://dev.to/manthanank/pm2-cheatsheet-a-quick-reference-guide-f6e)
+- [Dev.to/JS] [Recursion in JavaScriprt](https://dev.to/hriztam/recursion-in-javascriprt-2499)
+- [Dev.to/JS] [Navigating Excellence with IMS, the Best CAT Coaching in Nagpur](https://dev.to/imsnagpur/navigating-excellence-with-ims-the-best-cat-coaching-in-nagpur-2lb6)
 - [Dev.to/JS] [Teach Me How To PubSub](https://dev.to/ignoreintuition/teach-me-how-to-pubsub-3dkl)
 - [Dev.to/JS] [Advanced use of JavaScript toString&lpar;&rpar; and parseInt&lpar;&rpar;](https://dev.to/vvkkumar06/advanced-use-of-javascript-tostring-and-parseint-po6)
 - [Dev.to/JS] [Fluid-Visualizer in Js](https://dev.to/discmisc/fluid-visualizer-in-js-45b9)
@@ -40,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Free Google Nest and $100 Gift Card When You Sign Up With ADT](https://lifehacker.com/tech/get-a-free-google-nest-and-100-gift-card-with-this-adt-deal)
 - [Lifehacker] [Fool Your Friends With This Three-ingredient Cheater’s Crème Brûlée](https://lifehacker.com/food-drink/3-ingredient-easy-creme-brulee-recipe)
 - [Lifehacker] [How ‘PEE’ Can Help You Write Better](https://lifehacker.com/work/write-better-with-pee-mnemonic-device)
-- [Dev.to/JS] [Announcing AdonisJS v6](https://dev.to/adonisframework/announcing-adonisjs-v6-ac0)
 - [Lifehacker] [What&#39;s New on Netflix in February 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-february-2024)
-- [Dev.to/JS] [A Personal Roadmap as a Software Developer in 2024](https://dev.to/fomonyuytar/a-personal-roadmap-as-a-software-developer-in-2024-h49)
-- [Dev.to/JS] [AdonisJS V6 is Out, and it&#39;s a Developer&#39;s Dream](https://dev.to/aarvinr/adonisjs-v6-is-out-and-its-a-developers-dream-1n7h)
-- [Dev.to/JS] [StyleX — The CSS Library Behind Meta’s Platforms](https://dev.to/yahia_berashish/stylex-the-css-library-behind-metas-platforms-1232)
 - [Lifehacker] [This Alienware Curved Monitor is $200 Off Right Now](https://lifehacker.com/entertainment/alienware-34-curved-qd-oled-gaming-monitor-dell-flash-sale)
 - [Lifehacker] [Why You Can&#39;t Get All Your Protein From Collagen Powder](https://lifehacker.com/health/does-collagen-powder-count-as-protein)
 - [Lifehacker] [This Dell XPS 15 Is $850 Off Right Now](https://lifehacker.com/tech/this-dell-xps-15-is-on-sale-right-now)
