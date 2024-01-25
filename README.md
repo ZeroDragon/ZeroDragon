@@ -27,9 +27,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Announcing AdonisJS v6](https://dev.to/adonisframework/announcing-adonisjs-v6-ac0)
+- [Lifehacker] [What&#39;s New on Netflix in February 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-february-2024)
 - [Dev.to/JS] [A Personal Roadmap as a Software Developer in 2024](https://dev.to/fomonyuytar/a-personal-roadmap-as-a-software-developer-in-2024-h49)
 - [Dev.to/JS] [AdonisJS V6 is Out, and it&#39;s a Developer&#39;s Dream](https://dev.to/aarvinr/adonisjs-v6-is-out-and-its-a-developers-dream-1n7h)
 - [Dev.to/JS] [StyleX — The CSS Library Behind Meta’s Platforms](https://dev.to/yahia_berashish/stylex-the-css-library-behind-metas-platforms-1232)
+- [Lifehacker] [This Alienware Curved Monitor is $200 Off Right Now](https://lifehacker.com/entertainment/alienware-34-curved-qd-oled-gaming-monitor-dell-flash-sale)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.4](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-14-1mae)
 - [Lifehacker] [Why You Can&#39;t Get All Your Protein From Collagen Powder](https://lifehacker.com/health/does-collagen-powder-count-as-protein)
 - [Dev.to/JS] [Comparison between JavaScript and TypeScript](https://dev.to/geampiere/comparison-between-javascript-and-typescript-37ob)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Apple Watch SE Is Just $206 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
 - [Lifehacker] [You Can Get This H&amp;R Block Tax Software on Sale for $30 Right Now](https://lifehacker.com/money/hr-block-tax-software-sale)
 - [Lifehacker] [How to Candy Nuts Without Burning Yourself Even Once](https://lifehacker.com/how-to-candy-nuts-without-burning-yourself-even-once-1849744499)
-- [Lifehacker] [How to Have Less Awkward Shower Sex](https://lifehacker.com/relationships/how-to-have-less-awkward-shower-sex)
-- [Lifehacker] [Six Unconventional Tools Everyone Should Own](https://lifehacker.com/home/unconventional-tools-worth-owning)
-- [Lifehacker] [This Portable Carbon Monoxide Alarm Is $45 Right Now](https://lifehacker.com/home/portable-carbon-monoxide-alarm-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Have Less Awkward Shower Sex](https://lifehacker.com/relationships/how-to-have-less-awkward-shower-sex)<!-- TECH-POSTS:END -->
 
 ---
 
