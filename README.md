@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Concurrently operations in Node.js](https://dev.to/cookiemonsterdev/concurrently-operations-in-nodejs-jgm)
+- [Dev.to/JS] [Building React Footer Components with Tailwindcss](https://dev.to/ryaddev/building-react-footer-components-with-tailwindcss-1kg9)
+- [Dev.to/JS] [How can help you](https://dev.to/kunalmnsantosh/how-can-help-you-3f2c)
 - [Dev.to/JS] [Navigating Teams to Success](https://dev.to/angelamiton/navigating-teams-to-success-4oed)
 - [Dev.to/JS] [Guide to Setting Up Prettier, Airbnb ESLint, and Husky for Your Next Project](https://dev.to/emmanuelo/guide-to-setting-up-prettier-airbnb-eslint-and-husky-for-your-next-project-17ge)
 - [Dev.to/JS] [Login and Registration Form](https://dev.to/sana998/login-and-registration-form-40lp)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Node.js Server in TypeScript: A Step-by-Step Guide](https://dev.to/tariqali/creating-a-nodejs-server-in-typescript-a-step-by-step-guide-1fej)
 - [Dev.to/JS] [What are the most crucial mistakes you or your team made in choosing a JavaScript library?](https://dev.to/plazarev/what-are-the-most-crucial-mistakes-you-or-your-team-made-in-choosing-a-javascript-library-4hk2)
 - [Dev.to/JS] [Navigating Software Stability: A Comprehensive Guide to Regression Testing](https://dev.to/agiconsolution/navigating-software-stability-a-comprehensive-guide-to-regression-testing-5627)
-- [Dev.to/JS] [Code Structuring for Creative Coding](https://dev.to/danizeres/code-structuring-for-creative-coding-4aa8)
-- [Dev.to/JS] [Wishes for Reactivity](https://dev.to/ninjin/wishes-for-reactivity-1l9h)
-- [Dev.to/JS] [CodeMagnet - New Launch](https://dev.to/codingmadeeasy/codemagnet-new-launch-3o49)
 - [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
 - [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
 - [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
