@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A hidden power tool for arrays in TS](https://dev.to/assertnotnull/a-hidden-power-tool-for-arrays-in-ts-1cao)
+- [Dev.to/JS] [Octal Digital](https://dev.to/octal-digital/octal-digital-k6e)
 - [Dev.to/JS] [🎮Leveling Up with JavaScript: Operators, Conditionals and Loops🕹️](https://dev.to/aniket_botre/leveling-up-with-javascript-operators-conditionals-and-loops-3pon)
 - [Dev.to/JS] [Getting started with NUXT JS](https://dev.to/dianaiminza/getting-started-with-nuxt-js-hnh)
 - [Lifehacker] [My Five Favorite Soy Sauces &lpar;and How to Use Them&rpar;](https://lifehacker.com/food-drink/a-guide-to-different-soy-sauces)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Crazy Things To Get Your Developer Career Unstuck in 2024](https://dev.to/dragosnedelcu/5-crazy-things-to-get-your-developer-career-unstuck-mcp)
 - [Dev.to/JS] [Documentation using Docusaurus](https://dev.to/dianaiminza/documentation-using-docusaurus-40g5)
 - [Dev.to/JS] [10 essential tools if you are a web developer](https://dev.to/dev_abdulhaseeb/10-essential-tools-if-you-are-a-web-developer-9pm)
-- [Dev.to/JS] [Welcome Thread](https://dev.to/gangwarshashank4/welcome-thread-3131)
 - [Lifehacker] [How to Set Up Your iPhone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/roderickboyd53/buy-glassdoor-reviews-404d)
 - [Lifehacker] [How to Revoke a Company’s ACH Authorization to Stop Them From Debiting Your Account](https://lifehacker.com/money/how-to-revoke-a-companys-ach)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books Today](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
 - [Lifehacker] [All the Ways Smart Sensors Can Help Automate Your Home](https://lifehacker.com/tech/all-the-ways-smart-sensors-can-help-automate-your-home)
