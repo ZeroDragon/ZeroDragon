@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced use of JavaScript toString&lpar;&rpar; and parseInt&lpar;&rpar;](https://dev.to/vvkkumar06/advanced-use-of-javascript-tostring-and-parseint-po6)
 - [Dev.to/JS] [Fluid-Visualizer in Js](https://dev.to/discmisc/fluid-visualizer-in-js-45b9)
 - [Dev.to/JS] [Fibonacci for newbies!](https://dev.to/moniii333/fibonacci-for-newbies-3gca)
 - [Dev.to/JS] [Magic of Browser Background Services](https://dev.to/mino/magic-of-browser-background-services-1m57)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Alienware Curved Monitor is $200 Off Right Now](https://lifehacker.com/entertainment/alienware-34-curved-qd-oled-gaming-monitor-dell-flash-sale)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.4](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-14-1mae)
 - [Lifehacker] [Why You Can&#39;t Get All Your Protein From Collagen Powder](https://lifehacker.com/health/does-collagen-powder-count-as-protein)
-- [Dev.to/JS] [Comparison between JavaScript and TypeScript](https://dev.to/geampiere/comparison-between-javascript-and-typescript-37ob)
 - [Lifehacker] [This Dell XPS 15 Is $850 Off Right Now](https://lifehacker.com/tech/this-dell-xps-15-is-on-sale-right-now)
 - [Lifehacker] [This Alienware Laptop is $400 Off for 48 Hours Only](https://lifehacker.com/tech/alienware-x14-r2-gaming-laptop-dell-flash-sale)
 - [Lifehacker] [You Can Get This Deeper Connect Pico Decentralized VPN for $149 Right Now](https://lifehacker.com/tech/deeper-connect-pico-vpn-sale)
