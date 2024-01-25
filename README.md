@@ -26,18 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [List Of Remote Friendly Companies : Part 1](https://dev.to/dev_abdulhaseeb/list-of-remote-friendly-companies-part-1-15j5)
+- [Dev.to/JS] [Coin Master Free Spins - Collect Daily Free Coin Claim Now!](https://dev.to/giveaway555/coin-master-free-spins-collect-daily-free-coin-claim-now-2ba8)
+- [Dev.to/JS] [Cloud based app development with custom Embracing Innovation: Cloud based app development with custom low-code platforms](https://dev.to/laradissouza99/cloud-based-app-development-with-custom-embracing-innovation-cloud-based-app-development-with-custom-low-code-platforms-1541)
+- [Dev.to/JS] [A day in the life of a developer - Building a dashboard app with SQL, Node.js, Django and Next.js](https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-building-a-dashboard-app-with-sql-nodejs-django-and-nextjs-5en7)
+- [Dev.to/JS] [Изменить стиль оформления сообщения, выводимого console.log](https://dev.to/mariannakhanina/izmienit-stil-oformlieniia-soobshchieniia-vyvodimogho-consolelog-jcm)
+- [Lifehacker] [Everywhere Else You Can Install Solar Panels](https://lifehacker.com/home/everywhere-you-can-install-solar-panels)
 - [Dev.to/JS] [Concurrently operations in Node.js](https://dev.to/cookiemonsterdev/concurrently-operations-in-nodejs-jgm)
+- [Lifehacker] [This 23.6-Inch HD Monitor Is on Sale for $100 Right Now](https://lifehacker.com/tech/aoc-hd-monitor-sale)
 - [Dev.to/JS] [Building React Footer Components with Tailwindcss](https://dev.to/ryaddev/building-react-footer-components-with-tailwindcss-1kg9)
 - [Dev.to/JS] [How can help you](https://dev.to/kunalmnsantosh/how-can-help-you-3f2c)
+- [Lifehacker] [What People Are Getting Wrong This Week: Is Tom Hanks Evil?](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-is-tom-hanks-evil)
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in February 2024](https://lifehacker.com/entertainment/whats-new-on-paramount-with-showtime-february-2024)
 - [Dev.to/JS] [Navigating Teams to Success](https://dev.to/angelamiton/navigating-teams-to-success-4oed)
+- [Lifehacker] [The Best Things to Say to Your Kid When You Don’t Want to Play With Them](https://lifehacker.com/family/the-best-things-to-say-to-your-kid-when-you-dont-want-to-play-with-them)
 - [Dev.to/JS] [Guide to Setting Up Prettier, Airbnb ESLint, and Husky for Your Next Project](https://dev.to/emmanuelo/guide-to-setting-up-prettier-airbnb-eslint-and-husky-for-your-next-project-17ge)
 - [Dev.to/JS] [Login and Registration Form](https://dev.to/sana998/login-and-registration-form-40lp)
 - [Dev.to/JS] [mua chung FindNiche](https://dev.to/wsovn112/mua-chung-findniche-40f8)
-- [Dev.to/JS] [JWT vs Session Authentication](https://dev.to/codeparrot/jwt-vs-session-authentication-1mol)
-- [Dev.to/JS] [Async/Await Easiest Explanation For Beginners](https://dev.to/shubhsharma19/asyncawait-easiest-explanation-for-beginners-44di)
-- [Dev.to/JS] [Creating a Node.js Server in TypeScript: A Step-by-Step Guide](https://dev.to/tariqali/creating-a-nodejs-server-in-typescript-a-step-by-step-guide-1fej)
-- [Dev.to/JS] [What are the most crucial mistakes you or your team made in choosing a JavaScript library?](https://dev.to/plazarev/what-are-the-most-crucial-mistakes-you-or-your-team-made-in-choosing-a-javascript-library-4hk2)
-- [Dev.to/JS] [Navigating Software Stability: A Comprehensive Guide to Regression Testing](https://dev.to/agiconsolution/navigating-software-stability-a-comprehensive-guide-to-regression-testing-5627)
 - [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
 - [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
 - [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Parenting Advice, According to Reddit](https://lifehacker.com/family/best-parenting-advice-according-to-reddit)
 - [Lifehacker] [How to Set Up Routines in Alexa](https://lifehacker.com/tech/how-to-set-up-alexa-routines)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
-- [Lifehacker] [What&#39;s New on Max in February 2024](https://lifehacker.com/entertainment/whats-new-on-max-february-2024)
-- [Lifehacker] [Use &#39;Direct Admissions&#39; to Make Applying for College Easier](https://lifehacker.com/family/direct-admissions-college)
-- [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $220 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
-- [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books This Week](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
-- [Lifehacker] [You Can Get This Foldable Touchscreen Car Display for $96 Right Now](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
-- [Lifehacker] [The Best Wifi Routers to Buy in 2024](https://lifehacker.com/tech/best-wifi-routers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Max in February 2024](https://lifehacker.com/entertainment/whats-new-on-max-february-2024)<!-- TECH-POSTS:END -->
 
 ---
 
