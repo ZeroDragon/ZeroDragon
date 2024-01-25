@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fibonacci for newbies!](https://dev.to/moniii333/fibonacci-for-newbies-3gca)
+- [Dev.to/JS] [Magic of Browser Background Services](https://dev.to/mino/magic-of-browser-background-services-1m57)
 - [Dev.to/JS] [VfyJs Package](https://dev.to/m__mdy__m/vfyjs-package-2li0)
 - [Dev.to/JS] [The fastest way to use code splitting](https://dev.to/bytedanceoss/the-fastest-way-to-use-code-splitting-1b42)
 - [Dev.to/JS] [GET ALL OF YOUR LOST Cryptocurrency BACK RIGHT AWAY!](https://dev.to/chahataylor22/get-all-of-your-lost-cryptocurrency-back-right-away-4l02)
@@ -48,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Wordpress Plugin to manage big data with ajax filter dynamically](https://dev.to/faizantestfaizan/wordpress-plugin-to-manage-big-data-with-ajax-filter-dynamically-29h1)
 - [Lifehacker] [This Alienware Laptop is $400 Off for 48 Hours Only](https://lifehacker.com/tech/alienware-x14-r2-gaming-laptop-dell-flash-sale)
 - [Lifehacker] [You Can Get This Deeper Connect Pico Decentralized VPN for $149 Right Now](https://lifehacker.com/tech/deeper-connect-pico-vpn-sale)
-- [Dev.to/JS] [Meteor is getting new docs!](https://dev.to/meteor/meteor-is-getting-new-docs-h6g)
-- [Dev.to/JS] [Lectures of JS Unit Testing - The Practical Guide](https://dev.to/vivanlaura/lectures-of-js-unit-testing-the-practical-guide-54el)
 - [Lifehacker] [The Hottest 2024 Valentine’s Day Gifts &lpar;According to TikTok&rpar;](https://lifehacker.com/money/the-best-2024-valentines-day-gifts-according-to-tiktok)
 - [Lifehacker] [Dell Is Selling the Xbox Series S for $229](https://lifehacker.com/entertainment/xbox-series-s-sale)
 - [Lifehacker] [How to Indulge a Giantess Fetish](https://lifehacker.com/relationships/how-to-act-out-a-giantess-fetish)
