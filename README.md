@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [mua chung FindNiche](https://dev.to/wsovn112/mua-chung-findniche-40f8)
+- [Dev.to/JS] [JWT vs Session Authentication](https://dev.to/codeparrot/jwt-vs-session-authentication-1mol)
+- [Dev.to/JS] [Async/Await Easiest Explanation For Beginners](https://dev.to/shubhsharma19/asyncawait-easiest-explanation-for-beginners-44di)
+- [Dev.to/JS] [Creating a Node.js Server in TypeScript: A Step-by-Step Guide](https://dev.to/tariqali/creating-a-nodejs-server-in-typescript-a-step-by-step-guide-1fej)
 - [Dev.to/JS] [What are the most crucial mistakes you or your team made in choosing a JavaScript library?](https://dev.to/plazarev/what-are-the-most-crucial-mistakes-you-or-your-team-made-in-choosing-a-javascript-library-4hk2)
 - [Dev.to/JS] [Navigating Software Stability: A Comprehensive Guide to Regression Testing](https://dev.to/agiconsolution/navigating-software-stability-a-comprehensive-guide-to-regression-testing-5627)
 - [Dev.to/JS] [Code Structuring for Creative Coding](https://dev.to/danizeres/code-structuring-for-creative-coding-4aa8)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring ReadableStream in the Browser: A Guide to Asynchronous Reading](https://dev.to/vvkkumar06/exploring-readablestream-in-the-browser-a-guide-to-asynchronous-reading-28g2)
 - [Dev.to/JS] [Carbon - Directory theme.. Built with Astro &amp; Tailwind CSS](https://dev.to/lexingtonthemes/carbon-directory-theme-built-with-astro-tailwind-css-6bc)
 - [Dev.to/JS] [How do you call API from the front end?](https://dev.to/sanjaykhanssk/how-do-you-call-api-from-the-front-end-4i0e)
-- [Dev.to/JS] [How to Use Exam Topics Free for Exam Preparation](https://dev.to/yeharlbrat/how-to-use-exam-topics-free-for-exam-preparation-3ngb)
-- [Dev.to/JS] [Introduction to hardware programming with DeviceScript](https://dev.to/timon/introduction-to-hardware-programming-with-devicescript-53ak)
-- [Dev.to/JS] [mua chung Filmstro](https://dev.to/wsovn112/mua-chung-filmstro-59p0)
-- [Dev.to/JS] [React State Variable: From Class Pains to Functional Elegance](https://dev.to/jorjishasan/react-state-variable-from-class-pains-to-functional-elegance-1moh)
 - [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
 - [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
 - [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
