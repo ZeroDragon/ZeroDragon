@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guide to Setting Up Prettier, Airbnb ESLint, and Husky for Your Next Project](https://dev.to/emmanuelo/guide-to-setting-up-prettier-airbnb-eslint-and-husky-for-your-next-project-17ge)
+- [Dev.to/JS] [Login and Registration Form](https://dev.to/sana998/login-and-registration-form-40lp)
 - [Dev.to/JS] [mua chung FindNiche](https://dev.to/wsovn112/mua-chung-findniche-40f8)
 - [Dev.to/JS] [JWT vs Session Authentication](https://dev.to/codeparrot/jwt-vs-session-authentication-1mol)
 - [Dev.to/JS] [Async/Await Easiest Explanation For Beginners](https://dev.to/shubhsharma19/asyncawait-easiest-explanation-for-beginners-44di)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Wishes for Reactivity](https://dev.to/ninjin/wishes-for-reactivity-1l9h)
 - [Dev.to/JS] [CodeMagnet - New Launch](https://dev.to/codingmadeeasy/codemagnet-new-launch-3o49)
 - [Dev.to/JS] [Exploring ReadableStream in the Browser: A Guide to Asynchronous Reading](https://dev.to/vvkkumar06/exploring-readablestream-in-the-browser-a-guide-to-asynchronous-reading-28g2)
-- [Dev.to/JS] [Carbon - Directory theme.. Built with Astro &amp; Tailwind CSS](https://dev.to/lexingtonthemes/carbon-directory-theme-built-with-astro-tailwind-css-6bc)
-- [Dev.to/JS] [How do you call API from the front end?](https://dev.to/sanjaykhanssk/how-do-you-call-api-from-the-front-end-4i0e)
 - [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
 - [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
 - [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
