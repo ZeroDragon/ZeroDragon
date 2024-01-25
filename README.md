@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VfyJs Package](https://dev.to/m__mdy__m/vfyjs-package-2li0)
 - [Dev.to/JS] [The fastest way to use code splitting](https://dev.to/bytedanceoss/the-fastest-way-to-use-code-splitting-1b42)
 - [Dev.to/JS] [GET ALL OF YOUR LOST Cryptocurrency BACK RIGHT AWAY!](https://dev.to/chahataylor22/get-all-of-your-lost-cryptocurrency-back-right-away-4l02)
+- [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
+- [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
 - [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
 - [Lifehacker] [You Can Get a Free Google Nest and $100 Gift Card When You Sign Up With ADT](https://lifehacker.com/tech/get-a-free-google-nest-and-100-gift-card-with-this-adt-deal)
 - [Lifehacker] [Fool Your Friends With This Three-ingredient Cheater’s Crème Brûlée](https://lifehacker.com/food-drink/3-ingredient-easy-creme-brulee-recipe)
@@ -47,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Deeper Connect Pico Decentralized VPN for $149 Right Now](https://lifehacker.com/tech/deeper-connect-pico-vpn-sale)
 - [Dev.to/JS] [Meteor is getting new docs!](https://dev.to/meteor/meteor-is-getting-new-docs-h6g)
 - [Dev.to/JS] [Lectures of JS Unit Testing - The Practical Guide](https://dev.to/vivanlaura/lectures-of-js-unit-testing-the-practical-guide-54el)
-- [Dev.to/JS] [Getting Started with Next.js](https://dev.to/soloman_err/getting-started-with-nextjs-ef7)
 - [Lifehacker] [The Hottest 2024 Valentine’s Day Gifts &lpar;According to TikTok&rpar;](https://lifehacker.com/money/the-best-2024-valentines-day-gifts-according-to-tiktok)
 - [Lifehacker] [Dell Is Selling the Xbox Series S for $229](https://lifehacker.com/entertainment/xbox-series-s-sale)
 - [Lifehacker] [How to Indulge a Giantess Fetish](https://lifehacker.com/relationships/how-to-act-out-a-giantess-fetish)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $220 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books This Week](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
 - [Lifehacker] [You Can Get This Foldable Touchscreen Car Display for $96 Right Now](https://lifehacker.com/travel/foldable-touchscreen-car-display-sale)
-- [Lifehacker] [The Best Wifi Routers to Buy in 2024](https://lifehacker.com/tech/best-wifi-routers)
-- [Lifehacker] [The Newest Amazon Echo Show 8 is 40% Off Right Now](https://lifehacker.com/tech/best-echo-show-8-deal)
-- [Lifehacker] [You Should Always Photograph Your Devices Before You Trade Them In](https://lifehacker.com/tech/photograph-devices-before-you-trade-them-in)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Wifi Routers to Buy in 2024](https://lifehacker.com/tech/best-wifi-routers)<!-- TECH-POSTS:END -->
 
 ---
 
