@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript: Essential Concepts and Best Practices for Developers](https://dev.to/srinureddy/mastering-javascript-essential-concepts-and-best-practices-for-developers-545f)
+- [Dev.to/JS] [OneEntry: User-Friendly Content Management for Everyone](https://dev.to/arindam_1729/oneentry-user-friendly-content-management-for-everyone-4hnm)
+- [Dev.to/JS] [D3.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/d3js-adoption-guide-overview-examples-and-alternatives-4dj2)
 - [Dev.to/JS] [List Of Remote Friendly Companies : Part 1](https://dev.to/dev_abdulhaseeb/list-of-remote-friendly-companies-part-1-15j5)
 - [Dev.to/JS] [Coin Master Free Spins - Collect Daily Free Coin Claim Now!](https://dev.to/giveaway555/coin-master-free-spins-collect-daily-free-coin-claim-now-2ba8)
 - [Dev.to/JS] [Cloud based app development with custom Embracing Innovation: Cloud based app development with custom low-code platforms](https://dev.to/laradissouza99/cloud-based-app-development-with-custom-embracing-innovation-cloud-based-app-development-with-custom-low-code-platforms-1541)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in February 2024](https://lifehacker.com/entertainment/whats-new-on-paramount-with-showtime-february-2024)
 - [Dev.to/JS] [Navigating Teams to Success](https://dev.to/angelamiton/navigating-teams-to-success-4oed)
 - [Lifehacker] [The Best Things to Say to Your Kid When You Don’t Want to Play With Them](https://lifehacker.com/family/the-best-things-to-say-to-your-kid-when-you-dont-want-to-play-with-them)
-- [Dev.to/JS] [Guide to Setting Up Prettier, Airbnb ESLint, and Husky for Your Next Project](https://dev.to/emmanuelo/guide-to-setting-up-prettier-airbnb-eslint-and-husky-for-your-next-project-17ge)
-- [Dev.to/JS] [Login and Registration Form](https://dev.to/sana998/login-and-registration-form-40lp)
-- [Dev.to/JS] [mua chung FindNiche](https://dev.to/wsovn112/mua-chung-findniche-40f8)
 - [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
 - [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
 - [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
