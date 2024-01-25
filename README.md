@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fluid-Visualizer in Js](https://dev.to/discmisc/fluid-visualizer-in-js-45b9)
 - [Dev.to/JS] [Fibonacci for newbies!](https://dev.to/moniii333/fibonacci-for-newbies-3gca)
 - [Dev.to/JS] [Magic of Browser Background Services](https://dev.to/mino/magic-of-browser-background-services-1m57)
 - [Dev.to/JS] [VfyJs Package](https://dev.to/m__mdy__m/vfyjs-package-2li0)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Can&#39;t Get All Your Protein From Collagen Powder](https://lifehacker.com/health/does-collagen-powder-count-as-protein)
 - [Dev.to/JS] [Comparison between JavaScript and TypeScript](https://dev.to/geampiere/comparison-between-javascript-and-typescript-37ob)
 - [Lifehacker] [This Dell XPS 15 Is $850 Off Right Now](https://lifehacker.com/tech/this-dell-xps-15-is-on-sale-right-now)
-- [Dev.to/JS] [Wordpress Plugin to manage big data with ajax filter dynamically](https://dev.to/faizantestfaizan/wordpress-plugin-to-manage-big-data-with-ajax-filter-dynamically-29h1)
 - [Lifehacker] [This Alienware Laptop is $400 Off for 48 Hours Only](https://lifehacker.com/tech/alienware-x14-r2-gaming-laptop-dell-flash-sale)
 - [Lifehacker] [You Can Get This Deeper Connect Pico Decentralized VPN for $149 Right Now](https://lifehacker.com/tech/deeper-connect-pico-vpn-sale)
 - [Lifehacker] [The Hottest 2024 Valentine’s Day Gifts &lpar;According to TikTok&rpar;](https://lifehacker.com/money/the-best-2024-valentines-day-gifts-according-to-tiktok)
