@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Difference Between Local Storage And Session Storage and cookies in the browser](https://dev.to/pinky057/difference-between-local-storage-and-session-storage-and-cookies-in-the-browser-15oa)
+- [Dev.to/JS] [Programming in the 21st Century - Object-Oriented vs. Functional](https://dev.to/aarvinr/programming-in-the-21st-century-object-oriented-vs-functional-12e4)
 - [Dev.to/JS] [A hidden power tool for arrays in TS](https://dev.to/assertnotnull/a-hidden-power-tool-for-arrays-in-ts-1cao)
 - [Dev.to/JS] [Octal Digital](https://dev.to/octal-digital/octal-digital-k6e)
+- [Lifehacker] [Why Fitness Advice Is So Confusing &lpar;and What to Do About It&rpar;](https://lifehacker.com/health/why-fitness-advice-is-so-confusing-and-what-to-do-about-it)
+- [Lifehacker] [So, Your Partner Has a Piss Kink](https://lifehacker.com/relationships/how-to-incorporate-piss-play-into-your-sex-life)
 - [Dev.to/JS] [🎮Leveling Up with JavaScript: Operators, Conditionals and Loops🕹️](https://dev.to/aniket_botre/leveling-up-with-javascript-operators-conditionals-and-loops-3pon)
 - [Dev.to/JS] [Getting started with NUXT JS](https://dev.to/dianaiminza/getting-started-with-nuxt-js-hnh)
 - [Lifehacker] [My Five Favorite Soy Sauces &lpar;and How to Use Them&rpar;](https://lifehacker.com/food-drink/a-guide-to-different-soy-sauces)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array methods in JavaScript - Code Vicky](https://dev.to/codevicky/array-methods-in-javascript-code-vicky-1g41)
 - [Dev.to/JS] [Exploring Zod: A Comprehensive Guide](https://dev.to/debajit13/exploring-zod-a-comprehensive-guide-1efn)
 - [Dev.to/JS] [5 Crazy Things To Get Your Developer Career Unstuck in 2024](https://dev.to/dragosnedelcu/5-crazy-things-to-get-your-developer-career-unstuck-mcp)
-- [Dev.to/JS] [Documentation using Docusaurus](https://dev.to/dianaiminza/documentation-using-docusaurus-40g5)
-- [Dev.to/JS] [10 essential tools if you are a web developer](https://dev.to/dev_abdulhaseeb/10-essential-tools-if-you-are-a-web-developer-9pm)
 - [Lifehacker] [How to Set Up Your iPhone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [How to Revoke a Company’s ACH Authorization to Stop Them From Debiting Your Account](https://lifehacker.com/money/how-to-revoke-a-companys-ach)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books Today](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Deeper Connect Pico Decentralized VPN for $149 Right Now](https://lifehacker.com/tech/deeper-connect-pico-vpn-sale)
 - [Lifehacker] [The Hottest 2024 Valentine’s Day Gifts &lpar;According to TikTok&rpar;](https://lifehacker.com/money/the-best-2024-valentines-day-gifts-according-to-tiktok)
 - [Lifehacker] [Dell Is Selling the Xbox Series S for $229](https://lifehacker.com/entertainment/xbox-series-s-sale)
-- [Lifehacker] [How to Indulge a Giantess Fetish](https://lifehacker.com/relationships/how-to-act-out-a-giantess-fetish)
-- [Lifehacker] [You Can Finally Log Into Twitter for iPhone With a Passkey](https://lifehacker.com/tech/how-to-log-into-twitter-on-iphone-with-a-passkey)
-- [Lifehacker] [The Best Ways to Fake Natural Light in a Dark Space](https://lifehacker.com/home/fake-natural-light-in-a-dark-space)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Indulge a Giantess Fetish](https://lifehacker.com/relationships/how-to-act-out-a-giantess-fetish)<!-- TECH-POSTS:END -->
 
 ---
 
