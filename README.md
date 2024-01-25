@@ -26,22 +26,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Mastering JavaScript: Essential Concepts and Best Practices for Developers](https://dev.to/srinureddy/mastering-javascript-essential-concepts-and-best-practices-for-developers-545f)
-- [Dev.to/JS] [OneEntry: User-Friendly Content Management for Everyone](https://dev.to/arindam_1729/oneentry-user-friendly-content-management-for-everyone-4hnm)
-- [Dev.to/JS] [D3.js adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/d3js-adoption-guide-overview-examples-and-alternatives-4dj2)
-- [Dev.to/JS] [List Of Remote Friendly Companies : Part 1](https://dev.to/dev_abdulhaseeb/list-of-remote-friendly-companies-part-1-15j5)
-- [Dev.to/JS] [Coin Master Free Spins - Collect Daily Free Coin Claim Now!](https://dev.to/giveaway555/coin-master-free-spins-collect-daily-free-coin-claim-now-2ba8)
-- [Dev.to/JS] [Cloud based app development with custom Embracing Innovation: Cloud based app development with custom low-code platforms](https://dev.to/laradissouza99/cloud-based-app-development-with-custom-embracing-innovation-cloud-based-app-development-with-custom-low-code-platforms-1541)
-- [Dev.to/JS] [A day in the life of a developer - Building a dashboard app with SQL, Node.js, Django and Next.js](https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-building-a-dashboard-app-with-sql-nodejs-django-and-nextjs-5en7)
-- [Dev.to/JS] [Изменить стиль оформления сообщения, выводимого console.log](https://dev.to/mariannakhanina/izmienit-stil-oformlieniia-soobshchieniia-vyvodimogho-consolelog-jcm)
+- [Dev.to/JS] [Aggregation Pipeline in MongoDB and the use of $match and $group operator &lpar;Part 2&rpar;](https://dev.to/ganeshyadav3142/aggregation-pipeline-in-mongodb-and-the-use-of-match-and-group-operator-part-2-18gg)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/roderickboyd53/buy-verified-paxful-account-15jn)
+- [Dev.to/JS] [Raw Shorts: Elevate Your Storytelling with AI-Infused Brilliance](https://dev.to/vagamjohn/raw-shorts-elevate-your-storytelling-with-ai-infused-brilliance-45ng)
+- [Dev.to/JS] [Array methods in JavaScript - Code Vicky](https://dev.to/codevicky/array-methods-in-javascript-code-vicky-1g41)
+- [Dev.to/JS] [Exploring Zod: A Comprehensive Guide](https://dev.to/debajit13/exploring-zod-a-comprehensive-guide-1efn)
+- [Dev.to/JS] [5 Crazy Things To Get Your Developer Career Unstuck in 2024](https://dev.to/dragosnedelcu/5-crazy-things-to-get-your-developer-career-unstuck-mcp)
+- [Dev.to/JS] [Documentation using Docusaurus](https://dev.to/dianaiminza/documentation-using-docusaurus-40g5)
+- [Dev.to/JS] [10 essential tools if you are a web developer](https://dev.to/dev_abdulhaseeb/10-essential-tools-if-you-are-a-web-developer-9pm)
+- [Dev.to/JS] [Welcome Thread](https://dev.to/gangwarshashank4/welcome-thread-3131)
+- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/roderickboyd53/buy-glassdoor-reviews-404d)
+- [Dev.to/JS] [post](https://dev.to/thamkerohan/new-post-238g)
+- [Dev.to/JS] [My Bio](https://dev.to/fkpormon82772/my-bio-4eef)
+- [Lifehacker] [How to Revoke a Company’s ACH Authorization to Stop Them From Debiting Your Account](https://lifehacker.com/money/how-to-revoke-a-companys-ach)
+- [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books Today](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
+- [Lifehacker] [All the Ways Smart Sensors Can Help Automate Your Home](https://lifehacker.com/tech/all-the-ways-smart-sensors-can-help-automate-your-home)
+- [Lifehacker] [How to Test Your Webcam and Mic Before Making a Video Call](https://lifehacker.com/tech/how-to-test-webcam-and-mic)
 - [Lifehacker] [Everywhere Else You Can Install Solar Panels](https://lifehacker.com/home/everywhere-you-can-install-solar-panels)
-- [Dev.to/JS] [Concurrently operations in Node.js](https://dev.to/cookiemonsterdev/concurrently-operations-in-nodejs-jgm)
 - [Lifehacker] [This 23.6-Inch HD Monitor Is on Sale for $100 Right Now](https://lifehacker.com/tech/aoc-hd-monitor-sale)
-- [Dev.to/JS] [Building React Footer Components with Tailwindcss](https://dev.to/ryaddev/building-react-footer-components-with-tailwindcss-1kg9)
-- [Dev.to/JS] [How can help you](https://dev.to/kunalmnsantosh/how-can-help-you-3f2c)
 - [Lifehacker] [What People Are Getting Wrong This Week: Is Tom Hanks Evil?](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-is-tom-hanks-evil)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in February 2024](https://lifehacker.com/entertainment/whats-new-on-paramount-with-showtime-february-2024)
-- [Dev.to/JS] [Navigating Teams to Success](https://dev.to/angelamiton/navigating-teams-to-success-4oed)
 - [Lifehacker] [The Best Things to Say to Your Kid When You Don’t Want to Play With Them](https://lifehacker.com/family/the-best-things-to-say-to-your-kid-when-you-dont-want-to-play-with-them)
 - [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
 - [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Log Into Twitter for iPhone With a Passkey](https://lifehacker.com/tech/how-to-log-into-twitter-on-iphone-with-a-passkey)
 - [Lifehacker] [The Best Ways to Fake Natural Light in a Dark Space](https://lifehacker.com/home/fake-natural-light-in-a-dark-space)
 - [Lifehacker] [You Can Get This 6th-Gen iPad for $150 Right Now](https://lifehacker.com/6th-gen-ipad-sale)
-- [Lifehacker] [The Best Ways to See April&#39;s Solar Eclipse If You Didn&#39;t Plan Ahead](https://lifehacker.com/travel/how-to-see-aprils-solar-eclipse-if-you-didnt-plan)
-- [Lifehacker] [The Best Parenting Advice, According to Reddit](https://lifehacker.com/family/best-parenting-advice-according-to-reddit)
-- [Lifehacker] [How to Set Up Routines in Alexa](https://lifehacker.com/tech/how-to-set-up-alexa-routines)
-- [Lifehacker] [You Can Get Microsoft Visio 2021 Pro for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
-- [Lifehacker] [What&#39;s New on Max in February 2024](https://lifehacker.com/entertainment/whats-new-on-max-february-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to See April&#39;s Solar Eclipse If You Didn&#39;t Plan Ahead](https://lifehacker.com/travel/how-to-see-aprils-solar-eclipse-if-you-didnt-plan)<!-- TECH-POSTS:END -->
 
 ---
 
