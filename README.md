@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Pre-slicing Frozen Pizza Is How You Win](https://lifehacker.com/food-drink/pre-slice-your-frozen-pizza)
+- [Lifehacker] [Prime Members Can Choose Two Free E-Books From This List in January](https://lifehacker.com/entertainment/free-ebooks-for-amazon-prime-members)
 - [Dev.to/JS] [Difference Between Local Storage And Session Storage and cookies in the browser](https://dev.to/pinky057/difference-between-local-storage-and-session-storage-and-cookies-in-the-browser-15oa)
 - [Dev.to/JS] [Programming in the 21st Century - Object-Oriented vs. Functional](https://dev.to/aarvinr/programming-in-the-21st-century-object-oriented-vs-functional-12e4)
+- [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $180 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
+- [Lifehacker] [The Best Apps to Gamify Your Focus and Productivity](https://lifehacker.com/work/best-apps-to-gamify-your-productivity)
 - [Dev.to/JS] [A hidden power tool for arrays in TS](https://dev.to/assertnotnull/a-hidden-power-tool-for-arrays-in-ts-1cao)
 - [Dev.to/JS] [Octal Digital](https://dev.to/octal-digital/octal-digital-k6e)
 - [Lifehacker] [Why Fitness Advice Is So Confusing &lpar;and What to Do About It&rpar;](https://lifehacker.com/health/why-fitness-advice-is-so-confusing-and-what-to-do-about-it)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Alienware Curved Monitor is $200 Off Right Now](https://lifehacker.com/entertainment/alienware-34-curved-qd-oled-gaming-monitor-dell-flash-sale)
 - [Lifehacker] [Why You Can&#39;t Get All Your Protein From Collagen Powder](https://lifehacker.com/health/does-collagen-powder-count-as-protein)
 - [Lifehacker] [This Dell XPS 15 Is $850 Off Right Now](https://lifehacker.com/tech/this-dell-xps-15-is-on-sale-right-now)
-- [Lifehacker] [This Alienware Laptop is $400 Off for 48 Hours Only](https://lifehacker.com/tech/alienware-x14-r2-gaming-laptop-dell-flash-sale)
-- [Lifehacker] [You Can Get This Deeper Connect Pico Decentralized VPN for $149 Right Now](https://lifehacker.com/tech/deeper-connect-pico-vpn-sale)
-- [Lifehacker] [The Hottest 2024 Valentine’s Day Gifts &lpar;According to TikTok&rpar;](https://lifehacker.com/money/the-best-2024-valentines-day-gifts-according-to-tiktok)
-- [Lifehacker] [Dell Is Selling the Xbox Series S for $229](https://lifehacker.com/entertainment/xbox-series-s-sale)
-- [Lifehacker] [How to Indulge a Giantess Fetish](https://lifehacker.com/relationships/how-to-act-out-a-giantess-fetish)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Alienware Laptop is $400 Off for 48 Hours Only](https://lifehacker.com/tech/alienware-x14-r2-gaming-laptop-dell-flash-sale)<!-- TECH-POSTS:END -->
 
 ---
 
