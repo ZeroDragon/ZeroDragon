@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🎮Leveling Up with JavaScript: Operators, Conditionals and Loops🕹️](https://dev.to/aniket_botre/leveling-up-with-javascript-operators-conditionals-and-loops-3pon)
+- [Dev.to/JS] [Getting started with NUXT JS](https://dev.to/dianaiminza/getting-started-with-nuxt-js-hnh)
+- [Lifehacker] [My Five Favorite Soy Sauces &lpar;and How to Use Them&rpar;](https://lifehacker.com/food-drink/a-guide-to-different-soy-sauces)
 - [Dev.to/JS] [Aggregation Pipeline in MongoDB and the use of $match and $group operator &lpar;Part 2&rpar;](https://dev.to/ganeshyadav3142/aggregation-pipeline-in-mongodb-and-the-use-of-match-and-group-operator-part-2-18gg)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/roderickboyd53/buy-verified-paxful-account-15jn)
 - [Dev.to/JS] [Raw Shorts: Elevate Your Storytelling with AI-Infused Brilliance](https://dev.to/vagamjohn/raw-shorts-elevate-your-storytelling-with-ai-infused-brilliance-45ng)
@@ -35,9 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Documentation using Docusaurus](https://dev.to/dianaiminza/documentation-using-docusaurus-40g5)
 - [Dev.to/JS] [10 essential tools if you are a web developer](https://dev.to/dev_abdulhaseeb/10-essential-tools-if-you-are-a-web-developer-9pm)
 - [Dev.to/JS] [Welcome Thread](https://dev.to/gangwarshashank4/welcome-thread-3131)
+- [Lifehacker] [How to Set Up Your iPhone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/roderickboyd53/buy-glassdoor-reviews-404d)
-- [Dev.to/JS] [post](https://dev.to/thamkerohan/new-post-238g)
-- [Dev.to/JS] [My Bio](https://dev.to/fkpormon82772/my-bio-4eef)
 - [Lifehacker] [How to Revoke a Company’s ACH Authorization to Stop Them From Debiting Your Account](https://lifehacker.com/money/how-to-revoke-a-companys-ach)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books Today](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
 - [Lifehacker] [All the Ways Smart Sensors Can Help Automate Your Home](https://lifehacker.com/tech/all-the-ways-smart-sensors-can-help-automate-your-home)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Dell Is Selling the Xbox Series S for $229](https://lifehacker.com/entertainment/xbox-series-s-sale)
 - [Lifehacker] [How to Indulge a Giantess Fetish](https://lifehacker.com/relationships/how-to-act-out-a-giantess-fetish)
 - [Lifehacker] [You Can Finally Log Into Twitter for iPhone With a Passkey](https://lifehacker.com/tech/how-to-log-into-twitter-on-iphone-with-a-passkey)
-- [Lifehacker] [The Best Ways to Fake Natural Light in a Dark Space](https://lifehacker.com/home/fake-natural-light-in-a-dark-space)
-- [Lifehacker] [You Can Get This 6th-Gen iPad for $150 Right Now](https://lifehacker.com/6th-gen-ipad-sale)
-- [Lifehacker] [The Best Ways to See April&#39;s Solar Eclipse If You Didn&#39;t Plan Ahead](https://lifehacker.com/travel/how-to-see-aprils-solar-eclipse-if-you-didnt-plan)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Fake Natural Light in a Dark Space](https://lifehacker.com/home/fake-natural-light-in-a-dark-space)<!-- TECH-POSTS:END -->
 
 ---
 
