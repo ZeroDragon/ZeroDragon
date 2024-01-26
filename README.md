@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tips To Optimize Your Website For Better Performance](https://dev.to/eddieadams/tips-to-optimize-your-website-for-better-performance-a81)
+- [Dev.to/JS] [nhahangdungtien](https://dev.to/nhahangdungtien/nhahangdungtien-512k)
 - [Dev.to/JS] [👨‍💻 Daily Code 50 | Create a Dynamic List with 🟨JavaScript](https://dev.to/gregor_schafroth/daily-code-50-create-a-dynamic-list-with-javascript-56c2)
 - [Dev.to/JS] [Starting With Fastify Today](https://dev.to/frulow/starting-with-fastify-today-2lpp)
 - [Dev.to/JS] [What is a variable in JavaScript? var, let &amp; const](https://dev.to/moriamakterswarna/what-is-a-variable-in-javascript-var-let-const-2cfn)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How beginner web developers should plan their learning journey for 2024](https://dev.to/codewithahsan/how-beginner-web-developers-should-plan-their-learning-journey-for-2024-2d15)
 - [Dev.to/JS] [Happy to announce I&#39;m a trusted member](https://dev.to/rayhan_nj/happy-to-announce-im-a-trusted-member-2lmc)
 - [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
-- [Dev.to/JS] [How To - JavaScript - Mancala Game](https://dev.to/kylestech95/how-to-javascript-mancala-game-1f9a)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
-- [Dev.to/JS] [Simulating Internet Outage and Recovery using Cypress](https://dev.to/walmyrlimaesilv/simulating-internet-outage-and-recovery-using-cypress-5hjk)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
 - [Lifehacker] [Use These Six Customer Service Phrases to Respond to Difficult People](https://lifehacker.com/health/use-these-customer-service-phrases-to-respond-to-difficult-people)
 - [Lifehacker] [iOS 17.4 Will Change the iPhone Forever, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
