@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Code Quality: A Meticulous Approach to .env Configuration and AWS Setup](https://dev.to/saint_vandora/mastering-code-quality-a-meticulous-approach-to-env-configuration-and-aws-setup-5e7i)
 - [Dev.to/JS] [How beginner web developers should plan their learning journey for 2024](https://dev.to/codewithahsan/how-beginner-web-developers-should-plan-their-learning-journey-for-2024-2d15)
 - [Dev.to/JS] [Happy to announce I&#39;m a trusted member](https://dev.to/rayhan_nj/happy-to-announce-im-a-trusted-member-2lmc)
 - [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pre-slicing Frozen Pizza Is How You Win](https://lifehacker.com/food-drink/pre-slice-your-frozen-pizza)
 - [Lifehacker] [Prime Members Can Choose Two Free E-Books From This List in January](https://lifehacker.com/entertainment/free-ebooks-for-amazon-prime-members)
 - [Dev.to/JS] [Difference Between Local Storage And Session Storage and cookies in the browser](https://dev.to/pinky057/difference-between-local-storage-and-session-storage-and-cookies-in-the-browser-15oa)
-- [Dev.to/JS] [Programming in the 21st Century - Object-Oriented vs. Functional](https://dev.to/aarvinr/programming-in-the-21st-century-object-oriented-vs-functional-12e4)
 - [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $180 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
 - [Lifehacker] [The Best Apps to Gamify Your Focus and Productivity](https://lifehacker.com/work/best-apps-to-gamify-your-productivity)
 - [Lifehacker] [Why Fitness Advice Is So Confusing &lpar;and What to Do About It&rpar;](https://lifehacker.com/health/why-fitness-advice-is-so-confusing-and-what-to-do-about-it)
