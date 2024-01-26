@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hire Wise - Multipage job portal. Built with Astro , Tailwind &amp; MDX](https://dev.to/lexingtonthemes/hire-wise-multipage-job-portal-built-with-astro-tailwind-mdx-53fj)
+- [Dev.to/JS] [Empowering Your Team with CLI Tools: A Quick Guide using Node.js](https://dev.to/fabientownsend/empowering-your-team-with-cli-tools-a-quick-guide-using-nodejs-120n)
+- [Dev.to/JS] [Overload the in operator](https://dev.to/phuocng/overload-the-in-operator-44de)
 - [Dev.to/JS] [Tips To Optimize Your Website For Better Performance](https://dev.to/eddieadams/tips-to-optimize-your-website-for-better-performance-a81)
 - [Dev.to/JS] [nhahangdungtien](https://dev.to/nhahangdungtien/nhahangdungtien-512k)
 - [Dev.to/JS] [👨‍💻 Daily Code 50 | Create a Dynamic List with 🟨JavaScript](https://dev.to/gregor_schafroth/daily-code-50-create-a-dynamic-list-with-javascript-56c2)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js Roadmap: Mastering the Essentials](https://dev.to/nabroleonx/nodejs-roadmap-mastering-the-essentials-3o18)
 - [Dev.to/JS] [Logging into different environments with Cypress](https://dev.to/walmyrlimaesilv/logging-into-different-environments-with-cypress-l6i)
 - [Dev.to/JS] [Wifi Profit AI review &amp; 100% bonus: Don’t miss this cool system!](https://dev.to/arifhossain204/wifi-profit-ai-review-100-bonus-dont-miss-this-cool-system-55d4)
-- [Dev.to/JS] [Mastering Code Quality: A Meticulous Approach to .env Configuration and AWS Setup](https://dev.to/saint_vandora/mastering-code-quality-a-meticulous-approach-to-env-configuration-and-aws-setup-5e7i)
-- [Dev.to/JS] [How beginner web developers should plan their learning journey for 2024](https://dev.to/codewithahsan/how-beginner-web-developers-should-plan-their-learning-journey-for-2024-2d15)
-- [Dev.to/JS] [Happy to announce I&#39;m a trusted member](https://dev.to/rayhan_nj/happy-to-announce-im-a-trusted-member-2lmc)
 - [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
