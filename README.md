@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a FullStack Application with Django, Django REST &amp; Next.js](https://dev.to/koladev/building-a-fullstack-application-with-django-django-rest-nextjs-3e26)
+- [Dev.to/JS] [Reactive Paradigms](https://dev.to/ninjin/reactive-paradigms-3j31)
+- [Dev.to/JS] [Webpack, The clear and concise explanation.](https://dev.to/swastikyadav/webpack-the-clear-and-concise-explanation-4oi2)
 - [Dev.to/JS] [Dear Web Component](https://dev.to/dannyengelman/dear-web-component-1m51)
 - [Dev.to/JS] [When Async Keyword Becomes Evil](https://dev.to/moayad523/when-async-keyword-becomes-evil-4mh2)
 - [Dev.to/JS] [How to build a REST API with Hono in 5 Minutes?](https://dev.to/dhairyashah/how-to-build-a-rest-api-with-hono-in-5-minutes-4ng6)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to deal with API rate limits](https://dev.to/whitep4nth3r/how-to-deal-with-api-rate-limits-552o)
 - [Dev.to/JS] [Hire Wise - Multipage job portal. Built with Astro , Tailwind &amp; MDX](https://dev.to/lexingtonthemes/hire-wise-multipage-job-portal-built-with-astro-tailwind-mdx-53fj)
 - [Dev.to/JS] [Empowering Your Team with CLI Tools: A Quick Guide using Node.js](https://dev.to/fabientownsend/empowering-your-team-with-cli-tools-a-quick-guide-using-nodejs-120n)
-- [Dev.to/JS] [Overload the in operator](https://dev.to/phuocng/overload-the-in-operator-44de)
-- [Dev.to/JS] [Tips To Optimize Your Website For Better Performance](https://dev.to/eddieadams/tips-to-optimize-your-website-for-better-performance-a81)
-- [Dev.to/JS] [nhahangdungtien](https://dev.to/nhahangdungtien/nhahangdungtien-512k)
 - [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
