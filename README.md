@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ember-cli config](https://dev.to/michalbryxi/ember-cli-global-config-defaults-1mdk)
 - [Dev.to/JS] [Declaring Functions](https://dev.to/kentriggs/declaring-functions-12l6)
 - [Dev.to/JS] [10 most impressive companies that have generated millions in revenue with 0 employees](https://dev.to/akshy/10-most-impressive-companies-that-have-generated-millions-in-revenue-with-0-employees-3fk5)
 - [Lifehacker] [The Best Card Games for Couples to Play on Date Night](https://lifehacker.com/relationships/card-games-for-date-night)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to: Create Shopify customer segment template extensions](https://dev.to/gadgetdev/how-to-create-shopify-customer-segment-template-extensions-4e98)
 - [Dev.to/JS] [Tensorflow.js](https://dev.to/chrahul__dev/tensorflowjs-2ccf)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
-- [Dev.to/JS] [&#39;Create-react-tailwindcss &#39; an npm package to setup react-tailwindcss configuration](https://dev.to/virumons/create-react-tailwindcss-an-npm-package-to-setup-react-tailwindcss-configuration-5dl2)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
