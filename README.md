@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Drilling in React](https://dev.to/ckorley4/drilling-in-react-2hfm)
+- [Dev.to/JS] [How to build a WhatsApp AI assistant](https://dev.to/ben_james/how-to-build-a-whatsapp-ai-assistant-38l2)
+- [Dev.to/JS] [React isn’t just JSX and a few hooks.](https://dev.to/prakhart111/react-isnt-just-jsx-and-a-few-hooks-l09)
+- [Dev.to/JS] [WebSockets and NodeJs: Real time chat app](https://dev.to/alakkadshaw/websockets-and-nodejs-real-time-chat-app-714)
+- [Lifehacker] [How to Keep Anyone From Accessing Your iCloud Data After You Die](https://lifehacker.com/tech/how-to-keep-your-icloud-data-safe-after-you-die)
+- [Lifehacker] [19 Eggless Desserts to Satisfy Any Sweet Tooth](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
 - [Dev.to/JS] [Ember-cli config](https://dev.to/michalbryxi/ember-cli-global-config-defaults-1mdk)
 - [Lifehacker] [This TSA-Approved Fingerprint Lock Is on Sale for $45 Right Now](https://lifehacker.com/travel/fingerprint-travel-lock-sale)
 - [Dev.to/JS] [Declaring Functions](https://dev.to/kentriggs/declaring-functions-12l6)
@@ -38,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Dev.to/JS] [Selecting HTML Elements in JavaScript](https://dev.to/eastrittmatter/selecting-html-elements-in-javascript-1no7)
 - [Dev.to/JS] [Just built my first JavaScript project Temperature Converter all by myself!](https://dev.to/itsonlytushar/just-built-my-first-javascript-project-temperature-converter-all-by-myselfhttpstemp-convertor-lyartvercelapp-2ef2)
-- [Dev.to/JS] [Top Frontend Frameworks on github 2024](https://dev.to/kiraaziz/top-frontend-frameworks-on-github-2024-5f0o)
-- [Dev.to/JS] [What You Should Know Before Using Route Handlers in Next.js](https://dev.to/elves-silva-vieira/what-you-should-know-before-using-route-handlers-in-nextjs-4gh)
 - [Lifehacker] [The Best New TV Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Dev.to/JS] [How to: Create Shopify customer segment template extensions](https://dev.to/gadgetdev/how-to-create-shopify-customer-segment-template-extensions-4e98)
-- [Dev.to/JS] [Tensorflow.js](https://dev.to/chrahul__dev/tensorflowjs-2ccf)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Fitness Advice Is So Confusing &lpar;and What to Do About It&rpar;](https://lifehacker.com/health/why-fitness-advice-is-so-confusing-and-what-to-do-about-it)
 - [Lifehacker] [So, Your Partner Has a Piss Kink](https://lifehacker.com/relationships/how-to-incorporate-piss-play-into-your-sex-life)
 - [Lifehacker] [My Five Favorite Soy Sauces &lpar;and How to Use Them&rpar;](https://lifehacker.com/food-drink/a-guide-to-different-soy-sauces)
-- [Lifehacker] [How to Set Up Your iPhone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
-- [Lifehacker] [How to Revoke a Company’s ACH Authorization to Stop Them From Debiting Your Account](https://lifehacker.com/money/how-to-revoke-a-companys-ach)
-- [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books Today](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Set Up Your iPhone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)<!-- TECH-POSTS:END -->
 
 ---
 
