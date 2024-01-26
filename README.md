@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add Portainer Stack](https://dev.to/akbarnafisa/add-portainer-stack-kn5)
+- [Dev.to/JS] [24 GitHub repos with 372M views that you can&#39;t miss out as a software engineer](https://dev.to/aajinkya/24-github-repos-with-372m-views-that-you-cant-miss-out-as-a-software-engineer-4hoa)
 - [Dev.to/JS] [Leveling Up Your Career: Unleashing Your Full Potential!](https://dev.to/codingcatdev/leveling-up-your-career-unleashing-your-full-potential-1a0k)
 - [Dev.to/JS] [Helpers](https://dev.to/hassani/helpers-2ec3)
 - [Dev.to/JS] [Next.js and GPT-4: A Guide to Streaming Generated Content as UI Components](https://dev.to/lgrammel/nextjs-and-gpt-4-a-guide-to-streaming-generated-content-as-ui-components-87n)
-- [Dev.to/JS] [Integrating ChatGPT into My Whatsapp &lpar;with a Custom Knowledge Base&rpar;](https://dev.to/sojinsamuel/integrating-chatgpt-into-my-whatsapp-with-a-custom-knowledge-base-2pl2)
+- [Dev.to/JS] [How to Integrate ChatGPT into your Whatsapp &lpar;with a Custom Knowledge Base&rpar;](https://dev.to/sojinsamuel/integrating-chatgpt-into-my-whatsapp-with-a-custom-knowledge-base-2pl2)
+- [Lifehacker] [The Samsung Galaxy S24 Ultra Might Make Me Ditch My iPhone](https://lifehacker.com/tech/samsung-galaxy-s24-ultra-review-an-android-heavy-hitter)
+- [Lifehacker] [What&#39;s New in the January Pixel Features Drop](https://lifehacker.com/tech/whats-new-january-pixel-features-drop)
 - [Lifehacker] [Pre-slicing Frozen Pizza Is How You Win](https://lifehacker.com/food-drink/pre-slice-your-frozen-pizza)
 - [Lifehacker] [Prime Members Can Choose Two Free E-Books From This List in January](https://lifehacker.com/entertainment/free-ebooks-for-amazon-prime-members)
 - [Dev.to/JS] [Difference Between Local Storage And Session Storage and cookies in the browser](https://dev.to/pinky057/difference-between-local-storage-and-session-storage-and-cookies-in-the-browser-15oa)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎮Leveling Up with JavaScript: Operators, Conditionals and Loops🕹️](https://dev.to/aniket_botre/leveling-up-with-javascript-operators-conditionals-and-loops-3pon)
 - [Dev.to/JS] [Getting started with NUXT JS](https://dev.to/dianaiminza/getting-started-with-nuxt-js-hnh)
 - [Lifehacker] [My Five Favorite Soy Sauces &lpar;and How to Use Them&rpar;](https://lifehacker.com/food-drink/a-guide-to-different-soy-sauces)
-- [Dev.to/JS] [Aggregation Pipeline in MongoDB and the use of $match and $group operator &lpar;Part 2&rpar;](https://dev.to/ganeshyadav3142/aggregation-pipeline-in-mongodb-and-the-use-of-match-and-group-operator-part-2-18gg)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/roderickboyd53/buy-verified-paxful-account-15jn)
 - [Lifehacker] [How to Set Up Your iPhone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [How to Revoke a Company’s ACH Authorization to Stop Them From Debiting Your Account](https://lifehacker.com/money/how-to-revoke-a-companys-ach)
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books Today](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How ‘PEE’ Can Help You Write Better](https://lifehacker.com/work/write-better-with-pee-mnemonic-device)
 - [Lifehacker] [What&#39;s New on Netflix in February 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-february-2024)
 - [Lifehacker] [This Alienware Curved Monitor is $200 Off Right Now](https://lifehacker.com/entertainment/alienware-34-curved-qd-oled-gaming-monitor-dell-flash-sale)
-- [Lifehacker] [Why You Can&#39;t Get All Your Protein From Collagen Powder](https://lifehacker.com/health/does-collagen-powder-count-as-protein)
-- [Lifehacker] [This Dell XPS 15 Is $850 Off Right Now](https://lifehacker.com/tech/this-dell-xps-15-is-on-sale-right-now)
-- [Lifehacker] [This Alienware Laptop is $400 Off for 48 Hours Only](https://lifehacker.com/tech/alienware-x14-r2-gaming-laptop-dell-flash-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Can&#39;t Get All Your Protein From Collagen Powder](https://lifehacker.com/health/does-collagen-powder-count-as-protein)<!-- TECH-POSTS:END -->
 
 ---
 
