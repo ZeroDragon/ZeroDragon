@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How beginner web developers should plan their learning journey for 2024](https://dev.to/codewithahsan/how-beginner-web-developers-should-plan-their-learning-journey-for-2024-2d15)
+- [Dev.to/JS] [Happy to announce I&#39;m a trusted member](https://dev.to/rayhan_nj/happy-to-announce-im-a-trusted-member-2lmc)
+- [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
 - [Dev.to/JS] [How To - JavaScript - Mancala Game](https://dev.to/kylestech95/how-to-javascript-mancala-game-1f9a)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
 - [Dev.to/JS] [Simulating Internet Outage and Recovery using Cypress](https://dev.to/walmyrlimaesilv/simulating-internet-outage-and-recovery-using-cypress-5hjk)
@@ -47,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Programming in the 21st Century - Object-Oriented vs. Functional](https://dev.to/aarvinr/programming-in-the-21st-century-object-oriented-vs-functional-12e4)
 - [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $180 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
 - [Lifehacker] [The Best Apps to Gamify Your Focus and Productivity](https://lifehacker.com/work/best-apps-to-gamify-your-productivity)
-- [Dev.to/JS] [A hidden power tool for arrays in TS](https://dev.to/assertnotnull/a-hidden-power-tool-for-arrays-in-ts-1cao)
-- [Dev.to/JS] [Octal Digital](https://dev.to/octal-digital/octal-digital-k6e)
 - [Lifehacker] [Why Fitness Advice Is So Confusing &lpar;and What to Do About It&rpar;](https://lifehacker.com/health/why-fitness-advice-is-so-confusing-and-what-to-do-about-it)
 - [Lifehacker] [So, Your Partner Has a Piss Kink](https://lifehacker.com/relationships/how-to-incorporate-piss-play-into-your-sex-life)
 - [Lifehacker] [My Five Favorite Soy Sauces &lpar;and How to Use Them&rpar;](https://lifehacker.com/food-drink/a-guide-to-different-soy-sauces)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Things to Say to Your Kid When You Don’t Want to Play With Them](https://lifehacker.com/family/the-best-things-to-say-to-your-kid-when-you-dont-want-to-play-with-them)
 - [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
 - [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
-- [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
-- [Lifehacker] [You Can Get a Free Google Nest and $100 Gift Card When You Sign Up With ADT](https://lifehacker.com/tech/get-a-free-google-nest-and-100-gift-card-with-this-adt-deal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)<!-- TECH-POSTS:END -->
 
 ---
 
