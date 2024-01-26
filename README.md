@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To - JavaScript - Mancala Game](https://dev.to/kylestech95/how-to-javascript-mancala-game-1f9a)
 - [Dev.to/JS] [Simulating Internet Outage and Recovery using Cypress](https://dev.to/walmyrlimaesilv/simulating-internet-outage-and-recovery-using-cypress-5hjk)
 - [Dev.to/JS] [Add Portainer Stack](https://dev.to/akbarnafisa/add-portainer-stack-kn5)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Octal Digital](https://dev.to/octal-digital/octal-digital-k6e)
 - [Lifehacker] [Why Fitness Advice Is So Confusing &lpar;and What to Do About It&rpar;](https://lifehacker.com/health/why-fitness-advice-is-so-confusing-and-what-to-do-about-it)
 - [Lifehacker] [So, Your Partner Has a Piss Kink](https://lifehacker.com/relationships/how-to-incorporate-piss-play-into-your-sex-life)
-- [Dev.to/JS] [🎮Leveling Up with JavaScript: Operators, Conditionals and Loops🕹️](https://dev.to/aniket_botre/leveling-up-with-javascript-operators-conditionals-and-loops-3pon)
 - [Lifehacker] [My Five Favorite Soy Sauces &lpar;and How to Use Them&rpar;](https://lifehacker.com/food-drink/a-guide-to-different-soy-sauces)
 - [Lifehacker] [How to Set Up Your iPhone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [How to Revoke a Company’s ACH Authorization to Stop Them From Debiting Your Account](https://lifehacker.com/money/how-to-revoke-a-companys-ach)
