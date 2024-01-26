@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to: Create Shopify customer segment template extensions](https://dev.to/gadgetdev/how-to-create-shopify-customer-segment-template-extensions-4e98)
+- [Dev.to/JS] [Tensorflow.js](https://dev.to/chrahul__dev/tensorflowjs-2ccf)
+- [Dev.to/JS] [&#39;Create-react-tailwindcss &#39; an npm package to setup react-tailwindcss configuration](https://dev.to/virumons/create-react-tailwindcss-an-npm-package-to-setup-react-tailwindcss-configuration-5dl2)
+- [Dev.to/JS] [mua chung Flexclip](https://dev.to/wsovn112/mua-chung-flexclip-2j70)
+- [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Dev.to/JS] [If you&#39;re a Developer You have to Start Using AI](https://dev.to/brojenuel/if-youre-a-developer-you-have-to-start-using-ai-6gp)
 - [Lifehacker] [The Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
@@ -36,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [When Async Keyword Becomes Evil](https://dev.to/moayad523/when-async-keyword-becomes-evil-4mh2)
 - [Dev.to/JS] [How to build a REST API with Hono in 5 Minutes?](https://dev.to/dhairyashah/how-to-build-a-rest-api-with-hono-in-5-minutes-4ng6)
 - [Dev.to/JS] [🔄 Class Components vs Functional Components: A Lifecycle Journey in React 🔄](https://dev.to/tmayank860/class-components-vs-functional-components-a-lifecycle-journey-in-react-5dmm)
-- [Dev.to/JS] [La gestion de fichiers et Streams en Node.js avec fs](https://dev.to/kureru/la-gestion-de-fichiers-et-streams-en-nodejs-avec-fs-53pl)
-- [Dev.to/JS] [FitSpresso Australia - Weight loss - a healthy approach &lpar;Critical 2024 Warning Alert!&rpar; What They Won’t Tell You!](https://dev.to/deanairferreri/fitspresso-australia-weight-loss-a-healthy-approach-critical-2024-warning-alert-what-they-wont-tell-you-4gm3)
-- [Dev.to/JS] [How to deal with API rate limits](https://dev.to/whitep4nth3r/how-to-deal-with-api-rate-limits-552o)
-- [Dev.to/JS] [Hire Wise - Multipage job portal. Built with Astro , Tailwind &amp; MDX](https://dev.to/lexingtonthemes/hire-wise-multipage-job-portal-built-with-astro-tailwind-mdx-53fj)
 - [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 23.6-Inch HD Monitor Is on Sale for $100 Right Now](https://lifehacker.com/tech/aoc-hd-monitor-sale)
 - [Lifehacker] [What People Are Getting Wrong This Week: Is Tom Hanks Evil?](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-is-tom-hanks-evil)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in February 2024](https://lifehacker.com/entertainment/whats-new-on-paramount-with-showtime-february-2024)
-- [Lifehacker] [The Best Things to Say to Your Kid When You Don’t Want to Play With Them](https://lifehacker.com/family/the-best-things-to-say-to-your-kid-when-you-dont-want-to-play-with-them)
-- [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Things to Say to Your Kid When You Don’t Want to Play With Them](https://lifehacker.com/family/the-best-things-to-say-to-your-kid-when-you-dont-want-to-play-with-them)<!-- TECH-POSTS:END -->
 
 ---
 
