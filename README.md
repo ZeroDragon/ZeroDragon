@@ -26,10 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simulating Internet Outage and Recovery using Cypress](https://dev.to/walmyrlimaesilv/simulating-internet-outage-and-recovery-using-cypress-5hjk)
 - [Dev.to/JS] [Add Portainer Stack](https://dev.to/akbarnafisa/add-portainer-stack-kn5)
+- [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
+- [Lifehacker] [Use These Six Customer Service Phrases to Respond to Difficult People](https://lifehacker.com/health/use-these-customer-service-phrases-to-respond-to-difficult-people)
 - [Dev.to/JS] [24 GitHub repos with 372M views that you can&#39;t miss out as a software engineer](https://dev.to/aajinkya/24-github-repos-with-372m-views-that-you-cant-miss-out-as-a-software-engineer-4hoa)
+- [Lifehacker] [iOS 17.4 Will Change the iPhone Forever, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
 - [Dev.to/JS] [Leveling Up Your Career: Unleashing Your Full Potential!](https://dev.to/codingcatdev/leveling-up-your-career-unleashing-your-full-potential-1a0k)
 - [Dev.to/JS] [Helpers](https://dev.to/hassani/helpers-2ec3)
+- [Lifehacker] [You Can Learn Spanish on Rosetta Stone for $120 Right Now](https://lifehacker.com/tech/spanish-rosetta-stone)
 - [Dev.to/JS] [Next.js and GPT-4: A Guide to Streaming Generated Content as UI Components](https://dev.to/lgrammel/nextjs-and-gpt-4-a-guide-to-streaming-generated-content-as-ui-components-87n)
 - [Dev.to/JS] [How to Integrate ChatGPT into your Whatsapp &lpar;with a Custom Knowledge Base&rpar;](https://dev.to/sojinsamuel/integrating-chatgpt-into-my-whatsapp-with-a-custom-knowledge-base-2pl2)
 - [Lifehacker] [The Samsung Galaxy S24 Ultra Might Make Me Ditch My iPhone](https://lifehacker.com/tech/samsung-galaxy-s24-ultra-review-an-android-heavy-hitter)
@@ -45,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Fitness Advice Is So Confusing &lpar;and What to Do About It&rpar;](https://lifehacker.com/health/why-fitness-advice-is-so-confusing-and-what-to-do-about-it)
 - [Lifehacker] [So, Your Partner Has a Piss Kink](https://lifehacker.com/relationships/how-to-incorporate-piss-play-into-your-sex-life)
 - [Dev.to/JS] [🎮Leveling Up with JavaScript: Operators, Conditionals and Loops🕹️](https://dev.to/aniket_botre/leveling-up-with-javascript-operators-conditionals-and-loops-3pon)
-- [Dev.to/JS] [Getting started with NUXT JS](https://dev.to/dianaiminza/getting-started-with-nuxt-js-hnh)
 - [Lifehacker] [My Five Favorite Soy Sauces &lpar;and How to Use Them&rpar;](https://lifehacker.com/food-drink/a-guide-to-different-soy-sauces)
 - [Lifehacker] [How to Set Up Your iPhone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [How to Revoke a Company’s ACH Authorization to Stop Them From Debiting Your Account](https://lifehacker.com/money/how-to-revoke-a-companys-ach)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
 - [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
 - [Lifehacker] [You Can Get a Free Google Nest and $100 Gift Card When You Sign Up With ADT](https://lifehacker.com/tech/get-a-free-google-nest-and-100-gift-card-with-this-adt-deal)
-- [Lifehacker] [Fool Your Friends With This Three-ingredient Cheater’s Crème Brûlée](https://lifehacker.com/food-drink/3-ingredient-easy-creme-brulee-recipe)
-- [Lifehacker] [How ‘PEE’ Can Help You Write Better](https://lifehacker.com/work/write-better-with-pee-mnemonic-device)
-- [Lifehacker] [What&#39;s New on Netflix in February 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-february-2024)
-- [Lifehacker] [This Alienware Curved Monitor is $200 Off Right Now](https://lifehacker.com/entertainment/alienware-34-curved-qd-oled-gaming-monitor-dell-flash-sale)
-- [Lifehacker] [Why You Can&#39;t Get All Your Protein From Collagen Powder](https://lifehacker.com/health/does-collagen-powder-count-as-protein)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Fool Your Friends With This Three-ingredient Cheater’s Crème Brûlée](https://lifehacker.com/food-drink/3-ingredient-easy-creme-brulee-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
