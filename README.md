@@ -26,10 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Play with Javascript Console Method Part 2](https://dev.to/koshirok096/play-with-javascript-console-method-part-2-43j7)
+- [Dev.to/JS] [Building Custom YAML-DSL in Python](https://dev.to/keploy/building-custom-yaml-dsl-in-python-3a6o)
 - [Dev.to/JS] [Drilling in React](https://dev.to/ckorley4/drilling-in-react-2hfm)
 - [Dev.to/JS] [How to build a WhatsApp AI assistant](https://dev.to/ben_james/how-to-build-a-whatsapp-ai-assistant-38l2)
+- [Lifehacker] [Dyson, Shark, and Samsung All Have Deals on Stick Vacuum Cleaners Right Now](https://lifehacker.com/home/best-stick-vacuum-cleaner-deals)
 - [Dev.to/JS] [React isn’t just JSX and a few hooks.](https://dev.to/prakhart111/react-isnt-just-jsx-and-a-few-hooks-l09)
 - [Dev.to/JS] [WebSockets and NodeJs: Real time chat app](https://dev.to/alakkadshaw/websockets-and-nodejs-real-time-chat-app-714)
+- [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
+- [Lifehacker] [These Are the Most Effective Ab Exercises](https://lifehacker.com/health/the-best-ab-exercises)
 - [Lifehacker] [How to Keep Anyone From Accessing Your iCloud Data After You Die](https://lifehacker.com/tech/how-to-keep-your-icloud-data-safe-after-you-die)
 - [Lifehacker] [19 Eggless Desserts to Satisfy Any Sweet Tooth](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
 - [Dev.to/JS] [Ember-cli config](https://dev.to/michalbryxi/ember-cli-global-config-defaults-1mdk)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Dev.to/JS] [Unlocking DynamoDB&#39;s Hidden Potential: Elevate Your Serverless Game with Batch Operations Mastery](https://dev.to/aws-builders/unlocking-dynamodbs-hidden-potential-elevate-your-serverless-game-with-batch-operations-mastery-3i59)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
-- [Dev.to/JS] [Selecting HTML Elements in JavaScript](https://dev.to/eastrittmatter/selecting-html-elements-in-javascript-1no7)
-- [Dev.to/JS] [Just built my first JavaScript project Temperature Converter all by myself!](https://dev.to/itsonlytushar/just-built-my-first-javascript-project-temperature-converter-all-by-myselfhttpstemp-convertor-lyartvercelapp-2ef2)
 - [Lifehacker] [The Best New TV Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Prime Members Can Choose Two Free E-Books From This List in January](https://lifehacker.com/entertainment/free-ebooks-for-amazon-prime-members)
 - [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $180 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
 - [Lifehacker] [The Best Apps to Gamify Your Focus and Productivity](https://lifehacker.com/work/best-apps-to-gamify-your-productivity)
-- [Lifehacker] [Why Fitness Advice Is So Confusing &lpar;and What to Do About It&rpar;](https://lifehacker.com/health/why-fitness-advice-is-so-confusing-and-what-to-do-about-it)
-- [Lifehacker] [So, Your Partner Has a Piss Kink](https://lifehacker.com/relationships/how-to-incorporate-piss-play-into-your-sex-life)
-- [Lifehacker] [My Five Favorite Soy Sauces &lpar;and How to Use Them&rpar;](https://lifehacker.com/food-drink/a-guide-to-different-soy-sauces)
-- [Lifehacker] [How to Set Up Your iPhone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Fitness Advice Is So Confusing &lpar;and What to Do About It&rpar;](https://lifehacker.com/health/why-fitness-advice-is-so-confusing-and-what-to-do-about-it)<!-- TECH-POSTS:END -->
 
 ---
 
