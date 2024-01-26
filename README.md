@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [If you&#39;re a Developer You have to Start Using AI](https://dev.to/brojenuel/if-youre-a-developer-you-have-to-start-using-ai-6gp)
+- [Lifehacker] [The Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
+- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Dev.to/JS] [Building a FullStack Application with Django, Django REST &amp; Next.js](https://dev.to/koladev/building-a-fullstack-application-with-django-django-rest-nextjs-3e26)
 - [Dev.to/JS] [Reactive Paradigms](https://dev.to/ninjin/reactive-paradigms-3j31)
 - [Dev.to/JS] [Webpack, The clear and concise explanation.](https://dev.to/swastikyadav/webpack-the-clear-and-concise-explanation-4oi2)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FitSpresso Australia - Weight loss - a healthy approach &lpar;Critical 2024 Warning Alert!&rpar; What They Won’t Tell You!](https://dev.to/deanairferreri/fitspresso-australia-weight-loss-a-healthy-approach-critical-2024-warning-alert-what-they-wont-tell-you-4gm3)
 - [Dev.to/JS] [How to deal with API rate limits](https://dev.to/whitep4nth3r/how-to-deal-with-api-rate-limits-552o)
 - [Dev.to/JS] [Hire Wise - Multipage job portal. Built with Astro , Tailwind &amp; MDX](https://dev.to/lexingtonthemes/hire-wise-multipage-job-portal-built-with-astro-tailwind-mdx-53fj)
-- [Dev.to/JS] [Empowering Your Team with CLI Tools: A Quick Guide using Node.js](https://dev.to/fabientownsend/empowering-your-team-with-cli-tools-a-quick-guide-using-nodejs-120n)
 - [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: Is Tom Hanks Evil?](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-is-tom-hanks-evil)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in February 2024](https://lifehacker.com/entertainment/whats-new-on-paramount-with-showtime-february-2024)
 - [Lifehacker] [The Best Things to Say to Your Kid When You Don’t Want to Play With Them](https://lifehacker.com/family/the-best-things-to-say-to-your-kid-when-you-dont-want-to-play-with-them)
-- [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
-- [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
-- [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)<!-- TECH-POSTS:END -->
 
 ---
 
