@@ -26,10 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Book review: Enhanced Test Automation with WebdriverIO: Unlock the superpowers of hybrid testing framework](https://dev.to/charlyautomatiza/book-review-enhanced-test-automation-with-webdriverio-unlock-the-superpowers-of-hybrid-testing-framework-26bk)
+- [Dev.to/JS] [What is Javascript &lpar;Js&rpar;, use, Importance and How to make Website &amp; application](https://dev.to/rahulaabhai/what-is-javascript-js-use-importance-and-how-to-make-website-application-392i)
+- [Dev.to/JS] [Unlocking DynamoDB&#39;s Hidden Potential: Elevate Your Serverless Game with Batch Operations Mastery](https://dev.to/aws-builders/unlocking-dynamodbs-hidden-potential-elevate-your-serverless-game-with-batch-operations-mastery-3i59)
+- [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Dev.to/JS] [Selecting HTML Elements in JavaScript](https://dev.to/eastrittmatter/selecting-html-elements-in-javascript-1no7)
 - [Dev.to/JS] [Just built my first JavaScript project Temperature Converter all by myself!](https://dev.to/itsonlytushar/just-built-my-first-javascript-project-temperature-converter-all-by-myselfhttpstemp-convertor-lyartvercelapp-2ef2)
 - [Dev.to/JS] [Top Frontend Frameworks on github 2024](https://dev.to/kiraaziz/top-frontend-frameworks-on-github-2024-5f0o)
 - [Dev.to/JS] [What You Should Know Before Using Route Handlers in Next.js](https://dev.to/elves-silva-vieira/what-you-should-know-before-using-route-handlers-in-nextjs-4gh)
+- [Lifehacker] [The Best New TV Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Dev.to/JS] [How to: Create Shopify customer segment template extensions](https://dev.to/gadgetdev/how-to-create-shopify-customer-segment-template-extensions-4e98)
 - [Dev.to/JS] [Tensorflow.js](https://dev.to/chrahul__dev/tensorflowjs-2ccf)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [If you&#39;re a Developer You have to Start Using AI](https://dev.to/brojenuel/if-youre-a-developer-you-have-to-start-using-ai-6gp)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
-- [Dev.to/JS] [Building a FullStack Application with Django, Django REST &amp; Next.js](https://dev.to/koladev/building-a-fullstack-application-with-django-django-rest-nextjs-3e26)
-- [Dev.to/JS] [Reactive Paradigms](https://dev.to/ninjin/reactive-paradigms-3j31)
-- [Dev.to/JS] [Webpack, The clear and concise explanation.](https://dev.to/swastikyadav/webpack-the-clear-and-concise-explanation-4oi2)
 - [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books Today](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
 - [Lifehacker] [All the Ways Smart Sensors Can Help Automate Your Home](https://lifehacker.com/tech/all-the-ways-smart-sensors-can-help-automate-your-home)
 - [Lifehacker] [How to Test Your Webcam and Mic Before Making a Video Call](https://lifehacker.com/tech/how-to-test-webcam-and-mic)
-- [Lifehacker] [Everywhere Else You Can Install Solar Panels](https://lifehacker.com/home/everywhere-you-can-install-solar-panels)
-- [Lifehacker] [This 23.6-Inch HD Monitor Is on Sale for $100 Right Now](https://lifehacker.com/tech/aoc-hd-monitor-sale)
-- [Lifehacker] [What People Are Getting Wrong This Week: Is Tom Hanks Evil?](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-is-tom-hanks-evil)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everywhere Else You Can Install Solar Panels](https://lifehacker.com/home/everywhere-you-can-install-solar-panels)<!-- TECH-POSTS:END -->
 
 ---
 
