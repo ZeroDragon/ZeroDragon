@@ -26,21 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Selecting HTML Elements in JavaScript](https://dev.to/eastrittmatter/selecting-html-elements-in-javascript-1no7)
+- [Dev.to/JS] [Just built my first JavaScript project Temperature Converter all by myself!](https://dev.to/itsonlytushar/just-built-my-first-javascript-project-temperature-converter-all-by-myselfhttpstemp-convertor-lyartvercelapp-2ef2)
+- [Dev.to/JS] [Top Frontend Frameworks on github 2024](https://dev.to/kiraaziz/top-frontend-frameworks-on-github-2024-5f0o)
+- [Dev.to/JS] [What You Should Know Before Using Route Handlers in Next.js](https://dev.to/elves-silva-vieira/what-you-should-know-before-using-route-handlers-in-nextjs-4gh)
 - [Dev.to/JS] [How to: Create Shopify customer segment template extensions](https://dev.to/gadgetdev/how-to-create-shopify-customer-segment-template-extensions-4e98)
 - [Dev.to/JS] [Tensorflow.js](https://dev.to/chrahul__dev/tensorflowjs-2ccf)
+- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Dev.to/JS] [&#39;Create-react-tailwindcss &#39; an npm package to setup react-tailwindcss configuration](https://dev.to/virumons/create-react-tailwindcss-an-npm-package-to-setup-react-tailwindcss-configuration-5dl2)
 - [Dev.to/JS] [mua chung Flexclip](https://dev.to/wsovn112/mua-chung-flexclip-2j70)
+- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Dev.to/JS] [If you&#39;re a Developer You have to Start Using AI](https://dev.to/brojenuel/if-youre-a-developer-you-have-to-start-using-ai-6gp)
-- [Lifehacker] [The Best New Movies to Stream This Weekend](https://lifehacker.com/entertainment/best-new-movies-stream-this-weekend)
+- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Dev.to/JS] [Building a FullStack Application with Django, Django REST &amp; Next.js](https://dev.to/koladev/building-a-fullstack-application-with-django-django-rest-nextjs-3e26)
 - [Dev.to/JS] [Reactive Paradigms](https://dev.to/ninjin/reactive-paradigms-3j31)
 - [Dev.to/JS] [Webpack, The clear and concise explanation.](https://dev.to/swastikyadav/webpack-the-clear-and-concise-explanation-4oi2)
-- [Dev.to/JS] [Dear Web Component](https://dev.to/dannyengelman/dear-web-component-1m51)
-- [Dev.to/JS] [When Async Keyword Becomes Evil](https://dev.to/moayad523/when-async-keyword-becomes-evil-4mh2)
-- [Dev.to/JS] [How to build a REST API with Hono in 5 Minutes?](https://dev.to/dhairyashah/how-to-build-a-rest-api-with-hono-in-5-minutes-4ng6)
-- [Dev.to/JS] [🔄 Class Components vs Functional Components: A Lifecycle Journey in React 🔄](https://dev.to/tmayank860/class-components-vs-functional-components-a-lifecycle-journey-in-react-5dmm)
 - [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Test Your Webcam and Mic Before Making a Video Call](https://lifehacker.com/tech/how-to-test-webcam-and-mic)
 - [Lifehacker] [Everywhere Else You Can Install Solar Panels](https://lifehacker.com/home/everywhere-you-can-install-solar-panels)
 - [Lifehacker] [This 23.6-Inch HD Monitor Is on Sale for $100 Right Now](https://lifehacker.com/tech/aoc-hd-monitor-sale)
-- [Lifehacker] [What People Are Getting Wrong This Week: Is Tom Hanks Evil?](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-is-tom-hanks-evil)
-- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in February 2024](https://lifehacker.com/entertainment/whats-new-on-paramount-with-showtime-february-2024)
-- [Lifehacker] [The Best Things to Say to Your Kid When You Don’t Want to Play With Them](https://lifehacker.com/family/the-best-things-to-say-to-your-kid-when-you-dont-want-to-play-with-them)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: Is Tom Hanks Evil?](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-is-tom-hanks-evil)<!-- TECH-POSTS:END -->
 
 ---
 
