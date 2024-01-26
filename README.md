@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [.toBe&lpar;true&rpar; or .toBeTruthy&lpar;&rpar;](https://dev.to/majidzeno/tobetrue-or-tobetruthy-1epp)
+- [Dev.to/JS] [Node.js Roadmap: Mastering the Essentials](https://dev.to/nabroleonx/nodejs-roadmap-mastering-the-essentials-3o18)
+- [Dev.to/JS] [Logging into different environments with Cypress](https://dev.to/walmyrlimaesilv/logging-into-different-environments-with-cypress-l6i)
+- [Dev.to/JS] [Wifi Profit AI review &amp; 100% bonus: Don’t miss this cool system!](https://dev.to/arifhossain204/wifi-profit-ai-review-100-bonus-dont-miss-this-cool-system-55d4)
 - [Dev.to/JS] [Mastering Code Quality: A Meticulous Approach to .env Configuration and AWS Setup](https://dev.to/saint_vandora/mastering-code-quality-a-meticulous-approach-to-env-configuration-and-aws-setup-5e7i)
 - [Dev.to/JS] [How beginner web developers should plan their learning journey for 2024](https://dev.to/codewithahsan/how-beginner-web-developers-should-plan-their-learning-journey-for-2024-2d15)
 - [Dev.to/JS] [Happy to announce I&#39;m a trusted member](https://dev.to/rayhan_nj/happy-to-announce-im-a-trusted-member-2lmc)
@@ -39,15 +43,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [24 GitHub repos with 372M views that you can&#39;t miss out as a software engineer](https://dev.to/aajinkya/24-github-repos-with-372m-views-that-you-cant-miss-out-as-a-software-engineer-4hoa)
 - [Lifehacker] [iOS 17.4 Will Change the iPhone Forever, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
 - [Dev.to/JS] [Leveling Up Your Career: Unleashing Your Full Potential!](https://dev.to/codingcatdev/leveling-up-your-career-unleashing-your-full-potential-1a0k)
-- [Dev.to/JS] [Helpers](https://dev.to/hassani/helpers-2ec3)
 - [Lifehacker] [You Can Learn Spanish on Rosetta Stone for $120 Right Now](https://lifehacker.com/tech/spanish-rosetta-stone)
-- [Dev.to/JS] [Next.js and GPT-4: A Guide to Streaming Generated Content as UI Components](https://dev.to/lgrammel/nextjs-and-gpt-4-a-guide-to-streaming-generated-content-as-ui-components-87n)
-- [Dev.to/JS] [How to Integrate ChatGPT into your Whatsapp &lpar;with a Custom Knowledge Base&rpar;](https://dev.to/sojinsamuel/integrating-chatgpt-into-my-whatsapp-with-a-custom-knowledge-base-2pl2)
 - [Lifehacker] [The Samsung Galaxy S24 Ultra Might Make Me Ditch My iPhone](https://lifehacker.com/tech/samsung-galaxy-s24-ultra-review-an-android-heavy-hitter)
 - [Lifehacker] [What&#39;s New in the January Pixel Features Drop](https://lifehacker.com/tech/whats-new-january-pixel-features-drop)
 - [Lifehacker] [Pre-slicing Frozen Pizza Is How You Win](https://lifehacker.com/food-drink/pre-slice-your-frozen-pizza)
 - [Lifehacker] [Prime Members Can Choose Two Free E-Books From This List in January](https://lifehacker.com/entertainment/free-ebooks-for-amazon-prime-members)
-- [Dev.to/JS] [Difference Between Local Storage And Session Storage and cookies in the browser](https://dev.to/pinky057/difference-between-local-storage-and-session-storage-and-cookies-in-the-browser-15oa)
 - [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $180 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
 - [Lifehacker] [The Best Apps to Gamify Your Focus and Productivity](https://lifehacker.com/work/best-apps-to-gamify-your-productivity)
 - [Lifehacker] [Why Fitness Advice Is So Confusing &lpar;and What to Do About It&rpar;](https://lifehacker.com/health/why-fitness-advice-is-so-confusing-and-what-to-do-about-it)
