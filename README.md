@@ -27,6 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [How To - JavaScript - Mancala Game](https://dev.to/kylestech95/how-to-javascript-mancala-game-1f9a)
+- [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
 - [Dev.to/JS] [Simulating Internet Outage and Recovery using Cypress](https://dev.to/walmyrlimaesilv/simulating-internet-outage-and-recovery-using-cypress-5hjk)
 - [Dev.to/JS] [Add Portainer Stack](https://dev.to/akbarnafisa/add-portainer-stack-kn5)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Alienware Gaming Desktop Is $500 Off for the Next Two Days](https://lifehacker.com/tech/alienware-aurora-r15-gaming-desktop-dell-flash-sale)
 - [Lifehacker] [You Can Get This 10&quot; Touchscreen Car Display for $126 Right Now](https://lifehacker.com/travel/touchscreen-car-display-sale)
 - [Lifehacker] [PS5&#39;s New Update Makes It Easier to ‘Party’ With Your Friends](https://lifehacker.com/entertainment/playstation-5-firmware-update-parties)
-- [Lifehacker] [You Can Get a Free Google Nest and $100 Gift Card When You Sign Up With ADT](https://lifehacker.com/tech/get-a-free-google-nest-and-100-gift-card-with-this-adt-deal)
-- [Lifehacker] [Fool Your Friends With This Three-ingredient Cheater’s Crème Brûlée](https://lifehacker.com/food-drink/3-ingredient-easy-creme-brulee-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Free Google Nest and $100 Gift Card When You Sign Up With ADT](https://lifehacker.com/tech/get-a-free-google-nest-and-100-gift-card-with-this-adt-deal)<!-- TECH-POSTS:END -->
 
 ---
 
