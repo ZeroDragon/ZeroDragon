@@ -27,6 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Ember-cli config](https://dev.to/michalbryxi/ember-cli-global-config-defaults-1mdk)
+- [Lifehacker] [This TSA-Approved Fingerprint Lock Is on Sale for $45 Right Now](https://lifehacker.com/travel/fingerprint-travel-lock-sale)
 - [Dev.to/JS] [Declaring Functions](https://dev.to/kentriggs/declaring-functions-12l6)
 - [Dev.to/JS] [10 most impressive companies that have generated millions in revenue with 0 employees](https://dev.to/akshy/10-most-impressive-companies-that-have-generated-millions-in-revenue-with-0-employees-3fk5)
 - [Lifehacker] [The Best Card Games for Couples to Play on Date Night](https://lifehacker.com/relationships/card-games-for-date-night)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Five Favorite Soy Sauces &lpar;and How to Use Them&rpar;](https://lifehacker.com/food-drink/a-guide-to-different-soy-sauces)
 - [Lifehacker] [How to Set Up Your iPhone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [How to Revoke a Company’s ACH Authorization to Stop Them From Debiting Your Account](https://lifehacker.com/money/how-to-revoke-a-companys-ach)
-- [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books Today](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)
-- [Lifehacker] [All the Ways Smart Sensors Can Help Automate Your Home](https://lifehacker.com/tech/all-the-ways-smart-sensors-can-help-automate-your-home)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Hundreds of Free Cozy Mystery E-books Today](https://lifehacker.com/entertainment/free-mystery-e-books-kindle)<!-- TECH-POSTS:END -->
 
 ---
 
