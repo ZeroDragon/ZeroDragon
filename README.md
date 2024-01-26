@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.5](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-15-4345)
 - [Dev.to/JS] [Play with Javascript Console Method Part 2](https://dev.to/koshirok096/play-with-javascript-console-method-part-2-43j7)
+- [Lifehacker] [An Age-By-Age Guide to Instilling Gratitude in Kids](https://lifehacker.com/family/how-to-instill-gratitude-in-kids)
+- [Lifehacker] [TikTok’s Viral ‘Core 4’ Method Might Finally Help You Declutter Your Home](https://lifehacker.com/home/declutter-your-home-with-tiktoks-viral-core-4-method)
 - [Dev.to/JS] [Building Custom YAML-DSL in Python](https://dev.to/keploy/building-custom-yaml-dsl-in-python-3a6o)
 - [Dev.to/JS] [Drilling in React](https://dev.to/ckorley4/drilling-in-react-2hfm)
 - [Dev.to/JS] [How to build a WhatsApp AI assistant](https://dev.to/ben_james/how-to-build-a-whatsapp-ai-assistant-38l2)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Book review: Enhanced Test Automation with WebdriverIO: Unlock the superpowers of hybrid testing framework](https://dev.to/charlyautomatiza/book-review-enhanced-test-automation-with-webdriverio-unlock-the-superpowers-of-hybrid-testing-framework-26bk)
 - [Dev.to/JS] [What is Javascript &lpar;Js&rpar;, use, Importance and How to make Website &amp; application](https://dev.to/rahulaabhai/what-is-javascript-js-use-importance-and-how-to-make-website-application-392i)
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
-- [Dev.to/JS] [Unlocking DynamoDB&#39;s Hidden Potential: Elevate Your Serverless Game with Batch Operations Mastery](https://dev.to/aws-builders/unlocking-dynamodbs-hidden-potential-elevate-your-serverless-game-with-batch-operations-mastery-3i59)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Lifehacker] [The Best New TV Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New in the January Pixel Features Drop](https://lifehacker.com/tech/whats-new-january-pixel-features-drop)
 - [Lifehacker] [Pre-slicing Frozen Pizza Is How You Win](https://lifehacker.com/food-drink/pre-slice-your-frozen-pizza)
 - [Lifehacker] [Prime Members Can Choose Two Free E-Books From This List in January](https://lifehacker.com/entertainment/free-ebooks-for-amazon-prime-members)
-- [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $180 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)
-- [Lifehacker] [The Best Apps to Gamify Your Focus and Productivity](https://lifehacker.com/work/best-apps-to-gamify-your-productivity)
-- [Lifehacker] [Why Fitness Advice Is So Confusing &lpar;and What to Do About It&rpar;](https://lifehacker.com/health/why-fitness-advice-is-so-confusing-and-what-to-do-about-it)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $180 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)<!-- TECH-POSTS:END -->
 
 ---
 
