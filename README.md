@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [👨‍💻 Daily Code 50 | Create a Dynamic List with 🟨JavaScript](https://dev.to/gregor_schafroth/daily-code-50-create-a-dynamic-list-with-javascript-56c2)
+- [Dev.to/JS] [Starting With Fastify Today](https://dev.to/frulow/starting-with-fastify-today-2lpp)
+- [Dev.to/JS] [What is a variable in JavaScript? var, let &amp; const](https://dev.to/moriamakterswarna/what-is-a-variable-in-javascript-var-let-const-2cfn)
 - [Dev.to/JS] [.toBe&lpar;true&rpar; or .toBeTruthy&lpar;&rpar;](https://dev.to/majidzeno/tobetrue-or-tobetruthy-1epp)
 - [Dev.to/JS] [Node.js Roadmap: Mastering the Essentials](https://dev.to/nabroleonx/nodejs-roadmap-mastering-the-essentials-3o18)
 - [Dev.to/JS] [Logging into different environments with Cypress](https://dev.to/walmyrlimaesilv/logging-into-different-environments-with-cypress-l6i)
@@ -37,12 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To - JavaScript - Mancala Game](https://dev.to/kylestech95/how-to-javascript-mancala-game-1f9a)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
 - [Dev.to/JS] [Simulating Internet Outage and Recovery using Cypress](https://dev.to/walmyrlimaesilv/simulating-internet-outage-and-recovery-using-cypress-5hjk)
-- [Dev.to/JS] [Add Portainer Stack](https://dev.to/akbarnafisa/add-portainer-stack-kn5)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
 - [Lifehacker] [Use These Six Customer Service Phrases to Respond to Difficult People](https://lifehacker.com/health/use-these-customer-service-phrases-to-respond-to-difficult-people)
-- [Dev.to/JS] [24 GitHub repos with 372M views that you can&#39;t miss out as a software engineer](https://dev.to/aajinkya/24-github-repos-with-372m-views-that-you-cant-miss-out-as-a-software-engineer-4hoa)
 - [Lifehacker] [iOS 17.4 Will Change the iPhone Forever, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
-- [Dev.to/JS] [Leveling Up Your Career: Unleashing Your Full Potential!](https://dev.to/codingcatdev/leveling-up-your-career-unleashing-your-full-potential-1a0k)
 - [Lifehacker] [You Can Learn Spanish on Rosetta Stone for $120 Right Now](https://lifehacker.com/tech/spanish-rosetta-stone)
 - [Lifehacker] [The Samsung Galaxy S24 Ultra Might Make Me Ditch My iPhone](https://lifehacker.com/tech/samsung-galaxy-s24-ultra-review-an-android-heavy-hitter)
 - [Lifehacker] [What&#39;s New in the January Pixel Features Drop](https://lifehacker.com/tech/whats-new-january-pixel-features-drop)
