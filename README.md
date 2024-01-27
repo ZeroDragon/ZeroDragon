@@ -26,24 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Good practices for unit testing with the React Testing Library and beyond.](https://dev.to/jagodabieniek/good-practices-for-unit-testing-with-the-react-testing-library-and-beyond-33d6)
+- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/avelinopinho205/buy-old-gmail-accounts-3m7c)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/avelinopinho205/buy-verified-paxful-account-1m0e)
+- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/avelinopinho205/buy-glassdoor-reviews-363j)
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/avelinopinho205/buy-google-reviews-1467)
+- [Dev.to/JS] [AGENCY FOR REAL BITCOIN RECOVERY EXPERTS 2024](https://dev.to/kati_sanchez/agency-for-real-bitcoin-recovery-experts-2024-30n0)
+- [Dev.to/JS] [How to Implement Modal using React Router v6](https://dev.to/iamdete/how-to-implement-modal-using-react-router-v6-1egk)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/avelinopinho205/buy-google-voice-accounts-1e2m)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/avelinopinho205/buy-google-5-star-reviews-36hk)
+- [Lifehacker] [Five Ways Home Sellers Can Screw You Over After the Closing](https://lifehacker.com/money/five-ways-home-sellers-can-screw-you)
 - [Lifehacker] [A Parenting Coach Is More Useful Than People Think](https://lifehacker.com/family/what-does-a-parenting-coach-do)
 - [Lifehacker] [You Can Get This Goplus Rowing Machine on Sale for $190 Right Now](https://lifehacker.com/health/goplus-rowing-machine-sale)
 - [Dev.to/JS] [AI-Powered Snapchat Stories: Convert Instagram Videos with Ease](https://dev.to/instagram-to-snapchat/ai-powered-snapchat-stories-convert-instagram-videos-with-ease-4i74)
 - [Dev.to/JS] [#8.0 NodeJs &amp; MognoDB Interview Question](https://dev.to/avinashrepo/nodejs-mognodb-interview-question-2mca)
 - [Dev.to/JS] [Creating a 3D extruded text Word Art picker in only ~30 lines of pure HTML web component code + 1 extra file](https://dev.to/michaelpb/creating-a-3d-extruded-text-word-art-picker-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-3b86)
 - [Lifehacker] [You Can Create Your Own AI Art in Microsoft Paint](https://lifehacker.com/tech/how-to-create-ai-art-in-microsoft-paint-with-cocreator)
-- [Dev.to/JS] [📱 Phone 15 Pro Max Giveaway 🎉](https://dev.to/3auniquetach/phone-15-pro-max-giveaway-1fa0)
 - [Lifehacker] [Use the &#39;HEFE&#39; Method to Strike Up a Conversation](https://lifehacker.com/health/use-the-hefe-method-to-get-better-at-small-talk)
-- [Dev.to/JS] [My experience using Open AI completion API in a Node.js application](https://dev.to/pilarfernandezz/my-experience-using-open-ai-completion-api-in-a-nodejs-application-5c51)
-- [Dev.to/JS] [07 Node Js Interview](https://dev.to/avinashrepo/07-simple-word-interview-2p5g)
-- [Dev.to/JS] [Google Form autofill responses from Google Sheet](https://dev.to/vryntel/google-form-autofill-responses-from-google-sheet-1lca)
-- [Dev.to/JS] [Everything About Angular for 2024](https://dev.to/sarthaksavvy/everything-about-angular-for-2024-2i1b)
 - [Lifehacker] [Six ‘Builder-grade’ Home Features You Don’t Need to Upgrade](https://lifehacker.com/money/builder-grade-home-features-you-dont-need-to-upgrade)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/saramalheiro30/buy-verified-paxful-account-1bfn)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/saramalheiro30/buy-glassdoor-reviews-49gi)
 - [Lifehacker] [You Can Get This Refurbished iPad 9 on Sale for $412 Right Now](https://lifehacker.com/tech/refurbished-ipad-9-sale)
-- [Dev.to/JS] [Why Javascript has to be slower than C++](https://dev.to/codeparrot/why-javascript-has-to-be-slower-than-c-4inj)
-- [Dev.to/JS] [Injection projector gaming console](https://dev.to/jayjordison03/injection-projector-gaming-console-4en0)
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Card Games for Couples to Play on Date Night](https://lifehacker.com/relationships/card-games-for-date-night)
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
-- [Lifehacker] [The Best New TV Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New TV Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
