@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Highly Rated Dimond - Fitspresso &lpar;Warning Exposed Alert&rpar; Ingredients, Side Effects, And Benefits](https://dev.to/lorettraruffi/highly-rated-dimond-fitspresso-warning-exposed-alert-ingredients-side-effects-and-benefits-21id)
+- [Dev.to/JS] [Enlightr - E-learning multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/enlightr-e-learning-multipage-theme-built-with-astro-tailwind-css-mdx-12fi)
+- [Dev.to/JS] [✨Why do IT businesses need human resource management software? 💫](https://dev.to/lenina59400/why-do-it-businesses-need-human-resource-management-software-2pbe)
 - [Dev.to/JS] [Redux and Server-Side Rendering](https://dev.to/abhaysinghr1/redux-and-server-side-rendering-3ojm)
 - [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; with React 18](https://dev.to/topreact/server-side-rendering-ssr-with-react-18-3e65)
 - [Dev.to/JS] [Are React Hooks just normal javascript functions?](https://dev.to/codeparrot/are-react-hooks-just-normal-javascript-functions-1636)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working with Function Parameters in JavaScript](https://dev.to/ignoreintuition/working-with-function-parameters-in-javascript-571l)
 - [Dev.to/JS] [mua chung Flik](https://dev.to/wsovn112/mua-chung-flik-48ca)
 - [Dev.to/JS] [Hiring Hiring Hiring Work from home job 35$-45$ per hour You interested click here 👇👇](https://dev.to/kurtz123/hiring-hiring-hiringwork-from-home-job35-45-per-houryou-interested-click-here-2dm5)
-- [Dev.to/JS] [GULF TECH MEP training center](https://dev.to/anfaspachu/gulf-tech-mep-training-center-474f)
-- [Dev.to/JS] [#4 Redux](https://dev.to/avinashrepo/4-redux-5b9k)
-- [Dev.to/JS] [#3 TCS Live Interview Converstion](https://dev.to/avinashrepo/3-tcs-live-interview-converstion-1m7d)
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
