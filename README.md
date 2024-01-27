@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Where do React Server Components fit in the history of web development?](https://dev.to/matfrana/where-do-react-server-components-fit-in-the-history-of-web-development-1l0f)
+- [Lifehacker] [You Can Get This TruGolf Golf Simulator on Sale for $230 Right Now](https://lifehacker.com/trugolf-golf-simulator-sale)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.5](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-15-4345)
+- [Lifehacker] [A Bunch of Big Screen TVs Are 40% Off at Amazon Right Now](https://lifehacker.com/tech/hisense-u6-uled-series-tv-sale)
 - [Dev.to/JS] [Play with Javascript Console Method Part 2](https://dev.to/koshirok096/play-with-javascript-console-method-part-2-43j7)
 - [Lifehacker] [An Age-By-Age Guide to Instilling Gratitude in Kids](https://lifehacker.com/family/how-to-instill-gratitude-in-kids)
 - [Lifehacker] [TikTok’s Viral ‘Core 4’ Method Might Finally Help You Declutter Your Home](https://lifehacker.com/home/declutter-your-home-with-tiktoks-viral-core-4-method)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 most impressive companies that have generated millions in revenue with 0 employees](https://dev.to/akshy/10-most-impressive-companies-that-have-generated-millions-in-revenue-with-0-employees-3fk5)
 - [Lifehacker] [The Best Card Games for Couples to Play on Date Night](https://lifehacker.com/relationships/card-games-for-date-night)
 - [Dev.to/JS] [Book review: Enhanced Test Automation with WebdriverIO: Unlock the superpowers of hybrid testing framework](https://dev.to/charlyautomatiza/book-review-enhanced-test-automation-with-webdriverio-unlock-the-superpowers-of-hybrid-testing-framework-26bk)
-- [Dev.to/JS] [What is Javascript &lpar;Js&rpar;, use, Importance and How to make Website &amp; application](https://dev.to/rahulaabhai/what-is-javascript-js-use-importance-and-how-to-make-website-application-392i)
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Lifehacker] [The Best New TV Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Learn Spanish on Rosetta Stone for $120 Right Now](https://lifehacker.com/tech/spanish-rosetta-stone)
 - [Lifehacker] [The Samsung Galaxy S24 Ultra Might Make Me Ditch My iPhone](https://lifehacker.com/tech/samsung-galaxy-s24-ultra-review-an-android-heavy-hitter)
 - [Lifehacker] [What&#39;s New in the January Pixel Features Drop](https://lifehacker.com/tech/whats-new-january-pixel-features-drop)
-- [Lifehacker] [Pre-slicing Frozen Pizza Is How You Win](https://lifehacker.com/food-drink/pre-slice-your-frozen-pizza)
-- [Lifehacker] [Prime Members Can Choose Two Free E-Books From This List in January](https://lifehacker.com/entertainment/free-ebooks-for-amazon-prime-members)
-- [Lifehacker] [You Can Get This Refurbished iPad 6 With Beats Headphones for $180 Right Now](https://lifehacker.com/tech/ipad-6-beats-headphones-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Pre-slicing Frozen Pizza Is How You Win](https://lifehacker.com/food-drink/pre-slice-your-frozen-pizza)<!-- TECH-POSTS:END -->
 
 ---
 
