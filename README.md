@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Countdown Timer with Vue.js](https://dev.to/ayowandeapp/creating-a-countdown-timer-with-vuejs-21nm)
+- [Dev.to/JS] [How to build an interactive image for your WYSIWYG editor](https://dev.to/kyw/how-to-build-an-interactive-image-for-your-wysiwyg-editor-17l8)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/saramalheiro30/buy-google-5-star-reviews-5doi)
+- [Dev.to/JS] [We buy houses Virginia Beach:](https://dev.to/virginiabeachhouses/we-buy-houses-virginia-beach-4839)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/saramalheiro30/buy-verified-cash-app-account-2ng7)
 - [Dev.to/JS] [Highly Rated Dimond - Fitspresso &lpar;Warning Exposed Alert&rpar; Ingredients, Side Effects, And Benefits](https://dev.to/lorettraruffi/highly-rated-dimond-fitspresso-warning-exposed-alert-ingredients-side-effects-and-benefits-21id)
 - [Dev.to/JS] [Enlightr - E-learning multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/enlightr-e-learning-multipage-theme-built-with-astro-tailwind-css-mdx-12fi)
 - [Dev.to/JS] [✨Why do IT businesses need human resource management software? 💫](https://dev.to/lenina59400/why-do-it-businesses-need-human-resource-management-software-2pbe)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; with React 18](https://dev.to/topreact/server-side-rendering-ssr-with-react-18-3e65)
 - [Dev.to/JS] [Are React Hooks just normal javascript functions?](https://dev.to/codeparrot/are-react-hooks-just-normal-javascript-functions-1636)
 - [Dev.to/JS] [Understanding `useEffect` and Dependency Array in React Hooks](https://dev.to/tmayank860/understanding-useeffect-and-dependency-array-in-react-hooks-4fgk)
-- [Dev.to/JS] [👨‍💻 Daily Code 51 | Color Flipper Button in 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-51-color-flipper-button-in-javascript-26m4)
-- [Dev.to/JS] [🚀 Introducing Load Stream: A Versatile File Upload Package](https://dev.to/deepaksuthar40128/introducing-load-stream-a-versatile-file-upload-package-208a)
-- [Dev.to/JS] [Working with Function Parameters in JavaScript](https://dev.to/ignoreintuition/working-with-function-parameters-in-javascript-571l)
-- [Dev.to/JS] [mua chung Flik](https://dev.to/wsovn112/mua-chung-flik-48ca)
-- [Dev.to/JS] [Hiring Hiring Hiring Work from home job 35$-45$ per hour You interested click here 👇👇](https://dev.to/kurtz123/hiring-hiring-hiringwork-from-home-job35-45-per-houryou-interested-click-here-2dm5)
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
