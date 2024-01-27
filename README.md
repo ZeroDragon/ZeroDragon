@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/saramalheiro30/buy-verified-paxful-account-1bfn)
+- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/saramalheiro30/buy-glassdoor-reviews-49gi)
+- [Dev.to/JS] [Why Javascript has to be slower than C++](https://dev.to/codeparrot/why-javascript-has-to-be-slower-than-c-4inj)
+- [Dev.to/JS] [Injection projector gaming console](https://dev.to/jayjordison03/injection-projector-gaming-console-4en0)
+- [Dev.to/JS] [Chatgpt with hologram function.](https://dev.to/jayjordison03/chatgpt-with-hologram-function-2dcm)
 - [Dev.to/JS] [How I Got a Job as a Self-Taught Developer without a College Degree](https://dev.to/kuvambhardwaj/how-i-got-a-job-as-a-self-taught-developer-without-a-college-degree-3dll)
 - [Dev.to/JS] [Reactive Change Detection](https://dev.to/ninjin/reactive-change-detection-1nei)
 - [Dev.to/JS] [Latest Newsletter: Death’s Door &lpar;Issue #151&rpar;](https://dev.to/mjgs/latest-newsletter-deaths-door-issue-151-42g9)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leveling up your custom fake data with Faker.js](https://dev.to/matthewmayer/leveling-up-your-custom-fake-data-with-fakerjs-3f7m)
 - [Dev.to/JS] [#6 Mongo DB interview Conversation](https://dev.to/avinashrepo/6-mongo-db-interview-conversation-2fkk)
 - [Dev.to/JS] [Creating a Countdown Timer with Vue.js](https://dev.to/ayowandeapp/creating-a-countdown-timer-with-vuejs-21nm)
-- [Dev.to/JS] [How to build an interactive image for your WYSIWYG editor](https://dev.to/kyw/how-to-build-an-interactive-image-for-your-wysiwyg-editor-17l8)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/saramalheiro30/buy-google-5-star-reviews-5doi)
-- [Dev.to/JS] [We buy houses Virginia Beach:](https://dev.to/virginiabeachhouses/we-buy-houses-virginia-beach-4839)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/saramalheiro30/buy-verified-cash-app-account-2ng7)
-- [Dev.to/JS] [Highly Rated Dimond - Fitspresso &lpar;Warning Exposed Alert&rpar; Ingredients, Side Effects, And Benefits](https://dev.to/lorettraruffi/highly-rated-dimond-fitspresso-warning-exposed-alert-ingredients-side-effects-and-benefits-21id)
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
