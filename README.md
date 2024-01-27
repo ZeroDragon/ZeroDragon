@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [A Parenting Coach Is More Useful Than People Think](https://lifehacker.com/family/what-does-a-parenting-coach-do)
+- [Lifehacker] [You Can Get This Goplus Rowing Machine on Sale for $190 Right Now](https://lifehacker.com/health/goplus-rowing-machine-sale)
 - [Dev.to/JS] [AI-Powered Snapchat Stories: Convert Instagram Videos with Ease](https://dev.to/instagram-to-snapchat/ai-powered-snapchat-stories-convert-instagram-videos-with-ease-4i74)
 - [Dev.to/JS] [#8.0 NodeJs &amp; MognoDB Interview Question](https://dev.to/avinashrepo/nodejs-mognodb-interview-question-2mca)
 - [Dev.to/JS] [Creating a 3D extruded text Word Art picker in only ~30 lines of pure HTML web component code + 1 extra file](https://dev.to/michaelpb/creating-a-3d-extruded-text-word-art-picker-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-3b86)
+- [Lifehacker] [You Can Create Your Own AI Art in Microsoft Paint](https://lifehacker.com/tech/how-to-create-ai-art-in-microsoft-paint-with-cocreator)
 - [Dev.to/JS] [📱 Phone 15 Pro Max Giveaway 🎉](https://dev.to/3auniquetach/phone-15-pro-max-giveaway-1fa0)
 - [Lifehacker] [Use the &#39;HEFE&#39; Method to Strike Up a Conversation](https://lifehacker.com/health/use-the-hefe-method-to-get-better-at-small-talk)
 - [Dev.to/JS] [My experience using Open AI completion API in a Node.js application](https://dev.to/pilarfernandezz/my-experience-using-open-ai-completion-api-in-a-nodejs-application-5c51)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Lifehacker] [The Best New TV Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
-- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
-- [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)<!-- TECH-POSTS:END -->
 
 ---
 
