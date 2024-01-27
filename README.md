@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced Global Zustand Store 🌎🐻](https://dev.to/mattlewandowski93/advanced-global-zustand-store-1i13)
+- [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
+- [Dev.to/JS] [The Benefits of a Single-Language Tech Stack &lpar;Or How to Learn to Stop Worrying and Love JavaScript&rpar;](https://dev.to/crossthebluesky/the-benefits-of-a-single-language-tech-stack-or-how-to-learn-to-stop-worrying-and-love-javascript-29k1)
+- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
+- [Lifehacker] [How Apps Use Push Notifications to Spy on You &lpar;and How to Stop Them&rpar;](https://lifehacker.com/tech/how-to-stop-apps-from-using-push-notifications-to-spy-on-you)
 - [Dev.to/JS] [Where do React Server Components fit in the history of web development?](https://dev.to/matfrana/where-do-react-server-components-fit-in-the-history-of-web-development-1l0f)
+- [Lifehacker] [Will TikTok&#39;s &#39;Sleepy Girl Mocktail&#39; Actually Help You Sleep?](https://lifehacker.com/health/does-tiktoks-sleepy-girl-mocktail-work)
 - [Lifehacker] [You Can Get This TruGolf Golf Simulator on Sale for $230 Right Now](https://lifehacker.com/trugolf-golf-simulator-sale)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.5](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-15-4345)
 - [Lifehacker] [A Bunch of Big Screen TVs Are 40% Off at Amazon Right Now](https://lifehacker.com/tech/hisense-u6-uled-series-tv-sale)
@@ -46,9 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ember-cli config](https://dev.to/michalbryxi/ember-cli-global-config-defaults-1mdk)
 - [Lifehacker] [This TSA-Approved Fingerprint Lock Is on Sale for $45 Right Now](https://lifehacker.com/travel/fingerprint-travel-lock-sale)
 - [Dev.to/JS] [Declaring Functions](https://dev.to/kentriggs/declaring-functions-12l6)
-- [Dev.to/JS] [10 most impressive companies that have generated millions in revenue with 0 employees](https://dev.to/akshy/10-most-impressive-companies-that-have-generated-millions-in-revenue-with-0-employees-3fk5)
 - [Lifehacker] [The Best Card Games for Couples to Play on Date Night](https://lifehacker.com/relationships/card-games-for-date-night)
-- [Dev.to/JS] [Book review: Enhanced Test Automation with WebdriverIO: Unlock the superpowers of hybrid testing framework](https://dev.to/charlyautomatiza/book-review-enhanced-test-automation-with-webdriverio-unlock-the-superpowers-of-hybrid-testing-framework-26bk)
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Lifehacker] [The Best New TV Series Coming to Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
 - [Lifehacker] [Use These Six Customer Service Phrases to Respond to Difficult People](https://lifehacker.com/health/use-these-customer-service-phrases-to-respond-to-difficult-people)
-- [Lifehacker] [iOS 17.4 Will Change the iPhone Forever, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)
-- [Lifehacker] [You Can Learn Spanish on Rosetta Stone for $120 Right Now](https://lifehacker.com/tech/spanish-rosetta-stone)
-- [Lifehacker] [The Samsung Galaxy S24 Ultra Might Make Me Ditch My iPhone](https://lifehacker.com/tech/samsung-galaxy-s24-ultra-review-an-android-heavy-hitter)
-- [Lifehacker] [What&#39;s New in the January Pixel Features Drop](https://lifehacker.com/tech/whats-new-january-pixel-features-drop)
-- [Lifehacker] [Pre-slicing Frozen Pizza Is How You Win](https://lifehacker.com/food-drink/pre-slice-your-frozen-pizza)<!-- TECH-POSTS:END -->
+- [Lifehacker] [iOS 17.4 Will Change the iPhone Forever, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)<!-- TECH-POSTS:END -->
 
 ---
 
