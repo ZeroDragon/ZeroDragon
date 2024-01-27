@@ -26,27 +26,28 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#4 Redux](https://dev.to/avinashrepo/4-redux-5b9k)
+- [Dev.to/JS] [#3 TCS Live Interview Converstion](https://dev.to/avinashrepo/3-tcs-live-interview-converstion-1m7d)
+- [Dev.to/JS] [How to set up your own proxy server in minutes?](https://dev.to/dhairyashah/how-to-set-up-your-own-proxy-server-in-minutes-4ke)
+- [Dev.to/JS] [#2 Js Live Interview Conversation](https://dev.to/avinashrepo/2-js-live-interview-conversation-3351)
+- [Dev.to/JS] [Interview on JS /React](https://dev.to/avinashrepo/built-in-function-535m)
+- [Dev.to/JS] [MVC architecture still relevant ? Enhanced MVC](https://dev.to/glitcharch/mvc-architecture-still-relevant-enhanced-mvc-d9f)
 - [Dev.to/JS] [Deep copy in JavaScript, what is that?](https://dev.to/daniel1775/deep-copy-in-javascrip-what-is-it-5b91)
 - [Dev.to/JS] [WebSockets Unlocked: Mastering scale of websockets](https://dev.to/raunakgurud09/websockets-unlocked-mastering-scale-of-websockets-3p54)
 - [Dev.to/JS] [DeSci: Decentralized Science - Revolutionizing Research with](https://dev.to/ayaaneth/desci-decentralized-science-revolutionizing-research-with-1im9)
 - [Dev.to/JS] [Java January vs. JS January… Which Do You Pick? 🔥](https://dev.to/best_codes/java-january-vs-js-january-which-do-you-pick-15o6)
+- [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 - [Dev.to/JS] [Global Zustand Store in React 🌎🐻](https://dev.to/mattlewandowski93/advanced-global-zustand-store-1i13)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
 - [Dev.to/JS] [The Benefits of a Single-Language Tech Stack &lpar;Or How to Learn to Stop Worrying and Love JavaScript&rpar;](https://dev.to/crossthebluesky/the-benefits-of-a-single-language-tech-stack-or-how-to-learn-to-stop-worrying-and-love-javascript-29k1)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
 - [Lifehacker] [How Apps Use Push Notifications to Spy on You &lpar;and How to Stop Them&rpar;](https://lifehacker.com/tech/how-to-stop-apps-from-using-push-notifications-to-spy-on-you)
-- [Dev.to/JS] [Where do React Server Components fit in the history of web development?](https://dev.to/matfrana/where-do-react-server-components-fit-in-the-history-of-web-development-1l0f)
 - [Lifehacker] [Will TikTok&#39;s &#39;Sleepy Girl Mocktail&#39; Actually Help You Sleep?](https://lifehacker.com/health/does-tiktoks-sleepy-girl-mocktail-work)
 - [Lifehacker] [You Can Get This TruGolf Golf Simulator on Sale for $230 Right Now](https://lifehacker.com/trugolf-golf-simulator-sale)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.5](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-15-4345)
 - [Lifehacker] [A Bunch of Big Screen TVs Are 40% Off at Amazon Right Now](https://lifehacker.com/tech/hisense-u6-uled-series-tv-sale)
-- [Dev.to/JS] [Play with Javascript Console Method Part 2](https://dev.to/koshirok096/play-with-javascript-console-method-part-2-43j7)
 - [Lifehacker] [An Age-By-Age Guide to Instilling Gratitude in Kids](https://lifehacker.com/family/how-to-instill-gratitude-in-kids)
-- [Dev.to/JS] [Cubos Academy: Cursos Gratuitos De JavaScript, UI/UX, Flutter E SoftSkills](https://dev.to/guiadeti/cubos-academy-cursos-gratuitos-de-javascript-uiux-flutter-e-softskills-3c6j)
 - [Lifehacker] [TikTok’s Viral ‘Core 4’ Method Might Finally Help You Declutter Your Home](https://lifehacker.com/home/declutter-your-home-with-tiktoks-viral-core-4-method)
-- [Dev.to/JS] [Building Custom YAML-DSL in Python](https://dev.to/keploy/building-custom-yaml-dsl-in-python-3a6o)
-- [Dev.to/JS] [Drilling in React](https://dev.to/ckorley4/drilling-in-react-2hfm)
 - [Lifehacker] [Dyson, Shark, and Samsung All Have Deals on Stick Vacuum Cleaners Right Now](https://lifehacker.com/home/best-stick-vacuum-cleaner-deals)
 - [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [These Are the Most Effective Ab Exercises](https://lifehacker.com/health/the-best-ab-exercises)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
-- [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
-- [Lifehacker] [Use These Six Customer Service Phrases to Respond to Difficult People](https://lifehacker.com/health/use-these-customer-service-phrases-to-respond-to-difficult-people)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)<!-- TECH-POSTS:END -->
 
 ---
 
