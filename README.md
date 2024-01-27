@@ -26,19 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AI-Powered Snapchat Stories: Convert Instagram Videos with Ease](https://dev.to/instagram-to-snapchat/ai-powered-snapchat-stories-convert-instagram-videos-with-ease-4i74)
+- [Dev.to/JS] [#8.0 NodeJs &amp; MognoDB Interview Question](https://dev.to/avinashrepo/nodejs-mognodb-interview-question-2mca)
+- [Dev.to/JS] [Creating a 3D extruded text Word Art picker in only ~30 lines of pure HTML web component code + 1 extra file](https://dev.to/michaelpb/creating-a-3d-extruded-text-word-art-picker-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-3b86)
 - [Dev.to/JS] [📱 Phone 15 Pro Max Giveaway 🎉](https://dev.to/3auniquetach/phone-15-pro-max-giveaway-1fa0)
+- [Lifehacker] [Use the &#39;HEFE&#39; Method to Strike Up a Conversation](https://lifehacker.com/health/use-the-hefe-method-to-get-better-at-small-talk)
 - [Dev.to/JS] [My experience using Open AI completion API in a Node.js application](https://dev.to/pilarfernandezz/my-experience-using-open-ai-completion-api-in-a-nodejs-application-5c51)
 - [Dev.to/JS] [07 Node Js Interview](https://dev.to/avinashrepo/07-simple-word-interview-2p5g)
 - [Dev.to/JS] [Google Form autofill responses from Google Sheet](https://dev.to/vryntel/google-form-autofill-responses-from-google-sheet-1lca)
 - [Dev.to/JS] [Everything About Angular for 2024](https://dev.to/sarthaksavvy/everything-about-angular-for-2024-2i1b)
+- [Lifehacker] [Six ‘Builder-grade’ Home Features You Don’t Need to Upgrade](https://lifehacker.com/money/builder-grade-home-features-you-dont-need-to-upgrade)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/saramalheiro30/buy-verified-paxful-account-1bfn)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/saramalheiro30/buy-glassdoor-reviews-49gi)
+- [Lifehacker] [You Can Get This Refurbished iPad 9 on Sale for $412 Right Now](https://lifehacker.com/tech/refurbished-ipad-9-sale)
 - [Dev.to/JS] [Why Javascript has to be slower than C++](https://dev.to/codeparrot/why-javascript-has-to-be-slower-than-c-4inj)
 - [Dev.to/JS] [Injection projector gaming console](https://dev.to/jayjordison03/injection-projector-gaming-console-4en0)
-- [Dev.to/JS] [Chatgpt with hologram function.](https://dev.to/jayjordison03/chatgpt-with-hologram-function-2dcm)
-- [Dev.to/JS] [How I Got a Job as a Self-Taught Developer without a College Degree](https://dev.to/kuvambhardwaj/how-i-got-a-job-as-a-self-taught-developer-without-a-college-degree-3dll)
-- [Dev.to/JS] [Reactive Change Detection](https://dev.to/ninjin/reactive-change-detection-1nei)
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
+- [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
-- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
-- [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
-- [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
-- [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
