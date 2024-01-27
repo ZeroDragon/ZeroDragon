@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Advanced Global Zustand Store 🌎🐻](https://dev.to/mattlewandowski93/advanced-global-zustand-store-1i13)
+- [Dev.to/JS] [Global Zustand Store in React 🌎🐻](https://dev.to/mattlewandowski93/advanced-global-zustand-store-1i13)
+- [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
 - [Dev.to/JS] [The Benefits of a Single-Language Tech Stack &lpar;Or How to Learn to Stop Worrying and Love JavaScript&rpar;](https://dev.to/crossthebluesky/the-benefits-of-a-single-language-tech-stack-or-how-to-learn-to-stop-worrying-and-love-javascript-29k1)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Year of YogaDownload Classes on Sale for $30 Right Now](https://lifehacker.com/health/yogadownload-unlimited-online-yoga-sale)
 - [Lifehacker] [These Night-Vision Binoculars Are on Sale for $100 Right Now](https://lifehacker.com/night-vision-binoculars-sale)
 - [Lifehacker] [The Garmin Venu Sq Smartwatch Is 40% Off Right Now](https://lifehacker.com/health/garmin-venu-sq-sale-amazon)
-- [Lifehacker] [Use These Six Customer Service Phrases to Respond to Difficult People](https://lifehacker.com/health/use-these-customer-service-phrases-to-respond-to-difficult-people)
-- [Lifehacker] [iOS 17.4 Will Change the iPhone Forever, but Only If You Live in the EU](https://lifehacker.com/tech/the-best-new-features-in-ios-174-are-eu-only)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use These Six Customer Service Phrases to Respond to Difficult People](https://lifehacker.com/health/use-these-customer-service-phrases-to-respond-to-difficult-people)<!-- TECH-POSTS:END -->
 
 ---
 
