@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.6](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-16-2pn)
+- [Dev.to/JS] [Optimizing Event Handlers in React using useCallback](https://dev.to/demola12/optimizing-event-handlers-in-react-using-usecallback-5hc3)
 - [Dev.to/JS] [How do I know if I need Core-js as a dependency?](https://dev.to/aboesig/how-do-i-know-if-i-need-core-js-as-a-dependency-2ojo)
 - [Dev.to/JS] [AWS Copilot CLI, the Good the Bad, and the Results.](https://dev.to/morganney/aws-copilot-cli-the-good-the-bad-and-results-367d)
 - [Dev.to/JS] [Unveiling the Blueprint: TCS to Razorpay 🚀](https://dev.to/iamstackless/unveiling-the-blueprint-tcs-to-razorpay-a7h)
@@ -42,10 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Goplus Rowing Machine on Sale for $190 Right Now](https://lifehacker.com/health/goplus-rowing-machine-sale)
 - [Dev.to/JS] [AI-Powered Snapchat Stories: Convert Instagram Videos with Ease](https://dev.to/instagram-to-snapchat/ai-powered-snapchat-stories-convert-instagram-videos-with-ease-4i74)
 - [Dev.to/JS] [#8.0 NodeJs &amp; MognoDB Interview Question](https://dev.to/avinashrepo/nodejs-mognodb-interview-question-2mca)
-- [Dev.to/JS] [Creating a 3D extruded text Word Art picker in only ~30 lines of pure HTML web component code + 1 extra file](https://dev.to/michaelpb/creating-a-3d-extruded-text-word-art-picker-in-only-30-lines-of-pure-html-web-component-code-1-extra-file-3b86)
 - [Lifehacker] [You Can Create Your Own AI Art in Microsoft Paint](https://lifehacker.com/tech/how-to-create-ai-art-in-microsoft-paint-with-cocreator)
 - [Lifehacker] [Use the &#39;HEFE&#39; Method to Strike Up a Conversation](https://lifehacker.com/health/use-the-hefe-method-to-get-better-at-small-talk)
-- [Dev.to/JS] [My experience using Open AI completion API in a Node.js application](https://dev.to/pilarfernandezz/my-experience-using-open-ai-completion-api-in-a-nodejs-application-5c51)
 - [Lifehacker] [Six ‘Builder-grade’ Home Features You Don’t Need to Upgrade](https://lifehacker.com/money/builder-grade-home-features-you-dont-need-to-upgrade)
 - [Lifehacker] [You Can Get This Refurbished iPad 9 on Sale for $412 Right Now](https://lifehacker.com/tech/refurbished-ipad-9-sale)
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
