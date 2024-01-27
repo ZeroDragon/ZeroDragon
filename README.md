@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deep copy in JavaScript, what is that?](https://dev.to/daniel1775/deep-copy-in-javascrip-what-is-it-5b91)
+- [Dev.to/JS] [WebSockets Unlocked: Mastering scale of websockets](https://dev.to/raunakgurud09/websockets-unlocked-mastering-scale-of-websockets-3p54)
+- [Dev.to/JS] [DeSci: Decentralized Science - Revolutionizing Research with](https://dev.to/ayaaneth/desci-decentralized-science-revolutionizing-research-with-1im9)
+- [Dev.to/JS] [Java January vs. JS January… Which Do You Pick? 🔥](https://dev.to/best_codes/java-january-vs-js-january-which-do-you-pick-15o6)
 - [Dev.to/JS] [Global Zustand Store in React 🌎🐻](https://dev.to/mattlewandowski93/advanced-global-zustand-store-1i13)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
@@ -43,15 +47,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok’s Viral ‘Core 4’ Method Might Finally Help You Declutter Your Home](https://lifehacker.com/home/declutter-your-home-with-tiktoks-viral-core-4-method)
 - [Dev.to/JS] [Building Custom YAML-DSL in Python](https://dev.to/keploy/building-custom-yaml-dsl-in-python-3a6o)
 - [Dev.to/JS] [Drilling in React](https://dev.to/ckorley4/drilling-in-react-2hfm)
-- [Dev.to/JS] [How to build a WhatsApp AI assistant](https://dev.to/ben_james/how-to-build-a-whatsapp-ai-assistant-38l2)
 - [Lifehacker] [Dyson, Shark, and Samsung All Have Deals on Stick Vacuum Cleaners Right Now](https://lifehacker.com/home/best-stick-vacuum-cleaner-deals)
-- [Dev.to/JS] [React isn’t just JSX and a few hooks.](https://dev.to/prakhart111/react-isnt-just-jsx-and-a-few-hooks-l09)
-- [Dev.to/JS] [WebSockets and NodeJs: Real time chat app](https://dev.to/alakkadshaw/websockets-and-nodejs-real-time-chat-app-714)
 - [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [These Are the Most Effective Ab Exercises](https://lifehacker.com/health/the-best-ab-exercises)
 - [Lifehacker] [How to Keep Anyone From Accessing Your iCloud Data After You Die](https://lifehacker.com/tech/how-to-keep-your-icloud-data-safe-after-you-die)
 - [Lifehacker] [19 Eggless Desserts to Satisfy Any Sweet Tooth](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
-- [Dev.to/JS] [Ember-cli config](https://dev.to/michalbryxi/ember-cli-global-config-defaults-1mdk)
 - [Lifehacker] [This TSA-Approved Fingerprint Lock Is on Sale for $45 Right Now](https://lifehacker.com/travel/fingerprint-travel-lock-sale)
 - [Lifehacker] [The Best Card Games for Couples to Play on Date Night](https://lifehacker.com/relationships/card-games-for-date-night)
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
