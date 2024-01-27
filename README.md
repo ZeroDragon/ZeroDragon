@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with Function Parameters in JavaScript](https://dev.to/ignoreintuition/working-with-function-parameters-in-javascript-571l)
 - [Dev.to/JS] [mua chung Flik](https://dev.to/wsovn112/mua-chung-flik-48ca)
 - [Dev.to/JS] [Hiring Hiring Hiring Work from home job 35$-45$ per hour You interested click here 👇👇](https://dev.to/kurtz123/hiring-hiring-hiringwork-from-home-job35-45-per-houryou-interested-click-here-2dm5)
 - [Dev.to/JS] [GULF TECH MEP training center](https://dev.to/anfaspachu/gulf-tech-mep-training-center-474f)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MVC architecture still relevant ? Enhanced MVC](https://dev.to/glitcharch/mvc-architecture-still-relevant-enhanced-mvc-d9f)
 - [Dev.to/JS] [Deep copy in JavaScript, what is that?](https://dev.to/daniel1775/deep-copy-in-javascrip-what-is-it-5b91)
 - [Dev.to/JS] [WebSockets Unlocked: Mastering scale of websockets](https://dev.to/raunakgurud09/websockets-unlocked-mastering-scale-of-websockets-3p54)
-- [Dev.to/JS] [DeSci: Decentralized Science - Revolutionizing Research with](https://dev.to/ayaaneth/desci-decentralized-science-revolutionizing-research-with-1im9)
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
