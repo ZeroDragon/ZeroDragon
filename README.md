@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Got a Job as a Self-Taught Developer without a College Degree](https://dev.to/kuvambhardwaj/how-i-got-a-job-as-a-self-taught-developer-without-a-college-degree-3dll)
+- [Dev.to/JS] [Reactive Change Detection](https://dev.to/ninjin/reactive-change-detection-1nei)
+- [Dev.to/JS] [Latest Newsletter: Death’s Door &lpar;Issue #151&rpar;](https://dev.to/mjgs/latest-newsletter-deaths-door-issue-151-42g9)
 - [Dev.to/JS] [#7 MongoDB VS SQL](https://dev.to/avinashrepo/7-mongodb-vs-sql-cji)
 - [Dev.to/JS] [Leveling up your custom fake data with Faker.js](https://dev.to/matthewmayer/leveling-up-your-custom-fake-data-with-fakerjs-3f7m)
 - [Dev.to/JS] [#6 Mongo DB interview Conversation](https://dev.to/avinashrepo/6-mongo-db-interview-conversation-2fkk)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We buy houses Virginia Beach:](https://dev.to/virginiabeachhouses/we-buy-houses-virginia-beach-4839)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/saramalheiro30/buy-verified-cash-app-account-2ng7)
 - [Dev.to/JS] [Highly Rated Dimond - Fitspresso &lpar;Warning Exposed Alert&rpar; Ingredients, Side Effects, And Benefits](https://dev.to/lorettraruffi/highly-rated-dimond-fitspresso-warning-exposed-alert-ingredients-side-effects-and-benefits-21id)
-- [Dev.to/JS] [Enlightr - E-learning multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/enlightr-e-learning-multipage-theme-built-with-astro-tailwind-css-mdx-12fi)
-- [Dev.to/JS] [✨Why do IT businesses need human resource management software? 💫](https://dev.to/lenina59400/why-do-it-businesses-need-human-resource-management-software-2pbe)
-- [Dev.to/JS] [Redux and Server-Side Rendering](https://dev.to/abhaysinghr1/redux-and-server-side-rendering-3ojm)
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
