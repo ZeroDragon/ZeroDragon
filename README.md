@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#7 MongoDB VS SQL](https://dev.to/avinashrepo/7-mongodb-vs-sql-cji)
+- [Dev.to/JS] [Leveling up your custom fake data with Faker.js](https://dev.to/matthewmayer/leveling-up-your-custom-fake-data-with-fakerjs-3f7m)
+- [Dev.to/JS] [#6 Mongo DB interview Conversation](https://dev.to/avinashrepo/6-mongo-db-interview-conversation-2fkk)
 - [Dev.to/JS] [Creating a Countdown Timer with Vue.js](https://dev.to/ayowandeapp/creating-a-countdown-timer-with-vuejs-21nm)
 - [Dev.to/JS] [How to build an interactive image for your WYSIWYG editor](https://dev.to/kyw/how-to-build-an-interactive-image-for-your-wysiwyg-editor-17l8)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/saramalheiro30/buy-google-5-star-reviews-5doi)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enlightr - E-learning multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/enlightr-e-learning-multipage-theme-built-with-astro-tailwind-css-mdx-12fi)
 - [Dev.to/JS] [✨Why do IT businesses need human resource management software? 💫](https://dev.to/lenina59400/why-do-it-businesses-need-human-resource-management-software-2pbe)
 - [Dev.to/JS] [Redux and Server-Side Rendering](https://dev.to/abhaysinghr1/redux-and-server-side-rendering-3ojm)
-- [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; with React 18](https://dev.to/topreact/server-side-rendering-ssr-with-react-18-3e65)
-- [Dev.to/JS] [Are React Hooks just normal javascript functions?](https://dev.to/codeparrot/are-react-hooks-just-normal-javascript-functions-1636)
-- [Dev.to/JS] [Understanding `useEffect` and Dependency Array in React Hooks](https://dev.to/tmayank860/understanding-useeffect-and-dependency-array-in-react-hooks-4fgk)
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
