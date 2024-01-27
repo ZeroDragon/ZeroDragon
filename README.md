@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Blueprint: TCS to Razorpay 🚀](https://dev.to/iamstackless/unveiling-the-blueprint-tcs-to-razorpay-a7h)
+- [Dev.to/JS] [How to implement Theme Switcher in JavaScript](https://dev.to/pavelkeyzik/how-to-implement-theme-switcher-in-javascript-53e)
+- [Dev.to/JS] [জাভাস্ক্রিপ্টে NaN মানে কি?](https://dev.to/am_imtiaz/jaabhaaskriptte-nan-maane-ki-j1m)
+- [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Dev.to/JS] [Building Tech Community](https://dev.to/devgancode/building-tech-community-1p3i)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Dev.to/JS] [Good practices for unit testing with the React Testing Library and beyond.](https://dev.to/jagodabieniek/good-practices-for-unit-testing-with-the-react-testing-library-and-beyond-33d6)
@@ -37,12 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AGENCY FOR REAL BITCOIN RECOVERY EXPERTS 2024](https://dev.to/kati_sanchez/agency-for-real-bitcoin-recovery-experts-2024-30n0)
 - [Dev.to/JS] [How to Implement Modal using React Router v6](https://dev.to/iamdete/how-to-implement-modal-using-react-router-v6-1egk)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/avelinopinho205/buy-google-voice-accounts-1e2m)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/avelinopinho205/buy-google-5-star-reviews-36hk)
 - [Lifehacker] [Five Ways Home Sellers Can Screw You Over After the Closing](https://lifehacker.com/money/five-ways-home-sellers-can-screw-you)
 - [Lifehacker] [A Parenting Coach Is More Useful Than People Think](https://lifehacker.com/family/what-does-a-parenting-coach-do)
 - [Lifehacker] [You Can Get This Goplus Rowing Machine on Sale for $190 Right Now](https://lifehacker.com/health/goplus-rowing-machine-sale)
-- [Dev.to/JS] [AI-Powered Snapchat Stories: Convert Instagram Videos with Ease](https://dev.to/instagram-to-snapchat/ai-powered-snapchat-stories-convert-instagram-videos-with-ease-4i74)
-- [Dev.to/JS] [#8.0 NodeJs &amp; MognoDB Interview Question](https://dev.to/avinashrepo/nodejs-mognodb-interview-question-2mca)
 - [Lifehacker] [You Can Create Your Own AI Art in Microsoft Paint](https://lifehacker.com/tech/how-to-create-ai-art-in-microsoft-paint-with-cocreator)
 - [Lifehacker] [Use the &#39;HEFE&#39; Method to Strike Up a Conversation](https://lifehacker.com/health/use-the-hefe-method-to-get-better-at-small-talk)
 - [Lifehacker] [Six ‘Builder-grade’ Home Features You Don’t Need to Upgrade](https://lifehacker.com/money/builder-grade-home-features-you-dont-need-to-upgrade)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Anyone From Accessing Your iCloud Data After You Die](https://lifehacker.com/tech/how-to-keep-your-icloud-data-safe-after-you-die)
 - [Lifehacker] [19 Eggless Desserts to Satisfy Any Sweet Tooth](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
 - [Lifehacker] [This TSA-Approved Fingerprint Lock Is on Sale for $45 Right Now](https://lifehacker.com/travel/fingerprint-travel-lock-sale)
-- [Lifehacker] [The Best Card Games for Couples to Play on Date Night](https://lifehacker.com/relationships/card-games-for-date-night)
-- [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Card Games for Couples to Play on Date Night](https://lifehacker.com/relationships/card-games-for-date-night)<!-- TECH-POSTS:END -->
 
 ---
 
