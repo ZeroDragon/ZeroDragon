@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [📱 Phone 15 Pro Max Giveaway 🎉](https://dev.to/3auniquetach/phone-15-pro-max-giveaway-1fa0)
+- [Dev.to/JS] [My experience using Open AI completion API in a Node.js application](https://dev.to/pilarfernandezz/my-experience-using-open-ai-completion-api-in-a-nodejs-application-5c51)
+- [Dev.to/JS] [07 Node Js Interview](https://dev.to/avinashrepo/07-simple-word-interview-2p5g)
+- [Dev.to/JS] [Google Form autofill responses from Google Sheet](https://dev.to/vryntel/google-form-autofill-responses-from-google-sheet-1lca)
+- [Dev.to/JS] [Everything About Angular for 2024](https://dev.to/sarthaksavvy/everything-about-angular-for-2024-2i1b)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/saramalheiro30/buy-verified-paxful-account-1bfn)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/saramalheiro30/buy-glassdoor-reviews-49gi)
 - [Dev.to/JS] [Why Javascript has to be slower than C++](https://dev.to/codeparrot/why-javascript-has-to-be-slower-than-c-4inj)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chatgpt with hologram function.](https://dev.to/jayjordison03/chatgpt-with-hologram-function-2dcm)
 - [Dev.to/JS] [How I Got a Job as a Self-Taught Developer without a College Degree](https://dev.to/kuvambhardwaj/how-i-got-a-job-as-a-self-taught-developer-without-a-college-degree-3dll)
 - [Dev.to/JS] [Reactive Change Detection](https://dev.to/ninjin/reactive-change-detection-1nei)
-- [Dev.to/JS] [Latest Newsletter: Death’s Door &lpar;Issue #151&rpar;](https://dev.to/mjgs/latest-newsletter-deaths-door-issue-151-42g9)
-- [Dev.to/JS] [#7 MongoDB VS SQL](https://dev.to/avinashrepo/7-mongodb-vs-sql-cji)
-- [Dev.to/JS] [Leveling up your custom fake data with Faker.js](https://dev.to/matthewmayer/leveling-up-your-custom-fake-data-with-fakerjs-3f7m)
-- [Dev.to/JS] [#6 Mongo DB interview Conversation](https://dev.to/avinashrepo/6-mongo-db-interview-conversation-2fkk)
-- [Dev.to/JS] [Creating a Countdown Timer with Vue.js](https://dev.to/ayowandeapp/creating-a-countdown-timer-with-vuejs-21nm)
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
