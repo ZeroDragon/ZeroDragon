@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Redux and Server-Side Rendering](https://dev.to/abhaysinghr1/redux-and-server-side-rendering-3ojm)
+- [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; with React 18](https://dev.to/topreact/server-side-rendering-ssr-with-react-18-3e65)
+- [Dev.to/JS] [Are React Hooks just normal javascript functions?](https://dev.to/codeparrot/are-react-hooks-just-normal-javascript-functions-1636)
 - [Dev.to/JS] [Understanding `useEffect` and Dependency Array in React Hooks](https://dev.to/tmayank860/understanding-useeffect-and-dependency-array-in-react-hooks-4fgk)
 - [Dev.to/JS] [👨‍💻 Daily Code 51 | Color Flipper Button in 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-51-color-flipper-button-in-javascript-26m4)
 - [Dev.to/JS] [🚀 Introducing Load Stream: A Versatile File Upload Package](https://dev.to/deepaksuthar40128/introducing-load-stream-a-versatile-file-upload-package-208a)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GULF TECH MEP training center](https://dev.to/anfaspachu/gulf-tech-mep-training-center-474f)
 - [Dev.to/JS] [#4 Redux](https://dev.to/avinashrepo/4-redux-5b9k)
 - [Dev.to/JS] [#3 TCS Live Interview Converstion](https://dev.to/avinashrepo/3-tcs-live-interview-converstion-1m7d)
-- [Dev.to/JS] [How to set up your own proxy server in minutes?](https://dev.to/dhairyashah/how-to-set-up-your-own-proxy-server-in-minutes-4ke)
-- [Dev.to/JS] [#2 Js Live Interview Conversation](https://dev.to/avinashrepo/2-js-live-interview-conversation-3351)
-- [Dev.to/JS] [Interview on JS /React](https://dev.to/avinashrepo/built-in-function-535m)
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
