@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TW Elements - Create a Landing Page. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-create-a-landing-page-free-uiux-design-course-2chg)
 - [Dev.to/JS] [Different Types of Loops in JavaScript for Async/Await Calls](https://dev.to/aixart/different-types-of-loops-in-javascript-for-asyncawait-calls-219m)
 - [Dev.to/JS] [10 Must-Know JavaScript Tricks for Web Developers](https://dev.to/ackomjnr/10-must-know-javascript-tricks-for-web-developers-1dga)
 - [Dev.to/JS] [Code Smell 239 - Big Pull Request](https://dev.to/mcsee/code-smell-239-big-pull-request-25f3)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Enhancements in ASP.NET Core 8.0](https://dev.to/sardarmudassaralikhan/exploring-the-enhancements-in-aspnet-core-80-58fn)
 - [Dev.to/JS] [How is LiveCodes Free?!](https://dev.to/livecodes_io/how-is-livecodes-free-5a52)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.6](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-16-2pn)
-- [Dev.to/JS] [Optimizing Event Handlers in React using useCallback](https://dev.to/demola12/optimizing-event-handlers-in-react-using-usecallback-5hc3)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
