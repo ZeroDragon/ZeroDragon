@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Accessible Inline Spoilers](https://dev.to/kaikubasta/exploring-accessible-inline-spoilers-2kl9)
+- [Dev.to/JS] [How This Underrated Technique Saved My Team Hours of Debugging](https://dev.to/rijultp/how-this-underrated-technique-saved-my-team-hours-of-debugging-2fh1)
+- [Dev.to/JS] [React Router DOM and Link 🚀&quot;](https://dev.to/bishnoi_sushill/react-router-dom-and-link--15oh)
 - [Dev.to/JS] [Be a inventer Not &#39;Frameworker&#39;](https://dev.to/rudransh61/be-a-inventer-not-frameworker-1ehk)
 - [Dev.to/JS] [What is semantic version and why knowing semantic versioning matters!](https://dev.to/7may/what-is-semantic-version-and-why-knowing-semantic-versioning-matters-39c4)
 - [Dev.to/JS] [Demystifying Custom Hooks in React](https://dev.to/dev_waliba/demystifying-custom-hooks-in-react-38md)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Riflesso - Multipage agency theme. Built with Astro, Tailwind CSS](https://dev.to/lexingtonthemes/riflesso-multipage-agency-themebuilt-with-astro-tailwind-css-4kn7)
 - [Dev.to/JS] [Enlightr - E-learning multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/enlightr-e-learning-multipage-theme-built-with-astro-tailwind-css-mdx-2292)
 - [Dev.to/JS] [A Mostly Wrong Web Frameworks Comparison by Food Analogy](https://dev.to/herrington_darkholme/a-mostly-wrong-web-frameworks-comparison-by-food-analogy-3319)
-- [Dev.to/JS] [Effortless Testing Setup for React with Vite, TypeScript, Jest, and React Testing Library](https://dev.to/teyim/effortless-testing-setup-for-react-with-vite-typescript-jest-and-react-testing-library-1c48)
-- [Dev.to/JS] [How to connect to a MongoDB database in Sveltekit](https://dev.to/abdulmuminyqn/how-to-connect-to-a-mongodb-database-in-sveltekit-k5h)
-- [Dev.to/JS] [🔥Build A Movie Search App Using Redux Toolkit And React Router 6🔥](https://dev.to/myogeshchavan97/build-a-movie-search-app-using-redux-toolkit-and-react-router-6-4j3d)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
