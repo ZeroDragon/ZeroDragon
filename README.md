@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/chirasaksomphachon/buy-verified-paxful-account-388d)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/chirasaksomphachon/buy-google-voice-accounts-21ko)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/chirasaksomphachon/buy-google-5-star-reviews-59co)
 - [Dev.to/JS] [Riflesso - Multipage agency theme. Built with Astro, Tailwind CSS](https://dev.to/lexingtonthemes/riflesso-multipage-agency-themebuilt-with-astro-tailwind-css-4kn7)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🔥Build A Movie Search App Using Redux Toolkit And React Router 6🔥](https://dev.to/myogeshchavan97/build-a-movie-search-app-using-redux-toolkit-and-react-router-6-4j3d)
 - [Dev.to/JS] [TW Elements - Create a Landing Page. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-create-a-landing-page-free-uiux-design-course-2chg)
 - [Dev.to/JS] [Different Types of Loops in JavaScript for Async/Await Calls](https://dev.to/aixart/different-types-of-loops-in-javascript-for-asyncawait-calls-219m)
-- [Dev.to/JS] [10 Must-Know JavaScript Tricks for Web Developers](https://dev.to/ackomjnr/10-must-know-javascript-tricks-for-web-developers-1dga)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
