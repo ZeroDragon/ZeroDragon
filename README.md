@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [iPhone 15 Pro Max giveaway](https://dev.to/zahid013/iphone-15-pro-max-giveaway-3dj2)
+- [Dev.to/JS] [Create a Responsive and Beautiful Portfolio Website](https://dev.to/ackomjnr/create-a-responsive-and-beautiful-portfolio-website-575h)
 - [Dev.to/JS] [Avoid Infinite Loop When Using UseMemo with UseEffect](https://dev.to/ayako_yk/avoid-infinite-loop-when-using-usememo-with-useeffect-pgm)
 - [Dev.to/JS] [Optimizing Your Website for SEO and Speed in Ghana](https://dev.to/ackomjnr/optimizing-your-website-for-seo-and-speed-in-ghana-m23)
 - [Dev.to/JS] [Exploring the Enhancements in ASP.NET Core 8.0](https://dev.to/sardarmudassaralikhan/exploring-the-enhancements-in-aspnet-core-80-58fn)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AWS Copilot CLI, the Good the Bad, and the Results.](https://dev.to/morganney/aws-copilot-cli-the-good-the-bad-and-results-367d)
 - [Dev.to/JS] [Unveiling the Blueprint: TCS to Razorpay 🚀](https://dev.to/iamstackless/unveiling-the-blueprint-tcs-to-razorpay-a7h)
 - [Dev.to/JS] [How to implement Theme Switcher in JavaScript](https://dev.to/pavelkeyzik/how-to-implement-theme-switcher-in-javascript-53e)
-- [Dev.to/JS] [জাভাস্ক্রিপ্টে NaN মানে কি?](https://dev.to/am_imtiaz/jaabhaaskriptte-nan-maane-ki-j1m)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
-- [Dev.to/JS] [Building Tech Community](https://dev.to/devgancode/building-tech-community-1p3i)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
 - [Lifehacker] [Five Ways Home Sellers Can Screw You Over After the Closing](https://lifehacker.com/money/five-ways-home-sellers-can-screw-you)
