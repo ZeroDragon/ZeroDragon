@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.7](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-17-2c58)
+- [Dev.to/JS] [Azure Cosmos DB and its use with .NET](https://dev.to/sardarmudassaralikhan/azure-cosmos-db-and-its-use-with-net-31hl)
 - [Dev.to/JS] [Always learning together.](https://dev.to/willemdebeer/always-learning-together-47k1)
 - [Dev.to/JS] [How to Create Your Own Wordle Game in HTML, CSS, and JS](https://dev.to/azizbergach/how-to-create-your-own-wordle-game-in-html-css-and-js-3bgg)
 - [Dev.to/JS] [Technical Writer Interview Experience - Devtron](https://dev.to/devgancode/technical-writer-interview-experience-devtron-13j8)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boosting Developer Productivity: A Deep Dive into Advanced React Hooks Techniques](https://dev.to/nagasaikallakuri/boosting-developer-productivity-a-deep-dive-into-advanced-react-hooks-techniques-2me4)
 - [Dev.to/JS] [How to create an input search with debounce using Rxjs on Angular](https://dev.to/diogom/how-to-create-an-input-search-with-debounce-using-rxjs-on-angular-2i98)
 - [Dev.to/JS] [Boost Your React Components: A Beginner&#39;s Guide to React.memo, useMemo, and useCallback](https://dev.to/shivalkondwar/boost-your-react-components-a-beginners-guide-to-reactmemo-usememo-and-usecallback-1mac)
-- [Dev.to/JS] [Exploring Accessible Inline Spoilers](https://dev.to/kaikubasta/exploring-accessible-inline-spoilers-2kl9)
-- [Dev.to/JS] [How This Underrated Technique Saved My Team Hours of Debugging](https://dev.to/rijultp/how-this-underrated-technique-saved-my-team-hours-of-debugging-2fh1)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
