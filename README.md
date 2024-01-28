@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Be a inventer Not &#39;Frameworker&#39;](https://dev.to/rudransh61/be-a-inventer-not-frameworker-1ehk)
+- [Dev.to/JS] [What is semantic version and why knowing semantic versioning matters!](https://dev.to/7may/what-is-semantic-version-and-why-knowing-semantic-versioning-matters-39c4)
+- [Dev.to/JS] [Demystifying Custom Hooks in React](https://dev.to/dev_waliba/demystifying-custom-hooks-in-react-38md)
+- [Dev.to/JS] [How to build a zero-ETL DynamoDB integration with OpenSearch Service using AWS CDK](https://dev.to/aws-builders/how-to-build-a-zero-etl-dynamodb-integration-with-opensearch-service-using-aws-cdk-hih)
+- [Dev.to/JS] [Improving Your Vue.js Custom Drag-and-Drop File Uploading System](https://dev.to/davidking/improving-your-vuejs-custom-drag-and-drop-file-uploading-system-3532)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/chirasaksomphachon/buy-verified-paxful-account-388d)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/chirasaksomphachon/buy-google-voice-accounts-21ko)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/chirasaksomphachon/buy-google-5-star-reviews-59co)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enlightr - E-learning multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/enlightr-e-learning-multipage-theme-built-with-astro-tailwind-css-mdx-2292)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/chirasaksomphachon/buy-verified-cash-app-account-2h78)
 - [Dev.to/JS] [A Mostly Wrong Web Frameworks Comparison by Food Analogy](https://dev.to/herrington_darkholme/a-mostly-wrong-web-frameworks-comparison-by-food-analogy-3319)
-- [Dev.to/JS] [Effortless Testing Setup for React with Vite, TypeScript, Jest, and React Testing Library](https://dev.to/teyim/effortless-testing-setup-for-react-with-vite-typescript-jest-and-react-testing-library-1c48)
-- [Dev.to/JS] [How to connect to a MongoDB database in Sveltekit](https://dev.to/abdulmuminyqn/how-to-connect-to-a-mongodb-database-in-sveltekit-k5h)
-- [Dev.to/JS] [🔥Build A Movie Search App Using Redux Toolkit And React Router 6🔥](https://dev.to/myogeshchavan97/build-a-movie-search-app-using-redux-toolkit-and-react-router-6-4j3d)
-- [Dev.to/JS] [TW Elements - Create a Landing Page. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-create-a-landing-page-free-uiux-design-course-2chg)
-- [Dev.to/JS] [Different Types of Loops in JavaScript for Async/Await Calls](https://dev.to/aixart/different-types-of-loops-in-javascript-for-asyncawait-calls-219m)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
