@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Amp Credit Loan Customer/Care HelpLine Number 7439367021//9382521654/=just Call.](https://dev.to/ahj/amp-credit-loan-customercare-helpline-number-74393670219382521654just-call-1c9b)
+- [Dev.to/JS] [Always learning together.](https://dev.to/willemdebeer/always-learning-together-47k1)
 - [Dev.to/JS] [How to Create Your Own Wordle Game in HTML, CSS, and JS](https://dev.to/azizbergach/how-to-create-your-own-wordle-game-in-html-css-and-js-3bgg)
 - [Dev.to/JS] [Technical Writer Interview Experience - Devtron](https://dev.to/devgancode/technical-writer-interview-experience-devtron-13j8)
 - [Dev.to/JS] [Fully featured, modern and extensible editor](https://dev.to/malezjaa/fully-featured-modern-and-extensible-editor-2ehd)
