@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Boosting Developer Productivity: A Deep Dive into Advanced React Hooks Techniques](https://dev.to/nagasaikallakuri/boosting-developer-productivity-a-deep-dive-into-advanced-react-hooks-techniques-2me4)
+- [Dev.to/JS] [How to create an input search with debounce using Rxjs on Angular](https://dev.to/diogom/how-to-create-an-input-search-with-debounce-using-rxjs-on-angular-2i98)
+- [Dev.to/JS] [Boost Your React Components: A Beginner&#39;s Guide to React.memo, useMemo, and useCallback](https://dev.to/shivalkondwar/boost-your-react-components-a-beginners-guide-to-reactmemo-usememo-and-usecallback-1mac)
 - [Dev.to/JS] [Exploring Accessible Inline Spoilers](https://dev.to/kaikubasta/exploring-accessible-inline-spoilers-2kl9)
 - [Dev.to/JS] [How This Underrated Technique Saved My Team Hours of Debugging](https://dev.to/rijultp/how-this-underrated-technique-saved-my-team-hours-of-debugging-2fh1)
 - [Dev.to/JS] [React Router DOM and Link 🚀&quot;](https://dev.to/bishnoi_sushill/react-router-dom-and-link--15oh)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [pnpm - A better package manager for Node.js](https://dev.to/mir_mursalin_ankur/pnpm-a-better-package-manager-for-nodejs-12l7)
 - [Dev.to/JS] [How to build a zero-ETL DynamoDB integration with OpenSearch Service using AWS CDK](https://dev.to/aws-builders/how-to-build-a-zero-etl-dynamodb-integration-with-opensearch-service-using-aws-cdk-hih)
 - [Dev.to/JS] [Improving Your Vue.js Custom Drag-and-Drop File Uploading System](https://dev.to/davidking/improving-your-vuejs-custom-drag-and-drop-file-uploading-system-3532)
-- [Dev.to/JS] [Riflesso - Multipage agency theme. Built with Astro, Tailwind CSS](https://dev.to/lexingtonthemes/riflesso-multipage-agency-themebuilt-with-astro-tailwind-css-4kn7)
-- [Dev.to/JS] [Enlightr - E-learning multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/enlightr-e-learning-multipage-theme-built-with-astro-tailwind-css-mdx-2292)
-- [Dev.to/JS] [A Mostly Wrong Web Frameworks Comparison by Food Analogy](https://dev.to/herrington_darkholme/a-mostly-wrong-web-frameworks-comparison-by-food-analogy-3319)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
