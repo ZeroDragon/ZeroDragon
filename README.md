@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Must-Know JavaScript Tricks for Web Developers](https://dev.to/ackomjnr/10-must-know-javascript-tricks-for-web-developers-1dga)
+- [Dev.to/JS] [Code Smell 239 - Big Pull Request](https://dev.to/mcsee/code-smell-239-big-pull-request-25f3)
+- [Dev.to/JS] [3 fundamental concepts in Javascript OOP](https://dev.to/junlow/3-fundamental-concepts-in-javascript-oop-12fn)
 - [Dev.to/JS] [iPhone 15 Pro Max giveaway](https://dev.to/zahid013/iphone-15-pro-max-giveaway-3dj2)
 - [Dev.to/JS] [Create a Responsive and Beautiful Portfolio Website](https://dev.to/ackomjnr/create-a-responsive-and-beautiful-portfolio-website-575h)
 - [Dev.to/JS] [Avoid Infinite Loop When Using UseMemo with UseEffect](https://dev.to/ayako_yk/avoid-infinite-loop-when-using-usememo-with-useeffect-pgm)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.6](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-16-2pn)
 - [Dev.to/JS] [Optimizing Event Handlers in React using useCallback](https://dev.to/demola12/optimizing-event-handlers-in-react-using-usecallback-5hc3)
 - [Dev.to/JS] [How do I know if I need Core-js as a dependency?](https://dev.to/aboesig/how-do-i-know-if-i-need-core-js-as-a-dependency-2ojo)
-- [Dev.to/JS] [AWS Copilot CLI, the Good the Bad, and the Results.](https://dev.to/morganney/aws-copilot-cli-the-good-the-bad-and-results-367d)
-- [Dev.to/JS] [Unveiling the Blueprint: TCS to Razorpay 🚀](https://dev.to/iamstackless/unveiling-the-blueprint-tcs-to-razorpay-a7h)
-- [Dev.to/JS] [How to implement Theme Switcher in JavaScript](https://dev.to/pavelkeyzik/how-to-implement-theme-switcher-in-javascript-53e)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
