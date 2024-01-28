@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Amp Credit Loan Customer/Care HelpLine Number 7439367021//9382521654/=just Call.](https://dev.to/ahj/amp-credit-loan-customercare-helpline-number-74393670219382521654just-call-1c9b)
+- [Dev.to/JS] [How to Create Your Own Wordle Game in HTML, CSS, and JS](https://dev.to/azizbergach/how-to-create-your-own-wordle-game-in-html-css-and-js-3bgg)
+- [Dev.to/JS] [Technical Writer Interview Experience - Devtron](https://dev.to/devgancode/technical-writer-interview-experience-devtron-13j8)
+- [Dev.to/JS] [Fully featured, modern and extensible editor](https://dev.to/malezjaa/fully-featured-modern-and-extensible-editor-2ehd)
 - [Dev.to/JS] [mua chung Flipmine](https://dev.to/wsovn112/mua-chung-flipmine-191j)
 - [Dev.to/JS] [👨‍💻 Daily Code 52 | +1 &amp; -1 Buttons in 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-52-1-1-buttons-in-javascript-53o)
 - [Dev.to/JS] [Integrate Strapi on Nuxt](https://dev.to/thomasbnt/integrate-strapi-on-nuxt-1lde)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boost Your React Components: A Beginner&#39;s Guide to React.memo, useMemo, and useCallback](https://dev.to/shivalkondwar/boost-your-react-components-a-beginners-guide-to-reactmemo-usememo-and-usecallback-1mac)
 - [Dev.to/JS] [Exploring Accessible Inline Spoilers](https://dev.to/kaikubasta/exploring-accessible-inline-spoilers-2kl9)
 - [Dev.to/JS] [How This Underrated Technique Saved My Team Hours of Debugging](https://dev.to/rijultp/how-this-underrated-technique-saved-my-team-hours-of-debugging-2fh1)
-- [Dev.to/JS] [React Router DOM and Link 🚀&quot;](https://dev.to/bishnoi_sushill/react-router-dom-and-link--15oh)
-- [Dev.to/JS] [Be a inventer Not &#39;Frameworker&#39;](https://dev.to/rudransh61/be-a-inventer-not-frameworker-1ehk)
-- [Dev.to/JS] [What is semantic version and why knowing semantic versioning matters!](https://dev.to/7may/what-is-semantic-version-and-why-knowing-semantic-versioning-matters-39c4)
-- [Dev.to/JS] [Demystifying Custom Hooks in React](https://dev.to/dev_waliba/demystifying-custom-hooks-in-react-38md)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
