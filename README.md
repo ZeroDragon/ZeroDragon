@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to connect to a MongoDB database in Sveltekit](https://dev.to/abdulmuminyqn/how-to-connect-to-a-mongodb-database-in-sveltekit-k5h)
 - [Dev.to/JS] [🔥Build A Movie Search App Using Redux Toolkit And React Router 6🔥](https://dev.to/myogeshchavan97/build-a-movie-search-app-using-redux-toolkit-and-react-router-6-4j3d)
 - [Dev.to/JS] [TW Elements - Create a Landing Page. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-create-a-landing-page-free-uiux-design-course-2chg)
 - [Dev.to/JS] [Different Types of Loops in JavaScript for Async/Await Calls](https://dev.to/aixart/different-types-of-loops-in-javascript-for-asyncawait-calls-219m)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Avoid Infinite Loop When Using UseMemo with UseEffect](https://dev.to/ayako_yk/avoid-infinite-loop-when-using-usememo-with-useeffect-pgm)
 - [Dev.to/JS] [Optimizing Your Website for SEO and Speed in Ghana](https://dev.to/ackomjnr/optimizing-your-website-for-seo-and-speed-in-ghana-m23)
 - [Dev.to/JS] [Exploring the Enhancements in ASP.NET Core 8.0](https://dev.to/sardarmudassaralikhan/exploring-the-enhancements-in-aspnet-core-80-58fn)
-- [Dev.to/JS] [How is LiveCodes Free?!](https://dev.to/livecodes_io/how-is-livecodes-free-5a52)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
