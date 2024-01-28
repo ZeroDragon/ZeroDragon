@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Different Types of Loops in JavaScript for Async/Await Calls](https://dev.to/aixart/different-types-of-loops-in-javascript-for-asyncawait-calls-219m)
 - [Dev.to/JS] [10 Must-Know JavaScript Tricks for Web Developers](https://dev.to/ackomjnr/10-must-know-javascript-tricks-for-web-developers-1dga)
 - [Dev.to/JS] [Code Smell 239 - Big Pull Request](https://dev.to/mcsee/code-smell-239-big-pull-request-25f3)
 - [Dev.to/JS] [3 fundamental concepts in Javascript OOP](https://dev.to/junlow/3-fundamental-concepts-in-javascript-oop-12fn)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How is LiveCodes Free?!](https://dev.to/livecodes_io/how-is-livecodes-free-5a52)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.6](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-16-2pn)
 - [Dev.to/JS] [Optimizing Event Handlers in React using useCallback](https://dev.to/demola12/optimizing-event-handlers-in-react-using-usecallback-5hc3)
-- [Dev.to/JS] [How do I know if I need Core-js as a dependency?](https://dev.to/aboesig/how-do-i-know-if-i-need-core-js-as-a-dependency-2ojo)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
