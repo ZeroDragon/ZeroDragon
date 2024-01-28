@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [mua chung Flipmine](https://dev.to/wsovn112/mua-chung-flipmine-191j)
+- [Dev.to/JS] [👨‍💻 Daily Code 52 | +1 &amp; -1 Buttons in 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-52-1-1-buttons-in-javascript-53o)
+- [Dev.to/JS] [Integrate Strapi on Nuxt](https://dev.to/thomasbnt/integrate-strapi-on-nuxt-1lde)
 - [Dev.to/JS] [Boosting Developer Productivity: A Deep Dive into Advanced React Hooks Techniques](https://dev.to/nagasaikallakuri/boosting-developer-productivity-a-deep-dive-into-advanced-react-hooks-techniques-2me4)
 - [Dev.to/JS] [How to create an input search with debounce using Rxjs on Angular](https://dev.to/diogom/how-to-create-an-input-search-with-debounce-using-rxjs-on-angular-2i98)
 - [Dev.to/JS] [Boost Your React Components: A Beginner&#39;s Guide to React.memo, useMemo, and useCallback](https://dev.to/shivalkondwar/boost-your-react-components-a-beginners-guide-to-reactmemo-usememo-and-usecallback-1mac)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Be a inventer Not &#39;Frameworker&#39;](https://dev.to/rudransh61/be-a-inventer-not-frameworker-1ehk)
 - [Dev.to/JS] [What is semantic version and why knowing semantic versioning matters!](https://dev.to/7may/what-is-semantic-version-and-why-knowing-semantic-versioning-matters-39c4)
 - [Dev.to/JS] [Demystifying Custom Hooks in React](https://dev.to/dev_waliba/demystifying-custom-hooks-in-react-38md)
-- [Dev.to/JS] [pnpm - A better package manager for Node.js](https://dev.to/mir_mursalin_ankur/pnpm-a-better-package-manager-for-nodejs-12l7)
-- [Dev.to/JS] [How to build a zero-ETL DynamoDB integration with OpenSearch Service using AWS CDK](https://dev.to/aws-builders/how-to-build-a-zero-etl-dynamodb-integration-with-opensearch-service-using-aws-cdk-hih)
-- [Dev.to/JS] [Improving Your Vue.js Custom Drag-and-Drop File Uploading System](https://dev.to/davidking/improving-your-vuejs-custom-drag-and-drop-file-uploading-system-3532)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
