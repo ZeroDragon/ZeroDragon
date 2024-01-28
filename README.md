@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Avoid Infinite Loop When Using UseMemo with UseEffect](https://dev.to/ayako_yk/avoid-infinite-loop-when-using-usememo-with-useeffect-pgm)
+- [Dev.to/JS] [Optimizing Your Website for SEO and Speed in Ghana](https://dev.to/ackomjnr/optimizing-your-website-for-seo-and-speed-in-ghana-m23)
 - [Dev.to/JS] [Exploring the Enhancements in ASP.NET Core 8.0](https://dev.to/sardarmudassaralikhan/exploring-the-enhancements-in-aspnet-core-80-58fn)
 - [Dev.to/JS] [How is LiveCodes Free?!](https://dev.to/livecodes_io/how-is-livecodes-free-5a52)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.6](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-16-2pn)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Dev.to/JS] [Building Tech Community](https://dev.to/devgancode/building-tech-community-1p3i)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
-- [Dev.to/JS] [Good practices for unit testing with the React Testing Library and beyond.](https://dev.to/jagodabieniek/good-practices-for-unit-testing-with-the-react-testing-library-and-beyond-33d6)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
-- [Dev.to/JS] [How to Implement Modal using React Router v6](https://dev.to/iamdete/how-to-implement-modal-using-react-router-v6-1egk)
 - [Lifehacker] [Five Ways Home Sellers Can Screw You Over After the Closing](https://lifehacker.com/money/five-ways-home-sellers-can-screw-you)
 - [Lifehacker] [A Parenting Coach Is More Useful Than People Think](https://lifehacker.com/family/what-does-a-parenting-coach-do)
 - [Lifehacker] [You Can Get This Goplus Rowing Machine on Sale for $190 Right Now](https://lifehacker.com/health/goplus-rowing-machine-sale)
