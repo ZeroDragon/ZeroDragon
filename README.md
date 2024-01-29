@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.8](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-18-41jp)
 - [Dev.to/JS] [AI for Web Devs: AI Image Generation](https://dev.to/austingil/ai-for-web-devs-ai-image-generation-3bd5)
 - [Dev.to/JS] [How to send in-app notifications with Next.js](https://dev.to/knocklabs/how-to-send-in-app-notifications-with-nextjs-4eab)
+- [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100 Right Now](https://lifehacker.com/prism-cloud-storage-sale)
 - [Dev.to/JS] [Why Typescript over Javascript](https://dev.to/rohit_7703/why-typescript-over-javascript-1p0)
+- [Lifehacker] [Refurbished Garmin Smartwatches Are Majorly Discounted Right Now](https://lifehacker.com/tech/refurbished-garmin-smartwatches-sale-woot)
 - [Dev.to/JS] [Ng-News 24/04: .ng &amp; .analog, DDD with Manfred Steyer, Angular Query Tomasz Ducin](https://dev.to/this-is-angular/ng-news-2404-ng-analog-ddd-with-manfred-steyer-angular-query-tomasz-ducin-5735)
 - [Dev.to/JS] [Conversational Approval process using Adaptive Cards and JSON objects](https://dev.to/mcombp/conversational-approval-process-using-adaptive-cards-and-json-objects-4mih)
 - [Lifehacker] [Shazam Can Now Identify Songs While You&#39;re Wearing Headphones](https://lifehacker.com/tech/shazam-can-identify-songs-while-wearing-headphones)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AMP Credit Customer care Helpline number⚡ ✔️7477325529*//9706590327 Contact Us.](https://dev.to/innkbkm/amp-credit-customer-care-helpline-number74773255299706590327-contact-us-2lkp)
 - [Lifehacker] [Everyone Can Now Disable Read Receipts on Instagram DMs](https://lifehacker.com/how-to-disable-read-receipts-on-instagram-dms)
 - [Dev.to/JS] [Loan Star Customer care Helpline number⚡ ✔️7477325529*//9706590327 Contact Us.](https://dev.to/innkbkm/loan-star-customer-care-helpline-number74773255299706590327-contact-us-85i)
-- [Dev.to/JS] [Type Script](https://dev.to/akmaurya31/type-script-5cgf)
 - [Lifehacker] [Three Ways to Use the &#39;One in, One Out&#39; Method to Slowly Declutter Your Home](https://lifehacker.com/home/how-to-use-one-in-one-out-trend-to-declutter-over-time)
 - [Lifehacker] [The Two Best Ways to Stem Kale and Other Bitter Greens](https://lifehacker.com/food-drink/how-to-stem-kale)
 - [Lifehacker] [The Best Ways to Lay Out Your Vegetable Garden](https://lifehacker.com/home/how-to-design-vegetable-garden)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Create Your Own AI Art in Microsoft Paint](https://lifehacker.com/tech/how-to-create-ai-art-in-microsoft-paint-with-cocreator)
 - [Lifehacker] [Use the &#39;HEFE&#39; Method to Strike Up a Conversation](https://lifehacker.com/health/use-the-hefe-method-to-get-better-at-small-talk)
 - [Lifehacker] [Six ‘Builder-grade’ Home Features You Don’t Need to Upgrade](https://lifehacker.com/money/builder-grade-home-features-you-dont-need-to-upgrade)
-- [Lifehacker] [You Can Get This Refurbished iPad 9 on Sale for $412 Right Now](https://lifehacker.com/tech/refurbished-ipad-9-sale)
-- [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
-- [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Refurbished iPad 9 on Sale for $412 Right Now](https://lifehacker.com/tech/refurbished-ipad-9-sale)<!-- TECH-POSTS:END -->
 
 ---
 
