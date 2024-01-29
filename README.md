@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [whaht is problem](https://dev.to/mistyislam5/whaht-is-problem-h9f)
+- [Dev.to/JS] [https://sites.google.com/view/jkh5525/home](https://dev.to/shamim1/httpssitesgooglecomviewjkh5525home-5hd8)
 - [Dev.to/JS] [I need some feedback on my work.](https://dev.to/maxjerry0107/i-need-some-feedback-on-my-work-57gn)
 - [Dev.to/JS] [New Here!](https://dev.to/codewithili/new-here-3g2e)
 - [Dev.to/JS] [ChatGPT clone with React Suspense and Streaming](https://dev.to/fibonacid/chatgpt-clone-with-react-suspense-and-streaming-11me)
 - [Dev.to/JS] [Why do people use Axios instead of Fetch](https://dev.to/nikolasbarwicki/why-do-people-use-axios-instead-of-fetch-5apk)
 - [Dev.to/JS] [mua chung Interest Explore](https://dev.to/wsovn112/mua-chung-interest-explore-2dci)
 - [Dev.to/JS] [How to get this &lpar;mainitbd.com&rpar; website ranked #1 in google](https://dev.to/mainitbd/how-to-get-this-mainitbdcom-website-ranked-1-in-google-465g)
+- [Lifehacker] [Six Reasons Your Home Isn&#39;t Selling &lpar;and What to Do About It&rpar;](https://lifehacker.com/money/why-your-home-isnt-selling)
 - [Dev.to/JS] [Explore the High Dreams Collection: Online Exclusive Rolling Tray and Grinder Sets](https://dev.to/rubypraveen/explore-the-high-dreams-collection-online-exclusive-rolling-tray-and-grinder-sets-187m)
 - [Dev.to/JS] [Preventing Equivalent Reactive Computing](https://dev.to/ninjin/preventing-equivalent-reactive-computing-4hk5)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/charoenbunma7/buy-verified-paxful-account-1k8k)
+- [Lifehacker] [This Is Actually the Best Way to Reheat Fries](https://lifehacker.com/how-to-reheat-fries-in-an-air-fryer)
 - [Dev.to/JS] [ACID in DB](https://dev.to/akmaurya31/acid-in-db-9n0)
-- [Dev.to/JS] [jQuery cross-browser compatibility: fixing JavaScript cross-browser incompatibility using jQuery](https://dev.to/mcbarna/jquery-cross-browser-compatibility-fixing-javascript-cross-browser-incompatibility-using-jquery-3ai3)
-- [Dev.to/JS] [&quot;Hotstar APK for PC: Elevating Entertainment with Seamless Streaming on a Larger Screen&quot;](https://dev.to/aleksdgrifti65/hotstar-apk-for-pc-elevating-entertainment-with-seamless-streaming-on-a-larger-screen-35jh)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [These Are the Most Effective Ab Exercises](https://lifehacker.com/health/the-best-ab-exercises)
 - [Lifehacker] [How to Keep Anyone From Accessing Your iCloud Data After You Die](https://lifehacker.com/tech/how-to-keep-your-icloud-data-safe-after-you-die)
-- [Lifehacker] [19 Eggless Desserts to Satisfy Any Sweet Tooth](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)
-- [Lifehacker] [This TSA-Approved Fingerprint Lock Is on Sale for $45 Right Now](https://lifehacker.com/travel/fingerprint-travel-lock-sale)
-- [Lifehacker] [The Best Card Games for Couples to Play on Date Night](https://lifehacker.com/relationships/card-games-for-date-night)<!-- TECH-POSTS:END -->
+- [Lifehacker] [19 Eggless Desserts to Satisfy Any Sweet Tooth](https://lifehacker.com/19-eggless-desserts-to-help-you-cope-with-eggflation-1850071224)<!-- TECH-POSTS:END -->
 
 ---
 
