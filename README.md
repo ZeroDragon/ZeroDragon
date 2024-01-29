@@ -26,19 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AMP Credit Loan Customer care Helpline number⚡ ✔️7477325529*//9706590327 Contact Us.](https://dev.to/innkbkm/amp-credit-loan-customer-care-helpline-number74773255299706590327-contact-us-2hc6)
+- [Dev.to/JS] [AMP Credit Customer care Helpline number⚡ ✔️7477325529*//9706590327 Contact Us.](https://dev.to/innkbkm/amp-credit-customer-care-helpline-number74773255299706590327-contact-us-2lkp)
+- [Dev.to/JS] [Loan Star Customer care Helpline number⚡ ✔️7477325529*//9706590327 Contact Us.](https://dev.to/innkbkm/loan-star-customer-care-helpline-number74773255299706590327-contact-us-85i)
+- [Dev.to/JS] [Type Script](https://dev.to/akmaurya31/type-script-5cgf)
+- [Lifehacker] [Three Ways to Use the &#39;One in, One Out&#39; Method to Slowly Declutter Your Home](https://lifehacker.com/home/how-to-use-one-in-one-out-trend-to-declutter-over-time)
 - [Dev.to/JS] [Typescript](https://dev.to/akmaurya31/typescript-4h2i)
 - [Dev.to/JS] [Daily Code 53 | 🎨 Interactive Color Changing Grid](https://dev.to/gregor_schafroth/daily-code-53-interactive-color-changing-grid-f8a)
 - [Dev.to/JS] [Nonograms](https://dev.to/mog13/nonograms-3cjl)
+- [Lifehacker] [The Two Best Ways to Stem Kale and Other Bitter Greens](https://lifehacker.com/food-drink/how-to-stem-kale)
 - [Dev.to/JS] [TypeScript&#39;s Successor is Waiting, and You&#39;ll Never Want to Turn Back](https://dev.to/aarvinr/typescripts-successor-is-waiting-and-youll-never-want-to-turn-back-5cb0)
 - [Dev.to/JS] [TW Elements - Grid system in Tailwind CSS. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-grid-system-in-tailwind-css-free-uiux-design-course-1ko0)
+- [Lifehacker] [The Best Ways to Lay Out Your Vegetable Garden](https://lifehacker.com/home/how-to-design-vegetable-garden)
 - [Dev.to/JS] [Charting My Path for February-March: What&#39;s Yours?](https://dev.to/elvissautet/charting-my-path-for-february-march-whats-yours-24ek)
 - [Dev.to/JS] [My experience with a headless CMS &lpar;Strapi&rpar;](https://dev.to/abir777/my-experience-with-a-headless-cms-strapi-3j9o)
 - [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/mursalfk/javascript-cheatsheet-2b72)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/charoenbunma7/buy-verified-cash-app-account-219b)
-- [Dev.to/JS] [Key Features And Benefits Of Using Typescript With Javascript In Modern Web Development](https://dev.to/anujpandeyin/key-features-and-benefits-of-using-typescript-with-javascript-in-modern-web-development-381i)
 - [Lifehacker] [The Best Mesh Networking Systems to Buy in 2024](https://lifehacker.com/tech/best-mesh-networking-systems)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/charoenbunma7/buy-google-reviews-4pik)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/charoenbunma7/buy-google-voice-accounts-58b9)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in February 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-february-2024)
 - [Lifehacker] [How To Change the Wifi Password on Your Router](https://lifehacker.com/tech/how-to-change-your-wi-fi-router-password)
 - [Lifehacker] [Use These Apps to Stop AI From Stealing Your Art](https://lifehacker.com/tech/use-glaze-and-nightshade-to-stop-ai-from-stealing-your-art)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
 - [Lifehacker] [How Apps Use Push Notifications to Spy on You &lpar;and How to Stop Them&rpar;](https://lifehacker.com/tech/how-to-stop-apps-from-using-push-notifications-to-spy-on-you)
-- [Lifehacker] [Will TikTok&#39;s &#39;Sleepy Girl Mocktail&#39; Actually Help You Sleep?](https://lifehacker.com/health/does-tiktoks-sleepy-girl-mocktail-work)
-- [Lifehacker] [You Can Get This TruGolf Golf Simulator on Sale for $230 Right Now](https://lifehacker.com/trugolf-golf-simulator-sale)
-- [Lifehacker] [A Bunch of Big Screen TVs Are 40% Off at Amazon Right Now](https://lifehacker.com/tech/hisense-u6-uled-series-tv-sale)
-- [Lifehacker] [An Age-By-Age Guide to Instilling Gratitude in Kids](https://lifehacker.com/family/how-to-instill-gratitude-in-kids)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Will TikTok&#39;s &#39;Sleepy Girl Mocktail&#39; Actually Help You Sleep?](https://lifehacker.com/health/does-tiktoks-sleepy-girl-mocktail-work)<!-- TECH-POSTS:END -->
 
 ---
 
