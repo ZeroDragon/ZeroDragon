@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Mongo DB](https://dev.to/akmaurya31/10-mongo-db-5636)
+- [Dev.to/JS] [Integrating CKEditor 5 with Next.js 13.4 &lpar;Page Router&rpar;: A Step-by-Step Guide](https://dev.to/fazlay/integrating-ckeditor-5-with-nextjs-134-page-router-a-step-by-step-guide-iak)
+- [Dev.to/JS] [JavaScript vs TypeScript: A Thorough Comparison](https://dev.to/shariqahmed525/javascript-vs-typescript-a-thorough-comparison-327h)
+- [Dev.to/JS] [Combine Proxy traps with the Reflect API](https://dev.to/phuocng/combine-proxy-traps-with-the-reflect-api-5af0)
+- [Dev.to/JS] [700+ remote Freindly companies!](https://dev.to/dev_abdulhaseeb/700-remote-freindly-companies-11ag)
 - [Dev.to/JS] [Test your Compute apps end-to-end with JavaScript](https://dev.to/fastly/test-your-compute-apps-end-to-end-with-javascript-3nko)
 - [Dev.to/JS] [9 Interview on node](https://dev.to/akmaurya31/9-interview-on-node-131h)
 - [Dev.to/JS] [Abstract Classes in JavaScript](https://dev.to/rheedhar/abstract-classes-in-javascript-5al3)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.7](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-17-2c58)
 - [Dev.to/JS] [Azure Cosmos DB and its use with .NET](https://dev.to/sardarmudassaralikhan/azure-cosmos-db-and-its-use-with-net-31hl)
 - [Dev.to/JS] [Always learning together.](https://dev.to/willemdebeer/always-learning-together-47k1)
-- [Dev.to/JS] [How to Create Your Own Wordle Game in HTML, CSS, and JS](https://dev.to/azizbergach/how-to-create-your-own-wordle-game-in-html-css-and-js-3bgg)
-- [Dev.to/JS] [Technical Writer Interview Experience - Devtron](https://dev.to/devgancode/technical-writer-interview-experience-devtron-13j8)
-- [Dev.to/JS] [Fully featured, modern and extensible editor](https://dev.to/malezjaa/fully-featured-modern-and-extensible-editor-2ehd)
-- [Dev.to/JS] [mua chung Flipmine](https://dev.to/wsovn112/mua-chung-flipmine-191j)
-- [Dev.to/JS] [👨‍💻 Daily Code 52 | +1 &amp; -1 Buttons in 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-52-1-1-buttons-in-javascript-53o)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
