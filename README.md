@@ -26,21 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/mursalfk/javascript-cheatsheet-2b72)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/charoenbunma7/buy-verified-cash-app-account-219b)
+- [Dev.to/JS] [Key Features And Benefits Of Using Typescript With Javascript In Modern Web Development](https://dev.to/anujpandeyin/key-features-and-benefits-of-using-typescript-with-javascript-in-modern-web-development-381i)
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/charoenbunma7/buy-google-reviews-4pik)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/charoenbunma7/buy-google-voice-accounts-58b9)
+- [Dev.to/JS] [How to learn Go as a JavaScript/TypeScript Dev?](https://dev.to/holymark/how-to-learn-go-as-a-javascripttypescript-dev-gmg)
+- [Dev.to/JS] [Elevate Your React Code: Tackling Prop Drilling](https://dev.to/tiagof/elevate-your-react-code-tackling-prop-drilling-26e0)
+- [Dev.to/JS] [Guide to ESLint &amp; Prettier with Nuxt 3](https://dev.to/nikitadmitr/configure-eslint-prettier-for-nuxt-3-45f7)
 - [Dev.to/JS] [Supercharge your GitHub profile with 30 cool JavaScript projects](https://dev.to/monicafidalgo/supercharge-your-github-profile-with-30-cool-javascript-projects-3chi)
 - [Dev.to/JS] [How to implement VUE HEADER component?](https://dev.to/doogiemuc/how-to-implement-vue-header-component-27jo)
 - [Dev.to/JS] [A Tribute to React](https://dev.to/aantipov/a-tribute-to-react-2dci)
+- [Lifehacker] [Use These Apps to Stop AI From Stealing Your Art](https://lifehacker.com/tech/use-glaze-and-nightshade-to-stop-ai-from-stealing-your-art)
 - [Lifehacker] [12 Podcasts for People Who Miss &#39;Reply All&#39;](https://lifehacker.com/entertainment/podcasts-for-people-who-miss-reply-all)
 - [Dev.to/JS] [whaht is problem](https://dev.to/mistyislam5/whaht-is-problem-h9f)
-- [Dev.to/JS] [https://sites.google.com/view/jkh5525/home](https://dev.to/shamim1/httpssitesgooglecomviewjkh5525home-5hd8)
 - [Lifehacker] [You Can Get This PC Gaming Cheats Subscription on Sale for $50 Right Now](https://lifehacker.com/entertainment/pc-gaming-cheats-sale)
-- [Dev.to/JS] [I need some feedback on my work.](https://dev.to/maxjerry0107/i-need-some-feedback-on-my-work-57gn)
-- [Dev.to/JS] [New Here!](https://dev.to/codewithili/new-here-3g2e)
-- [Dev.to/JS] [ChatGPT clone with React Suspense and Streaming](https://dev.to/fibonacid/chatgpt-clone-with-react-suspense-and-streaming-11me)
-- [Dev.to/JS] [Why do people use Axios instead of Fetch](https://dev.to/nikolasbarwicki/why-do-people-use-axios-instead-of-fetch-5apk)
-- [Dev.to/JS] [mua chung Interest Explore](https://dev.to/wsovn112/mua-chung-interest-explore-2dci)
-- [Dev.to/JS] [How to get this &lpar;mainitbd.com&rpar; website ranked #1 in google](https://dev.to/mainitbd/how-to-get-this-mainitbdcom-website-ranked-1-in-google-465g)
 - [Lifehacker] [Six Reasons Your Home Isn&#39;t Selling &lpar;and What to Do About It&rpar;](https://lifehacker.com/money/why-your-home-isnt-selling)
-- [Dev.to/JS] [Explore the High Dreams Collection: Online Exclusive Rolling Tray and Grinder Sets](https://dev.to/rubypraveen/explore-the-high-dreams-collection-online-exclusive-rolling-tray-and-grinder-sets-187m)
 - [Lifehacker] [This Is Actually the Best Way to Reheat Fries](https://lifehacker.com/how-to-reheat-fries-in-an-air-fryer)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-By-Age Guide to Instilling Gratitude in Kids](https://lifehacker.com/family/how-to-instill-gratitude-in-kids)
 - [Lifehacker] [TikTok’s Viral ‘Core 4’ Method Might Finally Help You Declutter Your Home](https://lifehacker.com/home/declutter-your-home-with-tiktoks-viral-core-4-method)
 - [Lifehacker] [Dyson, Shark, and Samsung All Have Deals on Stick Vacuum Cleaners Right Now](https://lifehacker.com/home/best-stick-vacuum-cleaner-deals)
-- [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
-- [Lifehacker] [These Are the Most Effective Ab Exercises](https://lifehacker.com/health/the-best-ab-exercises)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
