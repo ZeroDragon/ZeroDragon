@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PHP vs Backend Node](https://dev.to/akmaurya31/php-vs-node-3di5)
+- [Dev.to/JS] [Compare MySQL vs MongoDB](https://dev.to/akmaurya31/compare-mysql-vs-mongodb-3oml)
 - [Dev.to/JS] [Gemini: ChatSession with Kendo Conversational UI and Angular](https://dev.to/danywalls/gemini-chatsession-with-kendo-conversational-ui-and-angular-124l)
 - [Dev.to/JS] [Create Your Personalized Gemini Chat with Conversational UI and Angular](https://dev.to/danywalls/create-your-personalized-gemini-chat-with-conversational-ui-and-angular-g2b)
-- [Dev.to/JS] [The SOLID principle](https://dev.to/mohammadbahmani/the-solid-principle-2bm5)
+- [Dev.to/JS] [SOLID Principles: A Must-Know for All Developers](https://dev.to/mohammadbahmani/the-solid-principle-2bm5)
 - [Dev.to/JS] [Admin Dashboard](https://dev.to/codingmadeeasy/admin-dashboard-57ph)
 - [Dev.to/JS] [Web components](https://dev.to/vpavlou/web-components-8io)
 - [Dev.to/JS] [Outbound Voice Calls on AWS](https://dev.to/aws-heroes/outbound-voice-calls-on-aws-40mb)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MongoDB](https://dev.to/akmaurya31/mongodb-2cja)
 - [Dev.to/JS] [Jest: Exceeded Timeout of 5000 ms for a Test](https://dev.to/thearkein/jest-exceeded-timeout-of-5000-ms-for-a-test-4n06)
 - [Dev.to/JS] [Jest: Exceeded Timeout of 5000 ms for a Test](https://dev.to/thearkein/jest-exceeded-timeout-of-5000-ms-for-a-test-nif)
-- [Dev.to/JS] [A new way to build websites? Feedback is needed for my application themex.](https://dev.to/karsten_biedermann_de037d/a-new-way-to-build-websites-ask-for-feedback-for-themex-1oj6)
-- [Dev.to/JS] [TF #32 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-32-your-weekly-frontend-digest-2i77)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
