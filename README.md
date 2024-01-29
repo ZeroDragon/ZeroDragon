@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Typescript over Javascript](https://dev.to/rohit_7703/why-typescript-over-javascript-1p0)
+- [Dev.to/JS] [Ng-News 24/04: .ng &amp; .analog, DDD with Manfred Steyer, Angular Query Tomasz Ducin](https://dev.to/this-is-angular/ng-news-2404-ng-analog-ddd-with-manfred-steyer-angular-query-tomasz-ducin-5735)
+- [Dev.to/JS] [Conversational Approval process using Adaptive Cards and JSON objects](https://dev.to/mcombp/conversational-approval-process-using-adaptive-cards-and-json-objects-4mih)
 - [Dev.to/JS] [mua chung Kadence WP](https://dev.to/wsovn112/mua-chung-kadence-wp-1io1)
+- [Lifehacker] [Stream These TV Shows When You Need Cleaning Inspiration](https://lifehacker.com/home/best-tv-shows-to-stream-for-cleaning-inspiration)
 - [Dev.to/JS] [Using Hono with SvelteKit - Full type-safety with RPC](https://dev.to/bop/using-hono-with-sveltekit-full-type-safety-with-rpc-2h7)
 - [Dev.to/JS] [Vue Nice Validate](https://dev.to/yogeshgalav7/vue-nice-validate-1bd7)
 - [Lifehacker] [All the Ways an Outdoor Furnace Can Improve Your Winter](https://lifehacker.com/home/are-outdoor-furnaces-worth-it)
@@ -38,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Use the &#39;One in, One Out&#39; Method to Slowly Declutter Your Home](https://lifehacker.com/home/how-to-use-one-in-one-out-trend-to-declutter-over-time)
 - [Dev.to/JS] [Typescript](https://dev.to/akmaurya31/typescript-4h2i)
 - [Dev.to/JS] [Daily Code 53 | 🎨 Interactive Color Changing Grid](https://dev.to/gregor_schafroth/daily-code-53-interactive-color-changing-grid-f8a)
-- [Dev.to/JS] [Nonograms](https://dev.to/mog13/nonograms-3cjl)
 - [Lifehacker] [The Two Best Ways to Stem Kale and Other Bitter Greens](https://lifehacker.com/food-drink/how-to-stem-kale)
-- [Dev.to/JS] [TypeScript&#39;s Successor is Waiting, and You&#39;ll Never Want to Turn Back](https://dev.to/aarvinr/typescripts-successor-is-waiting-and-youll-never-want-to-turn-back-5cb0)
-- [Dev.to/JS] [TW Elements - Grid system in Tailwind CSS. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-grid-system-in-tailwind-css-free-uiux-design-course-1ko0)
 - [Lifehacker] [The Best Ways to Lay Out Your Vegetable Garden](https://lifehacker.com/home/how-to-design-vegetable-garden)
 - [Lifehacker] [The Best Mesh Networking Systems to Buy in 2024](https://lifehacker.com/tech/best-mesh-networking-systems)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in February 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-february-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Xbox Elite Series 2 Controller Is $44 Off Right Now](https://lifehacker.com/entertainment/xbox-elite-series-2-controller-sale-microsoft)
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
-- [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
-- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)<!-- TECH-POSTS:END -->
 
 ---
 
