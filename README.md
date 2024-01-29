@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ACID in DB](https://dev.to/akmaurya31/acid-in-db-9n0)
+- [Dev.to/JS] [jQuery cross-browser compatibility: fixing JavaScript cross-browser incompatibility using jQuery](https://dev.to/mcbarna/jquery-cross-browser-compatibility-fixing-javascript-cross-browser-incompatibility-using-jquery-3ai3)
+- [Dev.to/JS] [&quot;Hotstar APK for PC: Elevating Entertainment with Seamless Streaming on a Larger Screen&quot;](https://dev.to/aleksdgrifti65/hotstar-apk-for-pc-elevating-entertainment-with-seamless-streaming-on-a-larger-screen-35jh)
+- [Dev.to/JS] [Vite js: The Lightweight and Lightning-fast Build Tool for Your Next Web Project](https://dev.to/teyim/vite-js-the-lightweight-and-lightning-fast-build-tool-for-your-next-web-project-541i)
 - [Dev.to/JS] [Node Backend Developer Important Packages](https://dev.to/akmaurya31/node-backend-developer-important-packages-5e8g)
 - [Dev.to/JS] [Dusk - Multipage agency theme. Built with Astro, Tailwind CSS](https://dev.to/mike_andreuzza/dusk-multipage-agency-themebuilt-with-astro-tailwind-css-h9e)
 - [Dev.to/JS] [Application Deployment with AWS Elastic Beanstalk](https://dev.to/tioluwaniope/application-deployment-with-aws-elastic-beanstalk-4e80)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Duplicate any Google Form](https://dev.to/vryntel/how-to-duplicate-any-google-form-32la)
 - [Dev.to/JS] [React&#39;s Virtual DOM: Unveiling the Engine Behind Lightning-Fast Web Applications](https://dev.to/fahadachaudhry/reacts-virtual-dom-unveiling-the-engine-behind-lightning-fast-web-applications-nfm)
 - [Dev.to/JS] [QuickBooks Tool Hub – Resolve Common Issues and Errors](https://dev.to/damogo9478/quickbooks-tool-hub-resolve-common-issues-and-errors-2mob)
-- [Dev.to/JS] [PHP vs Backend Node](https://dev.to/akmaurya31/php-vs-node-3di5)
-- [Dev.to/JS] [Compare MySQL vs MongoDB](https://dev.to/akmaurya31/compare-mysql-vs-mongodb-3oml)
-- [Dev.to/JS] [Gemini: ChatSession with Kendo Conversational UI and Angular](https://dev.to/danywalls/gemini-chatsession-with-kendo-conversational-ui-and-angular-124l)
-- [Dev.to/JS] [Create Your Personalized Gemini Chat with Conversational UI and Angular](https://dev.to/danywalls/create-your-personalized-gemini-chat-with-conversational-ui-and-angular-g2b)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
