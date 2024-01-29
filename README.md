@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TF #32 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-32-your-weekly-frontend-digest-2i77)
+- [Dev.to/JS] [NGINX Cheatsheet: A Quick Reference Guide](https://dev.to/manthanank/nginx-cheatsheet-a-quick-reference-guide-o0m)
+- [Dev.to/JS] [Getting Started with TypeScript: A Comprehensive Guide](https://dev.to/jps27cse/getting-started-with-typescript-a-comprehensive-guide-1djm)
+- [Dev.to/JS] [Fitspresso Coffee Loophole reviews &lpar;warning&rpar; don’t buy fat burning EXTRA FAT Fitspresso until you read this!](https://dev.to/larsonlucars/fitspresso-coffee-loophole-reviews-warning-dont-buy-fat-burning-extra-fat-fitspresso-until-you-read-this-469l)
 - [Dev.to/JS] [Vue 3 Reactivity System Is Brilliant! Here’s How It Works - Part 1](https://dev.to/nasserahmed009/vue-3-reactivity-system-is-brilliant-heres-how-it-works-part-1-4nm1)
 - [Dev.to/JS] [Code On Gitbash- Push to Github](https://dev.to/tioluwaniope/code-on-gitbash-push-to-github-na2)
 - [Dev.to/JS] [Measure Web Performance with Web Vitals](https://dev.to/jacobandrewsky/measure-web-performance-with-web-vitals-5m7)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating CKEditor 5 with Next.js 13.4 &lpar;Page Router&rpar;: A Step-by-Step Guide](https://dev.to/fazlay/integrating-ckeditor-5-with-nextjs-134-page-router-a-step-by-step-guide-iak)
 - [Dev.to/JS] [JavaScript vs TypeScript: A Thorough Comparison](https://dev.to/shariqahmed525/javascript-vs-typescript-a-thorough-comparison-327h)
 - [Dev.to/JS] [Combine Proxy traps with the Reflect API](https://dev.to/phuocng/combine-proxy-traps-with-the-reflect-api-5af0)
-- [Dev.to/JS] [700+ remote Freindly companies!](https://dev.to/dev_abdulhaseeb/700-remote-freindly-companies-11ag)
-- [Dev.to/JS] [Test your Compute apps end-to-end with JavaScript](https://dev.to/fastly/test-your-compute-apps-end-to-end-with-javascript-3nko)
-- [Dev.to/JS] [9 Interview on node](https://dev.to/akmaurya31/9-interview-on-node-131h)
-- [Dev.to/JS] [Abstract Classes in JavaScript](https://dev.to/rheedhar/abstract-classes-in-javascript-5al3)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
