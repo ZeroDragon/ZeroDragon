@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [9 Interview on node](https://dev.to/akmaurya31/9-interview-on-node-131h)
 - [Dev.to/JS] [Abstract Classes in JavaScript](https://dev.to/rheedhar/abstract-classes-in-javascript-5al3)
 - [Dev.to/JS] [#2 React Query: Infinite Scroll](https://dev.to/kevin-uehara/2-react-query-infinite-scroll-1mg8)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.7](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-17-2c58)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [mua chung Flipmine](https://dev.to/wsovn112/mua-chung-flipmine-191j)
 - [Dev.to/JS] [👨‍💻 Daily Code 52 | +1 &amp; -1 Buttons in 🟨 JavaScript](https://dev.to/gregor_schafroth/daily-code-52-1-1-buttons-in-javascript-53o)
 - [Dev.to/JS] [Integrate Strapi on Nuxt](https://dev.to/thomasbnt/integrate-strapi-on-nuxt-1lde)
-- [Dev.to/JS] [Boosting Developer Productivity: A Deep Dive into Advanced React Hooks Techniques](https://dev.to/nagasaikallakuri/boosting-developer-productivity-a-deep-dive-into-advanced-react-hooks-techniques-2me4)
 - [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
