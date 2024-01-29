@@ -26,20 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript](https://dev.to/akmaurya31/typescript-4h2i)
+- [Dev.to/JS] [Daily Code 53 | 🎨 Interactive Color Changing Grid](https://dev.to/gregor_schafroth/daily-code-53-interactive-color-changing-grid-f8a)
+- [Dev.to/JS] [Nonograms](https://dev.to/mog13/nonograms-3cjl)
+- [Dev.to/JS] [TypeScript&#39;s Successor is Waiting, and You&#39;ll Never Want to Turn Back](https://dev.to/aarvinr/typescripts-successor-is-waiting-and-youll-never-want-to-turn-back-5cb0)
+- [Dev.to/JS] [TW Elements - Grid system in Tailwind CSS. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-grid-system-in-tailwind-css-free-uiux-design-course-1ko0)
+- [Dev.to/JS] [Charting My Path for February-March: What&#39;s Yours?](https://dev.to/elvissautet/charting-my-path-for-february-march-whats-yours-24ek)
+- [Dev.to/JS] [My experience with a headless CMS &lpar;Strapi&rpar;](https://dev.to/abir777/my-experience-with-a-headless-cms-strapi-3j9o)
 - [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/mursalfk/javascript-cheatsheet-2b72)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/charoenbunma7/buy-verified-cash-app-account-219b)
 - [Dev.to/JS] [Key Features And Benefits Of Using Typescript With Javascript In Modern Web Development](https://dev.to/anujpandeyin/key-features-and-benefits-of-using-typescript-with-javascript-in-modern-web-development-381i)
+- [Lifehacker] [The Best Mesh Networking Systems to Buy in 2024](https://lifehacker.com/tech/best-mesh-networking-systems)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/charoenbunma7/buy-google-reviews-4pik)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/charoenbunma7/buy-google-voice-accounts-58b9)
-- [Dev.to/JS] [How to learn Go as a JavaScript/TypeScript Dev?](https://dev.to/holymark/how-to-learn-go-as-a-javascripttypescript-dev-gmg)
-- [Dev.to/JS] [Elevate Your React Code: Tackling Prop Drilling](https://dev.to/tiagof/elevate-your-react-code-tackling-prop-drilling-26e0)
-- [Dev.to/JS] [Guide to ESLint &amp; Prettier with Nuxt 3](https://dev.to/nikitadmitr/configure-eslint-prettier-for-nuxt-3-45f7)
-- [Dev.to/JS] [Supercharge your GitHub profile with 30 cool JavaScript projects](https://dev.to/monicafidalgo/supercharge-your-github-profile-with-30-cool-javascript-projects-3chi)
-- [Dev.to/JS] [How to implement VUE HEADER component?](https://dev.to/doogiemuc/how-to-implement-vue-header-component-27jo)
-- [Dev.to/JS] [A Tribute to React](https://dev.to/aantipov/a-tribute-to-react-2dci)
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in February 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-february-2024)
+- [Lifehacker] [How To Change the Wifi Password on Your Router](https://lifehacker.com/tech/how-to-change-your-wi-fi-router-password)
 - [Lifehacker] [Use These Apps to Stop AI From Stealing Your Art](https://lifehacker.com/tech/use-glaze-and-nightshade-to-stop-ai-from-stealing-your-art)
 - [Lifehacker] [12 Podcasts for People Who Miss &#39;Reply All&#39;](https://lifehacker.com/entertainment/podcasts-for-people-who-miss-reply-all)
-- [Dev.to/JS] [whaht is problem](https://dev.to/mistyislam5/whaht-is-problem-h9f)
 - [Lifehacker] [You Can Get This PC Gaming Cheats Subscription on Sale for $50 Right Now](https://lifehacker.com/entertainment/pc-gaming-cheats-sale)
 - [Lifehacker] [Six Reasons Your Home Isn&#39;t Selling &lpar;and What to Do About It&rpar;](https://lifehacker.com/money/why-your-home-isnt-selling)
 - [Lifehacker] [This Is Actually the Best Way to Reheat Fries](https://lifehacker.com/how-to-reheat-fries-in-an-air-fryer)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Will TikTok&#39;s &#39;Sleepy Girl Mocktail&#39; Actually Help You Sleep?](https://lifehacker.com/health/does-tiktoks-sleepy-girl-mocktail-work)
 - [Lifehacker] [You Can Get This TruGolf Golf Simulator on Sale for $230 Right Now](https://lifehacker.com/trugolf-golf-simulator-sale)
 - [Lifehacker] [A Bunch of Big Screen TVs Are 40% Off at Amazon Right Now](https://lifehacker.com/tech/hisense-u6-uled-series-tv-sale)
-- [Lifehacker] [An Age-By-Age Guide to Instilling Gratitude in Kids](https://lifehacker.com/family/how-to-instill-gratitude-in-kids)
-- [Lifehacker] [TikTok’s Viral ‘Core 4’ Method Might Finally Help You Declutter Your Home](https://lifehacker.com/home/declutter-your-home-with-tiktoks-viral-core-4-method)
-- [Lifehacker] [Dyson, Shark, and Samsung All Have Deals on Stick Vacuum Cleaners Right Now](https://lifehacker.com/home/best-stick-vacuum-cleaner-deals)
-- [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [An Age-By-Age Guide to Instilling Gratitude in Kids](https://lifehacker.com/family/how-to-instill-gratitude-in-kids)<!-- TECH-POSTS:END -->
 
 ---
 
