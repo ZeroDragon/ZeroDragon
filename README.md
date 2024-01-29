@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [mua chung Kadence WP](https://dev.to/wsovn112/mua-chung-kadence-wp-1io1)
+- [Dev.to/JS] [Using Hono with SvelteKit - Full type-safety with RPC](https://dev.to/bop/using-hono-with-sveltekit-full-type-safety-with-rpc-2h7)
+- [Dev.to/JS] [Vue Nice Validate](https://dev.to/yogeshgalav7/vue-nice-validate-1bd7)
+- [Lifehacker] [All the Ways an Outdoor Furnace Can Improve Your Winter](https://lifehacker.com/home/are-outdoor-furnaces-worth-it)
 - [Dev.to/JS] [AMP Credit Loan Customer care Helpline number⚡ ✔️7477325529*//9706590327 Contact Us.](https://dev.to/innkbkm/amp-credit-loan-customer-care-helpline-number74773255299706590327-contact-us-2hc6)
 - [Dev.to/JS] [AMP Credit Customer care Helpline number⚡ ✔️7477325529*//9706590327 Contact Us.](https://dev.to/innkbkm/amp-credit-customer-care-helpline-number74773255299706590327-contact-us-2lkp)
+- [Lifehacker] [Everyone Can Now Disable Read Receipts on Instagram DMs](https://lifehacker.com/how-to-disable-read-receipts-on-instagram-dms)
 - [Dev.to/JS] [Loan Star Customer care Helpline number⚡ ✔️7477325529*//9706590327 Contact Us.](https://dev.to/innkbkm/loan-star-customer-care-helpline-number74773255299706590327-contact-us-85i)
 - [Dev.to/JS] [Type Script](https://dev.to/akmaurya31/type-script-5cgf)
 - [Lifehacker] [Three Ways to Use the &#39;One in, One Out&#39; Method to Slowly Declutter Your Home](https://lifehacker.com/home/how-to-use-one-in-one-out-trend-to-declutter-over-time)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript&#39;s Successor is Waiting, and You&#39;ll Never Want to Turn Back](https://dev.to/aarvinr/typescripts-successor-is-waiting-and-youll-never-want-to-turn-back-5cb0)
 - [Dev.to/JS] [TW Elements - Grid system in Tailwind CSS. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-grid-system-in-tailwind-css-free-uiux-design-course-1ko0)
 - [Lifehacker] [The Best Ways to Lay Out Your Vegetable Garden](https://lifehacker.com/home/how-to-design-vegetable-garden)
-- [Dev.to/JS] [Charting My Path for February-March: What&#39;s Yours?](https://dev.to/elvissautet/charting-my-path-for-february-march-whats-yours-24ek)
-- [Dev.to/JS] [My experience with a headless CMS &lpar;Strapi&rpar;](https://dev.to/abir777/my-experience-with-a-headless-cms-strapi-3j9o)
-- [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/mursalfk/javascript-cheatsheet-2b72)
 - [Lifehacker] [The Best Mesh Networking Systems to Buy in 2024](https://lifehacker.com/tech/best-mesh-networking-systems)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in February 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-february-2024)
 - [Lifehacker] [How To Change the Wifi Password on Your Router](https://lifehacker.com/tech/how-to-change-your-wi-fi-router-password)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
 - [Lifehacker] [Six Phrases to Avoid When Giving Someone Bad News](https://lifehacker.com/health/phrases-to-avoid-when-giving-someone-bad-news)
 - [Lifehacker] [How to Peel Ginger so You Don&#39;t Lose Any of the Good Stuff](https://lifehacker.com/food-drink/the-best-ways-to-peel-ginger)
-- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
-- [Lifehacker] [How Apps Use Push Notifications to Spy on You &lpar;and How to Stop Them&rpar;](https://lifehacker.com/tech/how-to-stop-apps-from-using-push-notifications-to-spy-on-you)
-- [Lifehacker] [Will TikTok&#39;s &#39;Sleepy Girl Mocktail&#39; Actually Help You Sleep?](https://lifehacker.com/health/does-tiktoks-sleepy-girl-mocktail-work)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
