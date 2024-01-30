@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizing Your Next.js Website: A Guide to Google Core Web Vitals](https://dev.to/ayuse/optimizing-your-nextjs-website-a-guide-to-google-core-web-vitals-5a85)
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.9](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-19-1f80)
+- [Dev.to/JS] [Javascript Promise](https://dev.to/barrisam/javascript-promise-3g6o)
+- [Dev.to/JS] [Rapid Prototyping with Flask, Bootstrap and Secutio](https://dev.to/mrhdias/rapid-prototyping-with-flask-bootstrap-and-secutio-1719)
 - [Dev.to/JS] [🛀 CleanUp in React](https://dev.to/jorjishasan/cleanup-in-react-5dkc)
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
 - [Lifehacker] [Is Amazon Alexa Spying on You?](https://lifehacker.com/tech/does-amazon-alexa-spy-on-you)
@@ -47,12 +51,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven &#39;Home Improvements&#39; You’ll Almost Certainly Regret](https://lifehacker.com/home/home-improvements-you-will-regret)
 - [Dev.to/JS] [Directions of Reactivity](https://dev.to/ninjin/directions-of-reactivity-1h4b)
 - [Lifehacker] [The Difference Between a Realtor and Real Estate Agent &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
-- [Dev.to/JS] [JavaScript Fundamentals: Data Types](https://dev.to/timothyrobards/javascript-fundamentals-data-types-4e5f)
 - [Lifehacker] [How to Choose the Best Internet Speed for Your Home](https://lifehacker.com/tech/what-internet-speed-should-i-pay-for)
-- [Dev.to/JS] [React Tilt With React JS and Tailwind CSS](https://dev.to/cyberohn/react-tilt-with-react-js-and-tailwind-css-3ppd)
-- [Dev.to/JS] [How to Configure robots.txt in Nuxt?](https://dev.to/webcraft-notes/how-to-configure-robotstxt-in-nuxt-5gm8)
 - [Lifehacker] [The Six Steps You Should Take After a Tree Falls on Your House](https://lifehacker.com/home/what-to-do-when-a-tree-falls-on-house)
-- [Dev.to/JS] [PHP node question](https://dev.to/akmaurya31/php-node-question-n7o)
 - [Lifehacker] [The Best Doorbell Cameras to Buy in 2024](https://lifehacker.com/tech/best-doorbell-cameras)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Palworld?&#39;](https://lifehacker.com/entertainment/what-is-palworld-the-out-of-touch-adults-guide-to-kid-culture)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
