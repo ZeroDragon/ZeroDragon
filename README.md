@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Benefits of e-commerce websites](https://dev.to/lenina59400/benefits-of-e-commerce-websites-4f46)
+- [Dev.to/JS] [Unraveling the World of Flutter: Navigating Through Bugs in Mobile App Development](https://dev.to/quanrio/unraveling-the-world-of-flutter-navigating-through-bugs-in-mobile-app-development-2kke)
 - [Dev.to/JS] [Advanced Testing Setup for an Enterprise React Project](https://dev.to/mohammadfaisal/advanced-testing-setup-for-an-enterprise-react-project-2ne3)
 - [Dev.to/JS] [Testing](https://dev.to/purukhedre/testing-24mg)
 - [Dev.to/JS] [From Confusion to Clarity: Understanding ‘this’ in JavaScript](https://dev.to/adnanlatif/from-confusion-to-clarity-understanding-this-in-javascript-59gg)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy Icons using iconify.design](https://dev.to/harish_soni/easy-icons-using-iconifydesign-37kj)
 - [Dev.to/JS] [TypeScript Secrets Part 1: &quot;as const&quot;](https://dev.to/ctnkaan/typescript-secrets-part-1-as-const-57ne)
 - [Dev.to/JS] [Angular Addicts #22: Angular 17.1, Signal Inputs, State management tips &amp; more](https://dev.to/this-is-angular/angular-addicts-22-angular-171-signal-inputs-state-management-tips-more-4713)
-- [Dev.to/JS] [Tackling React&#39;s Most Loathed Interview Question - Diffing and Reconciliation Unveiled](https://dev.to/fahadachaudhry/tackling-reacts-most-loathed-interview-question-diffing-and-reconciliation-unveiled-4pcd)
-- [Dev.to/JS] [mua chung Kapwing](https://dev.to/wsovn112/mua-chung-kapwing-p33)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [You Can Set Up a Eufy Security System for up to 59% Off Right Now](https://lifehacker.com/tech/best-eufy-security-system-deals)
