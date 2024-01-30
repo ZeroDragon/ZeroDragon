@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SOAP Explained: With Javascript](https://dev.to/venom4171/soap-explained-with-javascript-5bc)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
 - [Dev.to/JS] [🚀Navigating the GraphQL Galaxy🌌: A Comprehensive Roadmap for Developers 🚀](https://dev.to/mohitkadwe19/navigating-the-graphql-galaxy-a-comprehensive-roadmap-for-developers-43nm)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Hono with SvelteKit - Full type-safety with RPC](https://dev.to/bop/using-hono-with-sveltekit-full-type-safety-with-rpc-2h7)
 - [Dev.to/JS] [Vue Nice Validate](https://dev.to/yogeshgalav7/vue-nice-validate-1bd7)
 - [Lifehacker] [All the Ways an Outdoor Furnace Can Improve Your Winter](https://lifehacker.com/home/are-outdoor-furnaces-worth-it)
-- [Dev.to/JS] [AMP Credit Loan Customer care Helpline number⚡ ✔️7477325529*//9706590327 Contact Us.](https://dev.to/innkbkm/amp-credit-loan-customer-care-helpline-number74773255299706590327-contact-us-2hc6)
 - [Lifehacker] [Everyone Can Now Disable Read Receipts on Instagram DMs](https://lifehacker.com/how-to-disable-read-receipts-on-instagram-dms)
 - [Lifehacker] [Three Ways to Use the &#39;One in, One Out&#39; Method to Slowly Declutter Your Home](https://lifehacker.com/home/how-to-use-one-in-one-out-trend-to-declutter-over-time)
 - [Lifehacker] [The Two Best Ways to Stem Kale and Other Bitter Greens](https://lifehacker.com/food-drink/how-to-stem-kale)
