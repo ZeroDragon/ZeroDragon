@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React.js Cheatsheet – The Ultimate Guide](https://dev.to/codedthemes/reactjs-cheatsheet-the-ultimate-guide-29gf)
+- [Dev.to/JS] [Diffing Algorithm and Reconciliation in React](https://dev.to/fahadachaudhry/diffing-algorithm-and-reconciliation-in-react-2i7d)
+- [Dev.to/JS] [Unlocking Wellness with Bioheal CBD Gummies: A Comprehensive Guide](https://dev.to/biohealcbdgummiess/unlocking-wellness-with-bioheal-cbd-gummies-a-comprehensive-guide-25d2)
+- [Dev.to/JS] [Top Asking SQL vs Mongo Queries](https://dev.to/akmaurya31/top-asking-queries-1koi)
 - [Dev.to/JS] [SOAP Explained: With Javascript](https://dev.to/venom4171/soap-explained-with-javascript-5bc)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
 - [Dev.to/JS] [🚀Navigating the GraphQL Galaxy🌌: A Comprehensive Roadmap for Developers 🚀](https://dev.to/mohitkadwe19/navigating-the-graphql-galaxy-a-comprehensive-roadmap-for-developers-43nm)
@@ -40,13 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Typescript over Javascript](https://dev.to/rohit_7703/why-typescript-over-javascript-1p0)
 - [Lifehacker] [Refurbished Garmin Smartwatches Are Majorly Discounted Right Now](https://lifehacker.com/tech/refurbished-garmin-smartwatches-sale-woot)
 - [Dev.to/JS] [Ng-News 24/04: .ng &amp; .analog, DDD with Manfred Steyer, Angular Query Tomasz Ducin](https://dev.to/this-is-angular/ng-news-2404-ng-analog-ddd-with-manfred-steyer-angular-query-tomasz-ducin-5735)
-- [Dev.to/JS] [Conversational Approval process using Adaptive Cards and JSON objects](https://dev.to/mcombp/conversational-approval-process-using-adaptive-cards-and-json-objects-4mih)
 - [Lifehacker] [Shazam Can Now Identify Songs While You&#39;re Wearing Headphones](https://lifehacker.com/tech/shazam-can-identify-songs-while-wearing-headphones)
 - [Lifehacker] [Every Type of Smart Home Sensor &lpar;and How to Use Them&rpar;](https://lifehacker.com/tech/every-type-of-smart-home-sensor-how-to-use)
-- [Dev.to/JS] [mua chung Kadence WP](https://dev.to/wsovn112/mua-chung-kadence-wp-1io1)
 - [Lifehacker] [Stream These TV Shows When You Need Cleaning Inspiration](https://lifehacker.com/home/best-tv-shows-to-stream-for-cleaning-inspiration)
-- [Dev.to/JS] [Using Hono with SvelteKit - Full type-safety with RPC](https://dev.to/bop/using-hono-with-sveltekit-full-type-safety-with-rpc-2h7)
-- [Dev.to/JS] [Vue Nice Validate](https://dev.to/yogeshgalav7/vue-nice-validate-1bd7)
 - [Lifehacker] [All the Ways an Outdoor Furnace Can Improve Your Winter](https://lifehacker.com/home/are-outdoor-furnaces-worth-it)
 - [Lifehacker] [Everyone Can Now Disable Read Receipts on Instagram DMs](https://lifehacker.com/how-to-disable-read-receipts-on-instagram-dms)
 - [Lifehacker] [Three Ways to Use the &#39;One in, One Out&#39; Method to Slowly Declutter Your Home](https://lifehacker.com/home/how-to-use-one-in-one-out-trend-to-declutter-over-time)
