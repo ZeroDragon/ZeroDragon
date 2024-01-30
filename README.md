@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
 - [Dev.to/JS] [🚀Navigating the GraphQL Galaxy🌌: A Comprehensive Roadmap for Developers 🚀](https://dev.to/mohitkadwe19/navigating-the-graphql-galaxy-a-comprehensive-roadmap-for-developers-43nm)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Dev.to/JS] [Navigating the Maze of Web Development Frameworks](https://dev.to/scofieldidehen/navigating-the-maze-of-web-development-frameworks-2cd2)
@@ -53,7 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Lay Out Your Vegetable Garden](https://lifehacker.com/home/how-to-design-vegetable-garden)
 - [Lifehacker] [The Best Mesh Networking Systems to Buy in 2024](https://lifehacker.com/tech/best-mesh-networking-systems)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in February 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-february-2024)
-- [Lifehacker] [How To Change the Wifi Password on Your Router](https://lifehacker.com/tech/how-to-change-your-wi-fi-router-password)
+- [Lifehacker] [How to Change the Wifi Password on Your Router](https://lifehacker.com/tech/how-to-change-your-wi-fi-router-password)
 - [Lifehacker] [Use These Apps to Stop AI From Stealing Your Art](https://lifehacker.com/tech/use-glaze-and-nightshade-to-stop-ai-from-stealing-your-art)
 - [Lifehacker] [12 Podcasts for People Who Miss &#39;Reply All&#39;](https://lifehacker.com/entertainment/podcasts-for-people-who-miss-reply-all)
 - [Lifehacker] [You Can Get This PC Gaming Cheats Subscription on Sale for $50 Right Now](https://lifehacker.com/entertainment/pc-gaming-cheats-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
 - [Lifehacker] [Five Ways Home Sellers Can Screw You Over After the Closing](https://lifehacker.com/money/five-ways-home-sellers-can-screw-you)
 - [Lifehacker] [A Parenting Coach Is More Useful Than People Think](https://lifehacker.com/family/what-does-a-parenting-coach-do)
-- [Lifehacker] [You Can Get This Goplus Rowing Machine on Sale for $190 Right Now](https://lifehacker.com/health/goplus-rowing-machine-sale)
-- [Lifehacker] [You Can Create Your Own AI Art in Microsoft Paint](https://lifehacker.com/tech/how-to-create-ai-art-in-microsoft-paint-with-cocreator)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Goplus Rowing Machine on Sale for $190 Right Now](https://lifehacker.com/health/goplus-rowing-machine-sale)<!-- TECH-POSTS:END -->
 
 ---
 
