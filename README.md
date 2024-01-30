@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open-Source Headless CMS in 2024](https://dev.to/nikpoltoratsky/open-source-headless-cms-in-2024-57ko)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Palworld?&#39;](https://lifehacker.com/entertainment/what-is-palworld-the-out-of-touch-adults-guide-to-kid-culture)
+- [Dev.to/JS] [The Pragmatic Programmer: Your Journey to Mastery](https://dev.to/alexroor4/the-pragmatic-programmer-your-journey-to-mastery-1cbj)
+- [Dev.to/JS] [Desvendando a Notação Big O: O Coração da Eficiência Algorítmica](https://dev.to/diogofelizardo/a-3jgg)
 - [Dev.to/JS] [How does the ELK Stack contribute to effective monitoring and logging in AI automation projects?](https://dev.to/yagnapandya9/how-does-the-elk-stack-contribute-to-effective-monitoring-and-logging-in-ai-automation-projects-2gdg)
 - [Dev.to/JS] [What is the difference between a Metaphor and a Simile?](https://dev.to/jack24/what-is-the-difference-between-a-metaphor-and-a-simile-24j9)
 - [Dev.to/JS] [Hlw Dev Community](https://dev.to/jack24/hlw-dev-community-2hbl)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rarely Heard Knowledge Of JavaScript](https://dev.to/davychxn/rarely-heard-knowledge-of-javascript-502c)
 - [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 7](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-7-4ll9)
 - [Dev.to/JS] [Npm vs Yarn](https://dev.to/codeparrot/npm-vs-yarn-35d6)
-- [Dev.to/JS] [Kotei - Multipage agency theme. Built with Astro, Tailwind CSS and MDX](https://dev.to/lexingtonthemes/kotei-multipage-agency-theme-built-with-astro-tailwind-css-and-mdx-3dka)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/somphotbuangam/buy-google-reviews-2neg)
-- [Dev.to/JS] [Benefits of e-commerce websites](https://dev.to/lenina59400/benefits-of-e-commerce-websites-4f46)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [You Can Set Up a Eufy Security System for up to 59% Off Right Now](https://lifehacker.com/tech/best-eufy-security-system-deals)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)
 - [Lifehacker] [How to Stream the Super Bowl Without Cable](https://lifehacker.com/entertainment/how-to-watch-the-super-bowl-without-cable)
 - [Lifehacker] [Five Ways Home Sellers Can Screw You Over After the Closing](https://lifehacker.com/money/five-ways-home-sellers-can-screw-you)
-- [Lifehacker] [A Parenting Coach Is More Useful Than People Think](https://lifehacker.com/family/what-does-a-parenting-coach-do)
-- [Lifehacker] [You Can Get This Goplus Rowing Machine on Sale for $190 Right Now](https://lifehacker.com/health/goplus-rowing-machine-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Parenting Coach Is More Useful Than People Think](https://lifehacker.com/family/what-does-a-parenting-coach-do)<!-- TECH-POSTS:END -->
 
 ---
 
