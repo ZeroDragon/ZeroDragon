@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Most Advanced :Puravive Australia Reviews &lpar;Honest Customer Warning!&rpar; EXposed ShockinG Results](https://dev.to/kirbyalindar/most-advanced-puravive-australia-reviews-honest-customer-warning-exposed-shocking-results-mj6)
+- [Dev.to/JS] [Nebula App Review – Create Facebook Channel And Free Visitors1](https://dev.to/arifhossain204/nebula-app-review-create-facebook-channel-and-free-visitors1-5179)
+- [Dev.to/JS] [https://maps.app.goo.gl/1Jkh3VZp82fdCc9C6](https://dev.to/dasbacklink/httpsmapsappgoogl1jkh3vzp82fdcc9c6-5984)
+- [Dev.to/JS] [Rarely Heard Knowledge Of JavaScript](https://dev.to/davychxn/rarely-heard-knowledge-of-javascript-502c)
+- [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 7](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-7-4ll9)
 - [Dev.to/JS] [Npm vs Yarn](https://dev.to/codeparrot/npm-vs-yarn-35d6)
 - [Dev.to/JS] [Kotei - Multipage agency theme. Built with Astro, Tailwind CSS and MDX](https://dev.to/lexingtonthemes/kotei-multipage-agency-theme-built-with-astro-tailwind-css-and-mdx-3dka)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/somphotbuangam/buy-google-reviews-2neg)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unraveling the World of Flutter: Navigating Through Bugs in Mobile App Development](https://dev.to/quanrio/unraveling-the-world-of-flutter-navigating-through-bugs-in-mobile-app-development-2kke)
 - [Dev.to/JS] [Advanced Testing Setup for an Enterprise React Project](https://dev.to/mohammadfaisal/advanced-testing-setup-for-an-enterprise-react-project-2ne3)
 - [Dev.to/JS] [Testing](https://dev.to/purukhedre/testing-24mg)
-- [Dev.to/JS] [From Confusion to Clarity: Understanding ‘this’ in JavaScript](https://dev.to/adnanlatif/from-confusion-to-clarity-understanding-this-in-javascript-59gg)
-- [Dev.to/JS] [How Dumps Villa Can Skyrocket Your Data Security](https://dev.to/az600dumps/how-dumps-villa-can-skyrocket-your-data-security-k4l)
-- [Dev.to/JS] [Curious case of Drag and Drop](https://dev.to/epilot/curious-case-of-drag-and-drop-16ng)
-- [Dev.to/JS] [JavaScript in 2024: Beyond the Horizon](https://dev.to/shadbalti/javascript-in-2024-beyond-the-horizon-536p)
-- [Dev.to/JS] [Aws Lambda that Reacts to S3 File Upload](https://dev.to/mohammadfaisal/aws-lambda-that-reacts-to-s3-file-upload-1an8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [You Can Set Up a Eufy Security System for up to 59% Off Right Now](https://lifehacker.com/tech/best-eufy-security-system-deals)
