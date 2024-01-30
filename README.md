@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Tilt With React JS and Tailwind CSS](https://dev.to/cyberohn/react-tilt-with-react-js-and-tailwind-css-3ppd)
+- [Dev.to/JS] [How to Configure robots.txt in Nuxt?](https://dev.to/webcraft-notes/how-to-configure-robotstxt-in-nuxt-5gm8)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/ziemowitmatelski93/buy-verified-paxful-account-2kng)
+- [Dev.to/JS] [PHP node question](https://dev.to/akmaurya31/php-node-question-n7o)
+- [Dev.to/JS] [Depression Demystified: Unraveling the Layers of a Silent Struggle](https://dev.to/yourpsychologistonline/depression-demystified-unraveling-the-layers-of-a-silent-struggle-11lb)
+- [Dev.to/JS] [Database deadlocks](https://dev.to/akmaurya31/database-deadlocks-202h)
 - [Dev.to/JS] [Open-Source Headless CMS in 2024](https://dev.to/nikpoltoratsky/open-source-headless-cms-in-2024-57ko)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Palworld?&#39;](https://lifehacker.com/entertainment/what-is-palworld-the-out-of-touch-adults-guide-to-kid-culture)
 - [Dev.to/JS] [The Pragmatic Programmer: Your Journey to Mastery](https://dev.to/alexroor4/the-pragmatic-programmer-your-journey-to-mastery-1cbj)
@@ -33,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How does the ELK Stack contribute to effective monitoring and logging in AI automation projects?](https://dev.to/yagnapandya9/how-does-the-elk-stack-contribute-to-effective-monitoring-and-logging-in-ai-automation-projects-2gdg)
 - [Dev.to/JS] [What is the difference between a Metaphor and a Simile?](https://dev.to/jack24/what-is-the-difference-between-a-metaphor-and-a-simile-24j9)
 - [Dev.to/JS] [Hlw Dev Community](https://dev.to/jack24/hlw-dev-community-2hbl)
-- [Dev.to/JS] [Most Advanced :Puravive Australia Reviews &lpar;Honest Customer Warning!&rpar; EXposed ShockinG Results](https://dev.to/kirbyalindar/most-advanced-puravive-australia-reviews-honest-customer-warning-exposed-shocking-results-mj6)
-- [Dev.to/JS] [Nebula App Review – Create Facebook Channel And Free Visitors1](https://dev.to/arifhossain204/nebula-app-review-create-facebook-channel-and-free-visitors1-5179)
-- [Dev.to/JS] [https://maps.app.goo.gl/1Jkh3VZp82fdCc9C6](https://dev.to/dasbacklink/httpsmapsappgoogl1jkh3vzp82fdcc9c6-5984)
-- [Dev.to/JS] [Rarely Heard Knowledge Of JavaScript](https://dev.to/davychxn/rarely-heard-knowledge-of-javascript-502c)
-- [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 7](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-7-4ll9)
-- [Dev.to/JS] [Npm vs Yarn](https://dev.to/codeparrot/npm-vs-yarn-35d6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [You Can Set Up a Eufy Security System for up to 59% Off Right Now](https://lifehacker.com/tech/best-eufy-security-system-deals)
