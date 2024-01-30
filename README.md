@@ -26,9 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scale from One to Millions of Users](https://dev.to/vorillaz/scale-from-one-to-millions-of-users-47i3)
+- [Dev.to/JS] [What is Transpilation?](https://dev.to/samyak112/what-is-transpilation-4hl0)
 - [Lifehacker] [The Apple Watch Series 9 Is Seeing a Big Discount for a Limited Time](https://lifehacker.com/tech/apple-watch-series-9-discount)
 - [Dev.to/JS] [mua chung Kittl](https://dev.to/wsovn112/mua-chung-kittl-3opm)
-- [Dev.to/JS] [Crypto Recovery](https://dev.to/whity04/crypto-recovery-55i7)
 - [Lifehacker] [You Can Get These Live Translation Earbuds on Sale for $130 Right Now](https://lifehacker.com/live-translation-earbuds-sale)
 - [Lifehacker] [All the New Emojis Coming to Your iPhone With iOS 17.4](https://lifehacker.com/tech/new-emojis-iphone-ios-17)
 - [Dev.to/JS] [The Art of Maintainable JavaScript Code: Best Practices](https://dev.to/rishabh07r/the-art-of-maintainable-javascript-code-best-practices-22mb)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Six Steps You Should Take After a Tree Falls on Your House](https://lifehacker.com/home/what-to-do-when-a-tree-falls-on-house)
 - [Dev.to/JS] [PHP node question](https://dev.to/akmaurya31/php-node-question-n7o)
 - [Dev.to/JS] [Depression Demystified: Unraveling the Layers of a Silent Struggle](https://dev.to/yourpsychologistonline/depression-demystified-unraveling-the-layers-of-a-silent-struggle-11lb)
-- [Dev.to/JS] [Database deadlocks](https://dev.to/akmaurya31/database-deadlocks-202h)
 - [Lifehacker] [The Best Doorbell Cameras to Buy in 2024](https://lifehacker.com/tech/best-doorbell-cameras)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Palworld?&#39;](https://lifehacker.com/entertainment/what-is-palworld-the-out-of-touch-adults-guide-to-kid-culture)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
