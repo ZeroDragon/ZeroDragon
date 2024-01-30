@@ -26,23 +26,27 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Apple Watch Series 9 Is Seeing a Big Discount for a Limited Time](https://lifehacker.com/tech/apple-watch-series-9-discount)
+- [Dev.to/JS] [mua chung Kittl](https://dev.to/wsovn112/mua-chung-kittl-3opm)
+- [Dev.to/JS] [Crypto Recovery](https://dev.to/whity04/crypto-recovery-55i7)
+- [Lifehacker] [You Can Get These Live Translation Earbuds on Sale for $130 Right Now](https://lifehacker.com/live-translation-earbuds-sale)
+- [Lifehacker] [All the New Emojis Coming to Your iPhone With iOS 17.4](https://lifehacker.com/tech/new-emojis-iphone-ios-17)
 - [Dev.to/JS] [The Art of Maintainable JavaScript Code: Best Practices](https://dev.to/rishabh07r/the-art-of-maintainable-javascript-code-best-practices-22mb)
+- [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
 - [Dev.to/JS] [Purview - Data estate insights](https://dev.to/avelynhc/purview-data-estate-insights-9ag)
 - [Dev.to/JS] [Daily Code 54 | 🔢 PvP Number guessing with JavaScript](https://dev.to/gregor_schafroth/daily-code-54-pvp-number-guessing-with-javascript-3cn0)
 - [Lifehacker] [Today Is the Last Day to Get the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/ziemowitmatelski93/buy-old-gmail-accounts-303g)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/ziemowitmatelski93/buy-glassdoor-reviews-44nl)
 - [Lifehacker] [Seven &#39;Home Improvements&#39; You’ll Almost Certainly Regret](https://lifehacker.com/home/home-improvements-you-will-regret)
 - [Dev.to/JS] [Directions of Reactivity](https://dev.to/ninjin/directions-of-reactivity-1h4b)
 - [Lifehacker] [The Difference Between a Realtor and Real Estate Agent &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/ziemowitmatelski93/buy-google-reviews-2p4j)
 - [Dev.to/JS] [JavaScript Fundamentals: Data Types](https://dev.to/timothyrobards/javascript-fundamentals-data-types-4e5f)
 - [Lifehacker] [How to Choose the Best Internet Speed for Your Home](https://lifehacker.com/tech/what-internet-speed-should-i-pay-for)
 - [Dev.to/JS] [React Tilt With React JS and Tailwind CSS](https://dev.to/cyberohn/react-tilt-with-react-js-and-tailwind-css-3ppd)
 - [Dev.to/JS] [How to Configure robots.txt in Nuxt?](https://dev.to/webcraft-notes/how-to-configure-robotstxt-in-nuxt-5gm8)
 - [Lifehacker] [The Six Steps You Should Take After a Tree Falls on Your House](https://lifehacker.com/home/what-to-do-when-a-tree-falls-on-house)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/ziemowitmatelski93/buy-verified-paxful-account-2kng)
 - [Dev.to/JS] [PHP node question](https://dev.to/akmaurya31/php-node-question-n7o)
+- [Dev.to/JS] [Depression Demystified: Unraveling the Layers of a Silent Struggle](https://dev.to/yourpsychologistonline/depression-demystified-unraveling-the-layers-of-a-silent-struggle-11lb)
+- [Dev.to/JS] [Database deadlocks](https://dev.to/akmaurya31/database-deadlocks-202h)
 - [Lifehacker] [The Best Doorbell Cameras to Buy in 2024](https://lifehacker.com/tech/best-doorbell-cameras)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Palworld?&#39;](https://lifehacker.com/entertainment/what-is-palworld-the-out-of-touch-adults-guide-to-kid-culture)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Lay Out Your Vegetable Garden](https://lifehacker.com/home/how-to-design-vegetable-garden)
 - [Lifehacker] [The Best Mesh Networking Systems to Buy in 2024](https://lifehacker.com/tech/best-mesh-networking-systems)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in February 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-february-2024)
-- [Lifehacker] [How to Change the Wifi Password on Your Router](https://lifehacker.com/tech/how-to-change-your-wi-fi-router-password)
-- [Lifehacker] [Use These Apps to Stop AI From Stealing Your Art](https://lifehacker.com/tech/use-glaze-and-nightshade-to-stop-ai-from-stealing-your-art)
-- [Lifehacker] [12 Podcasts for People Who Miss &#39;Reply All&#39;](https://lifehacker.com/entertainment/podcasts-for-people-who-miss-reply-all)
-- [Lifehacker] [You Can Get This PC Gaming Cheats Subscription on Sale for $50 Right Now](https://lifehacker.com/entertainment/pc-gaming-cheats-sale)
-- [Lifehacker] [Six Reasons Your Home Isn&#39;t Selling &lpar;and What to Do About It&rpar;](https://lifehacker.com/money/why-your-home-isnt-selling)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Change the Wifi Password on Your Router](https://lifehacker.com/tech/how-to-change-your-wi-fi-router-password)<!-- TECH-POSTS:END -->
 
 ---
 
