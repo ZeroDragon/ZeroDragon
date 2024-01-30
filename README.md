@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀Navigating the GraphQL Galaxy🌌: A Comprehensive Roadmap for Developers 🚀](https://dev.to/mohitkadwe19/navigating-the-graphql-galaxy-a-comprehensive-roadmap-for-developers-43nm)
 - [Dev.to/JS] [Navigating the Maze of Web Development Frameworks](https://dev.to/scofieldidehen/navigating-the-maze-of-web-development-frameworks-2cd2)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.8](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-18-41jp)
 - [Lifehacker] [You Can Set Up a Eufy Security System for up to 59% Off Right Now](https://lifehacker.com/tech/best-eufy-security-system-deals)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue Nice Validate](https://dev.to/yogeshgalav7/vue-nice-validate-1bd7)
 - [Lifehacker] [All the Ways an Outdoor Furnace Can Improve Your Winter](https://lifehacker.com/home/are-outdoor-furnaces-worth-it)
 - [Dev.to/JS] [AMP Credit Loan Customer care Helpline number⚡ ✔️7477325529*//9706590327 Contact Us.](https://dev.to/innkbkm/amp-credit-loan-customer-care-helpline-number74773255299706590327-contact-us-2hc6)
-- [Dev.to/JS] [AMP Credit Customer care Helpline number⚡ ✔️7477325529*//9706590327 Contact Us.](https://dev.to/innkbkm/amp-credit-customer-care-helpline-number74773255299706590327-contact-us-2lkp)
 - [Lifehacker] [Everyone Can Now Disable Read Receipts on Instagram DMs](https://lifehacker.com/how-to-disable-read-receipts-on-instagram-dms)
 - [Lifehacker] [Three Ways to Use the &#39;One in, One Out&#39; Method to Slowly Declutter Your Home](https://lifehacker.com/home/how-to-use-one-in-one-out-trend-to-declutter-over-time)
 - [Lifehacker] [The Two Best Ways to Stem Kale and Other Bitter Greens](https://lifehacker.com/food-drink/how-to-stem-kale)
