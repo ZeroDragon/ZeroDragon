@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Art of Maintainable JavaScript Code: Best Practices](https://dev.to/rishabh07r/the-art-of-maintainable-javascript-code-best-practices-22mb)
 - [Dev.to/JS] [Purview - Data estate insights](https://dev.to/avelynhc/purview-data-estate-insights-9ag)
 - [Dev.to/JS] [Daily Code 54 | 🔢 PvP Number guessing with JavaScript](https://dev.to/gregor_schafroth/daily-code-54-pvp-number-guessing-with-javascript-3cn0)
 - [Lifehacker] [Today Is the Last Day to Get the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Six Steps You Should Take After a Tree Falls on Your House](https://lifehacker.com/home/what-to-do-when-a-tree-falls-on-house)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/ziemowitmatelski93/buy-verified-paxful-account-2kng)
 - [Dev.to/JS] [PHP node question](https://dev.to/akmaurya31/php-node-question-n7o)
-- [Dev.to/JS] [Depression Demystified: Unraveling the Layers of a Silent Struggle](https://dev.to/yourpsychologistonline/depression-demystified-unraveling-the-layers-of-a-silent-struggle-11lb)
 - [Lifehacker] [The Best Doorbell Cameras to Buy in 2024](https://lifehacker.com/tech/best-doorbell-cameras)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Palworld?&#39;](https://lifehacker.com/entertainment/what-is-palworld-the-out-of-touch-adults-guide-to-kid-culture)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
