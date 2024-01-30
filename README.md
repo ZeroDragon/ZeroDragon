@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Purview - Data estate insights](https://dev.to/avelynhc/purview-data-estate-insights-9ag)
+- [Dev.to/JS] [Daily Code 54 | 🔢 PvP Number guessing with JavaScript](https://dev.to/gregor_schafroth/daily-code-54-pvp-number-guessing-with-javascript-3cn0)
+- [Lifehacker] [Today Is the Last Day to Get the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
+- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/ziemowitmatelski93/buy-old-gmail-accounts-303g)
+- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/ziemowitmatelski93/buy-glassdoor-reviews-44nl)
+- [Lifehacker] [Seven &#39;Home Improvements&#39; You’ll Almost Certainly Regret](https://lifehacker.com/home/home-improvements-you-will-regret)
 - [Dev.to/JS] [Directions of Reactivity](https://dev.to/ninjin/directions-of-reactivity-1h4b)
+- [Lifehacker] [The Difference Between a Realtor and Real Estate Agent &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/ziemowitmatelski93/buy-google-reviews-2p4j)
 - [Dev.to/JS] [JavaScript Fundamentals: Data Types](https://dev.to/timothyrobards/javascript-fundamentals-data-types-4e5f)
 - [Lifehacker] [How to Choose the Best Internet Speed for Your Home](https://lifehacker.com/tech/what-internet-speed-should-i-pay-for)
@@ -36,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/ziemowitmatelski93/buy-verified-paxful-account-2kng)
 - [Dev.to/JS] [PHP node question](https://dev.to/akmaurya31/php-node-question-n7o)
 - [Dev.to/JS] [Depression Demystified: Unraveling the Layers of a Silent Struggle](https://dev.to/yourpsychologistonline/depression-demystified-unraveling-the-layers-of-a-silent-struggle-11lb)
-- [Dev.to/JS] [Database deadlocks](https://dev.to/akmaurya31/database-deadlocks-202h)
 - [Lifehacker] [The Best Doorbell Cameras to Buy in 2024](https://lifehacker.com/tech/best-doorbell-cameras)
-- [Dev.to/JS] [Open-Source Headless CMS in 2024](https://dev.to/nikpoltoratsky/open-source-headless-cms-in-2024-57ko)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Palworld?&#39;](https://lifehacker.com/entertainment/what-is-palworld-the-out-of-touch-adults-guide-to-kid-culture)
-- [Dev.to/JS] [The Pragmatic Programmer: Your Journey to Mastery](https://dev.to/alexroor4/the-pragmatic-programmer-your-journey-to-mastery-1cbj)
-- [Dev.to/JS] [Desvendando a Notação Big O: O Coração da Eficiência Algorítmica](https://dev.to/diogofelizardo/a-3jgg)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [You Can Set Up a Eufy Security System for up to 59% Off Right Now](https://lifehacker.com/tech/best-eufy-security-system-deals)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Apps to Stop AI From Stealing Your Art](https://lifehacker.com/tech/use-glaze-and-nightshade-to-stop-ai-from-stealing-your-art)
 - [Lifehacker] [12 Podcasts for People Who Miss &#39;Reply All&#39;](https://lifehacker.com/entertainment/podcasts-for-people-who-miss-reply-all)
 - [Lifehacker] [You Can Get This PC Gaming Cheats Subscription on Sale for $50 Right Now](https://lifehacker.com/entertainment/pc-gaming-cheats-sale)
-- [Lifehacker] [Six Reasons Your Home Isn&#39;t Selling &lpar;and What to Do About It&rpar;](https://lifehacker.com/money/why-your-home-isnt-selling)
-- [Lifehacker] [This Is Actually the Best Way to Reheat Fries](https://lifehacker.com/how-to-reheat-fries-in-an-air-fryer)
-- [Lifehacker] [How to Descale a Keurig &lpar;or Other Pod Coffee Maker&rpar;](https://lifehacker.com/home/how-to-descale-a-keurig-or-other-pod-coffee-maker)
-- [Lifehacker] [How Mesh Networking Can Solve Your Wifi Connectivity Problems](https://lifehacker.com/tech/what-is-mesh-networking)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Six Reasons Your Home Isn&#39;t Selling &lpar;and What to Do About It&rpar;](https://lifehacker.com/money/why-your-home-isnt-selling)<!-- TECH-POSTS:END -->
 
 ---
 
