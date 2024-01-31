@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Light weight &lpar;5k&rpar; JS framework to create Web Components](https://dev.to/frustigor/light-weight-5k-js-framework-to-create-web-components-30j3)
+- [Dev.to/JS] [Starting the Data Journey: Learning Azure Data Engineering in Hyderabad](https://dev.to/rajasekhar/starting-the-data-journey-learning-azure-data-engineering-in-hyderabad-4l83)
 - [Dev.to/JS] [MYSQL and Mongo DB Interview](https://dev.to/avinashrepo/mysql-and-mongo-db-interview-36db)
 - [Dev.to/JS] [MYSQL and Mongo DB Interview](https://dev.to/avinashrepo/mysql-and-mongo-db-interview-34bj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
@@ -43,13 +45,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Promise](https://dev.to/barrisam/javascript-promise-3g6o)
 - [Dev.to/JS] [Rapid Prototyping with Flask, Bootstrap and Secutio](https://dev.to/mrhdias/rapid-prototyping-with-flask-bootstrap-and-secutio-1719)
 - [Lifehacker] [Cozy-up With a Different Kind of Dumpling](https://lifehacker.com/food-drink/swiss-capuns-recipe)
-- [Dev.to/JS] [🛀 CleanUp in React](https://dev.to/jorjishasan/cleanup-in-react-5dkc)
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
 - [Lifehacker] [Is Amazon Alexa Spying on You?](https://lifehacker.com/tech/does-amazon-alexa-spy-on-you)
 - [Lifehacker] [How Much Money Is &#39;Enough&#39; to Make You Happy](https://lifehacker.com/money/how-much-money-is-enough-to-make-you-happy)
 - [Lifehacker] [You Can Get This WonderCube Pro Charging Cable on Sale for $40 Right Now](https://lifehacker.com/tech/wondercube-pro-sale)
 - [Lifehacker] [Don&#39;t Lead-Test Your Stanley Cup Until You Read This](https://lifehacker.com/health/stanley-cups-contain-lead-should-you-worry)
-- [Dev.to/JS] [Scale from One to Millions of Users](https://dev.to/vorillaz/scale-from-one-to-millions-of-users-47i3)
 - [Lifehacker] [How to Stream PlayStation’s &#39;State of Play&#39; Showcase](https://lifehacker.com/entertainment/how-to-stream-playstations-state-of-play-showcase)
 - [Lifehacker] [The Apple Watch Series 9 Is Seeing a Big Discount for a Limited Time](https://lifehacker.com/tech/apple-watch-series-9-discount)
 - [Lifehacker] [You Can Get These Live Translation Earbuds on Sale for $130 Right Now](https://lifehacker.com/live-translation-earbuds-sale)
