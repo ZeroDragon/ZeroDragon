@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Travel Booking Using Next.js 14, Prisma, TailwindCSS &amp; Next Auth](https://dev.to/devtips3/travel-booking-using-nextjs-14-prisma-tailwindcss-next-auth-2i2n)
+- [Dev.to/JS] [How I build a YouTube Video Player with ReactJS: Building FrameTooltip component](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-frametooltip-component-3o6p)
 - [Dev.to/JS] [Carriera - Multipage Job platform. Built with Astro, Tailwind CSS and MDX](https://dev.to/lexingtonthemes/carriera-multipage-job-platform-built-with-astro-tailwind-css-and-mdx-aj0)
 - [Dev.to/JS] [Kotei - Multipage agency theme. Built with Astro, Tailwind CSS and MDX](https://dev.to/mike_andreuzza/kotei-multipage-agency-theme-built-with-astro-tailwind-css-and-mdx-4209)
 - [Dev.to/JS] [Fintech Business HTML Template - Borrow](https://dev.to/easetemplates/fintech-business-html-template-borrow-48nh)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The easiest way to send mobile push notifications for developers](https://dev.to/mperkins808/the-easiest-way-to-send-mobile-push-notifications-for-developers-40o1)
 - [Dev.to/JS] [Demystifying MO-200: The Ultimate Resource for Success](https://dev.to/mo200practicetest/demystifying-mo-200-the-ultimate-resource-for-success-18cg)
 - [Dev.to/JS] [Polymorphism in JavaScript - Understand the Need of Learning Polymorphism](https://dev.to/codingmadeeasy/polymorphism-in-javascript-understand-the-need-of-learning-polymorphism-11j7)
-- [Dev.to/JS] [Best Practices for Ethical and Efficient Web Scraping](https://dev.to/aphelia/best-practices-for-ethical-and-efficient-web-scraping-3op3)
-- [Dev.to/JS] [Navigating the React Redux toolkit as a Frontend developer](https://dev.to/saikatbishal/navigating-the-react-redux-toolkit-as-a-frontend-developer-3p9h)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
