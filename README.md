@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MYSQL and Mongo DB Interview](https://dev.to/avinashrepo/mysql-and-mongo-db-interview-36db)
+- [Dev.to/JS] [MYSQL and Mongo DB Interview](https://dev.to/avinashrepo/mysql-and-mongo-db-interview-34bj)
+- [Dev.to/JS] [First Blog Post](https://dev.to/silasgebhart/first-blog-post-1jp8)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Dev.to/JS] [Lens Library](https://dev.to/rmion/lens-library-1fem)
 - [Dev.to/JS] [Sending Emails Made Easy Integrating Nodemailer with Reactjs](https://dev.to/scofieldidehen/sending-emails-made-easy-integrating-nodemailer-with-reactjs-2hl7)
@@ -46,13 +49,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This WonderCube Pro Charging Cable on Sale for $40 Right Now](https://lifehacker.com/tech/wondercube-pro-sale)
 - [Lifehacker] [Don&#39;t Lead-Test Your Stanley Cup Until You Read This](https://lifehacker.com/health/stanley-cups-contain-lead-should-you-worry)
 - [Dev.to/JS] [Scale from One to Millions of Users](https://dev.to/vorillaz/scale-from-one-to-millions-of-users-47i3)
-- [Dev.to/JS] [What is Transpilation?](https://dev.to/samyak112/what-is-transpilation-4hl0)
 - [Lifehacker] [How to Stream PlayStation’s &#39;State of Play&#39; Showcase](https://lifehacker.com/entertainment/how-to-stream-playstations-state-of-play-showcase)
 - [Lifehacker] [The Apple Watch Series 9 Is Seeing a Big Discount for a Limited Time](https://lifehacker.com/tech/apple-watch-series-9-discount)
-- [Dev.to/JS] [mua chung Kittl](https://dev.to/wsovn112/mua-chung-kittl-3opm)
 - [Lifehacker] [You Can Get These Live Translation Earbuds on Sale for $130 Right Now](https://lifehacker.com/live-translation-earbuds-sale)
 - [Lifehacker] [All the New Emojis Coming to Your iPhone With iOS 17.4](https://lifehacker.com/tech/new-emojis-iphone-ios-17)
-- [Dev.to/JS] [The Art of Maintainable JavaScript Code: Best Practices](https://dev.to/rishabh07r/the-art-of-maintainable-javascript-code-best-practices-22mb)
 - [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
 - [Lifehacker] [Today Is the Last Day to Get the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
 - [Lifehacker] [Seven &#39;Home Improvements&#39; You’ll Almost Certainly Regret](https://lifehacker.com/home/home-improvements-you-will-regret)
