@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The easiest way to send mobile push notifications for developers](https://dev.to/mperkins808/the-easiest-way-to-send-mobile-push-notifications-for-developers-40o1)
+- [Dev.to/JS] [Demystifying MO-200: The Ultimate Resource for Success](https://dev.to/mo200practicetest/demystifying-mo-200-the-ultimate-resource-for-success-18cg)
+- [Dev.to/JS] [Polymorphism in JavaScript - Understand the Need of Learning Polymorphism](https://dev.to/codingmadeeasy/polymorphism-in-javascript-understand-the-need-of-learning-polymorphism-11j7)
+- [Dev.to/JS] [Best Practices for Ethical and Efficient Web Scraping](https://dev.to/aphelia/best-practices-for-ethical-and-efficient-web-scraping-3op3)
 - [Dev.to/JS] [Navigating the React Redux toolkit as a Frontend developer](https://dev.to/saikatbishal/navigating-the-react-redux-toolkit-as-a-frontend-developer-3p9h)
 - [Dev.to/JS] [npm vs yarn: Choose the Right Package Manager for Your Next Project](https://dev.to/codeparrot/npm-vs-yarn-choose-the-right-package-manager-for-your-next-project-3dec)
 - [Dev.to/JS] [Light weight &lpar;5k&rpar; JS framework to create Web Components](https://dev.to/frustigor/light-weight-5k-js-framework-to-create-web-components-30j3)
@@ -36,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First Blog Post](https://dev.to/silasgebhart/first-blog-post-1jp8)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Dev.to/JS] [Lens Library](https://dev.to/rmion/lens-library-1fem)
-- [Dev.to/JS] [Sending Emails Made Easy Integrating Nodemailer with Reactjs](https://dev.to/scofieldidehen/sending-emails-made-easy-integrating-nodemailer-with-reactjs-2hl7)
-- [Dev.to/JS] [Why React Query is an awesome tool to manage Remote State in your applications](https://dev.to/ricardogesteves/why-react-query-is-an-awesome-tool-to-manage-remote-state-in-your-applications-4l6a)
 - [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
 - [Lifehacker] [‘Suicide Squad: Kill the Justice League’ Early Access Is a Mess, Here’s How to Get a Refund](https://lifehacker.com/entertainment/how-to-get-a-refund-on-suicide-squad-kill-the-justice-league-preorders)
 - [Lifehacker] [You Should Be Using Apple&#39;s New Stolen Device Protection Feature](https://lifehacker.com/tech/apples-new-stolen-device-protection-feature-ios-17-3)
-- [Dev.to/JS] [Optimizing Your Next.js Website: A Guide to Google Core Web Vitals](https://dev.to/ayuse/optimizing-your-nextjs-website-a-guide-to-google-core-web-vitals-5a85)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.9](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-19-1f80)
 - [Lifehacker] [Make a Better To-do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)
 - [Lifehacker] [Cozy-up With a Different Kind of Dumpling](https://lifehacker.com/food-drink/swiss-capuns-recipe)
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
