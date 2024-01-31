@@ -26,27 +26,28 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Enterprise Design Patterns](https://dev.to/ashwan_lal/react-enterprise-design-patterns-3hib)
+- [Dev.to/JS] [Daily Code 55 | 🔢 PvP Number guessing with JavaScript &lpar;2&rpar;](https://dev.to/gregor_schafroth/daily-code-55-pvp-number-guessing-with-javascript-2-35nj)
+- [Dev.to/JS] [React and Components](https://dev.to/tiffanyman19/react-and-components-5c79)
+- [Dev.to/JS] [Staying Consistent and Motivated as a Newbie in Coding and Tech 💻🚀](https://dev.to/fonyuygita/staying-consistent-and-motivated-as-a-newbie-in-coding-and-tech-285n)
+- [Dev.to/JS] [Embarking Automation journey with Cypress: A Beginner&#39;s Guide](https://dev.to/kailashpathak7/cypress-studio-a-beginners-guide-1154)
 - [Dev.to/JS] [How Array.reduce&lpar;&rpar; could replace other array methods](https://dev.to/oussamabouyahia/how-arrayreduce-could-replace-other-array-methods-ej4)
 - [Dev.to/JS] [The JavaScript Evolution: Trends and Transformations](https://dev.to/angelamiton/the-javascript-evolution-trends-and-transformations-301p)
 - [Dev.to/JS] [As Vantagens do Tailwind CSS em Projetos ReactJS](https://dev.to/andreyaraujo/as-vantagens-do-tailwind-css-em-projetos-reactjs-4e5g)
 - [Dev.to/JS] [Access array items using negative indices](https://dev.to/phuocng/access-array-items-using-negative-indices-4glj)
 - [Dev.to/JS] [ESLint and Prettier: A Symphony of Code Quality and Formatting](https://dev.to/ellis22/eslint-and-prettier-a-symphony-of-code-quality-and-formatting-33jo)
+- [Lifehacker] [Use the &#39;Move-Out&#39; Method to Declutter Your Home](https://lifehacker.com/home/declutter-home-using-move-out-method)
 - [Dev.to/JS] [JavaScript Web APIs Series: File and Storage APIs](https://dev.to/olodocoder/javascript-web-apis-series-file-and-storage-apis-584o)
 - [Dev.to/JS] [Why working remotely improves productivity](https://dev.to/ashmeera/why-working-remotely-improves-productivity-3bhe)
 - [Lifehacker] [When You Can Watch WWE on Netflix](https://lifehacker.com/entertainment/where-to-watch-wwe-raw)
-- [Dev.to/JS] [How to use redis with node.js](https://dev.to/divine_nnanna2/how-to-use-redis-with-nodejs-14id)
 - [Lifehacker] [Use This Browser Extension to Decide If You Should Book Your Flight With Rewards or Cash](https://lifehacker.com/travel/book-your-flight-with-points-path)
-- [Dev.to/JS] [GitHub Copilot Research Finds &quot;Downward Pressure on Code Quality&quot;](https://dev.to/jesterxl/github-copilot-research-finds-downward-pressure-on-code-quality-4m87)
-- [Dev.to/JS] [Luxand.cloud Insights. Popular Programming Languages For Face Recognition](https://dev.to/luxandcloud/luxandcloud-insights-popular-programming-languages-for-face-recognition-36b6)
-- [Dev.to/JS] [Leetcode - 207. Course Schedule](https://dev.to/rakeshreddy512/207-course-schedule-5ffe)
-- [Dev.to/JS] [Sugar Defender Canada The #1 Rated Blood Sugar Formula Manage Blood Sugar | Diabetes](https://dev.to/ponddion/sugar-defender-canada-the-1-rated-blood-sugar-formula-manage-blood-sugar-diabetes-4fjk)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
 - [Lifehacker] [‘Suicide Squad: Kill the Justice League’ Early Access Is a Mess, Here’s How to Get a Refund](https://lifehacker.com/entertainment/how-to-get-a-refund-on-suicide-squad-kill-the-justice-league-preorders)
 - [Lifehacker] [You Should Be Using Apple&#39;s New Stolen Device Protection Feature](https://lifehacker.com/tech/apples-new-stolen-device-protection-feature-ios-17-3)
 - [Lifehacker] [Make a Better To-do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)
-- [Lifehacker] [Cozy-up With a Different Kind of Dumpling](https://lifehacker.com/food-drink/swiss-capuns-recipe)
+- [Lifehacker] [Cozy Up With a Different Kind of Dumpling](https://lifehacker.com/food-drink/swiss-capuns-recipe)
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
 - [Lifehacker] [Is Amazon Alexa Spying on You?](https://lifehacker.com/tech/does-amazon-alexa-spy-on-you)
 - [Lifehacker] [How Much Money Is &#39;Enough&#39; to Make You Happy](https://lifehacker.com/money/how-much-money-is-enough-to-make-you-happy)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Six Steps You Should Take After a Tree Falls on Your House](https://lifehacker.com/home/what-to-do-when-a-tree-falls-on-house)
 - [Lifehacker] [The Best Doorbell Cameras to Buy in 2024](https://lifehacker.com/tech/best-doorbell-cameras)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Palworld?&#39;](https://lifehacker.com/entertainment/what-is-palworld-the-out-of-touch-adults-guide-to-kid-culture)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
-- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)<!-- TECH-POSTS:END -->
 
 ---
 
