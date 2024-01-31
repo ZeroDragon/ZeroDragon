@@ -28,8 +28,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Optimizing Your Next.js Website: A Guide to Google Core Web Vitals](https://dev.to/ayuse/optimizing-your-nextjs-website-a-guide-to-google-core-web-vitals-5a85)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.9](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-19-1f80)
+- [Lifehacker] [Make a Better To-do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)
 - [Dev.to/JS] [Javascript Promise](https://dev.to/barrisam/javascript-promise-3g6o)
 - [Dev.to/JS] [Rapid Prototyping with Flask, Bootstrap and Secutio](https://dev.to/mrhdias/rapid-prototyping-with-flask-bootstrap-and-secutio-1719)
+- [Lifehacker] [Cozy-up With a Different Kind of Dumpling](https://lifehacker.com/food-drink/swiss-capuns-recipe)
 - [Dev.to/JS] [🛀 CleanUp in React](https://dev.to/jorjishasan/cleanup-in-react-5dkc)
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
 - [Lifehacker] [Is Amazon Alexa Spying on You?](https://lifehacker.com/tech/does-amazon-alexa-spy-on-you)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Refurbished Garmin Smartwatches Are Majorly Discounted Right Now](https://lifehacker.com/tech/refurbished-garmin-smartwatches-sale-woot)
 - [Lifehacker] [Shazam Can Now Identify Songs While You&#39;re Wearing Headphones](https://lifehacker.com/tech/shazam-can-identify-songs-while-wearing-headphones)
 - [Lifehacker] [Every Type of Smart Home Sensor &lpar;and How to Use Them&rpar;](https://lifehacker.com/tech/every-type-of-smart-home-sensor-how-to-use)
-- [Lifehacker] [Stream These TV Shows When You Need Cleaning Inspiration](https://lifehacker.com/home/best-tv-shows-to-stream-for-cleaning-inspiration)
-- [Lifehacker] [All the Ways an Outdoor Furnace Can Improve Your Winter](https://lifehacker.com/home/are-outdoor-furnaces-worth-it)
-- [Lifehacker] [Everyone Can Now Disable Read Receipts on Instagram DMs](https://lifehacker.com/how-to-disable-read-receipts-on-instagram-dms)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stream These TV Shows When You Need Cleaning Inspiration](https://lifehacker.com/home/best-tv-shows-to-stream-for-cleaning-inspiration)<!-- TECH-POSTS:END -->
 
 ---
 
