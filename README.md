@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating the React Redux toolkit as a Frontend developer](https://dev.to/saikatbishal/navigating-the-react-redux-toolkit-as-a-frontend-developer-3p9h)
+- [Dev.to/JS] [npm vs yarn: Choose the Right Package Manager for Your Next Project](https://dev.to/codeparrot/npm-vs-yarn-choose-the-right-package-manager-for-your-next-project-3dec)
 - [Dev.to/JS] [Light weight &lpar;5k&rpar; JS framework to create Web Components](https://dev.to/frustigor/light-weight-5k-js-framework-to-create-web-components-30j3)
 - [Dev.to/JS] [Starting the Data Journey: Learning Azure Data Engineering in Hyderabad](https://dev.to/rajasekhar/starting-the-data-journey-learning-azure-data-engineering-in-hyderabad-4l83)
 - [Dev.to/JS] [MYSQL and Mongo DB Interview](https://dev.to/avinashrepo/mysql-and-mongo-db-interview-36db)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing Your Next.js Website: A Guide to Google Core Web Vitals](https://dev.to/ayuse/optimizing-your-nextjs-website-a-guide-to-google-core-web-vitals-5a85)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.9](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-19-1f80)
 - [Lifehacker] [Make a Better To-do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)
-- [Dev.to/JS] [Javascript Promise](https://dev.to/barrisam/javascript-promise-3g6o)
-- [Dev.to/JS] [Rapid Prototyping with Flask, Bootstrap and Secutio](https://dev.to/mrhdias/rapid-prototyping-with-flask-bootstrap-and-secutio-1719)
 - [Lifehacker] [Cozy-up With a Different Kind of Dumpling](https://lifehacker.com/food-drink/swiss-capuns-recipe)
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
 - [Lifehacker] [Is Amazon Alexa Spying on You?](https://lifehacker.com/tech/does-amazon-alexa-spy-on-you)
