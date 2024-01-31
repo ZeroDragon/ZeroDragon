@@ -26,19 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Arc Search May Be the Future the Internet](https://lifehacker.com/tech/why-arc-search-is-the-future-of-web)
+- [Dev.to/JS] [Formação gratuita para novos desenvolvedores](https://dev.to/marcellecode/formacao-gratuita-para-novos-desenvolvedores-3mp0)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/tomaszzapolski59/buy-google-5-star-reviews-1l40)
+- [Dev.to/JS] [Book Club: Eloquent JavaScript. 4 Programme Structure and Functions](https://dev.to/ruthmoog/book-club-eloquent-javascript-4-programme-structure-5ea8)
+- [Dev.to/JS] [Tonus of Reactivity](https://dev.to/ninjin/tonus-of-reactivity-20h1)
 - [Dev.to/JS] [React Enterprise Design Patterns](https://dev.to/ashwan_lal/react-enterprise-design-patterns-3hib)
 - [Dev.to/JS] [Daily Code 55 | 🔢 PvP Number guessing with JavaScript &lpar;2&rpar;](https://dev.to/gregor_schafroth/daily-code-55-pvp-number-guessing-with-javascript-2-35nj)
 - [Dev.to/JS] [React and Components](https://dev.to/tiffanyman19/react-and-components-5c79)
 - [Dev.to/JS] [Staying Consistent and Motivated as a Newbie in Coding and Tech 💻🚀](https://dev.to/fonyuygita/staying-consistent-and-motivated-as-a-newbie-in-coding-and-tech-285n)
+- [Lifehacker] [Seven Ways to Make Your Home Decor Look Timeless](https://lifehacker.com/home/how-to-make-your-home-decor-look-timeless)
 - [Dev.to/JS] [Embarking Automation journey with Cypress: A Beginner&#39;s Guide](https://dev.to/kailashpathak7/cypress-studio-a-beginners-guide-1154)
 - [Dev.to/JS] [How Array.reduce&lpar;&rpar; could replace other array methods](https://dev.to/oussamabouyahia/how-arrayreduce-could-replace-other-array-methods-ej4)
+- [Lifehacker] [How to Sync Your Apple Watch Workouts With Strava](https://lifehacker.com/tech/how-to-connect-apple-watch-to-strava)
 - [Dev.to/JS] [The JavaScript Evolution: Trends and Transformations](https://dev.to/angelamiton/the-javascript-evolution-trends-and-transformations-301p)
 - [Dev.to/JS] [As Vantagens do Tailwind CSS em Projetos ReactJS](https://dev.to/andreyaraujo/as-vantagens-do-tailwind-css-em-projetos-reactjs-4e5g)
-- [Dev.to/JS] [Access array items using negative indices](https://dev.to/phuocng/access-array-items-using-negative-indices-4glj)
-- [Dev.to/JS] [ESLint and Prettier: A Symphony of Code Quality and Formatting](https://dev.to/ellis22/eslint-and-prettier-a-symphony-of-code-quality-and-formatting-33jo)
 - [Lifehacker] [Use the &#39;Move-Out&#39; Method to Declutter Your Home](https://lifehacker.com/home/declutter-home-using-move-out-method)
-- [Dev.to/JS] [JavaScript Web APIs Series: File and Storage APIs](https://dev.to/olodocoder/javascript-web-apis-series-file-and-storage-apis-584o)
-- [Dev.to/JS] [Why working remotely improves productivity](https://dev.to/ashmeera/why-working-remotely-improves-productivity-3bhe)
 - [Lifehacker] [When You Can Watch WWE on Netflix](https://lifehacker.com/entertainment/where-to-watch-wwe-raw)
 - [Lifehacker] [Use This Browser Extension to Decide If You Should Book Your Flight With Rewards or Cash](https://lifehacker.com/travel/book-your-flight-with-points-path)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven &#39;Home Improvements&#39; You’ll Almost Certainly Regret](https://lifehacker.com/home/home-improvements-you-will-regret)
 - [Lifehacker] [The Difference Between a Realtor and Real Estate Agent &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
 - [Lifehacker] [How to Choose the Best Internet Speed for Your Home](https://lifehacker.com/tech/what-internet-speed-should-i-pay-for)
-- [Lifehacker] [The Six Steps You Should Take After a Tree Falls on Your House](https://lifehacker.com/home/what-to-do-when-a-tree-falls-on-house)
-- [Lifehacker] [The Best Doorbell Cameras to Buy in 2024](https://lifehacker.com/tech/best-doorbell-cameras)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Palworld?&#39;](https://lifehacker.com/entertainment/what-is-palworld-the-out-of-touch-adults-guide-to-kid-culture)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Six Steps You Should Take After a Tree Falls on Your House](https://lifehacker.com/home/what-to-do-when-a-tree-falls-on-house)<!-- TECH-POSTS:END -->
 
 ---
 
