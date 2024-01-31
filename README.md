@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GitHub Copilot Research Finds &quot;Downward Pressure on Code Quality&quot;](https://dev.to/jesterxl/github-copilot-research-finds-downward-pressure-on-code-quality-4m87)
+- [Dev.to/JS] [Luxand.cloud Insights. Popular Programming Languages For Face Recognition](https://dev.to/luxandcloud/luxandcloud-insights-popular-programming-languages-for-face-recognition-36b6)
+- [Dev.to/JS] [207. Course Schedule](https://dev.to/rakeshreddy512/207-course-schedule-5ffe)
+- [Dev.to/JS] [207. Course Schedule](https://dev.to/rakeshreddy512/207-course-schedule-3fik)
 - [Dev.to/JS] [Sugar Defender Canada The #1 Rated Blood Sugar Formula Manage Blood Sugar | Diabetes](https://dev.to/ponddion/sugar-defender-canada-the-1-rated-blood-sugar-formula-manage-blood-sugar-diabetes-4fjk)
 - [Dev.to/JS] [Top 10 companies for web portal development](https://dev.to/sparkouttech/top-10-companies-for-web-portal-development-4jf5)
 - [Dev.to/JS] [🏁 Build tool choice for MVP projects](https://dev.to/maissenayed/build-tool-choice-for-mvp-projects-36ab)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Correct way to upload File&lpar;s&rpar;](https://dev.to/codeparrot/correct-way-to-upload-files-40p)
 - [Dev.to/JS] [Exploring Front-End Adventures: Building Chrome Extensions, Navigating Trends, and Embracing Challenges](https://dev.to/rodrigoant/exploring-front-end-adventures-building-chrome-extensions-navigating-trends-and-embracing-challenges-5b9n)
 - [Dev.to/JS] [Travel Booking Using Next.js 14, Prisma, TailwindCSS &amp; Next Auth](https://dev.to/devtips3/travel-booking-using-nextjs-14-prisma-tailwindcss-next-auth-2i2n)
-- [Dev.to/JS] [How I build a YouTube Video Player with ReactJS: Building FrameTooltip component](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-frametooltip-component-3o6p)
-- [Dev.to/JS] [Carriera - Multipage Job platform. Built with Astro, Tailwind CSS and MDX](https://dev.to/lexingtonthemes/carriera-multipage-job-platform-built-with-astro-tailwind-css-and-mdx-aj0)
-- [Dev.to/JS] [Kotei - Multipage agency theme. Built with Astro, Tailwind CSS and MDX](https://dev.to/mike_andreuzza/kotei-multipage-agency-theme-built-with-astro-tailwind-css-and-mdx-4209)
-- [Dev.to/JS] [Fintech Business HTML Template - Borrow](https://dev.to/easetemplates/fintech-business-html-template-borrow-48nh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
