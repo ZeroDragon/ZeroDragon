@@ -28,6 +28,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [MYSQL and Mongo DB Interview](https://dev.to/avinashrepo/mysql-and-mongo-db-interview-36db)
 - [Dev.to/JS] [MYSQL and Mongo DB Interview](https://dev.to/avinashrepo/mysql-and-mongo-db-interview-34bj)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
 - [Dev.to/JS] [First Blog Post](https://dev.to/silasgebhart/first-blog-post-1jp8)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Dev.to/JS] [Lens Library](https://dev.to/rmion/lens-library-1fem)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [You Can Set Up a Eufy Security System for up to 59% Off Right Now](https://lifehacker.com/tech/best-eufy-security-system-deals)
-- [Lifehacker] [Make These Berry Cheesecake Twists Out of Leftover Pie Crust](https://lifehacker.com/food-drink/berry-cheesecake-twists-recipe-leftover-pie-crusts)
-- [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100 Right Now](https://lifehacker.com/prism-cloud-storage-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make These Berry Cheesecake Twists Out of Leftover Pie Crust](https://lifehacker.com/food-drink/berry-cheesecake-twists-recipe-leftover-pie-crusts)<!-- TECH-POSTS:END -->
 
 ---
 
