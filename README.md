@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Dev.to/JS] [Lens Library](https://dev.to/rmion/lens-library-1fem)
 - [Dev.to/JS] [Sending Emails Made Easy Integrating Nodemailer with Reactjs](https://dev.to/scofieldidehen/sending-emails-made-easy-integrating-nodemailer-with-reactjs-2hl7)
 - [Dev.to/JS] [Why React Query is an awesome tool to manage Remote State in your applications](https://dev.to/ricardogesteves/why-react-query-is-an-awesome-tool-to-manage-remote-state-in-your-applications-4l6a)
+- [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
 - [Lifehacker] [‘Suicide Squad: Kill the Justice League’ Early Access Is a Mess, Here’s How to Get a Refund](https://lifehacker.com/entertainment/how-to-get-a-refund-on-suicide-squad-kill-the-justice-league-preorders)
 - [Lifehacker] [You Should Be Using Apple&#39;s New Stolen Device Protection Feature](https://lifehacker.com/tech/apples-new-stolen-device-protection-feature-ios-17-3)
 - [Dev.to/JS] [Optimizing Your Next.js Website: A Guide to Google Core Web Vitals](https://dev.to/ayuse/optimizing-your-nextjs-website-a-guide-to-google-core-web-vitals-5a85)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Lifehacker] [You Can Set Up a Eufy Security System for up to 59% Off Right Now](https://lifehacker.com/tech/best-eufy-security-system-deals)
 - [Lifehacker] [Make These Berry Cheesecake Twists Out of Leftover Pie Crust](https://lifehacker.com/food-drink/berry-cheesecake-twists-recipe-leftover-pie-crusts)
-- [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100 Right Now](https://lifehacker.com/prism-cloud-storage-sale)
-- [Lifehacker] [Refurbished Garmin Smartwatches Are Majorly Discounted Right Now](https://lifehacker.com/tech/refurbished-garmin-smartwatches-sale-woot)
-- [Lifehacker] [Shazam Can Now Identify Songs While You&#39;re Wearing Headphones](https://lifehacker.com/tech/shazam-can-identify-songs-while-wearing-headphones)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100 Right Now](https://lifehacker.com/prism-cloud-storage-sale)<!-- TECH-POSTS:END -->
 
 ---
 
