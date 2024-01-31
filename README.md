@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [Why Arc Search May Be the Future the Internet](https://lifehacker.com/tech/why-arc-search-is-the-future-of-web)
+- [Dev.to/JS] [AI for Web Devs: Addressing Bugs, Security, &amp; Reliability](https://dev.to/austingil/ai-for-web-devs-addressing-bugs-security-reliability-4jnm)
+- [Dev.to/JS] [🔥 5 Best Libraries to Develop React.js Forms 2024](https://dev.to/ansonch/5-best-libraries-to-develop-reactjs-forms-2024-49k3)
+- [Lifehacker] [You Don&#39;t Have to Wait Until the End of the Year for Your Apple Music Replay](https://lifehacker.com/tech/how-to-get-your-apple-music-replay-any-time-of-the-year)
+- [Lifehacker] [Why Arc Search May Be the Future the Internet](https://lifehacker.com/tech/why-arc-search-may-be-the-future-of-the-internet)
 - [Dev.to/JS] [Formação gratuita para novos desenvolvedores](https://dev.to/marcellecode/formacao-gratuita-para-novos-desenvolvedores-3mp0)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/tomaszzapolski59/buy-google-5-star-reviews-1l40)
 - [Dev.to/JS] [Book Club: Eloquent JavaScript. 4 Programme Structure and Functions](https://dev.to/ruthmoog/book-club-eloquent-javascript-4-programme-structure-5ea8)
@@ -37,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Staying Consistent and Motivated as a Newbie in Coding and Tech 💻🚀](https://dev.to/fonyuygita/staying-consistent-and-motivated-as-a-newbie-in-coding-and-tech-285n)
 - [Lifehacker] [Seven Ways to Make Your Home Decor Look Timeless](https://lifehacker.com/home/how-to-make-your-home-decor-look-timeless)
 - [Dev.to/JS] [Embarking Automation journey with Cypress: A Beginner&#39;s Guide](https://dev.to/kailashpathak7/cypress-studio-a-beginners-guide-1154)
-- [Dev.to/JS] [How Array.reduce&lpar;&rpar; could replace other array methods](https://dev.to/oussamabouyahia/how-arrayreduce-could-replace-other-array-methods-ej4)
+- [Dev.to/JS] [#myDEVResolutions2024](https://dev.to/israelrotimi/devresolutions2024-44o9)
 - [Lifehacker] [How to Sync Your Apple Watch Workouts With Strava](https://lifehacker.com/tech/how-to-connect-apple-watch-to-strava)
-- [Dev.to/JS] [The JavaScript Evolution: Trends and Transformations](https://dev.to/angelamiton/the-javascript-evolution-trends-and-transformations-301p)
-- [Dev.to/JS] [As Vantagens do Tailwind CSS em Projetos ReactJS](https://dev.to/andreyaraujo/as-vantagens-do-tailwind-css-em-projetos-reactjs-4e5g)
 - [Lifehacker] [Use the &#39;Move-Out&#39; Method to Declutter Your Home](https://lifehacker.com/home/declutter-home-using-move-out-method)
 - [Lifehacker] [When You Can Watch WWE on Netflix](https://lifehacker.com/entertainment/where-to-watch-wwe-raw)
 - [Lifehacker] [Use This Browser Extension to Decide If You Should Book Your Flight With Rewards or Cash](https://lifehacker.com/travel/book-your-flight-with-points-path)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today Is the Last Day to Get the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
 - [Lifehacker] [Seven &#39;Home Improvements&#39; You’ll Almost Certainly Regret](https://lifehacker.com/home/home-improvements-you-will-regret)
 - [Lifehacker] [The Difference Between a Realtor and Real Estate Agent &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
-- [Lifehacker] [How to Choose the Best Internet Speed for Your Home](https://lifehacker.com/tech/what-internet-speed-should-i-pay-for)
-- [Lifehacker] [The Six Steps You Should Take After a Tree Falls on Your House](https://lifehacker.com/home/what-to-do-when-a-tree-falls-on-house)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose the Best Internet Speed for Your Home](https://lifehacker.com/tech/what-internet-speed-should-i-pay-for)<!-- TECH-POSTS:END -->
 
 ---
 
