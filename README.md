@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Highlight job ads posted by job agent in LinkedIn Jobs](https://dev.to/saladlam/highlight-job-ads-posted-by-job-agent-in-linkedin-jobs-j3d)
+- [Dev.to/JS] [Raycast a launcher faster than F1!](https://dev.to/codingcatdev/raycast-a-launcher-faster-than-f1-1hnp)
 - [Dev.to/JS] [Pointers](https://dev.to/gustrb/pointers-8o7)
+- [Lifehacker] [The Best Way to Make a Truly Creamy Cream Sauce](https://lifehacker.com/food-drink/creamy-parmesan-sauce-recipe)
 - [Dev.to/JS] [Angular Interview - Implement Data Reload](https://dev.to/krivanek06/angular-interview-implement-data-reload-j6j)
+- [Lifehacker] [You Can Get This BirdBike E-bike on Sale for $930 Right Now](https://lifehacker.com/birdbike-ebike-sale)
 - [Lifehacker] [The Samsung Galaxy S24 Launch Comes With $200 Amazon Gift Cards](https://lifehacker.com/tech/samsung-galaxy-s24-amazon-gift-card-deal)
 - [Lifehacker] [What the Vision Pro Could Mean for the Future of Mixed Reality &lpar;and Apple&rpar;](https://lifehacker.com/tech/what-the-vision-pro-could-mean-for-the-future-of-mixed-reality)
 - [Dev.to/JS] [AI for Web Devs: Addressing Bugs, Security, &amp; Reliability](https://dev.to/austingil/ai-for-web-devs-addressing-bugs-security-reliability-4jnm)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tonus of Reactivity](https://dev.to/ninjin/tonus-of-reactivity-20h1)
 - [Dev.to/JS] [React Enterprise Design Patterns](https://dev.to/ashwan_lal/react-enterprise-design-patterns-3hib)
 - [Dev.to/JS] [Daily Code 55 | 🔢 PvP Number guessing with JavaScript &lpar;2&rpar;](https://dev.to/gregor_schafroth/daily-code-55-pvp-number-guessing-with-javascript-2-35nj)
-- [Dev.to/JS] [React and Components](https://dev.to/tiffanyman19/react-and-components-5c79)
-- [Dev.to/JS] [Staying Consistent and Motivated as a Newbie in Coding and Tech 💻🚀](https://dev.to/fonyuygita/staying-consistent-and-motivated-as-a-newbie-in-coding-and-tech-285n)
 - [Lifehacker] [Seven Ways to Make Your Home Decor Look Timeless](https://lifehacker.com/home/how-to-make-your-home-decor-look-timeless)
 - [Lifehacker] [How to Sync Your Apple Watch Workouts With Strava](https://lifehacker.com/tech/how-to-connect-apple-watch-to-strava)
 - [Lifehacker] [Use the &#39;Move-Out&#39; Method to Declutter Your Home](https://lifehacker.com/home/declutter-home-using-move-out-method)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stream PlayStation’s &#39;State of Play&#39; Showcase](https://lifehacker.com/entertainment/how-to-stream-playstations-state-of-play-showcase)
 - [Lifehacker] [The Apple Watch Series 9 Is Seeing a Big Discount for a Limited Time](https://lifehacker.com/tech/apple-watch-series-9-discount)
 - [Lifehacker] [You Can Get These Live Translation Earbuds on Sale for $130 Right Now](https://lifehacker.com/live-translation-earbuds-sale)
-- [Lifehacker] [All the New Emojis Coming to Your iPhone With iOS 17.4](https://lifehacker.com/tech/new-emojis-iphone-ios-17)
-- [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
-- [Lifehacker] [Today Is the Last Day to Get the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the New Emojis Coming to Your iPhone With iOS 17.4](https://lifehacker.com/tech/new-emojis-iphone-ios-17)<!-- TECH-POSTS:END -->
 
 ---
 
