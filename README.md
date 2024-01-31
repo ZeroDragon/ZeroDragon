@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [new to web developer](https://dev.to/ortz/new-to-web-developer-1o1p)
+- [Dev.to/JS] [Supercharging Localization in VS Code with inlang](https://dev.to/felixhaeberle/supercharging-localization-in-vs-code-with-inlang-2ii6)
+- [Dev.to/JS] [Helpful Javascript Oneliners to Make Your Code Cleaner](https://dev.to/barrisam/helpful-javascript-oneliners-to-make-your-code-cleaner-2n7o)
+- [Lifehacker] [Why Everyone Is Suddenly Talking About the 2017 Tax Cuts and Jobs Act](https://lifehacker.com/money/why-everyone-is-talking-about-2017-tax-reform)
 - [Dev.to/JS] [Restful API Testing &lpar;my way&rpar; with Express, Maria DB, Docker Compose and Github Action](https://dev.to/lico/restful-api-testing-my-way-with-express-maria-db-docker-compose-and-github-action-1g0p)
 - [Lifehacker] [Leftover Rice Won&#39;t Kill You Like Social Media Says](https://lifehacker.com/health/is-it-safe-to-eat-leftover-rice)
 - [Lifehacker] [You Can Actually Rent Goats to Eat Weeds in Your Yard](https://lifehacker.com/home/you-can-rent-goats-to-eat-your-weeds)
@@ -45,9 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don&#39;t Have to Wait Until the End of the Year for Your Apple Music Replay](https://lifehacker.com/tech/how-to-get-your-apple-music-replay-any-time-of-the-year)
 - [Lifehacker] [Why Arc Search May Be the Future the Internet](https://lifehacker.com/tech/why-arc-search-may-be-the-future-of-the-internet)
 - [Dev.to/JS] [Formação gratuita para novos desenvolvedores](https://dev.to/marcellecode/formacao-gratuita-para-novos-desenvolvedores-3mp0)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/tomaszzapolski59/buy-google-5-star-reviews-1l40)
-- [Dev.to/JS] [Book Club: Eloquent JavaScript. 4 Programme Structure and Functions](https://dev.to/ruthmoog/book-club-eloquent-javascript-4-programme-structure-5ea8)
-- [Dev.to/JS] [Tonus of Reactivity](https://dev.to/ninjin/tonus-of-reactivity-20h1)
 - [Lifehacker] [Seven Ways to Make Your Home Decor Look Timeless](https://lifehacker.com/home/how-to-make-your-home-decor-look-timeless)
 - [Lifehacker] [How to Sync Your Apple Watch Workouts With Strava](https://lifehacker.com/tech/how-to-connect-apple-watch-to-strava)
 - [Lifehacker] [Use the &#39;Move-Out&#39; Method to Declutter Your Home](https://lifehacker.com/home/declutter-home-using-move-out-method)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is Amazon Alexa Spying on You?](https://lifehacker.com/tech/does-amazon-alexa-spy-on-you)
 - [Lifehacker] [How Much Money Is &#39;Enough&#39; to Make You Happy](https://lifehacker.com/money/how-much-money-is-enough-to-make-you-happy)
 - [Lifehacker] [You Can Get This WonderCube Pro Charging Cable on Sale for $40 Right Now](https://lifehacker.com/tech/wondercube-pro-sale)
-- [Lifehacker] [Don&#39;t Lead-Test Your Stanley Cup Until You Read This](https://lifehacker.com/health/stanley-cups-contain-lead-should-you-worry)
-- [Lifehacker] [How to Stream PlayStation’s &#39;State of Play&#39; Showcase](https://lifehacker.com/entertainment/how-to-stream-playstations-state-of-play-showcase)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Lead-Test Your Stanley Cup Until You Read This](https://lifehacker.com/health/stanley-cups-contain-lead-should-you-worry)<!-- TECH-POSTS:END -->
 
 ---
 
