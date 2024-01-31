@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Array.reduce&lpar;&rpar; could replace other array methods](https://dev.to/oussamabouyahia/how-arrayreduce-could-replace-other-array-methods-ej4)
+- [Dev.to/JS] [The JavaScript Evolution: Trends and Transformations](https://dev.to/angelamiton/the-javascript-evolution-trends-and-transformations-301p)
+- [Dev.to/JS] [As Vantagens do Tailwind CSS em Projetos ReactJS](https://dev.to/andreyaraujo/as-vantagens-do-tailwind-css-em-projetos-reactjs-4e5g)
+- [Dev.to/JS] [Access array items using negative indices](https://dev.to/phuocng/access-array-items-using-negative-indices-4glj)
+- [Dev.to/JS] [ESLint and Prettier: A Symphony of Code Quality and Formatting](https://dev.to/ellis22/eslint-and-prettier-a-symphony-of-code-quality-and-formatting-33jo)
 - [Dev.to/JS] [JavaScript Web APIs Series: File and Storage APIs](https://dev.to/olodocoder/javascript-web-apis-series-file-and-storage-apis-584o)
-- [Dev.to/JS] [Why Working remotely improves Productivity](https://dev.to/ashmeera/why-working-remotely-improves-productivity-3bhe)
+- [Dev.to/JS] [Why working remotely improves productivity](https://dev.to/ashmeera/why-working-remotely-improves-productivity-3bhe)
 - [Lifehacker] [When You Can Watch WWE on Netflix](https://lifehacker.com/entertainment/where-to-watch-wwe-raw)
 - [Dev.to/JS] [How to use redis with node.js](https://dev.to/divine_nnanna2/how-to-use-redis-with-nodejs-14id)
 - [Lifehacker] [Use This Browser Extension to Decide If You Should Book Your Flight With Rewards or Cash](https://lifehacker.com/travel/book-your-flight-with-points-path)
@@ -35,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Luxand.cloud Insights. Popular Programming Languages For Face Recognition](https://dev.to/luxandcloud/luxandcloud-insights-popular-programming-languages-for-face-recognition-36b6)
 - [Dev.to/JS] [Leetcode - 207. Course Schedule](https://dev.to/rakeshreddy512/207-course-schedule-5ffe)
 - [Dev.to/JS] [Sugar Defender Canada The #1 Rated Blood Sugar Formula Manage Blood Sugar | Diabetes](https://dev.to/ponddion/sugar-defender-canada-the-1-rated-blood-sugar-formula-manage-blood-sugar-diabetes-4fjk)
-- [Dev.to/JS] [Top 10 companies for web portal development](https://dev.to/sparkouttech/top-10-companies-for-web-portal-development-4jf5)
-- [Dev.to/JS] [🏁 Build tool choice for MVP projects](https://dev.to/maissenayed/build-tool-choice-for-mvp-projects-36ab)
-- [Dev.to/JS] [Arrow Functions vs. Normal Functions in JavaScript](https://dev.to/hriztam/arrow-functions-vs-normal-functions-in-javascript-2l70)
-- [Dev.to/JS] [Kích thước sách giáo khoa lớp 1: Lựa chọn hợp lý cho sự phát triển học tập](https://dev.to/tiemsachpoly/kich-thuoc-sach-giao-khoa-lop-1-lua-chon-hop-ly-cho-su-phat-trien-hoc-tap-3jl2)
-- [Dev.to/JS] [Correct way to upload File&lpar;s&rpar;](https://dev.to/codeparrot/correct-way-to-upload-files-40p)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
