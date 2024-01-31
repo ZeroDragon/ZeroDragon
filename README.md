@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Restful API Testing &lpar;my way&rpar; with Express, Maria DB, Docker Compose and Github Action](https://dev.to/lico/restful-api-testing-my-way-with-express-maria-db-docker-compose-and-github-action-1g0p)
+- [Lifehacker] [Leftover Rice Won&#39;t Kill You Like Social Media Says](https://lifehacker.com/health/is-it-safe-to-eat-leftover-rice)
+- [Lifehacker] [You Can Actually Rent Goats to Eat Weeds in Your Yard](https://lifehacker.com/home/you-can-rent-goats-to-eat-your-weeds)
+- [Dev.to/JS] [React is not about performance](https://dev.to/arturampilogov/react-is-not-about-performance-16bg)
 - [Dev.to/JS] [Highlight job ads posted by job agent in LinkedIn Jobs](https://dev.to/saladlam/highlight-job-ads-posted-by-job-agent-in-linkedin-jobs-j3d)
+- [Lifehacker] [The GoPro Max is $100 Off Right Now](https://lifehacker.com/tech/gopro-max-100-off-amazon)
 - [Dev.to/JS] [Raycast a launcher faster than F1!](https://dev.to/codingcatdev/raycast-a-launcher-faster-than-f1-1hnp)
 - [Dev.to/JS] [Pointers](https://dev.to/gustrb/pointers-8o7)
 - [Lifehacker] [The Best Way to Make a Truly Creamy Cream Sauce](https://lifehacker.com/food-drink/creamy-parmesan-sauce-recipe)
@@ -43,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/tomaszzapolski59/buy-google-5-star-reviews-1l40)
 - [Dev.to/JS] [Book Club: Eloquent JavaScript. 4 Programme Structure and Functions](https://dev.to/ruthmoog/book-club-eloquent-javascript-4-programme-structure-5ea8)
 - [Dev.to/JS] [Tonus of Reactivity](https://dev.to/ninjin/tonus-of-reactivity-20h1)
-- [Dev.to/JS] [React Enterprise Design Patterns](https://dev.to/ashwan_lal/react-enterprise-design-patterns-3hib)
-- [Dev.to/JS] [Daily Code 55 | 🔢 PvP Number guessing with JavaScript &lpar;2&rpar;](https://dev.to/gregor_schafroth/daily-code-55-pvp-number-guessing-with-javascript-2-35nj)
 - [Lifehacker] [Seven Ways to Make Your Home Decor Look Timeless](https://lifehacker.com/home/how-to-make-your-home-decor-look-timeless)
 - [Lifehacker] [How to Sync Your Apple Watch Workouts With Strava](https://lifehacker.com/tech/how-to-connect-apple-watch-to-strava)
 - [Lifehacker] [Use the &#39;Move-Out&#39; Method to Declutter Your Home](https://lifehacker.com/home/declutter-home-using-move-out-method)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Money Is &#39;Enough&#39; to Make You Happy](https://lifehacker.com/money/how-much-money-is-enough-to-make-you-happy)
 - [Lifehacker] [You Can Get This WonderCube Pro Charging Cable on Sale for $40 Right Now](https://lifehacker.com/tech/wondercube-pro-sale)
 - [Lifehacker] [Don&#39;t Lead-Test Your Stanley Cup Until You Read This](https://lifehacker.com/health/stanley-cups-contain-lead-should-you-worry)
-- [Lifehacker] [How to Stream PlayStation’s &#39;State of Play&#39; Showcase](https://lifehacker.com/entertainment/how-to-stream-playstations-state-of-play-showcase)
-- [Lifehacker] [The Apple Watch Series 9 Is Seeing a Big Discount for a Limited Time](https://lifehacker.com/tech/apple-watch-series-9-discount)
-- [Lifehacker] [You Can Get These Live Translation Earbuds on Sale for $130 Right Now](https://lifehacker.com/live-translation-earbuds-sale)
-- [Lifehacker] [All the New Emojis Coming to Your iPhone With iOS 17.4](https://lifehacker.com/tech/new-emojis-iphone-ios-17)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stream PlayStation’s &#39;State of Play&#39; Showcase](https://lifehacker.com/entertainment/how-to-stream-playstations-state-of-play-showcase)<!-- TECH-POSTS:END -->
 
 ---
 
