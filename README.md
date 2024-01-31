@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lens Library](https://dev.to/rmion/lens-library-1fem)
+- [Dev.to/JS] [Sending Emails Made Easy Integrating Nodemailer with Reactjs](https://dev.to/scofieldidehen/sending-emails-made-easy-integrating-nodemailer-with-reactjs-2hl7)
+- [Dev.to/JS] [Why React Query is an awesome tool to manage Remote State in your applications](https://dev.to/ricardogesteves/why-react-query-is-an-awesome-tool-to-manage-remote-state-in-your-applications-4l6a)
+- [Lifehacker] [‘Suicide Squad: Kill the Justice League’ Early Access Is a Mess, Here’s How to Get a Refund](https://lifehacker.com/entertainment/how-to-get-a-refund-on-suicide-squad-kill-the-justice-league-preorders)
+- [Lifehacker] [You Should Be Using Apple&#39;s New Stolen Device Protection Feature](https://lifehacker.com/tech/apples-new-stolen-device-protection-feature-ios-17-3)
 - [Dev.to/JS] [Optimizing Your Next.js Website: A Guide to Google Core Web Vitals](https://dev.to/ayuse/optimizing-your-nextjs-website-a-guide-to-google-core-web-vitals-5a85)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.9](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-19-1f80)
 - [Lifehacker] [Make a Better To-do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)
@@ -47,11 +52,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Emojis Coming to Your iPhone With iOS 17.4](https://lifehacker.com/tech/new-emojis-iphone-ios-17)
 - [Dev.to/JS] [The Art of Maintainable JavaScript Code: Best Practices](https://dev.to/rishabh07r/the-art-of-maintainable-javascript-code-best-practices-22mb)
 - [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
-- [Dev.to/JS] [Purview - Data estate insights](https://dev.to/avelynhc/purview-data-estate-insights-9ag)
-- [Dev.to/JS] [Daily Code 54 | 🔢 PvP Number guessing with JavaScript](https://dev.to/gregor_schafroth/daily-code-54-pvp-number-guessing-with-javascript-3cn0)
 - [Lifehacker] [Today Is the Last Day to Get the Best Samsung Galaxy S24 Preorder Deal](https://lifehacker.com/tech/the-best-samsung-galaxy-s24-preorder-deal)
 - [Lifehacker] [Seven &#39;Home Improvements&#39; You’ll Almost Certainly Regret](https://lifehacker.com/home/home-improvements-you-will-regret)
-- [Dev.to/JS] [Directions of Reactivity](https://dev.to/ninjin/directions-of-reactivity-1h4b)
 - [Lifehacker] [The Difference Between a Realtor and Real Estate Agent &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
 - [Lifehacker] [How to Choose the Best Internet Speed for Your Home](https://lifehacker.com/tech/what-internet-speed-should-i-pay-for)
 - [Lifehacker] [The Six Steps You Should Take After a Tree Falls on Your House](https://lifehacker.com/home/what-to-do-when-a-tree-falls-on-house)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make These Berry Cheesecake Twists Out of Leftover Pie Crust](https://lifehacker.com/food-drink/berry-cheesecake-twists-recipe-leftover-pie-crusts)
 - [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100 Right Now](https://lifehacker.com/prism-cloud-storage-sale)
 - [Lifehacker] [Refurbished Garmin Smartwatches Are Majorly Discounted Right Now](https://lifehacker.com/tech/refurbished-garmin-smartwatches-sale-woot)
-- [Lifehacker] [Shazam Can Now Identify Songs While You&#39;re Wearing Headphones](https://lifehacker.com/tech/shazam-can-identify-songs-while-wearing-headphones)
-- [Lifehacker] [Every Type of Smart Home Sensor &lpar;and How to Use Them&rpar;](https://lifehacker.com/tech/every-type-of-smart-home-sensor-how-to-use)
-- [Lifehacker] [Stream These TV Shows When You Need Cleaning Inspiration](https://lifehacker.com/home/best-tv-shows-to-stream-for-cleaning-inspiration)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Shazam Can Now Identify Songs While You&#39;re Wearing Headphones](https://lifehacker.com/tech/shazam-can-identify-songs-while-wearing-headphones)<!-- TECH-POSTS:END -->
 
 ---
 
