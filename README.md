@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [一个残疾程序员的风雨创业路，立志在我，成事在人](https://dev.to/sddzlsc/ge-can-ji-cheng-xu-yuan-de-feng-yu-chuang-ye-lu-li-zhi-zai-wo-cheng-shi-zai-ren-1ag6)
+- [Dev.to/JS] [JavaScript&#39;s Single-Threaded Bliss: Because Who Needs Multithreading Anyway](https://dev.to/fahadachaudhry/javascripts-single-threaded-bliss-because-who-needs-multithreading-anyway-1d53)
 - [Dev.to/JS] [The easiest way to send mobile push notifications for developers](https://dev.to/mperkins808/the-easiest-way-to-send-mobile-push-notifications-for-developers-40o1)
 - [Dev.to/JS] [Demystifying MO-200: The Ultimate Resource for Success](https://dev.to/mo200practicetest/demystifying-mo-200-the-ultimate-resource-for-success-18cg)
 - [Dev.to/JS] [Polymorphism in JavaScript - Understand the Need of Learning Polymorphism](https://dev.to/codingmadeeasy/polymorphism-in-javascript-understand-the-need-of-learning-polymorphism-11j7)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MYSQL and Mongo DB Interview](https://dev.to/avinashrepo/mysql-and-mongo-db-interview-36db)
 - [Dev.to/JS] [MYSQL and Mongo DB Interview](https://dev.to/avinashrepo/mysql-and-mongo-db-interview-34bj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
-- [Dev.to/JS] [First Blog Post](https://dev.to/silasgebhart/first-blog-post-1jp8)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
-- [Dev.to/JS] [Lens Library](https://dev.to/rmion/lens-library-1fem)
 - [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
 - [Lifehacker] [‘Suicide Squad: Kill the Justice League’ Early Access Is a Mess, Here’s How to Get a Refund](https://lifehacker.com/entertainment/how-to-get-a-refund-on-suicide-squad-kill-the-justice-league-preorders)
 - [Lifehacker] [You Should Be Using Apple&#39;s New Stolen Device Protection Feature](https://lifehacker.com/tech/apples-new-stolen-device-protection-feature-ios-17-3)
