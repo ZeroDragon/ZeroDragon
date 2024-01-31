@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Web APIs Series: File and Storage APIs](https://dev.to/olodocoder/javascript-web-apis-series-file-and-storage-apis-584o)
+- [Dev.to/JS] [Why Working remotely improves Productivity](https://dev.to/ashmeera/why-working-remotely-improves-productivity-3bhe)
+- [Lifehacker] [When You Can Watch WWE on Netflix](https://lifehacker.com/entertainment/where-to-watch-wwe-raw)
+- [Dev.to/JS] [How to use redis with node.js](https://dev.to/divine_nnanna2/how-to-use-redis-with-nodejs-14id)
+- [Lifehacker] [Use This Browser Extension to Decide If You Should Book Your Flight With Rewards or Cash](https://lifehacker.com/travel/book-your-flight-with-points-path)
 - [Dev.to/JS] [GitHub Copilot Research Finds &quot;Downward Pressure on Code Quality&quot;](https://dev.to/jesterxl/github-copilot-research-finds-downward-pressure-on-code-quality-4m87)
 - [Dev.to/JS] [Luxand.cloud Insights. Popular Programming Languages For Face Recognition](https://dev.to/luxandcloud/luxandcloud-insights-popular-programming-languages-for-face-recognition-36b6)
-- [Dev.to/JS] [207. Course Schedule](https://dev.to/rakeshreddy512/207-course-schedule-5ffe)
-- [Dev.to/JS] [207. Course Schedule](https://dev.to/rakeshreddy512/207-course-schedule-3fik)
+- [Dev.to/JS] [Leetcode - 207. Course Schedule](https://dev.to/rakeshreddy512/207-course-schedule-5ffe)
 - [Dev.to/JS] [Sugar Defender Canada The #1 Rated Blood Sugar Formula Manage Blood Sugar | Diabetes](https://dev.to/ponddion/sugar-defender-canada-the-1-rated-blood-sugar-formula-manage-blood-sugar-diabetes-4fjk)
 - [Dev.to/JS] [Top 10 companies for web portal development](https://dev.to/sparkouttech/top-10-companies-for-web-portal-development-4jf5)
 - [Dev.to/JS] [🏁 Build tool choice for MVP projects](https://dev.to/maissenayed/build-tool-choice-for-mvp-projects-36ab)
 - [Dev.to/JS] [Arrow Functions vs. Normal Functions in JavaScript](https://dev.to/hriztam/arrow-functions-vs-normal-functions-in-javascript-2l70)
 - [Dev.to/JS] [Kích thước sách giáo khoa lớp 1: Lựa chọn hợp lý cho sự phát triển học tập](https://dev.to/tiemsachpoly/kich-thuoc-sach-giao-khoa-lop-1-lua-chon-hop-ly-cho-su-phat-trien-hoc-tap-3jl2)
 - [Dev.to/JS] [Correct way to upload File&lpar;s&rpar;](https://dev.to/codeparrot/correct-way-to-upload-files-40p)
-- [Dev.to/JS] [Exploring Front-End Adventures: Building Chrome Extensions, Navigating Trends, and Embracing Challenges](https://dev.to/rodrigoant/exploring-front-end-adventures-building-chrome-extensions-navigating-trends-and-embracing-challenges-5b9n)
-- [Dev.to/JS] [Travel Booking Using Next.js 14, Prisma, TailwindCSS &amp; Next Auth](https://dev.to/devtips3/travel-booking-using-nextjs-14-prisma-tailwindcss-next-auth-2i2n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Doorbell Cameras to Buy in 2024](https://lifehacker.com/tech/best-doorbell-cameras)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Palworld?&#39;](https://lifehacker.com/entertainment/what-is-palworld-the-out-of-touch-adults-guide-to-kid-culture)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, January 30, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-30-2024)
-- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
-- [Lifehacker] [You Can Set Up a Eufy Security System for up to 59% Off Right Now](https://lifehacker.com/tech/best-eufy-security-system-deals)
-- [Lifehacker] [Make These Berry Cheesecake Twists Out of Leftover Pie Crust](https://lifehacker.com/food-drink/berry-cheesecake-twists-recipe-leftover-pie-crusts)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)<!-- TECH-POSTS:END -->
 
 ---
 
