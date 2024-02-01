@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Emergency Roof Repairs in Miami: Restoring Your Home&#39;s Protection](https://dev.to/davinmark/emergency-roof-repairs-in-miami-restoring-your-homes-protection-661)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/damianbalcerzak2856/buy-verified-paxful-account-298)
+- [Dev.to/JS] [Python vs JavaScript — A Brief Overview](https://dev.to/shariqahmed525/python-vs-javascript-a-brief-overview-4bfl)
+- [Dev.to/JS] [Daily code 56 | Fibonacci Sequence Generator](https://dev.to/gregor_schafroth/daily-code-56-fibonacci-sequence-generator-20g5)
+- [Dev.to/JS] [Enhance your Customers&#39; Experience with Sanity&#39;s Structure Builder API.](https://dev.to/wiommi/enhance-your-customers-experience-with-sanitys-structure-builder-api-4i3c)
 - [Dev.to/JS] [Ballyabio.com](https://dev.to/ballyabio/ballyabiocom-18kk)
 - [Dev.to/JS] [Guo Wengui Wolf son ambition exposed to open a farm wantonly amassing wealth](https://dev.to/sfdf/guo-wengui-wolf-son-ambition-exposed-to-open-a-farm-wantonly-amassing-wealth-1gea)
 - [Dev.to/JS] [JavaScript Unveiled: A Deep Dive into Confusing Concepts for Interview Success](https://dev.to/saivaraprasad/javascript-unveiled-a-deep-dive-into-confusing-concepts-for-interview-success-587)
@@ -37,14 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Craft a Better Resume, According to a LinkedIn Career Expert](https://lifehacker.com/work/how-to-make-a-better-resume)
 - [Lifehacker] [What Is Spatial Audio and How Does It Work?](https://lifehacker.com/tech/what-is-spatial-audio-and-how-does-it-work)
 - [Dev.to/JS] [How To Use API](https://dev.to/umahichristopher/how-to-use-api-2817)
-- [Dev.to/JS] [What Is API](https://dev.to/umahichristopher/what-is-api-4jjn)
 - [Lifehacker] [Use This Homemade Seasoning Mix for Better Popcorn](https://lifehacker.com/food-drink/diy-popcorn-seasoning-at-home)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.10](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-110-9e0)
 - [Lifehacker] [LG&#39;s Smart Washer and Dryer Uses AI to Make Laundry Less of a Chore](https://lifehacker.com/tech/lg-smart-washer-dryer-review)
-- [Dev.to/JS] [new to web developer](https://dev.to/ortz/new-to-web-developer-1o1p)
-- [Dev.to/JS] [Supercharging Localization in VS Code with inlang](https://dev.to/felixhaeberle/supercharging-localization-in-vs-code-with-inlang-2ii6)
 - [Lifehacker] [You Can Get Headway Premium on Sale for $50 Right Now](https://lifehacker.com/headway-premium-sale)
-- [Dev.to/JS] [Helpful Javascript Oneliners to Make Your Code Cleaner](https://dev.to/barrisam/helpful-javascript-oneliners-to-make-your-code-cleaner-2n7o)
 - [Lifehacker] [Why Everyone Is Suddenly Talking About the 2017 Tax Cuts and Jobs Act](https://lifehacker.com/money/why-everyone-is-talking-about-2017-tax-reform)
 - [Lifehacker] [Leftover Rice Won&#39;t Kill You Like Social Media Says](https://lifehacker.com/health/is-it-safe-to-eat-leftover-rice)
 - [Lifehacker] [You Can Actually Rent Goats to Eat Weeds in Your Yard](https://lifehacker.com/home/you-can-rent-goats-to-eat-your-weeds)
