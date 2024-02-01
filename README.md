@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)
+- [Dev.to/JS] [JSDoc: Improve your JS code documentation](https://dev.to/danilovilhena/jsdoc-improve-your-js-code-documentation-2mj7)
 - [Lifehacker] [How to Craft a Better Resume, According to a LinkedIn Career Expert](https://lifehacker.com/work/how-to-make-a-better-resume)
 - [Lifehacker] [What Is Spatial Audio and How Does It Work?](https://lifehacker.com/tech/what-is-spatial-audio-and-how-does-it-work)
 - [Dev.to/JS] [How To Use API](https://dev.to/umahichristopher/how-to-use-api-2817)
@@ -47,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Raycast a launcher faster than F1!](https://dev.to/codingcatdev/raycast-a-launcher-faster-than-f1-1hnp)
 - [Dev.to/JS] [Pointers](https://dev.to/gustrb/pointers-8o7)
 - [Lifehacker] [The Best Way to Make a Truly Creamy Cream Sauce](https://lifehacker.com/food-drink/creamy-parmesan-sauce-recipe)
-- [Dev.to/JS] [Angular Interview - Implement Data Reload](https://dev.to/krivanek06/angular-interview-implement-data-reload-j6j)
 - [Lifehacker] [You Can Get This BirdBike E-bike on Sale for $930 Right Now](https://lifehacker.com/birdbike-ebike-sale)
 - [Lifehacker] [The Samsung Galaxy S24 Launch Comes With $200 Amazon Gift Cards](https://lifehacker.com/tech/samsung-galaxy-s24-amazon-gift-card-deal)
 - [Lifehacker] [What the Vision Pro Could Mean for the Future of Mixed Reality &lpar;and Apple&rpar;](https://lifehacker.com/tech/what-the-vision-pro-could-mean-for-the-future-of-mixed-reality)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
 - [Lifehacker] [‘Suicide Squad: Kill the Justice League’ Early Access Is a Mess, Here’s How to Get a Refund](https://lifehacker.com/entertainment/how-to-get-a-refund-on-suicide-squad-kill-the-justice-league-preorders)
 - [Lifehacker] [You Should Be Using Apple&#39;s New Stolen Device Protection Feature](https://lifehacker.com/tech/apples-new-stolen-device-protection-feature-ios-17-3)
-- [Lifehacker] [Make a Better To-do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)
-- [Lifehacker] [Cozy Up With a Different Kind of Dumpling](https://lifehacker.com/food-drink/swiss-capuns-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a Better To-do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)<!-- TECH-POSTS:END -->
 
 ---
 
