@@ -26,9 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React State with live Project](https://dev.to/devlawrence/react-state-with-live-project-3j7j)
+- [Lifehacker] [Instagram Won&#39;t Snitch If You Screenshot &lpar;For the Most Part&rpar;](https://lifehacker.com/tech/does-instagram-notify-someone-if-you-screenshot)
+- [Dev.to/JS] [Loading.... Suspense](https://dev.to/bealecs/loading-suspense-6hp)
+- [Lifehacker] [These Robot Vacuums Are up to 60% Off Right Now](https://lifehacker.com/home/the-best-robot-vacuum-deals-right-now)
+- [Lifehacker] [The Best Deals on Cheap &lpar;or Free&rpar; Tax Prep Software in 2024](https://lifehacker.com/money/best-deals-tax-prep-software)
 - [Dev.to/JS] [Supercharging React Performance: Best Tips and Tools](https://dev.to/ra1nbow1/supercharging-react-performance-best-tips-and-tools-4ff0)
+- [Lifehacker] [Tartiflette Is a Fancy French Cheese Dish Anyone Can Make](https://lifehacker.com/food-drink/easy-tartiflette-recipe)
 - [Dev.to/JS] [React Server now has a Community 🥰](https://dev.to/c5h8nnao4/react-server-now-has-a-community-22pm)
 - [Dev.to/JS] [React: It&#39;s Not Rocket Science.](https://dev.to/prakhart111/react-its-not-rocket-science-1c5m)
+- [Lifehacker] [Use CryoUtilities to Make Your Steam Deck Run Better](https://lifehacker.com/tech/how-to-improve-performance-on-steam-deck-with-cryoutilities)
 - [Lifehacker] [Amazon Prime Members Can Get One of These Free E-Books in February](https://lifehacker.com/entertainment/amazon-free-kindle-books)
 - [Dev.to/JS] [HTML, CSS, JavaScript: What&#39;s the Difference?](https://dev.to/kwaziimedia/html-css-javascript-whats-the-difference-i0a)
 - [Lifehacker] [You Don&#39;t Have Much Time Left to Share Hulu Passwords](https://lifehacker.com/entertainment/hulu-password-sharing-crackdown)
@@ -43,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Furnishings to Help Maximize Your Nursery Space](https://lifehacker.com/family/maximize-small-nursery-space)
 - [Lifehacker] [Six Useful Apps and Tools for Saving on Your Water Bill](https://lifehacker.com/money/best-apps-for-saving-on-water-bill)
 - [Dev.to/JS] [Navigating React&#39;s Seas of Data: The Enchantment of useContext - Part One](https://dev.to/capwellmurimi/navigating-reacts-seas-of-data-the-enchantment-of-usecontext-part-one-31d3)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/marcinwalkowiak36/buy-google-5-star-reviews-40fh)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/marcinwalkowiak36/buy-verified-paxful-account-3ee9)
 - [Lifehacker] [Make This ‘First Period Kit’ for Your Tween](https://lifehacker.com/family/how-to-make-first-period-kit)
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
 - [Lifehacker] [Why Everyone Should Still Use an RSS Reader in 2024](https://lifehacker.com/tech/the-best-rss-reader-apps-in-2024)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Headway Premium on Sale for $50 Right Now](https://lifehacker.com/headway-premium-sale)
 - [Lifehacker] [Why Everyone Is Suddenly Talking About the 2017 Tax Cuts and Jobs Act](https://lifehacker.com/money/why-everyone-is-talking-about-2017-tax-reform)
 - [Lifehacker] [Leftover Rice Won&#39;t Kill You Like Social Media Says](https://lifehacker.com/health/is-it-safe-to-eat-leftover-rice)
-- [Lifehacker] [You Can Actually Rent Goats to Eat Weeds in Your Yard](https://lifehacker.com/home/you-can-rent-goats-to-eat-your-weeds)
-- [Lifehacker] [The GoPro Max is $100 Off Right Now](https://lifehacker.com/tech/gopro-max-100-off-amazon)
-- [Lifehacker] [The Best Way to Make a Truly Creamy Cream Sauce](https://lifehacker.com/food-drink/creamy-parmesan-sauce-recipe)
-- [Lifehacker] [You Can Get This BirdBike E-bike on Sale for $930 Right Now](https://lifehacker.com/birdbike-ebike-sale)
-- [Lifehacker] [The Samsung Galaxy S24 Launch Comes With $200 Amazon Gift Cards](https://lifehacker.com/tech/samsung-galaxy-s24-amazon-gift-card-deal)
-- [Lifehacker] [What the Vision Pro Could Mean for the Future of Mixed Reality &lpar;and Apple&rpar;](https://lifehacker.com/tech/what-the-vision-pro-could-mean-for-the-future-of-mixed-reality)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Actually Rent Goats to Eat Weeds in Your Yard](https://lifehacker.com/home/you-can-rent-goats-to-eat-your-weeds)<!-- TECH-POSTS:END -->
 
 ---
 
