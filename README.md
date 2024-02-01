@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Supercharging React Performance: Best Tips and Tools](https://dev.to/ra1nbow1/supercharging-react-performance-best-tips-and-tools-4ff0)
 - [Dev.to/JS] [React Server now has a Community 🥰](https://dev.to/c5h8nnao4/react-server-now-has-a-community-22pm)
 - [Dev.to/JS] [React: It&#39;s Not Rocket Science.](https://dev.to/prakhart111/react-its-not-rocket-science-1c5m)
 - [Lifehacker] [Amazon Prime Members Can Get One of These Free E-Books in February](https://lifehacker.com/entertainment/amazon-free-kindle-books)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigating React&#39;s Seas of Data: The Enchantment of useContext - Part One](https://dev.to/capwellmurimi/navigating-reacts-seas-of-data-the-enchantment-of-usecontext-part-one-31d3)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/marcinwalkowiak36/buy-google-5-star-reviews-40fh)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/marcinwalkowiak36/buy-verified-paxful-account-3ee9)
-- [Dev.to/JS] [How To - ReactJS - Create Magic Eight Ball](https://dev.to/kylestech95/how-to-reactjs-create-magic-eight-ball-4ing)
 - [Lifehacker] [Make This ‘First Period Kit’ for Your Tween](https://lifehacker.com/family/how-to-make-first-period-kit)
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
 - [Lifehacker] [Why Everyone Should Still Use an RSS Reader in 2024](https://lifehacker.com/tech/the-best-rss-reader-apps-in-2024)
