@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Taking a deep dive into Slack&#39;s Block Kit](https://dev.to/knocklabs/taking-a-deep-dive-into-slacks-block-kit-1cjm)
+- [Dev.to/JS] [Creating a Beautiful Custom Scrollbar for Website Using CSS ✨](https://dev.to/sh20raj/creating-a-beautiful-custom-scrollbar-for-website-using-css-4jo9)
+- [Dev.to/JS] [Eye tracking dog](https://dev.to/pujaam/eye-tracking-dog-nnh)
+- [Dev.to/JS] [Angular Tips: Transforming Observables into Signals for Enhanced Reactivity](https://dev.to/this-is-angular/angular-tips-transforming-observables-into-signals-for-enhanced-reactivity-8fh)
+- [Dev.to/JS] [Use postcss-cva to generate cva method](https://dev.to/sonofmagic/use-postcss-cva-to-generate-cva-method-7ho)
 - [Dev.to/JS] [Programming books I&#39;m working on](https://dev.to/margareteldridge/programming-books-im-working-on-5005)
 - [Dev.to/JS] [An imperative way to build a website!](https://dev.to/reinhart1010/an-imperative-way-to-build-a-website-1ah1)
 - [Lifehacker] [How to Get ‘Palworld’ Running on a Steam Deck](https://lifehacker.com/entertainment/how-to-run-palworld-on-steam-deck)
@@ -35,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tailwind personal website template free](https://dev.to/irishgeoffrey/tailwind-personal-website-template-free-185b)
 - [Dev.to/JS] [Top 10 Useful Tools to Boost Your React Project in 2024](https://dev.to/ideradevtools/top-10-useful-tools-to-boost-your-react-project-in-2024-23oc)
 - [Lifehacker] [You&#39;ll Need to Pay to Use Google&#39;s Best AI](https://lifehacker.com/tech/what-is-google-bard-advanced)
-- [Dev.to/JS] [Search In List React, React Native](https://dev.to/raguram1991/search-in-list-react-react-native-1n8o)
-- [Dev.to/JS] [Birmingham Debt Settlement Solutions: Strategies For A Brighter Financial Future](https://dev.to/larryhaight/birmingham-debt-settlement-solutions-strategies-for-a-brighter-financial-future-2op9)
-- [Dev.to/JS] [Why I Built the SES Easy Mailer Node Module](https://dev.to/chihebnabil/why-i-built-the-ses-easy-mailer-node-module-5eic)
-- [Dev.to/JS] [Breaking Down How Asynchronous JavaScript Works Under the Hood as a Noob](https://dev.to/programmergeek/breaking-down-how-asynchronous-javascript-works-under-the-hood-as-a-noob-2oag)
-- [Dev.to/JS] [how to make nav-bar for portfolio website](https://dev.to/04anilr/how-to-make-nav-bar-for-portfolio-website-365m)
 - [Lifehacker] [The Latest M2 MacBook Air Is $300 Off Right Now](https://lifehacker.com/tech/the-latest-m2-macbook-air-is-300-off-right-now)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)
 - [Lifehacker] [How to Craft a Better Resume, According to a LinkedIn Career Expert](https://lifehacker.com/work/how-to-make-a-better-resume)
