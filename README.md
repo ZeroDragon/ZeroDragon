@@ -26,10 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML, CSS, JavaScript: What&#39;s the Difference?](https://dev.to/kwaziimedia/html-css-javascript-whats-the-difference-i0a)
+- [Dev.to/JS] [Appealing Console Output with Colors.js](https://dev.to/humjerry/appealing-console-output-with-colorsjs-1o8o)
+- [Lifehacker] [How to Casually Date Someone When It&#39;s Almost Valentine&#39;s Day](https://lifehacker.com/relationships/how-to-casually-date-before-valentines-day)
 - [Dev.to/JS] [6 Cybersecurity Tips](https://dev.to/guestsposts/bl-content-6-cybersecurity-tips-2jei)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/marcinwalkowiak36/buy-verified-cash-app-account-32d0)
 - [Dev.to/JS] [Who is Paper Perk?](https://dev.to/heketim/who-is-paper-perk-2hp1)
+- [Lifehacker] [Are Your Walls Moldy, or Is It ‘Drywall Ghosting’?](https://lifehacker.com/home/are-those-marks-on-your-drywall-mold-or-drywall-ghosting)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/marcinwalkowiak36/buy-glassdoor-reviews-1p2l)
+- [Lifehacker] [The Best Furnishings to Help Maximize Your Nursery Space](https://lifehacker.com/family/maximize-small-nursery-space)
+- [Lifehacker] [Six Useful Apps and Tools for Saving on Your Water Bill](https://lifehacker.com/money/best-apps-for-saving-on-water-bill)
 - [Dev.to/JS] [Navigating React&#39;s Seas of Data: The Enchantment of useContext - Part One](https://dev.to/capwellmurimi/navigating-reacts-seas-of-data-the-enchantment-of-usecontext-part-one-31d3)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/marcinwalkowiak36/buy-google-5-star-reviews-40fh)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/marcinwalkowiak36/buy-verified-paxful-account-3ee9)
@@ -38,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This ‘First Period Kit’ for Your Tween](https://lifehacker.com/family/how-to-make-first-period-kit)
 - [Dev.to/JS] [How To - ReactJS - Create Simon Game](https://dev.to/kylestech95/how-to-reactjs-create-simon-game-d3)
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
-- [Dev.to/JS] [Taking a deep dive into Slack&#39;s Block Kit](https://dev.to/knocklabs/taking-a-deep-dive-into-slacks-block-kit-1cjm)
-- [Dev.to/JS] [Creating a Beautiful Custom Scrollbar for Website Using CSS ✨](https://dev.to/sh20raj/creating-a-beautiful-custom-scrollbar-for-website-using-css-4jo9)
 - [Lifehacker] [Why Everyone Should Still Use an RSS Reader in 2024](https://lifehacker.com/tech/the-best-rss-reader-apps-in-2024)
 - [Lifehacker] [What People Are Getting Wrong This Week: The TikTok Fugitive](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-tiktok-fugitive)
 - [Lifehacker] [How to Get ‘Palworld’ Running on a Steam Deck](https://lifehacker.com/entertainment/how-to-run-palworld-on-steam-deck)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What the Vision Pro Could Mean for the Future of Mixed Reality &lpar;and Apple&rpar;](https://lifehacker.com/tech/what-the-vision-pro-could-mean-for-the-future-of-mixed-reality)
 - [Lifehacker] [You Can Use Telehealth for Your Pet, Too](https://lifehacker.com/family/best-pet-telehealth-apps)
 - [Lifehacker] [You Don&#39;t Have to Wait Until the End of the Year for Your Apple Music Replay](https://lifehacker.com/tech/how-to-get-your-apple-music-replay-any-time-of-the-year)
-- [Lifehacker] [Why Arc Search May Be the Future of the Internet](https://lifehacker.com/tech/why-arc-search-may-be-the-future-of-the-internet)
-- [Lifehacker] [Seven Ways to Make Your Home Decor Look Timeless](https://lifehacker.com/home/how-to-make-your-home-decor-look-timeless)
-- [Lifehacker] [How to Sync Your Apple Watch Workouts With Strava](https://lifehacker.com/tech/how-to-connect-apple-watch-to-strava)
-- [Lifehacker] [Use the &#39;Move-Out&#39; Method to Declutter Your Home](https://lifehacker.com/home/declutter-home-using-move-out-method)
-- [Lifehacker] [When You Can Watch WWE on Netflix](https://lifehacker.com/entertainment/where-to-watch-wwe-raw)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Arc Search May Be the Future of the Internet](https://lifehacker.com/tech/why-arc-search-may-be-the-future-of-the-internet)<!-- TECH-POSTS:END -->
 
 ---
 
