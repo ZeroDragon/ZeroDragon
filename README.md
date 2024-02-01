@@ -26,19 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating React&#39;s Seas of Data: The Enchantment of useContext - Part One](https://dev.to/capwellmurimi/navigating-reacts-seas-of-data-the-enchantment-of-usecontext-part-one-31d3)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/marcinwalkowiak36/buy-google-5-star-reviews-40fh)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/marcinwalkowiak36/buy-verified-paxful-account-3ee9)
+- [Dev.to/JS] [How To - ReactJS - Create Magic Eight Ball](https://dev.to/kylestech95/how-to-reactjs-create-magic-eight-ball-4ing)
+- [Dev.to/JS] [Reactive Computing Order](https://dev.to/ninjin/reactive-computing-order-1ef5)
+- [Dev.to/JS] [How To - ReactJS - Create Simon Game](https://dev.to/kylestech95/how-to-reactjs-create-simon-game-d3)
+- [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
 - [Dev.to/JS] [Taking a deep dive into Slack&#39;s Block Kit](https://dev.to/knocklabs/taking-a-deep-dive-into-slacks-block-kit-1cjm)
 - [Dev.to/JS] [Creating a Beautiful Custom Scrollbar for Website Using CSS ✨](https://dev.to/sh20raj/creating-a-beautiful-custom-scrollbar-for-website-using-css-4jo9)
 - [Dev.to/JS] [Eye tracking dog](https://dev.to/pujaam/eye-tracking-dog-nnh)
+- [Lifehacker] [Why Everyone Should Still Use an RSS Reader in 2024](https://lifehacker.com/tech/the-best-rss-reader-apps-in-2024)
 - [Dev.to/JS] [Angular Tips: Transforming Observables into Signals for Enhanced Reactivity](https://dev.to/this-is-angular/angular-tips-transforming-observables-into-signals-for-enhanced-reactivity-8fh)
 - [Dev.to/JS] [Use postcss-cva to generate cva method](https://dev.to/sonofmagic/use-postcss-cva-to-generate-cva-method-7ho)
 - [Dev.to/JS] [Programming books I&#39;m working on](https://dev.to/margareteldridge/programming-books-im-working-on-5005)
-- [Dev.to/JS] [An imperative way to build a website!](https://dev.to/reinhart1010/an-imperative-way-to-build-a-website-1ah1)
+- [Lifehacker] [What People Are Getting Wrong This Week: The TikTok Fugitive](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-tiktok-fugitive)
 - [Lifehacker] [How to Get ‘Palworld’ Running on a Steam Deck](https://lifehacker.com/entertainment/how-to-run-palworld-on-steam-deck)
-- [Dev.to/JS] [Sum of the diagonals of a matrice](https://dev.to/kecbm/sum-of-the-diagonals-of-a-matrice-g0f)
-- [Dev.to/JS] [Building an i18n library for the modern Web](https://dev.to/lorissigrist/building-an-i18n-library-for-the-modern-web-521m)
-- [Dev.to/JS] [How to Implement Contextual Feature Flags in SvelteKit using Unleash](https://dev.to/reeshee/how-to-implement-contextual-feature-flags-in-sveltekit-using-unleash-nkf)
-- [Dev.to/JS] [tailwind personal website template free](https://dev.to/irishgeoffrey/tailwind-personal-website-template-free-185b)
-- [Dev.to/JS] [Top 10 Useful Tools to Boost Your React Project in 2024](https://dev.to/ideradevtools/top-10-useful-tools-to-boost-your-react-project-in-2024-23oc)
 - [Lifehacker] [You&#39;ll Need to Pay to Use Google&#39;s Best AI](https://lifehacker.com/tech/what-is-google-bard-advanced)
 - [Lifehacker] [The Latest M2 MacBook Air Is $300 Off Right Now](https://lifehacker.com/tech/the-latest-m2-macbook-air-is-300-off-right-now)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)
@@ -57,15 +60,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What the Vision Pro Could Mean for the Future of Mixed Reality &lpar;and Apple&rpar;](https://lifehacker.com/tech/what-the-vision-pro-could-mean-for-the-future-of-mixed-reality)
 - [Lifehacker] [You Can Use Telehealth for Your Pet, Too](https://lifehacker.com/family/best-pet-telehealth-apps)
 - [Lifehacker] [You Don&#39;t Have to Wait Until the End of the Year for Your Apple Music Replay](https://lifehacker.com/tech/how-to-get-your-apple-music-replay-any-time-of-the-year)
-- [Lifehacker] [Why Arc Search May Be the Future the Internet](https://lifehacker.com/tech/why-arc-search-may-be-the-future-of-the-internet)
+- [Lifehacker] [Why Arc Search May Be the Future of the Internet](https://lifehacker.com/tech/why-arc-search-may-be-the-future-of-the-internet)
 - [Lifehacker] [Seven Ways to Make Your Home Decor Look Timeless](https://lifehacker.com/home/how-to-make-your-home-decor-look-timeless)
 - [Lifehacker] [How to Sync Your Apple Watch Workouts With Strava](https://lifehacker.com/tech/how-to-connect-apple-watch-to-strava)
 - [Lifehacker] [Use the &#39;Move-Out&#39; Method to Declutter Your Home](https://lifehacker.com/home/declutter-home-using-move-out-method)
 - [Lifehacker] [When You Can Watch WWE on Netflix](https://lifehacker.com/entertainment/where-to-watch-wwe-raw)
-- [Lifehacker] [Use This Browser Extension to Decide If You Should Book Your Flight With Rewards or Cash](https://lifehacker.com/travel/book-your-flight-with-points-path)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
-- [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
-- [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Browser Extension to Decide If You Should Book Your Flight With Rewards or Cash](https://lifehacker.com/travel/book-your-flight-with-points-path)<!-- TECH-POSTS:END -->
 
 ---
 
