@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 Cybersecurity Tips](https://dev.to/guestsposts/bl-content-6-cybersecurity-tips-2jei)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/marcinwalkowiak36/buy-verified-cash-app-account-32d0)
 - [Dev.to/JS] [Who is Paper Perk?](https://dev.to/heketim/who-is-paper-perk-2hp1)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/marcinwalkowiak36/buy-glassdoor-reviews-1p2l)
 - [Dev.to/JS] [Navigating React&#39;s Seas of Data: The Enchantment of useContext - Part One](https://dev.to/capwellmurimi/navigating-reacts-seas-of-data-the-enchantment-of-usecontext-part-one-31d3)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
 - [Dev.to/JS] [Taking a deep dive into Slack&#39;s Block Kit](https://dev.to/knocklabs/taking-a-deep-dive-into-slacks-block-kit-1cjm)
 - [Dev.to/JS] [Creating a Beautiful Custom Scrollbar for Website Using CSS ✨](https://dev.to/sh20raj/creating-a-beautiful-custom-scrollbar-for-website-using-css-4jo9)
-- [Dev.to/JS] [Eye tracking dog](https://dev.to/pujaam/eye-tracking-dog-nnh)
 - [Lifehacker] [Why Everyone Should Still Use an RSS Reader in 2024](https://lifehacker.com/tech/the-best-rss-reader-apps-in-2024)
-- [Dev.to/JS] [Angular Tips: Transforming Observables into Signals for Enhanced Reactivity](https://dev.to/this-is-angular/angular-tips-transforming-observables-into-signals-for-enhanced-reactivity-8fh)
 - [Lifehacker] [What People Are Getting Wrong This Week: The TikTok Fugitive](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-tiktok-fugitive)
 - [Lifehacker] [How to Get ‘Palworld’ Running on a Steam Deck](https://lifehacker.com/entertainment/how-to-run-palworld-on-steam-deck)
 - [Lifehacker] [You&#39;ll Need to Pay to Use Google&#39;s Best AI](https://lifehacker.com/tech/what-is-google-bard-advanced)
