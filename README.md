@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ballyabio.com](https://dev.to/ballyabio/ballyabiocom-18kk)
+- [Dev.to/JS] [Guo Wengui Wolf son ambition exposed to open a farm wantonly amassing wealth](https://dev.to/sfdf/guo-wengui-wolf-son-ambition-exposed-to-open-a-farm-wantonly-amassing-wealth-1gea)
+- [Dev.to/JS] [JavaScript Unveiled: A Deep Dive into Confusing Concepts for Interview Success](https://dev.to/saivaraprasad/javascript-unveiled-a-deep-dive-into-confusing-concepts-for-interview-success-587)
 - [Dev.to/JS] [Silly Javascript, says true when asked if &lpar;0 == -null&rpar;; here&#39;s why...](https://dev.to/fahadachaudhry/silly-javascript-says-true-when-asked-if-0-null-heres-why-59l4)
 - [Dev.to/JS] [Automating npm package releases with GitHub Actions](https://dev.to/seven/automating-npm-package-releases-with-github-actions-14i9)
 - [Lifehacker] [The Latest M2 MacBook Air Is $300 Off Right Now](https://lifehacker.com/tech/the-latest-m2-macbook-air-is-300-off-right-now)
@@ -43,11 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Headway Premium on Sale for $50 Right Now](https://lifehacker.com/headway-premium-sale)
 - [Dev.to/JS] [Helpful Javascript Oneliners to Make Your Code Cleaner](https://dev.to/barrisam/helpful-javascript-oneliners-to-make-your-code-cleaner-2n7o)
 - [Lifehacker] [Why Everyone Is Suddenly Talking About the 2017 Tax Cuts and Jobs Act](https://lifehacker.com/money/why-everyone-is-talking-about-2017-tax-reform)
-- [Dev.to/JS] [Restful API Testing &lpar;my way&rpar; with Express, Maria DB, Docker Compose and Github Action](https://dev.to/lico/restful-api-testing-my-way-with-express-maria-db-docker-compose-and-github-action-1g0p)
 - [Lifehacker] [Leftover Rice Won&#39;t Kill You Like Social Media Says](https://lifehacker.com/health/is-it-safe-to-eat-leftover-rice)
 - [Lifehacker] [You Can Actually Rent Goats to Eat Weeds in Your Yard](https://lifehacker.com/home/you-can-rent-goats-to-eat-your-weeds)
-- [Dev.to/JS] [React is not about performance](https://dev.to/arturampilogov/react-is-not-about-performance-16bg)
-- [Dev.to/JS] [Highlight job ads posted by job agent in LinkedIn Jobs](https://dev.to/saladlam/highlight-job-ads-posted-by-job-agent-in-linkedin-jobs-j3d)
 - [Lifehacker] [The GoPro Max is $100 Off Right Now](https://lifehacker.com/tech/gopro-max-100-off-amazon)
 - [Lifehacker] [The Best Way to Make a Truly Creamy Cream Sauce](https://lifehacker.com/food-drink/creamy-parmesan-sauce-recipe)
 - [Lifehacker] [You Can Get This BirdBike E-bike on Sale for $930 Right Now](https://lifehacker.com/birdbike-ebike-sale)
