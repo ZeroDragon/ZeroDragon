@@ -26,7 +26,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [A Learning Moment for an Aspiring Developer](https://dev.to/dejaniero22/a-learning-moment-for-an-aspiring-developer-kfn)
 - [Dev.to/JS] [Automating npm package releases with GitHub Actions](https://dev.to/seven/automating-npm-package-releases-with-github-actions-14i9)
 - [Lifehacker] [The Latest M2 MacBook Air Is $300 Off Right Now](https://lifehacker.com/tech/the-latest-m2-macbook-air-is-300-off-right-now)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)
@@ -49,6 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React is not about performance](https://dev.to/arturampilogov/react-is-not-about-performance-16bg)
 - [Dev.to/JS] [Highlight job ads posted by job agent in LinkedIn Jobs](https://dev.to/saladlam/highlight-job-ads-posted-by-job-agent-in-linkedin-jobs-j3d)
 - [Lifehacker] [The GoPro Max is $100 Off Right Now](https://lifehacker.com/tech/gopro-max-100-off-amazon)
+- [Dev.to/JS] [Raycast a launcher faster than F1!](https://dev.to/codingcatdev/raycast-a-launcher-faster-than-f1-1hnp)
 - [Lifehacker] [The Best Way to Make a Truly Creamy Cream Sauce](https://lifehacker.com/food-drink/creamy-parmesan-sauce-recipe)
 - [Lifehacker] [You Can Get This BirdBike E-bike on Sale for $930 Right Now](https://lifehacker.com/birdbike-ebike-sale)
 - [Lifehacker] [The Samsung Galaxy S24 Launch Comes With $200 Amazon Gift Cards](https://lifehacker.com/tech/samsung-galaxy-s24-amazon-gift-card-deal)
