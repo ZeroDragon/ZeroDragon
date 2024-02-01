@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Use API](https://dev.to/umahichristopher/how-to-use-api-2817)
+- [Dev.to/JS] [What Is API](https://dev.to/umahichristopher/what-is-api-4jjn)
+- [Lifehacker] [Use This Homemade Seasoning Mix for Better Popcorn](https://lifehacker.com/food-drink/diy-popcorn-seasoning-at-home)
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.10](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-110-9e0)
+- [Lifehacker] [LG&#39;s Smart Washer and Dryer Uses AI to Make Laundry Less of a Chore](https://lifehacker.com/tech/lg-smart-washer-dryer-review)
 - [Dev.to/JS] [new to web developer](https://dev.to/ortz/new-to-web-developer-1o1p)
 - [Dev.to/JS] [Supercharging Localization in VS Code with inlang](https://dev.to/felixhaeberle/supercharging-localization-in-vs-code-with-inlang-2ii6)
+- [Lifehacker] [You Can Get Headway Premium on Sale for $50 Right Now](https://lifehacker.com/headway-premium-sale)
 - [Dev.to/JS] [Helpful Javascript Oneliners to Make Your Code Cleaner](https://dev.to/barrisam/helpful-javascript-oneliners-to-make-your-code-cleaner-2n7o)
 - [Lifehacker] [Why Everyone Is Suddenly Talking About the 2017 Tax Cuts and Jobs Act](https://lifehacker.com/money/why-everyone-is-talking-about-2017-tax-reform)
 - [Dev.to/JS] [Restful API Testing &lpar;my way&rpar; with Express, Maria DB, Docker Compose and Github Action](https://dev.to/lico/restful-api-testing-my-way-with-express-maria-db-docker-compose-and-github-action-1g0p)
@@ -43,12 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This BirdBike E-bike on Sale for $930 Right Now](https://lifehacker.com/birdbike-ebike-sale)
 - [Lifehacker] [The Samsung Galaxy S24 Launch Comes With $200 Amazon Gift Cards](https://lifehacker.com/tech/samsung-galaxy-s24-amazon-gift-card-deal)
 - [Lifehacker] [What the Vision Pro Could Mean for the Future of Mixed Reality &lpar;and Apple&rpar;](https://lifehacker.com/tech/what-the-vision-pro-could-mean-for-the-future-of-mixed-reality)
-- [Dev.to/JS] [AI for Web Devs: Addressing Bugs, Security, &amp; Reliability](https://dev.to/austingil/ai-for-web-devs-addressing-bugs-security-reliability-4jnm)
-- [Dev.to/JS] [🔥 5 Best Libraries to Develop React.js Forms 2024](https://dev.to/ansonch/5-best-libraries-to-develop-reactjs-forms-2024-49k3)
 - [Lifehacker] [You Can Use Telehealth for Your Pet, Too](https://lifehacker.com/family/best-pet-telehealth-apps)
 - [Lifehacker] [You Don&#39;t Have to Wait Until the End of the Year for Your Apple Music Replay](https://lifehacker.com/tech/how-to-get-your-apple-music-replay-any-time-of-the-year)
 - [Lifehacker] [Why Arc Search May Be the Future the Internet](https://lifehacker.com/tech/why-arc-search-may-be-the-future-of-the-internet)
-- [Dev.to/JS] [Formação gratuita para novos desenvolvedores](https://dev.to/marcellecode/formacao-gratuita-para-novos-desenvolvedores-3mp0)
 - [Lifehacker] [Seven Ways to Make Your Home Decor Look Timeless](https://lifehacker.com/home/how-to-make-your-home-decor-look-timeless)
 - [Lifehacker] [How to Sync Your Apple Watch Workouts With Strava](https://lifehacker.com/tech/how-to-connect-apple-watch-to-strava)
 - [Lifehacker] [Use the &#39;Move-Out&#39; Method to Declutter Your Home](https://lifehacker.com/home/declutter-home-using-move-out-method)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Better To-do List With the 1-3-5 Method](https://lifehacker.com/work/make-a-better-to-do-list-1-3-5-rule)
 - [Lifehacker] [Cozy Up With a Different Kind of Dumpling](https://lifehacker.com/food-drink/swiss-capuns-recipe)
 - [Lifehacker] [The Most Interesting iPhone Features I&#39;m Expecting in iOS 18](https://lifehacker.com/tech/iphone-features-expected-in-ios-18)
-- [Lifehacker] [Is Amazon Alexa Spying on You?](https://lifehacker.com/tech/does-amazon-alexa-spy-on-you)
-- [Lifehacker] [How Much Money Is &#39;Enough&#39; to Make You Happy](https://lifehacker.com/money/how-much-money-is-enough-to-make-you-happy)
-- [Lifehacker] [You Can Get This WonderCube Pro Charging Cable on Sale for $40 Right Now](https://lifehacker.com/tech/wondercube-pro-sale)
-- [Lifehacker] [Don&#39;t Lead-Test Your Stanley Cup Until You Read This](https://lifehacker.com/health/stanley-cups-contain-lead-should-you-worry)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Is Amazon Alexa Spying on You?](https://lifehacker.com/tech/does-amazon-alexa-spy-on-you)<!-- TECH-POSTS:END -->
 
 ---
 
