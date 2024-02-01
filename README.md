@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sloan&#39;s Inbox: Going With Vanilla JS or Frameworks as a Beginner?](https://dev.to/devteam/sloans-inbox-going-with-vanilla-js-or-frameworks-as-a-beginner-1gcf)
+- [Dev.to/JS] [Williamsburg - Multipage ecommerce theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/williamsburg-multipage-ecommerce-theme-built-with-astro-tailwind-css-mdx-1olb)
 - [Dev.to/JS] [Unveiling the Potential of BioHeal CBD Gummies: A Comprehensive Review](https://dev.to/biohealcbdgumy/unveiling-the-potential-of-bioheal-cbd-gummies-a-comprehensive-review-57j0)
 - [Dev.to/JS] [Enough HTML for Beginners!](https://dev.to/devgancode/enough-html-for-beginners-10n4)
 - [Dev.to/JS] [Best Site To Buy Linkedin Accounts &amp; Cheap Price](https://dev.to/davidgleeson/best-site-to-buy-linkedin-accounts-cheap-price-3jej)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [EasyFrontend: free UI components of React, TailwindCSS, and Bootstrap](https://dev.to/getsiful/easyfrontend-free-ui-components-of-react-tailwindcss-and-bootstrap-1ce4)
 - [Dev.to/JS] [Web Based MMO RPG](https://dev.to/anradev/web-based-mmo-rpg-2p4m)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/damianbalcerzak2856/buy-google-voice-accounts-al6)
-- [Dev.to/JS] [Emergency Roof Repairs in Miami: Restoring Your Home&#39;s Protection](https://dev.to/davinmark/emergency-roof-repairs-in-miami-restoring-your-homes-protection-661)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/damianbalcerzak2856/buy-verified-paxful-account-298)
 - [Lifehacker] [The Latest M2 MacBook Air Is $300 Off Right Now](https://lifehacker.com/tech/the-latest-m2-macbook-air-is-300-off-right-now)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)
 - [Lifehacker] [How to Craft a Better Resume, According to a LinkedIn Career Expert](https://lifehacker.com/work/how-to-make-a-better-resume)
