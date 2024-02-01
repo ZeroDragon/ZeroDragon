@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [tailwind personal website template free](https://dev.to/irishgeoffrey/tailwind-personal-website-template-free-185b)
+- [Dev.to/JS] [Top 10 Useful Tools to Boost Your React Project in 2024](https://dev.to/ideradevtools/top-10-useful-tools-to-boost-your-react-project-in-2024-23oc)
+- [Lifehacker] [You&#39;ll Need to Pay to Use Google&#39;s Best AI](https://lifehacker.com/tech/what-is-google-bard-advanced)
+- [Dev.to/JS] [Search In List React, React Native](https://dev.to/raguram1991/search-in-list-react-react-native-1n8o)
+- [Dev.to/JS] [Birmingham Debt Settlement Solutions: Strategies For A Brighter Financial Future](https://dev.to/larryhaight/birmingham-debt-settlement-solutions-strategies-for-a-brighter-financial-future-2op9)
+- [Dev.to/JS] [Why I Built the SES Easy Mailer Node Module](https://dev.to/chihebnabil/why-i-built-the-ses-easy-mailer-node-module-5eic)
 - [Dev.to/JS] [Breaking Down How Asynchronous JavaScript Works Under the Hood as a Noob](https://dev.to/programmergeek/breaking-down-how-asynchronous-javascript-works-under-the-hood-as-a-noob-2oag)
 - [Dev.to/JS] [how to make nav-bar for portfolio website](https://dev.to/04anilr/how-to-make-nav-bar-for-portfolio-website-365m)
 - [Dev.to/JS] [How to setup a Node for Max project with TypeScript](https://dev.to/fibonacid/how-to-setup-a-node-for-max-project-with-typescript-l5p)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do you have twins if you eat a pair of bananas? Superstition or science? Know the &#39;real&#39; truth!](https://dev.to/dailynewskm/do-you-have-twins-if-you-eat-a-pair-of-bananas-superstition-or-science-know-the-real-truth-46n1)
 - [Dev.to/JS] [What is Learnitive Notepad?](https://dev.to/learnitive/what-is-learnitive-notepad-1hjg)
 - [Dev.to/JS] [Sloan&#39;s Inbox: Going With Vanilla JS or Frameworks as a Beginner?](https://dev.to/devteam/sloans-inbox-going-with-vanilla-js-or-frameworks-as-a-beginner-1gcf)
-- [Dev.to/JS] [Williamsburg - Multipage ecommerce theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/williamsburg-multipage-ecommerce-theme-built-with-astro-tailwind-css-mdx-1olb)
-- [Dev.to/JS] [Unveiling the Potential of BioHeal CBD Gummies: A Comprehensive Review](https://dev.to/biohealcbdgumy/unveiling-the-potential-of-bioheal-cbd-gummies-a-comprehensive-review-57j0)
-- [Dev.to/JS] [Enough HTML for Beginners!](https://dev.to/devgancode/enough-html-for-beginners-10n4)
-- [Dev.to/JS] [Best Site To Buy Linkedin Accounts &amp; Cheap Price](https://dev.to/davidgleeson/best-site-to-buy-linkedin-accounts-cheap-price-3jej)
-- [Dev.to/JS] [Best Site To Buy Facebook Accounts &amp; Cheap Price](https://dev.to/davidgleeson/best-site-to-buy-facebook-accounts-cheap-price-g2b)
 - [Lifehacker] [The Latest M2 MacBook Air Is $300 Off Right Now](https://lifehacker.com/tech/the-latest-m2-macbook-air-is-300-off-right-now)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)
 - [Lifehacker] [How to Craft a Better Resume, According to a LinkedIn Career Expert](https://lifehacker.com/work/how-to-make-a-better-resume)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
-- [Lifehacker] [‘Suicide Squad: Kill the Justice League’ Early Access Is a Mess, Here’s How to Get a Refund](https://lifehacker.com/entertainment/how-to-get-a-refund-on-suicide-squad-kill-the-justice-league-preorders)
-- [Lifehacker] [You Should Be Using Apple&#39;s New Stolen Device Protection Feature](https://lifehacker.com/tech/apples-new-stolen-device-protection-feature-ios-17-3)<!-- TECH-POSTS:END -->
+- [Lifehacker] [‘Suicide Squad: Kill the Justice League’ Early Access Is a Mess, Here’s How to Get a Refund](https://lifehacker.com/entertainment/how-to-get-a-refund-on-suicide-squad-kill-the-justice-league-preorders)<!-- TECH-POSTS:END -->
 
 ---
 
