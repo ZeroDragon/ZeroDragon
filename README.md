@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Programming books I&#39;m working on](https://dev.to/margareteldridge/programming-books-im-working-on-5005)
+- [Dev.to/JS] [An imperative way to build a website!](https://dev.to/reinhart1010/an-imperative-way-to-build-a-website-1ah1)
+- [Lifehacker] [How to Get ‘Palworld’ Running on a Steam Deck](https://lifehacker.com/entertainment/how-to-run-palworld-on-steam-deck)
+- [Dev.to/JS] [Sum of the diagonals of a matrice](https://dev.to/kecbm/sum-of-the-diagonals-of-a-matrice-g0f)
+- [Dev.to/JS] [Building an i18n library for the modern Web](https://dev.to/lorissigrist/building-an-i18n-library-for-the-modern-web-521m)
+- [Dev.to/JS] [How to Implement Contextual Feature Flags in SvelteKit using Unleash](https://dev.to/reeshee/how-to-implement-contextual-feature-flags-in-sveltekit-using-unleash-nkf)
 - [Dev.to/JS] [tailwind personal website template free](https://dev.to/irishgeoffrey/tailwind-personal-website-template-free-185b)
 - [Dev.to/JS] [Top 10 Useful Tools to Boost Your React Project in 2024](https://dev.to/ideradevtools/top-10-useful-tools-to-boost-your-react-project-in-2024-23oc)
 - [Lifehacker] [You&#39;ll Need to Pay to Use Google&#39;s Best AI](https://lifehacker.com/tech/what-is-google-bard-advanced)
@@ -34,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why I Built the SES Easy Mailer Node Module](https://dev.to/chihebnabil/why-i-built-the-ses-easy-mailer-node-module-5eic)
 - [Dev.to/JS] [Breaking Down How Asynchronous JavaScript Works Under the Hood as a Noob](https://dev.to/programmergeek/breaking-down-how-asynchronous-javascript-works-under-the-hood-as-a-noob-2oag)
 - [Dev.to/JS] [how to make nav-bar for portfolio website](https://dev.to/04anilr/how-to-make-nav-bar-for-portfolio-website-365m)
-- [Dev.to/JS] [How to setup a Node for Max project with TypeScript](https://dev.to/fibonacid/how-to-setup-a-node-for-max-project-with-typescript-l5p)
-- [Dev.to/JS] [&quot;Code Complete&quot; - this is not just the title of a book, this is an entire era](https://dev.to/alexroor4/code-complete-this-is-not-just-the-title-of-a-book-this-is-an-entire-era-6eo)
-- [Dev.to/JS] [Do you have twins if you eat a pair of bananas? Superstition or science? Know the &#39;real&#39; truth!](https://dev.to/dailynewskm/do-you-have-twins-if-you-eat-a-pair-of-bananas-superstition-or-science-know-the-real-truth-46n1)
-- [Dev.to/JS] [What is Learnitive Notepad?](https://dev.to/learnitive/what-is-learnitive-notepad-1hjg)
-- [Dev.to/JS] [Sloan&#39;s Inbox: Going With Vanilla JS or Frameworks as a Beginner?](https://dev.to/devteam/sloans-inbox-going-with-vanilla-js-or-frameworks-as-a-beginner-1gcf)
 - [Lifehacker] [The Latest M2 MacBook Air Is $300 Off Right Now](https://lifehacker.com/tech/the-latest-m2-macbook-air-is-300-off-right-now)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)
 - [Lifehacker] [How to Craft a Better Resume, According to a LinkedIn Career Expert](https://lifehacker.com/work/how-to-make-a-better-resume)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Browser Extension to Decide If You Should Book Your Flight With Rewards or Cash](https://lifehacker.com/travel/book-your-flight-with-points-path)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, January 31, 2024](https://lifehacker.com/entertainment/wordle-answer-today-january-31-2024)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
-- [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
-- [Lifehacker] [‘Suicide Squad: Kill the Justice League’ Early Access Is a Mess, Here’s How to Get a Refund](https://lifehacker.com/entertainment/how-to-get-a-refund-on-suicide-squad-kill-the-justice-league-preorders)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The iPad Air is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)<!-- TECH-POSTS:END -->
 
 ---
 
