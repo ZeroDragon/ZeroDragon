@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Server now has a Community 🥰](https://dev.to/c5h8nnao4/react-server-now-has-a-community-22pm)
+- [Dev.to/JS] [React: It&#39;s Not Rocket Science.](https://dev.to/prakhart111/react-its-not-rocket-science-1c5m)
+- [Lifehacker] [Amazon Prime Members Can Get One of These Free E-Books in February](https://lifehacker.com/entertainment/amazon-free-kindle-books)
 - [Dev.to/JS] [HTML, CSS, JavaScript: What&#39;s the Difference?](https://dev.to/kwaziimedia/html-css-javascript-whats-the-difference-i0a)
+- [Lifehacker] [You Don&#39;t Have Much Time Left to Share Hulu Passwords](https://lifehacker.com/entertainment/hulu-password-sharing-crackdown)
 - [Dev.to/JS] [Appealing Console Output with Colors.js](https://dev.to/humjerry/appealing-console-output-with-colorsjs-1o8o)
+- [Lifehacker] [The Vision Pro Has Over 600 Apps Designed For It at Launch](https://lifehacker.com/tech/vision-pro-600-new-apps)
 - [Lifehacker] [How to Casually Date Someone When It&#39;s Almost Valentine&#39;s Day](https://lifehacker.com/relationships/how-to-casually-date-before-valentines-day)
 - [Dev.to/JS] [6 Cybersecurity Tips](https://dev.to/guestsposts/bl-content-6-cybersecurity-tips-2jei)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/marcinwalkowiak36/buy-verified-cash-app-account-32d0)
@@ -40,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/marcinwalkowiak36/buy-google-5-star-reviews-40fh)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/marcinwalkowiak36/buy-verified-paxful-account-3ee9)
 - [Dev.to/JS] [How To - ReactJS - Create Magic Eight Ball](https://dev.to/kylestech95/how-to-reactjs-create-magic-eight-ball-4ing)
-- [Dev.to/JS] [Reactive Computing Order](https://dev.to/ninjin/reactive-computing-order-1ef5)
 - [Lifehacker] [Make This ‘First Period Kit’ for Your Tween](https://lifehacker.com/family/how-to-make-first-period-kit)
-- [Dev.to/JS] [How To - ReactJS - Create Simon Game](https://dev.to/kylestech95/how-to-reactjs-create-simon-game-d3)
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
 - [Lifehacker] [Why Everyone Should Still Use an RSS Reader in 2024](https://lifehacker.com/tech/the-best-rss-reader-apps-in-2024)
 - [Lifehacker] [What People Are Getting Wrong This Week: The TikTok Fugitive](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-tiktok-fugitive)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Make a Truly Creamy Cream Sauce](https://lifehacker.com/food-drink/creamy-parmesan-sauce-recipe)
 - [Lifehacker] [You Can Get This BirdBike E-bike on Sale for $930 Right Now](https://lifehacker.com/birdbike-ebike-sale)
 - [Lifehacker] [The Samsung Galaxy S24 Launch Comes With $200 Amazon Gift Cards](https://lifehacker.com/tech/samsung-galaxy-s24-amazon-gift-card-deal)
-- [Lifehacker] [What the Vision Pro Could Mean for the Future of Mixed Reality &lpar;and Apple&rpar;](https://lifehacker.com/tech/what-the-vision-pro-could-mean-for-the-future-of-mixed-reality)
-- [Lifehacker] [You Can Use Telehealth for Your Pet, Too](https://lifehacker.com/family/best-pet-telehealth-apps)
-- [Lifehacker] [You Don&#39;t Have to Wait Until the End of the Year for Your Apple Music Replay](https://lifehacker.com/tech/how-to-get-your-apple-music-replay-any-time-of-the-year)
-- [Lifehacker] [Why Arc Search May Be the Future of the Internet](https://lifehacker.com/tech/why-arc-search-may-be-the-future-of-the-internet)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What the Vision Pro Could Mean for the Future of Mixed Reality &lpar;and Apple&rpar;](https://lifehacker.com/tech/what-the-vision-pro-could-mean-for-the-future-of-mixed-reality)<!-- TECH-POSTS:END -->
 
 ---
 
