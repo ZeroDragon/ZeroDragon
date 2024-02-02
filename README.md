@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Contact Form with HTML, CSS, and JavaScript](https://dev.to/manthanank/building-a-contact-form-with-html-css-and-javascript-2409)
+- [Dev.to/JS] [A step-by-step guide: How to create and publish an NPM package.](https://dev.to/backendbro/a-step-by-step-guide-how-to-create-and-publish-an-npm-package-2off)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt; Part 2 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-part-2--1k0l)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt; Part 1 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-part-1--c75)
 - [Dev.to/JS] [Searching for Full Stack Talent](https://dev.to/vivz/searching-for-full-stack-talent-51cf)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)
 - [Dev.to/JS] [Data Structures and Algorithms: Recursion](https://dev.to/faraib/data-structures-and-algorithms-recursion-49ha)
 - [Dev.to/JS] [Build-Time Performance for webpack](https://dev.to/rudolfolah/build-time-performance-for-webpack-3m5a)
-- [Dev.to/JS] [Despidiéndome de Console.log](https://dev.to/altaskur/despidiendome-de-consolelog-5a6a)
-- [Dev.to/JS] [Who wants to be part of an Open Source JavaScript Forum?](https://dev.to/c5h8nnao4/who-wants-to-be-part-of-an-open-source-javascript-forum-45pf)
 - [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Lifehacker] [How to Unclog a Kitchen Sink Without Calling a Plumber](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)
 - [Lifehacker] [These Headphones, Speakers, and Soundbars Are up to 80% Off](https://lifehacker.com/tech/woot-audio-sale)
