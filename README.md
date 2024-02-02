@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/helin6426/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-2g60)
-- [Dev.to/JS] [Orchid Cash Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgfg jg ga to be a](https://dev.to/punit123/orchid-cash-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgfg-jg-ga-to-be-a-155g)
-- [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/helin6426/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-2f5a)
-- [Dev.to/JS] [Orchid Cash Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgf](https://dev.to/punit123/orchid-cash-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgf-1n2l)
-- [Dev.to/JS] [Cash BOX Loan cusTomer Care NUMBER// 7479549216///7209837045=&rpar;&rpar;&rpar; call now](https://dev.to/yadahog623/cash-box-loan-customer-care-number-74795492167209837045-call-now-239e)
-- [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/lokekoc340/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-g0o)
-- [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/tedabe638/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-3i8m)
-- [Dev.to/JS] [Orchid Cash Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgf](https://dev.to/vivek123/orchid-cash-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgf-45ad)
-- [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/tedabe638/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-20h5)
-- [Dev.to/JS] [Orchid Cash Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgfgtr yr tu](https://dev.to/vivek123/orchid-cash-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgfgtr-yr-tu-1og5)
-- [Dev.to/JS] [CASH BOX Loan Customer Care Helpline Number///&lpar;+91&lpar;9676782978&rpar;//Call Now+91&lpar;9676782978&rpar; Toll Free](https://dev.to/jaweje5222/cash-box-loan-customer-care-helpline-number919676782978call-now919676782978-toll-free-2pak)
-- [Dev.to/JS] [Network optimization for sending lot of data from LiveView to client using push_event](https://dev.to/azyzz/network-optimization-for-sending-lot-of-data-from-liveview-to-client-using-pushevent-2nl)
+- [Dev.to/JS] [10 React Libraries for Building Powerful Web Applications](https://dev.to/christianauloma/10-react-libraries-for-building-powerful-web-applications-36kl)
+- [Dev.to/JS] [Reactive Dataflow Configurations](https://dev.to/ninjin/reactive-dataflow-configurations-318i)
+- [Dev.to/JS] [My 3D Portfolio](https://dev.to/knight3197/my-3d-portfolio-2hfj)
+- [Dev.to/JS] [How to Add JavaScript Subreports to Your Web Apps](https://dev.to/mescius/how-to-add-javascript-subreports-to-your-web-apps-1nb7)
+- [Dev.to/JS] [design from dribble to life 2](https://dev.to/achintha_prabash_c1dc098a/design-from-dribble-to-life-2-4gdn)
+- [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/hamese7901/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-41e4)
+- [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/hamese7901/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-188n)
+- [Dev.to/JS] [Cash BoX Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgfhd call naw ishq me avval](https://dev.to/suriya123/cash-box-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgfhd-call-naw-ishq-me-avval-3kk8)
+- [Dev.to/JS] [Cash BoX Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgfhd call naw](https://dev.to/suriya123/cash-box-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgfhd-call-naw-17oh)
+- [Dev.to/JS] [Cash BoX Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgf hs](https://dev.to/rohet123/cash-box-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgf-hs-f08)
+- [Dev.to/JS] [loan Customer Care Helpline Number 9340417924//7501681932All Problems solvejd](https://dev.to/lixeyaw64/loan-customer-care-helpline-number-93404179247501681932all-problems-solvejd-3c1f)
+- [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/digitalservice57/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-262j)
+- [Lifehacker] [18 of the Best ‘Smooth Brain’ TV Shows to Binge Mindlessly](https://lifehacker.com/entertainment/best-comfort-shows-streaming-netflix)
+- [Lifehacker] [You Can Finally Add Extensions to Microsoft Edge on Android](https://lifehacker.com/tech/how-to-add-extensions-to-microsoft-edge-on-android)
+- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
 - [Lifehacker] [This 8-Piece Japanese Knife Set Is on Sale for $120 Right Now](https://lifehacker.com/japanese-knife-set-sale)
 - [Lifehacker] [All the Differences Between an HSA and an FSA](https://lifehacker.com/money/difference-between-hsa-and-fsa)
 - [Lifehacker] [You Need to Actually Double-Check What You’re Agreeing to When Installing Software](https://lifehacker.com/tech/double-check-what-youre-agreeing-to-when-installing-software)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tartiflette Is a Fancy French Cheese Dish Anyone Can Make](https://lifehacker.com/food-drink/easy-tartiflette-recipe)
 - [Lifehacker] [Use CryoUtilities to Make Your Steam Deck Run Better](https://lifehacker.com/tech/how-to-improve-performance-on-steam-deck-with-cryoutilities)
 - [Lifehacker] [Amazon Prime Members Can Get One of These Free E-Books in February](https://lifehacker.com/entertainment/amazon-free-kindle-books)
-- [Lifehacker] [You Don&#39;t Have Much Time Left to Share Hulu Passwords](https://lifehacker.com/entertainment/hulu-password-sharing-crackdown)
-- [Lifehacker] [The Vision Pro Has Over 600 Apps Designed For It at Launch](https://lifehacker.com/tech/vision-pro-600-new-apps)
-- [Lifehacker] [How to Casually Date Someone When It&#39;s Almost Valentine&#39;s Day](https://lifehacker.com/relationships/how-to-casually-date-before-valentines-day)
-- [Lifehacker] [Are Your Walls Moldy, or Is It ‘Drywall Ghosting’?](https://lifehacker.com/home/are-those-marks-on-your-drywall-mold-or-drywall-ghosting)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Don&#39;t Have Much Time Left to Share Hulu Passwords](https://lifehacker.com/entertainment/hulu-password-sharing-crackdown)<!-- TECH-POSTS:END -->
 
 ---
 
