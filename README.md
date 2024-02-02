@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Title](https://dev.to/moneyfor1pro/title-177i)
+- [Dev.to/JS] [React.js Page Transition With Framer-Motion layout .](https://dev.to/utsavmavani/reactjs-page-transition-with-framer-motion-layout--10l0)
+- [Dev.to/JS] [Title](https://dev.to/moneyfor1pro/title-539l)
+- [Dev.to/JS] [Title](https://dev.to/moneyfor1pro/title-2ai3)
+- [Dev.to/JS] [When and How to Use the Facade Pattern](https://dev.to/ignoreintuition/when-and-how-to-use-the-facade-pattern-327n)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)
 - [Dev.to/JS] [Data Structures and Algorithms: Recursion](https://dev.to/faraib/data-structures-and-algorithms-recursion-49ha)
 - [Dev.to/JS] [Build-Time Performance for webpack](https://dev.to/rudolfolah/build-time-performance-for-webpack-3m5a)
@@ -37,16 +42,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Learnitive AI API?](https://dev.to/learnitive/how-to-use-learnitive-ai-api-4h92)
 - [Lifehacker] [These Headphones, Speakers, and Soundbars Are up to 80% Off](https://lifehacker.com/tech/woot-audio-sale)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.11](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-111-5aed)
-- [Dev.to/JS] [React State with live Project](https://dev.to/devlawrence/react-state-with-live-project-3j7j)
 - [Lifehacker] [It&#39;s Time Pickles Became a Common Pizza Topping](https://lifehacker.com/food-drink/its-time-pickles-became-a-common-pizza-topping)
 - [Lifehacker] [Instagram Won&#39;t Snitch If You Screenshot &lpar;For the Most Part&rpar;](https://lifehacker.com/tech/does-instagram-notify-someone-if-you-screenshot)
-- [Dev.to/JS] [Loading.... Suspense](https://dev.to/bealecs/loading-suspense-6hp)
 - [Lifehacker] [These Robot Vacuums Are up to 60% Off Right Now](https://lifehacker.com/home/the-best-robot-vacuum-deals-right-now)
 - [Lifehacker] [The Best Deals on Cheap &lpar;or Free&rpar; Tax Prep Software in 2024](https://lifehacker.com/money/best-deals-tax-prep-software)
-- [Dev.to/JS] [Supercharging React Performance: Best Tips and Tools](https://dev.to/ra1nbow1/supercharging-react-performance-best-tips-and-tools-4ff0)
 - [Lifehacker] [Tartiflette Is a Fancy French Cheese Dish Anyone Can Make](https://lifehacker.com/food-drink/easy-tartiflette-recipe)
-- [Dev.to/JS] [React Server now has a Community 🥰](https://dev.to/c5h8nnao4/react-server-now-has-a-community-22pm)
-- [Dev.to/JS] [React: It&#39;s Not Rocket Science.](https://dev.to/prakhart111/react-its-not-rocket-science-1c5m)
 - [Lifehacker] [Use CryoUtilities to Make Your Steam Deck Run Better](https://lifehacker.com/tech/how-to-improve-performance-on-steam-deck-with-cryoutilities)
 - [Lifehacker] [Amazon Prime Members Can Get One of These Free E-Books in February](https://lifehacker.com/entertainment/amazon-free-kindle-books)
 - [Lifehacker] [You Don&#39;t Have Much Time Left to Share Hulu Passwords](https://lifehacker.com/entertainment/hulu-password-sharing-crackdown)
