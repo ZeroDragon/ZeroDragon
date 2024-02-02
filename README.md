@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Non-Null Assertions: The Forbidden Typescript Operator](https://dev.to/marileon/non-null-assertions-the-forbidden-typescript-operator-1e5c)
+- [Dev.to/JS] [Building A Resume Upload And Parsing App With NodeJs And MongoDb](https://dev.to/fredabod/building-a-resume-upload-and-parsing-app-with-nodejs-and-mongodb-1049)
+- [Dev.to/JS] [What Is Really A Senior Developer: Core Principles](https://dev.to/dragosnedelcu/what-is-really-a-senior-developer-core-principles-2dgm)
+- [Dev.to/JS] [Tailwind CSS vs Foundation: A Comparison of CSS Frameworks](https://dev.to/sikirumomodu/tailwind-css-vs-foundation-a-comparison-of-css-frameworks-47k7)
+- [Dev.to/JS] [Prototypal Inheritance in JavaScript](https://dev.to/cyberohn/prototypal-inheritance-in-javascript-58kd)
 - [Dev.to/JS] [Simplify Large Numbers with Style: A Guide to Human-Readable Representations in JavaScript](https://dev.to/ayowandeapp/simplify-large-numbers-with-style-a-guide-to-human-readable-representations-in-javascript-4gb)
 - [Dev.to/JS] [Monkey Business](https://dev.to/alexroor4/monkey-business-4gdp)
 - [Dev.to/JS] [How to Utilize Flashcards for Efficient MO-200 Practice Test Review](https://dev.to/mo200exam/how-to-utilize-flashcards-for-efficient-mo-200-practice-test-review-1l77)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Microsoft Azurе Training in Chеnnai](https://dev.to/jagasugi/microsoft-azurie-training-in-chiennai-2hp5)
 - [Dev.to/JS] [Handle timezone with JavaScript](https://dev.to/kana/handle-timezone-with-javascript-5a6)
 - [Dev.to/JS] [10 most Important requirement Need for Develop Code in Angular Framework](https://dev.to/danishhafeez/10-most-important-requirement-need-for-develop-code-in-angular-framework-31nk)
-- [Dev.to/JS] [Game Development and Multimedia: theatre.js, Unleashing Creativity in Animation and Motion Design](https://dev.to/opensauced/game-development-and-multimedia-theatrejs-unleashing-creativity-in-animation-and-motion-design-gc7)
-- [Dev.to/JS] [Understanding state and props in React](https://dev.to/luxacademy/understanding-state-and-props-in-react-4hfa)
-- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 5 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-16g)
-- [Dev.to/JS] [My Journey into the Future of Coding with Project IDX](https://dev.to/matinmollapur0101/my-journey-into-the-future-of-coding-with-project-idx-2e07)
-- [Dev.to/JS] [Top JavaScript Projects For Beginners](https://dev.to/codingmadeeasy/top-javascript-projects-for-beginners-3oca)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)
 - [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Lifehacker] [How to Unclog a Kitchen Sink Without Calling a Plumber](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)
