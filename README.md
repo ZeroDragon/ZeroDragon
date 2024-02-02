@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Structures and Algorithms: Recursion](https://dev.to/faraib/data-structures-and-algorithms-recursion-49ha)
 - [Dev.to/JS] [Build-Time Performance for webpack](https://dev.to/rudolfolah/build-time-performance-for-webpack-3m5a)
 - [Dev.to/JS] [Despidiéndome de Console.log](https://dev.to/altaskur/despidiendome-de-consolelog-5a6a)
 - [Dev.to/JS] [Who wants to be part of an Open Source JavaScript Forum?](https://dev.to/c5h8nnao4/who-wants-to-be-part-of-an-open-source-javascript-forum-45pf)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React: It&#39;s Not Rocket Science.](https://dev.to/prakhart111/react-its-not-rocket-science-1c5m)
 - [Lifehacker] [Use CryoUtilities to Make Your Steam Deck Run Better](https://lifehacker.com/tech/how-to-improve-performance-on-steam-deck-with-cryoutilities)
 - [Lifehacker] [Amazon Prime Members Can Get One of These Free E-Books in February](https://lifehacker.com/entertainment/amazon-free-kindle-books)
-- [Dev.to/JS] [HTML, CSS, JavaScript: What&#39;s the Difference?](https://dev.to/kwaziimedia/html-css-javascript-whats-the-difference-i0a)
 - [Lifehacker] [You Don&#39;t Have Much Time Left to Share Hulu Passwords](https://lifehacker.com/entertainment/hulu-password-sharing-crackdown)
 - [Lifehacker] [The Vision Pro Has Over 600 Apps Designed For It at Launch](https://lifehacker.com/tech/vision-pro-600-new-apps)
 - [Lifehacker] [How to Casually Date Someone When It&#39;s Almost Valentine&#39;s Day](https://lifehacker.com/relationships/how-to-casually-date-before-valentines-day)
