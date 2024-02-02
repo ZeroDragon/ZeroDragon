@@ -26,20 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Easiest way to add a video huddle to your application](https://dev.to/superviz/easiest-way-to-add-a-video-huddle-to-your-application-2nkj)
-- [Dev.to/JS] [JavaScript](https://dev.to/mheyrie/javascript-2i3f)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/teresafergusone5/buy-verified-paxful-account-457b)
-- [Dev.to/JS] [Building a Maze Game in Node.js](https://dev.to/shawn2208/building-a-maze-game-in-nodejs-4j7m)
-- [Dev.to/JS] [Build an Advanced Contact Form in React with Nodemailer](https://dev.to/scofieldidehen/build-an-advanced-contact-form-in-react-with-nodemailer-53f7)
-- [Dev.to/JS] [Déployer une Application Next.js sur Cloud Run](https://dev.to/esensconsulting/deployer-une-application-nextjs-sur-cloud-run-dfd)
-- [Dev.to/JS] [Mastering the Art of Curated Web News: How I Crafted a Weekly Newsletter](https://dev.to/urbanisierung/mastering-the-art-of-curated-web-news-how-i-crafted-a-weekly-newsletter-43oj)
+- [Dev.to/JS] [Money Fine Loan customer. care helpline number&lpar;9340417924&rpar;&lpar;7501681932&rpar; Toll-free](https://dev.to/uush77/money-fine-loan-customer-care-helpline-number93404179247501681932-toll-free-3nl)
+- [Dev.to/JS] [Money fine Loan Customer Care Helpline Number/// 9676782978//Call Now ///9676782978//Toll Free](https://dev.to/tiparil85/money-fine-loan-customer-care-helpline-number-9676782978call-now-9676782978toll-free-5gdd)
+- [Dev.to/JS] [AmP Credit Loan Costomer Care Helpline 9340417924 Call-Now 7501681932 All Problem Solve](https://dev.to/defas9351/amp-credit-loan-costomer-care-helpline-9340417924-call-now-7501681932-all-problem-solve-f79)
+- [Dev.to/JS] [Money fine Loan Customer Care Helpline Number/// 9676782978//Call Now ///9676782978//Toll Free](https://dev.to/tiparil85/money-fine-loan-customer-care-helpline-number-9676782978call-now-9676782978toll-free-1hl0)
+- [Dev.to/JS] [AmP Credit Loan Cust0mer Care®Helpline Number934O4l7924@75Ol68l932All problem Solvejgf](https://dev.to/rakrs123/amp-credit-loan-cust0mer-carerhelpline-number934o4l792475ol68l932all-problem-solvejgf-3kp7)
+- [Dev.to/JS] [Crowdfunding Smart Contract](https://dev.to/ayaaneth/crowdfunding-smart-contract-8g3)
+- [Dev.to/JS] [AmP Credit Loan Costomer Care Helpline 9340417924 Call Now 7501681932 All Problem Solve](https://dev.to/defas9351/amp-credit-loan-costomer-care-helpline-9340417924-call-now-7501681932-all-problem-solve-1f55)
+- [Dev.to/JS] [AmP Credit Loan Customer Care Helpline Number7995412287&lpar;&lpar;@&rpar;&rpar;7995412287All Problem solved](https://dev.to/rakrs123/amp-credit-loan-customer-care-helpline-number79954122877995412287all-problem-solved-5f11)
+- [Dev.to/JS] [AmP Credit Loan Costomer Care Helpline 9340417924 Call Now 7501681932 All Problem Solve](https://dev.to/defas9351/amp-credit-loan-costomer-care-helpline-9340417924-call-now-7501681932-all-problem-solve-3ck7)
+- [Dev.to/JS] [The Beekeeper](https://dev.to/jeanospina/the-beekeeper-5510)
+- [Lifehacker] [This 8-Piece Japanese Knife Set Is on Sale for $120 Right Now](https://lifehacker.com/japanese-knife-set-sale)
+- [Dev.to/JS] [AMAZON WORK FROM HOME. $25/HOUR](https://dev.to/jeanospina/amazon-work-from-home-25hour-5a9p)
+- [Dev.to/JS] [How to Build a JavaScript Sales Dashboard Application](https://dev.to/mescius/how-to-build-a-javascript-sales-dashboard-application-4n0n)
+- [Lifehacker] [All the Differences Between an HSA and an FSA](https://lifehacker.com/money/difference-between-hsa-and-fsa)
+- [Lifehacker] [You Need to Actually Double-Check What You’re Agreeing to When Installing Software](https://lifehacker.com/tech/double-check-what-youre-agreeing-to-when-installing-software)
+- [Lifehacker] [What TikTok’s ‘Ketchup Challenge’ Actually Says About Your Relationship](https://lifehacker.com/relationships/what-the-ketchup-challenge-means-for-relationships)
+- [Lifehacker] [How to Get ‘Enshrouded’ Running on Steam Deck](https://lifehacker.com/entertainment/play-enshrouded-on-steam-deck)
 - [Lifehacker] [The Best Ways to Remove Set-in Grease and Oil Stains From Your Clothes](https://lifehacker.com/home/remove-set-in-grease-stains-from-clothing)
-- [Dev.to/JS] [Building a News Search App: JavaScript API Project](https://dev.to/fahimulkabir/building-a-news-search-app-javascript-api-project-1m84)
-- [Dev.to/JS] [How to Implement Contextual Feature Flags in Angular using Unleash](https://dev.to/reeshee/how-to-implement-contextual-feature-flags-in-angular-using-unleash-1omc)
-- [Dev.to/JS] [Além do básico: Uso de Variáveis de Ambiente em Aplicações Node e Nest](https://dev.to/k1nha/alem-do-basico-uso-de-variaveis-de-ambiente-em-aplicacoes-node-e-nest-1hl7)
 - [Lifehacker] [How to Delete Every Photo of Your Ex From Your iPhone](https://lifehacker.com/tech/delete-exs-photos-from-iphone)
-- [Dev.to/JS] [Creating a 3D Card Flip Animation Gallery with CSS 3D Transforms and JavaScript](https://dev.to/onyeneke/creating-a-3d-card-flip-animation-gallery-with-css-3d-transforms-and-javascript-433n)
-- [Dev.to/JS] [Flaco - Personal multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/flaco-personal-multipage-theme-built-with-astro-tailwind-css-mdx-5fkj)
 - [Lifehacker] [How to Tell If Clothing Was Made Specifically for a Discount Retailer](https://lifehacker.com/money/how-to-tell-if-clothing-was-made-for-discount-retailer)
 - [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don&#39;t Have Much Time Left to Share Hulu Passwords](https://lifehacker.com/entertainment/hulu-password-sharing-crackdown)
 - [Lifehacker] [The Vision Pro Has Over 600 Apps Designed For It at Launch](https://lifehacker.com/tech/vision-pro-600-new-apps)
 - [Lifehacker] [How to Casually Date Someone When It&#39;s Almost Valentine&#39;s Day](https://lifehacker.com/relationships/how-to-casually-date-before-valentines-day)
-- [Lifehacker] [Are Your Walls Moldy, or Is It ‘Drywall Ghosting’?](https://lifehacker.com/home/are-those-marks-on-your-drywall-mold-or-drywall-ghosting)
-- [Lifehacker] [The Best Furnishings to Help Maximize Your Nursery Space](https://lifehacker.com/family/maximize-small-nursery-space)
-- [Lifehacker] [Six Useful Apps and Tools for Saving on Your Water Bill](https://lifehacker.com/money/best-apps-for-saving-on-water-bill)
-- [Lifehacker] [Make This ‘First Period Kit’ for Your Tween](https://lifehacker.com/family/how-to-make-first-period-kit)
-- [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
-- [Lifehacker] [Why Everyone Should Still Use an RSS Reader in 2024](https://lifehacker.com/tech/the-best-rss-reader-apps-in-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Are Your Walls Moldy, or Is It ‘Drywall Ghosting’?](https://lifehacker.com/home/are-those-marks-on-your-drywall-mold-or-drywall-ghosting)<!-- TECH-POSTS:END -->
 
 ---
 
