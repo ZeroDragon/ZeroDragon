@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplify Large Numbers with Style: A Guide to Human-Readable Representations in JavaScript](https://dev.to/ayowandeapp/simplify-large-numbers-with-style-a-guide-to-human-readable-representations-in-javascript-4gb)
+- [Dev.to/JS] [Monkey Business](https://dev.to/alexroor4/monkey-business-4gdp)
+- [Dev.to/JS] [How to Utilize Flashcards for Efficient MO-200 Practice Test Review](https://dev.to/mo200exam/how-to-utilize-flashcards-for-efficient-mo-200-practice-test-review-1l77)
 - [Dev.to/JS] [Exploring Secutio Task by Task. Setting &quot;Events&quot; Like Stylesheets!](https://dev.to/mrhdias/exploring-secutio-task-by-task-setting-events-like-stylesheets-49gl)
 - [Dev.to/JS] [Microsoft Azurе Training in Chеnnai](https://dev.to/jagasugi/microsoft-azurie-training-in-chiennai-2hp5)
 - [Dev.to/JS] [Handle timezone with JavaScript](https://dev.to/kana/handle-timezone-with-javascript-5a6)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 5 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-16g)
 - [Dev.to/JS] [My Journey into the Future of Coding with Project IDX](https://dev.to/matinmollapur0101/my-journey-into-the-future-of-coding-with-project-idx-2e07)
 - [Dev.to/JS] [Top JavaScript Projects For Beginners](https://dev.to/codingmadeeasy/top-javascript-projects-for-beginners-3oca)
-- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 4 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-19c0)
-- [Dev.to/JS] [Guo farm accumulated wealth, the ants lost all their money](https://dev.to/sdfe/guo-farm-accumulated-wealth-the-ants-lost-all-their-money-2dbl)
-- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt; Part 3 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-part-3--fde)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)
 - [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Lifehacker] [How to Unclog a Kitchen Sink Without Calling a Plumber](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)
