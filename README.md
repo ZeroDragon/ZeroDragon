@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Como RUSHAR um sistema assíncrono de envio de dados](https://dev.to/samsantosb/como-rushar-um-sistema-assincrono-de-envio-de-dados-4l6f)
+- [Dev.to/JS] [Build-Time Performance for webpack](https://dev.to/rudolfolah/build-time-performance-for-webpack-3m5a)
+- [Dev.to/JS] [Despidiéndome de Console.log](https://dev.to/altaskur/despidiendome-de-consolelog-5a6a)
+- [Dev.to/JS] [Who wants to be part of an Open Source JavaScript Forum?](https://dev.to/c5h8nnao4/who-wants-to-be-part-of-an-open-source-javascript-forum-45pf)
+- [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Lifehacker] [How to Unclog a Kitchen Sink Without Calling a Plumber](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)
 - [Dev.to/JS] [Hexadecimal Code Generator using React&lpar;Beginner&rpar;](https://dev.to/maxwizardth/hexadecimal-code-generator-using-reactbeginner-23ce)
 - [Dev.to/JS] [How to use Learnitive AI API?](https://dev.to/learnitive/how-to-use-learnitive-ai-api-4h92)
@@ -46,10 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Prime Members Can Get One of These Free E-Books in February](https://lifehacker.com/entertainment/amazon-free-kindle-books)
 - [Dev.to/JS] [HTML, CSS, JavaScript: What&#39;s the Difference?](https://dev.to/kwaziimedia/html-css-javascript-whats-the-difference-i0a)
 - [Lifehacker] [You Don&#39;t Have Much Time Left to Share Hulu Passwords](https://lifehacker.com/entertainment/hulu-password-sharing-crackdown)
-- [Dev.to/JS] [Appealing Console Output with Colors.js](https://dev.to/humjerry/appealing-console-output-with-colorsjs-1o8o)
 - [Lifehacker] [The Vision Pro Has Over 600 Apps Designed For It at Launch](https://lifehacker.com/tech/vision-pro-600-new-apps)
 - [Lifehacker] [How to Casually Date Someone When It&#39;s Almost Valentine&#39;s Day](https://lifehacker.com/relationships/how-to-casually-date-before-valentines-day)
-- [Dev.to/JS] [6 Cybersecurity Tips](https://dev.to/guestsposts/bl-content-6-cybersecurity-tips-2jei)
 - [Lifehacker] [Are Your Walls Moldy, or Is It ‘Drywall Ghosting’?](https://lifehacker.com/home/are-those-marks-on-your-drywall-mold-or-drywall-ghosting)
 - [Lifehacker] [The Best Furnishings to Help Maximize Your Nursery Space](https://lifehacker.com/family/maximize-small-nursery-space)
 - [Lifehacker] [Six Useful Apps and Tools for Saving on Your Water Bill](https://lifehacker.com/money/best-apps-for-saving-on-water-bill)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Craft a Better Resume, According to a LinkedIn Career Expert](https://lifehacker.com/work/how-to-make-a-better-resume)
 - [Lifehacker] [What Is Spatial Audio and How Does It Work?](https://lifehacker.com/tech/what-is-spatial-audio-and-how-does-it-work)
 - [Lifehacker] [Use This Homemade Seasoning Mix for Better Popcorn](https://lifehacker.com/food-drink/diy-popcorn-seasoning-at-home)
-- [Lifehacker] [LG&#39;s Smart Washer and Dryer Uses AI to Make Laundry Less of a Chore](https://lifehacker.com/tech/lg-smart-washer-dryer-review)
-- [Lifehacker] [You Can Get Headway Premium on Sale for $50 Right Now](https://lifehacker.com/headway-premium-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [LG&#39;s Smart Washer and Dryer Uses AI to Make Laundry Less of a Chore](https://lifehacker.com/tech/lg-smart-washer-dryer-review)<!-- TECH-POSTS:END -->
 
 ---
 
