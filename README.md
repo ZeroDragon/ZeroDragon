@@ -26,8 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.11](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-111-5aed)
 - [Dev.to/JS] [React State with live Project](https://dev.to/devlawrence/react-state-with-live-project-3j7j)
-- [Lifehacker] [Instagram Won&#39;t Snitch If You Screenshot &lpar;For the Most Part&rpar;](https://lifehacker.com/tech/does-instagram-notify-someone-if-you-screenshot)
 - [Dev.to/JS] [Loading.... Suspense](https://dev.to/bealecs/loading-suspense-6hp)
 - [Lifehacker] [These Robot Vacuums Are up to 60% Off Right Now](https://lifehacker.com/home/the-best-robot-vacuum-deals-right-now)
 - [Lifehacker] [The Best Deals on Cheap &lpar;or Free&rpar; Tax Prep Software in 2024](https://lifehacker.com/money/best-deals-tax-prep-software)
@@ -49,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/marcinwalkowiak36/buy-glassdoor-reviews-1p2l)
 - [Lifehacker] [The Best Furnishings to Help Maximize Your Nursery Space](https://lifehacker.com/family/maximize-small-nursery-space)
 - [Lifehacker] [Six Useful Apps and Tools for Saving on Your Water Bill](https://lifehacker.com/money/best-apps-for-saving-on-water-bill)
-- [Dev.to/JS] [Navigating React&#39;s Seas of Data: The Enchantment of useContext - Part One](https://dev.to/capwellmurimi/navigating-reacts-seas-of-data-the-enchantment-of-usecontext-part-one-31d3)
 - [Lifehacker] [Make This ‘First Period Kit’ for Your Tween](https://lifehacker.com/family/how-to-make-first-period-kit)
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
 - [Lifehacker] [Why Everyone Should Still Use an RSS Reader in 2024](https://lifehacker.com/tech/the-best-rss-reader-apps-in-2024)
@@ -65,7 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Headway Premium on Sale for $50 Right Now](https://lifehacker.com/headway-premium-sale)
 - [Lifehacker] [Why Everyone Is Suddenly Talking About the 2017 Tax Cuts and Jobs Act](https://lifehacker.com/money/why-everyone-is-talking-about-2017-tax-reform)
 - [Lifehacker] [Leftover Rice Won&#39;t Kill You Like Social Media Says](https://lifehacker.com/health/is-it-safe-to-eat-leftover-rice)
-- [Lifehacker] [You Can Actually Rent Goats to Eat Weeds in Your Yard](https://lifehacker.com/home/you-can-rent-goats-to-eat-your-weeds)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Actually Rent Goats to Eat Weeds in Your Yard](https://lifehacker.com/home/you-can-rent-goats-to-eat-your-weeds)
+- [Lifehacker] [The GoPro Max is $100 Off Right Now](https://lifehacker.com/tech/gopro-max-100-off-amazon)<!-- TECH-POSTS:END -->
 
 ---
 
