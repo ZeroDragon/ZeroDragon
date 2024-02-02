@@ -26,20 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Maze Game in Node.js](https://dev.to/shawn2208/building-a-maze-game-in-nodejs-4j7m)
+- [Dev.to/JS] [Build an Advanced Contact Form in React with Nodemailer](https://dev.to/scofieldidehen/build-an-advanced-contact-form-in-react-with-nodemailer-53f7)
+- [Lifehacker] [How to Get ‘Enshrouded’ Running on Steam Deck](https://lifehacker.com/entertainment/play-enshrouded-on-steam-deck)
+- [Dev.to/JS] [Déployer une Application Next.js sur Cloud Run](https://dev.to/esensconsulting/deployer-une-application-nextjs-sur-cloud-run-dfd)
+- [Dev.to/JS] [Mastering the Art of Curated Web News: How I Crafted a Weekly Newsletter](https://dev.to/urbanisierung/mastering-the-art-of-curated-web-news-how-i-crafted-a-weekly-newsletter-43oj)
+- [Lifehacker] [The Best Ways to Remove Set-in Grease and Oil Stains From Your Clothes](https://lifehacker.com/home/remove-set-in-grease-stains-from-clothing)
 - [Dev.to/JS] [Building a News Search App: JavaScript API Project](https://dev.to/fahimulkabir/building-a-news-search-app-javascript-api-project-1m84)
 - [Dev.to/JS] [How to Implement Contextual Feature Flags in Angular using Unleash](https://dev.to/reeshee/how-to-implement-contextual-feature-flags-in-angular-using-unleash-1omc)
 - [Dev.to/JS] [Além do básico: Uso de Variáveis de Ambiente em Aplicações Node e Nest](https://dev.to/k1nha/alem-do-basico-uso-de-variaveis-de-ambiente-em-aplicacoes-node-e-nest-1hl7)
+- [Lifehacker] [How to Delete Every Photo of Your Ex From Your iPhone](https://lifehacker.com/tech/delete-exs-photos-from-iphone)
 - [Dev.to/JS] [Creating a 3D Card Flip Animation Gallery with CSS 3D Transforms and JavaScript](https://dev.to/onyeneke/creating-a-3d-card-flip-animation-gallery-with-css-3d-transforms-and-javascript-433n)
 - [Dev.to/JS] [Flaco - Personal multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/flaco-personal-multipage-theme-built-with-astro-tailwind-css-mdx-5fkj)
+- [Lifehacker] [How to Tell If Clothing Was Made Specifically for a Discount Retailer](https://lifehacker.com/money/how-to-tell-if-clothing-was-made-for-discount-retailer)
 - [Dev.to/JS] [JavaScript](https://dev.to/metaspaceavinash/javascript-5anf)
 - [Dev.to/JS] [JavaScript Errors](https://dev.to/metaspaceavinash/javascript-errors-di5)
 - [Dev.to/JS] [JavaScript Question](https://dev.to/metaspaceavinash/javascript-question-1ai4)
 - [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
-- [Dev.to/JS] [WebAssembly vs JavaScript: What’s the Difference Between Both?](https://dev.to/shariqahmed525/webassembly-vs-javascript-whats-the-difference-between-both-1fo9)
-- [Dev.to/JS] [Create a LocalStorage polyfill for non-browser environments](https://dev.to/phuocng/create-a-localstorage-polyfill-for-non-browser-environments-5f6k)
-- [Dev.to/JS] [first projek html, css, js](https://dev.to/oregazza/first-projek-html-css-js-5h7e)
-- [Dev.to/JS] [Déployer une application Symfony et Vue.js sur Cloud Run](https://dev.to/esensconsulting/deployer-une-application-symfony-et-vuejs-sur-cloud-run-3cc2)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Furnishings to Help Maximize Your Nursery Space](https://lifehacker.com/family/maximize-small-nursery-space)
 - [Lifehacker] [Six Useful Apps and Tools for Saving on Your Water Bill](https://lifehacker.com/money/best-apps-for-saving-on-water-bill)
 - [Lifehacker] [Make This ‘First Period Kit’ for Your Tween](https://lifehacker.com/family/how-to-make-first-period-kit)
-- [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
-- [Lifehacker] [Why Everyone Should Still Use an RSS Reader in 2024](https://lifehacker.com/tech/the-best-rss-reader-apps-in-2024)
-- [Lifehacker] [What People Are Getting Wrong This Week: The TikTok Fugitive](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-tiktok-fugitive)
-- [Lifehacker] [How to Get ‘Palworld’ Running on a Steam Deck](https://lifehacker.com/entertainment/how-to-run-palworld-on-steam-deck)
-- [Lifehacker] [You&#39;ll Need to Pay to Use Google&#39;s Best AI](https://lifehacker.com/tech/what-is-google-bard-advanced)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)<!-- TECH-POSTS:END -->
 
 ---
 
