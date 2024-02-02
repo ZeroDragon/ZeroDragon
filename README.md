@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Searching for Full Stack Talent](https://dev.to/vivz/searching-for-full-stack-talent-51cf)
 - [Dev.to/JS] [Title](https://dev.to/moneyfor1pro/title-177i)
 - [Dev.to/JS] [React.js Page Transition With Framer-Motion layout .](https://dev.to/utsavmavani/reactjs-page-transition-with-framer-motion-layout--10l0)
 - [Dev.to/JS] [Title](https://dev.to/moneyfor1pro/title-539l)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hexadecimal Code Generator using React&lpar;Beginner&rpar;](https://dev.to/maxwizardth/hexadecimal-code-generator-using-reactbeginner-23ce)
 - [Dev.to/JS] [How to use Learnitive AI API?](https://dev.to/learnitive/how-to-use-learnitive-ai-api-4h92)
 - [Lifehacker] [These Headphones, Speakers, and Soundbars Are up to 80% Off](https://lifehacker.com/tech/woot-audio-sale)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.11](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-111-5aed)
 - [Lifehacker] [It&#39;s Time Pickles Became a Common Pizza Topping](https://lifehacker.com/food-drink/its-time-pickles-became-a-common-pizza-topping)
 - [Lifehacker] [Instagram Won&#39;t Snitch If You Screenshot &lpar;For the Most Part&rpar;](https://lifehacker.com/tech/does-instagram-notify-someone-if-you-screenshot)
 - [Lifehacker] [These Robot Vacuums Are up to 60% Off Right Now](https://lifehacker.com/home/the-best-robot-vacuum-deals-right-now)
