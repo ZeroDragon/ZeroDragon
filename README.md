@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Hidden Parts of Your Home That Need Regular Maintenance](https://lifehacker.com/home/hidden-home-maintenance-tasks)
 - [Dev.to/JS] [A normalization function for json-api format](https://dev.to/thb/a-normalization-function-for-json-api-format-3fmi)
+- [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
+- [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Dev.to/JS] [10 React Libraries for Building Powerful Web Applications](https://dev.to/christianauloma/10-react-libraries-for-building-powerful-web-applications-36kl)
 - [Dev.to/JS] [Reactive Dataflow Configurations](https://dev.to/ninjin/reactive-dataflow-configurations-318i)
 - [Dev.to/JS] [My 3D Portfolio](https://dev.to/knight3197/my-3d-portfolio-2hfj)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Time Pickles Became a Common Pizza Topping](https://lifehacker.com/food-drink/its-time-pickles-became-a-common-pizza-topping)
 - [Lifehacker] [Instagram Won&#39;t Snitch If You Screenshot &lpar;For the Most Part&rpar;](https://lifehacker.com/tech/does-instagram-notify-someone-if-you-screenshot)
 - [Lifehacker] [These Robot Vacuums Are up to 60% Off Right Now](https://lifehacker.com/home/the-best-robot-vacuum-deals-right-now)
-- [Lifehacker] [The Best Deals on Cheap &lpar;or Free&rpar; Tax Prep Software in 2024](https://lifehacker.com/money/best-deals-tax-prep-software)
-- [Lifehacker] [Tartiflette Is a Fancy French Cheese Dish Anyone Can Make](https://lifehacker.com/food-drink/easy-tartiflette-recipe)
-- [Lifehacker] [Use CryoUtilities to Make Your Steam Deck Run Better](https://lifehacker.com/tech/how-to-improve-performance-on-steam-deck-with-cryoutilities)
-- [Lifehacker] [Amazon Prime Members Can Get One of These Free E-Books in February](https://lifehacker.com/entertainment/amazon-free-kindle-books)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Deals on Cheap &lpar;or Free&rpar; Tax Prep Software in 2024](https://lifehacker.com/money/best-deals-tax-prep-software)<!-- TECH-POSTS:END -->
 
 ---
 
