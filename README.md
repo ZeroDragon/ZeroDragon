@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript](https://dev.to/metaspaceavinash/javascript-5anf)
+- [Dev.to/JS] [JavaScript Errors](https://dev.to/metaspaceavinash/javascript-errors-di5)
+- [Dev.to/JS] [JavaScript Question](https://dev.to/metaspaceavinash/javascript-question-1ai4)
 - [Dev.to/JS] [WebAssembly vs JavaScript: What’s the Difference Between Both?](https://dev.to/shariqahmed525/webassembly-vs-javascript-whats-the-difference-between-both-1fo9)
 - [Dev.to/JS] [Create a LocalStorage polyfill for non-browser environments](https://dev.to/phuocng/create-a-localstorage-polyfill-for-non-browser-environments-5f6k)
 - [Dev.to/JS] [first projek html, css, js](https://dev.to/oregazza/first-projek-html-css-js-5h7e)
 - [Dev.to/JS] [Déployer une application Symfony et Vue.js sur Cloud Run](https://dev.to/esensconsulting/deployer-une-application-symfony-et-vuejs-sur-cloud-run-3cc2)
+- [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Dev.to/JS] [How Google Drive handles HUGE File Uploads 🔥🔥](https://dev.to/codeparrot/how-google-drive-handles-huge-file-uploads-4c58)
 - [Dev.to/JS] [60+ Amazing Free HTML Bootstrap Starter Templates to Jumpstart Your Projects](https://dev.to/purnimashrestha/60-amazing-free-html-bootstrap-starter-templates-to-jumpstart-your-projects-35pi)
 - [Dev.to/JS] [How to Build a Custom JavaScript Slider for Your Website](https://dev.to/sikirumomodu/how-to-build-a-custom-javascript-slider-for-your-website-nd3)
+- [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Dev.to/JS] [How To Create Responsive Image Slider in HTML CSS and JavaScript – Full Source Code](https://dev.to/codingmadeeasy/how-to-create-responsive-image-slider-in-html-css-and-javascript-full-source-code-4bll)
 - [Dev.to/JS] [Non-Null Assertions: The Forbidden Typescript Operator](https://dev.to/marileon/non-null-assertions-the-forbidden-typescript-operator-1e5c)
-- [Dev.to/JS] [Building A Resume Upload And Parsing App With NodeJs And MongoDb](https://dev.to/fredabod/building-a-resume-upload-and-parsing-app-with-nodejs-and-mongodb-1049)
-- [Dev.to/JS] [What Is Really A Senior Developer: Core Principles](https://dev.to/dragosnedelcu/what-is-really-a-senior-developer-core-principles-2dgm)
-- [Dev.to/JS] [Tailwind CSS vs Foundation: A Comparison of CSS Frameworks](https://dev.to/sikirumomodu/tailwind-css-vs-foundation-a-comparison-of-css-frameworks-47k7)
+- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)
 - [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Lifehacker] [How to Unclog a Kitchen Sink Without Calling a Plumber](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get ‘Palworld’ Running on a Steam Deck](https://lifehacker.com/entertainment/how-to-run-palworld-on-steam-deck)
 - [Lifehacker] [You&#39;ll Need to Pay to Use Google&#39;s Best AI](https://lifehacker.com/tech/what-is-google-bard-advanced)
 - [Lifehacker] [The Latest M2 MacBook Air Is $300 Off Right Now](https://lifehacker.com/tech/the-latest-m2-macbook-air-is-300-off-right-now)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)
-- [Lifehacker] [How to Craft a Better Resume, According to a LinkedIn Career Expert](https://lifehacker.com/work/how-to-make-a-better-resume)
-- [Lifehacker] [What Is Spatial Audio and How Does It Work?](https://lifehacker.com/tech/what-is-spatial-audio-and-how-does-it-work)
-- [Lifehacker] [Use This Homemade Seasoning Mix for Better Popcorn](https://lifehacker.com/food-drink/diy-popcorn-seasoning-at-home)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)<!-- TECH-POSTS:END -->
 
 ---
 
