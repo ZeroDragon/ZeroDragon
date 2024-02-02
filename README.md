@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easiest way to add a video huddle to your application](https://dev.to/superviz/easiest-way-to-add-a-video-huddle-to-your-application-2nkj)
+- [Dev.to/JS] [JavaScript](https://dev.to/mheyrie/javascript-2i3f)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/teresafergusone5/buy-verified-paxful-account-457b)
 - [Dev.to/JS] [Building a Maze Game in Node.js](https://dev.to/shawn2208/building-a-maze-game-in-nodejs-4j7m)
 - [Dev.to/JS] [Build an Advanced Contact Form in React with Nodemailer](https://dev.to/scofieldidehen/build-an-advanced-contact-form-in-react-with-nodemailer-53f7)
-- [Lifehacker] [How to Get ‘Enshrouded’ Running on Steam Deck](https://lifehacker.com/entertainment/play-enshrouded-on-steam-deck)
 - [Dev.to/JS] [Déployer une Application Next.js sur Cloud Run](https://dev.to/esensconsulting/deployer-une-application-nextjs-sur-cloud-run-dfd)
 - [Dev.to/JS] [Mastering the Art of Curated Web News: How I Crafted a Weekly Newsletter](https://dev.to/urbanisierung/mastering-the-art-of-curated-web-news-how-i-crafted-a-weekly-newsletter-43oj)
 - [Lifehacker] [The Best Ways to Remove Set-in Grease and Oil Stains From Your Clothes](https://lifehacker.com/home/remove-set-in-grease-stains-from-clothing)
@@ -39,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a 3D Card Flip Animation Gallery with CSS 3D Transforms and JavaScript](https://dev.to/onyeneke/creating-a-3d-card-flip-animation-gallery-with-css-3d-transforms-and-javascript-433n)
 - [Dev.to/JS] [Flaco - Personal multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/flaco-personal-multipage-theme-built-with-astro-tailwind-css-mdx-5fkj)
 - [Lifehacker] [How to Tell If Clothing Was Made Specifically for a Discount Retailer](https://lifehacker.com/money/how-to-tell-if-clothing-was-made-for-discount-retailer)
-- [Dev.to/JS] [JavaScript](https://dev.to/metaspaceavinash/javascript-5anf)
-- [Dev.to/JS] [JavaScript Errors](https://dev.to/metaspaceavinash/javascript-errors-di5)
-- [Dev.to/JS] [JavaScript Question](https://dev.to/metaspaceavinash/javascript-question-1ai4)
 - [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
@@ -65,7 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Furnishings to Help Maximize Your Nursery Space](https://lifehacker.com/family/maximize-small-nursery-space)
 - [Lifehacker] [Six Useful Apps and Tools for Saving on Your Water Bill](https://lifehacker.com/money/best-apps-for-saving-on-water-bill)
 - [Lifehacker] [Make This ‘First Period Kit’ for Your Tween](https://lifehacker.com/family/how-to-make-first-period-kit)
-- [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
+- [Lifehacker] [Why Everyone Should Still Use an RSS Reader in 2024](https://lifehacker.com/tech/the-best-rss-reader-apps-in-2024)<!-- TECH-POSTS:END -->
 
 ---
 
