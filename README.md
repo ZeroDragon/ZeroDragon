@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt; Part 2 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-part-2--1k0l)
+- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt; Part 1 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-part-1--c75)
 - [Dev.to/JS] [Searching for Full Stack Talent](https://dev.to/vivz/searching-for-full-stack-talent-51cf)
 - [Dev.to/JS] [Title](https://dev.to/moneyfor1pro/title-177i)
 - [Dev.to/JS] [React.js Page Transition With Framer-Motion layout .](https://dev.to/utsavmavani/reactjs-page-transition-with-framer-motion-layout--10l0)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Who wants to be part of an Open Source JavaScript Forum?](https://dev.to/c5h8nnao4/who-wants-to-be-part-of-an-open-source-javascript-forum-45pf)
 - [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Lifehacker] [How to Unclog a Kitchen Sink Without Calling a Plumber](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)
-- [Dev.to/JS] [Hexadecimal Code Generator using React&lpar;Beginner&rpar;](https://dev.to/maxwizardth/hexadecimal-code-generator-using-reactbeginner-23ce)
-- [Dev.to/JS] [How to use Learnitive AI API?](https://dev.to/learnitive/how-to-use-learnitive-ai-api-4h92)
 - [Lifehacker] [These Headphones, Speakers, and Soundbars Are up to 80% Off](https://lifehacker.com/tech/woot-audio-sale)
 - [Lifehacker] [It&#39;s Time Pickles Became a Common Pizza Topping](https://lifehacker.com/food-drink/its-time-pickles-became-a-common-pizza-topping)
 - [Lifehacker] [Instagram Won&#39;t Snitch If You Screenshot &lpar;For the Most Part&rpar;](https://lifehacker.com/tech/does-instagram-notify-someone-if-you-screenshot)
