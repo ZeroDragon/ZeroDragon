@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Responsive Hero Section with React and Tailwind CSS](https://dev.to/ryaddev/build-responsive-hero-section-with-react-and-tailwind-css-1444)
+- [Dev.to/JS] [Dealing with Legacy Code as an Engineer](https://dev.to/adedaniel/dealing-with-legacy-code-as-an-engineer-261d)
+- [Dev.to/JS] [MongoDB Quries](https://dev.to/avinashrepo/mongodb-quries-4a74)
+- [Lifehacker] [How Often You Need to Clean Your Humidifier &lpar;It’s a Lot&rpar;](https://lifehacker.com/home/how-often-to-clean-a-humidifier)
 - [Lifehacker] [Five Hidden Parts of Your Home That Need Regular Maintenance](https://lifehacker.com/home/hidden-home-maintenance-tasks)
 - [Dev.to/JS] [A normalization function for json-api format](https://dev.to/thb/a-normalization-function-for-json-api-format-3fmi)
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
@@ -36,13 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [FIRE, FIRE ANTS, and Other Financial Acronyms You Need to Know](https://lifehacker.com/money/dirds-fire-ants-and-other-financial-acronyms-you-need-to-know)
 - [Dev.to/JS] [How to Add JavaScript Subreports to Your Web Apps](https://dev.to/mescius/how-to-add-javascript-subreports-to-your-web-apps-1nb7)
 - [Dev.to/JS] [design from dribble to life 2](https://dev.to/achintha_prabash_c1dc098a/design-from-dribble-to-life-2-4gdn)
-- [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/hamese7901/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-41e4)
-- [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/hamese7901/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-188n)
-- [Dev.to/JS] [Cash BoX Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgfhd call naw ishq me avval](https://dev.to/suriya123/cash-box-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgfhd-call-naw-ishq-me-avval-3kk8)
-- [Dev.to/JS] [Cash BoX Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgfhd call naw](https://dev.to/suriya123/cash-box-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgfhd-call-naw-17oh)
-- [Dev.to/JS] [Cash BoX Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgf hs](https://dev.to/rohet123/cash-box-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgf-hs-f08)
-- [Dev.to/JS] [loan Customer Care Helpline Number 9340417924//7501681932All Problems solvejd](https://dev.to/lixeyaw64/loan-customer-care-helpline-number-93404179247501681932all-problems-solvejd-3c1f)
 - [Lifehacker] [18 of the Best ‘Smooth Brain’ TV Shows to Binge Mindlessly](https://lifehacker.com/entertainment/best-comfort-shows-streaming-netflix)
+- [Dev.to/JS] [CASH BOX Loan Customer Care Helpline Number///&lpar;+91&lpar;9676782978&rpar;//Call Now+91&lpar;9676782978&rpar; Toll Free](https://dev.to/jaweje5222/cash-box-loan-customer-care-helpline-number919676782978call-now919676782978-toll-free-2pak)
+- [Dev.to/JS] [Network optimization &lpar;4x WS message size reduction&rpar; for sending a lot of data from LiveView to client using push_event](https://dev.to/azyzz/network-optimization-for-sending-lot-of-data-from-liveview-to-client-using-pushevent-2nl)
+- [Dev.to/JS] [Encadeando Promises em Javascript](https://dev.to/wevertoum/encadeando-promises-em-javascript-em7)
 - [Lifehacker] [You Can Finally Add Extensions to Microsoft Edge on Android](https://lifehacker.com/tech/how-to-add-extensions-to-microsoft-edge-on-android)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
 - [Lifehacker] [This 8-Piece Japanese Knife Set Is on Sale for $120 Right Now](https://lifehacker.com/japanese-knife-set-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Headphones, Speakers, and Soundbars Are up to 80% Off](https://lifehacker.com/tech/woot-audio-sale)
 - [Lifehacker] [It&#39;s Time Pickles Became a Common Pizza Topping](https://lifehacker.com/food-drink/its-time-pickles-became-a-common-pizza-topping)
 - [Lifehacker] [Instagram Won&#39;t Snitch If You Screenshot &lpar;For the Most Part&rpar;](https://lifehacker.com/tech/does-instagram-notify-someone-if-you-screenshot)
-- [Lifehacker] [These Robot Vacuums Are up to 60% Off Right Now](https://lifehacker.com/home/the-best-robot-vacuum-deals-right-now)
-- [Lifehacker] [The Best Deals on Cheap &lpar;or Free&rpar; Tax Prep Software in 2024](https://lifehacker.com/money/best-deals-tax-prep-software)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Robot Vacuums Are up to 60% Off Right Now](https://lifehacker.com/home/the-best-robot-vacuum-deals-right-now)<!-- TECH-POSTS:END -->
 
 ---
 
