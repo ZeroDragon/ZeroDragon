@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)
 - [Dev.to/JS] [Data Structures and Algorithms: Recursion](https://dev.to/faraib/data-structures-and-algorithms-recursion-49ha)
 - [Dev.to/JS] [Build-Time Performance for webpack](https://dev.to/rudolfolah/build-time-performance-for-webpack-3m5a)
 - [Dev.to/JS] [Despidiéndome de Console.log](https://dev.to/altaskur/despidiendome-de-consolelog-5a6a)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)
 - [Lifehacker] [How to Craft a Better Resume, According to a LinkedIn Career Expert](https://lifehacker.com/work/how-to-make-a-better-resume)
 - [Lifehacker] [What Is Spatial Audio and How Does It Work?](https://lifehacker.com/tech/what-is-spatial-audio-and-how-does-it-work)
-- [Lifehacker] [Use This Homemade Seasoning Mix for Better Popcorn](https://lifehacker.com/food-drink/diy-popcorn-seasoning-at-home)
-- [Lifehacker] [LG&#39;s Smart Washer and Dryer Uses AI to Make Laundry Less of a Chore](https://lifehacker.com/tech/lg-smart-washer-dryer-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Homemade Seasoning Mix for Better Popcorn](https://lifehacker.com/food-drink/diy-popcorn-seasoning-at-home)<!-- TECH-POSTS:END -->
 
 ---
 
