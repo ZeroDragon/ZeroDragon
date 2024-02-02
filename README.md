@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A normalization function for json-api format](https://dev.to/thb/a-normalization-function-for-json-api-format-3fmi)
 - [Dev.to/JS] [10 React Libraries for Building Powerful Web Applications](https://dev.to/christianauloma/10-react-libraries-for-building-powerful-web-applications-36kl)
 - [Dev.to/JS] [Reactive Dataflow Configurations](https://dev.to/ninjin/reactive-dataflow-configurations-318i)
 - [Dev.to/JS] [My 3D Portfolio](https://dev.to/knight3197/my-3d-portfolio-2hfj)
+- [Lifehacker] [FIRE, FIRE ANTS, and Other Financial Acronyms You Need to Know](https://lifehacker.com/money/dirds-fire-ants-and-other-financial-acronyms-you-need-to-know)
 - [Dev.to/JS] [How to Add JavaScript Subreports to Your Web Apps](https://dev.to/mescius/how-to-add-javascript-subreports-to-your-web-apps-1nb7)
 - [Dev.to/JS] [design from dribble to life 2](https://dev.to/achintha_prabash_c1dc098a/design-from-dribble-to-life-2-4gdn)
 - [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/hamese7901/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-41e4)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cash BoX Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgfhd call naw](https://dev.to/suriya123/cash-box-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgfhd-call-naw-17oh)
 - [Dev.to/JS] [Cash BoX Loan Cust0mer Care®Helpline Number-7995412287-@7995412287All problem Solvejgf hs](https://dev.to/rohet123/cash-box-loan-cust0mer-carerhelpline-number-7995412287-7995412287all-problem-solvejgf-hs-f08)
 - [Dev.to/JS] [loan Customer Care Helpline Number 9340417924//7501681932All Problems solvejd](https://dev.to/lixeyaw64/loan-customer-care-helpline-number-93404179247501681932all-problems-solvejd-3c1f)
-- [Dev.to/JS] [Money Fine Loan Customer Care Helpline Number9676782978 Call Now..9676782978 Till Free](https://dev.to/digitalservice57/money-fine-loan-customer-care-helpline-number9676782978-call-now9676782978-till-free-262j)
 - [Lifehacker] [18 of the Best ‘Smooth Brain’ TV Shows to Binge Mindlessly](https://lifehacker.com/entertainment/best-comfort-shows-streaming-netflix)
 - [Lifehacker] [You Can Finally Add Extensions to Microsoft Edge on Android](https://lifehacker.com/tech/how-to-add-extensions-to-microsoft-edge-on-android)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Deals on Cheap &lpar;or Free&rpar; Tax Prep Software in 2024](https://lifehacker.com/money/best-deals-tax-prep-software)
 - [Lifehacker] [Tartiflette Is a Fancy French Cheese Dish Anyone Can Make](https://lifehacker.com/food-drink/easy-tartiflette-recipe)
 - [Lifehacker] [Use CryoUtilities to Make Your Steam Deck Run Better](https://lifehacker.com/tech/how-to-improve-performance-on-steam-deck-with-cryoutilities)
-- [Lifehacker] [Amazon Prime Members Can Get One of These Free E-Books in February](https://lifehacker.com/entertainment/amazon-free-kindle-books)
-- [Lifehacker] [You Don&#39;t Have Much Time Left to Share Hulu Passwords](https://lifehacker.com/entertainment/hulu-password-sharing-crackdown)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Amazon Prime Members Can Get One of These Free E-Books in February](https://lifehacker.com/entertainment/amazon-free-kindle-books)<!-- TECH-POSTS:END -->
 
 ---
 
