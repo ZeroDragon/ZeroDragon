@@ -26,20 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a News Search App: JavaScript API Project](https://dev.to/fahimulkabir/building-a-news-search-app-javascript-api-project-1m84)
+- [Dev.to/JS] [How to Implement Contextual Feature Flags in Angular using Unleash](https://dev.to/reeshee/how-to-implement-contextual-feature-flags-in-angular-using-unleash-1omc)
+- [Dev.to/JS] [Além do básico: Uso de Variáveis de Ambiente em Aplicações Node e Nest](https://dev.to/k1nha/alem-do-basico-uso-de-variaveis-de-ambiente-em-aplicacoes-node-e-nest-1hl7)
+- [Dev.to/JS] [Creating a 3D Card Flip Animation Gallery with CSS 3D Transforms and JavaScript](https://dev.to/onyeneke/creating-a-3d-card-flip-animation-gallery-with-css-3d-transforms-and-javascript-433n)
+- [Dev.to/JS] [Flaco - Personal multipage theme. Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/flaco-personal-multipage-theme-built-with-astro-tailwind-css-mdx-5fkj)
 - [Dev.to/JS] [JavaScript](https://dev.to/metaspaceavinash/javascript-5anf)
 - [Dev.to/JS] [JavaScript Errors](https://dev.to/metaspaceavinash/javascript-errors-di5)
 - [Dev.to/JS] [JavaScript Question](https://dev.to/metaspaceavinash/javascript-question-1ai4)
+- [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
+- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Dev.to/JS] [WebAssembly vs JavaScript: What’s the Difference Between Both?](https://dev.to/shariqahmed525/webassembly-vs-javascript-whats-the-difference-between-both-1fo9)
 - [Dev.to/JS] [Create a LocalStorage polyfill for non-browser environments](https://dev.to/phuocng/create-a-localstorage-polyfill-for-non-browser-environments-5f6k)
 - [Dev.to/JS] [first projek html, css, js](https://dev.to/oregazza/first-projek-html-css-js-5h7e)
 - [Dev.to/JS] [Déployer une application Symfony et Vue.js sur Cloud Run](https://dev.to/esensconsulting/deployer-une-application-symfony-et-vuejs-sur-cloud-run-3cc2)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Dev.to/JS] [How Google Drive handles HUGE File Uploads 🔥🔥](https://dev.to/codeparrot/how-google-drive-handles-huge-file-uploads-4c58)
-- [Dev.to/JS] [60+ Amazing Free HTML Bootstrap Starter Templates to Jumpstart Your Projects](https://dev.to/purnimashrestha/60-amazing-free-html-bootstrap-starter-templates-to-jumpstart-your-projects-35pi)
-- [Dev.to/JS] [How to Build a Custom JavaScript Slider for Your Website](https://dev.to/sikirumomodu/how-to-build-a-custom-javascript-slider-for-your-website-nd3)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
-- [Dev.to/JS] [How To Create Responsive Image Slider in HTML CSS and JavaScript – Full Source Code](https://dev.to/codingmadeeasy/how-to-create-responsive-image-slider-in-html-css-and-javascript-full-source-code-4bll)
-- [Dev.to/JS] [Non-Null Assertions: The Forbidden Typescript Operator](https://dev.to/marileon/non-null-assertions-the-forbidden-typescript-operator-1e5c)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)
 - [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Everyone Should Still Use an RSS Reader in 2024](https://lifehacker.com/tech/the-best-rss-reader-apps-in-2024)
 - [Lifehacker] [What People Are Getting Wrong This Week: The TikTok Fugitive](https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-tiktok-fugitive)
 - [Lifehacker] [How to Get ‘Palworld’ Running on a Steam Deck](https://lifehacker.com/entertainment/how-to-run-palworld-on-steam-deck)
-- [Lifehacker] [You&#39;ll Need to Pay to Use Google&#39;s Best AI](https://lifehacker.com/tech/what-is-google-bard-advanced)
-- [Lifehacker] [The Latest M2 MacBook Air Is $300 Off Right Now](https://lifehacker.com/tech/the-latest-m2-macbook-air-is-300-off-right-now)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 1, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-1-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You&#39;ll Need to Pay to Use Google&#39;s Best AI](https://lifehacker.com/tech/what-is-google-bard-advanced)<!-- TECH-POSTS:END -->
 
 ---
 
