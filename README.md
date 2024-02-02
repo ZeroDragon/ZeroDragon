@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como RUSHAR um sistema assíncrono de envio de dados](https://dev.to/samsantosb/como-rushar-um-sistema-assincrono-de-envio-de-dados-4l6f)
+- [Lifehacker] [How to Unclog a Kitchen Sink Without Calling a Plumber](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)
+- [Dev.to/JS] [Hexadecimal Code Generator using React&lpar;Beginner&rpar;](https://dev.to/maxwizardth/hexadecimal-code-generator-using-reactbeginner-23ce)
+- [Dev.to/JS] [How to use Learnitive AI API?](https://dev.to/learnitive/how-to-use-learnitive-ai-api-4h92)
+- [Lifehacker] [These Headphones, Speakers, and Soundbars Are up to 80% Off](https://lifehacker.com/tech/woot-audio-sale)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.11](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-111-5aed)
 - [Dev.to/JS] [React State with live Project](https://dev.to/devlawrence/react-state-with-live-project-3j7j)
+- [Lifehacker] [It&#39;s Time Pickles Became a Common Pizza Topping](https://lifehacker.com/food-drink/its-time-pickles-became-a-common-pizza-topping)
+- [Lifehacker] [Instagram Won&#39;t Snitch If You Screenshot &lpar;For the Most Part&rpar;](https://lifehacker.com/tech/does-instagram-notify-someone-if-you-screenshot)
 - [Dev.to/JS] [Loading.... Suspense](https://dev.to/bealecs/loading-suspense-6hp)
 - [Lifehacker] [These Robot Vacuums Are up to 60% Off Right Now](https://lifehacker.com/home/the-best-robot-vacuum-deals-right-now)
 - [Lifehacker] [The Best Deals on Cheap &lpar;or Free&rpar; Tax Prep Software in 2024](https://lifehacker.com/money/best-deals-tax-prep-software)
@@ -43,10 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Vision Pro Has Over 600 Apps Designed For It at Launch](https://lifehacker.com/tech/vision-pro-600-new-apps)
 - [Lifehacker] [How to Casually Date Someone When It&#39;s Almost Valentine&#39;s Day](https://lifehacker.com/relationships/how-to-casually-date-before-valentines-day)
 - [Dev.to/JS] [6 Cybersecurity Tips](https://dev.to/guestsposts/bl-content-6-cybersecurity-tips-2jei)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/marcinwalkowiak36/buy-verified-cash-app-account-32d0)
-- [Dev.to/JS] [Who is Paper Perk?](https://dev.to/heketim/who-is-paper-perk-2hp1)
 - [Lifehacker] [Are Your Walls Moldy, or Is It ‘Drywall Ghosting’?](https://lifehacker.com/home/are-those-marks-on-your-drywall-mold-or-drywall-ghosting)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/marcinwalkowiak36/buy-glassdoor-reviews-1p2l)
 - [Lifehacker] [The Best Furnishings to Help Maximize Your Nursery Space](https://lifehacker.com/family/maximize-small-nursery-space)
 - [Lifehacker] [Six Useful Apps and Tools for Saving on Your Water Bill](https://lifehacker.com/money/best-apps-for-saving-on-water-bill)
 - [Lifehacker] [Make This ‘First Period Kit’ for Your Tween](https://lifehacker.com/family/how-to-make-first-period-kit)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Spatial Audio and How Does It Work?](https://lifehacker.com/tech/what-is-spatial-audio-and-how-does-it-work)
 - [Lifehacker] [Use This Homemade Seasoning Mix for Better Popcorn](https://lifehacker.com/food-drink/diy-popcorn-seasoning-at-home)
 - [Lifehacker] [LG&#39;s Smart Washer and Dryer Uses AI to Make Laundry Less of a Chore](https://lifehacker.com/tech/lg-smart-washer-dryer-review)
-- [Lifehacker] [You Can Get Headway Premium on Sale for $50 Right Now](https://lifehacker.com/headway-premium-sale)
-- [Lifehacker] [Why Everyone Is Suddenly Talking About the 2017 Tax Cuts and Jobs Act](https://lifehacker.com/money/why-everyone-is-talking-about-2017-tax-reform)
-- [Lifehacker] [Leftover Rice Won&#39;t Kill You Like Social Media Says](https://lifehacker.com/health/is-it-safe-to-eat-leftover-rice)
-- [Lifehacker] [You Can Actually Rent Goats to Eat Weeds in Your Yard](https://lifehacker.com/home/you-can-rent-goats-to-eat-your-weeds)
-- [Lifehacker] [The GoPro Max is $100 Off Right Now](https://lifehacker.com/tech/gopro-max-100-off-amazon)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Headway Premium on Sale for $50 Right Now](https://lifehacker.com/headway-premium-sale)<!-- TECH-POSTS:END -->
 
 ---
 
