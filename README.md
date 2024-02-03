@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Remove Duplicate Objects from an Array in JavaScript](https://dev.to/onlinemsr/how-to-remove-duplicate-objects-from-an-array-in-javascript-3ia)
+- [Dev.to/JS] [Inversion of Control &lpar;Design Principle&rpar; &amp; Dependency Injection &lpar;Design Pattern&rpar;](https://dev.to/shameel/inversion-of-control-design-principle-dependency-injection-design-pattern-51c0)
 - [Dev.to/JS] [AI in languages beyond Python](https://dev.to/muragekibicho/ai-in-languages-beyond-python-3hgi)
 - [Dev.to/JS] [Demystifying Cron Job Testing](https://dev.to/keploy/demystifying-cron-job-testing-3aj2)
 - [Dev.to/JS] [How to use Sketchub Telegram Bot ?](https://dev.to/prakhar_doneria/how-to-use-sketchub-telegram-bot--5bom)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Create And Sell Notion Templates as a Developer](https://dev.to/jacobdev/how-to-create-and-sell-notion-templates-as-a-developer-1gjl)
 - [Dev.to/JS] [Introduction to Redis: A Powerful In-Memory Database](https://dev.to/jps27cse/introduction-to-redis-a-powerful-in-memory-database-13en)
 - [Dev.to/JS] [Efficient Way to Write CSS3](https://dev.to/devgancode/efficient-way-to-write-css3-4dh7)
-- [Dev.to/JS] [Exceptions in Reactivity](https://dev.to/ninjin/exceptions-in-reactivity-23ca)
-- [Dev.to/JS] [Add TailwindCSS in Angular](https://dev.to/venkateshpensalwar/add-tailwindcss-in-angular-45a2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
