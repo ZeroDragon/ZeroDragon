@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como se conectar com QUALQUER comunidade tech no linkedin](https://dev.to/ryangst/como-se-conectar-com-qualquer-comunidade-tech-no-linkedin-1h0o)
+- [Dev.to/JS] [PKV GAMES 💸 Daftar 10 Link Situs Judi PKV Poker Online &amp; Domino QQ Terpercaya No BOT 2024](https://dev.to/slot303_mantap/pkv-games-daftar-10-link-situs-judi-pkv-poker-online-domino-qq-terpercaya-no-bot-2024-1h0h)
 - [Dev.to/JS] [Build Responsive Hero Section with React and Tailwind CSS](https://dev.to/ryaddev/build-responsive-hero-section-with-react-and-tailwind-css-1444)
 - [Dev.to/JS] [Dealing with Legacy Code as an Engineer](https://dev.to/adedaniel/dealing-with-legacy-code-as-an-engineer-261d)
 - [Dev.to/JS] [MongoDB Quries](https://dev.to/avinashrepo/mongodb-quries-4a74)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [design from dribble to life 2](https://dev.to/achintha_prabash_c1dc098a/design-from-dribble-to-life-2-4gdn)
 - [Lifehacker] [18 of the Best ‘Smooth Brain’ TV Shows to Binge Mindlessly](https://lifehacker.com/entertainment/best-comfort-shows-streaming-netflix)
 - [Dev.to/JS] [CASH BOX Loan Customer Care Helpline Number///&lpar;+91&lpar;9676782978&rpar;//Call Now+91&lpar;9676782978&rpar; Toll Free](https://dev.to/jaweje5222/cash-box-loan-customer-care-helpline-number919676782978call-now919676782978-toll-free-2pak)
-- [Dev.to/JS] [Network optimization &lpar;4x WS message size reduction&rpar; for sending a lot of data from LiveView to client using push_event](https://dev.to/azyzz/network-optimization-for-sending-lot-of-data-from-liveview-to-client-using-pushevent-2nl)
-- [Dev.to/JS] [Encadeando Promises em Javascript](https://dev.to/wevertoum/encadeando-promises-em-javascript-em7)
 - [Lifehacker] [You Can Finally Add Extensions to Microsoft Edge on Android](https://lifehacker.com/tech/how-to-add-extensions-to-microsoft-edge-on-android)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
 - [Lifehacker] [This 8-Piece Japanese Knife Set Is on Sale for $120 Right Now](https://lifehacker.com/japanese-knife-set-sale)
