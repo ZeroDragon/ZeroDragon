@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React](https://dev.to/abrilskop/react-4klg)
 - [Dev.to/JS] [The Evolution of Asynchronicity in JavaScript: From Callbacks to Promises](https://dev.to/farhadjaman/the-evolution-of-asynchronicity-in-javascript-from-callbacks-to-promises-1fg6)
 - [Dev.to/JS] [Desbravando o Mundo do Nginx: Criando seu Primeiro Servidor como Frontend](https://dev.to/hudson3384/desbravando-o-mundo-do-nginx-criando-seu-primeiro-servidor-como-frontend-5589)
 - [Dev.to/JS] [mongdb queris part2](https://dev.to/avinashrepo/mongdb-queris-part2-31pj)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A normalization function for json-api format](https://dev.to/thb/a-normalization-function-for-json-api-format-3fmi)
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
 - [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
-- [Dev.to/JS] [10 React Libraries for Building Powerful Web Applications](https://dev.to/christianauloma/10-react-libraries-for-building-powerful-web-applications-36kl)
 - [Lifehacker] [FIRE, FIRE ANTS, and Other Financial Acronyms You Need to Know](https://lifehacker.com/money/dirds-fire-ants-and-other-financial-acronyms-you-need-to-know)
 - [Lifehacker] [18 of the Best ‘Smooth Brain’ TV Shows to Binge Mindlessly](https://lifehacker.com/entertainment/best-comfort-shows-streaming-netflix)
 - [Lifehacker] [You Can Finally Add Extensions to Microsoft Edge on Android](https://lifehacker.com/tech/how-to-add-extensions-to-microsoft-edge-on-android)
