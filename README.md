@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blogger Post Title Parsing Error Issue](https://dev.to/sh20raj/blogger-post-title-parsing-error-issue-1cc7)
+- [Dev.to/JS] [What is custom attribute](https://dev.to/vaddijaswant/what-is-custom-attribute-f3a)
+- [Dev.to/JS] [Code/Syntax Highlighting Using highlight.js - Displaying Code on Website/Blogger with jsDelivr CDN](https://dev.to/sh20raj/codesyntax-highlighting-using-highlightjs-displaying-code-on-websiteblogger-with-jsdelivr-cdn-pfd)
+- [Dev.to/JS] [Top 20 Frontend Interview Questions With Answers](https://dev.to/writech/top-20-frontend-interview-questions-with-answers-34l0)
 - [Dev.to/JS] [Prazer, MobX: uma solução de gerenciamento de estado para aplicações React](https://dev.to/ryangst/prazer-mobx-uma-solucao-de-gerenciamento-de-estado-para-aplicacoes-react-l4j)
 - [Dev.to/JS] [Cash Box Loan CUSTOMER CARE HELPLINE NUMBER//7620648328&rpar;&rpar;//8235639628//call All online related just imagically](https://dev.to/customer00/cash-box-loan-customer-care-helpline-number76206483288235639628call-all-online-related-just-imagically-288b)
 - [Dev.to/JS] [TURAT FUND LOAN CUSTOMER CARE HELPLINE NUMBER☎✏️7620648328///✅8235639628✏️Call.Now](https://dev.to/customer00/turat-fund-loan-customer-care-helpline-number76206483288235639628callnow-37ak)
 - [Dev.to/JS] [tsconfig.json](https://dev.to/koraysels/tsconfigjson-no2)
-- [Dev.to/JS] [What is Regression?](https://dev.to/m__mdy__m/what-is-regression-1gno)
+- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
+- [Dev.to/JS] [Regression in Machine Learning](https://dev.to/m__mdy__m/what-is-regression-1gno)
 - [Dev.to/JS] [Start Your Trial With the IPVanish VPN App!](https://dev.to/aliza420/start-your-trial-with-the-ipvanish-vpn-app-13jl)
 - [Dev.to/JS] [How to Remove Duplicate Objects from an Array in JavaScript](https://dev.to/onlinemsr/how-to-remove-duplicate-objects-from-an-array-in-javascript-3ia)
 - [Dev.to/JS] [Inversion of Control &lpar;Design Principle&rpar; &amp; Dependency Injection &lpar;Design Pattern&rpar;](https://dev.to/shameel/inversion-of-control-design-principle-dependency-injection-design-pattern-51c0)
-- [Dev.to/JS] [AI in languages beyond Python](https://dev.to/muragekibicho/ai-in-languages-beyond-python-3hgi)
-- [Dev.to/JS] [Demystifying Cron Job Testing](https://dev.to/keploy/demystifying-cron-job-testing-3aj2)
-- [Dev.to/JS] [How to use Sketchub Telegram Bot ?](https://dev.to/prakhar_doneria/how-to-use-sketchub-telegram-bot--5bom)
-- [Dev.to/JS] [Artificial Intelligence: Building an image-to-text React application with firebase and Google Gemini API.](https://dev.to/kipyegonline/artificial-intelligence-using-google-gemini-to-create-a-image-text-react-application-5ao1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Clothing Was Made Specifically for a Discount Retailer](https://lifehacker.com/money/how-to-tell-if-clothing-was-made-for-discount-retailer)
 - [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
-- [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
