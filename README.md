@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Efficient Way to Write CSS3](https://dev.to/devgancode/efficient-way-to-write-css3-4dh7)
+- [Dev.to/JS] [Exceptions in Reactivity](https://dev.to/ninjin/exceptions-in-reactivity-23ca)
 - [Dev.to/JS] [How can you achieve method overloading in JavaScript functions?](https://dev.to/omnathdubeyofficial/how-can-you-achieve-method-overloading-in-javascript-functions-3pk0)
 - [Dev.to/JS] [React](https://dev.to/abrilskop/react-4klg)
 - [Dev.to/JS] [The Evolution of Asynchronicity in JavaScript: From Callbacks to Promises](https://dev.to/farhadjaman/the-evolution-of-asynchronicity-in-javascript-from-callbacks-to-promises-1fg6)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PKV GAMES 💸 Daftar 10 Link Situs Judi PKV Poker Online &amp; Domino QQ Terpercaya No BOT 2024](https://dev.to/slot303_mantap/pkv-games-daftar-10-link-situs-judi-pkv-poker-online-domino-qq-terpercaya-no-bot-2024-1h0h)
 - [Lifehacker] [You Should Be Freezing Your Leftover Tofu](https://lifehacker.com/food-drink/you-should-be-freezing-your-leftover-tofu)
 - [Dev.to/JS] [Build Responsive Hero Section with React and Tailwind CSS](https://dev.to/ryaddev/build-responsive-hero-section-with-react-and-tailwind-css-1444)
-- [Dev.to/JS] [Dealing with Legacy Code as an Engineer](https://dev.to/adedaniel/dealing-with-legacy-code-as-an-engineer-261d)
 - [Lifehacker] [Yes, You Have to Clean Your Steamer](https://lifehacker.com/home/how-to-clean-a-steamer)
-- [Dev.to/JS] [MongoDB Quries](https://dev.to/avinashrepo/mongodb-quries-4a74)
 - [Lifehacker] [Even Amazon Has an AI Bot Now](https://lifehacker.com/tech/amazon-ai-bot-rufus)
 - [Lifehacker] [How Often You Need to Clean Your Humidifier &lpar;It’s a Lot&rpar;](https://lifehacker.com/home/how-often-to-clean-a-humidifier)
 - [Lifehacker] [Five Hidden Parts of Your Home That Need Regular Maintenance](https://lifehacker.com/home/hidden-home-maintenance-tasks)
