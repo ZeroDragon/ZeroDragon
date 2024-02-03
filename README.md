@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.12](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-112-4jhf)
+- [Dev.to/JS] [Next.js e receita de bolo](https://dev.to/julianoalvescode/nextjs-e-receita-de-bolo-37d8)
 - [Dev.to/JS] [Simple shimmer placeholder in React Native](https://dev.to/sergeidev/simple-shimmer-placeholder-in-react-native-56ck)
 - [Dev.to/JS] [Evolution of Making Object in Javascript](https://dev.to/samrat9xm/evolution-of-making-object-in-javascript-5eff)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why learn Data structures and Algorithm](https://dev.to/praise002/why-learn-data-structures-and-algorithm-47c0)
 - [Dev.to/JS] [YouTube Thumbnail Downloader](https://dev.to/sh20raj/youtube-thumbnail-downloader-5ff8)
 - [Dev.to/JS] [Recommended Linters](https://dev.to/borysshulyak/recommended-linters-1pgd)
-- [Dev.to/JS] [Cash Box Loan Customer Care Helpline Number[7620648328]//7479837408//24/7, hours now](https://dev.to/customer00/cash-box-loan-customer-care-helpline-number76206483287479837408247-hours-now-g0)
-- [Dev.to/JS] [How to Ensure Pixel-Perfect Comparisons Between Websites?](https://dev.to/sidmohanty11/how-to-ensure-pixel-perfect-comparisons-between-websites-26h6)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
