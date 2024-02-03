@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Desbravando o Mundo do Nginx: Criando seu Primeiro Servidor como Frontend](https://dev.to/hudson3384/desbravando-o-mundo-do-nginx-criando-seu-primeiro-servidor-como-frontend-5589)
+- [Dev.to/JS] [mongdb queris part2](https://dev.to/avinashrepo/mongdb-queris-part2-31pj)
+- [Dev.to/JS] [MongoDB Quries](https://dev.to/avinashrepo/mongodb-quries-2lea)
+- [Dev.to/JS] [MongoDB Quries](https://dev.to/avinashrepo/mongodb-quries-65d)
+- [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [A Reminder to Deep Clean Your Toaster](https://lifehacker.com/how-to-clean-your-toaster-the-right-way-1847802334)
 - [Dev.to/JS] [Como se conectar com QUALQUER comunidade tech no linkedin](https://dev.to/ryangst/como-se-conectar-com-qualquer-comunidade-tech-no-linkedin-1h0o)
@@ -44,12 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Dev.to/JS] [10 React Libraries for Building Powerful Web Applications](https://dev.to/christianauloma/10-react-libraries-for-building-powerful-web-applications-36kl)
 - [Dev.to/JS] [Reactive Dataflow Configurations](https://dev.to/ninjin/reactive-dataflow-configurations-318i)
-- [Dev.to/JS] [My 3D Portfolio](https://dev.to/knight3197/my-3d-portfolio-2hfj)
 - [Lifehacker] [FIRE, FIRE ANTS, and Other Financial Acronyms You Need to Know](https://lifehacker.com/money/dirds-fire-ants-and-other-financial-acronyms-you-need-to-know)
-- [Dev.to/JS] [How to Add JavaScript Subreports to Your Web Apps](https://dev.to/mescius/how-to-add-javascript-subreports-to-your-web-apps-1nb7)
-- [Dev.to/JS] [design from dribble to life 2](https://dev.to/achintha_prabash_c1dc098a/design-from-dribble-to-life-2-4gdn)
 - [Lifehacker] [18 of the Best ‘Smooth Brain’ TV Shows to Binge Mindlessly](https://lifehacker.com/entertainment/best-comfort-shows-streaming-netflix)
-- [Dev.to/JS] [CASH BOX Loan Customer Care Helpline Number///&lpar;+91&lpar;9676782978&rpar;//Call Now+91&lpar;9676782978&rpar; Toll Free](https://dev.to/jaweje5222/cash-box-loan-customer-care-helpline-number919676782978call-now919676782978-toll-free-2pak)
 - [Lifehacker] [You Can Finally Add Extensions to Microsoft Edge on Android](https://lifehacker.com/tech/how-to-add-extensions-to-microsoft-edge-on-android)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
 - [Lifehacker] [This 8-Piece Japanese Knife Set Is on Sale for $120 Right Now](https://lifehacker.com/japanese-knife-set-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
-- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)<!-- TECH-POSTS:END -->
 
 ---
 
