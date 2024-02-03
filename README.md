@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple shimmer placeholder in React Native](https://dev.to/sergeidev/simple-shimmer-placeholder-in-react-native-56ck)
+- [Dev.to/JS] [Evolution of Making Object in Javascript](https://dev.to/samrat9xm/evolution-of-making-object-in-javascript-5eff)
+- [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Dev.to/JS] [Rendering PDF from URLs and HTML input using express js](https://dev.to/markuss23/rendering-pdf-from-urls-and-html-input-using-express-js-11h0)
 - [Dev.to/JS] [Hashnode Blog GitHub Action - fetch and display the latest blogs in a nice format](https://dev.to/sachinchaurasiya/hashnode-blog-github-action-fetch-and-display-the-latest-blogs-in-a-nice-format-4f25)
 - [Dev.to/JS] [에볼루션카지노 라이브](https://dev.to/evolutioncasinokings/ebolrusyeonkajino-raibeu-5533)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recommended Linters](https://dev.to/borysshulyak/recommended-linters-1pgd)
 - [Dev.to/JS] [Cash Box Loan Customer Care Helpline Number[7620648328]//7479837408//24/7, hours now](https://dev.to/customer00/cash-box-loan-customer-care-helpline-number76206483287479837408247-hours-now-g0)
 - [Dev.to/JS] [How to Ensure Pixel-Perfect Comparisons Between Websites?](https://dev.to/sidmohanty11/how-to-ensure-pixel-perfect-comparisons-between-websites-26h6)
-- [Dev.to/JS] [Blogger Post Title Parsing Error Issue](https://dev.to/sh20raj/blogger-post-title-parsing-error-issue-1cc7)
-- [Dev.to/JS] [What is custom attribute](https://dev.to/vaddijaswant/what-is-custom-attribute-f3a)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Remove Set-in Grease and Oil Stains From Your Clothes](https://lifehacker.com/home/remove-set-in-grease-stains-from-clothing)
 - [Lifehacker] [How to Delete Every Photo of Your Ex From Your iPhone](https://lifehacker.com/tech/delete-exs-photos-from-iphone)
 - [Lifehacker] [How to Tell If Clothing Was Made Specifically for a Discount Retailer](https://lifehacker.com/money/how-to-tell-if-clothing-was-made-for-discount-retailer)
-- [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
