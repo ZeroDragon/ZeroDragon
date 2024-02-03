@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AI in languages beyond Python](https://dev.to/muragekibicho/ai-in-languages-beyond-python-3hgi)
+- [Dev.to/JS] [Demystifying Cron Job Testing](https://dev.to/keploy/demystifying-cron-job-testing-3aj2)
+- [Dev.to/JS] [How to use Sketchub Telegram Bot ?](https://dev.to/prakhar_doneria/how-to-use-sketchub-telegram-bot--5bom)
+- [Dev.to/JS] [Artificial Intelligence: Building an image-to-text React application with firebase and Google Gemini API.](https://dev.to/kipyegonline/artificial-intelligence-using-google-gemini-to-create-a-image-text-react-application-5ao1)
 - [Dev.to/JS] [Outkast - Multipage agency theme Built with Astro, Tailwind CSS and MDX](https://dev.to/lexingtonthemes/outkast-multipage-agency-themebuilt-with-astro-tailwind-css-and-mdx-5h93)
 - [Dev.to/JS] [npm vs npx: Friends or Enemy?](https://dev.to/codeparrot/npm-vs-npx-friends-or-enemy-185k)
+- [Dev.to/JS] [&#39;Hello World!&#39; in Different Programming Languages](https://dev.to/philomath/hello-world-in-different-programming-languages-514e)
 - [Dev.to/JS] [How To Create And Sell Notion Templates as a Developer](https://dev.to/jacobdev/how-to-create-and-sell-notion-templates-as-a-developer-1gjl)
 - [Dev.to/JS] [Introduction to Redis: A Powerful In-Memory Database](https://dev.to/jps27cse/introduction-to-redis-a-powerful-in-memory-database-13en)
 - [Dev.to/JS] [Efficient Way to Write CSS3](https://dev.to/devgancode/efficient-way-to-write-css3-4dh7)
 - [Dev.to/JS] [Exceptions in Reactivity](https://dev.to/ninjin/exceptions-in-reactivity-23ca)
 - [Dev.to/JS] [Add TailwindCSS in Angular](https://dev.to/venkateshpensalwar/add-tailwindcss-in-angular-45a2)
-- [Dev.to/JS] [How can you achieve method overloading in JavaScript functions?](https://dev.to/omnathdubeyofficial/how-can-you-achieve-method-overloading-in-javascript-functions-3pk0)
-- [Dev.to/JS] [React](https://dev.to/abrilskop/react-4klg)
-- [Dev.to/JS] [The Evolution of Asynchronicity in JavaScript: From Callbacks to Promises](https://dev.to/farhadjaman/the-evolution-of-asynchronicity-in-javascript-from-callbacks-to-promises-1fg6)
-- [Dev.to/JS] [Desbravando o Mundo do Nginx: Criando seu Primeiro Servidor como Frontend](https://dev.to/hudson3384/desbravando-o-mundo-do-nginx-criando-seu-primeiro-servidor-como-frontend-5589)
-- [Dev.to/JS] [mongdb queris part2](https://dev.to/avinashrepo/mongdb-queris-part2-31pj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
