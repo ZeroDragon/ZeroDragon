@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rendering PDF from URLs and HTML input using express js](https://dev.to/markuss23/rendering-pdf-from-urls-and-html-input-using-express-js-11h0)
 - [Dev.to/JS] [Hashnode Blog GitHub Action - fetch and display the latest blogs in a nice format](https://dev.to/sachinchaurasiya/hashnode-blog-github-action-fetch-and-display-the-latest-blogs-in-a-nice-format-4f25)
 - [Dev.to/JS] [에볼루션카지노 라이브](https://dev.to/evolutioncasinokings/ebolrusyeonkajino-raibeu-5533)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 6 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-1c6e)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Ensure Pixel-Perfect Comparisons Between Websites?](https://dev.to/sidmohanty11/how-to-ensure-pixel-perfect-comparisons-between-websites-26h6)
 - [Dev.to/JS] [Blogger Post Title Parsing Error Issue](https://dev.to/sh20raj/blogger-post-title-parsing-error-issue-1cc7)
 - [Dev.to/JS] [What is custom attribute](https://dev.to/vaddijaswant/what-is-custom-attribute-f3a)
-- [Dev.to/JS] [Code/Syntax Highlighting Using highlight.js - Displaying Code on Website/Blogger with jsDelivr CDN](https://dev.to/sh20raj/codesyntax-highlighting-using-highlightjs-displaying-code-on-websiteblogger-with-jsdelivr-cdn-pfd)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
