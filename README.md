@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
+- [Lifehacker] [A Reminder to Deep Clean Your Toaster](https://lifehacker.com/how-to-clean-your-toaster-the-right-way-1847802334)
 - [Dev.to/JS] [Como se conectar com QUALQUER comunidade tech no linkedin](https://dev.to/ryangst/como-se-conectar-com-qualquer-comunidade-tech-no-linkedin-1h0o)
 - [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)
 - [Dev.to/JS] [PKV GAMES 💸 Daftar 10 Link Situs Judi PKV Poker Online &amp; Domino QQ Terpercaya No BOT 2024](https://dev.to/slot303_mantap/pkv-games-daftar-10-link-situs-judi-pkv-poker-online-domino-qq-terpercaya-no-bot-2024-1h0h)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)
-- [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
-- [Lifehacker] [How to Unclog a Kitchen Sink Without Calling a Plumber](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)<!-- TECH-POSTS:END -->
 
 ---
 
