@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prazer, MobX: uma solução de gerenciamento de estado para aplicações React](https://dev.to/ryangst/prazer-mobx-uma-solucao-de-gerenciamento-de-estado-para-aplicacoes-react-l4j)
+- [Dev.to/JS] [Cash Box Loan CUSTOMER CARE HELPLINE NUMBER//7620648328&rpar;&rpar;//8235639628//call All online related just imagically](https://dev.to/customer00/cash-box-loan-customer-care-helpline-number76206483288235639628call-all-online-related-just-imagically-288b)
+- [Dev.to/JS] [TURAT FUND LOAN CUSTOMER CARE HELPLINE NUMBER☎✏️7620648328///✅8235639628✏️Call.Now](https://dev.to/customer00/turat-fund-loan-customer-care-helpline-number76206483288235639628callnow-37ak)
+- [Dev.to/JS] [tsconfig.json](https://dev.to/koraysels/tsconfigjson-no2)
 - [Dev.to/JS] [What is Regression?](https://dev.to/m__mdy__m/what-is-regression-1gno)
 - [Dev.to/JS] [Start Your Trial With the IPVanish VPN App!](https://dev.to/aliza420/start-your-trial-with-the-ipvanish-vpn-app-13jl)
 - [Dev.to/JS] [How to Remove Duplicate Objects from an Array in JavaScript](https://dev.to/onlinemsr/how-to-remove-duplicate-objects-from-an-array-in-javascript-3ia)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying Cron Job Testing](https://dev.to/keploy/demystifying-cron-job-testing-3aj2)
 - [Dev.to/JS] [How to use Sketchub Telegram Bot ?](https://dev.to/prakhar_doneria/how-to-use-sketchub-telegram-bot--5bom)
 - [Dev.to/JS] [Artificial Intelligence: Building an image-to-text React application with firebase and Google Gemini API.](https://dev.to/kipyegonline/artificial-intelligence-using-google-gemini-to-create-a-image-text-react-application-5ao1)
-- [Dev.to/JS] [Outkast - Multipage agency theme Built with Astro, Tailwind CSS and MDX](https://dev.to/lexingtonthemes/outkast-multipage-agency-themebuilt-with-astro-tailwind-css-and-mdx-5h93)
-- [Dev.to/JS] [npm vs npx: Friends or Enemy?](https://dev.to/codeparrot/npm-vs-npx-friends-or-enemy-185k)
-- [Dev.to/JS] [&#39;Hello World!&#39; in Different Programming Languages](https://dev.to/philomath/hello-world-in-different-programming-languages-514e)
-- [Dev.to/JS] [How To Create And Sell Notion Templates as a Developer](https://dev.to/jacobdev/how-to-create-and-sell-notion-templates-as-a-developer-1gjl)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
