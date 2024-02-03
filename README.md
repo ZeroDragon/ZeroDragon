@@ -26,10 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Evolution of Asynchronicity in JavaScript: From Callbacks to Promises](https://dev.to/farhadjaman/the-evolution-of-asynchronicity-in-javascript-from-callbacks-to-promises-1fg6)
 - [Dev.to/JS] [Desbravando o Mundo do Nginx: Criando seu Primeiro Servidor como Frontend](https://dev.to/hudson3384/desbravando-o-mundo-do-nginx-criando-seu-primeiro-servidor-como-frontend-5589)
 - [Dev.to/JS] [mongdb queris part2](https://dev.to/avinashrepo/mongdb-queris-part2-31pj)
 - [Dev.to/JS] [MongoDB Quries](https://dev.to/avinashrepo/mongodb-quries-2lea)
 - [Dev.to/JS] [MongoDB Quries](https://dev.to/avinashrepo/mongodb-quries-65d)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [A Reminder to Deep Clean Your Toaster](https://lifehacker.com/how-to-clean-your-toaster-the-right-way-1847802334)
@@ -48,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
 - [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Dev.to/JS] [10 React Libraries for Building Powerful Web Applications](https://dev.to/christianauloma/10-react-libraries-for-building-powerful-web-applications-36kl)
-- [Dev.to/JS] [Reactive Dataflow Configurations](https://dev.to/ninjin/reactive-dataflow-configurations-318i)
 - [Lifehacker] [FIRE, FIRE ANTS, and Other Financial Acronyms You Need to Know](https://lifehacker.com/money/dirds-fire-ants-and-other-financial-acronyms-you-need-to-know)
 - [Lifehacker] [18 of the Best ‘Smooth Brain’ TV Shows to Binge Mindlessly](https://lifehacker.com/entertainment/best-comfort-shows-streaming-netflix)
 - [Lifehacker] [You Can Finally Add Extensions to Microsoft Edge on Android](https://lifehacker.com/tech/how-to-add-extensions-to-microsoft-edge-on-android)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
-- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
