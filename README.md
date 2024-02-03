@@ -27,10 +27,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Como se conectar com QUALQUER comunidade tech no linkedin](https://dev.to/ryangst/como-se-conectar-com-qualquer-comunidade-tech-no-linkedin-1h0o)
+- [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)
 - [Dev.to/JS] [PKV GAMES 💸 Daftar 10 Link Situs Judi PKV Poker Online &amp; Domino QQ Terpercaya No BOT 2024](https://dev.to/slot303_mantap/pkv-games-daftar-10-link-situs-judi-pkv-poker-online-domino-qq-terpercaya-no-bot-2024-1h0h)
+- [Lifehacker] [You Should Be Freezing Your Leftover Tofu](https://lifehacker.com/food-drink/you-should-be-freezing-your-leftover-tofu)
 - [Dev.to/JS] [Build Responsive Hero Section with React and Tailwind CSS](https://dev.to/ryaddev/build-responsive-hero-section-with-react-and-tailwind-css-1444)
 - [Dev.to/JS] [Dealing with Legacy Code as an Engineer](https://dev.to/adedaniel/dealing-with-legacy-code-as-an-engineer-261d)
+- [Lifehacker] [Yes, You Have to Clean Your Steamer](https://lifehacker.com/home/how-to-clean-a-steamer)
 - [Dev.to/JS] [MongoDB Quries](https://dev.to/avinashrepo/mongodb-quries-4a74)
+- [Lifehacker] [Even Amazon Has an AI Bot Now](https://lifehacker.com/tech/amazon-ai-bot-rufus)
 - [Lifehacker] [How Often You Need to Clean Your Humidifier &lpar;It’s a Lot&rpar;](https://lifehacker.com/home/how-often-to-clean-a-humidifier)
 - [Lifehacker] [Five Hidden Parts of Your Home That Need Regular Maintenance](https://lifehacker.com/home/hidden-home-maintenance-tasks)
 - [Dev.to/JS] [A normalization function for json-api format](https://dev.to/thb/a-normalization-function-for-json-api-format-3fmi)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 2, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-2-2024)
 - [Lifehacker] [Every Movie Nominated for the 2024 Oscars &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
-- [Lifehacker] [How to Unclog a Kitchen Sink Without Calling a Plumber](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)
-- [Lifehacker] [These Headphones, Speakers, and Soundbars Are up to 80% Off](https://lifehacker.com/tech/woot-audio-sale)
-- [Lifehacker] [It&#39;s Time Pickles Became a Common Pizza Topping](https://lifehacker.com/food-drink/its-time-pickles-became-a-common-pizza-topping)
-- [Lifehacker] [Instagram Won&#39;t Snitch If You Screenshot &lpar;For the Most Part&rpar;](https://lifehacker.com/tech/does-instagram-notify-someone-if-you-screenshot)
-- [Lifehacker] [These Robot Vacuums Are up to 60% Off Right Now](https://lifehacker.com/home/the-best-robot-vacuum-deals-right-now)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Unclog a Kitchen Sink Without Calling a Plumber](https://lifehacker.com/home/how-to-unclog-kitchen-sink-without-calling-a-plumber)<!-- TECH-POSTS:END -->
 
 ---
 
