@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How can you achieve method overloading in JavaScript functions?](https://dev.to/omnathdubeyofficial/how-can-you-achieve-method-overloading-in-javascript-functions-3pk0)
 - [Dev.to/JS] [React](https://dev.to/abrilskop/react-4klg)
 - [Dev.to/JS] [The Evolution of Asynchronicity in JavaScript: From Callbacks to Promises](https://dev.to/farhadjaman/the-evolution-of-asynchronicity-in-javascript-from-callbacks-to-promises-1fg6)
 - [Dev.to/JS] [Desbravando o Mundo do Nginx: Criando seu Primeiro Servidor como Frontend](https://dev.to/hudson3384/desbravando-o-mundo-do-nginx-criando-seu-primeiro-servidor-como-frontend-5589)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Even Amazon Has an AI Bot Now](https://lifehacker.com/tech/amazon-ai-bot-rufus)
 - [Lifehacker] [How Often You Need to Clean Your Humidifier &lpar;It’s a Lot&rpar;](https://lifehacker.com/home/how-often-to-clean-a-humidifier)
 - [Lifehacker] [Five Hidden Parts of Your Home That Need Regular Maintenance](https://lifehacker.com/home/hidden-home-maintenance-tasks)
-- [Dev.to/JS] [A normalization function for json-api format](https://dev.to/thb/a-normalization-function-for-json-api-format-3fmi)
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
 - [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [FIRE, FIRE ANTS, and Other Financial Acronyms You Need to Know](https://lifehacker.com/money/dirds-fire-ants-and-other-financial-acronyms-you-need-to-know)
