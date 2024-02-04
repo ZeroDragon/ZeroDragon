@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello Devs](https://dev.to/valessa/hello-devs-42bb)
 - [Dev.to/JS] [12 way of factorial implementation step by step in js](https://dev.to/avinashrepo/12-way-of-factorial-implementation-step-by-step-in-js-314n)
 - [Dev.to/JS] [Const Vs freeze for Object](https://dev.to/avinashrepo/const-vs-freeze-for-object-5ago)
 - [Dev.to/JS] [Finishing up JS Fundamentals](https://dev.to/silasgebhart/finishing-up-js-fundamentals-337j)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resist Exploding Complexity](https://dev.to/rplopes/resist-exploding-complexity-20ei)
 - [Dev.to/JS] [Are you looking to improve your website&#39;s visibility ?](https://dev.to/prabathjay/are-you-looking-to-improve-your-websites-visibility--24a4)
 - [Dev.to/JS] [AMP Credit Loan app customer. care helpline number Call &lpar; 7870547053 &rpar; &lpar; 7866069405 &rpar; Call Nowbv](https://dev.to/jemowaw267/amp-credit-loan-app-customer-care-helpline-number-call-7870547053-7866069405-call-nowbv-5g2m)
-- [Dev.to/JS] [AMP Credit Loan app customer. care helpline number Call &lpar; 7870547053 &rpar; &lpar; 7866069405 &rpar; Call Now g](https://dev.to/jemowaw267/amp-credit-loan-app-customer-care-helpline-number-call-7870547053-7866069405-call-now-g-3lkf)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
