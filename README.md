@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a web application using micro-frontends and Module Federation](https://dev.to/u4aew/creating-a-web-application-using-micro-frontends-and-module-federation-11kk)
+- [Dev.to/JS] [LeetCode 2634. Filter Elements from Array &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2634-filter-elements-from-array-easy-355i)
+- [Dev.to/JS] [Understanding Normal Functions and Arrow Functions in JavaScript](https://dev.to/aixart/understanding-normal-functions-and-arrow-functions-in-javascript-9f2)
+- [Dev.to/JS] [Understanding Normal Functions and Arrow Functions in JavaScript](https://dev.to/aixart/understanding-normal-functions-and-arrow-functions-in-javascript-4lif)
 - [Dev.to/JS] [Cyclic Reactive Dependencies](https://dev.to/ninjin/cyclic-reactive-dependencies-233e)
 - [Dev.to/JS] [React.js/Redux + Drag&amp;Drop](https://dev.to/mirajpatel752/reactjsredux-dragdrop-23e6)
 - [Dev.to/JS] [TW Elements - JavaScript. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-javascript-free-uiux-design-course-43gm)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12 way of factorial implementation step by step in js](https://dev.to/avinashrepo/12-way-of-factorial-implementation-step-by-step-in-js-314n)
 - [Dev.to/JS] [Const Vs freeze for Object](https://dev.to/avinashrepo/const-vs-freeze-for-object-5ago)
 - [Dev.to/JS] [Finishing up JS Fundamentals](https://dev.to/silasgebhart/finishing-up-js-fundamentals-337j)
-- [Dev.to/JS] [Array Vs Set](https://dev.to/avinashrepo/array-vs-set-4pmi)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
-- [Dev.to/JS] [The Pitfalls of NEXT_PUBLIC_ Environment Variables](https://dev.to/koyablue/the-pitfalls-of-nextpublic-environment-variables-96c)
-- [Dev.to/JS] [Upgrading to Next.js 14](https://dev.to/rajaerobinson/upgrading-to-nextjs-14-jb6)
-- [Dev.to/JS] [React.js Vitest Unit Testing &lpar;Husky, lint-staged, ESLint, Prettier&rpar;](https://dev.to/rajaerobinson/reactjs-vitest-unit-testing-husky-lint-staged-eslint-prettier-2e50)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
