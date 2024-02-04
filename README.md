@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lexical scoping with arrow](https://dev.to/avinashrepo/lexical-scoping-with-arrow-1gep)
+- [Dev.to/JS] [Beginners Guide to ReactJS — Data handling Using Props and State](https://dev.to/otumba/beginners-guide-to-reactjs-data-handling-using-props-and-state-2mgf)
 - [Dev.to/JS] [Creating a web application using micro-frontends and Module Federation](https://dev.to/u4aew/creating-a-web-application-using-micro-frontends-and-module-federation-11kk)
 - [Dev.to/JS] [LeetCode 2634. Filter Elements from Array &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2634-filter-elements-from-array-easy-355i)
 - [Dev.to/JS] [Understanding Normal Functions and Arrow Functions in JavaScript](https://dev.to/aixart/understanding-normal-functions-and-arrow-functions-in-javascript-9f2)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cash Assist Loan Customer Care Helpline Number /+7620648328&rpar;&rpar;//8235639628//call now contact](https://dev.to/customer009/cash-assist-loan-customer-care-helpline-number-76206483288235639628call-now-contact-3m9c)
 - [Dev.to/JS] [Hello Devs](https://dev.to/valessa/hello-devs-42bb)
 - [Dev.to/JS] [12 way of factorial implementation step by step in js](https://dev.to/avinashrepo/12-way-of-factorial-implementation-step-by-step-in-js-314n)
-- [Dev.to/JS] [Const Vs freeze for Object](https://dev.to/avinashrepo/const-vs-freeze-for-object-5ago)
-- [Dev.to/JS] [Finishing up JS Fundamentals](https://dev.to/silasgebhart/finishing-up-js-fundamentals-337j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
