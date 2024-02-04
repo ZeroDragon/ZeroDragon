@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Defending Against Cross-Site Scripting &lpar;XSS&rpar; Best Practices for Web Security](https://dev.to/umapathik/defending-against-cross-site-scripting-xss-best-practices-for-web-security-5bhk)
 - [Dev.to/JS] [moving forward in Frontend](https://dev.to/codebuddylarin/moving-forward-in-frontend-1l34)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/virginiadouglase/buy-verified-paxful-account-4g27)
 - [Dev.to/JS] [SMTP.js: Everything You Must Know](https://dev.to/scofieldidehen/smtpjs-everything-you-must-know-2iop)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Classification in Machine Learning](https://dev.to/m__mdy__m/classification-in-machine-learning-411b)
 - [Dev.to/JS] [Effortless Node.js Deployment on Amazon EC2 with tmux: A Step-by-Step Guide](https://dev.to/rajat-nayak/effortless-nodejs-deployment-on-amazon-ec2-with-tmux-a-step-by-step-guide-13m5)
 - [Dev.to/JS] [Mongo DB &amp; SQL example](https://dev.to/avinashrepo/mongo-db-sql-example-4914)
-- [Dev.to/JS] [100 terms each for SQL &amp; MongoDB](https://dev.to/avinashrepo/100-terms-each-for-sql-mongodb-1f1m)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
