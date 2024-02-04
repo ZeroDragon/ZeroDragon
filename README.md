@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [12 way of factorial implementation step by step in js](https://dev.to/avinashrepo/12-way-of-factorial-implementation-step-by-step-in-js-314n)
+- [Dev.to/JS] [Const Vs freeze for Object](https://dev.to/avinashrepo/const-vs-freeze-for-object-5ago)
+- [Dev.to/JS] [Finishing up JS Fundamentals](https://dev.to/silasgebhart/finishing-up-js-fundamentals-337j)
+- [Dev.to/JS] [Array Vs Set](https://dev.to/avinashrepo/array-vs-set-4pmi)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Dev.to/JS] [The Pitfalls of NEXT_PUBLIC_ Environment Variables](https://dev.to/koyablue/the-pitfalls-of-nextpublic-environment-variables-96c)
 - [Dev.to/JS] [Upgrading to Next.js 14](https://dev.to/rajaerobinson/upgrading-to-nextjs-14-jb6)
 - [Dev.to/JS] [React.js Vitest Unit Testing &lpar;Husky, lint-staged, ESLint, Prettier&rpar;](https://dev.to/rajaerobinson/reactjs-vitest-unit-testing-husky-lint-staged-eslint-prettier-2e50)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Are you looking to improve your website&#39;s visibility ?](https://dev.to/prabathjay/are-you-looking-to-improve-your-websites-visibility--24a4)
 - [Dev.to/JS] [AMP Credit Loan app customer. care helpline number Call &lpar; 7870547053 &rpar; &lpar; 7866069405 &rpar; Call Nowbv](https://dev.to/jemowaw267/amp-credit-loan-app-customer-care-helpline-number-call-7870547053-7866069405-call-nowbv-5g2m)
 - [Dev.to/JS] [AMP Credit Loan app customer. care helpline number Call &lpar; 7870547053 &rpar; &lpar; 7866069405 &rpar; Call Now g](https://dev.to/jemowaw267/amp-credit-loan-app-customer-care-helpline-number-call-7870547053-7866069405-call-now-g-3lkf)
-- [Dev.to/JS] [AMP Credit Loan app customer. care helpline number Call &lpar; 7870547053 &rpar; &lpar; 7866069405 &rpar; Call Now](https://dev.to/jemowaw267/amp-credit-loan-app-customer-care-helpline-number-call-7870547053-7866069405-call-now-la0)
-- [Dev.to/JS] [What is Angular Query?](https://dev.to/this-is-angular/what-is-angular-query-276f)
-- [Dev.to/JS] [Cash Box Loan Customer Care Number 7359064124](https://dev.to/babuji/cash-box-loan-customer-care-number-7359064124-3nna)
-- [Dev.to/JS] [Cash Box Loan Customer Care Number 7359064124](https://dev.to/babuji/cash-box-loan-customer-care-number-7359064124-492k)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get ‘Enshrouded’ Running on Steam Deck](https://lifehacker.com/entertainment/play-enshrouded-on-steam-deck)
 - [Lifehacker] [The Best Ways to Remove Set-in Grease and Oil Stains From Your Clothes](https://lifehacker.com/home/remove-set-in-grease-stains-from-clothing)
 - [Lifehacker] [How to Delete Every Photo of Your Ex From Your iPhone](https://lifehacker.com/tech/delete-exs-photos-from-iphone)
-- [Lifehacker] [How to Tell If Clothing Was Made Specifically for a Discount Retailer](https://lifehacker.com/money/how-to-tell-if-clothing-was-made-for-discount-retailer)
-- [Lifehacker] [The Best New TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If Clothing Was Made Specifically for a Discount Retailer](https://lifehacker.com/money/how-to-tell-if-clothing-was-made-for-discount-retailer)<!-- TECH-POSTS:END -->
 
 ---
 
