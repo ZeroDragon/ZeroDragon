@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cyclic Reactive Dependencies](https://dev.to/ninjin/cyclic-reactive-dependencies-233e)
+- [Dev.to/JS] [React.js/Redux + Drag&amp;Drop](https://dev.to/mirajpatel752/reactjsredux-dragdrop-23e6)
 - [Dev.to/JS] [TW Elements - JavaScript. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-javascript-free-uiux-design-course-43gm)
 - [Dev.to/JS] [Cash Assist Loan Customer Care Helpline Number /+7620648328&rpar;&rpar;//8235639628//call now contact](https://dev.to/customer009/cash-assist-loan-customer-care-helpline-number-76206483288235639628call-now-contact-3m9c)
 - [Dev.to/JS] [Hello Devs](https://dev.to/valessa/hello-devs-42bb)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Pitfalls of NEXT_PUBLIC_ Environment Variables](https://dev.to/koyablue/the-pitfalls-of-nextpublic-environment-variables-96c)
 - [Dev.to/JS] [Upgrading to Next.js 14](https://dev.to/rajaerobinson/upgrading-to-nextjs-14-jb6)
 - [Dev.to/JS] [React.js Vitest Unit Testing &lpar;Husky, lint-staged, ESLint, Prettier&rpar;](https://dev.to/rajaerobinson/reactjs-vitest-unit-testing-husky-lint-staged-eslint-prettier-2e50)
-- [Dev.to/JS] [A Simple Guide on Migrating to React Query v5](https://dev.to/rajaerobinson/the-easiest-guide-on-migrating-to-react-query-v5-44bo)
-- [Dev.to/JS] [Resist Exploding Complexity](https://dev.to/rplopes/resist-exploding-complexity-20ei)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
