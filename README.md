@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 7 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3nnd)
+- [Dev.to/JS] [Build an AI Image Captioner with React Native &amp; Hugging Face + Unit Testing](https://dev.to/thisisgazzar/build-an-ai-image-captioner-with-react-native-hugging-face-unit-testing-5535)
 - [Dev.to/JS] [The Stack Data Structure](https://dev.to/gustrb/the-stack-data-structure-39kj)
 - [Dev.to/JS] [How to use Tabler Icons in your React Native project?](https://dev.to/burakgur/how-to-use-tabler-icons-in-your-react-native-project-h77)
 - [Dev.to/JS] [Selection Sort](https://dev.to/gustrb/selection-sort-1pde)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Defending Against Cross-Site Scripting &lpar;XSS&rpar; Best Practices for Web Security](https://dev.to/umapathik/defending-against-cross-site-scripting-xss-best-practices-for-web-security-5bhk)
 - [Dev.to/JS] [moving forward in Frontend](https://dev.to/codebuddylarin/moving-forward-in-frontend-1l34)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/virginiadouglase/buy-verified-paxful-account-4g27)
-- [Dev.to/JS] [SMTP.js: Everything You Must Know](https://dev.to/scofieldidehen/smtpjs-everything-you-must-know-2iop)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.13](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-113-14k9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
