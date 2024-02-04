@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Stack Data Structure](https://dev.to/gustrb/the-stack-data-structure-39kj)
+- [Dev.to/JS] [How to use Tabler Icons in your React Native project?](https://dev.to/burakgur/how-to-use-tabler-icons-in-your-react-native-project-h77)
 - [Dev.to/JS] [Selection Sort](https://dev.to/gustrb/selection-sort-1pde)
 - [Dev.to/JS] [Things you should know before learning Three.js](https://dev.to/ladyofcode/things-you-should-know-before-learning-threejs-2p70)
 - [Dev.to/JS] [Using ES Modules in native HTML &amp; CSS apps](https://dev.to/mirzaleka/using-es-modules-in-native-html-css-apps-7bl)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/virginiadouglase/buy-verified-paxful-account-4g27)
 - [Dev.to/JS] [SMTP.js: Everything You Must Know](https://dev.to/scofieldidehen/smtpjs-everything-you-must-know-2iop)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.13](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-113-14k9)
-- [Dev.to/JS] [Struggling to Learn React Or Any JavaScript Framework? Here are 7 Mistakes Holding Back &lpar;And What To Do Instead&rpar; 💪🎉](https://dev.to/_ndeyefatoudiop/struggling-to-learn-react-or-any-javascript-framework-here-are-7-mistakes-holding-back-and-what-to-do-instead-31fn)
-- [Dev.to/JS] [How Carpet Cleaning Supports Respiratory Wellness](https://dev.to/xikag/how-carpet-cleaning-supports-respiratory-wellness-6l1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
