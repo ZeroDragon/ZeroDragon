@@ -26,21 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is an Responsive Web Design?](https://dev.to/swamithedev/what-is-an-responsive-web-design-2d49)
+- [Dev.to/JS] [Top 10 Tools To Ease The Burden Of Developing Web Pages With Angular.Js](https://dev.to/harnilpatel/top-10-tools-to-ease-the-burden-of-developing-web-pages-with-angularjs-223a)
+- [Dev.to/JS] [Ruby on Rails vs. JavaScript](https://dev.to/allyn/ruby-on-rails-vs-javascript-1i12)
+- [Dev.to/JS] [Captcha Generator &amp; Validator using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/captcha-generator-validator-using-html-css-javascript-11cd)
+- [Lifehacker] [The OnePlus 12R Is Solid, but It’s No ‘Flagship Killer’](https://lifehacker.com/tech/oneplus-12r-review)
 - [Dev.to/JS] [Optimizing Code Quality: A Guide to Using Husky and Lint-Staged in Your Development Workflow](https://dev.to/ellis22/optimizing-code-quality-a-guide-to-using-husky-and-lint-staged-in-your-development-workflow-4jj9)
 - [Dev.to/JS] [Staff Augmentation: A Strategic Approach to Scaling Your Development Team](https://dev.to/ashmeera/staff-augmentation-a-strategic-approach-to-scaling-your-development-team-4ad2)
 - [Dev.to/JS] [Coding a chrome extension in 11 hours!](https://dev.to/a0m0rajab/coding-a-chrome-extension-in-11-hours-3l3c)
+- [Lifehacker] [You Can Get This Epic Flight 4K Drone on Sale for Under $100 Right Now](https://lifehacker.com/epic-flight-drone-sale)
 - [Dev.to/JS] [Mana yang Lebih Baik: obj.hasOwnProperty&lpar;prop&rpar; vs Object.keys&lpar;obj&rpar;.includes&lpar;prop&rpar;](https://dev.to/ferryops/mana-yang-lebih-baik-objhasownpropertyprop-vs-objectkeysobjincludesprop-2895)
 - [Dev.to/JS] [Opinión: Bill Belichick y Nick Saban fueron el tipo de entrenadores de los que le hablo a mi terapeuta](https://dev.to/marinnerea89/opinion-bill-belichick-y-nick-saban-fueron-el-tipo-de-entrenadores-de-los-que-le-hablo-a-mi-terapeuta-mjf)
+- [Lifehacker] [The Five Gardening Tasks You Should Complete in February](https://lifehacker.com/home/february-gardening-tasks)
 - [Dev.to/JS] [React Fragment VS DIV, Kapan Waktu yang Tepat Menggunakannya?](https://dev.to/ferryops/react-fragment-vs-div-kapan-waktu-yang-tepat-menggunakannya-1cm9)
 - [Dev.to/JS] [What does this JavaScript code log and why?](https://dev.to/codeguage/what-does-this-javascript-code-log-and-why-49ki)
-- [Dev.to/JS] [How the &quot;The Three Little Pigs&quot; Story Helped Me Become A Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/how-the-the-three-little-pigs-story-helped-me-become-a-senior-frontend-developer-2ikh)
-- [Dev.to/JS] [REACT - Consultas a API [Completo]](https://dev.to/mazzaracm/react-consultas-a-api-completo-14co)
-- [Dev.to/JS] [WOW effect](https://dev.to/alexroor4/wow-effect-2j2d)
-- [Dev.to/JS] [How To Get Started From Express To NestJS: Complete Guide](https://dev.to/blissfelix3/how-to-get-started-from-express-to-nestjs-complete-guide-3hdh)
-- [Dev.to/JS] [Receiving voice input with Amazon Connect](https://dev.to/aws-heroes/receiving-voice-input-with-amazon-connect-4md9)
+- [Dev.to/JS] [How the &quot;The Three Little Pigs&quot; Story Helped Me Become A Better Frontend Developer](https://dev.to/_ndeyefatoudiop/how-the-the-three-little-pigs-story-helped-me-become-a-senior-frontend-developer-2ikh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
-- [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Differences Between an HSA and an FSA](https://lifehacker.com/money/difference-between-hsa-and-fsa)
 - [Lifehacker] [You Need to Actually Double-Check What You’re Agreeing to When Installing Software](https://lifehacker.com/tech/double-check-what-youre-agreeing-to-when-installing-software)
 - [Lifehacker] [What TikTok’s ‘Ketchup Challenge’ Actually Says About Your Relationship](https://lifehacker.com/relationships/what-the-ketchup-challenge-means-for-relationships)
-- [Lifehacker] [How to Get ‘Enshrouded’ Running on Steam Deck](https://lifehacker.com/entertainment/play-enshrouded-on-steam-deck)
-- [Lifehacker] [The Best Ways to Remove Set-in Grease and Oil Stains From Your Clothes](https://lifehacker.com/home/remove-set-in-grease-stains-from-clothing)
-- [Lifehacker] [How to Delete Every Photo of Your Ex From Your iPhone](https://lifehacker.com/tech/delete-exs-photos-from-iphone)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get ‘Enshrouded’ Running on Steam Deck](https://lifehacker.com/entertainment/play-enshrouded-on-steam-deck)<!-- TECH-POSTS:END -->
 
 ---
 
