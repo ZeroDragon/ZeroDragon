@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Get Started From Express To NestJS: Complete Guide](https://dev.to/blissfelix3/how-to-get-started-from-express-to-nestjs-complete-guide-3hdh)
+- [Dev.to/JS] [Receiving voice input with Amazon Connect](https://dev.to/aws-heroes/receiving-voice-input-with-amazon-connect-4md9)
+- [Dev.to/JS] [Beatsurfing – RANDOM &lpar;Windows&rpar;DOwnload](https://dev.to/pluginsforest5/beatsurfing-random-windowsdownload-483o)
 - [Dev.to/JS] [TW Elements - Containers. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-containers-free-uiux-design-course-gmd)
 - [Dev.to/JS] [Can I migrate my website to Hostinger?](https://dev.to/dgihost/can-i-migrate-my-website-to-hostinger-m9a)
 - [Dev.to/JS] [How I used the IntersectionObserver API to lazyload Images](https://dev.to/kansoldev/how-i-used-the-intersectionobserver-api-to-lazyload-images-51c8)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hemingway — Blog multipage theme Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/hemingway-blog-multipage-themebuilt-with-astro-tailwind-css-mdx-1njj)
 - [Dev.to/JS] [React Router DOM 6.0:](https://dev.to/bishnoi_sushill/react-router-dom-60-7ck)
 - [Dev.to/JS] [TF #33 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-33-your-weekly-frontend-digest-4d5i)
-- [Dev.to/JS] [Understanding URL Resolving in E-Commerce](https://dev.to/jacobandrewsky/understanding-url-resolving-in-e-commerce-4mg7)
-- [Dev.to/JS] [How Dumps Villa Guarantees Authentic and Valid Dumps Every Time](https://dev.to/hichaveste/how-dumps-villa-guarantees-authentic-and-valid-dumps-every-time-2ild)
-- [Dev.to/JS] [At the 2024 Grammys, Tracy Chapman and Taylor Swift offer surprises](https://dev.to/bakti/at-the-2024-grammys-tracy-chapman-and-taylor-swift-offer-surprises-28i7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
