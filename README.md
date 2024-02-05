@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resolving next-auth &quot;redirect&quot; error when used with Supabase](https://dev.to/mathewthe2/resolving-next-auth-redirect-error-with-supabase-3c0h)
+- [Dev.to/JS] [Top 10 Angular 19 Npm Package](https://dev.to/tanvirdeveloper01/top-10-angular-19-npm-package-1ji0)
 - [Dev.to/JS] [Help! &#39;\&#39; Is causing undefined errors in my project](https://dev.to/best_codes/help-is-causing-undefined-errors-in-my-project-4abf)
 - [Dev.to/JS] [React vs Angular](https://dev.to/peytono/react-vs-angular-p5a)
 - [Dev.to/JS] [JS ES vs Tradetional way Part 2](https://dev.to/avinashrepo/js-es-vs-tradetional-way-3jm4)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Text to speech with Javascript](https://dev.to/barrisam/text-to-speech-with-javascript-2cjk)
 - [Dev.to/JS] [Reviewing Functions](https://dev.to/silasgebhart/reviewing-functions-29m9)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 7 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3nnd)
-- [Dev.to/JS] [Build an AI Image Captioner with React Native &amp; Hugging Face + Unit Testing](https://dev.to/thisisgazzar/build-an-ai-image-captioner-with-react-native-hugging-face-unit-testing-5535)
-- [Dev.to/JS] [The Stack Data Structure](https://dev.to/gustrb/the-stack-data-structure-39kj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
