@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Oramorph Whatsapp +44.7414.982.506](https://dev.to/nannenow/buy-oramorph-whatsapp-447414982506-f4i)
+- [Dev.to/JS] [Oramorph Telegram +1413.340.4922](https://dev.to/nannenow/oramorph-telegram-14133404922-47j)
 - [Dev.to/JS] [Million 3.0: All You Need To Know](https://dev.to/tobysolutions/million-30-all-you-need-to-know-3d2)
 - [Dev.to/JS] [Web Wizards Unite: 10 Crucial Best Practices for Exceptional Development](https://dev.to/ackomjnr/web-wizards-unite-10-crucial-best-practices-for-exceptional-development-5ac)
 - [Dev.to/JS] [Text to speech with Javascript](https://dev.to/barrisam/text-to-speech-with-javascript-2cjk)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Tabler Icons in your React Native project?](https://dev.to/burakgur/how-to-use-tabler-icons-in-your-react-native-project-h77)
 - [Dev.to/JS] [Selection Sort](https://dev.to/gustrb/selection-sort-1pde)
 - [Dev.to/JS] [Things you should know before learning Three.js](https://dev.to/ladyofcode/things-you-should-know-before-learning-threejs-2p70)
-- [Dev.to/JS] [Using ES Modules in native HTML &amp; CSS apps](https://dev.to/mirzaleka/using-es-modules-in-native-html-css-apps-7bl)
-- [Dev.to/JS] [How to Minimize React Bundle Size for Faster Loading Times](https://dev.to/tanishk15sharma/how-to-minimize-react-bundle-size-for-faster-loading-times-1gfm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
