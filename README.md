@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enclave Games Monthly Report: January 2024](https://dev.to/end3r/enclave-games-monthly-report-january-2024-13in)
+- [Lifehacker] [The Galaxy S24 Has Problems](https://lifehacker.com/tech/galaxy-s24-launch-problems)
+- [Lifehacker] [The First Seven Financial Steps to Take Immediately After Being Laid Off](https://lifehacker.com/money/most-important-financial-steps-after-being-laid-off)
 - [Dev.to/JS] [Episode 24/05: Q&amp;A with Mark &amp; Jeremy, Nx 18, TypeScript 5.4](https://dev.to/this-is-angular/episode-2405-qa-with-mark-jeremy-nx-18-typescript-54-2lb2)
+- [Lifehacker] [These Eero Mesh Wifi Systems Are up to 60% Off Right Now](https://lifehacker.com/tech/eero-mesh-wi-fi-router-sale)
 - [Dev.to/JS] [Simplyfing SvelteKit View Transitions with Paolo Ricciuti](https://dev.to/codingcatdev/simplyfing-sveltekit-view-transitions-with-paolo-ricciuti-m94)
+- [Lifehacker] [What Actually Worked When I Was Cleaning Old Dirty Sneakers](https://lifehacker.com/home/how-to-clean-dirty-old-sneakers)
+- [Lifehacker] [What Happens When You Use the Vision Pro Without the Light Seal](https://lifehacker.com/tech/you-should-try-vision-pro-without-the-light-seal)
 - [Dev.to/JS] [Best Practices for Vue Developers in 2024](https://dev.to/mescius/best-practices-for-vue-developers-in-2024-e2b)
 - [Dev.to/JS] [Using React/Redux with a Golang Backend](https://dev.to/dgihost/using-reactredux-with-a-golang-backend-3kn8)
 - [Lifehacker] [Why a Flat Fee Real Estate Broker Probably Isn’t Worth It](https://lifehacker.com/money/why-a-flat-fee-real-estate-broker-probably-isnt-worth-it)
@@ -40,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interview event driven architecture](https://dev.to/akmaurya31/interview-event-driven-architecture-3bcj)
 - [Lifehacker] [The Best Time to Cancel an App Subscription Is Immediately](https://lifehacker.com/tech/cancel-unwanted-app-store-subscriptions)
 - [Dev.to/JS] [Top Growing Social Media Platforms in 2024 🚀](https://dev.to/sh20raj/top-growing-social-media-platforms-in-2024-2dd2)
-- [Dev.to/JS] [Node serverless](https://dev.to/akmaurya31/node-serverless-g6i)
 - [Lifehacker] [When It&#39;s OK to Use Lumber That’s Been Stored Outside &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/home/when-is-it-okay-to-use-lumber-thats-been-stored-outside)
 - [Lifehacker] [The Dremel Versa Power Scrubber Kit Is a Power Tool for Your Pots and Pans](https://lifehacker.com/home/dremel-versa-scrub-daddy-kit-review)
 - [Lifehacker] [The True Cost of a PS5](https://lifehacker.com/tech/how-much-a-ps5-really-costs)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Reminder to Deep Clean Your Toaster](https://lifehacker.com/how-to-clean-your-toaster-the-right-way-1847802334)
 - [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)
 - [Lifehacker] [You Should Be Freezing Your Leftover Tofu](https://lifehacker.com/food-drink/you-should-be-freezing-your-leftover-tofu)
-- [Lifehacker] [Yes, You Have to Clean Your Steamer](https://lifehacker.com/home/how-to-clean-a-steamer)
-- [Lifehacker] [Even Amazon Has an AI Bot Now](https://lifehacker.com/tech/amazon-ai-bot-rufus)
-- [Lifehacker] [How Often You Need to Clean Your Humidifier &lpar;It’s a Lot&rpar;](https://lifehacker.com/home/how-often-to-clean-a-humidifier)
-- [Lifehacker] [Five Hidden Parts of Your Home That Need Regular Maintenance](https://lifehacker.com/home/hidden-home-maintenance-tasks)
-- [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
-- [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yes, You Have to Clean Your Steamer](https://lifehacker.com/home/how-to-clean-a-steamer)<!-- TECH-POSTS:END -->
 
 ---
 
