@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizing Code Quality: A Guide to Using Husky and Lint-Staged in Your Development Workflow](https://dev.to/ellis22/optimizing-code-quality-a-guide-to-using-husky-and-lint-staged-in-your-development-workflow-4jj9)
+- [Dev.to/JS] [Staff Augmentation: A Strategic Approach to Scaling Your Development Team](https://dev.to/ashmeera/staff-augmentation-a-strategic-approach-to-scaling-your-development-team-4ad2)
+- [Dev.to/JS] [Coding a chrome extension in 11 hours!](https://dev.to/a0m0rajab/coding-a-chrome-extension-in-11-hours-3l3c)
+- [Dev.to/JS] [Mana yang Lebih Baik: obj.hasOwnProperty&lpar;prop&rpar; vs Object.keys&lpar;obj&rpar;.includes&lpar;prop&rpar;](https://dev.to/ferryops/mana-yang-lebih-baik-objhasownpropertyprop-vs-objectkeysobjincludesprop-2895)
+- [Dev.to/JS] [Opinión: Bill Belichick y Nick Saban fueron el tipo de entrenadores de los que le hablo a mi terapeuta](https://dev.to/marinnerea89/opinion-bill-belichick-y-nick-saban-fueron-el-tipo-de-entrenadores-de-los-que-le-hablo-a-mi-terapeuta-mjf)
 - [Dev.to/JS] [React Fragment VS DIV, Kapan Waktu yang Tepat Menggunakannya?](https://dev.to/ferryops/react-fragment-vs-div-kapan-waktu-yang-tepat-menggunakannya-1cm9)
 - [Dev.to/JS] [What does this JavaScript code log and why?](https://dev.to/codeguage/what-does-this-javascript-code-log-and-why-49ki)
 - [Dev.to/JS] [How the &quot;The Three Little Pigs&quot; Story Helped Me Become A Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/how-the-the-three-little-pigs-story-helped-me-become-a-senior-frontend-developer-2ikh)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WOW effect](https://dev.to/alexroor4/wow-effect-2j2d)
 - [Dev.to/JS] [How To Get Started From Express To NestJS: Complete Guide](https://dev.to/blissfelix3/how-to-get-started-from-express-to-nestjs-complete-guide-3hdh)
 - [Dev.to/JS] [Receiving voice input with Amazon Connect](https://dev.to/aws-heroes/receiving-voice-input-with-amazon-connect-4md9)
-- [Dev.to/JS] [Beatsurfing – RANDOM &lpar;Windows&rpar;DOwnload](https://dev.to/pluginsforest5/beatsurfing-random-windowsdownload-483o)
-- [Dev.to/JS] [TW Elements - Containers. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-containers-free-uiux-design-course-gmd)
-- [Dev.to/JS] [Can I migrate my website to Hostinger?](https://dev.to/dgihost/can-i-migrate-my-website-to-hostinger-m9a)
-- [Dev.to/JS] [How I used the IntersectionObserver API to lazyload Images](https://dev.to/kansoldev/how-i-used-the-intersectionobserver-api-to-lazyload-images-51c8)
-- [Dev.to/JS] [💎 of solid-primitives, part 1: context](https://dev.to/lexlohr/of-solid-primitives-part-1-context-2bah)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
