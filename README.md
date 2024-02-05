@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TW Elements - Containers. Free UI/UX design course.](https://dev.to/keepcoding/tw-elements-containers-free-uiux-design-course-gmd)
+- [Dev.to/JS] [Can I migrate my website to Hostinger?](https://dev.to/dgihost/can-i-migrate-my-website-to-hostinger-m9a)
+- [Dev.to/JS] [How I used the IntersectionObserver API to lazyload Images](https://dev.to/kansoldev/how-i-used-the-intersectionobserver-api-to-lazyload-images-51c8)
+- [Dev.to/JS] [💎 of solid-primitives, part 1: context](https://dev.to/lexlohr/of-solid-primitives-part-1-context-2bah)
 - [Dev.to/JS] [How to Create a Responsive Chatbot Using HTML &amp; JavaScript](https://dev.to/codingmadeeasy/how-to-create-a-responsive-chatbot-using-html-javascript-46p9)
 - [Dev.to/JS] [Therazen CBD Gummies: A Natural Solution for Better Sleep](https://dev.to/therazencbdgummies/therazen-cbd-gummies-a-natural-solution-for-better-sleep-55)
 - [Dev.to/JS] [Hemingway — Blog multipage theme Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/hemingway-blog-multipage-themebuilt-with-astro-tailwind-css-mdx-1njj)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding URL Resolving in E-Commerce](https://dev.to/jacobandrewsky/understanding-url-resolving-in-e-commerce-4mg7)
 - [Dev.to/JS] [How Dumps Villa Guarantees Authentic and Valid Dumps Every Time](https://dev.to/hichaveste/how-dumps-villa-guarantees-authentic-and-valid-dumps-every-time-2ild)
 - [Dev.to/JS] [At the 2024 Grammys, Tracy Chapman and Taylor Swift offer surprises](https://dev.to/bakti/at-the-2024-grammys-tracy-chapman-and-taylor-swift-offer-surprises-28i7)
-- [Dev.to/JS] [You don&#39;t want to miss these tools if you&#39;re a front-end developer.](https://dev.to/dev_abdulhaseeb/you-dont-want-to-miss-these-tools-if-youre-a-front-end-developer-524c)
-- [Dev.to/JS] [config: extends directive](https://dev.to/antongolub/config-extends-directive-13p6)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/ruthalvareze77/buy-google-voice-accounts-30n8)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/ruthalvareze77/buy-verified-paxful-account-593h)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
