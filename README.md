@@ -26,22 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 20 Free Static Web Hosting Services in 2024 ⚡️](https://dev.to/sh20raj/top-20-free-static-web-hosting-services-in-2024-56fc)
+- [Dev.to/JS] [How to Add Tablix to a JavaScript Reporting Application](https://dev.to/mescius/how-to-add-tablix-to-a-javascript-reporting-application-28lo)
+- [Dev.to/JS] [Interview event driven architecture](https://dev.to/akmaurya31/interview-event-driven-architecture-3bcj)
+- [Lifehacker] [The Best Time to Cancel an App Subscription Is Immediately](https://lifehacker.com/tech/cancel-unwanted-app-store-subscriptions)
+- [Dev.to/JS] [Top Growing Social Media Platforms in 2024 🚀](https://dev.to/sh20raj/top-growing-social-media-platforms-in-2024-2dd2)
+- [Dev.to/JS] [Node serverless](https://dev.to/akmaurya31/node-serverless-g6i)
+- [Dev.to/JS] [Answer the ones which you think is most important as it took more time to understand 👇](https://dev.to/sumesh_ks/answer-the-ones-which-you-think-is-most-important-as-it-took-more-time-to-understand-3mpd)
+- [Dev.to/JS] [Top YouTube Alternatives to Watch in 2024 📹](https://dev.to/sh20raj/top-youtube-alternatives-to-watch-in-2024-3412)
+- [Lifehacker] [When It&#39;s OK to Use Lumber That’s Been Stored Outside &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/home/when-is-it-okay-to-use-lumber-thats-been-stored-outside)
 - [Dev.to/JS] [Node micro service](https://dev.to/akmaurya31/node-micro-service-4nk4)
 - [Dev.to/JS] [mua chung AvatarBuilder](https://dev.to/wsovn112/mua-chung-avatarbuilder-4l07)
+- [Lifehacker] [The Dremel Versa Power Scrubber Kit Is a Power Tool for Your Pots and Pans](https://lifehacker.com/home/dremel-versa-scrub-daddy-kit-review)
 - [Dev.to/JS] [Creating a pre-loader with GSAP3 Stroke Reveal effect](https://dev.to/stemolti/creating-a-pre-loader-with-gsap3-stroke-reveal-effect-1d0b)
 - [Dev.to/JS] [What if Nx Plugins Were More Like VSCode Extensions](https://dev.to/nx/what-if-nx-plugins-were-more-like-vscode-extensions-4oh0)
 - [Lifehacker] [The True Cost of a PS5](https://lifehacker.com/tech/how-much-a-ps5-really-costs)
 - [Dev.to/JS] [Best Software Documentation Tools](https://dev.to/mohammadfaisal/best-software-documentation-tools-200j)
-- [Dev.to/JS] [Achieving Consistent Outputs in OpenAI API: Leveraging Zod and LangChain for Improved Results](https://dev.to/farhadjaman/achieving-consistent-outputs-in-openai-api-leveraging-zod-and-langchain-for-improved-results-43jo)
-- [Dev.to/JS] [Serato – Sample &lpar;Windows&rpar;Download](https://dev.to/pluginsforest5/serato-sample-windowsdownload-5dde)
 - [Lifehacker] [All the Different Ways to Find Your Lost AirPods](https://lifehacker.com/tech/how-to-find-your-lost-airpods)
-- [Dev.to/JS] [What is an Responsive Web Design?](https://dev.to/swamithedev/what-is-an-responsive-web-design-2d49)
 - [Lifehacker] [All the Gear You Need to View the Solar Eclipse on April 8](https://lifehacker.com/science/everything-you-need-to-view-the-solar-eclipse-safely)
-- [Dev.to/JS] [Top 10 Tools To Ease The Burden Of Developing Web Pages With Angular.Js](https://dev.to/harnilpatel/top-10-tools-to-ease-the-burden-of-developing-web-pages-with-angularjs-223a)
-- [Dev.to/JS] [Ruby on Rails vs. JavaScript](https://dev.to/allyn/ruby-on-rails-vs-javascript-1i12)
-- [Dev.to/JS] [Captcha Generator &amp; Validator using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/captcha-generator-validator-using-html-css-javascript-11cd)
 - [Lifehacker] [The OnePlus 12R Is Solid, but It’s No ‘Flagship Killer’](https://lifehacker.com/tech/oneplus-12r-review)
-- [Dev.to/JS] [Optimizing Code Quality: A Guide to Using Husky and Lint-Staged in Your Development Workflow](https://dev.to/ellis22/optimizing-code-quality-a-guide-to-using-husky-and-lint-staged-in-your-development-workflow-4jj9)
 - [Lifehacker] [You Can Get This Epic Flight 4K Drone on Sale for Under $100 Right Now](https://lifehacker.com/epic-flight-drone-sale)
 - [Lifehacker] [The Five Gardening Tasks You Should Complete in February](https://lifehacker.com/home/february-gardening-tasks)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills Unlimited on Sale Right Now](https://lifehacker.com/rosetta-stone-stackskills-bundle-sale)
 - [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [FIRE, FIRE ANTS, and Other Financial Acronyms You Need to Know](https://lifehacker.com/money/dirds-fire-ants-and-other-financial-acronyms-you-need-to-know)
-- [Lifehacker] [18 of the Best ‘Smooth Brain’ TV Shows to Binge Mindlessly](https://lifehacker.com/entertainment/best-comfort-shows-streaming-netflix)
-- [Lifehacker] [You Can Finally Add Extensions to Microsoft Edge on Android](https://lifehacker.com/tech/how-to-add-extensions-to-microsoft-edge-on-android)
-- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
-- [Lifehacker] [This 8-Piece Japanese Knife Set Is on Sale for $120 Right Now](https://lifehacker.com/japanese-knife-set-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [18 of the Best ‘Smooth Brain’ TV Shows to Binge Mindlessly](https://lifehacker.com/entertainment/best-comfort-shows-streaming-netflix)<!-- TECH-POSTS:END -->
 
 ---
 
