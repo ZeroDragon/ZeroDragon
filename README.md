@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debounce Solution](https://dev.to/bealecs/debounce-solution-16in)
+- [Dev.to/JS] [Unleashing Next.js in Web Development: A Comprehensive Guide](https://dev.to/n3tz/unleashing-nextjs-in-web-development-a-comprehensive-guide-1cig)
+- [Dev.to/JS] [Deno Extension Formatter in VSCode: A Guide for Monorepo Environments](https://dev.to/mich0w0h/deno-extension-formatter-in-vscode-a-guide-for-monorepo-environments-4k4b)
+- [Dev.to/JS] [How to Add Functional Components to a React Grid Application](https://dev.to/mescius/how-to-add-functional-components-to-a-react-grid-application-bko)
+- [Lifehacker] [You Can Now Create AI-generated Images for Free in Google Bard](https://lifehacker.com/tech/how-to-create-images-in-google-bard)
 - [Dev.to/JS] [Enclave Games Monthly Report: January 2024](https://dev.to/end3r/enclave-games-monthly-report-january-2024-13in)
+- [Lifehacker] [The Best Podcast Miniseries That Explore Black History and Culture](https://lifehacker.com/entertainment/best-podcasts-miniseries-black-history-culture)
 - [Lifehacker] [The Galaxy S24 Has Problems](https://lifehacker.com/tech/galaxy-s24-launch-problems)
 - [Lifehacker] [The First Seven Financial Steps to Take Immediately After Being Laid Off](https://lifehacker.com/money/most-important-financial-steps-after-being-laid-off)
 - [Dev.to/JS] [Episode 24/05: Q&amp;A with Mark &amp; Jeremy, Nx 18, TypeScript 5.4](https://dev.to/this-is-angular/episode-2405-qa-with-mark-jeremy-nx-18-typescript-54-2lb2)
@@ -41,11 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 Programming Languages to Learn in 2024](https://dev.to/sh20raj/top-10-programming-languages-to-learn-in-2024-3ieh)
 - [Dev.to/JS] [Top Online IDE Websites in 2024 ⌨️](https://dev.to/sh20raj/top-online-ide-websites-in-2024-3kbd)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
-- [Dev.to/JS] [Top 20 Free Static Web Hosting Services in 2024 ⚡️](https://dev.to/sh20raj/top-20-free-static-web-hosting-services-in-2024-56fc)
-- [Dev.to/JS] [How to Add Tablix to a JavaScript Reporting Application](https://dev.to/mescius/how-to-add-tablix-to-a-javascript-reporting-application-28lo)
-- [Dev.to/JS] [Interview event driven architecture](https://dev.to/akmaurya31/interview-event-driven-architecture-3bcj)
 - [Lifehacker] [The Best Time to Cancel an App Subscription Is Immediately](https://lifehacker.com/tech/cancel-unwanted-app-store-subscriptions)
-- [Dev.to/JS] [Top Growing Social Media Platforms in 2024 🚀](https://dev.to/sh20raj/top-growing-social-media-platforms-in-2024-2dd2)
 - [Lifehacker] [When It&#39;s OK to Use Lumber That’s Been Stored Outside &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/home/when-is-it-okay-to-use-lumber-thats-been-stored-outside)
 - [Lifehacker] [The Dremel Versa Power Scrubber Kit Is a Power Tool for Your Pots and Pans](https://lifehacker.com/home/dremel-versa-scrub-daddy-kit-review)
 - [Lifehacker] [The True Cost of a PS5](https://lifehacker.com/tech/how-much-a-ps5-really-costs)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [A Reminder to Deep Clean Your Toaster](https://lifehacker.com/how-to-clean-your-toaster-the-right-way-1847802334)
-- [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)
-- [Lifehacker] [You Should Be Freezing Your Leftover Tofu](https://lifehacker.com/food-drink/you-should-be-freezing-your-leftover-tofu)
-- [Lifehacker] [Yes, You Have to Clean Your Steamer](https://lifehacker.com/home/how-to-clean-a-steamer)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)<!-- TECH-POSTS:END -->
 
 ---
 
