@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Router DOM 6.0:](https://dev.to/bishnoi_sushill/react-router-dom-60-7ck)
+- [Dev.to/JS] [TF #33 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-33-your-weekly-frontend-digest-4d5i)
+- [Dev.to/JS] [Understanding URL Resolving in E-Commerce](https://dev.to/jacobandrewsky/understanding-url-resolving-in-e-commerce-4mg7)
+- [Dev.to/JS] [How Dumps Villa Guarantees Authentic and Valid Dumps Every Time](https://dev.to/hichaveste/how-dumps-villa-guarantees-authentic-and-valid-dumps-every-time-2ild)
+- [Dev.to/JS] [You don&#39;t want to miss these tools if you&#39;re a front-end developer.](https://dev.to/dev_abdulhaseeb/you-dont-want-to-miss-these-tools-if-youre-a-front-end-developer-524c)
 - [Dev.to/JS] [config: extends directive](https://dev.to/antongolub/config-extends-directive-13p6)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/ruthalvareze77/buy-google-voice-accounts-30n8)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/ruthalvareze77/buy-verified-paxful-account-593h)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bioheal CBD Gummies Reviews– Safe to Use Website &amp; Ingredients](https://dev.to/biohealcbdbuyus/bioheal-cbd-gummies-reviews-safe-to-use-website-ingredients-23k)
 - [Dev.to/JS] [Building a Contact Form with Node.js, Express, and MongoDB](https://dev.to/manthanank/building-a-contact-form-with-nodejs-express-and-mongodb-534)
 - [Dev.to/JS] [Mastering Revenue Cycle Management: Your Key to Financial Health](https://dev.to/athealthcares/mastering-revenue-cycle-management-your-key-to-financial-health-4do5)
-- [Dev.to/JS] [Rollup&#39;s intro and outro - Two Amazing Features You Can&#39;t Miss!](https://dev.to/codeguage/rollups-intro-and-outro-two-amazing-features-you-must-know-1n72)
-- [Dev.to/JS] [Anonymous and Arrow Functions in JavaScript](https://dev.to/devshefali/anonymous-and-arrow-functions-in-javascript-6fk)
-- [Dev.to/JS] [Demystifying the Dance of Asynchronicity and Synchronicity in JavaScript](https://dev.to/atultrp/demystifying-the-dance-of-asynchronicity-and-synchronicity-in-javascript-1kg3)
-- [Dev.to/JS] [Used 7.css pretty heavily!](https://dev.to/millerino/used-7css-pretty-heavily-1kjh)
-- [Dev.to/JS] [How to Kill Processes and Free Up Ports on Mac, Windows, and Linux](https://dev.to/rawas_aditya/how-to-kill-processes-and-free-up-ports-on-mac-windows-and-linux-h97)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
