@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Help! &#39;\&#39; Is causing undefined errors in my project](https://dev.to/best_codes/help-is-causing-undefined-errors-in-my-project-4abf)
+- [Dev.to/JS] [React vs Angular](https://dev.to/peytono/react-vs-angular-p5a)
+- [Dev.to/JS] [JS ES vs Tradetional way Part 2](https://dev.to/avinashrepo/js-es-vs-tradetional-way-3jm4)
 - [Dev.to/JS] [Buy Oramorph Whatsapp +44.7414.982.506](https://dev.to/nannenow/buy-oramorph-whatsapp-447414982506-f4i)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Dev.to/JS] [Oramorph Telegram +1413.340.4922](https://dev.to/nannenow/oramorph-telegram-14133404922-47j)
 - [Dev.to/JS] [Million 3.0: All You Need To Know](https://dev.to/tobysolutions/million-30-all-you-need-to-know-3d2)
 - [Dev.to/JS] [Web Wizards Unite: 10 Crucial Best Practices for Exceptional Development](https://dev.to/ackomjnr/web-wizards-unite-10-crucial-best-practices-for-exceptional-development-5ac)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 7 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3nnd)
 - [Dev.to/JS] [Build an AI Image Captioner with React Native &amp; Hugging Face + Unit Testing](https://dev.to/thisisgazzar/build-an-ai-image-captioner-with-react-native-hugging-face-unit-testing-5535)
 - [Dev.to/JS] [The Stack Data Structure](https://dev.to/gustrb/the-stack-data-structure-39kj)
-- [Dev.to/JS] [How to use Tabler Icons in your React Native project?](https://dev.to/burakgur/how-to-use-tabler-icons-in-your-react-native-project-h77)
-- [Dev.to/JS] [Selection Sort](https://dev.to/gustrb/selection-sort-1pde)
-- [Dev.to/JS] [Things you should know before learning Three.js](https://dev.to/ladyofcode/things-you-should-know-before-learning-threejs-2p70)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What TikTok’s ‘Ketchup Challenge’ Actually Says About Your Relationship](https://lifehacker.com/relationships/what-the-ketchup-challenge-means-for-relationships)
 - [Lifehacker] [How to Get ‘Enshrouded’ Running on Steam Deck](https://lifehacker.com/entertainment/play-enshrouded-on-steam-deck)
 - [Lifehacker] [The Best Ways to Remove Set-in Grease and Oil Stains From Your Clothes](https://lifehacker.com/home/remove-set-in-grease-stains-from-clothing)
-- [Lifehacker] [How to Delete Every Photo of Your Ex From Your iPhone](https://lifehacker.com/tech/delete-exs-photos-from-iphone)
-- [Lifehacker] [How to Tell If Clothing Was Made Specifically for a Discount Retailer](https://lifehacker.com/money/how-to-tell-if-clothing-was-made-for-discount-retailer)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Delete Every Photo of Your Ex From Your iPhone](https://lifehacker.com/tech/delete-exs-photos-from-iphone)<!-- TECH-POSTS:END -->
 
 ---
 
