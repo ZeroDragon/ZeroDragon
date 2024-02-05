@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make a Coding Learning Environment Website in React JS?](https://dev.to/rohitashsingh89/how-to-make-a-coding-learning-environment-website-in-react-js-47d7)
+- [Dev.to/JS] [Bioheal CBD Gummies Reviews– Safe to Use Website &amp; Ingredients](https://dev.to/biohealcbdbuyus/bioheal-cbd-gummies-reviews-safe-to-use-website-ingredients-23k)
+- [Dev.to/JS] [Building a Contact Form with Node.js, Express, and MongoDB](https://dev.to/manthanank/building-a-contact-form-with-nodejs-express-and-mongodb-534)
+- [Dev.to/JS] [Mastering Revenue Cycle Management: Your Key to Financial Health](https://dev.to/athealthcares/mastering-revenue-cycle-management-your-key-to-financial-health-4do5)
 - [Dev.to/JS] [Rollup&#39;s intro and outro - Two Amazing Features You Can&#39;t Miss!](https://dev.to/codeguage/rollups-intro-and-outro-two-amazing-features-you-must-know-1n72)
 - [Dev.to/JS] [Anonymous and Arrow Functions in JavaScript](https://dev.to/devshefali/anonymous-and-arrow-functions-in-javascript-6fk)
 - [Dev.to/JS] [Demystifying the Dance of Asynchronicity and Synchronicity in JavaScript](https://dev.to/atultrp/demystifying-the-dance-of-asynchronicity-and-synchronicity-in-javascript-1kg3)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolving next-auth &quot;redirect&quot; error when used with Supabase](https://dev.to/mathewthe2/resolving-next-auth-redirect-error-with-supabase-3c0h)
 - [Dev.to/JS] [Top 10 Angular 19 Npm Package](https://dev.to/tanvirdeveloper01/top-10-angular-19-npm-package-1ji0)
 - [Dev.to/JS] [Help! &#39;\&#39; Is causing undefined errors in my project](https://dev.to/best_codes/help-is-causing-undefined-errors-in-my-project-4abf)
-- [Dev.to/JS] [React vs Angular](https://dev.to/peytono/react-vs-angular-p5a)
-- [Dev.to/JS] [JS ES vs Tradetional way Part 2](https://dev.to/avinashrepo/js-es-vs-tradetional-way-3jm4)
-- [Dev.to/JS] [Buy Oramorph Whatsapp +44.7414.982.506](https://dev.to/nannenow/buy-oramorph-whatsapp-447414982506-f4i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
-- [Dev.to/JS] [Oramorph Telegram +1413.340.4922](https://dev.to/nannenow/oramorph-telegram-14133404922-47j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
