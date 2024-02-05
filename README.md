@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Fragment VS DIV, Kapan Waktu yang Tepat Menggunakannya?](https://dev.to/ferryops/react-fragment-vs-div-kapan-waktu-yang-tepat-menggunakannya-1cm9)
+- [Dev.to/JS] [What does this JavaScript code log and why?](https://dev.to/codeguage/what-does-this-javascript-code-log-and-why-49ki)
+- [Dev.to/JS] [How the &quot;The Three Little Pigs&quot; Story Helped Me Become A Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/how-the-the-three-little-pigs-story-helped-me-become-a-senior-frontend-developer-2ikh)
+- [Dev.to/JS] [REACT - Consultas a API [Completo]](https://dev.to/mazzaracm/react-consultas-a-api-completo-14co)
+- [Dev.to/JS] [WOW effect](https://dev.to/alexroor4/wow-effect-2j2d)
 - [Dev.to/JS] [How To Get Started From Express To NestJS: Complete Guide](https://dev.to/blissfelix3/how-to-get-started-from-express-to-nestjs-complete-guide-3hdh)
 - [Dev.to/JS] [Receiving voice input with Amazon Connect](https://dev.to/aws-heroes/receiving-voice-input-with-amazon-connect-4md9)
 - [Dev.to/JS] [Beatsurfing – RANDOM &lpar;Windows&rpar;DOwnload](https://dev.to/pluginsforest5/beatsurfing-random-windowsdownload-483o)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Can I migrate my website to Hostinger?](https://dev.to/dgihost/can-i-migrate-my-website-to-hostinger-m9a)
 - [Dev.to/JS] [How I used the IntersectionObserver API to lazyload Images](https://dev.to/kansoldev/how-i-used-the-intersectionobserver-api-to-lazyload-images-51c8)
 - [Dev.to/JS] [💎 of solid-primitives, part 1: context](https://dev.to/lexlohr/of-solid-primitives-part-1-context-2bah)
-- [Dev.to/JS] [How to Create a Responsive Chatbot Using HTML &amp; JavaScript](https://dev.to/codingmadeeasy/how-to-create-a-responsive-chatbot-using-html-javascript-46p9)
-- [Dev.to/JS] [Therazen CBD Gummies: A Natural Solution for Better Sleep](https://dev.to/therazencbdgummies/therazen-cbd-gummies-a-natural-solution-for-better-sleep-55)
-- [Dev.to/JS] [Hemingway — Blog multipage theme Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/hemingway-blog-multipage-themebuilt-with-astro-tailwind-css-mdx-1njj)
-- [Dev.to/JS] [React Router DOM 6.0:](https://dev.to/bishnoi_sushill/react-router-dom-60-7ck)
-- [Dev.to/JS] [TF #33 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-33-your-weekly-frontend-digest-4d5i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
