@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplyfing SvelteKit View Transitions with Paolo Ricciuti](https://dev.to/codingcatdev/simplyfing-sveltekit-view-transitions-with-paolo-ricciuti-m94)
 - [Dev.to/JS] [Best Practices for Vue Developers in 2024](https://dev.to/mescius/best-practices-for-vue-developers-in-2024-e2b)
 - [Dev.to/JS] [Using React/Redux with a Golang Backend](https://dev.to/dgihost/using-reactredux-with-a-golang-backend-3kn8)
 - [Dev.to/JS] [Vercel vs Netlify vs GitHub Pages](https://dev.to/sh20raj/vercel-vs-netlify-vs-github-pages-bem)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top Growing Social Media Platforms in 2024 🚀](https://dev.to/sh20raj/top-growing-social-media-platforms-in-2024-2dd2)
 - [Dev.to/JS] [Node serverless](https://dev.to/akmaurya31/node-serverless-g6i)
 - [Dev.to/JS] [Answer the ones which you think is most important as it took more time to understand 👇](https://dev.to/sumesh_ks/answer-the-ones-which-you-think-is-most-important-as-it-took-more-time-to-understand-3mpd)
-- [Dev.to/JS] [Top YouTube Alternatives to Watch in 2024 📹](https://dev.to/sh20raj/top-youtube-alternatives-to-watch-in-2024-3412)
 - [Lifehacker] [When It&#39;s OK to Use Lumber That’s Been Stored Outside &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/home/when-is-it-okay-to-use-lumber-thats-been-stored-outside)
 - [Lifehacker] [The Dremel Versa Power Scrubber Kit Is a Power Tool for Your Pots and Pans](https://lifehacker.com/home/dremel-versa-scrub-daddy-kit-review)
 - [Lifehacker] [The True Cost of a PS5](https://lifehacker.com/tech/how-much-a-ps5-really-costs)
