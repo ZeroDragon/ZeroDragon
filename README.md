@@ -26,7 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a pre-loader with GSAP3 Stroke Reveal effect](https://dev.to/stemolti/creating-a-pre-loader-with-gsap3-stroke-reveal-effect-1d0b)
+- [Dev.to/JS] [What if Nx Plugins Were More Like VSCode Extensions](https://dev.to/nx/what-if-nx-plugins-were-more-like-vscode-extensions-4oh0)
+- [Lifehacker] [The True Cost of a PS5](https://lifehacker.com/tech/how-much-a-ps5-really-costs)
+- [Dev.to/JS] [Best Software Documentation Tools](https://dev.to/mohammadfaisal/best-software-documentation-tools-200j)
+- [Dev.to/JS] [Achieving Consistent Outputs in OpenAI API: Leveraging Zod and LangChain for Improved Results](https://dev.to/farhadjaman/achieving-consistent-outputs-in-openai-api-leveraging-zod-and-langchain-for-improved-results-43jo)
+- [Dev.to/JS] [Serato – Sample &lpar;Windows&rpar;Download](https://dev.to/pluginsforest5/serato-sample-windowsdownload-5dde)
+- [Lifehacker] [All the Different Ways to Find Your Lost AirPods](https://lifehacker.com/tech/how-to-find-your-lost-airpods)
 - [Dev.to/JS] [What is an Responsive Web Design?](https://dev.to/swamithedev/what-is-an-responsive-web-design-2d49)
+- [Lifehacker] [All the Gear You Need to View the Solar Eclipse on April 8](https://lifehacker.com/science/everything-you-need-to-view-the-solar-eclipse-safely)
 - [Dev.to/JS] [Top 10 Tools To Ease The Burden Of Developing Web Pages With Angular.Js](https://dev.to/harnilpatel/top-10-tools-to-ease-the-burden-of-developing-web-pages-with-angularjs-223a)
 - [Dev.to/JS] [Ruby on Rails vs. JavaScript](https://dev.to/allyn/ruby-on-rails-vs-javascript-1i12)
 - [Dev.to/JS] [Captcha Generator &amp; Validator using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/captcha-generator-validator-using-html-css-javascript-11cd)
@@ -35,14 +43,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Staff Augmentation: A Strategic Approach to Scaling Your Development Team](https://dev.to/ashmeera/staff-augmentation-a-strategic-approach-to-scaling-your-development-team-4ad2)
 - [Dev.to/JS] [Coding a chrome extension in 11 hours!](https://dev.to/a0m0rajab/coding-a-chrome-extension-in-11-hours-3l3c)
 - [Lifehacker] [You Can Get This Epic Flight 4K Drone on Sale for Under $100 Right Now](https://lifehacker.com/epic-flight-drone-sale)
-- [Dev.to/JS] [Mana yang Lebih Baik: obj.hasOwnProperty&lpar;prop&rpar; vs Object.keys&lpar;obj&rpar;.includes&lpar;prop&rpar;](https://dev.to/ferryops/mana-yang-lebih-baik-objhasownpropertyprop-vs-objectkeysobjincludesprop-2895)
-- [Dev.to/JS] [Opinión: Bill Belichick y Nick Saban fueron el tipo de entrenadores de los que le hablo a mi terapeuta](https://dev.to/marinnerea89/opinion-bill-belichick-y-nick-saban-fueron-el-tipo-de-entrenadores-de-los-que-le-hablo-a-mi-terapeuta-mjf)
 - [Lifehacker] [The Five Gardening Tasks You Should Complete in February](https://lifehacker.com/home/february-gardening-tasks)
-- [Dev.to/JS] [React Fragment VS DIV, Kapan Waktu yang Tepat Menggunakannya?](https://dev.to/ferryops/react-fragment-vs-div-kapan-waktu-yang-tepat-menggunakannya-1cm9)
-- [Dev.to/JS] [What does this JavaScript code log and why?](https://dev.to/codeguage/what-does-this-javascript-code-log-and-why-49ki)
-- [Dev.to/JS] [How the &quot;The Three Little Pigs&quot; Story Helped Me Become A Better Frontend Developer](https://dev.to/_ndeyefatoudiop/how-the-the-three-little-pigs-story-helped-me-become-a-senior-frontend-developer-2ikh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
+- [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [18 of the Best ‘Smooth Brain’ TV Shows to Binge Mindlessly](https://lifehacker.com/entertainment/best-comfort-shows-streaming-netflix)
 - [Lifehacker] [You Can Finally Add Extensions to Microsoft Edge on Android](https://lifehacker.com/tech/how-to-add-extensions-to-microsoft-edge-on-android)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
-- [Lifehacker] [This 8-Piece Japanese Knife Set Is on Sale for $120 Right Now](https://lifehacker.com/japanese-knife-set-sale)
-- [Lifehacker] [All the Differences Between an HSA and an FSA](https://lifehacker.com/money/difference-between-hsa-and-fsa)
-- [Lifehacker] [You Need to Actually Double-Check What You’re Agreeing to When Installing Software](https://lifehacker.com/tech/double-check-what-youre-agreeing-to-when-installing-software)
-- [Lifehacker] [What TikTok’s ‘Ketchup Challenge’ Actually Says About Your Relationship](https://lifehacker.com/relationships/what-the-ketchup-challenge-means-for-relationships)
-- [Lifehacker] [How to Get ‘Enshrouded’ Running on Steam Deck](https://lifehacker.com/entertainment/play-enshrouded-on-steam-deck)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 8-Piece Japanese Knife Set Is on Sale for $120 Right Now](https://lifehacker.com/japanese-knife-set-sale)<!-- TECH-POSTS:END -->
 
 ---
 
