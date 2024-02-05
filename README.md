@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node micro service](https://dev.to/akmaurya31/node-micro-service-4nk4)
+- [Dev.to/JS] [mua chung AvatarBuilder](https://dev.to/wsovn112/mua-chung-avatarbuilder-4l07)
 - [Dev.to/JS] [Creating a pre-loader with GSAP3 Stroke Reveal effect](https://dev.to/stemolti/creating-a-pre-loader-with-gsap3-stroke-reveal-effect-1d0b)
 - [Dev.to/JS] [What if Nx Plugins Were More Like VSCode Extensions](https://dev.to/nx/what-if-nx-plugins-were-more-like-vscode-extensions-4oh0)
 - [Lifehacker] [The True Cost of a PS5](https://lifehacker.com/tech/how-much-a-ps5-really-costs)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Captcha Generator &amp; Validator using HTML CSS &amp; JavaScript](https://dev.to/sharathchandark/captcha-generator-validator-using-html-css-javascript-11cd)
 - [Lifehacker] [The OnePlus 12R Is Solid, but It’s No ‘Flagship Killer’](https://lifehacker.com/tech/oneplus-12r-review)
 - [Dev.to/JS] [Optimizing Code Quality: A Guide to Using Husky and Lint-Staged in Your Development Workflow](https://dev.to/ellis22/optimizing-code-quality-a-guide-to-using-husky-and-lint-staged-in-your-development-workflow-4jj9)
-- [Dev.to/JS] [Staff Augmentation: A Strategic Approach to Scaling Your Development Team](https://dev.to/ashmeera/staff-augmentation-a-strategic-approach-to-scaling-your-development-team-4ad2)
-- [Dev.to/JS] [Coding a chrome extension in 11 hours!](https://dev.to/a0m0rajab/coding-a-chrome-extension-in-11-hours-3l3c)
 - [Lifehacker] [You Can Get This Epic Flight 4K Drone on Sale for Under $100 Right Now](https://lifehacker.com/epic-flight-drone-sale)
 - [Lifehacker] [The Five Gardening Tasks You Should Complete in February](https://lifehacker.com/home/february-gardening-tasks)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
