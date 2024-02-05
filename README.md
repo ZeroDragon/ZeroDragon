@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [config: extends directive](https://dev.to/antongolub/config-extends-directive-13p6)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/ruthalvareze77/buy-google-voice-accounts-30n8)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/ruthalvareze77/buy-verified-paxful-account-593h)
 - [Dev.to/JS] [How to make a Coding Learning Environment Website in React JS?](https://dev.to/rohitashsingh89/how-to-make-a-coding-learning-environment-website-in-react-js-47d7)
 - [Dev.to/JS] [Bioheal CBD Gummies Reviews– Safe to Use Website &amp; Ingredients](https://dev.to/biohealcbdbuyus/bioheal-cbd-gummies-reviews-safe-to-use-website-ingredients-23k)
 - [Dev.to/JS] [Building a Contact Form with Node.js, Express, and MongoDB](https://dev.to/manthanank/building-a-contact-form-with-nodejs-express-and-mongodb-534)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying the Dance of Asynchronicity and Synchronicity in JavaScript](https://dev.to/atultrp/demystifying-the-dance-of-asynchronicity-and-synchronicity-in-javascript-1kg3)
 - [Dev.to/JS] [Used 7.css pretty heavily!](https://dev.to/millerino/used-7css-pretty-heavily-1kjh)
 - [Dev.to/JS] [How to Kill Processes and Free Up Ports on Mac, Windows, and Linux](https://dev.to/rawas_aditya/how-to-kill-processes-and-free-up-ports-on-mac-windows-and-linux-h97)
-- [Dev.to/JS] [Resolving next-auth &quot;redirect&quot; error when used with Supabase](https://dev.to/mathewthe2/resolving-next-auth-redirect-error-with-supabase-3c0h)
-- [Dev.to/JS] [Top 10 Angular 19 Npm Package](https://dev.to/tanvirdeveloper01/top-10-angular-19-npm-package-1ji0)
-- [Dev.to/JS] [Help! &#39;\&#39; Is causing undefined errors in my project](https://dev.to/best_codes/help-is-causing-undefined-errors-in-my-project-4abf)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
