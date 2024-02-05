@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rollup&#39;s intro and outro - Two Amazing Features You Can&#39;t Miss!](https://dev.to/codeguage/rollups-intro-and-outro-two-amazing-features-you-must-know-1n72)
+- [Dev.to/JS] [Anonymous and Arrow Functions in JavaScript](https://dev.to/devshefali/anonymous-and-arrow-functions-in-javascript-6fk)
+- [Dev.to/JS] [Demystifying the Dance of Asynchronicity and Synchronicity in JavaScript](https://dev.to/atultrp/demystifying-the-dance-of-asynchronicity-and-synchronicity-in-javascript-1kg3)
+- [Dev.to/JS] [Used 7.css pretty heavily!](https://dev.to/millerino/used-7css-pretty-heavily-1kjh)
+- [Dev.to/JS] [How to Kill Processes and Free Up Ports on Mac, Windows, and Linux](https://dev.to/rawas_aditya/how-to-kill-processes-and-free-up-ports-on-mac-windows-and-linux-h97)
 - [Dev.to/JS] [Resolving next-auth &quot;redirect&quot; error when used with Supabase](https://dev.to/mathewthe2/resolving-next-auth-redirect-error-with-supabase-3c0h)
 - [Dev.to/JS] [Top 10 Angular 19 Npm Package](https://dev.to/tanvirdeveloper01/top-10-angular-19-npm-package-1ji0)
 - [Dev.to/JS] [Help! &#39;\&#39; Is causing undefined errors in my project](https://dev.to/best_codes/help-is-causing-undefined-errors-in-my-project-4abf)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Oramorph Whatsapp +44.7414.982.506](https://dev.to/nannenow/buy-oramorph-whatsapp-447414982506-f4i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Dev.to/JS] [Oramorph Telegram +1413.340.4922](https://dev.to/nannenow/oramorph-telegram-14133404922-47j)
-- [Dev.to/JS] [Million 3.0: All You Need To Know](https://dev.to/tobysolutions/million-30-all-you-need-to-know-3d2)
-- [Dev.to/JS] [Web Wizards Unite: 10 Crucial Best Practices for Exceptional Development](https://dev.to/ackomjnr/web-wizards-unite-10-crucial-best-practices-for-exceptional-development-5ac)
-- [Dev.to/JS] [Text to speech with Javascript](https://dev.to/barrisam/text-to-speech-with-javascript-2cjk)
-- [Dev.to/JS] [Reviewing Functions](https://dev.to/silasgebhart/reviewing-functions-29m9)
-- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 7 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-3nnd)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
