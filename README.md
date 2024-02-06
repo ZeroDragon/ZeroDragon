@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scaling Apache Airbyte for Enterprise Workloads](https://dev.to/vhelical/scaling-apache-airbyte-for-enterprise-workloads-2a5p)
+- [Dev.to/JS] [Understanding Hydration in Next.js](https://dev.to/rajaerobinson/understanding-hydration-in-nextjs-b5m)
+- [Dev.to/JS] [Map&lpar;&rpar; function with the help of JavScript Array of Objects....](https://dev.to/swapnanilwebdeveloper/map-function-with-the-help-of-javscript-array-of-objects-1c3p)
 - [Dev.to/JS] [Demystifying Ember.js Development: How to Hire the Right Developer for Your Project](https://dev.to/dhwanil/demystifying-emberjs-development-how-to-hire-the-right-developer-for-your-project-49ij)
 - [Dev.to/JS] [Lets Start Your MERN stack Journey](https://dev.to/swapnanilwebdeveloper/lets-start-your-mern-stack-journey-27i)
 - [Dev.to/JS] [Usability - The Next Key Battleground for CMS](https://dev.to/alangleeson/usability-the-next-key-battleground-for-cms-4e3i)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Apply Sorting on Tables in HTML Using JavaScript: Sortable Paginated Tables](https://dev.to/speaklouder/how-to-apply-sorting-on-tables-in-html-using-javascript-sortable-paginated-tables-590g)
 - [Dev.to/JS] [Simplexity - Blog multipage theme Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/mike_andreuzza/simplexity-blog-multipage-theme-built-with-astro-tailwind-css-mdx-41e6)
 - [Dev.to/JS] [What we&#39;ve learned from the transition to Next.js 14 with Server Components](https://dev.to/medusajs/what-weve-learned-from-the-transition-to-nextjs-14-with-server-components-3c4o)
-- [Dev.to/JS] [Streamlining Web Development: Integrating Strapi CMS with React.js and Next.js](https://dev.to/nitin-rachabathuni/streamlining-web-development-integrating-strapi-cms-with-reactjs-and-nextjs-1i84)
-- [Dev.to/JS] [Generating Globally Unique IDs in Distributed Systems](https://dev.to/skorotkiewicz/generating-globally-unique-ids-in-distributed-systems-1lp)
-- [Dev.to/JS] [Signals: the Do-s and the Don&#39;t-s](https://dev.to/this-is-angular/signals-the-do-s-and-the-dont-s-40fk)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-6-2024)
 - [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)
 - [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)
