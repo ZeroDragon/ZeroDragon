@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 most asked kafka](https://dev.to/akmaurya31/10-most-asked-kafka-3336)
+- [Dev.to/JS] [Kafka vs Redis vs Jenkins vs mongodb](https://dev.to/akmaurya31/kafka-vs-redis-vs-jenkins-vs-mongodb-92j)
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.14](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-114-h23)
 - [Dev.to/JS] [Debounce Solution](https://dev.to/bealecs/debounce-solution-16in)
 - [Dev.to/JS] [Unleashing Next.js in Web Development: A Comprehensive Guide](https://dev.to/n3tz/unleashing-nextjs-in-web-development-a-comprehensive-guide-1cig)
-- [Dev.to/JS] [Deno Extension Formatter in VSCode: A Guide for Monorepo Environments](https://dev.to/mich0w0h/deno-extension-formatter-in-vscode-a-guide-for-monorepo-environments-4k4b)
+- [Dev.to/JS] [Troubleshooting: Deno Extension Activation in VSCode with Monorepo Environments](https://dev.to/mich0w0h/deno-extension-formatter-in-vscode-a-guide-for-monorepo-environments-4k4b)
 - [Dev.to/JS] [How to Add Functional Components to a React Grid Application](https://dev.to/mescius/how-to-add-functional-components-to-a-react-grid-application-bko)
 - [Lifehacker] [You Can Now Create AI-generated Images for Free in Google Bard](https://lifehacker.com/tech/how-to-create-images-in-google-bard)
 - [Dev.to/JS] [Enclave Games Monthly Report: January 2024](https://dev.to/end3r/enclave-games-monthly-report-january-2024-13in)
@@ -43,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Practices for Vue Developers in 2024](https://dev.to/mescius/best-practices-for-vue-developers-in-2024-e2b)
 - [Dev.to/JS] [Using React/Redux with a Golang Backend](https://dev.to/dgihost/using-reactredux-with-a-golang-backend-3kn8)
 - [Lifehacker] [Why a Flat Fee Real Estate Broker Probably Isn’t Worth It](https://lifehacker.com/money/why-a-flat-fee-real-estate-broker-probably-isnt-worth-it)
-- [Dev.to/JS] [Vercel vs Netlify vs GitHub Pages](https://dev.to/sh20raj/vercel-vs-netlify-vs-github-pages-bem)
-- [Dev.to/JS] [Top 10 Programming Languages to Learn in 2024](https://dev.to/sh20raj/top-10-programming-languages-to-learn-in-2024-3ieh)
-- [Dev.to/JS] [Top Online IDE Websites in 2024 ⌨️](https://dev.to/sh20raj/top-online-ide-websites-in-2024-3kbd)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Lifehacker] [The Best Time to Cancel an App Subscription Is Immediately](https://lifehacker.com/tech/cancel-unwanted-app-store-subscriptions)
 - [Lifehacker] [When It&#39;s OK to Use Lumber That’s Been Stored Outside &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/home/when-is-it-okay-to-use-lumber-thats-been-stored-outside)
