@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why I won&#39;t use Next.js anymore 😡](https://dev.to/codeparrot/why-i-wont-use-nextjs-anymore-2k77)
+- [Dev.to/JS] [The Joy of Singleton](https://dev.to/ignoreintuition/the-joy-of-singleton-2lbg)
 - [Dev.to/JS] [From JS Basics to Actually Building Stuff](https://dev.to/jaredcodes/from-js-basics-to-actually-building-stuff-55i7)
 - [Dev.to/JS] [Pay Per Call AI Review – Revolutionary Income with Pay Per Call AI Best!](https://dev.to/nusrat1111/pay-per-call-ai-review-revolutionary-income-with-pay-per-call-ai-best-2f6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-6-2024)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)
 - [Dev.to/JS] [Unleashing Next.js in Web Development: A Comprehensive Guide](https://dev.to/n3tz/unleashing-nextjs-in-web-development-a-comprehensive-guide-1cig)
 - [Dev.to/JS] [Troubleshooting: Deno Extension Activation in VSCode with Monorepo Environments](https://dev.to/mich0w0h/deno-extension-formatter-in-vscode-a-guide-for-monorepo-environments-4k4b)
-- [Dev.to/JS] [How to Add Functional Components to a React Grid Application](https://dev.to/mescius/how-to-add-functional-components-to-a-react-grid-application-bko)
 - [Lifehacker] [You Can Now Create AI-generated Images for Free in Google Bard](https://lifehacker.com/tech/how-to-create-images-in-google-bard)
-- [Dev.to/JS] [Enclave Games Monthly Report: January 2024](https://dev.to/end3r/enclave-games-monthly-report-january-2024-13in)
 - [Lifehacker] [The Best Podcast Miniseries That Explore Black History and Culture](https://lifehacker.com/entertainment/best-podcasts-miniseries-black-history-culture)
 - [Lifehacker] [The Galaxy S24 Has Problems](https://lifehacker.com/tech/galaxy-s24-launch-problems)
 - [Lifehacker] [The First Seven Financial Steps to Take Immediately After Being Laid Off](https://lifehacker.com/money/most-important-financial-steps-after-being-laid-off)
