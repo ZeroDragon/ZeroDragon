@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring the World of Internet Protocols: A Journey from HTTP to Databases](https://dev.to/keploy/exploring-the-world-of-internet-protocols-a-journey-from-http-to-databases-2gbj)
+- [Dev.to/JS] [Unveiling Fitspresso: A Comprehensive Review of the Ultimate Fitness Companion](https://dev.to/reviewsfitspresso/unveiling-fitspresso-a-comprehensive-review-of-the-ultimate-fitness-companion-368)
+- [Dev.to/JS] [Code Compatibility With React](https://dev.to/mrghubba/code-compatibility-with-react-57bc)
+- [Dev.to/JS] [A Promise is forever](https://dev.to/this-is-learning/a-promise-is-forever-124i)
 - [Dev.to/JS] [Why I won&#39;t use Next.js anymore 😡](https://dev.to/codeparrot/why-i-wont-use-nextjs-anymore-2k77)
 - [Dev.to/JS] [The Joy of Singleton](https://dev.to/ignoreintuition/the-joy-of-singleton-2lbg)
 - [Dev.to/JS] [From JS Basics to Actually Building Stuff](https://dev.to/jaredcodes/from-js-basics-to-actually-building-stuff-55i7)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 sites para se manter &#39;afiado&#39; em JS](https://dev.to/marciopolicarpo/5-sites-para-se-manter-afiado-em-js-3aij)
 - [Dev.to/JS] [10 most asked kafka](https://dev.to/akmaurya31/10-most-asked-kafka-3336)
 - [Dev.to/JS] [Kafka vs Redis vs Jenkins vs mongodb](https://dev.to/akmaurya31/kafka-vs-redis-vs-jenkins-vs-mongodb-92j)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.14](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-114-h23)
 - [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)
-- [Dev.to/JS] [Debounce Solution](https://dev.to/bealecs/debounce-solution-16in)
 - [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)
-- [Dev.to/JS] [Unleashing Next.js in Web Development: A Comprehensive Guide](https://dev.to/n3tz/unleashing-nextjs-in-web-development-a-comprehensive-guide-1cig)
-- [Dev.to/JS] [Troubleshooting: Deno Extension Activation in VSCode with Monorepo Environments](https://dev.to/mich0w0h/deno-extension-formatter-in-vscode-a-guide-for-monorepo-environments-4k4b)
 - [Lifehacker] [You Can Now Create AI-generated Images for Free in Google Bard](https://lifehacker.com/tech/how-to-create-images-in-google-bard)
 - [Lifehacker] [The Best Podcast Miniseries That Explore Black History and Culture](https://lifehacker.com/entertainment/best-podcasts-miniseries-black-history-culture)
 - [Lifehacker] [The Galaxy S24 Has Problems](https://lifehacker.com/tech/galaxy-s24-launch-problems)
