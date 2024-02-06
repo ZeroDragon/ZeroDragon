@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Signals: the Do-s and the Don&#39;t-s](https://dev.to/this-is-angular/signals-the-do-s-and-the-dont-s-40fk)
+- [Dev.to/JS] [🎉🎉 Build and Deploy a Fullstack Hotel Booking Web App: Next.js 14, React.js, TS, TailwindCSS, Prisma](https://dev.to/chaoocharles/build-and-deploy-a-fullstack-hotel-booking-web-app-nextjs-14-reactjs-ts-tailwindcss-prisma-1k85)
+- [Dev.to/JS] [oImprove your README.md profile with these amazing badges 🚀](https://dev.to/sh20raj/improve-your-readmemd-profile-with-these-amazing-badges-5cii)
+- [Dev.to/JS] [How to Start Coding: The Ultimate Guide for Beginner Programmers](https://dev.to/codingmadeeasy/how-to-start-coding-the-ultimate-guide-for-beginner-programmers-2hc6)
+- [Dev.to/JS] [Interesting behavior of window.location.href](https://dev.to/konfydev/interesting-behavior-of-windowlocationhref-ane)
 - [Dev.to/JS] [Mastering Node.js CLI: Best Practices and Tips](https://dev.to/boudydegeer/mastering-nodejs-cli-best-practices-and-tips-7j5)
 - [Dev.to/JS] [Is Angular.js or Ember.js the better choice for JavaScript frameworks?](https://dev.to/danishhafeez/is-angularjs-or-emberjs-the-better-choice-for-javascript-frameworks-294e)
 - [Dev.to/JS] [Exploring the World of Internet Protocols: A Journey from HTTP to Databases](https://dev.to/keploy/exploring-the-world-of-internet-protocols-a-journey-from-http-to-databases-2gbj)
@@ -33,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Compatibility With React](https://dev.to/mrghubba/code-compatibility-with-react-57bc)
 - [Dev.to/JS] [A Promise is forever](https://dev.to/this-is-learning/a-promise-is-forever-124i)
 - [Dev.to/JS] [Why I won&#39;t use Next.js anymore 😡](https://dev.to/codeparrot/why-i-wont-use-nextjs-anymore-2k77)
-- [Dev.to/JS] [The Joy of Singleton](https://dev.to/ignoreintuition/the-joy-of-singleton-2lbg)
-- [Dev.to/JS] [From JS Basics to Actually Building Stuff](https://dev.to/jaredcodes/from-js-basics-to-actually-building-stuff-55i7)
-- [Dev.to/JS] [Pay Per Call AI Review – Revolutionary Income with Pay Per Call AI Best!](https://dev.to/nusrat1111/pay-per-call-ai-review-revolutionary-income-with-pay-per-call-ai-best-2f6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-6-2024)
-- [Dev.to/JS] [🌟⚒️ How to Learn Web Development and Land a Job Faster in 2024 &lpar;Beginners&#39; Guide With Free Resources&rpar;](https://dev.to/chaoocharles/how-to-learn-web-development-and-land-a-job-faster-in-2024-beginners-guide-with-free-resources-3074)
-- [Dev.to/JS] [5 sites para se manter &#39;afiado&#39; em JS](https://dev.to/marciopolicarpo/5-sites-para-se-manter-afiado-em-js-3aij)
 - [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)
 - [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)
 - [Lifehacker] [You Can Now Create AI-generated Images for Free in Google Bard](https://lifehacker.com/tech/how-to-create-images-in-google-bard)
