@@ -26,21 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Fundamentals part 1 : The Basic javascript &quot;Hello world&quot;](https://dev.to/maissenayed/react-fundamentals-part-1-the-basic-javascript-hello-world-1hjd)
+- [Dev.to/JS] [Introducing @nx/nuxt: Enhanced Nuxt.js Support in Nx](https://dev.to/nx/introducing-nxnuxt-enhanced-nuxtjs-support-in-nx-ai7)
+- [Dev.to/JS] [Prime Number](https://dev.to/avinashrepo/prime-number-3l6c)
+- [Dev.to/JS] [10 example of filter using in js](https://dev.to/avinashrepo/10-example-of-filter-using-in-js-5h6i)
+- [Dev.to/JS] [XLN Audio – Addictive Keys Complete &lpar;Windows&rpar;Download](https://dev.to/pluginsforest5/xln-audio-addictive-keys-complete-windowsdownload-4g85)
+- [Dev.to/JS] [Depth of Reactive Dependencies](https://dev.to/ninjin/depth-of-reactive-dependencies-357j)
+- [Lifehacker] [How to Wash &lpar;and Dry&rpar; a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
 - [Dev.to/JS] [Exploring Top 5 CMS Alternatives to Strapi: Advantages and Real-World Applications](https://dev.to/nitin-rachabathuni/exploring-top-5-cms-alternatives-to-strapi-advantages-and-real-world-applications-5ck4)
 - [Dev.to/JS] [He married his friend&#39;s wife because he could not pay the loan](https://dev.to/any123/he-married-his-friends-wife-because-he-could-not-pay-the-loan-4epl)
+- [Lifehacker] [Amazon Is Having a Big Tool Sale Right Now](https://lifehacker.com/home/amazon-tool-sales)
+- [Lifehacker] [ChatGPT Might Not Be As Secure As You Think It Is](https://lifehacker.com/tech/how-to-keep-your-chatgpt-account-secure)
 - [Dev.to/JS] [🔟 Short and Sweet JavaScript One-Liners for Mastery ⚡️🚀](https://dev.to/arjuncodess/short-and-sweet-javascript-one-liners-for-mastery-m74)
 - [Dev.to/JS] [The Best Way to Handle Promises in React](https://dev.to/marileon/the-best-way-to-handle-promises-in-react-5399)
 - [Lifehacker] [Why You Can’t Watch 3D Porn on the Apple Vision Pro &lpar;Yet&rpar;](https://lifehacker.com/tech/you-cant-watch-3d-porn-on-apple-vision-pro-yet)
 - [Dev.to/JS] [Data Science Applications in Real-world Business Scenarios.](https://dev.to/ashmeera/data-science-applications-in-real-world-business-scenarios-5d8)
 - [Dev.to/JS] [The Future of Interactive Gaming: Python VR Programming Essentials](https://dev.to/vagamjohn/the-future-of-interactive-gaming-python-vr-programming-essentials-5059)
-- [Dev.to/JS] [Why Should Lodash be Your JavaScript Project&#39;s Go-To Library?](https://dev.to/webcraft-notes/why-should-lodash-be-your-javascript-projects-go-to-library-2pnm)
-- [Dev.to/JS] [Learn Firebase Authentication With JavaScript [45 min video]](https://dev.to/rajatamil/learn-firebase-authentication-with-javascript-45-min-video-3ek3)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Hurkle-Durkling&#39;?](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-hurkle-durkling)
-- [Dev.to/JS] [Some practical examples on why I prefer Axios over Fetch](https://dev.to/darkmavis1980/some-practical-examples-why-i-prefer-axios-over-fetch-lkd)
-- [Dev.to/JS] [Top 15 Tips to Make Your Webpage Load Faster](https://dev.to/sh20raj/top-15-tips-to-make-your-webpage-load-faster-3pmb)
 - [Lifehacker] [How to Set Up a VPN on Your iPhone](https://lifehacker.com/tech/how-to-set-up-vpn-on-iphone)
-- [Dev.to/JS] [Netflix Tech Stack &lpar;CI/CD Pipeline&rpar;](https://dev.to/eddieadams/netflix-tech-stack-cicd-pipeline-1mf0)
-- [Dev.to/JS] [Full stack JS-React-Express-SQL project](https://dev.to/imcamiloup/full-stack-js-react-express-sql-project-5803)
 - [Lifehacker] [That Message From the IRS About Your Refund Is a Scam](https://lifehacker.com/money/irs-email-and-text-message-scam)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-6-2024)
 - [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Gear You Need to View the Solar Eclipse on April 8](https://lifehacker.com/science/everything-you-need-to-view-the-solar-eclipse-safely)
 - [Lifehacker] [The OnePlus 12R Is Solid, but It’s No ‘Flagship Killer’](https://lifehacker.com/tech/oneplus-12r-review)
 - [Lifehacker] [You Can Get This Epic Flight 4K Drone on Sale for Under $100 Right Now](https://lifehacker.com/epic-flight-drone-sale)
-- [Lifehacker] [The Five Gardening Tasks You Should Complete in February](https://lifehacker.com/home/february-gardening-tasks)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
-- [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Five Gardening Tasks You Should Complete in February](https://lifehacker.com/home/february-gardening-tasks)<!-- TECH-POSTS:END -->
 
 ---
 
