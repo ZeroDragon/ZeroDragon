@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔟 Short and Sweet JavaScript One-Liners for Mastery ⚡️🚀](https://dev.to/arjuncodess/short-and-sweet-javascript-one-liners-for-mastery-m74)
+- [Dev.to/JS] [Data Science Applications in Real-world Business Scenarios.](https://dev.to/ashmeera/data-science-applications-in-real-world-business-scenarios-5d8)
+- [Dev.to/JS] [The Future of Interactive Gaming: Python VR Programming Essentials](https://dev.to/vagamjohn/the-future-of-interactive-gaming-python-vr-programming-essentials-5059)
+- [Dev.to/JS] [Why Should Lodash be Your JavaScript Project&#39;s Go-To Library?](https://dev.to/webcraft-notes/why-should-lodash-be-your-javascript-projects-go-to-library-2pnm)
 - [Dev.to/JS] [Learn Firebase Authentication With JavaScript [45 min video]](https://dev.to/rajatamil/learn-firebase-authentication-with-javascript-45-min-video-3ek3)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Hurkle-Durkling&#39;?](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-hurkle-durkling)
 - [Dev.to/JS] [Some practical examples on why I prefer Axios over Fetch](https://dev.to/darkmavis1980/some-practical-examples-why-i-prefer-axios-over-fetch-lkd)
 - [Dev.to/JS] [Top 15 Tips to Make Your Webpage Load Faster](https://dev.to/sh20raj/top-15-tips-to-make-your-webpage-load-faster-3pmb)
+- [Lifehacker] [How to Set Up a VPN on Your iPhone](https://lifehacker.com/tech/how-to-set-up-vpn-on-iphone)
 - [Dev.to/JS] [Netflix Tech Stack &lpar;CI/CD Pipeline&rpar;](https://dev.to/eddieadams/netflix-tech-stack-cicd-pipeline-1mf0)
 - [Dev.to/JS] [Full stack JS-React-Express-SQL project](https://dev.to/imcamiloup/full-stack-js-react-express-sql-project-5803)
 - [Dev.to/JS] [Releasing LightningChart JS v.5.1](https://dev.to/lightningchart/releasing-lightningchart-js-v51-in3)
 - [Lifehacker] [That Message From the IRS About Your Refund Is a Scam](https://lifehacker.com/money/irs-email-and-text-message-scam)
 - [Dev.to/JS] [Scaling Apache Airbyte for Enterprise Workloads](https://dev.to/vhelical/scaling-apache-airbyte-for-enterprise-workloads-2a5p)
 - [Dev.to/JS] [Understanding Hydration in Next.js](https://dev.to/rajaerobinson/understanding-hydration-in-nextjs-b5m)
-- [Dev.to/JS] [Map&lpar;&rpar; function with the help of JavScript Array of Objects....](https://dev.to/swapnanilwebdeveloper/map-function-with-the-help-of-javscript-array-of-objects-1c3p)
-- [Dev.to/JS] [Demystifying Ember.js Development: How to Hire the Right Developer for Your Project](https://dev.to/dhwanil/demystifying-emberjs-development-how-to-hire-the-right-developer-for-your-project-49ij)
-- [Dev.to/JS] [Lets Start Your MERN stack Journey](https://dev.to/swapnanilwebdeveloper/lets-start-your-mern-stack-journey-27i)
-- [Dev.to/JS] [Usability - The Next Key Battleground for CMS](https://dev.to/alangleeson/usability-the-next-key-battleground-for-cms-4e3i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-6-2024)
 - [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)
 - [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
-- [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
-- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)<!-- TECH-POSTS:END -->
 
 ---
 
