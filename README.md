@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🌟⚒️ How to Learn Web Development and Land a Job Faster in 2024 &lpar;Beginners&#39; Guide With Free Resources&rpar;](https://dev.to/chaoocharles/how-to-learn-web-development-and-land-a-job-faster-in-2024-beginners-guide-with-free-resources-3074)
 - [Dev.to/JS] [5 sites para se manter &#39;afiado&#39; em JS](https://dev.to/marciopolicarpo/5-sites-para-se-manter-afiado-em-js-3aij)
 - [Dev.to/JS] [10 most asked kafka](https://dev.to/akmaurya31/10-most-asked-kafka-3336)
 - [Dev.to/JS] [Kafka vs Redis vs Jenkins vs mongodb](https://dev.to/akmaurya31/kafka-vs-redis-vs-jenkins-vs-mongodb-92j)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplyfing SvelteKit View Transitions with Paolo Ricciuti](https://dev.to/codingcatdev/simplyfing-sveltekit-view-transitions-with-paolo-ricciuti-m94)
 - [Lifehacker] [What Actually Worked When I Was Cleaning Old Dirty Sneakers](https://lifehacker.com/home/how-to-clean-dirty-old-sneakers)
 - [Lifehacker] [What Happens When You Use the Vision Pro Without the Light Seal](https://lifehacker.com/tech/you-should-try-vision-pro-without-the-light-seal)
-- [Dev.to/JS] [Best Practices for Vue Developers in 2024](https://dev.to/mescius/best-practices-for-vue-developers-in-2024-e2b)
 - [Lifehacker] [Why a Flat Fee Real Estate Broker Probably Isn’t Worth It](https://lifehacker.com/money/why-a-flat-fee-real-estate-broker-probably-isnt-worth-it)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Lifehacker] [The Best Time to Cancel an App Subscription Is Immediately](https://lifehacker.com/tech/cancel-unwanted-app-store-subscriptions)
