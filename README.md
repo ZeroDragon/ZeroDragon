@@ -26,10 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 sites para se manter &#39;afiado&#39; em JS](https://dev.to/marciopolicarpo/5-sites-para-se-manter-afiado-em-js-3aij)
 - [Dev.to/JS] [10 most asked kafka](https://dev.to/akmaurya31/10-most-asked-kafka-3336)
 - [Dev.to/JS] [Kafka vs Redis vs Jenkins vs mongodb](https://dev.to/akmaurya31/kafka-vs-redis-vs-jenkins-vs-mongodb-92j)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.14](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-114-h23)
+- [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)
 - [Dev.to/JS] [Debounce Solution](https://dev.to/bealecs/debounce-solution-16in)
+- [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)
 - [Dev.to/JS] [Unleashing Next.js in Web Development: A Comprehensive Guide](https://dev.to/n3tz/unleashing-nextjs-in-web-development-a-comprehensive-guide-1cig)
 - [Dev.to/JS] [Troubleshooting: Deno Extension Activation in VSCode with Monorepo Environments](https://dev.to/mich0w0h/deno-extension-formatter-in-vscode-a-guide-for-monorepo-environments-4k4b)
 - [Dev.to/JS] [How to Add Functional Components to a React Grid Application](https://dev.to/mescius/how-to-add-functional-components-to-a-react-grid-application-bko)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Actually Worked When I Was Cleaning Old Dirty Sneakers](https://lifehacker.com/home/how-to-clean-dirty-old-sneakers)
 - [Lifehacker] [What Happens When You Use the Vision Pro Without the Light Seal](https://lifehacker.com/tech/you-should-try-vision-pro-without-the-light-seal)
 - [Dev.to/JS] [Best Practices for Vue Developers in 2024](https://dev.to/mescius/best-practices-for-vue-developers-in-2024-e2b)
-- [Dev.to/JS] [Using React/Redux with a Golang Backend](https://dev.to/dgihost/using-reactredux-with-a-golang-backend-3kn8)
 - [Lifehacker] [Why a Flat Fee Real Estate Broker Probably Isn’t Worth It](https://lifehacker.com/money/why-a-flat-fee-real-estate-broker-probably-isnt-worth-it)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Lifehacker] [The Best Time to Cancel an App Subscription Is Immediately](https://lifehacker.com/tech/cancel-unwanted-app-store-subscriptions)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
 - [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
-- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
-- [Lifehacker] [A Reminder to Deep Clean Your Toaster](https://lifehacker.com/how-to-clean-your-toaster-the-right-way-1847802334)
-- [Lifehacker] [You Can Get This Kodak Film Scanner on Sale for $180 Right Now](https://lifehacker.com/kodak-film-scanner-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
