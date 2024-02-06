@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn Firebase Authentication With JavaScript [45 min video]](https://dev.to/rajatamil/learn-firebase-authentication-with-javascript-45-min-video-3ek3)
+- [Dev.to/JS] [Some practical examples on why I prefer Axios over Fetch](https://dev.to/darkmavis1980/some-practical-examples-why-i-prefer-axios-over-fetch-lkd)
+- [Dev.to/JS] [Top 15 Tips to Make Your Webpage Load Faster](https://dev.to/sh20raj/top-15-tips-to-make-your-webpage-load-faster-3pmb)
+- [Dev.to/JS] [Netflix Tech Stack &lpar;CI/CD Pipeline&rpar;](https://dev.to/eddieadams/netflix-tech-stack-cicd-pipeline-1mf0)
+- [Dev.to/JS] [Full stack JS-React-Express-SQL project](https://dev.to/imcamiloup/full-stack-js-react-express-sql-project-5803)
+- [Dev.to/JS] [Releasing LightningChart JS v.5.1](https://dev.to/lightningchart/releasing-lightningchart-js-v51-in3)
+- [Lifehacker] [That Message From the IRS About Your Refund Is a Scam](https://lifehacker.com/money/irs-email-and-text-message-scam)
 - [Dev.to/JS] [Scaling Apache Airbyte for Enterprise Workloads](https://dev.to/vhelical/scaling-apache-airbyte-for-enterprise-workloads-2a5p)
 - [Dev.to/JS] [Understanding Hydration in Next.js](https://dev.to/rajaerobinson/understanding-hydration-in-nextjs-b5m)
 - [Dev.to/JS] [Map&lpar;&rpar; function with the help of JavScript Array of Objects....](https://dev.to/swapnanilwebdeveloper/map-function-with-the-help-of-javscript-array-of-objects-1c3p)
 - [Dev.to/JS] [Demystifying Ember.js Development: How to Hire the Right Developer for Your Project](https://dev.to/dhwanil/demystifying-emberjs-development-how-to-hire-the-right-developer-for-your-project-49ij)
 - [Dev.to/JS] [Lets Start Your MERN stack Journey](https://dev.to/swapnanilwebdeveloper/lets-start-your-mern-stack-journey-27i)
 - [Dev.to/JS] [Usability - The Next Key Battleground for CMS](https://dev.to/alangleeson/usability-the-next-key-battleground-for-cms-4e3i)
-- [Dev.to/JS] [Polyfill for map, filter and reduce in JavaScript](https://dev.to/impradhyumn/polyfill-for-map-filter-and-reduce-in-javascript-5638)
-- [Dev.to/JS] [Excel Automation Unleashed: A How-To with MO-200 Training](https://dev.to/mo200training/excel-automation-unleashed-a-how-to-with-mo-200-training-3449)
-- [Dev.to/JS] [What strategies can individuals adopt to view work-life balance as an ongoing cycle rather than a one-time goal?](https://dev.to/yagnapandya9/what-strategies-can-individuals-adopt-to-view-work-life-balance-as-an-ongoing-cycle-rather-than-a-one-time-goal-2moh)
-- [Dev.to/JS] [How to Apply Sorting on Tables in HTML Using JavaScript: Sortable Paginated Tables](https://dev.to/speaklouder/how-to-apply-sorting-on-tables-in-html-using-javascript-sortable-paginated-tables-590g)
-- [Dev.to/JS] [Simplexity - Blog multipage theme Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/mike_andreuzza/simplexity-blog-multipage-theme-built-with-astro-tailwind-css-mdx-41e6)
-- [Dev.to/JS] [What we&#39;ve learned from the transition to Next.js 14 with Server Components](https://dev.to/medusajs/what-weve-learned-from-the-transition-to-nextjs-14-with-server-components-3c4o)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-6-2024)
 - [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)
 - [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
-- [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)<!-- TECH-POSTS:END -->
 
 ---
 
