@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top uses](https://dev.to/avinashrepo/top-uses-3aj0)
+- [Dev.to/JS] [Mongoose : Schema And Models / Multiple Documents insert by insertMany&lpar;&rpar;](https://dev.to/swapnanilwebdeveloper/mongoose-schema-and-models-multiple-documents-insert-by-insertmany-1k18)
+- [Lifehacker] [The OnePlus Buds 3 Sound Great, for the Price](https://lifehacker.com/tech/oneplus-buds-3-review)
+- [Lifehacker] [Yeah, You Can Totally Make Doughnuts Out of Bisquick](https://lifehacker.com/food-drink/easy-chocolate-glazed-doughnut-recipe)
 - [Dev.to/JS] [Pagination and Pull to refresh in Flatlist with custom hooks](https://dev.to/ajmal_hasan/pagination-and-pull-to-refresh-in-flatlist-with-custom-hooks-iop)
+- [Lifehacker] [How to Spot a &#39;Catfish House&#39; &lpar;Before You Buy One&rpar;](https://lifehacker.com/money/catfish-house-danger-signs)
 - [Dev.to/JS] [Released a visual guide to functional programming in JS](https://dev.to/learnwithparam/released-a-visual-guide-to-functional-programming-in-js-2j3b)
 - [Lifehacker] [This Lightweight Android Tablet Is 49% Off Right Now](https://lifehacker.com/entertainment/samsung-galaxy-tab-s6-lite-sale)
 - [Dev.to/JS] [Do you want to see me?](https://dev.to/meddydoll56/do-you-want-to-see-me-4g6j)
@@ -41,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript - Diagonal Sum of Matrix &lpar;Multidimensional Array &rpar;](https://dev.to/swapnanilwebdeveloper/javascript-diagonal-sum-of-matrix-multidimensional-array--3plh)
 - [Dev.to/JS] [10 Node.js Boilerplate Code Snippets Every Developer Needs](https://dev.to/get_pieces/10-nodejs-boilerplate-code-snippets-every-developer-needs-pg3)
 - [Dev.to/JS] [Potential React 19 Features and Trends](https://dev.to/mescius/potential-react-19-features-and-trends-eei)
-- [Dev.to/JS] [mua chung BookBolt](https://dev.to/wsovn112/mua-chung-bookbolt-4jnc)
-- [Dev.to/JS] [Web Security 101: Understanding and Mitigating Risks of Broken Authentication](https://dev.to/sukhejavarun/web-security-101-understanding-and-mitigating-risks-of-broken-authentication-13ll)
 - [Lifehacker] [How to Become More Creative As an Adult &lpar;Even If You Think You’re Not Creative&rpar;](https://lifehacker.com/health/how-to-become-more-creative-as-an-adult)
 - [Lifehacker] [You Can Get Microsoft 365 on Sale for $45 Right Now](https://lifehacker.com/tech/microsoft-365-sale)
 - [Lifehacker] [Tips to Pay Off Loans Early](https://lifehacker.com/money/what-to-know-when-paying-loan-early)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The First Seven Financial Steps to Take Immediately After Being Laid Off](https://lifehacker.com/money/most-important-financial-steps-after-being-laid-off)
 - [Lifehacker] [These Eero Mesh Wifi Systems Are up to 60% Off Right Now](https://lifehacker.com/tech/eero-mesh-wi-fi-router-sale)
 - [Lifehacker] [What Actually Worked When I Was Cleaning Old Dirty Sneakers](https://lifehacker.com/home/how-to-clean-dirty-old-sneakers)
-- [Lifehacker] [What Happens When You Use the Vision Pro Without the Light Seal](https://lifehacker.com/tech/you-should-try-vision-pro-without-the-light-seal)
-- [Lifehacker] [Why a Flat Fee Real Estate Broker Probably Isn’t Worth It](https://lifehacker.com/money/why-a-flat-fee-real-estate-broker-probably-isnt-worth-it)
-- [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
-- [Lifehacker] [The Best Time to Cancel an App Subscription Is Immediately](https://lifehacker.com/tech/cancel-unwanted-app-store-subscriptions)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Happens When You Use the Vision Pro Without the Light Seal](https://lifehacker.com/tech/you-should-try-vision-pro-without-the-light-seal)<!-- TECH-POSTS:END -->
 
 ---
 
