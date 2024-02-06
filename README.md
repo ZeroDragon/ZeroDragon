@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pagination and Pull to refresh in Flatlist with custom hooks](https://dev.to/ajmal_hasan/pagination-and-pull-to-refresh-in-flatlist-with-custom-hooks-iop)
+- [Dev.to/JS] [Released a visual guide to functional programming in JS](https://dev.to/learnwithparam/released-a-visual-guide-to-functional-programming-in-js-2j3b)
+- [Lifehacker] [This Lightweight Android Tablet Is 49% Off Right Now](https://lifehacker.com/entertainment/samsung-galaxy-tab-s6-lite-sale)
+- [Dev.to/JS] [Do you want to see me?](https://dev.to/meddydoll56/do-you-want-to-see-me-4g6j)
+- [Lifehacker] [The Newest Amazon Echo Show 8 Is 40% Off Right Now](https://lifehacker.com/tech/best-echo-show-8-deal)
 - [Dev.to/JS] [Mongoose Schema Virtuals ,Difficulty Extreme level , Challange Yourself](https://dev.to/swapnanilwebdeveloper/mongoose-schema-virtuals-difficulty-extreme-level-challange-yourself-4c13)
 - [Dev.to/JS] [Mongoose Tutorial with Code and challenges # This code explains Virtuals in Schema/Model...](https://dev.to/swapnanilwebdeveloper/mongoose-tutorial-with-code-and-challenges-this-code-explains-virtuals-in-schemamodel-270h)
+- [Lifehacker] [Bluesky Is No Longer Invite Only, If Anyone Cares](https://lifehacker.com/tech/anyone-can-sign-up-for-bluesky-now-but-should-you)
 - [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
 - [Dev.to/JS] [Level up: 10 Tips for Writing Better Code](https://dev.to/hankadev/level-up-10-tips-for-writing-better-code-3f67)
 - [Lifehacker] [Use the ‘Pantry Challenge’ to Declutter More Than Your Pantry](https://lifehacker.com/home/how-to-use-the-three-rivers-pantry-challenge-to-declutter)
@@ -37,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Potential React 19 Features and Trends](https://dev.to/mescius/potential-react-19-features-and-trends-eei)
 - [Dev.to/JS] [mua chung BookBolt](https://dev.to/wsovn112/mua-chung-bookbolt-4jnc)
 - [Dev.to/JS] [Web Security 101: Understanding and Mitigating Risks of Broken Authentication](https://dev.to/sukhejavarun/web-security-101-understanding-and-mitigating-risks-of-broken-authentication-13ll)
-- [Dev.to/JS] [Hi, coders - Try a JavaScript Object code ..](https://dev.to/swapnanilwebdeveloper/hi-coders-try-a-javascript-object-code--4fc5)
 - [Lifehacker] [How to Become More Creative As an Adult &lpar;Even If You Think You’re Not Creative&rpar;](https://lifehacker.com/health/how-to-become-more-creative-as-an-adult)
-- [Dev.to/JS] [Best Practices for Angular Developers in 2024](https://dev.to/mescius/best-practices-for-angular-developers-in-2024-4hi1)
-- [Dev.to/JS] [Choosing a FE framework in 2024, a practical tale](https://dev.to/n1tzan/choosing-a-fe-framework-in-2024-a-practical-tale-19ej)
 - [Lifehacker] [You Can Get Microsoft 365 on Sale for $45 Right Now](https://lifehacker.com/tech/microsoft-365-sale)
 - [Lifehacker] [Tips to Pay Off Loans Early](https://lifehacker.com/money/what-to-know-when-paying-loan-early)
 - [Lifehacker] [How to Wash &lpar;and Dry&rpar; a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Happens When You Use the Vision Pro Without the Light Seal](https://lifehacker.com/tech/you-should-try-vision-pro-without-the-light-seal)
 - [Lifehacker] [Why a Flat Fee Real Estate Broker Probably Isn’t Worth It](https://lifehacker.com/money/why-a-flat-fee-real-estate-broker-probably-isnt-worth-it)
 - [Lifehacker] [The Best Sales on Video Games Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
-- [Lifehacker] [The Best Time to Cancel an App Subscription Is Immediately](https://lifehacker.com/tech/cancel-unwanted-app-store-subscriptions)
-- [Lifehacker] [When It&#39;s OK to Use Lumber That’s Been Stored Outside &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/home/when-is-it-okay-to-use-lumber-thats-been-stored-outside)
-- [Lifehacker] [The Dremel Versa Power Scrubber Kit Is a Power Tool for Your Pots and Pans](https://lifehacker.com/home/dremel-versa-scrub-daddy-kit-review)
-- [Lifehacker] [The True Cost of a PS5](https://lifehacker.com/tech/how-much-a-ps5-really-costs)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Time to Cancel an App Subscription Is Immediately](https://lifehacker.com/tech/cancel-unwanted-app-store-subscriptions)<!-- TECH-POSTS:END -->
 
 ---
 
