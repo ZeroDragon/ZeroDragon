@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Node.js CLI: Best Practices and Tips](https://dev.to/boudydegeer/mastering-nodejs-cli-best-practices-and-tips-7j5)
+- [Dev.to/JS] [Is Angular.js or Ember.js the better choice for JavaScript frameworks?](https://dev.to/danishhafeez/is-angularjs-or-emberjs-the-better-choice-for-javascript-frameworks-294e)
 - [Dev.to/JS] [Exploring the World of Internet Protocols: A Journey from HTTP to Databases](https://dev.to/keploy/exploring-the-world-of-internet-protocols-a-journey-from-http-to-databases-2gbj)
 - [Dev.to/JS] [Unveiling Fitspresso: A Comprehensive Review of the Ultimate Fitness Companion](https://dev.to/reviewsfitspresso/unveiling-fitspresso-a-comprehensive-review-of-the-ultimate-fitness-companion-368)
 - [Dev.to/JS] [Code Compatibility With React](https://dev.to/mrghubba/code-compatibility-with-react-57bc)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-6-2024)
 - [Dev.to/JS] [🌟⚒️ How to Learn Web Development and Land a Job Faster in 2024 &lpar;Beginners&#39; Guide With Free Resources&rpar;](https://dev.to/chaoocharles/how-to-learn-web-development-and-land-a-job-faster-in-2024-beginners-guide-with-free-resources-3074)
 - [Dev.to/JS] [5 sites para se manter &#39;afiado&#39; em JS](https://dev.to/marciopolicarpo/5-sites-para-se-manter-afiado-em-js-3aij)
-- [Dev.to/JS] [10 most asked kafka](https://dev.to/akmaurya31/10-most-asked-kafka-3336)
-- [Dev.to/JS] [Kafka vs Redis vs Jenkins vs mongodb](https://dev.to/akmaurya31/kafka-vs-redis-vs-jenkins-vs-mongodb-92j)
 - [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)
 - [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)
 - [Lifehacker] [You Can Now Create AI-generated Images for Free in Google Bard](https://lifehacker.com/tech/how-to-create-images-in-google-bard)
