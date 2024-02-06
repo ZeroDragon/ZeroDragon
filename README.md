@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mongoose Schema Virtuals ,Difficulty Extreme level , Challange Yourself](https://dev.to/swapnanilwebdeveloper/mongoose-schema-virtuals-difficulty-extreme-level-challange-yourself-4c13)
+- [Dev.to/JS] [Mongoose Tutorial with Code and challenges # This code explains Virtuals in Schema/Model...](https://dev.to/swapnanilwebdeveloper/mongoose-tutorial-with-code-and-challenges-this-code-explains-virtuals-in-schemamodel-270h)
+- [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
 - [Dev.to/JS] [Level up: 10 Tips for Writing Better Code](https://dev.to/hankadev/level-up-10-tips-for-writing-better-code-3f67)
+- [Lifehacker] [Use the ‘Pantry Challenge’ to Declutter More Than Your Pantry](https://lifehacker.com/home/how-to-use-the-three-rivers-pantry-challenge-to-declutter)
 - [Dev.to/JS] [Cool Animated Codepen demos](https://dev.to/pinky057/cool-animated-codepen-demos-1436)
 - [Dev.to/JS] [JavaScript - Diagonal Sum of Matrix &lpar;Multidimensional Array &rpar;](https://dev.to/swapnanilwebdeveloper/javascript-diagonal-sum-of-matrix-multidimensional-array--3plh)
 - [Dev.to/JS] [10 Node.js Boilerplate Code Snippets Every Developer Needs](https://dev.to/get_pieces/10-nodejs-boilerplate-code-snippets-every-developer-needs-pg3)
@@ -37,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Become More Creative As an Adult &lpar;Even If You Think You’re Not Creative&rpar;](https://lifehacker.com/health/how-to-become-more-creative-as-an-adult)
 - [Dev.to/JS] [Best Practices for Angular Developers in 2024](https://dev.to/mescius/best-practices-for-angular-developers-in-2024-4hi1)
 - [Dev.to/JS] [Choosing a FE framework in 2024, a practical tale](https://dev.to/n1tzan/choosing-a-fe-framework-in-2024-a-practical-tale-19ej)
-- [Dev.to/JS] [Discovering JavaScript&#39;s Hidden Secrets: Simplifying Data Structures &amp; Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-simplifying-data-structures-algorithms-2ok5)
 - [Lifehacker] [You Can Get Microsoft 365 on Sale for $45 Right Now](https://lifehacker.com/tech/microsoft-365-sale)
-- [Dev.to/JS] [React Fundamentals part 1 : The Basic javascript &quot;Hello world&quot;](https://dev.to/maissenayed/react-fundamentals-part-1-the-basic-javascript-hello-world-1hjd)
 - [Lifehacker] [Tips to Pay Off Loans Early](https://lifehacker.com/money/what-to-know-when-paying-loan-early)
 - [Lifehacker] [How to Wash &lpar;and Dry&rpar; a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
 - [Lifehacker] [Amazon Is Having a Big Tool Sale Right Now](https://lifehacker.com/home/amazon-tool-sales)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Time to Cancel an App Subscription Is Immediately](https://lifehacker.com/tech/cancel-unwanted-app-store-subscriptions)
 - [Lifehacker] [When It&#39;s OK to Use Lumber That’s Been Stored Outside &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/home/when-is-it-okay-to-use-lumber-thats-been-stored-outside)
 - [Lifehacker] [The Dremel Versa Power Scrubber Kit Is a Power Tool for Your Pots and Pans](https://lifehacker.com/home/dremel-versa-scrub-daddy-kit-review)
-- [Lifehacker] [The True Cost of a PS5](https://lifehacker.com/tech/how-much-a-ps5-really-costs)
-- [Lifehacker] [All the Different Ways to Find Your Lost AirPods](https://lifehacker.com/tech/how-to-find-your-lost-airpods)
-- [Lifehacker] [All the Gear You Need to View the Solar Eclipse on April 8](https://lifehacker.com/science/everything-you-need-to-view-the-solar-eclipse-safely)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The True Cost of a PS5](https://lifehacker.com/tech/how-much-a-ps5-really-costs)<!-- TECH-POSTS:END -->
 
 ---
 
