@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Top 5 CMS Alternatives to Strapi: Advantages and Real-World Applications](https://dev.to/nitin-rachabathuni/exploring-top-5-cms-alternatives-to-strapi-advantages-and-real-world-applications-5ck4)
+- [Dev.to/JS] [He married his friend&#39;s wife because he could not pay the loan](https://dev.to/any123/he-married-his-friends-wife-because-he-could-not-pay-the-loan-4epl)
 - [Dev.to/JS] [🔟 Short and Sweet JavaScript One-Liners for Mastery ⚡️🚀](https://dev.to/arjuncodess/short-and-sweet-javascript-one-liners-for-mastery-m74)
+- [Dev.to/JS] [The Best Way to Handle Promises in React](https://dev.to/marileon/the-best-way-to-handle-promises-in-react-5399)
+- [Lifehacker] [Why You Can’t Watch 3D Porn on the Apple Vision Pro &lpar;Yet&rpar;](https://lifehacker.com/tech/you-cant-watch-3d-porn-on-apple-vision-pro-yet)
 - [Dev.to/JS] [Data Science Applications in Real-world Business Scenarios.](https://dev.to/ashmeera/data-science-applications-in-real-world-business-scenarios-5d8)
 - [Dev.to/JS] [The Future of Interactive Gaming: Python VR Programming Essentials](https://dev.to/vagamjohn/the-future-of-interactive-gaming-python-vr-programming-essentials-5059)
 - [Dev.to/JS] [Why Should Lodash be Your JavaScript Project&#39;s Go-To Library?](https://dev.to/webcraft-notes/why-should-lodash-be-your-javascript-projects-go-to-library-2pnm)
@@ -37,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Set Up a VPN on Your iPhone](https://lifehacker.com/tech/how-to-set-up-vpn-on-iphone)
 - [Dev.to/JS] [Netflix Tech Stack &lpar;CI/CD Pipeline&rpar;](https://dev.to/eddieadams/netflix-tech-stack-cicd-pipeline-1mf0)
 - [Dev.to/JS] [Full stack JS-React-Express-SQL project](https://dev.to/imcamiloup/full-stack-js-react-express-sql-project-5803)
-- [Dev.to/JS] [Releasing LightningChart JS v.5.1](https://dev.to/lightningchart/releasing-lightningchart-js-v51-in3)
 - [Lifehacker] [That Message From the IRS About Your Refund Is a Scam](https://lifehacker.com/money/irs-email-and-text-message-scam)
-- [Dev.to/JS] [Scaling Apache Airbyte for Enterprise Workloads](https://dev.to/vhelical/scaling-apache-airbyte-for-enterprise-workloads-2a5p)
-- [Dev.to/JS] [Understanding Hydration in Next.js](https://dev.to/rajaerobinson/understanding-hydration-in-nextjs-b5m)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-6-2024)
 - [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)
 - [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Five Gardening Tasks You Should Complete in February](https://lifehacker.com/home/february-gardening-tasks)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 5, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-5-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 4, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-4-2024)
-- [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)
-- [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Impact of Custom Medical Software on Healthcare](https://www.thecrazyprogrammer.com/2024/02/impact-of-custom-medical-software-on-healthcare.html)<!-- TECH-POSTS:END -->
 
 ---
 
