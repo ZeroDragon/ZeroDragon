@@ -26,22 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Potential React 19 Features and Trends](https://dev.to/mescius/potential-react-19-features-and-trends-eei)
+- [Dev.to/JS] [mua chung BookBolt](https://dev.to/wsovn112/mua-chung-bookbolt-4jnc)
+- [Dev.to/JS] [Web Security 101: Understanding and Mitigating Risks of Broken Authentication](https://dev.to/sukhejavarun/web-security-101-understanding-and-mitigating-risks-of-broken-authentication-13ll)
+- [Dev.to/JS] [Hi, coders - Try a JavaScript Object code ..](https://dev.to/swapnanilwebdeveloper/hi-coders-try-a-javascript-object-code--4fc5)
+- [Dev.to/JS] [Best Practices for Angular Developers in 2024](https://dev.to/mescius/best-practices-for-angular-developers-in-2024-4hi1)
+- [Dev.to/JS] [Choosing a FE framework in 2024, a practical tale](https://dev.to/n1tzan/choosing-a-fe-framework-in-2024-a-practical-tale-19ej)
+- [Dev.to/JS] [Discovering JavaScript&#39;s Hidden Secrets: Simplifying Data Structures &amp; Algorithms.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-simplifying-data-structures-algorithms-2ok5)
 - [Dev.to/JS] [React Fundamentals part 1 : The Basic javascript &quot;Hello world&quot;](https://dev.to/maissenayed/react-fundamentals-part-1-the-basic-javascript-hello-world-1hjd)
 - [Dev.to/JS] [Introducing @nx/nuxt: Enhanced Nuxt.js Support in Nx](https://dev.to/nx/introducing-nxnuxt-enhanced-nuxtjs-support-in-nx-ai7)
+- [Lifehacker] [Tips to Pay Off Loans Early](https://lifehacker.com/money/what-to-know-when-paying-loan-early)
 - [Dev.to/JS] [Prime Number](https://dev.to/avinashrepo/prime-number-3l6c)
 - [Dev.to/JS] [10 example of filter using in js](https://dev.to/avinashrepo/10-example-of-filter-using-in-js-5h6i)
 - [Dev.to/JS] [XLN Audio – Addictive Keys Complete &lpar;Windows&rpar;Download](https://dev.to/pluginsforest5/xln-audio-addictive-keys-complete-windowsdownload-4g85)
-- [Dev.to/JS] [Depth of Reactive Dependencies](https://dev.to/ninjin/depth-of-reactive-dependencies-357j)
 - [Lifehacker] [How to Wash &lpar;and Dry&rpar; a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
-- [Dev.to/JS] [Exploring Top 5 CMS Alternatives to Strapi: Advantages and Real-World Applications](https://dev.to/nitin-rachabathuni/exploring-top-5-cms-alternatives-to-strapi-advantages-and-real-world-applications-5ck4)
-- [Dev.to/JS] [He married his friend&#39;s wife because he could not pay the loan](https://dev.to/any123/he-married-his-friends-wife-because-he-could-not-pay-the-loan-4epl)
 - [Lifehacker] [Amazon Is Having a Big Tool Sale Right Now](https://lifehacker.com/home/amazon-tool-sales)
 - [Lifehacker] [ChatGPT Might Not Be As Secure As You Think It Is](https://lifehacker.com/tech/how-to-keep-your-chatgpt-account-secure)
-- [Dev.to/JS] [🔟 Short and Sweet JavaScript One-Liners for Mastery ⚡️🚀](https://dev.to/arjuncodess/short-and-sweet-javascript-one-liners-for-mastery-m74)
-- [Dev.to/JS] [The Best Way to Handle Promises in React](https://dev.to/marileon/the-best-way-to-handle-promises-in-react-5399)
 - [Lifehacker] [Why You Can’t Watch 3D Porn on the Apple Vision Pro &lpar;Yet&rpar;](https://lifehacker.com/tech/you-cant-watch-3d-porn-on-apple-vision-pro-yet)
-- [Dev.to/JS] [Data Science Applications in Real-world Business Scenarios.](https://dev.to/ashmeera/data-science-applications-in-real-world-business-scenarios-5d8)
-- [Dev.to/JS] [The Future of Interactive Gaming: Python VR Programming Essentials](https://dev.to/vagamjohn/the-future-of-interactive-gaming-python-vr-programming-essentials-5059)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Hurkle-Durkling&#39;?](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-hurkle-durkling)
 - [Lifehacker] [How to Set Up a VPN on Your iPhone](https://lifehacker.com/tech/how-to-set-up-vpn-on-iphone)
 - [Lifehacker] [That Message From the IRS About Your Refund Is a Scam](https://lifehacker.com/money/irs-email-and-text-message-scam)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Different Ways to Find Your Lost AirPods](https://lifehacker.com/tech/how-to-find-your-lost-airpods)
 - [Lifehacker] [All the Gear You Need to View the Solar Eclipse on April 8](https://lifehacker.com/science/everything-you-need-to-view-the-solar-eclipse-safely)
 - [Lifehacker] [The OnePlus 12R Is Solid, but It’s No ‘Flagship Killer’](https://lifehacker.com/tech/oneplus-12r-review)
-- [Lifehacker] [You Can Get This Epic Flight 4K Drone on Sale for Under $100 Right Now](https://lifehacker.com/epic-flight-drone-sale)
-- [Lifehacker] [The Five Gardening Tasks You Should Complete in February](https://lifehacker.com/home/february-gardening-tasks)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Epic Flight 4K Drone on Sale for Under $100 Right Now](https://lifehacker.com/epic-flight-drone-sale)<!-- TECH-POSTS:END -->
 
 ---
 
