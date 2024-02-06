@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From JS Basics to Actually Building Stuff](https://dev.to/jaredcodes/from-js-basics-to-actually-building-stuff-55i7)
 - [Dev.to/JS] [Pay Per Call AI Review – Revolutionary Income with Pay Per Call AI Best!](https://dev.to/nusrat1111/pay-per-call-ai-review-revolutionary-income-with-pay-per-call-ai-best-2f6)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-6-2024)
 - [Dev.to/JS] [🌟⚒️ How to Learn Web Development and Land a Job Faster in 2024 &lpar;Beginners&#39; Guide With Free Resources&rpar;](https://dev.to/chaoocharles/how-to-learn-web-development-and-land-a-job-faster-in-2024-beginners-guide-with-free-resources-3074)
 - [Dev.to/JS] [5 sites para se manter &#39;afiado&#39; em JS](https://dev.to/marciopolicarpo/5-sites-para-se-manter-afiado-em-js-3aij)
 - [Dev.to/JS] [10 most asked kafka](https://dev.to/akmaurya31/10-most-asked-kafka-3336)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Podcast Miniseries That Explore Black History and Culture](https://lifehacker.com/entertainment/best-podcasts-miniseries-black-history-culture)
 - [Lifehacker] [The Galaxy S24 Has Problems](https://lifehacker.com/tech/galaxy-s24-launch-problems)
 - [Lifehacker] [The First Seven Financial Steps to Take Immediately After Being Laid Off](https://lifehacker.com/money/most-important-financial-steps-after-being-laid-off)
-- [Dev.to/JS] [Episode 24/05: Q&amp;A with Mark &amp; Jeremy, Nx 18, TypeScript 5.4](https://dev.to/this-is-angular/episode-2405-qa-with-mark-jeremy-nx-18-typescript-54-2lb2)
 - [Lifehacker] [These Eero Mesh Wifi Systems Are up to 60% Off Right Now](https://lifehacker.com/tech/eero-mesh-wi-fi-router-sale)
 - [Lifehacker] [What Actually Worked When I Was Cleaning Old Dirty Sneakers](https://lifehacker.com/home/how-to-clean-dirty-old-sneakers)
 - [Lifehacker] [What Happens When You Use the Vision Pro Without the Light Seal](https://lifehacker.com/tech/you-should-try-vision-pro-without-the-light-seal)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best U.S. Cities for Tech Jobs &lpar;Aside From the Obvious&rpar;](https://lifehacker.com/tech/the-best-unexpected-us-cities-for-tech-jobs)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 3, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-3-2024)
-- [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
-- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)<!-- TECH-POSTS:END -->
 
 ---
 
