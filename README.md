@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Beat &#39;Carlson&#39;s Law&#39; to Be More Productive](https://lifehacker.com/work/how-to-beat-carlsons-law-to-be-more-productive)
+- [Lifehacker] [For Speed and Ease, Consider the Microwaved &#39;Baked&#39; Brie](https://lifehacker.com/food-drink/how-to-make-microwaved-baked-brie)
 - [Dev.to/JS] [Age Calculator Using HTML, CSS, and JavaScript: A Beginner’s Guide](https://dev.to/javacodepoint/age-calculator-using-html-css-and-javascript-a-beginners-guide-45ef)
+- [Lifehacker] [Disney+ Is Cracking Down on Password Sharing, but Here’s How to Do It Anyway](https://lifehacker.com/entertainment/how-to-get-around-disneys-password-sharing-restrctions)
 - [Dev.to/JS] [Types of CSS: inline, internal, External with Example](https://dev.to/ranjankumar1231/types-of-css-inline-internal-external-with-example-4hdg)
+- [Lifehacker] [The Best Streaming Deals for February 2024](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [13 of the Best ‘Galentine’s Day’ Movies to Stream Now](https://lifehacker.com/entertainment/best-galentines-day-movies-streaming-now)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/theresahansene56/buy-old-gmail-accounts-4aic)
 - [Dev.to/JS] [Image Carousel using JavaScript, HTML, CSS](https://dev.to/impradhyumn/image-carousel-using-javascript-html-css-48ln)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Become More Creative As an Adult &lpar;Even If You Think You’re Not Creative&rpar;](https://lifehacker.com/health/how-to-become-more-creative-as-an-adult)
 - [Lifehacker] [You Can Get Microsoft 365 on Sale for $45 Right Now](https://lifehacker.com/tech/microsoft-365-sale)
 - [Lifehacker] [Tips to Pay Off Loans Early](https://lifehacker.com/money/what-to-know-when-paying-loan-early)
-- [Lifehacker] [How to Wash &lpar;and Dry&rpar; a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
-- [Lifehacker] [Amazon Is Having a Big Tool Sale Right Now](https://lifehacker.com/home/amazon-tool-sales)
-- [Lifehacker] [ChatGPT Might Not Be As Secure As You Think It Is](https://lifehacker.com/tech/how-to-keep-your-chatgpt-account-secure)
-- [Lifehacker] [Why You Can’t Watch 3D Porn on the Apple Vision Pro &lpar;Yet&rpar;](https://lifehacker.com/tech/you-cant-watch-3d-porn-on-apple-vision-pro-yet)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Hurkle-Durkling&#39;?](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-hurkle-durkling)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Wash &lpar;and Dry&rpar; a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)<!-- TECH-POSTS:END -->
 
 ---
 
