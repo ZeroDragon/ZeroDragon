@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Types of CSS: inline, internal, External with Example](https://dev.to/ranjankumar1231/types-of-css-inline-internal-external-with-example-4hdg)
+- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/theresahansene56/buy-old-gmail-accounts-4aic)
+- [Dev.to/JS] [Image Carousel using JavaScript, HTML, CSS](https://dev.to/impradhyumn/image-carousel-using-javascript-html-css-48ln)
 - [Dev.to/JS] [Internationalization with i18next + react-i18n 🌎](https://dev.to/guim0/internationalization-with-i18next-react-i18n-4m28)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/theresahansene56/buy-verified-cash-app-account-3h5d)
 - [Dev.to/JS] [Building a Simple Weather App with HTML, CSS, JavaScript &amp; OpenWeather Api](https://dev.to/pixelgig/building-a-simple-weather-app-with-html-css-javascript-openweather-api-55hh)
@@ -35,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/theresahansene56/buy-google-reviews-54m9)
 - [Dev.to/JS] [What breakthroughs are fueling the growth of biotechnology and bioinformatics?](https://dev.to/yagnapandya9/what-breakthroughs-are-fueling-the-growth-of-biotechnology-and-bioinformatics-4p4p)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/theresahansene56/buy-google-voice-accounts-3gko)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/theresahansene56/buy-google-5-star-reviews-19io)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/theresahansene56/buy-verified-paxful-account-10g8)
+- [Lifehacker] [Seven Gadgets That Will Clean Your House &lpar;That Aren’t Robot Vacuums&rpar;](https://lifehacker.com/home/best-gadgets-to-clean-your-home)
 - [Lifehacker] [This Is How Air Fryers Really Work](https://lifehacker.com/food-drink/how-air-fryers-work)
-- [Dev.to/JS] [Różnice między var, let i const w JavaScript](https://dev.to/maksszymczak/roznice-miedzy-var-let-i-const-w-javascript-2dmg)
 - [Lifehacker] [The Apple Watch SE Is Just $189 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
 - [Lifehacker] [Wall Paneling Isn’t Just a Relic From the ’70s](https://lifehacker.com/home/benefits-of-wall-paneling)
 - [Lifehacker] [If You Forget the Passcode to Your Apple Vision Pro, You’re Kinda Screwed](https://lifehacker.com/tech/forgot-passcode-apple-vision-pro)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [ChatGPT Might Not Be As Secure As You Think It Is](https://lifehacker.com/tech/how-to-keep-your-chatgpt-account-secure)
 - [Lifehacker] [Why You Can’t Watch 3D Porn on the Apple Vision Pro &lpar;Yet&rpar;](https://lifehacker.com/tech/you-cant-watch-3d-porn-on-apple-vision-pro-yet)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Hurkle-Durkling&#39;?](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-hurkle-durkling)
-- [Lifehacker] [How to Set Up a VPN on Your iPhone](https://lifehacker.com/tech/how-to-set-up-vpn-on-iphone)
-- [Lifehacker] [That Message From the IRS About Your Refund Is a Scam](https://lifehacker.com/money/irs-email-and-text-message-scam)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Set Up a VPN on Your iPhone](https://lifehacker.com/tech/how-to-set-up-vpn-on-iphone)<!-- TECH-POSTS:END -->
 
 ---
 
