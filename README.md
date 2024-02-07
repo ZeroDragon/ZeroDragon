@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Async and Await in JavaScript: A Comprehensive Guide](https://dev.to/mktheitguy/async-and-await-in-javascript-a-comprehensive-guide-1oka)
+- [Lifehacker] [OpenAI Just Made It Easier to Tell If an Image Was Made by DALL-E 3](https://lifehacker.com/tech/openai-adds-c2pa-watermarks-to-dall-e-3)
+- [Lifehacker] [Apple Has a New Open-Source AI Image Editor](https://lifehacker.com/tech/apple-has-a-new-open-source-ai-image-editor)
 - [Dev.to/JS] [VScode Extension Spotlight : Random Everything](https://dev.to/fomonyuytar/vscode-extension-spotlight-random-everything-2g2c)
 - [Lifehacker] [How to Cry More &lpar;and Why You Should&rpar;](https://lifehacker.com/health/how-to-cry-more-and-why)
 - [Lifehacker] [How Married Couples Can Double Their Retirement Tax Breaks](https://lifehacker.com/money/how-a-spousal-ira-can-double-your-retirement-tax-breaks)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AI for Web Devs: Deploying Your AI App to Production](https://dev.to/austingil/ai-for-web-devs-deploying-your-ai-app-to-production-5beb)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/theresahansene56/buy-glassdoor-reviews-2i87)
 - [Dev.to/JS] [Mastering GitHub Pages: A Step-by-Step Guide for Deploying Your React App with Vite](https://dev.to/0xdeerah/mastering-github-pages-a-step-by-step-guide-for-deploying-your-react-app-with-vite-44jj)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/theresahansene56/buy-google-reviews-54m9)
 - [Lifehacker] [Seven Gadgets That Will Clean Your House &lpar;That Aren’t Robot Vacuums&rpar;](https://lifehacker.com/home/best-gadgets-to-clean-your-home)
 - [Lifehacker] [This Is How Air Fryers Really Work](https://lifehacker.com/food-drink/how-air-fryers-work)
 - [Lifehacker] [The Apple Watch SE Is Just $189 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Newest Amazon Echo Show 8 Is 40% Off Right Now](https://lifehacker.com/tech/best-echo-show-8-deal)
 - [Lifehacker] [Bluesky Is No Longer Invite Only, If Anyone Cares](https://lifehacker.com/tech/anyone-can-sign-up-for-bluesky-now-but-should-you)
 - [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
-- [Lifehacker] [Use the ‘Pantry Challenge’ to Declutter More Than Your Pantry](https://lifehacker.com/home/how-to-use-the-three-rivers-pantry-challenge-to-declutter)
-- [Lifehacker] [How to Become More Creative As an Adult &lpar;Even If You Think You’re Not Creative&rpar;](https://lifehacker.com/health/how-to-become-more-creative-as-an-adult)
-- [Lifehacker] [You Can Get Microsoft 365 on Sale for $45 Right Now](https://lifehacker.com/tech/microsoft-365-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the ‘Pantry Challenge’ to Declutter More Than Your Pantry](https://lifehacker.com/home/how-to-use-the-three-rivers-pantry-challenge-to-declutter)<!-- TECH-POSTS:END -->
 
 ---
 
