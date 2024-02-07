@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Choose Between Alexa and Google Home](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-home)
 - [Dev.to/JS] [Top uses](https://dev.to/avinashrepo/top-uses-3aj0)
+- [Lifehacker] [Mozilla Monitor Will Get Your Stolen Data Off the Internet, for a Price](https://lifehacker.com/tech/is-mozilla-monitor-plus-worth-it)
 - [Dev.to/JS] [Mongoose : Schema And Models / Multiple Documents insert by insertMany&lpar;&rpar;](https://dev.to/swapnanilwebdeveloper/mongoose-schema-and-models-multiple-documents-insert-by-insertmany-1k18)
 - [Lifehacker] [The OnePlus Buds 3 Sound Great, for the Price](https://lifehacker.com/tech/oneplus-buds-3-review)
 - [Lifehacker] [Yeah, You Can Totally Make Doughnuts Out of Bisquick](https://lifehacker.com/food-drink/easy-chocolate-glazed-doughnut-recipe)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Podcast Miniseries That Explore Black History and Culture](https://lifehacker.com/entertainment/best-podcasts-miniseries-black-history-culture)
 - [Lifehacker] [The Galaxy S24 Has Problems](https://lifehacker.com/tech/galaxy-s24-launch-problems)
 - [Lifehacker] [The First Seven Financial Steps to Take Immediately After Being Laid Off](https://lifehacker.com/money/most-important-financial-steps-after-being-laid-off)
-- [Lifehacker] [These Eero Mesh Wifi Systems Are up to 60% Off Right Now](https://lifehacker.com/tech/eero-mesh-wi-fi-router-sale)
-- [Lifehacker] [What Actually Worked When I Was Cleaning Old Dirty Sneakers](https://lifehacker.com/home/how-to-clean-dirty-old-sneakers)
-- [Lifehacker] [What Happens When You Use the Vision Pro Without the Light Seal](https://lifehacker.com/tech/you-should-try-vision-pro-without-the-light-seal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Eero Mesh Wifi Systems Are up to 60% Off Right Now](https://lifehacker.com/tech/eero-mesh-wi-fi-router-sale)<!-- TECH-POSTS:END -->
 
 ---
 
