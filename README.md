@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Age Calculator Using HTML, CSS, and JavaScript: A Beginner’s Guide](https://dev.to/javacodepoint/age-calculator-using-html-css-and-javascript-a-beginners-guide-45ef)
 - [Dev.to/JS] [Types of CSS: inline, internal, External with Example](https://dev.to/ranjankumar1231/types-of-css-inline-internal-external-with-example-4hdg)
+- [Lifehacker] [13 of the Best ‘Galentine’s Day’ Movies to Stream Now](https://lifehacker.com/entertainment/best-galentines-day-movies-streaming-now)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/theresahansene56/buy-old-gmail-accounts-4aic)
 - [Dev.to/JS] [Image Carousel using JavaScript, HTML, CSS](https://dev.to/impradhyumn/image-carousel-using-javascript-html-css-48ln)
 - [Dev.to/JS] [Internationalization with i18next + react-i18n 🌎](https://dev.to/guim0/internationalization-with-i18next-react-i18n-4m28)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering GitHub Pages: A Step-by-Step Guide for Deploying Your React App with Vite](https://dev.to/0xdeerah/mastering-github-pages-a-step-by-step-guide-for-deploying-your-react-app-with-vite-44jj)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/theresahansene56/buy-google-reviews-54m9)
 - [Dev.to/JS] [What breakthroughs are fueling the growth of biotechnology and bioinformatics?](https://dev.to/yagnapandya9/what-breakthroughs-are-fueling-the-growth-of-biotechnology-and-bioinformatics-4p4p)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/theresahansene56/buy-google-voice-accounts-3gko)
 - [Lifehacker] [Seven Gadgets That Will Clean Your House &lpar;That Aren’t Robot Vacuums&rpar;](https://lifehacker.com/home/best-gadgets-to-clean-your-home)
 - [Lifehacker] [This Is How Air Fryers Really Work](https://lifehacker.com/food-drink/how-air-fryers-work)
 - [Lifehacker] [The Apple Watch SE Is Just $189 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Is Having a Big Tool Sale Right Now](https://lifehacker.com/home/amazon-tool-sales)
 - [Lifehacker] [ChatGPT Might Not Be As Secure As You Think It Is](https://lifehacker.com/tech/how-to-keep-your-chatgpt-account-secure)
 - [Lifehacker] [Why You Can’t Watch 3D Porn on the Apple Vision Pro &lpar;Yet&rpar;](https://lifehacker.com/tech/you-cant-watch-3d-porn-on-apple-vision-pro-yet)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Hurkle-Durkling&#39;?](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-hurkle-durkling)
-- [Lifehacker] [How to Set Up a VPN on Your iPhone](https://lifehacker.com/tech/how-to-set-up-vpn-on-iphone)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Hurkle-Durkling&#39;?](https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-hurkle-durkling)<!-- TECH-POSTS:END -->
 
 ---
 
