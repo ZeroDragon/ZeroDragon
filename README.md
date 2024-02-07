@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Best WordPress AI Plugins to Try in 2024](https://dev.to/thenomadevel/7-best-wordpress-ai-plugins-to-try-in-2024-4kgf)
+- [Dev.to/JS] [How to set and customize horizontal and vertical scrollbars with CSS](https://dev.to/ghostaram/how-to-set-and-customize-horizontal-and-vertical-scrollbars-with-css-2f98)
+- [Dev.to/JS] [Development Cooperation](https://dev.to/jennyluan/development-cooperation-58in)
+- [Dev.to/JS] [Javascript devs: what&#39;s the output for this? 😀🛠️](https://dev.to/syedmuhammadaliraza/javascript-devs-whats-the-output-for-this-222)
 - [Dev.to/JS] [Code Sync - A Realtime Code Editor](https://dev.to/sahilatahar/code-sync-a-realtime-code-editor-2p8a)
 - [Dev.to/JS] [Move manifest.json to the output directory&#39;s parent in Vite 5](https://dev.to/tylerlwsmith/move-manifestjson-to-outdirs-parent-directory-in-vite-5-5fpf)
 - [Dev.to/JS] [Guru MOD Apk - Latest Apps &amp; Games Free For Android](https://dev.to/gurumodapkcom/guru-mod-apk-latest-apps-games-free-for-android-36je)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useEffect Practicle](https://dev.to/mern_practical/useeffect-practicle-1cal)
 - [Dev.to/JS] [Use JavaScript Proxy to warn of unknown properties](https://dev.to/phuocng/use-javascript-proxy-to-warn-of-unknown-properties-18gf)
 - [Dev.to/JS] [Axios Filter Map live exampe](https://dev.to/mern_practical/axios-filter-map-live-exampe-3ak6)
-- [Dev.to/JS] [Filter use in React](https://dev.to/mern_practical/filter-use-in-react-526f)
-- [Dev.to/JS] [Data Types](https://dev.to/mern_practical/data-types-99g)
-- [Dev.to/JS] [Rent Car Lombok: Exploring the Island Paradise on Wheels](https://dev.to/sewamobillombok/rent-car-lombok-exploring-the-island-paradise-on-wheels-202m)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-7-2024)
-- [Dev.to/JS] [Unlocking the Ultimate Thrills: A Deep Dive into SITUS138, Your Premier Online Casino in Singapore](https://dev.to/situs138/unlocking-the-ultimate-thrills-a-deep-dive-into-situs138-your-premier-online-casino-in-singapore-4h3j)
 - [Lifehacker] [Useful Siri Commands You Might Not Know About](https://lifehacker.com/tech/everything-you-can-tell-siri-to-do)
 - [Lifehacker] [All Apple AirPods Are on Sale Right Now](https://lifehacker.com/tech/apple-airpods-pro-sale)
 - [Lifehacker] [How to Choose Between Alexa and Google Home](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-home)
