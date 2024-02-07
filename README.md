@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guru MOD Apk - Latest Apps &amp; Games Free For Android](https://dev.to/gurumodapkcom/guru-mod-apk-latest-apps-games-free-for-android-36je)
+- [Dev.to/JS] [Leveraging Algolia for Enhanced Search Capabilities in React Applications](https://dev.to/nitin-rachabathuni/leveraging-algolia-for-enhanced-search-capabilities-in-react-applications-34c3)
+- [Dev.to/JS] [Atomicity of Reactive State Changes](https://dev.to/ninjin/atomicity-of-reactive-state-changes-2fbe)
+- [Dev.to/JS] [useEffect Practicle](https://dev.to/mern_practical/useeffect-practicle-1cal)
 - [Dev.to/JS] [Use JavaScript Proxy to warn of unknown properties](https://dev.to/phuocng/use-javascript-proxy-to-warn-of-unknown-properties-18gf)
 - [Dev.to/JS] [Axios Filter Map live exampe](https://dev.to/metaspaceavinash/axios-filter-map-live-exampe-3ak6)
 - [Dev.to/JS] [Filter use in React](https://dev.to/metaspaceavinash/filter-use-in-react-526f)
@@ -38,14 +42,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fingerprint your native runtime with @expo/fingerprint](https://dev.to/expo/fingerprint-your-native-runtime-with-expofingerprint-13hb)
 - [Lifehacker] [All Apple AirPods Are on Sale Right Now](https://lifehacker.com/tech/apple-airpods-pro-sale)
 - [Lifehacker] [How to Choose Between Alexa and Google Home](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-home)
-- [Dev.to/JS] [Top uses](https://dev.to/avinashrepo/top-uses-3aj0)
 - [Lifehacker] [Mozilla Monitor Will Get Your Stolen Data Off the Internet, for a Price](https://lifehacker.com/tech/is-mozilla-monitor-plus-worth-it)
-- [Dev.to/JS] [Mongoose : Schema And Models / Multiple Documents insert by insertMany&lpar;&rpar;](https://dev.to/swapnanilwebdeveloper/mongoose-schema-and-models-multiple-documents-insert-by-insertmany-1k18)
 - [Lifehacker] [The OnePlus Buds 3 Sound Great, for the Price](https://lifehacker.com/tech/oneplus-buds-3-review)
 - [Lifehacker] [Yeah, You Can Totally Make Doughnuts Out of Bisquick](https://lifehacker.com/food-drink/easy-chocolate-glazed-doughnut-recipe)
-- [Dev.to/JS] [Pagination and Pull to refresh in Flatlist with custom hooks](https://dev.to/ajmal_hasan/pagination-and-pull-to-refresh-in-flatlist-with-custom-hooks-iop)
 - [Lifehacker] [How to Spot a &#39;Catfish House&#39; &lpar;Before You Buy One&rpar;](https://lifehacker.com/money/catfish-house-danger-signs)
-- [Dev.to/JS] [Released a visual guide to functional programming in JS](https://dev.to/learnwithparam/released-a-visual-guide-to-functional-programming-in-js-2j3b)
 - [Lifehacker] [This Lightweight Android Tablet Is 49% Off Right Now](https://lifehacker.com/entertainment/samsung-galaxy-tab-s6-lite-sale)
 - [Lifehacker] [The Newest Amazon Echo Show 8 Is 40% Off Right Now](https://lifehacker.com/tech/best-echo-show-8-deal)
 - [Lifehacker] [Bluesky Is No Longer Invite Only, If Anyone Cares](https://lifehacker.com/tech/anyone-can-sign-up-for-bluesky-now-but-should-you)
