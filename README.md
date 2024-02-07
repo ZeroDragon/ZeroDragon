@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rent Car Lombok: Exploring the Island Paradise on Wheels](https://dev.to/sewamobillombok/rent-car-lombok-exploring-the-island-paradise-on-wheels-202m)
 - [Dev.to/JS] [Unlocking the Ultimate Thrills: A Deep Dive into SITUS138, Your Premier Online Casino in Singapore](https://dev.to/situs138/unlocking-the-ultimate-thrills-a-deep-dive-into-situs138-your-premier-online-casino-in-singapore-4h3j)
 - [Dev.to/JS] [Find&lpar;&rpar;](https://dev.to/avinashrepo/find-3a38)
 - [Lifehacker] [Useful Siri Commands You Might Not Know About](https://lifehacker.com/tech/everything-you-can-tell-siri-to-do)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
 - [Dev.to/JS] [Level up: 10 Tips for Writing Better Code](https://dev.to/hankadev/level-up-10-tips-for-writing-better-code-3f67)
 - [Lifehacker] [Use the ‘Pantry Challenge’ to Declutter More Than Your Pantry](https://lifehacker.com/home/how-to-use-the-three-rivers-pantry-challenge-to-declutter)
-- [Dev.to/JS] [Cool Animated Codepen demos](https://dev.to/pinky057/cool-animated-codepen-demos-1436)
 - [Lifehacker] [How to Become More Creative As an Adult &lpar;Even If You Think You’re Not Creative&rpar;](https://lifehacker.com/health/how-to-become-more-creative-as-an-adult)
 - [Lifehacker] [You Can Get Microsoft 365 on Sale for $45 Right Now](https://lifehacker.com/tech/microsoft-365-sale)
 - [Lifehacker] [Tips to Pay Off Loans Early](https://lifehacker.com/money/what-to-know-when-paying-loan-early)
