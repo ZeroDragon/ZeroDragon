@@ -26,11 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Essential Java Full Stack Developer Skills in 2024](https://dev.to/edenwheeler/10-essential-java-full-stack-developer-skills-in-2024-12bo)
+- [Dev.to/JS] [Testing Libraries](https://dev.to/mern_practical/testing-libraries-4o5o)
 - [Dev.to/JS] [Client-side rendering &lpar;CSR&rpar; and server-side rendering &lpar;SSR&rpar;](https://dev.to/mern_practical/client-side-rendering-csr-and-server-side-rendering-ssr-4lgf)
 - [Dev.to/JS] [React.js Key Concepts](https://dev.to/mern_practical/reactjs-key-concepts-3kf9)
 - [Dev.to/JS] [Angular &lpar;17+&rpar; Signals with stand-alone Shopping-Cart](https://dev.to/leolanese/angular-17-signals-with-stand-alone-shopping-cart-3oon)
-- [Dev.to/JS] [A-FRAME &lpar;BEGINNER&#39;S GUIDE&rpar;](https://dev.to/jacobdev/a-frame-beginners-guide-kfc)
-- [Dev.to/JS] [A-FRAME &lpar;BEGINNER&#39;S GUIDE&rpar;](https://dev.to/jacobdev/a-frame-beginners-guide-1m96)
 - [Dev.to/JS] [FITSPRESSO Reviews 2024 Side Effects WARNING! &lpar;Shocking Customer Complaints Exposed&rpar;](https://dev.to/myersbroen/fitspresso-reviews-2024-side-effects-warning-shocking-customer-complaints-exposed-1ifm)
 - [Dev.to/JS] [JavaScript Array Methods: Map vs Filter vs Redux](https://dev.to/sh20raj/understanding-javascript-array-methods-map-vs-filter-vs-redux-3jeo)
 - [Dev.to/JS] [A Beginner&#39;s Journey into Building a Weather App](https://dev.to/migsldev/a-beginners-journey-into-building-a-weather-app-423l)
