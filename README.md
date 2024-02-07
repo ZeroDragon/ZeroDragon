@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VScode Extension Spotlight : Random Everything](https://dev.to/fomonyuytar/vscode-extension-spotlight-random-everything-2g2c)
+- [Lifehacker] [How to Cry More &lpar;and Why You Should&rpar;](https://lifehacker.com/health/how-to-cry-more-and-why)
+- [Lifehacker] [How Married Couples Can Double Their Retirement Tax Breaks](https://lifehacker.com/money/how-a-spousal-ira-can-double-your-retirement-tax-breaks)
 - [Lifehacker] [Beat &#39;Carlson&#39;s Law&#39; to Be More Productive](https://lifehacker.com/work/how-to-beat-carlsons-law-to-be-more-productive)
 - [Lifehacker] [For Speed and Ease, Consider the Microwaved &#39;Baked&#39; Brie](https://lifehacker.com/food-drink/how-to-make-microwaved-baked-brie)
 - [Dev.to/JS] [Age Calculator Using HTML, CSS, and JavaScript: A Beginner’s Guide](https://dev.to/javacodepoint/age-calculator-using-html-css-and-javascript-a-beginners-guide-45ef)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/theresahansene56/buy-glassdoor-reviews-2i87)
 - [Dev.to/JS] [Mastering GitHub Pages: A Step-by-Step Guide for Deploying Your React App with Vite](https://dev.to/0xdeerah/mastering-github-pages-a-step-by-step-guide-for-deploying-your-react-app-with-vite-44jj)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/theresahansene56/buy-google-reviews-54m9)
-- [Dev.to/JS] [What breakthroughs are fueling the growth of biotechnology and bioinformatics?](https://dev.to/yagnapandya9/what-breakthroughs-are-fueling-the-growth-of-biotechnology-and-bioinformatics-4p4p)
 - [Lifehacker] [Seven Gadgets That Will Clean Your House &lpar;That Aren’t Robot Vacuums&rpar;](https://lifehacker.com/home/best-gadgets-to-clean-your-home)
 - [Lifehacker] [This Is How Air Fryers Really Work](https://lifehacker.com/food-drink/how-air-fryers-work)
 - [Lifehacker] [The Apple Watch SE Is Just $189 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
 - [Lifehacker] [Use the ‘Pantry Challenge’ to Declutter More Than Your Pantry](https://lifehacker.com/home/how-to-use-the-three-rivers-pantry-challenge-to-declutter)
 - [Lifehacker] [How to Become More Creative As an Adult &lpar;Even If You Think You’re Not Creative&rpar;](https://lifehacker.com/health/how-to-become-more-creative-as-an-adult)
-- [Lifehacker] [You Can Get Microsoft 365 on Sale for $45 Right Now](https://lifehacker.com/tech/microsoft-365-sale)
-- [Lifehacker] [Tips to Pay Off Loans Early](https://lifehacker.com/money/what-to-know-when-paying-loan-early)
-- [Lifehacker] [How to Wash &lpar;and Dry&rpar; a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Microsoft 365 on Sale for $45 Right Now](https://lifehacker.com/tech/microsoft-365-sale)<!-- TECH-POSTS:END -->
 
 ---
 
