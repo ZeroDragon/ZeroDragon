@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Biggest Facial Recognition Myths](https://dev.to/luxandcloud/the-biggest-facial-recognition-myths-5d27)
+- [Dev.to/JS] [compose middleware](https://dev.to/leokun/compose-middleware-1cc)
 - [Dev.to/JS] [7 Best WordPress AI Plugins to Try in 2024](https://dev.to/thenomadevel/7-best-wordpress-ai-plugins-to-try-in-2024-4kgf)
 - [Dev.to/JS] [How to set and customize horizontal and vertical scrollbars with CSS](https://dev.to/ghostaram/how-to-set-and-customize-horizontal-and-vertical-scrollbars-with-css-2f98)
 - [Dev.to/JS] [Development Cooperation](https://dev.to/jennyluan/development-cooperation-58in)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leveraging Algolia for Enhanced Search Capabilities in React Applications](https://dev.to/nitin-rachabathuni/leveraging-algolia-for-enhanced-search-capabilities-in-react-applications-34c3)
 - [Dev.to/JS] [Atomicity of Reactive State Changes](https://dev.to/ninjin/atomicity-of-reactive-state-changes-2fbe)
 - [Dev.to/JS] [useEffect Practicle](https://dev.to/mern_practical/useeffect-practicle-1cal)
-- [Dev.to/JS] [Use JavaScript Proxy to warn of unknown properties](https://dev.to/phuocng/use-javascript-proxy-to-warn-of-unknown-properties-18gf)
-- [Dev.to/JS] [Axios Filter Map live exampe](https://dev.to/mern_practical/axios-filter-map-live-exampe-3ak6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-7-2024)
 - [Lifehacker] [Useful Siri Commands You Might Not Know About](https://lifehacker.com/tech/everything-you-can-tell-siri-to-do)
 - [Lifehacker] [All Apple AirPods Are on Sale Right Now](https://lifehacker.com/tech/apple-airpods-pro-sale)
