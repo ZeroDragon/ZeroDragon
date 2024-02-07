@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking the Ultimate Thrills: A Deep Dive into SITUS138, Your Premier Online Casino in Singapore](https://dev.to/situs138/unlocking-the-ultimate-thrills-a-deep-dive-into-situs138-your-premier-online-casino-in-singapore-4h3j)
+- [Dev.to/JS] [Find&lpar;&rpar;](https://dev.to/avinashrepo/find-3a38)
+- [Lifehacker] [Useful Siri Commands You Might Not Know About](https://lifehacker.com/tech/everything-you-can-tell-siri-to-do)
+- [Dev.to/JS] [Fingerprint your native runtime with @expo/fingerprint](https://dev.to/expo/fingerprint-your-native-runtime-with-expofingerprint-13hb)
+- [Lifehacker] [All Apple AirPods Are on Sale Right Now](https://lifehacker.com/tech/apple-airpods-pro-sale)
 - [Lifehacker] [How to Choose Between Alexa and Google Home](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-home)
 - [Dev.to/JS] [Top uses](https://dev.to/avinashrepo/top-uses-3aj0)
 - [Lifehacker] [Mozilla Monitor Will Get Your Stolen Data Off the Internet, for a Price](https://lifehacker.com/tech/is-mozilla-monitor-plus-worth-it)
@@ -45,9 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Level up: 10 Tips for Writing Better Code](https://dev.to/hankadev/level-up-10-tips-for-writing-better-code-3f67)
 - [Lifehacker] [Use the ‘Pantry Challenge’ to Declutter More Than Your Pantry](https://lifehacker.com/home/how-to-use-the-three-rivers-pantry-challenge-to-declutter)
 - [Dev.to/JS] [Cool Animated Codepen demos](https://dev.to/pinky057/cool-animated-codepen-demos-1436)
-- [Dev.to/JS] [JavaScript - Diagonal Sum of Matrix &lpar;Multidimensional Array &rpar;](https://dev.to/swapnanilwebdeveloper/javascript-diagonal-sum-of-matrix-multidimensional-array--3plh)
-- [Dev.to/JS] [10 Node.js Boilerplate Code Snippets Every Developer Needs](https://dev.to/get_pieces/10-nodejs-boilerplate-code-snippets-every-developer-needs-pg3)
-- [Dev.to/JS] [Potential React 19 Features and Trends](https://dev.to/mescius/potential-react-19-features-and-trends-eei)
 - [Lifehacker] [How to Become More Creative As an Adult &lpar;Even If You Think You’re Not Creative&rpar;](https://lifehacker.com/health/how-to-become-more-creative-as-an-adult)
 - [Lifehacker] [You Can Get Microsoft 365 on Sale for $45 Right Now](https://lifehacker.com/tech/microsoft-365-sale)
 - [Lifehacker] [Tips to Pay Off Loans Early](https://lifehacker.com/money/what-to-know-when-paying-loan-early)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)
 - [Lifehacker] [You Can Now Create AI-generated Images for Free in Google Bard](https://lifehacker.com/tech/how-to-create-images-in-google-bard)
 - [Lifehacker] [The Best Podcast Miniseries That Explore Black History and Culture](https://lifehacker.com/entertainment/best-podcasts-miniseries-black-history-culture)
-- [Lifehacker] [The Galaxy S24 Has Problems](https://lifehacker.com/tech/galaxy-s24-launch-problems)
-- [Lifehacker] [The First Seven Financial Steps to Take Immediately After Being Laid Off](https://lifehacker.com/money/most-important-financial-steps-after-being-laid-off)
-- [Lifehacker] [These Eero Mesh Wifi Systems Are up to 60% Off Right Now](https://lifehacker.com/tech/eero-mesh-wi-fi-router-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Galaxy S24 Has Problems](https://lifehacker.com/tech/galaxy-s24-launch-problems)<!-- TECH-POSTS:END -->
 
 ---
 
