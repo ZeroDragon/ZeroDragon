@@ -26,20 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What breakthroughs are fueling the growth of biotechnology and bioinformatics?](https://dev.to/yagnapandya9/what-breakthroughs-are-fueling-the-growth-of-biotechnology-and-bioinformatics-4p4p)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/theresahansene56/buy-google-voice-accounts-3gko)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/theresahansene56/buy-google-5-star-reviews-19io)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/theresahansene56/buy-verified-paxful-account-10g8)
 - [Dev.to/JS] [Różnice między var, let i const w JavaScript](https://dev.to/maksszymczak/roznice-miedzy-var-let-i-const-w-javascript-2dmg)
 - [Dev.to/JS] [Introducing TypeLib JS - simplified type detection and debugging](https://dev.to/schemetastic/introducing-typelib-js-simplified-type-detection-and-debugging-8bd)
 - [Dev.to/JS] [O fator humano e a engenharia de software](https://dev.to/cleisoncarlos/ddakqvz2uv-bh1)
 - [Dev.to/JS] [🐱Product Hunt has become pay-to-win 💰, but you should still use it to launch your product 🚀](https://dev.to/wasp/product-hunt-has-become-pay-to-win-but-you-should-still-use-it-to-launch-your-product-508d)
+- [Lifehacker] [Wall Paneling Isn’t Just a Relic From the ’70s](https://lifehacker.com/home/benefits-of-wall-paneling)
 - [Dev.to/JS] [TODO FRONTEND PRECISA SABER FAZER UM DEPLOY SIMPLES](https://dev.to/hudson3384/todo-frontend-precisa-saber-fazer-um-deploy-simples-30k6)
 - [Dev.to/JS] [Explorando o V8: O Motor JavaScript para Navegadores e Node.js](https://dev.to/jhadefernandes/explorando-o-v8-o-motor-javascript-para-navegadores-e-nodejs-56ig)
 - [Dev.to/JS] [How to Handle File Uploads with Node.js and Express](https://dev.to/ionx/how-to-handle-file-uploads-with-nodejs-and-express-34i4)
 - [Dev.to/JS] [5 Web Development Project With Their GitHub Repository](https://dev.to/durgesh4993/5-web-development-project-with-their-github-repository-1jl0)
 - [Lifehacker] [If You Forget the Passcode to Your Apple Vision Pro, You’re Kinda Screwed](https://lifehacker.com/tech/forgot-passcode-apple-vision-pro)
-- [Dev.to/JS] [Callbacks and References: Allowing the Garbage to get Collected](https://dev.to/darkwiiplayer/callbacks-and-references-allowing-the-garbage-to-get-collected-phb)
-- [Dev.to/JS] [Adding generated cover images to my blog posts using the Canvas API](https://dev.to/vivitt/adding-generated-cover-images-to-my-blog-posts-using-the-canvas-api-50d7)
 - [Lifehacker] [How to Turn Off Google Assistant on Your Android](https://lifehacker.com/tech/how-to-turn-off-google-assistant)
-- [Dev.to/JS] [How to Build a Discord Bot With Node.JS](https://dev.to/damirljub/how-to-build-a-discord-bot-with-nodejs-3mel)
-- [Dev.to/JS] [10 Essential Java Full Stack Developer Skills in 2024](https://dev.to/edenwheeler/10-essential-java-full-stack-developer-skills-in-2024-12bo)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-7-2024)
 - [Lifehacker] [Useful Siri Commands You Might Not Know About](https://lifehacker.com/tech/everything-you-can-tell-siri-to-do)
 - [Lifehacker] [All Apple AirPods Are on Sale Right Now](https://lifehacker.com/tech/apple-airpods-pro-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Set Up a VPN on Your iPhone](https://lifehacker.com/tech/how-to-set-up-vpn-on-iphone)
 - [Lifehacker] [That Message From the IRS About Your Refund Is a Scam](https://lifehacker.com/money/irs-email-and-text-message-scam)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-6-2024)
-- [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)
-- [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)<!-- TECH-POSTS:END -->
 
 ---
 
