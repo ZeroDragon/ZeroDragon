@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Handle File Uploads with Node.js and Express](https://dev.to/ionx/how-to-handle-file-uploads-with-nodejs-and-express-34i4)
+- [Dev.to/JS] [5 Web Development Project With Their GitHub Repository](https://dev.to/durgesh4993/5-web-development-project-with-their-github-repository-1jl0)
+- [Dev.to/JS] [Callbacks and References: Allowing the Garbage to get Collected](https://dev.to/darkwiiplayer/callbacks-and-references-allowing-the-garbage-to-get-collected-phb)
+- [Dev.to/JS] [Adding generated cover images to my blog posts using the Canvas API](https://dev.to/vivitt/adding-generated-cover-images-to-my-blog-posts-using-the-canvas-api-50d7)
+- [Lifehacker] [How to Turn Off Google Assistant on Your Android](https://lifehacker.com/tech/how-to-turn-off-google-assistant)
 - [Dev.to/JS] [10 Essential Java Full Stack Developer Skills in 2024](https://dev.to/edenwheeler/10-essential-java-full-stack-developer-skills-in-2024-12bo)
 - [Dev.to/JS] [Testing Libraries](https://dev.to/mern_practical/testing-libraries-4o5o)
 - [Dev.to/JS] [Client-side rendering &lpar;CSR&rpar; and server-side rendering &lpar;SSR&rpar;](https://dev.to/mern_practical/client-side-rendering-csr-and-server-side-rendering-ssr-4lgf)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FITSPRESSO Reviews 2024 Side Effects WARNING! &lpar;Shocking Customer Complaints Exposed&rpar;](https://dev.to/myersbroen/fitspresso-reviews-2024-side-effects-warning-shocking-customer-complaints-exposed-1ifm)
 - [Dev.to/JS] [JavaScript Array Methods: Map vs Filter vs Redux](https://dev.to/sh20raj/understanding-javascript-array-methods-map-vs-filter-vs-redux-3jeo)
 - [Dev.to/JS] [A Beginner&#39;s Journey into Building a Weather App](https://dev.to/migsldev/a-beginners-journey-into-building-a-weather-app-423l)
-- [Dev.to/JS] [Fiches d&#39;Examen 200-301 - Cisco Certified Network](https://dev.to/qpf9saxk/fiches-dexamen-200-301-cisco-certified-network-187)
-- [Dev.to/JS] [Explore Adjacent Vape Stores: Locate the Ideal Vape Items Locally!](https://dev.to/indiavapestore/explore-adjacent-vape-stores-locate-the-ideal-vape-items-locally-1h72)
-- [Dev.to/JS] [Changing Next.js Templates Between TypeScript and JavaScript in Online IDEs](https://dev.to/sh20raj/changing-nextjs-templates-between-typescript-and-javascript-in-online-ides-3kmf)
-- [Dev.to/JS] [Unlocking the Potential of AngularJS: A Comprehensive Guide to Hiring AngularJS Developers](https://dev.to/dhwanil/unlocking-the-potential-of-angularjs-a-comprehensive-guide-to-hiring-angularjs-developers-hh2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-7-2024)
 - [Lifehacker] [Useful Siri Commands You Might Not Know About](https://lifehacker.com/tech/everything-you-can-tell-siri-to-do)
 - [Lifehacker] [All Apple AirPods Are on Sale Right Now](https://lifehacker.com/tech/apple-airpods-pro-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 6, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-6-2024)
 - [Lifehacker] [You Can Get This Surface Pro 6 on Sale for Under $400 Right Now](https://lifehacker.com/this-microsoft-surface-pro-6-is-under-400-right-now-1850776714)
 - [Lifehacker] [Blink Security Cameras Are up to 43% Off at Amazon](https://lifehacker.com/tech/blink-security-cameras-are-up-to-43-percent-off-at-amazon)
-- [Lifehacker] [You Can Now Create AI-generated Images for Free in Google Bard](https://lifehacker.com/tech/how-to-create-images-in-google-bard)
-- [Lifehacker] [The Best Podcast Miniseries That Explore Black History and Culture](https://lifehacker.com/entertainment/best-podcasts-miniseries-black-history-culture)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Create AI-generated Images for Free in Google Bard](https://lifehacker.com/tech/how-to-create-images-in-google-bard)<!-- TECH-POSTS:END -->
 
 ---
 
