@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Beginner&#39;s Journey into Building a Weather App](https://dev.to/migsldev/a-beginners-journey-into-building-a-weather-app-423l)
+- [Dev.to/JS] [Fiches d&#39;Examen 200-301 - Cisco Certified Network](https://dev.to/qpf9saxk/fiches-dexamen-200-301-cisco-certified-network-187)
+- [Dev.to/JS] [Explore Adjacent Vape Stores: Locate the Ideal Vape Items Locally!](https://dev.to/indiavapestore/explore-adjacent-vape-stores-locate-the-ideal-vape-items-locally-1h72)
+- [Dev.to/JS] [Changing Next.js Templates Between TypeScript and JavaScript in Online IDEs](https://dev.to/sh20raj/changing-nextjs-templates-between-typescript-and-javascript-in-online-ides-3kmf)
 - [Dev.to/JS] [Unlocking the Potential of AngularJS: A Comprehensive Guide to Hiring AngularJS Developers](https://dev.to/dhwanil/unlocking-the-potential-of-angularjs-a-comprehensive-guide-to-hiring-angularjs-developers-hh2)
 - [Dev.to/JS] [ProFoliox - Multipage personal theme Built with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/profoliox-multipage-personal-themebuilt-with-astro-tailwind-css-mdx-4gc6)
 - [Dev.to/JS] [Format numbers easily and nicely](https://dev.to/dhutaryan/format-numbers-easily-and-nicely-17a8)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Improve data service connectivity in Signal Stores using the withDataService Custom Store Feature](https://dev.to/this-is-angular/improve-data-service-connectivity-in-signal-stores-using-the-withdataservice-custom-store-feature-f8)
 - [Dev.to/JS] [The Biggest Facial Recognition Myths](https://dev.to/luxandcloud/the-biggest-facial-recognition-myths-5d27)
 - [Dev.to/JS] [compose middleware](https://dev.to/leokun/compose-middleware-1cc)
-- [Dev.to/JS] [7 Best WordPress AI Plugins to Try in 2024](https://dev.to/thenomadevel/7-best-wordpress-ai-plugins-to-try-in-2024-4kgf)
-- [Dev.to/JS] [How to set and customize horizontal and vertical scrollbars with CSS](https://dev.to/ghostaram/how-to-set-and-customize-horizontal-and-vertical-scrollbars-with-css-2f98)
-- [Dev.to/JS] [Development Cooperation](https://dev.to/jennyluan/development-cooperation-58in)
-- [Dev.to/JS] [Javascript devs: what&#39;s the output for this? 😀🛠️](https://dev.to/syedmuhammadaliraza/javascript-devs-whats-the-output-for-this-222)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-7-2024)
 - [Lifehacker] [Useful Siri Commands You Might Not Know About](https://lifehacker.com/tech/everything-you-can-tell-siri-to-do)
 - [Lifehacker] [All Apple AirPods Are on Sale Right Now](https://lifehacker.com/tech/apple-airpods-pro-sale)
