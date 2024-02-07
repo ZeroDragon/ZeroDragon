@@ -26,19 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TODO FRONTEND PRECISA SABER FAZER UM DEPLOY SIMPLES](https://dev.to/hudson3384/todo-frontend-precisa-saber-fazer-um-deploy-simples-30k6)
+- [Dev.to/JS] [Explorando o V8: O Motor JavaScript para Navegadores e Node.js](https://dev.to/jhadefernandes/explorando-o-v8-o-motor-javascript-para-navegadores-e-nodejs-56ig)
 - [Dev.to/JS] [How to Handle File Uploads with Node.js and Express](https://dev.to/ionx/how-to-handle-file-uploads-with-nodejs-and-express-34i4)
 - [Dev.to/JS] [5 Web Development Project With Their GitHub Repository](https://dev.to/durgesh4993/5-web-development-project-with-their-github-repository-1jl0)
 - [Dev.to/JS] [Callbacks and References: Allowing the Garbage to get Collected](https://dev.to/darkwiiplayer/callbacks-and-references-allowing-the-garbage-to-get-collected-phb)
 - [Dev.to/JS] [Adding generated cover images to my blog posts using the Canvas API](https://dev.to/vivitt/adding-generated-cover-images-to-my-blog-posts-using-the-canvas-api-50d7)
 - [Lifehacker] [How to Turn Off Google Assistant on Your Android](https://lifehacker.com/tech/how-to-turn-off-google-assistant)
+- [Dev.to/JS] [How to Build a Discord Bot With Node.JS](https://dev.to/damirljub/how-to-build-a-discord-bot-with-nodejs-3mel)
 - [Dev.to/JS] [10 Essential Java Full Stack Developer Skills in 2024](https://dev.to/edenwheeler/10-essential-java-full-stack-developer-skills-in-2024-12bo)
 - [Dev.to/JS] [Testing Libraries](https://dev.to/mern_practical/testing-libraries-4o5o)
 - [Dev.to/JS] [Client-side rendering &lpar;CSR&rpar; and server-side rendering &lpar;SSR&rpar;](https://dev.to/mern_practical/client-side-rendering-csr-and-server-side-rendering-ssr-4lgf)
 - [Dev.to/JS] [React.js Key Concepts](https://dev.to/mern_practical/reactjs-key-concepts-3kf9)
 - [Dev.to/JS] [Angular &lpar;17+&rpar; Signals with stand-alone Shopping-Cart](https://dev.to/leolanese/angular-17-signals-with-stand-alone-shopping-cart-3oon)
-- [Dev.to/JS] [FITSPRESSO Reviews 2024 Side Effects WARNING! &lpar;Shocking Customer Complaints Exposed&rpar;](https://dev.to/myersbroen/fitspresso-reviews-2024-side-effects-warning-shocking-customer-complaints-exposed-1ifm)
-- [Dev.to/JS] [JavaScript Array Methods: Map vs Filter vs Redux](https://dev.to/sh20raj/understanding-javascript-array-methods-map-vs-filter-vs-redux-3jeo)
-- [Dev.to/JS] [A Beginner&#39;s Journey into Building a Weather App](https://dev.to/migsldev/a-beginners-journey-into-building-a-weather-app-423l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-7-2024)
 - [Lifehacker] [Useful Siri Commands You Might Not Know About](https://lifehacker.com/tech/everything-you-can-tell-siri-to-do)
 - [Lifehacker] [All Apple AirPods Are on Sale Right Now](https://lifehacker.com/tech/apple-airpods-pro-sale)
