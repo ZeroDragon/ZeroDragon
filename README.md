@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Partial: how not to mock the whole world](https://dev.to/thekashey/partial-how-not-to-mock-the-whole-world-32pj)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
 - [Dev.to/JS] [Boosting Web Performance: How We Supercharged Our Agency’s Site with Astro JS Image &amp; Speed Optimization Techniques](https://dev.to/benajaero/boosting-web-performance-how-we-supercharged-our-agencys-site-with-astro-js-image-speed-optimization-techniques-18mf)
 - [Dev.to/JS] [Nx - Project Crystal](https://dev.to/codingcatdev/nx-project-crystal-2b66)
 - [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
@@ -49,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Internationalization with i18next + react-i18n 🌎](https://dev.to/guim0/internationalization-with-i18next-react-i18n-4m28)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/theresahansene56/buy-verified-cash-app-account-3h5d)
 - [Dev.to/JS] [Building a Simple Weather App with HTML, CSS, JavaScript &amp; OpenWeather Api](https://dev.to/pixelgig/building-a-simple-weather-app-with-html-css-javascript-openweather-api-55hh)
-- [Dev.to/JS] [AI for Web Devs: Deploying Your AI App to Production](https://dev.to/austingil/ai-for-web-devs-deploying-your-ai-app-to-production-5beb)
 - [Lifehacker] [Seven Gadgets That Will Clean Your House &lpar;That Aren’t Robot Vacuums&rpar;](https://lifehacker.com/home/best-gadgets-to-clean-your-home)
 - [Lifehacker] [This Is How Air Fryers Really Work](https://lifehacker.com/food-drink/how-air-fryers-work)
 - [Lifehacker] [The Apple Watch SE Is Just $189 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The OnePlus Buds 3 Sound Great, for the Price](https://lifehacker.com/tech/oneplus-buds-3-review)
 - [Lifehacker] [Yeah, You Can Totally Make Doughnuts Out of Bisquick](https://lifehacker.com/food-drink/easy-chocolate-glazed-doughnut-recipe)
 - [Lifehacker] [How to Spot a &#39;Catfish House&#39; &lpar;Before You Buy One&rpar;](https://lifehacker.com/money/catfish-house-danger-signs)
-- [Lifehacker] [This Lightweight Android Tablet Is 49% Off Right Now](https://lifehacker.com/entertainment/samsung-galaxy-tab-s6-lite-sale)
-- [Lifehacker] [The Newest Amazon Echo Show 8 Is 40% Off Right Now](https://lifehacker.com/tech/best-echo-show-8-deal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Lightweight Android Tablet Is 49% Off Right Now](https://lifehacker.com/entertainment/samsung-galaxy-tab-s6-lite-sale)<!-- TECH-POSTS:END -->
 
 ---
 
