@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make an Average Age calculator](https://dev.to/alteca/how-to-make-an-average-age-calculator-2npp)
+- [Dev.to/JS] [Nahaa Money Loan CusTomer Care Helpline NumbeR &lpar;+91&rpar;.9330079553//9695940590. Contactkdi](https://dev.to/rajkumar54/nahaa-money-loan-customer-care-helpline-number-9193300795539695940590-contactkdi-4g86)
+- [Dev.to/JS] [Nahaa Money Loan CusTomer Care Helpline NumbeR &lpar;+91&rpar;.9330079553//9695940590. Contact](https://dev.to/rajkumar54/nahaa-money-loan-customer-care-helpline-number-9193300795539695940590-contact-2cge)
+- [Dev.to/JS] [Mongoose Alias Schema with instance method# Diffuclty Exterme # Challange youraself](https://dev.to/swapnanilwebdeveloper/mongoose-alias-schema-with-instance-method-diffuclty-exterme-challange-youraself-2khb)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/gersibaku064/buy-google-5-star-reviews-5hl7)
 - [Dev.to/JS] [Mongoose QueryBuilder inside and outside schema with[ find, where, gt, lt, gte, lte, equals] different queries](https://dev.to/swapnanilwebdeveloper/mongoose-querybuilder-inside-and-outside-schema-with-find-where-gt-lt-gte-lte-equals-different-queries-57pc)
 - [Dev.to/JS] [A new way to build websites! Introducing the next version of Themex](https://dev.to/karsten_biedermann/a-new-way-to-build-websites-introducing-the-next-version-of-themex-41an)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/gersibaku064/buy-verified-paxful-account-23j7)
@@ -36,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Your Graphics Card to Get Better Streaming Video](https://lifehacker.com/tech/use-your-nvidia-rtx-gpu-to-improve-streaming-video-quality)
 - [Dev.to/JS] [Redis em Aplicações Node.js](https://dev.to/vitorrios1001/redis-em-aplicacoes-nodejs-31ed)
 - [Lifehacker] [Google Made Some Improvements to &#39;Family Link&#39; Parental Controls](https://lifehacker.com/tech/google-made-some-improvements-to-family-link-parental-controls)
-- [Dev.to/JS] [Saatnya Menguasai useContext React di Luar Kepala](https://dev.to/ferryops/saatnya-menguasai-usecontext-react-di-luar-kepala-53fj)
-- [Dev.to/JS] [EnterpriseApp is in advancement](https://dev.to/srisomanaath/enterpriseapp-is-advancement-boc)
-- [Dev.to/JS] [Mongoose Virtuals&lpar;Schema/Model&rpar;#clear concept of Virtuals](https://dev.to/swapnanilwebdeveloper/mongoose-virtualsschemamodelclear-concept-of-virtuals-aag)
-- [Dev.to/JS] [Difference between props and state in React.js](https://dev.to/mcbarna/difference-between-props-and-state-in-reactjs-32d8)
-- [Dev.to/JS] [My Space Projects](https://dev.to/srisomanaath/my-space-projects-4cgf)
 - [Lifehacker] [&#39;Square Foot&#39; Gardening Is a Shortcut to Spring Planting](https://lifehacker.com/home/how-to-square-foot-garden)
 - [Lifehacker] [How to Clean or Replace Your Microwave&#39;s Filters &lpar;and How Often You Should&rpar;](https://lifehacker.com/home/how-to-clean-microwaves-filters)
 - [Lifehacker] [Google Bard Is Now &#39;Gemini&#39;](https://lifehacker.com/tech/google-bard-is-now-gemini)
