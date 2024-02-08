@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [EnterpriseApp is advancement](https://dev.to/srisomanaath/enterpriseapp-is-advancement-boc)
+- [Dev.to/JS] [Mongoose Instance Methods &lpar;&rpar; , create methods inside and outside Schema](https://dev.to/swapnanilwebdeveloper/mongoose-instance-methods-create-methods-inside-and-outside-schema-5ga3)
+- [Dev.to/JS] [webpack adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/webpack-adoption-guide-overview-examples-and-alternatives-10ae)
+- [Dev.to/JS] [Redis em Aplicações Node.js](https://dev.to/vitorrios1001/redis-em-aplicacoes-nodejs-31ed)
+- [Dev.to/JS] [Saatnya Menguasai useContext React di Luar Kepala](https://dev.to/ferryops/saatnya-menguasai-usecontext-react-di-luar-kepala-53fj)
+- [Dev.to/JS] [EnterpriseApp is in advancement](https://dev.to/srisomanaath/enterpriseapp-is-advancement-boc)
 - [Dev.to/JS] [Mongoose Virtuals&lpar;Schema/Model&rpar;#clear concept of Virtuals](https://dev.to/swapnanilwebdeveloper/mongoose-virtualsschemamodelclear-concept-of-virtuals-aag)
 - [Dev.to/JS] [Difference between props and state in React.js](https://dev.to/mcbarna/difference-between-props-and-state-in-reactjs-32d8)
 - [Dev.to/JS] [My Space Projects](https://dev.to/srisomanaath/my-space-projects-4cgf)
 - [Dev.to/JS] [Os Bastidores do Guarapi - Framework Modular](https://dev.to/joao_neto/os-bastidores-do-guarapi-framework-modular-24d9)
+- [Lifehacker] [How to Clean or Replace Your Microwave&#39;s Filters &lpar;and How Often You Should&rpar;](https://lifehacker.com/home/how-to-clean-microwaves-filters)
 - [Dev.to/JS] [Unleashing the Power of Custom Applications with commercetools: A Comprehensive Guide](https://dev.to/nitin-rachabathuni/unleashing-the-power-of-custom-applications-with-commercetools-a-comprehensive-guide-52h2)
 - [Dev.to/JS] [React &lpar;conferences&rpar; In 2024🤘](https://dev.to/cookieduster_n/react-conferences-in-2024-1nmd)
 - [Lifehacker] [Google Bard Is Now &#39;Gemini&#39;](https://lifehacker.com/tech/google-bard-is-now-gemini)
 - [Dev.to/JS] [Unexpected Behind The Scenes of console.log&lpar;&rpar; 😶‍🌫](https://dev.to/arjuncodess/behind-the-scenes-of-consolelog-2ojm)
-- [Dev.to/JS] [videojs quality change hls video](https://dev.to/krishancoder/video-js-player-custom-1hk8)
-- [Dev.to/JS] [Understanding AWS Amplify Monitoring Metrics Definitions](https://dev.to/aws-builders/understanding-aws-amplify-monitoring-metrics-definitions-43c2)
-- [Dev.to/JS] [Why we chose Bun](https://dev.to/alertpix/why-we-chose-bun-28dk)
-- [Dev.to/JS] [A new way to build websites! Introducing the next version of Themex](https://dev.to/karsten_biedermann/introducing-the-pilot-of-themex-312c)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
 - [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
 - [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose Between Alexa and Google Home](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-home)
 - [Lifehacker] [Mozilla Monitor Will Get Your Stolen Data Off the Internet, for a Price](https://lifehacker.com/tech/is-mozilla-monitor-plus-worth-it)
 - [Lifehacker] [The OnePlus Buds 3 Sound Great, for the Price](https://lifehacker.com/tech/oneplus-buds-3-review)
-- [Lifehacker] [Yeah, You Can Totally Make Doughnuts Out of Bisquick](https://lifehacker.com/food-drink/easy-chocolate-glazed-doughnut-recipe)
-- [Lifehacker] [How to Spot a &#39;Catfish House&#39; &lpar;Before You Buy One&rpar;](https://lifehacker.com/money/catfish-house-danger-signs)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yeah, You Can Totally Make Doughnuts Out of Bisquick](https://lifehacker.com/food-drink/easy-chocolate-glazed-doughnut-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
