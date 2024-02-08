@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FitSpresso Reviews – Scam or Not? Side Effects,Ingredients|](https://dev.to/fitspressobuyus/fitspresso-reviews-scam-or-not-side-effectsingredients-1pkb)
+- [Dev.to/JS] [Fitspresso Everything You Need to Know About This Fitness Elixir](https://dev.to/fitspressor/fitspresso-everything-you-need-to-know-about-this-fitness-elixir-4pfb)
 - [Dev.to/JS] [Blazor Synchronized Charts: The Perfect Tool for Trade Analysis](https://dev.to/butterfly/blazor-synchronized-charts-the-perfect-tool-for-trade-analysis-3444)
 - [Dev.to/JS] [Understanding Testing in production](https://dev.to/keploy/understanding-testing-in-production-1ffo)
 - [Dev.to/JS] [The Fast Way to create documents Docsify](https://dev.to/melihs/the-fast-way-to-create-documents-docsify-4mi3)
@@ -40,10 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
 - [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
 - [Lifehacker] [How to Make Alexa Mad, Rude, or a Little Bit Feisty](https://lifehacker.com/tech/how-to-make-alexa-mad-rude-or-feisty)
-- [Dev.to/JS] [Async and Await in JavaScript: A Comprehensive Guide](https://dev.to/mktheitguy/async-and-await-in-javascript-a-comprehensive-guide-1oka)
 - [Lifehacker] [OpenAI Just Made It Easier to Tell If an Image Was Made by DALL-E 3](https://lifehacker.com/tech/openai-adds-c2pa-watermarks-to-dall-e-3)
 - [Lifehacker] [Apple Has a New Open-Source AI Image Editor](https://lifehacker.com/tech/apple-has-a-new-open-source-ai-image-editor)
-- [Dev.to/JS] [VScode Extension Spotlight : Random Everything](https://dev.to/fomonyuytar/vscode-extension-spotlight-random-everything-2g2c)
 - [Lifehacker] [How to Cry More &lpar;and Why You Should&rpar;](https://lifehacker.com/health/how-to-cry-more-and-why)
 - [Lifehacker] [How Married Couples Can Double Their Retirement Tax Breaks](https://lifehacker.com/money/how-a-spousal-ira-can-double-your-retirement-tax-breaks)
 - [Lifehacker] [Beat &#39;Carlson&#39;s Law&#39; to Be More Productive](https://lifehacker.com/work/how-to-beat-carlsons-law-to-be-more-productive)
