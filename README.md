@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript beyond Simple Functions](https://dev.to/dmodena/javascript-beyond-simple-functions-15m7)
+- [Dev.to/JS] [How I Built a Profanity Blocking JavaScript Library 🤬 ⚡](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
+- [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/best-romantic-comedies-on-netflix)
+- [Lifehacker] [Follow &#39;Illich&#39;s Law&#39; to Be More Productive While Taking More Breaks](https://lifehacker.com/work/illichs-law-take-breaks-to-be-more-productive)
 - [Dev.to/JS] [Mongoose Schema type required, lowercase, uppercase, trim, minLength,maxLength#challange 2](https://dev.to/swapnanilwebdeveloper/mongoose-schema-type-required-lowercase-uppercase-trim-minlengthmaxlength-3ac3)
 - [Dev.to/JS] [Next.js starter template](https://dev.to/skolaczk/nextjs-starter-template-26i6)
 - [Dev.to/JS] [Mongoose Nested Data SchemaModel # Challange1 your skills # Difficulty Medium](https://dev.to/swapnanilwebdeveloper/mongoose-nested-data-schemamodel-challange-your-skills-difficulty-medium-8ep)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mongoose where&lpar;&rpar; , equals&lpar;&rpar;, gt, lt, gte, lte, in, all, nin Operators #projection select&lpar;&rpar; #Difficulty Hard #Challange](https://dev.to/swapnanilwebdeveloper/mongoose-where-with-find-equals-gt-lt-gte-lte-in-all-nin-operators-projection-select-4jme)
 - [Lifehacker] [How to Clean Your Foam Mattress Topper](https://lifehacker.com/home/how-to-clean-foam-mattress-topper)
 - [Dev.to/JS] [Best Site To Buy Facebook Accounts &amp; Cheap Price](https://dev.to/emmaanthon/best-site-to-buy-facebook-accounts-cheap-price-29fi)
-- [Dev.to/JS] [Best Site To Buy Twitter Accounts &amp; Cheap Price](https://dev.to/emmaanthon/best-site-to-buy-twitter-accounts-cheap-price-1heh)
-- [Dev.to/JS] [Best Site To Buy Yahoo Accounts &amp; Cheap Price](https://dev.to/emmaanthon/best-site-to-buy-yahoo-accounts-cheap-price-2dh1)
 - [Lifehacker] [Gemini Is &lpar;Probably&rpar; Replacing Google Assistant](https://lifehacker.com/tech/googles-new-gemini-ai-app)
 - [Lifehacker] [Google Won’t Let You View Cached Web Pages Anymore &lpar;But You Still Can&rpar;](https://lifehacker.com/tech/google-wont-let-you-check-cached-pages-anymore-heres-how-to-do-it-anyway)
 - [Lifehacker] [Seven Things You Didn’t Realize You Can Claim on Your Taxes](https://lifehacker.com/money/unexpected-things-you-can-claim-on-your-taxes)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [For Speed and Ease, Consider the Microwaved &#39;Baked&#39; Brie](https://lifehacker.com/food-drink/how-to-make-microwaved-baked-brie)
 - [Lifehacker] [Disney+ Is Cracking Down on Password Sharing, but Here’s How to Do It Anyway](https://lifehacker.com/entertainment/how-to-get-around-disneys-password-sharing-restrctions)
 - [Lifehacker] [The Best Streaming Deals for February 2024](https://lifehacker.com/best-streaming-deals-1850763728)
-- [Lifehacker] [13 of the Best ‘Galentine’s Day’ Movies to Stream Now](https://lifehacker.com/entertainment/best-galentines-day-movies-streaming-now)
-- [Lifehacker] [Seven Gadgets That Will Clean Your House &lpar;That Aren’t Robot Vacuums&rpar;](https://lifehacker.com/home/best-gadgets-to-clean-your-home)
-- [Lifehacker] [This Is How Air Fryers Really Work](https://lifehacker.com/food-drink/how-air-fryers-work)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 of the Best ‘Galentine’s Day’ Movies to Stream Now](https://lifehacker.com/entertainment/best-galentines-day-movies-streaming-now)<!-- TECH-POSTS:END -->
 
 ---
 
