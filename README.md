@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build AI Image Generator Website Using HTML CSS JavaScript](https://dev.to/codingmadeeasy/how-to-build-ai-image-generator-website-using-html-css-javascript-36dd)
+- [Dev.to/JS] [React Usecallback for Kids/Beginners](https://dev.to/csituma/react-usecallback-for-kidsbeginners-18df)
 - [Dev.to/JS] [Angular &lpar;17+&rpar; Reactive Forms + Signals &amp; StandAlone Components](https://dev.to/leolanese/angular-17-reactive-forms-signals-standalone-components-nib)
 - [Dev.to/JS] [Simple SEO optimization for your Sveltekit website](https://dev.to/abdulmuminyqn/simple-seo-optimization-for-your-sveltekit-website-4lil)
 - [Dev.to/JS] [Easy Math in Javascript](https://dev.to/efpage/easy-math-in-javascript-p98)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s New in TypeScript 5.4 Beta](https://dev.to/emmanuelisenah/whats-new-in-typescript-54-beta-1ndi)
 - [Dev.to/JS] [FitSpresso Reviews – Scam or Not? Side Effects,Ingredients|](https://dev.to/fitspressobuyus/fitspresso-reviews-scam-or-not-side-effectsingredients-1pkb)
 - [Dev.to/JS] [Fitspresso Everything You Need to Know About This Fitness Elixir](https://dev.to/fitspressor/fitspresso-everything-you-need-to-know-about-this-fitness-elixir-4pfb)
-- [Dev.to/JS] [Blazor Synchronized Charts: The Perfect Tool for Trade Analysis](https://dev.to/butterfly/blazor-synchronized-charts-the-perfect-tool-for-trade-analysis-3444)
-- [Dev.to/JS] [Understanding Testing in production](https://dev.to/keploy/understanding-testing-in-production-1ffo)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
 - [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
 - [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
