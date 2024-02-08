@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blazor Synchronized Charts: The Perfect Tool for Trade Analysis](https://dev.to/butterfly/blazor-synchronized-charts-the-perfect-tool-for-trade-analysis-3444)
+- [Dev.to/JS] [Understanding Testing in production](https://dev.to/keploy/understanding-testing-in-production-1ffo)
+- [Dev.to/JS] [The Fast Way to create documents Docsify](https://dev.to/melihs/the-fast-way-to-create-documents-docsify-4mi3)
 - [Dev.to/JS] [Top 7 Free Unlimited Video Hosting Websites in 2023](https://dev.to/sh20raj/top-7-free-unlimited-video-hosting-websites-in-2023-4a2l)
 - [Dev.to/JS] [Top 8 Free Unlimited Image Hosting Websites in 2024](https://dev.to/sh20raj/top-8-free-unlimited-image-hosting-websites-in-2024-3393)
 - [Dev.to/JS] [The Difference Between HTML DOM Properties: innerHTML, innerText, and textContent](https://dev.to/stephbert/the-difference-between-html-dom-properties-innerhtml-innertext-and-textcontent-n10)
@@ -45,12 +48,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Married Couples Can Double Their Retirement Tax Breaks](https://lifehacker.com/money/how-a-spousal-ira-can-double-your-retirement-tax-breaks)
 - [Lifehacker] [Beat &#39;Carlson&#39;s Law&#39; to Be More Productive](https://lifehacker.com/work/how-to-beat-carlsons-law-to-be-more-productive)
 - [Lifehacker] [For Speed and Ease, Consider the Microwaved &#39;Baked&#39; Brie](https://lifehacker.com/food-drink/how-to-make-microwaved-baked-brie)
-- [Dev.to/JS] [Age Calculator Using HTML, CSS, and JavaScript: A Beginner’s Guide](https://dev.to/javacodepoint/age-calculator-using-html-css-and-javascript-a-beginners-guide-45ef)
 - [Lifehacker] [Disney+ Is Cracking Down on Password Sharing, but Here’s How to Do It Anyway](https://lifehacker.com/entertainment/how-to-get-around-disneys-password-sharing-restrctions)
-- [Dev.to/JS] [Types of CSS: inline, internal, External with Example](https://dev.to/ranjankumar1231/types-of-css-inline-internal-external-with-example-4hdg)
 - [Lifehacker] [The Best Streaming Deals for February 2024](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [13 of the Best ‘Galentine’s Day’ Movies to Stream Now](https://lifehacker.com/entertainment/best-galentines-day-movies-streaming-now)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/theresahansene56/buy-old-gmail-accounts-4aic)
 - [Lifehacker] [Seven Gadgets That Will Clean Your House &lpar;That Aren’t Robot Vacuums&rpar;](https://lifehacker.com/home/best-gadgets-to-clean-your-home)
 - [Lifehacker] [This Is How Air Fryers Really Work](https://lifehacker.com/food-drink/how-air-fryers-work)
 - [Lifehacker] [The Apple Watch SE Is Just $189 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
