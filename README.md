@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 7 Free Unlimited Video Hosting Websites in 2023](https://dev.to/sh20raj/top-7-free-unlimited-video-hosting-websites-in-2023-4a2l)
+- [Dev.to/JS] [Top 8 Free Unlimited Image Hosting Websites in 2024](https://dev.to/sh20raj/top-8-free-unlimited-image-hosting-websites-in-2024-3393)
+- [Dev.to/JS] [The Difference Between HTML DOM Properties: innerHTML, innerText, and textContent](https://dev.to/stephbert/the-difference-between-html-dom-properties-innerhtml-innertext-and-textcontent-n10)
 - [Dev.to/JS] [Navigating the Next.js Landscape: TypeScript vs. JavaScript](https://dev.to/maruthi/navigating-the-nextjs-landscape-typescript-vs-javascript-3h43)
 - [Dev.to/JS] [Partial: how not to mock the whole world](https://dev.to/thekashey/partial-how-not-to-mock-the-whole-world-32pj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
@@ -48,9 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Streaming Deals for February 2024](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [13 of the Best ‘Galentine’s Day’ Movies to Stream Now](https://lifehacker.com/entertainment/best-galentines-day-movies-streaming-now)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/theresahansene56/buy-old-gmail-accounts-4aic)
-- [Dev.to/JS] [Image Carousel using JavaScript, HTML, CSS](https://dev.to/impradhyumn/image-carousel-using-javascript-html-css-48ln)
-- [Dev.to/JS] [Internationalization with i18next + react-i18n 🌎](https://dev.to/guim0/internationalization-with-i18next-react-i18n-4m28)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/theresahansene56/buy-verified-cash-app-account-3h5d)
 - [Lifehacker] [Seven Gadgets That Will Clean Your House &lpar;That Aren’t Robot Vacuums&rpar;](https://lifehacker.com/home/best-gadgets-to-clean-your-home)
 - [Lifehacker] [This Is How Air Fryers Really Work](https://lifehacker.com/food-drink/how-air-fryers-work)
 - [Lifehacker] [The Apple Watch SE Is Just $189 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
