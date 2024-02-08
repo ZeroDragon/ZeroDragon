@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Boosting Web Performance: How We Supercharged Our Agency’s Site with Astro JS Image &amp; Speed Optimization Techniques](https://dev.to/benajaero/boosting-web-performance-how-we-supercharged-our-agencys-site-with-astro-js-image-speed-optimization-techniques-18mf)
+- [Dev.to/JS] [Nx - Project Crystal](https://dev.to/codingcatdev/nx-project-crystal-2b66)
 - [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
 - [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
 - [Lifehacker] [How to Make Alexa Mad, Rude, or a Little Bit Feisty](https://lifehacker.com/tech/how-to-make-alexa-mad-rude-or-feisty)
@@ -48,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/theresahansene56/buy-verified-cash-app-account-3h5d)
 - [Dev.to/JS] [Building a Simple Weather App with HTML, CSS, JavaScript &amp; OpenWeather Api](https://dev.to/pixelgig/building-a-simple-weather-app-with-html-css-javascript-openweather-api-55hh)
 - [Dev.to/JS] [AI for Web Devs: Deploying Your AI App to Production](https://dev.to/austingil/ai-for-web-devs-deploying-your-ai-app-to-production-5beb)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/theresahansene56/buy-glassdoor-reviews-2i87)
-- [Dev.to/JS] [Mastering GitHub Pages: A Step-by-Step Guide for Deploying Your React App with Vite](https://dev.to/0xdeerah/mastering-github-pages-a-step-by-step-guide-for-deploying-your-react-app-with-vite-44jj)
 - [Lifehacker] [Seven Gadgets That Will Clean Your House &lpar;That Aren’t Robot Vacuums&rpar;](https://lifehacker.com/home/best-gadgets-to-clean-your-home)
 - [Lifehacker] [This Is How Air Fryers Really Work](https://lifehacker.com/food-drink/how-air-fryers-work)
 - [Lifehacker] [The Apple Watch SE Is Just $189 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
