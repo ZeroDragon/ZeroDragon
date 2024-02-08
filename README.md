@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conociendo a BunJS](https://dev.to/ljcl79/conociendo-a-bunjs-15oj)
+- [Dev.to/JS] [Elians Astro Startkit](https://dev.to/eliancodes/elians-astro-startkit-2o9)
+- [Dev.to/JS] [Array Destructuring in Javascript, do you know what it is?](https://dev.to/falcao_g/array-destructuring-in-javascript-do-you-know-what-it-is-1k4j)
+- [Dev.to/JS] [Array Destructuring no Javascript, você sabe o que é?](https://dev.to/falcao_g/array-destructuring-no-javascript-voce-sabe-o-que-e-1m6o)
+- [Lifehacker] [Meta Just Revealed How Your Threads Feed Actually Works](https://lifehacker.com/tech/how-threads-algorithm-works-according-to-meta)
 - [Dev.to/JS] [JavaScript beyond Simple Functions](https://dev.to/dmodena/javascript-beyond-simple-functions-15m7)
+- [Lifehacker] [Google&#39;s &#39;Gemini Advanced&#39; AI Is Ready to Take on ChatGPT Plus](https://lifehacker.com/tech/googles-gemini-advanced-ai-is-ready-to-take-on-chatgpt-plus)
 - [Dev.to/JS] [How I Built a Profanity Blocking JavaScript Library 🤬 ⚡](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
+- [Lifehacker] [Five Ways to Generate Solar Power at Home Without Roof-mounted Panels](https://lifehacker.com/home/how-to-generate-solar-power-at-home)
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/best-romantic-comedies-on-netflix)
 - [Lifehacker] [Follow &#39;Illich&#39;s Law&#39; to Be More Productive While Taking More Breaks](https://lifehacker.com/work/illichs-law-take-breaks-to-be-more-productive)
 - [Dev.to/JS] [Mongoose Schema type required, lowercase, uppercase, trim, minLength,maxLength#challange 2](https://dev.to/swapnanilwebdeveloper/mongoose-schema-type-required-lowercase-uppercase-trim-minlengthmaxlength-3ac3)
@@ -38,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Streamline Your Small Business Payroll with ZilMoney](https://dev.to/shanzu/streamline-your-small-business-payroll-with-zilmoney-5b15)
 - [Lifehacker] [Make a More Adventurous Pizza With One of These Alternative Sauces](https://lifehacker.com/food-drink/make-pizza-with-alternative-sauces)
 - [Dev.to/JS] [5 Dicas Essenciais para Melhorar a Performance de Aplicações Web](https://dev.to/kleyam/5-dicas-essenciais-para-melhorar-a-performance-de-aplicacoes-web-en1)
-- [Dev.to/JS] [Building docs with Starlight and Astro](https://dev.to/codingcatdev/building-docs-with-starlight-and-astro-310d)
-- [Dev.to/JS] [Guia do Node.js, do começo ao fim](https://dev.to/vanscript/guia-do-nodejs-do-comeco-ao-fim-3cb9)
-- [Dev.to/JS] [Mongoose where&lpar;&rpar; , equals&lpar;&rpar;, gt, lt, gte, lte, in, all, nin Operators #projection select&lpar;&rpar; #Difficulty Hard #Challange](https://dev.to/swapnanilwebdeveloper/mongoose-where-with-find-equals-gt-lt-gte-lte-in-all-nin-operators-projection-select-4jme)
 - [Lifehacker] [How to Clean Your Foam Mattress Topper](https://lifehacker.com/home/how-to-clean-foam-mattress-topper)
-- [Dev.to/JS] [Best Site To Buy Facebook Accounts &amp; Cheap Price](https://dev.to/emmaanthon/best-site-to-buy-facebook-accounts-cheap-price-29fi)
 - [Lifehacker] [Gemini Is &lpar;Probably&rpar; Replacing Google Assistant](https://lifehacker.com/tech/googles-new-gemini-ai-app)
 - [Lifehacker] [Google Won’t Let You View Cached Web Pages Anymore &lpar;But You Still Can&rpar;](https://lifehacker.com/tech/google-wont-let-you-check-cached-pages-anymore-heres-how-to-do-it-anyway)
 - [Lifehacker] [Seven Things You Didn’t Realize You Can Claim on Your Taxes](https://lifehacker.com/money/unexpected-things-you-can-claim-on-your-taxes)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Cry More &lpar;and Why You Should&rpar;](https://lifehacker.com/health/how-to-cry-more-and-why)
 - [Lifehacker] [How Married Couples Can Double Their Retirement Tax Breaks](https://lifehacker.com/money/how-a-spousal-ira-can-double-your-retirement-tax-breaks)
 - [Lifehacker] [Beat &#39;Carlson&#39;s Law&#39; to Be More Productive](https://lifehacker.com/work/how-to-beat-carlsons-law-to-be-more-productive)
-- [Lifehacker] [For Speed and Ease, Consider the Microwaved &#39;Baked&#39; Brie](https://lifehacker.com/food-drink/how-to-make-microwaved-baked-brie)
-- [Lifehacker] [Disney+ Is Cracking Down on Password Sharing, but Here’s How to Do It Anyway](https://lifehacker.com/entertainment/how-to-get-around-disneys-password-sharing-restrctions)
-- [Lifehacker] [The Best Streaming Deals for February 2024](https://lifehacker.com/best-streaming-deals-1850763728)
-- [Lifehacker] [13 of the Best ‘Galentine’s Day’ Movies to Stream Now](https://lifehacker.com/entertainment/best-galentines-day-movies-streaming-now)<!-- TECH-POSTS:END -->
+- [Lifehacker] [For Speed and Ease, Consider the Microwaved &#39;Baked&#39; Brie](https://lifehacker.com/food-drink/how-to-make-microwaved-baked-brie)<!-- TECH-POSTS:END -->
 
 ---
 
