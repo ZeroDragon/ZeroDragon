@@ -26,20 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mongoose QueryBuilder inside and outside schema with[ find, where, gt, lt, gte, lte, equals] different queries](https://dev.to/swapnanilwebdeveloper/mongoose-querybuilder-inside-and-outside-schema-with-find-where-gt-lt-gte-lte-equals-different-queries-57pc)
+- [Dev.to/JS] [A new way to build websites! Introducing the next version of Themex](https://dev.to/karsten_biedermann/a-new-way-to-build-websites-introducing-the-next-version-of-themex-41an)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/gersibaku064/buy-verified-paxful-account-23j7)
+- [Dev.to/JS] [Mongoose Statics-Methods : Build statics-method inside and outside the Schema](https://dev.to/swapnanilwebdeveloper/mongoose-statics-methods-build-statics-method-inside-and-outside-the-schema-214h)
+- [Lifehacker] [These Are the Best Streaming Discounts for Students](https://lifehacker.com/streaming-services-student-discounts)
 - [Dev.to/JS] [Mongoose Instance Methods &lpar;&rpar; , create methods inside and outside Schema](https://dev.to/swapnanilwebdeveloper/mongoose-instance-methods-create-methods-inside-and-outside-schema-5ga3)
 - [Dev.to/JS] [webpack adoption guide: Overview, examples, and alternatives](https://dev.to/logrocket/webpack-adoption-guide-overview-examples-and-alternatives-10ae)
+- [Lifehacker] [How to Use Your Graphics Card to Get Better Streaming Video](https://lifehacker.com/tech/use-your-nvidia-rtx-gpu-to-improve-streaming-video-quality)
 - [Dev.to/JS] [Redis em Aplicações Node.js](https://dev.to/vitorrios1001/redis-em-aplicacoes-nodejs-31ed)
+- [Lifehacker] [Google Made Some Improvements to &#39;Family Link&#39; Parental Controls](https://lifehacker.com/tech/google-made-some-improvements-to-family-link-parental-controls)
 - [Dev.to/JS] [Saatnya Menguasai useContext React di Luar Kepala](https://dev.to/ferryops/saatnya-menguasai-usecontext-react-di-luar-kepala-53fj)
 - [Dev.to/JS] [EnterpriseApp is in advancement](https://dev.to/srisomanaath/enterpriseapp-is-advancement-boc)
 - [Dev.to/JS] [Mongoose Virtuals&lpar;Schema/Model&rpar;#clear concept of Virtuals](https://dev.to/swapnanilwebdeveloper/mongoose-virtualsschemamodelclear-concept-of-virtuals-aag)
 - [Dev.to/JS] [Difference between props and state in React.js](https://dev.to/mcbarna/difference-between-props-and-state-in-reactjs-32d8)
 - [Dev.to/JS] [My Space Projects](https://dev.to/srisomanaath/my-space-projects-4cgf)
-- [Dev.to/JS] [Os Bastidores do Guarapi - Framework Modular](https://dev.to/joao_neto/os-bastidores-do-guarapi-framework-modular-24d9)
+- [Lifehacker] [&#39;Square Foot&#39; Gardening Is a Shortcut to Spring Planting](https://lifehacker.com/home/how-to-square-foot-garden)
 - [Lifehacker] [How to Clean or Replace Your Microwave&#39;s Filters &lpar;and How Often You Should&rpar;](https://lifehacker.com/home/how-to-clean-microwaves-filters)
-- [Dev.to/JS] [Unleashing the Power of Custom Applications with commercetools: A Comprehensive Guide](https://dev.to/nitin-rachabathuni/unleashing-the-power-of-custom-applications-with-commercetools-a-comprehensive-guide-52h2)
-- [Dev.to/JS] [React &lpar;conferences&rpar; In 2024🤘](https://dev.to/cookieduster_n/react-conferences-in-2024-1nmd)
 - [Lifehacker] [Google Bard Is Now &#39;Gemini&#39;](https://lifehacker.com/tech/google-bard-is-now-gemini)
-- [Dev.to/JS] [Unexpected Behind The Scenes of console.log&lpar;&rpar; 😶‍🌫](https://dev.to/arjuncodess/behind-the-scenes-of-consolelog-2ojm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
 - [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
 - [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn Off Google Assistant on Your Android](https://lifehacker.com/tech/how-to-turn-off-google-assistant)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 7, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-7-2024)
 - [Lifehacker] [Useful Siri Commands You Might Not Know About](https://lifehacker.com/tech/everything-you-can-tell-siri-to-do)
-- [Lifehacker] [All Apple AirPods Are on Sale Right Now](https://lifehacker.com/tech/apple-airpods-pro-sale)
-- [Lifehacker] [How to Choose Between Alexa and Google Home](https://lifehacker.com/tech/how-to-choose-between-alexa-and-google-home)
-- [Lifehacker] [Mozilla Monitor Will Get Your Stolen Data Off the Internet, for a Price](https://lifehacker.com/tech/is-mozilla-monitor-plus-worth-it)
-- [Lifehacker] [The OnePlus Buds 3 Sound Great, for the Price](https://lifehacker.com/tech/oneplus-buds-3-review)
-- [Lifehacker] [Yeah, You Can Totally Make Doughnuts Out of Bisquick](https://lifehacker.com/food-drink/easy-chocolate-glazed-doughnut-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All Apple AirPods Are on Sale Right Now](https://lifehacker.com/tech/apple-airpods-pro-sale)<!-- TECH-POSTS:END -->
 
 ---
 
