@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Behind The Scenes of console.log&lpar;&rpar; 😶‍🌫](https://dev.to/arjuncodess/behind-the-scenes-of-consolelog-2ojm)
-- [Dev.to/JS] [video js player custom](https://dev.to/krishan9871/video-js-player-custom-1hk8)
+- [Dev.to/JS] [Unleashing the Power of Custom Applications with commercetools: A Comprehensive Guide](https://dev.to/nitin-rachabathuni/unleashing-the-power-of-custom-applications-with-commercetools-a-comprehensive-guide-52h2)
+- [Dev.to/JS] [React &lpar;conferences&rpar; In 2024🤘](https://dev.to/cookieduster_n/react-conferences-in-2024-1nmd)
+- [Lifehacker] [Google Bard Is Now &#39;Gemini&#39;](https://lifehacker.com/tech/google-bard-is-now-gemini)
+- [Dev.to/JS] [Unexpected Behind The Scenes of console.log&lpar;&rpar; 😶‍🌫](https://dev.to/arjuncodess/behind-the-scenes-of-consolelog-2ojm)
+- [Dev.to/JS] [videojs quality change hls video](https://dev.to/krishancoder/video-js-player-custom-1hk8)
 - [Dev.to/JS] [Understanding AWS Amplify Monitoring Metrics Definitions](https://dev.to/aws-builders/understanding-aws-amplify-monitoring-metrics-definitions-43c2)
 - [Dev.to/JS] [Why we chose Bun](https://dev.to/alertpix/why-we-chose-bun-28dk)
 - [Dev.to/JS] [Introducing the pilot of Themex](https://dev.to/karsten_biedermann/introducing-the-pilot-of-themex-312c)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular &lpar;17+&rpar; Reactive Forms + Signals &amp; StandAlone Components](https://dev.to/leolanese/angular-17-reactive-forms-signals-standalone-components-nib)
 - [Dev.to/JS] [Simple SEO optimization for your Sveltekit website](https://dev.to/abdulmuminyqn/simple-seo-optimization-for-your-sveltekit-website-4lil)
 - [Dev.to/JS] [Easy Math in Javascript](https://dev.to/efpage/easy-math-in-javascript-p98)
-- [Dev.to/JS] [Mongoloquent](https://dev.to/ajatdarojat45/mongoloquent-3jhc)
-- [Dev.to/JS] [Sequence AVP](https://dev.to/impradeepx/sequence-avp-47ha)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
 - [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
 - [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Mozilla Monitor Will Get Your Stolen Data Off the Internet, for a Price](https://lifehacker.com/tech/is-mozilla-monitor-plus-worth-it)
 - [Lifehacker] [The OnePlus Buds 3 Sound Great, for the Price](https://lifehacker.com/tech/oneplus-buds-3-review)
 - [Lifehacker] [Yeah, You Can Totally Make Doughnuts Out of Bisquick](https://lifehacker.com/food-drink/easy-chocolate-glazed-doughnut-recipe)
-- [Lifehacker] [How to Spot a &#39;Catfish House&#39; &lpar;Before You Buy One&rpar;](https://lifehacker.com/money/catfish-house-danger-signs)
-- [Lifehacker] [This Lightweight Android Tablet Is 49% Off Right Now](https://lifehacker.com/entertainment/samsung-galaxy-tab-s6-lite-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Spot a &#39;Catfish House&#39; &lpar;Before You Buy One&rpar;](https://lifehacker.com/money/catfish-house-danger-signs)<!-- TECH-POSTS:END -->
 
 ---
 
