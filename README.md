@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
+- [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
+- [Lifehacker] [How to Make Alexa Mad, Rude, or a Little Bit Feisty](https://lifehacker.com/tech/how-to-make-alexa-mad-rude-or-feisty)
 - [Dev.to/JS] [Async and Await in JavaScript: A Comprehensive Guide](https://dev.to/mktheitguy/async-and-await-in-javascript-a-comprehensive-guide-1oka)
 - [Lifehacker] [OpenAI Just Made It Easier to Tell If an Image Was Made by DALL-E 3](https://lifehacker.com/tech/openai-adds-c2pa-watermarks-to-dall-e-3)
 - [Lifehacker] [Apple Has a New Open-Source AI Image Editor](https://lifehacker.com/tech/apple-has-a-new-open-source-ai-image-editor)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yeah, You Can Totally Make Doughnuts Out of Bisquick](https://lifehacker.com/food-drink/easy-chocolate-glazed-doughnut-recipe)
 - [Lifehacker] [How to Spot a &#39;Catfish House&#39; &lpar;Before You Buy One&rpar;](https://lifehacker.com/money/catfish-house-danger-signs)
 - [Lifehacker] [This Lightweight Android Tablet Is 49% Off Right Now](https://lifehacker.com/entertainment/samsung-galaxy-tab-s6-lite-sale)
-- [Lifehacker] [The Newest Amazon Echo Show 8 Is 40% Off Right Now](https://lifehacker.com/tech/best-echo-show-8-deal)
-- [Lifehacker] [Bluesky Is No Longer Invite Only, If Anyone Cares](https://lifehacker.com/tech/anyone-can-sign-up-for-bluesky-now-but-should-you)
-- [Lifehacker] [The Newest iPad Is Back to Its Lowest Price Ever](https://lifehacker.com/tech/10th-generation-ipad-sale)
-- [Lifehacker] [Use the ‘Pantry Challenge’ to Declutter More Than Your Pantry](https://lifehacker.com/home/how-to-use-the-three-rivers-pantry-challenge-to-declutter)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Newest Amazon Echo Show 8 Is 40% Off Right Now](https://lifehacker.com/tech/best-echo-show-8-deal)<!-- TECH-POSTS:END -->
 
 ---
 
