@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [EnterpriseApp is advancement](https://dev.to/srisomanaath/enterpriseapp-is-advancement-boc)
+- [Dev.to/JS] [Mongoose Virtuals&lpar;Schema/Model&rpar;#clear concept of Virtuals](https://dev.to/swapnanilwebdeveloper/mongoose-virtualsschemamodelclear-concept-of-virtuals-aag)
+- [Dev.to/JS] [Difference between props and state in React.js](https://dev.to/mcbarna/difference-between-props-and-state-in-reactjs-32d8)
+- [Dev.to/JS] [My Space Projects](https://dev.to/srisomanaath/my-space-projects-4cgf)
+- [Dev.to/JS] [Os Bastidores do Guarapi - Framework Modular](https://dev.to/joao_neto/os-bastidores-do-guarapi-framework-modular-24d9)
 - [Dev.to/JS] [Unleashing the Power of Custom Applications with commercetools: A Comprehensive Guide](https://dev.to/nitin-rachabathuni/unleashing-the-power-of-custom-applications-with-commercetools-a-comprehensive-guide-52h2)
 - [Dev.to/JS] [React &lpar;conferences&rpar; In 2024🤘](https://dev.to/cookieduster_n/react-conferences-in-2024-1nmd)
 - [Lifehacker] [Google Bard Is Now &#39;Gemini&#39;](https://lifehacker.com/tech/google-bard-is-now-gemini)
@@ -33,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [videojs quality change hls video](https://dev.to/krishancoder/video-js-player-custom-1hk8)
 - [Dev.to/JS] [Understanding AWS Amplify Monitoring Metrics Definitions](https://dev.to/aws-builders/understanding-aws-amplify-monitoring-metrics-definitions-43c2)
 - [Dev.to/JS] [Why we chose Bun](https://dev.to/alertpix/why-we-chose-bun-28dk)
-- [Dev.to/JS] [Introducing the pilot of Themex](https://dev.to/karsten_biedermann/introducing-the-pilot-of-themex-312c)
-- [Dev.to/JS] [How to Build AI Image Generator Website Using HTML CSS JavaScript](https://dev.to/codingmadeeasy/how-to-build-ai-image-generator-website-using-html-css-javascript-36dd)
-- [Dev.to/JS] [React Usecallback for Kids/Beginners](https://dev.to/csituma/react-usecallback-for-kidsbeginners-18df)
-- [Dev.to/JS] [Angular &lpar;17+&rpar; Reactive Forms + Signals &amp; StandAlone Components](https://dev.to/leolanese/angular-17-reactive-forms-signals-standalone-components-nib)
-- [Dev.to/JS] [Simple SEO optimization for your Sveltekit website](https://dev.to/abdulmuminyqn/simple-seo-optimization-for-your-sveltekit-website-4lil)
-- [Dev.to/JS] [Easy Math in Javascript](https://dev.to/efpage/easy-math-in-javascript-p98)
+- [Dev.to/JS] [A new way to build websites! Introducing the next version of Themex](https://dev.to/karsten_biedermann/introducing-the-pilot-of-themex-312c)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
 - [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
 - [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
