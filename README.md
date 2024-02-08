@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Behind The Scenes of console.log&lpar;&rpar; 😶‍🌫](https://dev.to/arjuncodess/behind-the-scenes-of-consolelog-2ojm)
+- [Dev.to/JS] [video js player custom](https://dev.to/krishan9871/video-js-player-custom-1hk8)
+- [Dev.to/JS] [Understanding AWS Amplify Monitoring Metrics Definitions](https://dev.to/aws-builders/understanding-aws-amplify-monitoring-metrics-definitions-43c2)
+- [Dev.to/JS] [Why we chose Bun](https://dev.to/alertpix/why-we-chose-bun-28dk)
+- [Dev.to/JS] [Introducing the pilot of Themex](https://dev.to/karsten_biedermann/introducing-the-pilot-of-themex-312c)
 - [Dev.to/JS] [How to Build AI Image Generator Website Using HTML CSS JavaScript](https://dev.to/codingmadeeasy/how-to-build-ai-image-generator-website-using-html-css-javascript-36dd)
 - [Dev.to/JS] [React Usecallback for Kids/Beginners](https://dev.to/csituma/react-usecallback-for-kidsbeginners-18df)
 - [Dev.to/JS] [Angular &lpar;17+&rpar; Reactive Forms + Signals &amp; StandAlone Components](https://dev.to/leolanese/angular-17-reactive-forms-signals-standalone-components-nib)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy Math in Javascript](https://dev.to/efpage/easy-math-in-javascript-p98)
 - [Dev.to/JS] [Mongoloquent](https://dev.to/ajatdarojat45/mongoloquent-3jhc)
 - [Dev.to/JS] [Sequence AVP](https://dev.to/impradeepx/sequence-avp-47ha)
-- [Dev.to/JS] [Create a Dropdown Menu Using HTML, CSS and JavaScript](https://dev.to/mattbug3/create-a-dropdown-menu-using-html-css-and-javascript-137l)
-- [Dev.to/JS] [Reactive Interactions with External Systems](https://dev.to/ninjin/reactive-interactions-with-external-systems-5g6a)
-- [Dev.to/JS] [What&#39;s New in TypeScript 5.4 Beta](https://dev.to/emmanuelisenah/whats-new-in-typescript-54-beta-1ndi)
-- [Dev.to/JS] [FitSpresso Reviews – Scam or Not? Side Effects,Ingredients|](https://dev.to/fitspressobuyus/fitspresso-reviews-scam-or-not-side-effectsingredients-1pkb)
-- [Dev.to/JS] [Fitspresso Everything You Need to Know About This Fitness Elixir](https://dev.to/fitspressor/fitspresso-everything-you-need-to-know-about-this-fitness-elixir-4pfb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
 - [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
 - [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
