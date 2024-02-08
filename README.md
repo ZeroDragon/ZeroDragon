@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mongoose Schema type required, lowercase, uppercase, trim, minLength,maxLength](https://dev.to/swapnanilwebdeveloper/mongoose-schema-type-required-lowercase-uppercase-trim-minlengthmaxlength-3ac3)
+- [Dev.to/JS] [Next.js starter template](https://dev.to/skolaczk/nextjs-starter-template-26i6)
+- [Dev.to/JS] [Mongoose Nested Data SchemaModel # Challange1 your skills # Difficulty Medium](https://dev.to/swapnanilwebdeveloper/mongoose-nested-data-schemamodel-challange-your-skills-difficulty-medium-8ep)
+- [Dev.to/JS] [O que é o Node.js?](https://dev.to/vanscript/o-que-e-o-nodejs-670)
+- [Dev.to/JS] [Streamline Your Small Business Payroll with ZilMoney](https://dev.to/shanzu/streamline-your-small-business-payroll-with-zilmoney-5b15)
 - [Dev.to/JS] [5 Dicas Essenciais para Melhorar a Performance de Aplicações Web](https://dev.to/kleyam/5-dicas-essenciais-para-melhorar-a-performance-de-aplicacoes-web-en1)
 - [Dev.to/JS] [Building docs with Starlight and Astro](https://dev.to/codingcatdev/building-docs-with-starlight-and-astro-310d)
 - [Dev.to/JS] [Guia do Node.js, do começo ao fim](https://dev.to/vanscript/guia-do-nodejs-do-comeco-ao-fim-3cb9)
@@ -34,14 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Site To Buy Facebook Accounts &amp; Cheap Price](https://dev.to/emmaanthon/best-site-to-buy-facebook-accounts-cheap-price-29fi)
 - [Dev.to/JS] [Best Site To Buy Twitter Accounts &amp; Cheap Price](https://dev.to/emmaanthon/best-site-to-buy-twitter-accounts-cheap-price-1heh)
 - [Dev.to/JS] [Best Site To Buy Yahoo Accounts &amp; Cheap Price](https://dev.to/emmaanthon/best-site-to-buy-yahoo-accounts-cheap-price-2dh1)
-- [Dev.to/JS] [Mongoose find&lpar;&rpar; Query : operators gt , lt ,gte, lte, in , all, nin](https://dev.to/swapnanilwebdeveloper/mongoose-find-query-operators-gt-lt-gte-lte-in-all-nin-3lnh)
 - [Lifehacker] [Gemini Is &lpar;Probably&rpar; Replacing Google Assistant](https://lifehacker.com/tech/googles-new-gemini-ai-app)
-- [Dev.to/JS] [How to make an Average Age calculator](https://dev.to/alteca/how-to-make-an-average-age-calculator-2npp)
 - [Lifehacker] [Google Won’t Let You View Cached Web Pages Anymore &lpar;But You Still Can&rpar;](https://lifehacker.com/tech/google-wont-let-you-check-cached-pages-anymore-heres-how-to-do-it-anyway)
-- [Dev.to/JS] [Mongoose Alias Schema with instance method# Diffuclty Exterme # Challange youraself](https://dev.to/swapnanilwebdeveloper/mongoose-alias-schema-with-instance-method-diffuclty-exterme-challange-youraself-2khb)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/gersibaku064/buy-google-5-star-reviews-5hl7)
 - [Lifehacker] [Seven Things You Didn’t Realize You Can Claim on Your Taxes](https://lifehacker.com/money/unexpected-things-you-can-claim-on-your-taxes)
-- [Dev.to/JS] [Mongoose QueryBuilder inside and outside schema with[ find, where, gt, lt, gte, lte, equals] different queries](https://dev.to/swapnanilwebdeveloper/mongoose-querybuilder-inside-and-outside-schema-with-find-where-gt-lt-gte-lte-equals-different-queries-57pc)
 - [Lifehacker] [How Much It’ll Cost You to Use Google&#39;s Best AI](https://lifehacker.com/tech/how-much-it-costs-to-use-google-gemini-advanced)
 - [Lifehacker] [These Are the Best Streaming Discounts for Students](https://lifehacker.com/streaming-services-student-discounts)
 - [Lifehacker] [How to Use Your Graphics Card to Get Better Streaming Video](https://lifehacker.com/tech/use-your-nvidia-rtx-gpu-to-improve-streaming-video-quality)
