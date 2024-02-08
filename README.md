@@ -27,7 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Reactive Interactions with External Systems](https://dev.to/ninjin/reactive-interactions-with-external-systems-5g6a)
-- [Dev.to/JS] [What&#39;s New in TypeScript 5.4 Beta](https://dev.to/armadillidiid/whats-new-in-typescript-54-beta-1ndi)
+- [Dev.to/JS] [What&#39;s New in TypeScript 5.4 Beta](https://dev.to/emmanuelisenah/whats-new-in-typescript-54-beta-1ndi)
 - [Dev.to/JS] [FitSpresso Reviews – Scam or Not? Side Effects,Ingredients|](https://dev.to/fitspressobuyus/fitspresso-reviews-scam-or-not-side-effectsingredients-1pkb)
 - [Dev.to/JS] [Fitspresso Everything You Need to Know About This Fitness Elixir](https://dev.to/fitspressor/fitspresso-everything-you-need-to-know-about-this-fitness-elixir-4pfb)
 - [Dev.to/JS] [Blazor Synchronized Charts: The Perfect Tool for Trade Analysis](https://dev.to/butterfly/blazor-synchronized-charts-the-perfect-tool-for-trade-analysis-3444)
