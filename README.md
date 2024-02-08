@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reactive Interactions with External Systems](https://dev.to/ninjin/reactive-interactions-with-external-systems-5g6a)
+- [Dev.to/JS] [What&#39;s New in TypeScript 5.4 Beta](https://dev.to/armadillidiid/whats-new-in-typescript-54-beta-1ndi)
 - [Dev.to/JS] [FitSpresso Reviews – Scam or Not? Side Effects,Ingredients|](https://dev.to/fitspressobuyus/fitspresso-reviews-scam-or-not-side-effectsingredients-1pkb)
 - [Dev.to/JS] [Fitspresso Everything You Need to Know About This Fitness Elixir](https://dev.to/fitspressor/fitspresso-everything-you-need-to-know-about-this-fitness-elixir-4pfb)
 - [Dev.to/JS] [Blazor Synchronized Charts: The Perfect Tool for Trade Analysis](https://dev.to/butterfly/blazor-synchronized-charts-the-perfect-tool-for-trade-analysis-3444)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigating the Next.js Landscape: TypeScript vs. JavaScript](https://dev.to/maruthi/navigating-the-nextjs-landscape-typescript-vs-javascript-3h43)
 - [Dev.to/JS] [Partial: how not to mock the whole world](https://dev.to/thekashey/partial-how-not-to-mock-the-whole-world-32pj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
-- [Dev.to/JS] [Boosting Web Performance: How We Supercharged Our Agency’s Site with Astro JS Image &amp; Speed Optimization Techniques](https://dev.to/benajaero/boosting-web-performance-how-we-supercharged-our-agencys-site-with-astro-js-image-speed-optimization-techniques-18mf)
-- [Dev.to/JS] [Nx - Project Crystal](https://dev.to/codingcatdev/nx-project-crystal-2b66)
 - [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
 - [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
 - [Lifehacker] [How to Make Alexa Mad, Rude, or a Little Bit Feisty](https://lifehacker.com/tech/how-to-make-alexa-mad-rude-or-feisty)
