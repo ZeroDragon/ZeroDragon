@@ -26,11 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Mongoose Schema type required, lowercase, uppercase, trim, minLength,maxLength](https://dev.to/swapnanilwebdeveloper/mongoose-schema-type-required-lowercase-uppercase-trim-minlengthmaxlength-3ac3)
+- [Dev.to/JS] [Mongoose Schema type required, lowercase, uppercase, trim, minLength,maxLength#challange 2](https://dev.to/swapnanilwebdeveloper/mongoose-schema-type-required-lowercase-uppercase-trim-minlengthmaxlength-3ac3)
 - [Dev.to/JS] [Next.js starter template](https://dev.to/skolaczk/nextjs-starter-template-26i6)
 - [Dev.to/JS] [Mongoose Nested Data SchemaModel # Challange1 your skills # Difficulty Medium](https://dev.to/swapnanilwebdeveloper/mongoose-nested-data-schemamodel-challange-your-skills-difficulty-medium-8ep)
+- [Lifehacker] [The Best Last-minute TV Deals Just in Time for the Super Bowl](https://lifehacker.com/tech/best-last-minute-super-bowl-tv-deals)
 - [Dev.to/JS] [O que é o Node.js?](https://dev.to/vanscript/o-que-e-o-nodejs-670)
 - [Dev.to/JS] [Streamline Your Small Business Payroll with ZilMoney](https://dev.to/shanzu/streamline-your-small-business-payroll-with-zilmoney-5b15)
+- [Lifehacker] [Make a More Adventurous Pizza With One of These Alternative Sauces](https://lifehacker.com/food-drink/make-pizza-with-alternative-sauces)
 - [Dev.to/JS] [5 Dicas Essenciais para Melhorar a Performance de Aplicações Web](https://dev.to/kleyam/5-dicas-essenciais-para-melhorar-a-performance-de-aplicacoes-web-en1)
 - [Dev.to/JS] [Building docs with Starlight and Astro](https://dev.to/codingcatdev/building-docs-with-starlight-and-astro-310d)
 - [Dev.to/JS] [Guia do Node.js, do começo ao fim](https://dev.to/vanscript/guia-do-nodejs-do-comeco-ao-fim-3cb9)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Streaming Deals for February 2024](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [13 of the Best ‘Galentine’s Day’ Movies to Stream Now](https://lifehacker.com/entertainment/best-galentines-day-movies-streaming-now)
 - [Lifehacker] [Seven Gadgets That Will Clean Your House &lpar;That Aren’t Robot Vacuums&rpar;](https://lifehacker.com/home/best-gadgets-to-clean-your-home)
-- [Lifehacker] [This Is How Air Fryers Really Work](https://lifehacker.com/food-drink/how-air-fryers-work)
-- [Lifehacker] [The Apple Watch SE Is Just $189 Right Now](https://lifehacker.com/tech/best-apple-watch-se-deal)
-- [Lifehacker] [Wall Paneling Isn’t Just a Relic From the ’70s](https://lifehacker.com/home/benefits-of-wall-paneling)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is How Air Fryers Really Work](https://lifehacker.com/food-drink/how-air-fryers-work)<!-- TECH-POSTS:END -->
 
 ---
 
