@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Best Instant Messaging APIs](https://dev.to/ably/5-best-instant-messaging-apis-4g7e)
+- [Dev.to/JS] [DevOps Foundation Certification Exam: Elevate Your Skills](https://dev.to/mqcfrpvo/devops-foundation-certification-exam-elevate-your-skills-1don)
+- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 8 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-17ge)
 - [Dev.to/JS] [[html js] Tabs content toggle](https://dev.to/ktrblog/html-js-tabs-content-toggle-39nc)
 - [Dev.to/JS] [ESSENTIAL KETO GUMMIES AUSTRALIA Reviews Feburary Trend Report &lpar;A Customer Warning Alert&rpar;: Unveiling Shocking Truths! 😮](https://dev.to/drehermueller/essential-keto-gummies-australia-reviews-feburary-trend-report-a-customer-warning-alert-unveiling-shocking-truths-4d5j)
 - [Dev.to/JS] [Women in Web3: Empowering Diversity and Inclusion in the Blockchain Revolution](https://dev.to/maya_walk/women-in-web3-empowering-diversity-and-inclusion-in-the-blockchain-revolution-457i)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chennai&#39;s Global Classrooms: A Closer Look at International Education](https://dev.to/asischennai/chennais-global-classrooms-a-closer-look-at-international-education-1f3i)
 - [Dev.to/JS] [Pokedex Project Using PokeAPI](https://dev.to/saradomincroft/pokedex-project-using-pokeapi-29ab)
 - [Dev.to/JS] [Build a Documentation Website with Gatsby in 10 Mins](https://dev.to/scofieldidehen/build-a-documentation-website-with-gatsby-in-10-mins-3b3m)
-- [Dev.to/JS] [App structure for big Vue projects](https://dev.to/jesusantguerrero/app-structure-for-vue-projects-2pbf)
-- [Dev.to/JS] [Unveiling the Tranquil Power of Therazen CBD Gummies: A Comprehensive Review](https://dev.to/therazenc/unveiling-the-tranquil-power-of-therazen-cbd-gummies-a-comprehensive-review-3lp4)
-- [Dev.to/JS] [Cannon shoot](https://dev.to/pujaam/cannon-shoot-1pe7)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
 - [Lifehacker] [These Cars Have the Cheapest Operating Costs in the U.S.](https://lifehacker.com/travel/the-cars-with-the-cheapest-operating-costs)
