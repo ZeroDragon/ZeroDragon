@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chennai&#39;s Global Classrooms: A Closer Look at International Education](https://dev.to/asischennai/chennais-global-classrooms-a-closer-look-at-international-education-1f3i)
+- [Dev.to/JS] [Pokedex Project Using PokeAPI](https://dev.to/saradomincroft/pokedex-project-using-pokeapi-29ab)
+- [Dev.to/JS] [Build a Documentation Website with Gatsby in 10 Mins](https://dev.to/scofieldidehen/build-a-documentation-website-with-gatsby-in-10-mins-3b3m)
+- [Dev.to/JS] [App structure for big Vue projects](https://dev.to/jesusantguerrero/app-structure-for-vue-projects-2pbf)
+- [Dev.to/JS] [Unveiling the Tranquil Power of Therazen CBD Gummies: A Comprehensive Review](https://dev.to/therazenc/unveiling-the-tranquil-power-of-therazen-cbd-gummies-a-comprehensive-review-3lp4)
 - [Dev.to/JS] [Cannon shoot](https://dev.to/pujaam/cannon-shoot-1pe7)
 - [Dev.to/JS] [The Weird Side Of JavaScript](https://dev.to/arafat4693/the-weird-side-of-javascript-5kl)
 - [Dev.to/JS] [Intro to JS Interop in Blazor](https://dev.to/rasheedmozaffar/intro-to-js-interop-in-blazor-46mo)
@@ -33,14 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What opportunities and challenges does edge computing present for technological innovation?](https://dev.to/yagnapandya9/what-opportunities-and-challenges-does-edge-computing-present-for-technological-innovation-5b9k)
 - [Dev.to/JS] [My Coding Adventure: Balancing a full-time job, evening classes, and a Drum &amp; Bass events and DJing side hustle](https://dev.to/saradomincroft/my-coding-adventure-balancing-a-full-time-job-evening-classes-and-a-drum-bass-events-and-djing-side-hustle-4i0)
 - [Dev.to/JS] [Gamification in Training: 5 Key Aspects](https://dev.to/najam357/gamification-in-training-5-key-aspects-5e2d)
-- [Dev.to/JS] [Short Courses in Lahore-Genuine Tech](https://dev.to/shanaulfat964/short-courses-in-lahore-genuine-tech-cec)
-- [Dev.to/JS] [Streamline Your Small Business Payroll with ZilMoney](https://dev.to/noreen/streamline-your-small-business-payroll-with-zilmoney-3l63)
-- [Dev.to/JS] [How We Achieved a Perfect 100 Google PageSpeed Score with Astro.js and Partial Hydration](https://dev.to/benajaero/how-we-achieved-a-perfect-100-google-pagespeed-score-with-astrojs-and-partial-hydration-ek1)
-- [Dev.to/JS] [Losing events from AWS lambda?](https://dev.to/codeantai/losing-events-from-aws-lambda-4g58)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
 - [Lifehacker] [These Cars Have the Cheapest Operating Costs in the U.S.](https://lifehacker.com/travel/the-cars-with-the-cheapest-operating-costs)
-- [Dev.to/JS] [Pagination in React.js &lpar;React Query included&rpar;](https://dev.to/rajaerobinson/pagination-in-reactjs-react-query-included-ckb)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
 - [Lifehacker] [Last-minute Valentine’s Day Gifts That Still Feel Personal](https://lifehacker.com/relationships/last-minute-valentines-gift-ideas)
 - [Lifehacker] [Bench the Super Bowl Sliders and Make These Mini Cheeseburger Skewers](https://lifehacker.com/food-drink/make-these-mini-cheeseburger-skewers-for-super-bowl-sunday)
