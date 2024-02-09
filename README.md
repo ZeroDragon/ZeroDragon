@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Animation with GSAP: A Comprehensive Guide](https://dev.to/allcodez/mastering-animation-with-gsap-a-comprehensive-guide-253)
 - [Dev.to/JS] [How class fields are magically created through constructor by &#39;implicit assignment&#39;](https://dev.to/hari03/how-class-fields-are-magically-created-through-constructor-by-implicit-assignment-2ab9)
+- [Lifehacker] [Five Times When You Shouldn&#39;t Renovate Your House Before Selling](https://lifehacker.com/money/when-not-to-renovate-your-house-before-selling)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/r07537669/buy-old-gmail-accounts-1g12)
 - [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/r07537669/buy-verified-cash-app-account-1id6)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Splash Screen for your SPA](https://dev.to/amjadmh73/splash-screen-for-your-spa-2h9k)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/r07537669/buy-verified-paxful-account-28eb)
 - [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)
-- [Dev.to/JS] [Dependency Hell: Navegando pelo mar de dependências](https://dev.to/httpgabrielalves/dependency-hell-navegando-pelo-mar-de-dependencias-4c0i)
 - [Lifehacker] [16 of the Best Movie Dragons to Ring in the Lunar New Year](https://lifehacker.com/entertainment/best-movies-with-dragons)
 - [Lifehacker] [How to Get Better at ‘Slow Parenting’ &lpar;and Why You Should&rpar;](https://lifehacker.com/family/how-to-get-better-at-slow-parenting)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Google&#39;s &#39;Gemini Advanced&#39; AI Is Ready to Take on ChatGPT Plus](https://lifehacker.com/tech/googles-gemini-advanced-ai-is-ready-to-take-on-chatgpt-plus)
 - [Lifehacker] [Five Ways to Generate Solar Power at Home Without Roof-mounted Panels](https://lifehacker.com/home/how-to-generate-solar-power-at-home)
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/best-romantic-comedies-on-netflix)
-- [Lifehacker] [Follow &#39;Illich&#39;s Law&#39; to Be More Productive While Taking More Breaks](https://lifehacker.com/work/illichs-law-take-breaks-to-be-more-productive)
-- [Lifehacker] [The Best Last-minute TV Deals Just in Time for the Super Bowl](https://lifehacker.com/tech/best-last-minute-super-bowl-tv-deals)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Follow &#39;Illich&#39;s Law&#39; to Be More Productive While Taking More Breaks](https://lifehacker.com/work/illichs-law-take-breaks-to-be-more-productive)<!-- TECH-POSTS:END -->
 
 ---
 
