@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.16](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-116-45jo)
+- [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $70 Right Now](https://lifehacker.com/nix-color-sensor-sale)
 - [Dev.to/JS] [Conociendo a BunJS](https://dev.to/ljcl79/conociendo-a-bunjs-15oj)
+- [Lifehacker] [A Bunch of Amazon Smart Speakers Are on Sale Right Now](https://lifehacker.com/tech/amazon-echo-smart-speaker-sale)
 - [Dev.to/JS] [Elians Astro Startkit](https://dev.to/eliancodes/elians-astro-startkit-2o9)
 - [Dev.to/JS] [Array Destructuring in Javascript, do you know what it is?](https://dev.to/falcao_g/array-destructuring-in-javascript-do-you-know-what-it-is-1k4j)
 - [Dev.to/JS] [Array Destructuring no Javascript, você sabe o que é?](https://dev.to/falcao_g/array-destructuring-no-javascript-voce-sabe-o-que-e-1m6o)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [O que é o Node.js?](https://dev.to/vanscript/o-que-e-o-nodejs-670)
 - [Dev.to/JS] [Streamline Your Small Business Payroll with ZilMoney](https://dev.to/shanzu/streamline-your-small-business-payroll-with-zilmoney-5b15)
 - [Lifehacker] [Make a More Adventurous Pizza With One of These Alternative Sauces](https://lifehacker.com/food-drink/make-pizza-with-alternative-sauces)
-- [Dev.to/JS] [5 Dicas Essenciais para Melhorar a Performance de Aplicações Web](https://dev.to/kleyam/5-dicas-essenciais-para-melhorar-a-performance-de-aplicacoes-web-en1)
 - [Lifehacker] [How to Clean Your Foam Mattress Topper](https://lifehacker.com/home/how-to-clean-foam-mattress-topper)
 - [Lifehacker] [Gemini Is &lpar;Probably&rpar; Replacing Google Assistant](https://lifehacker.com/tech/googles-new-gemini-ai-app)
 - [Lifehacker] [Google Won’t Let You View Cached Web Pages Anymore &lpar;But You Still Can&rpar;](https://lifehacker.com/tech/google-wont-let-you-check-cached-pages-anymore-heres-how-to-do-it-anyway)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [OpenAI Just Made It Easier to Tell If an Image Was Made by DALL-E 3](https://lifehacker.com/tech/openai-adds-c2pa-watermarks-to-dall-e-3)
 - [Lifehacker] [Apple Has a New Open-Source AI Image Editor](https://lifehacker.com/tech/apple-has-a-new-open-source-ai-image-editor)
 - [Lifehacker] [How to Cry More &lpar;and Why You Should&rpar;](https://lifehacker.com/health/how-to-cry-more-and-why)
-- [Lifehacker] [How Married Couples Can Double Their Retirement Tax Breaks](https://lifehacker.com/money/how-a-spousal-ira-can-double-your-retirement-tax-breaks)
-- [Lifehacker] [Beat &#39;Carlson&#39;s Law&#39; to Be More Productive](https://lifehacker.com/work/how-to-beat-carlsons-law-to-be-more-productive)
-- [Lifehacker] [For Speed and Ease, Consider the Microwaved &#39;Baked&#39; Brie](https://lifehacker.com/food-drink/how-to-make-microwaved-baked-brie)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Married Couples Can Double Their Retirement Tax Breaks](https://lifehacker.com/money/how-a-spousal-ira-can-double-your-retirement-tax-breaks)<!-- TECH-POSTS:END -->
 
 ---
 
