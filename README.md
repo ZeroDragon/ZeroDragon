@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cannon shoot](https://dev.to/pujaam/cannon-shoot-1pe7)
+- [Dev.to/JS] [The Weird Side Of JavaScript](https://dev.to/arafat4693/the-weird-side-of-javascript-5kl)
+- [Dev.to/JS] [Intro to JS Interop in Blazor](https://dev.to/rasheedmozaffar/intro-to-js-interop-in-blazor-46mo)
 - [Dev.to/JS] [HTML, CSS &amp; JavaScript For Beginners](https://dev.to/codingmadeeasy/html-css-javascript-for-beginners-52a4)
 - [Dev.to/JS] [What opportunities and challenges does edge computing present for technological innovation?](https://dev.to/yagnapandya9/what-opportunities-and-challenges-does-edge-computing-present-for-technological-innovation-5b9k)
 - [Dev.to/JS] [My Coding Adventure: Balancing a full-time job, evening classes, and a Drum &amp; Bass events and DJing side hustle](https://dev.to/saradomincroft/my-coding-adventure-balancing-a-full-time-job-evening-classes-and-a-drum-bass-events-and-djing-side-hustle-4i0)
@@ -42,11 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Last-minute Valentine’s Day Gifts That Still Feel Personal](https://lifehacker.com/relationships/last-minute-valentines-gift-ideas)
 - [Lifehacker] [Bench the Super Bowl Sliders and Make These Mini Cheeseburger Skewers](https://lifehacker.com/food-drink/make-these-mini-cheeseburger-skewers-for-super-bowl-sunday)
 - [Lifehacker] [These Are the Biggest Differences Between Google Gemini and ChatGPT](https://lifehacker.com/tech/what-is-google-gemini)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.16](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-116-45jo)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $70 Right Now](https://lifehacker.com/nix-color-sensor-sale)
-- [Dev.to/JS] [Conociendo a BunJS](https://dev.to/ljcl79/conociendo-a-bunjs-15oj)
 - [Lifehacker] [A Bunch of Amazon Smart Speakers Are on Sale Right Now](https://lifehacker.com/tech/amazon-echo-smart-speaker-sale)
-- [Dev.to/JS] [Elians Astro Startkit](https://dev.to/eliancodes/elians-astro-startkit-2o9)
 - [Lifehacker] [Meta Just Revealed How Your Threads Feed Actually Works](https://lifehacker.com/tech/how-threads-algorithm-works-according-to-meta)
 - [Lifehacker] [Google&#39;s &#39;Gemini Advanced&#39; AI Is Ready to Take on ChatGPT Plus](https://lifehacker.com/tech/googles-gemini-advanced-ai-is-ready-to-take-on-chatgpt-plus)
 - [Lifehacker] [Five Ways to Generate Solar Power at Home Without Roof-mounted Panels](https://lifehacker.com/home/how-to-generate-solar-power-at-home)
