@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How We Achieved a Perfect 100 Google PageSpeed Score with Astro.js and Partial Hydration](https://dev.to/benajaero/how-we-achieved-a-perfect-100-google-pagespeed-score-with-astrojs-and-partial-hydration-ek1)
+- [Dev.to/JS] [Losing events from AWS lambda?](https://dev.to/codeantai/losing-events-from-aws-lambda-4g58)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
+- [Lifehacker] [These Cars Have the Cheapest Operating Costs in the U.S.](https://lifehacker.com/travel/the-cars-with-the-cheapest-operating-costs)
 - [Dev.to/JS] [Pagination in React.js &lpar;React Query included&rpar;](https://dev.to/rajaerobinson/pagination-in-reactjs-react-query-included-ckb)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
 - [Lifehacker] [Last-minute Valentine’s Day Gifts That Still Feel Personal](https://lifehacker.com/relationships/last-minute-valentines-gift-ideas)
@@ -47,9 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Follow &#39;Illich&#39;s Law&#39; to Be More Productive While Taking More Breaks](https://lifehacker.com/work/illichs-law-take-breaks-to-be-more-productive)
 - [Dev.to/JS] [Mongoose Schema type required, lowercase, uppercase, trim, minLength,maxLength#challange 2](https://dev.to/swapnanilwebdeveloper/mongoose-schema-type-required-lowercase-uppercase-trim-minlengthmaxlength-3ac3)
 - [Dev.to/JS] [Next.js starter template](https://dev.to/skolaczk/nextjs-starter-template-26i6)
-- [Dev.to/JS] [Mongoose Nested Data SchemaModel # Challange1 your skills # Difficulty Medium](https://dev.to/swapnanilwebdeveloper/mongoose-nested-data-schemamodel-challange-your-skills-difficulty-medium-8ep)
 - [Lifehacker] [The Best Last-minute TV Deals Just in Time for the Super Bowl](https://lifehacker.com/tech/best-last-minute-super-bowl-tv-deals)
-- [Dev.to/JS] [O que é o Node.js?](https://dev.to/vanscript/o-que-e-o-nodejs-670)
 - [Lifehacker] [Make a More Adventurous Pizza With One of These Alternative Sauces](https://lifehacker.com/food-drink/make-pizza-with-alternative-sauces)
 - [Lifehacker] [How to Clean Your Foam Mattress Topper](https://lifehacker.com/home/how-to-clean-foam-mattress-topper)
 - [Lifehacker] [Gemini Is &lpar;Probably&rpar; Replacing Google Assistant](https://lifehacker.com/tech/googles-new-gemini-ai-app)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean or Replace Your Microwave&#39;s Filters &lpar;and How Often You Should&rpar;](https://lifehacker.com/home/how-to-clean-microwaves-filters)
 - [Lifehacker] [Google Bard Is Now &#39;Gemini&#39;](https://lifehacker.com/tech/google-bard-is-now-gemini)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
-- [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
-- [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
-- [Lifehacker] [How to Make Alexa Mad, Rude, or a Little Bit Feisty](https://lifehacker.com/tech/how-to-make-alexa-mad-rude-or-feisty)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)<!-- TECH-POSTS:END -->
 
 ---
 
