@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[html js] Tabs content toggle](https://dev.to/ktrblog/html-js-tabs-content-toggle-39nc)
+- [Dev.to/JS] [ESSENTIAL KETO GUMMIES AUSTRALIA Reviews Feburary Trend Report &lpar;A Customer Warning Alert&rpar;: Unveiling Shocking Truths! 😮](https://dev.to/drehermueller/essential-keto-gummies-australia-reviews-feburary-trend-report-a-customer-warning-alert-unveiling-shocking-truths-4d5j)
+- [Dev.to/JS] [Women in Web3: Empowering Diversity and Inclusion in the Blockchain Revolution](https://dev.to/maya_walk/women-in-web3-empowering-diversity-and-inclusion-in-the-blockchain-revolution-457i)
 - [Dev.to/JS] [Mastering Ember.js: A Comprehensive Guide to Building Robust Web Applications](https://dev.to/dhwanil/mastering-emberjs-a-comprehensive-guide-to-building-robust-web-applications-4hp1)
 - [Dev.to/JS] [Utilizing Higher-Order Components &lpar;HOC&rpar; and Function Composition to Enhance React Code Structure](https://dev.to/detoner777/utilizing-higher-order-components-hoc-and-function-composition-to-enhance-react-code-structure-3ab2)
 - [Dev.to/JS] [Getting Started with Nuxt 3](https://dev.to/boudydegeer/getting-started-with-nuxt-3-5h11)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [App structure for big Vue projects](https://dev.to/jesusantguerrero/app-structure-for-vue-projects-2pbf)
 - [Dev.to/JS] [Unveiling the Tranquil Power of Therazen CBD Gummies: A Comprehensive Review](https://dev.to/therazenc/unveiling-the-tranquil-power-of-therazen-cbd-gummies-a-comprehensive-review-3lp4)
 - [Dev.to/JS] [Cannon shoot](https://dev.to/pujaam/cannon-shoot-1pe7)
-- [Dev.to/JS] [The Weird Side Of JavaScript](https://dev.to/arafat4693/the-weird-side-of-javascript-5kl)
-- [Dev.to/JS] [Intro to JS Interop in Blazor](https://dev.to/rasheedmozaffar/intro-to-js-interop-in-blazor-46mo)
-- [Dev.to/JS] [HTML, CSS &amp; JavaScript For Beginners](https://dev.to/codingmadeeasy/html-css-javascript-for-beginners-52a4)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
 - [Lifehacker] [These Cars Have the Cheapest Operating Costs in the U.S.](https://lifehacker.com/travel/the-cars-with-the-cheapest-operating-costs)
