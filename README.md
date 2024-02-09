@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Dev.to/JS] [Cloudflare Workers: Unpacking My Fundamental Misunderstanding](https://dev.to/aantipov/cloudflare-workers-unpacking-my-fundamental-misunderstanding-5hjm)
+- [Lifehacker] [Don&#39;t Download This Fake LastPass App](https://lifehacker.com/tech/dont-download-fake-lastpass-app)
 - [Dev.to/JS] [Phanatik — Multipage blog theme. Built with Astro, Tailwind CSs and MDX](https://dev.to/lexingtonthemes/phanatik-multipage-blog-theme-built-with-astro-tailwind-css-and-mdx-3278)
 - [Dev.to/JS] [If you are not a developer, how can you gain respect on Dev.to?](https://dev.to/maya_walk/if-you-are-not-a-developer-how-can-you-gain-respect-on-devto-160j)
 - [Dev.to/JS] [5 Best Instant Messaging APIs](https://dev.to/ably/5-best-instant-messaging-apis-4g7e)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much It’ll Cost You to Use Google&#39;s Best AI](https://lifehacker.com/tech/how-much-it-costs-to-use-google-gemini-advanced)
 - [Lifehacker] [These Are the Best Streaming Discounts for Students](https://lifehacker.com/streaming-services-student-discounts)
 - [Lifehacker] [How to Use Your Graphics Card to Get Better Streaming Video](https://lifehacker.com/tech/use-your-nvidia-rtx-gpu-to-improve-streaming-video-quality)
-- [Lifehacker] [Google Made Some Improvements to &#39;Family Link&#39; Parental Controls](https://lifehacker.com/tech/google-made-some-improvements-to-family-link-parental-controls)
-- [Lifehacker] [&#39;Square Foot&#39; Gardening Is a Shortcut to Spring Planting](https://lifehacker.com/home/how-to-square-foot-garden)
-- [Lifehacker] [How to Clean or Replace Your Microwave&#39;s Filters &lpar;and How Often You Should&rpar;](https://lifehacker.com/home/how-to-clean-microwaves-filters)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Google Made Some Improvements to &#39;Family Link&#39; Parental Controls](https://lifehacker.com/tech/google-made-some-improvements-to-family-link-parental-controls)<!-- TECH-POSTS:END -->
 
 ---
 
