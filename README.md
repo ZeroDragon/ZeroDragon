@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Bench the Super Bowl Sliders and Make These Mini Cheeseburger Skewers](https://lifehacker.com/food-drink/make-these-mini-cheeseburger-skewers-for-super-bowl-sunday)
+- [Lifehacker] [These Are the Biggest Differences Between Google Gemini and ChatGPT](https://lifehacker.com/tech/what-is-google-gemini)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.16](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-116-45jo)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $70 Right Now](https://lifehacker.com/nix-color-sensor-sale)
 - [Dev.to/JS] [Conociendo a BunJS](https://dev.to/ljcl79/conociendo-a-bunjs-15oj)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
 - [Lifehacker] [How to Make Alexa Mad, Rude, or a Little Bit Feisty](https://lifehacker.com/tech/how-to-make-alexa-mad-rude-or-feisty)
 - [Lifehacker] [OpenAI Just Made It Easier to Tell If an Image Was Made by DALL-E 3](https://lifehacker.com/tech/openai-adds-c2pa-watermarks-to-dall-e-3)
-- [Lifehacker] [Apple Has a New Open-Source AI Image Editor](https://lifehacker.com/tech/apple-has-a-new-open-source-ai-image-editor)
-- [Lifehacker] [How to Cry More &lpar;and Why You Should&rpar;](https://lifehacker.com/health/how-to-cry-more-and-why)
-- [Lifehacker] [How Married Couples Can Double Their Retirement Tax Breaks](https://lifehacker.com/money/how-a-spousal-ira-can-double-your-retirement-tax-breaks)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Has a New Open-Source AI Image Editor](https://lifehacker.com/tech/apple-has-a-new-open-source-ai-image-editor)<!-- TECH-POSTS:END -->
 
 ---
 
