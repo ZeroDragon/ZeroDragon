@@ -28,6 +28,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [How We Achieved a Perfect 100 Google PageSpeed Score with Astro.js and Partial Hydration](https://dev.to/benajaero/how-we-achieved-a-perfect-100-google-pagespeed-score-with-astrojs-and-partial-hydration-ek1)
 - [Dev.to/JS] [Losing events from AWS lambda?](https://dev.to/codeantai/losing-events-from-aws-lambda-4g58)
+- [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
 - [Lifehacker] [These Cars Have the Cheapest Operating Costs in the U.S.](https://lifehacker.com/travel/the-cars-with-the-cheapest-operating-costs)
 - [Dev.to/JS] [Pagination in React.js &lpar;React Query included&rpar;](https://dev.to/rajaerobinson/pagination-in-reactjs-react-query-included-ckb)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Square Foot&#39; Gardening Is a Shortcut to Spring Planting](https://lifehacker.com/home/how-to-square-foot-garden)
 - [Lifehacker] [How to Clean or Replace Your Microwave&#39;s Filters &lpar;and How Often You Should&rpar;](https://lifehacker.com/home/how-to-clean-microwaves-filters)
 - [Lifehacker] [Google Bard Is Now &#39;Gemini&#39;](https://lifehacker.com/tech/google-bard-is-now-gemini)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
-- [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)<!-- TECH-POSTS:END -->
 
 ---
 
