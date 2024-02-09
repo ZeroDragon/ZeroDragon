@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cloudflare Workers: Unpacking My Fundamental Misunderstanding](https://dev.to/aantipov/cloudflare-workers-unpacking-my-fundamental-misunderstanding-5hjm)
+- [Dev.to/JS] [Phanatik — Multipage blog theme. Built with Astro, Tailwind CSs and MDX](https://dev.to/lexingtonthemes/phanatik-multipage-blog-theme-built-with-astro-tailwind-css-and-mdx-3278)
+- [Dev.to/JS] [If you are not a developer, how can you gain respect on Dev.to?](https://dev.to/maya_walk/if-you-are-not-a-developer-how-can-you-gain-respect-on-devto-160j)
 - [Dev.to/JS] [5 Best Instant Messaging APIs](https://dev.to/ably/5-best-instant-messaging-apis-4g7e)
 - [Dev.to/JS] [DevOps Foundation Certification Exam: Elevate Your Skills](https://dev.to/mqcfrpvo/devops-foundation-certification-exam-elevate-your-skills-1don)
+- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 8 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-17ge)
+- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Dev.to/JS] [[html js] Tabs content toggle](https://dev.to/ktrblog/html-js-tabs-content-toggle-39nc)
 - [Dev.to/JS] [ESSENTIAL KETO GUMMIES AUSTRALIA Reviews Feburary Trend Report &lpar;A Customer Warning Alert&rpar;: Unveiling Shocking Truths! 😮](https://dev.to/drehermueller/essential-keto-gummies-australia-reviews-feburary-trend-report-a-customer-warning-alert-unveiling-shocking-truths-4d5j)
 - [Dev.to/JS] [Women in Web3: Empowering Diversity and Inclusion in the Blockchain Revolution](https://dev.to/maya_walk/women-in-web3-empowering-diversity-and-inclusion-in-the-blockchain-revolution-457i)
 - [Dev.to/JS] [Mastering Ember.js: A Comprehensive Guide to Building Robust Web Applications](https://dev.to/dhwanil/mastering-emberjs-a-comprehensive-guide-to-building-robust-web-applications-4hp1)
 - [Dev.to/JS] [Utilizing Higher-Order Components &lpar;HOC&rpar; and Function Composition to Enhance React Code Structure](https://dev.to/detoner777/utilizing-higher-order-components-hoc-and-function-composition-to-enhance-react-code-structure-3ab2)
 - [Dev.to/JS] [Getting Started with Nuxt 3](https://dev.to/boudydegeer/getting-started-with-nuxt-3-5h11)
-- [Dev.to/JS] [Chennai&#39;s Global Classrooms: A Closer Look at International Education](https://dev.to/asischennai/chennais-global-classrooms-a-closer-look-at-international-education-1f3i)
-- [Dev.to/JS] [Pokedex Project Using PokeAPI](https://dev.to/saradomincroft/pokedex-project-using-pokeapi-29ab)
-- [Dev.to/JS] [Build a Documentation Website with Gatsby in 10 Mins](https://dev.to/scofieldidehen/build-a-documentation-website-with-gatsby-in-10-mins-3b3m)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
 - [Lifehacker] [These Cars Have the Cheapest Operating Costs in the U.S.](https://lifehacker.com/travel/the-cars-with-the-cheapest-operating-costs)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Your Graphics Card to Get Better Streaming Video](https://lifehacker.com/tech/use-your-nvidia-rtx-gpu-to-improve-streaming-video-quality)
 - [Lifehacker] [Google Made Some Improvements to &#39;Family Link&#39; Parental Controls](https://lifehacker.com/tech/google-made-some-improvements-to-family-link-parental-controls)
 - [Lifehacker] [&#39;Square Foot&#39; Gardening Is a Shortcut to Spring Planting](https://lifehacker.com/home/how-to-square-foot-garden)
-- [Lifehacker] [How to Clean or Replace Your Microwave&#39;s Filters &lpar;and How Often You Should&rpar;](https://lifehacker.com/home/how-to-clean-microwaves-filters)
-- [Lifehacker] [Google Bard Is Now &#39;Gemini&#39;](https://lifehacker.com/tech/google-bard-is-now-gemini)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Clean or Replace Your Microwave&#39;s Filters &lpar;and How Often You Should&rpar;](https://lifehacker.com/home/how-to-clean-microwaves-filters)<!-- TECH-POSTS:END -->
 
 ---
 
