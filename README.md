@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Reactivity Practicality in Popular Libraries](https://dev.to/ninjin/reactivity-practicality-in-popular-libraries-d6m)
+- [Dev.to/JS] [React Fundamentals part 2: Basic view on React core API&#39;s](https://dev.to/maissenayed/react-fundamentals-part-2-basic-view-on-react-core-apis-26kd)
+- [Dev.to/JS] [100+ JavaScript Projects With Source Code](https://dev.to/shantanu_jana/100-javascript-projects-with-source-code-59lo)
+- [Dev.to/JS] [Struggles with css](https://dev.to/eshwanthkartitr/struggles-with-css-405j)
+- [Dev.to/JS] [I Finally Published My First Game To Steam Using Electron &amp; My Own Voxel Engine](https://dev.to/lucasdamianjohnson/i-finally-published-my-first-game-to-steam-using-electron-my-own-voxel-engine-2ikc)
+- [Dev.to/JS] [Reactivity Practicality in Popular JS Libraries](https://dev.to/ninjin/reactivity-practicality-in-popular-libraries-d6m)
 - [Dev.to/JS] [New React dev-tools](https://dev.to/trikiahmed/new-react-dev-tools-4g9a)
 - [Lifehacker] [Why YouTube Premium Is the Best Digital Subscription](https://lifehacker.com/tech/youtube-premium-is-the-best-digital-subscription)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
@@ -40,10 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 8 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-17ge)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Dev.to/JS] [[html js] Tabs content toggle](https://dev.to/ktrblog/html-js-tabs-content-toggle-39nc)
-- [Dev.to/JS] [ESSENTIAL KETO GUMMIES AUSTRALIA Reviews Feburary Trend Report &lpar;A Customer Warning Alert&rpar;: Unveiling Shocking Truths! 😮](https://dev.to/drehermueller/essential-keto-gummies-australia-reviews-feburary-trend-report-a-customer-warning-alert-unveiling-shocking-truths-4d5j)
-- [Dev.to/JS] [Women in Web3: Empowering Diversity and Inclusion in the Blockchain Revolution](https://dev.to/maya_walk/women-in-web3-empowering-diversity-and-inclusion-in-the-blockchain-revolution-457i)
-- [Dev.to/JS] [Mastering Ember.js: A Comprehensive Guide to Building Robust Web Applications](https://dev.to/dhwanil/mastering-emberjs-a-comprehensive-guide-to-building-robust-web-applications-4hp1)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
 - [Lifehacker] [These Cars Have the Cheapest Operating Costs in the U.S.](https://lifehacker.com/travel/the-cars-with-the-cheapest-operating-costs)
