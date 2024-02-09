@@ -28,15 +28,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [How class fields are magically created through constructor by &#39;implicit assignment&#39;](https://dev.to/hari03/how-class-fields-are-magically-created-through-constructor-by-implicit-assignment-2ab9)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/r07537669/buy-old-gmail-accounts-1g12)
+- [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/r07537669/buy-verified-cash-app-account-1id6)
 - [Dev.to/JS] [Versioning and Releasing Packages in a Monorepo](https://dev.to/nx/versioning-and-releasing-packages-in-a-monorepo-31pk)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/r07537669/buy-google-reviews-3lkg)
 - [Dev.to/JS] [work from home jobs are available now at Amazon.Earn $40/50/hr.](https://dev.to/makemoneynkn/work-from-home-jobs-are-available-now-at-amazonearn-4050hr-2in5)
+- [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
 - [Dev.to/JS] [Faro.js 🌴🏖️☀️](https://dev.to/lukasborawski/farojs-1pp7)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/r07537669/buy-google-voice-accounts-21eb)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/r07537669/buy-google-5-star-reviews-3j13)
+- [Lifehacker] [How to Develop Your Romantic Competence](https://lifehacker.com/relationships/how-to-develop-your-romantic-competence)
 - [Dev.to/JS] [Splash Screen for your SPA](https://dev.to/amjadmh73/splash-screen-for-your-spa-2h9k)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/r07537669/buy-verified-paxful-account-28eb)
+- [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)
 - [Dev.to/JS] [Dependency Hell: Navegando pelo mar de dependências](https://dev.to/httpgabrielalves/dependency-hell-navegando-pelo-mar-de-dependencias-4c0i)
 - [Lifehacker] [16 of the Best Movie Dragons to Ring in the Lunar New Year](https://lifehacker.com/entertainment/best-movies-with-dragons)
 - [Lifehacker] [How to Get Better at ‘Slow Parenting’ &lpar;and Why You Should&rpar;](https://lifehacker.com/family/how-to-get-better-at-slow-parenting)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Ways to Generate Solar Power at Home Without Roof-mounted Panels](https://lifehacker.com/home/how-to-generate-solar-power-at-home)
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/best-romantic-comedies-on-netflix)
 - [Lifehacker] [Follow &#39;Illich&#39;s Law&#39; to Be More Productive While Taking More Breaks](https://lifehacker.com/work/illichs-law-take-breaks-to-be-more-productive)
-- [Lifehacker] [The Best Last-minute TV Deals Just in Time for the Super Bowl](https://lifehacker.com/tech/best-last-minute-super-bowl-tv-deals)
-- [Lifehacker] [Make a More Adventurous Pizza With One of These Alternative Sauces](https://lifehacker.com/food-drink/make-pizza-with-alternative-sauces)
-- [Lifehacker] [How to Clean Your Foam Mattress Topper](https://lifehacker.com/home/how-to-clean-foam-mattress-topper)
-- [Lifehacker] [Gemini Is &lpar;Probably&rpar; Replacing Google Assistant](https://lifehacker.com/tech/googles-new-gemini-ai-app)
-- [Lifehacker] [Google Won’t Let You View Cached Web Pages Anymore &lpar;But You Still Can&rpar;](https://lifehacker.com/tech/google-wont-let-you-check-cached-pages-anymore-heres-how-to-do-it-anyway)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Last-minute TV Deals Just in Time for the Super Bowl](https://lifehacker.com/tech/best-last-minute-super-bowl-tv-deals)<!-- TECH-POSTS:END -->
 
 ---
 
