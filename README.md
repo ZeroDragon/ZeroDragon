@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Ember.js: A Comprehensive Guide to Building Robust Web Applications](https://dev.to/dhwanil/mastering-emberjs-a-comprehensive-guide-to-building-robust-web-applications-4hp1)
+- [Dev.to/JS] [Utilizing Higher-Order Components &lpar;HOC&rpar; and Function Composition to Enhance React Code Structure](https://dev.to/detoner777/utilizing-higher-order-components-hoc-and-function-composition-to-enhance-react-code-structure-3ab2)
+- [Dev.to/JS] [Getting Started with Nuxt 3](https://dev.to/boudydegeer/getting-started-with-nuxt-3-5h11)
 - [Dev.to/JS] [Chennai&#39;s Global Classrooms: A Closer Look at International Education](https://dev.to/asischennai/chennais-global-classrooms-a-closer-look-at-international-education-1f3i)
 - [Dev.to/JS] [Pokedex Project Using PokeAPI](https://dev.to/saradomincroft/pokedex-project-using-pokeapi-29ab)
 - [Dev.to/JS] [Build a Documentation Website with Gatsby in 10 Mins](https://dev.to/scofieldidehen/build-a-documentation-website-with-gatsby-in-10-mins-3b3m)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Weird Side Of JavaScript](https://dev.to/arafat4693/the-weird-side-of-javascript-5kl)
 - [Dev.to/JS] [Intro to JS Interop in Blazor](https://dev.to/rasheedmozaffar/intro-to-js-interop-in-blazor-46mo)
 - [Dev.to/JS] [HTML, CSS &amp; JavaScript For Beginners](https://dev.to/codingmadeeasy/html-css-javascript-for-beginners-52a4)
-- [Dev.to/JS] [What opportunities and challenges does edge computing present for technological innovation?](https://dev.to/yagnapandya9/what-opportunities-and-challenges-does-edge-computing-present-for-technological-innovation-5b9k)
-- [Dev.to/JS] [My Coding Adventure: Balancing a full-time job, evening classes, and a Drum &amp; Bass events and DJing side hustle](https://dev.to/saradomincroft/my-coding-adventure-balancing-a-full-time-job-evening-classes-and-a-drum-bass-events-and-djing-side-hustle-4i0)
-- [Dev.to/JS] [Gamification in Training: 5 Key Aspects](https://dev.to/najam357/gamification-in-training-5-key-aspects-5e2d)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
 - [Lifehacker] [These Cars Have the Cheapest Operating Costs in the U.S.](https://lifehacker.com/travel/the-cars-with-the-cheapest-operating-costs)
