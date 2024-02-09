@@ -41,7 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meta Just Revealed How Your Threads Feed Actually Works](https://lifehacker.com/tech/how-threads-algorithm-works-according-to-meta)
 - [Dev.to/JS] [JavaScript beyond Simple Functions](https://dev.to/dmodena/javascript-beyond-simple-functions-15m7)
 - [Lifehacker] [Google&#39;s &#39;Gemini Advanced&#39; AI Is Ready to Take on ChatGPT Plus](https://lifehacker.com/tech/googles-gemini-advanced-ai-is-ready-to-take-on-chatgpt-plus)
-- [Dev.to/JS] [⚡ How I Made a Profanity Detection and Filtering JavaScript Library 🤬](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
+- [Dev.to/JS] [⚡ I Made a JavaScript Library that Leaves Profanity Speechless! 🤬](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
 - [Lifehacker] [Five Ways to Generate Solar Power at Home Without Roof-mounted Panels](https://lifehacker.com/home/how-to-generate-solar-power-at-home)
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/best-romantic-comedies-on-netflix)
 - [Lifehacker] [Follow &#39;Illich&#39;s Law&#39; to Be More Productive While Taking More Breaks](https://lifehacker.com/work/illichs-law-take-breaks-to-be-more-productive)
