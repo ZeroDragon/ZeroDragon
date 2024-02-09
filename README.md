@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How class fields are magically created through constructor by &#39;implicit assignment&#39;](https://dev.to/hari03/how-class-fields-are-magically-created-through-constructor-by-implicit-assignment-2ab9)
+- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/r07537669/buy-old-gmail-accounts-1g12)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/r07537669/buy-verified-cash-app-account-1id6)
 - [Dev.to/JS] [Versioning and Releasing Packages in a Monorepo](https://dev.to/nx/versioning-and-releasing-packages-in-a-monorepo-31pk)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/r07537669/buy-google-reviews-3lkg)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/r07537669/buy-verified-paxful-account-28eb)
 - [Dev.to/JS] [Dependency Hell: Navegando pelo mar de dependências](https://dev.to/httpgabrielalves/dependency-hell-navegando-pelo-mar-de-dependencias-4c0i)
 - [Lifehacker] [16 of the Best Movie Dragons to Ring in the Lunar New Year](https://lifehacker.com/entertainment/best-movies-with-dragons)
-- [Dev.to/JS] [React Fundamentals part 2: Basic view on React core API&#39;s](https://dev.to/maissenayed/react-fundamentals-part-2-basic-view-on-react-core-apis-26kd)
-- [Dev.to/JS] [100+ JavaScript Projects With Source Code](https://dev.to/shantanu_jana/100-javascript-projects-with-source-code-59lo)
 - [Lifehacker] [How to Get Better at ‘Slow Parenting’ &lpar;and Why You Should&rpar;](https://lifehacker.com/family/how-to-get-better-at-slow-parenting)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
 - [Lifehacker] [Why YouTube Premium Is the Best Digital Subscription](https://lifehacker.com/tech/youtube-premium-is-the-best-digital-subscription)
