@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Migrando do Moment.js para Day.js em Projetos React: Guia completo](https://dev.to/hudson3384/migrando-do-momentjs-para-dayjs-em-projetos-react-guia-completo-15ng)
+- [Dev.to/JS] [In the Gut: Reaching a Better Understanding of Recursion](https://dev.to/halented/in-the-gut-reaching-a-better-understanding-of-recursion-3bk4)
 - [Dev.to/JS] [Mastering Animation with GSAP: A Comprehensive Guide](https://dev.to/allcodez/mastering-animation-with-gsap-a-comprehensive-guide-253)
+- [Lifehacker] [What People Are Getting Wrong This Week: Taylor Swift Conspiracy Theories](https://lifehacker.com/entertainment/taylor-swift-conspiracy-theories)
+- [Lifehacker] [The Apple MagSafe Duo Charger Is $50 Off Right Now](https://lifehacker.com/tech/apple-magsafe-duo-charger-sale)
+- [Lifehacker] [Why Charred Lumber Is the Upgrade Your Next Woodworking Project Needs](https://lifehacker.com/home/why-charred-lumber-is-the-upgrade-your-next-project-needs)
+- [Lifehacker] [The Best Game Day Snacks You Can Make in the Air Fryer](https://lifehacker.com/food-drink/the-best-air-fryer-snacks-for-the-big-game)
 - [Dev.to/JS] [How class fields are magically created through constructor by &#39;implicit assignment&#39;](https://dev.to/hari03/how-class-fields-are-magically-created-through-constructor-by-implicit-assignment-2ab9)
 - [Lifehacker] [Five Times When You Shouldn&#39;t Renovate Your House Before Selling](https://lifehacker.com/money/when-not-to-renovate-your-house-before-selling)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/r07537669/buy-old-gmail-accounts-1g12)
@@ -40,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/r07537669/buy-google-voice-accounts-21eb)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/r07537669/buy-google-5-star-reviews-3j13)
 - [Lifehacker] [How to Develop Your Romantic Competence](https://lifehacker.com/relationships/how-to-develop-your-romantic-competence)
-- [Dev.to/JS] [Splash Screen for your SPA](https://dev.to/amjadmh73/splash-screen-for-your-spa-2h9k)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/r07537669/buy-verified-paxful-account-28eb)
 - [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)
 - [Lifehacker] [16 of the Best Movie Dragons to Ring in the Lunar New Year](https://lifehacker.com/entertainment/best-movies-with-dragons)
 - [Lifehacker] [How to Get Better at ‘Slow Parenting’ &lpar;and Why You Should&rpar;](https://lifehacker.com/family/how-to-get-better-at-slow-parenting)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Biggest Differences Between Google Gemini and ChatGPT](https://lifehacker.com/tech/what-is-google-gemini)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $70 Right Now](https://lifehacker.com/nix-color-sensor-sale)
 - [Lifehacker] [A Bunch of Amazon Smart Speakers Are on Sale Right Now](https://lifehacker.com/tech/amazon-echo-smart-speaker-sale)
-- [Lifehacker] [Meta Just Revealed How Your Threads Algorithm Actually Works](https://lifehacker.com/tech/how-threads-algorithm-works-according-to-meta)
-- [Lifehacker] [Google&#39;s &#39;Gemini Advanced&#39; AI Is Ready to Take on ChatGPT Plus](https://lifehacker.com/tech/googles-gemini-advanced-ai-is-ready-to-take-on-chatgpt-plus)
-- [Lifehacker] [Five Ways to Generate Solar Power at Home Without Roof-mounted Panels](https://lifehacker.com/home/how-to-generate-solar-power-at-home)
-- [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/best-romantic-comedies-on-netflix)
-- [Lifehacker] [Follow &#39;Illich&#39;s Law&#39; to Be More Productive While Taking More Breaks](https://lifehacker.com/work/illichs-law-take-breaks-to-be-more-productive)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Meta Just Revealed How Your Threads Algorithm Actually Works](https://lifehacker.com/tech/how-threads-algorithm-works-according-to-meta)<!-- TECH-POSTS:END -->
 
 ---
 
