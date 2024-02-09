@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML, CSS &amp; JavaScript For Beginners](https://dev.to/codingmadeeasy/html-css-javascript-for-beginners-52a4)
+- [Dev.to/JS] [What opportunities and challenges does edge computing present for technological innovation?](https://dev.to/yagnapandya9/what-opportunities-and-challenges-does-edge-computing-present-for-technological-innovation-5b9k)
+- [Dev.to/JS] [My Coding Adventure: Balancing a full-time job, evening classes, and a Drum &amp; Bass events and DJing side hustle](https://dev.to/saradomincroft/my-coding-adventure-balancing-a-full-time-job-evening-classes-and-a-drum-bass-events-and-djing-side-hustle-4i0)
 - [Dev.to/JS] [Gamification in Training: 5 Key Aspects](https://dev.to/najam357/gamification-in-training-5-key-aspects-5e2d)
 - [Dev.to/JS] [Short Courses in Lahore-Genuine Tech](https://dev.to/shanaulfat964/short-courses-in-lahore-genuine-tech-cec)
 - [Dev.to/JS] [Streamline Your Small Business Payroll with ZilMoney](https://dev.to/noreen/streamline-your-small-business-payroll-with-zilmoney-3l63)
@@ -44,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Conociendo a BunJS](https://dev.to/ljcl79/conociendo-a-bunjs-15oj)
 - [Lifehacker] [A Bunch of Amazon Smart Speakers Are on Sale Right Now](https://lifehacker.com/tech/amazon-echo-smart-speaker-sale)
 - [Dev.to/JS] [Elians Astro Startkit](https://dev.to/eliancodes/elians-astro-startkit-2o9)
-- [Dev.to/JS] [Array Destructuring in Javascript, do you know what it is?](https://dev.to/falcao_g/array-destructuring-in-javascript-do-you-know-what-it-is-1k4j)
-- [Dev.to/JS] [Array Destructuring no Javascript, você sabe o que é?](https://dev.to/falcao_g/array-destructuring-no-javascript-voce-sabe-o-que-e-1m6o)
 - [Lifehacker] [Meta Just Revealed How Your Threads Feed Actually Works](https://lifehacker.com/tech/how-threads-algorithm-works-according-to-meta)
-- [Dev.to/JS] [JavaScript beyond Simple Functions](https://dev.to/dmodena/javascript-beyond-simple-functions-15m7)
 - [Lifehacker] [Google&#39;s &#39;Gemini Advanced&#39; AI Is Ready to Take on ChatGPT Plus](https://lifehacker.com/tech/googles-gemini-advanced-ai-is-ready-to-take-on-chatgpt-plus)
 - [Lifehacker] [Five Ways to Generate Solar Power at Home Without Roof-mounted Panels](https://lifehacker.com/home/how-to-generate-solar-power-at-home)
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/best-romantic-comedies-on-netflix)
