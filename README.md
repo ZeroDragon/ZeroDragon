@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pagination in React.js &lpar;React Query included&rpar;](https://dev.to/rajaerobinson/pagination-in-reactjs-react-query-included-ckb)
+- [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
+- [Lifehacker] [Last-minute Valentine’s Day Gifts That Still Feel Personal](https://lifehacker.com/relationships/last-minute-valentines-gift-ideas)
 - [Lifehacker] [Bench the Super Bowl Sliders and Make These Mini Cheeseburger Skewers](https://lifehacker.com/food-drink/make-these-mini-cheeseburger-skewers-for-super-bowl-sunday)
 - [Lifehacker] [These Are the Biggest Differences Between Google Gemini and ChatGPT](https://lifehacker.com/tech/what-is-google-gemini)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.16](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-116-45jo)
@@ -38,7 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meta Just Revealed How Your Threads Feed Actually Works](https://lifehacker.com/tech/how-threads-algorithm-works-according-to-meta)
 - [Dev.to/JS] [JavaScript beyond Simple Functions](https://dev.to/dmodena/javascript-beyond-simple-functions-15m7)
 - [Lifehacker] [Google&#39;s &#39;Gemini Advanced&#39; AI Is Ready to Take on ChatGPT Plus](https://lifehacker.com/tech/googles-gemini-advanced-ai-is-ready-to-take-on-chatgpt-plus)
-- [Dev.to/JS] [How I Built a Profanity Blocking JavaScript Library 🤬 ⚡](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
+- [Dev.to/JS] [⚡ How I Made a Profanity Detection and Filtering JavaScript Library 🤬](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
 - [Lifehacker] [Five Ways to Generate Solar Power at Home Without Roof-mounted Panels](https://lifehacker.com/home/how-to-generate-solar-power-at-home)
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/best-romantic-comedies-on-netflix)
 - [Lifehacker] [Follow &#39;Illich&#39;s Law&#39; to Be More Productive While Taking More Breaks](https://lifehacker.com/work/illichs-law-take-breaks-to-be-more-productive)
@@ -47,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mongoose Nested Data SchemaModel # Challange1 your skills # Difficulty Medium](https://dev.to/swapnanilwebdeveloper/mongoose-nested-data-schemamodel-challange-your-skills-difficulty-medium-8ep)
 - [Lifehacker] [The Best Last-minute TV Deals Just in Time for the Super Bowl](https://lifehacker.com/tech/best-last-minute-super-bowl-tv-deals)
 - [Dev.to/JS] [O que é o Node.js?](https://dev.to/vanscript/o-que-e-o-nodejs-670)
-- [Dev.to/JS] [Streamline Your Small Business Payroll with ZilMoney](https://dev.to/shanzu/streamline-your-small-business-payroll-with-zilmoney-5b15)
 - [Lifehacker] [Make a More Adventurous Pizza With One of These Alternative Sauces](https://lifehacker.com/food-drink/make-pizza-with-alternative-sauces)
 - [Lifehacker] [How to Clean Your Foam Mattress Topper](https://lifehacker.com/home/how-to-clean-foam-mattress-topper)
 - [Lifehacker] [Gemini Is &lpar;Probably&rpar; Replacing Google Assistant](https://lifehacker.com/tech/googles-new-gemini-ai-app)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 8, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-8-2024)
 - [Lifehacker] [How to Customize Your Steam Deck Theme](https://lifehacker.com/tech/how-to-customize-your-steam-deck-theme)
 - [Lifehacker] [How to Make Sure Your Tax Preparer Actually Knows What They’re Doing](https://lifehacker.com/money/how-to-choose-a-qualified-tax-professional)
-- [Lifehacker] [How to Make Alexa Mad, Rude, or a Little Bit Feisty](https://lifehacker.com/tech/how-to-make-alexa-mad-rude-or-feisty)
-- [Lifehacker] [OpenAI Just Made It Easier to Tell If an Image Was Made by DALL-E 3](https://lifehacker.com/tech/openai-adds-c2pa-watermarks-to-dall-e-3)
-- [Lifehacker] [Apple Has a New Open-Source AI Image Editor](https://lifehacker.com/tech/apple-has-a-new-open-source-ai-image-editor)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Alexa Mad, Rude, or a Little Bit Feisty](https://lifehacker.com/tech/how-to-make-alexa-mad-rude-or-feisty)<!-- TECH-POSTS:END -->
 
 ---
 
