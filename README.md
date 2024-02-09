@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gamification in Training: 5 Key Aspects](https://dev.to/najam357/gamification-in-training-5-key-aspects-5e2d)
+- [Dev.to/JS] [Short Courses in Lahore-Genuine Tech](https://dev.to/shanaulfat964/short-courses-in-lahore-genuine-tech-cec)
+- [Dev.to/JS] [Streamline Your Small Business Payroll with ZilMoney](https://dev.to/noreen/streamline-your-small-business-payroll-with-zilmoney-3l63)
 - [Dev.to/JS] [How We Achieved a Perfect 100 Google PageSpeed Score with Astro.js and Partial Hydration](https://dev.to/benajaero/how-we-achieved-a-perfect-100-google-pagespeed-score-with-astrojs-and-partial-hydration-ek1)
 - [Dev.to/JS] [Losing events from AWS lambda?](https://dev.to/codeantai/losing-events-from-aws-lambda-4g58)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
@@ -46,12 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Meta Just Revealed How Your Threads Feed Actually Works](https://lifehacker.com/tech/how-threads-algorithm-works-according-to-meta)
 - [Dev.to/JS] [JavaScript beyond Simple Functions](https://dev.to/dmodena/javascript-beyond-simple-functions-15m7)
 - [Lifehacker] [Google&#39;s &#39;Gemini Advanced&#39; AI Is Ready to Take on ChatGPT Plus](https://lifehacker.com/tech/googles-gemini-advanced-ai-is-ready-to-take-on-chatgpt-plus)
-- [Dev.to/JS] [⚡ I Made a JavaScript Library that Leaves Profanity Speechless! 🤬](https://dev.to/best_codes/how-i-built-a-profanity-blocking-javascript-library-f8f)
 - [Lifehacker] [Five Ways to Generate Solar Power at Home Without Roof-mounted Panels](https://lifehacker.com/home/how-to-generate-solar-power-at-home)
 - [Lifehacker] [The 20 Best Romantic Comedies Streaming on Netflix Right Now](https://lifehacker.com/best-romantic-comedies-on-netflix)
 - [Lifehacker] [Follow &#39;Illich&#39;s Law&#39; to Be More Productive While Taking More Breaks](https://lifehacker.com/work/illichs-law-take-breaks-to-be-more-productive)
-- [Dev.to/JS] [Mongoose Schema type required, lowercase, uppercase, trim, minLength,maxLength#challange 2](https://dev.to/swapnanilwebdeveloper/mongoose-schema-type-required-lowercase-uppercase-trim-minlengthmaxlength-3ac3)
-- [Dev.to/JS] [Next.js starter template](https://dev.to/skolaczk/nextjs-starter-template-26i6)
 - [Lifehacker] [The Best Last-minute TV Deals Just in Time for the Super Bowl](https://lifehacker.com/tech/best-last-minute-super-bowl-tv-deals)
 - [Lifehacker] [Make a More Adventurous Pizza With One of These Alternative Sauces](https://lifehacker.com/food-drink/make-pizza-with-alternative-sauces)
 - [Lifehacker] [How to Clean Your Foam Mattress Topper](https://lifehacker.com/home/how-to-clean-foam-mattress-topper)
