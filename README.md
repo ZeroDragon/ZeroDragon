@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Splash Screen for your SPA](https://dev.to/amjadmh73/splash-screen-for-your-spa-2h9k)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/r07537669/buy-verified-paxful-account-28eb)
+- [Dev.to/JS] [Dependency Hell: Navegando pelo mar de dependências](https://dev.to/httpgabrielalves/dependency-hell-navegando-pelo-mar-de-dependencias-4c0i)
 - [Dev.to/JS] [React Fundamentals part 2: Basic view on React core API&#39;s](https://dev.to/maissenayed/react-fundamentals-part-2-basic-view-on-react-core-apis-26kd)
 - [Dev.to/JS] [100+ JavaScript Projects With Source Code](https://dev.to/shantanu_jana/100-javascript-projects-with-source-code-59lo)
 - [Dev.to/JS] [Struggles with css](https://dev.to/eshwanthkartitr/struggles-with-css-405j)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Download This Fake LastPass App](https://lifehacker.com/tech/dont-download-fake-lastpass-app)
 - [Dev.to/JS] [Phanatik — Multipage blog theme. Built with Astro, Tailwind CSs and MDX](https://dev.to/lexingtonthemes/phanatik-multipage-blog-theme-built-with-astro-tailwind-css-and-mdx-3278)
 - [Dev.to/JS] [If you are not a developer, how can you gain respect on Dev.to?](https://dev.to/maya_walk/if-you-are-not-a-developer-how-can-you-gain-respect-on-devto-160j)
-- [Dev.to/JS] [5 Best Instant Messaging APIs](https://dev.to/ably/5-best-instant-messaging-apis-4g7e)
-- [Dev.to/JS] [DevOps Foundation Certification Exam: Elevate Your Skills](https://dev.to/mqcfrpvo/devops-foundation-certification-exam-elevate-your-skills-1don)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
-- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 8 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-17ge)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
