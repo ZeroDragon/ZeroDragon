@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [peacocktv.com/tv - peacocktv.com tv](https://dev.to/peacockltd/peacocktvcomtv-peacocktvcom-tv-14j0)
+- [Dev.to/JS] [How to connect Eleventy and Storyblok](https://dev.to/guaca/how-to-connect-eleventy-and-storyblok-49fj)
+- [Dev.to/JS] [Сhannel - Universal Reactive Abstraction](https://dev.to/ninjin/shannel-universal-reactive-abstraction-2k4e)
 - [Dev.to/JS] [Implementing Real time communication between the server and the client.](https://dev.to/oussamabouyahia/implementing-real-time-communication-between-the-server-and-the-client-4370)
 - [Dev.to/JS] [Fighting the &lt;div&gt; soup with a 5 minute instant Web Component](https://dev.to/dannyengelman/fighting-the-soup-with-a-5-minute-instant-web-component-3n9i)
 - [Dev.to/JS] [How To Learn the Logic of JavaScript](https://dev.to/joemama123/how-to-learn-the-logic-of-javascript-34l0)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly Tech Discoveries Part - 01](https://dev.to/gimnathperera/weekly-tech-discoveries-part-01-6k0)
 - [Dev.to/JS] [Web development](https://dev.to/safalcode/web-development-49kc)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/hubertbonner13/buy-google-reviews-3b26)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/hubertbonner13/buy-google-voice-accounts-551e)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/hubertbonner13/buy-google-5-star-reviews-330b)
-- [Dev.to/JS] [Revolutionizing JavaScript Form Validation: Introducing FavJS](https://dev.to/bhaswanth/revolutionizing-javascript-form-validation-introducing-favjs-4el7)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
 - [Lifehacker] [How to Play Apple Music on Alexa](https://lifehacker.com/tech/how-to-play-apple-music-on-alexa)
