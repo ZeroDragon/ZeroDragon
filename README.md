@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fighting the &lt;div&gt; soup with a 5 minute instant Web Component](https://dev.to/dannyengelman/fighting-the-soup-with-a-5-minute-instant-web-component-3n9i)
+- [Dev.to/JS] [How To Learn the Logic of JavaScript](https://dev.to/joemama123/how-to-learn-the-logic-of-javascript-34l0)
+- [Dev.to/JS] [Exploring JavaScript in 2024: Highlights from the Top Trends](https://dev.to/vaskonikolov23/exploring-javascript-in-2024-highlights-from-the-top-trends-808)
+- [Dev.to/JS] [Basic Calculator](https://dev.to/mheyrie/basic-calculator-1bio)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/hubertbonner13/buy-glassdoor-reviews-2pg0)
 - [Dev.to/JS] [Weekly Tech Discoveries Part - 01](https://dev.to/gimnathperera/weekly-tech-discoveries-part-01-6k0)
 - [Dev.to/JS] [Web development](https://dev.to/safalcode/web-development-49kc)
@@ -38,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
 - [Lifehacker] [How to Play Apple Music on Alexa](https://lifehacker.com/tech/how-to-play-apple-music-on-alexa)
 - [Lifehacker] [The Most Helpful ‘Laws’ of Productivity to Get More Done](https://lifehacker.com/work/laws-of-productivity)
-- [Dev.to/JS] [Locally hosted AI writing assistant](https://dev.to/wagenrace/locally-hosted-ai-writing-assistant-1bfa)
-- [Dev.to/JS] [Embracing the Future: How SvelteKit Streamlines Web Development Beyond React](https://dev.to/vaskonikolov23/embracing-the-future-how-sveltekit-streamlines-web-development-beyond-react-5c4f)
-- [Dev.to/JS] [Do you use bcrypt or other 3rd-party npm packages when hashing user password?](https://dev.to/iamgreenintro/do-you-use-bcrypt-or-other-3rd-party-npm-packages-when-hashing-user-password-49bi)
 - [Lifehacker] [You Can Get This 3-in-1 Nintendo Switch Docking Station for $20 Right Now](https://lifehacker.com/nintendo-switch-docking-station-sale)
-- [Dev.to/JS] [Animations in React with Framer Motion 😎🍿](https://dev.to/techcheck/animations-in-react-with-framer-motion-44jo)
 - [Lifehacker] [Why the Social Media Hype Around Magnesium Is Overblown](https://lifehacker.com/health/why-is-magnesium-so-popular-right-now)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is on Sale for $70 Right Now](https://lifehacker.com/cybersecurity-it-skills-course-sale)
