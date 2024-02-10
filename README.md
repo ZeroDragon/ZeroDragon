@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🎉 iPhone 15 Pro Max Giveaway 📱🌟](https://dev.to/adriana258/iphone-15-pro-max-giveaway-1nbl)
+- [Dev.to/JS] [How to Navigate MO-200 Practice Questions: A Step-by-Step Guide](https://dev.to/mo200excelexam/how-to-navigate-mo-200-practice-questions-a-step-by-step-guide-35ii)
+- [Dev.to/JS] [Discovering JavaScript&#39;s Hidden Secrets: Understanding Arrays as a Data Structure.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-arrays-as-a-data-structure-1na6)
+- [Dev.to/JS] [Real-Time Cryptocurrency Price Charts in React with Python Websockets](https://dev.to/scofieldidehen/real-time-cryptocurrency-price-charts-in-react-with-python-websockets-267g)
 - [Dev.to/JS] [1. How Dumps Villa Helps You Achieve Exam Success](https://dev.to/cornind1985/1how-dumps-villa-helps-you-achieve-exam-success-23f7)
 - [Dev.to/JS] [Implement a Light and Dark Mode Toggle with JavaScript and Local Storage.](https://dev.to/dunia/implement-a-light-and-dark-mode-toggle-with-javascript-and-local-storage-19ce)
 - [Dev.to/JS] [JSON.stringify: JavaScript Serialization Simplified](https://dev.to/mitchiemt11/jsonstringify-javascript-serialization-simplified-5akf)
@@ -34,13 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [require Vs import: Old Vs New war in Javascript](https://dev.to/codeparrot/require-vs-import-old-vs-new-war-in-javascript-29gj)
 - [Dev.to/JS] [Vue Boilerplate with Vite, Tailwind CSS, Pinia, and Axios](https://dev.to/saymenghour/vue-boilerplate-with-vite-tailwind-css-pinia-and-axios-1fc6)
 - [Dev.to/JS] [DevOps Guide](https://dev.to/devgancode/devops-guide-2l9o)
-- [Dev.to/JS] [Exploring DevOps: Foundation Certification Exam Riddles](https://dev.to/xt9mqvn1/exploring-devops-foundation-certification-exam-riddles-1ieb)
-- [Dev.to/JS] [Understanding `this` keyword in javascript](https://dev.to/codeparrot/understanding-this-keyword-in-javascript-27bp)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is on Sale for $70 Right Now](https://lifehacker.com/cybersecurity-it-skills-course-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-10-2024)
-- [Dev.to/JS] [Understanding and Mastering React Components.](https://dev.to/pinky057/understanding-and-mastering-react-components-bnm)
-- [Dev.to/JS] [Understanding JavaScript Variables: Scope, Use Cases, and Features](https://dev.to/devendra_2806/understanding-javascript-variables-scope-use-cases-and-features-46gk)
 - [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $150 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $40 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
