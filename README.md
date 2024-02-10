@@ -29,8 +29,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Locally hosted AI writing assistant](https://dev.to/wagenrace/locally-hosted-ai-writing-assistant-1bfa)
 - [Dev.to/JS] [Embracing the Future: How SvelteKit Streamlines Web Development Beyond React](https://dev.to/vaskonikolov23/embracing-the-future-how-sveltekit-streamlines-web-development-beyond-react-5c4f)
 - [Dev.to/JS] [Do you use bcrypt or other 3rd-party npm packages when hashing user password?](https://dev.to/iamgreenintro/do-you-use-bcrypt-or-other-3rd-party-npm-packages-when-hashing-user-password-49bi)
+- [Lifehacker] [You Can Get This 3-in-1 Nintendo Switch Docking Station for $20 Right Now](https://lifehacker.com/nintendo-switch-docking-station-sale)
 - [Dev.to/JS] [Animations in React with Framer Motion 😎🍿](https://dev.to/techcheck/animations-in-react-with-framer-motion-44jo)
 - [Dev.to/JS] [How I got Vue-certified](https://dev.to/aloisseckar/how-i-got-vue-certified-3bbj)
+- [Lifehacker] [Why the Social Media Hype Around Magnesium Is Overblown](https://lifehacker.com/health/why-is-magnesium-so-popular-right-now)
 - [Dev.to/JS] [Mastering Server-Side Rendering: A React-Express Integration Guide](https://dev.to/graynneji/mastering-server-side-rendering-a-react-express-integration-guide-1e3p)
 - [Dev.to/JS] [Expected an assignment or function call and instead saw an expression](https://dev.to/reactjsguru/expected-an-assignment-or-function-call-and-instead-saw-an-expression-47ph)
 - [Dev.to/JS] [🎉 iPhone 15 Pro Max Giveaway 📱🌟](https://dev.to/adriana258/iphone-15-pro-max-giveaway-1nbl)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [Don&#39;t Download This Fake LastPass App](https://lifehacker.com/tech/dont-download-fake-lastpass-app)
-- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
-- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
