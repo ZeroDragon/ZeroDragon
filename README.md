@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/hubertbonner13/buy-glassdoor-reviews-2pg0)
+- [Dev.to/JS] [Weekly Tech Discoveries Part - 01](https://dev.to/gimnathperera/weekly-tech-discoveries-part-01-6k0)
+- [Dev.to/JS] [Web development](https://dev.to/safalcode/web-development-49kc)
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/hubertbonner13/buy-google-reviews-3b26)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/hubertbonner13/buy-google-voice-accounts-551e)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/hubertbonner13/buy-google-5-star-reviews-330b)
 - [Dev.to/JS] [Revolutionizing JavaScript Form Validation: Introducing FavJS](https://dev.to/bhaswanth/revolutionizing-javascript-form-validation-introducing-favjs-4el7)
@@ -39,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do you use bcrypt or other 3rd-party npm packages when hashing user password?](https://dev.to/iamgreenintro/do-you-use-bcrypt-or-other-3rd-party-npm-packages-when-hashing-user-password-49bi)
 - [Lifehacker] [You Can Get This 3-in-1 Nintendo Switch Docking Station for $20 Right Now](https://lifehacker.com/nintendo-switch-docking-station-sale)
 - [Dev.to/JS] [Animations in React with Framer Motion 😎🍿](https://dev.to/techcheck/animations-in-react-with-framer-motion-44jo)
-- [Dev.to/JS] [How I got Vue-certified](https://dev.to/aloisseckar/how-i-got-vue-certified-3bbj)
 - [Lifehacker] [Why the Social Media Hype Around Magnesium Is Overblown](https://lifehacker.com/health/why-is-magnesium-so-popular-right-now)
-- [Dev.to/JS] [Mastering Server-Side Rendering: A React-Express Integration Guide](https://dev.to/graynneji/mastering-server-side-rendering-a-react-express-integration-guide-1e3p)
-- [Dev.to/JS] [Expected an assignment or function call and instead saw an expression](https://dev.to/reactjsguru/expected-an-assignment-or-function-call-and-instead-saw-an-expression-47ph)
-- [Dev.to/JS] [🎉 iPhone 15 Pro Max Giveaway 📱🌟](https://dev.to/adriana258/iphone-15-pro-max-giveaway-1nbl)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is on Sale for $70 Right Now](https://lifehacker.com/cybersecurity-it-skills-course-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-10-2024)
