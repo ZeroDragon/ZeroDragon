@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Locally hosted AI writing assistant](https://dev.to/wagenrace/locally-hosted-ai-writing-assistant-1bfa)
+- [Dev.to/JS] [Embracing the Future: How SvelteKit Streamlines Web Development Beyond React](https://dev.to/vaskonikolov23/embracing-the-future-how-sveltekit-streamlines-web-development-beyond-react-5c4f)
+- [Dev.to/JS] [Do you use bcrypt or other 3rd-party npm packages when hashing user password?](https://dev.to/iamgreenintro/do-you-use-bcrypt-or-other-3rd-party-npm-packages-when-hashing-user-password-49bi)
 - [Dev.to/JS] [Animations in React with Framer Motion 😎🍿](https://dev.to/techcheck/animations-in-react-with-framer-motion-44jo)
 - [Dev.to/JS] [How I got Vue-certified](https://dev.to/aloisseckar/how-i-got-vue-certified-3bbj)
 - [Dev.to/JS] [Mastering Server-Side Rendering: A React-Express Integration Guide](https://dev.to/graynneji/mastering-server-side-rendering-a-react-express-integration-guide-1e3p)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Discovering JavaScript&#39;s Hidden Secrets: Understanding Arrays as a Data Structure.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-arrays-as-a-data-structure-1na6)
 - [Dev.to/JS] [Real-Time Cryptocurrency Price Charts in React with Python Websockets](https://dev.to/scofieldidehen/real-time-cryptocurrency-price-charts-in-react-with-python-websockets-267g)
 - [Dev.to/JS] [1. How Dumps Villa Helps You Achieve Exam Success](https://dev.to/cornind1985/1how-dumps-villa-helps-you-achieve-exam-success-23f7)
-- [Dev.to/JS] [Implement a Light and Dark Mode Toggle with JavaScript and Local Storage.](https://dev.to/dunia/implement-a-light-and-dark-mode-toggle-with-javascript-and-local-storage-19ce)
-- [Dev.to/JS] [JSON.stringify: JavaScript Serialization Simplified](https://dev.to/mitchiemt11/jsonstringify-javascript-serialization-simplified-5akf)
-- [Dev.to/JS] [Create MultiProject Angular Application🔥](https://dev.to/venkateshpensalwar/create-multiproject-angular-application-18h0)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is on Sale for $70 Right Now](https://lifehacker.com/cybersecurity-it-skills-course-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-10-2024)
