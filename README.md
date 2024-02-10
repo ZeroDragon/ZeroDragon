@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [1. How Dumps Villa Helps You Achieve Exam Success](https://dev.to/cornind1985/1how-dumps-villa-helps-you-achieve-exam-success-23f7)
+- [Dev.to/JS] [Implement a Light and Dark Mode Toggle with JavaScript and Local Storage.](https://dev.to/dunia/implement-a-light-and-dark-mode-toggle-with-javascript-and-local-storage-19ce)
 - [Dev.to/JS] [JSON.stringify: JavaScript Serialization Simplified](https://dev.to/mitchiemt11/jsonstringify-javascript-serialization-simplified-5akf)
 - [Dev.to/JS] [Create MultiProject Angular Application🔥](https://dev.to/venkateshpensalwar/create-multiproject-angular-application-18h0)
 - [Dev.to/JS] [Snow Peak - SaaS multipage themeBuilt with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/snow-peak-saas-multipage-themebuilt-with-astro-tailwind-css-mdx-263n)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding and Mastering React Components.](https://dev.to/pinky057/understanding-and-mastering-react-components-bnm)
 - [Dev.to/JS] [Understanding JavaScript Variables: Scope, Use Cases, and Features](https://dev.to/devendra_2806/understanding-javascript-variables-scope-use-cases-and-features-46gk)
 - [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
-- [Dev.to/JS] [Better array concat...](https://dev.to/efpage/better-array-concat-4bph)
-- [Dev.to/JS] [Things I like about Go](https://dev.to/aaravsibbal/things-i-like-about-go-46ep)
 - [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $150 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $40 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [A Bunch of Ring Security Cameras Are on Sale Right Now](https://lifehacker.com/tech/ring-security-camera-bundles-sale)
