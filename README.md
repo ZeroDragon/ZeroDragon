@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding JavaScript Variables: Scope, Use Cases, and Features](https://dev.to/devendra_2806/understanding-javascript-variables-scope-use-cases-and-features-46gk)
 - [Dev.to/JS] [Better array concat...](https://dev.to/efpage/better-array-concat-4bph)
 - [Dev.to/JS] [Things I like about Go](https://dev.to/aaravsibbal/things-i-like-about-go-46ep)
 - [Dev.to/JS] [Phase 1 - Javascript](https://dev.to/sherylmichaela/phase-1-javascript-3k62)
+- [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $150 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
+- [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $40 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [A Bunch of Ring Security Cameras Are on Sale Right Now](https://lifehacker.com/tech/ring-security-camera-bundles-sale)
 - [Dev.to/JS] [What is &#39;this&#39;?](https://dev.to/sleepysloth/what-is-this-f1g)
 - [Dev.to/JS] [Migrando do Moment.js para Day.js em Projetos React: Guia completo](https://dev.to/hudson3384/migrando-do-momentjs-para-dayjs-em-projetos-react-guia-completo-15ng)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/r07537669/buy-verified-cash-app-account-1id6)
 - [Dev.to/JS] [Versioning and Releasing Packages in a Monorepo](https://dev.to/nx/versioning-and-releasing-packages-in-a-monorepo-31pk)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/r07537669/buy-google-reviews-3lkg)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
 - [Lifehacker] [How to Develop Your Romantic Competence](https://lifehacker.com/relationships/how-to-develop-your-romantic-competence)
 - [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
 - [Lifehacker] [These Cars Have the Cheapest Operating Costs in the U.S.](https://lifehacker.com/travel/the-cars-with-the-cheapest-operating-costs)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
-- [Lifehacker] [Last-minute Valentine’s Day Gifts That Still Feel Personal](https://lifehacker.com/relationships/last-minute-valentines-gift-ideas)
-- [Lifehacker] [Bench the Super Bowl Sliders and Make These Mini Cheeseburger Skewers](https://lifehacker.com/food-drink/make-these-mini-cheeseburger-skewers-for-super-bowl-sunday)
-- [Lifehacker] [These Are the Biggest Differences Between Google Gemini and ChatGPT](https://lifehacker.com/tech/what-is-google-gemini)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Last-minute Valentine’s Day Gifts That Still Feel Personal](https://lifehacker.com/relationships/last-minute-valentines-gift-ideas)<!-- TECH-POSTS:END -->
 
 ---
 
