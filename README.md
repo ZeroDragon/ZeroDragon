@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animations in React with Framer Motion 😎🍿](https://dev.to/techcheck/animations-in-react-with-framer-motion-44jo)
+- [Dev.to/JS] [How I got Vue-certified](https://dev.to/aloisseckar/how-i-got-vue-certified-3bbj)
+- [Dev.to/JS] [Mastering Server-Side Rendering: A React-Express Integration Guide](https://dev.to/graynneji/mastering-server-side-rendering-a-react-express-integration-guide-1e3p)
+- [Dev.to/JS] [Expected an assignment or function call and instead saw an expression](https://dev.to/reactjsguru/expected-an-assignment-or-function-call-and-instead-saw-an-expression-47ph)
 - [Dev.to/JS] [🎉 iPhone 15 Pro Max Giveaway 📱🌟](https://dev.to/adriana258/iphone-15-pro-max-giveaway-1nbl)
 - [Dev.to/JS] [How to Navigate MO-200 Practice Questions: A Step-by-Step Guide](https://dev.to/mo200excelexam/how-to-navigate-mo-200-practice-questions-a-step-by-step-guide-35ii)
 - [Dev.to/JS] [Discovering JavaScript&#39;s Hidden Secrets: Understanding Arrays as a Data Structure.](https://dev.to/davidevlops/discovering-javascripts-hidden-secrets-understanding-arrays-as-a-data-structure-1na6)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implement a Light and Dark Mode Toggle with JavaScript and Local Storage.](https://dev.to/dunia/implement-a-light-and-dark-mode-toggle-with-javascript-and-local-storage-19ce)
 - [Dev.to/JS] [JSON.stringify: JavaScript Serialization Simplified](https://dev.to/mitchiemt11/jsonstringify-javascript-serialization-simplified-5akf)
 - [Dev.to/JS] [Create MultiProject Angular Application🔥](https://dev.to/venkateshpensalwar/create-multiproject-angular-application-18h0)
-- [Dev.to/JS] [Snow Peak - SaaS multipage themeBuilt with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/snow-peak-saas-multipage-themebuilt-with-astro-tailwind-css-mdx-263n)
-- [Dev.to/JS] [require Vs import: Old Vs New war in Javascript](https://dev.to/codeparrot/require-vs-import-old-vs-new-war-in-javascript-29gj)
-- [Dev.to/JS] [Vue Boilerplate with Vite, Tailwind CSS, Pinia, and Axios](https://dev.to/saymenghour/vue-boilerplate-with-vite-tailwind-css-pinia-and-axios-1fc6)
-- [Dev.to/JS] [DevOps Guide](https://dev.to/devgancode/devops-guide-2l9o)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is on Sale for $70 Right Now](https://lifehacker.com/cybersecurity-it-skills-course-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-10-2024)
