@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue Boilerplate with Vite, Tailwind CSS, Pinia, and Axios](https://dev.to/saymenghour/vue-boilerplate-with-vite-tailwind-css-pinia-and-axios-1fc6)
+- [Dev.to/JS] [DevOps Guide](https://dev.to/devgancode/devops-guide-2l9o)
 - [Dev.to/JS] [Exploring DevOps: Foundation Certification Exam Riddles](https://dev.to/xt9mqvn1/exploring-devops-foundation-certification-exam-riddles-1ieb)
 - [Dev.to/JS] [Understanding `this` keyword in javascript](https://dev.to/codeparrot/understanding-this-keyword-in-javascript-27bp)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
@@ -45,12 +47,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Figure Out How Many Solar Panels Your House Needs](https://lifehacker.com/home/how-to-figure-out-how-many-solar-panels)
 - [Dev.to/JS] [In the Gut: Reaching a Better Understanding of Recursion](https://dev.to/halented/in-the-gut-reaching-a-better-understanding-of-recursion-3bk4)
 - [Lifehacker] [You Can Get This Refurbished MacBook Air on Sale for $380 Right Now](https://lifehacker.com/refurbished-2017-macbook-air-sale)
-- [Dev.to/JS] [Mastering Animation with GSAP: A Comprehensive Guide](https://dev.to/allcodez/mastering-animation-with-gsap-a-comprehensive-guide-253)
 - [Lifehacker] [What People Are Getting Wrong This Week: Taylor Swift Conspiracy Theories](https://lifehacker.com/entertainment/taylor-swift-conspiracy-theories)
 - [Lifehacker] [The Apple MagSafe Duo Charger Is $50 Off Right Now](https://lifehacker.com/tech/apple-magsafe-duo-charger-sale)
 - [Lifehacker] [Why Charred Lumber Is the Upgrade Your Next Woodworking Project Needs](https://lifehacker.com/home/why-charred-lumber-is-the-upgrade-your-next-project-needs)
 - [Lifehacker] [The Best Game Day Snacks You Can Make in the Air Fryer](https://lifehacker.com/food-drink/the-best-air-fryer-snacks-for-the-big-game)
-- [Dev.to/JS] [How class fields are magically created through constructor by &#39;implicit assignment&#39;](https://dev.to/hari03/how-class-fields-are-magically-created-through-constructor-by-implicit-assignment-2ab9)
 - [Lifehacker] [Five Times When You Shouldn&#39;t Renovate Your House Before Selling](https://lifehacker.com/money/when-not-to-renovate-your-house-before-selling)
 - [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
