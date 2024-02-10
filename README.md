@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is &#39;this&#39;?](https://dev.to/sleepysloth/what-is-this-f1g)
 - [Dev.to/JS] [Migrando do Moment.js para Day.js em Projetos React: Guia completo](https://dev.to/hudson3384/migrando-do-momentjs-para-dayjs-em-projetos-react-guia-completo-15ng)
 - [Dev.to/JS] [In the Gut: Reaching a Better Understanding of Recursion](https://dev.to/halented/in-the-gut-reaching-a-better-understanding-of-recursion-3bk4)
+- [Lifehacker] [You Can Get This Refurbished MacBook Air on Sale for $380 Right Now](https://lifehacker.com/refurbished-2017-macbook-air-sale)
 - [Dev.to/JS] [Mastering Animation with GSAP: A Comprehensive Guide](https://dev.to/allcodez/mastering-animation-with-gsap-a-comprehensive-guide-253)
 - [Lifehacker] [What People Are Getting Wrong This Week: Taylor Swift Conspiracy Theories](https://lifehacker.com/entertainment/taylor-swift-conspiracy-theories)
 - [Lifehacker] [The Apple MagSafe Duo Charger Is $50 Off Right Now](https://lifehacker.com/tech/apple-magsafe-duo-charger-sale)
@@ -44,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
 - [Dev.to/JS] [Faro.js 🌴🏖️☀️](https://dev.to/lukasborawski/farojs-1pp7)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/r07537669/buy-google-voice-accounts-21eb)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/r07537669/buy-google-5-star-reviews-3j13)
 - [Lifehacker] [How to Develop Your Romantic Competence](https://lifehacker.com/relationships/how-to-develop-your-romantic-competence)
 - [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)
 - [Lifehacker] [16 of the Best Movie Dragons to Ring in the Lunar New Year](https://lifehacker.com/entertainment/best-movies-with-dragons)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Bench the Super Bowl Sliders and Make These Mini Cheeseburger Skewers](https://lifehacker.com/food-drink/make-these-mini-cheeseburger-skewers-for-super-bowl-sunday)
 - [Lifehacker] [These Are the Biggest Differences Between Google Gemini and ChatGPT](https://lifehacker.com/tech/what-is-google-gemini)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $70 Right Now](https://lifehacker.com/nix-color-sensor-sale)
-- [Lifehacker] [A Bunch of Amazon Smart Speakers Are on Sale Right Now](https://lifehacker.com/tech/amazon-echo-smart-speaker-sale)
-- [Lifehacker] [Meta Just Revealed How Your Threads Algorithm Actually Works](https://lifehacker.com/tech/how-threads-algorithm-works-according-to-meta)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Bunch of Amazon Smart Speakers Are on Sale Right Now](https://lifehacker.com/tech/amazon-echo-smart-speaker-sale)<!-- TECH-POSTS:END -->
 
 ---
 
