@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding and Mastering React Components.](https://dev.to/pinky057/understanding-and-mastering-react-components-bnm)
 - [Dev.to/JS] [Understanding JavaScript Variables: Scope, Use Cases, and Features](https://dev.to/devendra_2806/understanding-javascript-variables-scope-use-cases-and-features-46gk)
+- [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Dev.to/JS] [Better array concat...](https://dev.to/efpage/better-array-concat-4bph)
 - [Dev.to/JS] [Things I like about Go](https://dev.to/aaravsibbal/things-i-like-about-go-46ep)
 - [Dev.to/JS] [Phase 1 - Javascript](https://dev.to/sherylmichaela/phase-1-javascript-3k62)
@@ -48,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/r07537669/buy-old-gmail-accounts-1g12)
 - [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/r07537669/buy-verified-cash-app-account-1id6)
-- [Dev.to/JS] [Versioning and Releasing Packages in a Monorepo](https://dev.to/nx/versioning-and-releasing-packages-in-a-monorepo-31pk)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
 - [Lifehacker] [How to Develop Your Romantic Competence](https://lifehacker.com/relationships/how-to-develop-your-romantic-competence)
 - [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
 - [Lifehacker] [These Cars Have the Cheapest Operating Costs in the U.S.](https://lifehacker.com/travel/the-cars-with-the-cheapest-operating-costs)
-- [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
-- [Lifehacker] [Last-minute Valentine’s Day Gifts That Still Feel Personal](https://lifehacker.com/relationships/last-minute-valentines-gift-ideas)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)<!-- TECH-POSTS:END -->
 
 ---
 
