@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding `this` keyword in javascript](https://dev.to/codeparrot/understanding-this-keyword-in-javascript-27bp)
+- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
+- [Lifehacker] [This Cybersecurity and IT Skills Course Is on Sale for $70 Right Now](https://lifehacker.com/cybersecurity-it-skills-course-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-10-2024)
 - [Dev.to/JS] [Understanding and Mastering React Components.](https://dev.to/pinky057/understanding-and-mastering-react-components-bnm)
 - [Dev.to/JS] [Understanding JavaScript Variables: Scope, Use Cases, and Features](https://dev.to/devendra_2806/understanding-javascript-variables-scope-use-cases-and-features-46gk)
@@ -50,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Times When You Shouldn&#39;t Renovate Your House Before Selling](https://lifehacker.com/money/when-not-to-renovate-your-house-before-selling)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/r07537669/buy-old-gmail-accounts-1g12)
 - [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/r07537669/buy-verified-cash-app-account-1id6)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
 - [Lifehacker] [How to Develop Your Romantic Competence](https://lifehacker.com/relationships/how-to-develop-your-romantic-competence)
 - [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Download This Fake LastPass App](https://lifehacker.com/tech/dont-download-fake-lastpass-app)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 9, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-9-2024)
-- [Lifehacker] [These Cars Have the Cheapest Operating Costs in the U.S.](https://lifehacker.com/travel/the-cars-with-the-cheapest-operating-costs)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This 4-in-1 Microsoft Bundle on Sale for $100 Right Now](https://lifehacker.com/tech/microsoft-bundle-sale)<!-- TECH-POSTS:END -->
 
 ---
 
