@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create MultiProject Angular Application🔥](https://dev.to/venkateshpensalwar/create-multiproject-angular-application-18h0)
+- [Dev.to/JS] [Snow Peak - SaaS multipage themeBuilt with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/snow-peak-saas-multipage-themebuilt-with-astro-tailwind-css-mdx-263n)
+- [Dev.to/JS] [require Vs import: Old Vs New war in Javascript](https://dev.to/codeparrot/require-vs-import-old-vs-new-war-in-javascript-29gj)
 - [Dev.to/JS] [Vue Boilerplate with Vite, Tailwind CSS, Pinia, and Axios](https://dev.to/saymenghour/vue-boilerplate-with-vite-tailwind-css-pinia-and-axios-1fc6)
 - [Dev.to/JS] [DevOps Guide](https://dev.to/devgancode/devops-guide-2l9o)
 - [Dev.to/JS] [Exploring DevOps: Foundation Certification Exam Riddles](https://dev.to/xt9mqvn1/exploring-devops-foundation-certification-exam-riddles-1ieb)
@@ -42,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $150 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $40 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [A Bunch of Ring Security Cameras Are on Sale Right Now](https://lifehacker.com/tech/ring-security-camera-bundles-sale)
-- [Dev.to/JS] [What is &#39;this&#39;?](https://dev.to/sleepysloth/what-is-this-f1g)
-- [Dev.to/JS] [Migrando do Moment.js para Day.js em Projetos React: Guia completo](https://dev.to/hudson3384/migrando-do-momentjs-para-dayjs-em-projetos-react-guia-completo-15ng)
 - [Lifehacker] [How to Figure Out How Many Solar Panels Your House Needs](https://lifehacker.com/home/how-to-figure-out-how-many-solar-panels)
-- [Dev.to/JS] [In the Gut: Reaching a Better Understanding of Recursion](https://dev.to/halented/in-the-gut-reaching-a-better-understanding-of-recursion-3bk4)
 - [Lifehacker] [You Can Get This Refurbished MacBook Air on Sale for $380 Right Now](https://lifehacker.com/refurbished-2017-macbook-air-sale)
 - [Lifehacker] [What People Are Getting Wrong This Week: Taylor Swift Conspiracy Theories](https://lifehacker.com/entertainment/taylor-swift-conspiracy-theories)
 - [Lifehacker] [The Apple MagSafe Duo Charger Is $50 Off Right Now](https://lifehacker.com/tech/apple-magsafe-duo-charger-sale)
