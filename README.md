@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
+- [Lifehacker] [How to Play Apple Music on Alexa](https://lifehacker.com/tech/how-to-play-apple-music-on-alexa)
+- [Lifehacker] [The Most Helpful ‘Laws’ of Productivity to Get More Done](https://lifehacker.com/work/laws-of-productivity)
 - [Dev.to/JS] [Locally hosted AI writing assistant](https://dev.to/wagenrace/locally-hosted-ai-writing-assistant-1bfa)
 - [Dev.to/JS] [Embracing the Future: How SvelteKit Streamlines Web Development Beyond React](https://dev.to/vaskonikolov23/embracing-the-future-how-sveltekit-streamlines-web-development-beyond-react-5c4f)
 - [Dev.to/JS] [Do you use bcrypt or other 3rd-party npm packages when hashing user password?](https://dev.to/iamgreenintro/do-you-use-bcrypt-or-other-3rd-party-npm-packages-when-hashing-user-password-49bi)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Better at ‘Slow Parenting’ &lpar;and Why You Should&rpar;](https://lifehacker.com/family/how-to-get-better-at-slow-parenting)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
 - [Lifehacker] [Why YouTube Premium Is the Best Digital Subscription](https://lifehacker.com/tech/youtube-premium-is-the-best-digital-subscription)
-- [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
-- [Lifehacker] [Don&#39;t Download This Fake LastPass App](https://lifehacker.com/tech/dont-download-fake-lastpass-app)
-- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
