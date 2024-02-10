@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring DevOps: Foundation Certification Exam Riddles](https://dev.to/xt9mqvn1/exploring-devops-foundation-certification-exam-riddles-1ieb)
 - [Dev.to/JS] [Understanding `this` keyword in javascript](https://dev.to/codeparrot/understanding-this-keyword-in-javascript-27bp)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is on Sale for $70 Right Now](https://lifehacker.com/cybersecurity-it-skills-course-sale)
@@ -51,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Game Day Snacks You Can Make in the Air Fryer](https://lifehacker.com/food-drink/the-best-air-fryer-snacks-for-the-big-game)
 - [Dev.to/JS] [How class fields are magically created through constructor by &#39;implicit assignment&#39;](https://dev.to/hari03/how-class-fields-are-magically-created-through-constructor-by-implicit-assignment-2ab9)
 - [Lifehacker] [Five Times When You Shouldn&#39;t Renovate Your House Before Selling](https://lifehacker.com/money/when-not-to-renovate-your-house-before-selling)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/r07537669/buy-old-gmail-accounts-1g12)
 - [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
 - [Lifehacker] [How to Develop Your Romantic Competence](https://lifehacker.com/relationships/how-to-develop-your-romantic-competence)
