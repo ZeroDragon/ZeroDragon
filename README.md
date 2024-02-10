@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Better array concat...](https://dev.to/efpage/better-array-concat-4bph)
+- [Dev.to/JS] [Things I like about Go](https://dev.to/aaravsibbal/things-i-like-about-go-46ep)
+- [Dev.to/JS] [Phase 1 - Javascript](https://dev.to/sherylmichaela/phase-1-javascript-3k62)
+- [Lifehacker] [A Bunch of Ring Security Cameras Are on Sale Right Now](https://lifehacker.com/tech/ring-security-camera-bundles-sale)
 - [Dev.to/JS] [What is &#39;this&#39;?](https://dev.to/sleepysloth/what-is-this-f1g)
 - [Dev.to/JS] [Migrando do Moment.js para Day.js em Projetos React: Guia completo](https://dev.to/hudson3384/migrando-do-momentjs-para-dayjs-em-projetos-react-guia-completo-15ng)
+- [Lifehacker] [How to Figure Out How Many Solar Panels Your House Needs](https://lifehacker.com/home/how-to-figure-out-how-many-solar-panels)
 - [Dev.to/JS] [In the Gut: Reaching a Better Understanding of Recursion](https://dev.to/halented/in-the-gut-reaching-a-better-understanding-of-recursion-3bk4)
 - [Lifehacker] [You Can Get This Refurbished MacBook Air on Sale for $380 Right Now](https://lifehacker.com/refurbished-2017-macbook-air-sale)
 - [Dev.to/JS] [Mastering Animation with GSAP: A Comprehensive Guide](https://dev.to/allcodez/mastering-animation-with-gsap-a-comprehensive-guide-253)
@@ -42,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/r07537669/buy-verified-cash-app-account-1id6)
 - [Dev.to/JS] [Versioning and Releasing Packages in a Monorepo](https://dev.to/nx/versioning-and-releasing-packages-in-a-monorepo-31pk)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/r07537669/buy-google-reviews-3lkg)
-- [Dev.to/JS] [work from home jobs are available now at Amazon.Earn $40/50/hr.](https://dev.to/makemoneynkn/work-from-home-jobs-are-available-now-at-amazonearn-4050hr-2in5)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
-- [Dev.to/JS] [Faro.js 🌴🏖️☀️](https://dev.to/lukasborawski/farojs-1pp7)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/r07537669/buy-google-voice-accounts-21eb)
 - [Lifehacker] [How to Develop Your Romantic Competence](https://lifehacker.com/relationships/how-to-develop-your-romantic-competence)
 - [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)
 - [Lifehacker] [16 of the Best Movie Dragons to Ring in the Lunar New Year](https://lifehacker.com/entertainment/best-movies-with-dragons)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
 - [Lifehacker] [Last-minute Valentine’s Day Gifts That Still Feel Personal](https://lifehacker.com/relationships/last-minute-valentines-gift-ideas)
 - [Lifehacker] [Bench the Super Bowl Sliders and Make These Mini Cheeseburger Skewers](https://lifehacker.com/food-drink/make-these-mini-cheeseburger-skewers-for-super-bowl-sunday)
-- [Lifehacker] [These Are the Biggest Differences Between Google Gemini and ChatGPT](https://lifehacker.com/tech/what-is-google-gemini)
-- [Lifehacker] [This Nix Mini 2 Color Sensor Is on Sale for $70 Right Now](https://lifehacker.com/nix-color-sensor-sale)
-- [Lifehacker] [A Bunch of Amazon Smart Speakers Are on Sale Right Now](https://lifehacker.com/tech/amazon-echo-smart-speaker-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Biggest Differences Between Google Gemini and ChatGPT](https://lifehacker.com/tech/what-is-google-gemini)<!-- TECH-POSTS:END -->
 
 ---
 
