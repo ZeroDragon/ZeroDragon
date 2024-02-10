@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSON.stringify: JavaScript Serialization Simplified](https://dev.to/mitchiemt11/jsonstringify-javascript-serialization-simplified-5akf)
 - [Dev.to/JS] [Create MultiProject Angular Application🔥](https://dev.to/venkateshpensalwar/create-multiproject-angular-application-18h0)
 - [Dev.to/JS] [Snow Peak - SaaS multipage themeBuilt with Astro, Tailwind CSS &amp; MDX](https://dev.to/lexingtonthemes/snow-peak-saas-multipage-themebuilt-with-astro-tailwind-css-mdx-263n)
 - [Dev.to/JS] [require Vs import: Old Vs New war in Javascript](https://dev.to/codeparrot/require-vs-import-old-vs-new-war-in-javascript-29gj)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Dev.to/JS] [Better array concat...](https://dev.to/efpage/better-array-concat-4bph)
 - [Dev.to/JS] [Things I like about Go](https://dev.to/aaravsibbal/things-i-like-about-go-46ep)
-- [Dev.to/JS] [Phase 1 - Javascript](https://dev.to/sherylmichaela/phase-1-javascript-3k62)
 - [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $150 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
 - [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $40 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)
 - [Lifehacker] [A Bunch of Ring Security Cameras Are on Sale Right Now](https://lifehacker.com/tech/ring-security-camera-bundles-sale)
