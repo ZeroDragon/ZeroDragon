@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [20 JavaScript One-Liners That’ll Make You Look Like a Pro](https://dev.to/durgesh4993/20-javascript-one-liners-thatll-make-you-look-like-a-pro-24n3)
+- [Dev.to/JS] [JavaScript Tricks for Efficient Coding: Mastering Techniques Every Developer Should Know](https://dev.to/mktheitguy/javascript-tricks-for-efficient-coding-mastering-techniques-every-developer-should-know-1lfd)
 - [Dev.to/JS] [What is the difference between real DOM and virtual DOM with example?](https://dev.to/lawanu/what-is-the-difference-between-real-dom-and-virtual-dom-with-example-1ed2)
 - [Dev.to/JS] [What is Virtual DOM in React?](https://dev.to/lawanu/what-is-virtual-dom-in-react-55ic)
 - [Dev.to/JS] [Front-end development: The world in it](https://dev.to/franklivania/front-end-development-the-world-in-it-5fk1)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Ad Blocker Detector to Your Website - Maximise Revenue 💸](https://dev.to/sh20raj/add-ad-blocker-detector-to-your-website-maximise-revenue-o0m)
 - [Dev.to/JS] [How to stream data over HTTP using Node and Fetch API](https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-4ij2)
 - [Dev.to/JS] [How to stream data over HTTP using Node and Fetch API](https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-2d2k)
-- [Dev.to/JS] [React Fundamentals part 3: JSX](https://dev.to/maissenayed/react-fundamentals-part-3-jsx-203f)
-- [Dev.to/JS] [Money Aesthetic Make Money From Home](https://dev.to/waystomakemoneyonline/money-aestheticmake-money-from-home-m5c)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
