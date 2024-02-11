@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fluent API pattern implementation with Playwright and Javascript/Typescript](https://dev.to/10-minutes-qa-story/fluent-api-pattern-implementation-with-playwright-and-javascripttypescript-2lk1)
+- [Dev.to/JS] [ITs me](https://dev.to/tosher1234/its-me-5h15)
+- [Dev.to/JS] [Yet Another Newsletter LOL: Madden 2025](https://dev.to/nickytonline/yet-another-newsletter-lol-madden-2025-5g1m)
+- [Dev.to/JS] [Efficient batch processing for event-driven chunking](https://dev.to/seongjin605/efficient-batch-processing-for-event-driven-chunking-imd)
 - [Dev.to/JS] [Add Ad Blocker Detector to Your Website - Maximise Revenue 💸](https://dev.to/sh20raj/add-ad-blocker-detector-to-your-website-maximise-revenue-o0m)
 - [Dev.to/JS] [How to stream data over HTTP using Node and Fetch API](https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-4ij2)
 - [Dev.to/JS] [How to stream data over HTTP using Node and Fetch API](https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-2d2k)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles](https://dev.to/mahdibna/tsparticles-2cpd)
 - [Dev.to/JS] [Your First GitHub Contribution](https://dev.to/syki/your-first-github-contribution-29f2)
 - [Dev.to/JS] [Your First GitHub Contribution](https://dev.to/syki/your-first-github-contribution-2nip)
-- [Dev.to/JS] [Author Multipage blog theme Built with Astro, Tailwind &amp; MDX](https://dev.to/lexingtonthemes/author-multipage-blog-themebuilt-with-astro-tailwind-mdx-1eo4)
-- [Dev.to/JS] [Getting Started with React: An Introduction to Component-Based Development](https://dev.to/muhammadmuzzammil1998/getting-started-with-react-an-introduction-to-component-based-development-4ga2)
-- [Dev.to/JS] [How To Connect Database Professionally](https://dev.to/gokuthecoder/how-to-connect-database-professionally-1lgp)
-- [Dev.to/JS] [[Sparta Coding Club] Week 1 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-1-today-i-learned-3ln2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
