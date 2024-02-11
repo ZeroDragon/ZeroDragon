@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/felixolsen48/buy-old-gmail-accounts-4mh0)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/felixolsen48/buy-verified-cash-app-account-56lm)
+- [Dev.to/JS] [Authentication and Authorization in Node.js](https://dev.to/akuntal/authentication-and-authorization-in-nodejs-147l)
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/felixolsen48/buy-google-reviews-46a3)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/felixolsen48/buy-google-voice-accounts-13bb)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/felixolsen48/buy-google-5-star-reviews-3eem)
 - [Dev.to/JS] [React: Is Its Future Still Bright? A Technical-Critical Look](https://dev.to/ymir/react-is-its-future-still-bright-a-technical-critical-look-4gmf)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Tricks for Efficient Coding: Mastering Techniques Every Developer Should Know](https://dev.to/mktheitguy/javascript-tricks-for-efficient-coding-mastering-techniques-every-developer-should-know-1lfd)
 - [Dev.to/JS] [What is the difference between real DOM and virtual DOM with example?](https://dev.to/lawanu/what-is-the-difference-between-real-dom-and-virtual-dom-with-example-1ed2)
 - [Dev.to/JS] [What is Virtual DOM in React?](https://dev.to/lawanu/what-is-virtual-dom-in-react-55ic)
-- [Dev.to/JS] [Front-end development: The world in it](https://dev.to/franklivania/front-end-development-the-world-in-it-5fk1)
-- [Dev.to/JS] [Fluent API pattern implementation with Playwright and Javascript/Typescript](https://dev.to/10-minutes-qa-story/fluent-api-pattern-implementation-with-playwright-and-javascripttypescript-2lk1)
-- [Dev.to/JS] [ITs me](https://dev.to/tosher1234/its-me-5h15)
-- [Dev.to/JS] [Yet Another Newsletter LOL: Madden 2025](https://dev.to/nickytonline/yet-another-newsletter-lol-madden-2025-5g1m)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
