@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why we still have tech-debt?](https://dev.to/codeantai/why-we-still-have-tech-debt-416l)
 - [Dev.to/JS] [peacocktv.com/tv - peacocktv.com tv](https://dev.to/peacockltd/peacocktvcomtv-peacocktvcom-tv-14j0)
 - [Dev.to/JS] [How to connect Eleventy and Storyblok](https://dev.to/guaca/how-to-connect-eleventy-and-storyblok-49fj)
 - [Dev.to/JS] [Сhannel - Universal Reactive Abstraction](https://dev.to/ninjin/shannel-universal-reactive-abstraction-2k4e)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/hubertbonner13/buy-glassdoor-reviews-2pg0)
 - [Dev.to/JS] [Weekly Tech Discoveries Part - 01](https://dev.to/gimnathperera/weekly-tech-discoveries-part-01-6k0)
 - [Dev.to/JS] [Web development](https://dev.to/safalcode/web-development-49kc)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/hubertbonner13/buy-google-reviews-3b26)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
 - [Lifehacker] [How to Play Apple Music on Alexa](https://lifehacker.com/tech/how-to-play-apple-music-on-alexa)
