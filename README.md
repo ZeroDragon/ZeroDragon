@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Fundamentals part 3: JSX](https://dev.to/maissenayed/react-fundamentals-part-3-jsx-203f)
+- [Dev.to/JS] [Money Aesthetic Make Money From Home](https://dev.to/waystomakemoneyonline/money-aestheticmake-money-from-home-m5c)
+- [Dev.to/JS] [tsParticles](https://dev.to/mahdibna/tsparticles-2cpd)
+- [Dev.to/JS] [Your First GitHub Contribution](https://dev.to/syki/your-first-github-contribution-29f2)
+- [Dev.to/JS] [Your First GitHub Contribution](https://dev.to/syki/your-first-github-contribution-2nip)
 - [Dev.to/JS] [Author Multipage blog theme Built with Astro, Tailwind &amp; MDX](https://dev.to/lexingtonthemes/author-multipage-blog-themebuilt-with-astro-tailwind-mdx-1eo4)
 - [Dev.to/JS] [Getting Started with React: An Introduction to Component-Based Development](https://dev.to/muhammadmuzzammil1998/getting-started-with-react-an-introduction-to-component-based-development-4ga2)
 - [Dev.to/JS] [How To Connect Database Professionally](https://dev.to/gokuthecoder/how-to-connect-database-professionally-1lgp)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an Image Resizer with Flask, React and Vite](https://dev.to/ethand91/building-an-image-resizer-with-flask-react-and-vite-4fdd)
 - [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/codewithshahan/skills-to-become-a-backend-developer-in-6-months-roadmap-4li3)
 - [Dev.to/JS] [Building an infinitely large open-world](https://dev.to/jacklehamster/building-an-infinitely-large-open-world-42ap)
-- [Dev.to/JS] [Why You Should Learn Astro.JS: The Future of Frontend Development](https://dev.to/benajaero/why-you-should-learn-astrojs-the-future-of-frontend-development-21cj)
-- [Dev.to/JS] [Interview Questions About Promises](https://dev.to/ummekulsoomshah/interview-questions-about-promises-5b)
-- [Dev.to/JS] [Resolving Firebase Authentication Sign-in Method Error](https://dev.to/iamakashpc/resolving-firebase-authentication-sign-in-method-error-312n)
-- [Dev.to/JS] [Web Development Trends Shaping 2024](https://dev.to/lilxyzz/web-development-trends-shaping-2024-451o)
-- [Dev.to/JS] [Hire a hacker to catch cheating partner/spouse](https://dev.to/jack76r/hire-a-hacker-to-catch-cheating-partner-475f)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
