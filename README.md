@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Author Multipage blog theme Built with Astro, Tailwind &amp; MDX](https://dev.to/lexingtonthemes/author-multipage-blog-themebuilt-with-astro-tailwind-mdx-1eo4)
+- [Dev.to/JS] [Getting Started with React: An Introduction to Component-Based Development](https://dev.to/muhammadmuzzammil1998/getting-started-with-react-an-introduction-to-component-based-development-4ga2)
 - [Dev.to/JS] [How To Connect Database Professionally](https://dev.to/gokuthecoder/how-to-connect-database-professionally-1lgp)
 - [Dev.to/JS] [[Sparta Coding Club] Week 1 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-1-today-i-learned-3ln2)
 - [Dev.to/JS] [Building an Image Resizer with Flask, React and Vite](https://dev.to/ethand91/building-an-image-resizer-with-flask-react-and-vite-4fdd)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolving Firebase Authentication Sign-in Method Error](https://dev.to/iamakashpc/resolving-firebase-authentication-sign-in-method-error-312n)
 - [Dev.to/JS] [Web Development Trends Shaping 2024](https://dev.to/lilxyzz/web-development-trends-shaping-2024-451o)
 - [Dev.to/JS] [Hire a hacker to catch cheating partner/spouse](https://dev.to/jack76r/hire-a-hacker-to-catch-cheating-partner-475f)
-- [Dev.to/JS] [So you think you need _Lodash?](https://dev.to/marco_cabrera_81e1796f41f/so-you-think-you-need-lodash-5dl5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
-- [Dev.to/JS] [Navigating Your Web Development Career Map: A Comprehensive Guide](https://dev.to/ackomjnr/navigating-your-web-development-career-map-a-comprehensive-guide-4i3e)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
 - [Lifehacker] [How to Play Apple Music on Alexa](https://lifehacker.com/tech/how-to-play-apple-music-on-alexa)
