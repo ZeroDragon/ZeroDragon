@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript for Juniors](https://dev.to/lennydevx/javascript-for-juniors-4o64)
+- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.17](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-117-eag)
 - [Dev.to/JS] [JavaScript Objects and its secret associates: Prototype](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-prototype-1ad1)
 - [Dev.to/JS] [LeetCode 2620. Counter &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2620-counter-easy-5bm)
 - [Dev.to/JS] [Looking to become a frontend web developer in 2024…](https://dev.to/andyhoskins87/looking-to-become-a-frontend-web-developer-in-2024-58c9)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authentication and Authorization in Node.js](https://dev.to/akuntal/authentication-and-authorization-in-nodejs-147l)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/felixolsen48/buy-google-reviews-46a3)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/felixolsen48/buy-google-voice-accounts-13bb)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/felixolsen48/buy-google-5-star-reviews-3eem)
-- [Dev.to/JS] [React: Is Its Future Still Bright? A Technical-Critical Look](https://dev.to/ymir/react-is-its-future-still-bright-a-technical-critical-look-4gmf)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
