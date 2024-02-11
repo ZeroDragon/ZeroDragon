@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Code Review skills using AI tools](https://dev.to/coderabbitai/mastering-code-review-skills-using-ai-tools-1pgc)
+- [Dev.to/JS] [Best Live Dating Site &quot;best&quot; live dating site: Tinder, Plenty of Fish &lpar;POF&rpar;](https://dev.to/mayra445/best-live-dating-sitebest-live-dating-site-tinder-plenty-of-fish-pof-26l6)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/felixolsen48/buy-old-gmail-accounts-4mh0)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/felixolsen48/buy-verified-cash-app-account-56lm)
 - [Dev.to/JS] [Authentication and Authorization in Node.js](https://dev.to/akuntal/authentication-and-authorization-in-nodejs-147l)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/felixolsen48/buy-verified-paxful-account-2jjo)
 - [Dev.to/JS] [20 JavaScript One-Liners That’ll Make You Look Like a Pro](https://dev.to/durgesh4993/20-javascript-one-liners-thatll-make-you-look-like-a-pro-24n3)
 - [Dev.to/JS] [JavaScript Tricks for Efficient Coding: Mastering Techniques Every Developer Should Know](https://dev.to/mktheitguy/javascript-tricks-for-efficient-coding-mastering-techniques-every-developer-should-know-1lfd)
-- [Dev.to/JS] [What is the difference between real DOM and virtual DOM with example?](https://dev.to/lawanu/what-is-the-difference-between-real-dom-and-virtual-dom-with-example-1ed2)
-- [Dev.to/JS] [What is Virtual DOM in React?](https://dev.to/lawanu/what-is-virtual-dom-in-react-55ic)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
