@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Connect Database Professionally](https://dev.to/gokuthecoder/how-to-connect-database-professionally-1lgp)
+- [Dev.to/JS] [[Sparta Coding Club] Week 1 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-1-today-i-learned-3ln2)
+- [Dev.to/JS] [Building an Image Resizer with Flask, React and Vite](https://dev.to/ethand91/building-an-image-resizer-with-flask-react-and-vite-4fdd)
 - [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/codewithshahan/skills-to-become-a-backend-developer-in-6-months-roadmap-4li3)
 - [Dev.to/JS] [Building an infinitely large open-world](https://dev.to/jacklehamster/building-an-infinitely-large-open-world-42ap)
 - [Dev.to/JS] [Why You Should Learn Astro.JS: The Future of Frontend Development](https://dev.to/benajaero/why-you-should-learn-astrojs-the-future-of-frontend-development-21cj)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [So you think you need _Lodash?](https://dev.to/marco_cabrera_81e1796f41f/so-you-think-you-need-lodash-5dl5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Dev.to/JS] [Navigating Your Web Development Career Map: A Comprehensive Guide](https://dev.to/ackomjnr/navigating-your-web-development-career-map-a-comprehensive-guide-4i3e)
-- [Dev.to/JS] [Why we still have tech-debt?](https://dev.to/codeantai/why-we-still-have-tech-debt-416l)
-- [Dev.to/JS] [peacocktv.com/tv - peacocktv.com tv](https://dev.to/peacockltd/peacocktvcomtv-peacocktvcom-tv-14j0)
-- [Dev.to/JS] [How to connect Eleventy and Storyblok](https://dev.to/guaca/how-to-connect-eleventy-and-storyblok-49fj)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
 - [Lifehacker] [How to Play Apple Music on Alexa](https://lifehacker.com/tech/how-to-play-apple-music-on-alexa)
