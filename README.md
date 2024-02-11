@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [So you think you need _Lodash?](https://dev.to/marco_cabrera_81e1796f41f/so-you-think-you-need-lodash-5dl5)
+- [Dev.to/JS] [Bun](https://dev.to/agussudarmanto/bun-4afh)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Dev.to/JS] [Navigating Your Web Development Career Map: A Comprehensive Guide](https://dev.to/ackomjnr/navigating-your-web-development-career-map-a-comprehensive-guide-4i3e)
 - [Dev.to/JS] [Why we still have tech-debt?](https://dev.to/codeantai/why-we-still-have-tech-debt-416l)
 - [Dev.to/JS] [peacocktv.com/tv - peacocktv.com tv](https://dev.to/peacockltd/peacocktvcomtv-peacocktvcom-tv-14j0)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Learn the Logic of JavaScript](https://dev.to/joemama123/how-to-learn-the-logic-of-javascript-34l0)
 - [Dev.to/JS] [Exploring JavaScript in 2024: Highlights from the Top Trends](https://dev.to/vaskonikolov23/exploring-javascript-in-2024-highlights-from-the-top-trends-808)
 - [Dev.to/JS] [Basic Calculator](https://dev.to/mheyrie/basic-calculator-1bio)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/hubertbonner13/buy-glassdoor-reviews-2pg0)
-- [Dev.to/JS] [Weekly Tech Discoveries Part - 01](https://dev.to/gimnathperera/weekly-tech-discoveries-part-01-6k0)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
 - [Lifehacker] [How to Play Apple Music on Alexa](https://lifehacker.com/tech/how-to-play-apple-music-on-alexa)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)
 - [Lifehacker] [16 of the Best Movie Dragons to Ring in the Lunar New Year](https://lifehacker.com/entertainment/best-movies-with-dragons)
 - [Lifehacker] [How to Get Better at ‘Slow Parenting’ &lpar;and Why You Should&rpar;](https://lifehacker.com/family/how-to-get-better-at-slow-parenting)
-- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
-- [Lifehacker] [Why YouTube Premium Is the Best Digital Subscription](https://lifehacker.com/tech/youtube-premium-is-the-best-digital-subscription)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
