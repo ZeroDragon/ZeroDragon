@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add Ad Blocker Detector to Your Website - Maximise Revenue 💸](https://dev.to/sh20raj/add-ad-blocker-detector-to-your-website-maximise-revenue-o0m)
+- [Dev.to/JS] [How to stream data over HTTP using Node and Fetch API](https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-4ij2)
+- [Dev.to/JS] [How to stream data over HTTP using Node and Fetch API](https://dev.to/bsorrentino/how-to-stream-data-over-http-using-node-and-fetch-api-2d2k)
 - [Dev.to/JS] [React Fundamentals part 3: JSX](https://dev.to/maissenayed/react-fundamentals-part-3-jsx-203f)
 - [Dev.to/JS] [Money Aesthetic Make Money From Home](https://dev.to/waystomakemoneyonline/money-aestheticmake-money-from-home-m5c)
 - [Dev.to/JS] [tsParticles](https://dev.to/mahdibna/tsparticles-2cpd)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with React: An Introduction to Component-Based Development](https://dev.to/muhammadmuzzammil1998/getting-started-with-react-an-introduction-to-component-based-development-4ga2)
 - [Dev.to/JS] [How To Connect Database Professionally](https://dev.to/gokuthecoder/how-to-connect-database-professionally-1lgp)
 - [Dev.to/JS] [[Sparta Coding Club] Week 1 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-1-today-i-learned-3ln2)
-- [Dev.to/JS] [Building an Image Resizer with Flask, React and Vite](https://dev.to/ethand91/building-an-image-resizer-with-flask-react-and-vite-4fdd)
-- [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/codewithshahan/skills-to-become-a-backend-developer-in-6-months-roadmap-4li3)
-- [Dev.to/JS] [Building an infinitely large open-world](https://dev.to/jacklehamster/building-an-infinitely-large-open-world-42ap)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
