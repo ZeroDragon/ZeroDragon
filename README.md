@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Objects and its secret associates: Prototype](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-prototype-1ad1)
+- [Dev.to/JS] [LeetCode 2620. Counter &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2620-counter-easy-5bm)
+- [Dev.to/JS] [Looking to become a frontend web developer in 2024…](https://dev.to/andyhoskins87/looking-to-become-a-frontend-web-developer-in-2024-58c9)
 - [Dev.to/JS] [Mastering Code Review skills using AI tools](https://dev.to/coderabbitai/mastering-code-review-skills-using-ai-tools-1pgc)
 - [Dev.to/JS] [Best Live Dating Site &quot;best&quot; live dating site: Tinder, Plenty of Fish &lpar;POF&rpar;](https://dev.to/mayra445/best-live-dating-sitebest-live-dating-site-tinder-plenty-of-fish-pof-26l6)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/felixolsen48/buy-old-gmail-accounts-4mh0)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/felixolsen48/buy-google-voice-accounts-13bb)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/felixolsen48/buy-google-5-star-reviews-3eem)
 - [Dev.to/JS] [React: Is Its Future Still Bright? A Technical-Critical Look](https://dev.to/ymir/react-is-its-future-still-bright-a-technical-critical-look-4gmf)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/felixolsen48/buy-verified-paxful-account-2jjo)
-- [Dev.to/JS] [20 JavaScript One-Liners That’ll Make You Look Like a Pro](https://dev.to/durgesh4993/20-javascript-one-liners-thatll-make-you-look-like-a-pro-24n3)
-- [Dev.to/JS] [JavaScript Tricks for Efficient Coding: Mastering Techniques Every Developer Should Know](https://dev.to/mktheitguy/javascript-tricks-for-efficient-coding-mastering-techniques-every-developer-should-know-1lfd)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
