@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Earn Money by doing simple tasks!](https://dev.to/zack23/earn-money-by-doing-simple-tasks-5bdi)
+- [Lifehacker] [How to Find an Apple AirTag Hidden in Your Car](https://lifehacker.com/tech/how-to-find-an-airtag-hidden-in-your-car)
+- [Dev.to/JS] [Renaming a Column in Laravel: A Step-by-Step Guide](https://dev.to/msnmongare/renaming-a-column-in-laravel-a-step-by-step-guide-l1a)
+- [Dev.to/JS] [Must-Have JavaScript Libraries for Web Developers](https://dev.to/hyscaler/must-have-javascript-libraries-for-web-developers-3p4d)
+- [Dev.to/JS] [🛠️ 7 React Projects to Build in 2024](https://dev.to/codebootcamp/7-react-projects-to-build-in-2024-1mhd)
+- [Lifehacker] [These Red Flags Could Mean Your Weight Loss Attempts Are Triggering an Eating Disorder](https://lifehacker.com/health/red-flags-that-your-weight-loss-attempts-are-triggering-an-eating-disorder)
 - [Dev.to/JS] [The Best Quickest And Most Trustworthy Cryptocurrency Recovery Expert / TrustGeeks Hack Expert](https://dev.to/dewaal/the-best-quickest-and-most-trustworthy-cryptocurrency-recovery-expert-trustgeeks-hack-expert-4pd0)
 - [Dev.to/JS] [Vue.js Live Conference](https://dev.to/gitnationorg/vuejs-live-conference-4kel)
 - [Dev.to/JS] [How To Create Snake Game in HTML CSS &amp; JavaScript - Full Tutorial](https://dev.to/codingmadeeasy/how-to-create-snake-game-in-html-css-javascript-full-tutorial-pkb)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript async call analysis](https://dev.to/sabbir9920/javascript-async-call-analysis-3o1d)
 - [Dev.to/JS] [No Math Degree Needed! Easy Tools to Make Data Your Friend](https://dev.to/manojsharmajtp2/no-math-degree-needed-easy-tools-to-make-data-your-friend-59l2)
 - [Dev.to/JS] [REDSTONE 明晰夢 | WEB移植することに何の意味があるのか？](https://dev.to/aespa/redstone-ming-xi-meng-dev-1e7h)
-- [Dev.to/JS] [Why can these reviews help your business TripAdvisor Reviews ?](https://dev.to/audrey6dana6f/why-can-these-reviews-help-your-business-tripadvisor-reviews--1jlp)
-- [Dev.to/JS] [Improve Build Performance of Nuxt](https://dev.to/jacobandrewsky/improve-build-performance-of-nuxt-2bmn)
-- [Dev.to/JS] [asbestos demolition brisbane](https://dev.to/chauhanyogesh1005/asbestos-demolition-brisbane-7ma)
-- [Dev.to/JS] [# Astro + Tailwind CSS = Perfect Portfolio &amp; 100% Lighthouse Win! 🚀](https://dev.to/sushannt/-astro-tailwind-css-perfect-portfolio-100-lighthouse-win-41ep)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
 - [Lifehacker] [How to Develop Your Romantic Competence](https://lifehacker.com/relationships/how-to-develop-your-romantic-competence)
-- [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)
-- [Lifehacker] [16 of the Best Movie Dragons to Ring in the Lunar New Year](https://lifehacker.com/entertainment/best-movies-with-dragons)
-- [Lifehacker] [How to Get Better at ‘Slow Parenting’ &lpar;and Why You Should&rpar;](https://lifehacker.com/family/how-to-get-better-at-slow-parenting)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
