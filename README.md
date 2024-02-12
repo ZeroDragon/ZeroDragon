@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Master TypeScript Quality with This Essential Checklist](https://dev.to/aris_pattakos/master-typescript-quality-with-this-essential-checklist-1k05)
+- [Dev.to/JS] [Manipulando el DOM con Javascript](https://dev.to/ljcl79/manipulando-el-dom-con-javascript-55cp)
+- [Dev.to/JS] [Developers - Consider Using Fake Phone Numbers for User Verification](https://dev.to/edwiseedu/developers-consider-using-fake-phone-numbers-for-user-verification-15a)
+- [Dev.to/JS] [HTML 2 Markdown Converter](https://dev.to/j0e/html-2-markdown-converter-5ml)
+- [Dev.to/JS] [Signals &amp; Hooks vs Observables with an Observable templating library](https://dev.to/dariomannu/signals-hooks-vs-observables-with-an-observable-templating-library-a7)
+- [Dev.to/JS] [Crack the Code: GitHub&#39;s Top JavaScript Repos Await You](https://dev.to/abneribeiro_/crack-the-code-githubs-top-javascript-repos-await-you-1gn1)
 - [Dev.to/JS] [Best front end projects?](https://dev.to/nerdydev/best-front-end-projects-217n)
 - [Dev.to/JS] [Creating Stunning Charts for Your ASP.NET Applications](https://dev.to/shegzee/creating-stunning-charts-for-your-aspnet-applications-41of)
 - [Dev.to/JS] [7 Must-Have Figma Plugins for Effortless HTML &amp; CSS Conversion](https://dev.to/thenomadevel/7-must-have-figma-plugins-for-effortless-html-css-conversion-29m1)
 - [Dev.to/JS] [7 Must-Have Figma Plugins for Effortless HTML &amp; CSS Conversion](https://dev.to/thenomadevel/7-must-have-figma-plugins-for-effortless-html-css-conversion-1dg0)
 - [Dev.to/JS] [Creating Resizable Elements in Web Development](https://dev.to/sh20raj/creating-resizable-elements-in-web-development-3601)
+- [Lifehacker] [People Don&#39;t Update Their Resumes Enough](https://lifehacker.com/work/when-to-update-resume)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/glennatkinson867/buy-google-voice-accounts-dbg)
-- [Dev.to/JS] [Intro to Software Engineering](https://dev.to/yirs1016/intro-to-software-engineering-46c2)
-- [Dev.to/JS] [Average with JavaScript](https://dev.to/uroobacodes/average-with-javascript-4e81)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/glennatkinson867/buy-google-5-star-reviews-3bl8)
-- [Dev.to/JS] [Master Asynchronous JavaScript Like a Pro &lpar;Easy Guide!&rpar;](https://dev.to/suriyadisha/master-asynchronous-javascript-like-a-pro-easy-guide-pgg)
-- [Dev.to/JS] [Valentine day - Ask your girlfriend out in a geeky way](https://dev.to/saurabhnemade/valentine-day-ask-your-girlfriend-out-in-a-geeky-way-m61)
-- [Dev.to/JS] [JavaScript skill review questions](https://dev.to/patfinder/javascript-skill-review-questions-55ef)
+- [Lifehacker] [Here Is Exactly How Much You Should Panic About Bubonic Plague](https://lifehacker.com/health/how-much-should-you-worry-about-bubonic-plague)
+- [Lifehacker] [This Is the Standard Deduction for the 2023 Tax Year](https://lifehacker.com/money/whats-this-years-standard-deduction)
 - [Lifehacker] [You Can Get This Coding Course With Microsoft Visual Studio On Sale for $65 Right Now](https://lifehacker.com/tech/coding-course-microsoft-visual-studio-sale)
 - [Lifehacker] [Why You Should Start Planting Peas Right Now](https://lifehacker.com/home/why-you-should-start-planting-peas-right-now)
 - [Lifehacker] [How to Create Your Own Palworld Server](https://lifehacker.com/entertainment/how-to-create-palworld-server)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Figure Out How Many Solar Panels Your House Needs](https://lifehacker.com/home/how-to-figure-out-how-many-solar-panels)
 - [Lifehacker] [You Can Get This Refurbished MacBook Air on Sale for $380 Right Now](https://lifehacker.com/refurbished-2017-macbook-air-sale)
 - [Lifehacker] [What People Are Getting Wrong This Week: Taylor Swift Conspiracy Theories](https://lifehacker.com/entertainment/taylor-swift-conspiracy-theories)
-- [Lifehacker] [The Apple MagSafe Duo Charger Is $50 Off Right Now](https://lifehacker.com/tech/apple-magsafe-duo-charger-sale)
-- [Lifehacker] [Why Charred Lumber Is the Upgrade Your Next Woodworking Project Needs](https://lifehacker.com/home/why-charred-lumber-is-the-upgrade-your-next-project-needs)
-- [Lifehacker] [The Best Game Day Snacks You Can Make in the Air Fryer](https://lifehacker.com/food-drink/the-best-air-fryer-snacks-for-the-big-game)
-- [Lifehacker] [Five Times When You Shouldn&#39;t Renovate Your House Before Selling](https://lifehacker.com/money/when-not-to-renovate-your-house-before-selling)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Apple MagSafe Duo Charger Is $50 Off Right Now](https://lifehacker.com/tech/apple-magsafe-duo-charger-sale)<!-- TECH-POSTS:END -->
 
 ---
 
