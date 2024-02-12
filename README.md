@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Regular expressions in JavaScript](https://dev.to/honeybadger/regular-expressions-in-javascript-9g7)
+- [Dev.to/JS] [Tauri - Rust, Js and Native Apps](https://dev.to/giuliano1993/tauri-rust-js-and-native-apps-331a)
+- [Dev.to/JS] [Authentication with Firebase](https://dev.to/melihs/authentication-with-firebase-53g8)
+- [Dev.to/JS] [The differences between req.params, req.query, and req.body in Express.js &amp; Node.js](https://dev.to/fabiojonathanarifin/the-differences-between-reqparams-reqquery-and-reqbody-in-expressjs-nodejs-5fi8)
 - [Dev.to/JS] [Build a Blog with React and Google Sheets | FullStack Course | PART 2 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-2-learn-coding-18pd)
 - [Dev.to/JS] [Build a Blog with React and Google Sheets | FullStack Course | PART 1 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-1-learn-coding-5gb7)
 - [Dev.to/JS] [Dr Oz Gentle Groove CBD Gummies Reviews Where To Buy? Does It Really Work?](https://dev.to/drozcbdgummie/dr-oz-gentle-groove-cbd-gummies-reviews-where-to-buy-does-it-really-work-1m74)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Real-Time Updates in MERN Applications with Server-Sent Events](https://dev.to/ssonawane511/real-time-updates-in-mern-applications-with-server-sent-events-4ih)
 - [Dev.to/JS] [JavaScript Promises](https://dev.to/narenmnp/javascript-promises-3lgm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
-- [Dev.to/JS] [FullStack Next.js &amp; Django Authentication: Django REST, TypeScript, JWT, Wretch &amp; Djoser](https://dev.to/koladev/fullstack-nextjs-django-authentication-django-rest-typescript-jwt-wretch-djoser-2pcf)
-- [Dev.to/JS] [Understanding JavaScript Operators: A Comprehensive Guide](https://dev.to/devendra_2806/understanding-javascript-operators-a-comprehensive-guide-57j1)
-- [Dev.to/JS] [The ü/ü Conundrum](https://dev.to/epilot/the-uu-conundrum-2d75)
-- [Dev.to/JS] [Goodbye Electron. Hello Tauri!](https://dev.to/dedsyn4ps3/goodbye-electron-hello-tauri-26d5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
