@@ -26,21 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add a Pre-loader in your webpage](https://dev.to/divyanshuhoon/how-to-add-a-pre-loader-in-your-webpage-ld3)
+- [Dev.to/JS] [The-usage-of-artificial-intelligence-in-the-sitepoint-community/](https://dev.to/divyanshuhoon/the-usage-of-artificial-intelligence-in-the-sitepoint-community-4je7)
+- [Dev.to/JS] [How to improve Logic in Programming?](https://dev.to/divyanshuhoon/how-to-improve-logic-in-programming-4ko4)
+- [Dev.to/JS] [🧹 It&#39;s Time to Spring Clean Your Codebase: Celebrate National Clean Out Your Computer Day! 🖥️ ✨](https://dev.to/best_codes/its-time-to-spring-clean-your-codebase-celebrate-national-clean-out-your-computer-day-3656)
 - [Dev.to/JS] [Construyendo una Pokedex con Python y AWS CDK: Una Guía Paso a Paso](https://dev.to/just-a-number/construyendo-una-pokedex-con-python-y-aws-cdk-una-guia-paso-a-paso-52dj)
 - [Dev.to/JS] [How to collect metrics from node.js applications in PM2 with exporting to Prometheus](https://dev.to/vexell/how-to-collect-metrics-from-nodejs-applications-in-pm2-with-exporting-to-prometheus-3dbn)
+- [Lifehacker] [Valentine’s Day Is the Perfect Excuse to Try One of These ‘Romantic’ Sex Toys](https://lifehacker.com/relationships/best-sex-toys-to-try-for-valentines-day)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.18](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-118-21ld)
+- [Lifehacker] [Everything You Need for a Basic Home Bar](https://lifehacker.com/food-drink/how-to-set-up-home-bar)
 - [Dev.to/JS] [All about API testing &amp; Keploy](https://dev.to/arindam_1729/all-about-api-testing-keploy-2pjk)
 - [Dev.to/JS] [Getting Started with Keploy](https://dev.to/arindam_1729/getting-started-with-keploy-4620)
+- [Lifehacker] [This 34&quot; LG Curved IPS Monitor Is 50% Off Right Now](https://lifehacker.com/tech/this-34-lg-curved-ips-monitor-is-50-off-right-now)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 9 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-5d1p)
 - [Dev.to/JS] [Como se destacar como programador Jr](https://dev.to/httpgabrielalves/como-se-destacar-como-programador-jr-5002)
 - [Dev.to/JS] [Simplifying Interactive UI Development with JSSignal and jQuery](https://dev.to/jaswantsandhu/simplifying-interactive-ui-development-with-jssignal-and-jquery-1bo8)
 - [Lifehacker] [Try These Classic Desserts for Fat Tuesday &lpar;and All the Other Fat Days&rpar;](https://lifehacker.com/the-best-classic-desserts-for-fat-tuesday)
 - [Lifehacker] [The Best Tech to Help You Remember Things and Stay Organized](https://lifehacker.com/work/the-best-tech-for-remembering-tasks-and-organization)
 - [Lifehacker] [You Can Get an Apple Watch Series 7 for 47% Off Right Now](https://lifehacker.com/tech/you-can-get-an-apple-watch-series-7-for-47-percent-off-right-now)
-- [Dev.to/JS] [Master TypeScript Quality with This Essential Checklist](https://dev.to/aris_pattakos/master-typescript-quality-with-this-essential-checklist-1k05)
-- [Dev.to/JS] [Manipulando el DOM con Javascript](https://dev.to/ljcl79/manipulando-el-dom-con-javascript-55cp)
-- [Dev.to/JS] [Developers - Consider Using Fake Phone Numbers for User Verification](https://dev.to/edwiseedu/developers-consider-using-fake-phone-numbers-for-user-verification-15a)
-- [Dev.to/JS] [HTML 2 Markdown Converter](https://dev.to/j0e/html-2-markdown-converter-5ml)
 - [Lifehacker] [You Can Now Use Your Apple Cash Like a Debit Card](https://lifehacker.com/tech/use-apple-cash-like-debit-card)
 - [Lifehacker] [Celebrate Fat Tuesday With These Easy Semlor Buns](https://lifehacker.com/food-drink/easy-semlor-bun-recipe)
 - [Lifehacker] [People Don&#39;t Update Their Resumes Enough](https://lifehacker.com/work/when-to-update-resume)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the Social Media Hype Around Magnesium Is Overblown](https://lifehacker.com/health/why-is-magnesium-so-popular-right-now)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is on Sale for $70 Right Now](https://lifehacker.com/cybersecurity-it-skills-course-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-10-2024)
-- [Lifehacker] [The Best New TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
-- [Lifehacker] [The Samsung Galaxy Watch5 Pro Is $150 Off Right Now](https://lifehacker.com/health/samsung-galaxy-watch5-pro-sale)
-- [Lifehacker] [You Can Get Microsoft Visual Studio Pro 2022 on Sale for $40 Right Now](https://lifehacker.com/tech/microsoft-visual-studio-2022-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-10-2024)<!-- TECH-POSTS:END -->
 
 ---
 
