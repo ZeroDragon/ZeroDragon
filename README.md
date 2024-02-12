@@ -26,20 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#100DaysOfCode with Daily Web Frontend Challenges](https://dev.to/bigsondev/100daysofcode-with-daily-challenges-3cm4)
+- [Dev.to/JS] [Here is my beautiful baby](https://dev.to/mohsin6601/here-is-my-beautiful-baby-3h02)
+- [Dev.to/JS] [Happiness comes from nature](https://dev.to/mohsin6601/happiness-comes-from-nature-2ckp)
+- [Dev.to/JS] [Mastering A-Level Biology: Tips and Tricks Using Past Papers](https://dev.to/beacontutors/mastering-a-level-biology-tips-and-tricks-using-past-papers-26dg)
+- [Dev.to/JS] [Building a RAG chatbot with NextJS, OpenAI &amp; Dewy](https://dev.to/kerinin/building-a-rag-chatbot-with-nextjs-openai-dewy-2nmk)
+- [Dev.to/JS] [Add Tweets to Your React App using react-tweet](https://dev.to/arindam_1729/add-tweets-to-your-react-app-using-react-tweet-1o1)
+- [Dev.to/JS] [TypeLib JS &lpar;part 2&rpar; - grouped types](https://dev.to/schemetastic/typelib-js-part-2-grouped-types-2g9k)
+- [Dev.to/JS] [Private Routes in React](https://dev.to/arindam_1729/private-routes-in-react-1hh4)
+- [Lifehacker] [How to Create Your Own Palworld Server](https://lifehacker.com/entertainment/how-to-create-palworld-server)
 - [Dev.to/JS] [Intro to Type Wizardry: Iteration, mapping and recursion with TS unions](https://dev.to/beqa/intro-to-type-wizardry-iteration-mapping-and-recursion-with-ts-unions-2010)
+- [Lifehacker] [How to Install Kodi on an Amazon Fire TV Stick](https://lifehacker.com/tech/how-to-install-kodi-on-fire-tv-stick)
 - [Dev.to/JS] [Earn Money by doing simple tasks!](https://dev.to/zack23/earn-money-by-doing-simple-tasks-5bdi)
 - [Lifehacker] [How to Find an Apple AirTag Hidden in Your Car](https://lifehacker.com/tech/how-to-find-an-airtag-hidden-in-your-car)
 - [Dev.to/JS] [Renaming a Column in Laravel: A Step-by-Step Guide](https://dev.to/msnmongare/renaming-a-column-in-laravel-a-step-by-step-guide-l1a)
 - [Dev.to/JS] [Must-Have JavaScript Libraries for Web Developers](https://dev.to/hyscaler/must-have-javascript-libraries-for-web-developers-3p4d)
-- [Dev.to/JS] [🛠️ 7 React Projects to Build in 2024](https://dev.to/codebootcamp/7-react-projects-to-build-in-2024-1mhd)
 - [Lifehacker] [These Red Flags Could Mean Your Weight Loss Attempts Are Triggering an Eating Disorder](https://lifehacker.com/health/red-flags-that-your-weight-loss-attempts-are-triggering-an-eating-disorder)
-- [Dev.to/JS] [The Best Quickest And Most Trustworthy Cryptocurrency Recovery Expert / TrustGeeks Hack Expert](https://dev.to/dewaal/the-best-quickest-and-most-trustworthy-cryptocurrency-recovery-expert-trustgeeks-hack-expert-4pd0)
-- [Dev.to/JS] [Vue.js Live Conference](https://dev.to/gitnationorg/vuejs-live-conference-4kel)
-- [Dev.to/JS] [How To Create Snake Game in HTML CSS &amp; JavaScript - Full Tutorial](https://dev.to/codingmadeeasy/how-to-create-snake-game-in-html-css-javascript-full-tutorial-pkb)
-- [Dev.to/JS] [Easily build progressive Steps Rendering Component in Reactjs](https://dev.to/mayankhttps/easily-build-progressive-steps-rendering-component-in-reactjs-1ol4)
-- [Dev.to/JS] [Understanding JSX: The Building Blocks of React](https://dev.to/muhammadmuzzammil1998/understanding-jsx-the-building-blocks-of-react-35m3)
-- [Dev.to/JS] [JavaScript async call analysis](https://dev.to/sabbir9920/javascript-async-call-analysis-3o1d)
-- [Dev.to/JS] [No Math Degree Needed! Easy Tools to Make Data Your Friend](https://dev.to/manojsharmajtp2/no-math-degree-needed-easy-tools-to-make-data-your-friend-59l2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Game Day Snacks You Can Make in the Air Fryer](https://lifehacker.com/food-drink/the-best-air-fryer-snacks-for-the-big-game)
 - [Lifehacker] [Five Times When You Shouldn&#39;t Renovate Your House Before Selling](https://lifehacker.com/money/when-not-to-renovate-your-house-before-selling)
 - [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)
-- [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
-- [Lifehacker] [How to Develop Your Romantic Competence](https://lifehacker.com/relationships/how-to-develop-your-romantic-competence)
-- [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)<!-- TECH-POSTS:END -->
 
 ---
 
