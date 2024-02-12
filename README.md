@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why can these reviews help your business TripAdvisor Reviews ?](https://dev.to/audrey6dana6f/why-can-these-reviews-help-your-business-tripadvisor-reviews--1jlp)
+- [Dev.to/JS] [Improve Build Performance of Nuxt](https://dev.to/jacobandrewsky/improve-build-performance-of-nuxt-2bmn)
+- [Dev.to/JS] [asbestos demolition brisbane](https://dev.to/chauhanyogesh1005/asbestos-demolition-brisbane-7ma)
+- [Dev.to/JS] [Global Error handling in Angular](https://dev.to/sinanozturk997/error-handling-in-angular-m78)
 - [Dev.to/JS] [# Astro + Tailwind CSS = Perfect Portfolio &amp; 100% Lighthouse Win! 🚀](https://dev.to/sushannt/-astro-tailwind-css-perfect-portfolio-100-lighthouse-win-41ep)
 - [Dev.to/JS] [Understanding React States for Proper State Management.](https://dev.to/ghostaram/understanding-react-states-for-proper-state-management-1k7d)
 - [Dev.to/JS] [I&#39;m ditching Firebase](https://dev.to/ajaygco/im-ditching-firebase-558h)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TF #34 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-34-your-weekly-frontend-digest-2j44)
 - [Dev.to/JS] [Regular expressions in JavaScript](https://dev.to/honeybadger/regular-expressions-in-javascript-9g7)
 - [Dev.to/JS] [Tauri - Rust, Js and Native Apps](https://dev.to/giuliano1993/tauri-rust-js-and-native-apps-331a)
-- [Dev.to/JS] [Authentication with Firebase](https://dev.to/melihs/authentication-with-firebase-53g8)
-- [Dev.to/JS] [The differences between req.params, req.query, and req.body in Express.js &amp; Node.js](https://dev.to/fabiojonathanarifin/the-differences-between-reqparams-reqquery-and-reqbody-in-expressjs-nodejs-5fi8)
-- [Dev.to/JS] [Build a Blog with React and Google Sheets | FullStack Course | PART 2 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-2-learn-coding-18pd)
-- [Dev.to/JS] [Build a Blog with React and Google Sheets | FullStack Course | PART 1 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-1-learn-coding-5gb7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
