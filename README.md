@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Dev.to/JS] [FullStack Next.js &amp; Django Authentication: Django REST, TypeScript, JWT, Wretch &amp; Djoser](https://dev.to/koladev/fullstack-nextjs-django-authentication-django-rest-typescript-jwt-wretch-djoser-2pcf)
 - [Dev.to/JS] [Understanding JavaScript Operators: A Comprehensive Guide](https://dev.to/devendra_2806/understanding-javascript-operators-a-comprehensive-guide-57j1)
 - [Dev.to/JS] [The ü/ü Conundrum](https://dev.to/epilot/the-uu-conundrum-2d75)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Develop Your Romantic Competence](https://lifehacker.com/relationships/how-to-develop-your-romantic-competence)
 - [Lifehacker] [Make This Vegan French Onion Dip for the Big Game](https://lifehacker.com/food-drink/vegan-french-onion-dip-recipe)
 - [Lifehacker] [16 of the Best Movie Dragons to Ring in the Lunar New Year](https://lifehacker.com/entertainment/best-movies-with-dragons)
-- [Lifehacker] [How to Get Better at ‘Slow Parenting’ &lpar;and Why You Should&rpar;](https://lifehacker.com/family/how-to-get-better-at-slow-parenting)
-- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Better at ‘Slow Parenting’ &lpar;and Why You Should&rpar;](https://lifehacker.com/family/how-to-get-better-at-slow-parenting)<!-- TECH-POSTS:END -->
 
 ---
 
