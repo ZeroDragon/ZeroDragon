@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Best Quickest And Most Trustworthy Cryptocurrency Recovery Expert / TrustGeeks Hack Expert](https://dev.to/dewaal/the-best-quickest-and-most-trustworthy-cryptocurrency-recovery-expert-trustgeeks-hack-expert-4pd0)
+- [Dev.to/JS] [Vue.js Live Conference](https://dev.to/gitnationorg/vuejs-live-conference-4kel)
 - [Dev.to/JS] [How To Create Snake Game in HTML CSS &amp; JavaScript - Full Tutorial](https://dev.to/codingmadeeasy/how-to-create-snake-game-in-html-css-javascript-full-tutorial-pkb)
 - [Dev.to/JS] [Easily build progressive Steps Rendering Component in Reactjs](https://dev.to/mayankhttps/easily-build-progressive-steps-rendering-component-in-reactjs-1ol4)
 - [Dev.to/JS] [Understanding JSX: The Building Blocks of React](https://dev.to/muhammadmuzzammil1998/understanding-jsx-the-building-blocks-of-react-35m3)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Improve Build Performance of Nuxt](https://dev.to/jacobandrewsky/improve-build-performance-of-nuxt-2bmn)
 - [Dev.to/JS] [asbestos demolition brisbane](https://dev.to/chauhanyogesh1005/asbestos-demolition-brisbane-7ma)
 - [Dev.to/JS] [# Astro + Tailwind CSS = Perfect Portfolio &amp; 100% Lighthouse Win! 🚀](https://dev.to/sushannt/-astro-tailwind-css-perfect-portfolio-100-lighthouse-win-41ep)
-- [Dev.to/JS] [Understanding React States for Proper State Management.](https://dev.to/ghostaram/understanding-react-states-for-proper-state-management-1k7d)
-- [Dev.to/JS] [I&#39;m ditching Firebase](https://dev.to/ajaygco/im-ditching-firebase-558h)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
