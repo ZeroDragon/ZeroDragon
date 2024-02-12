@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [REDSTONE 明晰夢 | WEB移植することに何の意味があるのか？](https://dev.to/aespa/redstone-ming-xi-meng-dev-1e7h)
 - [Dev.to/JS] [Why can these reviews help your business TripAdvisor Reviews ?](https://dev.to/audrey6dana6f/why-can-these-reviews-help-your-business-tripadvisor-reviews--1jlp)
 - [Dev.to/JS] [Improve Build Performance of Nuxt](https://dev.to/jacobandrewsky/improve-build-performance-of-nuxt-2bmn)
 - [Dev.to/JS] [asbestos demolition brisbane](https://dev.to/chauhanyogesh1005/asbestos-demolition-brisbane-7ma)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Breaking the Myth — Code Boilerplates](https://dev.to/ajaygco/breaking-the-myth-code-boilerplates-54j3)
 - [Dev.to/JS] [TF #34 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-34-your-weekly-frontend-digest-2j44)
 - [Dev.to/JS] [Regular expressions in JavaScript](https://dev.to/honeybadger/regular-expressions-in-javascript-9g7)
-- [Dev.to/JS] [Tauri - Rust, Js and Native Apps](https://dev.to/giuliano1993/tauri-rust-js-and-native-apps-331a)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
