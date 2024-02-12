@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Valentine day - Ask your girlfriend out in a geeky way](https://dev.to/saurabhnemade/valentine-day-ask-your-girlfriend-out-in-a-geeky-way-m61)
+- [Dev.to/JS] [JavaScript skill review questions](https://dev.to/patfinder/javascript-skill-review-questions-55ef)
 - [Dev.to/JS] [#100DaysOfCode with Daily Web Frontend Challenges](https://dev.to/bigsondev/100daysofcode-with-daily-challenges-3cm4)
 - [Dev.to/JS] [Here is my beautiful baby](https://dev.to/mohsin6601/here-is-my-beautiful-baby-3h02)
 - [Dev.to/JS] [Happiness comes from nature](https://dev.to/mohsin6601/happiness-comes-from-nature-2ckp)
@@ -34,13 +36,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Tweets to Your React App using react-tweet](https://dev.to/arindam_1729/add-tweets-to-your-react-app-using-react-tweet-1o1)
 - [Dev.to/JS] [TypeLib JS &lpar;part 2&rpar; - grouped types](https://dev.to/schemetastic/typelib-js-part-2-grouped-types-2g9k)
 - [Dev.to/JS] [Private Routes in React](https://dev.to/arindam_1729/private-routes-in-react-1hh4)
+- [Lifehacker] [Why You Should Start Planting Peas Right Now](https://lifehacker.com/home/why-you-should-start-planting-peas-right-now)
 - [Lifehacker] [How to Create Your Own Palworld Server](https://lifehacker.com/entertainment/how-to-create-palworld-server)
 - [Dev.to/JS] [Intro to Type Wizardry: Iteration, mapping and recursion with TS unions](https://dev.to/beqa/intro-to-type-wizardry-iteration-mapping-and-recursion-with-ts-unions-2010)
 - [Lifehacker] [How to Install Kodi on an Amazon Fire TV Stick](https://lifehacker.com/tech/how-to-install-kodi-on-fire-tv-stick)
 - [Dev.to/JS] [Earn Money by doing simple tasks!](https://dev.to/zack23/earn-money-by-doing-simple-tasks-5bdi)
 - [Lifehacker] [How to Find an Apple AirTag Hidden in Your Car](https://lifehacker.com/tech/how-to-find-an-airtag-hidden-in-your-car)
-- [Dev.to/JS] [Renaming a Column in Laravel: A Step-by-Step Guide](https://dev.to/msnmongare/renaming-a-column-in-laravel-a-step-by-step-guide-l1a)
-- [Dev.to/JS] [Must-Have JavaScript Libraries for Web Developers](https://dev.to/hyscaler/must-have-javascript-libraries-for-web-developers-3p4d)
 - [Lifehacker] [These Red Flags Could Mean Your Weight Loss Attempts Are Triggering an Eating Disorder](https://lifehacker.com/health/red-flags-that-your-weight-loss-attempts-are-triggering-an-eating-disorder)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Charred Lumber Is the Upgrade Your Next Woodworking Project Needs](https://lifehacker.com/home/why-charred-lumber-is-the-upgrade-your-next-project-needs)
 - [Lifehacker] [The Best Game Day Snacks You Can Make in the Air Fryer](https://lifehacker.com/food-drink/the-best-air-fryer-snacks-for-the-big-game)
 - [Lifehacker] [Five Times When You Shouldn&#39;t Renovate Your House Before Selling](https://lifehacker.com/money/when-not-to-renovate-your-house-before-selling)
-- [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)
-- [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $70 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)<!-- TECH-POSTS:END -->
 
 ---
 
