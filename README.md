@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Blog with React and Google Sheets | FullStack Course | PART 2 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-2-learn-coding-18pd)
+- [Dev.to/JS] [Build a Blog with React and Google Sheets | FullStack Course | PART 1 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-1-learn-coding-5gb7)
+- [Dev.to/JS] [Dr Oz Gentle Groove CBD Gummies Reviews Where To Buy? Does It Really Work?](https://dev.to/drozcbdgummie/dr-oz-gentle-groove-cbd-gummies-reviews-where-to-buy-does-it-really-work-1m74)
 - [Dev.to/JS] [Decoding JavaScript error types: handling techniques](https://dev.to/nikolasbarwicki/decoding-javascript-error-types-handling-techniques-1ho9)
 - [Dev.to/JS] [Clareo Real Estate a Luxury Brokerage In Atlanta Georgia](https://dev.to/clareorealestate/clareo-real-estate-a-luxury-brokerage-in-atlanta-georgia-12do)
+- [Dev.to/JS] [5 Tools for Developers to Grow Their Social Presence](https://dev.to/anirban00537/5-vital-tools-for-advancing-your-social-media-management-career-992)
 - [Dev.to/JS] [Real-Time Updates in MERN Applications with Server-Sent Events](https://dev.to/ssonawane511/real-time-updates-in-mern-applications-with-server-sent-events-4ih)
 - [Dev.to/JS] [JavaScript Promises](https://dev.to/narenmnp/javascript-promises-3lgm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding JavaScript Operators: A Comprehensive Guide](https://dev.to/devendra_2806/understanding-javascript-operators-a-comprehensive-guide-57j1)
 - [Dev.to/JS] [The ü/ü Conundrum](https://dev.to/epilot/the-uu-conundrum-2d75)
 - [Dev.to/JS] [Goodbye Electron. Hello Tauri!](https://dev.to/dedsyn4ps3/goodbye-electron-hello-tauri-26d5)
-- [Dev.to/JS] [JavaScript for Juniors](https://dev.to/lennydevx/javascript-for-juniors-4o64)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained — Part 1.17](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-117-eag)
-- [Dev.to/JS] [JavaScript Objects and its secret associates: Prototype](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-prototype-1ad1)
-- [Dev.to/JS] [LeetCode 2620. Counter &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2620-counter-easy-5bm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
