@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Real-Time Updates in MERN Applications with Server-Sent Events](https://dev.to/ssonawane511/real-time-updates-in-mern-applications-with-server-sent-events-4ih)
+- [Dev.to/JS] [JavaScript Promises](https://dev.to/narenmnp/javascript-promises-3lgm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Dev.to/JS] [FullStack Next.js &amp; Django Authentication: Django REST, TypeScript, JWT, Wretch &amp; Djoser](https://dev.to/koladev/fullstack-nextjs-django-authentication-django-rest-typescript-jwt-wretch-djoser-2pcf)
 - [Dev.to/JS] [Understanding JavaScript Operators: A Comprehensive Guide](https://dev.to/devendra_2806/understanding-javascript-operators-a-comprehensive-guide-57j1)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode 2620. Counter &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2620-counter-easy-5bm)
 - [Dev.to/JS] [Looking to become a frontend web developer in 2024…](https://dev.to/andyhoskins87/looking-to-become-a-frontend-web-developer-in-2024-58c9)
 - [Dev.to/JS] [Mastering Code Review skills using AI tools](https://dev.to/coderabbitai/mastering-code-review-skills-using-ai-tools-1pgc)
-- [Dev.to/JS] [Best Live Dating Site &quot;best&quot; live dating site: Tinder, Plenty of Fish &lpar;POF&rpar;](https://dev.to/mayra445/best-live-dating-sitebest-live-dating-site-tinder-plenty-of-fish-pof-26l6)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/felixolsen48/buy-old-gmail-accounts-4mh0)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
