@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create Snake Game in HTML CSS &amp; JavaScript - Full Tutorial](https://dev.to/codingmadeeasy/how-to-create-snake-game-in-html-css-javascript-full-tutorial-pkb)
+- [Dev.to/JS] [Easily build progressive Steps Rendering Component in Reactjs](https://dev.to/mayankhttps/easily-build-progressive-steps-rendering-component-in-reactjs-1ol4)
+- [Dev.to/JS] [Understanding JSX: The Building Blocks of React](https://dev.to/muhammadmuzzammil1998/understanding-jsx-the-building-blocks-of-react-35m3)
+- [Dev.to/JS] [JavaScript async call analysis](https://dev.to/sabbir9920/javascript-async-call-analysis-3o1d)
+- [Dev.to/JS] [No Math Degree Needed! Easy Tools to Make Data Your Friend](https://dev.to/manojsharmajtp2/no-math-degree-needed-easy-tools-to-make-data-your-friend-59l2)
 - [Dev.to/JS] [REDSTONE 明晰夢 | WEB移植することに何の意味があるのか？](https://dev.to/aespa/redstone-ming-xi-meng-dev-1e7h)
 - [Dev.to/JS] [Why can these reviews help your business TripAdvisor Reviews ?](https://dev.to/audrey6dana6f/why-can-these-reviews-help-your-business-tripadvisor-reviews--1jlp)
 - [Dev.to/JS] [Improve Build Performance of Nuxt](https://dev.to/jacobandrewsky/improve-build-performance-of-nuxt-2bmn)
 - [Dev.to/JS] [asbestos demolition brisbane](https://dev.to/chauhanyogesh1005/asbestos-demolition-brisbane-7ma)
-- [Dev.to/JS] [Global Error handling in Angular](https://dev.to/sinanozturk997/error-handling-in-angular-m78)
 - [Dev.to/JS] [# Astro + Tailwind CSS = Perfect Portfolio &amp; 100% Lighthouse Win! 🚀](https://dev.to/sushannt/-astro-tailwind-css-perfect-portfolio-100-lighthouse-win-41ep)
 - [Dev.to/JS] [Understanding React States for Proper State Management.](https://dev.to/ghostaram/understanding-react-states-for-proper-state-management-1k7d)
 - [Dev.to/JS] [I&#39;m ditching Firebase](https://dev.to/ajaygco/im-ditching-firebase-558h)
-- [Dev.to/JS] [TypeScript — A Critical Perspective](https://dev.to/ajaygco/typescript-a-critical-perspective-5fk4)
-- [Dev.to/JS] [Breaking the Myth — Code Boilerplates](https://dev.to/ajaygco/breaking-the-myth-code-boilerplates-54j3)
-- [Dev.to/JS] [TF #34 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-34-your-weekly-frontend-digest-2j44)
-- [Dev.to/JS] [Regular expressions in JavaScript](https://dev.to/honeybadger/regular-expressions-in-javascript-9g7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
