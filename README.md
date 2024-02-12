@@ -26,21 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best front end projects?](https://dev.to/nerdydev/best-front-end-projects-217n)
+- [Dev.to/JS] [Creating Stunning Charts for Your ASP.NET Applications](https://dev.to/shegzee/creating-stunning-charts-for-your-aspnet-applications-41of)
+- [Dev.to/JS] [7 Must-Have Figma Plugins for Effortless HTML &amp; CSS Conversion](https://dev.to/thenomadevel/7-must-have-figma-plugins-for-effortless-html-css-conversion-29m1)
+- [Dev.to/JS] [7 Must-Have Figma Plugins for Effortless HTML &amp; CSS Conversion](https://dev.to/thenomadevel/7-must-have-figma-plugins-for-effortless-html-css-conversion-1dg0)
+- [Dev.to/JS] [Creating Resizable Elements in Web Development](https://dev.to/sh20raj/creating-resizable-elements-in-web-development-3601)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/glennatkinson867/buy-google-voice-accounts-dbg)
+- [Dev.to/JS] [Intro to Software Engineering](https://dev.to/yirs1016/intro-to-software-engineering-46c2)
+- [Dev.to/JS] [Average with JavaScript](https://dev.to/uroobacodes/average-with-javascript-4e81)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/glennatkinson867/buy-google-5-star-reviews-3bl8)
+- [Dev.to/JS] [Master Asynchronous JavaScript Like a Pro &lpar;Easy Guide!&rpar;](https://dev.to/suriyadisha/master-asynchronous-javascript-like-a-pro-easy-guide-pgg)
 - [Dev.to/JS] [Valentine day - Ask your girlfriend out in a geeky way](https://dev.to/saurabhnemade/valentine-day-ask-your-girlfriend-out-in-a-geeky-way-m61)
 - [Dev.to/JS] [JavaScript skill review questions](https://dev.to/patfinder/javascript-skill-review-questions-55ef)
-- [Dev.to/JS] [#100DaysOfCode with Daily Web Frontend Challenges](https://dev.to/bigsondev/100daysofcode-with-daily-challenges-3cm4)
-- [Dev.to/JS] [Here is my beautiful baby](https://dev.to/mohsin6601/here-is-my-beautiful-baby-3h02)
-- [Dev.to/JS] [Happiness comes from nature](https://dev.to/mohsin6601/happiness-comes-from-nature-2ckp)
-- [Dev.to/JS] [Mastering A-Level Biology: Tips and Tricks Using Past Papers](https://dev.to/beacontutors/mastering-a-level-biology-tips-and-tricks-using-past-papers-26dg)
-- [Dev.to/JS] [Building a RAG chatbot with NextJS, OpenAI &amp; Dewy](https://dev.to/kerinin/building-a-rag-chatbot-with-nextjs-openai-dewy-2nmk)
-- [Dev.to/JS] [Add Tweets to Your React App using react-tweet](https://dev.to/arindam_1729/add-tweets-to-your-react-app-using-react-tweet-1o1)
-- [Dev.to/JS] [TypeLib JS &lpar;part 2&rpar; - grouped types](https://dev.to/schemetastic/typelib-js-part-2-grouped-types-2g9k)
-- [Dev.to/JS] [Private Routes in React](https://dev.to/arindam_1729/private-routes-in-react-1hh4)
+- [Lifehacker] [You Can Get This Coding Course With Microsoft Visual Studio On Sale for $65 Right Now](https://lifehacker.com/tech/coding-course-microsoft-visual-studio-sale)
 - [Lifehacker] [Why You Should Start Planting Peas Right Now](https://lifehacker.com/home/why-you-should-start-planting-peas-right-now)
 - [Lifehacker] [How to Create Your Own Palworld Server](https://lifehacker.com/entertainment/how-to-create-palworld-server)
-- [Dev.to/JS] [Intro to Type Wizardry: Iteration, mapping and recursion with TS unions](https://dev.to/beqa/intro-to-type-wizardry-iteration-mapping-and-recursion-with-ts-unions-2010)
 - [Lifehacker] [How to Install Kodi on an Amazon Fire TV Stick](https://lifehacker.com/tech/how-to-install-kodi-on-fire-tv-stick)
-- [Dev.to/JS] [Earn Money by doing simple tasks!](https://dev.to/zack23/earn-money-by-doing-simple-tasks-5bdi)
 - [Lifehacker] [How to Find an Apple AirTag Hidden in Your Car](https://lifehacker.com/tech/how-to-find-an-airtag-hidden-in-your-car)
 - [Lifehacker] [These Red Flags Could Mean Your Weight Loss Attempts Are Triggering an Eating Disorder](https://lifehacker.com/health/red-flags-that-your-weight-loss-attempts-are-triggering-an-eating-disorder)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Apple MagSafe Duo Charger Is $50 Off Right Now](https://lifehacker.com/tech/apple-magsafe-duo-charger-sale)
 - [Lifehacker] [Why Charred Lumber Is the Upgrade Your Next Woodworking Project Needs](https://lifehacker.com/home/why-charred-lumber-is-the-upgrade-your-next-project-needs)
 - [Lifehacker] [The Best Game Day Snacks You Can Make in the Air Fryer](https://lifehacker.com/food-drink/the-best-air-fryer-snacks-for-the-big-game)
-- [Lifehacker] [Five Times When You Shouldn&#39;t Renovate Your House Before Selling](https://lifehacker.com/money/when-not-to-renovate-your-house-before-selling)
-- [Lifehacker] [Copilot in Notepad Is Coming to Windows 11](https://lifehacker.com/tech/copilot-in-notepad-windows-11)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Times When You Shouldn&#39;t Renovate Your House Before Selling](https://lifehacker.com/money/when-not-to-renovate-your-house-before-selling)<!-- TECH-POSTS:END -->
 
 ---
 
