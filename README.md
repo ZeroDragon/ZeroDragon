@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro to Type Wizardry: Iteration, mapping and recursion with TS unions](https://dev.to/beqa/intro-to-type-wizardry-iteration-mapping-and-recursion-with-ts-unions-2010)
 - [Dev.to/JS] [Earn Money by doing simple tasks!](https://dev.to/zack23/earn-money-by-doing-simple-tasks-5bdi)
 - [Lifehacker] [How to Find an Apple AirTag Hidden in Your Car](https://lifehacker.com/tech/how-to-find-an-airtag-hidden-in-your-car)
 - [Dev.to/JS] [Renaming a Column in Laravel: A Step-by-Step Guide](https://dev.to/msnmongare/renaming-a-column-in-laravel-a-step-by-step-guide-l1a)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding JSX: The Building Blocks of React](https://dev.to/muhammadmuzzammil1998/understanding-jsx-the-building-blocks-of-react-35m3)
 - [Dev.to/JS] [JavaScript async call analysis](https://dev.to/sabbir9920/javascript-async-call-analysis-3o1d)
 - [Dev.to/JS] [No Math Degree Needed! Easy Tools to Make Data Your Friend](https://dev.to/manojsharmajtp2/no-math-degree-needed-easy-tools-to-make-data-your-friend-59l2)
-- [Dev.to/JS] [REDSTONE 明晰夢 | WEB移植することに何の意味があるのか？](https://dev.to/aespa/redstone-ming-xi-meng-dev-1e7h)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
