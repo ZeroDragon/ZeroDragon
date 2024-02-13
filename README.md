@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [❤️ Valentine&#39;s Day! | Heart Shape &lpar;CSS&rpar; &amp; Confetti Animation 💫](https://dev.to/best_codes/valentines-day-heart-shape-css-confetti-animation-40b9)
+- [Dev.to/JS] [Supabase New Release](https://dev.to/codingcatdev/supabase-new-release-33fe)
+- [Lifehacker] [Use the &#39;5S&#39; Technique to Create a More Productive Workspace](https://lifehacker.com/home/5s-technique-create-a-more-productive-workspace)
+- [Lifehacker] [Why You Shouldn’t Count on DoorDash, Lyft, or Uber This Valentine’s Day](https://lifehacker.com/travel/dont-count-on-doordash-lyft-or-uber-this-valentines-day)
 - [Lifehacker] [These Smart Beds Are up to 50% Off for President&#39;s Day](https://lifehacker.com/health/presidents-day-smart-bed-sales)
 - [Lifehacker] [How to Make a Lasagna Soup That Isn’t a Watery Mess](https://lifehacker.com/food-drink/how-to-make-a-better-lasagna-soup)
 - [Dev.to/JS] [Looking for Catholic Developers for Volunteer Software](https://dev.to/gihoekveld/looking-for-catholic-developers-for-volunteer-software-3fpm)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Welcome](https://dev.to/jasa02/welcome-1lil)
 - [Dev.to/JS] [Mastering Asynchronous JavaScript and Working with APIs](https://dev.to/bartzalewski/mastering-asynchronous-javascript-and-working-with-apis-4mj2)
 - [Dev.to/JS] [Understanding Strict Mode and Explicit Binding in JavaScript](https://dev.to/bartzalewski/understanding-strict-mode-and-explicit-binding-in-javascript-32j4)
-- [Dev.to/JS] [Mastering Expressions, Operators, and Functions in JavaScript](https://dev.to/bartzalewski/mastering-expressions-operators-and-functions-in-javascript-3k9h)
-- [Dev.to/JS] [Mastering Loops and Iterations in JavaScript: A Comprehensive Guide](https://dev.to/bartzalewski/mastering-loops-and-iterations-in-javascript-a-comprehensive-guide-1ik3)
 - [Lifehacker] [The EU Just Ruled in Favor of Big Tech &lpar;for Once&rpar;](https://lifehacker.com/tech/the-eu-ruled-in-favor-of-big-tech)
 - [Lifehacker] [The iPad Air Is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
 - [Lifehacker] [The Best Recipes Using Pancake Mix &lpar;Beyond Regular Old Pancakes&rpar;](https://lifehacker.com/food-drink/the-best-pancake-mix-recipes)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try These Classic Desserts for Fat Tuesday &lpar;and All the Other Fat Days&rpar;](https://lifehacker.com/the-best-classic-desserts-for-fat-tuesday)
 - [Lifehacker] [The Best Tech to Help You Remember Things and Stay Organized](https://lifehacker.com/work/the-best-tech-for-remembering-tasks-and-organization)
 - [Lifehacker] [You Can Get an Apple Watch Series 7 for 47% Off Right Now](https://lifehacker.com/tech/you-can-get-an-apple-watch-series-7-for-47-percent-off-right-now)
-- [Lifehacker] [You Can Now Use Your Apple Cash Like a Debit Card](https://lifehacker.com/tech/use-apple-cash-like-debit-card)
-- [Lifehacker] [Celebrate Fat Tuesday With These Easy Semlor Buns](https://lifehacker.com/food-drink/easy-semlor-bun-recipe)
-- [Lifehacker] [People Don&#39;t Update Their Resumes Enough](https://lifehacker.com/work/when-to-update-resume)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Use Your Apple Cash Like a Debit Card](https://lifehacker.com/tech/use-apple-cash-like-debit-card)<!-- TECH-POSTS:END -->
 
 ---
 
