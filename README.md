@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 Ways to Toggle Classes in Angular](https://dev.to/brianmtreese/4-ways-to-toggle-classes-in-angular-17lp)
+- [Dev.to/JS] [HTTP response status codes](https://dev.to/athuljain/http-response-status-codes-10h6)
 - [Dev.to/JS] [Understanding Type Conversion and Coercion in JavaScript](https://dev.to/devendra_2806/understanding-type-conversion-and-coercion-in-javascript-43jk)
 - [Dev.to/JS] [Understanding Null and Undefined in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-null-and-undefined-in-javascript-and-typescript-33fo)
 - [Dev.to/JS] [hi every1 nice 2 be here :&rpar;](https://dev.to/darkfader420/hi-every1-nice-2-be-here--55d5)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
 - [Dev.to/JS] [🧹 It&#39;s Time to Spring Clean Your Codebase: Celebrate National Clean Out Your Computer Day! 🖥️ ✨](https://dev.to/best_codes/its-time-to-spring-clean-your-codebase-celebrate-national-clean-out-your-computer-day-3656)
 - [Dev.to/JS] [Construyendo una Pokedex con Python y AWS CDK: Una Guía Paso a Paso](https://dev.to/just-a-number/construyendo-una-pokedex-con-python-y-aws-cdk-una-guia-paso-a-paso-52dj)
-- [Dev.to/JS] [How to collect metrics from node.js applications in PM2 with exporting to Prometheus](https://dev.to/vexell/how-to-collect-metrics-from-nodejs-applications-in-pm2-with-exporting-to-prometheus-3dbn)
 - [Lifehacker] [Valentine’s Day Is the Perfect Excuse to Try One of These ‘Romantic’ Sex Toys](https://lifehacker.com/relationships/best-sex-toys-to-try-for-valentines-day)
-- [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.18](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-118-21ld)
 - [Lifehacker] [Everything You Need for a Basic Home Bar](https://lifehacker.com/food-drink/how-to-set-up-home-bar)
 - [Lifehacker] [This 34&quot; LG Curved IPS Monitor Is 50% Off Right Now](https://lifehacker.com/tech/this-34-lg-curved-ips-monitor-is-50-off-right-now)
 - [Lifehacker] [Try These Classic Desserts for Fat Tuesday &lpar;and All the Other Fat Days&rpar;](https://lifehacker.com/the-best-classic-desserts-for-fat-tuesday)
