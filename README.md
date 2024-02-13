@@ -26,12 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easier way to make a responsive app: react native full responsive v2 is here!](https://dev.to/mhp23/easier-way-to-make-a-responsive-app-react-native-full-responsive-v2-is-here-4lkk)
 - [Dev.to/JS] [Template-Level Lazy Loading in Angular](https://dev.to/this-is-angular/template-level-lazy-loading-in-angular-4lgm)
-- [Dev.to/JS] [Migrating a NextJS app to turbo-repo mono-repo](https://dev.to/himohitmehta/migrating-a-nextjs-app-to-turbo-repo-mono-repo-24gl)
+- [Dev.to/JS] [Migrating a NextJS app to mono-repo using turbo-repo](https://dev.to/himohitmehta/migrating-a-nextjs-app-to-turbo-repo-mono-repo-24gl)
 - [Dev.to/JS] [Musicard 2.0](https://dev.to/unburn/musicard-20-51og)
-- [Dev.to/JS] [Senior Frontend Developer Roadmap 2024: 5 Clear Steps To Next Level](https://dev.to/dragosnedelcu/senior-frontend-developer-roadmap-2024-5-clear-steps-to-next-level-2m5c)
+- [Dev.to/JS] [Senior Frontend Developer Roadmap 2024: 5 Steps To Next Level 🔥](https://dev.to/dragosnedelcu/senior-frontend-developer-roadmap-2024-5-clear-steps-to-next-level-2m5c)
+- [Lifehacker] [How to Have the Best Period Sex](https://lifehacker.com/relationships/how-to-have-the-best-period-sex)
 - [Dev.to/JS] [Building Simple CRM with Vue: Getting Started with Project Setup](https://dev.to/webcraft-notes/building-simple-crm-with-vue-getting-started-with-project-setup-1aca)
 - [Dev.to/JS] [The Future of Developer Education](https://dev.to/tublian/the-future-of-developer-education-12a9)
+- [Lifehacker] [How to Use the Temperature and Humidity Sensors Inside Your Smart Speakers](https://lifehacker.com/tech/how-to-use-the-temperature-and-humidity-sensors-inside-your-smart-speakers)
 - [Dev.to/JS] [Closures](https://dev.to/adhikareeprayush/closures-1hbn)
 - [Lifehacker] [Use OnlySwitch to Customize All Your Mac Settings Faster](https://lifehacker.com/tech/change-hidden-mac-settings-with-onlyswitch)
 - [Dev.to/JS] [The Ultimate JavaScript Cheatsheet Collection 🚀](https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cache function invocation results](https://dev.to/phuocng/cache-function-invocation-results-49pm)
 - [Dev.to/JS] [MERN Stack for Crypto Exchange Platform Development: A Comprehensive Overview](https://dev.to/maxmiladcrypto/mern-stack-for-crypto-exchange-platform-development-a-comprehensive-overview-1pmm)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
-- [Dev.to/JS] [Demystifying React Hooks: Advanced Usage and Patterns](https://dev.to/happyninja1998/demystifying-react-hooks-advanced-usage-and-patterns-567p)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
-- [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
-- [Lifehacker] [How to Play Apple Music on Alexa](https://lifehacker.com/tech/how-to-play-apple-music-on-alexa)
-- [Lifehacker] [The Most Helpful ‘Laws’ of Productivity to Get More Done](https://lifehacker.com/work/laws-of-productivity)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)<!-- TECH-POSTS:END -->
 
 ---
 
