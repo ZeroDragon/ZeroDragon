@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a Tailwind CSS Progress Bar](https://dev.to/hypercode/how-to-build-a-tailwind-css-progress-bar-4gh6)
+- [Dev.to/JS] [How Much JavaScript Do You Need for Web Development? A Beginner&#39;s Guide](https://dev.to/abhisheks_words/how-much-javascript-do-you-need-for-web-development-a-beginners-guide-dhj)
 - [Dev.to/JS] [Contentrain 2.0 is Live on Product Hunt! 🚀](https://dev.to/contentrain_io/contentrain-20-is-live-on-product-hunt-17l1)
 - [Dev.to/JS] [5 JavaScript mapping APIs compared](https://dev.to/logrocket/5-javascript-mapping-apis-compared-1jjj)
 - [Dev.to/JS] [Welcome](https://dev.to/jasa02/welcome-1lil)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering JavaScript Equality Comparisons: == vs. === vs. Object.is](https://dev.to/bartzalewski/mastering-javascript-equality-comparisons-vs-vs-objectis-304n)
 - [Dev.to/JS] [Demystifying JavaScript Type Casting and Structured Data Handling](https://dev.to/bartzalewski/demystifying-javascript-type-casting-and-structured-data-handling-3l4j)
 - [Dev.to/JS] [Mastering JavaScript Data Types and Prototypal Inheritance](https://dev.to/bartzalewski/mastering-javascript-data-types-and-prototypal-inheritance-6fk)
-- [Dev.to/JS] [An In-Depth Introduction to JavaScript: From Its Origins to Modern Usage](https://dev.to/bartzalewski/an-in-depth-introduction-to-javascript-from-its-origins-to-modern-usage-gf0)
 - [Lifehacker] [The EU Just Ruled in Favor of Big Tech &lpar;for Once&rpar;](https://lifehacker.com/tech/the-eu-ruled-in-favor-of-big-tech)
-- [Dev.to/JS] [DHTMLX Scheduler 7.0 with Customizable Themes, New Dark Theme, Google-Like Agenda View, and New Tooltip API](https://dev.to/plazarev/dhtmlx-scheduler-70-with-customizable-themes-new-dark-theme-google-like-agenda-view-and-new-tooltip-api-4a72)
 - [Lifehacker] [The iPad Air Is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
 - [Lifehacker] [The Best Recipes Using Pancake Mix &lpar;Beyond Regular Old Pancakes&rpar;](https://lifehacker.com/food-drink/the-best-pancake-mix-recipes)
 - [Lifehacker] [The HP Envy Move Is at Its Lowest Price Right Now](https://lifehacker.com/tech/hp-envy-move-sale)
