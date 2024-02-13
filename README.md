@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 50 Useful Regex Patterns](https://dev.to/sh20raj/top-50-useful-regex-patterns-2jab)
+- [Dev.to/JS] [Top 50 One-Liners JavaScript](https://dev.to/sh20raj/top-50-one-liners-javascript-mp5)
+- [Dev.to/JS] [Notes from non-developer](https://dev.to/maya_walk/notes-from-non-developer-32ic)
+- [Dev.to/JS] [🔥😎 😱Revolutionizing Developer Productivity](https://dev.to/akash32755/revolutionizing-developer-productivity-14aa)
+- [Dev.to/JS] [Be aware of Arrays - V8 engine advice](https://dev.to/alirezaebrahimkhani/be-careful-about-arrays-v8-engine-advice-1pmk)
 - [Dev.to/JS] [kbar-svelte-mini - ctrl+k menu for your Svelte website](https://dev.to/abdulmuminyqn/kbar-svelte-mini-ctrlk-menu-for-your-svelte-website-5g49)
 - [Dev.to/JS] [A Step-by-Step Guide on How to Pass Microsoft MO-200](https://dev.to/microsoftmo200/a-step-by-step-guide-on-how-to-pass-microsoft-mo-200-g96)
 - [Dev.to/JS] [Understanding JavaScript Operators: A Comprehensive Guide](https://dev.to/sutejpal/understanding-javascript-operators-a-comprehensive-guide-1ojc)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Currency converter API for free](https://dev.to/akash32755/currency-converter-api-for-free-35bk)
 - [Dev.to/JS] [https://feedbackportal.microsoft.com/feedback/idea/1e41e996-98c9-ee11-92bd-6045bd7fe601](https://dev.to/dsanbvtpa/httpsfeedbackportalmicrosoftcomfeedbackidea1e41e996-98c9-ee11-92bd-6045bd7fe601-2k9d)
 - [Dev.to/JS] [Currency Conversion Utility: React Hook vs. Functions](https://dev.to/akash32755/currency-conversion-utility-react-hook-vs-functions-21kn)
-- [Dev.to/JS] [Build a Blog with React and Google Sheets | FullStack Course | PART 3 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-3-learn-coding-5oe)
-- [Dev.to/JS] [Authentication in Nuxt3 with Sidebase Nuxt-Auth](https://dev.to/boudydegeer/authentication-in-nuxt3-with-sidebase-nuxt-auth-38bk)
-- [Dev.to/JS] [Arguments vs Parameters in JavaScript](https://dev.to/hriztam/arguments-vs-parameters-in-javascript-4kl2)
-- [Dev.to/JS] [Global Error Handling in Angular](https://dev.to/sinanozturk997/global-error-handling-in-angular-2eke)
-- [Dev.to/JS] [The AI Revolution in Graphic Design and Visual Storytelling in 2024](https://dev.to/yagnapandya9/the-ai-revolution-in-graphic-design-and-visual-storytelling-in-2024-1ion)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
