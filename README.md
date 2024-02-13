@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular CDK Overlay Tutorial: Learn the Basics](https://dev.to/brianmtreese/angular-cdk-overlay-tutorial-learn-the-basics-20h3)
+- [Dev.to/JS] [Using Angular @Input to Pass Data to Dynamically Created Components](https://dev.to/brianmtreese/using-angular-input-to-pass-data-to-dynamically-created-components-1p34)
+- [Dev.to/JS] [TypeScript Core Concepts Explained for Absolute Beginners](https://dev.to/ymir/typescript-core-concepts-explained-for-absolute-beginners-8od)
+- [Dev.to/JS] [New Low-key Style Features in Angular 😮](https://dev.to/brianmtreese/new-low-key-style-features-in-angular-58ci)
+- [Dev.to/JS] [Using the Angular CDK Viewport Ruler](https://dev.to/brianmtreese/using-the-angular-cdk-viewport-ruler-45d6)
+- [Dev.to/JS] [How to Use Angular&#39;s New Control Flow Syntax](https://dev.to/brianmtreese/how-to-use-angulars-new-control-flow-syntax-4h2k)
 - [Dev.to/JS] [Angular Host Binding Animations](https://dev.to/brianmtreese/angular-host-binding-animations-2nh6)
 - [Dev.to/JS] [How to Use the Angular CDK Breakpoint Observer](https://dev.to/brianmtreese/how-to-use-the-angular-cdk-breakpoint-observer-245d)
 - [Dev.to/JS] [4 Ways to Toggle Classes in Angular](https://dev.to/brianmtreese/4-ways-to-toggle-classes-in-angular-17lp)
@@ -33,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
 - [Dev.to/JS] [Understanding Type Conversion and Coercion in JavaScript](https://dev.to/devendra_2806/understanding-type-conversion-and-coercion-in-javascript-43jk)
 - [Dev.to/JS] [Understanding Null and Undefined in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-null-and-undefined-in-javascript-and-typescript-33fo)
-- [Dev.to/JS] [hi every1 nice 2 be here :&rpar;](https://dev.to/darkfader420/hi-every1-nice-2-be-here--55d5)
-- [Dev.to/JS] [JAVASCRIPT GETTERS AND SETTERS](https://dev.to/maame_afia/javascript-getters-and-setters-24f)
-- [Dev.to/JS] [The WebSocket API and protocol explained](https://dev.to/alakkadshaw/the-websocket-api-and-protocol-explained-1jnl)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
-- [Dev.to/JS] [How to add a Pre-loader in your webpage](https://dev.to/divyanshuhoon/how-to-add-a-pre-loader-in-your-webpage-ld3)
-- [Dev.to/JS] [The-usage-of-artificial-intelligence-in-the-sitepoint-community/](https://dev.to/divyanshuhoon/the-usage-of-artificial-intelligence-in-the-sitepoint-community-4je7)
-- [Dev.to/JS] [How to improve Logic in Programming?](https://dev.to/divyanshuhoon/how-to-improve-logic-in-programming-4ko4)
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
 - [Lifehacker] [Valentine’s Day Is the Perfect Excuse to Try One of These ‘Romantic’ Sex Toys](https://lifehacker.com/relationships/best-sex-toys-to-try-for-valentines-day)
 - [Lifehacker] [Everything You Need for a Basic Home Bar](https://lifehacker.com/food-drink/how-to-set-up-home-bar)
