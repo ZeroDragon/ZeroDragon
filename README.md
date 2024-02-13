@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Template-Level Lazy Loading in Angular](https://dev.to/this-is-angular/template-level-lazy-loading-in-angular-4lgm)
+- [Dev.to/JS] [Migrating a NextJS app to turbo-repo mono-repo](https://dev.to/himohitmehta/migrating-a-nextjs-app-to-turbo-repo-mono-repo-24gl)
+- [Dev.to/JS] [Musicard 2.0](https://dev.to/unburn/musicard-20-51og)
+- [Dev.to/JS] [Senior Frontend Developer Roadmap 2024: 5 Clear Steps To Next Level](https://dev.to/dragosnedelcu/senior-frontend-developer-roadmap-2024-5-clear-steps-to-next-level-2m5c)
+- [Dev.to/JS] [Building Simple CRM with Vue: Getting Started with Project Setup](https://dev.to/webcraft-notes/building-simple-crm-with-vue-getting-started-with-project-setup-1aca)
+- [Dev.to/JS] [The Future of Developer Education](https://dev.to/tublian/the-future-of-developer-education-12a9)
 - [Dev.to/JS] [Closures](https://dev.to/adhikareeprayush/closures-1hbn)
 - [Lifehacker] [Use OnlySwitch to Customize All Your Mac Settings Faster](https://lifehacker.com/tech/change-hidden-mac-settings-with-onlyswitch)
 - [Dev.to/JS] [The Ultimate JavaScript Cheatsheet Collection 🚀](https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l)
@@ -34,12 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MERN Stack for Crypto Exchange Platform Development: A Comprehensive Overview](https://dev.to/maxmiladcrypto/mern-stack-for-crypto-exchange-platform-development-a-comprehensive-overview-1pmm)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
 - [Dev.to/JS] [Demystifying React Hooks: Advanced Usage and Patterns](https://dev.to/happyninja1998/demystifying-react-hooks-advanced-usage-and-patterns-567p)
-- [Dev.to/JS] [Top 50 Useful Regex Patterns](https://dev.to/sh20raj/top-50-useful-regex-patterns-2jab)
-- [Dev.to/JS] [Top 50 One-Liners JavaScript](https://dev.to/sh20raj/top-50-one-liners-javascript-mp5)
-- [Dev.to/JS] [🔥😎 😱Revolutionizing Developer Productivity](https://dev.to/akash32755/revolutionizing-developer-productivity-14aa)
-- [Dev.to/JS] [Be aware of Arrays - V8 engine advice](https://dev.to/alirezaebrahimkhani/be-careful-about-arrays-v8-engine-advice-1pmk)
-- [Dev.to/JS] [kbar-svelte-mini - ctrl+k menu for your Svelte website](https://dev.to/abdulmuminyqn/kbar-svelte-mini-ctrlk-menu-for-your-svelte-website-5g49)
-- [Dev.to/JS] [A Step-by-Step Guide on How to Pass Microsoft MO-200](https://dev.to/microsoftmo200/a-step-by-step-guide-on-how-to-pass-microsoft-mo-200-g96)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
