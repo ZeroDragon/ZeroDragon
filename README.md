@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Looking for Catholic Developers for Volunteer Software](https://dev.to/gihoekveld/looking-for-catholic-developers-for-volunteer-software-3fpm)
+- [Dev.to/JS] [App Development in Dubai Unveiled](https://dev.to/devicebee/app-development-in-dubai-unveiled-54nj)
+- [Dev.to/JS] [Longinus | Discord.js Project](https://dev.to/xentzenith/gift-from-god-13bc)
 - [Dev.to/JS] [How to Build a Tailwind CSS Progress Bar](https://dev.to/hypercode/how-to-build-a-tailwind-css-progress-bar-4gh6)
+- [Lifehacker] [This Is the Best Tool for Downloading Videos From Basically Anywhere Online](https://lifehacker.com/tech/cobalt-tool-for-downloading-videos-from-social-media)
 - [Dev.to/JS] [How Much JavaScript Do You Need for Web Development? A Beginner&#39;s Guide](https://dev.to/abhisheks_words/how-much-javascript-do-you-need-for-web-development-a-beginners-guide-dhj)
+- [Lifehacker] [How to Stop Jerks From Blocking Your Driveway](https://lifehacker.com/home/stop-jerks-from-blocking-your-driveway)
 - [Dev.to/JS] [Contentrain 2.0 is Live on Product Hunt! 🚀](https://dev.to/contentrain_io/contentrain-20-is-live-on-product-hunt-17l1)
 - [Dev.to/JS] [5 JavaScript mapping APIs compared](https://dev.to/logrocket/5-javascript-mapping-apis-compared-1jjj)
+- [Lifehacker] [Plex Is Breaking Into Movie Rentals](https://lifehacker.com/tech/you-can-now-rent-movies-in-plex)
 - [Dev.to/JS] [Welcome](https://dev.to/jasa02/welcome-1lil)
 - [Dev.to/JS] [Mastering Asynchronous JavaScript and Working with APIs](https://dev.to/bartzalewski/mastering-asynchronous-javascript-and-working-with-apis-4mj2)
 - [Dev.to/JS] [Understanding Strict Mode and Explicit Binding in JavaScript](https://dev.to/bartzalewski/understanding-strict-mode-and-explicit-binding-in-javascript-32j4)
 - [Dev.to/JS] [Mastering Expressions, Operators, and Functions in JavaScript](https://dev.to/bartzalewski/mastering-expressions-operators-and-functions-in-javascript-3k9h)
 - [Dev.to/JS] [Mastering Loops and Iterations in JavaScript: A Comprehensive Guide](https://dev.to/bartzalewski/mastering-loops-and-iterations-in-javascript-a-comprehensive-guide-1ik3)
-- [Dev.to/JS] [Mastering JavaScript Equality Comparisons: == vs. === vs. Object.is](https://dev.to/bartzalewski/mastering-javascript-equality-comparisons-vs-vs-objectis-304n)
-- [Dev.to/JS] [Demystifying JavaScript Type Casting and Structured Data Handling](https://dev.to/bartzalewski/demystifying-javascript-type-casting-and-structured-data-handling-3l4j)
-- [Dev.to/JS] [Mastering JavaScript Data Types and Prototypal Inheritance](https://dev.to/bartzalewski/mastering-javascript-data-types-and-prototypal-inheritance-6fk)
 - [Lifehacker] [The EU Just Ruled in Favor of Big Tech &lpar;for Once&rpar;](https://lifehacker.com/tech/the-eu-ruled-in-favor-of-big-tech)
 - [Lifehacker] [The iPad Air Is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
 - [Lifehacker] [The Best Recipes Using Pancake Mix &lpar;Beyond Regular Old Pancakes&rpar;](https://lifehacker.com/food-drink/the-best-pancake-mix-recipes)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Is Exactly How Much You Should Panic About Bubonic Plague](https://lifehacker.com/health/how-much-should-you-worry-about-bubonic-plague)
 - [Lifehacker] [This Is the Standard Deduction for the 2023 Tax Year](https://lifehacker.com/money/whats-this-years-standard-deduction)
 - [Lifehacker] [You Can Get This Coding Course With Microsoft Visual Studio On Sale for $65 Right Now](https://lifehacker.com/tech/coding-course-microsoft-visual-studio-sale)
-- [Lifehacker] [Why You Should Start Planting Peas Right Now](https://lifehacker.com/home/why-you-should-start-planting-peas-right-now)
-- [Lifehacker] [How to Create Your Own Palworld Server](https://lifehacker.com/entertainment/how-to-create-palworld-server)
-- [Lifehacker] [How to Install Kodi on an Amazon Fire TV Stick](https://lifehacker.com/tech/how-to-install-kodi-on-fire-tv-stick)
-- [Lifehacker] [How to Find an Apple AirTag Hidden in Your Car](https://lifehacker.com/tech/how-to-find-an-airtag-hidden-in-your-car)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Start Planting Peas Right Now](https://lifehacker.com/home/why-you-should-start-planting-peas-right-now)<!-- TECH-POSTS:END -->
 
 ---
 
