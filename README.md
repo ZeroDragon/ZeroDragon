@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arguments vs Parameters in JavaScript](https://dev.to/hriztam/arguments-vs-parameters-in-javascript-4kl2)
+- [Dev.to/JS] [Global Error Handling in Angular](https://dev.to/sinanozturk997/global-error-handling-in-angular-2eke)
+- [Dev.to/JS] [The AI Revolution in Graphic Design and Visual Storytelling in 2024](https://dev.to/yagnapandya9/the-ai-revolution-in-graphic-design-and-visual-storytelling-in-2024-1ion)
+- [Dev.to/JS] [State Management in React: A Comparative Analysis of Tools](https://dev.to/nitin-rachabathuni/state-management-in-react-a-comparative-analysis-of-tools-25de)
+- [Dev.to/JS] [Dr Oz CBD Gummies &lpar;Read before Buy&rpar; Gummies for Blood Sugar buy Online](https://dev.to/drozcbdg/dr-oz-cbd-gummies-read-before-buy-gummies-for-blood-sugar-buy-online-2o6b)
 - [Dev.to/JS] [Reactive Resources Management](https://dev.to/ninjin/reactive-resources-management-39i5)
 - [Dev.to/JS] [Elevating eCommerce: Integrating commercetools with Modern Frontend Frameworks](https://dev.to/nitin-rachabathuni/elevating-ecommerce-integrating-commercetools-with-modern-frontend-frameworks-4bd9)
 - [Dev.to/JS] [YouTube Tags Generator API](https://dev.to/sh20raj/youtube-tags-generator-api-276f)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular CDK Overlay Tutorial: Positioning](https://dev.to/brianmtreese/angular-cdk-overlay-tutorial-positioning-31ei)
 - [Dev.to/JS] [Angular CDK Overlay Tutorial: Learn the Basics](https://dev.to/brianmtreese/angular-cdk-overlay-tutorial-learn-the-basics-20h3)
 - [Dev.to/JS] [Using Angular @Input to Pass Data to Dynamically Created Components](https://dev.to/brianmtreese/using-angular-input-to-pass-data-to-dynamically-created-components-1p34)
-- [Dev.to/JS] [TypeScript Core Concepts Explained for Absolute Beginners](https://dev.to/ymir/typescript-core-concepts-explained-for-absolute-beginners-8od)
-- [Dev.to/JS] [New Low-key Style Features in Angular 😮](https://dev.to/brianmtreese/new-low-key-style-features-in-angular-58ci)
-- [Dev.to/JS] [Using the Angular CDK Viewport Ruler](https://dev.to/brianmtreese/using-the-angular-cdk-viewport-ruler-45d6)
-- [Dev.to/JS] [How to Use Angular&#39;s New Control Flow Syntax](https://dev.to/brianmtreese/how-to-use-angulars-new-control-flow-syntax-4h2k)
-- [Dev.to/JS] [Angular Host Binding Animations](https://dev.to/brianmtreese/angular-host-binding-animations-2nh6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
