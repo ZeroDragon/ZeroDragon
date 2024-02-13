@@ -26,9 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DHTMLX Scheduler 7.0 with Customizable Themes, New Dark Theme, Google-Like Agenda View, and New Tooltip API](https://dev.to/plazarev/dhtmlx-scheduler-70-with-customizable-themes-new-dark-theme-google-like-agenda-view-and-new-tooltip-api-4a72)
+- [Dev.to/JS] [Code Optimization Secrets: Enhancing Software Performance](https://dev.to/nitin-rachabathuni/code-optimization-secrets-enhancing-software-performance-5ebk)
 - [Dev.to/JS] [Easier way to make a responsive app: react native full responsive v2 is here!](https://dev.to/mhp23/easier-way-to-make-a-responsive-app-react-native-full-responsive-v2-is-here-4lkk)
+- [Lifehacker] [The Jura ENA8 Isn’t Exactly the ‘Smartest’ Smart Coffee-Maker](https://lifehacker.com/tech/jura-ena8-review)
 - [Dev.to/JS] [Template-Level Lazy Loading in Angular](https://dev.to/this-is-angular/template-level-lazy-loading-in-angular-4lgm)
-- [Dev.to/JS] [Migrating a NextJS app to mono-repo using turbo-repo](https://dev.to/himohitmehta/migrating-a-nextjs-app-to-turbo-repo-mono-repo-24gl)
+- [Dev.to/JS] [Converting a NextJS app to mono-repo using turbo-repo](https://dev.to/himohitmehta/migrating-a-nextjs-app-to-turbo-repo-mono-repo-24gl)
 - [Dev.to/JS] [Musicard 2.0](https://dev.to/unburn/musicard-20-51og)
 - [Dev.to/JS] [Senior Frontend Developer Roadmap 2024: 5 Steps To Next Level 🔥](https://dev.to/dragosnedelcu/senior-frontend-developer-roadmap-2024-5-clear-steps-to-next-level-2m5c)
 - [Lifehacker] [How to Have the Best Period Sex](https://lifehacker.com/relationships/how-to-have-the-best-period-sex)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use OnlySwitch to Customize All Your Mac Settings Faster](https://lifehacker.com/tech/change-hidden-mac-settings-with-onlyswitch)
 - [Dev.to/JS] [The Ultimate JavaScript Cheatsheet Collection 🚀](https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l)
 - [Dev.to/JS] [mua chung Buzzsumo](https://dev.to/wsovn112/mua-chung-buzzsumo-464i)
-- [Dev.to/JS] [Cache function invocation results](https://dev.to/phuocng/cache-function-invocation-results-49pm)
-- [Dev.to/JS] [MERN Stack for Crypto Exchange Platform Development: A Comprehensive Overview](https://dev.to/maxmiladcrypto/mern-stack-for-crypto-exchange-platform-development-a-comprehensive-overview-1pmm)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Red Flags Could Mean Your Weight Loss Attempts Are Triggering an Eating Disorder](https://lifehacker.com/health/red-flags-that-your-weight-loss-attempts-are-triggering-an-eating-disorder)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 12, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-12-2024)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 11, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-11-2024)
-- [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
-- [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)<!-- TECH-POSTS:END -->
 
 ---
 
