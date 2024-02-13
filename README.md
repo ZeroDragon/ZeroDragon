@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Type Conversion and Coercion in JavaScript](https://dev.to/devendra_2806/understanding-type-conversion-and-coercion-in-javascript-43jk)
+- [Dev.to/JS] [Understanding Null and Undefined in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-null-and-undefined-in-javascript-and-typescript-33fo)
 - [Dev.to/JS] [hi every1 nice 2 be here :&rpar;](https://dev.to/darkfader420/hi-every1-nice-2-be-here--55d5)
 - [Dev.to/JS] [JAVASCRIPT GETTERS AND SETTERS](https://dev.to/maame_afia/javascript-getters-and-setters-24f)
 - [Dev.to/JS] [The WebSocket API and protocol explained](https://dev.to/alakkadshaw/the-websocket-api-and-protocol-explained-1jnl)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Valentine’s Day Is the Perfect Excuse to Try One of These ‘Romantic’ Sex Toys](https://lifehacker.com/relationships/best-sex-toys-to-try-for-valentines-day)
 - [Dev.to/JS] [Next.js Codebase Analysis &lt;&gt; create-next-app &lt;&gt; index.ts explained - Part 1.18](https://dev.to/ramunarasinga/nextjs-codebase-analysis-create-next-app-indexts-explained-part-118-21ld)
 - [Lifehacker] [Everything You Need for a Basic Home Bar](https://lifehacker.com/food-drink/how-to-set-up-home-bar)
-- [Dev.to/JS] [All about API testing &amp; Keploy](https://dev.to/arindam_1729/all-about-api-testing-keploy-2pjk)
-- [Dev.to/JS] [Getting Started with Keploy](https://dev.to/arindam_1729/getting-started-with-keploy-4620)
 - [Lifehacker] [This 34&quot; LG Curved IPS Monitor Is 50% Off Right Now](https://lifehacker.com/tech/this-34-lg-curved-ips-monitor-is-50-off-right-now)
 - [Lifehacker] [Try These Classic Desserts for Fat Tuesday &lpar;and All the Other Fat Days&rpar;](https://lifehacker.com/the-best-classic-desserts-for-fat-tuesday)
 - [Lifehacker] [The Best Tech to Help You Remember Things and Stay Organized](https://lifehacker.com/work/the-best-tech-for-remembering-tasks-and-organization)
