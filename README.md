@@ -26,14 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closures](https://dev.to/adhikareeprayush/closures-1hbn)
+- [Lifehacker] [Use OnlySwitch to Customize All Your Mac Settings Faster](https://lifehacker.com/tech/change-hidden-mac-settings-with-onlyswitch)
 - [Dev.to/JS] [The Ultimate JavaScript Cheatsheet Collection 🚀](https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l)
 - [Dev.to/JS] [mua chung Buzzsumo](https://dev.to/wsovn112/mua-chung-buzzsumo-464i)
 - [Dev.to/JS] [Cache function invocation results](https://dev.to/phuocng/cache-function-invocation-results-49pm)
 - [Dev.to/JS] [MERN Stack for Crypto Exchange Platform Development: A Comprehensive Overview](https://dev.to/maxmiladcrypto/mern-stack-for-crypto-exchange-platform-development-a-comprehensive-overview-1pmm)
+- [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
 - [Dev.to/JS] [Demystifying React Hooks: Advanced Usage and Patterns](https://dev.to/happyninja1998/demystifying-react-hooks-advanced-usage-and-patterns-567p)
 - [Dev.to/JS] [Top 50 Useful Regex Patterns](https://dev.to/sh20raj/top-50-useful-regex-patterns-2jab)
 - [Dev.to/JS] [Top 50 One-Liners JavaScript](https://dev.to/sh20raj/top-50-one-liners-javascript-mp5)
-- [Dev.to/JS] [Notes from non-developer](https://dev.to/maya_walk/notes-from-non-developer-32ic)
 - [Dev.to/JS] [🔥😎 😱Revolutionizing Developer Productivity](https://dev.to/akash32755/revolutionizing-developer-productivity-14aa)
 - [Dev.to/JS] [Be aware of Arrays - V8 engine advice](https://dev.to/alirezaebrahimkhani/be-careful-about-arrays-v8-engine-advice-1pmk)
 - [Dev.to/JS] [kbar-svelte-mini - ctrl+k menu for your Svelte website](https://dev.to/abdulmuminyqn/kbar-svelte-mini-ctrlk-menu-for-your-svelte-website-5g49)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [15 Signs Your Contractor Cut Corners &lpar;and What to Do About It&rpar;](https://lifehacker.com/home/signs-your-contractor-cut-corners-in-your-remodel)
 - [Lifehacker] [How to Play Apple Music on Alexa](https://lifehacker.com/tech/how-to-play-apple-music-on-alexa)
-- [Lifehacker] [The Most Helpful ‘Laws’ of Productivity to Get More Done](https://lifehacker.com/work/laws-of-productivity)
-- [Lifehacker] [You Can Get This 3-in-1 Nintendo Switch Docking Station for $20 Right Now](https://lifehacker.com/nintendo-switch-docking-station-sale)
-- [Lifehacker] [Why the Social Media Hype Around Magnesium Is Overblown](https://lifehacker.com/health/why-is-magnesium-so-popular-right-now)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Helpful ‘Laws’ of Productivity to Get More Done](https://lifehacker.com/work/laws-of-productivity)<!-- TECH-POSTS:END -->
 
 ---
 
