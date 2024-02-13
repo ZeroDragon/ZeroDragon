@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Currency converter API for free](https://dev.to/akash32755/currency-converter-api-for-free-35bk)
+- [Dev.to/JS] [https://feedbackportal.microsoft.com/feedback/idea/1e41e996-98c9-ee11-92bd-6045bd7fe601](https://dev.to/dsanbvtpa/httpsfeedbackportalmicrosoftcomfeedbackidea1e41e996-98c9-ee11-92bd-6045bd7fe601-2k9d)
+- [Dev.to/JS] [Currency Conversion Utility: React Hook vs. Functions](https://dev.to/akash32755/currency-conversion-utility-react-hook-vs-functions-21kn)
+- [Dev.to/JS] [Build a Blog with React and Google Sheets | FullStack Course | PART 3 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-3-learn-coding-5oe)
+- [Dev.to/JS] [Authentication in Nuxt3 with Sidebase Nuxt-Auth](https://dev.to/boudydegeer/authentication-in-nuxt3-with-sidebase-nuxt-auth-38bk)
 - [Dev.to/JS] [Arguments vs Parameters in JavaScript](https://dev.to/hriztam/arguments-vs-parameters-in-javascript-4kl2)
 - [Dev.to/JS] [Global Error Handling in Angular](https://dev.to/sinanozturk997/global-error-handling-in-angular-2eke)
 - [Dev.to/JS] [The AI Revolution in Graphic Design and Visual Storytelling in 2024](https://dev.to/yagnapandya9/the-ai-revolution-in-graphic-design-and-visual-storytelling-in-2024-1ion)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dr Oz CBD Gummies &lpar;Read before Buy&rpar; Gummies for Blood Sugar buy Online](https://dev.to/drozcbdg/dr-oz-cbd-gummies-read-before-buy-gummies-for-blood-sugar-buy-online-2o6b)
 - [Dev.to/JS] [Reactive Resources Management](https://dev.to/ninjin/reactive-resources-management-39i5)
 - [Dev.to/JS] [Elevating eCommerce: Integrating commercetools with Modern Frontend Frameworks](https://dev.to/nitin-rachabathuni/elevating-ecommerce-integrating-commercetools-with-modern-frontend-frameworks-4bd9)
-- [Dev.to/JS] [YouTube Tags Generator API](https://dev.to/sh20raj/youtube-tags-generator-api-276f)
-- [Dev.to/JS] [Angular CDK Overlay Tutorial: Scroll Strategies](https://dev.to/brianmtreese/angular-cdk-overlay-tutorial-scroll-strategies-1a83)
-- [Dev.to/JS] [Angular CDK Overlay Tutorial: Positioning](https://dev.to/brianmtreese/angular-cdk-overlay-tutorial-positioning-31ei)
-- [Dev.to/JS] [Angular CDK Overlay Tutorial: Learn the Basics](https://dev.to/brianmtreese/angular-cdk-overlay-tutorial-learn-the-basics-20h3)
-- [Dev.to/JS] [Using Angular @Input to Pass Data to Dynamically Created Components](https://dev.to/brianmtreese/using-angular-input-to-pass-data-to-dynamically-created-components-1p34)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
