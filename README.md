@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [kbar-svelte-mini - ctrl+k menu for your Svelte website](https://dev.to/abdulmuminyqn/kbar-svelte-mini-ctrlk-menu-for-your-svelte-website-5g49)
+- [Dev.to/JS] [A Step-by-Step Guide on How to Pass Microsoft MO-200](https://dev.to/microsoftmo200/a-step-by-step-guide-on-how-to-pass-microsoft-mo-200-g96)
+- [Dev.to/JS] [Understanding JavaScript Operators: A Comprehensive Guide](https://dev.to/sutejpal/understanding-javascript-operators-a-comprehensive-guide-1ojc)
+- [Dev.to/JS] [React Training in Hyderabad](https://dev.to/lampinstitue/react-training-in-hyderabad-8hn)
 - [Dev.to/JS] [Currency converter API for free](https://dev.to/akash32755/currency-converter-api-for-free-35bk)
 - [Dev.to/JS] [https://feedbackportal.microsoft.com/feedback/idea/1e41e996-98c9-ee11-92bd-6045bd7fe601](https://dev.to/dsanbvtpa/httpsfeedbackportalmicrosoftcomfeedbackidea1e41e996-98c9-ee11-92bd-6045bd7fe601-2k9d)
 - [Dev.to/JS] [Currency Conversion Utility: React Hook vs. Functions](https://dev.to/akash32755/currency-conversion-utility-react-hook-vs-functions-21kn)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arguments vs Parameters in JavaScript](https://dev.to/hriztam/arguments-vs-parameters-in-javascript-4kl2)
 - [Dev.to/JS] [Global Error Handling in Angular](https://dev.to/sinanozturk997/global-error-handling-in-angular-2eke)
 - [Dev.to/JS] [The AI Revolution in Graphic Design and Visual Storytelling in 2024](https://dev.to/yagnapandya9/the-ai-revolution-in-graphic-design-and-visual-storytelling-in-2024-1ion)
-- [Dev.to/JS] [State Management in React: A Comparative Analysis of Tools](https://dev.to/nitin-rachabathuni/state-management-in-react-a-comparative-analysis-of-tools-25de)
-- [Dev.to/JS] [Dr Oz CBD Gummies &lpar;Read before Buy&rpar; Gummies for Blood Sugar buy Online](https://dev.to/drozcbdg/dr-oz-cbd-gummies-read-before-buy-gummies-for-blood-sugar-buy-online-2o6b)
-- [Dev.to/JS] [Reactive Resources Management](https://dev.to/ninjin/reactive-resources-management-39i5)
-- [Dev.to/JS] [Elevating eCommerce: Integrating commercetools with Modern Frontend Frameworks](https://dev.to/nitin-rachabathuni/elevating-ecommerce-integrating-commercetools-with-modern-frontend-frameworks-4bd9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
