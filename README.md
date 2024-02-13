@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Smart Beds Are up to 50% Off for President&#39;s Day](https://lifehacker.com/health/presidents-day-smart-bed-sales)
+- [Lifehacker] [How to Make a Lasagna Soup That Isn’t a Watery Mess](https://lifehacker.com/food-drink/how-to-make-a-better-lasagna-soup)
 - [Dev.to/JS] [Looking for Catholic Developers for Volunteer Software](https://dev.to/gihoekveld/looking-for-catholic-developers-for-volunteer-software-3fpm)
 - [Dev.to/JS] [App Development in Dubai Unveiled](https://dev.to/devicebee/app-development-in-dubai-unveiled-54nj)
+- [Lifehacker] [The Only Way You Can Get the New Nothing Phone 2a](https://lifehacker.com/tech/what-we-know-about-nothing-phone-2)
 - [Dev.to/JS] [Longinus | Discord.js Project](https://dev.to/xentzenith/gift-from-god-13bc)
 - [Dev.to/JS] [How to Build a Tailwind CSS Progress Bar](https://dev.to/hypercode/how-to-build-a-tailwind-css-progress-bar-4gh6)
+- [Lifehacker] [You Can Skip Valentine&#39;s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/what-to-give-on-valentines-day-instead-of-flowers)
 - [Lifehacker] [This Is the Best Tool for Downloading Videos From Basically Anywhere Online](https://lifehacker.com/tech/cobalt-tool-for-downloading-videos-from-social-media)
 - [Dev.to/JS] [How Much JavaScript Do You Need for Web Development? A Beginner&#39;s Guide](https://dev.to/abhisheks_words/how-much-javascript-do-you-need-for-web-development-a-beginners-guide-dhj)
 - [Lifehacker] [How to Stop Jerks From Blocking Your Driveway](https://lifehacker.com/home/stop-jerks-from-blocking-your-driveway)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get an Apple Watch Series 7 for 47% Off Right Now](https://lifehacker.com/tech/you-can-get-an-apple-watch-series-7-for-47-percent-off-right-now)
 - [Lifehacker] [You Can Now Use Your Apple Cash Like a Debit Card](https://lifehacker.com/tech/use-apple-cash-like-debit-card)
 - [Lifehacker] [Celebrate Fat Tuesday With These Easy Semlor Buns](https://lifehacker.com/food-drink/easy-semlor-bun-recipe)
-- [Lifehacker] [People Don&#39;t Update Their Resumes Enough](https://lifehacker.com/work/when-to-update-resume)
-- [Lifehacker] [Here Is Exactly How Much You Should Panic About Bubonic Plague](https://lifehacker.com/health/how-much-should-you-worry-about-bubonic-plague)
-- [Lifehacker] [This Is the Standard Deduction for the 2023 Tax Year](https://lifehacker.com/money/whats-this-years-standard-deduction)
-- [Lifehacker] [You Can Get This Coding Course With Microsoft Visual Studio On Sale for $65 Right Now](https://lifehacker.com/tech/coding-course-microsoft-visual-studio-sale)
-- [Lifehacker] [Why You Should Start Planting Peas Right Now](https://lifehacker.com/home/why-you-should-start-planting-peas-right-now)<!-- TECH-POSTS:END -->
+- [Lifehacker] [People Don&#39;t Update Their Resumes Enough](https://lifehacker.com/work/when-to-update-resume)<!-- TECH-POSTS:END -->
 
 ---
 
