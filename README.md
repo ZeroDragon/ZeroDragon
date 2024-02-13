@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reactive Resources Management](https://dev.to/ninjin/reactive-resources-management-39i5)
 - [Dev.to/JS] [Elevating eCommerce: Integrating commercetools with Modern Frontend Frameworks](https://dev.to/nitin-rachabathuni/elevating-ecommerce-integrating-commercetools-with-modern-frontend-frameworks-4bd9)
 - [Dev.to/JS] [YouTube Tags Generator API](https://dev.to/sh20raj/youtube-tags-generator-api-276f)
 - [Dev.to/JS] [Angular CDK Overlay Tutorial: Scroll Strategies](https://dev.to/brianmtreese/angular-cdk-overlay-tutorial-scroll-strategies-1a83)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using the Angular CDK Viewport Ruler](https://dev.to/brianmtreese/using-the-angular-cdk-viewport-ruler-45d6)
 - [Dev.to/JS] [How to Use Angular&#39;s New Control Flow Syntax](https://dev.to/brianmtreese/how-to-use-angulars-new-control-flow-syntax-4h2k)
 - [Dev.to/JS] [Angular Host Binding Animations](https://dev.to/brianmtreese/angular-host-binding-animations-2nh6)
-- [Dev.to/JS] [How to Use the Angular CDK Breakpoint Observer](https://dev.to/brianmtreese/how-to-use-the-angular-cdk-breakpoint-observer-245d)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
