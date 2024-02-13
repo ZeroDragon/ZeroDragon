@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Host Binding Animations](https://dev.to/brianmtreese/angular-host-binding-animations-2nh6)
+- [Dev.to/JS] [How to Use the Angular CDK Breakpoint Observer](https://dev.to/brianmtreese/how-to-use-the-angular-cdk-breakpoint-observer-245d)
 - [Dev.to/JS] [4 Ways to Toggle Classes in Angular](https://dev.to/brianmtreese/4-ways-to-toggle-classes-in-angular-17lp)
 - [Dev.to/JS] [HTTP response status codes](https://dev.to/athuljain/http-response-status-codes-10h6)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
 - [Dev.to/JS] [Understanding Type Conversion and Coercion in JavaScript](https://dev.to/devendra_2806/understanding-type-conversion-and-coercion-in-javascript-43jk)
 - [Dev.to/JS] [Understanding Null and Undefined in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-null-and-undefined-in-javascript-and-typescript-33fo)
 - [Dev.to/JS] [hi every1 nice 2 be here :&rpar;](https://dev.to/darkfader420/hi-every1-nice-2-be-here--55d5)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The-usage-of-artificial-intelligence-in-the-sitepoint-community/](https://dev.to/divyanshuhoon/the-usage-of-artificial-intelligence-in-the-sitepoint-community-4je7)
 - [Dev.to/JS] [How to improve Logic in Programming?](https://dev.to/divyanshuhoon/how-to-improve-logic-in-programming-4ko4)
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
-- [Dev.to/JS] [🧹 It&#39;s Time to Spring Clean Your Codebase: Celebrate National Clean Out Your Computer Day! 🖥️ ✨](https://dev.to/best_codes/its-time-to-spring-clean-your-codebase-celebrate-national-clean-out-your-computer-day-3656)
-- [Dev.to/JS] [Construyendo una Pokedex con Python y AWS CDK: Una Guía Paso a Paso](https://dev.to/just-a-number/construyendo-una-pokedex-con-python-y-aws-cdk-una-guia-paso-a-paso-52dj)
 - [Lifehacker] [Valentine’s Day Is the Perfect Excuse to Try One of These ‘Romantic’ Sex Toys](https://lifehacker.com/relationships/best-sex-toys-to-try-for-valentines-day)
 - [Lifehacker] [Everything You Need for a Basic Home Bar](https://lifehacker.com/food-drink/how-to-set-up-home-bar)
 - [Lifehacker] [This 34&quot; LG Curved IPS Monitor Is 50% Off Right Now](https://lifehacker.com/tech/this-34-lg-curved-ips-monitor-is-50-off-right-now)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Play Apple Music on Alexa](https://lifehacker.com/tech/how-to-play-apple-music-on-alexa)
 - [Lifehacker] [The Most Helpful ‘Laws’ of Productivity to Get More Done](https://lifehacker.com/work/laws-of-productivity)
 - [Lifehacker] [You Can Get This 3-in-1 Nintendo Switch Docking Station for $20 Right Now](https://lifehacker.com/nintendo-switch-docking-station-sale)
-- [Lifehacker] [Why the Social Media Hype Around Magnesium Is Overblown](https://lifehacker.com/health/why-is-magnesium-so-popular-right-now)
-- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why the Social Media Hype Around Magnesium Is Overblown](https://lifehacker.com/health/why-is-magnesium-so-popular-right-now)<!-- TECH-POSTS:END -->
 
 ---
 
