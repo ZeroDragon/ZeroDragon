@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [hi every1 nice 2 be here :&rpar;](https://dev.to/darkfader420/hi-every1-nice-2-be-here--55d5)
 - [Dev.to/JS] [JAVASCRIPT GETTERS AND SETTERS](https://dev.to/maame_afia/javascript-getters-and-setters-24f)
 - [Dev.to/JS] [The WebSocket API and protocol explained](https://dev.to/alakkadshaw/the-websocket-api-and-protocol-explained-1jnl)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All about API testing &amp; Keploy](https://dev.to/arindam_1729/all-about-api-testing-keploy-2pjk)
 - [Dev.to/JS] [Getting Started with Keploy](https://dev.to/arindam_1729/getting-started-with-keploy-4620)
 - [Lifehacker] [This 34&quot; LG Curved IPS Monitor Is 50% Off Right Now](https://lifehacker.com/tech/this-34-lg-curved-ips-monitor-is-50-off-right-now)
-- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 9 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-5d1p)
 - [Lifehacker] [Try These Classic Desserts for Fat Tuesday &lpar;and All the Other Fat Days&rpar;](https://lifehacker.com/the-best-classic-desserts-for-fat-tuesday)
 - [Lifehacker] [The Best Tech to Help You Remember Things and Stay Organized](https://lifehacker.com/work/the-best-tech-for-remembering-tasks-and-organization)
 - [Lifehacker] [You Can Get an Apple Watch Series 7 for 47% Off Right Now](https://lifehacker.com/tech/you-can-get-an-apple-watch-series-7-for-47-percent-off-right-now)
