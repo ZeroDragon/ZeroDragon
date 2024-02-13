@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevating eCommerce: Integrating commercetools with Modern Frontend Frameworks](https://dev.to/nitin-rachabathuni/elevating-ecommerce-integrating-commercetools-with-modern-frontend-frameworks-4bd9)
+- [Dev.to/JS] [YouTube Tags Generator API](https://dev.to/sh20raj/youtube-tags-generator-api-276f)
+- [Dev.to/JS] [Angular CDK Overlay Tutorial: Scroll Strategies](https://dev.to/brianmtreese/angular-cdk-overlay-tutorial-scroll-strategies-1a83)
+- [Dev.to/JS] [Angular CDK Overlay Tutorial: Positioning](https://dev.to/brianmtreese/angular-cdk-overlay-tutorial-positioning-31ei)
 - [Dev.to/JS] [Angular CDK Overlay Tutorial: Learn the Basics](https://dev.to/brianmtreese/angular-cdk-overlay-tutorial-learn-the-basics-20h3)
 - [Dev.to/JS] [Using Angular @Input to Pass Data to Dynamically Created Components](https://dev.to/brianmtreese/using-angular-input-to-pass-data-to-dynamically-created-components-1p34)
 - [Dev.to/JS] [TypeScript Core Concepts Explained for Absolute Beginners](https://dev.to/ymir/typescript-core-concepts-explained-for-absolute-beginners-8od)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use Angular&#39;s New Control Flow Syntax](https://dev.to/brianmtreese/how-to-use-angulars-new-control-flow-syntax-4h2k)
 - [Dev.to/JS] [Angular Host Binding Animations](https://dev.to/brianmtreese/angular-host-binding-animations-2nh6)
 - [Dev.to/JS] [How to Use the Angular CDK Breakpoint Observer](https://dev.to/brianmtreese/how-to-use-the-angular-cdk-breakpoint-observer-245d)
-- [Dev.to/JS] [4 Ways to Toggle Classes in Angular](https://dev.to/brianmtreese/4-ways-to-toggle-classes-in-angular-17lp)
-- [Dev.to/JS] [HTTP response status codes](https://dev.to/athuljain/http-response-status-codes-10h6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
-- [Dev.to/JS] [Understanding Type Conversion and Coercion in JavaScript](https://dev.to/devendra_2806/understanding-type-conversion-and-coercion-in-javascript-43jk)
-- [Dev.to/JS] [Understanding Null and Undefined in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-null-and-undefined-in-javascript-and-typescript-33fo)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
 - [Lifehacker] [Valentine’s Day Is the Perfect Excuse to Try One of These ‘Romantic’ Sex Toys](https://lifehacker.com/relationships/best-sex-toys-to-try-for-valentines-day)
