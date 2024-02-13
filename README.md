@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JAVASCRIPT GETTERS AND SETTERS](https://dev.to/maame_afia/javascript-getters-and-setters-24f)
+- [Dev.to/JS] [The WebSocket API and protocol explained](https://dev.to/alakkadshaw/the-websocket-api-and-protocol-explained-1jnl)
+- [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
 - [Dev.to/JS] [How to add a Pre-loader in your webpage](https://dev.to/divyanshuhoon/how-to-add-a-pre-loader-in-your-webpage-ld3)
 - [Dev.to/JS] [The-usage-of-artificial-intelligence-in-the-sitepoint-community/](https://dev.to/divyanshuhoon/the-usage-of-artificial-intelligence-in-the-sitepoint-community-4je7)
 - [Dev.to/JS] [How to improve Logic in Programming?](https://dev.to/divyanshuhoon/how-to-improve-logic-in-programming-4ko4)
+- [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
 - [Dev.to/JS] [🧹 It&#39;s Time to Spring Clean Your Codebase: Celebrate National Clean Out Your Computer Day! 🖥️ ✨](https://dev.to/best_codes/its-time-to-spring-clean-your-codebase-celebrate-national-clean-out-your-computer-day-3656)
 - [Dev.to/JS] [Construyendo una Pokedex con Python y AWS CDK: Una Guía Paso a Paso](https://dev.to/just-a-number/construyendo-una-pokedex-con-python-y-aws-cdk-una-guia-paso-a-paso-52dj)
 - [Dev.to/JS] [How to collect metrics from node.js applications in PM2 with exporting to Prometheus](https://dev.to/vexell/how-to-collect-metrics-from-nodejs-applications-in-pm2-with-exporting-to-prometheus-3dbn)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with Keploy](https://dev.to/arindam_1729/getting-started-with-keploy-4620)
 - [Lifehacker] [This 34&quot; LG Curved IPS Monitor Is 50% Off Right Now](https://lifehacker.com/tech/this-34-lg-curved-ips-monitor-is-50-off-right-now)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 9 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-5d1p)
-- [Dev.to/JS] [Como se destacar como programador Jr](https://dev.to/httpgabrielalves/como-se-destacar-como-programador-jr-5002)
-- [Dev.to/JS] [Simplifying Interactive UI Development with JSSignal and jQuery](https://dev.to/jaswantsandhu/simplifying-interactive-ui-development-with-jssignal-and-jquery-1bo8)
 - [Lifehacker] [Try These Classic Desserts for Fat Tuesday &lpar;and All the Other Fat Days&rpar;](https://lifehacker.com/the-best-classic-desserts-for-fat-tuesday)
 - [Lifehacker] [The Best Tech to Help You Remember Things and Stay Organized](https://lifehacker.com/work/the-best-tech-for-remembering-tasks-and-organization)
 - [Lifehacker] [You Can Get an Apple Watch Series 7 for 47% Off Right Now](https://lifehacker.com/tech/you-can-get-an-apple-watch-series-7-for-47-percent-off-right-now)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Helpful ‘Laws’ of Productivity to Get More Done](https://lifehacker.com/work/laws-of-productivity)
 - [Lifehacker] [You Can Get This 3-in-1 Nintendo Switch Docking Station for $20 Right Now](https://lifehacker.com/nintendo-switch-docking-station-sale)
 - [Lifehacker] [Why the Social Media Hype Around Magnesium Is Overblown](https://lifehacker.com/health/why-is-magnesium-so-popular-right-now)
-- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
-- [Lifehacker] [This Cybersecurity and IT Skills Course Is on Sale for $70 Right Now](https://lifehacker.com/cybersecurity-it-skills-course-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 10, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-10-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)<!-- TECH-POSTS:END -->
 
 ---
 
