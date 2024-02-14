@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building microservices in Node.js](https://dev.to/avinashrepo/building-microservices-in-nodejs-5fnh)
+- [Dev.to/JS] [React Tips: Extends Props HTML Element](https://dev.to/kevin-uehara/react-tips-extends-props-html-element-2b1h)
+- [Lifehacker] [Apple Made an AI Image Animator](https://lifehacker.com/tech/what-is-apple-keyframer)
+- [Lifehacker] [How Graphene Batteries Are Poised to Revolutionize Cordless Power Tools](https://lifehacker.com/home/graphene-batteries-will-revolutionize-cordless-power-tools)
 - [Lifehacker] [The Best Apps to Help You Be More Creative](https://lifehacker.com/tech/best-creativity-brainstorming-apps)
 - [Lifehacker] [The Google Pixel 7 Pro and 7a Are Seeing Big Discounts Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
 - [Dev.to/JS] [Difference between var, let and const, in Javascript.](https://dev.to/abhisheks_words/difference-between-var-let-and-const-in-javascript-14d9)
@@ -46,9 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Método de resolução TCTS-CAMPOS](https://dev.to/julianoalvescode/metodo-de-resolucao-tcts-campos-50l7)
 - [Dev.to/JS] [mua chung Canva Pro](https://dev.to/wsovn112/mua-chung-canva-pro-2jcb)
 - [Dev.to/JS] [Extensive React Boilerplate to kickstart a new frontend project](https://dev.to/rodik/extensive-react-boilerplate-to-kickstart-a-new-frontend-project-1lh)
-- [Dev.to/JS] [Thoughts : How I created A JS framework in just 4 days...](https://dev.to/rudransh61/thoughts-how-i-created-a-js-framework-in-just-4-days-67a)
 - [Lifehacker] [Five Reasons to File Your Taxes ASAP](https://lifehacker.com/money/why-you-should-do-your-taxes-asap)
-- [Dev.to/JS] [WhatsApp Chat Button On Website HTML Code](https://dev.to/imamuddinwp/whatsapp-chat-button-on-website-html-code-3g8g)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Only Way You Can Get the New Nothing Phone 2a](https://lifehacker.com/tech/what-we-know-about-nothing-phone-2)
 - [Lifehacker] [You Can Skip Valentine&#39;s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/what-to-give-on-valentines-day-instead-of-flowers)
 - [Lifehacker] [This Is the Best Tool for Downloading Videos From Basically Anywhere Online](https://lifehacker.com/tech/cobalt-tool-for-downloading-videos-from-social-media)
-- [Lifehacker] [How to Stop Jerks From Blocking Your Driveway](https://lifehacker.com/home/stop-jerks-from-blocking-your-driveway)
-- [Lifehacker] [Plex Is Breaking Into Movie Rentals](https://lifehacker.com/tech/you-can-now-rent-movies-in-plex)
-- [Lifehacker] [The EU Just Ruled in Favor of Big Tech &lpar;for Once&rpar;](https://lifehacker.com/tech/the-eu-ruled-in-favor-of-big-tech)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stop Jerks From Blocking Your Driveway](https://lifehacker.com/home/stop-jerks-from-blocking-your-driveway)<!-- TECH-POSTS:END -->
 
 ---
 
