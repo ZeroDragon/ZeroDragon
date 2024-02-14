@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building an OTP Verification System with Node.js and MongoDB](https://dev.to/manthanank/building-an-otp-verification-system-with-nodejs-and-mongodb-2p0o)
+- [Dev.to/JS] [Part :2 - My Automation Interview Questions in one of leading MNC](https://dev.to/magi-magificient/part-2-my-automation-interview-questions-in-one-of-leading-mnc-2172)
 - [Dev.to/JS] [How to create React Forms without libraries ✨](https://dev.to/fangtanbamrung/how-to-create-react-forms-without-libraries-mh7)
 - [Dev.to/JS] [Commercetools vs. Traditional eCommerce Platforms: A Comparative Analysis](https://dev.to/nitin-rachabathuni/commercetools-vs-traditional-ecommerce-platforms-a-comparative-analysis-3f9o)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
@@ -47,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn’t Count on DoorDash, Lyft, or Uber This Valentine’s Day](https://lifehacker.com/travel/dont-count-on-doordash-lyft-or-uber-this-valentines-day)
 - [Lifehacker] [These Smart Beds Are up to 50% Off for President&#39;s Day](https://lifehacker.com/health/presidents-day-smart-bed-sales)
 - [Lifehacker] [How to Make a Lasagna Soup That Isn’t a Watery Mess](https://lifehacker.com/food-drink/how-to-make-a-better-lasagna-soup)
-- [Dev.to/JS] [Looking for Catholic Developers for Volunteer Software](https://dev.to/gihoekveld/looking-for-catholic-developers-for-volunteer-software-3fpm)
-- [Dev.to/JS] [App Development in Dubai Unveiled](https://dev.to/devicebee/app-development-in-dubai-unveiled-54nj)
 - [Lifehacker] [The Only Way You Can Get the New Nothing Phone 2a](https://lifehacker.com/tech/what-we-know-about-nothing-phone-2)
 - [Lifehacker] [You Can Skip Valentine&#39;s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/what-to-give-on-valentines-day-instead-of-flowers)
 - [Lifehacker] [This Is the Best Tool for Downloading Videos From Basically Anywhere Online](https://lifehacker.com/tech/cobalt-tool-for-downloading-videos-from-social-media)
