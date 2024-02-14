@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Tempo • A new date library for JavaScript &lpar;and TypeScript&rpar;.](https://dev.to/justinschroeder/introducing-tempo-a-new-date-library-for-javascript-and-typescript-359a)
+- [Dev.to/JS] [The Age of Oxidation: How Rust is Revolutionizing JavaScript Tooling](https://dev.to/martcpp/the-age-of-oxidation-how-rust-is-revolutionizing-javascript-tooling-3bem)
+- [Dev.to/JS] [React.lazy&lpar;&rpar; Import Error: &#39;lazy&#39; not found in &#39;react&#39;](https://dev.to/barbosageovanni/reactlazy-import-error-lazy-not-found-in-react-2jpe)
 - [Dev.to/JS] [Make money online 2024 tips](https://dev.to/bozlurrashidgadgets/make-money-online-2024-tips-4p1a)
 - [Dev.to/JS] [Current Trends in Software Development](https://dev.to/aditya_raj_1010/current-trends-in-software-development-2bg7)
 - [Dev.to/JS] [Building an OTP Verification System with Node.js and MongoDB](https://dev.to/manthanank/building-an-otp-verification-system-with-nodejs-and-mongodb-2p0o)
@@ -40,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Deep Dive into JavaScript Variable Declarations: var, let, and const.](https://dev.to/devendra_2806/a-deep-dive-into-javascript-variable-declarations-var-let-and-const-4g1f)
 - [Lifehacker] [How to Play PS5 Games Remotely on Your Steam Deck](https://lifehacker.com/tech/how-to-play-ps5-games-remotely-on-steam-deck)
 - [Lifehacker] [The Pros and Cons of Adding ‘Soft Skills’ to Your Resume](https://lifehacker.com/work/pros-and-cons-of-adding-soft-skills-to-your-resume)
-- [Dev.to/JS] [React.js](https://dev.to/chaseteague/reactjs-3jki)
 - [Lifehacker] [The Best Podcasts About Sex, Dating, and Relationships](https://lifehacker.com/relationships/the-best-sex-dating-relationship-podcasts)
-- [Dev.to/JS] [Deploy Your API in 1 Minute with NestCDK](https://dev.to/pkhadson/deploy-your-api-in-1-minute-with-nestcdk-cp6)
-- [Dev.to/JS] [Opening Doors to Global Education](https://dev.to/ann123/opening-doors-to-global-education-4988)
 - [Lifehacker] [Prime Video Now Charges Extra for Dolby Vision and Dolby Atmos](https://lifehacker.com/entertainment/prime-video-now-charges-extra-for-dolby-vision-and-dolby-atmos)
 - [Lifehacker] [Use the &#39;5S&#39; Technique to Create a More Productive Workspace](https://lifehacker.com/home/5s-technique-create-a-more-productive-workspace)
 - [Lifehacker] [Why You Shouldn’t Count on DoorDash, Lyft, or Uber This Valentine’s Day](https://lifehacker.com/travel/dont-count-on-doordash-lyft-or-uber-this-valentines-day)
