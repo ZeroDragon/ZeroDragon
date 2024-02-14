@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Grand Finserv Loan C U S T O M E R .Care Helpline Number 7783–878–426  !!0786–482//7440 7783–878426](https://dev.to/sotankumar08/grand-finserv-loan-c-u-s-t-o-m-e-r-care-helpline-number-7783-878-426-0786-48274407783-878426-55ni)
+- [Lifehacker] [You Can Try Slack&#39;s New AI Tools Today &lpar;If Your Company Pays for Them&rpar;](https://lifehacker.com/tech/slack-ai-tools)
 - [Dev.to/JS] [Job Market for Web Developers](https://dev.to/devgancode/job-market-for-web-developers-2n1g)
+- [Lifehacker] [You Can Get Two 4K Camera Drones for $145 Right Now](https://lifehacker.com/camera-drone-bundle-sale)
 - [Dev.to/JS] [Transitioning from JavaScript to Node.js](https://dev.to/venom4171/transitioning-from-javascript-to-nodejs-432g)
 - [Dev.to/JS] [Build a Discord Bot with Go - Step-by-Step Tutorial via Webhooks](https://dev.to/nikl/build-a-discord-bot-with-go-step-by-step-tutorial-via-webhooks-3g3e)
+- [Lifehacker] [25 of the Most Rewatchable Movies Ever, According to Twitter/X Users](https://lifehacker.com/entertainment/most-rewatchble-movies-according-to-twitter)
 - [Dev.to/JS] [Using Electron to create videos &lpar;Canvas + FFMPEG&rpar;](https://dev.to/yonatanbd/using-electron-to-create-videos-canvas-ffmpeg-5gdm)
 - [Lifehacker] [The Best Way to Clean Your Makeup Brushes](https://lifehacker.com/home/how-to-clean-makeup-brushes)
 - [Lifehacker] [How to Create AI and Emoji Wallpapers on Your Google Pixel](https://lifehacker.com/tech/how-to-create-ai-and-emoji-wallpapers-on-pixel-phone)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Reasons to File Your Taxes ASAP](https://lifehacker.com/money/why-you-should-do-your-taxes-asap)
 - [Dev.to/JS] [WhatsApp Chat Button On Website HTML Code](https://dev.to/imamuddinwp/whatsapp-chat-button-on-website-html-code-3g8g)
 - [Dev.to/JS] [Crafting Observable Cloudflare Workers with OpenTelemetry](https://dev.to/kubeshop/crafting-observable-cloudflare-workers-with-opentelemetry-1ocm)
-- [Dev.to/JS] [Visualize your AWS app like never before with sls-mentor](https://dev.to/slsbytheodo/visualize-your-aws-app-like-never-before-with-sls-mentor-2j3l)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Recipes Using Pancake Mix &lpar;Beyond Regular Old Pancakes&rpar;](https://lifehacker.com/food-drink/the-best-pancake-mix-recipes)
 - [Lifehacker] [The HP Envy Move Is at Its Lowest Price Right Now](https://lifehacker.com/tech/hp-envy-move-sale)
 - [Lifehacker] [The Jura ENA8 Isn’t Exactly the ‘Smartest’ Smart Coffee-Maker](https://lifehacker.com/tech/jura-ena8-review)
-- [Lifehacker] [How to Have the Best Period Sex](https://lifehacker.com/relationships/how-to-have-the-best-period-sex)
-- [Lifehacker] [How to Use the Temperature and Humidity Sensors Inside Your Smart Speakers](https://lifehacker.com/tech/how-to-use-the-temperature-and-humidity-sensors-inside-your-smart-speakers)
-- [Lifehacker] [Use OnlySwitch to Customize All Your Mac Settings Faster](https://lifehacker.com/tech/change-hidden-mac-settings-with-onlyswitch)
-- [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Have the Best Period Sex](https://lifehacker.com/relationships/how-to-have-the-best-period-sex)<!-- TECH-POSTS:END -->
 
 ---
 
