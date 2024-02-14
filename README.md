@@ -26,7 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Privacy Browser DuckDuckGo Can Finally Sync Your Passwords](https://lifehacker.com/tech/duckduckgo-adds-password-syncing)
+- [Dev.to/JS] [microservices architecture](https://dev.to/avinashrepo/microservices-architecture-3gca)
+- [Dev.to/JS] [Kubernetes for Scaling Docker containers](https://dev.to/avinashrepo/kubernetes-for-scaling-docker-containers-2bof)
+- [Dev.to/JS] [Docker 2 diff version like node.js, multer / next.js commonjs](https://dev.to/avinashrepo/docker-2-diff-version-like-nodejs-multer-nextjs-commonjs-k6)
+- [Dev.to/JS] [Docker Desktop](https://dev.to/avinashrepo/docker-desktop-3id6)
+- [Dev.to/JS] [Earlier Docker how to manage?](https://dev.to/avinashrepo/earlier-docker-how-to-manage-3e0c)
+- [Lifehacker] [These Google Pixel Smartwatches Are Between $50 and $150 Off Right Now](https://lifehacker.com/tech/google-pixel-watch-and-pixel-watch-2-sale)
 - [Dev.to/JS] [Building microservices in Node.js](https://dev.to/avinashrepo/building-microservices-in-nodejs-5fnh)
+- [Lifehacker] [Your Conversations With AI Chatbots Aren’t Private](https://lifehacker.com/tech/your-conversations-with-chatbots-are-not-private)
 - [Dev.to/JS] [React Tips: Extends Props HTML Element](https://dev.to/kevin-uehara/react-tips-extends-props-html-element-2b1h)
 - [Lifehacker] [Apple Made an AI Image Animator](https://lifehacker.com/tech/what-is-apple-keyframer)
 - [Lifehacker] [How Graphene Batteries Are Poised to Revolutionize Cordless Power Tools](https://lifehacker.com/home/graphene-batteries-will-revolutionize-cordless-power-tools)
@@ -43,13 +51,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transitioning from JavaScript to Node.js](https://dev.to/venom4171/transitioning-from-javascript-to-nodejs-432g)
 - [Dev.to/JS] [Build a Discord Bot with Go - Step-by-Step Tutorial via Webhooks](https://dev.to/nikl/build-a-discord-bot-with-go-step-by-step-tutorial-via-webhooks-3g3e)
 - [Lifehacker] [25 of the Most Rewatchable Movies Ever, According to Twitter/X Users](https://lifehacker.com/entertainment/most-rewatchble-movies-according-to-twitter)
-- [Dev.to/JS] [Using Electron to create videos &lpar;Canvas + FFMPEG&rpar;](https://dev.to/yonatanbd/using-electron-to-create-videos-canvas-ffmpeg-5gdm)
 - [Lifehacker] [The Best Way to Clean Your Makeup Brushes](https://lifehacker.com/home/how-to-clean-makeup-brushes)
 - [Lifehacker] [How to Create AI and Emoji Wallpapers on Your Google Pixel](https://lifehacker.com/tech/how-to-create-ai-and-emoji-wallpapers-on-pixel-phone)
-- [Dev.to/JS] [Observability &amp; Source Maps: Through thorns to the stars](https://dev.to/aantipov/observability-source-maps-through-thorns-to-the-stars-3pi4)
-- [Dev.to/JS] [Método de resolução TCTS-CAMPOS](https://dev.to/julianoalvescode/metodo-de-resolucao-tcts-campos-50l7)
-- [Dev.to/JS] [mua chung Canva Pro](https://dev.to/wsovn112/mua-chung-canva-pro-2jcb)
-- [Dev.to/JS] [Extensive React Boilerplate to kickstart a new frontend project](https://dev.to/rodik/extensive-react-boilerplate-to-kickstart-a-new-frontend-project-1lh)
 - [Lifehacker] [Five Reasons to File Your Taxes ASAP](https://lifehacker.com/money/why-you-should-do-your-taxes-asap)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn’t Count on DoorDash, Lyft, or Uber This Valentine’s Day](https://lifehacker.com/travel/dont-count-on-doordash-lyft-or-uber-this-valentines-day)
 - [Lifehacker] [These Smart Beds Are up to 50% Off for President&#39;s Day](https://lifehacker.com/health/presidents-day-smart-bed-sales)
 - [Lifehacker] [How to Make a Lasagna Soup That Isn’t a Watery Mess](https://lifehacker.com/food-drink/how-to-make-a-better-lasagna-soup)
-- [Lifehacker] [The Only Way You Can Get the New Nothing Phone 2a](https://lifehacker.com/tech/what-we-know-about-nothing-phone-2)
-- [Lifehacker] [You Can Skip Valentine&#39;s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/what-to-give-on-valentines-day-instead-of-flowers)
-- [Lifehacker] [This Is the Best Tool for Downloading Videos From Basically Anywhere Online](https://lifehacker.com/tech/cobalt-tool-for-downloading-videos-from-social-media)
-- [Lifehacker] [How to Stop Jerks From Blocking Your Driveway](https://lifehacker.com/home/stop-jerks-from-blocking-your-driveway)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Only Way You Can Get the New Nothing Phone 2a](https://lifehacker.com/tech/what-we-know-about-nothing-phone-2)<!-- TECH-POSTS:END -->
 
 ---
 
