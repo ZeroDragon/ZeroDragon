@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Google Pixel 7 Pro and 7a Are Seeing Big Discounts Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
+- [Dev.to/JS] [Difference between var, let and const, in Javascript.](https://dev.to/abhisheks_words/difference-between-var-let-and-const-in-javascript-14d9)
+- [Lifehacker] [Make This Fancy Mille-feuille With Three Ingredients](https://lifehacker.com/food-drink/easy-mille-feuille-recipe)
 - [Dev.to/JS] [Grand Finserv Loan C U S T O M E R .Care Helpline Number 7783–878–426  !!0786–482//7440 7783–878426](https://dev.to/sotankumar08/grand-finserv-loan-c-u-s-t-o-m-e-r-care-helpline-number-7783-878-426-0786-48274407783-878426-55ni)
+- [Lifehacker] [How to Find an Old 401&lpar;k&rpar;](https://lifehacker.com/money/how-to-find-an-old-401k)
+- [Lifehacker] [The Roomba j7 Robot Vacuum Is 50% Off Right Now](https://lifehacker.com/home/the-roomba-j7-robot-vacuum-is-50-percent-off-right-now)
 - [Lifehacker] [You Can Try Slack&#39;s New AI Tools Today &lpar;If Your Company Pays for Them&rpar;](https://lifehacker.com/tech/slack-ai-tools)
 - [Dev.to/JS] [Job Market for Web Developers](https://dev.to/devgancode/job-market-for-web-developers-2n1g)
 - [Lifehacker] [You Can Get Two 4K Camera Drones for $145 Right Now](https://lifehacker.com/camera-drone-bundle-sale)
@@ -43,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Thoughts : How I created A JS framework in just 4 days...](https://dev.to/rudransh61/thoughts-how-i-created-a-js-framework-in-just-4-days-67a)
 - [Lifehacker] [Five Reasons to File Your Taxes ASAP](https://lifehacker.com/money/why-you-should-do-your-taxes-asap)
 - [Dev.to/JS] [WhatsApp Chat Button On Website HTML Code](https://dev.to/imamuddinwp/whatsapp-chat-button-on-website-html-code-3g8g)
-- [Dev.to/JS] [Crafting Observable Cloudflare Workers with OpenTelemetry](https://dev.to/kubeshop/crafting-observable-cloudflare-workers-with-opentelemetry-1ocm)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Jerks From Blocking Your Driveway](https://lifehacker.com/home/stop-jerks-from-blocking-your-driveway)
 - [Lifehacker] [Plex Is Breaking Into Movie Rentals](https://lifehacker.com/tech/you-can-now-rent-movies-in-plex)
 - [Lifehacker] [The EU Just Ruled in Favor of Big Tech &lpar;for Once&rpar;](https://lifehacker.com/tech/the-eu-ruled-in-favor-of-big-tech)
-- [Lifehacker] [The iPad Air Is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
-- [Lifehacker] [The Best Recipes Using Pancake Mix &lpar;Beyond Regular Old Pancakes&rpar;](https://lifehacker.com/food-drink/the-best-pancake-mix-recipes)
-- [Lifehacker] [The HP Envy Move Is at Its Lowest Price Right Now](https://lifehacker.com/tech/hp-envy-move-sale)
-- [Lifehacker] [The Jura ENA8 Isn’t Exactly the ‘Smartest’ Smart Coffee-Maker](https://lifehacker.com/tech/jura-ena8-review)
-- [Lifehacker] [How to Have the Best Period Sex](https://lifehacker.com/relationships/how-to-have-the-best-period-sex)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The iPad Air Is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)<!-- TECH-POSTS:END -->
 
 ---
 
