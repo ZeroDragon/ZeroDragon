@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Observability &amp; Source Maps: Through thorns to the stars](https://dev.to/aantipov/observability-source-maps-through-thorns-to-the-stars-3pi4)
 - [Dev.to/JS] [Método de resolução TCTS-CAMPOS](https://dev.to/julianoalvescode/metodo-de-resolucao-tcts-campos-50l7)
 - [Dev.to/JS] [mua chung Canva Pro](https://dev.to/wsovn112/mua-chung-canva-pro-2jcb)
 - [Dev.to/JS] [Extensive React Boilerplate to kickstart a new frontend project](https://dev.to/rodik/extensive-react-boilerplate-to-kickstart-a-new-frontend-project-1lh)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Visualize your AWS app like never before with sls-mentor](https://dev.to/slsbytheodo/visualize-your-aws-app-like-never-before-with-sls-mentor-2j3l)
 - [Dev.to/JS] [WhatsApp Chat HTML Code For Website](https://dev.to/imamuddinwp/whatsapp-chat-html-code-for-website-53lg)
 - [Dev.to/JS] [next js or react js ????? WHICH ONE DO WE PREFER FOR FAST RESULT](https://dev.to/aditya_raj_1010/next-js-or-react-js-which-one-do-we-prefer-for-fast-result-1j0m)
-- [Dev.to/JS] [will you congratulate me on Valentine&#39;s Day?](https://dev.to/maya_walk/will-you-congratulate-me-on-valentines-day-4oe6)
 - [Dev.to/JS] [Creating a RESTful API with Express.js:](https://dev.to/aditya_raj_1010/creating-a-restful-api-with-expressjs-3pij)
 - [Dev.to/JS] [Building a React Image Cropper - a whole world of unexpected problems](https://dev.to/mjoycemilburn/building-a-react-image-cropper-a-whole-world-of-unexpected-problems-300i)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
