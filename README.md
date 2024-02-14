@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A new way to CSS &lpar;SML&rpar;](https://dev.to/sethharlaar/a-new-way-to-css-sml-3dki)
 - [Dev.to/JS] [A Deep Dive into JavaScript Variable Declarations: var, let, and const.](https://dev.to/devendra_2806/a-deep-dive-into-javascript-variable-declarations-var-let-and-const-4g1f)
+- [Lifehacker] [How to Play PS5 Games Remotely on Your Steam Deck](https://lifehacker.com/tech/how-to-play-ps5-games-remotely-on-steam-deck)
 - [Lifehacker] [The Pros and Cons of Adding ‘Soft Skills’ to Your Resume](https://lifehacker.com/work/pros-and-cons-of-adding-soft-skills-to-your-resume)
 - [Dev.to/JS] [React.js](https://dev.to/chaseteague/reactjs-3jki)
 - [Lifehacker] [The Best Podcasts About Sex, Dating, and Relationships](https://lifehacker.com/relationships/the-best-sex-dating-relationship-podcasts)
@@ -48,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Tool for Downloading Videos From Basically Anywhere Online](https://lifehacker.com/tech/cobalt-tool-for-downloading-videos-from-social-media)
 - [Dev.to/JS] [How Much JavaScript Do You Need for Web Development? A Beginner&#39;s Guide](https://dev.to/abhisheks_words/how-much-javascript-do-you-need-for-web-development-a-beginners-guide-dhj)
 - [Lifehacker] [How to Stop Jerks From Blocking Your Driveway](https://lifehacker.com/home/stop-jerks-from-blocking-your-driveway)
-- [Dev.to/JS] [Contentrain 2.0 is Live on Product Hunt! 🚀](https://dev.to/contentrain_io/contentrain-20-is-live-on-product-hunt-17l1)
 - [Lifehacker] [Plex Is Breaking Into Movie Rentals](https://lifehacker.com/tech/you-can-now-rent-movies-in-plex)
 - [Lifehacker] [The EU Just Ruled in Favor of Big Tech &lpar;for Once&rpar;](https://lifehacker.com/tech/the-eu-ruled-in-favor-of-big-tech)
 - [Lifehacker] [The iPad Air Is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
 - [Lifehacker] [Valentine’s Day Is the Perfect Excuse to Try One of These ‘Romantic’ Sex Toys](https://lifehacker.com/relationships/best-sex-toys-to-try-for-valentines-day)
 - [Lifehacker] [Everything You Need for a Basic Home Bar](https://lifehacker.com/food-drink/how-to-set-up-home-bar)
-- [Lifehacker] [This 34&quot; LG Curved IPS Monitor Is 50% Off Right Now](https://lifehacker.com/tech/this-34-lg-curved-ips-monitor-is-50-off-right-now)
-- [Lifehacker] [Try These Classic Desserts for Fat Tuesday &lpar;and All the Other Fat Days&rpar;](https://lifehacker.com/the-best-classic-desserts-for-fat-tuesday)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 34&quot; LG Curved IPS Monitor Is 50% Off Right Now](https://lifehacker.com/tech/this-34-lg-curved-ips-monitor-is-50-off-right-now)<!-- TECH-POSTS:END -->
 
 ---
 
