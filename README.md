@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Deep Dive into JavaScript Variable Declarations: var, let, and const.](https://dev.to/devendra_2806/a-deep-dive-into-javascript-variable-declarations-var-let-and-const-4g1f)
+- [Lifehacker] [The Pros and Cons of Adding ‘Soft Skills’ to Your Resume](https://lifehacker.com/work/pros-and-cons-of-adding-soft-skills-to-your-resume)
+- [Dev.to/JS] [React.js](https://dev.to/chaseteague/reactjs-3jki)
+- [Lifehacker] [The Best Podcasts About Sex, Dating, and Relationships](https://lifehacker.com/relationships/the-best-sex-dating-relationship-podcasts)
 - [Dev.to/JS] [Deploy Your API in 1 Minute with NestCDK](https://dev.to/pkhadson/deploy-your-api-in-1-minute-with-nestcdk-cp6)
 - [Dev.to/JS] [Opening Doors to Global Education](https://dev.to/ann123/opening-doors-to-global-education-4988)
+- [Lifehacker] [Prime Video Now Charges Extra for Dolby Vision and Dolby Atmos](https://lifehacker.com/entertainment/prime-video-now-charges-extra-for-dolby-vision-and-dolby-atmos)
 - [Dev.to/JS] [❤️ Valentine&#39;s Day! | Heart Shape &lpar;CSS&rpar; &amp; Confetti Animation 💫](https://dev.to/best_codes/valentines-day-heart-shape-css-confetti-animation-40b9)
 - [Dev.to/JS] [Supabase New Release](https://dev.to/codingcatdev/supabase-new-release-33fe)
 - [Lifehacker] [Use the &#39;5S&#39; Technique to Create a More Productive Workspace](https://lifehacker.com/home/5s-technique-create-a-more-productive-workspace)
@@ -44,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Much JavaScript Do You Need for Web Development? A Beginner&#39;s Guide](https://dev.to/abhisheks_words/how-much-javascript-do-you-need-for-web-development-a-beginners-guide-dhj)
 - [Lifehacker] [How to Stop Jerks From Blocking Your Driveway](https://lifehacker.com/home/stop-jerks-from-blocking-your-driveway)
 - [Dev.to/JS] [Contentrain 2.0 is Live on Product Hunt! 🚀](https://dev.to/contentrain_io/contentrain-20-is-live-on-product-hunt-17l1)
-- [Dev.to/JS] [5 JavaScript mapping APIs compared](https://dev.to/logrocket/5-javascript-mapping-apis-compared-1jjj)
 - [Lifehacker] [Plex Is Breaking Into Movie Rentals](https://lifehacker.com/tech/you-can-now-rent-movies-in-plex)
-- [Dev.to/JS] [Welcome](https://dev.to/jasa02/welcome-1lil)
 - [Lifehacker] [The EU Just Ruled in Favor of Big Tech &lpar;for Once&rpar;](https://lifehacker.com/tech/the-eu-ruled-in-favor-of-big-tech)
 - [Lifehacker] [The iPad Air Is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)
 - [Lifehacker] [The Best Recipes Using Pancake Mix &lpar;Beyond Regular Old Pancakes&rpar;](https://lifehacker.com/food-drink/the-best-pancake-mix-recipes)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Valentine’s Day Is the Perfect Excuse to Try One of These ‘Romantic’ Sex Toys](https://lifehacker.com/relationships/best-sex-toys-to-try-for-valentines-day)
 - [Lifehacker] [Everything You Need for a Basic Home Bar](https://lifehacker.com/food-drink/how-to-set-up-home-bar)
 - [Lifehacker] [This 34&quot; LG Curved IPS Monitor Is 50% Off Right Now](https://lifehacker.com/tech/this-34-lg-curved-ips-monitor-is-50-off-right-now)
-- [Lifehacker] [Try These Classic Desserts for Fat Tuesday &lpar;and All the Other Fat Days&rpar;](https://lifehacker.com/the-best-classic-desserts-for-fat-tuesday)
-- [Lifehacker] [The Best Tech to Help You Remember Things and Stay Organized](https://lifehacker.com/work/the-best-tech-for-remembering-tasks-and-organization)
-- [Lifehacker] [You Can Get an Apple Watch Series 7 for 47% Off Right Now](https://lifehacker.com/tech/you-can-get-an-apple-watch-series-7-for-47-percent-off-right-now)
-- [Lifehacker] [You Can Now Use Your Apple Cash Like a Debit Card](https://lifehacker.com/tech/use-apple-cash-like-debit-card)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try These Classic Desserts for Fat Tuesday &lpar;and All the Other Fat Days&rpar;](https://lifehacker.com/the-best-classic-desserts-for-fat-tuesday)<!-- TECH-POSTS:END -->
 
 ---
 
