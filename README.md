@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Commercetools vs. Traditional eCommerce Platforms: A Comparative Analysis](https://dev.to/nitin-rachabathuni/commercetools-vs-traditional-ecommerce-platforms-a-comparative-analysis-3f9o)
+- [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Dev.to/JS] [Fork me on GitHub Css Ribbon - Animated](https://dev.to/sh20raj/fork-me-on-github-css-ribbon-animated-mnm)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)
 - [Dev.to/JS] [A new way to CSS &lpar;SML&rpar;](https://dev.to/sethharlaar/a-new-way-to-css-sml-3dki)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)
 - [Dev.to/JS] [A Deep Dive into JavaScript Variable Declarations: var, let, and const.](https://dev.to/devendra_2806/a-deep-dive-into-javascript-variable-declarations-var-let-and-const-4g1f)
 - [Lifehacker] [How to Play PS5 Games Remotely on Your Steam Deck](https://lifehacker.com/tech/how-to-play-ps5-games-remotely-on-steam-deck)
 - [Lifehacker] [The Pros and Cons of Adding ‘Soft Skills’ to Your Resume](https://lifehacker.com/work/pros-and-cons-of-adding-soft-skills-to-your-resume)
@@ -46,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [App Development in Dubai Unveiled](https://dev.to/devicebee/app-development-in-dubai-unveiled-54nj)
 - [Lifehacker] [The Only Way You Can Get the New Nothing Phone 2a](https://lifehacker.com/tech/what-we-know-about-nothing-phone-2)
 - [Dev.to/JS] [Longinus | Discord.js Project](https://dev.to/xentzenith/gift-from-god-13bc)
-- [Dev.to/JS] [How to Build a Tailwind CSS Progress Bar](https://dev.to/hypercode/how-to-build-a-tailwind-css-progress-bar-4gh6)
 - [Lifehacker] [You Can Skip Valentine&#39;s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/what-to-give-on-valentines-day-instead-of-flowers)
 - [Lifehacker] [This Is the Best Tool for Downloading Videos From Basically Anywhere Online](https://lifehacker.com/tech/cobalt-tool-for-downloading-videos-from-social-media)
 - [Lifehacker] [How to Stop Jerks From Blocking Your Driveway](https://lifehacker.com/home/stop-jerks-from-blocking-your-driveway)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
 - [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
-- [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)
-- [Lifehacker] [Valentine’s Day Is the Perfect Excuse to Try One of These ‘Romantic’ Sex Toys](https://lifehacker.com/relationships/best-sex-toys-to-try-for-valentines-day)
-- [Lifehacker] [Everything You Need for a Basic Home Bar](https://lifehacker.com/food-drink/how-to-set-up-home-bar)
-- [Lifehacker] [This 34&quot; LG Curved IPS Monitor Is 50% Off Right Now](https://lifehacker.com/tech/this-34-lg-curved-ips-monitor-is-50-off-right-now)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)<!-- TECH-POSTS:END -->
 
 ---
 
