@@ -26,9 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Job Market for Web Developers](https://dev.to/devgancode/job-market-for-web-developers-2n1g)
 - [Dev.to/JS] [Transitioning from JavaScript to Node.js](https://dev.to/venom4171/transitioning-from-javascript-to-nodejs-432g)
 - [Dev.to/JS] [Build a Discord Bot with Go - Step-by-Step Tutorial via Webhooks](https://dev.to/nikl/build-a-discord-bot-with-go-step-by-step-tutorial-via-webhooks-3g3e)
 - [Dev.to/JS] [Using Electron to create videos &lpar;Canvas + FFMPEG&rpar;](https://dev.to/yonatanbd/using-electron-to-create-videos-canvas-ffmpeg-5gdm)
+- [Lifehacker] [The Best Way to Clean Your Makeup Brushes](https://lifehacker.com/home/how-to-clean-makeup-brushes)
 - [Lifehacker] [How to Create AI and Emoji Wallpapers on Your Google Pixel](https://lifehacker.com/tech/how-to-create-ai-and-emoji-wallpapers-on-pixel-phone)
 - [Dev.to/JS] [Observability &amp; Source Maps: Through thorns to the stars](https://dev.to/aantipov/observability-source-maps-through-thorns-to-the-stars-3pi4)
 - [Dev.to/JS] [Método de resolução TCTS-CAMPOS](https://dev.to/julianoalvescode/metodo-de-resolucao-tcts-campos-50l7)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WhatsApp Chat Button On Website HTML Code](https://dev.to/imamuddinwp/whatsapp-chat-button-on-website-html-code-3g8g)
 - [Dev.to/JS] [Crafting Observable Cloudflare Workers with OpenTelemetry](https://dev.to/kubeshop/crafting-observable-cloudflare-workers-with-opentelemetry-1ocm)
 - [Dev.to/JS] [Visualize your AWS app like never before with sls-mentor](https://dev.to/slsbytheodo/visualize-your-aws-app-like-never-before-with-sls-mentor-2j3l)
-- [Dev.to/JS] [WhatsApp Chat HTML Code For Website](https://dev.to/imamuddinwp/whatsapp-chat-html-code-for-website-53lg)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Have the Best Period Sex](https://lifehacker.com/relationships/how-to-have-the-best-period-sex)
 - [Lifehacker] [How to Use the Temperature and Humidity Sensors Inside Your Smart Speakers](https://lifehacker.com/tech/how-to-use-the-temperature-and-humidity-sensors-inside-your-smart-speakers)
 - [Lifehacker] [Use OnlySwitch to Customize All Your Mac Settings Faster](https://lifehacker.com/tech/change-hidden-mac-settings-with-onlyswitch)
-- [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)<!-- TECH-POSTS:END -->
 
 ---
 
