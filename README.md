@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create React Forms without libraries ✨](https://dev.to/fangtanbamrung/how-to-create-react-forms-without-libraries-mh7)
 - [Dev.to/JS] [Commercetools vs. Traditional eCommerce Platforms: A Comparative Analysis](https://dev.to/nitin-rachabathuni/commercetools-vs-traditional-ecommerce-platforms-a-comparative-analysis-3f9o)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Dev.to/JS] [Fork me on GitHub Css Ribbon - Animated](https://dev.to/sh20raj/fork-me-on-github-css-ribbon-animated-mnm)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Looking for Catholic Developers for Volunteer Software](https://dev.to/gihoekveld/looking-for-catholic-developers-for-volunteer-software-3fpm)
 - [Dev.to/JS] [App Development in Dubai Unveiled](https://dev.to/devicebee/app-development-in-dubai-unveiled-54nj)
 - [Lifehacker] [The Only Way You Can Get the New Nothing Phone 2a](https://lifehacker.com/tech/what-we-know-about-nothing-phone-2)
-- [Dev.to/JS] [Longinus | Discord.js Project](https://dev.to/xentzenith/gift-from-god-13bc)
 - [Lifehacker] [You Can Skip Valentine&#39;s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/what-to-give-on-valentines-day-instead-of-flowers)
 - [Lifehacker] [This Is the Best Tool for Downloading Videos From Basically Anywhere Online](https://lifehacker.com/tech/cobalt-tool-for-downloading-videos-from-social-media)
 - [Lifehacker] [How to Stop Jerks From Blocking Your Driveway](https://lifehacker.com/home/stop-jerks-from-blocking-your-driveway)
