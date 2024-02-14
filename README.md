@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking Sheffield&#39;s Taxi Services: A Comprehensive Guide](https://dev.to/ahmedshahid2/unlocking-sheffields-taxi-services-a-comprehensive-guide-109b)
+- [Dev.to/JS] [Send This to Anti-JS &quot;dev&quot; activists :D](https://dev.to/xentzenith/send-this-to-anti-js-dev-activists-d-18p6)
 - [Dev.to/JS] [Introducing Tempo • A new date library for JavaScript &lpar;and TypeScript&rpar;.](https://dev.to/justinschroeder/introducing-tempo-a-new-date-library-for-javascript-and-typescript-359a)
 - [Dev.to/JS] [The Age of Oxidation: How Rust is Revolutionizing JavaScript Tooling](https://dev.to/martcpp/the-age-of-oxidation-how-rust-is-revolutionizing-javascript-tooling-3bem)
 - [Dev.to/JS] [React.lazy&lpar;&rpar; Import Error: &#39;lazy&#39; not found in &#39;react&#39;](https://dev.to/barbosageovanni/reactlazy-import-error-lazy-not-found-in-react-2jpe)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Dev.to/JS] [Fork me on GitHub Css Ribbon - Animated](https://dev.to/sh20raj/fork-me-on-github-css-ribbon-animated-mnm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)
-- [Dev.to/JS] [A new way to CSS &lpar;SML&rpar;](https://dev.to/sethharlaar/a-new-way-to-css-sml-3dki)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)
-- [Dev.to/JS] [A Deep Dive into JavaScript Variable Declarations: var, let, and const.](https://dev.to/devendra_2806/a-deep-dive-into-javascript-variable-declarations-var-let-and-const-4g1f)
 - [Lifehacker] [How to Play PS5 Games Remotely on Your Steam Deck](https://lifehacker.com/tech/how-to-play-ps5-games-remotely-on-steam-deck)
 - [Lifehacker] [The Pros and Cons of Adding ‘Soft Skills’ to Your Resume](https://lifehacker.com/work/pros-and-cons-of-adding-soft-skills-to-your-resume)
 - [Lifehacker] [The Best Podcasts About Sex, Dating, and Relationships](https://lifehacker.com/relationships/the-best-sex-dating-relationship-podcasts)
