@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make money online 2024 tips](https://dev.to/bozlurrashidgadgets/make-money-online-2024-tips-4p1a)
+- [Dev.to/JS] [Current Trends in Software Development](https://dev.to/aditya_raj_1010/current-trends-in-software-development-2bg7)
 - [Dev.to/JS] [Building an OTP Verification System with Node.js and MongoDB](https://dev.to/manthanank/building-an-otp-verification-system-with-nodejs-and-mongodb-2p0o)
-- [Dev.to/JS] [Part :2 - My Automation Interview Questions in one of leading MNC](https://dev.to/magi-magificient/part-2-my-automation-interview-questions-in-one-of-leading-mnc-2172)
+- [Dev.to/JS] [Part :2 - Selenium Automation Interview Questions](https://dev.to/magi-magificient/part-2-my-automation-interview-questions-in-one-of-leading-mnc-2172)
 - [Dev.to/JS] [How to create React Forms without libraries ✨](https://dev.to/fangtanbamrung/how-to-create-react-forms-without-libraries-mh7)
 - [Dev.to/JS] [Commercetools vs. Traditional eCommerce Platforms: A Comparative Analysis](https://dev.to/nitin-rachabathuni/commercetools-vs-traditional-ecommerce-platforms-a-comparative-analysis-3f9o)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploy Your API in 1 Minute with NestCDK](https://dev.to/pkhadson/deploy-your-api-in-1-minute-with-nestcdk-cp6)
 - [Dev.to/JS] [Opening Doors to Global Education](https://dev.to/ann123/opening-doors-to-global-education-4988)
 - [Lifehacker] [Prime Video Now Charges Extra for Dolby Vision and Dolby Atmos](https://lifehacker.com/entertainment/prime-video-now-charges-extra-for-dolby-vision-and-dolby-atmos)
-- [Dev.to/JS] [❤️ Valentine&#39;s Day! | Heart Shape &lpar;CSS&rpar; &amp; Confetti Animation 💫](https://dev.to/best_codes/valentines-day-heart-shape-css-confetti-animation-40b9)
-- [Dev.to/JS] [Supabase New Release](https://dev.to/codingcatdev/supabase-new-release-33fe)
 - [Lifehacker] [Use the &#39;5S&#39; Technique to Create a More Productive Workspace](https://lifehacker.com/home/5s-technique-create-a-more-productive-workspace)
 - [Lifehacker] [Why You Shouldn’t Count on DoorDash, Lyft, or Uber This Valentine’s Day](https://lifehacker.com/travel/dont-count-on-doordash-lyft-or-uber-this-valentines-day)
 - [Lifehacker] [These Smart Beds Are up to 50% Off for President&#39;s Day](https://lifehacker.com/health/presidents-day-smart-bed-sales)
