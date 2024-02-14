@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Future of React Development: Predictions and Trends](https://dev.to/nitin-rachabathuni/the-future-of-react-development-predictions-and-trends-13mm)
+- [Dev.to/JS] [Design patterns: Event delegation for cleaner, more concise code.](https://dev.to/joshraphael/design-patterns-event-delegation-for-cleaner-more-concise-code-4di0)
+- [Dev.to/JS] [Unveiling the Motorola Smartwatch: Your Ultimate Activity Tracker](https://dev.to/maliha_tanveer3/unveiling-the-motorola-smartwatch-your-ultimate-activity-tracker-5bma)
+- [Dev.to/JS] [JavaScript Single thread](https://dev.to/nameismani/javascript-single-thread-54p3)
 - [Dev.to/JS] [Unlocking Sheffield&#39;s Taxi Services: A Comprehensive Guide](https://dev.to/ahmedshahid2/unlocking-sheffields-taxi-services-a-comprehensive-guide-109b)
 - [Dev.to/JS] [Send This to Anti-JS &quot;dev&quot; activists :D](https://dev.to/xentzenith/send-this-to-anti-js-dev-activists-d-18p6)
 - [Dev.to/JS] [Introducing Tempo • A new date library for JavaScript &lpar;and TypeScript&rpar;.](https://dev.to/justinschroeder/introducing-tempo-a-new-date-library-for-javascript-and-typescript-359a)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make money online 2024 tips](https://dev.to/bozlurrashidgadgets/make-money-online-2024-tips-4p1a)
 - [Dev.to/JS] [Current Trends in Software Development](https://dev.to/aditya_raj_1010/current-trends-in-software-development-2bg7)
 - [Dev.to/JS] [Building an OTP Verification System with Node.js and MongoDB](https://dev.to/manthanank/building-an-otp-verification-system-with-nodejs-and-mongodb-2p0o)
-- [Dev.to/JS] [Part :2 - Selenium Automation Interview Questions](https://dev.to/magi-magificient/part-2-my-automation-interview-questions-in-one-of-leading-mnc-2172)
-- [Dev.to/JS] [How to create React Forms without libraries ✨](https://dev.to/fangtanbamrung/how-to-create-react-forms-without-libraries-mh7)
-- [Dev.to/JS] [Commercetools vs. Traditional eCommerce Platforms: A Comparative Analysis](https://dev.to/nitin-rachabathuni/commercetools-vs-traditional-ecommerce-platforms-a-comparative-analysis-3f9o)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
-- [Dev.to/JS] [Fork me on GitHub Css Ribbon - Animated](https://dev.to/sh20raj/fork-me-on-github-css-ribbon-animated-mnm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)
 - [Lifehacker] [How to Play PS5 Games Remotely on Your Steam Deck](https://lifehacker.com/tech/how-to-play-ps5-games-remotely-on-steam-deck)
