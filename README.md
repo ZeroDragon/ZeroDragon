@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Método de resolução TCTS-CAMPOS](https://dev.to/julianoalvescode/metodo-de-resolucao-tcts-campos-50l7)
+- [Dev.to/JS] [mua chung Canva Pro](https://dev.to/wsovn112/mua-chung-canva-pro-2jcb)
+- [Dev.to/JS] [Extensive React Boilerplate to kickstart a new frontend project](https://dev.to/rodik/extensive-react-boilerplate-to-kickstart-a-new-frontend-project-1lh)
+- [Dev.to/JS] [Thoughts : How I created A JS framework in just 4 days...](https://dev.to/rudransh61/thoughts-how-i-created-a-js-framework-in-just-4-days-67a)
+- [Lifehacker] [Five Reasons to File Your Taxes ASAP](https://lifehacker.com/money/why-you-should-do-your-taxes-asap)
 - [Dev.to/JS] [WhatsApp Chat Button On Website HTML Code](https://dev.to/imamuddinwp/whatsapp-chat-button-on-website-html-code-3g8g)
 - [Dev.to/JS] [Crafting Observable Cloudflare Workers with OpenTelemetry](https://dev.to/kubeshop/crafting-observable-cloudflare-workers-with-opentelemetry-1ocm)
 - [Dev.to/JS] [Visualize your AWS app like never before with sls-mentor](https://dev.to/slsbytheodo/visualize-your-aws-app-like-never-before-with-sls-mentor-2j3l)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [will you congratulate me on Valentine&#39;s Day?](https://dev.to/maya_walk/will-you-congratulate-me-on-valentines-day-4oe6)
 - [Dev.to/JS] [Creating a RESTful API with Express.js:](https://dev.to/aditya_raj_1010/creating-a-restful-api-with-expressjs-3pij)
 - [Dev.to/JS] [Building a React Image Cropper - a whole world of unexpected problems](https://dev.to/mjoycemilburn/building-a-react-image-cropper-a-whole-world-of-unexpected-problems-300i)
-- [Dev.to/JS] [The Future of React Development: Predictions and Trends](https://dev.to/nitin-rachabathuni/the-future-of-react-development-predictions-and-trends-13mm)
-- [Dev.to/JS] [Design patterns: Event delegation for cleaner, more concise code.](https://dev.to/joshraphael/design-patterns-event-delegation-for-cleaner-more-concise-code-4di0)
-- [Dev.to/JS] [Unveiling the Motorola Smartwatch: Your Ultimate Activity Tracker](https://dev.to/maliha_tanveer3/unveiling-the-motorola-smartwatch-your-ultimate-activity-tracker-5bma)
-- [Dev.to/JS] [JavaScript Single thread](https://dev.to/nameismani/javascript-single-thread-54p3)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use OnlySwitch to Customize All Your Mac Settings Faster](https://lifehacker.com/tech/change-hidden-mac-settings-with-onlyswitch)
 - [Lifehacker] [The Best New and Upcoming Sales From Best Buy’s ‘Drops’ Feature](https://lifehacker.com/tech/best-buy-drops)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 13, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-13-2024)
-- [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)
-- [Lifehacker] [How to Hide Old Photos of an Ex on Your Android](https://lifehacker.com/tech/how-to-hide-your-exs-photos-from-your-android-phone)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Windows 11 Is Getting a Built-In AI Upscaler](https://lifehacker.com/tech/windows-11-is-getting-a-new-ai-upscaler)<!-- TECH-POSTS:END -->
 
 ---
 
