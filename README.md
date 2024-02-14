@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Apps to Help You Be More Creative](https://lifehacker.com/tech/best-creativity-brainstorming-apps)
 - [Lifehacker] [The Google Pixel 7 Pro and 7a Are Seeing Big Discounts Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
 - [Dev.to/JS] [Difference between var, let and const, in Javascript.](https://dev.to/abhisheks_words/difference-between-var-let-and-const-in-javascript-14d9)
 - [Lifehacker] [Make This Fancy Mille-feuille With Three Ingredients](https://lifehacker.com/food-drink/easy-mille-feuille-recipe)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Tool for Downloading Videos From Basically Anywhere Online](https://lifehacker.com/tech/cobalt-tool-for-downloading-videos-from-social-media)
 - [Lifehacker] [How to Stop Jerks From Blocking Your Driveway](https://lifehacker.com/home/stop-jerks-from-blocking-your-driveway)
 - [Lifehacker] [Plex Is Breaking Into Movie Rentals](https://lifehacker.com/tech/you-can-now-rent-movies-in-plex)
-- [Lifehacker] [The EU Just Ruled in Favor of Big Tech &lpar;for Once&rpar;](https://lifehacker.com/tech/the-eu-ruled-in-favor-of-big-tech)
-- [Lifehacker] [The iPad Air Is $150 Off at Best Buy Right Now](https://lifehacker.com/tech/ipad-air-sale-at-best-buy)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The EU Just Ruled in Favor of Big Tech &lpar;for Once&rpar;](https://lifehacker.com/tech/the-eu-ruled-in-favor-of-big-tech)<!-- TECH-POSTS:END -->
 
 ---
 
