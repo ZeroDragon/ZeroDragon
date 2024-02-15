@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Error while installing parcel bundler in ubuntu](https://dev.to/dydxpratik/error-while-installing-parcel-bundler-in-ubuntu-4hlj)
+- [Dev.to/JS] [Understanding JavaScript Scopes: A Comprehensive Guide with Real-life Examples](https://dev.to/jps27cse/understanding-javascript-scopes-a-comprehensive-guide-with-real-life-examples-5e1j)
+- [Dev.to/JS] [How to install the Node.js](https://dev.to/posen992/how-to-install-the-nodejs-54hp)
 - [Lifehacker] [You Can Get This 6-in-1 Laptop Stand on Sale for $95 Right Now](https://lifehacker.com/tech/casa-hub-laptop-stand-sale)
 - [Dev.to/JS] [Daily Horoscope](https://dev.to/todayh452/daily-horoscope-3dj4)
 - [Dev.to/JS] [Zameen Locator - The largest website for maps](https://dev.to/zameenlocator/zameen-locator-the-largest-website-for-maps-14ji)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Title: Top 20 JavaScript One-Liners That Don&#39;t Actually Work](https://dev.to/darkwiiplayer/title-top-20-javascript-one-liners-that-dont-actually-work-30mj)
 - [Dev.to/JS] [Common JavaScript Mistakes in 2024](https://dev.to/shariqahmed525/common-javascript-mistakes-in-2024-1c6k)
 - [Dev.to/JS] [5 Small &lpar;Yet Easily Fixable&rpar; Mistakes Junior Frontend Developers Make With React Memoization](https://dev.to/_ndeyefatoudiop/5-small-yet-easily-fixable-mistakes-junior-frontend-developers-make-with-react-memoization-h7l)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/sergiomorrow727627/buy-old-gmail-accounts-5a47)
-- [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/sergiomorrow727627/buy-amazon-reviews-29oj)
-- [Dev.to/JS] [Maximize WooCommerce: Top 10 Essential Plugins](https://dev.to/jamesmartindev/maximize-woocommerce-top-10-essential-plugins-31kh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
 - [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
 - [Lifehacker] [Consider the Cheese Board Sandwich](https://lifehacker.com/food-drink/consider-the-cheese-board-sandwich)
