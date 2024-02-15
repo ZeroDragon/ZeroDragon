@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Significance of JSON.stringify in JavaScript: A Comprehensive Explanation](https://dev.to/khaled17/the-significance-of-jsonstringify-in-javascript-a-comprehensive-explanation-857)
+- [Dev.to/JS] [Launch Nx Week Recap!!](https://dev.to/nx/launch-nx-week-recap-51og)
 - [Dev.to/JS] [APIs com Guarapi e HTTP/2](https://dev.to/joao_neto/apis-com-guarapi-e-http2-58f2)
 - [Dev.to/JS] [Tailwind - Forms](https://dev.to/coaste/tailwind-forms-5cce)
 - [Dev.to/JS] [Top Alternatives to Appium for Mobile Test Automation](https://dev.to/jamescantor38/top-alternatives-to-appium-for-mobile-test-automation-14pm)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode Meditations — Chapter 1: Arrays &amp; Hashing](https://dev.to/rivea0/leetcode-meditations-chapter-1-arrays-hashing-5bge)
 - [Dev.to/JS] [Error while installing parcel bundler in ubuntu](https://dev.to/dydxpratik/error-while-installing-parcel-bundler-in-ubuntu-4hlj)
 - [Lifehacker] [How to Talk to a Real Human at the IRS Without Waiting on Hold Forever](https://lifehacker.com/how-to-talk-to-a-real-human-at-the-irs-without-waiting-1842128259)
-- [Dev.to/JS] [Understanding JavaScript Scopes: A Comprehensive Guide with Real-life Examples](https://dev.to/jps27cse/understanding-javascript-scopes-a-comprehensive-guide-with-real-life-examples-5e1j)
-- [Dev.to/JS] [How to install the Node.js](https://dev.to/posen992/how-to-install-the-nodejs-54hp)
 - [Lifehacker] [Use the ‘Sigh, See, Start’ Method to Teach Your Kids &lpar;and You&rpar; Self-Regulation](https://lifehacker.com/family/use-the-sigh-see-start-method-to-teach-your-kids-self-regulation)
 - [Lifehacker] [You Can Get This 6-in-1 Laptop Stand on Sale for $95 Right Now](https://lifehacker.com/tech/casa-hub-laptop-stand-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
