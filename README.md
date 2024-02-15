@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get This 6-in-1 Laptop Stand on Sale for $95 Right Now](https://lifehacker.com/tech/casa-hub-laptop-stand-sale)
+- [Dev.to/JS] [Daily Horoscope](https://dev.to/todayh452/daily-horoscope-3dj4)
+- [Dev.to/JS] [Zameen Locator - The largest website for maps](https://dev.to/zameenlocator/zameen-locator-the-largest-website-for-maps-14ji)
 - [Dev.to/JS] [Unveiling Excellence: TheNthBit&#39;s Comprehensive Software Development Services](https://dev.to/thenthbitlabs/unveiling-excellence-thenthbits-comprehensive-software-development-services-1e91)
 - [Dev.to/JS] [Difference between ++i and i++?](https://dev.to/justinw7/difference-between-i-and-i-gme)
 - [Dev.to/JS] [Hello community](https://dev.to/sommay123/hello-community-2422)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/sergiomorrow727627/buy-old-gmail-accounts-5a47)
 - [Dev.to/JS] [Buy Amazon Reviews](https://dev.to/sergiomorrow727627/buy-amazon-reviews-29oj)
 - [Dev.to/JS] [Maximize WooCommerce: Top 10 Essential Plugins](https://dev.to/jamesmartindev/maximize-woocommerce-top-10-essential-plugins-31kh)
-- [Dev.to/JS] [Backend Development Plan](https://dev.to/otumianempire/back-end-development-plan-4593)
-- [Dev.to/JS] [Angular&#39;s Secret Weapon: Enhancing Performance with HTTPInterceptor](https://dev.to/chintanonweb/angulars-secret-weapon-enhancing-performance-with-httpinterceptor-3a0o)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
 - [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
 - [Lifehacker] [Consider the Cheese Board Sandwich](https://lifehacker.com/food-drink/consider-the-cheese-board-sandwich)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)
 - [Lifehacker] [How to Play PS5 Games Remotely on Your Steam Deck](https://lifehacker.com/tech/how-to-play-ps5-games-remotely-on-steam-deck)
-- [Lifehacker] [The Pros and Cons of Adding ‘Soft Skills’ to Your Resume](https://lifehacker.com/work/pros-and-cons-of-adding-soft-skills-to-your-resume)
-- [Lifehacker] [The Best Podcasts About Sex, Dating, and Relationships](https://lifehacker.com/relationships/the-best-sex-dating-relationship-podcasts)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Pros and Cons of Adding ‘Soft Skills’ to Your Resume](https://lifehacker.com/work/pros-and-cons-of-adding-soft-skills-to-your-resume)<!-- TECH-POSTS:END -->
 
 ---
 
