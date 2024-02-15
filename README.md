@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Streamlining Web Development with create-react-auth-nav: A Productivity Powerhouse](https://dev.to/furbo1/streamlining-web-development-with-create-react-auth-nav-a-productivity-powerhouse-3ome)
+- [Dev.to/JS] [Reactive Object Composition](https://dev.to/ninjin/reactive-dataflow-control-4l4i)
+- [Dev.to/JS] [Accelerate Angular App Development with create-angular-auth-nav](https://dev.to/furbo1/accelerate-angular-app-development-with-create-angular-auth-nav-50im)
+- [Dev.to/JS] [Location filter](https://dev.to/abdullahmadi/location-filter-3dib)
+- [Dev.to/JS] [Accelerate React App Development with create-react-auth-nav: A Productivity Powerhouse](https://dev.to/furbo1/streamlining-web-development-with-create-react-auth-nav-a-productivity-powerhouse-3ome)
 - [Lifehacker] [How to Turn a Terrible Couch Into a Comfortable Couch](https://lifehacker.com/home/how-to-fix-an-uncomfortable-couch)
 - [Lifehacker] [The 11 Most In-Demand Job Skills of 2024 &lpar;and How to Develop Them&rpar;](https://lifehacker.com/work/most-in-demand-job-skills)
 - [Lifehacker] [14 of the Best Documentaries to Watch With Your Kids](https://lifehacker.com/entertainment/best-documentaries-to-watch-with-kids)
@@ -45,10 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why So Many People Are Returning the Apple Vision Pro](https://lifehacker.com/tech/why-people-return-apple-vision-pro)
 - [Dev.to/JS] [DOM &lpar;Document Object Model&rpar;](https://dev.to/arshamroshannejad/dom-document-object-model-55fk)
 - [Lifehacker] [You Can Grow Mushrooms Indoors Using Smart Home Automation](https://lifehacker.com/tech/how-to-grow-mushrooms-indoors-using-smart-home-automation)
-- [Dev.to/JS] [How to Implement Pagination in MERN-Stack Applications](https://dev.to/nahidulislam/how-to-implement-pagination-in-mern-stack-applications-2373)
-- [Dev.to/JS] [Authentication&lpar; SignUp and Login &rpar; with Express,MongoDB and Jwt.](https://dev.to/fredabod/authentication-signup-and-login-with-expressmongodb-and-jwt-2n64)
 - [Lifehacker] [A History of Mac Viruses &lpar;and Why People Thought They Didn&#39;t Exist&rpar;](https://lifehacker.com/tech/mac-virus-history)
-- [Dev.to/JS] [LeetCode Meditations — Chapter 1: Arrays &amp; Hashing](https://dev.to/rivea0/leetcode-meditations-chapter-1-arrays-hashing-5bge)
 - [Lifehacker] [How to Talk to a Real Human at the IRS Without Waiting on Hold Forever](https://lifehacker.com/how-to-talk-to-a-real-human-at-the-irs-without-waiting-1842128259)
 - [Lifehacker] [Use the ‘Sigh, See, Start’ Method to Teach Your Kids &lpar;and You&rpar; Self-Regulation](https://lifehacker.com/family/use-the-sigh-see-start-method-to-teach-your-kids-self-regulation)
 - [Lifehacker] [You Can Get This 6-in-1 Laptop Stand on Sale for $95 Right Now](https://lifehacker.com/tech/casa-hub-laptop-stand-sale)
