@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [APIs com Guarapi e HTTP/2](https://dev.to/joao_neto/apis-com-guarapi-e-http2-58f2)
+- [Dev.to/JS] [Tailwind - Forms](https://dev.to/coaste/tailwind-forms-5cce)
+- [Dev.to/JS] [Top Alternatives to Appium for Mobile Test Automation](https://dev.to/jamescantor38/top-alternatives-to-appium-for-mobile-test-automation-14pm)
+- [Lifehacker] [Six Ways You’re Guaranteed to Annoy Your New Neighbors &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/home/how-not-to-annoy-your-new-neighbors)
+- [Lifehacker] [The Sous-Vide Circulator Is a Forgetful Cook&#39;s Best Friend](https://lifehacker.com/what-is-a-sous-vide-circulator)
 - [Dev.to/JS] [mua chung Closercopy](https://dev.to/wsovn112/mua-chung-closercopy-373a)
+- [Lifehacker] [Adapt This Japanese Productivity Model to Get More Done](https://lifehacker.com/work/3-ms-productivity-method)
 - [Dev.to/JS] [Storybook’s Visual Tests addon enters beta](https://dev.to/storybookjs/storybooks-visual-tests-addon-enters-beta-3o5l)
 - [Lifehacker] [Why So Many People Are Returning the Apple Vision Pro](https://lifehacker.com/tech/why-people-return-apple-vision-pro)
 - [Dev.to/JS] [DOM &lpar;Document Object Model&rpar;](https://dev.to/arshamroshannejad/dom-document-object-model-55fk)
@@ -41,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to install the Node.js](https://dev.to/posen992/how-to-install-the-nodejs-54hp)
 - [Lifehacker] [Use the ‘Sigh, See, Start’ Method to Teach Your Kids &lpar;and You&rpar; Self-Regulation](https://lifehacker.com/family/use-the-sigh-see-start-method-to-teach-your-kids-self-regulation)
 - [Lifehacker] [You Can Get This 6-in-1 Laptop Stand on Sale for $95 Right Now](https://lifehacker.com/tech/casa-hub-laptop-stand-sale)
-- [Dev.to/JS] [Daily Horoscope](https://dev.to/todayh452/daily-horoscope-3dj4)
-- [Dev.to/JS] [Zameen Locator - The largest website for maps](https://dev.to/zameenlocator/zameen-locator-the-largest-website-for-maps-14ji)
-- [Dev.to/JS] [Unveiling Excellence: TheNthBit&#39;s Comprehensive Software Development Services](https://dev.to/thenthbitlabs/unveiling-excellence-thenthbits-comprehensive-software-development-services-1e91)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
 - [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
 - [Lifehacker] [Consider the Cheese Board Sandwich](https://lifehacker.com/food-drink/consider-the-cheese-board-sandwich)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Roomba j7 Robot Vacuum Is 50% Off Right Now](https://lifehacker.com/home/the-roomba-j7-robot-vacuum-is-50-percent-off-right-now)
 - [Lifehacker] [You Can Try Slack&#39;s New AI Tools Today &lpar;If Your Company Pays for Them&rpar;](https://lifehacker.com/tech/slack-ai-tools)
 - [Lifehacker] [You Can Get Two 4K Camera Drones for $145 Right Now](https://lifehacker.com/camera-drone-bundle-sale)
-- [Lifehacker] [25 of the Most Rewatchable Movies Ever, According to Twitter/X Users](https://lifehacker.com/entertainment/most-rewatchble-movies-according-to-twitter)
-- [Lifehacker] [The Best Way to Clean Your Makeup Brushes](https://lifehacker.com/home/how-to-clean-makeup-brushes)
-- [Lifehacker] [How to Create AI and Emoji Wallpapers on Your Google Pixel](https://lifehacker.com/tech/how-to-create-ai-and-emoji-wallpapers-on-pixel-phone)
-- [Lifehacker] [Five Reasons to File Your Taxes ASAP](https://lifehacker.com/money/why-you-should-do-your-taxes-asap)<!-- TECH-POSTS:END -->
+- [Lifehacker] [25 of the Most Rewatchable Movies Ever, According to Twitter/X Users](https://lifehacker.com/entertainment/most-rewatchble-movies-according-to-twitter)<!-- TECH-POSTS:END -->
 
 ---
 
