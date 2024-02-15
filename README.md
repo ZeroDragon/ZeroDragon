@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Implement Pagination in MERN-Stack Applications](https://dev.to/nahidulislam/how-to-implement-pagination-in-mern-stack-applications-2373)
+- [Dev.to/JS] [Authentication&lpar; SignUp and Login &rpar; with Express,MongoDB and Jwt.](https://dev.to/fredabod/authentication-signup-and-login-with-expressmongodb-and-jwt-2n64)
+- [Dev.to/JS] [LeetCode Meditations — Chapter 1: Arrays &amp; Hashing](https://dev.to/rivea0/leetcode-meditations-chapter-1-arrays-hashing-5bge)
 - [Dev.to/JS] [Error while installing parcel bundler in ubuntu](https://dev.to/dydxpratik/error-while-installing-parcel-bundler-in-ubuntu-4hlj)
+- [Lifehacker] [How to Talk to a Real Human at the IRS Without Waiting on Hold Forever](https://lifehacker.com/how-to-talk-to-a-real-human-at-the-irs-without-waiting-1842128259)
 - [Dev.to/JS] [Understanding JavaScript Scopes: A Comprehensive Guide with Real-life Examples](https://dev.to/jps27cse/understanding-javascript-scopes-a-comprehensive-guide-with-real-life-examples-5e1j)
 - [Dev.to/JS] [How to install the Node.js](https://dev.to/posen992/how-to-install-the-nodejs-54hp)
+- [Lifehacker] [Use the ‘Sigh, See, Start’ Method to Teach Your Kids &lpar;and You&rpar; Self-Regulation](https://lifehacker.com/family/use-the-sigh-see-start-method-to-teach-your-kids-self-regulation)
 - [Lifehacker] [You Can Get This 6-in-1 Laptop Stand on Sale for $95 Right Now](https://lifehacker.com/tech/casa-hub-laptop-stand-sale)
 - [Dev.to/JS] [Daily Horoscope](https://dev.to/todayh452/daily-horoscope-3dj4)
 - [Dev.to/JS] [Zameen Locator - The largest website for maps](https://dev.to/zameenlocator/zameen-locator-the-largest-website-for-maps-14ji)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Difference between ++i and i++?](https://dev.to/justinw7/difference-between-i-and-i-gme)
 - [Dev.to/JS] [Hello community](https://dev.to/sommay123/hello-community-2422)
 - [Dev.to/JS] [Creating a Simple CRUD Application with Vue.js](https://dev.to/chintanonweb/creating-a-simple-crud-application-with-vuejs-5apm)
-- [Dev.to/JS] [Title: Top 20 JavaScript One-Liners That Don&#39;t Actually Work](https://dev.to/darkwiiplayer/title-top-20-javascript-one-liners-that-dont-actually-work-30mj)
-- [Dev.to/JS] [Common JavaScript Mistakes in 2024](https://dev.to/shariqahmed525/common-javascript-mistakes-in-2024-1c6k)
-- [Dev.to/JS] [5 Small &lpar;Yet Easily Fixable&rpar; Mistakes Junior Frontend Developers Make With React Memoization](https://dev.to/_ndeyefatoudiop/5-small-yet-easily-fixable-mistakes-junior-frontend-developers-make-with-react-memoization-h7l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
 - [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
 - [Lifehacker] [Consider the Cheese Board Sandwich](https://lifehacker.com/food-drink/consider-the-cheese-board-sandwich)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Reasons to File Your Taxes ASAP](https://lifehacker.com/money/why-you-should-do-your-taxes-asap)
 - [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)
-- [Lifehacker] [How to Play PS5 Games Remotely on Your Steam Deck](https://lifehacker.com/tech/how-to-play-ps5-games-remotely-on-steam-deck)
-- [Lifehacker] [The Pros and Cons of Adding ‘Soft Skills’ to Your Resume](https://lifehacker.com/work/pros-and-cons-of-adding-soft-skills-to-your-resume)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)<!-- TECH-POSTS:END -->
 
 ---
 
