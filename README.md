@@ -27,6 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Custom Code Snippets in VS Code](https://dev.to/glowiep/custom-code-snippets-in-vs-code-ohj)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
 - [Dev.to/JS] [Best practices problems on Javascript Variable.](https://dev.to/devendra_2806/best-practices-problems-on-javascript-variable-2d15)
 - [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
 - [Dev.to/JS] [Build a Machine Learning Model for Image Classification with Node.js and Hugging Face in Just 3 Lines of Code.](https://dev.to/rouaabelhajali/build-a-machine-learning-model-for-image-classification-with-nodejs-and-hugging-face-in-just-3-lines-of-code-4hbk)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How SpongeBob Won the Super Bowl](https://lifehacker.com/entertainment/how-spongebob-won-the-super-bowl)
 - [Lifehacker] [How to Play PS5 Games Remotely on Your Steam Deck](https://lifehacker.com/tech/how-to-play-ps5-games-remotely-on-steam-deck)
 - [Lifehacker] [The Pros and Cons of Adding ‘Soft Skills’ to Your Resume](https://lifehacker.com/work/pros-and-cons-of-adding-soft-skills-to-your-resume)
-- [Lifehacker] [The Best Podcasts About Sex, Dating, and Relationships](https://lifehacker.com/relationships/the-best-sex-dating-relationship-podcasts)
-- [Lifehacker] [Prime Video Now Charges Extra for Dolby Vision and Dolby Atmos](https://lifehacker.com/entertainment/prime-video-now-charges-extra-for-dolby-vision-and-dolby-atmos)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Podcasts About Sex, Dating, and Relationships](https://lifehacker.com/relationships/the-best-sex-dating-relationship-podcasts)<!-- TECH-POSTS:END -->
 
 ---
 
