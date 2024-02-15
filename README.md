@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom Code Snippets in VS Code](https://dev.to/glowiep/custom-code-snippets-in-vs-code-ohj)
+- [Dev.to/JS] [Best practices problems on Javascript Variable.](https://dev.to/devendra_2806/best-practices-problems-on-javascript-variable-2d15)
 - [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
 - [Dev.to/JS] [Build a Machine Learning Model for Image Classification with Node.js and Hugging Face in Just 3 Lines of Code.](https://dev.to/rouaabelhajali/build-a-machine-learning-model-for-image-classification-with-nodejs-and-hugging-face-in-just-3-lines-of-code-4hbk)
 - [Dev.to/JS] [Illustrated JavaScript Coding Course](https://dev.to/codeguppy/illustrated-javascript-coding-course-m9i)
@@ -49,11 +51,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Google Pixel 7 Pro and 7a Are Seeing Big Discounts Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
 - [Dev.to/JS] [Difference between var, let and const, in Javascript.](https://dev.to/abhisheks_words/difference-between-var-let-and-const-in-javascript-14d9)
 - [Lifehacker] [Make This Fancy Mille-feuille With Three Ingredients](https://lifehacker.com/food-drink/easy-mille-feuille-recipe)
-- [Dev.to/JS] [Grand Finserv Loan C U S T O M E R .Care Helpline Number 7783–878–426  !!0786–482//7440 7783–878426](https://dev.to/sotankumar08/grand-finserv-loan-c-u-s-t-o-m-e-r-care-helpline-number-7783-878-426-0786-48274407783-878426-55ni)
 - [Lifehacker] [How to Find an Old 401&lpar;k&rpar;](https://lifehacker.com/money/how-to-find-an-old-401k)
 - [Lifehacker] [The Roomba j7 Robot Vacuum Is 50% Off Right Now](https://lifehacker.com/home/the-roomba-j7-robot-vacuum-is-50-percent-off-right-now)
 - [Lifehacker] [You Can Try Slack&#39;s New AI Tools Today &lpar;If Your Company Pays for Them&rpar;](https://lifehacker.com/tech/slack-ai-tools)
-- [Dev.to/JS] [Job Market for Web Developers](https://dev.to/devgancode/job-market-for-web-developers-2n1g)
 - [Lifehacker] [You Can Get Two 4K Camera Drones for $145 Right Now](https://lifehacker.com/camera-drone-bundle-sale)
 - [Lifehacker] [25 of the Most Rewatchable Movies Ever, According to Twitter/X Users](https://lifehacker.com/entertainment/most-rewatchble-movies-according-to-twitter)
 - [Lifehacker] [The Best Way to Clean Your Makeup Brushes](https://lifehacker.com/home/how-to-clean-makeup-brushes)
