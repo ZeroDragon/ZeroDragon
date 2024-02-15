@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [mua chung Closercopy](https://dev.to/wsovn112/mua-chung-closercopy-373a)
 - [Dev.to/JS] [Storybook’s Visual Tests addon enters beta](https://dev.to/storybookjs/storybooks-visual-tests-addon-enters-beta-3o5l)
+- [Lifehacker] [Why So Many People Are Returning the Apple Vision Pro](https://lifehacker.com/tech/why-people-return-apple-vision-pro)
 - [Dev.to/JS] [DOM &lpar;Document Object Model&rpar;](https://dev.to/arshamroshannejad/dom-document-object-model-55fk)
+- [Lifehacker] [You Can Grow Mushrooms Indoors Using Smart Home Automation](https://lifehacker.com/tech/how-to-grow-mushrooms-indoors-using-smart-home-automation)
 - [Dev.to/JS] [How to Implement Pagination in MERN-Stack Applications](https://dev.to/nahidulislam/how-to-implement-pagination-in-mern-stack-applications-2373)
 - [Dev.to/JS] [Authentication&lpar; SignUp and Login &rpar; with Express,MongoDB and Jwt.](https://dev.to/fredabod/authentication-signup-and-login-with-expressmongodb-and-jwt-2n64)
 - [Lifehacker] [A History of Mac Viruses &lpar;and Why People Thought They Didn&#39;t Exist&rpar;](https://lifehacker.com/tech/mac-virus-history)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Daily Horoscope](https://dev.to/todayh452/daily-horoscope-3dj4)
 - [Dev.to/JS] [Zameen Locator - The largest website for maps](https://dev.to/zameenlocator/zameen-locator-the-largest-website-for-maps-14ji)
 - [Dev.to/JS] [Unveiling Excellence: TheNthBit&#39;s Comprehensive Software Development Services](https://dev.to/thenthbitlabs/unveiling-excellence-thenthbits-comprehensive-software-development-services-1e91)
-- [Dev.to/JS] [Difference between ++i and i++?](https://dev.to/justinw7/difference-between-i-and-i-gme)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
 - [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
 - [Lifehacker] [Consider the Cheese Board Sandwich](https://lifehacker.com/food-drink/consider-the-cheese-board-sandwich)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 of the Most Rewatchable Movies Ever, According to Twitter/X Users](https://lifehacker.com/entertainment/most-rewatchble-movies-according-to-twitter)
 - [Lifehacker] [The Best Way to Clean Your Makeup Brushes](https://lifehacker.com/home/how-to-clean-makeup-brushes)
 - [Lifehacker] [How to Create AI and Emoji Wallpapers on Your Google Pixel](https://lifehacker.com/tech/how-to-create-ai-and-emoji-wallpapers-on-pixel-phone)
-- [Lifehacker] [Five Reasons to File Your Taxes ASAP](https://lifehacker.com/money/why-you-should-do-your-taxes-asap)
-- [Lifehacker] [You Can Get a PowerBand for Your Apple Watch on Sale for $40 Right Now](https://lifehacker.com/tech/powerband-apple-watch-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 14, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-14-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Reasons to File Your Taxes ASAP](https://lifehacker.com/money/why-you-should-do-your-taxes-asap)<!-- TECH-POSTS:END -->
 
 ---
 
