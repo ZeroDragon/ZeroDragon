@@ -26,10 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Streamlining Web Development with create-react-auth-nav: A Productivity Powerhouse](https://dev.to/furbo1/streamlining-web-development-with-create-react-auth-nav-a-productivity-powerhouse-3ome)
+- [Lifehacker] [How to Turn a Terrible Couch Into a Comfortable Couch](https://lifehacker.com/home/how-to-fix-an-uncomfortable-couch)
+- [Lifehacker] [The 11 Most In-Demand Job Skills of 2024 &lpar;and How to Develop Them&rpar;](https://lifehacker.com/work/most-in-demand-job-skills)
+- [Lifehacker] [14 of the Best Documentaries to Watch With Your Kids](https://lifehacker.com/entertainment/best-documentaries-to-watch-with-kids)
 - [Dev.to/JS] [The Significance of JSON.stringify in JavaScript: A Comprehensive Explanation](https://dev.to/khaled17/the-significance-of-jsonstringify-in-javascript-a-comprehensive-explanation-857)
 - [Dev.to/JS] [Launch Nx Week Recap!!](https://dev.to/nx/launch-nx-week-recap-51og)
+- [Lifehacker] [TikTok Now Has a Dedicated App on the Apple Vision Pro](https://lifehacker.com/tech/tiktok-now-has-a-vision-pro-app)
 - [Dev.to/JS] [APIs com Guarapi e HTTP/2](https://dev.to/joao_neto/apis-com-guarapi-e-http2-58f2)
 - [Dev.to/JS] [Tailwind - Forms](https://dev.to/coaste/tailwind-forms-5cce)
+- [Lifehacker] [You Can Get Producti&#39;s AI Writing Assistant for $50 Right Now](https://lifehacker.com/tech/producti-ai-assistant-sale)
 - [Dev.to/JS] [Top Alternatives to Appium for Mobile Test Automation](https://dev.to/jamescantor38/top-alternatives-to-appium-for-mobile-test-automation-14pm)
 - [Lifehacker] [Six Ways You’re Guaranteed to Annoy Your New Neighbors &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/home/how-not-to-annoy-your-new-neighbors)
 - [Lifehacker] [The Sous-Vide Circulator Is a Forgetful Cook&#39;s Best Friend](https://lifehacker.com/what-is-a-sous-vide-circulator)
@@ -43,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authentication&lpar; SignUp and Login &rpar; with Express,MongoDB and Jwt.](https://dev.to/fredabod/authentication-signup-and-login-with-expressmongodb-and-jwt-2n64)
 - [Lifehacker] [A History of Mac Viruses &lpar;and Why People Thought They Didn&#39;t Exist&rpar;](https://lifehacker.com/tech/mac-virus-history)
 - [Dev.to/JS] [LeetCode Meditations — Chapter 1: Arrays &amp; Hashing](https://dev.to/rivea0/leetcode-meditations-chapter-1-arrays-hashing-5bge)
-- [Dev.to/JS] [Error while installing parcel bundler in ubuntu](https://dev.to/dydxpratik/error-while-installing-parcel-bundler-in-ubuntu-4hlj)
 - [Lifehacker] [How to Talk to a Real Human at the IRS Without Waiting on Hold Forever](https://lifehacker.com/how-to-talk-to-a-real-human-at-the-irs-without-waiting-1842128259)
 - [Lifehacker] [Use the ‘Sigh, See, Start’ Method to Teach Your Kids &lpar;and You&rpar; Self-Regulation](https://lifehacker.com/family/use-the-sigh-see-start-method-to-teach-your-kids-self-regulation)
 - [Lifehacker] [You Can Get This 6-in-1 Laptop Stand on Sale for $95 Right Now](https://lifehacker.com/tech/casa-hub-laptop-stand-sale)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Graphene Batteries Are Poised to Revolutionize Cordless Power Tools](https://lifehacker.com/home/graphene-batteries-will-revolutionize-cordless-power-tools)
 - [Lifehacker] [The Best Apps to Help You Be More Creative](https://lifehacker.com/tech/best-creativity-brainstorming-apps)
 - [Lifehacker] [The Google Pixel 7 Pro and 7a Are Seeing Big Discounts Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
-- [Lifehacker] [Make This Fancy Mille-feuille With Three Ingredients](https://lifehacker.com/food-drink/easy-mille-feuille-recipe)
-- [Lifehacker] [How to Find an Old 401&lpar;k&rpar;](https://lifehacker.com/money/how-to-find-an-old-401k)
-- [Lifehacker] [The Roomba j7 Robot Vacuum Is 50% Off Right Now](https://lifehacker.com/home/the-roomba-j7-robot-vacuum-is-50-percent-off-right-now)
-- [Lifehacker] [You Can Try Slack&#39;s New AI Tools Today &lpar;If Your Company Pays for Them&rpar;](https://lifehacker.com/tech/slack-ai-tools)
-- [Lifehacker] [You Can Get Two 4K Camera Drones for $145 Right Now](https://lifehacker.com/camera-drone-bundle-sale)
-- [Lifehacker] [25 of the Most Rewatchable Movies Ever, According to Twitter/X Users](https://lifehacker.com/entertainment/most-rewatchble-movies-according-to-twitter)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Fancy Mille-feuille With Three Ingredients](https://lifehacker.com/food-drink/easy-mille-feuille-recipe)<!-- TECH-POSTS:END -->
 
 ---
 
