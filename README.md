@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Calculator App with JavaScript: A Beginner&#39;s Guide](https://dev.to/codevicky/building-a-calculator-app-with-javascript-a-beginners-guide-343b)
+- [Dev.to/JS] [Sorteio de Amigo Secreto: Sem API, Só Hash](https://dev.to/racoelho/sorteio-de-amigo-secreto-sem-api-so-hash-1ccf)
 - [Dev.to/JS] [Custom Code Snippets in VS Code](https://dev.to/glowiep/custom-code-snippets-in-vs-code-ohj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
 - [Dev.to/JS] [Best practices problems on Javascript Variable.](https://dev.to/devendra_2806/best-practices-problems-on-javascript-variable-2d15)
@@ -45,12 +47,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Google Pixel Smartwatches Are Between $50 and $150 Off Right Now](https://lifehacker.com/tech/google-pixel-watch-and-pixel-watch-2-sale)
 - [Dev.to/JS] [Building microservices in Node.js](https://dev.to/avinashrepo/building-microservices-in-nodejs-5fnh)
 - [Lifehacker] [Your Conversations With AI Chatbots Aren’t Private](https://lifehacker.com/tech/your-conversations-with-chatbots-are-not-private)
-- [Dev.to/JS] [React Tips: Extends Props HTML Element](https://dev.to/kevin-uehara/react-tips-extends-props-html-element-2b1h)
 - [Lifehacker] [Apple Made an AI Image Animator](https://lifehacker.com/tech/what-is-apple-keyframer)
 - [Lifehacker] [How Graphene Batteries Are Poised to Revolutionize Cordless Power Tools](https://lifehacker.com/home/graphene-batteries-will-revolutionize-cordless-power-tools)
 - [Lifehacker] [The Best Apps to Help You Be More Creative](https://lifehacker.com/tech/best-creativity-brainstorming-apps)
 - [Lifehacker] [The Google Pixel 7 Pro and 7a Are Seeing Big Discounts Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
-- [Dev.to/JS] [Difference between var, let and const, in Javascript.](https://dev.to/abhisheks_words/difference-between-var-let-and-const-in-javascript-14d9)
 - [Lifehacker] [Make This Fancy Mille-feuille With Three Ingredients](https://lifehacker.com/food-drink/easy-mille-feuille-recipe)
 - [Lifehacker] [How to Find an Old 401&lpar;k&rpar;](https://lifehacker.com/money/how-to-find-an-old-401k)
 - [Lifehacker] [The Roomba j7 Robot Vacuum Is 50% Off Right Now](https://lifehacker.com/home/the-roomba-j7-robot-vacuum-is-50-percent-off-right-now)
