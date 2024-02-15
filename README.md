@@ -26,8 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advantages of unit testing—with examples in Jasmine](https://dev.to/how-to-dev/advantages-of-unit-testing-with-examples-in-jasmine-2lio)
+- [Dev.to/JS] [How to Use Google Gemini with Node.js](https://dev.to/arindam_1729/how-to-use-google-gemini-with-nodejs-2d39)
+- [Dev.to/JS] [Get rid of Copy/Paste with Plop Js!](https://dev.to/melihs/get-rid-of-copypaste-with-plop-js-5e4g)
+- [Dev.to/JS] [How to use qr-code-styling in Nuxt 3](https://dev.to/benuuts/how-to-use-qr-code-styling-in-nuxt-3-1pno)
+- [Dev.to/JS] [Local Storage &lpar;Browser Object Module&rpar;](https://dev.to/praneshchow/local-storage-g0g)
+- [Lifehacker] [These HP Monitors Are on Sale for Presidents’ Day](https://lifehacker.com/tech/these-hp-monitors-are-on-sale-for-presidents-day)
+- [Lifehacker] [How to Turn the Caps Lock Key Into Something You’ll Actually Use](https://lifehacker.com/tech/remap-caps-lock-key)
 - [Dev.to/JS] [Reactive Object Composition](https://dev.to/ninjin/reactive-dataflow-control-4l4i)
 - [Dev.to/JS] [Accelerate Angular App Development with create-angular-auth-nav](https://dev.to/furbo1/accelerate-angular-app-development-with-create-angular-auth-nav-50im)
+- [Lifehacker] [You Don’t Need to ‘Eat the Frog’ to Be More Productive](https://lifehacker.com/work/instead-of-eating-the-frog-try-the-10-minute-rule-to-be-productive)
 - [Dev.to/JS] [Location filter](https://dev.to/abdullahmadi/location-filter-3dib)
 - [Dev.to/JS] [Accelerate React App Development with create-react-auth-nav: A Productivity Powerhouse](https://dev.to/furbo1/streamlining-web-development-with-create-react-auth-nav-a-productivity-powerhouse-3ome)
 - [Lifehacker] [How to Turn a Terrible Couch Into a Comfortable Couch](https://lifehacker.com/home/how-to-fix-an-uncomfortable-couch)
@@ -37,16 +45,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Launch Nx Week Recap!!](https://dev.to/nx/launch-nx-week-recap-51og)
 - [Lifehacker] [TikTok Now Has a Dedicated App on the Apple Vision Pro](https://lifehacker.com/tech/tiktok-now-has-a-vision-pro-app)
 - [Dev.to/JS] [APIs com Guarapi e HTTP/2](https://dev.to/joao_neto/apis-com-guarapi-e-http2-58f2)
-- [Dev.to/JS] [Tailwind - Forms](https://dev.to/coaste/tailwind-forms-5cce)
 - [Lifehacker] [You Can Get Producti&#39;s AI Writing Assistant for $50 Right Now](https://lifehacker.com/tech/producti-ai-assistant-sale)
-- [Dev.to/JS] [Top Alternatives to Appium for Mobile Test Automation](https://dev.to/jamescantor38/top-alternatives-to-appium-for-mobile-test-automation-14pm)
 - [Lifehacker] [Six Ways You’re Guaranteed to Annoy Your New Neighbors &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/home/how-not-to-annoy-your-new-neighbors)
 - [Lifehacker] [The Sous-Vide Circulator Is a Forgetful Cook&#39;s Best Friend](https://lifehacker.com/what-is-a-sous-vide-circulator)
-- [Dev.to/JS] [mua chung Closercopy](https://dev.to/wsovn112/mua-chung-closercopy-373a)
 - [Lifehacker] [Adapt This Japanese Productivity Model to Get More Done](https://lifehacker.com/work/3-ms-productivity-method)
-- [Dev.to/JS] [Storybook’s Visual Tests addon enters beta](https://dev.to/storybookjs/storybooks-visual-tests-addon-enters-beta-3o5l)
 - [Lifehacker] [Why So Many People Are Returning the Apple Vision Pro](https://lifehacker.com/tech/why-people-return-apple-vision-pro)
-- [Dev.to/JS] [DOM &lpar;Document Object Model&rpar;](https://dev.to/arshamroshannejad/dom-document-object-model-55fk)
 - [Lifehacker] [You Can Grow Mushrooms Indoors Using Smart Home Automation](https://lifehacker.com/tech/how-to-grow-mushrooms-indoors-using-smart-home-automation)
 - [Lifehacker] [A History of Mac Viruses &lpar;and Why People Thought They Didn&#39;t Exist&rpar;](https://lifehacker.com/tech/mac-virus-history)
 - [Lifehacker] [How to Talk to a Real Human at the IRS Without Waiting on Hold Forever](https://lifehacker.com/how-to-talk-to-a-real-human-at-the-irs-without-waiting-1842128259)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Google Pixel Smartwatches Are Between $50 and $150 Off Right Now](https://lifehacker.com/tech/google-pixel-watch-and-pixel-watch-2-sale)
 - [Lifehacker] [Your Conversations With AI Chatbots Aren’t Private](https://lifehacker.com/tech/your-conversations-with-chatbots-are-not-private)
 - [Lifehacker] [Apple Made an AI Image Animator](https://lifehacker.com/tech/what-is-apple-keyframer)
-- [Lifehacker] [How Graphene Batteries Are Poised to Revolutionize Cordless Power Tools](https://lifehacker.com/home/graphene-batteries-will-revolutionize-cordless-power-tools)
-- [Lifehacker] [The Best Apps to Help You Be More Creative](https://lifehacker.com/tech/best-creativity-brainstorming-apps)
-- [Lifehacker] [The Google Pixel 7 Pro and 7a Are Seeing Big Discounts Right Now](https://lifehacker.com/you-can-get-the-google-pixel-7a-for-its-lowest-price-ev-1850974690)
-- [Lifehacker] [Make This Fancy Mille-feuille With Three Ingredients](https://lifehacker.com/food-drink/easy-mille-feuille-recipe)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Graphene Batteries Are Poised to Revolutionize Cordless Power Tools](https://lifehacker.com/home/graphene-batteries-will-revolutionize-cordless-power-tools)<!-- TECH-POSTS:END -->
 
 ---
 
