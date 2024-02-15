@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
 - [Dev.to/JS] [Build a Machine Learning Model for Image Classification with Node.js and Hugging Face in Just 3 Lines of Code.](https://dev.to/rouaabelhajali/build-a-machine-learning-model-for-image-classification-with-nodejs-and-hugging-face-in-just-3-lines-of-code-4hbk)
 - [Dev.to/JS] [Illustrated JavaScript Coding Course](https://dev.to/codeguppy/illustrated-javascript-coding-course-m9i)
+- [Lifehacker] [Consider the Cheese Board Sandwich](https://lifehacker.com/food-drink/consider-the-cheese-board-sandwich)
 - [Lifehacker] [ChatGPT Is Getting a Long-term Memory](https://lifehacker.com/tech/chatgpt-is-getting-long-term-memory)
 - [Lifehacker] [Overhaul Your To-do List With the &#39;ABCDE&#39; Method](https://lifehacker.com/work/overhaul-to-do-list-with-abcde-method)
 - [Lifehacker] [Games Are Coming to Flipper Zero](https://lifehacker.com/tech/how-to-play-games-on-a-flipper-zero)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Play PS5 Games Remotely on Your Steam Deck](https://lifehacker.com/tech/how-to-play-ps5-games-remotely-on-steam-deck)
 - [Lifehacker] [The Pros and Cons of Adding ‘Soft Skills’ to Your Resume](https://lifehacker.com/work/pros-and-cons-of-adding-soft-skills-to-your-resume)
 - [Lifehacker] [The Best Podcasts About Sex, Dating, and Relationships](https://lifehacker.com/relationships/the-best-sex-dating-relationship-podcasts)
-- [Lifehacker] [Prime Video Now Charges Extra for Dolby Vision and Dolby Atmos](https://lifehacker.com/entertainment/prime-video-now-charges-extra-for-dolby-vision-and-dolby-atmos)
-- [Lifehacker] [Use the &#39;5S&#39; Technique to Create a More Productive Workspace](https://lifehacker.com/home/5s-technique-create-a-more-productive-workspace)
-- [Lifehacker] [Why You Shouldn’t Count on DoorDash, Lyft, or Uber This Valentine’s Day](https://lifehacker.com/travel/dont-count-on-doordash-lyft-or-uber-this-valentines-day)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Prime Video Now Charges Extra for Dolby Vision and Dolby Atmos](https://lifehacker.com/entertainment/prime-video-now-charges-extra-for-dolby-vision-and-dolby-atmos)<!-- TECH-POSTS:END -->
 
 ---
 
