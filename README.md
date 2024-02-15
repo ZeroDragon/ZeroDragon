@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HOW TO RECOVERY SCAMMED CRYPTOCURRENCIS WITH FASTFUND RCOVERY TEAM.](https://dev.to/amanda_brady/how-to-recovery-scammed-cryptocurrencis-with-fastfund-rcovery-team-4ce1)
+- [Dev.to/JS] [What makes code great? - A subjective list and some connected graphs](https://dev.to/latobibor/what-makes-code-great-the-graph-method-5d20)
 - [Dev.to/JS] [Advantages of unit testing—with examples in Jasmine](https://dev.to/how-to-dev/advantages-of-unit-testing-with-examples-in-jasmine-2lio)
 - [Dev.to/JS] [How to Use Google Gemini with Node.js](https://dev.to/arindam_1729/how-to-use-google-gemini-with-nodejs-2d39)
 - [Dev.to/JS] [Get rid of Copy/Paste with Plop Js!](https://dev.to/melihs/get-rid-of-copypaste-with-plop-js-5e4g)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 11 Most In-Demand Job Skills of 2024 &lpar;and How to Develop Them&rpar;](https://lifehacker.com/work/most-in-demand-job-skills)
 - [Lifehacker] [14 of the Best Documentaries to Watch With Your Kids](https://lifehacker.com/entertainment/best-documentaries-to-watch-with-kids)
 - [Dev.to/JS] [The Significance of JSON.stringify in JavaScript: A Comprehensive Explanation](https://dev.to/khaled17/the-significance-of-jsonstringify-in-javascript-a-comprehensive-explanation-857)
-- [Dev.to/JS] [Launch Nx Week Recap!!](https://dev.to/nx/launch-nx-week-recap-51og)
 - [Lifehacker] [TikTok Now Has a Dedicated App on the Apple Vision Pro](https://lifehacker.com/tech/tiktok-now-has-a-vision-pro-app)
-- [Dev.to/JS] [APIs com Guarapi e HTTP/2](https://dev.to/joao_neto/apis-com-guarapi-e-http2-58f2)
 - [Lifehacker] [You Can Get Producti&#39;s AI Writing Assistant for $50 Right Now](https://lifehacker.com/tech/producti-ai-assistant-sale)
 - [Lifehacker] [Six Ways You’re Guaranteed to Annoy Your New Neighbors &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/home/how-not-to-annoy-your-new-neighbors)
 - [Lifehacker] [The Sous-Vide Circulator Is a Forgetful Cook&#39;s Best Friend](https://lifehacker.com/what-is-a-sous-vide-circulator)
