@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Title: Top 20 JavaScript One-Liners That Don&#39;t Actually Work](https://dev.to/darkwiiplayer/title-top-20-javascript-one-liners-that-dont-actually-work-30mj)
 - [Dev.to/JS] [Common JavaScript Mistakes in 2024](https://dev.to/shariqahmed525/common-javascript-mistakes-in-2024-1c6k)
 - [Dev.to/JS] [5 Small &lpar;Yet Easily Fixable&rpar; Mistakes Junior Frontend Developers Make With React Memoization](https://dev.to/_ndeyefatoudiop/5-small-yet-easily-fixable-mistakes-junior-frontend-developers-make-with-react-memoization-h7l)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/sergiomorrow727627/buy-old-gmail-accounts-5a47)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [adding Google login to your React app](https://dev.to/khaled17/adding-google-login-to-your-react-app-3jca)
 - [Dev.to/JS] [Cross-Domain Tracking Implementation](https://dev.to/seeratawan01/cross-domain-tracking-implementation-22ob)
 - [Dev.to/JS] [Building an OTP Verification System using HTML, CSS, and JavaScript](https://dev.to/manthanank/building-an-otp-verification-system-using-html-css-and-javascript-2dlk)
-- [Dev.to/JS] [Go Mocks and Stubs Made Easy](https://dev.to/keploy/go-mocks-and-stubs-made-easy-2efo)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
 - [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
 - [Lifehacker] [Consider the Cheese Board Sandwich](https://lifehacker.com/food-drink/consider-the-cheese-board-sandwich)
