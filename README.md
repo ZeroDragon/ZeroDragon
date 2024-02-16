@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript Interviews: The Ultimate Guide](https://dev.to/codesensei/mastering-javascript-interviews-the-ultimate-guide-4m3e)
 - [Dev.to/JS] [What happens when you click a URL - DNS Lookup, TCP Handshake &amp; HTTP](https://dev.to/jaypmedia/what-happens-when-you-click-a-url-dns-lookup-tcp-handshake-http-33i1)
 - [Dev.to/JS] [Markdown file Rendering in Next.js](https://dev.to/skidee/markdown-file-rendering-in-nextjs-4nhb)
+- [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
+- [Lifehacker] [You Can Get Windows 11 Pro for $23 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
 - [Dev.to/JS] [Introducing the Apostrophe / Astro Integration](https://dev.to/apostrophecms/introducing-the-apostrophe-astro-integration-4ifc)
 - [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)
+- [Dev.to/JS] [¿Estás cometiendo ESTOS errores de pruebas y mocking unitarios?](https://dev.to/khriztianmoreno/estas-cometiendo-estos-errores-de-pruebas-y-mocking-unitarios-16bb)
 - [Dev.to/JS] [Mastering Node.js: Building Scalable Web Applications](https://dev.to/pratikranpariya/mastering-nodejs-building-scalable-web-applications-jfh)
 - [Dev.to/JS] [Things I will follow if I hire any Front End Developer in 2024](https://dev.to/a4arpon/things-i-will-follow-if-i-hire-any-front-end-developer-in-2024-m33)
 - [Lifehacker] [The Apple Watch Series 8 Is $200 Off Right Now](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
@@ -45,10 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Now Live: Free Dedicated Discord Bot Hosting on RoboPlay &lpar;Read for Invites Codes&rpar;](https://dev.to/waveplay/now-live-free-dedicated-discord-bot-hosting-on-roboplay-read-for-invites-codes-45hg)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Dev.to/JS] [Money Saving Techniqu Make Money From Home Asap](https://dev.to/waystomakemoneyonilne/money-saving-techniqu-make-money-from-home-asap-4f14)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
-- [Dev.to/JS] [Figma to HTML: Streamlining Web Development from Design to Code with Codia AI](https://dev.to/cyberpunker/figma-to-html-streamlining-web-development-from-design-to-code-with-codia-ai-3iah)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn the Caps Lock Key Into Something You’ll Actually Use](https://lifehacker.com/tech/remap-caps-lock-key)
 - [Lifehacker] [You Don’t Need to ‘Eat the Frog’ to Be More Productive](https://lifehacker.com/work/instead-of-eating-the-frog-try-the-10-minute-rule-to-be-productive)
 - [Lifehacker] [How to Turn a Terrible Couch Into a Comfortable Couch](https://lifehacker.com/home/how-to-fix-an-uncomfortable-couch)
-- [Lifehacker] [The 11 Most In-Demand Job Skills of 2024 &lpar;and How to Develop Them&rpar;](https://lifehacker.com/work/most-in-demand-job-skills)
-- [Lifehacker] [14 of the Best Documentaries to Watch With Your Kids](https://lifehacker.com/entertainment/best-documentaries-to-watch-with-kids)
-- [Lifehacker] [TikTok Now Has a Dedicated App on the Apple Vision Pro](https://lifehacker.com/tech/tiktok-now-has-a-vision-pro-app)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 11 Most In-Demand Job Skills of 2024 &lpar;and How to Develop Them&rpar;](https://lifehacker.com/work/most-in-demand-job-skills)<!-- TECH-POSTS:END -->
 
 ---
 
