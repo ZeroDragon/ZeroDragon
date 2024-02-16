@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Finally Made It Through the Fog!](https://dev.to/annemiriam/finally-made-it-through-the-fog-e5f)
+- [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
+- [Dev.to/JS] [Para de perder tempo com cursinho Javascript mano](https://dev.to/javascriptfoda/para-de-perder-tempo-com-cursinho-javascript-mano-3coa)
+- [Lifehacker] [Make Copycat Fast Food Fried Chicken With This Simple Trick](https://lifehacker.com/food-drink/how-to-make-copycat-fast-food-fried-chicken)
+- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
 - [Dev.to/JS] [TypeScript Core Concepts Explained for Beginners](https://dev.to/hypercode/typescript-core-concepts-explained-for-beginners-3di4)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Dev.to/JS] [HOW TO RECOVERY SCAMMED CRYPTOCURRENCIS WITH FASTFUND RCOVERY TEAM.](https://dev.to/amanda_brady/how-to-recovery-scammed-cryptocurrencis-with-fastfund-rcovery-team-4ce1)
@@ -43,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reactive Object Composition](https://dev.to/ninjin/reactive-dataflow-control-4l4i)
 - [Dev.to/JS] [Accelerate Angular App Development with create-angular-auth-nav](https://dev.to/furbo1/accelerate-angular-app-development-with-create-angular-auth-nav-50im)
 - [Lifehacker] [You Don’t Need to ‘Eat the Frog’ to Be More Productive](https://lifehacker.com/work/instead-of-eating-the-frog-try-the-10-minute-rule-to-be-productive)
-- [Dev.to/JS] [Location filter](https://dev.to/abdullahmadi/location-filter-3dib)
-- [Dev.to/JS] [Accelerate React App Development with create-react-auth-nav: A Productivity Powerhouse](https://dev.to/furbo1/streamlining-web-development-with-create-react-auth-nav-a-productivity-powerhouse-3ome)
 - [Lifehacker] [How to Turn a Terrible Couch Into a Comfortable Couch](https://lifehacker.com/home/how-to-fix-an-uncomfortable-couch)
 - [Lifehacker] [The 11 Most In-Demand Job Skills of 2024 &lpar;and How to Develop Them&rpar;](https://lifehacker.com/work/most-in-demand-job-skills)
 - [Lifehacker] [14 of the Best Documentaries to Watch With Your Kids](https://lifehacker.com/entertainment/best-documentaries-to-watch-with-kids)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
 - [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
 - [Lifehacker] [Consider the Cheese Board Sandwich](https://lifehacker.com/food-drink/consider-the-cheese-board-sandwich)
-- [Lifehacker] [ChatGPT Is Getting a Long-term Memory](https://lifehacker.com/tech/chatgpt-is-getting-long-term-memory)
-- [Lifehacker] [Overhaul Your To-do List With the &#39;ABCDE&#39; Method](https://lifehacker.com/work/overhaul-to-do-list-with-abcde-method)
-- [Lifehacker] [Games Are Coming to Flipper Zero](https://lifehacker.com/tech/how-to-play-games-on-a-flipper-zero)
-- [Lifehacker] [Privacy Browser DuckDuckGo Can Finally Sync Your Passwords](https://lifehacker.com/tech/duckduckgo-adds-password-syncing)<!-- TECH-POSTS:END -->
+- [Lifehacker] [ChatGPT Is Getting a Long-term Memory](https://lifehacker.com/tech/chatgpt-is-getting-long-term-memory)<!-- TECH-POSTS:END -->
 
 ---
 
