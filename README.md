@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Code Coverage in Software Testing](https://dev.to/arindam_1729/understanding-code-coverage-in-software-testing-59i3)
+- [Dev.to/JS] [Learning to Code Later in Life: My Struggles and Triumphs](https://dev.to/angel33la/learning-to-code-later-in-life-my-struggles-and-triumphs-2g6a)
+- [Dev.to/JS] [Demystifying React Folder Structure with Vite: A Comprehensive Guide](https://dev.to/debrajroyofficial000/react-folder-structure-1c5h)
 - [Dev.to/JS] [GraphQL vs. REST API: Choosing the Right Approach for Your Project](https://dev.to/vijitm/graphql-vs-rest-api-choosing-the-right-approach-for-your-project-2hd)
 - [Dev.to/JS] [React js is not worth any more](https://dev.to/aditya_raj_1010/react-js-is-not-worth-any-more-4pnj)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/rc938818/buy-verified-cash-app-account-58ha)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/rc938818/buy-google-voice-accounts-4e0g)
 - [Dev.to/JS] [Tophomeworkhelper: A Comprehensive Hub for Programming Help](https://dev.to/davidwilliamson90/tophomeworkhelper-a-comprehensive-hub-for-programming-help-4lb4)
 - [Dev.to/JS] [Callback Functions in JavaScript: A Beginner’s Guide](https://dev.to/codingmadeeasy/callback-functions-in-javascript-a-beginners-guide-5bd8)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/rc938818/buy-google-5-star-reviews-1agb)
-- [Dev.to/JS] [Next.js Vs React — Basic Differences](https://dev.to/shariqahmed525/nextjs-vs-react-basic-differences-pdi)
-- [Dev.to/JS] [Embracing Modern React: Transitioning from Class Components to Functional Components](https://dev.to/nitin-rachabathuni/embracing-modern-react-transitioning-from-class-components-to-functional-components-11ol)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
 - [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
