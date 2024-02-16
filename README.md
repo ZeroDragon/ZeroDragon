@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing the Apostrophe / Astro Integration](https://dev.to/apostrophecms/introducing-the-apostrophe-astro-integration-4ifc)
+- [Dev.to/JS] [Mastering Node.js: Building Scalable Web Applications](https://dev.to/pratikranpariya/mastering-nodejs-building-scalable-web-applications-jfh)
+- [Dev.to/JS] [Things I will follow if I hire any Front End Developer in 2024](https://dev.to/a4arpon/things-i-will-follow-if-i-hire-any-front-end-developer-in-2024-m33)
+- [Lifehacker] [20 Actually Great Movies Nominated for a Razzie Award](https://lifehacker.com/entertainment/best-movies-nominated-for-razzie-awards)
+- [Lifehacker] [We Should All Be Scared of OpenAI&#39;s New AI Video Generator](https://lifehacker.com/tech/we-should-be-scared-of-openais-realistic-ai-videos)
 - [Dev.to/JS] [Empowering Your Tech Journey: Building Confidence Through Open Source](https://dev.to/monsururgb/empowering-your-tech-journey-building-confidence-through-open-source-3619)
 - [Dev.to/JS] [Integrating Generative AI into a Node.js Application](https://dev.to/hriztam/integrating-generative-ai-into-a-nodejs-application-25ag)
 - [Dev.to/JS] [React, Animando un Texto con useRef&lpar;&rpar; desde la carga del componente](https://dev.to/altaskur/react-animando-un-texto-con-useref-desde-la-carga-del-componente-4hj5)
@@ -43,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Dev.to/JS] [Python vs ReactJS: An Extensive Comparison](https://dev.to/scofieldidehen/python-vs-reactjs-an-extensive-comparison-4eho)
 - [Dev.to/JS] [Unraveling JavaScript Conditional Statements: A Beginner&#39;s Guide](https://dev.to/devendra_2806/unraveling-javascript-conditional-statements-a-beginners-guide-2ih3)
-- [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/aditya_raj_1010/skills-to-become-a-backend-developer-in-6-months-roadmap-3f9h)
-- [Dev.to/JS] [Episode 24/06: Signals, Forms, Class Composition, State Management, Enterprise Patterns](https://dev.to/this-is-angular/episode-2406-signals-forms-class-composition-state-management-enterprise-patterns-4o9i)
-- [Dev.to/JS] [mua chung Contentfries](https://dev.to/wsovn112/mua-chung-contentfries-b1g)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
 - [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 of the Best Documentaries to Watch With Your Kids](https://lifehacker.com/entertainment/best-documentaries-to-watch-with-kids)
 - [Lifehacker] [TikTok Now Has a Dedicated App on the Apple Vision Pro](https://lifehacker.com/tech/tiktok-now-has-a-vision-pro-app)
 - [Lifehacker] [You Can Get Producti&#39;s AI Writing Assistant for $50 Right Now](https://lifehacker.com/tech/producti-ai-assistant-sale)
-- [Lifehacker] [Six Ways You’re Guaranteed to Annoy Your New Neighbors &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/home/how-not-to-annoy-your-new-neighbors)
-- [Lifehacker] [The Sous-Vide Circulator Is a Forgetful Cook&#39;s Best Friend](https://lifehacker.com/what-is-a-sous-vide-circulator)
-- [Lifehacker] [Adapt This Japanese Productivity Model to Get More Done](https://lifehacker.com/work/3-ms-productivity-method)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Six Ways You’re Guaranteed to Annoy Your New Neighbors &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/home/how-not-to-annoy-your-new-neighbors)<!-- TECH-POSTS:END -->
 
 ---
 
