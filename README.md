@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
+- [Dev.to/JS] [Money Saving Techniqu Make Money From Home Asap](https://dev.to/waystomakemoneyonilne/money-saving-techniqu-make-money-from-home-asap-4f14)
+- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Dev.to/JS] [BUY NEGATIVE TRIPADVISOR REVIEWS](https://dev.to/george_liam/buy-negative-tripadvisor-reviews-1h90)
+- [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Dev.to/JS] [Seeking for love addict.](https://dev.to/marcella121/seeking-for-love-addict-4ipm)
 - [Dev.to/JS] [Figma to HTML: Streamlining Web Development from Design to Code with Codia AI](https://dev.to/cyberpunker/figma-to-html-streamlining-web-development-from-design-to-code-with-codia-ai-3iah)
+- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Dev.to/JS] [Python vs ReactJS: An Extensive Comparison](https://dev.to/scofieldidehen/python-vs-reactjs-an-extensive-comparison-4eho)
 - [Dev.to/JS] [Unraveling JavaScript Conditional Statements: A Beginner&#39;s Guide](https://dev.to/devendra_2806/unraveling-javascript-conditional-statements-a-beginners-guide-2ih3)
 - [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/aditya_raj_1010/skills-to-become-a-backend-developer-in-6-months-roadmap-3f9h)
@@ -37,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Typescript ? A step by step guide for beginners](https://dev.to/swhabitation/what-is-typescript-a-step-by-step-guide-for-beginners-4h95)
 - [Dev.to/JS] [Understanding Code Coverage in Software Testing](https://dev.to/arindam_1729/understanding-code-coverage-in-software-testing-59i3)
 - [Dev.to/JS] [Learning to Code Later in Life: My Struggles and Triumphs](https://dev.to/angel33la/learning-to-code-later-in-life-my-struggles-and-triumphs-2g6a)
-- [Dev.to/JS] [Demystifying React Folder Structure with Vite: A Comprehensive Guide](https://dev.to/debrajroyofficial000/react-folder-structure-1c5h)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
 - [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why So Many People Are Returning the Apple Vision Pro](https://lifehacker.com/tech/why-people-return-apple-vision-pro)
 - [Lifehacker] [You Can Grow Mushrooms Indoors Using Smart Home Automation](https://lifehacker.com/tech/how-to-grow-mushrooms-indoors-using-smart-home-automation)
 - [Lifehacker] [A History of Mac Viruses &lpar;and Why People Thought They Didn&#39;t Exist&rpar;](https://lifehacker.com/tech/mac-virus-history)
-- [Lifehacker] [How to Talk to a Real Human at the IRS Without Waiting on Hold Forever](https://lifehacker.com/how-to-talk-to-a-real-human-at-the-irs-without-waiting-1842128259)
-- [Lifehacker] [Use the ‘Sigh, See, Start’ Method to Teach Your Kids &lpar;and You&rpar; Self-Regulation](https://lifehacker.com/family/use-the-sigh-see-start-method-to-teach-your-kids-self-regulation)
-- [Lifehacker] [You Can Get This 6-in-1 Laptop Stand on Sale for $95 Right Now](https://lifehacker.com/tech/casa-hub-laptop-stand-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
-- [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Talk to a Real Human at the IRS Without Waiting on Hold Forever](https://lifehacker.com/how-to-talk-to-a-real-human-at-the-irs-without-waiting-1842128259)<!-- TECH-POSTS:END -->
 
 ---
 
