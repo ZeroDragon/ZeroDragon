@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
+- [Dev.to/JS] [How to Remove the Last Character from a String in JavaScript](https://dev.to/onlinemsr/how-to-remove-the-last-character-from-a-string-in-javascript-4n2b)
+- [Dev.to/JS] [i9betlaw](https://dev.to/i9betlaw/i9betlaw-ljg)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
 - [Dev.to/JS] [Finally Made It Through the Fog!](https://dev.to/annemiriam/finally-made-it-through-the-fog-e5f)
 - [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
@@ -47,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Local Storage &lpar;Browser Object Module&rpar;](https://dev.to/praneshchow/local-storage-g0g)
 - [Lifehacker] [These HP Monitors Are on Sale for Presidents’ Day](https://lifehacker.com/tech/these-hp-monitors-are-on-sale-for-presidents-day)
 - [Lifehacker] [How to Turn the Caps Lock Key Into Something You’ll Actually Use](https://lifehacker.com/tech/remap-caps-lock-key)
-- [Dev.to/JS] [Reactive Object Composition](https://dev.to/ninjin/reactive-dataflow-control-4l4i)
-- [Dev.to/JS] [Accelerate Angular App Development with create-angular-auth-nav](https://dev.to/furbo1/accelerate-angular-app-development-with-create-angular-auth-nav-50im)
 - [Lifehacker] [You Don’t Need to ‘Eat the Frog’ to Be More Productive](https://lifehacker.com/work/instead-of-eating-the-frog-try-the-10-minute-rule-to-be-productive)
 - [Lifehacker] [How to Turn a Terrible Couch Into a Comfortable Couch](https://lifehacker.com/home/how-to-fix-an-uncomfortable-couch)
 - [Lifehacker] [The 11 Most In-Demand Job Skills of 2024 &lpar;and How to Develop Them&rpar;](https://lifehacker.com/work/most-in-demand-job-skills)
@@ -65,7 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘Sigh, See, Start’ Method to Teach Your Kids &lpar;and You&rpar; Self-Regulation](https://lifehacker.com/family/use-the-sigh-see-start-method-to-teach-your-kids-self-regulation)
 - [Lifehacker] [You Can Get This 6-in-1 Laptop Stand on Sale for $95 Right Now](https://lifehacker.com/tech/casa-hub-laptop-stand-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
-- [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
+- [Lifehacker] [Consider the Cheese Board Sandwich](https://lifehacker.com/food-drink/consider-the-cheese-board-sandwich)<!-- TECH-POSTS:END -->
 
 ---
 
