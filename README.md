@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Blog with React and Google Sheets | PART 6 | FullStack Course | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-part-6-fullstack-course-learn-coding-obd)
+- [Dev.to/JS] [Build a Blog with React and Google Sheets | FullStack Course | PART 5 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-5-learn-coding-3b04)
 - [Dev.to/JS] [How to Remove the Last Character from a String in JavaScript](https://dev.to/onlinemsr/how-to-remove-the-last-character-from-a-string-in-javascript-4n2b)
 - [Dev.to/JS] [i9betlaw](https://dev.to/i9betlaw/i9betlaw-ljg)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
 - [Dev.to/JS] [Finally Made It Through the Fog!](https://dev.to/annemiriam/finally-made-it-through-the-fog-e5f)
 - [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
@@ -44,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use Google Gemini with Node.js](https://dev.to/arindam_1729/how-to-use-google-gemini-with-nodejs-2d39)
 - [Dev.to/JS] [Get rid of Copy/Paste with Plop Js!](https://dev.to/melihs/get-rid-of-copypaste-with-plop-js-5e4g)
 - [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $70 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
-- [Dev.to/JS] [How to use qr-code-styling in Nuxt 3](https://dev.to/benuuts/how-to-use-qr-code-styling-in-nuxt-3-1pno)
-- [Dev.to/JS] [Local Storage &lpar;Browser Object Module&rpar;](https://dev.to/praneshchow/local-storage-g0g)
 - [Lifehacker] [These HP Monitors Are on Sale for Presidents’ Day](https://lifehacker.com/tech/these-hp-monitors-are-on-sale-for-presidents-day)
 - [Lifehacker] [How to Turn the Caps Lock Key Into Something You’ll Actually Use](https://lifehacker.com/tech/remap-caps-lock-key)
 - [Lifehacker] [You Don’t Need to ‘Eat the Frog’ to Be More Productive](https://lifehacker.com/work/instead-of-eating-the-frog-try-the-10-minute-rule-to-be-productive)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘Sigh, See, Start’ Method to Teach Your Kids &lpar;and You&rpar; Self-Regulation](https://lifehacker.com/family/use-the-sigh-see-start-method-to-teach-your-kids-self-regulation)
 - [Lifehacker] [You Can Get This 6-in-1 Laptop Stand on Sale for $95 Right Now](https://lifehacker.com/tech/casa-hub-laptop-stand-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 15, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-15-2024)
-- [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)
-- [Lifehacker] [Consider the Cheese Board Sandwich](https://lifehacker.com/food-drink/consider-the-cheese-board-sandwich)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Shady &lpar;and Not so Shady&rpar; Things You Can Do With a Flipper Zero](https://lifehacker.com/everything-flipper-zero-can-and-cant-do)<!-- TECH-POSTS:END -->
 
 ---
 
