@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Empowering Your Tech Journey: Building Confidence Through Open Source](https://dev.to/monsururgb/empowering-your-tech-journey-building-confidence-through-open-source-3619)
+- [Dev.to/JS] [Integrating Generative AI into a Node.js Application](https://dev.to/hriztam/integrating-generative-ai-into-a-nodejs-application-25ag)
+- [Dev.to/JS] [React, Animando un Texto con useRef&lpar;&rpar; desde la carga del componente](https://dev.to/altaskur/react-animando-un-texto-con-useref-desde-la-carga-del-componente-4hj5)
 - [Dev.to/JS] [Web frameworks we are most excited for in 2024](https://dev.to/aditya_raj_1010/read-212b)
+- [Lifehacker] [The Wireless Power Tools Every Homeowner Should Own](https://lifehacker.com/home/wireless-power-tools-every-homeowner-should-own)
+- [Lifehacker] [You Might Get a Collection Letter From the IRS Soon](https://lifehacker.com/money/what-to-do-if-you-get-an-irs-collection-letter)
 - [Dev.to/JS] [Now Live: Free Dedicated Discord Bot Hosting on RoboPlay &lpar;Read for Invites Codes&rpar;](https://dev.to/waveplay/now-live-free-dedicated-discord-bot-hosting-on-roboplay-read-for-invites-codes-45hg)
+- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
+- [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Dev.to/JS] [Money Saving Techniqu Make Money From Home Asap](https://dev.to/waystomakemoneyonilne/money-saving-techniqu-make-money-from-home-asap-4f14)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
@@ -38,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/aditya_raj_1010/skills-to-become-a-backend-developer-in-6-months-roadmap-3f9h)
 - [Dev.to/JS] [Episode 24/06: Signals, Forms, Class Composition, State Management, Enterprise Patterns](https://dev.to/this-is-angular/episode-2406-signals-forms-class-composition-state-management-enterprise-patterns-4o9i)
 - [Dev.to/JS] [mua chung Contentfries](https://dev.to/wsovn112/mua-chung-contentfries-b1g)
-- [Dev.to/JS] [What is Typescript ? A step by step guide for beginners](https://dev.to/swhabitation/what-is-typescript-a-step-by-step-guide-for-beginners-4h95)
-- [Dev.to/JS] [Understanding Code Coverage in Software Testing](https://dev.to/arindam_1729/understanding-code-coverage-in-software-testing-59i3)
-- [Dev.to/JS] [Learning to Code Later in Life: My Struggles and Triumphs](https://dev.to/angel33la/learning-to-code-later-in-life-my-struggles-and-triumphs-2g6a)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
 - [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six Ways You’re Guaranteed to Annoy Your New Neighbors &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/home/how-not-to-annoy-your-new-neighbors)
 - [Lifehacker] [The Sous-Vide Circulator Is a Forgetful Cook&#39;s Best Friend](https://lifehacker.com/what-is-a-sous-vide-circulator)
 - [Lifehacker] [Adapt This Japanese Productivity Model to Get More Done](https://lifehacker.com/work/3-ms-productivity-method)
-- [Lifehacker] [Why So Many People Are Returning the Apple Vision Pro](https://lifehacker.com/tech/why-people-return-apple-vision-pro)
-- [Lifehacker] [You Can Grow Mushrooms Indoors Using Smart Home Automation](https://lifehacker.com/tech/how-to-grow-mushrooms-indoors-using-smart-home-automation)
-- [Lifehacker] [A History of Mac Viruses &lpar;and Why People Thought They Didn&#39;t Exist&rpar;](https://lifehacker.com/tech/mac-virus-history)
-- [Lifehacker] [How to Talk to a Real Human at the IRS Without Waiting on Hold Forever](https://lifehacker.com/how-to-talk-to-a-real-human-at-the-irs-without-waiting-1842128259)
-- [Lifehacker] [Use the ‘Sigh, See, Start’ Method to Teach Your Kids &lpar;and You&rpar; Self-Regulation](https://lifehacker.com/family/use-the-sigh-see-start-method-to-teach-your-kids-self-regulation)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why So Many People Are Returning the Apple Vision Pro](https://lifehacker.com/tech/why-people-return-apple-vision-pro)<!-- TECH-POSTS:END -->
 
 ---
 
