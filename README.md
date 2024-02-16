@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What happens when you click a URL - DNS Lookup, TCP Handshake &amp; HTTP](https://dev.to/jaypmedia/what-happens-when-you-click-a-url-dns-lookup-tcp-handshake-http-33i1)
+- [Dev.to/JS] [Markdown file Rendering in Next.js](https://dev.to/skidee/markdown-file-rendering-in-nextjs-4nhb)
 - [Dev.to/JS] [Introducing the Apostrophe / Astro Integration](https://dev.to/apostrophecms/introducing-the-apostrophe-astro-integration-4ifc)
+- [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)
 - [Dev.to/JS] [Mastering Node.js: Building Scalable Web Applications](https://dev.to/pratikranpariya/mastering-nodejs-building-scalable-web-applications-jfh)
 - [Dev.to/JS] [Things I will follow if I hire any Front End Developer in 2024](https://dev.to/a4arpon/things-i-will-follow-if-i-hire-any-front-end-developer-in-2024-m33)
+- [Lifehacker] [The Apple Watch Series 8 Is $200 Off Right Now](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [20 Actually Great Movies Nominated for a Razzie Award](https://lifehacker.com/entertainment/best-movies-nominated-for-razzie-awards)
 - [Lifehacker] [We Should All Be Scared of OpenAI&#39;s New AI Video Generator](https://lifehacker.com/tech/we-should-be-scared-of-openais-realistic-ai-videos)
 - [Dev.to/JS] [Empowering Your Tech Journey: Building Confidence Through Open Source](https://dev.to/monsururgb/empowering-your-tech-journey-building-confidence-through-open-source-3619)
@@ -46,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Dev.to/JS] [Figma to HTML: Streamlining Web Development from Design to Code with Codia AI](https://dev.to/cyberpunker/figma-to-html-streamlining-web-development-from-design-to-code-with-codia-ai-3iah)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
-- [Dev.to/JS] [Python vs ReactJS: An Extensive Comparison](https://dev.to/scofieldidehen/python-vs-reactjs-an-extensive-comparison-4eho)
-- [Dev.to/JS] [Unraveling JavaScript Conditional Statements: A Beginner&#39;s Guide](https://dev.to/devendra_2806/unraveling-javascript-conditional-statements-a-beginners-guide-2ih3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
 - [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn a Terrible Couch Into a Comfortable Couch](https://lifehacker.com/home/how-to-fix-an-uncomfortable-couch)
 - [Lifehacker] [The 11 Most In-Demand Job Skills of 2024 &lpar;and How to Develop Them&rpar;](https://lifehacker.com/work/most-in-demand-job-skills)
 - [Lifehacker] [14 of the Best Documentaries to Watch With Your Kids](https://lifehacker.com/entertainment/best-documentaries-to-watch-with-kids)
-- [Lifehacker] [TikTok Now Has a Dedicated App on the Apple Vision Pro](https://lifehacker.com/tech/tiktok-now-has-a-vision-pro-app)
-- [Lifehacker] [You Can Get Producti&#39;s AI Writing Assistant for $50 Right Now](https://lifehacker.com/tech/producti-ai-assistant-sale)
-- [Lifehacker] [Six Ways You’re Guaranteed to Annoy Your New Neighbors &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/home/how-not-to-annoy-your-new-neighbors)<!-- TECH-POSTS:END -->
+- [Lifehacker] [TikTok Now Has a Dedicated App on the Apple Vision Pro](https://lifehacker.com/tech/tiktok-now-has-a-vision-pro-app)<!-- TECH-POSTS:END -->
 
 ---
 
