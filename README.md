@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Vs React — Basic Differences](https://dev.to/shariqahmed525/nextjs-vs-react-basic-differences-pdi)
+- [Dev.to/JS] [Embracing Modern React: Transitioning from Class Components to Functional Components](https://dev.to/nitin-rachabathuni/embracing-modern-react-transitioning-from-class-components-to-functional-components-11ol)
 - [Dev.to/JS] [Build a Blog with React and Google Sheets | PART 6 | FullStack Course | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-part-6-fullstack-course-learn-coding-obd)
 - [Dev.to/JS] [Build a Blog with React and Google Sheets | FullStack Course | PART 5 | Learn Coding](https://dev.to/imrankh13332994/build-a-blog-with-react-and-google-sheets-fullstack-course-part-5-learn-coding-3b04)
 - [Dev.to/JS] [How to Remove the Last Character from a String in JavaScript](https://dev.to/onlinemsr/how-to-remove-the-last-character-from-a-string-in-javascript-4n2b)
@@ -44,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best AI Art Generators &lpar;for You to Use Responsibly, OK?&rpar;](https://lifehacker.com/tech/best-ai-art-generators)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Dev.to/JS] [Advantages of unit testing—with examples in Jasmine](https://dev.to/how-to-dev/advantages-of-unit-testing-with-examples-in-jasmine-2lio)
-- [Dev.to/JS] [How to Use Google Gemini with Node.js](https://dev.to/arindam_1729/how-to-use-google-gemini-with-nodejs-2d39)
-- [Dev.to/JS] [Get rid of Copy/Paste with Plop Js!](https://dev.to/melihs/get-rid-of-copypaste-with-plop-js-5e4g)
 - [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $70 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
 - [Lifehacker] [These HP Monitors Are on Sale for Presidents’ Day](https://lifehacker.com/tech/these-hp-monitors-are-on-sale-for-presidents-day)
 - [Lifehacker] [How to Turn the Caps Lock Key Into Something You’ll Actually Use](https://lifehacker.com/tech/remap-caps-lock-key)
