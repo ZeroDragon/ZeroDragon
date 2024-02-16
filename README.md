@@ -26,11 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript Core Concepts Explained for Beginners](https://dev.to/hypercode/typescript-core-concepts-explained-for-beginners-3di4)
+- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Dev.to/JS] [HOW TO RECOVERY SCAMMED CRYPTOCURRENCIS WITH FASTFUND RCOVERY TEAM.](https://dev.to/amanda_brady/how-to-recovery-scammed-cryptocurrencis-with-fastfund-rcovery-team-4ce1)
 - [Dev.to/JS] [What makes code great? - A subjective list and some connected graphs](https://dev.to/latobibor/what-makes-code-great-the-graph-method-5d20)
+- [Lifehacker] [The Best AI Art Generators &lpar;for You to Use Responsibly, OK?&rpar;](https://lifehacker.com/tech/best-ai-art-generators)
+- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Dev.to/JS] [Advantages of unit testing—with examples in Jasmine](https://dev.to/how-to-dev/advantages-of-unit-testing-with-examples-in-jasmine-2lio)
 - [Dev.to/JS] [How to Use Google Gemini with Node.js](https://dev.to/arindam_1729/how-to-use-google-gemini-with-nodejs-2d39)
 - [Dev.to/JS] [Get rid of Copy/Paste with Plop Js!](https://dev.to/melihs/get-rid-of-copypaste-with-plop-js-5e4g)
+- [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $70 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
 - [Dev.to/JS] [How to use qr-code-styling in Nuxt 3](https://dev.to/benuuts/how-to-use-qr-code-styling-in-nuxt-3-1pno)
 - [Dev.to/JS] [Local Storage &lpar;Browser Object Module&rpar;](https://dev.to/praneshchow/local-storage-g0g)
 - [Lifehacker] [These HP Monitors Are on Sale for Presidents’ Day](https://lifehacker.com/tech/these-hp-monitors-are-on-sale-for-presidents-day)
@@ -43,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn a Terrible Couch Into a Comfortable Couch](https://lifehacker.com/home/how-to-fix-an-uncomfortable-couch)
 - [Lifehacker] [The 11 Most In-Demand Job Skills of 2024 &lpar;and How to Develop Them&rpar;](https://lifehacker.com/work/most-in-demand-job-skills)
 - [Lifehacker] [14 of the Best Documentaries to Watch With Your Kids](https://lifehacker.com/entertainment/best-documentaries-to-watch-with-kids)
-- [Dev.to/JS] [The Significance of JSON.stringify in JavaScript: A Comprehensive Explanation](https://dev.to/khaled17/the-significance-of-jsonstringify-in-javascript-a-comprehensive-explanation-857)
 - [Lifehacker] [TikTok Now Has a Dedicated App on the Apple Vision Pro](https://lifehacker.com/tech/tiktok-now-has-a-vision-pro-app)
 - [Lifehacker] [You Can Get Producti&#39;s AI Writing Assistant for $50 Right Now](https://lifehacker.com/tech/producti-ai-assistant-sale)
 - [Lifehacker] [Six Ways You’re Guaranteed to Annoy Your New Neighbors &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/home/how-not-to-annoy-your-new-neighbors)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [ChatGPT Is Getting a Long-term Memory](https://lifehacker.com/tech/chatgpt-is-getting-long-term-memory)
 - [Lifehacker] [Overhaul Your To-do List With the &#39;ABCDE&#39; Method](https://lifehacker.com/work/overhaul-to-do-list-with-abcde-method)
 - [Lifehacker] [Games Are Coming to Flipper Zero](https://lifehacker.com/tech/how-to-play-games-on-a-flipper-zero)
-- [Lifehacker] [Privacy Browser DuckDuckGo Can Finally Sync Your Passwords](https://lifehacker.com/tech/duckduckgo-adds-password-syncing)
-- [Lifehacker] [These Google Pixel Smartwatches Are Between $50 and $150 Off Right Now](https://lifehacker.com/tech/google-pixel-watch-and-pixel-watch-2-sale)
-- [Lifehacker] [Your Conversations With AI Chatbots Aren’t Private](https://lifehacker.com/tech/your-conversations-with-chatbots-are-not-private)
-- [Lifehacker] [Apple Made an AI Image Animator](https://lifehacker.com/tech/what-is-apple-keyframer)
-- [Lifehacker] [How Graphene Batteries Are Poised to Revolutionize Cordless Power Tools](https://lifehacker.com/home/graphene-batteries-will-revolutionize-cordless-power-tools)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Privacy Browser DuckDuckGo Can Finally Sync Your Passwords](https://lifehacker.com/tech/duckduckgo-adds-password-syncing)<!-- TECH-POSTS:END -->
 
 ---
 
