@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/rc938818/buy-google-voice-accounts-4e0g)
+- [Dev.to/JS] [Tophomeworkhelper: A Comprehensive Hub for Programming Help](https://dev.to/davidwilliamson90/tophomeworkhelper-a-comprehensive-hub-for-programming-help-4lb4)
 - [Dev.to/JS] [Callback Functions in JavaScript: A Beginner’s Guide](https://dev.to/codingmadeeasy/callback-functions-in-javascript-a-beginners-guide-5bd8)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/rc938818/buy-google-5-star-reviews-1agb)
 - [Dev.to/JS] [Next.js Vs React — Basic Differences](https://dev.to/shariqahmed525/nextjs-vs-react-basic-differences-pdi)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Para de perder tempo com cursinho Javascript mano](https://dev.to/javascriptfoda/para-de-perder-tempo-com-cursinho-javascript-mano-3coa)
 - [Lifehacker] [Make Copycat Fast Food Fried Chicken With This Simple Trick](https://lifehacker.com/food-drink/how-to-make-copycat-fast-food-fried-chicken)
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
-- [Dev.to/JS] [TypeScript Core Concepts Explained for Beginners](https://dev.to/hypercode/typescript-core-concepts-explained-for-beginners-3di4)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Dev.to/JS] [HOW TO RECOVERY SCAMMED CRYPTOCURRENCIS WITH FASTFUND RCOVERY TEAM.](https://dev.to/amanda_brady/how-to-recovery-scammed-cryptocurrencis-with-fastfund-rcovery-team-4ce1)
 - [Lifehacker] [The Best AI Art Generators &lpar;for You to Use Responsibly, OK?&rpar;](https://lifehacker.com/tech/best-ai-art-generators)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $70 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
