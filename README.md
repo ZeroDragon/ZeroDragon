@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BUY NEGATIVE TRIPADVISOR REVIEWS](https://dev.to/george_liam/buy-negative-tripadvisor-reviews-1h90)
+- [Dev.to/JS] [Seeking for love addict.](https://dev.to/marcella121/seeking-for-love-addict-4ipm)
+- [Dev.to/JS] [Figma to HTML: Streamlining Web Development from Design to Code with Codia AI](https://dev.to/cyberpunker/figma-to-html-streamlining-web-development-from-design-to-code-with-codia-ai-3iah)
 - [Dev.to/JS] [Python vs ReactJS: An Extensive Comparison](https://dev.to/scofieldidehen/python-vs-reactjs-an-extensive-comparison-4eho)
 - [Dev.to/JS] [Unraveling JavaScript Conditional Statements: A Beginner&#39;s Guide](https://dev.to/devendra_2806/unraveling-javascript-conditional-statements-a-beginners-guide-2ih3)
 - [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/aditya_raj_1010/skills-to-become-a-backend-developer-in-6-months-roadmap-3f9h)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Code Coverage in Software Testing](https://dev.to/arindam_1729/understanding-code-coverage-in-software-testing-59i3)
 - [Dev.to/JS] [Learning to Code Later in Life: My Struggles and Triumphs](https://dev.to/angel33la/learning-to-code-later-in-life-my-struggles-and-triumphs-2g6a)
 - [Dev.to/JS] [Demystifying React Folder Structure with Vite: A Comprehensive Guide](https://dev.to/debrajroyofficial000/react-folder-structure-1c5h)
-- [Dev.to/JS] [GraphQL vs. REST API: Choosing the Right Approach for Your Project](https://dev.to/vijitm/graphql-vs-rest-api-choosing-the-right-approach-for-your-project-2hd)
-- [Dev.to/JS] [React js is not worth any more](https://dev.to/aditya_raj_1010/react-js-is-not-worth-any-more-4pnj)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/rc938818/buy-verified-cash-app-account-58ha)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
 - [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
