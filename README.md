@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to de-structure an array returned by url.pathname.split&lpar;‘/’&rpar;](https://dev.to/ramunarasinga/how-to-de-structure-an-array-returned-by-urlpathnamesplit-18el)
+- [Lifehacker] [Google Just Showed Off a Powerful New Upgrade to Gemini](https://lifehacker.com/tech/what-is-gemini-15)
+- [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
 - [Dev.to/JS] [Mastering JavaScript Interviews: The Ultimate Guide](https://dev.to/codesensei/mastering-javascript-interviews-the-ultimate-guide-4m3e)
 - [Lifehacker] [How to Bring Back iTunes and iPhoto on Modern Macs](https://lifehacker.com/tech/how-to-install-itunes-and-iphoto-on-macos-sonoma)
 - [Lifehacker] [Mozzarella in Carrozza Is Easiest in the Air Fryer](https://lifehacker.com/food-drink/mozzarella-in-carrozza-air-fryer-recipe)
@@ -48,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web frameworks we are most excited for in 2024](https://dev.to/aditya_raj_1010/read-212b)
 - [Lifehacker] [The Wireless Power Tools Every Homeowner Should Own](https://lifehacker.com/home/wireless-power-tools-every-homeowner-should-own)
 - [Lifehacker] [You Might Get a Collection Letter From the IRS Soon](https://lifehacker.com/money/what-to-do-if-you-get-an-irs-collection-letter)
-- [Dev.to/JS] [Now Live: Free Dedicated Discord Bot Hosting on RoboPlay &lpar;Read for Invites Codes&rpar;](https://dev.to/waveplay/now-live-free-dedicated-discord-bot-hosting-on-roboplay-read-for-invites-codes-45hg)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best AI Art Generators &lpar;for You to Use Responsibly, OK?&rpar;](https://lifehacker.com/tech/best-ai-art-generators)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $70 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
-- [Lifehacker] [These HP Monitors Are on Sale for Presidents’ Day](https://lifehacker.com/tech/these-hp-monitors-are-on-sale-for-presidents-day)
-- [Lifehacker] [How to Turn the Caps Lock Key Into Something You’ll Actually Use](https://lifehacker.com/tech/remap-caps-lock-key)
-- [Lifehacker] [You Don’t Need to ‘Eat the Frog’ to Be More Productive](https://lifehacker.com/work/instead-of-eating-the-frog-try-the-10-minute-rule-to-be-productive)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These HP Monitors Are on Sale for Presidents’ Day](https://lifehacker.com/tech/these-hp-monitors-are-on-sale-for-presidents-day)<!-- TECH-POSTS:END -->
 
 ---
 
