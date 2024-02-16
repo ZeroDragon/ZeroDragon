@@ -27,6 +27,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Mastering JavaScript Interviews: The Ultimate Guide](https://dev.to/codesensei/mastering-javascript-interviews-the-ultimate-guide-4m3e)
+- [Lifehacker] [How to Bring Back iTunes and iPhoto on Modern Macs](https://lifehacker.com/tech/how-to-install-itunes-and-iphoto-on-macos-sonoma)
+- [Lifehacker] [Mozzarella in Carrozza Is Easiest in the Air Fryer](https://lifehacker.com/food-drink/mozzarella-in-carrozza-air-fryer-recipe)
 - [Dev.to/JS] [What happens when you click a URL - DNS Lookup, TCP Handshake &amp; HTTP](https://dev.to/jaypmedia/what-happens-when-you-click-a-url-dns-lookup-tcp-handshake-http-33i1)
 - [Dev.to/JS] [Markdown file Rendering in Next.js](https://dev.to/skidee/markdown-file-rendering-in-nextjs-4nhb)
 - [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $70 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
 - [Lifehacker] [These HP Monitors Are on Sale for Presidents’ Day](https://lifehacker.com/tech/these-hp-monitors-are-on-sale-for-presidents-day)
 - [Lifehacker] [How to Turn the Caps Lock Key Into Something You’ll Actually Use](https://lifehacker.com/tech/remap-caps-lock-key)
-- [Lifehacker] [You Don’t Need to ‘Eat the Frog’ to Be More Productive](https://lifehacker.com/work/instead-of-eating-the-frog-try-the-10-minute-rule-to-be-productive)
-- [Lifehacker] [How to Turn a Terrible Couch Into a Comfortable Couch](https://lifehacker.com/home/how-to-fix-an-uncomfortable-couch)
-- [Lifehacker] [The 11 Most In-Demand Job Skills of 2024 &lpar;and How to Develop Them&rpar;](https://lifehacker.com/work/most-in-demand-job-skills)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Don’t Need to ‘Eat the Frog’ to Be More Productive](https://lifehacker.com/work/instead-of-eating-the-frog-try-the-10-minute-rule-to-be-productive)<!-- TECH-POSTS:END -->
 
 ---
 
