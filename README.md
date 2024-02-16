@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Python vs ReactJS: An Extensive Comparison](https://dev.to/scofieldidehen/python-vs-reactjs-an-extensive-comparison-4eho)
+- [Dev.to/JS] [Unraveling JavaScript Conditional Statements: A Beginner&#39;s Guide](https://dev.to/devendra_2806/unraveling-javascript-conditional-statements-a-beginners-guide-2ih3)
 - [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/aditya_raj_1010/skills-to-become-a-backend-developer-in-6-months-roadmap-3f9h)
 - [Dev.to/JS] [Episode 24/06: Signals, Forms, Class Composition, State Management, Enterprise Patterns](https://dev.to/this-is-angular/episode-2406-signals-forms-class-composition-state-management-enterprise-patterns-4o9i)
 - [Dev.to/JS] [mua chung Contentfries](https://dev.to/wsovn112/mua-chung-contentfries-b1g)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GraphQL vs. REST API: Choosing the Right Approach for Your Project](https://dev.to/vijitm/graphql-vs-rest-api-choosing-the-right-approach-for-your-project-2hd)
 - [Dev.to/JS] [React js is not worth any more](https://dev.to/aditya_raj_1010/react-js-is-not-worth-any-more-4pnj)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/rc938818/buy-verified-cash-app-account-58ha)
-- [Dev.to/JS] [The card mistake you&#39;ve been making that has been hurting your app&#39;s accessibility.](https://dev.to/eabuzaid/the-card-mistake-youve-been-making-that-has-been-hurting-your-apps-accessibility-a4g)
-- [Dev.to/JS] [Setup Production Ready Next.js App](https://dev.to/jobyjoseph/setup-production-ready-nextjs-app-5a2a)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
 - [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
