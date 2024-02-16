@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/aditya_raj_1010/skills-to-become-a-backend-developer-in-6-months-roadmap-3f9h)
+- [Dev.to/JS] [Episode 24/06: Signals, Forms, Class Composition, State Management, Enterprise Patterns](https://dev.to/this-is-angular/episode-2406-signals-forms-class-composition-state-management-enterprise-patterns-4o9i)
+- [Dev.to/JS] [mua chung Contentfries](https://dev.to/wsovn112/mua-chung-contentfries-b1g)
+- [Dev.to/JS] [What is Typescript ? A step by step guide for beginners](https://dev.to/swhabitation/what-is-typescript-a-step-by-step-guide-for-beginners-4h95)
 - [Dev.to/JS] [Understanding Code Coverage in Software Testing](https://dev.to/arindam_1729/understanding-code-coverage-in-software-testing-59i3)
 - [Dev.to/JS] [Learning to Code Later in Life: My Struggles and Triumphs](https://dev.to/angel33la/learning-to-code-later-in-life-my-struggles-and-triumphs-2g6a)
 - [Dev.to/JS] [Demystifying React Folder Structure with Vite: A Comprehensive Guide](https://dev.to/debrajroyofficial000/react-folder-structure-1c5h)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/rc938818/buy-verified-cash-app-account-58ha)
 - [Dev.to/JS] [The card mistake you&#39;ve been making that has been hurting your app&#39;s accessibility.](https://dev.to/eabuzaid/the-card-mistake-youve-been-making-that-has-been-hurting-your-apps-accessibility-a4g)
 - [Dev.to/JS] [Setup Production Ready Next.js App](https://dev.to/jobyjoseph/setup-production-ready-nextjs-app-5a2a)
-- [Dev.to/JS] [Demystifying JavaScript: let, var, and const Explained with Examples](https://dev.to/jps27cse/demystifying-javascript-let-var-and-const-explained-with-examples-2an4)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/rc938818/buy-google-voice-accounts-4e0g)
-- [Dev.to/JS] [Tophomeworkhelper: A Comprehensive Hub for Programming Help](https://dev.to/davidwilliamson90/tophomeworkhelper-a-comprehensive-hub-for-programming-help-4lb4)
-- [Dev.to/JS] [Callback Functions in JavaScript: A Beginner’s Guide](https://dev.to/codingmadeeasy/callback-functions-in-javascript-a-beginners-guide-5bd8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
 - [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
