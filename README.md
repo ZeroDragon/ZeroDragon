@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Crop images seamlessly in Node.js](https://dev.to/unburn/crop-images-seamlessly-in-nodejs-8di)
+- [Dev.to/JS] [Keep Store type sync with definition](https://dev.to/avinash8847/keep-store-type-sync-with-definition-1nah)
+- [Dev.to/JS] [From JavaScript to React: The Evolution of Web Interactivity](https://dev.to/codeparrot/from-javascript-to-react-the-evolution-of-web-interactivity-4fcm)
 - [Dev.to/JS] [How To Install Remix.Js? A Step By Step Guide For Beginners](https://dev.to/swhabitation/how-to-install-remixjs-a-step-by-step-guide-for-beginners-1obb)
 - [Dev.to/JS] [Building a Stunning Portfolio Website with HTML and CSS](https://dev.to/incoderweb/building-a-stunning-portfolio-website-with-html-and-css-4jcl)
 - [Dev.to/JS] [Exploring OAuth 2.0: Enabling Google Authentication in a Pure Browser-Based Web App running on Cloudflare](https://dev.to/wanggithub0/exploring-oauth-20-enabling-google-authentication-in-a-pure-browser-based-web-app-running-on-cloudflare-49jb)
@@ -44,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Financial ‘Experts’ Got Scammed, so You Can Too &lpar;Really&rpar;](https://lifehacker.com/money/anyone-can-get-scammed-and-how-to-avoid-it)
 - [Lifehacker] [Google Just Showed Off a Powerful New Upgrade to Gemini](https://lifehacker.com/tech/what-is-gemini-15)
 - [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
-- [Dev.to/JS] [Mastering JavaScript Interviews: The Ultimate Guide](https://dev.to/codesensei/mastering-javascript-interviews-the-ultimate-guide-4m3e)
 - [Lifehacker] [How to Bring Back iTunes and iPhoto on Modern Macs](https://lifehacker.com/tech/how-to-install-itunes-and-iphoto-on-macos-sonoma)
 - [Lifehacker] [Mozzarella in Carrozza Is Easiest in the Air Fryer](https://lifehacker.com/food-drink/mozzarella-in-carrozza-air-fryer-recipe)
-- [Dev.to/JS] [What happens when you click a URL - DNS Lookup, TCP Handshake &amp; HTTP](https://dev.to/jaypmedia/what-happens-when-you-click-a-url-dns-lookup-tcp-handshake-http-33i1)
-- [Dev.to/JS] [Markdown file Rendering in Next.js](https://dev.to/skidee/markdown-file-rendering-in-nextjs-4nhb)
 - [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [You Can Get Windows 11 Pro for $23 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
 - [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)
