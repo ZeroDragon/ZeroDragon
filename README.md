@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevate Your Website&#39;s Look: Dynamic Favicon with React](https://dev.to/khaled17/elevate-your-websites-look-dynamic-favicon-with-react-3i1h)
 - [Dev.to/JS] [HTML Collection VS Node List](https://dev.to/tapesh/html-collection-vs-node-list-2j3m)
 - [Dev.to/JS] [JavaScript Demystified: Unveiling the Code Wizardry - Hoisting](https://dev.to/scottibr/javascript-demystified-unveiling-the-code-wizardry-hoisting-3p5a)
 - [Dev.to/JS] [Understanding State Management in React: Avoiding Pitfalls with Custom Hooks](https://dev.to/mgeovany/understanding-state-management-in-react-avoiding-pitfalls-with-custom-hooks-5554)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use Qatar Metro: A Comprehensive Guide](https://dev.to/gulfam/how-to-use-qatar-metro-a-comprehensive-guide-e9n)
 - [Dev.to/JS] [Creating my first project - An interactive trivia quiz](https://dev.to/shrekingmyhead/creating-my-first-project-an-interactive-trivia-quiz-mn9)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/younggsteven53/buy-verified-cash-app-account-3beb)
-- [Dev.to/JS] [🏁🐘Winning Race Conditions With PostgreSQL](https://dev.to/mistval/winning-race-conditions-with-postgresql-54gn)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
