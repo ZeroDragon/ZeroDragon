@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Useful insights I got while building web development projects](https://dev.to/harshit_kedia/useful-insights-i-got-while-building-web-development-projects-46ei)
+- [Dev.to/JS] [What is AI?: A human guide to artificial intelligence](https://dev.to/manzar098/what-is-ai-a-human-guide-to-artificial-intelligence-3cnh)
+- [Dev.to/JS] [Async Mixins with Rimmel.js](https://dev.to/dariomannu/async-mixins-with-rimmeljs-pka)
+- [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts1220/buy-google-ads-accounts-3l3e)
 - [Dev.to/JS] [JavaScript Functions: The Heroes of Your Code! ⚡️](https://dev.to/aniket_botre/javascript-functions-the-heroes-of-your-code-4l2d)
 - [Dev.to/JS] [Building a Decentralized Todo List DApp in React and Solidity](https://dev.to/scofieldidehen/building-a-decentralized-todo-list-dapp-in-react-and-solidity-2p1e)
 - [Dev.to/JS] [Proton Keto Gummies Diabetes &lpar;Urgent MEDICAL Warning!&rpar;:](https://dev.to/protonketoacvg/proton-keto-gummies-diabetes-urgent-medical-warning-39jb)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Keep Store type sync with definition](https://dev.to/avinash8847/keep-store-type-sync-with-definition-1nah)
 - [Dev.to/JS] [From JavaScript to React: The Evolution of Web Interactivity](https://dev.to/codeparrot/from-javascript-to-react-the-evolution-of-web-interactivity-4fcm)
 - [Dev.to/JS] [How To Install Remix.Js? A Step By Step Guide For Beginners](https://dev.to/swhabitation/how-to-install-remixjs-a-step-by-step-guide-for-beginners-1obb)
-- [Dev.to/JS] [Building a Stunning Portfolio Website with HTML and CSS](https://dev.to/incoderweb/building-a-stunning-portfolio-website-with-html-and-css-4jcl)
-- [Dev.to/JS] [Exploring OAuth 2.0: Enabling Google Authentication in a Pure Browser-Based Web App running on Cloudflare](https://dev.to/wanggithub0/exploring-oauth-20-enabling-google-authentication-in-a-pure-browser-based-web-app-running-on-cloudflare-49jb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)
-- [Dev.to/JS] [Test](https://dev.to/ahle567880ahmed/test-5ph)
-- [Dev.to/JS] [welcome](https://dev.to/ahle567880ahmed/welcome-5f58)
 - [Lifehacker] [These Are My Two Favorite Shoulder Strengthening Routines](https://lifehacker.com/health/the-best-shoulder-strengthening-exercises)
 - [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)
 - [Lifehacker] [Let Google Sit on Hold for You](https://lifehacker.com/tech/google-talk-to-live-representative-feature)
