@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Functions: The Heroes of Your Code! ⚡️](https://dev.to/aniket_botre/javascript-functions-the-heroes-of-your-code-4l2d)
 - [Dev.to/JS] [Building a Decentralized Todo List DApp in React and Solidity](https://dev.to/scofieldidehen/building-a-decentralized-todo-list-dapp-in-react-and-solidity-2p1e)
 - [Dev.to/JS] [Proton Keto Gummies Diabetes &lpar;Urgent MEDICAL Warning!&rpar;:](https://dev.to/protonketoacvg/proton-keto-gummies-diabetes-urgent-medical-warning-39jb)
 - [Dev.to/JS] [Installing VS Code &amp; How Websites Work | Sigma Web Development Course - Tutorial #1](https://dev.to/neelammkw/installing-vs-code-how-websites-work-sigma-web-development-course-tutorial-1-3n51)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)
 - [Dev.to/JS] [Test](https://dev.to/ahle567880ahmed/test-5ph)
 - [Dev.to/JS] [welcome](https://dev.to/ahle567880ahmed/welcome-5f58)
-- [Dev.to/JS] [How to: Create an API Rest with Express - Basic](https://dev.to/davidzcode/how-to-create-an-api-rest-with-express-c2p)
 - [Lifehacker] [These Are My Two Favorite Shoulder Strengthening Routines](https://lifehacker.com/health/the-best-shoulder-strengthening-exercises)
 - [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)
 - [Lifehacker] [Let Google Sit on Hold for You](https://lifehacker.com/tech/google-talk-to-live-representative-feature)
