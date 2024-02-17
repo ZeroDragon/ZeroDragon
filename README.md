@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Stunning Portfolio Website with HTML and CSS](https://dev.to/incoderweb/building-a-stunning-portfolio-website-with-html-and-css-4jcl)
+- [Dev.to/JS] [Exploring OAuth 2.0: Enabling Google Authentication in a Pure Browser-Based Web App running on Cloudflare](https://dev.to/wanggithub0/exploring-oauth-20-enabling-google-authentication-in-a-pure-browser-based-web-app-running-on-cloudflare-49jb)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)
 - [Dev.to/JS] [Test](https://dev.to/ahle567880ahmed/test-5ph)
 - [Dev.to/JS] [welcome](https://dev.to/ahle567880ahmed/welcome-5f58)
 - [Dev.to/JS] [How to: Create an API Rest with Express - Basic](https://dev.to/davidzcode/how-to-create-an-api-rest-with-express-c2p)
+- [Lifehacker] [These Are My Two Favorite Shoulder Strengthening Routines](https://lifehacker.com/health/the-best-shoulder-strengthening-exercises)
 - [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)
 - [Dev.to/JS] [Frontend Developer Roadmap](https://dev.to/arnosolo/frontend-developer-roadmap-9in)
 - [Lifehacker] [Let Google Sit on Hold for You](https://lifehacker.com/tech/google-talk-to-live-representative-feature)
@@ -48,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Windows 11 Pro for $23 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
 - [Dev.to/JS] [Introducing the Apostrophe / Astro Integration](https://dev.to/apostrophecms/introducing-the-apostrophe-astro-integration-4ifc)
 - [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)
-- [Dev.to/JS] [¿Estás cometiendo ESTOS errores de pruebas y mocking unitarios?](https://dev.to/khriztianmoreno/estas-cometiendo-estos-errores-de-pruebas-y-mocking-unitarios-16bb)
-- [Dev.to/JS] [Mastering Node.js: Building Scalable Web Applications](https://dev.to/pratikranpariya/mastering-nodejs-building-scalable-web-applications-jfh)
 - [Lifehacker] [The Apple Watch Series 8 Is $200 Off Right Now](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [20 Actually Great Movies Nominated for a Razzie Award](https://lifehacker.com/entertainment/best-movies-nominated-for-razzie-awards)
 - [Lifehacker] [We Should All Be Scared of OpenAI&#39;s New AI Video Generator](https://lifehacker.com/tech/we-should-be-scared-of-openais-realistic-ai-videos)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
-- [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
-- [Lifehacker] [Make Copycat Fast Food Fried Chicken With This Simple Trick](https://lifehacker.com/food-drink/how-to-make-copycat-fast-food-fried-chicken)
-- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)<!-- TECH-POSTS:END -->
 
 ---
 
