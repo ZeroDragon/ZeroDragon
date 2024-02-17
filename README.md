@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understand OAuth 2.0 code grant flow 🔐](https://dev.to/m4xshen/understand-oauth-20-code-grant-flow-3lnj)
+- [Dev.to/JS] [I made a adorable vscode extension!](https://dev.to/changchanghwang/i-made-a-adorable-vscode-extension-34ce)
 - [Dev.to/JS] [Angular&#39;s Evolution: Embracing Change in the Web Development Landscape](https://dev.to/this-is-angular/angulars-evolution-embracing-change-in-the-web-development-landscape-1hb8)
 - [Dev.to/JS] [Useful insights I got while building web development projects](https://dev.to/harshit_kedia/useful-insights-i-got-while-building-web-development-projects-46ei)
 - [Dev.to/JS] [What is AI?: A human guide to artificial intelligence](https://dev.to/manzar098/what-is-ai-a-human-guide-to-artificial-intelligence-3cnh)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Proton Keto Gummies Diabetes &lpar;Urgent MEDICAL Warning!&rpar;:](https://dev.to/protonketoacvg/proton-keto-gummies-diabetes-urgent-medical-warning-39jb)
 - [Dev.to/JS] [Installing VS Code &amp; How Websites Work | Sigma Web Development Course - Tutorial #1](https://dev.to/neelammkw/installing-vs-code-how-websites-work-sigma-web-development-course-tutorial-1-3n51)
 - [Dev.to/JS] [Crop images seamlessly in Node.js](https://dev.to/unburn/crop-images-seamlessly-in-nodejs-8di)
-- [Dev.to/JS] [Keep Store type sync with definition](https://dev.to/avinash8847/keep-store-type-sync-with-definition-1nah)
-- [Dev.to/JS] [From JavaScript to React: The Evolution of Web Interactivity](https://dev.to/codeparrot/from-javascript-to-react-the-evolution-of-web-interactivity-4fcm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)
 - [Lifehacker] [These Are My Two Favorite Shoulder Strengthening Routines](https://lifehacker.com/health/the-best-shoulder-strengthening-exercises)
 - [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)
