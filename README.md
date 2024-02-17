@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating my first project - An interactive trivia quiz](https://dev.to/shrekingmyhead/creating-my-first-project-an-interactive-trivia-quiz-mn9)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/younggsteven53/buy-verified-cash-app-account-3beb)
+- [Dev.to/JS] [🏁🐘Winning Race Conditions With PostgreSQL](https://dev.to/mistval/winning-race-conditions-with-postgresql-54gn)
+- [Dev.to/JS] [[Sparta Coding Club] Week 2 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-2-today-i-learned-3epk)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/younggsteven53/buy-glassdoor-reviews-bhb)
 - [Dev.to/JS] [Best NodeJs Frameworks for Backend development in 2024](https://dev.to/alakkadshaw/best-nodejs-frameworks-for-backend-development-in-2024-3i0h)
 - [Dev.to/JS] [The Floor Will Be Lava](https://dev.to/rmion/the-floor-will-be-lava-5ff5)
@@ -36,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Componentes Utilitários para Composição de Layouts](https://dev.to/alanpinhel/componentes-utilitarios-para-composicao-de-layouts-4p9k)
 - [Dev.to/JS] [Aliasing modules in Node.js](https://dev.to/lukasz1mroz/aliasing-modules-in-nodejs-3jil)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
-- [Dev.to/JS] [How to stream data over HTTP using Node and Fetch API](https://dev.to/aditya_raj_1010/how-to-stream-data-over-http-using-node-and-fetch-api-3mgc)
-- [Dev.to/JS] [Expected `onClick` listener to be a function, instead got a value of `string` type](https://dev.to/reactjsguru/expected-onclick-listener-to-be-a-function-instead-got-a-value-of-string-type-168p)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
-- [Dev.to/JS] [Creating Clickable SVG maps in HTML with JS](https://dev.to/manishkumardsd/creating-clickable-svg-maps-in-html-with-js-1jfj)
-- [Dev.to/JS] [Looking for a full stack developer to teach me programming techniques 寻找全栈开发人员来教我编程技术](https://dev.to/wlmsl/looking-for-a-full-stack-developer-to-teach-me-programming-techniques-xun-zhao-quan-zhan-kai-fa-ren-yuan-lai-jiao-wo-bian-cheng-ji-zhu-1jk4)
 - [Lifehacker] [How to Respond When Your Kid Hurts Your Feelings](https://lifehacker.com/family/how-to-respond-when-your-kid-hurts-your-feelings)
 - [Lifehacker] [Use the &#39;Pickle Jar Theory&#39; to Prioritize Your Tasks](https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)
