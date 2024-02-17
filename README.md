@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Wonderful Strength of Fruit and Vegetables. https://digitalprx.gumroad.com/l/WonderfulStrengthofFruitandvegetables](https://dev.to/jasa02/introducing-wonderful-strength-of-fruit-and-vegetableshttpsdigitalprxgumroadcomlwonderfulstrengthoffruitandvegetables-58mk)
+- [Dev.to/JS] [CAI Tools extension for extra features on Character.AI](https://dev.to/irsat000/cai-tools-extension-for-extra-features-on-characterai-4n54)
 - [Dev.to/JS] [Visualizing Deep Learning Annotations - Interactive Video Player](https://dev.to/s-abinash/visualizing-deep-learning-annotations-interactive-video-player-4d3d)
 - [Dev.to/JS] [Principais métodos de array no Javascript &lpar;filter, map e reduce&rpar;.](https://dev.to/joao3g/principais-metodos-de-array-no-javascript-filter-map-e-reduce-2991)
 - [Dev.to/JS] [How to Use Qatar Metro: A Comprehensive Guide](https://dev.to/gulfam/how-to-use-qatar-metro-a-comprehensive-guide-e9n)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/younggsteven53/buy-glassdoor-reviews-bhb)
 - [Dev.to/JS] [Best NodeJs Frameworks for Backend development in 2024](https://dev.to/alakkadshaw/best-nodejs-frameworks-for-backend-development-in-2024-3i0h)
 - [Dev.to/JS] [The Floor Will Be Lava](https://dev.to/rmion/the-floor-will-be-lava-5ff5)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/younggsteven53/buy-google-voice-accounts-h6j)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/younggsteven53/buy-verified-paxful-account-95p)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
