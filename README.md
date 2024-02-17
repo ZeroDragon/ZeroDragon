@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Visualizing Deep Learning Annotations - Interactive Video Player](https://dev.to/s-abinash/visualizing-deep-learning-annotations-interactive-video-player-4d3d)
+- [Dev.to/JS] [Principais métodos de array no Javascript &lpar;filter, map e reduce&rpar;.](https://dev.to/joao3g/principais-metodos-de-array-no-javascript-filter-map-e-reduce-2991)
+- [Dev.to/JS] [How to Use Qatar Metro: A Comprehensive Guide](https://dev.to/gulfam/how-to-use-qatar-metro-a-comprehensive-guide-e9n)
 - [Dev.to/JS] [Creating my first project - An interactive trivia quiz](https://dev.to/shrekingmyhead/creating-my-first-project-an-interactive-trivia-quiz-mn9)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/younggsteven53/buy-verified-cash-app-account-3beb)
 - [Dev.to/JS] [🏁🐘Winning Race Conditions With PostgreSQL](https://dev.to/mistval/winning-race-conditions-with-postgresql-54gn)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/younggsteven53/buy-google-voice-accounts-h6j)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/younggsteven53/buy-verified-paxful-account-95p)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
-- [Dev.to/JS] [Building a Simple Promise Implementation in JavaScript](https://dev.to/rajubepary/building-a-simple-promise-implementation-in-javascript-1m1n)
-- [Dev.to/JS] [Componentes Utilitários para Composição de Layouts](https://dev.to/alanpinhel/componentes-utilitarios-para-composicao-de-layouts-4p9k)
-- [Dev.to/JS] [Aliasing modules in Node.js](https://dev.to/lukasz1mroz/aliasing-modules-in-nodejs-3jil)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
 - [Lifehacker] [How to Respond When Your Kid Hurts Your Feelings](https://lifehacker.com/family/how-to-respond-when-your-kid-hurts-your-feelings)
