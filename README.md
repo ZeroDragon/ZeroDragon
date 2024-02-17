@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)
+- [Dev.to/JS] [Frontend Developer Roadmap](https://dev.to/arnosolo/frontend-developer-roadmap-9in)
+- [Lifehacker] [Let Google Sit on Hold for You](https://lifehacker.com/tech/google-talk-to-live-representative-feature)
 - [Dev.to/JS] [Entendendo o Pub/Sub com Javascript](https://dev.to/lucasruy/entendendo-o-pubsub-com-javascript-595f)
+- [Lifehacker] [The Xbox Series S Is $80 Off Right Now](https://lifehacker.com/entertainment/xbox-series-s-sale-at-target)
 - [Dev.to/JS] [How to de-structure an array returned by url.pathname.split&lpar;‘/’&rpar;](https://dev.to/ramunarasinga/how-to-de-structure-an-array-returned-by-urlpathnamesplit-18el)
 - [Lifehacker] [These Dyson Cordless Vacuums Are up to 44% Off for Presidents Day](https://lifehacker.com/home/walmart-dyson-vacuum-sale-presidents-day)
 - [Lifehacker] [These Financial ‘Experts’ Got Scammed, so You Can Too &lpar;Really&rpar;](https://lifehacker.com/money/anyone-can-get-scammed-and-how-to-avoid-it)
@@ -49,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [We Should All Be Scared of OpenAI&#39;s New AI Video Generator](https://lifehacker.com/tech/we-should-be-scared-of-openais-realistic-ai-videos)
 - [Dev.to/JS] [Empowering Your Tech Journey: Building Confidence Through Open Source](https://dev.to/monsururgb/empowering-your-tech-journey-building-confidence-through-open-source-3619)
 - [Dev.to/JS] [Integrating Generative AI into a Node.js Application](https://dev.to/hriztam/integrating-generative-ai-into-a-nodejs-application-25ag)
-- [Dev.to/JS] [React, Animando un Texto con useRef&lpar;&rpar; desde la carga del componente](https://dev.to/altaskur/react-animando-un-texto-con-useref-desde-la-carga-del-componente-4hj5)
 - [Lifehacker] [Why Your Next Power Bank Should Have Graphene](https://lifehacker.com/tech/your-next-power-bank-should-have-graphene)
 - [Lifehacker] [The Wireless Power Tools Every Homeowner Should Own](https://lifehacker.com/home/wireless-power-tools-every-homeowner-should-own)
 - [Lifehacker] [You Might Get a Collection Letter From the IRS Soon](https://lifehacker.com/money/what-to-do-if-you-get-an-irs-collection-letter)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)
 - [Lifehacker] [These New Android Features Will Keep You Safer Online](https://lifehacker.com/tech/android-safer-browsing-and-live-threat-detection-rolling-out)
 - [Lifehacker] [Make Copycat Fast Food Fried Chicken With This Simple Trick](https://lifehacker.com/food-drink/how-to-make-copycat-fast-food-fried-chicken)
-- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
-- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [The Best AI Art Generators &lpar;for You to Use Responsibly, OK?&rpar;](https://lifehacker.com/tech/best-ai-art-generators)
-- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
