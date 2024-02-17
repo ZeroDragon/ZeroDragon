@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Demystified: Unveiling the Code Wizardry - Hoisting](https://dev.to/scottibr/javascript-demystified-unveiling-the-code-wizardry-hoisting-3p5a)
+- [Dev.to/JS] [Understanding State Management in React: Avoiding Pitfalls with Custom Hooks](https://dev.to/mgeovany/understanding-state-management-in-react-avoiding-pitfalls-with-custom-hooks-5554)
+- [Dev.to/JS] [JavaScript Demystified: Unveiling the Code Wizardry - From Compilation to Execution](https://dev.to/scottibr/javascript-demystified-unveiling-the-code-wizardry-from-compilation-to-execution-dcf)
 - [Dev.to/JS] [Introducing Wonderful Strength of Fruit and Vegetables. https://digitalprx.gumroad.com/l/WonderfulStrengthofFruitandvegetables](https://dev.to/jasa02/introducing-wonderful-strength-of-fruit-and-vegetableshttpsdigitalprxgumroadcomlwonderfulstrengthoffruitandvegetables-58mk)
 - [Dev.to/JS] [CAI Tools extension for extra features on Character.AI](https://dev.to/irsat000/cai-tools-extension-for-extra-features-on-characterai-4n54)
 - [Dev.to/JS] [Visualizing Deep Learning Annotations - Interactive Video Player](https://dev.to/s-abinash/visualizing-deep-learning-annotations-interactive-video-player-4d3d)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/younggsteven53/buy-verified-cash-app-account-3beb)
 - [Dev.to/JS] [🏁🐘Winning Race Conditions With PostgreSQL](https://dev.to/mistval/winning-race-conditions-with-postgresql-54gn)
 - [Dev.to/JS] [[Sparta Coding Club] Week 2 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-2-today-i-learned-3epk)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/younggsteven53/buy-glassdoor-reviews-bhb)
-- [Dev.to/JS] [Best NodeJs Frameworks for Backend development in 2024](https://dev.to/alakkadshaw/best-nodejs-frameworks-for-backend-development-in-2024-3i0h)
-- [Dev.to/JS] [The Floor Will Be Lava](https://dev.to/rmion/the-floor-will-be-lava-5ff5)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
