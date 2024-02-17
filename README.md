@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular&#39;s Evolution: Embracing Change in the Web Development Landscape](https://dev.to/this-is-angular/angulars-evolution-embracing-change-in-the-web-development-landscape-1hb8)
 - [Dev.to/JS] [Useful insights I got while building web development projects](https://dev.to/harshit_kedia/useful-insights-i-got-while-building-web-development-projects-46ei)
 - [Dev.to/JS] [What is AI?: A human guide to artificial intelligence](https://dev.to/manzar098/what-is-ai-a-human-guide-to-artificial-intelligence-3cnh)
 - [Dev.to/JS] [Async Mixins with Rimmel.js](https://dev.to/dariomannu/async-mixins-with-rimmeljs-pka)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crop images seamlessly in Node.js](https://dev.to/unburn/crop-images-seamlessly-in-nodejs-8di)
 - [Dev.to/JS] [Keep Store type sync with definition](https://dev.to/avinash8847/keep-store-type-sync-with-definition-1nah)
 - [Dev.to/JS] [From JavaScript to React: The Evolution of Web Interactivity](https://dev.to/codeparrot/from-javascript-to-react-the-evolution-of-web-interactivity-4fcm)
-- [Dev.to/JS] [How To Install Remix.Js? A Step By Step Guide For Beginners](https://dev.to/swhabitation/how-to-install-remixjs-a-step-by-step-guide-for-beginners-1obb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)
 - [Lifehacker] [These Are My Two Favorite Shoulder Strengthening Routines](https://lifehacker.com/health/the-best-shoulder-strengthening-exercises)
 - [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)
