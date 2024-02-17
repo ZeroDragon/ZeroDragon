@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Entendendo o Pub/Sub com Javascript](https://dev.to/lucasruy/entendendo-o-pubsub-com-javascript-595f)
 - [Dev.to/JS] [How to de-structure an array returned by url.pathname.split&lpar;‘/’&rpar;](https://dev.to/ramunarasinga/how-to-de-structure-an-array-returned-by-urlpathnamesplit-18el)
+- [Lifehacker] [These Dyson Cordless Vacuums Are up to 44% Off for Presidents Day](https://lifehacker.com/home/walmart-dyson-vacuum-sale-presidents-day)
+- [Lifehacker] [These Financial ‘Experts’ Got Scammed, so You Can Too &lpar;Really&rpar;](https://lifehacker.com/money/anyone-can-get-scammed-and-how-to-avoid-it)
 - [Lifehacker] [Google Just Showed Off a Powerful New Upgrade to Gemini](https://lifehacker.com/tech/what-is-gemini-15)
 - [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
 - [Dev.to/JS] [Mastering JavaScript Interviews: The Ultimate Guide](https://dev.to/codesensei/mastering-javascript-interviews-the-ultimate-guide-4m3e)
@@ -48,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating Generative AI into a Node.js Application](https://dev.to/hriztam/integrating-generative-ai-into-a-nodejs-application-25ag)
 - [Dev.to/JS] [React, Animando un Texto con useRef&lpar;&rpar; desde la carga del componente](https://dev.to/altaskur/react-animando-un-texto-con-useref-desde-la-carga-del-componente-4hj5)
 - [Lifehacker] [Why Your Next Power Bank Should Have Graphene](https://lifehacker.com/tech/your-next-power-bank-should-have-graphene)
-- [Dev.to/JS] [Web frameworks we are most excited for in 2024](https://dev.to/aditya_raj_1010/read-212b)
 - [Lifehacker] [The Wireless Power Tools Every Homeowner Should Own](https://lifehacker.com/home/wireless-power-tools-every-homeowner-should-own)
 - [Lifehacker] [You Might Get a Collection Letter From the IRS Soon](https://lifehacker.com/money/what-to-do-if-you-get-an-irs-collection-letter)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies to Stream on Max This Week](https://lifehacker.com/entertainment/best-movies-on-max-this-week)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best AI Art Generators &lpar;for You to Use Responsibly, OK?&rpar;](https://lifehacker.com/tech/best-ai-art-generators)
-- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
-- [Lifehacker] [You Can Get These Microsoft Tech Certification Courses on Sale for $70 Right Now](https://lifehacker.com/work/microsoft-certification-training-bundle-sale)
-- [Lifehacker] [These HP Monitors Are on Sale for Presidents’ Day](https://lifehacker.com/tech/these-hp-monitors-are-on-sale-for-presidents-day)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
