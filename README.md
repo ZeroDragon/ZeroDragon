@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Install Remix.Js? A Step By Step Guide For Beginners](https://dev.to/swhabitation/how-to-install-remixjs-a-step-by-step-guide-for-beginners-1obb)
 - [Dev.to/JS] [Building a Stunning Portfolio Website with HTML and CSS](https://dev.to/incoderweb/building-a-stunning-portfolio-website-with-html-and-css-4jcl)
 - [Dev.to/JS] [Exploring OAuth 2.0: Enabling Google Authentication in a Pure Browser-Based Web App running on Cloudflare](https://dev.to/wanggithub0/exploring-oauth-20-enabling-google-authentication-in-a-pure-browser-based-web-app-running-on-cloudflare-49jb)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Markdown file Rendering in Next.js](https://dev.to/skidee/markdown-file-rendering-in-nextjs-4nhb)
 - [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [You Can Get Windows 11 Pro for $23 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
-- [Dev.to/JS] [Introducing the Apostrophe / Astro Integration](https://dev.to/apostrophecms/introducing-the-apostrophe-astro-integration-4ifc)
 - [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)
 - [Lifehacker] [The Apple Watch Series 8 Is $200 Off Right Now](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [20 Actually Great Movies Nominated for a Razzie Award](https://lifehacker.com/entertainment/best-movies-nominated-for-razzie-awards)
