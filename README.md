@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Test](https://dev.to/ahle567880ahmed/test-5ph)
+- [Dev.to/JS] [welcome](https://dev.to/ahle567880ahmed/welcome-5f58)
+- [Dev.to/JS] [How to: Create an API Rest with Express - Basic](https://dev.to/davidzcode/how-to-create-an-api-rest-with-express-c2p)
 - [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)
 - [Dev.to/JS] [Frontend Developer Roadmap](https://dev.to/arnosolo/frontend-developer-roadmap-9in)
 - [Lifehacker] [Let Google Sit on Hold for You](https://lifehacker.com/tech/google-talk-to-live-representative-feature)
@@ -47,12 +50,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)
 - [Dev.to/JS] [¿Estás cometiendo ESTOS errores de pruebas y mocking unitarios?](https://dev.to/khriztianmoreno/estas-cometiendo-estos-errores-de-pruebas-y-mocking-unitarios-16bb)
 - [Dev.to/JS] [Mastering Node.js: Building Scalable Web Applications](https://dev.to/pratikranpariya/mastering-nodejs-building-scalable-web-applications-jfh)
-- [Dev.to/JS] [Things I will follow if I hire any Front End Developer in 2024](https://dev.to/a4arpon/things-i-will-follow-if-i-hire-any-front-end-developer-in-2024-m33)
 - [Lifehacker] [The Apple Watch Series 8 Is $200 Off Right Now](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [20 Actually Great Movies Nominated for a Razzie Award](https://lifehacker.com/entertainment/best-movies-nominated-for-razzie-awards)
 - [Lifehacker] [We Should All Be Scared of OpenAI&#39;s New AI Video Generator](https://lifehacker.com/tech/we-should-be-scared-of-openais-realistic-ai-videos)
-- [Dev.to/JS] [Empowering Your Tech Journey: Building Confidence Through Open Source](https://dev.to/monsururgb/empowering-your-tech-journey-building-confidence-through-open-source-3619)
-- [Dev.to/JS] [Integrating Generative AI into a Node.js Application](https://dev.to/hriztam/integrating-generative-ai-into-a-nodejs-application-25ag)
 - [Lifehacker] [Why Your Next Power Bank Should Have Graphene](https://lifehacker.com/tech/your-next-power-bank-should-have-graphene)
 - [Lifehacker] [The Wireless Power Tools Every Homeowner Should Own](https://lifehacker.com/home/wireless-power-tools-every-homeowner-should-own)
 - [Lifehacker] [You Might Get a Collection Letter From the IRS Soon](https://lifehacker.com/money/what-to-do-if-you-get-an-irs-collection-letter)
