@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/younggsteven53/buy-verified-paxful-account-95p)
+- [Dev.to/JS] [Building a Simple Promise Implementation in JavaScript](https://dev.to/rajubepary/building-a-simple-promise-implementation-in-javascript-1m1n)
+- [Dev.to/JS] [Componentes Utilitários para Composição de Layouts](https://dev.to/alanpinhel/componentes-utilitarios-para-composicao-de-layouts-4p9k)
+- [Dev.to/JS] [Aliasing modules in Node.js](https://dev.to/lukasz1mroz/aliasing-modules-in-nodejs-3jil)
 - [Dev.to/JS] [How to stream data over HTTP using Node and Fetch API](https://dev.to/aditya_raj_1010/how-to-stream-data-over-http-using-node-and-fetch-api-3mgc)
 - [Dev.to/JS] [Expected `onClick` listener to be a function, instead got a value of `string` type](https://dev.to/reactjsguru/expected-onclick-listener-to-be-a-function-instead-got-a-value-of-string-type-168p)
+- [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
 - [Dev.to/JS] [Creating Clickable SVG maps in HTML with JS](https://dev.to/manishkumardsd/creating-clickable-svg-maps-in-html-with-js-1jfj)
 - [Dev.to/JS] [Looking for a full stack developer to teach me programming techniques 寻找全栈开发人员来教我编程技术](https://dev.to/wlmsl/looking-for-a-full-stack-developer-to-teach-me-programming-techniques-xun-zhao-quan-zhan-kai-fa-ren-yuan-lai-jiao-wo-bian-cheng-ji-zhu-1jk4)
+- [Lifehacker] [How to Respond When Your Kid Hurts Your Feelings](https://lifehacker.com/family/how-to-respond-when-your-kid-hurts-your-feelings)
 - [Dev.to/JS] [Top 25+ Javascript Projects for Beginners with Source Code Github [2024 Latest Project]](https://dev.to/pratikpathak/top-25-javascript-projects-for-beginners-with-source-code-github-2024-latest-project-3cn1)
 - [Lifehacker] [Use the &#39;Pickle Jar Theory&#39; to Prioritize Your Tasks](https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks)
 - [Dev.to/JS] [Understand OAuth 2.0 code grant flow 🔐](https://dev.to/m4xshen/understand-oauth-20-code-grant-flow-3lnj)
 - [Dev.to/JS] [I made a adorable vscode extension!](https://dev.to/changchanghwang/i-made-a-adorable-vscode-extension-34ce)
 - [Dev.to/JS] [Angular&#39;s Evolution: Embracing Change in the Web Development Landscape](https://dev.to/this-is-angular/angulars-evolution-embracing-change-in-the-web-development-landscape-1hb8)
-- [Dev.to/JS] [Useful insights I got while building web development projects](https://dev.to/harshit_kedia/useful-insights-i-got-while-building-web-development-projects-46ei)
-- [Dev.to/JS] [What is AI?: A human guide to artificial intelligence](https://dev.to/manzar098/what-is-ai-a-human-guide-to-artificial-intelligence-3cnh)
-- [Dev.to/JS] [Async Mixins with Rimmel.js](https://dev.to/dariomannu/async-mixins-with-rimmeljs-pka)
-- [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts1220/buy-google-ads-accounts-3l3e)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)
 - [Lifehacker] [These Are My Two Favorite Shoulder Strengthening Routines](https://lifehacker.com/health/the-best-shoulder-strengthening-exercises)
 - [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
-- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 16, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-16-2024)
-- [Lifehacker] [These BirdBike E-bikes Are on Sale for $700 Right Now](https://lifehacker.com/birdbike-ebike-sale-1)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)<!-- TECH-POSTS:END -->
 
 ---
 
