@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Decentralized Todo List DApp in React and Solidity](https://dev.to/scofieldidehen/building-a-decentralized-todo-list-dapp-in-react-and-solidity-2p1e)
+- [Dev.to/JS] [Proton Keto Gummies Diabetes &lpar;Urgent MEDICAL Warning!&rpar;:](https://dev.to/protonketoacvg/proton-keto-gummies-diabetes-urgent-medical-warning-39jb)
+- [Dev.to/JS] [Installing VS Code &amp; How Websites Work | Sigma Web Development Course - Tutorial #1](https://dev.to/neelammkw/installing-vs-code-how-websites-work-sigma-web-development-course-tutorial-1-3n51)
 - [Dev.to/JS] [Crop images seamlessly in Node.js](https://dev.to/unburn/crop-images-seamlessly-in-nodejs-8di)
 - [Dev.to/JS] [Keep Store type sync with definition](https://dev.to/avinash8847/keep-store-type-sync-with-definition-1nah)
 - [Dev.to/JS] [From JavaScript to React: The Evolution of Web Interactivity](https://dev.to/codeparrot/from-javascript-to-react-the-evolution-of-web-interactivity-4fcm)
@@ -38,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to: Create an API Rest with Express - Basic](https://dev.to/davidzcode/how-to-create-an-api-rest-with-express-c2p)
 - [Lifehacker] [These Are My Two Favorite Shoulder Strengthening Routines](https://lifehacker.com/health/the-best-shoulder-strengthening-exercises)
 - [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)
-- [Dev.to/JS] [Frontend Developer Roadmap](https://dev.to/arnosolo/frontend-developer-roadmap-9in)
 - [Lifehacker] [Let Google Sit on Hold for You](https://lifehacker.com/tech/google-talk-to-live-representative-feature)
-- [Dev.to/JS] [Entendendo o Pub/Sub com Javascript](https://dev.to/lucasruy/entendendo-o-pubsub-com-javascript-595f)
 - [Lifehacker] [The Xbox Series S Is $80 Off Right Now](https://lifehacker.com/entertainment/xbox-series-s-sale-at-target)
-- [Dev.to/JS] [How to de-structure an array returned by url.pathname.split&lpar;‘/’&rpar;](https://dev.to/ramunarasinga/how-to-de-structure-an-array-returned-by-urlpathnamesplit-18el)
 - [Lifehacker] [These Dyson Cordless Vacuums Are up to 44% Off for Presidents Day](https://lifehacker.com/home/walmart-dyson-vacuum-sale-presidents-day)
 - [Lifehacker] [These Financial ‘Experts’ Got Scammed, so You Can Too &lpar;Really&rpar;](https://lifehacker.com/money/anyone-can-get-scammed-and-how-to-avoid-it)
 - [Lifehacker] [Google Just Showed Off a Powerful New Upgrade to Gemini](https://lifehacker.com/tech/what-is-gemini-15)
