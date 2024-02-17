@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Looking for a full stack developer to teach me programming techniques 寻找全栈开发人员来教我编程技术](https://dev.to/wlmsl/looking-for-a-full-stack-developer-to-teach-me-programming-techniques-xun-zhao-quan-zhan-kai-fa-ren-yuan-lai-jiao-wo-bian-cheng-ji-zhu-1jk4)
+- [Dev.to/JS] [Top 25+ Javascript Projects for Beginners with Source Code Github [2024 Latest Project]](https://dev.to/pratikpathak/top-25-javascript-projects-for-beginners-with-source-code-github-2024-latest-project-3cn1)
 - [Dev.to/JS] [Understand OAuth 2.0 code grant flow 🔐](https://dev.to/m4xshen/understand-oauth-20-code-grant-flow-3lnj)
 - [Dev.to/JS] [I made a adorable vscode extension!](https://dev.to/changchanghwang/i-made-a-adorable-vscode-extension-34ce)
 - [Dev.to/JS] [Angular&#39;s Evolution: Embracing Change in the Web Development Landscape](https://dev.to/this-is-angular/angulars-evolution-embracing-change-in-the-web-development-landscape-1hb8)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Functions: The Heroes of Your Code! ⚡️](https://dev.to/aniket_botre/javascript-functions-the-heroes-of-your-code-4l2d)
 - [Dev.to/JS] [Building a Decentralized Todo List DApp in React and Solidity](https://dev.to/scofieldidehen/building-a-decentralized-todo-list-dapp-in-react-and-solidity-2p1e)
 - [Dev.to/JS] [Proton Keto Gummies Diabetes &lpar;Urgent MEDICAL Warning!&rpar;:](https://dev.to/protonketoacvg/proton-keto-gummies-diabetes-urgent-medical-warning-39jb)
-- [Dev.to/JS] [Installing VS Code &amp; How Websites Work | Sigma Web Development Course - Tutorial #1](https://dev.to/neelammkw/installing-vs-code-how-websites-work-sigma-web-development-course-tutorial-1-3n51)
-- [Dev.to/JS] [Crop images seamlessly in Node.js](https://dev.to/unburn/crop-images-seamlessly-in-nodejs-8di)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)
 - [Lifehacker] [These Are My Two Favorite Shoulder Strengthening Routines](https://lifehacker.com/health/the-best-shoulder-strengthening-exercises)
 - [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)
