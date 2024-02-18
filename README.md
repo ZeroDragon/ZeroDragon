@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tackling Coding Challenges with Innovative Solutions](https://dev.to/nitin-rachabathuni/tackling-coding-challenges-with-innovative-solutions-2cfl)
+- [Dev.to/JS] [React Native Introduction for starters](https://dev.to/salmanafzal775/react-native-introduction-for-starters-pe8)
 - [Dev.to/JS] [Front-End Development Roadmap for 6 months](https://dev.to/evansifyke/front-end-development-roadmap-for-6-months-379l)
 - [Dev.to/JS] [I just enroll in harkirat&#39;s cohort, so let&#39;s jump in the journey of web dev with me](https://dev.to/ankiit02/i-just-enroll-in-harkirats-cohort-so-lets-jump-in-the-journey-of-web-dev-with-me-1ce0)
 - [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts212/buy-google-ads-accounts-3mb9)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Object Oriented Programming With JavaScript - Part 1 🚀](https://dev.to/alisamirali/object-oriented-programming-with-javascript-part-1-4c0e)
 - [Dev.to/JS] [A11y: Vanilla javascript aria-live announcer](https://dev.to/this-is-learning/a11y-vanilla-javascript-aria-live-announcer-784)
 - [Dev.to/JS] [Parcel with React](https://dev.to/sidddharthamishra/parcel-with-react-3c84)
-- [Dev.to/JS] [Use Gemini in your terminal.](https://dev.to/flameface/use-gemini-in-your-terminal-49i1)
-- [Dev.to/JS] [LeetCode 2667. Create Hello World Function &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2667-create-hello-world-function-easy-51n2)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
