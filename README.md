@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts212/buy-google-ads-accounts-3mb9)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/paulobensonn51/buy-verified-cash-app-account-877)
 - [Dev.to/JS] [Mastering Node.js Debugging: Demystifying 5 Common Errors and Effective Solutions](https://dev.to/tuanpv/mastering-nodejs-debugging-demystifying-5-common-errors-and-effective-solutions-3c7j)
 - [Dev.to/JS] [Setting Up ESLint and Prettier for a Clean Node.js Project](https://dev.to/tuanpv/setting-up-eslint-and-prettier-for-a-clean-nodejs-project-266n)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode 2667. Create Hello World Function &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2667-create-hello-world-function-easy-51n2)
 - [Dev.to/JS] [iOS 17.4 Update Ends PWA Support in the European Union](https://dev.to/lilxyzz/ios-174-update-ends-pwa-support-in-the-european-union-3p95)
 - [Dev.to/JS] [Multi-column drag and drop with SortableJS and Stimulus](https://dev.to/vladyio/multi-column-drag-and-drop-with-sortablejs-and-stimulus-3h6a)
-- [Dev.to/JS] [Access My Paid React Course for FREE for LIFETIME😍](https://dev.to/myogeshchavan97/access-my-paid-react-course-for-free-for-lifetime-50kf)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
