@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Parcel with React](https://dev.to/sidddharthamishra/parcel-with-react-3c84)
+- [Dev.to/JS] [Use Gemini in your terminal.](https://dev.to/flameface/use-gemini-in-your-terminal-49i1)
 - [Dev.to/JS] [LeetCode 2667. Create Hello World Function &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2667-create-hello-world-function-easy-51n2)
 - [Dev.to/JS] [iOS 17.4 Update Ends PWA Support in the European Union](https://dev.to/lilxyzz/ios-174-update-ends-pwa-support-in-the-european-union-3p95)
 - [Dev.to/JS] [Multi-column drag and drop with SortableJS and Stimulus](https://dev.to/vladyio/multi-column-drag-and-drop-with-sortablejs-and-stimulus-3h6a)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Elevate Your Website&#39;s Look: Dynamic Favicon with React](https://dev.to/khaled17/elevate-your-websites-look-dynamic-favicon-with-react-3i1h)
 - [Dev.to/JS] [HTML Collection VS Node List](https://dev.to/tapesh/html-collection-vs-node-list-2j3m)
 - [Dev.to/JS] [JavaScript Demystified: Unveiling the Code Wizardry - Hoisting](https://dev.to/scottibr/javascript-demystified-unveiling-the-code-wizardry-hoisting-3p5a)
-- [Dev.to/JS] [Understanding State Management in React: Avoiding Pitfalls with Custom Hooks](https://dev.to/mgeovany/understanding-state-management-in-react-avoiding-pitfalls-with-custom-hooks-5554)
-- [Dev.to/JS] [JavaScript Demystified: Unveiling the Code Wizardry - From Compilation to Execution](https://dev.to/scottibr/javascript-demystified-unveiling-the-code-wizardry-from-compilation-to-execution-dcf)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
