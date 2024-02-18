@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Medium API with JavaScript in 2024](https://dev.to/ritvik-nag/medium-api-with-javascript-in-2024-4h5a)
+- [Dev.to/JS] [Multi-column drag and drop with SortableJS and Stimulus](https://dev.to/vladyio/multi-column-drag-and-drop-with-sortablejs-and-stimulus-3h6a)
+- [Dev.to/JS] [Access My Paid React Course for FREE for LIFETIME😍](https://dev.to/myogeshchavan97/access-my-paid-react-course-for-free-for-lifetime-50kf)
+- [Dev.to/JS] [Navigating Medium API with JavaScript in 2024](https://dev.to/ritvik-nag/medium-api-with-javascript-in-2024-4h5a)
 - [Dev.to/JS] [Alternative of &#39;for&#39; in JavaScript](https://dev.to/akuad/alternative-of-for-in-javascript-3p71)
 - [Dev.to/JS] [Understanding Perceptrons Through a Practical Web Example](https://dev.to/spenceryonce/understanding-perceptrons-through-a-practical-web-example-11l4)
 - [Dev.to/JS] [Elevate Your Website&#39;s Look: Dynamic Favicon with React](https://dev.to/khaled17/elevate-your-websites-look-dynamic-favicon-with-react-3i1h)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Demystified: Unveiling the Code Wizardry - From Compilation to Execution](https://dev.to/scottibr/javascript-demystified-unveiling-the-code-wizardry-from-compilation-to-execution-dcf)
 - [Dev.to/JS] [Introducing Wonderful Strength of Fruit and Vegetables. https://digitalprx.gumroad.com/l/WonderfulStrengthofFruitandvegetables](https://dev.to/jasa02/introducing-wonderful-strength-of-fruit-and-vegetableshttpsdigitalprxgumroadcomlwonderfulstrengthoffruitandvegetables-58mk)
 - [Dev.to/JS] [CAI Tools extension for extra features on Character.AI](https://dev.to/irsat000/cai-tools-extension-for-extra-features-on-characterai-4n54)
-- [Dev.to/JS] [Visualizing Deep Learning Annotations - Interactive Video Player](https://dev.to/s-abinash/visualizing-deep-learning-annotations-interactive-video-player-4d3d)
-- [Dev.to/JS] [Principais métodos de array no Javascript &lpar;filter, map e reduce&rpar;.](https://dev.to/joao3g/principais-metodos-de-array-no-javascript-filter-map-e-reduce-2991)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
