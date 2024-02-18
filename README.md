@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/paulobensonn51/buy-verified-cash-app-account-877)
+- [Dev.to/JS] [Mastering Node.js Debugging: Demystifying 5 Common Errors and Effective Solutions](https://dev.to/tuanpv/mastering-nodejs-debugging-demystifying-5-common-errors-and-effective-solutions-3c7j)
+- [Dev.to/JS] [Setting Up ESLint and Prettier for a Clean Node.js Project](https://dev.to/tuanpv/setting-up-eslint-and-prettier-for-a-clean-nodejs-project-266n)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/paulobensonn51/buy-google-5-star-reviews-llk)
 - [Dev.to/JS] [Object Oriented Programming With JavaScript - Part 1 🚀](https://dev.to/alisamirali/object-oriented-programming-with-javascript-part-1-4c0e)
 - [Dev.to/JS] [A11y: Vanilla javascript aria-live announcer](https://dev.to/this-is-learning/a11y-vanilla-javascript-aria-live-announcer-784)
 - [Dev.to/JS] [Parcel with React](https://dev.to/sidddharthamishra/parcel-with-react-3c84)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [iOS 17.4 Update Ends PWA Support in the European Union](https://dev.to/lilxyzz/ios-174-update-ends-pwa-support-in-the-european-union-3p95)
 - [Dev.to/JS] [Multi-column drag and drop with SortableJS and Stimulus](https://dev.to/vladyio/multi-column-drag-and-drop-with-sortablejs-and-stimulus-3h6a)
 - [Dev.to/JS] [Access My Paid React Course for FREE for LIFETIME😍](https://dev.to/myogeshchavan97/access-my-paid-react-course-for-free-for-lifetime-50kf)
-- [Dev.to/JS] [Navigating Medium API with JavaScript in 2024](https://dev.to/ritvik-nag/medium-api-with-javascript-in-2024-4h5a)
-- [Dev.to/JS] [Alternative of &#39;for&#39; in JavaScript](https://dev.to/akuad/alternative-of-for-in-javascript-3p71)
-- [Dev.to/JS] [Understanding Perceptrons Through a Practical Web Example](https://dev.to/spenceryonce/understanding-perceptrons-through-a-practical-web-example-11l4)
-- [Dev.to/JS] [Elevate Your Website&#39;s Look: Dynamic Favicon with React](https://dev.to/khaled17/elevate-your-websites-look-dynamic-favicon-with-react-3i1h)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
