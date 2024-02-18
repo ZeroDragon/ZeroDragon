@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Upcoming Book: Vue 3 Step by Step: with Composition API &amp; TypeScript](https://dev.to/ms_74/upcoming-book-vue-3-step-by-step-with-composition-api-typescript-2m0b)
+- [Dev.to/JS] [Unleashing the Power of Customized Array Methods in JavaScript.](https://dev.to/nvish007/unleashing-the-power-of-customized-array-methods-in-javascript-31ih)
 - [Dev.to/JS] [How to Efficiently Monitor and Debug APIs in Real-Time?](https://dev.to/apitoolkit/how-can-i-efficiently-monitor-and-debug-my-apis-in-real-time-3432)
 - [Dev.to/JS] [Beginner friendly react ecommerce project &lpar;Open Source&rpar;](https://dev.to/np03a170120/beginner-friendly-react-ecommerce-project-open-source-4oa8)
 - [Dev.to/JS] [Syncing React State Across Tabs: Using Broadcast Channel API](https://dev.to/franciscomendes10866/syncing-react-state-across-tabs-using-broadcast-channel-api-420k)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Loops: A Beginner&#39;s Guide](https://dev.to/devendra_2806/javascript-loops-a-beginners-guide-59jl)
 - [Dev.to/JS] [JavaScript Equality Under the Lens: Enhancing React&#39;s Dependency Checks](https://dev.to/baliachbryan/javascript-equality-under-the-lens-enhancing-reacts-dependency-checks-5hah)
 - [Dev.to/JS] [Tackling Coding Challenges with Innovative Solutions](https://dev.to/nitin-rachabathuni/tackling-coding-challenges-with-innovative-solutions-2cfl)
-- [Dev.to/JS] [React Native Introduction for starters](https://dev.to/salmanafzal775/react-native-introduction-for-starters-pe8)
-- [Dev.to/JS] [Front-End Development Roadmap for 6 months](https://dev.to/evansifyke/front-end-development-roadmap-for-6-months-379l)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
