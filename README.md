@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Syncing React State Across Tabs: Using Broadcast Channel API](https://dev.to/franciscomendes10866/syncing-react-state-across-tabs-using-broadcast-channel-api-420k)
+- [Dev.to/JS] [Tired of Slow Loading Pages? Speed Up Your Web App with WebSockets](https://dev.to/lovestaco/tired-of-slow-loading-pages-speed-up-your-web-app-with-websockets-38dd)
+- [Dev.to/JS] [Introduction to HTML Web Components 💻📝](https://dev.to/aryan_shourie/introduction-to-html-web-components-3ijm)
+- [Dev.to/JS] [How can I recover stolen crypto investment?](https://dev.to/hutchersonchloe36/how-can-i-recover-stolen-crypto-investment-29ib)
 - [Dev.to/JS] [What is JavaScript Engine](https://dev.to/saif224q/what-is-javascript-engine-276k)
 - [Dev.to/JS] [JavaScript Loops: A Beginner&#39;s Guide](https://dev.to/devendra_2806/javascript-loops-a-beginners-guide-59jl)
 - [Dev.to/JS] [JavaScript Equality Under the Lens: Enhancing React&#39;s Dependency Checks](https://dev.to/baliachbryan/javascript-equality-under-the-lens-enhancing-reacts-dependency-checks-5hah)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Front-End Development Roadmap for 6 months](https://dev.to/evansifyke/front-end-development-roadmap-for-6-months-379l)
 - [Dev.to/JS] [I just enroll in harkirat&#39;s cohort, so let&#39;s jump in the journey of web dev with me](https://dev.to/ankiit02/i-just-enroll-in-harkirats-cohort-so-lets-jump-in-the-journey-of-web-dev-with-me-1ce0)
 - [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts212/buy-google-ads-accounts-3mb9)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/paulobensonn51/buy-verified-cash-app-account-877)
-- [Dev.to/JS] [Mastering Node.js Debugging: Demystifying 5 Common Errors and Effective Solutions](https://dev.to/tuanpv/mastering-nodejs-debugging-demystifying-5-common-errors-and-effective-solutions-3c7j)
-- [Dev.to/JS] [Setting Up ESLint and Prettier for a Clean Node.js Project](https://dev.to/tuanpv/setting-up-eslint-and-prettier-for-a-clean-nodejs-project-266n)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/paulobensonn51/buy-google-5-star-reviews-llk)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
