@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Object Oriented Programming With JavaScript - Part 1 🚀](https://dev.to/alisamirali/object-oriented-programming-with-javascript-part-1-4c0e)
+- [Dev.to/JS] [A11y: Vanilla javascript aria-live announcer](https://dev.to/this-is-learning/a11y-vanilla-javascript-aria-live-announcer-784)
 - [Dev.to/JS] [Parcel with React](https://dev.to/sidddharthamishra/parcel-with-react-3c84)
 - [Dev.to/JS] [Use Gemini in your terminal.](https://dev.to/flameface/use-gemini-in-your-terminal-49i1)
 - [Dev.to/JS] [LeetCode 2667. Create Hello World Function &lpar;Easy&rpar;](https://dev.to/yuridevat/leetcode-2667-create-hello-world-function-easy-51n2)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Alternative of &#39;for&#39; in JavaScript](https://dev.to/akuad/alternative-of-for-in-javascript-3p71)
 - [Dev.to/JS] [Understanding Perceptrons Through a Practical Web Example](https://dev.to/spenceryonce/understanding-perceptrons-through-a-practical-web-example-11l4)
 - [Dev.to/JS] [Elevate Your Website&#39;s Look: Dynamic Favicon with React](https://dev.to/khaled17/elevate-your-websites-look-dynamic-favicon-with-react-3i1h)
-- [Dev.to/JS] [HTML Collection VS Node List](https://dev.to/tapesh/html-collection-vs-node-list-2j3m)
-- [Dev.to/JS] [JavaScript Demystified: Unveiling the Code Wizardry - Hoisting](https://dev.to/scottibr/javascript-demystified-unveiling-the-code-wizardry-hoisting-3p5a)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
