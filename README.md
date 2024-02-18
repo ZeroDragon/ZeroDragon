@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding createContext in React: A Comprehensive Guide](https://dev.to/bookmdan/understanding-createcontext-in-react-a-comprehensive-guide-5469)
+- [Dev.to/JS] [A simple way to filter list with data attributes](https://dev.to/artydev/a-simple-way-to-filter-list-with-data-attributes-11oa)
 - [Dev.to/JS] [Unlocking Performance Gains in React: The useRef Advantage](https://dev.to/amanjaindev/unlocking-performance-gains-in-react-the-useref-advantage-mci)
 - [Dev.to/JS] [4 Ways to Listen to Events in Angular](https://dev.to/brianmtreese/4-ways-to-listen-to-events-in-angular-3be3)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 10 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-4ig2)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Efficiently Monitor and Debug APIs in Real-Time?](https://dev.to/apitoolkit/how-can-i-efficiently-monitor-and-debug-my-apis-in-real-time-3432)
 - [Dev.to/JS] [Beginner friendly react ecommerce project &lpar;Open Source&rpar;](https://dev.to/np03a170120/beginner-friendly-react-ecommerce-project-open-source-4oa8)
 - [Dev.to/JS] [Syncing React State Across Tabs: Using Broadcast Channel API](https://dev.to/franciscomendes10866/syncing-react-state-across-tabs-using-broadcast-channel-api-420k)
-- [Dev.to/JS] [Tired of Slow Loading Pages? Speed Up Your Web App with WebSockets](https://dev.to/lovestaco/tired-of-slow-loading-pages-speed-up-your-web-app-with-websockets-38dd)
-- [Dev.to/JS] [Introduction to HTML Web Components 💻📝](https://dev.to/aryan_shourie/introduction-to-html-web-components-3ijm)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
