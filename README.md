@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is JavaScript Engine](https://dev.to/saif224q/what-is-javascript-engine-276k)
+- [Dev.to/JS] [JavaScript Loops: A Beginner&#39;s Guide](https://dev.to/devendra_2806/javascript-loops-a-beginners-guide-59jl)
+- [Dev.to/JS] [JavaScript Equality Under the Lens: Enhancing React&#39;s Dependency Checks](https://dev.to/baliachbryan/javascript-equality-under-the-lens-enhancing-reacts-dependency-checks-5hah)
 - [Dev.to/JS] [Tackling Coding Challenges with Innovative Solutions](https://dev.to/nitin-rachabathuni/tackling-coding-challenges-with-innovative-solutions-2cfl)
 - [Dev.to/JS] [React Native Introduction for starters](https://dev.to/salmanafzal775/react-native-introduction-for-starters-pe8)
 - [Dev.to/JS] [Front-End Development Roadmap for 6 months](https://dev.to/evansifyke/front-end-development-roadmap-for-6-months-379l)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Node.js Debugging: Demystifying 5 Common Errors and Effective Solutions](https://dev.to/tuanpv/mastering-nodejs-debugging-demystifying-5-common-errors-and-effective-solutions-3c7j)
 - [Dev.to/JS] [Setting Up ESLint and Prettier for a Clean Node.js Project](https://dev.to/tuanpv/setting-up-eslint-and-prettier-for-a-clean-nodejs-project-266n)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/paulobensonn51/buy-google-5-star-reviews-llk)
-- [Dev.to/JS] [Object Oriented Programming With JavaScript - Part 1 🚀](https://dev.to/alisamirali/object-oriented-programming-with-javascript-part-1-4c0e)
-- [Dev.to/JS] [A11y: Vanilla javascript aria-live announcer](https://dev.to/this-is-learning/a11y-vanilla-javascript-aria-live-announcer-784)
-- [Dev.to/JS] [Parcel with React](https://dev.to/sidddharthamishra/parcel-with-react-3c84)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
