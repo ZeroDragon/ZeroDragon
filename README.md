@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Efficiently Monitor and Debug APIs in Real-Time?](https://dev.to/apitoolkit/how-can-i-efficiently-monitor-and-debug-my-apis-in-real-time-3432)
 - [Dev.to/JS] [Beginner friendly react ecommerce project &lpar;Open Source&rpar;](https://dev.to/np03a170120/beginner-friendly-react-ecommerce-project-open-source-4oa8)
 - [Dev.to/JS] [Syncing React State Across Tabs: Using Broadcast Channel API](https://dev.to/franciscomendes10866/syncing-react-state-across-tabs-using-broadcast-channel-api-420k)
 - [Dev.to/JS] [Tired of Slow Loading Pages? Speed Up Your Web App with WebSockets](https://dev.to/lovestaco/tired-of-slow-loading-pages-speed-up-your-web-app-with-websockets-38dd)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tackling Coding Challenges with Innovative Solutions](https://dev.to/nitin-rachabathuni/tackling-coding-challenges-with-innovative-solutions-2cfl)
 - [Dev.to/JS] [React Native Introduction for starters](https://dev.to/salmanafzal775/react-native-introduction-for-starters-pe8)
 - [Dev.to/JS] [Front-End Development Roadmap for 6 months](https://dev.to/evansifyke/front-end-development-roadmap-for-6-months-379l)
-- [Dev.to/JS] [I just enroll in harkirat&#39;s cohort, so let&#39;s jump in the journey of web dev with me](https://dev.to/ankiit02/i-just-enroll-in-harkirats-cohort-so-lets-jump-in-the-journey-of-web-dev-with-me-1ce0)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
