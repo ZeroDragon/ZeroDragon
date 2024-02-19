@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Design Patterns - Creational - Singleton](https://dev.to/nhannguyendevjs/javascript-design-patterns-creational-singleton-p99)
 - [Dev.to/JS] [Setting up GSAP&#39;s ScrollTrigger with Nuxt 3🔧🚀](https://dev.to/fitrakun/setting-up-gsaps-scrolltrigger-with-nuxt-3-3io)
 - [Dev.to/JS] [Implement the Singleton pattern](https://dev.to/phuocng/implement-the-singleton-pattern-3mbe)
 - [Dev.to/JS] [SEO with Next.js: Tips and Strategies for Better Ranking](https://dev.to/nitin-rachabathuni/seo-with-nextjs-tips-and-strategies-for-better-ranking-8oi)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Khuyến Mãi I9BET | Tổng Hợp Sự Kiện Hấp Dẫn &amp; Hot Nhất 2024](https://dev.to/i9betnetco/khuyen-mai-i9bet-tong-hop-su-kien-hap-dan-hot-nhat-2024-103e)
 - [Dev.to/JS] [Building a React Line Chart Component: A Comprehensive Guide](https://dev.to/rodionchachura/building-a-react-line-chart-component-a-comprehensive-guide-4f94)
 - [Dev.to/JS] [fb68one](https://dev.to/fb68one/fb68one-29fk)
-- [Dev.to/JS] [Setting Headers with Axios in Node JS](https://dev.to/alakkadshaw/setting-headers-with-axios-in-node-js-p01)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
