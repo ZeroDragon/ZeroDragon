@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 Must-Read Tech Newsletters for Software Engineers In 2024](https://dev.to/bigtechdigest/6-must-read-tech-newsletters-for-software-engineers-in-2024-22cc)
+- [Dev.to/JS] [A Non-noob Javascript Glossary for 2024, with Examples](https://dev.to/otamm/a-non-noob-javascript-glossary-for-2024-with-examples-4n4g)
+- [Dev.to/JS] [ProgpJS: a fast javascript engine for Go!](https://dev.to/johanpiquet/progpjs-a-fast-javascript-engine-for-go-294i)
+- [Dev.to/JS] [JSpreadsheet: O Plugin de Grade de Dados em JavaScript](https://dev.to/gessielsp/javascript-data-grid-plugin-109j)
 - [Dev.to/JS] [Unlocking Omni-channel Retail Success with Commercetools: A Guide with Practical Coding Example](https://dev.to/nitin-rachabathuni/unlocking-omni-channel-retail-success-with-commercetools-a-guide-with-practical-coding-example-9h4)
+- [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
 - [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
 - [Dev.to/JS] [Next.js](https://dev.to/paulnyabaro/nextjs-39n3)
 - [Dev.to/JS] [Hello](https://dev.to/github20k/hello-o4o)
@@ -39,10 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Smart-home Upgrades Are Worth the Money](https://lifehacker.com/tech/smart-home-upgrades-worth-the-money)
 - [Dev.to/JS] [Understanding and implementing Event-Driven Communication in Front-End Development](https://dev.to/superviz/understanding-and-implementing-event-driven-communication-in-front-end-development-e75)
 - [Lifehacker] [The Five Best Free Alternatives to Splitwise](https://lifehacker.com/tech/best-free-splitwise-alternatives)
-- [Dev.to/JS] [The First Post](https://dev.to/mjj/the-first-post-43j0)
-- [Dev.to/JS] [📢 Attention all merchandisers and retail professionals! 🛍️](https://dev.to/visuloninc/attention-all-merchandisers-and-retail-professionals-5e8b)
-- [Dev.to/JS] [Object Oriented Programming With JavaScript - Part 2 🚀](https://dev.to/alisamirali/object-oriented-programming-with-javascript-part-2-244m)
-- [Dev.to/JS] [Getting Started with Unity: A Beginner’s Guide](https://dev.to/cyberlord/getting-started-with-unity-a-beginners-guide-5b6g)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)
 - [Lifehacker] [The Apple Watch Series 8 Is $200 Off Right Now](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [20 Actually Great Movies Nominated for a Razzie Award](https://lifehacker.com/entertainment/best-movies-nominated-for-razzie-awards)
-- [Lifehacker] [We Should All Be Scared of OpenAI&#39;s New AI Video Generator](https://lifehacker.com/tech/we-should-be-scared-of-openais-realistic-ai-videos)
-- [Lifehacker] [Why Your Next Power Bank Should Have Graphene](https://lifehacker.com/tech/your-next-power-bank-should-have-graphene)<!-- TECH-POSTS:END -->
+- [Lifehacker] [We Should All Be Scared of OpenAI&#39;s New AI Video Generator](https://lifehacker.com/tech/we-should-be-scared-of-openais-realistic-ai-videos)<!-- TECH-POSTS:END -->
 
 ---
 
