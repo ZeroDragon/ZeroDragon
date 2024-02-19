@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The First Post](https://dev.to/mjj/the-first-post-43j0)
+- [Dev.to/JS] [📢 Attention all merchandisers and retail professionals! 🛍️](https://dev.to/visuloninc/attention-all-merchandisers-and-retail-professionals-5e8b)
+- [Dev.to/JS] [Object Oriented Programming With JavaScript - Part 2 🚀](https://dev.to/alisamirali/object-oriented-programming-with-javascript-part-2-244m)
 - [Dev.to/JS] [Getting Started with Unity: A Beginner’s Guide](https://dev.to/cyberlord/getting-started-with-unity-a-beginners-guide-5b6g)
 - [Dev.to/JS] [AutoLink: Simplifying Conditional Navigation in React Router Projects](https://dev.to/receter/autolink-simplifying-conditional-navigation-in-react-router-projects-4k6h)
 - [Dev.to/JS] [Implementing search in a React app](https://dev.to/paulstar200/implementing-search-in-a-react-app-10cm)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Treat your frontend like a server application with Rattus ORM](https://dev.to/lyohaplotinka/treat-your-frontend-like-a-server-application-with-rattus-orm-m2a)
 - [Dev.to/JS] [What is the difference between NPM And Yarn ?](https://dev.to/swhabitation/what-is-the-difference-between-npm-and-yarn--3db6)
 - [Dev.to/JS] [Eleventy - Create a global production flag](https://dev.to/robole/eleventy-create-a-global-production-flag-56p9)
-- [Dev.to/JS] [How to Connect MSSQL with Node.js](https://dev.to/y2j_0_0/how-to-connect-mssql-with-nodejs-22pn)
-- [Dev.to/JS] [🔥Mastering Event Emitters in Node.js](https://dev.to/angdecoder/mastering-event-emitters-in-nodejs-4ijc)
-- [Dev.to/JS] [Choosing API Framework?](https://dev.to/sanjaykhanssk/choosing-api-framework-o6e)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
