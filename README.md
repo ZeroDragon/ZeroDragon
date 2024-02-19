@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Choosing API Framework?](https://dev.to/sanjaykhanssk/choosing-api-framework-o6e)
+- [Dev.to/JS] [20 javascript open source projects worth collecting](https://dev.to/tnfe/20-javascript-open-source-projects-worth-collecting-2kb5)
 - [Dev.to/JS] [Colab on a project](https://dev.to/satoshee/colab-on-a-project-jhc)
 - [Dev.to/JS] [Detect MacOS, iOS, Windows, Android and Linux OS with JS](https://dev.to/webs95/detect-macos-ios-windows-android-and-linux-os-with-js-f7n)
 - [Dev.to/JS] [15 open source projects worth collecting](https://dev.to/tnfe/15-open-source-projects-worth-collecting-1h5)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implement the Singleton pattern](https://dev.to/phuocng/implement-the-singleton-pattern-3mbe)
 - [Dev.to/JS] [SEO with Next.js: Tips and Strategies for Better Ranking](https://dev.to/nitin-rachabathuni/seo-with-nextjs-tips-and-strategies-for-better-ranking-8oi)
 - [Dev.to/JS] [7 Components of our Notification Service we Shifted from Devs to PMs](https://dev.to/suprsend/7-components-of-our-notification-service-we-shifted-from-devs-to-pms-j7d)
-- [Dev.to/JS] [Busting Myths: The Truth About Software Development](https://dev.to/nitin-rachabathuni/busting-myths-the-truth-about-software-development-e6n)
-- [Dev.to/JS] [Introducción al DOM #3: Estilos y clases CSS, texto y HTML](https://dev.to/ulisesafcdev/introduccion-al-dom-3-estilos-y-clases-css-texto-y-html-45co)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
