@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeJS Security Best Practices](https://dev.to/mohammadfaisal/nodejs-security-best-practices-34ck)
+- [Dev.to/JS] [Treat your frontend like a server application with Rattus ORM](https://dev.to/lyohaplotinka/treat-your-frontend-like-a-server-application-with-rattus-orm-m2a)
+- [Dev.to/JS] [What is the difference between NPM And Yarn ?](https://dev.to/swhabitation/what-is-the-difference-between-npm-and-yarn--3db6)
 - [Dev.to/JS] [Eleventy - Create a global production flag](https://dev.to/robole/eleventy-create-a-global-production-flag-56p9)
 - [Dev.to/JS] [How to Connect MSSQL with Node.js](https://dev.to/y2j_0_0/how-to-connect-mssql-with-nodejs-22pn)
 - [Dev.to/JS] [🔥Mastering Event Emitters in Node.js](https://dev.to/angdecoder/mastering-event-emitters-in-nodejs-4ijc)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Detect MacOS, iOS, Windows, Android and Linux OS with JS](https://dev.to/webs95/detect-macos-ios-windows-android-and-linux-os-with-js-f7n)
 - [Dev.to/JS] [15 open source projects worth collecting](https://dev.to/tnfe/15-open-source-projects-worth-collecting-1h5)
 - [Dev.to/JS] [Be a better developer with these Git good practices](https://dev.to/aditya_raj_1010/be-a-better-developer-with-these-git-good-practices-2mkm)
-- [Dev.to/JS] [How do we foster a culture of continuous learning and professional development?](https://dev.to/yagnapandya9/how-do-we-foster-a-culture-of-continuous-learning-and-professional-development-7e0)
-- [Dev.to/JS] [JavaScript Design Patterns - Creational - Singleton](https://dev.to/nhannguyendevjs/javascript-design-patterns-creational-singleton-p99)
-- [Dev.to/JS] [Setting up GSAP&#39;s ScrollTrigger with Nuxt 3🔧🚀](https://dev.to/fitrakun/setting-up-gsaps-scrolltrigger-with-nuxt-3-3io)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
