@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setting up GSAP&#39;s ScrollTrigger with Nuxt 3🔧🚀](https://dev.to/fitrakun/setting-up-gsaps-scrolltrigger-with-nuxt-3-3io)
+- [Dev.to/JS] [Implement the Singleton pattern](https://dev.to/phuocng/implement-the-singleton-pattern-3mbe)
+- [Dev.to/JS] [SEO with Next.js: Tips and Strategies for Better Ranking](https://dev.to/nitin-rachabathuni/seo-with-nextjs-tips-and-strategies-for-better-ranking-8oi)
+- [Dev.to/JS] [7 Components of our Notification Service we Shifted from Devs to PMs](https://dev.to/suprsend/7-components-of-our-notification-service-we-shifted-from-devs-to-pms-j7d)
 - [Dev.to/JS] [Busting Myths: The Truth About Software Development](https://dev.to/nitin-rachabathuni/busting-myths-the-truth-about-software-development-e6n)
 - [Dev.to/JS] [Introducción al DOM #3: Estilos y clases CSS, texto y HTML](https://dev.to/ulisesafcdev/introduccion-al-dom-3-estilos-y-clases-css-texto-y-html-45co)
 - [Dev.to/JS] [Using Google Gemini With Flask, Vue and Vite](https://dev.to/ethand91/using-google-gemini-with-flask-vue-and-vite-57d)
 - [Dev.to/JS] [The Crucial Role of the &#39;Key&#39; Prop](https://dev.to/ayako_yk/the-crucial-role-of-the-key-prop-33gl)
 - [Dev.to/JS] [Khuyến Mãi I9BET | Tổng Hợp Sự Kiện Hấp Dẫn &amp; Hot Nhất 2024](https://dev.to/i9betnetco/khuyen-mai-i9bet-tong-hop-su-kien-hap-dan-hot-nhat-2024-103e)
+- [Dev.to/JS] [Building a React Line Chart Component: A Comprehensive Guide](https://dev.to/rodionchachura/building-a-react-line-chart-component-a-comprehensive-guide-4f94)
 - [Dev.to/JS] [fb68one](https://dev.to/fb68one/fb68one-29fk)
 - [Dev.to/JS] [Setting Headers with Axios in Node JS](https://dev.to/alakkadshaw/setting-headers-with-axios-in-node-js-p01)
-- [Dev.to/JS] [Understanding createContext in React: A Comprehensive Guide](https://dev.to/bookmdan/understanding-createcontext-in-react-a-comprehensive-guide-5469)
-- [Dev.to/JS] [A simple way to filter list with data attributes](https://dev.to/artydev/a-simple-way-to-filter-list-with-data-attributes-11oa)
-- [Dev.to/JS] [Unlocking Performance Gains in React: The useRef Advantage](https://dev.to/amanjaindev/unlocking-performance-gains-in-react-the-useref-advantage-mci)
-- [Dev.to/JS] [4 Ways to Listen to Events in Angular](https://dev.to/brianmtreese/4-ways-to-listen-to-events-in-angular-3be3)
-- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 10 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-4ig2)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
