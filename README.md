@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resize and Optimise Images Using Free API - ImageCDN](https://dev.to/sh20raj1/resize-and-optimise-images-using-free-api-imagecdn-7c4)
+- [Dev.to/JS] [Rich-text editor with react-native: Upload photo](https://dev.to/guyserfaty/rich-text-editor-with-react-native-upload-photo-3hgo)
+- [Lifehacker] [These Smart-home Upgrades Are Worth the Money](https://lifehacker.com/tech/smart-home-upgrades-worth-the-money)
+- [Dev.to/JS] [Understanding and implementing Event-Driven Communication in Front-End Development](https://dev.to/superviz/understanding-and-implementing-event-driven-communication-in-front-end-development-e75)
+- [Lifehacker] [The Five Best Free Alternatives to Splitwise](https://lifehacker.com/tech/best-free-splitwise-alternatives)
 - [Dev.to/JS] [The First Post](https://dev.to/mjj/the-first-post-43j0)
 - [Dev.to/JS] [📢 Attention all merchandisers and retail professionals! 🛍️](https://dev.to/visuloninc/attention-all-merchandisers-and-retail-professionals-5e8b)
 - [Dev.to/JS] [Object Oriented Programming With JavaScript - Part 2 🚀](https://dev.to/alisamirali/object-oriented-programming-with-javascript-part-2-244m)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Scroll Progress Bar using CSS and JavaScript in React](https://dev.to/surajondev/creating-scroll-progress-bar-using-css-and-javascript-in-react-85o)
 - [Dev.to/JS] [987. Vertical Order Traversal of a Binary Tree &lpar;HARD&rpar;](https://dev.to/mqshaikh8/987-vertical-order-traversal-of-a-binary-tree-hard-5fjd)
 - [Dev.to/JS] [NodeJS Security Best Practices](https://dev.to/mohammadfaisal/nodejs-security-best-practices-34ck)
-- [Dev.to/JS] [Treat your frontend like a server application with Rattus ORM](https://dev.to/lyohaplotinka/treat-your-frontend-like-a-server-application-with-rattus-orm-m2a)
-- [Dev.to/JS] [What is the difference between NPM And Yarn ?](https://dev.to/swhabitation/what-is-the-difference-between-npm-and-yarn--3db6)
-- [Dev.to/JS] [Eleventy - Create a global production flag](https://dev.to/robole/eleventy-create-a-global-production-flag-56p9)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Next Power Bank Should Have Graphene](https://lifehacker.com/tech/your-next-power-bank-should-have-graphene)
 - [Lifehacker] [The Wireless Power Tools Every Homeowner Should Own](https://lifehacker.com/home/wireless-power-tools-every-homeowner-should-own)
 - [Lifehacker] [You Might Get a Collection Letter From the IRS Soon](https://lifehacker.com/money/what-to-do-if-you-get-an-irs-collection-letter)
-- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
-- [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)<!-- TECH-POSTS:END -->
 
 ---
 
