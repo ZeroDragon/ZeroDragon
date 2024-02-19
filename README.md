@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking Omni-channel Retail Success with Commercetools: A Guide with Practical Coding Example](https://dev.to/nitin-rachabathuni/unlocking-omni-channel-retail-success-with-commercetools-a-guide-with-practical-coding-example-9h4)
+- [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
 - [Dev.to/JS] [Next.js](https://dev.to/paulnyabaro/nextjs-39n3)
 - [Dev.to/JS] [Hello](https://dev.to/github20k/hello-o4o)
 - [Dev.to/JS] [the main JavaScript tag](https://dev.to/ishimwekevin/the-main-javascript-tag-5667)
+- [Lifehacker] [Three Reasons to Upgrade Your Mesh Wifi System for Wi-Fi 6](https://lifehacker.com/tech/upgrade-your-mesh-wi-fi-system-for-wifi-6)
 - [Dev.to/JS] [ServiceNow KB #1](https://dev.to/kavishkarajaka1/servicenow-kb-1-3c7j)
+- [Lifehacker] [You Can Now Run Your Own ChatGPT From Your Nvidia GPU](https://lifehacker.com/tech/run-local-ai-llm-from-nvidia-gpu)
 - [Dev.to/JS] [Resize and Optimise Images Using Free API - ImageCDN](https://dev.to/sh20raj1/resize-and-optimise-images-using-free-api-imagecdn-7c4)
 - [Dev.to/JS] [Rich-text editor with react-native: Upload photo](https://dev.to/guyserfaty/rich-text-editor-with-react-native-upload-photo-3hgo)
 - [Lifehacker] [These Smart-home Upgrades Are Worth the Money](https://lifehacker.com/tech/smart-home-upgrades-worth-the-money)
@@ -39,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [📢 Attention all merchandisers and retail professionals! 🛍️](https://dev.to/visuloninc/attention-all-merchandisers-and-retail-professionals-5e8b)
 - [Dev.to/JS] [Object Oriented Programming With JavaScript - Part 2 🚀](https://dev.to/alisamirali/object-oriented-programming-with-javascript-part-2-244m)
 - [Dev.to/JS] [Getting Started with Unity: A Beginner’s Guide](https://dev.to/cyberlord/getting-started-with-unity-a-beginners-guide-5b6g)
-- [Dev.to/JS] [AutoLink: Simplifying Conditional Navigation in React Router Projects](https://dev.to/receter/autolink-simplifying-conditional-navigation-in-react-router-projects-4k6h)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Apple Watch Series 8 Is $200 Off Right Now](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [20 Actually Great Movies Nominated for a Razzie Award](https://lifehacker.com/entertainment/best-movies-nominated-for-razzie-awards)
 - [Lifehacker] [We Should All Be Scared of OpenAI&#39;s New AI Video Generator](https://lifehacker.com/tech/we-should-be-scared-of-openais-realistic-ai-videos)
-- [Lifehacker] [Why Your Next Power Bank Should Have Graphene](https://lifehacker.com/tech/your-next-power-bank-should-have-graphene)
-- [Lifehacker] [The Wireless Power Tools Every Homeowner Should Own](https://lifehacker.com/home/wireless-power-tools-every-homeowner-should-own)
-- [Lifehacker] [You Might Get a Collection Letter From the IRS Soon](https://lifehacker.com/money/what-to-do-if-you-get-an-irs-collection-letter)
-- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Your Next Power Bank Should Have Graphene](https://lifehacker.com/tech/your-next-power-bank-should-have-graphene)<!-- TECH-POSTS:END -->
 
 ---
 
