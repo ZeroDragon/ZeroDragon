@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [fb68one](https://dev.to/fb68one/fb68one-29fk)
 - [Dev.to/JS] [Setting Headers with Axios in Node JS](https://dev.to/alakkadshaw/setting-headers-with-axios-in-node-js-p01)
 - [Dev.to/JS] [Understanding createContext in React: A Comprehensive Guide](https://dev.to/bookmdan/understanding-createcontext-in-react-a-comprehensive-guide-5469)
 - [Dev.to/JS] [A simple way to filter list with data attributes](https://dev.to/artydev/a-simple-way-to-filter-list-with-data-attributes-11oa)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Upcoming Book: Vue 3 Step by Step: with Composition API &amp; TypeScript](https://dev.to/ms_74/upcoming-book-vue-3-step-by-step-with-composition-api-typescript-2m0b)
 - [Dev.to/JS] [Unleashing the Power of Customized Array Methods in JavaScript.](https://dev.to/nvish007/unleashing-the-power-of-customized-array-methods-in-javascript-31ih)
 - [Dev.to/JS] [How to Efficiently Monitor and Debug APIs in Real-Time?](https://dev.to/apitoolkit/how-can-i-efficiently-monitor-and-debug-my-apis-in-real-time-3432)
-- [Dev.to/JS] [Beginner friendly react ecommerce project &lpar;Open Source&rpar;](https://dev.to/np03a170120/beginner-friendly-react-ecommerce-project-open-source-4oa8)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
