@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js](https://dev.to/paulnyabaro/nextjs-39n3)
+- [Dev.to/JS] [Hello](https://dev.to/github20k/hello-o4o)
+- [Dev.to/JS] [the main JavaScript tag](https://dev.to/ishimwekevin/the-main-javascript-tag-5667)
+- [Dev.to/JS] [ServiceNow KB #1](https://dev.to/kavishkarajaka1/servicenow-kb-1-3c7j)
 - [Dev.to/JS] [Resize and Optimise Images Using Free API - ImageCDN](https://dev.to/sh20raj1/resize-and-optimise-images-using-free-api-imagecdn-7c4)
 - [Dev.to/JS] [Rich-text editor with react-native: Upload photo](https://dev.to/guyserfaty/rich-text-editor-with-react-native-upload-photo-3hgo)
 - [Lifehacker] [These Smart-home Upgrades Are Worth the Money](https://lifehacker.com/tech/smart-home-upgrades-worth-the-money)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Object Oriented Programming With JavaScript - Part 2 🚀](https://dev.to/alisamirali/object-oriented-programming-with-javascript-part-2-244m)
 - [Dev.to/JS] [Getting Started with Unity: A Beginner’s Guide](https://dev.to/cyberlord/getting-started-with-unity-a-beginners-guide-5b6g)
 - [Dev.to/JS] [AutoLink: Simplifying Conditional Navigation in React Router Projects](https://dev.to/receter/autolink-simplifying-conditional-navigation-in-react-router-projects-4k6h)
-- [Dev.to/JS] [Implementing search in a React app](https://dev.to/paulstar200/implementing-search-in-a-react-app-10cm)
-- [Dev.to/JS] [Creating Scroll Progress Bar using CSS and JavaScript in React](https://dev.to/surajondev/creating-scroll-progress-bar-using-css-and-javascript-in-react-85o)
-- [Dev.to/JS] [987. Vertical Order Traversal of a Binary Tree &lpar;HARD&rpar;](https://dev.to/mqshaikh8/987-vertical-order-traversal-of-a-binary-tree-hard-5fjd)
-- [Dev.to/JS] [NodeJS Security Best Practices](https://dev.to/mohammadfaisal/nodejs-security-best-practices-34ck)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
