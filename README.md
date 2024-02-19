@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with Unity: A Beginner’s Guide](https://dev.to/cyberlord/getting-started-with-unity-a-beginners-guide-5b6g)
+- [Dev.to/JS] [AutoLink: Simplifying Conditional Navigation in React Router Projects](https://dev.to/receter/autolink-simplifying-conditional-navigation-in-react-router-projects-4k6h)
+- [Dev.to/JS] [Implementing search in a React app](https://dev.to/paulstar200/implementing-search-in-a-react-app-10cm)
+- [Dev.to/JS] [Creating Scroll Progress Bar using CSS and JavaScript in React](https://dev.to/surajondev/creating-scroll-progress-bar-using-css-and-javascript-in-react-85o)
+- [Dev.to/JS] [987. Vertical Order Traversal of a Binary Tree &lpar;HARD&rpar;](https://dev.to/mqshaikh8/987-vertical-order-traversal-of-a-binary-tree-hard-5fjd)
 - [Dev.to/JS] [NodeJS Security Best Practices](https://dev.to/mohammadfaisal/nodejs-security-best-practices-34ck)
 - [Dev.to/JS] [Treat your frontend like a server application with Rattus ORM](https://dev.to/lyohaplotinka/treat-your-frontend-like-a-server-application-with-rattus-orm-m2a)
 - [Dev.to/JS] [What is the difference between NPM And Yarn ?](https://dev.to/swhabitation/what-is-the-difference-between-npm-and-yarn--3db6)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Connect MSSQL with Node.js](https://dev.to/y2j_0_0/how-to-connect-mssql-with-nodejs-22pn)
 - [Dev.to/JS] [🔥Mastering Event Emitters in Node.js](https://dev.to/angdecoder/mastering-event-emitters-in-nodejs-4ijc)
 - [Dev.to/JS] [Choosing API Framework?](https://dev.to/sanjaykhanssk/choosing-api-framework-o6e)
-- [Dev.to/JS] [20 javascript open source projects worth collecting](https://dev.to/tnfe/20-javascript-open-source-projects-worth-collecting-2kb5)
-- [Dev.to/JS] [Colab on a project](https://dev.to/satoshee/colab-on-a-project-jhc)
-- [Dev.to/JS] [Detect MacOS, iOS, Windows, Android and Linux OS with JS](https://dev.to/webs95/detect-macos-ios-windows-android-and-linux-os-with-js-f7n)
-- [Dev.to/JS] [15 open source projects worth collecting](https://dev.to/tnfe/15-open-source-projects-worth-collecting-1h5)
-- [Dev.to/JS] [Be a better developer with these Git good practices](https://dev.to/aditya_raj_1010/be-a-better-developer-with-these-git-good-practices-2mkm)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
