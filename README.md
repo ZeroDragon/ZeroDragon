@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Boove by Flubel](https://dev.to/mrfiend179/boove-by-flubel-53om)
 - [Dev.to/JS] [6 Must-Read Tech Newsletters for Software Engineers In 2024](https://dev.to/bigtechdigest/6-must-read-tech-newsletters-for-software-engineers-in-2024-22cc)
 - [Dev.to/JS] [A Non-noob Javascript Glossary for 2024, with Examples](https://dev.to/otamm/a-non-noob-javascript-glossary-for-2024-with-examples-4n4g)
 - [Dev.to/JS] [ProgpJS: a fast javascript engine for Go!](https://dev.to/johanpiquet/progpjs-a-fast-javascript-engine-for-go-294i)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resize and Optimise Images Using Free API - ImageCDN](https://dev.to/sh20raj1/resize-and-optimise-images-using-free-api-imagecdn-7c4)
 - [Dev.to/JS] [Rich-text editor with react-native: Upload photo](https://dev.to/guyserfaty/rich-text-editor-with-react-native-upload-photo-3hgo)
 - [Lifehacker] [These Smart-home Upgrades Are Worth the Money](https://lifehacker.com/tech/smart-home-upgrades-worth-the-money)
-- [Dev.to/JS] [Understanding and implementing Event-Driven Communication in Front-End Development](https://dev.to/superviz/understanding-and-implementing-event-driven-communication-in-front-end-development-e75)
 - [Lifehacker] [The Five Best Free Alternatives to Splitwise](https://lifehacker.com/tech/best-free-splitwise-alternatives)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
