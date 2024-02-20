@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Be a better developer with these Git good practices](https://dev.to/aditya_raj_1010/be-a-better-developer-with-these-git-good-practices-58p8)
+- [Dev.to/JS] [Doodle 0.10.0 can host React, supports WebAssembly and much more](https://dev.to/pusolito/doodle-0100-can-host-react-supports-webassembly-and-much-more-3pmi)
+- [Dev.to/JS] [EVENT BUBBLING &amp; CAPTURING](https://dev.to/maame_afia/event-bubbling-capturing-1pba)
+- [Dev.to/JS] [How to make a cursor image Hover effect with CSS &amp; JS!](https://dev.to/lensco825/how-to-make-a-cursor-image-hover-effect-with-css-js-3nh5)
 - [Dev.to/JS] [Vue Primeiras Impressões](https://dev.to/devhat/vue-primeiras-impressoes-40d9)
 - [Dev.to/JS] [JavaScript ES6 and beyond](https://dev.to/sandrorybarik/javascript-es6-and-beyond-59ep)
 - [Dev.to/JS] [Coding Cosmos Exploration](https://dev.to/kavin_07/coding-cosmos-exploration-4ki4)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pag-IBIG MP2: What it is and How to Invest in this Government Savings Program 2023](https://dev.to/scrubscleaning/httpspagibigmp2calculatornetpag-ibig-mp2-311a)
 - [Dev.to/JS] [How to add a new Document to firestore using Server component and server action | Nextjs 14](https://dev.to/thatanjan/how-to-add-a-new-document-to-firestore-using-server-component-and-server-action-nextjs-14-5c8b)
 - [Dev.to/JS] [Encapsulation, Closure, and a Higher Order Function walk into a Hackathon.](https://dev.to/shavonharrisdev/encapsulation-closure-and-a-higher-order-function-walk-into-a-hackathon-403b)
-- [Dev.to/JS] [Understanding Branch Coverage in Software Testing](https://dev.to/arindam_1729/understanding-branch-coverage-in-software-testing-3ado)
 - [Lifehacker] [How to Decide Whether Gemini Advanced Is Worth $20 a Month](https://lifehacker.com/tech/google-gemini-advanced-review)
-- [Dev.to/JS] [How To Get Data By ID On Click - Firebase Firestore Database Tutorial](https://dev.to/rajatamil/how-to-get-data-by-id-on-click-firebase-firestore-database-tutorial-1p02)
-- [Dev.to/JS] [Preventing Email Spoofing Attacks on your SMTP Server](https://dev.to/scofieldidehen/preventing-email-spoofing-attacks-on-your-smtp-server-19fc)
-- [Dev.to/JS] [Microsoft PowerPoint Free Download](https://dev.to/farfar/microsoft-powerpoint-free-download-2pmk)
 - [Lifehacker] [Easy &lpar;and Cheap&rpar; Home Upgrades That Make a Big Difference](https://lifehacker.com/home/cheap-home-upgrades-that-make-a-difference)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
 - [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
