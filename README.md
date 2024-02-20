@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Simple CRM with Vue: Implementing Vuetify Framework](https://dev.to/webcraft-notes/building-simple-crm-with-vue-implementing-vuetify-framework-1faa)
+- [Dev.to/JS] [Pag-IBIG MP2: What it is and How to Invest in this Government Savings Program 2023](https://dev.to/scrubscleaning/httpspagibigmp2calculatornetpag-ibig-mp2-311a)
+- [Dev.to/JS] [How to add a new Document to firestore using Server component and server action | Nextjs 14](https://dev.to/thatanjan/how-to-add-a-new-document-to-firestore-using-server-component-and-server-action-nextjs-14-5c8b)
+- [Dev.to/JS] [Encapsulation, Closure, and a Higher Order Function walk into a Hackathon.](https://dev.to/shavonharrisdev/encapsulation-closure-and-a-higher-order-function-walk-into-a-hackathon-403b)
+- [Dev.to/JS] [Understanding Branch Coverage in Software Testing](https://dev.to/arindam_1729/understanding-branch-coverage-in-software-testing-3ado)
+- [Dev.to/JS] [How To Get Data By ID On Click - Firebase Firestore Database Tutorial](https://dev.to/rajatamil/how-to-get-data-by-id-on-click-firebase-firestore-database-tutorial-1p02)
 - [Dev.to/JS] [Preventing Email Spoofing Attacks on your SMTP Server](https://dev.to/scofieldidehen/preventing-email-spoofing-attacks-on-your-smtp-server-19fc)
 - [Dev.to/JS] [Microsoft PowerPoint Free Download](https://dev.to/farfar/microsoft-powerpoint-free-download-2pmk)
 - [Dev.to/JS] [Must-Have Practical Tutorial on Node.js Modules for Badass Beginners](https://dev.to/sandorturanszky/must-have-practical-tutorial-on-nodejs-modules-for-badass-beginners-npk)
@@ -33,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A &lpar;more&rpar; realistic card flip animation](https://dev.to/auroratide/a-more-realistic-card-flip-animation-3k9m)
 - [Dev.to/JS] [Two shades of mocking a function in Vitest](https://dev.to/mayashavin/two-shades-of-mocking-a-function-in-vitest-41im)
 - [Dev.to/JS] [@ts-ignore is a symptom of a code smell](https://dev.to/shailennaidoo/ts-ignore-is-a-symptom-of-a-code-smell-38ck)
-- [Dev.to/JS] [⚛️Diferenças entre useMemo e useCallback](https://dev.to/girordo/diferencas-entre-usememo-e-usecallback-3jlm)
-- [Dev.to/JS] [Ramblings about JavaScript scope, weird errors and frameworks](https://dev.to/whitep4nth3r/ramblings-about-javascript-scope-weird-errors-and-frameworks-912)
-- [Dev.to/JS] [#reactjs 19 esta mas cerca de lo que pensamos](https://dev.to/yosmarcode/reactjs-19-esta-mas-cerca-de-lo-que-pensamos-4n12)
-- [Dev.to/JS] [Disable Right Click and Protect Images/Videos - Safeguarding Your Website Content](https://dev.to/sh20raj1/disable-right-click-and-protect-imagesvideos-safeguarding-your-website-content-578n)
-- [Dev.to/JS] [What Is The Difference Between Create React App And Vite ?](https://dev.to/swhabitation/what-is-the-difference-between-create-react-app-and-vite--32ic)
-- [Dev.to/JS] [Debouncing vs AbortController: Maximizing API Efficiency for Seamless User Experience](https://dev.to/amangupta/optimizing-ux-balancing-debouncing-and-api-call-abortion-3eb9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
 - [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
 - [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
