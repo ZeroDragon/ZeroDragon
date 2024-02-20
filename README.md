@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Essential React Custom Hooks](https://dev.to/ahnafhasan/essential-react-custom-hooks-1ami)
+- [Dev.to/JS] [Fostering Diversity in Tech: Strategies for Inclusive Software Development](https://dev.to/nitin-rachabathuni/fostering-diversity-in-tech-strategies-for-inclusive-software-development-50p7)
+- [Dev.to/JS] [Create Telegram Bot - NextJS and Hosting on Vercel - Free](https://dev.to/sh20raj1/create-telegram-bot-nextjs-and-hosting-on-vercel-free-2cel)
 - [Dev.to/JS] [Buy Gmail Accounts](https://dev.to/dylanwicks/buy-gmail-accounts-44hd)
 - [Dev.to/JS] [Buy Linkedin Accounts](https://dev.to/dylanwicks/buy-linkedin-accounts-59e4)
 - [Dev.to/JS] [Buy Facebook Accounts](https://dev.to/dylanwicks/buy-facebook-accounts-b6e)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Just Javascript](https://dev.to/armando0369/just-javascript-2fj4)
 - [Dev.to/JS] [Demystifying Buffers in Node.js](https://dev.to/angdecoder/demystifying-buffers-in-nodejs-d2c)
 - [Dev.to/JS] [How to build a rich text editor for your React app with CKEditor 5](https://dev.to/honeybadger/how-to-build-a-rich-text-editor-for-your-react-app-with-ckeditor-5-2dim)
-- [Dev.to/JS] [react js is not worth](https://dev.to/aditya_raj_1010/react-js-is-not-worth-2518)
-- [Dev.to/JS] [Implementing a Loading Page State in ReactJS: Enhancing User Experience with Loading Indicators](https://dev.to/mandeepsng/implementing-a-loading-page-state-in-reactjs-enhancing-user-experience-with-loading-indicators-nep)
-- [Dev.to/JS] [Free website hosting for developers](https://dev.to/sanjaykhanssk/free-website-hosting-for-developers-2i2c)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
 - [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
 - [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
