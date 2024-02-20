@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [dghjfhjfgj](https://dev.to/github20k/dghjfhjfgj-1inj)
 - [Dev.to/JS] [Observability with Express and Busgnag - In a easy way](https://dev.to/yelldutz/observability-with-express-and-busgnag-in-a-easy-way-46bl)
 - [Dev.to/JS] [SVG charts from scratch in 2024 &lpar;a better AWS visualization system&rpar;](https://dev.to/dchahla/svg-charts-from-scratch-in-2024-a-better-aws-visualization-system-jhk)
 - [Dev.to/JS] [How to notify tabs with the same origin using Broadcast Channel](https://dev.to/alinaramfu/how-to-notify-tabs-with-the-same-origin-using-broadcast-channel-47k4)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boost Your Efficiency: Tech-Powered Tips for Peak Performance](https://dev.to/samlary/boost-your-efficiency-tech-powered-tips-for-peak-performance-2g34)
 - [Dev.to/JS] [Boove by Flubel](https://dev.to/mrfiend179/boove-by-flubel-53om)
 - [Dev.to/JS] [6 Must-Read Tech Newsletters for Software Engineers In 2024](https://dev.to/bigtechdigest/6-must-read-tech-newsletters-for-software-engineers-in-2024-22cc)
-- [Dev.to/JS] [A Non-noob Javascript Glossary for 2024, with Examples](https://dev.to/otamm/a-non-noob-javascript-glossary-for-2024-with-examples-4n4g)
 - [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
 - [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
 - [Lifehacker] [Three Reasons to Upgrade Your Mesh Wifi System for Wi-Fi 6](https://lifehacker.com/tech/upgrade-your-mesh-wi-fi-system-for-wifi-6)
