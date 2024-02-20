@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build a rich text editor for your React app with CKEditor 5](https://dev.to/honeybadger/how-to-build-a-rich-text-editor-for-your-react-app-with-ckeditor-5-2dim)
+- [Dev.to/JS] [react js is not worth](https://dev.to/aditya_raj_1010/react-js-is-not-worth-2518)
+- [Dev.to/JS] [Implementing a Loading Page State in ReactJS: Enhancing User Experience with Loading Indicators](https://dev.to/mandeepsng/implementing-a-loading-page-state-in-reactjs-enhancing-user-experience-with-loading-indicators-nep)
+- [Dev.to/JS] [Free website hosting for developers](https://dev.to/sanjaykhanssk/free-website-hosting-for-developers-2i2c)
+- [Dev.to/JS] [JavaScript for Beginners: A Comprehensive Guide](https://dev.to/tonoy56/javascript-for-beginners-a-comprehensive-guide-52i)
 - [Dev.to/JS] [SopKit: Your Premier Online JavaScript Tools Hub](https://dev.to/sh20raj1/sopkit-your-premier-online-javascript-tools-hub-3a7i)
 - [Dev.to/JS] [Date Methods JavaScript](https://dev.to/iamvibhakar/date-methods-javascript-3h5h)
 - [Dev.to/JS] [Use Dynamic Hook](https://dev.to/ethernmyth/use-dynamic-hook-177c)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Convert HTML to PDF in React with react-pdf](https://dev.to/imrankh13332994/convert-html-to-pdf-in-react-with-react-pdf-3c0b)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
 - [Dev.to/JS] [Say goodbye to callback hell](https://dev.to/phuocng/say-goodbye-to-callback-hell-3bic)
-- [Dev.to/JS] [dghjfhjfgj](https://dev.to/github20k/dghjfhjfgj-1inj)
-- [Dev.to/JS] [Observability with Express and Busgnag - In a easy way](https://dev.to/yelldutz/observability-with-express-and-busgnag-in-a-easy-way-46bl)
-- [Dev.to/JS] [How to notify tabs with the same origin using Broadcast Channel](https://dev.to/alinaramfu/how-to-notify-tabs-with-the-same-origin-using-broadcast-channel-47k4)
-- [Dev.to/JS] [Implicit Dependencies Management with Nx: A Practical Guide through Real-World Case Studies](https://dev.to/this-is-learning/implicit-dependencies-management-with-nx-a-practical-guide-through-real-world-case-studies-59kd)
-- [Dev.to/JS] [CommonJS vs ES Modules: the shift from require to import](https://dev.to/nikolasbarwicki/commonjs-vs-es-modules-the-shift-from-require-to-import-18fo)
 - [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
 - [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
 - [Lifehacker] [Three Reasons to Upgrade Your Mesh Wifi System for Wi-Fi 6](https://lifehacker.com/tech/upgrade-your-mesh-wi-fi-system-for-wifi-6)
