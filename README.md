@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use Dynamic Hook](https://dev.to/ethernmyth/use-dynamic-hook-177c)
+- [Dev.to/JS] [Deploying a Node.js Site on Vercel Using vercel.json](https://dev.to/sh20raj1/deploying-a-nodejs-site-on-vercel-using-verceljson-3p5l)
+- [Dev.to/JS] [Understanding Static Site Generation vs. Server-Side Rendering in Next.js](https://dev.to/nitin-rachabathuni/understanding-static-site-generation-vs-server-side-rendering-in-nextjs-3390)
+- [Dev.to/JS] [Convert HTML to PDF in React with react-pdf](https://dev.to/imrankh13332994/convert-html-to-pdf-in-react-with-react-pdf-3c0b)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
 - [Dev.to/JS] [Say goodbye to callback hell](https://dev.to/phuocng/say-goodbye-to-callback-hell-3bic)
 - [Dev.to/JS] [dghjfhjfgj](https://dev.to/github20k/dghjfhjfgj-1inj)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CommonJS vs ES Modules: the shift from require to import](https://dev.to/nikolasbarwicki/commonjs-vs-es-modules-the-shift-from-require-to-import-18fo)
 - [Dev.to/JS] [JavaScript Callbacks Made Easy: Learn, Apply &amp; Conquer! 🚀](https://dev.to/suriyadisha/javascript-callbacks-made-easy-learn-apply-conquer-346d)
 - [Dev.to/JS] [Episode 24/07: Angular 17.2, optional RxJs](https://dev.to/this-is-angular/episode-2407-angular-172-optional-rxjs-2i0c)
-- [Dev.to/JS] [Choosing Your Weapon: React or Next.js](https://dev.to/mikevarenek/choosing-your-weapon-react-or-nextjs-3nj0)
-- [Dev.to/JS] [Boost Your Efficiency: Tech-Powered Tips for Peak Performance](https://dev.to/samlary/boost-your-efficiency-tech-powered-tips-for-peak-performance-2g34)
-- [Dev.to/JS] [Boove by Flubel](https://dev.to/mrfiend179/boove-by-flubel-53om)
-- [Dev.to/JS] [6 Must-Read Tech Newsletters for Software Engineers In 2024](https://dev.to/bigtechdigest/6-must-read-tech-newsletters-for-software-engineers-in-2024-22cc)
 - [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
 - [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
 - [Lifehacker] [Three Reasons to Upgrade Your Mesh Wifi System for Wi-Fi 6](https://lifehacker.com/tech/upgrade-your-mesh-wi-fi-system-for-wifi-6)
