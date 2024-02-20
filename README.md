@@ -26,25 +26,27 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Crea una aplicación React GenAI con Amazon Bedrock y AWS SDK](https://dev.to/aws-espanol/crea-una-aplicacion-react-genai-con-amazon-bedrock-y-aws-sdk-3pnk)
+- [Dev.to/JS] [Using Mermaid JS to generate a diagram from Power Automate](https://dev.to/mcombp/using-mermaid-js-to-generate-a-diagram-from-power-automate-1f68)
+- [Dev.to/JS] [Clumsy Crucible](https://dev.to/rmion/clumsy-crucible-2p80)
+- [Dev.to/JS] [Exploring Material Tailwind: the best Tailwind CSS component library](https://dev.to/okolieoks234/exploring-material-tailwind-the-best-tailwind-css-component-library-1pm9)
+- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/jackclarkk8/buy-old-gmail-accounts-3p4l)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/jackclarkk8/buy-verified-cash-app-account-lel)
 - [Dev.to/JS] [Mastering the Art of Debugging: A Comprehensive Guide for Developers](https://dev.to/adityasrivastavds/mastering-the-art-of-debugging-a-comprehensive-guide-for-developers-3g1n)
 - [Dev.to/JS] [SilverBox Library](https://dev.to/tapesh/silverbox-library-4k4n)
 - [Dev.to/JS] [Flowing with Streams: Working with the Stream Module](https://dev.to/ruben_alapont/flowing-with-streams-working-with-the-stream-module-3hc6)
+- [Lifehacker] [The Echo Studio Is $45 Off Right Now](https://lifehacker.com/tech/amazon-echo-studio-deal)
 - [Dev.to/JS] [Build a React genAI APP with Amazon Bedrock &amp; AWS SDK](https://dev.to/aws/build-a-react-genai-app-with-amazon-bedrock-aws-sdk-10h0)
 - [Dev.to/JS] [Why is everything Javascript?](https://dev.to/shinyvision/why-is-everything-javascript-33ii)
+- [Lifehacker] [Stop Putting Your Wet iPhone in Rice, Apple Says](https://lifehacker.com/tech/do-not-put-a-wet-iphone-in-rice)
 - [Dev.to/JS] [🔥Webperf Tips &lpar;1&rpar; - Case Study - Gastein.com](https://dev.to/machy8/webperf-tips-1-case-study-gasteincom-4ib9)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/jackclarkk8/buy-google-voice-accounts-2jne)
-- [Dev.to/JS] [Journey to Freelancing](https://dev.to/bealecs/journey-to-freelancing-42e2)
 - [Lifehacker] [Why You Keep Losing NYT Connections](https://lifehacker.com/entertainment/how-to-win-nyt-connections)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/jackclarkk8/buy-verified-paxful-account-hpj)
 - [Lifehacker] [These Are the Best Website Builders in 2024](https://lifehacker.com/tech/best-website-builders)
-- [Dev.to/JS] [Be a better developer with these Git good practices](https://dev.to/aditya_raj_1010/be-a-better-developer-with-these-git-good-practices-58p8)
-- [Dev.to/JS] [Doodle 0.10.0 can host React, supports WebAssembly and much more](https://dev.to/pusolito/doodle-0100-can-host-react-supports-webassembly-and-much-more-3pmi)
 - [Lifehacker] [Here’s How Much Data Your AI ‘Girlfriend’ Wants From You](https://lifehacker.com/tech/here-is-how-much-data-your-ai-girlfriend-wants-from-you)
 - [Lifehacker] [You Can Turn Your Mac Menu Bar Into a Virtual Sticky Note](https://lifehacker.com/tech/one-thing-app-turns-your-macs-menu-bar-into-sticky-note)
 - [Lifehacker] [How to Decide Whether Gemini Advanced Is Worth $20 a Month](https://lifehacker.com/tech/google-gemini-advanced-review)
 - [Lifehacker] [Easy &lpar;and Cheap&rpar; Home Upgrades That Make a Big Difference](https://lifehacker.com/home/cheap-home-upgrades-that-make-a-difference)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
 - [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
 - [Lifehacker] [Three Reasons to Upgrade Your Mesh Wifi System for Wi-Fi 6](https://lifehacker.com/tech/upgrade-your-mesh-wi-fi-system-for-wifi-6)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Xbox Series S Is $80 Off Right Now](https://lifehacker.com/entertainment/xbox-series-s-sale-at-target)
 - [Lifehacker] [These Dyson Cordless Vacuums Are up to 44% Off for Presidents Day](https://lifehacker.com/home/walmart-dyson-vacuum-sale-presidents-day)
 - [Lifehacker] [These Financial ‘Experts’ Got Scammed, so You Can Too &lpar;Really&rpar;](https://lifehacker.com/money/anyone-can-get-scammed-and-how-to-avoid-it)
-- [Lifehacker] [Google Just Showed Off a Powerful New Upgrade to Gemini](https://lifehacker.com/tech/what-is-gemini-15)
-- [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
-- [Lifehacker] [How to Bring Back iTunes and iPhoto on Modern Macs](https://lifehacker.com/tech/how-to-install-itunes-and-iphoto-on-macos-sonoma)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Google Just Showed Off a Powerful New Upgrade to Gemini](https://lifehacker.com/tech/what-is-gemini-15)<!-- TECH-POSTS:END -->
 
 ---
 
