@@ -26,9 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Say goodbye to callback hell](https://dev.to/phuocng/say-goodbye-to-callback-hell-3bic)
 - [Dev.to/JS] [dghjfhjfgj](https://dev.to/github20k/dghjfhjfgj-1inj)
 - [Dev.to/JS] [Observability with Express and Busgnag - In a easy way](https://dev.to/yelldutz/observability-with-express-and-busgnag-in-a-easy-way-46bl)
-- [Dev.to/JS] [SVG charts from scratch in 2024 &lpar;a better AWS visualization system&rpar;](https://dev.to/dchahla/svg-charts-from-scratch-in-2024-a-better-aws-visualization-system-jhk)
 - [Dev.to/JS] [How to notify tabs with the same origin using Broadcast Channel](https://dev.to/alinaramfu/how-to-notify-tabs-with-the-same-origin-using-broadcast-channel-47k4)
 - [Dev.to/JS] [Implicit Dependencies Management with Nx: A Practical Guide through Real-World Case Studies](https://dev.to/this-is-learning/implicit-dependencies-management-with-nx-a-practical-guide-through-real-world-case-studies-59kd)
 - [Dev.to/JS] [CommonJS vs ES Modules: the shift from require to import](https://dev.to/nikolasbarwicki/commonjs-vs-es-modules-the-shift-from-require-to-import-18fo)
