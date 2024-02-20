@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue Primeiras Impressões](https://dev.to/devhat/vue-primeiras-impressoes-40d9)
+- [Dev.to/JS] [JavaScript ES6 and beyond](https://dev.to/sandrorybarik/javascript-es6-and-beyond-59ep)
+- [Dev.to/JS] [Coding Cosmos Exploration](https://dev.to/kavin_07/coding-cosmos-exploration-4ki4)
+- [Dev.to/JS] [Implementing Sign In with Google in NodeJS &lpar;without third-party libraries&rpar;](https://dev.to/akshatmittal61/implementing-sign-in-with-google-in-nodejs-without-third-party-libraries-3b2c)
 - [Dev.to/JS] [Building Simple CRM with Vue: Implementing Vuetify Framework](https://dev.to/webcraft-notes/building-simple-crm-with-vue-implementing-vuetify-framework-1faa)
 - [Dev.to/JS] [Pag-IBIG MP2: What it is and How to Invest in this Government Savings Program 2023](https://dev.to/scrubscleaning/httpspagibigmp2calculatornetpag-ibig-mp2-311a)
 - [Dev.to/JS] [How to add a new Document to firestore using Server component and server action | Nextjs 14](https://dev.to/thatanjan/how-to-add-a-new-document-to-firestore-using-server-component-and-server-action-nextjs-14-5c8b)
 - [Dev.to/JS] [Encapsulation, Closure, and a Higher Order Function walk into a Hackathon.](https://dev.to/shavonharrisdev/encapsulation-closure-and-a-higher-order-function-walk-into-a-hackathon-403b)
 - [Dev.to/JS] [Understanding Branch Coverage in Software Testing](https://dev.to/arindam_1729/understanding-branch-coverage-in-software-testing-3ado)
+- [Lifehacker] [How to Decide Whether Gemini Advanced Is Worth $20 a Month](https://lifehacker.com/tech/google-gemini-advanced-review)
 - [Dev.to/JS] [How To Get Data By ID On Click - Firebase Firestore Database Tutorial](https://dev.to/rajatamil/how-to-get-data-by-id-on-click-firebase-firestore-database-tutorial-1p02)
 - [Dev.to/JS] [Preventing Email Spoofing Attacks on your SMTP Server](https://dev.to/scofieldidehen/preventing-email-spoofing-attacks-on-your-smtp-server-19fc)
 - [Dev.to/JS] [Microsoft PowerPoint Free Download](https://dev.to/farfar/microsoft-powerpoint-free-download-2pmk)
-- [Dev.to/JS] [Must-Have Practical Tutorial on Node.js Modules for Badass Beginners](https://dev.to/sandorturanszky/must-have-practical-tutorial-on-nodejs-modules-for-badass-beginners-npk)
 - [Lifehacker] [Easy &lpar;and Cheap&rpar; Home Upgrades That Make a Big Difference](https://lifehacker.com/home/cheap-home-upgrades-that-make-a-difference)
-- [Dev.to/JS] [A &lpar;more&rpar; realistic card flip animation](https://dev.to/auroratide/a-more-realistic-card-flip-animation-3k9m)
-- [Dev.to/JS] [Two shades of mocking a function in Vitest](https://dev.to/mayashavin/two-shades-of-mocking-a-function-in-vitest-41im)
-- [Dev.to/JS] [@ts-ignore is a symptom of a code smell](https://dev.to/shailennaidoo/ts-ignore-is-a-symptom-of-a-code-smell-38ck)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
 - [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
 - [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Mozzarella in Carrozza Is Easiest in the Air Fryer](https://lifehacker.com/food-drink/mozzarella-in-carrozza-air-fryer-recipe)
 - [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [You Can Get Windows 11 Pro for $23 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
-- [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)
-- [Lifehacker] [The Apple Watch Series 8 Is $200 Off Right Now](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)<!-- TECH-POSTS:END -->
 
 ---
 
