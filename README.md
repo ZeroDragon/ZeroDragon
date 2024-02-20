@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Day you Became a Better React Dev: What is React?](https://dev.to/nevalinz/the-day-you-became-a-better-react-dev-what-is-react-5gna)
+- [Dev.to/JS] [A Tale of Frameworks: Our Quirky Quest from Next.js to Redwood.js](https://dev.to/chuckcarpenter/a-tale-of-frameworks-our-quirky-quest-from-nextjs-to-redwoodjs-5eca)
 - [Dev.to/JS] [Prisma vs Sequelize: A Comprehensive Comparison of Node.js ORMs](https://dev.to/abdalshafiealmajdoup/prisma-vs-sequelize-a-comprehensive-comparison-of-nodejs-orms-145o)
 - [Dev.to/JS] [Crea una aplicación React GenAI con Amazon Bedrock y AWS SDK](https://dev.to/aws-espanol/crea-una-aplicacion-react-genai-con-amazon-bedrock-y-aws-sdk-3pnk)
 - [Dev.to/JS] [Using Mermaid JS to generate a diagram from Power Automate](https://dev.to/mcombp/using-mermaid-js-to-generate-a-diagram-from-power-automate-1f68)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SilverBox Library](https://dev.to/tapesh/silverbox-library-4k4n)
 - [Dev.to/JS] [Flowing with Streams: Working with the Stream Module](https://dev.to/ruben_alapont/flowing-with-streams-working-with-the-stream-module-3hc6)
 - [Lifehacker] [The Echo Studio Is $45 Off Right Now](https://lifehacker.com/tech/amazon-echo-studio-deal)
-- [Dev.to/JS] [Build a React genAI APP with Amazon Bedrock &amp; AWS SDK](https://dev.to/aws/build-a-react-genai-app-with-amazon-bedrock-aws-sdk-10h0)
-- [Dev.to/JS] [Why is everything Javascript?](https://dev.to/shinyvision/why-is-everything-javascript-33ii)
 - [Lifehacker] [Stop Putting Your Wet iPhone in Rice, Apple Says](https://lifehacker.com/tech/do-not-put-a-wet-iphone-in-rice)
 - [Lifehacker] [Why You Keep Losing NYT Connections](https://lifehacker.com/entertainment/how-to-win-nyt-connections)
 - [Lifehacker] [These Are the Best Website Builders in 2024](https://lifehacker.com/tech/best-website-builders)
