@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/jackclarkk8/buy-verified-cash-app-account-lel)
+- [Dev.to/JS] [Mastering the Art of Debugging: A Comprehensive Guide for Developers](https://dev.to/adityasrivastavds/mastering-the-art-of-debugging-a-comprehensive-guide-for-developers-3g1n)
+- [Dev.to/JS] [SilverBox Library](https://dev.to/tapesh/silverbox-library-4k4n)
+- [Dev.to/JS] [Flowing with Streams: Working with the Stream Module](https://dev.to/ruben_alapont/flowing-with-streams-working-with-the-stream-module-3hc6)
+- [Dev.to/JS] [Build a React genAI APP with Amazon Bedrock &amp; AWS SDK](https://dev.to/aws/build-a-react-genai-app-with-amazon-bedrock-aws-sdk-10h0)
+- [Dev.to/JS] [Why is everything Javascript?](https://dev.to/shinyvision/why-is-everything-javascript-33ii)
 - [Dev.to/JS] [🔥Webperf Tips &lpar;1&rpar; - Case Study - Gastein.com](https://dev.to/machy8/webperf-tips-1-case-study-gasteincom-4ib9)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/jackclarkk8/buy-google-voice-accounts-2jne)
 - [Dev.to/JS] [Journey to Freelancing](https://dev.to/bealecs/journey-to-freelancing-42e2)
@@ -34,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Website Builders in 2024](https://lifehacker.com/tech/best-website-builders)
 - [Dev.to/JS] [Be a better developer with these Git good practices](https://dev.to/aditya_raj_1010/be-a-better-developer-with-these-git-good-practices-58p8)
 - [Dev.to/JS] [Doodle 0.10.0 can host React, supports WebAssembly and much more](https://dev.to/pusolito/doodle-0100-can-host-react-supports-webassembly-and-much-more-3pmi)
-- [Dev.to/JS] [EVENT BUBBLING &amp; CAPTURING](https://dev.to/maame_afia/event-bubbling-capturing-1pba)
-- [Dev.to/JS] [How to make a cursor image Hover effect with CSS &amp; JS!](https://dev.to/lensco825/how-to-make-a-cursor-image-hover-effect-with-css-js-3nh5)
 - [Lifehacker] [Here’s How Much Data Your AI ‘Girlfriend’ Wants From You](https://lifehacker.com/tech/here-is-how-much-data-your-ai-girlfriend-wants-from-you)
-- [Dev.to/JS] [Vue Primeiras Impressões](https://dev.to/devhat/vue-primeiras-impressoes-40d9)
-- [Dev.to/JS] [JavaScript ES6 and beyond](https://dev.to/sandrorybarik/javascript-es6-and-beyond-59ep)
-- [Dev.to/JS] [Coding Cosmos Exploration](https://dev.to/kavin_07/coding-cosmos-exploration-4ki4)
 - [Lifehacker] [You Can Turn Your Mac Menu Bar Into a Virtual Sticky Note](https://lifehacker.com/tech/one-thing-app-turns-your-macs-menu-bar-into-sticky-note)
-- [Dev.to/JS] [Implementing Sign In with Google in NodeJS &lpar;without third-party libraries&rpar;](https://dev.to/akshatmittal61/implementing-sign-in-with-google-in-nodejs-without-third-party-libraries-3b2c)
 - [Lifehacker] [How to Decide Whether Gemini Advanced Is Worth $20 a Month](https://lifehacker.com/tech/google-gemini-advanced-review)
 - [Lifehacker] [Easy &lpar;and Cheap&rpar; Home Upgrades That Make a Big Difference](https://lifehacker.com/home/cheap-home-upgrades-that-make-a-difference)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
