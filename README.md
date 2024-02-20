@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Just Javascript](https://dev.to/armando0369/just-javascript-2fj4)
+- [Dev.to/JS] [Demystifying Buffers in Node.js](https://dev.to/angdecoder/demystifying-buffers-in-nodejs-d2c)
 - [Dev.to/JS] [How to build a rich text editor for your React app with CKEditor 5](https://dev.to/honeybadger/how-to-build-a-rich-text-editor-for-your-react-app-with-ckeditor-5-2dim)
 - [Dev.to/JS] [react js is not worth](https://dev.to/aditya_raj_1010/react-js-is-not-worth-2518)
 - [Dev.to/JS] [Implementing a Loading Page State in ReactJS: Enhancing User Experience with Loading Indicators](https://dev.to/mandeepsng/implementing-a-loading-page-state-in-reactjs-enhancing-user-experience-with-loading-indicators-nep)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use Dynamic Hook](https://dev.to/ethernmyth/use-dynamic-hook-177c)
 - [Dev.to/JS] [Deploying a Node.js Site on Vercel Using vercel.json](https://dev.to/sh20raj1/deploying-a-nodejs-site-on-vercel-using-verceljson-3p5l)
 - [Dev.to/JS] [Understanding Static Site Generation vs. Server-Side Rendering in Next.js](https://dev.to/nitin-rachabathuni/understanding-static-site-generation-vs-server-side-rendering-in-nextjs-3390)
-- [Dev.to/JS] [Convert HTML to PDF in React with react-pdf](https://dev.to/imrankh13332994/convert-html-to-pdf-in-react-with-react-pdf-3c0b)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
-- [Dev.to/JS] [Say goodbye to callback hell](https://dev.to/phuocng/say-goodbye-to-callback-hell-3bic)
 - [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
 - [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
 - [Lifehacker] [Three Reasons to Upgrade Your Mesh Wifi System for Wi-Fi 6](https://lifehacker.com/tech/upgrade-your-mesh-wi-fi-system-for-wifi-6)
