@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Last month on Glitch was weird and wonderful, let&#39;s blog about it! ✍️](https://dev.to/jennschiffer/last-month-on-glitch-was-weird-and-wonderful-lets-blog-about-it-56n5)
 - [Dev.to/JS] [The Day you Became a Better React Dev: What is React?](https://dev.to/nevalinz/the-day-you-became-a-better-react-dev-what-is-react-5gna)
+- [Lifehacker] [You Can Get Monthly Apple Music Recaps Now](https://lifehacker.com/tech/you-can-get-monthly-apple-music-recaps-now)
 - [Dev.to/JS] [A Tale of Frameworks: Our Quirky Quest from Next.js to Redwood.js](https://dev.to/chuckcarpenter/a-tale-of-frameworks-our-quirky-quest-from-nextjs-to-redwoodjs-5eca)
+- [Lifehacker] [You Can Get a $75 E-gift Card From Dell When You Buy the Nintendo Switch OLED](https://lifehacker.com/entertainment/best-nintendo-switch-oled-deal)
 - [Dev.to/JS] [Prisma vs Sequelize: A Comprehensive Comparison of Node.js ORMs](https://dev.to/abdalshafiealmajdoup/prisma-vs-sequelize-a-comprehensive-comparison-of-nodejs-orms-145o)
+- [Lifehacker] [You Can Get This Roomie Smart Scale on Sale for $28 Right Now](https://lifehacker.com/health/roomie-smart-body-scale-sale)
+- [Lifehacker] [&#39;Stretch Therapy&#39; Can Make You a Lot More Flexible](https://lifehacker.com/health/get-more-flexible-with-stretch-therapy)
 - [Dev.to/JS] [Crea una aplicación React GenAI con Amazon Bedrock y AWS SDK](https://dev.to/aws-espanol/crea-una-aplicacion-react-genai-con-amazon-bedrock-y-aws-sdk-3pnk)
 - [Dev.to/JS] [Using Mermaid JS to generate a diagram from Power Automate](https://dev.to/mcombp/using-mermaid-js-to-generate-a-diagram-from-power-automate-1f68)
 - [Dev.to/JS] [Clumsy Crucible](https://dev.to/rmion/clumsy-crucible-2p80)
@@ -38,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/jackclarkk8/buy-verified-cash-app-account-lel)
 - [Dev.to/JS] [Mastering the Art of Debugging: A Comprehensive Guide for Developers](https://dev.to/adityasrivastavds/mastering-the-art-of-debugging-a-comprehensive-guide-for-developers-3g1n)
 - [Dev.to/JS] [SilverBox Library](https://dev.to/tapesh/silverbox-library-4k4n)
-- [Dev.to/JS] [Flowing with Streams: Working with the Stream Module](https://dev.to/ruben_alapont/flowing-with-streams-working-with-the-stream-module-3hc6)
 - [Lifehacker] [The Echo Studio Is $45 Off Right Now](https://lifehacker.com/tech/amazon-echo-studio-deal)
 - [Lifehacker] [Stop Putting Your Wet iPhone in Rice, Apple Says](https://lifehacker.com/tech/do-not-put-a-wet-iphone-in-rice)
 - [Lifehacker] [Why You Keep Losing NYT Connections](https://lifehacker.com/entertainment/how-to-win-nyt-connections)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the &#39;Pickle Jar Theory&#39; to Prioritize Your Tasks](https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)
 - [Lifehacker] [These Are My Two Favorite Shoulder Strengthening Routines](https://lifehacker.com/health/the-best-shoulder-strengthening-exercises)
-- [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)
-- [Lifehacker] [Let Google Sit on Hold for You](https://lifehacker.com/tech/google-talk-to-live-representative-feature)
-- [Lifehacker] [The Xbox Series S Is $80 Off Right Now](https://lifehacker.com/entertainment/xbox-series-s-sale-at-target)
-- [Lifehacker] [These Dyson Cordless Vacuums Are up to 44% Off for Presidents Day](https://lifehacker.com/home/walmart-dyson-vacuum-sale-presidents-day)
-- [Lifehacker] [These Financial ‘Experts’ Got Scammed, so You Can Too &lpar;Really&rpar;](https://lifehacker.com/money/anyone-can-get-scammed-and-how-to-avoid-it)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Google Is Finally Cracking Down on Mass Emails](https://lifehacker.com/tech/googles-new-rules-for-mass-emails)<!-- TECH-POSTS:END -->
 
 ---
 
