@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Preventing Email Spoofing Attacks on your SMTP Server](https://dev.to/scofieldidehen/preventing-email-spoofing-attacks-on-your-smtp-server-19fc)
+- [Dev.to/JS] [Microsoft PowerPoint Free Download](https://dev.to/farfar/microsoft-powerpoint-free-download-2pmk)
 - [Dev.to/JS] [Must-Have Practical Tutorial on Node.js Modules for Badass Beginners](https://dev.to/sandorturanszky/must-have-practical-tutorial-on-nodejs-modules-for-badass-beginners-npk)
+- [Lifehacker] [Easy &lpar;and Cheap&rpar; Home Upgrades That Make a Big Difference](https://lifehacker.com/home/cheap-home-upgrades-that-make-a-difference)
 - [Dev.to/JS] [A &lpar;more&rpar; realistic card flip animation](https://dev.to/auroratide/a-more-realistic-card-flip-animation-3k9m)
 - [Dev.to/JS] [Two shades of mocking a function in Vitest](https://dev.to/mayashavin/two-shades-of-mocking-a-function-in-vitest-41im)
 - [Dev.to/JS] [@ts-ignore is a symptom of a code smell](https://dev.to/shailennaidoo/ts-ignore-is-a-symptom-of-a-code-smell-38ck)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Disable Right Click and Protect Images/Videos - Safeguarding Your Website Content](https://dev.to/sh20raj1/disable-right-click-and-protect-imagesvideos-safeguarding-your-website-content-578n)
 - [Dev.to/JS] [What Is The Difference Between Create React App And Vite ?](https://dev.to/swhabitation/what-is-the-difference-between-create-react-app-and-vite--32ic)
 - [Dev.to/JS] [Debouncing vs AbortController: Maximizing API Efficiency for Seamless User Experience](https://dev.to/amangupta/optimizing-ux-balancing-debouncing-and-api-call-abortion-3eb9)
-- [Dev.to/JS] [If your Redux state has changed but React doesn&#39;t trigger a re-render, it could be due to several reasons](https://dev.to/himanshurank/if-your-redux-state-has-changed-but-react-doesnt-trigger-a-re-render-it-could-be-due-to-several-reasons-2pfb)
-- [Dev.to/JS] [Look Who is Back: jQuery 4.0.0 is Coming to Town](https://dev.to/brojenuel/look-who-is-back-jquery-400-is-coming-to-town-4jd3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
 - [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
 - [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [You Can Get Windows 11 Pro for $23 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
 - [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)
-- [Lifehacker] [The Apple Watch Series 8 Is $200 Off Right Now](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
-- [Lifehacker] [20 Actually Great Movies Nominated for a Razzie Award](https://lifehacker.com/entertainment/best-movies-nominated-for-razzie-awards)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Apple Watch Series 8 Is $200 Off Right Now](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)<!-- TECH-POSTS:END -->
 
 ---
 
