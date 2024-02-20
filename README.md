@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
 - [Dev.to/JS] [Say goodbye to callback hell](https://dev.to/phuocng/say-goodbye-to-callback-hell-3bic)
 - [Dev.to/JS] [dghjfhjfgj](https://dev.to/github20k/dghjfhjfgj-1inj)
 - [Dev.to/JS] [Observability with Express and Busgnag - In a easy way](https://dev.to/yelldutz/observability-with-express-and-busgnag-in-a-easy-way-46bl)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Windows 11 Pro for $23 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
 - [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)
 - [Lifehacker] [The Apple Watch Series 8 Is $200 Off Right Now](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
-- [Lifehacker] [20 Actually Great Movies Nominated for a Razzie Award](https://lifehacker.com/entertainment/best-movies-nominated-for-razzie-awards)
-- [Lifehacker] [We Should All Be Scared of OpenAI&#39;s New AI Video Generator](https://lifehacker.com/tech/we-should-be-scared-of-openais-realistic-ai-videos)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 Actually Great Movies Nominated for a Razzie Award](https://lifehacker.com/entertainment/best-movies-nominated-for-razzie-awards)<!-- TECH-POSTS:END -->
 
 ---
 
