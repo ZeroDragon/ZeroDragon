@@ -26,18 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔥Webperf Tips &lpar;1&rpar; - Case Study - Gastein.com](https://dev.to/machy8/webperf-tips-1-case-study-gasteincom-4ib9)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/jackclarkk8/buy-google-voice-accounts-2jne)
+- [Dev.to/JS] [Journey to Freelancing](https://dev.to/bealecs/journey-to-freelancing-42e2)
+- [Lifehacker] [Why You Keep Losing NYT Connections](https://lifehacker.com/entertainment/how-to-win-nyt-connections)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/jackclarkk8/buy-verified-paxful-account-hpj)
+- [Lifehacker] [These Are the Best Website Builders in 2024](https://lifehacker.com/tech/best-website-builders)
 - [Dev.to/JS] [Be a better developer with these Git good practices](https://dev.to/aditya_raj_1010/be-a-better-developer-with-these-git-good-practices-58p8)
 - [Dev.to/JS] [Doodle 0.10.0 can host React, supports WebAssembly and much more](https://dev.to/pusolito/doodle-0100-can-host-react-supports-webassembly-and-much-more-3pmi)
 - [Dev.to/JS] [EVENT BUBBLING &amp; CAPTURING](https://dev.to/maame_afia/event-bubbling-capturing-1pba)
 - [Dev.to/JS] [How to make a cursor image Hover effect with CSS &amp; JS!](https://dev.to/lensco825/how-to-make-a-cursor-image-hover-effect-with-css-js-3nh5)
+- [Lifehacker] [Here’s How Much Data Your AI ‘Girlfriend’ Wants From You](https://lifehacker.com/tech/here-is-how-much-data-your-ai-girlfriend-wants-from-you)
 - [Dev.to/JS] [Vue Primeiras Impressões](https://dev.to/devhat/vue-primeiras-impressoes-40d9)
 - [Dev.to/JS] [JavaScript ES6 and beyond](https://dev.to/sandrorybarik/javascript-es6-and-beyond-59ep)
 - [Dev.to/JS] [Coding Cosmos Exploration](https://dev.to/kavin_07/coding-cosmos-exploration-4ki4)
+- [Lifehacker] [You Can Turn Your Mac Menu Bar Into a Virtual Sticky Note](https://lifehacker.com/tech/one-thing-app-turns-your-macs-menu-bar-into-sticky-note)
 - [Dev.to/JS] [Implementing Sign In with Google in NodeJS &lpar;without third-party libraries&rpar;](https://dev.to/akshatmittal61/implementing-sign-in-with-google-in-nodejs-without-third-party-libraries-3b2c)
-- [Dev.to/JS] [Building Simple CRM with Vue: Implementing Vuetify Framework](https://dev.to/webcraft-notes/building-simple-crm-with-vue-implementing-vuetify-framework-1faa)
-- [Dev.to/JS] [Pag-IBIG MP2: What it is and How to Invest in this Government Savings Program 2023](https://dev.to/scrubscleaning/httpspagibigmp2calculatornetpag-ibig-mp2-311a)
-- [Dev.to/JS] [How to add a new Document to firestore using Server component and server action | Nextjs 14](https://dev.to/thatanjan/how-to-add-a-new-document-to-firestore-using-server-component-and-server-action-nextjs-14-5c8b)
-- [Dev.to/JS] [Encapsulation, Closure, and a Higher Order Function walk into a Hackathon.](https://dev.to/shavonharrisdev/encapsulation-closure-and-a-higher-order-function-walk-into-a-hackathon-403b)
 - [Lifehacker] [How to Decide Whether Gemini Advanced Is Worth $20 a Month](https://lifehacker.com/tech/google-gemini-advanced-review)
 - [Lifehacker] [Easy &lpar;and Cheap&rpar; Home Upgrades That Make a Big Difference](https://lifehacker.com/home/cheap-home-upgrades-that-make-a-difference)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 20, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-20-2024)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Financial ‘Experts’ Got Scammed, so You Can Too &lpar;Really&rpar;](https://lifehacker.com/money/anyone-can-get-scammed-and-how-to-avoid-it)
 - [Lifehacker] [Google Just Showed Off a Powerful New Upgrade to Gemini](https://lifehacker.com/tech/what-is-gemini-15)
 - [Lifehacker] [You Can Get Microsoft Office Professional Plus for $30 Right Now](https://lifehacker.com/tech/microsoft-office-professional-plus-sale)
-- [Lifehacker] [How to Bring Back iTunes and iPhoto on Modern Macs](https://lifehacker.com/tech/how-to-install-itunes-and-iphoto-on-macos-sonoma)
-- [Lifehacker] [Mozzarella in Carrozza Is Easiest in the Air Fryer](https://lifehacker.com/food-drink/mozzarella-in-carrozza-air-fryer-recipe)
-- [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
-- [Lifehacker] [You Can Get Windows 11 Pro for $23 Right Now](https://lifehacker.com/tech/windows-11-pro-sale)
-- [Lifehacker] [The Best Pillows for Side Sleepers](https://lifehacker.com/health/best-pillows-for-side-sleepers)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Bring Back iTunes and iPhoto on Modern Macs](https://lifehacker.com/tech/how-to-install-itunes-and-iphoto-on-macos-sonoma)<!-- TECH-POSTS:END -->
 
 ---
 
