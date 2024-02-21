@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Myntra Product Info As JSON](https://dev.to/radhe021/myntra-product-info-as-json-2ipa)
+- [Dev.to/JS] [Microservices Architecture: The Backbone of commercetools](https://dev.to/nitin-rachabathuni/microservices-architecture-the-backbone-of-commercetools-534o)
+- [Dev.to/JS] [How to Build a Web App to Scan Barcode, Document, and MRZ with JavaScript APIs](https://dev.to/yushulx/how-to-build-a-web-app-to-scan-barcode-document-and-mrz-with-javascript-apis-1oa6)
 - [Dev.to/JS] [JavaScript | What Are Arrow Functions?](https://dev.to/felixd38v_/javascript-what-are-arrow-functions-4pg4)
 - [Dev.to/JS] [Discover the power of a revocable Proxy](https://dev.to/phuocng/discover-the-power-of-a-revocable-proxy-2o18)
 - [Dev.to/JS] [Preventing server-side request forgery in Node.js applications](https://dev.to/snyk/preventing-server-side-request-forgery-in-nodejs-applications-417c)
@@ -40,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Android Users Should Delete These Malware Apps ASAP](https://lifehacker.com/tech/delete-these-android-malware-apps-asap)
 - [Dev.to/JS] [Last month on Glitch was weird and wonderful, let&#39;s blog about it! ✍️](https://dev.to/jennschiffer/last-month-on-glitch-was-weird-and-wonderful-lets-blog-about-it-56n5)
 - [Lifehacker] [Use &#39;Shifty&#39; to Take Control of MacOS’ Night Shift](https://lifehacker.com/tech/take-control-of-macos-night-shift-with-shifty)
-- [Dev.to/JS] [The Day you Became a Better React Dev: What is React?](https://dev.to/nevalinz/the-day-you-became-a-better-react-dev-what-is-react-5gna)
 - [Lifehacker] [You Can Get Monthly Apple Music Recaps Now](https://lifehacker.com/tech/you-can-get-monthly-apple-music-recaps-now)
-- [Dev.to/JS] [A Tale of Frameworks: Our Quirky Quest from Next.js to Redwood.js](https://dev.to/chuckcarpenter/a-tale-of-frameworks-our-quirky-quest-from-nextjs-to-redwoodjs-5eca)
 - [Lifehacker] [You Can Get a $75 E-gift Card From Dell When You Buy the Nintendo Switch OLED](https://lifehacker.com/entertainment/best-nintendo-switch-oled-deal)
-- [Dev.to/JS] [Prisma vs Sequelize: A Comprehensive Comparison of Node.js ORMs](https://dev.to/abdalshafiealmajdoup/prisma-vs-sequelize-a-comprehensive-comparison-of-nodejs-orms-145o)
 - [Lifehacker] [You Can Get This Roomie Smart Scale on Sale for $28 Right Now](https://lifehacker.com/health/roomie-smart-body-scale-sale)
 - [Lifehacker] [&#39;Stretch Therapy&#39; Can Make You a Lot More Flexible](https://lifehacker.com/health/get-more-flexible-with-stretch-therapy)
 - [Lifehacker] [Five Ways You Could Be Using the Space Above Your Kitchen Cabinets](https://lifehacker.com/home/best-ways-to-use-the-space-above-your-kitchen-cabinets)
