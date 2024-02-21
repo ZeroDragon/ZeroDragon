@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Breaking IndexedDB consistency to explore its transactions](https://dev.to/debussyman/breaking-indexeddb-consistency-to-explore-its-transactions-371n)
+- [Dev.to/JS] [Buffer.from&lpar;&rpar; vs atob&lpar;&rpar; vs btoa&lpar;&rpar;: The Differences and When to Use Them](https://dev.to/codesensei/bufferfrom-vs-atob-vs-btoa-the-differences-and-when-to-use-them-1f79)
+- [Dev.to/JS] [The Current State of React Server Components: A Guide for the Perplexed](https://dev.to/kathryngrayson/the-current-state-of-react-server-components-a-guide-for-the-perplexed-31eb)
+- [Lifehacker] [What&#39;s New on Netflix in March 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-march-2024)
+- [Dev.to/JS] [Microserviços 🤝 Complexidade](https://dev.to/mateus4k/microservicos-complexidade-277o)
+- [Lifehacker] [You Can Get 2TB of PhotoSphere Storage for $280 Right Now](https://lifehacker.com/tech/photosphere-sale)
 - [Dev.to/JS] [Mastering JavaScript Functions: The Core Foundation](https://dev.to/debrajroyofficial000/mastering-javascript-functions-the-core-foundation-50ij)
 - [Dev.to/JS] [Themex&#39;s next update includes free and ready-to-use components.](https://dev.to/karsten_biedermann/themexs-next-update-includes-free-and-ready-to-use-components-509h)
 - [Lifehacker] [How to Be a ‘Lighthouse Parent’](https://lifehacker.com/family/how-to-be-lighthouse-parent)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Request Women and Nonbinary Drivers on Lyft](https://lifehacker.com/travel/you-can-now-request-women-and-nonbinary-lyft-drivers)
 - [Dev.to/JS] [IndexedDB: Una guía para desarrolladores web frontend](https://dev.to/joanperamas/indexeddb-una-guia-para-desarrolladores-web-frontend-1ch3)
 - [Dev.to/JS] [Dr FarFar](https://dev.to/drfarfar/dr-farfar-3d0f)
-- [Dev.to/JS] [Follow-the-mouse Flashlight Hover Effect: Illuminating Interaction With Minimal Code](https://dev.to/jayseyidov/follow-the-mouse-flashlight-hover-effect-illuminating-interaction-with-minimal-code-5122)
-- [Dev.to/JS] [Processing Images with Web Assembly using wasm-vips](https://dev.to/acekreations/processing-images-with-web-assembly-using-wasm-vips-3oi2)
 - [Lifehacker] [Wyze Had a Security Breach &lpar;Again&rpar;](https://lifehacker.com/tech/wyze-security-breach-again)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/venallwilly/buy-verified-cash-app-account-37d1)
-- [Dev.to/JS] [Are TypeScript enums Still Bad?](https://dev.to/marileon/are-typescript-enums-still-bad-35ab)
 - [Lifehacker] [What&#39;s New on Hulu in March 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-march-2024)
 - [Lifehacker] [What&#39;s New on Disney+ in March 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-march-2024)
 - [Lifehacker] [These Are the Best BBQ Sauces for Pizza](https://lifehacker.com/food-drink/the-best-bbq-sauces-for-pizza)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How Much Data Your AI ‘Girlfriend’ Wants From You](https://lifehacker.com/tech/here-is-how-much-data-your-ai-girlfriend-wants-from-you)
 - [Lifehacker] [You Can Turn Your Mac Menu Bar Into a Virtual Sticky Note](https://lifehacker.com/tech/one-thing-app-turns-your-macs-menu-bar-into-sticky-note)
 - [Lifehacker] [How to Decide Whether Gemini Advanced Is Worth $20 a Month](https://lifehacker.com/tech/google-gemini-advanced-review)
-- [Lifehacker] [Easy &lpar;and Cheap&rpar; Home Upgrades That Make a Big Difference](https://lifehacker.com/home/cheap-home-upgrades-that-make-a-difference)
-- [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
-- [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Easy &lpar;and Cheap&rpar; Home Upgrades That Make a Big Difference](https://lifehacker.com/home/cheap-home-upgrades-that-make-a-difference)<!-- TECH-POSTS:END -->
 
 ---
 
