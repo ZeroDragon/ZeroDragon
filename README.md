@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts116/buy-google-ads-accounts-2glj)
+- [Dev.to/JS] [How does our company prioritize environmental sustainability and green practices?](https://dev.to/yagnapandya9/how-does-our-company-prioritize-environmental-sustainability-and-green-practices-3om9)
+- [Dev.to/JS] [Multi-level Marketing Software Development](https://dev.to/eifasoft/multi-level-marketing-software-development-40kl)
 - [Dev.to/JS] [How to build a scalable web app with serverless technologies](https://dev.to/honeybadger/how-to-build-a-scalable-web-app-with-serverless-technologies-4h9n)
 - [Dev.to/JS] [Perfect Reactive Dependency Tracking](https://dev.to/ninjin/perfect-reactive-dependency-tracking-85e)
 - [Dev.to/JS] [TypeScript Template Literal Types: Practical Use-Cases for Improved Code Quality](https://dev.to/clarity89/typescript-template-literal-types-practical-use-cases-for-improved-code-quality-257i)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Help Needed](https://dev.to/thcoddes/help-needed-48md)
 - [Dev.to/JS] [Myntra Product Info As JSON](https://dev.to/radhe021/myntra-product-info-as-json-2ipa)
 - [Dev.to/JS] [Microservices Architecture: The Backbone of commercetools](https://dev.to/nitin-rachabathuni/microservices-architecture-the-backbone-of-commercetools-534o)
-- [Dev.to/JS] [How to Build a Web App to Scan Barcode, Document, and MRZ with JavaScript APIs](https://dev.to/yushulx/how-to-build-a-web-app-to-scan-barcode-document-and-mrz-with-javascript-apis-1oa6)
-- [Dev.to/JS] [JavaScript | What Are Arrow Functions?](https://dev.to/felixd38v_/javascript-what-are-arrow-functions-4pg4)
-- [Dev.to/JS] [Discover the power of a revocable Proxy](https://dev.to/phuocng/discover-the-power-of-a-revocable-proxy-2o18)
 - [Lifehacker] [Chrome’s Latest Update Introduces an AI-powered ‘Help Me Write’ Feature](https://lifehacker.com/tech/chrome-update-122)
 - [Lifehacker] [The Bose QuietComfort Ultra Earbuds Are $50 Off Right Now](https://lifehacker.com/tech/bose-quietcomfort-ultra-sale)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
