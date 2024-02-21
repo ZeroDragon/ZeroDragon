@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Perfectly Contrasting Text on a Gradient Background](https://dev.to/propelauth/perfectly-contrasting-text-on-a-gradient-background-7lc)
 - [Dev.to/JS] [Add typing to your Javascript code &lpar;without Typescript, kinda&rpar; ✍🏼](https://dev.to/nicolasmontielf/add-typing-to-your-javascript-code-without-typescript-kinda-3aph)
 - [Dev.to/JS] [Animated 3D Models for the Web](https://dev.to/calumk/3d-animations-in-a-web-page-26jo)
+- [Lifehacker] [Android Users Should Delete These Malware Apps ASAP](https://lifehacker.com/tech/delete-these-android-malware-apps-asap)
 - [Dev.to/JS] [Last month on Glitch was weird and wonderful, let&#39;s blog about it! ✍️](https://dev.to/jennschiffer/last-month-on-glitch-was-weird-and-wonderful-lets-blog-about-it-56n5)
 - [Lifehacker] [Use &#39;Shifty&#39; to Take Control of MacOS’ Night Shift](https://lifehacker.com/tech/take-control-of-macos-night-shift-with-shifty)
 - [Dev.to/JS] [The Day you Became a Better React Dev: What is React?](https://dev.to/nevalinz/the-day-you-became-a-better-react-dev-what-is-react-5gna)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Material Tailwind: the best Tailwind CSS component library](https://dev.to/okolieoks234/exploring-material-tailwind-the-best-tailwind-css-component-library-1pm9)
 - [Lifehacker] [Five Ways You Could Be Using the Space Above Your Kitchen Cabinets](https://lifehacker.com/home/best-ways-to-use-the-space-above-your-kitchen-cabinets)
 - [Dev.to/JS] [Mastering the Art of Debugging: A Comprehensive Guide for Developers](https://dev.to/adityasrivastavds/mastering-the-art-of-debugging-a-comprehensive-guide-for-developers-3g1n)
-- [Dev.to/JS] [SilverBox Library](https://dev.to/tapesh/silverbox-library-4k4n)
 - [Lifehacker] [The Echo Studio Is $45 Off Right Now](https://lifehacker.com/tech/amazon-echo-studio-deal)
 - [Lifehacker] [Stop Putting Your Wet iPhone in Rice, Apple Says](https://lifehacker.com/tech/do-not-put-a-wet-iphone-in-rice)
 - [Lifehacker] [Why You Keep Losing NYT Connections](https://lifehacker.com/entertainment/how-to-win-nyt-connections)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
 - [Lifehacker] [How to Respond When Your Kid Hurts Your Feelings](https://lifehacker.com/family/how-to-respond-when-your-kid-hurts-your-feelings)
 - [Lifehacker] [Use the &#39;Pickle Jar Theory&#39; to Prioritize Your Tasks](https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)
-- [Lifehacker] [These Are My Two Favorite Shoulder Strengthening Routines](https://lifehacker.com/health/the-best-shoulder-strengthening-exercises)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)<!-- TECH-POSTS:END -->
 
 ---
 
