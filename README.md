@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript Functions: The Core Foundation](https://dev.to/debrajroyofficial000/mastering-javascript-functions-the-core-foundation-50ij)
+- [Dev.to/JS] [Themex&#39;s next update includes free and ready-to-use components.](https://dev.to/karsten_biedermann/themexs-next-update-includes-free-and-ready-to-use-components-509h)
+- [Lifehacker] [How to Be a ‘Lighthouse Parent’](https://lifehacker.com/family/how-to-be-lighthouse-parent)
+- [Dev.to/JS] [Discover the advantages of custom application development with low-code platforms.](https://dev.to/laradissouza99/discover-the-advantages-of-custom-application-development-with-low-code-platforms-2gon)
+- [Dev.to/JS] [AWS LLRT: A Low Latency Runtime for Serverless Applications](https://dev.to/mjubair/aws-llrt-a-low-latency-runtime-for-serverless-applications-4lfp)
+- [Lifehacker] [The Unlocked Google Pixel 7 Is the Cheapest It’s Ever Been Right Now](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)
 - [Dev.to/JS] [Adding Twitter/VIM-inspired navigation to my React website](https://dev.to/lukeberrypi/adding-twittervim-inspired-navigation-to-my-react-website-49bp)
 - [Dev.to/JS] [Introduction to Back-end](https://dev.to/otumianempire/introduction-to-back-end-8pd)
 - [Lifehacker] [You Can Now Request Women and Nonbinary Drivers on Lyft](https://lifehacker.com/travel/you-can-now-request-women-and-nonbinary-lyft-drivers)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Wyze Had a Security Breach &lpar;Again&rpar;](https://lifehacker.com/tech/wyze-security-breach-again)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/venallwilly/buy-verified-cash-app-account-37d1)
 - [Dev.to/JS] [Are TypeScript enums Still Bad?](https://dev.to/marileon/are-typescript-enums-still-bad-35ab)
-- [Dev.to/JS] [Master Your Code with ESLint Configurations 🚀](https://dev.to/kibumpng/master-your-code-with-eslint-configurations-2a5i)
 - [Lifehacker] [What&#39;s New on Hulu in March 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-march-2024)
-- [Dev.to/JS] [Using Deep Links Effectively in Your Shopify App Theme Extensions](https://dev.to/joshatflare/using-deep-links-effectively-in-your-shopify-app-theme-ui-extensions-33m9)
 - [Lifehacker] [What&#39;s New on Disney+ in March 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-march-2024)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/venallwilly/buy-google-reviews-4g3d)
-- [Dev.to/JS] [The Secret Weapon of Top Developers: 7 React JS Libraries You Can&#39;t Afford to Ignore](https://dev.to/nluxai/the-secret-weapon-of-top-developers-7-react-js-libraries-you-cant-afford-to-ignore-2n0o)
 - [Lifehacker] [These Are the Best BBQ Sauces for Pizza](https://lifehacker.com/food-drink/the-best-bbq-sauces-for-pizza)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Chrome’s Latest Update Introduces an AI-powered ‘Help Me Write’ Feature](https://lifehacker.com/tech/chrome-update-122)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Decide Whether Gemini Advanced Is Worth $20 a Month](https://lifehacker.com/tech/google-gemini-advanced-review)
 - [Lifehacker] [Easy &lpar;and Cheap&rpar; Home Upgrades That Make a Big Difference](https://lifehacker.com/home/cheap-home-upgrades-that-make-a-difference)
 - [Lifehacker] [A Micro Combined Heat and Power Generator Will Make Your Home More Energy Efficient](https://lifehacker.com/home/mini-combined-heat-and-power-generator-makes-your-home-more-energy-efficient)
-- [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
-- [Lifehacker] [Three Reasons to Upgrade Your Mesh Wifi System for Wi-Fi 6](https://lifehacker.com/tech/upgrade-your-mesh-wi-fi-system-for-wifi-6)
-- [Lifehacker] [You Can Now Run Your Own ChatGPT From Your Nvidia GPU](https://lifehacker.com/tech/run-local-ai-llm-from-nvidia-gpu)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)<!-- TECH-POSTS:END -->
 
 ---
 
