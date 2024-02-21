@@ -26,22 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Curso de BFF com Node.js &lpar;87% OFF&rpar; 🚀](https://dev.to/mateus4k/curso-de-bff-com-nodejs-cupom-1in9)
+- [Dev.to/JS] [Observability &amp; Monitoring in Nodejs using Signoz](https://dev.to/karanjanthe/observability-monitoring-in-nodejs-using-signoz-1hm3)
+- [Dev.to/JS] [Utilizing Pulse Oximetry for Precise Oxygen Monitoring](https://dev.to/vakese1846/utilizing-pulse-oximetry-for-precise-oxygen-monitoring-5688)
+- [Dev.to/JS] [Enhancing Professional Growth in Healthcare](https://dev.to/vakese1846/enhancing-professional-growth-in-healthcare-40p4)
 - [Dev.to/JS] [What is Reactivity?](https://dev.to/this-is-learning/what-is-reactivity-3epf)
+- [Lifehacker] [How to Tell If You Qualify for the Earned Income Tax Credit](https://lifehacker.com/do-i-qualify-for-the-earned-income-tax-credit-1846286780)
 - [Dev.to/JS] [Master Offline AWS Development: Harness the Power of LocalStack!](https://dev.to/codingcatdev/master-offline-aws-development-harness-the-power-of-localstack-50cn)
 - [Dev.to/JS] [Hollow Promises: Async JavaScript](https://dev.to/oculus42/hollow-promises-async-javascript-4b0)
+- [Lifehacker] [How to Use a Rice Cooker for Rice &lpar;and so Much More&rpar;](https://lifehacker.com/food-drink/how-to-use-a-rice-cooker)
 - [Dev.to/JS] [Breaking IndexedDB consistency to explore its transactions](https://dev.to/debussyman/breaking-indexeddb-consistency-to-explore-its-transactions-371n)
 - [Dev.to/JS] [Buffer.from&lpar;&rpar; vs atob&lpar;&rpar; vs btoa&lpar;&rpar;: The Differences and When to Use Them](https://dev.to/codesensei/bufferfrom-vs-atob-vs-btoa-the-differences-and-when-to-use-them-1f79)
 - [Dev.to/JS] [The Current State of React Server Components: A Guide for the Perplexed](https://dev.to/kathryngrayson/the-current-state-of-react-server-components-a-guide-for-the-perplexed-31eb)
 - [Lifehacker] [What&#39;s New on Netflix in March 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-march-2024)
-- [Dev.to/JS] [Microserviços 🤝 Complexidade](https://dev.to/mateus4k/microservicos-complexidade-277o)
 - [Lifehacker] [You Can Get 2TB of PhotoSphere Storage for $280 Right Now](https://lifehacker.com/tech/photosphere-sale)
 - [Dev.to/JS] [Mastering JavaScript Functions: The Core Foundation](https://dev.to/debrajroyofficial000/mastering-javascript-functions-the-core-foundation-50ij)
 - [Dev.to/JS] [Themex&#39;s next update includes free and ready-to-use components.](https://dev.to/karsten_biedermann/themexs-next-update-includes-free-and-ready-to-use-components-509h)
 - [Lifehacker] [How to Be a ‘Lighthouse Parent’](https://lifehacker.com/family/how-to-be-lighthouse-parent)
-- [Dev.to/JS] [Discover the advantages of custom application development with low-code platforms.](https://dev.to/laradissouza99/discover-the-advantages-of-custom-application-development-with-low-code-platforms-2gon)
-- [Dev.to/JS] [AWS LLRT: A Low Latency Runtime for Serverless Applications](https://dev.to/mjubair/aws-llrt-a-low-latency-runtime-for-serverless-applications-4lfp)
 - [Lifehacker] [The Unlocked Google Pixel 7 Is the Cheapest It’s Ever Been Right Now](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)
-- [Dev.to/JS] [Adding Twitter/VIM-inspired navigation to my React website](https://dev.to/lukeberrypi/adding-twittervim-inspired-navigation-to-my-react-website-49bp)
 - [Lifehacker] [You Can Now Request Women and Nonbinary Drivers on Lyft](https://lifehacker.com/travel/you-can-now-request-women-and-nonbinary-lyft-drivers)
 - [Lifehacker] [Wyze Had a Security Breach &lpar;Again&rpar;](https://lifehacker.com/tech/wyze-security-breach-again)
 - [Lifehacker] [What&#39;s New on Hulu in March 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-march-2024)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Keep Losing NYT Connections](https://lifehacker.com/entertainment/how-to-win-nyt-connections)
 - [Lifehacker] [These Are the Best Website Builders in 2024](https://lifehacker.com/tech/best-website-builders)
 - [Lifehacker] [Here’s How Much Data Your AI ‘Girlfriend’ Wants From You](https://lifehacker.com/tech/here-is-how-much-data-your-ai-girlfriend-wants-from-you)
-- [Lifehacker] [You Can Turn Your Mac Menu Bar Into a Virtual Sticky Note](https://lifehacker.com/tech/one-thing-app-turns-your-macs-menu-bar-into-sticky-note)
-- [Lifehacker] [How to Decide Whether Gemini Advanced Is Worth $20 a Month](https://lifehacker.com/tech/google-gemini-advanced-review)
-- [Lifehacker] [Easy &lpar;and Cheap&rpar; Home Upgrades That Make a Big Difference](https://lifehacker.com/home/cheap-home-upgrades-that-make-a-difference)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Turn Your Mac Menu Bar Into a Virtual Sticky Note](https://lifehacker.com/tech/one-thing-app-turns-your-macs-menu-bar-into-sticky-note)<!-- TECH-POSTS:END -->
 
 ---
 
