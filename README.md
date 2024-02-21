@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 1 of #50daysof code](https://dev.to/jhaniraj/day-1-of-50daysof-code-5ghb)
+- [Dev.to/JS] [Help Needed](https://dev.to/thcoddes/help-needed-48md)
 - [Dev.to/JS] [Myntra Product Info As JSON](https://dev.to/radhe021/myntra-product-info-as-json-2ipa)
 - [Dev.to/JS] [Microservices Architecture: The Backbone of commercetools](https://dev.to/nitin-rachabathuni/microservices-architecture-the-backbone-of-commercetools-534o)
 - [Dev.to/JS] [How to Build a Web App to Scan Barcode, Document, and MRZ with JavaScript APIs](https://dev.to/yushulx/how-to-build-a-web-app-to-scan-barcode-document-and-mrz-with-javascript-apis-1oa6)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Bose QuietComfort Ultra Earbuds Are $50 Off Right Now](https://lifehacker.com/tech/bose-quietcomfort-ultra-sale)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Dev.to/JS] [Add typing to your Javascript code &lpar;without Typescript, kinda&rpar; ✍🏼](https://dev.to/nicolasmontielf/add-typing-to-your-javascript-code-without-typescript-kinda-3aph)
-- [Dev.to/JS] [Animated 3D Models for the Web](https://dev.to/calumk/3d-animations-in-a-web-page-26jo)
 - [Lifehacker] [Android Users Should Delete These Malware Apps ASAP](https://lifehacker.com/tech/delete-these-android-malware-apps-asap)
-- [Dev.to/JS] [Last month on Glitch was weird and wonderful, let&#39;s blog about it! ✍️](https://dev.to/jennschiffer/last-month-on-glitch-was-weird-and-wonderful-lets-blog-about-it-56n5)
 - [Lifehacker] [Use &#39;Shifty&#39; to Take Control of MacOS’ Night Shift](https://lifehacker.com/tech/take-control-of-macos-night-shift-with-shifty)
 - [Lifehacker] [You Can Get Monthly Apple Music Recaps Now](https://lifehacker.com/tech/you-can-get-monthly-apple-music-recaps-now)
 - [Lifehacker] [You Can Get a $75 E-gift Card From Dell When You Buy the Nintendo Switch OLED](https://lifehacker.com/entertainment/best-nintendo-switch-oled-deal)
