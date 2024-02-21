@@ -26,10 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dr FarFar](https://dev.to/drfarfar/dr-farfar-3d0f)
+- [Dev.to/JS] [Follow-the-mouse Flashlight Hover Effect: Illuminating Interaction With Minimal Code](https://dev.to/jayseyidov/follow-the-mouse-flashlight-hover-effect-illuminating-interaction-with-minimal-code-5122)
+- [Lifehacker] [Wyze Had a Security Breach &lpar;Again&rpar;](https://lifehacker.com/tech/wyze-security-breach-again)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/venallwilly/buy-verified-cash-app-account-37d1)
 - [Dev.to/JS] [Are TypeScript enums Still Bad?](https://dev.to/marileon/are-typescript-enums-still-bad-35ab)
 - [Dev.to/JS] [Master Your Code with ESLint Configurations 🚀](https://dev.to/kibumpng/master-your-code-with-eslint-configurations-2a5i)
+- [Lifehacker] [What&#39;s New on Hulu in March 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-march-2024)
 - [Dev.to/JS] [Using Deep Links Effectively in Your Shopify App Theme Extensions](https://dev.to/joshatflare/using-deep-links-effectively-in-your-shopify-app-theme-ui-extensions-33m9)
+- [Lifehacker] [What&#39;s New on Disney+ in March 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-march-2024)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/venallwilly/buy-google-reviews-4g3d)
 - [Dev.to/JS] [The Secret Weapon of Top Developers: 7 React JS Libraries You Can&#39;t Afford to Ignore](https://dev.to/nluxai/the-secret-weapon-of-top-developers-7-react-js-libraries-you-cant-afford-to-ignore-2n0o)
 - [Dev.to/JS] [JavaScript Data Grid Plugin](https://dev.to/gessielsp/javascript-data-grid-plugin-154a)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Don&#39;t be AFRAID of Typescript!](https://dev.to/princekukreja/dont-be-afraid-of-typescript-2p3j)
 - [Lifehacker] [These Are the Best BBQ Sauces for Pizza](https://lifehacker.com/food-drink/the-best-bbq-sauces-for-pizza)
 - [Dev.to/JS] [Maximizing Revenue with WordPress Plugins](https://dev.to/jamesmartindev/monetizing-your-wordpress-plugins-strategies-and-considerations-3o6c)
-- [Dev.to/JS] [Building a Blog with Next.js and Markdown](https://dev.to/nitin-rachabathuni/building-a-blog-with-nextjs-and-markdown-59da)
-- [Dev.to/JS] [세종출장홈타이 ◀-라인wag58 ▶ 세종무한샷출장 세종호텔/모텔/자택/오피스텔 세종여대생출장 …](https://dev.to/feleji8065/sejongculjanghomtai-sejongmuhansyasculjang-sejonghotelmoteljataegopiseutel-sejongyeodaesaengculjang--2mbn)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Chrome’s Latest Update Introduces an AI-powered ‘Help Me Write’ Feature](https://lifehacker.com/tech/chrome-update-122)
 - [Lifehacker] [The Bose QuietComfort Ultra Earbuds Are $50 Off Right Now](https://lifehacker.com/tech/bose-quietcomfort-ultra-sale)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Free Up Space on Your iCloud Drive](https://lifehacker.com/tech/how-to-free-up-space-on-icloud-drive)
 - [Lifehacker] [Three Reasons to Upgrade Your Mesh Wifi System for Wi-Fi 6](https://lifehacker.com/tech/upgrade-your-mesh-wi-fi-system-for-wifi-6)
 - [Lifehacker] [You Can Now Run Your Own ChatGPT From Your Nvidia GPU](https://lifehacker.com/tech/run-local-ai-llm-from-nvidia-gpu)
-- [Lifehacker] [These Smart-home Upgrades Are Worth the Money](https://lifehacker.com/tech/smart-home-upgrades-worth-the-money)
-- [Lifehacker] [The Five Best Free Alternatives to Splitwise](https://lifehacker.com/tech/best-free-splitwise-alternatives)
-- [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
-- [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Smart-home Upgrades Are Worth the Money](https://lifehacker.com/tech/smart-home-upgrades-worth-the-money)<!-- TECH-POSTS:END -->
 
 ---
 
