@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Share a Google One Subscription With Your Family](https://lifehacker.com/tech/how-to-share-google-one-subscription-with-family)
 - [Dev.to/JS] [JavaScript Efficiency War: Astro.js vs Next.js](https://dev.to/kairatorozobekov/javascript-efficiency-war-astrojs-vs-nextjs-22pm)
+- [Lifehacker] [The Best Tools and Gadgets to Keep Your Kitchen Clean](https://lifehacker.com/home/best-tools-and-gadgets-for-cleaning-your-kitchen)
 - [Dev.to/JS] [How I built NotesGPT – a full-stack AI voice note app](https://dev.to/nutlope/how-i-built-notesgpt-a-full-stack-ai-voice-note-app-265o)
+- [Lifehacker] [Elevate Chicken Fingers With Instant Potato Flakes](https://lifehacker.com/food-drink/chicken-fingers-with-instant-potato-flakes-recipe)
 - [Lifehacker] [You Can Get a Refurbished Peloton+ for $900 Less Than a New One Right Now](https://lifehacker.com/health/refurbished-peloton-plus-deal)
 - [Dev.to/JS] [Curso de BFF com Node.js &lpar;87% OFF&rpar; 🚀](https://dev.to/mateus4k/curso-de-bff-com-nodejs-cupom-1in9)
 - [Dev.to/JS] [Observability &amp; Monitoring in Nodejs using Signoz](https://dev.to/karanjanthe/observability-monitoring-in-nodejs-using-signoz-1hm3)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Roomie Smart Scale on Sale for $28 Right Now](https://lifehacker.com/health/roomie-smart-body-scale-sale)
 - [Lifehacker] [&#39;Stretch Therapy&#39; Can Make You a Lot More Flexible](https://lifehacker.com/health/get-more-flexible-with-stretch-therapy)
 - [Lifehacker] [Five Ways You Could Be Using the Space Above Your Kitchen Cabinets](https://lifehacker.com/home/best-ways-to-use-the-space-above-your-kitchen-cabinets)
-- [Lifehacker] [The Echo Studio Is $45 Off Right Now](https://lifehacker.com/tech/amazon-echo-studio-deal)
-- [Lifehacker] [Stop Putting Your Wet iPhone in Rice, Apple Says](https://lifehacker.com/tech/do-not-put-a-wet-iphone-in-rice)
-- [Lifehacker] [Why You Keep Losing NYT Connections](https://lifehacker.com/entertainment/how-to-win-nyt-connections)
-- [Lifehacker] [These Are the Best Website Builders in 2024](https://lifehacker.com/tech/best-website-builders)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Echo Studio Is $45 Off Right Now](https://lifehacker.com/tech/amazon-echo-studio-deal)<!-- TECH-POSTS:END -->
 
 ---
 
