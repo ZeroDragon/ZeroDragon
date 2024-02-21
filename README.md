@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build a scalable web app with serverless technologies](https://dev.to/honeybadger/how-to-build-a-scalable-web-app-with-serverless-technologies-4h9n)
+- [Dev.to/JS] [Perfect Reactive Dependency Tracking](https://dev.to/ninjin/perfect-reactive-dependency-tracking-85e)
+- [Dev.to/JS] [TypeScript Template Literal Types: Practical Use-Cases for Improved Code Quality](https://dev.to/clarity89/typescript-template-literal-types-practical-use-cases-for-improved-code-quality-257i)
+- [Dev.to/JS] [Dumps Villa Escapes: Explore the Serenity Within](https://dev.to/gref1989/dumps-villa-escapes-explore-the-serenity-within-1m3l)
+- [Dev.to/JS] [First post - let me tell you about my dice roller](https://dev.to/ethandotlog/first-post-let-me-tell-you-about-my-dice-roller-2e7)
 - [Dev.to/JS] [Day 1 of #50daysof code](https://dev.to/jhaniraj/day-1-of-50daysof-code-5ghb)
 - [Dev.to/JS] [Help Needed](https://dev.to/thcoddes/help-needed-48md)
 - [Dev.to/JS] [Myntra Product Info As JSON](https://dev.to/radhe021/myntra-product-info-as-json-2ipa)
@@ -33,14 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Web App to Scan Barcode, Document, and MRZ with JavaScript APIs](https://dev.to/yushulx/how-to-build-a-web-app-to-scan-barcode-document-and-mrz-with-javascript-apis-1oa6)
 - [Dev.to/JS] [JavaScript | What Are Arrow Functions?](https://dev.to/felixd38v_/javascript-what-are-arrow-functions-4pg4)
 - [Dev.to/JS] [Discover the power of a revocable Proxy](https://dev.to/phuocng/discover-the-power-of-a-revocable-proxy-2o18)
-- [Dev.to/JS] [Preventing server-side request forgery in Node.js applications](https://dev.to/snyk/preventing-server-side-request-forgery-in-nodejs-applications-417c)
-- [Dev.to/JS] [game789club](https://dev.to/game789club/game789club-59om)
-- [Dev.to/JS] [Building A File Compressor Using C And Wasm](https://dev.to/buarki/building-a-file-compressor-using-c-and-wasm-289d)
 - [Lifehacker] [Chrome’s Latest Update Introduces an AI-powered ‘Help Me Write’ Feature](https://lifehacker.com/tech/chrome-update-122)
-- [Dev.to/JS] [Perfectly Contrasting Text on a Gradient Background](https://dev.to/propelauth/perfectly-contrasting-text-on-a-gradient-background-7lc)
 - [Lifehacker] [The Bose QuietComfort Ultra Earbuds Are $50 Off Right Now](https://lifehacker.com/tech/bose-quietcomfort-ultra-sale)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
-- [Dev.to/JS] [Add typing to your Javascript code &lpar;without Typescript, kinda&rpar; ✍🏼](https://dev.to/nicolasmontielf/add-typing-to-your-javascript-code-without-typescript-kinda-3aph)
 - [Lifehacker] [Android Users Should Delete These Malware Apps ASAP](https://lifehacker.com/tech/delete-these-android-malware-apps-asap)
 - [Lifehacker] [Use &#39;Shifty&#39; to Take Control of MacOS’ Night Shift](https://lifehacker.com/tech/take-control-of-macos-night-shift-with-shifty)
 - [Lifehacker] [You Can Get Monthly Apple Music Recaps Now](https://lifehacker.com/tech/you-can-get-monthly-apple-music-recaps-now)
