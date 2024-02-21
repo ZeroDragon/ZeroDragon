@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Reactivity?](https://dev.to/this-is-learning/what-is-reactivity-3epf)
+- [Dev.to/JS] [Master Offline AWS Development: Harness the Power of LocalStack!](https://dev.to/codingcatdev/master-offline-aws-development-harness-the-power-of-localstack-50cn)
+- [Dev.to/JS] [Hollow Promises: Async JavaScript](https://dev.to/oculus42/hollow-promises-async-javascript-4b0)
 - [Dev.to/JS] [Breaking IndexedDB consistency to explore its transactions](https://dev.to/debussyman/breaking-indexeddb-consistency-to-explore-its-transactions-371n)
 - [Dev.to/JS] [Buffer.from&lpar;&rpar; vs atob&lpar;&rpar; vs btoa&lpar;&rpar;: The Differences and When to Use Them](https://dev.to/codesensei/bufferfrom-vs-atob-vs-btoa-the-differences-and-when-to-use-them-1f79)
 - [Dev.to/JS] [The Current State of React Server Components: A Guide for the Perplexed](https://dev.to/kathryngrayson/the-current-state-of-react-server-components-a-guide-for-the-perplexed-31eb)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AWS LLRT: A Low Latency Runtime for Serverless Applications](https://dev.to/mjubair/aws-llrt-a-low-latency-runtime-for-serverless-applications-4lfp)
 - [Lifehacker] [The Unlocked Google Pixel 7 Is the Cheapest It’s Ever Been Right Now](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)
 - [Dev.to/JS] [Adding Twitter/VIM-inspired navigation to my React website](https://dev.to/lukeberrypi/adding-twittervim-inspired-navigation-to-my-react-website-49bp)
-- [Dev.to/JS] [Introduction to Back-end](https://dev.to/otumianempire/introduction-to-back-end-8pd)
 - [Lifehacker] [You Can Now Request Women and Nonbinary Drivers on Lyft](https://lifehacker.com/travel/you-can-now-request-women-and-nonbinary-lyft-drivers)
-- [Dev.to/JS] [IndexedDB: Una guía para desarrolladores web frontend](https://dev.to/joanperamas/indexeddb-una-guia-para-desarrolladores-web-frontend-1ch3)
-- [Dev.to/JS] [Dr FarFar](https://dev.to/drfarfar/dr-farfar-3d0f)
 - [Lifehacker] [Wyze Had a Security Breach &lpar;Again&rpar;](https://lifehacker.com/tech/wyze-security-breach-again)
 - [Lifehacker] [What&#39;s New on Hulu in March 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-march-2024)
 - [Lifehacker] [What&#39;s New on Disney+ in March 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-march-2024)
