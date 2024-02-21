@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Preventing server-side request forgery in Node.js applications](https://dev.to/snyk/preventing-server-side-request-forgery-in-nodejs-applications-417c)
+- [Dev.to/JS] [game789club](https://dev.to/game789club/game789club-59om)
+- [Dev.to/JS] [Building A File Compressor Using C And Wasm](https://dev.to/buarki/building-a-file-compressor-using-c-and-wasm-289d)
 - [Dev.to/JS] [Perfectly Contrasting Text on a Gradient Background](https://dev.to/propelauth/perfectly-contrasting-text-on-a-gradient-background-7lc)
+- [Lifehacker] [The Bose QuietComfort Ultra Earbuds Are $50 Off Right Now](https://lifehacker.com/tech/bose-quietcomfort-ultra-sale)
+- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
 - [Dev.to/JS] [Add typing to your Javascript code &lpar;without Typescript, kinda&rpar; ✍🏼](https://dev.to/nicolasmontielf/add-typing-to-your-javascript-code-without-typescript-kinda-3aph)
 - [Dev.to/JS] [Animated 3D Models for the Web](https://dev.to/calumk/3d-animations-in-a-web-page-26jo)
 - [Lifehacker] [Android Users Should Delete These Malware Apps ASAP](https://lifehacker.com/tech/delete-these-android-malware-apps-asap)
@@ -41,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Stretch Therapy&#39; Can Make You a Lot More Flexible](https://lifehacker.com/health/get-more-flexible-with-stretch-therapy)
 - [Dev.to/JS] [Incorpora IA generativa a una aplicación web de JavaScript](https://dev.to/aws-espanol/crea-una-aplicacion-react-genai-con-amazon-bedrock-y-aws-sdk-3pnk)
 - [Dev.to/JS] [Using Mermaid JS to generate a diagram from Power Automate](https://dev.to/mcombp/using-mermaid-js-to-generate-a-diagram-from-power-automate-1f68)
-- [Dev.to/JS] [Clumsy Crucible](https://dev.to/rmion/clumsy-crucible-2p80)
-- [Dev.to/JS] [Exploring Material Tailwind: the best Tailwind CSS component library](https://dev.to/okolieoks234/exploring-material-tailwind-the-best-tailwind-css-component-library-1pm9)
 - [Lifehacker] [Five Ways You Could Be Using the Space Above Your Kitchen Cabinets](https://lifehacker.com/home/best-ways-to-use-the-space-above-your-kitchen-cabinets)
-- [Dev.to/JS] [Mastering the Art of Debugging: A Comprehensive Guide for Developers](https://dev.to/adityasrivastavds/mastering-the-art-of-debugging-a-comprehensive-guide-for-developers-3g1n)
 - [Lifehacker] [The Echo Studio Is $45 Off Right Now](https://lifehacker.com/tech/amazon-echo-studio-deal)
 - [Lifehacker] [Stop Putting Your Wet iPhone in Rice, Apple Says](https://lifehacker.com/tech/do-not-put-a-wet-iphone-in-rice)
 - [Lifehacker] [Why You Keep Losing NYT Connections](https://lifehacker.com/entertainment/how-to-win-nyt-connections)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
 - [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
 - [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)
-- [Lifehacker] [How to Respond When Your Kid Hurts Your Feelings](https://lifehacker.com/family/how-to-respond-when-your-kid-hurts-your-feelings)
-- [Lifehacker] [Use the &#39;Pickle Jar Theory&#39; to Prioritize Your Tasks](https://lifehacker.com/work/pickle-jar-theory-to-prioritize-tasks)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 17, 2024](https://lifehacker.com/entertainment/wordle-answer-today-february-17-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Respond When Your Kid Hurts Your Feelings](https://lifehacker.com/family/how-to-respond-when-your-kid-hurts-your-feelings)<!-- TECH-POSTS:END -->
 
 ---
 
