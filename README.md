@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript | What Are Arrow Functions?](https://dev.to/felixd38v_/javascript-what-are-arrow-functions-4pg4)
 - [Dev.to/JS] [Discover the power of a revocable Proxy](https://dev.to/phuocng/discover-the-power-of-a-revocable-proxy-2o18)
 - [Dev.to/JS] [Preventing server-side request forgery in Node.js applications](https://dev.to/snyk/preventing-server-side-request-forgery-in-nodejs-applications-417c)
 - [Dev.to/JS] [game789club](https://dev.to/game789club/game789club-59om)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prisma vs Sequelize: A Comprehensive Comparison of Node.js ORMs](https://dev.to/abdalshafiealmajdoup/prisma-vs-sequelize-a-comprehensive-comparison-of-nodejs-orms-145o)
 - [Lifehacker] [You Can Get This Roomie Smart Scale on Sale for $28 Right Now](https://lifehacker.com/health/roomie-smart-body-scale-sale)
 - [Lifehacker] [&#39;Stretch Therapy&#39; Can Make You a Lot More Flexible](https://lifehacker.com/health/get-more-flexible-with-stretch-therapy)
-- [Dev.to/JS] [Incorpora IA generativa a una aplicación web de JavaScript](https://dev.to/aws-espanol/crea-una-aplicacion-react-genai-con-amazon-bedrock-y-aws-sdk-3pnk)
 - [Lifehacker] [Five Ways You Could Be Using the Space Above Your Kitchen Cabinets](https://lifehacker.com/home/best-ways-to-use-the-space-above-your-kitchen-cabinets)
 - [Lifehacker] [The Echo Studio Is $45 Off Right Now](https://lifehacker.com/tech/amazon-echo-studio-deal)
 - [Lifehacker] [Stop Putting Your Wet iPhone in Rice, Apple Says](https://lifehacker.com/tech/do-not-put-a-wet-iphone-in-rice)
