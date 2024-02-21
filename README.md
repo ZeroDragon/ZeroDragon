@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/venallwilly/buy-verified-cash-app-account-37d1)
+- [Dev.to/JS] [Are TypeScript enums Still Bad?](https://dev.to/marileon/are-typescript-enums-still-bad-35ab)
+- [Dev.to/JS] [Master Your Code with ESLint Configurations 🚀](https://dev.to/kibumpng/master-your-code-with-eslint-configurations-2a5i)
 - [Dev.to/JS] [Using Deep Links Effectively in Your Shopify App Theme Extensions](https://dev.to/joshatflare/using-deep-links-effectively-in-your-shopify-app-theme-ui-extensions-33m9)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/venallwilly/buy-google-reviews-4g3d)
 - [Dev.to/JS] [The Secret Weapon of Top Developers: 7 React JS Libraries You Can&#39;t Afford to Ignore](https://dev.to/nluxai/the-secret-weapon-of-top-developers-7-react-js-libraries-you-cant-afford-to-ignore-2n0o)
 - [Dev.to/JS] [JavaScript Data Grid Plugin](https://dev.to/gessielsp/javascript-data-grid-plugin-154a)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/venallwilly/buy-google-5-star-reviews-1f10)
 - [Dev.to/JS] [Don&#39;t be AFRAID of Typescript!](https://dev.to/princekukreja/dont-be-afraid-of-typescript-2p3j)
+- [Lifehacker] [These Are the Best BBQ Sauces for Pizza](https://lifehacker.com/food-drink/the-best-bbq-sauces-for-pizza)
 - [Dev.to/JS] [Maximizing Revenue with WordPress Plugins](https://dev.to/jamesmartindev/monetizing-your-wordpress-plugins-strategies-and-considerations-3o6c)
 - [Dev.to/JS] [Building a Blog with Next.js and Markdown](https://dev.to/nitin-rachabathuni/building-a-blog-with-nextjs-and-markdown-59da)
 - [Dev.to/JS] [세종출장홈타이 ◀-라인wag58 ▶ 세종무한샷출장 세종호텔/모텔/자택/오피스텔 세종여대생출장 …](https://dev.to/feleji8065/sejongculjanghomtai-sejongmuhansyasculjang-sejonghotelmoteljataegopiseutel-sejongyeodaesaengculjang--2mbn)
-- [Dev.to/JS] [제천외국인출장? 《LINE-wag58》제천출장샵추천 제천외국인출장 제천출장안마 제천출장부르기](https://dev.to/feleji8065/jeceonoeguginculjang-jeceonculjangsyabcuceon-jeceonoeguginculjang-jeceonculjanganma-jeceonculjangbureugi-19cm)
-- [Dev.to/JS] [과천홈타이 상담문의LINE-wag58 과천출장아가씨 과천출장마사지 과천후불출장샵 과천콜걸출장샵](https://dev.to/feleji8065/gwaceonhomtai-sangdammunyiline-wag58-gwaceonculjangagassi-gwaceonculjangmasaji-gwaceonhubulculjangsyab-gwaceonkolgeolculjangsyab-1he8)
-- [Dev.to/JS] [양천구모텔출장♬만남☎ 상담톡 sx-58☎양천구모델급 몸매 양천구출장샵 양천구여대생출장 양천구출장샵추천](https://dev.to/feleji8065/yangceongumotelculjangmannam-sangdamtog-sx-58yangceongumodelgeub-mommae-yangceonguculjangsyab-yangceonguyeodaesaengculjang-yangceonguculjangsyabcuceon-2alh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Chrome’s Latest Update Introduces an AI-powered ‘Help Me Write’ Feature](https://lifehacker.com/tech/chrome-update-122)
 - [Lifehacker] [The Bose QuietComfort Ultra Earbuds Are $50 Off Right Now](https://lifehacker.com/tech/bose-quietcomfort-ultra-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Smart-home Upgrades Are Worth the Money](https://lifehacker.com/tech/smart-home-upgrades-worth-the-money)
 - [Lifehacker] [The Five Best Free Alternatives to Splitwise](https://lifehacker.com/tech/best-free-splitwise-alternatives)
 - [Lifehacker] [‘Mental Time Travel’ Can Help You Make Better Decisions](https://lifehacker.com/health/mental-time-travel-to-make-better-decisions)
-- [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)
-- [Lifehacker] [Building a DIY Solar Panel Is Surprisingly Straightforward](https://lifehacker.com/home/how-to-build-a-diy-solar-panel)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Hidden Safari Features You Simply Must Try](https://lifehacker.com/tech/best-hidden-safari-features)<!-- TECH-POSTS:END -->
 
 ---
 
