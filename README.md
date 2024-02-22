@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Ultimate Roadmap to a Full-Stack Developer](https://dev.to/adhikareeprayush/the-ultimate-roadmap-to-a-full-stack-developer-5elh)
+- [Dev.to/JS] [Base64 Data and Its Application](https://dev.to/karanrathod316/base64-data-and-its-application-4pb5)
+- [Dev.to/JS] [Demystifying Headless - Dev Resources](https://dev.to/alangleeson/demystifying-headless-dev-resources-f8n)
 - [Dev.to/JS] [Setting Up SMTP Relay for Enhanced Email Reliability](https://dev.to/scofieldidehen/setting-up-smtp-relay-for-enhanced-email-reliability-1j9i)
 - [Dev.to/JS] [A Well-Architected FastAPI Boilerplate](https://dev.to/mohammadfaisal/a-well-architected-fastapi-boilerplate-17ao)
 - [Dev.to/JS] [Navigating JavaScript Essentials: Arrays, Strings, and Objects for Beginners](https://dev.to/devendra_2806/navigating-javascript-essentials-arrays-strings-and-objects-for-beginners-1h9f)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How do we maintain strong relationships and partnerships with our suppliers and vendors?](https://dev.to/yagnapandya9/how-do-we-maintain-strong-relationships-and-partnerships-with-our-suppliers-and-vendors-j61)
 - [Dev.to/JS] [One last time : API URL vs Api URI](https://dev.to/sanjaykhanssk/one-last-time-api-url-vs-api-uri-3kjp)
 - [Dev.to/JS] [Understanding Java Full Stack Development](https://dev.to/ppaannkkaajj9927/understanding-java-full-stack-development-40pm)
-- [Dev.to/JS] [Unlocking Interactivity: Crafting a Hamburger Menu with HTML, CSS, and JavaScript](https://dev.to/mattbug3/unlocking-interactivity-crafting-a-hamburger-menu-with-html-css-and-javascript-1lo8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 22, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Difference between == and ===, that you don&#39;t know yet! 🔥](https://dev.to/alisamirali/difference-between-and-that-you-dont-know-yet-4j63)
-- [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts112/buy-google-ads-accounts-3bpm)
 - [Lifehacker] [This Eton Elite Executive Radio Is on Sale for $150 Right Now](https://lifehacker.com/eton-elite-executive-radio-sale)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s Couple-Painting Trend](https://lifehacker.com/entertainment/tiktoks-couple-painting-trend-out-of-touch-adults-guide-to-kid-culture)
 - [Lifehacker] [These Are the Best Bicep Exercises](https://lifehacker.com/health/best-bicep-exercises)
