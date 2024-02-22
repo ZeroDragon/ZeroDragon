@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add multiple documents to firestore from Nextjs14](https://dev.to/thatanjan/how-to-add-multiple-documents-to-firestore-from-nextjs14-4okk)
+- [Dev.to/JS] [Cancer can be caused by numerous factors](https://dev.to/jaes12/cancer-can-be-caused-by-numerous-factors-5hlp)
 - [Dev.to/JS] [The Ultimate Roadmap to a Full-Stack Developer](https://dev.to/adhikareeprayush/the-ultimate-roadmap-to-a-full-stack-developer-5elh)
 - [Dev.to/JS] [Base64 Data and Its Application](https://dev.to/karanrathod316/base64-data-and-its-application-4pb5)
 - [Dev.to/JS] [Demystifying Headless - Dev Resources](https://dev.to/alangleeson/demystifying-headless-dev-resources-f8n)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Everyone want to be successful. What is success according to you?](https://dev.to/sanjaykhanssk/everyone-want-to-be-successful-what-is-success-according-to-you-276d)
 - [Dev.to/JS] [How to mock NgRx Signal Stores for unit tests and Storybook Play interaction tests &lpar;both manually and automatically&rpar;](https://dev.to/this-is-angular/how-to-mock-ngrx-signal-stores-for-unit-tests-and-storybook-play-interaction-tests-both-manually-and-automatically-30g0)
 - [Dev.to/JS] [How do we maintain strong relationships and partnerships with our suppliers and vendors?](https://dev.to/yagnapandya9/how-do-we-maintain-strong-relationships-and-partnerships-with-our-suppliers-and-vendors-j61)
-- [Dev.to/JS] [One last time : API URL vs Api URI](https://dev.to/sanjaykhanssk/one-last-time-api-url-vs-api-uri-3kjp)
-- [Dev.to/JS] [Understanding Java Full Stack Development](https://dev.to/ppaannkkaajj9927/understanding-java-full-stack-development-40pm)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 22, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This Eton Elite Executive Radio Is on Sale for $150 Right Now](https://lifehacker.com/eton-elite-executive-radio-sale)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s Couple-Painting Trend](https://lifehacker.com/entertainment/tiktoks-couple-painting-trend-out-of-touch-adults-guide-to-kid-culture)
