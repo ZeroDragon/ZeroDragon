@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10+ Free Tailwind CSS Admin Dashboard Templates](https://dev.to/easetemplates/10-free-tailwind-css-admin-dashboard-templates-40fo)
 - [Dev.to/JS] [Lambda](https://dev.to/chandandev/lambda-2lnd)
 - [Dev.to/JS] [Intro to Control Flow](https://dev.to/alexphebert2000/intro-to-control-flow-5hcg)
 - [Dev.to/JS] [Build a SQL query builder](https://dev.to/phuocng/build-a-sql-query-builder-1idg)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Refurbished Peloton+ for $900 Less Than a New One Right Now](https://lifehacker.com/health/refurbished-peloton-plus-deal)
 - [Dev.to/JS] [Curso de BFF com Node.js &lpar;87% OFF&rpar; 🚀](https://dev.to/mateus4k/curso-de-bff-com-nodejs-cupom-1in9)
 - [Dev.to/JS] [Observability &amp; Monitoring in Nodejs using Signoz](https://dev.to/karanjanthe/observability-monitoring-in-nodejs-using-signoz-1hm3)
-- [Dev.to/JS] [Utilizing Pulse Oximetry for Precise Oxygen Monitoring](https://dev.to/vakese1846/utilizing-pulse-oximetry-for-precise-oxygen-monitoring-5688)
 - [Lifehacker] [How to Choose the Right SSD to Buy](https://lifehacker.com/tech/how-to-choose-ssd-to-buy)
 - [Lifehacker] [How to Tell If You Qualify for the Earned Income Tax Credit](https://lifehacker.com/do-i-qualify-for-the-earned-income-tax-credit-1846286780)
 - [Lifehacker] [How to Use a Rice Cooker for Rice &lpar;and so Much More&rpar;](https://lifehacker.com/food-drink/how-to-use-a-rice-cooker)
