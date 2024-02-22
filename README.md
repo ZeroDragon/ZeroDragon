@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The 5 Most Important Features on phived.com](https://dev.to/lukeberrypi/the-5-most-important-features-on-phivedcom-317j)
+- [Dev.to/JS] [React será compilado](https://dev.to/allangrds/react-sera-compilado-1dc1)
+- [Lifehacker] [Try These Alternatives to SMART Goals to Get More Done](https://lifehacker.com/work/alternatives-to-smart-goals-to-get-more-done)
+- [Dev.to/JS] [How to hide JavaScript code form view source](https://dev.to/ysf00009/how-to-hide-javascript-code-form-view-source-1e7e)
+- [Lifehacker] [Is Using LinkedIn’s &#39;Open to Work&#39; Badge Helping or Hurting Your Job Search?](https://lifehacker.com/work/pros-and-cons-of-using-linkedins-open-to-work-badge)
 - [Dev.to/JS] [Exploring React 19: Delving into the Anticipated Major Update](https://dev.to/abhishek06singh/exploring-react-19-delving-into-the-anticipated-major-update-opp)
+- [Lifehacker] [The POSEC Method Is a Better Way to Structure Your Time](https://lifehacker.com/work/use-the-posec-method-to-structure-your-time)
+- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [The Best Ways to Furnish a Small Living Space](https://lifehacker.com/home/best-ways-to-furnish-small-space)
 - [Dev.to/JS] [Ready to #learn and #share](https://dev.to/sathwikgaddi/ready-to-learn-and-share-1e71)
@@ -42,10 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Threading vs Asyncio vs Multiprocessing](https://dev.to/coderatul/threading-vs-asyncio-vs-multiprocessing-10ed)
 - [Dev.to/JS] [help](https://dev.to/tony1989/help-1ko1)
 - [Dev.to/JS] [How to Identify and Hire Talented .NET Developers?](https://dev.to/integrativeusa/how-to-identify-and-hire-talented-net-developers-1fa6)
-- [Dev.to/JS] [Review my React-native Based Playground](https://dev.to/suprsend/review-my-react-native-based-playground-2db2)
 - [Lifehacker] [Don&#39;t Fall for TSA PreCheck Application Scams](https://lifehacker.com/travel/dont-fall-for-tsa-precheck-application-scams)
-- [Dev.to/JS] [Interactive Map with Angular CLI](https://dev.to/akashakki/interactive-map-with-angular-cli-16g1)
-- [Dev.to/JS] [How NodeJs Works??](https://dev.to/mahimabhardwaj/how-nodejs-works-42l5)
 - [Lifehacker] [How the ‘Spoon’ and ‘Fork&#39; Theories Can Make You More Compassionate to Yourself &lpar;and Others&rpar;](https://lifehacker.com/health/what-are-the-spoon-and-fork-theories)
 - [Lifehacker] [These Are the Best Free VPNs for Android](https://lifehacker.com/tech/best-free-vpns-for-android)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 22, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use a Rice Cooker for Rice &lpar;and so Much More&rpar;](https://lifehacker.com/food-drink/how-to-use-a-rice-cooker)
 - [Lifehacker] [What&#39;s New on Netflix in March 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-march-2024)
 - [Lifehacker] [You Can Get 2TB of PhotoSphere Storage for $280 Right Now](https://lifehacker.com/tech/photosphere-sale)
-- [Lifehacker] [How to Be a ‘Lighthouse Parent’](https://lifehacker.com/family/how-to-be-lighthouse-parent)
-- [Lifehacker] [The Unlocked Google Pixel 7 Is the Cheapest It’s Ever Been Right Now](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)
-- [Lifehacker] [You Can Now Request Women and Nonbinary Drivers on Lyft](https://lifehacker.com/travel/you-can-now-request-women-and-nonbinary-lyft-drivers)
-- [Lifehacker] [Wyze Had a Security Breach &lpar;Again&rpar;](https://lifehacker.com/tech/wyze-security-breach-again)
-- [Lifehacker] [What&#39;s New on Hulu in March 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-march-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Be a ‘Lighthouse Parent’](https://lifehacker.com/family/how-to-be-lighthouse-parent)<!-- TECH-POSTS:END -->
 
 ---
 
