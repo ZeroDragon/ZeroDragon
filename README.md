@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating JavaScript Essentials: Arrays, Strings, and Objects for Beginners](https://dev.to/devendra_2806/navigating-javascript-essentials-arrays-strings-and-objects-for-beginners-1h9f)
+- [Dev.to/JS] [Introducing Global Search for Generated Apps](https://dev.to/flatlogic/introducing-global-search-for-generated-apps-hbd)
+- [Dev.to/JS] [Everyone want to be successful. What is success according to you?](https://dev.to/sanjaykhanssk/everyone-want-to-be-successful-what-is-success-according-to-you-276d)
+- [Dev.to/JS] [How to mock NgRx Signal Stores for unit tests and Storybook Play interaction tests &lpar;both manually and automatically&rpar;](https://dev.to/this-is-angular/how-to-mock-ngrx-signal-stores-for-unit-tests-and-storybook-play-interaction-tests-both-manually-and-automatically-30g0)
+- [Dev.to/JS] [How do we maintain strong relationships and partnerships with our suppliers and vendors?](https://dev.to/yagnapandya9/how-do-we-maintain-strong-relationships-and-partnerships-with-our-suppliers-and-vendors-j61)
+- [Dev.to/JS] [One last time : API URL vs Api URI](https://dev.to/sanjaykhanssk/one-last-time-api-url-vs-api-uri-3kjp)
 - [Dev.to/JS] [Understanding Java Full Stack Development](https://dev.to/ppaannkkaajj9927/understanding-java-full-stack-development-40pm)
 - [Dev.to/JS] [Unlocking Interactivity: Crafting a Hamburger Menu with HTML, CSS, and JavaScript](https://dev.to/mattbug3/unlocking-interactivity-crafting-a-hamburger-menu-with-html-css-and-javascript-1lo8)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 22, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -33,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts112/buy-google-ads-accounts-3bpm)
 - [Dev.to/JS] [Embracing Polymorphism: Flexibility in JavaScript and React](https://dev.to/arvindkhadri/embracing-polymorphism-flexibility-in-javascript-and-react-192g)
 - [Dev.to/JS] [Dive into ES6](https://dev.to/allyn/dive-into-es6-3ag)
-- [Dev.to/JS] [Dumps Villa: A Journey to Remember, Memories to Treasure](https://dev.to/nb90974e/dumps-villa-a-journey-to-remember-memories-to-treasure-5e9c)
-- [Dev.to/JS] [🚀 10 &quot;Hard Truths&quot; Junior Developers Need to Hear](https://dev.to/aditya_raj_1010/10-hard-truths-junior-developers-need-to-hear-1bd0)
-- [Dev.to/JS] [Leveraging Next.js for High-Performance eCommerce Stores](https://dev.to/nitin-rachabathuni/leveraging-nextjs-for-high-performance-ecommerce-stores-14o0)
-- [Dev.to/JS] [Throttling ⏱️ vs Debouncing ⏳: Boost Performance for your React app 🚀](https://dev.to/fidalmathew/throttling-vs-debouncing-boost-performance-3amm)
-- [Dev.to/JS] [What industries and applications stand to benefit the most from AI-generated code?](https://dev.to/yagnapandya9/what-industries-and-applications-stand-to-benefit-the-most-from-ai-generated-code-1e2g)
-- [Dev.to/JS] [Best Web development company in USA at Aswebsole](https://dev.to/falknerallison/best-web-development-company-in-usa-at-aswebsole-g5f)
 - [Lifehacker] [This Eton Elite Executive Radio Is on Sale for $150 Right Now](https://lifehacker.com/eton-elite-executive-radio-sale)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s Couple-Painting Trend](https://lifehacker.com/entertainment/tiktoks-couple-painting-trend-out-of-touch-adults-guide-to-kid-culture)
 - [Lifehacker] [These Are the Best Bicep Exercises](https://lifehacker.com/health/best-bicep-exercises)
