@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring React 19: Delving into the Anticipated Major Update](https://dev.to/abhishek06singh/exploring-react-19-delving-into-the-anticipated-major-update-opp)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [The Best Ways to Furnish a Small Living Space](https://lifehacker.com/home/best-ways-to-furnish-small-space)
 - [Dev.to/JS] [Ready to #learn and #share](https://dev.to/sathwikgaddi/ready-to-learn-and-share-1e71)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Fall for TSA PreCheck Application Scams](https://lifehacker.com/travel/dont-fall-for-tsa-precheck-application-scams)
 - [Dev.to/JS] [Interactive Map with Angular CLI](https://dev.to/akashakki/interactive-map-with-angular-cli-16g1)
 - [Dev.to/JS] [How NodeJs Works??](https://dev.to/mahimabhardwaj/how-nodejs-works-42l5)
-- [Dev.to/JS] [Mastering Javascript One-Liners to Look Like a Pro](https://dev.to/benajaero/mastering-javascript-one-liners-to-look-like-a-pro-ka4)
 - [Lifehacker] [How the ‘Spoon’ and ‘Fork&#39; Theories Can Make You More Compassionate to Yourself &lpar;and Others&rpar;](https://lifehacker.com/health/what-are-the-spoon-and-fork-theories)
 - [Lifehacker] [These Are the Best Free VPNs for Android](https://lifehacker.com/tech/best-free-vpns-for-android)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 22, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
