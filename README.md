@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro to Control Flow](https://dev.to/alexphebert2000/intro-to-control-flow-5hcg)
 - [Dev.to/JS] [Build a SQL query builder](https://dev.to/phuocng/build-a-sql-query-builder-1idg)
 - [Dev.to/JS] [Preventing SQL injection attacks in Node.js](https://dev.to/snyk/preventing-sql-injection-attacks-in-nodejs-ni9)
 - [Dev.to/JS] [Double Trouble: Why Your React Component Loads Twice with useMemo](https://dev.to/nwhitmont/double-trouble-why-your-react-component-loads-twice-with-usememo-ldj)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Utilizing Pulse Oximetry for Precise Oxygen Monitoring](https://dev.to/vakese1846/utilizing-pulse-oximetry-for-precise-oxygen-monitoring-5688)
 - [Dev.to/JS] [Enhancing Professional Growth in Healthcare](https://dev.to/vakese1846/enhancing-professional-growth-in-healthcare-40p4)
 - [Lifehacker] [How to Choose the Right SSD to Buy](https://lifehacker.com/tech/how-to-choose-ssd-to-buy)
-- [Dev.to/JS] [What is Reactivity?](https://dev.to/this-is-learning/what-is-reactivity-3epf)
 - [Lifehacker] [How to Tell If You Qualify for the Earned Income Tax Credit](https://lifehacker.com/do-i-qualify-for-the-earned-income-tax-credit-1846286780)
 - [Lifehacker] [How to Use a Rice Cooker for Rice &lpar;and so Much More&rpar;](https://lifehacker.com/food-drink/how-to-use-a-rice-cooker)
 - [Lifehacker] [What&#39;s New on Netflix in March 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-march-2024)
