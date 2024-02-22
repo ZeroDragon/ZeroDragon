@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Destructuring Arrays in JavaScript](https://dev.to/baroblesvi/destructuring-arrays-in-javascript-4c5n)
+- [Dev.to/JS] [Desestruturação de Arrays em JavaScript](https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5)
 - [Lifehacker] [Use &#39;Polyvagal Theory&#39; to Feel More Comfortable in Social Situations](https://lifehacker.com/relationships/use-polyvagal-theory-in-social-situations)
 - [Dev.to/JS] [Threading vs Asyncio vs Multiprocessing](https://dev.to/coderatul/threading-vs-asyncio-vs-multiprocessing-10ed)
 - [Dev.to/JS] [help](https://dev.to/tony1989/help-1ko1)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The last mile of functional-reactive web development](https://dev.to/dariomannu/the-last-mile-of-functional-reactive-web-development-3352)
 - [Dev.to/JS] [🌟 On-Scroll Elegance - Animate Your Sticky Sections with Flair](https://dev.to/adam/on-scroll-elegance-animate-your-sticky-sections-with-flair-3koo)
 - [Lifehacker] [How the ‘Spoon’ and ‘Fork&#39; Theories Can Make You More Compassionate to Yourself &lpar;and Others&rpar;](https://lifehacker.com/health/what-are-the-spoon-and-fork-theories)
-- [Dev.to/JS] [Mastering React State Management with useReducer: A Comprehensive Guide](https://dev.to/sharmaprash/mastering-react-state-management-with-usereducer-a-comprehensive-guide-104)
-- [Dev.to/JS] [12 Projects to Build to Improve Your Coding Skills 👨‍💻👩‍💻](https://dev.to/madza/12-projects-to-build-to-improve-your-coding-skills-58fa)
 - [Lifehacker] [These Are the Best Free VPNs for Android](https://lifehacker.com/tech/best-free-vpns-for-android)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 22, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This Eton Elite Executive Radio Is on Sale for $150 Right Now](https://lifehacker.com/eton-elite-executive-radio-sale)
