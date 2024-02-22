@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Java Full Stack Development](https://dev.to/ppaannkkaajj9927/understanding-java-full-stack-development-40pm)
+- [Dev.to/JS] [Unlocking Interactivity: Crafting a Hamburger Menu with HTML, CSS, and JavaScript](https://dev.to/mattbug3/unlocking-interactivity-crafting-a-hamburger-menu-with-html-css-and-javascript-1lo8)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 22, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Difference between == and ===, that you don&#39;t know yet! 🔥](https://dev.to/alisamirali/difference-between-and-that-you-dont-know-yet-4j63)
 - [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts112/buy-google-ads-accounts-3bpm)
 - [Dev.to/JS] [Embracing Polymorphism: Flexibility in JavaScript and React](https://dev.to/arvindkhadri/embracing-polymorphism-flexibility-in-javascript-and-react-192g)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Throttling ⏱️ vs Debouncing ⏳: Boost Performance for your React app 🚀](https://dev.to/fidalmathew/throttling-vs-debouncing-boost-performance-3amm)
 - [Dev.to/JS] [What industries and applications stand to benefit the most from AI-generated code?](https://dev.to/yagnapandya9/what-industries-and-applications-stand-to-benefit-the-most-from-ai-generated-code-1e2g)
 - [Dev.to/JS] [Best Web development company in USA at Aswebsole](https://dev.to/falknerallison/best-web-development-company-in-usa-at-aswebsole-g5f)
-- [Dev.to/JS] [React 19: A Deep Dive into the Upcoming Major Release](https://dev.to/ashishxcode/react-19-a-deep-dive-into-the-upcoming-major-release-1pa7)
-- [Dev.to/JS] [10+ Free Tailwind CSS Admin Dashboard Templates](https://dev.to/easetemplates/10-free-tailwind-css-admin-dashboard-templates-40fo)
 - [Lifehacker] [This Eton Elite Executive Radio Is on Sale for $150 Right Now](https://lifehacker.com/eton-elite-executive-radio-sale)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s Couple-Painting Trend](https://lifehacker.com/entertainment/tiktoks-couple-painting-trend-out-of-touch-adults-guide-to-kid-culture)
 - [Lifehacker] [These Are the Best Bicep Exercises](https://lifehacker.com/health/best-bicep-exercises)
@@ -57,7 +58,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in March 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-march-2024)
 - [Lifehacker] [What&#39;s New on Disney+ in March 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-march-2024)
 - [Lifehacker] [These Are the Best BBQ Sauces for Pizza](https://lifehacker.com/food-drink/the-best-bbq-sauces-for-pizza)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 21, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Chrome’s Latest Update Introduces an AI-powered ‘Help Me Write’ Feature](https://lifehacker.com/tech/chrome-update-122)
 - [Lifehacker] [The Bose QuietComfort Ultra Earbuds Are $50 Off Right Now](https://lifehacker.com/tech/bose-quietcomfort-ultra-sale)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
