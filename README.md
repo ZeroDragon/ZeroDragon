@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
+- [Lifehacker] [The Best Ways to Furnish a Small Living Space](https://lifehacker.com/home/best-ways-to-furnish-small-space)
 - [Dev.to/JS] [Ready to #learn and #share](https://dev.to/sathwikgaddi/ready-to-learn-and-share-1e71)
 - [Dev.to/JS] [Recycling Companion: Revolutionizing Recycling with AI and Community Engagement](https://dev.to/mursalfk/recycling-companion-revolutionizing-recycling-with-ai-and-community-engagement-45eo)
+- [Lifehacker] [What to Consider Before Buying a New Kitchen Faucet](https://lifehacker.com/home/how-to-choose-a-faucet-for-your-kitchen)
 - [Dev.to/JS] [Turn Text Into Structured Data Using JavaScript &amp; OpenAI&#39;s GPT](https://dev.to/aris_pattakos/turn-text-into-structured-data-using-javascript-openais-gpt-42k7)
+- [Lifehacker] [The 13 Best Shows and Movies for Your Dino-Obsessed Kid](https://lifehacker.com/entertainment/best-shows-and-movies-for-dino-obsessed-kid)
 - [Dev.to/JS] [Destructuring Arrays in JavaScript](https://dev.to/baroblesvi/destructuring-arrays-in-javascript-4c5n)
 - [Dev.to/JS] [Desestruturação de Arrays em JavaScript](https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5)
 - [Lifehacker] [These Are the Best Vegetables for a More Vibrant Spring Garden](https://lifehacker.com/home/best-vegetables-for-a-more-vibrant-spring-garden)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Unlocked Google Pixel 7 Is the Cheapest It’s Ever Been Right Now](https://lifehacker.com/the-google-pixel-7-is-the-cheapest-it-s-ever-been-1850986613)
 - [Lifehacker] [You Can Now Request Women and Nonbinary Drivers on Lyft](https://lifehacker.com/travel/you-can-now-request-women-and-nonbinary-lyft-drivers)
 - [Lifehacker] [Wyze Had a Security Breach &lpar;Again&rpar;](https://lifehacker.com/tech/wyze-security-breach-again)
-- [Lifehacker] [What&#39;s New on Hulu in March 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-march-2024)
-- [Lifehacker] [What&#39;s New on Disney+ in March 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-march-2024)
-- [Lifehacker] [These Are the Best BBQ Sauces for Pizza](https://lifehacker.com/food-drink/the-best-bbq-sauces-for-pizza)
-- [Lifehacker] [Chrome’s Latest Update Introduces an AI-powered ‘Help Me Write’ Feature](https://lifehacker.com/tech/chrome-update-122)
-- [Lifehacker] [The Bose QuietComfort Ultra Earbuds Are $50 Off Right Now](https://lifehacker.com/tech/bose-quietcomfort-ultra-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Hulu in March 2024](https://lifehacker.com/entertainment/whats-new-on-hulu-in-march-2024)<!-- TECH-POSTS:END -->
 
 ---
 
