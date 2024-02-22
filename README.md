@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ExpressVPN lanza un nuevo servidor](https://dev.to/chrisperry07/expressvpn-lanza-un-nuevo-servidor-5bhh)
 - [Dev.to/JS] [The 5 Most Important Features on phived.com](https://dev.to/lukeberrypi/the-5-most-important-features-on-phivedcom-317j)
 - [Dev.to/JS] [React será compilado](https://dev.to/allangrds/react-sera-compilado-1dc1)
 - [Lifehacker] [Try These Alternatives to SMART Goals to Get More Done](https://lifehacker.com/work/alternatives-to-smart-goals-to-get-more-done)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use &#39;Polyvagal Theory&#39; to Feel More Comfortable in Social Situations](https://lifehacker.com/relationships/use-polyvagal-theory-in-social-situations)
 - [Dev.to/JS] [Threading vs Asyncio vs Multiprocessing](https://dev.to/coderatul/threading-vs-asyncio-vs-multiprocessing-10ed)
 - [Dev.to/JS] [help](https://dev.to/tony1989/help-1ko1)
-- [Dev.to/JS] [How to Identify and Hire Talented .NET Developers?](https://dev.to/integrativeusa/how-to-identify-and-hire-talented-net-developers-1fa6)
 - [Lifehacker] [Don&#39;t Fall for TSA PreCheck Application Scams](https://lifehacker.com/travel/dont-fall-for-tsa-precheck-application-scams)
 - [Lifehacker] [How the ‘Spoon’ and ‘Fork&#39; Theories Can Make You More Compassionate to Yourself &lpar;and Others&rpar;](https://lifehacker.com/health/what-are-the-spoon-and-fork-theories)
 - [Lifehacker] [These Are the Best Free VPNs for Android](https://lifehacker.com/tech/best-free-vpns-for-android)
