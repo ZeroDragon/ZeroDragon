@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Difference between == and ===, that you don&#39;t know yet! 🔥](https://dev.to/alisamirali/difference-between-and-that-you-dont-know-yet-4j63)
+- [Dev.to/JS] [Buy Google Ads Accounts](https://dev.to/smmproducts112/buy-google-ads-accounts-3bpm)
+- [Dev.to/JS] [Embracing Polymorphism: Flexibility in JavaScript and React](https://dev.to/arvindkhadri/embracing-polymorphism-flexibility-in-javascript-and-react-192g)
 - [Dev.to/JS] [Dive into ES6](https://dev.to/allyn/dive-into-es6-3ag)
 - [Dev.to/JS] [Dumps Villa: A Journey to Remember, Memories to Treasure](https://dev.to/nb90974e/dumps-villa-a-journey-to-remember-memories-to-treasure-5e9c)
 - [Dev.to/JS] [🚀 10 &quot;Hard Truths&quot; Junior Developers Need to Hear](https://dev.to/aditya_raj_1010/10-hard-truths-junior-developers-need-to-hear-1bd0)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Web development company in USA at Aswebsole](https://dev.to/falknerallison/best-web-development-company-in-usa-at-aswebsole-g5f)
 - [Dev.to/JS] [React 19: A Deep Dive into the Upcoming Major Release](https://dev.to/ashishxcode/react-19-a-deep-dive-into-the-upcoming-major-release-1pa7)
 - [Dev.to/JS] [10+ Free Tailwind CSS Admin Dashboard Templates](https://dev.to/easetemplates/10-free-tailwind-css-admin-dashboard-templates-40fo)
-- [Dev.to/JS] [Lambda](https://dev.to/chandandev/lambda-2lnd)
-- [Dev.to/JS] [How to Build a Survey With KwesForms and Astro](https://dev.to/pauliescanlon/how-to-build-a-survey-with-kwesforms-and-astro-28oa)
-- [Dev.to/JS] [Intro to Control Flow](https://dev.to/alexphebert2000/intro-to-control-flow-5hcg)
 - [Lifehacker] [This Eton Elite Executive Radio Is on Sale for $150 Right Now](https://lifehacker.com/eton-elite-executive-radio-sale)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s Couple-Painting Trend](https://lifehacker.com/entertainment/tiktoks-couple-painting-trend-out-of-touch-adults-guide-to-kid-culture)
 - [Lifehacker] [These Are the Best Bicep Exercises](https://lifehacker.com/health/best-bicep-exercises)
