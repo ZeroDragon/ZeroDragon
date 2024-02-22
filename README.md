@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [To Do List React](https://dev.to/dsfhigor/to-do-list-react-2171)
+- [Dev.to/JS] [Profile Components: SSR with Declarative Shadow DOM](https://dev.to/scottnath/profile-components-ssr-with-declarative-shadow-dom-2c3n)
+- [Lifehacker] [These Are the Best Bicep Exercises](https://lifehacker.com/health/best-bicep-exercises)
 - [Lifehacker] [How to Share a Google One Subscription With Your Family](https://lifehacker.com/tech/how-to-share-google-one-subscription-with-family)
 - [Dev.to/JS] [JavaScript Efficiency War: Astro.js vs Next.js](https://dev.to/kairatorozobekov/javascript-efficiency-war-astrojs-vs-nextjs-22pm)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Kitchen Clean](https://lifehacker.com/home/best-tools-and-gadgets-for-cleaning-your-kitchen)
@@ -43,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hollow Promises: Async JavaScript](https://dev.to/oculus42/hollow-promises-async-javascript-4b0)
 - [Lifehacker] [How to Use a Rice Cooker for Rice &lpar;and so Much More&rpar;](https://lifehacker.com/food-drink/how-to-use-a-rice-cooker)
 - [Dev.to/JS] [Breaking IndexedDB consistency to explore its transactions](https://dev.to/debussyman/breaking-indexeddb-consistency-to-explore-its-transactions-371n)
-- [Dev.to/JS] [Buffer.from&lpar;&rpar; vs atob&lpar;&rpar; vs btoa&lpar;&rpar;: The Differences and When to Use Them](https://dev.to/codesensei/bufferfrom-vs-atob-vs-btoa-the-differences-and-when-to-use-them-1f79)
-- [Dev.to/JS] [The Current State of React Server Components: A Guide for the Perplexed](https://dev.to/kathryngrayson/the-current-state-of-react-server-components-a-guide-for-the-perplexed-31eb)
 - [Lifehacker] [What&#39;s New on Netflix in March 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-march-2024)
 - [Lifehacker] [You Can Get 2TB of PhotoSphere Storage for $280 Right Now](https://lifehacker.com/tech/photosphere-sale)
 - [Lifehacker] [How to Be a ‘Lighthouse Parent’](https://lifehacker.com/family/how-to-be-lighthouse-parent)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a $75 E-gift Card From Dell When You Buy the Nintendo Switch OLED](https://lifehacker.com/entertainment/best-nintendo-switch-oled-deal)
 - [Lifehacker] [You Can Get This Roomie Smart Scale on Sale for $28 Right Now](https://lifehacker.com/health/roomie-smart-body-scale-sale)
 - [Lifehacker] [&#39;Stretch Therapy&#39; Can Make You a Lot More Flexible](https://lifehacker.com/health/get-more-flexible-with-stretch-therapy)
-- [Lifehacker] [Five Ways You Could Be Using the Space Above Your Kitchen Cabinets](https://lifehacker.com/home/best-ways-to-use-the-space-above-your-kitchen-cabinets)
-- [Lifehacker] [The Echo Studio Is $45 Off Right Now](https://lifehacker.com/tech/amazon-echo-studio-deal)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Ways You Could Be Using the Space Above Your Kitchen Cabinets](https://lifehacker.com/home/best-ways-to-use-the-space-above-your-kitchen-cabinets)<!-- TECH-POSTS:END -->
 
 ---
 
