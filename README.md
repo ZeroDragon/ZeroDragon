@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Double Trouble: Why Your React Component Loads Twice with useMemo](https://dev.to/nwhitmont/double-trouble-why-your-react-component-loads-twice-with-usememo-ldj)
 - [Dev.to/JS] [To Do List React](https://dev.to/dsfhigor/to-do-list-react-2171)
+- [Lifehacker] [This Eton Elite Executive Radio Is on Sale for $150 Right Now](https://lifehacker.com/eton-elite-executive-radio-sale)
 - [Dev.to/JS] [Profile Components: SSR with Declarative Shadow DOM](https://dev.to/scottnath/profile-components-ssr-with-declarative-shadow-dom-2c3n)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s Couple-Painting Trend](https://lifehacker.com/entertainment/tiktoks-couple-painting-trend-out-of-touch-adults-guide-to-kid-culture)
 - [Lifehacker] [These Are the Best Bicep Exercises](https://lifehacker.com/health/best-bicep-exercises)
 - [Lifehacker] [How to Share a Google One Subscription With Your Family](https://lifehacker.com/tech/how-to-share-google-one-subscription-with-family)
 - [Dev.to/JS] [JavaScript Efficiency War: Astro.js vs Next.js](https://dev.to/kairatorozobekov/javascript-efficiency-war-astrojs-vs-nextjs-22pm)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Master Offline AWS Development: Harness the Power of LocalStack!](https://dev.to/codingcatdev/master-offline-aws-development-harness-the-power-of-localstack-50cn)
 - [Dev.to/JS] [Hollow Promises: Async JavaScript](https://dev.to/oculus42/hollow-promises-async-javascript-4b0)
 - [Lifehacker] [How to Use a Rice Cooker for Rice &lpar;and so Much More&rpar;](https://lifehacker.com/food-drink/how-to-use-a-rice-cooker)
-- [Dev.to/JS] [Breaking IndexedDB consistency to explore its transactions](https://dev.to/debussyman/breaking-indexeddb-consistency-to-explore-its-transactions-371n)
 - [Lifehacker] [What&#39;s New on Netflix in March 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-march-2024)
 - [Lifehacker] [You Can Get 2TB of PhotoSphere Storage for $280 Right Now](https://lifehacker.com/tech/photosphere-sale)
 - [Lifehacker] [How to Be a ‘Lighthouse Parent’](https://lifehacker.com/family/how-to-be-lighthouse-parent)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use &#39;Shifty&#39; to Take Control of MacOS’ Night Shift](https://lifehacker.com/tech/take-control-of-macos-night-shift-with-shifty)
 - [Lifehacker] [You Can Get Monthly Apple Music Recaps Now](https://lifehacker.com/tech/you-can-get-monthly-apple-music-recaps-now)
 - [Lifehacker] [You Can Get a $75 E-gift Card From Dell When You Buy the Nintendo Switch OLED](https://lifehacker.com/entertainment/best-nintendo-switch-oled-deal)
-- [Lifehacker] [You Can Get This Roomie Smart Scale on Sale for $28 Right Now](https://lifehacker.com/health/roomie-smart-body-scale-sale)
-- [Lifehacker] [&#39;Stretch Therapy&#39; Can Make You a Lot More Flexible](https://lifehacker.com/health/get-more-flexible-with-stretch-therapy)
-- [Lifehacker] [Five Ways You Could Be Using the Space Above Your Kitchen Cabinets](https://lifehacker.com/home/best-ways-to-use-the-space-above-your-kitchen-cabinets)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Roomie Smart Scale on Sale for $28 Right Now](https://lifehacker.com/health/roomie-smart-body-scale-sale)<!-- TECH-POSTS:END -->
 
 ---
 
