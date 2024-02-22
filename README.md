@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dive into ES6](https://dev.to/allyn/dive-into-es6-3ag)
+- [Dev.to/JS] [Dumps Villa: A Journey to Remember, Memories to Treasure](https://dev.to/nb90974e/dumps-villa-a-journey-to-remember-memories-to-treasure-5e9c)
+- [Dev.to/JS] [🚀 10 &quot;Hard Truths&quot; Junior Developers Need to Hear](https://dev.to/aditya_raj_1010/10-hard-truths-junior-developers-need-to-hear-1bd0)
+- [Dev.to/JS] [Leveraging Next.js for High-Performance eCommerce Stores](https://dev.to/nitin-rachabathuni/leveraging-nextjs-for-high-performance-ecommerce-stores-14o0)
 - [Dev.to/JS] [Throttling ⏱️ vs Debouncing ⏳: Boost Performance for your React app 🚀](https://dev.to/fidalmathew/throttling-vs-debouncing-boost-performance-3amm)
 - [Dev.to/JS] [What industries and applications stand to benefit the most from AI-generated code?](https://dev.to/yagnapandya9/what-industries-and-applications-stand-to-benefit-the-most-from-ai-generated-code-1e2g)
 - [Dev.to/JS] [Best Web development company in USA at Aswebsole](https://dev.to/falknerallison/best-web-development-company-in-usa-at-aswebsole-g5f)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lambda](https://dev.to/chandandev/lambda-2lnd)
 - [Dev.to/JS] [How to Build a Survey With KwesForms and Astro](https://dev.to/pauliescanlon/how-to-build-a-survey-with-kwesforms-and-astro-28oa)
 - [Dev.to/JS] [Intro to Control Flow](https://dev.to/alexphebert2000/intro-to-control-flow-5hcg)
-- [Dev.to/JS] [Build a SQL query builder](https://dev.to/phuocng/build-a-sql-query-builder-1idg)
-- [Dev.to/JS] [Preventing SQL injection attacks in Node.js](https://dev.to/snyk/preventing-sql-injection-attacks-in-nodejs-ni9)
-- [Dev.to/JS] [Double Trouble: Why Your React Component Loads Twice with useMemo](https://dev.to/nwhitmont/double-trouble-why-your-react-component-loads-twice-with-usememo-ldj)
-- [Dev.to/JS] [To Do List React](https://dev.to/dsfhigor/to-do-list-react-2171)
 - [Lifehacker] [This Eton Elite Executive Radio Is on Sale for $150 Right Now](https://lifehacker.com/eton-elite-executive-radio-sale)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s Couple-Painting Trend](https://lifehacker.com/entertainment/tiktoks-couple-painting-trend-out-of-touch-adults-guide-to-kid-culture)
 - [Lifehacker] [These Are the Best Bicep Exercises](https://lifehacker.com/health/best-bicep-exercises)
