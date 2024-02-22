@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ready to #learn and #share](https://dev.to/sathwikgaddi/ready-to-learn-and-share-1e71)
+- [Dev.to/JS] [Recycling Companion: Revolutionizing Recycling with AI and Community Engagement](https://dev.to/mursalfk/recycling-companion-revolutionizing-recycling-with-ai-and-community-engagement-45eo)
+- [Dev.to/JS] [Turn Text Into Structured Data Using JavaScript &amp; OpenAI&#39;s GPT](https://dev.to/aris_pattakos/turn-text-into-structured-data-using-javascript-openais-gpt-42k7)
 - [Dev.to/JS] [Destructuring Arrays in JavaScript](https://dev.to/baroblesvi/destructuring-arrays-in-javascript-4c5n)
 - [Dev.to/JS] [Desestruturação de Arrays em JavaScript](https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5)
+- [Lifehacker] [These Are the Best Vegetables for a More Vibrant Spring Garden](https://lifehacker.com/home/best-vegetables-for-a-more-vibrant-spring-garden)
+- [Lifehacker] [You Can Use Your Amazon Echo Device As a Bluetooth Speaker](https://lifehacker.com/tech/how-to-use-alexa-as-a-speaker)
 - [Lifehacker] [Use &#39;Polyvagal Theory&#39; to Feel More Comfortable in Social Situations](https://lifehacker.com/relationships/use-polyvagal-theory-in-social-situations)
 - [Dev.to/JS] [Threading vs Asyncio vs Multiprocessing](https://dev.to/coderatul/threading-vs-asyncio-vs-multiprocessing-10ed)
 - [Dev.to/JS] [help](https://dev.to/tony1989/help-1ko1)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interactive Map with Angular CLI](https://dev.to/akashakki/interactive-map-with-angular-cli-16g1)
 - [Dev.to/JS] [How NodeJs Works??](https://dev.to/mahimabhardwaj/how-nodejs-works-42l5)
 - [Dev.to/JS] [Mastering Javascript One-Liners to Look Like a Pro](https://dev.to/benajaero/mastering-javascript-one-liners-to-look-like-a-pro-ka4)
-- [Dev.to/JS] [Is async/await a good idea? 🤔 async/await vs promises](https://dev.to/gautam_vaja_8ca93ec2c115d/is-asyncawait-a-good-idea-asyncawait-vs-promises-4lim)
-- [Dev.to/JS] [The last mile of functional-reactive web development](https://dev.to/dariomannu/the-last-mile-of-functional-reactive-web-development-3352)
-- [Dev.to/JS] [🌟 On-Scroll Elegance - Animate Your Sticky Sections with Flair](https://dev.to/adam/on-scroll-elegance-animate-your-sticky-sections-with-flair-3koo)
 - [Lifehacker] [How the ‘Spoon’ and ‘Fork&#39; Theories Can Make You More Compassionate to Yourself &lpar;and Others&rpar;](https://lifehacker.com/health/what-are-the-spoon-and-fork-theories)
 - [Lifehacker] [These Are the Best Free VPNs for Android](https://lifehacker.com/tech/best-free-vpns-for-android)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 22, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in March 2024](https://lifehacker.com/entertainment/whats-new-on-disney-in-march-2024)
 - [Lifehacker] [These Are the Best BBQ Sauces for Pizza](https://lifehacker.com/food-drink/the-best-bbq-sauces-for-pizza)
 - [Lifehacker] [Chrome’s Latest Update Introduces an AI-powered ‘Help Me Write’ Feature](https://lifehacker.com/tech/chrome-update-122)
-- [Lifehacker] [The Bose QuietComfort Ultra Earbuds Are $50 Off Right Now](https://lifehacker.com/tech/bose-quietcomfort-ultra-sale)
-- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $80 Right Now](https://lifehacker.com/tech/windows-11-pro-microsoft-office-sale)
-- [Lifehacker] [Android Users Should Delete These Malware Apps ASAP](https://lifehacker.com/tech/delete-these-android-malware-apps-asap)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Bose QuietComfort Ultra Earbuds Are $50 Off Right Now](https://lifehacker.com/tech/bose-quietcomfort-ultra-sale)<!-- TECH-POSTS:END -->
 
 ---
 
