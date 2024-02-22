@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering React State Management with useReducer: A Comprehensive Guide](https://dev.to/sharmaprash/mastering-react-state-management-with-usereducer-a-comprehensive-guide-104)
+- [Dev.to/JS] [12 Projects to Build to Improve Your Coding Skills 👨‍💻👩‍💻](https://dev.to/madza/12-projects-to-build-to-improve-your-coding-skills-58fa)
+- [Dev.to/JS] [Understanding the CSS Box Model: A Comprehensive Guide](https://dev.to/igbojionu/understanding-the-css-box-model-a-comprehensive-guide-17f9)
+- [Dev.to/JS] [Browser-to-Browser calling with SIP.js and Routr](https://dev.to/fonoster/browser-to-browser-calling-with-sipjs-and-routr-3l07)
 - [Dev.to/JS] [How to add multiple documents to firestore from Nextjs14](https://dev.to/thatanjan/how-to-add-multiple-documents-to-firestore-from-nextjs14-4okk)
 - [Dev.to/JS] [Cancer can be caused by numerous factors](https://dev.to/jaes12/cancer-can-be-caused-by-numerous-factors-5hlp)
 - [Dev.to/JS] [The Ultimate Roadmap to a Full-Stack Developer](https://dev.to/adhikareeprayush/the-ultimate-roadmap-to-a-full-stack-developer-5elh)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting Up SMTP Relay for Enhanced Email Reliability](https://dev.to/scofieldidehen/setting-up-smtp-relay-for-enhanced-email-reliability-1j9i)
 - [Dev.to/JS] [A Well-Architected FastAPI Boilerplate](https://dev.to/mohammadfaisal/a-well-architected-fastapi-boilerplate-17ao)
 - [Dev.to/JS] [Navigating JavaScript Essentials: Arrays, Strings, and Objects for Beginners](https://dev.to/devendra_2806/navigating-javascript-essentials-arrays-strings-and-objects-for-beginners-1h9f)
-- [Dev.to/JS] [Introducing Global Search for Generated Apps](https://dev.to/flatlogic/introducing-global-search-for-generated-apps-hbd)
-- [Dev.to/JS] [Everyone want to be successful. What is success according to you?](https://dev.to/sanjaykhanssk/everyone-want-to-be-successful-what-is-success-according-to-you-276d)
-- [Dev.to/JS] [How to mock NgRx Signal Stores for unit tests and Storybook Play interaction tests &lpar;both manually and automatically&rpar;](https://dev.to/this-is-angular/how-to-mock-ngrx-signal-stores-for-unit-tests-and-storybook-play-interaction-tests-both-manually-and-automatically-30g0)
-- [Dev.to/JS] [How do we maintain strong relationships and partnerships with our suppliers and vendors?](https://dev.to/yagnapandya9/how-do-we-maintain-strong-relationships-and-partnerships-with-our-suppliers-and-vendors-j61)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 22, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [This Eton Elite Executive Radio Is on Sale for $150 Right Now](https://lifehacker.com/eton-elite-executive-radio-sale)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s Couple-Painting Trend](https://lifehacker.com/entertainment/tiktoks-couple-painting-trend-out-of-touch-adults-guide-to-kid-culture)
