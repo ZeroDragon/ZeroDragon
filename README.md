@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debouncing and Throttling: Taming the Wild West of JavaScript Events](https://dev.to/snaghub/debouncing-and-throttling-taming-the-wild-west-of-javascript-events-51mh)
+- [Dev.to/JS] [ProgpJS: a fast javascript engine for Go!](https://dev.to/aditya_raj_1010/progpjs-a-fast-javascript-engine-for-go-mff)
+- [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/aditya_raj_1010/skills-to-become-a-backend-developer-in-6-months-roadmap-10pg)
+- [Dev.to/JS] [Var vs Let vs Const](https://dev.to/ahnaf2009/var-vs-let-vs-const-1ipo)
+- [Dev.to/JS] [Demystifying &lt;script&gt;: The Role of the Type Attribute](https://dev.to/amangupta/demystifying-the-role-of-the-type-attribute-25lp)
 - [Dev.to/JS] [okvipwatch](https://dev.to/okvip-watch/okvipwatch-144j)
 - [Dev.to/JS] [Essential JavaScript ES6 Methods Every Developer Should Know](https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk)
 - [Dev.to/JS] [Mastering Next.js Routing: A Comprehensive Guide for Developers](https://dev.to/nitin-rachabathuni/mastering-nextjs-routing-a-comprehensive-guide-for-developers-4je3)
@@ -33,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding React&#39;s Supercharged Engine: React Fibre](https://dev.to/mohammad1105/understanding-reacts-supercharged-engine-react-fibre-16l2)
 - [Dev.to/JS] [Top Lạng Sơn AZ](https://dev.to/sonaz/top-lang-son-az-5gbc)
 - [Dev.to/JS] [HOW TO RECOVERY YOUR SCAMMED BITCOIN/USDT/ETH/ WITH CRYPTO RECOVERY EXPERT FASTFUNDRECOVERY](https://dev.to/castellaneta/how-to-recovery-your-scammed-bitcoinusdteth-with-crypto-recovery-expert-fastfundrecovery-5041)
-- [Dev.to/JS] [Designing Resilient and Scalable Architectures in React Projects](https://dev.to/mohammad_kh4441/designing-resilient-and-scalable-architectures-in-react-projects-1be1)
-- [Dev.to/JS] [The Six Pillars of Database-Driven Application Performance](https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-42mp)
-- [Dev.to/JS] [The Six Pillars of Database-Driven Application Performance](https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-3099)
 - [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
-- [Dev.to/JS] [Xprz Package](https://dev.to/m__mdy__m/xprz-package-3mpn)
-- [Dev.to/JS] [Discussion of the Week: &quot;Why is everything JavaScript?&quot;](https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a)
 - [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)
 - [Lifehacker] [You Can Get a Sam’s Club Memberships on Sale for $20 Right Now](https://lifehacker.com/sams-club-membership-sale)
 - [Lifehacker] [How to Decide Between a Juicer and a Blender](https://lifehacker.com/food-drink/juicer-versus-blender-and-which-one-you-need)
