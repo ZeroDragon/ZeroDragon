@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Designing Resilient and Scalable Architectures in React Projects](https://dev.to/mohammad_kh4441/designing-resilient-and-scalable-architectures-in-react-projects-1be1)
 - [Dev.to/JS] [The Six Pillars of Database-Driven Application Performance](https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-42mp)
 - [Dev.to/JS] [The Six Pillars of Database-Driven Application Performance](https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-3099)
 - [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ready to #learn and #share](https://dev.to/sathwikgaddi/ready-to-learn-and-share-1e71)
 - [Dev.to/JS] [Recycling Companion: Revolutionizing Recycling with AI and Community Engagement](https://dev.to/mursalfk/recycling-companion-revolutionizing-recycling-with-ai-and-community-engagement-45eo)
 - [Lifehacker] [What to Consider Before Buying a New Kitchen Faucet](https://lifehacker.com/home/how-to-choose-a-faucet-for-your-kitchen)
-- [Dev.to/JS] [Turn Text Into Structured Data Using JavaScript &amp; OpenAI&#39;s GPT](https://dev.to/aris_pattakos/turn-text-into-structured-data-using-javascript-openais-gpt-42k7)
 - [Lifehacker] [The 13 Best Shows and Movies for Your Dino-Obsessed Kid](https://lifehacker.com/entertainment/best-shows-and-movies-for-dino-obsessed-kid)
 - [Lifehacker] [These Are the Best Vegetables for a More Vibrant Spring Garden](https://lifehacker.com/home/best-vegetables-for-a-more-vibrant-spring-garden)
 - [Lifehacker] [You Can Use Your Amazon Echo Device As a Bluetooth Speaker](https://lifehacker.com/tech/how-to-use-alexa-as-a-speaker)
