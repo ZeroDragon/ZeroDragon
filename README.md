@@ -27,6 +27,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [AES Decryption in NodeJs](https://dev.to/ridwaan1/aes-decryption-in-nodejs-77h)
+- [Lifehacker] [A Modular System Can Give You a Green Roof for Less Money](https://lifehacker.com/home/modular-green-roof-benefits-and-cost)
+- [Lifehacker] [Why You Should Consider a Parabolic Space Heater](https://lifehacker.com/home/benefits-of-parabolic-space-heaters)
 - [Dev.to/JS] [Handling Data: Buffers and Streams in Node.js](https://dev.to/ruben_alapont/handling-data-buffers-and-streams-in-nodejs-22d7)
 - [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Dev.to/JS] [Calling a door phone from a web browser](https://dev.to/fonoster/calling-a-door-phone-from-a-web-browser-1bko)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [The Best Ways to Furnish a Small Living Space](https://lifehacker.com/home/best-ways-to-furnish-small-space)
 - [Lifehacker] [What to Consider Before Buying a New Kitchen Faucet](https://lifehacker.com/home/how-to-choose-a-faucet-for-your-kitchen)
-- [Lifehacker] [The 13 Best Shows and Movies for Your Dino-Obsessed Kid](https://lifehacker.com/entertainment/best-shows-and-movies-for-dino-obsessed-kid)
-- [Lifehacker] [These Are the Best Vegetables for a More Vibrant Spring Garden](https://lifehacker.com/home/best-vegetables-for-a-more-vibrant-spring-garden)
-- [Lifehacker] [You Can Use Your Amazon Echo Device As a Bluetooth Speaker](https://lifehacker.com/tech/how-to-use-alexa-as-a-speaker)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 13 Best Shows and Movies for Your Dino-Obsessed Kid](https://lifehacker.com/entertainment/best-shows-and-movies-for-dino-obsessed-kid)<!-- TECH-POSTS:END -->
 
 ---
 
