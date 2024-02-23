@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What measures are taken to ensure compliance with industry regulations and standards?](https://dev.to/yagnapandya9/what-measures-are-taken-to-ensure-compliance-with-industry-regulations-and-standards-h4l)
 - [Dev.to/JS] [Debouncing and Throttling: Taming the Wild West of JavaScript Events](https://dev.to/snaghub/debouncing-and-throttling-taming-the-wild-west-of-javascript-events-51mh)
 - [Dev.to/JS] [ProgpJS: a fast javascript engine for Go!](https://dev.to/aditya_raj_1010/progpjs-a-fast-javascript-engine-for-go-mff)
 - [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/aditya_raj_1010/skills-to-become-a-backend-developer-in-6-months-roadmap-10pg)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DECODING COMMUNITY MANAGEMENT](https://dev.to/devgancode/decoding-community-management-5hl8)
 - [Dev.to/JS] [Understanding React&#39;s Supercharged Engine: React Fibre](https://dev.to/mohammad1105/understanding-reacts-supercharged-engine-react-fibre-16l2)
 - [Dev.to/JS] [Top Lạng Sơn AZ](https://dev.to/sonaz/top-lang-son-az-5gbc)
-- [Dev.to/JS] [HOW TO RECOVERY YOUR SCAMMED BITCOIN/USDT/ETH/ WITH CRYPTO RECOVERY EXPERT FASTFUNDRECOVERY](https://dev.to/castellaneta/how-to-recovery-your-scammed-bitcoinusdteth-with-crypto-recovery-expert-fastfundrecovery-5041)
 - [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
 - [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)
 - [Lifehacker] [You Can Get a Sam’s Club Memberships on Sale for $20 Right Now](https://lifehacker.com/sams-club-membership-sale)
