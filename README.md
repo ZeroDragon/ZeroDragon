@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/papustahll/buy-verified-paxful-account-535i)
+- [Dev.to/JS] [Lavaduct Lagoon](https://dev.to/rmion/lavaduct-lagoon-1k3l)
 - [Dev.to/JS] [Reusable Code: React Custom Hooks Guide](https://dev.to/nahidulislam/reusable-code-react-custom-hooks-guide-1k20)
 - [Dev.to/JS] [Building a dynamic form with Svelte and Typescript](https://dev.to/matfire/building-a-dynamic-form-with-svelte-and-typescript-4b6o)
 - [Dev.to/JS] [Why use GraphQL](https://dev.to/akmaurya31/why-use-graphql-12h)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What inspired me to become a fullstack developer](https://dev.to/sage_ifeanyi/what-inspired-me-to-become-a-fullstack-developer-4gp1)
 - [Dev.to/JS] [Google Pixel 6 Pro Vs Samsung S22 Ultra 5G Comparison](https://dev.to/ngbaze/google-pixel-6-pro-vs-samsung-s22-ultra-5g-comparison-16n4)
 - [Dev.to/JS] [Best 5 International Online Shopping Websites](https://dev.to/ngbaze/best-5-international-online-shopping-websites-27ho)
-- [Dev.to/JS] [How to Start Blogging and Monetize Your Passion](https://dev.to/ngbaze/how-to-start-blogging-and-monetize-your-passion-3i35)
-- [Dev.to/JS] [JavaScript Hacks You NEED to Know in 2024!](https://dev.to/withaarzoo/javascript-hacks-you-need-to-know-in-2024-4cgk)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 23, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
 - [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)
