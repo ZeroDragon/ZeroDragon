@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Lạng Sơn AZ](https://dev.to/sonaz/top-lang-son-az-5gbc)
 - [Dev.to/JS] [HOW TO RECOVERY YOUR SCAMMED BITCOIN/USDT/ETH/ WITH CRYPTO RECOVERY EXPERT FASTFUNDRECOVERY](https://dev.to/castellaneta/how-to-recovery-your-scammed-bitcoinusdteth-with-crypto-recovery-expert-fastfundrecovery-5041)
 - [Dev.to/JS] [Designing Resilient and Scalable Architectures in React Projects](https://dev.to/mohammad_kh4441/designing-resilient-and-scalable-architectures-in-react-projects-1be1)
 - [Dev.to/JS] [The Six Pillars of Database-Driven Application Performance](https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-42mp)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [The Best Ways to Furnish a Small Living Space](https://lifehacker.com/home/best-ways-to-furnish-small-space)
-- [Dev.to/JS] [Ready to #learn and #share](https://dev.to/sathwikgaddi/ready-to-learn-and-share-1e71)
 - [Lifehacker] [What to Consider Before Buying a New Kitchen Faucet](https://lifehacker.com/home/how-to-choose-a-faucet-for-your-kitchen)
 - [Lifehacker] [The 13 Best Shows and Movies for Your Dino-Obsessed Kid](https://lifehacker.com/entertainment/best-shows-and-movies-for-dino-obsessed-kid)
 - [Lifehacker] [These Are the Best Vegetables for a More Vibrant Spring Garden](https://lifehacker.com/home/best-vegetables-for-a-more-vibrant-spring-garden)
