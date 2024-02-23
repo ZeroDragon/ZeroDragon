@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reusable Code: React Custom Hooks Guide](https://dev.to/nahidulislam/reusable-code-react-custom-hooks-guide-1k20)
+- [Dev.to/JS] [Building a dynamic form with Svelte and Typescript](https://dev.to/matfire/building-a-dynamic-form-with-svelte-and-typescript-4b6o)
+- [Dev.to/JS] [Why use GraphQL](https://dev.to/akmaurya31/why-use-graphql-12h)
+- [Dev.to/JS] [How to get documents from Firebase Firestore in Nextjs14](https://dev.to/thatanjan/how-to-get-documents-from-firebase-firestore-in-nextjs14-4np5)
+- [Dev.to/JS] [Cómo mockear una solicitud HTTP con Jest 💻](https://dev.to/khriztianmoreno/como-mockear-una-solicitud-http-con-jest-4e16)
+- [Dev.to/JS] [What I got from Clean Architecture as a FE... &lpar;1-5&rpar;](https://dev.to/hgalvao/what-i-got-from-clean-architecture-as-a-fe-1-5-4lng)
 - [Dev.to/JS] [React Native + ChatGPT Stream: How to?](https://dev.to/hieunh1801/react-native-chatgpt-stream-how-to-5cn)
+- [Lifehacker] [35 of the Horniest TV Shows Ever Made](https://lifehacker.com/horniest-tv-shows-of-all-time)
 - [Dev.to/JS] [What inspired me to become a fullstack developer](https://dev.to/sage_ifeanyi/what-inspired-me-to-become-a-fullstack-developer-4gp1)
 - [Dev.to/JS] [Google Pixel 6 Pro Vs Samsung S22 Ultra 5G Comparison](https://dev.to/ngbaze/google-pixel-6-pro-vs-samsung-s22-ultra-5g-comparison-16n4)
 - [Dev.to/JS] [Best 5 International Online Shopping Websites](https://dev.to/ngbaze/best-5-international-online-shopping-websites-27ho)
 - [Dev.to/JS] [How to Start Blogging and Monetize Your Passion](https://dev.to/ngbaze/how-to-start-blogging-and-monetize-your-passion-3i35)
 - [Dev.to/JS] [JavaScript Hacks You NEED to Know in 2024!](https://dev.to/withaarzoo/javascript-hacks-you-need-to-know-in-2024-4cgk)
-- [Dev.to/JS] [JavaScript Hacks You NEED to Know in 2024!](https://dev.to/aarzoo75/javascript-hacks-you-need-to-know-in-2024-501k)
-- [Dev.to/JS] [Building a Simple Todo API with Express.js](https://dev.to/vaibhavgupta09/building-a-simple-todo-api-with-expressjs-41fk)
-- [Dev.to/JS] [React anti-patterns that lead to unnecessary complexity](https://dev.to/sbracegirdle/react-anti-patterns-that-lead-to-unnecessary-complexity-2ece)
-- [Dev.to/JS] [When throttling and debouncing meet asynchronous, what kind of sparks will they create? Published at](https://dev.to/bowencool/when-throttling-and-debouncing-meet-asynchronous-what-kind-of-sparks-will-they-createpublished-at-3jlk)
-- [Dev.to/JS] [How to monitor your Next.js Application performance and track errors with Sentry](https://dev.to/gbengacode/how-to-monitor-nextjs-application-performance-and-track-errors-with-sentry-36l2)
-- [Dev.to/JS] [Maximizing Website Potential: The Power of Tailored WordPress Plugins](https://dev.to/jamesmartindev/maximizing-website-potential-the-power-of-tailored-wordpress-plugins-29id)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 23, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
 - [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Kitchen Clean](https://lifehacker.com/home/best-tools-and-gadgets-for-cleaning-your-kitchen)
 - [Lifehacker] [Elevate Chicken Fingers With Instant Potato Flakes](https://lifehacker.com/food-drink/chicken-fingers-with-instant-potato-flakes-recipe)
 - [Lifehacker] [You Can Get a Refurbished Peloton+ for $900 Less Than a New One Right Now](https://lifehacker.com/health/refurbished-peloton-plus-deal)
-- [Lifehacker] [How to Choose the Right SSD to Buy](https://lifehacker.com/tech/how-to-choose-ssd-to-buy)
-- [Lifehacker] [How to Tell If You Qualify for the Earned Income Tax Credit](https://lifehacker.com/do-i-qualify-for-the-earned-income-tax-credit-1846286780)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose the Right SSD to Buy](https://lifehacker.com/tech/how-to-choose-ssd-to-buy)<!-- TECH-POSTS:END -->
 
 ---
 
