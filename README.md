@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Event-driven architecture: navigating the single threaded nature of Node.js](https://dev.to/joshraphael/event-driven-architecture-navigating-the-single-threaded-nature-of-nodejs-1aj4)
+- [Lifehacker] [Usher in an Early Summer With At-home Bubble Tea](https://lifehacker.com/food-drink/best-bubble-tea-recipe)
+- [Lifehacker] [How to Make a ‘Minimally Viable’ Budget &lpar;and Why You Should&rpar;](https://lifehacker.com/money/how-to-make-a-minimally-viable-budget)
 - [Dev.to/JS] [AES Decryption in NodeJs](https://dev.to/ridwaan1/aes-decryption-in-nodejs-77h)
 - [Lifehacker] [A Modular System Can Give You a Green Roof for Less Money](https://lifehacker.com/home/modular-green-roof-benefits-and-cost)
 - [Lifehacker] [Why You Should Consider a Parabolic Space Heater](https://lifehacker.com/home/benefits-of-parabolic-space-heaters)
@@ -49,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lavaduct Lagoon](https://dev.to/rmion/lavaduct-lagoon-1k3l)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Dev.to/JS] [Reusable Code: React Custom Hooks Guide](https://dev.to/nahidulislam/reusable-code-react-custom-hooks-guide-1k20)
-- [Dev.to/JS] [Building a dynamic form with Svelte and Typescript](https://dev.to/matfire/building-a-dynamic-form-with-svelte-and-typescript-4b6o)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [35 of the Horniest TV Shows Ever Made](https://lifehacker.com/horniest-tv-shows-of-all-time)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The POSEC Method Is a Better Way to Structure Your Time](https://lifehacker.com/work/use-the-posec-method-to-structure-your-time)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
-- [Lifehacker] [The Best Ways to Furnish a Small Living Space](https://lifehacker.com/home/best-ways-to-furnish-small-space)
-- [Lifehacker] [What to Consider Before Buying a New Kitchen Faucet](https://lifehacker.com/home/how-to-choose-a-faucet-for-your-kitchen)
-- [Lifehacker] [The 13 Best Shows and Movies for Your Dino-Obsessed Kid](https://lifehacker.com/entertainment/best-shows-and-movies-for-dino-obsessed-kid)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Furnish a Small Living Space](https://lifehacker.com/home/best-ways-to-furnish-small-space)<!-- TECH-POSTS:END -->
 
 ---
 
