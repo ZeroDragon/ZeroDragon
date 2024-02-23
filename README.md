@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AES Decryption in NodeJs](https://dev.to/ridwaan1/aes-decryption-in-nodejs-77h)
 - [Dev.to/JS] [Handling Data: Buffers and Streams in Node.js](https://dev.to/ruben_alapont/handling-data-buffers-and-streams-in-nodejs-22d7)
+- [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Dev.to/JS] [Calling a door phone from a web browser](https://dev.to/fonoster/calling-a-door-phone-from-a-web-browser-1bko)
+- [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Dev.to/JS] [Introducing Hello Bubblies: Where Comfort Meets Code!](https://dev.to/azurabennett/introducing-hello-bubblies-where-comfort-meets-code-36m1)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons on Sale for $40 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
@@ -36,16 +39,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Security Considerations for Your commercetools Application](https://dev.to/nitin-rachabathuni/security-considerations-for-your-commercetools-application-3elg)
 - [Dev.to/JS] [What is Reconciliation and the Virtual DOM &lpar;VDOM&rpar;?](https://dev.to/this-is-learning/what-is-reconciliation-and-the-virtual-dom-vdom-2p3c)
 - [Lifehacker] [These Are the Best Antivirus Apps for Macs in 2024](https://lifehacker.com/tech/best-antivirus-apps-for-mac)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/papustahll/buy-old-gmail-accounts-460g)
 - [Dev.to/JS] [JavaScript vs Python](https://dev.to/elitesuper/javascript-vs-python-3ai5)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/papustahll/buy-verified-cash-app-account-33bn)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/papustahll/buy-glassdoor-reviews-8j0)
 - [Lifehacker] [The Five Best Ad Blockers You Can Install](https://lifehacker.com/tech/the-best-ad-blockers)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/papustahll/buy-google-reviews-5cl5)
 - [Dev.to/JS] [Promises under the hood](https://dev.to/victorhsantiago/promises-under-the-hood-3af9)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
+- [Dev.to/JS] [Lavaduct Lagoon](https://dev.to/rmion/lavaduct-lagoon-1k3l)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
+- [Dev.to/JS] [Reusable Code: React Custom Hooks Guide](https://dev.to/nahidulislam/reusable-code-react-custom-hooks-guide-1k20)
+- [Dev.to/JS] [Building a dynamic form with Svelte and Typescript](https://dev.to/matfire/building-a-dynamic-form-with-svelte-and-typescript-4b6o)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [35 of the Horniest TV Shows Ever Made](https://lifehacker.com/horniest-tv-shows-of-all-time)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Consider Before Buying a New Kitchen Faucet](https://lifehacker.com/home/how-to-choose-a-faucet-for-your-kitchen)
 - [Lifehacker] [The 13 Best Shows and Movies for Your Dino-Obsessed Kid](https://lifehacker.com/entertainment/best-shows-and-movies-for-dino-obsessed-kid)
 - [Lifehacker] [These Are the Best Vegetables for a More Vibrant Spring Garden](https://lifehacker.com/home/best-vegetables-for-a-more-vibrant-spring-garden)
-- [Lifehacker] [You Can Use Your Amazon Echo Device As a Bluetooth Speaker](https://lifehacker.com/tech/how-to-use-alexa-as-a-speaker)
-- [Lifehacker] [Use &#39;Polyvagal Theory&#39; to Feel More Comfortable in Social Situations](https://lifehacker.com/relationships/use-polyvagal-theory-in-social-situations)
-- [Lifehacker] [Don&#39;t Fall for TSA PreCheck Application Scams](https://lifehacker.com/travel/dont-fall-for-tsa-precheck-application-scams)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Use Your Amazon Echo Device As a Bluetooth Speaker](https://lifehacker.com/tech/how-to-use-alexa-as-a-speaker)<!-- TECH-POSTS:END -->
 
 ---
 
