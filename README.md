@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handling Data: Buffers and Streams in Node.js](https://dev.to/ruben_alapont/handling-data-buffers-and-streams-in-nodejs-22d7)
+- [Dev.to/JS] [Calling a door phone from a web browser](https://dev.to/fonoster/calling-a-door-phone-from-a-web-browser-1bko)
 - [Dev.to/JS] [Introducing Hello Bubblies: Where Comfort Meets Code!](https://dev.to/azurabennett/introducing-hello-bubblies-where-comfort-meets-code-36m1)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons on Sale for $40 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Five Best Ad Blockers You Can Install](https://lifehacker.com/tech/the-best-ad-blockers)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/papustahll/buy-google-reviews-5cl5)
 - [Dev.to/JS] [Promises under the hood](https://dev.to/victorhsantiago/promises-under-the-hood-3af9)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/papustahll/buy-google-voice-accounts-53hp)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/papustahll/buy-verified-paxful-account-535i)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
