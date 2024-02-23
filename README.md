@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Hello Bubblies: Where Comfort Meets Code!](https://dev.to/azurabennett/introducing-hello-bubblies-where-comfort-meets-code-36m1)
+- [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
+- [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons on Sale for $40 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
+- [Lifehacker] [30 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/most-violent-action-movies-ever-made)
 - [Dev.to/JS] [Genesis of a Framework: Unveiling the Meteor Story](https://dev.to/meteor/genesis-of-a-framework-unveiling-the-meteor-story-50dd)
 - [Dev.to/JS] [Security Considerations for Your commercetools Application](https://dev.to/nitin-rachabathuni/security-considerations-for-your-commercetools-application-3elg)
 - [Dev.to/JS] [What is Reconciliation and the Virtual DOM &lpar;VDOM&rpar;?](https://dev.to/this-is-learning/what-is-reconciliation-and-the-virtual-dom-vdom-2p3c)
+- [Lifehacker] [These Are the Best Antivirus Apps for Macs in 2024](https://lifehacker.com/tech/best-antivirus-apps-for-mac)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/papustahll/buy-old-gmail-accounts-460g)
 - [Dev.to/JS] [JavaScript vs Python](https://dev.to/elitesuper/javascript-vs-python-3ai5)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/papustahll/buy-verified-cash-app-account-33bn)
@@ -40,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/papustahll/buy-verified-paxful-account-535i)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
-- [Dev.to/JS] [Lavaduct Lagoon](https://dev.to/rmion/lavaduct-lagoon-1k3l)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Vegetables for a More Vibrant Spring Garden](https://lifehacker.com/home/best-vegetables-for-a-more-vibrant-spring-garden)
 - [Lifehacker] [You Can Use Your Amazon Echo Device As a Bluetooth Speaker](https://lifehacker.com/tech/how-to-use-alexa-as-a-speaker)
 - [Lifehacker] [Use &#39;Polyvagal Theory&#39; to Feel More Comfortable in Social Situations](https://lifehacker.com/relationships/use-polyvagal-theory-in-social-situations)
-- [Lifehacker] [Don&#39;t Fall for TSA PreCheck Application Scams](https://lifehacker.com/travel/dont-fall-for-tsa-precheck-application-scams)
-- [Lifehacker] [How the ‘Spoon’ and ‘Fork&#39; Theories Can Make You More Compassionate to Yourself &lpar;and Others&rpar;](https://lifehacker.com/health/what-are-the-spoon-and-fork-theories)
-- [Lifehacker] [These Are the Best Free VPNs for Android](https://lifehacker.com/tech/best-free-vpns-for-android)
-- [Lifehacker] [This Eton Elite Executive Radio Is on Sale for $150 Right Now](https://lifehacker.com/eton-elite-executive-radio-sale)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s Couple-Painting Trend](https://lifehacker.com/entertainment/tiktoks-couple-painting-trend-out-of-touch-adults-guide-to-kid-culture)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Fall for TSA PreCheck Application Scams](https://lifehacker.com/travel/dont-fall-for-tsa-precheck-application-scams)<!-- TECH-POSTS:END -->
 
 ---
 
