@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Six Pillars of Database-Driven Application Performance](https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-42mp)
+- [Dev.to/JS] [The Six Pillars of Database-Driven Application Performance](https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-3099)
+- [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
 - [Dev.to/JS] [Xprz Package](https://dev.to/m__mdy__m/xprz-package-3mpn)
 - [Dev.to/JS] [Discussion of the Week: &quot;Why is everything JavaScript?&quot;](https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a)
+- [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)
 - [Dev.to/JS] [ExpressVPN lanza un nuevo servidor](https://dev.to/chrisperry07/expressvpn-lanza-un-nuevo-servidor-5bhh)
 - [Lifehacker] [You Can Get a Sam’s Club Memberships on Sale for $20 Right Now](https://lifehacker.com/sams-club-membership-sale)
 - [Lifehacker] [How to Decide Between a Juicer and a Blender](https://lifehacker.com/food-drink/juicer-versus-blender-and-which-one-you-need)
@@ -46,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Consider Before Buying a New Kitchen Faucet](https://lifehacker.com/home/how-to-choose-a-faucet-for-your-kitchen)
 - [Dev.to/JS] [Turn Text Into Structured Data Using JavaScript &amp; OpenAI&#39;s GPT](https://dev.to/aris_pattakos/turn-text-into-structured-data-using-javascript-openais-gpt-42k7)
 - [Lifehacker] [The 13 Best Shows and Movies for Your Dino-Obsessed Kid](https://lifehacker.com/entertainment/best-shows-and-movies-for-dino-obsessed-kid)
-- [Dev.to/JS] [Destructuring Arrays in JavaScript](https://dev.to/baroblesvi/destructuring-arrays-in-javascript-4c5n)
-- [Dev.to/JS] [Desestruturação de Arrays em JavaScript](https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5)
 - [Lifehacker] [These Are the Best Vegetables for a More Vibrant Spring Garden](https://lifehacker.com/home/best-vegetables-for-a-more-vibrant-spring-garden)
 - [Lifehacker] [You Can Use Your Amazon Echo Device As a Bluetooth Speaker](https://lifehacker.com/tech/how-to-use-alexa-as-a-speaker)
 - [Lifehacker] [Use &#39;Polyvagal Theory&#39; to Feel More Comfortable in Social Situations](https://lifehacker.com/relationships/use-polyvagal-theory-in-social-situations)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Elevate Chicken Fingers With Instant Potato Flakes](https://lifehacker.com/food-drink/chicken-fingers-with-instant-potato-flakes-recipe)
 - [Lifehacker] [You Can Get a Refurbished Peloton+ for $900 Less Than a New One Right Now](https://lifehacker.com/health/refurbished-peloton-plus-deal)
 - [Lifehacker] [How to Choose the Right SSD to Buy](https://lifehacker.com/tech/how-to-choose-ssd-to-buy)
-- [Lifehacker] [How to Tell If You Qualify for the Earned Income Tax Credit](https://lifehacker.com/do-i-qualify-for-the-earned-income-tax-credit-1846286780)
-- [Lifehacker] [How to Use a Rice Cooker for Rice &lpar;and so Much More&rpar;](https://lifehacker.com/food-drink/how-to-use-a-rice-cooker)
-- [Lifehacker] [What&#39;s New on Netflix in March 2024](https://lifehacker.com/entertainment/whats-new-on-netflix-in-march-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If You Qualify for the Earned Income Tax Credit](https://lifehacker.com/do-i-qualify-for-the-earned-income-tax-credit-1846286780)<!-- TECH-POSTS:END -->
 
 ---
 
