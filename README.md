@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Simple Todo API with Express.js](https://dev.to/vaibhavgupta09/building-a-simple-todo-api-with-expressjs-41fk)
+- [Dev.to/JS] [React anti-patterns that lead to unnecessary complexity](https://dev.to/sbracegirdle/react-anti-patterns-that-lead-to-unnecessary-complexity-2ece)
+- [Dev.to/JS] [When throttling and debouncing meet asynchronous, what kind of sparks will they create? Published at](https://dev.to/bowencool/when-throttling-and-debouncing-meet-asynchronous-what-kind-of-sparks-will-they-createpublished-at-3jlk)
+- [Dev.to/JS] [How to monitor your Next.js Application performance and track errors with Sentry](https://dev.to/gbengacode/how-to-monitor-nextjs-application-performance-and-track-errors-with-sentry-36l2)
 - [Dev.to/JS] [Maximizing Website Potential: The Power of Tailored WordPress Plugins](https://dev.to/jamesmartindev/maximizing-website-potential-the-power-of-tailored-wordpress-plugins-29id)
 - [Dev.to/JS] [Building Interactive Skill Progress Bars with HTML, CSS, and JavaScript](https://dev.to/mattbug3/building-interactive-skill-progress-bars-with-html-css-and-javascript-e05)
 - [Dev.to/JS] [JavaScript Array checks](https://dev.to/samassango/javascript-array-checks-4cje)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What measures are taken to ensure compliance with industry regulations and standards?](https://dev.to/yagnapandya9/what-measures-are-taken-to-ensure-compliance-with-industry-regulations-and-standards-h4l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 23, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Debouncing and Throttling: Taming the Wild West of JavaScript Events](https://dev.to/snaghub/debouncing-and-throttling-taming-the-wild-west-of-javascript-events-51mh)
-- [Dev.to/JS] [ProgpJS: a fast javascript engine for Go!](https://dev.to/aditya_raj_1010/progpjs-a-fast-javascript-engine-for-go-mff)
-- [Dev.to/JS] [Skills to become a backend developer in 6 months &lpar;roadmap&rpar;](https://dev.to/aditya_raj_1010/skills-to-become-a-backend-developer-in-6-months-roadmap-10pg)
-- [Dev.to/JS] [Var vs Let vs Const](https://dev.to/ahnaf2009/var-vs-let-vs-const-1ipo)
-- [Dev.to/JS] [Demystifying &lt;script&gt;: The Role of the Type Attribute](https://dev.to/amangupta/demystifying-the-role-of-the-type-attribute-25lp)
 - [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
 - [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)
 - [Lifehacker] [You Can Get a Sam’s Club Memberships on Sale for $20 Right Now](https://lifehacker.com/sams-club-membership-sale)
