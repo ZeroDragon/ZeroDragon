@@ -26,18 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Genesis of a Framework: Unveiling the Meteor Story](https://dev.to/meteor/genesis-of-a-framework-unveiling-the-meteor-story-50dd)
+- [Dev.to/JS] [Security Considerations for Your commercetools Application](https://dev.to/nitin-rachabathuni/security-considerations-for-your-commercetools-application-3elg)
 - [Dev.to/JS] [What is Reconciliation and the Virtual DOM &lpar;VDOM&rpar;?](https://dev.to/this-is-learning/what-is-reconciliation-and-the-virtual-dom-vdom-2p3c)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/papustahll/buy-old-gmail-accounts-460g)
 - [Dev.to/JS] [JavaScript vs Python](https://dev.to/elitesuper/javascript-vs-python-3ai5)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/papustahll/buy-verified-cash-app-account-33bn)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/papustahll/buy-glassdoor-reviews-8j0)
+- [Lifehacker] [The Five Best Ad Blockers You Can Install](https://lifehacker.com/tech/the-best-ad-blockers)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/papustahll/buy-google-reviews-5cl5)
 - [Dev.to/JS] [Promises under the hood](https://dev.to/victorhsantiago/promises-under-the-hood-3af9)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/papustahll/buy-google-voice-accounts-53hp)
+- [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/papustahll/buy-verified-paxful-account-535i)
+- [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Dev.to/JS] [Lavaduct Lagoon](https://dev.to/rmion/lavaduct-lagoon-1k3l)
-- [Dev.to/JS] [Reusable Code: React Custom Hooks Guide](https://dev.to/nahidulislam/reusable-code-react-custom-hooks-guide-1k20)
-- [Dev.to/JS] [Building a dynamic form with Svelte and Typescript](https://dev.to/matfire/building-a-dynamic-form-with-svelte-and-typescript-4b6o)
+- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
+- [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
+- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [35 of the Horniest TV Shows Ever Made](https://lifehacker.com/horniest-tv-shows-of-all-time)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 23, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
@@ -59,13 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How the ‘Spoon’ and ‘Fork&#39; Theories Can Make You More Compassionate to Yourself &lpar;and Others&rpar;](https://lifehacker.com/health/what-are-the-spoon-and-fork-theories)
 - [Lifehacker] [These Are the Best Free VPNs for Android](https://lifehacker.com/tech/best-free-vpns-for-android)
 - [Lifehacker] [This Eton Elite Executive Radio Is on Sale for $150 Right Now](https://lifehacker.com/eton-elite-executive-radio-sale)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s Couple-Painting Trend](https://lifehacker.com/entertainment/tiktoks-couple-painting-trend-out-of-touch-adults-guide-to-kid-culture)
-- [Lifehacker] [These Are the Best Bicep Exercises](https://lifehacker.com/health/best-bicep-exercises)
-- [Lifehacker] [How to Share a Google One Subscription With Your Family](https://lifehacker.com/tech/how-to-share-google-one-subscription-with-family)
-- [Lifehacker] [The Best Tools and Gadgets to Keep Your Kitchen Clean](https://lifehacker.com/home/best-tools-and-gadgets-for-cleaning-your-kitchen)
-- [Lifehacker] [Elevate Chicken Fingers With Instant Potato Flakes](https://lifehacker.com/food-drink/chicken-fingers-with-instant-potato-flakes-recipe)
-- [Lifehacker] [You Can Get a Refurbished Peloton+ for $900 Less Than a New One Right Now](https://lifehacker.com/health/refurbished-peloton-plus-deal)
-- [Lifehacker] [How to Choose the Right SSD to Buy](https://lifehacker.com/tech/how-to-choose-ssd-to-buy)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: TikTok&#39;s Couple-Painting Trend](https://lifehacker.com/entertainment/tiktoks-couple-painting-trend-out-of-touch-adults-guide-to-kid-culture)<!-- TECH-POSTS:END -->
 
 ---
 
