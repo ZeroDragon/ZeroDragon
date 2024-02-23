@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Hacks You NEED to Know in 2024!](https://dev.to/withaarzoo/javascript-hacks-you-need-to-know-in-2024-4cgk)
+- [Dev.to/JS] [JavaScript Hacks You NEED to Know in 2024!](https://dev.to/aarzoo75/javascript-hacks-you-need-to-know-in-2024-501k)
 - [Dev.to/JS] [Building a Simple Todo API with Express.js](https://dev.to/vaibhavgupta09/building-a-simple-todo-api-with-expressjs-41fk)
 - [Dev.to/JS] [React anti-patterns that lead to unnecessary complexity](https://dev.to/sbracegirdle/react-anti-patterns-that-lead-to-unnecessary-complexity-2ece)
 - [Dev.to/JS] [When throttling and debouncing meet asynchronous, what kind of sparks will they create? Published at](https://dev.to/bowencool/when-throttling-and-debouncing-meet-asynchronous-what-kind-of-sparks-will-they-createpublished-at-3jlk)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Six Pillars of Database-Driven Application Performance](https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-4mp1)
 - [Dev.to/JS] [Maximize Business Potential With Expert .NET Development Services](https://dev.to/ecaterinateodo3/maximize-business-potential-with-expert-net-development-services-2618)
 - [Dev.to/JS] [How Dumps Villa Exam Study Manuals Simplify Complex Topics](https://dev.to/moul1993/how-dumps-villa-exam-study-manuals-simplify-complex-topics-53ea)
-- [Dev.to/JS] [What measures are taken to ensure compliance with industry regulations and standards?](https://dev.to/yagnapandya9/what-measures-are-taken-to-ensure-compliance-with-industry-regulations-and-standards-h4l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 23, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Debouncing and Throttling: Taming the Wild West of JavaScript Events](https://dev.to/snaghub/debouncing-and-throttling-taming-the-wild-west-of-javascript-events-51mh)
 - [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
 - [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)
 - [Lifehacker] [You Can Get a Sam’s Club Memberships on Sale for $20 Right Now](https://lifehacker.com/sams-club-membership-sale)
