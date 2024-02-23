@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Native + ChatGPT Stream: How to?](https://dev.to/hieunh1801/react-native-chatgpt-stream-how-to-5cn)
+- [Dev.to/JS] [What inspired me to become a fullstack developer](https://dev.to/sage_ifeanyi/what-inspired-me-to-become-a-fullstack-developer-4gp1)
+- [Dev.to/JS] [Google Pixel 6 Pro Vs Samsung S22 Ultra 5G Comparison](https://dev.to/ngbaze/google-pixel-6-pro-vs-samsung-s22-ultra-5g-comparison-16n4)
+- [Dev.to/JS] [Best 5 International Online Shopping Websites](https://dev.to/ngbaze/best-5-international-online-shopping-websites-27ho)
+- [Dev.to/JS] [How to Start Blogging and Monetize Your Passion](https://dev.to/ngbaze/how-to-start-blogging-and-monetize-your-passion-3i35)
 - [Dev.to/JS] [JavaScript Hacks You NEED to Know in 2024!](https://dev.to/withaarzoo/javascript-hacks-you-need-to-know-in-2024-4cgk)
 - [Dev.to/JS] [JavaScript Hacks You NEED to Know in 2024!](https://dev.to/aarzoo75/javascript-hacks-you-need-to-know-in-2024-501k)
 - [Dev.to/JS] [Building a Simple Todo API with Express.js](https://dev.to/vaibhavgupta09/building-a-simple-todo-api-with-expressjs-41fk)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [When throttling and debouncing meet asynchronous, what kind of sparks will they create? Published at](https://dev.to/bowencool/when-throttling-and-debouncing-meet-asynchronous-what-kind-of-sparks-will-they-createpublished-at-3jlk)
 - [Dev.to/JS] [How to monitor your Next.js Application performance and track errors with Sentry](https://dev.to/gbengacode/how-to-monitor-nextjs-application-performance-and-track-errors-with-sentry-36l2)
 - [Dev.to/JS] [Maximizing Website Potential: The Power of Tailored WordPress Plugins](https://dev.to/jamesmartindev/maximizing-website-potential-the-power-of-tailored-wordpress-plugins-29id)
-- [Dev.to/JS] [Building Interactive Skill Progress Bars with HTML, CSS, and JavaScript](https://dev.to/mattbug3/building-interactive-skill-progress-bars-with-html-css-and-javascript-e05)
-- [Dev.to/JS] [JavaScript Array checks](https://dev.to/samassango/javascript-array-checks-4cje)
-- [Dev.to/JS] [The Six Pillars of Database-Driven Application Performance](https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-4mp1)
-- [Dev.to/JS] [Maximize Business Potential With Expert .NET Development Services](https://dev.to/ecaterinateodo3/maximize-business-potential-with-expert-net-development-services-2618)
-- [Dev.to/JS] [How Dumps Villa Exam Study Manuals Simplify Complex Topics](https://dev.to/moul1993/how-dumps-villa-exam-study-manuals-simplify-complex-topics-53ea)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, February 23, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
 - [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)
