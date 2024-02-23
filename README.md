@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [okvipwatch](https://dev.to/okvip-watch/okvipwatch-144j)
 - [Dev.to/JS] [Essential JavaScript ES6 Methods Every Developer Should Know](https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk)
 - [Dev.to/JS] [Mastering Next.js Routing: A Comprehensive Guide for Developers](https://dev.to/nitin-rachabathuni/mastering-nextjs-routing-a-comprehensive-guide-for-developers-4je3)
 - [Dev.to/JS] [DECODING COMMUNITY MANAGEMENT](https://dev.to/devgancode/decoding-community-management-5hl8)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Xprz Package](https://dev.to/m__mdy__m/xprz-package-3mpn)
 - [Dev.to/JS] [Discussion of the Week: &quot;Why is everything JavaScript?&quot;](https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a)
 - [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)
-- [Dev.to/JS] [ExpressVPN lanza un nuevo servidor](https://dev.to/chrisperry07/expressvpn-lanza-un-nuevo-servidor-5bhh)
 - [Lifehacker] [You Can Get a Sam’s Club Memberships on Sale for $20 Right Now](https://lifehacker.com/sams-club-membership-sale)
 - [Lifehacker] [How to Decide Between a Juicer and a Blender](https://lifehacker.com/food-drink/juicer-versus-blender-and-which-one-you-need)
 - [Lifehacker] [Try These Alternatives to SMART Goals to Get More Done](https://lifehacker.com/work/alternatives-to-smart-goals-to-get-more-done)
