@@ -27,6 +27,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Event-driven architecture: navigating the single threaded nature of Node.js](https://dev.to/joshraphael/event-driven-architecture-navigating-the-single-threaded-nature-of-nodejs-1aj4)
+- [Lifehacker] [If Therapy Is Too Expensive, Try Single-session Interventions](https://lifehacker.com/health/what-is-single-session-therapy)
+- [Lifehacker] [10 of the Easiest DIY Bathroom Updates &lpar;for Less Than $100 Each&rpar;](https://lifehacker.com/home/best-ways-to-update-a-bathroom-on-a-budget)
 - [Lifehacker] [Usher in an Early Summer With At-home Bubble Tea](https://lifehacker.com/food-drink/best-bubble-tea-recipe)
 - [Lifehacker] [How to Make a ‘Minimally Viable’ Budget &lpar;and Why You Should&rpar;](https://lifehacker.com/money/how-to-make-a-minimally-viable-budget)
 - [Dev.to/JS] [AES Decryption in NodeJs](https://dev.to/ridwaan1/aes-decryption-in-nodejs-77h)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try These Alternatives to SMART Goals to Get More Done](https://lifehacker.com/work/alternatives-to-smart-goals-to-get-more-done)
 - [Lifehacker] [Is Using LinkedIn’s &#39;Open to Work&#39; Badge Helping or Hurting Your Job Search?](https://lifehacker.com/work/pros-and-cons-of-using-linkedins-open-to-work-badge)
 - [Lifehacker] [The POSEC Method Is a Better Way to Structure Your Time](https://lifehacker.com/work/use-the-posec-method-to-structure-your-time)
-- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
-- [Lifehacker] [The Best Ways to Furnish a Small Living Space](https://lifehacker.com/home/best-ways-to-furnish-small-space)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)<!-- TECH-POSTS:END -->
 
 ---
 
