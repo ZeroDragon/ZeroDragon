@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Error handling in React 18](https://dev.to/lassiecoder/error-handling-in-react-18-ll5)
 - [Dev.to/JS] [Javascript is not single threaded! 🤯 🤩](https://dev.to/codeparrot/javascript-is-not-single-threaded-5915)
 - [Dev.to/JS] [Qual a diferença entre require e import numa aplicação JS?](https://dev.to/vanscript/qual-a-diferenca-entre-require-e-import-numa-aplicacao-js-6ga)
 - [Dev.to/JS] [BUY GOOGLE REVIEWS](https://dev.to/markwood6636/buy-google-reviews-3oe9)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 24, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [PROTON KETO ACV GUMMIES Ingredients Reviews &lpar;Critical Customer Warning&rpar; World Expert Advise.Spesial -](https://dev.to/todddrouin/proton-keto-acv-gummies-ingredients-reviews-critical-customer-warning-world-expert-advisespesial--6ka)
 - [Dev.to/JS] [Declare vs Assign vs Reassign vs Redeclare in JavaScript](https://dev.to/tarekibnkhayer/declare-vs-assign-vs-reassign-vs-redeclare-in-javascript-4p7p)
-- [Dev.to/JS] [JavaScript Exception Handling](https://dev.to/markliu2013/javascript-exception-handling-30ii)
 - [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
 - [Lifehacker] [How to Share Your Microsoft 365 Subscription &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/sharing-microsoft-365-subscription)
 - [Lifehacker] [The Best Exercises for Your Glutes &lpar;That Is, Your Butt&rpar;](https://lifehacker.com/health/best-exercises-for-your-glutes)
