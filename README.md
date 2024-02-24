@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CORS &lpar;Cross-Origin Resource Sharing&rpar;](https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h)
+- [Dev.to/JS] [Let&#39;s Talk JavaScript: Demystifying the return Keyword](https://dev.to/qa3emnik/lets-talk-javascript-demystifying-the-return-keyword-118o)
 - [Dev.to/JS] [Props Unpacked: The Magic Behind Data Flow in Components](https://dev.to/devincb93/props-unpacked-the-magic-behind-data-flow-in-components-c4i)
 - [Dev.to/JS] [Why I love Jotai](https://dev.to/dayvster/why-i-love-jotai-d2n)
 - [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
@@ -52,9 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Security Considerations for Your commercetools Application](https://dev.to/nitin-rachabathuni/security-considerations-for-your-commercetools-application-3elg)
 - [Dev.to/JS] [What is Reconciliation and the Virtual DOM &lpar;VDOM&rpar;?](https://dev.to/this-is-learning/what-is-reconciliation-and-the-virtual-dom-vdom-2p3c)
 - [Lifehacker] [These Are the Best Antivirus Apps for Macs in 2024](https://lifehacker.com/tech/best-antivirus-apps-for-mac)
-- [Dev.to/JS] [JavaScript vs Python](https://dev.to/elitesuper/javascript-vs-python-3ai5)
 - [Lifehacker] [The Five Best Ad Blockers You Can Install](https://lifehacker.com/tech/the-best-ad-blockers)
-- [Dev.to/JS] [Promises under the hood](https://dev.to/victorhsantiago/promises-under-the-hood-3af9)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
