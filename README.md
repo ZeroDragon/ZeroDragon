@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Exception Handling](https://dev.to/markliu2013/javascript-exception-handling-30ii)
+- [Dev.to/JS] [BUY TRUSTPILOT REVIEWS](https://dev.to/gary_nicholas65/buy-trustpilot-reviews-3p91)
 - [Dev.to/JS] [CORS &lpar;Cross-Origin Resource Sharing&rpar;](https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h)
 - [Dev.to/JS] [Let&#39;s Talk JavaScript: Demystifying the return Keyword](https://dev.to/qa3emnik/lets-talk-javascript-demystifying-the-return-keyword-118o)
 - [Dev.to/JS] [Props Unpacked: The Magic Behind Data Flow in Components](https://dev.to/devincb93/props-unpacked-the-magic-behind-data-flow-in-components-c4i)
@@ -51,8 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons on Sale for $40 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
 - [Lifehacker] [30 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/most-violent-action-movies-ever-made)
 - [Dev.to/JS] [Genesis of a Framework: Unveiling the Meteor Story](https://dev.to/meteor/genesis-of-a-framework-unveiling-the-meteor-story-50dd)
-- [Dev.to/JS] [Security Considerations for Your commercetools Application](https://dev.to/nitin-rachabathuni/security-considerations-for-your-commercetools-application-3elg)
-- [Dev.to/JS] [What is Reconciliation and the Virtual DOM &lpar;VDOM&rpar;?](https://dev.to/this-is-learning/what-is-reconciliation-and-the-virtual-dom-vdom-2p3c)
 - [Lifehacker] [These Are the Best Antivirus Apps for Macs in 2024](https://lifehacker.com/tech/best-antivirus-apps-for-mac)
 - [Lifehacker] [The Five Best Ad Blockers You Can Install](https://lifehacker.com/tech/the-best-ad-blockers)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
