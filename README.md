@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Of Web Games](https://dev.to/webgameguy/of-web-games-5905)
+- [Dev.to/JS] [How to check if an element is visible in the viewport using JavaScript and React Hook.](https://dev.to/fpaghar/how-to-check-if-an-element-is-visible-in-the-viewport-using-javascript-and-react-hook-4648)
+- [Dev.to/JS] [Filters even numbers from an array, squares them, and prints the result.](https://dev.to/palchandu_dev/filters-even-numbers-from-an-array-squares-them-and-prints-the-result-5b9)
+- [Dev.to/JS] [Breadth-First Search in a 2D Matrix](https://dev.to/greenteaisgreat/breadth-first-search-in-2d-matrices-3e2j)
 - [Dev.to/JS] [Starter application using Node.js + React.js + Nginx + Docker, being deployed to AWS EC2 - Step to step](https://dev.to/fco3lho/starter-application-using-nodejs-reactjs-nginx-docker-being-deployed-to-aws-ec2-step-to-step-1gh)
 - [Dev.to/JS] [Simple game with JS](https://dev.to/nicejjss/simple-game-with-js-4kn)
 - [Dev.to/JS] [Exploring the Top Alternatives to React.js in 2024](https://dev.to/rajaerobinson/exploring-the-top-alternatives-to-reactjs-in-2024-4hek)
@@ -34,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 React Labs Update: Innovations and Progress in February 2024! 🚀](https://dev.to/anwarsr/react-labs-update-innovations-and-progress-in-february-2024-1mpj)
 - [Dev.to/JS] [JWT explained in 4 minutes &lpar;With Visuals&rpar;](https://dev.to/jaypmedia/jwt-explained-in-4-minutes-with-visuals-g3n)
 - [Dev.to/JS] [CORS Error When Accessing Nest.js API Locally](https://dev.to/hasinadevelop/cors-error-when-accessing-nestjs-api-locally-2fmp)
-- [Dev.to/JS] [[Sparta Coding Club] Week 3 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-3-today-i-learned-2gi9)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
-- [Dev.to/JS] [Embarking on a 100-Day Journey with JavaScript! 🚀](https://dev.to/lassiecoder/embarking-on-a-100-day-journey-with-javascript-47aj)
-- [Dev.to/JS] [Error handling in React 18](https://dev.to/lassiecoder/error-handling-in-react-18-ll5)
-- [Dev.to/JS] [Javascript is not single threaded! 🤯 🤩](https://dev.to/codeparrot/javascript-is-not-single-threaded-5915)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 24, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
 - [Lifehacker] [How to Share Your Microsoft 365 Subscription &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/sharing-microsoft-365-subscription)
