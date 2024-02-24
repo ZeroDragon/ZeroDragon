@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Is Webhooks How Different From Api?](https://dev.to/sanjaykhanssk/what-is-webhooks-how-different-from-api-4odb)
+- [Dev.to/JS] [iTpreneur - Best IT Training Institute in Nagpur](https://dev.to/listbusiness/itpreneur-best-it-training-institute-in-nagpur-4f6j)
 - [Dev.to/JS] [PROTON KETO ACV GUMMIES Ingredients Reviews &lpar;Critical Customer Warning&rpar; World Expert Advise.Spesial -](https://dev.to/todddrouin/proton-keto-acv-gummies-ingredients-reviews-critical-customer-warning-world-expert-advisespesial--6ka)
 - [Dev.to/JS] [Declare vs Assign vs Reassign vs Redeclare in JavaScript](https://dev.to/tarekibnkhayer/declare-vs-assign-vs-reassign-vs-redeclare-in-javascript-4p7p)
 - [Dev.to/JS] [JavaScript Exception Handling](https://dev.to/markliu2013/javascript-exception-handling-30ii)
@@ -44,10 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Easiest DIY Bathroom Updates &lpar;for Less Than $100 Each&rpar;](https://lifehacker.com/home/best-ways-to-update-a-bathroom-on-a-budget)
 - [Lifehacker] [Usher in an Early Summer With At-home Bubble Tea](https://lifehacker.com/food-drink/best-bubble-tea-recipe)
 - [Lifehacker] [How to Make a ‘Minimally Viable’ Budget &lpar;and Why You Should&rpar;](https://lifehacker.com/money/how-to-make-a-minimally-viable-budget)
-- [Dev.to/JS] [AES Decryption in NodeJs](https://dev.to/ridwaan1/aes-decryption-in-nodejs-77h)
 - [Lifehacker] [A Modular System Can Give You a Green Roof for Less Money](https://lifehacker.com/home/modular-green-roof-benefits-and-cost)
 - [Lifehacker] [Why You Should Consider a Parabolic Space Heater](https://lifehacker.com/home/benefits-of-parabolic-space-heaters)
-- [Dev.to/JS] [Handling Data: Buffers and Streams in Node.js](https://dev.to/ruben_alapont/handling-data-buffers-and-streams-in-nodejs-22d7)
 - [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
