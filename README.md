@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is an API](https://dev.to/otumianempire/what-is-an-api-4n4j)
+- [Dev.to/JS] [🚀 React Labs Update: Innovations and Progress in February 2024! 🚀](https://dev.to/anwarsr/react-labs-update-innovations-and-progress-in-february-2024-1mpj)
 - [Dev.to/JS] [JWT explained in 4 minutes &lpar;With Visuals&rpar;](https://dev.to/jaypmedia/jwt-explained-in-4-minutes-with-visuals-g3n)
 - [Dev.to/JS] [CORS Error When Accessing Nest.js API Locally](https://dev.to/hasinadevelop/cors-error-when-accessing-nestjs-api-locally-2fmp)
 - [Dev.to/JS] [[Sparta Coding Club] Week 3 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-3-today-i-learned-2gi9)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [BUY GOOGLE REVIEWS](https://dev.to/markwood6636/buy-google-reviews-3oe9)
 - [Dev.to/JS] [react useDebounce](https://dev.to/dayvster/react-usedebounce-4bpf)
 - [Dev.to/JS] [REST APIs By Express,Node,MongoDB Atlas,Mongoose#CRUD operation in API](https://dev.to/swapnanilwebdeveloper/rest-apis-by-expressnodemongodb-atlasmongoosecrud-operation-in-api-1ai)
-- [Dev.to/JS] [Typescript Generics Explained](https://dev.to/younusraza909/typescript-generics-explained-3jd7)
-- [Dev.to/JS] [React Tutorial: Create Your Twist on Wordle](https://dev.to/cupofcode/react-tutorial-create-your-twist-on-wordle-3ip9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 24, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
 - [Lifehacker] [How to Share Your Microsoft 365 Subscription &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/sharing-microsoft-365-subscription)
