@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Props Unpacked: The Magic Behind Data Flow in Components](https://dev.to/devincb93/props-unpacked-the-magic-behind-data-flow-in-components-c4i)
 - [Dev.to/JS] [Why I love Jotai](https://dev.to/dayvster/why-i-love-jotai-d2n)
+- [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
+- [Lifehacker] [How to Share Your Microsoft 365 Subscription &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/sharing-microsoft-365-subscription)
 - [Lifehacker] [The Best Exercises for Your Glutes &lpar;That Is, Your Butt&rpar;](https://lifehacker.com/health/best-exercises-for-your-glutes)
 - [Lifehacker] [These Are the Best Gaming Routers to Buy in 2024](https://lifehacker.com/tech/best-gaming-routers)
 - [Dev.to/JS] [Event-driven architecture: navigating the single threaded nature of Node.js](https://dev.to/joshraphael/event-driven-architecture-navigating-the-single-threaded-nature-of-nodejs-1aj4)
@@ -54,7 +57,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promises under the hood](https://dev.to/victorhsantiago/promises-under-the-hood-3af9)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
-- [Dev.to/JS] [Lavaduct Lagoon](https://dev.to/rmion/lavaduct-lagoon-1k3l)
 - [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
 - [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
 - [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)
 - [Lifehacker] [You Can Get a Sam’s Club Memberships on Sale for $20 Right Now](https://lifehacker.com/sams-club-membership-sale)
-- [Lifehacker] [How to Decide Between a Juicer and a Blender](https://lifehacker.com/food-drink/juicer-versus-blender-and-which-one-you-need)
-- [Lifehacker] [Try These Alternatives to SMART Goals to Get More Done](https://lifehacker.com/work/alternatives-to-smart-goals-to-get-more-done)
-- [Lifehacker] [Is Using LinkedIn’s &#39;Open to Work&#39; Badge Helping or Hurting Your Job Search?](https://lifehacker.com/work/pros-and-cons-of-using-linkedins-open-to-work-badge)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Decide Between a Juicer and a Blender](https://lifehacker.com/food-drink/juicer-versus-blender-and-which-one-you-need)<!-- TECH-POSTS:END -->
 
 ---
 
