@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PROTON KETO ACV GUMMIES Ingredients Reviews &lpar;Critical Customer Warning&rpar; World Expert Advise.Spesial -](https://dev.to/todddrouin/proton-keto-acv-gummies-ingredients-reviews-critical-customer-warning-world-expert-advisespesial--6ka)
 - [Dev.to/JS] [Declare vs Assign vs Reassign vs Redeclare in JavaScript](https://dev.to/tarekibnkhayer/declare-vs-assign-vs-reassign-vs-redeclare-in-javascript-4p7p)
 - [Dev.to/JS] [JavaScript Exception Handling](https://dev.to/markliu2013/javascript-exception-handling-30ii)
 - [Dev.to/JS] [BUY TRUSTPILOT REVIEWS](https://dev.to/gary_nicholas65/buy-trustpilot-reviews-3p91)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Consider a Parabolic Space Heater](https://lifehacker.com/home/benefits-of-parabolic-space-heaters)
 - [Dev.to/JS] [Handling Data: Buffers and Streams in Node.js](https://dev.to/ruben_alapont/handling-data-buffers-and-streams-in-nodejs-22d7)
 - [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
-- [Dev.to/JS] [Calling a door phone from a web browser](https://dev.to/fonoster/calling-a-door-phone-from-a-web-browser-1bko)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons on Sale for $40 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
