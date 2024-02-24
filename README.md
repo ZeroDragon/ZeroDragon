@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
+- [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
 - [Dev.to/JS] [Embarking on a 100-Day Journey with JavaScript! 🚀](https://dev.to/lassiecoder/embarking-on-a-100-day-journey-with-javascript-47aj)
 - [Dev.to/JS] [Error handling in React 18](https://dev.to/lassiecoder/error-handling-in-react-18-ll5)
 - [Dev.to/JS] [Javascript is not single threaded! 🤯 🤩](https://dev.to/codeparrot/javascript-is-not-single-threaded-5915)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)
 - [Lifehacker] [35 of the Horniest TV Shows Ever Made](https://lifehacker.com/horniest-tv-shows-of-all-time)
 - [Lifehacker] [Use ‘Spicetify’ to Give Spotify a Visual Makeover](https://lifehacker.com/tech/how-to-customize-spotify)
-- [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)
-- [Lifehacker] [You Can Get a Sam’s Club Memberships on Sale for $20 Right Now](https://lifehacker.com/sams-club-membership-sale)
-- [Lifehacker] [How to Decide Between a Juicer and a Blender](https://lifehacker.com/food-drink/juicer-versus-blender-and-which-one-you-need)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Exercises for Beefier, More Powerful Hamstrings](https://lifehacker.com/health/the-best-hamstring-exercises)<!-- TECH-POSTS:END -->
 
 ---
 
