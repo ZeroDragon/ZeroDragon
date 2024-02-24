@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JWT explained in 4 minutes &lpar;With Visuals&rpar;](https://dev.to/jaypmedia/jwt-explained-in-4-minutes-with-visuals-g3n)
+- [Dev.to/JS] [CORS Error When Accessing Nest.js API Locally](https://dev.to/hasinadevelop/cors-error-when-accessing-nestjs-api-locally-2fmp)
+- [Dev.to/JS] [[Sparta Coding Club] Week 3 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-3-today-i-learned-2gi9)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
 - [Dev.to/JS] [Embarking on a 100-Day Journey with JavaScript! 🚀](https://dev.to/lassiecoder/embarking-on-a-100-day-journey-with-javascript-47aj)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [REST APIs By Express,Node,MongoDB Atlas,Mongoose#CRUD operation in API](https://dev.to/swapnanilwebdeveloper/rest-apis-by-expressnodemongodb-atlasmongoosecrud-operation-in-api-1ai)
 - [Dev.to/JS] [Typescript Generics Explained](https://dev.to/younusraza909/typescript-generics-explained-3jd7)
 - [Dev.to/JS] [React Tutorial: Create Your Twist on Wordle](https://dev.to/cupofcode/react-tutorial-create-your-twist-on-wordle-3ip9)
-- [Dev.to/JS] [What Is Webhooks How Different From Api?](https://dev.to/sanjaykhanssk/what-is-webhooks-how-different-from-api-4odb)
-- [Dev.to/JS] [iTpreneur - Best IT Training Institute in Nagpur](https://dev.to/listbusiness/itpreneur-best-it-training-institute-in-nagpur-4f6j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 24, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [PROTON KETO ACV GUMMIES Ingredients Reviews &lpar;Critical Customer Warning&rpar; World Expert Advise.Spesial -](https://dev.to/todddrouin/proton-keto-acv-gummies-ingredients-reviews-critical-customer-warning-world-expert-advisespesial--6ka)
 - [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
 - [Lifehacker] [How to Share Your Microsoft 365 Subscription &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/sharing-microsoft-365-subscription)
 - [Lifehacker] [The Best Exercises for Your Glutes &lpar;That Is, Your Butt&rpar;](https://lifehacker.com/health/best-exercises-for-your-glutes)
