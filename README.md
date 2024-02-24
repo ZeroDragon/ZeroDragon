@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Exercises for Your Glutes &lpar;That Is, Your Butt&rpar;](https://lifehacker.com/health/best-exercises-for-your-glutes)
+- [Lifehacker] [These Are the Best Gaming Routers to Buy in 2024](https://lifehacker.com/tech/best-gaming-routers)
 - [Dev.to/JS] [Event-driven architecture: navigating the single threaded nature of Node.js](https://dev.to/joshraphael/event-driven-architecture-navigating-the-single-threaded-nature-of-nodejs-1aj4)
 - [Lifehacker] [If Therapy Is Too Expensive, Try Single-session Interventions](https://lifehacker.com/health/what-is-single-session-therapy)
 - [Lifehacker] [10 of the Easiest DIY Bathroom Updates &lpar;for Less Than $100 Each&rpar;](https://lifehacker.com/home/best-ways-to-update-a-bathroom-on-a-budget)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Sam’s Club Memberships on Sale for $20 Right Now](https://lifehacker.com/sams-club-membership-sale)
 - [Lifehacker] [How to Decide Between a Juicer and a Blender](https://lifehacker.com/food-drink/juicer-versus-blender-and-which-one-you-need)
 - [Lifehacker] [Try These Alternatives to SMART Goals to Get More Done](https://lifehacker.com/work/alternatives-to-smart-goals-to-get-more-done)
-- [Lifehacker] [Is Using LinkedIn’s &#39;Open to Work&#39; Badge Helping or Hurting Your Job Search?](https://lifehacker.com/work/pros-and-cons-of-using-linkedins-open-to-work-badge)
-- [Lifehacker] [The POSEC Method Is a Better Way to Structure Your Time](https://lifehacker.com/work/use-the-posec-method-to-structure-your-time)
-- [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Is Using LinkedIn’s &#39;Open to Work&#39; Badge Helping or Hurting Your Job Search?](https://lifehacker.com/work/pros-and-cons-of-using-linkedins-open-to-work-badge)<!-- TECH-POSTS:END -->
 
 ---
 
