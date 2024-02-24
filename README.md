@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Declare vs Assign vs Reassign vs Redeclare in JavaScript](https://dev.to/tarekibnkhayer/declare-vs-assign-vs-reassign-vs-redeclare-in-javascript-4p7p)
 - [Dev.to/JS] [JavaScript Exception Handling](https://dev.to/markliu2013/javascript-exception-handling-30ii)
 - [Dev.to/JS] [BUY TRUSTPILOT REVIEWS](https://dev.to/gary_nicholas65/buy-trustpilot-reviews-3p91)
 - [Dev.to/JS] [CORS &lpar;Cross-Origin Resource Sharing&rpar;](https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h)
@@ -52,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
 - [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons on Sale for $40 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
 - [Lifehacker] [30 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/most-violent-action-movies-ever-made)
-- [Dev.to/JS] [Genesis of a Framework: Unveiling the Meteor Story](https://dev.to/meteor/genesis-of-a-framework-unveiling-the-meteor-story-50dd)
 - [Lifehacker] [These Are the Best Antivirus Apps for Macs in 2024](https://lifehacker.com/tech/best-antivirus-apps-for-mac)
 - [Lifehacker] [The Five Best Ad Blockers You Can Install](https://lifehacker.com/tech/the-best-ad-blockers)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
