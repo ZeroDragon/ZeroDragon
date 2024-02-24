@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript vs. JavaScript: In a Nutshell 🔥](https://dev.to/alisamirali/typescript-vs-javascript-in-a-nutshell-nma)
 - [Dev.to/JS] [Preview images on upload with StimulusJS](https://dev.to/zainbutt/preview-images-on-upload-with-stimulusjs-2mfh)
 - [Dev.to/JS] [Open source web game Adventures in Tmenya](https://dev.to/webgameguy/open-source-web-game-adventures-in-tmenya-917)
 - [Dev.to/JS] [Of Web Games](https://dev.to/webgameguy/of-web-games-5905)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Top Alternatives to React.js in 2024](https://dev.to/rajaerobinson/exploring-the-top-alternatives-to-reactjs-in-2024-4hek)
 - [Dev.to/JS] [How to Code a Dictionary App in React | Full Tutorial](https://dev.to/imrankh13332994/how-to-code-a-dictionary-app-in-react-full-tutorial-126p)
 - [Dev.to/JS] [What is an API](https://dev.to/otumianempire/what-is-an-api-4n4j)
-- [Dev.to/JS] [🚀 React Labs Update: Innovations and Progress in February 2024! 🚀](https://dev.to/anwarsr/react-labs-update-innovations-and-progress-in-february-2024-1mpj)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 24, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
