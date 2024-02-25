@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use Notion to stay productive as a web developer](https://dev.to/lemmecode/use-notion-to-stay-productive-as-a-web-developer-3lfg)
+- [Dev.to/JS] [Angular 17 Upgrade Guide with SSR](https://dev.to/mirzaleka/angular-17-upgrade-guide-with-ssr-1nib)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Better DEV stats with Dev.to API](https://dev.to/moozzyk/better-dev-stats-with-devto-api-4ge8)
 - [Dev.to/JS] [Simplify document cookies management](https://dev.to/phuocng/simplify-document-cookies-management-4pf)
 - [Dev.to/JS] [Aplenty](https://dev.to/rmion/aplenty-3eep)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open source web game Adventures in Tmenya](https://dev.to/webgameguy/open-source-web-game-adventures-in-tmenya-917)
 - [Dev.to/JS] [Of Web Games](https://dev.to/webgameguy/of-web-games-5905)
 - [Dev.to/JS] [How to check if an element is visible in the viewport using JavaScript and React Hook.](https://dev.to/fpaghar/how-to-check-if-an-element-is-visible-in-the-viewport-using-javascript-and-react-hook-4648)
-- [Dev.to/JS] [Filters even numbers from an array, squares them, and prints the result.](https://dev.to/palchandu_dev/filters-even-numbers-from-an-array-squares-them-and-prints-the-result-5b9)
-- [Dev.to/JS] [Breadth-First Search in a 2D Matrix](https://dev.to/greenteaisgreat/breadth-first-search-in-2d-matrices-3e2j)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 24, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
 - [Lifehacker] [How to Share Your Microsoft 365 Subscription &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/sharing-microsoft-365-subscription)
 - [Lifehacker] [The Best Exercises for Your Glutes &lpar;That Is, Your Butt&rpar;](https://lifehacker.com/health/best-exercises-for-your-glutes)
