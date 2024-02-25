@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript : Execution Context and Hoisting](https://dev.to/angdecoder/javascript-execution-context-and-hoisting-5530)
+- [Dev.to/JS] [Mastering Node.js: 50 Interview Essentials 🚀](https://dev.to/alisamirali/mastering-nodejs-50-interview-essentials-57n9)
 - [Dev.to/JS] [Use Notion to stay productive as a web developer](https://dev.to/lemmecode/use-notion-to-stay-productive-as-a-web-developer-3lfg)
 - [Dev.to/JS] [Angular 17 Upgrade Guide with SSR](https://dev.to/mirzaleka/angular-17-upgrade-guide-with-ssr-1nib)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript vs. JavaScript: In a Nutshell 🔥](https://dev.to/alisamirali/typescript-vs-javascript-in-a-nutshell-nma)
 - [Dev.to/JS] [Preview images on upload with StimulusJS](https://dev.to/zainbutt/preview-images-on-upload-with-stimulusjs-2mfh)
 - [Dev.to/JS] [Open source web game Adventures in Tmenya](https://dev.to/webgameguy/open-source-web-game-adventures-in-tmenya-917)
-- [Dev.to/JS] [Of Web Games](https://dev.to/webgameguy/of-web-games-5905)
-- [Dev.to/JS] [How to check if an element is visible in the viewport using JavaScript and React Hook.](https://dev.to/fpaghar/how-to-check-if-an-element-is-visible-in-the-viewport-using-javascript-and-react-hook-4648)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
 - [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
