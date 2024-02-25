@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [RESTAPI vs GraphQL](https://dev.to/akmaurya31/restapi-vs-graphql-1m21)
 - [Dev.to/JS] [Closures in JavaScript: What they are, how they work, and why you should care!](https://dev.to/brunnom7/closures-in-javascript-what-they-are-how-they-work-and-why-you-should-care-17kn)
 - [Dev.to/JS] [How to make a simple incremental, decremental, and Reset Counter App with Vue.js for a beginner](https://dev.to/ngbeagloriajames/how-to-make-a-simple-incremental-decremental-and-reset-counter-app-with-vuejs-for-a-beginner-21kl)
 - [Dev.to/JS] [Tutorial on making a database and then using my API-Template from GIT](https://dev.to/shawn2208/tutorial-on-making-a-database-and-then-using-my-api-template-from-git-54h1)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the Power of Dynamic Web Content with Monster Templating](https://dev.to/schukai/unleashing-the-power-of-dynamic-web-content-with-monster-templating-22oa)
 - [Dev.to/JS] [What is Server Side Rendering &lpar;SSR&rpar; and Static Site Generation &lpar;SSG&rpar;?](https://dev.to/this-is-learning/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-308o)
 - [Dev.to/JS] [JavaScript : Unable to link an image on the home page to a carousel on the gallery page.](https://dev.to/dgihost/javascript-unable-to-link-an-image-on-the-home-page-to-a-carousel-on-the-gallery-page-3o2)
-- [Dev.to/JS] [Battling Bloat: How I Streamlined Data Fetches in React with a Custom useFetch Hook](https://dev.to/dimnyan/battling-bloat-how-i-streamlined-data-fetches-in-react-with-a-custom-usefetch-hook-103d)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
