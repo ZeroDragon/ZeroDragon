@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [State Management Showdown Vuex vs. Pinia](https://dev.to/ptheodosiou/state-management-showdown-vuex-vs-pinia-3nkl)
+- [Dev.to/JS] [PassKey in Go](https://dev.to/egregors/passkey-in-go-1efk)
+- [Dev.to/JS] [When To Not Use Pointers in Golang?](https://dev.to/nikl/when-to-not-use-pointers-in-golang-kfi)
+- [Dev.to/JS] [Collection of Custom Hooks For Your Nextjs-React Project](https://dev.to/vawivi/collection-of-custom-hooks-for-your-nextjs-react-project-41m0)
 - [Dev.to/JS] [JavaScript : Execution Context and Hoisting](https://dev.to/angdecoder/javascript-execution-context-and-hoisting-5530)
 - [Dev.to/JS] [Mastering Node.js: 50 Interview Essentials 🚀](https://dev.to/alisamirali/mastering-nodejs-50-interview-essentials-57n9)
 - [Dev.to/JS] [Use Notion to stay productive as a web developer](https://dev.to/lemmecode/use-notion-to-stay-productive-as-a-web-developer-3lfg)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplify document cookies management](https://dev.to/phuocng/simplify-document-cookies-management-4pf)
 - [Dev.to/JS] [Aplenty](https://dev.to/rmion/aplenty-3eep)
 - [Dev.to/JS] [offshore software development](https://dev.to/geekstation/offshore-software-development-4enp)
-- [Dev.to/JS] [zikojs tips : mapfun](https://dev.to/zakarialaoui10/zikojs-tips-mapfun-1c1k)
-- [Dev.to/JS] [TypeScript vs. JavaScript: In a Nutshell 🔥](https://dev.to/alisamirali/typescript-vs-javascript-in-a-nutshell-nma)
-- [Dev.to/JS] [Preview images on upload with StimulusJS](https://dev.to/zainbutt/preview-images-on-upload-with-stimulusjs-2mfh)
-- [Dev.to/JS] [Open source web game Adventures in Tmenya](https://dev.to/webgameguy/open-source-web-game-adventures-in-tmenya-917)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
 - [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
