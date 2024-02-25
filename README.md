@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Taming the Code Beasts: Mastering Function in JavaScript](https://dev.to/qa3emnik/taming-the-code-beasts-mastering-function-in-javascript-3egn)
 - [Dev.to/JS] [Beyond Else: Writing Clean and Maintainable Code](https://dev.to/simonkrempin/beyond-else-writing-clean-and-maintainable-code-3f2j)
 - [Dev.to/JS] [qh88eden](https://dev.to/qh88eden/qh88eden-3m6n)
 - [Dev.to/JS] [Machine Learning in Deno: Single Layer Perceptrons](https://dev.to/retraigo/machine-learning-in-deno-single-layer-perceptrons-4mn7)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use Notion to stay productive as a web developer](https://dev.to/lemmecode/use-notion-to-stay-productive-as-a-web-developer-3lfg)
 - [Dev.to/JS] [Angular 17 Upgrade Guide with SSR](https://dev.to/mirzaleka/angular-17-upgrade-guide-with-ssr-1nib)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Better DEV stats with Dev.to API](https://dev.to/moozzyk/better-dev-stats-with-devto-api-4ge8)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
 - [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
