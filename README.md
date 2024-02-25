@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Server Side Rendering &lpar;SSR&rpar; and Static Site Generation &lpar;SSG&rpar;?](https://dev.to/this-is-learning/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-308o)
+- [Dev.to/JS] [JavaScript : Unable to link an image on the home page to a carousel on the gallery page.](https://dev.to/dgihost/javascript-unable-to-link-an-image-on-the-home-page-to-a-carousel-on-the-gallery-page-3o2)
 - [Dev.to/JS] [Battling Bloat: How I Streamlined Data Fetches in React with a Custom useFetch Hook](https://dev.to/dimnyan/battling-bloat-how-i-streamlined-data-fetches-in-react-with-a-custom-usefetch-hook-103d)
 - [Dev.to/JS] [No need to learn Class Names of CSS libraries](https://dev.to/rudransh61/no-need-to-learn-class-names-of-css-libraries-5o)
 - [Dev.to/JS] [Taming the Code Beasts: Mastering Function in JavaScript](https://dev.to/qa3emnik/taming-the-code-beasts-mastering-function-in-javascript-3egn)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PassKey in Go](https://dev.to/egregors/passkey-in-go-1efk)
 - [Dev.to/JS] [When To Not Use Pointers in Golang?](https://dev.to/nikl/when-to-not-use-pointers-in-golang-kfi)
 - [Dev.to/JS] [Collection of Custom Hooks For Your Nextjs-React Project](https://dev.to/vawivi/collection-of-custom-hooks-for-your-nextjs-react-project-41m0)
-- [Dev.to/JS] [JavaScript : Execution Context and Hoisting](https://dev.to/angdecoder/javascript-execution-context-and-hoisting-5530)
-- [Dev.to/JS] [Mastering Node.js: 50 Interview Essentials 🚀](https://dev.to/alisamirali/mastering-nodejs-50-interview-essentials-57n9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
