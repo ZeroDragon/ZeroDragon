@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Better DEV stats with Dev.to API](https://dev.to/moozzyk/better-dev-stats-with-devto-api-4ge8)
 - [Dev.to/JS] [Simplify document cookies management](https://dev.to/phuocng/simplify-document-cookies-management-4pf)
 - [Dev.to/JS] [Aplenty](https://dev.to/rmion/aplenty-3eep)
 - [Dev.to/JS] [offshore software development](https://dev.to/geekstation/offshore-software-development-4enp)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to check if an element is visible in the viewport using JavaScript and React Hook.](https://dev.to/fpaghar/how-to-check-if-an-element-is-visible-in-the-viewport-using-javascript-and-react-hook-4648)
 - [Dev.to/JS] [Filters even numbers from an array, squares them, and prints the result.](https://dev.to/palchandu_dev/filters-even-numbers-from-an-array-squares-them-and-prints-the-result-5b9)
 - [Dev.to/JS] [Breadth-First Search in a 2D Matrix](https://dev.to/greenteaisgreat/breadth-first-search-in-2d-matrices-3e2j)
-- [Dev.to/JS] [Starter application using Node.js + React.js + Nginx + Docker, being deployed to AWS EC2 - Step to step](https://dev.to/fco3lho/starter-application-using-nodejs-reactjs-nginx-docker-being-deployed-to-aws-ec2-step-to-step-1gh)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, February 24, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
