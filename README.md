@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dig deeper into JavaScript.](https://dev.to/emanuelgustafzon/dig-deeper-into-javascript-2pi7)
 - [Dev.to/JS] [Unleashing the Power of Dynamic Web Content with Monster Templating](https://dev.to/schukai/unleashing-the-power-of-dynamic-web-content-with-monster-templating-22oa)
 - [Dev.to/JS] [What is Server Side Rendering &lpar;SSR&rpar; and Static Site Generation &lpar;SSG&rpar;?](https://dev.to/this-is-learning/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-308o)
 - [Dev.to/JS] [JavaScript : Unable to link an image on the home page to a carousel on the gallery page.](https://dev.to/dgihost/javascript-unable-to-link-an-image-on-the-home-page-to-a-carousel-on-the-gallery-page-3o2)
@@ -33,7 +34,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [No need to learn Class Names of CSS libraries](https://dev.to/rudransh61/no-need-to-learn-class-names-of-css-libraries-5o)
 - [Dev.to/JS] [Taming the Code Beasts: Mastering Function in JavaScript](https://dev.to/qa3emnik/taming-the-code-beasts-mastering-function-in-javascript-3egn)
 - [Dev.to/JS] [Beyond Else: Writing Clean and Maintainable Code](https://dev.to/simonkrempin/beyond-else-writing-clean-and-maintainable-code-3f2j)
-- [Dev.to/JS] [qh88eden](https://dev.to/qh88eden/qh88eden-3m6n)
 - [Dev.to/JS] [Machine Learning in Deno: Single Layer Perceptrons](https://dev.to/retraigo/machine-learning-in-deno-single-layer-perceptrons-4mn7)
 - [Dev.to/JS] [State Management Showdown Vuex vs. Pinia](https://dev.to/ptheodosiou/state-management-showdown-vuex-vs-pinia-3nkl)
 - [Dev.to/JS] [PassKey in Go](https://dev.to/egregors/passkey-in-go-1efk)
