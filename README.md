@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tutorial on making a database and then using my API-Template from GIT](https://dev.to/shawn2208/tutorial-on-making-a-database-and-then-using-my-api-template-from-git-54h1)
 - [Dev.to/JS] [☕ Coffee Time Reads - Ideal Folder Structure for React Projects](https://dev.to/hpouyanmehr/coffee-time-reads-ideal-folder-structure-for-react-projects-41na)
 - [Dev.to/JS] [The Secret Weapon of Top Developers: 7 React JS Libraries You Can&#39;t Afford to Ignore](https://dev.to/nluxai/the-secret-weapon-of-top-developers-7-react-js-libraries-you-cant-afford-to-ignore-3lf0)
 - [Dev.to/JS] [Learn Route Parameters in Angular with Example](https://dev.to/danywalls/learn-route-parameters-in-angular-with-example-2oh4)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Battling Bloat: How I Streamlined Data Fetches in React with a Custom useFetch Hook](https://dev.to/dimnyan/battling-bloat-how-i-streamlined-data-fetches-in-react-with-a-custom-usefetch-hook-103d)
 - [Dev.to/JS] [No need to learn Class Names of CSS libraries](https://dev.to/rudransh61/no-need-to-learn-class-names-of-css-libraries-5o)
 - [Dev.to/JS] [Taming the Code Beasts: Mastering Function in JavaScript](https://dev.to/qa3emnik/taming-the-code-beasts-mastering-function-in-javascript-3egn)
-- [Dev.to/JS] [Beyond Else: Writing Clean and Maintainable Code](https://dev.to/simonkrempin/beyond-else-writing-clean-and-maintainable-code-3f2j)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
