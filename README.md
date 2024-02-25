@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cook Up a Storm: Build a Recipe Finder App with React 🍱](https://dev.to/margish288/cook-up-a-storm-build-a-recipe-finder-app-with-react-5hc4)
 - [Dev.to/JS] [Dig deeper into JavaScript.](https://dev.to/emanuelgustafzon/dig-deeper-into-javascript-2pi7)
 - [Dev.to/JS] [Unleashing the Power of Dynamic Web Content with Monster Templating](https://dev.to/schukai/unleashing-the-power-of-dynamic-web-content-with-monster-templating-22oa)
 - [Dev.to/JS] [What is Server Side Rendering &lpar;SSR&rpar; and Static Site Generation &lpar;SSG&rpar;?](https://dev.to/this-is-learning/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-308o)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Machine Learning in Deno: Single Layer Perceptrons](https://dev.to/retraigo/machine-learning-in-deno-single-layer-perceptrons-4mn7)
 - [Dev.to/JS] [State Management Showdown Vuex vs. Pinia](https://dev.to/ptheodosiou/state-management-showdown-vuex-vs-pinia-3nkl)
 - [Dev.to/JS] [PassKey in Go](https://dev.to/egregors/passkey-in-go-1efk)
-- [Dev.to/JS] [When To Not Use Pointers in Golang?](https://dev.to/nikl/when-to-not-use-pointers-in-golang-kfi)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
