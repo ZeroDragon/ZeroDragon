@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beyond Else: Writing Clean and Maintainable Code](https://dev.to/simonkrempin/beyond-else-writing-clean-and-maintainable-code-3f2j)
+- [Dev.to/JS] [qh88eden](https://dev.to/qh88eden/qh88eden-3m6n)
+- [Dev.to/JS] [Machine Learning in Deno: Single Layer Perceptrons](https://dev.to/retraigo/machine-learning-in-deno-single-layer-perceptrons-4mn7)
 - [Dev.to/JS] [State Management Showdown Vuex vs. Pinia](https://dev.to/ptheodosiou/state-management-showdown-vuex-vs-pinia-3nkl)
 - [Dev.to/JS] [PassKey in Go](https://dev.to/egregors/passkey-in-go-1efk)
 - [Dev.to/JS] [When To Not Use Pointers in Golang?](https://dev.to/nikl/when-to-not-use-pointers-in-golang-kfi)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular 17 Upgrade Guide with SSR](https://dev.to/mirzaleka/angular-17-upgrade-guide-with-ssr-1nib)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Better DEV stats with Dev.to API](https://dev.to/moozzyk/better-dev-stats-with-devto-api-4ge8)
-- [Dev.to/JS] [Simplify document cookies management](https://dev.to/phuocng/simplify-document-cookies-management-4pf)
-- [Dev.to/JS] [Aplenty](https://dev.to/rmion/aplenty-3eep)
-- [Dev.to/JS] [offshore software development](https://dev.to/geekstation/offshore-software-development-4enp)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
 - [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
