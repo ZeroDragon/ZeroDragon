@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [☕ Coffee Time Reads - Ideal Folder Structure for React Projects](https://dev.to/hpouyanmehr/coffee-time-reads-ideal-folder-structure-for-react-projects-41na)
+- [Dev.to/JS] [The Secret Weapon of Top Developers: 7 React JS Libraries You Can&#39;t Afford to Ignore](https://dev.to/nluxai/the-secret-weapon-of-top-developers-7-react-js-libraries-you-cant-afford-to-ignore-3lf0)
+- [Dev.to/JS] [Learn Route Parameters in Angular with Example](https://dev.to/danywalls/learn-route-parameters-in-angular-with-example-2oh4)
 - [Dev.to/JS] [Cook Up a Storm: Build a Recipe Finder App with React 🍱](https://dev.to/margish288/cook-up-a-storm-build-a-recipe-finder-app-with-react-5hc4)
 - [Dev.to/JS] [Dig deeper into JavaScript.](https://dev.to/emanuelgustafzon/dig-deeper-into-javascript-2pi7)
 - [Dev.to/JS] [Unleashing the Power of Dynamic Web Content with Monster Templating](https://dev.to/schukai/unleashing-the-power-of-dynamic-web-content-with-monster-templating-22oa)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [No need to learn Class Names of CSS libraries](https://dev.to/rudransh61/no-need-to-learn-class-names-of-css-libraries-5o)
 - [Dev.to/JS] [Taming the Code Beasts: Mastering Function in JavaScript](https://dev.to/qa3emnik/taming-the-code-beasts-mastering-function-in-javascript-3egn)
 - [Dev.to/JS] [Beyond Else: Writing Clean and Maintainable Code](https://dev.to/simonkrempin/beyond-else-writing-clean-and-maintainable-code-3f2j)
-- [Dev.to/JS] [Machine Learning in Deno: Single Layer Perceptrons](https://dev.to/retraigo/machine-learning-in-deno-single-layer-perceptrons-4mn7)
-- [Dev.to/JS] [State Management Showdown Vuex vs. Pinia](https://dev.to/ptheodosiou/state-management-showdown-vuex-vs-pinia-3nkl)
-- [Dev.to/JS] [PassKey in Go](https://dev.to/egregors/passkey-in-go-1efk)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
