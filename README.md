@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Battling Bloat: How I Streamlined Data Fetches in React with a Custom useFetch Hook](https://dev.to/dimnyan/battling-bloat-how-i-streamlined-data-fetches-in-react-with-a-custom-usefetch-hook-103d)
+- [Dev.to/JS] [No need to learn Class Names of CSS libraries](https://dev.to/rudransh61/no-need-to-learn-class-names-of-css-libraries-5o)
 - [Dev.to/JS] [Taming the Code Beasts: Mastering Function in JavaScript](https://dev.to/qa3emnik/taming-the-code-beasts-mastering-function-in-javascript-3egn)
 - [Dev.to/JS] [Beyond Else: Writing Clean and Maintainable Code](https://dev.to/simonkrempin/beyond-else-writing-clean-and-maintainable-code-3f2j)
 - [Dev.to/JS] [qh88eden](https://dev.to/qh88eden/qh88eden-3m6n)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Collection of Custom Hooks For Your Nextjs-React Project](https://dev.to/vawivi/collection-of-custom-hooks-for-your-nextjs-react-project-41m0)
 - [Dev.to/JS] [JavaScript : Execution Context and Hoisting](https://dev.to/angdecoder/javascript-execution-context-and-hoisting-5530)
 - [Dev.to/JS] [Mastering Node.js: 50 Interview Essentials 🚀](https://dev.to/alisamirali/mastering-nodejs-50-interview-essentials-57n9)
-- [Dev.to/JS] [Use Notion to stay productive as a web developer](https://dev.to/lemmecode/use-notion-to-stay-productive-as-a-web-developer-3lfg)
-- [Dev.to/JS] [Angular 17 Upgrade Guide with SSR](https://dev.to/mirzaleka/angular-17-upgrade-guide-with-ssr-1nib)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
