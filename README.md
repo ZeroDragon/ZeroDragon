@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 11 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-53gh)
+- [Lifehacker] [The Best Gluten-free Grocery Store Frozen Pizzas](https://lifehacker.com/food-drink/best-gluten-free-frozen-pizzas)
 - [Dev.to/JS] [Simplify SIP.jS security with short-lived tokens](https://dev.to/psanders/simplify-sipjs-security-with-short-lived-tokens-mb8)
 - [Dev.to/JS] [Class komponente i funkcijske komponente u Reactu](https://dev.to/bslaven/class-komponente-i-funkcijske-komponente-u-reactu-52og)
+- [Lifehacker] [Where to Stream Every Nominated Movie Before the 2024 Oscars](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Dev.to/JS] [JavaScript&#39;s Best-Kept Secrets: Unveiling Lesser-Known Features!](https://dev.to/princekukreja/javascripts-best-kept-secrets-unveiling-lesser-known-features-2ngd)
 - [Lifehacker] [These Arlo Video Doorbell Cameras Are up to 67% Off Right Now](https://lifehacker.com/tech/arlo-essential-video-doorbell-sale)
 - [Dev.to/JS] [Building a Responsive Image Gallery with Next.js, TypeScript, and Tailwind CSS](https://dev.to/theedgebreaker/building-a-responsive-image-gallery-with-nextjs-typescript-and-tailwind-css-46ee)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [📚 React Libraries Worth Using in 2024](https://dev.to/reedbarger/react-libraries-worth-using-in-2024-o91)
 - [Dev.to/JS] [Blazor in .NET 8 Previews 6 and 7](https://dev.to/abtosoftware/blazor-in-net-8-previews-6-and-7-3fpl)
 - [Lifehacker] [How to Fake a Sourdough Bread](https://lifehacker.com/food-drink/how-to-fake-sourdough-bread)
-- [Dev.to/JS] [How to Scrape Movie data from IMDb](https://dev.to/crawlbase/how-to-scrape-movie-data-from-imdb-38fk)
 - [Lifehacker] [The OnePlus Watch 2 Is Almost Ready to Take on Apple](https://lifehacker.com/tech/oneplus-watch-2-review)
 - [Lifehacker] [All the Types of Water Filters &lpar;and Which One You Might Need&rpar;](https://lifehacker.com/health/all-the-types-of-water-filters)
 - [Lifehacker] [The Eufy X10 Pro Omni Is a Pretty Good Mid-Priced Robot Vacuum](https://lifehacker.com/tech/eufy-x10-pro-omni-review)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [If Therapy Is Too Expensive, Try Single-session Interventions](https://lifehacker.com/health/what-is-single-session-therapy)
 - [Lifehacker] [10 of the Easiest DIY Bathroom Updates &lpar;for Less Than $100 Each&rpar;](https://lifehacker.com/home/best-ways-to-update-a-bathroom-on-a-budget)
 - [Lifehacker] [Usher in an Early Summer With At-home Bubble Tea](https://lifehacker.com/food-drink/best-bubble-tea-recipe)
-- [Lifehacker] [How to Make a ‘Minimally Viable’ Budget &lpar;and Why You Should&rpar;](https://lifehacker.com/money/how-to-make-a-minimally-viable-budget)
-- [Lifehacker] [A Modular System Can Give You a Green Roof for Less Money](https://lifehacker.com/home/modular-green-roof-benefits-and-cost)
-- [Lifehacker] [Why You Should Consider a Parabolic Space Heater](https://lifehacker.com/home/benefits-of-parabolic-space-heaters)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make a ‘Minimally Viable’ Budget &lpar;and Why You Should&rpar;](https://lifehacker.com/money/how-to-make-a-minimally-viable-budget)<!-- TECH-POSTS:END -->
 
 ---
 
