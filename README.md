@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript&#39;s Best-Kept Secrets: Unveiling Lesser-Known Features!](https://dev.to/princekukreja/javascripts-best-kept-secrets-unveiling-lesser-known-features-2ngd)
+- [Dev.to/JS] [Building a Responsive Image Gallery with Next.js, TypeScript, and Tailwind CSS](https://dev.to/theedgebreaker/building-a-responsive-image-gallery-with-nextjs-typescript-and-tailwind-css-46ee)
 - [Dev.to/JS] [Speed Up Your Website: Optimizing Page Load Times with HTML, CSS, and JavaScript](https://dev.to/sh20raj/speed-up-your-website-optimizing-page-load-times-with-html-css-and-javascript-47be)
+- [Lifehacker] [You Could Get Money From This Hyundai and Kia Class Action Lawsuit](https://lifehacker.com/money/you-could-get-money-from-the-hyundai-and-kia-class-action-lawsuit)
 - [Dev.to/JS] [Creating a Simple Modal Component in React with TypeScript for Beginners](https://dev.to/theedgebreaker/creating-a-simple-modal-component-in-react-with-typescript-for-beginners-42ac)
+- [Lifehacker] [These Common Job Description Phrases Are Red Flags](https://lifehacker.com/work/job-description-red-flag-phrases)
 - [Dev.to/JS] [Summarizer Website using MEAN Stack](https://dev.to/siddheshuncodes/summarizer-website-using-mean-stack-5hbj)
 - [Lifehacker] [You Can Get &#39;12min&#39; on Sale for $50 Right Now](https://lifehacker.com/entertainment/12min-app-sale)
 - [Dev.to/JS] [Enhancing Security in Your Next.js Applications: Best Practices and Code Snippets](https://dev.to/nitin-rachabathuni/enhancing-security-in-your-nextjs-applications-best-practices-and-code-snippets-f78)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blazor in .NET 8 Previews 6 and 7](https://dev.to/abtosoftware/blazor-in-net-8-previews-6-and-7-3fpl)
 - [Lifehacker] [How to Fake a Sourdough Bread](https://lifehacker.com/food-drink/how-to-fake-sourdough-bread)
 - [Dev.to/JS] [How to Scrape Movie data from IMDb](https://dev.to/crawlbase/how-to-scrape-movie-data-from-imdb-38fk)
-- [Dev.to/JS] [Understanding Data Types in JavaScript](https://dev.to/himanshudevgupta/javascript-datatype-when-consolelog-1d9j)
-- [Dev.to/JS] [The Consequences Of Not Knowing React In 2024](https://dev.to/thescript/the-consequences-of-not-knowing-react-in-2024-107o)
 - [Lifehacker] [The OnePlus Watch 2 Is Almost Ready to Take on Apple](https://lifehacker.com/tech/oneplus-watch-2-review)
 - [Lifehacker] [All the Types of Water Filters &lpar;and Which One You Might Need&rpar;](https://lifehacker.com/health/all-the-types-of-water-filters)
 - [Lifehacker] [The Eufy X10 Pro Omni Is a Pretty Good Mid-Priced Robot Vacuum](https://lifehacker.com/tech/eufy-x10-pro-omni-review)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Consider a Parabolic Space Heater](https://lifehacker.com/home/benefits-of-parabolic-space-heaters)
 - [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
 - [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
-- [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)
-- [Lifehacker] [You Can Learn to Play the Piano With Skoove Lessons on Sale for $40 Right Now](https://lifehacker.com/entertainment/skoove-premium-piano-lessons-sale)
-- [Lifehacker] [30 of the Most Over-the-Top Action Movies Ever Made](https://lifehacker.com/most-violent-action-movies-ever-made)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)<!-- TECH-POSTS:END -->
 
 ---
 
