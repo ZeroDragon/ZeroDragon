@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Better event throttle](https://dev.to/efpage/better-event-throttle-3jcm)
+- [Dev.to/JS] [How to build AWSM docs with Storybook and Astro](https://dev.to/genedesign/how-to-build-awsm-docs-with-storybook-and-astro-4ego)
 - [Dev.to/JS] [Implementing Debouncing in Vue](https://dev.to/jacobandrewsky/implementing-debouncing-in-vue-22jb)
 - [Dev.to/JS] [Sharing React Components Across Projects using Git Submodules](https://dev.to/mitevskasar/sharing-react-components-across-projects-using-git-submodules-4953)
 - [Dev.to/JS] [Demystifying WordPress Plugin Customization](https://dev.to/jamesmartindev/demystifying-wordpress-plugin-customization-5358)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flowchart editor http://dgrm.net / images](https://dev.to/alexboyko/flowchart-editor-httpdgrmnet-images-29kn)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/martinezzd900/buy-glassdoor-reviews-1kf8)
 - [Dev.to/JS] [Navigating Common Errors with Jira Templates](https://dev.to/dassyjohnson/navigating-common-errors-with-jira-templates-2j7p)
-- [Dev.to/JS] [The importance of having a red test first in test driven development](https://dev.to/easytdd/the-importance-of-having-a-red-test-first-in-test-driven-development-l7n)
-- [Dev.to/JS] [How to Build a Weather App with HTML,CSS and Vanilla JavaScript](https://dev.to/vaatiesther/how-to-build-a-weather-app-with-htmlcss-and-vanilla-javascript-316o)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
