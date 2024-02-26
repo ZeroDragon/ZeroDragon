@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Vite 5 backend integration with Flask](https://dev.to/tylerlwsmith/build-a-vite-5-backend-integration-with-flask-jch)
+- [Dev.to/JS] [A React Native Intro](https://dev.to/peytono/a-react-native-intro-3h92)
 - [Dev.to/JS] [Building cross-platform Tetris game from a single codebase with Angular 17](https://dev.to/quedicesebas/building-cross-platform-tetris-game-from-a-single-codebase-with-angular-17-5af9)
 - [Dev.to/JS] [RESTAPI vs GraphQL](https://dev.to/akmaurya31/restapi-vs-graphql-1m21)
 - [Dev.to/JS] [Closures in JavaScript: What they are, how they work, and why you should care!](https://dev.to/brunnom7/closures-in-javascript-what-they-are-how-they-work-and-why-you-should-care-17kn)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn Route Parameters in Angular with Example](https://dev.to/danywalls/learn-route-parameters-in-angular-with-example-2oh4)
 - [Dev.to/JS] [Cook Up a Storm: Build a Recipe Finder App with React 🍱](https://dev.to/margish288/cook-up-a-storm-build-a-recipe-finder-app-with-react-5hc4)
 - [Dev.to/JS] [Dig deeper into JavaScript.](https://dev.to/emanuelgustafzon/dig-deeper-into-javascript-2pi7)
-- [Dev.to/JS] [Unleashing the Power of Dynamic Web Content with Monster Templating](https://dev.to/schukai/unleashing-the-power-of-dynamic-web-content-with-monster-templating-22oa)
-- [Dev.to/JS] [What is Server Side Rendering &lpar;SSR&rpar; and Static Site Generation &lpar;SSG&rpar;?](https://dev.to/this-is-learning/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-308o)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
