@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Staying Ahead: How Developers Keep Up with Rapid Technological Change](https://dev.to/nitin-rachabathuni/staying-ahead-how-developers-keep-up-with-rapid-technological-change-52e5)
 - [Dev.to/JS] [Exterior painting in Mawson Lakes-Local painting in Golden Grove](https://dev.to/simplepainting/exterior-painting-in-mawson-lakes-local-painting-in-golden-grove-58e8)
 - [Dev.to/JS] [Test post a blog](https://dev.to/tranthanhhuy/test-post-a-blog-1h3c)
 - [Dev.to/JS] [ServiceNow and OpenAI](https://dev.to/johnvitorconstant/servicenow-and-openai-296l)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closures in JavaScript: What they are, how they work, and why you should care!](https://dev.to/brunnom7/closures-in-javascript-what-they-are-how-they-work-and-why-you-should-care-17kn)
 - [Dev.to/JS] [How to make a simple incremental, decremental, and Reset Counter App with Vue.js for a beginner](https://dev.to/ngbeagloriajames/how-to-make-a-simple-incremental-decremental-and-reset-counter-app-with-vuejs-for-a-beginner-21kl)
 - [Dev.to/JS] [Tutorial on making a database and then using my API-Template from GIT](https://dev.to/shawn2208/tutorial-on-making-a-database-and-then-using-my-api-template-from-git-54h1)
-- [Dev.to/JS] [☕ Coffee Time Reads - Ideal Folder Structure for React Projects](https://dev.to/hpouyanmehr/coffee-time-reads-ideal-folder-structure-for-react-projects-41na)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
