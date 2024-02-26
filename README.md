@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a REST client](https://dev.to/phuocng/build-a-rest-client-444a)
 - [Dev.to/JS] [Build a Vite 5 backend integration with Flask](https://dev.to/tylerlwsmith/build-a-vite-5-backend-integration-with-flask-jch)
 - [Dev.to/JS] [A React Native Intro](https://dev.to/peytono/a-react-native-intro-3h92)
 - [Dev.to/JS] [Building cross-platform Tetris game from a single codebase with Angular 17](https://dev.to/quedicesebas/building-cross-platform-tetris-game-from-a-single-codebase-with-angular-17-5af9)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Secret Weapon of Top Developers: 7 React JS Libraries You Can&#39;t Afford to Ignore](https://dev.to/nluxai/the-secret-weapon-of-top-developers-7-react-js-libraries-you-cant-afford-to-ignore-3lf0)
 - [Dev.to/JS] [Learn Route Parameters in Angular with Example](https://dev.to/danywalls/learn-route-parameters-in-angular-with-example-2oh4)
 - [Dev.to/JS] [Cook Up a Storm: Build a Recipe Finder App with React 🍱](https://dev.to/margish288/cook-up-a-storm-build-a-recipe-finder-app-with-react-5hc4)
-- [Dev.to/JS] [Dig deeper into JavaScript.](https://dev.to/emanuelgustafzon/dig-deeper-into-javascript-2pi7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
