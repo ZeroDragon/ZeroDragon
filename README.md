@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Scrape Movie data from IMDb](https://dev.to/crawlbase/how-to-scrape-movie-data-from-imdb-38fk)
+- [Dev.to/JS] [Understanding Data Types in JavaScript](https://dev.to/himanshudevgupta/javascript-datatype-when-consolelog-1d9j)
+- [Dev.to/JS] [The Consequences Of Not Knowing React In 2024](https://dev.to/thescript/the-consequences-of-not-knowing-react-in-2024-107o)
 - [Dev.to/JS] [Creating an Automated Profile README using Nodejs and GitHub Actions](https://dev.to/bolajiayodeji/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions-1d30)
+- [Lifehacker] [All the Types of Water Filters &lpar;and Which One You Might Need&rpar;](https://lifehacker.com/health/all-the-types-of-water-filters)
 - [Dev.to/JS] [How to Sanitize Data in React](https://dev.to/mohammadfaisal/how-to-sanitize-data-in-react-2bme)
 - [Dev.to/JS] [How to improve page load speed and response times: A comprehensive guide](https://dev.to/hackmamba/how-to-improve-page-load-speed-and-response-times-a-comprehensive-guide-37ph)
+- [Lifehacker] [The Eufy X10 Pro Omni Is a Pretty Good Mid-Priced Robot Vacuum](https://lifehacker.com/tech/eufy-x10-pro-omni-review)
 - [Dev.to/JS] [Sidebar not working correctly.](https://dev.to/kasanaa/sidebar-not-working-correctly-3o63)
 - [Lifehacker] [This Adobe Creative Cloud Course Is on Sale for $30 Right Now](https://lifehacker.com/adobe-creative-cloud-course-sale)
 - [Dev.to/JS] [Continuing Contributions to ChatCraft.org](https://dev.to/rachit1313/continuing-contributions-to-chatcraftorg-9nd)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tailframes - Open Source components library for React &amp; Tailwind CSS](https://dev.to/kamil_wojtek/tailframes-open-source-components-library-for-react-tailwind-css-312g)
 - [Dev.to/JS] [An utility library for converting English numerals and dates to Bengali](https://dev.to/triptoafsin/an-utility-library-for-converting-english-numerals-and-dates-to-bengali-1am2)
 - [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
-- [Dev.to/JS] [Better event throttle](https://dev.to/efpage/better-event-throttle-3jcm)
-- [Dev.to/JS] [How to build AWSM docs with Storybook and Astro](https://dev.to/genedesign/how-to-build-awsm-docs-with-storybook-and-astro-4ego)
-- [Dev.to/JS] [Implementing Debouncing in Vue](https://dev.to/jacobandrewsky/implementing-debouncing-in-vue-22jb)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
 - [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Five Best Ad Blockers You Can Install](https://lifehacker.com/tech/the-best-ad-blockers)
 - [Lifehacker] [The Best Movies to Stream This Week on Hulu](https://lifehacker.com/entertainment/best-movies-to-stream-this-week-on-hulu)
 - [Lifehacker] [The Best New Shows to Stream on Amazon Prime This Week](https://lifehacker.com/entertainment/the-best-shows-to-stream-on-amazon-this-week)
-- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)
-- [Lifehacker] [The Best TV Shows to Stream on Netflix This Week](https://lifehacker.com/entertainment/best-new-series-coming-to-netflix-this-week)
-- [Lifehacker] [The Best Movies to Stream on Netflix This Week](https://lifehacker.com/entertainment/the-best-movies-on-netflix-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies to Stream on Prime This Week](https://lifehacker.com/entertainment/best-movies-to-stream-on-prime)<!-- TECH-POSTS:END -->
 
 ---
 
