@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [📚 React Libraries Worth Using in 2024](https://dev.to/reedbarger/react-libraries-worth-using-in-2024-o91)
+- [Dev.to/JS] [Blazor in .NET 8 Previews 6 and 7](https://dev.to/abtosoftware/blazor-in-net-8-previews-6-and-7-3fpl)
 - [Dev.to/JS] [How to Scrape Movie data from IMDb](https://dev.to/crawlbase/how-to-scrape-movie-data-from-imdb-38fk)
 - [Dev.to/JS] [Understanding Data Types in JavaScript](https://dev.to/himanshudevgupta/javascript-datatype-when-consolelog-1d9j)
 - [Dev.to/JS] [The Consequences Of Not Knowing React In 2024](https://dev.to/thescript/the-consequences-of-not-knowing-react-in-2024-107o)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Movies About the Most Inspiring Women In History](https://lifehacker.com/entertainment/best-movies-about-historys-most-inspiring-women)
 - [Dev.to/JS] [Dive into ES6 pt. 2](https://dev.to/allyn/dive-into-es6-pt-2-nem)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 26, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Tailframes - Open Source components library for React &amp; Tailwind CSS](https://dev.to/kamil_wojtek/tailframes-open-source-components-library-for-react-tailwind-css-312g)
-- [Dev.to/JS] [An utility library for converting English numerals and dates to Bengali](https://dev.to/triptoafsin/an-utility-library-for-converting-english-numerals-and-dates-to-bengali-1am2)
 - [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
