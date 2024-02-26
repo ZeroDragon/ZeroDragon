@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplify SIP.jS security with short-lived tokens](https://dev.to/psanders/simplify-sipjs-security-with-short-lived-tokens-mb8)
+- [Dev.to/JS] [Class komponente i funkcijske komponente u Reactu](https://dev.to/bslaven/class-komponente-i-funkcijske-komponente-u-reactu-52og)
 - [Dev.to/JS] [JavaScript&#39;s Best-Kept Secrets: Unveiling Lesser-Known Features!](https://dev.to/princekukreja/javascripts-best-kept-secrets-unveiling-lesser-known-features-2ngd)
+- [Lifehacker] [These Arlo Video Doorbell Cameras Are up to 67% Off Right Now](https://lifehacker.com/tech/arlo-essential-video-doorbell-sale)
 - [Dev.to/JS] [Building a Responsive Image Gallery with Next.js, TypeScript, and Tailwind CSS](https://dev.to/theedgebreaker/building-a-responsive-image-gallery-with-nextjs-typescript-and-tailwind-css-46ee)
+- [Lifehacker] [You Can Get the Mode Wireless Electric Toothbrush on Sale for $145 Right Now](https://lifehacker.com/health/mode-wireless-electric-toothbrush-sale)
+- [Lifehacker] [All the New Features Coming Soon to Your Android Devices](https://lifehacker.com/tech/new-android-features-coming-soon)
 - [Dev.to/JS] [Speed Up Your Website: Optimizing Page Load Times with HTML, CSS, and JavaScript](https://dev.to/sh20raj/speed-up-your-website-optimizing-page-load-times-with-html-css-and-javascript-47be)
 - [Lifehacker] [You Could Get Money From This Hyundai and Kia Class Action Lawsuit](https://lifehacker.com/money/you-could-get-money-from-the-hyundai-and-kia-class-action-lawsuit)
 - [Dev.to/JS] [Creating a Simple Modal Component in React with TypeScript for Beginners](https://dev.to/theedgebreaker/creating-a-simple-modal-component-in-react-with-typescript-for-beginners-42ac)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enhancing Security in Your Next.js Applications: Best Practices and Code Snippets](https://dev.to/nitin-rachabathuni/enhancing-security-in-your-nextjs-applications-best-practices-and-code-snippets-f78)
 - [Lifehacker] [Everything We Know &lpar;so Far&rpar; About Samsung’s Galaxy Ring](https://lifehacker.com/tech/everything-we-know-about-samsungs-galaxy-ring)
 - [Dev.to/JS] [Navigating the Dynamics of an External Team Collaboration](https://dev.to/browserlondon/navigating-the-dynamics-of-an-external-team-collaboration-3cjp)
-- [Dev.to/JS] [MCredit Spark Loan Customer Care Number 8889734604//7352661356 All information about Calling Now](https://dev.to/minakhanxye/all-india-is-a-good-time-for-you-1fk0)
-- [Dev.to/JS] [Credit Spark Loan Customer Care Number 8889734604//7352661356 All information about Calling Now](https://dev.to/minakhanxye/credit-spark-loan-customer-care-number-88897346047352661356-all-information-about-calling-now-ofk)
 - [Lifehacker] [How to Choose the Right Soil for Your Garden](https://lifehacker.com/home/choose-the-right-soil-for-your-garden)
 - [Dev.to/JS] [📚 React Libraries Worth Using in 2024](https://dev.to/reedbarger/react-libraries-worth-using-in-2024-o91)
 - [Dev.to/JS] [Blazor in .NET 8 Previews 6 and 7](https://dev.to/abtosoftware/blazor-in-net-8-previews-6-and-7-3fpl)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Usher in an Early Summer With At-home Bubble Tea](https://lifehacker.com/food-drink/best-bubble-tea-recipe)
 - [Lifehacker] [How to Make a ‘Minimally Viable’ Budget &lpar;and Why You Should&rpar;](https://lifehacker.com/money/how-to-make-a-minimally-viable-budget)
 - [Lifehacker] [A Modular System Can Give You a Green Roof for Less Money](https://lifehacker.com/home/modular-green-roof-benefits-and-cost)
-- [Lifehacker] [Why You Should Consider a Parabolic Space Heater](https://lifehacker.com/home/benefits-of-parabolic-space-heaters)
-- [Lifehacker] [The Best TV Shows to Stream on Max This Week](https://lifehacker.com/entertainment/best-new-tv-shows-streaming-on-max-this-week)
-- [Lifehacker] [All the Home Improvement Tax Credits You Can Take Advantage of This Year](https://lifehacker.com/all-the-home-improvement-tax-credits-you-can-take-advan-1849954962)
-- [Lifehacker] [The Best TV Series to Stream on Hulu This Week](https://lifehacker.com/entertainment/best-new-tv-shows-to-stream-on-hulu)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Consider a Parabolic Space Heater](https://lifehacker.com/home/benefits-of-parabolic-space-heaters)<!-- TECH-POSTS:END -->
 
 ---
 
