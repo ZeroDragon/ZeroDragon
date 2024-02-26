@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exterior painting in Mawson Lakes-Local painting in Golden Grove](https://dev.to/simplepainting/exterior-painting-in-mawson-lakes-local-painting-in-golden-grove-58e8)
 - [Dev.to/JS] [Test post a blog](https://dev.to/tranthanhhuy/test-post-a-blog-1h3c)
 - [Dev.to/JS] [ServiceNow and OpenAI](https://dev.to/johnvitorconstant/servicenow-and-openai-296l)
 - [Dev.to/JS] [Build a REST client](https://dev.to/phuocng/build-a-rest-client-444a)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make a simple incremental, decremental, and Reset Counter App with Vue.js for a beginner](https://dev.to/ngbeagloriajames/how-to-make-a-simple-incremental-decremental-and-reset-counter-app-with-vuejs-for-a-beginner-21kl)
 - [Dev.to/JS] [Tutorial on making a database and then using my API-Template from GIT](https://dev.to/shawn2208/tutorial-on-making-a-database-and-then-using-my-api-template-from-git-54h1)
 - [Dev.to/JS] [☕ Coffee Time Reads - Ideal Folder Structure for React Projects](https://dev.to/hpouyanmehr/coffee-time-reads-ideal-folder-structure-for-react-projects-41na)
-- [Dev.to/JS] [The Secret Weapon of Top Developers: 7 React JS Libraries You Can&#39;t Afford to Ignore](https://dev.to/nluxai/the-secret-weapon-of-top-developers-7-react-js-libraries-you-cant-afford-to-ignore-3lf0)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
