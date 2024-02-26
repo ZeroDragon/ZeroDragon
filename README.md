@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/martinezzd900/buy-verified-cash-app-account-140a)
+- [Dev.to/JS] [How to Choose the Best SY0-401 Braindumps for Exam Preparation](https://dev.to/maings1954/how-to-choose-the-best-sy0-401-braindumps-for-exam-preparation-2i51)
+- [Dev.to/JS] [Flowchart editor http://dgrm.net / images](https://dev.to/alexboyko/flowchart-editor-httpdgrmnet-images-29kn)
+- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/martinezzd900/buy-glassdoor-reviews-1kf8)
 - [Dev.to/JS] [Navigating Common Errors with Jira Templates](https://dev.to/dassyjohnson/navigating-common-errors-with-jira-templates-2j7p)
 - [Dev.to/JS] [The importance of having a red test first in test driven development](https://dev.to/easytdd/the-importance-of-having-a-red-test-first-in-test-driven-development-l7n)
 - [Dev.to/JS] [How to Build a Weather App with HTML,CSS and Vanilla JavaScript](https://dev.to/vaatiesther/how-to-build-a-weather-app-with-htmlcss-and-vanilla-javascript-316o)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exterior painting in Mawson Lakes-Local painting in Golden Grove](https://dev.to/simplepainting/exterior-painting-in-mawson-lakes-local-painting-in-golden-grove-58e8)
 - [Dev.to/JS] [Test post a blog](https://dev.to/tranthanhhuy/test-post-a-blog-1h3c)
 - [Dev.to/JS] [ServiceNow and OpenAI](https://dev.to/johnvitorconstant/servicenow-and-openai-296l)
-- [Dev.to/JS] [Build a REST client](https://dev.to/phuocng/build-a-rest-client-444a)
-- [Dev.to/JS] [Build a Vite 5 backend integration with Flask](https://dev.to/tylerlwsmith/build-a-vite-5-backend-integration-with-flask-jch)
-- [Dev.to/JS] [A React Native Intro](https://dev.to/peytono/a-react-native-intro-3h92)
-- [Dev.to/JS] [Building cross-platform Tetris game from a single codebase with Angular 17](https://dev.to/quedicesebas/building-cross-platform-tetris-game-from-a-single-codebase-with-angular-17-5af9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
