@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating Common Errors with Jira Templates](https://dev.to/dassyjohnson/navigating-common-errors-with-jira-templates-2j7p)
+- [Dev.to/JS] [The importance of having a red test first in test driven development](https://dev.to/easytdd/the-importance-of-having-a-red-test-first-in-test-driven-development-l7n)
+- [Dev.to/JS] [How to Build a Weather App with HTML,CSS and Vanilla JavaScript](https://dev.to/vaatiesther/how-to-build-a-weather-app-with-htmlcss-and-vanilla-javascript-316o)
+- [Dev.to/JS] [Handling Asynchronous Errors Like a Pro](https://dev.to/lisichaviano/handling-asynchronous-errors-like-a-pro-4o5l)
 - [Dev.to/JS] [Staying Ahead: How Developers Keep Up with Rapid Technological Change](https://dev.to/nitin-rachabathuni/staying-ahead-how-developers-keep-up-with-rapid-technological-change-52e5)
 - [Dev.to/JS] [Exterior painting in Mawson Lakes-Local painting in Golden Grove](https://dev.to/simplepainting/exterior-painting-in-mawson-lakes-local-painting-in-golden-grove-58e8)
 - [Dev.to/JS] [Test post a blog](https://dev.to/tranthanhhuy/test-post-a-blog-1h3c)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Vite 5 backend integration with Flask](https://dev.to/tylerlwsmith/build-a-vite-5-backend-integration-with-flask-jch)
 - [Dev.to/JS] [A React Native Intro](https://dev.to/peytono/a-react-native-intro-3h92)
 - [Dev.to/JS] [Building cross-platform Tetris game from a single codebase with Angular 17](https://dev.to/quedicesebas/building-cross-platform-tetris-game-from-a-single-codebase-with-angular-17-5af9)
-- [Dev.to/JS] [RESTAPI vs GraphQL](https://dev.to/akmaurya31/restapi-vs-graphql-1m21)
-- [Dev.to/JS] [Closures in JavaScript: What they are, how they work, and why you should care!](https://dev.to/brunnom7/closures-in-javascript-what-they-are-how-they-work-and-why-you-should-care-17kn)
-- [Dev.to/JS] [How to make a simple incremental, decremental, and Reset Counter App with Vue.js for a beginner](https://dev.to/ngbeagloriajames/how-to-make-a-simple-incremental-decremental-and-reset-counter-app-with-vuejs-for-a-beginner-21kl)
-- [Dev.to/JS] [Tutorial on making a database and then using my API-Template from GIT](https://dev.to/shawn2208/tutorial-on-making-a-database-and-then-using-my-api-template-from-git-54h1)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
