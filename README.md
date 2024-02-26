@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevate your journey with the Dodge Caravan edition](https://dev.to/staeanymee/elevate-your-journey-with-the-dodge-caravan-edition-2309)
+- [Dev.to/JS] [Tailframes - Open Source components library for React &amp; Tailwind CSS](https://dev.to/kamil_wojtek/tailframes-open-source-components-library-for-react-tailwind-css-312g)
+- [Dev.to/JS] [An utility library for converting English numerals and dates to Bengali](https://dev.to/triptoafsin/an-utility-library-for-converting-english-numerals-and-dates-to-bengali-1am2)
 - [Dev.to/JS] [Better event throttle](https://dev.to/efpage/better-event-throttle-3jcm)
 - [Dev.to/JS] [How to build AWSM docs with Storybook and Astro](https://dev.to/genedesign/how-to-build-awsm-docs-with-storybook-and-astro-4ego)
 - [Dev.to/JS] [Implementing Debouncing in Vue](https://dev.to/jacobandrewsky/implementing-debouncing-in-vue-22jb)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/martinezzd900/buy-old-gmail-accounts-m38)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/martinezzd900/buy-verified-cash-app-account-140a)
 - [Dev.to/JS] [How to Choose the Best SY0-401 Braindumps for Exam Preparation](https://dev.to/maings1954/how-to-choose-the-best-sy0-401-braindumps-for-exam-preparation-2i51)
-- [Dev.to/JS] [Flowchart editor http://dgrm.net / images](https://dev.to/alexboyko/flowchart-editor-httpdgrmnet-images-29kn)
-- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/martinezzd900/buy-glassdoor-reviews-1kf8)
-- [Dev.to/JS] [Navigating Common Errors with Jira Templates](https://dev.to/dassyjohnson/navigating-common-errors-with-jira-templates-2j7p)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, February 25, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
