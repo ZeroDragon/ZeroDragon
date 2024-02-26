@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Simple Modal Component in React with TypeScript for Beginners](https://dev.to/theedgebreaker/creating-a-simple-modal-component-in-react-with-typescript-for-beginners-42ac)
+- [Dev.to/JS] [Summarizer Website using MEAN Stack](https://dev.to/siddheshuncodes/summarizer-website-using-mean-stack-5hbj)
 - [Dev.to/JS] [Enhancing Security in Your Next.js Applications: Best Practices and Code Snippets](https://dev.to/nitin-rachabathuni/enhancing-security-in-your-nextjs-applications-best-practices-and-code-snippets-f78)
 - [Dev.to/JS] [Navigating the Dynamics of an External Team Collaboration](https://dev.to/browserlondon/navigating-the-dynamics-of-an-external-team-collaboration-3cjp)
 - [Dev.to/JS] [MCredit Spark Loan Customer Care Number 8889734604//7352661356 All information about Calling Now](https://dev.to/minakhanxye/all-india-is-a-good-time-for-you-1fk0)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The OnePlus Watch 2 Is Almost Ready to Take on Apple](https://lifehacker.com/tech/oneplus-watch-2-review)
 - [Dev.to/JS] [Creating an Automated Profile README using Nodejs and GitHub Actions](https://dev.to/bolajiayodeji/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions-1d30)
 - [Lifehacker] [All the Types of Water Filters &lpar;and Which One You Might Need&rpar;](https://lifehacker.com/health/all-the-types-of-water-filters)
-- [Dev.to/JS] [How to Sanitize Data in React](https://dev.to/mohammadfaisal/how-to-sanitize-data-in-react-2bme)
-- [Dev.to/JS] [How to improve page load speed and response times: A comprehensive guide](https://dev.to/hackmamba/how-to-improve-page-load-speed-and-response-times-a-comprehensive-guide-37ph)
 - [Lifehacker] [The Eufy X10 Pro Omni Is a Pretty Good Mid-Priced Robot Vacuum](https://lifehacker.com/tech/eufy-x10-pro-omni-review)
 - [Lifehacker] [This Adobe Creative Cloud Course Is on Sale for $30 Right Now](https://lifehacker.com/adobe-creative-cloud-course-sale)
 - [Lifehacker] [10 of the Best Movies About the Most Inspiring Women In History](https://lifehacker.com/entertainment/best-movies-about-historys-most-inspiring-women)
