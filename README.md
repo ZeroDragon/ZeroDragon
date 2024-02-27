@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Spectrum BPO&#39;s Expert Amazon SEO Services](https://dev.to/spectrumbpo141/spectrum-bpos-expert-amazon-seo-services-1ppl)
+- [Dev.to/JS] [Next js with Axios Data Fetching](https://dev.to/syedmuhammadaliraza/next-js-with-axios-data-fetching-435a)
+- [Dev.to/JS] [jQuery vs JavaScript: A Comprehensive Comparison](https://dev.to/codingmadeeasy/jquery-vs-javascript-a-comprehensive-comparison-1ac7)
+- [Dev.to/JS] [Cloudinary to s3 bucket db changes](https://dev.to/chetan_2708/cloudinary-to-s3-bucket-db-changes-241c)
+- [Dev.to/JS] [Cloudinary to s3 bucket db changes](https://dev.to/chetan_2708/cloudinary-to-s3-bucket-db-changes-3mp6)
 - [Dev.to/JS] [What is the Alice Calculator?](https://dev.to/emavow/what-is-the-alice-calculator-458e)
 - [Dev.to/JS] [Best Java Full Stack Training](https://dev.to/ppaannkkaajj9927/best-java-full-stack-training-4oc7)
 - [Dev.to/JS] [Build Naruto Database App - React Js Tutorial - API Project](https://dev.to/imrankh13332994/build-naruto-database-app-react-js-tutorial-api-project-4ahj)
@@ -38,16 +43,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Boox Palma Is a Nearly Perfect Phone-sized E-reader](https://lifehacker.com/tech/boox-palma-e-reader-review)
 - [Dev.to/JS] [10 Best AI-Powered Chrome Extensions](https://dev.to/durgesh4993/10-best-ai-powered-chrome-extensions-2dp0)
 - [Lifehacker] [How to Try Microsoft&#39;s &#39;Circle to Copilot&#39; Feature](https://lifehacker.com/tech/how-to-screenshot-to-copilot)
-- [Dev.to/JS] [JavaScript Essential Terms Every Developer Must Know](https://dev.to/mmainulhasan/javascript-essential-terms-every-developer-must-know-2a6)
 - [Lifehacker] [These Business-grade Samsung Laptops Are up to 35% Off](https://lifehacker.com/tech/business-samsung-galaxy-book3-and-book3-pro-sale)
 - [Lifehacker] [The 10 Most Common Gym Machines &lpar;and How to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-gym-machines-and-how-to-use-them-1848417507)
-- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 11 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-53gh)
 - [Lifehacker] [The Best Apps That Use Apple&#39;s Live Activities](https://lifehacker.com/tech/best-iphone-apps-that-use-live-activities)
 - [Lifehacker] [The Best Gluten-free Grocery Store Frozen Pizzas](https://lifehacker.com/food-drink/best-gluten-free-frozen-pizzas)
-- [Dev.to/JS] [Simplify SIP.js security with short-lived tokens](https://dev.to/fonoster/simplify-sipjs-security-with-short-lived-tokens-mb8)
-- [Dev.to/JS] [Class komponente i funkcijske komponente u Reactu](https://dev.to/bslaven/class-komponente-i-funkcijske-komponente-u-reactu-52og)
 - [Lifehacker] [Where to Stream Every Nominated Movie Before the 2024 Oscars](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
-- [Dev.to/JS] [JavaScript&#39;s Best-Kept Secrets: Unveiling Lesser-Known Features!](https://dev.to/princekukreja/javascripts-best-kept-secrets-unveiling-lesser-known-features-2ngd)
 - [Lifehacker] [These Arlo Video Doorbell Cameras Are up to 67% Off Right Now](https://lifehacker.com/tech/arlo-essential-video-doorbell-sale)
 - [Lifehacker] [You Can Get the Mode Wireless Electric Toothbrush on Sale for $145 Right Now](https://lifehacker.com/health/mode-wireless-electric-toothbrush-sale)
 - [Lifehacker] [All the New Features Coming Soon to Your Android Devices](https://lifehacker.com/tech/new-android-features-coming-soon)
