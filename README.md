@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Best AI-Powered Chrome Extensions](https://dev.to/durgesh4993/10-best-ai-powered-chrome-extensions-2dp0)
+- [Dev.to/JS] [JavaScript Essential Terms Every Developer Must Know](https://dev.to/mmainulhasan/javascript-essential-terms-every-developer-must-know-2a6)
+- [Lifehacker] [The 10 Most Common Gym Machines &lpar;and How to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-gym-machines-and-how-to-use-them-1848417507)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 11 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-53gh)
+- [Lifehacker] [The Best Apps That Use Apple&#39;s Live Activities](https://lifehacker.com/tech/best-iphone-apps-that-use-live-activities)
 - [Lifehacker] [The Best Gluten-free Grocery Store Frozen Pizzas](https://lifehacker.com/food-drink/best-gluten-free-frozen-pizzas)
-- [Dev.to/JS] [Simplify SIP.jS security with short-lived tokens](https://dev.to/psanders/simplify-sipjs-security-with-short-lived-tokens-mb8)
+- [Dev.to/JS] [Simplify SIP.js security with short-lived tokens](https://dev.to/fonoster/simplify-sipjs-security-with-short-lived-tokens-mb8)
 - [Dev.to/JS] [Class komponente i funkcijske komponente u Reactu](https://dev.to/bslaven/class-komponente-i-funkcijske-komponente-u-reactu-52og)
 - [Lifehacker] [Where to Stream Every Nominated Movie Before the 2024 Oscars](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Dev.to/JS] [JavaScript&#39;s Best-Kept Secrets: Unveiling Lesser-Known Features!](https://dev.to/princekukreja/javascripts-best-kept-secrets-unveiling-lesser-known-features-2ngd)
@@ -46,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything We Know &lpar;so Far&rpar; About Samsung’s Galaxy Ring](https://lifehacker.com/tech/everything-we-know-about-samsungs-galaxy-ring)
 - [Dev.to/JS] [Navigating the Dynamics of an External Team Collaboration](https://dev.to/browserlondon/navigating-the-dynamics-of-an-external-team-collaboration-3cjp)
 - [Lifehacker] [How to Choose the Right Soil for Your Garden](https://lifehacker.com/home/choose-the-right-soil-for-your-garden)
-- [Dev.to/JS] [📚 React Libraries Worth Using in 2024](https://dev.to/reedbarger/react-libraries-worth-using-in-2024-o91)
-- [Dev.to/JS] [Blazor in .NET 8 Previews 6 and 7](https://dev.to/abtosoftware/blazor-in-net-8-previews-6-and-7-3fpl)
 - [Lifehacker] [How to Fake a Sourdough Bread](https://lifehacker.com/food-drink/how-to-fake-sourdough-bread)
 - [Lifehacker] [The OnePlus Watch 2 Is Almost Ready to Take on Apple](https://lifehacker.com/tech/oneplus-watch-2-review)
 - [Lifehacker] [All the Types of Water Filters &lpar;and Which One You Might Need&rpar;](https://lifehacker.com/health/all-the-types-of-water-filters)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Exercises for Your Glutes &lpar;That Is, Your Butt&rpar;](https://lifehacker.com/health/best-exercises-for-your-glutes)
 - [Lifehacker] [These Are the Best Gaming Routers to Buy in 2024](https://lifehacker.com/tech/best-gaming-routers)
 - [Lifehacker] [If Therapy Is Too Expensive, Try Single-session Interventions](https://lifehacker.com/health/what-is-single-session-therapy)
-- [Lifehacker] [10 of the Easiest DIY Bathroom Updates &lpar;for Less Than $100 Each&rpar;](https://lifehacker.com/home/best-ways-to-update-a-bathroom-on-a-budget)
-- [Lifehacker] [Usher in an Early Summer With At-home Bubble Tea](https://lifehacker.com/food-drink/best-bubble-tea-recipe)
-- [Lifehacker] [How to Make a ‘Minimally Viable’ Budget &lpar;and Why You Should&rpar;](https://lifehacker.com/money/how-to-make-a-minimally-viable-budget)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Easiest DIY Bathroom Updates &lpar;for Less Than $100 Each&rpar;](https://lifehacker.com/home/best-ways-to-update-a-bathroom-on-a-budget)<!-- TECH-POSTS:END -->
 
 ---
 
