@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Implement a CI/CD pipeline with GitHub Actions in four simple steps In Your Repo.](https://dev.to/arosebine/how-to-implement-a-cicd-pipeline-with-github-actions-in-four-simple-steps-39fe)
+- [Dev.to/JS] [What are the differences between machine learning and deep learning?](https://dev.to/shivanis09/what-are-the-differences-between-machine-learning-and-deep-learning-4dn5)
+- [Dev.to/JS] [Master Angular 17.1 and 17.2](https://dev.to/this-is-angular/master-angular-171-and-172-3m68)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/lamarkkmartin917/buy-old-gmail-accounts-1j0l)
 - [Dev.to/JS] [How Setup Gemini AI for REST API using NodeJs](https://dev.to/adewumi0550/how-setup-gemini-ai-for-rest-api-using-nodejs-5f46)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/lamarkkmartin917/buy-verified-cash-app-account-37oe)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering the map&lpar;&rpar; Method in JavaScript: A Practical Application.](https://dev.to/vaatiesther/mastering-the-map-method-in-javascript-a-practical-application-24gj)
 - [Dev.to/JS] [Composing poésie concrète with AWS Step Function](https://dev.to/bohdanstupak1/composing-poesie-concrete-with-aws-step-function-55od)
 - [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/lamarkkmartin917/buy-glassdoor-reviews-4la1)
-- [Dev.to/JS] [TypeScript vs JavaScript](https://dev.to/shafiqbd/typescript-vs-javascript-8c9)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/lamarkkmartin917/buy-google-voice-accounts-46ee)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/lamarkkmartin917/buy-google-5-star-reviews-2ph2)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 27, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [What to Do If You Haven&#39;t Filed Your Taxes in Years](https://lifehacker.com/what-to-do-if-you-havent-filed-taxes-in-years)
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
