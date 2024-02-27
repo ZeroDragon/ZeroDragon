@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/lamarkkmartin917/buy-verified-paxful-account-33gd)
+- [Dev.to/JS] [Client side validation using React Form Manager](https://dev.to/mitevskasar/client-side-validation-using-react-form-manager-2igp)
+- [Dev.to/JS] [Understanding Website Categories](https://dev.to/hinahumber/understanding-website-categories-5c4a)
 - [Dev.to/JS] [22 Best Languages For Web Development With Its Features [2024]](https://dev.to/lambdatest/22-best-languages-for-web-development-with-its-features-2024-3d52)
 - [Dev.to/JS] [Exploring the Benefits of Joint Plus CBD Gummies](https://dev.to/jointplusc/exploring-the-benefits-of-joint-plus-cbd-gummies-17i9)
 - [Dev.to/JS] [How to Stabilize Flaky Screenshots for visual testing](https://dev.to/jsfez/how-to-stabilize-flaky-screenshots-for-visual-testing-1529)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cloudinary to s3 bucket db changes](https://dev.to/chetan_2708/cloudinary-to-s3-bucket-db-changes-241c)
 - [Dev.to/JS] [Cloudinary to s3 bucket db changes](https://dev.to/chetan_2708/cloudinary-to-s3-bucket-db-changes-3mp6)
 - [Dev.to/JS] [What is the Alice Calculator?](https://dev.to/emavow/what-is-the-alice-calculator-458e)
-- [Dev.to/JS] [Best Java Full Stack Training](https://dev.to/ppaannkkaajj9927/best-java-full-stack-training-4oc7)
-- [Dev.to/JS] [Build Naruto Database App - React Js Tutorial - API Project](https://dev.to/imrankh13332994/build-naruto-database-app-react-js-tutorial-api-project-4ahj)
 - [Lifehacker] [What to Do If You Haven&#39;t Filed Your Taxes in Years](https://lifehacker.com/what-to-do-if-you-havent-filed-taxes-in-years)
-- [Dev.to/JS] [Creating a Multi-Column Search Feature in a React Data Table](https://dev.to/alexteng/creating-a-multi-column-search-feature-in-a-react-data-table-25mi)
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in March 2024](https://lifehacker.com/entertainment/new-on-paramount-with-showtime-in-march-2024)
 - [Lifehacker] [The Boox Palma Is a Nearly Perfect Phone-sized E-reader](https://lifehacker.com/tech/boox-palma-e-reader-review)
