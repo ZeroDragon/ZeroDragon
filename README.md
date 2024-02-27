@@ -26,8 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VSGraph - A Visual Shader Graph Editor](https://dev.to/spenceryonce/vsgraph-a-visual-shader-graph-editor-3di0)
 - [Dev.to/JS] [Stream Your Way: Creating Custom Streams](https://dev.to/ruben_alapont/stream-your-way-creating-custom-streams-395o)
-- [Dev.to/JS] [How I Build a Platform Where You Can Code HTML, CSS, JS, PHP on a Live Server](https://dev.to/souviktests/how-i-build-a-platform-where-you-can-code-html-css-js-php-on-a-live-server-1j3h)
+- [Dev.to/JS] [I Build a Platform Where You Can Code HTML, CSS, JS, PHP on a Live Server](https://dev.to/souviktests/how-i-build-a-platform-where-you-can-code-html-css-js-php-on-a-live-server-1j3h)
 - [Dev.to/JS] [My Challenge for UI interview](https://dev.to/jeytey/my-challenge-for-ui-interview-p48)
 - [Lifehacker] [Samsung Wants You to Experience Galaxy AI on Your Non-Galaxy Android Phone](https://lifehacker.com/tech/samsung-wants-you-to-experience-galaxy-ai-on-your-non-galaxy-phone)
 - [Dev.to/JS] [Next Js - Interview Experience.](https://dev.to/pratham0182/next-js-interview-experience-bba)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Async/Await and Promises in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-asyncawait-and-promises-in-javascript-and-typescript-d0n)
 - [Dev.to/JS] [Setup monorepo with pnpm, typescript and turborepo](https://dev.to/omarkhiary/setup-monorepo-with-pnpm-typescript-and-turborepo-43bf)
 - [Dev.to/JS] [My First YouTube Short - Detecting data types in JS is hard!](https://dev.to/schemetastic/my-first-youtube-short-your-feedback-would-be-appreciated-2go4)
-- [Dev.to/JS] [Monorepo Concept](https://dev.to/melihs/monorepo-concept-4cd2)
 - [Lifehacker] [These DeWalt Tools Are on Sale for Up to 61% Off Right Now](https://lifehacker.com/home/dewalt-tools-sale-amazon)
 - [Lifehacker] [Windows 11 Has a Free Video Editor Again &lpar;and It&#39;s Pretty Good&rpar;](https://lifehacker.com/tech/how-to-use-clipchamp-in-windows-11)
 - [Lifehacker] [You Can Get Rosetta Stone on Sale for $160 Right Now](https://lifehacker.com/rosetta-stone-sale)
