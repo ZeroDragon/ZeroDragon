@@ -26,8 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Multi-Column Search Feature in a React Data Table](https://dev.to/alexteng/creating-a-multi-column-search-feature-in-a-react-data-table-25mi)
+- [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
+- [Dev.to/JS] [Essential websites for front-end developers](https://dev.to/wangliwen/essential-websites-for-front-end-developers-427j)
+- [Dev.to/JS] [6 Months Web](https://dev.to/abneribeiro_/6-months-web-52de)
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in March 2024](https://lifehacker.com/entertainment/new-on-paramount-with-showtime-in-march-2024)
+- [Lifehacker] [The Boox Palma Is a Nearly Perfect Phone-sized E-reader](https://lifehacker.com/tech/boox-palma-e-reader-review)
 - [Dev.to/JS] [10 Best AI-Powered Chrome Extensions](https://dev.to/durgesh4993/10-best-ai-powered-chrome-extensions-2dp0)
+- [Lifehacker] [How to Try Microsoft&#39;s &#39;Circle to Copilot&#39; Feature](https://lifehacker.com/tech/how-to-screenshot-to-copilot)
 - [Dev.to/JS] [JavaScript Essential Terms Every Developer Must Know](https://dev.to/mmainulhasan/javascript-essential-terms-every-developer-must-know-2a6)
+- [Lifehacker] [These Business-grade Samsung Laptops Are up to 35% Off](https://lifehacker.com/tech/business-samsung-galaxy-book3-and-book3-pro-sale)
 - [Lifehacker] [The 10 Most Common Gym Machines &lpar;and How to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-gym-machines-and-how-to-use-them-1848417507)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 11 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-53gh)
 - [Lifehacker] [The Best Apps That Use Apple&#39;s Live Activities](https://lifehacker.com/tech/best-iphone-apps-that-use-live-activities)
@@ -44,11 +52,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Could Get Money From This Hyundai and Kia Class Action Lawsuit](https://lifehacker.com/money/you-could-get-money-from-the-hyundai-and-kia-class-action-lawsuit)
 - [Dev.to/JS] [Creating a Simple Modal Component in React with TypeScript for Beginners](https://dev.to/theedgebreaker/creating-a-simple-modal-component-in-react-with-typescript-for-beginners-42ac)
 - [Lifehacker] [These Common Job Description Phrases Are Red Flags](https://lifehacker.com/work/job-description-red-flag-phrases)
-- [Dev.to/JS] [Summarizer Website using MEAN Stack](https://dev.to/siddheshuncodes/summarizer-website-using-mean-stack-5hbj)
 - [Lifehacker] [You Can Get &#39;12min&#39; on Sale for $50 Right Now](https://lifehacker.com/entertainment/12min-app-sale)
-- [Dev.to/JS] [Enhancing Security in Your Next.js Applications: Best Practices and Code Snippets](https://dev.to/nitin-rachabathuni/enhancing-security-in-your-nextjs-applications-best-practices-and-code-snippets-f78)
 - [Lifehacker] [Everything We Know &lpar;so Far&rpar; About Samsung’s Galaxy Ring](https://lifehacker.com/tech/everything-we-know-about-samsungs-galaxy-ring)
-- [Dev.to/JS] [Navigating the Dynamics of an External Team Collaboration](https://dev.to/browserlondon/navigating-the-dynamics-of-an-external-team-collaboration-3cjp)
 - [Lifehacker] [How to Choose the Right Soil for Your Garden](https://lifehacker.com/home/choose-the-right-soil-for-your-garden)
 - [Lifehacker] [How to Fake a Sourdough Bread](https://lifehacker.com/food-drink/how-to-fake-sourdough-bread)
 - [Lifehacker] [The OnePlus Watch 2 Is Almost Ready to Take on Apple](https://lifehacker.com/tech/oneplus-watch-2-review)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
-- [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)
-- [Lifehacker] [How to Share Your Microsoft 365 Subscription &lpar;and Why You Should&rpar;](https://lifehacker.com/tech/sharing-microsoft-365-subscription)
-- [Lifehacker] [The Best Exercises for Your Glutes &lpar;That Is, Your Butt&rpar;](https://lifehacker.com/health/best-exercises-for-your-glutes)
-- [Lifehacker] [These Are the Best Gaming Routers to Buy in 2024](https://lifehacker.com/tech/best-gaming-routers)
-- [Lifehacker] [If Therapy Is Too Expensive, Try Single-session Interventions](https://lifehacker.com/health/what-is-single-session-therapy)
-- [Lifehacker] [10 of the Easiest DIY Bathroom Updates &lpar;for Less Than $100 Each&rpar;](https://lifehacker.com/home/best-ways-to-update-a-bathroom-on-a-budget)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)<!-- TECH-POSTS:END -->
 
 ---
 
