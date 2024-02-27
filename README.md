@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Glassdoor Reviews](https://dev.to/lamarkkmartin917/buy-glassdoor-reviews-4la1)
+- [Dev.to/JS] [TypeScript vs JavaScript](https://dev.to/shafiqbd/typescript-vs-javascript-8c9)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/lamarkkmartin917/buy-google-voice-accounts-46ee)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/lamarkkmartin917/buy-google-5-star-reviews-2ph2)
+- [Dev.to/JS] [Sorting algorithms](https://dev.to/akmaurya31/sorting-algorithms-2hcg)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/lamarkkmartin917/buy-verified-paxful-account-33gd)
 - [Dev.to/JS] [Client side validation using React Form Manager](https://dev.to/mitevskasar/client-side-validation-using-react-form-manager-2igp)
 - [Dev.to/JS] [Understanding Website Categories](https://dev.to/hinahumber/understanding-website-categories-5c4a)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 27, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [22 Best Languages For Web Development With Its Features [2024]](https://dev.to/lambdatest/22-best-languages-for-web-development-with-its-features-2024-3d52)
 - [Dev.to/JS] [Exploring the Benefits of Joint Plus CBD Gummies](https://dev.to/jointplusc/exploring-the-benefits-of-joint-plus-cbd-gummies-17i9)
 - [Dev.to/JS] [How to Stabilize Flaky Screenshots for visual testing](https://dev.to/jsfez/how-to-stabilize-flaky-screenshots-for-visual-testing-1529)
 - [Dev.to/JS] [Spectrum BPO&#39;s Expert Amazon SEO Services](https://dev.to/spectrumbpo141/spectrum-bpos-expert-amazon-seo-services-1ppl)
-- [Dev.to/JS] [Next js with Axios Data Fetching](https://dev.to/syedmuhammadaliraza/next-js-with-axios-data-fetching-435a)
-- [Dev.to/JS] [jQuery vs JavaScript: A Comprehensive Comparison](https://dev.to/codingmadeeasy/jquery-vs-javascript-a-comprehensive-comparison-1ac7)
-- [Dev.to/JS] [Cloudinary to s3 bucket db changes](https://dev.to/chetan_2708/cloudinary-to-s3-bucket-db-changes-241c)
-- [Dev.to/JS] [Cloudinary to s3 bucket db changes](https://dev.to/chetan_2708/cloudinary-to-s3-bucket-db-changes-3mp6)
-- [Dev.to/JS] [What is the Alice Calculator?](https://dev.to/emavow/what-is-the-alice-calculator-458e)
 - [Lifehacker] [What to Do If You Haven&#39;t Filed Your Taxes in Years](https://lifehacker.com/what-to-do-if-you-havent-filed-taxes-in-years)
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in March 2024](https://lifehacker.com/entertainment/new-on-paramount-with-showtime-in-march-2024)
@@ -62,7 +63,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Eufy X10 Pro Omni Is a Pretty Good Mid-Priced Robot Vacuum](https://lifehacker.com/tech/eufy-x10-pro-omni-review)
 - [Lifehacker] [This Adobe Creative Cloud Course Is on Sale for $30 Right Now](https://lifehacker.com/adobe-creative-cloud-course-sale)
 - [Lifehacker] [10 of the Best Movies About the Most Inspiring Women In History](https://lifehacker.com/entertainment/best-movies-about-historys-most-inspiring-women)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 26, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
 - [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)<!-- TECH-POSTS:END -->
