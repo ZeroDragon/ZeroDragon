@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Naruto Database App - React Js Tutorial - API Project](https://dev.to/imrankh13332994/build-naruto-database-app-react-js-tutorial-api-project-4ahj)
 - [Dev.to/JS] [Creating a Multi-Column Search Feature in a React Data Table](https://dev.to/alexteng/creating-a-multi-column-search-feature-in-a-react-data-table-25mi)
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
 - [Dev.to/JS] [Essential websites for front-end developers](https://dev.to/wangliwen/essential-websites-for-front-end-developers-427j)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Features Coming Soon to Your Android Devices](https://lifehacker.com/tech/new-android-features-coming-soon)
 - [Dev.to/JS] [Speed Up Your Website: Optimizing Page Load Times with HTML, CSS, and JavaScript](https://dev.to/sh20raj/speed-up-your-website-optimizing-page-load-times-with-html-css-and-javascript-47be)
 - [Lifehacker] [You Could Get Money From This Hyundai and Kia Class Action Lawsuit](https://lifehacker.com/money/you-could-get-money-from-the-hyundai-and-kia-class-action-lawsuit)
-- [Dev.to/JS] [Creating a Simple Modal Component in React with TypeScript for Beginners](https://dev.to/theedgebreaker/creating-a-simple-modal-component-in-react-with-typescript-for-beginners-42ac)
 - [Lifehacker] [These Common Job Description Phrases Are Red Flags](https://lifehacker.com/work/job-description-red-flag-phrases)
 - [Lifehacker] [You Can Get &#39;12min&#39; on Sale for $50 Right Now](https://lifehacker.com/entertainment/12min-app-sale)
 - [Lifehacker] [Everything We Know &lpar;so Far&rpar; About Samsung’s Galaxy Ring](https://lifehacker.com/tech/everything-we-know-about-samsungs-galaxy-ring)
