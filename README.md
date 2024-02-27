@@ -26,20 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Build a Platform Where You Can Code HTML, CSS, JS, PHP on a Live Server](https://dev.to/souviktests/how-i-build-a-platform-where-you-can-code-html-css-js-php-on-a-live-server-1j3h)
+- [Dev.to/JS] [My Challenge for UI interview](https://dev.to/jeytey/my-challenge-for-ui-interview-p48)
+- [Dev.to/JS] [Next Js - Interview Experience.](https://dev.to/pratham0182/next-js-interview-experience-bba)
+- [Dev.to/JS] [Introducción sobre el desarrollo de apps nativas para Ubuntu Touch](https://dev.to/lirrums/introduccion-sobre-el-desarrollo-de-apps-nativas-para-ubuntu-touch-2fbi)
 - [Dev.to/JS] [RESTful API CRUD Node, Express, MongoDB Atlas, Mongoose, #Hosting on Render #POSTMAN](https://dev.to/swapnanilwebdeveloper/restful-api-crud-node-express-mongodb-atlas-mongoose-hosting-on-render-postman-219)
+- [Lifehacker] [This Qualcomm Snapdragon Console Is on Sale for $100 Right Now](https://lifehacker.com/tech/qualcomm-snapdragon-console-sale)
 - [Dev.to/JS] [Daily Code 74 | 🏀 Basketball Score Board](https://dev.to/gregor_schafroth/daily-code-74-basketball-score-board-3e3n)
 - [Dev.to/JS] [What are React Server Components &lpar;RSCs&rpar;?](https://dev.to/this-is-learning/what-are-react-server-components-rscs-1d8c)
+- [Lifehacker] [The Best Ways to Overcome Home Maintenance Anxiety](https://lifehacker.com/home/overcome-home-maintenance-anxiety)
 - [Dev.to/JS] [Understanding Async/Await and Promises in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-asyncawait-and-promises-in-javascript-and-typescript-d0n)
 - [Dev.to/JS] [Setup monorepo with pnpm, typescript and turborepo](https://dev.to/omarkhiary/setup-monorepo-with-pnpm-typescript-and-turborepo-43bf)
 - [Dev.to/JS] [My first YouTube Short - your feedback would be appreciated](https://dev.to/schemetastic/my-first-youtube-short-your-feedback-would-be-appreciated-2go4)
 - [Dev.to/JS] [Monorepo Concept](https://dev.to/melihs/monorepo-concept-4cd2)
 - [Dev.to/JS] [How do you deal with 💩 clients in software development?](https://dev.to/hay_devex/how-do-you-deal-with-clients-in-software-development-39po)
 - [Lifehacker] [These DeWalt Tools Are on Sale for Up to 61% Off Right Now](https://lifehacker.com/home/dewalt-tools-sale-amazon)
-- [Dev.to/JS] [Ecommerce Trends Manager](https://dev.to/aakash0786/ecommerce-trends-manager-377k)
 - [Lifehacker] [Windows 11 Has a Free Video Editor Again &lpar;and It&#39;s Pretty Good&rpar;](https://lifehacker.com/tech/how-to-use-clipchamp-in-windows-11)
-- [Dev.to/JS] [Maitriser l&#39;opérateur de chaînage optionnel en JavaScript](https://dev.to/laurent-aka/maitriser-loperateur-de-chainage-optionnel-en-javascript-1jid)
-- [Dev.to/JS] [You Probably Don&#39;t Know Of These 2 Math Methods in JavaScript: fround&lpar;&rpar; and imul&lpar;&rpar;](https://dev.to/codeguage/you-probably-dont-know-of-these-2-math-methods-in-javascript-fround-and-imul-466a)
-- [Dev.to/JS] [How to run Backend code on IPv6](https://dev.to/hamza_zahidul/how-to-run-backend-code-on-ipv6-400h)
 - [Lifehacker] [You Can Get Rosetta Stone on Sale for $160 Right Now](https://lifehacker.com/rosetta-stone-sale)
 - [Lifehacker] [What&#39;s New on Max in March 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-march-2024)
 - [Lifehacker] [The 22 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything We Know &lpar;so Far&rpar; About Samsung’s Galaxy Ring](https://lifehacker.com/tech/everything-we-know-about-samsungs-galaxy-ring)
 - [Lifehacker] [How to Choose the Right Soil for Your Garden](https://lifehacker.com/home/choose-the-right-soil-for-your-garden)
 - [Lifehacker] [How to Fake a Sourdough Bread](https://lifehacker.com/food-drink/how-to-fake-sourdough-bread)
-- [Lifehacker] [The OnePlus Watch 2 Is Almost Ready to Take on Apple](https://lifehacker.com/tech/oneplus-watch-2-review)
-- [Lifehacker] [All the Types of Water Filters &lpar;and Which One You Might Need&rpar;](https://lifehacker.com/health/all-the-types-of-water-filters)
-- [Lifehacker] [The Eufy X10 Pro Omni Is a Pretty Good Mid-Priced Robot Vacuum](https://lifehacker.com/tech/eufy-x10-pro-omni-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The OnePlus Watch 2 Is Almost Ready to Take on Apple](https://lifehacker.com/tech/oneplus-watch-2-review)<!-- TECH-POSTS:END -->
 
 ---
 
