@@ -26,10 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stream Your Way: Creating Custom Streams](https://dev.to/ruben_alapont/stream-your-way-creating-custom-streams-395o)
 - [Dev.to/JS] [How I Build a Platform Where You Can Code HTML, CSS, JS, PHP on a Live Server](https://dev.to/souviktests/how-i-build-a-platform-where-you-can-code-html-css-js-php-on-a-live-server-1j3h)
 - [Dev.to/JS] [My Challenge for UI interview](https://dev.to/jeytey/my-challenge-for-ui-interview-p48)
+- [Lifehacker] [Samsung Wants You to Experience Galaxy AI on Your Non-Galaxy Android Phone](https://lifehacker.com/tech/samsung-wants-you-to-experience-galaxy-ai-on-your-non-galaxy-phone)
 - [Dev.to/JS] [Next Js - Interview Experience.](https://dev.to/pratham0182/next-js-interview-experience-bba)
 - [Dev.to/JS] [Introducción sobre el desarrollo de apps nativas para Ubuntu Touch](https://dev.to/lirrums/introduccion-sobre-el-desarrollo-de-apps-nativas-para-ubuntu-touch-2fbi)
+- [Lifehacker] [The iRobot Roomba Combo i5+ Is $250 Off &lpar;but Hurry Up&rpar;](https://lifehacker.com/home/irobot-roomba-combo-i5-sale)
 - [Dev.to/JS] [RESTful API CRUD Node, Express, MongoDB Atlas, Mongoose, #Hosting on Render #POSTMAN](https://dev.to/swapnanilwebdeveloper/restful-api-crud-node-express-mongodb-atlas-mongoose-hosting-on-render-postman-219)
 - [Lifehacker] [This Qualcomm Snapdragon Console Is on Sale for $100 Right Now](https://lifehacker.com/tech/qualcomm-snapdragon-console-sale)
 - [Dev.to/JS] [Daily Code 74 | 🏀 Basketball Score Board](https://dev.to/gregor_schafroth/daily-code-74-basketball-score-board-3e3n)
@@ -37,9 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Overcome Home Maintenance Anxiety](https://lifehacker.com/home/overcome-home-maintenance-anxiety)
 - [Dev.to/JS] [Understanding Async/Await and Promises in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-asyncawait-and-promises-in-javascript-and-typescript-d0n)
 - [Dev.to/JS] [Setup monorepo with pnpm, typescript and turborepo](https://dev.to/omarkhiary/setup-monorepo-with-pnpm-typescript-and-turborepo-43bf)
-- [Dev.to/JS] [My first YouTube Short - your feedback would be appreciated](https://dev.to/schemetastic/my-first-youtube-short-your-feedback-would-be-appreciated-2go4)
+- [Dev.to/JS] [My First YouTube Short - Detecting data types in JS is hard!](https://dev.to/schemetastic/my-first-youtube-short-your-feedback-would-be-appreciated-2go4)
 - [Dev.to/JS] [Monorepo Concept](https://dev.to/melihs/monorepo-concept-4cd2)
-- [Dev.to/JS] [How do you deal with 💩 clients in software development?](https://dev.to/hay_devex/how-do-you-deal-with-clients-in-software-development-39po)
 - [Lifehacker] [These DeWalt Tools Are on Sale for Up to 61% Off Right Now](https://lifehacker.com/home/dewalt-tools-sale-amazon)
 - [Lifehacker] [Windows 11 Has a Free Video Editor Again &lpar;and It&#39;s Pretty Good&rpar;](https://lifehacker.com/tech/how-to-use-clipchamp-in-windows-11)
 - [Lifehacker] [You Can Get Rosetta Stone on Sale for $160 Right Now](https://lifehacker.com/rosetta-stone-sale)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Common Job Description Phrases Are Red Flags](https://lifehacker.com/work/job-description-red-flag-phrases)
 - [Lifehacker] [You Can Get &#39;12min&#39; on Sale for $50 Right Now](https://lifehacker.com/entertainment/12min-app-sale)
 - [Lifehacker] [Everything We Know &lpar;so Far&rpar; About Samsung’s Galaxy Ring](https://lifehacker.com/tech/everything-we-know-about-samsungs-galaxy-ring)
-- [Lifehacker] [How to Choose the Right Soil for Your Garden](https://lifehacker.com/home/choose-the-right-soil-for-your-garden)
-- [Lifehacker] [How to Fake a Sourdough Bread](https://lifehacker.com/food-drink/how-to-fake-sourdough-bread)
-- [Lifehacker] [The OnePlus Watch 2 Is Almost Ready to Take on Apple](https://lifehacker.com/tech/oneplus-watch-2-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose the Right Soil for Your Garden](https://lifehacker.com/home/choose-the-right-soil-for-your-garden)<!-- TECH-POSTS:END -->
 
 ---
 
