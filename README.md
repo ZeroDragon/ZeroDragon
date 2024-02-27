@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use hook pagination](https://dev.to/geniilsonfernandes/use-hook-pagination-n5g)
+- [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $180 Right Now](https://lifehacker.com/entertainment/curiosity-stream-sale)
 - [Dev.to/JS] [VSGraph - A Visual Shader Graph Editor](https://dev.to/spenceryonce/vsgraph-a-visual-shader-graph-editor-3di0)
+- [Lifehacker] [You Can Now Bookmark Your Favorite Posts in Threads](https://lifehacker.com/tech/you-can-now-bookmark-your-favorite-posts-in-threads)
 - [Dev.to/JS] [Stream Your Way: Creating Custom Streams](https://dev.to/ruben_alapont/stream-your-way-creating-custom-streams-395o)
+- [Lifehacker] [This Is the Best Mozzarella Cheese for Cooking](https://lifehacker.com/food-drink/the-best-mozzarella-cheese-for-cooking)
+- [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2024](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
 - [Dev.to/JS] [I Build a Platform Where You Can Code HTML, CSS, JS, PHP on a Live Server](https://dev.to/souviktests/how-i-build-a-platform-where-you-can-code-html-css-js-php-on-a-live-server-1j3h)
 - [Dev.to/JS] [My Challenge for UI interview](https://dev.to/jeytey/my-challenge-for-ui-interview-p48)
 - [Lifehacker] [Samsung Wants You to Experience Galaxy AI on Your Non-Galaxy Android Phone](https://lifehacker.com/tech/samsung-wants-you-to-experience-galaxy-ai-on-your-non-galaxy-phone)
@@ -41,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Overcome Home Maintenance Anxiety](https://lifehacker.com/home/overcome-home-maintenance-anxiety)
 - [Dev.to/JS] [Understanding Async/Await and Promises in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-asyncawait-and-promises-in-javascript-and-typescript-d0n)
 - [Dev.to/JS] [Setup monorepo with pnpm, typescript and turborepo](https://dev.to/omarkhiary/setup-monorepo-with-pnpm-typescript-and-turborepo-43bf)
-- [Dev.to/JS] [My First YouTube Short - Detecting data types in JS is hard!](https://dev.to/schemetastic/my-first-youtube-short-your-feedback-would-be-appreciated-2go4)
 - [Lifehacker] [These DeWalt Tools Are on Sale for Up to 61% Off Right Now](https://lifehacker.com/home/dewalt-tools-sale-amazon)
 - [Lifehacker] [Windows 11 Has a Free Video Editor Again &lpar;and It&#39;s Pretty Good&rpar;](https://lifehacker.com/tech/how-to-use-clipchamp-in-windows-11)
 - [Lifehacker] [You Can Get Rosetta Stone on Sale for $160 Right Now](https://lifehacker.com/rosetta-stone-sale)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Arlo Video Doorbell Cameras Are up to 67% Off Right Now](https://lifehacker.com/tech/arlo-essential-video-doorbell-sale)
 - [Lifehacker] [You Can Get the Mode Wireless Electric Toothbrush on Sale for $145 Right Now](https://lifehacker.com/health/mode-wireless-electric-toothbrush-sale)
 - [Lifehacker] [All the New Features Coming Soon to Your Android Devices](https://lifehacker.com/tech/new-android-features-coming-soon)
-- [Lifehacker] [You Could Get Money From This Hyundai and Kia Class Action Lawsuit](https://lifehacker.com/money/you-could-get-money-from-the-hyundai-and-kia-class-action-lawsuit)
-- [Lifehacker] [These Common Job Description Phrases Are Red Flags](https://lifehacker.com/work/job-description-red-flag-phrases)
-- [Lifehacker] [You Can Get &#39;12min&#39; on Sale for $50 Right Now](https://lifehacker.com/entertainment/12min-app-sale)
-- [Lifehacker] [Everything We Know &lpar;so Far&rpar; About Samsung’s Galaxy Ring](https://lifehacker.com/tech/everything-we-know-about-samsungs-galaxy-ring)
-- [Lifehacker] [How to Choose the Right Soil for Your Garden](https://lifehacker.com/home/choose-the-right-soil-for-your-garden)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Could Get Money From This Hyundai and Kia Class Action Lawsuit](https://lifehacker.com/money/you-could-get-money-from-the-hyundai-and-kia-class-action-lawsuit)<!-- TECH-POSTS:END -->
 
 ---
 
