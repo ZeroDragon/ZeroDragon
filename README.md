@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the Alice Calculator?](https://dev.to/emavow/what-is-the-alice-calculator-458e)
+- [Dev.to/JS] [Best Java Full Stack Training](https://dev.to/ppaannkkaajj9927/best-java-full-stack-training-4oc7)
 - [Dev.to/JS] [Build Naruto Database App - React Js Tutorial - API Project](https://dev.to/imrankh13332994/build-naruto-database-app-react-js-tutorial-api-project-4ahj)
+- [Lifehacker] [What to Do If You Haven&#39;t Filed Your Taxes in Years](https://lifehacker.com/what-to-do-if-you-havent-filed-taxes-in-years)
 - [Dev.to/JS] [Creating a Multi-Column Search Feature in a React Data Table](https://dev.to/alexteng/creating-a-multi-column-search-feature-in-a-react-data-table-25mi)
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
 - [Dev.to/JS] [Essential websites for front-end developers](https://dev.to/wangliwen/essential-websites-for-front-end-developers-427j)
@@ -46,10 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream Every Nominated Movie Before the 2024 Oscars](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Dev.to/JS] [JavaScript&#39;s Best-Kept Secrets: Unveiling Lesser-Known Features!](https://dev.to/princekukreja/javascripts-best-kept-secrets-unveiling-lesser-known-features-2ngd)
 - [Lifehacker] [These Arlo Video Doorbell Cameras Are up to 67% Off Right Now](https://lifehacker.com/tech/arlo-essential-video-doorbell-sale)
-- [Dev.to/JS] [Building a Responsive Image Gallery with Next.js, TypeScript, and Tailwind CSS](https://dev.to/theedgebreaker/building-a-responsive-image-gallery-with-nextjs-typescript-and-tailwind-css-46ee)
 - [Lifehacker] [You Can Get the Mode Wireless Electric Toothbrush on Sale for $145 Right Now](https://lifehacker.com/health/mode-wireless-electric-toothbrush-sale)
 - [Lifehacker] [All the New Features Coming Soon to Your Android Devices](https://lifehacker.com/tech/new-android-features-coming-soon)
-- [Dev.to/JS] [Speed Up Your Website: Optimizing Page Load Times with HTML, CSS, and JavaScript](https://dev.to/sh20raj/speed-up-your-website-optimizing-page-load-times-with-html-css-and-javascript-47be)
 - [Lifehacker] [You Could Get Money From This Hyundai and Kia Class Action Lawsuit](https://lifehacker.com/money/you-could-get-money-from-the-hyundai-and-kia-class-action-lawsuit)
 - [Lifehacker] [These Common Job Description Phrases Are Red Flags](https://lifehacker.com/work/job-description-red-flag-phrases)
 - [Lifehacker] [You Can Get &#39;12min&#39; on Sale for $50 Right Now](https://lifehacker.com/entertainment/12min-app-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, February 26, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
 - [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)
-- [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)
-- [Lifehacker] [Use This App to Customize Your Windows Taskbar](https://lifehacker.com/tech/customize-windows-taskbar)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How &lpar;and Why&rpar; to Get Better at Active Listening](https://lifehacker.com/health/how-to-get-better-at-active-listening)<!-- TECH-POSTS:END -->
 
 ---
 
