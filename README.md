@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Maitriser l&#39;opérateur de chaînage optionnel en JavaScript](https://dev.to/laurent-aka/maitriser-loperateur-de-chainage-optionnel-en-javascript-1jid)
+- [Dev.to/JS] [You Probably Don&#39;t Know Of These 2 Math Methods in JavaScript: fround&lpar;&rpar; and imul&lpar;&rpar;](https://dev.to/codeguage/you-probably-dont-know-of-these-2-math-methods-in-javascript-fround-and-imul-466a)
+- [Dev.to/JS] [How to run Backend code on IPv6](https://dev.to/hamza_zahidul/how-to-run-backend-code-on-ipv6-400h)
+- [Dev.to/JS] [Object Destructuring in JavaScript](https://dev.to/baroblesvi/object-destructuring-in-javascript-39g6)
+- [Dev.to/JS] [Desestruturando Objetos em JavaScript - Object Destructuring](https://dev.to/barobles/desestruturando-objetos-em-javascript-object-destructuring-4gmb)
+- [Dev.to/JS] [A quick tour of HTMX](https://dev.to/jaydevm/a-quick-tour-of-htmx-3a6n)
+- [Dev.to/JS] [React Mastery Roadmap for 2024: A Comprehensive Guide 🚀](https://dev.to/alisamirali/react-mastery-roadmap-for-2024-a-comprehensive-guide-37g3)
+- [Lifehacker] [What&#39;s New on Max in March 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-march-2024)
 - [Dev.to/JS] [What the Hell is Closure in JavaScript?](https://dev.to/codeparrot/what-the-hell-is-closure-in-javascript-4k84)
 - [Lifehacker] [The 22 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Dev.to/JS] [How to Implement a CI/CD pipeline with GitHub Actions in four simple steps In Your Repo.](https://dev.to/arosebine/how-to-implement-a-cicd-pipeline-with-github-actions-in-four-simple-steps-39fe)
 - [Dev.to/JS] [What are the differences between machine learning and deep learning?](https://dev.to/shivanis09/what-are-the-differences-between-machine-learning-and-deep-learning-4dn5)
 - [Dev.to/JS] [Master Angular 17.1 and 17.2](https://dev.to/this-is-angular/master-angular-171-and-172-3m68)
 - [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/lamarkkmartin917/buy-old-gmail-accounts-1j0l)
-- [Dev.to/JS] [How Setup Gemini AI for REST API using NodeJs](https://dev.to/adewumi0550/how-setup-gemini-ai-for-rest-api-using-nodejs-5f46)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/lamarkkmartin917/buy-verified-cash-app-account-37oe)
-- [Dev.to/JS] [Boost your Workflow with VS Code Tasks: Reinstalling NPM Dependencies 🚀](https://dev.to/goldjns/boost-your-workflow-with-vs-code-tasks-reinstalling-npm-dependencies-2kd6)
-- [Dev.to/JS] [CUM DevOps engineer for MERN](https://dev.to/akmaurya31/cum-devops-engineer-for-mern-2i3p)
-- [Dev.to/JS] [Navigation style often depends](https://dev.to/akmaurya31/navigation-style-often-depends-19m2)
-- [Dev.to/JS] [Mastering the map&lpar;&rpar; Method in JavaScript: A Practical Application.](https://dev.to/vaatiesther/mastering-the-map-method-in-javascript-a-practical-application-24gj)
-- [Dev.to/JS] [Composing poésie concrète with AWS Step Function](https://dev.to/bohdanstupak1/composing-poesie-concrete-with-aws-step-function-55od)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 27, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [What to Do If You Haven&#39;t Filed Your Taxes in Years](https://lifehacker.com/what-to-do-if-you-havent-filed-taxes-in-years)
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Eufy X10 Pro Omni Is a Pretty Good Mid-Priced Robot Vacuum](https://lifehacker.com/tech/eufy-x10-pro-omni-review)
 - [Lifehacker] [This Adobe Creative Cloud Course Is on Sale for $30 Right Now](https://lifehacker.com/adobe-creative-cloud-course-sale)
 - [Lifehacker] [10 of the Best Movies About the Most Inspiring Women In History](https://lifehacker.com/entertainment/best-movies-about-historys-most-inspiring-women)
-- [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)
-- [Lifehacker] [The Best Tools and Gadgets to Keep Your Bathroom Clean](https://lifehacker.com/home/best-bathroom-cleaning-gadgets)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)<!-- TECH-POSTS:END -->
 
 ---
 
