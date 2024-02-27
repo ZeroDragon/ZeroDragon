@@ -26,20 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are React Server Components &lpar;RSCs&rpar;?](https://dev.to/this-is-learning/what-are-react-server-components-rscs-1d8c)
+- [Dev.to/JS] [Understanding Async/Await and Promises in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-asyncawait-and-promises-in-javascript-and-typescript-d0n)
+- [Dev.to/JS] [Setup monorepo with pnpm, typescript and turborepo](https://dev.to/omarkhiary/setup-monorepo-with-pnpm-typescript-and-turborepo-43bf)
+- [Dev.to/JS] [My first YouTube Short - your feedback would be appreciated](https://dev.to/schemetastic/my-first-youtube-short-your-feedback-would-be-appreciated-2go4)
+- [Dev.to/JS] [Monorepo Concept](https://dev.to/melihs/monorepo-concept-4cd2)
+- [Dev.to/JS] [How do you deal with 💩 clients in software development?](https://dev.to/hay_devex/how-do-you-deal-with-clients-in-software-development-39po)
+- [Dev.to/JS] [Ecommerce Trends Manager](https://dev.to/aakash0786/ecommerce-trends-manager-377k)
 - [Dev.to/JS] [Maitriser l&#39;opérateur de chaînage optionnel en JavaScript](https://dev.to/laurent-aka/maitriser-loperateur-de-chainage-optionnel-en-javascript-1jid)
 - [Dev.to/JS] [You Probably Don&#39;t Know Of These 2 Math Methods in JavaScript: fround&lpar;&rpar; and imul&lpar;&rpar;](https://dev.to/codeguage/you-probably-dont-know-of-these-2-math-methods-in-javascript-fround-and-imul-466a)
 - [Dev.to/JS] [How to run Backend code on IPv6](https://dev.to/hamza_zahidul/how-to-run-backend-code-on-ipv6-400h)
+- [Lifehacker] [You Can Get Rosetta Stone on Sale for $160 Right Now](https://lifehacker.com/rosetta-stone-sale)
 - [Dev.to/JS] [Object Destructuring in JavaScript](https://dev.to/baroblesvi/object-destructuring-in-javascript-39g6)
 - [Dev.to/JS] [Desestruturando Objetos em JavaScript - Object Destructuring](https://dev.to/barobles/desestruturando-objetos-em-javascript-object-destructuring-4gmb)
-- [Dev.to/JS] [A quick tour of HTMX](https://dev.to/jaydevm/a-quick-tour-of-htmx-3a6n)
-- [Dev.to/JS] [React Mastery Roadmap for 2024: A Comprehensive Guide 🚀](https://dev.to/alisamirali/react-mastery-roadmap-for-2024-a-comprehensive-guide-37g3)
 - [Lifehacker] [What&#39;s New on Max in March 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-march-2024)
-- [Dev.to/JS] [What the Hell is Closure in JavaScript?](https://dev.to/codeparrot/what-the-hell-is-closure-in-javascript-4k84)
 - [Lifehacker] [The 22 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
-- [Dev.to/JS] [How to Implement a CI/CD pipeline with GitHub Actions in four simple steps In Your Repo.](https://dev.to/arosebine/how-to-implement-a-cicd-pipeline-with-github-actions-in-four-simple-steps-39fe)
-- [Dev.to/JS] [What are the differences between machine learning and deep learning?](https://dev.to/shivanis09/what-are-the-differences-between-machine-learning-and-deep-learning-4dn5)
-- [Dev.to/JS] [Master Angular 17.1 and 17.2](https://dev.to/this-is-angular/master-angular-171-and-172-3m68)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/lamarkkmartin917/buy-old-gmail-accounts-1j0l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 27, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [What to Do If You Haven&#39;t Filed Your Taxes in Years](https://lifehacker.com/what-to-do-if-you-havent-filed-taxes-in-years)
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Types of Water Filters &lpar;and Which One You Might Need&rpar;](https://lifehacker.com/health/all-the-types-of-water-filters)
 - [Lifehacker] [The Eufy X10 Pro Omni Is a Pretty Good Mid-Priced Robot Vacuum](https://lifehacker.com/tech/eufy-x10-pro-omni-review)
 - [Lifehacker] [This Adobe Creative Cloud Course Is on Sale for $30 Right Now](https://lifehacker.com/adobe-creative-cloud-course-sale)
-- [Lifehacker] [10 of the Best Movies About the Most Inspiring Women In History](https://lifehacker.com/entertainment/best-movies-about-historys-most-inspiring-women)
-- [Lifehacker] [These Wireless Open-Ear Conduction Headphones Are $34 Right Now](https://lifehacker.com/tech/open-ear-conduction-headphones-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Best Movies About the Most Inspiring Women In History](https://lifehacker.com/entertainment/best-movies-about-historys-most-inspiring-women)<!-- TECH-POSTS:END -->
 
 ---
 
