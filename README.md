@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lessons from opensource: How to use pipeline in Nodejs?](https://dev.to/ramunarasinga/lessons-from-opensource-how-to-use-pipeline-in-nodejs-bj)
 - [Dev.to/JS] [🍞 Bun, A Faster JavaScript Runtime](https://dev.to/lundjrl/bun-a-faster-javascript-runtime-jph)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in March 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-march-2024)
 - [Lifehacker] [The Apple Car Is Dead](https://lifehacker.com/tech/the-apple-car-is-dead)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Daily Code 74 | 🏀 Basketball Score Board](https://dev.to/gregor_schafroth/daily-code-74-basketball-score-board-3e3n)
 - [Dev.to/JS] [What are React Server Components &lpar;RSCs&rpar;?](https://dev.to/this-is-learning/what-are-react-server-components-rscs-1d8c)
 - [Lifehacker] [The Best Ways to Overcome Home Maintenance Anxiety](https://lifehacker.com/home/overcome-home-maintenance-anxiety)
-- [Dev.to/JS] [Understanding Async/Await and Promises in JavaScript and TypeScript](https://dev.to/mochafreddo/understanding-asyncawait-and-promises-in-javascript-and-typescript-d0n)
 - [Lifehacker] [These DeWalt Tools Are on Sale for Up to 61% Off Right Now](https://lifehacker.com/home/dewalt-tools-sale-amazon)
 - [Lifehacker] [Windows 11 Has a Free Video Editor Again &lpar;and It&#39;s Pretty Good&rpar;](https://lifehacker.com/tech/how-to-use-clipchamp-in-windows-11)
 - [Lifehacker] [You Can Get Rosetta Stone on Sale for $160 Right Now](https://lifehacker.com/rosetta-stone-sale)
