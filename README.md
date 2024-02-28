@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building RESTful APIs with Node.js and Express: A Comprehensive Guide](https://dev.to/nitin-rachabathuni/building-restful-apis-with-nodejs-and-express-a-comprehensive-guide-224a)
+- [Dev.to/JS] [Tải app K8vin | Ứng dụng giải trí đẳng cấp số 1 tại Việt Nam.](https://dev.to/k8vinco/tai-app-k8vin-ung-dung-giai-tri-dang-cap-so-1-tai-viet-nam-1hj5)
+- [Dev.to/JS] [Create NextJS Project with Typescript and Tailwind CSS](https://dev.to/venom4171/create-nextjs-project-with-typescript-and-tailwind-css-579k)
+- [Dev.to/JS] [Why should developers consider using Vite instead of other build tools?](https://dev.to/ajayjayendran/why-should-developers-consider-using-vite-instead-of-other-build-tools-27ln)
 - [Dev.to/JS] [Battle of the Node.js ORMs: Sequelize vs. Prisma](https://dev.to/victor1890/battle-of-the-nodejs-orms-sequelize-vs-prisma-3j8b)
 - [Dev.to/JS] [API Encryption? How does that help?](https://dev.to/sanjaykhanssk/api-encryption-how-does-that-help-50f9)
 - [Dev.to/JS] [Developers do not need to switch tabs! Your super tool has arrived.](https://dev.to/sanjaykhanssk/developers-do-not-need-to-switch-tabs-your-super-tool-has-arrived-3nlp)
@@ -44,16 +48,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🍞 Bun, A Faster JavaScript Runtime](https://dev.to/lundjrl/bun-a-faster-javascript-runtime-jph)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in March 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-march-2024)
 - [Lifehacker] [The Apple Car Is Dead](https://lifehacker.com/tech/the-apple-car-is-dead)
-- [Dev.to/JS] [Use hook pagination](https://dev.to/geniilsonfernandes/use-hook-pagination-n5g)
 - [Lifehacker] [Google’s AI Can Make You a Custom Video Game](https://lifehacker.com/tech/googles-ai-can-now-create-video-games)
 - [Lifehacker] [How to Choose Between the OnePlus Watch 2 and the Pixel Watch 2](https://lifehacker.com/tech/oneplus-watch-2-vs-pixel-watch-2)
 - [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $180 Right Now](https://lifehacker.com/entertainment/curiosity-stream-sale)
-- [Dev.to/JS] [VSGraph - A Visual Shader Graph Editor](https://dev.to/spenceryonce/vsgraph-a-visual-shader-graph-editor-3di0)
 - [Lifehacker] [You Can Now Bookmark Your Favorite Posts in Threads](https://lifehacker.com/tech/you-can-now-bookmark-your-favorite-posts-in-threads)
-- [Dev.to/JS] [Stream Your Way: Creating Custom Streams](https://dev.to/ruben_alapont/stream-your-way-creating-custom-streams-395o)
 - [Lifehacker] [This Is the Best Mozzarella Cheese for Cooking](https://lifehacker.com/food-drink/the-best-mozzarella-cheese-for-cooking)
 - [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2024](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
-- [Dev.to/JS] [I Build a Platform Where You Can Code HTML, CSS, JS, PHP on a Live Server](https://dev.to/souviktests/how-i-build-a-platform-where-you-can-code-html-css-js-php-on-a-live-server-1j3h)
 - [Lifehacker] [Samsung Wants You to Experience Galaxy AI on Your Non-Galaxy Android Phone](https://lifehacker.com/tech/samsung-wants-you-to-experience-galaxy-ai-on-your-non-galaxy-phone)
 - [Lifehacker] [The iRobot Roomba Combo i5+ Is $250 Off &lpar;but Hurry Up&rpar;](https://lifehacker.com/home/irobot-roomba-combo-i5-sale)
 - [Lifehacker] [This Qualcomm Snapdragon Console Is on Sale for $100 Right Now](https://lifehacker.com/tech/qualcomm-snapdragon-console-sale)
