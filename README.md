@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a seamless multi-language user interface in React](https://dev.to/honeybadger/creating-a-seamless-multi-language-user-interface-in-react-1jdj)
+- [Dev.to/JS] [Diacritic-insensitive string comparison in JavaScript](https://dev.to/clarity89/diacritic-insensitive-string-comparison-in-javascript-252m)
+- [Dev.to/JS] [Piral Feed Service 1.13](https://dev.to/smapiot/piral-feed-service-113-43lk)
+- [Dev.to/JS] [Managing unexpected data at runtime in Typescript](https://dev.to/pathakpratik/managing-unexpected-data-at-runtime-in-typescript-1lb4)
+- [Dev.to/JS] [What is Javascript Singleton Object with example](https://dev.to/himanshudevgupta/what-is-javascript-singleton-object-with-example-4fp3)
 - [Dev.to/JS] [What Is a Static Site?](https://dev.to/lytecms/what-is-a-static-site-29pc)
 - [Dev.to/JS] [Enhancing Your Website: The Art of WordPress Theme Integration](https://dev.to/jamesmartindev/enhancing-your-website-the-art-of-wordpress-theme-integration-54o0)
 - [Dev.to/JS] [Building RESTful APIs with Node.js and Express: A Comprehensive Guide](https://dev.to/nitin-rachabathuni/building-restful-apis-with-nodejs-and-express-a-comprehensive-guide-224a)
@@ -33,16 +38,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create NextJS Project with Typescript and Tailwind CSS](https://dev.to/venom4171/create-nextjs-project-with-typescript-and-tailwind-css-579k)
 - [Dev.to/JS] [Why should developers consider using Vite instead of other build tools?](https://dev.to/ajayjayendran/why-should-developers-consider-using-vite-instead-of-other-build-tools-27ln)
 - [Dev.to/JS] [Battle of the Node.js ORMs: Sequelize vs. Prisma](https://dev.to/victor1890/battle-of-the-nodejs-orms-sequelize-vs-prisma-3j8b)
-- [Dev.to/JS] [API Encryption? How does that help?](https://dev.to/sanjaykhanssk/api-encryption-how-does-that-help-50f9)
-- [Dev.to/JS] [Developers do not need to switch tabs! Your super tool has arrived.](https://dev.to/sanjaykhanssk/developers-do-not-need-to-switch-tabs-your-super-tool-has-arrived-3nlp)
 - [Lifehacker] [All of Your Information That’s Publicly Available &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/tech/all-your-information-thats-publicly-available-what-to-do-about-it)
 - [Lifehacker] [The Fastest Ways to Save All Your Open Browser Tabs for Later](https://lifehacker.com/tech/how-to-save-all-your-open-tabs-in-safari-chrome-firefox)
-- [Dev.to/JS] [Senior Software Engineers are needed in BlockFills](https://dev.to/jackpwatson888/senior-software-engineers-are-needed-in-blockfills-g1)
 - [Lifehacker] [This Viral Roasted Potato Recipe Tastes Like a Giant French Fry](https://lifehacker.com/food-drink/giant-roasted-potato-recipe)
-- [Dev.to/JS] [IDURAR Open Source React.js Node.js Project With 5K stars on Github to learn from](https://dev.to/idurar/idurar-open-sourcereactjs-nodejs-project-with-5k-stars-on-github-to-learn-from-5ac8)
 - [Lifehacker] [Netflix Is Nixing App Store Billing for Everyone](https://lifehacker.com/tech/netflix-is-nixing-app-store-billing-for-everyone)
 - [Lifehacker] [Apple Made a Sports Score App Without the Ads](https://lifehacker.com/tech/apple-sports-a-scores-app-without-the-ads)
-- [Dev.to/JS] [I&#39;m from a country you&#39;ve probably never heard of, and I work in companies from the US, how?](https://dev.to/nicolasmontielf/im-from-a-country-youve-probably-never-heard-of-and-i-work-in-companies-from-the-us-how-kch)
 - [Lifehacker] [The Out of Touch Adults’ Guide to Kid Culture: The TikTok Chocolate-Covered Strawberries, Explained](https://lifehacker.com/entertainment/tiktok-chocolate-covered-strawberries)
 - [Lifehacker] [You Can Now Replace Google Assistant With Microsoft&#39;s Copilot AI](https://lifehacker.com/tech/you-can-replace-google-assistant-with-microsofts-copilot-ai)
 - [Lifehacker] [The Best Budget ANC Earbuds Just Got Much Cheaper](https://lifehacker.com/tech/anker-space-a40-earbuds-sale)
