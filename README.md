@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Micro frontends in 1 minute](https://dev.to/tatakodzi/micro-frontends-in-1-minute-37an)
+- [Dev.to/JS] [Understanding OCR Software: A Comprehensive Guide](https://dev.to/ideradevtools/understanding-ocr-software-a-comprehensive-guide-4ami)
 - [Dev.to/JS] [Daily Code 75 | 🧮 Measuring Unit Converter](https://dev.to/gregor_schafroth/daily-code-75-currency-converter-1l41)
+- [Lifehacker] [The 26 Best War Movies Streaming Right Now](https://lifehacker.com/entertainment/best-war-movies-streaming-right-now)
 - [Dev.to/JS] [Building Silicon Juice - The application to scour for venture capital activity](https://dev.to/arjunrao87/building-silicon-juice-the-application-to-scour-for-venture-capital-activity-4kpe)
 - [Lifehacker] [Seven Mistakes to Avoid When Your Kid Is Sick](https://lifehacker.com/family/avoid-these-mistakes-when-your-kid-is-sick)
 - [Dev.to/JS] [Building Simple CRM with Vue: Crafting Layouts and Navigation](https://dev.to/webcraft-notes/building-simple-crm-with-vue-crafting-layouts-and-navigation-49oc)
@@ -34,12 +37,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hide &lpar;or Disable&rpar; Copilot in Windows 11](https://lifehacker.com/tech/how-to-hide-or-disable-copilot-in-windows-11)
 - [Dev.to/JS] [Converting an Array or NodeList to JSON in JavaScript](https://dev.to/sh20raj/-converting-an-array-or-nodelist-to-json-in-javascript-50kf)
 - [Dev.to/JS] [What&#39;s new in Next.js 14](https://dev.to/pagepro_agency/whats-new-in-nextjs-14-1160)
-- [Dev.to/JS] [clickbuycare](https://dev.to/clickbuycare/clickbuycare-4m7)
 - [Dev.to/JS] [Rockwin Casino Review: Your Ultimate Guide to a Top-Quality iGaming Experience](https://dev.to/weratrw/rockwin-casino-review-your-ultimate-guide-to-a-top-quality-igaming-experience-11mo)
 - [Dev.to/JS] [Dive into the Enchanting World of LuckLand: A One-of-a-Kind Online Casino Experience](https://dev.to/kiraaarew/dive-into-the-enchanting-world-of-luckland-a-one-of-a-kind-online-casino-experience-2f0h)
 - [Dev.to/JS] [I&#39;m Building a Full-Stack App: Here Are the Libraries I&#39;m Going to Use...](https://dev.to/copilotkit/im-building-a-full-stack-app-here-are-the-libraries-im-going-to-use-51nk)
 - [Dev.to/JS] [How to Use Artificial Intelligence in Your Investing in 2024](https://dev.to/topainewsindia/how-to-use-artificial-intelligence-in-your-investing-in-2024-4ch)
-- [Dev.to/JS] [What is the Difference between Spread and Rest Operator in JavaScript](https://dev.to/himanshudevgupta/what-is-the-difference-between-spread-and-rest-operator-in-javascript-2oa9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 28, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [All of Your Information That’s Publicly Available &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/tech/all-your-information-thats-publicly-available-what-to-do-about-it)
 - [Lifehacker] [The Fastest Ways to Save All Your Open Browser Tabs for Later](https://lifehacker.com/tech/how-to-save-all-your-open-tabs-in-safari-chrome-firefox)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These DeWalt Tools Are on Sale for Up to 61% Off Right Now](https://lifehacker.com/home/dewalt-tools-sale-amazon)
 - [Lifehacker] [Windows 11 Has a Free Video Editor Again &lpar;and It&#39;s Pretty Good&rpar;](https://lifehacker.com/tech/how-to-use-clipchamp-in-windows-11)
 - [Lifehacker] [You Can Get Rosetta Stone on Sale for $160 Right Now](https://lifehacker.com/rosetta-stone-sale)
-- [Lifehacker] [What&#39;s New on Max in March 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-march-2024)
-- [Lifehacker] [The 22 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Max in March 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-march-2024)<!-- TECH-POSTS:END -->
 
 ---
 
