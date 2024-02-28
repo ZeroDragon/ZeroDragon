@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AWS, Digital Ocean, Bluehost, GoDaddy, and E2E](https://dev.to/akmaurya31/aws-digital-ocean-bluehost-godaddy-and-e2e-8k5)
+- [Dev.to/JS] [Azure, AWS, and GCP](https://dev.to/akmaurya31/azure-aws-and-gcp-3f79)
+- [Dev.to/JS] [Azure, AWS &lpar;Amazon Web Services&rpar;, and GCP &lpar;Google Cloud Platform&rpar;](https://dev.to/akmaurya31/azure-aws-amazon-web-services-and-gcp-google-cloud-platform-35gg)
 - [Dev.to/JS] [How to Scrape Apple App Store Data](https://dev.to/crawlbase/how-to-scrape-apple-app-store-data-4oh)
 - [Dev.to/JS] [I&#39;d like to create a new CMS open-source](https://dev.to/vitalijalbu/id-like-to-create-a-new-cms-open-source-4h5a)
 - [Dev.to/JS] [Adding Sign In With Google To A Remix App From Scratch](https://dev.to/tmrc/adding-sign-in-with-google-to-a-remix-app-from-scratch-aon)
+- [Lifehacker] [How to Fill Out Your W-4 to Get More Money in Your Paycheck](https://lifehacker.com/money/fill-out-your-w-4-to-get-more-money-in-your-paycheck)
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/ehazardd893/buy-verified-cash-app-account-33e)
 - [Dev.to/JS] [CRUD in GraphQL MongoDB](https://dev.to/akmaurya31/crud-in-graphql-mongodb-5c65)
+- [Lifehacker] [Apple Music’s Daily ‘Heavy Rotation Mix’ Rounds up Your Most Played Songs](https://lifehacker.com/tech/apple-musics-heavy-rotation-playlist)
 - [Dev.to/JS] [microservices in React App](https://dev.to/akmaurya31/microservices-in-react-app-3lhj)
 - [Dev.to/JS] [microservices in React App](https://dev.to/akmaurya31/microservices-in-react-app-41l3)
 - [Dev.to/JS] [Microservices and a React app Part 1](https://dev.to/akmaurya31/microservices-and-a-react-app-part-1-5dga)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/ehazardd893/buy-google-reviews-4p02)
-- [Dev.to/JS] [Construyendo un mapa para aprender sobre el Back-end](https://dev.to/javascriptchile/construyendo-un-mapa-para-aprender-sobre-el-back-end-1dee)
-- [Dev.to/JS] [Markdown vs HTML : Choosing the Right for Web Development](https://dev.to/speaklouder/markdown-vs-html-choosing-the-right-for-web-development-gfk)
 - [Lifehacker] [You Can Get the Apple Watch Series 8 for $200 Off](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
-- [Dev.to/JS] [Primitive and Non-Primitive &lpar;Object&rpar; Data Types](https://dev.to/akmaurya31/primitive-and-non-primitive-object-data-types-3g51)
 - [Lifehacker] [Mona Is the Best Mastodon Client for iOS](https://lifehacker.com/tech/mona-best-mastodon-client)
 - [Lifehacker] [Your Tool Kit Needs a Magnetizer](https://lifehacker.com/home/tool-kit-needs-magnetizer)
 - [Lifehacker] [How to Create a Modern Mixtape](https://lifehacker.com/tech/how-to-create-a-modern-mixtape)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $180 Right Now](https://lifehacker.com/entertainment/curiosity-stream-sale)
 - [Lifehacker] [You Can Now Bookmark Your Favorite Posts in Threads](https://lifehacker.com/tech/you-can-now-bookmark-your-favorite-posts-in-threads)
 - [Lifehacker] [This Is the Best Mozzarella Cheese for Cooking](https://lifehacker.com/food-drink/the-best-mozzarella-cheese-for-cooking)
-- [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2024](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
-- [Lifehacker] [Samsung Wants You to Experience Galaxy AI on Your Non-Galaxy Android Phone](https://lifehacker.com/tech/samsung-wants-you-to-experience-galaxy-ai-on-your-non-galaxy-phone)
-- [Lifehacker] [The iRobot Roomba Combo i5+ Is $250 Off &lpar;but Hurry Up&rpar;](https://lifehacker.com/home/irobot-roomba-combo-i5-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2024](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)<!-- TECH-POSTS:END -->
 
 ---
 
