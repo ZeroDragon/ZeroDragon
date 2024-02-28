@@ -26,9 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Scrape Samsung Products](https://dev.to/crawlbase/how-to-scrape-samsung-products-bi8)
+- [Dev.to/JS] [Handshake: Next.js boilerplate for OAuth with 200+ APIs](https://dev.to/felipap/handshake-nextjs-boilerplate-for-oauth-with-200-apis-k84)
+- [Lifehacker] [Google Maps&#39; &#39;Glanceable Directions&#39; Are Here](https://lifehacker.com/tech/google-maps-glanceable-directions-are-here)
+- [Dev.to/JS] [Lessons from opensource: Add a defensive type-safe error handler in your catch block](https://dev.to/ramunarasinga/lessons-from-opensource-add-a-defensive-type-safe-error-handler-in-your-catch-block-3em1)
+- [Lifehacker] [How to Use an Instant Pot, Button by Button](https://lifehacker.com/how-to-use-instant-pot)
 - [Dev.to/JS] [AWS, Digital Ocean, Bluehost, GoDaddy, and E2E](https://dev.to/akmaurya31/aws-digital-ocean-bluehost-godaddy-and-e2e-8k5)
 - [Dev.to/JS] [Azure, AWS, and GCP](https://dev.to/akmaurya31/azure-aws-and-gcp-3f79)
 - [Dev.to/JS] [Azure, AWS &lpar;Amazon Web Services&rpar;, and GCP &lpar;Google Cloud Platform&rpar;](https://dev.to/akmaurya31/azure-aws-amazon-web-services-and-gcp-google-cloud-platform-35gg)
+- [Lifehacker] [The Amazon Fire Max 11 Is $90 Off Right Now](https://lifehacker.com/tech/the-amazon-fire-max-11-is-90-off-right-now)
+- [Lifehacker] [Tumblr and WordPress Are Selling Your Data to AI Companies](https://lifehacker.com/tech/tumblr-and-wordpress-are-selling-your-data-to-ai-companies)
 - [Dev.to/JS] [How to Scrape Apple App Store Data](https://dev.to/crawlbase/how-to-scrape-apple-app-store-data-4oh)
 - [Dev.to/JS] [I&#39;d like to create a new CMS open-source](https://dev.to/vitalijalbu/id-like-to-create-a-new-cms-open-source-4h5a)
 - [Dev.to/JS] [Adding Sign In With Google To A Remix App From Scratch](https://dev.to/tmrc/adding-sign-in-with-google-to-a-remix-app-from-scratch-aon)
@@ -37,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CRUD in GraphQL MongoDB](https://dev.to/akmaurya31/crud-in-graphql-mongodb-5c65)
 - [Lifehacker] [Apple Music’s Daily ‘Heavy Rotation Mix’ Rounds up Your Most Played Songs](https://lifehacker.com/tech/apple-musics-heavy-rotation-playlist)
 - [Dev.to/JS] [microservices in React App](https://dev.to/akmaurya31/microservices-in-react-app-3lhj)
-- [Dev.to/JS] [microservices in React App](https://dev.to/akmaurya31/microservices-in-react-app-41l3)
-- [Dev.to/JS] [Microservices and a React app Part 1](https://dev.to/akmaurya31/microservices-and-a-react-app-part-1-5dga)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/ehazardd893/buy-google-reviews-4p02)
 - [Lifehacker] [You Can Get the Apple Watch Series 8 for $200 Off](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [Mona Is the Best Mastodon Client for iOS](https://lifehacker.com/tech/mona-best-mastodon-client)
 - [Lifehacker] [Your Tool Kit Needs a Magnetizer](https://lifehacker.com/home/tool-kit-needs-magnetizer)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in March 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-march-2024)
 - [Lifehacker] [The Apple Car Is Dead](https://lifehacker.com/tech/the-apple-car-is-dead)
 - [Lifehacker] [Google’s AI Can Make You a Custom Video Game](https://lifehacker.com/tech/googles-ai-can-now-create-video-games)
-- [Lifehacker] [How to Choose Between the OnePlus Watch 2 and the Pixel Watch 2](https://lifehacker.com/tech/oneplus-watch-2-vs-pixel-watch-2)
-- [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $180 Right Now](https://lifehacker.com/entertainment/curiosity-stream-sale)
-- [Lifehacker] [You Can Now Bookmark Your Favorite Posts in Threads](https://lifehacker.com/tech/you-can-now-bookmark-your-favorite-posts-in-threads)
-- [Lifehacker] [This Is the Best Mozzarella Cheese for Cooking](https://lifehacker.com/food-drink/the-best-mozzarella-cheese-for-cooking)
-- [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2024](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose Between the OnePlus Watch 2 and the Pixel Watch 2](https://lifehacker.com/tech/oneplus-watch-2-vs-pixel-watch-2)<!-- TECH-POSTS:END -->
 
 ---
 
