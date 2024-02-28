@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Senior Software Engineers are needed in BlockFills](https://dev.to/jackpwatson888/senior-software-engineers-are-needed-in-blockfills-g1)
 - [Dev.to/JS] [IDURAR Open Source React.js Node.js Project With 5K stars on Github to learn from](https://dev.to/idurar/idurar-open-sourcereactjs-nodejs-project-with-5k-stars-on-github-to-learn-from-5ac8)
+- [Lifehacker] [Netflix Is Nixing App Store Billing for Everyone](https://lifehacker.com/tech/netflix-is-nixing-app-store-billing-for-everyone)
+- [Lifehacker] [Apple Made a Sports Score App Without the Ads](https://lifehacker.com/tech/apple-sports-a-scores-app-without-the-ads)
 - [Dev.to/JS] [I&#39;m from a country you&#39;ve probably never heard of, and I work in companies from the US, how?](https://dev.to/nicolasmontielf/im-from-a-country-youve-probably-never-heard-of-and-i-work-in-companies-from-the-us-how-kch)
+- [Lifehacker] [The Out of Touch Adults’ Guide to Kid Culture: The TikTok Chocolate-Covered Strawberries, Explained](https://lifehacker.com/entertainment/tiktok-chocolate-covered-strawberries)
 - [Dev.to/JS] [Lessons from opensource: How to use pipeline in Nodejs?](https://dev.to/ramunarasinga/lessons-from-opensource-how-to-use-pipeline-in-nodejs-bj)
 - [Lifehacker] [You Can Now Replace Google Assistant With Microsoft&#39;s Copilot AI](https://lifehacker.com/tech/you-can-replace-google-assistant-with-microsofts-copilot-ai)
 - [Lifehacker] [The Best Budget ANC Earbuds Just Got Much Cheaper](https://lifehacker.com/tech/anker-space-a40-earbuds-sale)
@@ -49,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next Js - Interview Experience.](https://dev.to/pratham0182/next-js-interview-experience-bba)
 - [Dev.to/JS] [Introducción sobre el desarrollo de apps nativas para Ubuntu Touch](https://dev.to/lirrums/introduccion-sobre-el-desarrollo-de-apps-nativas-para-ubuntu-touch-2fbi)
 - [Lifehacker] [The iRobot Roomba Combo i5+ Is $250 Off &lpar;but Hurry Up&rpar;](https://lifehacker.com/home/irobot-roomba-combo-i5-sale)
-- [Dev.to/JS] [RESTful API CRUD Node, Express, MongoDB Atlas, Mongoose, #Hosting on Render #POSTMAN](https://dev.to/swapnanilwebdeveloper/restful-api-crud-node-express-mongodb-atlas-mongoose-hosting-on-render-postman-219)
 - [Lifehacker] [This Qualcomm Snapdragon Console Is on Sale for $100 Right Now](https://lifehacker.com/tech/qualcomm-snapdragon-console-sale)
 - [Lifehacker] [The Best Ways to Overcome Home Maintenance Anxiety](https://lifehacker.com/home/overcome-home-maintenance-anxiety)
 - [Lifehacker] [These DeWalt Tools Are on Sale for Up to 61% Off Right Now](https://lifehacker.com/home/dewalt-tools-sale-amazon)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in March 2024](https://lifehacker.com/entertainment/new-on-paramount-with-showtime-in-march-2024)
 - [Lifehacker] [The Boox Palma Is a Nearly Perfect Phone-sized E-reader](https://lifehacker.com/tech/boox-palma-e-reader-review)
-- [Lifehacker] [How to Try Microsoft&#39;s &#39;Circle to Copilot&#39; Feature](https://lifehacker.com/tech/how-to-screenshot-to-copilot)
-- [Lifehacker] [These Business-grade Samsung Laptops Are up to 35% Off](https://lifehacker.com/tech/business-samsung-galaxy-book3-and-book3-pro-sale)
-- [Lifehacker] [The 10 Most Common Gym Machines &lpar;and How to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-gym-machines-and-how-to-use-them-1848417507)
-- [Lifehacker] [The Best Apps That Use Apple&#39;s Live Activities](https://lifehacker.com/tech/best-iphone-apps-that-use-live-activities)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Try Microsoft&#39;s &#39;Circle to Copilot&#39; Feature](https://lifehacker.com/tech/how-to-screenshot-to-copilot)<!-- TECH-POSTS:END -->
 
 ---
 
