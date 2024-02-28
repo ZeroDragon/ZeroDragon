@@ -26,22 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [microservices in React App](https://dev.to/akmaurya31/microservices-in-react-app-3lhj)
+- [Dev.to/JS] [microservices in React App](https://dev.to/akmaurya31/microservices-in-react-app-41l3)
+- [Dev.to/JS] [Microservices and a React app Part 1](https://dev.to/akmaurya31/microservices-and-a-react-app-part-1-5dga)
+- [Dev.to/JS] [Buy Google Reviews](https://dev.to/ehazardd893/buy-google-reviews-4p02)
+- [Dev.to/JS] [Construyendo un mapa para aprender sobre el Back-end](https://dev.to/javascriptchile/construyendo-un-mapa-para-aprender-sobre-el-back-end-1dee)
+- [Dev.to/JS] [Markdown vs HTML : Choosing the Right for Web Development](https://dev.to/speaklouder/markdown-vs-html-choosing-the-right-for-web-development-gfk)
+- [Dev.to/JS] [Primitive and Non-Primitive &lpar;Object&rpar; Data Types](https://dev.to/akmaurya31/primitive-and-non-primitive-object-data-types-3g51)
+- [Dev.to/JS] [How to make Random Quote Generator](https://dev.to/hasnainali313/how-to-make-random-quote-generator-27fj)
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/ehazardd893/buy-google-5-star-reviews-55dl)
 - [Dev.to/JS] [Joining the &lpar;Module&rpar; Federation](https://dev.to/eidellev/joining-the-module-federation-4nnl)
+- [Lifehacker] [Mona Is the Best Mastodon Client for iOS](https://lifehacker.com/tech/mona-best-mastodon-client)
 - [Dev.to/JS] [TresJs por una web con más 3D](https://dev.to/javascriptchile/tresjs-por-una-web-con-mas-3d-39d4)
 - [Dev.to/JS] [Model Inputs: Reactive Two-Way Binding](https://dev.to/this-is-angular/model-inputs-reactive-two-way-binding-2538)
-- [Dev.to/JS] [What is Acertenity UI?](https://dev.to/richardshaju/what-is-acertenity-ui-2fgi)
-- [Dev.to/JS] [Hashing Password And Generating User Token In Your Schema](https://dev.to/fredabod/hashing-password-and-generating-user-token-in-your-schema-3803)
-- [Dev.to/JS] [How to Generate and Consume APIs: A Deep Dive into Swagger Codegen and OpenAPI Generator](https://dev.to/syncloop_dev/how-to-generate-and-consume-apis-a-deep-dive-into-swagger-codegen-and-openapi-generator-5gan)
+- [Lifehacker] [Your Tool Kit Needs a Magnetizer](https://lifehacker.com/home/tool-kit-needs-magnetizer)
 - [Lifehacker] [How to Create a Modern Mixtape](https://lifehacker.com/tech/how-to-create-a-modern-mixtape)
-- [Dev.to/JS] [You are Wrong. Frameworks Do Matter](https://dev.to/mohammadfaisal/you-are-wrong-frameworks-do-matter-dfm)
-- [Dev.to/JS] [Get and Set the Scroll Position of an Element with React Hook](https://dev.to/fpaghar/get-and-set-the-scroll-position-of-an-element-with-react-hook-4ooa)
 - [Lifehacker] [Ride1Up&#39;s Portola Is a Budget-friendly, Foldable E-bike](https://lifehacker.com/tech/ride1ups-portola-ebike-review)
-- [Dev.to/JS] [Micro frontends in 1 minute](https://dev.to/tatakodzi/micro-frontends-in-1-minute-37an)
 - [Lifehacker] [The Best Ways to Keep Potholes From Destroying Your Car](https://lifehacker.com/travel/best-ways-to-keep-potholes-from-destroying-your-car)
-- [Dev.to/JS] [Understanding OCR Software: A Comprehensive Guide](https://dev.to/ideradevtools/understanding-ocr-software-a-comprehensive-guide-4ami)
-- [Dev.to/JS] [Daily Code 75 | 🧮 Measuring Unit Converter](https://dev.to/gregor_schafroth/daily-code-75-currency-converter-1l41)
 - [Lifehacker] [The 26 Best War Movies Streaming Right Now](https://lifehacker.com/entertainment/best-war-movies-streaming-right-now)
-- [Dev.to/JS] [Building Silicon Juice - The application to scour for venture capital activity](https://dev.to/arjunrao87/building-silicon-juice-the-application-to-scour-for-venture-capital-activity-4kpe)
 - [Lifehacker] [Seven Mistakes to Avoid When Your Kid Is Sick](https://lifehacker.com/family/avoid-these-mistakes-when-your-kid-is-sick)
 - [Lifehacker] [How to Hide &lpar;or Disable&rpar; Copilot in Windows 11](https://lifehacker.com/tech/how-to-hide-or-disable-copilot-in-windows-11)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 28, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2024](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
 - [Lifehacker] [Samsung Wants You to Experience Galaxy AI on Your Non-Galaxy Android Phone](https://lifehacker.com/tech/samsung-wants-you-to-experience-galaxy-ai-on-your-non-galaxy-phone)
 - [Lifehacker] [The iRobot Roomba Combo i5+ Is $250 Off &lpar;but Hurry Up&rpar;](https://lifehacker.com/home/irobot-roomba-combo-i5-sale)
-- [Lifehacker] [This Qualcomm Snapdragon Console Is on Sale for $100 Right Now](https://lifehacker.com/tech/qualcomm-snapdragon-console-sale)
-- [Lifehacker] [The Best Ways to Overcome Home Maintenance Anxiety](https://lifehacker.com/home/overcome-home-maintenance-anxiety)
-- [Lifehacker] [These DeWalt Tools Are on Sale for Up to 61% Off Right Now](https://lifehacker.com/home/dewalt-tools-sale-amazon)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Qualcomm Snapdragon Console Is on Sale for $100 Right Now](https://lifehacker.com/tech/qualcomm-snapdragon-console-sale)<!-- TECH-POSTS:END -->
 
 ---
 
