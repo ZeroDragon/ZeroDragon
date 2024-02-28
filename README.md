@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All of Your Information That’s Publicly Available &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/tech/all-your-information-thats-publicly-available-what-to-do-about-it)
+- [Lifehacker] [The Fastest Ways to Save All Your Open Browser Tabs for Later](https://lifehacker.com/tech/how-to-save-all-your-open-tabs-in-safari-chrome-firefox)
 - [Dev.to/JS] [Senior Software Engineers are needed in BlockFills](https://dev.to/jackpwatson888/senior-software-engineers-are-needed-in-blockfills-g1)
 - [Lifehacker] [This Viral Roasted Potato Recipe Tastes Like a Giant French Fry](https://lifehacker.com/food-drink/giant-roasted-potato-recipe)
 - [Dev.to/JS] [IDURAR Open Source React.js Node.js Project With 5K stars on Github to learn from](https://dev.to/idurar/idurar-open-sourcereactjs-nodejs-project-with-5k-stars-on-github-to-learn-from-5ac8)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 22 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 27, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [What to Do If You Haven&#39;t Filed Your Taxes in Years](https://lifehacker.com/what-to-do-if-you-havent-filed-taxes-in-years)
-- [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)
-- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in March 2024](https://lifehacker.com/entertainment/new-on-paramount-with-showtime-in-march-2024)
-- [Lifehacker] [The Boox Palma Is a Nearly Perfect Phone-sized E-reader](https://lifehacker.com/tech/boox-palma-e-reader-review)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)<!-- TECH-POSTS:END -->
 
 ---
 
