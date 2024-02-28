@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Generate and Consume APIs: A Deep Dive into Swagger Codegen and OpenAPI Generator](https://dev.to/syncloop_dev/how-to-generate-and-consume-apis-a-deep-dive-into-swagger-codegen-and-openapi-generator-5gan)
+- [Dev.to/JS] [You are Wrong. Frameworks Do Matter](https://dev.to/mohammadfaisal/you-are-wrong-frameworks-do-matter-dfm)
+- [Dev.to/JS] [Get and Set the Scroll Position of an Element with React Hook](https://dev.to/fpaghar/get-and-set-the-scroll-position-of-an-element-with-react-hook-4ooa)
+- [Lifehacker] [Ride1Up&#39;s Portola Is a Budget-friendly, Foldable E-bike](https://lifehacker.com/tech/ride1ups-portola-ebike-review)
 - [Dev.to/JS] [Micro frontends in 1 minute](https://dev.to/tatakodzi/micro-frontends-in-1-minute-37an)
+- [Lifehacker] [The Best Ways to Keep Potholes From Destroying Your Car](https://lifehacker.com/travel/best-ways-to-keep-potholes-from-destroying-your-car)
 - [Dev.to/JS] [Understanding OCR Software: A Comprehensive Guide](https://dev.to/ideradevtools/understanding-ocr-software-a-comprehensive-guide-4ami)
 - [Dev.to/JS] [Daily Code 75 | 🧮 Measuring Unit Converter](https://dev.to/gregor_schafroth/daily-code-75-currency-converter-1l41)
 - [Lifehacker] [The 26 Best War Movies Streaming Right Now](https://lifehacker.com/entertainment/best-war-movies-streaming-right-now)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Converting an Array or NodeList to JSON in JavaScript](https://dev.to/sh20raj/-converting-an-array-or-nodelist-to-json-in-javascript-50kf)
 - [Dev.to/JS] [What&#39;s new in Next.js 14](https://dev.to/pagepro_agency/whats-new-in-nextjs-14-1160)
 - [Dev.to/JS] [Rockwin Casino Review: Your Ultimate Guide to a Top-Quality iGaming Experience](https://dev.to/weratrw/rockwin-casino-review-your-ultimate-guide-to-a-top-quality-igaming-experience-11mo)
-- [Dev.to/JS] [Dive into the Enchanting World of LuckLand: A One-of-a-Kind Online Casino Experience](https://dev.to/kiraaarew/dive-into-the-enchanting-world-of-luckland-a-one-of-a-kind-online-casino-experience-2f0h)
-- [Dev.to/JS] [I&#39;m Building a Full-Stack App: Here Are the Libraries I&#39;m Going to Use...](https://dev.to/copilotkit/im-building-a-full-stack-app-here-are-the-libraries-im-going-to-use-51nk)
-- [Dev.to/JS] [How to Use Artificial Intelligence in Your Investing in 2024](https://dev.to/topainewsindia/how-to-use-artificial-intelligence-in-your-investing-in-2024-4ch)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 28, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [All of Your Information That’s Publicly Available &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/tech/all-your-information-thats-publicly-available-what-to-do-about-it)
 - [Lifehacker] [The Fastest Ways to Save All Your Open Browser Tabs for Later](https://lifehacker.com/tech/how-to-save-all-your-open-tabs-in-safari-chrome-firefox)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Qualcomm Snapdragon Console Is on Sale for $100 Right Now](https://lifehacker.com/tech/qualcomm-snapdragon-console-sale)
 - [Lifehacker] [The Best Ways to Overcome Home Maintenance Anxiety](https://lifehacker.com/home/overcome-home-maintenance-anxiety)
 - [Lifehacker] [These DeWalt Tools Are on Sale for Up to 61% Off Right Now](https://lifehacker.com/home/dewalt-tools-sale-amazon)
-- [Lifehacker] [Windows 11 Has a Free Video Editor Again &lpar;and It&#39;s Pretty Good&rpar;](https://lifehacker.com/tech/how-to-use-clipchamp-in-windows-11)
-- [Lifehacker] [You Can Get Rosetta Stone on Sale for $160 Right Now](https://lifehacker.com/rosetta-stone-sale)
-- [Lifehacker] [What&#39;s New on Max in March 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-march-2024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Windows 11 Has a Free Video Editor Again &lpar;and It&#39;s Pretty Good&rpar;](https://lifehacker.com/tech/how-to-use-clipchamp-in-windows-11)<!-- TECH-POSTS:END -->
 
 ---
 
