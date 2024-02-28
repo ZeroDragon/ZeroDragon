@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Aplicație ce afișează citate în limba română](https://dev.to/rawkfx/aplicatie-de-afisarea-de-citate-in-limba-romana-19pd)
+- [Dev.to/JS] [Converting an Array or NodeList to JSON in JavaScript](https://dev.to/sh20raj/-converting-an-array-or-nodelist-to-json-in-javascript-50kf)
+- [Dev.to/JS] [What&#39;s new in Next.js 14](https://dev.to/pagepro_agency/whats-new-in-nextjs-14-1160)
 - [Dev.to/JS] [clickbuycare](https://dev.to/clickbuycare/clickbuycare-4m7)
 - [Dev.to/JS] [Rockwin Casino Review: Your Ultimate Guide to a Top-Quality iGaming Experience](https://dev.to/weratrw/rockwin-casino-review-your-ultimate-guide-to-a-top-quality-igaming-experience-11mo)
 - [Dev.to/JS] [Dive into the Enchanting World of LuckLand: A One-of-a-Kind Online Casino Experience](https://dev.to/kiraaarew/dive-into-the-enchanting-world-of-luckland-a-one-of-a-kind-online-casino-experience-2f0h)
 - [Dev.to/JS] [I&#39;m Building a Full-Stack App: Here Are the Libraries I&#39;m Going to Use...](https://dev.to/copilotkit/im-building-a-full-stack-app-here-are-the-libraries-im-going-to-use-51nk)
 - [Dev.to/JS] [How to Use Artificial Intelligence in Your Investing in 2024](https://dev.to/topainewsindia/how-to-use-artificial-intelligence-in-your-investing-in-2024-4ch)
 - [Dev.to/JS] [What is the Difference between Spread and Rest Operator in JavaScript](https://dev.to/himanshudevgupta/what-is-the-difference-between-spread-and-rest-operator-in-javascript-2oa9)
-- [Dev.to/JS] [What is Vite? A Game-Changer for Frontend Development 🚀](https://dev.to/codeparrot/what-is-vite-a-game-changer-for-frontend-development-15a6)
+- [Dev.to/JS] [Decrease your build times by 90% with Vite 😀](https://dev.to/codeparrot/what-is-vite-a-game-changer-for-frontend-development-15a6)
 - [Dev.to/JS] [How to Use a CAS 002 Braindump to Identify Important Exam Topics](https://dev.to/imar1974/how-to-use-a-cas-002-braindump-to-identify-important-exam-topics-13da)
 - [Dev.to/JS] [What is Server Side Rendering &lpar;SSR&rpar; and Static Site Generation &lpar;SSG&rpar;?](https://dev.to/codesensei/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-21lh)
-- [Dev.to/JS] [Side projects &lpar;sometimes&rpar; pay off](https://dev.to/stipegrbic/side-projects-sometimes-pay-off-5336)
-- [Dev.to/JS] [JavaScript Design Patterns - Creational - Prototype](https://dev.to/nhannguyendevjs/javascript-design-patterns-creational-prototype-4e84)
-- [Dev.to/JS] [Query Postgres from Netlify Functions with Neon serverless driver](https://dev.to/hackmamba/query-postgres-from-netlify-functions-with-neon-serverless-driver-33f)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 28, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [All of Your Information That’s Publicly Available &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/tech/all-your-information-thats-publicly-available-what-to-do-about-it)
 - [Lifehacker] [The Fastest Ways to Save All Your Open Browser Tabs for Later](https://lifehacker.com/tech/how-to-save-all-your-open-tabs-in-safari-chrome-firefox)
