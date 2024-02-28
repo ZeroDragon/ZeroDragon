@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Vite? A Game-Changer for Frontend Development 🚀](https://dev.to/codeparrot/what-is-vite-a-game-changer-for-frontend-development-15a6)
+- [Dev.to/JS] [How to Use a CAS 002 Braindump to Identify Important Exam Topics](https://dev.to/imar1974/how-to-use-a-cas-002-braindump-to-identify-important-exam-topics-13da)
+- [Dev.to/JS] [What is Server Side Rendering &lpar;SSR&rpar; and Static Site Generation &lpar;SSG&rpar;?](https://dev.to/codesensei/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-21lh)
+- [Dev.to/JS] [Side projects &lpar;sometimes&rpar; pay off](https://dev.to/stipegrbic/side-projects-sometimes-pay-off-5336)
 - [Dev.to/JS] [JavaScript Design Patterns - Creational - Prototype](https://dev.to/nhannguyendevjs/javascript-design-patterns-creational-prototype-4e84)
 - [Dev.to/JS] [Query Postgres from Netlify Functions with Neon serverless driver](https://dev.to/hackmamba/query-postgres-from-netlify-functions-with-neon-serverless-driver-33f)
 - [Dev.to/JS] [Navigating the Digital Frontier: Insights into Web Apps Development](https://dev.to/siroce/navigating-the-digital-frontier-insights-into-web-apps-development-3b2b)
@@ -33,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tải App Win55 – Hướng Dẫn Tải App Tham Gia Cá Cược.](https://dev.to/win55appscom/tai-app-win55-huong-dan-tai-app-tham-gia-ca-cuoc-5cja)
 - [Dev.to/JS] [Next.js File Upload: The Ultimate Lightweight Solution for Effortless File Handling and Integration With Next.js Project](https://dev.to/rupomsoft/nextjs-file-upload-the-ultimate-lightweight-solution-for-effortless-file-handling-and-integration-with-nextjs-project-4hja)
 - [Dev.to/JS] [Creating a seamless multi-language user interface in React](https://dev.to/honeybadger/creating-a-seamless-multi-language-user-interface-in-react-1jdj)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 28, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Diacritic-insensitive string comparison in JavaScript](https://dev.to/clarity89/diacritic-insensitive-string-comparison-in-javascript-252m)
-- [Dev.to/JS] [Piral Feed Service 1.13](https://dev.to/smapiot/piral-feed-service-113-43lk)
-- [Dev.to/JS] [Managing unexpected data at runtime in Typescript](https://dev.to/pathakpratik/managing-unexpected-data-at-runtime-in-typescript-1lb4)
-- [Dev.to/JS] [What is Javascript Singleton Object with example](https://dev.to/himanshudevgupta/what-is-javascript-singleton-object-with-example-4fp3)
-- [Dev.to/JS] [What Is a Static Site?](https://dev.to/lytecms/what-is-a-static-site-29pc)
 - [Lifehacker] [All of Your Information That’s Publicly Available &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/tech/all-your-information-thats-publicly-available-what-to-do-about-it)
 - [Lifehacker] [The Fastest Ways to Save All Your Open Browser Tabs for Later](https://lifehacker.com/tech/how-to-save-all-your-open-tabs-in-safari-chrome-firefox)
 - [Lifehacker] [This Viral Roasted Potato Recipe Tastes Like a Giant French Fry](https://lifehacker.com/food-drink/giant-roasted-potato-recipe)
@@ -63,7 +64,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Rosetta Stone on Sale for $160 Right Now](https://lifehacker.com/rosetta-stone-sale)
 - [Lifehacker] [What&#39;s New on Max in March 2024](https://lifehacker.com/entertainment/whats-new-on-max-in-march-2024)
 - [Lifehacker] [The 22 Best Oscar-winning Movies on Netflix Right Now](https://lifehacker.com/entertainment/best-oscar-winning-movies-netflix)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Tuesday, February 27, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [What to Do If You Haven&#39;t Filed Your Taxes in Years](https://lifehacker.com/what-to-do-if-you-havent-filed-taxes-in-years)
 - [Lifehacker] [You Can Get Microsoft Project Pro 2021 on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-project-pro-sale)<!-- TECH-POSTS:END -->
 
