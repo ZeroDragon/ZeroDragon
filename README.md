@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [IDURAR Open Source React.js Node.js Project With 5K stars on Github to learn from](https://dev.to/idurar/idurar-open-sourcereactjs-nodejs-project-with-5k-stars-on-github-to-learn-from-5ac8)
+- [Dev.to/JS] [I&#39;m from a country you&#39;ve probably never heard of, and I work in companies from the US, how?](https://dev.to/nicolasmontielf/im-from-a-country-youve-probably-never-heard-of-and-i-work-in-companies-from-the-us-how-kch)
 - [Dev.to/JS] [Lessons from opensource: How to use pipeline in Nodejs?](https://dev.to/ramunarasinga/lessons-from-opensource-how-to-use-pipeline-in-nodejs-bj)
+- [Lifehacker] [You Can Now Replace Google Assistant With Microsoft&#39;s Copilot AI](https://lifehacker.com/tech/you-can-replace-google-assistant-with-microsofts-copilot-ai)
+- [Lifehacker] [The Best Budget ANC Earbuds Just Got Much Cheaper](https://lifehacker.com/tech/anker-space-a40-earbuds-sale)
 - [Dev.to/JS] [🍞 Bun, A Faster JavaScript Runtime](https://dev.to/lundjrl/bun-a-faster-javascript-runtime-jph)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in March 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-march-2024)
 - [Lifehacker] [The Apple Car Is Dead](https://lifehacker.com/tech/the-apple-car-is-dead)
@@ -47,8 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The iRobot Roomba Combo i5+ Is $250 Off &lpar;but Hurry Up&rpar;](https://lifehacker.com/home/irobot-roomba-combo-i5-sale)
 - [Dev.to/JS] [RESTful API CRUD Node, Express, MongoDB Atlas, Mongoose, #Hosting on Render #POSTMAN](https://dev.to/swapnanilwebdeveloper/restful-api-crud-node-express-mongodb-atlas-mongoose-hosting-on-render-postman-219)
 - [Lifehacker] [This Qualcomm Snapdragon Console Is on Sale for $100 Right Now](https://lifehacker.com/tech/qualcomm-snapdragon-console-sale)
-- [Dev.to/JS] [Daily Code 74 | 🏀 Basketball Score Board](https://dev.to/gregor_schafroth/daily-code-74-basketball-score-board-3e3n)
-- [Dev.to/JS] [What are React Server Components &lpar;RSCs&rpar;?](https://dev.to/this-is-learning/what-are-react-server-components-rscs-1d8c)
 - [Lifehacker] [The Best Ways to Overcome Home Maintenance Anxiety](https://lifehacker.com/home/overcome-home-maintenance-anxiety)
 - [Lifehacker] [These DeWalt Tools Are on Sale for Up to 61% Off Right Now](https://lifehacker.com/home/dewalt-tools-sale-amazon)
 - [Lifehacker] [Windows 11 Has a Free Video Editor Again &lpar;and It&#39;s Pretty Good&rpar;](https://lifehacker.com/tech/how-to-use-clipchamp-in-windows-11)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Try Microsoft&#39;s &#39;Circle to Copilot&#39; Feature](https://lifehacker.com/tech/how-to-screenshot-to-copilot)
 - [Lifehacker] [These Business-grade Samsung Laptops Are up to 35% Off](https://lifehacker.com/tech/business-samsung-galaxy-book3-and-book3-pro-sale)
 - [Lifehacker] [The 10 Most Common Gym Machines &lpar;and How to Use Them&rpar;](https://lifehacker.com/10-of-the-most-common-gym-machines-and-how-to-use-them-1848417507)
-- [Lifehacker] [The Best Apps That Use Apple&#39;s Live Activities](https://lifehacker.com/tech/best-iphone-apps-that-use-live-activities)
-- [Lifehacker] [The Best Gluten-free Grocery Store Frozen Pizzas](https://lifehacker.com/food-drink/best-gluten-free-frozen-pizzas)
-- [Lifehacker] [Where to Stream Every Nominated Movie Before the 2024 Oscars](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Apps That Use Apple&#39;s Live Activities](https://lifehacker.com/tech/best-iphone-apps-that-use-live-activities)<!-- TECH-POSTS:END -->
 
 ---
 
