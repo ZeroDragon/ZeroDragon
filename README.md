@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Is a Static Site?](https://dev.to/lytecms/what-is-a-static-site-29pc)
+- [Dev.to/JS] [Enhancing Your Website: The Art of WordPress Theme Integration](https://dev.to/jamesmartindev/enhancing-your-website-the-art-of-wordpress-theme-integration-54o0)
 - [Dev.to/JS] [Building RESTful APIs with Node.js and Express: A Comprehensive Guide](https://dev.to/nitin-rachabathuni/building-restful-apis-with-nodejs-and-express-a-comprehensive-guide-224a)
 - [Dev.to/JS] [Tải app K8vin | Ứng dụng giải trí đẳng cấp số 1 tại Việt Nam.](https://dev.to/k8vinco/tai-app-k8vin-ung-dung-giai-tri-dang-cap-so-1-tai-viet-nam-1hj5)
 - [Dev.to/JS] [Create NextJS Project with Typescript and Tailwind CSS](https://dev.to/venom4171/create-nextjs-project-with-typescript-and-tailwind-css-579k)
@@ -42,10 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Made a Sports Score App Without the Ads](https://lifehacker.com/tech/apple-sports-a-scores-app-without-the-ads)
 - [Dev.to/JS] [I&#39;m from a country you&#39;ve probably never heard of, and I work in companies from the US, how?](https://dev.to/nicolasmontielf/im-from-a-country-youve-probably-never-heard-of-and-i-work-in-companies-from-the-us-how-kch)
 - [Lifehacker] [The Out of Touch Adults’ Guide to Kid Culture: The TikTok Chocolate-Covered Strawberries, Explained](https://lifehacker.com/entertainment/tiktok-chocolate-covered-strawberries)
-- [Dev.to/JS] [Lessons from opensource: How to use pipeline in Nodejs?](https://dev.to/ramunarasinga/lessons-from-opensource-how-to-use-pipeline-in-nodejs-bj)
 - [Lifehacker] [You Can Now Replace Google Assistant With Microsoft&#39;s Copilot AI](https://lifehacker.com/tech/you-can-replace-google-assistant-with-microsofts-copilot-ai)
 - [Lifehacker] [The Best Budget ANC Earbuds Just Got Much Cheaper](https://lifehacker.com/tech/anker-space-a40-earbuds-sale)
-- [Dev.to/JS] [🍞 Bun, A Faster JavaScript Runtime](https://dev.to/lundjrl/bun-a-faster-javascript-runtime-jph)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in March 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-march-2024)
 - [Lifehacker] [The Apple Car Is Dead](https://lifehacker.com/tech/the-apple-car-is-dead)
 - [Lifehacker] [Google’s AI Can Make You a Custom Video Game](https://lifehacker.com/tech/googles-ai-can-now-create-video-games)
