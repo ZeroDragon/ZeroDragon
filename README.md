@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Scrape Apple App Store Data](https://dev.to/crawlbase/how-to-scrape-apple-app-store-data-4oh)
+- [Dev.to/JS] [I&#39;d like to create a new CMS open-source](https://dev.to/vitalijalbu/id-like-to-create-a-new-cms-open-source-4h5a)
+- [Dev.to/JS] [Adding Sign In With Google To A Remix App From Scratch](https://dev.to/tmrc/adding-sign-in-with-google-to-a-remix-app-from-scratch-aon)
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/ehazardd893/buy-verified-cash-app-account-33e)
+- [Dev.to/JS] [CRUD in GraphQL MongoDB](https://dev.to/akmaurya31/crud-in-graphql-mongodb-5c65)
 - [Dev.to/JS] [microservices in React App](https://dev.to/akmaurya31/microservices-in-react-app-3lhj)
 - [Dev.to/JS] [microservices in React App](https://dev.to/akmaurya31/microservices-in-react-app-41l3)
 - [Dev.to/JS] [Microservices and a React app Part 1](https://dev.to/akmaurya31/microservices-and-a-react-app-part-1-5dga)
 - [Dev.to/JS] [Buy Google Reviews](https://dev.to/ehazardd893/buy-google-reviews-4p02)
 - [Dev.to/JS] [Construyendo un mapa para aprender sobre el Back-end](https://dev.to/javascriptchile/construyendo-un-mapa-para-aprender-sobre-el-back-end-1dee)
 - [Dev.to/JS] [Markdown vs HTML : Choosing the Right for Web Development](https://dev.to/speaklouder/markdown-vs-html-choosing-the-right-for-web-development-gfk)
+- [Lifehacker] [You Can Get the Apple Watch Series 8 for $200 Off](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Dev.to/JS] [Primitive and Non-Primitive &lpar;Object&rpar; Data Types](https://dev.to/akmaurya31/primitive-and-non-primitive-object-data-types-3g51)
-- [Dev.to/JS] [How to make Random Quote Generator](https://dev.to/hasnainali313/how-to-make-random-quote-generator-27fj)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/ehazardd893/buy-google-5-star-reviews-55dl)
-- [Dev.to/JS] [Joining the &lpar;Module&rpar; Federation](https://dev.to/eidellev/joining-the-module-federation-4nnl)
 - [Lifehacker] [Mona Is the Best Mastodon Client for iOS](https://lifehacker.com/tech/mona-best-mastodon-client)
-- [Dev.to/JS] [TresJs por una web con más 3D](https://dev.to/javascriptchile/tresjs-por-una-web-con-mas-3d-39d4)
-- [Dev.to/JS] [Model Inputs: Reactive Two-Way Binding](https://dev.to/this-is-angular/model-inputs-reactive-two-way-binding-2538)
 - [Lifehacker] [Your Tool Kit Needs a Magnetizer](https://lifehacker.com/home/tool-kit-needs-magnetizer)
 - [Lifehacker] [How to Create a Modern Mixtape](https://lifehacker.com/tech/how-to-create-a-modern-mixtape)
 - [Lifehacker] [Ride1Up&#39;s Portola Is a Budget-friendly, Foldable E-bike](https://lifehacker.com/tech/ride1ups-portola-ebike-review)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Mozzarella Cheese for Cooking](https://lifehacker.com/food-drink/the-best-mozzarella-cheese-for-cooking)
 - [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2024](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
 - [Lifehacker] [Samsung Wants You to Experience Galaxy AI on Your Non-Galaxy Android Phone](https://lifehacker.com/tech/samsung-wants-you-to-experience-galaxy-ai-on-your-non-galaxy-phone)
-- [Lifehacker] [The iRobot Roomba Combo i5+ Is $250 Off &lpar;but Hurry Up&rpar;](https://lifehacker.com/home/irobot-roomba-combo-i5-sale)
-- [Lifehacker] [This Qualcomm Snapdragon Console Is on Sale for $100 Right Now](https://lifehacker.com/tech/qualcomm-snapdragon-console-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The iRobot Roomba Combo i5+ Is $250 Off &lpar;but Hurry Up&rpar;](https://lifehacker.com/home/irobot-roomba-combo-i5-sale)<!-- TECH-POSTS:END -->
 
 ---
 
