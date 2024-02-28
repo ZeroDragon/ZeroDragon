@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Battle of the Node.js ORMs: Sequelize vs. Prisma](https://dev.to/victor1890/battle-of-the-nodejs-orms-sequelize-vs-prisma-3j8b)
+- [Dev.to/JS] [API Encryption? How does that help?](https://dev.to/sanjaykhanssk/api-encryption-how-does-that-help-50f9)
+- [Dev.to/JS] [Developers do not need to switch tabs! Your super tool has arrived.](https://dev.to/sanjaykhanssk/developers-do-not-need-to-switch-tabs-your-super-tool-has-arrived-3nlp)
 - [Lifehacker] [All of Your Information That’s Publicly Available &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/tech/all-your-information-thats-publicly-available-what-to-do-about-it)
 - [Lifehacker] [The Fastest Ways to Save All Your Open Browser Tabs for Later](https://lifehacker.com/tech/how-to-save-all-your-open-tabs-in-safari-chrome-firefox)
 - [Dev.to/JS] [Senior Software Engineers are needed in BlockFills](https://dev.to/jackpwatson888/senior-software-engineers-are-needed-in-blockfills-g1)
@@ -51,10 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Mozzarella Cheese for Cooking](https://lifehacker.com/food-drink/the-best-mozzarella-cheese-for-cooking)
 - [Lifehacker] [Here&#39;s How Much Money You Should Have in Your Emergency Fund in 2024](https://lifehacker.com/heres-how-much-money-you-should-have-in-your-emergency-1850070761)
 - [Dev.to/JS] [I Build a Platform Where You Can Code HTML, CSS, JS, PHP on a Live Server](https://dev.to/souviktests/how-i-build-a-platform-where-you-can-code-html-css-js-php-on-a-live-server-1j3h)
-- [Dev.to/JS] [My Challenge for UI interview](https://dev.to/jeytey/my-challenge-for-ui-interview-p48)
 - [Lifehacker] [Samsung Wants You to Experience Galaxy AI on Your Non-Galaxy Android Phone](https://lifehacker.com/tech/samsung-wants-you-to-experience-galaxy-ai-on-your-non-galaxy-phone)
-- [Dev.to/JS] [Next Js - Interview Experience.](https://dev.to/pratham0182/next-js-interview-experience-bba)
-- [Dev.to/JS] [Introducción sobre el desarrollo de apps nativas para Ubuntu Touch](https://dev.to/lirrums/introduccion-sobre-el-desarrollo-de-apps-nativas-para-ubuntu-touch-2fbi)
 - [Lifehacker] [The iRobot Roomba Combo i5+ Is $250 Off &lpar;but Hurry Up&rpar;](https://lifehacker.com/home/irobot-roomba-combo-i5-sale)
 - [Lifehacker] [This Qualcomm Snapdragon Console Is on Sale for $100 Right Now](https://lifehacker.com/tech/qualcomm-snapdragon-console-sale)
 - [Lifehacker] [The Best Ways to Overcome Home Maintenance Anxiety](https://lifehacker.com/home/overcome-home-maintenance-anxiety)
