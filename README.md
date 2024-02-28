@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;m Building a Full-Stack App: Here Are the Libraries I&#39;m Going to Use...](https://dev.to/copilotkit/im-building-a-full-stack-app-here-are-the-libraries-im-going-to-use-51nk)
+- [Dev.to/JS] [How to Use Artificial Intelligence in Your Investing in 2024](https://dev.to/topainewsindia/how-to-use-artificial-intelligence-in-your-investing-in-2024-4ch)
+- [Dev.to/JS] [What is the Difference between Spread and Rest Operator in JavaScript](https://dev.to/himanshudevgupta/what-is-the-difference-between-spread-and-rest-operator-in-javascript-2oa9)
 - [Dev.to/JS] [What is Vite? A Game-Changer for Frontend Development 🚀](https://dev.to/codeparrot/what-is-vite-a-game-changer-for-frontend-development-15a6)
 - [Dev.to/JS] [How to Use a CAS 002 Braindump to Identify Important Exam Topics](https://dev.to/imar1974/how-to-use-a-cas-002-braindump-to-identify-important-exam-topics-13da)
 - [Dev.to/JS] [What is Server Side Rendering &lpar;SSR&rpar; and Static Site Generation &lpar;SSG&rpar;?](https://dev.to/codesensei/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-21lh)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigating the Digital Frontier: Insights into Web Apps Development](https://dev.to/siroce/navigating-the-digital-frontier-insights-into-web-apps-development-3b2b)
 - [Dev.to/JS] [MERN-X full-stack framework for MERN Stack Developer](https://dev.to/rupomsoft/mern-x-full-stack-framework-for-mern-stack-developer-1ncl)
 - [Dev.to/JS] [Tải App Win55 – Hướng Dẫn Tải App Tham Gia Cá Cược.](https://dev.to/win55appscom/tai-app-win55-huong-dan-tai-app-tham-gia-ca-cuoc-5cja)
-- [Dev.to/JS] [Next.js File Upload: The Ultimate Lightweight Solution for Effortless File Handling and Integration With Next.js Project](https://dev.to/rupomsoft/nextjs-file-upload-the-ultimate-lightweight-solution-for-effortless-file-handling-and-integration-with-nextjs-project-4hja)
-- [Dev.to/JS] [Creating a seamless multi-language user interface in React](https://dev.to/honeybadger/creating-a-seamless-multi-language-user-interface-in-react-1jdj)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Wednesday, February 28, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Diacritic-insensitive string comparison in JavaScript](https://dev.to/clarity89/diacritic-insensitive-string-comparison-in-javascript-252m)
 - [Lifehacker] [All of Your Information That’s Publicly Available &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/tech/all-your-information-thats-publicly-available-what-to-do-about-it)
 - [Lifehacker] [The Fastest Ways to Save All Your Open Browser Tabs for Later](https://lifehacker.com/tech/how-to-save-all-your-open-tabs-in-safari-chrome-firefox)
 - [Lifehacker] [This Viral Roasted Potato Recipe Tastes Like a Giant French Fry](https://lifehacker.com/food-drink/giant-roasted-potato-recipe)
