@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Async vs Defer in JavaScript: Which is Better?🤔](https://dev.to/fidalmathew/async-vs-defer-in-javascript-which-is-better-26gm)
+- [Dev.to/JS] [CoinDCX interview process: How we hire](https://dev.to/shail/coindcx-interview-process-how-we-hire-4eef)
 - [Dev.to/JS] [I have developed this landing page](https://dev.to/ranag/i-have-developed-this-landing-page-8ji)
 - [Dev.to/JS] [NAT traversal: How does it work?](https://dev.to/alakkadshaw/nat-traversal-how-does-it-work-j3c)
 - [Dev.to/JS] [Duck Killer: Shooting Game 🦆](https://dev.to/puneetkumar2010/duck-killer-shooting-game-35fn)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I am developing a SaaS platform on blockchain ⛓, focusing on cryptocurrency liquidity.](https://dev.to/codechainwizard/i-am-developing-a-saas-platform-on-blockchain-focusing-on-cryptocurrency-liquidity-2520)
 - [Dev.to/JS] [Automating React Component Generation with a Shell Script](https://dev.to/mitevskasar/automating-react-component-generation-with-a-shell-script-1903)
 - [Dev.to/JS] [LeetCode Meditations — Chapter 2: Two Pointers](https://dev.to/rivea0/leetcode-meditations-chapter-2-two-pointers-4153)
-- [Dev.to/JS] [Trees](https://dev.to/mqshaikh8/trees-1dlm)
-- [Dev.to/JS] [React Compiler: Everything You Need to Know](https://dev.to/mjubair/react-compiler-everything-you-need-to-know-51b9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 29, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)
 - [Lifehacker] [You Can Get This Löv HEPA Air Purifier on Sale for $105 Off Right Now](https://lifehacker.com/home/lov-hepa-air-purifier-sale)
