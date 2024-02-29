@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I have developed this landing page](https://dev.to/ranag/i-have-developed-this-landing-page-8ji)
+- [Dev.to/JS] [NAT traversal: How does it work?](https://dev.to/alakkadshaw/nat-traversal-how-does-it-work-j3c)
+- [Dev.to/JS] [Duck Killer: Shooting Game 🦆](https://dev.to/puneetkumar2010/duck-killer-shooting-game-35fn)
 - [Dev.to/JS] [5 Best Programming Languages for Blockchain Development](https://dev.to/immutabledevs/5-best-programming-languages-for-blockchain-development-3acp)
 - [Dev.to/JS] [🔮 Adobe Redefines Design - Inside Spectrum 2&#39;s Visionary Update](https://dev.to/adam/adobe-redefines-design-inside-spectrum-2s-visionary-update-n59)
 - [Dev.to/JS] [Node JS Api Backend](https://dev.to/akmaurya31/node-js-api-backend-28m)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode Meditations — Chapter 2: Two Pointers](https://dev.to/rivea0/leetcode-meditations-chapter-2-two-pointers-4153)
 - [Dev.to/JS] [Trees](https://dev.to/mqshaikh8/trees-1dlm)
 - [Dev.to/JS] [React Compiler: Everything You Need to Know](https://dev.to/mjubair/react-compiler-everything-you-need-to-know-51b9)
-- [Dev.to/JS] [🪄 gql.tada makes a GraphQL great again](https://dev.to/czystyl/gqltada-makes-a-graphql-great-again-15m2)
-- [Dev.to/JS] [How my custom GPT taught me how to use my own library!](https://dev.to/dariomannu/how-my-custom-gpt-taught-me-how-to-use-my-own-library-549i)
-- [Dev.to/JS] [JavaScript Naming Conventions](https://dev.to/codedthemes/javascript-naming-conventions-13el)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 29, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)
 - [Lifehacker] [You Can Get This Löv HEPA Air Purifier on Sale for $105 Off Right Now](https://lifehacker.com/home/lov-hepa-air-purifier-sale)
