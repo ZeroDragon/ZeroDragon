@@ -26,13 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Starting a new project](https://dev.to/blacviking/starting-a-new-project-2o4o)
+- [Dev.to/JS] [Make Your Code Great Again](https://dev.to/misterion96/make-your-code-great-again-1pm3)
 - [Dev.to/JS] [Temporary and persistent state management with Alpine.js](https://dev.to/aggregata/temporary-and-persistent-state-management-with-alpinejs-1a79)
 - [Dev.to/JS] [Can you make your website green 🌳♻🌳?](https://dev.to/fanmixco/can-you-make-your-website-green--1lb7)
 - [Dev.to/JS] [What is React Suspense and Async Rendering?](https://dev.to/this-is-learning/what-is-react-suspense-and-async-rendering-3dh5)
 - [Lifehacker] [The Difference Between WordPress and WordPress.com](https://lifehacker.com/tech/the-difference-between-wordpress-and-wordpresscom)
 - [Dev.to/JS] [My new project](https://dev.to/jvcgoncalves/my-new-project-2kin)
-- [Dev.to/JS] [BUY NEGATIVE TRUSTPILOT REVIEWS](https://dev.to/glennmarvin6/buy-negative-trustpilot-reviews-39c9)
-- [Dev.to/JS] [BUY TRUSTPILOT REVIEWS](https://dev.to/glennmarvin6/buy-trustpilot-reviews-1pek)
 - [Lifehacker] [How to Successfully Repot Last Year’s Hanging Flower Baskets](https://lifehacker.com/home/how-to-repot-old-hanging-flower-basket)
 - [Dev.to/JS] [Async vs Defer in JavaScript: Which is Better?🤔](https://dev.to/fidalmathew/async-vs-defer-in-javascript-which-is-better-26gm)
 - [Dev.to/JS] [CoinDCX interview process: How we hire](https://dev.to/shail/coindcx-interview-process-how-we-hire-4eef)
