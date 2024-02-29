@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Best Programming Languages for Blockchain Development](https://dev.to/immutabledevs/5-best-programming-languages-for-blockchain-development-3acp)
+- [Dev.to/JS] [🔮 Adobe Redefines Design - Inside Spectrum 2&#39;s Visionary Update](https://dev.to/adam/adobe-redefines-design-inside-spectrum-2s-visionary-update-n59)
 - [Dev.to/JS] [Node JS Api Backend](https://dev.to/akmaurya31/node-js-api-backend-28m)
 - [Dev.to/JS] [Prototypal inheritance; what really happens under the hood.](https://dev.to/joshraphael/prototypal-inheritance-what-really-happens-under-the-hood-1a07)
 - [Dev.to/JS] [I am developing a SaaS platform on blockchain ⛓, focusing on cryptocurrency liquidity.](https://dev.to/codechainwizard/i-am-developing-a-saas-platform-on-blockchain-focusing-on-cryptocurrency-liquidity-2520)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🪄 gql.tada makes a GraphQL great again](https://dev.to/czystyl/gqltada-makes-a-graphql-great-again-15m2)
 - [Dev.to/JS] [How my custom GPT taught me how to use my own library!](https://dev.to/dariomannu/how-my-custom-gpt-taught-me-how-to-use-my-own-library-549i)
 - [Dev.to/JS] [JavaScript Naming Conventions](https://dev.to/codedthemes/javascript-naming-conventions-13el)
-- [Dev.to/JS] [JavaScript full course](https://dev.to/muyiwexy/javascript-full-course-5eh8)
-- [Dev.to/JS] [Understanding useContext Hooks in React – An introduction and a Comprehensive Guide for Web Developers](https://dev.to/jlerocher/understanding-usecontext-hooks-in-react-an-introduction-and-a-comprehensive-guide-for-web-developers-1fhp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 29, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)
 - [Lifehacker] [You Can Get This Löv HEPA Air Purifier on Sale for $105 Off Right Now](https://lifehacker.com/home/lov-hepa-air-purifier-sale)
