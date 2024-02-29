@@ -26,10 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [31 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
 - [Dev.to/JS] [Starting a new project](https://dev.to/blacviking/starting-a-new-project-2o4o)
+- [Lifehacker] [Apple Now Lets You Repair Your Own M3 Mac](https://lifehacker.com/tech/how-to-repair-m3-mac)
 - [Dev.to/JS] [Make Your Code Great Again](https://dev.to/misterion96/make-your-code-great-again-1pm3)
+- [Lifehacker] [When to Withhold Payment From Your Contractor](https://lifehacker.com/money/when-to-withhold-contractor-payment)
 - [Dev.to/JS] [Temporary and persistent state management with Alpine.js](https://dev.to/aggregata/temporary-and-persistent-state-management-with-alpinejs-1a79)
 - [Dev.to/JS] [Can you make your website green 🌳♻🌳?](https://dev.to/fanmixco/can-you-make-your-website-green--1lb7)
+- [Lifehacker] [Where to Stream Every Nominated Movie Before the 2024 Oscars](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Dev.to/JS] [What is React Suspense and Async Rendering?](https://dev.to/this-is-learning/what-is-react-suspense-and-async-rendering-3dh5)
 - [Lifehacker] [The Difference Between WordPress and WordPress.com](https://lifehacker.com/tech/the-difference-between-wordpress-and-wordpresscom)
 - [Dev.to/JS] [My new project](https://dev.to/jvcgoncalves/my-new-project-2kin)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Music’s Daily ‘Heavy Rotation Mix’ Rounds up Your Most Played Songs](https://lifehacker.com/tech/apple-musics-heavy-rotation-playlist)
 - [Lifehacker] [You Can Get the Apple Watch Series 8 for $200 Off](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [Mona Is the Best Mastodon Client for iOS](https://lifehacker.com/tech/mona-best-mastodon-client)
-- [Lifehacker] [Your Tool Kit Needs a Magnetizer](https://lifehacker.com/home/tool-kit-needs-magnetizer)
-- [Lifehacker] [How to Create a Modern Mixtape](https://lifehacker.com/tech/how-to-create-a-modern-mixtape)
-- [Lifehacker] [Ride1Up&#39;s Portola Is a Budget-friendly, Foldable E-bike](https://lifehacker.com/tech/ride1ups-portola-ebike-review)
-- [Lifehacker] [The Best Ways to Keep Potholes From Destroying Your Car](https://lifehacker.com/travel/best-ways-to-keep-potholes-from-destroying-your-car)
-- [Lifehacker] [The 26 Best War Movies Streaming Right Now](https://lifehacker.com/entertainment/best-war-movies-streaming-right-now)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Tool Kit Needs a Magnetizer](https://lifehacker.com/home/tool-kit-needs-magnetizer)<!-- TECH-POSTS:END -->
 
 ---
 
