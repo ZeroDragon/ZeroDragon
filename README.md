@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Level Up Your JavaScript Skills with My New eBook!](https://dev.to/hkp22/level-up-your-javascript-skills-with-my-new-ebook-26gc)
 - [Dev.to/JS] [Fortifying Your WordPress Arsenal: Essential Strategies for Securing Custom Plugins](https://dev.to/jamesmartindev/fortifying-your-wordpress-arsenal-essential-strategies-for-securing-custom-plugins-2mph)
 - [Dev.to/JS] [Writing clean, reusable components in React &lpar;best practices&rpar;](https://dev.to/codewithshahan/writing-clean-reusable-components-in-react-best-practices-2gka)
 - [Dev.to/JS] [Node.js Authentication Strategies: JWT vs. OAuth](https://dev.to/nitin-rachabathuni/nodejs-authentication-strategies-jwt-vs-oauth-1g52)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Will Bun.js replace Node.js?](https://dev.to/renacargnelutti/will-bunjs-replace-nodejs-npn)
 - [Lifehacker] [The Samsung Galaxy Watch 6 Is 24% Off Right Now](https://lifehacker.com/tech/samsung-galaxy-watch-6-sale)
 - [Lifehacker] [Score These Meats and Vegetables Before Cooking](https://lifehacker.com/food-drink/how-to-score-tough-ingredients-before-cooking)
-- [Dev.to/JS] [How to Scrape Samsung Products](https://dev.to/crawlbase/how-to-scrape-samsung-products-bi8)
 - [Lifehacker] [You Can Get These Sony Over-the-Ear Headphones on Sale for $39 Right Now](https://lifehacker.com/tech/sony-over-ear-headphones-sale)
 - [Lifehacker] [Google Maps&#39; &#39;Glanceable Directions&#39; Are Here](https://lifehacker.com/tech/google-maps-glanceable-directions-are-here)
 - [Lifehacker] [How to Use an Instant Pot, Button by Button](https://lifehacker.com/how-to-use-instant-pot)
