@@ -26,12 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the Document Object Model &lpar;DOM&rpar; in Web Development](https://dev.to/mahabubr/understanding-the-document-object-model-dom-in-web-development-4951)
+- [Lifehacker] [Different Types of Bacon for All Your Salty, Smoky Needs](https://lifehacker.com/food-drink/all-the-different-types-of-bacon)
 - [Dev.to/JS] [Comparing JavaScript Array Methods: reverse&lpar;&rpar; vs toReversed&lpar;&rpar;](https://dev.to/ahmadadibzad/comparing-javascript-array-methods-reverse-vs-toreversed-36l0)
 - [Dev.to/JS] [Embed form builder with Javascript](https://dev.to/joyfill/embed-form-builder-with-javascript-3p0o)
 - [Dev.to/JS] [Dive into optimizing Node.js applications for speed and efficiency.](https://dev.to/mahabubr/dive-into-optimizing-nodejs-applications-for-speed-and-efficiency-41li)
 - [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript](https://dev.to/akashakki/mastering-asynchronous-programming-in-javascript-426o)
 - [Dev.to/JS] [Title: Meet Jacob Martin: Your Digital Marketing Visionary](https://dev.to/jacobmartin/title-meet-jacob-martin-your-digital-marketing-visionary-2725)
+- [Lifehacker] [You Can Get This Bluetooth Smart Projector on Sale for $170 Right Now](https://lifehacker.com/tech/bluetooth-smart-projector-sale)
 - [Dev.to/JS] [Data structure and algorithm techniques ...](https://dev.to/danbaba1/data-structure-and-algorithm-techniques--gk5)
+- [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
 - [Lifehacker] [31 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
 - [Dev.to/JS] [Starting a new project](https://dev.to/blacviking/starting-a-new-project-2o4o)
 - [Lifehacker] [Apple Now Lets You Repair Your Own M3 Mac](https://lifehacker.com/tech/how-to-repair-m3-mac)
@@ -42,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream Every Nominated Movie Before the 2024 Oscars](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Dev.to/JS] [What is React Suspense and Async Rendering?](https://dev.to/this-is-learning/what-is-react-suspense-and-async-rendering-3dh5)
 - [Lifehacker] [The Difference Between WordPress and WordPress.com](https://lifehacker.com/tech/the-difference-between-wordpress-and-wordpresscom)
-- [Dev.to/JS] [My new project](https://dev.to/jvcgoncalves/my-new-project-2kin)
 - [Lifehacker] [How to Successfully Repot Last Year’s Hanging Flower Baskets](https://lifehacker.com/home/how-to-repot-old-hanging-flower-basket)
 - [Lifehacker] [The Best Ways to Find Live Gigs for Music You Love](https://lifehacker.com/tech/the-best-ways-to-find-live-music-gigs)
 - [Lifehacker] [You Should Find &lpar;and Use&rpar; a Seed Library Near You](https://lifehacker.com/home/how-to-find-and-use-a-seed-library)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Amazon Fire Max 11 Is $90 Off Right Now](https://lifehacker.com/tech/the-amazon-fire-max-11-is-90-off-right-now)
 - [Lifehacker] [Tumblr and WordPress Are Selling Your Data to AI Companies](https://lifehacker.com/tech/tumblr-and-wordpress-are-selling-your-data-to-ai-companies)
 - [Lifehacker] [How to Fill Out Your W-4 to Get More Money in Your Paycheck](https://lifehacker.com/money/fill-out-your-w-4-to-get-more-money-in-your-paycheck)
-- [Lifehacker] [Apple Music’s Daily ‘Heavy Rotation Mix’ Rounds up Your Most Played Songs](https://lifehacker.com/tech/apple-musics-heavy-rotation-playlist)
-- [Lifehacker] [You Can Get the Apple Watch Series 8 for $200 Off](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
-- [Lifehacker] [Mona Is the Best Mastodon Client for iOS](https://lifehacker.com/tech/mona-best-mastodon-client)
-- [Lifehacker] [Your Tool Kit Needs a Magnetizer](https://lifehacker.com/home/tool-kit-needs-magnetizer)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Music’s Daily ‘Heavy Rotation Mix’ Rounds up Your Most Played Songs](https://lifehacker.com/tech/apple-musics-heavy-rotation-playlist)<!-- TECH-POSTS:END -->
 
 ---
 
