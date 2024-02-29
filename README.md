@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fortifying Your WordPress Arsenal: Essential Strategies for Securing Custom Plugins](https://dev.to/jamesmartindev/fortifying-your-wordpress-arsenal-essential-strategies-for-securing-custom-plugins-2mph)
+- [Dev.to/JS] [Writing clean, reusable components in React &lpar;best practices&rpar;](https://dev.to/codewithshahan/writing-clean-reusable-components-in-react-best-practices-2gka)
 - [Dev.to/JS] [Node.js Authentication Strategies: JWT vs. OAuth](https://dev.to/nitin-rachabathuni/nodejs-authentication-strategies-jwt-vs-oauth-1g52)
 - [Dev.to/JS] [React 19: What’s New?](https://dev.to/vparul/react-19-whats-new-3d8m)
 - [Dev.to/JS] [Mastering Object-Oriented Programming: Principles and Concepts](https://dev.to/hriztam/mastering-object-oriented-programming-principles-and-concepts-4j5f)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Score These Meats and Vegetables Before Cooking](https://lifehacker.com/food-drink/how-to-score-tough-ingredients-before-cooking)
 - [Dev.to/JS] [How to Scrape Samsung Products](https://dev.to/crawlbase/how-to-scrape-samsung-products-bi8)
 - [Lifehacker] [You Can Get These Sony Over-the-Ear Headphones on Sale for $39 Right Now](https://lifehacker.com/tech/sony-over-ear-headphones-sale)
-- [Dev.to/JS] [Handshake: Next.js boilerplate for OAuth with 200+ APIs](https://dev.to/felipap/handshake-nextjs-boilerplate-for-oauth-with-200-apis-k84)
 - [Lifehacker] [Google Maps&#39; &#39;Glanceable Directions&#39; Are Here](https://lifehacker.com/tech/google-maps-glanceable-directions-are-here)
-- [Dev.to/JS] [Lessons from opensource: Add a defensive type-safe error handler in your catch block](https://dev.to/ramunarasinga/lessons-from-opensource-add-a-defensive-type-safe-error-handler-in-your-catch-block-3em1)
 - [Lifehacker] [How to Use an Instant Pot, Button by Button](https://lifehacker.com/how-to-use-instant-pot)
 - [Lifehacker] [The Amazon Fire Max 11 Is $90 Off Right Now](https://lifehacker.com/tech/the-amazon-fire-max-11-is-90-off-right-now)
 - [Lifehacker] [Tumblr and WordPress Are Selling Your Data to AI Companies](https://lifehacker.com/tech/tumblr-and-wordpress-are-selling-your-data-to-ai-companies)
