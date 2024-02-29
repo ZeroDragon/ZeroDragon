@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node JS Api Backend](https://dev.to/akmaurya31/node-js-api-backend-28m)
+- [Dev.to/JS] [Prototypal inheritance; what really happens under the hood.](https://dev.to/joshraphael/prototypal-inheritance-what-really-happens-under-the-hood-1a07)
+- [Dev.to/JS] [I am developing a SaaS platform on blockchain ⛓, focusing on cryptocurrency liquidity.](https://dev.to/codechainwizard/i-am-developing-a-saas-platform-on-blockchain-focusing-on-cryptocurrency-liquidity-2520)
+- [Dev.to/JS] [Automating React Component Generation with a Shell Script](https://dev.to/mitevskasar/automating-react-component-generation-with-a-shell-script-1903)
+- [Dev.to/JS] [LeetCode Meditations — Chapter 2: Two Pointers](https://dev.to/rivea0/leetcode-meditations-chapter-2-two-pointers-4153)
 - [Dev.to/JS] [Trees](https://dev.to/mqshaikh8/trees-1dlm)
 - [Dev.to/JS] [React Compiler: Everything You Need to Know](https://dev.to/mjubair/react-compiler-everything-you-need-to-know-51b9)
 - [Dev.to/JS] [🪄 gql.tada makes a GraphQL great again](https://dev.to/czystyl/gqltada-makes-a-graphql-great-again-15m2)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Naming Conventions](https://dev.to/codedthemes/javascript-naming-conventions-13el)
 - [Dev.to/JS] [JavaScript full course](https://dev.to/muyiwexy/javascript-full-course-5eh8)
 - [Dev.to/JS] [Understanding useContext Hooks in React – An introduction and a Comprehensive Guide for Web Developers](https://dev.to/jlerocher/understanding-usecontext-hooks-in-react-an-introduction-and-a-comprehensive-guide-for-web-developers-1fhp)
-- [Dev.to/JS] [Benvenuti a Ardente Casino: Dove il Divertimento Brucia di Passione!](https://dev.to/albinaa/benvenuti-a-ardente-casino-dove-il-divertimento-brucia-di-passione-1o2l)
-- [Dev.to/JS] [Buy Google Reviews](https://dev.to/erionloshir28/buy-google-reviews-3159)
-- [Dev.to/JS] [Beginner&#39;s Handbook: JavaScript and REST API Calls Explained](https://dev.to/satokenta/beginners-handbook-javascript-and-rest-api-calls-explained-ol5)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/erionloshir28/buy-google-voice-accounts-24e6)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/erionloshir28/buy-verified-paxful-account-53fe)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 29, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)
 - [Lifehacker] [You Can Get This Löv HEPA Air Purifier on Sale for $105 Off Right Now](https://lifehacker.com/home/lov-hepa-air-purifier-sale)
