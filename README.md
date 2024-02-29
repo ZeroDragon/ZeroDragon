@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [suachuaclickbuy](https://dev.to/suachuaclickbuy/suachuaclickbuy-2e2h)
+- [Dev.to/JS] [5 Node.js security code snippets every backend developer should know](https://dev.to/snyk/5-nodejs-security-code-snippets-every-backend-developer-should-know-456f)
+- [Dev.to/JS] [MongoDB for Beginners: Setting Up Your Database with Atlas](https://dev.to/zechariah17/mongodb-for-beginners-setting-up-your-database-with-atlas-4k53)
+- [Dev.to/JS] [[React, Next.js] Search function using useDebounce](https://dev.to/c0xxxtv/react-nextjs-search-function-using-usedebounce-3hfp)
+- [Lifehacker] [These Milwaukee Tool Sets Are Up to 55% Off at Home Depot](https://lifehacker.com/home/these-milwaukee-tool-sets-are-up-to-55-off-right-now-at-home-depot)
 - [Lifehacker] [These Are the Best Kinds of Exercise for Losing Weight](https://lifehacker.com/health/best-exercises-to-lose-weight)
 - [Dev.to/JS] [Will Bun.js replace Node.js?](https://dev.to/renacargnelutti/will-bunjs-replace-nodejs-npn)
 - [Lifehacker] [The Samsung Galaxy Watch 6 Is 24% Off Right Now](https://lifehacker.com/tech/samsung-galaxy-watch-6-sale)
@@ -42,11 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Amazon Fire Max 11 Is $90 Off Right Now](https://lifehacker.com/tech/the-amazon-fire-max-11-is-90-off-right-now)
 - [Lifehacker] [Tumblr and WordPress Are Selling Your Data to AI Companies](https://lifehacker.com/tech/tumblr-and-wordpress-are-selling-your-data-to-ai-companies)
 - [Dev.to/JS] [How to Scrape Apple App Store Data](https://dev.to/crawlbase/how-to-scrape-apple-app-store-data-4oh)
-- [Dev.to/JS] [I&#39;d like to create a new CMS open-source](https://dev.to/vitalijalbu/id-like-to-create-a-new-cms-open-source-4h5a)
-- [Dev.to/JS] [Adding Sign In With Google To A Remix App From Scratch](https://dev.to/tmrc/adding-sign-in-with-google-to-a-remix-app-from-scratch-aon)
 - [Lifehacker] [How to Fill Out Your W-4 to Get More Money in Your Paycheck](https://lifehacker.com/money/fill-out-your-w-4-to-get-more-money-in-your-paycheck)
-- [Dev.to/JS] [Buy verified cash app account](https://dev.to/ehazardd893/buy-verified-cash-app-account-33e)
-- [Dev.to/JS] [CRUD in GraphQL MongoDB](https://dev.to/akmaurya31/crud-in-graphql-mongodb-5c65)
 - [Lifehacker] [Apple Music’s Daily ‘Heavy Rotation Mix’ Rounds up Your Most Played Songs](https://lifehacker.com/tech/apple-musics-heavy-rotation-playlist)
 - [Lifehacker] [You Can Get the Apple Watch Series 8 for $200 Off](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [Mona Is the Best Mastodon Client for iOS](https://lifehacker.com/tech/mona-best-mastodon-client)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Netflix Is Nixing App Store Billing for Everyone](https://lifehacker.com/tech/netflix-is-nixing-app-store-billing-for-everyone)
 - [Lifehacker] [Apple Made a Sports Score App Without the Ads](https://lifehacker.com/tech/apple-sports-a-scores-app-without-the-ads)
 - [Lifehacker] [The Out of Touch Adults’ Guide to Kid Culture: The TikTok Chocolate-Covered Strawberries, Explained](https://lifehacker.com/entertainment/tiktok-chocolate-covered-strawberries)
-- [Lifehacker] [You Can Now Replace Google Assistant With Microsoft&#39;s Copilot AI](https://lifehacker.com/tech/you-can-replace-google-assistant-with-microsofts-copilot-ai)
-- [Lifehacker] [The Best Budget ANC Earbuds Just Got Much Cheaper](https://lifehacker.com/tech/anker-space-a40-earbuds-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Replace Google Assistant With Microsoft&#39;s Copilot AI](https://lifehacker.com/tech/you-can-replace-google-assistant-with-microsofts-copilot-ai)<!-- TECH-POSTS:END -->
 
 ---
 
