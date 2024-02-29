@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lessons from opensource: How to check if your program has internet connectivity in Nodejs?](https://dev.to/ramunarasinga/lessons-from-opensource-how-to-check-if-your-program-has-internet-connectivity-in-nodejs-27f0)
+- [Dev.to/JS] [I made a Trivia Game](https://dev.to/arndom/i-made-a-trivia-game-4oj2)
+- [Lifehacker] [How Long Do ‘Lifetime Warranties’ Actually Last?](https://lifehacker.com/money/how-long-do-lifetime-warranties-actually-last)
 - [Dev.to/JS] [Understanding the Document Object Model &lpar;DOM&rpar; in Web Development](https://dev.to/mahabubr/understanding-the-document-object-model-dom-in-web-development-4951)
 - [Lifehacker] [Different Types of Bacon for All Your Salty, Smoky Needs](https://lifehacker.com/food-drink/all-the-different-types-of-bacon)
 - [Dev.to/JS] [Comparing JavaScript Array Methods: reverse&lpar;&rpar; vs toReversed&lpar;&rpar;](https://dev.to/ahmadadibzad/comparing-javascript-array-methods-reverse-vs-toreversed-36l0)
@@ -42,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make Your Code Great Again](https://dev.to/misterion96/make-your-code-great-again-1pm3)
 - [Lifehacker] [When to Withhold Payment From Your Contractor](https://lifehacker.com/money/when-to-withhold-contractor-payment)
 - [Dev.to/JS] [Temporary and persistent state management with Alpine.js](https://dev.to/aggregata/temporary-and-persistent-state-management-with-alpinejs-1a79)
-- [Dev.to/JS] [Can you make your website green 🌳♻🌳?](https://dev.to/fanmixco/can-you-make-your-website-green--1lb7)
 - [Lifehacker] [Where to Stream Every Nominated Movie Before the 2024 Oscars](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
-- [Dev.to/JS] [What is React Suspense and Async Rendering?](https://dev.to/this-is-learning/what-is-react-suspense-and-async-rendering-3dh5)
 - [Lifehacker] [The Difference Between WordPress and WordPress.com](https://lifehacker.com/tech/the-difference-between-wordpress-and-wordpresscom)
 - [Lifehacker] [How to Successfully Repot Last Year’s Hanging Flower Baskets](https://lifehacker.com/home/how-to-repot-old-hanging-flower-basket)
 - [Lifehacker] [The Best Ways to Find Live Gigs for Music You Love](https://lifehacker.com/tech/the-best-ways-to-find-live-music-gigs)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use an Instant Pot, Button by Button](https://lifehacker.com/how-to-use-instant-pot)
 - [Lifehacker] [The Amazon Fire Max 11 Is $90 Off Right Now](https://lifehacker.com/tech/the-amazon-fire-max-11-is-90-off-right-now)
 - [Lifehacker] [Tumblr and WordPress Are Selling Your Data to AI Companies](https://lifehacker.com/tech/tumblr-and-wordpress-are-selling-your-data-to-ai-companies)
-- [Lifehacker] [How to Fill Out Your W-4 to Get More Money in Your Paycheck](https://lifehacker.com/money/fill-out-your-w-4-to-get-more-money-in-your-paycheck)
-- [Lifehacker] [Apple Music’s Daily ‘Heavy Rotation Mix’ Rounds up Your Most Played Songs](https://lifehacker.com/tech/apple-musics-heavy-rotation-playlist)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fill Out Your W-4 to Get More Money in Your Paycheck](https://lifehacker.com/money/fill-out-your-w-4-to-get-more-money-in-your-paycheck)<!-- TECH-POSTS:END -->
 
 ---
 
