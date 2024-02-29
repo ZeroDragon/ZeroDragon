@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Kinds of Exercise for Losing Weight](https://lifehacker.com/health/best-exercises-to-lose-weight)
+- [Dev.to/JS] [Will Bun.js replace Node.js?](https://dev.to/renacargnelutti/will-bunjs-replace-nodejs-npn)
+- [Lifehacker] [The Samsung Galaxy Watch 6 Is 24% Off Right Now](https://lifehacker.com/tech/samsung-galaxy-watch-6-sale)
+- [Lifehacker] [Score These Meats and Vegetables Before Cooking](https://lifehacker.com/food-drink/how-to-score-tough-ingredients-before-cooking)
 - [Dev.to/JS] [How to Scrape Samsung Products](https://dev.to/crawlbase/how-to-scrape-samsung-products-bi8)
+- [Lifehacker] [You Can Get These Sony Over-the-Ear Headphones on Sale for $39 Right Now](https://lifehacker.com/tech/sony-over-ear-headphones-sale)
 - [Dev.to/JS] [Handshake: Next.js boilerplate for OAuth with 200+ APIs](https://dev.to/felipap/handshake-nextjs-boilerplate-for-oauth-with-200-apis-k84)
 - [Lifehacker] [Google Maps&#39; &#39;Glanceable Directions&#39; Are Here](https://lifehacker.com/tech/google-maps-glanceable-directions-are-here)
 - [Dev.to/JS] [Lessons from opensource: Add a defensive type-safe error handler in your catch block](https://dev.to/ramunarasinga/lessons-from-opensource-add-a-defensive-type-safe-error-handler-in-your-catch-block-3em1)
@@ -43,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy verified cash app account](https://dev.to/ehazardd893/buy-verified-cash-app-account-33e)
 - [Dev.to/JS] [CRUD in GraphQL MongoDB](https://dev.to/akmaurya31/crud-in-graphql-mongodb-5c65)
 - [Lifehacker] [Apple Music’s Daily ‘Heavy Rotation Mix’ Rounds up Your Most Played Songs](https://lifehacker.com/tech/apple-musics-heavy-rotation-playlist)
-- [Dev.to/JS] [microservices in React App](https://dev.to/akmaurya31/microservices-in-react-app-3lhj)
 - [Lifehacker] [You Can Get the Apple Watch Series 8 for $200 Off](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
 - [Lifehacker] [Mona Is the Best Mastodon Client for iOS](https://lifehacker.com/tech/mona-best-mastodon-client)
 - [Lifehacker] [Your Tool Kit Needs a Magnetizer](https://lifehacker.com/home/tool-kit-needs-magnetizer)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Made a Sports Score App Without the Ads](https://lifehacker.com/tech/apple-sports-a-scores-app-without-the-ads)
 - [Lifehacker] [The Out of Touch Adults’ Guide to Kid Culture: The TikTok Chocolate-Covered Strawberries, Explained](https://lifehacker.com/entertainment/tiktok-chocolate-covered-strawberries)
 - [Lifehacker] [You Can Now Replace Google Assistant With Microsoft&#39;s Copilot AI](https://lifehacker.com/tech/you-can-replace-google-assistant-with-microsofts-copilot-ai)
-- [Lifehacker] [The Best Budget ANC Earbuds Just Got Much Cheaper](https://lifehacker.com/tech/anker-space-a40-earbuds-sale)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in March 2024](https://lifehacker.com/entertainment/whats-new-on-prime-video-and-freevee-in-march-2024)
-- [Lifehacker] [The Apple Car Is Dead](https://lifehacker.com/tech/the-apple-car-is-dead)
-- [Lifehacker] [Google’s AI Can Make You a Custom Video Game](https://lifehacker.com/tech/googles-ai-can-now-create-video-games)
-- [Lifehacker] [How to Choose Between the OnePlus Watch 2 and the Pixel Watch 2](https://lifehacker.com/tech/oneplus-watch-2-vs-pixel-watch-2)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Budget ANC Earbuds Just Got Much Cheaper](https://lifehacker.com/tech/anker-space-a40-earbuds-sale)<!-- TECH-POSTS:END -->
 
 ---
 
