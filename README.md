@@ -30,6 +30,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Node.js security code snippets every backend developer should know](https://dev.to/snyk/5-nodejs-security-code-snippets-every-backend-developer-should-know-456f)
 - [Dev.to/JS] [MongoDB for Beginners: Setting Up Your Database with Atlas](https://dev.to/zechariah17/mongodb-for-beginners-setting-up-your-database-with-atlas-4k53)
 - [Dev.to/JS] [[React, Next.js] Search function using useDebounce](https://dev.to/c0xxxtv/react-nextjs-search-function-using-usedebounce-3hfp)
+- [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)
+- [Lifehacker] [You Can Get This Löv HEPA Air Purifier on Sale for $105 Off Right Now](https://lifehacker.com/home/lov-hepa-air-purifier-sale)
 - [Lifehacker] [These Milwaukee Tool Sets Are Up to 55% Off at Home Depot](https://lifehacker.com/home/these-milwaukee-tool-sets-are-up-to-55-off-right-now-at-home-depot)
 - [Lifehacker] [These Are the Best Kinds of Exercise for Losing Weight](https://lifehacker.com/health/best-exercises-to-lose-weight)
 - [Dev.to/JS] [Will Bun.js replace Node.js?](https://dev.to/renacargnelutti/will-bunjs-replace-nodejs-npn)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Ways to Save All Your Open Browser Tabs for Later](https://lifehacker.com/tech/how-to-save-all-your-open-tabs-in-safari-chrome-firefox)
 - [Lifehacker] [This Viral Roasted Potato Recipe Tastes Like a Giant French Fry](https://lifehacker.com/food-drink/giant-roasted-potato-recipe)
 - [Lifehacker] [Netflix Is Nixing App Store Billing for Everyone](https://lifehacker.com/tech/netflix-is-nixing-app-store-billing-for-everyone)
-- [Lifehacker] [Apple Made a Sports Score App Without the Ads](https://lifehacker.com/tech/apple-sports-a-scores-app-without-the-ads)
-- [Lifehacker] [The Out of Touch Adults’ Guide to Kid Culture: The TikTok Chocolate-Covered Strawberries, Explained](https://lifehacker.com/entertainment/tiktok-chocolate-covered-strawberries)
-- [Lifehacker] [You Can Now Replace Google Assistant With Microsoft&#39;s Copilot AI](https://lifehacker.com/tech/you-can-replace-google-assistant-with-microsofts-copilot-ai)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Made a Sports Score App Without the Ads](https://lifehacker.com/tech/apple-sports-a-scores-app-without-the-ads)<!-- TECH-POSTS:END -->
 
 ---
 
