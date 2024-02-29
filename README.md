@@ -26,18 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Temporary and persistent state management with Alpine.js](https://dev.to/aggregata/temporary-and-persistent-state-management-with-alpinejs-1a79)
+- [Dev.to/JS] [Can you make your website green 🌳♻🌳?](https://dev.to/fanmixco/can-you-make-your-website-green--1lb7)
 - [Dev.to/JS] [What is React Suspense and Async Rendering?](https://dev.to/this-is-learning/what-is-react-suspense-and-async-rendering-3dh5)
+- [Lifehacker] [The Difference Between WordPress and WordPress.com](https://lifehacker.com/tech/the-difference-between-wordpress-and-wordpresscom)
 - [Dev.to/JS] [My new project](https://dev.to/jvcgoncalves/my-new-project-2kin)
 - [Dev.to/JS] [BUY NEGATIVE TRUSTPILOT REVIEWS](https://dev.to/glennmarvin6/buy-negative-trustpilot-reviews-39c9)
 - [Dev.to/JS] [BUY TRUSTPILOT REVIEWS](https://dev.to/glennmarvin6/buy-trustpilot-reviews-1pek)
+- [Lifehacker] [How to Successfully Repot Last Year’s Hanging Flower Baskets](https://lifehacker.com/home/how-to-repot-old-hanging-flower-basket)
 - [Dev.to/JS] [Async vs Defer in JavaScript: Which is Better?🤔](https://dev.to/fidalmathew/async-vs-defer-in-javascript-which-is-better-26gm)
 - [Dev.to/JS] [CoinDCX interview process: How we hire](https://dev.to/shail/coindcx-interview-process-how-we-hire-4eef)
+- [Lifehacker] [The Best Ways to Find Live Gigs for Music You Love](https://lifehacker.com/tech/the-best-ways-to-find-live-music-gigs)
+- [Lifehacker] [You Should Find &lpar;and Use&rpar; a Seed Library Near You](https://lifehacker.com/home/how-to-find-and-use-a-seed-library)
 - [Dev.to/JS] [I have developed this landing page](https://dev.to/ranag/i-have-developed-this-landing-page-8ji)
 - [Dev.to/JS] [NAT traversal: How does it work?](https://dev.to/alakkadshaw/nat-traversal-how-does-it-work-j3c)
+- [Lifehacker] [These ‘Pathways to Hope’ Can Improve Your Mental Health](https://lifehacker.com/health/pathways-to-hope-to-create-turning-point-in-mental-health)
 - [Dev.to/JS] [Duck Killer: Shooting Game 🦆](https://dev.to/puneetkumar2010/duck-killer-shooting-game-35fn)
+- [Lifehacker] [How to &lpar;Safely&rpar; Engage in Wax Play](https://lifehacker.com/relationships/how-to-do-wax-play-safely)
 - [Dev.to/JS] [5 Best Programming Languages for Blockchain Development](https://dev.to/immutabledevs/5-best-programming-languages-for-blockchain-development-3acp)
-- [Dev.to/JS] [🔮 Adobe Redefines Design - Inside Spectrum 2&#39;s Visionary Update](https://dev.to/adam/adobe-redefines-design-inside-spectrum-2s-visionary-update-n59)
-- [Dev.to/JS] [Node JS Api Backend](https://dev.to/akmaurya31/node-js-api-backend-28m)
+- [Lifehacker] [This Apple Magic Keyboard Folio Is on Sale for $100 Right Now](https://lifehacker.com/apple-magic-keyboard-folio-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 29, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)
 - [Lifehacker] [You Can Get This Löv HEPA Air Purifier on Sale for $105 Off Right Now](https://lifehacker.com/home/lov-hepa-air-purifier-sale)
@@ -58,14 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Create a Modern Mixtape](https://lifehacker.com/tech/how-to-create-a-modern-mixtape)
 - [Lifehacker] [Ride1Up&#39;s Portola Is a Budget-friendly, Foldable E-bike](https://lifehacker.com/tech/ride1ups-portola-ebike-review)
 - [Lifehacker] [The Best Ways to Keep Potholes From Destroying Your Car](https://lifehacker.com/travel/best-ways-to-keep-potholes-from-destroying-your-car)
-- [Lifehacker] [The 26 Best War Movies Streaming Right Now](https://lifehacker.com/entertainment/best-war-movies-streaming-right-now)
-- [Lifehacker] [Seven Mistakes to Avoid When Your Kid Is Sick](https://lifehacker.com/family/avoid-these-mistakes-when-your-kid-is-sick)
-- [Lifehacker] [How to Hide &lpar;or Disable&rpar; Copilot in Windows 11](https://lifehacker.com/tech/how-to-hide-or-disable-copilot-in-windows-11)
-- [Lifehacker] [All of Your Information That’s Publicly Available &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/tech/all-your-information-thats-publicly-available-what-to-do-about-it)
-- [Lifehacker] [The Fastest Ways to Save All Your Open Browser Tabs for Later](https://lifehacker.com/tech/how-to-save-all-your-open-tabs-in-safari-chrome-firefox)
-- [Lifehacker] [This Viral Roasted Potato Recipe Tastes Like a Giant French Fry](https://lifehacker.com/food-drink/giant-roasted-potato-recipe)
-- [Lifehacker] [Netflix Is Nixing App Store Billing for Everyone](https://lifehacker.com/tech/netflix-is-nixing-app-store-billing-for-everyone)
-- [Lifehacker] [Apple Made a Sports Score App Without the Ads](https://lifehacker.com/tech/apple-sports-a-scores-app-without-the-ads)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 26 Best War Movies Streaming Right Now](https://lifehacker.com/entertainment/best-war-movies-streaming-right-now)<!-- TECH-POSTS:END -->
 
 ---
 
