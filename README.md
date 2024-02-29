@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding useEffect Hooks in React – An introduction and Comprehensive Guide for Web Developers](https://dev.to/jlerocher/understanding-useeffect-hooks-in-react-an-introduction-and-comprehensive-guide-for-web-developers-4b26)
+- [Dev.to/JS] [Understanding useState Hook in React – An introduction and a Comprehensive Guide for Web Developers](https://dev.to/jlerocher/understanding-usestate-hook-in-react-an-introduction-and-a-comprehensive-guide-for-web-developers-57o7)
+- [Dev.to/JS] [🌟5 Star Rating component: A Step-by-Step Guide 🌟](https://dev.to/vikas2426/5-star-rating-component-a-step-by-step-guide-37bk)
 - [Dev.to/JS] [Level Up Your JavaScript Skills with My New eBook!](https://dev.to/hkp22/level-up-your-javascript-skills-with-my-new-ebook-26gc)
 - [Dev.to/JS] [Fortifying Your WordPress Arsenal: Essential Strategies for Securing Custom Plugins](https://dev.to/jamesmartindev/fortifying-your-wordpress-arsenal-essential-strategies-for-securing-custom-plugins-2mph)
 - [Dev.to/JS] [Writing clean, reusable components in React &lpar;best practices&rpar;](https://dev.to/codewithshahan/writing-clean-reusable-components-in-react-best-practices-2gka)
@@ -35,13 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build Your Personal Crypto Savings Dapp &lpar;Part 1 - Contract&rpar;](https://dev.to/oleanji/build-your-personal-crypto-savings-dapp-part-1-contract-5g8b)
 - [Dev.to/JS] [suachuaclickbuy](https://dev.to/suachuaclickbuy/suachuaclickbuy-2e2h)
 - [Dev.to/JS] [5 Node.js security code snippets every backend developer should know](https://dev.to/snyk/5-nodejs-security-code-snippets-every-backend-developer-should-know-456f)
-- [Dev.to/JS] [MongoDB for Beginners: Setting Up Your Database with Atlas](https://dev.to/zechariah17/mongodb-for-beginners-setting-up-your-database-with-atlas-4k53)
-- [Dev.to/JS] [[React, Next.js] Search function using useDebounce](https://dev.to/c0xxxtv/react-nextjs-search-function-using-usedebounce-3hfp)
 - [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)
 - [Lifehacker] [You Can Get This Löv HEPA Air Purifier on Sale for $105 Off Right Now](https://lifehacker.com/home/lov-hepa-air-purifier-sale)
 - [Lifehacker] [These Milwaukee Tool Sets Are Up to 55% Off at Home Depot](https://lifehacker.com/home/these-milwaukee-tool-sets-are-up-to-55-off-right-now-at-home-depot)
 - [Lifehacker] [These Are the Best Kinds of Exercise for Losing Weight](https://lifehacker.com/health/best-exercises-to-lose-weight)
-- [Dev.to/JS] [Will Bun.js replace Node.js?](https://dev.to/renacargnelutti/will-bunjs-replace-nodejs-npn)
 - [Lifehacker] [The Samsung Galaxy Watch 6 Is 24% Off Right Now](https://lifehacker.com/tech/samsung-galaxy-watch-6-sale)
 - [Lifehacker] [Score These Meats and Vegetables Before Cooking](https://lifehacker.com/food-drink/how-to-score-tough-ingredients-before-cooking)
 - [Lifehacker] [You Can Get These Sony Over-the-Ear Headphones on Sale for $39 Right Now](https://lifehacker.com/tech/sony-over-ear-headphones-sale)
