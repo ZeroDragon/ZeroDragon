@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Your Personal Crypto Savings Dapp &lpar;Part 1 - Contract&rpar;](https://dev.to/oleanji/build-your-personal-crypto-savings-dapp-part-1-contract-5g8b)
 - [Dev.to/JS] [suachuaclickbuy](https://dev.to/suachuaclickbuy/suachuaclickbuy-2e2h)
 - [Dev.to/JS] [5 Node.js security code snippets every backend developer should know](https://dev.to/snyk/5-nodejs-security-code-snippets-every-backend-developer-should-know-456f)
 - [Dev.to/JS] [MongoDB for Beginners: Setting Up Your Database with Atlas](https://dev.to/zechariah17/mongodb-for-beginners-setting-up-your-database-with-atlas-4k53)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Azure, AWS &lpar;Amazon Web Services&rpar;, and GCP &lpar;Google Cloud Platform&rpar;](https://dev.to/akmaurya31/azure-aws-amazon-web-services-and-gcp-google-cloud-platform-35gg)
 - [Lifehacker] [The Amazon Fire Max 11 Is $90 Off Right Now](https://lifehacker.com/tech/the-amazon-fire-max-11-is-90-off-right-now)
 - [Lifehacker] [Tumblr and WordPress Are Selling Your Data to AI Companies](https://lifehacker.com/tech/tumblr-and-wordpress-are-selling-your-data-to-ai-companies)
-- [Dev.to/JS] [How to Scrape Apple App Store Data](https://dev.to/crawlbase/how-to-scrape-apple-app-store-data-4oh)
 - [Lifehacker] [How to Fill Out Your W-4 to Get More Money in Your Paycheck](https://lifehacker.com/money/fill-out-your-w-4-to-get-more-money-in-your-paycheck)
 - [Lifehacker] [Apple Music’s Daily ‘Heavy Rotation Mix’ Rounds up Your Most Played Songs](https://lifehacker.com/tech/apple-musics-heavy-rotation-playlist)
 - [Lifehacker] [You Can Get the Apple Watch Series 8 for $200 Off](https://lifehacker.com/you-can-get-the-apple-watch-series-8-for-its-lowest-pri-1850964083)
