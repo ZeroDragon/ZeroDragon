@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js Authentication Strategies: JWT vs. OAuth](https://dev.to/nitin-rachabathuni/nodejs-authentication-strategies-jwt-vs-oauth-1g52)
+- [Dev.to/JS] [React 19: What’s New?](https://dev.to/vparul/react-19-whats-new-3d8m)
+- [Dev.to/JS] [Mastering Object-Oriented Programming: Principles and Concepts](https://dev.to/hriztam/mastering-object-oriented-programming-principles-and-concepts-4j5f)
 - [Dev.to/JS] [Build Your Personal Crypto Savings Dapp &lpar;Part 1 - Contract&rpar;](https://dev.to/oleanji/build-your-personal-crypto-savings-dapp-part-1-contract-5g8b)
 - [Dev.to/JS] [suachuaclickbuy](https://dev.to/suachuaclickbuy/suachuaclickbuy-2e2h)
 - [Dev.to/JS] [5 Node.js security code snippets every backend developer should know](https://dev.to/snyk/5-nodejs-security-code-snippets-every-backend-developer-should-know-456f)
@@ -44,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Google Maps&#39; &#39;Glanceable Directions&#39; Are Here](https://lifehacker.com/tech/google-maps-glanceable-directions-are-here)
 - [Dev.to/JS] [Lessons from opensource: Add a defensive type-safe error handler in your catch block](https://dev.to/ramunarasinga/lessons-from-opensource-add-a-defensive-type-safe-error-handler-in-your-catch-block-3em1)
 - [Lifehacker] [How to Use an Instant Pot, Button by Button](https://lifehacker.com/how-to-use-instant-pot)
-- [Dev.to/JS] [AWS, Digital Ocean, Bluehost, GoDaddy, and E2E](https://dev.to/akmaurya31/aws-digital-ocean-bluehost-godaddy-and-e2e-8k5)
-- [Dev.to/JS] [Azure, AWS, and GCP](https://dev.to/akmaurya31/azure-aws-and-gcp-3f79)
-- [Dev.to/JS] [Azure, AWS &lpar;Amazon Web Services&rpar;, and GCP &lpar;Google Cloud Platform&rpar;](https://dev.to/akmaurya31/azure-aws-amazon-web-services-and-gcp-google-cloud-platform-35gg)
 - [Lifehacker] [The Amazon Fire Max 11 Is $90 Off Right Now](https://lifehacker.com/tech/the-amazon-fire-max-11-is-90-off-right-now)
 - [Lifehacker] [Tumblr and WordPress Are Selling Your Data to AI Companies](https://lifehacker.com/tech/tumblr-and-wordpress-are-selling-your-data-to-ai-companies)
 - [Lifehacker] [How to Fill Out Your W-4 to Get More Money in Your Paycheck](https://lifehacker.com/money/fill-out-your-w-4-to-get-more-money-in-your-paycheck)
