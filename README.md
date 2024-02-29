@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is React Suspense and Async Rendering?](https://dev.to/this-is-learning/what-is-react-suspense-and-async-rendering-3dh5)
+- [Dev.to/JS] [My new project](https://dev.to/jvcgoncalves/my-new-project-2kin)
+- [Dev.to/JS] [BUY NEGATIVE TRUSTPILOT REVIEWS](https://dev.to/glennmarvin6/buy-negative-trustpilot-reviews-39c9)
+- [Dev.to/JS] [BUY TRUSTPILOT REVIEWS](https://dev.to/glennmarvin6/buy-trustpilot-reviews-1pek)
 - [Dev.to/JS] [Async vs Defer in JavaScript: Which is Better?🤔](https://dev.to/fidalmathew/async-vs-defer-in-javascript-which-is-better-26gm)
 - [Dev.to/JS] [CoinDCX interview process: How we hire](https://dev.to/shail/coindcx-interview-process-how-we-hire-4eef)
 - [Dev.to/JS] [I have developed this landing page](https://dev.to/ranag/i-have-developed-this-landing-page-8ji)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Best Programming Languages for Blockchain Development](https://dev.to/immutabledevs/5-best-programming-languages-for-blockchain-development-3acp)
 - [Dev.to/JS] [🔮 Adobe Redefines Design - Inside Spectrum 2&#39;s Visionary Update](https://dev.to/adam/adobe-redefines-design-inside-spectrum-2s-visionary-update-n59)
 - [Dev.to/JS] [Node JS Api Backend](https://dev.to/akmaurya31/node-js-api-backend-28m)
-- [Dev.to/JS] [Prototypal inheritance; what really happens under the hood.](https://dev.to/joshraphael/prototypal-inheritance-what-really-happens-under-the-hood-1a07)
-- [Dev.to/JS] [I am developing a SaaS platform on blockchain ⛓, focusing on cryptocurrency liquidity.](https://dev.to/codechainwizard/i-am-developing-a-saas-platform-on-blockchain-focusing-on-cryptocurrency-liquidity-2520)
-- [Dev.to/JS] [Automating React Component Generation with a Shell Script](https://dev.to/mitevskasar/automating-react-component-generation-with-a-shell-script-1903)
-- [Dev.to/JS] [LeetCode Meditations — Chapter 2: Two Pointers](https://dev.to/rivea0/leetcode-meditations-chapter-2-two-pointers-4153)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 29, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)
 - [Lifehacker] [You Can Get This Löv HEPA Air Purifier on Sale for $105 Off Right Now](https://lifehacker.com/home/lov-hepa-air-purifier-sale)
