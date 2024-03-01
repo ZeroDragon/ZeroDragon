@@ -26,18 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is REST API](https://dev.to/otumianempire/what-is-rest-api-53li)
+- [Lifehacker] [40 of the Horniest Movies Ever Made](https://lifehacker.com/horniest-movies-of-all-time)
 - [Dev.to/JS] [Spoiler Alert: Import Alias in React + Vite](https://dev.to/navdeepm20/spoiler-alert-import-alias-in-react-vite-3apf)
+- [Lifehacker] [How to Migrate to Pocket Casts After Google Podcasts Shuts Down](https://lifehacker.com/entertainment/google-podcasts-is-shutting-down)
 - [Dev.to/JS] [Day 11: Introduction to React Hooks](https://dev.to/pdhavalm/day-11-introduction-to-react-hooks-211m)
 - [Dev.to/JS] [Creating Interactive Calendar Charts in JavaScript](https://dev.to/bepely/creating-interactive-calendar-charts-in-javascript-4m9f)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/lucasjohnsonnn38/buy-google-voice-accounts-1nb7)
 - [Dev.to/JS] [Time conversion](https://dev.to/kecbm/time-conversion-383d)
 - [Dev.to/JS] [Day 10: Lifecycle Methods in React](https://dev.to/pdhavalm/day-10-lifecycle-methods-in-react-400p)
+- [Lifehacker] [The Best Movies and TV Shows to Watch on Prime in March](https://lifehacker.com/entertainment/the-best-movies-and-tv-shows-to-watch-on-prime)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/lucasjohnsonnn38/buy-google-5-star-reviews-4oa6)
 - [Dev.to/JS] [Day 9: Forms in React](https://dev.to/pdhavalm/day-9-forms-in-react-3jig)
 - [Dev.to/JS] [Summary - Section 2](https://dev.to/crespo/summary-section-2-3n72)
 - [Dev.to/JS] [[Sparta Coding Club] Week 4 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-4-today-i-learned-466a)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/lucasjohnsonnn38/buy-verified-paxful-account-2ndj)
-- [Dev.to/JS] [Otello: how to make Chat-GPT interact with your API](https://dev.to/sinapsi/otello-how-to-make-chat-gpt-interact-with-your-api-3d9i)
+- [Lifehacker] [All the Changes to Know About Before Filing Your 2024 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
+- [Lifehacker] [The Best Movies and TV Shows to Watch on Netflix in March](https://lifehacker.com/entertainment/best-movies-tv-shows-netflix-this-month)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [You Can Get This Handheld LCD Microscope on Sale for $82 Right Now](https://lifehacker.com/tech/lcd-microscope-sale)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 1, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Stream Every Nominated Movie Before the 2024 Oscars](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Lifehacker] [The Difference Between WordPress and WordPress.com](https://lifehacker.com/tech/the-difference-between-wordpress-and-wordpresscom)
 - [Lifehacker] [How to Successfully Repot Last Year’s Hanging Flower Baskets](https://lifehacker.com/home/how-to-repot-old-hanging-flower-basket)
-- [Lifehacker] [The Best Ways to Find Live Gigs for Music You Love](https://lifehacker.com/tech/the-best-ways-to-find-live-music-gigs)
-- [Lifehacker] [You Should Find &lpar;and Use&rpar; a Seed Library Near You](https://lifehacker.com/home/how-to-find-and-use-a-seed-library)
-- [Lifehacker] [These ‘Pathways to Hope’ Can Improve Your Mental Health](https://lifehacker.com/health/pathways-to-hope-to-create-turning-point-in-mental-health)
-- [Lifehacker] [How to &lpar;Safely&rpar; Engage in Wax Play](https://lifehacker.com/relationships/how-to-do-wax-play-safely)
-- [Lifehacker] [This Apple Magic Keyboard Folio Is on Sale for $100 Right Now](https://lifehacker.com/apple-magic-keyboard-folio-sale)
-- [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Find Live Gigs for Music You Love](https://lifehacker.com/tech/the-best-ways-to-find-live-music-gigs)<!-- TECH-POSTS:END -->
 
 ---
 
