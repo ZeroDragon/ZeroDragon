@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Future of eCommerce: Predictions and How commercetools Fits In](https://dev.to/nitin-rachabathuni/the-future-of-ecommerce-predictions-and-how-commercetools-fits-in-37c9)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 1, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Day 6: Handling Events in React](https://dev.to/pdhavalm/day-6-handling-events-in-react-1j58)
 - [Dev.to/JS] [👨‍💻 Splice method in JavaScript : Unveiling the Magic of JavaScript Arrays](https://dev.to/nameismani/unveiling-the-magic-of-javascript-arrays-a-deep-dive-into-the-splice-method-kfk)
 - [Dev.to/JS] [JWT Authentication in NodeJS](https://dev.to/arindam_1729/jwt-authentication-in-nodejs-863)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Developing a Microservice to Check Content Availability on a Platform &lpar;Spotify, Deezer, Netflix&rpar;](https://dev.to/sampseiol1/developing-a-microservice-to-check-content-availability-on-a-platform-spotify-deezer-netflix-5789)
 - [Lifehacker] [You Can Get a Eufy Home Security Camera System for up to 40% Off](https://lifehacker.com/tech/eufy-home-security-camera-sale)
 - [Lifehacker] [You Can Now Search WhatsApp Messages by Date on Android Too](https://lifehacker.com/tech/how-to-search-for-messages-by-date-on-whatsapp)
-- [Dev.to/JS] [Jest Node.js and React](https://dev.to/akmaurya31/jest-nodejs-and-react-kl1)
 - [Lifehacker] [How &lpar;and Why&rpar; to Mark and Monitor Minor the Cracks in Your Home](https://lifehacker.com/home/mark-the-endpoints-of-minor-cracks-in-your-ceiling-or-wall)
 - [Lifehacker] [Buy a Samsung Galaxy Book4, Get a Best Buy Gift Card Worth up to $200](https://lifehacker.com/tech/samsung-galaxy-book4-laptop-best-buy-promotion)
 - [Lifehacker] [You Can Get Dollar Flight Club on Sale for $40 Right Now](https://lifehacker.com/dollar-flight-club-sale)
@@ -62,7 +63,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These ‘Pathways to Hope’ Can Improve Your Mental Health](https://lifehacker.com/health/pathways-to-hope-to-create-turning-point-in-mental-health)
 - [Lifehacker] [How to &lpar;Safely&rpar; Engage in Wax Play](https://lifehacker.com/relationships/how-to-do-wax-play-safely)
 - [Lifehacker] [This Apple Magic Keyboard Folio Is on Sale for $100 Right Now](https://lifehacker.com/apple-magic-keyboard-folio-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 29, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)
 - [Lifehacker] [You Can Get This Löv HEPA Air Purifier on Sale for $105 Off Right Now](https://lifehacker.com/home/lov-hepa-air-purifier-sale)
 - [Lifehacker] [These Milwaukee Tool Sets Are Up to 55% Off at Home Depot](https://lifehacker.com/home/these-milwaukee-tool-sets-are-up-to-55-off-right-now-at-home-depot)<!-- TECH-POSTS:END -->
