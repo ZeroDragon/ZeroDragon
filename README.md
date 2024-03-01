@@ -26,9 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Higher Order Functions](https://dev.to/dariusc16/higher-order-functions-1m48)
+- [Dev.to/JS] [Design Systems: From Atomic Design to a Global Solution](https://dev.to/codingcatdev/design-systems-from-atomic-design-to-a-global-solution-1fmc)
+- [Dev.to/JS] [This Month In Solid: SolidStart 0.6.0, Solid Docs Beta, and more 😎](https://dev.to/danieljcafonso/this-month-in-solid-solidstart-060-solid-docs-beta-and-more-lo8)
+- [Lifehacker] [The Best Pans Depending on What Style of Eggs You’re Making](https://lifehacker.com/food-drink/best-pans-for-eggs)
 - [Dev.to/JS] [Postman token automate code](https://dev.to/akash32755/postman-token-automate-code-3f7b)
 - [Dev.to/JS] [TypeLib JS &lpar;part 3&rpar; - Error debugging and conditional verification](https://dev.to/schemetastic/typelib-part-3-error-debugging-and-conditional-verification-46e9)
+- [Lifehacker] [You Can Use Flags to Disable the Touchscreen on a Chromebook](https://lifehacker.com/tech/how-to-disable-the-touchscreen-on-a-chromebook)
+- [Lifehacker] [How Low-E Windows &lpar;or Coating&rpar; Can Save You Money](https://lifehacker.com/home/benefits-of-low-e-windows)
+- [Dev.to/JS] [How to Implement React Infinite Scrolling with React Query v5](https://dev.to/getpieces/how-to-implement-react-infinite-scrolling-with-react-query-v5-1pjn)
 - [Dev.to/JS] [What is REST API](https://dev.to/otumianempire/what-is-rest-api-53li)
+- [Lifehacker] [&#39;Lapse&#39; Is a Twist on Photo Sharing Apps](https://lifehacker.com/tech/lapse-new-photo-sharing-app)
 - [Lifehacker] [40 of the Horniest Movies Ever Made](https://lifehacker.com/horniest-movies-of-all-time)
 - [Dev.to/JS] [Spoiler Alert: Import Alias in React + Vite](https://dev.to/navdeepm20/spoiler-alert-import-alias-in-react-vite-3apf)
 - [Lifehacker] [How to Migrate to Pocket Casts After Google Podcasts Shuts Down](https://lifehacker.com/entertainment/google-podcasts-is-shutting-down)
@@ -36,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Interactive Calendar Charts in JavaScript](https://dev.to/bepely/creating-interactive-calendar-charts-in-javascript-4m9f)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/lucasjohnsonnn38/buy-google-voice-accounts-1nb7)
 - [Dev.to/JS] [Time conversion](https://dev.to/kecbm/time-conversion-383d)
-- [Dev.to/JS] [Day 10: Lifecycle Methods in React](https://dev.to/pdhavalm/day-10-lifecycle-methods-in-react-400p)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Prime in March](https://lifehacker.com/entertainment/the-best-movies-and-tv-shows-to-watch-on-prime)
-- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/lucasjohnsonnn38/buy-google-5-star-reviews-4oa6)
-- [Dev.to/JS] [Day 9: Forms in React](https://dev.to/pdhavalm/day-9-forms-in-react-3jig)
-- [Dev.to/JS] [Summary - Section 2](https://dev.to/crespo/summary-section-2-3n72)
 - [Lifehacker] [All the Changes to Know About Before Filing Your 2024 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Netflix in March](https://lifehacker.com/entertainment/best-movies-tv-shows-netflix-this-month)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
@@ -51,7 +55,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Mix Dark and Light Mode on Mac with &#39;Gray&#39;](https://lifehacker.com/tech/gray-mix-dark-and-light-mode-on-mac)
 - [Lifehacker] [You Can Get a Eufy Home Security Camera System for up to 40% Off](https://lifehacker.com/tech/eufy-home-security-camera-sale)
 - [Lifehacker] [You Can Now Search WhatsApp Messages by Date on Android Too](https://lifehacker.com/tech/how-to-search-for-messages-by-date-on-whatsapp)
-- [Lifehacker] [How &lpar;and Why&rpar; to Mark and Monitor Minor the Cracks in Your Home](https://lifehacker.com/home/mark-the-endpoints-of-minor-cracks-in-your-ceiling-or-wall)
+- [Lifehacker] [How &lpar;and Why&rpar; to Mark and Monitor Minor Cracks in Your Home](https://lifehacker.com/home/mark-the-endpoints-of-minor-cracks-in-your-ceiling-or-wall)
 - [Lifehacker] [Buy a Samsung Galaxy Book4, Get a Best Buy Gift Card Worth up to $200](https://lifehacker.com/tech/samsung-galaxy-book4-laptop-best-buy-promotion)
 - [Lifehacker] [You Can Get Dollar Flight Club on Sale for $40 Right Now](https://lifehacker.com/dollar-flight-club-sale)
 - [Lifehacker] [Don&#39;t Worry, Apple’s Journal App Probably Isn’t a Privacy Nightmare](https://lifehacker.com/tech/apples-journal-app-discoverable-by-others)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
 - [Lifehacker] [31 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
 - [Lifehacker] [Apple Now Lets You Repair Your Own M3 Mac](https://lifehacker.com/tech/how-to-repair-m3-mac)
-- [Lifehacker] [When to Withhold Payment From Your Contractor](https://lifehacker.com/money/when-to-withhold-contractor-payment)
-- [Lifehacker] [Where to Stream Every Nominated Movie Before the 2024 Oscars](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
-- [Lifehacker] [The Difference Between WordPress and WordPress.com](https://lifehacker.com/tech/the-difference-between-wordpress-and-wordpresscom)
-- [Lifehacker] [How to Successfully Repot Last Year’s Hanging Flower Baskets](https://lifehacker.com/home/how-to-repot-old-hanging-flower-basket)
-- [Lifehacker] [The Best Ways to Find Live Gigs for Music You Love](https://lifehacker.com/tech/the-best-ways-to-find-live-music-gigs)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Withhold Payment From Your Contractor](https://lifehacker.com/money/when-to-withhold-contractor-payment)<!-- TECH-POSTS:END -->
 
 ---
 
