@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Find Open Source Projects Fast &lpar;short&rpar; 🔥](https://dev.to/rudransh61/find-open-source-projects-fast-short-4nih)
+- [Dev.to/JS] [👉Get Readymade On-demand Service Man App Development👈](https://dev.to/devoxtechmegha/get-readymade-on-demand-service-man-app-development-4o8g)
 - [Dev.to/JS] [Organic SEO Services](https://dev.to/freelancersdev-usa/organic-seo-services-93b)
 - [Dev.to/JS] [A Real Implementation of Server-Sent Events &lpar;SSE&rpar;](https://dev.to/raselmahmuddev/server-sent-events-sse-eka)
 - [Dev.to/JS] [The Future of eCommerce: Predictions and How commercetools Fits In](https://dev.to/nitin-rachabathuni/the-future-of-ecommerce-predictions-and-how-commercetools-fits-in-37c9)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Object Cloning in Javascript](https://dev.to/nishchaldev/object-cloning-in-javascript-636)
 - [Dev.to/JS] [Understanding JSX in React: A Beginner’s Guide](https://dev.to/saikiran76/understanding-jsx-in-react-a-beginners-guide-ean)
 - [Dev.to/JS] [Implementing Internationalization in Apps: How to Translate Notifications](https://dev.to/novu/implementing-internationalization-in-apps-how-to-translate-notifications-2cgm)
-- [Dev.to/JS] [Need Help with Uploading Large Video Files to S3 Using Chunking](https://dev.to/dkpatel123/need-help-with-uploading-large-video-files-to-s3-using-chunking-47ep)
-- [Dev.to/JS] [Convert an image address into a file stream and upload it again](https://dev.to/ydydydq/convert-an-image-address-into-a-file-stream-and-upload-it-again-428o)
 - [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
 - [Lifehacker] [Mix Dark and Light Mode on Mac with &#39;Gray&#39;](https://lifehacker.com/tech/gray-mix-dark-and-light-mode-on-mac)
