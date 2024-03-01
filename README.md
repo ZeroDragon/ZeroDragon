@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Organic SEO Services](https://dev.to/freelancersdev-usa/organic-seo-services-93b)
+- [Dev.to/JS] [A Real Implementation of Server-Sent Events &lpar;SSE&rpar;](https://dev.to/raselmahmuddev/server-sent-events-sse-eka)
 - [Dev.to/JS] [The Future of eCommerce: Predictions and How commercetools Fits In](https://dev.to/nitin-rachabathuni/the-future-of-ecommerce-predictions-and-how-commercetools-fits-in-37c9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 1, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Day 6: Handling Events in React](https://dev.to/pdhavalm/day-6-handling-events-in-react-1j58)
@@ -37,11 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing Internationalization in Apps: How to Translate Notifications](https://dev.to/novu/implementing-internationalization-in-apps-how-to-translate-notifications-2cgm)
 - [Dev.to/JS] [Need Help with Uploading Large Video Files to S3 Using Chunking](https://dev.to/dkpatel123/need-help-with-uploading-large-video-files-to-s3-using-chunking-47ep)
 - [Dev.to/JS] [Convert an image address into a file stream and upload it again](https://dev.to/ydydydq/convert-an-image-address-into-a-file-stream-and-upload-it-again-428o)
-- [Dev.to/JS] [Behind the Scenes of Chrome: The V8 Engine - Demystified!](https://dev.to/mohammad1105/behind-the-scenes-of-chrome-the-v8-engine-demystified-1j3o)
 - [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
 - [Lifehacker] [Mix Dark and Light Mode on Mac with &#39;Gray&#39;](https://lifehacker.com/tech/gray-mix-dark-and-light-mode-on-mac)
-- [Dev.to/JS] [Developing a Microservice to Check Content Availability on a Platform &lpar;Spotify, Deezer, Netflix&rpar;](https://dev.to/sampseiol1/developing-a-microservice-to-check-content-availability-on-a-platform-spotify-deezer-netflix-5789)
 - [Lifehacker] [You Can Get a Eufy Home Security Camera System for up to 40% Off](https://lifehacker.com/tech/eufy-home-security-camera-sale)
 - [Lifehacker] [You Can Now Search WhatsApp Messages by Date on Android Too](https://lifehacker.com/tech/how-to-search-for-messages-by-date-on-whatsapp)
 - [Lifehacker] [How &lpar;and Why&rpar; to Mark and Monitor Minor the Cracks in Your Home](https://lifehacker.com/home/mark-the-endpoints-of-minor-cracks-in-your-ceiling-or-wall)
