@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I tricked myself into making a type-safe binary manipulation library](https://dev.to/iwoplaza/i-tricked-myself-into-making-a-type-safe-binary-manipulation-library-a2m)
 - [Dev.to/JS] [What is Event propagation, capturing, bubbling ?](https://dev.to/himanshudevgupta/what-is-event-propagation-capturing-bubbling--86)
 - [Dev.to/JS] [Custom Function Integration in Element Updater with MonsterJS](https://dev.to/schukai/custom-function-integration-in-element-updater-with-monsterjs-3blp)
 - [Dev.to/JS] [Reviving React — Facts &amp; Myths](https://dev.to/saikiran76/reviving-react-facts-myths-14ig)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 1, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Day 6: Handling Events in React](https://dev.to/pdhavalm/day-6-handling-events-in-react-1j58)
 - [Dev.to/JS] [👨‍💻 Splice method in JavaScript : Unveiling the Magic of JavaScript Arrays](https://dev.to/nameismani/unveiling-the-magic-of-javascript-arrays-a-deep-dive-into-the-splice-method-kfk)
-- [Dev.to/JS] [JWT Authentication in NodeJS](https://dev.to/arindam_1729/jwt-authentication-in-nodejs-863)
 - [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
 - [Lifehacker] [Mix Dark and Light Mode on Mac with &#39;Gray&#39;](https://lifehacker.com/tech/gray-mix-dark-and-light-mode-on-mac)
