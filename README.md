@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding JSX in React: A Beginner’s Guide](https://dev.to/saikiran76/understanding-jsx-in-react-a-beginners-guide-ean)
+- [Dev.to/JS] [Implementing Internationalization in Apps: How to Translate Notifications](https://dev.to/novu/implementing-internationalization-in-apps-how-to-translate-notifications-2cgm)
 - [Dev.to/JS] [Need Help with Uploading Large Video Files to S3 Using Chunking](https://dev.to/dkpatel123/need-help-with-uploading-large-video-files-to-s3-using-chunking-47ep)
 - [Dev.to/JS] [Convert an image address into a file stream and upload it again](https://dev.to/ydydydq/convert-an-image-address-into-a-file-stream-and-upload-it-again-428o)
 - [Dev.to/JS] [Behind the Scenes of Chrome: The V8 Engine - Demystified!](https://dev.to/mohammad1105/behind-the-scenes-of-chrome-the-v8-engine-demystified-1j3o)
@@ -47,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Long Do ‘Lifetime Warranties’ Actually Last?](https://lifehacker.com/money/how-long-do-lifetime-warranties-actually-last)
 - [Dev.to/JS] [Understanding the Document Object Model &lpar;DOM&rpar; in Web Development](https://dev.to/mahabubr/understanding-the-document-object-model-dom-in-web-development-4951)
 - [Lifehacker] [Different Types of Bacon for All Your Salty, Smoky Needs](https://lifehacker.com/food-drink/all-the-different-types-of-bacon)
-- [Dev.to/JS] [Comparing JavaScript Array Methods: reverse&lpar;&rpar; vs toReversed&lpar;&rpar;](https://dev.to/ahmadadibzad/comparing-javascript-array-methods-reverse-vs-toreversed-36l0)
-- [Dev.to/JS] [Embed form builder with Javascript](https://dev.to/joyfill/embed-form-builder-with-javascript-3p0o)
 - [Lifehacker] [You Can Get This Bluetooth Smart Projector on Sale for $170 Right Now](https://lifehacker.com/tech/bluetooth-smart-projector-sale)
 - [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
 - [Lifehacker] [31 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
