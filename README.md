@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jest Node.js and React](https://dev.to/akmaurya31/jest-nodejs-and-react-kl1)
+- [Dev.to/JS] [Testing library for Node.js and React](https://dev.to/akmaurya31/testing-library-for-nodejs-and-react-2nmg)
+- [Dev.to/JS] [Memoization](https://dev.to/akmaurya31/memoization-36i2)
+- [Lifehacker] [You Can Get Dollar Flight Club on Sale for $40 Right Now](https://lifehacker.com/dollar-flight-club-sale)
+- [Lifehacker] [Don&#39;t Worry, Apple’s Journal App Probably Isn’t a Privacy Nightmare](https://lifehacker.com/tech/apples-journal-app-discoverable-by-others)
 - [Dev.to/JS] [Lessons from opensource: How to check if your program has internet connectivity in Nodejs?](https://dev.to/ramunarasinga/lessons-from-opensource-how-to-check-if-your-program-has-internet-connectivity-in-nodejs-27f0)
 - [Dev.to/JS] [I made a Trivia Game](https://dev.to/arndom/i-made-a-trivia-game-4oj2)
 - [Lifehacker] [How Long Do ‘Lifetime Warranties’ Actually Last?](https://lifehacker.com/money/how-long-do-lifetime-warranties-actually-last)
@@ -40,11 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data structure and algorithm techniques ...](https://dev.to/danbaba1/data-structure-and-algorithm-techniques--gk5)
 - [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
 - [Lifehacker] [31 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
-- [Dev.to/JS] [Starting a new project](https://dev.to/blacviking/starting-a-new-project-2o4o)
 - [Lifehacker] [Apple Now Lets You Repair Your Own M3 Mac](https://lifehacker.com/tech/how-to-repair-m3-mac)
-- [Dev.to/JS] [Make Your Code Great Again](https://dev.to/misterion96/make-your-code-great-again-1pm3)
 - [Lifehacker] [When to Withhold Payment From Your Contractor](https://lifehacker.com/money/when-to-withhold-contractor-payment)
-- [Dev.to/JS] [Temporary and persistent state management with Alpine.js](https://dev.to/aggregata/temporary-and-persistent-state-management-with-alpinejs-1a79)
 - [Lifehacker] [Where to Stream Every Nominated Movie Before the 2024 Oscars](https://lifehacker.com/entertainment/where-to-stream-2024-oscar-nominees)
 - [Lifehacker] [The Difference Between WordPress and WordPress.com](https://lifehacker.com/tech/the-difference-between-wordpress-and-wordpresscom)
 - [Lifehacker] [How to Successfully Repot Last Year’s Hanging Flower Baskets](https://lifehacker.com/home/how-to-repot-old-hanging-flower-basket)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get These Sony Over-the-Ear Headphones on Sale for $39 Right Now](https://lifehacker.com/tech/sony-over-ear-headphones-sale)
 - [Lifehacker] [Google Maps&#39; &#39;Glanceable Directions&#39; Are Here](https://lifehacker.com/tech/google-maps-glanceable-directions-are-here)
 - [Lifehacker] [How to Use an Instant Pot, Button by Button](https://lifehacker.com/how-to-use-instant-pot)
-- [Lifehacker] [The Amazon Fire Max 11 Is $90 Off Right Now](https://lifehacker.com/tech/the-amazon-fire-max-11-is-90-off-right-now)
-- [Lifehacker] [Tumblr and WordPress Are Selling Your Data to AI Companies](https://lifehacker.com/tech/tumblr-and-wordpress-are-selling-your-data-to-ai-companies)
-- [Lifehacker] [How to Fill Out Your W-4 to Get More Money in Your Paycheck](https://lifehacker.com/money/fill-out-your-w-4-to-get-more-money-in-your-paycheck)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Amazon Fire Max 11 Is $90 Off Right Now](https://lifehacker.com/tech/the-amazon-fire-max-11-is-90-off-right-now)<!-- TECH-POSTS:END -->
 
 ---
 
