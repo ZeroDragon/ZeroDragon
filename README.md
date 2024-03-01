@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Object Cloning in Javascript](https://dev.to/nishchaldev/object-cloning-in-javascript-636)
 - [Dev.to/JS] [Understanding JSX in React: A Beginner’s Guide](https://dev.to/saikiran76/understanding-jsx-in-react-a-beginners-guide-ean)
 - [Dev.to/JS] [Implementing Internationalization in Apps: How to Translate Notifications](https://dev.to/novu/implementing-internationalization-in-apps-how-to-translate-notifications-2cgm)
 - [Dev.to/JS] [Need Help with Uploading Large Video Files to S3 Using Chunking](https://dev.to/dkpatel123/need-help-with-uploading-large-video-files-to-s3-using-chunking-47ep)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lessons from opensource: How to check if your program has internet connectivity in Nodejs?](https://dev.to/ramunarasinga/lessons-from-opensource-how-to-check-if-your-program-has-internet-connectivity-in-nodejs-27f0)
 - [Dev.to/JS] [I made a Trivia Game](https://dev.to/arndom/i-made-a-trivia-game-4oj2)
 - [Lifehacker] [How Long Do ‘Lifetime Warranties’ Actually Last?](https://lifehacker.com/money/how-long-do-lifetime-warranties-actually-last)
-- [Dev.to/JS] [Understanding the Document Object Model &lpar;DOM&rpar; in Web Development](https://dev.to/mahabubr/understanding-the-document-object-model-dom-in-web-development-4951)
 - [Lifehacker] [Different Types of Bacon for All Your Salty, Smoky Needs](https://lifehacker.com/food-drink/all-the-different-types-of-bacon)
 - [Lifehacker] [You Can Get This Bluetooth Smart Projector on Sale for $170 Right Now](https://lifehacker.com/tech/bluetooth-smart-projector-sale)
 - [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
