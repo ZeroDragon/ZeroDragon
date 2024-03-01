@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/lucasjohnsonnn38/buy-google-5-star-reviews-4oa6)
+- [Dev.to/JS] [Day 9: Forms in React](https://dev.to/pdhavalm/day-9-forms-in-react-3jig)
+- [Dev.to/JS] [Summary - Section 2](https://dev.to/crespo/summary-section-2-3n72)
+- [Dev.to/JS] [[Sparta Coding Club] Week 4 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-4-today-i-learned-466a)
+- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/lucasjohnsonnn38/buy-verified-paxful-account-2ndj)
+- [Dev.to/JS] [Otello: how to make Chat-GPT interact with your API](https://dev.to/sinapsi/otello-how-to-make-chat-gpt-interact-with-your-api-3d9i)
+- [Dev.to/JS] [Day 8: Lists and Keys in React](https://dev.to/pdhavalm/day-8-lists-and-keys-in-react-2oni)
+- [Dev.to/JS] [JavaScript News, Updates, and Tutorials: February 2024 Edition](https://dev.to/plazarev/javascript-news-updates-and-tutorials-february-2024-edition-2mlf)
 - [Dev.to/JS] [I tricked myself into making a type-safe binary manipulation library](https://dev.to/iwoplaza/i-tricked-myself-into-making-a-type-safe-binary-manipulation-library-a2m)
+- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Dev.to/JS] [What is Event propagation, capturing, bubbling ?](https://dev.to/himanshudevgupta/what-is-event-propagation-capturing-bubbling--86)
 - [Dev.to/JS] [Custom Function Integration in Element Updater with MonsterJS](https://dev.to/schukai/custom-function-integration-in-element-updater-with-monsterjs-3blp)
+- [Lifehacker] [You Can Get This Handheld LCD Microscope on Sale for $82 Right Now](https://lifehacker.com/tech/lcd-microscope-sale)
 - [Dev.to/JS] [Reviving React — Facts &amp; Myths](https://dev.to/saikiran76/reviving-react-facts-myths-14ig)
-- [Dev.to/JS] [Kinds of Reactive Fibers](https://dev.to/ninjin/kinds-of-reactive-fibers-11mf)
-- [Dev.to/JS] [Find Open Source Projects Fast &lpar;short&rpar; 🔥](https://dev.to/rudransh61/find-open-source-projects-fast-short-4nih)
-- [Dev.to/JS] [👉Get Readymade On-demand Service Man App Development👈](https://dev.to/devoxtechmegha/get-readymade-on-demand-service-man-app-development-4o8g)
-- [Dev.to/JS] [Organic SEO Services](https://dev.to/freelancersdev-usa/organic-seo-services-93b)
-- [Dev.to/JS] [A Real Implementation of Server-Sent Events &lpar;SSE&rpar;](https://dev.to/raselmahmuddev/server-sent-events-sse-eka)
-- [Dev.to/JS] [The Future of eCommerce: Predictions and How commercetools Fits In](https://dev.to/nitin-rachabathuni/the-future-of-ecommerce-predictions-and-how-commercetools-fits-in-37c9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 1, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Day 6: Handling Events in React](https://dev.to/pdhavalm/day-6-handling-events-in-react-1j58)
-- [Dev.to/JS] [👨‍💻 Splice method in JavaScript : Unveiling the Magic of JavaScript Arrays](https://dev.to/nameismani/unveiling-the-magic-of-javascript-arrays-a-deep-dive-into-the-splice-method-kfk)
 - [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
 - [Lifehacker] [Mix Dark and Light Mode on Mac with &#39;Gray&#39;](https://lifehacker.com/tech/gray-mix-dark-and-light-mode-on-mac)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These ‘Pathways to Hope’ Can Improve Your Mental Health](https://lifehacker.com/health/pathways-to-hope-to-create-turning-point-in-mental-health)
 - [Lifehacker] [How to &lpar;Safely&rpar; Engage in Wax Play](https://lifehacker.com/relationships/how-to-do-wax-play-safely)
 - [Lifehacker] [This Apple Magic Keyboard Folio Is on Sale for $100 Right Now](https://lifehacker.com/apple-magic-keyboard-folio-sale)
-- [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)
-- [Lifehacker] [You Can Get This Löv HEPA Air Purifier on Sale for $105 Off Right Now](https://lifehacker.com/home/lov-hepa-air-purifier-sale)
-- [Lifehacker] [These Milwaukee Tool Sets Are Up to 55% Off at Home Depot](https://lifehacker.com/home/these-milwaukee-tool-sets-are-up-to-55-off-right-now-at-home-depot)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)<!-- TECH-POSTS:END -->
 
 ---
 
