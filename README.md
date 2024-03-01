@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deep in Javascript DOM Traversal 2](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-2-300g)
+- [Dev.to/JS] [Deep in Javascript DOM Traversal 1](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-1-2hoo)
+- [Dev.to/JS] [How not to useEffect](https://dev.to/lucassdesouza0/how-not-to-useeffect-30fm)
 - [Dev.to/JS] [🚀 Getting started with Vite](https://dev.to/bcostaaa01/getting-started-with-vite-4fah)
+- [Lifehacker] [The Google Pixel 7 Pro and 7 Are Seeing Big Discounts Right Now](https://lifehacker.com/google-pixel-7-deal)
+- [Lifehacker] [The Best Movies and TV Shows to Watch on Hulu in March](https://lifehacker.com/entertainment/the-best-shows-and-movies-on-hulu-this-month)
 - [Dev.to/JS] [Estimate the read time of an article without any library in JavaScript.](https://dev.to/lennyaiko/estimate-the-read-time-of-an-article-without-any-library-in-javascript-2k4e)
+- [Lifehacker] [Google Chrome Launched Three New Features Today](https://lifehacker.com/tech/google-launched-three-new-chrome-features-today)
 - [Lifehacker] [Air Frying Frozen Dumplings Creates a New Kind of Crispy](https://lifehacker.com/food-drink/air-fryer-frozen-dumpling-recipe)
 - [Dev.to/JS] [Episode 24/08: Discussion about effect&lpar;&rpar;, Signal Inputs, Developing with ChatGPT](https://dev.to/this-is-angular/episode-2408-discussion-about-effect-signal-inputs-developing-with-chatgpt-nai)
 - [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 12 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-5h64)
@@ -41,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This Month In Solid: SolidStart 0.6.0, Solid Docs Beta, and more 😎](https://dev.to/danieljcafonso/this-month-in-solid-solidstart-060-solid-docs-beta-and-more-lo8)
 - [Lifehacker] [HP Wants You to Subscribe to Your Next Printer](https://lifehacker.com/tech/hp-wants-you-to-subscribe-to-your-next-printer)
 - [Lifehacker] [The Best Pans Depending on What Style of Eggs You’re Making](https://lifehacker.com/food-drink/best-pans-for-eggs)
-- [Dev.to/JS] [Postman token automate code](https://dev.to/akash32755/postman-token-automate-code-3f7b)
-- [Dev.to/JS] [TypeLib JS &lpar;part 3&rpar; - Error debugging and conditional verification](https://dev.to/schemetastic/typelib-part-3-error-debugging-and-conditional-verification-46e9)
 - [Lifehacker] [You Can Use Flags to Disable the Touchscreen on a Chromebook](https://lifehacker.com/tech/how-to-disable-the-touchscreen-on-a-chromebook)
 - [Lifehacker] [How Low-E Windows &lpar;or Coating&rpar; Can Save You Money](https://lifehacker.com/home/benefits-of-low-e-windows)
-- [Dev.to/JS] [How to Implement React Infinite Scrolling with React Query v5](https://dev.to/getpieces/how-to-implement-react-infinite-scrolling-with-react-query-v5-1pjn)
 - [Lifehacker] [&#39;Lapse&#39; Is a Twist on Photo Sharing Apps](https://lifehacker.com/tech/lapse-new-photo-sharing-app)
 - [Lifehacker] [40 of the Horniest Movies Ever Made](https://lifehacker.com/horniest-movies-of-all-time)
 - [Lifehacker] [How to Migrate to Pocket Casts After Google Podcasts Shuts Down](https://lifehacker.com/entertainment/google-podcasts-is-shutting-down)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Search WhatsApp Messages by Date on Android Too](https://lifehacker.com/tech/how-to-search-for-messages-by-date-on-whatsapp)
 - [Lifehacker] [How &lpar;and Why&rpar; to Mark and Monitor Minor Cracks in Your Home](https://lifehacker.com/home/mark-the-endpoints-of-minor-cracks-in-your-ceiling-or-wall)
 - [Lifehacker] [Buy a Samsung Galaxy Book4, Get a Best Buy Gift Card Worth up to $200](https://lifehacker.com/tech/samsung-galaxy-book4-laptop-best-buy-promotion)
-- [Lifehacker] [You Can Get Dollar Flight Club on Sale for $40 Right Now](https://lifehacker.com/dollar-flight-club-sale)
-- [Lifehacker] [Don&#39;t Worry, Apple’s Journal App Probably Isn’t a Privacy Nightmare](https://lifehacker.com/tech/apples-journal-app-discoverable-by-others)
-- [Lifehacker] [How Long Do ‘Lifetime Warranties’ Actually Last?](https://lifehacker.com/money/how-long-do-lifetime-warranties-actually-last)
-- [Lifehacker] [Different Types of Bacon for All Your Salty, Smoky Needs](https://lifehacker.com/food-drink/all-the-different-types-of-bacon)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Dollar Flight Club on Sale for $40 Right Now](https://lifehacker.com/dollar-flight-club-sale)<!-- TECH-POSTS:END -->
 
 ---
 
