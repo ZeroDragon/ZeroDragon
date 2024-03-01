@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Event propagation, capturing, bubbling ?](https://dev.to/himanshudevgupta/what-is-event-propagation-capturing-bubbling--86)
+- [Dev.to/JS] [Custom Function Integration in Element Updater with MonsterJS](https://dev.to/schukai/custom-function-integration-in-element-updater-with-monsterjs-3blp)
+- [Dev.to/JS] [Reviving React — Facts &amp; Myths](https://dev.to/saikiran76/reviving-react-facts-myths-14ig)
+- [Dev.to/JS] [Kinds of Reactive Fibers](https://dev.to/ninjin/kinds-of-reactive-fibers-11mf)
 - [Dev.to/JS] [Find Open Source Projects Fast &lpar;short&rpar; 🔥](https://dev.to/rudransh61/find-open-source-projects-fast-short-4nih)
 - [Dev.to/JS] [👉Get Readymade On-demand Service Man App Development👈](https://dev.to/devoxtechmegha/get-readymade-on-demand-service-man-app-development-4o8g)
 - [Dev.to/JS] [Organic SEO Services](https://dev.to/freelancersdev-usa/organic-seo-services-93b)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 6: Handling Events in React](https://dev.to/pdhavalm/day-6-handling-events-in-react-1j58)
 - [Dev.to/JS] [👨‍💻 Splice method in JavaScript : Unveiling the Magic of JavaScript Arrays](https://dev.to/nameismani/unveiling-the-magic-of-javascript-arrays-a-deep-dive-into-the-splice-method-kfk)
 - [Dev.to/JS] [JWT Authentication in NodeJS](https://dev.to/arindam_1729/jwt-authentication-in-nodejs-863)
-- [Dev.to/JS] [P2P crypto exchange development: The ultimate guide for your business success](https://dev.to/sophiawils/p2p-crypto-exchange-development-the-ultimate-guide-for-your-business-success-2kgp)
-- [Dev.to/JS] [Object Cloning in Javascript](https://dev.to/nishchaldev/object-cloning-in-javascript-636)
-- [Dev.to/JS] [Understanding JSX in React: A Beginner’s Guide](https://dev.to/saikiran76/understanding-jsx-in-react-a-beginners-guide-ean)
-- [Dev.to/JS] [Implementing Internationalization in Apps: How to Translate Notifications](https://dev.to/novu/implementing-internationalization-in-apps-how-to-translate-notifications-2cgm)
 - [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
 - [Lifehacker] [Mix Dark and Light Mode on Mac with &#39;Gray&#39;](https://lifehacker.com/tech/gray-mix-dark-and-light-mode-on-mac)
