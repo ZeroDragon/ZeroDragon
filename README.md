@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Five Tutorials To Create Your Fullstack Apps Using AWS Amplify Gen 2](https://dev.to/aws/five-tutorials-to-create-your-fullstack-apps-using-aws-amplify-gen-2-29n3)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/dariusc16/higher-order-functions-1m48)
 - [Dev.to/JS] [Design Systems: From Atomic Design to a Global Solution](https://dev.to/codingcatdev/design-systems-from-atomic-design-to-a-global-solution-1fmc)
 - [Dev.to/JS] [This Month In Solid: SolidStart 0.6.0, Solid Docs Beta, and more 😎](https://dev.to/danieljcafonso/this-month-in-solid-solidstart-060-solid-docs-beta-and-more-lo8)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 11: Introduction to React Hooks](https://dev.to/pdhavalm/day-11-introduction-to-react-hooks-211m)
 - [Dev.to/JS] [Creating Interactive Calendar Charts in JavaScript](https://dev.to/bepely/creating-interactive-calendar-charts-in-javascript-4m9f)
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/lucasjohnsonnn38/buy-google-voice-accounts-1nb7)
-- [Dev.to/JS] [Time conversion](https://dev.to/kecbm/time-conversion-383d)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Prime in March](https://lifehacker.com/entertainment/the-best-movies-and-tv-shows-to-watch-on-prime)
 - [Lifehacker] [All the Changes to Know About Before Filing Your 2024 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Netflix in March](https://lifehacker.com/entertainment/best-movies-tv-shows-netflix-this-month)
