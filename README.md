@@ -26,10 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 24/08: Discussion about effect&lpar;&rpar;, Signal Inputs, Developing with ChatGPT](https://dev.to/this-is-angular/episode-2408-discussion-about-effect-signal-inputs-developing-with-chatgpt-nai)
+- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 12 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-5h64)
+- [Dev.to/JS] [Oidc node mongodb adapter in normal functions](https://dev.to/vimal_adithan/oidc-node-mongodb-adapter-in-normal-functions-2h50)
+- [Lifehacker] [The Best Products to Organize Your Tech](https://lifehacker.com/tech/best-products-to-organize-tech)
 - [Dev.to/JS] [Five Tutorials To Create Your Fullstack Apps Using AWS Amplify Gen 2](https://dev.to/aws/five-tutorials-to-create-your-fullstack-apps-using-aws-amplify-gen-2-29n3)
+- [Lifehacker] [Consider Adding a Solar Water Heater to Your Home](https://lifehacker.com/home/add-a-solar-water-heater-to-your-home)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/dariusc16/higher-order-functions-1m48)
 - [Dev.to/JS] [Design Systems: From Atomic Design to a Global Solution](https://dev.to/codingcatdev/design-systems-from-atomic-design-to-a-global-solution-1fmc)
 - [Dev.to/JS] [This Month In Solid: SolidStart 0.6.0, Solid Docs Beta, and more 😎](https://dev.to/danieljcafonso/this-month-in-solid-solidstart-060-solid-docs-beta-and-more-lo8)
+- [Lifehacker] [HP Wants You to Subscribe to Your Next Printer](https://lifehacker.com/tech/hp-wants-you-to-subscribe-to-your-next-printer)
 - [Lifehacker] [The Best Pans Depending on What Style of Eggs You’re Making](https://lifehacker.com/food-drink/best-pans-for-eggs)
 - [Dev.to/JS] [Postman token automate code](https://dev.to/akash32755/postman-token-automate-code-3f7b)
 - [Dev.to/JS] [TypeLib JS &lpar;part 3&rpar; - Error debugging and conditional verification](https://dev.to/schemetastic/typelib-part-3-error-debugging-and-conditional-verification-46e9)
@@ -41,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [40 of the Horniest Movies Ever Made](https://lifehacker.com/horniest-movies-of-all-time)
 - [Dev.to/JS] [Spoiler Alert: Import Alias in React + Vite](https://dev.to/navdeepm20/spoiler-alert-import-alias-in-react-vite-3apf)
 - [Lifehacker] [How to Migrate to Pocket Casts After Google Podcasts Shuts Down](https://lifehacker.com/entertainment/google-podcasts-is-shutting-down)
-- [Dev.to/JS] [Day 11: Introduction to React Hooks](https://dev.to/pdhavalm/day-11-introduction-to-react-hooks-211m)
-- [Dev.to/JS] [Creating Interactive Calendar Charts in JavaScript](https://dev.to/bepely/creating-interactive-calendar-charts-in-javascript-4m9f)
-- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/lucasjohnsonnn38/buy-google-voice-accounts-1nb7)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Prime in March](https://lifehacker.com/entertainment/the-best-movies-and-tv-shows-to-watch-on-prime)
 - [Lifehacker] [All the Changes to Know About Before Filing Your 2024 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Netflix in March](https://lifehacker.com/entertainment/best-movies-tv-shows-netflix-this-month)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Long Do ‘Lifetime Warranties’ Actually Last?](https://lifehacker.com/money/how-long-do-lifetime-warranties-actually-last)
 - [Lifehacker] [Different Types of Bacon for All Your Salty, Smoky Needs](https://lifehacker.com/food-drink/all-the-different-types-of-bacon)
 - [Lifehacker] [You Can Get This Bluetooth Smart Projector on Sale for $170 Right Now](https://lifehacker.com/tech/bluetooth-smart-projector-sale)
-- [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
-- [Lifehacker] [31 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
-- [Lifehacker] [Apple Now Lets You Repair Your Own M3 Mac](https://lifehacker.com/tech/how-to-repair-m3-mac)
-- [Lifehacker] [When to Withhold Payment From Your Contractor](https://lifehacker.com/money/when-to-withhold-contractor-payment)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)<!-- TECH-POSTS:END -->
 
 ---
 
