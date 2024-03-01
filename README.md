@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Getting started with Vite](https://dev.to/bcostaaa01/getting-started-with-vite-4fah)
 - [Dev.to/JS] [Estimate the read time of an article without any library in JavaScript.](https://dev.to/lennyaiko/estimate-the-read-time-of-an-article-without-any-library-in-javascript-2k4e)
 - [Lifehacker] [Air Frying Frozen Dumplings Creates a New Kind of Crispy](https://lifehacker.com/food-drink/air-fryer-frozen-dumpling-recipe)
 - [Dev.to/JS] [Episode 24/08: Discussion about effect&lpar;&rpar;, Signal Inputs, Developing with ChatGPT](https://dev.to/this-is-angular/episode-2408-discussion-about-effect-signal-inputs-developing-with-chatgpt-nai)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use Flags to Disable the Touchscreen on a Chromebook](https://lifehacker.com/tech/how-to-disable-the-touchscreen-on-a-chromebook)
 - [Lifehacker] [How Low-E Windows &lpar;or Coating&rpar; Can Save You Money](https://lifehacker.com/home/benefits-of-low-e-windows)
 - [Dev.to/JS] [How to Implement React Infinite Scrolling with React Query v5](https://dev.to/getpieces/how-to-implement-react-infinite-scrolling-with-react-query-v5-1pjn)
-- [Dev.to/JS] [What is REST API](https://dev.to/otumianempire/what-is-rest-api-53li)
 - [Lifehacker] [&#39;Lapse&#39; Is a Twist on Photo Sharing Apps](https://lifehacker.com/tech/lapse-new-photo-sharing-app)
 - [Lifehacker] [40 of the Horniest Movies Ever Made](https://lifehacker.com/horniest-movies-of-all-time)
 - [Lifehacker] [How to Migrate to Pocket Casts After Google Podcasts Shuts Down](https://lifehacker.com/entertainment/google-podcasts-is-shutting-down)
