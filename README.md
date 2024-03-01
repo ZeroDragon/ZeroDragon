@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 6: Handling Events in React](https://dev.to/pdhavalm/day-6-handling-events-in-react-1j58)
+- [Dev.to/JS] [👨‍💻 Splice method in JavaScript : Unveiling the Magic of JavaScript Arrays](https://dev.to/nameismani/unveiling-the-magic-of-javascript-arrays-a-deep-dive-into-the-splice-method-kfk)
+- [Dev.to/JS] [JWT Authentication in NodeJS](https://dev.to/arindam_1729/jwt-authentication-in-nodejs-863)
+- [Dev.to/JS] [P2P crypto exchange development: The ultimate guide for your business success](https://dev.to/sophiawils/p2p-crypto-exchange-development-the-ultimate-guide-for-your-business-success-2kgp)
 - [Dev.to/JS] [Object Cloning in Javascript](https://dev.to/nishchaldev/object-cloning-in-javascript-636)
 - [Dev.to/JS] [Understanding JSX in React: A Beginner’s Guide](https://dev.to/saikiran76/understanding-jsx-in-react-a-beginners-guide-ean)
 - [Dev.to/JS] [Implementing Internationalization in Apps: How to Translate Notifications](https://dev.to/novu/implementing-internationalization-in-apps-how-to-translate-notifications-2cgm)
@@ -39,14 +43,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Eufy Home Security Camera System for up to 40% Off](https://lifehacker.com/tech/eufy-home-security-camera-sale)
 - [Lifehacker] [You Can Now Search WhatsApp Messages by Date on Android Too](https://lifehacker.com/tech/how-to-search-for-messages-by-date-on-whatsapp)
 - [Dev.to/JS] [Jest Node.js and React](https://dev.to/akmaurya31/jest-nodejs-and-react-kl1)
-- [Dev.to/JS] [Testing library for Node.js and React](https://dev.to/akmaurya31/testing-library-for-nodejs-and-react-2nmg)
-- [Dev.to/JS] [Memoization](https://dev.to/akmaurya31/memoization-36i2)
 - [Lifehacker] [How &lpar;and Why&rpar; to Mark and Monitor Minor the Cracks in Your Home](https://lifehacker.com/home/mark-the-endpoints-of-minor-cracks-in-your-ceiling-or-wall)
 - [Lifehacker] [Buy a Samsung Galaxy Book4, Get a Best Buy Gift Card Worth up to $200](https://lifehacker.com/tech/samsung-galaxy-book4-laptop-best-buy-promotion)
 - [Lifehacker] [You Can Get Dollar Flight Club on Sale for $40 Right Now](https://lifehacker.com/dollar-flight-club-sale)
 - [Lifehacker] [Don&#39;t Worry, Apple’s Journal App Probably Isn’t a Privacy Nightmare](https://lifehacker.com/tech/apples-journal-app-discoverable-by-others)
-- [Dev.to/JS] [Lessons from opensource: How to check if your program has internet connectivity in Nodejs?](https://dev.to/ramunarasinga/lessons-from-opensource-how-to-check-if-your-program-has-internet-connectivity-in-nodejs-27f0)
-- [Dev.to/JS] [I made a Trivia Game](https://dev.to/arndom/i-made-a-trivia-game-4oj2)
 - [Lifehacker] [How Long Do ‘Lifetime Warranties’ Actually Last?](https://lifehacker.com/money/how-long-do-lifetime-warranties-actually-last)
 - [Lifehacker] [Different Types of Bacon for All Your Salty, Smoky Needs](https://lifehacker.com/food-drink/all-the-different-types-of-bacon)
 - [Lifehacker] [You Can Get This Bluetooth Smart Projector on Sale for $170 Right Now](https://lifehacker.com/tech/bluetooth-smart-projector-sale)
