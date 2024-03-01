@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Postman token automate code](https://dev.to/akash32755/postman-token-automate-code-3f7b)
+- [Dev.to/JS] [TypeLib JS &lpar;part 3&rpar; - Error debugging and conditional verification](https://dev.to/schemetastic/typelib-part-3-error-debugging-and-conditional-verification-46e9)
 - [Dev.to/JS] [What is REST API](https://dev.to/otumianempire/what-is-rest-api-53li)
 - [Lifehacker] [40 of the Horniest Movies Ever Made](https://lifehacker.com/horniest-movies-of-all-time)
 - [Dev.to/JS] [Spoiler Alert: Import Alias in React + Vite](https://dev.to/navdeepm20/spoiler-alert-import-alias-in-react-vite-3apf)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/lucasjohnsonnn38/buy-google-5-star-reviews-4oa6)
 - [Dev.to/JS] [Day 9: Forms in React](https://dev.to/pdhavalm/day-9-forms-in-react-3jig)
 - [Dev.to/JS] [Summary - Section 2](https://dev.to/crespo/summary-section-2-3n72)
-- [Dev.to/JS] [[Sparta Coding Club] Week 4 - Today I learned](https://dev.to/ajbaliga28/sparta-coding-club-week-4-today-i-learned-466a)
-- [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/lucasjohnsonnn38/buy-verified-paxful-account-2ndj)
 - [Lifehacker] [All the Changes to Know About Before Filing Your 2024 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Netflix in March](https://lifehacker.com/entertainment/best-movies-tv-shows-netflix-this-month)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
