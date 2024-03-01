@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Convert an image address into a file stream and upload it again](https://dev.to/ydydydq/convert-an-image-address-into-a-file-stream-and-upload-it-again-428o)
+- [Dev.to/JS] [Behind the Scenes of Chrome: The V8 Engine - Demystified!](https://dev.to/mohammad1105/behind-the-scenes-of-chrome-the-v8-engine-demystified-1j3o)
+- [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
 - [Lifehacker] [Mix Dark and Light Mode on Mac with &#39;Gray&#39;](https://lifehacker.com/tech/gray-mix-dark-and-light-mode-on-mac)
 - [Dev.to/JS] [Developing a Microservice to Check Content Availability on a Platform &lpar;Spotify, Deezer, Netflix&rpar;](https://dev.to/sampseiol1/developing-a-microservice-to-check-content-availability-on-a-platform-spotify-deezer-netflix-5789)
@@ -46,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Comparing JavaScript Array Methods: reverse&lpar;&rpar; vs toReversed&lpar;&rpar;](https://dev.to/ahmadadibzad/comparing-javascript-array-methods-reverse-vs-toreversed-36l0)
 - [Dev.to/JS] [Embed form builder with Javascript](https://dev.to/joyfill/embed-form-builder-with-javascript-3p0o)
 - [Dev.to/JS] [Dive into optimizing Node.js applications for speed and efficiency.](https://dev.to/mahabubr/dive-into-optimizing-nodejs-applications-for-speed-and-efficiency-41li)
-- [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript](https://dev.to/akashakki/mastering-asynchronous-programming-in-javascript-426o)
-- [Dev.to/JS] [Title: Meet Jacob Martin: Your Digital Marketing Visionary](https://dev.to/jacobmartin/title-meet-jacob-martin-your-digital-marketing-visionary-2725)
 - [Lifehacker] [You Can Get This Bluetooth Smart Projector on Sale for $170 Right Now](https://lifehacker.com/tech/bluetooth-smart-projector-sale)
 - [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
 - [Lifehacker] [31 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, February 29, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [There’s a New Way to Interview for Global Entry](https://lifehacker.com/travel/global-entry-on-departure)
 - [Lifehacker] [You Can Get This Löv HEPA Air Purifier on Sale for $105 Off Right Now](https://lifehacker.com/home/lov-hepa-air-purifier-sale)
-- [Lifehacker] [These Milwaukee Tool Sets Are Up to 55% Off at Home Depot](https://lifehacker.com/home/these-milwaukee-tool-sets-are-up-to-55-off-right-now-at-home-depot)
-- [Lifehacker] [These Are the Best Kinds of Exercise for Losing Weight](https://lifehacker.com/health/best-exercises-to-lose-weight)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Milwaukee Tool Sets Are Up to 55% Off at Home Depot](https://lifehacker.com/home/these-milwaukee-tool-sets-are-up-to-55-off-right-now-at-home-depot)<!-- TECH-POSTS:END -->
 
 ---
 
