@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Need Help with Uploading Large Video Files to S3 Using Chunking](https://dev.to/dkpatel123/need-help-with-uploading-large-video-files-to-s3-using-chunking-47ep)
 - [Dev.to/JS] [Convert an image address into a file stream and upload it again](https://dev.to/ydydydq/convert-an-image-address-into-a-file-stream-and-upload-it-again-428o)
 - [Dev.to/JS] [Behind the Scenes of Chrome: The V8 Engine - Demystified!](https://dev.to/mohammad1105/behind-the-scenes-of-chrome-the-v8-engine-demystified-1j3o)
 - [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Different Types of Bacon for All Your Salty, Smoky Needs](https://lifehacker.com/food-drink/all-the-different-types-of-bacon)
 - [Dev.to/JS] [Comparing JavaScript Array Methods: reverse&lpar;&rpar; vs toReversed&lpar;&rpar;](https://dev.to/ahmadadibzad/comparing-javascript-array-methods-reverse-vs-toreversed-36l0)
 - [Dev.to/JS] [Embed form builder with Javascript](https://dev.to/joyfill/embed-form-builder-with-javascript-3p0o)
-- [Dev.to/JS] [Dive into optimizing Node.js applications for speed and efficiency.](https://dev.to/mahabubr/dive-into-optimizing-nodejs-applications-for-speed-and-efficiency-41li)
 - [Lifehacker] [You Can Get This Bluetooth Smart Projector on Sale for $170 Right Now](https://lifehacker.com/tech/bluetooth-smart-projector-sale)
 - [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
 - [Lifehacker] [31 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
