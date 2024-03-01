@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developing a Microservice to Check Content Availability on a Platform &lpar;Spotify, Deezer, Netflix&rpar;](https://dev.to/sampseiol1/developing-a-microservice-to-check-content-availability-on-a-platform-spotify-deezer-netflix-5789)
+- [Lifehacker] [You Can Get a Eufy Home Security Camera System for up to 40% Off](https://lifehacker.com/tech/eufy-home-security-camera-sale)
+- [Lifehacker] [You Can Now Search WhatsApp Messages by Date on Android Too](https://lifehacker.com/tech/how-to-search-for-messages-by-date-on-whatsapp)
 - [Dev.to/JS] [Jest Node.js and React](https://dev.to/akmaurya31/jest-nodejs-and-react-kl1)
 - [Dev.to/JS] [Testing library for Node.js and React](https://dev.to/akmaurya31/testing-library-for-nodejs-and-react-2nmg)
 - [Dev.to/JS] [Memoization](https://dev.to/akmaurya31/memoization-36i2)
+- [Lifehacker] [How &lpar;and Why&rpar; to Mark and Monitor Minor the Cracks in Your Home](https://lifehacker.com/home/mark-the-endpoints-of-minor-cracks-in-your-ceiling-or-wall)
+- [Lifehacker] [Buy a Samsung Galaxy Book4, Get a Best Buy Gift Card Worth up to $200](https://lifehacker.com/tech/samsung-galaxy-book4-laptop-best-buy-promotion)
 - [Lifehacker] [You Can Get Dollar Flight Club on Sale for $40 Right Now](https://lifehacker.com/dollar-flight-club-sale)
 - [Lifehacker] [Don&#39;t Worry, Apple’s Journal App Probably Isn’t a Privacy Nightmare](https://lifehacker.com/tech/apples-journal-app-discoverable-by-others)
 - [Dev.to/JS] [Lessons from opensource: How to check if your program has internet connectivity in Nodejs?](https://dev.to/ramunarasinga/lessons-from-opensource-how-to-check-if-your-program-has-internet-connectivity-in-nodejs-27f0)
@@ -42,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript](https://dev.to/akashakki/mastering-asynchronous-programming-in-javascript-426o)
 - [Dev.to/JS] [Title: Meet Jacob Martin: Your Digital Marketing Visionary](https://dev.to/jacobmartin/title-meet-jacob-martin-your-digital-marketing-visionary-2725)
 - [Lifehacker] [You Can Get This Bluetooth Smart Projector on Sale for $170 Right Now](https://lifehacker.com/tech/bluetooth-smart-projector-sale)
-- [Dev.to/JS] [Data structure and algorithm techniques ...](https://dev.to/danbaba1/data-structure-and-algorithm-techniques--gk5)
 - [Lifehacker] [Why Now Is a Bad Time to Buy an iPad or MacBook Air](https://lifehacker.com/tech/dont-buy-an-ipad-or-macbook-air-now)
 - [Lifehacker] [31 Movies Where the Sex Scenes Are Essential](https://lifehacker.com/entertainment/the-best-movies-where-the-sex-scenes-are-essential)
 - [Lifehacker] [Apple Now Lets You Repair Your Own M3 Mac](https://lifehacker.com/tech/how-to-repair-m3-mac)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Milwaukee Tool Sets Are Up to 55% Off at Home Depot](https://lifehacker.com/home/these-milwaukee-tool-sets-are-up-to-55-off-right-now-at-home-depot)
 - [Lifehacker] [These Are the Best Kinds of Exercise for Losing Weight](https://lifehacker.com/health/best-exercises-to-lose-weight)
 - [Lifehacker] [The Samsung Galaxy Watch 6 Is 24% Off Right Now](https://lifehacker.com/tech/samsung-galaxy-watch-6-sale)
-- [Lifehacker] [Score These Meats and Vegetables Before Cooking](https://lifehacker.com/food-drink/how-to-score-tough-ingredients-before-cooking)
-- [Lifehacker] [You Can Get These Sony Over-the-Ear Headphones on Sale for $39 Right Now](https://lifehacker.com/tech/sony-over-ear-headphones-sale)
-- [Lifehacker] [Google Maps&#39; &#39;Glanceable Directions&#39; Are Here](https://lifehacker.com/tech/google-maps-glanceable-directions-are-here)
-- [Lifehacker] [How to Use an Instant Pot, Button by Button](https://lifehacker.com/how-to-use-instant-pot)
-- [Lifehacker] [The Amazon Fire Max 11 Is $90 Off Right Now](https://lifehacker.com/tech/the-amazon-fire-max-11-is-90-off-right-now)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Score These Meats and Vegetables Before Cooking](https://lifehacker.com/food-drink/how-to-score-tough-ingredients-before-cooking)<!-- TECH-POSTS:END -->
 
 ---
 
