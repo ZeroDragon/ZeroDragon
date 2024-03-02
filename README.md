@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handling SpreadSheets In Javascript](https://dev.to/kalashin1/handling-spreadsheets-in-javascript-3fe3)
+- [Dev.to/JS] [sagaUX: Elevating User Journey Through Expert UI UX Design Services | Top UI|UX Design Agency](https://dev.to/sagaux/sagaux-elevating-user-journey-through-expert-ui-ux-design-services-top-uiux-design-agency-3pfb)
+- [Dev.to/JS] [The God Object Dilemma: Simplifying Software Complexity](https://dev.to/ashishxcode/the-god-object-dilemma-simplifying-software-complexity-c61)
 - [Dev.to/JS] [Unveiling the Hype: Exploring the Kelly Clarkson Keto Gummies Craze](https://dev.to/kellyclarkso/unveiling-the-hype-exploring-the-kelly-clarkson-keto-gummies-craze-2eki)
 - [Dev.to/JS] [JavaScript for Beginners: A Step-by-Step Guide](https://dev.to/igbojionu/javascript-for-beginners-a-step-by-step-guide-2mg5)
 - [Dev.to/JS] [Best stresser list on 2024](https://dev.to/tommyclarki/best-stresser-list-on-2024-c43)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to code your custom HTTP client with Axios and React](https://dev.to/ataparvinghods/how-to-code-your-custom-http-client-with-axios-and-react-4ad7)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Dev.to/JS] [Axios: ¿Por que deberías usarlo en tu próximo proyecto?](https://dev.to/beresiartejuan/axios-por-que-deberias-usarlo-en-tu-proximo-proyecto-2oa3)
-- [Dev.to/JS] [Mi primer trabajo como Desarrollador Front-end Jr.](https://dev.to/dylanson25/mi-primer-trabajo-como-desarrollador-front-end-jr-3ag7)
 - [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)
 - [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)
-- [Dev.to/JS] [Deep in Javascript DOM Traversal 2](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-2-300g)
-- [Dev.to/JS] [Deep in Javascript DOM Traversal 1](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-1-2hoo)
 - [Lifehacker] [The Google Pixel 7 Pro and 7 Are Seeing Big Discounts Right Now](https://lifehacker.com/google-pixel-7-deal)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Hulu in March](https://lifehacker.com/entertainment/the-best-shows-and-movies-on-hulu-this-month)
 - [Lifehacker] [Google Chrome Launched Three New Features Today](https://lifehacker.com/tech/google-launched-three-new-chrome-features-today)
