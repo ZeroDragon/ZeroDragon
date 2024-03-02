@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Easily Download Pinterest Images, Videos, and Reels with Pinterest Downloader API](https://dev.to/justmobi/how-to-easily-download-pinterest-images-videos-and-reels-with-pinterest-downloader-api-39j8)
+- [Dev.to/JS] [Developing your own Chrome Extension - The Theory &lpar;Part 1&rpar;](https://dev.to/jolodev/developing-your-own-chrome-extension-the-theory-part-1-2d93)
 - [Dev.to/JS] [React or Vue, which JS framework is best?](https://dev.to/codewithshahan/react-or-vue-which-js-framework-is-best-25on)
 - [Dev.to/JS] [LeetCode Meditations: Valid Palindrome](https://dev.to/rivea0/leetcode-meditations-valid-palindrome-4nml)
 - [Dev.to/JS] [React - Building Chip and Chip Input Component from Scratch](https://dev.to/ashmunir/building-chips-and-chip-input-component-from-scratch-react-2gkk)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript](https://dev.to/whoamivoyager/javascript-50fc)
 - [Dev.to/JS] [JavaScript Objects vs JSON: Are they same?](https://dev.to/swapnoneel123/javascript-objects-vs-json-are-they-same-5hg2)
 - [Dev.to/JS] [Hello coders!](https://dev.to/lucius8/hello-coders-5bml)
-- [Dev.to/JS] [Dive into the World of Web Development: A Beginner&#39;s Guide](https://dev.to/hashirdev/dive-into-the-world-of-web-development-a-beginners-guide-29ip)
-- [Dev.to/JS] [Introducing Kaioken](https://dev.to/lankymoose/introducing-kaioken-23kj)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
