@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode Meditations: Valid Palindrome](https://dev.to/rivea0/leetcode-meditations-valid-palindrome-4nml)
+- [Dev.to/JS] [React - Building Chip and Chip Input Component from Scratch](https://dev.to/ashmunir/building-chips-and-chip-input-component-from-scratch-react-2gkk)
 - [Dev.to/JS] [Piping Hot: The Power of Pipe&lpar;&rpar; in Node.js Streams](https://dev.to/ruben_alapont/piping-hot-the-power-of-pipe-in-nodejs-streams-1846)
 - [Dev.to/JS] [React Strict DOM package](https://dev.to/ricardogesteves/react-strict-dom-package-1og1)
 - [Dev.to/JS] [Check Your Website&#39;s Performance: Testing Under Various Network Speeds](https://dev.to/richardshaju/check-your-websites-performance-testing-under-various-network-speeds-5cf2)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dive into the World of Web Development: A Beginner&#39;s Guide](https://dev.to/hashirdev/dive-into-the-world-of-web-development-a-beginners-guide-29ip)
 - [Dev.to/JS] [Introducing Kaioken](https://dev.to/lankymoose/introducing-kaioken-23kj)
 - [Dev.to/JS] [What are React Server Actions?](https://dev.to/this-is-learning/what-are-react-server-actions-147o)
-- [Dev.to/JS] [Interpretação e Legibilidade em Programação](https://dev.to/luccarele/interpretacao-e-legibilidade-em-programacao-74j)
-- [Dev.to/JS] [What is the difference between == and === operators](https://dev.to/lav-01/what-is-the-difference-between-and-operators-1okd)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
