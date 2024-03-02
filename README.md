@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Objects vs JSON: Are they same?](https://dev.to/swapnoneel123/javascript-objects-vs-json-are-they-same-5hg2)
+- [Dev.to/JS] [Hello coders!](https://dev.to/lucius8/hello-coders-5bml)
 - [Dev.to/JS] [Dive into the World of Web Development: A Beginner&#39;s Guide](https://dev.to/hashirdev/dive-into-the-world-of-web-development-a-beginners-guide-29ip)
 - [Dev.to/JS] [Introducing Kaioken](https://dev.to/lankymoose/introducing-kaioken-23kj)
 - [Dev.to/JS] [What are React Server Actions?](https://dev.to/this-is-learning/what-are-react-server-actions-147o)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Iterators and Generators in Javascript🔬](https://dev.to/naineel12/iterators-and-generators-in-javascript-1ip9)
 - [Dev.to/JS] [Lessons from opensource: Log &quot;new version is available&quot; to your CLI](https://dev.to/ramunarasinga/lessons-from-opensource-log-new-version-is-available-to-your-cli-52ii)
 - [Dev.to/JS] [Building an Infinite Scroll Component with Intersection Observer 🚀](https://dev.to/vikas2426/building-an-infinite-scroll-component-with-intersection-observer-17p1)
-- [Dev.to/JS] [Setting the cookies using the JS, axios and expressJS](https://dev.to/oatula/setting-the-cookies-using-the-js-axios-47jf)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
-- [Dev.to/JS] [Simplify Your JavaScript: Mastering Async/Await for Seamless Asynchronous Programming](https://dev.to/mattbug3/simplify-your-javascript-mastering-asyncawait-for-seamless-asynchronous-programming-2lf7)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)
