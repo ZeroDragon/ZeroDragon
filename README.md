@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplify Your JavaScript: Mastering Async/Await for Seamless Asynchronous Programming](https://dev.to/mattbug3/simplify-your-javascript-mastering-asyncawait-for-seamless-asynchronous-programming-2lf7)
+- [Dev.to/JS] [Common React Hook Questions](https://dev.to/dayvster/common-react-hook-questions-4901)
+- [Dev.to/JS] [Supercharge Your Website Search with Google&#39;s PSE!](https://dev.to/beginnerdeveloper/supercharge-your-website-search-with-googles-pse-2a0h)
 - [Dev.to/JS] [[html js css] Vanilla JS slider with responsivity, swipe, arrows, dots](https://dev.to/ktrblog/html-js-css-vanilla-js-responsive-slider-5coo)
 - [Dev.to/JS] [Why Vite is the best? Advanced Features of Vite](https://dev.to/codeparrot/why-vite-is-the-best-advanced-features-of-vite-3hp6)
 - [Dev.to/JS] [Webpack: The Web Module Bundler](https://dev.to/aniket_raikwar/webpack-the-web-module-bundler-1nad)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make it easier for yourself to develop using types-spring](https://dev.to/sanshain/how-to-make-it-easier-for-yourself-to-develop-using-types-spring-15ce)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Handling SpreadSheets In Javascript](https://dev.to/kalashin1/handling-spreadsheets-in-javascript-3fe3)
-- [Dev.to/JS] [sagaUX: Elevating User Journey Through Expert UI UX Design Services | Top UI|UX Design Agency](https://dev.to/sagaux/sagaux-elevating-user-journey-through-expert-ui-ux-design-services-top-uiux-design-agency-3pfb)
-- [Dev.to/JS] [The God Object Dilemma: Simplifying Software Complexity](https://dev.to/ashishxcode/the-god-object-dilemma-simplifying-software-complexity-c61)
-- [Dev.to/JS] [Unveiling the Hype: Exploring the Kelly Clarkson Keto Gummies Craze](https://dev.to/kellyclarkso/unveiling-the-hype-exploring-the-kelly-clarkson-keto-gummies-craze-2eki)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)
 - [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)
