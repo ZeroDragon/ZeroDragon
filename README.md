@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Hype: Exploring the Kelly Clarkson Keto Gummies Craze](https://dev.to/kellyclarkso/unveiling-the-hype-exploring-the-kelly-clarkson-keto-gummies-craze-2eki)
+- [Dev.to/JS] [JavaScript for Beginners: A Step-by-Step Guide](https://dev.to/igbojionu/javascript-for-beginners-a-step-by-step-guide-2mg5)
 - [Dev.to/JS] [Best stresser list on 2024](https://dev.to/tommyclarki/best-stresser-list-on-2024-c43)
 - [Dev.to/JS] [React Project &lpar;Celeb Short Bios&rpar;: Short &amp; Sweet!](https://dev.to/atultrp/react-celeb-bios-project-short-sweet-3b8a)
 - [Dev.to/JS] [Basic CSS and JavaScript Animations for an Interactive Web Page](https://dev.to/enlabe/basic-css-and-javascript-animations-for-an-interactive-web-page-3g8b)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)
 - [Dev.to/JS] [Deep in Javascript DOM Traversal 2](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-2-300g)
 - [Dev.to/JS] [Deep in Javascript DOM Traversal 1](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-1-2hoo)
-- [Dev.to/JS] [How not to useEffect](https://dev.to/lucassdesouza0/how-not-to-useeffect-30fm)
-- [Dev.to/JS] [🚀 Getting started with Vite](https://dev.to/bcostaaa01/getting-started-with-vite-4fah)
 - [Lifehacker] [The Google Pixel 7 Pro and 7 Are Seeing Big Discounts Right Now](https://lifehacker.com/google-pixel-7-deal)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Hulu in March](https://lifehacker.com/entertainment/the-best-shows-and-movies-on-hulu-this-month)
 - [Lifehacker] [Google Chrome Launched Three New Features Today](https://lifehacker.com/tech/google-launched-three-new-chrome-features-today)
