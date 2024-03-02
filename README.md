@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Webpack: The Web Module Bundler](https://dev.to/aniket_raikwar/webpack-the-web-module-bundler-1nad)
+- [Dev.to/JS] [Really Reactive React](https://dev.to/ninjin/really-reactive-react-4pl2)
+- [Dev.to/JS] [Joint Plus CBD GummiesReviews &lpar;Customer Warning Alert&rpar; Does It Really Scam Effective](https://dev.to/evelynpaulu/joint-plus-cbd-gummiesreviews-customer-warning-alert-does-it-really-scam-effective-52bk)
 - [Dev.to/JS] [Latest Newsletter: Antibiotics &amp; Podcasts &lpar;Issue #153&rpar;](https://dev.to/mjgs/latest-newsletter-antibiotics-podcasts-issue-153-2cmj)
 - [Dev.to/JS] [We Are Incapp Institute.](https://dev.to/incapp503/we-are-incapp-institute-545d)
 - [Dev.to/JS] [How to make it easier for yourself to develop using types-spring](https://dev.to/sanshain/how-to-make-it-easier-for-yourself-to-develop-using-types-spring-15ce)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unveiling the Hype: Exploring the Kelly Clarkson Keto Gummies Craze](https://dev.to/kellyclarkso/unveiling-the-hype-exploring-the-kelly-clarkson-keto-gummies-craze-2eki)
 - [Dev.to/JS] [JavaScript for Beginners: A Step-by-Step Guide](https://dev.to/igbojionu/javascript-for-beginners-a-step-by-step-guide-2mg5)
 - [Dev.to/JS] [Best stresser list on 2024](https://dev.to/tommyclarki/best-stresser-list-on-2024-c43)
-- [Dev.to/JS] [React Project &lpar;Celeb Short Bios&rpar;: Short &amp; Sweet!](https://dev.to/atultrp/react-celeb-bios-project-short-sweet-3b8a)
-- [Dev.to/JS] [Basic CSS and JavaScript Animations for an Interactive Web Page](https://dev.to/enlabe/basic-css-and-javascript-animations-for-an-interactive-web-page-3g8b)
-- [Dev.to/JS] [Animaciones CSS y JavaScript básicas para una página web interactiva](https://dev.to/enlabe/animaciones-css-y-javascript-basicas-para-una-pagina-web-interactiva-1dil)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)
 - [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)
