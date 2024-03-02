@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setting the cookies using the JS, axios and expressJS](https://dev.to/oatula/setting-the-cookies-using-the-js-axios-47jf)
 - [Dev.to/JS] [Simplify Your JavaScript: Mastering Async/Await for Seamless Asynchronous Programming](https://dev.to/mattbug3/simplify-your-javascript-mastering-asyncawait-for-seamless-asynchronous-programming-2lf7)
 - [Dev.to/JS] [Common React Hook Questions](https://dev.to/dayvster/common-react-hook-questions-4901)
 - [Dev.to/JS] [Supercharge Your Website Search with Google&#39;s PSE!](https://dev.to/beginnerdeveloper/supercharge-your-website-search-with-googles-pse-2a0h)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We Are Incapp Institute.](https://dev.to/incapp503/we-are-incapp-institute-545d)
 - [Dev.to/JS] [How to make it easier for yourself to develop using types-spring](https://dev.to/sanshain/how-to-make-it-easier-for-yourself-to-develop-using-types-spring-15ce)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [Handling SpreadSheets In Javascript](https://dev.to/kalashin1/handling-spreadsheets-in-javascript-3fe3)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)
 - [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)
