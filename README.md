@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Project &lpar;Celeb Short Bios&rpar;: Short &amp; Sweet!](https://dev.to/atultrp/react-celeb-bios-project-short-sweet-3b8a)
+- [Dev.to/JS] [Basic CSS and JavaScript Animations for an Interactive Web Page](https://dev.to/enlabe/basic-css-and-javascript-animations-for-an-interactive-web-page-3g8b)
+- [Dev.to/JS] [Animaciones CSS y JavaScript básicas para una página web interactiva](https://dev.to/enlabe/animaciones-css-y-javascript-basicas-para-una-pagina-web-interactiva-1dil)
 - [Dev.to/JS] [Unleash Your Creativity: Introducing DotStyle Tailwind UI builder](https://dev.to/mooncode/unleash-your-creativity-introducing-dotstyle-tailwind-ui-builder-p87)
 - [Dev.to/JS] [How to code your custom HTTP client with Axios and React](https://dev.to/ataparvinghods/how-to-code-your-custom-http-client-with-axios-and-react-4ad7)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
@@ -42,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Estimate the read time of an article without any library in JavaScript.](https://dev.to/lennyaiko/estimate-the-read-time-of-an-article-without-any-library-in-javascript-2k4e)
 - [Lifehacker] [Google Chrome Launched Three New Features Today](https://lifehacker.com/tech/google-launched-three-new-chrome-features-today)
 - [Lifehacker] [Air Frying Frozen Dumplings Creates a New Kind of Crispy](https://lifehacker.com/food-drink/air-fryer-frozen-dumpling-recipe)
-- [Dev.to/JS] [Episode 24/08: Discussion about effect&lpar;&rpar;, Signal Inputs, Developing with ChatGPT](https://dev.to/this-is-angular/episode-2408-discussion-about-effect-signal-inputs-developing-with-chatgpt-nai)
-- [Dev.to/JS] [Mastering Vue 3: A Comprehensive Guide to Building Modern Web Applications &lt;Part 12 /&gt;](https://dev.to/hanytaha61/mastering-vue-3-a-comprehensive-guide-to-building-modern-web-applications-5h64)
 - [Lifehacker] [Amazon Prime Members Can Get Two of These E-books Free in March](https://lifehacker.com/entertainment/amazon-free-kindle-books)
-- [Dev.to/JS] [Oidc node mongodb adapter in normal functions](https://dev.to/vimal_adithan/oidc-node-mongodb-adapter-in-normal-functions-2h50)
 - [Lifehacker] [The Best Products to Organize Your Tech](https://lifehacker.com/tech/best-products-to-organize-tech)
 - [Lifehacker] [Consider Adding a Solar Water Heater to Your Home](https://lifehacker.com/home/add-a-solar-water-heater-to-your-home)
 - [Lifehacker] [HP Wants You to Subscribe to Your Next Printer](https://lifehacker.com/tech/hp-wants-you-to-subscribe-to-your-next-printer)
