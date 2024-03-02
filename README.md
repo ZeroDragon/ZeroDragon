@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleash Your Creativity: Introducing DotStyle Tailwind UI builder](https://dev.to/mooncode/unleash-your-creativity-introducing-dotstyle-tailwind-ui-builder-p87)
+- [Dev.to/JS] [How to code your custom HTTP client with Axios and React](https://dev.to/ataparvinghods/how-to-code-your-custom-http-client-with-axios-and-react-4ad7)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Dev.to/JS] [Axios: ¿Por que deberías usarlo en tu próximo proyecto?](https://dev.to/beresiartejuan/axios-por-que-deberias-usarlo-en-tu-proximo-proyecto-2oa3)
 - [Dev.to/JS] [Mi primer trabajo como Desarrollador Front-end Jr.](https://dev.to/dylanson25/mi-primer-trabajo-como-desarrollador-front-end-jr-3ag7)
@@ -45,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Prime Members Can Get Two of These E-books Free in March](https://lifehacker.com/entertainment/amazon-free-kindle-books)
 - [Dev.to/JS] [Oidc node mongodb adapter in normal functions](https://dev.to/vimal_adithan/oidc-node-mongodb-adapter-in-normal-functions-2h50)
 - [Lifehacker] [The Best Products to Organize Your Tech](https://lifehacker.com/tech/best-products-to-organize-tech)
-- [Dev.to/JS] [Five Tutorials To Create Your Fullstack Apps Using AWS Amplify Gen 2](https://dev.to/aws/five-tutorials-to-create-your-fullstack-apps-using-aws-amplify-gen-2-29n3)
 - [Lifehacker] [Consider Adding a Solar Water Heater to Your Home](https://lifehacker.com/home/add-a-solar-water-heater-to-your-home)
-- [Dev.to/JS] [Higher Order Functions](https://dev.to/dariusc16/higher-order-functions-1m48)
 - [Lifehacker] [HP Wants You to Subscribe to Your Next Printer](https://lifehacker.com/tech/hp-wants-you-to-subscribe-to-your-next-printer)
 - [Lifehacker] [The Best Pans Depending on What Style of Eggs You’re Making](https://lifehacker.com/food-drink/best-pans-for-eggs)
 - [Lifehacker] [You Can Use Flags to Disable the Touchscreen on a Chromebook](https://lifehacker.com/tech/how-to-disable-the-touchscreen-on-a-chromebook)
