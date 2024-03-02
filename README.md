@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best stresser list on 2024](https://dev.to/tommyclarki/best-stresser-list-on-2024-c43)
 - [Dev.to/JS] [React Project &lpar;Celeb Short Bios&rpar;: Short &amp; Sweet!](https://dev.to/atultrp/react-celeb-bios-project-short-sweet-3b8a)
 - [Dev.to/JS] [Basic CSS and JavaScript Animations for an Interactive Web Page](https://dev.to/enlabe/basic-css-and-javascript-animations-for-an-interactive-web-page-3g8b)
 - [Dev.to/JS] [Animaciones CSS y JavaScript básicas para una página web interactiva](https://dev.to/enlabe/animaciones-css-y-javascript-basicas-para-una-pagina-web-interactiva-1dil)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Getting started with Vite](https://dev.to/bcostaaa01/getting-started-with-vite-4fah)
 - [Lifehacker] [The Google Pixel 7 Pro and 7 Are Seeing Big Discounts Right Now](https://lifehacker.com/google-pixel-7-deal)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Hulu in March](https://lifehacker.com/entertainment/the-best-shows-and-movies-on-hulu-this-month)
-- [Dev.to/JS] [Estimate the read time of an article without any library in JavaScript.](https://dev.to/lennyaiko/estimate-the-read-time-of-an-article-without-any-library-in-javascript-2k4e)
 - [Lifehacker] [Google Chrome Launched Three New Features Today](https://lifehacker.com/tech/google-launched-three-new-chrome-features-today)
 - [Lifehacker] [Air Frying Frozen Dumplings Creates a New Kind of Crispy](https://lifehacker.com/food-drink/air-fryer-frozen-dumpling-recipe)
 - [Lifehacker] [Amazon Prime Members Can Get Two of These E-books Free in March](https://lifehacker.com/entertainment/amazon-free-kindle-books)
