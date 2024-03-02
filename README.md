@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are React Server Actions?](https://dev.to/this-is-learning/what-are-react-server-actions-147o)
+- [Dev.to/JS] [Interpretação e Legibilidade em Programação](https://dev.to/luccarele/interpretacao-e-legibilidade-em-programacao-74j)
 - [Dev.to/JS] [What is the difference between == and === operators](https://dev.to/lav-01/what-is-the-difference-between-and-operators-1okd)
 - [Dev.to/JS] [Singleton pattern:](https://dev.to/lav-01/singleton-pattern-36nk)
 - [Dev.to/JS] [What is JavaScript?](https://dev.to/lav-01/what-is-javascript-5glm)
@@ -33,11 +35,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lessons from opensource: Log &quot;new version is available&quot; to your CLI](https://dev.to/ramunarasinga/lessons-from-opensource-log-new-version-is-available-to-your-cli-52ii)
 - [Dev.to/JS] [Building an Infinite Scroll Component with Intersection Observer 🚀](https://dev.to/vikas2426/building-an-infinite-scroll-component-with-intersection-observer-17p1)
 - [Dev.to/JS] [Setting the cookies using the JS, axios and expressJS](https://dev.to/oatula/setting-the-cookies-using-the-js-axios-47jf)
+- [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
+- [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Dev.to/JS] [Simplify Your JavaScript: Mastering Async/Await for Seamless Asynchronous Programming](https://dev.to/mattbug3/simplify-your-javascript-mastering-asyncawait-for-seamless-asynchronous-programming-2lf7)
 - [Dev.to/JS] [Common React Hook Questions](https://dev.to/dayvster/common-react-hook-questions-4901)
 - [Dev.to/JS] [Supercharge Your Website Search with Google&#39;s PSE!](https://dev.to/beginnerdeveloper/supercharge-your-website-search-with-googles-pse-2a0h)
-- [Dev.to/JS] [[html js css] Vanilla JS slider with responsivity, swipe, arrows, dots](https://dev.to/ktrblog/html-js-css-vanilla-js-responsive-slider-5coo)
-- [Dev.to/JS] [Why Vite is the best? Advanced Features of Vite](https://dev.to/codeparrot/why-vite-is-the-best-advanced-features-of-vite-3hp6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Handheld LCD Microscope on Sale for $82 Right Now](https://lifehacker.com/tech/lcd-microscope-sale)
 - [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
-- [Lifehacker] [Mix Dark and Light Mode on Mac with &#39;Gray&#39;](https://lifehacker.com/tech/gray-mix-dark-and-light-mode-on-mac)
-- [Lifehacker] [You Can Get a Eufy Home Security Camera System for up to 40% Off](https://lifehacker.com/tech/eufy-home-security-camera-sale)
-- [Lifehacker] [You Can Now Search WhatsApp Messages by Date on Android Too](https://lifehacker.com/tech/how-to-search-for-messages-by-date-on-whatsapp)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Mix Dark and Light Mode on Mac with &#39;Gray&#39;](https://lifehacker.com/tech/gray-mix-dark-and-light-mode-on-mac)<!-- TECH-POSTS:END -->
 
 ---
 
