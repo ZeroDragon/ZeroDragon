@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[html js css] Vanilla JS slider with responsivity, swipe, arrows, dots](https://dev.to/ktrblog/html-js-css-vanilla-js-responsive-slider-5coo)
+- [Dev.to/JS] [Why Vite is the best? Advanced Features of Vite](https://dev.to/codeparrot/why-vite-is-the-best-advanced-features-of-vite-3hp6)
 - [Dev.to/JS] [Webpack: The Web Module Bundler](https://dev.to/aniket_raikwar/webpack-the-web-module-bundler-1nad)
 - [Dev.to/JS] [Really Reactive React](https://dev.to/ninjin/really-reactive-react-4pl2)
 - [Dev.to/JS] [Joint Plus CBD GummiesReviews &lpar;Customer Warning Alert&rpar; Does It Really Scam Effective](https://dev.to/evelynpaulu/joint-plus-cbd-gummiesreviews-customer-warning-alert-does-it-really-scam-effective-52bk)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [sagaUX: Elevating User Journey Through Expert UI UX Design Services | Top UI|UX Design Agency](https://dev.to/sagaux/sagaux-elevating-user-journey-through-expert-ui-ux-design-services-top-uiux-design-agency-3pfb)
 - [Dev.to/JS] [The God Object Dilemma: Simplifying Software Complexity](https://dev.to/ashishxcode/the-god-object-dilemma-simplifying-software-complexity-c61)
 - [Dev.to/JS] [Unveiling the Hype: Exploring the Kelly Clarkson Keto Gummies Craze](https://dev.to/kellyclarkso/unveiling-the-hype-exploring-the-kelly-clarkson-keto-gummies-craze-2eki)
-- [Dev.to/JS] [JavaScript for Beginners: A Step-by-Step Guide](https://dev.to/igbojionu/javascript-for-beginners-a-step-by-step-guide-2mg5)
-- [Dev.to/JS] [Best stresser list on 2024](https://dev.to/tommyclarki/best-stresser-list-on-2024-c43)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
 - [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)
 - [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)
