@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Latest Newsletter: Antibiotics &amp; Podcasts &lpar;Issue #153&rpar;](https://dev.to/mjgs/latest-newsletter-antibiotics-podcasts-issue-153-2cmj)
+- [Dev.to/JS] [We Are Incapp Institute.](https://dev.to/incapp503/we-are-incapp-institute-545d)
+- [Dev.to/JS] [How to make it easier for yourself to develop using types-spring](https://dev.to/sanshain/how-to-make-it-easier-for-yourself-to-develop-using-types-spring-15ce)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Handling SpreadSheets In Javascript](https://dev.to/kalashin1/handling-spreadsheets-in-javascript-3fe3)
 - [Dev.to/JS] [sagaUX: Elevating User Journey Through Expert UI UX Design Services | Top UI|UX Design Agency](https://dev.to/sagaux/sagaux-elevating-user-journey-through-expert-ui-ux-design-services-top-uiux-design-agency-3pfb)
 - [Dev.to/JS] [The God Object Dilemma: Simplifying Software Complexity](https://dev.to/ashishxcode/the-god-object-dilemma-simplifying-software-complexity-c61)
@@ -35,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Project &lpar;Celeb Short Bios&rpar;: Short &amp; Sweet!](https://dev.to/atultrp/react-celeb-bios-project-short-sweet-3b8a)
 - [Dev.to/JS] [Basic CSS and JavaScript Animations for an Interactive Web Page](https://dev.to/enlabe/basic-css-and-javascript-animations-for-an-interactive-web-page-3g8b)
 - [Dev.to/JS] [Animaciones CSS y JavaScript básicas para una página web interactiva](https://dev.to/enlabe/animaciones-css-y-javascript-basicas-para-una-pagina-web-interactiva-1dil)
-- [Dev.to/JS] [Unleash Your Creativity: Introducing DotStyle Tailwind UI builder](https://dev.to/mooncode/unleash-your-creativity-introducing-dotstyle-tailwind-ui-builder-p87)
-- [Dev.to/JS] [How to code your custom HTTP client with Axios and React](https://dev.to/ataparvinghods/how-to-code-your-custom-http-client-with-axios-and-react-4ad7)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
-- [Dev.to/JS] [Axios: ¿Por que deberías usarlo en tu próximo proyecto?](https://dev.to/beresiartejuan/axios-por-que-deberias-usarlo-en-tu-proximo-proyecto-2oa3)
 - [Lifehacker] [Amazon Fire TV Sticks Are up to 40% Off Right Now](https://lifehacker.com/entertainment/amazon-fire-tv-sticks-are-up-to-40-off-right-now)
 - [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)
 - [Lifehacker] [The Google Pixel 7 Pro and 7 Are Seeing Big Discounts Right Now](https://lifehacker.com/google-pixel-7-deal)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Netflix in March](https://lifehacker.com/entertainment/best-movies-tv-shows-netflix-this-month)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [You Can Get This Handheld LCD Microscope on Sale for $82 Right Now](https://lifehacker.com/tech/lcd-microscope-sale)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, March 1, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)
 - [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
 - [Lifehacker] [Mix Dark and Light Mode on Mac with &#39;Gray&#39;](https://lifehacker.com/tech/gray-mix-dark-and-light-mode-on-mac)
