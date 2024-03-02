@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Axios: ¿Por que deberías usarlo en tu próximo proyecto?](https://dev.to/beresiartejuan/axios-por-que-deberias-usarlo-en-tu-proximo-proyecto-2oa3)
+- [Dev.to/JS] [Mi primer trabajo como Desarrollador Front-end Jr.](https://dev.to/dylanson25/mi-primer-trabajo-como-desarrollador-front-end-jr-3ag7)
+- [Lifehacker] [How to Make Gemini Your Default Assistant on Android](https://lifehacker.com/tech/how-to-make-gemini-your-default-assistant-on-android)
 - [Dev.to/JS] [Deep in Javascript DOM Traversal 2](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-2-300g)
 - [Dev.to/JS] [Deep in Javascript DOM Traversal 1](https://dev.to/fpaghar/deep-in-javascript-dom-traversal-1-2hoo)
 - [Dev.to/JS] [How not to useEffect](https://dev.to/lucassdesouza0/how-not-to-useeffect-30fm)
@@ -43,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Five Tutorials To Create Your Fullstack Apps Using AWS Amplify Gen 2](https://dev.to/aws/five-tutorials-to-create-your-fullstack-apps-using-aws-amplify-gen-2-29n3)
 - [Lifehacker] [Consider Adding a Solar Water Heater to Your Home](https://lifehacker.com/home/add-a-solar-water-heater-to-your-home)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/dariusc16/higher-order-functions-1m48)
-- [Dev.to/JS] [Design Systems: From Atomic Design to a Global Solution](https://dev.to/codingcatdev/design-systems-from-atomic-design-to-a-global-solution-1fmc)
-- [Dev.to/JS] [This Month In Solid: SolidStart 0.6.0, Solid Docs Beta, and more 😎](https://dev.to/danieljcafonso/this-month-in-solid-solidstart-060-solid-docs-beta-and-more-lo8)
 - [Lifehacker] [HP Wants You to Subscribe to Your Next Printer](https://lifehacker.com/tech/hp-wants-you-to-subscribe-to-your-next-printer)
 - [Lifehacker] [The Best Pans Depending on What Style of Eggs You’re Making](https://lifehacker.com/food-drink/best-pans-for-eggs)
 - [Lifehacker] [You Can Use Flags to Disable the Touchscreen on a Chromebook](https://lifehacker.com/tech/how-to-disable-the-touchscreen-on-a-chromebook)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Eufy Home Security Camera System for up to 40% Off](https://lifehacker.com/tech/eufy-home-security-camera-sale)
 - [Lifehacker] [You Can Now Search WhatsApp Messages by Date on Android Too](https://lifehacker.com/tech/how-to-search-for-messages-by-date-on-whatsapp)
 - [Lifehacker] [How &lpar;and Why&rpar; to Mark and Monitor Minor Cracks in Your Home](https://lifehacker.com/home/mark-the-endpoints-of-minor-cracks-in-your-ceiling-or-wall)
-- [Lifehacker] [Buy a Samsung Galaxy Book4, Get a Best Buy Gift Card Worth up to $200](https://lifehacker.com/tech/samsung-galaxy-book4-laptop-best-buy-promotion)
-- [Lifehacker] [You Can Get Dollar Flight Club on Sale for $40 Right Now](https://lifehacker.com/dollar-flight-club-sale)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Buy a Samsung Galaxy Book4, Get a Best Buy Gift Card Worth up to $200](https://lifehacker.com/tech/samsung-galaxy-book4-laptop-best-buy-promotion)<!-- TECH-POSTS:END -->
 
 ---
 
