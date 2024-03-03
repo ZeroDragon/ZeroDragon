@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Angular API Communication: A Guide to HTTP Interceptors](https://dev.to/chintanonweb/mastering-angular-api-communication-a-guide-to-http-interceptors-645)
+- [Dev.to/JS] [Mastering Angular&#39;s Asynchronous Magic: A Guide to Promises, Observables, and Subjects](https://dev.to/chintanonweb/mastering-angulars-asynchronous-magic-a-guide-to-promises-observables-and-subjects-24j7)
+- [Dev.to/JS] [Capturar, gravar e enviar um áudio no navegador](https://dev.to/julianosirtori/capturar-gravar-e-enviar-um-audio-no-navegador-18o5)
+- [Dev.to/JS] [Learning web development is hard](https://dev.to/pietrell/learning-web-development-is-hard-44cj)
+- [Dev.to/JS] [create vs. save in Mongoose &lpar;MongoDB&rpar; with Node.js](https://dev.to/shameel/create-vs-save-in-mongoose-mongodb-with-nodejs-7d3)
 - [Dev.to/JS] [Shielding Your Angular App: A Journey Through Guards](https://dev.to/chintanonweb/shielding-your-angular-app-a-journey-through-guards-gf9)
 - [Dev.to/JS] [Porque você deve adotar Atomic Design nos seus projetos?](https://dev.to/devdoido/porque-voce-deve-adotar-atomic-design-nos-seus-projetos-989)
 - [Dev.to/JS] [Understanding Redux: Solving State Management chaos](https://dev.to/margish288/understanding-redux-solving-state-management-chaos-84d)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [30 JavaScript Tricky Hacks](https://dev.to/mmainulhasan/30-javascript-tricky-hacks-gfc)
 - [Dev.to/JS] [What if anyone steals your JWT](https://dev.to/mrmonk/what-if-anyone-steals-your-jwt-41oc)
 - [Dev.to/JS] [Streamline JavaScript: Unleash the Power of Async/Await for Effortless Asynchronous Programming](https://dev.to/krunalrana/streamline-javascript-unleash-the-power-of-asyncawait-for-effortless-asynchronous-programming-2ml8)
-- [Dev.to/JS] [Efficient batch processing for event-driven chunking](https://dev.to/seongjin605/efficient-batch-processing-for-event-driven-chunking-3mg3)
-- [Dev.to/JS] [Handling Local Dates in JavaScript with `formatDateToLocalISO`](https://dev.to/mochafreddo/handling-local-dates-in-javascript-with-formatdatetolocaliso-5edk)
-- [Dev.to/JS] [Enhance Your Next.js or React.js Application with Froala Editor](https://dev.to/rohitashsingh89/enhance-your-nextjs-or-reactjs-application-with-froala-editor-1mal)
-- [Dev.to/JS] [Dev Blog: Building the Ultimate University Map](https://dev.to/blueskyson/dev-blog-building-the-ultimate-university-map-1lmf)
-- [Dev.to/JS] [Ensuring Reliability in Web Services: Mastering Idempotency in Node.js and JavaScript](https://dev.to/prabhuvikas/ensuring-reliability-in-web-services-mastering-idempotency-in-nodejs-and-javascript-31cf)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 3, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
