@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Next.js?](https://dev.to/success_obasi/what-is-nextjs-p5a)
 - [Dev.to/JS] [Building And Deploying A Subgraph &lpar;Part 2&rpar;](https://dev.to/oleanji/building-and-deploying-a-subgraph-part-2-4798)
 - [Dev.to/JS] [Things I learned while building my Component Library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-component-library-1pmc)
 - [Dev.to/JS] [My Virtual Internship Journey at Oasis Infobyte as a Web Developer: A Month of Learning and Growth.](https://dev.to/praneetk/my-virtual-internship-journey-at-oasis-infobyte-as-a-web-developer-a-month-of-learning-and-growth-1i3a)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/judtinsonnalln/buy-google-voice-accounts-2pe4)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/judtinsonnalln/buy-google-5-star-reviews-4ej8)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/judtinsonnalln/buy-verified-paxful-account-2abf)
-- [Dev.to/JS] [Entendendo o uso de async/await com Promises no Javascript.](https://dev.to/joao3g/entendendo-o-uso-de-asyncawait-com-promises-no-javascript-3ehp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 3, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
