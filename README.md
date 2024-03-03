@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create Arithmetic Operations Smart Contract in Blockchain Using Solidity](https://dev.to/daslaw/how-to-create-arithmetic-operations-smart-contract-in-blockchain-using-solidity-6gg)
+- [Dev.to/JS] [Unraveling the Potential of Blockchain Technology: Benefits, Limitations, and Securing the Future with Arbitrum](https://dev.to/daslaw/unraveling-the-potential-of-blockchain-technology-benefits-limitations-and-securing-the-future-with-arbitrum-52ok)
+- [Dev.to/JS] [The Singleton pattern in TypeScript](https://dev.to/ptheodosiou/the-singleton-pattern-in-typescript-128b)
+- [Dev.to/JS] [Reactive JSX](https://dev.to/ninjin/reactive-jsx-25k5)
 - [Dev.to/JS] [dramacool](https://dev.to/dramacool_la/dramacool-4omb)
 - [Dev.to/JS] [CSS selector for parent element? 🤨](https://dev.to/boringcoder53/css-selector-for-parent-element-34cj)
 - [Dev.to/JS] [Unlocking the Magic of Reactivity: A Journey Through Native JavaScript Data Binding](https://dev.to/omaratta212/unlocking-the-magic-of-reactivity-a-journey-through-native-javascript-data-binding-547e)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Criando seu primeiro aplicativo React Native do zero: Um guia passo a passo](https://dev.to/ocarlosfreitas/criando-seu-primeiro-aplicativo-react-native-do-zero-um-guia-passo-a-passo-3obo)
 - [Dev.to/JS] [Solved: Tailwind properties missing in production](https://dev.to/utk09/solved-tailwind-properties-missing-in-production-1ghc)
 - [Dev.to/JS] [How to Import TMDb Data into Google Sheets Using Apps Script: Automate Your Movie Database](https://dev.to/harishkotra/how-to-import-tmdb-data-into-google-sheets-using-apps-script-automate-your-movie-database-3lde)
-- [Dev.to/JS] [Top 10 Trending Features and Practices in React Development: A Comprehensive Overview](https://dev.to/pdhavalm/top-10-trending-features-and-practices-in-react-development-a-comprehensive-overview-1p1c)
-- [Dev.to/JS] [How to resolve vulnerabilities in Front-End Applications](https://dev.to/utk09/how-to-resolve-vulnerabilities-in-front-end-applications-508n)
-- [Dev.to/JS] [The State of Angular SSR Deployment in 2024](https://dev.to/jdgamble555/the-state-of-angular-ssr-deployment-in-2024-17jb)
-- [Dev.to/JS] [Verificando se item já existe em uma lista de objetos em JAVASCRIPT](https://dev.to/olucascruz/verificando-se-item-ja-existe-em-uma-lista-de-objetos-em-javascript-3h5j)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
