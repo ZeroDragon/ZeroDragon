@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buy verified cash app account](https://dev.to/judtinsonnalln/buy-verified-cash-app-account-59k1)
+- [Dev.to/JS] [Unveiling JavaScript: Your Gateway to the Dynamic Web](https://dev.to/hashirdev/unveiling-javascript-your-gateway-to-the-dynamic-web-3k2l)
+- [Dev.to/JS] [API Testing with Cypress - Part I](https://dev.to/m4rri4nne/api-testing-with-cypress-part-i-2k3i)
+- [Dev.to/JS] [Buy Google Voice Accounts](https://dev.to/judtinsonnalln/buy-google-voice-accounts-2pe4)
 - [Dev.to/JS] [Buy Google 5 Star Reviews](https://dev.to/judtinsonnalln/buy-google-5-star-reviews-4ej8)
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/judtinsonnalln/buy-verified-paxful-account-2abf)
 - [Dev.to/JS] [Entendendo o uso de async/await com Promises no Javascript.](https://dev.to/joao3g/entendendo-o-uso-de-asyncawait-com-promises-no-javascript-3ehp)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I am a front-end developer and I was looking for a job and I just want your help](https://dev.to/abo-eissa/i-am-a-front-end-developer-and-i-was-looking-for-a-job-and-i-just-want-your-help-5ghc)
 - [Dev.to/JS] [Mastering NGRX: A Comprehensive Guide to Building CRUD Apps with Angular](https://dev.to/chintanonweb/mastering-ngrx-a-comprehensive-guide-to-building-crud-apps-with-angular-4078)
 - [Dev.to/JS] [Optimizing ReactJS: Bulletproofing Against Memory Leaks](https://dev.to/chintanonweb/optimizing-reactjs-bulletproofing-against-memory-leaks-2gdb)
-- [Dev.to/JS] [Unveiling Vuex: Mastering State Management in Vue.js](https://dev.to/chintanonweb/unveiling-vuex-mastering-state-management-in-vuejs-4b9d)
-- [Dev.to/JS] [Mastering Angular API Communication: A Guide to HTTP Interceptors](https://dev.to/chintanonweb/mastering-angular-api-communication-a-guide-to-http-interceptors-645)
-- [Dev.to/JS] [Mastering Angular&#39;s Asynchronous Magic: A Guide to Promises, Observables, and Subjects](https://dev.to/chintanonweb/mastering-angulars-asynchronous-magic-a-guide-to-promises-observables-and-subjects-24j7)
-- [Dev.to/JS] [Capturar, gravar e enviar um áudio no navegador](https://dev.to/julianosirtori/capturar-gravar-e-enviar-um-audio-no-navegador-18o5)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 3, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
