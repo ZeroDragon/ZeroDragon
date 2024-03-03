@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Things I learned while building my Component Library](https://dev.to/mathuraditya7/things-i-learned-while-building-my-component-library-1pmc)
 - [Dev.to/JS] [My Virtual Internship Journey at Oasis Infobyte as a Web Developer: A Month of Learning and Growth.](https://dev.to/praneetk/my-virtual-internship-journey-at-oasis-infobyte-as-a-web-developer-a-month-of-learning-and-growth-1i3a)
 - [Dev.to/JS] [Um júnior e um teste técnico: The battle.](https://dev.to/clintonrocha98/um-junior-e-um-teste-tecnico-the-battle-4c5b)
 - [Dev.to/JS] [Goal to be have by every fullstack Developers](https://dev.to/vimal_adithan/goal-to-be-have-by-every-fullstack-developers-11c1)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Verified Paxful Account](https://dev.to/judtinsonnalln/buy-verified-paxful-account-2abf)
 - [Dev.to/JS] [Entendendo o uso de async/await com Promises no Javascript.](https://dev.to/joao3g/entendendo-o-uso-de-asyncawait-com-promises-no-javascript-3ehp)
 - [Dev.to/JS] [What is a promise](https://dev.to/lav-01/what-is-a-promise-1g77)
-- [Dev.to/JS] [A Simple Light/Dark Theme Toggle - My First NPM Package](https://dev.to/jjb9922/a-simple-lightdark-theme-toggle-my-first-npm-package-p04)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 3, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
