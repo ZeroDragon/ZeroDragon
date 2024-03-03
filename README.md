@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking the Magic of Reactivity: A Journey Through Native JavaScript Data Binding](https://dev.to/omaratta212/unlocking-the-magic-of-reactivity-a-journey-through-native-javascript-data-binding-547e)
+- [Dev.to/JS] [hhh](https://dev.to/dibrumardi/hhh-1bff)
 - [Dev.to/JS] [Exploring React Hooks: Simplifying State and Lifecycle in Functional Components](https://dev.to/anshumanmahato/exploring-react-hooks-simplifying-state-and-lifecycle-in-functional-components-56ch)
 - [Dev.to/JS] [Criando seu primeiro aplicativo React Native do zero: Um guia passo a passo](https://dev.to/ocarlosfreitas/criando-seu-primeiro-aplicativo-react-native-do-zero-um-guia-passo-a-passo-3obo)
 - [Dev.to/JS] [Solved: Tailwind properties missing in production](https://dev.to/utk09/solved-tailwind-properties-missing-in-production-1ghc)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Verificando se item já existe em uma lista de objetos em JAVASCRIPT](https://dev.to/olucascruz/verificando-se-item-ja-existe-em-uma-lista-de-objetos-em-javascript-3h5j)
 - [Dev.to/JS] [Learn how to document JavaScript/TypeScript code using JSDoc &amp; Typedoc](https://dev.to/mirzaleka/learn-how-to-document-javascripttypescript-code-using-jsdoc-typedoc-359h)
 - [Dev.to/JS] [Mastering NPM Library Creation: Bundling with Vite](https://dev.to/patinthehat/mastering-npm-library-creation-bundling-with-vite-e5d)
-- [Dev.to/JS] [How to Easily Download Pinterest Images, Videos, and Reels with Pinterest Downloader API](https://dev.to/justmobi/how-to-easily-download-pinterest-images-videos-and-reels-with-pinterest-downloader-api-39j8)
-- [Dev.to/JS] [Developing your own Chrome Extension - The Theory &lpar;Part 1&rpar;](https://dev.to/jolodev/developing-your-own-chrome-extension-the-theory-part-1-2d93)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
