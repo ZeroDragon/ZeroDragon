@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Verificando se item já existe em uma lista de objetos em JAVASCRIPT](https://dev.to/olucascruz/verificando-se-item-ja-existe-em-uma-lista-de-objetos-em-javascript-3h5j)
+- [Dev.to/JS] [Learn how to document JavaScript/TypeScript code using JSDoc &amp; Typedoc](https://dev.to/mirzaleka/learn-how-to-document-javascripttypescript-code-using-jsdoc-typedoc-359h)
+- [Dev.to/JS] [Mastering NPM Library Creation: Bundling with Vite](https://dev.to/patinthehat/mastering-npm-library-creation-bundling-with-vite-e5d)
 - [Dev.to/JS] [How to Easily Download Pinterest Images, Videos, and Reels with Pinterest Downloader API](https://dev.to/justmobi/how-to-easily-download-pinterest-images-videos-and-reels-with-pinterest-downloader-api-39j8)
 - [Dev.to/JS] [Developing your own Chrome Extension - The Theory &lpar;Part 1&rpar;](https://dev.to/jolodev/developing-your-own-chrome-extension-the-theory-part-1-2d93)
 - [Dev.to/JS] [React or Vue, which JS framework is best?](https://dev.to/codewithshahan/react-or-vue-which-js-framework-is-best-25on)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Strict DOM package](https://dev.to/ricardogesteves/react-strict-dom-package-1og1)
 - [Dev.to/JS] [Check Your Website&#39;s Performance: Testing Under Various Network Speeds](https://dev.to/richardshaju/check-your-websites-performance-testing-under-various-network-speeds-5cf2)
 - [Dev.to/JS] [New Project Using React Js](https://dev.to/vigneshherao/new-project-using-react-js-aof)
-- [Dev.to/JS] [Javascript](https://dev.to/whoamivoyager/javascript-50fc)
-- [Dev.to/JS] [JavaScript Objects vs JSON: Are they same?](https://dev.to/swapnoneel123/javascript-objects-vs-json-are-they-same-5hg2)
-- [Dev.to/JS] [Hello coders!](https://dev.to/lucius8/hello-coders-5bml)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
