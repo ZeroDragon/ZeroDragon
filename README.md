@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 Trending Features and Practices in React Development: A Comprehensive Overview](https://dev.to/pdhavalm/top-10-trending-features-and-practices-in-react-development-a-comprehensive-overview-1p1c)
+- [Dev.to/JS] [How to resolve vulnerabilities in Front-End Applications](https://dev.to/utk09/how-to-resolve-vulnerabilities-in-front-end-applications-508n)
 - [Dev.to/JS] [The State of Angular SSR Deployment in 2024](https://dev.to/jdgamble555/the-state-of-angular-ssr-deployment-in-2024-17jb)
 - [Dev.to/JS] [Verificando se item já existe em uma lista de objetos em JAVASCRIPT](https://dev.to/olucascruz/verificando-se-item-ja-existe-em-uma-lista-de-objetos-em-javascript-3h5j)
 - [Dev.to/JS] [Learn how to document JavaScript/TypeScript code using JSDoc &amp; Typedoc](https://dev.to/mirzaleka/learn-how-to-document-javascripttypescript-code-using-jsdoc-typedoc-359h)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode Meditations: Valid Palindrome](https://dev.to/rivea0/leetcode-meditations-valid-palindrome-4nml)
 - [Dev.to/JS] [React - Building Chip and Chip Input Component from Scratch](https://dev.to/ashmunir/building-chips-and-chip-input-component-from-scratch-react-2gkk)
 - [Dev.to/JS] [Piping Hot: The Power of Pipe&lpar;&rpar; in Node.js Streams](https://dev.to/ruben_alapont/piping-hot-the-power-of-pipe-in-nodejs-streams-1846)
-- [Dev.to/JS] [React Strict DOM package](https://dev.to/ricardogesteves/react-strict-dom-package-1og1)
-- [Dev.to/JS] [Check Your Website&#39;s Performance: Testing Under Various Network Speeds](https://dev.to/richardshaju/check-your-websites-performance-testing-under-various-network-speeds-5cf2)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
