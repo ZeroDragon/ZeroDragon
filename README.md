@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Porque você deve adotar Atomic Design nos seus projetos?](https://dev.to/devdoido/porque-voce-deve-adotar-atomic-design-nos-seus-projetos-989)
+- [Dev.to/JS] [Understanding Redux: Solving State Management chaos](https://dev.to/margish288/understanding-redux-solving-state-management-chaos-84d)
+- [Dev.to/JS] [REST API Consumption with feTS: A Practical Guide to Type-Safe HTTP Clients](https://dev.to/franciscomendes10866/rest-api-consumption-a-practical-guide-to-type-safe-http-clients-3343)
 - [Dev.to/JS] [30 JavaScript Tricky Hacks](https://dev.to/mmainulhasan/30-javascript-tricky-hacks-gfc)
 - [Dev.to/JS] [What if anyone steals your JWT](https://dev.to/mrmonk/what-if-anyone-steals-your-jwt-41oc)
 - [Dev.to/JS] [Streamline JavaScript: Unleash the Power of Async/Await for Effortless Asynchronous Programming](https://dev.to/krunalrana/streamline-javascript-unleash-the-power-of-asyncawait-for-effortless-asynchronous-programming-2ml8)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ensuring Reliability in Web Services: Mastering Idempotency in Node.js and JavaScript](https://dev.to/prabhuvikas/ensuring-reliability-in-web-services-mastering-idempotency-in-nodejs-and-javascript-31cf)
 - [Dev.to/JS] [Understanding the Power of Node.js in Blockchain Development](https://dev.to/daslaw/understanding-the-power-of-nodejs-in-blockchain-development-3da9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 3, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
-- [Dev.to/JS] [How to Create Arithmetic Operations Smart Contract in Blockchain Using Solidity](https://dev.to/daslaw/how-to-create-arithmetic-operations-smart-contract-in-blockchain-using-solidity-6gg)
-- [Dev.to/JS] [Unraveling the Potential of Blockchain Technology: Benefits, Limitations, and Securing the Future with Arbitrum](https://dev.to/daslaw/unraveling-the-potential-of-blockchain-technology-benefits-limitations-and-securing-the-future-with-arbitrum-52ok)
-- [Dev.to/JS] [The Singleton pattern in TypeScript](https://dev.to/ptheodosiou/the-singleton-pattern-in-typescript-128b)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
