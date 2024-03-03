@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shielding Your Angular App: A Journey Through Guards](https://dev.to/chintanonweb/shielding-your-angular-app-a-journey-through-guards-gf9)
 - [Dev.to/JS] [Porque você deve adotar Atomic Design nos seus projetos?](https://dev.to/devdoido/porque-voce-deve-adotar-atomic-design-nos-seus-projetos-989)
 - [Dev.to/JS] [Understanding Redux: Solving State Management chaos](https://dev.to/margish288/understanding-redux-solving-state-management-chaos-84d)
 - [Dev.to/JS] [REST API Consumption with feTS: A Practical Guide to Type-Safe HTTP Clients](https://dev.to/franciscomendes10866/rest-api-consumption-a-practical-guide-to-type-safe-http-clients-3343)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enhance Your Next.js or React.js Application with Froala Editor](https://dev.to/rohitashsingh89/enhance-your-nextjs-or-reactjs-application-with-froala-editor-1mal)
 - [Dev.to/JS] [Dev Blog: Building the Ultimate University Map](https://dev.to/blueskyson/dev-blog-building-the-ultimate-university-map-1lmf)
 - [Dev.to/JS] [Ensuring Reliability in Web Services: Mastering Idempotency in Node.js and JavaScript](https://dev.to/prabhuvikas/ensuring-reliability-in-web-services-mastering-idempotency-in-nodejs-and-javascript-31cf)
-- [Dev.to/JS] [Understanding the Power of Node.js in Blockchain Development](https://dev.to/daslaw/understanding-the-power-of-nodejs-in-blockchain-development-3da9)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 3, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
