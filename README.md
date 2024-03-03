@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [dramacool](https://dev.to/dramacool_la/dramacool-4omb)
+- [Dev.to/JS] [CSS selector for parent element? 🤨](https://dev.to/boringcoder53/css-selector-for-parent-element-34cj)
 - [Dev.to/JS] [Unlocking the Magic of Reactivity: A Journey Through Native JavaScript Data Binding](https://dev.to/omaratta212/unlocking-the-magic-of-reactivity-a-journey-through-native-javascript-data-binding-547e)
 - [Dev.to/JS] [hhh](https://dev.to/dibrumardi/hhh-1bff)
 - [Dev.to/JS] [Exploring React Hooks: Simplifying State and Lifecycle in Functional Components](https://dev.to/anshumanmahato/exploring-react-hooks-simplifying-state-and-lifecycle-in-functional-components-56ch)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to resolve vulnerabilities in Front-End Applications](https://dev.to/utk09/how-to-resolve-vulnerabilities-in-front-end-applications-508n)
 - [Dev.to/JS] [The State of Angular SSR Deployment in 2024](https://dev.to/jdgamble555/the-state-of-angular-ssr-deployment-in-2024-17jb)
 - [Dev.to/JS] [Verificando se item já existe em uma lista de objetos em JAVASCRIPT](https://dev.to/olucascruz/verificando-se-item-ja-existe-em-uma-lista-de-objetos-em-javascript-3h5j)
-- [Dev.to/JS] [Learn how to document JavaScript/TypeScript code using JSDoc &amp; Typedoc](https://dev.to/mirzaleka/learn-how-to-document-javascripttypescript-code-using-jsdoc-typedoc-359h)
-- [Dev.to/JS] [Mastering NPM Library Creation: Bundling with Vite](https://dev.to/patinthehat/mastering-npm-library-creation-bundling-with-vite-e5d)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, March 2, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
