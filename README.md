@@ -26,21 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lessons from opensource: Use Object.defineProperty to create an unwritable object’s property.](https://dev.to/ramunarasinga/lessons-from-opensource-use-objectdefineproperty-to-create-an-unwritable-objects-property-1dkk)
+- [Dev.to/JS] [Is it just my luck or does the Wi-Fi always drop at the most crucial moments?](https://dev.to/vivek09thakur/is-it-just-my-luck-or-does-the-wi-fi-always-drop-at-the-most-crucial-moments-22h0)
+- [Lifehacker] [The Best Movies and TV Shows to Watch on Max in March](https://lifehacker.com/entertainment/best-movies-and-tv-shows-on-max)
 - [Dev.to/JS] [Optimising your OpenSearch Ingestion pipeline using AWS CDK](https://dev.to/aws-builders/optimising-your-opensearch-ingestion-pipeline-using-aws-cdk-20dm)
 - [Dev.to/JS] [Angular - Faire un Interceptor pour vos requêtes HTTP.](https://dev.to/theobourdel/angular-faire-un-interceptor-pour-vos-requetes-http-1kdj)
 - [Dev.to/JS] [Safeguarding the Future: The Importance of Protecting the JavaScript Language](https://dev.to/professionalw0/safeguarding-the-future-the-importance-of-protecting-the-javascript-language-ia3)
 - [Dev.to/JS] [Como Configurar o Expo no WSL](https://dev.to/devhat/como-configurar-o-expo-no-wsl-bo3)
 - [Dev.to/JS] [como rodar um projeto Expo por um Virtual Device no WSL](https://dev.to/devhat/como-rodar-um-projeto-expo-por-um-virtual-device-no-wsl-2i16)
+- [Lifehacker] [Your Instagram DMs Are Getting an Upgrade](https://lifehacker.com/tech/new-instagram-dms-update)
 - [Dev.to/JS] [Utility fandom](https://dev.to/merri/utility-fandom-3epl)
 - [Dev.to/JS] [Vue.js tips - How to re-expose slots in wrapping component](https://dev.to/aloisseckar/vuejs-tips-how-to-re-expose-slots-in-wrapping-component-1n1)
 - [Dev.to/JS] [Conditionally Add CSS Classes in Your Stimulus Controllers](https://dev.to/railsdesigner/conditionally-add-css-classes-in-your-stimulus-controllers-42dg)
+- [Lifehacker] [Apple Just Surprise Launched the New M3 MacBook Air](https://lifehacker.com/tech/apple-surprise-announces-m3-macbook-air)
 - [Dev.to/JS] [Quick and easy loading spinner without JavaScript!](https://dev.to/lennyaiko/quick-and-easy-loading-spinner-without-javascript-3l51)
+- [Lifehacker] [You Might Already Be Able to File Your Taxes for Free With the IRS’s New Tool](https://lifehacker.com/money/do-taxes-for-free-irs-direct-file-program)
 - [Lifehacker] [How to Turn Your Juliet Balcony Into Functional Space](https://lifehacker.com/home/how-to-use-a-juliet-balcony)
 - [Lifehacker] [The M1 MacBook Air Is Still the Best Mac For Most People](https://lifehacker.com/tech/m1-macbook-air-is-best-mac)
 - [Dev.to/JS] [React top 50 concepts](https://dev.to/patfinder/react-top-50-concepts-i17)
-- [Dev.to/JS] [A Beginner&#39;s Guide to ReactJS: Unveiling the Power of Web Development](https://dev.to/shaon07/a-beginners-guide-to-reactjs-unveiling-the-power-of-web-development-5h4n)
 - [Lifehacker] [This 13-In-1 Docking Station Is on Sale for $40 Right Now](https://lifehacker.com/13-in-1-docking-station-sale)
-- [Dev.to/JS] [JS Trick Questtions](https://dev.to/akash32755/js-trick-questtions-406c)
 - [Lifehacker] [How to Delete Your Old iPhone Lock Screen Wallpapers](https://lifehacker.com/tech/how-to-delete-lock-screen-wallpapers-on-iphone)
 - [Lifehacker] [When You Should Buy Insects for Your Garden](https://lifehacker.com/home/adding-insects-to-garden)
 - [Lifehacker] [All the Gardening Tasks to Tackle in March](https://lifehacker.com/home/gardening-tasks-to-do-in-march)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Air Frying Frozen Dumplings Creates a New Kind of Crispy](https://lifehacker.com/food-drink/air-fryer-frozen-dumpling-recipe)
 - [Lifehacker] [Amazon Prime Members Can Get Two of These E-books Free in March](https://lifehacker.com/entertainment/amazon-free-kindle-books)
 - [Lifehacker] [The Best Products to Organize Your Tech](https://lifehacker.com/tech/best-products-to-organize-tech)
-- [Lifehacker] [Consider Adding a Solar Water Heater to Your Home](https://lifehacker.com/home/add-a-solar-water-heater-to-your-home)
-- [Lifehacker] [HP Wants You to Subscribe to Your Next Printer](https://lifehacker.com/tech/hp-wants-you-to-subscribe-to-your-next-printer)
-- [Lifehacker] [The Best Pans Depending on What Style of Eggs You’re Making](https://lifehacker.com/food-drink/best-pans-for-eggs)
-- [Lifehacker] [You Can Use Flags to Disable the Touchscreen on a Chromebook](https://lifehacker.com/tech/how-to-disable-the-touchscreen-on-a-chromebook)
-- [Lifehacker] [How Low-E Windows &lpar;or Coating&rpar; Can Save You Money](https://lifehacker.com/home/benefits-of-low-e-windows)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Consider Adding a Solar Water Heater to Your Home](https://lifehacker.com/home/add-a-solar-water-heater-to-your-home)<!-- TECH-POSTS:END -->
 
 ---
 
