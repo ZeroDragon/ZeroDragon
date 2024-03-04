@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Falsey values and -1 returns](https://dev.to/nicksalvatore/falsey-values-and-1-returns-45n)
+- [Dev.to/JS] [Using Redux with React Testing Library.](https://dev.to/jagodabieniek/using-redux-with-react-testing-library-15nc)
+- [Dev.to/JS] [Angular deferable views: Create a Lazy-loaded Youtube Player for a blog!](https://dev.to/thisiszoaib/angular-deferable-views-create-a-lazy-loaded-youtube-player-for-a-blog-2hca)
+- [Lifehacker] [These Are the Best Wi-Fi 6 Routers](https://lifehacker.com/tech/the-best-wi-fi-6-routers)
 - [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/rishabh07r/understanding-closures-in-javascript-3ig1)
+- [Lifehacker] [What’s the Ideal Temperature for Your Refrigerator?](https://lifehacker.com/what-temperature-should-you-keep-your-refrigerator-set-533534221)
 - [Dev.to/JS] [5 Essential Practices for Front-End Developers &lpar;React Edition&rpar;](https://dev.to/sufian/5-essential-practices-for-front-end-developers-react-edition-3h96)
 - [Dev.to/JS] [Cancelling asynchronous operations with AbortController](https://dev.to/schalkneethling/cancelling-asynchronous-operations-with-abortcontroller-22ef)
 - [Dev.to/JS] [Finding Your Way With .Map&lpar;&rpar;](https://dev.to/lav-01/finding-your-way-with-map-27oo)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crafting a User-Friendly Checkout Process with commercetools](https://dev.to/nitin-rachabathuni/crafting-a-user-friendly-checkout-process-with-commercetools-2gjl)
 - [Dev.to/JS] [Meteor v3 uses express under the hood – How to use and deploy it.](https://dev.to/meteor/meteor-v3-uses-express-under-the-hood-how-to-use-and-deploy-it-5c2n)
 - [Dev.to/JS] [Mastering Backbone.js Development: A Comprehensive Guide for Hiring Backbone.js Developers in 2024](https://dev.to/allenchrios/mastering-backbonejs-development-a-comprehensive-guide-for-hiring-backbonejs-developers-in-2024-ieg)
-- [Dev.to/JS] [Using Aria States To Toggle Tailwind Classes](https://dev.to/endymion1818/using-aria-states-to-toggle-tailwind-classes-1lef)
-- [Dev.to/JS] [What is Interaction to Next Paint &lpar;INP&rpar;?](https://dev.to/jacobandrewsky/what-is-interaction-to-next-paint-inp-3clc)
-- [Dev.to/JS] [Advanced JavaScript Tips for Developers](https://dev.to/mileswebhosting/advanced-javascript-tips-for-developers-2bb6)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 4, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Netflix in March](https://lifehacker.com/entertainment/best-movies-tv-shows-netflix-this-month)
 - [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)
 - [Lifehacker] [You Can Get This Handheld LCD Microscope on Sale for $82 Right Now](https://lifehacker.com/tech/lcd-microscope-sale)
-- [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)
-- [Lifehacker] [You Can Get Microsoft Visio 2021 Pro on Sale for $30 Right Now](https://lifehacker.com/tech/microsoft-visio-pro-sale)
-- [Lifehacker] [Mix Dark and Light Mode on Mac with &#39;Gray&#39;](https://lifehacker.com/tech/gray-mix-dark-and-light-mode-on-mac)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The New PS5 Slim Bundle With ‘Spider-Man 2’ Is $50 Off Right Now](https://lifehacker.com/entertainment/ps5-slim-edition-with-spider-man-2-bundle-discount)<!-- TECH-POSTS:END -->
 
 ---
 
