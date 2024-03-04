@@ -26,8 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a TikTok-Like Vertical Scroll Interface with Scroll Direction Indication](https://dev.to/sh20raj/how-to-create-a-tiktok-like-vertical-scroll-interface-with-scroll-direction-indication-40ka)
+- [Dev.to/JS] [What I got from Clean Architecture as a FE... &lpar;6-11&rpar;](https://dev.to/hgalvao/what-i-got-from-clean-architecture-as-a-fe-6-11-4bo0)
+- [Dev.to/JS] [Beyond console.log: Debugging Techniques in JavaScript](https://dev.to/clarity89/beyond-consolelog-debugging-techniques-in-javascript-7o0)
+- [Dev.to/JS] [Generic Types en TypeScript, desarrollo reutilizable y adaptable](https://dev.to/joanperamas/generic-types-en-typescript-desarrollo-reutilizable-y-adaptable-2mo9)
 - [Dev.to/JS] [What is React&#39;s useFormState and useFormStatus?](https://dev.to/this-is-learning/what-is-reacts-useformstate-and-useformstatus-22fj)
 - [Dev.to/JS] [How to Upload Files to Amazon S3 with React and AWS SDK](https://dev.to/aws-builders/how-to-upload-files-to-amazon-s3-with-react-and-aws-sdk-b0n)
+- [Lifehacker] [You Should Bury Fish Heads Under Your Tomato Plants](https://lifehacker.com/home/how-to-grow-the-best-tomatoes)
 - [Dev.to/JS] [Bundling using the Beast](https://dev.to/saikiran76/bundling-using-the-beast-1pnm)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $56 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
 - [Dev.to/JS] [Falsey values and -1 returns](https://dev.to/nicksalvatore/falsey-values-and-1-returns-45n)
@@ -38,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/rishabh07r/understanding-closures-in-javascript-3ig1)
 - [Lifehacker] [What’s the Ideal Temperature for Your Refrigerator?](https://lifehacker.com/what-temperature-should-you-keep-your-refrigerator-set-533534221)
 - [Dev.to/JS] [5 Essential Practices for Front-End Developers &lpar;React Edition&rpar;](https://dev.to/sufian/5-essential-practices-for-front-end-developers-react-edition-3h96)
-- [Dev.to/JS] [Cancelling asynchronous operations with AbortController](https://dev.to/schalkneethling/cancelling-asynchronous-operations-with-abortcontroller-22ef)
-- [Dev.to/JS] [Finding Your Way With .Map&lpar;&rpar;](https://dev.to/lav-01/finding-your-way-with-map-27oo)
-- [Dev.to/JS] [Joint Plus CBD Gummies Reviews &lpar;Warning Exposed 2024&rpar; Joint Plus CBD Gummies Review Natural Ingredients](https://dev.to/jointpluscbdgummies/joint-plus-cbd-gummies-reviews-warning-exposed-2024-joint-plus-cbd-gummies-review-natural-ingredients-4p1o)
-- [Dev.to/JS] [Usando Callbacks em Hooks Customizados do React](https://dev.to/alanpinhel/usando-callbacks-em-hooks-customizados-do-react-2c0f)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 4, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Migrate to Pocket Casts After Google Podcasts Shuts Down](https://lifehacker.com/entertainment/google-podcasts-is-shutting-down)
 - [Lifehacker] [The Best Movies and TV Shows to Watch on Prime in March](https://lifehacker.com/entertainment/the-best-movies-and-tv-shows-to-watch-on-prime)
 - [Lifehacker] [All the Changes to Know About Before Filing Your 2024 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
-- [Lifehacker] [The Best Movies and TV Shows to Watch on Netflix in March](https://lifehacker.com/entertainment/best-movies-tv-shows-netflix-this-month)
-- [Lifehacker] [The Best New Movies to Stream This Week](https://lifehacker.com/entertainment/best-new-movies-stream-this-week)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies and TV Shows to Watch on Netflix in March](https://lifehacker.com/entertainment/best-movies-tv-shows-netflix-this-month)<!-- TECH-POSTS:END -->
 
 ---
 
