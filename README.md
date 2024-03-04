@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Joint Plus CBD Gummies Reviews &lpar;Warning Exposed 2024&rpar; Joint Plus CBD Gummies Review Natural Ingredients](https://dev.to/jointpluscbdgummies/joint-plus-cbd-gummies-reviews-warning-exposed-2024-joint-plus-cbd-gummies-review-natural-ingredients-4p1o)
+- [Dev.to/JS] [Usando Callbacks em Hooks Customizados do React](https://dev.to/alanpinhel/usando-callbacks-em-hooks-customizados-do-react-2c0f)
+- [Dev.to/JS] [Crafting a User-Friendly Checkout Process with commercetools](https://dev.to/nitin-rachabathuni/crafting-a-user-friendly-checkout-process-with-commercetools-2gjl)
+- [Dev.to/JS] [Meteor v3 uses express under the hood – How to use and deploy it.](https://dev.to/meteor/meteor-v3-uses-express-under-the-hood-how-to-use-and-deploy-it-5c2n)
 - [Dev.to/JS] [Mastering Backbone.js Development: A Comprehensive Guide for Hiring Backbone.js Developers in 2024](https://dev.to/allenchrios/mastering-backbonejs-development-a-comprehensive-guide-for-hiring-backbonejs-developers-in-2024-ieg)
 - [Dev.to/JS] [Using Aria States To Toggle Tailwind Classes](https://dev.to/endymion1818/using-aria-states-to-toggle-tailwind-classes-1lef)
 - [Dev.to/JS] [What is Interaction to Next Paint &lpar;INP&rpar;?](https://dev.to/jacobandrewsky/what-is-interaction-to-next-paint-inp-3clc)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recursive elements in React](https://dev.to/keyurparalkar/recursive-elements-in-react-3jp1)
 - [Dev.to/JS] [Building this app. It can generate PPT in seconds.](https://dev.to/18xdeveloper/building-this-app-it-can-generate-ppt-in-seconds-31k2)
 - [Dev.to/JS] [Step-by-Step Tutorial: How to Achieve Perfect Knotless Braids](https://dev.to/arooj123456/step-by-step-tutorial-how-to-achieve-perfect-knotless-braids-c9k)
-- [Dev.to/JS] [Did first open source contribution](https://dev.to/rahilisvahora/did-first-open-source-contribution-32b3)
-- [Dev.to/JS] [Reactive DOM](https://dev.to/ninjin/reactive-dom-3172)
-- [Dev.to/JS] [WTH is Query String Parameters?](https://dev.to/sanjaykhanssk/wth-is-query-string-parameters-3pem)
-- [Dev.to/JS] [Node.js for Microservices: An Architectural Overview with Coding Examples](https://dev.to/nitin-rachabathuni/nodejs-for-microservices-an-architectural-overview-with-coding-examples-44fp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 4, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
