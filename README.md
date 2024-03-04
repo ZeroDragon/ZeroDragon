@@ -26,23 +26,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Trick Questtions](https://dev.to/akash32755/js-trick-questtions-406c)
+- [Dev.to/JS] [Understand Javascript let, var, const keywords](https://dev.to/snehalkadwe/understand-javascript-let-var-const-keywords-4ohf)
+- [Dev.to/JS] [How, and why, you should add JavaScript linting to your project. With ESLint and Gulp](https://dev.to/ashconnolly/how-and-why-you-should-add-javascript-linting-to-your-project-with-eslint-and-gulp-5g6j)
+- [Dev.to/JS] [Writing Clean, Reusable Components in Vue 3 &lpar;Composition API&rpar;: Best Practices](https://dev.to/hakimov_dev/writing-clean-reusable-components-in-vue-3-composition-api-best-practices-37mj)
+- [Dev.to/JS] [Conceptual Model of React in the RSC age](https://dev.to/ondrejvelisek/conceptual-model-of-react-in-the-rsc-age-5bn5)
+- [Lifehacker] [When You Should Buy Insects for Your Garden](https://lifehacker.com/home/adding-insects-to-garden)
 - [Dev.to/JS] [How to Create a TikTok-Like Vertical Scroll Interface with Scroll Direction Indication](https://dev.to/sh20raj/how-to-create-a-tiktok-like-vertical-scroll-interface-with-scroll-direction-indication-40ka)
 - [Dev.to/JS] [What I got from Clean Architecture as a FE... &lpar;6-11&rpar;](https://dev.to/hgalvao/what-i-got-from-clean-architecture-as-a-fe-6-11-4bo0)
 - [Dev.to/JS] [Beyond console.log: Debugging Techniques in JavaScript](https://dev.to/clarity89/beyond-consolelog-debugging-techniques-in-javascript-7o0)
+- [Lifehacker] [All the Gardening Tasks to Tackle in March](https://lifehacker.com/home/gardening-tasks-to-do-in-march)
 - [Dev.to/JS] [Generic Types en TypeScript, desarrollo reutilizable y adaptable](https://dev.to/joanperamas/generic-types-en-typescript-desarrollo-reutilizable-y-adaptable-2mo9)
 - [Dev.to/JS] [What is React&#39;s useFormState and useFormStatus?](https://dev.to/this-is-learning/what-is-reacts-useformstate-and-useformstatus-22fj)
 - [Dev.to/JS] [How to Upload Files to Amazon S3 with React and AWS SDK](https://dev.to/aws-builders/how-to-upload-files-to-amazon-s3-with-react-and-aws-sdk-b0n)
 - [Lifehacker] [You Should Bury Fish Heads Under Your Tomato Plants](https://lifehacker.com/home/how-to-grow-the-best-tomatoes)
 - [Dev.to/JS] [Bundling using the Beast](https://dev.to/saikiran76/bundling-using-the-beast-1pnm)
 - [Lifehacker] [You Can Get This Atari Game Station With Over 200 Games for $56 Right Now](https://lifehacker.com/entertainment/atari-game-station-sale)
-- [Dev.to/JS] [Falsey values and -1 returns](https://dev.to/nicksalvatore/falsey-values-and-1-returns-45n)
-- [Dev.to/JS] [Getting Started with Redux in React Testing Library: A Guide to Custom Render Functions.](https://dev.to/jagodabieniek/using-redux-with-react-testing-library-15nc)
 - [Lifehacker] [Did You Know Microsoft Excel Has a Hidden Camera?](https://lifehacker.com/tech/microsoft-excel-has-a-hidden-camera)
-- [Dev.to/JS] [Angular deferable views: Create a Lazy-loaded Youtube Player for a blog!](https://dev.to/thisiszoaib/angular-deferable-views-create-a-lazy-loaded-youtube-player-for-a-blog-2hca)
 - [Lifehacker] [These Are the Best Wi-Fi 6 Routers](https://lifehacker.com/tech/the-best-wi-fi-6-routers)
-- [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/rishabh07r/understanding-closures-in-javascript-3ig1)
 - [Lifehacker] [What’s the Ideal Temperature for Your Refrigerator?](https://lifehacker.com/what-temperature-should-you-keep-your-refrigerator-set-533534221)
-- [Dev.to/JS] [5 Essential Practices for Front-End Developers &lpar;React Edition&rpar;](https://dev.to/sufian/5-essential-practices-for-front-end-developers-react-edition-3h96)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 4, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Lapse&#39; Is a Twist on Photo Sharing Apps](https://lifehacker.com/tech/lapse-new-photo-sharing-app)
 - [Lifehacker] [40 of the Horniest Movies Ever Made](https://lifehacker.com/horniest-movies-of-all-time)
 - [Lifehacker] [How to Migrate to Pocket Casts After Google Podcasts Shuts Down](https://lifehacker.com/entertainment/google-podcasts-is-shutting-down)
-- [Lifehacker] [The Best Movies and TV Shows to Watch on Prime in March](https://lifehacker.com/entertainment/the-best-movies-and-tv-shows-to-watch-on-prime)
-- [Lifehacker] [All the Changes to Know About Before Filing Your 2024 Taxes](https://lifehacker.com/all-the-changes-worth-knowing-about-before-filing-your-1850074894)
-- [Lifehacker] [The Best Movies and TV Shows to Watch on Netflix in March](https://lifehacker.com/entertainment/best-movies-tv-shows-netflix-this-month)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Movies and TV Shows to Watch on Prime in March](https://lifehacker.com/entertainment/the-best-movies-and-tv-shows-to-watch-on-prime)<!-- TECH-POSTS:END -->
 
 ---
 
