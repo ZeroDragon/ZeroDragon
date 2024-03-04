@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building this app. It can generate PPT in seconds.](https://dev.to/18xdeveloper/building-this-app-it-can-generate-ppt-in-seconds-31k2)
+- [Dev.to/JS] [Step-by-Step Tutorial: How to Achieve Perfect Knotless Braids](https://dev.to/arooj123456/step-by-step-tutorial-how-to-achieve-perfect-knotless-braids-c9k)
+- [Dev.to/JS] [Did first open source contribution](https://dev.to/rahilisvahora/did-first-open-source-contribution-32b3)
+- [Dev.to/JS] [Reactive DOM](https://dev.to/ninjin/reactive-dom-3172)
 - [Dev.to/JS] [WTH is Query String Parameters?](https://dev.to/sanjaykhanssk/wth-is-query-string-parameters-3pem)
 - [Dev.to/JS] [Node.js for Microservices: An Architectural Overview with Coding Examples](https://dev.to/nitin-rachabathuni/nodejs-for-microservices-an-architectural-overview-with-coding-examples-44fp)
 - [Dev.to/JS] [Introduction to Clean Code Principles: A Deeper Dive with JavaScript Examples](https://dev.to/a_gaoba/introduction-to-clean-code-principles-a-deeper-dive-with-javascript-examples-1mca)
@@ -33,12 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TF #35 | Your weekly frontend digest](https://dev.to/tech-foutraque/tf-35-your-weekly-frontend-digest-41c5)
 - [Dev.to/JS] [Adding a React-native In-app Notification Feed for Real-time Updates](https://dev.to/suprsend/adding-a-react-native-in-app-notification-feed-for-real-time-updates-1l0a)
 - [Dev.to/JS] [Unlocking WordPress Mastery: Essential Tips and Techniques](https://dev.to/jamesmartindev/unlocking-wordpress-mastery-essential-tips-and-techniques-a7k)
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Monday, March 4, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Dev.to/JS] [Building a chat app: Chatrooms with Nodejs Websockets and Vue &lpar;PART 1&rpar;](https://dev.to/hssanbzlm/building-a-chat-app-chatrooms-with-nodejs-websockets-and-vue-part-1-1hn3)
-- [Dev.to/JS] [The React Ecosystem in 2024 - Part #1 🔥](https://dev.to/alisamirali/the-react-ecosystem-in-2024-part-1-4063)
-- [Dev.to/JS] [Buy Old Gmail Accounts](https://dev.to/billymurphyr7/buy-old-gmail-accounts-aa3)
-- [Dev.to/JS] [How to Create a To-do App with HTML, CSS, and Vanilla JavaScript with Local Storage](https://dev.to/vaatiesther/how-to-create-a-to-do-app-with-html-css-and-vanilla-javascript-with-local-storage-193g)
-- [Dev.to/JS] [React&#39;s Evolution: Moving Beyond Create React App](https://dev.to/mkrishnancodes/reacts-evolution-moving-beyond-create-react-app-2ho6)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Sunday, March 3, 2024](https://lifehacker.com/entertainment/wordle-hint-answer-today)
 - [Lifehacker] [The Best Tools for Outdoor Spring Cleaning](https://lifehacker.com/home/best-tools-for-outdoor-spring-cleaning)
 - [Lifehacker] [You Should Set ‘Anti-goals’ Too](https://lifehacker.com/work/set-anti-goals-to-get-more-done)
 - [Lifehacker] [The Best TV Series to Stream This Week](https://lifehacker.com/entertainment/best-new-tv-series-stream-this-week)
